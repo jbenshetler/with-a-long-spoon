@@ -1,4 +1,4 @@
-# The SATC / Confidante Track — Session 5
+# The SATC / Confidante Track
 
 ## Scenes, Escalations, and the Rules That Govern Them
 
@@ -19,7 +19,7 @@ Two distinct staircases live inside this track:
 
 ## THE VERBAL STAIRCASE — ESTABLISHED SEQUENCE
 
-(From summary_v4, canonical:)
+(From summary, canonical:)
 
 1. **Coffee after class** — Randi volunteers the take-charge guy unprompted. Doesn’t push when Vee deflects.
 1. **Smoothies** — a specific detail about the guy; slightly more specific question about what Vee wants. Lets go when deflected.

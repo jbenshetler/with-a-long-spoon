@@ -1,6 +1,6 @@
-# Pace — Architecture (v5)
+# Pace — Architecture
 
-*Companion to `novel_thesis_v5.md`, `vivienne_architecture_v3.md`, and `randi_architecture_v3.md`. Supersedes `pace_architecture_v4.md`.*
+*Companion to `novel_thesis.md`, `vivienne_architecture.md`, and `randi_architecture.md`.*
 
 *Major revisions from v4: the virtue-as-mechanism reframe is now load-bearing. Pace's goodness is not a coexistent virtue that fails to save the structure; it is the operational form of the appetite's destructiveness. The careful attention, the chivalric code, the consent-welded-to-arousal, the bar-quote method — these are the instruments through which the appetite achieves the depth of engagement it requires. A less attentive Pace would produce less alteration. The depth of the love is the depth of the damage. Over the long term, his careful attentive love is more damaging than any flogger. He is noble, right, and true by his own rules — and the destruction proceeds because the rules were perfectly executed. Oedipus territory.*
 
@@ -344,7 +344,7 @@ That is the novel. The title indicts no devil and absolves no participant. The h
 
 ## A Note on the Pairing
 
-Read with `novel_thesis_v5.md`, `randi_architecture_v3.md`, and `vivienne_architecture_v3.md`, this completes the four documents. The thesis names what the novel is doing. The two protagonist documents — this one and Randi's — map the consciousnesses the reader observes from outside. The Vivienne document maps the consciousness the reader inhabits.
+Read with `novel_thesis.md`, `randi_architecture.md`, and `vivienne_architecture.md`, this completes the four documents. The thesis names what the novel is doing. The two protagonist documents — this one and Randi's — map the consciousnesses the reader observes from outside. The Vivienne document maps the consciousness the reader inhabits.
 
 If the four documents disagree at any point, the disagreement is the structural argument of the novel. This document says Pace loved her well by his rules, which he kept perfectly; did not know about Randi's sadism; read Randi's body more accurately than she did at the pointing-game; performed the chivalric contract correctly; and will end inside the *not finally the lady* reading, with his code continuing to point him toward configurations that will destroy. Randi's document says she hates him, conceals her sadism from him, operates on Vee with the wound in motion, genuinely loves the friendship that is the only real thing in her life, and chose at a flat-date table to advance because the alternative was *nothing.* Vivienne's document says she carried an appetite for full aliveness that brought her into proximity with destructive appetites by its own logic, that Pace and Randi were the local instance of the appetite-class her appetite required, that she has kept her shame as fuel she now owns, and that she has chosen hunger over destruction.
 

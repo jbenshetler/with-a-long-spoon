@@ -1,6 +1,6 @@
-# Vivienne — Architecture and Weather (v4)
+# Vivienne — Architecture and Weather
 
-*Companion to `novel_thesis_v5.md`, `pace_architecture_v5.md`, and `randi_architecture_v3.md`. Supersedes `vivienne_architecture_v3.md`.*
+*Companion to `novel_thesis.md`, `pace_architecture.md`, and `randi_architecture.md`.*
 
 *Vee is the consciousness the reader inhabits most fully. This document marks each section as either **ARCHITECTURE** (structural facts the prose must honor) or **WEATHER** (interior movement to be discovered in scene). The architecture is fixed and load-bearing. The weather is generative and must remain genuinely open to what the prose finds when it gets there.*
 
@@ -354,7 +354,7 @@ That is Vee's specific tragedy at the long spoon's table. She was fed well. She 
 
 ## A Note on the Pairing
 
-Read with `novel_thesis_v5.md`, `pace_architecture_v5.md`, and `randi_architecture_v3.md`, this completes the four documents. The thesis names what the novel is doing. The two protagonist documents map the consciousnesses the reader observes from outside. This document maps the consciousness the reader inhabits.
+Read with `novel_thesis.md`, `pace_architecture.md`, and `randi_architecture.md`, this completes the four documents. The thesis names what the novel is doing. The two protagonist documents map the consciousnesses the reader observes from outside. This document maps the consciousness the reader inhabits.
 
 If the four documents disagree at any point, the disagreement is the structural argument of the novel. Pace's document says he loved her well — by his rules, which he kept perfectly — and did not perceive that his rules' perfect execution was the instrument of the damage; his future is slow attenuation he will not name. Randi's document says she hates Pace, conceals her sadism from him, operates on Vee with the wound in motion, genuinely loves the friendship that is the only real thing in her life, and chose at a flat-date table to advance because the alternative was *nothing*; her future is the seeking she has chosen, knowing it will not produce what the year produced. This document says Vee carried an appetite for full aliveness that would have brought her into proximity with destructive appetites by its own internal logic; that Pace and Randi were the local instance of the appetite-class her appetite required; that the catastrophe was both Randi-contingent and structurally inevitable; that she keeps what she became and what the year transformed in her, including her relationship to her shame; and that she has chosen hunger over destruction. The trade was correct on the terms available the first time. She will not take it again on these terms. The no is the equipment working.
 
