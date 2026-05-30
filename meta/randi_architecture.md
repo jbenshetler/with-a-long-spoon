@@ -1,6 +1,6 @@
-# Randi — Architecture and the Hollow Keeper (v3)
+# Randi — Architecture and the Hollow Keeper
 
-*Companion to `novel_thesis_v5.md`, `pace_architecture_v4.md`, and `vivienne_architecture_v3.md`. Supersedes `randi_architecture_v2.md`.*
+*Companion to `novel_thesis.md`, `pace_architecture.md`, and `vivienne_architecture.md`.*
 
 *Major revisions from v2: the structural blindness framing is replaced by half-seeing-and-choosing — Randi's wound is foreclosed at depth, but she can perceive enough of the alternative (throttling, the *nothing* of the conventionally proper life) to choose against it, and the choice is what makes her tragic rather than fated. The substitute-man scene is reframed as the flat-date / chosen-not-to-throttle moment: the conventionally proper man, the *nothing* he produces, the choice to return to the plan. A new section ("The Future — Seen What Real Is, Will Keep Seeking") names her post-novel condition: she has been shown what real is and cannot reassemble the conditions that produced it, and the seeking is her present tragedy, not a future trajectory. The closing image is updated to incorporate the seeking. The long-spoon section incorporates *there is no free lunch* — her choice is between the dangerous table and starvation; the flat date is the empirical confirmation. The bargain position (yes-with-data) is named.*
 
@@ -216,7 +216,7 @@ That is Randi at the long spoon's table. Fed at last. Starved by the feeding. Un
 
 ## A Note on the Pairing
 
-Read with `novel_thesis_v5.md`, `pace_architecture_v4.md`, and `vivienne_architecture_v3.md`, this completes the four documents. The thesis names what the novel is doing. The two protagonist documents map the consciousnesses the reader observes from outside. The Vivienne document maps the consciousness the reader inhabits.
+Read with `novel_thesis.md`, `pace_architecture.md`, and `vivienne_architecture.md`, this completes the four documents. The thesis names what the novel is doing. The two protagonist documents map the consciousnesses the reader observes from outside. The Vivienne document maps the consciousness the reader inhabits.
 
 If the four documents disagree at any point, the disagreement is the structural argument of the novel. Pace's document says he loved her well — by his rules, which he kept perfectly — and did not perceive that his rules' perfect execution was the instrument of the damage. Randi's document — this one — says she hates Pace, conceals her sadism from him, operates on Vee with the wound in motion, genuinely loves the friendship that is the only real thing in her life, and chose at a flat-date table to advance because the alternative was *nothing.* Vivienne's document says she was loved at high resolution by Pace, sexually involved with Randi across the year, destroyed by the discovery that the two relationships had been coordinated, kept her shame as fuel she now owns, and has chosen hunger over destruction. All four claims are true from inside their respective vantages. None is the whole truth. The whole truth is the novel itself, which renders all four simultaneously and lets the reader feel the disagreement without resolving it.
 

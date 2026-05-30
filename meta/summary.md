@@ -1,8 +1,8 @@
-# Novel Development Summary — Session 5
+# Novel Development Summary
 
 ## Erotic Fiction — Untitled Work in Progress
 
-This is the master overview and current scene inventory. It supersedes summary_v4.md. Deep detail now lives in three companion documents (see **Document Map** at the end); this summary points to them rather than duplicating them. **Where this document and v4 differ, this document is current.**
+This is the master overview and current scene inventory. Deep detail now lives in companion documents (see **Document Map** at the end); this summary points to them rather than duplicating them.
 
 -----
 
@@ -186,10 +186,10 @@ Order reflects Session 5 restructuring. **Major change from v4: the peaches scen
 
 ## Document Map
 
-- **summary_v5.md** *(this document)* — master overview and current scene inventory. Front door.
-- **character_relationship_bible.md** — full character detail, dynamics, best phrasings, global craft rules. Authoritative on character.
-- **satc_track_scenes.md** — the Randi/Vee confidante track: verbal and physical staircases, format-breaks, how to vary the brunches, dos and don’ts. Authoritative on the SATC track.
-- **threesome_and_reveal_master.md** — motivations, evolution, mechanics, the reveal, the resolution. Authoritative on the threesome and ending.
+- **summary.md** *(this document)* — master overview and current scene inventory. Front door.
+- **character-relationship-bible.md** — full character detail, dynamics, best phrasings, global craft rules. Authoritative on character.
+- **satc-track-scenes.md** — the Randi/Vee confidante track: verbal and physical staircases, format-breaks, how to vary the brunches, dos and don’ts. Authoritative on the SATC track.
+- **threesome-reveal.md** — motivations, evolution, mechanics, the reveal, the resolution. Authoritative on the threesome and ending.
 - **parallel_scene_map.md** *(Session 4)* — the beat-by-beat parallel map after Christmas break. Note: predates the peaches relocation and the closed ending; read against this summary where they differ.
 - **scenes_inventory.md** *(earlier)* — superseded by the inventory here; retained for historical beats.
 
@@ -197,4 +197,4 @@ Order reflects Session 5 restructuring. **Major change from v4: the peaches scen
 
 -----
 
-*Document current as of Session 5 development conversations. Supersedes summary_v4.md.*
+*Document current as of the Session 5 development pass.*

@@ -1,8 +1,39 @@
 # CLAUDE.md
 
+You are a writing assistant for a novel written in chapters (called scenes) for psychological literary erotica. 
+
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
 This is **not a codebase.** It is the working repository for *With a Long Spoon*, a novel-length work of psychological literary erotica written in chapters. There is nothing to build, lint, or test. "Architecture" below means the novel's structural argument and document hierarchy; "working conventions" replace build commands. Comp shelf: Gaitskill, Duras's *The Lover*, Salter's *A Sport and a Pastime*, *Story of O* — literary erotica where the structural argument and character interiority carry the load that plot mechanics carry in genre.
+
+## Research delegation
+When you need to look up information from other chapters, the character
+bible, individual character documents, or the novel thesis, delegate to a
+read-only subagent (Explore or lore-keeper) rather than reading those
+files into the main context yourself. Return only the specific facts needed.
+
+The subagent starts with a fresh context and cannot see the chapter
+currently being drafted or anything else in our conversation. When
+delegating, include in the prompt to the subagent:
+
+1. The specific question being asked.
+2. Any relevant snippet from the current draft or conversation that the
+   lookup needs to be checked against (quote the passage directly — do
+   not just refer to "the current scene" or "what I just wrote").
+3. Which sources to consult, if known (e.g., "check the character bible
+   and chapters 1-4"), otherwise let the subagent search broadly.
+4. What form the answer should take (a single fact, a continuity
+   verdict, a list of prior references, etc.).
+
+Example of a good delegation prompt:
+  "In the current draft, Marguerite picks up a teacup with her left hand:
+  'She lifted the cup with her left hand, the saucer trembling.' Check
+  the character bible and all prior chapters — has she ever been
+  established as left- or right-handed? Return the established fact
+  with source, or confirm no handedness has been specified."
+
+Example of a bad delegation prompt (missing the snippet):
+  "Check if Marguerite's handedness in this scene is consistent."
 
 ## Repository layout
 
@@ -13,15 +44,15 @@ There is no prose draft of most scenes yet; `meta/` is far ahead of `scenes/`. M
 
 ## Document authority — read in this order, trust in this order
 
-The corpus has accreted across numbered "Sessions" and document versions, so **newer documents silently supersede older ones and the filenames lie about currency.** Before acting on any plot/structure detail, reconcile against the most recent source. Known hazard: `meta/summary.md` is labeled "Session 5" and refers to a "v5" document map, but `meta/scene-plan-chronology.md` is "v8" and states it *supersedes summary_v7*. **The chronology doc is the newer scene inventory; the summary's inventory is stale where they conflict.** When in doubt, the higher version number and the `[NEW]` markers win — and flag the conflict rather than silently picking one.
+The corpus accreted across numbered "Sessions" and document versions. **Version tags have been removed from filenames — git is the version history now — but older prose still carries conceptual version/Session labels, and the documents still silently supersede one another on *content*.** Before acting on any plot/structure detail, reconcile against the most recent source. Known hazard: `meta/summary.md`'s scene inventory is stale where it conflicts with `meta/scene-plan-chronology.md` — **the chronology doc owns current scene order and inventory and wins on those.** When in doubt, prefer the chronology and the `[NEW]` markers — and flag the conflict rather than silently picking one.
 
 Authoritative-by-domain (each doc owns its subject; don't relitigate it elsewhere):
 
-- `meta/scene-plan-chronology.md` — **current scene order and inventory** (v8). Story order = list order. Carries live `[NEW]` beats and a "continuity flags to resolve" section at the bottom — check it before placing or reordering scenes.
+- `meta/scene-plan-chronology.md` — **current scene order and inventory**. Story order = list order. Carries live `[NEW]` beats and a "continuity flags to resolve" section at the bottom — check it before placing or reordering scenes.
 - `meta/summary.md` — master concept overview and document map. Front door for orientation; **inventory section is superseded** (see above).
 - `meta/character-relationship-bible.md` — authoritative on character, best phrasings to preserve, and the **Global Craft Rules** (the non-negotiables below live here in full).
-- `meta/novel_thesis_v5.md` — the structural argument: the three destructive appetites, the bargain, why each character half-sees. The "why" under everything.
-- `meta/pace_architecture_v5.md`, `meta/randi_architecture_v3.md`, `meta/vivienne_architecture_v4.md` — deep per-character architecture. Sections in the Vee doc are tagged `ARCHITECTURE` (fixed) vs `WEATHER` (mutable surface) — respect the distinction.
+- `meta/novel_thesis.md` — the structural argument: the three destructive appetites, the bargain, why each character half-sees. The "why" under everything.
+- `meta/pace_architecture.md`, `meta/randi_architecture.md`, `meta/vivienne_architecture.md` — deep per-character architecture. Sections in the Vee doc are tagged `ARCHITECTURE` (fixed) vs `WEATHER` (mutable surface) — respect the distinction.
 - `meta/satc-track-scenes.md` — authoritative on the Randi/Vee confidante track: the verbal and physical (goodbye-kiss) staircases, the format-break scenes, how to vary the brunches, and its own DOs/DON'Ts.
 - `meta/threesome-reveal.md` — authoritative on the climax: the two-tier blindfold structure, the kiss-as-sole-channel-of-identity, the reveal image, the closed (not ajar) ending.
 - `meta/notes-the-fitting.md` — scene-specific companion notes (the no-tag-shirt plant the Fitting pays off; the Shoe-Shopping scene to develop after it). Pattern for how scene-local notes are kept.
@@ -57,4 +88,4 @@ These are the project's hard constraints (full versions in the Bible's Global Cr
 - **Before writing a planned scene**, read its entry in `scene-plan-chronology.md`, the relevant track doc (SATC or threesome), and any scene-specific companion notes; check the continuity-flags section for unresolved ordering/identity issues touching that scene.
 - **When the plan conflicts with itself across documents**, surface the conflict and the version lineage rather than quietly resolving it — these are authorial decisions.
 - **Naming:** "Pace" (the D role / public self) vs "Peter" (the hidden true self) is load-bearing — if Vee uses "Peter," it should land. "Vee" / "Vivienne Thorne" (V.T. = Virginia Tech). Setting is Virginia Tech, Blacksburg.
-- **Filenames** are kebab-case in `scenes/`; `meta/` mixes kebab-case and snake_case with version suffixes (`_v5`, `_v3`). Follow the convention of the directory you're adding to.
+- **Filenames** are kebab-case in `scenes/`; `meta/` mixes kebab-case and snake_case (no version suffixes — git tracks history). Follow the convention of the directory you're adding to.

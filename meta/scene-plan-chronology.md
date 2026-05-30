@@ -1,6 +1,6 @@
-# Scene Plan — True Chronological Order (v8)
+# Scene Plan — True Chronological Order
 
-*Supersedes the inventory in summary_v7. Story order = list order. SATC = confidante-track retelling; FB = SATC format-break.*
+*Supersedes the inventory in summary.md. Story order = list order. SATC = confidante-track retelling; FB = SATC format-break.*
 
 **New in this version (marked `[NEW]`):**
 - **The Fitting** — the russet-silk dress-making scene (draft complete in `the_fitting.md`).

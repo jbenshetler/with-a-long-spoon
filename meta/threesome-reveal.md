@@ -1,4 +1,4 @@
-# The Threesome & Reveal — Master Document, Session 5
+# The Threesome & Reveal — Master Document
 
 ## The Novel’s Most Important Scene: Motivations, Mechanics, and the Resolution It Forces
 
