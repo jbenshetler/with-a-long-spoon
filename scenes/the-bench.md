@@ -4,15 +4,15 @@
 
 ---
 
-The room was warm when she came in, the kind of even unhurried warmth he kept the house at because he liked being able to take his time without thinking about whether someone else was cold. She had a key now. She used it. He heard the lock turn from where he was at the kitchen counter pouring water into the kettle, and he did not call out to her, and she did not call out to him, and the small economy of two people who had reached a stage of knowing each other settled across the house like a sheet being drawn.
+The room was warm when she came in, the kind of even unhurried warmth he kept the house at because he liked being able to take his time without thinking about whether someone else was cold. He had left the front door unlocked for her. He heard it open, and then the deadbolt turn over as she locked it behind her — she always locked it behind her, first thing, before anything else — and he came through the kitchen to meet her. He did not call out to her, and she did not call out to him, and the small economy of two people who had reached a stage of knowing each other settled across the house like a sheet being drawn.
 
-She came in past the kitchen and put her bag on the chair by the door — the small overnight bag, leather, monogrammed in a sorority hand, expensive in the slightly aggressive way her things were expensive — and crossed to him and put her arms around his waist from behind. He smelled her perfume, the one she had been wearing since the third week, gardenia and something colder underneath. He felt the press of her against his back. He turned the burner on under the kettle and turned in her arms and looked down at her face, which was tilted up at him with the slight perpetual surprise that her resting expression carried, the flat oval and the *startlingly* blue eyes which were the first thing anyone noticed about her and the thing she had built her whole adult life around being looked at for.
+She came in past the kitchen and put her bag on the chair by the door — the small overnight bag, leather, monogrammed in a sorority hand, expensive in the slightly aggressive way her things were expensive — and came into him and put her arms around him. He smelled her perfume, the one she had been wearing since the third week, gardenia and something colder underneath. He felt the press of her against him. He looked down at her face, which was tilted up at him with the slight perpetual surprise that her resting expression carried, the flat oval and the *startlingly* blue eyes which were the first thing anyone noticed about her and the thing she had built her whole adult life around being looked at for.
 
 "Hi," she said.
 
 "Hi," he said.
 
-He bent and kissed her, brief, warm, and she stayed there with her arms around him for a moment longer than the kiss took, which was a small thing she had started doing the second week and which he had registered as a request without needing to interpret it. He kissed the top of her head. She let him go and stepped back and tucked a piece of black hair behind her ear and looked around the kitchen as though she had not been here forty times before.
+He bent and kissed her, brief, warm, and she stayed there with her arms around him for a moment longer than the kiss took, which was a small thing she had started doing the second week and which he had registered as a request without needing to interpret it. He kissed the top of her head. She let him go and stepped back and tucked a piece of black hair behind her ear and looked around the kitchen as though she had not been here a half-dozen times before.
 
 "You're early," he said.
 
@@ -22,7 +22,7 @@ He bent and kissed her, brief, warm, and she stayed there with her arms around h
 
 "I have a paper. It's not due until Thursday."
 
-"Mm," he said. He turned back to the kettle. The water was beginning to make the small sound it made before it boiled. He set out two mugs and the box of the green tea she had decided she liked in the second week after he had served it to her once. "You ate?"
+"Mm," he said. He filled the kettle and set it on the burner, and while it heated he set out two mugs and the box of the green tea she had decided she liked in the second week after he had served it to her once. "You ate?"
 
 "Mostly."
 
@@ -36,11 +36,11 @@ He set the mug in front of her and his own across from her and they drank the te
 
 When she had finished the tea she set the mug down and looked at him directly. "What are we doing tonight," she said.
 
-It was not really a question. It was a request. She had asked it the same way in the third week and the fourth and now this would be the sixth or seventh time, and the asking was part of how she handed the evening to him. He had thought, the first time, that she was being coy. He had decided, by the third time, that she was actually asking him to choose. It was the only zone of her life in which she did not choose, and he had begun to understand, slowly, that it might be the only zone of her life she did not want to choose in.
+It was not really a question. It was a request. She had asked it the same way nearly every time — the sixth or seventh, he thought, though he didn't keep count; she had come rarely at first and then, lately, more and more — and the asking was part of how she handed the evening to him. He had thought, the first time, that she was being coy. He had decided, by the third time, that she was actually asking him to choose. It was the only zone of her life in which she did not choose, and he had begun to understand, slowly, that it might be the only zone of her life she did not want to choose in.
 
 He set his own mug down. "Come here," he said, quietly.
 
-She came around the counter to him. He turned her by the shoulders so she was facing the dining room — not the dining room, the room across the hall from the dining room, the room he had told her was his study and which she had been in once or twice when she had been waiting for him to finish something. The door was open. The light was on. She could see, from where she stood, the long bench at the center of it.
+She came around the counter to him. He turned her by the shoulders so she was facing the dining room — not the dining room, the room across the hall from the dining room, his bedroom, which she had been in once or twice when she had been waiting for him to finish something. The door was open. The light was on. She could see, from where she stood, the long bench at the center of it.
 
 She had seen the bench before. She had seen it the second time she was at the house, when he had taken her past it on the way somewhere else, and she had looked at it and looked at him with a small question on her face, and he had said *I'll show you sometime,* and she had nodded the small confident nod of a woman who knew there would be a sometime and was content to wait for it.
 
@@ -54,7 +54,7 @@ The top was leaning against the wall now. The bench was bare, the padded leather
 
 "You said it was a table."
 
-"I said it was a study."
+"I said it was a trestle."
 
 "You let me think it was a table."
 
@@ -94,7 +94,7 @@ She came to him. He kissed her, longer this time, his hand at the back of her ne
 
 "Face down," he said. "Hands on the grips. Get the position. I'll adjust you."
 
-She had to figure out how to climb onto it. She did, with the small concentration of a woman doing an unfamiliar physical task in front of a man whose opinion mattered. She got her knees on the leg supports, then her hands forward to the grips, then her chest onto the chest pad, her hips up over the pelvis support, her head dropping naturally toward the low point where her hands were. The bench had been made for a small woman; she fit it exactly. He watched her settle into the shape and then he came around behind her and put his hand at the small of her back and adjusted her hips a quarter-inch forward, and her ass came up another two degrees, and her sex was now visible from behind in the lamplight, pink under the dark triangle of her hair.
+She had to figure out how to climb onto it. She did, with the small concentration of a woman doing an unfamiliar physical task in front of a man whose opinion mattered. She got her knees on the leg supports, then her hands forward to the grips, then her chest onto the chest pad, her hips up over the pelvis support, her head dropping naturally toward the low point where her hands were. He had built the bench to adjust for his guest's size, and he had set it to her that afternoon, so she fit it exactly. He watched her settle into the shape and then he came around behind her and put his hand at the small of her back and adjusted her hips a quarter-inch forward, and her ass came up another two degrees, and her sex was now visible from behind in the lamplight, pink under the dark triangle of her hair.
 
 He adjusted the leg supports. He widened them slowly until her thighs were apart enough that he could see all of her. She made a small sound. He filed it. He set his palm flat against the small of her back again and slid it slowly down to the curve of her ass and lifted it.
 
@@ -362,9 +362,11 @@ The face was the face she had been looking at every morning since she was thirte
 
 The face was hers. She knew the face. She had known the face all her life.
 
-The face had just begged. The face had said *please, please, please* in a voice she had not used since she was a small child in tears asking her mother for something her mother was not going to give her. The face had said *I'm begging* out loud. The face had been heard saying it. The face was now the face of a woman who had begged a man, last name unknown to her own sorority sisters, while red and wet and face-down in his study.
+The face had just begged. The face had said *please, please, please* in a voice she had not used since she was a small child in tears asking her mother for something her mother was not going to give her. The face had said *I'm begging* out loud. The face had been heard saying it. The face was now the face of a woman who had begged a man, last name unknown to her own sorority sisters, while red and wet and face-down in his bedroom.
 
 She fixed a piece of hair.
+
+It was the sixth time she had come to this house. She knew it was the sixth — she knew all six, in order, the way she knew everything she kept: the first time and the rain in her hair, the gray wrap dress; the second, jeans, and the cashmere she'd left in the car so it wouldn't come home smelling of him; and on, each one, what she had worn and what he had done and what she had let him do, a clean ledger she could run start to finish without a gap. She ran it now, in the mirror, because it was hers and it was orderly and it was a thing she could still do. The ledger held. She held.
 
 She did not cry. She did not have any more crying available. The crying had gone somewhere where it was not currently accessible. There was, in the place where her crying had been, something that was not crying, that was not anything she had a name for, that was something like a low hum or a small unbearable interior pressure that she could feel along the inside of her ribs.
 
@@ -398,5 +400,7 @@ She did not know yet.
 
 She closed her eyes more tightly. She breathed against his neck. She let him hold her. The hum in her ribs continued, very low, very small, almost not there, the size of a key turning in a lock.
 
-Outside, in the hall, the bench sat in the lamplight with the leather of its working surfaces faintly damp in two places and the wooden top leaning against the wall where Pace had set it down. Tomorrow he would put the top back on and the bench would be a strange low table again, and she would walk past it on her way out of the house, and she would not look at it, and he would not say anything about it, and it would sit there in the hall the way an unwrapped gift sits on a counter, full of what it was, doing what it would continue to do, waiting for the next time.
+The bench sat in the lamplight, the leather of its working surfaces damp where she had been — several patches, of different sizes and different darknesses, soaking in at the edges, the whole of it like a Rorschach blot a person could find anything she was looking for in — and the wooden top leaning against the wall where Pace had set it down. Tomorrow he would put the top back on and the bench would be a strange low table again, and she would walk past it on her way out of the house, and she would not look at it, and he would not say anything about it, and it would sit there in the bedroom the way an unwrapped gift sits on a counter, full of what it was, doing what it would continue to do, waiting for the next time.
+
+
 

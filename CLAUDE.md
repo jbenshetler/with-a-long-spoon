@@ -6,31 +6,45 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 This is **not a codebase.** It is the working repository for *With a Long Spoon*, a novel-length work of psychological literary erotica written in chapters. There is nothing to build, lint, or test. "Architecture" below means the novel's structural argument and document hierarchy; "working conventions" replace build commands. Comp shelf: Gaitskill, Duras's *The Lover*, Salter's *A Sport and a Pastime*, *Story of O* — literary erotica where the structural argument and character interiority carry the load that plot mechanics carry in genre.
 
+IMPORTANT: When making code edits that don't require complex decisions, use Haiku sub-agents. 
+
 ## Research delegation
-When you need to look up information from other chapters, the character
-bible, individual character documents, or the novel thesis, delegate to a
-read-only subagent (Explore or lore-keeper) rather than reading those
-files into the main context yourself. Return only the specific facts needed.
+
+ALWAYS delegate factual lookups to a read-only subagent. Do NOT read
+chapter files, the character bible, individual character documents,
+or the novel thesis into the main context yourself.
+
+This rule applies whenever you need to:
+- Check a character's established traits, history, or prior actions
+- Verify continuity against earlier chapters
+- Confirm worldbuilding or magic-system rules
+- Look up the novel's thesis, themes, or stated intent
+- Find prior references to any name, place, object, or event
+
+Use the lore-keeper subagent by default. Use Explore for broader
+searches when lore-keeper isn't a fit. Only read these files directly
+into the main context if I explicitly tell you to.
 
 The subagent starts with a fresh context and cannot see the chapter
 currently being drafted or anything else in our conversation. When
-delegating, include in the prompt to the subagent:
+delegating, the prompt you send to the subagent MUST include:
 
 1. The specific question being asked.
-2. Any relevant snippet from the current draft or conversation that the
-   lookup needs to be checked against (quote the passage directly — do
-   not just refer to "the current scene" or "what I just wrote").
-3. Which sources to consult, if known (e.g., "check the character bible
-   and chapters 1-4"), otherwise let the subagent search broadly.
+2. Any relevant snippet from the current draft or conversation that
+   the lookup needs to be checked against — quote the passage
+   directly, do not refer vaguely to "the current scene" or "what
+   I just wrote."
+3. Which sources to consult, if known (e.g., "check the character
+   bible and chapters 1-4"); otherwise let the subagent search broadly.
 4. What form the answer should take (a single fact, a continuity
    verdict, a list of prior references, etc.).
 
 Example of a good delegation prompt:
-  "In the current draft, Marguerite picks up a teacup with her left hand:
-  'She lifted the cup with her left hand, the saucer trembling.' Check
-  the character bible and all prior chapters — has she ever been
-  established as left- or right-handed? Return the established fact
-  with source, or confirm no handedness has been specified."
+  "In the current draft, Marguerite picks up a teacup with her left
+  hand: 'She lifted the cup with her left hand, the saucer trembling.'
+  Check the character bible and all prior chapters — has she ever
+  been established as left- or right-handed? Return the established
+  fact with source, or confirm no handedness has been specified."
 
 Example of a bad delegation prompt (missing the snippet):
   "Check if Marguerite's handedness in this scene is consistent."
@@ -56,6 +70,7 @@ Authoritative-by-domain (each doc owns its subject; don't relitigate it elsewher
 - `meta/satc-track-scenes.md` — authoritative on the Randi/Vee confidante track: the verbal and physical (goodbye-kiss) staircases, the format-break scenes, how to vary the brunches, and its own DOs/DON'Ts.
 - `meta/threesome-reveal.md` — authoritative on the climax: the two-tier blindfold structure, the kiss-as-sole-channel-of-identity, the reveal image, the closed (not ajar) ending.
 - `meta/notes-the-fitting.md` — scene-specific companion notes (the no-tag-shirt plant the Fitting pays off; the Shoe-Shopping scene to develop after it). Pattern for how scene-local notes are kept.
+- `meta/pace-house.md` — the **set/continuity reference for Pace's house**: spatial layout (room by room), what's been committed to the page vs. still planned, recurring fixtures, and continuity flags. Authoritative on *where things are*; defers to the bible for what each room means.
 
 ## The core structural engine (the one thing to internalize)
 
