@@ -178,6 +178,14 @@ This reading is unfalsifiable from inside the chivalric system. If he concluded 
 
 This is the cruelest available form of his opacity, because the pity is sincere and the reading is wrong and there is no mechanism by which he can be brought to revise it. The grammar provides the explanation. The grammar is wrong. It is the only grammar he has.
 
+## The Deference Principle — Yielding Outside His Stakes
+
+**He leads by default, and yields the moment she'd rather not.** Outside his two real stakes — sex and love — Pace takes the lead as a matter of course: he pulls out the chair before he takes his own, picks the restaurant, chooses the route, sets the plan. But he holds the lead lightly. The instant a woman wants something else — a different restaurant, the other road, the chair turned the other way — he gives way without friction and without keeping score. The deference is not that he hands her every decision in advance; it is that he holds none of them tightly enough to override her once she has a preference. And he yields on principle, not convenience: where a thing costs him little and means something to her, the right move is to give way — to impose his preference there would be a kind of bullying, and he will not do it. That it costs him little does not make it small to him; the principle is important precisely *as* a principle, and the modest stakes are only what make it clean to apply.
+
+**Real, not performed.** This is not a manner he puts on to soften a mark, and not deference as tactic. He believes it. He is not yielding *toward* some end; he simply holds that it is wrong to override someone on what matters to them and not to him. The courtesy runs on genuine conviction — which is why it never reads as obsequious and never wavers, and why there is no calculation in it to detect.
+
+**Domain-limited — by where his stakes lie, not by any weakness in the principle.** The deference covers everything outside sex and love and stops, cleanly, at their border. Where the matter is the chair, he yields as a matter of course; where the matter is the erotic architecture, or the shape of the love, he holds — not because the principle failed but because those are the domains where the thing genuinely *is* important to him, and there the closed chivalric grammar governs instead (see the section above). It is the same man in both: the one who moves a chair without a second thought because she asked is the one who will not be moved on the thing that matters. On the page: a reader watching him cross a kitchen to turn a chair because she gestured should read settled good manners and a man at ease — never weakness, never submission, never a power reversal.
+
 ## The Irresistible Offer
 
 If you offered a twenty-year-old woman in college a year of the best sex of her life with a brilliant, attentive, creative, talented, non-lecherous man, almost none of them would say no.
