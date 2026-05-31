@@ -212,6 +212,8 @@ That is Randi at the long spoon's table. Fed at last. Starved by the feeding. Un
 
 13. **The closing image is the wound that learned to walk, carrying the seeking.** When the novel leaves Randi, leave her ambulant. Not destroyed. Not redeemed. Walking. Carrying the hate. Carrying the knowledge of what real is. Walking into the seeking she will spend the rest of her life inside. The last beat of her presence in the novel should be motion, not stasis — motion into a future she has already chosen, with the half-vision the flat date gave her, knowing in her body that the future will not feed her in the register the year did.
 
+14. **She locks the door behind her.** Whenever Randi lets herself into a space — Pace's house above all — she locks or bolts it behind her, first thing, no key needed, against Pace's habit of leaving the door open for the guest he expects. Render it as plain behavior, never as a stated symbol: his openness, her sealing. It is a standing contrast between them — he leaves himself open and is breached; she controls every threshold she crosses.
+
 ---
 
 ## A Note on the Pairing

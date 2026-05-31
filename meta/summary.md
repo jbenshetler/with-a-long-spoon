@@ -33,7 +33,9 @@ Both tracks arrive at the same destination — Vee’s body ready for the threes
 
 **Virginia Tech, Blacksburg, Virginia.** ~37,000 students (~27,000 undergrad). Large enough that three students sharing a statistics class without prior acquaintance is plausible; small enough that a sorority has genuine social weight. Substantial Greek system (~10–15%). Conservative campus culture, Southern/rural/cultural rather than religiously institutional — so Vee’s shame is personal and familial, giving her more agency in her arc. Strong engineering/math grad programs (credible for Pace). Mountains, college-town infrastructure.
 
-**Pace’s house:** Rented, a retreat not a showcase. He cooks and does woodworking there. No woman stayed there before Vee. He always went to their homes — partly neurology/comfort, not just concealment. Small recurring spaces (especially the bathroom Vee uses) become their own character.
+**Pace’s house:** He owns it — bought with the modest ongoing payments from his patent — a retreat not a showcase. He cooks and does woodworking there. His home is more private to him than sex is. Trying a woman out, the first few times are at her place or a motel (dorm rooms don’t serve); once the scenes turn kinkier he wants her at his place. Vee is the one he brings home early — he skips the motel stage because he has a good feeling about her, and the shortcut is itself a tell. Small recurring spaces (especially the bathroom) become their own character.
+
+**The bench:** Built before he knew Randi (he knew the shape before he knew who’d be on it), but used on only two women in the novel — Randi, then Vee. What it takes to make each of them capitulate is load-bearing: the difference *is* the difference between the two characters.
 
 **The dead-end road:** Pace’s house sits so Vee cannot casually spy — a wooded lot, no sight lines to the door. She drives toward it once and turns back. Impulse and restraint both characterful.
 
