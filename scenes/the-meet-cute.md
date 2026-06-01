@@ -50,25 +50,29 @@ The bell above the door tinkled.
 
 Vee did not look. People came in and out of the coffee shop all afternoon. She kept her gaze on the fan and let her shoulders drop a quarter inch and tried to remember whether the integration form she had seen in the third worked example was the form that would crack this one open, and concluded that she did not remember, and looked back down at the page.
 
-A shadow moved across her field of vision. Someone had stopped near their table.
+"Vee."
 
-"Sorry — "
+Cassie's voice was at its plain volume. Vee looked up. Cassie was looking past her toward the door, the small *huh* expression on her face that meant she was reporting something. She tilted her chin in the direction she was looking.
 
-The voice was a man's. She looked up.
+"That cute guy is looking at you."
 
-He was looking at her. His eyes were not on Randi. He was a stranger and his eyes had come straight to her face and stopped there. He had stopped at the corner of their table and his eyes were on Vee and he was about to apologize for something. Her body knew this before her mind did. Her shoulders settled differently. Something in her chest went quiet.
+Vee turned her head.
 
-"Sorry," he said again. "I couldn't help — " He gestured at her page with a small open-palm tilt of his hand. "That's calculus, right?"
+A man was walking toward their table. He had four steps to cover from the door to where they were sitting and he was using them — his eyes on her face the whole way, not on the table, not on Randi, on her. Her body got there before her mind did. Her shoulders settled differently. Something in her chest went quiet. By the time he reached the corner of their table she had been being looked at for what felt like, but could not have been, a long time.
 
-"Yes," Vee said.
+He stopped at the corner. He was looking at her.
 
-"Related rates?"
+Beside her, Randi's hand moved to her coffee cup. Vee did not see the movement. Vee was looking at the man who was looking at her.
 
-"Yes."
+"Sorry," he said. "It sounds like you're having trouble with math. Can I help?"
 
-"I do a lot of calculus," he said. "If you want a hand — well, let me look at it."
+Vee had been being looked at for the four steps it took him to cross the floor and she had not, until this moment, been required to do anything but be looked at. She did not want to do anything that would make the looking stop.
 
-He had not looked at Randi. Vee, in the small floating moment of being addressed, registered the not-looking the way her body registered the temperature of the room — without comment, as a fact about the air. Then her social face came online and she became aware that she had not introduced herself and that the offer was a real offer and that the courteous response was to take it or decline it. She took it.
+"It's pretty hard," she said. "It's calculus."
+
+"Let me give it a try."
+
+The voice was smaller this time — different from the one he had used a half-sentence ago. He was still looking at her. Her social face came online and she became aware that she had not introduced herself and that the offer was a real offer and that the courteous response was to take it or decline it. She took it.
 
 "Yes," she said. "Please. Thank you."
 
