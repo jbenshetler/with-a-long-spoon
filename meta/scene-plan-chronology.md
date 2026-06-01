@@ -7,6 +7,7 @@
 - **Shoe Shopping with Randi** — SATC; Randi learns of the dress, the shopping-together format is established.
 - **Randi & Pace — "Sweet" / The First Planted Clue** — Randi denigrates the homemade dress to Pace's face *and* plants the first clue for Vee to find. One scene, two jobs.
 - **Vee Finds the First Clue** — the payoff of the plant, launching the accumulating planted-clues thread.
+- **The Porch Scene — Cracker-and-Meal** — quiet mid-novel beat where Vee speaks her displacement *I love you* as the cracker-and-meal figure; Pace understands and routes it down the sex-channel; Vee cannot tell whether he understood or didn't; load-bearing grain for the Christmas fight (draft in `porch-scene.md`).
 
 See continuity flags at the end — one ordering wrinkle to resolve.
 
@@ -78,27 +79,29 @@ See continuity flags at the end — one ordering wrinkle to resolve.
 
 26. **Bondage.** Restraint removes the question of her hands — a gift for involuntary-response shame. Told to Randi *(SATC)*; voice changes; *"Comfortable?"*
 
+27. **`[NEW]` The Porch Scene — Cracker-and-Meal.** *(Quiet midpoint beat; draft in `porch-scene.md`. Vee's POV; pre-dawn, enclosed porch, the two of them watching the sun come up after a night that has reached the depth bondage and the SATC reports have been building toward.)* Vee has been thinking for weeks about a figure for what Pace has given her. She has been carrying *I love you* in her body for longer; the convention that he-says-it-first prevents her from declaring directly. She produces the figure whole: *I had been eating crackers my whole life and you fed me a meal.* The bravery is the speech act — she has thought it through, she has decided to say it, she says it. **The figure is her *I love you* in the only register the convention allows.** Pace understands it whole — he is intelligent, attentive, this is not the bench-style apparatus failure — and routes her speech down the sex-channel as the deniable self-protective response: a warm reception that thanks her for the compliment about how good they are together in bed, never addressing the underneath. He understands her and chooses not to meet her. The architecture's *commitment-adjacent self-protection* register operating at full visibility. **Vee cannot tell whether he understood and reduced her, or didn't understand at all.** Both possibilities are bad. Either he saw what she was offering and declined to receive it at the resolution she offered it, or her read of him has been imperfect and the man she's been loving is not who she thought he was. She does not push; the convention that prevented her from saying *I love you* directly also prevents her from naming the ambiguity in his response. The data goes into her body without being indexed. **This is one of the load-bearing grains of sand that surface in the Christmas fight** — accumulated *Pace-not-meeting-her* moments compounding across the months between this scene and Christmas. *Vee never tells anyone about this beat,* not Randi, not Cassie. It is too private and too ambiguous. It is also a partial precursor to the *Peter*-call in the fight: the question whether the part of Pace that wouldn't have reduced her is still reachable. The figure does not return in the prose. Said once, in love, in a soft moment, and absorbed.
+
 ---
 
 ## Late (the pivot and the fall)
 
-27. **The Thanksgiving / Christmas Fight.** The mother's-boyfriend question she can't answer; conflates monogamy and I-love-you. *"Do any of your friends have a relationship you'd rather have?"* — genuine, insufficient. Reunion without naming it.
+28. **The Thanksgiving / Christmas Fight.** The mother's-boyfriend question she can't answer; conflates monogamy and I-love-you. *"Do any of your friends have a relationship you'd rather have?"* — genuine, insufficient. Reunion without naming it.
 
-28. **First Weekend Back / Friends Dinner.** Bomber jacket and broadcloth without being asked. The proprietary feeling she hasn't earned the right to.
+29. **First Weekend Back / Friends Dinner.** Bomber jacket and broadcloth without being asked. The proprietary feeling she hasn't earned the right to.
 
-29. **The B&B Weekend (the pivot / last domino).** His answer to the fight, on his terms. **The ivory nightie** (costs him; no panties; the fit establishes value; coming out is the scene; inverse of the hiking shirt — and now a deliberate rhyme with the russet dress: the dress is for *her* event, the nightie for *his*). **The tasting-herself sequence:** whiskey/white wine; he bypasses the kiss, samples with his penis, offers a taste; *"A shot?"*; the inducement. **She crosses the line she drew.**
+30. **The B&B Weekend (the pivot / last domino).** His answer to the fight, on his terms. **The ivory nightie** (costs him; no panties; the fit establishes value; coming out is the scene; inverse of the hiking shirt — and now a deliberate rhyme with the russet dress: the dress is for *her* event, the nightie for *his*). **The tasting-herself sequence:** whiskey/white wine; he bypasses the kiss, samples with his penis, offers a taste; *"A shot?"*; the inducement. **She crosses the line she drew.**
 
-30. **Nipple Clamps.** Sustained awareness; continuous-vs-discrete stats mirror. Told to Randi *(SATC)*; Randi later wants them for herself, files it.
+31. **Nipple Clamps.** Sustained awareness; continuous-vs-discrete stats mirror. Told to Randi *(SATC)*; Randi later wants them for herself, files it.
 
-31. **The Sheer Dress Brunch + The Dressing Room (FB).** Randi braless in sheer fabric; explicit story (never resolved); first crack where the writing-off needs effort. Dressing room: Randi offers to *buy her one* — **money as power** (the cold echo of the warm shoe-shopping outing). Neutral clerk. Adjustments = technique; the **nipple tweak = control-slip.** Drive-home reckoning: unnameable desire + the dress she didn't pay for.
+32. **The Sheer Dress Brunch + The Dressing Room (FB).** Randi braless in sheer fabric; explicit story (never resolved); first crack where the writing-off needs effort. Dressing room: Randi offers to *buy her one* — **money as power** (the cold echo of the warm shoe-shopping outing). Neutral clerk. Adjustments = technique; the **nipple tweak = control-slip.** Drive-home reckoning: unnameable desire + the dress she didn't pay for.
 
-32. **The Peaches — Rejection → Second Fight → Reconnection.** Refuses the grilled peaches brattishly; he eats his portion quietly; she doesn't stay. The sext escalation (her first): farmers-market photo → peach between breasts → *"I'll do anything"* → *"Both of these are sweet and juicy but only one has fuzz on it."* **The peach-slices scene** (penultimate sex scene): slices inside her, orgasm, the drenched slices fed to her — she tastes the peaches she refused AND herself at once. Surviving callback: he makes them plainly later; she eats them; silence carries everything.
+33. **The Peaches — Rejection → Second Fight → Reconnection.** Refuses the grilled peaches brattishly; he eats his portion quietly; she doesn't stay. The sext escalation (her first): farmers-market photo → peach between breasts → *"I'll do anything"* → *"Both of these are sweet and juicy but only one has fuzz on it."* **The peach-slices scene** (penultimate sex scene): slices inside her, orgasm, the drenched slices fed to her — she tastes the peaches she refused AND herself at once. Surviving callback: he makes them plainly later; she eats them; silence carries everything.
 
-33. **The Threesome Introduction.** He plants it as observation; reads her body vs. ideology; she brings it to Randi; Randi walks her toward it; *"She's thinking about it."*
+34. **The Threesome Introduction.** He plants it as observation; reads her body vs. ideology; she brings it to Randi; Randi walks her toward it; *"She's thinking about it."*
 
-34. **The Threesome and Reveal.** Two-tier structure; the kiss as sole channel of identity; *Randi's beautiful face… mouth smeared with their combined fluids.* The betrayal lands on a friendship at its warmest. *(Falling-out CUT — evaluation saved entirely for the reveal.)*
+35. **The Threesome and Reveal.** Two-tier structure; the kiss as sole channel of identity; *Randi's beautiful face… mouth smeared with their combined fluids.* The betrayal lands on a friendship at its warmest. *(Falling-out CUT — evaluation saved entirely for the reveal.)*
 
-35. **The Ending Sequence.** Closed, not ajar. Vee leaves with full knowledge/anger/ownership, probably without explaining. Pace confused, reads the wrong betrayal, can't explain without making it worse. Randi hollow, known, unable to feel her loss. The panties stay in his house — an artifact, not a reunion.
+36. **The Ending Sequence.** Closed, not ajar. Vee leaves with full knowledge/anger/ownership, probably without explaining. Pace confused, reads the wrong betrayal, can't explain without making it worse. Randi hollow, known, unable to feel her loss. The panties stay in his house — an artifact, not a reunion.
 
 ---
 

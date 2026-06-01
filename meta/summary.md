@@ -1,20 +1,24 @@
 # Novel Development Summary
 
-## Erotic Fiction — Untitled Work in Progress
+## *With a Long Spoon* — Literary Erotica
 
-This is the master overview and current scene inventory. Deep detail now lives in companion documents (see **Document Map** at the end); this summary points to them rather than duplicating them.
+This is the master overview and current scene inventory. Deep detail now lives in companion documents (see **Document Map** at the end); this summary points to them rather than duplicating them. This document is the front door — for the architectural backbone, read `novel_thesis.md` and the three character architecture documents; for scene-level reference and best phrasings, read `character-relationship-bible.md`.
 
 -----
 
 ## Concept Overview
 
-A novel-length erotic fiction with literary ambitions. Three characters are bound together in a BDSM triangle — one consenting, one orchestrated without full knowledge. The novel traces one woman’s erotic liberation from shame and conservatism, the dismantling of a wounded man’s emotional defenses, and the exposure of a beautiful villain whose sadism operates without ethical constraint. The ending is intentionally unresolved — not happy, not tragic, but true.
+A novel-length literary erotica with structural-argument ambitions. Three characters bound together in a configuration of sexual and emotional intimacy — one consenting, one orchestrated without full knowledge — across a single year of high-resolution operation. The novel traces one woman's transformation from constitutional hunger eaten on crackers to a woman who has had a meal and walks out hungry-and-ascendant; the second woman's transformation from a maintained surface to a wound she will carry; and a third figure operating at 95% excellence whose careful, attentive love produces structural reshaping in both women that the configurations available afterward will not feed. *The ending is not a moral verdict — it is the installation of a vocabulary the reader did not have on the way in.* The novel is structurally completed and emotionally honest about the cost of what it gives.
 
-At its deepest level the novel is about consent — its presence, absence, complexity, and absolute necessity for genuine intimacy. **Central theme: consent as the foundation of freedom, not its enemy.**
+At its surface the novel is about consent — its presence, absence, complexity, and absolute necessity for genuine intimacy. **Central theme: consent as the foundation of freedom, not its enemy.**
 
-**Core formulation:** While love is kindling to lust, shame is gasoline. Vee’s conservative upbringing didn’t give her shame instead of desire — it gave her both, wired together. Every suppression increased the pressure. Liberation is not the removal of shame but its transformation into something she owns and chooses. **The destination is not shamelessness — it is ownership.**
+**Core formulation:** While love is kindling to lust, shame is gasoline. Vee's conservative upbringing didn't give her shame instead of desire — it gave her both, wired together. Every suppression increased the pressure. Liberation is not the removal of shame but its transformation into something she owns and chooses. **The destination is not shamelessness — it is ownership.**
 
-**The deepest structural truth (Session 5):** Consent here is always *technically* clean and *actually* poisoned, and everyone can point to the technicality. Three people, one bed, **three simultaneous self-administered betrayals** — each technically consented to, each actually poisoned, each person blind to the others’ wound while certain of their own clarity. Everyone gets exactly what their plan called for and loses the thing the plan was secretly for. Then the blindfold comes off, and Vee — the one who literally could not see — becomes the only one who finally does.
+**The deepest structural truth at the surface level:** Consent here is always *technically* clean and *actually* poisoned, and everyone can point to the technicality. Three people, one bed, **three simultaneous self-administered betrayals** — each technically consented to, each actually poisoned, each person blind to the others' wound while certain of their own clarity. Everyone gets exactly what their plan called for and loses the thing the plan was secretly for. Then the blindfold comes off, and Vee — the one who literally could not see — becomes the only one who finally does.
+
+**The structural argument the novel makes (v6/v7, articulated at full resolution in `novel_thesis.md`):** *Certain appetites are constitutively destructive when given full range — when permitted to operate at the depth and across the duration their internal logic requires for the appetite to be itself.* The appetites the novel concerns itself with are **healthy** — love at depth, friendship at depth, full aliveness. Moderation does not solve them. Their internal logic, fully expressed, produces destruction in a way no quantity-adjustment could prevent, because *the depth at which the goods become available is the depth at which the harms emerge.* Goods and harms are not separable interventions; they are angles on one operation. The novel installs a **fourth category** the era's grammar does not name — distinct from appetites healthy-in-moderation (food), appetites always self-damaging in proportion to use (alcohol), and appetites always damaging to a non-consenting other (pedophilia, named for philosophical contrast only). The fourth category is *configurations whose multi-party operation produces goods and harms in the same operation, with goods landing on parties in real time in registers their apparatuses can detect and harms latent or substrate-located or retrospectively-legible.* The reader walks out with a name for what the era could not name.
+
+**Underneath:** three carriers run **habituated refusals** of the same architectural shape in different registers — Randi's habituated refusal of need; Pace's habituated refusal to read the emotional after-register; Vee's internalized cutting voice (the refusal of her body's wanting). All three were originally choices that became sustained practice, prepared by family formation, deployed at adult scale, compounded across years. *Vee's is locally relocatable; the other two are not.* This is the architectural basis for Vee being the one who walks out.
 
 -----
 
@@ -27,6 +31,8 @@ Two seduction tracks run in parallel and are the **same engine running twice**:
 
 Both tracks arrive at the same destination — Vee’s body ready for the threesome — from different directions, neither track knowing the other exists as Vee experiences it. The blindfold is almost redundant; she’s been navigating in the dark the whole time.
 
+**The v6/v7 deeper structural layer (full articulation in `character-relationship-bible.md` and the four-document core):** underneath the surface engine of the two seduction tracks runs the architectural mechanism: three habituated refusals, two perfect apparatuses producing the wound at the bench, available honorable exits Pace did not take, the fourth-category claim, harm fast-installed not slow-accumulated, the configuration as the agent of harm in ways no single party is, goods of the configuration as real in real time, both transformations parallel-and-opposite. The bible carries each in the form needed for scene-level reference; the thesis carries each as structural argument; the help-harm-dials inventory tracks individual operations and the goods-and-harms each produces. *When in doubt, read the relevant architecture document.*
+
 -----
 
 ## Setting
@@ -35,7 +41,7 @@ Both tracks arrive at the same destination — Vee’s body ready for the threes
 
 **Pace’s house:** He owns it — bought with the modest ongoing payments from his patent — a retreat not a showcase. He cooks and does woodworking there. His home is more private to him than sex is. Trying a woman out, the first few times are at her place or a motel (dorm rooms don’t serve); once the scenes turn kinkier he wants her at his place. Vee is the one he brings home early — he skips the motel stage because he has a good feeling about her, and the shortcut is itself a tell. Small recurring spaces (especially the bathroom) become their own character.
 
-**The bench:** Built before he knew Randi (he knew the shape before he knew who’d be on it), but used on only two women in the novel — Randi, then Vee. What it takes to make each of them capitulate is load-bearing: the difference *is* the difference between the two characters.
+**The bench:** Built before he knew Randi (he knew the shape before he knew who'd be on it), but used on only two women in the novel — Randi, then Vee. What it takes to make each of them capitulate is load-bearing: the difference *is* the difference between the two characters. **(v6/v7 sharpening):** the bench-wound to Randi is *fast-installed in the single sustained scene,* not cumulative across weeks. Two perfect apparatuses produced the wound between them — Pace's consent-architecture honoring every protocol it could see, Randi's evaluation correctly identifying him as not the kind of threat her armor was built against. *No protocol was violated;* the wound is structurally orphaned. Pace misreads Randi's begging at the bench as deprived-woman-finally-fed rather than as the involuntary externalization of the need he just produced.
 
 **The dead-end road:** Pace’s house sits so Vee cannot casually spy — a wooded lot, no sight lines to the door. She drives toward it once and turns back. Impulse and restraint both characterful.
 
@@ -55,6 +61,8 @@ Body responds before mind permits. Tell: hand to collarbone. Makes a joke when m
 
 **Arc:** shame/suppression → conscious, chosen self-possession. Each escalation a small identity crisis. Arrives at ownership, not shamelessness.
 
+**v6/v7 architectural layer:** Vee is the carrier of the third destructive appetite — *the appetite for full aliveness.* She is constitutionally hungering: twenty years of fine men, fine sex, fine relationships, all crackers, eaten and insufficient, the hunger ambient and unnamed because she had no meal to register the crackers against. Pace fed her a meal. The meal both fed the hunger and *clarified its specifications.* **Cracker-and-meal architecture** — writer's tool, never prose vocabulary (one explicit exception at the porch scene). Her apparatus has always been a hungering apparatus; the new register Pace's reframe opens slots into existing relational architecture, which is why she integrates. **Vee's bravery is the form integration takes.** She becomes more vulnerable AND braver concurrently across the year — same operation seen from two angles. Her **habituated refusal** (the internalized cutting voice from her mother) is *locally relocatable* — the apparatus around the voice has always been built to hunger; this is the architectural basis for her being the one who walks out. *She would not have made the trade again, and the no is part of what she walks out with — along with the hunger that the no commits her to permanently.*
+
 ### PACE (Peter) — The Man / The D
 
 Grad student, engineering/math, started college at 15, finishing at 22–23. Not model-handsome; **average height but under 6 ft** (matters for Randi). Competitive amateur powerlifter **in the 182 lb class — a Tom Cruise build, not The Rock; strength subtle in clothes, obvious out of them.** **Not rich — a modest middle-class income for rural Virginia plus a small patent cushion; finite means he knows the edges of** (load-bearing: his gifts cost him precisely because the money is real and limited; if he were wealthy they’d evaporate). Doesn’t perform status either direction. **Used, well-kept utilitarian truck** (Randi looks down on it — can’t-afford-better vs. don’t-need-more). House on a **driveway off the highway outside town** — cost and privacy bought in one choice, not concealment. Owns almost nothing but nothing *wrong* — **one correct item per domain** (purpose-built footwear as the clearest hyperfocus tell, a few good knives and a couple good pans not the 12-piece set, a modest hybrid bike, little/no TV, guest wines ~$10–$35 learned cold). **Woodshop immaculate for safety, not aesthetics; the home office the one genuinely messy room** — order tracks *stakes*, never tidiness; those two rooms are the whole man. **An ugly old scar at the hip/femur, visible only naked** — a childhood injury his father caused for a *laugh* (the wound is “he thought it’d be funny,” not the gore); bodily root of his safety-consciousness and the *same-shape* wound as his consent-architecture hole — never stated, resonance only. Knows wine *well* in the narrow affordable range precisely because he learned that range and no further.
@@ -69,6 +77,8 @@ Grad student, engineering/math, started college at 15, finishing at 22–23. Not
 
 **Method:** acts and watches rather than asking. **Benefactor story:** “She enjoys the kindness; I’m opening her to a beautiful experience; it’s perfect” — true things arranged so he feels like benefactor not architect. Stress tell: warm/present → precise/formal/over-articulate (render in dialogue). **Arc:** vow breaks in *reckoning, not romance.*
 
+**v6/v7 architectural layer:** Pace is the carrier of the first destructive appetite — *transgression-engagement.* His cognitive structure runs on consent-welded-to-arousal; the depth at which his appetite operates is the depth at which the substrate-reshaping occurs in his partners. **Both transformations are real, parallel and opposite:** Vee's apparatus integrates the new register; Randi's does not. *The novelty for Vee is the size of the need the meal revealed; the novelty for Randi is the need itself.* **Two perfect apparatuses produced the wound at the bench:** his consent-architecture honored every protocol it could see; her evaluation-of-men correctly identified him as not the kind of threat her armor was built against; both correctly executed and produced the wound. **Pace had available honorable exits he did not take** — disclosure of the configuration, refusal-of-the-configuration, harder questions with Vee. *None was paternalism.* He did not take them because his architecture supplied the agency-respect framing that made not-taking feel like principle. The skeptical reader who concludes "he should have told her" is correct; the novel does not contest the conclusion, only the moral framing of why he did not. **Operates at 95% excellence, not perfect** — five categories of humanizing failing (selective inattention, intellectual vanity, domestic compulsion, commitment-adjacent self-protection, the small private vanity of a man who knows he is virtuous) render him real without compromising the architecture's reliability. **Chivalric grammar speaks through deeds, not words**; the **vow against premature declaration** holds throughout the year as a separate constraint inherited from his mother. His **habituated refusal to read the emotional after-register** runs as choice-become-habit, prepared by both parents, deployed at first-love loss, compounded across years, durable enough to feel like apparatus. *He is not failing to perceive; he is practicing not-perceiving, sustained below his own conscious access.*
+
 ### RANDI (Miranda) — The Confidante / The S
 
 Junior. Sleek petite brunette, 9–10, the sorority archetype, contained where Vee is abundant. First-generation wealthy (father’s PPP-loan money); money real, social ease not fully inherited. **Miranda** = worthy of admiration (weaponized) + Miranda rights (she runs an interrogation all novel; Vee never gets her warning).
@@ -80,6 +90,8 @@ Junior. Sleek petite brunette, 9–10, the sorority archetype, contained where V
 **She resents Pace for seeing her** (you don’t thank what breaches your only defense), can’t stop returning for the being-led, and it’s the *nobody she had to spin* who holds power over her. The plan is partly her regaining the upper hand. **She resents the threesome she engineered** — it elevates the man, re-subordinates her (the second-fiddle position she resents), and she built the demotion herself; thrill and humiliation are one wound.
 
 **Dialogue rule:** almost never says anything unrehearsed; the wordless beats are the plan escaping her. **Primary tool:** preemptive naming. **Resolution:** loses control, the mastermind role, Vee’s false perception; is now known; understands intellectually but can’t feel it — the muffling is the punishment.
+
+**v6/v7 architectural layer:** Randi is the carrier of the second destructive appetite — *sadism as the channel of her own wanting,* the wound that learned to walk. **Habituated refusal of need** is the deepest fact about her: her apparatus was organized for twenty-one years to ensure she would never produce the kind of need that requires another person to fill. Wanting permitted; getting sufficient; the world supplying surface inputs that did not require an interior that required anything. *When Pace's operation at the bench produced need in her, the need arrived in an apparatus that had no operational channels for it.* She **begged at the bench** — *Please. Please, Pace. Please.* — the first and only verbal admission of need in her adult life; she has not begged again. **The bench-wound is fast-installed, not slow-accumulated** — substantially done in a single sustained scene, with the year compounding what depth produced. **The hate is structurally orphaned** — two perfect apparatuses produced the wound, no protocol was violated, the world will not accept her testimony if she gives it; the hate survives the novel's end intact because it is the structural inadmissibility of her own experience distilled into a feeling that has nowhere to go. *Randi is not the villain;* she is the second carrier of structural appetite, operating at depth alongside Pace, with both apparatuses producing the catastrophe between them. **The cup** is the body's tell in operational silence (the hands holding what the voice will not say). **The Vee-channel runs six-channel** across the year — every available hour of her mental week alive in some register, for the first time in her adult life; this is what makes the configuration impossible for her to abandon. *Both transformations parallel and opposite to Vee's:* Vee's apparatus integrates because she has always had the relational equipment hunger requires; Randi's does not because hers was organized against producing hunger at all.
 
 ### CASSIE (Cassandra) — The Real Confidante
 
@@ -97,9 +109,11 @@ Lesbian. Bike rides (side by side, no eye contact — the only social format tha
 
 **The performance theme:** Vee performs sexual normalcy; Pace performs a masculine archetype he isn’t; Randi performs friendship over a hidden agenda. The novel is about all three performances failing.
 
-**Class texture (restrained, never blunt):** Randi’s wealth-blindness and her inability to feel Vee’s final injury are the same limitation. Vee’s working-class pride registers Pace’s small generosities with weight Randi can’t feel. The two women end as inverse images — Vee impoverished in money but rich in the capacity to feel, mourn, change; Randi materially intact but hollow, known, unable to feel her loss.
+**Class texture (restrained, never blunt):** Randi’s wealth-blindness operates throughout. Vee’s working-class pride registers Pace’s small generosities with weight Randi can’t feel. *The two women end as inverse images of integration, not of wealth* — Vee impoverished in money but with the apparatus to integrate what the year deposited, walking out ascendant-and-hungry permanently; Randi materially intact and structurally wounded by what the same year deposited in an apparatus with no equipment to receive it, continuing to seek what she now knows real is and cannot reassemble. *Randi is not hollow* (the v6 reading sharpens this — she is wounded, the wound is real, the hate is the structural inadmissibility of her own experience). She is **foreclosed,** not empty. The asymmetry between the two women is in what each apparatus does with the same deposit, not in moral worth.
 
 **Statistics class as mirror:** inference from incomplete data, bias, missing variables, correlation vs. causation, continuous vs. discrete. Subtle, never explained.
+
+**The fourth-category claim (v6/v7, articulated in full in `novel_thesis.md`):** what the novel argues is that *certain healthy appetites — love at depth, friendship at depth, full aliveness — are constitutively destructive when given full range,* not because the appetites are bad but because their internal logic, fully expressed, produces destruction in a way no quantity-adjustment could prevent. **Moderation does not solve them.** The novel installs vocabulary for a category the era's grammar does not name — distinct from food (Category One, moderation works), alcohol (Category Two, dose-calibration works), pedophilia (Category Three, prohibition works, named for philosophical contrast only), and from the conventional grammar of deception. The fourth category is *configurations whose multi-party operation produces goods and harms in the same operation,* with goods landing in real time and harms latent or retrospectively-legible. The reader walks out with the name. *Naming is not solving;* the long spoon is the category, not a prescription that produces the goods without the costs.
 
 -----
 
@@ -171,32 +185,67 @@ Order reflects Session 5 restructuring. **Major change from v4: the peaches scen
 - **The planted clues** — mundane domestic evidence; *“Do you actually want to know? Or do you want it to stop?”*
 - **Vee’s desire for Randi** — tracked as the *failure* of the writing-off; never resolves before the reveal.
 - **Sheri bike rides; Cassie’s quiet vindications; the statistics mirrors; the ex surfacing.**
+- **Randi's physical operations of operational silence** *(v6)* — the cup (containment of overflow, hands holding what the voice will not say) and the lock (control of perimeter, active assertion). The cup recurs in venues where need is running and she has no operational lever to discharge it — engineered meet-cute, every SATC lunch where Vee delivers Pace-material, scenes with Pace where the project is discussed. Frequency of lift decoupled from drinking. *At the threesome, the hands are not occupied;* the cup is not needed because the work of holding the want has briefly ended in the kiss.
 
 -----
 
 ## Open Questions
 
-1. **Pace’s reckoning catalyst** — pointed at the consent-architecture hole (*she asked me not to tell her* is not exoneration); exact scene/moment still needs staging. **Highest priority — the ending hinges on it.**
-1. **Randi’s physical participation** in the threesome beyond the withheld kiss — dominant/submissive/watching; choreography that keeps her generic to Vee while serving the configuration she resents.
-1. **Who speaks first after the reveal silence** (if anyone). Leaning: the silence, then Vee leaving without the satisfaction of a speech.
-1. **The ex** — who, when, seen directly or secondhand; lands during the threesome-pressure beat.
-1. **Exact placement of the B&B** relative to bondage/clamps and the friends dinner.
-1. **The last domino confirmed** as tasting herself — verify nothing earlier competes for that slot.
-1. **Campus geography & Pace’s-house emotional mapping** — still unmapped.
+1. **Pace's reckoning — substantially clarified by v6 (NO full reckoning on the page).** The v6 *not-finally-the-lady* reading is now canon: Pace's choice-become-habit absorbs the catastrophe across decades into the narrative that *she didn't wait, the one would have waited.* The architecture supplies the rationalization. *The full reckoning the earlier framing pointed toward does not arrive on the page.* What does arrive at the catastrophe's leading edge — the not-yet-understood wrongness at the kiss, the slow-attenuation future, the late jazz-bar image of him watching from the table — is the architecture's compounding cost rendered without the satisfaction of his perceiving it. **What remains open:** the precise staging of Pace's last-on-page beat. The closing image is leaning toward Pace alone in his house doing some characteristic precise thing, the shape of his slow attenuation made visible in one beat.
+
+2. **Randi's physical participation** in the threesome beyond the withheld kiss — dominant/submissive/watching; choreography that keeps her generic to Vee while serving the configuration she resents. *Still open.*
+
+3. **Who speaks first after the reveal silence** (if anyone). Leaning: the silence, then Vee leaving without the satisfaction of a speech. *Still open at the line level.*
+
+4. **The ex** — who, when, seen directly or secondhand; lands during the threesome-pressure beat. *Still open.*
+
+5. **Exact placement of the B&B** relative to bondage/clamps and the friends dinner. *Still open.*
+
+6. **The last domino confirmed** as tasting herself — verify nothing earlier competes for that slot. *Still open.*
+
+7. **Campus geography & Pace's-house emotional mapping** — still unmapped.
+
+8. **Porch scene revision against v6 Pace architecture** — first-pass draft in `porch-scene.md`; revision is light but needed. Render Pace through deeds-not-words grammar; install three sources of his discomfort (substrate of choice-become-habit; spirit of his rules vs silence of letter; wanting-to-say vs vow's holding); let the vow against premature declaration operate as the silent constraint; preserve the not-finally-the-lady precursor function. See `open-questions.md` item 9 for the full TODO.
+
+9. **summary.md and character docs alignment for "given full range" phrasing** — low priority; the central claim in `novel_thesis.md` now supplements *given full range* with *when permitted to operate at the depth and across the duration their internal logic requires for the appetite to be itself,* but the character documents continue to use the phrase in less-supplemented form. In context, the existing uses are correct; the thesis carries the unambiguous reading. Hold as low-priority pass.
+
+10. **The future-scene operations not yet in the help-harm-dials inventory** — dance lessons, peaches sequence, painting afternoon, nipple clamps, ivory nightie/B&B weekend, dressing room, planted clues, Christmas/Thanksgiving fight, Peter-call. Add entries to `help-harm-dials.md` as scenes are drafted.
 
 -----
 
 ## Document Map
 
-- **summary.md** *(this document)* — master overview and current scene inventory. Front door.
-- **character-relationship-bible.md** — full character detail, dynamics, best phrasings, global craft rules. Authoritative on character.
-- **satc-track-scenes.md** — the Randi/Vee confidante track: verbal and physical staircases, format-breaks, how to vary the brunches, dos and don’ts. Authoritative on the SATC track.
-- **threesome-reveal.md** — motivations, evolution, mechanics, the reveal, the resolution. Authoritative on the threesome and ending.
-- **parallel_scene_map.md** *(Session 4)* — the beat-by-beat parallel map after Christmas break. Note: predates the peaches relocation and the closed ending; read against this summary where they differ.
-- **scenes_inventory.md** *(earlier)* — superseded by the inventory here; retained for historical beats.
+The project now operates with a **five-document core** carrying the architectural backbone, plus working documents and scene drafts.
 
-**Craft reminders (full list in the Bible):** never name Pace’s neurodivergence; never explain the Cassandra device or the PPP/Vee parallel; body before mind always; erotic escalation is a staircase; Randi’s double register; shame never fully resolves (chosen shame is the destination); class texture restrained but active; vary heat by *kind*, not just intensity; keep each scene sexy/warm on first read so the dark is earned and the reveal stings.
+**The Five-Document Architectural Core:**
+
+- **`novel_thesis.md`** — the structural argument the novel makes. Master statement: the three destructive appetites, the fourth-category claim, the habituated refusals, the two transformations parallel-and-opposite, the two perfect apparatuses, the available honorable exits Pace did not take, the three bargain positions, the three futures, the closing image. *Read first.* This document is canonical on the novel's structural argument; where it and other documents differ, the thesis governs.
+- **`pace_architecture.md`** — Pace at full architectural resolution: transgression-engagement, consent-welded-to-arousal, choice-become-habit, the bike-injury inheritance, the chivalric grammar as deeds-not-words, the vow against premature declaration, the available honorable exits not taken, the 95% calibration with humanizing failings, the embodied-presence rendering rule, the *not-finally-the-lady* reading.
+- **`randi_architecture.md`** — Randi at full architectural resolution: sadism as channel of wanting, the habituated refusal of need, the bench-wound mechanism, the begging, the cup, the cultivated hate as structurally orphaned, the Vee-channel six-channel week, the cracker-and-meal architecture from her vantage, both transformations parallel-and-opposite.
+- **`vivienne_architecture.md`** — Vee at full architectural resolution: the appetite for full aliveness, the cutting voice, the cracker-and-meal architecture, the dual outcome (more vulnerable AND braver concurrently), the bravery as integration's signature, shame as gasoline, the no she walks out with, the hunger that the no commits her to permanently.
+- **`help-harm-dials.md`** — operational inventory: each operation in the novel where help and harm are produced by the same operation. Working tool for scene-level craft; check scenes against the relevant entries to protect against collapsing the fourth-category structure into one of the prescriptive frameworks the novel transcends.
+
+**Scene-Level Reference Documents:**
+
+- **`character-relationship-bible.md`** — scene-level rapid reference for established facts, behavioral signatures, material-world detail, best phrasings, and global craft rules. Updated to v6/v7. Read against the four-document core (which is canonical on architecture).
+- **`summary.md`** *(this document)* — front door; master overview and current scene inventory.
+- **`scene-plan-chronology.md`** — story-order scene plan with continuity flags.
+- **`open-questions.md`** — running TODOs across documents.
+
+**Scene Drafts and Scene-Specific Notes:**
+
+- **`porch-scene.md`** — first-pass draft of the porch scene (Vee's displacement *I love you* via the cracker-and-meal figure; Pace's understanding-and-routing). Marked for light revision against v6 Pace architecture.
+- **`the-fitting.md`**, **`notes-the-fitting.md`** — the russet-dress scene.
+- **`the-bench.md`** — the bench scene.
+- **`randis-walk-of-shame.md`** — the post-bench bathroom moment.
+- **`threesome-reveal.md`** — motivations, evolution, mechanics, the reveal, the resolution. Authoritative on the threesome and ending at the scene-level.
+- **`satc-track-scenes.md`** — the Randi/Vee confidante track: verbal and physical staircases, format-breaks, how to vary the brunches, dos and don'ts. Authoritative on the SATC track.
+- **`pace-house.md`** — Pace's house room-by-room detail.
+
+*(Earlier documents — `parallel_scene_map.md`, `scenes_inventory.md` — are superseded by the v6/v7 architecture and the current scene-plan-chronology.)*
+
+**Craft reminders (full list in the Bible's Global Craft Rules):** never name Pace's neurodivergence; never explain the Cassandra device or the PPP/Vee parallel; body before mind always; erotic escalation is a staircase; Randi's double register; shame never fully resolves (chosen shame is the destination); class texture restrained but active; vary heat by *kind*, not just intensity; keep each scene sexy/warm on first read so the dark is earned and the reveal stings. **v6/v7 additions:** parallel-and-opposite structure never surfaces in prose; habituated refusals never surface in prose; the fourth-category claim is writer's tool not prose vocabulary; harm fast-installed not slow-accumulated; goods of the configuration as real in real time; configuration as agent of harm; intensity as required pitch not excess; conventional grammar of deception is itself a prescriptive framework the novel transcends; no filing/cataloging for Pace (embodied-presence rendering); 95% calibration with humanizing failings; chivalric grammar as deeds not words; vow against premature declaration as separate constraint; available honorable exits real and the prose must not protect Pace from them.
 
 -----
 
-*Document current as of the Session 5 development pass.*
+*Document current as of the v6/v7 development pass. Title: **With a Long Spoon**.*
