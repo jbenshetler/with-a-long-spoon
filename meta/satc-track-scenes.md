@@ -115,3 +115,147 @@ Rotate these axes so no two scenes feel alike:
 - Don’t let foreshadowing inform. Resonance only (Cassandra, statistics mirrors). If a beta reader can PREDICT the reveal from the clues, they’re too loud. The target is “it was all there” on reread, never “I knew.”
 - Don’t make the brunches edged with dread. Earn the dark by being genuinely light. The sting works because the 80% before it was warm, sexy, and fun.
 - Don’t run the physical staircase in every brunch — that’s its own formula. Vary whether a physical beat is present at all; the unpredictability keeps Vee (and the reader) off balance.
+
+-----
+
+## RANDI'S SPICY STORIES — THE RENEWABLE LICENSE (load-bearing mechanism)
+
+Randi opening each brunch (or most brunches) with her own spicy, escalating story is **not** mere mood-setting. It is the engine of the entire verbal staircase. The mechanism, in four simultaneous functions, every one of which must be live:
+
+1. **Warms the room.** Establishes candor-as-currency before Vee realizes she's spending it.
+2. **Normalizes the territory / grants permission to want.** For Vee to climb toward the edged material (the swat, the threesome, shame-as-fuel), a sorority-outsider needs *permission*. Randi's worldly delight makes the transgressive seem normal, even chic. The normalization must operate on **Vee's permission to want**, NOT on **Vee's information about Pace**. The first is the structural work; the second is the continuity bomb (see below).
+3. **Establishes Randi's credential as the confidante who can RECEIVE what Cassie can't.** This is the deepest function. See the Cassie/Randi sort below.
+4. **Stays structurally un-matchable to Pace.** See porn-generic rule below.
+
+**Randi goes first and goes further each time, which re-earns the right to receive Vee's next, deeper disclosure.** The stories escalate in lockstep with what they license Vee to give up. Each new level of Randi's candor licenses a new level of Vee's. That lockstep IS the verbal staircase's drive train — not just "Randi asks better questions over time" but "Randi's disclosure continually renews the license for Vee's."
+
+### Porn-generic, NOT Pace-fingerprint (the matching-bomb defuser)
+
+Randi narrates the **cartoon** version of BDSM — the loud, scripted, performative register: the theatrical dom voice, props named for fun (cuffs, crop, blindfold-as-prop), choreographed power, the *performance* of dominance. This is deliberately the OPPOSITE of how Pace practices (quiet, attentive, consent-architecture, tenderness-inside-control, edging-and-watching-her-face, the *seeing*).
+
+**Why this is a double solution, not a compromise:**
+- It delivers real normalization (Vee hears the acts *named* and made ordinary — vague worldliness can't do this).
+- It is un-matchable to Pace precisely because it's a different *kind* of thing. When Vee later experiences Pace, she files him as a separate category, so her non-recognition stays plausible on reread.
+- **The mismatch is the CONTENT of the deception, not a flaw being hidden.** On reread: Randi described the loud-fake version while doing the quiet-real thing with Pace off-page, and the loud-fake version is exactly what kept Vee from ever connecting the two. The disclosure that conceals by being the wrong kind of true. Loud-fake vs. quiet-real is the protection AND the point.
+
+**The fingerprint line that must NEVER be crossed:** category details are safe ("he likes to be in charge" — lots of men do); **fingerprint** details arm the bomb (Pace's signature: edging-and-watching-her-face, "keep still," tenderness *inside* control, the rhythmic attentive tide). Randi's stories stay loud, scripted, surface. If a Randi story ever drifts toward the attentive/tender register, STOP — that's Pace's fingerprint and the bomb arms.
+
+### Pace-out-ahead via PRESCIENT GUESSING, not testimony
+
+To seed Pace "out ahead" of where he is with Vee (more dominant/knowing than Vee has yet experienced), do NOT have Randi describe Pace directly (continuity bomb + matching risk). Instead, Randi **guesses** what Vee's man is like — landing as prescient because it's true. *"Let me guess — he's the type who takes charge."* Vee, startled: *"How did you—"* Randi: *"I've known the type."*
+- First read: glamorous-intuitive friend, wise reader of men.
+- Reread: she's not guessing, she's remembering — describing her own lover under the guise of intuition.
+- Carries no choreography to match against later. Safe.
+
+Optional max-risk touch: ONE vague, category-level, un-matchable line about her current guy ("let's just say he knows what he's doing") for a faint reread-frisson. Zero fingerprint detail. No more than one.
+
+-----
+
+## THE CASSIE/RANDI SORT (why this track exists as a separate channel)
+
+Vee's two confidantes are sorted by **competence-to-receive** AND by **world**. This sort is one of the novel's central tragic mechanisms and must be rendered as the most natural thing in the world.
+
+- **Cassie** = Vee's true peer and world (unaffiliated, broke-ish, real friend since freshman year, no agenda). Keeper of the **romance and the comedy** — warmth, *he made the shirt*, *I was supposed to be there*, the bawdy triumphant version (*I was grinding on him*).
+- **Randi** = the glamorous higher-status outsider who descends to spend time with Vee. Receiver of the **charged material Cassie can't hold** — the edged stuff, the shame-arousal, the things Vee barely has language for.
+
+**The sort's engine:** Cassie, as inexperienced peer, can't meet Vee in the edged territory — not from judgment but from lack of experience to relate. Vee feels the gap and builds a wall (naturally, kindly — just the narrowing of what you share with someone who can't follow you there). Randi's spicy escalating stories perform the fluency that says *bring me the real thing, I won't flinch, I'll meet you* — so Vee routes her deepest disclosures to Randi and feels relief and intimacy at finally being met.
+
+**The dark engine (thesis-compliant):** the credential is real, the relief is real, the intimacy is real — and the channel they open is the one that feeds the wound and runs the procurement. The very thing that makes Randi the right confidante (experience, unshockability, fluency, glamour-coded-as-*up*) is what makes her the dangerous one. Vee sorts her own secrets toward the person engineered to use them, for reasons that feel like intimacy. On reread: every time Vee chose Randi over Cassie for the real stuff, she routed her most vulnerable material to the wound's instrument — and built the wall with the friend who'd have kept her safe. This is rule 393 (Vee does harm by being a good friend, unable to see it) rendered as the most natural sorting imaginable.
+
+**Craft consequence:** the same Pace-event told to both confidantes should be SORTED, not duplicated. Cassie gets one register, Randi another (e.g., the fitting: Cassie gets grinding-as-triumph/agency; Randi gets bust-as-mortification/appetite). The matched-pair telling-scenes SHOW the sort. Never have Vee tell both the same way.
+
+-----
+
+## THE TWO-PERIMETER STRUCTURE OF A BRUNCH (Vee arrives with a script)
+
+Vee does not arrive to *tell a story*; she arrives **defending a perimeter**. Between the Cassie-telling and the Randi-telling she has had time to REHEARSE a respectable version curated for Randi — the romance, the craftsmanship, the decorous edit. The dramatic engine of the extraction is **the gap between the script Vee brought and the truth Randi extracts.** Every Randi probe is aimed at a seam Vee thought she'd sealed.
+
+**Vee is a double agent against herself.** She wants to hold the perimeter AND she wants it breached, because the shame-arousal circuit means being exposed is itself the charge. She lies *badly* because part of her wants to get caught — wants to tell the whole sexy story, the most fascinating of her life. Randi isn't overpowering a resistant Vee; she's the audience Vee has secretly been auditioning the real story for. The respectable script is the fig leaf Vee needs in order to be talked out of it. This keeps the extraction from reading as Randi-predatory: **Vee is complicit in her own undoing and enjoying it.** Randi supplies the conditions; Vee supplies the wanting.
+
+### Randi's three extraction instruments (escalate in sequence)
+
+1. **Superior knowledge as a trap.** Randi knows how the worldly thing actually works (bespoke fitting, etc.). Vee's vague/decorous version collapses against a question only an expert would know to ask, and that has only one true answer. Not aggression — Randi simply knowing more, and Vee's lower status meaning she didn't know the questions had checkable answers. **Render the expertise as glamour/relish on the surface** (a friend eager for the juicy specifics), the diminishment/trap invisible until reread.
+2. **Frank register as social proof.** Vee *wants to be like Randi*. When Randi is candid and Vee demurs, Vee feels provincial — the demurral marks her as the small-town girl. To match Randi's candor is to be admitted to her level. Aspiration weaponized against Vee's own perimeter; Vee chooses admission repeatedly.
+3. **The unsurfaced attraction (an UNDERCURRENT that GROWS across the track).** Vee doesn't know she's attracted to Randi; the body does (wanting-to-please, susceptibility to Randi's approval read as friendship/admiration). Randi's approval functions as a REWARD — each truth surrendered earns Randi's sharpening, warming attention, and Vee chases the hit. The interrogation is structured like a seduction Vee doesn't recognize as one. **This is NOT a fixed dosage: it starts as faint undercurrent in the early brunches and grows, scene by scene, to be obvious-but-unspoken — palpable to the reader (and eventually to Vee's body) long before it is ever named.** The physical staircase (goodbye kisses, the dress, the dance) is the visible track of this growth; the verbal extraction is its covert track. Early = barely there. Late = the writing-off wearing thin, the charge undeniable, still unspoken. Calibrate per scene's position in the track.
+
+### The shame circuit — why Vee can't lie well (physiological, not moral)
+
+The memory Vee is editing is *arousing because shameful*. Approaching the omitted parts makes her flustered/flushed/caught-in-the-charge, NOT cooler and more careful. **The body is the tell.** She colors, loses the thread, half-smiles wrong. Randi reads the tells expertly and NAMES them — and naming the tell is another turn of the screw (being caught reacting is its own exposure → more charge → more tells). A ratchet: each exposure deepens the next. (Contrast Cassie, where the blush is warmth/giddiness; with Randi the blush is *being caught*, the thing Vee is aroused by, so the conversation physically escalates her.)
+
+### The appetite-reframe (Randi's harm-in-velvet)
+
+Where Cassie receives Vee's agency (*I made a move*), Randi extracts the same fact as a **confession of helpless wanting** (*I couldn't help myself; I was the animal in the room*). Randi takes Vee's proud moment and reframes it from agency to exposure-of-appetite. Vee, in the charge, AGREES to the reframe — maybe prefers it. This is the well-poisoning: Randi gets a foothold inside Vee's experience and recategorizes it, so the reframe can later intrude on Vee's own memory. **Deliver every reframe as intimacy/understanding on the surface; the harm is reread-only.**
+
+-----
+
+## PARTIAL EXTRACTION & THE WITHHELD THREAD (a reusable power-move)
+
+Randi need not take everything. **Declining to pull a thread she has clearly reached is MORE powerful than pulling it.** Taking the thing spends it; declining says *I could take this whenever I want, I'm choosing not to, and we both know I know.* That's a leash. Mechanics:
+- Randi arrives at the doorway of the deepest shame (Vee braces, whole body waiting for the question) — and Randi **steps back** (picks up her drink, moves on). Vee floods with the adrenaline of a question that didn't come.
+- The signature line: **"You don't have to tell me that part."** On first read = generosity/kindness (the reader is GRATEFUL to Randi on Vee's behalf — that gratitude is what curdles on reread). On reread = explicit marking that there IS a part, that Randi knows exactly what it is, and that she's banking it for later.
+- **Effect:** plants the seed, holds the tension across scenes (a loaded gun left on the table), binds Vee to Randi via an unfinished conversation Vee half-wants to finish. Mirrors how Randi leaves Vee in every register: wanting more, unresolved, leaning toward the next encounter.
+- **Cruel rhyme to hold (never name):** Pace gives Vee the most complete sexual release of her life — that is the rule, the overwhelming majority of the time. Pace withholds release only RARELY, and when he does it is justified within the scene (e.g. the fitting's "keep still" — holding the line to do the work right, protecting her). So the rhyme is NOT "both men deny her." It is narrower and crueler: in the rare, justified instances where Pace withholds, he withholds to PROTECT her; Randi withholds to KEEP her. Same rare gesture, opposite hearts. Do not overstate Pace as a withholder — he is overwhelmingly a giver; the rhyme lives in the exception, not the rule.
+
+-----
+
+## THE TWO-WOUNDINGS DETAIL (one planted fact, used twice, opposite directions)
+
+A single detail Vee volunteers can wound in two directions across one scene:
+- **Example built (the fitting brunch):** the **warm house** (Pace pre-heated the house so Vee wouldn't be cold). Vee offers it as romance/proof-of-care.
+  - **Against Randi (silent, early, reader-legible):** Randi knows Pace does this for HER too (she's been going to his house since 4 weeks before he met Vee). The detail reveals that the tenderness Randi may have understood as *hers* is Pace's standard practice, extended to the "disposable" girl. This BURNS RANDI. Render via the **cup tell only** (see below) — behavior, not interior. Because the bench (Ch. 1) establishes Randi-at-Pace's, this is *legible-but-shallow* on first read ("ooh, awkward, the friend has a thing with him too" = relatable friend-jealousy, NOT sinister) and *bottomless* on reread (the wound, the procurement, the disposability ledger). Do NOT render Randi's wounded interior from inside (rule 113); put it in her hand on the glass.
+  - **Against Vee (spoken, late):** later in the same scene, under pressure, Vee reaches for "it was cold" as the alibi for her arousal (hard nipples) — forgetting in her fluster that she already told Randi the house was warm. The trap springs on **Vee's own earlier testimony**; Randi barely lifts a finger. The fluster makes her a bad liar (core mechanism) literalized: she contradicts a fact she herself volunteered.
+- **The spring is the bare word "Cold?"** — a QUESTION not expecting an answer. On first read: warm complicity, girlfriends colluding in a flattering euphemism (*cold, sure, we'll call it cold* — the reader ENJOYS being let in on something sexy, doesn't wince for Vee). On reread: Randi noting the arousal and holding the warm-house contradiction. Same word, both exposures. Do NOT use a gotcha statement ("you said he had the heat up") — too legible as trap on first pass. The bare questioning word, coded as collusion, is the move.
+
+-----
+
+## THE NESTED EXTRACTIONS / TWO-PERIMETER SYMMETRY (scene operates as a hall of extractions)
+
+With the walk-of-shame established (Ch. ~), the brunch is a scene where **two women each overpay to sit at the only table where each feels something true, while each is being extracted by a more powerful party:**
+- Vee is extracted by Randi (the instrument).
+- Randi is extracted by Brooke / the house (the crab bucket) — the walk-of-shame shows Brooke running the warm-surgical-deniable instrument on Randi exactly as Randi runs it on Vee. The board member is herself being worked.
+- The reader sees the nesting neither woman fully sees: Vee can't see she's being worked; Randi can't see at depth that the channel she overpays for is the one that destroys what she wants.
+- **Overpayment symmetry:** Vee overpays in MONEY (brunch she can't afford) for access to glamour + the confidante who can receive her. Randi overpays in STATUS (mounting social cost of the Pace association + the conspicuous off-world friendship) for the aliveness the friendship gives her — *she can't not engage with Vee; the brunches are the only real thing in her life.* Both overpay for the same table, converse reasons.
+
+-----
+
+## SETTING, MENU & MONEY CHOREOGRAPHY (the surface texture that carries class + control)
+
+**The venue (off-campus, fancy) is three things at once:** intimacy (first pass) / operational cover, away from the sorority's eyes (reread) / **refuge** — Randi's flight from the crab bucket to the one table where she gets to be alive (tragic substrate). All three live in the choice of room.
+
+**Each girl pays for her own meal — always (protect the dressing-room scene).** Money-as-power-deployed-against-Vee is the dressing-room format-break's load-bearing beat (Randi offers to buy the dress; the independence-pride trap). For that to land as the FIRST deployment of Randi's money against Vee, no earlier scene can show Randi paying for Vee. The brunch default is simply: separate checks, each pays her own. This is not Randi pointedly declining to treat — it's the ordinary arrangement, unremarked. **Vee comes to a venue she can't comfortably afford and pays her own way** — because the friendship and these chats are worth more to her than the money she doesn't have.
+- Render Vee's money-anxiety **physical, specific, brief** — eyes to the right-hand column FIRST, the quick recalculation, the modest order (soup, or just coffee, or water to sidestep the wine list she can't navigate). NO interior monologue about her bank balance (tips into self-pity, kills the SATC fun-register). Behavior carries it.
+- **First read:** sweet/relatable — broke student stretching to keep up with her glamorous friend; paying her own way is just what you do. **Reread:** Vee is *paying to be extracted from* — spending money she doesn't have for the privilege of being worked on by the configuration's instrument.
+- Sets up the dressing-room trap by contrast: at brunch Vee pays her own way (pride intact, cost hidden); in the dress boutique Randi removes the option to pay her own way (pride trapped, cost made visible). Readers who watched Vee stretch all year feel the dress-offer land as the snare it is.
+
+**Randi's order = controlled intake (food-monitoring, the alimentary version of the bound hair, rule 17).** *The specific dish varies scene to scene — what's constant is the PATTERN:* light but expensive, virtuous, tiny. (Example: a poached egg with salmon and spinach.) Whatever she orders, she orders it with the EASE of someone for whom the right-hand column is invisible (chooses by want, not cost) — which sits right next to the control beat (Vee chooses by the column; Randi by desire). Same-sized small plate, opposite reasons (money vs. control), neither stated. NO calorie narration.
+
+**Randi's wine = taste-as-MEMBERSHIP, not taste-as-knowledge (protects Pace's wine authority).** *The specific bottle varies scene to scene — what's constant is the PATTERN:* she orders the known-name status wine, the one that's correct to be SEEN ordering, sometimes WRONG for the food, because she knows NAMES (social layer) not PAIRINGS (craftsman layer). Pace is the novel's wine authority (sensory, real, craftsman); Randi must NOT encroach.
+- **Example:** the **Rombauer Chardonnay** ($~40/glass) with delicate poached salmon — the famous big buttery heavily-OAKED California cult Chardonnay, completely WRONG for the fish (the oak flattens it; Pace would know instantly). She orders it because it's the correct thing to be SEEN ordering, not the correct thing to drink with the dish. This is the *exactly right* wrong (vs. e.g. Opus One with salmon, which reads as total ignorance — wrong kind of wrong; Randi is never ignorant). Character in one order.
+- Whatever she orders, she orders it crisply, WITHOUT consulting the waiter/sommelier (no recommendation needed — she knows what she wants before the list opens). A single-glass midday sommelier would be too much; it's the waiter, and the point is she doesn't need him. Do NOT let her explain pairings — that's knowledge she doesn't have. Vee, by contrast, sidesteps the wine question entirely (engaging the list would expose her) — another quiet status-gap.
+- **The knife:** Vee clocks that Randi's single glass costs more than Vee's entire meal. That one number does the class work; no editorializing.
+- Pace's later wine competence retroactively illuminates the status-wine order as a tell. (NOTE: an *unoaked* Chardonnay would actually pair fine with salmon — which is why it's wrong for the scene's purpose. The OAKED Rombauer is wrong for the fish and right for the scene.)
+
+-----
+
+## STATUS GEOMETRY: VEE/CASSIE UNAFFILIATED; RANDI SORORITY + ALREADY PAYING
+
+**Vee and Cassie are NOT in any sorority.** Randi is sorority and sits on the board (Standards). Randi spending escalating social time with an unaffiliated outsider is a **status transgression** — and per the walk-of-shame, it layers on top of the Pace-association liability the crab bucket is ALREADY testing.
+- The sorority runs **crab-bucket logic**: they will try to take Randi down (success TBD). The walk-of-shame (Brooke's warm-surgical interrogation) is the bucket already reaching.
+- Randi is NOT the costless queen slumming by choice. The cost is real and mounting. She engages Vee anyway because **the friendship is the only aliveness she has** — the tragic engine. (Mirrors Vee overpaying in money; both overpay, converse reasons. See nested-extractions section.)
+- **First read for Vee:** being chosen by the glamorous sorority girl, against her world's sorting rules, is flattering and thrilling — part of why the friendship is precious enough to overpay for. **Reread:** the cross-status attention is costless-to-spend-but-real-cost targeting of the project component; the exception that read as devotion was the operation requiring proximity.
+
+### The flicker (a flicker and NO more)
+- The brunch is REFUGE (off-world, eyes-free) — do NOT put a sorority observer at the table (spoils refuge logic). The flicker is carried IN, not enacted.
+- **Primary flicker = phone face-down.** A notification from that world reaches Randi even here; she glances and turns the phone face-down (rhymes exactly with the walk-of-shame's two unread notifications face-down on the vanity). Vee thinks nothing of it; the reader who's read the walk-of-shame feels the bucket's hand. Behavior-not-interior (rule 113), smallest possible flicker.
+- **Optional second micro-touch:** one dry, deniable off-campus-relief line ("God, it's good to be off-campus") — surface = glamorous senior amused by sorority pettiness (flatters Vee: *she'd rather be here with me*); reread = a woman naming the bucket closing on her. Never explained.
+- Vee may NOTICE and MISREAD (reads Randi's half-degree of guardedness as *she's so above all that* = admiration). The misread is the dual-pass engine.
+- **HARD CONSTRAINT:** the flicker must not invite Vee to ask ("everything okay?") — that opens Randi's interior, forbidden at this dosage. Vee registers and lets it pass. **Randi stays in COMMAND toward Vee throughout** (running the instrument, telling the stories, extracting). Her hunted-ness is RESERVED FOR THE READER. Vee must not see the hunted woman, or the extraction's power dynamic collapses and Randi becomes sympathetic-to-Vee too early. Flicker for the reader; command for Vee.
+
+-----
+
+## CRAFT GUARDRAILS RECAP (this session's additions)
+
+- The both-tests rule (existing rule 104) is the master bar for EVERY new Randi line: warm/frank/fun on first read, cold/instrumental on second, NO word changing. If a line only works as sinister, it fails.
+- Surface must be COMPLETE: a first-time reader should think "Vee's glamorous worldly friend delightedly drags the juicy details out of her — hot, scandalous, generous about what she doesn't push for; they're closer at the end." Every dark reading lives in the reread. A reader who feels "something's off with Randi" on first pass = over-tuned to dark.
+- The cup tell (Randi doc rule 335) is the ONLY crack permitted at a brunch, reserved for the wound-beat (warm-house). Keep her hands easy and her stories breezy everywhere else.
+- Keep the camera on Vee's face and Randi's reading of it, on the status-current and the reward-hits, on what it COSTS AND GIVES Vee to say each thing. The charge is INTERPERSONAL (mortification in front of the admired woman), not anatomical. Stay on that = literary (Gaitskill/Duras); drift to mechanics = merely explicit.

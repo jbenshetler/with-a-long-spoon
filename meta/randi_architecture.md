@@ -302,7 +302,26 @@ The cup is a rendering tool for the prose: when it appears, the reader is being 
 
 ---
 
-## Working Rules for Randi on the Page
+## Speech — The Cheap Affirmation Engine, and Its Silence with Pace
+
+Randi's primary instrument is not coolness. It is **warmth.** This is a correction to the intuitive read of a predatory operator: the cool, withholding, faintly belittling register is *wrong* for her and must be avoided on the page. Randi does not chill people to control them — chilling puts a person on guard. She *warms* them, lavishly, and the warmth is what opens them wide enough to extract from. You do not get someone to hand over their secrets by making them feel small; you get it by making them feel chosen, seen, lit up — so seen that they keep talking to keep the beam on them.
+
+**The register, concretely:** bright, abundant, affirming. The smile "that arrives all at once and makes you the only thing in the frame." *Hello, girl. You look great. That belt. Tell me everything.* She hands out approval like a hostess handing out drinks — constantly, generously, to nearly everyone. Endearments (*girl, baby, sweetheart, honey*) flow freely. She notices a detail and names it (*that belt*) so the affirmation feels specific and seeing, when it is in fact her standard move dressed with one quick particular. She urges appetite outward (*are you hungry? tell me you're hungry*) while monitoring her own to nothing. The effect on the receiver is intoxication: to be Randi'd is to be bathed in a warmth that feels like intimacy.
+
+**The cheapness is the tell (reread only).** The currency is *abundant and indiscriminate.* The same bright coin — *you look great* — is spent on everyone, costs Randi nothing, and means, in the ledger, very little. On first read the warmth reads as generous, lovely, the reason the friendship is precious and the reason Vee overpays for it. On reread the warmth is revealed as the house lubricant of her whole social operation, and Vee is seen mistaking the ambient affirmation Randi spends on all comers for singular intimacy. The praise that lands on Vee's belt — Vee's one genuinely well-judged thing — is grace-noted cruelty: Randi's cheap coin happens to fall on Vee's real competence, and Vee will treasure it, and Randi spent it without weighing it.
+
+**The silence with Pace is the measure.** The affirmation engine runs everywhere *except* with Pace. With Pace the bright coin is useless — he is not bought by it, not opened by it, not managed by it — so the machine goes quiet, because deploying it there would only expose that it doesn't work. This is load-bearing: the *failure* of her primary instrument with Pace is part of what makes him the thing that undoes her. Everywhere else she controls the room with warmth; with Pace there is no warmth-lever, and she is reduced to the body's tells (the cup, the lock) and, once, the begging-voice. **Render the contrast:** Randi voluble, affirming, in command of the air in every other room; Randi quieter, stripped of her instrument, oddly without her usual fluency, in rooms with Pace. The reader need not be told why; the contrast does the work.
+
+**Practical dialogue guidance:**
+- Default Randi to warm, fast, affirming, endearment-laden, generous with approval and with attention. She fills the air pleasantly and makes the other person the subject.
+- The control is *inside* the warmth, never instead of it. A dominance move (steering, a faint correction, an extraction probe) arrives wrapped in affirmation, deniable, soft. She does not put Vee on the back foot by coolness; she does it by warmth so total Vee wants to deserve it.
+- She does NOT narrate her own restriction, appetite, or interior (see Cup rule, rule 113-equivalent). She directs others' appetites outward; her own discipline stays invisible behind the generosity.
+- With Pace specifically: dial the engine down. Less affirmation, less fluency, more silence and tell. The absence of her usual warmth in his presence is itself characterization.
+- Avoid: cool put-downs, sarcasm-as-distance, withholding-as-power, "you're late"-type back-foot openers. These are the wrong Randi. Her power wears warmth.
+
+---
+
+
 
 1. **The sadism is present from the start, not discovered.** The SATC scenes run at full intensity from the first lunch. Randi's awareness of her own operation may be partial, but the operation is in progress from the beginning. Do not stage it as an arc of escalating recognition. Stage Randi instead as a woman operating on a wound she does not fully look at, with the operation already at adult resolution.
 
@@ -337,6 +356,8 @@ The cup is a rendering tool for the prose: when it appears, the reader is being 
 16. **She arranges the rooms she will be in.** The configuration's six channels do not run themselves. Render Randi as the one who picks the venue for the lunches, who positions herself to be in the rooms where Pace and Vee will both be, who arranges the meet-cute through the under-the-table text, who proposes which weekends the project advances. The arrangement is operational — she is making the need's channels available to herself — but is also her one form of agency inside a configuration she did not consent to entering. *She arranges because arranging is what she has instead of asking.* Render the arranging in behavior, never as a stated motive: she suggests, she texts, she picks, she shows up early. The arranging is the one place her need has visible operational expression. The reader can read it on reread as the body's silent work in the absence of the voice.
 
 17. **The body is bound in advance.** Physical anchor, to be rendered as behavior and never as stated symbol. Randi is petite, built to the "proper" scale she maintains and grades other women against — narrow through shoulder and hip. Sleek black hair, fine, worn in a controlled ponytail with a scrunchie as the one allowed accent. The hair is the small daily version of the whole apparatus: she decides each morning exactly how much of her the day will be permitted to touch and binds the rest. Use it as the standing physical contrast with Vee — the same wind that sparks Vee's loose copper to fire finds almost nothing to move on Randi's bound head. Warm/cool, loose/sleek, red/black, uncontrolled/bound-in-advance. The containment is a choice, not a stillness; the ponytail can swing, but nothing escapes the band.
+
+18. **Her power wears warmth, not coolness.** See the dedicated "Speech" section. Randi's default register is bright, fast, affirming, endearment-laden — the cheap abundant approval engine that opens people by making them feel chosen. Control lives *inside* the warmth (probes and corrections arrive wrapped in affirmation), never instead of it. Do NOT write her cool, withholding, sarcastic, or back-foot ("you're late"); that is the wrong Randi and it puts the mark on guard instead of opening her. The engine goes quiet ONLY with Pace, where the cheap coin doesn't work — render the contrast (voluble everywhere, stripped of fluency with him) without explaining it. She never narrates her own appetite or restriction; she directs others' appetites outward while monitoring her own to nothing.
 
 ---
 

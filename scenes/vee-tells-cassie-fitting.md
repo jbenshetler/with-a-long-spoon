@@ -172,14 +172,44 @@ Vee was quiet for long enough that it wasn't about finding the word. It was abou
 
 Cassie made a sound that wasn't quite a word. She reached over and put her hand on Vee's knee, once, and took it back.
 
-Vee looked at the loose thread. Outside the window someone was crossing the quad and the afternoon had gone late and gold, and the radiator clicked in the corner, and the shirt Pace had made was folded on Vee's pillow at the top of the bunk because she'd put it there without thinking when she changed this morning.
+Vee looked at the loose thread. Outside the window someone was crossing the quad and the afternoon had gone late and gold, and the radiator clicked in the corner, and the shirt Pace had made was folded on Vee's pillow at the top of the bunk because she'd put it there without thinking when she changed.
 
-"He's not done," Vee said. "The skirt. He still has to sew it. He'll call me when it's ready."
+"He's not done," Vee said after a while. "The skirt. He still has to sew it. He'll call me when it's ready."
 
 "Okay," Cassie said.
 
-"It's burgundy," Vee said again. Not to tell Cassie — she'd already told her. Just to have the word in her mouth.
+The quiet sat there, warm, for a moment longer. Then Cassie shifted against her pillow, and Vee could see her doing it — going back over the whole thing, laying it out, the way she went over a problem set when the answer in the back of the book didn't match hers. Her face did the small frown.
 
-"I know," Cassie said. "You said."
+"Okay, wait," Cassie said. "Walk me through this. He's seen you with your shirt off twice now. Once in his own house. On a box. And he — sewed." She held up a finger. "He's a bodybuilder who makes dresses." Another finger. "He has had you standing in his living room in your underwear, and he picked up a *tape measure.*" She looked at Vee. "Vee. Are you sure he's not gay?"
 
-Vee nodded. She stayed on the edge of the bed a little longer.
+"He's not a bodybuilder, he's a powerlifter, it's a totally different — "
+
+"Vivienne."
+
+"He doesn't kiss like he's gay," Vee said.
+
+"Okay — "
+
+"And I could feel his — " Vee reached back and patted her own ass, brisk and clinical, like she was indicating it on a diagram. "His *package.* Right here. When he was pinning the back seam." She nodded with great authority. "Definitely not gay."
+
+Cassie's eyebrows went up. She sat forward. "He was *grinding* on you?"
+
+"No," Vee said.
+
+"He had you half naked on a box and he was — "
+
+"No, Cass." And there it was, the thing she'd been keeping all the way at the bottom, and she felt it surface with her whole face going warm and delighted and a little wicked. She looked at Cassie sideways. "*I* was grinding on *him.*"
+
+Cassie stared at her.
+
+Vee started to laugh.
+
+"You did *not.*"
+
+"A little. When he was back there. I leaned — I sort of — " She was laughing too hard to finish it, both hands over her mouth, and Cassie threw the pillow back at her, and Vee caught it and hugged it to her chest and rocked.
+
+"You are unbelievable," Cassie said, but she was laughing too. "He's making you a *dress* and you're — "
+
+"I *know.*" Vee dropped backward onto Cassie's bed, the pillow still against her, and lay there grinning at the underside of the top bunk. "I know, I know."
+
+She didn't get up for a while. Neither of them said anything for a while. It was a good kind of quiet, and the shirt was up there on her pillow, and the skirt wasn't even finished yet.
