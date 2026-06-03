@@ -142,7 +142,7 @@ Shell-shocked and bitter; leaves soon. Reads Pace’s involvement as betrayal �
 - It’s consistent with who she’s become — she’s finally stopped doing the emotional labor of managing others’ understanding of her (the grace-reflex that was always a vulnerability).
 - It serves his arc: if she explains, he receives his reckoning from her, externally — almost a gift. If she just goes, he must assemble it himself (becoming, too late, the person who reads the room correctly — about himself, alone).
 - Information asymmetry reverses: the whole novel she operated on incomplete data (the statistics irony). The reveal hands her the full dataset. Leaving without explaining is the only exercise of the power she spent the book not having — and she doesn’t use it to wound further. She just leaves.
-- **She leaves with full knowledge, full anger, full ownership of her transformation — outside anyone’s plan for her, possibly for the first time.** The snide comments are gone, unannounced.
+- **She leaves with full knowledge, full anger, full ownership of her transformation — outside anyone’s plan for her, possibly for the first time.** The snide comments are gone from her speech — *regulated, not resolved.* The mother’s floozy-voice was installed too young to be outgrown; what has changed is that her matured superego now governs the impulse rather than voicing it. She still feels the verdict; she no longer broadcasts it. Render the absence as restraint made visible — a comment the reader can feel her *not* making — never as a cure. (See Vee arch., Temperament: shame-as-gasoline / regulation-not-extinction. The felt judgment runs at full force to the end; only the vocalization matures.)
 
 ### Pace’s reactions
 

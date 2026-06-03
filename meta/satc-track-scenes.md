@@ -188,6 +188,42 @@ Where Cassie receives Vee's agency (*I made a move*), Randi extracts the same fa
 
 -----
 
+## THE SATC CYCLE: TRANSGRESSION → REWARD → NEXT (and its rot)
+
+The SATC lunches run the same transgression-cycle as the Pace track, with the rot in the reward. **Pace's cycle:** transgression (terrifying, stays terrifying — she never learns it is *safe,* only that it is *survivable* and there is goodness on the far side; he teaches her to be brave in the fear, not to stop fearing) → the brave crossing → **genuine reception** (real goodness, being-met, the blanket and tea that rewards the courage and makes the crossing worth it) → which licenses the next, deeper crossing. **Randi's cycle:** extraction (the transgression/charge) → Vee crosses (exposes the shameful material, the body responds) → **the goodbye hug and special kiss** (the reward) → *see you soon, gorgeous* → the next. Same cycle-shape; Randi's reward is the counterfeit (below).
+
+### The edging — Randi's stakes-raising method
+
+Randi's mechanism for keeping the transgression unsafe-enough-to-fire as Vee's trust grows (the thermodynamic necessity — see stakes-must-rise) is *edging and directed escalation*: driving Vee toward more explicit acts, withholding and releasing, issuing escalating instructions — e.g. *"After you masturbate in the bathroom, you have to show me your wet fingers."* The instruction is the type: specific, directed, the *showing* the operative humiliation (do it, then bring me the proof). The edging is the concrete form of the stakes-must-rise principle — each instruction a stake Randi raises to outpace Vee's growing trust and keep the charge alive.
+
+### The orgasm-migration ladder
+
+Across the year Vee's orgasm migrates by location, and each shift is a *gap-collapse* that raises the stakes (thermodynamic necessity) and the shame (gasoline — see Vee arch., shame-as-gasoline):
+1. **Home, after — early.** Time-and-space gap between extraction and orgasm; the drive home, her own room, alone. The gap preserves deniability (she tells herself it was the frank talk, not Randi).
+2. **Restaurant restroom, during/after — middle.** The orgasm moves into the venue; she excuses herself, gets herself off in the bathroom, returns to the table still warm. Space-gap-only; deniability thinning; she comes back into Randi's company carrying what she just did.
+3. **The chair, across from Randi, during the extraction itself — late.** No gap at all: the humiliation-charge and the climax are one event, in Randi's sightline, held behind a public face, no separation in which to insert management or a story.
+
+The ladder *trains Vee out of the management-gap* into the gapless, shame-fused responsive state the threesome cashes — the chair is the dress rehearsal, the blindfold's gaplessness pre-installed here (cf. threesome doc: the blindfold removes the gap where she'd insert management, so outrage and arousal arrive fused). Floozy-policing runs at FULL force at every rung and *fuels* each orgasm; rising location-transgression = rising shame = rising charge.
+
+**Randi is the active driver of the ladder, not a passive occasion for it.** The migration happens because Randi is intentionally edging Vee and escalating the explicitness — withholding, directing, issuing the instructions that push each rung (*after you masturbate in the bathroom, you have to show me your wet fingers* — she washes, then displays the evidence; the showing is the humiliation, deliberate and directed). The ladder is an extraction-and-conditioning program Randi runs with intent, each rung a stake she raises.
+
+**Randi knows.** She knows the bathroom orgasms are happening (the *show me* instruction proves she's tracking and directing them) and she definitely knows when Vee comes in the chair. Her knowing is part of the charge and part of the control.
+
+**(Unsettled — do not lock.)** Whether, at the late/chair stage, Vee comes *during* vs. *after* the extraction is not yet decided; to be worked out when the late SATC scenes are drafted. Orgasms are rendered — explicitly but in-register (interiority and social-charge, not mechanics; the chair-rung as much terror/exposure as pleasure).
+
+### The goodbye hug and special kiss — counterfeit blanket-and-tea AND liminal-space exit
+
+Every SATC lunch ends with a hug and a special kiss. It does double duty:
+- **The reward (counterfeit blanket-and-tea).** It is the reception on the far side of the extraction — the counterfeit of Pace's genuine reception. Where Pace's reception is real goodness that meets her and rewards the brave crossing, Randi's is the **affirmation-engine's recognition** — warmth that confers belonging, not *seeing* (see reserved-vocabulary: *seen* belongs to Pace, never to Randi). It *feels* to Vee like acceptance and is, underneath, the cheap currency. Vee reads it as acceptance from the very first, and likes the contact from the very first; the reward-phase feeds the submerged attraction each cycle.
+- **The liminal-space exit.** It is also the ritual boundary-marker that closes the charged zone of the lunch and returns them both to ordinary life. *Reward, then back to normal.* The hug/kiss is the door out of the liminal space.
+- **Kiss-signature training (the third job).** The special kiss is also where Vee's body learns Randi's kiss — a year of these goodbye kisses trains her to recognize exactly that kiss, which the threesome must then avoid (touch/taste identify no one; the kiss is the sole identity channel) and the reveal deploys as the weapon (cf. threesome doc). One detail, three jobs: counterfeit-reward, seduction-feeding, reveal-weapon training. *See you soon, gorgeous* closes the ritual and books the next.
+
+**The Pace/Randi contrast, sharpened.** Both run transgression → reward → next. Pace rewards the terrifying crossing with *genuine* reception (goodness, meeting — the real blanket and tea — which makes the brave crossing worth it). Randi's reward *feels* like that and is counterfeit: recognition not meeting, the cheap currency, an exit ritual that returns Vee to normal life already booked for the next extraction. Same cycle-shape, real reception vs. counterfeit.
+
+-----
+
+-----
+
 ## PARTIAL EXTRACTION & THE WITHHELD THREAD (a reusable power-move)
 
 Randi need not take everything. **Declining to pull a thread she has clearly reached is MORE powerful than pulling it.** Taking the thing spends it; declining says *I could take this whenever I want, I'm choosing not to, and we both know I know.* That's a leash. Mechanics:
