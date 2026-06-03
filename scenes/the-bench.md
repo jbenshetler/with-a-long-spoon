@@ -162,7 +162,7 @@ He adjusted the leg supports. He widened them slowly until her thighs were apart
 
 "Red," she said.
 
-He laid his palm against the round of her ass — not striking, just resting — and let it sit there. The skin was warm and soft and waxed to a smoothness that gave his hand no purchase. He felt her settle further into the bench. The settling was good. He moved his hand up to her back, the palm flat, and ran it slowly the whole length of her spine from the small of her back up to the base of her neck and into her hair, registering the small bumps of her vertebrae and the warmth of her under his palm and, at the base of her neck, the first faint dampness rising. He let his fingers move through her hair to her scalp — heavier and smoother than he had expected, the smell of something expensive and clean in it — and worked his fingers through her scalp for a long moment while she let her head hang from the grips, and then he ran his hand back down her spine to her ass, and stayed there.
+He laid his palm against the round of her ass — not striking, just resting — and let it sit there. The skin was warm and soft with a smoothness that gave his hand no purchase. He felt her settle further into the bench. The settling was good. He moved his hand up to her back, the palm flat, and ran it slowly the whole length of her spine from the small of her back up to the base of her neck and into her hair, registering the small bumps of her spine and the warmth of her under his palm and, at the base of her neck, the first faint dampness rising. He let his fingers move through her hair to her scalp — heavier and smoother than he had expected, the smell of something expensive and clean in it — and worked his fingers through her scalp for a long moment while she let her head hang from the grips, and then he ran his hand back down her spine to her ass, and stayed there.
 
 She had not yet been spanked. She had been on the bench for perhaps two minutes. He could feel, in the small movements of her body under his hand, that she was already starting to find this difficult — not the position, the position was easy, but the *waiting,* the slowness, the not knowing when. She had been in scenes before where the first strike came fast. He knew this because the first time he had taken her to bed she had braced before he had touched her, a small invisible bracing in her shoulders that he had felt and let pass and not commented on. She braced because every man before him had been in a hurry. Hurry was what she had been trained to receive. He was not in a hurry. He was not going to be in a hurry tonight, and she had not yet figured out what to do with that, and he could feel her trying to figure it out.
 
@@ -176,7 +176,7 @@ He bent and kissed the back of her neck, warm against his mouth, the first faint
 
 "Good," he said.
 
-He brought his hand down on her, then, the first strike, not hard, on the right side of her ass. She gasped — partly surprise, partly the relief of finally having the thing she had been bracing for arrive — and the gasp was a real gasp, brief and breath-driven, not the trained gasp she would produce later. He filed that one too. He soothed the place where his hand had landed with his palm, slowly, three or four passes, watching the pink rise on her pale skin and feeling the warmth of his strike still alive under his hand. Then he hit her again, a little harder, on the same place. She made the same sound. He soothed again — the skin was already hotter than before, faintly damp where his palm had been working. A small ripple of goose bumps lifted across the cooler skin of her thighs. Then the left side, twice, with soothing between, and her breathing was beginning to change.
+He brought his hand down on her, then, the first strike, not hard, on the right side of her ass. She gasped — partly surprise, partly the relief of finally having the thing she had been bracing for arrive — and the gasp was a real gasp, brief and breath-driven, not the trained gasp she would produce later. He soothed the place where his hand had landed with his palm, slowly, three or four passes, watching the pink rise on her pale skin and feeling the warmth of his strike still alive under his hand. Then he hit her again, a little harder, on the same place. She made the same sound. He soothed again — the skin was already hotter than before, faintly damp where his palm had been working. A small ripple of goose bumps lifted across the cooler skin of her thighs. Then the left side, twice, with soothing between, and her breathing was beginning to change.
 
 He worked her like that for several minutes — pairs of strikes alternating sides, the soothing between, the slow brightening of the skin on her ass to a deepening pink. She had not yet made any other sounds. She was good at this part. She had been spanked before and she knew how to receive it, knew the cadence to breathe through, knew not to clench. He could feel her using her training. He let her use it. The training would last as long as the training lasted. He was not going to interrupt it.
 
@@ -190,7 +190,7 @@ She made a small breath of a laugh. "Hi."
 
 "Yes."
 
-"Stay with me," he said. He put his palm against her cheek — the cheek was hot, faintly damp. He stroked her hair back from her face with his other hand. He let his fingers comb through her hair down to her scalp and stayed there for a moment, scratching gently with his nails the way he had learned in the third week she liked, and her eyes closed. He stayed where he was. He scratched her scalp for a long beat — twenty, thirty seconds, longer than any spanking transition called for — and her breathing slowed, and her face turned slightly into his hand, and he kissed her on the forehead, upside-down, the warm damp of her temple against his lips and the taste of salt on his mouth, and she made the small breath-laugh again.
+"Stay with me," he said. He put his palm against her cheek — the cheek was hot, faintly damp. He stroked her hair back from her face with his other hand. He let his fingers comb through her hair down to her scalp and stayed there for a moment, scratching gently with his nails the way he had learned she liked, and her eyes closed. He stayed where he was. He scratched her scalp for a long beat — twenty, thirty seconds, longer than any spanking transition called for — and her breathing slowed, and her face turned slightly into his hand, and he kissed her on the forehead, upside-down, the warm damp of her temple against his lips and the taste of salt on his mouth, and she made the small breath-laugh again.
 
 "Okay," he said.
 
@@ -236,7 +236,7 @@ He soothed her ass with his other hand. He came around to her face again. He cro
 
 "Just checking," he said.
 
-He went back behind her. He hit her three times in quick succession — left, right, center — and she gasped each time and the third gasp had a small whimper in it. He filed the whimper. He brought his hand back between her legs and stroked her, longer this time, with more pressure, and at the moment he could feel her body beginning to gather toward something he stopped and took his hand away and laid it flat against the small of her back. She made an audible sound of frustration.
+He went back behind her. He hit her three times in quick succession — left, right, center — and she gasped each time and the third gasp had a small whimper in it. He brought his hand back between her legs and stroked her, longer this time, with more pressure, and at the moment he could feel her body beginning to gather toward something he stopped and took his hand away and laid it flat against the small of her back. She made an audible sound of frustration.
 
 He kissed the spot where his hand had been on her ass. She inhaled sharply.
 
@@ -276,7 +276,7 @@ She made a small sound against his face.
 
 "You are," he said. "You are doing so well."
 
-He took his hand from her breast. He went back behind her. He hit her again. She cried out and the cry was not a trained cry, the cry was real, the cry was a *sound from her,* and he heard it land and he heard himself want to hear it again, and he soothed her and waited and hit her again to hear her make it again, and she did, and he filed both. He bent and pressed his face against the curve of her ass where it was hottest and kissed her there, his mouth against the heat his own hand had made. She gasped.
+He took his hand from her breast. He went back behind her. He hit her again. She cried out and the cry was not a trained cry, the cry was real, the cry was a *sound from her,* and he heard it land and he heard himself want to hear it again, and he soothed her and waited and hit her again to hear her make it again, and she did. He bent and pressed his face against the curve of her ass where it was hottest and kissed her there, his mouth against the heat his own hand had made. She gasped.
 
 "Pace," she said.
 
