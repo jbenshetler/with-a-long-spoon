@@ -1,155 +1,351 @@
-# Scene Plan — True Chronological Order
+# Scene Plan — Chronological Order
 
-*Supersedes the inventory in summary.md. Story order = list order. SATC = confidante-track retelling; FB = SATC format-break.*
+*See `meta-process-chronology.md` for update protocol. Update this document whenever a scene is drafted, revised, added, or repositioned.*
 
-**New in this version (marked `[NEW]`):**
-- **Randi's Walk of Shame — "The Morning After"** — new scene 2, inserted between the Bench and the Plan Origin (draft complete in `randis-walk-of-shame.md`). Introduces Brooke and the sorority's social penalty for the non-approved man. *All scenes from the old #3 onward have been renumbered +1.*
-- **The Fitting** — the burgundy-silk dress-making scene (draft complete in `the_fitting.md`).
-- **Shoe Shopping with Randi** — SATC; Randi learns of the dress, the shopping-together format is established.
-- **The dress cluster (14a–14e)** — after the Fitting: Vee tells Cassie about the fitting; the SATC lunch where Randi learns Pace is *making* the dress (before it's done); Randi takes scrunchies from Pace's drawer (grain #1); Vee picks up the finished dress, initiates sex, and after notices the drawer is thinner (the first shadow); Vee shows Cassie the dress. Shoe-shopping (15) becomes the showing-to-Randi contrast, Randi already knowing.
-- **Randi & Pace — "Sweet" (the dress barb)** — Randi denigrates the homemade dress to the man who made it; the barb thuds (he doesn't share the designer-over-handmade hierarchy). *No longer the first planted clue — that's the scrunchie sub-thread.* Placement still vague; likely moves later.
-- **The scrunchie grains** — the first-clue mechanism, a gaslight that points *inward* (Vee doubting her own perception), escalating: over-depletion of the form (Randi takes ~6, 38→32, edge-of-noticeable, primes her watching) → Randi wears the taken ones around Vee (ongoing flicker) → the **restoration** (Randi returns ~4 to the form, 20→24 — impossible by Vee's depletes-only habit, so it's loud, but she credits *"Pace must have refilled them"* — gaslight, not implication). Replaces the old single-plant "first clue."
-- **The Porch Scene — Cracker-and-Meal** — quiet mid-novel beat where Vee speaks her displacement *I love you* as the cracker-and-meal figure; Pace understands and routes it down the sex-channel; Vee cannot tell whether he understood or didn't; load-bearing grain for the Christmas fight (draft in `porch-scene.md`).
+**Calendar anchor:** Academic year runs late August through early May. Fall semester begins ~Mon Aug 28. Thanksgiving break ~Wed Nov 22–Sun Nov 26. Christmas break ~Fri Dec 15–Sun Jan 14. Spring semester begins ~Mon Jan 15.
 
-See continuity flags at the end — ordering wrinkles to resolve.
+**Entry types:** `[SCENE]` full prose scene · `[VIGNETTE]` short beat, single image · `[EVENT]` not rendered, canonical backstory
 
 ---
 
-## Pre-novel (backstory — banked, likely never shown)
+## Phase 0 — Pre-Novel (Early August)
 
-**0. How Pace and Randi Met — on the common.** *(NOT a scene to draft; canonical backstory in the bible. ~3 weeks before the Bench.)* Pace walks up cold to Randi's Greek group on the campus common and, against real odds, gets accepted into the clique — charm aimed at making fragile-ego high-status people feel important; within ~15 minutes he has them laughing (he sets up the jokes and lets others land the laugh lines), and asks Randi out inside that window. **His motive is genuine attraction, not strategy** — he's drawn that she's beautiful and a leader (leaders have more to lose, more to transgress); the *same skill* he later aims at Vee is here un-aimed. *Lock: the Randi meet was not engineered.* They go out (date not followed). The sisters gather to hear it; those who saw him are sympathetic, those who only heard are aghast (he *barged in*, asked out a senior sister, she *went*) — the native home of **"He's hard to say no to"** (the walk-of-shame line is the ~3-weeks-later echo). **Over time the house converges that it's wrong for a senior sister to date a social outcast; Brooke lets it converge and rides it.** Tracked as the social-penalty **thread**, not a scene; the walk-of-shame is one station inside it.
+[EVENT] **~Sat Aug 5 · Pre-novel**
+*Not a scene · backstory in `meta-arch-bible.md`*
+Pace meets Randi on the sorority common, walks up cold to her Greek group, gets accepted into the clique within fifteen minutes. Asks her out inside that window. His motive is genuine attraction, not strategy. First date follows within the week. The *"He's hard to say no to"* line originates here among the witnesses; the absent sisters are aghast. Social-penalty thread begins.
 
----
-
-## Before Vee (setup — no Vee present)
-
-1. **The Bench (formerly "The Spanking"; pre-plan).** *(File: `the-bench.md`.)* Opening scene, Pace's POV. On a bench he custom-built before they met, Pace gives Randi a tender, unhurried BDSM scene that reaches her deeper than anything before him, causing her to beg — and producing in her a hunger she will grow to hate him for. He reads the begging as a deprivation he's ending and lies there making contented plans, certain he's been right about her, blind to the need he has just inaugurated. The two perfect apparatuses, first shown. (Clamps held for the Vee track.)
-
-2. **`[NEW]` Randi's Walk of Shame — "The Morning After."** *(File: `randis-walk-of-shame.md`. Draft complete. Immediately after the Bench — the morning-after counterpart, the way the Plan Origin is one continuous bed→campus movement.)* The morning after the bench. Randi pays the social price for dating an unapproved man when **Brooke, the sorority president, leads the sisters in coded catty comments** — warm on the surface, costing Randi the frame she's always owned (Pace is the wrong kind of catch by the chapter's value system: short, an old gray pickup, grad-student, "short-cute"). Brooke runs the room without standing — and the dent lands harder because **Randi is herself an officer**: she sits on the executive board as **Standards**, the one who runs conduct hearings and judges which sisters meet the house's standard, and Brooke still outranks her — the one fact her self-arrangement can't rearrange. Then, alone in **her single** (a perquisite of the board seat — her own governed door, on theme with the locked-threshold motif), she reckons with the **hunger the bench awakened** and the cost of having begged — the moment quietly **rhyming the Bench's bathroom-mirror beat**: *"He's hard to say no to,"* a line she'd played downstairs as a light social cover, returning to her in a key she has no script for, the not-crying because the supply was spent the night before. The color-coded closet as daily containment.
-
-3. **The Plan Origin (one continuous movement: bed → next morning → campus walk; his POV).** *(File: `plan-origin-campus-walk.md`.)* Post-coital, he draws out her fantasy; orgasm at *tasting another woman*; she edits it down to *"as part of a thing, the three of us."* The pointing game in daylight as reconnaissance; he points at Vee, Randi's composure cracks for one breath — a broken stride, the bare *"Yes."* He reads it; lets her keep the game.
+[EVENT] **~mid-August · Pre-novel**
+*Not a scene*
+Pace and Randi have been sleeping together for ~3 weeks before the Bench. The relationship is established but not named. The sorority house begins to converge on the view that a senior sister dating a social outcast is wrong; Brooke lets it converge and rides it.
 
 ---
 
-## Early (acquaintance → first intimacy)
+## Phase 1 — Before Vee (Late August – Early September)
 
-4. **Statistics Class — Randi Notices Vee.** *(Working name: "together-in-class" — to be written.)* Unequal-exchange pattern established. *(The shared course is **calculus-based statistics** — the discipline that becomes the book's mirror. First on-page Randi/Vee proximity after the campus collision in the Plan Origin; the class connection is the thread Randi pulls. Sits between the Plan Origin and the Coffee/Smoothies one-on-one.)*
+### 1. [SCENE] The Bench
+**~Fri Sep 1 · end of first week of fall semester**
+*Draft complete · `the-bench.md`*
 
-5. **Coffee/Smoothies — First One-on-One.** Name exchange (Vee steals the move). Closing kiss, grenade-and-walk, filed as a sorority thing — the goodbye-kiss thread begins here.
+Opening scene, Pace's POV. Randi arrives, locking the door behind her — her first act, always — and the scene renders their domestic ease: the pre-sliced apple thin because she eats thin slices, the straddling at the kitchen table, the apple eaten kiss by kiss. The BDSM sequence that follows is unhurried, tidal, reading her body at every stage; she begs, *please, please, please*, in a voice she hasn't used since childhood, and is called beautiful in the same breath. In his bathroom afterward with the door locked for the first time, Randi faces herself in the mirror — the face of a woman who has begged — and practices the smile back onto it until it settles. She returns composed; he holds her and makes quiet contented plans about who she'll become, certain he was right about her, entirely blind to the hunger he has just inaugurated. *The hum in her ribs: the size of a key turning in a lock.* Clamps held for the Vee track.
 
-6. **Cassie's Warning.** (beats only) Planted, dismissed; never explain the device.
+### 2. [SCENE] Randi's Walk of Shame
+**Sat Sep 2 · morning after the Bench**
+*Draft complete · `randis-walk-of-shame.md`*
 
-7. **The Engineered Meet-Cute.** *(File: `the-meet-cute.md`. Coffee shop on Wilson Street, mid-afternoon; Vee's POV.)* Randi has texted Pace their location from under the table (the cup-hand busy-ness Vee reads as boredom; Cassie clocks the lap-level phone). Vee is stuck on a **calculus** problem from their calculus-based statistics course — *"It's really hard. It's calculus." / "Let me give it a try."* (she names the machinery defeating her, not the course) — when Pace crosses the floor with his eyes on Vee the whole way (*"he didn't even look at her"*). He helps via her econ teacher's frame — name the variables, name what's changing, name what you're solving for — and the problem cracks. The courtesy that lands on her: ***"May I call you?"*** — the *may* from a vocabulary her mother would approve, that a man her age isn't supposed to have; her body answers before her mouth. **Cassie's device:** *"He didn't even look at her" / "He looked at her like she was a chair"* — planted, dismissed by Vee's own social reflex smoothing the room; never explained. Randi recovers the moment with the warm rescue and *"He was cute. You should text him."* **The cup-tell appears:** Randi turns the cup a quarter-turn so the handle points at Vee, and does not look at it again — Vee never registers the turn and it never reaches her memory. Plan formally begins; two of three know.
+Randi arrives home in last night's clothes to find Brooke already at the chapter laptop. The interrogation runs through the gray pickup, Pace's name, his field, his course section, and *short-cute*, Sloane and Kinsey providing ambient cover, four minutes that cost Randi the frame she's used to owning. The dent lands hardest because Randi sits on the board as Standards — and Brooke still outranks her in her own common room. Alone in her single, she moves toward bed, vanity, closet, and back without landing — still in her shoes, under the duvet — and the line *"He's hard to say no to,"* played downstairs as a light social cover, returns to her in a key she has no script for. Rhymes the Bench's bathroom-mirror beat; introduces Brooke; installs the social-penalty thread.
 
-8. **Calls/Texts → The Froyo Walk (the starter date).** He courts on a schedule she can't see; chooses the small safe opener though the plan is already live for him.
+### 3. [SCENE] Plan Origin / Campus Walk
+**~Sun Sep 3 · day after the Walk of Shame**
+*Draft complete · `origin-campus-walk.md`*
 
-9. **The Dance Lesson and CW Bar.** *Don't think, just feel the lead.* The *floozies* misread; he offers the exact courtesy she mocked; the older woman's correction to the dance floor, not to Vee.
-
-> **[NEW — placement note] The good shirt / no-tag plant.** Somewhere in this Early stretch, before the Fitting, Pace gives Vee a well-made shirt with **no brand tag.** She notices the absence once, guesses wrong (counterfeit, sample), drops it. Pure throwaway — it must NOT read as significant until the Fitting detonates it. Plant beat drafted in `fitting_companion_notes.md`. Could fold into an existing early domestic beat rather than stand alone.
-
-10. **The Randi/Vee Escalation — Coffees to Mimosa Brunch.** *(SATC.)* Frank register; *them-not-you* seed; first bathroom trip (Randi files the timing).
-
-11. **The Hiking Rainstorm / Shirt Scene.** He steps into the rain for her privacy; she beckons him back, changes facing him. Keeps the (enormous, his) hiking shirt — the disappear-into-his-fabric beat that the burgundy dress later inverts.
-
-12. **First Night Together / Secretions Reframe.** *"Would you be bothered if I was too hard?"* — then active savoring. *"Trade."* (the panties). Best sex of her life.
-
-13. **Vee Tells Randi About the First Night.** *(SATC.)* Vee raves, defers on *why*. The bullshit look; Vee fills the silence. Randi opens with her own story to warm the room.
-
-14. **`[NEW]` The Fitting.** *(Draft complete — `the_fitting.md`.)* For her economics honor-society induction. He's bought silk in a shade **deeper and warmer than the magazine one she'd pictured — chosen for her coloring; he matched *her*, not the reference.** Reveals (via the no-tag shirt) that **he made the shirt.** The measuring-tape sequence (close, two touches, withdraw, write it down — a slow rhythmic tide). Tea and a fleece blanket while he cuts. He builds the dress on her on a riser, top-down; she's bare above the waist in a pre-heated house (he thought ahead so she wouldn't be cold). **The secretions hinge:** she dreads the wet spot, shuts her eyes, three fearful breaths — and opens them to find him craned *up* to her face, already beaming, never having looked down. The reframe enacted wordlessly; it tips her from nervous to bold. Bold-as-overflow escalation (the *"Oops. Sorry."* beat), the pinprick from her own daring, the involuntary kiss-it-better, and *"Keep still"* holding the line. **Deferment held — no sex this visit; the dress leaves unfinished.** The try-on resolution is a separate later beat (she initiates, he proceeds; keep it tender, no spanking — the swat must stay the first edged beat).
-
-> **The dress cluster (scenes 14a–14e below; letter-suffixed to avoid a full renumber — renumber later if desired). Order is load-bearing: the Fitting leaves the dress unfinished, so everything here sits between the making and the finished-dress shoe-shopping.**
-
-14a. **`[NEW]` Vee tells Cassie about the fitting.** *(Warm register — genuine-mutuality channel; the dress is still unfinished, so this is the *experience*, not the object.)* Vee tells Cassie about the fitting — warmer, less performed than the Randi version, the being-seen-at-her-most-ashamed and not-found-wanting leaking into the telling. Contrast pre-seeded against the Randi SATC channel. *(Pairs later with 14d, showing Cassie the finished dress.)* Quiet Cassandra-track work.
-
-14b. **`[NEW]` SATC lunch — Randi learns about the dress.** *(SATC.)* Vee, glowing, tells Randi that Pace is *making* her a dress for the induction — **before it's finished.** This is the detonating datum (tenderness/attention Randi cannot manufacture; the jar-realization's nerve). Randi's contempt and injury leak only as behavioral hints Vee misses (appraisal-as-interest — *"wait, he's* making *it? like from fabric?"*). *This replaces shoe-shopping as the channel through which Randi learns* — she now arrives at the shopping (15) already knowing, already having acted. The cup-tell is a candidate here.
-
-14c. **`[NEW]` Randi at Pace's — sex; takes the scrunchies (grain #1).** Randi goes to Pace's to have sex with him and, while there, **takes ~6 scrunchies from the cardboard form in the bathroom drawer Pace keeps stocked for Vee** (form was at ~38 from normal use → ~32) — calibrated *right at the edge of noticeable.* *(Mechanism: Vee takes from the form and drops returns loose in the drawer, so the form only ever depletes under her habit; Pace would never track the count — only Vee can, and only half-consciously. See the scrunchie-grains thread for the full arithmetic.)* Cold beat: intimacy with Pace as the occasion for removing the tokens of his care for Vee. Render the taking as almost nothing — a hand in a drawer. **She keeps them** (payoff at grain #2, when she wears them around Vee).
-
-14d. **`[NEW]` Dress pickup — Vee receives the finished dress; initiates sex; the first shadow.** Vee picks up the completed dress, is thrilled, and — emboldened (the gift produced the boldness) — **initiates sex; she proceeds, it's joyful, pure.** *Afterward,* putting herself back together at the bathroom drawer, reaching for a scrunchie off the form, she registers it as **lower than it should be** — a steeper drop than her own use explains (grain #1's payoff). *Formless unease:* it's still depletion (the plausible direction), so she can't be sure she's right and would never say it aloud — but it **puts her half-consciously on watch over the form**, which is what makes the later restoration (grain #3) land. She fixes her hair with one of her own and leaves composed, the shadow entirely interior. *(Try-on resolution folded in — she initiates, he proceeds, tender, no spanking.)*
-
-14e. **`[NEW]` Vee shows Cassie the dress.** *(Warm register.)* Vee shows Cassie the finished dress, **proud and happy, with just a hint of darkness on the horizon** — the drawer-thinness sitting in her too formless to name, so the scene is mostly pure delight with the faintest shadow the reader feels and Vee doesn't. **Deliberate contrast with the showing-to-Randi register at shoe-shopping (15):** Cassie's clean delight first, the Randi version read against it.
-
-15. **`[NEW]` Shoe Shopping with Randi (the two-way reveal).** *(SATC.)* Randi insists on helping Vee find shoes for the new dress. **Randi already knows about the dress and already took the scrunchies** — so this scene is no longer where she learns; it's the showing-to-Randi contrast against showing-to-Cassie (14e), now triple-layered: Vee delighted, Randi running the appraisal-as-interest sadism underneath (*"is it real silk?"*), and the reader holding what Randi did to the drawer. Establishes **shopping-together as a format Randi excels at** — the warm low-stakes setup for the later summer-dress dressing-room money-as-power FB. Vee catches at most a flicker and writes it off. Unstated inversion-rhyme: two people kneeling before Vee — Pace making something *for* her, Randi selling her a version *of* her.
-
-16. **`[NEW]` Randi & Pace — "Sweet" (the dress barb).** *(His POV; post-coital, the Plan-Origin register. Develop. Still vague on placement — likely moves later once more is known.)* They still see each other regularly. Randi denigrates the homemade dress **to the man who made it:** the left-handed compliment — *"It's so sweet that he made it for her"* — **homemade-as-déclassé,** her first-gen-wealth value system exactly backwards (handmade is the precious thing in this book). A status power move: putting the nobody-she-had-to-spin back in his box, clawing back the frame. **The barb thuds** — Pace doesn't share the designer-over-handmade hierarchy, so her sharpest move lands on nothing; one flicker where her instrument doesn't play (the tell that her control has a seam). **The barb requires the dress to be finished and seen, so this sits after the pickup cluster (≥14e).** *(NOTE: this scene previously doubled as "the first planted clue." Superseded — the scrunchie sub-thread is now the first clue (14c→14d). If a clue-plant still wants to live in this visit, it's a LATER grain, not the first; keep it distinct from the scrunchie objects. Currently no plant assigned here pending placement decisions.)*
-
-17. **The First Swat / The Setup.** *(Prerequisite for the Proof Scene.)* Her sassy; one playful swat; the **look** crosses her face; she immediately initiates sex. Swat → look → sex, nobody names it. Plants the *what was that look?* hook.
-
-18. **Cassie & Vee — The Cooling-Off Scene.** Vee talks about Pace **differently than with Randi** — warmer, less performed, the register of actual mutuality. Quiet Cassandra-track work; a breath of genuine air.
-
-19. **The Proof Scene.** *(Pays off the Setup.)* Bratty again, recreating the conditions (did she engineer it or her body?). Several spanks; the **whoa look** confirmed. *"You enjoy being spanked."* She denies it; he uses his finger to show her her own arousal; the floor drops into REAL shame; shame **ignites** (more, harder) rather than recoiling. What she's ashamed of: her body announcing its wanting without her consent. Shame used, not resolved.
-
-20. **Vee Tells Randi About the Proof Scene.** *(SATC.)* *"Are your fingers sticky?"* (pastry tilt). Randi's question does in the retelling what Pace's finger did in the act. Doubled shame → **first masturbation** (a capitulation: "she stops not-doing it").
-
-21. **The Painting Afternoon.** Waxing agreed-to with noticed ease; painted as fruit (peaches callback); the photo she wants only to see herself through his eyes.
-
-22. **Vee Tells Randi About the Painting.** *(SATC.)* Shows the photo. *"Gesso?"* The small smile already in place on return.
-
-23. **The COVID / PPP Statistics Project.** They find Randi's father's company; she didn't know; recovery one beat too fast (Cassie sees, Vee doesn't). She accelerates into the plan.
-
-24. **The Dance (FB — CW-structured on sorority turf).** *"I'll lead, just follow me."* Declining male partners. Randi leads *less capably* than Pace — character tell, body-noticed wrongness, AND the deniability mechanism. Installs Randi's touch-signature for the reveal.
-
-25. **The CW Jitterbug Scene.** Floor work first (the chain); she balks at the lifts (*too heavy*); **he offers and waits at the consent line** — won't put her in the air without a yes (the not-lifting IS the trust). Airborne escalation; shame-to-ease. Rehearsal-for-restraint (rhymes to bondage and the blindfold).
-
-26. **Vee Tells Randi About the Dance (the jar).** *(SATC.)* The dance as the funny story. Then **the jar** (told only here, never shown): a stuck jar giving way to nothing, and what feeling his invisible, chosen gentleness did to her. Voice changes mid-telling. Randi files the cruelest datum: **tenderness/restraint is the load-bearing wall of what Vee feels** — the thing she can't manufacture. Tenderness-register bathroom trip candidate.
-
-27. **Bondage.** Restraint removes the question of her hands — a gift for involuntary-response shame. Told to Randi *(SATC)*; voice changes; *"Comfortable?"*
-
-28. **`[NEW]` The Porch Scene — Cracker-and-Meal.** *(Quiet midpoint beat; draft in `porch-scene.md`. Vee's POV; pre-dawn, enclosed porch, the two of them watching the sun come up after a night that has reached the depth bondage and the SATC reports have been building toward.)* Vee has been thinking for weeks about a figure for what Pace has given her. She has been carrying *I love you* in her body for longer; the convention that he-says-it-first prevents her from declaring directly. She produces the figure whole: *I had been eating crackers my whole life and you fed me a meal.* The bravery is the speech act — she has thought it through, she has decided to say it, she says it. **The figure is her *I love you* in the only register the convention allows.** Pace understands it whole — he is intelligent, attentive, this is not the bench-style apparatus failure — and routes her speech down the sex-channel as the deniable self-protective response: a warm reception that thanks her for the compliment about how good they are together in bed, never addressing the underneath. He understands her and chooses not to meet her. The architecture's *commitment-adjacent self-protection* register operating at full visibility. **Vee cannot tell whether he understood and reduced her, or didn't understand at all.** Both possibilities are bad. Either he saw what she was offering and declined to receive it at the resolution she offered it, or her read of him has been imperfect and the man she's been loving is not who she thought he was. She does not push; the convention that prevented her from saying *I love you* directly also prevents her from naming the ambiguity in his response. The data goes into her body without being indexed. **This is one of the load-bearing grains of sand that surface in the Christmas fight** — accumulated *Pace-not-meeting-her* moments compounding across the months between this scene and Christmas. *Vee never tells anyone about this beat,* not Randi, not Cassie. It is too private and too ambiguous. It is also a partial precursor to the *Peter*-call in the fight: the question whether the part of Pace that wouldn't have reduced her is still reachable. The figure does not return in the prose. Said once, in love, in a soft moment, and absorbed.
+Post-coital, he draws out her fantasy; orgasm at *tasting another woman*; she edits it down to *"as part of a thing, the three of us"* in the dark. The next day's pointing game is reconnaissance wearing the costume of an afternoon. When he points at Vee — tall, copper-haired, laughing at the dining-hall doors with her whole body — Randi's composure breaks for one breath: a full arrest of the loose-afternoon walk, the dropped stride, the bare *"Yes"* before the editing catches up. He reads the stride before the word and lets her keep the camouflage. She executes the collision with such precision that it's the redhead who apologizes. She comes back glowing and failing to hide it — *her feet do a small happy thing on the brick.* Her name is Vee, and they have a stats class together.
 
 ---
 
-## Late (the pivot and the fall)
+## Phase 2 — Early (September – October)
 
-29. **The Thanksgiving / Christmas Fight.** The mother's-boyfriend question she can't answer; conflates monogamy and I-love-you. *"Do any of your friends have a relationship you'd rather have?"* — genuine, insufficient. Reunion without naming it.
+### 4. [SCENE] Statistics Class — Randi Notices Vee
+**~Mon Sep 4 · first class meeting after the collision**
+*Unwritten · working name "together-in-class"*
 
-30. **First Weekend Back / Friends Dinner.** Bomber jacket and broadcloth without being asked. The proprietary feeling she hasn't earned the right to.
+First on-page Randi/Vee proximity after the campus collision. The shared course is calculus-based statistics — the discipline that becomes the book's mirror. Unequal-exchange pattern established. Randi pulls the class connection as the thread to Vee.
 
-31. **The B&B Weekend (the pivot / last domino).** His answer to the fight, on his terms. **The ivory nightie** (costs him; no panties; the fit establishes value; coming out is the scene; inverse of the hiking shirt — and now a deliberate rhyme with the burgundy dress: the dress is for *her* event, the nightie for *his*). **The tasting-herself sequence:** whiskey/white wine; he bypasses the kiss, samples with his penis, offers a taste; *"A shot?"*; the inducement. **She crosses the line she drew.**
+### 5. [SCENE] Coffee/Smoothies — First One-on-One
+**~week of Sep 11**
+*Unwritten*
 
-32. **Nipple Clamps.** Sustained awareness; continuous-vs-discrete stats mirror. Told to Randi *(SATC)*; Randi later wants them for herself, files it.
+Name exchange; Vee steals Randi's move. Closing kiss, grenade-and-walk, filed by Vee as a sorority thing. Goodbye-kiss thread begins here.
 
-33. **The Sheer Dress Brunch + The Dressing Room (FB).** Randi braless in sheer fabric; explicit story (never resolved); first crack where the writing-off needs effort. Dressing room: Randi offers to *buy her one* — **money as power** (the cold echo of the warm shoe-shopping outing). Neutral clerk. Adjustments = technique; the **nipple tweak = control-slip.** Drive-home reckoning: unnameable desire + the dress she didn't pay for.
+### 6. [VIGNETTE] Cassie's Warning
+**~week of Sep 11, shortly after scene 5**
+*Unwritten · beats only*
 
-34. **The Peaches — Rejection → Second Fight → Reconnection.** Refuses the grilled peaches brattishly; he eats his portion quietly; she doesn't stay. The sext escalation (her first): farmers-market photo → peach between breasts → *"I'll do anything"* → *"Both of these are sweet and juicy but only one has fuzz on it."* **The peach-slices scene** (penultimate sex scene): slices inside her, orgasm, the drenched slices fed to her — she tastes the peaches she refused AND herself at once. Surviving callback: he makes them plainly later; she eats them; silence carries everything.
+Planted, dismissed. Never explain the device. Note: Cassie also delivers a warning at the meet-cute (scene 7) — confirm whether this beat remains distinct or is absorbed. See continuity flag 7.
 
-35. **The Threesome Introduction.** *(Master doc: `threesome-reveal.md`.)* He plants it as observation; reads her body vs. ideology; she brings it to Randi; Randi walks her toward it; *"She's thinking about it."*
+### 7. [SCENE] The Engineered Meet-Cute
+**~Thu Sep 14 · mid-afternoon**
+*Draft complete · `the-meet-cute.md`*
 
-36. **The Threesome and Reveal.** *(Master doc: `threesome-reveal.md`.)* Two-tier structure; Vee blindfolded, having asked not to know who until it's over (the culmination of *don't think, just feel the lead* — her own liberation walks her into the dark). The kiss as the sole channel of identity; **Randi withholds the kiss** — denies herself the thing she wants most, through the whole encounter — which is the proof it was never "just a toy." *Randi's beautiful face… mouth smeared with their combined fluids.* The betrayal lands on a friendship at its warmest. *(Falling-out CUT — evaluation saved entirely for the reveal.)*
+Coffee shop on Wilson Street, Vee's POV. Vee has been stuck on a calculus problem for over an hour; Randi texts Pace their location from under the table. Pace enters and crosses the floor with his eyes on Vee the whole way; Cassie, at the next table, clocks the lap-level phone and goes still, reports it first. He sits, helps via her econ teacher's frame — name the variables, name what's changing, name what you're solving for — and the problem opens. *"May I call you?"* — the *may* from a register her mother would approve. He takes her number, nods at Randi like background scenery, and walks out. Cassie delivers the device cold: *"He didn't even look at her" / "He looked at her like she was a chair."* Vee's social reflex smooths it over; Randi performs the warm rescue and turns the coffee cup a quarter-turn so the handle points at Vee, then does not look at it again. The turn never reaches Vee's memory. Plan formally begins; two of three know.
 
-37. **The Ending Sequence.** *(Master doc: `threesome-reveal.md`.)* Closed, not ajar. Vee leaves with full knowledge/anger/ownership, probably without explaining (the one exercise of the power she spent the book not having — and she doesn't use it to wound). Pace confused, reads the *wrong* betrayal (thinks it's the lesbian idea; never computes the engineered betrayal; his consent-architecture had a door he never checked). Randi hollow, known, unable to feel her loss to its floor — the self-built muffling. The panties stay in his house — an artifact, not a reunion.
+### 8. [SCENE] Calls/Texts → The Froyo Walk
+**~week of Sep 18**
+*Unwritten*
+
+He courts on a schedule she can't see; chooses the small safe opener though the plan is already live for him.
+
+### 9. [VIGNETTE] The Good Shirt / No-Tag Plant
+**~late September**
+*Unwritten · will fold into an existing early domestic beat*
+
+Pace gives Vee a well-made shirt with no brand tag. She notices the absence once, guesses wrong (counterfeit, sample), drops it. Must not read as significant until the Fitting detonates it at scene 14.
+
+### 10. [SCENE] The Dance Lesson and CW Bar
+**~late September / early October**
+*Unwritten*
+
+*Don't think, just feel the lead.* The *floozies* misread; he offers the exact courtesy she mocked; the older woman's correction to the dance floor, not to Vee.
+
+### 11. [SCENE] The Randi/Vee Escalation — Coffees to Mimosa Brunch
+**~early October**
+*Unwritten · SATC*
+
+Frank register; *them-not-you* seed; first bathroom trip — Randi files the timing.
+
+### 12. [SCENE] The Hiking Rainstorm / Shirt Scene
+**~mid-October**
+*Unwritten*
+
+He steps into the rain for her privacy; she beckons him back, changes facing him. Keeps the (enormous, his) hiking shirt — the disappear-into-his-fabric beat that the burgundy dress later inverts.
+
+### 13. [SCENE] First Night Together / Secretions Reframe
+**~late October · a Friday or Saturday**
+*Unwritten*
+
+*"Would you be bothered if I was too hard?"* — then active savoring. *"Trade"* (the panties). Best sex of her life to this point.
+
+### 14. [SCENE] Vee Tells Randi About the First Night
+**~the following day or within a few days of scene 13**
+*Unwritten · SATC*
+
+Vee raves, defers on *why*. The bullshit look; Vee fills the silence. Randi opens with her own story to warm the room.
 
 ---
 
-## Threaded throughout (not single scenes)
+## Phase 3 — Middle (October – November)
+
+### 15. [SCENE] The Fitting
+**~Sat Oct 28**
+*Draft complete · `the-fitting.md`*
+
+Vee arrives at a too-warm house — he turned the heat up before she came so she wouldn't be cold standing half-bare in it. A bolt of burgundy silk is on the table; the shade is deeper and warmer than the magazine russet she'd described, and when he holds it to her face she sees in the dark window glass that he matched her coloring, not the reference. The no-tag shirt detonates. The measuring sequence is close and rhythmic — top-down on a low riser, bare above the waist after the bra question is posed and left open as a wordless *all right?* He looks at her the way he looks at the cloth: want at the edges, gladness at the center, and her arms relax. The leaning, the deliberate *"Oops. Sorry."* breast-against-cheek, a pin-prick from her own daring, his involuntary kiss-it-better. *"Keep still"* holds the line at audible cost. Hemline work ends with him on his knees and her on the riser, the dress still unfinished, the deferred tension exactly where he set it. Deferment holds; try-on resolution folded into scene 15d.
+
+> *The dress cluster (15a–15e) sits between the Fitting and shoe-shopping. Order is load-bearing: the dress is unfinished at 15, finished and picked up at 15d. All lettered sub-entries below.*
+
+### 15a. [SCENE] Vee Tells Cassie About the Fitting
+**same day as scene 15 · same afternoon**
+*Draft complete · `vee-tells-cassie-fitting.md`*
+
+Cassie puts the highlighter down the moment Vee walks in. The telling is warmer and less performed than the Randi version will be — the being-seen-at-her-most-ashamed and not-found-wanting leaking through in actual words. The shirt connects. The heat detail lands hardest (*"He turned it up days ago, probably — he thought of it then"*) and Cassie goes very still: *"Oh, Vee."* Tips into comedy; both of them on Cassie's bed laughing, the shirt still on Vee's pillow. Pairs later with 15e. Quiet Cassandra-track work.
+
+### 15b. [SCENE] SATC Brunch — Vee Tells Randi About the Fitting
+**~a few days after scene 15 · probably a weekday lunch**
+*Partial draft (opening movement) · `brunch-fitting-randi.md`; second movement drafted separately*
+
+Randi's Mercedes at the curb, top down. Restaurant off Route 9, velvet-walled, sound-softened; Randi orders the Rombauer by name. Randi opens with the beautiful-idiot-and-the-Hermès-scarf story — *a little helpless can be a very good thing, done right.* Then the beam: *"You've had a face on since you got in the car. Tell me everything."* Vee produces the prepared version and feels the other thing strain underneath. Extraction begins: *"He measured you himself?"* Replaces shoe-shopping as the channel through which Randi first learns about the dress. Second movement (bust-line probe, "Cold?", warm-house cup-tell, wet-spot extraction) drafted separately and follows.
+
+### 15c. [VIGNETTE] Randi at Pace's — Takes the Scrunchies (Grain #1)
+**~within a day or two of 15b**
+*Unwritten*
+
+Randi goes to Pace's, has sex with him, and while there takes ~6 scrunchies from the cardboard form in the bathroom drawer Pace keeps stocked for Vee (form: ~38 → ~32 — calibrated right at the edge of noticeable). Cold beat: intimacy with Pace as the occasion for removing the tokens of his care for Vee. She keeps them; payoff at grain #2 when she wears them around Vee.
+
+### 15d. [SCENE] Dress Pickup — Vee Initiates Sex; the First Shadow
+**~1–2 weeks after the Fitting**
+*Unwritten*
+
+Vee picks up the completed dress, is thrilled, and — emboldened — initiates sex; she proceeds, it's joyful. Afterward, at the bathroom drawer, she registers the form as lower than it should be — a steeper drop than her own use explains (grain #1's payoff). Formless unease: it's still depletion (the plausible direction), so she can't be sure and would never say it aloud — but it puts her half-consciously on watch. Try-on resolution folded in — she initiates, he proceeds, tender, no spanking.
+
+### 15e. [SCENE] Vee Shows Cassie the Finished Dress
+**same day as scene 15d or the following day**
+*Unwritten*
+
+Vee shows Cassie the finished dress — proud, happy, with just a hint of darkness on the horizon. The drawer-thinness sits in her too formless to name; scene is mostly pure delight with the faintest shadow the reader feels and Vee doesn't. Deliberate contrast with the showing-to-Randi register at shoe-shopping (16).
+
+### 16. [SCENE] Shoe Shopping with Randi
+**~within a week of 15d · a weekend afternoon**
+*Unwritten · SATC*
+
+Randi already knows about the dress and already took the scrunchies — this is the showing-to-Randi contrast against 15e, now triple-layered: Vee delighted, Randi running appraisal-as-interest sadism underneath (*"is it real silk?"*), and the reader holding what Randi did to the drawer. Establishes shopping-together as a format Randi excels at. Unstated inversion-rhyme: two people kneeling before Vee — Pace making something *for* her, Randi selling her a version *of* her.
+
+### 17. [VIGNETTE] Randi & Pace — "Sweet" (The Dress Barb)
+**~after shoe-shopping; placement still vague, likely mid-November**
+*Unwritten · his POV, post-coital*
+
+Randi denigrates the homemade dress to the man who made it: the left-handed compliment — *"It's so sweet that he made it for her"* — homemade-as-déclassé, her first-gen-wealth value system exactly backwards. The barb thuds: Pace doesn't share the designer-over-handmade hierarchy, so her sharpest move lands on nothing. The one flicker where her instrument doesn't play.
+
+### 18. [SCENE] The First Swat / The Setup
+**~early November**
+*Unwritten*
+
+Her sassy; one playful swat; the look crosses her face; she immediately initiates sex. Swat → look → sex, nobody names it. Plants the *what was that look?* hook. Prerequisite for the Proof Scene.
+
+### 19. [SCENE] Cassie & Vee — The Cooling-Off Scene
+**~early to mid November**
+*Unwritten*
+
+Vee talks about Pace differently than with Randi — warmer, less performed, the register of actual mutuality. Quiet Cassandra-track work; a breath of genuine air.
+
+### 20. [SCENE] The Proof Scene
+**~mid-November**
+*Unwritten*
+
+Bratty again, recreating the conditions. Several spanks; the *whoa look* confirmed. *"You enjoy being spanked."* She denies it; he uses his finger to show her her own arousal; the floor drops into real shame; shame ignites (more, harder) rather than recoiling. What she's ashamed of: her body announcing its wanting without her consent. Shame used, not resolved.
+
+### 21. [SCENE] Vee Tells Randi About the Proof Scene
+**~within a few days of scene 20**
+*Unwritten · SATC*
+
+*"Are your fingers sticky?"* (pastry tilt). Randi's question does in the retelling what Pace's finger did in the act. Doubled shame → first masturbation (a capitulation: "she stops not-doing it").
+
+### 22. [SCENE] The Painting Afternoon
+**~late November, before Thanksgiving**
+*Unwritten*
+
+Waxing agreed-to with noticed ease; painted as fruit (peaches callback); the photo she wants only to see herself through his eyes.
+
+### 23. [SCENE] Vee Tells Randi About the Painting
+**~within a few days of scene 22**
+*Unwritten · SATC*
+
+Shows the photo. *"Gesso?"* The small smile already in place on return.
+
+### 24. [SCENE] The COVID / PPP Statistics Project
+**~week before Thanksgiving break**
+*Unwritten*
+
+They find Randi's father's company; she didn't know; recovery one beat too fast (Cassie sees, Vee doesn't). She accelerates into the plan.
+
+---
+
+## Phase 4 — Break and Return (Late November – January)
+
+### 25. [SCENE] The Thanksgiving / Christmas Fight
+**~Fri Dec 1 or Sat Dec 2 · pre-Christmas-break**
+*Unwritten*
+
+The mother's-boyfriend question she can't answer; conflates monogamy and *I love you.* *"Do any of your friends have a relationship you'd rather have?"* — genuine, insufficient. Reunion without naming it.
+
+### 26. [VIGNETTE] The Porch Scene — Cracker-and-Meal
+**~early December, before Christmas break · pre-dawn**
+*Draft complete · `porch-scene.md`*
+
+Vee's POV; enclosed porch, watching the sun come up. Vee delivers the cracker-and-meal figure whole — her displaced *I love you.* His hand on her shin presses once and stops; he takes a second breath; then: *"I love how good we are together"* — sincere within his chivalric grammar, routing her speech down the sex-channel. He pulls her close and holds a kiss against her hair longer than usual. She receives the warmth; underneath it something begins to move. Two days later on a bus she replays the sentence and finds the shapes don't match, and will not finish the thought because either answer hurts. The figure does not return to her speech. She never tells Randi or Cassie. Load-bearing grain for the Christmas fight.
+
+[EVENT] **~Fri Dec 15 – Sun Jan 14 · Christmas break**
+*Not a scene*
+Both women go home. Vee and Pace in contact but not together. Randi begins the flat-date sequence during break — the chosen-not-to-throttle moment.
+
+### 27. [SCENE] The Flat Date
+**~during Christmas break, exact date TBD**
+*Unwritten · see `meta-plan-chronology.md` continuity note; see `meta-arch-randi.md` for structural architecture*
+
+The conventionally proper man, the fine dinner, the fine sex, the *nothing* it produces. Randi in the bathroom mirror with the outline lipstick still nearly perfect, registering that she now has the comparison. The choice enacted by the return to the bed. The chosen-not-to-throttle moment.
+
+### 28. [SCENE] First Weekend Back / Friends Dinner
+**~Fri Jan 19 · first weekend of spring semester**
+*Unwritten*
+
+Bomber jacket and broadcloth without being asked. The proprietary feeling she hasn't earned the right to.
+
+---
+
+## Phase 5 — Late (January – Spring)
+
+### 29. [SCENE] The Dance (Format Break — CW on Sorority Turf)
+**~late January**
+*Unwritten · FB*
+
+*"I'll lead, just follow me."* Declining male partners. Randi leads less capably than Pace — character tell, body-noticed wrongness, and the deniability mechanism. Installs Randi's touch-signature for the reveal.
+
+### 30. [SCENE] The CW Jitterbug Scene
+**~February · a Saturday**
+*Unwritten*
+
+Floor work first (the chain); she balks at the lifts (*too heavy*); he offers and waits at the consent line — won't put her in the air without a yes (the not-lifting IS the trust). Airborne escalation; shame-to-ease. Rehearsal-for-restraint (rhymes to bondage and the blindfold).
+
+### 31. [SCENE] Vee Tells Randi About the Dance (The Jar)
+**~within a few days of scene 30**
+*Unwritten · SATC*
+
+The dance as the funny story. Then the jar (told only here, never shown): a stuck jar giving way to nothing, and what feeling his invisible, chosen gentleness did to her. Voice changes mid-telling. Randi files the cruelest datum: tenderness/restraint is the load-bearing wall of what Vee feels — the thing she can't manufacture. Tenderness-register bathroom trip candidate.
+
+### 32. [SCENE] Bondage
+**~February**
+*Unwritten*
+
+Restraint removes the question of her hands — a gift for involuntary-response shame. Told to Randi *(SATC)*; voice changes; *"Comfortable?"*
+
+### 33. [VIGNETTE] Grain #2 — Randi Wears the Scrunchies Around Vee
+**~ongoing from February onward**
+*Unwritten · recurring*
+
+Randi wears the taken scrunchies around Vee — a kind unlike Randi's usual. Sub-threshold flicker each time (*almost like mine*), killed on contact (scrunchies aren't unique). Lands on an already-primed Vee. Coldest object-beat: Randi wearing the stolen tokens of Pace's care, to Vee's face, across months.
+
+### 34. [SCENE] The B&B Weekend (The Pivot / Last Domino)
+**~late February or early March · a weekend**
+*Unwritten*
+
+His answer to the Christmas fight, on his terms. The ivory nightie (costs him; no panties; inverse of the hiking shirt; deliberate rhyme with the burgundy dress — the dress is for *her* event, the nightie for *his*). The tasting-herself sequence: whiskey/white wine; he bypasses the kiss, samples with his penis, offers a taste; *"A shot?"*; the inducement. She crosses the line she drew.
+
+### 35. [SCENE] Nipple Clamps
+**~March**
+*Unwritten*
+
+Sustained awareness; continuous-vs-discrete stats mirror. Told to Randi *(SATC)*; Randi later wants them for herself, files it.
+
+### 36. [SCENE] The Sheer Dress Brunch + The Dressing Room (Format Break)
+**~March · a weekend**
+*Unwritten · FB*
+
+Randi braless in sheer fabric; explicit story (never resolved); first crack where the writing-off needs effort. Dressing room: Randi offers to *buy her one* — money as power (cold echo of the warm shoe-shopping outing). Adjustments = technique; the nipple tweak = control-slip. Drive-home reckoning: unnameable desire + the dress she didn't pay for.
+
+### 37. [SCENE] The Peaches — Rejection → Second Fight → Reconnection
+**~April**
+*Unwritten*
+
+Refuses the grilled peaches brattishly; he eats his portion quietly; she doesn't stay. The sext escalation (her first): farmers-market photo → peach between breasts → *"I'll do anything"* → *"Both of these are sweet and juicy but only one has fuzz on it."* The peach-slices scene (penultimate sex scene): slices inside her, orgasm, the drenched slices fed to her — she tastes the peaches she refused and herself at once. Surviving callback: he makes them plainly later; she eats them; silence carries everything.
+
+### 38. [VIGNETTE] Grain #3 — The Restoration (The Loud One)
+**~April · after stakes/trust are high**
+*Unwritten · slot TBD, deeper in*
+
+Vee has further depleted the form to ~20. Randi returns ~4 to the form (20 → 24) — the form goes *up.* This is the violation of Vee's habit-rule, and because she's been watching since grain #1 and the base is low, +4 is unmissable. The catch is real but points inward: the available cover is *"Pace must have refilled them for me"* — the loving-Pace story she reaches for (devastating on reread: she credits him with tenderness at the exact moment of Randi's sabotage). Gaslights rather than implicates. Trains Vee to override her own correct reading.
+
+### 39. [SCENE] The Threesome Introduction
+**~late April**
+*Unwritten · see `threesome-reveal.md`*
+
+He plants it as observation; reads her body vs. ideology; she brings it to Randi; Randi walks her toward it; *"She's thinking about it."*
+
+### 40. [SCENE] The Threesome and Reveal
+**~early May**
+*Architecture complete; prose not yet drafted · `threesome-reveal.md`*
+
+Three simultaneous self-administered betrayals. Vee blindfolded at her own request — *don't think, just feel the lead* — asks not to know who the second woman is until it's over. Randi withholds the kiss through the entire encounter — denies herself the thing she wants most, which is the proof it was never just a toy. Vee's body catalogs the known mouth anyway. When the blindfold comes off, Vee — the one who literally could not see — becomes the only one who finally does. The betrayal lands on the friendship at its warmest.
+
+### 41. [SCENE] The Ending Sequence
+**immediately after scene 40**
+*Architecture complete; prose not yet drafted · `threesome-reveal.md`*
+
+Vee leaves with full knowledge, full anger, full ownership of her transformation — probably without explaining. Pace reads the wrong betrayal (the lesbian element; never computes the engineered friendship). Randi is hollow, known at last, unable to feel her loss to its floor — the muffling she chose in his bathroom mirror on the night of the Bench returned as sentence. The panties stay in his house — not a promise, an artifact.
+
+---
+
+## Threaded Throughout (Not Single Scenes)
 
 - **The goodbye-kiss physical staircase** — climbing across the back half, still climbing at the end.
 - **The bathroom-trip progression** — suppression → lingering → first masturbation (capitulation) → second time (a decision) → late interior.
-- **The scrunchie grains (the gaslight sub-thread; the first-clue mechanism).** A campaign of object-manipulations escalating *deniable → nagging → self-doubt*, pointing **inward** (Vee distrusting her own perception), never outward (no "whose is this?"), which is what protects the reveal. **The mechanism rides Vee's specific habit:** Pace stocks scrunchies for her on a **cardboard form** (≈50 on a new form) in a bathroom drawer; Vee takes them *off the form* to wear and, when she returns one, **drops it loose in the drawer — she never re-threads the form.** So under her habit the form *only ever depletes.* The form going *up* is impossible by her own behavior — a violation only she can perceive, and only unconsciously. *Pace would never track this; only this woman can.* In order:
-  - **Grain #1 — the over-depletion (scene 14c→14d).** Normal use has taken the form 50 → ~38. Randi takes ~6 more (**38 → 32**), calibrated *right at the edge of noticeable* — a steeper drop than Vee's own use explains. It snags (*didn't I have more?*) but stays in the plausible direction (down), so she can't be sure: formless unease, says nothing. **Its real function is priming:** from here Vee is half-consciously watching the form.
-  - **Grain #2 — worn in plain sight (ongoing, deeper in).** Randi *wears* the taken scrunchies around Vee — a kind unlike Randi's usual. Sub-threshold flicker each time (*almost like mine*), killed on contact (scrunchies aren't unique — bought, or from a sister). Now lands on an already-primed Vee, so the flicker has something to attach to. Coldest object-beat: Randi wearing the stolen tokens of Pace's care, to Vee's face, across months.
-  - **Grain #3 — the restoration (later; the loud one).** Vee has further depleted the form to ~20. Randi **returns ~4 to the form (20 → 24)** — the form goes *up.* This is the violation of her habit-rule, and because she's been watching since #1 and the base is low, +4 is unmissable. **The catch is real but points inward:** the available cover is *"Pace must have refilled them for me"* — the loving-Pace story she reaches for (devastating on reread: she credits him with tenderness at the exact moment of Randi's sabotage), with *"or I'm misremembering my own habit"* underneath. Gaslights rather than implicates: a *smaller* absolute change than #1 but *qualitatively louder* because up is impossible where down was plausible. Trains Vee to override her own correct reading — the campaign's true objective is disabling her clue-detector, not just planting clues. **Slot TBD — deeper in, when stakes/trust are higher.**
-  - The broader planted-clues thread (other domestic-evidence beats) may continue elsewhere. *(Earlier note "launched at scene 16, found after 20" is superseded: the scrunchie sub-thread launches at 14c and first registers at 14d; scene 16 is no longer a clue-plant.)*
+- **The scrunchie grains** — see scenes 15c (grain #1), 33 (grain #2), 38 (grain #3).
 - **Vee's desire for Randi** — tracked as the *failure* of the writing-off; never resolves before the reveal.
-- **The sorority social-penalty convergence** — from the meet's *"he's hard to say no to"* (witnesses sympathetic, absent sisters aghast) drifting toward house consensus that a senior sister dating a social outcast is *wrong.* Brooke lets it converge and rides it. Stations include the walk-of-shame gauntlet; tightens across the Before-Vee / Early stretch.
+- **The sorority social-penalty convergence** — from the meet's *"he's hard to say no to"* drifting toward house consensus that a senior sister dating a social outcast is *wrong.* Stations: walk-of-shame gauntlet; tightens across Phases 1–2.
 - **Sheri bike rides; Cassie's quiet vindications; the statistics mirrors; the ex surfacing.**
+- **Pace's increasing editorial silence with Randi** — the gradually shorter reports across Phase 5 as he protects what he can't name.
 
 ---
 
-## Continuity flags to resolve
+## Continuity Flags
 
-1. **The Fitting's "third stay" vs. the First Swat's "first visit after their first sex."** As ordered here, the Fitting (14) precedes the First Swat (17), but the Fitting is written as her "third stay" while the swat is described as her first post-sex house visit. These can't both be literally true. Options: (a) soften the swat's descriptor to "an early visit"; (b) treat the Fitting as a daytime *visit*, not an overnight *stay* (supported by the deferment — she doesn't stay the night), and let the "third stay" line in the draft become "her third time at the house" or similar; (c) move the Fitting after the Proof cluster. Recommend (b) — smallest change, and the deferment already implies she leaves.
+1. **The Fitting's "third stay" vs. the First Swat's "first visit after their first sex."** The Fitting (15) precedes the First Swat (18), but the Fitting is written as her "third stay" while the swat is described as her first post-sex house visit. Recommend (b): treat the Fitting as a daytime *visit*, not an overnight *stay* — supported by the deferment (she doesn't stay the night) — and change "third stay" in the draft to "third time at the house."
 
-2. **The try-on (resolution of the Fitting's deferred tension)** needs a slot — after the dress is finished, before or around the induction. Keep it tender, no spanking. Not yet placed on this list.
+2. **The try-on resolution** needs a slot — after the dress is finished, before or around the induction. Currently folded into scene 15d. Keep it tender, no spanking.
 
-3. **`[UPDATED]` Scrunchie grain placements.** The *first* clue is resolved: the sub-thread launches at 14c (Randi takes ~6, 38→32) and first registers at 14d (Vee clocks the over-depletion, goes on watch). **Still open:** (a) where grain #2 (Randi *wears* the taken scrunchies around Vee) begins and how often it recurs — ongoing across the back half; (b) the slot for grain #3 (the **restoration** — Randi returns ~4 to the form, 20→24, the impossible *increase*) — place deeper in when stakes/trust are higher, and keep it off the swat/proof visits. Confirm Vee lands on *"Pace refilled them"* as the cover so #3 gaslights inward rather than implicating outward.
+3. **Scrunchie grain placements.** Grain #1 launches at 15c; first registers at 15d. Still open: (a) where grain #2 begins and how often it recurs across Phase 5; (b) the exact slot for grain #3 — keep it deeper in when stakes/trust are higher. Confirm Vee lands on *"Pace refilled them"* as the cover so grain #3 gaslights inward rather than implicating outward.
 
-4. **The no-tag good-shirt gift** needs a home in the Early stretch before the Fitting (note at scene 9). Decide whether it stands alone or folds into an existing beat.
+4. **The no-tag good-shirt gift** (scene 9, vignette) needs a home in the Early stretch before the Fitting. Decide whether it stands alone or folds into an existing beat.
 
-5. **`[RESOLVED]` Calculus at the meet-cute is canonical.** The shared course (scene 4) is **calculus-based statistics** — doubly difficult — so the meet-cute problem is legitimately a *calculus* problem living inside the stats class; no contradiction. **Vee canonically calls it "calculus"** (she names the machinery defeating her, not the course label). This deepens rather than weakens the statistics mirror: the calc-based-stats discipline she can't see her way through is the same discipline that becomes the book's metaphor for what she can't see. No change needed.
+5. **Cassie's Warning (scene 6) vs. the meet-cute warning.** Cassie delivers a warning at the meet-cute (scene 7). Confirm whether scene 6 remains distinct or is absorbed. See `the-meet-cute.md` — Cassie is at the next table and delivers the device line there.
 
-6. **`[RESOLVED]` Fitting cloth color: burgundy (the made dress); russet survives only as the magazine shade she pictured and didn't get.** Standard reference word: **burgundy**; "wine"/"wine-dark" available in prose. Propagation **complete**: chronology (scenes 11, 31, header bullet, file-ref label) and `summary.md` now read "burgundy"; `character-relationship-bible.md` and the architecture docs had no stray references; **`the-fitting.md` is correct as written** (russet = pictured reference shade, burgundy = made dress — do NOT change). *Only remaining:* verify/retire `notes-the-fitting.md` (see flag 8).
+6. **Flat date placement.** Currently placed during Christmas break. Confirm this fits the chosen-not-to-throttle architecture: it must be after SATC lunches are running at full intensity and before the threesome is scheduled. Christmas break works if the SATC track is well-established by late November.
 
-7. **`[NEW]` Cassie present at the meet-cute.** The meet-cute draft puts **Cassie at the next table**, and she delivers the load-bearing device line (*"He looked at her like she was a chair"*). Scene 6 ("Cassie's Warning") and the threaded "Cassie's quiet vindications" should be checked for consistency with Cassie already having voiced the warning *at* the meet-cute — the meet-cute may now partly absorb or pre-empt the separate Cassie's-Warning beat. Confirm whether scene 6 remains distinct or folds in.
-
-8. **`[NEW]` Verify/retire `notes-the-fitting.md` (likely stale).** Believed superseded by the finished `the-fitting.md`. **Filename note:** the chronology elsewhere references `fitting_companion_notes.md` (the no-tag-shirt plant at scene 9, the shoe-shopping notes at scene 15) — confirm whether that is the same file as `notes-the-fitting.md` under a different name, or a second companion file. **Before retiring:** make sure the surviving dependencies (the no-tag-shirt plant logic, the shoe-shopping SATC notes) are captured in the chronology or bible so nothing load-bearing is lost. Recommend marking the file `[SUPERSEDED — see the-fitting.md]` at the top rather than deleting, and reconcile any "russet"/"burgundy" inconsistencies only if the file is being kept.
+7. **The Christmas fight vs. the porch scene.** Both are pre-Christmas-break. Current order: porch scene (~early December) → Christmas fight (~Dec 1-2). Confirm: the porch scene is a load-bearing grain *for* the Christmas fight, so porch scene must precede the fight. Check dates — the fight may need to move slightly later (mid-December).
