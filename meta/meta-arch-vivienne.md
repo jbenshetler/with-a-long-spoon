@@ -43,9 +43,9 @@ The appetite eats its own substrate: the unselfconsciousness that made the full 
 
 *Lush,* not voluptuous. Abundant, ripe, fertile. Pairs with the burgundy silk imagery and the wine register in the fitting scene.
 
-Tall, built on a lavish scale — full breasts, deep waist, hips with real width. Anna Nicole Smith proportions to Randi's Natalie Portman. Shoulder-length hair worn loose, warm dark red that sparks to copper in wind or sun. Snub nose, tipped up; chestnut freckles across the nose and tops of the cheeks. Moves like an athlete under the abundance — low center, real balance, plainly trained (background: synchronized swimmer; the control is real but burdened out of competition by a build the competitive ideal can't use). Command and abundance in the same frame, neither canceling the other.
+Tall, built on a lavish scale — full breasts, deep waist, hips with real width. Anna Nicole Smith proportions to Randi's Natalie Portman. Shoulder-length hair worn loose, warm dark red; the highlights spark to copper only in direct sun. Snub nose, tipped up; chestnut freckles across the nose and tops of the cheeks. Moves like an athlete under the abundance — low center, real balance, plainly trained (background: synchronized swimmer; the control is real but burdened out of competition by a build the competitive ideal can't use). Command and abundance in the same frame, neither canceling the other.
 
-*Lush against Randi's sleek.* The wind is the device: the same ridge-wind that sparks Vee's loose copper to fire finds almost nothing to move on Randi's bound black ponytail.
+*Lush against Randi's sleek.* The wind is the device: the same ridge-wind that lifts and plays through Vee's loose dark-red hair finds almost nothing to move on Randi's bound black ponytail.
 
 ---
 
