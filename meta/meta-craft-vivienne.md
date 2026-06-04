@@ -92,7 +92,7 @@ High-intensity BDSM rendered as lunch conversation. Randi is dominant and sadist
 
 - *Lush*, not voluptuous. Abundant, ripe, alive — command and abundance in the same frame.
 - Tall, full breasts, deep waist, hips with real width. Moves like an athlete under the abundance — low center, real balance. Synchronized swimmer's control, burdened out of competition by a build the competitive ideal can't use.
-- Shoulder-length hair worn loose, warm dark red sparking to copper in wind or sun. The wind device: the same wind that finds almost nothing to move on Randi's bound ponytail lifts Vee's hair the whole time, playing with it.
+- Shoulder-length hair worn loose, warm dark red, the highlights sparking to copper only in direct sun. The wind device: the same wind that finds almost nothing to move on Randi's bound ponytail lifts Vee's hair the whole time, playing with it.
 - Snub nose tipped up, chestnut freckles across nose and tops of cheeks. These features — the snub nose, the freckles, the uncurated hair — are the anti-curation made flesh. They cannot be bought or disciplined. Randi's grammar finds nothing in her surface to grade.
 - Dress: soft drapey things, denim jacket, canvas bag slung careless, scuffed boots. The surface offers the sorority grammar nothing. Not anti-fashion — indifferent to the grammar. She wears what she likes.
 - Jewelry: something she saved up for or was gifted — recognizable quality without a box. A Tiffany pendant is right: not a matched set, not a signature system, just the one good thing she has. It stays on during the fitting; Pace doesn't comment on it.

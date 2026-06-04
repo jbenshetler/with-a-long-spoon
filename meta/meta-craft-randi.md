@@ -85,7 +85,7 @@ Render it as plain behavior, never as a stated symbol: his openness, her sealing
 
 Petite, built to the "proper" scale she maintains and grades other women against — narrow through shoulder and hip. Pale skin. Startlingly blue eyes — her best feature, the one she has built her adult life around being looked at for; they darken when she concentrates. Sleek black hair, fine, worn in a controlled ponytail with a scrunchie as the one allowed accent. The hair is the small daily version of the whole apparatus: she decides each morning exactly how much of herself the day will be permitted to touch and binds the rest.
 
-**The wind device (standing contrast with Vee):** the same wind that sparks Vee's loose copper to fire finds almost nothing to move on Randi's bound head. Warm/cool, loose/sleek, red/black, uncontrolled/bound-in-advance. The containment is a choice, not a stillness; the ponytail can swing, but nothing escapes the band.
+**The wind device (standing contrast with Vee):** the same wind that lifts and plays through Vee's loose dark-red hair finds almost nothing to move on Randi's bound head. Warm/cool, loose/sleek, red/black, uncontrolled/bound-in-advance. The containment is a choice, not a stillness; the ponytail can swing, but nothing escapes the band.
 
 **The Art Deco archetype — not a prison, a grammar.** The organizing visual logic of her self-presentation is Art Deco: sleek, geometric, controlled, cool surface with warmth underneath. Think Tamara de Lempicka, Erté — the contained woman at full power. This is an archetype she operates from, not a costume she wears every day.
 
