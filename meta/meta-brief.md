@@ -55,9 +55,9 @@ Pace does not know what happens at the SATC lunches. Vee does not know Pace and 
 
 ## Current State of the Work
 
-**Phase:** Drafting. Approximately 9 scenes complete out of ~41 planned entries. The novel's chronology runs one academic year (fall semester through spring).
+**Phase:** Drafting. Approximately 10 scenes complete out of ~41 planned entries. The novel's chronology runs one academic year (fall semester through spring).
 
-**Drafted scenes:** The Bench (1), Randi's Walk of Shame (2), Plan Origin/Campus Walk (3), The Engineered Meet-Cute (7), The Fitting (15), Vee Tells Cassie About the Fitting (15a), SATC Brunch / Vee Tells Randi (15b, opening movement), The Porch Scene (26), Threesome architecture (40–41, planning doc only).
+**Drafted scenes:** The Bench (1), Randi's Walk of Shame (2), Plan Origin/Campus Walk (3), Together in Class / Chi Latte (4 — diptych; collapses former scenes 4/5/6), The Engineered Meet-Cute (7), The Fitting (15), Vee Tells Cassie About the Fitting (15a), SATC Brunch / Vee Tells Randi (15b, opening movement), The Porch Scene (26), Threesome architecture (40–41, planning doc only).
 
 **Current phase of story:** Early-to-middle. The configuration is established; the SATC track is running; the erotic staircase is ascending. The threesome is the destination.
 

@@ -21,6 +21,8 @@ Two distinct staircases live inside this track:
 
 (From summary, canonical:)
 
+> **Note (scene-4 reconciliation):** The SATC verbal staircase below is the **post-meet-cute retelling channel** — every rung requires Vee to have Pace-material to bring. The scene-4 Chi Latte diptych (`together-in-class.md`) is the *first* Randi/Vee coffee but is **not** an SATC rung: Vee hasn't met Pace yet, so there is no report, no extraction, no bathroom trip, and (correctly) no cup-tell. The diptych establishes the *friendship* and the venue; the staircase's "Coffee after class" rung below is a **later** coffee (after the meet-cute), where Randi first volunteers the take-charge guy. Keep them distinct.
+
 1. **Coffee after class** — Randi volunteers the take-charge guy unprompted. Doesn’t push when Vee deflects.
 1. **Smoothies** — a specific detail about the guy; slightly more specific question about what Vee wants. Lets go when deflected.
 1. **Mimosa brunch** — frank register established. Seed: not *you should date* but *the problem was them, not you.* **First bathroom trip.** Randi clocks the timing, files it — now knows the conversations work physically.
