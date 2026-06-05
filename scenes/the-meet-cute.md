@@ -80,11 +80,15 @@ He did glance at Randi then, briefly — the courtesy of a stranger acknowledgin
 
 "I'm Pace," he said.
 
-"Vivienne." It came out automatically, the full form. She heard herself reach for the bit she had stolen from Randi a few weeks ago and stop short of it — *no, my parents didn't plan it, yes, they find it funnier than I do* — because the bit had been built for Randi and using it on a stranger here felt wrong somehow. "Vee. People call me Vee."
+"Vivienne." It came out automatically, the full form, and then — because being looked at like that had loosened something, made her want to be a little more than herself, a little more like the kind of girl who was easy in a moment like this — she reached for the line. She had watched Randi do it on Monday, in the lecture hall, the practiced little swerve, and it had looked so easy and so good that some part of her had filed it to try on later. "Vivienne Thorne. Yes, like the university." A beat, the way Randi did the beat. "No, my parents didn't plan it. Yes, they find it funnier than I do."
 
-"Randi," said Randi, evenly.
+It landed. Pace's mouth did something warm at the corner, and Vee felt the small lift of having pulled it off — the borrowed poise sitting on her better than she'd expected, the room tilting half a degree toward her.
 
-She did not do the adjective thing. She did not do the parents-had-a-sense-of-humor thing. She gave him her name as a single bare word and waited.
+"Vee," she added, quickly, suddenly wanting her own name back. "People call me Vee."
+
+"Randi," said Randi.
+
+One word. She did not do the adjective thing. She did not do the parents-had-a-sense-of-humor thing. She gave him her name as a single bare word and waited.
 
 "Cassie," said Cassie, from the next table, with a small wave.
 
