@@ -119,6 +119,7 @@ Listed in chronological order. Status: **complete** / **partial** / **beats only
 | `the-bench.md` | 1 — The Bench | complete |
 | `randis-walk-of-shame.md` | 2 — Randi's Walk of Shame | complete |
 | `origin-campus-walk.md` | 3 — Plan Origin / Campus Walk | complete |
+| `together-in-class.md` | 4 — Together in Class / Chi Latte (diptych; collapses old 4/5/6) | complete |
 | `the-meet-cute.md` | 7 — The Engineered Meet-Cute | complete |
 | `the-fitting.md` | 14 — The Fitting | complete |
 | `vee-tells-cassie-fitting.md` | 14a — Vee Tells Cassie | complete |
