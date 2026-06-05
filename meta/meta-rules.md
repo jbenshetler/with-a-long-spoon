@@ -184,6 +184,17 @@
 - [ ] Cassie's warmth changes key: the laughter and the serious are the same attention, different expression. She knows when to let the pivot happen.
 - [ ] Cassie does not editorialize about Pace. She asks questions. She waits. *"Oh, Vee"* is the single moment of unguarded response.
 - [ ] The gay cross-examination: Cassie's running question (*"are you sure he's not gay?"*) is Cassie's deflection from the emotional weight — comic relief she earns by having just held the serious.
+- [ ] Humor is bone-dry; she does NOT laugh at her own jokes. Tell = a slightly cocked eyebrow she WITHHOLDS for a beat, to see if you recognize the line before she confirms it. With Vee it resolves near-instantly. Reserve the failure-state (eyebrow never comes, joke silently retracted) for a Randi beat.
+- [ ] She laughs readily at OTHERS, especially Vee — amusement never aimed. The un-instrumented opposite of Randi's warmth: Cassie withholds her signal until you've earned it; Randi gives hers up front to capture.
+- [ ] Render her almost entirely as effect-on-Vee / she-was-right. Do not develop standalone interiority. Curiosity about Cassie for her own sake = over-feed; cut it.
+
+**Cassie's look (anti-glamour; never scored, never staged as contrast every time)**
+- [ ] Short, boxy, "unmanaged" — not cute, not a makeover-frump, not a bitter plain friend. She isn't running the femininity game. Body held off fat by sport, not vanity.
+- [ ] Brown hair in a short shag (grown past a cut); no makeup; shorts in warm weather, pants in cold; no skirts. Brown is deliberate — does not twin Randi, does not flatter.
+- [ ] The un-coded third model vs. Vee (lush/natural) and Randi (sleek/polished). Narrator NEVER verdicts it as more authentic. Contrast to Randi lives in managed-vs-unmanaged and is true without being staged — do not write it every time they share a page.
+- [ ] Plainness is the (unstated) source of her clear sight: no skin in the appearance economy, so she reads Randi for operation instead of being caught in the beam.
+- [ ] Sports: softball (spring) and basketball (winter); any rec team given the chance. Gives her a real calendar — the benign absence that aches later (the friend who'd have kept Vee safe was at a game).
+- [ ] The car: old rust-spotted SUV, squeaking suspension, kept because it works (hauls equipment). Anti-status vehicle; the squeak is a free entrance cue Vee recognizes. Keep it an object — no name, no quirks, no running bit.
 
 **Vee's telling register (Cassie channel)**
 - [ ] Warmer and less performed than the Randi version will be. The architecture of the visit leaks through in the actual words — not the SATC-register shape of them.
