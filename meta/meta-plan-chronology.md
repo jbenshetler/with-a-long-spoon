@@ -63,7 +63,7 @@ Two panels, Vee's POV. **Panel one (the lecture):** Vee got there early with Cas
 **~Thu Sep 14 · mid-afternoon**
 *Draft complete · `the-meet-cute.md`*
 
-Coffee shop on Wilson Street, Vee's POV. Vee has been stuck on a calculus problem for over an hour; Randi texts Pace their location from under the table. Pace enters and crosses the floor with his eyes on Vee the whole way; Cassie, at the next table, clocks the lap-level phone and goes still, reports it first. He sits, helps via her econ teacher's frame — name the variables, name what's changing, name what you're solving for — and the problem opens. *"May I call you?"* — the *may* from a register her mother would approve. He takes her number, nods at Randi like background scenery, and walks out. Cassie delivers the device cold: *"He didn't even look at her" / "He looked at her like she was a chair."* Vee's social reflex smooths it over; Randi performs the warm rescue and turns the coffee cup a quarter-turn so the handle points at Vee, then does not look at it again. The turn never reaches Vee's memory. Plan formally begins; two of three know.
+Coffee shop on Wilson Street, Vee's POV. Vee has been stuck on a calculus problem for over an hour; Randi texts Pace their location from under the table. Pace enters and crosses the floor with his eyes on Vee the whole way; Cassie, at the next table, clocks the lap-level phone and goes still, reports it first. **Name exchange (revised):** Vee deploys Randi's performed name-line on Pace — *"Vivienne Thorne. Yes, like the university. No, my parents didn't plan it…"* — the bit she watched Randi run on Cassie in scene 4, and she lands it; Randi answers with a bare *"Randi."*, the warmth-engine gone silent, watching her own routine worn as flirtation at the man she's secretly sleeping with (reread freight; no narrator nudge). He sits, helps via her econ teacher's frame — name the variables, name what's changing, name what you're solving for — and the problem opens. *"May I call you?"* — the *may* from a register her mother would approve. He takes her number, nods at Randi like background scenery, and walks out. Cassie delivers the device cold: *"He didn't even look at her" / "He looked at her like she was a chair."* Vee's social reflex smooths it over; Randi performs the warm rescue and turns the coffee cup a quarter-turn so the handle points at Vee, then does not look at it again. The turn never reaches Vee's memory. Plan formally begins; two of three know.
 
 ### 8. [SCENE] Calls/Texts → The Froyo Walk
 **~week of Sep 18**
@@ -71,11 +71,8 @@ Coffee shop on Wilson Street, Vee's POV. Vee has been stuck on a calculus proble
 
 He courts on a schedule she can't see; chooses the small safe opener though the plan is already live for him.
 
-### 9. [VIGNETTE] The Good Shirt / No-Tag Plant
-**~late September**
-*Unwritten · will fold into an existing early domestic beat*
+### 9. [VIGNETTE] The Good Shirt / No-Tag Plant - RESOLVED, beat moved into The Hiking Rainstorm
 
-Pace gives Vee a well-made shirt with no brand tag. She notices the absence once, guesses wrong (counterfeit, sample), drops it. Must not read as significant until the Fitting detonates it at scene 14.
 
 ### 10. [SCENE] The Dance Lesson and CW Bar
 **~late September / early October**
@@ -93,7 +90,7 @@ Frank register; *them-not-you* seed; first bathroom trip — Randi files the tim
 **~mid-October**
 *Unwritten*
 
-He steps into the rain for her privacy; she beckons him back, changes facing him. Keeps the (enormous, his) hiking shirt — the disappear-into-his-fabric beat that the burgundy dress later inverts.
+He steps into the rain for her privacy; she beckons him back, changes facing him. Keeps the (enormous, his) hiking shirt — the disappear-into-his-fabric beat that the burgundy dress later inverts. Pace gives Vee a well-made shirt with no brand tag. She notices the absence once, guesses wrong (counterfeit, sample), drops the question. Must not read as significant until the Fitting detonates it at scene 14.
 
 ### 13. [SCENE] First Night Together / Secretions Reframe
 **~late October · a Friday or Saturday**
