@@ -5,7 +5,7 @@
 
 **Calendar anchor:** Academic year runs late August through early May. Fall semester begins ~Mon Aug 28. Thanksgiving break ~Wed Nov 22–Sun Nov 26. Christmas break ~Fri Dec 15–Sun Jan 14. Spring semester begins ~Mon Jan 15.
 
-**Entry types:** `[SCENE]` full prose scene · `[VIGNETTE]` short beat, single image · `[EVENT]` not rendered, canonical backstory · `[FB]` format-break scene
+**Entry types:** `[SCENE]` full prose scene · `[VIGNETTE]` short beat, single image · `[EVENT]` not rendered, canonical backstory
 
 ---
 
@@ -74,6 +74,8 @@
 
 ## Scene Entries
 
+## Pre-Novel
+
 ### [EVENT] Pace Meets Randi
 *~Sat Aug 5 · pre-novel · not a scene*
 Pace walks up cold to Randi's Greek group, gets accepted within fifteen minutes, asks her out inside that window. Genuine attraction, not strategy. The *"He's hard to say no to"* line originates here among witnesses. Social-penalty thread begins.
@@ -83,6 +85,8 @@ Pace walks up cold to Randi's Greek group, gets accepted within fifteen minutes,
 Pace and Randi have been sleeping together ~3 weeks before the Bench. Relationship established but not named. Sorority house begins to converge on the view that a senior sister dating a social outcast is wrong; Brooke rides the consensus.
 
 ---
+
+## Early
 
 ### [SCENE] The Bench
 *Early fall · week 1 · ~Fri Sep 1* · Draft complete · `the-bench.md` · [detail](meta-condensed-the-bench.md)
@@ -130,6 +134,8 @@ Vee tells Cassie about the hike and shirt — clean baseline of her feeling for 
 
 ---
 
+## Middle
+
 ### [SCENE] The Fitting
 *Mid-fall · ~Sat Oct 28* · Draft complete · `the-fitting.md` · [detail](meta-condensed-the-fitting.md)
 He turned the heat up before she came. Burgundy silk matched to her coloring, not the magazine reference. No-tag shirt detonates. Measuring sequence close and rhythmic; the deliberate *"Oops"*; *"Keep still"* at audible cost. Ends with deferred tension intact — the tension that motivates the first night. Pays off: silk-naming (hike), no-tag shirt (hike). Plants: the deferred want.
@@ -156,7 +162,7 @@ Mostly pure delight with the faintest shadow the reader feels and Vee doesn't. C
 
 ### [SCENE] First Night Together
 *~mid-to-late October · after the Fitting and Fitting Debrief* · Unwritten · [detail](meta-condensed-first-night.md)
-Motivated by the Fitting's deferred tension, not the CW dance. *"Would you be bothered if I was too hard?"* Best sex of her life to this point. Fully in the moment, no management gap — the gaplessness Pace produces. Pays off: Fitting's deferment. Plants: the gap that reopens in daylight retelling (13b).
+Motivated by the Fitting's deferred tension, not the CW dance. *"Would you be bothered if I was too hard?"* Best sex of her life to this point. Fully in the moment, no management gap — the gaplessness Pace produces. Pays off: Fitting's deferment. Plants: the gap that reopens in daylight retelling (First-Night Debrief).
 
 ### [SCENE] Cassie — After
 *~the next day* · Unwritten · Cassandra track · [detail](meta-condensed-cassie-after.md)
@@ -227,6 +233,8 @@ The conventionally proper man, the fine dinner, the fine sex, the *nothing* it p
 Bomber jacket and broadcloth without being asked. The proprietary feeling she hasn't earned the right to.
 
 ---
+
+## Late
 
 ### [SCENE] The Dance (Format Break)
 *Late January* · Unwritten · FB · [detail](meta-condensed-the-dance.md)
