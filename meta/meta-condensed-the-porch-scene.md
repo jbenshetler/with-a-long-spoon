@@ -12,4 +12,4 @@ Vee's POV; enclosed porch, watching the sun come up. Vee delivers the cracker-an
 
 ---
 
-**Note from continuity flag 7:** The porch scene is a load-bearing grain *for* the Christmas fight (scene 25), so porch scene must precede the fight. The current order is correct — porch scene (~early December) → Christmas fight (~Dec 1-2) — confirming the grain structure.
+**Note from continuity flag 7:** The porch scene is a load-bearing grain *for* The Christmas Fight, so porch scene must precede the fight. The current order is correct — porch scene (~early December) → Christmas fight (~Dec 1-2) — confirming the grain structure.

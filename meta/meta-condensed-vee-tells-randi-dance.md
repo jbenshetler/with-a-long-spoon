@@ -1,6 +1,6 @@
 # Condensed — Vee Tells Randi About the Dance (The Jar)
 
-*SCENE · Unwritten · SATC · within a few days of scene 30*
+*SCENE · Unwritten · SATC · within a few days of The CW Jitterbug Scene*
 
 The dance as the funny story. Then the jar (told only here, never shown): a stuck jar giving way to nothing, and what feeling his invisible, chosen gentleness did to her. Voice changes mid-telling. Randi files the cruelest datum: tenderness/restraint is the load-bearing wall of what Vee feels — the thing she can't manufacture. Tenderness-register bathroom trip candidate.
 

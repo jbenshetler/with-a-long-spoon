@@ -8,7 +8,7 @@
 
 ## Key Beats
 
-He steps into the rain for her privacy; she beckons him back and changes facing him — the trust made physical. She keeps the **enormous, his, no-tag hiking shirt** — the disappear-into-his-fabric beat the burgundy dress later inverts. He gives her the well-made shirt with no brand tag; she notices the absence once, guesses wrong (counterfeit, sample, off-brand), drops the question. **Must not read as significant until the Fitting detonates it at scene 15.**
+He steps into the rain for her privacy; she beckons him back and changes facing him — the trust made physical. She keeps the **enormous, his, no-tag hiking shirt** — the disappear-into-his-fabric beat the burgundy dress later inverts. He gives her the well-made shirt with no brand tag; she notices the absence once, guesses wrong (counterfeit, sample, off-brand), drops the question. **Must not read as significant until The Fitting detonates it.**
 
 **The silk-naming relocates into this scene** (moved off the porch — see continuity flag 11): walking the trail, warm and unguarded and not asking for anything, she tells him about the induction, the dress she can't afford, the color she saw in a magazine that looked like *poured wine.* People talk about all kinds of things while hiking; the being-known-without-asking is part of what makes the hike the swoon it needs to be, and it plants the silk Pace acts on at the Fitting.
 
