@@ -59,7 +59,7 @@ scene-by-scene architecture.
 
 | File | What it answers |
 |------|----------------|
-| `meta-plan-chronology.md` | Full scene chronology in order; one-paragraph summaries; draft status per scene. First document to check for sequence questions. |
+| `meta-plan-chronology.md` | Scene chronology: running order by phase (Early / Middle / Late), thin per-entry summaries with links to condensed companions, continuity flags, and threaded-throughout threads. First document to check for sequence and placement questions. |
 | `meta-plan-summary.md` | Condensed whole-novel summary; character physical/object details; document map (may contain stale links — see `meta-todo-open-questions.md`). |
 | `meta-plan-satc-tracks.md` | Architecture of the SATC lunch scenes; extraction mechanics; Randi's operational register across the lunch track. |
 | `meta-plan-dress-cluster.md` | The dress cluster (scenes 14–14e); sequence, dependencies, what each scene must accomplish. |
@@ -91,6 +91,66 @@ architecture, more specific than scene plans. Named `meta-note-<subject>`.
 | File | What it answers |
 |------|----------------|
 | `meta-process-chronology.md` | When to update the chronology; what every entry must contain; entry type definitions (`[SCENE]` / `[VIGNETTE]` / `[EVENT]`); consistency checks; format reference. |
+| `meta-plan-schedule.md` | Time-management model: the three layers (identity = name / sequence = list-order within phase / in-world stamp = texture line); calendar-anchor block; what may be pinned to a hard date; migration checklist. *Status: drafted, not yet fully applied.* |
+
+---
+
+## Tier 5c — Scene Condensed Reference
+
+Full beat-level detail, revision rationale, and craft notes for individual scenes, extracted from the chronology. Named `meta-condensed-<scene-name>.md`. **Read on demand when working on a specific scene** — not loaded by default. Linked from each scene's entry in the chronology.
+
+One file per non-trivial scene; the chronology entry links to it. To work on a scene: read the chronology entry (thin summary + plants/pays off), then load the condensed file for full beats.
+
+| File | Scene |
+|------|-------|
+| `meta-condensed-the-bench.md` | The Bench |
+| `meta-condensed-randis-walk-of-shame.md` | Randi's Walk of Shame |
+| `meta-condensed-plan-origin.md` | Plan Origin / Campus Walk |
+| `meta-condensed-together-in-class.md` | Together in Class / Chi Latte |
+| `meta-condensed-the-meet-cute.md` | The Engineered Meet-Cute |
+| `meta-condensed-the-froyo-walk.md` | The Froyo Walk |
+| `meta-condensed-walk-home-kiss.md` | The Walk-Home Kiss |
+| `meta-condensed-may-i-choose.md` | May I Choose |
+| `meta-condensed-the-smoothie-shop.md` | The Smoothie Shop |
+| `meta-condensed-the-hiking-rainstorm.md` | The Hiking Rainstorm |
+| `meta-condensed-cassie-before.md` | Cassie — Before |
+| `meta-condensed-the-fitting.md` | The Fitting |
+| `meta-condensed-vee-tells-cassie-fitting.md` | Vee Tells Cassie About the Fitting |
+| `meta-condensed-brunch-fitting-randi.md` | SATC Brunch — Fitting Debrief |
+| `meta-condensed-randi-takes-scrunchies.md` | Randi Takes the Scrunchies (Grain #1) |
+| `meta-condensed-dress-pickup.md` | Dress Pickup |
+| `meta-condensed-vee-shows-cassie-dress.md` | Vee Shows Cassie the Dress |
+| `meta-condensed-first-night.md` | First Night Together |
+| `meta-condensed-cassie-after.md` | Cassie — After |
+| `meta-condensed-first-night-debrief.md` | First-Night Debrief |
+| `meta-condensed-the-cw-dance.md` | The CW Dance |
+| `meta-condensed-cw-dance-debrief.md` | The CW-Dance Debrief |
+| `meta-condensed-shoe-shopping.md` | Shoe Shopping with Randi |
+| `meta-condensed-sweet-dress-barb.md` | Randi & Pace — "Sweet" (The Dress Barb) |
+| `meta-condensed-the-first-swat.md` | The First Swat / The Setup |
+| `meta-condensed-cassie-cooling-off.md` | Cassie & Vee — Cooling-Off |
+| `meta-condensed-the-proof-scene.md` | The Proof Scene |
+| `meta-condensed-vee-tells-randi-proof.md` | Vee Tells Randi About the Proof Scene |
+| `meta-condensed-the-painting-afternoon.md` | The Painting Afternoon |
+| `meta-condensed-vee-tells-randi-painting.md` | Vee Tells Randi About the Painting |
+| `meta-condensed-covid-ppp-project.md` | The COVID / PPP Statistics Project |
+| `meta-condensed-christmas-fight.md` | The Christmas Fight |
+| `meta-condensed-the-porch-scene.md` | The Porch Scene — Cracker-and-Meal |
+| `meta-condensed-the-flat-date.md` | The Flat Date |
+| `meta-condensed-first-weekend-back.md` | First Weekend Back |
+| `meta-condensed-the-dance.md` | The Dance (Format Break) |
+| `meta-condensed-cw-jitterbug.md` | The CW Jitterbug Scene |
+| `meta-condensed-vee-tells-randi-dance.md` | Vee Tells Randi About the Dance (The Jar) |
+| `meta-condensed-bondage.md` | Bondage |
+| `meta-condensed-grain-2-scrunchies.md` | Grain #2 — Randi Wears the Scrunchies |
+| `meta-condensed-bb-weekend.md` | The B&B Weekend |
+| `meta-condensed-nipple-clamps.md` | Nipple Clamps |
+| `meta-condensed-sheer-dress-brunch.md` | The Sheer Dress Brunch + The Dressing Room |
+| `meta-condensed-the-peaches.md` | The Peaches |
+| `meta-condensed-grain-3-restoration.md` | Grain #3 — The Restoration (The Loud One) |
+| `meta-condensed-threesome-introduction.md` | The Threesome Introduction |
+| `meta-condensed-threesome-reveal.md` | The Threesome and Reveal |
+| `meta-condensed-ending-sequence.md` | The Ending Sequence |
 
 ---
 
@@ -117,18 +177,19 @@ Listed in chronological order. Status: **complete** / **partial** / **beats only
 
 | File | Scene | Status |
 |------|-------|--------|
-| `the-bench.md` | 1 — The Bench | complete |
-| `randis-walk-of-shame.md` | 2 — Randi's Walk of Shame | complete |
-| `origin-campus-walk.md` | 3 — Plan Origin / Campus Walk | complete |
-| `together-in-class.md` | 4 — Together in Class / Chi Latte (diptych; collapses old 4/5/6) | complete |
-| `the-meet-cute.md` | 7 — The Engineered Meet-Cute | complete |
-| `the-froyo-walk.md` | 8 — The Froyo Walk (vignette) | complete |
-| `may-i-choose.md` | 8b — May I Choose / The Dinner (the first surrender) | complete (hike-invite relocation + audits pending) |
-| `the-fitting.md` | 14 — The Fitting | complete |
-| `vee-tells-cassie-fitting.md` | 14a — Vee Tells Cassie | complete |
-| `brunch-fitting-randi.md` | 14b — Brunch / Vee Tells Randi | partial (opening movement) |
-| `porch-scene.md` | 28 — The Porch Scene / Cracker-and-Meal | complete |
-| `threesome-reveal.md` | 36–37 — Threesome and Ending Sequence | planning doc |
+| `the-bench.md` | The Bench | complete |
+| `randis-walk-of-shame.md` | Randi's Walk of Shame | complete |
+| `origin-campus-walk.md` | Plan Origin / Campus Walk | complete |
+| `together-in-class.md` | Together in Class / Chi Latte (diptych) | complete |
+| `the-meet-cute.md` | The Engineered Meet-Cute | complete |
+| `the-froyo-walk.md` | The Froyo Walk | complete |
+| `may-i-choose.md` | May I Choose — The Dinner (the first surrender) | complete |
+| `the-fitting.md` | The Fitting | complete |
+| `vee-tells-cassie-fitting.md` | Vee Tells Cassie About the Fitting | complete |
+| `brunch-fitting-randi.md` | SATC Brunch — Fitting Debrief | partial (opening movement; see revision flag in condensed file) |
+| `porch-scene.md` | The Porch Scene — Cracker-and-Meal | complete |
+| `ignition-scalding.md` | Scalding Jealousy Ignition | draft in progress (holding bay — placement TBD) |
+| `threesome-reveal.md` | The Threesome and Reveal / The Ending Sequence | planning doc |
 
 ---
 
