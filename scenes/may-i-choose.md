@@ -1,8 +1,6 @@
 # May I Choose
 
 *Scene 8b · [SCENE / half-scene] · ~week of Sep 18–25 · Vee's POV*
-*(working title — "the dinner date" in the chronology; rename there to match)*
-*Load-bearing end-beat: he invites her on the hike, she says yes despite the nervousness. (Hike invitation not yet drafted — see note at end.)*
 
 ---
 
@@ -12,13 +10,13 @@ The elevator opened on the lobby — polished concrete, the squat hard-used couc
 
 He'd showered. She could tell from across the room — the damp-dark edge of his hair, his jaw still faintly blushing from the razor, that color that meant *recently,* that meant *for this.* The rest of him was just himself: clean and plain, no effort spent on being seen, his boots the kind that had been somewhere and been kept, resoled, looked after. She knew enough to know he hadn't dressed up for her, and knew enough to understand that this was better — that the boys in this building bought new shoes to look like they'd lived and he just wore the ones that had. He'd showered and shaved and come to get her, and the only thing he'd changed for her was the part of him that touched her air.
 
-The doors clanked and started to slide shut — the elevator timing out, done waiting on a girl who'd forgotten to get off it. She came to and threw out a hand, begging the doors for mercy, and stepped into the lobby like a person who knew how to walk. If he saw, he had the grace not to show it. He set down whatever he'd been before she walked into it, and crossed to meet her.
+The doors clanked and started to slide shut — the elevator timing out, done waiting on a girl who'd forgotten to get off it. She came to and threw out a hand, begging the doors for mercy, and stepped into the lobby like a person who knew how to walk. If he saw, he had the grace not to show it. Whatever he'd been before she walked in, he let go of, and crossed to meet her.
 
 "Hi," she said, and heard it come out smaller than she'd planned, the elevator still on her a little.
 
 "Hi." He didn't fill the space after it or make her account for the smallness. He only said it was close enough to walk, if she didn't mind walking, and held the door — and didn't tell her where, which she noticed and decided not to ask about, because not knowing was its own small pleasure and she was already learning she could trust where he was taking her.
 
-The place was close enough to walk to, which she hadn't expected — off a split block a few streets back from campus, a stretch she'd somehow never turned down in two years of living a ten-minute walk away. He took her down it like it was obvious, and it wasn't, and that was the first nice thing: a part of her own small city she'd never seen, and he just had it, the way he seemed to have things.
+The place was close enough to walk to, which she hadn't expected — off a split block a few streets back from campus, a stretch she'd somehow never turned down in two years of living a ten-minute walk away. He took her down it like it was obvious, and it wasn't, and that was the first nice thing: a part of her own small city she'd never seen, and he just knew it, easily, the way he seemed to know more of the world than she did.
 
 They walked without rushing. He kept to the street side without making anything of it. The talk came easy and she couldn't have said about what — the walk and the talk were the same unhurried thing, and the block opened up ahead of them, low lit, a couple of dark storefronts and then one that wasn't, warm yellow spilling out onto the pavement.
 
@@ -54,7 +52,7 @@ It was the right hand again. She noticed it now because it had happened enough t
 
 Somewhere in there she stopped waiting for the evening to go wrong. She didn't notice she'd been waiting until she wasn't — that low background readiness she carried everywhere, the part of her always braced for the bill of a thing to come due, and it just wasn't there, and she let it not be there.
 
-A little later a scoop of the smoky one slipped off his bread and caught the side of his hand, and he brought it to his mouth without a pause in what he was saying — quick, unthinking, the food was meant for hands and there was no ceremony at this table — and went on.
+A little later a drip of the smoky one slipped off his bread and caught the side of his hand, and he brought it to his mouth without a pause in what he was saying — quick, unthinking, the food was meant for hands and there was no ceremony at this table — and went on.
 
 She lost the thread of what he was saying.
 
@@ -74,7 +72,7 @@ He walked her back the long way, and the softness came with her — that low war
 
 "I don't kiss a man I've known a few days," she said. It was out before she'd decided to say it — a rule that had never been breached before. She heard how it sounded, and half meant it.
 
-It was the old reflex, the part of her that always caught the thread before it could drop, that kept her end up, that knew where the lines were and stayed inside them. The same part that had gone quiet at the table without her noticing. It came back now, here, at the worst possible moment, with its rule already in her mouth — and she felt, distinctly, how easy it would be to let it go again. She'd done it an hour ago over a glass of tea and the world hadn't ended. She had liked it. She had liked it more than almost anything.
+It was the old reflex, the part of her that always caught the thread before it could drop, that knew where the lines were and stayed inside them. The same part that had gone quiet at the table without her noticing. It came back now, here, at the worst possible moment, with its rule already in her mouth — and she felt, distinctly, how easy it would be to let it go again. She'd done it an hour ago over a glass of tea and the world hadn't ended. She had liked it. She had liked it more than almost anything.
 
 He didn't argue. He didn't do anything she'd braced for — no lean, no charm turned up, no patient little wait for her to change her mind. He just smiled, like she'd told him something true and fine about herself, and let it close, and started them gently back along the path, her hand drawn along with his.
 
@@ -85,11 +83,3 @@ Her feet stayed where they were. The hand he was holding stayed too, and a few i
 The quiet held a beat past comfortable. She let it.
 
 "But," she said, and let the thread go, and closed the distance he'd already given up, "I'm making an exception."
-
----
-
-## Notes / still open
-
-- **Hike invitation (load-bearing end-beat).** Per the chronology, this scene's structural job includes Pace inviting her on the hike and her saying yes despite nervousness about the remote-VA day. That beat is **not yet placed** — candidates: during the walk there, at the table (before the surrender), or on the walk back (before the tree). It should probably sit *before* the surrender/kiss so the evening doesn't have two climaxes competing; the walk-there or early-table is most likely. **To workshop.**
-- **Two pending whole-scene audits:** safety-bricks (does each early beat pull its weight so the surrender lands as their sum) and repetition (governor-lifting phrases, the *thread* motif, Pace's deliberate-placing register, her hush/soft interior register) — the latter run against the froyo vignette too, since 8 and 8b are neighbors.
-- **Transliteration:** *baba ghanoush / tabbouleh* in the hearing-the-words beat use fuller spellings (heard-as-sound); the arrival beat uses "the bright green one / the smoke-dark one" (no names). Confirm consistency is intentional (she hears the sounds, then sees the dishes without re-naming).

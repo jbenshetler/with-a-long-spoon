@@ -75,6 +75,7 @@ architecture, more specific than scene plans. Named `meta-note-<subject>`.
 
 | File | What it answers |
 |------|----------------|
+| `meta-note-rainstorm-hike.md` | The Rainstorm Hike (scene 12) pre-draft notes: the *fully-in-the-world* thesis and its inversion of may-i-choose; "rich people hike, poor people walk" (class/aspiration + Pace-as-deliberate-exception); the cold/sharp/wide-awake palette with the single creamy note at the end; care-under-real-stakes; silk-naming-on-the-move; the *she-authors-the-exposure* hinge; the three-surrenders comparison (warm-under / cold-awake / held-still → first night); plants and the size/differentiation watch. |
 | `meta-note-vee-reads-randi.md` | How Vee perceives and internally registers Randi's makeup at first encounter; vocabulary constraint; the not-quite-envy feeling; placement candidate; craft implications for the mutual-envy architecture. |
 | `meta-note-sexual-ratchet.md` | How increased sexual frequency builds capacity and appetite across all three carriers; how the ratchet operates differently in each apparatus; craft implications. *(to be created)* |
 | `meta-note-vee-thriving.md` | The 3.6→3.9 GPA; the glowing register; how to render thriving distributed across scenes rather than as event. *(to be created)* |
@@ -121,6 +122,8 @@ Listed in chronological order. Status: **complete** / **partial** / **beats only
 | `origin-campus-walk.md` | 3 — Plan Origin / Campus Walk | complete |
 | `together-in-class.md` | 4 — Together in Class / Chi Latte (diptych; collapses old 4/5/6) | complete |
 | `the-meet-cute.md` | 7 — The Engineered Meet-Cute | complete |
+| `the-froyo-walk.md` | 8 — The Froyo Walk (vignette) | complete |
+| `may-i-choose.md` | 8b — May I Choose / The Dinner (the first surrender) | complete (hike-invite relocation + audits pending) |
 | `the-fitting.md` | 14 — The Fitting | complete |
 | `vee-tells-cassie-fitting.md` | 14a — Vee Tells Cassie | complete |
 | `brunch-fitting-randi.md` | 14b — Brunch / Vee Tells Randi | partial (opening movement) |
