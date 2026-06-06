@@ -1,6 +1,6 @@
 # Condensed — Shoe Shopping with Randi
 
-*SCENE · Unwritten · within a week of 15d (after dress pickup) · a weekend afternoon*
+*SCENE · Unwritten · within a week of Dress Pickup · a weekend afternoon*
 
 ## Summary
 
@@ -15,5 +15,5 @@ The second showing-to-Randi scene, structured as a direct contrast to Vee showin
 
 ## Plants / Pays Off
 
-- **Grain #1 payoff:** The scrunchies taken in scene 15c are now live context. Randi's appraisal-as-sadism is playing across a theft the reader knows about and Vee doesn't.
-- **Format establishment:** Shopping-together becomes a repeated format Randi excels at, used later for control and power (money as power, dress she didn't pay for — see scene 36 sheer-dress brunch).
+- **Grain #1 payoff:** The scrunchies taken in Randi Takes the Scrunchies are now live context. Randi's appraisal-as-sadism is playing across a theft the reader knows about and Vee doesn't.
+- **Format establishment:** Shopping-together becomes a repeated format Randi excels at, used later for control and power (money as power, dress she didn't pay for — see The Sheer Dress Brunch).
