@@ -1,0 +1,5 @@
+# Condensed — The Bench
+
+*SCENE · Draft complete · `the-bench.md` · ~Fri Sep 1 · end of first week of fall semester*
+
+Opening scene, Pace's POV. Randi arrives, locking the door behind her — her first act, always — and the scene renders their domestic ease: the pre-sliced apple thin because she eats thin slices, the straddling at the kitchen table, the apple eaten kiss by kiss. The BDSM sequence that follows is unhurried, tidal, reading her body at every stage; she begs, *please, please, please*, in a voice she hasn't used since childhood, and is called beautiful in the same breath. In his bathroom afterward with the door locked for the first time, Randi faces herself in the mirror — the face of a woman who has begged — and practices the smile back onto it until it settles. She returns composed; he holds her and makes quiet contented plans about who she'll become, certain he was right about her, entirely blind to the hunger he has just inaugurated. *The hum in her ribs: the size of a key turning in a lock.* Clamps held for the Vee track.
