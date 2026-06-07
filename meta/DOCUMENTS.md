@@ -31,7 +31,7 @@ Where the thesis and an architecture doc conflict, the thesis governs.
 | File | What it answers |
 |------|----------------|
 | `meta-arch-pace.md` | Pace's neurodivergence, consent architecture, chivalric grammar, vow against premature declaration, house/objects, the scar, method, arc. |
-| `meta-arch-randi.md` | The bench wound, the six-channel week, the SATC scenes as real life, the flat date, mutual envy, the cup compulsion, her future. |
+| `meta-arch-randi.md` | The bench wound, the six-channel week, the SATC scenes as real life, the flat date, mutual envy, the cup compulsion, her future. **Contains 🔒 THE NEED ENGINE — LOCKED CANON (need vs. want; need re-filed as want; the being-seen fork; sadism as need inverted). Change only on explicit user instruction; never shortened or reinterpreted.** |
 | `meta-arch-vivienne.md` | Vee's constitution, the cracker-and-meal architecture, the two registers, the dual outcome, parallel-and-opposite with Randi, the tragedy at two levels, what she carries forward. |
 | `meta-arch-bible.md` | Cross-character relational architecture; secondary characters (Cassie, Sheri, Brooke); craft rules that apply across all POVs; the chiasmus discipline. |
 
@@ -77,6 +77,7 @@ architecture, more specific than scene plans. Named `meta-note-<subject>`.
 |------|----------------|
 | `meta-note-rainstorm-hike.md` | The Rainstorm Hike (scene 12) pre-draft notes: the *fully-in-the-world* thesis and its inversion of may-i-choose; "rich people hike, poor people walk" (class/aspiration + Pace-as-deliberate-exception); the cold/sharp/wide-awake palette with the single creamy note at the end; care-under-real-stakes; silk-naming-on-the-move; the *she-authors-the-exposure* hinge; the three-surrenders comparison (warm-under / cold-awake / held-still → first night); plants and the size/differentiation watch. |
 | `meta-note-vee-reads-randi.md` | How Vee perceives and internally registers Randi's makeup at first encounter; vocabulary constraint; the not-quite-envy feeling; placement candidate; craft implications for the mutual-envy architecture. |
+| `meta-note-origin-walk-pace-misread.md` | **PROTECTED note.** Why the "ungradeable / nothing to grade" language in `origin-campus-walk.md` (~line 63) must NOT be "fixed" to match the corrected craft-vivienne mis-categorization framing: it is Pace's diegetic misattribution (Pace POV), the two-reading engine, his signature blindness — reread reveals it's need surfacing in Randi, not Vee being ungradeable. Do not revise without explicit user instruction. |
 | `meta-note-sexual-ratchet.md` | How increased sexual frequency builds capacity and appetite across all three carriers; how the ratchet operates differently in each apparatus; craft implications. *(to be created)* |
 | `meta-note-vee-thriving.md` | The 3.6→3.9 GPA; the glowing register; how to render thriving distributed across scenes rather than as event. *(to be created)* |
 | `meta-note-randi-costs.md` | Sorority falter; academic non-event; cover-maintenance as distinct cost; Brooke beat. *(to be created)* |

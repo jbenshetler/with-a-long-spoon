@@ -106,7 +106,7 @@ DIPTYCH. Panel one: Randi drops into the aisle seat, runs the name-bit on Cassie
 
 ### [SCENE] The Engineered Meet-Cute
 *Early fall · week 3 · ~Thu Sep 14* · Draft complete · `the-meet-cute.md` · [detail](meta-condensed-the-meet-cute.md)
-Randi texts Pace their location from under the table; Cassie clocks it, goes still. Vee deploys Randi's name-bit on Pace; Randi answers with a bare *"Randi."* He helps, takes her number, nods at Randi like scenery. Cassie: *"He looked at her like she was a chair."* Randi turns the coffee cup a quarter-turn. Plan formally live.
+Randi texts Pace their location from under the table; Cassie clocks it, goes still. Vee deploys Randi's name-bit on Pace; Randi answers with a bare *"Randi."* He helps, takes her number. Cassie clocks that he showed no attraction to Randi — *"He looked at her the way you'd look at somebody's great-aunt"* — the not-a-prospect look (full personhood, no desire), which Vee privately recognizes as the look men give Cassie. Pace does NOT dehumanize Randi; he sees everyone, wants only Vee. The reader (who knows Pace and Randi are lovers and that Randi engineered the meet-cute to hide it) is left unsure whether it's flawless discipline or genuine only-eyes-for-Vee. Randi turns the coffee cup a quarter-turn. Plan formally live.
 
 ### [SCENE] The Froyo Walk
 *Early fall · week 3 · ~week of Sep 18* · Draft complete · `the-froyo-walk.md` · [detail](meta-condensed-the-froyo-walk.md)
@@ -316,7 +316,7 @@ Vee leaves with full knowledge, full anger, full ownership. Pace reads the wrong
 
 4. **No-tag shirt — RESOLVED.** Folds into the Hiking Rainstorm; detonates at the Fitting.
 
-5. **Cassie's warnings — RESOLVED.** Two distinct warnings: (a) Chi Latte diptych, *"Goodbye, Vee"* — about Randi; (b) Meet-Cute, *"He looked at her like she was a chair"* — about Pace. Goodbye-kiss staircase: hug at Chi Latte (rung zero); first kiss at SATC Brunch — Fitting Debrief. Pace track first kiss: Walk-Home Kiss. Two distinct staircases.
+5. **Cassie's warnings — RESOLVED (line revised).** Two distinct observations: (a) Chi Latte diptych, *"Goodbye, Vee"* — about Randi; (b) Meet-Cute, the **no-attraction observation** — *"He looked at her the way you'd look at somebody's great-aunt"* — Cassie clocking that Pace showed Randi none of the attraction a man shows a beautiful woman. **NOT "he looked at her like she was a chair" (revised out — Pace does not dehumanize; he sees everyone fully and wants only Vee).** This is the not-a-prospect look (full personhood, no desire), which Vee privately recognizes as the look men give Cassie. It functions as an *anomaly* (a man unmoved by the most-looked-at woman present) attaching to the staging/Randi, not as a character-warning about Pace; and it preserves the reader's open question — flawless discipline running the concealment, or genuine only-eyes-for-Vee. Goodbye-kiss staircase: hug at Chi Latte (rung zero); first kiss at SATC Brunch — Fitting Debrief. Pace track first kiss: Walk-Home Kiss. Two distinct staircases.
 
 6. **Flat Date placement.** During Christmas break. Must fall after SATC track at full intensity and before threesome is scheduled.
 

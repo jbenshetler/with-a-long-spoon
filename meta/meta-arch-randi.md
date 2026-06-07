@@ -15,6 +15,35 @@ The hate, the envy, the sadism, and the genuine like are not four separate engin
 
 ---
 
+## 🔒 THE NEED ENGINE — LOCKED CANON (do not shorten, do not reinterpret)
+
+> **CHANGE-PROTECTION NOTICE.** This section is locked. It may be changed, shortened, rephrased, or reinterpreted **only on direct, explicit instruction from the user.** It is never condensed in a summary pass, never paraphrased into a shorter form elsewhere, never "cleaned up." If another document needs this material, it links here; it does not restate it in abbreviated form. This is the authoritative statement of Randi's central engine and several existing sections (The Sadism as the Channel of Wanting; The Two Transformations / Mutual Envy; the Cup in `meta-craft-randi.md`) defer to it.
+
+**Want vs. need — the hinge.** Randi is at ease with *want.* She has wanted all her life and always gets what she wants; want is operable, acquirable, safe — a want can be pursued, acquired, deployed, filed. Wanting Vee, as a want, would be no crisis: Randi acquires people. The intolerable category is **need:** primordial, prior to want, more urgent — and **the thing she cannot supply herself.** Need means another person holds something she is contingent on and cannot generate or revoke. That dissolves the self-sufficient operator who always gets what she wants — because the operator is *defined by not-needing.* What Randi cannot bear exposed is not desire; it is **need / contingency** — being seen as dependent, unable to self-supply.
+
+**The causal chain.** Pace produces **aliveness** (full engagement with life). Aliveness is the solvent that surfaces what Randi keeps suppressed. Her master need is **Vee** — because Vee *is* aliveness (Vivienne: alive, lush), and Randi cannot make herself alive; only Vee supplies it. (Randi's lesbian desire is **existing, not created** — Pace produces the aliveness; the aliveness surfaces a desire that was always hers. Pace is not the author of her sexuality. The same-sex desire is one channel the need runs through, never the headline.)
+
+**The laundering: need re-filed as want.** Randi manages herself by categorizing everything; the unacceptable gets filed into an acceptable box before it shows. With Vee the mechanism re-files **need into want** — *"I need her"* → *"I want her, for my boyfriend"* — because want she controls and need controls her. The threesome is the largest instance: the unbearable contingency (*I cannot be alive without her; I cannot supply this myself*) relocated into the operable frame (*a thing I am acquiring, for him, because I want to*). Want is the acceptable box need gets filed into. The feeling underneath is never transformed — only relocated — which is why it is deniable and why it never resolves.
+
+**The on-page tell: the category that won't come.** Randi categorizes everything; the signal that she is in trouble is the moment **the box won't come.** The failure-to-categorize is not naïveté or novelty (she knows exactly what wanting is) — it is the *management apparatus jamming* on the one feeling it cannot place: need for aliveness / for Vivienne, the two fused. The interval where the file won't close is the breach. **The pointing-game "Yes"** (`origin-campus-walk.md`) is the worked example: the bare *Yes* escapes before the box arrives; the recovery (*"Yeah. I like her,"* re-filed as a girlfriend's offer) is the box arriving — need re-filed as want. It recurs all year; each recurrence jams, then re-files. Never resolves, because relocation leaves the need intact.
+
+**The envy: same input, opposite output at the being-seen step.** Both women feel aliveness with Pace; aliveness surfaces suppressed material in both. They fork at being-seen. **Vee thrives on being seen** — exposure is her excitement; aliveness surfaces her shame-material and being-seen metabolizes it into arousal/aliveness; the circuit closes; she gets more alive, and her needs get fed *because she can show them.* **Randi finds being seen needing intolerable** — so she gets the surfacing without the metabolizing; the need runs and has nowhere to go but back into a box. Randi's envy is precisely this: **Vee can show need and be fed and thrive; Randi cannot show need, cannot supply her own, so the need runs unmet, re-filed forever.** Not envy of looks or luck — envy of the *capacity to be supplied by another person,* which is the exact thing "Randi cannot supply her own needs" forecloses.
+
+**The sadism: need inverted into its opposite position.** The SATC brunches hand Randi, repeatedly, Vee's *completed circuit* in detail (the Pace reports) — Vee arriving radiant with the thing Randi cannot have — while Randi needs Vee primordially and cannot be the one seen needing. The sadism is the resolution of that pressure: **unable to survive being the needer, Randi forces Vee into the needer-position** — Vee laid open, shame extracted, involuntary appetite witnessed — while Randi stays the un-needy *supplier/operator,* hand on the lever. The sadism flips the need-position so Randi never occupies it. It is the laundering mechanism at relationship scale (the unacceptable need re-filed as *the worldly friend drawing out the naïve one*). **It does not satisfy the need** — only being-fed-by-Vee would, which requires being seen needing, which she cannot do — so it recurs, escalates, never resolves. **Love and sadism are the same motion** because both are the one unmet need: one received, one inverted. She genuinely loves Vee and is genuinely sadistic with Vee in the same act, because the act is need with nowhere admissible to go.
+
+**The cup is the body's tell for this.** The cup fires on bottom-position — *something done to her she cannot control.* **Need is the master instance of that:** the contingency she cannot operate her way out of. The cup is the body leaking the need-state the operator denies. (See `meta-craft-randi.md`, The Cup.)
+
+**Render disciplines (all reread-only, all buried):**
+- **Never named by Randi** — she least of all can name it; naming need is the exposure she exists to prevent.
+- **Never surfaced by the narrator;** never stated across the two interiors (the Vee/Randi being-seen fork is the chiasmus — felt from outside, never articulated).
+- **First read protects the goods:** the brunches are genuinely the most intense friendship of Vee's life *and* the sadism is real, simultaneously; the desire/need underneath is invisible until the reveal recodes it. The friendship is not fake — need *is* love at its rawest, and Randi's need for Vee is the realest thing she has, which is why losing it is catastrophic.
+- **Envy rides on the love, never replaces it** — she envies *because* she is close enough to watch Vee complete the circuit.
+- **Author-knowledge vocabulary** ("need," "aliveness," "Vivienne," "contingency," "the category that won't come"): docs only. On the page: the jam, the re-file (want, for him), the cup, the inversion.
+
+---
+
+---
+
 ## The Original Wound and Its Continuous Update
 
 The bench was the original event. Pace saw past the surface she had spent twenty-one years perfecting, and she did not consent to that, and she cannot undo it, and the worst part is that she went back. *(Scene draft: `the-bench.md`)*
@@ -65,6 +94,8 @@ Three distinct appetites, igniting on different schedules. Getting the schedule 
 
 ## The Sadism as the Channel of Wanting
 
+> **Defers to 🔒 THE NEED ENGINE (locked) above.** Where this section says *wanting,* read *need* per the locked want/need hinge: Randi is at ease with want; the engine runs on need (which she cannot supply herself and cannot be seen having). The sadism is **need inverted** — forcing Vee into the needer-position so Randi stays the un-needy operator. The text below is retained as elaboration and does not override the locked statement.
+
 The sadism is *the form Randi's wanting takes when she cannot hold what she wants.* She cannot be loved well — she could not hold Pace's reception of her at the bench, and there is no other channel through which she could be received at that depth. What she *can* do is operate on the thing she wants. She can produce in Vee the responses Vee's body is constituted to produce. She can have her hand on the lever.
 
 The sadism is therefore not an independent personality trait. It is what wanting looks like when received-from is foreclosed. Queen-bee work is sadism in form but not in content — she is managing surfaces. The SATC scenes produce sadism with content because she is reaching the part of Vee that has what Randi wants. She is operating on Vee's livingness directly.
@@ -84,6 +115,8 @@ Both Randi and Vee are transformed by Pace. Both gain vulnerability through new 
 The acting is not enough. She gets aliveness-by-operating, which she now needs, but not aliveness-by-being-able-to-self-actualize-the-need, which Vee has. The SATC operations are therefore operations *on the very capacity Randi cannot have.* She has her hand on the lever of an apparatus she does not possess.
 
 ### Mutual Envy in Opposite Registers
+
+> **Defers to 🔒 THE NEED ENGINE (locked) above** for the mechanism: the envy is the being-seen fork — Vee can show need and be fed; Randi cannot show need and cannot self-supply, so it runs unmet and re-filed. The text below elaborates the mutual, unspoken texture.
 
 Vee envies Randi's composure — reads it as freedom from the running voice. What looks to Vee like freedom is, from Randi's side, the armor preventing self-actualization. Randi envies Vee's ability to live from what they both have. The envy operates without language, in the body, in the daily texture of the lunches. **Both believe themselves to be the lesser one. Neither sees the other's envy.**
 
