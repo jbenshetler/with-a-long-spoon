@@ -32,6 +32,12 @@ She has one — and it is her **threat-response**, not a mood. Residue of the be
 
 ---
 
+## Humor
+
+**Dry, observational — and aimed specifically at puncturing Pace's intellectualism.** Where the world tends to be dazzled by his competence, Sheri is not; she deflates it, affectionately. (She gets the identical patent-monologue on a bike ride that he'd give an empty room, and her register is the one that needles it back down to size — see `meta-arch-pace.md` on the patent voluble-ness.) Not dazzled by his competence, no investment in his masculine performance — which is the same fact as "outside his sexual economy," rendered as *manner.*
+
+---
+
 ## Why She Sees Pace Clearly
 
 She is **outside his sexual economy** (lesbian), so his masculine register has **no purchase** on her. Nothing in how Pace reads to women-who-might-want-him operates on Sheri; she meets the man with that whole channel switched off.

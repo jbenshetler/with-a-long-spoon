@@ -208,11 +208,11 @@ Vee laughed. It was the laugh she did when she was a little out of breath and wa
 
 She put her hand to her collarbone for a second, briefly, in a way she did not register as a gesture she did. The hand came down. She picked up her pencil again because she did not know what else to do with her hand. Cassie was looking at her across the way. Cassie had her chin propped on her fist.
 
-"He didn't even look at her," Cassie said.
+"He looked at her like she wasn't pretty," Cassie said.
 
 There was a small beat.
 
-Vee looked at Cassie. Cassie was looking at Randi. Cassie had said it in the same matter-of-fact voice she said everything in, the voice of someone reporting the weather, the voice of someone who had no particular stake in the observation but was reporting it because it was a thing she had observed. Vee felt the words land in the room before she felt them land in her body. *He didn't even look at her.* He didn't. He hadn't.
+Vee looked at Cassie. Cassie was looking at Randi. Cassie had said it in the same matter-of-fact voice she said everything in, the voice of someone reporting the weather, the voice of someone who had no particular stake in the observation but was reporting it because it was a thing she had observed. Vee felt the words land in the room before she felt them land in her body. It was a strange thing to have said, and it was true. Randi was the prettiest person at the table by a distance anyone could measure, and he had looked at her and not seemed to find it.
 
 The silence held.
 
@@ -224,9 +224,11 @@ Randi did not say anything.
 
 The beat was longer than it should have been. Vee felt the awkwardness of it without understanding the shape of the awkwardness, and her own social fluency engaged before she had decided to engage it, the way her social fluency always engaged when a room needed a small piece of friction smoothed.
 
-"Stop," Vee said, laughing. "He looked at her. He was polite. Randi was on her laptop, of course he didn't — "
+"Stop," Vee said, laughing. "He was being polite. She was on her laptop, he wasn't going to — it doesn't mean anything."
 
-"He looked at her like she was a chair," Cassie said.
+"He looked at her the way you'd look at somebody's great-aunt," Cassie said.
+
+She said it without any weight on it, the way she said everything, not fishing and not wounded, a person stating a measurement. And Vee — before she could stop the thought, before she even knew it was a thought — knew exactly the look Cassie meant. She had spent two years beside Cassie and had seen it from inside the comparison: the same room, the same moment, a man's eyes moving over the both of them and warming on Vee, going easy and unbothered on Cassie, the way they'd go on an older woman, on a kid, on a man he was glad enough to meet and would never think about again. Not unkind. Not blind. He saw Cassie, every time, completely — he just saw her the way you see a person you are never once going to want. And he had looked at the most looked-at woman any of them knew with the same untroubled ease. Something was wrong with it, and Vee knew that following the wrongness led straight to Cassie, so she didn't follow it.
 
 "*Cassie.*"
 

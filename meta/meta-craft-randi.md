@@ -50,6 +50,8 @@ When rendering Vee's pleasure under Randi's attention: use the recognition/statu
 
 ## The Cup — The Body's Tell
 
+> **The cup is the body's tell for the need-state.** See `meta-arch-randi.md`, 🔒 THE NEED ENGINE (locked): the cup fires on bottom-position — *something done to her she cannot control* — and **need is the master instance** (the contingency she cannot operate her way out of). The cup is the body leaking the need the operator denies.
+
 The nail-press/cup is the **only external, present-tense, recurring rendering of the bottom-Randi** in scenes where she is ostensibly in command.
 
 **The gesture:** whenever Randi is in a venue where the need is running and she has no operational lever to discharge it through, her hands find the nearest hard-edged object — a cup, a glass, a wine stem, the rim of a plate — and she presses its edge up under a fingernail, into the quick. Not a grip; a point of applied pressure. Under the table, in her lap, at the side of the plate where no one sees.
