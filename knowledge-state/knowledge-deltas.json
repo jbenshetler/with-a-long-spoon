@@ -970,6 +970,96 @@
     "chapter_number": 33
   },
   {
+    "character_name": "Vivienne",
+    "fact": "Randi did mean 'we should sit together' \u2014 she showed up to class, found Vee's row, and sat beside her with evident pleasure",
+    "source_character": "Randi",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee had been uncertain for four days whether Randi's invitation was sincere or social reflex; Randi's arrival resolves this in Vee's mind",
+    "scene_file": "scenes/together-in-class.md",
+    "chapter_number": 4
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "Randi's full name is Randi (not Randy), and she has a standard bit about it involving her father",
+    "source_character": "Randi",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee also observes this as a rehearsed social bit with a recognizable structure",
+    "scene_file": "scenes/together-in-class.md",
+    "chapter_number": 4
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "Chi Latte's sign is a Greek-letter pun: \u03a7 \u039b\u0391\u03a4\u0395 (Chi Latte), legible only once you know to read it that way",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee had passed the sign forty times without resolving it; hearing the name from Randi's mouth gives her the key",
+    "scene_file": "scenes/together-in-class.md",
+    "chapter_number": 4
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "Randi ordered an oat-milk latte with lavender for Vee without asking, and got it right",
+    "source_character": "Randi",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Minor but registered by Vee as a meaningful social gesture \u2014 being known or anticipated",
+    "scene_file": "scenes/together-in-class.md",
+    "chapter_number": 4
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "The lavender latte is good",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Trivial, but explicitly registered",
+    "scene_file": "scenes/together-in-class.md",
+    "chapter_number": 4
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "Randi said 'love you, girl' and 'see you later' at parting, and Vee interprets 'see you later' as a genuine commitment rather than social noise",
+    "source_character": "Randi",
+    "source_reliable": false,
+    "actual_truth": false,
+    "notes": "Whether Randi means this as a firm future plan or as warm-but-casual farewell is unresolved in the story world; Vee takes it as the former. Confidence in Vee's belief is HIGH; confidence that it reflects Randi's actual intent is LOW",
+    "scene_file": "scenes/together-in-class.md",
+    "chapter_number": 4
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "Cassie said 'goodbye' rather than 'see you later' or 'bye' when parting before coffee \u2014 a word that felt like a longer farewell than the occasion warranted",
+    "source_character": "Cassandra",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee registers this as odd in the moment but then files it away as 'Cassie being Cassie' and forgets it. She perceives the wrongness but does not retain or interpret it",
+    "scene_file": "scenes/together-in-class.md",
+    "chapter_number": 4
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "The professor announced the next topic will be latent variables \u2014 factors that cannot be measured directly but must be inferred from measurable ones",
+    "source_character": "the professor",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee writes this down but the scene foregrounds the thematic resonance rather than Vee's academic absorption of it",
+    "scene_file": "scenes/together-in-class.md",
+    "chapter_number": 4
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "Vee was unable to retain the content of her conversation with Randi \u2014 she kept the feeling of being chosen but not the words",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "This is something Vee comes to know about herself and the encounter during the scene, on reflection",
+    "scene_file": "scenes/together-in-class.md",
+    "chapter_number": 4
+  },
+  {
     "character_name": "Peter Pace",
     "fact": "Randi rejects women whose warmth and ease is performed and aimed outward \u2014 who 'run the room and know it'",
     "source_character": "Miranda",
