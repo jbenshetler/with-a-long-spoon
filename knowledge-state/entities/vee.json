@@ -1,0 +1,720 @@
+{
+  "name": "Vee",
+  "aliases": [
+    "Randi"
+  ],
+  "entity_type": "character",
+  "facts": [
+    {
+      "attribute": "age",
+      "value": "early twenties"
+    },
+    {
+      "attribute": "hair",
+      "value": "curly redhead"
+    },
+    {
+      "attribute": "phone",
+      "value": "One cracked screen, dropped once, never fixed, doesn't care; holds a thousand photos, mostly people mid-laugh, not a curated feed"
+    },
+    {
+      "attribute": "shame",
+      "value": "Constitutional/permanent; does not vanish. Its function changes across the year from suppressor to fuel."
+    },
+    {
+      "attribute": "shoes",
+      "value": "Clean white sneakers (Air Force 1s or dupe) as everyday default, cork/Birkenstock-type sandals for warm days, separate training shoes, tall faux-leather boots for cold, one or two pairs of block-heel going-out shoes"
+    },
+    {
+      "attribute": "bravery",
+      "value": "Real, hers, and persistent; the form integration takes in her interior. Enables presence at depths that would have terrified her pre-transformation."
+    },
+    {
+      "attribute": "housing",
+      "value": "Shares a standard double dorm with Cassie \u2014 bunk beds (took the top), two desks, bathroom shared through connecting door with next room"
+    },
+    {
+      "attribute": "refusal",
+      "value": "Practitioner whose refusal is locally relocatable; this equips her to walk out."
+    },
+    {
+      "attribute": "backpack",
+      "value": "A good backpack bought once, well-used, full because she carries her life in it but knows what's in it; tidy-enough"
+    },
+    {
+      "attribute": "presence",
+      "value": "takes up plenty of room"
+    },
+    {
+      "attribute": "wardrobe",
+      "value": "Two pairs of good jeans rotated, soft tees and sweaters, hard-working denim jacket, a flannel, leggings, gym leggings, a couple supportive sports bras, a going-out top or two, one good pair of black pants, a faux-leather jacket from the outlet, one or two club dresses she restyles"
+    },
+    {
+      "attribute": "body_type",
+      "value": "generous curves, a 7-8, abundant"
+    },
+    {
+      "attribute": "eye_color",
+      "value": "green (blue as fallback)"
+    },
+    {
+      "attribute": "negations",
+      "value": [
+        {
+          "claim": "Vee's 'A shot?' reply is a deflection",
+          "negated": true,
+          "confidence": "HIGH",
+          "correct_statement": "It is NOT deflection; she is playing his metaphor back, engaging through the safety of wit"
+        }
+      ]
+    },
+    {
+      "attribute": "class_year",
+      "value": "junior in college"
+    },
+    {
+      "attribute": "hair_color",
+      "value": "red"
+    },
+    {
+      "attribute": "room_state",
+      "value": "Her side is lived-in and unfussy \u2014 comfortable, not a wreck and not curated"
+    },
+    {
+      "attribute": "upbringing",
+      "value": "conservative; shame and desire wired together"
+    },
+    {
+      "attribute": "scholarship",
+      "value": "Has a partial scholarship covering the housing premium; only reason she's on campus rather than somewhere cheaper"
+    },
+    {
+      "attribute": "eating_habits",
+      "value": "Eats like a junior \u2014 dining hall, late-night pizza, communal floor food; an enthusiastic eater"
+    },
+    {
+      "attribute": "fashion_taste",
+      "value": "Knows what she likes and what suits her; shops cheap places (TJ Maxx) with a good eye; put-together-on-a-budget skill; has taste and less money"
+    },
+    {
+      "attribute": "other_jewelry",
+      "value": "Everything besides the pearls is mall jewelry she's not precious about"
+    },
+    {
+      "attribute": "overnight_bag",
+      "value": "A duffel she packs casually but competently; bought once she started staying at Pace's"
+    },
+    {
+      "attribute": "pearl_earrings",
+      "value": "Grandmother's pearl earrings \u2014 the only genuinely good object she owns; came from love, not money; wears them most days, casually"
+    },
+    {
+      "attribute": "class_background",
+      "value": "working-class pride; reads menu prices before food"
+    },
+    {
+      "attribute": "core_temperament",
+      "value": "settled, grounded, warm, unguarded; comfortable in herself"
+    },
+    {
+      "attribute": "defining_quality",
+      "value": "aliveness as steadiness plus warmth \u2014 absence of any need to perform"
+    },
+    {
+      "attribute": "financial_status",
+      "value": "broke, but unbothered; money-consciousness is a light background hum, never martyrdom"
+    },
+    {
+      "attribute": "generosity_style",
+      "value": "Easy generosity is in the having \u2014 hands over a pen because she has one, not a rummage through filth"
+    },
+    {
+      "attribute": "initials_meaning",
+      "value": "V.T. = Virginia Tech"
+    },
+    {
+      "attribute": "father_occupation",
+      "value": "blue collar"
+    },
+    {
+      "attribute": "mother_occupation",
+      "value": "nurse"
+    },
+    {
+      "attribute": "everyday underwear",
+      "value": "cheerful cotton multipack"
+    },
+    {
+      "attribute": "financial_situation",
+      "value": "Money is real but doesn't run her mood; runs it close, plans around it, occasional joyful splurges, accepts ramen weeks as the cost; generous within her means"
+    },
+    {
+      "attribute": "the special panties",
+      "value": "one good pair, lace, soft blush / deep wine / grown-up black (not red); delicate, a little daring for her"
+    },
+    {
+      "attribute": "physical_description",
+      "value": "Has a waxed sex (depicted in sext imagery)"
+    },
+    {
+      "attribute": "relational equipment",
+      "value": "Has always had the relational equipment hunger requires \u2014 the asking, the receiving, the being-vulnerable-in-the-needed-way."
+    },
+    {
+      "attribute": "body relative to room",
+      "value": "could fill the leggings-and-crop uniform better than most of the room"
+    },
+    {
+      "attribute": "constitutional_hunger",
+      "value": "always constitutionally hungering \u2014 twenty years of fine men/sex/relationships experienced as insufficient 'crackers'; hunger ambient and unnamed until fed a 'meal'"
+    },
+    {
+      "attribute": "default dressing style",
+      "value": "careless dresser / pure function; good jeans, soft top, denim jacket, white sneakers, hair down"
+    },
+    {
+      "attribute": "emotional_authenticity",
+      "value": "laughs because genuinely happy; does not have to manage herself"
+    },
+    {
+      "attribute": "financial_independence",
+      "value": "Handles her own money; pride is about not being provided for, tied to the relationship not the bank balance"
+    },
+    {
+      "attribute": "wit_as_coping_mechanism",
+      "value": "Engages emotionally through the safety of wit rather than directness"
+    },
+    {
+      "attribute": "shoe_preference_rationale",
+      "value": "Block heels not stiletto because she can actually walk in them; stiletto reads as trying-too-hard against her self-image; tells herself she chose the sensible one for style"
+    },
+    {
+      "attribute": "sexual_orientation_masochism",
+      "value": "masochistic; rooted in feeling unworthy of love and finding sexual humiliation exciting; about submitting and being done to, not large amounts of pain; likes hand spanking and nipple clamps"
+    }
+  ],
+  "behavioral_states": [
+    {
+      "state_name": "Exposure (excitement register)",
+      "trigger": "being admitted/seen responding/told what to do",
+      "response": "excitement, arousal",
+      "observable": "responds visibly with excitement to being exposed",
+      "distinguish_from": [
+        "Evaluation",
+        "the cutting voice"
+      ]
+    },
+    {
+      "state_name": "Evaluation (wound register)",
+      "trigger": "being found wanting, compared, judged",
+      "response": "wounding; triggers the falling out",
+      "observable": "wounded response to judgment/comparison",
+      "distinguish_from": [
+        "Exposure"
+      ]
+    },
+    {
+      "state_name": "The cutting voice (internalized shame)",
+      "trigger": "her body responds/wants",
+      "response": "produces shame on demand; cuts her",
+      "observable": "experienced as the voice cutting her, NOT narrated as something she runs",
+      "distinguish_from": [
+        "self-sadism (label rejected)",
+        "Exposure"
+      ]
+    },
+    {
+      "state_name": "body-before-mind",
+      "trigger": "Any stimulus eliciting a response",
+      "response": "Body responds before mind permits; physical response precedes cognition",
+      "observable": "Render response, then cognition \u2014 never cognition first",
+      "distinguish_from": [
+        "deliberate-reasoned-response"
+      ]
+    },
+    {
+      "state_name": "emotional-surprise-tell",
+      "trigger": "Something surprises her emotionally",
+      "response": "Hand to collarbone",
+      "observable": "Hand to collarbone gesture",
+      "distinguish_from": [
+        "processing-stillness"
+      ]
+    },
+    {
+      "state_name": "processing-stillness",
+      "trigger": "Processing something internally",
+      "response": "Goes still and inward",
+      "observable": "Stillness, inward focus",
+      "distinguish_from": [
+        "emotional-surprise-tell"
+      ]
+    },
+    {
+      "state_name": "joke-deflection",
+      "trigger": "Meets something real she has no toolkit for (e.g., a man giving her grace genuinely, wanting nothing back)",
+      "response": "Makes a joke",
+      "observable": "Joking in response to genuine, unconditional grace",
+      "distinguish_from": [
+        "sorority-thing-filing",
+        "snide-judgment"
+      ]
+    },
+    {
+      "state_name": "sorority-thing-filing",
+      "trigger": "Encountering feelings/things that don't fit",
+      "response": "Applies a cultural explanation ('sorority thing') that files the feeling without examining it; active not passive \u2014 she notices she's doing it",
+      "observable": "Says 'sorority thing'; aware she is writing it off",
+      "distinguish_from": [
+        "joke-deflection",
+        "snide-judgment"
+      ]
+    },
+    {
+      "state_name": "grace-reflex",
+      "trigger": "Encountering others (notably men)",
+      "response": "Extends grace before it's earned; this same quality stops her from becoming a stalker (drives toward his neighborhood once, turns back)",
+      "observable": "Premature grace-giving; turning back from the neighborhood drive",
+      "distinguish_from": [
+        "joke-deflection",
+        "snide-judgment"
+      ]
+    },
+    {
+      "state_name": "snide-judgment",
+      "trigger": "Encountering 'girls like that' \u2014 i.e., women exhibiting what she secretly wants",
+      "response": "Snide/prudish commentary; her snidest judgments are about exactly what she secretly wants",
+      "observable": "Snide/prudish remarks about 'girls like that'",
+      "distinguish_from": [
+        "joke-deflection",
+        "sorority-thing-filing"
+      ]
+    },
+    {
+      "state_name": "deflecting_attention_to_appearance",
+      "trigger": "others remark on her eyes/hair/looks",
+      "response": "deflects",
+      "observable": "verbal deflection when complimented or noticed",
+      "distinguish_from": [
+        "insecurity as core trait",
+        "performed modesty"
+      ]
+    },
+    {
+      "state_name": "unguarded_openness",
+      "trigger": "feeling safe",
+      "response": "is open; openness freely given",
+      "observable": "open, unguarded behavior",
+      "distinguish_from": [
+        "carelessness",
+        "chaos/frazzle",
+        "vulnerability cracked by another"
+      ]
+    },
+    {
+      "state_name": "pride_at_being_provided_for",
+      "trigger": "Someone (e.g. Randi) offers to buy something for her, making them the provider",
+      "response": "Reacts strongly/refuses; some unnamed instinct won't owe them that",
+      "observable": "Refusal detonates over the dress offer",
+      "distinguish_from": [
+        "anxiety about money",
+        "general stubbornness"
+      ]
+    },
+    {
+      "state_name": "hands-busy_self-soothe",
+      "trigger": "Needs a beat/moment to collect herself",
+      "response": "Digs in her backpack",
+      "observable": "Digging in the backpack, tidy-enough, not a clutter gag",
+      "distinguish_from": [
+        "disorganization",
+        "klutziness"
+      ]
+    },
+    {
+      "state_name": "bratty_refusal_in_bad_mood",
+      "trigger": "In a bad mood",
+      "response": "Refuses food (the peaches) as a brat move",
+      "observable": "Peaches refusal",
+      "distinguish_from": [
+        "food-sanctity violation",
+        "deprivation/eating disorder"
+      ]
+    },
+    {
+      "state_name": "removes_pearls_before_threesome",
+      "trigger": "The threesome scene",
+      "response": "Removes the pearl earrings \u2014 an instinct she never explains, not wanting her grandmother present",
+      "observable": "Pearls absent during scene; reader does the math after the reveal; Vee never does on the page",
+      "distinguish_from": [
+        "careless removal",
+        "explained choice"
+      ]
+    },
+    {
+      "state_name": "wears_pearls_with_ivory_nightie",
+      "trigger": "The scene of being seen with tenderness, wearing the ivory nightie",
+      "response": "Wears the pearls \u2014 love on her body",
+      "observable": "Pearls present with the ivory nightie",
+      "distinguish_from": [
+        "removes_pearls_before_threesome"
+      ]
+    },
+    {
+      "state_name": "moved_by_being_cooked_for",
+      "trigger": "Pace cooks for her with attention",
+      "response": "Lands hard emotionally \u2014 because no one ever made something for her with that attention",
+      "observable": "Emotional response not from deprivation but from being attended to",
+      "distinguish_from": [
+        "hunger/deprivation response"
+      ]
+    },
+    {
+      "state_name": "withheld-yes around Randi",
+      "trigger": "in a curated social setting with Randi (e.g., Chi Latte) where she could compete on appearance",
+      "response": "deliberately under-dresses; wears a cardigan over the better shirt to censor/withhold the body; the inherited mother's-voice 'slut' shuts down the impulse to show more",
+      "observable": "cardigan over better shirt; reads 'underdressed but unbothered' on surface",
+      "distinguish_from": [
+        "absence of effort",
+        "failing to compete",
+        "dressing for Pace"
+      ]
+    },
+    {
+      "state_name": "dressing for Pace (the tell)",
+      "trigger": "preparing for a date with Pace",
+      "response": "actually dresses for it; changes more than once; lands on casual-but-not (best jeans, top a little more than class, effort in the hair); embarrassed to have tried and will deny the effort",
+      "observable": "evident effort, especially in hair; outfit slightly elevated from class",
+      "distinguish_from": [
+        "withheld-yes around Randi",
+        "dressing for Randi (SATC brunches)",
+        "pure-function hiking dress"
+      ]
+    },
+    {
+      "state_name": "escalating effort for Randi (SATC brunches)",
+      "trigger": "recurring SATC brunch ritual with Randi she looks forward to",
+      "response": "tries a little more; going-out top by day, sundress in summer, faux-leather jacket if cool; effort climbs across the back half (never reaching Randi's level)",
+      "observable": "incrementally more polished outfits over time; never as curated as Randi",
+      "distinguish_from": [
+        "withheld-yes around Randi",
+        "loosening effort at Pace's"
+      ]
+    },
+    {
+      "state_name": "deliberate dressing for a verdict (first night at Pace's)",
+      "trigger": "first night at Pace's, hoping he won't talk her out of it",
+      "response": "most deliberate she gets; a dress or good top, more intentional than the coffee date; plans the special panties underneath as a private layer no one's meant to see",
+      "observable": "elevated outfit; hidden deliberate underlayer (special panties)",
+      "distinguish_from": [
+        "dressing for Pace (the tell)",
+        "loosening effort at Pace's"
+      ]
+    },
+    {
+      "state_name": "loosening effort at Pace's over time",
+      "trigger": "as the relationship secures over later trips to Pace's",
+      "response": "wardrobe loosens; shows up in whatever; half-living there; effort drops",
+      "observable": "decreasing care in outfits; casual/undressed presentation",
+      "distinguish_from": [
+        "deliberate dressing for a verdict (first night)",
+        "escalating effort for Randi"
+      ]
+    },
+    {
+      "state_name": "hiking out of her depth",
+      "trigger": "going hiking, underprepared",
+      "response": "dresses pure function with no real gear \u2014 leggings, gym trainers (wrong for it), a tee, flannel tied on; borrows or improvises; wrong for the weather",
+      "observable": "improvised/wrong gear; charmingly out of her depth",
+      "distinguish_from": [
+        "dressing for Pace (the tell)",
+        "deliberate dressing for a verdict"
+      ]
+    },
+    {
+      "state_name": "playful_metaphor_volley",
+      "trigger": "He offers an intimate/poetic metaphor (e.g., whiskey vs. white wine)",
+      "response": "She plays his metaphor back at him with a quip ('A shot?')",
+      "observable": "Witty rejoinder that extends his image rather than dismissing it",
+      "distinguish_from": [
+        "deflection",
+        "avoidance",
+        "dismissal"
+      ]
+    },
+    {
+      "state_name": "self-directed_cruelty_turned_inward",
+      "trigger": "Initiating sexual escalation (first time initiating)",
+      "response": "Uses her own past cruel language against herself ('slimy' = the derogatory word she used for the fish she refused)",
+      "observable": "Sext text: 'I really want to try slimy peaches, and I'll do anything'",
+      "distinguish_from": [
+        "simple flirtation",
+        "external mockery of others"
+      ]
+    }
+  ],
+  "temporal_states": [
+    {
+      "attribute": "hunger_state",
+      "value": "hunger revealed in its true size and then satiated; meal both fed and clarified specifications",
+      "after_event": "Pace feeds her 'a meal' (the year with Pace)",
+      "before_event": "the falling out / the reveal",
+      "event_resolved": true
+    },
+    {
+      "attribute": "owns_overnight_bag",
+      "value": "Owns a duffel/overnight bag",
+      "after_event": "She started staying overnight at Pace's",
+      "before_event": null,
+      "event_resolved": true
+    },
+    {
+      "attribute": "pearls_in_overnight_bag_last_trip",
+      "value": "Whether the pearls are packed for the last trip is undecided",
+      "after_event": "The last trip (a live authorial decision)",
+      "before_event": null,
+      "event_resolved": true
+    },
+    {
+      "attribute": "pearls_absence_becomes_legible",
+      "value": "Their absence becomes legible/noticeable",
+      "after_event": "A later reveal point in the story",
+      "before_event": null,
+      "event_resolved": true
+    },
+    {
+      "attribute": "first one-on-one coffee with Randi \u2014 venue and timing",
+      "value": "Chi Latte, same day as the class",
+      "after_event": "the class (scene 4 diptych in together-in-class.md)",
+      "before_event": null,
+      "event_resolved": true
+    },
+    {
+      "attribute": "wardrobe effort at Pace's house",
+      "value": "dresses for his house early; later shows up in whatever, half-living there",
+      "after_event": "the relationship secures over later trips to Pace's",
+      "before_event": null,
+      "event_resolved": true
+    },
+    {
+      "attribute": "the special panties \u2014 next morning",
+      "value": "'Trade.' \u2014 hands Pace the evidence of the hope; leaves in a short skirt with nothing underneath",
+      "after_event": "first night at Pace's",
+      "before_event": null,
+      "event_resolved": true
+    },
+    {
+      "attribute": "physiological_state_metaphor",
+      "value": "Like whiskey \u2014 distinct, more impactful, slippery",
+      "after_event": null,
+      "before_event": "orgasm",
+      "event_resolved": true
+    },
+    {
+      "attribute": "physiological_state_metaphor",
+      "value": "Like white wine \u2014 copious and thinner",
+      "after_event": "orgasm",
+      "before_event": null,
+      "event_resolved": true
+    },
+    {
+      "attribute": "sexual_initiative",
+      "value": "Initiates sexually (peaches sext)",
+      "after_event": "the peaches sext (her first time initiating)",
+      "before_event": null,
+      "event_resolved": true
+    },
+    {
+      "attribute": "relationship_with_Randi",
+      "value": "falling out triggered by Randi's evaluation",
+      "after_event": "Randi judges/evaluates her, detonated by the reveal",
+      "before_event": null,
+      "event_resolved": true
+    },
+    {
+      "attribute": "vulnerability and bravery",
+      "value": "Becomes more vulnerable AND braver, concurrently \u2014 the same operation seen from two angles",
+      "after_event": "The year of transformation by Pace",
+      "before_event": "Pre-transformation self",
+      "event_resolved": true
+    },
+    {
+      "attribute": "shame function",
+      "value": "Changes from suppressor to fuel",
+      "after_event": "The year of transformation",
+      "before_event": "Pre-transformation (shame as suppressor)",
+      "event_resolved": true
+    },
+    {
+      "attribute": "sexual register capacity",
+      "value": "Can sustain a sexual register that previously required dissociation",
+      "after_event": "Transformation across the year",
+      "before_event": "Pre-transformation (required dissociation)",
+      "event_resolved": true
+    },
+    {
+      "attribute": "snide comments about 'girls like that'",
+      "value": "Gone \u2014 not announced, just absent",
+      "after_event": "By novel's end",
+      "before_event": "Earlier in the novel (snide comments present)",
+      "event_resolved": true
+    },
+    {
+      "attribute": "walking out at the threesome",
+      "value": "Walks out; bravery's executable in highest-stakes version; both maximum vulnerability and maximum bravery occur in the same hours; cost is the wound the new openness made her capable of receiving",
+      "after_event": "The threesome scene",
+      "before_event": "Before the threesome",
+      "event_resolved": true
+    },
+    {
+      "attribute": "overnight_bag_contents",
+      "value": "Contents evolve across the novel \u2014 toothbrush that stays, a comfort she didn't bring at first, pearls riding along for nicer occasions",
+      "after_event": "Over the course of the relationship with Pace",
+      "before_event": null,
+      "event_resolved": true
+    }
+  ],
+  "relationships": [
+    {
+      "to": "Pace",
+      "relationship": "lover / source of exposure-register experience",
+      "negated": false,
+      "properties": {
+        "role": "only ever does Exposure (her excitement register)",
+        "function": "fed her 'a meal'; what Pace can do depends on the cutting voice as precondition"
+      }
+    },
+    {
+      "to": "Randi",
+      "relationship": "foil / source of evaluation-register wound",
+      "negated": false,
+      "properties": {
+        "contrast": "contained where Vee is abundant",
+        "function": "ultimately does Evaluation, triggering the falling out detonated by the reveal"
+      }
+    },
+    {
+      "to": "Mother",
+      "relationship": "parent",
+      "negated": false,
+      "properties": {
+        "origin_of": "the cutting voice originated as her mother's training",
+        "occupation": "nurse"
+      }
+    },
+    {
+      "to": "Father",
+      "relationship": "parent",
+      "negated": false,
+      "properties": {
+        "occupation": "blue collar"
+      }
+    },
+    {
+      "to": "Cassie",
+      "relationship": "roommate/friend",
+      "negated": false,
+      "properties": "Shares the dorm double; Cassie's side may be neater and the contrast is part of the friendship"
+    },
+    {
+      "to": "Randi",
+      "relationship": "tension over provision",
+      "negated": false,
+      "properties": "Randi's offer to buy the dress detonates because accepting would make Randi the provider; Vee won't owe her that"
+    },
+    {
+      "to": "Pace",
+      "relationship": "romantic/intimate partner",
+      "negated": false,
+      "properties": "Stays overnight at Pace's (bought the duffel for this); Pace cooks for her with attention that moves her"
+    },
+    {
+      "to": "Grandmother",
+      "relationship": "grandmother",
+      "negated": false,
+      "properties": "Gave Vee the pearl earrings out of love; Vee instinctively removes them so her grandmother isn't 'present' for the threesome"
+    },
+    {
+      "to": "Pace",
+      "relationship": "transformed_by",
+      "negated": false,
+      "properties": {
+        "effect": "becomes more vulnerable and braver; Pace benefits from her grace quality",
+        "duration": "across the year"
+      }
+    },
+    {
+      "to": "Randi",
+      "relationship": "parallel_and_opposite_transformation",
+      "negated": false,
+      "properties": {
+        "note": "Both women transformed by Pace across the year; both become more vulnerable through new openness; Randi farms Vee's grace quality"
+      }
+    },
+    {
+      "to": "Randi",
+      "relationship": "friend",
+      "negated": false,
+      "properties": {
+        "dynamic": "Randi reads curated, Vee reads alive; effort for Randi climbs over time, filed under friendship; SATC brunch ritual",
+        "vee_dress_behavior": "withholds/under-dresses but with growing effort"
+      }
+    },
+    {
+      "to": "Pace",
+      "relationship": "romantic interest / partner",
+      "negated": false,
+      "properties": {
+        "dynamic": "she dresses for him (the tell); effort loosens as relationship secures; he reads effort correctly as interest",
+        "first_night": "hopes he won't talk her out of it"
+      }
+    },
+    {
+      "to": "Vee's mother",
+      "relationship": "mother",
+      "negated": false,
+      "properties": {
+        "dynamic": "inherited mother's-voice 'slut' acts as internalized self-censorship that shuts down impulses to display the body"
+      }
+    },
+    {
+      "to": "Randi",
+      "relationship": "narrative_foil",
+      "negated": false,
+      "properties": {
+        "contrast": "Vee is steady/warm/settled; Randi owns hidden, interior, denied chaos under a controlled surface",
+        "function": "Randi covets Vee's aliveness and can't manufacture it"
+      }
+    },
+    {
+      "to": "Randi",
+      "relationship": "betrayed_by",
+      "negated": false,
+      "properties": {
+        "note": "Vee's freely given openness makes the betrayal land harder",
+        "detail": "betrayal anticipated/implied, not yet detailed in this excerpt"
+      }
+    },
+    {
+      "to": "Vee's male partner (the 'he' / metaphor-giver)",
+      "relationship": "sexual/romantic partner",
+      "negated": false,
+      "properties": {
+        "dynamic": "He doesn't push when she deflects with wit; he 'files it'",
+        "intimacy_imagery": "Reveal image of her face smeared with their combined fluids",
+        "panties_exchange": "After the first night she hands him her worn pair ('Trade.') and leaves in a short skirt; one kept pair, not a collection; 'Both know. Neither mentions it.'"
+      }
+    }
+  ],
+  "negations": [
+    {
+      "claim": "Vee's 'A shot?' reply is a deflection",
+      "negated": true,
+      "confidence": "HIGH",
+      "correct_statement": "It is NOT deflection; she is playing his metaphor back, engaging through the safety of wit"
+    }
+  ],
+  "extraction_confidence": "HIGH",
+  "source_document": "meta/meta-arch-bible.md",
+  "source_version": "294303b9c4a146c688af237b8c1a08b1950bba5e6e2a4eb7aadd5fff63e44f87"
+}

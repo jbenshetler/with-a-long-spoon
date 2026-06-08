@@ -1,0 +1,851 @@
+{
+  "name": "Vivienne",
+  "aliases": [
+    "Vee"
+  ],
+  "entity_type": "character",
+  "facts": [
+    {
+      "attribute": "hair",
+      "value": "shoulder-length, worn loose, warm dark red; highlights spark to copper only in direct sun"
+    },
+    {
+      "attribute": "nose",
+      "value": "snub, tipped up"
+    },
+    {
+      "attribute": "build",
+      "value": "lavish scale \u2014 full breasts, deep waist, hips with real width; Anna Nicole Smith proportions"
+    },
+    {
+      "attribute": "shame",
+      "value": "Kept, transformed, ownable as fuel \u2014 hers"
+    },
+    {
+      "attribute": "wound",
+      "value": "Evaluation \u2014 being found wanting, compared, judged"
+    },
+    {
+      "attribute": "agency",
+      "value": "Active seeker, not a passive object selected by Pace and Randi; she seeks what they are uniquely positioned to provide"
+    },
+    {
+      "attribute": "height",
+      "value": "tall"
+    },
+    {
+      "attribute": "the no",
+      "value": "Permanent; functions as the appetite's new operating system, not its replacement"
+    },
+    {
+      "attribute": "bravery",
+      "value": "Bravery is hers (a kept capacity)"
+    },
+    {
+      "attribute": "appetite",
+      "value": "Permanent and does not turn off; she will look for full aliveness for the rest of her life"
+    },
+    {
+      "attribute": "freckles",
+      "value": "chestnut freckles across the nose and tops of the cheeks"
+    },
+    {
+      "attribute": "movement",
+      "value": "moves like an athlete \u2014 low center, real balance, plainly trained"
+    },
+    {
+      "attribute": "awareness",
+      "value": "Does not perceive the coordination between Pace and Randi"
+    },
+    {
+      "attribute": "negations",
+      "value": [
+        {
+          "claim": "The threesome itself was the wound",
+          "confidence": "HIGH",
+          "correct_statement": "The threesome itself was not the wound; the threesome with Randi specifically was the wound"
+        },
+        {
+          "claim": "Fine would keep Vee / Vee would remain with Fine",
+          "confidence": "MEDIUM",
+          "correct_statement": "Fine was not going to keep her"
+        }
+      ]
+    },
+    {
+      "attribute": "core_drive",
+      "value": "appetite for full aliveness"
+    },
+    {
+      "attribute": "core_nature",
+      "value": "A hungering apparatus; she possesses the relational equipment hunger requires (asking, receiving, being-vulnerable, trusting)"
+    },
+    {
+      "attribute": "distinction",
+      "value": "The only carrier who walks out with the long spoon"
+    },
+    {
+      "attribute": "watchfulness",
+      "value": "Cannot be switched off; part of how the appetite now operates"
+    },
+    {
+      "attribute": "core_appetite",
+      "value": "Appetite for full aliveness; constitutive, operating from before the novel begins, not separable from her identity"
+    },
+    {
+      "attribute": "physical_tell",
+      "value": "her feet do a 'small happy thing' when her appetite succeeds"
+    },
+    {
+      "attribute": "vulnerability",
+      "value": "Has a 'newly-undefended body' that now expects attention operating at a high resolution"
+    },
+    {
+      "attribute": "appetite_logic",
+      "value": "The appetite seeks intensity and therefore seeks configurations involving destructive appetites; the destructiveness is in the appetite itself"
+    },
+    {
+      "attribute": "bravery_source",
+      "value": "Her apparatus has integrated the new register into her existing capacities."
+    },
+    {
+      "attribute": "core_mechanism",
+      "value": "Arousal driven by a humiliation/exposure dynamic that can be engaged in opposite directions \u2014 toward safety or toward exposure"
+    },
+    {
+      "attribute": "name_etymology",
+      "value": "From Latin 'vivus' meaning alive/living; intended to be felt before parsed (load-bearing)"
+    },
+    {
+      "attribute": "narrative_role",
+      "value": "The consciousness the reader inhabits most fully (primary POV character)"
+    },
+    {
+      "attribute": "role_in_dynamic",
+      "value": "M (masochist) \u2014 the arousal-humiliation loop; extraordinarily responsive; extraordinarily skilled at receiving"
+    },
+    {
+      "attribute": "structural_fate",
+      "value": "Her appetite for full aliveness would eventually bring her into proximity with destructive appetites, making a version of the catastrophe structurally inevitable regardless of the specific people involved"
+    },
+    {
+      "attribute": "core_disposition",
+      "value": "Constitutionally hungry; carries a formative appetite so long-standing it reads as the texture of her being"
+    },
+    {
+      "attribute": "pre-meal history",
+      "value": "Had only 'crackers' \u2014 fine men, fine friendships, fine pleasures, none formative; she did not name the hunger"
+    },
+    {
+      "attribute": "character_essence",
+      "value": "command and abundance in the same frame, neither canceling the other"
+    },
+    {
+      "attribute": "excitement_source",
+      "value": "Exposure \u2014 admitting things, being seen responding, being told what to do"
+    },
+    {
+      "attribute": "formal_name_usage",
+      "value": "'Vivienne' used only when the prose wants weight (e.g., a deliberate use by Pace, formal signature, or her mother's anger)"
+    },
+    {
+      "attribute": "core_vulnerability",
+      "value": "Cannot distinguish her own authentic desires from desires cultivated in her by how she is loved"
+    },
+    {
+      "attribute": "specific knowledge",
+      "value": "Knows specifically what she is refusing"
+    },
+    {
+      "attribute": "athletic_background",
+      "value": "synchronized swimmer; control is real"
+    },
+    {
+      "attribute": "narrative_structure",
+      "value": "each brave step is a step into the appetite's trap; she experiences only the step, the reader on second read sees the trap"
+    },
+    {
+      "attribute": "physical_descriptor",
+      "value": "lush \u2014 abundant, ripe, fertile"
+    },
+    {
+      "attribute": "appetite_orientation",
+      "value": "Seeks sex engaging all three registers simultaneously at maximum density; this is what her appetite has sought from the start"
+    },
+    {
+      "attribute": "casual_name_register",
+      "value": "Called 'Vee' in casual register"
+    },
+    {
+      "attribute": "mechanism_of_bravery",
+      "value": "the response to her appetite requires overriding shame; the overriding feels like, and is, bravery"
+    },
+    {
+      "attribute": "vulnerability_source",
+      "value": "Her interior is now open at registers it was not before; new depths function as new exposure-channels."
+    },
+    {
+      "attribute": "primary preoccupation",
+      "value": "Pace \u2014 thinking about him, replay, anticipation, reframing past encounters, planning the next night; her week is structured around this"
+    },
+    {
+      "attribute": "psychological_reframe",
+      "value": "Experiences her own bodily arousal (wetness) reframed as evidence of successful connection rather than shame; this reframe is permanent and she retains it"
+    },
+    {
+      "attribute": "relational_capacities",
+      "value": "Capable of asking, receiving, being vulnerable, and trusting"
+    },
+    {
+      "attribute": "relationship to shame",
+      "value": "Ownership not suppression"
+    },
+    {
+      "attribute": "self-naming of hunger",
+      "value": "Names the hunger only as 'Fine was not going to keep her' \u2014 the available register for it"
+    },
+    {
+      "attribute": "permanent architecture",
+      "value": "The no, the hunger, and the ascent are all permanent and coexisting"
+    },
+    {
+      "attribute": "appetite_specifications",
+      "value": "Craves intensity that, in this world, is produced only by appetites that destroy; full aliveness is inseparable from the destructiveness of the appetites producing it"
+    },
+    {
+      "attribute": "character_arc_structure",
+      "value": "Becomes more vulnerable and braver concurrently across the year; the two are the same operation seen from two angles \u2014 vulnerability is new interior depth (exposure-channels), bravery is the apparatus integrating that new register into existing capacities. Both faces increase at the same rate by the same operation."
+    },
+    {
+      "attribute": "secondary preoccupation",
+      "value": "Randi and the SATC lunches \u2014 valued as confessional intimacy and 'shame-as-fuel,' experienced as enhancement rather than core"
+    },
+    {
+      "attribute": "appetite_class_membership",
+      "value": "Third member of the destructive-appetite class"
+    },
+    {
+      "attribute": "experience_of_being_loved",
+      "value": "Experiences Pace's attention as the realization of her own desires"
+    },
+    {
+      "attribute": "self-awareness_of_bravery",
+      "value": "not consciously deciding to be brave; consciously responding to what her appetite has recognized"
+    },
+    {
+      "attribute": "wound to capacity to read love",
+      "value": "Lasting; every future partner measured against a standard the partner doesn't know exists"
+    },
+    {
+      "attribute": "valuation of confessional intimacy",
+      "value": "intensely values the heat of confessional intimacy and shame-as-fuel in a register Pace does not produce"
+    }
+  ],
+  "behavioral_states": [
+    {
+      "state_name": "exposure_response_with_randi",
+      "trigger": "Interaction with Randi, who maximizes the humiliation step",
+      "response": "Feels exposed; intense arousal",
+      "observable": "Intense arousal",
+      "distinguish_from": [
+        "safety_response_with_pace"
+      ]
+    },
+    {
+      "state_name": "maximum_amplitude_at_threesome",
+      "trigger": "The threesome scene",
+      "response": "Both vulnerability and bravery reach maximum amplitude simultaneously; she is more vulnerable and braver than she has ever been. The walking-out is the bravery's executable at highest stakes, costing exactly what the integration made her capable of losing.",
+      "observable": "The walking-out action at the threesome",
+      "distinguish_from": [
+        "vulnerability without bravery",
+        "bravery without vulnerability",
+        "a state where one face increases at a different rate than the other"
+      ]
+    },
+    {
+      "state_name": "post_kiss_doubt",
+      "trigger": "After the kiss",
+      "response": "Comes to doubt the provenance of every yes she has given across the year",
+      "observable": "Retroactive questioning of her own consent and desires",
+      "distinguish_from": [
+        "original authentic appetite",
+        "naive certainty before the kiss"
+      ]
+    },
+    {
+      "state_name": "recognition_of_architecture",
+      "trigger": "Randi kisses her",
+      "response": "The year reorganizes in a heartbeat; she recognizes the fact (not the detail) of constructed manipulation and begins retroactively reframing past events (dress, food, body-reframe, bravery, becoming) as possibly instrumented behavior",
+      "observable": "Internal recategorization; specific sequence/phenomenology left unspecified ('weather, for the prose to discover')",
+      "distinguish_from": [
+        "revelation of hidden feelings for Randi",
+        "discovering the full detailed plan"
+      ]
+    },
+    {
+      "state_name": "inarticulate knowing",
+      "trigger": "after the leaving, breaking down to Cassie; confronted with Cassie's conviction about the relationship's appeal",
+      "response": "disagrees but cannot fully articulate why; has the new grammar in her body but not the words; tries once to explain and stops",
+      "observable": "attempts to speak and stops; the inarticulacy itself is the visible event (specific hand gestures, crying, etc. left unspecified/'weather')",
+      "distinguish_from": [
+        "Cassie's articulate conviction",
+        "agreement with Cassie"
+      ]
+    },
+    {
+      "state_name": "the_no_as_equipment",
+      "trigger": "Offered the trade again on the same terms",
+      "response": "Refuses; will not take it again on these terms",
+      "observable": "Saying no / the refusal",
+      "distinguish_from": [
+        "regret over original trade",
+        "loss of capacity",
+        "shame as weakness"
+      ]
+    },
+    {
+      "state_name": "watchfulness",
+      "trigger": "Aftermath of the year/the meal having been acted on",
+      "response": "Carries a permanent watchfulness; cannot return to her prior unselfconsciousness",
+      "observable": "Loss of unselfconsciousness; vigilant self-awareness",
+      "distinguish_from": [
+        "original unselfconsciousness",
+        "restless pre-meal hunger"
+      ]
+    },
+    {
+      "state_name": "Exposure (arousal)",
+      "trigger": "Admitting things, being seen responding, being told what to do",
+      "response": "Excitement / arousal",
+      "observable": "Visible responsiveness; the arousal-humiliation loop",
+      "distinguish_from": [
+        "Evaluation (wound)"
+      ]
+    },
+    {
+      "state_name": "Evaluation (wound)",
+      "trigger": "Being found wanting, compared, judged",
+      "response": "Wounding; in the climactic case, the falling out \u2014 the register in which the reveal detonates",
+      "observable": "Falling out is triggered",
+      "distinguish_from": [
+        "Exposure (arousal)"
+      ]
+    },
+    {
+      "state_name": "unmetabolized_shame",
+      "trigger": "Future lovers are kind but do not beam at / delight in her arousal",
+      "response": "Shame sits partially metabolized with nowhere to fire / discharge",
+      "observable": "Shame that persists without resolution during intimacy with future partners",
+      "distinguish_from": [
+        "the delight-reframe experienced with Pace",
+        "fully resolved shame"
+      ]
+    },
+    {
+      "state_name": "safety_response_with_pace",
+      "trigger": "Interaction with Pace, who short-circuits the humiliation step",
+      "response": "Feels safe in her own body; intense arousal",
+      "observable": "Intense arousal",
+      "distinguish_from": [
+        "exposure_response_with_randi"
+      ]
+    },
+    {
+      "state_name": "haunted_wondering",
+      "trigger": "After the threesome / reflecting on the origin of the reframe",
+      "response": "Spends the rest of her life wondering whether the reframe was a gift or an installed step in a plan; the wondering haunts but does not undo the gift",
+      "observable": "Persistent rumination about the motive behind the reframe",
+      "distinguish_from": [
+        "rejecting the reframe",
+        "undoing the gift"
+      ]
+    },
+    {
+      "state_name": "revealed_need_and_satiety",
+      "trigger": "The meal / experience with Pace",
+      "response": "The size of her need was revealed and a satiety was produced; she runs the new emotional register as 'software her apparatus has the hardware to run'",
+      "observable": "An openness and vulnerability that her existing relational equipment can accommodate",
+      "distinguish_from": [
+        "Randi's encounter with brand-new need for which she has no equipment"
+      ]
+    },
+    {
+      "state_name": "appetite-driven brave act",
+      "trigger": "her appetite recognizes something 'not-fine' (fully alive) to reach toward",
+      "response": "overrides her shame and takes the brave step toward it",
+      "observable": "precise, deliberate execution (e.g. campus collision so precise the other person apologizes); feet do 'the small happy thing'",
+      "distinguish_from": [
+        "conscious/deliberate decision to be brave",
+        "recklessness without recognition"
+      ]
+    },
+    {
+      "state_name": "exit_without_confrontation",
+      "trigger": "Needing answers from people whose answers she cannot trust (Pace or Randi)",
+      "response": "Leaves without explaining; declines to confront either party",
+      "observable": "She leaves without explaining; does not return for her panties",
+      "distinguish_from": [
+        "weakness",
+        "avoidance out of fear",
+        "indecision"
+      ]
+    },
+    {
+      "state_name": "anticipated_outcome_of_confronting_Pace",
+      "trigger": "If she confronts Pace",
+      "response": "He produces a confused, sincere defense of behavior he experienced as love",
+      "observable": "Pace's confused sincere defense",
+      "distinguish_from": [
+        "confronting Randi (deflection/weaponizing)"
+      ]
+    },
+    {
+      "state_name": "anticipated_outcome_of_confronting_Randi",
+      "trigger": "If she confronts Randi",
+      "response": "Randi deflects or weaponizes",
+      "observable": "Deflection or weaponization by Randi",
+      "distinguish_from": [
+        "confronting Pace (sincere defense)"
+      ]
+    },
+    {
+      "state_name": "seeking aliveness through smaller doors",
+      "trigger": "Her ongoing appetite for full aliveness post-novel",
+      "response": "Seeks it through 'smaller doors that open onto good rooms' rather than the door that opened during 'the year'",
+      "observable": "Pursues real but lesser experiences; refuses the original avenue",
+      "distinguish_from": [
+        "seeking aliveness through the door that opened this time",
+        "abandoning the appetite entirely"
+      ]
+    }
+  ],
+  "temporal_states": [
+    {
+      "attribute": "hunger_resolution",
+      "value": "Unsatisfied, undefined hunger fed only by 'crackers'; rendered in prose as restless texture",
+      "after_event": null,
+      "before_event": "Pace feeds her 'a meal' (the formative satisfying/clarifying event)",
+      "event_resolved": true
+    },
+    {
+      "attribute": "hunger_specifications_and_satiety",
+      "value": "Hunger now specified and expanded by the meal; hungers for what the meal supplied at the resolution it supplied; both the larger need and the satiety are permanent",
+      "after_event": "Pace feeds her 'a meal'",
+      "before_event": null,
+      "event_resolved": true
+    },
+    {
+      "attribute": "unselfconsciousness",
+      "value": "Loses the unselfconsciousness that made the full aliveness available; consumed over the course of the year",
+      "after_event": "The year of acting on the appetite (with Pace and Randi)",
+      "before_event": null,
+      "event_resolved": true
+    },
+    {
+      "attribute": "first appearance / introduction",
+      "value": "introduced via the campus collision, executed so precisely the redhead apologizes",
+      "after_event": "campus walk (origin-campus-walk.md)",
+      "before_event": null,
+      "event_resolved": true
+    },
+    {
+      "attribute": "competitive_synchronized_swimming",
+      "value": "burdened out of competition by a build the competitive ideal can't use",
+      "after_event": "leaving competitive synchronized swimming due to build incompatible with competitive ideal",
+      "before_event": null,
+      "event_resolved": true
+    },
+    {
+      "attribute": "certainty_about_own_desires",
+      "value": "Believed her wants were her own; thought she wanted the threesome",
+      "after_event": null,
+      "before_event": "The kiss",
+      "event_resolved": false
+    },
+    {
+      "attribute": "knowledge_of_collaboration",
+      "value": "Unaware she is inside a constructed scheme by Pace and Randi",
+      "after_event": null,
+      "before_event": "Randi's kiss reveals the fact of architecture",
+      "event_resolved": true
+    },
+    {
+      "attribute": "knowledge_of_collaboration",
+      "value": "Aware that Pace and Randi have been collaborating against her \u2014 knows the fact of architecture though not the full plan",
+      "after_event": "Randi's kiss reveals the fact of architecture",
+      "before_event": null,
+      "event_resolved": true
+    },
+    {
+      "attribute": "relationship_status_with_Randi",
+      "value": "Falling out occurs; the reveal detonates in the register of evaluation",
+      "after_event": "The reveal / Randi's evaluative judgment that triggers the falling out",
+      "before_event": null,
+      "event_resolved": true
+    },
+    {
+      "attribute": "relationship_to_reframe",
+      "value": "Begins lifelong wondering about whether the reframe was a gift or a manipulation",
+      "after_event": "The threesome",
+      "before_event": null,
+      "event_resolved": true
+    },
+    {
+      "attribute": "quality_of_partners",
+      "value": "Loses the adequate receiver (Pace); future lovers will be kind but will not beam at her arousal",
+      "after_event": "Loss of Pace as receiver",
+      "before_event": null,
+      "event_resolved": true
+    },
+    {
+      "attribute": "emotional_state",
+      "value": "Transformed; gains vulnerability through new openness, with revealed need and produced satiety",
+      "after_event": "The transformation caused by Pace (the meal)",
+      "before_event": null,
+      "event_resolved": true
+    },
+    {
+      "attribute": "cost/ease of brave steps",
+      "value": "the next brave step (saying yes to the threesome) is barely a step at all by her standards; she has been trained by her own appetite's success to keep walking",
+      "after_event": "the threesome (her saying yes to it)",
+      "before_event": null,
+      "event_resolved": true
+    },
+    {
+      "attribute": "post-novel life (partnership, grief, watchfulness)",
+      "value": "Left open/unresolved \u2014 described as 'weather'; whether she partners, whether grief settles, whether watchfulness becomes invisible is undetermined",
+      "after_event": "End of the novel",
+      "before_event": null,
+      "event_resolved": true
+    },
+    {
+      "attribute": "framework_state",
+      "value": "Loses the framework the year built; it is retroactively recategorized",
+      "after_event": "The kiss (which retroactively recategorizes the framework the year built)",
+      "before_event": null,
+      "event_resolved": true
+    },
+    {
+      "attribute": "final_state",
+      "value": "Walks out ascendant and permanently hungry, both at once, neither canceling the other; keeps the no",
+      "after_event": "Walking out (the climactic departure/trade resolution)",
+      "before_event": null,
+      "event_resolved": true
+    },
+    {
+      "attribute": "vulnerability_and_bravery_amplitude",
+      "value": "Both at maximum simultaneously; the walking-out occurs as the highest-stakes execution of bravery.",
+      "after_event": "The threesome / the walking-out scene",
+      "before_event": null,
+      "event_resolved": true
+    },
+    {
+      "attribute": "certainty_about_own_desires",
+      "value": "Doubts the provenance of every yes given across the year",
+      "after_event": "The kiss",
+      "before_event": null,
+      "event_resolved": true
+    },
+    {
+      "attribute": "emotional state",
+      "value": "breaks down to Cassie; delivers/embodies the novel's thesis through inarticulate disagreement",
+      "after_event": "the leaving (Vee leaves a relationship; exact event unwritten)",
+      "before_event": null,
+      "event_resolved": true
+    },
+    {
+      "attribute": "wound_state",
+      "value": "Wounded by discovering the threesome was a coordinated project rather than friendship; specifically wounded because Randi's participation was visible proof",
+      "after_event": "The threesome involving Randi (the catastrophe/betrayal event)",
+      "before_event": null,
+      "event_resolved": true
+    }
+  ],
+  "relationships": [
+    {
+      "to": "Pace",
+      "relationship": "associated_character",
+      "negated": false,
+      "properties": {
+        "note": "Pace says her full name 'Vivienne' once deliberately as a weighted moment"
+      }
+    },
+    {
+      "to": "Vivienne's mother",
+      "relationship": "mother",
+      "negated": false,
+      "properties": {
+        "note": "Uses full name 'Vivienne' when angry"
+      }
+    },
+    {
+      "to": "Pace",
+      "relationship": "satisfies/clarifies her hunger (the 'meal')",
+      "negated": false,
+      "properties": {
+        "effect": "satisfied her hunger for the first time and clarified/expanded its specifications",
+        "register": "recognized as the answer to a question she did not have",
+        "mechanism": "transgression-engagement, which makes the sex intense"
+      }
+    },
+    {
+      "to": "Randi",
+      "relationship": "source of intense friendship",
+      "negated": false,
+      "properties": {
+        "mechanism": "Randi's sadism is what makes the friendship intense"
+      }
+    },
+    {
+      "to": "Pace",
+      "relationship": "dynamic_counterpart",
+      "negated": false,
+      "properties": {
+        "note": "Pace is the only one who provides Vee's exposure (excitement). 'Pace only ever does this.'",
+        "pace_role": "B/D (architecture, rules, the framework within which transgression is made possible)"
+      }
+    },
+    {
+      "to": "Randi",
+      "relationship": "dynamic_counterpart",
+      "negated": false,
+      "properties": {
+        "note": "Randi ultimately delivers evaluation (Vee's wound), triggering the falling out and detonating the reveal.",
+        "randi_role": "S (takes pleasure in the suffering the control produces)"
+      }
+    },
+    {
+      "to": "Pace and Randi",
+      "relationship": "participant_in_threesome",
+      "negated": false,
+      "properties": {
+        "note": "Threesome works structurally only with all three present.",
+        "structure": "Three registers present simultaneously: Pace B/D, Randi S, Vee M"
+      }
+    },
+    {
+      "to": "Pace",
+      "relationship": "received_reframe_from",
+      "negated": false,
+      "properties": {
+        "detail": "Pace gave a reframe to her body; the reframe is now hers ('The reframe Pace gave her body is hers')"
+      }
+    },
+    {
+      "to": "Randi",
+      "relationship": "visual_foil",
+      "negated": false,
+      "properties": {
+        "contrast": "lush against Randi's sleek; Anna Nicole Smith proportions to Randi's Natalie Portman; loose dark-red hair vs bound black ponytail; ridge-wind lifts Vee's hair but finds nothing on Randi's"
+      }
+    },
+    {
+      "to": "Pace",
+      "relationship": "intimate_partner",
+      "negated": false,
+      "properties": {
+        "pace_awareness": "does not see the BDSM triangle; believes the SATC track is conventional female friendship intensifying toward a threesome",
+        "effect_on_vivienne": "short-circuits humiliation step, produces feeling of safety and intense arousal"
+      }
+    },
+    {
+      "to": "Randi",
+      "relationship": "intimate_partner",
+      "negated": false,
+      "properties": {
+        "dynamic": "sadism directed at Vivienne (not at Pace)",
+        "effect_on_vivienne": "maximizes humiliation step, produces feeling of exposure and intense arousal"
+      }
+    },
+    {
+      "to": "Pace",
+      "relationship": "loved_by",
+      "negated": false,
+      "properties": {
+        "effect": "Some of her desires were brought into being by the calibration itself",
+        "nature": "love calibrated so precisely to Vee that it shapes her desires",
+        "ambiguity": "She cannot distinguish authentic wants from cultivated wants"
+      }
+    },
+    {
+      "to": "Randi",
+      "relationship": "sexual_partner",
+      "negated": false,
+      "properties": {
+        "note": "Involvement is conscious and not hidden",
+        "duration": "consciously sexually involved for much of the year"
+      }
+    },
+    {
+      "to": "Randi",
+      "relationship": "target_of_collaboration_against",
+      "negated": false,
+      "properties": {
+        "note": "Randi has been collaborating with Pace against Vivienne",
+        "co_conspirator": "Pace"
+      }
+    },
+    {
+      "to": "Pace",
+      "relationship": "target_of_collaboration_against",
+      "negated": false,
+      "properties": {
+        "note": "Pace has been collaborating with Randi against Vivienne, constructing architecture around her",
+        "co_conspirator": "Randi"
+      }
+    },
+    {
+      "to": "Cassie",
+      "relationship": "confides in / breaks down to",
+      "negated": false,
+      "properties": {
+        "note": "Cassie's 'I told you so' about Randi lands quietly earlier in the conversation",
+        "context": "post-leaving thesis-delivery scene",
+        "dynamic": "Cassie speaks the era's grammar with conviction ('where do I sign up?'); Vee disagrees inarticulately; both are correct, disagreement unresolved"
+      }
+    },
+    {
+      "to": "Randi",
+      "relationship": "subject of past disagreement / 'I told you so' (from Cassie's view)",
+      "negated": false,
+      "properties": {
+        "note": "Cassie's 'I told you so' about Randi suggests prior Vee-Randi involvement; relationship nature between Vee and Randi not specified"
+      }
+    },
+    {
+      "to": "Randi",
+      "relationship": "former_presumed_friend / betrayer",
+      "negated": false,
+      "properties": {
+        "note": "Without Randi as the specific third, the catastrophe does not occur in this form",
+        "role": "the specific third in the threesome; 'the local detonator'",
+        "nature_of_betrayal": "participation revealed an apparent friendship to be a coordinated project"
+      }
+    },
+    {
+      "to": "Pace",
+      "relationship": "almost-romance / lost potential",
+      "negated": false,
+      "properties": {
+        "note": "Pace is 'the same man with the same methods' who could have been a gift or 'romance for the ages' absent Randi; reader is meant to grieve what Vee almost had with Pace"
+      }
+    },
+    {
+      "to": "Fine",
+      "relationship": "partner / prior attachment",
+      "negated": false,
+      "properties": {
+        "note": "'Fine was not going to keep her' \u2014 implies a relationship that was not destined to last"
+      }
+    },
+    {
+      "to": "Pace",
+      "relationship": "lover/adequate_receiver",
+      "negated": false,
+      "properties": {
+        "role": "The receiver whose attention operates at the resolution her body expects; later lost to her",
+        "behavior": "Looks at her arousal and beams with delight, treating her wetness as evidence his actions are landing",
+        "ambiguity": "Possibly the source of the reframe either as gift or as a manipulative installed step"
+      }
+    },
+    {
+      "to": "future lovers",
+      "relationship": "future_partners",
+      "negated": false,
+      "properties": {
+        "effect": "Cannot adequately receive her; leave shame with nowhere to fire",
+        "behavior": "Will be kind but will not beam at her arousal"
+      }
+    },
+    {
+      "to": "Pace",
+      "relationship": "transformed_by",
+      "negated": false,
+      "properties": {
+        "effect": "Revealed the size of her need and produced satiety; gained vulnerability through new openness"
+      }
+    },
+    {
+      "to": "Randi",
+      "relationship": "structural_parallel",
+      "negated": false,
+      "properties": {
+        "structure": "Parallel-and-opposite (chiasmus): Vee has hardware for new need; Randi has the need but no hardware",
+        "craft_constraint": "Structure must remain invisible in prose; no character or narrator names it",
+        "mutual_awareness": "none \u2014 neither can see into the other at this depth"
+      }
+    },
+    {
+      "to": "Pace",
+      "relationship": "object of obsession / consuming axis",
+      "negated": false,
+      "properties": {
+        "role": "constitutes Vee's life",
+        "scope": "organizes her week",
+        "activities": "replay, anticipation, reframing, planning next night"
+      }
+    },
+    {
+      "to": "Randi",
+      "relationship": "friend",
+      "negated": false,
+      "properties": {
+        "role": "spice / enhancement, not the meal",
+        "valued_for": "confessional intimacy, shame-as-fuel",
+        "shared_activity": "SATC lunches",
+        "structural_note": "For Randi, the dynamic is inverted \u2014 the Vee-operation is Randi's consuming axis and Pace is Randi's spice",
+        "mutual_invisibility": "asymmetry does not surface to either"
+      }
+    },
+    {
+      "to": "the redhead",
+      "relationship": "instigated contact via campus collision",
+      "negated": false,
+      "properties": {
+        "note": "her appetite was operating before she consciously knew what it was reaching toward",
+        "context": "origin-campus-walk.md",
+        "outcome": "collision so precise the redhead apologizes"
+      }
+    },
+    {
+      "to": "Pace",
+      "relationship": "declines_to_confront",
+      "negated": false,
+      "properties": {
+        "reason": "Cannot trust his answers; he would offer a confused sincere defense of behavior he experienced as love"
+      }
+    },
+    {
+      "to": "Randi",
+      "relationship": "declines_to_confront",
+      "negated": false,
+      "properties": {
+        "reason": "Cannot trust her answers; Randi deflects or weaponizes"
+      }
+    },
+    {
+      "to": "future partners",
+      "relationship": "measures against unspoken standard",
+      "negated": false,
+      "properties": {
+        "nature": "every future partner measured against a standard the partner doesn't know exists",
+        "origin": "lasting wound to her capacity to read love"
+      }
+    }
+  ],
+  "negations": [
+    {
+      "claim": "The threesome itself was the wound",
+      "confidence": "HIGH",
+      "correct_statement": "The threesome itself was not the wound; the threesome with Randi specifically was the wound"
+    },
+    {
+      "claim": "Fine would keep Vee / Vee would remain with Fine",
+      "confidence": "MEDIUM",
+      "correct_statement": "Fine was not going to keep her"
+    }
+  ],
+  "extraction_confidence": "HIGH",
+  "source_document": "meta/meta-arch-vivienne.md",
+  "source_version": "3ffe06f3d223b46b0c08e93e03ade37ddbd638deeba581c9e8caf0e5e6db1812"
+}

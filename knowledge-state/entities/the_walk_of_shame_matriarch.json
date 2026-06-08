@@ -1,0 +1,95 @@
+{
+  "name": "the Walk of Shame matriarch",
+  "aliases": [],
+  "entity_type": "character",
+  "facts": [
+    {
+      "attribute": "negations",
+      "value": [
+        {
+          "claim": "Her authority is aggressive / she raises the temperature",
+          "confidence": "HIGH",
+          "correct_statement": "Her authority is rendered as ease; the threat is that she never raises the temperature"
+        }
+      ]
+    },
+    {
+      "attribute": "voice_quality",
+      "value": "warm voice, 'the way other people have a perfume'"
+    },
+    {
+      "attribute": "narrative_role",
+      "value": "minor character; promote only if a later scene needs her"
+    },
+    {
+      "attribute": "authority_style",
+      "value": "runs the room without standing; authority so settled it doesn't perform itself; rendered as ease, never aggression"
+    },
+    {
+      "attribute": "signature_action",
+      "value": "conducts the morning-after gauntlet as a four-minute, mostly-smiling interrogation \u2014 the Pace/Chase filing, gray-pickup flattery routed through Sloane and Kinsey, the does-he-teach-your-section near-miss; warm on the surface and coded underneath"
+    },
+    {
+      "attribute": "introduction_scene",
+      "value": "the Walk of Shame"
+    }
+  ],
+  "behavioral_states": [
+    {
+      "state_name": "settled interrogation",
+      "trigger": "the morning-after gauntlet (Randi's walk of shame)",
+      "response": "conducts a four-minute mostly-smiling interrogation, warm on the surface and coded underneath, that costs Randi the frame she's used to owning",
+      "observable": "smiling, warm tone, never raising the temperature; coded probing questions (Pace/Chase filing, gray-pickup flattery via Sloane and Kinsey, does-he-teach-your-section near-miss)",
+      "distinguish_from": [
+        "aggression",
+        "raising the temperature",
+        "overt confrontation"
+      ]
+    }
+  ],
+  "temporal_states": [],
+  "relationships": [
+    {
+      "to": "Randi",
+      "relationship": "outranks in house hierarchy",
+      "negated": false,
+      "properties": {
+        "detail": "She outranks Randi; Randi sits on the board as Standards; the one fact Randi's self-arrangement can't rearrange; she out-operates Randi"
+      }
+    },
+    {
+      "to": "Sloane",
+      "relationship": "routes flattery through",
+      "negated": false,
+      "properties": {
+        "detail": "gray-pickup flattery routed through Sloane during the interrogation"
+      }
+    },
+    {
+      "to": "Kinsey",
+      "relationship": "routes flattery through",
+      "negated": false,
+      "properties": {
+        "detail": "gray-pickup flattery routed through Kinsey during the interrogation"
+      }
+    },
+    {
+      "to": "the sorority",
+      "relationship": "member of",
+      "negated": false,
+      "properties": {
+        "detail": "the one person in the sorority who out-operates Randi"
+      }
+    }
+  ],
+  "negations": [
+    {
+      "claim": "Her authority is aggressive / she raises the temperature",
+      "confidence": "HIGH",
+      "correct_statement": "Her authority is rendered as ease; the threat is that she never raises the temperature"
+    }
+  ],
+  "extraction_confidence": "HIGH",
+  "source_document": "meta/meta-arch-bible.md",
+  "source_version": "294303b9c4a146c688af237b8c1a08b1950bba5e6e2a4eb7aadd5fff63e44f87"
+}

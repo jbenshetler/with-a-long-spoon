@@ -1,0 +1,85 @@
+{
+  "name": "the mathematician",
+  "aliases": [],
+  "entity_type": "character",
+  "facts": [
+    {
+      "attribute": "training",
+      "value": "Trained in the practice of believing nothing he has not derived from first principles"
+    },
+    {
+      "attribute": "negations",
+      "value": [
+        {
+          "claim": "The reasoning 'I behaved as if I saw her, therefore I saw her' is a valid derivation",
+          "confidence": "HIGH",
+          "correct_statement": "It is a tautology, not a derivation; a first-year student would catch it"
+        },
+        {
+          "claim": "He catches the tautology in his own self-assessment of attentiveness",
+          "confidence": "HIGH",
+          "correct_statement": "He does not catch this one because his rigor stays inside the discipline"
+        }
+      ]
+    },
+    {
+      "attribute": "profession",
+      "value": "Mathematician (has spent a career catching tautologies in other domains)"
+    },
+    {
+      "attribute": "cognitive flaw",
+      "value": "Applies rigor only inside mathematics; outside the discipline he uses a different, sloppier procedure and does not notice the discrepancy"
+    },
+    {
+      "attribute": "characteristic self-deception",
+      "value": "Accepts the tautology 'I behaved as if I saw her, therefore I saw her' as proof of his own attentiveness"
+    }
+  ],
+  "behavioral_states": [
+    {
+      "state_name": "domain-bounded rigor",
+      "trigger": "Reasoning inside mathematics",
+      "response": "Applies strict first-principles rigor; catches tautologies",
+      "observable": "Rigorous mathematical reasoning",
+      "distinguish_from": [
+        "extra-disciplinary reasoning",
+        "self-assessment of attentiveness"
+      ]
+    },
+    {
+      "state_name": "extra-disciplinary blindness",
+      "trigger": "Reasoning outside mathematics (esp. about his own attentiveness / her)",
+      "response": "Applies a different, sloppy procedure; accepts tautologies he would catch elsewhere; does not notice the discrepancy",
+      "observable": "Self-justifying tautology: 'I behaved as if I saw her, therefore I saw her'",
+      "distinguish_from": [
+        "domain-bounded rigor"
+      ]
+    }
+  ],
+  "temporal_states": [],
+  "relationships": [
+    {
+      "to": "her",
+      "relationship": "fails to truly perceive/attend to",
+      "negated": false,
+      "properties": {
+        "note": "Mistakes behaving as if he saw her for actually seeing her; identity of 'her' unspecified in this excerpt"
+      }
+    }
+  ],
+  "negations": [
+    {
+      "claim": "The reasoning 'I behaved as if I saw her, therefore I saw her' is a valid derivation",
+      "confidence": "HIGH",
+      "correct_statement": "It is a tautology, not a derivation; a first-year student would catch it"
+    },
+    {
+      "claim": "He catches the tautology in his own self-assessment of attentiveness",
+      "confidence": "HIGH",
+      "correct_statement": "He does not catch this one because his rigor stays inside the discipline"
+    }
+  ],
+  "extraction_confidence": "HIGH",
+  "source_document": "meta/meta-arch-pace.md",
+  "source_version": "0f306a5f8f02affb44d2abf5d242d1ecbdea19e19e46314afd89f75dd10e63ed"
+}

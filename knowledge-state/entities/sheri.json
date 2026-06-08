@@ -1,0 +1,404 @@
+{
+  "name": "Sheri",
+  "aliases": [],
+  "entity_type": "character",
+  "facts": [
+    {
+      "attribute": "age",
+      "value": "approximately 20"
+    },
+    {
+      "attribute": "face",
+      "value": "small round face"
+    },
+    {
+      "attribute": "hair",
+      "value": "long, permed and highlighted"
+    },
+    {
+      "attribute": "skin",
+      "value": "slightly sallow skin"
+    },
+    {
+      "attribute": "build",
+      "value": "tiny and slender; small because always in motion (kinetic and capable, never fragile)"
+    },
+    {
+      "attribute": "height",
+      "value": "approximately 5'0\""
+    },
+    {
+      "attribute": "manner",
+      "value": "Dry, observational"
+    },
+    {
+      "attribute": "register",
+      "value": "Needling \u2014 the register that brings Pace's patent-monologue down to size"
+    },
+    {
+      "attribute": "negations",
+      "value": [
+        {
+          "claim": "Sheri needs to hear the full story before acting",
+          "confidence": "HIGH",
+          "correct_statement": "She does not need the story; she needs only the name and ten minutes"
+        }
+      ]
+    },
+    {
+      "attribute": "activities",
+      "value": "running, cycling, kung fu, dancing"
+    },
+    {
+      "attribute": "core trait",
+      "value": "fierceness that functions as her warmth"
+    },
+    {
+      "attribute": "occupation",
+      "value": "Psychology undergraduate"
+    },
+    {
+      "attribute": "temperament",
+      "value": "holds her temper, normally restrained"
+    },
+    {
+      "attribute": "clarity_type",
+      "value": "Sees Pace clearly as a friend rather than as a man; his masculine register has no purchase on her, so she perceives Pace himself rather than being caught in his self-presentation"
+    },
+    {
+      "attribute": "warmth_nature",
+      "value": "Warm in the manner of someone who has decided, at cost, who is worth defending; warmth expressed through fierceness rather than pleasantness"
+    },
+    {
+      "attribute": "idiom/register",
+      "value": "working/country idiom, not campus polished-sorority register"
+    },
+    {
+      "attribute": "loyalty_nature",
+      "value": "Structural, not temperamental \u2014 loyal because Pace is the single surviving counterexample to the lesson her family taught her, not because she is a loyal sort of person"
+    },
+    {
+      "attribute": "narrative_role",
+      "value": "Pace's one outside-the-house friendship the novel shows him keeping; a confidante"
+    },
+    {
+      "attribute": "perceptiveness",
+      "value": "Perceives Pace clearly via a glancing, Pace-specific radar \u2014 not a diagnostic instrument"
+    },
+    {
+      "attribute": "appearance role",
+      "value": "occupies the third makeup position in the novel's three-women appearance grammar: visible effort, imperfect result, no shame"
+    },
+    {
+      "attribute": "backstory_wound",
+      "value": "Was disowned; her radar is 'disowning-honed' and tuned to her wound's exact shape"
+    },
+    {
+      "attribute": "verdict_on_Pace",
+      "value": "\"She's a lot.\""
+    },
+    {
+      "attribute": "academic_ability",
+      "value": "Mediocre/ordinary at school \u2014 not stupid, but uninterested in being graded"
+    },
+    {
+      "attribute": "perception_style",
+      "value": "Single-ping read on people; delivers one verdict and is done, does not analyze or diagnose"
+    },
+    {
+      "attribute": "knowledge_of_Pace",
+      "value": "Knows only that Pace is different in a way that makes him 'the kind of kind that doesn't blow away'"
+    },
+    {
+      "attribute": "narrative_function",
+      "value": "Deflates/punctures Pace's intellectualism, affectionately needling his competence back down to size"
+    },
+    {
+      "attribute": "sexual_orientation",
+      "value": "came out (implied LGBTQ+); publicly came out last year"
+    },
+    {
+      "attribute": "defining_trait_origin",
+      "value": "Her single defining characteristic is a threat-response, residue of a betrayal (see Backstory)"
+    },
+    {
+      "attribute": "reliability_of_loyalty",
+      "value": "Her loyalty to Pace can be trusted absolutely"
+    },
+    {
+      "attribute": "attitude toward imperfection",
+      "value": "tried, result is a little wrong, does not care that it's a little wrong (no shame)"
+    }
+  ],
+  "behavioral_states": [
+    {
+      "state_name": "immunity_to_Pace_masculine_register",
+      "trigger": "Encountering Pace and his masculine self-presentation (how he reads to women-who-might-want-him)",
+      "response": "The masculine channel is switched off entirely; she meets the friend rather than the man",
+      "observable": "Meets Pace 'with that whole channel switched off'; sees the friend instead of the man",
+      "distinguish_from": [
+        "Cassie's immunity (outside the appearance economy, reads configuration/Randi for operation, not Pace)"
+      ]
+    },
+    {
+      "state_name": "made-up at the CW bar",
+      "trigger": "social setting at the CW bar",
+      "response": "wears too much makeup, awkwardly applied, without shame about the imperfect result",
+      "observable": "too much makeup, awkwardly applied",
+      "distinguish_from": [
+        "fragility",
+        "self-consciousness/shame about appearance",
+        "Cassie's no-makeup",
+        "Randi's invisible labor"
+      ]
+    },
+    {
+      "state_name": "Threat-response (protective fierceness)",
+      "trigger": "Encountering anything fake, cruel, or conditional \u2014 especially whoever has hurt Pace",
+      "response": "Held temper aimed outward at the person who caused harm",
+      "observable": "Held temper directed outward; fierceness rather than pleasant warmth",
+      "distinguish_from": [
+        "a mood",
+        "hostess-style warmth/pleasantness"
+      ]
+    },
+    {
+      "state_name": "needling Pace's competence",
+      "trigger": "Pace performs his intellectualism/competence (e.g. the patent-monologue on a bike ride)",
+      "response": "Deflates it affectionately, needles it back down to size rather than being dazzled",
+      "observable": "Dry, observational remarks puncturing his intellectual performance",
+      "distinguish_from": [
+        "admiration",
+        "being dazzled",
+        "investment in his masculine performance"
+      ]
+    },
+    {
+      "state_name": "conditional-people radar ping",
+      "trigger": "Encountering people who withdraw their love/affection when the terms change (conditional people)",
+      "response": "Her radar pings once; she recognizes the type and issues a single verdict without elaboration",
+      "observable": "A single terse verdict (e.g. 'She's a lot.'); no sustained analysis",
+      "distinguish_from": [
+        "Cassandra's structural/sustained diagnosis",
+        "perception of the configuration's mechanics"
+      ]
+    },
+    {
+      "state_name": "protective discharge",
+      "trigger": "learning someone has hurt Pace",
+      "response": "offers immediate action with no questions asked ('Give me ten minutes'); needs only the name and the time, not the story",
+      "observable": "asks for the name and ten minutes, no questions, no need for explanation",
+      "distinguish_from": [
+        "idle anger",
+        "curiosity-driven involvement"
+      ]
+    }
+  ],
+  "temporal_states": [
+    {
+      "attribute": "family_and_church_relationships",
+      "value": "disowned by church friends, brother, father, and mother simultaneously",
+      "after_event": "She came out (last year)",
+      "before_event": null,
+      "event_resolved": true
+    },
+    {
+      "attribute": "narrative_role",
+      "value": "Held temper aimed outward at whoever hurt Pace is the engine of her last appearance",
+      "after_event": "Her last appearance (referenced as 'below' but not provided in this excerpt)",
+      "before_event": null,
+      "event_resolved": true
+    },
+    {
+      "attribute": "payback",
+      "value": "Delivers a payback that 'lands' at the end of the story",
+      "after_event": "the end of the story (payback to/for Pace)",
+      "before_event": null,
+      "event_resolved": true
+    }
+  ],
+  "relationships": [
+    {
+      "to": "Pace",
+      "relationship": "friend",
+      "negated": false,
+      "properties": {
+        "note": "Sees Pace as a friend rather than as a man; immune to his masculine register",
+        "mechanism": "outside Pace's sexual economy"
+      }
+    },
+    {
+      "to": "Cassie",
+      "relationship": "structural_contrast",
+      "negated": false,
+      "properties": {
+        "note": "Two clarities, opposite mechanisms. Cassie is outside the appearance economy (reads Randi/configuration for operation); Sheri is outside Pace's economy (sees Pace himself). Explicitly must not converge.",
+        "shared_feature": "both possess a form of clarity/immunity"
+      }
+    },
+    {
+      "to": "Pace",
+      "relationship": "deliberate physical contrast (foil)",
+      "negated": false,
+      "properties": "Sheri is tiny and slender set against Pace, who is strongly built and average height"
+    },
+    {
+      "to": "Cassie",
+      "relationship": "appearance-grammar contrast",
+      "negated": false,
+      "properties": "Cassie occupies the 'doesn't try' position (no makeup, eschewed not lacked); Sheri occupies the 'visible effort, no shame' position"
+    },
+    {
+      "to": "Randi",
+      "relationship": "appearance-grammar contrast",
+      "negated": false,
+      "properties": "Randi occupies the 'labor invisible' position (work that doesn't show); Sheri's effort is visible and imperfect"
+    },
+    {
+      "to": "Pace",
+      "relationship": "deflates/needles",
+      "negated": false,
+      "properties": {
+        "note": "Receives the same patent-monologue Pace would give an empty room",
+        "register": "dry, observational, affectionate deflation",
+        "outside_sexual_economy": true,
+        "no_investment_in_his_masculine_performance": true
+      }
+    },
+    {
+      "to": "Pace",
+      "relationship": "supported_by",
+      "negated": false,
+      "properties": {
+        "manner": "spent time with her, listened to her cry, bought her bacon cheeseburgers after cycling",
+        "quality": "the true gesture chosen over the expected one; constancy of treatment"
+      }
+    },
+    {
+      "to": "brother",
+      "relationship": "sibling",
+      "negated": false,
+      "properties": {
+        "detail": "Marine",
+        "status": "disowned her after she came out"
+      }
+    },
+    {
+      "to": "father",
+      "relationship": "parent",
+      "negated": false,
+      "properties": {
+        "detail": "retired Marine",
+        "status": "disowned her after she came out"
+      }
+    },
+    {
+      "to": "mother",
+      "relationship": "parent",
+      "negated": false,
+      "properties": {
+        "status": "disowned her after she came out"
+      }
+    },
+    {
+      "to": "church friends",
+      "relationship": "former_community",
+      "negated": false,
+      "properties": {
+        "status": "disowned her after she came out"
+      }
+    },
+    {
+      "to": "Pace",
+      "relationship": "perceives_with_suspicion",
+      "negated": false,
+      "properties": {
+        "basis": "radar ping identifying Pace as a conditional person who withdraws when terms change",
+        "scope": "Pace-specific, single encounter",
+        "verdict": "She's a lot."
+      }
+    },
+    {
+      "to": "Cassandra",
+      "relationship": "narrative_foil",
+      "negated": false,
+      "properties": {
+        "contrast": "Both issue warnings, but different instruments: Cassie structural/sustained, Sheri a single ping from a different sensor",
+        "aliases_referenced": [
+          "Cassie"
+        ]
+      }
+    },
+    {
+      "to": "Pace",
+      "relationship": "deflected_by",
+      "negated": false,
+      "properties": {
+        "note": "Pace deflects Sheri's read; the reader files it next to Cassie's warning"
+      }
+    },
+    {
+      "to": "Pace",
+      "relationship": "friend",
+      "negated": false,
+      "properties": {
+        "nature": "The one outside-the-house bond the novel shows Pace keeping",
+        "perception": "Sees Pace clearly via glancing, Pace-specific radar"
+      }
+    },
+    {
+      "to": "Cassandra",
+      "relationship": "narrative_foil",
+      "negated": false,
+      "properties": {
+        "note": "Both are confidantes who see clearly but for structurally opposite reasons; Sheri is a true variant, not a mirror"
+      }
+    },
+    {
+      "to": "Pace",
+      "relationship": "protector_of",
+      "negated": false,
+      "properties": {
+        "nature": "Directs held temper outward at whoever hurts Pace; defends Pace fiercely"
+      }
+    },
+    {
+      "to": "Pace",
+      "relationship": "fiercely_loyal_to",
+      "negated": false,
+      "properties": {
+        "trust_level": "absolute",
+        "knowledge_gap": "she does not know the causes of his nature",
+        "loyalty_basis": "structural \u2014 he is the one bond that proved load-bearing when everything built to hold didn't"
+      }
+    },
+    {
+      "to": "her family",
+      "relationship": "shaped_by_negative_lesson_from",
+      "negated": false,
+      "properties": {
+        "lesson": "bonds built to hold do not prove load-bearing; Pace is the single surviving counterexample to this lesson"
+      }
+    },
+    {
+      "to": "Pace",
+      "relationship": "loyal surviving bond",
+      "negated": false,
+      "properties": {
+        "note": "her protective action is on his behalf; the document instructs that Pace neither accepts nor declines on the page",
+        "nature": "the one surviving bond, paying back the debt of having survived",
+        "loyalty": "earned"
+      }
+    }
+  ],
+  "negations": [
+    {
+      "claim": "Sheri needs to hear the full story before acting",
+      "confidence": "HIGH",
+      "correct_statement": "She does not need the story; she needs only the name and ten minutes"
+    }
+  ],
+  "extraction_confidence": "HIGH",
+  "source_document": "meta/meta-arch-sheri.md",
+  "source_version": "a6e10d4e735a4412a9b80d25b2461783e4f100999574889f0a9dea2314250320"
+}

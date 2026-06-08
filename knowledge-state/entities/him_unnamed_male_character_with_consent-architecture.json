@@ -1,0 +1,13 @@
+{
+  "name": "him (unnamed male character with consent-architecture)",
+  "aliases": [],
+  "entity_type": "character",
+  "facts": [],
+  "behavioral_states": [],
+  "temporal_states": [],
+  "relationships": [],
+  "negations": [],
+  "extraction_confidence": null,
+  "source_document": "meta/meta-arch-pace.md",
+  "source_version": "0f306a5f8f02affb44d2abf5d242d1ecbdea19e19e46314afd89f75dd10e63ed"
+}

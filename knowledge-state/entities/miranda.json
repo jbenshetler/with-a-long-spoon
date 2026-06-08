@@ -1,0 +1,154 @@
+{
+  "name": "Miranda",
+  "aliases": [
+    "Randi"
+  ],
+  "entity_type": "character",
+  "facts": [
+    {
+      "attribute": "hair",
+      "value": "Sleek black hair, fine, worn in a controlled ponytail with a scrunchie as the one allowed accent"
+    },
+    {
+      "attribute": "role",
+      "value": "Standards officer on the chapter executive board; runs conduct hearings, judges which sisters meet the house's standard"
+    },
+    {
+      "attribute": "habit",
+      "value": "Locked-threshold habit (governs her own door)"
+    },
+    {
+      "attribute": "housing",
+      "value": "Has a single room (own governed door), earned via her board seat"
+    },
+    {
+      "attribute": "negations",
+      "value": [
+        {
+          "claim": "Pace is her usual type of man",
+          "confidence": "HIGH",
+          "correct_statement": "On paper Pace is disqualified \u2014 short (under 6 ft), a 'weird loner,' not her usual frat jock"
+        },
+        {
+          "claim": "Vee receives her Miranda warning / is treated as a true equal confidante",
+          "confidence": "HIGH",
+          "correct_statement": "Vee never gets her Miranda warning \u2014 Miranda runs an interrogation on her while appearing a confidante"
+        },
+        {
+          "claim": "Miranda outranks Brooke",
+          "confidence": "HIGH",
+          "correct_statement": "Brooke (chapter president) still outranks her \u2014 the one house fact her self-arrangement can't rearrange"
+        }
+      ]
+    },
+    {
+      "attribute": "class_year",
+      "value": "Junior"
+    },
+    {
+      "attribute": "name_meaning",
+      "value": "Miranda = worthy of admiration (weaponized) + Miranda rights; runs an interrogation all novel while appearing a confidante"
+    },
+    {
+      "attribute": "social_status",
+      "value": "Money real but social ease not fully inherited; always performing a belonging she doesn't quite own"
+    },
+    {
+      "attribute": "wealth_origin",
+      "value": "First-generation wealthy; father made money on PPP loans during COVID"
+    },
+    {
+      "attribute": "physical_build",
+      "value": "Petite, narrow through shoulder and hip, built to the 'proper' scale"
+    },
+    {
+      "attribute": "attractiveness_rating",
+      "value": "a 9-10, the sorority archetype, 'contained' where Vee is abundant"
+    },
+    {
+      "attribute": "signature_psychological_move",
+      "value": "Cannot have a real, unmanaged want without wrapping it in a socially survivable frame, and the frame hollows out the realness"
+    }
+  ],
+  "behavioral_states": [
+    {
+      "state_name": "Standards interrogation mode",
+      "trigger": "Running conduct hearings / judging sisters against the house standard",
+      "response": "Conducts interrogation while appearing to be a confidante",
+      "observable": "Presides over conduct hearings, grades other women against her own standard",
+      "distinguish_from": [
+        "genuine confiding",
+        "neutral judgment"
+      ]
+    },
+    {
+      "state_name": "Want-management / social spin",
+      "trigger": "Feels a genuine unmanaged want (e.g., Pace, Vee)",
+      "response": "Converts the genuine attraction into a curated, socially survivable anecdote/frame",
+      "observable": "Repackages attraction as a story ('the sex is insane, he's a genius, it's an experience'); proposes the threesome as a frame",
+      "distinguish_from": [
+        "simply wanting someone directly",
+        "open admission of desire"
+      ]
+    }
+  ],
+  "temporal_states": [
+    {
+      "attribute": "relationship_with_Pace",
+      "value": "Together with Pace, having socially spun him into acceptability",
+      "after_event": "Meeting Pace on the common (~3 weeks before the Bench, pre-novel)",
+      "before_event": null,
+      "event_resolved": true
+    }
+  ],
+  "relationships": [
+    {
+      "to": "Brooke",
+      "relationship": "outranked_by",
+      "negated": false,
+      "properties": {
+        "context": "Brooke is chapter president; outranks Miranda despite Miranda's board seat"
+      }
+    },
+    {
+      "to": "Pace",
+      "relationship": "romantic_partner",
+      "negated": false,
+      "properties": {
+        "why": "His charisma, confidence, directness rewrote his disqualified file; underneath the kink novelty was being led/surrender she can't manufacture; first thing with real stakes in her frictionless life; she socially spun him to make him acceptable",
+        "started": "~3 weeks before the Bench, pre-novel",
+        "contamination": "The spin contaminated the real thing; she never got to simply want him"
+      }
+    },
+    {
+      "to": "Vee",
+      "relationship": "attracted_to",
+      "negated": false,
+      "properties": {
+        "contrast": "Vee is abundant where Miranda is contained",
+        "mechanism": "Uses the threesome as a frame to want a woman without admitting she wants a woman directly",
+        "subjects_to": "Runs an interrogation on Vee while appearing a confidante"
+      }
+    }
+  ],
+  "negations": [
+    {
+      "claim": "Pace is her usual type of man",
+      "confidence": "HIGH",
+      "correct_statement": "On paper Pace is disqualified \u2014 short (under 6 ft), a 'weird loner,' not her usual frat jock"
+    },
+    {
+      "claim": "Vee receives her Miranda warning / is treated as a true equal confidante",
+      "confidence": "HIGH",
+      "correct_statement": "Vee never gets her Miranda warning \u2014 Miranda runs an interrogation on her while appearing a confidante"
+    },
+    {
+      "claim": "Miranda outranks Brooke",
+      "confidence": "HIGH",
+      "correct_statement": "Brooke (chapter president) still outranks her \u2014 the one house fact her self-arrangement can't rearrange"
+    }
+  ],
+  "extraction_confidence": "HIGH",
+  "source_document": "meta/meta-arch-bible.md",
+  "source_version": "294303b9c4a146c688af237b8c1a08b1950bba5e6e2a4eb7aadd5fff63e44f87"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "the conventional man",
+  "aliases": [],
+  "entity_type": "character",
+  "facts": [],
+  "behavioral_states": [],
+  "temporal_states": [],
+  "relationships": [],
+  "negations": [],
+  "extraction_confidence": null,
+  "source_document": "meta/meta-arch-randi.md",
+  "source_version": "b44d3e489a22dc4b457ed14fc1e4c6f33991ce8c27cd138bf96042a31931f8cd"
+}
