@@ -440,6 +440,126 @@
     "chapter_number": 6
   },
   {
+    "character_name": "Vivienne",
+    "fact": "He had showered and shaved before coming to get her, preparing specifically for their evening together",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee observes the damp-dark edge of his hair and razor-fresh color on his jaw and interprets this as preparation for her specifically",
+    "scene_file": "scenes/may-i-choose.md",
+    "chapter_number": 8
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "He keeps to the street side when walking with her",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee notices this but the scene does not indicate she interprets why; she registers it as a pattern or habit of his",
+    "scene_file": "scenes/may-i-choose.md",
+    "chapter_number": 8
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "He knows the restaurant owner Christine personally, and Christine is glad to see him",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee observes the ease between them directly",
+    "scene_file": "scenes/may-i-choose.md",
+    "chapter_number": 8
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "He speaks a language (Arabic or similar) she does not understand, and uses it to order food",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee registers the sounds as foreign to her; the scene names dishes like baba ghanoush and tabbouleh, suggesting a Middle Eastern language context",
+    "scene_file": "scenes/may-i-choose.md",
+    "chapter_number": 8
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "He ordered the dishes intentionally as a pairing \u2014 a bright sharp dish and a smoky soft dish \u2014 and knew what he was doing when he chose them",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee infers this from experiencing the contrast; confidence marked accordingly as the scene presents this as her realization",
+    "scene_file": "scenes/may-i-choose.md",
+    "chapter_number": 8
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "He consistently uses only his right hand at the table \u2014 a pattern she notices as a rule he keeps",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee notices it has happened enough times to constitute a pattern; she does not learn the reason",
+    "scene_file": "scenes/may-i-choose.md",
+    "chapter_number": 8
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "She is capable of letting go of her habitual vigilance and self-monitoring, and finds rest in doing so",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "This is an internal realization Vee arrives at during the evening; she notices the absence of her usual background readiness",
+    "scene_file": "scenes/may-i-choose.md",
+    "chapter_number": 8
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "The mint tea was served in small glasses set in worked brass cages with handles, designed to be held while still hot",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee perceives the function of the vessel directly through use; minor practical fact but explicitly registered by her",
+    "scene_file": "scenes/may-i-choose.md",
+    "chapter_number": 8
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "He took her hand unprompted and without ceremony on leaving the restaurant",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee experiences this as the first time; she registers its emotional weight explicitly",
+    "scene_file": "scenes/may-i-choose.md",
+    "chapter_number": 8
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "Holding his hand felt less like something new beginning than something that had always been missing being resolved",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": false,
+    "notes": "This is Vee's subjective emotional experience, not an objective fact; actual_truth is not applicable in the usual sense \u2014 marked null",
+    "scene_file": "scenes/may-i-choose.md",
+    "chapter_number": 8
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "When she invoked her rule against kissing someone she'd known only a few days, he did not press her \u2014 he smiled and turned them back along the path",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee directly witnesses and registers his non-reaction as distinct from what she had braced for",
+    "scene_file": "scenes/may-i-choose.md",
+    "chapter_number": 8
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "She chose to kiss him anyway, overriding her own stated rule",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "The scene ends on this action; it represents a conscious self-chosen exception she makes in full awareness of the rule she'd just stated",
+    "scene_file": "scenes/may-i-choose.md",
+    "chapter_number": 8
+  },
+  {
     "character_name": "Miranda",
     "fact": "Brooke ended the conversation on her own terms, leaving Randi unable to deploy the deflections she had prepared",
     "source_character": null,

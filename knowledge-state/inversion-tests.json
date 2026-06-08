@@ -1544,30 +1544,6 @@
     "source_scene": "scenes/randis-walk-of-shame.md"
   },
   {
-    "question": "How does Vee process emotionally significant experiences?",
-    "expected_answer": "Vee physically externalizes emotional agitation \u2014 moving around a room, picking up and repositioning objects, narrating with her hands \u2014 before she can articulate what she feels.",
-    "entity_name": "Vee",
-    "stale": false,
-    "last_result": null,
-    "source_scene": "scenes/vee-tells-cassie-fitting.md"
-  },
-  {
-    "question": "What does Vee do when she notices a detail she cannot yet explain?",
-    "expected_answer": "Vee files unexplained observations into a mental category of 'weird things' about a person and lets them go rather than pressing for answers \u2014 often sitting with unresolved information for an extended period.",
-    "entity_name": "Vee",
-    "stale": false,
-    "last_result": null,
-    "source_scene": "scenes/vee-tells-cassie-fitting.md"
-  },
-  {
-    "question": "What is Pace's body type, and how does Vee characterize it?",
-    "expected_answer": "Pace is a powerlifter \u2014 a distinction Vee draws explicitly from bodybuilding \u2014 implying a heavily muscled, strength-built physique rather than a physique-competition aesthetic.",
-    "entity_name": "Pace",
-    "stale": false,
-    "last_result": null,
-    "source_scene": "scenes/vee-tells-cassie-fitting.md"
-  },
-  {
     "question": "What is Vee's characteristic relationship to large or intimidating commitments when the person she cares about is attached to them?",
     "expected_answer": "Vee agrees to things she finds daunting when motivated by connection to a person rather than assessment of the task itself \u2014 the yes comes out before she has weighed the difficulty.",
     "entity_name": "Vee",
@@ -1586,6 +1562,14 @@
   {
     "question": "What is Pace's skill set outside of any single scene?",
     "expected_answer": "Pace is an accomplished garment-maker with knowledge of fabric, fit, and construction \u2014 capable of sourcing material, building custom dress forms or risers, and executing tailored garments to a professional standard.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/vee-tells-cassie-fitting.md"
+  },
+  {
+    "question": "What is Pace's body type, and how does Vee characterize it?",
+    "expected_answer": "Pace is a powerlifter \u2014 a distinction Vee draws explicitly from bodybuilding \u2014 implying a heavily muscled, strength-built physique rather than a physique-competition aesthetic.",
     "entity_name": "Pace",
     "stale": false,
     "last_result": "FAIL",
@@ -1964,7 +1948,7 @@
     "expected_answer": "When something registers as socially wrong, Vee's face automatically smooths \u2014 she masks the dissonance outwardly and quickly files the wrongness away under a rationalizing label rather than examining it.",
     "entity_name": "Vee",
     "stale": false,
-    "last_result": null,
+    "last_result": "FAIL",
     "source_scene": "scenes/together-in-class.md"
   },
   {
@@ -2008,14 +1992,6 @@
     "source_scene": "scenes/the-fitting.md"
   },
   {
-    "question": "What is Pace's pattern when holding a boundary against something he genuinely wants?",
-    "expected_answer": "When Pace holds a line against something he wants, he makes the cost of holding it audible \u2014 he does not pretend ease, but lets the other person hear that restraint is an active choice requiring effort.",
-    "entity_name": "Pace",
-    "stale": false,
-    "last_result": null,
-    "source_scene": "scenes/the-fitting.md"
-  },
-  {
     "question": "How does Randi typically close doors when entering a familiar space?",
     "expected_answer": "Randi's habitual door-closing is a small, unhurried click that signals ownership and ease \u2014 the physical expression of a woman who moves through a room as if it already belongs to her.",
     "entity_name": "Randi",
@@ -2026,6 +2002,14 @@
   {
     "question": "What is Pace's scent signature as noted by Vee?",
     "expected_answer": "Pace smells of clean cotton with a warmer underlying note \u2014 described as the back of his neck and his hair.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/the-fitting.md"
+  },
+  {
+    "question": "What is Pace's pattern when holding a boundary against something he genuinely wants?",
+    "expected_answer": "When Pace holds a line against something he wants, he makes the cost of holding it audible \u2014 he does not pretend ease, but lets the other person hear that restraint is an active choice requiring effort.",
     "entity_name": "Pace",
     "stale": false,
     "last_result": "FAIL",
@@ -2078,14 +2062,6 @@
     "stale": false,
     "last_result": "FAIL",
     "source_scene": "scenes/randis-walk-of-shame.md"
-  },
-  {
-    "question": "What is the nature of Pace and Randi's relationship dynamic in terms of who leads and who follows?",
-    "expected_answer": "Pace operates as the architect of shared experiences, reading Randi's desires and constructing conditions for her to discover and act on them. Randi is responsive and follows his lead, but the dynamic is structured so that she experiences the choices as her own.",
-    "entity_name": "Pace",
-    "stale": false,
-    "last_result": null,
-    "source_scene": "scenes/origin-campus-walk.md"
   },
   {
     "question": "What is Vee's full name and what notable association does it carry?",
@@ -2164,7 +2140,7 @@
     "expected_answer": "Vee has long, copper-colored hair with a voluminous, unruly quality \u2014 it behaves expressively and without her control in open environments, and is frequently contrasted against Randi's controlled, dark, disciplined hair as a shorthand for the difference between the two women.",
     "entity_name": "Vee",
     "stale": false,
-    "last_result": null,
+    "last_result": "FAIL",
     "source_scene": "scenes/brunch-fitting-randi.md"
   },
   {
@@ -2222,22 +2198,6 @@
     "stale": false,
     "last_result": "FAIL",
     "source_scene": "scenes/ignition-scalding.md"
-  },
-  {
-    "question": "What is Randi's tell when she is concealing a strong emotional reaction while maintaining a social performance?",
-    "expected_answer": "When suppressing a significant internal reaction, Randi holds something tight behind her smile and displaces the energy into a small, repetitive physical gesture \u2014 specifically working the base of a glass or object against the table surface with her thumb.",
-    "entity_name": "Randi",
-    "stale": false,
-    "last_result": null,
-    "source_scene": "scenes/brunch-fitting-randi.md"
-  },
-  {
-    "question": "What is Vee's emotional response to public visibility \u2014 being seen in desirable company or circumstances?",
-    "expected_answer": "Vee experiences a private, pleasurable lift when seen by peers in contexts that elevate her social status. She consciously contains the feeling, refusing to let it show on her face, but the desire to be perceived as belonging in those contexts is a recurring internal driver.",
-    "entity_name": "Vee",
-    "stale": false,
-    "last_result": null,
-    "source_scene": "scenes/brunch-fitting-randi.md"
   },
   {
     "question": "What does Pace do when caught by unexpected physical intimacy?",
@@ -2976,11 +2936,51 @@
     "source_scene": "scenes/origin-campus-walk.md"
   },
   {
+    "question": "What is Randi's tell when she is concealing a strong emotional reaction while maintaining a social performance?",
+    "expected_answer": "When suppressing a significant internal reaction, Randi holds something tight behind her smile and displaces the energy into a small, repetitive physical gesture \u2014 specifically working the base of a glass or object against the table surface with her thumb.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/brunch-fitting-randi.md"
+  },
+  {
+    "question": "What is Vee's emotional response to public visibility \u2014 being seen in desirable company or circumstances?",
+    "expected_answer": "Vee experiences a private, pleasurable lift when seen by peers in contexts that elevate her social status. She consciously contains the feeling, refusing to let it show on her face, but the desire to be perceived as belonging in those contexts is a recurring internal driver.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/brunch-fitting-randi.md"
+  },
+  {
     "question": "What is Cassie's established social role relative to Vee?",
     "expected_answer": "Cassie is Vee's close companion \u2014 they share a hall, attend the same classes, and live together \u2014 functioning as Vee's steady, low-affect counterweight to Vee's socially attuned navigation of the world.",
     "entity_name": "Cassie",
     "stale": false,
     "last_result": "PASS",
     "source_scene": "scenes/together-in-class.md"
+  },
+  {
+    "question": "What is the nature of Pace and Randi's relationship dynamic in terms of who leads and who follows?",
+    "expected_answer": "Pace operates as the architect of shared experiences, reading Randi's desires and constructing conditions for her to discover and act on them. Randi is responsive and follows his lead, but the dynamic is structured so that she experiences the choices as her own.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/origin-campus-walk.md"
+  },
+  {
+    "question": "What does Vee do when she notices a detail she cannot yet explain?",
+    "expected_answer": "Vee files unexplained observations into a mental category of 'weird things' about a person and lets them go rather than pressing for answers \u2014 often sitting with unresolved information for an extended period.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/vee-tells-cassie-fitting.md"
+  },
+  {
+    "question": "How does Vee process emotionally significant experiences?",
+    "expected_answer": "Vee physically externalizes emotional agitation \u2014 moving around a room, picking up and repositioning objects, narrating with her hands \u2014 before she can articulate what she feels.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/vee-tells-cassie-fitting.md"
   }
 ]
