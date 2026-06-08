@@ -45,21 +45,21 @@
   ],
   "relationships": [
     {
-      "to": "Vee",
+      "to": "jazz bar",
+      "relationship": "associated location",
+      "negated": false,
+      "properties": {
+        "status": "becomes uninhabitable to him over time"
+      }
+    },
+    {
+      "to": "Vivienne",
       "relationship": "subject of his interpretive 'reading'",
       "negated": false,
       "properties": {
         "note": "he sustains the reading by elaboration rather than revision",
         "reading": "'not finally the lady'",
         "tension": "evidence accumulates that Vee was the apex, contradicting his reading"
-      }
-    },
-    {
-      "to": "jazz bar",
-      "relationship": "associated location",
-      "negated": false,
-      "properties": {
-        "status": "becomes uninhabitable to him over time"
       }
     }
   ],

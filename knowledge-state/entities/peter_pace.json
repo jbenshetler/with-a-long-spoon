@@ -7,8 +7,36 @@
   "entity_type": "character",
   "facts": [
     {
+      "attribute": "build",
+      "value": "Tom Cruise build, not The Rock; not a big man. Muscle obvious clothed off, subtle clothed on"
+    },
+    {
+      "attribute": "gender",
+      "value": "man"
+    },
+    {
+      "attribute": "height",
+      "value": "Average height but under 6 ft"
+    },
+    {
+      "attribute": "income",
+      "value": "Modest middle-class income for rural Virginia, plus a small cushion from a patent"
+    },
+    {
+      "attribute": "method",
+      "value": "uses a 'long spoon' correctly \u2014 calibrated, measured conduct where each deed is a declaration and each advance is measured against another's response"
+    },
+    {
       "attribute": "bicycle",
       "value": "Modest hybrid bicycle (practical middle, not carbon-road, not mountain)"
+    },
+    {
+      "attribute": "history",
+      "value": "years of solitude (preceding domestic compulsion habits)"
+    },
+    {
+      "attribute": "vehicle",
+      "value": "Used but well-maintained truck \u2014 smaller, utilitarian, not showy"
     },
     {
       "attribute": "footwear",
@@ -17,6 +45,14 @@
     {
       "attribute": "wardrobe",
       "value": "Four-shirt wardrobe"
+    },
+    {
+      "attribute": "best tool",
+      "value": "His mind, which he points in the wrong direction deliberately via self-justification"
+    },
+    {
+      "attribute": "interests",
+      "value": "fantasy refuge in sword and sorcery"
     },
     {
       "attribute": "negations",
@@ -60,51 +96,780 @@
       ]
     },
     {
+      "attribute": "residence",
+      "value": "Owns a house bought with modest patent income; a retreat, not a showcase"
+    },
+    {
+      "attribute": "appearance",
+      "value": "Not model-handsome"
+    },
+    {
+      "attribute": "blind_spot",
+      "value": "Does not see the structural mismatch between his deed-based grammar and Vee's contemporary convention expecting verbal declaration; does not see the costs the vow produces for Vee (her wait, her uncertainty) because his after-register reading does not run."
+    },
+    {
+      "attribute": "motivation",
+      "value": "Genuine focus on getting women something they want; tracks readiness closely (not purely transactional)"
+    },
+    {
+      "attribute": "occupation",
+      "value": "Math PhD candidate"
+    },
+    {
+      "attribute": "core motive",
+      "value": "Driven by an appetite for what it costs someone to step over their own line; interested in transgression rather than social standing"
+    },
+    {
+      "attribute": "core_choice",
+      "value": "Chose the path that preserved the configuration over three honorable alternatives (disclose, decline, ask harder questions)"
+    },
+    {
       "attribute": "guest wines",
       "value": "Small bench of guest wines (~$10\u2013$35, never made explicit), kept for company to cook with or pour; narrow range learned cold"
+    },
+    {
+      "attribute": "B&D_register",
+      "value": "Operates in bondage and discipline as architecture, rules, the framework inside which transgression is made possible \u2014 not the suffering itself"
     },
     {
       "attribute": "TV ownership",
       "value": "Little or no TV; at most a small afterthought flat panel"
     },
     {
+      "attribute": "central_flaw",
+      "value": "a blind spot ('the hole') in his consent-architecture regarding what he makes women into; latent until Randi"
+    },
+    {
+      "attribute": "core_quality",
+      "value": "Sees Vee fully; the seeing is the love and the love is real"
+    },
+    {
+      "attribute": "injury origin",
+      "value": "At eleven, his father tied a rope from his car to the headstock of Pace's bike and dragged him \u2014 resulting in compound fracture at the head of the femur, severe road rash, hospitalization"
+    },
+    {
+      "attribute": "origin_of_vow",
+      "value": "Inherited from his mother specifically \u2014 love-as-currency, the word given and withheld for leverage"
+    },
+    {
+      "attribute": "scar / injury",
+      "value": "An ugly, serious old scar at the hip / head of the femur, plus the ghost of severe road rash; surgical, not rakish; visible only when naked"
+    },
+    {
+      "attribute": "adult identity",
+      "value": "Built an entire adult identity around being the man who asks (consent-architecture); his reckoning is discovering he found a way to not-ask that his checklist couldn't catch"
+    },
+    {
+      "attribute": "appetite_class",
+      "value": "destructive"
+    },
+    {
+      "attribute": "bound by a vow",
+      "value": "Holds a vow that prevents him from saying 'I love you'; the vow does not let him speak the true sentence"
+    },
+    {
+      "attribute": "field_of_study",
+      "value": "Mathematics (not engineering)"
+    },
+    {
       "attribute": "holds a patent",
       "value": "Invented a useful/elegant solution; the money was a side benefit, the elegant solution was the reward"
+    },
+    {
+      "attribute": "house_contents",
+      "value": "A few good knives, a couple good pans \u2014 buy-quality-once-and-stop instinct"
+    },
+    {
+      "attribute": "house_location",
+      "value": "On a driveway directly off the highway outside town \u2014 cheap land, no sight lines"
+    },
+    {
+      "attribute": "method_grammar",
+      "value": "chivalric/sword-and-sorcery frame from years of imagined courtships shaped his method"
     },
     {
       "attribute": "name symbolism",
       "value": "Peter = rock/foundation = who he actually is, hidden; Pace = anxious motion covering ground without arriving / imperative 'go' / 'sets the pace' = the D role"
     },
     {
+      "attribute": "narrative_role",
+      "value": "Constructs an offer with love, care, and real attention that is structurally calibrated to be undeclinable; this calibration is described as 'the engine of the harm'"
+    },
+    {
+      "attribute": "self-awareness",
+      "value": "does not see the mechanism by which his discipline serves his appetite; the attenuation operates in a register he will not name"
+    },
+    {
+      "attribute": "self_awareness",
+      "value": "Maintains the habit partly by not putting words to the discomfort it produces; the 'not-putting-words' is part of how the habit sustains itself"
+    },
+    {
+      "attribute": "wine_knowledge",
+      "value": "Knows wine well within the affordable range (~under $35 retail / $70 restaurant)"
+    },
+    {
+      "attribute": "appetite_target",
+      "value": "women with dense rule-clusters"
+    },
+    {
       "attribute": "cooking ability",
       "value": "Can plainly cook well (good pans, the peaches); just doesn't, for himself"
+    },
+    {
+      "attribute": "core_motivation",
+      "value": "long-range planner driven to figure out what relationships actually run on"
+    },
+    {
+      "attribute": "financial_state",
+      "value": "Solvent and unanxious; means finite and known"
+    },
+    {
+      "attribute": "moral_structure",
+      "value": "His goodness/consent-architecture is what makes the rationalization available; an ordinary self-interested man would not have the consent-architecture to use as cover"
     },
     {
       "attribute": "neurodivergence",
       "value": "On the autism spectrum with ADHD hyperfocus (NEVER NAMED in text; lives in behavior only)"
     },
     {
+      "attribute": "operating_level",
+      "value": "Operates at excellent, not perfect \u2014 95%. His consent-architecture and chivalric grammar operate at a level that is rare, recognizable, near-impossible. The remaining 5% is where small ordinary lapses live, in registers the architecture does not monitor."
+    },
+    {
+      "attribute": "self-conception",
+      "value": "a virtuous man who knows he is virtuous; takes private comfort in knowing he is the better kind of man"
+    },
+    {
       "attribute": "social capacity",
       "value": "Can pass socially, warmly, in short structured doses (e.g., CW bar with defined role); but it costs him; needs quiet the way others need food"
+    },
+    {
+      "attribute": "social position",
+      "value": "Regarded as a social outcast by the sorority house"
+    },
+    {
+      "attribute": "status_behavior",
+      "value": "Doesn't perform status in either direction"
+    },
+    {
+      "attribute": "characterization",
+      "value": "brilliant, attentive, creative, non-lecherous"
+    },
+    {
+      "attribute": "core_incoherence",
+      "value": "By his own grammar he won the princess fairly and she left anyway \u2014 incoherent inside the only narrative framework he has"
+    },
+    {
+      "attribute": "dancing_behavior",
+      "value": "Dances a lot but rarely dates from it; the dancing is the point, not a prelude to romance"
+    },
+    {
+      "attribute": "moral_assessment",
+      "value": "Had available honorable exits (disclosure, refusal, harder questions with Vee) he did not take; the skeptical reader who concludes he should have told her is correct"
+    },
+    {
+      "attribute": "orientation_type",
+      "value": "Cognitive orientation, not a sexual content preference; his mind requires the transgression-event"
+    },
+    {
+      "attribute": "athletic_activity",
+      "value": "Competitive amateur powerlifter in the 182 lb class"
+    },
+    {
+      "attribute": "character_summary",
+      "value": "Defined by two rooms: the shop where he imposes order on the world, and the office where he lets his own mind sprawl"
+    },
+    {
+      "attribute": "chivalric_grammar",
+      "value": "Speaks love through deeds, not words \u2014 dress, food, the warm room, patience, every gesture of provision and protection; each deed is a declaration while verbal declaration is not part of the grammar"
+    },
+    {
+      "attribute": "creative_practice",
+      "value": "Makes beautiful things with his hands (handcrafted gifts)"
+    },
+    {
+      "attribute": "defining_appetite",
+      "value": "The first destructive appetite in the novel's class \u2014 appetite for cognitive engagement through watching a woman break her own rules"
     },
     {
       "attribute": "education history",
       "value": "Started college at age 15"
     },
     {
+      "attribute": "observable_status",
+      "value": "by every observable metric, fine"
+    },
+    {
+      "attribute": "thematic_register",
+      "value": "Noble, right, and true by his own rules; destruction proceeds because the rules were perfectly executed \u2014 'Oedipus territory'"
+    },
+    {
+      "attribute": "woodshop_contents",
+      "value": "Pieces curing partway through their finish, undisturbed; most of the house's few furnishings came from this room"
+    },
+    {
+      "attribute": "cognitive_rigidity",
+      "value": "There is no mechanism by which he can be brought to revise his (wrong) reading; the grammar is the only one he has"
+    },
+    {
       "attribute": "hyperfocus domains",
       "value": "Patent/invention, powerlifting, cooking, woodworking, CW dancing \u2014 goes all the way into every domain"
+    },
+    {
+      "attribute": "mode_of_expression",
+      "value": "Expresses love/declaration through deeds (dress, food, warm room, attention, patience) rather than words"
+    },
+    {
+      "attribute": "ordering_principle",
+      "value": "His order tracks consequence/stakes, not tidiness as a trait"
+    },
+    {
+      "attribute": "relational_pattern",
+      "value": "Serial monogamist by structural necessity, not by choice; will lose every woman he loves to the exact instrument he loved her with"
     },
     {
       "attribute": "typical daily meal",
       "value": "Saut\u00e9ed chicken and frozen vegetables most days, framed as powerlifting fuel"
     },
     {
+      "attribute": "underlying_dynamic",
+      "value": "his discipline is the appetite's instrument \u2014 control serves rather than restrains desire"
+    },
+    {
       "attribute": "viewing preference",
       "value": "When he watches, old films"
+    },
+    {
+      "attribute": "woodshop_condition",
+      "value": "Immaculate, for safety reasons (sawdust is a fire risk, carelessly laid tools get damaged or do damage), not aesthetics"
+    },
+    {
+      "attribute": "attraction to Randi",
+      "value": "Interested in Randi because she is beautiful and clearly a leader \u2014 leaders have more to lose, and thus more to transgress"
+    },
+    {
+      "attribute": "consent-orientation",
+      "value": "each transgression carefully calibrated to her yes; advances measured against her response"
+    },
+    {
+      "attribute": "gift_given_to_women",
+      "value": "The expansion from rule-breaking is genuinely loved by the woman and is genuinely the gift Pace gives"
+    },
+    {
+      "attribute": "started_college_age",
+      "value": "15"
+    },
+    {
+      "attribute": "attentional_strength",
+      "value": "Attention is finest in the present moment; perceives what he produces in a moment accurately"
+    },
+    {
+      "attribute": "consent_architecture",
+      "value": "built against the father at the level of action; monitors what he does to women but not what he makes them into"
+    },
+    {
+      "attribute": "core_refusal_pattern",
+      "value": "Refusal to read the emotional after-register"
+    },
+    {
+      "attribute": "emotional_regulation",
+      "value": "runs hot; never developed the apparatus for naming his interior states"
+    },
+    {
+      "attribute": "interior temperament",
+      "value": "runs hot; a hot fantasist with extraordinary self-control, not a cool strategist with a warm exterior"
+    },
+    {
+      "attribute": "method_terminal_step",
+      "value": "His method's terminal step is conviction, which has no slot for the integration question"
+    },
+    {
+      "attribute": "refusal_architecture",
+      "value": "A habituated refusal prepared by family formation, deployed at a specific adult crisis, compounded across years into something that feels structural"
+    },
+    {
+      "attribute": "self-awareness_limit",
+      "value": "His self-serving framing is honest from inside but self-serving in a way he cannot detect"
+    },
+    {
+      "attribute": "architecture_function",
+      "value": "His architecture supplies agency-respect framing that makes not-taking honorable exits feel like principle; the architecture's perfection is rationalization machinery in addition to structural limit"
+    },
+    {
+      "attribute": "finishing_college_age",
+      "value": "22-23"
+    },
+    {
+      "attribute": "home_office_condition",
+      "value": "The one genuinely messy room \u2014 laptop, workstation, technical journals, white papers, math books, pages of notation radiating from the chair"
+    },
+    {
+      "attribute": "office_mess_rationale",
+      "value": "Mess is allowed because nothing there can burn or warp \u2014 it is weightless cognition in physical form, so he lets it sprawl"
+    },
+    {
+      "attribute": "psychological_framing",
+      "value": "damage fully metabolized into discipline, defensiveness, and the chivalric kink; acts from, not out"
+    },
+    {
+      "attribute": "role_in_transgression",
+      "value": "Provides the conditions under which a woman's stepping over her own line becomes thinkable, then bearable, then desired; the line and the stepping are hers"
+    },
+    {
+      "attribute": "after_register_reading",
+      "value": "Does not run \u2014 he does not see what his prudence costs Vee"
+    },
+    {
+      "attribute": "constitutional_privacy",
+      "value": "Lived privately as a man; privacy is primarily neurological comfort and constitutional, not a moral failing"
+    },
+    {
+      "attribute": "core_arousal_mechanism",
+      "value": "Aroused by watching a woman break her own rules of her own free will; the content of the rule is secondary, the agency is essential"
+    },
+    {
+      "attribute": "financial_circumstance",
+      "value": "Operates under finite means / finite-means discipline"
+    },
+    {
+      "attribute": "refusal_relocatability",
+      "value": "Refusal is NOT locally relocatable; apparatus lacks the revisable property"
+    },
+    {
+      "attribute": "self_perceived_conduct",
+      "value": "Believes he performed the contract, kept his word, and gave beautiful things made with his hands"
+    },
+    {
+      "attribute": "coded-channel blindness",
+      "value": "A specific blindness covering the case where a cipher/message is hidden under a safe surface"
+    },
+    {
+      "attribute": "core architectural flaw",
+      "value": "After-register blindness \u2014 the failure to read what moments become in the other person's interior across time; originated as a choice that became a habit, sustained below conscious access"
+    },
+    {
+      "attribute": "psychological_mechanism",
+      "value": "Has an 'apparatus'/'habit' that routes emotional expressions from others down a 'sex-channel', reinterpreting intimacy as sexual compatibility"
+    },
+    {
+      "attribute": "appetite_destructiveness",
+      "value": "His appetite is destructive in two ways: it destroys the woman (each rule-breaking permanently changes her, depleting what made her cognitively interesting) and destroys his own access (the appetite eats its own substrate)"
+    },
+    {
+      "attribute": "characteristic_blindness",
+      "value": "A precisely shaped blindness toward what present moments become in the other person's interior afterward"
+    },
+    {
+      "attribute": "moral status of the flaw",
+      "value": "He is practicing, not failing to perceive \u2014 making him more morally serious than a pure-hamartia frame allows; the apparatus is built to prevent recognition that he is choosing"
+    },
+    {
+      "attribute": "self-justifying_narrative",
+      "value": "On the 'not-finally-the-lady' reading: he was being careful, protecting her from premature declaration, would have said it when sure; she didn't wait, so she wasn't the one because the one would have waited"
+    },
+    {
+      "attribute": "cognitive mode of presence",
+      "value": "more like a musician improvising than an analyst reviewing data; sees, remembers, is present"
+    },
+    {
+      "attribute": "psychological_architecture",
+      "value": "Possesses a 'consent-architecture' \u2014 a framework around agency and consent that he uses to frame his choices as principled"
+    },
+    {
+      "attribute": "real-time empathic reading",
+      "value": "Fully operational; can understand in real time what others (e.g., Vee) are doing emotionally"
+    },
+    {
+      "attribute": "wounding core / inheritance",
+      "value": "Not the physical gore but that his father 'thought it would be funny' \u2014 the inheritance is not being a person whose say matters"
+    },
+    {
+      "attribute": "interior_narrative_framework",
+      "value": "Chivalric cadences: quest, vow, trial, reward \u2014 a transactional system where the knight wins the princess by completing the sequence"
+    },
+    {
+      "attribute": "response_to_conventional_sex",
+      "value": "Conventional sex leaves his mind elsewhere"
+    },
+    {
+      "attribute": "virtue_appetite_relationship",
+      "value": "His virtue is not separable from the appetite's destructiveness; the virtue is the appetite's operational form. Careful attention produces the trust that lets rule-breaking go deep enough to alter Vee permanently"
+    },
+    {
+      "attribute": "origin materials of the habit",
+      "value": "Materials prepared by both parents: father \u2192 non-looking at what others are; mother \u2192 non-looking at what he himself is feeling; deployed at first-love loss as the available adaptation"
+    },
+    {
+      "attribute": "true name / foundational self",
+      "value": "'Peter' is the true name that predates the wound \u2014 the self that hadn't yet learned the lesson, the foundation under the anxious-motion surface; the self that could still say 'I love you'"
+    },
+    {
+      "attribute": "prior_relationship_configuration",
+      "value": "Had been sleeping with Randi for a year and had discussed making Vee the third party"
+    },
+    {
+      "attribute": "vow_against_premature_declaration",
+      "value": "Will not declare love until certain, because to declare what he cannot guarantee is to break what declaration is for; operates separately and below the chivalric grammar"
+    },
+    {
+      "attribute": "consequence of injury / inheritance",
+      "value": "Acutely conscious of pain \u2014 his and others' \u2014 bodily root of safety-tracking everywhere (the shop, the provisioning, the attention to comfort)"
+    },
+    {
+      "attribute": "self-justification / benefactor story",
+      "value": "Arranges true things into a story that lets him feel like a benefactor rather than an architect ('She enjoys the kindness; I'm opening her to a beautiful experience; it's perfect')"
+    },
+    {
+      "attribute": "social_formats_that_work_neurologically",
+      "value": "CW bar / dancing and, later, cycling \u2014 described as his two 'cost-free formats' (defined role, mapped interactions)"
+    },
+    {
+      "attribute": "consent-architecture and chivalric grammar competence",
+      "value": "operates at a level that is rare, recognizable, near-impossible \u2014 and not perfect; reliable at ~95%"
     }
   ],
   "behavioral_states": [
+    {
+      "state_name": "principled-non-taking",
+      "trigger": "Faced with honorable options (disclosure, refusal, harder questions with Vee)",
+      "response": "Does not take them; architecture supplies agency-respect framing that makes not-taking feel like principle",
+      "observable": "Withholds information about the configuration; proceeds without surfacing the architecture as a shared question",
+      "distinguish_from": [
+        "genuine dilemma with no exit",
+        "paternalism"
+      ]
+    },
+    {
+      "state_name": "vow-holding silence on love",
+      "trigger": "Reaching a point where verbal declaration of love would be conventionally expected, but certainty has not yet surfaced",
+      "response": "Withholds verbal declaration; expresses through deeds instead. Not-saying 'I love you' is the grammar operating, not a failure of it.",
+      "observable": "Absence of verbal 'I love you' across the year despite sustained caretaking deeds; porch scene shows the vow's cost most visibly on reread",
+      "distinguish_from": [
+        "failure of grammar",
+        "emotional withholding",
+        "indifference"
+      ]
+    },
+    {
+      "state_name": "constitutional_privacy",
+      "trigger": "Ordinary interaction with Vee (non-declaration-adjacent)",
+      "response": "Operates privately as neurological comfort; not consciously evading; experiences privacy as giving Vee the most intimate access he gives anyone",
+      "observable": "Habit-with-substrate; he is not consciously evading",
+      "distinguish_from": [
+        "situational_commitment_fear",
+        "concealment"
+      ]
+    },
+    {
+      "state_name": "situational_commitment_fear",
+      "trigger": "Declaration-adjacent / commitment-adjacent moments \u2014 when Vee is asking for or implying 'I love you'",
+      "response": "Privacy operates as small ordinary fear of commitment deployed via self-control; routes her speech down a smaller register where his apparatus can operate; protects himself from declaring in return",
+      "observable": "Habit operating with the substrate of choice-become-habit peeking through as small unnamed discomfort",
+      "distinguish_from": [
+        "constitutional_privacy"
+      ]
+    },
+    {
+      "state_name": "not-looking / after-register blindness in the moment",
+      "trigger": "Each subsequent moment requiring integration of what a moment becomes in another person's interior",
+      "response": "Does not perceive it as a choice; deploys not-looking automatically; could revise but does not",
+      "observable": "Failure to read what moments become for others; the habit feels structural to him",
+      "distinguish_from": [
+        "genuine incapacity to perceive",
+        "pure hamartia / tragic flaw"
+      ]
+    },
+    {
+      "state_name": "substrate accessible under strain",
+      "trigger": "Strain (e.g., the porch scene)",
+      "response": "The substrate of the original choice becomes faintly accessible, producing small discomfort",
+      "observable": "Small discomfort in the porch scene",
+      "distinguish_from": [
+        "full conscious recognition of choosing",
+        "complete obliviousness"
+      ]
+    },
+    {
+      "state_name": "relaxed alertness with Vee",
+      "trigger": "Being with Vee (who is warm, reads rooms, fills silences)",
+      "response": "His alertness relaxes; finds being with her genuinely restful",
+      "observable": "Visibly more at ease, restful state; contributes to falling for her",
+      "distinguish_from": [
+        "generalized comfort",
+        "incidental attraction"
+      ]
+    },
+    {
+      "state_name": "deed-declaration",
+      "trigger": "Loving/caring for Vee",
+      "response": "Declares constantly through deeds \u2014 provision and protection \u2014 while waiting for certainty before speaking words",
+      "observable": "Provides the dress, food, the warm room, patience; never verbally says 'I love you'",
+      "distinguish_from": [
+        "withholding",
+        "failure of grammar",
+        "emotional unavailability"
+      ]
+    },
+    {
+      "state_name": "understanding-and-routing",
+      "trigger": "Vee speaks her displacement 'I love you' (the cracker-and-meal figure) at the porch; he hears the figure as the love-declaration it is",
+      "response": "Routes her speech down the sex-channel as a warm response his apparatus is equipped for ('I love how good we are together. I never had this either'); suspects he loves her, wants to say so, but the vow stops him, so he routes warmly and protects himself",
+      "observable": "Warm sexual/togetherness response instead of a reciprocal love-declaration; three concurrent unsurfaced discomforts (choice-become-habit substrate; spirit-vs-letter of his rules; wanting-to-say-it vs the vow's holding)",
+      "distinguish_from": [
+        "coded-channel blindness",
+        "not understanding at all"
+      ]
+    },
+    {
+      "state_name": "coded-channel blindness",
+      "trigger": "A cipher/message is hidden under a safe surface",
+      "response": "Fails to detect the hidden message",
+      "observable": "Misses the coded meaning under the safe surface",
+      "distinguish_from": [
+        "understanding-and-routing"
+      ]
+    },
+    {
+      "state_name": "stress tell / retreat",
+      "trigger": "Emotional stress",
+      "response": "Shifts from warm/playful/present to precise/formal/over-articulate (render in dialogue, not exposition)",
+      "observable": "Precise, formal, over-articulate speech under stress",
+      "distinguish_from": [
+        "understanding-and-routing"
+      ]
+    },
+    {
+      "state_name": "selective inattention from hyperfocus",
+      "trigger": "his attention has been elsewhere (hyperfocus)",
+      "response": "forgets things she told him last week; doesn't notice changes like a haircut",
+      "observable": "forgetting recent told information; failure to notice a haircut",
+      "distinguish_from": [
+        "consent-register lapse",
+        "hidden corruption",
+        "intellectual vanity",
+        "domestic compulsion"
+      ]
+    },
+    {
+      "state_name": "small intellectual vanity within his domain",
+      "trigger": "she explains an econ concept he finds trivial",
+      "response": "brief impatience",
+      "observable": "brief impatience during her explanation",
+      "distinguish_from": [
+        "selective inattention",
+        "domestic compulsion",
+        "consent-register lapse"
+      ]
+    },
+    {
+      "state_name": "domestic compulsion from years of solitude",
+      "trigger": "she leaves, or does something his habits don't accommodate",
+      "response": "small adjustments after she leaves; barely-perceptible tension",
+      "observable": "small adjustments; barely-perceptible tension",
+      "distinguish_from": [
+        "selective inattention",
+        "intellectual vanity",
+        "consent-register lapse"
+      ]
+    },
+    {
+      "state_name": "commitment-adjacent self-protection",
+      "trigger": "situations evoking the porch-scene register",
+      "response": "self-protective register (the porch-scene register)",
+      "observable": "the porch-scene register",
+      "distinguish_from": [
+        "consent-register lapse",
+        "hidden corruption"
+      ]
+    },
+    {
+      "state_name": "private vanity of a virtuous man",
+      "trigger": "awareness of his own virtue",
+      "response": "takes comfort in knowing he is the better kind of man",
+      "observable": "the comfort of knowing-you-are-the-better-kind-of-man",
+      "distinguish_from": [
+        "consent-register lapse",
+        "hidden corruption"
+      ]
+    },
+    {
+      "state_name": "embodied recognition that something has reached him",
+      "trigger": "something Vee or Randi just did reaches him",
+      "response": "something moves in him; his attention slides toward what she produced; his hand is already on her before his mind has finished observing; he remembers as one remembers a person still in the room",
+      "observable": "physical/embodied responses, hand already on her, attention sliding",
+      "distinguish_from": [
+        "filing/cataloging",
+        "registering",
+        "clocking",
+        "analyst reviewing data"
+      ]
+    },
+    {
+      "state_name": "approach behavior",
+      "trigger": "Encountering someone he is interested in (e.g. at the meet on the common)",
+      "response": "Walks up directly, joins the group, asks the person out without preamble; treats the surrounding group as an obstacle to get through",
+      "observable": "He just 'walked up' (barged in, by some accounts), joined the group, asked out a senior sister",
+      "distinguish_from": [
+        "engineered/strategic seduction",
+        "social-cachet seeking"
+      ]
+    },
+    {
+      "state_name": "vow against premature declaration",
+      "trigger": "pressure to name or declare interior feelings/love",
+      "response": "refuses premature declaration; avoids naming because naming exposes interior to accounting",
+      "observable": "withholding of emotional declarations; non-looking at his own interior",
+      "distinguish_from": [
+        "acting out",
+        "coldness",
+        "lack of feeling"
+      ]
+    },
+    {
+      "state_name": "action-level consent monitoring",
+      "trigger": "interaction with women",
+      "response": "disciplined monitoring of what he does to them, organized as refusal of the father",
+      "observable": "self-policing conduct toward women",
+      "distinguish_from": [
+        "acting out",
+        "impulsive coercion"
+      ]
+    },
+    {
+      "state_name": "clean_demand_discomfort",
+      "trigger": "A situation produces an unusually clean/direct demand for the operation his habit conceals (e.g., a displaced declaration of love)",
+      "response": "A small awareness registers as discomfort; he does not articulate it in words",
+      "observable": "A half-beat of stillness, a small sound",
+      "distinguish_from": [
+        "verbalized recognition",
+        "emotional reciprocation"
+      ]
+    },
+    {
+      "state_name": "sincere_pity",
+      "trigger": "Reflecting on Vee after she has left",
+      "response": "Does not accuse her; pities her gently and sincerely for the years she will spend not finding what she found with him",
+      "observable": "Expressions of gentle, sincere pity rather than blame or anger",
+      "distinguish_from": [
+        "accusation",
+        "resentment",
+        "performed/insincere pity"
+      ]
+    },
+    {
+      "state_name": "calibrated advance",
+      "trigger": "engaging with another (her) / seeking an advance or transgression",
+      "response": "measures the act precisely against her response, calibrates each transgression to her yes, treats each deed as a declaration",
+      "observable": "deliberate, measured conduct; appears disciplined and consent-respecting",
+      "distinguish_from": [
+        "genuine restraint",
+        "self-denial",
+        "selflessness"
+      ]
+    },
+    {
+      "state_name": "method_continuation",
+      "trigger": "Each new advance / opportunity to continue the method",
+      "response": "Chooses to continue executing the method; the choice is not articulated but enacted",
+      "observable": "Enacted choices rather than stated decisions; continued advances toward Vee",
+      "distinguish_from": [
+        "articulated deliberate decision",
+        "self-questioning hesitation"
+      ]
+    },
+    {
+      "state_name": "honorable_exit_avoidance",
+      "trigger": "Availability of honorable exits (disclosure, refusal, harder questions)",
+      "response": "Does not take them; the not-taking is framed by his architecture as principle (agency-respect)",
+      "observable": "Exits passed over while feeling principled rather than evasive",
+      "distinguish_from": [
+        "paternalism",
+        "deliberate cruelty",
+        "genuine principled restraint"
+      ]
+    },
+    {
+      "state_name": "engaged_by_self-willed_transgression",
+      "trigger": "A woman, by her own active choice, steps over a line she set for herself",
+      "response": "Aroused/cognitively engaged; the transgression-event satisfies his mind",
+      "observable": "Engagement and arousal present only when the choice is the woman's own",
+      "distinguish_from": [
+        "arousal from force-broken rules",
+        "sadistic enjoyment of suffering",
+        "interest in conventional sex"
+      ]
+    },
+    {
+      "state_name": "no_enjoyment_of_forced_transgression",
+      "trigger": "A rule is broken by force he produces rather than by the woman's agency",
+      "response": "Does not get to enjoy it; force-broken rules register as violations, not transgressions",
+      "observable": "Absence of the engagement/arousal that genuine self-willed transgression produces",
+      "distinguish_from": [
+        "engaged_by_self-willed_transgression"
+      ]
+    },
+    {
+      "state_name": "afterward_blindness",
+      "trigger": "An interpersonal moment resolves and the other person's interior reaction (e.g., regret) develops afterward",
+      "response": "Fails to perceive the afterward interior change; misreads interior rearranging as natural scene-resolution because his apparatus is not asking the relevant question",
+      "observable": "At the bench, the regret his vulnerability produced in Randi was visually indistinguishable from natural scene-resolution; his apparatus was not asking about flight, so he missed it",
+      "distinguish_from": [
+        "general failure of integration",
+        "failure to perceive the present moment accurately"
+      ]
+    },
+    {
+      "state_name": "emotional after-register refusal",
+      "trigger": "Encountering the emotional aftermath/after-register of a situation",
+      "response": "Refuses to read it",
+      "observable": "Apparent as character trait rather than habit to those close to Pace",
+      "distinguish_from": [
+        "Randi's refusal of need",
+        "Vee's hungering/revisable apparatus"
+      ]
+    },
+    {
+      "state_name": "deed-as-declaration",
+      "trigger": "Wishing to declare love or care",
+      "response": "Performs deeds \u2014 dressing, feeding, warming the room, giving attention, showing patience \u2014 instead of speaking",
+      "observable": "Acts of provision and attentiveness without verbal statement",
+      "distinguish_from": [
+        "verbal declaration",
+        "withholding/coldness"
+      ]
+    },
+    {
+      "state_name": "after-register blindness",
+      "trigger": "A structural mismatch between his deed-grammar and Vee's expectation of verbal declaration",
+      "response": "Does not perceive the mismatch because his after-register reading does not run",
+      "observable": "Continues declaring through deeds, unaware that Vee waits for words",
+      "distinguish_from": [
+        "deliberate refusal to declare",
+        "indifference"
+      ]
+    },
+    {
+      "state_name": "principled-framing-as-cover",
+      "trigger": "When his self-interest aligns with not taking an honorable action",
+      "response": "Uses his consent-architecture to frame the inaction as a matter of principle (e.g., avoiding paternalism)",
+      "observable": "Narrates self-interested choices in the language of principle and agency-respect; the framing feels like principle, not avoidance",
+      "distinguish_from": [
+        "genuine principled restraint",
+        "ordinary self-interest without intellectual cover",
+        "paternalism"
+      ]
+    },
+    {
+      "state_name": "non_predatory_dancing",
+      "trigger": "Dancing with a woman (e.g., Sheri) at the CW bar",
+      "response": "Dances with her without hitting on her; treats dancing as the activity itself, not a romantic overture",
+      "observable": "Dances, does not make romantic/sexual advances",
+      "distinguish_from": [
+        "flirtation",
+        "courtship",
+        "dating behavior"
+      ]
+    },
     {
       "state_name": "Commercial intolerance",
       "trigger": "A commercial interrupts while watching",
@@ -151,15 +916,208 @@
       "after_event": "Started college at age 15",
       "before_event": null,
       "event_resolved": true
+    },
+    {
+      "attribute": "behavior toward targets",
+      "value": "Attraction only, not strategy \u2014 the Randi meet was genuine and not engineered",
+      "after_event": "the Randi meet on the common (Before-Vee / Early stretch)",
+      "before_event": "the pointing game / Vee meet-cute, which IS engineered",
+      "event_resolved": true
+    },
+    {
+      "attribute": "habit formation",
+      "value": "Not-looking adaptation deployed and chosen",
+      "after_event": "First-love loss (the work of integration offered to him; he adopted not-looking)",
+      "before_event": "Compounding across subsequent relationships into a habit that now feels structural",
+      "event_resolved": true
+    },
+    {
+      "attribute": "refinement of relationship apparatus",
+      "value": "the threesome plan is the latest iteration of an apparatus refined since age sixteen",
+      "after_event": "age sixteen (origin of apparatus)",
+      "before_event": null,
+      "event_resolved": true
+    },
+    {
+      "attribute": "substrate field / available catches",
+      "value": "the substrate field narrows; the catches feel thinner; attenuation underway",
+      "after_event": "ongoing attenuation/narrowing not yet tied to a written story event",
+      "before_event": null,
+      "event_resolved": true
+    },
+    {
+      "attribute": "verbal declaration of love",
+      "value": "The vow holds throughout the year and never produces a verbal declaration; Vee leaves before his certainty surfaces.",
+      "after_event": "end of the year / Vee's departure (certainty never surfaces in time)",
+      "before_event": null,
+      "event_resolved": true
+    },
+    {
+      "attribute": "potential dismantling of the habit",
+      "value": "Not produced; the catastrophe does not produce the dismantling work that goes all the way down to the parents",
+      "after_event": "The catastrophe (story event)",
+      "before_event": null,
+      "event_resolved": true
+    },
+    {
+      "attribute": "Vee's knowledge of the scar",
+      "value": "Vee sees the scar early as a body-fact, long before it is a fact about his history; asks once, maybe; he gives almost nothing",
+      "after_event": "Early in relationship with Vee (scar seen as body-fact)",
+      "before_event": "Much later, if ever, the scar becomes a fact about his history",
+      "event_resolved": true
+    },
+    {
+      "attribute": "the vow",
+      "value": "Vow breaks in reckoning, not romance; he must look directly at the benefactor story and the hole in his architecture",
+      "after_event": "The reckoning in which the vow breaks (catalyst still open \u2014 see threesome doc)",
+      "before_event": null,
+      "event_resolved": true
+    },
+    {
+      "attribute": "accumulating tension with Vee",
+      "value": "The porch ambiguity is one of the sand-in-the-gears moments that accumulate toward the Christmas fight",
+      "after_event": "The Christmas fight (not yet written)",
+      "before_event": null,
+      "event_resolved": true
+    },
+    {
+      "attribute": "significance_of_consent-architecture_blind_spot",
+      "value": "the hole began to matter / be activated",
+      "after_event": "Pace's involvement with Randi",
+      "before_event": null,
+      "event_resolved": true
+    },
+    {
+      "attribute": "refusal state",
+      "value": "Refusal deployed (active) at a specific adult crisis",
+      "after_event": "An unspecified specific adult crisis (not detailed in document)",
+      "before_event": null,
+      "event_resolved": true
+    },
+    {
+      "attribute": "conclusion_about_Vee",
+      "value": "Arrives at the conclusion that Vee was not finally the lady \u2014 that something in her broke at the threshold (a wrong reading the grammar supplies)",
+      "after_event": "The months and years after Vee leaves",
+      "before_event": null,
+      "event_resolved": true
+    },
+    {
+      "attribute": "cost_free_social_format",
+      "value": "Cycling becomes a second neurologically-workable format in addition to dancing",
+      "after_event": "Pace takes up cycling (point at which cycling enters his life)",
+      "before_event": null,
+      "event_resolved": true
     }
   ],
   "relationships": [
     {
-      "to": "Vee",
-      "relationship": "observed/read by",
+      "to": "Vivienne",
+      "relationship": "best_friend_of_Vee",
       "negated": false,
       "properties": {
-        "note": "Vee could read the whole man off the shoe rack before he says a word; her working-class framework repeatedly supplies the wrong category (canned-peaches misread, dance-partner jealousy, expected-repetitive-meal misread)"
+        "note": "Randi is Vee's best friend"
+      }
+    },
+    {
+      "to": "Pace's father",
+      "relationship": "parent / inflicted formative injury",
+      "negated": false,
+      "properties": {
+        "act": "At Pace's age eleven, tied a rope from his car to the bike's headstock and dragged him for fun, causing compound femur fracture and road rash",
+        "wounding_core": "Decided Pace's pain doesn't count; used him for an experience without his say",
+        "supplied_material": "Non-looking at what others are"
+      }
+    },
+    {
+      "to": "Pace's mother",
+      "relationship": "parent / shaped emotional avoidance",
+      "negated": false,
+      "properties": {
+        "supplied_material": "Non-looking at what he himself is feeling"
+      }
+    },
+    {
+      "to": "first love",
+      "relationship": "past relationship / site of habit formation",
+      "negated": false,
+      "properties": {
+        "significance": "First-love loss was where the work of integration was offered and not-looking was adopted as adaptation"
+      }
+    },
+    {
+      "to": "Pace's mother",
+      "relationship": "parent",
+      "negated": false,
+      "properties": {
+        "inheritance": "Source of the vow against premature declaration \u2014 modeled love-as-currency, the word given and withheld for leverage"
+      }
+    },
+    {
+      "to": "Pace's mother",
+      "relationship": "source of inherited wound",
+      "negated": false,
+      "properties": "The vow against premature declaration is inherited from the mother's love-as-currency wound."
+    },
+    {
+      "to": "Brooke",
+      "relationship": "insulted_by",
+      "negated": false,
+      "properties": {
+        "detail": "Brooke 'guesses' him down to engineering as a put-down during the walk-of-shame"
+      }
+    },
+    {
+      "to": "Father",
+      "relationship": "parent (abuser)",
+      "negated": false,
+      "properties": {
+        "effect": "produced non-consent=coercion equation; organizing refusal of Pace's adult self; consent-architecture built against him",
+        "abuse_type": "physical"
+      }
+    },
+    {
+      "to": "Mother",
+      "relationship": "parent (abuser)",
+      "negated": false,
+      "properties": {
+        "effect": "produced non-looking at his own interior and vow against premature declaration",
+        "abuse_type": "emotional; love as currency"
+      }
+    },
+    {
+      "to": "First love",
+      "relationship": "former romantic partner",
+      "negated": false,
+      "properties": {
+        "effect": "the formative wound; produced the long-range planner",
+        "outcome": "ended for no cause he could name"
+      }
+    },
+    {
+      "to": "her (unnamed female)",
+      "relationship": "calibrates conduct toward",
+      "negated": false,
+      "properties": {
+        "nature": "measures each transgression to her yes and each advance against her response",
+        "entity_unnamed": true
+      }
+    },
+    {
+      "to": "Sheri",
+      "relationship": "friend",
+      "negated": false,
+      "properties": {
+        "basis": "Sexual disarming \u2014 Sheri could trust Pace to dance with her and not hit on her, letting her be near him safely",
+        "origin": "CW bar",
+        "shared_format": "dancing at the CW bar"
+      }
+    },
+    {
+      "to": "Vivienne",
+      "relationship": "appetite_drawn_to",
+      "negated": false,
+      "properties": {
+        "reason": "Vee carries the densest rule-cluster Pace is likely to meet"
       }
     },
     {
@@ -168,6 +1126,289 @@
       "negated": false,
       "properties": {
         "note": "Rides side by side with Sheri, moving, no eye contact \u2014 the only social configuration that costs him nothing; gave Sheri the identical patent monologue on a bike ride"
+      }
+    },
+    {
+      "to": "Vivienne",
+      "relationship": "sexual/romantic partner",
+      "negated": false,
+      "properties": {
+        "context": "They discussed making Vee the third party in the configuration",
+        "duration": "Had been sleeping with her for a year"
+      }
+    },
+    {
+      "to": "Vivienne",
+      "relationship": "romantic interest / dating",
+      "negated": false,
+      "properties": {
+        "basis": "attraction to her beauty and leadership status (senior sister, Standards board seat)",
+        "timing": "Before-Vee / Early stretch",
+        "engineered": false
+      }
+    },
+    {
+      "to": "Vivienne",
+      "relationship": "transforms",
+      "negated": false,
+      "properties": "Transforms Randi at the same resolution as Vee across the year, parallel-and-opposite. Randi's apparatus does not integrate because hers was organized against producing hunger at all; the novelty for her is the need itself."
+    },
+    {
+      "to": "Vivienne",
+      "relationship": "misjudged_by",
+      "negated": false,
+      "properties": {
+        "detail": "Her status-scanner misreads his height, concealed strength, and truck in a frat-party lineup; she looks down on his truck as can't-afford-better"
+      }
+    },
+    {
+      "to": "Vivienne",
+      "relationship": "defended_by",
+      "negated": false,
+      "properties": {
+        "detail": "Randi corrects up to math and it falls flat",
+        "context": "walk-of-shame scene"
+      }
+    },
+    {
+      "to": "Vivienne",
+      "relationship": "intimate/attended-to partner",
+      "negated": false,
+      "properties": {
+        "note": "subject of his embodied recognition; named alongside Vee as the women whose actions reach him"
+      }
+    },
+    {
+      "to": "Vivienne",
+      "relationship": "structural_loop_member",
+      "negated": false,
+      "properties": {
+        "loop_type": "closed structural loop of mutually summoning destructive appetites"
+      }
+    },
+    {
+      "to": "Vivienne",
+      "relationship": "shares architectural refusal pattern with",
+      "negated": false,
+      "properties": {
+        "note": "The friendship and the love run partly on this mutual misreading",
+        "shared_shape": "habituated refusal on the same architectural shape, in different registers",
+        "pace_register": "refusal to read the emotional after-register",
+        "randi_register": "refusal of need",
+        "mutual_recognition": "each recognizes the other's refusal as character rather than habit"
+      }
+    },
+    {
+      "to": "Vivienne",
+      "relationship": "love/friendship with",
+      "negated": false,
+      "properties": {
+        "basis": "Runs partly on mutual misreading of each other's refusal as character"
+      }
+    },
+    {
+      "to": "Vivienne",
+      "relationship": "sexual_partner",
+      "negated": false,
+      "properties": {
+        "status": "Was sleeping with Randi; did not end the relationship when the configuration began to involve Vee",
+        "context": "He and Randi discussed making Vee a third"
+      }
+    },
+    {
+      "to": "Vivienne",
+      "relationship": "associated figure who activates his blind spot",
+      "negated": false,
+      "properties": {
+        "significance": "the point at which the hole in his consent-architecture began to matter"
+      }
+    },
+    {
+      "to": "Vivienne",
+      "relationship": "structural_contrast",
+      "negated": false,
+      "properties": "Pace operates in the register of architecture/rules/framework (B&D as structure) while Randi operates in a register Pace cannot access (implied: suffering/sadism); each operates in a register the other cannot access"
+    },
+    {
+      "to": "Vivienne",
+      "relationship": "failed_to_perceive_interior_state_of",
+      "negated": false,
+      "properties": {
+        "reason": "the regret's interior rearranging was visually indistinguishable from natural scene-resolution; his apparatus was not asking about flight",
+        "context": "the bench scene",
+        "missed_signal": "regret produced by his vulnerability"
+      }
+    },
+    {
+      "to": "Vivienne",
+      "relationship": "romantic_partner",
+      "negated": false,
+      "properties": {
+        "asymmetry": "Vee experienced his privacy as being hidden; he experienced it as giving her the most intimate access he gives anyone \u2014 both true, an unresolved wound",
+        "information_gap": "Reader sees more than Pace does in declaration-adjacent moments; this unequal information drives porch-scene-style scenes"
+      }
+    },
+    {
+      "to": "Vivienne",
+      "relationship": "shared_background",
+      "negated": false,
+      "properties": {
+        "detail": "Vee is math-track and can read the shape of the office work if not the content \u2014 recognition, not dazzlement, and its own intimacy"
+      }
+    },
+    {
+      "to": "Vivienne",
+      "relationship": "romantic interest / love object",
+      "negated": false,
+      "properties": {
+        "effect_on_him": "Relaxes his alertness; being with her is genuinely restful",
+        "her_qualities": "Warm, reads rooms, fills silences",
+        "scar_knowledge": "Sees his scar early as a body-fact, asks once at most, receives almost nothing"
+      }
+    },
+    {
+      "to": "Vivienne",
+      "relationship": "loves/courts",
+      "negated": false,
+      "properties": {
+        "harm": "The vow in service of her welfare produced the wound that drove her away",
+        "mode": "Declares through deeds, never verbally; waits for certainty before words",
+        "duration": "Both constraints hold throughout the year and never produce a verbal declaration",
+        "mismatch": "Vee experiences the not-saying as withholding within contemporary convention expecting verbal declaration first; the mismatch is structural"
+      }
+    },
+    {
+      "to": "Vivienne",
+      "relationship": "romantic/sexual partner he suspects he loves",
+      "negated": false,
+      "properties": {
+        "dynamic": "Uses her need/offering to move her past resistances under a benefactor self-story",
+        "tension": "Ambiguity at the porch is sand-in-the-gears accumulating toward the Christmas fight",
+        "vow_constraint": "Cannot say 'I love you' due to a vow; routes her love-declaration into a warm sexual response"
+      }
+    },
+    {
+      "to": "Vivienne",
+      "relationship": "reaches past 'Pace' to 'Peter'",
+      "negated": false,
+      "properties": {
+        "meaning": "She calls the true/foundational self that could still say 'I love you'; the name is the 'I love you' neither can otherwise produce \u2014 she says the true name, he can't say the true sentence"
+      }
+    },
+    {
+      "to": "Vivienne",
+      "relationship": "transforms / feeds",
+      "negated": false,
+      "properties": "Transforms Vee at the same resolution as Randi across the year. Vee's apparatus integrates because she has always had the relational equipment hunger requires; the novelty for her is the size of the need and the satiety produced. Cracker-and-meal: Vee was always hungering and eating crackers; Pace fed her a meal that both fed the hunger and clarified its specifications."
+    },
+    {
+      "to": "Vivienne",
+      "relationship": "gives_gifts_to",
+      "negated": false,
+      "properties": {
+        "detail": "Gifts (ivory nightie, farmers-market peaches) cost him precisely because money is real and limited; Vee's family would respect his buy-quality instinct; geography prevents Vee from casually spying"
+      }
+    },
+    {
+      "to": "Vivienne",
+      "relationship": "intimate/attended-to partner",
+      "negated": false,
+      "properties": {
+        "note": "subject of his embodied recognition; named alongside Randi as the women whose actions reach him"
+      }
+    },
+    {
+      "to": "Vivienne",
+      "relationship": "future engineered target",
+      "negated": false,
+      "properties": {
+        "basis": "the plan crystallizes later; the meet-cute IS engineered (pointing game)",
+        "engineered": true
+      }
+    },
+    {
+      "to": "Vivienne",
+      "relationship": "loves / sees fully",
+      "negated": false,
+      "properties": {
+        "nature": "The seeing is the love and the love is real; she lets him see her",
+        "consequence": "His careful attention produces trust that lets rule-breaking alter her permanently; depth of love equals depth of damage",
+        "available_unused_action": "Harder questions with Vee \u2014 an honorable exit he did not take"
+      }
+    },
+    {
+      "to": "Vivienne",
+      "relationship": "structural_loop_member",
+      "negated": false,
+      "properties": {
+        "loop_type": "closed structural loop among three destructive appetites",
+        "co_members": [
+          "Randi"
+        ]
+      }
+    },
+    {
+      "to": "Vivienne",
+      "relationship": "contrasted with",
+      "negated": false,
+      "properties": {
+        "distinction": "Vee's apparatus is locally relocatable/revisable and lets her walk out; Pace's apparatus does not have this property"
+      }
+    },
+    {
+      "to": "Vivienne",
+      "relationship": "communicative mismatch",
+      "negated": false,
+      "properties": {
+        "nature": "Vee's contemporary convention expects verbal declaration; Pace declares through deeds; in her convention the deeds are not the speaking she is waiting for",
+        "structural": true
+      }
+    },
+    {
+      "to": "Vivienne",
+      "relationship": "romantic_partner",
+      "negated": false,
+      "properties": {
+        "agency_violation": "Withholding information she needed to decide is itself an agency-violation, by his own framework",
+        "withheld_information": "Did not tell her he had been sleeping with Randi or that they discussed making her a third"
+      }
+    },
+    {
+      "to": "Vivienne",
+      "relationship": "intimate_partner",
+      "negated": false,
+      "properties": {
+        "interaction_note": "In the porch scene, Vee delivers a displaced 'I love you' via a cracker-and-meal speech; Pace hears and understands it whole but reroutes it as sexual compatibility rather than reciprocating directly"
+      }
+    },
+    {
+      "to": "Vivienne",
+      "relationship": "former romantic partner (cast as 'the princess' in his framework)",
+      "negated": false,
+      "properties": {
+        "outcome": "She left him",
+        "his_interpretation": "Within his chivalric grammar he 'won' her fairly; he later concludes she 'was not finally the lady'",
+        "his_emotional_stance": "Sincere, gentle pity; no accusation",
+        "interpretation_validity": "His reading of her is wrong"
+      }
+    },
+    {
+      "to": "Vivienne",
+      "relationship": "constructs_offer_to",
+      "negated": false,
+      "properties": {
+        "moral_framing": "the calibration is the engine of the harm; the trade was correct on the terms available at the time, and the novel does not soften this",
+        "offer_content": "a year of the best sex of her life",
+        "structural_nature": "calibrated to be undeclinable / the best offer of her life",
+        "construction_manner": "with love, care, real attention"
+      }
+    },
+    {
+      "to": "Vivienne",
+      "relationship": "observed/read by",
+      "negated": false,
+      "properties": {
+        "note": "Vee could read the whole man off the shoe rack before he says a word; her working-class framework repeatedly supplies the wrong category (canned-peaches misread, dance-partner jealousy, expected-repetitive-meal misread)"
       }
     }
   ],

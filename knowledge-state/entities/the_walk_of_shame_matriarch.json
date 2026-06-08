@@ -50,14 +50,6 @@
   "temporal_states": [],
   "relationships": [
     {
-      "to": "Randi",
-      "relationship": "outranks in house hierarchy",
-      "negated": false,
-      "properties": {
-        "detail": "She outranks Randi; Randi sits on the board as Standards; the one fact Randi's self-arrangement can't rearrange; she out-operates Randi"
-      }
-    },
-    {
       "to": "Sloane",
       "relationship": "routes flattery through",
       "negated": false,
@@ -79,6 +71,14 @@
       "negated": false,
       "properties": {
         "detail": "the one person in the sorority who out-operates Randi"
+      }
+    },
+    {
+      "to": "Vivienne",
+      "relationship": "outranks in house hierarchy",
+      "negated": false,
+      "properties": {
+        "detail": "She outranks Randi; Randi sits on the board as Standards; the one fact Randi's self-arrangement can't rearrange; she out-operates Randi"
       }
     }
   ],

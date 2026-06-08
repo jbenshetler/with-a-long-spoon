@@ -65,19 +65,6 @@
       }
     },
     {
-      "to": "Vee",
-      "relationship": "imposes_cost_on",
-      "negated": false,
-      "properties": {
-        "costs": [
-          "the wait",
-          "the uncertainty"
-        ],
-        "actual_effect": "the wound",
-        "ostensible_purpose": "in service of Vee from his vantage"
-      }
-    },
-    {
       "to": "the chivalric grammar",
       "relationship": "separate_from_and_below",
       "negated": false,
@@ -91,6 +78,19 @@
       "negated": false,
       "properties": {
         "note": "The vow's cost on the page appears in porch-scene.md"
+      }
+    },
+    {
+      "to": "Vivienne",
+      "relationship": "imposes_cost_on",
+      "negated": false,
+      "properties": {
+        "costs": [
+          "the wait",
+          "the uncertainty"
+        ],
+        "actual_effect": "the wound",
+        "ostensible_purpose": "in service of Vee from his vantage"
       }
     }
   ],
