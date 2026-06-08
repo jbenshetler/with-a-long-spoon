@@ -276,7 +276,7 @@
     "source_reliable": true,
     "actual_truth": true,
     "notes": "Vee recounts the evening to Cassie in detail",
-    "scene_file": "scenes/vee-tells-cassie-dinner.md",
+    "scene_file": "scenes/vee-tells-cassie-fitting.md",
     "chapter_number": 13
   },
   {
@@ -286,7 +286,7 @@
     "source_reliable": true,
     "actual_truth": true,
     "notes": "Vee describes the tea service; treated as sincere recollection",
-    "scene_file": "scenes/vee-tells-cassie-dinner.md",
+    "scene_file": "scenes/vee-tells-cassie-fitting.md",
     "chapter_number": 13
   },
   {
@@ -296,7 +296,7 @@
     "source_reliable": true,
     "actual_truth": true,
     "notes": "Vee explicitly insists she acted of her own volition and was not coerced or intoxicated",
-    "scene_file": "scenes/vee-tells-cassie-dinner.md",
+    "scene_file": "scenes/vee-tells-cassie-fitting.md",
     "chapter_number": 13
   },
   {
@@ -306,7 +306,7 @@
     "source_reliable": true,
     "actual_truth": true,
     "notes": "Cassie's joking question about drink implies she had not known this; Vee corrects her emphatically",
-    "scene_file": "scenes/vee-tells-cassie-dinner.md",
+    "scene_file": "scenes/vee-tells-cassie-fitting.md",
     "chapter_number": 13
   },
   {
@@ -316,7 +316,7 @@
     "source_reliable": true,
     "actual_truth": false,
     "notes": "This is Vee's stated self-knowledge; actual_truth left null because the novel may later complicate it \u2014 the vignette framing ('before Randi reshapes it') hints at future recontextualization",
-    "scene_file": "scenes/vee-tells-cassie-dinner.md",
+    "scene_file": "scenes/vee-tells-cassie-fitting.md",
     "chapter_number": 13
   },
   {
@@ -326,7 +326,7 @@
     "source_reliable": true,
     "actual_truth": true,
     "notes": null,
-    "scene_file": "scenes/vee-tells-cassie-dinner.md",
+    "scene_file": "scenes/vee-tells-cassie-fitting.md",
     "chapter_number": 13
   },
   {
@@ -336,7 +336,7 @@
     "source_reliable": true,
     "actual_truth": true,
     "notes": null,
-    "scene_file": "scenes/vee-tells-cassie-dinner.md",
+    "scene_file": "scenes/vee-tells-cassie-fitting.md",
     "chapter_number": 13
   },
   {
@@ -346,7 +346,7 @@
     "source_reliable": true,
     "actual_truth": false,
     "notes": "Vee states this as fact she knows; actual_truth unverifiable from scene alone but no reason given to doubt it",
-    "scene_file": "scenes/vee-tells-cassie-dinner.md",
+    "scene_file": "scenes/vee-tells-cassie-fitting.md",
     "chapter_number": 13
   },
   {
@@ -356,7 +356,7 @@
     "source_reliable": true,
     "actual_truth": false,
     "notes": "Reported second-hand from Pace via Vee; plausible but unverified",
-    "scene_file": "scenes/vee-tells-cassie-dinner.md",
+    "scene_file": "scenes/vee-tells-cassie-fitting.md",
     "chapter_number": 13
   },
   {
@@ -366,7 +366,7 @@
     "source_reliable": true,
     "actual_truth": true,
     "notes": "Vee admits she has not yet seen his house and hasn't determined his financial situation",
-    "scene_file": "scenes/vee-tells-cassie-dinner.md",
+    "scene_file": "scenes/vee-tells-cassie-fitting.md",
     "chapter_number": 13
   },
   {
@@ -376,7 +376,7 @@
     "source_reliable": true,
     "actual_truth": false,
     "notes": "Reported second-hand from Pace via Vee",
-    "scene_file": "scenes/vee-tells-cassie-dinner.md",
+    "scene_file": "scenes/vee-tells-cassie-fitting.md",
     "chapter_number": 13
   },
   {
@@ -386,7 +386,7 @@
     "source_reliable": true,
     "actual_truth": true,
     "notes": "Cassie's second 'okay' is described as carrying belief; Vee registers this shift",
-    "scene_file": "scenes/vee-tells-cassie-dinner.md",
+    "scene_file": "scenes/vee-tells-cassie-fitting.md",
     "chapter_number": 13
   },
   {
@@ -396,7 +396,7 @@
     "source_reliable": true,
     "actual_truth": true,
     "notes": "Self-realization prompted by Cassie's question; Vee explicitly notes it hadn't occurred to her before",
-    "scene_file": "scenes/vee-tells-cassie-dinner.md",
+    "scene_file": "scenes/vee-tells-cassie-fitting.md",
     "chapter_number": 13
   },
   {
@@ -1058,6 +1058,146 @@
     "notes": "This is something Vee comes to know about herself and the encounter during the scene, on reflection",
     "scene_file": "scenes/together-in-class.md",
     "chapter_number": 4
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "Peter Pace made the flannel shirt he gave her \u2014 it has no tag because he made it himself",
+    "source_character": "Peter Pace",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee had been puzzling over the missing tag for a week and only learned the truth at the fitting",
+    "scene_file": "scenes/vee-tells-cassie-fitting.md",
+    "chapter_number": 13
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "Pace made the collar of the shirt four times before he was satisfied with it",
+    "source_character": "Peter Pace",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Pace stated this himself at the fitting; Vee relays it to Cassie",
+    "scene_file": "scenes/vee-tells-cassie-fitting.md",
+    "chapter_number": 13
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "Pace turned the heat up in his house before she arrived so she would not be cold during the fitting",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee infers this from noticing the house was unusually warm; she arrives at the conclusion herself rather than being told",
+    "scene_file": "scenes/vee-tells-cassie-fitting.md",
+    "chapter_number": 13
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "Pace had been planning the dress for some time \u2014 he had fabric, a riser, and a plan ready before she arrived",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Observed directly at the fitting; she articulates the full picture here when recounting it to Cassie",
+    "scene_file": "scenes/vee-tells-cassie-fitting.md",
+    "chapter_number": 13
+  },
+  {
+    "character_name": "Cassandra",
+    "fact": "Pace is making Vee a burgundy silk skirt for her honor society induction",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": null,
+    "scene_file": "scenes/vee-tells-cassie-fitting.md",
+    "chapter_number": 13
+  },
+  {
+    "character_name": "Cassandra",
+    "fact": "Vee told Pace about the induction and the dress she wanted roughly three weeks ago",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee's own estimate, given with slight uncertainty",
+    "scene_file": "scenes/vee-tells-cassie-fitting.md",
+    "chapter_number": 13
+  },
+  {
+    "character_name": "Cassandra",
+    "fact": "Pace bought burgundy silk and had a riser built in preparation for the fitting",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": null,
+    "scene_file": "scenes/vee-tells-cassie-fitting.md",
+    "chapter_number": 13
+  },
+  {
+    "character_name": "Cassandra",
+    "fact": "The flannel shirt Vee has been sleeping in was made by Pace",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Cassie had already observed Vee wearing the shirt repeatedly; she now learns its origin",
+    "scene_file": "scenes/vee-tells-cassie-fitting.md",
+    "chapter_number": 13
+  },
+  {
+    "character_name": "Cassandra",
+    "fact": "Pace turned the heat up in his house before Vee arrived so she would not be cold",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee inferred this; Cassie accepts it and reacts with evident feeling",
+    "scene_file": "scenes/vee-tells-cassie-fitting.md",
+    "chapter_number": 13
+  },
+  {
+    "character_name": "Cassandra",
+    "fact": "Vee removed her bra as well as her shirt for the fitting at Pace's request",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": null,
+    "scene_file": "scenes/vee-tells-cassie-fitting.md",
+    "chapter_number": 13
+  },
+  {
+    "character_name": "Cassandra",
+    "fact": "Pace indicated Vee should remove her bra in a way that left her a choice rather than issuing a direct order",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee explicitly characterizes it this way: 'He left it open. He left me a door.'",
+    "scene_file": "scenes/vee-tells-cassie-fitting.md",
+    "chapter_number": 13
+  },
+  {
+    "character_name": "Cassandra",
+    "fact": "Vee had previously removed her shirt in front of Pace during a rain incident, and knocked on his window to do so",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Cassie apparently already knew about this event but Vee's confirmation and framing \u2014 'I was looking at his eyes the whole time' \u2014 is new detail",
+    "scene_file": "scenes/vee-tells-cassie-fitting.md",
+    "chapter_number": 13
+  },
+  {
+    "character_name": "Cassandra",
+    "fact": "Vee deliberately pressed herself against Pace while he was pinning the back seam",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee admits this herself as the punchline of the scene",
+    "scene_file": "scenes/vee-tells-cassie-fitting.md",
+    "chapter_number": 13
+  },
+  {
+    "character_name": "Cassandra",
+    "fact": "Pace is not gay \u2014 Vee cites that he kisses in a way inconsistent with that, and that she felt his erection during the fitting",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee is the direct source of both data points; actual_truth assessed as true within the story world based on the author's framing",
+    "scene_file": "scenes/vee-tells-cassie-fitting.md",
+    "chapter_number": 13
   },
   {
     "character_name": "Peter Pace",
