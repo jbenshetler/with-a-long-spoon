@@ -1121,6 +1121,116 @@
   },
   {
     "character_name": "Peter Pace",
+    "fact": "Randi wants to taste Vee \u2014 not as an offered gift or future arrangement, but as an immediate, unguarded desire ('I can't wait to taste her'), including tasting Vee secondhand off him after the fact",
+    "source_character": "Miranda",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Pace explicitly reads this as an unguarded slip ahead of Randi's plan, not a performative offer. He distinguishes it from the scaffolded version she might have intended. HIGH confidence on the learning; the scene narrates his interpretive process in detail.",
+    "scene_file": "scenes/ignition-scalding.md",
+    "chapter_number": 42
+  },
+  {
+    "character_name": "Peter Pace",
+    "fact": "Randi is willing \u2014 even eager \u2014 to take the subordinate position relative to Vee (arriving after, taking 'sloppy seconds'), despite ranking Vee beneath her in every daylight context",
+    "source_character": "Miranda",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Pace explicitly synthesizes the two statements ('I can't wait to taste her' and 'I would take sloppy seconds off her') into a single unambiguous sentence. The scene marks this as a clean resolution with no interpretive doubt left in him.",
+    "scene_file": "scenes/ignition-scalding.md",
+    "chapter_number": 42
+  },
+  {
+    "character_name": "Peter Pace",
+    "fact": "Randi's yes to the Tuesday arrangement came from a different source than where she had been pushing \u2014 her afternoon's seduction work did not produce his agreement; the unguarded slip did",
+    "source_character": null,
+    "source_reliable": false,
+    "actual_truth": true,
+    "notes": "Pace observes this himself and also watches Randi register the same flicker of 'that was easy' without understanding why. Internally generated knowledge, no external source.",
+    "scene_file": "scenes/ignition-scalding.md",
+    "chapter_number": 42
+  },
+  {
+    "character_name": "Peter Pace",
+    "fact": "Randi noticed that his agreement came from an unexpected source but chose not to pursue the question, letting the flicker go in favor of keeping what she'd gotten",
+    "source_character": null,
+    "source_reliable": false,
+    "actual_truth": true,
+    "notes": "Pace witnesses this directly and the narration confirms it: 'He watched her decide not to ask it.'",
+    "scene_file": "scenes/ignition-scalding.md",
+    "chapter_number": 42
+  },
+  {
+    "character_name": "Peter Pace",
+    "fact": "Randi's physical and emotional response to tasting Vee on him \u2014 the involuntary sound, the blown-open eyes, the body voting ahead of her composure \u2014 exceeded what she had budgeted or controlled for",
+    "source_character": null,
+    "source_reliable": false,
+    "actual_truth": true,
+    "notes": "Pace reads this directly from her body and the involuntary sound she cannot call back. He recognizes the same face he has seen before: 'the want surfacing past the management, the woman out ahead of her own composure.'",
+    "scene_file": "scenes/ignition-scalding.md",
+    "chapter_number": 42
+  },
+  {
+    "character_name": "Peter Pace",
+    "fact": "Randi can smell Vee on him",
+    "source_character": "Miranda",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Randi states this directly. Pace's body response ('heat, all heat') confirms he registers it as real and charged, not performative.",
+    "scene_file": "scenes/ignition-scalding.md",
+    "chapter_number": 42
+  },
+  {
+    "character_name": "Peter Pace",
+    "fact": "Vee drives a small Corolla, keeps a year-round wreath on her front door, and texts a photo of her door to confirm she's home safely",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Directly observed / received. Granular logistical detail; likely already known to Pace given the established relationship, but explicitly shown here.",
+    "scene_file": "scenes/ignition-scalding.md",
+    "chapter_number": 42
+  },
+  {
+    "character_name": "Peter Pace",
+    "fact": "Vee arrives put-together and leaves undone and does not seem to mind him seeing her undone; Pace has taken this as a form of trust",
+    "source_character": null,
+    "source_reliable": false,
+    "actual_truth": false,
+    "notes": "This is Pace's interpretive reading of Vee's behavior, not a stated fact. Actual truth uncertain \u2014 the scene does not confirm whether Vee consciously intends it as trust. Confidence LOW on the interpretation being correct; HIGH on the fact that Pace holds this belief.",
+    "scene_file": "scenes/ignition-scalding.md",
+    "chapter_number": 42
+  },
+  {
+    "character_name": "Peter Pace",
+    "fact": "Randi's face after the night \u2014 blank, emptied-out, faraway \u2014 is the same face he has seen once before in different lamplight after a different scene, indicating he reached fully into her",
+    "source_character": null,
+    "source_reliable": false,
+    "actual_truth": false,
+    "notes": "Pace reads the face as evidence he was 'that good' and that she is wrung out. He interprets the non-response of her hand as exhaustion, not emotional withdrawal. Whether his reading is correct is not confirmed by the scene \u2014 the narratorial register ('the dread is reread-only') suggests LOW confidence on actual truth.",
+    "scene_file": "scenes/ignition-scalding.md",
+    "chapter_number": 42
+  },
+  {
+    "character_name": "Miranda",
+    "fact": "Tasting Vee on Pace produced an involuntary, uncontrolled physical and vocal response in her that preceded her own consent",
+    "source_character": null,
+    "source_reliable": false,
+    "actual_truth": true,
+    "notes": "She hears the sound she makes and is caught by it \u2014 'caught not by him but by herself.' She registers this in the moment. HIGH confidence she is aware of it; the scene marks it as an experience she cannot call back.",
+    "scene_file": "scenes/ignition-scalding.md",
+    "chapter_number": 42
+  },
+  {
+    "character_name": "Miranda",
+    "fact": "Vee was at Pace's house earlier that evening \u2014 her scent is present on him",
+    "source_character": null,
+    "source_reliable": false,
+    "actual_truth": true,
+    "notes": "Randi detects this herself on arrival. Consistent with the arrangement Pace set up. She already knew Vee would be there; the sensory confirmation is new.",
+    "scene_file": "scenes/ignition-scalding.md",
+    "chapter_number": 42
+  },
+  {
+    "character_name": "Peter Pace",
     "fact": "Vivienne reached for his hand and brought it against her belly under the flannel when she discovered he was shivering",
     "source_character": null,
     "source_reliable": true,
