@@ -100,6 +100,86 @@
     "chapter_number": 11
   },
   {
+    "character_name": "Miranda",
+    "fact": "The smell of his flannel shirt she had been sleeping in at home was only an approximate, stored version of his actual scent; the real thing is warmer and more specific than she had understood",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "She explicitly reflects that she had thought she knew his scent from the shirt and had been wrong",
+    "scene_file": "scenes/first-night.md",
+    "chapter_number": 18
+  },
+  {
+    "character_name": "Miranda",
+    "fact": "He has a surgical scar on the inside of his thigh, close to the hip, old and smooth and slightly raised",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "She discovers it by touch and sight; she consciously files it as a fact without a frame, explicitly deferring interpretation",
+    "scene_file": "scenes/first-night.md",
+    "chapter_number": 18
+  },
+  {
+    "character_name": "Miranda",
+    "fact": "She is capable of experiencing sexual pleasure without managing, observing, or narrating it to herself while it is happening \u2014 this is, for her, a first",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "The scene states explicitly 'It was the first time that had been true,' referring to her not managing or narrating the experience",
+    "scene_file": "scenes/first-night.md",
+    "chapter_number": 18
+  },
+  {
+    "character_name": "Miranda",
+    "fact": "Her shame and her arousal run on the same wire and have no seam between them; she has stopped looking for one",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "This is presented as a realization she arrives at during the scene, not something she knew before",
+    "scene_file": "scenes/first-night.md",
+    "chapter_number": 18
+  },
+  {
+    "character_name": "Miranda",
+    "fact": "He had opened the Chianti before she arrived and done all preparation for the meal and then stopped, waiting for her",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "She observes this on arrival; the pre-arrival preparation is new information to her",
+    "scene_file": "scenes/first-night.md",
+    "chapter_number": 18
+  },
+  {
+    "character_name": "Miranda",
+    "fact": "His body is that of a man who uses himself continuously \u2014 woodworker's shoulders, powerlifter's arms \u2014 fully resolved from the outline she had only glimpsed on the hike",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "She explicitly frames this as 'the resolution' to the 'outline' the hike had given her",
+    "scene_file": "scenes/first-night.md",
+    "chapter_number": 18
+  },
+  {
+    "character_name": "Miranda",
+    "fact": "His expression when he saw the evidence of her arousal was the same as in the fitting room, scaled up \u2014 her body producing evidence that his presence was landing, and that being the good thing",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "She reads his expression and consciously connects it to the fitting room moment; something shifts in her chest",
+    "scene_file": "scenes/first-night.md",
+    "chapter_number": 18
+  },
+  {
+    "character_name": "Miranda",
+    "fact": "The color of the burgundy nail polish she chose was close to the silk he held to her face in the fitting room",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "She noticed the connection herself; this is confirmation of a link she had already made and returned to multiple times before the scene begins, but it is foregrounded here as something she had been processing",
+    "scene_file": "scenes/first-night.md",
+    "chapter_number": 18
+  },
+  {
     "character_name": "Vivienne",
     "fact": "Randi's Mercedes convertible is dark green, long and low, and the window drops automatically when you reach for the door handle, then re-seals when the door shuts.",
     "source_character": null,
