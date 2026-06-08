@@ -810,6 +810,156 @@
     "chapter_number": 5
   },
   {
+    "character_name": "Vivienne",
+    "fact": "The trail's opening grade is steep but eases in as you climb further",
+    "source_character": "Peter Pace",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Pace told her 'It eases in' and the scene confirms this as she finds her rhythm later",
+    "scene_file": "scenes/hiking-rainstorm.md",
+    "chapter_number": 10
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "Pace has been to this trail before and considers the summit worth the climb",
+    "source_character": "Peter Pace",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": null,
+    "scene_file": "scenes/hiking-rainstorm.md",
+    "chapter_number": 10
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "The boot problem (heel slip causing a hot spot) could have been addressed at the trailhead and Pace regrets not checking earlier",
+    "source_character": "Peter Pace",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": null,
+    "scene_file": "scenes/hiking-rainstorm.md",
+    "chapter_number": 10
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "Moleskin applied to a heel hot spot and relacing the boot tighter at the ankle can resolve the rubbing problem",
+    "source_character": "Peter Pace",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "She experiences the fix working directly",
+    "scene_file": "scenes/hiking-rainstorm.md",
+    "chapter_number": 10
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "Leave No Trace practice requires packing out organic waste such as fruit pits",
+    "source_character": "Peter Pace",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Pace corrects her gently when she spits a cherry pit; he demonstrates the correct behavior himself",
+    "scene_file": "scenes/hiking-rainstorm.md",
+    "chapter_number": 10
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "Pace read the sky and predicted rain was coming before it arrived",
+    "source_character": "Peter Pace",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "The rain does arrive shortly after he calls it",
+    "scene_file": "scenes/hiking-rainstorm.md",
+    "chapter_number": 10
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "Pace packed a dry flannel shirt in his gym bag behind the truck seat",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "She observes this directly when he retrieves it",
+    "scene_file": "scenes/hiking-rainstorm.md",
+    "chapter_number": 10
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "Pace stepped out of the truck and stood in the rain with his back to her to give her privacy to change",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": null,
+    "scene_file": "scenes/hiking-rainstorm.md",
+    "chapter_number": 10
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "Pace was shivering from prolonged cold and wet exposure while she was focused on her own heat and desire",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "She discovers this by touch when she reaches for his hand",
+    "scene_file": "scenes/hiking-rainstorm.md",
+    "chapter_number": 10
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "Pace parked illegally on the fire lane under the overhang so she would not have to cross the rain to reach the dorm entrance",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee explicitly registers his intention",
+    "scene_file": "scenes/hiking-rainstorm.md",
+    "chapter_number": 10
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "A campus cop pulled up and moved Pace on before she could finish what she had started to say to him",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": null,
+    "scene_file": "scenes/hiking-rainstorm.md",
+    "chapter_number": 10
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "Pace looked at her body when she opened her shirt and his expression showed want, gladness, and stillness",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "She directly observes and interprets his face",
+    "scene_file": "scenes/hiking-rainstorm.md",
+    "chapter_number": 10
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "Pace watched her on the summit \u2014 looking at her face rather than the valley \u2014 and did not look away when caught",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": null,
+    "scene_file": "scenes/hiking-rainstorm.md",
+    "chapter_number": 10
+  },
+  {
+    "character_name": "Peter Pace",
+    "fact": "Vivienne's boots were not properly fitted (a half size too large, stiff at the ankle) and she developed a heel hot spot during the climb",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "He diagnoses and treats the hot spot directly",
+    "scene_file": "scenes/hiking-rainstorm.md",
+    "chapter_number": 10
+  },
+  {
+    "character_name": "Peter Pace",
+    "fact": "Vivienne called him back into the cab and deliberately unbuttoned her shirt in front of him",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": null,
+    "scene_file": "scenes/hiking-rainstorm.md",
+    "chapter_number": 10
+  },
+  {
     "character_name": "Peter Pace",
     "fact": "Vee told him she had been eating crackers her whole life and that he fed her a meal and she now knows what a meal is",
     "source_character": "Vivienne",
@@ -878,6 +1028,16 @@
     "notes": "Randi learns this directly from the brief introduction she engineers on the lawn",
     "scene_file": "scenes/origin-campus-walk.md",
     "chapter_number": 3
+  },
+  {
+    "character_name": "Peter Pace",
+    "fact": "Vivienne reached for his hand and brought it against her belly under the flannel when she discovered he was shivering",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": null,
+    "scene_file": "scenes/hiking-rainstorm.md",
+    "chapter_number": 10
   },
   {
     "character_name": "Vivienne",
