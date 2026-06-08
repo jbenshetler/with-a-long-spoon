@@ -1616,14 +1616,6 @@
     "source_scene": "scenes/hiking-rainstorm.md"
   },
   {
-    "question": "What recurring physical characteristic does Vee have in outdoor or windswept environments?",
-    "expected_answer": "Vee's hair is consistently caught and moved by wind \u2014 it falls across her face and escapes pins or tucks, functioning as a recurring physical signature in open-air scenes.",
-    "entity_name": "Vee",
-    "stale": false,
-    "last_result": null,
-    "source_scene": "scenes/hiking-rainstorm.md"
-  },
-  {
     "question": "What is Cassie's characteristic posture when she is fully engaged in a conversation?",
     "expected_answer": "Cassie pulls herself up from whatever she is doing, perches on the edge of a surface, draws her knees to her chest with her arms around them, and leans in \u2014 a physically compact, attentive posture.",
     "entity_name": "Cassie",
@@ -1646,6 +1638,14 @@
     "stale": false,
     "last_result": "FAIL",
     "source_scene": "scenes/the-meet-cute.md"
+  },
+  {
+    "question": "What recurring physical characteristic does Vee have in outdoor or windswept environments?",
+    "expected_answer": "Vee's hair is consistently caught and moved by wind \u2014 it falls across her face and escapes pins or tucks, functioning as a recurring physical signature in open-air scenes.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/hiking-rainstorm.md"
   },
   {
     "question": "What is Vee's field of study and what draws her to it?",
@@ -1960,14 +1960,6 @@
     "source_scene": "scenes/together-in-class.md"
   },
   {
-    "question": "What is Cassie's established social role relative to Vee?",
-    "expected_answer": "Cassie is Vee's close companion \u2014 they share a hall, attend the same classes, and live together \u2014 functioning as Vee's steady, low-affect counterweight to Vee's socially attuned navigation of the world.",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": null,
-    "source_scene": "scenes/together-in-class.md"
-  },
-  {
     "question": "How does Vee handle social moments that feel subtly wrong or off-rhythm?",
     "expected_answer": "When something registers as socially wrong, Vee's face automatically smooths \u2014 she masks the dissonance outwardly and quickly files the wrongness away under a rationalizing label rather than examining it.",
     "entity_name": "Vee",
@@ -2184,14 +2176,6 @@
     "source_scene": "scenes/brunch-fitting-randi.md"
   },
   {
-    "question": "What is Pace's characteristic relationship to his own physical arousal and self-regulation?",
-    "expected_answer": "Pace is aware of his own arousal states and actively works to regulate them \u2014 deliberately slowing his breath and monitoring his heartbeat \u2014 but his body still surges ahead of his control at key moments of anticipation, a consistent internal pattern.",
-    "entity_name": "Pace",
-    "stale": false,
-    "last_result": null,
-    "source_scene": "scenes/ignition-scalding.md"
-  },
-  {
     "question": "What recurring internal voice does the female protagonist experience during moments of sexual arousal or intimacy, and what is its origin?",
     "expected_answer": "She hears her mother's word 'floozie' as an intrusive shaming voice during moments of arousal. The voice is maternal in origin and functions as an automatic loop she cannot stop but has learned to burn through rather than escape.",
     "entity_name": "female protagonist",
@@ -2230,6 +2214,14 @@
     "stale": false,
     "last_result": "PASS",
     "source_scene": "scenes/the-meet-cute.md"
+  },
+  {
+    "question": "What is Pace's characteristic relationship to his own physical arousal and self-regulation?",
+    "expected_answer": "Pace is aware of his own arousal states and actively works to regulate them \u2014 deliberately slowing his breath and monitoring his heartbeat \u2014 but his body still surges ahead of his control at key moments of anticipation, a consistent internal pattern.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/ignition-scalding.md"
   },
   {
     "question": "What is Randi's tell when she is concealing a strong emotional reaction while maintaining a social performance?",
@@ -2982,5 +2974,13 @@
     "stale": false,
     "last_result": "FAIL",
     "source_scene": "scenes/origin-campus-walk.md"
+  },
+  {
+    "question": "What is Cassie's established social role relative to Vee?",
+    "expected_answer": "Cassie is Vee's close companion \u2014 they share a hall, attend the same classes, and live together \u2014 functioning as Vee's steady, low-affect counterweight to Vee's socially attuned navigation of the world.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/together-in-class.md"
   }
 ]

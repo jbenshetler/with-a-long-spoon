@@ -180,6 +180,136 @@
     "chapter_number": 18
   },
   {
+    "character_name": "Cassandra",
+    "fact": "Vee went on a dinner date with a man named Pace that same evening",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee recounts the evening to Cassie in detail",
+    "scene_file": "scenes/vee-tells-cassie-dinner.md",
+    "chapter_number": 13
+  },
+  {
+    "character_name": "Cassandra",
+    "fact": "The tea at dinner was served in glasses with brass cage handles because the glass was too hot to hold",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee describes the tea service; treated as sincere recollection",
+    "scene_file": "scenes/vee-tells-cassie-dinner.md",
+    "chapter_number": 13
+  },
+  {
+    "character_name": "Cassandra",
+    "fact": "Vee initiated a kiss with Pace herself, after he had already begun walking away",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee explicitly insists she acted of her own volition and was not coerced or intoxicated",
+    "scene_file": "scenes/vee-tells-cassie-dinner.md",
+    "chapter_number": 13
+  },
+  {
+    "character_name": "Cassandra",
+    "fact": "There was no alcohol at the dinner \u2014 only tea",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Cassie's joking question about drink implies she had not known this; Vee corrects her emphatically",
+    "scene_file": "scenes/vee-tells-cassie-dinner.md",
+    "chapter_number": 13
+  },
+  {
+    "character_name": "Cassandra",
+    "fact": "Vee believes she kissed Pace entirely of her own free will and desire, without being pressured or manipulated",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": false,
+    "notes": "This is Vee's stated self-knowledge; actual_truth left null because the novel may later complicate it \u2014 the vignette framing ('before Randi reshapes it') hints at future recontextualization",
+    "scene_file": "scenes/vee-tells-cassie-dinner.md",
+    "chapter_number": 13
+  },
+  {
+    "character_name": "Cassandra",
+    "fact": "Pace has invited Vee on a hiking trip and Vee accepted",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": null,
+    "scene_file": "scenes/vee-tells-cassie-dinner.md",
+    "chapter_number": 13
+  },
+  {
+    "character_name": "Cassandra",
+    "fact": "The man's name is Pace",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": null,
+    "scene_file": "scenes/vee-tells-cassie-dinner.md",
+    "chapter_number": 13
+  },
+  {
+    "character_name": "Cassandra",
+    "fact": "Pace lives west of town, off route 614, past where the road goes to gravel",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": false,
+    "notes": "Vee states this as fact she knows; actual_truth unverifiable from scene alone but no reason given to doubt it",
+    "scene_file": "scenes/vee-tells-cassie-dinner.md",
+    "chapter_number": 13
+  },
+  {
+    "character_name": "Cassandra",
+    "fact": "There is a hiking trail Pace frequents near his home",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": false,
+    "notes": "Reported second-hand from Pace via Vee; plausible but unverified",
+    "scene_file": "scenes/vee-tells-cassie-dinner.md",
+    "chapter_number": 13
+  },
+  {
+    "character_name": "Cassandra",
+    "fact": "Vee does not know whether Pace is wealthy",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee admits she has not yet seen his house and hasn't determined his financial situation",
+    "scene_file": "scenes/vee-tells-cassie-dinner.md",
+    "chapter_number": 13
+  },
+  {
+    "character_name": "Cassandra",
+    "fact": "Pace told Vee she must wear real shoes for the hike",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": false,
+    "notes": "Reported second-hand from Pace via Vee",
+    "scene_file": "scenes/vee-tells-cassie-dinner.md",
+    "chapter_number": 13
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "Cassie is willing to accept that Vee acted freely and intentionally in kissing Pace",
+    "source_character": "Cassandra",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Cassie's second 'okay' is described as carrying belief; Vee registers this shift",
+    "scene_file": "scenes/vee-tells-cassie-dinner.md",
+    "chapter_number": 13
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "She does not know whether Pace is wealthy, and had not thought about it until Cassie raised it",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Self-realization prompted by Cassie's question; Vee explicitly notes it hadn't occurred to her before",
+    "scene_file": "scenes/vee-tells-cassie-dinner.md",
+    "chapter_number": 13
+  },
+  {
     "character_name": "Vivienne",
     "fact": "Randi's Mercedes convertible is dark green, long and low, and the window drops automatically when you reach for the door handle, then re-seals when the door shuts.",
     "source_character": null,
