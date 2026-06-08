@@ -100,6 +100,96 @@
     "chapter_number": 11
   },
   {
+    "character_name": "Vivienne",
+    "fact": "She has been carrying unsaid words of love for Pace and has a self-imposed rule that she will not say 'I love you' before he does",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Surfaced in her interior during this scene; the rule is her own, discovered from the inside by bumping against it",
+    "scene_file": "scenes/porch-scene.md",
+    "chapter_number": 33
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "She said her cracker-and-meal sentence aloud to Pace \u2014 the full prepared sentence, whole, as she had built it",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "The scene presents this as a decisive completed act, not a partial or fumbled one",
+    "scene_file": "scenes/porch-scene.md",
+    "chapter_number": 33
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "Pace's verbal response to her sentence was 'I love how good we are together' and 'I never had this either \u2014 what you do \u2014 what your body does \u2014 I've never. I'm glad you feel it too'",
+    "source_character": "Peter Pace",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "She heard the words directly; their meaning and adequacy are what she will be uncertain about later",
+    "scene_file": "scenes/porch-scene.md",
+    "chapter_number": 33
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "Pace responded to her sentence with physical warmth: a deliberate pull closer, a longer-than-usual held kiss on her crown, his cheek settling against her hair",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "She registered this bodily and received it; she also registered the small hesitation before it (the two breaths, the stopped hand)",
+    "scene_file": "scenes/porch-scene.md",
+    "chapter_number": 33
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "Something in Pace's response did not match the shape of what she had said \u2014 her body registered a mismatch before her mind could name it",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "The 'small wait behind her sternum' is a body-before-mind registration; she does not consciously articulate the mismatch in the scene's present, only senses it",
+    "scene_file": "scenes/porch-scene.md",
+    "chapter_number": 33
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "She will not say the cracker-and-meal sentence again; the saying was a one-time opening and Pace did not give the answer she was waiting for",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "This is a decision she arrives at in the 'later' passage \u2014 not during the scene's present but shortly after; confidence HIGH because the narration states it directly",
+    "scene_file": "scenes/porch-scene.md",
+    "chapter_number": 33
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "Pace's sentence and her sentence were 'not the same shape'",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "She allows this formulation into herself days later but does not finish the thought; she cannot determine whether he understood and routed around it or did not understand; the uncertainty is the load the scene installs",
+    "scene_file": "scenes/porch-scene.md",
+    "chapter_number": 33
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "She was received warmly",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "She tells herself this as evidence, in the private way you remind yourself of evidence whose weight you are not sure of \u2014 the narration marks her uncertainty about how much weight it bears",
+    "scene_file": "scenes/porch-scene.md",
+    "chapter_number": 33
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "She does not know what happened in the exchange \u2014 whether Pace understood her and chose to respond as he did, or did not understand",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "She lands on this as a position she cannot resolve; the not-knowing is explicitly what the scene installs in her",
+    "scene_file": "scenes/porch-scene.md",
+    "chapter_number": 33
+  },
+  {
     "character_name": "Miranda",
     "fact": "The smell of his flannel shirt she had been sleeping in at home was only an approximate, stored version of his actual scent; the real thing is warmer and more specific than she had understood",
     "source_character": null,
@@ -678,6 +768,16 @@
     "notes": "Cassie observes this directly and reports it plainly; the narrator confirms her read is accurate",
     "scene_file": "scenes/the-meet-cute.md",
     "chapter_number": 5
+  },
+  {
+    "character_name": "Peter Pace",
+    "fact": "Vee told him she had been eating crackers her whole life and that he fed her a meal and she now knows what a meal is",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "He heard the sentence directly; whether he fully understood it as a declaration of love is ambiguous by the scene's design \u2014 his physical response (two breaths, stopped hand) suggests he registered something significant",
+    "scene_file": "scenes/porch-scene.md",
+    "chapter_number": 33
   },
   {
     "character_name": "Vivienne",
