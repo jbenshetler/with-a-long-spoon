@@ -12,57 +12,9 @@
       "value": "does not name the attenuation; does not perceive the bargain as a bargain; the question 'what did I pay?' does not form in him"
     }
   ],
-  "behavioral_states": [
-    {
-      "state_name": "defending the 'not finally the lady' reading",
-      "trigger": "evidence accumulates that Vee was the apex",
-      "response": "the reading holds against the evidence by becoming more elaborate rather than being challenged or abandoned",
-      "observable": "increasingly elaborate interpretation; growing loneliness in the reading each year",
-      "distinguish_from": [
-        "revising the reading in light of evidence",
-        "abandoning the reading"
-      ]
-    },
-    {
-      "state_name": "agreeing to advance",
-      "trigger": "being asked/offered to advance again",
-      "response": "says yes, without the question 'what did I pay?' forming in him",
-      "observable": "consents to advancing again",
-      "distinguish_from": [
-        "weighing the cost before consenting",
-        "declining to advance"
-      ]
-    }
-  ],
-  "temporal_states": [
-    {
-      "attribute": "habitability of the jazz bar to him",
-      "value": "the jazz bar becomes uninhabitable",
-      "after_event": "the progressive attenuation/narrowing of the substrate field with aging",
-      "before_event": null,
-      "event_resolved": true
-    }
-  ],
-  "relationships": [
-    {
-      "to": "jazz bar",
-      "relationship": "associated location",
-      "negated": false,
-      "properties": {
-        "status": "becomes uninhabitable to him over time"
-      }
-    },
-    {
-      "to": "Vivienne",
-      "relationship": "subject of his interpretive 'reading'",
-      "negated": false,
-      "properties": {
-        "note": "he sustains the reading by elaboration rather than revision",
-        "reading": "'not finally the lady'",
-        "tension": "evidence accumulates that Vee was the apex, contradicting his reading"
-      }
-    }
-  ],
+  "behavioral_states": [],
+  "temporal_states": [],
+  "relationships": [],
   "negations": [],
   "extraction_confidence": "HIGH",
   "source_document": "meta/meta-arch-pace.md",

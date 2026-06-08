@@ -1,766 +1,6 @@
 [
   {
-    "character_name": "Cassandra",
-    "fact": "Vee went on a date with a man named Pace that same evening",
-    "source_character": "Vivienne",
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Vee recounts the evening in detail immediately upon returning to the dorm room",
-    "scene_file": "scenes/cassie-before.md",
-    "chapter_number": 11
-  },
-  {
-    "character_name": "Cassandra",
-    "fact": "The date involved tea served in glasses with brass cage handles",
-    "source_character": "Vivienne",
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Vee describes this detail specifically; no alcohol was involved",
-    "scene_file": "scenes/cassie-before.md",
-    "chapter_number": 11
-  },
-  {
-    "character_name": "Cassandra",
-    "fact": "Vee kissed Pace \u2014 she initiated it herself, after he had already begun walking away",
-    "source_character": "Vivienne",
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Vee is emphatic that she was not talked into it and acted of her own volition",
-    "scene_file": "scenes/cassie-before.md",
-    "chapter_number": 11
-  },
-  {
-    "character_name": "Cassandra",
-    "fact": "Vee had first declined to kiss Pace, citing a personal rule about not kissing a man she has known only a few days",
-    "source_character": "Vivienne",
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Vee frames this as something her mother would say and confirms it is genuinely her own rule",
-    "scene_file": "scenes/cassie-before.md",
-    "chapter_number": 11
-  },
-  {
-    "character_name": "Cassandra",
-    "fact": "Pace responded to Vee's initial refusal without pressure \u2014 he smiled and resumed walking as though it were fine",
-    "source_character": "Vivienne",
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": null,
-    "scene_file": "scenes/cassie-before.md",
-    "chapter_number": 11
-  },
-  {
-    "character_name": "Cassandra",
-    "fact": "Pace has invited Vee on a hiking trip and she accepted quickly",
-    "source_character": "Vivienne",
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Vee notes she said yes very fast",
-    "scene_file": "scenes/cassie-before.md",
-    "chapter_number": 11
-  },
-  {
-    "character_name": "Cassandra",
-    "fact": "Pace lives west of town, off Route 614, past where it turns to gravel, near the trail they plan to hike",
-    "source_character": "Vivienne",
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Cassie explicitly notes this is imprecise as an address; Vee does not have a more specific location",
-    "scene_file": "scenes/cassie-before.md",
-    "chapter_number": 11
-  },
-  {
-    "character_name": "Cassandra",
-    "fact": "Pace told Vee to wear real shoes for the hike",
-    "source_character": "Vivienne",
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": null,
-    "scene_file": "scenes/cassie-before.md",
-    "chapter_number": 11
-  },
-  {
-    "character_name": "Cassandra",
-    "fact": "Vee does not own appropriate hiking shoes and will need to borrow a pair",
-    "source_character": "Vivienne",
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Cassie herself independently states Vee doesn't own real shoes; Vee does not dispute it",
-    "scene_file": "scenes/cassie-before.md",
-    "chapter_number": 11
-  },
-  {
-    "character_name": "Vivienne",
-    "fact": "Cassie's initial concern that Vee may have been given alcohol or otherwise influenced is dispelled \u2014 Cassie accepts that Vee acted freely",
-    "source_character": "Vivienne",
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Vee registers that Cassie's 'okay' the second time carries genuine belief; this is framed from Vee's POV as a meaningful shift",
-    "scene_file": "scenes/cassie-before.md",
-    "chapter_number": 11
-  },
-  {
-    "character_name": "Vivienne",
-    "fact": "She has been carrying unsaid words of love for Pace and has a self-imposed rule that she will not say 'I love you' before he does",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Surfaced in her interior during this scene; the rule is her own, discovered from the inside by bumping against it",
-    "scene_file": "scenes/porch-scene.md",
-    "chapter_number": 33
-  },
-  {
-    "character_name": "Vivienne",
-    "fact": "She said her cracker-and-meal sentence aloud to Pace \u2014 the full prepared sentence, whole, as she had built it",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "The scene presents this as a decisive completed act, not a partial or fumbled one",
-    "scene_file": "scenes/porch-scene.md",
-    "chapter_number": 33
-  },
-  {
-    "character_name": "Vivienne",
-    "fact": "Pace's verbal response to her sentence was 'I love how good we are together' and 'I never had this either \u2014 what you do \u2014 what your body does \u2014 I've never. I'm glad you feel it too'",
-    "source_character": "Peter Pace",
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "She heard the words directly; their meaning and adequacy are what she will be uncertain about later",
-    "scene_file": "scenes/porch-scene.md",
-    "chapter_number": 33
-  },
-  {
-    "character_name": "Vivienne",
-    "fact": "Pace responded to her sentence with physical warmth: a deliberate pull closer, a longer-than-usual held kiss on her crown, his cheek settling against her hair",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "She registered this bodily and received it; she also registered the small hesitation before it (the two breaths, the stopped hand)",
-    "scene_file": "scenes/porch-scene.md",
-    "chapter_number": 33
-  },
-  {
-    "character_name": "Vivienne",
-    "fact": "Something in Pace's response did not match the shape of what she had said \u2014 her body registered a mismatch before her mind could name it",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "The 'small wait behind her sternum' is a body-before-mind registration; she does not consciously articulate the mismatch in the scene's present, only senses it",
-    "scene_file": "scenes/porch-scene.md",
-    "chapter_number": 33
-  },
-  {
-    "character_name": "Vivienne",
-    "fact": "She will not say the cracker-and-meal sentence again; the saying was a one-time opening and Pace did not give the answer she was waiting for",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "This is a decision she arrives at in the 'later' passage \u2014 not during the scene's present but shortly after; confidence HIGH because the narration states it directly",
-    "scene_file": "scenes/porch-scene.md",
-    "chapter_number": 33
-  },
-  {
-    "character_name": "Vivienne",
-    "fact": "Pace's sentence and her sentence were 'not the same shape'",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "She allows this formulation into herself days later but does not finish the thought; she cannot determine whether he understood and routed around it or did not understand; the uncertainty is the load the scene installs",
-    "scene_file": "scenes/porch-scene.md",
-    "chapter_number": 33
-  },
-  {
-    "character_name": "Vivienne",
-    "fact": "She was received warmly",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "She tells herself this as evidence, in the private way you remind yourself of evidence whose weight you are not sure of \u2014 the narration marks her uncertainty about how much weight it bears",
-    "scene_file": "scenes/porch-scene.md",
-    "chapter_number": 33
-  },
-  {
-    "character_name": "Vivienne",
-    "fact": "She does not know what happened in the exchange \u2014 whether Pace understood her and chose to respond as he did, or did not understand",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "She lands on this as a position she cannot resolve; the not-knowing is explicitly what the scene installs in her",
-    "scene_file": "scenes/porch-scene.md",
-    "chapter_number": 33
-  },
-  {
-    "character_name": "Miranda",
-    "fact": "The smell of his flannel shirt she had been sleeping in at home was only an approximate, stored version of his actual scent; the real thing is warmer and more specific than she had understood",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "She explicitly reflects that she had thought she knew his scent from the shirt and had been wrong",
-    "scene_file": "scenes/first-night.md",
-    "chapter_number": 18
-  },
-  {
-    "character_name": "Miranda",
-    "fact": "He has a surgical scar on the inside of his thigh, close to the hip, old and smooth and slightly raised",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "She discovers it by touch and sight; she consciously files it as a fact without a frame, explicitly deferring interpretation",
-    "scene_file": "scenes/first-night.md",
-    "chapter_number": 18
-  },
-  {
-    "character_name": "Miranda",
-    "fact": "She is capable of experiencing sexual pleasure without managing, observing, or narrating it to herself while it is happening \u2014 this is, for her, a first",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "The scene states explicitly 'It was the first time that had been true,' referring to her not managing or narrating the experience",
-    "scene_file": "scenes/first-night.md",
-    "chapter_number": 18
-  },
-  {
-    "character_name": "Miranda",
-    "fact": "Her shame and her arousal run on the same wire and have no seam between them; she has stopped looking for one",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "This is presented as a realization she arrives at during the scene, not something she knew before",
-    "scene_file": "scenes/first-night.md",
-    "chapter_number": 18
-  },
-  {
-    "character_name": "Miranda",
-    "fact": "He had opened the Chianti before she arrived and done all preparation for the meal and then stopped, waiting for her",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "She observes this on arrival; the pre-arrival preparation is new information to her",
-    "scene_file": "scenes/first-night.md",
-    "chapter_number": 18
-  },
-  {
-    "character_name": "Miranda",
-    "fact": "His body is that of a man who uses himself continuously \u2014 woodworker's shoulders, powerlifter's arms \u2014 fully resolved from the outline she had only glimpsed on the hike",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "She explicitly frames this as 'the resolution' to the 'outline' the hike had given her",
-    "scene_file": "scenes/first-night.md",
-    "chapter_number": 18
-  },
-  {
-    "character_name": "Miranda",
-    "fact": "His expression when he saw the evidence of her arousal was the same as in the fitting room, scaled up \u2014 her body producing evidence that his presence was landing, and that being the good thing",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "She reads his expression and consciously connects it to the fitting room moment; something shifts in her chest",
-    "scene_file": "scenes/first-night.md",
-    "chapter_number": 18
-  },
-  {
-    "character_name": "Miranda",
-    "fact": "The color of the burgundy nail polish she chose was close to the silk he held to her face in the fitting room",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "She noticed the connection herself; this is confirmation of a link she had already made and returned to multiple times before the scene begins, but it is foregrounded here as something she had been processing",
-    "scene_file": "scenes/first-night.md",
-    "chapter_number": 18
-  },
-  {
-    "character_name": "Cassandra",
-    "fact": "Vee went on a dinner date with a man named Pace that same evening",
-    "source_character": "Vivienne",
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Vee recounts the evening to Cassie in detail",
-    "scene_file": "scenes/vee-tells-cassie-fitting.md",
-    "chapter_number": 13
-  },
-  {
-    "character_name": "Cassandra",
-    "fact": "The tea at dinner was served in glasses with brass cage handles because the glass was too hot to hold",
-    "source_character": "Vivienne",
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Vee describes the tea service; treated as sincere recollection",
-    "scene_file": "scenes/vee-tells-cassie-fitting.md",
-    "chapter_number": 13
-  },
-  {
-    "character_name": "Cassandra",
-    "fact": "Vee initiated a kiss with Pace herself, after he had already begun walking away",
-    "source_character": "Vivienne",
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Vee explicitly insists she acted of her own volition and was not coerced or intoxicated",
-    "scene_file": "scenes/vee-tells-cassie-fitting.md",
-    "chapter_number": 13
-  },
-  {
-    "character_name": "Cassandra",
-    "fact": "There was no alcohol at the dinner \u2014 only tea",
-    "source_character": "Vivienne",
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Cassie's joking question about drink implies she had not known this; Vee corrects her emphatically",
-    "scene_file": "scenes/vee-tells-cassie-fitting.md",
-    "chapter_number": 13
-  },
-  {
-    "character_name": "Cassandra",
-    "fact": "Vee believes she kissed Pace entirely of her own free will and desire, without being pressured or manipulated",
-    "source_character": "Vivienne",
-    "source_reliable": true,
-    "actual_truth": false,
-    "notes": "This is Vee's stated self-knowledge; actual_truth left null because the novel may later complicate it \u2014 the vignette framing ('before Randi reshapes it') hints at future recontextualization",
-    "scene_file": "scenes/vee-tells-cassie-fitting.md",
-    "chapter_number": 13
-  },
-  {
-    "character_name": "Cassandra",
-    "fact": "Pace has invited Vee on a hiking trip and Vee accepted",
-    "source_character": "Vivienne",
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": null,
-    "scene_file": "scenes/vee-tells-cassie-fitting.md",
-    "chapter_number": 13
-  },
-  {
-    "character_name": "Cassandra",
-    "fact": "The man's name is Pace",
-    "source_character": "Vivienne",
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": null,
-    "scene_file": "scenes/vee-tells-cassie-fitting.md",
-    "chapter_number": 13
-  },
-  {
-    "character_name": "Cassandra",
-    "fact": "Pace lives west of town, off route 614, past where the road goes to gravel",
-    "source_character": "Vivienne",
-    "source_reliable": true,
-    "actual_truth": false,
-    "notes": "Vee states this as fact she knows; actual_truth unverifiable from scene alone but no reason given to doubt it",
-    "scene_file": "scenes/vee-tells-cassie-fitting.md",
-    "chapter_number": 13
-  },
-  {
-    "character_name": "Cassandra",
-    "fact": "There is a hiking trail Pace frequents near his home",
-    "source_character": "Vivienne",
-    "source_reliable": true,
-    "actual_truth": false,
-    "notes": "Reported second-hand from Pace via Vee; plausible but unverified",
-    "scene_file": "scenes/vee-tells-cassie-fitting.md",
-    "chapter_number": 13
-  },
-  {
-    "character_name": "Cassandra",
-    "fact": "Vee does not know whether Pace is wealthy",
-    "source_character": "Vivienne",
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Vee admits she has not yet seen his house and hasn't determined his financial situation",
-    "scene_file": "scenes/vee-tells-cassie-fitting.md",
-    "chapter_number": 13
-  },
-  {
-    "character_name": "Cassandra",
-    "fact": "Pace told Vee she must wear real shoes for the hike",
-    "source_character": "Vivienne",
-    "source_reliable": true,
-    "actual_truth": false,
-    "notes": "Reported second-hand from Pace via Vee",
-    "scene_file": "scenes/vee-tells-cassie-fitting.md",
-    "chapter_number": 13
-  },
-  {
-    "character_name": "Vivienne",
-    "fact": "Cassie is willing to accept that Vee acted freely and intentionally in kissing Pace",
-    "source_character": "Cassandra",
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Cassie's second 'okay' is described as carrying belief; Vee registers this shift",
-    "scene_file": "scenes/vee-tells-cassie-fitting.md",
-    "chapter_number": 13
-  },
-  {
-    "character_name": "Vivienne",
-    "fact": "She does not know whether Pace is wealthy, and had not thought about it until Cassie raised it",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Self-realization prompted by Cassie's question; Vee explicitly notes it hadn't occurred to her before",
-    "scene_file": "scenes/vee-tells-cassie-fitting.md",
-    "chapter_number": 13
-  },
-  {
-    "character_name": "Miranda",
-    "fact": "Brooke noticed she was coming home in last night's clothes on a Saturday morning, meaning the sorority house has registered her Walk of Shame",
-    "source_character": "Brooke",
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Randi understands from the inside of chapter politics exactly what Brooke's questions signified; the scene makes clear she is under no illusion about what Brooke knows",
-    "scene_file": "scenes/randis-walk-of-shame.md",
-    "chapter_number": 2
-  },
-  {
-    "character_name": "Miranda",
-    "fact": "Brooke knows the name of the man she spent the night with \u2014 Peter Pace \u2014 and has now filed it",
-    "source_character": "Brooke",
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Brooke's deliberate repetition of 'Pace' \u2014 'like she was filing it' \u2014 is explicitly narrated as registering on Randi",
-    "scene_file": "scenes/randis-walk-of-shame.md",
-    "chapter_number": 2
-  },
-  {
-    "character_name": "Miranda",
-    "fact": "Brooke knows or suspects Pace is a graduate student in mathematics working toward a PhD",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Randi volunteered this information in the exchange; she is now aware Brooke has it",
-    "scene_file": "scenes/randis-walk-of-shame.md",
-    "chapter_number": 2
-  },
-  {
-    "character_name": "Miranda",
-    "fact": "Brooke raised and ostensibly dismissed the possibility that Pace teaches a section Randi is enrolled in, and Randi denied it",
-    "source_character": "Brooke",
-    "source_reliable": true,
-    "actual_truth": false,
-    "notes": "The scene deliberately leaves the actual truth ambiguous \u2014 Randi's pause is noted as wider here than elsewhere, and her denial ('Not his section') is technically worded rather than a flat 'no'. The actual truth is unconfirmed by the scene.",
-    "scene_file": "scenes/randis-walk-of-shame.md",
-    "chapter_number": 2
-  },
-  {
-    "character_name": "Vivienne",
-    "fact": "Peter Pace called her the same night she gave him her number",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Narrated as fact from Vee's POV",
-    "scene_file": "scenes/the-froyo-walk.md",
-    "chapter_number": 6
-  },
-  {
-    "character_name": "Vivienne",
-    "fact": "Pace has a deliberate system for building frozen yogurt cups \u2014 tart base on the bottom to support heavier toppings",
-    "source_character": "Peter Pace",
-    "source_reliable": true,
-    "actual_truth": false,
-    "notes": "Presented as Pace's personal philosophy/preference; actual optimality is opinion not fact",
-    "scene_file": "scenes/the-froyo-walk.md",
-    "chapter_number": 6
-  },
-  {
-    "character_name": "Vivienne",
-    "fact": "Pace has thought carefully and deliberately about most things",
-    "source_character": "Peter Pace",
-    "source_reliable": true,
-    "actual_truth": false,
-    "notes": "Pace states this himself; Vee registers and believes it. Whether fully true is LOW confidence",
-    "scene_file": "scenes/the-froyo-walk.md",
-    "chapter_number": 6
-  },
-  {
-    "character_name": "Vivienne",
-    "fact": "Pace paid for both of their frozen yogurts before she could find her wallet",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Directly observed by Vee",
-    "scene_file": "scenes/the-froyo-walk.md",
-    "chapter_number": 6
-  },
-  {
-    "character_name": "Vivienne",
-    "fact": "Pace listens to her fully \u2014 waits through her entire answer before responding \u2014 in a way she is unaccustomed to",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Directly experienced and explicitly reflected on by Vee",
-    "scene_file": "scenes/the-froyo-walk.md",
-    "chapter_number": 6
-  },
-  {
-    "character_name": "Vivienne",
-    "fact": "She has not been treated this kindly by someone in a long time",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": false,
-    "notes": "Vee's own stated belief about her experience; author presents it sincerely. Actual truth relative to her history is unverifiable from this scene alone.",
-    "scene_file": "scenes/the-froyo-walk.md",
-    "chapter_number": 6
-  },
-  {
-    "character_name": "Vivienne",
-    "fact": "Pace does not dismiss or minimize her vulnerable admission, but also does not make it overwrought \u2014 he simply acknowledges it quietly",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Directly observed behavior; Vee registers this implicitly through the narration",
-    "scene_file": "scenes/the-froyo-walk.md",
-    "chapter_number": 6
-  },
-  {
-    "character_name": "Peter Pace",
-    "fact": "Vee considers this outing the nicest she has been treated in a long time",
-    "source_character": "Vivienne",
-    "source_reliable": true,
-    "actual_truth": false,
-    "notes": "Vee says this directly to him; he hears it. Whether it reflects objective truth about her history is LOW confidence.",
-    "scene_file": "scenes/the-froyo-walk.md",
-    "chapter_number": 6
-  },
-  {
-    "character_name": "Peter Pace",
-    "fact": "Vee is self-conscious about the admission she made and would prefer it be passed over",
-    "source_character": "Vivienne",
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "She explicitly says 'pretend I didn't' and the narration notes she winced",
-    "scene_file": "scenes/the-froyo-walk.md",
-    "chapter_number": 6
-  },
-  {
-    "character_name": "Vivienne",
-    "fact": "He had showered and shaved before coming to get her, preparing specifically for their evening together",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Vee observes the damp-dark edge of his hair and razor-fresh color on his jaw and interprets this as preparation for her specifically",
-    "scene_file": "scenes/may-i-choose.md",
-    "chapter_number": 8
-  },
-  {
-    "character_name": "Vivienne",
-    "fact": "He keeps to the street side when walking with her",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Vee notices this but the scene does not indicate she interprets why; she registers it as a pattern or habit of his",
-    "scene_file": "scenes/may-i-choose.md",
-    "chapter_number": 8
-  },
-  {
-    "character_name": "Vivienne",
-    "fact": "He knows the restaurant owner Christine personally, and Christine is glad to see him",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Vee observes the ease between them directly",
-    "scene_file": "scenes/may-i-choose.md",
-    "chapter_number": 8
-  },
-  {
-    "character_name": "Vivienne",
-    "fact": "He speaks a language (Arabic or similar) she does not understand, and uses it to order food",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Vee registers the sounds as foreign to her; the scene names dishes like baba ghanoush and tabbouleh, suggesting a Middle Eastern language context",
-    "scene_file": "scenes/may-i-choose.md",
-    "chapter_number": 8
-  },
-  {
-    "character_name": "Vivienne",
-    "fact": "He ordered the dishes intentionally as a pairing \u2014 a bright sharp dish and a smoky soft dish \u2014 and knew what he was doing when he chose them",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Vee infers this from experiencing the contrast; confidence marked accordingly as the scene presents this as her realization",
-    "scene_file": "scenes/may-i-choose.md",
-    "chapter_number": 8
-  },
-  {
-    "character_name": "Vivienne",
-    "fact": "He consistently uses only his right hand at the table \u2014 a pattern she notices as a rule he keeps",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Vee notices it has happened enough times to constitute a pattern; she does not learn the reason",
-    "scene_file": "scenes/may-i-choose.md",
-    "chapter_number": 8
-  },
-  {
-    "character_name": "Vivienne",
-    "fact": "She is capable of letting go of her habitual vigilance and self-monitoring, and finds rest in doing so",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "This is an internal realization Vee arrives at during the evening; she notices the absence of her usual background readiness",
-    "scene_file": "scenes/may-i-choose.md",
-    "chapter_number": 8
-  },
-  {
-    "character_name": "Vivienne",
-    "fact": "The mint tea was served in small glasses set in worked brass cages with handles, designed to be held while still hot",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Vee perceives the function of the vessel directly through use; minor practical fact but explicitly registered by her",
-    "scene_file": "scenes/may-i-choose.md",
-    "chapter_number": 8
-  },
-  {
-    "character_name": "Vivienne",
-    "fact": "He took her hand unprompted and without ceremony on leaving the restaurant",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Vee experiences this as the first time; she registers its emotional weight explicitly",
-    "scene_file": "scenes/may-i-choose.md",
-    "chapter_number": 8
-  },
-  {
-    "character_name": "Vivienne",
-    "fact": "Holding his hand felt less like something new beginning than something that had always been missing being resolved",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": false,
-    "notes": "This is Vee's subjective emotional experience, not an objective fact; actual_truth is not applicable in the usual sense \u2014 marked null",
-    "scene_file": "scenes/may-i-choose.md",
-    "chapter_number": 8
-  },
-  {
-    "character_name": "Vivienne",
-    "fact": "When she invoked her rule against kissing someone she'd known only a few days, he did not press her \u2014 he smiled and turned them back along the path",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Vee directly witnesses and registers his non-reaction as distinct from what she had braced for",
-    "scene_file": "scenes/may-i-choose.md",
-    "chapter_number": 8
-  },
-  {
-    "character_name": "Vivienne",
-    "fact": "She chose to kiss him anyway, overriding her own stated rule",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "The scene ends on this action; it represents a conscious self-chosen exception she makes in full awareness of the rule she'd just stated",
-    "scene_file": "scenes/may-i-choose.md",
-    "chapter_number": 8
-  },
-  {
-    "character_name": "Peter Pace",
-    "fact": "Randi's desire for a woman is genuinely her own wanting, not merely a gift she is offering him \u2014 the threesome framing is camouflage the wanting needs to come out in",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Pace reads this from Randi's body language and physical responses over the course of the afternoon walk; confirmed repeatedly by the dropped stride and bare 'yes' at the end",
-    "scene_file": "scenes/origin-campus-walk.md",
-    "chapter_number": 3
-  },
-  {
-    "character_name": "Peter Pace",
-    "fact": "Randi rejects women who are 'too expected' \u2014 i.e., mirrors of her own type: narrow, sleek, high ponytail",
-    "source_character": "Miranda",
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Randi's stated rejection of the first girl on the path",
-    "scene_file": "scenes/origin-campus-walk.md",
-    "chapter_number": 3
-  },
-  {
-    "character_name": "Peter Pace",
-    "fact": "Randi rejects matched pairs because she believes you would get both or neither",
-    "source_character": "Miranda",
-    "source_reliable": true,
-    "actual_truth": false,
-    "notes": "This is Randi's stated reasoning; its truth in the story world is not verified",
-    "scene_file": "scenes/origin-campus-walk.md",
-    "chapter_number": 3
-  },
-  {
-    "character_name": "Peter Pace",
-    "fact": "Randi rejects closed, unreachable women \u2014 ones who would be 'a project'",
-    "source_character": "Miranda",
-    "source_reliable": true,
-    "actual_truth": false,
-    "notes": "Randi's verdict on the camel-coat girl; Pace infers the rule 'not the closed ones, not the ones who'd have to be gotten through'",
-    "scene_file": "scenes/origin-campus-walk.md",
-    "chapter_number": 3
-  },
-  {
-    "character_name": "Miranda",
-    "fact": "Brooke ended the conversation on her own terms, leaving Randi unable to deploy the deflections she had prepared",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Explicitly narrated from Randi's point of view as a recognition of Brooke's authority move",
-    "scene_file": "scenes/randis-walk-of-shame.md",
-    "chapter_number": 2
-  },
-  {
-    "character_name": "Miranda",
-    "fact": "The line 'He's hard to say no to,' which she performed successfully for the girls earlier, carries a different and privately unbearable meaning for her",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "This is an internal recognition, not new external information \u2014 but the scene marks it as something she comes to hear differently while alone in her room, suggesting she is processing it as a new understanding rather than a prior one",
-    "scene_file": "scenes/randis-walk-of-shame.md",
-    "chapter_number": 2
-  },
-  {
-    "character_name": "Miranda",
-    "fact": "She cried the night before in his bathroom, looking at herself in the mirror",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Revealed through Randi's own interior recollection; this is prior-scene information surfacing, not something she learns in this scene, but it is the first moment the reader and Randi together consciously hold this fact",
-    "scene_file": "scenes/randis-walk-of-shame.md",
-    "chapter_number": 2
-  },
-  {
-    "character_name": "Vivienne",
-    "fact": "A man named Pace (Peter Pace) approached her table at the coffee shop on Wilson Street and offered to help with her calculus problem",
-    "source_character": "Pace",
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": null,
-    "scene_file": "scenes/the-meet-cute.md",
-    "chapter_number": 5
-  },
-  {
-    "character_name": "Vivienne",
-    "fact": "The calculus problem contained a hidden third rate, described in plain English as a sentence rather than labeled as a rate, which was the key to solving it",
-    "source_character": "Pace",
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Vee confirms this herself by solving the problem successfully after he points it out",
-    "scene_file": "scenes/the-meet-cute.md",
-    "chapter_number": 5
-  },
-  {
-    "character_name": "Vivienne",
-    "fact": "Pace's name is 'Pace' (she will later know him as Peter Pace)",
-    "source_character": "Pace",
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "He introduces himself only as 'Pace' in this scene",
-    "scene_file": "scenes/the-meet-cute.md",
-    "chapter_number": 5
-  },
-  {
-    "character_name": "Vivienne",
-    "fact": "Pace chose a tutoring approach that gave her back the pencil at the exact point where she could solve it herself, rather than solving it for her \u2014 i.e., he deliberately withheld showing his full capability so as not to make her feel small",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Vee reasons this out herself using her econ-trained eye for how smart people handle problems; the narrator confirms her reading is accurate",
-    "scene_file": "scenes/the-meet-cute.md",
-    "chapter_number": 5
-  },
-  {
-    "character_name": "Vivienne",
+    "character_name": "Vee",
     "fact": "Pace asked 'may I call you?' and obtained her phone number",
     "source_character": "Pace",
     "source_reliable": true,
@@ -770,57 +10,17 @@
     "chapter_number": 5
   },
   {
-    "character_name": "Vivienne",
-    "fact": "Randi thinks Vee should text Pace and is warm and unbothered about the encounter",
-    "source_character": "Miranda",
+    "character_name": "Cassie",
+    "fact": "Vee went on a date with a man named Pace that same evening",
+    "source_character": "Vivienne",
     "source_reliable": true,
     "actual_truth": true,
-    "notes": "Randi's surface presentation is warm encouragement; the narrator implies a more complex inner state but Vee does not register this",
-    "scene_file": "scenes/the-meet-cute.md",
-    "chapter_number": 5
+    "notes": "Vee recounts the evening in detail immediately upon returning to the dorm room",
+    "scene_file": "scenes/cassie-before.md",
+    "chapter_number": 11
   },
   {
-    "character_name": "Vivienne",
-    "fact": "Cassie observed that Pace looked at Randi the way he would look at 'somebody's great-aunt' \u2014 not as an attractive woman \u2014 despite Randi being the most conventionally beautiful person at the table",
-    "source_character": "Cassandra",
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Vee receives this and privately recognizes the truth of it, connecting it to a pattern she has observed before with Cassie herself, but she does not follow the implication toward Randi",
-    "scene_file": "scenes/the-meet-cute.md",
-    "chapter_number": 5
-  },
-  {
-    "character_name": "Vivienne",
-    "fact": "She has not previously articulated her reasons for studying economics to anyone in as much detail as she did to Pace",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Vee's own internal observation",
-    "scene_file": "scenes/the-meet-cute.md",
-    "chapter_number": 5
-  },
-  {
-    "character_name": "Cassandra",
-    "fact": "Pace looked at Randi with complete romantic indifference despite her being the most conventionally attractive person at the table, and looked at Vee with sustained romantic interest",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Cassie observes this directly and reports it plainly; the narrator confirms her read is accurate",
-    "scene_file": "scenes/the-meet-cute.md",
-    "chapter_number": 5
-  },
-  {
-    "character_name": "Vivienne",
-    "fact": "The trail's opening grade is steep but eases in as you climb further",
-    "source_character": "Peter Pace",
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Pace told her 'It eases in' and the scene confirms this as she finds her rhythm later",
-    "scene_file": "scenes/hiking-rainstorm.md",
-    "chapter_number": 10
-  },
-  {
-    "character_name": "Vivienne",
+    "character_name": "Vee",
     "fact": "Pace has been to this trail before and considers the summit worth the climb",
     "source_character": "Peter Pace",
     "source_reliable": true,
@@ -830,7 +30,7 @@
     "chapter_number": 10
   },
   {
-    "character_name": "Vivienne",
+    "character_name": "Vee",
     "fact": "The boot problem (heel slip causing a hot spot) could have been addressed at the trailhead and Pace regrets not checking earlier",
     "source_character": "Peter Pace",
     "source_reliable": true,
@@ -840,7 +40,7 @@
     "chapter_number": 10
   },
   {
-    "character_name": "Vivienne",
+    "character_name": "Vee",
     "fact": "Moleskin applied to a heel hot spot and relacing the boot tighter at the ankle can resolve the rubbing problem",
     "source_character": "Peter Pace",
     "source_reliable": true,
@@ -850,7 +50,7 @@
     "chapter_number": 10
   },
   {
-    "character_name": "Vivienne",
+    "character_name": "Vee",
     "fact": "Leave No Trace practice requires packing out organic waste such as fruit pits",
     "source_character": "Peter Pace",
     "source_reliable": true,
@@ -860,7 +60,7 @@
     "chapter_number": 10
   },
   {
-    "character_name": "Vivienne",
+    "character_name": "Vee",
     "fact": "Pace read the sky and predicted rain was coming before it arrived",
     "source_character": "Peter Pace",
     "source_reliable": true,
@@ -870,7 +70,7 @@
     "chapter_number": 10
   },
   {
-    "character_name": "Vivienne",
+    "character_name": "Vee",
     "fact": "Pace packed a dry flannel shirt in his gym bag behind the truck seat",
     "source_character": null,
     "source_reliable": true,
@@ -880,7 +80,7 @@
     "chapter_number": 10
   },
   {
-    "character_name": "Vivienne",
+    "character_name": "Vee",
     "fact": "Pace stepped out of the truck and stood in the rain with his back to her to give her privacy to change",
     "source_character": null,
     "source_reliable": true,
@@ -890,7 +90,7 @@
     "chapter_number": 10
   },
   {
-    "character_name": "Vivienne",
+    "character_name": "Vee",
     "fact": "Pace was shivering from prolonged cold and wet exposure while she was focused on her own heat and desire",
     "source_character": null,
     "source_reliable": true,
@@ -900,7 +100,7 @@
     "chapter_number": 10
   },
   {
-    "character_name": "Vivienne",
+    "character_name": "Vee",
     "fact": "Pace parked illegally on the fire lane under the overhang so she would not have to cross the rain to reach the dorm entrance",
     "source_character": null,
     "source_reliable": true,
@@ -910,7 +110,7 @@
     "chapter_number": 10
   },
   {
-    "character_name": "Vivienne",
+    "character_name": "Vee",
     "fact": "A campus cop pulled up and moved Pace on before she could finish what she had started to say to him",
     "source_character": null,
     "source_reliable": true,
@@ -920,7 +120,7 @@
     "chapter_number": 10
   },
   {
-    "character_name": "Vivienne",
+    "character_name": "Vee",
     "fact": "Pace looked at her body when she opened her shirt and his expression showed want, gladness, and stillness",
     "source_character": null,
     "source_reliable": true,
@@ -930,7 +130,7 @@
     "chapter_number": 10
   },
   {
-    "character_name": "Vivienne",
+    "character_name": "Vee",
     "fact": "Pace watched her on the summit \u2014 looking at her face rather than the valley \u2014 and did not look away when caught",
     "source_character": null,
     "source_reliable": true,
@@ -940,37 +140,7 @@
     "chapter_number": 10
   },
   {
-    "character_name": "Peter Pace",
-    "fact": "Vivienne's boots were not properly fitted (a half size too large, stiff at the ankle) and she developed a heel hot spot during the climb",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "He diagnoses and treats the hot spot directly",
-    "scene_file": "scenes/hiking-rainstorm.md",
-    "chapter_number": 10
-  },
-  {
-    "character_name": "Peter Pace",
-    "fact": "Vivienne called him back into the cab and deliberately unbuttoned her shirt in front of him",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": null,
-    "scene_file": "scenes/hiking-rainstorm.md",
-    "chapter_number": 10
-  },
-  {
-    "character_name": "Peter Pace",
-    "fact": "Vee told him she had been eating crackers her whole life and that he fed her a meal and she now knows what a meal is",
-    "source_character": "Vivienne",
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "He heard the sentence directly; whether he fully understood it as a declaration of love is ambiguous by the scene's design \u2014 his physical response (two breaths, stopped hand) suggests he registered something significant",
-    "scene_file": "scenes/porch-scene.md",
-    "chapter_number": 33
-  },
-  {
-    "character_name": "Vivienne",
+    "character_name": "Vee",
     "fact": "Randi did mean 'we should sit together' \u2014 she showed up to class, found Vee's row, and sat beside her with evident pleasure",
     "source_character": "Randi",
     "source_reliable": true,
@@ -980,7 +150,7 @@
     "chapter_number": 4
   },
   {
-    "character_name": "Vivienne",
+    "character_name": "Vee",
     "fact": "Randi's full name is Randi (not Randy), and she has a standard bit about it involving her father",
     "source_character": "Randi",
     "source_reliable": true,
@@ -990,7 +160,7 @@
     "chapter_number": 4
   },
   {
-    "character_name": "Vivienne",
+    "character_name": "Vee",
     "fact": "Chi Latte's sign is a Greek-letter pun: \u03a7 \u039b\u0391\u03a4\u0395 (Chi Latte), legible only once you know to read it that way",
     "source_character": null,
     "source_reliable": true,
@@ -1000,7 +170,7 @@
     "chapter_number": 4
   },
   {
-    "character_name": "Vivienne",
+    "character_name": "Vee",
     "fact": "Randi ordered an oat-milk latte with lavender for Vee without asking, and got it right",
     "source_character": "Randi",
     "source_reliable": true,
@@ -1010,7 +180,7 @@
     "chapter_number": 4
   },
   {
-    "character_name": "Vivienne",
+    "character_name": "Vee",
     "fact": "The lavender latte is good",
     "source_character": null,
     "source_reliable": true,
@@ -1020,7 +190,7 @@
     "chapter_number": 4
   },
   {
-    "character_name": "Vivienne",
+    "character_name": "Vee",
     "fact": "Randi said 'love you, girl' and 'see you later' at parting, and Vee interprets 'see you later' as a genuine commitment rather than social noise",
     "source_character": "Randi",
     "source_reliable": false,
@@ -1030,7 +200,7 @@
     "chapter_number": 4
   },
   {
-    "character_name": "Vivienne",
+    "character_name": "Vee",
     "fact": "Cassie said 'goodbye' rather than 'see you later' or 'bye' when parting before coffee \u2014 a word that felt like a longer farewell than the occasion warranted",
     "source_character": "Cassandra",
     "source_reliable": true,
@@ -1040,7 +210,7 @@
     "chapter_number": 4
   },
   {
-    "character_name": "Vivienne",
+    "character_name": "Vee",
     "fact": "The professor announced the next topic will be latent variables \u2014 factors that cannot be measured directly but must be inferred from measurable ones",
     "source_character": "the professor",
     "source_reliable": true,
@@ -1050,7 +220,7 @@
     "chapter_number": 4
   },
   {
-    "character_name": "Vivienne",
+    "character_name": "Vee",
     "fact": "Vee was unable to retain the content of her conversation with Randi \u2014 she kept the feeling of being chosen but not the words",
     "source_character": null,
     "source_reliable": true,
@@ -1060,7 +230,7 @@
     "chapter_number": 4
   },
   {
-    "character_name": "Vivienne",
+    "character_name": "Vee",
     "fact": "Peter Pace made the flannel shirt he gave her \u2014 it has no tag because he made it himself",
     "source_character": "Peter Pace",
     "source_reliable": true,
@@ -1070,7 +240,7 @@
     "chapter_number": 13
   },
   {
-    "character_name": "Vivienne",
+    "character_name": "Vee",
     "fact": "Pace made the collar of the shirt four times before he was satisfied with it",
     "source_character": "Peter Pace",
     "source_reliable": true,
@@ -1080,7 +250,7 @@
     "chapter_number": 13
   },
   {
-    "character_name": "Vivienne",
+    "character_name": "Vee",
     "fact": "Pace turned the heat up in his house before she arrived so she would not be cold during the fitting",
     "source_character": null,
     "source_reliable": true,
@@ -1090,7 +260,7 @@
     "chapter_number": 13
   },
   {
-    "character_name": "Vivienne",
+    "character_name": "Vee",
     "fact": "Pace had been planning the dress for some time \u2014 he had fabric, a riser, and a plan ready before she arrived",
     "source_character": null,
     "source_reliable": true,
@@ -1100,427 +270,7 @@
     "chapter_number": 13
   },
   {
-    "character_name": "Cassandra",
-    "fact": "Pace is making Vee a burgundy silk skirt for her honor society induction",
-    "source_character": "Vivienne",
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": null,
-    "scene_file": "scenes/vee-tells-cassie-fitting.md",
-    "chapter_number": 13
-  },
-  {
-    "character_name": "Cassandra",
-    "fact": "Vee told Pace about the induction and the dress she wanted roughly three weeks ago",
-    "source_character": "Vivienne",
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Vee's own estimate, given with slight uncertainty",
-    "scene_file": "scenes/vee-tells-cassie-fitting.md",
-    "chapter_number": 13
-  },
-  {
-    "character_name": "Cassandra",
-    "fact": "Pace bought burgundy silk and had a riser built in preparation for the fitting",
-    "source_character": "Vivienne",
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": null,
-    "scene_file": "scenes/vee-tells-cassie-fitting.md",
-    "chapter_number": 13
-  },
-  {
-    "character_name": "Cassandra",
-    "fact": "The flannel shirt Vee has been sleeping in was made by Pace",
-    "source_character": "Vivienne",
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Cassie had already observed Vee wearing the shirt repeatedly; she now learns its origin",
-    "scene_file": "scenes/vee-tells-cassie-fitting.md",
-    "chapter_number": 13
-  },
-  {
-    "character_name": "Cassandra",
-    "fact": "Pace turned the heat up in his house before Vee arrived so she would not be cold",
-    "source_character": "Vivienne",
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Vee inferred this; Cassie accepts it and reacts with evident feeling",
-    "scene_file": "scenes/vee-tells-cassie-fitting.md",
-    "chapter_number": 13
-  },
-  {
-    "character_name": "Cassandra",
-    "fact": "Vee removed her bra as well as her shirt for the fitting at Pace's request",
-    "source_character": "Vivienne",
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": null,
-    "scene_file": "scenes/vee-tells-cassie-fitting.md",
-    "chapter_number": 13
-  },
-  {
-    "character_name": "Cassandra",
-    "fact": "Pace indicated Vee should remove her bra in a way that left her a choice rather than issuing a direct order",
-    "source_character": "Vivienne",
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Vee explicitly characterizes it this way: 'He left it open. He left me a door.'",
-    "scene_file": "scenes/vee-tells-cassie-fitting.md",
-    "chapter_number": 13
-  },
-  {
-    "character_name": "Cassandra",
-    "fact": "Vee had previously removed her shirt in front of Pace during a rain incident, and knocked on his window to do so",
-    "source_character": "Vivienne",
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Cassie apparently already knew about this event but Vee's confirmation and framing \u2014 'I was looking at his eyes the whole time' \u2014 is new detail",
-    "scene_file": "scenes/vee-tells-cassie-fitting.md",
-    "chapter_number": 13
-  },
-  {
-    "character_name": "Cassandra",
-    "fact": "Vee deliberately pressed herself against Pace while he was pinning the back seam",
-    "source_character": "Vivienne",
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Vee admits this herself as the punchline of the scene",
-    "scene_file": "scenes/vee-tells-cassie-fitting.md",
-    "chapter_number": 13
-  },
-  {
-    "character_name": "Cassandra",
-    "fact": "Pace is not gay \u2014 Vee cites that he kisses in a way inconsistent with that, and that she felt his erection during the fitting",
-    "source_character": "Vivienne",
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Vee is the direct source of both data points; actual_truth assessed as true within the story world based on the author's framing",
-    "scene_file": "scenes/vee-tells-cassie-fitting.md",
-    "chapter_number": 13
-  },
-  {
-    "character_name": "Peter Pace",
-    "fact": "Randi rejects women whose warmth and ease is performed and aimed outward \u2014 who 'run the room and know it'",
-    "source_character": "Miranda",
-    "source_reliable": true,
-    "actual_truth": false,
-    "notes": "Pace's inference after Randi's strong 'God, no' to the confident blazer girl; he registers his own guess was wrong and updates his model",
-    "scene_file": "scenes/origin-campus-walk.md",
-    "chapter_number": 3
-  },
-  {
-    "character_name": "Peter Pace",
-    "fact": "Randi is genuinely attracted to the red-haired girl (Vivienne) \u2014 the wanting preceded any conscious decision",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Read from the dropped stride and the sustained, unmanaged looking before Randi recovered into the girlfriend-offering framing",
-    "scene_file": "scenes/origin-campus-walk.md",
-    "chapter_number": 3
-  },
-  {
-    "character_name": "Peter Pace",
-    "fact": "Randi is a highly skilled social operator \u2014 capable of engineering a 'chance' meeting with precision that makes her target believe the collision was the target's own fault",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Pace observes this directly while watching from the light pole; he had not seen her 'aim it at a person' before",
-    "scene_file": "scenes/origin-campus-walk.md",
-    "chapter_number": 3
-  },
-  {
-    "character_name": "Peter Pace",
-    "fact": "The red-haired girl's name is Vee (Vivienne) and she shares a stats class with Randi",
-    "source_character": "Miranda",
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Randi reports this immediately upon returning",
-    "scene_file": "scenes/origin-campus-walk.md",
-    "chapter_number": 3
-  },
-  {
-    "character_name": "Miranda",
-    "fact": "Pace is not selecting a woman for himself \u2014 the choosing is hers, and he is watching her learn that she can choose",
-    "source_character": "Peter Pace",
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Randi arrives at this understanding when Pace says 'I'm not the one being asked' after she asks whether a matched pair would be a yes or no for him",
-    "scene_file": "scenes/origin-campus-walk.md",
-    "chapter_number": 3
-  },
-  {
-    "character_name": "Miranda",
-    "fact": "The red-haired girl's name is Vee and they share a stats class",
-    "source_character": "Vivienne",
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Randi learns this directly from the brief introduction she engineers on the lawn",
-    "scene_file": "scenes/origin-campus-walk.md",
-    "chapter_number": 3
-  },
-  {
-    "character_name": "Peter Pace",
-    "fact": "Randi wants to taste Vee \u2014 not as an offered gift or future arrangement, but as an immediate, unguarded desire ('I can't wait to taste her'), including tasting Vee secondhand off him after the fact",
-    "source_character": "Miranda",
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Pace explicitly reads this as an unguarded slip ahead of Randi's plan, not a performative offer. He distinguishes it from the scaffolded version she might have intended. HIGH confidence on the learning; the scene narrates his interpretive process in detail.",
-    "scene_file": "scenes/ignition-scalding.md",
-    "chapter_number": 42
-  },
-  {
-    "character_name": "Peter Pace",
-    "fact": "Randi is willing \u2014 even eager \u2014 to take the subordinate position relative to Vee (arriving after, taking 'sloppy seconds'), despite ranking Vee beneath her in every daylight context",
-    "source_character": "Miranda",
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Pace explicitly synthesizes the two statements ('I can't wait to taste her' and 'I would take sloppy seconds off her') into a single unambiguous sentence. The scene marks this as a clean resolution with no interpretive doubt left in him.",
-    "scene_file": "scenes/ignition-scalding.md",
-    "chapter_number": 42
-  },
-  {
-    "character_name": "Peter Pace",
-    "fact": "Randi's yes to the Tuesday arrangement came from a different source than where she had been pushing \u2014 her afternoon's seduction work did not produce his agreement; the unguarded slip did",
-    "source_character": null,
-    "source_reliable": false,
-    "actual_truth": true,
-    "notes": "Pace observes this himself and also watches Randi register the same flicker of 'that was easy' without understanding why. Internally generated knowledge, no external source.",
-    "scene_file": "scenes/ignition-scalding.md",
-    "chapter_number": 42
-  },
-  {
-    "character_name": "Peter Pace",
-    "fact": "Randi noticed that his agreement came from an unexpected source but chose not to pursue the question, letting the flicker go in favor of keeping what she'd gotten",
-    "source_character": null,
-    "source_reliable": false,
-    "actual_truth": true,
-    "notes": "Pace witnesses this directly and the narration confirms it: 'He watched her decide not to ask it.'",
-    "scene_file": "scenes/ignition-scalding.md",
-    "chapter_number": 42
-  },
-  {
-    "character_name": "Peter Pace",
-    "fact": "Randi's physical and emotional response to tasting Vee on him \u2014 the involuntary sound, the blown-open eyes, the body voting ahead of her composure \u2014 exceeded what she had budgeted or controlled for",
-    "source_character": null,
-    "source_reliable": false,
-    "actual_truth": true,
-    "notes": "Pace reads this directly from her body and the involuntary sound she cannot call back. He recognizes the same face he has seen before: 'the want surfacing past the management, the woman out ahead of her own composure.'",
-    "scene_file": "scenes/ignition-scalding.md",
-    "chapter_number": 42
-  },
-  {
-    "character_name": "Peter Pace",
-    "fact": "Randi can smell Vee on him",
-    "source_character": "Miranda",
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Randi states this directly. Pace's body response ('heat, all heat') confirms he registers it as real and charged, not performative.",
-    "scene_file": "scenes/ignition-scalding.md",
-    "chapter_number": 42
-  },
-  {
-    "character_name": "Peter Pace",
-    "fact": "Vee drives a small Corolla, keeps a year-round wreath on her front door, and texts a photo of her door to confirm she's home safely",
-    "source_character": "Vivienne",
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Directly observed / received. Granular logistical detail; likely already known to Pace given the established relationship, but explicitly shown here.",
-    "scene_file": "scenes/ignition-scalding.md",
-    "chapter_number": 42
-  },
-  {
-    "character_name": "Peter Pace",
-    "fact": "Vee arrives put-together and leaves undone and does not seem to mind him seeing her undone; Pace has taken this as a form of trust",
-    "source_character": null,
-    "source_reliable": false,
-    "actual_truth": false,
-    "notes": "This is Pace's interpretive reading of Vee's behavior, not a stated fact. Actual truth uncertain \u2014 the scene does not confirm whether Vee consciously intends it as trust. Confidence LOW on the interpretation being correct; HIGH on the fact that Pace holds this belief.",
-    "scene_file": "scenes/ignition-scalding.md",
-    "chapter_number": 42
-  },
-  {
-    "character_name": "Peter Pace",
-    "fact": "Randi's face after the night \u2014 blank, emptied-out, faraway \u2014 is the same face he has seen once before in different lamplight after a different scene, indicating he reached fully into her",
-    "source_character": null,
-    "source_reliable": false,
-    "actual_truth": false,
-    "notes": "Pace reads the face as evidence he was 'that good' and that she is wrung out. He interprets the non-response of her hand as exhaustion, not emotional withdrawal. Whether his reading is correct is not confirmed by the scene \u2014 the narratorial register ('the dread is reread-only') suggests LOW confidence on actual truth.",
-    "scene_file": "scenes/ignition-scalding.md",
-    "chapter_number": 42
-  },
-  {
-    "character_name": "Miranda",
-    "fact": "Tasting Vee on Pace produced an involuntary, uncontrolled physical and vocal response in her that preceded her own consent",
-    "source_character": null,
-    "source_reliable": false,
-    "actual_truth": true,
-    "notes": "She hears the sound she makes and is caught by it \u2014 'caught not by him but by herself.' She registers this in the moment. HIGH confidence she is aware of it; the scene marks it as an experience she cannot call back.",
-    "scene_file": "scenes/ignition-scalding.md",
-    "chapter_number": 42
-  },
-  {
-    "character_name": "Miranda",
-    "fact": "Vee was at Pace's house earlier that evening \u2014 her scent is present on him",
-    "source_character": null,
-    "source_reliable": false,
-    "actual_truth": true,
-    "notes": "Randi detects this herself on arrival. Consistent with the arrangement Pace set up. She already knew Vee would be there; the sensory confirmation is new.",
-    "scene_file": "scenes/ignition-scalding.md",
-    "chapter_number": 42
-  },
-  {
-    "character_name": "Peter Pace",
-    "fact": "Randi locks the front door behind her as her first action upon entering \u2014 every time, before anything else",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Narrator establishes this as an observed pattern, confirmed again this visit",
-    "scene_file": "scenes/the-bench.md",
-    "chapter_number": 1
-  },
-  {
-    "character_name": "Peter Pace",
-    "fact": "Randi told her sorority sister Brooke she had a paper due in order to leave chapter dinner early and come to him",
-    "source_character": "Miranda",
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Randi volunteers this information herself; Pace did not know the specific lie before she told him",
-    "scene_file": "scenes/the-bench.md",
-    "chapter_number": 1
-  },
-  {
-    "character_name": "Peter Pace",
-    "fact": "Vivienne reached for his hand and brought it against her belly under the flannel when she discovered he was shivering",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": null,
-    "scene_file": "scenes/hiking-rainstorm.md",
-    "chapter_number": 10
-  },
-  {
-    "character_name": "Miranda",
-    "fact": "Peter Pace made the shirt he previously gave her \u2014 there was no brand tag because he sewed it himself",
-    "source_character": "Peter Pace",
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "She had previously filed the missing tag under 'counterfeit, sample, off-brand' without landing on an answer. The scene explicitly states she realizes this during the fitting.",
-    "scene_file": "scenes/the-fitting.md",
-    "chapter_number": 12
-  },
-  {
-    "character_name": "Miranda",
-    "fact": "Pace chose the burgundy cloth to match her coloring specifically, not to match the dress she had described from the magazine",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "She arrives at this herself by holding the cloth near her face and seeing their reflection together in the window glass.",
-    "scene_file": "scenes/the-fitting.md",
-    "chapter_number": 12
-  },
-  {
-    "character_name": "Miranda",
-    "fact": "The collar of the shirt he made her took him four tries",
-    "source_character": "Peter Pace",
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": null,
-    "scene_file": "scenes/the-fitting.md",
-    "chapter_number": 12
-  },
-  {
-    "character_name": "Miranda",
-    "fact": "Pace turned the thermostat up before she arrived so she would not be cold while undressed during the fitting",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "She infers this herself; the scene marks it as her act of registering and understanding. Confidence is high because the narrative frames her inference as correct.",
-    "scene_file": "scenes/the-fitting.md",
-    "chapter_number": 12
-  },
-  {
-    "character_name": "Miranda",
-    "fact": "Pace also had the kettle water already hot before she arrived, anticipating she would need tea during the fitting",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Parenthetical observation in narrative; she registers it as part of the same pattern of his forethought.",
-    "scene_file": "scenes/the-fitting.md",
-    "chapter_number": 12
-  },
-  {
-    "character_name": "Miranda",
-    "fact": "Pace has a purpose-built low riser/platform in his house for fitting work",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "She observes this when directed back onto it; the narrative notes her recognition of it as deliberate construction.",
-    "scene_file": "scenes/the-fitting.md",
-    "chapter_number": 12
-  },
-  {
-    "character_name": "Miranda",
-    "fact": "Pace did not look down at the visible wet patch on her panties while he was working at that level; he had been waiting with his face turned up toward hers instead",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "She directly observes this when she opens her eyes and finds him already looking up at her face.",
-    "scene_file": "scenes/the-fitting.md",
-    "chapter_number": 12
-  },
-  {
-    "character_name": "Miranda",
-    "fact": "Pace wants her physically but is choosing to hold a boundary and finish the dress correctly rather than act on that want",
-    "source_character": "Peter Pace",
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "She reads this in his 'Keep still' and the silence before it; the narrative confirms this interpretation explicitly.",
-    "scene_file": "scenes/the-fitting.md",
-    "chapter_number": 12
-  },
-  {
-    "character_name": "Miranda",
-    "fact": "She has the capacity to nearly destabilize Pace's composure \u2014 that she holds that kind of effect over him",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "She arrives at this herself after the pin incident and his visible struggle. The narrative frames it as new self-knowledge.",
-    "scene_file": "scenes/the-fitting.md",
-    "chapter_number": 12
-  },
-  {
-    "character_name": "Miranda",
-    "fact": "The burgundy cloth \u2014 deeper than the magazine shade with purple undertones \u2014 suits her coloring better than the original shade she had wanted would have",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Directly observed by her in the window reflection; her disappointment converts to something she cannot name.",
-    "scene_file": "scenes/the-fitting.md",
-    "chapter_number": 12
-  },
-  {
-    "character_name": "Miranda",
-    "fact": "Pace kissed the pin-prick on her ribs and held the contact slightly longer than the gesture required",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "She directly experiences and registers this.",
-    "scene_file": "scenes/the-fitting.md",
-    "chapter_number": 12
-  },
-  {
-    "character_name": "Miranda",
-    "fact": "Being seen fully \u2014 including at her most ashamed \u2014 by Pace did not result in being found wanting",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "She arrives at this as a felt, not yet fully articulated, understanding near the scene's close. The narrative flags it as significant future knowledge.",
-    "scene_file": "scenes/the-fitting.md",
-    "chapter_number": 12
-  },
-  {
-    "character_name": "Vivienne",
+    "character_name": "Vee",
     "fact": "Randi drives a dark green Mercedes convertible with self-sealing windows and a leather interior",
     "source_character": null,
     "source_reliable": true,
@@ -1530,207 +280,177 @@
     "chapter_number": 14
   },
   {
-    "character_name": "Vivienne",
-    "fact": "Randi had a sexual encounter recently involving being tied to a headboard with a scarf, tickling, and orgasm",
-    "source_character": "Miranda",
+    "character_name": "Cassie",
+    "fact": "The date involved tea served in glasses with brass cage handles",
+    "source_character": "Vivienne",
     "source_reliable": true,
     "actual_truth": true,
-    "notes": "Randi tells this voluntarily; no reason to doubt its truth",
-    "scene_file": "scenes/brunch-fitting-randi.md",
-    "chapter_number": 14
+    "notes": "Vee describes this detail specifically; no alcohol was involved",
+    "scene_file": "scenes/cassie-before.md",
+    "chapter_number": 11
   },
   {
-    "character_name": "Vivienne",
-    "fact": "Randi believes that surrendering control \u2014 being physically helpless \u2014 can be psychologically freeing and sexually satisfying",
-    "source_character": "Miranda",
-    "source_reliable": true,
-    "actual_truth": false,
-    "notes": "This is Randi's stated personal philosophy; actual_truth is not applicable as it is a subjective belief",
-    "scene_file": "scenes/brunch-fitting-randi.md",
-    "chapter_number": 14
-  },
-  {
-    "character_name": "Vivienne",
-    "fact": "Professional dressmakers do not take measurements over a bra because padding distorts the true line",
-    "source_character": "Miranda",
+    "character_name": "Cassie",
+    "fact": "Vee kissed Pace \u2014 she initiated it herself, after he had already begun walking away",
+    "source_character": "Vivienne",
     "source_reliable": true,
     "actual_truth": true,
-    "notes": "Randi states this with easy authority and Vee accepts it; consistent with actual tailoring practice",
-    "scene_file": "scenes/brunch-fitting-randi.md",
-    "chapter_number": 14
+    "notes": "Vee is emphatic that she was not talked into it and acted of her own volition",
+    "scene_file": "scenes/cassie-before.md",
+    "chapter_number": 11
   },
   {
-    "character_name": "Vivienne",
-    "fact": "Randi envies Vee's bust and considers it a desirable physical feature she herself lacks",
-    "source_character": "Miranda",
-    "source_reliable": true,
-    "actual_truth": false,
-    "notes": "Randi says it directly and apparently sincerely; whether it reflects genuine feeling or is a social/manipulative move cannot be confirmed from the text alone",
-    "scene_file": "scenes/brunch-fitting-randi.md",
-    "chapter_number": 14
-  },
-  {
-    "character_name": "Vivienne",
-    "fact": "Vee believes Randi can read her emotional state from her face",
-    "source_character": "Miranda",
+    "character_name": "Cassie",
+    "fact": "Vee had first declined to kiss Pace, citing a personal rule about not kissing a man she has known only a few days",
+    "source_character": "Vivienne",
     "source_reliable": true,
     "actual_truth": true,
-    "notes": "Randi identifies that Vee 'has a face on' before Vee says anything; Vee accepts this and begins talking",
-    "scene_file": "scenes/brunch-fitting-randi.md",
-    "chapter_number": 14
+    "notes": "Vee frames this as something her mother would say and confirms it is genuinely her own rule",
+    "scene_file": "scenes/cassie-before.md",
+    "chapter_number": 11
   },
   {
-    "character_name": "Vivienne",
-    "fact": "Vee believes Randi could tell she was physically aroused during the fitting, even though Vee offered the excuse of cold",
-    "source_character": "Miranda",
-    "source_reliable": true,
-    "actual_truth": false,
-    "notes": "Vee registers being 'caught' when Randi repeats 'Cold' flatly; she cannot reconstruct exactly how but concedes the point by laughing and admitting it was hot",
-    "scene_file": "scenes/brunch-fitting-randi.md",
-    "chapter_number": 14
-  },
-  {
-    "character_name": "Vivienne",
-    "fact": "Vee believes Randi was moved or happy for her when Vee described the fitting, rather than holding back mockery",
-    "source_character": null,
-    "source_reliable": false,
-    "actual_truth": false,
-    "notes": "Vee reaches for the kinder interpretation of Randi's tight expression and convinces herself of it; actual truth is ambiguous \u2014 the scene suggests Randi's tightness may not have been simple happiness",
-    "scene_file": "scenes/brunch-fitting-randi.md",
-    "chapter_number": 14
-  },
-  {
-    "character_name": "Vivienne",
-    "fact": "Randi kissed Vee on the mouth \u2014 soft, unhurried, with a second press \u2014 when saying goodbye",
-    "source_character": null,
+    "character_name": "Cassie",
+    "fact": "Pace responded to Vee's initial refusal without pressure \u2014 he smiled and resumed walking as though it were fine",
+    "source_character": "Vivienne",
     "source_reliable": true,
     "actual_truth": true,
-    "notes": "Direct experience; unambiguous in the text",
-    "scene_file": "scenes/brunch-fitting-randi.md",
-    "chapter_number": 14
+    "notes": null,
+    "scene_file": "scenes/cassie-before.md",
+    "chapter_number": 11
   },
   {
-    "character_name": "Vivienne",
-    "fact": "Vee believes the kiss was a French-style social farewell gesture, not a romantic or sexual act",
-    "source_character": null,
-    "source_reliable": false,
-    "actual_truth": false,
-    "notes": "This is Vee's own rationalization, formed immediately and defensively. The scene's framing \u2014 the pause, the second press 'that had something in it the first one hadn't' \u2014 strongly implies the rationalization is incorrect. Actual truth marked null as ambiguous but tilting false",
-    "scene_file": "scenes/brunch-fitting-randi.md",
-    "chapter_number": 14
-  },
-  {
-    "character_name": "Vivienne",
-    "fact": "Vee is worried that someone in the dorm windows or courtyard may have seen her kiss Randi",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": false,
-    "notes": "Vee actively scans windows and courtyard; the scene does not confirm or deny whether anyone witnessed it",
-    "scene_file": "scenes/brunch-fitting-randi.md",
-    "chapter_number": 14
-  },
-  {
-    "character_name": "Peter Pace",
-    "fact": "Randi's paper is not due until Thursday, meaning the lie to Brooke was unnecessary in terms of academic urgency",
-    "source_character": "Miranda",
+    "character_name": "Cassie",
+    "fact": "Pace has invited Vee on a hiking trip and she accepted quickly",
+    "source_character": "Vivienne",
     "source_reliable": true,
     "actual_truth": true,
-    "notes": "Randi states this directly when Pace asks if she has a paper",
-    "scene_file": "scenes/the-bench.md",
-    "chapter_number": 1
+    "notes": "Vee notes she said yes very fast",
+    "scene_file": "scenes/cassie-before.md",
+    "chapter_number": 11
   },
   {
-    "character_name": "Peter Pace",
-    "fact": "Randi eats thin apple slices faster when they are placed cut-side up in the bowl",
+    "character_name": "Cassie",
+    "fact": "Pace lives west of town, off Route 614, past where it turns to gravel, near the trail they plan to hike",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Cassie explicitly notes this is imprecise as an address; Vee does not have a more specific location",
+    "scene_file": "scenes/cassie-before.md",
+    "chapter_number": 11
+  },
+  {
+    "character_name": "Cassie",
+    "fact": "Pace told Vee to wear real shoes for the hike",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": null,
+    "scene_file": "scenes/cassie-before.md",
+    "chapter_number": 11
+  },
+  {
+    "character_name": "Cassie",
+    "fact": "Vee does not own appropriate hiking shoes and will need to borrow a pair",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Cassie herself independently states Vee doesn't own real shoes; Vee does not dispute it",
+    "scene_file": "scenes/cassie-before.md",
+    "chapter_number": 11
+  },
+  {
+    "character_name": "Randi",
+    "fact": "The smell of his flannel shirt she had been sleeping in at home was only an approximate, stored version of his actual scent; the real thing is warmer and more specific than she had understood",
     "source_character": null,
     "source_reliable": true,
     "actual_truth": true,
-    "notes": "The narrator clarifies this is something Pace had previously noticed and acted on; confirmed again this scene as he had already prepared the bowl this way. This is prior knowledge made explicit to the reader here, not new to Pace.",
-    "scene_file": "scenes/the-bench.md",
-    "chapter_number": 1
+    "notes": "She explicitly reflects that she had thought she knew his scent from the shirt and had been wrong",
+    "scene_file": "scenes/first-night.md",
+    "chapter_number": 18
   },
   {
-    "character_name": "Peter Pace",
-    "fact": "When brought to genuine emotional extremity, Randi's voice drops from her trained social register into something lower, broken, and unperformed \u2014 her actual voice",
+    "character_name": "Randi",
+    "fact": "He has a surgical scar on the inside of his thigh, close to the hip, old and smooth and slightly raised",
     "source_character": null,
     "source_reliable": true,
     "actual_truth": true,
-    "notes": "Pace had been waiting for this since the first night; this scene is the first time he witnesses it. He explicitly registers the difference.",
-    "scene_file": "scenes/the-bench.md",
-    "chapter_number": 1
+    "notes": "She discovers it by touch and sight; she consciously files it as a fact without a frame, explicitly deferring interpretation",
+    "scene_file": "scenes/first-night.md",
+    "chapter_number": 18
   },
   {
-    "character_name": "Peter Pace",
-    "fact": "Randi is capable of a full-body shudder during orgasm \u2014 a response he had not seen from her before tonight",
+    "character_name": "Randi",
+    "fact": "She is capable of experiencing sexual pleasure without managing, observing, or narrating it to herself while it is happening \u2014 this is, for her, a first",
     "source_character": null,
     "source_reliable": true,
     "actual_truth": true,
-    "notes": "Pace observes and explicitly notes this as new",
-    "scene_file": "scenes/the-bench.md",
-    "chapter_number": 1
+    "notes": "The scene states explicitly 'It was the first time that had been true,' referring to her not managing or narrating the experience",
+    "scene_file": "scenes/first-night.md",
+    "chapter_number": 18
   },
   {
-    "character_name": "Peter Pace",
-    "fact": "Randi was crying during and after her orgasm, apparently without being aware she was doing it",
+    "character_name": "Randi",
+    "fact": "Her shame and her arousal run on the same wire and have no seam between them; she has stopped looking for one",
     "source_character": null,
     "source_reliable": true,
     "actual_truth": true,
-    "notes": "Pace observes the crying and notes he had not noticed it start; the narrator confirms she did not seem to know she was doing it",
-    "scene_file": "scenes/the-bench.md",
-    "chapter_number": 1
+    "notes": "This is presented as a realization she arrives at during the scene, not something she knew before",
+    "scene_file": "scenes/first-night.md",
+    "chapter_number": 18
   },
   {
-    "character_name": "Peter Pace",
-    "fact": "When called beautiful by him in an unguarded moment after the scene, Randi flinched involuntarily \u2014 suggesting the compliment landed somewhere she was not braced for",
+    "character_name": "Randi",
+    "fact": "He had opened the Chianti before she arrived and done all preparation for the meal and then stopped, waiting for her",
     "source_character": null,
     "source_reliable": true,
     "actual_truth": true,
-    "notes": "Pace feels the flinch physically through her body against his chest and registers it explicitly",
-    "scene_file": "scenes/the-bench.md",
-    "chapter_number": 1
+    "notes": "She observes this on arrival; the pre-arrival preparation is new information to her",
+    "scene_file": "scenes/first-night.md",
+    "chapter_number": 18
   },
   {
-    "character_name": "Peter Pace",
-    "fact": "Randi locked the bathroom door behind her \u2014 something she had never done before in his house",
+    "character_name": "Randi",
+    "fact": "His body is that of a man who uses himself continuously \u2014 woodworker's shoulders, powerlifter's arms \u2014 fully resolved from the outline she had only glimpsed on the hike",
     "source_character": null,
     "source_reliable": true,
     "actual_truth": true,
-    "notes": "Pace explicitly registers this as a departure from her prior behavior",
-    "scene_file": "scenes/the-bench.md",
-    "chapter_number": 1
+    "notes": "She explicitly frames this as 'the resolution' to the 'outline' the hike had given her",
+    "scene_file": "scenes/first-night.md",
+    "chapter_number": 18
   },
   {
-    "character_name": "Peter Pace",
-    "fact": "Randi cried again briefly while alone in the bathroom",
-    "source_character": null,
+    "character_name": "Cassie",
+    "fact": "Pace has invited Vee on a hiking trip and Vee accepted",
+    "source_character": "Vivienne",
     "source_reliable": true,
     "actual_truth": true,
-    "notes": "Pace hears this while waiting on the bed; he can hear through the door",
-    "scene_file": "scenes/the-bench.md",
-    "chapter_number": 1
+    "notes": null,
+    "scene_file": "scenes/vee-tells-cassie-fitting.md",
+    "chapter_number": 13
   },
   {
-    "character_name": "Peter Pace",
-    "fact": "He believes he has gotten further into Randi tonight than he expected to get this early, and that she will be gradually different from this point forward",
-    "source_character": null,
+    "character_name": "Cassie",
+    "fact": "Vee went on a dinner date with a man named Pace that same evening",
+    "source_character": "Vivienne",
     "source_reliable": true,
     "actual_truth": true,
-    "notes": "Stated as Pace's own internal reflection; the novel's framing does not contradict his assessment",
-    "scene_file": "scenes/the-bench.md",
-    "chapter_number": 1
+    "notes": "Vee recounts the evening to Cassie in detail",
+    "scene_file": "scenes/vee-tells-cassie-fitting.md",
+    "chapter_number": 13
   },
   {
-    "character_name": "Miranda",
-    "fact": "The bench in Pace's bedroom is not a table \u2014 it is a purpose-built apparatus designed to restrain and position a woman's body in a specific way",
-    "source_character": "Peter Pace",
+    "character_name": "Cassie",
+    "fact": "The tea at dinner was served in glasses with brass cage handles because the glass was too hot to hold",
+    "source_character": "Vivienne",
     "source_reliable": true,
     "actual_truth": true,
-    "notes": "Randi had believed it was a table since her second visit; she revises this belief when she sees it with the wooden top removed and its working surfaces visible",
-    "scene_file": "scenes/the-bench.md",
-    "chapter_number": 1
+    "notes": "Vee describes the tea service; treated as sincere recollection",
+    "scene_file": "scenes/vee-tells-cassie-fitting.md",
+    "chapter_number": 13
   },
   {
-    "character_name": "Miranda",
+    "character_name": "Randi",
     "fact": "Pace built the bench himself, and began building it eleven months ago \u2014 before he met her",
     "source_character": "Peter Pace",
     "source_reliable": true,
@@ -1740,7 +460,7 @@
     "chapter_number": 1
   },
   {
-    "character_name": "Miranda",
+    "character_name": "Randi",
     "fact": "She once sat on the wooden top of the bench \u2014 thinking it was a table \u2014 while waiting for Pace",
     "source_character": "Peter Pace",
     "source_reliable": true,
@@ -1750,7 +470,7 @@
     "chapter_number": 1
   },
   {
-    "character_name": "Miranda",
+    "character_name": "Randi",
     "fact": "She is capable of begging \u2014 of asking for something in a voice that comes from genuine need rather than social performance",
     "source_character": null,
     "source_reliable": true,
@@ -1760,7 +480,7 @@
     "chapter_number": 1
   },
   {
-    "character_name": "Miranda",
+    "character_name": "Randi",
     "fact": "Something has changed in her that she cannot undo \u2014 she has crossed a line she cannot uncross",
     "source_character": null,
     "source_reliable": true,
@@ -1770,7 +490,7 @@
     "chapter_number": 1
   },
   {
-    "character_name": "Miranda",
+    "character_name": "Randi",
     "fact": "When she tried her practiced knowing smile in the mirror over the face that had just begged, she could see the disjunction between the two \u2014 the performance no longer sat cleanly on the face",
     "source_character": null,
     "source_reliable": true,
@@ -1780,7 +500,7 @@
     "chapter_number": 1
   },
   {
-    "character_name": "Miranda",
+    "character_name": "Randi",
     "fact": "She does not yet understand what she will do with what happened, or how she feels about Pace for having produced it",
     "source_character": null,
     "source_reliable": true,
@@ -1790,7 +510,7 @@
     "chapter_number": 1
   },
   {
-    "character_name": "Miranda",
+    "character_name": "Randi",
     "fact": "She is going to have to figure out what she is going to do about Pace \u2014 and about what happened tonight",
     "source_character": null,
     "source_reliable": true,
@@ -1800,7 +520,7 @@
     "chapter_number": 1
   },
   {
-    "character_name": "Miranda",
+    "character_name": "Randi",
     "fact": "The Architect (or the man making Vee's dress) measured Vee topless and without her bra",
     "source_character": "Vivienne",
     "source_reliable": true,
@@ -1810,7 +530,7 @@
     "chapter_number": 14
   },
   {
-    "character_name": "Miranda",
+    "character_name": "Randi",
     "fact": "Vee was physically aroused during the fitting \u2014 she experienced visible physical response that she initially attributed to the cold",
     "source_character": "Vivienne",
     "source_reliable": true,
@@ -1820,7 +540,7 @@
     "chapter_number": 14
   },
   {
-    "character_name": "Miranda",
+    "character_name": "Randi",
     "fact": "The man making Vee's dress knelt before her on a fitting platform and measured from her left hip",
     "source_character": "Vivienne",
     "source_reliable": true,
@@ -1830,7 +550,817 @@
     "chapter_number": 14
   },
   {
-    "character_name": "Miranda",
+    "character_name": "Cassie",
+    "fact": "Vee initiated a kiss with Pace herself, after he had already begun walking away",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee explicitly insists she acted of her own volition and was not coerced or intoxicated",
+    "scene_file": "scenes/vee-tells-cassie-fitting.md",
+    "chapter_number": 13
+  },
+  {
+    "character_name": "Cassie",
+    "fact": "There was no alcohol at the dinner \u2014 only tea",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Cassie's joking question about drink implies she had not known this; Vee corrects her emphatically",
+    "scene_file": "scenes/vee-tells-cassie-fitting.md",
+    "chapter_number": 13
+  },
+  {
+    "character_name": "Cassie",
+    "fact": "Vee believes she kissed Pace entirely of her own free will and desire, without being pressured or manipulated",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": false,
+    "notes": "This is Vee's stated self-knowledge; actual_truth left null because the novel may later complicate it \u2014 the vignette framing ('before Randi reshapes it') hints at future recontextualization",
+    "scene_file": "scenes/vee-tells-cassie-fitting.md",
+    "chapter_number": 13
+  },
+  {
+    "character_name": "Cassie",
+    "fact": "The man's name is Pace",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": null,
+    "scene_file": "scenes/vee-tells-cassie-fitting.md",
+    "chapter_number": 13
+  },
+  {
+    "character_name": "Cassie",
+    "fact": "Pace lives west of town, off route 614, past where the road goes to gravel",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": false,
+    "notes": "Vee states this as fact she knows; actual_truth unverifiable from scene alone but no reason given to doubt it",
+    "scene_file": "scenes/vee-tells-cassie-fitting.md",
+    "chapter_number": 13
+  },
+  {
+    "character_name": "Cassie",
+    "fact": "There is a hiking trail Pace frequents near his home",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": false,
+    "notes": "Reported second-hand from Pace via Vee; plausible but unverified",
+    "scene_file": "scenes/vee-tells-cassie-fitting.md",
+    "chapter_number": 13
+  },
+  {
+    "character_name": "Cassie",
+    "fact": "Vee does not know whether Pace is wealthy",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee admits she has not yet seen his house and hasn't determined his financial situation",
+    "scene_file": "scenes/vee-tells-cassie-fitting.md",
+    "chapter_number": 13
+  },
+  {
+    "character_name": "Cassie",
+    "fact": "Pace told Vee she must wear real shoes for the hike",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": false,
+    "notes": "Reported second-hand from Pace via Vee",
+    "scene_file": "scenes/vee-tells-cassie-fitting.md",
+    "chapter_number": 13
+  },
+  {
+    "character_name": "Cassie",
+    "fact": "Pace looked at Randi with complete romantic indifference despite her being the most conventionally attractive person at the table, and looked at Vee with sustained romantic interest",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Cassie observes this directly and reports it plainly; the narrator confirms her read is accurate",
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Cassie",
+    "fact": "Pace is making Vee a burgundy silk skirt for her honor society induction",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": null,
+    "scene_file": "scenes/vee-tells-cassie-fitting.md",
+    "chapter_number": 13
+  },
+  {
+    "character_name": "Cassie",
+    "fact": "Vee told Pace about the induction and the dress she wanted roughly three weeks ago",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee's own estimate, given with slight uncertainty",
+    "scene_file": "scenes/vee-tells-cassie-fitting.md",
+    "chapter_number": 13
+  },
+  {
+    "character_name": "Cassie",
+    "fact": "Pace bought burgundy silk and had a riser built in preparation for the fitting",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": null,
+    "scene_file": "scenes/vee-tells-cassie-fitting.md",
+    "chapter_number": 13
+  },
+  {
+    "character_name": "Cassie",
+    "fact": "The flannel shirt Vee has been sleeping in was made by Pace",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Cassie had already observed Vee wearing the shirt repeatedly; she now learns its origin",
+    "scene_file": "scenes/vee-tells-cassie-fitting.md",
+    "chapter_number": 13
+  },
+  {
+    "character_name": "Cassie",
+    "fact": "Pace turned the heat up in his house before Vee arrived so she would not be cold",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee inferred this; Cassie accepts it and reacts with evident feeling",
+    "scene_file": "scenes/vee-tells-cassie-fitting.md",
+    "chapter_number": 13
+  },
+  {
+    "character_name": "Cassie",
+    "fact": "Vee removed her bra as well as her shirt for the fitting at Pace's request",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": null,
+    "scene_file": "scenes/vee-tells-cassie-fitting.md",
+    "chapter_number": 13
+  },
+  {
+    "character_name": "Cassie",
+    "fact": "Pace indicated Vee should remove her bra in a way that left her a choice rather than issuing a direct order",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee explicitly characterizes it this way: 'He left it open. He left me a door.'",
+    "scene_file": "scenes/vee-tells-cassie-fitting.md",
+    "chapter_number": 13
+  },
+  {
+    "character_name": "Cassie",
+    "fact": "Vee had previously removed her shirt in front of Pace during a rain incident, and knocked on his window to do so",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Cassie apparently already knew about this event but Vee's confirmation and framing \u2014 'I was looking at his eyes the whole time' \u2014 is new detail",
+    "scene_file": "scenes/vee-tells-cassie-fitting.md",
+    "chapter_number": 13
+  },
+  {
+    "character_name": "Cassie",
+    "fact": "Vee deliberately pressed herself against Pace while he was pinning the back seam",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee admits this herself as the punchline of the scene",
+    "scene_file": "scenes/vee-tells-cassie-fitting.md",
+    "chapter_number": 13
+  },
+  {
+    "character_name": "Cassie",
+    "fact": "Pace is not gay \u2014 Vee cites that he kisses in a way inconsistent with that, and that she felt his erection during the fitting",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee is the direct source of both data points; actual_truth assessed as true within the story world based on the author's framing",
+    "scene_file": "scenes/vee-tells-cassie-fitting.md",
+    "chapter_number": 13
+  },
+  {
+    "character_name": "Pace",
+    "fact": "Vee considers this outing the nicest she has been treated in a long time",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": false,
+    "notes": "Vee says this directly to him; he hears it. Whether it reflects objective truth about her history is LOW confidence.",
+    "scene_file": "scenes/the-froyo-walk.md",
+    "chapter_number": 6
+  },
+  {
+    "character_name": "Pace",
+    "fact": "Vee is self-conscious about the admission she made and would prefer it be passed over",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "She explicitly says 'pretend I didn't' and the narration notes she winced",
+    "scene_file": "scenes/the-froyo-walk.md",
+    "chapter_number": 6
+  },
+  {
+    "character_name": "Pace",
+    "fact": "Randi's desire for a woman is genuinely her own wanting, not merely a gift she is offering him \u2014 the threesome framing is camouflage the wanting needs to come out in",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Pace reads this from Randi's body language and physical responses over the course of the afternoon walk; confirmed repeatedly by the dropped stride and bare 'yes' at the end",
+    "scene_file": "scenes/origin-campus-walk.md",
+    "chapter_number": 3
+  },
+  {
+    "character_name": "Pace",
+    "fact": "Randi rejects women who are 'too expected' \u2014 i.e., mirrors of her own type: narrow, sleek, high ponytail",
+    "source_character": "Miranda",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Randi's stated rejection of the first girl on the path",
+    "scene_file": "scenes/origin-campus-walk.md",
+    "chapter_number": 3
+  },
+  {
+    "character_name": "Pace",
+    "fact": "Randi rejects matched pairs because she believes you would get both or neither",
+    "source_character": "Miranda",
+    "source_reliable": true,
+    "actual_truth": false,
+    "notes": "This is Randi's stated reasoning; its truth in the story world is not verified",
+    "scene_file": "scenes/origin-campus-walk.md",
+    "chapter_number": 3
+  },
+  {
+    "character_name": "Pace",
+    "fact": "Randi rejects closed, unreachable women \u2014 ones who would be 'a project'",
+    "source_character": "Miranda",
+    "source_reliable": true,
+    "actual_truth": false,
+    "notes": "Randi's verdict on the camel-coat girl; Pace infers the rule 'not the closed ones, not the ones who'd have to be gotten through'",
+    "scene_file": "scenes/origin-campus-walk.md",
+    "chapter_number": 3
+  },
+  {
+    "character_name": "Pace",
+    "fact": "Vivienne's boots were not properly fitted (a half size too large, stiff at the ankle) and she developed a heel hot spot during the climb",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "He diagnoses and treats the hot spot directly",
+    "scene_file": "scenes/hiking-rainstorm.md",
+    "chapter_number": 10
+  },
+  {
+    "character_name": "Pace",
+    "fact": "Vivienne called him back into the cab and deliberately unbuttoned her shirt in front of him",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": null,
+    "scene_file": "scenes/hiking-rainstorm.md",
+    "chapter_number": 10
+  },
+  {
+    "character_name": "Pace",
+    "fact": "Vee told him she had been eating crackers her whole life and that he fed her a meal and she now knows what a meal is",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "He heard the sentence directly; whether he fully understood it as a declaration of love is ambiguous by the scene's design \u2014 his physical response (two breaths, stopped hand) suggests he registered something significant",
+    "scene_file": "scenes/porch-scene.md",
+    "chapter_number": 33
+  },
+  {
+    "character_name": "Pace",
+    "fact": "Randi rejects women whose warmth and ease is performed and aimed outward \u2014 who 'run the room and know it'",
+    "source_character": "Miranda",
+    "source_reliable": true,
+    "actual_truth": false,
+    "notes": "Pace's inference after Randi's strong 'God, no' to the confident blazer girl; he registers his own guess was wrong and updates his model",
+    "scene_file": "scenes/origin-campus-walk.md",
+    "chapter_number": 3
+  },
+  {
+    "character_name": "Pace",
+    "fact": "Randi is genuinely attracted to the red-haired girl (Vivienne) \u2014 the wanting preceded any conscious decision",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Read from the dropped stride and the sustained, unmanaged looking before Randi recovered into the girlfriend-offering framing",
+    "scene_file": "scenes/origin-campus-walk.md",
+    "chapter_number": 3
+  },
+  {
+    "character_name": "Pace",
+    "fact": "Randi is a highly skilled social operator \u2014 capable of engineering a 'chance' meeting with precision that makes her target believe the collision was the target's own fault",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Pace observes this directly while watching from the light pole; he had not seen her 'aim it at a person' before",
+    "scene_file": "scenes/origin-campus-walk.md",
+    "chapter_number": 3
+  },
+  {
+    "character_name": "Pace",
+    "fact": "The red-haired girl's name is Vee (Vivienne) and she shares a stats class with Randi",
+    "source_character": "Miranda",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Randi reports this immediately upon returning",
+    "scene_file": "scenes/origin-campus-walk.md",
+    "chapter_number": 3
+  },
+  {
+    "character_name": "Pace",
+    "fact": "Randi wants to taste Vee \u2014 not as an offered gift or future arrangement, but as an immediate, unguarded desire ('I can't wait to taste her'), including tasting Vee secondhand off him after the fact",
+    "source_character": "Miranda",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Pace explicitly reads this as an unguarded slip ahead of Randi's plan, not a performative offer. He distinguishes it from the scaffolded version she might have intended. HIGH confidence on the learning; the scene narrates his interpretive process in detail.",
+    "scene_file": "scenes/ignition-scalding.md",
+    "chapter_number": 42
+  },
+  {
+    "character_name": "Pace",
+    "fact": "Randi is willing \u2014 even eager \u2014 to take the subordinate position relative to Vee (arriving after, taking 'sloppy seconds'), despite ranking Vee beneath her in every daylight context",
+    "source_character": "Miranda",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Pace explicitly synthesizes the two statements ('I can't wait to taste her' and 'I would take sloppy seconds off her') into a single unambiguous sentence. The scene marks this as a clean resolution with no interpretive doubt left in him.",
+    "scene_file": "scenes/ignition-scalding.md",
+    "chapter_number": 42
+  },
+  {
+    "character_name": "Pace",
+    "fact": "Randi's yes to the Tuesday arrangement came from a different source than where she had been pushing \u2014 her afternoon's seduction work did not produce his agreement; the unguarded slip did",
+    "source_character": null,
+    "source_reliable": false,
+    "actual_truth": true,
+    "notes": "Pace observes this himself and also watches Randi register the same flicker of 'that was easy' without understanding why. Internally generated knowledge, no external source.",
+    "scene_file": "scenes/ignition-scalding.md",
+    "chapter_number": 42
+  },
+  {
+    "character_name": "Pace",
+    "fact": "Randi noticed that his agreement came from an unexpected source but chose not to pursue the question, letting the flicker go in favor of keeping what she'd gotten",
+    "source_character": null,
+    "source_reliable": false,
+    "actual_truth": true,
+    "notes": "Pace witnesses this directly and the narration confirms it: 'He watched her decide not to ask it.'",
+    "scene_file": "scenes/ignition-scalding.md",
+    "chapter_number": 42
+  },
+  {
+    "character_name": "Pace",
+    "fact": "Randi's physical and emotional response to tasting Vee on him \u2014 the involuntary sound, the blown-open eyes, the body voting ahead of her composure \u2014 exceeded what she had budgeted or controlled for",
+    "source_character": null,
+    "source_reliable": false,
+    "actual_truth": true,
+    "notes": "Pace reads this directly from her body and the involuntary sound she cannot call back. He recognizes the same face he has seen before: 'the want surfacing past the management, the woman out ahead of her own composure.'",
+    "scene_file": "scenes/ignition-scalding.md",
+    "chapter_number": 42
+  },
+  {
+    "character_name": "Pace",
+    "fact": "Randi can smell Vee on him",
+    "source_character": "Miranda",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Randi states this directly. Pace's body response ('heat, all heat') confirms he registers it as real and charged, not performative.",
+    "scene_file": "scenes/ignition-scalding.md",
+    "chapter_number": 42
+  },
+  {
+    "character_name": "Pace",
+    "fact": "Vee drives a small Corolla, keeps a year-round wreath on her front door, and texts a photo of her door to confirm she's home safely",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Directly observed / received. Granular logistical detail; likely already known to Pace given the established relationship, but explicitly shown here.",
+    "scene_file": "scenes/ignition-scalding.md",
+    "chapter_number": 42
+  },
+  {
+    "character_name": "Pace",
+    "fact": "Vee arrives put-together and leaves undone and does not seem to mind him seeing her undone; Pace has taken this as a form of trust",
+    "source_character": null,
+    "source_reliable": false,
+    "actual_truth": false,
+    "notes": "This is Pace's interpretive reading of Vee's behavior, not a stated fact. Actual truth uncertain \u2014 the scene does not confirm whether Vee consciously intends it as trust. Confidence LOW on the interpretation being correct; HIGH on the fact that Pace holds this belief.",
+    "scene_file": "scenes/ignition-scalding.md",
+    "chapter_number": 42
+  },
+  {
+    "character_name": "Pace",
+    "fact": "Randi's face after the night \u2014 blank, emptied-out, faraway \u2014 is the same face he has seen once before in different lamplight after a different scene, indicating he reached fully into her",
+    "source_character": null,
+    "source_reliable": false,
+    "actual_truth": false,
+    "notes": "Pace reads the face as evidence he was 'that good' and that she is wrung out. He interprets the non-response of her hand as exhaustion, not emotional withdrawal. Whether his reading is correct is not confirmed by the scene \u2014 the narratorial register ('the dread is reread-only') suggests LOW confidence on actual truth.",
+    "scene_file": "scenes/ignition-scalding.md",
+    "chapter_number": 42
+  },
+  {
+    "character_name": "Pace",
+    "fact": "Randi locks the front door behind her as her first action upon entering \u2014 every time, before anything else",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Narrator establishes this as an observed pattern, confirmed again this visit",
+    "scene_file": "scenes/the-bench.md",
+    "chapter_number": 1
+  },
+  {
+    "character_name": "Pace",
+    "fact": "Randi told her sorority sister Brooke she had a paper due in order to leave chapter dinner early and come to him",
+    "source_character": "Miranda",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Randi volunteers this information herself; Pace did not know the specific lie before she told him",
+    "scene_file": "scenes/the-bench.md",
+    "chapter_number": 1
+  },
+  {
+    "character_name": "Pace",
+    "fact": "Vivienne reached for his hand and brought it against her belly under the flannel when she discovered he was shivering",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": null,
+    "scene_file": "scenes/hiking-rainstorm.md",
+    "chapter_number": 10
+  },
+  {
+    "character_name": "Pace",
+    "fact": "Randi's paper is not due until Thursday, meaning the lie to Brooke was unnecessary in terms of academic urgency",
+    "source_character": "Miranda",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Randi states this directly when Pace asks if she has a paper",
+    "scene_file": "scenes/the-bench.md",
+    "chapter_number": 1
+  },
+  {
+    "character_name": "Pace",
+    "fact": "Randi eats thin apple slices faster when they are placed cut-side up in the bowl",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "The narrator clarifies this is something Pace had previously noticed and acted on; confirmed again this scene as he had already prepared the bowl this way. This is prior knowledge made explicit to the reader here, not new to Pace.",
+    "scene_file": "scenes/the-bench.md",
+    "chapter_number": 1
+  },
+  {
+    "character_name": "Pace",
+    "fact": "When brought to genuine emotional extremity, Randi's voice drops from her trained social register into something lower, broken, and unperformed \u2014 her actual voice",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Pace had been waiting for this since the first night; this scene is the first time he witnesses it. He explicitly registers the difference.",
+    "scene_file": "scenes/the-bench.md",
+    "chapter_number": 1
+  },
+  {
+    "character_name": "Pace",
+    "fact": "Randi is capable of a full-body shudder during orgasm \u2014 a response he had not seen from her before tonight",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Pace observes and explicitly notes this as new",
+    "scene_file": "scenes/the-bench.md",
+    "chapter_number": 1
+  },
+  {
+    "character_name": "Vee",
+    "fact": "She has not previously articulated her reasons for studying economics to anyone in as much detail as she did to Pace",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee's own internal observation",
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Pace",
+    "fact": "Randi was crying during and after her orgasm, apparently without being aware she was doing it",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Pace observes the crying and notes he had not noticed it start; the narrator confirms she did not seem to know she was doing it",
+    "scene_file": "scenes/the-bench.md",
+    "chapter_number": 1
+  },
+  {
+    "character_name": "Pace",
+    "fact": "When called beautiful by him in an unguarded moment after the scene, Randi flinched involuntarily \u2014 suggesting the compliment landed somewhere she was not braced for",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Pace feels the flinch physically through her body against his chest and registers it explicitly",
+    "scene_file": "scenes/the-bench.md",
+    "chapter_number": 1
+  },
+  {
+    "character_name": "Pace",
+    "fact": "Randi locked the bathroom door behind her \u2014 something she had never done before in his house",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Pace explicitly registers this as a departure from her prior behavior",
+    "scene_file": "scenes/the-bench.md",
+    "chapter_number": 1
+  },
+  {
+    "character_name": "Pace",
+    "fact": "Randi cried again briefly while alone in the bathroom",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Pace hears this while waiting on the bed; he can hear through the door",
+    "scene_file": "scenes/the-bench.md",
+    "chapter_number": 1
+  },
+  {
+    "character_name": "Pace",
+    "fact": "He believes he has gotten further into Randi tonight than he expected to get this early, and that she will be gradually different from this point forward",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Stated as Pace's own internal reflection; the novel's framing does not contradict his assessment",
+    "scene_file": "scenes/the-bench.md",
+    "chapter_number": 1
+  },
+  {
+    "character_name": "Randi",
+    "fact": "His expression when he saw the evidence of her arousal was the same as in the fitting room, scaled up \u2014 her body producing evidence that his presence was landing, and that being the good thing",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "She reads his expression and consciously connects it to the fitting room moment; something shifts in her chest",
+    "scene_file": "scenes/first-night.md",
+    "chapter_number": 18
+  },
+  {
+    "character_name": "Randi",
+    "fact": "The color of the burgundy nail polish she chose was close to the silk he held to her face in the fitting room",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "She noticed the connection herself; this is confirmation of a link she had already made and returned to multiple times before the scene begins, but it is foregrounded here as something she had been processing",
+    "scene_file": "scenes/first-night.md",
+    "chapter_number": 18
+  },
+  {
+    "character_name": "Randi",
+    "fact": "Brooke noticed she was coming home in last night's clothes on a Saturday morning, meaning the sorority house has registered her Walk of Shame",
+    "source_character": "Brooke",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Randi understands from the inside of chapter politics exactly what Brooke's questions signified; the scene makes clear she is under no illusion about what Brooke knows",
+    "scene_file": "scenes/randis-walk-of-shame.md",
+    "chapter_number": 2
+  },
+  {
+    "character_name": "Randi",
+    "fact": "Brooke knows the name of the man she spent the night with \u2014 Peter Pace \u2014 and has now filed it",
+    "source_character": "Brooke",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Brooke's deliberate repetition of 'Pace' \u2014 'like she was filing it' \u2014 is explicitly narrated as registering on Randi",
+    "scene_file": "scenes/randis-walk-of-shame.md",
+    "chapter_number": 2
+  },
+  {
+    "character_name": "Randi",
+    "fact": "Brooke knows or suspects Pace is a graduate student in mathematics working toward a PhD",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Randi volunteered this information in the exchange; she is now aware Brooke has it",
+    "scene_file": "scenes/randis-walk-of-shame.md",
+    "chapter_number": 2
+  },
+  {
+    "character_name": "Randi",
+    "fact": "Brooke raised and ostensibly dismissed the possibility that Pace teaches a section Randi is enrolled in, and Randi denied it",
+    "source_character": "Brooke",
+    "source_reliable": true,
+    "actual_truth": false,
+    "notes": "The scene deliberately leaves the actual truth ambiguous \u2014 Randi's pause is noted as wider here than elsewhere, and her denial ('Not his section') is technically worded rather than a flat 'no'. The actual truth is unconfirmed by the scene.",
+    "scene_file": "scenes/randis-walk-of-shame.md",
+    "chapter_number": 2
+  },
+  {
+    "character_name": "Randi",
+    "fact": "Brooke ended the conversation on her own terms, leaving Randi unable to deploy the deflections she had prepared",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Explicitly narrated from Randi's point of view as a recognition of Brooke's authority move",
+    "scene_file": "scenes/randis-walk-of-shame.md",
+    "chapter_number": 2
+  },
+  {
+    "character_name": "Randi",
+    "fact": "The line 'He's hard to say no to,' which she performed successfully for the girls earlier, carries a different and privately unbearable meaning for her",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "This is an internal recognition, not new external information \u2014 but the scene marks it as something she comes to hear differently while alone in her room, suggesting she is processing it as a new understanding rather than a prior one",
+    "scene_file": "scenes/randis-walk-of-shame.md",
+    "chapter_number": 2
+  },
+  {
+    "character_name": "Randi",
+    "fact": "She cried the night before in his bathroom, looking at herself in the mirror",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Revealed through Randi's own interior recollection; this is prior-scene information surfacing, not something she learns in this scene, but it is the first moment the reader and Randi together consciously hold this fact",
+    "scene_file": "scenes/randis-walk-of-shame.md",
+    "chapter_number": 2
+  },
+  {
+    "character_name": "Randi",
+    "fact": "Pace is not selecting a woman for himself \u2014 the choosing is hers, and he is watching her learn that she can choose",
+    "source_character": "Peter Pace",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Randi arrives at this understanding when Pace says 'I'm not the one being asked' after she asks whether a matched pair would be a yes or no for him",
+    "scene_file": "scenes/origin-campus-walk.md",
+    "chapter_number": 3
+  },
+  {
+    "character_name": "Randi",
+    "fact": "The red-haired girl's name is Vee and they share a stats class",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Randi learns this directly from the brief introduction she engineers on the lawn",
+    "scene_file": "scenes/origin-campus-walk.md",
+    "chapter_number": 3
+  },
+  {
+    "character_name": "Randi",
+    "fact": "Tasting Vee on Pace produced an involuntary, uncontrolled physical and vocal response in her that preceded her own consent",
+    "source_character": null,
+    "source_reliable": false,
+    "actual_truth": true,
+    "notes": "She hears the sound she makes and is caught by it \u2014 'caught not by him but by herself.' She registers this in the moment. HIGH confidence she is aware of it; the scene marks it as an experience she cannot call back.",
+    "scene_file": "scenes/ignition-scalding.md",
+    "chapter_number": 42
+  },
+  {
+    "character_name": "Randi",
+    "fact": "Vee was at Pace's house earlier that evening \u2014 her scent is present on him",
+    "source_character": null,
+    "source_reliable": false,
+    "actual_truth": true,
+    "notes": "Randi detects this herself on arrival. Consistent with the arrangement Pace set up. She already knew Vee would be there; the sensory confirmation is new.",
+    "scene_file": "scenes/ignition-scalding.md",
+    "chapter_number": 42
+  },
+  {
+    "character_name": "Randi",
+    "fact": "Peter Pace made the shirt he previously gave her \u2014 there was no brand tag because he sewed it himself",
+    "source_character": "Peter Pace",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "She had previously filed the missing tag under 'counterfeit, sample, off-brand' without landing on an answer. The scene explicitly states she realizes this during the fitting.",
+    "scene_file": "scenes/the-fitting.md",
+    "chapter_number": 12
+  },
+  {
+    "character_name": "Randi",
+    "fact": "Pace chose the burgundy cloth to match her coloring specifically, not to match the dress she had described from the magazine",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "She arrives at this herself by holding the cloth near her face and seeing their reflection together in the window glass.",
+    "scene_file": "scenes/the-fitting.md",
+    "chapter_number": 12
+  },
+  {
+    "character_name": "Randi",
+    "fact": "The collar of the shirt he made her took him four tries",
+    "source_character": "Peter Pace",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": null,
+    "scene_file": "scenes/the-fitting.md",
+    "chapter_number": 12
+  },
+  {
+    "character_name": "Randi",
+    "fact": "Pace turned the thermostat up before she arrived so she would not be cold while undressed during the fitting",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "She infers this herself; the scene marks it as her act of registering and understanding. Confidence is high because the narrative frames her inference as correct.",
+    "scene_file": "scenes/the-fitting.md",
+    "chapter_number": 12
+  },
+  {
+    "character_name": "Vee",
+    "fact": "The trail's opening grade is steep but eases in as you climb further",
+    "source_character": "Peter Pace",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Pace told her 'It eases in' and the scene confirms this as she finds her rhythm later",
+    "scene_file": "scenes/hiking-rainstorm.md",
+    "chapter_number": 10
+  },
+  {
+    "character_name": "Randi",
+    "fact": "Pace also had the kettle water already hot before she arrived, anticipating she would need tea during the fitting",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Parenthetical observation in narrative; she registers it as part of the same pattern of his forethought.",
+    "scene_file": "scenes/the-fitting.md",
+    "chapter_number": 12
+  },
+  {
+    "character_name": "Randi",
+    "fact": "Pace has a purpose-built low riser/platform in his house for fitting work",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "She observes this when directed back onto it; the narrative notes her recognition of it as deliberate construction.",
+    "scene_file": "scenes/the-fitting.md",
+    "chapter_number": 12
+  },
+  {
+    "character_name": "Randi",
+    "fact": "Pace did not look down at the visible wet patch on her panties while he was working at that level; he had been waiting with his face turned up toward hers instead",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "She directly observes this when she opens her eyes and finds him already looking up at her face.",
+    "scene_file": "scenes/the-fitting.md",
+    "chapter_number": 12
+  },
+  {
+    "character_name": "Randi",
+    "fact": "Pace wants her physically but is choosing to hold a boundary and finish the dress correctly rather than act on that want",
+    "source_character": "Peter Pace",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "She reads this in his 'Keep still' and the silence before it; the narrative confirms this interpretation explicitly.",
+    "scene_file": "scenes/the-fitting.md",
+    "chapter_number": 12
+  },
+  {
+    "character_name": "Randi",
+    "fact": "She has the capacity to nearly destabilize Pace's composure \u2014 that she holds that kind of effect over him",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "She arrives at this herself after the pin incident and his visible struggle. The narrative frames it as new self-knowledge.",
+    "scene_file": "scenes/the-fitting.md",
+    "chapter_number": 12
+  },
+  {
+    "character_name": "Randi",
+    "fact": "The burgundy cloth \u2014 deeper than the magazine shade with purple undertones \u2014 suits her coloring better than the original shade she had wanted would have",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Directly observed by her in the window reflection; her disappointment converts to something she cannot name.",
+    "scene_file": "scenes/the-fitting.md",
+    "chapter_number": 12
+  },
+  {
+    "character_name": "Randi",
+    "fact": "Pace kissed the pin-prick on her ribs and held the contact slightly longer than the gesture required",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "She directly experiences and registers this.",
+    "scene_file": "scenes/the-fitting.md",
+    "chapter_number": 12
+  },
+  {
+    "character_name": "Randi",
+    "fact": "Being seen fully \u2014 including at her most ashamed \u2014 by Pace did not result in being found wanting",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "She arrives at this as a felt, not yet fully articulated, understanding near the scene's close. The narrative flags it as significant future knowledge.",
+    "scene_file": "scenes/the-fitting.md",
+    "chapter_number": 12
+  },
+  {
+    "character_name": "Randi",
+    "fact": "The bench in Pace's bedroom is not a table \u2014 it is a purpose-built apparatus designed to restrain and position a woman's body in a specific way",
+    "source_character": "Peter Pace",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Randi had believed it was a table since her second visit; she revises this belief when she sees it with the wooden top removed and its working surfaces visible",
+    "scene_file": "scenes/the-bench.md",
+    "chapter_number": 1
+  },
+  {
+    "character_name": "Randi",
     "fact": "Vee has a strong emotional and possibly erotic response to being looked at",
     "source_character": "Vivienne",
     "source_reliable": true,
@@ -1840,7 +1370,7 @@
     "chapter_number": 14
   },
   {
-    "character_name": "Miranda",
+    "character_name": "Randi",
     "fact": "Vee has a secret about what happened at the moment the dressmaker was kneeling in front of her \u2014 something she has told no one, not even Cassie",
     "source_character": "Vivienne",
     "source_reliable": true,
@@ -1850,12 +1380,482 @@
     "chapter_number": 14
   },
   {
-    "character_name": "Miranda",
+    "character_name": "Randi",
     "fact": "Vee pays for her own lunch rather than allowing Randi to pay, even when it costs her",
     "source_character": null,
     "source_reliable": true,
     "actual_truth": true,
     "notes": "Randi witnesses Vee produce her card before Randi can reach for the check; Randi watches the whole transaction",
+    "scene_file": "scenes/brunch-fitting-randi.md",
+    "chapter_number": 14
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Cassie's initial concern that Vee may have been given alcohol or otherwise influenced is dispelled \u2014 Cassie accepts that Vee acted freely",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee registers that Cassie's 'okay' the second time carries genuine belief; this is framed from Vee's POV as a meaningful shift",
+    "scene_file": "scenes/cassie-before.md",
+    "chapter_number": 11
+  },
+  {
+    "character_name": "Vee",
+    "fact": "She has been carrying unsaid words of love for Pace and has a self-imposed rule that she will not say 'I love you' before he does",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Surfaced in her interior during this scene; the rule is her own, discovered from the inside by bumping against it",
+    "scene_file": "scenes/porch-scene.md",
+    "chapter_number": 33
+  },
+  {
+    "character_name": "Vee",
+    "fact": "She said her cracker-and-meal sentence aloud to Pace \u2014 the full prepared sentence, whole, as she had built it",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "The scene presents this as a decisive completed act, not a partial or fumbled one",
+    "scene_file": "scenes/porch-scene.md",
+    "chapter_number": 33
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Pace's verbal response to her sentence was 'I love how good we are together' and 'I never had this either \u2014 what you do \u2014 what your body does \u2014 I've never. I'm glad you feel it too'",
+    "source_character": "Peter Pace",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "She heard the words directly; their meaning and adequacy are what she will be uncertain about later",
+    "scene_file": "scenes/porch-scene.md",
+    "chapter_number": 33
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Pace responded to her sentence with physical warmth: a deliberate pull closer, a longer-than-usual held kiss on her crown, his cheek settling against her hair",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "She registered this bodily and received it; she also registered the small hesitation before it (the two breaths, the stopped hand)",
+    "scene_file": "scenes/porch-scene.md",
+    "chapter_number": 33
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Something in Pace's response did not match the shape of what she had said \u2014 her body registered a mismatch before her mind could name it",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "The 'small wait behind her sternum' is a body-before-mind registration; she does not consciously articulate the mismatch in the scene's present, only senses it",
+    "scene_file": "scenes/porch-scene.md",
+    "chapter_number": 33
+  },
+  {
+    "character_name": "Vee",
+    "fact": "She will not say the cracker-and-meal sentence again; the saying was a one-time opening and Pace did not give the answer she was waiting for",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "This is a decision she arrives at in the 'later' passage \u2014 not during the scene's present but shortly after; confidence HIGH because the narration states it directly",
+    "scene_file": "scenes/porch-scene.md",
+    "chapter_number": 33
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Pace's sentence and her sentence were 'not the same shape'",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "She allows this formulation into herself days later but does not finish the thought; she cannot determine whether he understood and routed around it or did not understand; the uncertainty is the load the scene installs",
+    "scene_file": "scenes/porch-scene.md",
+    "chapter_number": 33
+  },
+  {
+    "character_name": "Vee",
+    "fact": "She was received warmly",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "She tells herself this as evidence, in the private way you remind yourself of evidence whose weight you are not sure of \u2014 the narration marks her uncertainty about how much weight it bears",
+    "scene_file": "scenes/porch-scene.md",
+    "chapter_number": 33
+  },
+  {
+    "character_name": "Vee",
+    "fact": "She does not know what happened in the exchange \u2014 whether Pace understood her and chose to respond as he did, or did not understand",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "She lands on this as a position she cannot resolve; the not-knowing is explicitly what the scene installs in her",
+    "scene_file": "scenes/porch-scene.md",
+    "chapter_number": 33
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Cassie is willing to accept that Vee acted freely and intentionally in kissing Pace",
+    "source_character": "Cassandra",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Cassie's second 'okay' is described as carrying belief; Vee registers this shift",
+    "scene_file": "scenes/vee-tells-cassie-fitting.md",
+    "chapter_number": 13
+  },
+  {
+    "character_name": "Vee",
+    "fact": "She does not know whether Pace is wealthy, and had not thought about it until Cassie raised it",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Self-realization prompted by Cassie's question; Vee explicitly notes it hadn't occurred to her before",
+    "scene_file": "scenes/vee-tells-cassie-fitting.md",
+    "chapter_number": 13
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Peter Pace called her the same night she gave him her number",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Narrated as fact from Vee's POV",
+    "scene_file": "scenes/the-froyo-walk.md",
+    "chapter_number": 6
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Pace has a deliberate system for building frozen yogurt cups \u2014 tart base on the bottom to support heavier toppings",
+    "source_character": "Peter Pace",
+    "source_reliable": true,
+    "actual_truth": false,
+    "notes": "Presented as Pace's personal philosophy/preference; actual optimality is opinion not fact",
+    "scene_file": "scenes/the-froyo-walk.md",
+    "chapter_number": 6
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Pace has thought carefully and deliberately about most things",
+    "source_character": "Peter Pace",
+    "source_reliable": true,
+    "actual_truth": false,
+    "notes": "Pace states this himself; Vee registers and believes it. Whether fully true is LOW confidence",
+    "scene_file": "scenes/the-froyo-walk.md",
+    "chapter_number": 6
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Pace paid for both of their frozen yogurts before she could find her wallet",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Directly observed by Vee",
+    "scene_file": "scenes/the-froyo-walk.md",
+    "chapter_number": 6
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Pace listens to her fully \u2014 waits through her entire answer before responding \u2014 in a way she is unaccustomed to",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Directly experienced and explicitly reflected on by Vee",
+    "scene_file": "scenes/the-froyo-walk.md",
+    "chapter_number": 6
+  },
+  {
+    "character_name": "Vee",
+    "fact": "She has not been treated this kindly by someone in a long time",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": false,
+    "notes": "Vee's own stated belief about her experience; author presents it sincerely. Actual truth relative to her history is unverifiable from this scene alone.",
+    "scene_file": "scenes/the-froyo-walk.md",
+    "chapter_number": 6
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Pace does not dismiss or minimize her vulnerable admission, but also does not make it overwrought \u2014 he simply acknowledges it quietly",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Directly observed behavior; Vee registers this implicitly through the narration",
+    "scene_file": "scenes/the-froyo-walk.md",
+    "chapter_number": 6
+  },
+  {
+    "character_name": "Vee",
+    "fact": "He had showered and shaved before coming to get her, preparing specifically for their evening together",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee observes the damp-dark edge of his hair and razor-fresh color on his jaw and interprets this as preparation for her specifically",
+    "scene_file": "scenes/may-i-choose.md",
+    "chapter_number": 8
+  },
+  {
+    "character_name": "Vee",
+    "fact": "He keeps to the street side when walking with her",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee notices this but the scene does not indicate she interprets why; she registers it as a pattern or habit of his",
+    "scene_file": "scenes/may-i-choose.md",
+    "chapter_number": 8
+  },
+  {
+    "character_name": "Vee",
+    "fact": "He knows the restaurant owner Christine personally, and Christine is glad to see him",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee observes the ease between them directly",
+    "scene_file": "scenes/may-i-choose.md",
+    "chapter_number": 8
+  },
+  {
+    "character_name": "Vee",
+    "fact": "He speaks a language (Arabic or similar) she does not understand, and uses it to order food",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee registers the sounds as foreign to her; the scene names dishes like baba ghanoush and tabbouleh, suggesting a Middle Eastern language context",
+    "scene_file": "scenes/may-i-choose.md",
+    "chapter_number": 8
+  },
+  {
+    "character_name": "Vee",
+    "fact": "He ordered the dishes intentionally as a pairing \u2014 a bright sharp dish and a smoky soft dish \u2014 and knew what he was doing when he chose them",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee infers this from experiencing the contrast; confidence marked accordingly as the scene presents this as her realization",
+    "scene_file": "scenes/may-i-choose.md",
+    "chapter_number": 8
+  },
+  {
+    "character_name": "Vee",
+    "fact": "He consistently uses only his right hand at the table \u2014 a pattern she notices as a rule he keeps",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee notices it has happened enough times to constitute a pattern; she does not learn the reason",
+    "scene_file": "scenes/may-i-choose.md",
+    "chapter_number": 8
+  },
+  {
+    "character_name": "Vee",
+    "fact": "She is capable of letting go of her habitual vigilance and self-monitoring, and finds rest in doing so",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "This is an internal realization Vee arrives at during the evening; she notices the absence of her usual background readiness",
+    "scene_file": "scenes/may-i-choose.md",
+    "chapter_number": 8
+  },
+  {
+    "character_name": "Vee",
+    "fact": "The mint tea was served in small glasses set in worked brass cages with handles, designed to be held while still hot",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee perceives the function of the vessel directly through use; minor practical fact but explicitly registered by her",
+    "scene_file": "scenes/may-i-choose.md",
+    "chapter_number": 8
+  },
+  {
+    "character_name": "Vee",
+    "fact": "He took her hand unprompted and without ceremony on leaving the restaurant",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee experiences this as the first time; she registers its emotional weight explicitly",
+    "scene_file": "scenes/may-i-choose.md",
+    "chapter_number": 8
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Holding his hand felt less like something new beginning than something that had always been missing being resolved",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": false,
+    "notes": "This is Vee's subjective emotional experience, not an objective fact; actual_truth is not applicable in the usual sense \u2014 marked null",
+    "scene_file": "scenes/may-i-choose.md",
+    "chapter_number": 8
+  },
+  {
+    "character_name": "Vee",
+    "fact": "When she invoked her rule against kissing someone she'd known only a few days, he did not press her \u2014 he smiled and turned them back along the path",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee directly witnesses and registers his non-reaction as distinct from what she had braced for",
+    "scene_file": "scenes/may-i-choose.md",
+    "chapter_number": 8
+  },
+  {
+    "character_name": "Vee",
+    "fact": "She chose to kiss him anyway, overriding her own stated rule",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "The scene ends on this action; it represents a conscious self-chosen exception she makes in full awareness of the rule she'd just stated",
+    "scene_file": "scenes/may-i-choose.md",
+    "chapter_number": 8
+  },
+  {
+    "character_name": "Vee",
+    "fact": "A man named Pace (Peter Pace) approached her table at the coffee shop on Wilson Street and offered to help with her calculus problem",
+    "source_character": "Pace",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": null,
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Vee",
+    "fact": "The calculus problem contained a hidden third rate, described in plain English as a sentence rather than labeled as a rate, which was the key to solving it",
+    "source_character": "Pace",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee confirms this herself by solving the problem successfully after he points it out",
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Pace's name is 'Pace' (she will later know him as Peter Pace)",
+    "source_character": "Pace",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "He introduces himself only as 'Pace' in this scene",
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Pace chose a tutoring approach that gave her back the pencil at the exact point where she could solve it herself, rather than solving it for her \u2014 i.e., he deliberately withheld showing his full capability so as not to make her feel small",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee reasons this out herself using her econ-trained eye for how smart people handle problems; the narrator confirms her reading is accurate",
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Randi thinks Vee should text Pace and is warm and unbothered about the encounter",
+    "source_character": "Miranda",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Randi's surface presentation is warm encouragement; the narrator implies a more complex inner state but Vee does not register this",
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Cassie observed that Pace looked at Randi the way he would look at 'somebody's great-aunt' \u2014 not as an attractive woman \u2014 despite Randi being the most conventionally beautiful person at the table",
+    "source_character": "Cassandra",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee receives this and privately recognizes the truth of it, connecting it to a pattern she has observed before with Cassie herself, but she does not follow the implication toward Randi",
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Randi had a sexual encounter recently involving being tied to a headboard with a scarf, tickling, and orgasm",
+    "source_character": "Miranda",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Randi tells this voluntarily; no reason to doubt its truth",
+    "scene_file": "scenes/brunch-fitting-randi.md",
+    "chapter_number": 14
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Randi believes that surrendering control \u2014 being physically helpless \u2014 can be psychologically freeing and sexually satisfying",
+    "source_character": "Miranda",
+    "source_reliable": true,
+    "actual_truth": false,
+    "notes": "This is Randi's stated personal philosophy; actual_truth is not applicable as it is a subjective belief",
+    "scene_file": "scenes/brunch-fitting-randi.md",
+    "chapter_number": 14
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Professional dressmakers do not take measurements over a bra because padding distorts the true line",
+    "source_character": "Miranda",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Randi states this with easy authority and Vee accepts it; consistent with actual tailoring practice",
+    "scene_file": "scenes/brunch-fitting-randi.md",
+    "chapter_number": 14
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Randi envies Vee's bust and considers it a desirable physical feature she herself lacks",
+    "source_character": "Miranda",
+    "source_reliable": true,
+    "actual_truth": false,
+    "notes": "Randi says it directly and apparently sincerely; whether it reflects genuine feeling or is a social/manipulative move cannot be confirmed from the text alone",
+    "scene_file": "scenes/brunch-fitting-randi.md",
+    "chapter_number": 14
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Vee believes Randi can read her emotional state from her face",
+    "source_character": "Miranda",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Randi identifies that Vee 'has a face on' before Vee says anything; Vee accepts this and begins talking",
+    "scene_file": "scenes/brunch-fitting-randi.md",
+    "chapter_number": 14
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Vee believes Randi could tell she was physically aroused during the fitting, even though Vee offered the excuse of cold",
+    "source_character": "Miranda",
+    "source_reliable": true,
+    "actual_truth": false,
+    "notes": "Vee registers being 'caught' when Randi repeats 'Cold' flatly; she cannot reconstruct exactly how but concedes the point by laughing and admitting it was hot",
+    "scene_file": "scenes/brunch-fitting-randi.md",
+    "chapter_number": 14
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Vee believes Randi was moved or happy for her when Vee described the fitting, rather than holding back mockery",
+    "source_character": null,
+    "source_reliable": false,
+    "actual_truth": false,
+    "notes": "Vee reaches for the kinder interpretation of Randi's tight expression and convinces herself of it; actual truth is ambiguous \u2014 the scene suggests Randi's tightness may not have been simple happiness",
+    "scene_file": "scenes/brunch-fitting-randi.md",
+    "chapter_number": 14
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Randi kissed Vee on the mouth \u2014 soft, unhurried, with a second press \u2014 when saying goodbye",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Direct experience; unambiguous in the text",
+    "scene_file": "scenes/brunch-fitting-randi.md",
+    "chapter_number": 14
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Vee believes the kiss was a French-style social farewell gesture, not a romantic or sexual act",
+    "source_character": null,
+    "source_reliable": false,
+    "actual_truth": false,
+    "notes": "This is Vee's own rationalization, formed immediately and defensively. The scene's framing \u2014 the pause, the second press 'that had something in it the first one hadn't' \u2014 strongly implies the rationalization is incorrect. Actual truth marked null as ambiguous but tilting false",
+    "scene_file": "scenes/brunch-fitting-randi.md",
+    "chapter_number": 14
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Vee is worried that someone in the dorm windows or courtyard may have seen her kiss Randi",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": false,
+    "notes": "Vee actively scans windows and courtyard; the scene does not confirm or deny whether anyone witnessed it",
     "scene_file": "scenes/brunch-fitting-randi.md",
     "chapter_number": 14
   }

@@ -46,54 +46,8 @@
     }
   ],
   "behavioral_states": [],
-  "temporal_states": [
-    {
-      "attribute": "outcome",
-      "value": "Vee leaves before his certainty surfaces; vow never resolves into a declaration",
-      "after_event": "Vee leaves / the year ends without his certainty surfacing",
-      "before_event": null,
-      "event_resolved": true
-    }
-  ],
-  "relationships": [
-    {
-      "to": "the mother",
-      "relationship": "inherited_from",
-      "negated": false,
-      "properties": {
-        "note": "The vow originates from the mother"
-      }
-    },
-    {
-      "to": "the chivalric grammar",
-      "relationship": "separate_from_and_below",
-      "negated": false,
-      "properties": {
-        "note": "Operates below and independently of the chivalric grammar; older"
-      }
-    },
-    {
-      "to": "porch-scene.md",
-      "relationship": "cost_depicted_in",
-      "negated": false,
-      "properties": {
-        "note": "The vow's cost on the page appears in porch-scene.md"
-      }
-    },
-    {
-      "to": "Vivienne",
-      "relationship": "imposes_cost_on",
-      "negated": false,
-      "properties": {
-        "costs": [
-          "the wait",
-          "the uncertainty"
-        ],
-        "actual_effect": "the wound",
-        "ostensible_purpose": "in service of Vee from his vantage"
-      }
-    }
-  ],
+  "temporal_states": [],
+  "relationships": [],
   "negations": [
     {
       "claim": "He recognizes that the vow itself was the wound",
