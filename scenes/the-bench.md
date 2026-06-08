@@ -338,7 +338,7 @@ She made a sound that meant yes.
 
 She did not move.
 
-"Face down on a bench in a man's house," he said, conversationally, his palm still at her cheek. "Ass in the air. Red from a spanking. Wet enough that I can see it from where I'm standing. Begging."
+"Face down on a bench in a man's house," he said, conversationally, his palm still at her cheek. "Ass in the air." He let his gaze travel down the long pale line of her. The cleft between her thighs was glossy with slick; it had gathered and was sliding. "Red from a spanking. Wet enough that I can see it from where I'm standing. Begging."
 
 She made a sound that was not a word.
 
