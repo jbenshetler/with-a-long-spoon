@@ -1444,7 +1444,7 @@
     "expected_answer": "Pace built all the furniture in his home himself, including pieces in quartersawn oak and walnut; his middle-class income could not have purchased what he owns, which means the pieces are hand-made. Randi repeatedly registers the furniture as expensive by appearance but cannot complete the inference that the man she is seeing made it.",
     "entity_name": "Pace",
     "stale": false,
-    "last_result": null,
+    "last_result": "PASS",
     "source_scene": "scenes/the-bench.md"
   },
   {
@@ -1544,14 +1544,6 @@
     "source_scene": "scenes/randis-walk-of-shame.md"
   },
   {
-    "question": "What is Pace's skill set outside of any single scene?",
-    "expected_answer": "Pace is an accomplished garment-maker with knowledge of fabric, fit, and construction \u2014 capable of sourcing material, building custom dress forms or risers, and executing tailored garments to a professional standard.",
-    "entity_name": "Pace",
-    "stale": false,
-    "last_result": null,
-    "source_scene": "scenes/vee-tells-cassie-fitting.md"
-  },
-  {
     "question": "How does Vee process emotionally significant experiences?",
     "expected_answer": "Vee physically externalizes emotional agitation \u2014 moving around a room, picking up and repositioning objects, narrating with her hands \u2014 before she can articulate what she feels.",
     "entity_name": "Vee",
@@ -1590,6 +1582,14 @@
     "stale": false,
     "last_result": "FAIL",
     "source_scene": "scenes/hiking-rainstorm.md"
+  },
+  {
+    "question": "What is Pace's skill set outside of any single scene?",
+    "expected_answer": "Pace is an accomplished garment-maker with knowledge of fabric, fit, and construction \u2014 capable of sourcing material, building custom dress forms or risers, and executing tailored garments to a professional standard.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/vee-tells-cassie-fitting.md"
   },
   {
     "question": "What is a recurring behavioral tell that Pace gives when he is caught watching Vee?",
@@ -1704,14 +1704,6 @@
     "source_scene": "scenes/may-i-choose.md"
   },
   {
-    "question": "How does Vee characteristically monitor herself while eating in the presence of others?",
-    "expected_answer": "Vee habitually watches herself eat when in social settings \u2014 maintaining a layer of self-surveillance around food \u2014 and registers its absence as unusual and notable.",
-    "entity_name": "Vee",
-    "stale": false,
-    "last_result": null,
-    "source_scene": "scenes/may-i-choose.md"
-  },
-  {
     "question": "What does Pace's relationship to his footwear reveal about his character?",
     "expected_answer": "Pace wears boots that have seen real use and been resoled and maintained \u2014 his clothing reflects lived experience rather than performance, and he does not buy new things to signal status or effort.",
     "entity_name": "Pace",
@@ -1772,7 +1764,7 @@
     "expected_answer": "Vee and Pace have a developed domestic morning choreography \u2014 Pace preparing a cooled second coffee cup without prompting, Vee reaching for it without looking, both holding the established quiet \u2014 indicating a relationship that has settled into practiced, wordless attunement across repeated shared mornings.",
     "entity_name": "Pace",
     "stale": false,
-    "last_result": null,
+    "last_result": "FAIL",
     "source_scene": "scenes/porch-scene.md"
   },
   {
@@ -1920,6 +1912,14 @@
     "source_scene": "scenes/ignition-scalding.md"
   },
   {
+    "question": "How does Pace look at someone he finds beautiful, and how does this differ from typical male attention?",
+    "expected_answer": "Pace's gaze when attracted is characterized by admiration rather than hunger \u2014 he looks at a person the way he looks at work he has decided is worth effort, with want present at the edges but subordinate to a quality of gladness at what he sees.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/the-fitting.md"
+  },
+  {
     "question": "How does Pace respond when he recognizes he is being strategically flattered?",
     "expected_answer": "Pace recognizes flattery and manipulation clearly as it happens but allows it to continue without revealing his awareness, withholding any reaction that would give the other person purchase or confirmation.",
     "entity_name": "Pace",
@@ -1957,14 +1957,6 @@
     "entity_name": "Vee",
     "stale": false,
     "last_result": "FAIL",
-    "source_scene": "scenes/together-in-class.md"
-  },
-  {
-    "question": "What is the prior relationship between Vee and Randi before they meet in person?",
-    "expected_answer": "Vee has been a distant, one-sided admirer of Randi \u2014 aware of her campus prominence through the student paper and social media \u2014 and has observed her from afar with suppressed wanting before their first direct encounter.",
-    "entity_name": "Vee",
-    "stale": false,
-    "last_result": null,
     "source_scene": "scenes/together-in-class.md"
   },
   {
@@ -2021,14 +2013,6 @@
     "entity_name": "Vee",
     "stale": false,
     "last_result": "FAIL",
-    "source_scene": "scenes/the-fitting.md"
-  },
-  {
-    "question": "How does Pace look at someone he finds beautiful, and how does this differ from typical male attention?",
-    "expected_answer": "Pace's gaze when attracted is characterized by admiration rather than hunger \u2014 he looks at a person the way he looks at work he has decided is worth effort, with want present at the edges but subordinate to a quality of gladness at what he sees.",
-    "entity_name": "Pace",
-    "stale": false,
-    "last_result": null,
     "source_scene": "scenes/the-fitting.md"
   },
   {
@@ -2104,14 +2088,6 @@
     "source_scene": "scenes/randis-walk-of-shame.md"
   },
   {
-    "question": "How does Randi's emotional state register physically when she succeeds at something that genuinely excites her?",
-    "expected_answer": "When genuinely elated, Randi's composure breaks visibly \u2014 she grins in a way she cannot suppress, and her body produces involuntary happy movement, such as a spontaneous footwork flourish, before she can reassert control.",
-    "entity_name": "Randi",
-    "stale": false,
-    "last_result": null,
-    "source_scene": "scenes/origin-campus-walk.md"
-  },
-  {
     "question": "What is the nature of Pace and Randi's relationship dynamic in terms of who leads and who follows?",
     "expected_answer": "Pace operates as the architect of shared experiences, reading Randi's desires and constructing conditions for her to discover and act on them. Randi is responsive and follows his lead, but the dynamic is structured so that she experiences the choices as her own.",
     "entity_name": "Pace",
@@ -2152,6 +2128,14 @@
     "source_scene": "scenes/origin-campus-walk.md"
   },
   {
+    "question": "What is the prior relationship between Vee and Randi before they meet in person?",
+    "expected_answer": "Vee has been a distant, one-sided admirer of Randi \u2014 aware of her campus prominence through the student paper and social media \u2014 and has observed her from afar with suppressed wanting before their first direct encounter.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/together-in-class.md"
+  },
+  {
     "question": "What social function does Sloane's laugh serve within the group dynamic?",
     "expected_answer": "Sloane deploys a small, content-neutral laugh that carries no meaning on its own, making it available to affirm or deflect in any direction \u2014 a habitual social instrument rather than a genuine reaction.",
     "entity_name": "Sloane",
@@ -2182,14 +2166,6 @@
     "stale": false,
     "last_result": "FAIL",
     "source_scene": "scenes/may-i-choose.md"
-  },
-  {
-    "question": "What is the nature of Vee and Randi's relationship at the novel's opening?",
-    "expected_answer": "Vee and Randi are newly formed friends \u2014 acquainted for approximately one week \u2014 with a significant asymmetry: Randi holds social, financial, and experiential power, while Vee is keenly aware of the imbalance and monitors it closely even while being drawn into Randi's orbit.",
-    "entity_name": "Vee",
-    "stale": false,
-    "last_result": null,
-    "source_scene": "scenes/brunch-fitting-randi.md"
   },
   {
     "question": "What physical characteristic does Vee's hair have, and how does it function as a character marker?",
@@ -2936,6 +2912,14 @@
     "source_scene": "scenes/porch-scene.md"
   },
   {
+    "question": "What is the nature of Vee and Randi's relationship at the novel's opening?",
+    "expected_answer": "Vee and Randi are newly formed friends \u2014 acquainted for approximately one week \u2014 with a significant asymmetry: Randi holds social, financial, and experiential power, while Vee is keenly aware of the imbalance and monitors it closely even while being drawn into Randi's orbit.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/brunch-fitting-randi.md"
+  },
+  {
     "question": "What is the nature of Randi's private feeling toward Vee at the level of her stable psychology?",
     "expected_answer": "Randi carries a private envy of Vee that runs beneath her controlled, appetitive surface \u2014 she ranks Vee below herself in every public context but privately wants what Vee has access to, a contradiction she does not fully consciously acknowledge.",
     "entity_name": "Randi",
@@ -2982,5 +2966,21 @@
     "stale": false,
     "last_result": "PASS",
     "source_scene": "scenes/hiking-rainstorm.md"
+  },
+  {
+    "question": "How does Vee characteristically monitor herself while eating in the presence of others?",
+    "expected_answer": "Vee habitually watches herself eat when in social settings \u2014 maintaining a layer of self-surveillance around food \u2014 and registers its absence as unusual and notable.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/may-i-choose.md"
+  },
+  {
+    "question": "How does Randi's emotional state register physically when she succeeds at something that genuinely excites her?",
+    "expected_answer": "When genuinely elated, Randi's composure breaks visibly \u2014 she grins in a way she cannot suppress, and her body produces involuntary happy movement, such as a spontaneous footwork flourish, before she can reassert control.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/origin-campus-walk.md"
   }
 ]
