@@ -1,0 +1,13 @@
+{
+  "name": "future lovers",
+  "aliases": [],
+  "entity_type": "character",
+  "facts": [],
+  "behavioral_states": [],
+  "temporal_states": [],
+  "relationships": [],
+  "negations": [],
+  "extraction_confidence": null,
+  "source_document": "meta/meta-arch-vivienne.md",
+  "source_version": "3ffe06f3d223b46b0c08e93e03ade37ddbd638deeba581c9e8caf0e5e6db1812"
+}

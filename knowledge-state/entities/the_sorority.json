@@ -1,0 +1,13 @@
+{
+  "name": "the sorority",
+  "aliases": [],
+  "entity_type": "character",
+  "facts": [],
+  "behavioral_states": [],
+  "temporal_states": [],
+  "relationships": [],
+  "negations": [],
+  "extraction_confidence": null,
+  "source_document": "meta/meta-arch-bible.md",
+  "source_version": "294303b9c4a146c688af237b8c1a08b1950bba5e6e2a4eb7aadd5fff63e44f87"
+}

@@ -1,0 +1,90 @@
+{
+  "name": "Cassandra",
+  "aliases": [
+    "Cassie"
+  ],
+  "entity_type": "character",
+  "facts": [
+    {
+      "attribute": "negations",
+      "value": [
+        {
+          "claim": "Cassie was in a sorority / inside that social world",
+          "confidence": "HIGH",
+          "correct_statement": "Cassie is unaffiliated \u2014 never in a sorority, never inside that social world (same as Vee)"
+        },
+        {
+          "claim": "Cassie knows she is Cassandra / the device is named or explained on-page",
+          "confidence": "HIGH",
+          "correct_statement": "She does not know she is Cassandra; the device is never named, explained, or commented on by any character including herself"
+        }
+      ]
+    },
+    {
+      "attribute": "occupation_track",
+      "value": "Pre-nursing student"
+    },
+    {
+      "attribute": "narrative_function",
+      "value": "The Cassandra device: sees clearly and is not believed; never named, explained, or commented on by any character including herself; she does not know she is Cassandra"
+    },
+    {
+      "attribute": "correctness_framing",
+      "value": "Right within the available frame; Vee is right on hers; the reader holds both"
+    },
+    {
+      "attribute": "narrative_function_secondary",
+      "value": "Thesis-delivery vehicle at the very end ('the best sex of your life...where do I sign up?')"
+    }
+  ],
+  "behavioral_states": [],
+  "temporal_states": [
+    {
+      "attribute": "relationship_with_Vee",
+      "value": "Reconciled \u2014 may matter more than the reconciliation with Pace",
+      "after_event": "The reconciliation with Cassie at the end of the novel",
+      "before_event": null,
+      "event_resolved": true
+    }
+  ],
+  "relationships": [
+    {
+      "to": "Vee",
+      "relationship": "best friend and roommate",
+      "negated": false,
+      "properties": {
+        "duration": "two years running",
+        "mutuality": "the only relationship in the novel built on actual mutuality"
+      }
+    },
+    {
+      "to": "Pace",
+      "relationship": "comparison reference (reconciliation with Cassie may matter more than the one with Pace)",
+      "negated": false,
+      "properties": {
+        "context": "narrative weighting of reconciliations"
+      }
+    },
+    {
+      "to": "Vee's mother",
+      "relationship": "thematic echo (pre-nursing echoes Vee's mother)",
+      "negated": false,
+      "properties": {}
+    }
+  ],
+  "negations": [
+    {
+      "claim": "Cassie was in a sorority / inside that social world",
+      "confidence": "HIGH",
+      "correct_statement": "Cassie is unaffiliated \u2014 never in a sorority, never inside that social world (same as Vee)"
+    },
+    {
+      "claim": "Cassie knows she is Cassandra / the device is named or explained on-page",
+      "confidence": "HIGH",
+      "correct_statement": "She does not know she is Cassandra; the device is never named, explained, or commented on by any character including herself"
+    }
+  ],
+  "extraction_confidence": "HIGH",
+  "source_document": "meta/meta-arch-cassie.md",
+  "source_version": "656b54d1aaee51cd395ab579c3fa463063f6417fbc23b6d5d54df66a5c3413f3"
+}

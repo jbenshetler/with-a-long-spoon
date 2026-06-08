@@ -1,0 +1,215 @@
+{
+  "name": "Peter Pace",
+  "aliases": [
+    "Peter",
+    "Pace"
+  ],
+  "entity_type": "character",
+  "facts": [
+    {
+      "attribute": "bicycle",
+      "value": "Modest hybrid bicycle (practical middle, not carbon-road, not mountain)"
+    },
+    {
+      "attribute": "footwear",
+      "value": "Five purpose-built pairs: hiking boots, work boots, ropers (for CW dancing), running shoes, gym shoes"
+    },
+    {
+      "attribute": "wardrobe",
+      "value": "Four-shirt wardrobe"
+    },
+    {
+      "attribute": "negations",
+      "value": [
+        {
+          "claim": "Peter's commercial intolerance is aesthetic distaste / the stock Sensitive-Intellectual 'loves old movies, hates ads' trope",
+          "negated": true,
+          "confidence": "HIGH",
+          "correct_statement": "It is a neurological tell \u2014 the attention being yanked mid-focus is almost physically unpleasant"
+        },
+        {
+          "claim": "Peter is boastful when discussing his patent",
+          "negated": true,
+          "confidence": "HIGH",
+          "correct_statement": "He is not boasting; he'd be equally delighted explaining it to an empty room, eyes on the thing not the listener"
+        },
+        {
+          "claim": "Peter rides a carbon-road or mountain bicycle",
+          "negated": true,
+          "confidence": "HIGH",
+          "correct_statement": "He rides a modest hybrid bicycle \u2014 the practical middle"
+        },
+        {
+          "claim": "Peter cannot cook / does not know how to cook",
+          "negated": true,
+          "confidence": "HIGH",
+          "correct_statement": "He can plainly cook well; he just doesn't cook for himself"
+        },
+        {
+          "claim": "Peter owns a lot / has an extensive material life",
+          "negated": true,
+          "confidence": "MEDIUM",
+          "correct_statement": "He owns almost nothing, but nothing wrong \u2014 one correct purpose-built item per domain"
+        },
+        {
+          "claim": "Peter will feed Vee the same repetitive chicken-and-frozen-vegetables meal",
+          "negated": true,
+          "confidence": "MEDIUM",
+          "correct_statement": "Vee braces for this and is wrong \u2014 her working-class framework supplies the wrong category"
+        }
+      ]
+    },
+    {
+      "attribute": "guest wines",
+      "value": "Small bench of guest wines (~$10\u2013$35, never made explicit), kept for company to cook with or pour; narrow range learned cold"
+    },
+    {
+      "attribute": "TV ownership",
+      "value": "Little or no TV; at most a small afterthought flat panel"
+    },
+    {
+      "attribute": "holds a patent",
+      "value": "Invented a useful/elegant solution; the money was a side benefit, the elegant solution was the reward"
+    },
+    {
+      "attribute": "name symbolism",
+      "value": "Peter = rock/foundation = who he actually is, hidden; Pace = anxious motion covering ground without arriving / imperative 'go' / 'sets the pace' = the D role"
+    },
+    {
+      "attribute": "cooking ability",
+      "value": "Can plainly cook well (good pans, the peaches); just doesn't, for himself"
+    },
+    {
+      "attribute": "neurodivergence",
+      "value": "On the autism spectrum with ADHD hyperfocus (NEVER NAMED in text; lives in behavior only)"
+    },
+    {
+      "attribute": "social capacity",
+      "value": "Can pass socially, warmly, in short structured doses (e.g., CW bar with defined role); but it costs him; needs quiet the way others need food"
+    },
+    {
+      "attribute": "education history",
+      "value": "Started college at age 15"
+    },
+    {
+      "attribute": "hyperfocus domains",
+      "value": "Patent/invention, powerlifting, cooking, woodworking, CW dancing \u2014 goes all the way into every domain"
+    },
+    {
+      "attribute": "typical daily meal",
+      "value": "Saut\u00e9ed chicken and frozen vegetables most days, framed as powerlifting fuel"
+    },
+    {
+      "attribute": "viewing preference",
+      "value": "When he watches, old films"
+    }
+  ],
+  "behavioral_states": [
+    {
+      "state_name": "Commercial intolerance",
+      "trigger": "A commercial interrupts while watching",
+      "response": "Cannot tolerate it; the attention being yanked mid-focus is almost physically unpleasant",
+      "observable": "Visible/physical discomfort at ad interruption",
+      "distinguish_from": [
+        "aesthetic distaste for ads",
+        "stock Sensitive-Intellectual 'hates ads' trope"
+      ]
+    },
+    {
+      "state_name": "Patent voluble enthusiasm",
+      "trigger": "The topic of his patent/invention comes up",
+      "response": "Goes voluble with pure childish wonder at having made a useful solution; eyes on the thing itself rather than on listener's face",
+      "observable": "Delighted monologue, gaze on the object not the person; would be equally delighted explaining to an empty room; gave Sheri the identical monologue on a bike ride",
+      "distinguish_from": [
+        "boasting (a boaster watches your reaction)"
+      ]
+    },
+    {
+      "state_name": "Side-by-side social comfort",
+      "trigger": "A social interaction can be configured side-by-side, moving, no eye contact (e.g., cycling with Sheri)",
+      "response": "This is the only social configuration that costs him nothing",
+      "observable": "Engages comfortably while moving alongside someone without facing them",
+      "distinguish_from": [
+        "face-to-face social interaction (which costs him)"
+      ]
+    },
+    {
+      "state_name": "Structured social passing",
+      "trigger": "Social setting with defined role and mapped interactions (e.g., CW bar)",
+      "response": "Can pass socially and warmly in short doses",
+      "observable": "Functions warmly in short, structured contexts but is depleted afterward",
+      "distinguish_from": [
+        "genuine ease in unstructured social settings",
+        "extroversion"
+      ]
+    }
+  ],
+  "temporal_states": [
+    {
+      "attribute": "social development context",
+      "value": "Developed socially only in adult/one-on-one/academic contexts",
+      "after_event": "Started college at age 15",
+      "before_event": null,
+      "event_resolved": true
+    }
+  ],
+  "relationships": [
+    {
+      "to": "Vee",
+      "relationship": "observed/read by",
+      "negated": false,
+      "properties": {
+        "note": "Vee could read the whole man off the shoe rack before he says a word; her working-class framework repeatedly supplies the wrong category (canned-peaches misread, dance-partner jealousy, expected-repetitive-meal misread)"
+      }
+    },
+    {
+      "to": "Sheri",
+      "relationship": "companion (cycling/social)",
+      "negated": false,
+      "properties": {
+        "note": "Rides side by side with Sheri, moving, no eye contact \u2014 the only social configuration that costs him nothing; gave Sheri the identical patent monologue on a bike ride"
+      }
+    }
+  ],
+  "negations": [
+    {
+      "claim": "Peter's commercial intolerance is aesthetic distaste / the stock Sensitive-Intellectual 'loves old movies, hates ads' trope",
+      "negated": true,
+      "confidence": "HIGH",
+      "correct_statement": "It is a neurological tell \u2014 the attention being yanked mid-focus is almost physically unpleasant"
+    },
+    {
+      "claim": "Peter is boastful when discussing his patent",
+      "negated": true,
+      "confidence": "HIGH",
+      "correct_statement": "He is not boasting; he'd be equally delighted explaining it to an empty room, eyes on the thing not the listener"
+    },
+    {
+      "claim": "Peter rides a carbon-road or mountain bicycle",
+      "negated": true,
+      "confidence": "HIGH",
+      "correct_statement": "He rides a modest hybrid bicycle \u2014 the practical middle"
+    },
+    {
+      "claim": "Peter cannot cook / does not know how to cook",
+      "negated": true,
+      "confidence": "HIGH",
+      "correct_statement": "He can plainly cook well; he just doesn't cook for himself"
+    },
+    {
+      "claim": "Peter owns a lot / has an extensive material life",
+      "negated": true,
+      "confidence": "MEDIUM",
+      "correct_statement": "He owns almost nothing, but nothing wrong \u2014 one correct purpose-built item per domain"
+    },
+    {
+      "claim": "Peter will feed Vee the same repetitive chicken-and-frozen-vegetables meal",
+      "negated": true,
+      "confidence": "MEDIUM",
+      "correct_statement": "Vee braces for this and is wrong \u2014 her working-class framework supplies the wrong category"
+    }
+  ],
+  "extraction_confidence": "HIGH",
+  "source_document": "meta/meta-arch-bible.md",
+  "source_version": "294303b9c4a146c688af237b8c1a08b1950bba5e6e2a4eb7aadd5fff63e44f87"
+}

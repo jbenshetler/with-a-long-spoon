@@ -1,0 +1,13 @@
+{
+  "name": "mother",
+  "aliases": [],
+  "entity_type": "character",
+  "facts": [],
+  "behavioral_states": [],
+  "temporal_states": [],
+  "relationships": [],
+  "negations": [],
+  "extraction_confidence": null,
+  "source_document": "meta/meta-arch-sheri.md",
+  "source_version": "a6e10d4e735a4412a9b80d25b2461783e4f100999574889f0a9dea2314250320"
+}

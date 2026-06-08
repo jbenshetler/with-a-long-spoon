@@ -1,0 +1,107 @@
+{
+  "name": "the vow",
+  "aliases": [
+    "the careful vow",
+    "the mother's vow"
+  ],
+  "entity_type": "object",
+  "facts": [
+    {
+      "attribute": "nature",
+      "value": "A principle/vow operating separate from and below the chivalric grammar; older in origin"
+    },
+    {
+      "attribute": "origin",
+      "value": "Inherited from the mother"
+    },
+    {
+      "attribute": "content",
+      "value": "Will not declare love until certain, because to declare what cannot be guaranteed breaks what declaration is for"
+    },
+    {
+      "attribute": "duration",
+      "value": "Holds throughout the year and never produces a declaration"
+    },
+    {
+      "attribute": "negations",
+      "value": [
+        {
+          "claim": "He recognizes that the vow itself was the wound",
+          "confidence": "HIGH",
+          "correct_statement": "He never sees that the vow was the wound"
+        }
+      ]
+    },
+    {
+      "attribute": "hidden_cost",
+      "value": "Produces costs Vee pays \u2014 the wait, the uncertainty \u2014 that he does not see"
+    },
+    {
+      "attribute": "internal_logic",
+      "value": "Honorable in its own logic, experienced by him as being in service of Vee from his vantage"
+    },
+    {
+      "attribute": "narrative_function",
+      "value": "Gives him his retrospective story/justification afterward: that he was being careful and she did not wait, reframing her as not 'the one'"
+    }
+  ],
+  "behavioral_states": [],
+  "temporal_states": [
+    {
+      "attribute": "outcome",
+      "value": "Vee leaves before his certainty surfaces; vow never resolves into a declaration",
+      "after_event": "Vee leaves / the year ends without his certainty surfacing",
+      "before_event": null,
+      "event_resolved": true
+    }
+  ],
+  "relationships": [
+    {
+      "to": "the mother",
+      "relationship": "inherited_from",
+      "negated": false,
+      "properties": {
+        "note": "The vow originates from the mother"
+      }
+    },
+    {
+      "to": "Vee",
+      "relationship": "imposes_cost_on",
+      "negated": false,
+      "properties": {
+        "costs": [
+          "the wait",
+          "the uncertainty"
+        ],
+        "actual_effect": "the wound",
+        "ostensible_purpose": "in service of Vee from his vantage"
+      }
+    },
+    {
+      "to": "the chivalric grammar",
+      "relationship": "separate_from_and_below",
+      "negated": false,
+      "properties": {
+        "note": "Operates below and independently of the chivalric grammar; older"
+      }
+    },
+    {
+      "to": "porch-scene.md",
+      "relationship": "cost_depicted_in",
+      "negated": false,
+      "properties": {
+        "note": "The vow's cost on the page appears in porch-scene.md"
+      }
+    }
+  ],
+  "negations": [
+    {
+      "claim": "He recognizes that the vow itself was the wound",
+      "confidence": "HIGH",
+      "correct_statement": "He never sees that the vow was the wound"
+    }
+  ],
+  "extraction_confidence": "HIGH",
+  "source_document": "meta/meta-arch-pace.md",
+  "source_version": "0f306a5f8f02affb44d2abf5d242d1ecbdea19e19e46314afd89f75dd10e63ed"
+}
