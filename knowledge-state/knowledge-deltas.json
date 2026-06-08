@@ -1520,6 +1520,116 @@
     "chapter_number": 12
   },
   {
+    "character_name": "Vivienne",
+    "fact": "Randi drives a dark green Mercedes convertible with self-sealing windows and a leather interior",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Direct sensory experience; Vee registers multiple specific details of the car",
+    "scene_file": "scenes/brunch-fitting-randi.md",
+    "chapter_number": 14
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "Randi had a sexual encounter recently involving being tied to a headboard with a scarf, tickling, and orgasm",
+    "source_character": "Miranda",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Randi tells this voluntarily; no reason to doubt its truth",
+    "scene_file": "scenes/brunch-fitting-randi.md",
+    "chapter_number": 14
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "Randi believes that surrendering control \u2014 being physically helpless \u2014 can be psychologically freeing and sexually satisfying",
+    "source_character": "Miranda",
+    "source_reliable": true,
+    "actual_truth": false,
+    "notes": "This is Randi's stated personal philosophy; actual_truth is not applicable as it is a subjective belief",
+    "scene_file": "scenes/brunch-fitting-randi.md",
+    "chapter_number": 14
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "Professional dressmakers do not take measurements over a bra because padding distorts the true line",
+    "source_character": "Miranda",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Randi states this with easy authority and Vee accepts it; consistent with actual tailoring practice",
+    "scene_file": "scenes/brunch-fitting-randi.md",
+    "chapter_number": 14
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "Randi envies Vee's bust and considers it a desirable physical feature she herself lacks",
+    "source_character": "Miranda",
+    "source_reliable": true,
+    "actual_truth": false,
+    "notes": "Randi says it directly and apparently sincerely; whether it reflects genuine feeling or is a social/manipulative move cannot be confirmed from the text alone",
+    "scene_file": "scenes/brunch-fitting-randi.md",
+    "chapter_number": 14
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "Vee believes Randi can read her emotional state from her face",
+    "source_character": "Miranda",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Randi identifies that Vee 'has a face on' before Vee says anything; Vee accepts this and begins talking",
+    "scene_file": "scenes/brunch-fitting-randi.md",
+    "chapter_number": 14
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "Vee believes Randi could tell she was physically aroused during the fitting, even though Vee offered the excuse of cold",
+    "source_character": "Miranda",
+    "source_reliable": true,
+    "actual_truth": false,
+    "notes": "Vee registers being 'caught' when Randi repeats 'Cold' flatly; she cannot reconstruct exactly how but concedes the point by laughing and admitting it was hot",
+    "scene_file": "scenes/brunch-fitting-randi.md",
+    "chapter_number": 14
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "Vee believes Randi was moved or happy for her when Vee described the fitting, rather than holding back mockery",
+    "source_character": null,
+    "source_reliable": false,
+    "actual_truth": false,
+    "notes": "Vee reaches for the kinder interpretation of Randi's tight expression and convinces herself of it; actual truth is ambiguous \u2014 the scene suggests Randi's tightness may not have been simple happiness",
+    "scene_file": "scenes/brunch-fitting-randi.md",
+    "chapter_number": 14
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "Randi kissed Vee on the mouth \u2014 soft, unhurried, with a second press \u2014 when saying goodbye",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Direct experience; unambiguous in the text",
+    "scene_file": "scenes/brunch-fitting-randi.md",
+    "chapter_number": 14
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "Vee believes the kiss was a French-style social farewell gesture, not a romantic or sexual act",
+    "source_character": null,
+    "source_reliable": false,
+    "actual_truth": false,
+    "notes": "This is Vee's own rationalization, formed immediately and defensively. The scene's framing \u2014 the pause, the second press 'that had something in it the first one hadn't' \u2014 strongly implies the rationalization is incorrect. Actual truth marked null as ambiguous but tilting false",
+    "scene_file": "scenes/brunch-fitting-randi.md",
+    "chapter_number": 14
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "Vee is worried that someone in the dorm windows or courtyard may have seen her kiss Randi",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": false,
+    "notes": "Vee actively scans windows and courtyard; the scene does not confirm or deny whether anyone witnessed it",
+    "scene_file": "scenes/brunch-fitting-randi.md",
+    "chapter_number": 14
+  },
+  {
     "character_name": "Peter Pace",
     "fact": "Randi's paper is not due until Thursday, meaning the lie to Brooke was unnecessary in terms of academic urgency",
     "source_character": "Miranda",
@@ -1688,6 +1798,66 @@
     "notes": "Randi arrives at this conclusion herself in the final paragraphs; framed as a resolve or problem she is holding, not a decision yet made",
     "scene_file": "scenes/the-bench.md",
     "chapter_number": 1
+  },
+  {
+    "character_name": "Miranda",
+    "fact": "The Architect (or the man making Vee's dress) measured Vee topless and without her bra",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee confirms 'The bra too. Yeah.' Randi draws this out through questioning",
+    "scene_file": "scenes/brunch-fitting-randi.md",
+    "chapter_number": 14
+  },
+  {
+    "character_name": "Miranda",
+    "fact": "Vee was physically aroused during the fitting \u2014 she experienced visible physical response that she initially attributed to the cold",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee admits 'actually it was really hot' after Randi's flat repetition of 'Cold' exposes the deflection; Randi appears to have already inferred this",
+    "scene_file": "scenes/brunch-fitting-randi.md",
+    "chapter_number": 14
+  },
+  {
+    "character_name": "Miranda",
+    "fact": "The man making Vee's dress knelt before her on a fitting platform and measured from her left hip",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee confirms these specific details in response to Randi's leading questions",
+    "scene_file": "scenes/brunch-fitting-randi.md",
+    "chapter_number": 14
+  },
+  {
+    "character_name": "Miranda",
+    "fact": "Vee has a strong emotional and possibly erotic response to being looked at",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Randi names this directly and Vee's flustered non-denial confirms it; Vee does not credibly refute it",
+    "scene_file": "scenes/brunch-fitting-randi.md",
+    "chapter_number": 14
+  },
+  {
+    "character_name": "Miranda",
+    "fact": "Vee has a secret about what happened at the moment the dressmaker was kneeling in front of her \u2014 something she has told no one, not even Cassie",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee begins to disclose ('I \u2014 There was \u2014') before Randi closes the door with 'You don't have to tell me'; the scene establishes Randi registers that something was there to tell",
+    "scene_file": "scenes/brunch-fitting-randi.md",
+    "chapter_number": 14
+  },
+  {
+    "character_name": "Miranda",
+    "fact": "Vee pays for her own lunch rather than allowing Randi to pay, even when it costs her",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Randi witnesses Vee produce her card before Randi can reach for the check; Randi watches the whole transaction",
+    "scene_file": "scenes/brunch-fitting-randi.md",
+    "chapter_number": 14
   },
   {
     "character_name": "Vivienne",
