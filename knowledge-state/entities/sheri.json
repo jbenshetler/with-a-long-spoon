@@ -219,7 +219,7 @@
   ],
   "relationships": [
     {
-      "to": "Cassandra",
+      "to": "Cassie",
       "relationship": "structural_contrast",
       "negated": false,
       "properties": {
@@ -228,13 +228,13 @@
       }
     },
     {
-      "to": "Cassandra",
+      "to": "Cassie",
       "relationship": "appearance-grammar contrast",
       "negated": false,
       "properties": "Cassie occupies the 'doesn't try' position (no makeup, eschewed not lacked); Sheri occupies the 'visible effort, no shame' position"
     },
     {
-      "to": "Peter Pace",
+      "to": "Pace",
       "relationship": "friend",
       "negated": false,
       "properties": {
@@ -243,13 +243,13 @@
       }
     },
     {
-      "to": "Peter Pace",
+      "to": "Pace",
       "relationship": "deliberate physical contrast (foil)",
       "negated": false,
       "properties": "Sheri is tiny and slender set against Pace, who is strongly built and average height"
     },
     {
-      "to": "Peter Pace",
+      "to": "Pace",
       "relationship": "deflates/needles",
       "negated": false,
       "properties": {
@@ -260,7 +260,7 @@
       }
     },
     {
-      "to": "Peter Pace",
+      "to": "Pace",
       "relationship": "supported_by",
       "negated": false,
       "properties": {
@@ -269,7 +269,7 @@
       }
     },
     {
-      "to": "Peter Pace",
+      "to": "Pace",
       "relationship": "perceives_with_suspicion",
       "negated": false,
       "properties": {
@@ -279,7 +279,7 @@
       }
     },
     {
-      "to": "Peter Pace",
+      "to": "Pace",
       "relationship": "deflected_by",
       "negated": false,
       "properties": {
@@ -287,7 +287,7 @@
       }
     },
     {
-      "to": "Peter Pace",
+      "to": "Pace",
       "relationship": "friend",
       "negated": false,
       "properties": {
@@ -296,7 +296,7 @@
       }
     },
     {
-      "to": "Peter Pace",
+      "to": "Pace",
       "relationship": "protector_of",
       "negated": false,
       "properties": {
@@ -304,7 +304,7 @@
       }
     },
     {
-      "to": "Peter Pace",
+      "to": "Pace",
       "relationship": "fiercely_loyal_to",
       "negated": false,
       "properties": {
@@ -314,7 +314,7 @@
       }
     },
     {
-      "to": "Peter Pace",
+      "to": "Pace",
       "relationship": "loyal surviving bond",
       "negated": false,
       "properties": {
@@ -324,7 +324,7 @@
       }
     },
     {
-      "to": "Cassandra",
+      "to": "Cassie",
       "relationship": "narrative_foil",
       "negated": false,
       "properties": {
@@ -369,7 +369,7 @@
       }
     },
     {
-      "to": "Cassandra",
+      "to": "Cassie",
       "relationship": "narrative_foil",
       "negated": false,
       "properties": {
@@ -385,7 +385,7 @@
       }
     },
     {
-      "to": "Vivienne",
+      "to": "Vee",
       "relationship": "appearance-grammar contrast",
       "negated": false,
       "properties": "Randi occupies the 'labor invisible' position (work that doesn't show); Sheri's effort is visible and imperfect"

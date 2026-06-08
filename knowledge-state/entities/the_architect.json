@@ -40,30 +40,9 @@
       "value": "Cannot abandon consent without destroying what he is constructing; cannot abandon appetite because appetite is what makes him care about consent."
     }
   ],
-  "behavioral_states": [
-    {
-      "state_name": "arousal_gated_by_agency",
-      "trigger": "A partner's yes is coerced / agency is missing",
-      "response": "Arousal does not engage; he experiences it as a violation rather than a transgression",
-      "observable": "Absence of arousal in coercive conditions",
-      "distinguish_from": [
-        "performing consent as cover",
-        "moral restraint of an existing appetite"
-      ]
-    }
-  ],
+  "behavioral_states": [],
   "temporal_states": [],
-  "relationships": [
-    {
-      "to": "her",
-      "relationship": "structures_conditions_for_consent",
-      "negated": false,
-      "properties": {
-        "note": "ethical indictment lives here, not in consent itself",
-        "mechanism": "architecture of conditions under which her yes became near-inevitable (the irresistible offer)"
-      }
-    }
-  ],
+  "relationships": [],
   "negations": [
     {
       "claim": "Consent ethic is a discipline that holds the appetite in check",

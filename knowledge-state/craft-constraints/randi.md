@@ -1,77 +1,77 @@
 # Craft Constraints — Randi
 
-## rendering [MEDIUM]
-Render Randi's relationship to want as ease and control — wants are pursued, acquired, deployed, and filed without crisis.
-*Violation example:* Randi agonizes over whether she is allowed to want something.
+## rendering [HIGH]
+The narrator must never surface or state the underlying dynamic; the being-seen fork between Vee and Randi is felt from outside but never articulated.
+*Violation example:* The narration explains that Randi envied Vee because she watched her complete an emotional circuit she herself could never close.
 
 ## rendering [HIGH]
-What Randi cannot bear exposed is need/contingency — being seen as dependent or unable to self-supply — never desire itself.
-*Violation example:* Randi is mortified that anyone might notice she desires Vee.
-
-## rendering [HIGH]
-Render Randi's same-sex desire as pre-existing and merely surfaced by aliveness, never as created or authored by Pace.
-*Violation example:* Pace awakens a sexuality in Randi that was never there before.
-
-## rendering [HIGH]
-Keep the same-sex desire as one channel the need runs through, never the headline of the engine.
-*Violation example:* Randi's central arc is framed as a coming-out story about discovering she likes women.
-
-## rendering [HIGH]
-Show Randi laundering need into want — relocating the unbearable feeling into the operable 'I want her, for him' frame — rather than transforming or resolving it.
-*Violation example:* Randi processes her need for Vee and reaches a stable acceptance of it.
-
-## rendering [HIGH]
-The on-page tell of Randi in trouble is the management apparatus jamming — the categorizing box failing to arrive — not naïveté or novelty.
-*Violation example:* Randi can't categorize her feeling because she's never felt anything like it and doesn't understand wanting.
-
-## prohibition [HIGH]
-Never render the laundered feeling as resolved or healed, since relocation leaves the underlying need intact and recurring.
-*Violation example:* By year's end Randi has worked through and finally settled her need for Vee.
+On a first read, the friendship and the sadism must both register as genuine and simultaneous, with the desire/need underneath kept invisible until the later reveal recodes it.
+*Violation example:* Early scenes hint that the brunches are a cover for Randi's hidden longing.
 
 ## rendering [MEDIUM]
-Treat Vee/aliveness as something Randi structurally cannot supply herself, with Vee as the sole supplier.
-*Violation example:* Randi learns to generate her own aliveness without Vee.
+Envy must always ride on top of genuine love and never replace it, arising precisely because she is close enough to watch Vee.
+*Violation example:* Randi's love for Vee curdles entirely into resentment with no affection remaining.
 
 ## prohibition [HIGH]
 Randi must never name her own need, as naming it is the exposure she exists to prevent.
-*Violation example:* Randi thinks to herself that she needs Vee more than she'll admit.
-
-## rendering [HIGH]
-The narrator must never surface or state the underlying dynamic across the two interiors; the being-seen fork is felt from outside, never articulated.
-*Violation example:* The narration explains that Randi and Vee are mirror images locked in a chiasmus of mutual watching.
-
-## rendering [HIGH]
-On a first read the brunches must read as a genuine, intense friendship and the sadism as real simultaneously, with the desire/need underneath invisible until the reveal recodes it.
-*Violation example:* Early scenes hint that the friendship is a hollow front for Randi's hidden agenda.
-
-## rendering [MEDIUM]
-Envy must always ride on top of the love and never replace it, since she envies because she is close enough to watch Vee complete the circuit.
-*Violation example:* Randi's envy curdles into pure resentment that displaces any affection for Vee.
+*Violation example:* Randi thinks to herself that she desperately needs Vee in her life.
 
 ## name_register [HIGH]
 Author-knowledge vocabulary ('need,' 'aliveness,' 'Vivienne,' 'contingency,' 'the category that won't come') stays in docs only; on the page use the concrete objects (the jam, the re-file, the cup, the inversion).
-*Violation example:* The prose names Randi's 'aliveness' or refers to Vee as 'Vivienne' on the page.
+*Violation example:* The prose describes Randi craving 'aliveness' or refers to Vee as 'Vivienne' on the page.
 
 ## rendering [HIGH]
-Render Randi's need as never resolving — it recurs, escalates, and re-files itself rather than being satisfied by the sadism.
-*Violation example:* A scene where Randi's sadistic act with Vee leaves her feeling settled, fed, and at peace.
+Render Randi's want as operable and safe — something she pursues, acquires, deploys, and files without crisis.
+*Violation example:* Randi panics or feels destabilized merely by wanting something or someone.
 
 ## rendering [HIGH]
-Render Randi's love for Vee and her sadism toward Vee as the same motion — one unmet need expressed in a single act, not two separable feelings.
-*Violation example:* Showing Randi being lovingly tender in one beat and coldly sadistic in another as if they are distinct modes.
+Render need (not desire) as the intolerable, exposed category for Randi — contingency on another person she cannot self-supply or revoke.
+*Violation example:* Randi's deepest fear is shown as being seen wanting Vee, rather than needing her.
+
+## rendering [HIGH]
+Render Randi's same-sex desire as pre-existing and merely surfaced by aliveness, never as created or authored by Pace.
+*Violation example:* Pace is depicted as the cause or origin of Randi's lesbian desire.
+
+## rendering [MEDIUM]
+Keep the same-sex desire as one channel the need runs through, never the headline of Randi's arc.
+*Violation example:* Randi's story is framed primarily as a coming-out or sexuality-discovery narrative.
+
+## rendering [HIGH]
+Render the laundering mechanism as re-filing need into want ('I need her' becomes 'I want her, for my boyfriend'), never as a genuine transformation of the underlying feeling.
+*Violation example:* Randi's need for Vee is shown as resolving or being satisfied once reframed as want.
+
+## rendering [MEDIUM]
+Show the on-page tell as the management apparatus jamming — the box that won't come — not as naïveté or novelty, since Randi knows exactly what wanting is.
+*Violation example:* Randi's failure to categorize a feeling is written as her being innocent or confused about what desire is.
+
+## rendering [HIGH]
+Never let the need-for-aliveness/Vivienne resolve; each recurrence jams then re-files, leaving the need intact.
+*Violation example:* A scene gives Randi catharsis or closure where the need is finally settled.
 
 ## prohibition [HIGH]
-Never let Randi occupy the needer-position by being seen needing; she stays the un-needy supplier/operator with her hand on the lever.
-*Violation example:* Randi openly admitting to Vee that she needs her and letting herself be witnessed in that vulnerability.
+Randi must never be rendered as comfortably or willingly showing/exposing her own need to another person.
+*Violation example:* Randi openly tells Vee she needs her and feels relieved to have said it.
+
+## rendering [HIGH]
+Randi's unmet need should be rendered as recurring and re-filed rather than resolved, since the sadism never actually satisfies it.
+*Violation example:* After dominating Vee, Randi feels fully satisfied and her longing quietly disappears.
+
+## rendering [HIGH]
+Render Randi's love for Vee and her sadism toward Vee as the same motion in the same act, not as alternating or separable states.
+*Violation example:* Randi switches between loving Vee in one scene and being cruel to her in a separate, unrelated scene.
+
+## rendering [HIGH]
+Randi's sadism should be rendered as forcing Vee into the needer-position while Randi stays the un-needy supplier/operator with her hand on the lever.
+*Violation example:* Randi dominates Vee while visibly desperate and exposing her own appetite in the process.
 
 ## rendering [MEDIUM]
-Frame Randi's envy specifically as envy of the capacity to be supplied by another person, not envy of Vee's looks or luck.
-*Violation example:* Randi enviously eyeing Vee's appearance or good fortune.
+The cup must be rendered as a bottom-position bodily tell that leaks Randi's denied need-state, firing on what is done to her beyond her control.
+*Violation example:* Randi consciously uses the cup as a deliberate tool while feeling fully in control.
 
 ## rendering [MEDIUM]
-Use the cup as the body's involuntary tell that fires on the bottom-position — the need-state leaking past the operator's denial.
-*Violation example:* The cup appearing when Randi is in control and getting what she wants.
+Randi's envy should be rendered as envy of the capacity to be supplied by another person, not envy of looks, luck, or circumstance.
+*Violation example:* Randi envies Vee's beauty and good fortune with men.
 
 ## rendering [MEDIUM]
-When Randi feels aliveness with Pace, render the surfacing of need without metabolizing — the need runs and is re-filed into a box rather than discharged.
-*Violation example:* Randi's aliveness with Pace resolving her shame-material into arousal the way it does for Vee.
+Render Randi's sadism as laundered into a socially acceptable frame (the worldly friend drawing out the naïve one) rather than as nakedly acknowledged cruelty.
+*Violation example:* Randi internally frames her treatment of Vee plainly as sadistic domination she enjoys.

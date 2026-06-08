@@ -17,44 +17,6 @@ Do not manufacture Cassie–Randi confrontations or scenes; their dynamic must a
 *Violation example:* A scene where Cassie and Randi argue directly about Vee.
 
 ## rendering [HIGH]
-Render Cassie's humor as bone-dry and never have her laugh at her own jokes.
-*Violation example:* Cassie cracked a joke and burst out laughing at her own wit.
-
-## rendering [MEDIUM]
-Show her tell as a slightly cocked eyebrow that she withholds for a beat to see if you recognize the line before she confirms it.
-*Violation example:* Cassie immediately winked and grinned to telegraph her joke.
-
-## rendering [LOW]
-With Vee, the withheld eyebrow tell resolves near-instantly, made physical as mutuality.
-
-## rendering [MEDIUM]
-Cassie laughs readily at others but never in a way that is aimed or mocking.
-*Violation example:* Cassie laughed cuttingly at his expense to put him in his place.
-
-## rendering [HIGH]
-When the topic is Pace, Cassie asks questions, waits, and does not editorialize.
-*Violation example:* Cassie launched into her opinions about Pace without prompting.
-
-## rendering [MEDIUM]
-Cassie withholds her signal until it is earned, in deliberate structural contrast to Randi who gives hers up front to capture.
-*Violation example:* Cassie offered up her warmth and signals immediately to win someone over.
-
-## rendering [MEDIUM]
-Use her established verbal signatures: the flat single-word return, the dry 'mm', 'I'm being accurate', and pleasant-voiced needling that tips to comedy when she enjoys herself.
-
-## name_register [MEDIUM]
-She declines the warm-coin name-bit by returning a flat single-word 'Cassie'.
-*Violation example:* She playfully accepted a cutesy nickname and ran with it.
-
-## rendering [MEDIUM]
-Cassie says little, and what she says is exact.
-*Violation example:* Cassie rambled at length with vague, padded dialogue.
-
-## prohibition [HIGH]
-Reserve 'Oh, Vee' as her single moment of unguarded response, deployed only for a beat that earns it.
-*Violation example:* Cassie tossed off 'Oh, Vee' casually in an ordinary exchange.
-
-## rendering [HIGH]
 Venues like the Greek coffee shop and dress-code lunch must read on first pass as the glamorous places Randi naturally favors, with their tactical function being detectable only on reread.
 *Violation example:* The prose notes that Randi 'chose the coffee shop because she knew it would intimidate Cassie.'
 
@@ -77,3 +39,41 @@ Vee's 'It's coffee, weirdo' must dismiss Cassie's warning in real time, as a liv
 ## rendering [HIGH]
 Cassie's reply to Randi's warm-coin name-bit must be the flat single word 'Cassie,' declining to complete the routine and leaving the open door unwalked.
 *Violation example:* Cassie answers Randi's name-bit with a playful or extended rejoinder that plays along with the routine.
+
+## rendering [HIGH]
+Render Cassie's humor as bone-dry; she does not laugh at her own jokes.
+*Violation example:* Cassie cracked up at her own punchline, delighted by her wit.
+
+## rendering [MEDIUM]
+Her tell is a slightly cocked eyebrow withheld for a beat to see if the listener recognizes the line before she confirms it.
+*Violation example:* Cassie immediately winked and grinned to make sure everyone got the joke.
+
+## rendering [LOW]
+With Vee, the withheld-eyebrow tell resolves near-instantly, the mutuality made physical.
+
+## rendering [MEDIUM]
+She laughs readily at others' jokes, but her laughter is never aimed at anyone.
+*Violation example:* Cassie laughed mockingly in his face.
+
+## rendering [MEDIUM]
+Render Cassie about Pace by having her ask questions and wait, without editorializing.
+*Violation example:* Cassie launched into her opinion of what Pace really meant by all this.
+
+## rendering [HIGH]
+Keep Cassie's signal withheld until earned, as the structural opposite of Randi who gives hers up front to capture.
+*Violation example:* Cassie broadcast her feelings openly the instant she walked in, just like Randi.
+
+## name_register [MEDIUM]
+When offered the warm-coin name-bit, Cassie declines it with a flat single-word return of "Cassie."
+*Violation example:* When teased with a nickname, Cassie played along warmly and offered three of her own.
+
+## rendering [LOW]
+Use her established verbal signatures: the dry "mm," "I'm being accurate," and pleasant-voiced needling that tips to comedy when she's enjoying herself.
+
+## rendering [MEDIUM]
+Cassie says little, and what she says is exact.
+*Violation example:* Cassie rambled at length, circling the point with vague qualifiers.
+
+## prohibition [HIGH]
+Reserve "Oh, Vee" as her single moment of unguarded response, used only when a beat genuinely earns it.
+*Violation example:* Cassie sighed "Oh, Vee" casually in the middle of routine banter.

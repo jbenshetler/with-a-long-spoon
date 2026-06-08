@@ -35,38 +35,9 @@
       "value": "Accepts the tautology 'I behaved as if I saw her, therefore I saw her' as proof of his own attentiveness"
     }
   ],
-  "behavioral_states": [
-    {
-      "state_name": "domain-bounded rigor",
-      "trigger": "Reasoning inside mathematics",
-      "response": "Applies strict first-principles rigor; catches tautologies",
-      "observable": "Rigorous mathematical reasoning",
-      "distinguish_from": [
-        "extra-disciplinary reasoning",
-        "self-assessment of attentiveness"
-      ]
-    },
-    {
-      "state_name": "extra-disciplinary blindness",
-      "trigger": "Reasoning outside mathematics (esp. about his own attentiveness / her)",
-      "response": "Applies a different, sloppy procedure; accepts tautologies he would catch elsewhere; does not notice the discrepancy",
-      "observable": "Self-justifying tautology: 'I behaved as if I saw her, therefore I saw her'",
-      "distinguish_from": [
-        "domain-bounded rigor"
-      ]
-    }
-  ],
+  "behavioral_states": [],
   "temporal_states": [],
-  "relationships": [
-    {
-      "to": "her",
-      "relationship": "fails to truly perceive/attend to",
-      "negated": false,
-      "properties": {
-        "note": "Mistakes behaving as if he saw her for actually seeing her; identity of 'her' unspecified in this excerpt"
-      }
-    }
-  ],
+  "relationships": [],
   "negations": [
     {
       "claim": "The reasoning 'I behaved as if I saw her, therefore I saw her' is a valid derivation",
