@@ -310,6 +310,46 @@
     "chapter_number": 13
   },
   {
+    "character_name": "Miranda",
+    "fact": "Brooke noticed she was coming home in last night's clothes on a Saturday morning, meaning the sorority house has registered her Walk of Shame",
+    "source_character": "Brooke",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Randi understands from the inside of chapter politics exactly what Brooke's questions signified; the scene makes clear she is under no illusion about what Brooke knows",
+    "scene_file": "scenes/randis-walk-of-shame.md",
+    "chapter_number": 2
+  },
+  {
+    "character_name": "Miranda",
+    "fact": "Brooke knows the name of the man she spent the night with \u2014 Peter Pace \u2014 and has now filed it",
+    "source_character": "Brooke",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Brooke's deliberate repetition of 'Pace' \u2014 'like she was filing it' \u2014 is explicitly narrated as registering on Randi",
+    "scene_file": "scenes/randis-walk-of-shame.md",
+    "chapter_number": 2
+  },
+  {
+    "character_name": "Miranda",
+    "fact": "Brooke knows or suspects Pace is a graduate student in mathematics working toward a PhD",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Randi volunteered this information in the exchange; she is now aware Brooke has it",
+    "scene_file": "scenes/randis-walk-of-shame.md",
+    "chapter_number": 2
+  },
+  {
+    "character_name": "Miranda",
+    "fact": "Brooke raised and ostensibly dismissed the possibility that Pace teaches a section Randi is enrolled in, and Randi denied it",
+    "source_character": "Brooke",
+    "source_reliable": true,
+    "actual_truth": false,
+    "notes": "The scene deliberately leaves the actual truth ambiguous \u2014 Randi's pause is noted as wider here than elsewhere, and her denial ('Not his section') is technically worded rather than a flat 'no'. The actual truth is unconfirmed by the scene.",
+    "scene_file": "scenes/randis-walk-of-shame.md",
+    "chapter_number": 2
+  },
+  {
     "character_name": "Vivienne",
     "fact": "Peter Pace called her the same night she gave him her number",
     "source_character": null,
@@ -398,6 +438,36 @@
     "notes": "She explicitly says 'pretend I didn't' and the narration notes she winced",
     "scene_file": "scenes/the-froyo-walk.md",
     "chapter_number": 6
+  },
+  {
+    "character_name": "Miranda",
+    "fact": "Brooke ended the conversation on her own terms, leaving Randi unable to deploy the deflections she had prepared",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Explicitly narrated from Randi's point of view as a recognition of Brooke's authority move",
+    "scene_file": "scenes/randis-walk-of-shame.md",
+    "chapter_number": 2
+  },
+  {
+    "character_name": "Miranda",
+    "fact": "The line 'He's hard to say no to,' which she performed successfully for the girls earlier, carries a different and privately unbearable meaning for her",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "This is an internal recognition, not new external information \u2014 but the scene marks it as something she comes to hear differently while alone in her room, suggesting she is processing it as a new understanding rather than a prior one",
+    "scene_file": "scenes/randis-walk-of-shame.md",
+    "chapter_number": 2
+  },
+  {
+    "character_name": "Miranda",
+    "fact": "She cried the night before in his bathroom, looking at herself in the mirror",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Revealed through Randi's own interior recollection; this is prior-scene information surfacing, not something she learns in this scene, but it is the first moment the reader and Randi together consciously hold this fact",
+    "scene_file": "scenes/randis-walk-of-shame.md",
+    "chapter_number": 2
   },
   {
     "character_name": "Vivienne",
