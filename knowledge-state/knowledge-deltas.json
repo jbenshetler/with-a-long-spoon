@@ -650,6 +650,46 @@
     "chapter_number": 8
   },
   {
+    "character_name": "Peter Pace",
+    "fact": "Randi's desire for a woman is genuinely her own wanting, not merely a gift she is offering him \u2014 the threesome framing is camouflage the wanting needs to come out in",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Pace reads this from Randi's body language and physical responses over the course of the afternoon walk; confirmed repeatedly by the dropped stride and bare 'yes' at the end",
+    "scene_file": "scenes/origin-campus-walk.md",
+    "chapter_number": 3
+  },
+  {
+    "character_name": "Peter Pace",
+    "fact": "Randi rejects women who are 'too expected' \u2014 i.e., mirrors of her own type: narrow, sleek, high ponytail",
+    "source_character": "Miranda",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Randi's stated rejection of the first girl on the path",
+    "scene_file": "scenes/origin-campus-walk.md",
+    "chapter_number": 3
+  },
+  {
+    "character_name": "Peter Pace",
+    "fact": "Randi rejects matched pairs because she believes you would get both or neither",
+    "source_character": "Miranda",
+    "source_reliable": true,
+    "actual_truth": false,
+    "notes": "This is Randi's stated reasoning; its truth in the story world is not verified",
+    "scene_file": "scenes/origin-campus-walk.md",
+    "chapter_number": 3
+  },
+  {
+    "character_name": "Peter Pace",
+    "fact": "Randi rejects closed, unreachable women \u2014 ones who would be 'a project'",
+    "source_character": "Miranda",
+    "source_reliable": true,
+    "actual_truth": false,
+    "notes": "Randi's verdict on the camel-coat girl; Pace infers the rule 'not the closed ones, not the ones who'd have to be gotten through'",
+    "scene_file": "scenes/origin-campus-walk.md",
+    "chapter_number": 3
+  },
+  {
     "character_name": "Miranda",
     "fact": "Brooke ended the conversation on her own terms, leaving Randi unable to deploy the deflections she had prepared",
     "source_character": null,
@@ -778,6 +818,66 @@
     "notes": "He heard the sentence directly; whether he fully understood it as a declaration of love is ambiguous by the scene's design \u2014 his physical response (two breaths, stopped hand) suggests he registered something significant",
     "scene_file": "scenes/porch-scene.md",
     "chapter_number": 33
+  },
+  {
+    "character_name": "Peter Pace",
+    "fact": "Randi rejects women whose warmth and ease is performed and aimed outward \u2014 who 'run the room and know it'",
+    "source_character": "Miranda",
+    "source_reliable": true,
+    "actual_truth": false,
+    "notes": "Pace's inference after Randi's strong 'God, no' to the confident blazer girl; he registers his own guess was wrong and updates his model",
+    "scene_file": "scenes/origin-campus-walk.md",
+    "chapter_number": 3
+  },
+  {
+    "character_name": "Peter Pace",
+    "fact": "Randi is genuinely attracted to the red-haired girl (Vivienne) \u2014 the wanting preceded any conscious decision",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Read from the dropped stride and the sustained, unmanaged looking before Randi recovered into the girlfriend-offering framing",
+    "scene_file": "scenes/origin-campus-walk.md",
+    "chapter_number": 3
+  },
+  {
+    "character_name": "Peter Pace",
+    "fact": "Randi is a highly skilled social operator \u2014 capable of engineering a 'chance' meeting with precision that makes her target believe the collision was the target's own fault",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Pace observes this directly while watching from the light pole; he had not seen her 'aim it at a person' before",
+    "scene_file": "scenes/origin-campus-walk.md",
+    "chapter_number": 3
+  },
+  {
+    "character_name": "Peter Pace",
+    "fact": "The red-haired girl's name is Vee (Vivienne) and she shares a stats class with Randi",
+    "source_character": "Miranda",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Randi reports this immediately upon returning",
+    "scene_file": "scenes/origin-campus-walk.md",
+    "chapter_number": 3
+  },
+  {
+    "character_name": "Miranda",
+    "fact": "Pace is not selecting a woman for himself \u2014 the choosing is hers, and he is watching her learn that she can choose",
+    "source_character": "Peter Pace",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Randi arrives at this understanding when Pace says 'I'm not the one being asked' after she asks whether a matched pair would be a yes or no for him",
+    "scene_file": "scenes/origin-campus-walk.md",
+    "chapter_number": 3
+  },
+  {
+    "character_name": "Miranda",
+    "fact": "The red-haired girl's name is Vee and they share a stats class",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Randi learns this directly from the brief introduction she engineers on the lawn",
+    "scene_file": "scenes/origin-campus-walk.md",
+    "chapter_number": 3
   },
   {
     "character_name": "Vivienne",
