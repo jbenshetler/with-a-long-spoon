@@ -1,5 +1,105 @@
 [
   {
+    "character_name": "Cassandra",
+    "fact": "Vee went on a date with a man named Pace that same evening",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee recounts the evening in detail immediately upon returning to the dorm room",
+    "scene_file": "scenes/cassie-before.md",
+    "chapter_number": 11
+  },
+  {
+    "character_name": "Cassandra",
+    "fact": "The date involved tea served in glasses with brass cage handles",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee describes this detail specifically; no alcohol was involved",
+    "scene_file": "scenes/cassie-before.md",
+    "chapter_number": 11
+  },
+  {
+    "character_name": "Cassandra",
+    "fact": "Vee kissed Pace \u2014 she initiated it herself, after he had already begun walking away",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee is emphatic that she was not talked into it and acted of her own volition",
+    "scene_file": "scenes/cassie-before.md",
+    "chapter_number": 11
+  },
+  {
+    "character_name": "Cassandra",
+    "fact": "Vee had first declined to kiss Pace, citing a personal rule about not kissing a man she has known only a few days",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee frames this as something her mother would say and confirms it is genuinely her own rule",
+    "scene_file": "scenes/cassie-before.md",
+    "chapter_number": 11
+  },
+  {
+    "character_name": "Cassandra",
+    "fact": "Pace responded to Vee's initial refusal without pressure \u2014 he smiled and resumed walking as though it were fine",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": null,
+    "scene_file": "scenes/cassie-before.md",
+    "chapter_number": 11
+  },
+  {
+    "character_name": "Cassandra",
+    "fact": "Pace has invited Vee on a hiking trip and she accepted quickly",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee notes she said yes very fast",
+    "scene_file": "scenes/cassie-before.md",
+    "chapter_number": 11
+  },
+  {
+    "character_name": "Cassandra",
+    "fact": "Pace lives west of town, off Route 614, past where it turns to gravel, near the trail they plan to hike",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Cassie explicitly notes this is imprecise as an address; Vee does not have a more specific location",
+    "scene_file": "scenes/cassie-before.md",
+    "chapter_number": 11
+  },
+  {
+    "character_name": "Cassandra",
+    "fact": "Pace told Vee to wear real shoes for the hike",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": null,
+    "scene_file": "scenes/cassie-before.md",
+    "chapter_number": 11
+  },
+  {
+    "character_name": "Cassandra",
+    "fact": "Vee does not own appropriate hiking shoes and will need to borrow a pair",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Cassie herself independently states Vee doesn't own real shoes; Vee does not dispute it",
+    "scene_file": "scenes/cassie-before.md",
+    "chapter_number": 11
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "Cassie's initial concern that Vee may have been given alcohol or otherwise influenced is dispelled \u2014 Cassie accepts that Vee acted freely",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee registers that Cassie's 'okay' the second time carries genuine belief; this is framed from Vee's POV as a meaningful shift",
+    "scene_file": "scenes/cassie-before.md",
+    "chapter_number": 11
+  },
+  {
     "character_name": "Vivienne",
     "fact": "Randi's Mercedes convertible is dark green, long and low, and the window drops automatically when you reach for the door handle, then re-seals when the door shuts.",
     "source_character": null,
