@@ -1,5 +1,69 @@
 [
   {
+    "question": "What is Randi's tell when she experiences genuine, unguarded desire, as opposed to performed enthusiasm?",
+    "expected_answer": "Randi's body breaks ahead of her composure \u2014 she stops mid-stride, her sustained gaze holds without release, and her verbal response arrives bare and unadorned before she recovers and adds the social performance on top of it.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/origin-campus-walk.md"
+  },
+  {
+    "question": "How does Randi relate to social and physical environments \u2014 restaurants, fire lanes, expensive spaces?",
+    "expected_answer": "Randi moves through the world as if its rules were designed for other people \u2014 she parks in fire lanes, skips waits, and occupies expensive spaces with the ease of someone who has never had to negotiate access to them.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/brunch-fitting-randi.md"
+  },
+  {
+    "question": "What internalized voice or figure does Vee carry that shapes her relationship to self-indulgence or taking up space?",
+    "expected_answer": "Vee carries an internalized critical maternal voice that monitors excess and signals when she has taken or done enough, functioning as a reflexive check on her own desires.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/the-froyo-walk.md"
+  },
+  {
+    "question": "What environmental preference does Cassie maintain in the dorm room, and what does it reveal about her temperament?",
+    "expected_answer": "Cassie keeps the window cracked even in cold weather, preferring cold air over an overheated room \u2014 a small behavioral marker of her preference for discomfort over excess.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/cassie-before.md"
+  },
+  {
+    "question": "How does Cassie physically express skepticism or a dry aside during conversation?",
+    "expected_answer": "Cassie tilts her head as a nonverbal tell when she is about to deliver a skeptical or dry remark.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/cassie-before.md"
+  },
+  {
+    "question": "Does Vee have prior experience with outdoor activities such as hiking?",
+    "expected_answer": "Vee has no hiking experience whatsoever; she openly acknowledges she has never hiked in her life.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/cassie-before.md"
+  },
+  {
+    "question": "What is Vee's stated personal rule about physical intimacy with men she has recently met?",
+    "expected_answer": "Vee holds a personal standard of not kissing a man she has known only a few days, and she identifies this as a consistent pattern in her behavior, not a situational choice.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/vee-tells-cassie-dinner.md"
+  },
+  {
+    "question": "What is Cassie's characteristic emotional dynamic when listening to Vee's good news \u2014 is she purely celebratory or does she have a counterbalancing quality?",
+    "expected_answer": "Cassie is genuinely and openly glad for Vee, but her gladness always has a flat dry floor under it \u2014 she balances warmth with dry, deflating humor.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/vee-tells-cassie-dinner.md"
+  },
+  {
     "question": "What is Cassie's characteristic non-verbal signal of quiet, considered acknowledgment?",
     "expected_answer": "Cassie makes a small 'mm' sound as a habitual closing gesture of measured approval or thoughtful acknowledgment.",
     "entity_name": "Cassandra",
@@ -848,6 +912,14 @@
     "source_scene": "scenes/hiking-rainstorm.md"
   },
   {
+    "question": "What nonverbal signal does Cassie use to close a conversation and signal affectionate acceptance?",
+    "expected_answer": "Cassie signals warm, quiet approval or conversational closure with a small 'mm' sound \u2014 an understated verbal tell that functions as her version of a blessing.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/vee-tells-cassie-dinner.md"
+  },
+  {
     "question": "What is Randi's defining social manner toward people she is with?",
     "expected_answer": "Randi gives whoever she is with her complete, focused attention \u2014 a quality of looking that makes the other person feel like the only thing in the room \u2014 and she deploys this as both genuine warmth and a form of social power.",
     "entity_name": "Vivienne",
@@ -950,6 +1022,14 @@
     "stale": false,
     "last_result": "FAIL",
     "source_scene": "scenes/ignition-scalding.md"
+  },
+  {
+    "question": "What is a recurring physical habit of Cassie's when she is settled in her room?",
+    "expected_answer": "Cassie habitually keeps her dorm room window cracked two inches regardless of cold, preferring the chill to the building's overheated air \u2014 a consistent personal preference that defines her shared space.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/vee-tells-cassie-dinner.md"
   },
   {
     "question": "How does Vee's internal self-critical voice function in relation to her physical desire?",
@@ -1312,6 +1392,694 @@
     "source_scene": "scenes/together-in-class.md"
   },
   {
+    "question": "How does Pace characteristically respond when someone says something emotionally vulnerable or self-deprecating?",
+    "expected_answer": "Pace neither dismisses nor amplifies emotional vulnerability; he gives it space by staying quiet briefly, then redirects with a grounded, low-key observation that acknowledges without making it large.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/the-froyo-walk.md"
+  },
+  {
+    "question": "How does Vee characteristically share personal news \u2014 does she hold back or lead with it?",
+    "expected_answer": "Vee processes emotional experiences by speaking them aloud immediately and impulsively; she begins talking before she has even removed her coat.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/cassie-before.md"
+  },
+  {
+    "question": "What is Brooke's role in the sorority and how does she exercise authority?",
+    "expected_answer": "Brooke is the chapter president. She exercises authority through deliberate stillness \u2014 she does not need to stand to stop someone in her own space, and she controls the beginning and end of conversations without appearing to assert power.",
+    "entity_name": "Brooke",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/randis-walk-of-shame.md"
+  },
+  {
+    "question": "What is a defining quality of Brooke's voice and social presence?",
+    "expected_answer": "Brooke's voice is described as a stable social signature \u2014 warm in a way that precedes her into rooms and lingers after she leaves, functioning the way a perfume does.",
+    "entity_name": "Brooke",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/randis-walk-of-shame.md"
+  },
+  {
+    "question": "How does Vee characteristically behave when she shares exciting personal news \u2014 does she hold back or does it come out immediately?",
+    "expected_answer": "Vee leads with emotional disclosure; good news comes out of her involuntarily before she has fully composed herself, often before she has even removed her coat.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/vee-tells-cassie-dinner.md"
+  },
+  {
+    "question": "What is Randi's tell when she is genuinely concentrating or aroused, as distinct from her performed state?",
+    "expected_answer": "Randi's blue eyes visibly darken when she is genuinely concentrating or aroused.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/the-bench.md"
+  },
+  {
+    "question": "What is Pace's relationship to the furniture in his home, and what does it reveal about him that Randi consistently fails to infer?",
+    "expected_answer": "Pace built all the furniture in his home himself, including pieces in quartersawn oak and walnut; his middle-class income could not have purchased what he owns, which means the pieces are hand-made. Randi repeatedly registers the furniture as expensive by appearance but cannot complete the inference that the man she is seeing made it.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": null,
+    "source_scene": "scenes/the-bench.md"
+  },
+  {
+    "question": "What is Randi's hair color and build?",
+    "expected_answer": "Randi has black hair and a small, lean body with a dancer's elegant legs that take up most of her frame; she has pale skin and small breasts.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/the-bench.md"
+  },
+  {
+    "question": "What is Randi's signature scent?",
+    "expected_answer": "Randi wears a gardenia perfume with something colder underneath it.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/the-bench.md"
+  },
+  {
+    "question": "What is Randi's behavioral pattern around food, and what is its origin?",
+    "expected_answer": "Randi has a highly policed relationship to food governed by a internal calculus of permitted and forbidden items; the line was drawn by her mother at age fourteen and redrawn by her sorority at eighteen.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/the-bench.md"
+  },
+  {
+    "question": "What is Randi's default social defense mechanism when she feels emotionally exposed?",
+    "expected_answer": "Randi defaults to reassembling a composed, slightly knowing surface smile to conceal interior vulnerability; she is skilled at performing composure over genuine emotional states and has been doing so for years.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/the-bench.md"
+  },
+  {
+    "question": "What physical tell does Pace observe in Randi that reveals her prior experience being conditioned to expect rushed or hurried partners?",
+    "expected_answer": "Randi braces involuntarily in her shoulders before being touched, a conditioned response developed from sexual partners who moved quickly; she is not aware she does it.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/the-bench.md"
+  },
+  {
+    "question": "What is Randi's known cover story for her relationship with Pace within the sorority?",
+    "expected_answer": "Within the sorority, Randi has publicly framed her willingness to date Pace as him simply being hard to say no to \u2014 a self-deprecating, low-stakes explanation delivered with a laugh that positioned the relationship as something that happened to her rather than something she chose.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/randis-walk-of-shame.md"
+  },
+  {
+    "question": "What is Brooke's characteristic method for closing a conversation she controls?",
+    "expected_answer": "Brooke ends conversations by issuing a warm, practical release \u2014 granting the other person permission to go \u2014 which functions as the clean termination of an exchange on her terms and forecloses any response the other party had prepared.",
+    "entity_name": "Brooke",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/randis-walk-of-shame.md"
+  },
+  {
+    "question": "What is Cassie's observable behavioral pattern when she is paying close attention to someone?",
+    "expected_answer": "Cassie goes very still when she is fully attentive \u2014 a recognizable physical tell that signals she is listening carefully.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/vee-tells-cassie-fitting.md"
+  },
+  {
+    "question": "How does Randi respond when caught off-guard by a socially loaded question?",
+    "expected_answer": "When caught by an unexpected or probing question, Randi experiences a fraction-of-a-second delay before her response and holds her facial expression in position while she recovers \u2014 her smile 'arranges' rather than forms naturally.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/randis-walk-of-shame.md"
+  },
+  {
+    "question": "What does Pace's attitude toward craft perfectionism look like in practice?",
+    "expected_answer": "Pace iterates on garment construction until the result meets his standard \u2014 redoing individual components multiple times without treating this as exceptional effort.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/vee-tells-cassie-fitting.md"
+  },
+  {
+    "question": "What is the relationship between Pace and Vee at the start of the novel in terms of physical intimacy?",
+    "expected_answer": "Pace and Vee have kissed but have not been sexually intimate; their physical contact remains charged and unresolved.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/vee-tells-cassie-fitting.md"
+  },
+  {
+    "question": "What is Pace's academic identity?",
+    "expected_answer": "Pace is a mathematics PhD student in graduate school.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/randis-walk-of-shame.md"
+  },
+  {
+    "question": "What is Pace's skill set outside of any single scene?",
+    "expected_answer": "Pace is an accomplished garment-maker with knowledge of fabric, fit, and construction \u2014 capable of sourcing material, building custom dress forms or risers, and executing tailored garments to a professional standard.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": null,
+    "source_scene": "scenes/vee-tells-cassie-fitting.md"
+  },
+  {
+    "question": "How does Vee process emotionally significant experiences?",
+    "expected_answer": "Vee physically externalizes emotional agitation \u2014 moving around a room, picking up and repositioning objects, narrating with her hands \u2014 before she can articulate what she feels.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": null,
+    "source_scene": "scenes/vee-tells-cassie-fitting.md"
+  },
+  {
+    "question": "What does Vee do when she notices a detail she cannot yet explain?",
+    "expected_answer": "Vee files unexplained observations into a mental category of 'weird things' about a person and lets them go rather than pressing for answers \u2014 often sitting with unresolved information for an extended period.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": null,
+    "source_scene": "scenes/vee-tells-cassie-fitting.md"
+  },
+  {
+    "question": "What is Pace's body type, and how does Vee characterize it?",
+    "expected_answer": "Pace is a powerlifter \u2014 a distinction Vee draws explicitly from bodybuilding \u2014 implying a heavily muscled, strength-built physique rather than a physique-competition aesthetic.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": null,
+    "source_scene": "scenes/vee-tells-cassie-fitting.md"
+  },
+  {
+    "question": "What is Vee's characteristic relationship to large or intimidating commitments when the person she cares about is attached to them?",
+    "expected_answer": "Vee agrees to things she finds daunting when motivated by connection to a person rather than assessment of the task itself \u2014 the yes comes out before she has weighed the difficulty.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/hiking-rainstorm.md"
+  },
+  {
+    "question": "What is Vee's social and domestic frame of reference when she makes a mistake in etiquette?",
+    "expected_answer": "Vee's internal response to social missteps is shaped by a specific maternal voice that delivers verdicts in terms of class and propriety; the voice is immediate, sharp, and uses words like 'common.'",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/hiking-rainstorm.md"
+  },
+  {
+    "question": "What is a recurring behavioral tell that Pace gives when he is caught watching Vee?",
+    "expected_answer": "Pace does not look away when caught watching Vee \u2014 he holds her gaze and lets her catch him, then turns away on his own terms.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/hiking-rainstorm.md"
+  },
+  {
+    "question": "What is Pace's consistent pattern around physical comfort and preparedness for companions?",
+    "expected_answer": "Pace habitually anticipates a companion's physical needs and prepares resources for them \u2014 including carrying a dry change of clothes and first-aid supplies \u2014 and gives these resources away without comment or expectation of reciprocity.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/hiking-rainstorm.md"
+  },
+  {
+    "question": "What is the internal conflict Vee experiences around her own desire and sexuality?",
+    "expected_answer": "Vee carries an internalized maternal voice that codes female desire and sexual display as shameful; she experiences arousal and shame as inseparable, the same internal signal, and must act through that conflict rather than resolve it.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/hiking-rainstorm.md"
+  },
+  {
+    "question": "What recurring physical characteristic does Vee have in outdoor or windswept environments?",
+    "expected_answer": "Vee's hair is consistently caught and moved by wind \u2014 it falls across her face and escapes pins or tucks, functioning as a recurring physical signature in open-air scenes.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": null,
+    "source_scene": "scenes/hiking-rainstorm.md"
+  },
+  {
+    "question": "What is Cassie's characteristic posture when she is fully engaged in a conversation?",
+    "expected_answer": "Cassie pulls herself up from whatever she is doing, perches on the edge of a surface, draws her knees to her chest with her arms around them, and leans in \u2014 a physically compact, attentive posture.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/cassie-before.md"
+  },
+  {
+    "question": "What physical tell does Randi exhibit when concealing an emotional reaction?",
+    "expected_answer": "Randi becomes precisely still \u2014 her facial expression locks into its default pleasant arrangement and her hands perform small, controlled displacement gestures such as lifting a cup without drinking or repositioning an object \u2014 while her face shows no change.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/the-meet-cute.md"
+  },
+  {
+    "question": "How does Pace approach tutoring \u2014 what does his method reveal about his character?",
+    "expected_answer": "Pace tutors by leading a person to the answer rather than supplying it \u2014 he asks what the instructor said, confirms the student's existing work, identifies only the missing piece, and returns the pencil at the exact line where the student can solve it independently, actively concealing the full extent of his own ability to avoid making others feel diminished.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/the-meet-cute.md"
+  },
+  {
+    "question": "What is Vee's field of study and what draws her to it?",
+    "expected_answer": "Vee studies economics. She is drawn to it because it maps the gap between how people claim to behave and how they actually behave, and because she enjoys finding formal structure in real-world situations.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/the-meet-cute.md"
+  },
+  {
+    "question": "What is one of Vee's physical self-comfort gestures that she performs without awareness?",
+    "expected_answer": "Vee touches her hand to her collarbone as an unconscious self-soothing gesture in moments of emotional intensity.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/the-meet-cute.md"
+  },
+  {
+    "question": "How does Vee respond socially when a room develops interpersonal friction?",
+    "expected_answer": "Vee's social fluency engages automatically to smooth friction before she consciously decides to intervene \u2014 she instinctively produces deflection or reframing to reseal group comfort.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/the-meet-cute.md"
+  },
+  {
+    "question": "What is the long-standing social dynamic Cassie occupies relative to Vee in shared spaces with men?",
+    "expected_answer": "Cassie has consistently occupied the position of the woman men see completely but never desire \u2014 she is acknowledged without being regarded romantically, a pattern Vee has observed across two years of shared experience.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/the-meet-cute.md"
+  },
+  {
+    "question": "What is Vee's habitual internal posture in social situations, particularly with men?",
+    "expected_answer": "Vee carries a background readiness for things to go wrong \u2014 a low-level bracing for the cost of a situation to come due \u2014 which operates beneath conscious awareness and only becomes visible when it is absent.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/may-i-choose.md"
+  },
+  {
+    "question": "What is Vee's typical behavior in conversation when she loses the thread of what someone is saying?",
+    "expected_answer": "Vee habitually recovers lost conversational threads before the other person notices, maintaining her end of an exchange through constant small effort \u2014 this is her default mode, which she registers as work.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/may-i-choose.md"
+  },
+  {
+    "question": "What is Vee's established personal rule regarding physical intimacy with men she has recently met?",
+    "expected_answer": "Vee holds a rule against kissing men she has known only a short time \u2014 a boundary she describes as never previously breached and which operates as an old reflex rather than a conscious decision.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/may-i-choose.md"
+  },
+  {
+    "question": "How does Vee characteristically monitor herself while eating in the presence of others?",
+    "expected_answer": "Vee habitually watches herself eat when in social settings \u2014 maintaining a layer of self-surveillance around food \u2014 and registers its absence as unusual and notable.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": null,
+    "source_scene": "scenes/may-i-choose.md"
+  },
+  {
+    "question": "What does Pace's relationship to his footwear reveal about his character?",
+    "expected_answer": "Pace wears boots that have seen real use and been resoled and maintained \u2014 his clothing reflects lived experience rather than performance, and he does not buy new things to signal status or effort.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/may-i-choose.md"
+  },
+  {
+    "question": "How does Pace typically respond when someone is smaller or quieter than expected in conversation?",
+    "expected_answer": "Pace does not fill conversational silences or require people to account for vulnerability \u2014 he meets people where they are without pressure or commentary.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/may-i-choose.md"
+  },
+  {
+    "question": "Does Pace have an established relationship with staff at places he frequents, and what does this signal?",
+    "expected_answer": "Pace is known by name at his preferred local restaurant; staff ease visibly when he arrives, indicating he is a trusted regular with genuine personal rapport rather than mere transactional familiarity.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/may-i-choose.md"
+  },
+  {
+    "question": "What is Pace's characteristic approach when offering to make a choice on someone else's behalf?",
+    "expected_answer": "Pace asks permission before choosing for another person, takes the responsibility seriously rather than casually, and asks only one qualifying question before deciding \u2014 he is deliberate and considerate rather than performative.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/may-i-choose.md"
+  },
+  {
+    "question": "What recurring physical habit does Pace display with his hands while eating?",
+    "expected_answer": "Pace consistently uses his right hand when handling food \u2014 this is a stable, unconscious behavioral pattern he maintains without apparent awareness.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/may-i-choose.md"
+  },
+  {
+    "question": "How does Vee typically manage emotional content she cannot yet articulate or resolve?",
+    "expected_answer": "Vee files unresolved emotional material \u2014 moments when her model of a person required repair, things she does not know what to do with \u2014 in an internal place she does not examine. She continues functioning without looking at the accumulated pile.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/porch-scene.md"
+  },
+  {
+    "question": "What is Vee's characteristic approach to preparing emotionally risky speech acts?",
+    "expected_answer": "Vee prepares emotionally high-stakes statements over an extended period \u2014 assembling the words gradually, running them in her head in different orders, building the sentence whole before speaking \u2014 so that when she finally speaks, the words arrive complete and pre-formed rather than found in the moment.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/porch-scene.md"
+  },
+  {
+    "question": "What is the nature of the established morning routine shared by Vee and Pace, and what does it indicate about the relationship's phase?",
+    "expected_answer": "Vee and Pace have a developed domestic morning choreography \u2014 Pace preparing a cooled second coffee cup without prompting, Vee reaching for it without looking, both holding the established quiet \u2014 indicating a relationship that has settled into practiced, wordless attunement across repeated shared mornings.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": null,
+    "source_scene": "scenes/porch-scene.md"
+  },
+  {
+    "question": "What is Randi's characteristic physical greeting behavior with people she likes?",
+    "expected_answer": "Randi habitually reaches out to touch or squeeze the forearm of people she is warming to \u2014 a repeated physical gesture that functions as her signature of approval.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/together-in-class.md"
+  },
+  {
+    "question": "Does Randi have a practiced social routine for introducing herself?",
+    "expected_answer": "Randi has a rehearsed, shaped bit around her name \u2014 preemptively distinguishing it from 'Randy' with a self-deprecating family anecdote \u2014 designed to prompt laughter and invite the other person to reciprocate with their own name.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/together-in-class.md"
+  },
+  {
+    "question": "Does Pace hold any standing internal constraint around declaring love, and what is its governing logic?",
+    "expected_answer": "Pace holds a vow against premature declaration: he will not say he loves someone until he is certain, because to declare what he cannot guarantee is to break what declaration is for. The vow operates below the level of conscious naming.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/porch-scene.md"
+  },
+  {
+    "question": "What is Vee's standing internal rule about saying 'I love you' first?",
+    "expected_answer": "Vee will not say 'I love you' before the other person says it first. She experiences this as a rule she discovered by bumping against it from the inside rather than one she consciously chose, and its gravity has become part of her shape.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/porch-scene.md"
+  },
+  {
+    "question": "What does the male protagonist's bedroom environment reveal as a stable aspect of his character?",
+    "expected_answer": "He maintains a spare, undecorated personal space \u2014 white walls, a large low bed with plain white sheets, nothing ornamental \u2014 indicating an aesthetic of functionality and absence of self-display in private.",
+    "entity_name": "male protagonist",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/first-night.md"
+  },
+  {
+    "question": "What is the male protagonist's pattern around physical touch in domestic or craft contexts, and how does this carry into intimacy?",
+    "expected_answer": "His hands carry the permanent physical marks of woodworking and physical labor \u2014 calluses from the workbench and bar \u2014 and this roughness of touch is a consistent physical signature across both work and intimate contexts.",
+    "entity_name": "male protagonist",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/first-night.md"
+  },
+  {
+    "question": "What emotional response does the male protagonist show when a partner's body produces visible evidence of desire, and how does he express it?",
+    "expected_answer": "He registers visible evidence of a partner's desire as explicitly good and right rather than neutral, and his expression communicates this plainly \u2014 the same expression he shows when craft work produces its intended effect.",
+    "entity_name": "male protagonist",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/first-night.md"
+  },
+  {
+    "question": "What verbal habit marks Pace's speech in moments of genuine social courtesy?",
+    "expected_answer": "Pace uses formally courteous phrasing \u2014 notably \"may I\" rather than \"can I\" \u2014 in moments of personal request, a register that feels native to him rather than affected.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/the-meet-cute.md"
+  },
+  {
+    "question": "How does the female protagonist relate shame and arousal to each other as a pattern?",
+    "expected_answer": "She experiences shame and arousal as inseparable \u2014 running on the same wire, with no seam between them. She has stopped trying to separate them and instead moves through shame rather than managing or resolving it.",
+    "entity_name": "female protagonist",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/first-night.md"
+  },
+  {
+    "question": "What is the male protagonist's physical build and what accounts for it?",
+    "expected_answer": "He has a woodworker's shoulders, powerlifter's arms, and the body of a man who uses himself continuously and without comment \u2014 a physique built from sustained physical labor rather than deliberate training for appearance.",
+    "entity_name": "male protagonist",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/first-night.md"
+  },
+  {
+    "question": "What is the male protagonist's scent signature?",
+    "expected_answer": "His scent is composed of his soap and an underlying personal scent that is warm, immediate, and specific to him. It is distinctive enough that a proxy version stored in fabric can be recognized as approximate but meaningfully different from the source.",
+    "entity_name": "male protagonist",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/first-night.md"
+  },
+  {
+    "question": "What behavioral pattern does the male protagonist exhibit when a partner pauses or breaks from intimacy?",
+    "expected_answer": "He stills immediately and begins to step back with care \u2014 the instinct to create space and check in \u2014 as a default response to any signal that a partner may be hesitating.",
+    "entity_name": "male protagonist",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/first-night.md"
+  },
+  {
+    "question": "What is the male protagonist's characteristic approach to tasks, including domestic and physical ones?",
+    "expected_answer": "He brings quiet, focused attention to every task \u2014 cooking, carpentry, intimacy \u2014 working with unhurried deliberateness and completing preparation fully before proceeding.",
+    "entity_name": "male protagonist",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/first-night.md"
+  },
+  {
+    "question": "What is the female protagonist's behavioral pattern when experiencing anticipatory shame?",
+    "expected_answer": "She experiences anticipatory shame that compounds on itself \u2014 awareness of incoming exposure creates shame before the exposure occurs, which generates more anticipation, in a self-reinforcing loop she recognizes as the mechanism of the loop itself.",
+    "entity_name": "female protagonist",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/first-night.md"
+  },
+  {
+    "question": "What is the female protagonist's pattern around deliberate personal choices she makes before intimacy, and how does she narrate those choices to herself?",
+    "expected_answer": "She makes deliberate, symbolically meaningful choices in preparation for intimacy \u2014 color-coordinating, selecting specific garments \u2014 while simultaneously maintaining internal deniability, telling herself the choices mean nothing in particular.",
+    "entity_name": "female protagonist",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/first-night.md"
+  },
+  {
+    "question": "What is Pace's characteristic listening style in conversation?",
+    "expected_answer": "Pace listens with full patience, waiting through a person's complete thought before taking his own turn, making the speaker feel their words were worth waiting out.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/the-froyo-walk.md"
+  },
+  {
+    "question": "What object did Pace build himself, and what does it represent about his character?",
+    "expected_answer": "Pace built himself an Arts and Crafts chair that required leather cushions he could not afford; rather than compromise, he built a second chair and traded it for the leather, keeping the original. The chair is a recurring object representing his self-sufficiency, his craftsman's standard, and his willingness to pay full price for what he values.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/ignition-scalding.md"
+  },
+  {
+    "question": "What is Randi's emotional state after sex with Pace, and how does it manifest physically?",
+    "expected_answer": "After sex with Pace, Randi enters a deeply emptied-out, faraway stillness \u2014 her face goes blank, her eyes open on nothing, and she is too spent for even small physical gestures. Pace recognizes this as a marker that he has reached all the way into her.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/ignition-scalding.md"
+  },
+  {
+    "question": "How does Pace respond when he recognizes he is being strategically flattered?",
+    "expected_answer": "Pace recognizes flattery and manipulation clearly as it happens but allows it to continue without revealing his awareness, withholding any reaction that would give the other person purchase or confirmation.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/ignition-scalding.md"
+  },
+  {
+    "question": "What is Pace's behavioral pattern when he senses someone has said more than they intended?",
+    "expected_answer": "Pace goes still and turns his full attention toward an unguarded disclosure, reads it with precision, and acts on it decisively without alerting the speaker that he has done so.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/ignition-scalding.md"
+  },
+  {
+    "question": "What is Pace's consistent habit when Vee leaves his home?",
+    "expected_answer": "Pace always opens the car door for Vee when she leaves.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/ignition-scalding.md"
+  },
+  {
+    "question": "What is Vee's internal relationship to her own body and how she dresses?",
+    "expected_answer": "Vee is aware she has a conventionally desirable figure but consistently covers it with layers \u2014 a behavioral pattern rooted in an internalized maternal voice that frames visible femininity as inviting the wrong kind of attention. She experiences the covering as a choice the room cannot see.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/together-in-class.md"
+  },
+  {
+    "question": "How does Vee cognitively process new social environments she is uncertain about?",
+    "expected_answer": "Vee reads unfamiliar social spaces all at once and in detail, rapidly cataloguing the room's hierarchy and locating her own position within it before she can feel settled.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/together-in-class.md"
+  },
+  {
+    "question": "What is the prior relationship between Vee and Randi before they meet in person?",
+    "expected_answer": "Vee has been a distant, one-sided admirer of Randi \u2014 aware of her campus prominence through the student paper and social media \u2014 and has observed her from afar with suppressed wanting before their first direct encounter.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": null,
+    "source_scene": "scenes/together-in-class.md"
+  },
+  {
+    "question": "What is Cassie's established social role relative to Vee?",
+    "expected_answer": "Cassie is Vee's close companion \u2014 they share a hall, attend the same classes, and live together \u2014 functioning as Vee's steady, low-affect counterweight to Vee's socially attuned navigation of the world.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": null,
+    "source_scene": "scenes/together-in-class.md"
+  },
+  {
+    "question": "How does Vee handle social moments that feel subtly wrong or off-rhythm?",
+    "expected_answer": "When something registers as socially wrong, Vee's face automatically smooths \u2014 she masks the dissonance outwardly and quickly files the wrongness away under a rationalizing label rather than examining it.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": null,
+    "source_scene": "scenes/together-in-class.md"
+  },
+  {
+    "question": "What hidden skill does Pace possess that he does not advertise?",
+    "expected_answer": "Pace is an accomplished garment maker \u2014 he sews clothing from scratch, including tailored shirts with finished seams and fitted collars \u2014 but does not volunteer this information about himself.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/the-fitting.md"
+  },
+  {
+    "question": "What is Cassie's baseline verbal style in social interactions?",
+    "expected_answer": "Cassie communicates in minimal, flat declaratives. She does not perform social reciprocity, will not take offered conversational openings, and delivers even emotionally weighted statements in a neutral, weather-report tone.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/together-in-class.md"
+  },
+  {
+    "question": "What is Pace's physical build?",
+    "expected_answer": "Pace is a powerlifter \u2014 physically large and strong \u2014 making the precision and fluency of his craft work a notable contrast to his build.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/the-fitting.md"
+  },
+  {
+    "question": "What is Vee's hair color and general coloring?",
+    "expected_answer": "Vee has red hair and warm-toned skin.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/the-fitting.md"
+  },
+  {
+    "question": "What is Vee's behavioral tell when she feels exposed or ashamed?",
+    "expected_answer": "Under shame or exposure, Vee physically makes herself smaller \u2014 an apologetic stoop and inward collapse she adopts without conscious awareness.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/the-fitting.md"
+  },
+  {
+    "question": "How does Pace look at someone he finds beautiful, and how does this differ from typical male attention?",
+    "expected_answer": "Pace's gaze when attracted is characterized by admiration rather than hunger \u2014 he looks at a person the way he looks at work he has decided is worth effort, with want present at the edges but subordinate to a quality of gladness at what he sees.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": null,
+    "source_scene": "scenes/the-fitting.md"
+  },
+  {
+    "question": "What is Pace's pattern when holding a boundary against something he genuinely wants?",
+    "expected_answer": "When Pace holds a line against something he wants, he makes the cost of holding it audible \u2014 he does not pretend ease, but lets the other person hear that restraint is an active choice requiring effort.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": null,
+    "source_scene": "scenes/the-fitting.md"
+  },
+  {
+    "question": "How does Randi typically close doors when entering a familiar space?",
+    "expected_answer": "Randi's habitual door-closing is a small, unhurried click that signals ownership and ease \u2014 the physical expression of a woman who moves through a room as if it already belongs to her.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/randis-walk-of-shame.md"
+  },
+  {
+    "question": "What is Pace's scent signature as noted by Vee?",
+    "expected_answer": "Pace smells of clean cotton with a warmer underlying note \u2014 described as the back of his neck and his hair.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/the-fitting.md"
+  },
+  {
+    "question": "What is Randi's characteristic response to food that falls outside her dietary standards?",
+    "expected_answer": "Randi reflexively refuses food she considers off-standard \u2014 the refusal is automatic and requires no deliberation, suggesting a deeply ingrained and habitual relationship with dietary control.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/origin-campus-walk.md"
+  },
+  {
+    "question": "What is Pace's relationship to planning versus improvisation when orchestrating an experience for someone else?",
+    "expected_answer": "Pace works from a prepared read of a person and a loose intentional structure, but incorporates unplanned elements fluidly when they serve his purpose. He is fully present and adapts in the moment rather than executing a rigid plan.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/origin-campus-walk.md"
+  },
+  {
+    "question": "How does Vee typically manage or respond to her own physical arousal in social situations?",
+    "expected_answer": "Vee experiences involuntary and strong physical arousal responses that she has a long-standing habit of trying to suppress or manage out of public awareness; her body consistently overrides her conscious control.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/the-fitting.md"
+  },
+  {
     "question": "What is Pace's academic identity and institutional role?",
     "expected_answer": "Pace is a mathematics PhD student, not an engineering graduate student as assumed by others \u2014 a distinction Randi corrects with quiet precision.",
     "entity_name": "Peter Pace",
@@ -1336,12 +2104,292 @@
     "source_scene": "scenes/randis-walk-of-shame.md"
   },
   {
+    "question": "How does Randi's emotional state register physically when she succeeds at something that genuinely excites her?",
+    "expected_answer": "When genuinely elated, Randi's composure breaks visibly \u2014 she grins in a way she cannot suppress, and her body produces involuntary happy movement, such as a spontaneous footwork flourish, before she can reassert control.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": null,
+    "source_scene": "scenes/origin-campus-walk.md"
+  },
+  {
+    "question": "What is the nature of Pace and Randi's relationship dynamic in terms of who leads and who follows?",
+    "expected_answer": "Pace operates as the architect of shared experiences, reading Randi's desires and constructing conditions for her to discover and act on them. Randi is responsive and follows his lead, but the dynamic is structured so that she experiences the choices as her own.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": null,
+    "source_scene": "scenes/origin-campus-walk.md"
+  },
+  {
+    "question": "What is Vee's full name and what notable association does it carry?",
+    "expected_answer": "Her full name is Vivienne Thorne, which shares its name with the university \u2014 a coincidence her parents find funnier than she does.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/the-meet-cute.md"
+  },
+  {
+    "question": "What is Randi's scent signature as perceived by other characters?",
+    "expected_answer": "Randi's scent signature is citrus with something green and cold underneath \u2014 notably absent of sweetness.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/together-in-class.md"
+  },
+  {
+    "question": "What physical and social type does Randi habitually gravitate toward and identify with?",
+    "expected_answer": "Randi's baseline standard runs toward petite, narrow-framed, polished women who are socially composed and aesthetically correct \u2014 women who inhabit the same grammar of labels, controlled presentation, and propriety that she herself maintains.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/origin-campus-walk.md"
+  },
+  {
+    "question": "What social skill does Randi possess that Pace identifies as a trained, high-level competency?",
+    "expected_answer": "Randi is a highly trained social mover \u2014 she can engineer an apparently accidental meeting with a stranger with precision and invisibility, the result of years of dance training and sorority social formation.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/origin-campus-walk.md"
+  },
+  {
     "question": "What social function does Sloane's laugh serve within the group dynamic?",
     "expected_answer": "Sloane deploys a small, content-neutral laugh that carries no meaning on its own, making it available to affirm or deflect in any direction \u2014 a habitual social instrument rather than a genuine reaction.",
     "entity_name": "Sloane",
     "stale": false,
     "last_result": "FAIL",
     "source_scene": "scenes/randis-walk-of-shame.md"
+  },
+  {
+    "question": "How does Pace behave when a companion shows physical difficulty or discomfort on a trail?",
+    "expected_answer": "Pace responds to a companion's distress with immediate, practical action and no emotional fuss \u2014 he turns at once, assesses the problem directly, and fixes it without apology or commentary that would make the other person feel diminished.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/hiking-rainstorm.md"
+  },
+  {
+    "question": "How does Pace signal he has prepared for a date without dressing up?",
+    "expected_answer": "Pace's preparation for intimacy is expressed through grooming rather than appearance \u2014 he showers and shaves, changing only 'the part of him that touches her air,' while otherwise dressing in his habitual plain, well-kept style.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/may-i-choose.md"
+  },
+  {
+    "question": "How does Pace respond when a woman asserts a personal boundary with him?",
+    "expected_answer": "Pace accepts stated limits without argument, charm deployment, or waiting for reversal \u2014 he responds as though the boundary reflects something true and admirable about the person, and redirects gently.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/may-i-choose.md"
+  },
+  {
+    "question": "What is the nature of Vee and Randi's relationship at the novel's opening?",
+    "expected_answer": "Vee and Randi are newly formed friends \u2014 acquainted for approximately one week \u2014 with a significant asymmetry: Randi holds social, financial, and experiential power, while Vee is keenly aware of the imbalance and monitors it closely even while being drawn into Randi's orbit.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": null,
+    "source_scene": "scenes/brunch-fitting-randi.md"
+  },
+  {
+    "question": "What physical characteristic does Vee's hair have, and how does it function as a character marker?",
+    "expected_answer": "Vee has long, copper-colored hair with a voluminous, unruly quality \u2014 it behaves expressively and without her control in open environments, and is frequently contrasted against Randi's controlled, dark, disciplined hair as a shorthand for the difference between the two women.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": null,
+    "source_scene": "scenes/brunch-fitting-randi.md"
+  },
+  {
+    "question": "How does Vee respond to being genuinely looked at or admired?",
+    "expected_answer": "Vee responds visibly and physically to being looked at with approval \u2014 she glows under direct admiration, enjoys being seen, and has a strong positive charge around being watched, though she may deny it when named.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/brunch-fitting-randi.md"
+  },
+  {
+    "question": "What is Pace's characteristic relationship to his own physical arousal and self-regulation?",
+    "expected_answer": "Pace is aware of his own arousal states and actively works to regulate them \u2014 deliberately slowing his breath and monitoring his heartbeat \u2014 but his body still surges ahead of his control at key moments of anticipation, a consistent internal pattern.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": null,
+    "source_scene": "scenes/ignition-scalding.md"
+  },
+  {
+    "question": "What recurring internal voice does the female protagonist experience during moments of sexual arousal or intimacy, and what is its origin?",
+    "expected_answer": "She hears her mother's word 'floozie' as an intrusive shaming voice during moments of arousal. The voice is maternal in origin and functions as an automatic loop she cannot stop but has learned to burn through rather than escape.",
+    "entity_name": "female protagonist",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/first-night.md"
+  },
+  {
+    "question": "What is the emotional texture underneath Cassie's expressions of gladness or support?",
+    "expected_answer": "Cassie's warmth always has a dry, skeptical floor beneath it; her happiness for others is genuine but consistently undercut by deadpan practicality.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/cassie-before.md"
+  },
+  {
+    "question": "How does Pace characteristically express pleasure or satisfaction?",
+    "expected_answer": "Pace's pleasure is contained and understated \u2014 a quiet, controlled satisfaction, like a person who has placed something exactly where they intended.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/the-froyo-walk.md"
+  },
+  {
+    "question": "What is Pace's characteristic way of correcting someone's behavior or ignorance?",
+    "expected_answer": "Pace corrects without making the other person feel small \u2014 he models the right behavior himself and places the correction tool within reach rather than calling attention to the mistake.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/hiking-rainstorm.md"
+  },
+  {
+    "question": "What nickname does Vivienne Thorne go by, and what does her preference for it reveal?",
+    "expected_answer": "She goes by Vee and tends to retreat to the shorter, personal name after moments of social performance, suggesting she is more comfortable in her everyday self than in a polished social register.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/the-meet-cute.md"
+  },
+  {
+    "question": "What is Randi's tell when she is concealing a strong emotional reaction while maintaining a social performance?",
+    "expected_answer": "When suppressing a significant internal reaction, Randi holds something tight behind her smile and displaces the energy into a small, repetitive physical gesture \u2014 specifically working the base of a glass or object against the table surface with her thumb.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": null,
+    "source_scene": "scenes/brunch-fitting-randi.md"
+  },
+  {
+    "question": "What is Vee's emotional response to public visibility \u2014 being seen in desirable company or circumstances?",
+    "expected_answer": "Vee experiences a private, pleasurable lift when seen by peers in contexts that elevate her social status. She consciously contains the feeling, refusing to let it show on her face, but the desire to be perceived as belonging in those contexts is a recurring internal driver.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": null,
+    "source_scene": "scenes/brunch-fitting-randi.md"
+  },
+  {
+    "question": "What does Pace do when caught by unexpected physical intimacy?",
+    "expected_answer": "Pace flushes visibly when caught by unexpected intimacy \u2014 a full flush rising up his neck and into his jaw \u2014 and goes completely still before a suppressed laugh escapes him involuntarily.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/the-fitting.md"
+  },
+  {
+    "question": "How does Pace express care and provision in a domestic context \u2014 does he announce it, or does he act without drawing attention to himself?",
+    "expected_answer": "Pace performs acts of care practically and without self-reference; he provides (adjusting the heater for the plants, positioning a cooled coffee cup) without framing these acts as gestures about himself.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/porch-scene.md"
+  },
+  {
+    "question": "What does Randi do with her hair when she is alone with Pace after sex, and what does this signal?",
+    "expected_answer": "Randi wears her hair bound or controlled in all public and semi-public contexts; it comes loose only in private aftermath with Pace, making her unbound hair a stable marker of her rare unguarded state.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/ignition-scalding.md"
+  },
+  {
+    "question": "How does Vee physically express joy or emotional overflow when she cannot contain it?",
+    "expected_answer": "When emotionally overwhelmed with happiness, Vee physically cannot stay seated \u2014 she rises and performs a spontaneous, clumsy full-body spin with her arms up and hair flying, laughing at herself when it's over.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/vee-tells-cassie-dinner.md"
+  },
+  {
+    "question": "What is Randi's most physically distinctive feature, and what is her relationship to it?",
+    "expected_answer": "Randi has startlingly blue eyes that are the first thing anyone notices about her; she has built her entire adult life around being looked at for them.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/the-bench.md"
+  },
+  {
+    "question": "How does Randi typically wear her hair, and what does this reflect about her personality?",
+    "expected_answer": "Randi wears her black, fine hair pulled back into a sleek high ponytail with a scrunchie as the sole flourish. This is a deliberate expression of control \u2014 she decides precisely how much of herself the world is permitted to touch.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/origin-campus-walk.md"
+  },
+  {
+    "question": "What is Pace's approach when making requests that require vulnerability or boundary-crossing from Vee?",
+    "expected_answer": "Pace frames intimate requests as technical necessities of the work, stated as fact rather than demand, and then waits \u2014 leaving the other person a choice without explicitly naming it as one.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/vee-tells-cassie-fitting.md"
+  },
+  {
+    "question": "What board position does Randi hold in the sorority, and what does it earn her?",
+    "expected_answer": "Randi sits on the sorority board in the Standards role, a position that entitles her to a single room \u2014 one of the few tangible perquisites of a board seat.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/randis-walk-of-shame.md"
+  },
+  {
+    "question": "What does Pace do to prepare a space before Vee arrives?",
+    "expected_answer": "Pace anticipates Vee's physical comfort in advance \u2014 turning up the heat in his house before her visits so she will not be cold when she arrives.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/vee-tells-cassie-fitting.md"
+  },
+  {
+    "question": "What is Randi's resting facial expression, and what effect does it have on people who interact with her?",
+    "expected_answer": "Randi's resting expression carries a slight perpetual surprise \u2014 a quality so legible that a college admissions officer once asked if something was wrong when nothing was.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/the-bench.md"
+  },
+  {
+    "question": "How does Pace respond to being admired for his skill or craftsmanship?",
+    "expected_answer": "Pace deflects admiration for his work without preening; he moves immediately back to the practical details of the craft rather than accepting the moment of recognition.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/the-fitting.md"
+  },
+  {
+    "question": "How does Vee typically manage the financial reality of her situation in social settings with wealthier peers?",
+    "expected_answer": "Vee preemptively pays her own way in social situations with wealthier companions, treating it as a matter of pride and self-preservation \u2014 she will not be seen as someone whose seat needs to be bought, even when the cost strains her budget.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/brunch-fitting-randi.md"
+  },
+  {
+    "question": "What is Randi's characteristic interpersonal strategy when she wants more of Pace's time?",
+    "expected_answer": "Randi uses sequenced flattery \u2014 complimenting Pace's stamina, desirability, and rarity \u2014 as a path toward extracting concessions, laying praise down incrementally rather than asking directly.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/ignition-scalding.md"
+  },
+  {
+    "question": "What is Pace's primary declarative language \u2014 verbal statements or physical/bodily action?",
+    "expected_answer": "Pace's primary declarative language is physical: he communicates commitment, care, and emotional weight through deliberate bodily acts (hand pressure, quality of a held kiss, deliberate repositioning) rather than through verbal declaration.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/porch-scene.md"
+  },
+  {
+    "question": "What is Vee's stated behavioral pattern regarding physical intimacy with men she has recently met?",
+    "expected_answer": "Vee holds a personal rule \u2014 framed as something her mother would say \u2014 that she does not kiss a man she has known only a few days; she identifies this as consistent with her history.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/cassie-before.md"
   },
   {
     "question": "What is Vee's reliable departure habit that Pace can count on for scheduling?",
@@ -1368,6 +2416,30 @@
     "source_scene": "scenes/brunch-fitting-randi.md"
   },
   {
+    "question": "How does Pace handle moments of intense attraction or desire?",
+    "expected_answer": "Pace meets desire with stillness rather than advance \u2014 he stays, looks, and holds the moment without moving toward it, expressing want through full attention rather than action.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/hiking-rainstorm.md"
+  },
+  {
+    "question": "How does Pace characteristically present his intellectual habits or knowledge?",
+    "expected_answer": "Pace volunteers that he has thought carefully about most things and does so without apology or self-consciousness, treating thorough analysis as simply his natural mode.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/the-froyo-walk.md"
+  },
+  {
+    "question": "How does Randi deploy warmth socially \u2014 is it targeted or indiscriminate?",
+    "expected_answer": "Randi's warmth is mobile and transferable rather than personal; it lands fully on whoever she is addressing in the moment, then moves on without residue, functioning like weather rather than genuine individual attention.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/together-in-class.md"
+  },
+  {
     "question": "What are the male lead's stable physical characteristics as established in the character bible?",
     "expected_answer": "He has a woodworker's shoulders, a powerlifter's arms, and callused hands from continuous physical labor at the workbench and bar. His body reflects a man who uses himself continuously and without comment.",
     "entity_name": "male lead",
@@ -1382,6 +2454,134 @@
     "stale": false,
     "last_result": "FAIL",
     "source_scene": "scenes/first-night.md"
+  },
+  {
+    "question": "What does Pace understand about Randi's stated motivation for pursuing a woman, versus her actual motivation?",
+    "expected_answer": "Pace knows that Randi's attraction to women is genuinely her own desire, not a gift offered for his benefit. Her framing of it as something she is doing 'for him' is a camouflage she needs in order to act on the wanting at all.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/origin-campus-walk.md"
+  },
+  {
+    "question": "When Vee acts against her own stated rules or habits, how does she tend to describe her own agency in the moment?",
+    "expected_answer": "Vee emphasizes her own deliberate agency when she breaks a personal pattern \u2014 she insists the choice was hers, done on purpose, not induced or talked into.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/cassie-before.md"
+  },
+  {
+    "question": "What behavioral pattern does Pace show around practical caregiving gestures toward someone he is with?",
+    "expected_answer": "Pace quietly handles practical logistics \u2014 paying before the other person has found their wallet, holding doors \u2014 without drawing attention to the gesture or waiting for acknowledgment.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/the-froyo-walk.md"
+  },
+  {
+    "question": "What is Pace's approach when he perceives that someone needs a protective framing in order to act on a desire?",
+    "expected_answer": "Pace deliberately preserves the camouflage or wrapper a person uses to approach their own wanting. He considers allowing someone to keep their protective fiction an act of genuine care, not manipulation.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/origin-campus-walk.md"
+  },
+  {
+    "question": "What is Randi's dominant social gift and how does it function?",
+    "expected_answer": "Randi's defining social power is the quality of her attention: she makes whoever she is focused on feel like the most interesting person in the room. The effect is immediate and addictive, and those around her are aware they are in a 'beam' even as they surrender to it.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/brunch-fitting-randi.md"
+  },
+  {
+    "question": "What is Vee's reflexive defense mechanism when a conversation approaches something emotionally or physically vulnerable?",
+    "expected_answer": "Vee deploys quick, self-deprecating humor as a first-response shield when a conversation nears genuine vulnerability \u2014 a light, fast remark that gets a laugh and buys her cover before she has to decide whether to let the real thing through.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/brunch-fitting-randi.md"
+  },
+  {
+    "question": "What trained perceptual skill does Vee apply outside of academic economics?",
+    "expected_answer": "Vee has developed an eye for reading how intelligent people choose among several available approaches to a problem \u2014 she can identify when someone is deliberately limiting their own display of capability.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/the-meet-cute.md"
+  },
+  {
+    "question": "What is Randi's established behavioral pattern when suppressing strong emotion?",
+    "expected_answer": "Randi has a deeply conditioned pattern of not-crying that no longer registers to her as active suppression \u2014 through long practice, emotional containment has become automatic, feeling like an absence of a door rather than holding one shut.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/randis-walk-of-shame.md"
+  },
+  {
+    "question": "What does Vee know about where Pace lives at the point she enters the novel's main action?",
+    "expected_answer": "Vee knows only that Pace lives west of town off Route 614, past where the road goes to gravel; she has not yet been to his house and does not know its specific address or what it looks like.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/vee-tells-cassie-dinner.md"
+  },
+  {
+    "question": "What physical tells does Pace display when he is holding competing emotional impulses simultaneously?",
+    "expected_answer": "When holding competing internal pressures, Pace produces small, aborted physical gestures \u2014 a hand that presses and stops, multiple breaths taken in succession, the quality of assembling words slowly and deliberately \u2014 none of which he surfaces consciously.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/porch-scene.md"
+  },
+  {
+    "question": "What is Pace's characteristic way of asking questions or expressing interest in another person?",
+    "expected_answer": "Pace asks questions as though the answer genuinely matters and no answer is wrong, conveying that the person's response has real weight to him.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/the-froyo-walk.md"
+  },
+  {
+    "question": "What is the nature of the relationship between Vee and Cassie \u2014 are they roommates, close friends, or something else?",
+    "expected_answer": "Vee and Cassie are close friends and dormitory roommates at Vawter Hall; Cassie is Vee's primary confidante for personal disclosures.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/vee-tells-cassie-dinner.md"
+  },
+  {
+    "question": "How does Pace demonstrate anticipatory care for a person's comfort before they arrive?",
+    "expected_answer": "Pace thinks ahead to a person's physical comfort and arranges conditions in advance \u2014 adjusting the environment before they arrive rather than reacting after the fact.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/the-fitting.md"
+  },
+  {
+    "question": "What is Vee's automatic social reflex when a conversational beat drops or goes awkward?",
+    "expected_answer": "Vee has a trained social fluency that rises involuntarily to smooth over dropped beats \u2014 she bridges gaps, reframes others' silences as charming features, and manages interpersonal rhythm before she has consciously decided to intervene.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/together-in-class.md"
+  },
+  {
+    "question": "What does Vee know about Pace's financial situation at the start of their acquaintance?",
+    "expected_answer": "Vee does not know whether Pace is wealthy or not at the outset; the question has not occurred to her and she defers the answer until she has seen his home.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/vee-tells-cassie-dinner.md"
+  },
+  {
+    "question": "What is Pace's characteristic physical manner of moving and acting?",
+    "expected_answer": "Pace moves unhurriedly and with deliberate ease in all physical actions, taking his time and settling into things without urgency \u2014 this is a consistent behavioral signature across contexts.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/ignition-scalding.md"
   },
   {
     "question": "What physical marking does the male lead carry, and what is known about it going into the novel?",
@@ -1456,12 +2656,140 @@
     "source_scene": "scenes/first-night.md"
   },
   {
+    "question": "What is Pace's behavioral pattern when navigating unfamiliar or uncomfortable social moments involving the person he is with?",
+    "expected_answer": "Pace releases whatever internal state he was in before a person arrives and moves to meet them \u2014 he does not carry his prior mood into the new interaction.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/may-i-choose.md"
+  },
+  {
+    "question": "What is Randi's characteristic recovery behavior when she accidentally reveals genuine desire or vulnerability?",
+    "expected_answer": "When Randi oversteps into unguarded disclosure, she recovers by reframing the slip as deliberate self-deprecating humor \u2014 making the reveal wry and joking rather than retracting it, maintaining control through tone rather than denial.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/ignition-scalding.md"
+  },
+  {
     "question": "Does Pace carry a first-aid or blister kit as a matter of habit on outdoor outings?",
     "expected_answer": "Pace habitually carries a basic trail kit including moleskin, indicating he prepares for companions' comfort and minor injuries as a matter of course.",
     "entity_name": "Peter Pace",
     "stale": false,
     "last_result": "FAIL",
     "source_scene": "scenes/hiking-rainstorm.md"
+  },
+  {
+    "question": "What is the nature of the established friendship dynamic between Vee and Cassie in terms of role and intimacy?",
+    "expected_answer": "Cassie is Vee's closest confidante and roommate; Vee brings her most significant emotional experiences to Cassie first, and Cassie's belief or approval functions as external validation that something is real for Vee.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/cassie-before.md"
+  },
+  {
+    "question": "How does Pace typically communicate praise or validation?",
+    "expected_answer": "Pace validates with economy \u2014 he names a thing as good and does not elaborate, leaving the weight of the statement to stand without embellishment.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/hiking-rainstorm.md"
+  },
+  {
+    "question": "What is Vee's habitual relationship to her own secrets \u2014 how does she handle things she cannot name?",
+    "expected_answer": "Vee pre-constructs 'safe versions' of emotional experiences before sharing them, editing out the parts she cannot say aloud while keeping the presentable narrative ready. She experiences strong internal pressure to release the unedited version to people she trusts.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/brunch-fitting-randi.md"
+  },
+  {
+    "question": "How does Vee manage her visible emotional reactions when she is excited or eager?",
+    "expected_answer": "Vee habitually suppresses and scales down outward displays of enthusiasm \u2014 she waits a beat and folds eagerness down before responding, so the size of her feeling does not show.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/together-in-class.md"
+  },
+  {
+    "question": "How does Vee respond when her personal agency in a romantic moment is questioned or doubted?",
+    "expected_answer": "Vee responds with immediate, emphatic insistence on her own autonomy; she is quick to assert that her romantic choices are deliberate and self-initiated, not the result of persuasion or intoxication.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/vee-tells-cassie-dinner.md"
+  },
+  {
+    "question": "What is Cassie's characteristic way of signaling she accepts what she has been told and is returning to her own business?",
+    "expected_answer": "Cassie uses a brief, quiet 'mm' sound \u2014 a small nonverbal acknowledgment \u2014 as a closing note before redirecting her attention away from a conversation.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/cassie-before.md"
+  },
+  {
+    "question": "What physical detail does the male protagonist carry on his body that the female protagonist does not know about prior to this point in the relationship, and how does she respond to encountering it?",
+    "expected_answer": "He has an old surgical scar on the inside of his thigh near the hip, smooth and slightly raised. She has a practiced habit of filing unknown facts without frames \u2014 noting them carefully and deferring interpretation until later.",
+    "entity_name": "male protagonist",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/first-night.md"
+  },
+  {
+    "question": "What is Randi's relationship to her own physical presentation under stress?",
+    "expected_answer": "Under social pressure, Randi maintains deliberate physical composure \u2014 she does not adjust visibly disheveled clothing and walks her normal walk even when internally destabilized, presenting an unchanged exterior.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/randis-walk-of-shame.md"
+  },
+  {
+    "question": "How does Pace read attraction and desire in the people he is with?",
+    "expected_answer": "Pace reads desire primarily through the body rather than through speech \u2014 through the hand, the frame, the quality of attention, duration of a gaze, and involuntary physical responses. He treats the body as a more reliable informant than spoken language.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/origin-campus-walk.md"
+  },
+  {
+    "question": "What is Randi's dominant behavioral pattern when it comes to decision-making within a sexual or intimate dynamic?",
+    "expected_answer": "Handing over the choice of direction in an intimate encounter is the one zone of Randi's life in which she does not choose and actively does not want to choose; she asks her partner to decide as a way of ceding that control.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/the-bench.md"
+  },
+  {
+    "question": "How does Sloane function socially within the group dynamic?",
+    "expected_answer": "Sloane's social role is that of an ambiguous amplifier \u2014 her small laugh carries no fixed meaning and is therefore available to reinforce whatever social current the room is running, making her a flexible instrument in group dynamics.",
+    "entity_name": "Sloane",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/randis-walk-of-shame.md"
+  },
+  {
+    "question": "How does Pace use physical proximity and held contact as communicative acts distinct from casual affection?",
+    "expected_answer": "Pace uses deliberate repositioning \u2014 drawing someone closer with a specific adjustment of his arm, holding a kiss against the head for a beat longer than usual, then settling his cheek against the same place \u2014 as intentional acts of declaration, distinct from casual or habitual touch.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/porch-scene.md"
+  },
+  {
+    "question": "What is Cassie's characteristic manner of making socially loaded observations?",
+    "expected_answer": "Cassie delivers pointed or uncomfortable observations in a flat, matter-of-fact register \u2014 the voice of someone reporting a neutral fact \u2014 without apparent emotional stake or fishing for reaction.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/the-meet-cute.md"
+  },
+  {
+    "question": "What is Vee's baseline expectation about whether good things will happen to her?",
+    "expected_answer": "Vee's default self-concept positions her as someone good things don't happen to; she anticipates disappointment and preemptively discounts positive developments to protect herself.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/the-froyo-walk.md"
   },
   {
     "question": "What position does Brooke hold within the sorority, and how does she express that authority physically?",
@@ -1472,11 +2800,187 @@
     "source_scene": "scenes/randis-walk-of-shame.md"
   },
   {
+    "question": "What physical habit does Cassie have regarding her feet when seated?",
+    "expected_answer": "Cassie habitually keeps her feet lifted off the floor when seated in a chair, because her legs are short enough that her feet do not reach.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/cassie-before.md"
+  },
+  {
+    "question": "How does Pace look at Vee, and what does his gaze communicate?",
+    "expected_answer": "Pace's gaze is deliberate and appreciative rather than predatory \u2014 Vee reads it as a silent request for permission to look, followed by evident gladness at what he sees.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/vee-tells-cassie-fitting.md"
+  },
+  {
     "question": "What is Brooke's most distinctive vocal quality and how does it function socially?",
     "expected_answer": "Brooke has a voice of exceptional warmth that operates like a signature scent \u2014 it enters rooms before she does and lingers after she leaves, making it a primary instrument of her social authority.",
     "entity_name": "Brooke",
     "stale": false,
     "last_result": "FAIL",
     "source_scene": "scenes/randis-walk-of-shame.md"
+  },
+  {
+    "question": "What relational experience has been notably absent for Vee prior to the novel's main action?",
+    "expected_answer": "Vee has not been accustomed to being the person someone waits on or prioritizes; sustained, patient attention from another person is unfamiliar and striking to her.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/the-froyo-walk.md"
+  },
+  {
+    "question": "What is Randi's social role within her friend group?",
+    "expected_answer": "Randi functions as the group's social regulator \u2014 she reads interpersonal registers accurately, delivers small rescues at precisely the right moment, and maintains a warm anchoring presence that reseals group cohesion after tension.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/the-meet-cute.md"
+  },
+  {
+    "question": "What object does Vee keep close to her at night and throughout her daily routine, indicating its personal significance?",
+    "expected_answer": "A flannel shirt made by Pace \u2014 untagged, high-quality, notable for its softness \u2014 which Vee sleeps in and wears into daily life, treating it as a comfort object tied to him.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/vee-tells-cassie-fitting.md"
+  },
+  {
+    "question": "What recurring object in Pace's home carries stable symbolic meaning across the novel, and what is its significance?",
+    "expected_answer": "The bench is a custom-built BDSM piece Pace constructed himself from walnut with twelve oil-finish coats; it functions as the novel's central symbolic object, representing Pace's intentionality, his vision of Randi before he knew her, and the threshold between Randi's performed self and her actual one. It disguises as a table when its wooden top is fitted.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/the-bench.md"
+  },
+  {
+    "question": "What is a notable gap in Vee's practical experience that is treated as a known characteristic by those close to her?",
+    "expected_answer": "Vee has never gone hiking; this is an established fact about her background that Cassie knows without needing to be told, treating it as an obvious given.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/vee-tells-cassie-dinner.md"
+  },
+  {
+    "question": "What internalized shame pattern does Vee carry around female sexuality and desire?",
+    "expected_answer": "Vee carries her mother's voice as an internalized shame authority \u2014 specific shaming words about female sexuality arise automatically in moments of exposure or desire, and they do not dissipate when she tries to dismiss them.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/the-fitting.md"
+  },
+  {
+    "question": "How does Vee respond to experiences of genuine natural beauty?",
+    "expected_answer": "Vee is physically arrested by sublime beauty \u2014 her body stops her before her mind does, her breath leaves her, and she falls into wordless looking before awareness of her own physical state returns to her.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/hiking-rainstorm.md"
+  },
+  {
+    "question": "Where in Vee's body does pre-cognitive emotional knowing register before her mind catches up?",
+    "expected_answer": "Vee registers pre-cognitive emotional dissonance as a small physical sensation behind her sternum \u2014 a bodily 'wait' that precedes and outruns conscious articulation.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/porch-scene.md"
+  },
+  {
+    "question": "What kind of woman does Randi find herself genuinely drawn to when given the freedom to choose, contrary to her usual type?",
+    "expected_answer": "Randi is drawn to women who are physically present without apology, warm and open rather than closed or performative, and capable of genuine unselfconscious expression \u2014 the opposite of her own carefully managed presentation.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/origin-campus-walk.md"
+  },
+  {
+    "question": "What is Pace's core behavioral pattern when managing intimacy and pacing with a partner?",
+    "expected_answer": "Pace deliberately withholds hurry as a strategic and philosophical stance; he backs off after initial contact and lets his partner decide, does not rush to sensation, and uses extended slowness to dismantle a partner's performed responses until an unguarded authentic one emerges.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/the-bench.md"
+  },
+  {
+    "question": "What is the nature of Vee and Pace's relationship at the opening of the novel?",
+    "expected_answer": "Vee and Pace are in the earliest stage of a nascent romantic connection \u2014 they have recently exchanged numbers and gone on a first informal outing together.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/the-froyo-walk.md"
+  },
+  {
+    "question": "What is Vee's class-anxiety tell in unfamiliar upscale environments?",
+    "expected_answer": "When entering a new upscale environment, Vee reflexively reads the price column of a menu before the food column, scouts the cheapest viable option, and becomes acutely aware of small class markers on her own person \u2014 scuffed shoes, wrong-register clothing choices.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/brunch-fitting-randi.md"
+  },
+  {
+    "question": "What is the nature of the relationship between Vee and Cassie?",
+    "expected_answer": "Vee and Cassie are roommates and close confidants; Cassie is one of the few people Vee processes emotional events with directly, and Cassie reads Vee's states accurately without being told explicitly.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/vee-tells-cassie-fitting.md"
+  },
+  {
+    "question": "Once Vee deploys a carefully prepared emotional statement and does not receive a matching response, does she repeat the attempt?",
+    "expected_answer": "Vee does not repeat an emotional opening once she has given it and not received the answer she was waiting for. The statement retires permanently; she will not offer the same opening again.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/porch-scene.md"
+  },
+  {
+    "question": "What is the nature of Randi's private feeling toward Vee at the level of her stable psychology?",
+    "expected_answer": "Randi carries a private envy of Vee that runs beneath her controlled, appetitive surface \u2014 she ranks Vee below herself in every public context but privately wants what Vee has access to, a contradiction she does not fully consciously acknowledge.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/ignition-scalding.md"
+  },
+  {
+    "question": "How does Randi's closet organization reflect her character?",
+    "expected_answer": "Randi's closet is a stable, disciplined system maintained over at least two years \u2014 a narrow space worked to its limit, with a controlled palette running bone to camel to oatmeal and one deliberate accent in oxblood, reflecting a temperament of controlled order with a single permitted intensity.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/randis-walk-of-shame.md"
+  },
+  {
+    "question": "How does Vee characteristically handle a moment after she has said something that feels emotionally exposed?",
+    "expected_answer": "Vee immediately registers how her vulnerable admission lands, winces at it, and offers the other person an exit by suggesting they both pretend she didn't say it.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/the-froyo-walk.md"
+  },
+  {
+    "question": "What is Vee's behavioral pattern when she senses she may have exposed herself too much emotionally?",
+    "expected_answer": "When Vee suspects she has over-exposed herself, she rapidly constructs a normalizing explanation \u2014 typically social or factual \u2014 and files it before the feeling can fully surface, defaulting to the most innocent available interpretation of events.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/brunch-fitting-randi.md"
+  },
+  {
+    "question": "What does Vee's behavior when leaving Pace's house reveal about her stable relational disposition toward him?",
+    "expected_answer": "Vee arrives at Pace's home put-together and leaves visibly undone without fixing herself, and does not mind him seeing her in that state \u2014 indicating a stable trust and ease with him that she does not perform around.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/ignition-scalding.md"
+  },
+  {
+    "question": "What is the relationship between Cassie and Vee going into the novel?",
+    "expected_answer": "Cassie is Vee's close confidante \u2014 physically present in her personal space, involved in her dating life, and emotionally expressive about it.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/hiking-rainstorm.md"
   }
 ]
