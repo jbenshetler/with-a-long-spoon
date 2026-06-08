@@ -591,6 +591,96 @@
   },
   {
     "character_name": "Vivienne",
+    "fact": "A man named Pace (Peter Pace) approached her table at the coffee shop on Wilson Street and offered to help with her calculus problem",
+    "source_character": "Pace",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": null,
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "The calculus problem contained a hidden third rate, described in plain English as a sentence rather than labeled as a rate, which was the key to solving it",
+    "source_character": "Pace",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee confirms this herself by solving the problem successfully after he points it out",
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "Pace's name is 'Pace' (she will later know him as Peter Pace)",
+    "source_character": "Pace",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "He introduces himself only as 'Pace' in this scene",
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "Pace chose a tutoring approach that gave her back the pencil at the exact point where she could solve it herself, rather than solving it for her \u2014 i.e., he deliberately withheld showing his full capability so as not to make her feel small",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee reasons this out herself using her econ-trained eye for how smart people handle problems; the narrator confirms her reading is accurate",
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "Pace asked 'may I call you?' and obtained her phone number",
+    "source_character": "Pace",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": null,
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "Randi thinks Vee should text Pace and is warm and unbothered about the encounter",
+    "source_character": "Miranda",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Randi's surface presentation is warm encouragement; the narrator implies a more complex inner state but Vee does not register this",
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "Cassie observed that Pace looked at Randi the way he would look at 'somebody's great-aunt' \u2014 not as an attractive woman \u2014 despite Randi being the most conventionally beautiful person at the table",
+    "source_character": "Cassandra",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee receives this and privately recognizes the truth of it, connecting it to a pattern she has observed before with Cassie herself, but she does not follow the implication toward Randi",
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "She has not previously articulated her reasons for studying economics to anyone in as much detail as she did to Pace",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee's own internal observation",
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Cassandra",
+    "fact": "Pace looked at Randi with complete romantic indifference despite her being the most conventionally attractive person at the table, and looked at Vee with sustained romantic interest",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Cassie observes this directly and reports it plainly; the narrator confirms her read is accurate",
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Vivienne",
     "fact": "Randi's Mercedes convertible is dark green, long and low, and the window drops automatically when you reach for the door handle, then re-seals when the door shuts.",
     "source_character": null,
     "source_reliable": true,
