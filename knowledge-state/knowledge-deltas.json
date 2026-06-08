@@ -1371,6 +1371,26 @@
   },
   {
     "character_name": "Peter Pace",
+    "fact": "Randi locks the front door behind her as her first action upon entering \u2014 every time, before anything else",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Narrator establishes this as an observed pattern, confirmed again this visit",
+    "scene_file": "scenes/the-bench.md",
+    "chapter_number": 1
+  },
+  {
+    "character_name": "Peter Pace",
+    "fact": "Randi told her sorority sister Brooke she had a paper due in order to leave chapter dinner early and come to him",
+    "source_character": "Miranda",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Randi volunteers this information herself; Pace did not know the specific lie before she told him",
+    "scene_file": "scenes/the-bench.md",
+    "chapter_number": 1
+  },
+  {
+    "character_name": "Peter Pace",
     "fact": "Vivienne reached for his hand and brought it against her belly under the flannel when she discovered he was shivering",
     "source_character": null,
     "source_reliable": true,
@@ -1498,6 +1518,176 @@
     "notes": "She arrives at this as a felt, not yet fully articulated, understanding near the scene's close. The narrative flags it as significant future knowledge.",
     "scene_file": "scenes/the-fitting.md",
     "chapter_number": 12
+  },
+  {
+    "character_name": "Peter Pace",
+    "fact": "Randi's paper is not due until Thursday, meaning the lie to Brooke was unnecessary in terms of academic urgency",
+    "source_character": "Miranda",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Randi states this directly when Pace asks if she has a paper",
+    "scene_file": "scenes/the-bench.md",
+    "chapter_number": 1
+  },
+  {
+    "character_name": "Peter Pace",
+    "fact": "Randi eats thin apple slices faster when they are placed cut-side up in the bowl",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "The narrator clarifies this is something Pace had previously noticed and acted on; confirmed again this scene as he had already prepared the bowl this way. This is prior knowledge made explicit to the reader here, not new to Pace.",
+    "scene_file": "scenes/the-bench.md",
+    "chapter_number": 1
+  },
+  {
+    "character_name": "Peter Pace",
+    "fact": "When brought to genuine emotional extremity, Randi's voice drops from her trained social register into something lower, broken, and unperformed \u2014 her actual voice",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Pace had been waiting for this since the first night; this scene is the first time he witnesses it. He explicitly registers the difference.",
+    "scene_file": "scenes/the-bench.md",
+    "chapter_number": 1
+  },
+  {
+    "character_name": "Peter Pace",
+    "fact": "Randi is capable of a full-body shudder during orgasm \u2014 a response he had not seen from her before tonight",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Pace observes and explicitly notes this as new",
+    "scene_file": "scenes/the-bench.md",
+    "chapter_number": 1
+  },
+  {
+    "character_name": "Peter Pace",
+    "fact": "Randi was crying during and after her orgasm, apparently without being aware she was doing it",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Pace observes the crying and notes he had not noticed it start; the narrator confirms she did not seem to know she was doing it",
+    "scene_file": "scenes/the-bench.md",
+    "chapter_number": 1
+  },
+  {
+    "character_name": "Peter Pace",
+    "fact": "When called beautiful by him in an unguarded moment after the scene, Randi flinched involuntarily \u2014 suggesting the compliment landed somewhere she was not braced for",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Pace feels the flinch physically through her body against his chest and registers it explicitly",
+    "scene_file": "scenes/the-bench.md",
+    "chapter_number": 1
+  },
+  {
+    "character_name": "Peter Pace",
+    "fact": "Randi locked the bathroom door behind her \u2014 something she had never done before in his house",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Pace explicitly registers this as a departure from her prior behavior",
+    "scene_file": "scenes/the-bench.md",
+    "chapter_number": 1
+  },
+  {
+    "character_name": "Peter Pace",
+    "fact": "Randi cried again briefly while alone in the bathroom",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Pace hears this while waiting on the bed; he can hear through the door",
+    "scene_file": "scenes/the-bench.md",
+    "chapter_number": 1
+  },
+  {
+    "character_name": "Peter Pace",
+    "fact": "He believes he has gotten further into Randi tonight than he expected to get this early, and that she will be gradually different from this point forward",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Stated as Pace's own internal reflection; the novel's framing does not contradict his assessment",
+    "scene_file": "scenes/the-bench.md",
+    "chapter_number": 1
+  },
+  {
+    "character_name": "Miranda",
+    "fact": "The bench in Pace's bedroom is not a table \u2014 it is a purpose-built apparatus designed to restrain and position a woman's body in a specific way",
+    "source_character": "Peter Pace",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Randi had believed it was a table since her second visit; she revises this belief when she sees it with the wooden top removed and its working surfaces visible",
+    "scene_file": "scenes/the-bench.md",
+    "chapter_number": 1
+  },
+  {
+    "character_name": "Miranda",
+    "fact": "Pace built the bench himself, and began building it eleven months ago \u2014 before he met her",
+    "source_character": "Peter Pace",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Pace tells her directly. The eleven-month timeline is confirmed by the narrator, not by Pace to Randi \u2014 she learns only that he was making it before he knew who would be on it.",
+    "scene_file": "scenes/the-bench.md",
+    "chapter_number": 1
+  },
+  {
+    "character_name": "Miranda",
+    "fact": "She once sat on the wooden top of the bench \u2014 thinking it was a table \u2014 while waiting for Pace",
+    "source_character": "Peter Pace",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Randi appears to recall this herself and Pace confirms it",
+    "scene_file": "scenes/the-bench.md",
+    "chapter_number": 1
+  },
+  {
+    "character_name": "Miranda",
+    "fact": "She is capable of begging \u2014 of asking for something in a voice that comes from genuine need rather than social performance",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Randi becomes aware of this about herself during and after the scene; she processes it explicitly in the bathroom mirror sequence",
+    "scene_file": "scenes/the-bench.md",
+    "chapter_number": 1
+  },
+  {
+    "character_name": "Miranda",
+    "fact": "Something has changed in her that she cannot undo \u2014 she has crossed a line she cannot uncross",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Randi arrives at this belief herself while looking in the bathroom mirror; the novel frames this as genuine self-knowledge rather than distortion",
+    "scene_file": "scenes/the-bench.md",
+    "chapter_number": 1
+  },
+  {
+    "character_name": "Miranda",
+    "fact": "When she tried her practiced knowing smile in the mirror over the face that had just begged, she could see the disjunction between the two \u2014 the performance no longer sat cleanly on the face",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Randi observes this directly and her eyes fill briefly in response; the smile 'settles' only on a second attempt, and she recognizes it as lying",
+    "scene_file": "scenes/the-bench.md",
+    "chapter_number": 1
+  },
+  {
+    "character_name": "Miranda",
+    "fact": "She does not yet understand what she will do with what happened, or how she feels about Pace for having produced it",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Stated as Randi's own interior condition; she explicitly holds both questions open",
+    "scene_file": "scenes/the-bench.md",
+    "chapter_number": 1
+  },
+  {
+    "character_name": "Miranda",
+    "fact": "She is going to have to figure out what she is going to do about Pace \u2014 and about what happened tonight",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Randi arrives at this conclusion herself in the final paragraphs; framed as a resolve or problem she is holding, not a decision yet made",
+    "scene_file": "scenes/the-bench.md",
+    "chapter_number": 1
   },
   {
     "character_name": "Vivienne",
