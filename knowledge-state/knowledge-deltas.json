@@ -1240,6 +1240,126 @@
     "chapter_number": 10
   },
   {
+    "character_name": "Miranda",
+    "fact": "Peter Pace made the shirt he previously gave her \u2014 there was no brand tag because he sewed it himself",
+    "source_character": "Peter Pace",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "She had previously filed the missing tag under 'counterfeit, sample, off-brand' without landing on an answer. The scene explicitly states she realizes this during the fitting.",
+    "scene_file": "scenes/the-fitting.md",
+    "chapter_number": 12
+  },
+  {
+    "character_name": "Miranda",
+    "fact": "Pace chose the burgundy cloth to match her coloring specifically, not to match the dress she had described from the magazine",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "She arrives at this herself by holding the cloth near her face and seeing their reflection together in the window glass.",
+    "scene_file": "scenes/the-fitting.md",
+    "chapter_number": 12
+  },
+  {
+    "character_name": "Miranda",
+    "fact": "The collar of the shirt he made her took him four tries",
+    "source_character": "Peter Pace",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": null,
+    "scene_file": "scenes/the-fitting.md",
+    "chapter_number": 12
+  },
+  {
+    "character_name": "Miranda",
+    "fact": "Pace turned the thermostat up before she arrived so she would not be cold while undressed during the fitting",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "She infers this herself; the scene marks it as her act of registering and understanding. Confidence is high because the narrative frames her inference as correct.",
+    "scene_file": "scenes/the-fitting.md",
+    "chapter_number": 12
+  },
+  {
+    "character_name": "Miranda",
+    "fact": "Pace also had the kettle water already hot before she arrived, anticipating she would need tea during the fitting",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Parenthetical observation in narrative; she registers it as part of the same pattern of his forethought.",
+    "scene_file": "scenes/the-fitting.md",
+    "chapter_number": 12
+  },
+  {
+    "character_name": "Miranda",
+    "fact": "Pace has a purpose-built low riser/platform in his house for fitting work",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "She observes this when directed back onto it; the narrative notes her recognition of it as deliberate construction.",
+    "scene_file": "scenes/the-fitting.md",
+    "chapter_number": 12
+  },
+  {
+    "character_name": "Miranda",
+    "fact": "Pace did not look down at the visible wet patch on her panties while he was working at that level; he had been waiting with his face turned up toward hers instead",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "She directly observes this when she opens her eyes and finds him already looking up at her face.",
+    "scene_file": "scenes/the-fitting.md",
+    "chapter_number": 12
+  },
+  {
+    "character_name": "Miranda",
+    "fact": "Pace wants her physically but is choosing to hold a boundary and finish the dress correctly rather than act on that want",
+    "source_character": "Peter Pace",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "She reads this in his 'Keep still' and the silence before it; the narrative confirms this interpretation explicitly.",
+    "scene_file": "scenes/the-fitting.md",
+    "chapter_number": 12
+  },
+  {
+    "character_name": "Miranda",
+    "fact": "She has the capacity to nearly destabilize Pace's composure \u2014 that she holds that kind of effect over him",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "She arrives at this herself after the pin incident and his visible struggle. The narrative frames it as new self-knowledge.",
+    "scene_file": "scenes/the-fitting.md",
+    "chapter_number": 12
+  },
+  {
+    "character_name": "Miranda",
+    "fact": "The burgundy cloth \u2014 deeper than the magazine shade with purple undertones \u2014 suits her coloring better than the original shade she had wanted would have",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Directly observed by her in the window reflection; her disappointment converts to something she cannot name.",
+    "scene_file": "scenes/the-fitting.md",
+    "chapter_number": 12
+  },
+  {
+    "character_name": "Miranda",
+    "fact": "Pace kissed the pin-prick on her ribs and held the contact slightly longer than the gesture required",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "She directly experiences and registers this.",
+    "scene_file": "scenes/the-fitting.md",
+    "chapter_number": 12
+  },
+  {
+    "character_name": "Miranda",
+    "fact": "Being seen fully \u2014 including at her most ashamed \u2014 by Pace did not result in being found wanting",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "She arrives at this as a felt, not yet fully articulated, understanding near the scene's close. The narrative flags it as significant future knowledge.",
+    "scene_file": "scenes/the-fitting.md",
+    "chapter_number": 12
+  },
+  {
     "character_name": "Vivienne",
     "fact": "Randi's Mercedes convertible is dark green, long and low, and the window drops automatically when you reach for the door handle, then re-seals when the door shuts.",
     "source_character": null,
