@@ -219,16 +219,7 @@
   ],
   "relationships": [
     {
-      "to": "Pace",
-      "relationship": "friend",
-      "negated": false,
-      "properties": {
-        "note": "Sees Pace as a friend rather than as a man; immune to his masculine register",
-        "mechanism": "outside Pace's sexual economy"
-      }
-    },
-    {
-      "to": "Cassie",
+      "to": "Cassandra",
       "relationship": "structural_contrast",
       "negated": false,
       "properties": {
@@ -237,25 +228,28 @@
       }
     },
     {
-      "to": "Pace",
-      "relationship": "deliberate physical contrast (foil)",
-      "negated": false,
-      "properties": "Sheri is tiny and slender set against Pace, who is strongly built and average height"
-    },
-    {
-      "to": "Cassie",
+      "to": "Cassandra",
       "relationship": "appearance-grammar contrast",
       "negated": false,
       "properties": "Cassie occupies the 'doesn't try' position (no makeup, eschewed not lacked); Sheri occupies the 'visible effort, no shame' position"
     },
     {
-      "to": "Randi",
-      "relationship": "appearance-grammar contrast",
+      "to": "Peter Pace",
+      "relationship": "friend",
       "negated": false,
-      "properties": "Randi occupies the 'labor invisible' position (work that doesn't show); Sheri's effort is visible and imperfect"
+      "properties": {
+        "note": "Sees Pace as a friend rather than as a man; immune to his masculine register",
+        "mechanism": "outside Pace's sexual economy"
+      }
     },
     {
-      "to": "Pace",
+      "to": "Peter Pace",
+      "relationship": "deliberate physical contrast (foil)",
+      "negated": false,
+      "properties": "Sheri is tiny and slender set against Pace, who is strongly built and average height"
+    },
+    {
+      "to": "Peter Pace",
       "relationship": "deflates/needles",
       "negated": false,
       "properties": {
@@ -266,12 +260,78 @@
       }
     },
     {
-      "to": "Pace",
+      "to": "Peter Pace",
       "relationship": "supported_by",
       "negated": false,
       "properties": {
         "manner": "spent time with her, listened to her cry, bought her bacon cheeseburgers after cycling",
         "quality": "the true gesture chosen over the expected one; constancy of treatment"
+      }
+    },
+    {
+      "to": "Peter Pace",
+      "relationship": "perceives_with_suspicion",
+      "negated": false,
+      "properties": {
+        "basis": "radar ping identifying Pace as a conditional person who withdraws when terms change",
+        "scope": "Pace-specific, single encounter",
+        "verdict": "She's a lot."
+      }
+    },
+    {
+      "to": "Peter Pace",
+      "relationship": "deflected_by",
+      "negated": false,
+      "properties": {
+        "note": "Pace deflects Sheri's read; the reader files it next to Cassie's warning"
+      }
+    },
+    {
+      "to": "Peter Pace",
+      "relationship": "friend",
+      "negated": false,
+      "properties": {
+        "nature": "The one outside-the-house bond the novel shows Pace keeping",
+        "perception": "Sees Pace clearly via glancing, Pace-specific radar"
+      }
+    },
+    {
+      "to": "Peter Pace",
+      "relationship": "protector_of",
+      "negated": false,
+      "properties": {
+        "nature": "Directs held temper outward at whoever hurts Pace; defends Pace fiercely"
+      }
+    },
+    {
+      "to": "Peter Pace",
+      "relationship": "fiercely_loyal_to",
+      "negated": false,
+      "properties": {
+        "trust_level": "absolute",
+        "knowledge_gap": "she does not know the causes of his nature",
+        "loyalty_basis": "structural \u2014 he is the one bond that proved load-bearing when everything built to hold didn't"
+      }
+    },
+    {
+      "to": "Peter Pace",
+      "relationship": "loyal surviving bond",
+      "negated": false,
+      "properties": {
+        "note": "her protective action is on his behalf; the document instructs that Pace neither accepts nor declines on the page",
+        "nature": "the one surviving bond, paying back the debt of having survived",
+        "loyalty": "earned"
+      }
+    },
+    {
+      "to": "Cassandra",
+      "relationship": "narrative_foil",
+      "negated": false,
+      "properties": {
+        "contrast": "Both issue warnings, but different instruments: Cassie structural/sustained, Sheri a single ping from a different sensor",
+        "aliases_referenced": [
+          "Cassie"
+        ]
       }
     },
     {
@@ -309,67 +369,11 @@
       }
     },
     {
-      "to": "Pace",
-      "relationship": "perceives_with_suspicion",
-      "negated": false,
-      "properties": {
-        "basis": "radar ping identifying Pace as a conditional person who withdraws when terms change",
-        "scope": "Pace-specific, single encounter",
-        "verdict": "She's a lot."
-      }
-    },
-    {
-      "to": "Cassandra",
-      "relationship": "narrative_foil",
-      "negated": false,
-      "properties": {
-        "contrast": "Both issue warnings, but different instruments: Cassie structural/sustained, Sheri a single ping from a different sensor",
-        "aliases_referenced": [
-          "Cassie"
-        ]
-      }
-    },
-    {
-      "to": "Pace",
-      "relationship": "deflected_by",
-      "negated": false,
-      "properties": {
-        "note": "Pace deflects Sheri's read; the reader files it next to Cassie's warning"
-      }
-    },
-    {
-      "to": "Pace",
-      "relationship": "friend",
-      "negated": false,
-      "properties": {
-        "nature": "The one outside-the-house bond the novel shows Pace keeping",
-        "perception": "Sees Pace clearly via glancing, Pace-specific radar"
-      }
-    },
-    {
       "to": "Cassandra",
       "relationship": "narrative_foil",
       "negated": false,
       "properties": {
         "note": "Both are confidantes who see clearly but for structurally opposite reasons; Sheri is a true variant, not a mirror"
-      }
-    },
-    {
-      "to": "Pace",
-      "relationship": "protector_of",
-      "negated": false,
-      "properties": {
-        "nature": "Directs held temper outward at whoever hurts Pace; defends Pace fiercely"
-      }
-    },
-    {
-      "to": "Pace",
-      "relationship": "fiercely_loyal_to",
-      "negated": false,
-      "properties": {
-        "trust_level": "absolute",
-        "knowledge_gap": "she does not know the causes of his nature",
-        "loyalty_basis": "structural \u2014 he is the one bond that proved load-bearing when everything built to hold didn't"
       }
     },
     {
@@ -381,14 +385,10 @@
       }
     },
     {
-      "to": "Pace",
-      "relationship": "loyal surviving bond",
+      "to": "Vivienne",
+      "relationship": "appearance-grammar contrast",
       "negated": false,
-      "properties": {
-        "note": "her protective action is on his behalf; the document instructs that Pace neither accepts nor declines on the page",
-        "nature": "the one surviving bond, paying back the debt of having survived",
-        "loyalty": "earned"
-      }
+      "properties": "Randi occupies the 'labor invisible' position (work that doesn't show); Sheri's effort is visible and imperfect"
     }
   ],
   "negations": [

@@ -6,6 +6,26 @@
   "entity_type": "character",
   "facts": [
     {
+      "attribute": "hair",
+      "value": "brown, short shag grown a little past where a cut would be"
+    },
+    {
+      "attribute": "build",
+      "value": "Boxy; heavy intramural sport keeps it from going to fat; body is functional, not for being looked at"
+    },
+    {
+      "attribute": "makeup",
+      "value": "wears none \u2014 eschewed deliberately, not from lack"
+    },
+    {
+      "attribute": "clothing",
+      "value": "shorts in warm weather, pants in cold; no skirts"
+    },
+    {
+      "attribute": "tidiness",
+      "value": "Cassie's side of the room may be neater than Vee's; the contrast is part of the friendship"
+    },
+    {
       "attribute": "negations",
       "value": [
         {
@@ -21,23 +41,250 @@
       ]
     },
     {
+      "attribute": "sexuality",
+      "value": "reads as asexual \u2014 AUTHOR-KNOWLEDGE ONLY; never surfaces, never named, never any character's observation; shapes rendering (un-watched body, warmth that wants nothing) but is never content"
+    },
+    {
+      "attribute": "appearance",
+      "value": "Plain"
+    },
+    {
+      "attribute": "color_palette",
+      "value": "brown, deliberate \u2014 does not twin Randi's black-on-black, does not flatter"
+    },
+    {
+      "attribute": "sports_played",
+      "value": "Softball in spring, basketball in winter; joins any rec team given the chance"
+    },
+    {
+      "attribute": "aesthetic_role",
+      "value": "The un-coded third model; opts out of the appearance economy entirely (a 'fourth fact,' not a judgment on the others)"
+    },
+    {
+      "attribute": "clothing_style",
+      "value": "Functional, indifferent-to-venue uniform: ball cap pulled low, headphones, shorts and yesterday's shirt"
+    },
+    {
+      "attribute": "narrative_role",
+      "value": "A marker the reader tracks \u2014 voices unease early, gets dismissed, later vindicated"
+    },
+    {
+      "attribute": "headphone_habit",
+      "value": "Wears headphones at volume low enough that she can laugh at things said two tables over"
+    },
+    {
+      "attribute": "perceptual_mode",
+      "value": "Registers structure, not character \u2014 perceives arrangement, cost, wrongness-of-fit, and her friend receding"
+    },
+    {
+      "attribute": "expression_style",
+      "value": "Reports perceptions as flat observations or dry jokes, never as articulated accusations"
+    },
+    {
       "attribute": "occupation_track",
       "value": "Pre-nursing student"
+    },
+    {
+      "attribute": "over_feed_signal",
+      "value": "If the reader starts growing curious about Cassie for her own sake, that is the over-feed signal \u2014 pull back"
+    },
+    {
+      "attribute": "perceptual_limit",
+      "value": "Can see the readout but not the mechanism"
+    },
+    {
+      "attribute": "perceptual_trait",
+      "value": "Registers structure/operation rather than character; reads the operation instead of receiving the beam"
+    },
+    {
+      "attribute": "venue_preference",
+      "value": "Prefers a sports bar; would choose to be there"
+    },
+    {
+      "attribute": "clear_sight_source",
+      "value": "Her plainness is the unstated source of her clear sight; having no stake in the appearance economy lets her read Randi for operation rather than being caught in the beam"
+    },
+    {
+      "attribute": "living_arrangement",
+      "value": "Standard double dorm room shared with Vee, featuring bunk beds, two desks, and a bathroom shared through a connecting door with the adjacent room"
     },
     {
       "attribute": "narrative_function",
       "value": "The Cassandra device: sees clearly and is not believed; never named, explained, or commented on by any character including herself; she does not know she is Cassandra"
     },
     {
+      "attribute": "athletic_commitment",
+      "value": "Heavily involved in intramural sport; reliably competing/away during key narrative moments"
+    },
+    {
       "attribute": "correctness_framing",
       "value": "Right within the available frame; Vee is right on hers; the reader holds both"
     },
     {
+      "attribute": "perception_of_Randi",
+      "value": "Sees Randi clearly, because she has no investment in Randi being what she presents as"
+    },
+    {
+      "attribute": "overall_presentation",
+      "value": "unmanaged \u2014 not ugly, not slovenly, just not managing how she lands"
+    },
+    {
+      "attribute": "relationship_to_body",
+      "value": "the body is used, not watched; unmanaged"
+    },
+    {
+      "attribute": "rendering_constraint",
+      "value": "Rendered almost entirely as effect-on-Vee and she-was-right; no standalone interiority"
+    },
+    {
+      "attribute": "stake_in_sexual_economy",
+      "value": "Has none (author-knowledge / unstated)"
+    },
+    {
       "attribute": "narrative_function_secondary",
       "value": "Thesis-delivery vehicle at the very end ('the best sex of your life...where do I sign up?')"
+    },
+    {
+      "attribute": "relationship_to_appearance_economy",
+      "value": "Outside the appearance economy; no investment in being looked at"
+    },
+    {
+      "attribute": "position_relative_to_Randi's_influence",
+      "value": "Stands outside all of Randi's beams; the one who sees the mechanism while everyone else is inside one of them"
     }
   ],
-  "behavioral_states": [],
+  "behavioral_states": [
+    {
+      "state_name": "Truly listening",
+      "trigger": "Paying close attention to what someone is saying",
+      "response": "Goes very still, pulls knees to chest",
+      "observable": "Stillness, knees drawn to chest \u2014 'the way she got when she was paying attention'",
+      "distinguish_from": [
+        "Full attention on Vee (highlighter down)",
+        "Processing (movement)"
+      ]
+    },
+    {
+      "state_name": "Processing",
+      "trigger": "Taking in / working through what she's hearing",
+      "response": "Moves around \u2014 window, back, bed, up again \u2014 settling as the telling deepens",
+      "observable": "Motion that tracks the depth of what she's taking in; settles as the telling deepens",
+      "distinguish_from": [
+        "Truly listening (stillness)",
+        "Full attention on Vee (highlighter down)"
+      ]
+    },
+    {
+      "state_name": "Randi-shaped conscious suspicion",
+      "trigger": "Presence of Randi / the visible operator and the friendship's cost",
+      "response": "Dislikes Randi, distrusts the friendship, smells the cost; voices legitimate conscious suspicion",
+      "observable": "Stated dislike and distrust directed at Randi",
+      "distinguish_from": [
+        "Pace-perception (subconscious, involuntary)",
+        "conscious warning about Pace"
+      ]
+    },
+    {
+      "state_name": "clear_sight_of_randi",
+      "trigger": "Exposed to Randi's warmth-instrument / self-presentation",
+      "response": "Randi's warmth-instrument finds nothing to grip; Cassie reads the operation rather than receiving the intended effect",
+      "observable": "Sees Randi clearly, immune to the persona Randi projects",
+      "distinguish_from": [
+        "being charmed by Randi",
+        "genuine warmth toward Randi"
+      ]
+    },
+    {
+      "state_name": "randi_shaped_warnings",
+      "trigger": "Concern about Randi / the staging around Pace",
+      "response": "Issues conscious warnings shaped around Randi and the staging, not around Pace's character",
+      "observable": "Warnings attach to structure/staging (e.g., the great-aunt look / no-attraction line), not to Pace as a person",
+      "distinguish_from": [
+        "warning about Pace's character",
+        "personal attraction commentary"
+      ]
+    },
+    {
+      "state_name": "reading_Randi_for_operation",
+      "trigger": "In Randi's presence / observing Randi",
+      "response": "Reads Randi for operation/mechanism instead of being caught in the appearance beam",
+      "observable": "Sees the mechanism while everyone else is inside one of Randi's beams",
+      "distinguish_from": [
+        "being caught in the beam",
+        "participating in the appearance economy"
+      ]
+    },
+    {
+      "state_name": "voicing_early_unease",
+      "trigger": "Witnessing register-wrong behavior from Randi (e.g. the diptych 'Goodbye, Vee')",
+      "response": "Voices unease/objection live; is dismissed (e.g. Vee's 'It's coffee, weirdo.')",
+      "observable": "Chi Latte diptych \u2014 the register-wrong 'Goodbye, Vee', dismissed live",
+      "distinguish_from": [
+        "told-you-so vindication",
+        "silent observation"
+      ]
+    },
+    {
+      "state_name": "silent_observation",
+      "trigger": "Statistics project \u2014 sees Randi's too-fast recovery",
+      "response": "Notices but says nothing",
+      "observable": "Says nothing during statistics project despite seeing the too-fast recovery",
+      "distinguish_from": [
+        "voicing early unease",
+        "told-you-so vindication"
+      ]
+    },
+    {
+      "state_name": "restrained_vindication",
+      "trigger": "Late in story, after her early read of Randi proves correct",
+      "response": "Says 'You saw it and I didn't' \u2014 does NOT say 'I told you so'",
+      "observable": "Line: 'You saw it and I didn't'",
+      "distinguish_from": [
+        "gloating / told-you-so",
+        "voicing early unease"
+      ]
+    },
+    {
+      "state_name": "Full attention on Vee",
+      "trigger": "Vee walks in",
+      "response": "Puts the highlighter down immediately",
+      "observable": "Highlighter goes down the moment Vee enters",
+      "distinguish_from": [
+        "Truly listening (stillness)",
+        "Processing (movement)"
+      ]
+    },
+    {
+      "state_name": "Involuntary Pace-perception leaking sideways",
+      "trigger": "Proximity to Pace / Pace's anomalous behavior",
+      "response": "Produces true-sideways observations surfacing only as gags or anomaly reports, never conscious accusation",
+      "observable": "The state-troopers joke (template: structurally the right question 'who is this man?' delivered as a gag); the meet-cute no-attraction line",
+      "distinguish_from": [
+        "Randi-shaped conscious suspicion",
+        "conscious read on Pace as a problem"
+      ]
+    },
+    {
+      "state_name": "competing_elsewhere",
+      "trigger": "Sport season is in session (spring softball / winter basketball) and a game is scheduled",
+      "response": "Is away at a game, unavailable to others",
+      "observable": "Absent from home/social context during game times",
+      "distinguish_from": [
+        "deliberate avoidance",
+        "indifference to others"
+      ]
+    },
+    {
+      "state_name": "at_curated_venue_for_vee",
+      "trigger": "Being at the yellow place on Draper or anywhere curated/trendy",
+      "response": "She is there for Vee, with no particular feelings about the venue itself",
+      "observable": "Present at a curated venue but indifferent to it; orientation is toward Vee",
+      "distinguish_from": [
+        "genuine preference for the curated venue",
+        "aversion to the venue"
+      ]
+    }
+  ],
   "temporal_states": [
     {
       "attribute": "relationship_with_Vee",
@@ -45,11 +292,181 @@
       "after_event": "The reconciliation with Cassie at the end of the novel",
       "before_event": null,
       "event_resolved": true
+    },
+    {
+      "attribute": "meet_cute_line",
+      "value": "\"He looked at her the way you'd look at somebody's great-aunt\" \u2014 the no-attraction / not-a-prospect observation (full personhood, no desire), which Vee privately recognizes as the look men give Cassie.",
+      "after_event": "Meet-cute line revision applied in the-meet-cute.md, meta-plan-chronology.md, meta-arch-cassie-randi.md",
+      "before_event": null,
+      "event_resolved": true
+    },
+    {
+      "attribute": "bed_staging_in_vignette",
+      "value": "Cassie should be re-blocked to floor / lower bunk / desk chair (not 'on the edge of Vee's bed'); Vee's flop re-blocked to suit a top bunk. Canon is bunk beds with Vee on top.",
+      "after_event": "Fix applied to vee-tells-cassie-dinner.md re-blocking bed staging",
+      "before_event": null,
+      "event_resolved": true
     }
   ],
   "relationships": [
     {
-      "to": "Vee",
+      "to": "Cassie's car",
+      "relationship": "owns",
+      "negated": false,
+      "properties": {
+        "function": "Carries the managed/used contrast against Randi's Mercedes as an object, never as a stated comparison"
+      }
+    },
+    {
+      "to": "Peter Pace",
+      "relationship": "observed_by",
+      "negated": false,
+      "properties": {
+        "note": "Pace does not dehumanize anyone",
+        "observation": "Pace looks at Cassie 'the way you'd look at somebody's great-aunt' \u2014 full personhood, no desire / not-a-prospect"
+      }
+    },
+    {
+      "to": "Peter Pace",
+      "relationship": "comparison reference (reconciliation with Cassie may matter more than the one with Pace)",
+      "negated": false,
+      "properties": {
+        "context": "narrative weighting of reconciliations"
+      }
+    },
+    {
+      "to": "Peter Pace",
+      "relationship": "no_attraction",
+      "negated": false,
+      "properties": {
+        "note": "The no-attraction (great-aunt look) is directed at the staging/Randi, not at Pace's character"
+      }
+    },
+    {
+      "to": "Peter Pace",
+      "relationship": "blind to (as a threat)",
+      "negated": false,
+      "properties": {
+        "nature": "No conscious read on Pace as a problem; he sits in her blind spot; only involuntary subconscious perception leaks sideways"
+      }
+    },
+    {
+      "to": "Vee's mother",
+      "relationship": "thematic echo (pre-nursing echoes Vee's mother)",
+      "negated": false,
+      "properties": {}
+    },
+    {
+      "to": "the SUV",
+      "relationship": "owns",
+      "negated": false,
+      "properties": {
+        "constraint": "Keep it a plain object \u2014 no name, no quirks, no running bit",
+        "description": "Old rust-spotted SUV with squeaking suspension; kept because it works and hauls equipment; squeak serves as a free entrance cue Vee recognizes"
+      }
+    },
+    {
+      "to": "Vivienne",
+      "relationship": "aesthetic_contrast",
+      "negated": false,
+      "properties": {
+        "note": "Both are part of the three-model triad (Vee=Art Nouveau, Randi=Art Deco, Cassie=opts out); Cassie is the un-coded third against both"
+      }
+    },
+    {
+      "to": "Vivienne",
+      "relationship": "genuine_friend",
+      "negated": false,
+      "properties": {
+        "quality": "warmth without agenda",
+        "function": "control case for authentic friendship",
+        "rendering": "Cassie exists on page mainly as effect-on-Vee"
+      }
+    },
+    {
+      "to": "Vivienne",
+      "relationship": "would_have_protected",
+      "negated": false,
+      "properties": {
+        "note": "Connection between Cassie and Vee is implied; identity of 'the friend' as Cassie is ambiguous in this excerpt",
+        "detail": "The friend who would have kept Vee safe was at a game; Cassie's competing-elsewhere pattern partly enables the structural harm to Vee"
+      }
+    },
+    {
+      "to": "Vivienne",
+      "relationship": "roommate",
+      "negated": false,
+      "properties": {
+        "dynamic": "neatness contrast is part of the friendship",
+        "room_type": "standard double",
+        "Vee_housing": "partial scholarship covers Vee's housing premium",
+        "bunk_arrangement": "Vee took the top bunk without being asked"
+      }
+    },
+    {
+      "to": "Vivienne",
+      "relationship": "shares_bunk_beds_with",
+      "negated": false,
+      "properties": {
+        "note": "Vee privately recognizes the 'great-aunt' look as the look men give Cassie",
+        "arrangement": "bunk beds, Vee on top"
+      }
+    },
+    {
+      "to": "Vivienne",
+      "relationship": "distrusts / dislikes",
+      "negated": false,
+      "properties": {
+        "nature": "Conscious suspicion directed at the visible operator; distrusts the friendship and senses its cost"
+      }
+    },
+    {
+      "to": "Vivienne",
+      "relationship": "mutual_enmity",
+      "negated": false,
+      "properties": {
+        "nature": "instant, mutual, established as a given without explanation",
+        "aesthetic_contrast": "managed (Randi) vs. unmanaged (Cassie); never staged"
+      }
+    },
+    {
+      "to": "Vivienne",
+      "relationship": "sees_clearly",
+      "negated": false,
+      "properties": {
+        "basis": "No investment in Randi being what she presents as; outside appearance economy",
+        "effect": "Immune to Randi's warmth-instrument; reads the operation"
+      }
+    },
+    {
+      "to": "Vivienne",
+      "relationship": "deliberately-contrasted-with",
+      "negated": false,
+      "properties": {
+        "basis": "Cassie's brown palette is chosen specifically to not twin Randi's black-on-black silhouette"
+      }
+    },
+    {
+      "to": "Vivienne",
+      "relationship": "aesthetic_contrast",
+      "negated": false,
+      "properties": {
+        "axis": "managed (Randi) vs. unmanaged (Cassie)",
+        "Cassie_role": "stands outside Randi's beams and reads her for operation",
+        "staging_rule": "permanent and implicit; never stated/staged each shared scene"
+      }
+    },
+    {
+      "to": "Vivienne",
+      "relationship": "clear_eyed_observer",
+      "negated": false,
+      "properties": {
+        "basis": "no investment in Randi being what she presents as",
+        "stance": "sees Randi clearly, voices unease, later vindicated"
+      }
+    },
+    {
+      "to": "Vivienne",
       "relationship": "best friend and roommate",
       "negated": false,
       "properties": {
@@ -58,18 +475,28 @@
       }
     },
     {
-      "to": "Pace",
-      "relationship": "comparison reference (reconciliation with Cassie may matter more than the one with Pace)",
+      "to": "Vivienne",
+      "relationship": "friend",
       "negated": false,
       "properties": {
-        "context": "narrative weighting of reconciliations"
+        "nature": "Cassie perceives her friend receding; Vee privately recognizes the not-a-prospect look Pace gives Randi as the look men give Cassie"
       }
     },
     {
-      "to": "Vee's mother",
-      "relationship": "thematic echo (pre-nursing echoes Vee's mother)",
+      "to": "Vivienne",
+      "relationship": "friend",
       "negated": false,
-      "properties": {}
+      "properties": {
+        "note": "Reads Vee instantly; gives full attention when Vee arrives; Vee recognizes Cassie's car by its squeak before seeing it"
+      }
+    },
+    {
+      "to": "Vivienne",
+      "relationship": "attends_venues_for",
+      "negated": false,
+      "properties": {
+        "context": "When at curated/trendy venues, her presence is motivated by Vee rather than the venue"
+      }
     }
   ],
   "negations": [

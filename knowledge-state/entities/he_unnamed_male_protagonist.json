@@ -131,20 +131,20 @@
       }
     },
     {
-      "to": "Vee",
-      "relationship": "object of his attentive care; her body notices his physical favoring before she understands why",
-      "negated": false,
-      "properties": {
-        "dynamic": "body before mind",
-        "may_learn": "the origin of his cycling, which would recolor her view"
-      }
-    },
-    {
       "to": "Sheri",
       "relationship": "cycles side-by-side with / companion in 'riding for peace'",
       "negated": false,
       "properties": {
         "note": "the side-by-side format 'costs him nothing'"
+      }
+    },
+    {
+      "to": "Vivienne",
+      "relationship": "object of his attentive care; her body notices his physical favoring before she understands why",
+      "negated": false,
+      "properties": {
+        "dynamic": "body before mind",
+        "may_learn": "the origin of his cycling, which would recolor her view"
       }
     }
   ],

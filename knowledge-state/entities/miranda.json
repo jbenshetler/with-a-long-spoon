@@ -111,7 +111,7 @@
       }
     },
     {
-      "to": "Pace",
+      "to": "Peter Pace",
       "relationship": "romantic_partner",
       "negated": false,
       "properties": {
@@ -121,7 +121,7 @@
       }
     },
     {
-      "to": "Vee",
+      "to": "Vivienne",
       "relationship": "attracted_to",
       "negated": false,
       "properties": {

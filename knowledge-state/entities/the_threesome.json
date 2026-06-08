@@ -1,5 +1,5 @@
 {
-  "name": "The first love",
+  "name": "the threesome",
   "aliases": [],
   "entity_type": "placeholder",
   "facts": [],
@@ -8,6 +8,6 @@
   "relationships": [],
   "negations": [],
   "extraction_confidence": null,
-  "source_document": "meta/meta-arch-bible.md",
-  "source_version": "294303b9c4a146c688af237b8c1a08b1950bba5e6e2a4eb7aadd5fff63e44f87"
+  "source_document": "meta/meta-arch-vivienne.md",
+  "source_version": "3ffe06f3d223b46b0c08e93e03ade37ddbd638deeba581c9e8caf0e5e6db1812"
 }
