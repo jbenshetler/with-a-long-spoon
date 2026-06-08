@@ -1,4 +1,8 @@
 instructions
-.claude
+.claude/settings*
+.claude/mcp*.json
 .opencode.json
+novel-assistant/.env
+novel-assistant/data/
+data/
 
