@@ -311,6 +311,96 @@
   },
   {
     "character_name": "Vivienne",
+    "fact": "Peter Pace called her the same night she gave him her number",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Narrated as fact from Vee's POV",
+    "scene_file": "scenes/the-froyo-walk.md",
+    "chapter_number": 6
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "Pace has a deliberate system for building frozen yogurt cups \u2014 tart base on the bottom to support heavier toppings",
+    "source_character": "Peter Pace",
+    "source_reliable": true,
+    "actual_truth": false,
+    "notes": "Presented as Pace's personal philosophy/preference; actual optimality is opinion not fact",
+    "scene_file": "scenes/the-froyo-walk.md",
+    "chapter_number": 6
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "Pace has thought carefully and deliberately about most things",
+    "source_character": "Peter Pace",
+    "source_reliable": true,
+    "actual_truth": false,
+    "notes": "Pace states this himself; Vee registers and believes it. Whether fully true is LOW confidence",
+    "scene_file": "scenes/the-froyo-walk.md",
+    "chapter_number": 6
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "Pace paid for both of their frozen yogurts before she could find her wallet",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Directly observed by Vee",
+    "scene_file": "scenes/the-froyo-walk.md",
+    "chapter_number": 6
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "Pace listens to her fully \u2014 waits through her entire answer before responding \u2014 in a way she is unaccustomed to",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Directly experienced and explicitly reflected on by Vee",
+    "scene_file": "scenes/the-froyo-walk.md",
+    "chapter_number": 6
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "She has not been treated this kindly by someone in a long time",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": false,
+    "notes": "Vee's own stated belief about her experience; author presents it sincerely. Actual truth relative to her history is unverifiable from this scene alone.",
+    "scene_file": "scenes/the-froyo-walk.md",
+    "chapter_number": 6
+  },
+  {
+    "character_name": "Vivienne",
+    "fact": "Pace does not dismiss or minimize her vulnerable admission, but also does not make it overwrought \u2014 he simply acknowledges it quietly",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Directly observed behavior; Vee registers this implicitly through the narration",
+    "scene_file": "scenes/the-froyo-walk.md",
+    "chapter_number": 6
+  },
+  {
+    "character_name": "Peter Pace",
+    "fact": "Vee considers this outing the nicest she has been treated in a long time",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": false,
+    "notes": "Vee says this directly to him; he hears it. Whether it reflects objective truth about her history is LOW confidence.",
+    "scene_file": "scenes/the-froyo-walk.md",
+    "chapter_number": 6
+  },
+  {
+    "character_name": "Peter Pace",
+    "fact": "Vee is self-conscious about the admission she made and would prefer it be passed over",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "She explicitly says 'pretend I didn't' and the narration notes she winced",
+    "scene_file": "scenes/the-froyo-walk.md",
+    "chapter_number": 6
+  },
+  {
+    "character_name": "Vivienne",
     "fact": "Randi's Mercedes convertible is dark green, long and low, and the window drops automatically when you reach for the door handle, then re-seals when the door shuts.",
     "source_character": null,
     "source_reliable": true,
