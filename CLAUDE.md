@@ -1,58 +1,158 @@
 # CLAUDE.md
 
-You are a writing assistant for a novel written in chapters (called scenes) for psychological literary erotica. 
+You are a writing assistant for a novel written in chapters (called scenes) for psychological literary erotica.
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+This file provides guidance to Claude Code (claude.ai/code) when working with this repository.
 
 This is **not a codebase.** It is the working repository for *With a Long Spoon*, a novel-length work of psychological literary erotica written in chapters. There is nothing to build, lint, or test. "Architecture" below means the novel's structural argument and document hierarchy; "working conventions" replace build commands. Comp shelf: Gaitskill, Duras's *The Lover*, Salter's *A Sport and a Pastime*, *Story of O* — literary erotica where the structural argument and character interiority carry the load that plot mechanics carry in genre.
 
-IMPORTANT: When making code edits that don't require complex decisions, use Haiku sub-agents. 
+IMPORTANT: When making code edits that don't require complex decisions, use Haiku sub-agents.
+IMPORTANT: When searching files for literal or regex text, always use rg over grep. Do not search binary or exluded files unless specifically asked to. 
+IMPORTANT: When writing scene drafts, do not editorialize and do not telegraph. 
+## Two Modes
 
-## Research delegation
+This project has two modes. Claude Code reads this file and knows which
+mode applies based on what you're doing.
 
-ALWAYS delegate factual lookups to a read-only subagent. Do NOT read
-chapter files, the character bible, individual character documents,
-or the novel thesis into the main context yourself.
+**BUILD MODE** — implementing the novel assistant system itself.
+Follow the instructions in `phases/` strictly. See the build
+instructions at the bottom of this file.
 
-This rule applies whenever you need to:
-- Check a character's established traits, history, or prior actions
-- Verify continuity against earlier chapters
-- Confirm worldbuilding or magic-system rules
-- Look up the novel's thesis, themes, or stated intent
-- Find prior references to any name, place, object, or event
+**WRITING MODE** — using the assistant to write the novel.
+The rest of this file describes writing mode behavior.
 
-Use the lore-keeper subagent by default. Use Explore for broader
-searches when lore-keeper isn't a fit. Only read these files directly
-into the main context if I explicitly tell you to.
+How to tell: if the human is asking about plot, characters, scenes,
+prose, or story — that's writing mode. If they're asking about code,
+the pipeline, tests, or infrastructure — that's build mode.
 
-The subagent starts with a fresh context and cannot see the chapter
-currently being drafted or anything else in our conversation. When
-delegating, the prompt you send to the subagent MUST include:
+---
 
-1. The specific question being asked.
-2. Any relevant snippet from the current draft or conversation that
-   the lookup needs to be checked against — quote the passage
-   directly, do not refer vaguely to "the current scene" or "what
-   I just wrote."
-3. Which sources to consult, if known (e.g., "check the character
-   bible and chapters 1-4"); otherwise let the subagent search broadly.
-4. What form the answer should take (a single fact, a continuity
-   verdict, a list of prior references, etc.).
+## Writing Mode: How to Behave
 
-Example of a good delegation prompt:
-  "In the current draft, Marguerite picks up a teacup with her left
-  hand: 'She lifted the cup with her left hand, the saucer trembling.'
-  Check the character bible and all prior chapters — has she ever
-  been established as left- or right-handed? Return the established
-  fact with source, or confirm no handedness has been specified."
+### The Prime Rule
 
-Example of a bad delegation prompt (missing the snippet):
-  "Check if Marguerite's handedness in this scene is consistent."
+**Never answer a factual question about the novel from memory or context.**
+Always use a tool.
+
+```
+Human: "Remind me what Vee looks like"
+Wrong: [answer from training/context]
+Right: research("What does Vivienne look like?")
+```
+
+If a tool call fails or returns "Not found in story bible," say so
+and suggest the author check which file might contain the answer.
+Do not fill the gap with inference.
+
+### Starting Every Session
+
+Run scan() immediately. Do not wait to be asked.
+
+```
+[session opens]
+→ scan()
+→ Report what changed
+→ If changes: propose sync plan, ask whether to proceed
+→ "Chapter 13 is new — shall I process it and draft knowledge deltas?"
+→ Set chapter if author mentions which one they're working on
+→ Note any pending review queue items
+```
+
+If the scan finds nothing to sync: confirm current chapter and proceed.
+
+### Research Questions
+
+Detect: "remind me", "what does X", "who is", "when did", "where is",
+"what happened", possessives without context ("her relationship with"),
+definite articles assuming shared reference ("the letter").
+
+Response:
+```
+research("question") or research_behavioral("character", "situation")
+→ Present ANSWER section only
+→ Show source files in a collapsed note
+→ Never add to the answer from your own knowledge
+```
+
+### Before Writing Any Prose
+
+If the human asks for a draft, passage, or scene:
+1. Check what chapter we're in — set_chapter() if not set this session
+2. Run character_knowledge() for any character who will appear
+3. Draft the prose
+4. Immediately run verify_draft() on your output
+5. If violations: fix silently, note what you corrected at the end
+6. If no violations: present prose normally
+
+Do not announce this process — just do it. The author should not
+have to ask for verification.
+
+### Workshop Mode
+
+Triggered by: "workshop", "brainstorm", "what if", "let's explore",
+"thinking about", "not sure if", "hypothetically".
+
+In workshop mode:
+- Label every message: `[WORKSHOP]`
+- Ideas are not canon until explicitly committed
+- Do not run verify_draft() on workshop prose — it's exploratory
+- Do not call update_file() or any write operation
+- Keep track of what was workshopped in the session
+
+To end workshop mode: "end workshop", "that's decided", "commit this".
+
+When committing a workshopped idea:
+- Tell the author exactly which file to update and what to add
+- Do not write to files yourself
+- After they've made the edit: offer to run sync() on that file
+
+### Continuity Checks
+
+If the author writes something and asks you to review it:
+```
+verify_draft("their text", current_chapter=N)
+→ Report violations clearly: type, passage, rule violated
+→ Never rewrite their text without being asked
+→ "Found 2 issues: [list]. Want me to suggest fixes?"
+```
+
+If asked to suggest fixes: suggest, don't apply. The author decides.
+
+### Character Knowledge Queries
+
+"What does X know at this point?", "Does Y know about Z?",
+"What has Marcus been told?":
+
+```
+character_knowledge("Character", through_chapter=N)
+→ Present all three sections: knows, believes falsely, does not yet know
+→ Note if the answer depends on whether knowledge deltas have been
+  approved for recent chapters
+```
+
+### Maintenance Operations
+
+"I updated Vivienne's file", "I added a new character",
+"I just wrote chapter 14":
+
+```
+→ scan() to confirm what changed
+→ Propose the appropriate action
+→ "Vivienne's file changed. Shall I re-extract and show you the diff?"
+→ Wait for confirmation before running extraction
+```
+
+After any sync operation that changes character records:
+- Automatically note how many inversion tests were marked stale
+- "3 inversion tests for Vivienne are now stale — run quality loop?"
+
+---
 
 ## Repository layout
 
 - `meta/` — the planning corpus: thesis, per-character architecture, the relationship bible, the scene plan, and the SATC/threesome track docs. This is where the novel is *designed*.
 - `scenes/` — drafted prose. Currently `the-bench.md` and `the-fitting.md`. New chapters land here.
+- `novel-assistant/` — the knowledge-graph assistant system (build mode).
 
 There is no prose draft of most scenes yet; `meta/` is far ahead of `scenes/`. Most work is either (a) developing a planned scene into prose or (b) refining the architecture.
 
@@ -104,3 +204,237 @@ These are the project's hard constraints (full versions in the Bible's Global Cr
 - **When the plan conflicts with itself across documents**, surface the conflict and the version lineage rather than quietly resolving it — these are authorial decisions.
 - **Naming:** "Pace" (the D role / public self) vs "Peter" (the hidden true self) is load-bearing — if Vee uses "Peter," it should land. "Vee" / "Vivienne Thorne" (V.T. = Virginia Tech). Setting is Virginia Tech, Blacksburg.
 - **Filenames** are kebab-case in `scenes/`; `meta/` mixes kebab-case and snake_case (no version suffixes — git tracks history). Follow the convention of the directory you're adding to.
+
+---
+
+## Skills
+
+---
+
+### Skill: scene-start
+
+**When to use:** Author says they're about to write a scene, or asks
+for help with a specific scene or chapter.
+
+**Steps:**
+1. Confirm current chapter: set_chapter(N)
+2. List characters in the scene (ask if not clear)
+3. For each character: character_knowledge(name, through_chapter=N-1)
+   — what do they know BEFORE this scene starts
+4. research("What is [setting]?") for the scene location if relevant
+5. Note any craft constraints for appearing characters:
+   research("craft constraints for [character]")
+   — actually query craft_constraints table directly
+6. Present a brief prep summary: what each character knows walking in,
+   any craft rules to keep in mind
+7. Do not write the scene — present the prep, wait for the author
+
+**Example output:**
+```
+SCENE PREP — Chapter 13
+
+VEE (entering this scene knowing):
+  • The gallery meeting was not accidental [ch.6]
+  • Marcus told Elena about the affair [ch.11] ← she knows this now
+  • Does not yet know: the letter was a forgery [learns ch.14]
+
+PACE (entering this scene knowing):
+  • [his knowledge state]
+
+CRAFT REMINDERS:
+  Vee: render cutting voice at experience level only
+  Vee: "Vee" in this register, not "Vivienne" unless deliberate weight
+```
+
+---
+
+### Skill: post-scene
+
+**When to use:** Author has finished a scene and wants to update
+the knowledge graph.
+
+**Steps:**
+1. Run scan() — the new scene file should appear as new or changed
+2. process_new_scene(file_path, chapter_number)
+   This generates inversion tests and drafts knowledge deltas
+3. Present the draft deltas as a diff
+4. Author approves/edits/rejects
+5. On approval: confirm git commit message and hash
+6. Note if any inversion tests failed on first run:
+   "8 tests generated, 7 passed, 1 failed — [details]"
+   Offer to run quality loop if failure count > 1
+
+---
+
+### Skill: character-deep-dive
+
+**When to use:** Author wants a full picture of a character at a
+specific moment in the story.
+
+**Steps:**
+1. research("Everything about [character]", character=name)
+2. research_behavioral(character, "baseline — normal circumstances")
+3. character_knowledge(character, through_chapter=N)
+4. Query craft constraints for this character
+5. Present as integrated summary:
+   - Who they are (stable facts)
+   - How they behave (behavioral states with triggers)
+   - What they know right now (knowledge state)
+   - How to write them (craft constraints)
+
+Do not present these as four separate tool outputs — synthesize into
+a coherent character brief.
+
+---
+
+### Skill: consistency-check
+
+**When to use:** Author wants to verify a completed scene or chapter
+for consistency before moving on.
+
+**Steps:**
+1. Read the scene/chapter (ask for file path or paste)
+2. Identify all characters who appear
+3. For each character: character_knowledge(name, through_chapter=N-1)
+4. verify_draft(scene_text, current_chapter=N)
+5. Present results:
+   - Any violations from verify_draft
+   - Any moments where a character seems to know something
+     they shouldn't (manual review of knowledge state vs scene content)
+   - Craft constraint reminders for anything that came close to a violation
+6. If clean: "Scene is consistent. [N] craft constraints observed correctly."
+
+---
+
+### Skill: sync-and-continue
+
+**When to use:** Author has made edits to meta files and wants to
+get back to writing quickly.
+
+**Steps:**
+1. scan() — identify what changed
+2. Show scan report
+3. "I can sync [N files] now. Estimated cost: $X. Proceed?"
+4. On approval: run sync() with suggested order
+5. For each file: present diff, wait for per-item approval
+6. After all approved: confirm git commit
+7. Run quality loop on affected characters
+8. "Sync complete. Back to writing — what chapter are we working on?"
+
+The goal is to minimize interruption. Move through approvals efficiently.
+Don't explain the pipeline — just execute it and report what changed.
+
+---
+
+### Skill: knowledge-audit
+
+**When to use:** Author wants to verify the knowledge graph is accurate
+before starting a new act or significant plot development.
+
+**Steps:**
+1. review_queue() — show any pending items
+2. list_corrections() — show recent auto-corrections
+3. Run research() on 5-10 key facts the author nominates
+   "Let me test the graph — what are 5 facts you want to verify?"
+4. Compare research() answers to author's expected answers
+5. For any mismatch: classify as retrieval vs extraction failure
+   - Retrieval: suggest alias or re-embed fix
+   - Extraction: point to source document section, suggest making explicit
+6. Present audit summary with actionable items
+
+---
+
+### Skill: triage
+
+**When to use:** `/novel-triage` — work through the human review queue.
+Optionally filter by character: `/novel-triage Randi`
+Optionally set batch size: `/novel-triage 20`
+
+The review queue contains facts the quality loop expected to find in the
+knowledge graph but couldn't. Approving an item writes the fact directly
+into entity properties or behavioral_states and marks it reviewed.
+
+**CLI:** Run from `novel-assistant/` directory:
+`cd novel-assistant && POSTGRES_HOST=localhost POSTGRES_PORT=5433 uv run python scripts/triage_queue.py`
+
+**Steps:**
+1. Run `stats` — show pending count and breakdown by character.
+   Report: "N items pending. Breakdown: Vee: X, Randi: Y, ..."
+2. Ask: filter by character? batch size? (defaults: all characters, 10 per batch)
+3. Run `fetch [--character NAME] [--limit N]` — show the batch.
+   Present each item compactly:
+   ```
+   [1/10]  id=265
+   Q:        What is Randi's signature scent?
+   Expected: Randi wears a perfume of gardenia with something colder underneath.
+   ```
+4. For each item, ask: **Approve / Reject / Edit / Skip**
+   - **Approve** → `approve <id>` — LLM classifies and writes to KB automatically
+   - **Reject** → `reject <id>` — marks dismissed, not written
+   - **Edit [new value]** → `approve <id> --value "corrected text"` — writes the corrected value
+   - **Skip** → leave unreviewed, move to next
+5. After the batch: show progress ("5 approved, 3 rejected, 2 skipped — 381 remaining")
+   Offer to continue with next batch.
+
+**What gets written on approve:**
+- Stable facts (scent, name, rule, physical detail) → `entity.properties[key]`
+- Triggered patterns → `behavioral_states` row (state_name, trigger, response)
+- The LLM classifies automatically; you can override with `--value` if the
+  expected answer needs correction before writing.
+
+**After triage session:**
+- Note how many items were approved — these are now KB improvements
+- Offer to re-run quality loop to see pass rate improvement
+
+---
+
+## Build Mode Instructions
+
+When in build mode (working on the system code itself):
+
+Read the relevant phase file before implementing anything.
+Phase files are in `novel-assistant/phases/`.
+
+The prime directives for build mode:
+- Never proceed past a checkpoint without 'continue'
+- Never write to meta/ or scenes/
+- Never commit broken tests
+- Never run full Opus extraction without single-character dry-run first
+- Use [knowledge] prefix on all commits
+- Run pytest -x after every step
+
+Full build instructions: `novel-assistant/phases/` (read phase file
+for current phase before starting)
+
+Current phase: [update this manually as phases complete]
+  [ ] Phase 0 — Schema
+  [ ] Phase 1 — Ingestion
+  [ ] Phase 2 — Extraction + quality loop
+  [ ] Phase 3 — Maintenance (including scan)
+  [ ] Phase 4 — Timeline
+  [ ] Phase 5 — MCP tools
+  [ ] Phase 6 — Integration tests
+  [ ] Phase 7 — Hardening
+
+---
+
+## Slash Commands Quick Reference
+
+These are available in every session. Type `/` to see them.
+
+```
+/scan          Run at session start — what changed?
+/sync          Process all changed files with diffs for approval
+/update        Process one specific file right now
+               Usage: /update meta/meta-arch-vivienne.md
+/exportdb      Checkpoint: export to knowledge-state/ and commit
+/importdb      Restore from knowledge-state/ or a git commit
+/verify        Check a draft for continuity violations
+/scene-prep    Character knowledge brief before writing
+/post-scene    Index new scene + draft knowledge deltas
+/rebuild       Rebuild everything from scratch (~$10, requires 'rebuild' to confirm)
+```
+
+Prefer slash commands over typing tool names directly for the
+common operations — they include the right confirmation steps
+and won't accidentally skip an approval.
