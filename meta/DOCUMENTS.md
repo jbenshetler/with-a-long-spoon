@@ -188,6 +188,9 @@ Listed in chronological order. Status: **complete** / **partial** / **beats only
 | `the-fitting.md` | The Fitting | complete |
 | `vee-tells-cassie-fitting.md` | Vee Tells Cassie About the Fitting | complete |
 | `brunch-fitting-randi.md` | SATC Brunch — Fitting Debrief | partial (opening movement; see revision flag in condensed file) |
+| `hiking-rainstorm.md` | The Hiking Rainstorm | complete |
+| `cassie-before.md` | Cassie — Before | complete |
+| `first-night.md` | First Night Together | complete |
 | `porch-scene.md` | The Porch Scene — Cracker-and-Meal | complete |
 | `ignition-scalding.md` | Scalding Jealousy Ignition | draft in progress (holding bay — placement TBD) |
 | `threesome-reveal.md` | The Threesome and Reveal / The Ending Sequence | planning doc |
