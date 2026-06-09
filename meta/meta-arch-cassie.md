@@ -4,6 +4,9 @@
 
 ---
 
+## Aliases 
+AKA Cassandra
+
 ## Who She Is
 
 Vee's best friend and roommate, two years running. Pre-nursing (echoes Vee's mother). Unaffiliated — never in a sorority, never inside that social world (same as Vee; see the world-sort note below).

@@ -1,0 +1,1 @@
+- [Pace's Courtly Deference](pace_courtly_deference.md) — Domain-limited courtesy in non-romantic/non-sexual matters, frictionless and genuine, needs encoding in pace_architecture.md
