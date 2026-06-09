@@ -361,14 +361,6 @@
       }
     },
     {
-      "to": "church friends",
-      "relationship": "former_community",
-      "negated": false,
-      "properties": {
-        "status": "disowned her after she came out"
-      }
-    },
-    {
       "to": "Cassie",
       "relationship": "narrative_foil",
       "negated": false,

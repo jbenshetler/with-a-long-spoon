@@ -1,7 +1,10 @@
 {
   "name": "Cassie",
   "aliases": [
-    "Cassandra"
+    "Cassandra",
+    "Cassie's mother's profession",
+    "Cassie's mother's profession",
+    "academic background"
   ],
   "entity_type": "character",
   "facts": [
@@ -135,6 +138,10 @@
     {
       "attribute": "rendering_constraint",
       "value": "Rendered almost entirely as effect-on-Vee and she-was-right; no standalone interiority"
+    },
+    {
+      "attribute": "source_of_clear_sight",
+      "value": "Cassie's plainness places her outside both the appearance economy and the sexual economy, so she has no stake in Randi's allure. With no skin in the game, she reads Randi for operation and intent rather than being caught in Randi's beam like others are."
     },
     {
       "attribute": "stake_in_sexual_economy",

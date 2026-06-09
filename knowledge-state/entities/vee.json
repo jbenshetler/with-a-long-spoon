@@ -1,7 +1,12 @@
 {
   "name": "Vee",
   "aliases": [
-    "Vivienne"
+    "Vivienne",
+    "Vee's scent signature",
+    "Vee's car",
+    "Vee and Cassie's dorm room",
+    "Vee's physical appearance",
+    "kissing standard"
   ],
   "entity_type": "character",
   "facts": [
@@ -416,6 +421,13 @@
       ]
     },
     {
+      "state_name": "passive_upward_longing_toward_Randi",
+      "trigger": "Vee encounters or perceives Randi",
+      "response": "Vee suspends her normal social calculus and comparative self-appraisal; instead of measuring herself against Randi, she experiences a passive, helpless upward longing with no competitive framing",
+      "observable": "Vee does not engage in the sizing-up or self-assessment behavior she displays with other women; her affect shifts to a kind of awed, helpless admiration when Randi is present",
+      "distinguish_from": []
+    },
+    {
       "state_name": "resentment-at-being-seen",
       "trigger": "Being seen / having her interior breached by another (Pace)",
       "response": "Feels exposed; exposure curdles into resentment rather than gratitude",
@@ -456,17 +468,6 @@
         "Open hostility toward Cassie",
         "Speaking against Cassie",
         "Barring Cassie outright"
-      ]
-    },
-    {
-      "state_name": "the cup (containment of overflow)",
-      "trigger": "Being in a venue where the need is running and she has no operational lever to discharge it through (engineered meet-cute, SATC lunches with Vee's reports, scenes with Pace discussing the project, engineered proximity scenes)",
-      "response": "Her hands find a cup, glass, stem, edge, or object to hold; grip firmer than needed; lifts the cup but does not drink, sets it down, lifts again \u2014 frequency of lift decoupled from act of drinking",
-      "observable": "Repeated lifting/setting-down of a cup without drinking; an unusually firm grip; the cup serves as continuity-marker for Randi's body across the year",
-      "distinguish_from": [
-        "the lock-the-door gesture (control of perimeter / active assertion / operates on outside-of-her)",
-        "actually drinking",
-        "the kiss at the threesome (where hands are not occupied)"
       ]
     },
     {
@@ -1086,6 +1087,13 @@
       ]
     },
     {
+      "state_name": "post_kiss_instinctive_touch",
+      "trigger": "Randi kisses her goodbye",
+      "response": "Puts two fingers to her mouth without consciously deciding to",
+      "observable": "Fingers raised to lips immediately after the kiss",
+      "distinguish_from": []
+    },
+    {
       "state_name": "playful_metaphor_volley",
       "trigger": "He offers an intimate/poetic metaphor (e.g., whiskey vs. white wine)",
       "response": "She plays his metaphor back at him with a quip ('A shot?')",
@@ -1095,9 +1103,30 @@
         "avoidance",
         "dismissal"
       ]
+    },
+    {
+      "state_name": "exit_without_confrontation",
+      "trigger": "Discovery that both Pace and Randi are implicated in a betrayal, making their testimony untrustworthy",
+      "response": "Leaves the situation silently without confronting either Pace or Randi, reasoning that Pace would offer a sincere but unhelpful defense and Randi would deflect or weaponize any confrontation",
+      "observable": "Vee departs without explanation or goodbye, offering no scene of direct accusation or argument",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "outsider_anxiety_around_Randi",
+      "trigger": "Being in Randi's social or financial world, where Randi holds authority over Vee across social, financial, and experiential dimensions",
+      "response": "Vee covets proximity to Randi's world while anxiously self-monitoring for any sign that she might be exposed as an outsider within it",
+      "observable": "Self-conscious behavior, careful social performance, and deference toward Randi in shared scenes",
+      "distinguish_from": []
     }
   ],
   "temporal_states": [
+    {
+      "attribute": "relationship_duration_with_randi",
+      "value": "approximately one week",
+      "after_event": "Vee and Randi first meet",
+      "before_event": "Vee and Randi have known each other longer than a few weeks",
+      "event_resolved": false
+    },
     {
       "attribute": "the hate",
       "value": "Survives intact \u2014 it is the structural inadmissibility of her own experience distilled into a feeling that has nowhere to go",
