@@ -1,6 +1,376 @@
 [
   {
     "character_name": "Vee",
+    "fact": "The calculus problem she was stuck on contains a third rate, hidden in a sentence in the problem statement rather than labeled as a rate",
+    "source_character": "Pace",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee confirms this herself by successfully solving the problem once Pace points it out",
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Pace's name is Pace",
+    "source_character": "Pace",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": null,
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Pace asked for her phone number and said he would call her",
+    "source_character": "Pace",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": null,
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Pace chose a tutoring approach designed to let her solve the problem herself rather than solving it for her \u2014 he gave her the key insight and handed back the pencil at the exact line where she could finish it alone",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee arrives at this through her own observation and econ-trained analytical eye; she reads his pedagogical choices explicitly",
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Pace looked at Randi without apparent romantic interest, despite Randi being the most conventionally attractive person at the table",
+    "source_character": "Cassie",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee receives this from Cassie's observation and privately confirms it matches her own experience of how men's gazes typically distribute in rooms she and Cassie share; she then suppresses following the thought further",
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Randi was supportive and warm about the interaction with Pace, encouraging Vee to text him",
+    "source_character": "Randi",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee takes this at face value; the narrative suggests Randi's warmth may be a social performance masking other feelings, but Vee does not perceive this",
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Randi was watching the interaction with Pace and found it charming to watch Vee be oblivious to what was happening",
+    "source_character": "Randi",
+    "source_reliable": true,
+    "actual_truth": false,
+    "notes": "Randi says this explicitly; whether it reflects Randi's genuine inner state is uncertain given the narrative's hints about Randi's concealed reaction, but Vee believes it fully",
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Cassie has a pattern of saying 'mm' that carries consistent implied meaning",
+    "source_character": "Cassie",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Minor social knowledge; Vee calls it out directly and Cassie confirms",
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Randi introduced the Thorne-university name line as a practiced piece of social poise that Vee could borrow",
+    "source_character": "Randi",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee had observed Randi use a similar move in the lecture hall on Monday and consciously deployed it here; this is framed as Vee remembering something she already witnessed, not new learning \u2014 but she now has confirmation the move works for her too",
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Cassie",
+    "fact": "Pace looked at Randi without romantic interest, treating her the way one might look at a person one would never want",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Cassie observes this directly and reports it aloud; the narrative confirms the observation is accurate",
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Cassie",
+    "fact": "Randi's hand behavior during the interaction with Pace was notable enough to watch",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Cassie is shown noticing Randi's hand movement under the table and watching the coffee cup; the narrative does not confirm Cassie has fully interpreted what she saw, only that she registered it",
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Cassie",
+    "fact": "Pace's name is Pace",
+    "source_character": "Pace",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": null,
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Randi",
+    "fact": "Bessel's correction: dividing by n-minus-one instead of n in sample standard deviation accounts for a degree of freedom lost when estimating the mean from the data, preventing systematic underestimation of variance",
+    "source_character": "Pace",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Randi says she already knew this; the scene frames it as a reminder rather than new learning, but the information is explicitly delivered to her",
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Randi",
+    "fact": "Pace asked Vee for her phone number and intends to call her",
+    "source_character": "Pace",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Randi is present at the table when this occurs",
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Randi",
+    "fact": "Pace did not show romantic interest in Randi",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Randi experiences this directly; Cassie's observation confirms it is a legible fact in the room. Whether Randi has drawn the same conclusion Cassie draws is not stated, but the narrative strongly implies she is aware of it through her physical reactions",
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Pace",
+    "fact": "Vee's full name is Vivienne Thorne, she goes by Vee, she is studying economics, and her phone number",
+    "source_character": "Vee",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": null,
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Pace",
+    "fact": "Vee is interested in economics because of the gap between stated and actual human behavior, and is drawn to applied math as a tool for finding structure in real situations",
+    "source_character": "Vee",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": null,
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Pace",
+    "fact": "Randi's name is Randi and Cassie's name is Cassie",
+    "source_character": "Randi",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": null,
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Vee",
+    "fact": "The calculus problem she was stuck on contains a third rate hidden in a descriptive sentence, not labeled as a rate",
+    "source_character": "Pace",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Pace identifies the hidden rate and shows Vee, who then solves the problem herself",
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Pace's name is Pace",
+    "source_character": "Pace",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": null,
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Pace asked for her phone number and intends to call her",
+    "source_character": "Pace",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": null,
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Pace handled the tutoring in a way that preserved her ability to solve the problem herself rather than solving it for her",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee observes and reflects on this explicitly \u2014 she registers the tutor's path vs. the mathematician's path",
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Pace used the word 'may' when asking for her number, which struck her as unusual and appealing",
+    "source_character": "Pace",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee registers this as a word from another vocabulary, not performed affectation",
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Cassie observed that Pace looked at Randi the way one looks at someone they would never want romantically",
+    "source_character": "Cassie",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee consciously receives this observation but does not follow the implication; she deflects it socially",
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Pace's look at Randi was unbothered in the way a person looks at someone they will never want \u2014 Vee privately recognizes this as true",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee's internal monologue confirms she knows exactly what Cassie means and has seen the same dynamic before with men looking at herself vs. Cassie; she chooses not to follow the implication",
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Randi was not bothered by Pace's lack of interest in her and smoothly resealed the social moment",
+    "source_character": "Randi",
+    "source_reliable": false,
+    "actual_truth": false,
+    "notes": "Vee accepts Randi's performed ease at face value; the narration indicates Randi was not as unbothered as she appeared \u2014 the turned cup and placed hand suggest otherwise. Source_reliable marked false because Randi's performance is a social mask.",
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Randi turned her coffee cup a quarter turn before delivering her social rescue line",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "The narrator explicitly states Vee did not register this at the time and will not have it available to memory later. She does NOT learn this.",
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Randi attributes the impression of Pace's focus on Vee to Vee being charmed and not understanding what was happening",
+    "source_character": "Randi",
+    "source_reliable": false,
+    "actual_truth": false,
+    "notes": "Randi frames Vee's obliviousness as the explanation, deflecting from any acknowledgment of her own reaction. The narration suggests Randi's framing is a social performance.",
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Randi",
+    "fact": "Bessel's correction explains why sample standard deviation uses n-minus-one: estimating the mean from the data uses up a degree of freedom, and dividing by n would underestimate the variance",
+    "source_character": "Pace",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Randi says 'Right. Right, I knew that' suggesting she already knew this; her learning here is a reconfirmation rather than new knowledge. Marked HIGH as the scene is explicit.",
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Randi",
+    "fact": "Pace is not attracted to her",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "The narration implies Randi registered this through Pace's behavior; her physical tells (hand in lap, turned cup, placed fingers) suggest she processed this in real time. She does not state it but her behavior implies she knows.",
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Cassie",
+    "fact": "Randi's hand moved into her lap in a way she did not want to broadcast before Cassie looked up",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Cassie observes this and glances from Randi's face to the lap-region and back; the author establishes she registered it",
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Cassie",
+    "fact": "Pace looked at Randi without romantic interest despite Randi being conventionally the most attractive person at the table",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Cassie states this observation aloud and the narrator confirms its accuracy",
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Cassie",
+    "fact": "Pace asked for Vee's number and intends to see her",
+    "source_character": "Pace",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Cassie was present at the table when this occurred",
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Pace",
+    "fact": "Vee's full name is Vivienne Thorne, she goes by Vee, and she is studying economics",
+    "source_character": "Vee",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": null,
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Pace",
+    "fact": "Vee is interested in economics because of the gap between how people say they behave and how they actually behave when they think they are being rational",
+    "source_character": "Vee",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": null,
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Pace",
+    "fact": "Vee's phone number",
+    "source_character": "Vee",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "He typed it in and confirmed it back to her",
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Pace",
+    "fact": "The other women at the table are named Randi and Cassie",
+    "source_character": "Randi",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": null,
+    "scene_file": "scenes/the-meet-cute.md",
+    "chapter_number": 5
+  },
+  {
+    "character_name": "Vee",
     "fact": "Pace asked 'may I call you?' and obtained her phone number",
     "source_character": "Pace",
     "source_reliable": true,

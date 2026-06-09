@@ -51,14 +51,6 @@
       }
     },
     {
-      "to": "meta-arch-bible.md",
-      "relationship": "referenced_by",
-      "negated": false,
-      "properties": {
-        "description": "cross-character relational architecture; carries a pointer to this document"
-      }
-    },
-    {
       "to": "together-in-class.md",
       "relationship": "references",
       "negated": false,

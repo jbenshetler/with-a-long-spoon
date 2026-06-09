@@ -1,6 +1,11 @@
 {
   "name": "Pace",
-  "aliases": [],
+  "aliases": [
+    "Randi's romantic interest",
+    "intimate physical gesture",
+    "porch air warmth texture",
+    "assembling something he meant"
+  ],
   "entity_type": "character",
   "facts": [
     {
@@ -377,6 +382,10 @@
       "value": "runs hot; a hot fantasist with extraordinary self-control, not a cool strategist with a warm exterior"
     },
     {
+      "attribute": "intimacy_orientation",
+      "value": "Characteristically unhurried in physical intimacy; does not rush toward outcomes and deliberately structures scenes around slowness and withholding. This distinguishes him from every prior partner Randi has had."
+    },
+    {
       "attribute": "method_terminal_step",
       "value": "His method's terminal step is conviction, which has no slot for the integration question"
     },
@@ -413,6 +422,10 @@
       "value": "Provides the conditions under which a woman's stepping over her own line becomes thinkable, then bearable, then desired; the line and the stepping are hers"
     },
     {
+      "attribute": "symbolic_object_bench",
+      "value": "A custom-built BDSM bench in walnut with twelve coats of oil finish. Pace began building it eleven months before the novel opens, predating his relationship with Randi by approximately eight months (he met Randi only three weeks before the novel opens). The bench is a recurring symbol of stable, deliberate intent that exists independently of Randi."
+    },
+    {
       "attribute": "after_register_reading",
       "value": "Does not run \u2014 he does not see what his prudence costs Vee"
     },
@@ -443,6 +456,10 @@
     {
       "attribute": "core architectural flaw",
       "value": "After-register blindness \u2014 the failure to read what moments become in the other person's interior across time; originated as a choice that became a habit, sustained below conscious access"
+    },
+    {
+      "attribute": "furniture_craftsmanship",
+      "value": "Pace built all the furniture in his home himself, including pieces in quartersawn oak and walnut. His middle-class income could not have purchased such pieces, meaning they are handmade. Randi repeatedly perceives the furniture as expensive but consistently fails to complete the inference that the man she is observing crafted it himself, revealing a blind spot in her assessment of him."
     },
     {
       "attribute": "psychological_mechanism",
@@ -526,6 +543,13 @@
     }
   ],
   "behavioral_states": [
+    {
+      "state_name": "safeword_protocol",
+      "trigger": "Before a scene begins with Randi",
+      "response": "Pace asks Randi to state her safeword ('red') and explicitly tells her she can use it at any time without consequence",
+      "observable": "Pace verbally prompts Randi for her safeword and gives explicit permission to use it freely before any scene starts",
+      "distinguish_from": []
+    },
     {
       "state_name": "principled-non-taking",
       "trigger": "Faced with honorable options (disclosure, refusal, harder questions with Vee)",
@@ -906,6 +930,13 @@
       ]
     },
     {
+      "state_name": "withholds_observational_knowledge_about_Randi",
+      "trigger": "Pace accumulates detailed observations about Randi's preferences and behaviors",
+      "response": "He consistently withholds this knowledge from her, never mentioning what he has noticed",
+      "observable": "Pace demonstrates awareness of Randi's patterns through his actions but never verbalizes his observations to her",
+      "distinguish_from": []
+    },
+    {
       "state_name": "vow-holding silence on love",
       "trigger": "Reaching a point where verbal declaration of love would be conventionally expected, but certainty has not yet surfaced",
       "response": "Withholds verbal declaration; expresses through deeds instead. Not-saying 'I love you' is the grammar operating, not a failure of it.",
@@ -1254,6 +1285,13 @@
       "after_event": "the Randi meet on the common (Before-Vee / Early stretch)",
       "before_event": "the pointing game / Vee meet-cute, which IS engineered",
       "event_resolved": true
+    },
+    {
+      "attribute": "relationship_duration_with_randi",
+      "value": "met three weeks ago",
+      "after_event": "start of the novel",
+      "before_event": "origin-campus walk",
+      "event_resolved": false
     },
     {
       "attribute": "social development context",

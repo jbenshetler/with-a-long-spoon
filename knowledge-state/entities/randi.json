@@ -1,7 +1,11 @@
 {
   "name": "Randi",
   "aliases": [
-    "Miranda"
+    "Miranda",
+    "resting facial expression",
+    "Randi's appearance",
+    "Randi's bags",
+    "Randi's sigh"
   ],
   "entity_type": "character",
   "facts": [
@@ -16,6 +20,10 @@
     {
       "attribute": "habit",
       "value": "Locked-threshold habit (governs her own door)"
+    },
+    {
+      "attribute": "scent",
+      "value": "Citrus on top, green and cold underneath, nothing sweet \u2014 as perceived by Pace"
     },
     {
       "attribute": "taste",
@@ -74,6 +82,10 @@
       "value": "Carries a 'wound' associated with deprivation; her involuntary 'Yes' was described as 'the wound's first ambulant motion' \u2014 the wound choosing what it had been deprived of."
     },
     {
+      "attribute": "hair_style",
+      "value": "Often pulled back and bound at the nape, dark and finished \u2014 it moves only at the very ends in the wind"
+    },
+    {
       "attribute": "humor_style",
       "value": "dry, observational humor that punctures his (Pace's) intellectualism"
     },
@@ -127,7 +139,7 @@
     },
     {
       "attribute": "physical_build",
-      "value": "Petite, narrow through shoulder and hip, built to the 'proper' scale"
+      "value": "Dancer's body \u2014 elegant legs that take up most of her frame, with a decade of dance training written into her musculature."
     },
     {
       "attribute": "pre_year_state",
@@ -150,8 +162,16 @@
       "value": "Almost never says something she hasn't already rehearsed; lack of ready material signals the plan has escaped her"
     },
     {
+      "attribute": "attention_style",
+      "value": "Gives a full smile that arrives all at once, described as a 'beam' she turns on people; makes the recipient feel like the only thing in the frame"
+    },
+    {
       "attribute": "begged_at_bench",
       "value": "Begged at the bench \u2014 'Please. Please, Pace. Please.' \u2014 the first and only verbal admission of need in her adult life"
+    },
+    {
+      "attribute": "car_description",
+      "value": "Dark green Mercedes convertible \u2014 the green so dark it reads as black until the sun moves on it"
     },
     {
       "attribute": "current_project",
@@ -234,6 +254,14 @@
       "value": "lesbian"
     },
     {
+      "attribute": "closet_organization",
+      "value": "Orderly; everything earns its hanger; palette runs bone to camel to oatmeal with one disciplined oxblood at the end."
+    },
+    {
+      "attribute": "distinctive_feature",
+      "value": "Startlingly blue eyes that are the first thing anyone notices about her; she has built her entire adult life around being looked at for them."
+    },
+    {
       "attribute": "operational_silence",
       "value": "Since the begging at the bench, Randi needs in operational silence \u2014 the need persists but the begging-voice is forbidden"
     },
@@ -256,6 +284,10 @@
     {
       "attribute": "capacity_to_be_loved",
       "value": "Cannot be loved well; could not hold Pace's reception of her at the bench; no other channel exists through which she could be received at that depth"
+    },
+    {
+      "attribute": "dominant_social_gift",
+      "value": "The quality of her attention: she makes whoever she is focused on feel like the most interesting person in the room. The effect is immediate and addictive; those around her are aware they are in a 'beam' even as they surrender to it."
     },
     {
       "attribute": "emotional_dependency",
@@ -282,8 +314,16 @@
       "value": "Mental life consumed by the Vee-channel across six concurrent channels of aliveness"
     },
     {
+      "attribute": "preferred_social_type",
+      "value": "Gravitates toward petite, narrow-framed, polished women who are socially composed and aesthetically correct \u2014 women who share her grammar of designer labels, controlled presentation, and propriety."
+    },
+    {
       "attribute": "prior_emotional_state",
       "value": "Lived twenty-one years with no channels of aliveness"
+    },
+    {
+      "attribute": "campus_social_standing",
+      "value": "Holds visible campus prominence: sits on the standards board, led a philanthropy event covered by the campus paper, and is recognized as a social apex figure whose approval confers belonging."
     },
     {
       "attribute": "hatred_characteristics",
@@ -298,12 +338,32 @@
       "value": "Hate is the only warm thing in her chest, valued because it is 'something she made herself'"
     },
     {
+      "attribute": "genuine_attraction_type",
+      "value": "Women who are physically present without apology, warm and open rather than closed or performative, and capable of genuine unselfconscious expression \u2014 the opposite of Randi's own carefully managed presentation. Revealed during the pointing game when given freedom to choose."
+    },
+    {
       "attribute": "psychological_apparatus",
       "value": "Organized against producing hunger at all; has no equipment/hardware for being a hungering thing"
     },
     {
       "attribute": "psychological_structure",
       "value": "Hate, envy, sadism, and genuine liking are not separate engines but four faces of one wound, refracted through whichever party she is near"
+    },
+    {
+      "attribute": "closet_organization_style",
+      "value": "A narrow closet worked to its limit with a disciplined, stable system maintained over at least two years. Palette runs bone to camel to oatmeal with one deliberate oxblood accent, reflecting a temperament of controlled order with a single permitted intensity."
+    },
+    {
+      "attribute": "personal_belongings_style",
+      "value": "Small overnight bag, leather, monogrammed in a sorority hand; expensive in the slightly aggressive way her things were expensive"
+    },
+    {
+      "attribute": "power_dynamic_with_brooke",
+      "value": "Brooke holds greater institutional and social authority than Randi within the chapter hierarchy; Randi recognizes from her own inside board experience that Brooke commands more organizational power than she herself does."
+    },
+    {
+      "attribute": "resting_facial_expression",
+      "value": "A slight perpetual surprise"
     },
     {
       "attribute": "filed_perception_of_cassie",
@@ -314,8 +374,16 @@
       "value": "Deepest architectural fact (v6). Apparatus organized for twenty-one years so she would never produce need requiring another person; wanting permitted, getting sufficient. The need-refusal is so thorough it has no operational channels: she cannot ask, cannot receive-as-needing, cannot move toward the need."
     },
     {
+      "attribute": "item_brought_to_pace_house",
+      "value": "A cashmere blanket, brought after the second week of their relationship because she gets cold after sex even in his too-warm house"
+    },
+    {
       "attribute": "role in Vee's social world",
       "value": "One of two confidantes competing for Vee's disclosures; the 'hunger-object' representing glamour/ascent that Vee reaches toward"
+    },
+    {
+      "attribute": "social_skill_trained_mover",
+      "value": "Highly trained social mover; can engineer apparently accidental meetings with strangers using precision and invisibility, developed through years of dance training and sorority social formation."
     },
     {
       "attribute": "appetite_(c)_aliveness_need",
@@ -338,6 +406,10 @@
       "value": "Built on control; experiences being seen as a breach of her only defense"
     },
     {
+      "attribute": "scent_signature_as_perceived",
+      "value": "Citrus with something green and cold underneath, notably absent of sweetness \u2014 Pace's unsophisticated read of her gardenia perfume"
+    },
+    {
       "attribute": "signature_psychological_move",
       "value": "Cannot have a real, unmanaged want without wrapping it in a socially survivable frame, and the frame hollows out the realness"
     },
@@ -350,6 +422,10 @@
       "value": "Hunger for the operation \u2014 the domination/sadism rush; both anticipatory (planning lights it) and experiential (running it intensifies it), with the doing the stronger igniter"
     },
     {
+      "attribute": "cover_story_pace_relationship",
+      "value": "Within the sorority, Randi publicly frames her relationship with Pace as him simply being hard to say no to \u2014 a self-deprecating, low-stakes explanation delivered with a laugh that positions the relationship as something that happened to her rather than something she actively chose."
+    },
+    {
       "attribute": "duration of perfected surface",
       "value": "spent twenty-one years perfecting the surface Pace saw past"
     },
@@ -358,12 +434,24 @@
       "value": "Has an 'armor'/apparatus designed to identify and repel threats"
     },
     {
+      "attribute": "private_psychology_toward_vee",
+      "value": "Carries a private envy of Vee beneath her controlled, appetitive surface. Publicly ranks Vee below herself in every social context, but privately wants what Vee has access to. This contradiction is not fully consciously acknowledged by Randi herself \u2014 it operates as a subterranean drive beneath her performed superiority."
+    },
+    {
       "attribute": "relationship_to_want_and_need",
       "value": "At ease with want; runs on need, which she cannot supply herself and cannot be seen having"
     },
     {
+      "attribute": "social_attractiveness_standing",
+      "value": "Acknowledged by the group as the most conventionally attractive person in the social circle by a measurable margin; men's attention distributes toward Randi over others (including Vee) when both are present \u2014 a stable background dynamic in shared social settings."
+    },
+    {
       "attribute": "emotional_register_toward_cassie",
       "value": "Pure dismissal; Cassie barely registers; non-affect is deliberate"
+    },
+    {
+      "attribute": "physical_appearance_and_grooming",
+      "value": "Dark hair worn pulled back and bound at the nape; clean jawline; small, high figure. Favors fine materials \u2014 silk camisoles, cashmere. Presents an immaculate, finished surface at all times."
     },
     {
       "attribute": "central paradox / SATC operations",
@@ -388,6 +476,27 @@
   ],
   "behavioral_states": [
     {
+      "state_name": "concealment_smile_tell",
+      "trigger": "Caught off-guard or concealing something",
+      "response": "Smile visibly 'arranges' itself \u2014 a fraction-of-a-second delay before composure is restored, betraying calculation beneath the surface",
+      "observable": "A barely perceptible lag in the smile's appearance, as if it is being deliberately constructed rather than spontaneously felt",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "unbound_hair_private_aftermath",
+      "trigger": "alone with Pace in private aftermath following sex",
+      "response": "allows her hair to come loose and unbound, abandoning the controlled styling she maintains in all public and semi-public contexts",
+      "observable": "unbound, loose hair visible only in private moments with Pace \u2014 a stable marker of her rare unguarded state",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "sequenced_flattery_strategy",
+      "trigger": "Randi wants more of Pace's time or to extract concessions from him",
+      "response": "Uses sequenced flattery \u2014 complimenting Pace's stamina, desirability, and rarity incrementally \u2014 as an indirect path toward getting what she wants rather than asking directly",
+      "observable": "Randi layers praise about Pace's qualities in a deliberate sequence before making any request or move toward a concession",
+      "distinguish_from": []
+    },
+    {
       "state_name": "Standards interrogation mode",
       "trigger": "Running conduct hearings / judging sisters against the house standard",
       "response": "Conducts interrogation while appearing to be a confidante",
@@ -406,6 +515,139 @@
         "simply wanting someone directly",
         "open admission of desire"
       ]
+    },
+    {
+      "state_name": "hair_unbound_post_coital",
+      "trigger": "After sex, alone with Pace in private",
+      "response": "Randi lets her hair down \u2014 the only context in which she does so; all other contexts she keeps it bound or controlled",
+      "observable": "Hair loose and unbound; visible only to Pace, signaling a rare unguarded and vulnerable state unique to their intimacy",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "desire_camouflage",
+      "trigger": "Randi acts on attraction to a woman",
+      "response": "Randi frames her desire as something she is doing 'for Pace/him' rather than acknowledging it as her own genuine wanting, using the framing as protective cover to permit herself to act on the attraction",
+      "observable": "Randi verbally attributes her pursuit of a woman to Pace's benefit rather than her own desire, though Pace recognizes this framing as camouflage concealing authentic personal desire",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "automatic_emotional_suppression",
+      "trigger": "Experiencing strong emotion that would typically cause crying or visible distress",
+      "response": "Emotional containment activates automatically through long-conditioned habit; Randi does not experience it as active suppression but as an absence \u2014 no door to hold shut, just no door",
+      "observable": "No visible signs of crying or emotional distress even under significant emotional pressure; suppression is invisible because it no longer manifests as visible effort",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "layered_flattery_seduction",
+      "trigger": "Randi wants more of Pace's time or compliance during negotiation",
+      "response": "Delivers layered flattery about Pace's stamina, desirability, and sexual generosity as stepping stones toward extracting what she wants; both parties are aware of the tactic yet it remains effective because the compliments are grounded in truth",
+      "observable": "Randi visibly compliments Pace in escalating, targeted ways before making a request; Pace responds positively despite recognizing the strategy",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "door_locking_on_entry",
+      "trigger": "Every time Randi enters Pace's house",
+      "response": "She locks the door behind her, first thing, before anything else",
+      "observable": "The door is visibly locked immediately upon her entry, before any other action is taken",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "unreadable_value_stall",
+      "trigger": "Encountering an object or signal whose cost or status cannot be placed in a familiar register",
+      "response": "Looks at it repeatedly and registers it visually but does not comment and fails to complete the inference that would explain it \u2014 like reading a price tag she cannot parse",
+      "observable": "Repeated visual attention directed at the object without verbal acknowledgment or explanatory conclusion",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "door_closing_manner",
+      "trigger": "Randi closes a door",
+      "response": "Closes it with a small unhurried click, deliberate and unhurried, like a woman who knows the room is hers",
+      "observable": "Small quiet click; no rushing or slamming; conveys ownership and composure",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "deflect_genuine_feeling_with_humor",
+      "trigger": "When scrutiny or attention is directed at Randi's real feelings about Pace",
+      "response": "Deploys a self-deprecating, lightly humorous framing \u2014 casting Pace as 'hard to say no to' with a what-could-I-do laugh \u2014 to redirect social attention away from genuine emotion and present a socially legible, low-stakes affect as cover",
+      "observable": "Laughs off the subject with a self-deprecating quip; appears breezy and unbothered rather than emotionally invested",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "greeting_touch",
+      "trigger": "When greeting or connecting with someone",
+      "response": "Reaches out to squeeze the person's forearm",
+      "observable": "Hand extends to grasp and squeeze the forearm of the other person",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "engineered_accidental_encounter",
+      "trigger": "Randi decides to approach or intercept a target person",
+      "response": "She adjusts her trajectory and timing with calibrated precision so that the resulting contact appears to be a chance meeting rather than a deliberate approach, keeping her intention invisible",
+      "observable": "Contact looks like a spontaneous coincidence; no visible sign of planning or deliberate convergence on her part",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "aliveness_mirror_with_vee",
+      "trigger": "Pace activates a craving for aliveness in both Randi and Vee",
+      "response": "Randi cannot tolerate the exposure and hunger that aliveness brings and so seeks it vicariously through Vee, while Vee accepts the exposure because she has been hungry all her life; this structural mirror means neither is purely villainous \u2014 both are driven by the same need, only their capacity to bear it differs",
+      "observable": "Randi pursues closeness with Vee rather than simply opposing her; Vee endures vulnerability that Randi retreats from",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "social_aesthetic_preference_pattern",
+      "trigger": "Randi evaluates or encounters other women socially or aesthetically",
+      "response": "She favors women who match her social grammar (correct labels, maintained physique, polished presentation) but rejects direct mirrors of herself and women whose warmth or ease is performed for an audience; she is specifically drawn to women who are genuinely warm and open without self-consciousness",
+      "observable": "Randi gravitates toward or shows approval of naturally warm, unaffected women while visibly losing interest in or subtly distancing from women who seem to be performing ease or who too closely mirror her own polished presentation",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "caught_off_guard_or_lying",
+      "trigger": "When Randi is caught off guard or lying",
+      "response": "She pauses for a fraction of a second before responding",
+      "observable": "A brief, fraction-of-a-second hesitation or pause that serves as a physical tell",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "genuine_arousal_or_concentration_tell",
+      "trigger": "Randi is genuinely concentrating or aroused, as distinct from her performed state",
+      "response": "Her blue eyes visibly darken",
+      "observable": "Visible darkening of Randi's blue eyes, distinguishable from her performed expressions",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "concentration_expression",
+      "trigger": "Randi is concentrating on something",
+      "response": "Her resting expression of slight surprise sharpens into a questioning look, with specific attentiveness",
+      "observable": "Slight surprise of resting expression sharpens into a question; heightened attentiveness visible on face",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "entitled_spatial_navigation",
+      "trigger": "Randi encounters social or physical environments with rules, restrictions, or gatekeeping (restaurants, fire lanes, expensive spaces, wait lists)",
+      "response": "She moves through them as if the rules were designed for other people \u2014 parking in fire lanes, skipping waits, and occupying expensive spaces with the ease of someone who has never had to negotiate access",
+      "observable": "Parks in fire lanes, bypasses queues, occupies high-status spaces without visible hesitation or negotiation",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "need_denial_silence",
+      "trigger": "Randi experiences emotional need or vulnerability",
+      "response": "She never names the need aloud; naming it would constitute the very exposure she has structured her entire existence to prevent",
+      "observable": "Absence of direct statement \u2014 need is visible only in behavior, deflection, or what she avoids saying; the word or concept is conspicuously never spoken by her",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "food_restriction_calculus",
+      "trigger": "Any food choice or eating situation arises",
+      "response": "Randi applies an internalized system of permitted and forbidden foods, rigidly policing her own intake according to rules first imposed by her mother at age fourteen and later reinforced by her sorority at age eighteen",
+      "observable": "Randi visibly scrutinizes or avoids certain foods, making calculated decisions about what she will and will not eat in any given situation",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "door_closing_habit",
+      "trigger": "Randi closes a door upon entering a room",
+      "response": "Closes the door with a small, unhurried click \u2014 deliberate and unhurried, conveying ownership and belonging, as though the room has always been hers",
+      "observable": "A soft, deliberate click of the door latch rather than a quiet or forceful close",
+      "distinguish_from": []
     },
     {
       "state_name": "resentment-at-being-seen",
@@ -471,6 +713,24 @@
       ]
     },
     {
+      "state_name": "the cup (containment of overflow)",
+      "trigger": "Being in a venue where the need is running and she has no operational lever to discharge it through (engineered meet-cute, SATC lunches with Vee's reports, scenes with Pace discussing the project, engineered proximity scenes)",
+      "response": "Her hands find a cup, glass, stem, edge, or object to hold; grip firmer than needed; lifts the cup but does not drink, sets it down, lifts again \u2014 frequency of lift decoupled from act of drinking",
+      "observable": "Repeated lifting/setting-down of a cup without drinking; an unusually firm grip; the cup serves as continuity-marker for Randi's body across the year",
+      "distinguish_from": [
+        "the lock-the-door gesture (control of perimeter / active assertion / operates on outside-of-her)",
+        "actually drinking",
+        "the kiss at the threesome (where hands are not occupied)"
+      ]
+    },
+    {
+      "state_name": "involuntary_shoulder_brace",
+      "trigger": "anticipation of being touched by a sexual partner",
+      "response": "Randi involuntarily braces her shoulders as a conditioned response developed from partners who moved quickly or rushed; she is unaware she does it",
+      "observable": "visible tensing or squaring of shoulders immediately before physical contact",
+      "distinguish_from": []
+    },
+    {
       "state_name": "Jealousy",
       "trigger": "Pace's continuing operation on Vee",
       "response": "Experiences jealousy as a source of aliveness",
@@ -519,6 +779,48 @@
         "Envy of Vee",
         "Hate of Pace"
       ]
+    },
+    {
+      "state_name": "caught_off_guard_social_recovery",
+      "trigger": "Unexpected or probing question catches Randi off-guard",
+      "response": "Experiences a fraction-of-a-second delay before responding and holds her facial expression in position while she recovers",
+      "observable": "Her smile 'arranges' itself into place rather than forming naturally \u2014 a micro-pause visible to a careful observer",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "forearm_touch_greeting",
+      "trigger": "Randi is warming to someone or expresses approval of a person",
+      "response": "Reaches out to touch or squeeze the person's forearm as a physical gesture of connection and approval",
+      "observable": "Hand extending to grasp or squeeze the other person's forearm",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "post_session_subspace_stillness",
+      "trigger": "After an intense spanking and edging session with Pace at the bench",
+      "response": "Randi enters a deeply emptied-out, faraway stillness \u2014 face goes blank, eyes open on nothing, too spent for even small physical gestures",
+      "observable": "Blank face, unfocused open eyes, total physical stillness; Pace recognizes this as a marker that he has reached all the way into her",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "name_introduction_routine",
+      "trigger": "Randi introduces herself to someone new",
+      "response": "Delivers a rehearsed bit preemptively distinguishing her name from 'Randy' using a self-deprecating family anecdote, designed to prompt laughter and invite the other person to share their own name",
+      "observable": "Randi tells a self-deprecating anecdote about her name and laughs, then looks to the other person expectantly",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "elation_composure_break",
+      "trigger": "Genuine elation from succeeding at something that excites her",
+      "response": "Composure visibly breaks \u2014 she grins in a way she cannot suppress and her body produces involuntary happy movement (e.g., a spontaneous footwork flourish) before she reasserts control",
+      "observable": "Uncontrollable grin and spontaneous physical flourish (such as footwork) visible before she regains composure",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "transformation_blocked_by_fear",
+      "trigger": "Pace opens Randi to vulnerability and new emotional openness",
+      "response": "Randi becomes frightened and stuck rather than thriving; she cannot process the openness the way Vee can, leaving her paralyzed rather than transformed positively",
+      "observable": "Randi appears stuck, fearful, or regressed compared to Vee's growth after similar experiences with Pace",
+      "distinguish_from": []
     },
     {
       "state_name": "need-as-obstacle",
@@ -838,6 +1140,13 @@
         "pure_friendship",
         "pure_cruelty"
       ]
+    },
+    {
+      "state_name": "sequential_undivided_warmth",
+      "trigger": "Randi encounters multiple people in a group setting in sequence",
+      "response": "She extends her full, undimmed warmth to each person in turn, making each feel like the most important person in the room during their moment \u2014 the warmth moves on rather than divides",
+      "observable": "Each person Randi speaks to receives her complete, focused attention and warmth, with no visible dilution despite the presence of others",
+      "distinguish_from": []
     }
   ],
   "temporal_states": [

@@ -2,7 +2,16 @@
   "name": "meta-arch-cassie.md",
   "aliases": [],
   "entity_type": "placeholder",
-  "facts": [],
+  "facts": [
+    {
+      "attribute": "Pace",
+      "value": "refusal to read the emotional after-register"
+    },
+    {
+      "attribute": "Randi",
+      "value": "refusal of need"
+    }
+  ],
   "behavioral_states": [],
   "temporal_states": [],
   "relationships": [],
