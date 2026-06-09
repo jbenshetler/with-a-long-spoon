@@ -5,6 +5,9 @@
 
 ---
 
+## Aliases
+AKA Miranda
+
 ## Core Claim
 
 Randi is the wound that learned to walk. The wound walked out of her mouth as a single bare *Yes* in a campus pointing-game, before she had named it, before she had a plan, before she had any conscious understanding of why she had said it. The whole year is the elaboration of that one syllable.

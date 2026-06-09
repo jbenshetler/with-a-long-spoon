@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "novel-assistant": {
+      "command": "/home/jeff/clients/with-a-long-spoon/novel-assistant/mcp-server.sh"
+    }
+  }
+}

@@ -5,6 +5,9 @@
 
 ---
 
+## Aliases
+AKA Vee, V.T.
+
 ## Core Claim
 
 Vivienne is the consciousness the reader inhabits most fully. Her appetite for full aliveness is the third member of the destructive-appetite class — constitutive, operating from before the novel begins, not separable from anything else that makes her who she is. The appetite brings her into proximity with the other destructive appetites by its own internal logic. The destructiveness is not in her bravery or her shame or her openness; it is in the appetite itself, which seeks intensity and therefore seeks configurations involving destructive appetites.
