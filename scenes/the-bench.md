@@ -230,10 +230,6 @@ He slid his fingers between her legs again.
 
 The wet sound was immediate, thick and soft. She stopped breathing for a moment, suspended in time, then the sound of her breathing returned in a shaky mix of pant and sigh. When he circled her clit she made a high, thin sound she hadn’t made before. He kept the rhythm steady, listening. When her breathing began to break and the sound rose again he took his hand away.
 
-He watched this time. Wetness had gathered between her thighs, and the light moved across it whenever his fingers parted the seam. He could see the slick shifting and catching with each slow pass of his hand, the seam parting and closing. A thin thread of it stretched between his fingers and her skin, then broke. He kept going until the shine thickened and began to run, then pulled his hand back.
-
-This time he stayed with the feeling. She was furnace-hot and so wet his fingers moved without friction. When he pressed deeper he felt the grip of her, the way the muscle inside pulled at him in tight, rhythmic pulses. Fresh wetness coated his knuckles and slid down his wrist. He kept his hand there, working her steadily, until he felt the first long tremor begin in her thighs. Then he stopped.
-
 He soothed her ass with his other hand. He came around to her face again. He crouched. He stroked her hair.
 
 "How's your back," he said.
@@ -266,7 +262,9 @@ He kissed the spot where his hand had been on her ass. She inhaled sharply.
 
 "I know," he said, gently.
 
-He waited. He let her settle. He stroked her back. Then he started again — slowly, with his fingers, finding her rhythm and then deliberately not matching it, building her toward the edge of something and then, when she was almost there, stopping again. He held his hand still against her and waited for the wave to recede in her body. Then he resumed, from further back than she had been, building her again. He stopped again. The third time he did it, she said his name through her teeth.
+He waited. He let her settle. He stroked her back. He watched. Wetness had gathered between her thighs, and the light moved across it whenever his fingers parted the seam. He could see the slick shifting and catching with each slow pass of his hand, the seam parting and closing. A thin thread of it stretched between his fingers and her skin, then broke. He kept going until the shine thickened and began to run, then pulled his hand back. 
+
+Then he started again — slowly, with his fingers, finding her rhythm and then deliberately not matching it, building her toward the edge of something and then, when she was almost there, stopping again. He held his hand still against her and waited for the wave to recede in her body. Then he resumed, from further back than she had been, building her again. He stopped again. The third time he did it, she said his name through her teeth.
 
 "Yes," he said.
 
@@ -291,6 +289,8 @@ She made a small sound against his face.
 "You are," he said. "You are doing so well."
 
 He took his hand from her breast. He went back behind her. He struck her again, lower, at the base of her right cheek, and the lovely curve of her ass jiggled pleasantly before settling back into her clean lines. She cried out and the cry was not a trained cry, the cry was real, the cry was a *sound from her,* and he heard it land and he heard himself want to hear it again, and he soothed her and waited and hit her again to hear her make it again, and she did. He bent and pressed his face against the curve of her ass where it was hottest and kissed her there, his mouth against the heat his own hand had made. She gasped.
+
+This time he stayed with the feeling. She was furnace-hot and so wet his fingers moved without friction. When he pressed deeper he felt the grip of her, the way the muscle inside pulled at him in tight, rhythmic pulses. Fresh wetness coated his knuckles and slid down his wrist. He kept his hand there, working her steadily, until he felt the first long tremor begin in her thighs. Then he stopped.
 
 "Pace," she said.
 
