@@ -15,12 +15,25 @@ Steps:
          Current value: Gardenia and something colder underneath
          target_spec: property:12:scent
 3. Ask the author: which one? (or "none of these")
-4. On selection: call confirm_flag(target_spec=<chosen spec>, description=<original input>)
-5. Report: "Flagged. 'Randi → scent' suppressed from research() until resolved in triage."
+4. On selection, ask what to do with it:
 
-What happens after flagging:
-- The fact is removed from active retrieval immediately
-- It appears in /novel-triage with [FLAGGED BY AUTHOR] marker and HIGH priority
-- Resolve via Edit (corrected value, re-activates) or Reject (permanent removal, retained for audit)
+     Fix    — correct it now (no triage needed)
+     Reject — it's wrong, remove it permanently (retained for audit)
+     Triage — suppress it and send to /novel-triage for later
 
-Do NOT auto-flag without author confirmation. Always present candidates and wait for the author to pick.
+   For Fix: ask what the correction is:
+     - Wrong character? "Move to [NAME]" → fix_fact(target_spec, corrected_character="Name")
+     - Wrong value?    "The correct value is X" → fix_fact(target_spec, corrected_value="X")
+
+   For Reject: call reject_fact(target_spec, description=<original input>)
+
+   For Triage: call confirm_flag(target_spec, description=<original input>)
+
+5. Report what happened.
+
+What happens in each case:
+  Fix    — fact is corrected or moved in KB immediately, no queue entry
+  Reject — fact is removed from research() immediately; audit record written (won't appear in triage)
+  Triage — fact suppressed from research(); appears in /novel-triage with [FLAGGED BY AUTHOR] HIGH priority
+
+Do NOT apply any action without author confirmation of both the target AND the action.
