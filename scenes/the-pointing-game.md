@@ -1,3 +1,57 @@
+# The Pointing Game
+
+*Diptych. Pace POV throughout. Panel one: post-coital, in bed — the appetite surfaces and gets a frame she can live inside. Panel two: continuous afternoon, the walk on campus — the same act in daylight, reconnaissance wearing the costume of a game. One dramatic movement, two settings.*
+
+---
+
+She came the first time with his mouth on her, her hand flat against the top of his head—not pushing, just holding, as if to confirm he was there. He stayed with it longer than she needed, reading the slackening in her thighs, the way her breath went from held to spilled. He knew the difference between a woman performing release and a woman delivered to it. She had been performing, the first week. She was not performing now.
+
+He came up over her without wiping his mouth. He had decided this beforehand, the way he decided most things—not as strategy but as the shortest line to something true. He kissed her and let her find herself there.
+
+"You like that," he said. Not a question, but he wanted to hear her say it.
+
+"Mm." A sound, not a word. Her eyes were soft, unguarded in the way they only were in the few minutes after.
+
+"You like the taste of yourself."
+
+"Yes." Breathed, easy. This was old ground for her; he could feel that. Nothing in her flinched.
+
+"Would you like to taste another woman?"
+
+It was not fair, the timing, and he knew it was not fair. He asked it lightly, into the warm disorder of her, while she was still open—and her body answered before any part of her could intervene. She came again, hard, almost at once, with him barely inside her, far too fast for anything he was doing to account for it. He felt it go through her like something thrown. He held still and let her have it and watched her face the whole way, and what he saw there—the brief astonishment, the helplessness of it—told him everything the question had been for.
+
+So. There it was.
+
+He had not known, going in. That was the honest part, the part he'd have told her if telling were his grammar. He had wondered whether the idea would land in her as a transgression or as nothing. A great many women would have laughed, or shrugged, or said *maybe someday* in the voice that means never. Her body had just told him it was a transgression. Which meant it was a door. And he was, by some old architecture he did not examine, a man who could not leave a door like that closed once he'd seen it was there.
+
+He worked the third one out of her slowly, deliberately, giving her more than she'd asked for—because her body wanted this and her mind did not yet, and the gap between them was a thing he understood how to close. Pleasure was not a trick. It was a true thing he was giving her. It was also the bridge. Let the wanting feel good in her, good enough that the good feeling and the wanting became the same fact, and the mind would follow where the body had already gone. He thought of it almost tenderly. He was helping her toward something she would otherwise refuse herself.
+
+Afterward they lay tangled and quiet. She said something about the time, about her afternoon. He answered. The room cooled around them and the heat went out of the air and the talk went small and ordinary, and he let it, because he wanted her settled when he asked, wanted the question to land in daylight and not in the dark of the thing itself.
+
+"Do you actually want to taste another woman?"
+
+He watched her understand it. He saw the precise instant the words stopped being something said in bed and became something asked—and she flinched. Barely. A small recoil under the skin, gone almost before it arrived, the kind of thing a less attentive man would have missed entirely and called her calm. He did not miss it. Her body had been caught wanting something her mind had not agreed to want, and the flinch was the sound of the catching.
+
+Then she came back. He admired it, a little, even as he saw through it—the way she gathered herself and reached for the warm lower register, trailed one finger down his chest, tilted into him and pressed a slow kiss to his jaw. It was good. It was practiced and it was warm and it was not cartoonish, and on another man it would have worked completely; he'd have felt seduced and forgotten he'd asked anything at all.
+
+"Only in a threesome," she said against his throat, smiling, all silk. "With you."
+
+And he understood what she had done, because it was beautiful and because he was built to see it. She had not taken back the wanting—she could not, her body had said it twice and she knew he'd heard. She had moved it. She had handed the appetite to him and made herself its generous instrument: not a woman who hungered for another woman, which was unsurvivable, but a girlfriend offering her man a gift, which was merely sexy. The same act. A different owner. She could live inside the second version. She could not live inside the first.
+
+He let her have the frame. He even felt the rightness of it settle in his chest, the way the last piece of a thing settles—because the frame she'd built to hide in was the exact frame he needed to proceed. A threesome, with him. He would not have to find her a woman for her transgression. He would find a woman for *theirs*. She could say yes to every step of it and never once have to say the thing her body had already said for her.
+
+"Okay," he said, easy, and meant several things by it.
+
+He kissed her forehead and got up and started pulling on his clothes, and she watched him from the bed the way she did, taking inventory, and after a moment she reached for hers too.
+
+"Let's go for a walk on campus," he said.
+
+"Yeah?" Already up, already reaching for the bright easy version of herself, the one for daylight. Four weeks in she'd learned he did things—some he named in advance and some he didn't—and she'd learned to be game for the unnamed ones. Hiking. The gardens. The bar with the older couples dancing. She had no reason to hear anything in *a walk on campus* but another of his good ideas.
+
+"Yeah," he said, and held the door for her, and did not tell her what the walk was for.
+
+---
+
 It was the kind of late-September afternoon that the valley produced only a handful of times a year and never on demand — cool enough that the sun felt like a hand laid flat between the shoulder blades, the air dry and moving. The wind came down off the ridge in long unhurried passes, turning the tops of the maples so the undersides of the leaves showed pale, then letting them settle. The grass was still summer-green, would be green another month, but the dogwoods at the edge of the quad had started to rust at the tips and one sugar maple near the chapel had gone over all at once, a single tree burning orange in a field of things that had not yet decided to change.
 
 They came up the brick walk from the lower lot with her hand in his. The wind came down off the ridge and got at her hair the way it got at everything else on the quad and found almost nothing to move — black and fine and gathered back into a sleek ponytail, a scrunchie at the crown the one allowed flourish, the tail swinging clean when she turned her head and not otherwise; she had decided that morning exactly how much of her the day would be permitted to touch, and bound the rest. The campus laid itself out the way it had been built to — the long colonnade of the old academic row, the white pediments and the red brick, the columns throwing their afternoon shadows in even bars across the path, the whole thing composed two centuries ago by men who wanted the eye to travel exactly this way and be exactly this satisfied. Students moved through it in the loose Wednesday-afternoon current, alone and in pairs and in clusters, unhurried, the ones with nowhere to be drifting and the ones with somewhere to be cutting across the grass against the diagonal. Somebody was throwing a frisbee. Somebody had a speaker going, low, two hundred feet off, the bass arriving a half-second behind the rest.

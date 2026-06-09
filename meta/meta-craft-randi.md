@@ -121,7 +121,7 @@ When Randi reports to Pace about the lunches, she is doing a specific job. Let t
 
 ## The Attraction to Vee — Real, Not Only Sadistic
 
-*(The involuntary Yes that originates this: → `origin-campus-walk.md`)*
+*(The involuntary Yes that originates this: → `the-pointing-game.md`)*
 
 Render moments of Randi being attracted to Vee in registers that are not strategic. The look across the table. The way Vee's perfume sits in Randi's car after a ride. The kind of attentions a person pays to someone they want without admitting they want them. **The sadism is the channel; the desire is the river the channel carries.**
 

@@ -83,7 +83,7 @@ She’s had it from the first kiss (the eye contact she actually remembers; admi
 
 ### POV: inside the blindfold (Vee’s sensory vantage)
 
-NOT to hide the partner’s identity from the **reader** — the reader has known it’s Randi for hundreds of pages (they’ve seen the plan form, the pointing game, the Plan Origin). **The suspense is DREAD, not mystery** — the call from inside the house. The reader, fully informed, watches Vee ask for the blindfold (her growth!), put it on, surrender, and enjoy it. Every second of her pleasure is a countdown the reader feels.
+NOT to hide the partner’s identity from the **reader** — the reader has known it’s Randi for hundreds of pages (they’ve seen the plan form, the pointing game). **The suspense is DREAD, not mystery** — the call from inside the house. The reader, fully informed, watches Vee ask for the blindfold (her growth!), put it on, surrender, and enjoy it. Every second of her pleasure is a countdown the reader feels.
 
 ### What Vee can and cannot tell — the two-tier structure
 

@@ -48,7 +48,7 @@ scene-level disciplines. Named `meta-craft-<character>`.
 | `meta-craft-vivienne.md` | POV and reader identification; voice regression; behavioral signatures; the involuntary-signal hierarchy; deflection mechanics per relationship; the cutting voice at experience level; the chiasmus discipline; the three prose commitments. |
 | `meta-craft-pace.md` | *(to be created)* |
 | `meta-craft-randi.md` | POV and reader positioning; the speech engine (power wears warmth); reserved vocabulary (*seen* belongs to Pace); the cup/nail-press mechanics and firing rules; the locked door; physical description; SATC scene rendering; concealment from Pace; the flat date rendering; closing image; what the prose must hold. |
-| `meta-rules.md` | **Verification checklist.** Pass/fail propositions for Vee, Pace, Randi, cross-cutting structural rules, writing style (synthesized from `the-bench.md` and `origin-campus-walk.md`), scene detail consistency (synthesized from `vee-tells-cassie-fitting.md`), and a pre-filing checklist. Run against any draft. For reasoning behind any rule, open the relevant craft file. |
+| `meta-rules.md` | **Verification checklist.** Pass/fail propositions for Vee, Pace, Randi, cross-cutting structural rules, writing style (synthesized from `the-bench.md` and `the-pointing-game.md`), scene detail consistency (synthesized from `vee-tells-cassie-fitting.md`), and a pre-filing checklist. Run against any draft. For reasoning behind any rule, open the relevant craft file. |
 
 ---
 
@@ -77,7 +77,7 @@ architecture, more specific than scene plans. Named `meta-note-<subject>`.
 |------|----------------|
 | `meta-note-rainstorm-hike.md` | The Rainstorm Hike (scene 12) pre-draft notes: the *fully-in-the-world* thesis and its inversion of may-i-choose; "rich people hike, poor people walk" (class/aspiration + Pace-as-deliberate-exception); the cold/sharp/wide-awake palette with the single creamy note at the end; care-under-real-stakes; silk-naming-on-the-move; the *she-authors-the-exposure* hinge; the three-surrenders comparison (warm-under / cold-awake / held-still → first night); plants and the size/differentiation watch. |
 | `meta-note-vee-reads-randi.md` | How Vee perceives and internally registers Randi's makeup at first encounter; vocabulary constraint; the not-quite-envy feeling; placement candidate; craft implications for the mutual-envy architecture. |
-| `meta-note-origin-walk-pace-misread.md` | **PROTECTED note.** Why the "ungradeable / nothing to grade" language in `origin-campus-walk.md` (~line 63) must NOT be "fixed" to match the corrected craft-vivienne mis-categorization framing: it is Pace's diegetic misattribution (Pace POV), the two-reading engine, his signature blindness — reread reveals it's need surfacing in Randi, not Vee being ungradeable. Do not revise without explicit user instruction. |
+| `meta-note-the-pointing-game-pace-misread.md` | **PROTECTED note.** Why the "ungradeable / nothing to grade" language in `the-pointing-game.md` (~line 117) must NOT be "fixed" to match the corrected craft-vivienne mis-categorization framing: it is Pace's diegetic misattribution (Pace POV), the two-reading engine, his signature blindness — reread reveals it's need surfacing in Randi, not Vee being ungradeable. Do not revise without explicit user instruction. |
 | `meta-note-sexual-ratchet.md` | How increased sexual frequency builds capacity and appetite across all three carriers; how the ratchet operates differently in each apparatus; craft implications. *(to be created)* |
 | `meta-note-vee-thriving.md` | The 3.6→3.9 GPA; the glowing register; how to render thriving distributed across scenes rather than as event. *(to be created)* |
 | `meta-note-randi-costs.md` | Sorority falter; academic non-event; cover-maintenance as distinct cost; Brooke beat. *(to be created)* |
@@ -106,7 +106,7 @@ One file per non-trivial scene; the chronology entry links to it. To work on a s
 |------|-------|
 | `meta-condensed-the-bench.md` | The Bench |
 | `meta-condensed-randis-walk-of-shame.md` | Randi's Walk of Shame |
-| `meta-condensed-plan-origin.md` | Plan Origin / Campus Walk |
+| `meta-condensed-the-pointing-game.md` | The Pointing Game (diptych) |
 | `meta-condensed-together-in-class.md` | Together in Class / Chi Latte |
 | `meta-condensed-the-meet-cute.md` | The Engineered Meet-Cute |
 | `meta-condensed-the-froyo-walk.md` | The Froyo Walk |
@@ -180,7 +180,7 @@ Listed in chronological order. Status: **complete** / **partial** / **beats only
 |------|-------|--------|
 | `the-bench.md` | The Bench | complete |
 | `randis-walk-of-shame.md` | Randi's Walk of Shame | complete |
-| `origin-campus-walk.md` | Plan Origin / Campus Walk | complete |
+| `the-pointing-game.md` | The Pointing Game (diptych — bed + campus walk) | complete |
 | `together-in-class.md` | Together in Class / Chi Latte (diptych) | complete |
 | `the-meet-cute.md` | The Engineered Meet-Cute | complete |
 | `the-froyo-walk.md` | The Froyo Walk | complete |

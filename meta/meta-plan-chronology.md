@@ -18,7 +18,7 @@
 ### Early — config assembling; both tracks starting; Randi steering, not yet starving
 - [SCENE] The Bench
 - [SCENE] Randi's Walk of Shame
-- [SCENE] Plan Origin / Campus Walk
+- [SCENE] The Pointing Game (diptych — bed + campus walk)
 - [SCENE] Together in Class / Chi Latte
 - [SCENE] The Engineered Meet-Cute
 - [SCENE] The Froyo Walk
@@ -96,9 +96,9 @@ Opening scene, Pace's POV. Their domestic ease rendered; BDSM sequence unhurried
 *Early fall · week 1 · Sat Sep 2* · Draft complete · `randis-walk-of-shame.md` · [detail](meta-condensed-randis-walk-of-shame.md)
 Randi arrives home to Brooke at the chapter laptop. Four minutes that cost Randi the frame she's used to owning. Introduces Brooke; installs the social-penalty thread. Rhymes the Bench's bathroom-mirror beat.
 
-### [SCENE] Plan Origin / Campus Walk
-*Early fall · week 1 · ~Sun Sep 3* · Draft complete · `origin-campus-walk.md` · [detail](meta-condensed-plan-origin.md)
-Post-coital, he draws out her fantasy. The pointing game; when he points at Vee, Randi's composure breaks for one breath — the bare *"Yes"* before the editing catches up. She executes the engineered collision. Plan begins; two of three know.
+### [SCENE] The Pointing Game
+*Early fall · week 1 · ~Sun Sep 3* · Draft complete · `the-pointing-game.md` · [detail](meta-condensed-the-pointing-game.md)
+DIPTYCH. Pace POV throughout, one continuous afternoon. Panel one (bed): post-coital, he draws out her fantasy; orgasm at *"Would you like to taste another woman?"*; she edits the wanting down to *"Only in a threesome, with you"* in the warm afterglow. He sees the move, lets her keep the camouflage — the frame she built to hide in is the exact frame he needs to proceed. Panel two (campus walk): the same act in daylight under a game's costume. He points; she judges. Rotating typology — *too expected*, *they go everywhere together*, *she'd be a project*, the inward girl who gets a *maybe* (and a hard kiss without his mouth wiped, to teach her what the *maybe* costs), the running-the-room girl who gets *"God, no."* The coil sets in; she is shopping. At the dining-hall doors he points at Vee — copper hair, laughing with her whole body — and Randi's composure breaks for one breath: the loose afternoon walk arrested mid-step, the bare *"Yes"* before the editing catches up. She executes the engineered collision so precisely it is the redhead who apologizes. She comes back glowing and failing to hide it — *her feet do a small happy thing on the brick.* Her name is Vee, and they have a stats class together. Plan begins; two of three know.
 
 ### [SCENE] Together in Class / Chi Latte
 *Early fall · week 2 · ~Mon Sep 4* · Draft complete · `together-in-class.md` · [detail](meta-condensed-together-in-class.md)

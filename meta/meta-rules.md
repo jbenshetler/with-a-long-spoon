@@ -132,7 +132,7 @@
 
 ---
 
-## WRITING STYLE — Synthesized from the Bench and the Campus Walk
+## WRITING STYLE — Synthesized from the Bench and the Pointing Game
 
 *These rules describe how the prose operates in the drafted exemplar scenes. Use them to calibrate new drafts and to verify that a completed scene is written in the novel's register.*
 
