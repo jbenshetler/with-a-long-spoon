@@ -19,6 +19,10 @@
       "value": "shoulder-length, worn loose, warm dark red; highlights spark to copper only in direct sun"
     },
     {
+      "attribute": "legs",
+      "value": "longer and more shapely than she sometimes remembers; bare legs in lamplight reveal their actual proportion relative to her self-perception"
+    },
+    {
       "attribute": "nose",
       "value": "snub, tipped up"
     },
@@ -118,6 +122,10 @@
       ]
     },
     {
+      "attribute": "skin_tone",
+      "value": "warm"
+    },
+    {
       "attribute": "class_year",
       "value": "junior in college"
     },
@@ -128,6 +136,10 @@
     {
       "attribute": "hair_color",
       "value": "red"
+    },
+    {
+      "attribute": "name_usage",
+      "value": "AKA Vee, V.T.; 'Vivienne' reserved for weight moments (Pace's deliberate use, formal signatures, maternal anger); 'Vee' in casual register; toggle is deliberate craft choice"
     },
     {
       "attribute": "room_state",
@@ -146,8 +158,28 @@
       "value": "The only carrier who walks out with the long spoon"
     },
     {
+      "attribute": "envy_of_vee",
+      "value": "Randi envies Vee's capacity to show need and receive nourishment; Randi cannot show need, cannot self-supply, so her need runs unmet and perpetually re-filed"
+    },
+    {
+      "attribute": "laugh_style",
+      "value": "raucous and full-bodied, first and uncontained, the laugh of someone setting down something she'd carried up too many stairs"
+    },
+    {
       "attribute": "scholarship",
       "value": "Has a partial scholarship covering the housing premium; only reason she's on campus rather than somewhere cheaper"
+    },
+    {
+      "attribute": "bravery_form",
+      "value": "the operational form of her appetite for full aliveness; the integration of new relational registers into her existing architecture; manifests as concurrent increase in vulnerability and courage across the year"
+    },
+    {
+      "attribute": "eating_style",
+      "value": "Enthusiastic eater; subsists on dining hall, late-night pizza, communal food shared on floors; eats with casual abundance and pleasure, not restraint; typical junior consumption patterns"
+    },
+    {
+      "attribute": "kissing_rule",
+      "value": "does not kiss men she has known only a few days; this rule had never been breached before"
     },
     {
       "attribute": "watchfulness",
@@ -158,12 +190,24 @@
       "value": "Appetite for full aliveness; constitutive, operating from before the novel begins, not separable from her identity"
     },
     {
+      "attribute": "cutting_voice",
+      "value": "habituated internal reflex that produces shame on demand when her body responds to desire; the voice that refuses her body's wanting; shame and arousal wired to the same mechanism"
+    },
+    {
       "attribute": "eating_habits",
-      "value": "Eats like a junior \u2014 dining hall, late-night pizza, communal floor food; an enthusiastic eater"
+      "value": "Eats like a junior \u2014 dining hall, late-night pizza, communal food, enthusiastic eater; unself-conscious about food"
     },
     {
       "attribute": "fashion_taste",
       "value": "Knows what she likes and what suits her; shops cheap places (TJ Maxx) with a good eye; put-together-on-a-budget skill; has taste and less money"
+    },
+    {
+      "attribute": "intimacy_rule",
+      "value": "Does not kiss someone she has known only a few days; maintains this as a firm personal standard consistent with her past behavior"
+    },
+    {
+      "attribute": "love_you_rule",
+      "value": "She will not say 'I love you' first; he must say it first; this is her rule, discovered by internal collision rather than conscious agreement, now binding"
     },
     {
       "attribute": "other_jewelry",
@@ -174,12 +218,24 @@
       "value": "A duffel she packs casually but competently; bought once she started staying at Pace's"
     },
     {
+      "attribute": "pace_metaphor",
+      "value": "crackers vs. meal \u2014 ate crackers her whole life, did not know what a meal was until Pace fed her one; frame through which she understands the transformation he has catalyzed in her"
+    },
+    {
       "attribute": "physical_tell",
       "value": "her feet do a 'small happy thing' when her appetite succeeds"
     },
     {
+      "attribute": "pillow_object",
+      "value": "flannel shirt made by Pace"
+    },
+    {
       "attribute": "vulnerability",
       "value": "Has a 'newly-undefended body' that now expects attention operating at a high resolution"
+    },
+    {
+      "attribute": "analytical_eye",
+      "value": "trained through economics study to read how intelligent people approach multi-path problems; uses this lens to assess people's choices and what those choices reveal about their character and reasoning"
     },
     {
       "attribute": "appetite_logic",
@@ -194,6 +250,10 @@
       "value": "Arousal driven by a humiliation/exposure dynamic that can be engaged in opposite directions \u2014 toward safety or toward exposure"
     },
     {
+      "attribute": "envy_structure",
+      "value": "Envies Vee's capacity to show need and be nourished by it; Randi cannot show need, cannot self-supply, so her need runs unmet and perpetually re-filed\u2014this is the mechanism driving her orchestration of Vee's seduction"
+    },
+    {
       "attribute": "name_etymology",
       "value": "From Latin 'vivus' meaning alive/living; intended to be felt before parsed (load-bearing)"
     },
@@ -203,19 +263,47 @@
     },
     {
       "attribute": "pearl_earrings",
-      "value": "Grandmother's pearl earrings \u2014 the only genuinely good object she owns; came from love, not money; wears them most days, casually"
+      "value": "grandmother's pearl earrings; the one true thing; the only genuinely good object she owns; emotionally and symbolically significant"
+    },
+    {
+      "attribute": "shopping_skill",
+      "value": "shops cheap places with good eye for fit and style; lands put-together-on-a-budget through discernment and treasure-hunt approach (e.g., TJ Maxx); knows what suits her and what she likes; curates aesthetic within financial constraints"
+    },
+    {
+      "attribute": "analytical_lens",
+      "value": "trained eye for reading how smart people handle problems with multiple solution paths; developed through economics study; applies this lens to assess people's choices and what those choices reveal about character and priorities in social and professional contexts"
     },
     {
       "attribute": "role_in_dynamic",
       "value": "M (masochist) \u2014 the arousal-humiliation loop; extraordinarily responsive; extraordinarily skilled at receiving"
     },
     {
+      "attribute": "scent_signature",
+      "value": "clean cotton with warmer underlying note; particularly noticeable at back of neck and in hair"
+    },
+    {
+      "attribute": "shirt_from_pace",
+      "value": "no-tag flannel from Pace's gym bag; well-made with flat seams and proper collar; worn into the ground by Vee without initially knowing Pace made it; carries symbolic meaning of his craftsmanship and devotion"
+    },
+    {
+      "attribute": "special_panties",
+      "value": "one good pair, delicate, chosen deliberately for nights expected to matter; contrasts with everyday cheerful cotton-multipack reality"
+    },
+    {
       "attribute": "structural_fate",
       "value": "Her appetite for full aliveness would eventually bring her into proximity with destructive appetites, making a version of the catastrophe structurally inevitable regardless of the specific people involved"
     },
     {
+      "attribute": "academic_subject",
+      "value": "economics; drawn to the gap between stated rational behavior and actual behavior, the behavioral inconsistencies in human decision-making"
+    },
+    {
+      "attribute": "analytical_skill",
+      "value": "eye for how a smart person handles a problem they could handle in any of several ways; developed over two years; applied outside formal academic contexts"
+    },
+    {
       "attribute": "class_background",
-      "value": "working-class pride; reads menu prices before food"
+      "value": "Working-class (mother: nurse, father: blue collar); reads menu prices before ordering; wired with working-class pride and shame-desire nexus from conservative upbringing"
     },
     {
       "attribute": "core_disposition",
@@ -242,8 +330,20 @@
       "value": "V.T. = Virginia Tech"
     },
     {
+      "attribute": "kissing_rule_men",
+      "value": "Does not kiss men she has known only a few days; has never violated this rule"
+    },
+    {
       "attribute": "pre-meal history",
       "value": "Had only 'crackers' \u2014 fine men, fine friendships, fine pleasures, none formative; she did not name the hunger"
+    },
+    {
+      "attribute": "scent_impression",
+      "value": "soft drift of whatever is in her hair; warm bread-and-skin nothing-smell of a person who has been in a room for hours"
+    },
+    {
+      "attribute": "academic_strength",
+      "value": "finds pleasure in mathematical structure and clean problem-solving; excels at identifying patterns and logical frameworks; experiences satisfaction when abstract concepts reveal their internal organization"
     },
     {
       "attribute": "character_essence",
@@ -262,8 +362,24 @@
       "value": "'Vivienne' used only when the prose wants weight (e.g., a deliberate use by Pace, formal signature, or her mother's anger)"
     },
     {
+      "attribute": "governing_texture",
+      "value": "grounded, warm, unguarded; settled rather than chaotic; genuinely comfortable in herself"
+    },
+    {
+      "attribute": "hiking_experience",
+      "value": "none; has never hiked in her life"
+    },
+    {
       "attribute": "mother_occupation",
       "value": "nurse"
+    },
+    {
+      "attribute": "shopping_approach",
+      "value": "cultivated taste on budget; skilled thrift hunter (TJ Maxx as treasure hunt); lands put-together-on-a-budget aesthetic through good eye and strategic shopping at cheap places; knows what suits her and what she likes, independent of price"
+    },
+    {
+      "attribute": "chest_presentation",
+      "value": "under safe black, does not do elegant; full, does not achieve elegance in clothing"
     },
     {
       "attribute": "core_vulnerability",
@@ -274,16 +390,48 @@
       "value": "cheerful cotton multipack"
     },
     {
+      "attribute": "hair_behavior_wind",
+      "value": "wind lifts and lays it across her face; wind finds her hair the way it always finds her hair"
+    },
+    {
+      "attribute": "pace_flannel_shirt",
+      "value": "handmade by Pace; Vee sleeps in it, keeps it on her pillow; represents Pace's hidden pre-action investment in her"
+    },
+    {
+      "attribute": "sensory_impression",
+      "value": "leaves behind warmth and the soft drift of her hair scent; a warm bread-and-skin nothing-smell that lingers in a space for hours"
+    },
+    {
       "attribute": "specific knowledge",
       "value": "Knows specifically what she is refusing"
+    },
+    {
+      "attribute": "trained_perception",
+      "value": "reads how intelligent people choose among available approaches to problems; identifies when someone deliberately limits their own capability display"
+    },
+    {
+      "attribute": "academic_discipline",
+      "value": "economics; drawn to the gap between how people say they behave and how they actually behave, and to the application of mathematical structure to real-world situations"
     },
     {
       "attribute": "athletic_background",
       "value": "synchronized swimmer; control is real"
     },
     {
+      "attribute": "cassie_relationship",
+      "value": "close confidante and dormmate; Vee instinctively debriefs to Cassie after significant personal events; Vee actively seeks Cassie's approval and understanding; two-year established mutual friendship"
+    },
+    {
       "attribute": "financial_situation",
       "value": "Money is real but doesn't run her mood; runs it close, plans around it, occasional joyful splurges, accepts ramen weeks as the cost; generous within her means"
+    },
+    {
+      "attribute": "hunger_architecture",
+      "value": "cracker_and_meal_model\u2014twenty_years_of_fine_men_fine_sex_fine_relationships_all_crackers_eaten_and_insufficient_hunger_ambient_and_unnamed_because_no_meal_to_register_crackers_against"
+    },
+    {
+      "attribute": "male_gaze_treatment",
+      "value": "dismissed as background presence; eyes pass over her without warming; treated with ease and non-recognition similar to older women, children, or men one meets without further thought"
     },
     {
       "attribute": "narrative_structure",
@@ -294,20 +442,44 @@
       "value": "lush \u2014 abundant, ripe, fertile"
     },
     {
+      "attribute": "relationship_to_vee",
+      "value": "best friend and roommate, two years running"
+    },
+    {
       "attribute": "the special panties",
       "value": "one good pair, lace, soft blush / deep wine / grown-up black (not red); delicate, a little daring for her"
+    },
+    {
+      "attribute": "academic_achievement",
+      "value": "honor society member; received certificate at formal dinner where name was read aloud and she walked to front for recognition"
     },
     {
       "attribute": "appetite_orientation",
       "value": "Seeks sex engaging all three registers simultaneously at maximum density; this is what her appetite has sought from the start"
     },
     {
+      "attribute": "background_readiness",
+      "value": "low background readiness carried everywhere; part of her always braced for the bill of a thing to come due"
+    },
+    {
       "attribute": "casual_name_register",
       "value": "Called 'Vee' in casual register"
     },
     {
+      "attribute": "construction_details",
+      "value": "no tag, no brand, no size marking, beautiful soft flannel, well-made"
+    },
+    {
+      "attribute": "kissing_rule_new_men",
+      "value": "Does not kiss men she has recently met; describes this as an old reflex, a boundary never previously breached"
+    },
+    {
       "attribute": "mechanism_of_bravery",
       "value": "the response to her appetite requires overriding shame; the overriding feels like, and is, bravery"
+    },
+    {
+      "attribute": "original_wound_event",
+      "value": "The bench incident with Pace, where he perceived her authentic self beneath her constructed surface without her consent; she did not agree to being seen; she cannot undo the seeing; she returned despite this"
     },
     {
       "attribute": "physical_description",
@@ -316,6 +488,14 @@
     {
       "attribute": "relational equipment",
       "value": "Has always had the relational equipment hunger requires \u2014 the asking, the receiving, the being-vulnerable-in-the-needed-way."
+    },
+    {
+      "attribute": "shame_arousal_fusion",
+      "value": "Vee's internalized maternal voice of judgment and her physical desire are fused; shame and arousal run on the same wire. The voice's condemnation intensifies rather than suppresses her want. Masochistic orientation rooted in feeling unworthy of love and finding humiliation exciting\u2014about submitting and being done to rather than large pain."
+    },
+    {
+      "attribute": "somatic_knowing_site",
+      "value": "Behind sternum; pre-cognitive emotional dissonance registers as small physical sensation\u2014bodily 'wait' that precedes and outruns conscious articulation"
     },
     {
       "attribute": "vulnerability_source",
@@ -328,6 +508,18 @@
     {
       "attribute": "constitutional_hunger",
       "value": "always constitutionally hungering \u2014 twenty years of fine men/sex/relationships experienced as insufficient 'crackers'; hunger ambient and unnamed until fed a 'meal'"
+    },
+    {
+      "attribute": "intimate_contact_rule",
+      "value": "does not kiss a man she has known only a few days; identifies origin as maternal"
+    },
+    {
+      "attribute": "love_declaration_rule",
+      "value": "Will not declare 'I love you' before Pace does; discovered this rule by bumping against it from the inside; the sentence retired into her body after the porch scene attempt"
+    },
+    {
+      "attribute": "post_year_integration",
+      "value": "Keeps: the becoming, the secretions reframe, the bravery, the new capacities, the transformed relationship to shame (ownership not suppression), the no, the specific knowledge of what she is refusing. Carries: grief at appetite-without-adequate-object, the lasting wound to her capacity to read love (every future partner measured against a standard the partner doesn't know exists)"
     },
     {
       "attribute": "primary preoccupation",
@@ -350,6 +542,10 @@
       "value": "Names the hunger only as 'Fine was not going to keep her' \u2014 the available register for it"
     },
     {
+      "attribute": "body_awareness_paradox",
+      "value": "she was the most of what the room was selling and she was the one with the most fabric on, both at once, and she did not look at either fact straight"
+    },
+    {
       "attribute": "default dressing style",
       "value": "careless dresser / pure function; good jeans, soft top, denim jacket, white sneakers, hair down"
     },
@@ -360,6 +556,14 @@
     {
       "attribute": "financial_independence",
       "value": "Handles her own money; pride is about not being provided for, tied to the relationship not the bank balance"
+    },
+    {
+      "attribute": "hidden_skill_tailoring",
+      "value": "accomplished tailor/seamster; constructs fitted garments by hand including pattern-cutting in silk and collar work requiring multiple attempts to perfect; skill not yet advertised to Vee"
+    },
+    {
+      "attribute": "name_meaning_and_usage",
+      "value": "Vivienne from Latin vivus\u2014alive, living. Load-bearing; should be felt before parsed. Vee in casual register. Vivienne only when prose wants weight: Pace says it once deliberately; she signs something formal; her mother is angry. Toggle deliberate."
     },
     {
       "attribute": "permanent architecture",
@@ -374,20 +578,96 @@
       "value": "Becomes more vulnerable and braver concurrently across the year; the two are the same operation seen from two angles \u2014 vulnerability is new interior depth (exposure-channels), bravery is the apparatus integrating that new register into existing capacities. Both faces increase at the same rate by the same operation."
     },
     {
+      "attribute": "confidante_relationship",
+      "value": "Cassie is her primary dormmate confidante; Vee instinctively debriefs to Cassie after significant personal events and actively seeks her approval and understanding"
+    },
+    {
+      "attribute": "flannel_shirt_from_pace",
+      "value": "handmade by Pace; worn by Vee for sleeping; kept on pillow; represents Pace's hidden investment in Vee prior to main narrative action; object of emotional significance"
+    },
+    {
+      "attribute": "induction_dress_desired",
+      "value": "silk, russet/brick-red colored, from magazine in lobby"
+    },
+    {
+      "attribute": "kissing_rule_recent_men",
+      "value": "Holds a rule against kissing men she has known only a short time; describes as never previously breached and operates as an old reflex rather than conscious decision"
+    },
+    {
+      "attribute": "masochistic_orientation",
+      "value": "rooted in feeling unworthy of love; finds sexual humiliation exciting; centers on submitting and being done to rather than large amounts of pain; responsive to hand spanking and nipple clamps"
+    },
+    {
       "attribute": "secondary preoccupation",
       "value": "Randi and the SATC lunches \u2014 valued as confessional intimacy and 'shame-as-fuel,' experienced as enhancement rather than core"
+    },
+    {
+      "attribute": "self_perception_paradox",
+      "value": "most abundant in the room, most covered, does not look at either fact directly; maintains composure without examining the contradiction"
     },
     {
       "attribute": "wit_as_coping_mechanism",
       "value": "Engages emotionally through the safety of wit rather than directness"
     },
     {
+      "attribute": "best_friend_and_roommate",
+      "value": "Cassandra (Cassie); two-year close friend and dormitory roommate; instinctive confidant whose approval matters to Vee; shares standard double dorm with bunk beds and connecting bathroom; mutual, unforced dynamic contrasting with Randi"
+    },
+    {
+      "attribute": "body_type_vee_perception",
+      "value": "powerlifter physique \u2014 heavily muscled, strength-built (Vee's explicit distinction from bodybuilding aesthetic)"
+    },
+    {
+      "attribute": "grandfather_relationship",
+      "value": "Associated with warmth and non-judgmental care; his method of asking questions made the other person feel their answer genuinely mattered; carries positive emotional weight as contrast to mother's judgment"
+    },
+    {
+      "attribute": "mother_emotional_pattern",
+      "value": "expresses pride through simultaneous crying and vulnerability; the proud cry and the I-never-cry occur together"
+    },
+    {
+      "attribute": "pace_residence_knowledge",
+      "value": "Knows only that Pace lives west of town off Route 614 past where the road becomes gravel; has not visited his house; does not know specific address or appearance"
+    },
+    {
+      "attribute": "romantic_escalation_rule",
+      "value": "Holds a rule against kissing someone known only a few days; never breached before; recognizes it as reflexive self-protective pattern rather than deeply held value; vulnerable to conscious override"
+    },
+    {
+      "attribute": "transformation_apparatus",
+      "value": "integrative; pre-existing hunger-apparatus with relational hardware (asking, receiving, vulnerability, trusting) expands and gains capacity through new openness; the novelty reveals the size of need and satiety"
+    },
+    {
+      "attribute": "academic_subject_and_draw",
+      "value": "Economics; drawn to the gap between what people claim they're doing and what they're actually doing when they think they're being rational; attracted to understanding human behavior beneath surface rationality"
+    },
+    {
       "attribute": "appetite_class_membership",
       "value": "Third member of the destructive-appetite class"
     },
     {
+      "attribute": "chest_elegance_perception",
+      "value": "does not do elegant; owned self-awareness of physical presence in formal/constrained dress"
+    },
+    {
+      "attribute": "dress_induction_reference",
+      "value": "russet silk dress from magazine; described as brick-red color; described in hesitant, searching language to Pace"
+    },
+    {
       "attribute": "experience_of_being_loved",
       "value": "Experiences Pace's attention as the realization of her own desires"
+    },
+    {
+      "attribute": "full_name_and_association",
+      "value": "Vivienne Thorne; shares surname with Virginia Tech; parents find the coincidence funnier than she does"
+    },
+    {
+      "attribute": "love_declaration_boundary",
+      "value": "Will not say 'I love you' first; experiences this as a discovered rule rather than a chosen one; its gravity has become part of her shape"
+    },
+    {
+      "attribute": "mother_emotional_response",
+      "value": "displays simultaneous pride and emotional vulnerability; cries while claiming she never cries"
     },
     {
       "attribute": "self-awareness_of_bravery",
@@ -398,19 +678,193 @@
       "value": "Block heels not stiletto because she can actually walk in them; stiletto reads as trying-too-hard against her self-image; tells herself she chose the sensible one for style"
     },
     {
+      "attribute": "keeps_after_transformation",
+      "value": "the becoming; the secretions reframe; the bravery; the new capacities; the transformed relationship to shame (ownership not suppression); the no; the specific knowledge of what she is refusing"
+    },
+    {
+      "attribute": "bravery_as_integration_form",
+      "value": "The operational form through which Vee's interior integrates vulnerability and appetite; bravery and vulnerability are concurrent operations\u2014the same transformation seen from two angles; each brave act is her appetite reaching for full aliveness"
+    },
+    {
+      "attribute": "cassie_relationship_dynamic",
+      "value": "close friend and dormitory roommate of two years; someone Vee confides in immediately and instinctively; Cassie's approval carries significant emotional weight for Vee; built on mutual understanding and actual reciprocity, unlike transactional elements of other relationships"
+    },
+    {
+      "attribute": "color_palette_compatibility",
+      "value": "warm-toned skin and red hair; cool-toned colors clash; deep wine tones with warm purple undertones complement and read as custom-matched to her coloring"
+    },
+    {
+      "attribute": "cracker_and_meal_craft_rule",
+      "value": "The cracker-and-meal image functions as a writer's tool, not prose vocabulary; it does not appear in prose itself. The hunger is rendered instead as restless texture, recognition of Pace as answer to an unasked question, and unnamed satiety."
+    },
+    {
+      "attribute": "financial_knowledge_of_pace",
+      "value": "Does not know Pace's financial status at acquaintance; question deferred until house visit; resolves as modest middle-class"
+    },
+    {
+      "attribute": "friendship_primacy_with_vee",
+      "value": "Organizes her week around SATC lunches with Vee more than around Pace or sorority; lunches are the most important real thing in her life; genuinely loves the friendship"
+    },
+    {
+      "attribute": "genuine_friendship_with_vee",
+      "value": "The SATC lunches are the most important real thing in her life; she is genuinely in love with the friendship and organizes her week around them more than around Pace or the sorority; beneath the sadism and orchestration, she has authentic emotional attachment to Vee"
+    },
+    {
+      "attribute": "internalized_maternal_voice",
+      "value": "the verdict in mother's voice\u2014shame-based judgment about sexual worthiness and what kind of girl engages in certain acts; wired into her shame-and-desire architecture"
+    },
+    {
+      "attribute": "maternal_voice_on_propriety",
+      "value": "internalized maternal verdicts on etiquette and class; delivers sharp judgments using words like 'common'; immediate, visceral response to social missteps framed through propriety and status"
+    },
+    {
+      "attribute": "analytical_observation_skill",
+      "value": "recognizes and studies how smart people strategically approach solvable problems; developed over two years; applies this pattern-recognition outside formal academic contexts"
+    },
+    {
+      "attribute": "comfort_object_flannel_shirt",
+      "value": "untagged high-quality flannel shirt made by Pace; soft; slept in and worn daily; kept close as comfort object tied to Pace"
+    },
+    {
+      "attribute": "name_aliases_and_usage_rules",
+      "value": "AKA Vee (casual register), V.T. (formal signature); Vivienne used deliberately for weight\u2014when prose demands intensity: Pace says it once deliberately, she signs something formal, her mother is angry. Toggle deliberately. Vivienne from Latin vivus (alive, living)\u2014load-bearing; should be felt before parsed."
+    },
+    {
       "attribute": "sexual_orientation_masochism",
       "value": "masochistic; rooted in feeling unworthy of love and finding sexual humiliation exciting; about submitting and being done to, not large amounts of pain; likes hand spanking and nipple clamps"
+    },
+    {
+      "attribute": "color_harmony_warm_undertones",
+      "value": "red hair with warm undertones and warm-toned skin; deep wine tones with warm purple undertones complement her; cool-undertone colors clash with her natural coloring"
+    },
+    {
+      "attribute": "field_of_study_and_motivation",
+      "value": "Economics; drawn to it because it maps the gap between how people claim to behave versus how they actually behave, and she enjoys finding formal structure in real-world situations"
+    },
+    {
+      "attribute": "kissing_boundary_new_partners",
+      "value": "does not kiss men she has known only a few days"
+    },
+    {
+      "attribute": "honor_society_dress_silk_color",
+      "value": "russet silk, chosen to match Vee's natural coloring rather than her magazine reference; deliberately deeper/richer than the color she had described"
+    },
+    {
+      "attribute": "intimacy_boundary_with_new_men",
+      "value": "does not kiss men she has known only a few days; identifies this as a consistent personal pattern"
+    },
+    {
+      "attribute": "shame_transformation_mechanism",
+      "value": "Constitutional shame is not eliminated but transforms from suppressor to fuel through ownership; shame becomes engager of desire (especially through Pace's direct engagement and Randi's humiliation exposure); after the year, shame quiets in available configurations but remains integrated into her relational apparatus"
     },
     {
       "attribute": "wound to capacity to read love",
       "value": "Lasting; every future partner measured against a standard the partner doesn't know exists"
     },
     {
+      "attribute": "academic_subject_and_motivation",
+      "value": "economics student; drawn to understanding the gap between stated rationality and actual human behavior; seeks to comprehend systemic patterns of contradiction as a path to broader understanding"
+    },
+    {
+      "attribute": "intimacy_rule_new_acquaintances",
+      "value": "Does not kiss men she has known only a few days; identifies this as a consistent personal pattern, not situational choice"
+    },
+    {
+      "attribute": "cracker_and_meal_image_craft_rule",
+      "value": "The cracker-and-meal image is the writer's tool, not prose vocabulary. It does not appear in the prose. The prose renders the hunger as restless texture, the recognition of Pace as the answer to a question she did not have, the satiety she has no name for."
+    },
+    {
+      "attribute": "grandfather_emotional_association",
+      "value": "Warmth and non-judgmental care; his way of asking questions made others feel their answers genuinely mattered; positive emotional weight as contrast to mother"
+    },
+    {
+      "attribute": "shared_social_history_with_cassie",
+      "value": "two years of direct observation of how male attention distributes differently between Vee and Cassie in the same social spaces; experiential knowledge of contrasting social positioning"
+    },
+    {
+      "attribute": "friendship_prioritization_with_vee",
+      "value": "Genuinely loves the friendship with Vee; organizes her week around their SATC lunches more than around Pace or sorority obligations; this friendship is the most important real thing in her life"
+    },
+    {
       "attribute": "valuation of confessional intimacy",
       "value": "intensely values the heat of confessional intimacy and shame-as-fuel in a register Pace does not produce"
+    },
+    {
+      "attribute": "self_image_romantic_agency_baseline",
+      "value": "Vivienne believes: does not perceive herself as an initiator in romantic pursuit; experiences self-initiated kissing as unprecedented and self-surprising"
     }
   ],
   "behavioral_states": [
+    {
+      "state_name": "gaze_toward_vee",
+      "trigger": "Presence of or attention to Vee",
+      "response": "Deliberate, appreciative gaze that reads as a silent request for permission to look, followed by evident gladness at what he sees",
+      "observable": "Vee perceives his look as non-predatory, permission-seeking, and affirming of her presence",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "sadistic_need_displacement",
+      "trigger": "Vee displays vulnerability, openness, or involuntary appetite; situations where Randi perceives another person as the needer",
+      "response": "Randi operates sadistically on the other person, forcing them into the needer-position while maintaining her own un-needy operator stance; extracts shame and witnesses involuntary appetite to participate in aliveness she cannot access directly",
+      "observable": "Randi's behavior becomes controlling and extractive; she positions herself as supplier/operator with hand on the lever; she reframes the other person's agency as helpless wanting rather than choice; she maintains psychological distance through the sadistic frame",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "shame_to_confidence_somatic_shift",
+      "trigger": "composure shifts from shame-charged vulnerability to integrated confidence/reclaimed agency",
+      "response": "straightens posture, pulls shoulders back, feels involuntary rearrangement of how she carries herself; physical sensation of integration happening through her body",
+      "observable": "shoulders pull back, spine straightens, postural realignment occurs; visible change in how she occupies space",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "self_doubt_around_positive_outcomes",
+      "trigger": "good things occurring or being likely (e.g., Pace calling)",
+      "response": "preemptively convinces herself negative outcome will occur; interprets her own worthiness as incompatible with receiving good things",
+      "observable": "She engages in pre-emptive disappointment and self-protective disbelief when faced with situations that suggest she might receive something positive or be valued by someone",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "wind_response_hair",
+      "trigger": "wind",
+      "response": "hair lifts and lays across face",
+      "observable": "wind finds her hair and lifts it, laying it across her face",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "confronted_with_public_arousal",
+      "trigger": "own physical desire or arousal becomes visible/exposed in public situation",
+      "response": "attempts to redirect thoughts away from the arousal; uses dissociative/avoidant mental strategy",
+      "observable": "character's mind seeks escape; internal attempt to break the charge through cognitive deflection rather than through Pace's naming/exposure",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "car_door_courtesy_on_departure",
+      "trigger": "Vee leaves Pace's home",
+      "response": "Pace opens the car door for Vee",
+      "observable": "Pace performs the action of opening Vee's car door each time she departs from his residence",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "sleeps_in_pace_shirt",
+      "trigger": "intimacy with Pace; possession of his shirt",
+      "response": "wears it to sleep habitually; maintains the garment through repeated use",
+      "observable": "shirt worn to bed multiple nights in succession; described as 'all week'",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "romantic_declaration_reciprocity_requirement",
+      "trigger": "moment of romantic intensity; impulse to declare love",
+      "response": "withholds the statement 'I love you' until Pace says it first; maintains this rule as operating constraint on vulnerability",
+      "observable": "In pre-dawn on his porch, she says 'I love you' once with her cheek against his shoulder as the sun comes up\u2014marking the moment she finally speaks it, indicating Pace has now crossed the threshold of saying it first, releasing her from the rule",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "social_fluency_automatic_engagement",
+      "trigger": "perception of social friction or relational need in a room",
+      "response": "her social fluency engages preconsciously to smooth the friction, operating before conscious decision",
+      "observable": "she performs small relational adjustments to ease tension, demonstrating practiced competence at reading and adjusting to interpersonal dynamics without deliberate intention",
+      "distinguish_from": []
+    },
     {
       "state_name": "post_pointing_game_attitude_toward_Vee",
       "trigger": "Any interaction with Vee after the pointing game",
@@ -421,10 +875,73 @@
       ]
     },
     {
+      "state_name": "observing_cassie_invisibility",
+      "trigger": "presence in shared social spaces with men over two-year friendship",
+      "response": "interprets Cassie's consistent social position as undesired despite being seen",
+      "observable": "Vee has tracked across two years that Cassie is acknowledged without being regarded romantically by men in shared spaces",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "attentive_retention_of_unguarded_disclosures",
+      "trigger": "Vee shares details in casual, half-conscious, or unguarded moments",
+      "response": "Pace retains these details and subsequently acts on them, demonstrating close listening even when she does not expect to be heard",
+      "observable": "Pace recalls and implements ideas/needs/preferences Vee mentioned in half-awake or vulnerable states; his actions trace back to her unguarded words",
+      "distinguish_from": []
+    },
+    {
       "state_name": "passive_upward_longing_toward_Randi",
       "trigger": "Vee encounters or perceives Randi",
       "response": "Vee suspends her normal social calculus and comparative self-appraisal; instead of measuring herself against Randi, she experiences a passive, helpless upward longing with no competitive framing",
       "observable": "Vee does not engage in the sizing-up or self-assessment behavior she displays with other women; her affect shifts to a kind of awed, helpless admiration when Randi is present",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "physical_intimacy_early_novel",
+      "trigger": "novel_opening",
+      "response": "Vivienne and Pace have kissed but have not progressed to sexual intimacy; physical contact remains charged and unresolved, enabling the escalation dynamic",
+      "observable": "At story start, their relationship exists in a state of erotic tension with kissing established as a boundary crossed but sexual contact deferred",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "caught_watching_vee",
+      "trigger": "Vee catches Pace watching her",
+      "response": "Pace holds her gaze without looking away, then turns away on his own terms",
+      "observable": "When caught watching Vee, Pace maintains unbroken eye contact until he chooses to disengage",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "performed_social_ease",
+      "trigger": "speaking to someone whose approval she wants; performing confidence or casualness",
+      "response": "voice rises slightly in pitch and takes on a 'trying-to-sound-like-this-happens-to-me' quality",
+      "observable": "pitch elevation and affected vocal quality during social performance",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "social_fluency_activation",
+      "trigger": "conversational beat drops or awkward silence emerges",
+      "response": "automatically reframes the silence or oddity warmly; smooths over gaps as an involuntary response before conscious decision-making",
+      "observable": "She bridges dropped beats in conversation, restoring ease through reflexive warmth before she has decided to do so; operates as an automatic social mechanism rather than calculated choice",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "request_framing_through_technical_necessity",
+      "trigger": "When Pace needs to make requests requiring vulnerability or boundary-crossing from his partner",
+      "response": "Frames the request as a technical necessity of the work, states it as fact rather than demand, then waits without explicitly naming the choice",
+      "observable": "Partner perceives the request as a given condition rather than an option, despite retaining de facto agency to refuse",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "anticipating_misstep",
+      "trigger": "registers that something is about to go wrong or become awkward",
+      "response": "bites lower lip habitually",
+      "observable": "lower lip bite; habitual physical tell during moments of social or practical uncertainty",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "emotionally_risky_speech_preparation",
+      "trigger": "anticipation of emotionally high-stakes statement",
+      "response": "assembles words gradually over extended period, runs them in head in different orders, builds sentence whole before speaking, words arrive complete and pre-formed rather than found in moment",
+      "observable": "character demonstrates this pattern with the porch-scene statement; methodical assembly of vulnerable utterances before vocalization",
       "distinguish_from": []
     },
     {
@@ -967,6 +1484,13 @@
       ]
     },
     {
+      "state_name": "mutual_morning_choreography",
+      "trigger": "early morning, domestic space",
+      "response": "Pace prepares cooled coffee; Vee reaches without signaling; neither acknowledges the act overtly",
+      "observable": "Coffee prepared to drinkable temperature before Vee wakes; Vee's unreflective reach; Pace's deliberate non-attention; pattern recurs without negotiation or explicit coordination",
+      "distinguish_from": []
+    },
+    {
       "state_name": "hands-busy_self-soothe",
       "trigger": "Needs a beat/moment to collect herself",
       "response": "Digs in her backpack",
@@ -1087,10 +1611,661 @@
       ]
     },
     {
+      "state_name": "acts_on_casual_disclosures",
+      "trigger": "Vee shares information casually or without expectation of follow-through",
+      "response": "Pace retains the detail, treats it as meaningful data, and materializes it\u2014often creating or providing the thing Vee mentioned\u2014without being asked to do so",
+      "observable": "Pace makes things for Vee based on her throwaway wants; he remembers and acts on details she has already let go of; his attention treats all her disclosures as consequential",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "morning_routine_attunement_with_Pace",
+      "trigger": "Shared mornings at Pace's residence",
+      "response": "Vee reaches for cooled second coffee cup without looking; both maintain established quiet; choreography is practiced and wordless",
+      "observable": "Pace prepares a cooled second coffee cup without prompting; Vee reaches for it without looking; both hold established quiet during morning routine, indicating practiced domestic attunement across repeated shared mornings",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "shame_bracing_posture",
+      "trigger": "when ashamed or bracing for judgment",
+      "response": "physically collapses inward with apologetic stoop, shuts eyes, turns face away; may not be aware until external disruption",
+      "observable": "inward body collapse, reduced physical presence, eye closure, face turned away from observer",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "direct_gaze_pattern",
+      "trigger": "Vee catches Pace watching her",
+      "response": "He is already looking at her face, not her body; he does not look away when caught",
+      "observable": "When Vee looks over, Pace is already watching her face \u2014 specifically her face in front of the valley \u2014 and maintains his gaze without breaking eye contact or deflecting",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "anticipatory_comfort_provision",
+      "trigger": "Vee's scheduled arrival at Pace's house",
+      "response": "Pace turns up the heat in advance so the space will be warm and comfortable when she arrives",
+      "observable": "The house is noticeably warm; Vee does not experience cold upon entering; evidence of premeditated environmental adjustment",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "emotional_closure_refusal",
+      "trigger": "Vee prepares and deploys a carefully calibrated emotional statement seeking a specific response from a partner",
+      "response": "Does not receive the answer/matching response she was waiting for",
+      "observable": "Vee does not repeat that emotional opening or offer the same vulnerability again; the statement retires permanently into her body; she stops attempting to create the opening he failed to take",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "no_kiss_on_brief_acquaintance",
+      "trigger": "recently meeting a man (known only a few days)",
+      "response": "does not kiss him",
+      "observable": "stated as personal rule; never has done so despite opportunities",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "files_unresolved_feelings",
+      "trigger": "experiences unresolved feelings, unconfirmed impressions, or emotional ambiguity regarding Pace",
+      "response": "files them into an internal container (not empty, containing accumulated small flickers and moments across months); does not act on them or seek clarification",
+      "observable": "internal psychological habit of deferring resolution; accumulation of stored ambiguous feelings and moments that she does not process or externalize",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "anxious_or_uncertain",
+      "trigger": "anxiety or uncertainty",
+      "response": "bites lower lip",
+      "observable": "lower lip shows bite marks or is visibly between teeth when Vee is anxious or uncertain",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "emotional_restraint_protocol",
+      "trigger": "moment of potential vulnerability or opportunity to declare love",
+      "response": "withholds declaration; maintains silence; internalizes the sentence",
+      "observable": "In the pre-dawn porch scene, Vee says 'I love you' once as an opening for Pace to reciprocate, and when he does not answer, she consciously decides not to offer the opening again; the rule becomes embodied restraint",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "conversational_thread_recovery",
+      "trigger": "loses the thread of what someone is saying in conversation",
+      "response": "habitually recovers lost conversational threads before the other person notices; maintains her end of the exchange through constant small effort; registers this as work",
+      "observable": "in dialogue scenes, Vee demonstrates seamless conversational continuity despite internal disengagement; others perceive no dropped threads; her internal monologue tracks the effort cost of this maintenance",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "body_covering_tension",
+      "trigger": "awareness of own conventionally desirable figure and visible femininity",
+      "response": "consistent layering of clothing; frames visibility as inviting unwanted attention; experiences covering as an invisible choice",
+      "observable": "habitual selection of loose, layered garments (sweaters, jackets, sports bras); avoidance of form-fitting visibility despite having wardrobe capable of it; interior conflict between comfort in body and externalization of it",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "financial_anxiety_in_social_setting",
+      "trigger": "dining in social setting with financial pressure present",
+      "response": "reads right side of menu first (prices) before examining food options",
+      "observable": "menu-reading order and eye-movement pattern when entering restaurant or receiving menu",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "safe_arrival_notification",
+      "trigger": "leaves Pace's house after intimate encounter",
+      "response": "sends Pace a photograph of her own front door (with year-round wreath) to confirm she has arrived home safely",
+      "observable": "text message with photo of front door wreath serves as non-intrusive safety confirmation without requiring him to ask",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "defers_to_randi_social_authority",
+      "trigger": "Randi offers social insight or judgment about interpersonal dynamics Vee is uncertain about",
+      "response": "Vee laughs and accepts Randi's reading as correct; Vee trusts Randi's assessment of social registers and small social truths",
+      "observable": "Vee laughs because Randi was right, the way Randi was usually right about the small social registers Vee was operating in",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "model_maintenance_mode",
+      "trigger": "Moments arise that do not fit her internalized 'reliable-Pace model'",
+      "response": "Performs small internal repair work on the model rather than revising it fundamentally; files discrepant moments rather than confronting them",
+      "observable": "Pattern of incremental model adjustment visible through her internal narrative and selective reporting to others; moments of cognitive friction followed by reframing rather than direct questioning of Pace",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "knowledge_of_pace_residence",
+      "trigger": "Entry into main narrative action",
+      "response": "Vee knows Pace lives west of town off Route 614 past the gravel road turnoff; has not visited; has not determined his financial circumstances",
+      "observable": "Vee's limited knowledge constrains her agency and creates information asymmetry with Pace",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "social_rhythm_management",
+      "trigger": "conversational beat drops or awkward silence",
+      "response": "Trained social fluency rises involuntarily; bridges gaps, reframes others' silences as charming features, manages interpersonal rhythm before conscious intervention",
+      "observable": "Vee smooths over dropped conversational beats and interpersonal tension through automatic intervention",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "food_self_surveillance_in_social_settings",
+      "trigger": "eating in the presence of others",
+      "response": "maintains habitual self-monitoring layer around food consumption; registers absence of this self-surveillance as unusual and notable",
+      "observable": "visible hesitation, self-consciousness, or awareness during meals with others; shift in demeanor when self-surveillance is suspended",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "receiving_unexplained_observation",
+      "trigger": "notices a detail she cannot yet explain about a person",
+      "response": "files it into a mental category of 'weird things' and lets it go; sits with unresolved information for extended period without pressing for answers",
+      "observable": "Vee observes something inconsistent or unclear about another character's behavior or presentation, acknowledges it internally, then moves forward without demanding clarification or resolution",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "responsive_to_vee_distress_signal",
+      "trigger": "Vee signals a problem on the trail",
+      "response": "Turns at once when called and comes two steps back down to her without hesitation",
+      "observable": "Pace's immediate physical pivot and descent toward Vee after her signal; the two-step return; the absence of delay or questioning",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "intimate_boundary_observer",
+      "trigger": "Recently meeting a man (few days of acquaintance)",
+      "response": "Declines to kiss; enforces personal rule framed as maternal wisdom",
+      "observable": "Vee maintains a policy against kissing men she has known only a few days, identifying this as consistent with her history and values",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "door_opening_care",
+      "trigger": "walking Vee to her car",
+      "response": "opens the car door for her",
+      "observable": "Pace physically opens Vee's car door as a consistent practice during departures",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "social_visibility_response",
+      "trigger": "Being seen by peers in socially elevating contexts or desirable company",
+      "response": "Experiences private, pleasurable lift; consciously contains the feeling; refuses to let it show on face; internally reaffirms desire to be perceived as belonging in elevated social contexts",
+      "observable": "Controlled facial composure despite internal satisfaction; sustained presence in elevated social contexts; no visible performance or relief-seeking behavior",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "direct_eye_contact_with_vee",
+      "trigger": "Vee notices Pace looking at her face",
+      "response": "Pace maintains eye contact and does not look away; allows himself to be caught",
+      "observable": "Pace's gaze remains on Vee's face when she becomes aware of it; no deflection or shame response",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "bill_payment_autonomy",
+      "trigger": "social situation with financial disparity / being in a group where others are wealthier",
+      "response": "insists on paying her own portion; tips well; refuses to become indebted or positioned as 'the broke girl'",
+      "observable": "Vee will separate her portion of the bill, calculate her share precisely, and tip generously even when it costs her; she will decline offers to be bought as a matter of visible principle",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "emotional_stirring_response",
+      "trigger": "emotionally stirred",
+      "response": "places hand briefly to collarbone without conscious awareness of the gesture",
+      "observable": "recurring physical gesture to collarbone when experiencing emotional disturbance; character does not consciously register performing this action",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "maternal_voice_food_limitation",
+      "trigger": "taking food portions beyond what feels minimal",
+      "response": "internally hears mother's voice saying 'that's plenty, that's enough now' and constrains intake",
+      "observable": "Vee visibly hesitates or reduces food portions; demonstrates self-monitoring around eating; voices internal dialogue about sufficiency/scarcity rooted in maternal messaging",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "desire_overrides_control",
+      "trigger": "desire threatens her intention to maintain control",
+      "response": "wanting spills out unplanned and unschemed; spontaneous expression before deliberation can occur",
+      "observable": "moments when her hunger or need expresses itself before she can decide whether to suppress it; physical manifestations (breath change, spontaneous actions) rather than calculated choices",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "intimacy_comfort_seeking",
+      "trigger": "possession of Pace's shirt after the fitting",
+      "response": "sleeps in the shirt repeatedly over multiple nights",
+      "observable": "Vee wearing Pace's shirt to bed as a habitual behavior during the week following the fitting scene",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "somatic_precedence",
+      "trigger": "emotional or relational stimulus; moment of vulnerability, arousal, or confrontation",
+      "response": "body responds first with physical tell before mind permits conscious processing or articulation; response rendered before cognition activates",
+      "observable": "Visible somatic signatures (breath change, flush, tremor, stillness, movement) occur before Vee's verbal or cognitive response; her physiology betrays what her mind is still processing",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "aesthetic_arrest_to_natural_beauty",
+      "trigger": "encounter with genuine natural beauty",
+      "response": "physical arrest preceding mental awareness; breath leaves; falls into wordless looking; body stops her before mind does",
+      "observable": "visible cessation of movement, suspended breathing, absence of verbal response, eyes fixed on source of beauty, delayed return to self-awareness",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "conversational_thread_maintainer",
+      "trigger": "social interactions, conversations",
+      "response": "habitually catches the thread of conversation before dropping it; performs small constant work of keeping up her end",
+      "observable": "In conversations, Vee demonstrates sustained engagement by actively maintaining threads and her part in dialogue rather than allowing exchanges to lapse",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "restrained_emotional_response",
+      "trigger": "Vee delivers her cracker-and-meal speech (displaced I love you) against his shoulder at pre-dawn on the porch",
+      "response": "His hand presses once on her shin in a small held press then stops; he takes two breaths in succession\u2014an unusual respiratory tell he does not normally exhibit",
+      "observable": "physical hand gesture held deliberately brief; atypical double-breath pattern audible to Vee; demonstrates his processing of her emotional opening without verbal reciprocation",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "maternal_food_monitoring_internalized",
+      "trigger": "eating, food choices, body awareness moments",
+      "response": "internalizes mother's monitoring voice; self-regulates food intake even in mother's absence; carries maternal judgment as internal apparatus",
+      "observable": "hesitation before eating, awareness of food quantities/prices, self-consciousness about appetite, internal dialogue echoing mother's judgments around consumption",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "room_assessment_pattern",
+      "trigger": "entering a room of social or spatial uncertainty",
+      "response": "perceives the room holistically and in detail, taking its measure to locate her own place within it",
+      "observable": "Vee enters an unfamiliar social space and immediately orients by reading the full room at once rather than focusing on individuals or adapting reactively",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "non_intervention_on_emotional_pivot",
+      "trigger": "Vee attempts to pivot away from an emotional topic",
+      "response": "Cassie lets the pivot happen without pressing; does not force deeper engagement",
+      "observable": "Cassie does not redirect conversation back to the emotional subject; maintains acceptance of Vee's boundary-setting",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "genuine_friendship_centrality",
+      "trigger": "The SATC-style lunches with Vee; moments of being alone with Vee; planning weekly social calendar",
+      "response": "Organizes her week around the lunches more than around Pace or sorority obligations; prioritizes Vee's company and finds genuine joy, warmth, and meaning in the friendship; treats Vee as the most real and important thing in her adult life",
+      "observable": "Randi schedules her week to protect lunch time with Vee; she looks forward to these meetings; she is moved by Vee's bravery, joy, and growth; she experiences gratitude toward Vee for treating her as a full person rather than a decorative object",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "cutting_voice_shame_arousal_loop",
+      "trigger": "body responds with wanting or arousal",
+      "response": "habituated internal voice produces shame on demand; shame and arousal collapse into the same wire; cutting verdict becomes heat",
+      "observable": "character's prose regresses under this pressure; voice becomes smaller, younger, simpler; body-response immediately followed by self-negating internal narration",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "secretions_delight_reframe",
+      "trigger": "Pace witnesses Vivienne's involuntary bodily responses (lubrication) during sexual encounter",
+      "response": "Pace greets the evidence with genuine delight and beams at her body's responses; Vivienne internalizes this as reframing from shame-based condemnation to evidence-of-landing",
+      "observable": "Pace's delight at Vivienne's wetness; his beaming at her body's involuntary responses; Vivienne's shift from internalized shame to acceptance of bodily autonomy as positive feedback",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "uncontained_joy_physicality",
+      "trigger": "strong positive emotion in constrained space",
+      "response": "physically externalizes through impulsive full-body movement (spinning, arms up, hair flying); laughs at herself immediately after",
+      "observable": "spinning, raised arms, hair movement, self-aware laughter in immediate aftermath",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "suppressing_class_based_discomfort",
+      "trigger": "exposure_to_financial_disparity_or_class_markers",
+      "response": "consciously compartmentalizes by mentally relocating uncomfortable thoughts rather than processing them",
+      "observable": "Vee reviews menu prices before ordering; maintains practiced emotional distance from family financial situation; does not process or discuss class-rooted shame",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "acts_before_naming_desire",
+      "trigger": "desire or want that conflicts with conscious self-narrative",
+      "response": "acts on the desire (e.g., choosing specific underwear) while explicitly refusing to articulate or acknowledge the hope/motivation behind the action; refuses retrospective naming even when directly examined",
+      "observable": "pattern of decisions made with clear intentionality followed by explicit verbal/internal denial of the motive; gap between action and articulation",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "pragmatic_ambiguity_handler",
+      "trigger": "encounters something she cannot explain or categorize",
+      "response": "investigates briefly, then files it away mentally under 'weird things' and releases need for resolution",
+      "observable": "Vee does not press for answers when faced with unexplained phenomena; she demonstrates comfort with unresolved mystery and does not ruminate",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "impulsive_emotional_disclosure",
+      "trigger": "experiences emotionally significant events; removes coat upon arrival",
+      "response": "begins speaking aloud immediately; processes by vocalizing before reflection; leads with personal news rather than withholding",
+      "observable": "speaks before removing coat; shares emotional experiences impulsively and without strategic delay",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "receptive_restraint_to_expressed_want",
+      "trigger": "Vee shares something she wants but cannot afford",
+      "response": "Receives expressed want without minimizing, offering, or redirecting; acknowledges simply and lets moment close without pressure",
+      "observable": "Pace does not attempt to solve, provide, or redirect Vee's expressed desires when she articulates wants beyond her means; instead demonstrates emotional acknowledgment followed by graceful closure",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "integrated_depth_expansion",
+      "trigger": "Pace's sustained, careful attention and transformation across the year",
+      "response": "Interior opens at new registers creating exposure-channels; apparatus integrates new registers into existing relational equipment and capacities",
+      "observable": "Vee demonstrates increased vulnerability (openness, exposure, new depths revealed) and increased bravery (trust, asking, receiving, relational capability) concurrently and at equal rates throughout the year",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "concurrent_vulnerability_and_bravery_integration",
+      "trigger": "exposure of previously closed interior registers through relational deepening (particularly through Pace's attention)",
+      "response": "integrates new emotional depths into existing capacities; vulnerability and courage increase at same rate as interior opens; apparatus restructures to accommodate new openness",
+      "observable": "Vee demonstrates increased emotional openness (new exposure-channels) while simultaneously exhibiting increased courage in acting on newly-revealed depths; both metrics scale together across the narrative year as her apparatus integrates previously unavailable registers into her relational and behavioral repertoire",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "social_warmth_and_charisma",
+      "trigger": "presence in social settings",
+      "response": "laughs that carry, leads in dancing, tells good stories with embellishment, warm with strangers, remembers names, makes friends easily, says yes to invitations, first on dance floor, funny and self-deprecating without woundedness, lights up people around her",
+      "observable": "others respond positively to her presence; she is remembered by service workers and acquaintances; she naturally initiates connection in social spaces",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "somatic_reactivity_precedence",
+      "trigger": "stimulus or emotional load presented",
+      "response": "body responds before mind permits; physical/somatic response occurs prior to cognitive processing or permission",
+      "observable": "render response, then cognition\u2014never cognition first",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "strategic_exit_without_confrontation",
+      "trigger": "discovers coordination between Pace and Randi; experiences betrayal",
+      "response": "leaves without explanation; does not retrieve abandoned intimate items; refuses confrontation with either party",
+      "observable": "physical departure; absence of explanation to Pace or Randi; items left behind",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "shame_as_relational_fuel",
+      "trigger": "Engagement by specific relational configurations (Pace's direct engagement, Randi's exposure-humiliation, absence of engagement from fine men)",
+      "response": "Shame transitions from suppressor of desire to fuel for desire; ownership replaces suppression; shame quiets in available configurations but remains constitutional, with Vee maintaining awareness of it alongside her appetite",
+      "observable": "Vee's flushing, loss of thread, half-smile when approaching shameful memories; capacity to sustain desire across year while maintaining integrated relationship to shame rather than eliminating it",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "background_vigilance_for_cost",
+      "trigger": "entering social or romantic situations",
+      "response": "carries persistent low readiness for situation to go wrong or enjoyment to come with a cost; vigilance operates beneath conscious awareness",
+      "observable": "pattern becomes visible to her only when it is absent; operates as low-level scanning for potential harm or hidden price tag on pleasure",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "emotional_compartmentalization",
+      "trigger": "Unresolvable emotional realizations or feelings that cannot yet be articulated",
+      "response": "Files the matter in an internal store without examination; continues functioning and loving without raising unresolved matters verbally; does not seek confirmation that would require her to speak first",
+      "observable": "Absence of verbal processing; maintenance of relational ease despite accumulated uncertainties; willingness to move forward without resolution or explanation",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "maternal_restraint_trigger",
+      "trigger": "moments of small indulgence or taking more than a modest amount",
+      "response": "anticipates maternal disapproval; automatic reflex of restraint; internal policing of appetite",
+      "observable": "visible hesitation before indulgence, self-rationing behavior, anticipatory shame before consumption, verbal acknowledgment of 'being too much'",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "epistemic_ease_with_ambiguity",
+      "trigger": "encounters something unexplained or uncategorizable",
+      "response": "investigates briefly, then files it away mentally under 'weird things' and releases the need for resolution",
+      "observable": "In scenes where Vee encounters mysterious or contradictory details (like an unexplained flannel shirt), she asks a clarifying question or two, then accepts the gap and moves forward without pressing for answers or ruminating",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "immediate_emotional_processor",
+      "trigger": "experiences emotionally significant events; returns to familiar space (dorm, etc.)",
+      "response": "begins speaking aloud impulsively about the experience; talks before removing coat or settling in; processes by verbalizing rather than containing",
+      "observable": "Character articulates emotional experiences immediately upon arrival, without filtering or delay; contrasts sharply with her refusal to over-explain the threesome aftermath, which represents a learned boundary rather than her default mode",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "emotional_overflow_expression",
+      "trigger": "emotionally overwhelmed with happiness or joy",
+      "response": "rises from seated position and performs a spontaneous, clumsy full-body spin with arms raised and hair flying; laughs at herself when the movement concludes",
+      "observable": "full-body spin with upraised arms, hair motion, self-directed laughter; physically cannot remain seated when joy reaches overflow threshold",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "erotic_psychological_register_exposure",
+      "trigger": "Being admired, admitting things, being seen responding, being given direction or commands",
+      "response": "Intense arousal and excitement; feels safe in her own body; experiences genuine desire to be perceived and directed",
+      "observable": "Vivienne seeks out situations where Pace directs her, tells her what to do, or witnesses her responses; she becomes more animated and engaged when acknowledged and commanded by Pace specifically",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "hunger_recognition_pattern",
+      "trigger": "Encounters Pace; pre-existing constitutional hunger meets its unnamed answer",
+      "response": "Recognizes satiety she cannot name; experiences restless texture resolving into recognition of him as the solution to an unformulated question",
+      "observable": "Shifts from crackers (fine but formative) to meal (the not-fine her appetite was waiting for); on bus realizes the shapes match",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "shame_as_erotic_ignition",
+      "trigger": "approach to erotic threshold or exposure (physical escalation, being caught reacting, naming of her tells)",
+      "response": "physiological arousal intensifies; shame fuels rather than blocks desire; body tells (flushing, losing thread, wrong half-smile) indicate the charge is running",
+      "observable": "In erotic scenes, Vee's arousal correlates directly with shame activation. When shame is present (being caught, being named, transgression), arousal escalates. When shame is absent, the scene flattens. Her tells\u2014body language, coloring, loss of composure\u2014reveal shame is not a brake but the engine.",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "conversational_attentiveness_maintenance",
+      "trigger": "social_interaction_and_conversation",
+      "response": "habitually_catches_dropped_threads_maintains_responsiveness_performs_attentiveness_as_continuous_low_level_effort",
+      "observable": "pattern_becomes_visible_only_when_vee_stops_performing_it_revealing_the_effort_had_been_constant",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "self_soothing_through_touch",
+      "trigger": "emotional intensity or moments of shame/exposure",
+      "response": "touches hand to collarbone in unconscious gesture",
+      "observable": "hand moves to collarbone without deliberate awareness; occurs during conversations about intimate moments, shame, or vulnerability",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "conversational_maintenance_labor",
+      "trigger": "engaged in conversation or social interaction",
+      "response": "habitually monitors and manages conversations to maintain her end\u2014catching dropped threads, maintaining responsiveness, performing attentiveness\u2014as constant low-level effort",
+      "observable": "the effort becomes recognizable only when she stops performing it; others experience her as exceptionally responsive and attuned in conversation",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "defensive_retreat_after_exposure",
+      "trigger": "Vee says something emotionally exposed or vulnerable",
+      "response": "immediately winces at her own admission and offers the other person an exit by suggesting they both pretend she didn't say it",
+      "observable": "physical wince; half-smile that reads wrong; verbal deflection offering permission to disregard what she just said",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "arrival_departure_asymmetry",
+      "trigger": "Vee visits Pace's home",
+      "response": "Arrives put-together; leaves visibly undone with wrecked hair, soft and not redone; does not mind Pace seeing her in that state",
+      "observable": "Hair appearance and grooming state change; Pace interprets unhaired state as form of trust extended specifically to him",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "somatic_response_to_romantic_intensity",
+      "trigger": "unexpected romantic excitement or being looked at with romantic intensity",
+      "response": "shoulders settle differently, something in chest goes quiet, afterward chest behaves as if she has taken stairs too fast",
+      "observable": "visible physical settling of shoulders, observable quieting of chest tension, post-response breathing pattern resembles exertion recovery",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "immediate_emotional_disclosure",
+      "trigger": "receiving exciting personal news or positive experience",
+      "response": "leads with emotional disclosure; shares involuntarily before composing herself, often before removing coat or fully organizing thoughts",
+      "observable": "When Vee returns from the Fitting and tells Cassie, the news emerges from her before deliberate filtering\u2014evidence of her relational transparency and inability to suppress emotional immediacy",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "social_space_reading",
+      "trigger": "entering unfamiliar social environment with uncertainty",
+      "response": "rapidly reads and catalogs room hierarchy and locates own position within it; uses detailed environmental assessment to achieve felt settlement before emotional processing",
+      "observable": "Vee visibly scans social spaces systematically; settles into discomfort by mapping social structures; achieves composure through cognitive orientation rather than emotional adjustment",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "absence_of_prior_prioritization",
+      "trigger": "encounter with Pace's sustained, patient attention",
+      "response": "struck, vulnerable, receptive; the novelty of being waited on is disorienting and transformative",
+      "observable": "Vee's heightened responsiveness to Pace's attention; her readiness to receive and trust; the contrast between her settled self-sufficiency and her hunger for relational prioritization",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "unperforming_ease_with_pace",
+      "trigger": "in Pace's presence or leaving his space",
+      "response": "does not fix or manage her appearance; arrives composed but leaves visibly undone and remains unselfconscious about this visibility",
+      "observable": "arrives put-together, leaves undone, does not re-present herself before departure or in his sight; contrasts sharply with her curation elsewhere",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "social_presence_and_relational_warmth",
+      "trigger": "Interaction with others in social contexts",
+      "response": "Generates warmth, humor, and connection; laughs that carry; says yes; initiates on dance floor; tells stories with embellishment; remembers names; makes friends easily; self-deprecating humor without woundedness",
+      "observable": "The laugh that carries across bars; first on dance floor at events; creates friendships in transactional spaces like bathroom lines; warm with strangers; remembered by service workers; people light up around her; generates currency through social ease",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "flushing_in_vulnerability",
+      "trigger": "unexpected or uncontrolled intimacy; being caught in moments of exposure or vulnerability",
+      "response": "visible flushing and bodily heat; loses narrative thread; half-smile; becomes flustered; body betrays conscious processing lag",
+      "observable": "skin coloring (flush to face/chest), heat sensation, disrupted composure, visible tell that Randi and Pace can read and name",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "somatic_precognition",
+      "trigger": "emotional or intuitive information her body registers before conscious mind catches up",
+      "response": "experiences localized physical sensation behind sternum as pre-articulate question; body signals before thought forms",
+      "observable": "physical 'wait' sensation in chest cavity; internal pause before conscious articulation of emotional recognition",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "unresolved_emotional_ambiguity_regarding_pace_understanding",
+      "trigger": "Vee's earlier displacement declaration ('I love you' via cracker-and-meal figure) followed by Pace's response that left her unable to determine whether he understood her real meaning or not",
+      "response": "Vee carries forward an unspoken, unresolved question about Pace's comprehension; she does not raise it because articulating it would require her to first say directly what she still cannot say; Pace remains unknowing that she is holding this question",
+      "observable": "Entering the Christmas fight, Vee's internal state contains this unresolved ambiguity about Pace's empathic reading in the porch scene; her silence on the matter; Pace's lack of awareness that she is uncertain about whether he understood",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "background_readiness_for_cost",
+      "trigger": "social situations, particularly with men",
+      "response": "carries low-level bracing for things to go wrong; anticipates cost or consequence; readiness operates beneath conscious awareness",
+      "observable": "becomes visible only in its absence\u2014when the bracing is not present, observers can detect the shift in her posture or presence",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "pre_constructs_safe_versions_of_emotional_truth",
+      "trigger": "experiences emotions or truths she cannot safely name aloud; pressure to maintain social acceptability conflicts with desire for authenticity",
+      "response": "edits unacceptable emotional content from narrative before sharing; maintains presentable version ready for disclosure; experiences internal pressure to release unedited version to trusted people",
+      "observable": "in dialogue or internal monologue, Vee filters her own story; listeners sense withholding; with Cassie or Pace (in moments of trust), she struggles between the edited version and the full truth; the gap between her inner experience and what she voices becomes a visible point of tension",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "rapid_normalizing_explanation_under_exposure",
+      "trigger": "Senses she has over-exposed herself emotionally",
+      "response": "Rapidly constructs a normalizing explanation (typically social or factual), files it before the feeling can fully surface, defaults to the most innocent available interpretation of events",
+      "observable": "Pattern of deflection through innocent reframing; body language contradicts the constructed narrative (flushing, loss of thread, wrong half-smile); gap between what her body reveals and what her mind rationalizes",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "agency_assertion_on_rule_violation",
+      "trigger": "Vee acts against her own stated rules or habits",
+      "response": "Emphasizes her own deliberate agency in the moment; insists the choice was hers, done on purpose, not induced or talked into",
+      "observable": "When Vee breaks a personal pattern, she verbally or internally frames the transgression as her own deliberate decision rather than external pressure or seduction",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "agency_assertion",
+      "trigger": "personal agency in romantic moment is questioned or doubted",
+      "response": "immediate and emphatic insistence on her own autonomy; quick assertion that romantic choices are deliberate and self-initiated, not result of persuasion or intoxication",
+      "observable": "Vee verbally and decisively pushes back against any implication that her romantic decisions were coerced, influenced by altered states, or passive acceptance rather than active choice",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "listening_to_good_news",
+      "trigger": "Vee shares good news with Cassie",
+      "response": "Cassie is genuinely and openly glad for Vee, but balances warmth with dry, deflating humor; her gladness has a flat dry floor under it",
+      "observable": "When Vee talks about positive developments (especially regarding Pace), Cassie demonstrates authentic happiness while maintaining a counterbalancing dry or slightly deflating comedic tone",
+      "distinguish_from": []
+    },
+    {
       "state_name": "post_kiss_instinctive_touch",
       "trigger": "Randi kisses her goodbye",
       "response": "Puts two fingers to her mouth without consciously deciding to",
       "observable": "Fingers raised to lips immediately after the kiss",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "pleasure_in_public_admiration",
+      "trigger": "being noticed or admired in flattering social contexts",
+      "response": "experiences private lift of pleasure while maintaining composed exterior; does not allow pleasure to show on face",
+      "observable": "internal pleasure contrasted with external composure; face remains controlled despite positive social attention",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "financial_pride_performance",
+      "trigger": "financial strain visible in social situations; risk of being marked as without money",
+      "response": "insists on paying own way; tips generously despite personal hardship; refuses visible marking of financial disparity",
+      "observable": "Vee reaches for check first; maintains composure around money talk; tips exceed her means; never accepts money offers that would create obligation or visibility of need",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "room_survey_and_positioning",
+      "trigger": "entering unfamiliar social spaces",
+      "response": "rapidly surveys and catalogues the room in full detail; locates own position within it before committing to presence",
+      "observable": "Vee systematically takes in spatial and social layout upon entry to unfamiliar environments, establishing orientation before engaging",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "relational_priority_over_task_assessment",
+      "trigger": "Presented with a large or intimidating commitment that someone she cares about is attached to",
+      "response": "Agrees to the commitment before fully weighing its difficulty; the yes emerges from connection motivation rather than task evaluation",
+      "observable": "Vee says yes to daunting things when motivated by the person rather than by her own risk assessment of the task itself",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "external_validation_dependency",
+      "trigger": "Vee experiences a significant emotional or relational event; Vee seeks Cassie's perspective first",
+      "response": "Vee brings her most significant emotional experiences to Cassie; Cassie's belief or approval functions as external validation that something is real for Vee; Cassie serves as the control case against which Vee can read the authenticity of other relationships",
+      "observable": "Vee prioritizes Cassie's interpretation of events over her own initial self-assessment; Cassie is positioned as the closest confidante and roommate; late reconciliation dialogue suggests Vee recognizes Cassie saw truth Vee did not; the relationship is characterized by warmth without agenda, forming the control case against Randi's orchestrated 'friendship'",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "pre_conscious_desire_enactment_with_retrospective_denial",
+      "trigger": "Desire or want that conflicts with conscious self-narrative or pride",
+      "response": "Acts on the desire through concrete choices (e.g., selecting specific underwear) while explicitly declining to name or articulate the hope, motivation, or desire behind the action; refuses to acknowledge the pattern even in retrospect",
+      "observable": "Vee makes deliberate choices aligned with unstated wants; when questioned about motivation, declines to articulate the desire or claim that any desire existed; post-hoc refuses to assign meaning to her own actions",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "emotional_deferral",
+      "trigger": "unresolvable feelings or realizations she cannot articulate",
+      "response": "files them internally without examination, continues functioning and loving, does not raise matters verbally or seek confirmation that requires her to speak first",
+      "observable": "accumulation of unexamined emotional uncertainties; continued relational warmth despite unprocessed doubt; absence of verbal disclosure or requests for reassurance in moments of internal conflict",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "boundary_maintenance_under_sexual_pressure",
+      "trigger": "Vee actively and deliberately offers sexual availability; direct sexual pressure from her",
+      "response": "Holds a chosen line; communicates the cost of restraint rather than pretending it is effortless; returns to committed work",
+      "observable": "Pace declines the easy yes despite arousal and temptation; explicitly names the cost of his restraint to Vee; demonstrates followthrough on prior commitments",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "self_soothing_via_collarbone_touch",
+      "trigger": "emotional intensity or moments of shame/vulnerability",
+      "response": "touches hand to collarbone as unconscious gesture",
+      "observable": "hand movement to collarbone region during emotionally charged scenes, particularly when ashamed or exposed",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "car_door_opener_for_vee",
+      "trigger": "Vee leaves Pace's house",
+      "response": "Pace consistently opens the car door for Vee",
+      "observable": "Pace's hand on the car door frame; the door opening before Vee reaches it; the gesture repeated across multiple departures",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "arousal_response_management",
+      "trigger": "social situations or moments of exposure/being seen",
+      "response": "experiences involuntary strong physical arousal; attempts to suppress or manage it out of public awareness; body consistently overrides conscious control; manifests as flushing, losing composure, visible tells that betray her state",
+      "observable": "color/flushing, loss of thread in speech, inappropriate half-smile, physical discomposure when aroused in public or being observed",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "financial_autonomy_in_social_contexts",
+      "trigger": "social setting with wealthier peers; moment of potential financial obligation or gift",
+      "response": "preemptively pays own way; refuses offers of financial support; treats payment as matter of pride and self-preservation to avoid being positioned as someone whose seat/presence needs to be purchased",
+      "observable": "consistent pattern of independent payment, strain on budget accepted rather than visible dependence, refusal of gifts that carry implicit obligation or control (as with Randi's dress offer)",
       "distinguish_from": []
     },
     {
@@ -1105,6 +2280,90 @@
       ]
     },
     {
+      "state_name": "optimizes_selection_for_particularity",
+      "trigger": "When Pace selects something for Vee",
+      "response": "He matches what will suit her specifically, optimizing for her particular coloring, build, and proportions rather than for her stated preference",
+      "observable": "Pace's selections prioritize objective fit to Vee's physical attributes over her explicit verbal wants",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "compartmentalizing_class_discomfort",
+      "trigger": "awareness of financial difference or family economic status",
+      "response": "consciously 'sets thoughts where she sets those thoughts' \u2014 internal suppression and mental compartmentalization rather than working through the emotion",
+      "observable": "calm external demeanor when encountering class markers (menu prices, expense, wealth disparity); no visible discomfort or processing visible to others; maintains settled presence despite internal mechanism activating",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "kiss_boundary_protocol",
+      "trigger": "romantic/physical escalation with someone known fewer than several days",
+      "response": "maintains refusal; recognizes rule as self-protective rather than principled; susceptible to conscious override under specific conditions",
+      "observable": "Vee declines physical escalation in early stages of romantic connection; articulates the rule explicitly; acknowledges its psychological rather than values-based origin; demonstrates awareness that the rule can be broken",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "emotionally_activated_self_soothing",
+      "trigger": "emotional activation, flustering, shame-arousal, being caught reacting",
+      "response": "hand briefly touches collarbone; gesture performed without conscious awareness",
+      "observable": "visible hand-to-collarbone movement; appears automatic and involuntary",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "environmental_assessment",
+      "trigger": "entering unfamiliar social spaces",
+      "response": "rapidly surveys room in full detail, catalogues spatial layout and own position within it before committing to presence",
+      "observable": "quick systematic scan of space; settling into position only after full assessment complete",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "flushed_vulnerability_response",
+      "trigger": "unexpected or uncontrolled intimacy, being caught in vulnerable/exposed moment, having her body's reactions named or acknowledged",
+      "response": "flushes visibly, colors, body responds with heat, loses the thread, half-smiles wrong, becomes flustered and flushed, gets caught in the charge",
+      "observable": "visible flushing, color rising in face/cheeks, loss of verbal composure, visible physical arousal despite ongoing cognitive processing",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "refusing_to_say_i_love_you_first",
+      "trigger": "romantic/intimate contexts where she feels love but partner has not declared first",
+      "response": "withholds the declaration; experiences this as an discovered rule she bumps against from inside rather than a conscious choice; will not repeat the opening",
+      "observable": "She said 'I love you' once on his porch at pre-dawn, seeking his answer; he did not give it; she will not say it again or create that opening again; the sentence retired into her body",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "person_attachment_driven_commitment",
+      "trigger": "presented with a daunting or intimidating commitment that a person she cares about is attached to",
+      "response": "agrees to the commitment before fully weighing its difficulty; decision driven by connection to the person rather than task assessment",
+      "observable": "pattern of saying yes to things she finds daunting when motivated by relational investment, with deliberation following rather than preceding commitment",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "physical_visibility_shame_trigger",
+      "trigger": "being physically seen by a man while aroused; body responses becoming observable",
+      "response": "flustered, flushed, caught-in-the-charge; colors, loses thread, half-smiles wrong; expects to be found disgusting or mocked; vulnerability to being named/caught intensifies arousal charge",
+      "observable": "visible flushing, loss of composure, difficulty maintaining eye contact or coherent speech, body tells that Randi can read and name, deepened arousal response when exposure is verbally acknowledged",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "calibrated_verbal_acceptance_signal",
+      "trigger": "Vee discloses information or shares experiences with Cassie",
+      "response": "Uses the word 'okay' with shifting tone and weight to indicate whether reserving judgment or has moved to genuine belief",
+      "observable": "Cassie's pronunciation and vocal emphasis on 'okay' shifts in intensity, duration, or emotional register depending on her epistemic stance toward what Vee has just shared",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "uncontained_positive_emotion_response",
+      "trigger": "strong positive emotion in confined space",
+      "response": "physically externalizes through impulsive full-body movement (spinning, arms rising, hair flying); laughs at herself immediately after",
+      "observable": "spinning, vertical arm movement, hair displacement, self-directed laughter",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "anxious_or_apprehensive",
+      "trigger": "anxiety or apprehension",
+      "response": "hand moves up toward her throat and then stops and drops",
+      "observable": "involuntary hand movement toward throat, hesitation, then retreat of hand",
+      "distinguish_from": []
+    },
+    {
       "state_name": "exit_without_confrontation",
       "trigger": "Discovery that both Pace and Randi are implicated in a betrayal, making their testimony untrustworthy",
       "response": "Leaves the situation silently without confronting either Pace or Randi, reasoning that Pace would offer a sincere but unhelpful defense and Randi would deflect or weaponize any confrontation",
@@ -1112,10 +2371,1130 @@
       "distinguish_from": []
     },
     {
+      "state_name": "body_before_mind_signal",
+      "trigger": "emotional information her conscious mind has not yet processed",
+      "response": "physical sensation localized behind her sternum registering as a small internal 'wait' \u2014 a pre-articulate question her body poses before thought can form",
+      "observable": "Vee experiences a somatic signal in her chest preceding her conscious understanding of what she is emotionally registering",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "social_dissonance_masking",
+      "trigger": "social moment registers as subtly wrong or off-rhythm",
+      "response": "face smooths automatically, masks dissonance outwardly, quickly rationalizes and files wrongness away without examining it",
+      "observable": "smooth facial expression, rapid verbal pivoting or topic shift, rationalization label applied to the moment",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "listens_with_unhurried_attention",
+      "trigger": "Vee speaks; Pace is present in conversation",
+      "response": "Pace waits through her complete answer without rushing to take his turn, demonstrating he is in no hurry to interrupt or reclaim conversational space",
+      "observable": "Vee perceives her sentences as worth the wait; the silence and his sustained attention create the felt sense that her words were valuable enough to justify the listening time",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "anxious_or_frightened_response",
+      "trigger": "anxiety or fear",
+      "response": "chest tightens; hand moves from door toward throat and stops halfway, then drops",
+      "observable": "visible physical contraction of chest and throat-directed hand movement that stops and retracts",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "preparing_difficult_communication",
+      "trigger": "when facing something emotionally loaded that she needs to articulate",
+      "response": "assembles understanding in stages: first as formless feeling, then as imagistic shape, then as precise language; requires weeks of internal work before speaking",
+      "observable": "her speech patterns and the deliberation evident before vulnerable disclosures, as shown in the porch scene where she had been preparing her sentence for weeks before delivering it once and then withdrawing it",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "public_admiration_response",
+      "trigger": "being noticed or admired in flattering social contexts",
+      "response": "experiences private lift of pleasure but maintains composed exterior; pleasure does not show on face",
+      "observable": "composed facial expression masks internal pleasure; no visible emotional leak despite internal charge",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "agency_assertion_under_doubt",
+      "trigger": "Own agency in a romantic/relational situation is questioned or doubted by others",
+      "response": "Responds with immediate, emphatic insistence on her own autonomy; makes clear she acted from desire and deliberate choice rather than external influence; does not defer to others' interpretations of her motivations",
+      "observable": "Direct verbal assertion of her own decision-making; refusal to accept framing that positions her as passive or manipulated; consistency with her pattern of not performing emotional labor to manage others' understanding",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "shame_arousal_loop",
+      "trigger": "self-critical judgment from internalized maternal voice; moments of exposure or humiliation",
+      "response": "arousal intensifies; body flushes/colors; breath changes; desire strengthens rather than retreats",
+      "observable": "flustering, half-smiles, loss of composure, visible flush/color rising, thread lost mid-thought when approaching shameful arousal; body tells before mind catches up",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "anticipatory_morning_care",
+      "trigger": "Vee sleeping; Pace awake earlier",
+      "response": "positions second cup of coffee on low table, cooled to drinkable temperature, before Vee wakes",
+      "observable": "second prepared coffee present on low table when Vee wakes, indicating Pace's prior wakefulness and deliberate preparation",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "tender_morning_affection_gesture",
+      "trigger": "Early morning moments of intimacy with Vee; pre-dawn warmth, quiet closeness",
+      "response": "Kisses the top of Vee's head and holds the kiss there for a beat longer than usual, then settles his cheek against her crown and stays there",
+      "observable": "The prolonged kiss to her head, the deliberate pause, the subsequent nestling of his cheek against her crown \u2014 all physically manifest behaviors that occur repeatedly in early morning scenes",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "receives_vulnerability_with_calibrated_presence",
+      "trigger": "Vee says something vulnerable",
+      "response": "acknowledges the truth without making it a larger moment; walks beside her and gives the true thing its space without pretense or amplification",
+      "observable": "When Vee expresses vulnerability, Pace neither pretends it wasn't said nor elevates it into dramatic significance; he maintains steady presence while allowing the vulnerability to exist naturally",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "contained_pleasure_response",
+      "trigger": "Vee laughs at something Pace says",
+      "response": "looks pleased in a contained way, like a man who'd set a small thing down exactly where he meant it to go",
+      "observable": "facial expression of contained satisfaction; controlled emotional display consistent with non-declarative communication grammar",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "indirect_request_with_exit_provision",
+      "trigger": "Making requests of Vee that could make her uncomfortable",
+      "response": "States what he needs as a fact about the work, then waits and leaves her a way out rather than explicitly demanding",
+      "observable": "Pace phrases requests as statements of necessity tied to the work itself, creates deliberate silence/waiting space, and maintains an implicit or explicit exit route for Vee's refusal",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "somatic_pre_cognitive_processing",
+      "trigger": "Vee experiences an emotion or realization she has not yet consciously named",
+      "response": "She registers it first as a small physical adjustment behind her sternum, a pause or wait that her body produces before her mind catches up to what her body is already registering",
+      "observable": "A slight pause or stillness in her movement; her hand may move to her chest or she becomes momentarily internally focused before articulating what she is feeling",
+      "distinguish_from": []
+    },
+    {
       "state_name": "outsider_anxiety_around_Randi",
       "trigger": "Being in Randi's social or financial world, where Randi holds authority over Vee across social, financial, and experiential dimensions",
       "response": "Vee covets proximity to Randi's world while anxiously self-monitoring for any sign that she might be exposed as an outsider within it",
       "observable": "Self-conscious behavior, careful social performance, and deference toward Randi in shared scenes",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "financial_independence_performance",
+      "trigger": "social situation involving shared expenses or visible financial disparity at table",
+      "response": "insists on paying own way; tips generously despite real financial hardship; refuses visible marking as person without money",
+      "observable": "Vee pays her own meal and tips well even when it causes her genuine financial strain, rather than accepting help or allowing others to see money as a constraint on her presence",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "unresolved_emotional_ambiguity_entering_christmas_fight",
+      "trigger": "Pace's real-time response to her displacement 'I love you' (cracker-and-meal figure) at the porch; ambiguity about whether he understood or didn't understand",
+      "response": "Vee carries the unresolved question into the Christmas fight without raising it; she cannot articulate it without first saying what she still cannot say directly; deliberate protective silence",
+      "observable": "Going into the Christmas fight, Vee operates from uncertainty about Pace's comprehension of her feeling-statement, while Pace remains unaware she is carrying this unresolved question; the gap between what Vee needs to know (did he understand?) and what she can ask (nothing) creates a structural vulnerability in their dynamic entering the conflict",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "internalized_maternal_constraint",
+      "trigger": "moments of small indulgence or taking more than modest amounts",
+      "response": "anticipates maternal disapproval; automatic reflex of restraint; self-policing of appetite",
+      "observable": "Vee pauses, qualifies, or pulls back from indulgence in food, pleasure, or self-care; internal negotiation with internalized mother's voice; guilt or pre-emptive shame coloring acts of self-permission",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "emotional_externalization",
+      "trigger": "emotionally significant experience",
+      "response": "physically externalizes agitation through movement, object repositioning, and hand narration before verbal articulation",
+      "observable": "Vee moves around a room, picks up and repositions objects, gestures while narrating before she can articulate what she feels",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "engaged_listener_receiving_good_news",
+      "trigger": "Vee shares good news with Cassie",
+      "response": "Cassie demonstrates physical attentiveness (goes still, pulls knees to chest), draws out narrative with small questions, tempers genuine warmth with flat dry humor, and exercises protective skepticism",
+      "observable": "Cassie's body language becomes very still and focused; she asks clarifying questions; her humor carries an undercurrent of protective wariness rather than cynicism",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "attention_shift_to_vee",
+      "trigger": "Pace's attention leaves the work and moves to Vee",
+      "response": "Businesslike set of mouth slips; small softening at the corners; breath stops; hands grip slightly tighter",
+      "observable": "Mouth softening at corners, cessation of breath pattern, increased hand grip tension",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "automatic_social_fluency",
+      "trigger": "awkward or prolonged social beat",
+      "response": "social fluency activates to smooth it over before conscious deliberation",
+      "observable": "Her relational instinct for smoothing social friction engages automatically, prior to her intentional decision-making",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "self_serving_without_restraint",
+      "trigger": "offered food or given opportunity to portion for herself",
+      "response": "builds/takes without deliberation; portion becomes excessive, leans, overflows; does not correct course mid-action",
+      "observable": "ice cream cone built without thinking, too much, the cone of it leaning",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "apologetic_stoop_under_stress",
+      "trigger": "stress or vulnerability",
+      "response": "makes herself physically smaller through an apologetic stoop; holds this posture without conscious awareness",
+      "observable": "The stoop becomes visible and then undoes itself when she becomes conscious of or releases the emotional pressure; contrasts with her baseline athletic posture and room-taking presence",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "seeks_cassie_counsel_in_intimate_moments",
+      "trigger": "Major decisions or vulnerable transitions (like the dress fitting reveal)",
+      "response": "Comes directly to Cassie in their shared dorm space; sits on bed while Cassie responds with expressive non-verbal communication; values her wordless feedback and presence",
+      "observable": "Vee returns straight back to dorm after significant events and initiates conversation with Cassie; positions herself physically close during vulnerable reveals; interprets Cassie's 'making faces' as meaningful feedback worth the vulnerability",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "emotionally_activated",
+      "trigger": "emotional activation / internal intensity",
+      "response": "hand moves briefly to collarbone in unregistered gesture",
+      "observable": "hand-to-collarbone gesture, fleeting, unconscious, happens without Vee's awareness",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "emotional_restraint_around_randi",
+      "trigger": "Vee feels eager or excited; the yes arrives fully formed in her chest ahead of conscious control",
+      "response": "She makes herself wait one full beat before responding, delaying the outward expression so her eagerness does not manifest at its full size",
+      "observable": "Vee's response timing to Randi is noticeably measured; enthusiasm is present but contained through deliberate pause",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "attentive_presence_on_vee_arrival",
+      "trigger": "Vee enters the room/returns to dorm",
+      "response": "Cassie abandons reading (highlighter set down), leaves desk chair, positions herself on edge of Vee's bed with sock feet up and arms around knees, fully engages with small questions that draw out Vee's story",
+      "observable": "The highlighter goes down the moment Vee walks in; Cassie shifts from desk to Vee's bed; her full attention becomes immediately available; she asks the small questions that keep the conversation coming",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "modeling_randi_social_skill",
+      "trigger": "Watching Randi execute a practiced social swerve in lecture hall on Monday",
+      "response": "Files the observed behavior mentally; later attempts to imitate the technique",
+      "observable": "Vee consciously studying and trying to adopt Randi's practiced social tactics; part of the mechanism through which Randi maintains influence over Vee",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "emotional_speech_response",
+      "trigger": "moving into emotionally charged speech",
+      "response": "voice quiets, words come smaller and one at a time, volume/intensity decreases, physical posture draws inward slightly",
+      "observable": "speech becomes quieter and more halting; words emerge individually rather than in fluid phrases; listener must lean in to hear",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "morning_physical_surrender",
+      "trigger": "being held by Pace in the morning",
+      "response": "leans cheek against the place his mouth had just been, closes eyes, allows warmth to affect her",
+      "observable": "cheek placement, eye closure, somatic receptivity to warmth",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "safely_home_notification_ritual",
+      "trigger": "Vee arrives home after spending time with Pace",
+      "response": "Sends Pace a text message reading '*home safe \u2764\ufe0f*' accompanied by a photo of her front door with the little year-round wreath, establishing a consistent pattern so he need not ask",
+      "observable": "The wreath on her front door; the text and photo messages sent to Pace; the implicit agreement and expectation between them regarding this communication method",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "morning_reaching_choreography",
+      "trigger": "morning encounter with Pace",
+      "response": "She reaches for him without looking; he does not move; this reaching-and-not-moving is their established small choreography, repeated several times",
+      "observable": "the physical pattern of her reaching without looking and his deliberate non-movement, which has become a recognizable morning ritual between them",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "emotional_exposure_deflection",
+      "trigger": "emotional exposure or vulnerability",
+      "response": "deploys light, quick charm/humor that makes people smile; uses social smoothing as defense mechanism",
+      "observable": "becomes easily charming and deflective; produces light quick responses that generate smiles in others; habitually smooths social friction through humor rather than direct emotional acknowledgment",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "physiological_response_to_attraction",
+      "trigger": "being looked at by someone she is attracted to",
+      "response": "shoulders settle differently, something in chest goes quiet, body responds before mind processes",
+      "observable": "visible shift in posture and physical composure; bodily arrival before cognitive acknowledgment",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "relationship_to_being_observed",
+      "trigger": "Being looked at directly and deliberately by someone who sees her body in bright light without the cover of darkness or speed",
+      "response": "She has never stood still in a bright room and let herself be looked at; the experience is novel and significant enough to mark a before/after in her psychological development",
+      "observable": "Vee's ability to remain still under direct visual attention; her capacity to let herself be appraised without flinching or redirecting; her internal processing of being truly seen versus being swept along in physical urgency",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "attentive_conversationalist",
+      "trigger": "During conversation",
+      "response": "Makes small constant effort to keep up her end; ordinarily catches social cues before the other person notices; maintains active conversational engagement",
+      "observable": "She demonstrates consistent attentiveness in dialogue, catching conversational beats and social signals preemptively, showing the habitual work of holding up her side of interaction",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "internalized_maternal_shame_voice",
+      "trigger": "moments of exposure or self-awareness during sexual/vulnerable situations",
+      "response": "intrusive thought in mother's register calling her 'stripper'; flustering, coloring, losing composure",
+      "observable": "small ugly word arrives from back of mind; body tells the story through flush/color/half-smile",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "arrives_to_class_early_with_consistent_seating",
+      "trigger": "class session begins",
+      "response": "arrives early and positions herself two-thirds of the way back on the aisle",
+      "observable": "Vee enters the lecture hall before most students, selects a seat approximately two-thirds toward the back of the tiered room, positioned on or near the aisle side",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "unconscious_overconsumption",
+      "trigger": "When Vee builds her own portions (food, drink, etc.) without deliberate attention",
+      "response": "She takes too much, loses track of the accumulation, ends up with excess that leans precariously (physically unstable, metaphorically self-aware of the excess but doesn't correct it)",
+      "observable": "The cone of the portion gets away from her, leaning; she doesn't think before building it, revealing her default is toward abundance rather than restraint",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "somatic_awareness_precedes_cognition",
+      "trigger": "experiences strong feeling she cannot yet articulate or name",
+      "response": "feels a small adjustment behind sternum; produces a small wait; body registers before mind catches up",
+      "observable": "physical sensation in chest cavity that signals incoming emotional knowledge",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "social_discomfort_response",
+      "trigger": "social discomfort, awkwardness, wrongness, being caught in a reaction",
+      "response": "face smooths, expression flattens, becomes unreadable",
+      "observable": "her face smooths it (goes blank/neutral) when she feels wrongness the way one feels a stair in the wrong place\u2014a somatic micro-response that betrays her internal state",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "attentional_positioning_during_vulnerability",
+      "trigger": "Vee in a state requiring her to open her eyes or regain awareness",
+      "response": "Positions himself on knees with face turned upward, waiting with sustained attention for her eyes to open",
+      "observable": "Physical positioning (kneeling, face angled upward) and temporal patience (had been waiting) demonstrate cognitive/emotional attending that precedes her conscious re-engagement",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "full_laugh_embodied",
+      "trigger": "when laughing without restraint",
+      "response": "raucous laugh with whole body engaged; physical manifestation of release, like setting down a heavy burden carried up many stairs",
+      "observable": "full-bodied laughter; visible relief and relaxation in posture and expression",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "financial_navigation_mode",
+      "trigger": "encountering financial uncertainty or unknown economic status",
+      "response": "reads the situation pragmatically like terrain in fog, looking for what is passable; does not catastrophize or spiral into anxiety; maintains forward motion",
+      "observable": "approaches money questions (like whether Pace is rich) without urgency, deposits them into 'the best pile' of things to discover rather than sources of dread; navigates through ambiguity with the same low-center balance she uses physically",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "opens_car_door_for_vee",
+      "trigger": "Vee leaves after time together",
+      "response": "Pace walks her to the car and opens the door for her",
+      "observable": "The habitual gesture of opening Vee's car door when she departs, witnessed at least once explicitly in 'ignition-scalding' scene where 'He walked her out to the car'",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "pace_setting_deference",
+      "trigger": "hiking with Vee",
+      "response": "sets a slower pace than she anticipated, invites her feedback, adjusts based on her capacity rather than his preference",
+      "observable": "during hiking, Pace sets an intentionally measured pace and explicitly invites Vee to correct him if it's wrong, demonstrating his pattern of calibrating his actions to her actual needs rather than his assumptions",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "physical_expression_of_overwhelming_joy",
+      "trigger": "Overwhelming happiness or excitement that exceeds her ability to contain it verbally",
+      "response": "Spins quickly with arms rising, hair moving, full-body kinetic release; clumsy, uncontrolled, often space-constrained; lands breathing hard, laughing at herself",
+      "observable": "Rapid spin with upward arm movement, hair displacement, whole-body rotation, breathlessness, self-aware laughter; typically occurs in confined spaces and ends abruptly",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "attention_response",
+      "trigger": "being looked at or watched",
+      "response": "felt the attention like a hand on her shoulder; somatic, immediate awareness",
+      "observable": "She registers external gaze as physical sensation rather than abstract awareness; her body perceives and responds to being perceived",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "agitated_overwhelmed",
+      "trigger": "emotional overwhelm or shock",
+      "response": "repetitive, self-correcting physical actions: opens mouth, sets bag down, picks it back up, moves it to chair, turns around \u2014 displacement behavior indicating internal dysregulation",
+      "observable": "mouth opening, bag handling (set/pick up/relocate), body reorientation/turning",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "emotional_vulnerability_speech_pattern",
+      "trigger": "discussing emotionally significant moments with Cassie; moments of shame or tenderness that require authentic rather than performed expression",
+      "response": "vocal register drops, words become smaller and more deliberate, delivered one at a time; requires listener to lean in; creates intimacy through constraint rather than projection",
+      "observable": "speech becomes quieter and more fragmented; temporal spacing increases between words; contrasts sharply with the 'brass-cage voice' she uses with Randi",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "startled_or_flustered_response",
+      "trigger": "surprise, embarrassment, or emotional intensity (particularly shame-tinged arousal)",
+      "response": "hand flies to her own mouth",
+      "observable": "visible physical tell that Randi expertly reads and names, creating a feedback loop of exposure and charge",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "seeking_permission_through_attentive_gaze",
+      "trigger": "during intimate moments or when looking at Vee",
+      "response": "eyes ask silently for permission; demonstrates careful attentiveness to her comfort and boundaries",
+      "observable": "His eyes ask 'May I look' \u2014 a respectful, seeking quality rather than a claiming or presumptive gaze; he anticipates her needs and comfort days in advance",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "filing_unresolvable_experiences",
+      "trigger": "encounters something she cannot resolve or make sense of",
+      "response": "files it in a mental/emotional place designated for things she doesn't know what to do with",
+      "observable": "when faced with cognitive dissonance or unprocessable experiences, Vee demonstrates a consistent pattern of categorizing and compartmentalizing rather than forcing resolution",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "correction_without_shame",
+      "trigger": "Vee commits a behavioral transgression or error",
+      "response": "Responds with gentle physical action that reframes the correction as collaborative tidying; handles the consequence directly without verbal shaming or elaborate explanation",
+      "observable": "Pace leans in, picks up the object (pit) between two fingers, folds it into wax paper without comment or reproval; the action models care-through-attention rather than punishment",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "classroom_preparation",
+      "trigger": "upon arriving to class",
+      "response": "opens notebook and readies pencil before settling in",
+      "observable": "notebook open, pencil positioned and ready when Randi arrives; demonstrates preparedness and grounded presence",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "genuine_friendship_investment",
+      "trigger": "regular SATC-style lunches with Vee; moments of witnessing Vee's bravery, joys, and becoming",
+      "response": "organizes her week around the lunches more than around Pace or sorority; treats Vee as a substantive friend rather than social utility; experiences small moments of being moved by and grateful to Vee",
+      "observable": "prioritizes lunch schedule over other commitments; engages with Vee's stories and humor with genuine investment; experiences internal warmth toward Vee that she does not immediately register as significant but that persists",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "doubt_about_deserving_good_things",
+      "trigger": "When something good happens (Pace calls), she anticipates it won't continue",
+      "response": "Preemptive self-protective narrative: convinces herself he won't call so disappointment won't hurt",
+      "observable": "Internal monologue reveals she talks herself down from hope; braces for abandonment as protective mechanism",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "internalized_lift_on_admiration",
+      "trigger": "being watched or admired by others; external gaze that holds a beat past neutral",
+      "response": "experiences internal expansion/transformation into an elevated social identity; sits in the feeling; does not let it show on her face",
+      "observable": "maintains composure and impassive expression externally while internally experiencing a moment of felt elevation and social becoming",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "parking_arrival_at_dorm",
+      "trigger": "dropping Vee at her dorm after intimate moment in truck during rainstorm",
+      "response": "pulls truck onto fire lane red-painted curb at dorm entrance under overhang to avoid rain; puts in park and turns to her",
+      "observable": "truck positioned illegally on fire lane curb beneath overhang; deliberate choice of visible, rule-breaking location over proper parking spot",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "obsessive_fixation_on_vee",
+      "trigger": "Vee's presence, reports, and interactions with Pace",
+      "response": "Mental preoccupation across six concurrent channels: planning operations, receiving updates about Pace, experiencing jealousy, sexual activity with Pace, SATC lunch orchestration, and real-time manipulation",
+      "observable": "Randi's documented patterns of receiving Vee's confidences and converting them into operational leverage; her sustained mental consumption by Vee-related planning and jealousy",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "responds_to_romantic_refusal",
+      "trigger": "Vee refuses a romantic advance",
+      "response": "Does not protest or push back; smiles as if she has said something pleasant; transitions smoothly to continued activity; accepts the refusal with apparent ease",
+      "observable": "Vee perceives his acceptance as genuine and uncomplicated, yet the architecture suggests this performative ease may itself be a form of structural manipulation\u2014letting refusal feel costless when it is not",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "room_assessment_protocol",
+      "trigger": "enters unfamiliar or uncertain room",
+      "response": "scans all at once and in detail; takes measure of room to find her own place in it",
+      "observable": "simultaneous whole-and-detail perception; spatial orientation through self-positioning rather than anxiety or passivity",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "aliveness_driven_suppression_surfacing",
+      "trigger": "Pace's engagement (full aliveness production)",
+      "response": "Randi's suppressed material rises to surface; she channels it into operation-leverage against Vee",
+      "observable": "Pattern visible through Randi's mental channels (planning, replaying, anticipation), jealousy at Pace's continued operation on Vee, and weaponization of Vee's confidences as humiliation material at SATC lunches",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "attentive_responsiveness_to_distress",
+      "trigger": "Vee signals a problem on the trail",
+      "response": "He turned at once",
+      "observable": "Pace's immediate physical turn toward Vee when she communicates difficulty",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "uninhibited_public_expression",
+      "trigger": "moments of genuine amusement or joy in public settings",
+      "response": "throws head all the way back while laughing, maintains balance even in that vulnerable position, throat bare to sky, laughs with whole body in unselfconscious manner",
+      "observable": "head tilted back fully, laughter unrestrained and full-bodied, physical abandon that contrasts with the controlled presentation of 'polished girls' or 'matched pairs', visible throat exposure during laugh, maintained balance and coordination even during maximum vulnerability",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "desire_overwhelms_intention",
+      "trigger": "intense desire in moments of intimacy or vulnerability",
+      "response": "wanting spills out unplanned; bypasses conscious deliberation; manifests as physical and emotional expression before decision-making can intervene",
+      "observable": "her body and words express desire before she has consciously chosen to express it; the wanting rises and emerges before she decides to want it",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "wind_response",
+      "trigger": "wind",
+      "response": "hair lifts and lays across face",
+      "observable": "wind finds her hair, lifts it, and lays it across her face",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "defers_to_randi_social_judgment",
+      "trigger": "Randi offers insight about small social registers or social dynamics",
+      "response": "Vee accepts/laughs at Randi's assessment because she recognizes Randi's accuracy in reading social situations",
+      "observable": "Vee laughs and validates Randi's social observations; Vee treats Randi as authoritative on interpersonal dynamics",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "first_kiss_rule",
+      "trigger": "Vee meets a man she has known only a few days",
+      "response": "She does not kiss him; she maintains her stated rule as a boundary condition",
+      "observable": "Vee explicitly states: 'I don't kiss a man I've known a few days' \u2014 a rule that had never been breached before, indicating this is her operative relational standard prior to Pace",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "waiting_for_first_declaration",
+      "trigger": "romantic context with Pace; impulse to say 'I love you'",
+      "response": "she does not say it; she waits for him to say it first; she enforces this rule on herself despite knowing she means it",
+      "observable": "In pre-dawn porch scene, she says 'I love you' once with her cheek against his shoulder as the sun comes up, then never brings the sentence back; the rule is that he says it first, discovered by bumping against it from the inside",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "sadism_as_need_inversion",
+      "trigger": "proximity to direct aliveness; witnessing someone else's capacity to be received and to need",
+      "response": "forces the other person (Vee) into the needer-position by operating on them sadistically; extracts vulnerability and shame as proof of appetite; maintains operator/supplier position to avoid her own need-status",
+      "observable": "Randi orchestrates situations where Vee's wanting becomes confessional helplessness; Randi remains the hand on the lever, the un-needy cause of Vee's aliveness; Randi interprets Vee's agency as involuntary animal appetite rather than choice",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "academic_engagement_pattern",
+      "trigger": "mathematical problem presented in front of class; Pace present in room",
+      "response": "loses focus on the structural problem she normally grasps cleanly; lets the material pass by without full engagement; experiences internal conflict between her usual analytical pleasure and her distraction",
+      "observable": "lets the clean structure under the numbers go by like scenery despite it being the part she is usually good at; demonstrates capability with chain rule and mathematical structure in other moments but cannot maintain that engagement when Pace is present",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "anxious_physical_response",
+      "trigger": "anxiety or fear",
+      "response": "chest tightens; hand rises toward throat and stops midway, then drops",
+      "observable": "visible tightening of chest; hand movement toward throat that is arrested and withdrawn",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "defensive_contraction_under_stress",
+      "trigger": "stress or vulnerability; moments of shame or self-consciousness",
+      "response": "makes herself physically smaller through an apologetic stoop; contracts inward despite her baseline tendency to take up space",
+      "observable": "posture shifts from athletic, grounded presence to a diminished, rounded shape; becomes consciously or unconsciously hunched; this undoes itself only when she steps into fuller self-awareness",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "engineered_agency_discovery",
+      "trigger": "the threesome kiss with Pace and Randi",
+      "response": "realizes her year may have been orchestrated; experiences cognitive dissonance between stated desire and actual agency; recognizes she cannot undo the event",
+      "observable": "In the kiss, evidence emerges that the encounter was not truly her choice; she cannot retroactively put this knowledge away",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "watching_caught",
+      "trigger": "Vee catches him looking at her",
+      "response": "maintains eye contact with her face (not her body); does not look away",
+      "observable": "When Vee looks over, Pace is already looking at her face in front of (not at) the valley, and he holds the gaze without breaking it",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "preparing_something_difficult_to_say",
+      "trigger": "recognition of something she needs to communicate but does not yet know what to do with",
+      "response": "multi-stage assembly: feeling \u2192 image \u2192 words; thinks about it for weeks before articulation",
+      "observable": "evidence visible in porch scene where she had been thinking about a sentence for weeks, eventually saying it once in pre-dawn warmth on his porch with cheek against his shoulder",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "shame_arousal_fusion",
+      "trigger": "exposure of desire or being caught in reaction; moments of intimate vulnerability or evaluation",
+      "response": "body responds with synchronized heat and shame; physiological tells (flushing, loss of thread, half-smiles) that externalize internal state; the two sensations are neurologically indistinguishable to her",
+      "observable": "color rises, breathing changes, verbal coherence fragments, physical presence becomes more acute (takes up more room), half-smile emerges; Randi and others can read these tells as accurate real-time markers of arousal-via-shame",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "social_fluency_auto_engaged",
+      "trigger": "interpersonal friction or discomfort in shared space requiring smoothing",
+      "response": "her social fluency engages automatically to address the friction without deliberate decision-making",
+      "observable": "she finds herself already engaging socially before realizing she chose to do so; pattern shows her reading and responding to relational needs with pre-conscious skill",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "structural_mirror_non_villainy",
+      "trigger": "The threesome configuration activates; each woman's interior produces evidence of non-intended consequences",
+      "response": "Neither woman can claim sole agency or victimhood; both are transformed by the structure, not by each other's malice; Vee gains satiation-through-vulnerability; Randi gains vulnerability without self-supply mechanism",
+      "observable": "In narration/interior: Vee discovers her year was engineered (she did not order this); Randi feels scalding jealousy (she did not order this); neither surfaces malice or manipulation in dialogue; reader perceives the chiasmus from outside the characters' awareness",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "attentive_presence_with_vee",
+      "trigger": "Vee enters or speaks; Cassie is studying or occupied",
+      "response": "Cassie abandons current task (sets down highlighter, leaves desk chair), moves physically close to Vee (sits on edge of Vee's bed), assumes open posture (sock feet up, arms around knees), makes sustained eye contact, asks clarifying questions to keep Vee talking, grins",
+      "observable": "Highlighter set down; desk chair abandoned; Cassie's repositioning to Vee's bed; open body language; sustained attention; questioning pattern that solicits continued conversation",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "responds_to_attention",
+      "trigger": "being looked at or watched",
+      "response": "feels the attention like a hand on her shoulder; registers gaze as physical sensation",
+      "observable": "Vee's somatic and proprioceptive response to being perceived by others",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "expresses_love_through_action_not_words",
+      "trigger": "relationship with Vee; expression of care and commitment",
+      "response": "demonstrates affection through deliberate deeds (the dress, the food, the warm room, the attention, the patience); refuses verbal declaration of love; operates from older grammar rooted in certainty and honor rather than contemporary expectation of verbal reassurance",
+      "observable": "Pace performs consistent acts of care and attention but does not say 'I love you'; when Vee speaks the sentence once at pre-dawn on his porch, he does not reciprocate verbally; the pattern persists throughout the year despite Vee's underlying expectation for verbal declaration",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "emotional_display_modulation_around_randi",
+      "trigger": "moment of intense yes/eagerness in Randi's presence",
+      "response": "delays outward expression by one full beat so intensity is not visible",
+      "observable": "Vee's physical/verbal response timing when excited about Randi's suggestions or presence",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "anticipatory_presence_and_attentiveness",
+      "trigger": "Vee sleeping or in vulnerable state",
+      "response": "Positions himself on knees with face turned up, waits for her to open her eyes, maintains focused readiness",
+      "observable": "Found on knees in front of her with face angled upward, waiting for her to wake",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "love_declaration_through_action",
+      "trigger": "engagement in relationship with Vee",
+      "response": "declares love through deeds (dress, food, warm room, attention, patience) rather than verbal statement; refuses to say 'I love you' until certain; does not acknowledge the cost this uncertainty creates for Vee",
+      "observable": "Pace performs consistent care actions and gestures but maintains verbal silence on declaration; Vee expects and seeks verbal affirmation; the gap between his grammar (action-based) and her convention (speech-based) creates structural tension in their dynamic",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "deflective_humor_under_exposure",
+      "trigger": "emotional exposure or vulnerability requiring acknowledgment",
+      "response": "deploys light, quick social humor that makes others smile; deflects from the charged moment through charm",
+      "observable": "becomes lighter in tone, uses humor to diffuse tension, makes others smile rather than sitting with the discomfort of being emotionally exposed",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "menu_reading_habit",
+      "trigger": "Vee opens a restaurant menu",
+      "response": "Reads the right-side column (prices) first before reviewing food options",
+      "observable": "Habitual scanning pattern that prioritizes price information over menu items",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "agitated_emotional_overwhelm",
+      "trigger": "emotional overwhelm or agitation",
+      "response": "fidgets with objects (bag, chair); repeats small displacement actions; turns away; creates small movements rather than stillness",
+      "observable": "opens mouth, sets bag down, picks it back up, relocates it, turns around \u2014 stacked micro-actions that signal internal processing rather than resolution",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "protective_intimacy_boundary",
+      "trigger": "meeting/dating a man she has recently encountered",
+      "response": "refuses to kiss; states her boundary explicitly",
+      "observable": "Vee tells Pace explicitly: 'I told him I don't kiss a man I've known a few days'",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "conversational_attentiveness",
+      "trigger": "during conversation",
+      "response": "makes small constant work of keeping up her end; catches and corrects social missteps before others notice",
+      "observable": "ordinarily catches conversational beats before her interlocutor becomes aware of them; maintains active participation through sustained attention",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "emotional_speech_quieting",
+      "trigger": "emotionally charged speech or vulnerable disclosure",
+      "response": "voice drops, words come smaller and one at a time, delivers speech with physical constraint rather than performed ease",
+      "observable": "listener must lean in to hear; contrasts with her 'performed' speech patterns shown with Randi; represents genuine vulnerability rather than managed presentation",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "comparison_vulnerability_toward_vee",
+      "trigger": "Moment of physical intimacy in the threesome; Vee receives direct compliment/attention from Pace",
+      "response": "Internal preoccupation with her own ranking; body language of waiting/passivity; self-negation masked as generosity (handed Vee the word, kept nothing)",
+      "observable": "Randi's stillness during the kiss; her mental fixation on hierarchy and her place in it; the gap between her surface framing (orchestrator) and her submissive positioning in the moment",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "home_safe_reassurance_ritual",
+      "trigger": "Vee arrives home safely after leaving Pace",
+      "response": "sends '*home safe \u2764\ufe0f*' text with photo of her front door and wreath to Pace",
+      "observable": "Vee's characteristic method of letting Pace know she has arrived home without him needing to ask",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "appetite_recognition_toward_vee",
+      "trigger": "the pointing game moment when Randi observes Vee",
+      "response": "Randi experiences an involuntary recognition that Vee might feed her loose aliveness-need; she loses emotional distance and is 'never cool about Vee' after this moment",
+      "observable": "Randi's behavioral shift toward heightened engagement with Vee following the pointing game; her loss of emotional reserve around Vee",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "engineered_consent_discovery",
+      "trigger": "the kiss during the threesome reveals physical evidence of orchestration",
+      "response": "realizes her apparent choice was architected; cannot undo what has already occurred; maintains agency through the impossibility of reversal",
+      "observable": "in the kiss, her body recognizes evidence that the year's trajectory toward this moment was coordinated between Pace and Randi, not freely chosen by her",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "stress_contraction",
+      "trigger": "stress or vulnerability",
+      "response": "adopts apologetic stoop; makes herself physically smaller without conscious awareness",
+      "observable": "visible reduction in physical stature; shoulder rounding; postural collapse inward",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "attracted_attention_somatic_response",
+      "trigger": "being looked at by someone she is attracted to",
+      "response": "shoulders settle differently, something in her chest goes quiet, body arrives before mind",
+      "observable": "physical relaxation and centering visible to observer; chest quieting is her internal experience",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "envy_as_sadistic_channeling",
+      "trigger": "proximity to Vee's visible need and bravery",
+      "response": "orchestrates scenarios where Vee's need becomes visible and must be processed, allowing Randi to access the satisfaction of seeing need surfaced without metabolizing her own",
+      "observable": "Randi's arrangement of the seduction scenario; her expertise-as-trap interactions; her pattern of moving others into vulnerable positions",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "laugh_full_raucous",
+      "trigger": "when she laughs fully without restraint",
+      "response": "raucous laugh with whole body engaged; physical expression of setting down something she had carried up too many stairs",
+      "observable": "her entire body participates in the laugh; the sound is uninhibited and carries the quality of relief and release",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "presence_as_restful_anchor",
+      "trigger": "proximity to Pace; Vee's warmth and social attunement",
+      "response": "Pace's alertness softens; he experiences genuine rest in her presence",
+      "observable": "Pace demonstrates lowered vigilance, slower breathing, sustained attention, and verbal/physical indicators of comfort when with Vee; this relaxation is described as 'not incidental' to his emotional investment",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "caught_off_guard_or_flustered",
+      "trigger": "Sudden surprise, embarrassment, or being caught reacting (especially in shame/arousal contexts)",
+      "response": "Instinctive hand-to-mouth gesture; physical tell that betrays her emotional state",
+      "observable": "Hand movement to mouth; readable by observant characters like Randi as a sign of internal reaction",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "automatic_social_calibration",
+      "trigger": "a room needs friction smoothed or relational tension managed",
+      "response": "her social fluency engages unbidden, before she has consciously decided to deploy it; she moves to ease the friction with practiced smoothness",
+      "observable": "she finds herself already smoothing social friction, performing small relational adjustments, before she recognizes she has chosen to do so",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "inexperience_with_conscious_observation",
+      "trigger": "being looked at directly and deliberately in bright light by someone paying full attention",
+      "response": "she has never stood still in a bright room and let herself be looked at; previous sexual experiences occurred in dim/dark/rushed contexts where she was seen only as part of the momentum of desire, not as a deliberate visual subject",
+      "observable": "her discomfort or unfamiliarity when Pace observes her body in clear light during the fitting scene; contrast between her athleticism/presence and her inexperience with being the conscious object of sustained, non-sexual visual attention",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "observed_by_vee_as_seeking_consent",
+      "trigger": "during the Fitting scene when Pace looks at Vee",
+      "response": "his eyes ask 'May I look' \u2014 a quality of careful, requesting attention rather than claiming",
+      "observable": "Vee perceives his gaze as asking permission, not asserting entitlement; interpreted by her as seeing-without-taking",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "responsive_to_distress_signals",
+      "trigger": "Vee signals a problem or distress on the trail",
+      "response": "turns at once; immediate attentiveness and physical reorientation toward her",
+      "observable": "turns at once",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "car_door_courtesy",
+      "trigger": "Vee leaves (departure at end of visit)",
+      "response": "opens the car door for her",
+      "observable": "He walked her out to the car (noted in ignition-scalding.md scene)",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "calibrated_pacing_responsive_to_partner",
+      "trigger": "Hiking with Vee; setting shared activity parameters",
+      "response": "Sets a deliberately slower pace than Vee would brace for; invites correction; remains adjustable",
+      "observable": "Pace tells Vee 'I'll set a pace, tell me if it's wrong' and follows with a pace slower than her braced expectation",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "overwhelming_joy_expression",
+      "trigger": "Overwhelming happiness or excitement",
+      "response": "Full-body spin with arms raised, hair movement, clumsy whole-body turn that risks collision with surroundings, lands facing companion breathless and laughing at herself",
+      "observable": "Spinning motion, upraised arms, hair displacement, physical loss of control in confined space, breathlessness, self-aware laughter following the movement",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "internalized_maternal_restraint",
+      "trigger": "consideration of dressing more revealingly",
+      "response": "internal voice (her mother's voice in her head) activates with the warning 'that's not the kind of attention a nice girl' seeks, creating hesitation and restraint",
+      "observable": "Vee does not dress as revealingly as she might; she gravitates toward her established wardrobe of jeans, tees, sports bras, and measured going-out pieces rather than more exposing options",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "shame_to_confidence_postural_shift",
+      "trigger": "composure shifts from shame-cognizance to embodied confidence",
+      "response": "straightens spine, pulls shoulders back, experiences involuntary rearrangement of carriage\u2014physical reorganization she did not summon",
+      "observable": "postural straightening, shoulder retraction, visible somatic recalibration; body-level tell that confidence has integrated",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "arousal_deflection_response",
+      "trigger": "confronted with own physical desire or arousal in public or exposed situation",
+      "response": "attempts cognitive deflection; tries to think about something else",
+      "observable": "internal effort to redirect attention away from bodily response; likely shows in her composure, eye movement, or forced focus elsewhere",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "relaxed_by_vee_presence",
+      "trigger": "Vee's presence; her warmth and ability to read rooms and fill silences",
+      "response": "Pace relaxes his alertness; finds genuine restfulness in being with her; falls for her partly because of this quality",
+      "observable": "Pace demonstrates reduced tension, attentiveness calibrated downward, comfort in shared silence with Vee; described as 'genuinely restful' to be around her",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "flustered_physical_response",
+      "trigger": "startled, caught reacting, shamed, or embarrassed in social interaction",
+      "response": "hand flies to mouth; colors/flushes; loses verbal thread; half-smiles incorrectly; body betrays her emotional state; physiological tells that expose her arousal or shame",
+      "observable": "hand gesture to mouth, facial flushing, verbal hesitation, incorrect smile formation, visible physical agitation",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "self_recognition_in_transgression",
+      "trigger": "Moment of physical/emotional intensity (e.g., after spanking); confrontation with her own reflection",
+      "response": "Eyes brighten, become wet at edges (unshed tears); catches herself witnessing her own capacity for feeling/desire; reassembles composure while internally registering the shift",
+      "observable": "At bathroom sink, post-spanking scene: Vivienne makes eye contact with herself in mirror and experiences visible physiological response (eyes bright, glistening); does not look away; moment registers as significant threshold crossed internally",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "wounded_at_bench",
+      "trigger": "Pace's attentive spanking braided with sustained edging at the bench; moment of being seen/known at depth",
+      "response": "experiences the most intense sexual sensation to that point; begs; carries this as a defining wound",
+      "observable": "Randi's behavior post-bench shows evidence of fixation on Pace (hates him, envies Vee's access), sadistic behavior toward Vee in later scenes, and the wound functioning as her operating system for the year's events",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "experiencing_social_discomfort",
+      "trigger": "wrongness, social misalignment, awkwardness",
+      "response": "face smooths over the tell; automatic masking",
+      "observable": "facial smoothing; loss of the natural tell she usually wears",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "internal_elevation_when_observed",
+      "trigger": "being watched or admired by others; external gaze landing on her",
+      "response": "sits in the feeling of becoming someone elevated by the gaze; absorbs the lift internally without displaying it externally; permits herself to occupy the admiration without letting it show on her face",
+      "observable": "facial composure remains neutral/controlled while internal experience registers the lift; slight postural settling or expansion; sustained eye contact or deliberate non-reaction that suggests containment of emotion",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "unresolved_filing",
+      "trigger": "encounter something she cannot resolve or make sense of",
+      "response": "files it mentally into a designated internal space where she stores things she does not know what to do with",
+      "observable": "over time, unresolved matters accumulate in this internal location rather than being immediately processed or discarded",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "early_arrival_pattern",
+      "trigger": "class begins",
+      "response": "arrives early, takes aisle seat approximately two-thirds back in lecture hall",
+      "observable": "Vee is already seated when Randi enters; she 'got there early the way she always got there early' indicating a consistent routine",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "correcting_without_shame",
+      "trigger": "Vee makes a mistake or breaks a rule (e.g., dropping something, minor transgression)",
+      "response": "Handles the correction physically and gently without verbal commentary; demonstrates care through action (e.g., picking up debris carefully, folding it away)\u2014leaves no trace of shame, takes nothing from her",
+      "observable": "When correcting Vee, Pace uses physical gentleness and silent competence rather than words; the correction is matter-of-fact and preserves her dignity",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "performing_for_randi",
+      "trigger": "interaction with Randi; telling stories or reporting about Pace",
+      "response": "voice rises slightly; adopts a tone of casual familiarity; performs confidence or normalcy around experiences that actually carry emotional weight for her",
+      "observable": "vocal pitch/register shift; deliberate pacing and framing of narrative; self-conscious quality detectable in speech pattern",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "uses_pace_aliveness_as_psychological_solvent",
+      "trigger": "Pace produces full aliveness and engagement in Vee",
+      "response": "Randi perceives and channels this aliveness-production as the substrate that surfaces her own suppressed dynamics; she weaponizes Vee's reports of Pace's attentiveness in the SATC lunches, using Vee's descriptions of aliveness as material for humiliation and psychological operation",
+      "observable": "Randi's consumption of the Vee-channel operates across six concurrent modes, with particular intensity around receiving Vee's reports about Pace; Randi transforms Vee's confidences about Pace's engagement into operational levers; the SATC lunches gain intensity precisely through Vee's descriptions of Pace's attentiveness being redeployed as humiliation substrate",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "verbal_assembly_process",
+      "trigger": "when preparing to articulate something difficult or emotionally complex",
+      "response": "she processes it across phases: first as an inchoate feeling, then as image/shape, finally as articulated words; the process takes time and cannot be rushed",
+      "observable": "the lag between internal recognition and verbal expression; the deliberate, staged nature of her difficult communications",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "sadistic_operator",
+      "trigger": "inability to survive being the needer; pressure from habituated refusal of need",
+      "response": "forces Vee into the needer-position by orchestrating seduction and extracting shame, while maintaining the un-needy supplier/operator role",
+      "observable": "Randi receives Vee's reports about Pace at SATC lunches and uses them as operational material; Randi maintains distance and control while Vee becomes emotionally exposed and involuntarily vulnerable; Randi's participation in Vee's aliveness occurs only through the mechanism of causing it in another",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "love_expression_grammar",
+      "trigger": "when Pace intends to express deep feeling or commitment",
+      "response": "expresses through actions (gift, food, attention, patience, creating warm spaces) rather than verbal declaration; does not say 'I love you' because verbal declaration must be certain to preserve its meaning",
+      "observable": "provides material care, curated attention, creates conducive environments; refrains from verbal love statements; on porch scene, receives Vee's verbal declaration without reciprocating it verbally",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "attention_reception",
+      "trigger": "being looked at or watched",
+      "response": "felt as tactile sensation; registers as physical contact (hand on shoulder metaphor)",
+      "observable": "somatic awareness of gaze; embodied rather than intellectual registration of attention",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "observational_learner_from_randi",
+      "trigger": "Witnessing Randi execute a social maneuver in the lecture hall on Monday",
+      "response": "Internally catalogs the technique as desirable and files it mentally to practice later",
+      "observable": "Vee watches Randi perform a practiced social swerve and decides to imitate it",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "anxious_or_frightened",
+      "trigger": "anxiety or fear",
+      "response": "chest goes tight; hand comes up off surface toward throat, stops halfway, drops",
+      "observable": "visible physical constriction in chest area and aborted throat-reach gesture",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "intimate_peer_consultation",
+      "trigger": "Before committing to major decisions or appearances (like the boots fitting)",
+      "response": "Vee seeks Cassie out, positions herself vulnerably (on bed), presents the choice/item, watches Cassie's face for authentic reaction",
+      "observable": "Vee comes straight back to dorm after fitting, sits on bed with Cassie cross-legged across from her, watches Cassie make faces about the boots as part of her decision-making process",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "exposed_shame_response",
+      "trigger": "Imagining saying something emotionally exposing or shameful aloud",
+      "response": "Heat rises up the back of her neck; physical flush betrays her emotional state",
+      "observable": "Visible flushing/heat at the back of the neck when contemplating vulnerable disclosure",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "structural_mirror_with_randi",
+      "trigger": "relational configuration with Pace and Randi; revelation of need through intimacy",
+      "response": "Vee demonstrates capacity to show need, receive, and be transformed by satiety; Randi cannot mirror this\u2014her envy runs when Vee is seen and fed, because Randi lacks the relational apparatus to show need or self-supply",
+      "observable": "Vee's hunger produces asking, receiving, vulnerability, trust; Randi's jealousy appears when Pace carries evidence of Vee's fluids\u2014a visible marker that Vee was fed while Randi remains unable to show the need that would permit feeding",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "agitated_or_overwhelmed",
+      "trigger": "emotional overwhelm or shock",
+      "response": "repetitive, purposeless physical actions: sets bag down, picks it back up, relocates it, turns around; cycles through these movements without direction",
+      "observable": "When Vee is agitated or emotionally overwhelmed (especially shock/betrayal), her typical grounded composure fragments into repetitive, undirected physical behavior\u2014picking up and replacing her bag, turning, repositioning herself\u2014as a somatic expression of internal disorientation.",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "envious_sadistic_hunger",
+      "trigger": "observing Vee's capacity to surface need and be metabolized/fed by external validation",
+      "response": "orchestrates Vee's seduction and exposure to convert her own unmeetable need (inability to show weakness, inability to self-supply) into sadistic satisfaction through controlling Vee's vulnerability",
+      "observable": "Randi's strategic involvement in Vee's seduction; her superior knowledge deployed to trap/expose; her satisfaction derived from Vee's need becoming visible and ingestible for her in ways her own needs cannot be",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "departure_ritual_attentiveness",
+      "trigger": "Vee prepares to leave after their time together",
+      "response": "he opens the car door for her",
+      "observable": "consistent door-opening behavior during Vee's departures",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "speech_quieting_under_emotional_charge",
+      "trigger": "emotionally charged speech or vulnerable confession",
+      "response": "voice goes quiet, words become smaller and emerge one at a time; physical posture draws inward; requires listener to lean in to hear",
+      "observable": "audible reduction in volume and pacing; slowed word delivery; listener must physically move closer to receive words",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "comparative_male_attention_perception",
+      "trigger": "Being in the same room with Cassie when men are present",
+      "response": "Observes male attention warming on her, remaining easy and unbothered on Cassie (as on an older woman, child, or man he'd never think about again)",
+      "observable": "Two years of side-by-side moments where Vee registers the difference in how male gazes respond to her versus Cassie",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "observed_admiration_lift",
+      "trigger": "being watched or admired by others (particularly strangers); moment of external recognition",
+      "response": "internally lifts/transforms into an aspirational version of herself; sits in the feeling; maintains external composure without showing it on her face",
+      "observable": "When noticed by others (e.g., girls looking at her in the car with Randi), Vee experiences an internal expansion and temporary identification with a elevated social persona, then contains this response visibly while maintaining internal access to the feeling",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "calibrated_pacing",
+      "trigger": "shared physical activity (hiking) with Vee",
+      "response": "Sets a slower pace than Vee braced for; invites correction; prioritizes her input over his default",
+      "observable": "When hiking with Vee, Pace sets a deliberately conservative pace and explicitly asks Vee to tell him if it's wrong, revealing his attentional architecture: he does not assume, does not impose dominance through physical capability, but instead suspends his own standard and delegates the calibration to her feedback.",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "corrects_without_shaming",
+      "trigger": "Vee's behavior needs correcting or cleanup is required",
+      "response": "Handles correction gently and physically; demonstrates care through quiet action rather than words; models the desired behavior by picking up after her without commentary or shame-inducing language",
+      "observable": "He leaned and picked the pit up between two fingers and folded it into a scrap of the wax paper; approach embodies 'we take nothing and leave nothing'",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "body_perception_in_social_comparison",
+      "trigger": "presence in a room with other women, especially in social/intimate settings where bodies are visible",
+      "response": "registers both facts (her size, her coverage) without looking at either straight; maintains ease without self-examination",
+      "observable": "she was the most of what the room was selling and she was the one with the most fabric on, both at once, and she did not look at either fact straight",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "somatic_precedence_of_emotion",
+      "trigger": "cannot yet name what she is feeling",
+      "response": "feels a small adjustment behind sternum, produces a small wait, body registering before mind catches up",
+      "observable": "physical sensation in chest cavity followed by cognitive lag",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "physically_attuned_to_attraction",
+      "trigger": "being looked at by someone she is attracted to",
+      "response": "her body responds before her mind; shoulders settle differently; something in her chest goes quiet",
+      "observable": "postural shift in shoulders; quieting of chest tension; somatic precedence over cognitive awareness",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "love_declaration_through_deed",
+      "trigger": "intimate_connection_with_Vee",
+      "response": "demonstrates_affection_through_concrete_actions_dress_food_attention_patience_rather_than_verbal_declaration",
+      "observable": "absence_of_verbal_I_love_you_combined_with_consistent_deliberate_acts_of_care_and_provision",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "response_dampening_with_randi",
+      "trigger": "moment of strong internal agreement or excitement in Randi's presence",
+      "response": "delays outward display of eagerness by one full beat so the yes does not emerge at its actual magnitude",
+      "observable": "visible pause before verbal or nonverbal confirmation; measured response despite anterior full-formed internal yes",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "authentic_witness_mode",
+      "trigger": "Vee enters or shares something vulnerable",
+      "response": "Cassie demonstrates non-judgmental presence; her warmth contains a flat dry emotional floor\u2014genuine gladness without agenda or performance",
+      "observable": "Cassie puts down highlighter when Vee arrives; goes still with knees to chest when truly listening; witnesses Vee's interior without performance; gladness in her presence has a steady, grounded quality beneath it",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "intimate_disclosure_mode",
+      "trigger": "emotionally significant moments with trusted confidants (particularly Cassie)",
+      "response": "voice quiets, words come smaller and one at a time, less performed than with Randi, register shifts to actual mutuality and warmth, listener leans in to hear",
+      "observable": "vocal pattern drops in volume and tempo; speech becomes incremental rather than fluent; performed brass-cage voice releases into something genuine and vulnerable",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "gaze_during_intimate_moments",
+      "trigger": "during physical intimacy or fitting moments with Vee",
+      "response": "looks at her with eyes that ask 'May I look?' \u2014 a permission-seeking, respectful gaze",
+      "observable": "his eyes ask permission before looking; the gaze is careful and seeks consent rather than assumes access",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "cognitive_filing_pattern",
+      "trigger": "encounters something she cannot resolve or make sense of",
+      "response": "files it eventually in the place where she files things she does not know what to do with",
+      "observable": "her method of deferring resolution while maintaining internal organization; the existence and accessibility of this 'filing place' as a mental/emotional repository",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "overwhelming_positive_emotion_expression",
+      "trigger": "sudden overwhelming happiness or excitement",
+      "response": "full-body spin with arms raised, unselfconscious and explosive, hair movement, often nearly collides with surroundings, lands breathless and laughing at herself",
+      "observable": "spins quickly with arms up, hair flying, breathing elevated, laughter at own lack of restraint, physical engagement fills available space",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "attentional_waiting",
+      "trigger": "Vee's altered or unconscious state; moment requiring her return to presence",
+      "response": "positions himself physically proximate (on knees, face turned upward), maintains focused waiting, orients his attention toward the moment of her eye-opening",
+      "observable": "kneeling posture with face turned upward toward her face; sustained waiting without intervention; immediate readiness to meet her gaze upon her waking",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "arrival_home_safe",
+      "trigger": "Vee arrives home after visiting Pace",
+      "response": "sends text message with heart emoji and photograph of her front door with wreath to notify Pace of safe arrival without requiring him to ask",
+      "observable": "pattern of receiving '*home safe \u2764\ufe0f*' messages with door wreath photos from Vee when she leaves Pace's place",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "attentive_reciprocator",
+      "trigger": "conversation with another person",
+      "response": "performs active work to maintain balance, catches conversational lapses, sustains her end of exchange",
+      "observable": "catches things 'the way she always did' \u2014 implies pattern of noticing and correcting before others do; listener would perceive her as engaged, present, carrying her weight in dialogue",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "responsive_attunement",
+      "trigger": "Vee signals a problem on the trail",
+      "response": "turned at once",
+      "observable": "Pace's immediate physical reorientation toward Vee when she indicates distress, demonstrating his pattern of constant attentive monitoring",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "arrives_early_established_seating",
+      "trigger": "class session begins",
+      "response": "arrives early, sits two-thirds back from front, takes aisle seat as default positioning",
+      "observable": "consistent early arrival pattern and specific seat selection in tiered lecture halls",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "organized_for_class",
+      "trigger": "Vee arrives in class",
+      "response": "Gets her notebook open and her pencil out; demonstrates preparedness and readiness to engage",
+      "observable": "Notebook open, pencil out, ready to take notes",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "unconscious_overcorrection_with_portions",
+      "trigger": "encountering food or portions available for self-service",
+      "response": "builds/takes without deliberate consideration, then recognizes excess and experiences discomfort or self-correction ('got away from her')",
+      "observable": "The ice cream cone scene where she builds a cone that leans too tall; she acted unthinkingly and the result exceeded her conscious intention",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "sleeping_in_pace_shirt",
+      "trigger": "after fitting/intimate encounter with Pace",
+      "response": "habitually wears/sleeps in Pace's shirt throughout the week; pattern of possession and comfort-seeking",
+      "observable": "Vee sleeps in Pace's shirt repeatedly; behavior suggests intimacy, claim on him, and soothing/grounding function",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "attentive_engagement_with_vee",
+      "trigger": "Vee arrives or begins sharing",
+      "response": "Cassie abandons current activity (sets down highlighter), physically orients toward Vee (moves to edge of bed), settles into posture of full attention (sock feet up, arms around knees), maintains engaged presence (grins, asks small questions that keep conversation flowing)",
+      "observable": "Cassie transitions from solitary reading to active, physically present friendship\u2014the highlighter abandoned and the reading left, body language open and positioned to listen, asking follow-up questions that sustain Vee's narrative",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "internalized_maternal_judgment",
+      "trigger": "moments of sexual choice, shame activation, or self-evaluation around desire",
+      "response": "voices her mother's verdict: judgment about 'what kind of girl' engages in sexual/submissive acts",
+      "observable": "internal monologue surfaces mother's voice and moral framework during vulnerable or transgressive moments; guides her shame-as-fuel economy",
       "distinguish_from": []
     }
   ],

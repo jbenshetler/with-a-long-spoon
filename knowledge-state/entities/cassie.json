@@ -21,6 +21,10 @@
       "value": "wears none \u2014 eschewed deliberately, not from lack"
     },
     {
+      "attribute": "vehicle",
+      "value": "old rust-spotted SUV with squeaking suspension; kept because it works and hauls equipment"
+    },
+    {
       "attribute": "clothing",
       "value": "shorts in warm weather, pants in cold; no skirts"
     },
@@ -50,6 +54,10 @@
     {
       "attribute": "appearance",
       "value": "Plain"
+    },
+    {
+      "attribute": "window_habit",
+      "value": "keeps dorm room window cracked two inches due to preference for cold; building runs heat too high"
     },
     {
       "attribute": "color_palette",
@@ -104,6 +112,10 @@
       "value": "Prefers a sports bar; would choose to be there"
     },
     {
+      "attribute": "room_window_habit",
+      "value": "keeps dorm room window cracked two inches regardless of cold; prefers the chill to building's overheated air"
+    },
+    {
       "attribute": "clear_sight_source",
       "value": "Her plainness is the unstated source of her clear sight; having no stake in the appearance economy lets her read Randi for operation rather than being caught in the beam"
     },
@@ -128,6 +140,10 @@
       "value": "Sees Randi clearly, because she has no investment in Randi being what she presents as"
     },
     {
+      "attribute": "relationship_to_vee",
+      "value": "best friend and roommate for two years; closeness rated 3-4; anchors genuine friendship (warmth without agenda); instant mutual enmity with Randi requires no explanation"
+    },
+    {
       "attribute": "overall_presentation",
       "value": "unmanaged \u2014 not ugly, not slovenly, just not managing how she lands"
     },
@@ -138,6 +154,10 @@
     {
       "attribute": "rendering_constraint",
       "value": "Rendered almost entirely as effect-on-Vee and she-was-right; no standalone interiority"
+    },
+    {
+      "attribute": "seated_foot_position",
+      "value": "feet lifted off floor when seated; legs too short to reach"
     },
     {
       "attribute": "source_of_clear_sight",
@@ -152,15 +172,382 @@
       "value": "Thesis-delivery vehicle at the very end ('the best sex of your life...where do I sign up?')"
     },
     {
+      "attribute": "seated_posture_physical_trait",
+      "value": "feet do not reach ground when seated in chair; characteristically sits with feet pulled up off floor"
+    },
+    {
       "attribute": "relationship_to_appearance_economy",
       "value": "Outside the appearance economy; no investment in being looked at"
+    },
+    {
+      "attribute": "narrative_function_friendship_anchor",
+      "value": "anchors what genuine friendship looks like \u2014 warmth without agenda; serves as control case against which the Randi/Vee orchestrated friendship is read"
+    },
+    {
+      "attribute": "narrative_function_friendship_control",
+      "value": "Anchors what genuine friendship looks like\u2014warmth without agenda; serves as control case against Randi/Vee dynamic corrupted by agenda"
+    },
+    {
+      "attribute": "narrative_function_genuine_friendship",
+      "value": "Anchors what genuine friendship looks like \u2014 warmth without agenda; serves as control case against which the Randi/Vee 'friendship' is read"
     },
     {
       "attribute": "position_relative_to_Randi's_influence",
       "value": "Stands outside all of Randi's beams; the one who sees the mechanism while everyone else is inside one of them"
     }
   ],
-  "behavioral_states": [],
+  "behavioral_states": [
+    {
+      "state_name": "expressing_gladness_or_support",
+      "trigger": "moments requiring warmth, encouragement, or celebration directed at others",
+      "response": "offers genuine support and happiness but delivers it with dry skepticism and deadpan practicality, undercutting sentiment with observable doubt or wry observation",
+      "observable": "Cassie's expressions of support sound warm but are consistently punctured by a practical or skeptical edge; her happiness for others registers as authentic but never unguarded",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "allows_conversational_pivot",
+      "trigger": "conversation partner wants to change the subject",
+      "response": "lets the pivot happen without resistance or comment",
+      "observable": "Cassie was good at that \u2014 demonstrates established competence and habitual comfort with subject shifts",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "acknowledgment_and_redirect",
+      "trigger": "Cassie has received and accepted information in conversation; interaction is being concluded",
+      "response": "Cassie produces a brief, quiet 'mm' sound \u2014 a small nonverbal acknowledgment \u2014 and redirects her attention away from the conversation",
+      "observable": "A distinctive, quiet 'mm' vocalizer used as a closing punctuation before Cassie turns her focus elsewhere",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "expressing_gladness_or_enthusiasm",
+      "trigger": "moment of warmth, positive emotion, or enthusiasm",
+      "response": "follows warmth with a dry, skeptical check; gladness has a flat dry floor under it",
+      "observable": "reader observes Cassie expressing positive emotion immediately undercut by skeptical or dry commentary",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "seated_posture",
+      "trigger": "sitting in a chair",
+      "response": "feet up off the floor, never reaching it",
+      "observable": "Cassie's feet do not touch the floor when she is seated in a chair",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "warmth_with_flat_affect",
+      "trigger": "moments of connection or gladness",
+      "response": "displays warmth that maintains a flat, dry, understated emotional floor; gladness tempered by restraint",
+      "observable": "reader perceives Cassie's warmth as genuine but dry; she tips her head in moments of connection without theatrical display; the gladness is there but grounded, never effusive",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "expressing_skepticism_or_dry_aside",
+      "trigger": "about to deliver a skeptical or dry remark during conversation",
+      "response": "tilts head as a nonverbal tell",
+      "observable": "head tilt preceding skeptical or dry verbal remarks",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "active_listening_posture",
+      "trigger": "friend shares good news or seeks genuine engagement",
+      "response": "pulls out of desk chair, sits on edge of bed with sock feet up and arms around knees, leans in close",
+      "observable": "shifts from chair to bed edge, draws knees to chest, closes physical distance, aligns with existing 'goes very still / pulls knees to chest when truly listening' but specifies the full postural configuration and the social trigger",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "intense_attention_stillness",
+      "trigger": "when paying close attention to someone",
+      "response": "goes very still; physical posture tightens (pulls knees to chest); presence becomes palpable to observer as concentrated focus",
+      "observable": "Vee recognizes and describes the stillness as feeling like a hand on her shoulder \u2014 a tactile metaphor for the weight of Cassie's undivided attention",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "classroom_seating_preparation",
+      "trigger": "entering classroom and settling into seat",
+      "response": "unpacks granola bar, retrieves wrong textbook, then retrieves correct textbook",
+      "observable": "sequence of items removed from bag: granola bar, incorrect textbook, correct textbook",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "listening_mode",
+      "trigger": "Vee speaks; Cassie's attention shifts to her friend",
+      "response": "Cassie says 'Okay' softly, in a waiting posture\u2014holding space without intrusion",
+      "observable": "Reader hears 'Okay,' Cassie said, soft, waiting. when Cassie is truly receiving what Vee offers; contrasts with her dry jokes and flat observations in other modes",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "quiet_measured_acknowledgment",
+      "trigger": "When Cassie is listening thoughtfully or offering measured approval",
+      "response": "Makes a small 'mm' sound as a habitual closing gesture",
+      "observable": "The soft 'mm' vocalization serves as Cassie's characteristic signal of quiet, considered acknowledgment\u2014economical, warm, and consistent with her communication style of flat observations and dry humor rather than elaborate verbal response",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "window_regulation_habit",
+      "trigger": "dormitory occupancy with building heat management",
+      "response": "keeps dorm window cracked two inches at all times; prefers cold air to building's excessive heat",
+      "observable": "window position maintained at two-inch crack; Cassie's stated or demonstrated preference for cooler temperature over ambient dorm conditions",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "conversational_closure_signal",
+      "trigger": "moment of warmth, genuine air, or conversational natural ending between Cassie and Vee",
+      "response": "produces a small 'mm' sound \u2014 understated verbal tell functioning as her version of a blessing; signals warm, quiet approval or conversational closure",
+      "observable": "audible small 'mm' vocalization; brief, subtle, consistent with her low-volume headphone habit and flat expression style; reader recognizes it as affectionate acceptance rather than dismissal",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "window_cracking_preference",
+      "trigger": "cold weather in dorm room",
+      "response": "keeps window cracked; maintains cold air over heated excess",
+      "observable": "window remains partially open during winter months despite ambient temperature",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "tempered_gladness",
+      "trigger": "moments of genuine warmth or positive emotion",
+      "response": "instinctively undercuts with dry joke or skeptical observation, flattening the affective register",
+      "observable": "reader perceives authentic warmth immediately followed by self-deflating humor that prevents sentiment from landing unambiguously",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "processing_positive_news",
+      "trigger": "receives or encounters good news",
+      "response": "exhibits flat affect with skeptical tipping of head; gladness has dry skeptical floor underneath",
+      "observable": "head tilt accompanied by flat vocal tone; skepticism registers before warmth",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "highlighter_attention_shift",
+      "trigger": "Vee walks into the room",
+      "response": "Cassie puts down her highlighter and redirects full attention to Vee",
+      "observable": "The highlighter is uncapped and set aside; Cassie looks at Vee over her reading material",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "warmth_with_underlying_skepticism",
+      "trigger": "in moments of connection or gladness with Vee",
+      "response": "her warmth contains a flat, dry, grounded quality beneath it; gladness paired with skepticism",
+      "observable": "the reader perceives warmth in Cassie that never loses its dry floor; she is glad but the gladness is never uncomplicated or naive",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "receiving_good_news",
+      "trigger": "good news arrives or is shared with her",
+      "response": "whole face opens with gladness; readable, unguarded joy",
+      "observable": "face visibly brightens; expression becomes open and warm; joy registers fully across features",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "seated_listening_posture",
+      "trigger": "sitting with Vee, moments of attention or emotional engagement",
+      "response": "positions herself on edge of Vee's bed with sock feet up and arms around knees",
+      "observable": "Cassie sits with knees drawn up to chest, arms wrapped around them, feet bare or in socks, typically on the edge of Vee's bed during close conversation",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "observes_micro_behavioral_details_with_affective_neutrality",
+      "trigger": "witnesses movement or social interaction in proximity",
+      "response": "eyes track the detail (movement, positioning, expression shift), registers it without facial reaction; reports internally or later as flat observation",
+      "observable": "Eyes flick to track detail (lap-region under table), return to face, expression remains unchanged \u2014 demonstrates simultaneous perception and emotional non-engagement",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "verbal_affirmation_pattern",
+      "trigger": "When Vee shares or Cassie acknowledges understanding / agreement",
+      "response": "Says 'Okay,' in a soft voice, often with a quality of waiting or openness",
+      "observable": "The word 'Okay' spoken softly by Cassie; registers as genuine attention and acceptance rather than dismissal; contrasts with her typically dry, flat expression style",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "seated_foot_position",
+      "trigger": "sitting anywhere (bed, chair, etc.)",
+      "response": "places sock feet up and pulls knees to chest or similar tucked posture",
+      "observable": "sock feet elevated, arms around knees, compact seated position maintained regardless of venue",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "social_invitation_response",
+      "trigger": "invited to group activity or social event",
+      "response": "deflects with brief excuse ('I've got a thing'); opts out without elaboration or visible reluctance",
+      "observable": "When Cassie is invited to social activities, she responds with a short, matter-of-fact excuse and disengages without drama or explanation",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "class_preparation_pattern",
+      "trigger": "attending class",
+      "response": "unpacks granola bar and initially retrieves wrong textbook, then retrieves correct textbook",
+      "observable": "Cassie arrives to class with snack and multiple textbooks, demonstrates self-correction in material organization",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "chair_posture_habitual",
+      "trigger": "when seated, especially when at desk or in dorm",
+      "response": "folds into chair with feet up off the floor (feet do not reach when so positioned)",
+      "observable": "went back to the chair and folded herself into it, feet up off the floor where they never reached",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "flat_dry_gladness",
+      "trigger": "moments of connection or positive feeling regarding someone she cares about",
+      "response": "expresses warmth with a characteristic flatness and dryness underneath; gladness tempered by restraint; head-tipping or similar understated physical acknowledgment rather than effusive expression",
+      "observable": "when Cassie experiences gladness (e.g., Vee confiding in her), her emotional warmth surfaces but is always grounded in a flat, dry quality \u2014 she shows care through restraint and understated gesture rather than overt affect",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "verbal_acknowledgment_gesture",
+      "trigger": "when listening to or receiving information from others, particularly Vee",
+      "response": "says 'Okay' softly, with a quality of waiting\u2014present, receiving, non-performative",
+      "observable": "recurring soft utterance of 'Okay' paired with posture of attention (stilled, knees-to-chest listening position)",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "warmth_with_flat_floor",
+      "trigger": "Cassie experiences or expresses affection or gladness",
+      "response": "Her warmth coexists with an underlying dryness, flatness, or skepticism; emotional expression has a measured, unromantic quality underneath",
+      "observable": "Her gladness always had a flat dry floor under it; she tips her head with warmth that registers as dry or measured rather than effusive",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "highlighter_study_interrupt",
+      "trigger": "Vee walks into the room",
+      "response": "puts highlighter down immediately, stops reading, redirects full attention to friend",
+      "observable": "The highlighter is uncapped and set down; Cassie's gaze shifts from text to Vee; the action signals instant availability and prioritization of friendship over study",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "allows_subject_pivot",
+      "trigger": "conversation partner wants to change subject",
+      "response": "lets the pivot happen",
+      "observable": "Cassie does not resist, redirect, or persist when someone changes conversational direction",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "humor_recognition_tell",
+      "trigger": "recognizes a joke or dry line",
+      "response": "slightly cocks eyebrow and withholds it for a beat to see if interlocutor recognizes the line before confirming it",
+      "observable": "eyebrow cock held for a beat before release",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "attentional_shift_via_highlighter",
+      "trigger": "Vee enters Cassie's perceptual space",
+      "response": "Cassie puts down her highlighter; the gesture signals her full attention has moved to her friend",
+      "observable": "The highlighter is lowered / set down; Cassie's focus visibly redirects to Vee",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "observant_without_reaction",
+      "trigger": "Witness physical movement or behavioral detail from other characters (particularly Randi)",
+      "response": "Eyes flick to register the detail (location, timing, subtext), then return to neutral; facial expression does not change; no verbal articulation of what was observed",
+      "observable": "Cassie's ability to catch and process social/physical detail while maintaining a blank affect; she sees the structure and wrongness but does not call it out",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "seated_folded_attention",
+      "trigger": "returns to chair during conversation or focus",
+      "response": "folds into chair with feet up off floor, body compact and still",
+      "observable": "Cassie pulls herself into the chair with knees drawn, feet suspended above the floor, creating a contained posture that signals deep listening or processing",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "social_deflection_mode",
+      "trigger": "social invitation or group activity proposal",
+      "response": "declines with low-friction excuse formula ('I've got a thing') and redirects others to attend without her",
+      "observable": "Cassie uses a characteristic refusal pattern that signals she is not available for group activities, leaving space for others to proceed; the formula is brief, non-accusatory, and implies prior commitment rather than preference-based rejection",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "in_class_routine",
+      "trigger": "attending class",
+      "response": "unpacks granola bar and retrieves textbooks (wrong one first, then correct one)",
+      "observable": "Cassie unpacking a granola bar and the wrong textbook and then the right one in class",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "minimal_affirmation_in_listening",
+      "trigger": "Vee speaks; Cassie is paying full attention; moment of acknowledgment or acceptance needed",
+      "response": "Cassie says 'Okay,' soft, waiting \u2014 signals active listening without performance or judgment",
+      "observable": "'Okay,' Cassie said, soft, waiting.",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "seated_with_feet_up",
+      "trigger": "sitting, regardless of location or context",
+      "response": "pulls feet up (socked feet), typically drawing knees toward chest or holding them with arms",
+      "observable": "Cassie sitting with socked feet raised on furniture (bed, chair, etc.) and knees drawn up, often while emotionally engaged or listening intently",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "emotional_warmth_manifestation",
+      "trigger": "When Cassie experiences genuine positive feeling toward someone (e.g., her friend Vee)",
+      "response": "Expresses gladness flatly, with dry humor; the warmth is present but rendered through dryness rather than conventional warmth cues; she tips her head, the gesture understated",
+      "observable": "Cassie's affection reads as dry jokes and flat observations; reader perceives genuine caring precisely because of, not despite, its flat delivery; contrasts sharply with Randi's performed warmth and Vee's more conventional emotional range",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "conversation_pivot_acceptance",
+      "trigger": "conversation partner initiates subject change",
+      "response": "lets the pivot happen without resistance or attempt to redirect",
+      "observable": "Cassie allows conversational shifts to occur; does not push back on topic changes or attempt to steer discussion back to previous subject",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "detects_physical_detail_without_expression",
+      "trigger": "observes another character's movement or physical positioning in social space",
+      "response": "registers the detail with eye movement, then returns to neutral expression; does not vocalize or show emotional reaction",
+      "observable": "eyes flick to track movement, face remains unchanged; reports or reacts to perceptual readout without articulating mechanism",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "reading_attentiveness_toggle",
+      "trigger": "Vee's entrance or departure from Cassie's immediate attention",
+      "response": "Puts highlighter down (focus shifts to Vee); picks it back up (focus returns to task/reading)",
+      "observable": "Highlighter capped or uncapped; highlighter in hand or set aside; Cassie's gaze direction shifts between reading material and friend",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "verbal_affirmation",
+      "trigger": "when Vee or another character shares information or seeks Cassie's acknowledgment",
+      "response": "says 'Okay' softly, in a waiting register; minimal, non-performative affirmation that signals attentiveness without elaboration",
+      "observable": "Cassie's characteristic sign-off or minimal affirmation is 'Okay,' said soft, waiting \u2014 reflects her role as listener and her resistance to performed speech",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "receiving_good_news_response",
+      "trigger": "Cassie receives good news",
+      "response": "Whole face opens; visible gladness; authenticity shows fully",
+      "observable": "Face becomes openly glad and unguarded",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "sitting_posture_intimate_setting",
+      "trigger": "sitting on Vee's bed in shared dorm room space during private moments",
+      "response": "pulls sock feet up onto bed, wraps arms around knees, compact folded position",
+      "observable": "Cassie sits on edge of Vee's bed with sock feet up and arms around her knees",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "seated_with_knees_drawn",
+      "trigger": "sitting down in any location",
+      "response": "pulls feet up (in socks), wraps arms around knees",
+      "observable": "Cassie sits with sock feet drawn up and arms wrapped around her knees, a recurring posture visible across multiple scenes and contexts",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "sparse_communicator",
+      "trigger": "social interaction; being present in shared spaces",
+      "response": "contributes minimal verbal content; lets silence and observation dominate her presence",
+      "observable": "Cassie produces significantly fewer utterances than peers; her contributions are weighted and deliberate when they occur",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "attentive_to_vee",
+      "trigger": "Vee walks into the room",
+      "response": "Cassie puts the highlighter down; her full attention shifts to her friend; she reads Vee instantly",
+      "observable": "Highlighter goes down; body language signals immediate focus; perceptual shift from task to person",
+      "distinguish_from": []
+    }
+  ],
   "temporal_states": [],
   "relationships": [],
   "negations": [
