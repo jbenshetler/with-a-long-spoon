@@ -172,7 +172,7 @@ She closed the distance she'd made, came up against him, bare skin to his shirt,
 
 It went straight through him — heat, all heat, the night turning over and showing its underside, the fact of what they were doing said out loud in his own front room. He pulled her in and kissed her, hard, his hand spreading wide on the bare of her back and pressing her the length of him.
 
-She kissed him and then she stopped kissing him and slid down. She undid his jeans with two quick certain hands, the button and the zip, and worked the jeans and the shorts down off his hips together in one motion, and he stepped a foot free of them, and she went down onto her knees on the rug in front of him with the heels tucked under her and her bare back straight and her face lifting and her hands coming up to him, and took him in her hand, and looked up the length of him with the lamp on her face, and brought her mouth to the head of him and licked, once — a taste, the flat of her tongue, a small first taste of what he'd carried in from the drive.
+She kissed him and then she stopped kissing him and slid down. She undid his jeans with two quick certain hands, the button and the zip, and worked the jeans and the shorts down off his hips together in one motion, and he stepped a foot free of them, and she went down onto her knees on the rug in front of him with the heels tucked under her and her bare back straight and her face lifting and her hands coming up to him, and took him in her hand, and looked up the length of him with the lamp on her face, and brought her mouth to the head of him and licked, once — a taste, the flat of her tongue, a small first taste of what he'd kept warm for her.
 
 Her whole body answered before she did.
 
