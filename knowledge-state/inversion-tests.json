@@ -2336,6 +2336,14 @@
     "source_scene": "scenes/randis-walk-of-shame.md"
   },
   {
+    "question": "What is Randi's physical appearance?",
+    "expected_answer": "Randi at the counter in the cream and the leggings, the ponytail bound clean, ordering for them both without asking and getting it right",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/together-in-class.md"
+  },
+  {
     "question": "How do Vivienne's vulnerability and bravery increase simultaneously across the year?",
     "expected_answer": "Vee becomes more vulnerable **and** braver, concurrently, across the year. The two are the same operation seen from two angles. More vulnerable because her interior is now open at registers it was not before \u2014 new depths are new exposure-channels. Braver because her apparatus has integrated the new register into her existing capacities. **Both faces increase at the same rate, by the same operation.**",
     "entity_name": "Vivienne",
@@ -3702,6 +3710,14 @@
     "stale": true,
     "last_result": "FAIL",
     "source_scene": "scenes/porch-scene.md"
+  },
+  {
+    "question": "What does Kinsey suggest about Pace's physical appearance?",
+    "expected_answer": "\"Okay but he's *cute,* right?\" she said. \"Like \u2014 short-cute? I feel like he's a short-cute.\"",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/randis-walk-of-shame.md"
   },
   {
     "question": "What is one of Vee's physical self-comfort gestures that she performs without awareness?",
@@ -6392,6 +6408,14 @@
     "source_scene": "meta/meta-arch-pace.md"
   },
   {
+    "question": "What is Vee's relationship to being watched or seen?",
+    "expected_answer": "I want him to see me.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/hiking-rainstorm.md"
+  },
+  {
     "question": "What is the nature of Randi's envy of Vee, and what exactly does she envy?",
     "expected_answer": "Randi's envy is precisely this: Vee can show need and be fed and thrive; Randi cannot show need, cannot supply her own, so the need runs unmet, re-filed forever.",
     "entity_name": "Randi",
@@ -6406,6 +6430,14 @@
     "stale": false,
     "last_result": "PASS",
     "source_scene": "scenes/ignition-scalding.md"
+  },
+  {
+    "question": "What dress does Vee want for the ceremony and what does it mean to her?",
+    "expected_answer": "I saw a dress. In a magazine. The one they leave out in the lobby. It was silk. Russet \u2014 like \u2014 the color, what to do with the color, \u2014 like the red of a brick. That kind of red. It just looked like the dress. Like the one.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/hiking-rainstorm.md"
   },
   {
     "question": "How do Pace and Randi operate on Vivienne's core mechanism in opposite directions?",
@@ -6454,6 +6486,14 @@
     "stale": false,
     "last_result": "PASS",
     "source_scene": "meta/meta-arch-pace.md"
+  },
+  {
+    "question": "What is Pace's physical build?",
+    "expected_answer": "He is not a big man",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/the-fitting.md"
   },
   {
     "question": "What is Vee's relationship with Randi and how does she regard her?",
@@ -6662,6 +6702,14 @@
     "stale": false,
     "last_result": "PASS",
     "source_scene": "meta/meta-arch-randi.md"
+  },
+  {
+    "question": "What recurring objects are associated with Pace's craft?",
+    "expected_answer": "He laid the burgundy out on the long table and weighted it and went at it with shears",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/the-fitting.md"
   },
   {
     "question": "How does Pace prepare his environment in anticipation of Vee's presence?",
@@ -7184,6 +7232,14 @@
     "source_scene": "meta/meta-arch-pace.md"
   },
   {
+    "question": "What is Vee's behavioral pattern when desire overcomes her self-control?",
+    "expected_answer": "It wasn't a plan \u2014 nothing in her sat down and schemed; it spilled out of her the way everything did, the wanting rising up and out before she could decide to want it.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/the-fitting.md"
+  },
+  {
     "question": "How does Randi's management apparatus work \u2014 how does she handle feelings she cannot accept?",
     "expected_answer": "Randi manages herself by categorizing everything; the unacceptable gets filed into an acceptable box before it shows.",
     "entity_name": "Randi",
@@ -7230,6 +7286,14 @@
     "stale": false,
     "last_result": "FAIL",
     "source_scene": "scenes/together-in-class.md"
+  },
+  {
+    "question": "How does Pace handle a moment of emotional vulnerability from someone else?",
+    "expected_answer": "He didn't pretend. He didn't make it large either. He just walked beside her a moment, like he was letting the true thing have its space",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/the-froyo-walk.md"
   },
   {
     "question": "What is Vee's physical behavior when she is agitated or emotionally overwhelmed?",
@@ -7296,6 +7360,14 @@
     "source_scene": "scenes/brunch-fitting-randi.md"
   },
   {
+    "question": "What is Pace's scent?",
+    "expected_answer": "She caught the smell of him \u2014 clean cotton and something warmer underneath, the back of his neck, his hair.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/the-fitting.md"
+  },
+  {
     "question": "What are the two sources of Pace's consent architecture?",
     "expected_answer": "His father's abuse taught him non-consent = coercion = what his father was. The line between consensual lead and coercive control is the whole architecture of his identity.",
     "entity_name": "Pace",
@@ -7310,6 +7382,14 @@
     "stale": false,
     "last_result": "PARTIAL",
     "source_scene": "scenes/porch-scene.md"
+  },
+  {
+    "question": "What is Pace's behavioral tell when his attention shifts from the work to Vee?",
+    "expected_answer": "the businesslike set of his mouth slipped, just barely, a small softening at the corners, the tape unimportant for the space of a breath.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/the-fitting.md"
   },
   {
     "question": "What is Pace's method of sexual dominance?",
@@ -7360,12 +7440,36 @@
     "source_scene": "meta/meta-arch-randi.md"
   },
   {
+    "question": "What is Vee's skin tone?",
+    "expected_answer": "the cloth and her own coloring, the red of her hair and the warmth of her skin",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/the-fitting.md"
+  },
+  {
+    "question": "What is Pace's behavioral pattern when receiving admiration or praise?",
+    "expected_answer": "He didn't preen. That was the thing about him she kept not being ready for. A different man would have let the moment be about him, and he just tipped his head, a little sheepish, and said, \"The collar took me four tries,\" and reached for a measuring tape coiled on the table, and that was the end of his interest in being admired.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/the-fitting.md"
+  },
+  {
     "question": "What is Pace's physical response to prolonged exposure to the cold rain?",
     "expected_answer": "her fingers closed around it and it was shaking.",
     "entity_name": "Pace",
     "stale": false,
     "last_result": "FAIL",
     "source_scene": "scenes/hiking-rainstorm.md"
+  },
+  {
+    "question": "What is Pace's behavioral pattern when he is working on a craft?",
+    "expected_answer": "he forgot her entirely, in the good way, in the way that was its own kind of attention turned sideways",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/the-fitting.md"
   },
   {
     "question": "What is Pace's behavioral pattern around checking in with Randi during a scene?",
@@ -7416,6 +7520,30 @@
     "source_scene": "scenes/the-meet-cute.md"
   },
   {
+    "question": "What is Pace's behavioral response when Vee deliberately provokes him physically?",
+    "expected_answer": "He went red.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/the-fitting.md"
+  },
+  {
+    "question": "What is Pace's pattern for physical touch during the fitting?",
+    "expected_answer": "He set two fingers at the base of her throat to anchor the tape and laid his other hand flat along the top of her shoulder to carry it out, both hands on her at once, warm, brief, and then he stepped back to the little table and wrote the number down.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/the-fitting.md"
+  },
+  {
+    "question": "What is Pace's pattern for anticipating the physical comfort of others?",
+    "expected_answer": "The whole house cranked up so a woman could stand half-bare in it and not be cold. He'd thought of that. He'd thought of that days ago, probably, turning the thermostat up before she arrived",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/the-fitting.md"
+  },
+  {
     "question": "What is Vee's physical tell when she is anxious or frightened?",
     "expected_answer": "Her chest went tight. Her hand came up off the door toward her throat and stopped halfway and dropped.",
     "entity_name": "Vee",
@@ -7432,12 +7560,28 @@
     "source_scene": "scenes/ignition-scalding.md"
   },
   {
+    "question": "How does Pace handle small practical logistics in a social situation?",
+    "expected_answer": "He weighed his own cup on the scale and paid for both before she'd found her wallet",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/the-froyo-walk.md"
+  },
+  {
     "question": "How should writers render Pace's attentiveness in prose \u2014 what framing should be avoided?",
     "expected_answer": "Pace does not file. He does not catalog. He does not run accounts. *He sees, he remembers, he is present.*",
     "entity_name": "Pace",
     "stale": false,
     "last_result": "PARTIAL",
     "source_scene": "meta/meta-arch-bible.md"
+  },
+  {
+    "question": "What is Pace's pattern when looking at something he is making or working on?",
+    "expected_answer": "He looked up from the tape. \"The bra too,\" he said, gently, plainly. \"It changes the line. It'll lie to me.\"",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/the-fitting.md"
   },
   {
     "question": "What is Cassie's experience of being looked at by men compared to Vee?",
@@ -7464,12 +7608,28 @@
     "source_scene": "meta/meta-arch-bible.md"
   },
   {
+    "question": "What are Vee's legs like physically?",
+    "expected_answer": "she caught herself glancing down \u2014 at her own legs, bare in the lamp light, longer and more shapely than she sometimes remembered they were",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/the-fitting.md"
+  },
+  {
     "question": "How do men typically respond to Cassie's presence compared to other women she is with?",
     "expected_answer": "she had spent two years beside Cassie and had seen it from inside the comparison: the same room, the same moment, a man's eyes moving over the both of them and warming on Vee, going easy and unbothered on Cassie, the way they'd go on an older woman, on a kid, on a man he was glad enough to meet and would never think about again.",
     "entity_name": "Cassie",
     "stale": false,
     "last_result": "PASS",
     "source_scene": "scenes/the-meet-cute.md"
+  },
+  {
+    "question": "What is Vee's hair coloring?",
+    "expected_answer": "the cloth and her own coloring, the red of her hair and the warmth of her skin",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/the-fitting.md"
   },
   {
     "question": "What is the cutting voice Vee carries and how should it be rendered in prose?",
@@ -7512,6 +7672,14 @@
     "source_scene": "scenes/hiking-rainstorm.md"
   },
   {
+    "question": "How does Pace look at Vee when he is not working?",
+    "expected_answer": "What she'd gotten was \u2014 she hunted for the word \u2014 admired. He had looked at her the way he'd looked at the cloth, the way he looked at things he'd already decided were worth four tries.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/the-fitting.md"
+  },
+  {
     "question": "What is Vee's characteristic way of letting Pace know she is home safe?",
     "expected_answer": "*home safe \u2764\ufe0f* and a photo of her own front door, the little wreath she kept on it year-round, sent the way she sent these so he'd know without his having to ask.",
     "entity_name": "Vee",
@@ -7526,6 +7694,14 @@
     "stale": false,
     "last_result": "PARTIAL",
     "source_scene": "scenes/the-froyo-walk.md"
+  },
+  {
+    "question": "What relationship does Pace have with Vee and what is its dynamic at this point?",
+    "expected_answer": "An early visit to his house.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/the-fitting.md"
   },
   {
     "question": "What is Cassie's physical build or stature?",
@@ -7584,6 +7760,22 @@
     "source_scene": "scenes/the-meet-cute.md"
   },
   {
+    "question": "What is Vee's relationship to being waited on or made to feel worth someone's time?",
+    "expected_answer": "She wasn't used to being the thing a person waited on.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/the-froyo-walk.md"
+  },
+  {
+    "question": "How does Pace look at Vee during the fitting?",
+    "expected_answer": "It was like his eyes asked, *May I look.*",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/vee-tells-cassie-fitting.md"
+  },
+  {
     "question": "What is the significance of Vee's pearl earrings?",
     "expected_answer": "**The pearls \u2014 the one true thing.** Her grandmother's pearl earrings, the only genuinely good object she owns.",
     "entity_name": "Vivienne (Vee)",
@@ -7606,6 +7798,22 @@
     "stale": false,
     "last_result": "PARTIAL",
     "source_scene": "scenes/cassie-before.md"
+  },
+  {
+    "question": "What is Pace's pattern of anticipating Vee's physical needs or comfort?",
+    "expected_answer": "And the house was warm.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/vee-tells-cassie-fitting.md"
+  },
+  {
+    "question": "What craft or skill does Pace practice?",
+    "expected_answer": "Burgundy. For the honor society induction. A skirt. Like the magazine. He's making it.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/vee-tells-cassie-fitting.md"
   },
   {
     "question": "What academic achievement does Vee describe to Pace?",
@@ -7646,6 +7854,14 @@
     "stale": false,
     "last_result": "PARTIAL",
     "source_scene": "scenes/the-meet-cute.md"
+  },
+  {
+    "question": "What is Vee's self-concept around whether good things happen to her?",
+    "expected_answer": "She'd started to convince herself that he wouldn't call, because things this good didn't happen to her. She wasn't that girl.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/the-froyo-walk.md"
   },
   {
     "question": "What is the meaning of Randi's name?",
@@ -7752,12 +7968,28 @@
     "source_scene": "meta/meta-arch-bible.md"
   },
   {
+    "question": "What is Cassie's behavioral pattern when she is paying close attention to someone?",
+    "expected_answer": "She was very still in the way she got when she was paying attention, and Vee felt the attention on her like a hand on her shoulder.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/vee-tells-cassie-fitting.md"
+  },
+  {
     "question": "What internalized voices or shame figures does Vee carry that surface in moments of exposure?",
     "expected_answer": "A small ugly word arrived from the back of her mind, in her mother's register: stripper.",
     "entity_name": "Vee",
     "stale": false,
     "last_result": "PASS",
     "source_scene": "scenes/the-fitting.md"
+  },
+  {
+    "question": "How does Pace communicate requests during his work?",
+    "expected_answer": "He said it the way he says things about the work. Like it was a fact. *The bra changes the line.* And then he \u2014 He waited. He said it and then he waited, to see if it was \u2014 he left it open. He left me a door.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/vee-tells-cassie-fitting.md"
   },
   {
     "question": "What is Pace's characteristic smile like?",
@@ -7773,6 +8005,14 @@
     "entity_name": "Pace",
     "stale": false,
     "last_result": "PARTIAL",
+    "source_scene": "scenes/vee-tells-cassie-fitting.md"
+  },
+  {
+    "question": "What is the prior incident involving Vee taking her shirt off in front of Pace?",
+    "expected_answer": "You knocked on the window, Vee.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
     "source_scene": "scenes/vee-tells-cassie-fitting.md"
   },
   {
@@ -7808,6 +8048,14 @@
     "source_scene": "meta/meta-arch-randi.md"
   },
   {
+    "question": "What is Vee's relationship with Randi?",
+    "expected_answer": "picking her \u2014 walking right by Randi, Randi!, without even looking",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/the-fitting.md"
+  },
+  {
     "question": "What is Vee's habitual physical gesture when she is emotionally stirred?",
     "expected_answer": "She put her hand to her collarbone for a second, briefly, in a way she did not register as a gesture she did.",
     "entity_name": "Vee",
@@ -7816,12 +8064,36 @@
     "source_scene": "scenes/the-meet-cute.md"
   },
   {
+    "question": "What is Vee's physical tell when she is nervous or self-conscious?",
+    "expected_answer": "She bit her lower lip, knowing it would drip, and then found she didn't care.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/the-froyo-walk.md"
+  },
+  {
+    "question": "What is Vee's internalized pattern around taking up space or having enough?",
+    "expected_answer": "Usually she heard her mother before she'd finished, *that's plenty, that's enough now.*",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/the-froyo-walk.md"
+  },
+  {
     "question": "Why does Randi resent Pace for seeing her?",
     "expected_answer": "**She resents Pace for seeing her.** Being seen breaches her only defense; you don't feel gratitude toward what breaches you, you feel exposed, and exposure curdles to resentment in someone built on control.",
     "entity_name": "Randi",
     "stale": false,
     "last_result": "PARTIAL",
     "source_scene": "meta/meta-arch-bible.md"
+  },
+  {
+    "question": "What is Vee's physical tell when she is ashamed or bracing for judgment?",
+    "expected_answer": "She had been making herself smaller without knowing it.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/the-fitting.md"
   },
   {
     "question": "What is the recurring object most closely associated with Pace's craft identity in this scene?",
@@ -7846,6 +8118,14 @@
     "stale": false,
     "last_result": "PASS",
     "source_scene": "scenes/the-meet-cute.md"
+  },
+  {
+    "question": "What is Vee's physical response when her shame is met with acceptance rather than judgment?",
+    "expected_answer": "Her breath went out of her all at once. Her hand came up to her own collarbone before she knew it was moving.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/the-fitting.md"
   },
   {
     "question": "How does Pace express care and provision in a domestic context \u2014 does he announce it, or does he act without drawing attention to himself?",
@@ -7952,12 +8232,28 @@
     "source_scene": "scenes/porch-scene.md"
   },
   {
+    "question": "What is Pace's build?",
+    "expected_answer": "He's a bodybuilder who makes dresses.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/vee-tells-cassie-fitting.md"
+  },
+  {
     "question": "How does Pace respond when Vee signals a problem on the trail?",
     "expected_answer": "He turned at once.",
     "entity_name": "Pace",
     "stale": false,
     "last_result": "FAIL",
     "source_scene": "scenes/hiking-rainstorm.md"
+  },
+  {
+    "question": "What is Vee's coloring or physical appearance in relation to the fabric Pace chose?",
+    "expected_answer": "He found a bolt of it, this burgundy, not even the same color I described, he went *deeper,*",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/vee-tells-cassie-fitting.md"
   },
   {
     "question": "What is the parallel between Pace and Randi in their habituated refusals?",
@@ -8008,12 +8304,28 @@
     "source_scene": "meta/meta-arch-bible.md"
   },
   {
+    "question": "What shirt did Pace make for Vee and what are its qualities?",
+    "expected_answer": "There's no tag in it \u2014 I went looking, the first night I had it.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/vee-tells-cassie-fitting.md"
+  },
+  {
     "question": "What are the three appetites Randi develops toward Vee, and in what order do they ignite?",
     "expected_answer": "**(c) The loose aliveness-need Pace awakened.** Already running before Vee. At the pointing game, (c) lurches toward a possible object \u2014 the involuntary *Yes* is (c) recognizing, pre-articulately, that *that one* might feed it. Randi is never cool about Vee after the pointing game.",
     "entity_name": "Randi",
     "stale": false,
     "last_result": "PARTIAL",
     "source_scene": "meta/meta-arch-randi.md"
+  },
+  {
+    "question": "What is Vee's relationship to the shirt Pace made her?",
+    "expected_answer": "You've been sleeping in that shirt all week.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/vee-tells-cassie-fitting.md"
   },
   {
     "question": "What is Vee's chest like?",
@@ -8046,6 +8358,22 @@
     "stale": false,
     "last_result": "PARTIAL",
     "source_scene": "scenes/origin-campus-walk.md"
+  },
+  {
+    "question": "What is Pace's physical manner during the fitting process?",
+    "expected_answer": "He started at the top and worked down. He was very \u2014 he was careful. Close, and then not close. He'd take a measurement and step away and write it down and come back. Over and over.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/vee-tells-cassie-fitting.md"
+  },
+  {
+    "question": "What is Vee's behavioral pattern when she is processing something emotionally significant?",
+    "expected_answer": "Vee opened her mouth. She set her bag on the floor. She picked it back up and put it on the chair. She turned around.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/vee-tells-cassie-fitting.md"
   },
   {
     "question": "What formal or old-fashioned speech habit does Pace have?",
@@ -8096,6 +8424,22 @@
     "source_scene": "scenes/the-bench.md"
   },
   {
+    "question": "What rule does Vee keep about kissing?",
+    "expected_answer": "\"I don't kiss a man I've known a few days,\" she said. It was out before she'd decided to say it \u2014 a rule that had never been breached before.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/may-i-choose.md"
+  },
+  {
+    "question": "What objects or preparations does Pace keep at his house related to his craft?",
+    "expected_answer": "In his dining room. On the table.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/vee-tells-cassie-fitting.md"
+  },
+  {
     "question": "What does Pace's flannel shirt smell like?",
     "expected_answer": "It smelled of soap and of a man and of the inside of a gym bag, and of her own wet hair where it had been pressed to her neck the whole drive.",
     "entity_name": "Pace",
@@ -8126,6 +8470,14 @@
     "stale": false,
     "last_result": "PASS",
     "source_scene": "meta/meta-arch-cassie.md"
+  },
+  {
+    "question": "What is Cassie's pattern when Vee redirects or pivots away from an emotional moment?",
+    "expected_answer": "Cassie let the pivot happen. She was good at that.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/vee-tells-cassie-fitting.md"
   },
   {
     "question": "What are Vee's habits around arriving to class?",
@@ -8184,6 +8536,14 @@
     "source_scene": "scenes/porch-scene.md"
   },
   {
+    "question": "How does Randi normally close doors?",
+    "expected_answer": "Randi did not close doors quietly. She closed them with the small unhurried click of a woman who knew the room was hers, who had been the room for as long as she had been arriving in it.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/randis-walk-of-shame.md"
+  },
+  {
     "question": "What is the flat date scene, and what does it reveal about Randi's choice?",
     "expected_answer": "A SATC lunch where Vee glows about Pace. She leaves the SATC frame. She picks a man \u2014 handsome, kind, socially appropriate, conventionally perfect. Dinner is fine. Conversation is fine. The sex is a performance she could do in her sleep. She is operating the equipment.",
     "entity_name": "Randi",
@@ -8240,6 +8600,30 @@
     "source_scene": "scenes/together-in-class.md"
   },
   {
+    "question": "What is Randi's role in the sorority's organizational structure?",
+    "expected_answer": "Randi understood it from the inside \u2014 she sat on the board herself, Standards",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/randis-walk-of-shame.md"
+  },
+  {
+    "question": "What vehicle is associated with Pace?",
+    "expected_answer": "\"Wait \u2014 is that the gray pickup I keep seeing parked behind Hahn?\"",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/randis-walk-of-shame.md"
+  },
+  {
+    "question": "How does Randi walk up stairs?",
+    "expected_answer": "She walked them the way she walked stairs, the small light walk she had walked them with every morning of the year.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/randis-walk-of-shame.md"
+  },
+  {
     "question": "Who is Brooke and how does she operate in the sorority?",
     "expected_answer": "The one person in the sorority who out-operates Randi.",
     "entity_name": "Brooke",
@@ -8262,6 +8646,22 @@
     "stale": false,
     "last_result": "PARTIAL",
     "source_scene": "meta/meta-arch-bible.md"
+  },
+  {
+    "question": "What is Randi's observable tell when she is concealing an emotion?",
+    "expected_answer": "something had gone tight behind it, some muscle she was holding, and her thumb had found the base of her water glass and was working the edge of it, turning it a slow degree against the cloth and back.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/brunch-fitting-randi.md"
+  },
+  {
+    "question": "What is Vee's chest like?",
+    "expected_answer": "Vee's own chest, under the safe black, did not do elegant.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/brunch-fitting-randi.md"
   },
   {
     "question": "What is the internal voice that restrains Vee from dressing more revealingly?",
@@ -8288,6 +8688,22 @@
     "source_scene": "scenes/together-in-class.md"
   },
   {
+    "question": "Where does Randi keep her clutch when she is home?",
+    "expected_answer": "she set the clutch in the place where the clutch lived when she was not carrying it.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/randis-walk-of-shame.md"
+  },
+  {
+    "question": "What physical tell does Randi display when caught off guard or under social pressure?",
+    "expected_answer": "Randi's smile arranged. The arrangement was a fraction late.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/randis-walk-of-shame.md"
+  },
+  {
     "question": "What is the six-channel week and why does the configuration consume Randi's mental life?",
     "expected_answer": "**The Vee-channel \u2014 the six-channel week (v6):** The Vee-channel consumes Randi's mental life across the year in six concurrent channels: *thinking about the operations when alone; the updates Vee delivers at the lunches; jealousy at Pace's continuing operation on Vee; sex with Pace (now running over a wire that includes Vee); controlling Vee in the SATC scenes; engaging in the scenes themselves.*",
     "entity_name": "Randi",
@@ -8302,6 +8718,22 @@
     "stale": false,
     "last_result": "PARTIAL",
     "source_scene": "meta/meta-arch-bible.md"
+  },
+  {
+    "question": "What is Vee's behavioral pattern around money and paying?",
+    "expected_answer": "Randi reached for it \u2014 'oh, let me' \u2014 but Vee already had her card out, the way Vee always had her card out, because the one thing she would not do at this table was let Randi buy her seat at it.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/brunch-fitting-randi.md"
+  },
+  {
+    "question": "What is Vee's physical reaction when she is caught in something she can't talk her way out of?",
+    "expected_answer": "she started to laugh. It came up out of her before she could decide anything about it, the laugh of the absolutely cornered, and she put her face in her hands for a second and then dropped them and gave up.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/brunch-fitting-randi.md"
   },
   {
     "question": "What does Vee's phone say about her?",
@@ -8360,6 +8792,22 @@
     "source_scene": "scenes/origin-campus-walk.md"
   },
   {
+    "question": "What is Vee's vocal pattern when performing for Randi specifically?",
+    "expected_answer": "She heard her own voice do the thing it did for Randi, the slightly-up thing, the trying-to-sound-like-this-happens-to-me thing.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/brunch-fitting-randi.md"
+  },
+  {
+    "question": "What is Vee's hair like?",
+    "expected_answer": "The wind came over the windshield and got into Vee's hair at once, lifting it, throwing copper across her face so she had to hold it back with a hand \u2014 her hair was having a torrid affair with the wind, the whole boisterous length of it carrying on without her.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/brunch-fitting-randi.md"
+  },
+  {
     "question": "What are Vivienne's aliases and how should her name be used on the page?",
     "expected_answer": "AKA Vee, V.T.",
     "entity_name": "Vivienne",
@@ -8384,6 +8832,30 @@
     "source_scene": "meta/meta-arch-pace.md"
   },
   {
+    "question": "What is Vee's instinctive physical response to being kissed by Randi?",
+    "expected_answer": "She put two fingers to her mouth without deciding to.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/brunch-fitting-randi.md"
+  },
+  {
+    "question": "What is Randi's habitual way of saying goodbye physically?",
+    "expected_answer": "Randi's hand came up and found the hinge of her jaw, light, just resting there, just steadying, and kissed her on the mouth.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/brunch-fitting-randi.md"
+  },
+  {
+    "question": "How does Randi relate to social rules and conventions like traffic laws or restaurant protocols?",
+    "expected_answer": "Randi pulled out without checking whether Vee was ready, which was its own kind of statement",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/brunch-fitting-randi.md"
+  },
+  {
     "question": "What is the meaning load carried by Vivienne's name?",
     "expected_answer": "*Vivienne* from Latin *vivus* \u2014 alive, living. Load-bearing; should be felt before it is parsed.",
     "entity_name": "Vivienne",
@@ -8406,6 +8878,14 @@
     "stale": false,
     "last_result": "PASS",
     "source_scene": "meta/meta-arch-vivienne.md"
+  },
+  {
+    "question": "What is Vee's characteristic verbal defense mechanism in uncomfortable moments?",
+    "expected_answer": "It came easy, the way it always came \u2014 the light quick thing that made people smile, that had always made people smile.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/brunch-fitting-randi.md"
   },
   {
     "question": "What is Pace's behavioral pattern when helping someone with a problem he could easily solve himself?",
@@ -8440,6 +8920,22 @@
     "source_scene": "meta/meta-arch-vivienne.md"
   },
   {
+    "question": "How does Randi's hair behave in the wind?",
+    "expected_answer": "Randi's hair moved only at the very ends, as if it were flirting with the wind and had decided how far it would go. The rest of it stayed where it was meant to, pulled back and bound at the nape, dark and finished.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/brunch-fitting-randi.md"
+  },
+  {
+    "question": "What is Vee's relationship to her family's financial situation?",
+    "expected_answer": "the number that would be smaller tonight in a way she would feel on Thursday",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/brunch-fitting-randi.md"
+  },
+  {
     "question": "What trained analytical skill does Vee apply outside of formal academic problems?",
     "expected_answer": "the muscle she had been developing for two years now, the eye for *how a smart person handles a problem they could handle in any of several ways*",
     "entity_name": "Vee",
@@ -8462,6 +8958,22 @@
     "stale": false,
     "last_result": "PASS",
     "source_scene": "scenes/ignition-scalding.md"
+  },
+  {
+    "question": "What is Randi's characteristic smile like?",
+    "expected_answer": "Randi pushed the sunglasses up into her hair and gave Vee the full smile, the one that arrived all at once and made you the only thing in the frame.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/brunch-fitting-randi.md"
+  },
+  {
+    "question": "How does Randi listen to people?",
+    "expected_answer": "Randi listened the way she listened, which was completely \u2014 chin on her hand, eyes on Vee, going where Vee's animation took them, to her mouth when she talked, to her hands when they moved, down the line of her and back.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/brunch-fitting-randi.md"
   },
   {
     "question": "What does Vivienne keep and what does she carry forward after the year ends?",
@@ -8528,6 +9040,30 @@
     "source_scene": "scenes/the-meet-cute.md"
   },
   {
+    "question": "What does Randi's car look like?",
+    "expected_answer": "The Mercedes was at the curb when Vee came down, top already folded back, Randi behind the wheel in sunglasses with one wrist draped over the top of the door.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/brunch-fitting-randi.md"
+  },
+  {
+    "question": "What is Randi's physical appearance?",
+    "expected_answer": "Randi pushed the sunglasses up into her hair and gave Vee the full smile, the one that arrived all at once and made you the only thing in the frame.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/brunch-fitting-randi.md"
+  },
+  {
+    "question": "How does Vee respond to being watched or looked at?",
+    "expected_answer": "One of them looked at the car, and then at Vee in the car, and held the look a beat past nothing \u2014 and Vee felt herself lift inside it, felt herself become, for that beat, a person who rode in cars like this with people like Randi. She sat in the feeling and did not let it show on her face.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/brunch-fitting-randi.md"
+  },
+  {
     "question": "What is Randi's characteristic facial expression at rest?",
     "expected_answer": "Her face gave away nothing.",
     "entity_name": "Randi",
@@ -8552,6 +9088,22 @@
     "source_scene": "scenes/porch-scene.md"
   },
   {
+    "question": "What are Vee's good shoes like, and what is her relationship to them?",
+    "expected_answer": "They were her good black pumps, the only nice pair she owned, pointed and a little high, and they had been a touch tight on the brick walk from the lot and they were too much for a Saturday lunch and she had known it putting them on and had put them on anyway because there had been nothing else that felt like enough for a place she had not seen yet and had correctly guessed would be like this.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/brunch-fitting-randi.md"
+  },
+  {
+    "question": "What is Vee's habit when reading menus?",
+    "expected_answer": "Vee opened hers and did the thing she did, which was to read the right side first. The column of prices. She read it the way you read a road in fog, looking for what was passable.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/brunch-fitting-randi.md"
+  },
+  {
     "question": "Why can Cassie see through Randi when no one else can?",
     "expected_answer": "**Her plainness is the unstated source of her clear sight.** No skin in the appearance economy \u2014 and (author-knowledge) none in the sexual economy either \u2014 so she reads Randi for *operation* instead of being caught in the beam.",
     "entity_name": "Cassie",
@@ -8566,6 +9118,14 @@
     "stale": false,
     "last_result": "PARTIAL",
     "source_scene": "meta/meta-arch-randi.md"
+  },
+  {
+    "question": "How does Vee respond when she thinks she may have been seen doing something she wants to hide?",
+    "expected_answer": "had anyone seen? She turned and looked at the courtyard \u2014 empty, gone gold in the low sun, nobody on the benches. She looked up at the dorm, the bank of windows, all those lit and unlit squares with anyone behind any of them, and her heart went fast, scanning, counting the dark ones, the ones where someone could have been standing, looking down",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/brunch-fitting-randi.md"
   },
   {
     "question": "How does Randi typically introduce herself?",
@@ -8662,6 +9222,14 @@
     "stale": false,
     "last_result": "PASS",
     "source_scene": "meta/meta-arch-pace.md"
+  },
+  {
+    "question": "What is Pace's characteristic way of communicating care through practical action rather than words?",
+    "expected_answer": "He kept the porch heater low overnight in the colder months \u2014 for the plants, he had said, the way he said practical things, without making them about himself",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/porch-scene.md"
   },
   {
     "question": "What is Randi's relationship to Chi Latte?",
@@ -8824,6 +9392,14 @@
     "source_scene": "scenes/the-meet-cute.md"
   },
   {
+    "question": "What recurring object is associated with Pace and his domestic space?",
+    "expected_answer": "He had a quilt pulled across the two of them, his own quilt, the one that lived on the back of the couch and smelled like him because it had been on his bed before he had put it out here for the cooler months.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/porch-scene.md"
+  },
+  {
     "question": "What is Vee's relationship with her parents and how do they differ?",
     "expected_answer": "her mother had done the proud cry and the I never cry at the same time on the phone.",
     "entity_name": "Vee",
@@ -8846,6 +9422,14 @@
     "stale": false,
     "last_result": "PARTIAL",
     "source_scene": "meta/meta-arch-cassie.md"
+  },
+  {
+    "question": "What physical sensation does Vee associate with the approach of saying something emotionally exposed?",
+    "expected_answer": "She had imagined saying them out loud and felt the heat come up the back of her neck at the imagining.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/porch-scene.md"
   },
   {
     "question": "How does Pace respond when he makes someone laugh or pleases them?",
@@ -8878,6 +9462,14 @@
     "stale": false,
     "last_result": "PARTIAL",
     "source_scene": "meta/meta-arch-pace.md"
+  },
+  {
+    "question": "What is Vee's physical tell when she is suppressing or processing an emotional response she cannot yet name?",
+    "expected_answer": "something else was beginning to move.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/porch-scene.md"
   },
   {
     "question": "What is Randi's alias, and what is her full given name?",
@@ -8920,6 +9512,14 @@
     "source_scene": "meta/meta-arch-pace.md"
   },
   {
+    "question": "How does Pace express physical affection or closeness?",
+    "expected_answer": "His hand rested on her shin under the quilt, warm, not moving, the steady weight of a man who was not in a hurry to be anywhere else.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/porch-scene.md"
+  },
+  {
     "question": "What is the structural contrast between Cassie and Randi in how they deploy social signals?",
     "expected_answer": "She is the **un-instrumented opposite of Randi:** Cassie *withholds* her signal until it's earned; Randi *gives hers up front to capture.*",
     "entity_name": "Cassie",
@@ -8950,6 +9550,14 @@
     "stale": false,
     "last_result": "PASS",
     "source_scene": "meta/meta-arch-cassie.md"
+  },
+  {
+    "question": "How does Vee handle feelings or experiences she does not know what to do with?",
+    "expected_answer": "She had been thinking about it for weeks, in the way you think about something you do not yet know what to do with.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/porch-scene.md"
   },
   {
     "question": "What is the rule for the phrase 'Oh, Vee' and when should it be used?",
@@ -8984,6 +9592,22 @@
     "source_scene": "meta/meta-arch-vivienne.md"
   },
   {
+    "question": "What is Vee's behavioral pattern around repeating an emotionally vulnerable speech act after it has gone unmatched?",
+    "expected_answer": "She would not bring the sentence back. She had said it once, in the pre-dawn warmth of his porch, with her cheek against his shoulder and the sun coming up, and the saying had been her one attempt to give him the opening he had needed for the answer she had been waiting for. He had not given the answer. She would not give him the opening again.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/porch-scene.md"
+  },
+  {
+    "question": "What is Vee's behavioral pattern around saying 'I love you' first?",
+    "expected_answer": "I love you was the thing she actually meant, and I love you was the thing she could not say, because he had not said it, and the rule was that he said it first, and she did not know the rule was a rule until she had bumped against it from the inside, and now she knew.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/porch-scene.md"
+  },
+  {
     "question": "How does Cassie communicate observations \u2014 what is her characteristic delivery style?",
     "expected_answer": "Cassie said it in the same matter-of-fact voice she said everything in, the voice of someone reporting the weather, the voice of someone who had no particular stake in the observation but was reporting it because it was a thing she had observed.",
     "entity_name": "Cassie",
@@ -9006,6 +9630,14 @@
     "stale": false,
     "last_result": "PASS",
     "source_scene": "meta/meta-arch-cassie.md"
+  },
+  {
+    "question": "What is Vee's characteristic approach to preparing something emotionally significant she wants to say?",
+    "expected_answer": "It had assembled itself in her piece by piece \u2014 first as a feeling she could not say, then as the shape of an image, then as the actual words.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/porch-scene.md"
   },
   {
     "question": "What is Vee's habitual social defense mechanism when emotionally exposed?",
@@ -9038,6 +9670,14 @@
     "stale": false,
     "last_result": "PARTIAL",
     "source_scene": "meta/meta-arch-cassie.md"
+  },
+  {
+    "question": "What are Pace's physical tells when he is emotionally affected or processing something significant?",
+    "expected_answer": "his stillness for one beat that was a beat longer than his stillness had been the moment before",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/porch-scene.md"
   },
   {
     "question": "What internalized voice does Vee carry and what does it say?",
@@ -9120,6 +9760,14 @@
     "source_scene": "scenes/the-meet-cute.md"
   },
   {
+    "question": "What is Randi's rhetorical style when she wants something from Pace?",
+    "expected_answer": "the compliments were laid down like stones across a creek, that the stamina and the waste and the sweet lips were a path going somewhere, and that the somewhere was more of his time.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/ignition-scalding.md"
+  },
+  {
     "question": "How does Pace handle being introduced to multiple people at a table?",
     "expected_answer": "He did glance at Randi then, briefly \u2014 the courtesy of a stranger acknowledging that there was another person at the table \u2014 and at Cassie at the next table over, the same courtesy.",
     "entity_name": "Pace",
@@ -9176,6 +9824,22 @@
     "source_scene": "scenes/the-meet-cute.md"
   },
   {
+    "question": "How does Randi behave when she wins something or gets what she came for?",
+    "expected_answer": "He watched her take it. He watched her face do the small bright thing of getting what she came for, the win landing, the relief of it.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/ignition-scalding.md"
+  },
+  {
+    "question": "What is Vee's habitual communication behavior after leaving Pace?",
+    "expected_answer": "*home safe \u2764\ufe0f* and a photo of her own front door, the little wreath she kept on it year-round, sent the way she sent these so he'd know without his having to ask.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/ignition-scalding.md"
+  },
+  {
     "question": "What is Randi's default facial expression and social demeanor?",
     "expected_answer": "Her face was arranged in the small amused expression Randi's face was almost always in, the small *yeah, what about it* expression that anchored every conversation Randi was in.",
     "entity_name": "Randi",
@@ -9200,6 +9864,22 @@
     "source_scene": "scenes/the-meet-cute.md"
   },
   {
+    "question": "What behavioral pattern does Vee show around leaving Pace's house?",
+    "expected_answer": "She had not redone it to leave. She arrived put-together and left undone and did not seem to mind him seeing her undone, and he had taken it for a kind of trust and had not said so.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/ignition-scalding.md"
+  },
+  {
+    "question": "What is Randi's observable response when she notices something didn't go as she planned?",
+    "expected_answer": "He watched something else move under the win for just a moment, a faint snag, a flicker of *that was easy*",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/ignition-scalding.md"
+  },
+  {
     "question": "What is Cassie's pattern of noticing things others miss?",
     "expected_answer": "Cassie, two tables over, looked up at the small movement. Her eyes flicked from Randi's face down to the lap-region under the table and back up again. Her face did not change.",
     "entity_name": "Cassie",
@@ -9214,5 +9894,1117 @@
     "stale": false,
     "last_result": "PARTIAL",
     "source_scene": "scenes/the-meet-cute.md"
+  },
+  {
+    "question": "What car does Vee drive?",
+    "expected_answer": "she folded herself down into the little Corolla, and he shut it after her, the door catching with the soft cheap sound the door made",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/ignition-scalding.md"
+  },
+  {
+    "question": "What perks does Randi's board position give her in the house?",
+    "expected_answer": "Standards rated a single \u2014 one of the few tangible perquisites of a seat on the board, a door she did not have to share, which she had wanted for reasons she had told herself were about the work and were not entirely about the work.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/randis-walk-of-shame.md"
+  },
+  {
+    "question": "What does Randi carry and wear when returning home the morning after?",
+    "expected_answer": "The monogrammed overnight bag was over one shoulder, the clutch in the same hand that held the railing.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/randis-walk-of-shame.md"
+  },
+  {
+    "question": "What is Randi's physical appearance when she undresses?",
+    "expected_answer": "Down the flat of her stomach to the small deep navel, the smooth bare mound below it, the wet shine of her already showing between her thighs; down the long clean lines of her legs to her feet and the small painted toes \u2014 blue, a surprising, delighted blue",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/ignition-scalding.md"
+  },
+  {
+    "question": "What music does Pace keep playing in his house?",
+    "expected_answer": "The Debussy he'd had on low all evening was still going, the sweet unhurried notes moving through the front rooms, and he left it.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/ignition-scalding.md"
+  },
+  {
+    "question": "What is Pace's characteristic manner of moving and doing things physically?",
+    "expected_answer": "He let go of her hand and rolled up onto his hip and came over her, taking his weight on his forearm, rearranging the long sweaty business of himself across the bed to get where he was going, unhurried, the way he did everything, settling his elbow and finding his balance and lowering himself by degrees",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/ignition-scalding.md"
+  },
+  {
+    "question": "What is Pace's academic status and field?",
+    "expected_answer": "\"He's grad school, right? Pace?\"",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/randis-walk-of-shame.md"
+  },
+  {
+    "question": "How is Randi's closet organized?",
+    "expected_answer": "It was orderly the way it had been for two years \u2014 the narrow space worked to its limit, everything earning its hanger, the palette running bone to camel to oatmeal with the one disciplined oxblood at the end.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/randis-walk-of-shame.md"
+  },
+  {
+    "question": "What jewelry does Randi wear?",
+    "expected_answer": "the solitaire on its fine chain at her throat, one bright hard point catching the lamp",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/ignition-scalding.md"
+  },
+  {
+    "question": "What is Randi's facial expression after being thoroughly spent in bed?",
+    "expected_answer": "Her face was turned up to the ceiling, gone smooth and blank and far, the eyes open and not on anything, the small permanent surprise of her resting features wiped to a stillness underneath it",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/ignition-scalding.md"
+  },
+  {
+    "question": "What recurring habit does Pace have when Vee gets in her car?",
+    "expected_answer": "he always opened the car door for her",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/ignition-scalding.md"
+  },
+  {
+    "question": "What is Pace's scent or the sensory texture he carries from one woman to the next?",
+    "expected_answer": "\"She was here.\" Low. Her nose at his jaw, finding it. \"I can smell her on you.\"",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/ignition-scalding.md"
+  },
+  {
+    "question": "What is Randi's habitual relationship to crying \u2014 how does she handle the impulse?",
+    "expected_answer": "She lay under the duvet and looked at the ceiling and did not cry.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/randis-walk-of-shame.md"
+  },
+  {
+    "question": "What does Vee's hair look like, and how does she wear it?",
+    "expected_answer": "her hair was down and loose and a little wrecked from the night in the warm way, the dark red of it gone soft at the ends.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/ignition-scalding.md"
+  },
+  {
+    "question": "What is Vee's physical build or body type as described in the scene?",
+    "expected_answer": "She was soft against him, loose, heavy in the good way, a body that had been thoroughly attended to and was running slow.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/ignition-scalding.md"
+  },
+  {
+    "question": "What is Randi's behavioral pattern around composure and control?",
+    "expected_answer": "the composure she wore everywhere else stripped off and left somewhere with the camel coat",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/ignition-scalding.md"
+  },
+  {
+    "question": "What does Randi's hair look like, and when does she wear it down?",
+    "expected_answer": "Her black hair was loose on the pillow, out of its tie, damp at the temples, and it was the only time the hair was ever loose, after, when there was no one left to see it but him.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/ignition-scalding.md"
+  },
+  {
+    "question": "What is Randi's recurring physical gesture when greeting or connecting with someone?",
+    "expected_answer": "she was already reaching to squeeze Vee's forearm, once, the way she had on the lawn.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/together-in-class.md"
+  },
+  {
+    "question": "How does Vee manage outward expressions of eagerness or wanting?",
+    "expected_answer": "Vee felt the *yes* arrive in her chest fully formed, ahead of everything, and she made herself wait one full beat so it would not come out the size it actually was.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/together-in-class.md"
+  },
+  {
+    "question": "How does Vee assess her own body relative to other women?",
+    "expected_answer": "she had more than they had, more than most of the room had, the leggings and the crop would do on her what they did not do on the mauve one",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/together-in-class.md"
+  },
+  {
+    "question": "What is Randi's recurring social bit for introducing herself?",
+    "expected_answer": "\"Hi \u2014 I'm Randi.\" She put a hand to her own collarbone. \"Not, like \u2014 \" a small wave-off, practiced, charming, \" \u2014 not *Randy*, my parents weren't trying to be funny, although my dad thinks he was. Long story. Randi.\"",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/together-in-class.md"
+  },
+  {
+    "question": "How does Cassie respond to social performance or charm bids from others?",
+    "expected_answer": "Cassie looked at her for a second.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/together-in-class.md"
+  },
+  {
+    "question": "What is Pace's age?",
+    "expected_answer": "He was twenty-two and he had not had much of this in his life and the path was pleasant to be walked down even with the seeing of it.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/ignition-scalding.md"
+  },
+  {
+    "question": "How does Vee physically respond when a social moment goes awkward or wrong?",
+    "expected_answer": "Vee felt the small wrongness of it the way you feel a stair that isn't where your foot expected, and her face did the thing it did with wrongness, which was to smooth it.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/together-in-class.md"
+  },
+  {
+    "question": "What is Cassie's typical appearance and style of dress?",
+    "expected_answer": "She was in shorts and yesterday's shirt and the cap and she looked exactly like what she was, which was a person who had a lab at noon and no particular feelings about the yellow one on Draper.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/together-in-class.md"
+  },
+  {
+    "question": "What is Cassie's habitual manner of speaking?",
+    "expected_answer": "\"Cassie says about four words a day,\" she said, leaning in, making it warm, making it a feature.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/together-in-class.md"
+  },
+  {
+    "question": "What is Cassie's preparation and organization pattern for class?",
+    "expected_answer": "with Cassie beside her unpacking a granola bar and the wrong textbook and then the right one",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/together-in-class.md"
+  },
+  {
+    "question": "What physical tell does Pace show when he is aroused or anticipating something?",
+    "expected_answer": "he put his hand flat on his own chest and felt his own heart going a little quick already",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/ignition-scalding.md"
+  },
+  {
+    "question": "What are Vee's habits around arriving to class?",
+    "expected_answer": "Vee got there early the way she always got there early and took her usual two-thirds of the way back, on the aisle",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/together-in-class.md"
+  },
+  {
+    "question": "How does Vee habitually enter and read a new or uncertain social space?",
+    "expected_answer": "Vee saw the room the way she always saw a room she was not sure of, which was all at once and in detail, taking its measure to find her own place in it.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/together-in-class.md"
+  },
+  {
+    "question": "What is Randi's scent?",
+    "expected_answer": "there was a quick warm wave of her \u2014 something citrus, something green and cold under it, nothing sweet",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/together-in-class.md"
+  },
+  {
+    "question": "What is Vee's relationship to academic focus and structured thinking?",
+    "expected_answer": "Vee got her notebook open and her pencil out",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/together-in-class.md"
+  },
+  {
+    "question": "What is Vee's prior relationship to Chi Latte before this scene?",
+    "expected_answer": "Vee had been past it forty times.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/together-in-class.md"
+  },
+  {
+    "question": "What is Randi's established social reputation on campus before this scene?",
+    "expected_answer": "Randi who was on the standards board and had run the spring philanthropy thing that got written up in the campus paper, Randi whose photos Vee had looked at the way you look at the popular account's photos, with a flat unbothered face and a small hard knot of wanting underneath.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/together-in-class.md"
+  },
+  {
+    "question": "What internalized voice does Vee carry about female appearance and attention?",
+    "expected_answer": "*floozies,* Vee thought, the word arriving whole and in her mother's voice before she had finished forming the picture",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/together-in-class.md"
+  },
+  {
+    "question": "What is Vee's habitual way of dressing and what does it conceal?",
+    "expected_answer": "She kept her cardigan where it was.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/together-in-class.md"
+  },
+  {
+    "question": "How does Randi's warmth move between people in a social setting?",
+    "expected_answer": "Randi's eyes went past her to Cassie, and the warmth swung over and landed there, total, undimmed, as though Cassie were the next wonderful thing in a room full of them.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/together-in-class.md"
+  },
+  {
+    "question": "What physical tell does Randi show when her desire gets ahead of her composure?",
+    "expected_answer": "A sound came out of her, small and high and caught \u2014 *muh* \u2014 pleasure already in it, all the way in it, her eyes going wide, a sound she had not signed off on and could not call back, the body voting out loud half a beat ahead of the part of her that decided things.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/ignition-scalding.md"
+  },
+  {
+    "question": "How does Pace read people physically?",
+    "expected_answer": "He knew the difference between a woman performing release and a woman delivered to it.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/the-pointing-game.md"
+  },
+  {
+    "question": "What is Pace's relationship to the frames or stories people use to hide their desires?",
+    "expected_answer": "He let her have the frame.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/the-pointing-game.md"
+  },
+  {
+    "question": "What is Randi's recovery behavior after being caught off guard or exposed?",
+    "expected_answer": "Then she came back. He admired it, a little, even as he saw through it\u2014the way she gathered herself and reached for the warm lower register, trailed one finger down his chest, tilted into him and pressed a slow kiss to his jaw.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/the-pointing-game.md"
+  },
+  {
+    "question": "What is Randi's physical build and standard of appearance?",
+    "expected_answer": "petite and built to the proper scale, the scale Randi approved of and maintained, narrow through the shoulder and hip",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/the-pointing-game.md"
+  },
+  {
+    "question": "What does Vee look like?",
+    "expected_answer": "Tall, and built on a lavish scale, lush in a way that had nothing curated about it and nothing apologized for \u2014 full breasts, a deep waist, hips with real width to them, the kind of ripe hourglass the year's clothes were not cut for and that did not care.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/the-pointing-game.md"
+  },
+  {
+    "question": "What is Cassie's habit regarding her dorm room window?",
+    "expected_answer": "The window was cracked its two inches the way Cassie kept it, because the building ran the heat like it was trying to cook something and Cassie would rather have the cold than the cooking",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/cassie-before.md"
+  },
+  {
+    "question": "What is Pace's observable pattern when managing someone toward a desired outcome?",
+    "expected_answer": "He worked the third one out of her slowly, deliberately, giving her more than she'd asked for\u2014because her body wanted this and her mind did not yet, and the gap between them was a thing he understood how to close.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/the-pointing-game.md"
+  },
+  {
+    "question": "How does Pace make decisions?",
+    "expected_answer": "He had decided this beforehand, the way he decided most things\u2014not as strategy but as the shortest line to something true.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/the-pointing-game.md"
+  },
+  {
+    "question": "What types of women does Randi reject when evaluating others, and why?",
+    "expected_answer": "\"No.\" Easy, automatic, not even a glance back at the tray.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/the-pointing-game.md"
+  },
+  {
+    "question": "How does Randi's body respond versus how she presents herself verbally?",
+    "expected_answer": "She had been performing, the first week. She was not performing now.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/the-pointing-game.md"
+  },
+  {
+    "question": "What does Vee own or not own in terms of appropriate footwear?",
+    "expected_answer": "\"You don't own real shoes.\"",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/cassie-before.md"
+  },
+  {
+    "question": "What is the man's manner of speaking?",
+    "expected_answer": "They came out of him soft, rounded, opening at the ends the way her own flat words never did \u2014 little exhalations, more breath than edge",
+    "entity_name": "the man",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/may-i-choose.md"
+  },
+  {
+    "question": "What piece of furniture has a specific history and meaning for Pace?",
+    "expected_answer": "The chair was the good one, the deep low Arts and Crafts chair he'd built, that he'd needed leather cushions for \u2014 and the cushions had been more than he was going to spend, so he'd made a pair of the chairs and traded the second one off to a man who had the leather and wanted a chair, and kept the one, and never been sorry, exactly, though he thought of the effort that went into the other one sometimes when he sat down.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/ignition-scalding.md"
+  },
+  {
+    "question": "What is Pace's physical behavior when creating intimacy or effect in someone?",
+    "expected_answer": "He came up over her without wiping his mouth.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/the-pointing-game.md"
+  },
+  {
+    "question": "How does Vee move and carry herself?",
+    "expected_answer": "she moved like an athlete despite all of it, or under all of it \u2014 a low sure center, a balance in her that nothing tipped, the body plainly trained and plainly past the line where training stays competitive, command and abundance riding in the same frame.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/the-pointing-game.md"
+  },
+  {
+    "question": "What is Randi's social performance style when she wants to appear in control?",
+    "expected_answer": "the way she gathered herself and reached for the warm lower register, trailed one finger down his chest, tilted into him and pressed a slow kiss to his jaw. It was good. It was practiced and it was warm and it was not cartoonish.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/the-pointing-game.md"
+  },
+  {
+    "question": "How does Randi respond to the unknown or unnamed aspects of her relationship with Pace?",
+    "expected_answer": "Four weeks in she'd learned he did things\u2014some he named in advance and some he didn't\u2014and she'd learned to be game for the unnamed ones.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/the-pointing-game.md"
+  },
+  {
+    "question": "How does Pace respond when his read of someone turns out to be wrong?",
+    "expected_answer": "He liked being shown he was right. He liked, even better, the places he was surprised.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/the-pointing-game.md"
+  },
+  {
+    "question": "What is Randi's observable physical tell when she is caught off guard?",
+    "expected_answer": "she flinched. Barely. A small recoil under the skin, gone almost before it arrived.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/the-pointing-game.md"
+  },
+  {
+    "question": "What is Pace's behavioral pattern when he notices a closed door or opportunity?",
+    "expected_answer": "he was, by some old architecture he did not examine, a man who could not leave a door like that closed once he'd seen it was there.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/the-pointing-game.md"
+  },
+  {
+    "question": "What is Randi's hair like?",
+    "expected_answer": "black and fine and gathered back into a sleek ponytail, a scrunchie at the crown the one allowed flourish, the tail swinging clean when she turned her head and not otherwise",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/the-pointing-game.md"
+  },
+  {
+    "question": "What is Randi's trained physical skill and how does it manifest in her movement?",
+    "expected_answer": "He had known she moved well \u2014 he had danced with her, felt the trained instrument of her under his hand.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/the-pointing-game.md"
+  },
+  {
+    "question": "What is Pace's pattern of attention when watching someone's face or body?",
+    "expected_answer": "He held still and let her have it and watched her face the whole way.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/the-pointing-game.md"
+  },
+  {
+    "question": "What is Randi's relationship to food and eating?",
+    "expected_answer": "\"I'm hungry,\" Randi said.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/the-pointing-game.md"
+  },
+  {
+    "question": "What is Vee's social manner and presence?",
+    "expected_answer": "laughing at something with her whole body the way the polished girls and the matched pairs and the closed camel-coat project would never laugh at anything in public, would never let go of the wheel that completely \u2014 laughing like a person who had genuinely forgotten, for the length of the laugh, that she could be seen.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/the-pointing-game.md"
+  },
+  {
+    "question": "What perfume or scent does Randi wear?",
+    "expected_answer": "He smelled her perfume, gardenia and something colder underneath.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/the-bench.md"
+  },
+  {
+    "question": "What is Randi's relationship to food?",
+    "expected_answer": "He watched her look \u2014 watched the thing behind her face that policed her relationship to food run through whatever calculation it was running.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/the-bench.md"
+  },
+  {
+    "question": "What is the nature and quality of Randi's possessions and personal style?",
+    "expected_answer": "the small overnight bag, leather, monogrammed in a sorority hand, expensive in the slightly aggressive way her things were expensive",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/the-bench.md"
+  },
+  {
+    "question": "What is Randi's relationship to being looked at?",
+    "expected_answer": "the thing she had built her whole adult life around being looked at for",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/the-bench.md"
+  },
+  {
+    "question": "How does Randi physically respond to being touched or looked at by Pace?",
+    "expected_answer": "when she finally stepped back her cheeks were faintly flushed and her mouth looked slightly mussed, which was a look she got",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/the-bench.md"
+  },
+  {
+    "question": "What is Pace's physical build?",
+    "expected_answer": "She slid her hands up over the front of his shirt \u2014 the loose linen one he wore around the house \u2014 and she ran her palms along the planes of him under it. The chest. The shoulders. The arms. Slowly, with the small marveling concentration that came over her whenever she put her hands on his body.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/the-bench.md"
+  },
+  {
+    "question": "What is Pace's pattern for pacing physical and sexual escalation?",
+    "expected_answer": "He started to back off \u2014 that was what he did, he backed off and let her decide",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/the-bench.md"
+  },
+  {
+    "question": "What is Randi's tell when she is concentrating or focusing intently?",
+    "expected_answer": "Her face had the specific attentiveness it got when she was concentrating, the slight surprise of her resting expression sharpened into a question.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/the-bench.md"
+  },
+  {
+    "question": "What is the temperature Pace keeps his house at and why?",
+    "expected_answer": "The room was warm when she came in, the kind of even unhurried warmth he kept the house at because he liked being able to take his time without thinking about whether someone else was cold.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/the-bench.md"
+  },
+  {
+    "question": "What is Randi's safe word?",
+    "expected_answer": "\"Tell me your word.\"",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/the-bench.md"
+  },
+  {
+    "question": "What is the timeline of when Pace began building the bench relative to when he met Randi?",
+    "expected_answer": "Pace had begun building it seven months ago. He had met Randi three weeks ago.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/the-bench.md"
+  },
+  {
+    "question": "How does Vee tend to navigate unfamiliar menus or food situations?",
+    "expected_answer": "She found the one island she recognized and pointed at it. \"Okay. Hummus. I'm solid on hummus.\" She let the rest of the page defeat her, openly, enjoying it. \"After that it's just \u2014 beautiful nonsense. I have no map.\"",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/may-i-choose.md"
+  },
+  {
+    "question": "What is Pace's build?",
+    "expected_answer": "The long line of him, shoulder to waist, the muscle working under the cloth.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/hiking-rainstorm.md"
+  },
+  {
+    "question": "What is Randi's resting facial expression like?",
+    "expected_answer": "the flat oval and the *startlingly* blue eyes which were the first thing anyone noticed about her and the thing she had built her whole adult life around being looked at for",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/the-bench.md"
+  },
+  {
+    "question": "What does Randi's hair look like?",
+    "expected_answer": "He brushed a strand of black hair back behind her ear with one hand, slowly, and let his fingers stay at the side of her neck.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/the-bench.md"
+  },
+  {
+    "question": "What is Randi's pattern for handing control of the evening to Pace?",
+    "expected_answer": "\"What are we doing tonight,\" she said.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/the-bench.md"
+  },
+  {
+    "question": "What is Randi's behavioral pattern when she enters Pace's house?",
+    "expected_answer": "He heard it open, and then the deadbolt turn over as she locked it behind her \u2014 she always locked it behind her, first thing, before anything else",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/the-bench.md"
+  },
+  {
+    "question": "What do Randi's eyes look like?",
+    "expected_answer": "the flat oval and the *startlingly* blue eyes which were the first thing anyone noticed about her and the thing she had built her whole adult life around being looked at for",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/the-bench.md"
+  },
+  {
+    "question": "What physical evidence of dance training does Randi's body carry?",
+    "expected_answer": "the dancer's legs were bare now from hip to ankle: the long muscle of them visible even at rest",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/the-bench.md"
+  },
+  {
+    "question": "What is Randi's build and body type?",
+    "expected_answer": "the dancer's legs were bare now from hip to ankle: the long muscle of them visible even at rest",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/the-bench.md"
+  },
+  {
+    "question": "What is Randi's skin like?",
+    "expected_answer": "the pale flat of her sternum, the notch at the base of her throat where her pulse was working a slow visible beat",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/the-bench.md"
+  },
+  {
+    "question": "What is Randi's social position and institutional affiliations?",
+    "expected_answer": "the small overnight bag, leather, monogrammed in a sorority hand, expensive in the slightly aggressive way her things were expensive",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/the-bench.md"
+  },
+  {
+    "question": "What furniture has Pace built himself?",
+    "expected_answer": "the kitchen table he had built two winters ago, and the two chairs that flanked it, and the glass-fronted cabinet beyond it that he had built from quartersawn oak in his first year here",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/the-bench.md"
+  },
+  {
+    "question": "What is Pace's habitual way of greeting Randi when she arrives?",
+    "expected_answer": "He did not call out to her, and she did not call out to him, and the small economy of two people who had reached a stage of knowing each other settled across the house like a sheet being drawn.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/the-bench.md"
+  },
+  {
+    "question": "What is Randi's habitual behavior when moving through Pace's kitchen?",
+    "expected_answer": "She turned away from him and moved through his kitchen the way she moved through it every time, with the small slow assessment she had been making since the first visit.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/the-bench.md"
+  },
+  {
+    "question": "What is the design and construction of the bench Pace built?",
+    "expected_answer": "The bench was bare, the padded leather of its working surfaces visible in the lamplight: at the low end, the face donut, padded soft and ringed with grips for the hands, the same shape a high-end massage table used for the same purpose; at the high end, the pelvis support, angled forward and shaped to hold a woman's hips raised; the leg supports extending out from the sides, separately padded, separately adjustable, each able to widen and lift independent of the other.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/the-bench.md"
+  },
+  {
+    "question": "How does Pace respond when he pleases someone or gets a reaction he intended?",
+    "expected_answer": "he looked pleased in a contained way, like a man who'd set a small thing down exactly where he meant it to go",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/the-froyo-walk.md"
+  },
+  {
+    "question": "How does Pace ask questions of other people?",
+    "expected_answer": "He'd asked if she liked frozen yogurt the way her grandfather used to ask things \u2014 as though the answer mattered and there was no wrong one.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/the-froyo-walk.md"
+  },
+  {
+    "question": "What does Pace give focused attention to?",
+    "expected_answer": "Pace was studying the flavor placards with the same attention he'd given her calculus.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/the-froyo-walk.md"
+  },
+  {
+    "question": "What is Pace's behavioral pattern when listening to someone speak?",
+    "expected_answer": "He asked her things and then waited through her whole answer \u2014 she'd get to the end of a sentence and find him still there, still listening, in no hurry to take his own turn.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/the-froyo-walk.md"
+  },
+  {
+    "question": "What is Pace's tendency when it comes to thinking things through in advance?",
+    "expected_answer": "\"There's a system,\" he said. \"Tart on the bottom holds up under the heavy ones. You put chocolate on tart and it's an argument the whole way down.\"",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/the-froyo-walk.md"
+  },
+  {
+    "question": "What cashmere blanket does Randi have a recurring connection to in Pace's house?",
+    "expected_answer": "He stood up only long enough to pull the soft blanket from the foot of the bed \u2014 the cashmere one she had brought after the second week when she had registered that she got cold after sex even in his too-warm house",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/the-bench.md"
+  },
+  {
+    "question": "What is Pace's habit of observing and noting details about Randi without telling her?",
+    "expected_answer": "he had sliced it thin because she would eat thin slices and would not eat thick ones, and he had laid the slices in the bowl with the cut sides up because last he had noticed that she ate them faster when the cut sides showed. None of which he had mentioned to her. None of which he would.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/the-bench.md"
+  },
+  {
+    "question": "How does Randi use her social smile as a mask?",
+    "expected_answer": "She tried the smile again. The smile, this time, settled. The face, in the mirror, was the face of a woman who had just had an extraordinary evening with her boyfriend and was about to go back out and tell him so. The face was lying. The face was good at lying. The face had been lying for years.",
+    "entity_name": "Randi",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/the-bench.md"
+  },
+  {
+    "question": "What is Pace's clothing style at home?",
+    "expected_answer": "the loose linen one he wore around the house, which was nothing like the tight fitted button-downs the boys in her register wore, and which she had begun to like the feel of and to find places to touch him through",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/the-bench.md"
+  },
+  {
+    "question": "What is Vee's physical response to the smell of food when she is very hungry?",
+    "expected_answer": "the hollow had been opening in her since midday without her noticing, and the smell off the warm doorway ahead reached into it and pulled. She was suddenly, enormously hungry.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/may-i-choose.md"
+  },
+  {
+    "question": "What is Vee's habitual background anxiety or bracing pattern in social or romantic situations?",
+    "expected_answer": "Somewhere in there she stopped waiting for the evening to go wrong. She didn't notice she'd been waiting until she wasn't \u2014 that low background readiness she carried everywhere, the part of her always braced for the bill of a thing to come due, and it just wasn't there, and she let it not be there.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/may-i-choose.md"
+  },
+  {
+    "question": "What is Vee's behavioral pattern when she feels socially observed or self-conscious?",
+    "expected_answer": "She was hungry \u2014 that hollow from noon, wider now than it had any right to be \u2014 but she didn't reach yet.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/may-i-choose.md"
+  },
+  {
+    "question": "What is Vee's observable physical habit when eating unfamiliar food with someone new?",
+    "expected_answer": "She watched him first. He tore a piece of bread with care for the heat, and the steam came off the two halves in the lamp-light and was gone, and he folded it around a pinch of the green-and-white salad and ate it without ceremony, and she did what he did. Tore the bread. Folded it the way he had. Brought it up not quite knowing what she'd find.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/may-i-choose.md"
+  },
+  {
+    "question": "What is the man's physical manner when holding Vee's hand?",
+    "expected_answer": "He took her hand. No ceremony, no question in it \u2014 he simply did it, the way he did things, like it was already settled between them and always had been.",
+    "entity_name": "the man",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/may-i-choose.md"
+  },
+  {
+    "question": "What is the man's behavioral pattern around explaining or guiding Vee through unfamiliar things?",
+    "expected_answer": "he said it was close enough to walk, if she didn't mind walking, and held the door \u2014 and didn't tell her where, which she noticed",
+    "entity_name": "the man",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/may-i-choose.md"
+  },
+  {
+    "question": "What is Pace's behavioral pattern when romantically rebuffed?",
+    "expected_answer": "He didn't do anything. He just let it go. Smiled like I'd told him something nice and started walking us on, like it was fine.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/cassie-before.md"
+  },
+  {
+    "question": "What is Cassie's physical build or size like?",
+    "expected_answer": "went back to the chair and folded herself into it, feet up off the floor where they never reached",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/cassie-before.md"
+  },
+  {
+    "question": "What is the man's consistent physical habit when eating?",
+    "expected_answer": "It was the right hand again. She noticed it now because it had happened enough times to be a pattern \u2014 always the right, never the other, some small consistent rule he kept without seeming to think about it, one more thing he knew that she didn't.",
+    "entity_name": "the man",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/may-i-choose.md"
+  },
+  {
+    "question": "What is Vee's habitual tendency when losing the thread of a conversation?",
+    "expected_answer": "Ordinarily she'd have caught it again before he noticed, the way she always did, the small constant work of keeping up her end.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/may-i-choose.md"
+  },
+  {
+    "question": "What is the man's relationship with Christine at the restaurant?",
+    "expected_answer": "she knew him \u2014 something in her eased when she saw who'd walked in, and he said \"Christine\" the way you say a name you're glad to get to say.",
+    "entity_name": "the man",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/may-i-choose.md"
+  },
+  {
+    "question": "What is the man's behavioral pattern when Vee sets a limit or states a boundary?",
+    "expected_answer": "He didn't argue. He didn't do anything she'd braced for \u2014 no lean, no charm turned up, no patient little wait for her to change her mind. He just smiled, like she'd told him something true and fine about herself, and let it close, and started them gently back along the path, her hand drawn along with his.",
+    "entity_name": "the man",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/may-i-choose.md"
+  },
+  {
+    "question": "What recurring physical tell does Cassie use to signal quiet acknowledgment or reserved judgment?",
+    "expected_answer": "went back to the chair and folded herself into it, feet up off the floor where they never reached, and found the highlighter, and uncapped it, and looked at Vee over the reading one more time with the small mm she did.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/cassie-before.md"
+  },
+  {
+    "question": "What is Vee's experience level with hiking?",
+    "expected_answer": "\"You've never hiked in your life.\"",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/cassie-before.md"
+  },
+  {
+    "question": "Where does Pace live?",
+    "expected_answer": "He lives out west of town, off six-fourteen, past where it goes to gravel.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/cassie-before.md"
+  },
+  {
+    "question": "What is Vee's stated personal rule about kissing?",
+    "expected_answer": "I told him I don't kiss a man I've known a few days.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/cassie-before.md"
+  },
+  {
+    "question": "What is the characteristic emotional pattern underneath Cassie's expressions of gladness?",
+    "expected_answer": "Cassie's whole face was open with it, glad, all the way in \u2014 and then, because it was Cassie, because the gladness in Cassie always had a flat dry floor under it, she tipped her head.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/cassie-before.md"
+  },
+  {
+    "question": "What is Cassie's relationship dynamic with Vee?",
+    "expected_answer": "Cassie's whole face was open with it, glad, all the way in \u2014 and then, because it was Cassie, because the gladness in Cassie always had a flat dry floor under it, she tipped her head.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/cassie-before.md"
+  },
+  {
+    "question": "What is the man's observable grooming and dress style when meeting Vee?",
+    "expected_answer": "The rest of him was just himself: clean and plain, no effort spent on being seen, his boots the kind that had been somewhere and been kept, resoled, looked after.",
+    "entity_name": "the man",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/may-i-choose.md"
+  },
+  {
+    "question": "What is the man's approach to ordering food for someone else?",
+    "expected_answer": "He didn't take it lightly, which she hadn't expected. He looked at the page a moment longer, not because he needed it but the way you think before you choose something for someone else, and then he asked her only one thing \u2014 was there anything she wouldn't eat \u2014 and when she shook her head he ordered, unhurried, deliberate, building it as he went.",
+    "entity_name": "the man",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/may-i-choose.md"
+  },
+  {
+    "question": "What preparedness habits does Pace show when hiking or outdoors?",
+    "expected_answer": "Made them this morning. Lettuce against the bread. Keeps the bread from going through.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/hiking-rainstorm.md"
+  },
+  {
+    "question": "How does Pace respond when someone he is with is struggling on the trail?",
+    "expected_answer": "He'd said I'll set a pace, tell me if it's wrong, and the pace he set was slower than she'd braced for. He walked at the speed of her not knowing how. He didn't make her feel slow.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/hiking-rainstorm.md"
+  },
+  {
+    "question": "What internalized voice does Vee carry, and what triggers it?",
+    "expected_answer": "the word came up in her mother's voice, the whole verdict, what kind of girl lets a man",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/hiking-rainstorm.md"
+  },
+  {
+    "question": "How does Pace watch Vee, and what is his pattern when she catches him looking?",
+    "expected_answer": "When she looked over he was already looking at her \u2014 not at the valley, at her face in front of the valley \u2014 and he didn't look away when she caught him doing it. He let her catch him. Then he turned back to the world and gave her the rest of the looking alone.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/hiking-rainstorm.md"
+  },
+  {
+    "question": "What sandwich does Pace make and how does he prepare it?",
+    "expected_answer": "Made them this morning. Lettuce against the bread. Keeps the bread from going through.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/hiking-rainstorm.md"
+  },
+  {
+    "question": "What academic achievement is Vee being recognized for?",
+    "expected_answer": "Three weeks off. The honor society, the one with the certificate and the dinner and the part where they read your name and you walked up to the front.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/hiking-rainstorm.md"
+  },
+  {
+    "question": "What is Pace's scent or the smell associated with his belongings?",
+    "expected_answer": "It smelled of soap and of a man and of the inside of a gym bag, and of her own wet hair where it had been pressed to her neck the whole drive.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/hiking-rainstorm.md"
+  },
+  {
+    "question": "How does Pace park or position his vehicle in relation to Vee's comfort?",
+    "expected_answer": "He didn't take a real spot. He pulled the truck up onto the curve at the entrance \u2014 the fire lane, the red-painted curb \u2014 and stopped under the overhang where the rain wasn't, and put it in park, and turned to her.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/hiking-rainstorm.md"
+  },
+  {
+    "question": "What is Pace's relationship to silence and conversation on the trail?",
+    "expected_answer": "The grade steepened. Her breath came short. The talk stopped and he didn't fill it.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/hiking-rainstorm.md"
+  },
+  {
+    "question": "What is Vee's relationship with Cassie?",
+    "expected_answer": "She had said yes to this on her bed with Cassie cross-legged across from her making faces about the boots",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/hiking-rainstorm.md"
+  },
+  {
+    "question": "What kind of truck does Pace drive?",
+    "expected_answer": "old truck, the bench unbroken across",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/hiking-rainstorm.md"
+  },
+  {
+    "question": "What is Vee's physical response to attraction or desire?",
+    "expected_answer": "her body answered each one with a low pull of heat under the cold",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/hiking-rainstorm.md"
+  },
+  {
+    "question": "What does Pace's shirt look like during the hike?",
+    "expected_answer": "His shirt was bright blue. Synthetic, fitted close, the safety color \u2014 cobalt against all that brown and gray, the only bright thing in the woods. It moved with him the way cotton never did.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/hiking-rainstorm.md"
+  },
+  {
+    "question": "How does Vee physically respond to intimidation or anxiety about a challenge?",
+    "expected_answer": "Her chest went tight. Her hand came up off the door toward her throat and stopped halfway and dropped.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/hiking-rainstorm.md"
+  },
+  {
+    "question": "What boots does Vee wear on the hike and what is wrong with them?",
+    "expected_answer": "The boots were wrong. She'd known it putting them on \u2014 Megan's boots, a half size big, stiff at the ankle where her foot didn't fill them. Her heel lifted inside the right one when she pushed off.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/hiking-rainstorm.md"
+  },
+  {
+    "question": "How does Pace respond to Vee's expressions of wanting or desire?",
+    "expected_answer": "His face moved. Small. Nothing anyone outside the cab could have read. A little landing. His lips parting and closing. His eyes staying on hers, because she'd put them there.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/hiking-rainstorm.md"
+  },
+  {
+    "question": "What is Vee's relationship with her mother?",
+    "expected_answer": "the word came up in her mother's voice, the whole verdict, what kind of girl lets a man",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/hiking-rainstorm.md"
+  },
+  {
+    "question": "How does Pace give correction without shaming?",
+    "expected_answer": "We take nothing and leave nothing. Gentle. He leaned and picked the pit up between two fingers and folded it into a scrap of the wax paper.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/hiking-rainstorm.md"
+  },
+  {
+    "question": "How does Pace handle a companion's physical discomfort or injury on the trail?",
+    "expected_answer": "Two steps back down to her.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/hiking-rainstorm.md"
+  },
+  {
+    "question": "What is Pace's pattern for giving Vee space or privacy?",
+    "expected_answer": "He turned back to the world and gave her the rest of the looking alone.",
+    "entity_name": "Pace",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "scenes/hiking-rainstorm.md"
+  },
+  {
+    "question": "What is Vee's hair like and how does it behave?",
+    "expected_answer": "it found her hair the way wind always found her hair, and lifted it and laid it across her face",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/hiking-rainstorm.md"
   }
 ]
