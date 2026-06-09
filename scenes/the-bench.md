@@ -230,6 +230,8 @@ He slid his fingers between her legs again.
 
 The wet sound was immediate, thick and soft. She stopped breathing for a moment, suspended in time, then the sound of her breathing returned in a shaky mix of pant and sigh. When he circled her clit she made a high, thin sound she hadn’t made before. He kept the rhythm steady, listening. When her breathing began to break and the sound rose again he took his hand away.
 
+She gripped the hand supports and pushed herself back into the empty space where his fingers had been — chasing what her body had just lost, before she'd decided to chase it. Then her thighs loosened against the leg supports and she slumped back into position.
+
 He soothed her ass with his other hand. He came around to her face again. He crouched. He stroked her hair.
 
 "How's your back," he said.
@@ -246,7 +248,7 @@ He soothed her ass with his other hand. He came around to her face again. He cro
 
 "Just checking," he said.
 
-He went back behind her. He hit her three times in quick succession — left, right, center — and she gasped each time and the third gasp had a small whimper in it. He brought his hand back between her legs and stroked her, longer this time, with more pressure, and at the moment he could feel her body beginning to gather toward something he stopped and took his hand away and laid it flat against the small of her back. She made an audible sound of frustration.
+He went back behind her. He hit her three times in quick succession — left, right, center — and she gasped each time and the third gasp had a small whimper in it. He brought his hand back between her legs and stroked her, longer this time, with more pressure, and at the moment he could feel her body beginning to gather toward something he stopped and took his hand away and laid it flat against the small of her back. The wet warmth of his fingers pressed against her spine — her own heat, returned to her in the wrong place. She made a sound — not a word and not a moan, the complaint of a body that had been given something and had it taken back. He didn't think she knew she'd made it.
 
 He kissed the spot where his hand had been on her ass. She inhaled sharply.
 
@@ -262,9 +264,13 @@ He kissed the spot where his hand had been on her ass. She inhaled sharply.
 
 "I know," he said, gently.
 
-He waited. He let her settle. He stroked her back. He watched. Wetness had gathered between her thighs, and the light moved across it whenever his fingers parted the seam. He could see the slick shifting and catching with each slow pass of his hand, the seam parting and closing. A thin thread of it stretched between his fingers and her skin, then broke. He kept going until the shine thickened and began to run, then pulled his hand back. 
+He waited. He let her settle. He stroked her back. He watched. Wetness had gathered between her thighs, and the light moved across it whenever his fingers parted the seam. He could see the slick shifting and catching with each slow pass of his hand, the seam parting and closing. A thin thread of it stretched between his fingers and her skin, then broke. He kept going until the shine thickened and began to run, then pulled his hand back.
+
+The sound she made this time was different. Lower. Something from further down in her than the sounds that had come before.
 
 Then he started again — slowly, with his fingers, finding her rhythm and then deliberately not matching it, building her toward the edge of something and then, when she was almost there, stopping again. He held his hand still against her and waited for the wave to recede in her body. Then he resumed, from further back than she had been, building her again. He stopped again. The third time he did it, she said his name through her teeth.
+
+"Pace," she said.
 
 "Yes," he said.
 
