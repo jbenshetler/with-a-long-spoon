@@ -125,7 +125,7 @@ The threesome is the catastrophic instance. She thought she wanted it. Some of t
 
 ## The Bravery as the Appetite's Executable
 
-*(First instance on the page: the campus collision in `origin-campus-walk.md` — she executes it so precisely the redhead apologizes, and her feet do the small happy thing. Her appetite is already operating before she knows toward what.)*
+*(First instance on the page: the campus collision in `the-pointing-game.md` — she executes it so precisely the redhead apologizes, and her feet do the small happy thing. Her appetite is already operating before she knows toward what.)*
 
 Vee's bravery is the operational form of her appetite for full aliveness. Each brave act is the appetite reaching for the not-fine. She is not consciously deciding to be brave; she is consciously responding to what her appetite has recognized, and the response requires overriding the shame. The overriding feels like bravery. It is bravery. *And* it is the executable of an appetite she did not choose.
 
