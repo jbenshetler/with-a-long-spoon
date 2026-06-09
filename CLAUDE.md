@@ -388,6 +388,42 @@ into entity properties or behavioral_states and marks it reviewed.
 
 ---
 
+---
+
+### Skill: novel-flag
+
+**When to use:** `/novel-flag [description]` — author notices an incorrect fact
+while writing and wants to suppress it immediately.
+
+**Syntax:**
+```
+/novel-flag Randi's scent is wrong
+/novel-flag [PACE] five kinds of shoes by the door
+/novel-flag [RANDI] the thing about locking the door is off
+```
+`[CHARACTER]` prefix is optional but narrows the search.
+
+**Steps:**
+1. Call `flag_fact(description=<full description including brackets if any>)`
+2. Present the candidates returned:
+   ```
+   [1] [HIGH] Randi → scent
+       Current value: Gardenia and something colder underneath
+       target_spec: property:12:scent
+   ```
+3. Ask the author: which one? (or "none of these")
+4. On selection: call `confirm_flag(target_spec=<chosen spec>, description=<original description>)`
+5. Report: "Flagged. 'Randi → scent' suppressed from research until you resolve it in triage."
+
+**What happens:**
+- The fact is moved out of active retrieval immediately
+- It appears in `/novel-triage` with `[FLAGGED]` marker and HIGH priority
+- Resolve via Edit (corrected value) or Reject (permanent removal); original is retained for audit
+
+**Do not** auto-flag without author confirmation. Always present candidates first.
+
+---
+
 ## Build Mode Instructions
 
 When in build mode (working on the system code itself):
