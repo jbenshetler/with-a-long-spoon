@@ -25,13 +25,16 @@ Two distinct staircases live inside this track:
 
 1. **Coffee after class** — Randi volunteers the take-charge guy unprompted. Doesn’t push when Vee deflects.
 1. **Smoothies** — a specific detail about the guy; slightly more specific question about what Vee wants. Lets go when deflected.
-1. **Mimosa brunch** — frank register established. Seed: not *you should date* but *the problem was them, not you.* **First bathroom trip.** Randi clocks the timing, files it — now knows the conversations work physically.
-1. **After Vee sleeps with Pace** — Randi opens with her own story to warm the room, then it’s Vee’s turn. Vee raves, defers on why. The bullshit look — gives Vee nothing to deflect against. Vee fills the silence.
-1. **After the proof scene** — Vee tells more than planned. First *“Are your fingers sticky?”* with the pastry tilt. **First act of masturbation happens in this bathroom trip** — a capitulation, not a decision (“she stops not-doing it”).
+1. **Mimosa brunch (Fitting Brunch)** — velvet-alcove format installed; apparatus switches on. Partial extraction (“You don’t have to tell me that part”) leaves Vee half-open; goodbye-kiss staircase debuts. **No bathroom trip** — the apparatus is installed here, not yet fired; the shame-arousal mechanism hasn’t rooted at genuinely transgressive content.
+1. **After Vee sleeps with Pace (First-Night Debrief)** — Randi opens with her own story to warm the room, then it’s Vee’s turn. Vee raves, defers on why. The bullshit look — gives Vee nothing to deflect against. Vee fills the silence. **Conversion operation, not extraction** — Randi catches the floozie-shame and converts it to pride/aliveness. No bathroom trip; the shame is social (floozie-shame), not structural/transgressive, and the mechanism doesn’t fire.
+1. **After the first swat (First Swat Debrief)** — “Your turn” — taking-turns ritual already running; no warmup needed. Vee’s surface version (*ha ha, he swatted my butt*) extracted to the real thing: the look, the immediate wanting, the body’s answer. **Randi’s story comes after, not before** — amplifier/installer once the real material is on the table (*”If you think a swat is good, a spanking is better”* — theatrical, explicit, porn-generic register). **First bathroom trip; quick suppression** — Vee excuses herself (wetness: physical evidence her body produced without permission); tempted; doesn’t. Randi clocks her departure. *”I hope everything is alright”* on return — arch, deniable, devastating close.
+1. **After the proof scene** — Vee tells more than planned. First *”Are your fingers sticky?”* with the pastry tilt. **First masturbation** — a capitulation, not a decision (“she stops not-doing it”).
 1. **After the painting** — Vee arrives already lit. The photo beat: she wasn’t planning to show her, shows her. The long stare. *“Gesso?”* On return, Randi already has a small smile in place. No question. Worse.
 1. **Escalation to naming** — *“I know you don’t have to pee”*; the panties demand (hand extended, Vee places them there herself); the not-washing-hands instruction. Each on separate occasions, each allowed to settle.
 
 **Bathroom-trip progression (vary the interior EACH time):** quick suppression → lingering → first masturbation (capitulation) → second time (a *decision*, not capitulation — this threshold matters more) → late interior reflecting who she’s become. Vary Randi’s *return response* too: the question / the look / the small smile already in place / the silence-and-window.
+
+**Scene assignments:** Fitting Brunch — no trip (apparatus installed, not fired). First-Night Debrief — no trip (conversion; floozie-shame is social, not transgressive). First Swat Debrief — **first trip, quick suppression** (Randi’s arch return: *"I hope everything is alright"*). Proof Scene debrief — **lingers, then first masturbation** (capitulation: she stops not-doing it; both happen within the same visit). Painting debrief — second time, a decision.
 
 -----
 
@@ -130,6 +133,8 @@ Randi opening each brunch (or most brunches) with her own spicy, escalating stor
 4. **Stays structurally un-matchable to Pace.** See porn-generic rule below.
 
 **Randi goes first and goes further each time, which re-earns the right to receive Vee's next, deeper disclosure.** The stories escalate in lockstep with what they license Vee to give up. Each new level of Randi's candor licenses a new level of Vee's. That lockstep IS the verbal staircase's drive train — not just "Randi asks better questions over time" but "Randi's disclosure continually renews the license for Vee's."
+
+**Exception — the First Swat Debrief:** by this point the room is already warm and the permission established. Randi moves directly to extraction and saves her story for *after* — deploying it as an amplifier once the real material is on the table, not as a warmup before. This is a technique escalation: early scenes need the story to grant permission; later scenes use it to install escalation after extracting what's already there. The pattern is not "Randi always goes first" but "Randi goes first until she doesn't need to."
 
 ### Porn-generic, NOT Pace-fingerprint (the matching-bomb defuser)
 

@@ -1,0 +1,46 @@
+# Condensed — First Swat Debrief
+
+*SCENE · Unwritten · early November, within a few days of the First Swat · SATC · music practice room (soundproof)*
+
+## Summary
+
+The first SATC scene with genuinely transgressive shame content — the first time Vee brings Randi material that fires the shame-arousal loop in retelling. Structural innovation: **Randi's story comes after the extraction, not before** — functioning as amplifier and installer, not warmup. The taking-turns ritual established at First-Night Debrief runs without setup. First bathroom trip; quick suppression.
+
+## Container
+
+A soundproof music practice room — not the velvet booth. No staging, no waiter, no Rombauer. The booth is reserved for the full production format; this room strips everything back. Occasion reads as logistics/accident (Randi in the building for legitimate reasons; Vee comes to find her, or Randi texts *come find me*). The soundproofing does architecturally what the velvet alcove does with velvet: nothing said here can leave. Randi is not running the production; she reads as a friend. The sealed intimacy is more naked for the lack of apparatus.
+
+## Key Beats
+
+**"Your turn."** The taking-turns ritual is already running — no warmup opener needed. Two words that now carry the full weight of what *your turn* has come to mean between them. Randi moves directly to extraction; the story comes later.
+
+**Vee's surface version.** *Ha ha, he swatted my butt. I laughed. We ended up having sex.* The approved funny story, cleaned up and ready. A person can say this out loud over lunch.
+
+**The extraction.** Randi peels past the funny story to the real one: what was the look, what did she actually feel, what happened in her body. The shame circuit fires in the retelling — Vee's body remembers as she describes it, the charge returning, her voice going soft and her face going somewhere else. She gets to the real thing: the swat landed and her body answered immediately, a want she can't name.
+
+**Randi's story — after, not before.** *"Oh, baby. If you think a swat is good, a spanking is better."* Explicit, theatrical, **porn-generic — NOT Pace-fingerprint**: over a man's knee, bare, several deliberate ones, the loud scripted performance of dominance (prop-quality, choreographed, nothing like the quiet attentive kind Pace practices). Functions as amplifier — deepens the charge already extracted from Vee — and as installer: it names the escalation, plants it as a known country, and points toward the Proof Scene. By the end of it Vee is visibly, undeniably excited.
+
+**The bathroom trip.** Vee excuses herself. The reason is specific: **wetness — physical evidence her body produced without her permission**. She goes to manage proof, not to seek more charge. In the stall she is tempted to masturbate. She doesn't. **First bathroom trip. First time the mechanism fires in retelling. Quick suppression.** The line the Proof Scene debrief will cross is visible here as the line she doesn't cross.
+
+**Randi clocks when she left.**
+
+**On return: the close.** An arch look. *"I hope everything is alright."* Deniable, hospitable, devastating. On first read: mild concern, solicitude. On reread: *was everything handled, did you get sorted out* — the practical question in a hospitable costume. Vee can confirm neither way; to deny it confirms it; to let it pass is to leave it on the table. She carries the unsettled note out of the room.
+
+## Departure / Physical Staircase
+
+Unlike the Fitting Brunch car-curb kiss, the music room has no audience risk — no window-scan possible on departure. Whatever the physical staircase delivers at the close happens in genuine privacy. Different texture: not the performance of deniability (the French-thing filing), but the simpler fact of two people leaving a sealed room.
+
+## Pays Off
+
+- The First Swat: the look, the unnamed wanting, the hook planted there
+- Randi's escalating-story format: running since the Fitting Brunch, now shifted — the story serves extraction instead of preceding it
+
+## Plants
+
+Randi has now: (1) extracted that the swat excited Vee; (2) explicitly installed *spanking is better* as a named escalation; (3) witnessed physical arousal in retelling and its physical evidence; (4) filed the bathroom timing; (5) named it deniably on return. *"Are your fingers sticky?"* at the Proof Scene debrief is collection on what was loaded here — Randi is not improvising, she is delivering.
+
+## Staircase Notes
+
+**Bathroom-trip progression:** First occurrence — quick suppression. Temptation present, not acted on. Proof Scene debrief is where she stops not-doing it. **Note:** the SATC track doc (`meta-plan-satc-tracks.md`) currently places the first bathroom trip at the Fitting Brunch (rung 3). This scene supersedes that placement — the Fitting Brunch establishes the apparatus without yet firing it; the shame-arousal mechanism first fires in retelling here, at genuinely transgressive content.
+
+**Verbal staircase:** This scene sits between the First-Night Debrief (conversion/warmth operation, not extraction) and the Proof Scene debrief (doubled shame, first masturbation). It is the intermediate rung that makes the escalation to masturbation one step rather than two.

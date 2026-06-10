@@ -59,6 +59,18 @@ She begged. *Please. Please, Pace. Please.* The first and only verbal admission 
 
 ---
 
+## The Archive — What She Wore, What They Did
+
+Randi's visits to Pace are core memories. She can recite them: what she wore each time, what happened, the specific details of each encounter. This is not sentiment — it is the wound maintaining its own inventory. The visits are the source of her aliveness, and her memory protects that source with the precision of someone who has been given something irreplaceable and knows it.
+
+This precision is the private engine of the shoe motif. She knows exactly which shoes she wore to which visits. When she loans Vee a pair, she is choosing from that archive deliberately — whether or not she would name the deliberateness. The history of the loan is one-directional: Randi carries it, Vee does not. The shoes arrive at Pace's house having already been there.
+
+It also means every SATC report Vee delivers cross-references against Randi's specific memories. *He turned the heat up before she came* — Randi knows the house at that temperature. *He measured her bare* — Randi has stood in that room. The wound updates not in vague accumulation but with exact coordinates. She is not comparing Vee to an abstraction; she is comparing Vee to specific afternoons and what they produced in her body.
+
+**Render discipline:** never render this as narrated memory in Randi's scenes. The archive exists in her behavior — in the cup tell, in which shoes she chooses to lend, in the fraction-of-a-second pause before she re-files the update as operational data. The reader infers the inventory from what it produces, never from access to it.
+
+---
+
 ## The Hate — Structurally Orphaned
 
 Randi hates Pace for making her into a person who needs. He undid her at the level of her organizing principle. She did not consent to the transformation. He did not ask. The permission could not have been asked because the transformation requires the experience, and the experience is what the transformation is.
