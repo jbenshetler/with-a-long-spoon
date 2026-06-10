@@ -112,7 +112,7 @@ She did not turn back to him.
 
 "That's a lot more than a table."
 
-She was still looking at it. She did not seem upset. She seemed, as far as he could read her from behind, *interested,* with a small undertow of the queen-bee uncertainty that arrived in her when she did not yet know what role she was being asked to play. He waited. He did not move.
+Unsettled. The small shifts, the breath not finding its rhythm. He had seen her composed, amused, in control even when blindfolded and tied. Not like this. He waited. She kept staring.
 
 "You made it?" she said.
 
