@@ -94,7 +94,11 @@ She walked three steps into the bedroom and stopped.
 
 She was looking at the bench.
 
-The lamps were on. The top was leaning against the wall. The bench was bare. He stood behind her in the doorway and watched her see it. He watched the moment her body recognized the shape. She had seen from his bed for hours as a table. She was seeing it now for what it was, and at the seeing changed the seeing she put her weight on one leg and pointed the toe of her other high heeled show to the floor, pursing her lips and making a barely audible click. 
+The lamps were on. The top was leaning against the wall. The bench, which she had seen without seeing, was now bare. The leather, the fittings visible — her reading a purpose she hadn't known was there.
+
+She started at the front, finding a face cradle first, a padded ring, the kind she'd rest her face into for a massage. Handholds she found next, out beyond the face cradle, at shoulder width. A massage table didn't have them. Holding those would stretch her long. Her hands closed on nothing. The open middle, where a surface should have been, where her body would go unsupported, where everything a surface usually covered would hang free.
+
+He knew what she was reading — he had built it. The frame peaked at the hips — head down, legs down — and the leg rests on their arms, angled out and down. Open, everything open. Her head went back, toward the ceiling. He watched her throat and heard her exhale shakily.
 
 She did not turn back to him.
 
@@ -186,7 +190,7 @@ The dark walnut against her pale skin. The smell of the bench rose faintly in th
 
 He watched her hands find the grips — the small sound of skin on leather, the knuckles whitening and then relaxing — and her knees find the leg supports and her hips settle onto the pelvis support, and watched her torso bridge the gap between them, unsupported, her breasts hanging free in the lamplight with the small heavy sway of them against gravity as she found the load. He watched her thighs part as the leg supports took her weight, the bare cleft between them appearing and disappearing with each small adjustment. And he watched her ass — pale, bare, a decade of dance written into the muscle of it — clench and release as she searched for the position, the small involuntary tightenings of a body that did not yet know how to be still under what was about to happen to it.
 
-He adjusted the leg supports. The mechanisms had been his own design — well-oiled, silent, each piece moving under his hand with the precision of the thing he had made it to have. He widened them slowly until her thighs were apart enough that he could see all of her. The cleft between her legs opened — the small pale lips, the gloss he had seen from the front now visible from the back, the scent of her beginning to reach him, faint and clean and unmistakable. She made a small sound.
+He adjusted the leg supports. The mechanisms had been his own design — well-oiled, silent, each piece moving under his hand with the precision of the thing he had made it to have. He widened them slowly until her thighs were apart enough that he could see all of her. The cleft between her legs opened — the coral lips, the gloss he had seen from the front now visible from the back, the scent of her beginning to reach him, faint and clean and unmistakable. She made a small sound.
 
 He set his palm flat against the small of her back and slid it slowly down to the curve of her ass and lifted it.
 
@@ -231,8 +235,6 @@ Then the second strike, a little harder, on the same place. The sound was louder
 A ripple of goose bumps lifted across the cooler skin of her thighs, the fine pale hairs standing up for a moment and then settling again. Then the left side, twice, with the soothing between each one, and her breathing was beginning to change — the inhale shorter, the exhale longer, the small spaces between them where her body was working to understand what was happening.
 
 He worked her like that for several minutes. The strikes came in clean pairs, left then right, sharp and rhythmic. He did not linger between them. When he paused it was only to lay his palm flat over the place he had struck, feeling the heat rise under his hand before moving on.
-
-He kept going, varying the rhythm and placement, alternating strikes with shifting intervals of touch and attention so she could not anticipate what came next.
 
 Later, when her body had stopped bracing, he struck her again, lower, at the base of her right cheek, and the lovely curve of her ass jiggled pleasantly before settling back into the clean lines of her body. He watched that movement for a moment, then soothed the place he had struck, his palm moving slowly over the warmed skin. 
 
