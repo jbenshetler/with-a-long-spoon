@@ -114,13 +114,13 @@ She did not turn back to him.
 
 She was still looking at it. She did not seem upset. She seemed, as far as he could read her from behind, *interested,* with a small undertow of the queen-bee uncertainty that arrived in her when she did not yet know what role she was being asked to play. He waited. He did not move.
 
-"You made it," she said.
+"You made it?" she said.
 
 "Yeah."
 
 "For me?"
 
-"I was making it for a while before us. I knew the shape I wanted before I knew who'd be on it."
+"For you. Tonight."
 
 "Then I sat on it once when I was waiting for you," she said, slowly. "With my coffee. I sat on the top of it."
 
