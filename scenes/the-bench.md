@@ -122,7 +122,7 @@ Unsettled. The small shifts, the breath not finding its rhythm. He had seen her 
 
 "For you. Tonight."
 
-"Then I sat on it once when I was waiting for you," she said, slowly. "With my coffee. I sat on the top of it."
+"Where I've been laying my underwear?" she said.
 
 "Yes."
 
