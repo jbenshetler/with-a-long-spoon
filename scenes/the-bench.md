@@ -126,7 +126,7 @@ Unsettled. The small shifts, the breath not finding its rhythm. He had seen her 
 
 "Yes."
 
-She turned then and looked at him. Her face had the specific attentiveness it got when she was concentrating, the slight surprise of her resting expression sharpened into a question. The blue of her eyes was darker. He had learned that her eyes went darker when she concentrated.
+She turned then and looked at him. Her nose was crinkled — intrigued — and her eyes were intensely blue and very awake.
 
 "Show me," she said.
 
