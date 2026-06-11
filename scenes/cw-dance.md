@@ -1,68 +1,99 @@
 The text came Tuesday.
 
-*Thursday — CW. I'll pick you up at seven.*
+*Thursday — CW dancing. Pick you up at 8?*
 
-She read it again. There was nothing to read the second time; the message was exactly what it was.
+She stared at it. Then:
 
----
+*I can't. I don't know how to dance.*
 
-She was dressed by six-thirty and undressed by six-forty-five. The first dress was too careful. The second was worse. She put the first one back on and sat on the edge of her bed and did not look at the clock.
+His reply came back quickly.
 
-He was at the curb when she came through the building's front door, leaning against the car with his phone in his hand, not looking at it. The evening was warm for October and he was in dark jeans and a button-down with the sleeves turned back, and she registered this in the way she'd learned to register things about him: quickly, so it wouldn't show.
+*If you want to, I'll teach you. Pick you up at 7?*
 
-"We're making a stop," he said.
+She sent back a heart.
 
-He drove to the edge of campus, past the science buildings to a parking lot that emptied on weeknights, and pulled in and cut the engine. She waited while he got out and came around to the trunk and lifted out a boom box, the actual kind with a handle, and she didn't ask. He set it on the hood of the car and clicked it on and country music came out, turned low. He turned back to her.
-
-"Have you two-stepped before?"
-
-"No."
-
-"Okay." He showed her the pattern without touching her first — his feet, slow and patient, quick-quick-slow on the asphalt. "It's in the follow, not the step. The lead gives you the information. You don't guess."
-
-She watched his feet. She thought she understood.
-
-He held out his hand.
+*Borrow boots*, he said.
 
 ---
 
-The frame was the first problem.
+She borrowed the boots from a girl on another wing and a keyhole shirt from the girl two doors down, who looked at her chest once and handed it over without being asked twice. Someone had told her that serious dancers wore jeans. She wasn't a serious dancer, but she didn't want to advertise it.
 
-His right hand at her shoulder blade, not her waist — higher than she expected, and firmer, a specific pressure rather than a suggestion. Her left arm on his shoulder. Their other hands clasped and extended. She was enclosed in it before she understood what it was, and her instinct was immediately to look down at her feet, which the frame made useless, which meant looking up at him, which she didn't want to do.
+She was dressed by five-thirty. She changed the shirt and changed it back.
 
-"Chin up," he said. Not unkind.
+---
 
-She lifted it.
+He was in the common area when she came off the elevator — she had a moment to see him before anything was said. Recently polished boots. Jeans with a crease pressed into them. A short-sleeved knit shirt despite the October cold, which she didn't understand at first and then did: he'd dressed for the dancing, not the weather. He was freshly shaved. He was carrying a boom box — battered, the handle wrapped in electrical tape, the kind of machine that belonged to a decade she hadn't been alive for.
 
-"You're pulling away."
+He held the door.
 
-"I'm not—"
+---
 
-"Your right arm. You're holding yourself out of the frame."
+They walked across campus, up past the science buildings toward the basketball gym. No game tonight; the building was dark. On the upper side there was a concrete pad caught in the spill of the field lights, empty. He set the boom box down and clicked it on. Country music, turned low.
+
+"I'm going to show you the three-step," he said.
+
+"Shouldn't I start with a two-step?" she said. "Or a one-step?"
+
+"Most of what you'll hear tonight is a better fit for the three-step. For the same beat, the three-step is easier, slower steps than the two-step. I know it doesn't make any sense."
+
+"The basic step is back on the right, back on the right, then back on the left. One-and-two, three-four." He showed her: his feet, slow and patient, on the concrete. "The *and* is just a change of weight — that's what lets the same foot go back twice."
+
+He walked her through the pattern slowly, again and again until she got it. "One-and-two, three-four," they counted together. When she felt herself getting choppy, "Smaller steps are easier - it's not a race." 
+
+He showed her the woman's part then — the same steps, his feet doing what hers would do, no ceremony about it: in front of her, facing away, so their feet took the same steps. 
+
+After some practice she said, "I think I got it."
+
+Turning, his left hand took her right and extended it straight out to the side. His right came under her left arm, the heel of his hand settling against her back, fingers curled and touching her shoulder blade, specific and firm.
+
+
+Gently shaking her right arm, "You have a job here," he said. "Give me something to push back against. Otherwise you cannot feel my lead. Push on my shoulder — firm, not hard. That's how we move together. Being jelly doesn't work."
+
+She pushed on his shoulder.
+
+"More."
+
+She pushed harder.
+
+"That's it. Now when I move, the information goes through here." A small press at her shoulder blade. "Don't look at your feet."
+
+She looked up.
+
+He began to dance with her. 
+
+---
+
+She kept softening — going jelly the moment she tried to move, which meant he had nothing to push back against, which meant the lead went nowhere. He corrected her without comment, repositioning, waiting, starting again. Then she overcorrected.
+
+"Your right arm," he said. "You're holding yourself out."
 
 She looked at the space between them, the few inches she'd apparently been maintaining without knowing it.
 
-"That's where the information goes," he said. "When you resist it, you can't feel the lead."
+"But you'll step on my foot," she said.
 
-She said nothing. She adjusted. He waited until she'd settled into it — or what she thought was settling, her version of it — and then he moved, and her feet scrambled to follow, a half-beat late, stepping on nothing, recovering wrong.
+"That's what gets you stepped on," he said. "The space you're keeping. Close it — come all the way in — and my feet can't land anywhere but past yours."
+
+She said nothing. She adjusted. He waited until she'd settled — or what she thought was settling, her version of it — and then he moved, and her feet scrambled to follow, a half-beat late, stepping on nothing, recovering wrong.
 
 They stopped.
 
-"Don't think," he said. "Follow the lead."
+"Don't think. Just feel the lead."
 
 "That's not helpful."
 
-"I know." He moved his hand slightly at her back, a small increase in pressure. "Again."
+"I know." His hand moved slightly at her back, a small increase in pressure. "Again."
 
 ---
 
-She fought it for ten minutes. She kept anticipating — reading the motion and stepping into it before the lead arrived, which put her in the wrong place for the next one. He corrected her without comment, repositioning, waiting, starting again. The music kept going. The parking lot was empty and badly lit and she was aware of how ridiculous this was and also aware that she did not want to stop.
+He pressed play on the ancient boombox, the tape warbling up to speed. "That's something my granddad listened to." "Some of the older songs have a clearer beat. It doesn't get lost in the extra." It was sparse, pretty. 
+
+She fought it for ten minutes. She kept anticipating — reading the motion and stepping into it before the lead arrived, which put her in the wrong place for the next one. He gave her nothing to anticipate — held the frame even, waited out each early step, picked the count back up. The music kept going. The pad was empty and the field lights were cold and she was aware of how ridiculous this was and also aware that she did not want to stop.
 
 And then something gave.
 
-She wasn't sure what she did differently. She stopped guessing — or guessing stopped happening, the decision pulled from her somehow — and the pressure at her shoulder blade became readable, actual information, and she was moving. The pattern came through his body before it arrived in her feet. She felt the turn before it happened. Her feet landed where they were supposed to land.
+She wasn't sure what she did differently. She stopped guessing — or guessing stopped happening, the decision pulled from her somehow — and the pressure of her hand on his shoulder became readable, actual information, and she was moving. The pattern came through his body before it arrived in her feet. She felt the turn before it happened. Her feet landed where they were supposed to land.
 
-They went around the parking lot once, twice. She wasn't thinking about the steps.
+They went around the pad once, twice. She wasn't thinking about the steps.
 
 "There it is," he said, quiet.
 
@@ -70,7 +101,7 @@ She said nothing. She was busy.
 
 ---
 
-The CW was loud and warm when they walked in, the kind of warm that came from bodies and not from the heat being turned up — a real crowd, people who knew what they were doing. The floor was already moving. She stood in the entrance for a moment and felt the difference between the parking lot and this: the lesson had been private and deliberate, and this was alive, and she was going to be visible.
+The CW was loud and warm when they walked in, the kind of warm that came from bodies and not from the heat being turned up — a real crowd, people who knew what they were doing. The floor was already moving. She stood in the entrance for a moment and felt the difference between the pad and this: the lesson had been private and deliberate, and this was alive, and she was going to be visible.
 
 Then he took her hand and led her to the floor.
 
