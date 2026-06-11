@@ -133,61 +133,47 @@ But the music was loud and he was a good lead and she let it go.
 
 ---
 
-He went to get drinks. She was still warm from the last song, standing near the wall with her arms at her sides and feeling her pulse.
+He went to the bar for drinks. She stood near the wall with her arms at her sides, warm, her pulse going in her neck.
 
-"You're not from here," a woman said beside her.
+"Y'all look great together."
 
-She turned. About her age, a little older maybe — blonde, in a flannel shirt tied at the waist, the particular ease of someone who'd been coming here for years. She was smiling.
+She turned. A blonde about her own age, country pretty in the standard issue — hair done, makeup put on with intention and no apology for being makeup, the kind that worked in the dark and would be too much by daylight. She said it warm, and kept going. "He's such a great lead, isn't he? Knows how to get a girl to do just what he wants her to." A sip of her drink, her eyes on Vee over the rim. "All us girls love him. He's so good about getting a girl home safe at the end of the night."
 
-"How can you tell?"
+And she moved off, pleased with herself, before Vee could find anything to say back.
 
-"You looked scared when you walked in." She said it lightly. "But you're good. Where'd you learn?"
-
-"Just now," Vee said. "Parking lot."
-
-The woman laughed — a real laugh, surprised. "That's Pace." Then: "He's something. Just so you know — women get jealous watching. You're going to get looks." She glanced toward the bar where he'd gone, then back. "He's good at getting people home safe. All kinds of people."
-
-The last sentence was delivered the same as the rest — warm, conversational, the way you'd offer a fact. She was still smiling. A moment later she was gone, back into the crowd, before Vee had registered exactly what she'd said.
-
-Vee stood there.
-
-She understood what she'd heard. She understood it precisely.
+Vee stood there. *The girls.* All the bright smiles and shiny eyes and big hugs for Pace. She'd let herself feel like an exception. She was looking at the rule.
 
 ---
 
-He came back with two longnecks and she took hers and didn't drink it. The band started another song. He tilted his head toward the floor, the easy invitation, and she said:
+He came back with two longnecks, loose and easy, still up from the floor, and held one out.
 
-"How many women have you taught to dance?"
+"Thanks." She took the bottle. She meant to leave it at that — meant to be a person having a good night — and heard herself say instead, "Does your *service* include getting the girls home safe from here, too?"
 
-He looked at her. His expression didn't change — not defensive, not surprised, not apologetic. Just still.
+The venom was right there in it. She heard it the way you hear a glass go past the point where you can still catch it.
 
-"Vivienne—"
+The ease went out of his face. Not anger — the good mood just draining off him, all at once, leaving something still and plain.
 
-"In parking lots." She heard her own voice and recognized what it was doing and couldn't stop it. "I'm just asking."
+"Yes," he said. "Sometimes. When it's required."
 
-"You're not just asking."
+He'd answered straight — and it wouldn't have mattered what he said. She was already angry, and some part of her wanted to stay that way, and nothing he could put into that moment was going to make it all right.
 
-"She said *all kinds of people.*" The words came out harder than she meant them to. "*All kinds.* Like I'm supposed to feel reassured by that."
+"I don't need you to get me home safely." Her face was hot. "I'll handle that myself."
 
-"You're supposed to feel—"
-
-"I know what she meant. I'm not an idiot." She looked at the floor. The music was loud and bright and nobody around them was paying attention. "I'm not doing this."
-
-She meant: *this conversation.* She meant: *I shouldn't be saying this.* She meant something else that she didn't have words for and was grateful not to have words for.
-
-He set his beer down on a nearby ledge. His voice was even and not unkind, which was somehow worse.
-
-"Vivienne. This isn't—"
-
-"It's fine." She backed up half a step. "You should dance. I need a minute."
-
-He looked at her for a long moment. Then he picked his beer back up and walked toward the floor without another word, and she stood against the wall and watched him go, and her face was very hot.
+She set the bottle on the ledge and walked off before he could say anything — fast, not toward anywhere, just away. She was angry about the girls, and angrier that she'd let herself be played: three dates, and she'd spread her legs like a slut. She got clear of him before any of it could reach her face.
 
 ---
 
-She stayed for another hour. She didn't dance again. The hot thing in her chest cooled slightly but didn't leave; it settled into something less volatile and more embarrassing, the specific humiliation of having performed jealousy at a man who had done nothing. The woman had said: *all kinds of people.* She'd meant it to be kind. Vee had made it into something else, out loud, where he could hear.
+From across the room she watched it happen. He stood where she'd left him with both bottles. A couple of regulars drifted over — a hand on his shoulder, the easy consolation of people who liked him, someone leaning in to say the thing you say. He shook his head. He set the beers down on the bar, untouched, and went out, and the door let in a wedge of cold and shut behind him.
 
-She watched him dance with two other women — both led with the same patience, the same readable hand at the back, the same good frame. She watched the women relax into it the way she had in the parking lot. She felt no better.
+---
+
+She stayed. She found a stretch of wall and didn't leave it, and she watched the floor because she couldn't make herself look away.
+
+There were girls out there she hadn't let herself notice while she was dancing — bare midriffs, shirts cut down to there, tanned in October, bodies that knew they were being looked at and moved like they liked it. Floozies. She watched them.
+
+Had he taught that one to dance? Gotten her home safe at the end of the night? How many of them knew what his pillow smelled like?
+
+She knew what she was doing, and she did it anyway. She'd thought she was special. She was just next.
 
 At last call she found a stool at the bar and sat.
 
@@ -215,13 +201,13 @@ She paid at the curb, exact change.
 
 ---
 
-Her roommate's light was off. She moved through the apartment quietly, left her shoes by the door, took off the dress. She washed her face with the water as cold as it would go. She looked at herself in the mirror for a moment and then looked away.
+Her roommate's light was off. She moved through the apartment quietly, left her shoes by the door, took off the borrowed shirt. She washed her face with the water as cold as it would go. She looked at herself in the mirror for a moment and then looked away.
 
 She opened the closet. His shirt was on the hook where she'd hung it after the last time — she'd meant to return it, had kept not returning it. She took it down and put it on. The fabric was room temperature and too large and smelled like fabric softener, not him, but she put it on anyway.
 
 She lay down.
 
-The room was wrong in the specific way rooms got wrong at two in the morning. Not dark enough, not quiet enough. A detail kept returning — not a thought but a sensation: his hand at her shoulder blade in the parking lot, the pressure of the lead arriving before her feet knew what to do with it. The moment the dance took her and she stopped trying to guess.
+The room was wrong in the specific way rooms got wrong at two in the morning. Not dark enough, not quiet enough. A detail kept returning — not a thought but a sensation: his hand at her shoulder blade on the pad, the pressure of the lead arriving before her feet knew what to do with it. The moment the dance took her and she stopped trying to guess.
 
 She lay there with that.
 
