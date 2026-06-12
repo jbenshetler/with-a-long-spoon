@@ -314,16 +314,6 @@
       }
     },
     {
-      "to": "Pace",
-      "relationship": "loyal surviving bond",
-      "negated": false,
-      "properties": {
-        "note": "her protective action is on his behalf; the document instructs that Pace neither accepts nor declines on the page",
-        "nature": "the one surviving bond, paying back the debt of having survived",
-        "loyalty": "earned"
-      }
-    },
-    {
       "to": "Cassie",
       "relationship": "narrative_foil",
       "negated": false,
@@ -381,6 +371,16 @@
       "relationship": "appearance-grammar contrast",
       "negated": false,
       "properties": "Randi occupies the 'labor invisible' position (work that doesn't show); Sheri's effort is visible and imperfect"
+    },
+    {
+      "to": "Pace",
+      "relationship": "loyal surviving bond",
+      "negated": false,
+      "properties": {
+        "note": "her protective action is on his behalf; the document instructs that Pace neither accepts nor declines on the page",
+        "nature": "the one surviving bond, paying back the debt of having survived",
+        "loyalty": "earned"
+      }
     }
   ],
   "negations": [

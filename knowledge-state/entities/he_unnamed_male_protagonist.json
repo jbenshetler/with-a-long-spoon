@@ -72,82 +72,9 @@
       "value": "the four shirts, the pear poached ahead, the shirt in the rain, the finish that goes in instead of sitting on top like plastic"
     }
   ],
-  "behavioral_states": [
-    {
-      "state_name": "chivalric care",
-      "trigger": "in proximity to a woman he cares for (Vee)",
-      "response": "performs small protective/courtly gestures",
-      "observable": "hand on the back, walking her to the car",
-      "distinguish_from": [
-        "controlling behavior",
-        "coercive control",
-        "named/declared affection"
-      ]
-    },
-    {
-      "state_name": "loving-in-action / mute-in-word",
-      "trigger": "feeling love",
-      "response": "expresses it through acts of service and care rather than declaration; cannot say it aloud",
-      "observable": "four shirts, pear poached ahead, shirt in the rain, the 'finish' that goes in",
-      "distinguish_from": [
-        "verbal declaration of love",
-        "coldness/absence of love"
-      ]
-    },
-    {
-      "state_name": "riding for peace",
-      "trigger": "needing calm/self-soothing",
-      "response": "cycles, alone or side-by-side with Sheri (a format that costs him nothing)",
-      "observable": "cycling",
-      "distinguish_from": [
-        "mere recreation",
-        "narrated trauma processing"
-      ]
-    }
-  ],
-  "temporal_states": [
-    {
-      "attribute": "self-knowledge of consent blind spot",
-      "value": "comes to see that deception-into-consent is also a violation",
-      "after_event": "his reckoning (not yet shown to occur / a future story beat)",
-      "before_event": null,
-      "event_resolved": true
-    },
-    {
-      "attribute": "Vee's perception of his cycling",
-      "value": "the fact that he cycles lands on her differently once she learns its origin",
-      "after_event": "Vee learns the origin of his cycling (the bike trauma)",
-      "before_event": null,
-      "event_resolved": true
-    }
-  ],
-  "relationships": [
-    {
-      "to": "his father",
-      "relationship": "abusive parent",
-      "negated": false,
-      "properties": {
-        "impact": "father's abuse taught him non-consent = coercion = what his father was; used for serious reckoning"
-      }
-    },
-    {
-      "to": "Sheri",
-      "relationship": "cycles side-by-side with / companion in 'riding for peace'",
-      "negated": false,
-      "properties": {
-        "note": "the side-by-side format 'costs him nothing'"
-      }
-    },
-    {
-      "to": "Vee",
-      "relationship": "object of his attentive care; her body notices his physical favoring before she understands why",
-      "negated": false,
-      "properties": {
-        "dynamic": "body before mind",
-        "may_learn": "the origin of his cycling, which would recolor her view"
-      }
-    }
-  ],
+  "behavioral_states": [],
+  "temporal_states": [],
+  "relationships": [],
   "negations": [
     {
       "claim": "His dominance is controlling.",

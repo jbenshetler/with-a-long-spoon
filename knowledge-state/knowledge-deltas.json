@@ -1,5 +1,15 @@
 [
   {
+    "character_name": "Pace",
+    "fact": "Vivienne called him back into the cab and deliberately unbuttoned her shirt in front of him",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": null,
+    "scene_file": "scenes/hiking-rainstorm.md",
+    "chapter_number": 10
+  },
+  {
     "character_name": "Vee",
     "fact": "The calculus problem she was stuck on contains a third rate, hidden in a sentence in the problem statement rather than labeled as a rate",
     "source_character": "Pace",
@@ -411,6 +421,26 @@
   },
   {
     "character_name": "Pace",
+    "fact": "Vee texted 'home safe \u2764\ufe0f' with a photo of her front door wreath when she arrived home",
+    "source_character": "Vee",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Direct observation of the text.",
+    "scene_file": "scenes/ignition-scalding.md",
+    "chapter_number": 42
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Pace packed a dry flannel shirt in his gym bag behind the truck seat",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "She observes this directly when he retrieves it",
+    "scene_file": "scenes/hiking-rainstorm.md",
+    "chapter_number": 10
+  },
+  {
+    "character_name": "Pace",
     "fact": "Randi arrives Tuesday midnight having dressed deliberately for the encounter \u2014 hair down, heels, silk slip over bare skin \u2014 and has staged her entrance as a presentation",
     "source_character": null,
     "source_reliable": false,
@@ -428,6 +458,16 @@
     "notes": "Randi states it directly; Pace registers it as heat.",
     "scene_file": "scenes/ignition-scalding.md",
     "chapter_number": 42
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Pace stepped out of the truck and stood in the rain with his back to her to give her privacy to change",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": null,
+    "scene_file": "scenes/hiking-rainstorm.md",
+    "chapter_number": 10
   },
   {
     "character_name": "Randi",
@@ -586,16 +626,6 @@
     "source_reliable": false,
     "actual_truth": false,
     "notes": "Pace's interpretation (she is too spent to move) is presented as his sincere belief. Whether this is the actual_truth or whether the non-response carries a different valence is left ambiguous by the author \u2014 the dread is 'reread-only.' Marking actual_truth null for ambiguity.",
-    "scene_file": "scenes/ignition-scalding.md",
-    "chapter_number": 42
-  },
-  {
-    "character_name": "Pace",
-    "fact": "Vee texted 'home safe \u2764\ufe0f' with a photo of her front door wreath when she arrived home",
-    "source_character": "Vee",
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Direct observation of the text.",
     "scene_file": "scenes/ignition-scalding.md",
     "chapter_number": 42
   },
@@ -881,26 +911,6 @@
   },
   {
     "character_name": "Vee",
-    "fact": "Pace packed a dry flannel shirt in his gym bag behind the truck seat",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "She observes this directly when he retrieves it",
-    "scene_file": "scenes/hiking-rainstorm.md",
-    "chapter_number": 10
-  },
-  {
-    "character_name": "Vee",
-    "fact": "Pace stepped out of the truck and stood in the rain with his back to her to give her privacy to change",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": null,
-    "scene_file": "scenes/hiking-rainstorm.md",
-    "chapter_number": 10
-  },
-  {
-    "character_name": "Vee",
     "fact": "Pace was shivering from prolonged cold and wet exposure while she was focused on her own heat and desire",
     "source_character": null,
     "source_reliable": true,
@@ -1138,6 +1148,16 @@
     "notes": "Pace observes this directly from his vantage at the light pole. He attributes it to two decades of dance training and sorority social conditioning.",
     "scene_file": "scenes/the-pointing-game.md",
     "chapter_number": 3
+  },
+  {
+    "character_name": "Pace",
+    "fact": "Randi locked the bathroom door behind her after the scene \u2014 something she had never done before in his house",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Pace notices and registers this specifically as a departure from prior behavior",
+    "scene_file": "scenes/the-bench.md",
+    "chapter_number": 1
   },
   {
     "character_name": "Pace",
@@ -1386,16 +1406,6 @@
     "source_reliable": true,
     "actual_truth": true,
     "notes": "Pace had been waiting for this since the first night. The scene marks him consciously registering its arrival",
-    "scene_file": "scenes/the-bench.md",
-    "chapter_number": 1
-  },
-  {
-    "character_name": "Pace",
-    "fact": "Randi locked the bathroom door behind her after the scene \u2014 something she had never done before in his house",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Pace notices and registers this specifically as a departure from prior behavior",
     "scene_file": "scenes/the-bench.md",
     "chapter_number": 1
   },
@@ -2740,6 +2750,16 @@
     "chapter_number": 18
   },
   {
+    "character_name": "Randi",
+    "fact": "The Architect (or the man making Vee's dress) measured Vee topless and without her bra",
+    "source_character": "Vivienne",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee confirms 'The bra too. Yeah.' Randi draws this out through questioning",
+    "scene_file": "scenes/brunch-fitting-randi.md",
+    "chapter_number": 14
+  },
+  {
     "character_name": "Cassie",
     "fact": "The shame loop (her mother's voice) and her physical desire run on the same wire with no seam between them, and she has stopped looking for one",
     "source_character": null,
@@ -2928,16 +2948,6 @@
     "notes": "Randi arrives at this conclusion herself in the final paragraphs; framed as a resolve or problem she is holding, not a decision yet made",
     "scene_file": "scenes/the-bench.md",
     "chapter_number": 1
-  },
-  {
-    "character_name": "Randi",
-    "fact": "The Architect (or the man making Vee's dress) measured Vee topless and without her bra",
-    "source_character": "Vivienne",
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": "Vee confirms 'The bra too. Yeah.' Randi draws this out through questioning",
-    "scene_file": "scenes/brunch-fitting-randi.md",
-    "chapter_number": 14
   },
   {
     "character_name": "Randi",
@@ -3216,16 +3226,6 @@
     "source_reliable": true,
     "actual_truth": true,
     "notes": "He diagnoses and treats the hot spot directly",
-    "scene_file": "scenes/hiking-rainstorm.md",
-    "chapter_number": 10
-  },
-  {
-    "character_name": "Pace",
-    "fact": "Vivienne called him back into the cab and deliberately unbuttoned her shirt in front of him",
-    "source_character": null,
-    "source_reliable": true,
-    "actual_truth": true,
-    "notes": null,
     "scene_file": "scenes/hiking-rainstorm.md",
     "chapter_number": 10
   },

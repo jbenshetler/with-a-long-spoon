@@ -1,12 +1,7 @@
 {
   "name": "Vee",
   "aliases": [
-    "Vivienne",
-    "Vee's scent signature",
-    "Vee's car",
-    "Vee and Cassie's dorm room",
-    "Vee's physical appearance",
-    "kissing standard"
+    "Vivienne"
   ],
   "entity_type": "character",
   "facts": [
@@ -796,6 +791,107 @@
   ],
   "behavioral_states": [
     {
+      "state_name": "envy_of_vee",
+      "trigger": "Witnessing Vee live from what they both have",
+      "response": "Envies Vee's ability to live from what they both have; operates without language, in the body, in the daily texture of lunches",
+      "observable": "Unspoken; manifests bodily during shared lunches, never verbalized",
+      "distinguish_from": [
+        "Vee's envy of Randi's composure"
+      ]
+    },
+    {
+      "state_name": "anticipatory_comfort_provision",
+      "trigger": "Vee's scheduled arrival at Pace's house",
+      "response": "Pace turns up the heat in advance so the space will be warm and comfortable when she arrives",
+      "observable": "The house is noticeably warm; Vee does not experience cold upon entering; evidence of premeditated environmental adjustment",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "intimate_boundary_observer",
+      "trigger": "Recently meeting a man (few days of acquaintance)",
+      "response": "Declines to kiss; enforces personal rule framed as maternal wisdom",
+      "observable": "Vee maintains a policy against kissing men she has known only a few days, identifying this as consistent with her history and values",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "door_opening_care",
+      "trigger": "walking Vee to her car",
+      "response": "opens the car door for her",
+      "observable": "Pace physically opens Vee's car door as a consistent practice during departures",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "morning_physical_surrender",
+      "trigger": "being held by Pace in the morning",
+      "response": "leans cheek against the place his mouth had just been, closes eyes, allows warmth to affect her",
+      "observable": "cheek placement, eye closure, somatic receptivity to warmth",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "watching_caught",
+      "trigger": "Vee catches him looking at her",
+      "response": "maintains eye contact with her face (not her body); does not look away",
+      "observable": "When Vee looks over, Pace is already looking at her face in front of (not at) the valley, and he holds the gaze without breaking it",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "caught_watching_vee",
+      "trigger": "Vee catches Pace watching her",
+      "response": "Pace holds her gaze without looking away, then turns away on his own terms",
+      "observable": "When caught watching Vee, Pace maintains unbroken eye contact until he chooses to disengage",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "performed_social_ease",
+      "trigger": "speaking to someone whose approval she wants; performing confidence or casualness",
+      "response": "voice rises slightly in pitch and takes on a 'trying-to-sound-like-this-happens-to-me' quality",
+      "observable": "pitch elevation and affected vocal quality during social performance",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "direct_gaze_pattern",
+      "trigger": "Vee catches Pace watching her",
+      "response": "He is already looking at her face, not her body; he does not look away when caught",
+      "observable": "When Vee looks over, Pace is already watching her face \u2014 specifically her face in front of the valley \u2014 and maintains his gaze without breaking eye contact or deflecting",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "social_fluency_activation",
+      "trigger": "conversational beat drops or awkward silence emerges",
+      "response": "automatically reframes the silence or oddity warmly; smooths over gaps as an involuntary response before conscious decision-making",
+      "observable": "She bridges dropped beats in conversation, restoring ease through reflexive warmth before she has decided to do so; operates as an automatic social mechanism rather than calculated choice",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "Sadism with content (SATC scenes)",
+      "trigger": "Reaching the part of Vee that has what Randi wants",
+      "response": "Operating on Vee's livingness directly",
+      "observable": "Sadism that is not merely formal surface-management; directed at Vee's living core",
+      "distinguish_from": [
+        "Queen-bee work (sadism in form but not content)",
+        "Managing surfaces"
+      ]
+    },
+    {
+      "state_name": "Queen-bee work (sadism in form only)",
+      "trigger": "Social/surface management contexts",
+      "response": "Sadism in form but not in content \u2014 managing surfaces",
+      "observable": "Behavior resembling sadism formally but not touching what Randi actually wants",
+      "distinguish_from": [
+        "Sadism with content (SATC scenes)",
+        "Operating on Vee's livingness directly"
+      ]
+    },
+    {
+      "state_name": "unmet_need_loop",
+      "trigger": "Experiences need (per THE NEED ENGINE mechanism)",
+      "response": "Cannot show need and cannot self-supply, so the need runs unmet and is re-filed",
+      "observable": "No external expression of need; composed armor remains in place",
+      "distinguish_from": [
+        "Vee's pattern of showing need and being fed"
+      ]
+    },
+    {
       "state_name": "gaze_toward_vee",
       "trigger": "Presence of or attention to Vee",
       "response": "Deliberate, appreciative gaze that reads as a silent request for permission to look, followed by evident gladness at what he sees",
@@ -900,27 +996,6 @@
       "trigger": "novel_opening",
       "response": "Vivienne and Pace have kissed but have not progressed to sexual intimacy; physical contact remains charged and unresolved, enabling the escalation dynamic",
       "observable": "At story start, their relationship exists in a state of erotic tension with kissing established as a boundary crossed but sexual contact deferred",
-      "distinguish_from": []
-    },
-    {
-      "state_name": "caught_watching_vee",
-      "trigger": "Vee catches Pace watching her",
-      "response": "Pace holds her gaze without looking away, then turns away on his own terms",
-      "observable": "When caught watching Vee, Pace maintains unbroken eye contact until he chooses to disengage",
-      "distinguish_from": []
-    },
-    {
-      "state_name": "performed_social_ease",
-      "trigger": "speaking to someone whose approval she wants; performing confidence or casualness",
-      "response": "voice rises slightly in pitch and takes on a 'trying-to-sound-like-this-happens-to-me' quality",
-      "observable": "pitch elevation and affected vocal quality during social performance",
-      "distinguish_from": []
-    },
-    {
-      "state_name": "social_fluency_activation",
-      "trigger": "conversational beat drops or awkward silence emerges",
-      "response": "automatically reframes the silence or oddity warmly; smooths over gaps as an involuntary response before conscious decision-making",
-      "observable": "She bridges dropped beats in conversation, restoring ease through reflexive warmth before she has decided to do so; operates as an automatic social mechanism rather than calculated choice",
       "distinguish_from": []
     },
     {
@@ -1085,44 +1160,6 @@
       "distinguish_from": [
         "bench please / begging-voice (verbal admission of need)",
         "deliberate verbal admission"
-      ]
-    },
-    {
-      "state_name": "Sadism with content (SATC scenes)",
-      "trigger": "Reaching the part of Vee that has what Randi wants",
-      "response": "Operating on Vee's livingness directly",
-      "observable": "Sadism that is not merely formal surface-management; directed at Vee's living core",
-      "distinguish_from": [
-        "Queen-bee work (sadism in form but not content)",
-        "Managing surfaces"
-      ]
-    },
-    {
-      "state_name": "Queen-bee work (sadism in form only)",
-      "trigger": "Social/surface management contexts",
-      "response": "Sadism in form but not in content \u2014 managing surfaces",
-      "observable": "Behavior resembling sadism formally but not touching what Randi actually wants",
-      "distinguish_from": [
-        "Sadism with content (SATC scenes)",
-        "Operating on Vee's livingness directly"
-      ]
-    },
-    {
-      "state_name": "unmet_need_loop",
-      "trigger": "Experiences need (per THE NEED ENGINE mechanism)",
-      "response": "Cannot show need and cannot self-supply, so the need runs unmet and is re-filed",
-      "observable": "No external expression of need; composed armor remains in place",
-      "distinguish_from": [
-        "Vee's pattern of showing need and being fed"
-      ]
-    },
-    {
-      "state_name": "envy_of_vee",
-      "trigger": "Witnessing Vee live from what they both have",
-      "response": "Envies Vee's ability to live from what they both have; operates without language, in the body, in the daily texture of lunches",
-      "observable": "Unspoken; manifests bodily during shared lunches, never verbalized",
-      "distinguish_from": [
-        "Vee's envy of Randi's composure"
       ]
     },
     {
@@ -1632,20 +1669,6 @@
       "distinguish_from": []
     },
     {
-      "state_name": "direct_gaze_pattern",
-      "trigger": "Vee catches Pace watching her",
-      "response": "He is already looking at her face, not her body; he does not look away when caught",
-      "observable": "When Vee looks over, Pace is already watching her face \u2014 specifically her face in front of the valley \u2014 and maintains his gaze without breaking eye contact or deflecting",
-      "distinguish_from": []
-    },
-    {
-      "state_name": "anticipatory_comfort_provision",
-      "trigger": "Vee's scheduled arrival at Pace's house",
-      "response": "Pace turns up the heat in advance so the space will be warm and comfortable when she arrives",
-      "observable": "The house is noticeably warm; Vee does not experience cold upon entering; evidence of premeditated environmental adjustment",
-      "distinguish_from": []
-    },
-    {
       "state_name": "emotional_closure_refusal",
       "trigger": "Vee prepares and deploys a carefully calibrated emotional statement seeking a specific response from a partner",
       "response": "Does not receive the answer/matching response she was waiting for",
@@ -1755,20 +1778,6 @@
       "trigger": "Vee signals a problem on the trail",
       "response": "Turns at once when called and comes two steps back down to her without hesitation",
       "observable": "Pace's immediate physical pivot and descent toward Vee after her signal; the two-step return; the absence of delay or questioning",
-      "distinguish_from": []
-    },
-    {
-      "state_name": "intimate_boundary_observer",
-      "trigger": "Recently meeting a man (few days of acquaintance)",
-      "response": "Declines to kiss; enforces personal rule framed as maternal wisdom",
-      "observable": "Vee maintains a policy against kissing men she has known only a few days, identifying this as consistent with her history and values",
-      "distinguish_from": []
-    },
-    {
-      "state_name": "door_opening_care",
-      "trigger": "walking Vee to her car",
-      "response": "opens the car door for her",
-      "observable": "Pace physically opens Vee's car door as a consistent practice during departures",
       "distinguish_from": []
     },
     {
@@ -2070,6 +2079,13 @@
       "trigger": "Vee visits Pace's home",
       "response": "Arrives put-together; leaves visibly undone with wrecked hair, soft and not redone; does not mind Pace seeing her in that state",
       "observable": "Hair appearance and grooming state change; Pace interprets unhaired state as form of trust extended specifically to him",
+      "distinguish_from": []
+    },
+    {
+      "state_name": "calibrated_pacing_responsive_to_partner",
+      "trigger": "Hiking with Vee; setting shared activity parameters",
+      "response": "Sets a deliberately slower pace than Vee would brace for; invites correction; remains adjustable",
+      "observable": "Pace tells Vee 'I'll set a pace, tell me if it's wrong' and follows with a pace slower than her braced expectation",
       "distinguish_from": []
     },
     {
@@ -2581,13 +2597,6 @@
       "distinguish_from": []
     },
     {
-      "state_name": "morning_physical_surrender",
-      "trigger": "being held by Pace in the morning",
-      "response": "leans cheek against the place his mouth had just been, closes eyes, allows warmth to affect her",
-      "observable": "cheek placement, eye closure, somatic receptivity to warmth",
-      "distinguish_from": []
-    },
-    {
       "state_name": "safely_home_notification_ritual",
       "trigger": "Vee arrives home after spending time with Pace",
       "response": "Sends Pace a text message reading '*home safe \u2764\ufe0f*' accompanied by a photo of her front door with the little year-round wreath, establishing a consistent pattern so he need not ask",
@@ -2903,13 +2912,6 @@
       "distinguish_from": []
     },
     {
-      "state_name": "watching_caught",
-      "trigger": "Vee catches him looking at her",
-      "response": "maintains eye contact with her face (not her body); does not look away",
-      "observable": "When Vee looks over, Pace is already looking at her face in front of (not at) the valley, and he holds the gaze without breaking it",
-      "distinguish_from": []
-    },
-    {
       "state_name": "preparing_something_difficult_to_say",
       "trigger": "recognition of something she needs to communicate but does not yet know what to do with",
       "response": "multi-stage assembly: feeling \u2192 image \u2192 words; thinks about it for weeks before articulation",
@@ -3127,13 +3129,6 @@
       "distinguish_from": []
     },
     {
-      "state_name": "calibrated_pacing_responsive_to_partner",
-      "trigger": "Hiking with Vee; setting shared activity parameters",
-      "response": "Sets a deliberately slower pace than Vee would brace for; invites correction; remains adjustable",
-      "observable": "Pace tells Vee 'I'll set a pace, tell me if it's wrong' and follows with a pace slower than her braced expectation",
-      "distinguish_from": []
-    },
-    {
       "state_name": "overwhelming_joy_expression",
       "trigger": "Overwhelming happiness or excitement",
       "response": "Full-body spin with arms raised, hair movement, clumsy whole-body turn that risks collision with surroundings, lands facing companion breathless and laughing at herself",
@@ -3232,6 +3227,13 @@
       "distinguish_from": []
     },
     {
+      "state_name": "comparative_male_attention_perception",
+      "trigger": "Being in the same room with Cassie when men are present",
+      "response": "Observes male attention warming on her, remaining easy and unbothered on Cassie (as on an older woman, child, or man he'd never think about again)",
+      "observable": "Two years of side-by-side moments where Vee registers the difference in how male gazes respond to her versus Cassie",
+      "distinguish_from": []
+    },
+    {
       "state_name": "uses_pace_aliveness_as_psychological_solvent",
       "trigger": "Pace produces full aliveness and engagement in Vee",
       "response": "Randi perceives and channels this aliveness-production as the substrate that surfaces her own suppressed dynamics; she weaponizes Vee's reports of Pace's attentiveness in the SATC lunches, using Vee's descriptions of aliveness as material for humiliation and psychological operation",
@@ -3327,13 +3329,6 @@
       "trigger": "emotionally charged speech or vulnerable confession",
       "response": "voice goes quiet, words become smaller and emerge one at a time; physical posture draws inward; requires listener to lean in to hear",
       "observable": "audible reduction in volume and pacing; slowed word delivery; listener must physically move closer to receive words",
-      "distinguish_from": []
-    },
-    {
-      "state_name": "comparative_male_attention_perception",
-      "trigger": "Being in the same room with Cassie when men are present",
-      "response": "Observes male attention warming on her, remaining easy and unbothered on Cassie (as on an older woman, child, or man he'd never think about again)",
-      "observable": "Two years of side-by-side moments where Vee registers the difference in how male gazes respond to her versus Cassie",
       "distinguish_from": []
     },
     {
@@ -3500,6 +3495,13 @@
   ],
   "temporal_states": [
     {
+      "attribute": "physiological_state_metaphor",
+      "value": "Like white wine \u2014 copious and thinner",
+      "after_event": "orgasm",
+      "before_event": null,
+      "event_resolved": true
+    },
+    {
       "attribute": "relationship_duration_with_randi",
       "value": "approximately one week",
       "after_event": "Vee and Randi first meet",
@@ -3588,13 +3590,6 @@
       "value": "Like whiskey \u2014 distinct, more impactful, slippery",
       "after_event": null,
       "before_event": "orgasm",
-      "event_resolved": true
-    },
-    {
-      "attribute": "physiological_state_metaphor",
-      "value": "Like white wine \u2014 copious and thinner",
-      "after_event": "orgasm",
-      "before_event": null,
       "event_resolved": true
     },
     {
@@ -3896,14 +3891,6 @@
       }
     },
     {
-      "to": "Pace",
-      "relationship": "awakened_by",
-      "negated": false,
-      "properties": {
-        "note": "Pace awakened Randi's loose aliveness-need (c), already running before Vee"
-      }
-    },
-    {
       "to": "Cassie",
       "relationship": "deliberately excludes",
       "negated": false,
@@ -3937,6 +3924,14 @@
       "relationship": "roommate/friend",
       "negated": false,
       "properties": "Shares the dorm double; Cassie's side may be neater and the contrast is part of the friendship"
+    },
+    {
+      "to": "Pace",
+      "relationship": "awakened_by",
+      "negated": false,
+      "properties": {
+        "note": "Pace awakened Randi's loose aliveness-need (c), already running before Vee"
+      }
     },
     {
       "to": "Pace",
@@ -4038,6 +4033,74 @@
     },
     {
       "to": "Pace",
+      "relationship": "object_of_intense_attachment",
+      "negated": false,
+      "properties": {
+        "context": "Vee glows about Pace at SATC lunch",
+        "intensity": "one of 'both flames' required for Randi to feel anything"
+      }
+    },
+    {
+      "to": "Mother",
+      "relationship": "parent",
+      "negated": false,
+      "properties": {
+        "origin_of": "the cutting voice originated as her mother's training",
+        "occupation": "nurse"
+      }
+    },
+    {
+      "to": "Father",
+      "relationship": "parent",
+      "negated": false,
+      "properties": {
+        "occupation": "blue collar"
+      }
+    },
+    {
+      "to": "Grandmother",
+      "relationship": "grandmother",
+      "negated": false,
+      "properties": "Gave Vee the pearl earrings out of love; Vee instinctively removes them so her grandmother isn't 'present' for the threesome"
+    },
+    {
+      "to": "Vee's mother",
+      "relationship": "mother",
+      "negated": false,
+      "properties": {
+        "dynamic": "inherited mother's-voice 'slut' acts as internalized self-censorship that shuts down impulses to display the body"
+      }
+    },
+    {
+      "to": "Vee's male partner (the 'he' / metaphor-giver)",
+      "relationship": "sexual/romantic partner",
+      "negated": false,
+      "properties": {
+        "dynamic": "He doesn't push when she deflects with wit; he 'files it'",
+        "intimacy_imagery": "Reveal image of her face smeared with their combined fluids",
+        "panties_exchange": "After the first night she hands him her worn pair ('Trade.') and leaves in a short skirt; one kept pair, not a collection; 'Both know. Neither mentions it.'"
+      }
+    },
+    {
+      "to": "Pace",
+      "relationship": "transformed_by",
+      "negated": false,
+      "properties": {
+        "effect": "becomes more vulnerable and braver; Pace benefits from her grace quality",
+        "duration": "across the year"
+      }
+    },
+    {
+      "to": "Pace",
+      "relationship": "romantic interest / partner",
+      "negated": false,
+      "properties": {
+        "dynamic": "she dresses for him (the tell); effort loosens as relationship secures; he reads effort correctly as interest",
+        "first_night": "hopes he won't talk her out of it"
+      }
+    },
+    {
+      "to": "Pace",
       "relationship": "could_not_receive_love_from",
       "negated": false,
       "properties": {
@@ -4063,15 +4126,6 @@
         "motive_1": "protecting the project (Pace might shut it down if he saw how far it had gone)",
         "motive_2": "protecting her interior (admitting the sadism would expose what hates him)",
         "underlying_emotion": "hate"
-      }
-    },
-    {
-      "to": "Pace",
-      "relationship": "object_of_intense_attachment",
-      "negated": false,
-      "properties": {
-        "context": "Vee glows about Pace at SATC lunch",
-        "intensity": "one of 'both flames' required for Randi to feel anything"
       }
     },
     {
@@ -4115,65 +4169,6 @@
       "relationship": "romantic/intimate partner",
       "negated": false,
       "properties": "Stays overnight at Pace's (bought the duffel for this); Pace cooks for her with attention that moves her"
-    },
-    {
-      "to": "Pace",
-      "relationship": "transformed_by",
-      "negated": false,
-      "properties": {
-        "effect": "becomes more vulnerable and braver; Pace benefits from her grace quality",
-        "duration": "across the year"
-      }
-    },
-    {
-      "to": "Pace",
-      "relationship": "romantic interest / partner",
-      "negated": false,
-      "properties": {
-        "dynamic": "she dresses for him (the tell); effort loosens as relationship secures; he reads effort correctly as interest",
-        "first_night": "hopes he won't talk her out of it"
-      }
-    },
-    {
-      "to": "Mother",
-      "relationship": "parent",
-      "negated": false,
-      "properties": {
-        "origin_of": "the cutting voice originated as her mother's training",
-        "occupation": "nurse"
-      }
-    },
-    {
-      "to": "Father",
-      "relationship": "parent",
-      "negated": false,
-      "properties": {
-        "occupation": "blue collar"
-      }
-    },
-    {
-      "to": "Grandmother",
-      "relationship": "grandmother",
-      "negated": false,
-      "properties": "Gave Vee the pearl earrings out of love; Vee instinctively removes them so her grandmother isn't 'present' for the threesome"
-    },
-    {
-      "to": "Vee's mother",
-      "relationship": "mother",
-      "negated": false,
-      "properties": {
-        "dynamic": "inherited mother's-voice 'slut' acts as internalized self-censorship that shuts down impulses to display the body"
-      }
-    },
-    {
-      "to": "Vee's male partner (the 'he' / metaphor-giver)",
-      "relationship": "sexual/romantic partner",
-      "negated": false,
-      "properties": {
-        "dynamic": "He doesn't push when she deflects with wit; he 'files it'",
-        "intimacy_imagery": "Reveal image of her face smeared with their combined fluids",
-        "panties_exchange": "After the first night she hands him her worn pair ('Trade.') and leaves in a short skirt; one kept pair, not a collection; 'Both know. Neither mentions it.'"
-      }
     }
   ],
   "negations": [

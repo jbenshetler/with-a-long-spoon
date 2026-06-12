@@ -46,72 +46,9 @@
       "value": "Reads plain surface emotion accurately, better than average; correctly reads evident interest, effort, and feeling when his attention is aimed"
     }
   ],
-  "behavioral_states": [
-    {
-      "state_name": "Coded-channel blindness",
-      "trigger": "A sentence that is a vessel for an unspoken one \u2014 a real message smuggled under a deniable surface, a question that is secretly a different question, a bid routed through a proxy",
-      "response": "Answers the literal proposition helpfully, by the only logic he trusts; never registers there is a cipher under the surface",
-      "observable": "Gives a caring, accurate, literal answer (e.g. 'Where you are is much better for your major; you shouldn't transfer') and is puzzled when it becomes a fight; tells such episodes as weird things that happened to him while the listener sees the whole iceberg",
-      "distinguish_from": [
-        "general social blindness",
-        "obtuseness",
-        "blindness to evident interest/effort/feeling",
-        "stock awkward-genius",
-        "coldness",
-        "stupidity",
-        "indifference"
-      ]
-    },
-    {
-      "state_name": "Stress-induced literalness (same circuit as coded-channel blindness intensifying)",
-      "trigger": "Stress, especially high-stakes emotional moments",
-      "response": "Becomes MORE literal; retreats into formal/precise register; whiffs hardest exactly when it matters most",
-      "observable": "Formal/precise retreat; pre-loads the Thanksgiving/Christmas fight; treats the mother's-boyfriend question as a transfer-question (misses the cipher)",
-      "distinguish_from": [
-        "coldness",
-        "general social blindness",
-        "calm composure"
-      ]
-    },
-    {
-      "state_name": "Aimed attention (instrument on)",
-      "trigger": "Being with Vee, who keeps the instrument aimed",
-      "response": "Stays on, alert, reading \u2014 can decode/read accurately when he remembers to; but it is manual and lapses",
-      "observable": "Reading her face in bed and tracking which domino has fallen; the lapses look exactly like not caring and are indistinguishable from indifference",
-      "distinguish_from": [
-        "indifference",
-        "not caring",
-        "inability to read her"
-      ]
-    }
-  ],
+  "behavioral_states": [],
   "temporal_states": [],
-  "relationships": [
-    {
-      "to": "Former girlfriend (lived an hour away, weekends only)",
-      "relationship": "ex_romantic_partner",
-      "negated": false,
-      "properties": {
-        "set_piece": "Years ago she asked 'What do you think of me transferring here?' (coded: 'I want to be near you, do you want that too'); he answered the literal fact and never decoded the proxy",
-        "narrative_use": "His own-voice tell of the coded-channel blindness, never explained by narration"
-      }
-    },
-    {
-      "to": "Vee",
-      "relationship": "romantic_partner",
-      "negated": false,
-      "properties": {
-        "dynamic": "Symmetrical proxy tragedy: both route the unsayable through proxies \u2014 she encodes bids for closeness, he encodes love as provision. She can hear a proxy when looking for one; he hears the surface perfectly and never registers the cipher. She keeps sending, he keeps answering the surface.",
-        "vee_proxy_bids": [
-          "the transfer question",
-          "'we never go out'",
-          "the peaches refusal"
-        ],
-        "her_effect_on_him": "Being with her keeps his instrument aimed \u2014 keeps him on, alert, reading \u2014 but it is manual and lapses",
-        "experienced_outcome": "She experiences a man who doesn't feel what she feels, while he floods her through a channel she wasn't taught to read as love"
-      }
-    }
-  ],
+  "relationships": [],
   "negations": [
     {
       "claim": "He is generally socially blind / obtuse",

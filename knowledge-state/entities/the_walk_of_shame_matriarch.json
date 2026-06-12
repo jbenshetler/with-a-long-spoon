@@ -34,54 +34,9 @@
       "value": "the Walk of Shame"
     }
   ],
-  "behavioral_states": [
-    {
-      "state_name": "settled interrogation",
-      "trigger": "the morning-after gauntlet (Randi's walk of shame)",
-      "response": "conducts a four-minute mostly-smiling interrogation, warm on the surface and coded underneath, that costs Randi the frame she's used to owning",
-      "observable": "smiling, warm tone, never raising the temperature; coded probing questions (Pace/Chase filing, gray-pickup flattery via Sloane and Kinsey, does-he-teach-your-section near-miss)",
-      "distinguish_from": [
-        "aggression",
-        "raising the temperature",
-        "overt confrontation"
-      ]
-    }
-  ],
+  "behavioral_states": [],
   "temporal_states": [],
-  "relationships": [
-    {
-      "to": "Sloane",
-      "relationship": "routes flattery through",
-      "negated": false,
-      "properties": {
-        "detail": "gray-pickup flattery routed through Sloane during the interrogation"
-      }
-    },
-    {
-      "to": "Kinsey",
-      "relationship": "routes flattery through",
-      "negated": false,
-      "properties": {
-        "detail": "gray-pickup flattery routed through Kinsey during the interrogation"
-      }
-    },
-    {
-      "to": "the sorority",
-      "relationship": "member of",
-      "negated": false,
-      "properties": {
-        "detail": "the one person in the sorority who out-operates Randi"
-      }
-    },
-    {
-      "to": "Vee",
-      "relationship": "outranks in house hierarchy",
-      "negated": false,
-      "properties": {
-        "detail": "She outranks Randi; Randi sits on the board as Standards; the one fact Randi's self-arrangement can't rearrange; she out-operates Randi"
-      }
-    }
-  ],
+  "relationships": [],
   "negations": [
     {
       "claim": "Her authority is aggressive / she raises the temperature",
