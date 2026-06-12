@@ -86,10 +86,6 @@ Vee in bed daydreaming about the fitting. Texts Randi. Randi: *"Girl, we have go
 *~Sun Oct 6* · Partial draft · `brunch-fitting-randi.md` · [detail](meta-condensed-brunch-fitting-randi.md)
 First off-campus brunch — format upgraded (velvet alcove, Rombauer by name). Apparatus switches on. Two firsts: the first goodbye-kiss debut; the first ignition of Randi's jealousy via the water-glass tell on *"he looked at me and I was fine."* ← **jealousy ignites here.** Revision flag: *"I have known you a week"* (line 51) is now wrong — ~4 weeks elapsed (Sep 7 → Oct 6); revise.
 
-### [VIGNETTE] Randi Takes the Scrunchies (Grain #1)
-*~TBD · must be after Vee has established a regular overnight habit* · Unwritten · [detail](meta-condensed-randi-takes-scrunchies.md)
-Randi goes to Pace's, has sex, takes ~6 scrunchies from the bathroom drawer form (~38 → ~32). Grain #1. Coldest object-beat: intimacy with Pace as occasion for removing tokens of his care for Vee. Placement note: Vee must have been staying over regularly enough to have built a scrunchie deposit and to know the drawer — cannot be placed before that habit is established.
-
 ### [VIGNETTE] Randi — Social Price #1
 *~mid-October* · Unwritten · Randi/sorority
 Chapter meeting, or Brooke again, or a sister's offhand comment — the social tax of Randi's choices made legible. She's missing events, losing standing, choosing the plan over the frame she used to own. She absorbs it without flinching. The plan is worth it; she's still in control. First visible depletion of the social capital she's been spending.
@@ -107,12 +103,12 @@ Vee tries to tell Cassie and can't. Shame meets the wrong-shaped listener; Cassi
 Vee arrives carrying the floozie-shame she couldn't give Cassie. Randi catches the flush at maximum exposure and converts it to pride/aliveness — genuine kindness that is also the threesome on-ramp. Post-Fitting/post-jealousy: deliberate operation, so no tell. First read: the glamorous friend talked me out of my shame. *Them-not-you* seed and bathroom-trip beat migrate here.
 
 ### [SCENE] Dress Pickup
-*~Wed Oct 16 · mid-week* · Unwritten · [detail](meta-condensed-dress-pickup.md)
-Vee picks up the dress, is thrilled, initiates sex joyfully. Afterward at the bathroom drawer: the form lower than her own use explains. Formless unease — still depletion (plausible), can't be sure. Beat: Pace has given Vee a mid-week slot — first encroachment on territory that was Randi's.
+*~Wed Oct 16 · mid-week* · Fragments drafted (`meta-notes-dress-pickup.md`) · [detail](meta-condensed-dress-pickup.md)
+Lean scene, quick build to quick release — the bridge is crossed (First Night), so the heat is joyful and frictionless by design (vary heat by *kind*). Hanging dress → mirror (*who wears that* against wanting it so much her chest hurts; the woman in the glass "getting away with something") → she walks out to him in it and **initiates** — her first initiation; he proceeds, tender. Fresh shame occasion: not her body's involuntary tells but her own deliberate act. **Ends on the unshadowed high.** Pace has given Vee a mid-week slot — first encroachment on territory that was Randi's. Open staging choice: where she meets the dress alone (his house, him elsewhere for her privacy — the hiking-rainstorm rhyme — vs. her own room); the drafted fragments work either way.
 
 ### [SCENE] Vee Shows Cassie the Dress
 *~Wed Oct 16 · same day as Dress Pickup* · Unwritten · [detail](meta-condensed-vee-shows-cassie-dress.md)
-Mostly pure delight with the faintest shadow the reader feels and Vee doesn't. Contrast with the showing-to-Randi register at Shoe Shopping.
+Pure delight, nothing underneath. The expansive, social, warm scene of the dress cluster — the pickup stays lean and private; this one spends the emotion. Unbroken Cassie warmth across the pair (Vee Tells Cassie About the Fitting ↔ this), which makes the later cooling-off land harder. Contrast with the showing-to-Randi register at Shoe Shopping.
 
 ### [VIGNETTE] Sheri — First Ride
 *~Sat Oct 19 · morning* · Unwritten · Pace/Sheri
@@ -143,13 +139,9 @@ Vee arrives Saturday evening to apologize for the jealousy at the dance — the 
 *~early November · within a few days of the First Swat* · Unwritten · SATC · music practice room · [detail](meta-condensed-first-swat-debrief.md)
 First SATC scene with genuinely transgressive shame content. Container: soundproof music practice room — not the velvet booth. "Your turn" — the taking-turns ritual is already running; Randi moves directly to extraction. Vee's surface version (*ha ha, he swatted my butt*) peeled back to the real thing: the look, the immediate wanting, the charge that fired. Shame circuit fires in the retelling. Then — after the extraction, not before — Randi's spanking story as amplifier and installer (*"If you think a swat is good, a spanking is better"*): theatrical, explicit, porn-generic register, NOT Pace-fingerprint. Vee excuses herself to the bathroom; reason is specific — wetness, physical evidence her body produced without permission. Tempted to masturbate; doesn't. **First bathroom trip; quick suppression.** Randi clocks when she left. On return: *"I hope everything is alright."* — arch, deniable, devastating close. Pays off: the First Swat's look and unnamed wanting. Plants: Randi has now extracted the swat's effect, installed the escalation, witnessed physical arousal in retelling, filed the timing, and named it deniably — everything *"Are your fingers sticky?"* collects on at the Proof Scene debrief.
 
-### [VIGNETTE] The Shirt — Re-Scenting
-*~early November · after the make-up · Unwritten · Pace/Vee · ~1 page*
-Vee comes by his house and hands him back his shirt. He's puzzled — she'd folded her panties into his hand and said *"Trade,"* and the shirt has been hers since. She isn't undoing the trade. *It's still mine*, she tells him; she needs him to wear it a while and give it back — she'd finally had to wash it, his smell gone stale and then gone, nothing of him left in it. The small abject admission of how much she sleeps in him, said out loud, not quite meeting his eye. He takes it the way he takes such things — without making her explain twice. Pays off: the washed-out shirt at the close of the CW Dance (where the lost smell surfaces); the first-night trade. Reinforces the shirt motif and the proprietary-domestic intimacy.
-
-### [VIGNETTE] The New Ordinary
-*~early November · first weeks after the First Swat* · Unwritten · Pace/Vee
-The relationship settles into a rhythm — regular overnight stays, the domestic ease of a Sunday morning that has become expected. The proprietary feeling Vee mentioned to Cassie now has a house. Marks the window in which her regular overnight habit is established.
+### [VIGNETTE] The Shirt — Re-Scenting (The New Ordinary)
+*~early November · a Sunday morning in the first weeks after the First Swat* · Unwritten · Pace/Vee · 1–2 pages · [detail](meta-condensed-the-new-ordinary.md)
+The shirt exchange staged inside the ordinary it marks. Sunday morning of an overnight — the domestic ease that has become expected; the proprietary feeling Vee mentioned to Cassie now has a house. As she's leaving she hands him back his shirt. He's puzzled — she'd folded her panties into his hand and said *"Trade,"* and the shirt has been hers since. She isn't undoing the trade. *It's still mine*, she tells him; she needs him to wear it a while and give it back — she'd finally had to wash it, his smell gone stale and then gone, nothing of him left in it. The small abject admission of how much she sleeps in him, said out loud, not quite meeting his eye. He takes it the way he takes such things — without making her explain twice. The reader feels the geometry without it being named: weekends his, weeknights hers, the shirt bridging the nights apart. Carries the form-plant: hair up at his sink, a scrunchie off the cardboard form, a returned one dropped loose in the drawer — unweaponized provision, shown once, no flag (the never-rethread habit installs for the reader here; see the mirror-time thread). Pays off: the washed-out shirt at the close of the CW Dance; the first-night trade. Marks the window in which the regular overnight habit is established.
 
 ### [SCENE] Cassie & Vee — Cooling-Off
 *~early to mid November* · Unwritten · Cassandra track · [detail](meta-condensed-cassie-cooling-off.md)
@@ -200,12 +192,12 @@ Vee alone, tossing and turning in his shirt. The shapelessness of what they are 
 Vee brings her mother's Thanksgiving question to Pace — the one she couldn't answer then and can't answer now: what are you to me? She conflates monogamy and *I love you.* *"Do any of your friends have a relationship you'd rather have?"* — genuine within his grammar, insufficient within hers. Reunion without naming it. Third beat in the arc.
 
 ### [SCENE] The Flat Date
-*~during Christmas break* · Unwritten · [detail](meta-condensed-the-flat-date.md)
-The conventionally proper man, the fine dinner, the fine sex, the *nothing* it produces. Randi in the bathroom mirror with the outline lipstick still nearly perfect, registering the comparison. The choice enacted by the return to the bed. The chosen-not-to-throttle moment.
+*~during Christmas break* · Unwritten · **Randi's POV — mirror aperture, load-bearing** · [detail](meta-condensed-the-flat-date.md)
+The conventionally proper man, the fine dinner, the fine sex, the *nothing* it produces. Randi in the bathroom mirror with the outline lipstick still nearly perfect, registering the comparison. The choice enacted by the return to the bed. The chosen-not-to-throttle moment. Rendered from inside her under the containers rule (flag 15): second opening of the mirror aperture, rhyming with the Bench mirror — installation → confirmation. Placed in the break: same week as Vee — Christmas, the two women flat without him in parallel, neither aware of the mirror. Structural hinge: every scrunchie grain lands after this scene — the reader enters the spring holding the nothing and the hate that is at least warm, so what follows reads as a starving apparatus leaking, not malice.
 
 ### [VIGNETTE] Vee — Christmas
 *~late December · Christmas break* · Unwritten · Vee solo
-Listless and flat at home without Pace, without Randi. The absence of both in the same week is information she doesn't fully process. Her mother's world — the questions, the ordinary furniture of home — sits beside her strangely. She is somewhere else without knowing she's left.
+Listless and flat at home without Pace, without Randi. The absence of both in the same week is information she doesn't fully process. Her mother's world — the questions, the ordinary furniture of home — sits beside her strangely. She is somewhere else without knowing she's left. Same week as the Flat Date: the two women flat in parallel; neither scene marks the other.
 
 ### [SCENE] First Weekend Back
 *~Fri Jan 19 · first weekend of spring semester* · Unwritten · [detail](meta-condensed-first-weekend-back.md)
@@ -225,19 +217,27 @@ She balks at the lifts (*too heavy*); he offers and waits at the consent line. A
 
 ### [SCENE] Vee Tells Randi About the Dance (The Jar)
 *~within a few days of the Jitterbug* · Unwritten · SATC · [detail](meta-condensed-vee-tells-randi-dance.md)
-The dance as the funny story. Then the jar — what his invisible chosen gentleness did to her. Voice changes mid-telling. Randi files the cruelest datum: tenderness/restraint is the load-bearing wall of what Vee feels.
+The dance as the funny story. Then the jar — what his invisible chosen gentleness did to her. Voice changes mid-telling. Randi files the cruelest datum: tenderness/restraint is the load-bearing wall of what Vee feels. Off-page consequence (never marked in text): this is the witnessed-aliveness scene that detonates the drawer's first visit — Flat Date (no substitute exists) → the Jar (Vee has exactly the thing, and it's the tenderness) → the taking, on a weekday in the following weeks. The fuse is visible only on reread.
 
 ### [SCENE] Bondage
 *~February* · Unwritten · [detail](meta-condensed-bondage.md)
 Restraint removes the question of her hands — a gift for involuntary-response shame. Told to Randi (SATC); voice changes; *"Comfortable?"*
 
-### [VIGNETTE] Grain #2 — Randi Wears the Scrunchies
-*~ongoing from February onward · recurring* · Unwritten · [detail](meta-condensed-grain-2-scrunchies.md)
-Randi wears the taken scrunchies around Vee — a kind unlike Randi's usual. Sub-threshold flicker each time, killed on contact. Coldest object-beat: stolen tokens of Pace's care worn to Vee's face across months.
-
 ### [VIGNETTE] Randi — Spring Inversion
-*~mid-to-late February* · Unwritten · Randi/sorority
-The sisters haven't noticed anything — she's been careful, keeping her Pace time to weekdays and coming back to the house each night to make morning class. The plan costs her nothing visible. What it costs is the weekends: Vee gets those. Randi gets the weekday scraps and has engineered this herself, for a girl she's certain she outranks. The invisibility of the sacrifice is the thing that burns — no one to argue with, no credit to claim, just the arithmetic she can't say aloud.
+*~mid-February · MUST precede the drawer's first visit (sequencing constraint)* · Unwritten · **Randi's POV — room aperture** · Randi/sorority
+The sisters haven't noticed anything — she's been careful, keeping her Pace time to weekdays and coming back to the house each night to make morning class. The plan costs her nothing visible. What it costs is the weekends: Vee gets those. Randi gets the weekday scraps and has engineered this herself, for a girl she's certain she outranks. The invisibility of the sacrifice is the thing that burns — no one to argue with, no credit to claim, just the arithmetic she can't say aloud. Rendered alone in her single room under the containers rule (flag 15): second opening of the room aperture, rhyming with the walk-of-shame — the managed life rendered → the managed life's invisible cost. Placement is load-bearing: this is the reader's last interior access before the campaign opens; the burn is shown, then the hand moves off-page. On reread the vignette is the visible fuse.
+
+### [EVENT] The Drawer — First Visit (off-page, never rendered)
+*~mid-to-late February · a weekday afternoon* · NOT A SCENE · [detail](meta-condensed-randi-takes-scrunchies.md)
+Randi takes ~6 scrunchies from the form (~38 → ~32) during one of her weekday visits. **Never staged, never marked, in no character's POV** — it lives in the seams of Pace's attention, inside or between written scenes. Do not plant a deniable "she excused herself" beat anywhere; the strongest version marks nothing — weekday access alone is the opportunity. Motive chain (reread-only): Flat Date → the Jar → the taking — the plan escaping her, not strategy. Preconditions already on the page: the overnight habit and the form (Re-Scenting, early Nov); Spring Inversion (the burn).
+
+### [VIGNETTE] Grain #1 — The First Flicker
+*~late February · an overnight at Pace's* · Unwritten · Vee POV · mirror-time
+Vee at the drawer mid-ritual: is the form lower than it should be? A steeper drop than her own use explains — but down is the plausible direction, so it's unconfirmable, unsayable. The question arrives mixed into the post-Christmas-Fight stream (what am I to him, why won't he say it) so it reads as one more symptom of wanting definiteness from a man who doesn't issue it. Both readings stay open — anxious attachment or accurate instrument; the reader is given no more certainty than Vee has. Puts her half-consciously on watch.
+
+### [VIGNETTE] Grain #2 — Worn in Plain Sight
+*~ongoing from March onward · recurring* · Unwritten · [detail](meta-condensed-grain-2-scrunchies.md)
+Randi wears Vee's scrunchies around Vee — and Vee is **thrilled**: the glamour queen is mimicking *her* style. The evidence lives in the open, filed under flattery — the loving-Randi cover, twin to grain #3's loving-Pace cover; every corrupted datum in the campaign gets explained by love. First instance spoken — Vee delighted (*"did I actually convert you?"*), Randi's double-register reply (*"You've ruined me. I used to have standards."*); recurrences unremarked, set dressing only. Late variation, post-Restoration: one sighting where the delight takes a half-second longer to arrive — the only trace her instrument is still running underneath. The reader, carrying the First Flicker, gets the jolt (*wait — are those—?*) while Vee beams; unprovable either way. The only mutuality Vee ever perceives in the friendship — at last something flows from her to Randi — and it's the theft.
 
 ### [SCENE] The B&B Weekend (The Pivot / Last Domino)
 *~late February or early March* · Unwritten · [detail](meta-condensed-bb-weekend.md)
@@ -261,7 +261,7 @@ Cassie tries to reconnect; Vee shows up half-present. Cassie says the thing — 
 
 ### [VIGNETTE] Grain #3 — The Restoration (The Loud One)
 *~April · slot TBD, deeper in* · Unwritten · [detail](meta-condensed-grain-3-restoration.md)
-Randi returns ~4 scrunchies (form 20 → 24) — form goes *up*, violating Vee's habit-rule. Unmissable. The cover Vee reaches for: *"Pace must have refilled them."* Gaslights inward; trains Vee to override her own correct reading.
+Randi returns ~4 scrunchies (form 20 → 24) — form goes *up*, violating Vee's habit-rule. Unmissable. The cover Vee reaches for: *"Pace must have refilled them."* Gaslights inward; trains Vee to override her own correct reading. The return itself is off-page and unmarked, like the first visit; Vee's catch is the rendered beat (mirror-time). The reader does the same arithmetic Vee does, with the same data.
 
 ### [VIGNETTE] Ordinary Hang
 *~April* · Unwritten · Randi/Vee · non-structured
@@ -297,7 +297,8 @@ Vee leaves with full knowledge, full anger, full ownership. Pace reads the wrong
 
 - **The goodbye-kiss physical staircase** — climbing across the back half, still climbing at the end.
 - **The bathroom-trip progression** — suppression → lingering → first masturbation (capitulation) → second time (a decision) → late interior.
-- **The scrunchie grains** — grain #1 (Randi Takes the Scrunchies), grain #2 (recurring), grain #3 (The Restoration).
+- **The scrunchie grains (reader-ambiguous by design).** The taking is never rendered; the grains are Vee-side perceptual events only: grain #1 (The First Flicker, late Feb), grain #2 (Worn in Plain Sight, March onward), grain #3 (The Restoration, April). The reader holds means and motive, never the act — *is Vee being paranoid?* is the design. All grains land post-Christmas; the fall stays warm.
+- **Vee's mirror-time ritual (fall install → spring corruption).** Recurring beats of Vee at Pace's bathroom sink: washing her face, hair up, a scrunchie off the form, returns dropped loose (never re-threaded). Installed 3–4 times across the fall as pure domestic warmth, each occurrence doing other scene-local work — candidates: First Night's morning; the First Swat's Sunday morning; Re-Scenting (the form-plant proper); His Shirt — Pre-Dawn or First Weekend Back. By January the reader knows the drawer the way she does. In spring the same container holds the accumulating doubt — the definiteness questions left open by the Christmas Fight and the drawer arithmetic in one stream, so the gaslight lands inside her most settled habitat. Never flagged, never explained.
 - **Vee's desire for Randi** — tracked as the *failure* of the writing-off; never resolves before the reveal.
 - **The sorority social-penalty convergence** — from the walk-of-shame gauntlet tightening toward house consensus across the Early phase.
 - **Sheri bike rides; Cassie's quiet vindications; the statistics mirrors; the ex surfacing.**
@@ -310,15 +311,15 @@ Vee leaves with full knowledge, full anger, full ownership. Pace reads the wrong
 
 1. **The Fitting's "third stay" vs. the First Swat's "first visit after their first sex."** The Fitting precedes the First Swat, but the Fitting is written as her "third stay" while the First Swat is her first post-sex house visit. Recommend: treat the Fitting as a daytime *visit*, not an overnight *stay* (supported by the deferment — she doesn't stay the night) — change "third stay" in the draft to "third time at the house."
 
-2. **The try-on resolution** needs a slot — after the dress is finished, before or around the induction. Currently folded into Dress Pickup. Keep it tender, no spanking.
+2. **The try-on resolution — RESOLVED.** Folded into Dress Pickup: she initiates, he proceeds, tender. The First Swat remains the first edged beat.
 
-3. **Scrunchie grain placements.** Grain #1 at Randi Takes the Scrunchies; first registers at Dress Pickup. Still open: (a) where grain #2 begins and how often it recurs across the Late phase; (b) the exact slot for grain #3 — keep it deeper in when stakes/trust are higher. Confirm Vee lands on *"Pace refilled them"* so grain #3 gaslights inward rather than implicating outward.
+3. **Scrunchie grain placements — SETTLED.** All grains land post-Christmas, in the new semester; the fall stays warm and the dress cluster is unshadowed. The taking is **never rendered** (see the [EVENT] entry in Late); Spring Inversion must precede it; the Jar is its off-page trigger. Grain #1 = Vee's First Flicker (late Feb, mirror-time); grain #2 = Worn in Plain Sight (March onward — Vee *delighted*, the mimicry misreading); grain #3 = The Restoration (April; the return off-page like the first visit). Confirm Vee lands on *"Pace must have refilled them"* so grain #3 gaslights inward rather than implicating outward. Open: whether the reveal carries a single confirming image (her scrunchie on Randi at full light — recommended) or the thread stays permanently undecidable; decide in `meta-condensed-threesome-reveal.md`.
 
 4. **No-tag shirt — RESOLVED.** Folds into the Hiking Rainstorm; detonates at the Fitting.
 
 5. **Cassie's warnings — RESOLVED (line revised).** Two distinct observations: (a) Chi Latte diptych, *"Goodbye, Vee"* — about Randi; (b) Meet-Cute, the **no-attraction observation** — *"He looked at her the way you'd look at somebody's great-aunt"* — Cassie clocking that Pace showed Randi none of the attraction a man shows a beautiful woman. **NOT "he looked at her like she was a chair" (revised out — Pace does not dehumanize; he sees everyone fully and wants only Vee).** This is the not-a-prospect look (full personhood, no desire), which Vee privately recognizes as the look men give Cassie. It functions as an *anomaly* (a man unmoved by the most-looked-at woman present) attaching to the staging/Randi, not as a character-warning about Pace; and it preserves the reader's open question — flawless discipline running the concealment, or genuine only-eyes-for-Vee. Goodbye-kiss staircase: hug at Chi Latte (rung zero); first kiss at SATC Brunch — Fitting Debrief. Pace track first kiss: Walk-Home Kiss. Two distinct staircases.
 
-6. **Flat Date placement.** During Christmas break. Must fall after SATC track at full intensity and before threesome is scheduled.
+6. **Flat Date placement — RESOLVED.** During Christmas break: same week as Vee — Christmas, both women flat without him, neither aware of the mirror. Must fall after SATC track at full intensity and before the threesome is scheduled. Rendered in Randi's POV — mirror aperture, load-bearing (flag 15).
 
 7. **Christmas Fight vs. Porch Scene order.** Current: Porch Scene (~early December) → Christmas Fight (~Dec 1–2). Porch Scene is a load-bearing grain *for* the Christmas Fight; must precede it. Check dates — fight may need to move slightly later (mid-December).
 
@@ -337,3 +338,7 @@ Vee leaves with full knowledge, full anger, full ownership. Pace reads the wrong
 13. **The two SATC tells stay surgically distinct.** Coffee-cup-handle-quarter-turn = bottom-position / hierarchy-inversion (fires when something is done *to* Randi she can't control). Water-glass-edge-worked = envy-of-capacity (fires on Vee seen-and-accepting-it). The Smoothie Shop and First-Night Debrief fire neither — Randi is operating in both. Reserve any convergence of the two tells for a single late detonation (candidate: the threesome).
 
 14. **CW-Dance Debrief venue — TBD.** Deliberately NOT the velvet brunch (TBD: car / walk / Randi's single). Decide when drafting.
+
+15. **Randi POV — the containers rule (canonical; full version in the Bible).** Randi's interior opens only when she is **alone**, only in two containers — **the mirror** and **her single room** — and never in the presence of another character (the double register depends on it). Four apertures, two per container, each pair installation → consequence: Bench mirror → Flat Date mirror (wound installed → wound confirmed); walk-of-shame room → Spring Inversion room (the managed life → its invisible cost). Deliberate unexplained rhyme: Vee's mirrors fill; Randi's empty. Open: whether the ending sequence earns a final aperture. Corollary: Pace's bathroom/drawer is on-camera **only in Vee's POV**; Randi–Pace house scenes continue freely in Pace's POV (the Scalding model — the camera honestly inherits his blindness); no staged "opportunity" beats anywhere.
+
+16. **Spring is underplanned for its new load.** Two tracks need a planning block: (a) spring SATC — goodbye-kiss staircase steps, grain #2 interleaving, brunches at maximum charm precisely while the reader is primed, April–May thin; revisit `meta-plan-satc-tracks.md`. (b) Spring Randi–Pace — between Spring Inversion and Scalding their evolving dynamic is nearly blank on-page (time-negotiations, the management fraying, ignition-1 preconditions accumulating); all Pace POV, first-read warm/wicked per the Scalding pattern.
