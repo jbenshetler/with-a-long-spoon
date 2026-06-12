@@ -24,49 +24,7 @@
   ],
   "behavioral_states": [],
   "temporal_states": [],
-  "relationships": [
-    {
-      "to": "meta-arch-cassie.md",
-      "relationship": "references",
-      "negated": false,
-      "properties": {
-        "description": "Cassie's full constitution (Cassandra device, knower discipline, quotes in scene-context)"
-      }
-    },
-    {
-      "to": "meta-arch-randi.md",
-      "relationship": "references",
-      "negated": false,
-      "properties": {
-        "description": "Randi's method (warmth-as-instrument); the Cassie\u2013Randi dynamic is an instance of it"
-      }
-    },
-    {
-      "to": "meta-plan-satc-tracks.md",
-      "relationship": "references",
-      "negated": false,
-      "properties": {
-        "description": "the Vee-confidante-sort",
-        "distinction": "DISTINCT mechanism (Vee routing material), explicitly not the Cassie\u2013Randi relationship"
-      }
-    },
-    {
-      "to": "together-in-class.md",
-      "relationship": "references",
-      "negated": false,
-      "properties": {
-        "description": "drafted scene where the quotes and coffee-shop example live"
-      }
-    },
-    {
-      "to": "the-meet-cute.md",
-      "relationship": "references",
-      "negated": false,
-      "properties": {
-        "description": "drafted scene where the quotes and coffee-shop example live"
-      }
-    }
-  ],
+  "relationships": [],
   "negations": [
     {
       "claim": "The Cassie\u2013Randi relationship is the same mechanism as the Vee-confidante-sort",
