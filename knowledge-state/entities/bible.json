@@ -1618,39 +1618,39 @@
       "event_resolved": true
     },
     {
-      "attribute": "understanding of grace-reflex",
-      "value": "Learns the grace-reflex was a vulnerability",
-      "after_event": "Part of her arc",
-      "before_event": "Earlier, treated grace-reflex as unexamined virtue",
-      "event_resolved": false
-    },
-    {
-      "attribute": "reckoning_with_consent_blind_spot",
-      "value": "Comes to see that one can violate someone by deceiving them into consent, not only by force",
-      "after_event": "His reckoning that finally sees the hole in his consent architecture",
+      "attribute": "Vee's perception of his retreat",
+      "value": "Vee recognizes the formal retreat as retreat, which makes it worse",
+      "after_event": "Later in the story (after initial occurrences of the stress tell)",
       "before_event": null,
-      "event_resolved": false
-    },
-    {
-      "attribute": "Vee's_perception_of_his_cycling",
-      "value": "If Vee learns the bike's origin, his cycling should land on her differently",
-      "after_event": "Vee learning the origin of why he cycles",
-      "before_event": null,
-      "event_resolved": false
+      "event_resolved": true
     },
     {
       "attribute": "vow status",
       "value": "Vow breaks in reckoning, not romance; he must look directly at the benefactor story and the hole in his architecture",
       "after_event": "The reckoning where the vow breaks (catalyst still open \u2014 see threesome doc)",
       "before_event": null,
-      "event_resolved": false
+      "event_resolved": true
     },
     {
-      "attribute": "Vee's perception of his retreat",
-      "value": "Vee recognizes the formal retreat as retreat, which makes it worse",
-      "after_event": "Later in the story (after initial occurrences of the stress tell)",
+      "attribute": "Vee's_perception_of_his_cycling",
+      "value": "If Vee learns the bike's origin, his cycling should land on her differently",
+      "after_event": "Vee learning the origin of why he cycles",
       "before_event": null,
-      "event_resolved": false
+      "event_resolved": true
+    },
+    {
+      "attribute": "reckoning_with_consent_blind_spot",
+      "value": "Comes to see that one can violate someone by deceiving them into consent, not only by force",
+      "after_event": "His reckoning that finally sees the hole in his consent architecture",
+      "before_event": null,
+      "event_resolved": true
+    },
+    {
+      "attribute": "understanding of grace-reflex",
+      "value": "Learns the grace-reflex was a vulnerability",
+      "after_event": "Part of her arc",
+      "before_event": "Earlier, treated grace-reflex as unexamined virtue",
+      "event_resolved": true
     },
     {
       "attribute": "owns_overnight_bag",
@@ -1667,20 +1667,6 @@
       "event_resolved": true
     },
     {
-      "attribute": "pearls_in_overnight_bag_for_last_trip",
-      "value": "Whether the pearls are in the bag for the last trip",
-      "after_event": "The last trip (a live, undecided decision)",
-      "before_event": null,
-      "event_resolved": false
-    },
-    {
-      "attribute": "pearls_absence_becomes_legible",
-      "value": "The pearls' absence becomes legible later because she normally wears them casually most days",
-      "after_event": "A later reveal in the story",
-      "before_event": null,
-      "event_resolved": false
-    },
-    {
       "attribute": "first one-on-one coffee with Randi \u2014 venue and timing",
       "value": "moved to Chi Latte, same day as the class (not a generic coffee/smoothie spot, week of Sep 11)",
       "after_event": "revision moving the venue to Chi Latte and timing earlier (same day as class)",
@@ -1693,13 +1679,6 @@
       "after_event": "the morning after the first night at Pace's",
       "before_event": null,
       "event_resolved": true
-    },
-    {
-      "attribute": "the_vow_of_silence",
-      "value": "Breaks his silence and names his own interior \u2014 the only growth available to him, costing everything",
-      "after_event": "The reckoning (breaks alongside the consent vow); if he says it, it is after she's gone, to no one",
-      "before_event": null,
-      "event_resolved": false
     },
     {
       "attribute": "first_love_silence",
@@ -1737,6 +1716,27 @@
       "event_resolved": true
     },
     {
+      "attribute": "the_vow_of_silence",
+      "value": "Breaks his silence and names his own interior \u2014 the only growth available to him, costing everything",
+      "after_event": "The reckoning (breaks alongside the consent vow); if he says it, it is after she's gone, to no one",
+      "before_event": null,
+      "event_resolved": true
+    },
+    {
+      "attribute": "pearls_absence_becomes_legible",
+      "value": "The pearls' absence becomes legible later because she normally wears them casually most days",
+      "after_event": "A later reveal in the story",
+      "before_event": null,
+      "event_resolved": true
+    },
+    {
+      "attribute": "pearls_in_overnight_bag_for_last_trip",
+      "value": "Whether the pearls are in the bag for the last trip",
+      "after_event": "The last trip (a live, undecided decision)",
+      "before_event": null,
+      "event_resolved": true
+    },
+    {
       "attribute": "the habit",
       "value": "Choice deployed at first-love loss (not-looking adaptation chosen given parents' materials), then compounded across subsequent relationships into a habit that feels structural",
       "after_event": "First-love loss",
@@ -1749,13 +1749,6 @@
       "after_event": "Age eleven, father dragged him behind car",
       "before_event": null,
       "event_resolved": true
-    },
-    {
-      "attribute": "potential revision of the habit",
-      "value": "Could revise but does not; recognition that he is choosing is what the apparatus prevents; reachable only through dismantling work down to the parents \u2014 work the catastrophe does not produce",
-      "after_event": "Dismantling work all the way down to the parents (not produced by the catastrophe)",
-      "before_event": null,
-      "event_resolved": false
     },
     {
       "attribute": "attention/reading state when with Vee",
@@ -1796,6 +1789,13 @@
       "attribute": "described comparison (B&B/she)",
       "value": "Like a white wine \u2014 copious and thinner",
       "after_event": "orgasm",
+      "before_event": null,
+      "event_resolved": true
+    },
+    {
+      "attribute": "potential revision of the habit",
+      "value": "Could revise but does not; recognition that he is choosing is what the apparatus prevents; reachable only through dismantling work down to the parents \u2014 work the catastrophe does not produce",
+      "after_event": "Dismantling work all the way down to the parents (not produced by the catastrophe)",
       "before_event": null,
       "event_resolved": true
     },

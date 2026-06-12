@@ -1,5 +1,35 @@
 [
   {
+    "character_name": "Vee",
+    "fact": "She does not want to explain her situation with the man to Cassie (or her mother), not merely that it is hard to explain",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee arrives at this herself via Cassie's question; she registers it as 'information' \u2014 the difficulty is partly unwillingness, not only complexity",
+    "scene_file": "scenes/back-from-thanksgiving.md",
+    "chapter_number": 0
+  },
+  {
+    "character_name": "Vee",
+    "fact": "She lacks the right language or framing to describe what the man is to her, or who she is in relation to him",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Explicitly rendered as absence: 'not the right word for what he was, not the right story for how it had gone, not the version of herself that stood up cleanly in the telling'",
+    "scene_file": "scenes/back-from-thanksgiving.md",
+    "chapter_number": 0
+  },
+  {
+    "character_name": "Cassie",
+    "fact": "Vee does not want to talk further about the situation right now",
+    "source_character": "Vee",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Cassie demonstrates she understands this by dropping the subject; the narration confirms she 'had a particular gift for knowing when a door was closed'",
+    "scene_file": "scenes/back-from-thanksgiving.md",
+    "chapter_number": 0
+  },
+  {
     "character_name": "Pace",
     "fact": "Vivienne called him back into the cab and deliberately unbuttoned her shirt in front of him",
     "source_character": null,

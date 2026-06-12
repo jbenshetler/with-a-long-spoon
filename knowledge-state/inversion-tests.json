@@ -1,5 +1,13 @@
 [
   {
+    "question": "What is Cassie's behavioral pattern when someone closes down a conversation?",
+    "expected_answer": "Cassie nodded and picked up the sweater again. She had a particular gift for knowing when a door was closed.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": null,
+    "source_scene": "scenes/back-from-thanksgiving.md"
+  },
+  {
     "question": "What is the organizing principle of Randi's wardrobe, and what does it reveal about her aesthetic sensibility?",
     "expected_answer": "Randi's closet is arranged in a disciplined neutral palette running bone to camel to oatmeal, with a single oxblood piece as a controlled accent \u2014 reflecting a precise, restrained aesthetic where every item earns its place.",
     "entity_name": "Vee",
@@ -14,6 +22,22 @@
     "stale": true,
     "last_result": "PASS",
     "source_scene": "/home/jeff/clients/with-a-long-spoon/scenes/vee-tells-cassie-dinner.md"
+  },
+  {
+    "question": "What is Vee's physical tell when she is deflecting or avoiding?",
+    "expected_answer": "Vee looked at her coat zipper. The pull tab was a small silver rectangle.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": null,
+    "source_scene": "scenes/back-from-thanksgiving.md"
+  },
+  {
+    "question": "What is the nature of Vee and Cassie's relationship?",
+    "expected_answer": "the particular ease of people who've shared a wall for two years",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": null,
+    "source_scene": "scenes/back-from-thanksgiving.md"
   },
   {
     "question": "What is the established relationship dynamic between Vee and her mother?",
@@ -80,6 +104,14 @@
     "source_scene": "/home/jeff/clients/with-a-long-spoon/scenes/together-in-class.md"
   },
   {
+    "question": "What is Vee's behavioral pattern when asked about her romantic life?",
+    "expected_answer": "She had been waiting for this. She'd thought about it on the bus, the three-hour dark ride back through the mountains, and she still didn't have a good answer.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": null,
+    "source_scene": "scenes/back-from-thanksgiving.md"
+  },
+  {
     "question": "What physical object belonging to Pace does Vee keep on her pillow and sleep in?",
     "expected_answer": "A flannel shirt made by Pace, which has no tag, no brand, and no size label.",
     "entity_name": "Vee",
@@ -94,6 +126,14 @@
     "stale": true,
     "last_result": null,
     "source_scene": "/home/jeff/clients/with-a-long-spoon/scenes/vee-tells-cassie-fitting.md"
+  },
+  {
+    "question": "What is Vee's habit regarding outerwear when she returns somewhere?",
+    "expected_answer": "Vee dropped her bag by the door and took the armchair. Her coat was still on.",
+    "entity_name": "Vee",
+    "stale": false,
+    "last_result": null,
+    "source_scene": "scenes/back-from-thanksgiving.md"
   },
   {
     "question": "What is Vee's habitual coping mechanism when she feels economic anxiety or class-related discomfort?",
