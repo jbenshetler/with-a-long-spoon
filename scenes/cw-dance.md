@@ -203,26 +203,30 @@ She moved off down the bar. The lights came up the rest of the way, and Vee sat 
 
 ---
 
-She called a cab from outside. The October air was cold now, the parking lot clearing. She stood on the curb under a yellow light and watched cars pull out and thought about nothing in particular — or tried to. The cab came in twelve minutes. She got in and gave her address and didn't speak again.
+She could have called Cassie. She stood outside with her phone in her hand and didn't. Cassie would come the moment she called, in whatever she'd been sleeping in — and there'd be questions after, tonight or in the morning, and Vee would have to put words to what she'd done, and she couldn't. She called a cab.
 
-She paid at the curb, exact change.
+The lot was emptying out, the last of the crowd spilling loud and unsteady into the cold. She waited under the one good light by the door, where the dark didn't quite reach, her arms crossed, and the cab took its time. She heard it before she saw it: something loose and belching under the hood, run well past maintaining. It lurched to the curb.
+
+The back seat had a smell and a sag she chose not to investigate. The driver found her in the mirror. "Long night?" She gave him the address and nothing after it, and he kept catching her eyes in the glass the whole way home while she kept hers on the window.
+
+The fare was more than she'd guessed, and the money had been meant for other things.
 
 ---
 
-Her roommate's light was off. She moved through the apartment quietly, left her shoes by the door, took off the borrowed shirt. She washed her face with the water as cold as it would go. She looked at herself in the mirror for a moment and then looked away.
+She let herself in. Cassie's side of the room was dark, her breathing slow and even. Vee eased the door shut and crossed without a light, pulled off the borrowed boots, peeled off the borrowed shirt, washed her face in water as cold as it ran, brushed her teeth in the dark.
 
-She opened the closet. His shirt was on the hook where she'd hung it after the last time — she'd meant to return it, had kept not returning it. She took it down and put it on. The fabric was room temperature and too large and smelled like fabric softener, not him, but she put it on anyway.
+His shirt hung on the closet hook — hers now, after the trade, though she'd never once thought of it as anything but his. She'd slept in it and not washed it, rationing the smell of him, until what was left of him went stale and wrong and she'd finally, hating it, run it through the machine. It came back smelling of fabric softener and no one. She took it down and put it on anyway.
 
-She lay down.
+She lay down on top of the covers.
 
-The room was wrong in the specific way rooms got wrong at two in the morning. Not dark enough, not quiet enough. A detail kept returning — not a thought but a sensation: his hand at her shoulder blade on the pad, the pressure of the lead arriving before her feet knew what to do with it. The moment the dance took her and she stopped trying to guess.
+The room went wrong the way rooms do at that hour — not dark enough, not quiet enough, Cassie's breathing the only easy thing in it. She lay in his shirt and couldn't stop seeing him through their eyes, one girl and then the next. He made them light on their feet. He made them feel feminine, the way he'd made her feel. He made them feel safe, and like real people — she knew he could, because he had done exactly that to her, the first time and every time after. He kept them safe. He could have had any one of them, and he hadn't. He'd chosen her. And what she'd thrown in his face was all of it — every good thing she knew to be true about him. She'd punished him for being the man she wanted him to be. The man she knew him to be. A good man. She'd done it to a good man.
 
-She lay there with that.
+And underneath the shame, not touching it, the other thing kept coming back — not a thought, a sensation: his hand at her shoulder blade on the pad, the lead arriving before her feet knew what to do with it, the moment the dance took her and she stopped trying to guess.
+
+She lay there with both.
 
 She did not sleep.
 
 ---
 
 When it was light she knew what she was going to do. Not how — the how was a separate problem — but what, which was: go to Randi's. The embarrassment was still there but it had changed temperature overnight, was cool now instead of hot, and cool embarrassment was just information. She'd been wrong. She was going to fix it.
-
-She made coffee. She sat at the kitchen table in his shirt and thought about Randi's.
