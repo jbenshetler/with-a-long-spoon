@@ -70,6 +70,23 @@ whole bench scene plays out in this single space. **There is no separate "study"
 Off the bedroom. Sink + **mirror**, tap, his **towel**, toilet. The door has a
 **lock**; Randi locking it mid-scene is marked unprecedented. A recurring,
 load-bearing small room (Vee uses it later too).
+- **Vee's top drawer** `[PLAN]` (canonical): gifted at The Top Drawer (~late Oct) —
+  he consolidated his things to a lower drawer; the top one holds her form of
+  scrunchies (deep green, chosen for her hair — gifted earlier at The Scrunchies),
+  her pins, room to spare. **The drawer is hers; he never touches it** — the
+  founding act is the only time his hand changes its contents. Her loose nest of
+  entropy inside his precise house, and the man whose domestic compulsion adjusts
+  everything after she leaves never tidies this one drawer: visible restraint as
+  unworded declaration. Vee's habit: scrunchies off the form, returns dropped
+  loose, never re-threaded — under her own use the form only ever depletes.
+  Site of the spring gaslight grains.
+- **POV key** (canonical): this room and the drawer are on-camera **only in Vee's
+  POV** from the fall onward (the Bench-night mirror predates the drawer). In
+  Pace-POV scenes the camera rides Pace and does not enter with anyone else. No
+  staged "opportunity" beats anywhere in the house (chronology flag 15).
+- **Vee's mirror-time ritual:** washing her face, hair up at the sink — installed
+  across the fall as domestic warmth; in spring the same container holds the
+  definiteness questions and the drawer arithmetic in one stream.
 
 ### The office `[PLAN]`
 His **computer/work room** — the one genuinely messy room (laptop, workstation,

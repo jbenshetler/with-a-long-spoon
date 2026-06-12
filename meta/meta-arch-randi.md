@@ -182,6 +182,8 @@ She does not. She fixes a piece of her hair. She turns off the light and goes ba
 
 **The choice is not stated in words. The choice is enacted by the return.** The reader should feel it as a body-decision visible at the level of behavior — the way she fixes the hair, turns off the light, walks back to the bed without breaking stride.
 
+**POV (containers rule):** Rendered in Randi's POV — the second opening of the mirror aperture (Bench mirror → Flat Date mirror; installation → confirmation). No other camera exists: the proper man is a one-scene character, and the content is untellable to Vee — confessing the nothing confesses the comparison, which confesses the lunches are the real thing. Full rule in the Bible; chronology flag 15. Structural hinge: every scrunchie grain lands after this scene, so the reader enters the spring holding the nothing and the hate that is at least warm.
+
 ---
 
 ## The Future — Seen What Real Is, Will Keep Seeking
