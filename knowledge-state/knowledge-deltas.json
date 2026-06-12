@@ -6,7 +6,7 @@
     "source_reliable": true,
     "actual_truth": true,
     "notes": "Vee arrives at this herself via Cassie's question; she registers it as 'information' \u2014 the difficulty is partly unwillingness, not only complexity",
-    "scene_file": "scenes/back-from-thanksgiving.md",
+    "scene_file": "scenes/cw-dance.md",
     "chapter_number": 0
   },
   {
@@ -16,7 +16,7 @@
     "source_reliable": true,
     "actual_truth": true,
     "notes": "Explicitly rendered as absence: 'not the right word for what he was, not the right story for how it had gone, not the version of herself that stood up cleanly in the telling'",
-    "scene_file": "scenes/back-from-thanksgiving.md",
+    "scene_file": "scenes/cw-dance.md",
     "chapter_number": 0
   },
   {
@@ -26,7 +26,7 @@
     "source_reliable": true,
     "actual_truth": true,
     "notes": "Cassie demonstrates she understands this by dropping the subject; the narration confirms she 'had a particular gift for knowing when a door was closed'",
-    "scene_file": "scenes/back-from-thanksgiving.md",
+    "scene_file": "scenes/cw-dance.md",
     "chapter_number": 0
   },
   {
@@ -38,6 +38,226 @@
     "notes": null,
     "scene_file": "scenes/hiking-rainstorm.md",
     "chapter_number": 10
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Pace is willing to teach her to dance and has already arranged a date to a country western venue for Thursday",
+    "source_character": "Pace",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Established via the opening text exchange",
+    "scene_file": "scenes/cw-dance.md",
+    "chapter_number": 0
+  },
+  {
+    "character_name": "Vee",
+    "fact": "She should borrow boots for country western dancing",
+    "source_character": "Pace",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Pace advises this via text; she acts on it",
+    "scene_file": "scenes/cw-dance.md",
+    "chapter_number": 0
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Serious country dancers wear jeans",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Attributed to unnamed prior source; Vee acts on this belief",
+    "scene_file": "scenes/cw-dance.md",
+    "chapter_number": 0
+  },
+  {
+    "character_name": "Vee",
+    "fact": "The three-step is easier and uses slower steps than the two-step for the same beat",
+    "source_character": "Pace",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Pace explains this directly during the lesson",
+    "scene_file": "scenes/cw-dance.md",
+    "chapter_number": 0
+  },
+  {
+    "character_name": "Vee",
+    "fact": "The basic three-step pattern is: back on the right, back on the right, then back on the left \u2014 one-and-two, three-four",
+    "source_character": "Pace",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Taught directly during the lesson",
+    "scene_file": "scenes/cw-dance.md",
+    "chapter_number": 0
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Smaller steps are easier in the three-step; it is not a race",
+    "source_character": "Pace",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Correction given during practice",
+    "scene_file": "scenes/cw-dance.md",
+    "chapter_number": 0
+  },
+  {
+    "character_name": "Vee",
+    "fact": "In partner dancing, the follower must maintain firm resistance in the frame \u2014 pushing back against the lead's hand \u2014 for the lead to be transmitted",
+    "source_character": "Pace",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Core technical instruction during the lesson",
+    "scene_file": "scenes/cw-dance.md",
+    "chapter_number": 0
+  },
+  {
+    "character_name": "Vee",
+    "fact": "The lead is communicated through the hand at the follower's shoulder blade",
+    "source_character": "Pace",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Explicitly stated and physically demonstrated",
+    "scene_file": "scenes/cw-dance.md",
+    "chapter_number": 0
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Keeping space between partners in the frame causes the follower to get stepped on, not prevents it; closing in keeps feet clear",
+    "source_character": "Pace",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Counterintuitive correction that surprises her",
+    "scene_file": "scenes/cw-dance.md",
+    "chapter_number": 0
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Anticipating the lead \u2014 stepping into the motion before it arrives \u2014 puts the follower in the wrong place and breaks the dance",
+    "source_character": "Pace",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Learned through repeated failure and implicit correction during the lesson",
+    "scene_file": "scenes/cw-dance.md",
+    "chapter_number": 0
+  },
+  {
+    "character_name": "Vee",
+    "fact": "When she stops anticipating and yields to the frame, she can actually dance \u2014 the pattern arrives through his body before she consciously decides anything",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee discovers this experientially on the concrete pad",
+    "scene_file": "scenes/cw-dance.md",
+    "chapter_number": 0
+  },
+  {
+    "character_name": "Vee",
+    "fact": "The music Pace plays is old country his grandfather listened to; older songs have a clearer beat",
+    "source_character": "Pace",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Pace volunteers this information about the boombox tape",
+    "scene_file": "scenes/cw-dance.md",
+    "chapter_number": 0
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Pace is well-known and well-liked at the CW venue; many people there know him personally",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Observed directly on arrival \u2014 the cashier greets him by name, multiple people stop to hug him",
+    "scene_file": "scenes/cw-dance.md",
+    "chapter_number": 0
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Pace taught a beginner country dancing class for two semesters, and is credited by regulars as the reason many of them can dance",
+    "source_character": "Pace",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "First disclosed by a regular woman, confirmed by Pace himself when Vee asks directly",
+    "scene_file": "scenes/cw-dance.md",
+    "chapter_number": 0
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Pace does not normally bring dates to this venue on Thursdays",
+    "source_character": "the Walk of Shame matriarch",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Disclosed by the bartender near closing; the bartender presents this as established community knowledge",
+    "scene_file": "scenes/cw-dance.md",
+    "chapter_number": 0
+  },
+  {
+    "character_name": "Vee",
+    "fact": "The women watching her and Pace on the floor were jealous of her, not of him",
+    "source_character": "the Walk of Shame matriarch",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Bartender states this explicitly; Vee had previously misread the women's attention as evidence of Pace's promiscuity",
+    "scene_file": "scenes/cw-dance.md",
+    "chapter_number": 0
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Pace gets girls home safely when they've had too much to drink, does not take advantage of them, and leaves them at the door",
+    "source_character": "the Walk of Shame matriarch",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Bartender presents this as something she would have heard about if it were otherwise; community reputation corroborates",
+    "scene_file": "scenes/cw-dance.md",
+    "chapter_number": 0
+  },
+  {
+    "character_name": "Vee",
+    "fact": "She was wrong to lash out at Pace, and she needs to go to Randi's to fix it",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee's own internal conclusion reached by morning; 'actual_truth' is true in the sense that her self-assessment is accurate within the story world",
+    "scene_file": "scenes/cw-dance.md",
+    "chapter_number": 0
+  },
+  {
+    "character_name": "Vee",
+    "fact": "Counting the steps aloud in her head causes her to fall behind the beat and lose the dance",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Discovered experientially on the dance floor at the CW",
+    "scene_file": "scenes/cw-dance.md",
+    "chapter_number": 0
+  },
+  {
+    "character_name": "Vee",
+    "fact": "The frame she resisted as too constraining during the lesson is precisely what enables her to dance well on a crowded floor",
+    "source_character": null,
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Vee explicitly reflects on this during the CW dancing",
+    "scene_file": "scenes/cw-dance.md",
+    "chapter_number": 0
+  },
+  {
+    "character_name": "Pace",
+    "fact": "Vee does not need him to get her home safely and will handle it herself",
+    "source_character": "Vee",
+    "source_reliable": false,
+    "actual_truth": false,
+    "notes": "Vee states this in anger; she in fact ends up alone, paying more than expected for a cab, uncomfortable the whole way. Source is unreliable in the moment.",
+    "scene_file": "scenes/cw-dance.md",
+    "chapter_number": 0
+  },
+  {
+    "character_name": "Pace",
+    "fact": "Vee is angry at him and has walked out on the date",
+    "source_character": "Vee",
+    "source_reliable": true,
+    "actual_truth": true,
+    "notes": "Directly witnessed; he stood where she left him and then left the venue",
+    "scene_file": "scenes/cw-dance.md",
+    "chapter_number": 0
   },
   {
     "character_name": "Vee",
