@@ -175,23 +175,31 @@ Had he taught that one to dance? Gotten her home safe at the end of the night? H
 
 She knew what she was doing, and she did it anyway. She'd thought she was special. She was just next.
 
-At last call she found a stool at the bar and sat.
+---
 
-The woman behind the bar was older, moving with the unhurried efficiency of someone who'd worked this room for a long time. She came over without being waved to.
+She gave up the wall for a stool at the end of the bar. She nursed one drink and made it last. Men came by the way they do for a woman sitting alone — she turned each of them down without quite looking at them, until they quit coming. The band packed up. The floor thinned out. She stayed until the lights began to come up.
 
-"He left," she said. Not cruel. Just a fact.
+The woman behind the bar was older, and moved with the unhurried economy of someone who'd worked this room a long time. She set a glass of water in front of Vee without being asked.
 
-"I know."
+"I hear you tore into Pace tonight."
 
-The woman set a glass of water down. She didn't offer a drink. She looked at Vee for a moment with the expression of someone doing a quiet calculation.
+"Yeah." Vee didn't look up. "So?"
 
-"Girls get jealous of you," she said. "You know that? They watch you two out there and they're jealous of *you.* Not the other way around." She took the glass back and rinsed it. "Just so you know."
+"He's a good guy."
+
+"I don't need a man who *gets all the girls home safely.*"
+
+The woman huffed, not quite a laugh, and went on with what she was doing — glasses up out of the rack, rag over the taps.
+
+Vee watched her a while. Then, despite herself: "Why do you like him?"
+
+"When a girl's had too much, Pace gets her home." She didn't look up from the glasses. "Leaves her at the door. Doesn't take advantage — I'd have heard otherwise. Not that plenty haven't tried, hoping he would."
 
 Vee looked at her hands on the bar.
 
-"He gets people home safe because that's what he does," the woman said. "Not because he doesn't know the difference."
+"You felt the girls looking at you tonight." It wasn't a question. "Whoever's out there with Pace gets that — it's just the room. But Pace don't bring dates. Tonight he brought one, on a Thursday, when folks come here to dance." She set the last glass up and looked at Vee. "Wasn't him they were jealous of, honey."
 
-She moved down the bar. The house lights were coming up.
+She moved off down the bar. The lights came up the rest of the way, and Vee sat there in it.
 
 ---
 
