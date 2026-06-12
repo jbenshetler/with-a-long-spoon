@@ -1648,14 +1648,6 @@
     "source_scene": "scenes/randis-walk-of-shame.md"
   },
   {
-    "question": "What is Cassie's habit regarding the window in her dorm room?",
-    "expected_answer": "The window was cracked its two inches the way Cassie kept it, because the building ran the heat like it was trying to cook something and Cassie would rather have the cold than the cooking",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "FAIL",
-    "source_scene": "scenes/cassie-before.md"
-  },
-  {
     "question": "What pattern defines Randi's social and aesthetic preferences when evaluating other women?",
     "expected_answer": "Randi's baseline preference runs toward women who match her own social grammar \u2014 the correct labels, maintained physique, and polished presentation. However, she rejects direct mirrors of herself and women whose ease or warmth is performed outward. She is drawn instead to women who are warm and open without being self-consciously so.",
     "entity_name": "Vee",
@@ -2328,6 +2320,14 @@
     "source_scene": "scenes/hiking-rainstorm.md"
   },
   {
+    "question": "What is Cassie's characteristic manner of speaking and tone?",
+    "expected_answer": "Cassie was looking at Randi. Cassie had said it in the same matter-of-fact voice she said everything in, the voice of someone reporting the weather, the voice of someone who had no particular stake in the observation but was reporting it because it was a thing she had observed.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/the-meet-cute.md"
+  },
+  {
     "question": "What is Vee's characteristic approach to preparing emotionally risky speech acts?",
     "expected_answer": "Vee prepares emotionally high-stakes statements over an extended period \u2014 assembling the words gradually, running them in her head in different orders, building the sentence whole before speaking \u2014 so that when she finally speaks, the words arrive complete and pre-formed rather than found in the moment.",
     "entity_name": "Vee",
@@ -2344,12 +2344,12 @@
     "source_scene": "meta/meta-arch-bible.md"
   },
   {
-    "question": "What is Cassie's characteristic verbal sign-off or minimal affirmation?",
-    "expected_answer": "\"Okay,\" Cassie said, soft, waiting.",
+    "question": "What is the Cassandra device and how does it apply to Cassie?",
+    "expected_answer": "She is the **Cassandra device**: she sees clearly and is not believed.",
     "entity_name": "Cassie",
     "stale": false,
-    "last_result": "FAIL",
-    "source_scene": "scenes/cassie-before.md"
+    "last_result": "PASS",
+    "source_scene": "meta/meta-arch-cassie.md"
   },
   {
     "question": "What is Randi's characteristic seduction strategy with Pace?",
@@ -2406,14 +2406,6 @@
     "stale": false,
     "last_result": "PARTIAL",
     "source_scene": "scenes/ignition-scalding.md"
-  },
-  {
-    "question": "What is Cassie's observable physical behavior when she is paying close attention?",
-    "expected_answer": "Cassie went very still.",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "PASS",
-    "source_scene": "scenes/vee-tells-cassie-fitting.md"
   },
   {
     "question": "What is Randi's resting facial expression?",
@@ -2504,6 +2496,14 @@
     "source_scene": "/home/jeff/clients/with-a-long-spoon/scenes/the-meet-cute.md"
   },
   {
+    "question": "What is Cassie's habit regarding the window in her dorm room?",
+    "expected_answer": "The window was cracked its two inches the way Cassie kept it, because the building ran the heat like it was trying to cook something and Cassie would rather have the cold than the cooking",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/cassie-before.md"
+  },
+  {
     "question": "What is the name of the man Vee is romantically interested in?",
     "expected_answer": "His name is Pace.",
     "entity_name": "Pace",
@@ -2518,14 +2518,6 @@
     "stale": false,
     "last_result": "PARTIAL",
     "source_scene": "meta/meta-arch-vivienne.md"
-  },
-  {
-    "question": "What is Cassie's characteristic emotional register \u2014 how does her warmth manifest behaviorally?",
-    "expected_answer": "because it was Cassie, because the gladness in Cassie always had a flat dry floor under it, she tipped her head.",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "PARTIAL",
-    "source_scene": "scenes/vee-tells-cassie-dinner.md"
   },
   {
     "question": "What are Vivienne's two core erotic/psychological registers \u2014 Exposure and Evaluation?",
@@ -2550,6 +2542,14 @@
     "stale": false,
     "last_result": "FAIL",
     "source_scene": "scenes/ignition-scalding.md"
+  },
+  {
+    "question": "What is Cassie's observable physical behavior when she is paying close attention?",
+    "expected_answer": "Cassie went very still.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/vee-tells-cassie-fitting.md"
   },
   {
     "question": "What is Randi's scent as described in the scene?",
@@ -2584,20 +2584,20 @@
     "source_scene": "scenes/the-fitting.md"
   },
   {
-    "question": "What is Cassie's structural contrast with Randi in terms of how each uses her signal?",
-    "expected_answer": "She is the **un-instrumented opposite of Randi:** Cassie *withholds* her signal until it's earned; Randi *gives hers up front to capture.*",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "PARTIAL",
-    "source_scene": "meta/meta-arch-cassie.md"
-  },
-  {
     "question": "What is Pace's pattern of anticipating others' physical comfort or needs before they arrive?",
     "expected_answer": "The house was warm when she came in. Too warm \u2014 she felt it the moment the door shut behind her, a close even heat with no draft in it",
     "entity_name": "Pace",
     "stale": false,
     "last_result": "PASS",
     "source_scene": "scenes/the-fitting.md"
+  },
+  {
+    "question": "What is Cassie's habitual physical relationship to her chair?",
+    "expected_answer": "went back to the chair and folded herself into it, feet up off the floor where they never reached",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/cassie-before.md"
   },
   {
     "question": "What is Vee's academic strength or characteristic approach to coursework?",
@@ -2640,14 +2640,6 @@
     "source_scene": "scenes/origin-campus-walk.md"
   },
   {
-    "question": "What is the Cassandra device and how does it apply to Cassie?",
-    "expected_answer": "She is the **Cassandra device**: she sees clearly and is not believed.",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "PASS",
-    "source_scene": "meta/meta-arch-cassie.md"
-  },
-  {
     "question": "What is the cutting voice and where does it originate?",
     "expected_answer": "The voice that produces shame on demand when her body responds. Originated in her mother's training; now runs as Vee's own apparatus. **Render at the experience level only** \u2014 it cuts her; she does not narrate it as something she is running. Reader identification depends on this distinction. The voice is architectural; its presence in the prose is experiential.",
     "entity_name": "Vivienne",
@@ -2670,14 +2662,6 @@
     "stale": false,
     "last_result": "PARTIAL",
     "source_scene": "scenes/vee-tells-cassie-fitting.md"
-  },
-  {
-    "question": "What is Cassie's habitual physical relationship to her chair?",
-    "expected_answer": "went back to the chair and folded herself into it, feet up off the floor where they never reached",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "PASS",
-    "source_scene": "scenes/cassie-before.md"
   },
   {
     "question": "What physical gesture does Pace use deliberately on Randi?",
@@ -2856,6 +2840,14 @@
     "source_scene": "/home/jeff/clients/with-a-long-spoon/scenes/porch-scene.md"
   },
   {
+    "question": "What is Cassie's recurring verbal gesture of acknowledgment?",
+    "expected_answer": "\"Okay,\" Cassie said, soft, waiting.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/vee-tells-cassie-dinner.md"
+  },
+  {
     "question": "What does Pace carry in his pack for first aid on the trail?",
     "expected_answer": "Pace carries a kit from which he can cut moleskin.",
     "entity_name": "Pace",
@@ -2894,22 +2886,6 @@
     "stale": true,
     "last_result": "FAIL",
     "source_scene": "/home/jeff/clients/with-a-long-spoon/scenes/cassie-before.md"
-  },
-  {
-    "question": "What is Cassie's recurring verbal gesture of acknowledgment?",
-    "expected_answer": "\"Okay,\" Cassie said, soft, waiting.",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "FAIL",
-    "source_scene": "scenes/vee-tells-cassie-dinner.md"
-  },
-  {
-    "question": "What is Cassie's aesthetic category in the novel's three-way contrast?",
-    "expected_answer": "Cassie is the **un-coded third model** against Vee and Randi \u2014 three relationships to appearance, three aesthetic orders:",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "PASS",
-    "source_scene": "meta/meta-arch-cassie.md"
   },
   {
     "question": "What is the nature of Pace's consent architecture, and what does it cover and miss?",
@@ -3792,6 +3768,14 @@
     "source_scene": "scenes/may-i-choose.md"
   },
   {
+    "question": "What is the governing aesthetic principle for how Cassie's appearance is rendered?",
+    "expected_answer": "The governing word is **unmanaged** \u2014 not ugly, not slovenly, just not managing how she lands.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "meta/meta-arch-cassie.md"
+  },
+  {
     "question": "How does Vee respond when her personal agency in a romantic moment is questioned or doubted?",
     "expected_answer": "Vee responds with immediate, emphatic insistence on her own autonomy; she is quick to assert that her romantic choices are deliberate and self-initiated, not the result of persuasion or intoxication.",
     "entity_name": "Vee",
@@ -4096,6 +4080,14 @@
     "source_scene": "meta/meta-arch-vivienne.md"
   },
   {
+    "question": "What does Cassie consciously perceive about Pace versus what she perceives about Randi?",
+    "expected_answer": "**Cassie registers structure, not character.**",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "meta/meta-arch-cassie.md"
+  },
+  {
     "question": "What premeditated action did Pace take regarding the temperature of his house before Vee's fitting visit?",
     "expected_answer": "Pace turned the heat up in his house before Vee arrived so she would not be cold while being fitted.",
     "entity_name": "Pace",
@@ -4182,6 +4174,14 @@
     "stale": false,
     "last_result": "PARTIAL",
     "source_scene": "meta/meta-arch-randi.md"
+  },
+  {
+    "question": "What is Cassie's experience of being looked at by men compared to Vee?",
+    "expected_answer": "She had spent two years beside Cassie and had seen it from inside the comparison: the same room, the same moment, a man's eyes moving over the both of them and warming on Vee, going easy and unbothered on Cassie, the way they'd go on an older woman, on a kid, on a man he was glad enough to meet and would never think about again.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/the-meet-cute.md"
   },
   {
     "question": "What recurring object does Vee keep on her pillow, and who made it?",
@@ -4582,6 +4582,14 @@
     "stale": true,
     "last_result": "FAIL",
     "source_scene": "/home/jeff/clients/with-a-long-spoon/scenes/ignition-scalding.md"
+  },
+  {
+    "question": "How does Cassie respond when a conversation partner wants to change the subject?",
+    "expected_answer": "Cassie let the pivot happen. She was good at that.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/vee-tells-cassie-fitting.md"
   },
   {
     "question": "What is the 'same-shape rule' connecting Pace's childhood injury to his consent architecture?",
@@ -5712,14 +5720,6 @@
     "source_scene": "scenes/randis-walk-of-shame.md"
   },
   {
-    "question": "What is Cassie's characteristic manner of speaking and tone?",
-    "expected_answer": "Cassie was looking at Randi. Cassie had said it in the same matter-of-fact voice she said everything in, the voice of someone reporting the weather, the voice of someone who had no particular stake in the observation but was reporting it because it was a thing she had observed.",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "PASS",
-    "source_scene": "scenes/the-meet-cute.md"
-  },
-  {
     "question": "What recurring jewelry does Randi wear?",
     "expected_answer": "Randi wears a solitaire on a fine chain at her throat.",
     "entity_name": "Randi",
@@ -5774,14 +5774,6 @@
     "stale": false,
     "last_result": "PARTIAL",
     "source_scene": "meta/meta-arch-bible.md"
-  },
-  {
-    "question": "What is Cassie's characteristic verbal style?",
-    "expected_answer": "\"Cassie says about four words a day,\" she said, leaning in, making it warm, making it a feature.",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "PARTIAL",
-    "source_scene": "scenes/together-in-class.md"
   },
   {
     "question": "What car does Vee drive?",
@@ -6040,14 +6032,6 @@
     "source_scene": "scenes/together-in-class.md"
   },
   {
-    "question": "What is Cassie's typical appearance and clothing style?",
-    "expected_answer": "She was in shorts and yesterday's shirt and the cap and she looked exactly like what she was, which was a person who had a lab at noon and no particular feelings about the yellow one on Draper.",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "PASS",
-    "source_scene": "scenes/together-in-class.md"
-  },
-  {
     "question": "What is Vivienne's role in the BDSM triangle with Pace and Randi?",
     "expected_answer": "The BDSM triangle: Pace is B/D (architecture, rules, the framework inside which transgression is made possible). Randi is S (takes pleasure in the suffering the control produces). Vee is M (the arousal-humiliation loop; extraordinarily responsive; extraordinarily skilled at receiving). The three registers are not interchangeable. The threesome works structurally because all three are present simultaneously.",
     "entity_name": "Vivienne",
@@ -6136,14 +6120,6 @@
     "source_scene": "meta/meta-arch-randi.md"
   },
   {
-    "question": "What does Cassie look like physically?",
-    "expected_answer": "Short and boxy \u2014 would tend toward fat but heavy intramural sport holds it off.",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "PASS",
-    "source_scene": "meta/meta-arch-cassie.md"
-  },
-  {
     "question": "What dress does Vee describe wanting for the induction dinner?",
     "expected_answer": "I saw a dress. In a magazine. The one they leave out in the lobby. It was silk. Russet \u2014 like \u2014 the color, what to do with the color, \u2014 like the red of a brick. That kind of red. It just looked like the dress. Like the one.",
     "entity_name": "Vee",
@@ -6216,14 +6192,6 @@
     "source_scene": "scenes/vee-tells-cassie-dinner.md"
   },
   {
-    "question": "What are Cassie's physical behavioral tells when she is paying attention or processing information?",
-    "expected_answer": "**The highlighter goes down the moment Vee walks in** \u2014 she reads Vee instantly; the put-down is the tell that her full attention is now on her friend.",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "PARTIAL",
-    "source_scene": "meta/meta-arch-cassie.md"
-  },
-  {
     "question": "What is the role of consent in Pace's psychology?",
     "expected_answer": "The consent ethic is not a discipline that holds the appetite in check. It is **part of the appetite.** A coerced yes is a violation, not a transgression; violations do not engage his arousal because the agency is missing. Consent and appetite are the same instrument. He cannot abandon consent without destroying what he is trying to construct. He cannot abandon the appetite because the appetite is what makes him care about consent. They are welded at a level deeper than principle.",
     "entity_name": "Pace",
@@ -6256,28 +6224,12 @@
     "source_scene": "meta/meta-arch-pace.md"
   },
   {
-    "question": "What is Cassie's car and how should it be handled on the page?",
-    "expected_answer": "The squeak is a **free entrance cue** Vee recognizes before she sees the car.",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "PASS",
-    "source_scene": "meta/meta-arch-cassie.md"
-  },
-  {
     "question": "What is the blindness in Pace's attention, and how did it form?",
     "expected_answer": "Pace's attention is finest in the present moment and operates a specific blindness toward **what those moments become in the other person's interior afterward.** Not a general failure of integration. A precisely shaped one.",
     "entity_name": "Pace",
     "stale": false,
     "last_result": "PARTIAL",
     "source_scene": "meta/meta-arch-pace.md"
-  },
-  {
-    "question": "What sports does Cassie play and what function does her sport schedule serve in the novel?",
-    "expected_answer": "**Softball (spring) and basketball (winter); any rec team given the chance.**",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "PARTIAL",
-    "source_scene": "meta/meta-arch-cassie.md"
   },
   {
     "question": "What is Randi's signature scent?",
@@ -6350,14 +6302,6 @@
     "stale": false,
     "last_result": "PASS",
     "source_scene": "scenes/origin-campus-walk.md"
-  },
-  {
-    "question": "How does Cassie observe and report on what is happening around her?",
-    "expected_answer": "\"He looked at her like she wasn't pretty,\" Cassie said.",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "PASS",
-    "source_scene": "scenes/the-meet-cute.md"
   },
   {
     "question": "What happened at the bench and why was it a wound?",
@@ -6488,6 +6432,14 @@
     "source_scene": "meta/meta-arch-pace.md"
   },
   {
+    "question": "What recurring object is associated with Cassie and what does it signal about her habits?",
+    "expected_answer": "found the highlighter, and uncapped it, and looked at Vee over the reading one more time",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/cassie-before.md"
+  },
+  {
     "question": "How does Vee's social fluency operate in moments of friction or awkwardness?",
     "expected_answer": "her own social fluency engaged before she had decided to engage it, the way her social fluency always engaged when a room needed a small piece of friction smoothed.",
     "entity_name": "Vee",
@@ -6502,14 +6454,6 @@
     "stale": false,
     "last_result": "FAIL",
     "source_scene": "scenes/brunch-fitting-randi.md"
-  },
-  {
-    "question": "What does Cassie consciously perceive about Pace versus what she perceives about Randi?",
-    "expected_answer": "**Cassie registers structure, not character.**",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "PASS",
-    "source_scene": "meta/meta-arch-cassie.md"
   },
   {
     "question": "How does the substrate of Pace's original choice peek through under strain?",
@@ -6752,19 +6696,19 @@
     "source_scene": "scenes/vee-tells-cassie-fitting.md"
   },
   {
-    "question": "What is the governing aesthetic principle for how Cassie's appearance is rendered?",
-    "expected_answer": "The governing word is **unmanaged** \u2014 not ugly, not slovenly, just not managing how she lands.",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "PARTIAL",
-    "source_scene": "meta/meta-arch-cassie.md"
-  },
-  {
     "question": "How does Randi's warmth behave when it moves between people?",
     "expected_answer": "Randi's eyes went past her to Cassie, and the warmth swung over and landed there, total, undimmed, as though Cassie were the next wonderful thing in a room full of them.",
     "entity_name": "Randi",
     "stale": false,
     "last_result": "PASS",
+    "source_scene": "scenes/together-in-class.md"
+  },
+  {
+    "question": "What does Cassie typically bring to class and how does she organize herself?",
+    "expected_answer": "with Cassie beside her unpacking a granola bar and the wrong textbook and then the right one.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PARTIAL",
     "source_scene": "scenes/together-in-class.md"
   },
   {
@@ -6808,14 +6752,6 @@
     "source_scene": "scenes/hiking-rainstorm.md"
   },
   {
-    "question": "What is the Cassandra device and how is it applied to Cassie?",
-    "expected_answer": "She is the **Cassandra device**: she sees clearly and is not believed.",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "PASS",
-    "source_scene": "meta/meta-arch-cassie.md"
-  },
-  {
     "question": "What is Cassie's manner of speaking and making observations?",
     "expected_answer": "Cassie had said it in the same matter-of-fact voice she said everything in, the voice of someone reporting the weather, the voice of someone who had no particular stake in the observation but was reporting it because it was a thing she had observed.",
     "entity_name": "Cassie",
@@ -6824,8 +6760,8 @@
     "source_scene": "scenes/the-meet-cute.md"
   },
   {
-    "question": "What is Cassie's relationship to venue and social setting?",
-    "expected_answer": "**A sports bar, not a trendy coffee shop.**",
+    "question": "What is the Cassandra device and how is it applied to Cassie?",
+    "expected_answer": "She is the **Cassandra device**: she sees clearly and is not believed.",
     "entity_name": "Cassie",
     "stale": false,
     "last_result": "PASS",
@@ -6848,20 +6784,28 @@
     "source_scene": "meta/meta-arch-pace.md"
   },
   {
-    "question": "What is Cassie's academic background and how does it echo another character?",
-    "expected_answer": "Pre-nursing (echoes Vee's mother).",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "PASS",
-    "source_scene": "meta/meta-arch-cassie.md"
-  },
-  {
     "question": "What is Vee's area of academic study and what draws her to it?",
     "expected_answer": "\"I like that it's about how people actually behave when they think they're being rational,\" she said. \"The gap between what they say they're doing and what they're doing. It's \u2014 I don't know. It feels like the kind of thing where if you understood it well, you'd understand a lot.\"",
     "entity_name": "Vee",
     "stale": false,
     "last_result": "PARTIAL",
     "source_scene": "scenes/the-meet-cute.md"
+  },
+  {
+    "question": "What is Cassie's academic background and how does it echo another character?",
+    "expected_answer": "Pre-nursing (echoes Vee's mother).",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "meta/meta-arch-cassie.md"
+  },
+  {
+    "question": "What is Cassie's relationship to venue and social setting?",
+    "expected_answer": "**A sports bar, not a trendy coffee shop.**",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "meta/meta-arch-cassie.md"
   },
   {
     "question": "What is Vee's pattern for preparing something difficult to say before she says it?",
@@ -6880,14 +6824,6 @@
     "source_scene": "scenes/porch-scene.md"
   },
   {
-    "question": "What does Cassie consciously perceive versus what remains subconscious in her observations?",
-    "expected_answer": "**Cassie registers structure, not character.** She perceives *arrangement, cost, wrongness-of-fit, her friend receding* \u2014 and reports them as flat observations or dry jokes, never as articulated accusations, because she can see the *readout* and not the *mechanism.*",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "PARTIAL",
-    "source_scene": "meta/meta-arch-cassie.md"
-  },
-  {
     "question": "What is Pace's sexual stamina or capacity described as?",
     "expected_answer": "\"Three times today,\" Randi said, to the ceiling.",
     "entity_name": "Pace",
@@ -6896,19 +6832,11 @@
     "source_scene": "scenes/ignition-scalding.md"
   },
   {
-    "question": "How alert is Cassie to the behavior of people around her despite appearing absorbed in her own work?",
-    "expected_answer": "headphones in, the volume low enough that she sometimes laughed at things people said two tables away",
+    "question": "What does Cassie consciously perceive versus what remains subconscious in her observations?",
+    "expected_answer": "**Cassie registers structure, not character.** She perceives *arrangement, cost, wrongness-of-fit, her friend receding* \u2014 and reports them as flat observations or dry jokes, never as articulated accusations, because she can see the *readout* and not the *mechanism.*",
     "entity_name": "Cassie",
     "stale": false,
     "last_result": "PASS",
-    "source_scene": "scenes/the-meet-cute.md"
-  },
-  {
-    "question": "What is Cassie's academic background?",
-    "expected_answer": "Pre-nursing (echoes Vee's mother).",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "PARTIAL",
     "source_scene": "meta/meta-arch-cassie.md"
   },
   {
@@ -7008,14 +6936,6 @@
     "source_scene": "meta/meta-arch-randi.md"
   },
   {
-    "question": "How does Cassie monitor the people around her while appearing to focus on her own work?",
-    "expected_answer": "headphones in, the volume low enough that she sometimes laughed at things people said two tables away.",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "PARTIAL",
-    "source_scene": "scenes/the-meet-cute.md"
-  },
-  {
     "question": "How does Randi physically carry herself and occupy space?",
     "expected_answer": "the wind found the collar of the silk and laid it open another half-inch against her collarbone and Randi never once reached up to fix it, was a person to whom the wind was simply permitted that much and no more.",
     "entity_name": "Randi",
@@ -7038,14 +6958,6 @@
     "stale": false,
     "last_result": "FAIL",
     "source_scene": "scenes/hiking-rainstorm.md"
-  },
-  {
-    "question": "What is the living arrangement between Cassie and Vee?",
-    "expected_answer": "Standard double with Vee \u2014 **bunk beds (Vee took the top without being asked)**",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "PASS",
-    "source_scene": "meta/meta-arch-cassie.md"
   },
   {
     "question": "What is Vee's habitual way of reading a restaurant menu?",
@@ -7616,14 +7528,6 @@
     "source_scene": "scenes/the-fitting.md"
   },
   {
-    "question": "What is Cassie's experience of being looked at by men compared to Vee?",
-    "expected_answer": "She had spent two years beside Cassie and had seen it from inside the comparison: the same room, the same moment, a man's eyes moving over the both of them and warming on Vee, going easy and unbothered on Cassie, the way they'd go on an older woman, on a kid, on a man he was glad enough to meet and would never think about again.",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "PARTIAL",
-    "source_scene": "scenes/the-meet-cute.md"
-  },
-  {
     "question": "What is the nature of Randi's envy of Vee?",
     "expected_answer": "**Vee finds being seen needing intolerable** \u2014 so she gets the surfacing without the metabolizing; the need runs and has nowhere to go but back into a box.",
     "entity_name": "Randi",
@@ -7646,14 +7550,6 @@
     "stale": false,
     "last_result": "FAIL",
     "source_scene": "scenes/the-fitting.md"
-  },
-  {
-    "question": "How do men typically respond to Cassie's presence compared to other women she is with?",
-    "expected_answer": "she had spent two years beside Cassie and had seen it from inside the comparison: the same room, the same moment, a man's eyes moving over the both of them and warming on Vee, going easy and unbothered on Cassie, the way they'd go on an older woman, on a kid, on a man he was glad enough to meet and would never think about again.",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "PASS",
-    "source_scene": "scenes/the-meet-cute.md"
   },
   {
     "question": "What is Vee's hair coloring?",
@@ -7740,23 +7636,7 @@
     "expected_answer": "Cassie over on the edge of Vee's bed now with her sock feet up and her arms around her knees",
     "entity_name": "Cassie",
     "stale": false,
-    "last_result": "PARTIAL",
-    "source_scene": "scenes/cassie-before.md"
-  },
-  {
-    "question": "How does Cassie respond when a conversation partner wants to change the subject?",
-    "expected_answer": "Cassie let the pivot happen. She was good at that.",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "FAIL",
-    "source_scene": "scenes/vee-tells-cassie-fitting.md"
-  },
-  {
-    "question": "What recurring object is associated with Cassie and what does it signal about her habits?",
-    "expected_answer": "found the highlighter, and uncapped it, and looked at Vee over the reading one more time",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "FAIL",
+    "last_result": "PASS",
     "source_scene": "scenes/cassie-before.md"
   },
   {
@@ -7824,14 +7704,6 @@
     "source_scene": "scenes/brunch-fitting-randi.md"
   },
   {
-    "question": "What is the dynamic of the relationship between Cassie and Vee as shown through stable behavioral patterns?",
-    "expected_answer": "because it was Cassie, because the gladness in Cassie always had a flat dry floor under it, she tipped her head",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "PARTIAL",
-    "source_scene": "scenes/cassie-before.md"
-  },
-  {
     "question": "What is Pace's pattern of anticipating Vee's physical needs or comfort?",
     "expected_answer": "And the house was warm.",
     "entity_name": "Pace",
@@ -7846,6 +7718,14 @@
     "stale": false,
     "last_result": "PARTIAL",
     "source_scene": "scenes/vee-tells-cassie-fitting.md"
+  },
+  {
+    "question": "What is the dynamic of the relationship between Cassie and Vee as shown through stable behavioral patterns?",
+    "expected_answer": "because it was Cassie, because the gladness in Cassie always had a flat dry floor under it, she tipped her head",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/cassie-before.md"
   },
   {
     "question": "What academic achievement does Vee describe to Pace?",
@@ -7878,14 +7758,6 @@
     "stale": false,
     "last_result": "FAIL",
     "source_scene": "meta/meta-arch-bible.md"
-  },
-  {
-    "question": "How observant is Cassie of people around her?",
-    "expected_answer": "Cassie, two tables over, looked up at the small movement. Her eyes flicked from Randi's face down to the lap-region under the table and back up again. Her face did not change.",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "PARTIAL",
-    "source_scene": "scenes/the-meet-cute.md"
   },
   {
     "question": "What is Vee's self-concept around whether good things happen to her?",
@@ -7944,14 +7816,6 @@
     "source_scene": "scenes/vee-tells-cassie-dinner.md"
   },
   {
-    "question": "How does Cassie use her headphones?",
-    "expected_answer": "headphones in, the volume low enough that she sometimes laughed at things people said two tables away.",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "PASS",
-    "source_scene": "scenes/the-meet-cute.md"
-  },
-  {
     "question": "What are the two nested levels of tragedy in Vivienne's story?",
     "expected_answer": "**Local:** Without Randi as the specific third, the same man with the same methods could have been an unbelievable gift \u2014 a healing balm, perhaps a romance for the ages. The threesome itself was not the wound. The threesome *with Randi* was the wound, because Randi's participation was visible proof that what Vee had thought was friendship was a coordinated project. One different variable and the catastrophe does not occur in this form. This preserves the novel's emotional resonance \u2014 the reader can grieve what Vee almost had with Pace.",
     "entity_name": "Vivienne",
@@ -7960,20 +7824,12 @@
     "source_scene": "meta/meta-arch-vivienne.md"
   },
   {
-    "question": "What is Cassie's voice and humor like?",
-    "expected_answer": "**Bone-dry humor; does not laugh at her own jokes.**",
+    "question": "How does Cassie use her headphones?",
+    "expected_answer": "headphones in, the volume low enough that she sometimes laughed at things people said two tables away.",
     "entity_name": "Cassie",
     "stale": false,
     "last_result": "PASS",
-    "source_scene": "meta/meta-arch-cassie.md"
-  },
-  {
-    "question": "What physical habit does Cassie have with her feet regardless of where she is sitting?",
-    "expected_answer": "Cassie over on the edge of Vee's bed now with her sock feet up and her arms around her knees",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "FAIL",
-    "source_scene": "scenes/cassie-before.md"
+    "source_scene": "scenes/the-meet-cute.md"
   },
   {
     "question": "What is Pace's skill set beyond woodworking?",
@@ -8000,11 +7856,19 @@
     "source_scene": "meta/meta-arch-bible.md"
   },
   {
+    "question": "What physical habit does Cassie have with her feet regardless of where she is sitting?",
+    "expected_answer": "Cassie over on the edge of Vee's bed now with her sock feet up and her arms around her knees",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/cassie-before.md"
+  },
+  {
     "question": "What is Cassie's behavioral pattern when she is paying close attention to someone?",
     "expected_answer": "She was very still in the way she got when she was paying attention, and Vee felt the attention on her like a hand on her shoulder.",
     "entity_name": "Cassie",
     "stale": false,
-    "last_result": "PARTIAL",
+    "last_result": "PASS",
     "source_scene": "scenes/vee-tells-cassie-fitting.md"
   },
   {
@@ -8288,22 +8152,6 @@
     "source_scene": "scenes/vee-tells-cassie-fitting.md"
   },
   {
-    "question": "What is the parallel between Pace and Randi in their habituated refusals?",
-    "expected_answer": "Both Pace and Randi run habituated refusals on the same architectural shape in different registers. Both prepared by family formation, deployed at a specific adult crisis, compounded across years into something that feels structural. **Randi's refusal of need; Pace's refusal to read the emotional after-register.** Both are recognized by the other as character rather than habit. The friendship and the love run partly on this mutual misreading.",
-    "entity_name": "Pace",
-    "stale": false,
-    "last_result": "PARTIAL",
-    "source_scene": "meta/meta-arch-pace.md"
-  },
-  {
-    "question": "What is Cassie's meet-cute observation about Pace and Randi, and what does it mean?",
-    "expected_answer": "Cassie's meet-cute observation \u2014 *\"He looked at her the way you'd look at somebody's great-aunt\"* \u2014 is **not a warning about Pace, and not a dehumanization of Randi**",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "PARTIAL",
-    "source_scene": "meta/meta-arch-cassie.md"
-  },
-  {
     "question": "What is Cassie's living situation and what does her dorm room look like?",
     "expected_answer": "Vee's best friend and roommate, two years running.",
     "entity_name": "Cassie",
@@ -8312,12 +8160,12 @@
     "source_scene": "meta/meta-arch-cassie.md"
   },
   {
-    "question": "What does Cassie typically bring to class and how does she organize herself?",
-    "expected_answer": "with Cassie beside her unpacking a granola bar and the wrong textbook and then the right one.",
-    "entity_name": "Cassie",
+    "question": "What is the parallel between Pace and Randi in their habituated refusals?",
+    "expected_answer": "Both Pace and Randi run habituated refusals on the same architectural shape in different registers. Both prepared by family formation, deployed at a specific adult crisis, compounded across years into something that feels structural. **Randi's refusal of need; Pace's refusal to read the emotional after-register.** Both are recognized by the other as character rather than habit. The friendship and the love run partly on this mutual misreading.",
+    "entity_name": "Pace",
     "stale": false,
-    "last_result": "FAIL",
-    "source_scene": "scenes/together-in-class.md"
+    "last_result": "PARTIAL",
+    "source_scene": "meta/meta-arch-pace.md"
   },
   {
     "question": "What boots is Vee wearing and how do they fit her?",
@@ -8344,6 +8192,14 @@
     "source_scene": "scenes/vee-tells-cassie-fitting.md"
   },
   {
+    "question": "What is Cassie's typical appearance and clothing style?",
+    "expected_answer": "She was in shorts and yesterday's shirt and the cap and she looked exactly like what she was, which was a person who had a lab at noon and no particular feelings about the yellow one on Draper.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/together-in-class.md"
+  },
+  {
     "question": "What are the three appetites Randi develops toward Vee, and in what order do they ignite?",
     "expected_answer": "**(c) The loose aliveness-need Pace awakened.** Already running before Vee. At the pointing game, (c) lurches toward a possible object \u2014 the involuntary *Yes* is (c) recognizing, pre-articulately, that *that one* might feed it. Randi is never cool about Vee after the pointing game.",
     "entity_name": "Randi",
@@ -8355,6 +8211,14 @@
     "question": "What is Vee's relationship to the shirt Pace made her?",
     "expected_answer": "You've been sleeping in that shirt all week.",
     "entity_name": "Vee",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/vee-tells-cassie-fitting.md"
+  },
+  {
+    "question": "What is Cassie's pattern when Vee redirects or pivots away from an emotional moment?",
+    "expected_answer": "Cassie let the pivot happen. She was good at that.",
+    "entity_name": "Cassie",
     "stale": false,
     "last_result": "PASS",
     "source_scene": "scenes/vee-tells-cassie-fitting.md"
@@ -8448,6 +8312,14 @@
     "source_scene": "meta/meta-arch-bible.md"
   },
   {
+    "question": "What is Cassie's characteristic verbal sign-off or minimal affirmation?",
+    "expected_answer": "\"Okay,\" Cassie said, soft, waiting.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/cassie-before.md"
+  },
+  {
     "question": "What is Randi's relationship to being looked at?",
     "expected_answer": "the thing she had built her whole adult life around being looked at for",
     "entity_name": "Randi",
@@ -8472,20 +8344,28 @@
     "source_scene": "scenes/vee-tells-cassie-fitting.md"
   },
   {
+    "question": "How observant is Cassie of people around her?",
+    "expected_answer": "Cassie, two tables over, looked up at the small movement. Her eyes flicked from Randi's face down to the lap-region under the table and back up again. Her face did not change.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/the-meet-cute.md"
+  },
+  {
+    "question": "What is Cassie's physical tell for signaling recognition of a joke or dry line?",
+    "expected_answer": "Her tell is a **slightly cocked eyebrow she withholds for a beat** \u2014 to see if you recognize the line before she confirms it.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "meta/meta-arch-cassie.md"
+  },
+  {
     "question": "What does Pace's flannel shirt smell like?",
     "expected_answer": "It smelled of soap and of a man and of the inside of a gym bag, and of her own wet hair where it had been pressed to her neck the whole drive.",
     "entity_name": "Pace",
     "stale": false,
     "last_result": "PASS",
     "source_scene": "scenes/hiking-rainstorm.md"
-  },
-  {
-    "question": "How is Cassie's asexuality handled in the narrative?",
-    "expected_answer": "She reads as **asexual** \u2014 but this **never surfaces, is never named, and is never any character's observation.**",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "FAIL",
-    "source_scene": "meta/meta-arch-cassie.md"
   },
   {
     "question": "What is the temperature and atmosphere Pace keeps in his home?",
@@ -8496,36 +8376,12 @@
     "source_scene": "scenes/the-bench.md"
   },
   {
-    "question": "What is Cassie's physical tell for signaling recognition of a joke or dry line?",
-    "expected_answer": "Her tell is a **slightly cocked eyebrow she withholds for a beat** \u2014 to see if you recognize the line before she confirms it.",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "PASS",
-    "source_scene": "meta/meta-arch-cassie.md"
-  },
-  {
-    "question": "What is Cassie's pattern when Vee redirects or pivots away from an emotional moment?",
-    "expected_answer": "Cassie let the pivot happen. She was good at that.",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "PASS",
-    "source_scene": "scenes/vee-tells-cassie-fitting.md"
-  },
-  {
     "question": "What are Vee's habits around arriving to class?",
     "expected_answer": "Vee got there early the way she always got there early and took her usual two-thirds of the way back, on the aisle",
     "entity_name": "Vee",
     "stale": false,
     "last_result": "FAIL",
     "source_scene": "scenes/together-in-class.md"
-  },
-  {
-    "question": "What is Cassie's function as the control case for genuine friendship?",
-    "expected_answer": "Anchors what **genuine friendship looks like** \u2014 warmth without agenda.",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "PARTIAL",
-    "source_scene": "meta/meta-arch-cassie.md"
   },
   {
     "question": "How does Randi do her makeup and what does it reveal about her?",
@@ -8544,20 +8400,28 @@
     "source_scene": "meta/meta-arch-bible.md"
   },
   {
+    "question": "What is Cassie's aesthetic category in the novel's three-way contrast?",
+    "expected_answer": "Cassie is the **un-coded third model** against Vee and Randi \u2014 three relationships to appearance, three aesthetic orders:",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "meta/meta-arch-cassie.md"
+  },
+  {
+    "question": "What is Cassie's function as the control case for genuine friendship?",
+    "expected_answer": "Anchors what **genuine friendship looks like** \u2014 warmth without agenda.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "meta/meta-arch-cassie.md"
+  },
+  {
     "question": "What are the physical details of Pace's hands?",
     "expected_answer": "his hand was steady and that his fingers were thick at the knuckles in the way that meant a person used his hands for things besides writing",
     "entity_name": "Pace",
     "stale": false,
     "last_result": "FAIL",
     "source_scene": "scenes/the-meet-cute.md"
-  },
-  {
-    "question": "How does Cassie respond to social invitations or group activities?",
-    "expected_answer": "\"I've got a thing,\" she said. \"You go.\"",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "FAIL",
-    "source_scene": "scenes/together-in-class.md"
   },
   {
     "question": "What is Pace's pattern for anticipating and preparing for another person's needs without being asked?",
@@ -8672,14 +8536,6 @@
     "source_scene": "meta/meta-arch-vivienne.md"
   },
   {
-    "question": "Who is Cassie and what function does she serve in the novel?",
-    "expected_answer": "Best friend/roommate two years. A 3\u20134; instant mutual enmity with Randi needs no explanation.",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "PARTIAL",
-    "source_scene": "meta/meta-arch-bible.md"
-  },
-  {
     "question": "What is Randi's observable tell when she is concealing an emotion?",
     "expected_answer": "something had gone tight behind it, some muscle she was holding, and her thumb had found the base of her water glass and was working the edge of it, turning it a slow degree against the cloth and back.",
     "entity_name": "Randi",
@@ -8694,6 +8550,14 @@
     "stale": false,
     "last_result": "FAIL",
     "source_scene": "scenes/brunch-fitting-randi.md"
+  },
+  {
+    "question": "Who is Cassie and what function does she serve in the novel?",
+    "expected_answer": "Best friend/roommate two years. A 3\u20134; instant mutual enmity with Randi needs no explanation.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "meta/meta-arch-bible.md"
   },
   {
     "question": "What is the internal voice that restrains Vee from dressing more revealingly?",
@@ -8968,6 +8832,14 @@
     "source_scene": "scenes/brunch-fitting-randi.md"
   },
   {
+    "question": "What is Cassie's characteristic emotional register \u2014 how does her warmth manifest behaviorally?",
+    "expected_answer": "because it was Cassie, because the gladness in Cassie always had a flat dry floor under it, she tipped her head.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/vee-tells-cassie-dinner.md"
+  },
+  {
     "question": "What trained analytical skill does Vee apply outside of formal academic problems?",
     "expected_answer": "the muscle she had been developing for two years now, the eye for *how a smart person handles a problem they could handle in any of several ways*",
     "entity_name": "Vee",
@@ -9032,28 +8904,20 @@
     "source_scene": "meta/meta-arch-bible.md"
   },
   {
+    "question": "What is Cassie's structural contrast with Randi in terms of how each uses her signal?",
+    "expected_answer": "She is the **un-instrumented opposite of Randi:** Cassie *withholds* her signal until it's earned; Randi *gives hers up front to capture.*",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "meta/meta-arch-cassie.md"
+  },
+  {
     "question": "What is Vee's behavioral pattern around her appearance when leaving Pace?",
     "expected_answer": "She had not redone it to leave. She arrived put-together and left undone and did not seem to mind him seeing her undone, and he had taken it for a kind of trust and had not said so.",
     "entity_name": "Vee",
     "stale": false,
     "last_result": "PASS",
     "source_scene": "scenes/ignition-scalding.md"
-  },
-  {
-    "question": "What is Cassie's role in the novel's three-model triad of appearance?",
-    "expected_answer": "Cassie is the **un-coded third model** against Vee and Randi \u2014 three relationships to appearance, three aesthetic orders:",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "PASS",
-    "source_scene": "meta/meta-arch-cassie.md"
-  },
-  {
-    "question": "What is Cassie's physical habit when sitting?",
-    "expected_answer": "Cassie over on the edge of Vee's bed now with her sock feet up and her arms around her knees",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "FAIL",
-    "source_scene": "scenes/vee-tells-cassie-dinner.md"
   },
   {
     "question": "What is Cassie's car and how should it be handled on the page?",
@@ -9136,14 +9000,6 @@
     "source_scene": "scenes/brunch-fitting-randi.md"
   },
   {
-    "question": "Why can Cassie see through Randi when no one else can?",
-    "expected_answer": "**Her plainness is the unstated source of her clear sight.** No skin in the appearance economy \u2014 and (author-knowledge) none in the sexual economy either \u2014 so she reads Randi for *operation* instead of being caught in the beam.",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "PARTIAL",
-    "source_scene": "meta/meta-arch-cassie.md"
-  },
-  {
     "question": "What is the nature of Randi's hate for Pace, and why is it 'structurally orphaned'?",
     "expected_answer": "Randi hates Pace for making her into a person who needs. He undid her at the level of her organizing principle. She did not consent to the transformation. He did not ask.",
     "entity_name": "Randi",
@@ -9152,12 +9008,28 @@
     "source_scene": "meta/meta-arch-randi.md"
   },
   {
+    "question": "What are Cassie's physical behavioral tells when she is paying attention or processing information?",
+    "expected_answer": "**The highlighter goes down the moment Vee walks in** \u2014 she reads Vee instantly; the put-down is the tell that her full attention is now on her friend.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "meta/meta-arch-cassie.md"
+  },
+  {
     "question": "How does Vee respond when she thinks she may have been seen doing something she wants to hide?",
     "expected_answer": "had anyone seen? She turned and looked at the courtyard \u2014 empty, gone gold in the low sun, nobody on the benches. She looked up at the dorm, the bank of windows, all those lit and unlit squares with anyone behind any of them, and her heart went fast, scanning, counting the dark ones, the ones where someone could have been standing, looking down",
     "entity_name": "Vee",
     "stale": false,
     "last_result": "PASS",
     "source_scene": "scenes/brunch-fitting-randi.md"
+  },
+  {
+    "question": "What is Cassie's physical habit when sitting?",
+    "expected_answer": "Cassie over on the edge of Vee's bed now with her sock feet up and her arms around her knees",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/vee-tells-cassie-dinner.md"
   },
   {
     "question": "How does Randi typically introduce herself?",
@@ -9228,7 +9100,7 @@
     "expected_answer": "Cassie's whole face was open with it, glad, all the way in",
     "entity_name": "Cassie",
     "stale": false,
-    "last_result": "FAIL",
+    "last_result": "PASS",
     "source_scene": "scenes/cassie-before.md"
   },
   {
@@ -9280,14 +9152,6 @@
     "source_scene": "scenes/the-meet-cute.md"
   },
   {
-    "question": "What is Cassie's characteristic emotional pattern \u2014 how does her warmth typically coexist with skepticism?",
-    "expected_answer": "because it was Cassie, because the gladness in Cassie always had a flat dry floor under it, she tipped her head",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "PASS",
-    "source_scene": "scenes/cassie-before.md"
-  },
-  {
     "question": "What is Vivienne's relationship to the no she says at the threesome, and what does it represent architecturally?",
     "expected_answer": "She keeps what she became. The reframe Pace gave her body is hers. The bravery is hers. The capacities are hers. Her shame is hers \u2014 kept, transformed, ownable as fuel. What she loses is the framework the year built, retroactively recategorized by the kiss. She keeps the no. She walks out ascendant and permanently hungry, both at once, neither canceling the other. She is the only carrier who walks out with the long spoon.",
     "entity_name": "Vivienne",
@@ -9336,20 +9200,28 @@
     "source_scene": "scenes/the-meet-cute.md"
   },
   {
-    "question": "What is Cassie's physical tell when she is paying attention?",
-    "expected_answer": "**The highlighter goes down the moment Vee walks in** \u2014 she reads Vee instantly; the put-down is the tell that her full attention is now on her friend.",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "PASS",
-    "source_scene": "meta/meta-arch-cassie.md"
-  },
-  {
     "question": "What is the relationship between Pace's mathematical discipline and his psychological blind spot?",
     "expected_answer": "He is being trained in the practice of believing nothing he has not derived from first principles. This compounds the blindness. Inside mathematics he is rigorous. Outside, he applies a different procedure and does not notice the discrepancy.",
     "entity_name": "Pace",
     "stale": false,
     "last_result": "PASS",
     "source_scene": "meta/meta-arch-pace.md"
+  },
+  {
+    "question": "What is Cassie's physical tell when she is paying attention?",
+    "expected_answer": "**The highlighter goes down the moment Vee walks in** \u2014 she reads Vee instantly; the put-down is the tell that her full attention is now on her friend.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "FAIL",
+    "source_scene": "meta/meta-arch-cassie.md"
+  },
+  {
+    "question": "What sport does Cassie play and how does it relate to her physical description?",
+    "expected_answer": "**Softball (spring) and basketball (winter); any rec team given the chance.**",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "meta/meta-arch-cassie.md"
   },
   {
     "question": "Where does Pace live?",
@@ -9368,14 +9240,6 @@
     "source_scene": "scenes/the-bench.md"
   },
   {
-    "question": "What sport does Cassie play and how does it relate to her physical description?",
-    "expected_answer": "**Softball (spring) and basketball (winter); any rec team given the chance.**",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "PARTIAL",
-    "source_scene": "meta/meta-arch-cassie.md"
-  },
-  {
     "question": "What is Pace's relationship to Vee's emotional or physical state \u2014 does he attend to it?",
     "expected_answer": "He had been waiting. He had been on his knees in front of her with his face turned up to where her face would be when she opened her eyes, and he had been waiting for her to open them",
     "entity_name": "Pace",
@@ -9390,22 +9254,6 @@
     "stale": false,
     "last_result": "PARTIAL",
     "source_scene": "scenes/together-in-class.md"
-  },
-  {
-    "question": "Where does Cassie prefer to spend time and how should her venue preferences be rendered?",
-    "expected_answer": "**A sports bar, not a trendy coffee shop.**",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "PASS",
-    "source_scene": "meta/meta-arch-cassie.md"
-  },
-  {
-    "question": "What is the craft rule for Cassie's single unguarded verbal response?",
-    "expected_answer": "***\"Oh, Vee\"* is her single moment of unguarded response** \u2014 reserve it.",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "PASS",
-    "source_scene": "meta/meta-arch-cassie.md"
   },
   {
     "question": "What does Cassie look like physically?",
@@ -9424,12 +9272,28 @@
     "source_scene": "scenes/the-meet-cute.md"
   },
   {
+    "question": "Where does Cassie prefer to spend time and how should her venue preferences be rendered?",
+    "expected_answer": "**A sports bar, not a trendy coffee shop.**",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "meta/meta-arch-cassie.md"
+  },
+  {
     "question": "What recurring object is associated with Pace and his domestic space?",
     "expected_answer": "He had a quilt pulled across the two of them, his own quilt, the one that lived on the back of the couch and smelled like him because it had been on his bed before he had put it out here for the cooler months.",
     "entity_name": "Pace",
     "stale": false,
     "last_result": "FAIL",
     "source_scene": "scenes/porch-scene.md"
+  },
+  {
+    "question": "What is the rule for the phrase 'Oh, Vee' and when should it be used?",
+    "expected_answer": "Note: in `vee-tells-cassie-dinner.md` it was deliberately *not* used \u2014 the moment there closes warm and the dread stays structural; the unguarded \"Oh, Vee\" is held for a beat that earns it.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "meta/meta-arch-cassie.md"
   },
   {
     "question": "What is Vee's relationship with her parents and how do they differ?",
@@ -9448,14 +9312,6 @@
     "source_scene": "scenes/the-fitting.md"
   },
   {
-    "question": "Why is Cassie able to see Randi clearly when others cannot?",
-    "expected_answer": "**Her plainness is the unstated source of her clear sight.** No skin in the appearance economy \u2014 and (author-knowledge) none in the sexual economy either \u2014 so she reads Randi for *operation* instead of being caught in the beam.",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "PARTIAL",
-    "source_scene": "meta/meta-arch-cassie.md"
-  },
-  {
     "question": "What physical sensation does Vee associate with the approach of saying something emotionally exposed?",
     "expected_answer": "She had imagined saying them out loud and felt the heat come up the back of her neck at the imagining.",
     "entity_name": "Vee",
@@ -9470,14 +9326,6 @@
     "stale": false,
     "last_result": "PASS",
     "source_scene": "scenes/the-froyo-walk.md"
-  },
-  {
-    "question": "What is the over-feed signal for Cassie, and what should a writer do when it triggers?",
-    "expected_answer": "Rendered **almost entirely as effect-on-Vee and she-was-right** \u2014 **no standalone interiority.**",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "PASS",
-    "source_scene": "meta/meta-arch-cassie.md"
   },
   {
     "question": "What is the dynamic of Vee and Cassie's friendship?",
@@ -9520,14 +9368,6 @@
     "source_scene": "scenes/randis-walk-of-shame.md"
   },
   {
-    "question": "What is Cassie's relationship to sexuality and how should it be handled on the page?",
-    "expected_answer": "She reads as **asexual** \u2014 but this **never surfaces, is never named, and is never any character's observation.**",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "PASS",
-    "source_scene": "meta/meta-arch-cassie.md"
-  },
-  {
     "question": "How did Pace's fantasy life shape his method of seeing women?",
     "expected_answer": "Fantasy refuge \u2014 sword and sorcery. The chivalric frame from years of constructing imagined courtships gave his method its grammar. He learned to see women by practicing seeing women he invented.",
     "entity_name": "Pace",
@@ -9552,16 +9392,8 @@
     "source_scene": "scenes/porch-scene.md"
   },
   {
-    "question": "What is the structural contrast between Cassie and Randi in how they deploy social signals?",
-    "expected_answer": "She is the **un-instrumented opposite of Randi:** Cassie *withholds* her signal until it's earned; Randi *gives hers up front to capture.*",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "PASS",
-    "source_scene": "meta/meta-arch-cassie.md"
-  },
-  {
-    "question": "What is the craft rule for Cassie's interiority and point of view on the page?",
-    "expected_answer": "Rendered **almost entirely as effect-on-Vee and she-was-right** \u2014 **no standalone interiority.**",
+    "question": "What is Cassie's voice and humor like?",
+    "expected_answer": "**Bone-dry humor; does not laugh at her own jokes.**",
     "entity_name": "Cassie",
     "stale": false,
     "last_result": "PASS",
@@ -9576,8 +9408,16 @@
     "source_scene": "scenes/vee-tells-cassie-fitting.md"
   },
   {
-    "question": "What is Cassie's voice and humor like?",
-    "expected_answer": "**Bone-dry humor; does not laugh at her own jokes.**",
+    "question": "What is the structural contrast between Cassie and Randi in how they deploy social signals?",
+    "expected_answer": "She is the **un-instrumented opposite of Randi:** Cassie *withholds* her signal until it's earned; Randi *gives hers up front to capture.*",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "meta/meta-arch-cassie.md"
+  },
+  {
+    "question": "What is the craft rule for Cassie's interiority and point of view on the page?",
+    "expected_answer": "Rendered **almost entirely as effect-on-Vee and she-was-right** \u2014 **no standalone interiority.**",
     "entity_name": "Cassie",
     "stale": false,
     "last_result": "PASS",
@@ -9592,11 +9432,11 @@
     "source_scene": "scenes/porch-scene.md"
   },
   {
-    "question": "What is the rule for the phrase 'Oh, Vee' and when should it be used?",
-    "expected_answer": "Note: in `vee-tells-cassie-dinner.md` it was deliberately *not* used \u2014 the moment there closes warm and the dread stays structural; the unguarded \"Oh, Vee\" is held for a beat that earns it.",
+    "question": "What is the meet-cute observation Cassie makes about Pace and Randi, and how should it be understood?",
+    "expected_answer": "Cassie's meet-cute observation \u2014 *\"He looked at her the way you'd look at somebody's great-aunt\"* \u2014 is **not a warning about Pace, and not a dehumanization of Randi**",
     "entity_name": "Cassie",
     "stale": false,
-    "last_result": "PASS",
+    "last_result": "PARTIAL",
     "source_scene": "meta/meta-arch-cassie.md"
   },
   {
@@ -9606,14 +9446,6 @@
     "stale": false,
     "last_result": "FAIL",
     "source_scene": "scenes/hiking-rainstorm.md"
-  },
-  {
-    "question": "What is the meet-cute observation Cassie makes about Pace and Randi, and how should it be understood?",
-    "expected_answer": "Cassie's meet-cute observation \u2014 *\"He looked at her the way you'd look at somebody's great-aunt\"* \u2014 is **not a warning about Pace, and not a dehumanization of Randi**",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "PASS",
-    "source_scene": "meta/meta-arch-cassie.md"
   },
   {
     "question": "How does Vivienne's week organize around Pace versus Randi?",
@@ -9640,14 +9472,6 @@
     "source_scene": "scenes/porch-scene.md"
   },
   {
-    "question": "How does Cassie communicate observations \u2014 what is her characteristic delivery style?",
-    "expected_answer": "Cassie said it in the same matter-of-fact voice she said everything in, the voice of someone reporting the weather, the voice of someone who had no particular stake in the observation but was reporting it because it was a thing she had observed.",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "PASS",
-    "source_scene": "scenes/the-meet-cute.md"
-  },
-  {
     "question": "What is Randi's physical build and how does she carry herself?",
     "expected_answer": "Down the flat of her stomach to the small deep navel, the smooth bare mound below it, the wet shine of her already showing between her thighs; down the long clean lines of her legs to her feet and the small painted toes",
     "entity_name": "Randi",
@@ -9656,20 +9480,20 @@
     "source_scene": "scenes/ignition-scalding.md"
   },
   {
-    "question": "What is the structural function Cassie serves as the 'knower' character and what are its limits?",
-    "expected_answer": "**Cassie registers structure, not character.** She perceives *arrangement, cost, wrongness-of-fit, her friend receding* \u2014 and reports them as flat observations or dry jokes, never as articulated accusations, because she can see the *readout* and not the *mechanism.*",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "PASS",
-    "source_scene": "meta/meta-arch-cassie.md"
-  },
-  {
     "question": "What is Vee's characteristic approach to preparing something emotionally significant she wants to say?",
     "expected_answer": "It had assembled itself in her piece by piece \u2014 first as a feeling she could not say, then as the shape of an image, then as the actual words.",
     "entity_name": "Vee",
     "stale": false,
     "last_result": "FAIL",
     "source_scene": "scenes/porch-scene.md"
+  },
+  {
+    "question": "What is Cassie's meet-cute observation about Pace and Randi, and what does it mean?",
+    "expected_answer": "Cassie's meet-cute observation \u2014 *\"He looked at her the way you'd look at somebody's great-aunt\"* \u2014 is **not a warning about Pace, and not a dehumanization of Randi**",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "meta/meta-arch-cassie.md"
   },
   {
     "question": "What is Vee's habitual social defense mechanism when emotionally exposed?",
@@ -9694,14 +9518,6 @@
     "stale": false,
     "last_result": "PASS",
     "source_scene": "meta/meta-arch-vivienne.md"
-  },
-  {
-    "question": "What is Cassie's relationship to Vee and why does it matter in the novel's emotional architecture?",
-    "expected_answer": "Vee's best friend and roommate, two years running.",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "PARTIAL",
-    "source_scene": "meta/meta-arch-cassie.md"
   },
   {
     "question": "What are Pace's physical tells when he is emotionally affected or processing something significant?",
@@ -9752,6 +9568,14 @@
     "source_scene": "scenes/origin-campus-walk.md"
   },
   {
+    "question": "What is Cassie's relationship to Randi in terms of how she watches her?",
+    "expected_answer": "Cassie, two tables over, looked up at the small movement. Her eyes flicked from Randi's face down to the lap-region under the table and back up again.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/the-meet-cute.md"
+  },
+  {
     "question": "What is Randi's behavioral pattern when she is doing something she does not want to broadcast?",
     "expected_answer": "Randi shifted in her chair. Her hand was no longer on her laptop. It had moved into her lap, below the table, the way a hand moves when it is going to do something its owner does not particularly want to broadcast.",
     "entity_name": "Randi",
@@ -9763,14 +9587,6 @@
     "question": "What is Randi's observable habit with her coffee cup?",
     "expected_answer": "Randi's coffee was at her right elbow. She lifted it and took a small sip and set it back down at the precise angle she had taken it from.",
     "entity_name": "Randi",
-    "stale": false,
-    "last_result": "PARTIAL",
-    "source_scene": "scenes/the-meet-cute.md"
-  },
-  {
-    "question": "What is Cassie's relationship to Randi in terms of how she watches her?",
-    "expected_answer": "Cassie, two tables over, looked up at the small movement. Her eyes flicked from Randi's face down to the lap-region under the table and back up again.",
-    "entity_name": "Cassie",
     "stale": false,
     "last_result": "PARTIAL",
     "source_scene": "scenes/the-meet-cute.md"
@@ -9800,6 +9616,14 @@
     "source_scene": "scenes/ignition-scalding.md"
   },
   {
+    "question": "What is Cassie's observable experience of being overlooked by men in the presence of Vee?",
+    "expected_answer": "She had spent two years beside Cassie and had seen it from inside the comparison: the same room, the same moment, a man's eyes moving over the both of them and warming on Vee, going easy and unbothered on Cassie, the way they'd go on an older woman, on a kid, on a man he was glad enough to meet and would never think about again.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/the-meet-cute.md"
+  },
+  {
     "question": "How does Pace handle being introduced to multiple people at a table?",
     "expected_answer": "He did glance at Randi then, briefly \u2014 the courtesy of a stranger acknowledging that there was another person at the table \u2014 and at Cassie at the next table over, the same courtesy.",
     "entity_name": "Pace",
@@ -9813,14 +9637,6 @@
     "entity_name": "Pace",
     "stale": false,
     "last_result": "PASS",
-    "source_scene": "scenes/the-meet-cute.md"
-  },
-  {
-    "question": "What is Cassie's observable experience of being overlooked by men in the presence of Vee?",
-    "expected_answer": "She had spent two years beside Cassie and had seen it from inside the comparison: the same room, the same moment, a man's eyes moving over the both of them and warming on Vee, going easy and unbothered on Cassie, the way they'd go on an older woman, on a kid, on a man he was glad enough to meet and would never think about again.",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "PARTIAL",
     "source_scene": "scenes/the-meet-cute.md"
   },
   {
@@ -9888,14 +9704,6 @@
     "source_scene": "scenes/the-meet-cute.md"
   },
   {
-    "question": "What is Cassie's physical setup and habits when working in a public space?",
-    "expected_answer": "Cassie sat with her own work spread out in her own quiet manner, headphones in, the volume low enough that she sometimes laughed at things people said two tables away.",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "PARTIAL",
-    "source_scene": "scenes/the-meet-cute.md"
-  },
-  {
     "question": "What behavioral pattern does Vee show around leaving Pace's house?",
     "expected_answer": "She had not redone it to leave. She arrived put-together and left undone and did not seem to mind him seeing her undone, and he had taken it for a kind of trust and had not said so.",
     "entity_name": "Vee",
@@ -9912,11 +9720,11 @@
     "source_scene": "scenes/ignition-scalding.md"
   },
   {
-    "question": "What is Cassie's pattern of noticing things others miss?",
-    "expected_answer": "Cassie, two tables over, looked up at the small movement. Her eyes flicked from Randi's face down to the lap-region under the table and back up again. Her face did not change.",
+    "question": "What is Cassie's physical setup and habits when working in a public space?",
+    "expected_answer": "Cassie sat with her own work spread out in her own quiet manner, headphones in, the volume low enough that she sometimes laughed at things people said two tables away.",
     "entity_name": "Cassie",
     "stale": false,
-    "last_result": "FAIL",
+    "last_result": "PASS",
     "source_scene": "scenes/the-meet-cute.md"
   },
   {
@@ -9934,6 +9742,14 @@
     "stale": false,
     "last_result": "PASS",
     "source_scene": "scenes/ignition-scalding.md"
+  },
+  {
+    "question": "What is Cassie's pattern of noticing things others miss?",
+    "expected_answer": "Cassie, two tables over, looked up at the small movement. Her eyes flicked from Randi's face down to the lap-region under the table and back up again. Her face did not change.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/the-meet-cute.md"
   },
   {
     "question": "What perks does Randi's board position give her in the house?",
@@ -10056,6 +9872,14 @@
     "source_scene": "scenes/ignition-scalding.md"
   },
   {
+    "question": "What sports does Cassie play and what function does her sport schedule serve in the novel?",
+    "expected_answer": "**Softball (spring) and basketball (winter); any rec team given the chance.**",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "meta/meta-arch-cassie.md"
+  },
+  {
     "question": "What does Randi's hair look like, and when does she wear it down?",
     "expected_answer": "Her black hair was loose on the pillow, out of its tie, damp at the temples, and it was the only time the hair was ever loose, after, when there was no one left to see it but him.",
     "entity_name": "Randi",
@@ -10096,28 +9920,12 @@
     "source_scene": "scenes/together-in-class.md"
   },
   {
-    "question": "How does Cassie respond to social performance or charm bids from others?",
-    "expected_answer": "Cassie looked at her for a second.",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "PARTIAL",
-    "source_scene": "scenes/together-in-class.md"
-  },
-  {
     "question": "What is Pace's age?",
     "expected_answer": "He was twenty-two and he had not had much of this in his life and the path was pleasant to be walked down even with the seeing of it.",
     "entity_name": "Pace",
     "stale": false,
     "last_result": "FAIL",
     "source_scene": "scenes/ignition-scalding.md"
-  },
-  {
-    "question": "How does Vee physically respond when a social moment goes awkward or wrong?",
-    "expected_answer": "Vee felt the small wrongness of it the way you feel a stair that isn't where your foot expected, and her face did the thing it did with wrongness, which was to smooth it.",
-    "entity_name": "Vee",
-    "stale": false,
-    "last_result": "FAIL",
-    "source_scene": "scenes/together-in-class.md"
   },
   {
     "question": "What is Cassie's typical appearance and style of dress?",
@@ -10128,17 +9936,9 @@
     "source_scene": "scenes/together-in-class.md"
   },
   {
-    "question": "What is Cassie's habitual manner of speaking?",
-    "expected_answer": "\"Cassie says about four words a day,\" she said, leaning in, making it warm, making it a feature.",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "PASS",
-    "source_scene": "scenes/together-in-class.md"
-  },
-  {
-    "question": "What is Cassie's preparation and organization pattern for class?",
-    "expected_answer": "with Cassie beside her unpacking a granola bar and the wrong textbook and then the right one",
-    "entity_name": "Cassie",
+    "question": "How does Vee physically respond when a social moment goes awkward or wrong?",
+    "expected_answer": "Vee felt the small wrongness of it the way you feel a stair that isn't where your foot expected, and her face did the thing it did with wrongness, which was to smooth it.",
+    "entity_name": "Vee",
     "stale": false,
     "last_result": "FAIL",
     "source_scene": "scenes/together-in-class.md"
@@ -10240,6 +10040,14 @@
     "source_scene": "scenes/the-pointing-game.md"
   },
   {
+    "question": "What does Cassie look like physically?",
+    "expected_answer": "Short and boxy \u2014 would tend toward fat but heavy intramural sport holds it off.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "meta/meta-arch-cassie.md"
+  },
+  {
     "question": "What is Pace's relationship to the frames or stories people use to hide their desires?",
     "expected_answer": "He let her have the frame.",
     "entity_name": "Pace",
@@ -10272,12 +10080,12 @@
     "source_scene": "scenes/the-pointing-game.md"
   },
   {
-    "question": "What is Cassie's habit regarding her dorm room window?",
-    "expected_answer": "The window was cracked its two inches the way Cassie kept it, because the building ran the heat like it was trying to cook something and Cassie would rather have the cold than the cooking",
+    "question": "What is Cassie's academic background?",
+    "expected_answer": "Pre-nursing (echoes Vee's mother).",
     "entity_name": "Cassie",
     "stale": false,
-    "last_result": "FAIL",
-    "source_scene": "scenes/cassie-before.md"
+    "last_result": "PARTIAL",
+    "source_scene": "meta/meta-arch-cassie.md"
   },
   {
     "question": "What is Pace's observable pattern when managing someone toward a desired outcome?",
@@ -10446,6 +10254,14 @@
     "stale": false,
     "last_result": "PARTIAL",
     "source_scene": "scenes/the-bench.md"
+  },
+  {
+    "question": "How alert is Cassie to the behavior of people around her despite appearing absorbed in her own work?",
+    "expected_answer": "headphones in, the volume low enough that she sometimes laughed at things people said two tables away",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/the-meet-cute.md"
   },
   {
     "question": "What perfume or scent does Randi wear?",
@@ -10720,6 +10536,30 @@
     "source_scene": "scenes/the-bench.md"
   },
   {
+    "question": "What is the living arrangement between Cassie and Vee?",
+    "expected_answer": "Standard double with Vee \u2014 **bunk beds (Vee took the top without being asked)**",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "meta/meta-arch-cassie.md"
+  },
+  {
+    "question": "How does Cassie monitor the people around her while appearing to focus on her own work?",
+    "expected_answer": "headphones in, the volume low enough that she sometimes laughed at things people said two tables away.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/the-meet-cute.md"
+  },
+  {
+    "question": "How is Cassie's asexuality handled in the narrative?",
+    "expected_answer": "She reads as **asexual** \u2014 but this **never surfaces, is never named, and is never any character's observation.**",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "meta/meta-arch-cassie.md"
+  },
+  {
     "question": "What does Pace give focused attention to?",
     "expected_answer": "Pace was studying the flavor placards with the same attention he'd given her calculus.",
     "entity_name": "Pace",
@@ -10792,6 +10632,14 @@
     "source_scene": "scenes/the-bench.md"
   },
   {
+    "question": "What is Cassie's habitual manner of speaking?",
+    "expected_answer": "\"Cassie says about four words a day,\" she said, leaning in, making it warm, making it a feature.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/together-in-class.md"
+  },
+  {
     "question": "What is Pace's clothing style at home?",
     "expected_answer": "the loose linen one he wore around the house, which was nothing like the tight fitted button-downs the boys in her register wore, and which she had begun to like the feel of and to find places to touch him through",
     "entity_name": "Pace",
@@ -10824,6 +10672,14 @@
     "source_scene": "scenes/may-i-choose.md"
   },
   {
+    "question": "What is Cassie's physical build or size like?",
+    "expected_answer": "went back to the chair and folded herself into it, feet up off the floor where they never reached",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/cassie-before.md"
+  },
+  {
     "question": "What is Vee's observable physical habit when eating unfamiliar food with someone new?",
     "expected_answer": "She watched him first. He tore a piece of bread with care for the heat, and the steam came off the two halves in the lamp-light and was gone, and he folded it around a pinch of the green-and-white salad and ate it without ceremony, and she did what he did. Tore the bread. Folded it the way he had. Brought it up not quite knowing what she'd find.",
     "entity_name": "Vee",
@@ -10853,14 +10709,6 @@
     "entity_name": "Pace",
     "stale": false,
     "last_result": "FAIL",
-    "source_scene": "scenes/cassie-before.md"
-  },
-  {
-    "question": "What is Cassie's physical build or size like?",
-    "expected_answer": "went back to the chair and folded herself into it, feet up off the floor where they never reached",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "PASS",
     "source_scene": "scenes/cassie-before.md"
   },
   {
@@ -10918,14 +10766,6 @@
     "stale": false,
     "last_result": "PASS",
     "source_scene": "scenes/may-i-choose.md"
-  },
-  {
-    "question": "What recurring physical tell does Cassie use to signal quiet acknowledgment or reserved judgment?",
-    "expected_answer": "went back to the chair and folded herself into it, feet up off the floor where they never reached, and found the highlighter, and uncapped it, and looked at Vee over the reading one more time with the small mm she did.",
-    "entity_name": "Cassie",
-    "stale": false,
-    "last_result": "PASS",
-    "source_scene": "scenes/cassie-before.md"
   },
   {
     "question": "What is Vee's experience level with hiking?",
@@ -10998,6 +10838,30 @@
     "stale": false,
     "last_result": "PARTIAL",
     "source_scene": "scenes/the-bench.md"
+  },
+  {
+    "question": "What is Cassie's characteristic verbal style?",
+    "expected_answer": "\"Cassie says about four words a day,\" she said, leaning in, making it warm, making it a feature.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/together-in-class.md"
+  },
+  {
+    "question": "What is Cassie's car and how should it be handled on the page?",
+    "expected_answer": "The squeak is a **free entrance cue** Vee recognizes before she sees the car.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "meta/meta-arch-cassie.md"
+  },
+  {
+    "question": "How does Cassie observe and report on what is happening around her?",
+    "expected_answer": "\"He looked at her like she wasn't pretty,\" Cassie said.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/the-meet-cute.md"
   },
   {
     "question": "What is the man's approach to ordering food for someone else?",
@@ -11206,5 +11070,141 @@
     "stale": false,
     "last_result": "PARTIAL",
     "source_scene": "scenes/hiking-rainstorm.md"
+  },
+  {
+    "question": "How do men typically respond to Cassie's presence compared to other women she is with?",
+    "expected_answer": "she had spent two years beside Cassie and had seen it from inside the comparison: the same room, the same moment, a man's eyes moving over the both of them and warming on Vee, going easy and unbothered on Cassie, the way they'd go on an older woman, on a kid, on a man he was glad enough to meet and would never think about again.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/the-meet-cute.md"
+  },
+  {
+    "question": "What is Cassie's voice and humor like?",
+    "expected_answer": "**Bone-dry humor; does not laugh at her own jokes.**",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "meta/meta-arch-cassie.md"
+  },
+  {
+    "question": "How does Cassie respond to social invitations or group activities?",
+    "expected_answer": "\"I've got a thing,\" she said. \"You go.\"",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/together-in-class.md"
+  },
+  {
+    "question": "What is Cassie's role in the novel's three-model triad of appearance?",
+    "expected_answer": "Cassie is the **un-coded third model** against Vee and Randi \u2014 three relationships to appearance, three aesthetic orders:",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "meta/meta-arch-cassie.md"
+  },
+  {
+    "question": "What is Cassie's characteristic emotional pattern \u2014 how does her warmth typically coexist with skepticism?",
+    "expected_answer": "because it was Cassie, because the gladness in Cassie always had a flat dry floor under it, she tipped her head",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/cassie-before.md"
+  },
+  {
+    "question": "What is the craft rule for Cassie's single unguarded verbal response?",
+    "expected_answer": "***\"Oh, Vee\"* is her single moment of unguarded response** \u2014 reserve it.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "meta/meta-arch-cassie.md"
+  },
+  {
+    "question": "Why can Cassie see through Randi when no one else can?",
+    "expected_answer": "**Her plainness is the unstated source of her clear sight.** No skin in the appearance economy \u2014 and (author-knowledge) none in the sexual economy either \u2014 so she reads Randi for *operation* instead of being caught in the beam.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "meta/meta-arch-cassie.md"
+  },
+  {
+    "question": "What is the over-feed signal for Cassie, and what should a writer do when it triggers?",
+    "expected_answer": "Rendered **almost entirely as effect-on-Vee and she-was-right** \u2014 **no standalone interiority.**",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "meta/meta-arch-cassie.md"
+  },
+  {
+    "question": "What is Cassie's relationship to sexuality and how should it be handled on the page?",
+    "expected_answer": "She reads as **asexual** \u2014 but this **never surfaces, is never named, and is never any character's observation.**",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "meta/meta-arch-cassie.md"
+  },
+  {
+    "question": "What is Cassie's relationship to Vee and why does it matter in the novel's emotional architecture?",
+    "expected_answer": "Vee's best friend and roommate, two years running.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "meta/meta-arch-cassie.md"
+  },
+  {
+    "question": "How does Cassie respond to social performance or charm bids from others?",
+    "expected_answer": "Cassie looked at her for a second.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/together-in-class.md"
+  },
+  {
+    "question": "What recurring physical tell does Cassie use to signal quiet acknowledgment or reserved judgment?",
+    "expected_answer": "went back to the chair and folded herself into it, feet up off the floor where they never reached, and found the highlighter, and uncapped it, and looked at Vee over the reading one more time with the small mm she did.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/cassie-before.md"
+  },
+  {
+    "question": "Why is Cassie able to see Randi clearly when others cannot?",
+    "expected_answer": "**Her plainness is the unstated source of her clear sight.** No skin in the appearance economy \u2014 and (author-knowledge) none in the sexual economy either \u2014 so she reads Randi for *operation* instead of being caught in the beam.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "meta/meta-arch-cassie.md"
+  },
+  {
+    "question": "How does Cassie communicate observations \u2014 what is her characteristic delivery style?",
+    "expected_answer": "Cassie said it in the same matter-of-fact voice she said everything in, the voice of someone reporting the weather, the voice of someone who had no particular stake in the observation but was reporting it because it was a thing she had observed.",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/the-meet-cute.md"
+  },
+  {
+    "question": "What is Cassie's preparation and organization pattern for class?",
+    "expected_answer": "with Cassie beside her unpacking a granola bar and the wrong textbook and then the right one",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PARTIAL",
+    "source_scene": "scenes/together-in-class.md"
+  },
+  {
+    "question": "What is the structural function Cassie serves as the 'knower' character and what are its limits?",
+    "expected_answer": "**Cassie registers structure, not character.** She perceives *arrangement, cost, wrongness-of-fit, her friend receding* \u2014 and reports them as flat observations or dry jokes, never as articulated accusations, because she can see the *readout* and not the *mechanism.*",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "meta/meta-arch-cassie.md"
+  },
+  {
+    "question": "What is Cassie's habit regarding her dorm room window?",
+    "expected_answer": "The window was cracked its two inches the way Cassie kept it, because the building ran the heat like it was trying to cook something and Cassie would rather have the cold than the cooking",
+    "entity_name": "Cassie",
+    "stale": false,
+    "last_result": "PASS",
+    "source_scene": "scenes/cassie-before.md"
   }
 ]
