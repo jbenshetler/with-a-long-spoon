@@ -6,7 +6,7 @@ She lay still until the quiet held. Then she climbed down.
 
 She'd slept in his shirt with nothing under it — the way she slept in it now, wanting as little as she could manage between her skin and what was left of him in the cloth. She crossed to the window Cassie cracked every night because she liked the cold to sleep in, and shut it. Then she pulled the shirt off over her head, folded it the way it deserved, set the totem back on her pillow, and pulled a t-shirt on against the chill.
 
-Down the hall she gave herself over to her ablutions, and they started with the water, which came out of the tap cold enough to bite. She put her face into it on purpose. It went through her like a current — out the soles of her feet, she'd have sworn — and took the night with it. Whatever she'd been wallowing in at three in the morning she could decline now, in daylight, the way you decline a second drink. She came up dripping and looked at herself.
+At their own sink she gave herself over to her ablutions, and they began with the water, which ran cold enough to bite. She put her face into it on purpose, and the shock of it jerked her up out of the funk she'd been choosing all night. It was daylight. She could put the dark down now. She came up dripping and looked at herself.
 
 She had not, it turned out, washed her makeup off the night before so much as relocated it. There was mascara somewhere up near a cheekbone it had no business being near.
 
@@ -16,7 +16,7 @@ So she fixed the clown. She did the rest of her face, and it brought her up from
 
 ---
 
-She put on the long skirt — the one that meant she'd thought about where she was going — found no tights that were both clean and hers, and decided, in the way you decide things on no sleep, that she would simply be a woman with bare legs in October. The coat was the best thing she owned. She buttoned it, took an apple from the bowl by the door — the bowl the dorm kept full for exactly the kind of morning she was having, the no-time kind — and went.
+She put on the long skirt — the one that meant she'd thought about where she was going — found no tights that were both clean and hers, and decided, with the conviction of the converted, that she would simply be a woman with bare legs in October. The coat was the long one, the warm one she lived in from mid-fall on — handsome at best, never cute, but it broke the wind, which over bare legs in October was the whole point. She buttoned it, took an apple from the bowl by the door — the bowl the dorm kept full for exactly the kind of morning she was having, the no-time kind — and went.
 
 The day was a show-off. Bright, cold, so clear it looked rinsed, the last gold leaves down and crunching, the sky doing nothing but be blue. She started across it eating the apple, and her first steps were small, the careful steps of a person carrying something she didn't want to spill.
 
@@ -24,19 +24,19 @@ Then she thought: *I'm going to fix this.*
 
 It put length in her stride. She walked faster, and the cold came up the backs of her bare legs, and she found she liked it — the same cold as the water, the same clean daylight verdict, the world telling her she was awake and in it. She bit the apple. She passed the dining hall breathing griddle grease and burnt coffee out its propped doors and wanted nothing it had. She had her apple. She had a plan. She had somewhere to be.
 
-The house sat back on its lawn, white-columned, sure of itself, a place she'd looked at from the sidewalk a hundred times and never once been inside. She finished the apple on the steps, found a bin for the core like a person raised right, and knocked.
+The house sat back on its lawn, white-columned, sure of itself, a place she'd looked at longingly from the sidewalk a hundred times and never once been inside. She finished the apple on the steps, found a bin for the core like a person raised right, and pressed the bell. She heard it sound somewhere deep in the house.
 
-The door opened on a girl with the beauty of a shampoo model — the kind that comes with a wide bright smile and the whole face switched on behind it, every watt aimed at a stranger, none of it meaning a thing, because nobody feels anything real about shampoo. Coffee mug in one hand. Laptop on the hip.
+The door opened on a girl with the beauty of a shampoo model — the wide bright smile, the whole face switched on behind it, every watt of it aimed at a stranger. She'd come to the door with her coffee and opened it one-handed.
 
 "Good morning." The smile went wider by a measurable amount. "Who are you here to see?"
 
 "Randi."
 
-The girl's eyes went over Vee once, took all of it, gave back nothing but more warmth. "Oh — you're the stats friend." Not a question. Vee had told this house nothing in her life and the house had a folder on her anyway. "Come in out of the cold. There's coffee."
+The girl's eyes went over Vee once, took all of it, gave back nothing but more warmth. "Oh — you're the stats friend." Not a question. Vee had told this house nothing in her life and the house had a folder on her anyway. "Come in out of the cold. There's coffee, herbal tea — somebody made matcha."
 
 Vee stepped into a foyer hung with composites, rows of bright assembled faces in oval frames going back years, the thing she'd only ever seen the back of. She stood in it with her coat held closed and felt like she'd wandered into the lobby of a museum that hadn't yet decided whether to let her up to the paintings.
 
-"She's up." The girl was already thumbing her phone. "I'll text her. She hates getting yelled for." She said it like a house rule, which it was.
+"She's not up yet." The girl was already thumbing her phone. "I'll text her. She hates getting yelled for." She said it like a house rule, which it was.
 
 ---
 
@@ -44,11 +44,11 @@ Then Randi was at the top of the stairs in a robe, black hair loose and slept-on
 
 "Oh, honey," she said. "Come up."
 
-The room was a room no one saw. Vee knew it the second the door shut — that this was the one door in this house that got shut, that she was inside the place the place kept for itself. The bed was thrown open, unmade, still holding the warmth of her. Everything else sat in an order so quiet you only registered it as calm. The air had Randi in it: gardenia, but a cold gardenia, green at the edge, nothing sweet about it.
+Up the stairs and inside, the door shut behind them, and Vee was somewhere she'd never been — a small room, close, entirely Randi's. The bed was thrown open and unmade, still holding the shape of her. Everything else sat in an order so quiet it read as calm. The air had Randi in it: gardenia, but a cold gardenia, green at the edge, nothing sweet.
 
-Randi dropped onto the foot of the bed and pulled her feet up under her, and Vee, looking at her — barefoot, uncombed, bare-faced, and somehow already assembled, already *Randi,* before she'd done a single thing to become it — thought, *she doesn't even need the makeup,* and it wasn't fair and she didn't care that it wasn't.
+Randi dropped onto the foot of the bed, pulled her feet up under her — bare, the toenails painted sky blue — and nodded Vee into the desk chair. She'd been asleep ten minutes ago and gotten up for this. There were a few freckles across her nose, a sparse cocoa scatter she plainly never gave a thought to, bare to the morning and uncovered — where Vee had just spent ten minutes at the sink burying her own cinnamon excess, the freckles thrown across her nose and cheeks.
 
-"Sit." Randi patted the bed. "Tell me everything. You look like you've been to a war."
+"Tell me everything." Randi tipped her chin at her. "You look like you've been to a war."
 
 "I started one."
 
@@ -62,17 +62,17 @@ It came out of her in pieces, the way it does when someone's letting you tell it
 
 "Tell me she did not."
 
-"She did. Smiling the whole time." Vee pressed the heels of her hands into her eyes. "And the thing is — the *thing* is — I knew. I watched her do it. I clocked exactly what she was reaching for and I reached right back and grabbed it."
+"She did. Smiling the whole time." Vee pressed the heels of her hands into her eyes. "And the thing is — the *thing* is — I knew. I saw her dangling the hook, and I bit it anyway."
 
 "What did you do."
 
-"Waited for him to come back with the beers and asked him whether his *service* included getting the girls home safe from here, too."
+"Waited for him to come back with the drinks." She had to stop a second; she could still hear herself saying it. "And I asked him — in front of half the bar — whether his *services* included getting the girls home safe at the end of the night."
 
-Randi winced — a real one, the wince of a friend hearing the worst available version. "Oh, *no.*"
+Randi winced — the wince of a friend hearing the worst available version — and reached over and took Vee's hand.
 
-"He said *yes, sometimes, when it's required.* Which is the right answer, it's the decent answer, and I couldn't stand that it was, so I told him I didn't need him to get me home safe, I'd handle it myself, and I left him standing there holding both beers." The next part was the one she'd carried all night. "And he put them down, and he left. And I stayed. And I called a cab."
+"He said *yes. Sometimes. When it's required.*" Vee turned her hand over in Randi's and held on. "The decent answer. The *right* answer. And I couldn't stand that it was, so I told him I didn't need looking after, I'd handle myself — I took the best thing about him, that he gets people home safe, and threw it back at him like it was something to be ashamed of." Her voice dropped. "And his face just *went.* I watched it land. I'd hurt him, and the worst of it is some piece of me was glad. Then I walked off — didn't let him get a word out, left him standing there holding both our drinks. And from across the room I watched him. He didn't come after me. He didn't get angry. He stood there a while, then set the drinks down and left. Slow. And I stayed, and I called a cab."
 
-For a second Randi said nothing, which from Randi was a kind of holding.
+Randi didn't say anything for a moment. She just held on.
 
 "There was a woman behind the bar," Vee said. "Older. Closing up. She set a glass of water in front of me and told me he was a good guy, and I gave her the same line — *I don't need a man who gets all the girls home safe* — and she just kept stacking her glasses. And then she said the girls weren't looking at *him.* They were looking at my chair. They were jealous of *me.* And I'd spent the whole night —"
 
@@ -94,9 +94,9 @@ Something that had been clamped in Vee since the dance floor let go. She breathe
 
 "Not today."
 
-It came down flat, and she stopped.
+Not a suggestion — an instruction, and Vee stopped.
 
-"Today you show up having decided it in a panic, and he'll smell it on you, and you'll look like a girl who couldn't sit with herself for one day." Randi said it kindly, which only made it more final. "Tomorrow night. You sleep, you fix your face, you give it a whole day so it reads like something you *chose.* And you don't go in there sorry — sorry's easy, he already knows you're sorry. You go in there *sure.*" A beat. "He won't text you, by the way. Don't read it as a door closing. Men like that don't sulk. They leave you the room and wait to see what you walk in wearing."
+"Today you show up having decided it in a panic, and he'll smell it on you, and you'll look like a girl who couldn't sit with herself for one day." Randi said it kindly, which only made it more final. "Tomorrow night. You sleep, you fix your face, you give it a whole day so it reads like something you *chose.* And you don't go in there sorry — sorry's easy, he already knows you're sorry. You go in there *sure.*" A beat. "He won't text you, by the way — don't read it as a door closing. If he's the man you've just described to me, he doesn't sulk. He leaves you the room and waits to see what you walk in wearing."
 
 ---
 
@@ -106,13 +106,9 @@ It came down flat, and she stopped.
 
 "Not the cardigan."
 
-Vee opened her mouth.
-
-"Vee."
-
 "It's a *nice* cardigan," Vee said, which was a surrender wearing the coat of a defense, and they both knew it.
 
-"We can do better than a nice cardigan. What've you got. Walk me through it."
+"Vee." Randi let her head tilt, slow. "You have got to do better than *nice.* What've you got. Walk me through it."
 
 So Vee walked her through it — the green one she'd restyled, rayon, but it draped better than it had any right to; the black one; the —
 
@@ -126,13 +122,13 @@ And Vee lost it — the laugh came up out of nowhere and bent her over, helpless
 
 Randi pulled it together first. She lifted two fingers and turned them in a small regal spiral — *up, off* — not a word in it, a head shorter than Vee and running her like a fit model.
 
-Vee peeled the shirt off over her head and stood there in her bra, still grinning. It was easy. If anything it was good — she'd learned that about herself lately, that being looked at sat well on her, that she could stand in it and let it happen.
+Vee peeled the shirt off over her head and stood there in her bra, still grinning, and it was nothing — it was dress-up, the oldest game there is, two girls and a problem and a whole morning to solve it in. Standing in her bra in front of Randi was no event; she'd done as much for Pace.
 
-Randi looked. She came around her once, slow, reading her like a line of type.
+Then Randi looked, and that was the part Vee felt: Randi came around her once, slow, reading the line of her, and the pass of all that attention went over Vee's skin.
 
-"Well," she said. "He doesn't stand a chance."
+"Well," Randi said. "He doesn't stand a chance."
 
-Vee grinned at the floor.
+And it went straight through Vee, warm and a little ridiculous, because it was *Randi* who'd said it.
 
 Randi crossed to the closet then and opened it, and Vee got a look inside for the first time — a narrow run worked to the last inch, every hanger earning its place, the colors going bone to camel to oatmeal and ending on one deep oxblood like the last note of something. Vee made a sound. She couldn't help it.
 
@@ -156,13 +152,11 @@ Vee laughed.
 
 It was so precisely the lie Vee told about those shoes that she had nothing to say, and Randi, watching her have nothing to say, just smiled and let it go, because it had landed.
 
-"What size."
+"What size?"
 
 "Seven."
 
-"*Seven.*" The word came with a small pleasure behind it, a door found unlocked. "Get over here and sit down."
-
-She crouched at the bottom of the closet, where the shoes stood in their own ranked order, each pair faced out, and Vee sat on the edge of the bed in her bra and her long skirt and put a bare foot out, and Randi took her ankle in one hand and set it on her knee.
+"Me too." A flick of pleasure crossed Randi's face, there and gone, and Vee took it for the plain luck of it — they could share shoes after all. "Sit." She drew the desk chair around with one foot and crouched to the bottom of the closet, where the shoes stood in their ranked order, each pair faced out. Vee sat, in her bra and her long skirt, and put a bare foot out, and Randi took her ankle in one hand and set it on her knee.
 
 And there was where Vee's skin came up singing.
 
@@ -174,7 +168,7 @@ The third she didn't say anything about. She just got them onto Vee's feet — o
 
 Vee stood up into them and the floor changed under her. She'd braced to wobble. She didn't. There was a whole architecture built into the shoe she'd never once felt in a shoe, a structure that took her foot and *held* it, told it where to be — and the strange thing, the thing she turned over standing there, was that the holding didn't bind. It steadied. Being given no say in where her foot went made her surer of it, not less. She stood in a pair of heels feeling more solid than she'd felt all day.
 
-She knew without being told they cost more than a semester's books — not off any label, there wasn't one she could find, but off the way they were made, the way they'd taken her foot and meant it. She turned one question over and chose not to ask it.
+She knew without being told what they cost — not off any label, there wasn't one she could find, but off the way they were made, the way they'd taken her foot and meant it. More than a whole semester of her books. She turned the number over and decided not to finish the math.
 
 "Randi."
 
@@ -196,7 +190,7 @@ There was a long mirror on the wall and Randi turned her to it. "Look."
 
 Vee looked.
 
-Four hours ago she'd stood at a sink and found a sad clown. The woman in this glass was nobody's clown. She stood there in her bra and her long skirt and a pair of shoes worth more than her car and a stranger's silk at her throat, and there was color up high in her face and a light coming off her from somewhere, and she didn't go hunting for where. She'd have said the shoes. She'd have said the morning had turned out survivable after all. She looked, and she liked it, and she let herself like it, and behind her in the glass Randi watched her like her own good work.
+Four hours ago she'd stood at a sink and found a sad clown. The woman in this glass was nobody's clown. She stood there in her bra and her long skirt and a borrowed pair of shoes and a stranger's silk at her throat, and there was color up high in her face and a light coming off her from somewhere, and she didn't go hunting for where. She'd have said the shoes. She'd have said the morning had turned out survivable after all. She looked, and she liked it, and she let herself like it, and behind her in the glass Randi watched her like her own good work.
 
 "Tomorrow night," Randi said. "The black, the neckline down, the earrings — the real ones, nothing else. These shoes. This scarf. And you walk in there knowing exactly who you are."
 
@@ -208,4 +202,4 @@ And Vee, kissing her back, caught up to something a half-beat late: she hadn't b
 
 "See you soon, gorgeous," Randi said.
 
-Then Vee was out the white-columned door and down the steps into all that rinsed blue light, the bag swinging from her hand, and the breath she'd been holding since she knocked went out of her into the cold. She had a long walk back. A class she'd already thrown away. A whole day and a night to get through before she did the thing she'd been told to do. She didn't mind one inch of it. She had her marching orders and a beautiful pair of somebody else's shoes and somewhere to be tomorrow. She pulled the coat close and went.
+Then Vee was out the white-columned door and down the steps into all that rinsed blue light, the bag swinging from her hand, and the breath she'd been holding since she rang the bell went out of her into the cold. She had a long walk back. A class she'd already thrown away. A whole day and a night to get through before she did the thing she'd been told to do. She didn't mind one inch of it. She had her marching orders and a beautiful pair of somebody else's shoes and somewhere to be tomorrow. She pulled the coat close and went.
