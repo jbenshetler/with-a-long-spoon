@@ -96,6 +96,14 @@ NOT to hide the partner’s identity from the **reader** — the reader has know
 
 The one piece of Randi that is NOT generic to Vee: a year of goodbye kisses has trained Vee’s body to recognize exactly that kiss — its pressure, duration, the held half-second. No other woman’s kiss carries that signature. **Therefore the entire threesome must avoid the kiss** with invisible deliberateness — Randi does everything to/with Vee EXCEPT the one act with her signature on it (holding back the thing she’s wanted most since the pointing game). This is not aesthetic; it’s the *logical necessity* of the concealment. Touch/taste freely (identifies no one); withhold the kiss until it’s the weapon.
 
+### Scent — the foreign signature
+
+Blindfolded, Vee reads the woman through senses other than sight: touch, taste, smell, breath, and skin heat doing the work the eyes can’t. So it must be specific and it must be different from what Vee knows on purpose. Year-round Randi is **Diptyque Eau des Sens** — bitter orange, green, juniper, no sweetness; the cool-surface/warm-underneath construction made olfactory. Vee knows it in a single breath.
+
+So for this night, and only this night, **Randi wears a different perfume — chosen the way she withholds the kiss: deliberately, as control.** A **peppered rose: warm, with a bright peppery bite, a heat that sparkles and stings** — floral where her usual is green, warm where it is cool, sweet-hot where it is dry. **Nameless to Vee** (the year-round scent had a name she learned; this one she can’t place — knowable surface vs. unplaceable disguise).
+
+Function: like touch, the scent announces *woman* but not *who.* The foreign perfume forecloses the one olfactory channel that would have betrayed Randi instantly — which is precisely what **keeps the kiss the sole channel of identity.** The swap is not flavor; it is load-bearing concealment.
+
 ### Rendering rules
 
 - **Body before mind, absolutely.** A woman’s mouth closes over her nipple and her conservative self recoils and her body arches — all in the same instant, no gap to think in. Never let her narrate forensic deduction.
@@ -112,7 +120,7 @@ The act essentially complete (blindfold comes off *after*). A register shift sig
 
 ### The image (the whole novel in one frame)
 
-**Randi’s beautiful face, hair a mess, lipstick gone, mouth smeared with their combined fluids.**
+**Randi’s beautiful face, smiling — hair a mess, caught up in Vee’s scrunchies, lipstick gone, mouth smeared with their combined fluids.**
 
 - Lead with the beauty (the payoff, the thing Vee half-loved). Degrade across the clause. Land on the mouth and the smear.
 - It’s the maintained surface destroyed — the contained, polished, reassembled Randi, for once unmanaged. (Terrible rhyme: Pace once saw the unmanaged Randi at a sink and she resented him; now Vee sees it and it ends them. Being truly seen is a catastrophe both times.)

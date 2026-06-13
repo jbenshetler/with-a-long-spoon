@@ -44,7 +44,7 @@ Then Randi was at the top of the stairs in a robe, black hair loose and slept-on
 
 "Oh, honey," she said. "Come up."
 
-Up the stairs and inside, the door shut behind them, and Vee was somewhere she'd never been — a small room, close, entirely Randi's. The bed was thrown open and unmade, still holding the shape of her. Everything else sat in an order so quiet it read as calm. The air had Randi in it: gardenia, but a cold gardenia, green at the edge, nothing sweet.
+Up the stairs and inside, the door shut behind them, and Vee was somewhere she'd never been — a small room, close, entirely Randi's. The bed was thrown open and unmade, still holding the shape of her. Everything else sat in an order so quiet it read as calm. The air had Randi in it: bitter orange, green at the edge, nothing sweet.
 
 Randi dropped onto the foot of the bed, pulled her feet up under her — bare, the toenails painted sky blue — and nodded Vee into the desk chair. She'd been asleep ten minutes ago and gotten up for this. There were a few freckles across her nose, a sparse cocoa scatter she plainly never gave a thought to, bare to the morning and uncovered — where Vee had just spent ten minutes at the sink burying her own cinnamon excess, the freckles thrown across her nose and cheeks.
 
