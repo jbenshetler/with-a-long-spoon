@@ -1,32 +1,34 @@
 # Condensed — Dress Pickup
 
-*SCENE · Fragments drafted (`meta-notes-dress-pickup.md`) · ~Wed Oct 16, mid-week, 1–2 weeks after The Fitting*
+*SCENE · Draft complete (`scenes/dress-pickup.md`) · ~Wed Oct 16, mid-week, ~1.5 weeks after The Fitting*
 
 ## Shape
 
-Lean scene, quick build to quick release. First Night spent the Fitting's deferred tension, so this scene runs on a different engine: joyful and frictionless on purpose (vary heat by *kind*) — the first time her want goes straight through without cost. The emotional core happens alone, at the mirror; the dress cluster's expansive social warmth lives in Vee Shows Cassie the Dress (same day). Sequence: hanging dress → try-on/mirror → walk-out → initiation → joy. Ends on the unshadowed high.
+Lean scene, quick build to quick release. First Night spent the Fitting's deferred tension, so this runs on a different engine: joyful and frictionless by design (vary heat by *kind*). Surprise pickup — she reads the mid-week invite as a sex invite; he breaks off the about-to-be-sex, too eager to wait, and leads her to the finished gown. Sequence: greeting → unveiling → private try-on/mirror → initiation → cut → afterglow joy. Ends on the unshadowed high.
 
-## The drafted fragments (`meta-notes-dress-pickup.md`)
+## Setting
 
-Two fragments are the scene's first half and its emotional spine:
+Pace's sun porch — the windowed room with the best light, where he fitted her. The gown hangs in the window (fall sun through silk); the fitting pedestal has been moved in front of a newly hung full-length mirror — he staged the room for her. [house ref: `meta-plan-pace-house.md`]
 
-1. **The dress hanging** — store-finished against the knowledge it was a flat bolt on his table two weeks ago; the mother's register (*who wears that*) against "she wanted it so much her chest hurt." The two facts that will not lie down next to each other.
-2. **Putting it on, the mirror** — silk like water finding its level; "every place it lay close was a place his hands had measured"; the slit, *floozy*, prompt and certain; and the turn: the woman in the glass "looked, for once, like she was getting away with something."
+## The unveiling
 
-## The initiation
+He was up all night finishing it (revealed only in the coda). At the door, the uncertain after-sex greeting — clasped hands → careful peck → hug → heat — which he breaks off *grinning,* boyish, in the patent-register pride (eyes on the work, not on her face for praise). The gown reads store-finished: invisible side closure, no seam showing, and an **oyster-pale lining** through bodice and hips — the modesty panels, the only parts of her the dress isn't asking to be seen. Happy tears; his **"Yes,"** owning the making without a platitude.
 
-She walks out to him in the dress and **initiates — her first initiation**, emboldened by the gift. He proceeds; tender. A staircase step, rendered on the page, body before mind — and because the crossing itself is no longer the news, it can be written with confidence and economy, even elided at the threshold with a cut.
+## The try-on — two risers
 
-**Fresh shame occasion:** not her body's involuntary tells — her own deliberate act. Wanting the floozy dress, walking out in it, asking. One riser higher, different indignity.
+She strips to bare (no bra — built for it), the silk slithers over her, a shimmy past the hips; the lining felt against her skin first (modesty recognition). At the mirror, **riser one**: the bias and the low chest — *floozy* flares, but she stays and *likes* it. (She knows she's a knockout; the shame is of her own sexiness, not insecurity — never an ugly-duckling arc.) **Riser two**: a step opens the hip-high slit on her bare leg — shame crossing straight into heat with no seam. She sees the slit shows her underwear; in a surge of bravery she slides it off and **strides** to him, bare under the gown, to show him — her first initiation. He proceeds, tender; cut at the threshold.
+
+**Fresh shame occasion:** not her body's involuntary tells — her own deliberate act, owned as heat. He teaches her to work *with* the shame (that it's heat), never to shed it.
+
+## The coda
+
+Afterglow. They'd paused mid-passion to carefully hang the dress; Pace sleeps (up all night making it); Vee, happy, imagines walking into the induction in a gown that looks flown in from Milan — the wanting-to-be-seen now pure joy, no cost. Closes on "getting away with something," emptied of shame.
 
 ## Beats
 
-- **Mid-week slot** — Pace has given Vee a Wednesday; first encroachment on territory that was Randi's. Legible because we are physically in the mid-week visit.
-
-## Open staging choice (decide before drafting)
-
-Fragment one ("keys still in her hand," "the empty room") leaves the location open. If it's at Pace's house with him deliberately elsewhere, it rhymes with the hiking rainstorm — him stepping into the rain for her privacy; her coming out to him as the deliberate gift, like the truck. If it's her own room, the initiation restructures. The fragments work either way; the choice drives the scene's shape.
+- **Mid-week slot** — Pace has given Vee a Wednesday; first encroachment on territory that was Randi's.
+- **No heels** — she owns none yet (Randi installs that later); the hem pools, she rises onto her toes for the line the dress wants — plants the First Swat heels payoff.
 
 ## On reread
 
-The scene's purity is the point — the high-water mark the spring corrupts.
+The scene's purity is the high-water mark the spring corrupts. Pace's all-night devotion is real and uncalculated on the page — the tenderness that is also instrumental, never tipped.
