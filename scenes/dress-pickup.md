@@ -51,3 +51,17 @@ And then she walked to him. Not the careful walk — she strode, the slit swingi
 He hadn't gone far — too pleased to, she'd known he wouldn't — and when she came through in it the grin went off his face into something quieter, harder to look at and impossible to look away from.
 
 She crossed to him and took his face in both her hands and kissed him, the dress falling open along her thigh against him. He made a low sound against her mouth, and his hands came to her waist, to the dress, to the place he'd measured it to — and after that there was nothing left for either of them to decide.
+
+---
+
+After, she lay on her side in his bed, loose and warm and looking at the dress.
+
+They'd hung it. That was the part she kept coming back to, a laugh living under her ribs — that somewhere in the middle of everything, with her halfway out of it and her hands gone careless, one of them had said *wait, the dress,* and they'd both actually stopped, and he'd taken it from her and hung it from the door with the two-handed care you'd give something alive before coming straight back to her. It hung there now in the last of the light, burgundy going black at the folds. It had cost them a minute of a thing neither of them had wanted to pause, and she wouldn't have given the minute back.
+
+Pace was asleep. He'd gone down hard and fast the way she was learning he did, flat on his back, one arm flung up by his head, and she knew without being told that he'd been up the night before — that the dress had been finished at some hour with no business being awake in it, that he'd stood at the long table in the sun porch getting the last of it right while she slept across town, not knowing. She watched him breathe and didn't wake him. The only one awake in the warm house.
+
+And she looked at the dress and let herself imagine it: she put it on, in her head, and walked into the induction.
+
+She could see the whole thing. The high room, the good light, the other girls in their safe department-store navy — and her, coming in late, on purpose, in this, in a thing that looked flown in from Milan and fitted to her by a man who'd thought about nothing else. The slit. The bare shoulder. The way the room would turn. She let it turn. In the daydream she didn't fold her arms or find the wall; she stood in the middle of the light and let them look, and the looking didn't cost her a thing. It just felt like what she was for.
+
+She settled back against him, and he made a sound in his sleep and his arm came down around her without his ever surfacing, and she lay there happy, watching the dress go dark on the door, getting away with something.
