@@ -5,9 +5,10 @@ on what's been committed to the page, so recurring scenes at the house stay
 consistent. Defers to `character-relationship-bible.md` ("The house, room by room")
 and `summary.md` for what each room *means*; this doc owns *where things are*.*
 
-**Sources.** `[PAGE]` = drafted, on the page in `scenes/the-bench.md` — treat as
-fixed. `[PLAN]` = established in `character-relationship-bible.md` / `summary.md`
-but not yet drafted — render to taste, don't contradict.
+**Sources.** `[PAGE]` = drafted, on the page in `scenes/the-bench.md` and
+`scenes/dress-pickup.md` — treat as fixed. `[PLAN]` = established in
+`character-relationship-bible.md` / `summary.md` but not yet drafted — render to
+taste, don't contradict.
 
 -----
 
@@ -40,8 +41,16 @@ controls every threshold). Randi's signature — see `randi_architecture.md`.
 
 ## Interior layout
 
-front door / kitchen (adjacent) → **hall** → dining room on one side, **his bedroom**
-across the hall. Beyond: the **office** and **woodshop** (planned, not yet placed).
+From the **foyer** (the *anteroom* on the page), three ways off it:
+- **left** → the **hall**, running past the **bathroom** and the **office** and around a
+  corner to **his bedroom** at the back;
+- **right** → the **kitchen**, with the **dining room** off it and, beyond, the way out to
+  the **garage / woodshop**;
+- **forward** → the **den**, and through an archway at its far end onto the enclosed
+  **sun porch** at the back.
+
+Drafted path (`the-bench.md`): kitchen → anteroom → short hall, past the bathroom and the
+office, around the corner to the bedroom.
 
 ### Entry `[PAGE]`
 Front door (left unlocked for the expected guest; Randi bolts it behind her). A
@@ -52,13 +61,18 @@ Front door (left unlocked for the expected guest; Randi bolts it behind her). A
 the **green tea** she likes, kept on hand. `[PLAN]` A few good knives, a couple good
 pans (**not the 12-piece set**); a small bench of guest wines. He cooks here.
 
-### Dining room + hall `[PAGE]`
-A **dining room**; the **hall** connects the front/kitchen area to it and to the
-bedroom. The bedroom door is visible from the kitchen when open.
+### Dining room `[PLAN]`
+Off the **kitchen** (distinct from the kitchen's own built table); beyond it, the way out
+to the **garage / woodshop**.
+
+### Hall `[PAGE]`
+Off the foyer to the **left**; runs past the **bathroom** and the **office**, around a
+corner, to the **bedroom** at the back (`the-bench.md`). The bedroom is down the hall, not
+visible from the kitchen.
 
 ### His bedroom — the bench room `[PAGE]`
-**One room.** The **bed**, the **bench**, and the **ensuite bath** are all here; the
-whole bench scene plays out in this single space. **There is no separate "study"**
+**One room.** The **bed** and the **bench** are here; the whole bench scene plays out in
+this single space (the bathroom is off the hall, not in the room). **There is no separate "study"**
 (see Fixtures: "study" was an old object-word, now *trestle*). Contents on the page:
 - **The bench** at the center (see Fixtures).
 - A **bed**, ~three steps from the bench; **cashmere blanket** at its foot; a
@@ -66,8 +80,10 @@ whole bench scene plays out in this single space. **There is no separate "study"
 - A **chair** he folds her clothes onto.
 - Lit by **lamplight**, not overhead.
 
-### Ensuite bathroom `[PAGE]`
-Off the bedroom. Sink + **mirror**, tap, his **towel**, toilet. The door has a
+### Bathroom — off the hall `[PAGE]`
+Off the **hall**, past the office, around the corner from the bedroom (`the-bench.md`:
+Randi leaves the bedroom, out into the hall and around the corner to it — not an ensuite).
+Sink + **mirror**, tap, his **towel**, toilet. The door has a
 **lock**; Randi locking it mid-scene is marked unprecedented. A recurring,
 load-bearing small room (Vee uses it later too).
 - **Vee's top drawer** `[PLAN]` (canonical): gifted at The Top Drawer (~late Oct) —
@@ -95,7 +111,26 @@ owns its meaning ("where he lets his own mind sprawl"). Not yet drafted/placed.
 
 ### Woodshop `[PLAN]`
 **Immaculate — for safety, not aesthetics**; pieces curing partway through finish;
-most of the house's furnishings came from here. Not yet drafted/placed.
+most of the house's furnishings came from here. Reached past the **kitchen / dining**,
+out through the **garage** (not yet drafted).
+
+### Den `[PAGE]`
+**Forward** off the foyer; the room you cross to reach the sun porch. **One long wall of
+books** (the library wall). Where Pace waits during the Dress Pickup try-on
+(`scenes/dress-pickup.md`).
+
+### Sun porch `[PAGE]`
+Through an archway at the far end of the den — an **enclosed porch at the back, mostly
+windows: the room with the best light.** His **sewing / fitting** workspace (distinct from
+the woodshop); **The Fitting plays here.** On the page (`scenes/dress-pickup.md`):
+- A **long work / cutting table** (the burgundy gown was cut and built here).
+- A low **fitting pedestal** she stands on — the maker's fit-to-a-body, the same knack as
+  the bench and the dress.
+- A **full-length mirror**, newly hung on the wall for the Dress Pickup; the pedestal set
+  in front of it.
+- The finished gown hung from the **lip of the window frame** for the reveal.
+- Light: the Fitting by lamplight (evening); the Dress Pickup by day, the sun through the
+  silk.
 
 ## Atmosphere / constants `[PAGE]`
 Kept **very warm** (so he can take his time without anyone being cold; "his too-warm
@@ -118,9 +153,9 @@ out to each other.
 - **Water bottle** `[PAGE]` pre-staged on the bedside table for aftercare.
 
 ## Resolved (was a continuity flag)
-- **The bench room is his bedroom** — one room (bed + bench + ensuite bath). "Study"
-  was an object-word, now replaced by **trestle**; it is *not* a room. The computer
-  room is **the office**, a separate room.
+- **The bench room is his bedroom** — bed + bench in one room; the **bathroom is off the
+  hall**, not an ensuite (`the-bench.md`). "Study" was an object-word, now replaced by
+  **trestle**; it is *not* a room. The computer room is **the office**, a separate room.
 - **Prior women / access:** the old "no woman before Vee / he always went to their
   homes" is superseded — see **Access** above (he owns the house; the motel stage;
   Vee brought home early).
@@ -131,4 +166,5 @@ out to each other.
 - `summary.md` — house (owns/patent), the access canon, the bench's
   only-Randi-and-Vee significance.
 - `randi_architecture.md` — the lock-behind-her signature.
-- `scenes/the-bench.md` — the only drafted house interior.
+- `scenes/the-bench.md`, `scenes/dress-pickup.md` — the drafted house interiors (the bench
+  room; the sun porch).
