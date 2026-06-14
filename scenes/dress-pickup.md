@@ -1,43 +1,53 @@
 # Dress Pickup
 
-He met her at the door and didn't quite say why. "It's ready" — that was all, and there was something held in him behind the plainness, a pressure behind it. He took the keys out of her hand and set them on the table and brought her down the hall to where it hung.
+She didn't really know what *come over* meant this time. There'd been one invitation before it — dinner, which had turned into the whole night and most of the next morning, and a Saturday drive home wishing she'd thought to pack a toothbrush. One night. One data point. Nothing yet that told her what a Wednesday was supposed to mean. But she wasn't a fool: a midweek text from the man she'd just slept with for the first time meant the thing it obviously meant, and she'd dressed for it without quite letting herself say so — the soft dark dress, the long-sleeved one, feminine and easy, the one she knew she looked good in, her hair down the way he'd liked it. She'd carried the low warm hum of it the whole drive, so that by the time she reached his step it was most of the way to a decision her body had already made.
 
-It hung from the top of the closet door on a padded hanger he must have owned for the purpose. She stopped in the doorway and put her hand over her mouth.
+He opened the door, and for a second neither of them was sure how to do it — the hello after, which they hadn't done yet. He took both her hands in the doorway. Then he leaned in and kissed her, small, a careful peck, a question; and when it answered itself he drew her into a hug, the whole warm front of him, and held her a beat longer than hello —
 
-It didn't look like a thing a person made. That was the first thing — it looked finished, store-finished, the kind of object that arrives already complete from somewhere with a name, no seam of effort showing on it anywhere, no closure she could even find. The burgundy drank the lamplight and gave a little of it back along one long fold, a sheen that moved when the door moved. One shoulder rose to a clean covered strap; the other side ran bare, the neckline crossing on a diagonal from the high shoulder down toward the opposite arm, so that the whole dress leaned, asked the eye to travel it on a slant instead of straight across. There was a slit set into the bare side, running higher than the dresses she owned ran.
+and then it wasn't a hug. His face was in her hair, and then it wasn't in her hair, and she turned her mouth up and found his, and under the circumstances it was never going to stay gentle. It didn't. His hand slid up into the hair at the back of her head; she got a fistful of his shirt at the small of his back and pulled, and the kiss went deep and warm and certain, the door not even shut, both of them already most of the way to somewhere —
 
-Two weeks ago it had been a flat bolt of cloth on his table. Now it was this, and the not-being-able-to-find-the-seam was the part that undid her — that he'd taken all that trouble and then taken the further trouble to hide it, so that the only thing left for her to see was the part that looked like it had cost nothing.
+And he broke it. Stepped back half a step, grinning. Not sly, not holding a thing over her — *grinning,* helpless with it, the way a kid grins when he can't keep a surprise in his mouth one more second, his eyes already going past her to the thing he'd made and couldn't wait another minute for her to see. He didn't say anything. He took her hand, still smiling like that, and pulled.
 
-"Pace." It came out wet. She hadn't decided to cry and she was crying, a little, the dumb happy kind she could never get ahead of, and she laughed at herself in the middle of it and didn't bother to wipe her face. "You made this."
+Her body had assumed left, toward the bedroom. He didn't go left. He drew her the other way, through the den and into the sun porch at the back — the room where he'd fitted her, the room that was mostly windows — and the light reached her first, the whole gold afternoon, and then in the middle of the light —
 
-"I matched it to you," he said, as if that were the whole of it, as if it were a small thing to have done.
+The dress.
 
-She wanted it on. Looking at it wasn't going to be enough; she needed to know what she was inside it. "Let me try it on" — and the word came out careful, *try*, keeping a door open behind her in case — and he said "okay" the easy way he said things and went back down the hall. The going was nothing. It was only him giving her the room the way you'd give anyone the room, and then it was her and the dress and the quiet.
+He'd hung it from the lip of the window frame, and the fall sun came through it the way light only comes through silk, the burgundy lit from inside itself and the plum beneath it deepening, a wine-dark glow with a shadow alive in it; the bias of the cut took the bare shoulder and ran it down in one long clean line. The pedestal he'd built for her to stand on at the fitting had been moved across the room, set in front of a full-length mirror that hadn't been there before — newly hung, the screw heads still bright. He'd set the whole thing up for her. He was grinning at the dress now like he still couldn't quite believe it had come out right.
 
-The silk went over her head and came down her body like water finding its level — cool for the first half-second and then not cool, taking her own warmth back almost at once, lying against her skin everywhere it touched with a weight she felt in the backs of her arms, along her ribs, low over her hip. She'd worn dresses. She had never worn a thing that held her like this, that knew where she was. He'd built it knowing where she was. Every place it lay close was a place his hands had measured, and her body knew that before her mind said it, the skin remembering being read.
+She stopped and put her hand over her mouth.
 
-Her hand found the closure at her side and there was almost nothing to do — it drew up, it caught, it sat. No fighting a zipper, no tugging anything into place. It settled, like it had been waiting.
+It didn't look like a thing a person made. It looked finished, store-finished, the kind of object that arrives already complete from somewhere with a name, no seam of effort showing on it anywhere, no closure she could even find. A week and a half ago it had been a flat bolt of cloth on his table; she'd stood on that little pedestal and let him build it onto her out of nothing, and now it hung in his window catching the sun like it had been bought that way. That was the thing that got to her — that he'd taken all that trouble and then taken the further trouble to hide the trouble, so the only thing left for her to see was the part that looked like it had cost him nothing. It got in behind her ribs and opened the small place the tears came from.
+
+"Pace." It came out wet. She hadn't decided to cry and she was crying, a little, the dumb happy kind she could never get out ahead of, and she laughed at herself in the middle of it and didn't bother to wipe her face. "You made this."
+
+"Yes," he said, and didn't make it smaller.
+
+"I need to try it on."
+
+She didn't ask him to leave, and he didn't make anything of going — a touch on her shoulder, and he stepped out into the den, not far, never far, and left her to it.
+
+She undressed where she stood — her own dress up over her head and folded onto the chair, then the bra, because she'd known since the fitting he'd built this to be worn bare. She lifted the gown off the hanger, heavier than it looked, stepped up onto the pedestal, and brought it down over her head.
+
+It came down her like water finding its level — cool against her bare skin for half a second and then warm, taking her own heat back, sliding the length of her and finding her shape on the way. At her hips it caught the way good cloth does and water doesn't, and she worked it down with a low shimmy, both hands smoothing it over herself until it dropped the last inch and settled and was on. Under the burgundy, where it lay against her, there was a second softness — a doubled, quiet weight through the bodice and over the hips, oyster-pale where it showed at all. He'd lined it, there and nowhere else: a soft wall set into the only parts of her the dress had decided not to give away.
+
+Her hand found the closure at her side. Almost nothing to do — it drew up and caught and sat, like it had been waiting.
 
 She turned to the mirror.
 
-The bare shoulder was the first thing — her own shoulder, rounder and warmer than she thought of it — and the long diagonal of the neckline drawing down across her, and the burgundy doing to her coloring exactly what it had done in the dark window the day he held the cloth up to her face: making her look like she'd been mixed on purpose, the red of her hair and the warmth of her skin and the deep wine of the silk all agreeing with each other. The dress took her width and made it a line. Her hips, her waist, the full of her chest — the diagonal gathered all of it and pulled it long, so that the abundance she was always faintly bracing for in mirrors read, here, as much in the good way, as a lot of woman the dress was glad to have.
+The bias took her waist and drew it long; the neckline crossed and dipped and set her chest out frank in the gold light. All of her was there, gathered up and set out like it had nothing to apologize for. *Floozy.* The word flared up automatic and her face went hot — and she stayed anyway, made herself look, and somewhere behind her ribs the looking stopped being shame. She looked expensive. She looked like a lot of woman who knew exactly how much she was. She was grinning before she'd decided to, wet-eyed all over again.
 
-Then she moved, to see, and the slit opened along her thigh and fell shut, and there it was. The whole length of her leg for half a step and then gone. Her stomach dropped the small dropping way.
+The hem pooled at her feet; the dress wanted a height she wasn't giving it. She rose onto her toes and watched the line finish itself, and smiled at the woman that made, and came back down, because she hadn't brought the shoes and that woman could wait.
 
-And the voice came, prompt and certain, in her mother's register, taking in the bare shoulder and the lean of the neckline and the height of that slit: *who wears that.* Floozy. The kind of girl who wanted to be looked at, who'd build a whole night around it. The heat climbed into her face there in the empty room, alone with a beautiful thing she already half-believed she had no business wanting this much.
+Then she turned to see herself from the side, and took a step —
 
-She stood still and made herself look anyway. Because the woman in the glass — the bare shoulder, the lean of the neckline, the slit that gave her leg away when she walked — the woman in the glass looked like the kind of girl who got looked at and knew it, who'd dressed for exactly that and wasn't sorry; and the terrible thing, the thing she could feel low in her body with her mother's word still hanging in the air, was that she wanted to be that woman. She wanted to walk in somewhere in this dress and have the slit open and have people see her leg and not apologize for a second of it.
+and the slit came open all the way up. To the hip. The silk parted and gave her whole leg to the room, calf to the jut of her hip, and fell shut when her feet came together. The breath went out of her, and the heat came up to take its place, low and certain, her body answering the glass before her head could —
 
-The hem broke on the floor. She looked down at it pooling over her bare feet and saw the thing that was missing, the thing the dress was asking for and not getting, and without deciding to she rose up onto the balls of her feet — and there it was, the line finishing itself, the leg the dress had been promising all along, a height she didn't own yet and the dress already knew she'd come to need. She held there a moment on her toes, reaching up into the woman it was built for. Then she came down off them, because she didn't have the shoes, and that woman could wait a little longer.
+and there, where the slit had opened, was the pale edge of her underwear, cutting across the long line the dress had made of her.
 
-She put her hand to her collarbone, to the bare skin where the neckline left it, and watched the woman in the mirror do the same thing, and the woman in the mirror looked, for once, like she was getting away with something.
+Her first thought was to keep her steps small, so it wouldn't show. The second came up hot behind the first and didn't care what showed. She hooked her thumbs in the waistband and slid the underwear down her legs, stepped out of it, left it on the chair with everything else she'd walked in wearing. Bare under the silk now.
 
-She didn't want the mirror's version of it. She'd seen it now, the woman getting away with something, and the glass could only hand her back to herself; it couldn't do the one thing the dress wasn't finished without, which was to be seen. He was down the hall. She went before she'd quite decided to go, the slit opening and falling shut along her bare leg with every step, giving her leg to the hallway, to no one, to the going itself, and she didn't reach down once to still it.
+And then she walked to him. Not the careful walk — she strode, the slit swinging open on her bare leg and her hip with every step, the length of her given and taken back and given, all the way to the den where he was waiting, to show him what he'd made.
 
-In the truck she had brought him back to her — rapped the glass and made him cross the rain to her. She didn't bring him to her now.
+He hadn't gone far — too pleased to, she'd known he wouldn't — and when she came through in it the grin went off his face into something quieter, harder to look at and impossible to look away from.
 
-He was at the counter, and he turned when he heard her, and went still.
-
-She crossed the kitchen and took his face in both her hands — the warmth of his jaw under her palms, his whole attention coming up to meet her the way it always did, total, like she was the only lit thing in the room — and she kissed him. She had decided it. She had walked the dress across the room to do it, and under the wanting was the small clear fact that she had never, not once, been the one to start.
-
-He made a low sound against her mouth, and his hands came to her waist — to the dress, to the place he'd measured it to — and after that there was nothing left for either of them to decide.
+She crossed to him and took his face in both her hands and kissed him, the dress falling open along her thigh against him. He made a low sound against her mouth, and his hands came to her waist, to the dress, to the place he'd measured it to — and after that there was nothing left for either of them to decide.
