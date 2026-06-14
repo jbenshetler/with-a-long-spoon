@@ -1,5 +1,5 @@
 instructions
-.claude/settings*
+.claude/settings.local.json
 .claude/mcp*.json
 .claude/agent-memory/
 .opencode.json

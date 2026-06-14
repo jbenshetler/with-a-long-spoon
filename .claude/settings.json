@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(novel-assistant/na.py:*)",
+      "Bash(./novel-assistant/na.py:*)"
+    ]
+  }
+}
