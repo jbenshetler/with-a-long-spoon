@@ -9,6 +9,18 @@ This is **not a codebase.** It is the working repository for *With a Long Spoon*
 IMPORTANT: When making code edits that don't require complex decisions, use Haiku sub-agents.
 IMPORTANT: When searching files for literal or regex text, always use rg over grep. Do not search binary or exluded files unless specifically asked to. 
 IMPORTANT: When writing scene drafts, do not editorialize and do not telegraph. 
+## ⚠️ STATUS — novel-assistant DISABLED
+
+The `novel-assistant/` knowledge-graph system is **disabled**, pending a simpler reimplementation. Until that lands:
+
+- **Don't call or assume its tools or commands** — `research`, `scan`, `verify_draft`, `character_knowledge`, `set_chapter`, `process_new_scene`, `sync`, `flag_fact`, and the `/scan`, `/sync`, `/update`, `/verify`, `/scene-prep`, `/post-scene`, `/novel-*` skills/commands are all inactive.
+- **The tool-based instructions below are dormant** — the Prime Rule's "use a tool," "Run scan() immediately," the post-draft `verify_draft()`, the Skills, Build Mode, and the Slash Commands reference describe the old system. They're retained for the reimplementation, not for current use.
+- **Lookups now go through the `lore-keeper` subagent** instead of the disabled `research()` — see **Research / lore delegation** below. Never answer factual questions about the novel from memory; reconcile per **Document authority**, and if the lore-keeper can't find it, say so rather than infer.
+
+Everything not tied to the tooling — craft rules, document-authority order, naming/POV conventions, working conventions — remains fully in force.
+
+---
+
 ## Two Modes
 
 This project has two modes. Claude Code reads this file and knows which
@@ -32,33 +44,32 @@ the pipeline, tests, or infrastructure — that's build mode.
 ### The Prime Rule
 
 **Never answer a factual question about the novel from memory or context.**
-Always use a tool.
+Delegate the lookup to the `lore-keeper` subagent (see **Research / lore delegation**).
 
 ```
 Human: "Remind me what Vee looks like"
 Wrong: [answer from training/context]
-Right: research("What does Vivienne look like?")
+Right: lore-keeper("What does Vivienne look like? Return the relevant passages with sources.")
 ```
 
-If a tool call fails or returns "Not found in story bible," say so
-and suggest the author check which file might contain the answer.
-Do not fill the gap with inference.
+If the lore-keeper can't find it in `meta/` or `scenes/`, say so and suggest
+where it might live. Do not fill the gap with inference.
+
+### Research / lore delegation
+
+When you need a fact from the corpus, **delegate the search to the `lore-keeper` subagent** rather than reading `meta/` or `scenes/` into the main context. It runs Haiku in its own window: it does the `rg` searching and excerpt-reading there, **filters** to the passages that actually answer, and returns those with sources — keeping this session's context clean. The lore-keeper's job is *filtering, not summarizing*: it returns the relevant material with enough fidelity to preserve nuance (it does **not** crush the answer to a single sentence, and it does **not** dump whole files). **You** synthesize or summarize from what it returns, as the task needs.
+
+Delegate to check character traits/history/prior actions, verify continuity against a drafted scene, confirm a craft rule or canon detail, look up the thesis/track docs, or find prior references to any name/place/object/event. (Skip it for a fact already established earlier in *this* conversation — that's already in context.)
+
+The subagent has a **fresh context** — it cannot see the current draft or our conversation. Every delegation prompt MUST include: (1) the specific question; (2) any draft/conversation snippet it must check against, quoted directly (never "the current scene"); (3) which sources to check if known, else let it search broadly; (4) the answer form wanted (the relevant passages, a continuity verdict, a list of references).
+
+**Fan out in parallel.** When a task needs several *independent* lookups — scene-prep across multiple characters plus a setting, or verifying a batch of facts — spawn **as many lore-keeper subagents as there are independent queries, in a single message**, so they run concurrently and minimize the user's wait. One focused query per subagent; don't split a single query, and don't serialize independent ones. Use `Explore` for broad structural sweeps where lore-keeper's tighter return isn't a fit.
 
 ### Starting Every Session
 
-Run scan() immediately. Do not wait to be asked.
-
-```
-[session opens]
-→ scan()
-→ Report what changed
-→ If changes: propose sync plan, ask whether to proceed
-→ "Chapter 13 is new — shall I process it and draft knowledge deltas?"
-→ Set chapter if author mentions which one they're working on
-→ Note any pending review queue items
-```
-
-If the scan finds nothing to sync: confirm current chapter and proceed.
+No automatic `scan()` — the system is disabled (see the status banner).
+Just confirm with the author which scene/chapter they're working on and
+proceed; orient from `meta/` directly when you need to.
 
 ### Research Questions
 
@@ -158,19 +169,19 @@ There is no prose draft of most scenes yet; `meta/` is far ahead of `scenes/`. M
 
 ## Document authority — read in this order, trust in this order
 
-The corpus accreted across numbered "Sessions" and document versions. **Version tags have been removed from filenames — git is the version history now — but older prose still carries conceptual version/Session labels, and the documents still silently supersede one another on *content*.** Before acting on any plot/structure detail, reconcile against the most recent source. Known hazard: `meta/summary.md`'s scene inventory is stale where it conflicts with `meta/scene-plan-chronology.md` — **the chronology doc owns current scene order and inventory and wins on those.** When in doubt, prefer the chronology and the `[NEW]` markers — and flag the conflict rather than silently picking one.
+The corpus accreted across numbered "Sessions" and document versions. **Version tags have been removed from filenames — git is the version history now — but older prose still carries conceptual version/Session labels, and the documents still silently supersede one another on *content*.** Before acting on any plot/structure detail, reconcile against the most recent source. Known hazard: `meta/meta-plan-summary.md`'s scene inventory is stale where it conflicts with `meta/meta-plan-chronology.md` — **the chronology doc owns current scene order and inventory and wins on those.** When in doubt, prefer the chronology and the `[NEW]` markers — and flag the conflict rather than silently picking one.
 
 Authoritative-by-domain (each doc owns its subject; don't relitigate it elsewhere):
 
-- `meta/scene-plan-chronology.md` — **current scene order and inventory**. Story order = list order. Carries live `[NEW]` beats and a "continuity flags to resolve" section at the bottom — check it before placing or reordering scenes.
-- `meta/summary.md` — master concept overview and document map. Front door for orientation; **inventory section is superseded** (see above).
-- `meta/character-relationship-bible.md` — authoritative on character, best phrasings to preserve, and the **Global Craft Rules** (the non-negotiables below live here in full).
-- `meta/novel_thesis.md` — the structural argument: the three destructive appetites, the bargain, why each character half-sees. The "why" under everything.
-- `meta/pace_architecture.md`, `meta/randi_architecture.md`, `meta/vivienne_architecture.md` — deep per-character architecture. Sections in the Vee doc are tagged `ARCHITECTURE` (fixed) vs `WEATHER` (mutable surface) — respect the distinction.
-- `meta/satc-track-scenes.md` — authoritative on the Randi/Vee confidante track: the verbal and physical (goodbye-kiss) staircases, the format-break scenes, how to vary the brunches, and its own DOs/DON'Ts.
+- `meta/meta-plan-chronology.md` — **current scene order and inventory**. Story order = list order. Carries live `[NEW]` beats and a "continuity flags to resolve" section at the bottom — check it before placing or reordering scenes.
+- `meta/meta-plan-summary.md` — master concept overview and document map. Front door for orientation; **inventory section is superseded** (see above).
+- `meta/meta-arch-bible.md` — authoritative on character, best phrasings to preserve, and the **Global Craft Rules** (the non-negotiables below live here in full).
+- `meta/meta-thesis.md` — the structural argument: the three destructive appetites, the bargain, why each character half-sees. The "why" under everything.
+- `meta/meta-arch-pace.md`, `meta/meta-arch-randi.md`, `meta/meta-arch-vivienne.md` — deep per-character architecture (the *why*); each has a `meta/meta-craft-*.md` companion for voice/craft/surface rendering.
+- `meta/meta-plan-satc-tracks.md` — authoritative on the Randi/Vee confidante track: the verbal and physical (goodbye-kiss) staircases, the format-break scenes, how to vary the brunches, and its own DOs/DON'Ts.
 - `meta/threesome-reveal.md` — authoritative on the climax: the two-tier blindfold structure, the kiss-as-sole-channel-of-identity, the reveal image, the closed (not ajar) ending.
-- `meta/notes-the-fitting.md` — scene-specific companion notes (the no-tag-shirt plant the Fitting pays off; the Shoe-Shopping scene to develop after it). Pattern for how scene-local notes are kept.
-- `meta/pace-house.md` — the **set/continuity reference for Pace's house**: spatial layout (room by room), what's been committed to the page vs. still planned, recurring fixtures, and continuity flags. Authoritative on *where things are*; defers to the bible for what each room means.
+- `meta/meta-condensed-*.md` and `meta/meta-note-*.md` — per-scene condensed briefs and scene-specific companion notes (e.g. `meta-condensed-the-fitting.md`, `meta-note-the-bench.md`). Pattern for how scene-local material is kept.
+- `meta/meta-plan-pace-house.md` — the **set/continuity reference for Pace's house**: spatial layout (room by room), what's been committed to the page vs. still planned, recurring fixtures, and continuity flags. Authoritative on *where things are*; defers to the bible for what each room means.
 
 ## The core structural engine (the one thing to internalize)
 
@@ -200,7 +211,7 @@ These are the project's hard constraints (full versions in the Bible's Global Cr
 ## Working conventions
 
 - **Match the established prose register** when drafting — the existing scenes (`scenes/the-fitting.md`, `scenes/the-bench.md`) and the "best phrasings / lines to preserve" in the Bible set the voice. Preserve canonical lines verbatim where they're slotted.
-- **Before writing a planned scene**, read its entry in `scene-plan-chronology.md`, the relevant track doc (SATC or threesome), and any scene-specific companion notes; check the continuity-flags section for unresolved ordering/identity issues touching that scene.
+- **Before writing a planned scene**, read its entry in `meta-plan-chronology.md`, the relevant track doc (SATC or threesome), and any scene-specific companion notes; check the continuity-flags section for unresolved ordering/identity issues touching that scene.
 - **When the plan conflicts with itself across documents**, surface the conflict and the version lineage rather than quietly resolving it — these are authorial decisions.
 - **Naming:** "Pace" (the D role / public self) vs "Peter" (the hidden true self) is load-bearing — if Vee uses "Peter," it should land. "Vee" / "Vivienne Thorne" (V.T. = Virginia Tech). Setting is Virginia Tech, Blacksburg.
 - **Filenames** are kebab-case in `scenes/`; `meta/` mixes kebab-case and snake_case (no version suffixes — git tracks history). Follow the convention of the directory you're adding to.
