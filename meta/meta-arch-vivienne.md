@@ -46,7 +46,7 @@ The appetite eats its own substrate: the unselfconsciousness that made the full 
 
 *Lush,* not voluptuous. Abundant, ripe, fertile. Pairs with the burgundy silk imagery and the wine register in the fitting scene.
 
-Tall, built on a lavish scale — full breasts, deep waist, hips with real width. Anna Nicole Smith proportions to Randi's Natalie Portman. Shoulder-length hair worn loose, warm dark red; the highlights spark to copper only in direct sun. Snub nose, tipped up; chestnut freckles across the nose and tops of the cheeks. Moves like an athlete under the abundance — low center, real balance, plainly trained (background: synchronized swimmer; the control is real but burdened out of competition by a build the competitive ideal can't use). Command and abundance in the same frame, neither canceling the other.
+Tall (5'8"), built on a lavish scale — full breasts, deep waist, hips with real width. Anna Nicole Smith proportions to Randi's Natalie Portman. Shoulder-length hair worn loose, warm dark red; the highlights spark to copper only in direct sun. Snub nose, tipped up; chestnut freckles across the nose and tops of the cheeks. Moves like an athlete under the abundance — low center, real balance, plainly trained (background: synchronized swimmer; the control is real but burdened out of competition by a build the competitive ideal can't use). Command and abundance in the same frame, neither canceling the other.
 
 *Lush against Randi's sleek.* The wind is the device: the same ridge-wind that lifts and plays through Vee's loose dark-red hair finds almost nothing to move on Randi's bound black ponytail.
 
@@ -123,6 +123,8 @@ This is the rhyme-and-inversion with Randi's week, where the Vee-operation is th
 Pace's love is so well-calibrated to Vee that she experiences his attention as the realization of her own desires. She cannot tell — no one in her position could — that some of those desires were brought into being by the calibration itself. From inside, there is no way to distinguish *I always wanted this* from *I now want this because of how I was loved.*
 
 The threesome is the catastrophic instance. She thought she wanted it. Some of the wanting was the original appetite. Some was cultivated. After the kiss, she has reason to doubt the provenance of every yes she has given across the year. The reader does not know which moments to trust either. This is the mechanism that lets the kiss work on the reader the same way it works on Vee.
+
+**Micro-instance — she perceives Pace as taller than he is.** Vee carries an inflated mental image of his height: they've rarely stood together outdoors with other men to scale him against (mostly close, eye-to-eye), and feeling inflates stature. Her readings of him run high because she wants them to — the same epistemic vulnerability at small scale. Render only through behavior — the deflation when her heels put her over him at the First Swat — never as exposition.
 
 ---
 
