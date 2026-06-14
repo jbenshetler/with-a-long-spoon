@@ -6,7 +6,7 @@ close.
 
 -----
 
-## 1. Pace's femur scar / the bike-dragging origin — fold into `pace_architecture.md`? (DISCUSS)
+## 1. Pace's femur scar / the bike-dragging origin — fold into `pace_architecture.md`? (DONE — folded into meta-arch-pace.md per option (a))
 
 `character-relationship-bible.md` and `summary.md` treat Pace's hip/femur scar and
 its origin as **load-bearing**: at eleven, his father roped Pace's bike to a car
@@ -72,7 +72,7 @@ e.g. `scene-plan-chronology.md` references `the_fitting.md` (actual:
 
 The following items surfaced during the meet-cute refinement conversation and have not yet been addressed. Listed in priority order.
 
-## 6. Pace architecture doc — major update (DO)
+## 6. Pace architecture doc — major update (DONE — see meta-arch-pace.md)
 
 Pace's doc needs several architectural revisions to bring it in line with the corrected architecture worked out in conversation:
 
@@ -90,7 +90,7 @@ Pace's doc needs several architectural revisions to bring it in line with the co
   
   Working rule: none of these should ever be load-bearing for the structural argument — if a humanizing failing starts doing thematic work, it has been absorbed by the architecture and the humanizing function has been lost. The architecture is what makes the destruction structurally inevitable. The humanizing failings are what make the destruction emotionally inhabitable. Both are required.
 
-## 7. Thesis doc — structural symmetries update (DO)
+## 7. Thesis doc — structural symmetries update (DONE — see meta-thesis.md)
 
 The thesis doc currently treats the three appetites at the structural level but does not yet carry two observations that emerged in conversation and that should be installed as structural arguments:
 

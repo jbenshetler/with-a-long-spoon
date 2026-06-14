@@ -24,6 +24,10 @@ He had available honorable exits he did not take. Disclosure, refusal, harder qu
 
 **Father — physically abusive.** Produced non-consent = coercion = his father as the organizing refusal of Pace's adult self. His consent-architecture is built against the father at the level of action. It monitors what he *does* to women. It does not ask what he *makes* them into. The hole was always there; it rarely mattered until Randi.
 
+**Father — careless, heedless of consequence.** A separate wound from the violence — related, not the same, and the deeper one. The bike-dragging origin, the hip scar, and the *rides-for-peace* repair are canon in the Bible (`meta-arch-bible.md`); what matters architecturally is the *kind* of wound it was. His father maimed him not in rage but in disregard — for a laugh, never having weighed that it would cost him anything. The inheritance is not pain but *not being a person whose say matters*: the bodily root of his safety-tracking, and the seed of everything his consent-architecture is built to honor.
+
+**The same-shape rule.** The childhood injury and the consent-architecture hole are one wound — and what they share is the carelessness, not the violence. His father did not ask; did not weigh the consequence; used him for an experience without his say. Pace builds an entire adult identity around being the man who *asks*, guarding hardest against the force — and his reckoning is finding that the hole is shaped like the other wound: a heedless not-asking, a failure to weigh what the experience would make of her, that his checklist was never built to catch. (Never connected on the page — resonance only; the craft guard lives in the Bible.)
+
 **Mother — emotionally abusive; love as currency.** Produced non-looking at his own interior and the vow against premature declaration. He runs hot; he has never developed the apparatus for naming what runs inside the interior because naming exposes it to accounting.
 
 **First love — ended for no cause he could name.** The formative wound. Produced the long-range planner. He will figure out what relationships actually run on. The threesome plan is the latest iteration of an apparatus he has been refining since sixteen.
@@ -92,6 +96,8 @@ He is being trained in the practice of believing nothing he has not derived from
 
 Pace's attention is finest in the present moment and operates a specific blindness toward **what those moments become in the other person's interior afterward.** Not a general failure of integration. A precisely shaped one.
 
+The limit is not a missing capacity. He has temporal integration available as memory and could run it if a problem demanded the operation — but the problem never demands it, because his real-time empathic attention produces such good moment-by-moment feedback that the cumulative-harm question is never raised by friction in any single instance. In most people the temporal-review operation runs on exactly that friction: the residue of mixed or souring feedback that asks to be reconciled later. His real-time competence dissolves the friction before it can accumulate, so the operation never triggers. He is not psychopathic and does not lack guilt-capacity in general; he lacks the one temporal-review operation that, for him, has nothing to run on. This is hamartia in its exact classical form — a specific epistemic limit in an otherwise excellent ethical actor, not a missing organ. That he is neither sadist nor masochist in the kink typology is a fact about his arousal, not his moral psychology; it neither produces the blindness nor excuses it. The *not finally the lady* reading he settles into afterward is what that same present-moment empathy yields once it is finally challenged inside a frame whose terminal step is conviction.
+
 The bench is the worked example. *(Scene draft: `the-bench.md`.)* He saw what he produced at the bench accurately. He did not see the regret that the vulnerability produced in Randi afterward — the rearranging was visually indistinguishable from natural scene-resolution, and his apparatus was not asking about flight.
 
 ### The Blindness Is Originally a Choice
@@ -148,6 +154,18 @@ The vow gives him his story afterward. *I was being careful. She did not wait. S
 
 ---
 
+## The Two Registers of His Privacy with Vee
+
+Pace's privacy with Vee runs on two registers, and the prose must hold both.
+
+**Register one — constitutional, not concealment.** He was already a man who lived privately; the reticence is neurological comfort, not hiding. What he gives Vee is the most intimate access he gives anyone; she experiences it as being kept outside. Both are true. The gap is a wound that does not resolve. This register is not a moral failing.
+
+**Register two — situational fear, deployed via self-control.** In declaration-adjacent moments — when Vee is asking for or moving toward *I love you* — the privacy stops being neurological comfort and becomes small ordinary fear of commitment, held shut by the same self-control he runs everywhere else. The porch scene is the worked example: he understands what she is offering, routes it down a register his apparatus can operate, and protects himself from declaring back. This register *is* a small moral failing.
+
+The two registers map the two registers of his harm. The **structural register**: the apparatus does not contain the cumulative-harm question — hamartia, not reachable by will. The **ordinary register**: the apparatus does contain the question and he declines to ask it, because asking would expose him to discomfort his self-control exists to prevent. The reckoning is the harder one precisely because the second register is more reachable than the first. Render register one as habit-with-substrate (he is not consciously evading); render register two as the substrate of the choice closer to the surface, surfacing as small unnamed discomfort.
+
+---
+
 ## The Available Honorable Exits Pace Did Not Take
 
 **Option one: disclose.** Tell Vee, in week one, that he had been sleeping with Randi, that the two of them had discussed making her a third. Withholding information she needed to decide is itself the agency-violation. He withheld. This was a choice.
@@ -165,6 +183,8 @@ Each option was honorable. None was paternalism. Each cost him the configuration
 His consent-architecture, executed at the level it monitors, produced a non-consensual transformation in Randi. The architecture asks: *did she consent to the act?* It does not ask: *did she consent to becoming the kind of person the act would make her?* The question is unaskable inside the architecture. Most sexual scenes don't produce structural transformations; the coverage gap is invisible in ordinary operation. With Randi, it mattered.
 
 Randi's apparatus correctly identified him as not the kind of threat her armor was designed to repel. Her judgment was right. Her judgment is what failed her. The armor lowered. He reached her. The transformation followed. No protocol was violated by anyone. Two carefully-built apparatuses encountered each other in a register where neither apparatus's protocols extended.
+
+The same structural limit operates with Vee; only the timescale differs. With Randi the wound landed in a single encounter the architecture had no protocol for. With Vee it accretes across the year — each calibrated transgression a permanent alteration his apparatus registers as a good moment and files as consent honored. The begging-equivalent beats arrive and he receives them in the register his grammar is built for, never the one that would raise the cumulative question. His apparatus's structural limit is the hole the configuration found, and it is the same hole in both directions: one pattern run at two speeds.
 
 ---
 
@@ -199,3 +219,5 @@ None in the consent register. None suggesting hidden corruption. None becoming l
 **4. Commitment-adjacent self-protection in declaration-adjacent moments.** Porch-scene-style routing of declaration-adjacent speech down registers where his grammar has equipment. The habit's smooth operation. Smaller instances sprinkled across the year accumulate in the sand-in-the-gears reservoir.
 
 **5. The small private vanity of a virtuous man who knows he is virtuous.** He is correct that he is better at consent than other men he has met. The smooth comfortable confirmation of *I am the better kind of man* is what closes the integration loop. He does not feel the lack. The satisfaction is what makes the habit's continuation feel like virtue rather than evasion.
+
+*Working rule:* none of these may become load-bearing for the structural argument. The moment a humanizing failing starts doing thematic work, it has been absorbed by the architecture and its humanizing function is lost. The architecture is what makes the destruction structurally inevitable; these are what make it emotionally inhabitable. Both are required.
