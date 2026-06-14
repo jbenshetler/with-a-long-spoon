@@ -19,7 +19,7 @@ The **reconciliation with Cassie at the end may matter more than the one with Pa
 
 ## Look
 
-Short and boxy — would tend toward fat but heavy intramural sport holds it off. **The body is used, not watched.** Brown hair in a short shag, grown a little past where a cut would be. No makeup — eschewed, not lacked. Shorts in warm weather, pants in cold; no skirts. The brown is deliberate: it does not twin Randi's black-on-black silhouette, and it does not flatter. The governing word is **unmanaged** — not ugly, not slovenly, just not managing how she lands.
+Short and boxy (5'4") — would tend toward fat but heavy intramural sport holds it off. **The body is used, not watched.** Brown hair in a short shag, grown a little past where a cut would be. No makeup — eschewed, not lacked. Shorts in warm weather, pants in cold; no skirts. The brown is deliberate: it does not twin Randi's black-on-black silhouette, and it does not flatter. The governing word is **unmanaged** — not ugly, not slovenly, just not managing how she lands.
 
 She reads as **asexual** — but this **never surfaces, is never named, and is never any character's observation.** Author-knowledge only. It shapes how she is rendered (the un-watched body, the warmth that wants nothing) and is never content. Same handling discipline as the Cassandra device.
 
