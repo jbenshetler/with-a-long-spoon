@@ -52,6 +52,12 @@ Tall (5'8"), built on a lavish scale — full breasts, deep waist, hips with rea
 
 ---
 
+## Means and Class
+
+Working-class means, working-class pride. Concrete object: a modest **Corolla** — bought *new* by her parents for her to take to college, made possible by her partial scholarship; her father proud to be able to do this for her even though the cost pinches (*"keep the mileage down, it didn't come for free"* — the pride and the pinch in one line). Not a beater and not a leash: a stretched-for gift from people who love her. It carries the class contrast the prose runs on her own terms — her economy Corolla against Randi's self-tucking-in Mercedes — and sits beside the money-anxiety and independence-pride the dressing-room trap later turns against her. Render through object and behavior (the menu-price glance, the debit-card drop), never as stated hardship.
+
+---
+
 ## The Two Registers — Exposure and Evaluation
 
 **Exposure** = her excitement. Admitting things, being seen responding, being told what to do. Pace only ever does this.

@@ -61,7 +61,7 @@ These pieces are the architectural backbone of the novel. The character document
 
 ## VEE (Vivienne Thorne) — The Protagonist / The M
 
-**Established facts** (see summary for full physical/wardrobe/food): Junior, early twenties. Curly redhead, generous curves, a 7–8, abundant where Randi is contained. V.T. initials = Virginia Tech. Mother a nurse, father blue collar; working-class pride, reads menu prices before food. Conservative upbringing — shame and desire wired together, not desire suppressed.
+**Established facts** (see summary for full physical/wardrobe/food): Junior, early twenties. Curly redhead, generous curves, a 7–8, abundant where Randi is contained. V.T. initials = Virginia Tech. Mother a nurse, father blue collar; working-class pride, reads menu prices before food; drives the Corolla her parents bought new for college off her partial scholarship — her father proud to manage it though it pinched — against Randi's Mercedes. Conservative upbringing — shame and desire wired together, not desire suppressed.
 
 **Masochistic orientation (precise):** Rooted in feeling unworthy of love and finding sexual humiliation exciting. About *submitting and being done to*, NOT large amounts of pain. Hand spanking and nipple clamps yes.
 
