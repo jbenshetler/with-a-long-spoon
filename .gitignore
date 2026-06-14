@@ -1,6 +1,7 @@
 instructions
 .claude/settings*
 .claude/mcp*.json
+.claude/agent-memory/
 .opencode.json
 novel-assistant/.env
 novel-assistant/data/
