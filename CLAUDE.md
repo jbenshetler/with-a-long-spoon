@@ -12,7 +12,7 @@ IMPORTANT: When writing scene drafts, do not editorialize and do not telegraph.
 
 ## How this assistant works
 
-The `novel-assistant/` knowledge-graph system has been **retired** — its tools (`research`, `scan`, `verify_draft`, `sync`, `character_knowledge`, …) and the `/scan`, `/sync`, `/verify`, `/scene-prep`, `/post-scene`, `/novel-*` commands no longer exist. Factual lookups go through the **`lore-keeper` subagent** instead (see **Research / lore delegation** below). There is no build mode.
+`novel-assistant/` is a small **recall-first search CLI** — `na.py` (SQLite + sqlite-vec + FTS5, local Ollama embeddings), with two commands: `search` and `reindex`. Factual lookups go through the **`lore-keeper` subagent**, which queries `na.py search` and falls back to `rg`/Read (see **Research / lore delegation** below). Run `na.py reindex` at session start to keep the index fresh.
 
 ---
 
@@ -34,17 +34,17 @@ where it might live. Do not fill the gap with inference.
 
 ### Research / lore delegation
 
-When you need a fact from the corpus, **delegate the search to the `lore-keeper` subagent** rather than reading `meta/` or `scenes/` into the main context. It runs Haiku in its own window: it does the `rg` searching and excerpt-reading there, **filters** to the passages that actually answer, and returns those with sources — keeping this session's context clean. The lore-keeper's job is *filtering, not summarizing*: it returns the relevant material with enough fidelity to preserve nuance (it does **not** crush the answer to a single sentence, and it does **not** dump whole files). **You** synthesize or summarize from what it returns, as the task needs.
+When you need a fact from the corpus, **delegate the search to the `lore-keeper` subagent** rather than reading `meta/` or `scenes/` into the main context. It runs Haiku in its own window: it queries the `na.py` recall-first index (falling back to `rg`), reads the candidate passages there, **filters** to the ones that actually answer, and returns those with sources — keeping this session's context clean. The lore-keeper's job is *filtering, not summarizing*: it returns the relevant material with enough fidelity to preserve nuance (it does **not** crush the answer to a single sentence, and it does **not** dump whole files). **You** synthesize or summarize from what it returns, as the task needs.
 
 Delegate to check character traits/history/prior actions, verify continuity against a drafted scene, confirm a craft rule or canon detail, look up the thesis/track docs, or find prior references to any name/place/object/event. (Skip it for a fact already established earlier in *this* conversation — that's already in context.)
 
-The subagent has a **fresh context** — it cannot see the current draft or our conversation. Every delegation prompt MUST include: (1) the specific question; (2) any draft/conversation snippet it must check against, quoted directly (never "the current scene"); (3) which sources to check if known, else let it search broadly; (4) the answer form wanted (the relevant passages, a continuity verdict, a list of references).
+The subagent has a **fresh context** — it cannot see the current draft or our conversation. Every delegation prompt MUST include: (1) the specific question; (2) any draft/conversation snippet it must check against, quoted directly (never "the current scene"); (3) which sources to check if known, else let it search broadly; (4) the answer form wanted (the relevant passages, a continuity verdict, a list of references); (5) the **active scene slug** when one is in play (drafting/editing), so the lore-keeper can scope the index with `--active-edit`/`--max-sequence`.
 
 **Fan out in parallel.** When a task needs several *independent* lookups — scene-prep across multiple characters plus a setting, or verifying a batch of facts — spawn **as many lore-keeper subagents as there are independent queries, in a single message**, so they run concurrently and minimize the user's wait. One focused query per subagent; don't split a single query, and don't serialize independent ones. Use `Explore` for broad structural sweeps where lore-keeper's tighter return isn't a fit.
 
 ### Starting every session
 
-No automatic indexing or scanning. Confirm with the author which scene/chapter they're working on and proceed; orient from `meta/` (via the lore-keeper) when you need to.
+Run `novel-assistant/na.py reindex` once at the start — it's incremental (re-embeds only changed files; ~40s worst case, usually seconds) and idempotent. Then confirm with the author which scene/chapter they're working on. Orient via the lore-keeper, not by reading `meta/` into context.
 
 ### Before writing any prose
 
@@ -79,7 +79,7 @@ If the author writes something and asks you to review it, delegate a continuity 
 
 - `meta/` — the planning corpus: thesis, per-character architecture, the relationship bible, the scene plan, and the SATC/threesome track docs. This is where the novel is *designed*.
 - `scenes/` — drafted prose. New chapters land here.
-- `novel-assistant/` — the retired knowledge-graph system (legacy; superseded by the `lore-keeper` subagent).
+- `novel-assistant/` — the recall-first search CLI (`na.py`) the lore-keeper queries.
 
 There is no prose draft of most scenes yet; `meta/` is far ahead of `scenes/`. Most work is either (a) developing a planned scene into prose or (b) refining the architecture.
 
