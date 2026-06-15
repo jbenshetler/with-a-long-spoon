@@ -1,6 +1,6 @@
 # Condensed — Vee Tells Cassie — Hike
 
-*Scene · Unwritten · within a day of the hike, before the Fitting · Cassandra track*
+*Scene · Draft complete · `vee-tells-cassie-hike.md` · within a day of the hike, before the Fitting · Cassandra track*
 
 Vee tells Cassie about the hike, the shirt, the deciding — full warm romance-register, the channel Cassie *can* hold. The **clean baseline** of Vee's feeling for Pace, said aloud in the unperformed register *before* Randi ever reshapes the material — load-bearing: the reader needs Vee's feeling rendered clean once, so the later contamination has something to contaminate.
 

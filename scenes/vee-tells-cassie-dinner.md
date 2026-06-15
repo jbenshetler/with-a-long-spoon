@@ -34,7 +34,7 @@ Cassie's whole face was open with it, glad, all the way in — and then, because
 
 "I'm looking."
 
-"Oh — and he asked me hiking. After, walking back. There's some trail he likes." She dropped back onto the bed. "I said yes. I said yes so fast it was — anyway. Yeah. I'm going hiking. Me."
+"Oh — and he asked me hiking. After, walking back. There's some trail he likes." She dropped onto Cassie's bed. "I said yes. I said yes so fast it was — anyway. Yeah. I'm going hiking. Me."
 
 "You've never hiked in your life."
 
