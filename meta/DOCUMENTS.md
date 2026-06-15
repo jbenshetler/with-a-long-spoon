@@ -194,7 +194,7 @@ Listed in chronological order (filesystem = `scenes/`; order, names, and status 
 | `the-meet-cute.md` | The Engineered Meet-Cute | complete |
 | `the-froyo-walk.md` | The Froyo Walk | complete |
 | `may-i-choose.md` | May I Choose — The Dinner (the first surrender) | complete |
-| `vee-tells-cassie-dinner.md` | Vee Tells Cassie — Dinner | complete (not yet in chronology — TODO doc-sync §1) |
+| `vee-tells-cassie-dinner.md` | Vee Tells Cassie — Dinner | complete |
 | `hiking-rainstorm.md` | The Hiking Rainstorm | complete |
 | `vee-tells-cassie-hike.md` | Vee Tells Cassie — Hike | placeholder (file currently duplicates the Dinner telling; real hike/shirt prose to be drafted — TODO doc-sync §1) |
 | `the-fitting.md` | The Fitting | complete |
