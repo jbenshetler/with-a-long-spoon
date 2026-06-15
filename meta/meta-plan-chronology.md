@@ -83,8 +83,8 @@ Vee in bed daydreaming about the fitting. Texts Randi. Randi: *"Girl, we have go
 ## Middle
 
 ### [SCENE] Vee Tells Randi About the Fitting Brunch
-*~Sun Oct 6* · Partial draft · `brunch-fitting-randi.md` · [detail](meta-condensed-brunch-fitting-randi.md)
-First off-campus brunch — format upgraded (velvet alcove, Rombauer by name). Apparatus switches on. Two firsts: the first goodbye-kiss debut; the first ignition of Randi's jealousy via the water-glass tell on *"he looked at me and I was fine."* ← **jealousy ignites here.** Revision flag: *"I have known you a week"* (line 51) is now wrong — ~4 weeks elapsed (Sep 7 → Oct 6); revise. Add: Vee notices Randi's perfume here — first beat of the scent-name thread (flag 17).
+*~Sun Oct 6* · Draft complete · `brunch-fitting-randi.md` · [detail](meta-condensed-brunch-fitting-randi.md)
+First off-campus brunch — format upgraded (velvet alcove, Rombauer by name). Apparatus switches on. Two firsts: the first goodbye-kiss debut; the first ignition of Randi's jealousy via the water-glass tell on *"he looked at me and I was fine."* ← **jealousy ignites here.** Carries the first scent-name beat: Vee notices Randi's perfume, unnamed, in the pre-kiss closeness (flag 17).
 
 ### [VIGNETTE] Randi — Social Price #1
 *~mid-October* · Unwritten · Randi/sorority
@@ -352,4 +352,4 @@ Vee leaves with full knowledge, full anger, full ownership. Pace reads the wrong
 
 16. **Spring is underplanned for its new load.** Two tracks need a planning block: (a) spring SATC — goodbye-kiss staircase steps, grain #2 interleaving, brunches at maximum charm precisely while the reader is primed, April–May thin; revisit `meta-plan-satc-tracks.md`. (b) Spring Randi–Pace — between Spring Inversion and Scalding their evolving dynamic is nearly blank on-page (time-negotiations, the management fraying, ignition-1 preconditions accumulating); all Pace POV, first-read warm/wicked per the Scalding pattern.
 
-17. **Randi's two-scent thread — placement/creation.** Year-round = Diptyque Eau des Sens (ratified); reveal-only peppered rose recorded in `threesome-reveal.md` (+ condensed). To do: (a) SATC scent-name beats — Vee *notices* at the Fitting Brunch, *asks* at the second restaurant brunch (unwritten; asking-placement open) — see `meta-plan-satc-tracks.md`; (b) **create the buys-it→shower beat** (Pace track, ~spring as Vee grows daring): Vee buys Eau des Sens and wears it once; Pace takes her into the shower and washes it off before sex, saying he'd rather smell her — returns her to her own bare skin.
+17. **Randi's two-scent thread — placement/creation.** Year-round = Diptyque Eau des Sens (ratified); reveal-only peppered rose recorded in `threesome-reveal.md` (+ condensed). To do: (a) SATC scent-name beats — Vee *notices* at the Fitting Brunch (drafted, unnamed seed), *asks* at the second restaurant brunch (unwritten; asking-placement open) — see `meta-plan-satc-tracks.md`; (b) **create the buys-it→shower beat** (Pace track, ~spring as Vee grows daring): Vee buys Eau des Sens and wears it once; Pace takes her into the shower and washes it off before sex, saying he'd rather smell her — returns her to her own bare skin.
