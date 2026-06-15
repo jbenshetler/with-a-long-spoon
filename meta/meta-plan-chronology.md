@@ -120,11 +120,11 @@ Randi denigrates the homemade dress to the man who made it. The left-handed comp
 
 
 ### [SCENE] The CW Dance
-*~Thu Oct 24* · Unwritten · [detail](meta-condensed-the-cw-dance.md)
+*~Thu Oct 24* · Draft complete · `cw-dance.md` · [detail](meta-condensed-the-cw-dance.md)
 *"Don't think, just feel the lead"* — plants the threesome's phrase. Erroneous proprietary jealousy (she has standing now, which makes being wrong worse). The older woman's correction: external corroboration against the sorority whisper campaign.
 
 ### [SCENE] The CW-Dance Debrief
-*~Fri Oct 25 · morning after the CW Dance* · Unwritten · SATC · counsel register · Randi's single · [detail](meta-condensed-cw-dance-debrief.md)
+*~Fri Oct 25 · morning after the CW Dance* · Draft complete · SATC · counsel register · Randi's single · `cw-dance-debrief.md` · [detail](meta-condensed-cw-dance-debrief.md)
 Vee already knows she was wrong — the older woman's correction landed complete Thursday night; the overnight was penance, not processing. She shows up at Randi's door Friday morning needing counsel, inverting the usual power geometry. Central irony: she is confessing to the woman Pace is sleeping with that she misread Pace as a womanizer. Randi's validation is eyewitness-credible and perfectly self-serving. Counsel register (not extraction — distinct from First-Night Debrief and the booth format). Randi steers Vee toward a full-throated apology without reservation (the posture Randi cannot occupy herself), reframes the jealousy as proof of feeling, and runs a wardrobe consultation from Vee's own closet — their bodies too different to share clothes, but shoes cross the gap. **First shoe loan** — Randi selects from her private archive of what she wore to Pace; the history rides along unspoken. Establishes the recurring pattern that culminates at the threesome. Vee's addition: the Humble Pie (store-bought, handmade label — her own idiom, not Randi's prescription). Social cost beat: a sister seeing the unaffiliated outsider at the sorority house threshold feeds Social Price #1.
 
 ### [SCENE] The First Swat / The Setup

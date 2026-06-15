@@ -112,44 +112,52 @@ One file per non-trivial scene; the chronology entry links to it. To work on a s
 | `meta-condensed-the-froyo-walk.md` | The Froyo Walk |
 | `meta-condensed-walk-home-kiss.md` | The Walk-Home Kiss |
 | `meta-condensed-may-i-choose.md` | May I Choose |
+| `meta-condensed-vee-tells-cassie-dinner.md` | Vee Tells Cassie — Dinner |
 | `meta-condensed-the-smoothie-shop.md` | The Smoothie Shop |
-| `meta-condensed-the-hiking-rainstorm.md` | The Hiking Rainstorm |
-| `meta-condensed-cassie-before.md` | Cassie — Before |
+| `meta-condensed-hiking-rainstorm.md` | The Hiking Rainstorm |
+| `meta-condensed-the-hiking-rainstorm.md` | The Hiking Rainstorm — ⚠️ orphan duplicate; retire (TODO doc-sync §3) |
+| `meta-condensed-cassie-before.md` | Cassie — Before / "Vee Tells Cassie — Hike" (TODO doc-sync §1) |
 | `meta-condensed-the-fitting.md` | The Fitting |
 | `meta-condensed-vee-tells-cassie-fitting.md` | Vee Tells Cassie About the Fitting |
 | `meta-condensed-brunch-fitting-randi.md` | SATC Brunch — Fitting Debrief |
-| `meta-condensed-randi-takes-scrunchies.md` | Randi Takes the Scrunchies (Grain #1) |
-| `meta-condensed-dress-pickup.md` | Dress Pickup |
-| `meta-condensed-stats-simpsons-paradox.md` | Stats — Simpson's Paradox |
 | `meta-condensed-first-night.md` | First Night Together |
 | `meta-condensed-cassie-after.md` | Cassie — After |
 | `meta-condensed-first-night-debrief.md` | First-Night Debrief |
-| `meta-condensed-the-cw-dance.md` | The CW Dance |
-| `meta-condensed-cw-dance-debrief.md` | The CW-Dance Debrief |
+| `meta-condensed-dress-pickup.md` | Dress Pickup |
+| `meta-condensed-stats-simpsons-paradox.md` | Stats — Simpson's Paradox |
 | `meta-condensed-shoe-shopping.md` | Shoe Shopping with Randi |
 | `meta-condensed-sweet-dress-barb.md` | Randi & Pace — "Sweet" (The Dress Barb) |
+| `meta-condensed-the-cw-dance.md` | The CW Dance |
+| `meta-condensed-cw-dance.md` | The CW Dance — ⚠️ orphan duplicate; retire (TODO doc-sync §2) |
+| `meta-condensed-cw-dance-debrief.md` | The CW-Dance Debrief |
 | `meta-condensed-the-first-swat.md` | The First Swat / The Setup |
+| `meta-condensed-first-swat-debrief.md` | First Swat Debrief |
+| `meta-condensed-the-scrunchies.md` | The Scrunchies |
+| `meta-condensed-the-top-drawer.md` | The Top Drawer |
+| `meta-condensed-the-new-ordinary.md` | The Shirt — Re-Scenting (The New Ordinary) |
 | `meta-condensed-cassie-cooling-off.md` | Cassie & Vee — Cooling-Off |
 | `meta-condensed-the-proof-scene.md` | The Proof Scene |
 | `meta-condensed-vee-tells-randi-proof.md` | Vee Tells Randi About the Proof Scene |
 | `meta-condensed-the-painting-afternoon.md` | The Painting Afternoon |
 | `meta-condensed-vee-tells-randi-painting.md` | Vee Tells Randi About the Painting |
 | `meta-condensed-covid-ppp-project.md` | The COVID / PPP Statistics Project |
-| `meta-condensed-christmas-fight.md` | The Christmas Fight |
+| `meta-condensed-back-from-thanksgiving.md` | Back from Thanksgiving — Tells Cassie |
 | `meta-condensed-the-porch-scene.md` | The Porch Scene — Cracker-and-Meal |
+| `meta-condensed-christmas-fight.md` | The Christmas Fight |
 | `meta-condensed-the-flat-date.md` | The Flat Date |
 | `meta-condensed-first-weekend-back.md` | First Weekend Back |
 | `meta-condensed-the-dance.md` | The Dance (Format Break) |
 | `meta-condensed-cw-jitterbug.md` | The CW Jitterbug Scene |
 | `meta-condensed-vee-tells-randi-dance.md` | Vee Tells Randi About the Dance (The Jar) |
 | `meta-condensed-bondage.md` | Bondage |
-| `meta-condensed-grain-2-scrunchies.md` | Grain #2 — Randi Wears the Scrunchies |
+| `meta-condensed-randi-takes-scrunchies.md` | Grain #1 — Randi Takes the Scrunchies (The First Flicker) |
+| `meta-condensed-grain-2-scrunchies.md` | Grain #2 — Worn in Plain Sight |
 | `meta-condensed-bb-weekend.md` | The B&B Weekend |
 | `meta-condensed-nipple-clamps.md` | Nipple Clamps |
-| `meta-condensed-sheer-dress-brunch.md` | The Sheer Dress Brunch + The Dressing Room |
-| `meta-condensed-the-peaches.md` | The Peaches |
 | `meta-condensed-grain-3-restoration.md` | Grain #3 — The Restoration (The Loud One) |
 | `meta-condensed-threesome-introduction.md` | The Threesome Introduction |
+| `meta-condensed-sheer-dress-brunch.md` | The Sheer Dress Brunch + The Dressing Room |
+| `meta-condensed-peaches.md` | The Peaches |
 | `meta-condensed-threesome-reveal.md` | The Threesome and Reveal |
 | `meta-condensed-ending-sequence.md` | The Ending Sequence |
 
@@ -174,7 +182,7 @@ One file per non-trivial scene; the chronology entry links to it. To work on a s
 
 ## Scene Files (Prose)
 
-Listed in chronological order. Status: **complete** / **partial** / **beats only** / **planning doc**.
+Listed in chronological order (filesystem = `scenes/`; order, names, and status per `meta-plan-chronology.md`). Status: **complete** / **draft in progress** / **partial** / **beats only**.
 
 | File | Scene | Status |
 |------|-------|--------|
@@ -185,15 +193,22 @@ Listed in chronological order. Status: **complete** / **partial** / **beats only
 | `the-meet-cute.md` | The Engineered Meet-Cute | complete |
 | `the-froyo-walk.md` | The Froyo Walk | complete |
 | `may-i-choose.md` | May I Choose — The Dinner (the first surrender) | complete |
+| `vee-tells-cassie-dinner.md` | Vee Tells Cassie — Dinner | complete (not yet in chronology — TODO doc-sync §1) |
+| `hiking-rainstorm.md` | The Hiking Rainstorm | complete |
+| `cassie-before.md` | Cassie — Before | complete (prose duplicates the Dinner telling; the post-hike "Hike" telling is effectively unwritten — TODO doc-sync §1) |
 | `the-fitting.md` | The Fitting | complete |
 | `vee-tells-cassie-fitting.md` | Vee Tells Cassie About the Fitting | complete |
-| `brunch-fitting-randi.md` | SATC Brunch — Fitting Debrief | partial (opening movement; see revision flag in condensed file) |
-| `hiking-rainstorm.md` | The Hiking Rainstorm | complete |
-| `cassie-before.md` | Cassie — Before | complete |
+| `brunch-fitting-randi.md` | SATC Brunch — Fitting Debrief | complete |
 | `first-night.md` | First Night Together | complete |
+| `dress-pickup.md` | Dress Pickup | complete |
+| `stats-simpsons-paradox.md` | Stats — Simpson's Paradox | complete |
+| `cw-dance.md` | The CW Dance | complete |
+| `cw-dance-debrief.md` | The CW-Dance Debrief | complete |
+| `back-from-thanksgiving.md` | Back from Thanksgiving — Tells Cassie | complete |
 | `porch-scene.md` | The Porch Scene — Cracker-and-Meal | complete |
 | `ignition-scalding.md` | Scalding Jealousy Ignition | draft in progress (holding bay — placement TBD) |
-| `threesome-reveal.md` | The Threesome and Reveal / The Ending Sequence | planning doc |
+
+**Note:** the Threesome / Ending exists only as the planning doc `meta/threesome-reveal.md` (architecture complete, prose not drafted) — it is not a `scenes/` prose file.
 
 ---
 
