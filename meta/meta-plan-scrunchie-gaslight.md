@@ -1,0 +1,38 @@
+# Notes — The Scrunchie Gaslight
+
+*Development note. The scrunchie sub-thread that launches the planted-clue campaign against Vee's own perception. Decoupled from the dress cluster: the form-plant and the domestic risers sit in early November (The Scrunchies, The Top Drawer), and the grains run in spring. See `meta-plan-chronology.md` (the Grain entries) and `meta-condensed-the-scrunchies.md` / `-the-top-drawer.md` / `-randi-takes-scrunchies.md`. To be developed into scenes later.*
+
+---
+
+## The mechanism — full
+
+**What it is.** Not a clue *about another woman* — an attack on Vee's trust in her own perception. The campaign's real objective is **disabling her clue-detector**: training her, early, to override her own correct readings, so that when bigger grains land she's already conditioned to file them under *I'm probably imagining it.* Everything points **inward** (Vee doubting herself / crediting Pace), never **outward** (no "whose is this?"). The inward direction is what protects the reveal.
+
+**The habit it rides (the engine).** Pace stocks scrunchies for Vee on a **cardboard form** (≈50 on a new form) in a bathroom drawer — unweaponized provision, pure care. Vee's habit: she takes them **off the form** to wear, and when she returns one she **drops it loose in the drawer — she never re-threads the form.** Therefore, under her own behavior, **the form only ever depletes.** The form going *up* is impossible by her habit. This is a rule **only Vee can perceive, and only half-consciously** — Pace would never track the count; he'd see scrunchies and scrunchies. Purest "only a woman would find it," sharpened to "only *this* woman."
+
+**The arithmetic (the escalation).**
+
+| Beat | Form count | Move | What Vee registers |
+|---|---|---|---|
+| Normal use | 50 → ~38 | Vee's own wear | nothing |
+| **Grain #1** | 38 → **32** | Randi takes ~6 | *edge of noticeable* — steeper drop than her use explains; snags but unconfirmable (down is plausible); **puts her on watch** |
+| Normal use | 32 → ~20 | Vee's own wear | nothing new (watching, but consistent) |
+| **Grain #3** | 20 → **24** | Randi returns ~4 | **loud** — the form went *up*, impossible by her habit; unmissable because she's watching and the base is low |
+
+- **#1 is calibrated to the edge** — enough to snag, not enough to be sure. Its real job is *priming the watch.*
+- **#3 is a smaller absolute change than #1 but qualitatively louder** — because **direction**: down is plausible, *up is impossible.* A small change in the impossible direction beats a large one in the plausible direction. The low base (20) also makes +4 proportionally obvious; deplete the form *before* restoring so the refill pops.
+
+**Grain #2 — worn in plain sight (between #1 and #3, ongoing).** Randi **wears the taken scrunchies around Vee** — a kind unlike Randi's usual. Sub-threshold flicker each time (*almost like mine*), killed on contact because scrunchies aren't unique (bought, or from a sister). Lands on an already-primed Vee, so the flicker has something to attach to. **Coldest object-beat in the book:** Randi wearing the stolen tokens of Pace's care for Vee, to Vee's face, across months.
+
+**The cover for #3 (load-bearing — protects the reveal).** The available explanation Vee reaches for is ***"Pace must have refilled them for me"*** — the loving-Pace story, with *"or I'm misremembering my own habit"* underneath. **Devastating on reread:** she credits him with tenderness at the exact moment of Randi's sabotage. As long as this cover holds and she takes it, #3 gaslights *inward* instead of implicating *outward*. If she ever reached "someone added these → who?", the mechanism breaks. Keep the cover available and keep her taking it.
+
+**Why this beats the earlier "foreign scrunchie" version.** A foreign/used stranger-object is a *presence* clue that points outward (toward another woman) and risks tipping Vee toward the right suspicion too early. The restoration points nowhere — it actively steers her *away* from suspicion and back toward self-doubt. Safer for the architecture, and crueler: it's the deepest possible cut to *this* character, whose arc is an accurate-perceiver walked into catastrophe because the people closest corrupt her data. Miniature of the whole book's information-asymmetry engine (the statistics irony; the reveal handing her the full dataset at last).
+
+---
+
+## Open questions (develop later)
+
+- **Grain slots/timing.** The grains run in spring (chronology). Confirm the slots: grain #1 (the taking), grain #2 (worn-in-plain-sight, ongoing), grain #3 (the restoration — deeper in, when stakes/trust are higher; keep it off the swat/proof visits).
+- **Grain #2 start & frequency.** When does Randi first wear them around Vee, and how often across the back half?
+- **Does the gaslight surface at the reveal?** When Vee gets the full dataset, does the scrunchie campaign come back to her consciously — the moment she realizes the drawer was lying to her, that her instrument was right all along and was deliberately corrupted? Strong candidate for a reread-detonating beat; decide whether it's named or left for the reader.
+- **The exact numbers** (50 / 38 / 32 / 20 / 24) are a working model for the *shape* of the escalation, not necessarily on-page figures.
