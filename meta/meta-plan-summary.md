@@ -236,7 +236,7 @@ The project now operates with a **five-document core** carrying the architectura
 - **`the-fitting.md`**, **`notes-the-fitting.md`** — the burgundy-dress scene.
 - **`the-bench.md`** — the bench scene.
 - **`randis-walk-of-shame.md`** — the post-bench bathroom moment.
-- **`threesome-reveal.md`** — motivations, evolution, mechanics, the reveal, the resolution. Authoritative on the threesome and ending at the scene-level.
+- **`meta-note-threesome-reveal.md`** — motivations, evolution, mechanics, the reveal, the resolution. Authoritative on the threesome and ending at the scene-level.
 - **`satc-track-scenes.md`** — the Randi/Vee confidante track: verbal and physical staircases, format-breaks, how to vary the brunches, dos and don'ts. Authoritative on the SATC track.
 - **`pace-house.md`** — Pace's house room-by-room detail.
 

@@ -63,7 +63,7 @@ e.g. `scene-plan-chronology.md` references `the_fitting.md` (actual:
 `meta/` still mixes snake_case (`novel_thesis.md`, `pace_architecture.md`,
 `randi_architecture.md`, `vivienne_architecture.md`) and kebab-case
 (`character-relationship-bible.md`, `satc-track-scenes.md`,
-`scene-plan-chronology.md`, `threesome-reveal.md`, `notes-the-fitting.md`,
+`scene-plan-chronology.md`, `meta-note-threesome-reveal.md`, `notes-the-fitting.md`,
 `summary.md`). Optional future unification to one style (kebab-case is the majority).
 
 -----
