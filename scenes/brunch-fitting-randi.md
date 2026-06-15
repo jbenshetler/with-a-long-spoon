@@ -1,7 +1,5 @@
 # The Brunch — Vee Tells Randi About the Fitting
 
-*(SATC track. Opening movement: the pickup, the room, the menu/wine choreography, and Randi's tickling-bound opener into the handoff. The extraction proper — bust, "Cold?", the warm-house cup-tell, the wet-spot probe — is the second movement, drafted separately. Vee's POV.)*
-
 ---
 
 The Mercedes was at the curb when Vee came down, top already folded back, Randi behind the wheel in sunglasses with one wrist draped over the top of the door. The car was long and low and a green so dark it read as black until the sun moved on it, and it sat at the curb the way expensive things sit, without apology, taking up exactly the room it intended to.
@@ -48,7 +46,7 @@ Vee looked at the wine list, which was its own card, and found the Rombauer on i
 
 "Guess anyway."
 
-"Randi. I have known you a week. You could have robbed a bank — that I'd believe — but past that there is genuinely no telling. You're a woman of mystery."
+"Randi. I have only known you a few weeks. You could have robbed a bank — that I'd believe — but past that there is genuinely no telling. You're a woman of mystery."
 
 Randi laughed, the real one, pleased. "Okay, fine, you're no fun and I'm dying to tell you anyway." She came in close over the table, conspiratorial, warm, bringing Vee in with her. "So I let this beautiful idiot take me home. Sweet, gorgeous, completely in love with himself — you know the kind, the kind you keep around for the view. And we get back to his place and I decide I want to play, so I have him tie my wrists to the headboard. With a *scarf.* Very romantic, very incompetent, the knot came loose twice." She was grinning, lit up with it, and the grin was an invitation. "And then he tickles me."
 
@@ -174,6 +172,8 @@ And Vee leaned across the gearshift to do the quick thing, the cheek thing, the 
 "See you soon, gorgeous."
 
 Vee got out. The car pulled away down the fire lane, unhurried, and the sound of it thinned into the ordinary evening, and Vee stood on the curb.
+
+The smell of her had come away too, caught in Vee's hair and at her own jaw where the hand had rested, something bright and green she had no name for, there and then gone when she turned her head to find it.
 
 She put two fingers to her mouth without deciding to.
 
