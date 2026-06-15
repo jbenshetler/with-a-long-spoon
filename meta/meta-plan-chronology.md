@@ -74,10 +74,6 @@ He turned the heat up before she came. Burgundy silk matched to her coloring, no
 *~Sat Oct 5 · same afternoon as the Fitting* · Draft complete · `vee-tells-cassie-fitting.md` · [detail](meta-condensed-vee-tells-cassie-fitting.md)
 Warmer, less performed than the Randi version. The heat detail lands hardest (*"He turned it up days ago, probably"*); Cassie goes still. Tips into comedy. Quiet Cassandra-track work. Pairs with the Cassie beat in Stats — Simpson's Paradox (experience → completed object).
 
-### [VIGNETTE] Vee Texts Randi
-*Early fall · ~Sat Oct 5 · evening* · Unwritten
-Vee in bed daydreaming about the fitting. Texts Randi. Randi: *"Girl, we have got to go to brunch so you can spill the tea."* Bridges the Fitting's private aftermath to Randi's first operation.
-
 ---
 
 ## Middle
