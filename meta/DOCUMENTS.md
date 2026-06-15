@@ -196,7 +196,7 @@ Listed in chronological order (filesystem = `scenes/`; order, names, and status 
 | `may-i-choose.md` | May I Choose — The Dinner (the first surrender) | complete |
 | `vee-tells-cassie-dinner.md` | Vee Tells Cassie — Dinner | complete |
 | `hiking-rainstorm.md` | The Hiking Rainstorm | complete |
-| `vee-tells-cassie-hike.md` | Vee Tells Cassie — Hike | placeholder (file currently duplicates the Dinner telling; real hike/shirt prose to be drafted — TODO doc-sync §1) |
+| `vee-tells-cassie-hike.md` | Vee Tells Cassie — Hike | complete |
 | `the-fitting.md` | The Fitting | complete |
 | `vee-tells-cassie-fitting.md` | Vee Tells Cassie About the Fitting | complete |
 | `brunch-fitting-randi.md` | SATC Brunch — Fitting Debrief | complete |
