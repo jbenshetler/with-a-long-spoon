@@ -120,7 +120,7 @@ One file per non-trivial scene; the chronology entry links to it. To work on a s
 | `meta-condensed-brunch-fitting-randi.md` | SATC Brunch — Fitting Debrief |
 | `meta-condensed-randi-takes-scrunchies.md` | Randi Takes the Scrunchies (Grain #1) |
 | `meta-condensed-dress-pickup.md` | Dress Pickup |
-| `meta-condensed-vee-shows-cassie-dress.md` | Vee Shows Cassie the Dress |
+| `meta-condensed-stats-simpsons-paradox.md` | Stats — Simpson's Paradox |
 | `meta-condensed-first-night.md` | First Night Together |
 | `meta-condensed-cassie-after.md` | Cassie — After |
 | `meta-condensed-first-night-debrief.md` | First-Night Debrief |
