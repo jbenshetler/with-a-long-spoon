@@ -86,6 +86,24 @@ Worship-only; no room / "who's the man" comparison — keeps it on the two of th
 
 ---
 
+## OPEN — doc-status / registry sync (logged 2026-06-15)
+
+Found in a draft-status audit (scene files vs. the registries). **Fixed this pass:** chronology marked **The CW Dance** and **The CW-Dance Debrief** Unwritten though both are full drafts (`cw-dance.md` 3,065w; `cw-dance-debrief.md` 3,977w) → flipped to Draft complete with file refs; the stale-Unwritten briefs `meta-condensed-cw-dance-debrief.md` and `meta-condensed-the-froyo-walk.md` (prose long since drafted) likewise flipped to Draft complete.
+
+**OPEN — decisions / cleanup (do not auto-resolve):**
+
+1. **Cassie dinner/before tangle.** `vee-tells-cassie-dinner.md` (the 8b dinner-night telling — first kiss + hiking invitation) is a complete canonical draft (brief `meta-condensed-vee-tells-cassie-dinner.md`, Draft complete) but has **no entry in `meta-plan-chronology.md`** and **no row in `DOCUMENTS.md`** — add both (after May I Choose, before the hike). Meanwhile `cassie-before.md`'s prose is a near-duplicate of that dinner scene, NOT the **post-hike "hike + shirt" telling** its own brief and the chronology entry **"Vee Tells Cassie — Hike"** (Unwritten, ~Sep 29) describe — so the post-hike telling is effectively still unwritten and `cassie-before.md` is a mis-filled file. Decide: retire `cassie-before.md` and write the real post-hike telling, or repurpose it. (Note: the RESOLVED entry below asserts the two are "distinct" — the prose currently contradicts that.)
+
+2. **CW-dance brief orphan.** `meta-condensed-cw-dance.md` exists but is not registered in `DOCUMENTS.md`; the registered/chronology-linked brief is `meta-condensed-the-cw-dance.md`. Both still say Unwritten. Update the canonical (`the-cw-dance`) to Draft complete and retire `meta-condensed-cw-dance.md`.
+
+3. **Hiking-rainstorm brief orphan.** Canonical brief is `meta-condensed-hiking-rainstorm.md` (Draft complete; per chronology flag 11's "not `the-`" note), but `DOCUMENTS.md` registers the stale `meta-condensed-the-hiking-rainstorm.md` (Unwritten). Swap the `DOCUMENTS.md` reference and retire the `the-` orphan.
+
+4. **The Fitting brief date.** `meta-condensed-the-fitting.md` dates the scene "~Sat Oct 28"; chronology says "~Sat Oct 5" (and order requires it before the First Swat, ~Oct 26). The dress-cluster MWF shift didn't propagate to the brief — confirm and correct.
+
+5. **`DOCUMENTS.md` needs a full reconciliation pass.** Its prose-status table is missing 6 drafted files (`back-from-thanksgiving.md`, `cw-dance.md`, `cw-dance-debrief.md`, `dress-pickup.md`, `stats-simpsons-paradox.md`, `vee-tells-cassie-dinner.md`) and is mis-ordered (e.g., `hiking-rainstorm` listed after `the-fitting`). Rebuild the prose table and fix the brief-table references from the corrected chronology in one pass (folds in items 1–3).
+
+---
+
 ## DONE — this session (archived for history)
 
 - **`together-in-class.md` (scene 4) — DRAFTED.** The Chi Latte diptych. Collapses former scenes 4 (stats-class proximity), 5 (first one-on-one), and 6 (Cassie's Warning) into one two-panel scene; first Randi/Vee one-on-one moved earlier (same day as class). Repurposed the name-bit onto Cassie (flat-return exposes the routine); deferred the goodbye-kiss thread to a hug (rung zero; first kiss stays at brunch 14b); planted latent-variables (stats mirror) in buried open/close framing; introduced Chi Latte / Χ ΛΑΤΕ on Draper St as the Randi venue (distinct from Wilson St); planted Vee's latent attraction to women under the room-scan and the Lululemon/"slut" self-censorship; content-evaporation close (hangs on every word, keeps the feeling not the transcript); "Goodbye, Vee" / "Love you, girl. See you later" as the bracketing dual-meaning parting lines. Propagated to: chronology (entry rewritten, flags 5/8/9/10), brief (count 9→10, drafted list), bible (name-exchange divergence note, Cassie first-warning anchor, Vee first-one-on-one wardrobe note), DOCUMENTS.md (scene table).

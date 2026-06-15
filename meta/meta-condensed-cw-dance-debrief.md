@@ -1,6 +1,6 @@
 # Condensed — The CW-Dance Debrief
 
-*SCENE · Unwritten · Fri Oct 25 · morning after the CW Dance · SATC · counsel register · Randi's single*
+*SCENE · Draft complete · `cw-dance-debrief.md` · Fri Oct 25 · morning after the CW Dance · SATC · counsel register · Randi's single*
 
 ## Key Moves (Repurposing)
 
