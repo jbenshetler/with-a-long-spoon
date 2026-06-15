@@ -51,7 +51,7 @@ Progression (interleave across the back half, not front-loaded; still climbing a
 
 Added cousins (your Session 5 details): hand on the hip; a hug combined with the kiss that presses their breasts together; Vee smelling her perfume or tasting her mimosa on the kiss. The mimosa taste is a faint rehearsal of tasting *her* — intimate, oral, fully explicable as an accident of two glasses and a close goodbye.
 
-**The scent-name thread (arms the reveal swap).** Vee *notices* Randi’s perfume at the first restaurant brunch (the Fitting Brunch) and, recalling it, *asks its name* at the second — the knowing that lets the reveal’s foreign scent register as wrong. Asking-placement open (a later brunch may be too late; the liminal frame allows it earlier). Pays off in `threesome-reveal.md`.
+**The scent-name thread (arms the reveal swap).** Vee *notices* Randi’s perfume at the first restaurant brunch (the Fitting Brunch) and, recalling it, *asks its name* at the second — the knowing that lets the reveal’s foreign scent register as wrong. Asking-placement open (a later brunch may be too late; the liminal frame allows it earlier). Pays off in `meta-note-threesome-reveal.md`.
 
 **Reveal payoff:** every goodbye kiss is Vee’s body cataloguing the one kiss it will recognize in the dark. **The kiss is the SOLE channel of identity in the threesome** (see threesome doc). Vee built and maintained the cover herself, brunch after brunch — there’s no one to blame for the goodbye kisses.
 

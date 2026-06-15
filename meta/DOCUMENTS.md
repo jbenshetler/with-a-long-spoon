@@ -84,6 +84,7 @@ architecture, more specific than scene plans. Named `meta-note-<subject>`.
 | `meta-note-pace-contraction.md` | Dancing loss, cycling diminishment, powerlifting draw-down, dissertation frontier stall, house-policing tax, seven-nights friction. *(to be created)* |
 | `meta-note-triangulation.md` | How Randi receives Vee from two feeds; the lunch as prepared re-entry not discovery; the too-specific question as craft tell. *(to be created)* |
 | `meta-note-pace-protects-vee.md` | How Pace's reporting to Randi gradually edits; the withholding as unnamed protection; Randi reading the contour of omission; the threesome as breach of every protection. *(to be created)* |
+| `meta-note-threesome-reveal.md` | Authoritative on the climax: the two-tier blindfold structure, the kiss as sole channel of identity, the reveal image, the closed (not ajar) ending. Companion briefs: `meta-condensed-threesome-reveal.md`, `meta-condensed-ending-sequence.md`. |
 
 ---
 
@@ -208,7 +209,7 @@ Listed in chronological order (filesystem = `scenes/`; order, names, and status 
 | `porch-scene.md` | The Porch Scene — Cracker-and-Meal | complete |
 | `ignition-scalding.md` | Scalding Jealousy Ignition | draft in progress (holding bay — placement TBD) |
 
-**Note:** the Threesome / Ending exists only as the planning doc `meta/threesome-reveal.md` (architecture complete, prose not drafted) — it is not a `scenes/` prose file.
+**Note:** the Threesome / Ending exists only as the planning doc `meta/meta-note-threesome-reveal.md` (architecture complete, prose not drafted) — it is not a `scenes/` prose file.
 
 ---
 

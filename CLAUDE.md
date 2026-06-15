@@ -95,7 +95,7 @@ Authoritative-by-domain (each doc owns its subject; don't relitigate it elsewher
 - `meta/meta-thesis.md` — the structural argument: the three destructive appetites, the bargain, why each character half-sees. The "why" under everything.
 - `meta/meta-arch-pace.md`, `meta/meta-arch-randi.md`, `meta/meta-arch-vivienne.md` — deep per-character architecture (the *why*); each has a `meta/meta-craft-*.md` companion for voice/craft/surface rendering.
 - `meta/meta-plan-satc-tracks.md` — authoritative on the Randi/Vee confidante track: the verbal and physical (goodbye-kiss) staircases, the format-break scenes, how to vary the brunches, and its own DOs/DON'Ts.
-- `meta/threesome-reveal.md` — authoritative on the climax: the two-tier blindfold structure, the kiss-as-sole-channel-of-identity, the reveal image, the closed (not ajar) ending.
+- `meta/meta-note-threesome-reveal.md` — authoritative on the climax: the two-tier blindfold structure, the kiss-as-sole-channel-of-identity, the reveal image, the closed (not ajar) ending.
 - `meta/meta-condensed-*.md` and `meta/meta-note-*.md` — per-scene condensed briefs and scene-specific companion notes (e.g. `meta-condensed-the-fitting.md`, `meta-note-the-bench.md`). Pattern for how scene-local material is kept.
 - `meta/meta-plan-pace-house.md` — the **set/continuity reference for Pace's house**: spatial layout (room by room), what's been committed to the page vs. still planned, recurring fixtures, and continuity flags. Authoritative on *where things are*; defers to the bible for what each room means.
 

@@ -93,7 +93,7 @@ Petite (5'2"), built to the "proper" scale she maintains and grades other women 
 
 *When she is choosing* — nights with Pace, SATC lunches, anything she has arranged — she presents in the full register: cream cashmere, champagne camisole, gold pants. Makeup sharp and precise: cat eye, cut-crease eyeshadow, full-coverage contoured foundation, two-tone overlining on lips with clean color separation. Jewelry minimal and exact: pearl studs in white gold as the everyday signature, diamond solitaire on platinum chain for dressier occasions, Cartier bracelet for formal events. **Perfume:** Diptyque Eau des Sens — bitter orange, green, juniper, no sweetness; the cool-surface/warm-underneath construction made olfactory.
 
-**Reveal-only:** for the threesome she swaps to an unfamiliar peppered rose — warm, a bright peppery bite, a heat that sparkles and stings; nameless to Vee. See `threesome-reveal.md`.
+**Reveal-only:** for the threesome she swaps to an unfamiliar peppered rose — warm, a bright peppery bite, a heat that sparkles and stings; nameless to Vee. See `meta-note-threesome-reveal.md`.
 
 *On campus, when she is not performing* — Wednesday afternoon, chapter dinner, athleisure hours — she presents in social camouflage: Greek pastel quarter-zip, leggings, box-fresh trainers. The ponytail is constant; the costume varies by venue. The camouflage is still controlled, still correct, still exactly what the occasion calls for. The Art Deco grammar runs underneath it whether or not the full register is deployed.
 
