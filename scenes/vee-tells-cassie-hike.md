@@ -1,4 +1,4 @@
-# Cassie — Before
+# Vee Tells Cassie — Hike
 
 *Vignette · same evening as the dinner (8b) · Vawter Hall, the dorm room · Vee's POV · the clean baseline of her feeling for Pace, said aloud before Randi reshapes it*
 
