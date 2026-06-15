@@ -1,4 +1,4 @@
-# Condensed — Cassie — Before
+# Condensed — Vee Tells Cassie — Hike
 
 *Scene · Unwritten · within a day of the hike, before the Fitting · Cassandra track*
 
@@ -8,4 +8,4 @@ Quiet dramatic irony (Cassie, who warned about Pace at the meet-cute, doesn't re
 
 Highlighter down, *Oh, Vee.*
 
-Pairs structurally with the after-beat (13a).
+Distinct from the dinner-night telling (Vee Tells Cassie — Dinner): that is the giddy first-kiss / agency beat the same night as May I Choose; this is the later, deepening telling after the hike. Pairs structurally with the after-beat (Cassie — After, 13a) as its photographic negative.

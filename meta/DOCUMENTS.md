@@ -117,7 +117,7 @@ One file per non-trivial scene; the chronology entry links to it. To work on a s
 | `meta-condensed-the-smoothie-shop.md` | The Smoothie Shop |
 | `meta-condensed-hiking-rainstorm.md` | The Hiking Rainstorm |
 | `meta-condensed-the-hiking-rainstorm.md` | The Hiking Rainstorm — ⚠️ orphan duplicate; retire (TODO doc-sync §3) |
-| `meta-condensed-cassie-before.md` | Cassie — Before / "Vee Tells Cassie — Hike" (TODO doc-sync §1) |
+| `meta-condensed-vee-tells-cassie-hike.md` | Vee Tells Cassie — Hike (pure-romance telling; pairs with Cassie — After) |
 | `meta-condensed-the-fitting.md` | The Fitting |
 | `meta-condensed-vee-tells-cassie-fitting.md` | Vee Tells Cassie About the Fitting |
 | `meta-condensed-brunch-fitting-randi.md` | SATC Brunch — Fitting Debrief |
@@ -196,7 +196,7 @@ Listed in chronological order (filesystem = `scenes/`; order, names, and status 
 | `may-i-choose.md` | May I Choose — The Dinner (the first surrender) | complete |
 | `vee-tells-cassie-dinner.md` | Vee Tells Cassie — Dinner | complete (not yet in chronology — TODO doc-sync §1) |
 | `hiking-rainstorm.md` | The Hiking Rainstorm | complete |
-| `cassie-before.md` | Cassie — Before | complete (prose duplicates the Dinner telling; the post-hike "Hike" telling is effectively unwritten — TODO doc-sync §1) |
+| `vee-tells-cassie-hike.md` | Vee Tells Cassie — Hike | placeholder (file currently duplicates the Dinner telling; real hike/shirt prose to be drafted — TODO doc-sync §1) |
 | `the-fitting.md` | The Fitting | complete |
 | `vee-tells-cassie-fitting.md` | Vee Tells Cassie About the Fitting | complete |
 | `brunch-fitting-randi.md` | SATC Brunch — Fitting Debrief | complete |

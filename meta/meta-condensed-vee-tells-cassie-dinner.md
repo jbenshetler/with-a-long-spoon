@@ -28,7 +28,7 @@ Vee comes in from the dinner still lit up and tells Cassie that same night. The 
 
 ## Distinctions / Continuity
 
-- **Distinct from Cassie — Before**, which is a separate later beat (pre-first-night, about the hike and shirt, paired photographic-negative with Cassie — After). This vignette is the dinner-night beat and does not replace or move it.
+- **Distinct from Vee Tells Cassie — Hike**, which is a separate later beat (pre-first-night, about the hike and shirt, paired photographic-negative with Cassie — After). This vignette is the dinner-night beat and does not replace or move it.
 - **No meet-cute-line callback.** The meet-cute's no-attraction observation (*"the way you'd look at somebody's great-aunt"* — formerly the cut "like she was a chair") was considered as a callback here and dropped — wrong-shaped for this moment (it's about Pace showing Randi no desire, not about Vee's unchecked yes), and invoking it would attach the dread to a mismatched prior. The dread stays unnamed and structural.
 - **Vawter Hall** canonized as Vee's dorm (buried sense: *water* under a real Virginia surname — her involuntary bodily tell, one layer down, deniable).
 - Mother-as-censor stays **unnamed**: the inheritance rides the starched cadence of *"I don't kiss a man I've known a few days,"* not an attribution.
