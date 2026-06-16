@@ -2,9 +2,9 @@
 
 *SCENE · Draft complete · `cw-dance-debrief.md` · morning after the CW Dance · SATC · counsel register · Randi's single*
 
-## Key Moves (Repurposing)
+## Register
 
-**REPURPOSED** (this revision). Was "Vee Tells Randi About the First Night" (now handled by First-Night Debrief). This is now the **CW-dance debrief**, a distinct SATC register: **counsel, not confession.**
+This is the **CW-dance debrief**, a distinct SATC register: **counsel, not confession.** (The first-night telling is handled by the First-Night Debrief.)
 
 ## Timing
 

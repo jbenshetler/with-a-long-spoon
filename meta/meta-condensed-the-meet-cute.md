@@ -10,6 +10,3 @@ Cassie delivers the device cold: she clocks that Pace showed Randi no attraction
 
 Plan formally begins; two of three know.
 
-## Revision Notes
-
-> **SEQUENCE NOTE (Phase 2 reorder, this revision).** The early-relationship run was resequenced. **Reading order through the cluster:** The Froyo Walk → The Walk-Home Kiss → May I Choose → **The Smoothie Shop** → The Hiking Rainstorm → Vee Tells Cassie — Hike → The Fitting → Vee Tells Randi About the Fitting Brunch → First Night Together → Cassie — After → First-Night Debrief → The CW Dance → The CW-Dance Debrief. The calendar dates and the cross-references below carry the true order. Three structural moves drive it: (1) the hike now precedes the Fitting so the swoon is in place and the Fitting's bright-room exposure stays pre-first-night (the draft already reads this way — *"they hadn't gotten there yet, hadn't had the dark"*); (2) the CW dance moves after the first night so its jealousy is earned and proprietary rather than igniting the first night; (3) the first night is now motivated by the Fitting's deferred tension, not by the dance. See continuity flags 11–14.

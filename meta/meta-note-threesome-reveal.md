@@ -138,9 +138,9 @@ Sequence: recognition → retroactive reconstruction → physical awareness → 
 
 -----
 
-## THE RESOLUTION (deliberately unresolved, and now CLOSED, not ajar)
+## THE RESOLUTION (deliberately unresolved, and closed)
 
-Earlier notes left the Vee/Pace door “ajar.” **Superseded.** With the betrayal built as it now is — load-bearing, foundational — there is no road back. The door is **closed: not slammed, just quietly and permanently shut by someone walking through it and not looking back.**
+With the betrayal built as it is — load-bearing, foundational — there is no road back. The door is **closed: not slammed, just quietly and permanently shut by someone walking through it and not looking back.**
 
 ### Vee’s reactions
 

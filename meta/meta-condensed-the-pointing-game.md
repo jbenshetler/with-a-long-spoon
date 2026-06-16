@@ -41,8 +41,5 @@ Randi comes back glowing and failing to hide it. *"Her name is Vee. And we've go
 - **Pace's reading is sincere and instructive AND blind in his signature way.** First-read he is clocking a special moment; reread, he is misattributing the cause (it is need surfacing in Randi, not Vee being ungradeable; he sees the *behavior* accurately and *misreads its source*). Protected — see `meta-note-the-pointing-game-pace-misread.md`.
 - **Vee's appetite is already operating before she knows toward what.** The collision so precisely executed that *the redhead apologizes*, and her feet do the small happy thing — her bravery as the appetite's executable, panel one of the reader's running ledger.
 
-## Revision Notes
-
-> **History.** Drafted in two pieces — the campus walk first (formerly `origin-campus-walk.md`), the bed sequence later (formerly `plan-origin.md`). Collapsed into one diptych file matching the project's existing diptych precedent (`together-in-class.md`). The earlier two-file split was a drafting artifact; the planning floor (`meta-plan-summary.md`) has always called it *"one scene, two settings, continuous."*
 
 > **Protected language at panel-two line ~117** (the "ungradeable / nothing to grade" sentences and the frame-break that follows at ~121–125) is Pace's diegetic misattribution, not a narrator-claim about Vee's nature. Full rationale: `meta-note-the-pointing-game-pace-misread.md`. A continuity pass will want to "fix" it to match the corrected craft-vivienne mis-categorization framing — **it must not.**

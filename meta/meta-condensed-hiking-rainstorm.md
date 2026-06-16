@@ -59,10 +59,8 @@ Pace takes Vee on her first hike — a short, steep climb through a tunnel of tr
 
 ## Continuity and Revision Notes
 
-> **FILENAME.** Prose file renamed `hiking-rainstorm.md` (from `the-hiking-rainstorm.md`); this condensed is `meta-condensed-hiking-rainstorm.md`. The chronology entry's old detail link (`meta-condensed-the-hiking-rainstorm.md`) is updated to point here.
+> **Color framing.** Vee names **russet / brick-red** on the hike — the magazine shade — and *only* that color appears in this scene. The Fitting's color is **not** a unilateral match Pace imposes: there he **offers** a color slightly different from the russet, honoring the want beneath it (to look beautiful), and Vee consents and comes to see it is better for her. No "poured wine" phrasing here. (Pending doc edits tracked in chronology flag 11.)
 
-> **COLOR FRAMING (this session) — supersedes older docs.** Vee names **russet / brick-red** on the hike — the magazine shade — and *only* that color appears in this scene. The Fitting's color is **not** a unilateral match Pace imposes: at the Fitting he **offers** a color slightly different from the russet, honoring the want beneath it (to look beautiful), and Vee consents and comes to see it is better for her. **No "poured wine" phrasing in this scene** — that language should be scrubbed from the hike reference. **Required edits:** (1) `meta-rules.md` line ~178 ("burgundy, not russet… he went deeper and warmer, matched her coloring") should be reframed as offer-honoring-the-want, not Pace-chose-for-her. (2) `meta-condensed-the-fitting.md` Plants section references the hike color as *"like poured wine"* — update to *russet, like a brick*. (3) `the-fitting.md` draft: the silk-naming reference must point to the trail/summit lunch, and any "poured wine" wording adjusted to the actual hike phrasing.
+> **Silk-naming.** Lives here, at the summit lunch — Vee names the dress-color unguarded; Pace acts on it at the Fitting.
 
-> **SILK-NAMING RELOCATION (carried from Phase 2 reorder).** The silk-naming lives **here**, at the summit lunch — not at the porch sunrise. `the-fitting.md` still needs the edit relocating its silk-naming reference from *"at sunrise three mornings ago… through the porch glass"* to the hike. (Continuity flag 11.)
-
-> **NO-TAG SHIRT.** Established here (kept, slept in, tag-absence discovered off-page that night). Detonates at the Fitting. Consistent with continuity flag 4 (RESOLVED).
+> **NO-TAG SHIRT.** Established here (kept, slept in, tag-absence discovered off-page that night). Detonates at the Fitting. (Continuity flag 4.)
