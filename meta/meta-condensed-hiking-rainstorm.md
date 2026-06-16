@@ -1,6 +1,6 @@
 # Condensed — The Hiking Rainstorm
 
-*Scene 12 · Draft complete · `hiking-rainstorm.md` · ~late Sep / early Oct · their third date · Vee's POV*
+*Scene · Draft complete · `hiking-rainstorm.md` · ~late Sep / early Oct · their third date · Vee's POV*
 
 ## Summary
 
@@ -28,7 +28,7 @@ Pace takes Vee on her first hike — a short, steep climb through a tunnel of tr
 
 ## Plants / Pays Off
 
-- **The no-tag flannel shirt — PLANT.** She keeps it (sleeps in it that night, off-page); discovers the missing tag alone, guesses wrong, drops it. **Detonates at the Fitting** (15), where the carefully tagged silk reframes the shirt's anonymous quality as devotion. The shirt comes from his gym bag — well-made, no brand — which deepens the Fitting's "good fabric, no tag" riddle.
+- **The no-tag flannel shirt — PLANT.** She keeps it (sleeps in it that night, off-page); discovers the missing tag alone, guesses wrong, drops it. **Detonates at the Fitting**, where the carefully tagged silk reframes the shirt's anonymous quality as devotion. The shirt comes from his gym bag — well-made, no brand — which deepens the Fitting's "good fabric, no tag" riddle.
 - **The silk-naming — PLANT.** She names russet / brick-red (the magazine shade). **Pays off at the Fitting**, where Pace *offers* her a dress in a color not quite the russet she described — honoring the want beneath the color (to be beautiful) rather than the reference image. He does not choose against her here; he offers, she consents, she comes to see the color is better for her. *(See revision note below — supersedes the "poured wine" / unilateral-match framing in older docs.)*
 - ***"Beautiful"* — PLANT.** Pace's *"That sounds like a beautiful dress"* plants the word the Fitting pays off.
 - **The elevation geometry — PLANT.** Vee sitting up on the rock with Pace crouched at her foot (blister) prefigures the Fitting's riser/hem geometry (she up, he on his knees). Registered, never named.

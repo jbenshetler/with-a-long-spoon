@@ -1,10 +1,10 @@
 # Condensed — The Hiking Rainstorm
 
-*Scene · Unwritten · late September / early October · their third time out, after the dinner (8b)*
+*Scene · Unwritten · late September / early October · their third time out, after May I Choose*
 
 ## Sequence Note
 
-**MOVED EARLIER (this revision).** Now sits **before the Fitting (15)** so the swoon is fully installed before the dress and so the Fitting's bright-room exposure remains pre-first-night. Reading position: …11 → **12** → 12a → 15.
+**MOVED EARLIER (this revision).** Now sits **before the Fitting** so the swoon is fully installed before the dress and so the Fitting's bright-room exposure remains pre-first-night. Reading position: …The Smoothie Shop → **The Hiking Rainstorm** → Vee Tells Cassie — Hike → The Fitting.
 
 ## Key Beats
 
@@ -16,6 +16,6 @@ He steps into the rain for her privacy; she beckons him back and changes facing 
 
 ## Revision Notes
 
-> **HIKE INVITATION — MOVED OFF-PAGE (this revision).** The old load-bearing end-beat ("he invites her on the hike, she says yes despite nervousness") is **cut from this scene.** The surrender does the trust-against-fear work more deeply, and a nervous hesitation about the hike would re-arm her mid-scene and damage the surrender (which requires her guard fully down). The invitation happens off-page in the interim; **its "yes despite nervousness" content relocates to the opening of the hike (12) as *retrospect*** — she looks back and sees she said yes too fast, the lack of hesitation the unsettling part in hindsight. *(Retrospective hike-opening half-beat: to be drafted at the hike, handled separately.)*
+> **HIKE INVITATION — MOVED OFF-PAGE (this revision).** The old load-bearing end-beat ("he invites her on the hike, she says yes despite nervousness") is **cut from this scene.** The surrender does the trust-against-fear work more deeply, and a nervous hesitation about the hike would re-arm her mid-scene and damage the surrender (which requires her guard fully down). The invitation happens off-page in the interim; **its "yes despite nervousness" content relocates to the opening of the hike as *retrospect*** — she looks back and sees she said yes too fast, the lack of hesitation the unsettling part in hindsight. *(Retrospective hike-opening half-beat: to be drafted at the hike, handled separately.)*
 
-> **SILK-NAMING RELOCATION (this revision).** The silk-naming moves from the porch (`porch-scene.md`) into the hike (12). Required draft edit in `the-fitting.md`: the passage locating the silk-naming "at sunrise three mornings ago… through the porch glass" → relocate to the trail/hike. `porch-scene.md` is **freed for later reuse**.
+> **SILK-NAMING RELOCATION (this revision).** The silk-naming moves from the porch (`porch-scene.md`) into the hike. Required draft edit in `the-fitting.md`: the passage locating the silk-naming "at sunrise three mornings ago… through the porch glass" → relocate to the trail/hike. `porch-scene.md` is **freed for later reuse**.

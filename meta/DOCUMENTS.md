@@ -62,7 +62,7 @@ scene-by-scene architecture.
 | `meta-plan-chronology.md` | Scene chronology: running order by phase (Early / Middle / Late), thin per-entry summaries with links to condensed companions, continuity flags, and threaded-throughout threads. First document to check for sequence and placement questions. |
 | `meta-plan-summary.md` | Condensed whole-novel summary; character physical/object details; document map (may contain stale links — see `meta-todo-open-questions.md`). |
 | `meta-plan-satc-tracks.md` | Architecture of the SATC lunch scenes; extraction mechanics; Randi's operational register across the lunch track. |
-| `meta-plan-dress-cluster.md` | The dress cluster (scenes 14–14e); sequence, dependencies, what each scene must accomplish. |
+| `meta-plan-dress-cluster.md` | The dress cluster; sequence, dependencies, what each scene must accomplish. |
 | `meta-plan-pace-house.md` | The house room-by-room; object inventory; how the space reads to Vee across the year. |
 | `meta-plan-help-harm-dials.md` | The help/harm dial inventory; what each configuration element produces for each carrier at each stage. |
 
@@ -75,7 +75,7 @@ architecture, more specific than scene plans. Named `meta-note-<subject>`.
 
 | File | What it answers |
 |------|----------------|
-| `meta-note-rainstorm-hike.md` | The Rainstorm Hike (scene 12) pre-draft notes: the *fully-in-the-world* thesis and its inversion of may-i-choose; "rich people hike, poor people walk" (class/aspiration + Pace-as-deliberate-exception); the cold/sharp/wide-awake palette with the single creamy note at the end; care-under-real-stakes; silk-naming-on-the-move; the *she-authors-the-exposure* hinge; the three-surrenders comparison (warm-under / cold-awake / held-still → first night); plants and the size/differentiation watch. |
+| `meta-note-rainstorm-hike.md` | The Rainstorm Hike pre-draft notes: the *fully-in-the-world* thesis and its inversion of may-i-choose; "rich people hike, poor people walk" (class/aspiration + Pace-as-deliberate-exception); the cold/sharp/wide-awake palette with the single creamy note at the end; care-under-real-stakes; silk-naming-on-the-move; the *she-authors-the-exposure* hinge; the three-surrenders comparison (warm-under / cold-awake / held-still → first night); plants and the size/differentiation watch. |
 | `meta-note-vee-reads-randi.md` | How Vee perceives and internally registers Randi's makeup at first encounter; vocabulary constraint; the not-quite-envy feeling; placement candidate; craft implications for the mutual-envy architecture. |
 | `meta-note-the-pointing-game-pace-misread.md` | **PROTECTED note.** Why the "ungradeable / nothing to grade" language in `the-pointing-game.md` (~line 117) must NOT be "fixed" to match the corrected craft-vivienne mis-categorization framing: it is Pace's diegetic misattribution (Pace POV), the two-reading engine, his signature blindness — reread reveals it's need surfacing in Randi, not Vee being ungradeable. Do not revise without explicit user instruction. |
 | `meta-note-sexual-ratchet.md` | How increased sexual frequency builds capacity and appetite across all three carriers; how the ratchet operates differently in each apparatus; craft implications. *(to be created)* |
