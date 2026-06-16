@@ -26,17 +26,17 @@ It put length in her stride. She walked faster, and the cold came up the backs o
 
 The house sat back on its lawn, white-columned, sure of itself, a place she'd looked at longingly from the sidewalk a hundred times and never once been inside. She finished the apple on the steps, found a bin for the core like a person raised right, and pressed the bell. She heard it sound somewhere deep in the house.
 
-The door opened on a girl with the beauty of a shampoo model — the wide bright smile, the whole face switched on behind it, every watt of it aimed at a stranger. She'd come to the door with her coffee and opened it one-handed.
+The door opened on a girl with the beauty of a shampoo model — the wide bright smile, the whole face switched on behind it. Vee placed her after a second: Randi's sister from the smoothie shop — the beautiful one whose warmth had somehow left her feeling small. Brooke. She'd come to the door with her coffee and opened it one-handed.
 
 "Good morning." The smile went wider by a measurable amount. "Who are you here to see?"
 
 "Randi."
 
-The girl's eyes went over Vee once, took all of it, gave back nothing but more warmth. "Oh — you're the stats friend." Not a question. Vee had told this house nothing in her life and the house had a folder on her anyway. "Come in out of the cold. There's coffee, herbal tea — somebody made matcha."
+Brooke's eyes went over Vee once, took all of it, gave back nothing but more warmth. "Oh — you're the stats friend." Not a question. Vee had told this house nothing in her life and the house had a folder on her anyway. "Come in out of the cold. There's coffee, herbal tea — somebody made matcha."
 
 Vee stepped into a foyer hung with composites, rows of bright assembled faces in oval frames going back years, the thing she'd only ever seen the back of. She stood in it with her coat held closed and felt like she'd wandered into the lobby of a museum that hadn't yet decided whether to let her up to the paintings.
 
-"She's not up yet." The girl was already thumbing her phone. "I'll text her. She hates getting yelled for." She said it like a house rule, which it was.
+"She's not up yet." Brooke was already thumbing her phone. "I'll text her. She hates getting yelled for." She said it like a house rule, which it was.
 
 ---
 
@@ -194,7 +194,7 @@ Four hours ago she'd stood at a sink and found a sad clown. The woman in this gl
 
 ---
 
-Randi sent her home with the shoes in a soft drawstring bag and the scarf folded on top, and walked her down. The shampoo-model girl was gone from the door. In the foyer, under all those framed faces, Randi pulled her into the whole-body hug and kissed her goodbye on the mouth — soft, unhurried, the small second press the first one always seemed to want.
+Randi sent her home with the shoes in a soft drawstring bag and the scarf folded on top, and walked her down. Brooke was gone from the door. In the foyer, under all those framed faces, Randi pulled her into the whole-body hug and kissed her goodbye on the mouth — soft, unhurried, the small second press the first one always seemed to want.
 
 And Vee, kissing her back, caught up to something a half-beat late: she hadn't braced. Hadn't tensed, hadn't thought to, hadn't filed it anywhere on the way in. Her mouth had just met Randi's like it was nothing, because it was nothing. It was only what they did.
 
