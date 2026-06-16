@@ -123,7 +123,7 @@ Summer-independent. Within Pass A, do the conversion completely in one sitting s
 - [x] **Retired the lettered sub-clusters** (15a–15e, 8a/8b, 12a, etc.) into plain adjacency within their phase.
 - [x] **Reconciled the divergent scene numbers** as part of the name-conversion; verified no stray numeric scene-ref survives.
 - [x] **Updated `meta-process-chronology.md`:** removed the "sequential number" required field — identity is the name, order is list position.
-- [ ] Update `DOCUMENTS.md`: note the chronology now references scenes by name.
+- [x] Update `DOCUMENTS.md`: note the chronology now references scenes by name.
 
 ### Pass B — Texture + calendar (after-summer)
 
@@ -141,7 +141,7 @@ Summer-independent. Within Pass A, do the conversion completely in one sitting s
 - [ ] Demote any remaining hard dates that aren't load-bearing to relative `(≈ …)` estimates; keep only the **(hard)**-tagged pins, each with a stated reason. *(Partly done: the condensed/note briefs already carry only relative anchors and the chronology owns all dates.)*
 - [ ] Move relative placement constraints (currently in the continuity-flags section, e.g. the flat-date placement flag) onto the relevant scenes' texture lines, so placement logic sits with the scene.
 - [ ] Update `meta-process-chronology.md`: add **texture line** as a required field in "What Every Entry Must Contain," and the rule that **absolute dates live only in the anchor block** (entries carry derived estimates, never hard pins except where tagged **(hard)** with a reason).
-- [ ] Update `DOCUMENTS.md`: add this file to the Tier 5b (Process) table.
+- [x] Update `DOCUMENTS.md`: add this file to the Tier 5b (Process) table. *(already present)*
 
 **Standing rule after migration:**
 - New scenes: assign a **name**, drop into the correct **phase** at the correct line, write a **texture line**. No renumbering. No date pin unless **(hard)** with a reason.

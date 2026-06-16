@@ -59,7 +59,7 @@ scene-by-scene architecture.
 
 | File | What it answers |
 |------|----------------|
-| `meta-plan-chronology.md` | Scene chronology: running order by phase (Early / Middle / Late), thin per-entry summaries with links to condensed companions, continuity flags, and threaded-throughout threads. First document to check for sequence and placement questions. |
+| `meta-plan-chronology.md` | Scene chronology: running order by phase (Early / Middle / Late), thin per-entry summaries with links to condensed companions, continuity flags, and threaded-throughout threads. Scenes are identified **by name** (no numbers) and ordered by list position; this doc also owns all calendar dates. First document to check for sequence and placement questions. |
 | `meta-plan-summary.md` | Condensed whole-novel summary; character physical/object details; document map (may contain stale links — see `meta-todo-open-questions.md`). |
 | `meta-plan-satc-tracks.md` | Architecture of the SATC lunch scenes; extraction mechanics; Randi's operational register across the lunch track. |
 | `meta-plan-dress-cluster.md` | The dress cluster; sequence, dependencies, what each scene must accomplish. |
@@ -93,7 +93,7 @@ architecture, more specific than scene plans. Named `meta-note-<subject>`.
 | File | What it answers |
 |------|----------------|
 | `meta-process-chronology.md` | When to update the chronology; what every entry must contain; entry type definitions (`[SCENE]` / `[VIGNETTE]` / `[EVENT]`); consistency checks; format reference. |
-| `meta-plan-schedule.md` | Time-management model: the three layers (identity = name / sequence = list-order within phase / in-world stamp = texture line); calendar-anchor block; what may be pinned to a hard date; migration checklist. *Status: drafted, not yet fully applied.* |
+| `meta-plan-schedule.md` | Time-management model: the three layers (identity = name / sequence = list-order within phase / in-world stamp = texture line); calendar-anchor block; what may be pinned to a hard date; migration checklist. *Status: Pass A (identity/names) applied; Pass B (texture + summer calendar) pending.* |
 
 ---
 
