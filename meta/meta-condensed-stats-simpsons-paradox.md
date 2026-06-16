@@ -1,6 +1,6 @@
 # Condensed — Simpson's Paradox (Stats Class)
 
-*SCENE · Draft complete (`scenes/stats-simpsons-paradox.md`) · ~Fri Oct 18, morning after Dress Pickup · stats class day (MWF) · Vee POV*
+*SCENE · Draft complete (`scenes/stats-simpsons-paradox.md`) · morning after Dress Pickup · stats class day (MWF) · Vee POV*
 
 Absorbs the old standalone "Vee Shows Cassie the Dress." The dress-cluster's confidante beat, relocated to the statistics lecture, where Vee sits between both girls (Cassie | Vee | Randi). She comes in late and glowing off the overnight at Pace's; the finished gown is home at the dorm, zipped in its bag, shown to no one.
 

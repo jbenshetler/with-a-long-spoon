@@ -1,6 +1,6 @@
 # Condensed — May I Choose
 
-*SCENE · Draft complete · `may-i-choose.md` · keep to a half-scene in weight even though the interior runs deep; the restraint is in the plot (one dinner, one walk, one kiss), not the prose · ~a few days after the froyo walk, week of Sep 18–25*
+*SCENE · Draft complete · `may-i-choose.md` · keep to a half-scene in weight even though the interior runs deep; the restraint is in the plot (one dinner, one walk, one kiss), not the prose · ~a few days after the froyo walk*
 
 ## Key Beats
 

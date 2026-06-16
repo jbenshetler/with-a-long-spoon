@@ -1,6 +1,6 @@
 # Condensed — The Scrunchies
 
-*VIGNETTE · Unwritten · ~Oct 16–19 · two beats across two visits · Vee POV · ~½–1 page*
+*VIGNETTE · Unwritten · two beats across two visits · Vee POV · ~½–1 page*
 
 Provision answering a lack, never explained. First riser of the domestic staircase (second riser: The Top Drawer, several scenes later — the domesticity accretes as rhythm across the October scenes, never as a packaged beat).
 

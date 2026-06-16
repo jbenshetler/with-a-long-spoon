@@ -1,6 +1,6 @@
 # Condensed — Back from Thanksgiving — Tells Cassie
 
-*Vignette · Cassandra track · ~Sun Dec 1, first day back · athletic-dorm cafeteria, Sunday dinner · `scenes/back-from-thanksgiving.md` · draft complete*
+*Vignette · Cassandra track · first day back · athletic-dorm cafeteria, Sunday dinner · `scenes/back-from-thanksgiving.md` · draft complete*
 
 ## Summary
 

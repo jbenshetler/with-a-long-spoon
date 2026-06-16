@@ -1,6 +1,6 @@
 # Condensed — Together in Class
 
-*SCENE (DIPTYCH) · Draft complete · ~Mon Sep 4 · first class meeting after the collision*
+*SCENE (DIPTYCH) · Draft complete · first class meeting after the collision*
 
 ## Summary
 
@@ -31,7 +31,7 @@ Parting on the sidewalk: a hug, the cold-citrus smell, a hand flat between her s
 ## Beat Map — Where the Collapsed Scenes' Beats Landed
 
 - *(former 4)* first on-page Randi/Vee proximity; calculus-based stats as the book's mirror; **unequal-exchange pattern** (Vee gives attention/competence, gets warmth-as-status) — **here, panel one.**
-- *(former 5)* first one-on-one — **here, panel two (moved earlier: same day, not week of Sep 11).** The **name exchange** is *repurposed* — no longer a Vee-steals-the-move bonding ritual; Randi runs it on **Cassie**, who flat-returns, exposing it as a routine (see **continuity flag 5** and the bible "name exchange" note, both updated). The **closing kiss / goodbye-kiss thread** is **deferred** — this parting is a **hug** ("Love you, girl"), the staircase's rung zero; the first *kiss* stays at the SATC brunch (scene 15b — updated; see flag 5). "Grenade-and-walk, filed as a sorority thing" survives as **"see you later" + the cheap-coin "love you, girl"** Vee over-values.
+- *(former 5)* first one-on-one — **here, panel two (moved earlier: same day, not a week later).** The **name exchange** is *repurposed* — no longer a Vee-steals-the-move bonding ritual; Randi runs it on **Cassie**, who flat-returns, exposing it as a routine (see **continuity flag 5** and the bible "name exchange" note, both updated). The **closing kiss / goodbye-kiss thread** is **deferred** — this parting is a **hug** ("Love you, girl"), the staircase's rung zero; the first *kiss* stays at the SATC brunch (scene 15b — updated; see flag 5). "Grenade-and-walk, filed as a sorority thing" survives as **"see you later" + the cheap-coin "love you, girl"** Vee over-values.
 - *(former 6)* **Cassie's Warning** — delivered live as **"Goodbye, Vee,"** the register-wrong word, dismissed in real time. The standalone vignette is retired into this seam.
 
 ## Revision Notes

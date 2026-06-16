@@ -10,7 +10,9 @@ The smoothie shop is the on/near-campus location where the social penalty thread
 
 **REPURPOSED (this revision).** Was "The Randi/Vee Escalation — Coffees to Mimosa Brunch" (a generic frank-register coffee). Now the on/near-campus smoothie shop where the social penalty thread first crosses the confidante track and the consequence drives the brunches off campus.
 
-A bright, cheap, near-Greek place. Vee is mid-telling Randi the early Pace material — the froyo, the walk-home kiss, the dating — warm and unguarded, the **low-intensity first rung of the verbal extraction** running underneath.
+**Setting: Smoothie Bird** — a bright, cheap, near-Greek place, white with bright citrus-orange accents (the Hokie riff, sorority-chain dumb in the right way). Smells of fruit, milk, perfume, and hairspray; blenders hum from the kitchen. The palette quietly sorts the two women before the sisters do: the bright orange flatters Randi (black hair, pale skin, cool undertones) and washes Vee out (warm dark-red hair fights citrus orange) — she feels vaguely wrong in the room without knowing why, the wall doing the social tax's prep work. Underneath: the orange-and-green room is Randi's own scent (Diptyque bitter orange / green) made architecture — she belongs to the space down to the air; Vee is a warm-toned visitor in it. Never explained; body-first.
+
+Vee is mid-telling Randi the early Pace material — the froyo, the walk-home kiss, the dating — warm and unguarded, the **low-intensity first rung of the verbal extraction** running underneath.
 
 Then **sisters approach and tax the friendship**: not cruelty to Vee, but *pricing* her — a look that ranks her, a *we missed you at the thing* to Randi that means *you were here, with her.* Vee is marked as the cost Randi is choosing to pay, and it lands as a **new social register of found-wanting**, distinct from the floozie/sexual shame (fresh indignity — see Bible shame-rule).
 

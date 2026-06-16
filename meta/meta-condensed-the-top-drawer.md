@@ -1,6 +1,6 @@
 # Condensed — The Top Drawer
 
-*VIGNETTE · Unwritten · ~Sun Oct 20 + the following visit · two movements · Vee POV · ~1–1½ pages*
+*VIGNETTE · Unwritten · two movements across two visits · Vee POV · ~1–1½ pages*
 
 Territory answering an abundance. Second riser of the domestic staircase — several scenes after The Scrunchies, so the expectation of domesticity has had time to set before it's enlarged.
 
