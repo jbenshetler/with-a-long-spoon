@@ -34,10 +34,3 @@ These are the live continuity flags from `meta-plan-chronology.md` that need a d
 
 11. **Add Brooke physical-description line to `randis-walk-of-shame.md`** — wants the beauty image: Brooke "looking like a shampoo model, or the third wife of a CEO." Slot at her introduction (~line 7, "Brooke at the long table… Brooke looked up") or her first warm-voice beat (~line 13). The "third wife of a CEO" half does double duty — surface gloss + the cool transactional read under it (well-kept, chosen, expensive) — which suits Brooke's warm-surface/calculating-underneath register. Keep it Randi's-eye observation (Randi POV scene), deniable as catty.
 
-## OPEN — doc-status / registry sync
-
-Decisions / cleanup (do not auto-resolve):
-
-1. **Cassie dinner/hike — knowledge-state refs.** `knowledge-state/inversion-tests.json` and `knowledge-state/knowledge-deltas.json` still point at the retired `scenes/cassie-before.md`. The content was split into `vee-tells-cassie-dinner.md` and `vee-tells-cassie-hike.md`, so the refs can't be mechanically repointed — regenerate the knowledge-state through whatever tool builds it (not `na.py`, which is search/reindex only). Do not hand-edit.
-
-2. **The Fitting brief date.** `meta-condensed-the-fitting.md` dates the scene "~Sat Oct 28"; chronology says "~Sat Oct 5" (and order requires it before the First Swat, ~Oct 26). The dress-cluster MWF shift didn't propagate to the brief — confirm and correct.
