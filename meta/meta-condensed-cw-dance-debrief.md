@@ -4,7 +4,7 @@
 
 ## Key Moves (Repurposing)
 
-**REPURPOSED** (this revision). Was "Vee Tells Randi About the First Night" (now handled by 13b). This is now the **CW-dance debrief**, a distinct SATC register: **counsel, not confession.**
+**REPURPOSED** (this revision). Was "Vee Tells Randi About the First Night" (now handled by First-Night Debrief). This is now the **CW-dance debrief**, a distinct SATC register: **counsel, not confession.**
 
 ## Timing
 

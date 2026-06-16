@@ -11,7 +11,7 @@ Update `meta-plan-chronology.md` whenever any of the following occurs:
 
 - **A scene is drafted or substantially revised.** Update the entry's summary paragraph and status line to reflect what is actually on the page. The chronology summary is the authoritative description of the draft, not the planning notes that preceded it.
 - **A scene is added to the plan** (even beats-only). Add a new entry with type label, approximate date, and whatever is known.
-- **A scene's position in the sequence changes.** Renumber if needed; update the phase header if the scene moves between phases.
+- **A scene's position in the sequence changes.** Cut and paste the entry to its new line within the phase; update the phase header if the scene moves between phases. No renumbering — order is list position.
 - **A non-rendered event is established** as canonical backstory. Add an `[EVENT]` entry at the correct chronological position.
 - **A continuity issue is resolved.** Update both the relevant entry and the continuity flags section (or remove the flag if resolved).
 - **A character fact is established in a scene that doesn't exist elsewhere.** Add it to the entry summary so it doesn't disappear into a draft file.
@@ -21,11 +21,10 @@ Update `meta-plan-chronology.md` whenever any of the following occurs:
 Every entry in the chronology — scene, vignette, or event — must have:
 
 1. **Type label:** `[SCENE]`, `[VIGNETTE]`, or `[EVENT]`
-2. **Sequential number** (letters for sub-clusters: 14a, 14b, etc.)
-3. **Title**
-4. **Approximate date and day of week** — format: `~Fri Sep 1` or `~early October`. Use `~` for all approximations. Pin to specific dates where the narrative requires it (e.g. the Walk of Shame must be a Saturday morning).
-5. **Status line:** `draft complete`, `partial`, `beats only`, `unwritten`, or `not a scene` — plus file reference if a draft exists
-6. **Summary:** one paragraph maximum for scenes and vignettes; one to two sentences for events. For completed drafts, the summary must reflect what is actually written, not the original plan.
+2. **Title** — the scene's name, its permanent identity handle. **No sequential number:** narrative order is carried by list position within the phase (see `meta-plan-schedule.md`), and sub-clusters sit in plain adjacency. Cross-references everywhere use the name, never a number.
+3. **Approximate date and day of week** — format: `~Fri Sep 1` or `~early October`. Use `~` for all approximations. Pin to specific dates where the narrative requires it (e.g. the Walk of Shame must be a Saturday morning).
+4. **Status line:** `draft complete`, `partial`, `beats only`, `unwritten`, or `not a scene` — plus file reference if a draft exists
+5. **Summary:** one paragraph maximum for scenes and vignettes; one to two sentences for events. For completed drafts, the summary must reflect what is actually written, not the original plan.
 
 ## Entry Types
 
@@ -48,7 +47,7 @@ When adding or revising an entry, check:
 ## Format Reference
 
 ```
-### 7. [SCENE] The Engineered Meet-Cute
+### [SCENE] The Engineered Meet-Cute
 **~Thu Sep 14 · Week 3 of fall semester**
 *Draft complete · `the-meet-cute.md`*
 
@@ -62,7 +61,7 @@ Pace meets Randi on the sorority common. First date follows within the week.
 ```
 
 ```
-### 9. [VIGNETTE] The Good Shirt / No-Tag Plant
+### [VIGNETTE] The Good Shirt / No-Tag Plant
 **~late September · Early phase**
 *Unwritten · will fold into an existing early domestic beat*
 Pace gives Vee a well-made shirt with no brand tag. She notices the absence, guesses wrong, drops it.

@@ -40,13 +40,13 @@ Two distinct staircases live inside this track:
 
 ## THE PHYSICAL STAIRCASE — THE GOODBYE KISS AND ITS COUSINS
 
-The goodbye kiss **predates everything** (Scene 2) and arrives pre-coded as deniable (*“sorority thing”*). That deniability is what lets it escalate indefinitely without tripping Vee’s alarm. **Render evolution through physical specificity and duration ONLY — never through Vee thinking “the kiss is different now.”** The moment she thinks it, the device collapses.
+The goodbye ritual is **established early** (the rung-zero hug at Together in Class / Chi Latte) and arrives pre-coded as deniable (*“sorority thing”*). That deniability is what lets it escalate indefinitely without tripping Vee’s alarm. **Render evolution through physical specificity and duration ONLY — never through Vee thinking “the kiss is different now.”** The moment she thinks it, the device collapses.
 
 Progression (interleave across the back half, not front-loaded; still climbing at the end):
 
 - **Early:** brief, on the lips, Randi’s way; Vee braces slightly (the bracing is the tell it’s not nothing).
 - **Middle:** bracing gone; it’s just how they say goodbye. Slightly longer. A hand lands — arm, waist, small of the back (the chivalry-of-touch, but on Randi it’s assessment). Habit is how thresholds get crossed without anyone deciding.
-- **Late:** carries something it didn’t. Vee initiates for the first time, or doesn’t pull back first, and notices she didn’t, and sets the noticing down. The eye contact from Scene 2 returns — same charge, now with months of accumulated intimacy behind it, the writing-off wearing thin.
+- **Late:** carries something it didn’t. Vee initiates for the first time, or doesn’t pull back first, and notices she didn’t, and sets the noticing down. The eye contact from that first parting returns — same charge, now with months of accumulated intimacy behind it, the writing-off wearing thin.
 - **The seam (late-middle):** one goodbye that can’t quite be filed — the kiss ends and neither moves for a half-second, a held proximity the category has no slot for. Vee’s tell (hand to collarbone, going inward). Randi files it, says something normal, releases it (grenade-and-walk again, now protecting deniability instead of establishing it).
 
 Added cousins (your Session 5 details): hand on the hip; a hug combined with the kiss that presses their breasts together; Vee smelling her perfume or tasting her mimosa on the kiss. The mimosa taste is a faint rehearsal of tasting *her* — intimate, oral, fully explicable as an accident of two glasses and a close goodbye.
@@ -247,7 +247,7 @@ Randi need not take everything. **Declining to pull a thread she has clearly rea
 
 A single detail Vee volunteers can wound in two directions across one scene:
 - **Example built (the fitting brunch):** the **warm house** (Pace pre-heated the house so Vee wouldn't be cold). Vee offers it as romance/proof-of-care.
-  - **Against Randi (silent, early, reader-legible):** Randi knows Pace does this for HER too (she's been going to his house since 4 weeks before he met Vee). The detail reveals that the tenderness Randi may have understood as *hers* is Pace's standard practice, extended to the "disposable" girl. This BURNS RANDI. Render via the **cup tell only** (see below) — behavior, not interior. Because the bench (Ch. 1) establishes Randi-at-Pace's, this is *legible-but-shallow* on first read ("ooh, awkward, the friend has a thing with him too" = relatable friend-jealousy, NOT sinister) and *bottomless* on reread (the wound, the procurement, the disposability ledger). Do NOT render Randi's wounded interior from inside (rule 113); put it in her hand on the glass.
+  - **Against Randi (silent, early, reader-legible):** Randi knows Pace does this for HER too (she's been going to his house since 4 weeks before he met Vee). The detail reveals that the tenderness Randi may have understood as *hers* is Pace's standard practice, extended to the "disposable" girl. This BURNS RANDI. Render via the **cup tell only** (see below) — behavior, not interior. Because the bench establishes Randi-at-Pace's, this is *legible-but-shallow* on first read ("ooh, awkward, the friend has a thing with him too" = relatable friend-jealousy, NOT sinister) and *bottomless* on reread (the wound, the procurement, the disposability ledger). Do NOT render Randi's wounded interior from inside (rule 113); put it in her hand on the glass.
   - **Against Vee (spoken, late):** later in the same scene, under pressure, Vee reaches for "it was cold" as the alibi for her arousal (hard nipples) — forgetting in her fluster that she already told Randi the house was warm. The trap springs on **Vee's own earlier testimony**; Randi barely lifts a finger. The fluster makes her a bad liar (core mechanism) literalized: she contradicts a fact she herself volunteered.
 - **The spring is the bare word "Cold?"** — a QUESTION not expecting an answer. On first read: warm complicity, girlfriends colluding in a flattering euphemism (*cold, sure, we'll call it cold* — the reader ENJOYS being let in on something sexy, doesn't wince for Vee). On reread: Randi noting the arousal and holding the warm-house contradiction. Same word, both exposures. Do NOT use a gotcha statement ("you said he had the heat up") — too legible as trap on first pass. The bare questioning word, coded as collusion, is the move.
 
@@ -255,7 +255,7 @@ A single detail Vee volunteers can wound in two directions across one scene:
 
 ## THE NESTED EXTRACTIONS / TWO-PERIMETER SYMMETRY (scene operates as a hall of extractions)
 
-With the walk-of-shame established (Ch. ~), the brunch is a scene where **two women each overpay to sit at the only table where each feels something true, while each is being extracted by a more powerful party:**
+With the walk-of-shame established, the brunch is a scene where **two women each overpay to sit at the only table where each feels something true, while each is being extracted by a more powerful party:**
 - Vee is extracted by Randi (the instrument).
 - Randi is extracted by Brooke / the house (the crab bucket) — the walk-of-shame shows Brooke running the warm-surgical-deniable instrument on Randi exactly as Randi runs it on Vee. The board member is herself being worked.
 - The reader sees the nesting neither woman fully sees: Vee can't see she's being worked; Randi can't see at depth that the channel she overpays for is the one that destroys what she wants.

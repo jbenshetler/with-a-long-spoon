@@ -1,6 +1,6 @@
 # Condensed — The Smoothie Shop
 
-*Scene · Unwritten · late September, before the hike. First SATC scene after the Chi Latte diptych (4)*
+*Scene · Unwritten · late September, before the hike. First SATC scene after the Chi Latte diptych (Together in Class / Chi Latte)*
 
 ## Summary
 
@@ -22,8 +22,8 @@ Vee experiences being-chosen-in-public as the deepest binding yet, even as it is
 
 ## Result & Consequences
 
-**Result: the brunches move off campus** — to Vee, *Randi making it special, just us*; to the reader, removing the asset from the jurisdiction that can witness and tax it. **Recodes the brunch's privacy retroactively** (concealment, not just luxury — no edit to 15b required; it deepens on reread).
+**Result: the brunches move off campus** — to Vee, *Randi making it special, just us*; to the reader, removing the asset from the jurisdiction that can witness and tax it. **Recodes the brunch's privacy retroactively** (concealment, not just luxury — no edit to Vee Tells Randi About the Fitting Brunch required; it deepens on reread).
 
 The confidante track and the social-penalty thread cross here for the first time; the very thing that makes the friendship precious is the thing the world prices.
 
-**Reading position in sequence:** …8 → 8a → 8b → **11** → 12 (hike) → 12a → 15 (Fitting) → 15b (brunch) → 13 (first night) → 13a → 13b → 10 (CW dance) → 14 (CW-dance debrief).
+**Reading position in sequence:** …The Froyo Walk → The Walk-Home Kiss → May I Choose → **The Smoothie Shop** → The Hiking Rainstorm → Vee Tells Cassie — Hike → The Fitting → Vee Tells Randi About the Fitting Brunch → First Night Together → Cassie — After → First-Night Debrief → The CW Dance → The CW-Dance Debrief.

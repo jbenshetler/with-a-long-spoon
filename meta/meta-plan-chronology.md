@@ -40,7 +40,7 @@ DIPTYCH. Pace POV throughout, one continuous afternoon. Panel one (bed): post-co
 
 ### [SCENE] Together in Class / Chi Latte
 *Early fall · week 2 · ~Thu Sep 7* · Draft complete · `together-in-class.md` · [detail](meta-condensed-together-in-class.md)
-DIPTYCH. Panel one: Randi drops into the aisle seat, runs the name-bit on Cassie (who flat-returns), plants the latent-variable mirror. Panel two: Chi Latte — content-evaporation beat; Vee keeps the feeling of being chosen, not the transcript. Parting hug (rung zero of the goodbye-kiss staircase). Cassie's *"Goodbye, Vee"* warning buried in the seam. Collapses former scenes 4/5/6.
+DIPTYCH. Panel one: Randi drops into the aisle seat, runs the name-bit on Cassie (who flat-returns), plants the latent-variable mirror. Panel two: Chi Latte — content-evaporation beat; Vee keeps the feeling of being chosen, not the transcript. Parting hug (rung zero of the goodbye-kiss staircase). Cassie's *"Goodbye, Vee"* warning buried in the seam. Collapses three former coffee/class beats into one diptych.
 
 ### [SCENE] The Engineered Meet-Cute
 *Early fall · week 3 · ~Thu Sep 14* · Draft complete · `the-meet-cute.md` · [detail](meta-condensed-the-meet-cute.md)

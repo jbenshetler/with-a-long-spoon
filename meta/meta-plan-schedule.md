@@ -2,7 +2,7 @@
 
 *How in-world time is recorded across the project. Governs the calendar-anchor block, per-scene texture lines, and what may be pinned to a hard date.*
 *Companion to `meta-process-chronology.md` (which governs when/how the chronology is updated). This file governs the **time model itself**.*
-*Status: **drafted, not yet applied.** Apply after the summer-expansion decisions are made (see §6).*
+*Status: **Pass A (identity/names) applied; Pass B (texture + summer calendar) pending the summer-expansion decisions — see §6.***
 
 ---
 
@@ -110,32 +110,41 @@ The *break window* is pinned (the empty town is the engine); the specific date i
 
 ---
 
-## §6 — Apply-After-Summer Checklist
+## §6 — The Two Migration Passes
 
-Run this once the summer-expansion decisions are made. **Do it in one pass**, so the project is never in a half-migrated state with two numbering grammars live at once.
+The original plan bundled everything into one after-summer pass. That was a mistake: **identity (the name) has no dependency on the summer decisions** — a name encodes neither position nor date, so summer shape cannot affect it. And the name migration is exactly what makes expansion cheap (a name never breaks on insertion). So it is **decoupled** and run first; only the texture/calendar work waits for summer.
 
-**Decisions required first (blockers):**
+### Pass A — Identity (no blocker; applied)
+
+Summer-independent. Within Pass A, do the conversion completely in one sitting so two grammars are never live at once — but it does not wait on summer.
+
+- **Birth-order IDs: declined.** The name is the sole handle; no numeric IDs adopted. Revisit only if tooling ever needs numeric sorting (they would be assigned never-reassigned, so adopting them later is itself expansion-safe).
+- [x] **Retired numbers from cross-references** across all `meta-*` docs — each converted to the scene **name**. Ends the renumbering tax and closes the 14/15, 26/28, 40/41 drift permanently (names can't drift).
+- [x] **Retired the lettered sub-clusters** (15a–15e, 8a/8b, 12a, etc.) into plain adjacency within their phase.
+- [x] **Reconciled the divergent scene numbers** as part of the name-conversion; verified no stray numeric scene-ref survives.
+- [x] **Updated `meta-process-chronology.md`:** removed the "sequential number" required field — identity is the name, order is list position.
+- [ ] Update `DOCUMENTS.md`: note the chronology now references scenes by name.
+
+### Pass B — Texture + calendar (after-summer)
+
+**Decisions required first (blockers — these genuinely depend on summer):**
 
 1. **Summer shape.** Does the configuration run hot through summer, attenuate, or break? This determines whether summer is a phase full of scenes or a thin connective stretch — and therefore the summer anchor's content.
 2. **Who is on campus in summer.** Vee, Pace, Randi — who stays, who leaves, who takes a session? The academic-pressure layer goes silent in summer; what replaces it as ambient texture (jobs, near-empty town, heat) depends on this.
 3. **Year specificity** (see anchor block). Pin to a real VT calendar or keep `~` estimates.
-4. **Optional birth-order IDs** — adopt or not (Layer 1). Decide before the pass so it's applied uniformly or not at all.
 
-**Migration steps (one pass):**
+**Migration steps (one pass, once the above are decided):**
 
 - [ ] Replace the single-line calendar anchor in `meta-plan-chronology.md` with the full anchor block above, **with the summer section filled in.**
-- [ ] Add a summer **phase** to the chronology (Phase 6, or insert/renumber phases as the summer's position requires).
+- [ ] Add a summer **phase** to the chronology (insert/renumber phases as the summer's position requires).
 - [ ] Convert every entry to carry a **texture line** (Layer 3 format).
-- [ ] **Retire numbers from cross-references** across all `meta-*` docs: grep for `scene \d+` and numeric references; convert each to the scene **name**. This is the step that ends the renumbering tax and closes the 14/15, 26/28, 40/41 drift permanently (names can't drift).
-- [ ] **Retire the lettered sub-clusters** (15a–15e) into plain adjacency within their phase.
-- [ ] Demote any remaining hard dates that aren't load-bearing to relative `(≈ …)` estimates; keep only the **(hard)**-tagged pins, each with a stated reason.
-- [ ] Move relative placement constraints (currently in the continuity-flags section, e.g. flat-date flag 6) onto the relevant scenes' texture lines, so placement logic sits with the scene.
-- [ ] Update `meta-process-chronology.md`: add **texture line** as a required field in "What Every Entry Must Contain," and add the rule that **absolute dates live only in the anchor block** (entries carry derived estimates, never hard pins except where tagged **(hard)** with a reason).
-- [ ] Update `DOCUMENTS.md`: add this file to the Tier 5b (Process) table; note the chronology now references scenes by name.
-- [ ] Reconcile the two docs' divergent scene numbers as part of the name-conversion (the drift dissolves once references are names, but verify no stray numeric ref survives).
+- [ ] Demote any remaining hard dates that aren't load-bearing to relative `(≈ …)` estimates; keep only the **(hard)**-tagged pins, each with a stated reason. *(Partly done: the condensed/note briefs already carry only relative anchors and the chronology owns all dates.)*
+- [ ] Move relative placement constraints (currently in the continuity-flags section, e.g. the flat-date placement flag) onto the relevant scenes' texture lines, so placement logic sits with the scene.
+- [ ] Update `meta-process-chronology.md`: add **texture line** as a required field in "What Every Entry Must Contain," and the rule that **absolute dates live only in the anchor block** (entries carry derived estimates, never hard pins except where tagged **(hard)** with a reason).
+- [ ] Update `DOCUMENTS.md`: add this file to the Tier 5b (Process) table.
 
 **Standing rule after migration:**
-- New scenes: assign a **name** (and birth-order ID if adopted), drop into the correct **phase** at the correct line, write a **texture line**. No renumbering. No date pin unless **(hard)** with a reason.
+- New scenes: assign a **name**, drop into the correct **phase** at the correct line, write a **texture line**. No renumbering. No date pin unless **(hard)** with a reason.
 
 ---
 

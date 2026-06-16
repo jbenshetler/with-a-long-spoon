@@ -4,7 +4,7 @@
 
 ## Summary
 
-The second showing-to-Randi scene, structured as a direct contrast to Vee showing Cassie the finished dress (15e). Randi already knows about the dress and already took the scrunchies — this is where appraisal-as-interest sadism operates underneath genuine interest. Establishes shopping-together as a format Randi excels at.
+The second showing-to-Randi scene, structured as a direct contrast to Vee showing Cassie the finished dress (Stats — Simpson's Paradox). Randi already knows about the dress and already took the scrunchies — this is where appraisal-as-interest sadism operates underneath genuine interest. Establishes shopping-together as a format Randi excels at.
 
 ## Key Beats
 

@@ -1,12 +1,12 @@
-# Notes — The Rainstorm Hike (scene 12)
+# Notes — The Hiking Rainstorm
 
-*Pre-draft notes from workshop. The scene is unwritten; this captures its thesis, texture, beats, and how it compares/contrasts with its neighbors (may-i-choose / the-fitting / first-night). Companion to the chronology entry for scene 12 — this is the craft thinking behind that entry.*
+*Pre-draft notes from workshop. The scene is unwritten; this captures its thesis, texture, beats, and how it compares/contrasts with its neighbors (may-i-choose / the-fitting / first-night). Companion to the chronology entry for The Hiking Rainstorm — this is the craft thinking behind that entry.*
 
 ---
 
 ## Position & job
 
-- **Sits before the Fitting (15) and before the first night (13).** Reading order: …11 → **12** → 12a → 15 → 15a → 15b → … → 13.
+- **Sits before the Fitting and before the first night.** Reading order: …The Smoothie Shop → **The Hiking Rainstorm** → Vee Tells Cassie — Hike → The Fitting → Vee Tells Cassie About the Fitting → Vee Tells Randi About the Fitting Brunch → … → First Night Together.
 - Their **third time out**, ~late Sep / early Oct.
 - **The hike is the cared-for/swoon apex, and it carries the domestic-tenderness work that cannot live at the house.** The first time Vee is alone with Pace at his home, the sexual tension is too high for a domestic visit to be believable (they'd go straight to bed, wasting the deferral the Fitting and first night depend on). **The wilderness is the chaperone the bedroom can't be:** he can care for her completely here *without* it discharging, because they're on a mountain, not in his bedroom. So the cooked-for tenderness relocates to the trail.
 - **This scene builds the trust the Fitting and first night spend.** It spends nothing itself.
@@ -50,10 +50,10 @@ Crucially: she's been **wide awake and competent for hours** (the harsh world de
 
 | Scene | Surrender of… | Temperature | Consciousness | Agency |
 |---|---|---|---|---|
-| **may-i-choose (8b)** | control | warm, safe, indoors, still | **under** (submerged, drifting) | she yields (hands over the choice) |
-| **rainstorm hike (12)** | modesty, by her own initiative | cold, sharp, outdoors, moving | **wide awake** (must be — it's unsafe) | **she authors** (beckons him back) |
-| **the fitting (15)** | agency itself | taut, held, indoors, stasis | **held still** ("keep still") | **he authors** within her permission (poses the bra question, pedestals, admires) |
-| **first night (13)** | all three, bodily | — | — | all modes at once |
+| **may-i-choose** | control | warm, safe, indoors, still | **under** (submerged, drifting) | she yields (hands over the choice) |
+| **rainstorm hike** | modesty, by her own initiative | cold, sharp, outdoors, moving | **wide awake** (must be — it's unsafe) | **she authors** (beckons him back) |
+| **the fitting** | agency itself | taut, held, indoors, stasis | **held still** ("keep still") | **he authors** within her permission (poses the bra question, pedestals, admires) |
+| **first night** | all three, bodily | — | — | all modes at once |
 
 - **vs. may-i-choose:** the inversion. Dinner = checking out, safe, warm, she drifts under. Hike = checking in, unsafe, cold, wide awake. His care goes from low-stakes-charming to load-bearing (safety in a place that isn't safe).
 - **vs. the fitting:** the **rhyme-by-inversion.** Same act both scenes — Vee bare above the waist under Pace's sustained gaze — with agency flipped. Hike = *she* invites *him* (active-offering). Fitting = *he* invites *her* (passive-yielding). The Fitting *spends* the trust the hike *builds*: having offered herself by her own initiative, she can now let herself be arranged and looked at. By the first night both modes are installed.
@@ -61,7 +61,7 @@ Crucially: she's been **wide awake and competent for hours** (the harsh world de
 
 ## Plants & continuity (must not detonate early)
 
-- **No-tag shirt:** she keeps the enormous, his, no-tag hiking shirt — the disappear-into-his-fabric beat the burgundy dress later inverts. She notices the missing brand tag once, guesses wrong (counterfeit, sample, off-brand), drops it. **Must NOT read as significant until the Fitting (15) detonates it.** (She goes looking for the tag the first night she has the shirt; softest thing she owns; files it as a riddle and gives up — see meta-rules.)
+- **No-tag shirt:** she keeps the enormous, his, no-tag hiking shirt — the disappear-into-his-fabric beat the burgundy dress later inverts. She notices the missing brand tag once, guesses wrong (counterfeit, sample, off-brand), drops it. **Must NOT read as significant until the Fitting detonates it.** (She goes looking for the tag the first night she has the shirt; softest thing she owns; files it as a riddle and gives up — see meta-rules.)
 - **Silk-naming** plants the russet/"poured wine" the Fitting pays off (he matches her coloring, not the reference).
 
 ## Size / craft watch
@@ -72,5 +72,5 @@ Crucially: she's been **wide awake and competent for hours** (the harsh world de
 
 ## Still open
 
-- The **"yes despite nervousness" retrospect** (relocated from the cut on-page hike invitation in 8b) opens this scene or its lead-in: she looks back and sees she said yes *too fast*, the lack of hesitation the unsettling part in hindsight. (To be drafted.)
+- The **"yes despite nervousness" retrospect** (relocated from the cut on-page hike invitation in May I Choose) opens this scene or its lead-in: she looks back and sees she said yes *too fast*, the lack of hesitation the unsettling part in hindsight. (To be drafted.)
 - The scene itself is **unwritten.**
