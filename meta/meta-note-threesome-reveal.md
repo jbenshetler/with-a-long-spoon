@@ -104,6 +104,10 @@ So for this night, and only this night, **Randi wears a different perfume — ch
 
 Function: like touch, the scent announces *woman* but not *who.* The foreign perfume forecloses the one olfactory channel that would have betrayed Randi instantly — which is precisely what **keeps the kiss the sole channel of identity.** The swap is not flavor; it is load-bearing concealment.
 
+### The damp hand-clasp — a planted rhyme, not a channel
+
+At some point under the blindfold a hand closes over Vee's: a damp clasp, warm now with the heat of the bed. Pure Tier-1 — it announces *a woman's hand* and identifies no one. Its work is **body-memory, not recognition.** It pays off the smoothie shop, where Randi first took Vee's hand *the way friends do,* palm cool and damp from a cold cup — cool there, warm here, the **damp** the constant Vee's body files without naming. She never decodes it in the moment (body before mind); it detonates only in reconstruction after the reveal, for the reader more than for Vee. The clasp must carry the echo and never the identity — the kiss stays the sole channel. (Plant: see meta-condensed-the-smoothie-shop.md.)
+
 ### Rendering rules
 
 - **Body before mind, absolutely.** A woman’s mouth closes over her nipple and her conservative self recoils and her body arches — all in the same instant, no gap to think in. Never let her narrate forensic deduction.

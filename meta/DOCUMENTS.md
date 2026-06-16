@@ -193,6 +193,7 @@ Listed in chronological order (filesystem = `scenes/`; order, names, and status 
 | `the-froyo-walk.md` | The Froyo Walk | complete |
 | `may-i-choose.md` | May I Choose — The Dinner (the first surrender) | complete |
 | `vee-tells-cassie-dinner.md` | Vee Tells Cassie — Dinner | complete |
+| `the-smoothie-shop.md` | The Smoothie Shop | complete |
 | `hiking-rainstorm.md` | The Hiking Rainstorm | complete |
 | `vee-tells-cassie-hike.md` | Vee Tells Cassie — Hike | complete |
 | `the-fitting.md` | The Fitting | complete |

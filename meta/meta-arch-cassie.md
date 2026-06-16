@@ -90,6 +90,14 @@ Established verbal signatures: the flat single-word return (declines the warm-co
 
 ---
 
+## The Greek Stance
+
+Cassie is **explicitly anti-Greek** — a stance she will voice (unlike the Cassandra device and the asexuality, which stay submerged; this one can surface). **The root: in high school, the Greek type — the sorority/fraternity social class — mistreated her friends.** Her opposition is **principled and protective, on behalf of the hurt — not personal grievance. Cassie was not herself a victim; she self-actualized, whole and un-wounded, opting out from strength, not injury.** This keeps the stance from reading as bitterness (it is moral clarity, of a piece with her clear sight — no wound clouding her; see "Her plainness is the unstated source of her clear sight," above), and it under-writes the instant mutual enmity with Randi, who is exactly the type that hurt her friends.
+
+**Scope** (squares with *Where She'd Rather Be*, below): the aversion attaches to Greek *social spaces* and the people in them — a sorority hangout, sisters wall to wall — not to merely curated or trendy venues. A glossy coffee shop she'll sit in for Vee with no particular feeling; an actual sorority haunt she declines. That distinction is what lets Randi's venue choices read as taste while still excluding her.
+
+---
+
 ## Where She'd Rather Be
 
 **A sports bar, not a trendy coffee shop.** When she's at the yellow place on Draper or anywhere curated, she is there *for Vee,* with no particular feelings about the venue — render as a positive preference (where she'd choose to be), not merely an aversion. Retro-justifies the diptych beat ("no particular feelings about the yellow one on Draper").
