@@ -1,6 +1,6 @@
 # Condensed — The Pointing Game
 
-*SCENE (DIPTYCH) · Draft complete · `the-pointing-game.md` · ~Sun Sep 3 · day after the Walk of Shame*
+*SCENE (DIPTYCH) · Draft complete · `the-pointing-game.md` · day after the Walk of Shame*
 
 ## Summary
 

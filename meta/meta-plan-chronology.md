@@ -2,6 +2,7 @@
 
 *See `meta-process-chronology.md` for update protocol. Update this document whenever a scene is drafted, revised, added, or repositioned.*
 *Full beat detail, revision rationale, and craft notes for each entry live in its `meta-condensed-<scene>.md` companion.*
+*This document owns all calendar dates. Companion `meta-condensed-*` and `meta-note-*` files carry only relative anchors — before/after another scene, "morning after," season, or a recurring cadence like "stats day (MWF)" — never month/day pins. Change a date here and nowhere else.*
 
 **Calendar anchor:** Academic year runs late August through early May. Fall semester begins ~Mon Aug 28. Thanksgiving break ~Wed Nov 22–Sun Nov 26. Christmas break ~Fri Dec 15–Sun Jan 14. Spring semester begins ~Mon Jan 15.
 
@@ -66,7 +67,7 @@ First hike: short steep climb through a tunnel of trees to a black-rock summit o
 The pure romantic beat. Vee tells Cassie about the hike, the kept shirt, and the deciding, in the unperformed warm register Cassie can hold: the clean baseline of her feeling for Pace, before shame and before Randi reshapes the material, so the later contamination has something to contaminate. Distinct from the dinner-night telling (Vee Tells Cassie — Dinner), the giddy first-kiss agency beat; this is the later, deepening telling after the hike. Photographic negative of Cassie — After: the romance Cassie can hold here, set against the bodily shame she cannot hold there. Cassie, who flagged Pace at the meet-cute, doesn't re-litigate.
 
 ### [SCENE] The Smoothie Shop
-*Early fall · ~Tue Oct 1 · stats class day* · Unwritten · SATC · [detail](meta-condensed-the-smoothie-shop.md)
+*Early fall · ~Fri Sep 27 · stats class day* · Unwritten · SATC · [detail](meta-condensed-the-smoothie-shop.md)
 First SATC scene. Sisters approach and tax the friendship; Vee is marked as the cost Randi chooses to pay. Randi closes ranks — pre-jealousy, so purely loyalty-and-asset-protection. Result: brunches move off campus. Recodes the brunch's privacy as concealment on reread.
 
 

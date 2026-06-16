@@ -21,7 +21,3 @@ Mercedes at the curb, top down. Restaurant off Route 9, velvet-walled, sound-sof
 **Second Movement (Drafted Separately)**
 
 Bust-line probe, "Cold?", the water-glass jealousy tell, wet-spot extraction, the parting first-kiss.
-
-## Revision Notes
-
-> **REVISION FLAG (`brunch-fitting-randi.md`).** The draft's *"I have known you a week"* (line 51) is now wrong — by the Fitting, Vee and Randi have known each other ~8 weeks (met at the diptych ~Sep 4; Fitting ~Oct 28) and have a smoothie-shop scene (11) behind them. Revise to fit the true elapsed time. Confirm nothing else in the draft assumes this is their first one-on-one.

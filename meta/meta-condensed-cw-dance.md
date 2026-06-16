@@ -1,10 +1,10 @@
 # Condensed — The CW Dance
 
-*SCENE · Unwritten · Thursday evening, Oct 24 · close third on Vee*
+*SCENE · Unwritten · Thursday evening · close third on Vee*
 
 ## Position
 
-Follows whatever social scene precedes it; feeds directly into the CW-Dance Debrief (Fri Oct 25, Randi's single). The scene that makes the debrief necessary. Vee's first time with Pace outside his house, outside her campus — a public social context she didn't engineer. The overnight converts the fight from hot embarrassment to cold, clear *I have to fix this.*
+Follows whatever social scene precedes it; feeds directly into the CW-Dance Debrief (the next morning, Randi's single). The scene that makes the debrief necessary. Vee's first time with Pace outside his house, outside her campus — a public social context she didn't engineer. The overnight converts the fight from hot embarrassment to cold, clear *I have to fix this.*
 
 ---
 

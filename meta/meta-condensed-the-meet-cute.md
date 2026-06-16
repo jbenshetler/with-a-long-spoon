@@ -1,6 +1,6 @@
 # Condensed — The Engineered Meet-Cute
 
-*SCENE · Draft complete · `the-meet-cute.md` · ~Thu Sep 14 · mid-afternoon*
+*SCENE · Draft complete · `the-meet-cute.md` · mid-afternoon*
 
 Coffee shop on Wilson Street, Vee's POV. Vee has been stuck on a calculus problem for over an hour; Randi texts Pace their location from under the table. Pace enters and crosses the floor with his eyes on Vee the whole way; Cassie, at the next table, clocks the lap-level phone and goes still, reports it first.
 
