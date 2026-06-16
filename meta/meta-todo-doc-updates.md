@@ -38,10 +38,6 @@ These are the live continuity flags from `meta-plan-chronology.md` that need a d
 
 Decisions / cleanup (do not auto-resolve):
 
-1. **Cassie dinner/hike — follow-up:** the `knowledge-state/*.json` tooling files still reference the old `scenes/cassie-before.md` path — regenerate via the novel-assistant tooling rather than hand-edit.
+1. **Cassie dinner/hike — knowledge-state refs.** `knowledge-state/inversion-tests.json` and `knowledge-state/knowledge-deltas.json` still point at the retired `scenes/cassie-before.md`. The content was split into `vee-tells-cassie-dinner.md` and `vee-tells-cassie-hike.md`, so the refs can't be mechanically repointed — regenerate the knowledge-state through whatever tool builds it (not `na.py`, which is search/reindex only). Do not hand-edit.
 
-2. **CW-dance brief orphan.** `meta-condensed-cw-dance.md` exists but is not registered in `DOCUMENTS.md`; the registered/chronology-linked brief is `meta-condensed-the-cw-dance.md`. Both still say Unwritten. Update the canonical (`the-cw-dance`) to Draft complete and retire `meta-condensed-cw-dance.md`.
-
-3. **The Fitting brief date.** `meta-condensed-the-fitting.md` dates the scene "~Sat Oct 28"; chronology says "~Sat Oct 5" (and order requires it before the First Swat, ~Oct 26). The dress-cluster MWF shift didn't propagate to the brief — confirm and correct.
-
-4. **`DOCUMENTS.md` needs a full reconciliation pass.** Its prose-status table is missing 6 drafted files (`back-from-thanksgiving.md`, `cw-dance.md`, `cw-dance-debrief.md`, `dress-pickup.md`, `stats-simpsons-paradox.md`, `vee-tells-cassie-dinner.md`) and is mis-ordered (e.g., `hiking-rainstorm` listed after `the-fitting`). Rebuild the prose table and fix the brief-table references from the corrected chronology in one pass (folds in items 1–2).
+2. **The Fitting brief date.** `meta-condensed-the-fitting.md` dates the scene "~Sat Oct 28"; chronology says "~Sat Oct 5" (and order requires it before the First Swat, ~Oct 26). The dress-cluster MWF shift didn't propagate to the brief — confirm and correct.
