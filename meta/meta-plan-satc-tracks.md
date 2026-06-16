@@ -4,6 +4,8 @@
 
 This document covers the Randi/Vee track: the brunches, the physical-intimacy staircase running underneath them, the format-break scenes, and the dos/don’ts that keep the track sexy on first read and dark only in retrospect.
 
+**Authority:** where a drafted Randi/Vee scene conflicts with this plan, the **drafted prose wins** — reconcile the plan to the page, not the page to the plan.
+
 -----
 
 ## WHAT THIS TRACK IS
@@ -44,8 +46,9 @@ The goodbye ritual is **established early** (the rung-zero hug at Together in Cl
 
 Progression (interleave across the back half, not front-loaded; still climbing at the end):
 
-- **Early:** brief, on the lips, Randi’s way; Vee braces slightly (the bracing is the tell it’s not nothing).
-- **Middle:** bracing gone; it’s just how they say goodbye. Slightly longer. A hand lands — arm, waist, small of the back (the chivalry-of-touch, but on Randi it’s assessment). Habit is how thresholds get crossed without anyone deciding.
+- **Rung zero — the hug (drafted, Together in Class / Chi Latte):** quick, warm, complete, a hand flat between the shoulder blades; *"Love you, girl."* No kiss. Pre-coded deniable.
+- **First kiss (drafted, the Fitting Brunch):** in the car, Vee leans in for the cheek-thing and it isn’t that — a hand at the hinge of her jaw, the mouth instead, soft and unhurried, then the small second press *"that had something in it the first one hadn’t."* The surprise is the tell; the cheek-peck she expected is the deniability the kiss steps through.
+- **Settling (drafted, the CW-Dance Debrief):** the same mouth-kiss, the same second press *"the first one always seemed to want"* — but the bracing is gone; she *"hadn’t braced… it was only what they did."* Habit is how the threshold holds without anyone deciding. A hand lands — arm, waist, small of the back (the chivalry-of-touch, but on Randi it’s assessment).
 - **Late:** carries something it didn’t. Vee initiates for the first time, or doesn’t pull back first, and notices she didn’t, and sets the noticing down. The eye contact from that first parting returns — same charge, now with months of accumulated intimacy behind it, the writing-off wearing thin.
 - **The seam (late-middle):** one goodbye that can’t quite be filed — the kiss ends and neither moves for a half-second, a held proximity the category has no slot for. Vee’s tell (hand to collarbone, going inward). Randi files it, says something normal, releases it (grenade-and-walk again, now protecting deniability instead of establishing it).
 
