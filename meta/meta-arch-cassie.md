@@ -108,6 +108,4 @@ Standard double with Vee — **bunk beds (Vee took the top without being asked)*
 
 1. **Bunk-bed staging.** Canon: bunk beds, Vee on top. `vee-tells-cassie-dinner.md` currently has Cassie "on the edge of Vee's bed" and Vee "dropping back onto the bed," which doesn't sit cleanly against a top-bunk (you don't perch on the edge of a top bunk, and Vee dropping back onto "the bed" is ambiguous). **Fix the vignette's bed-staging** (Cassie on the floor / lower bunk / desk chair; Vee's flop re-blocked) rather than changing the bunk canon. **Not yet applied.**
 
-2. **Meet-cute line — RESOLVED (revised in prose + docs).** The line is no longer *"He looked at her like she was a chair"* (revised out — Pace does not dehumanize anyone). It is now *"He looked at her the way you'd look at somebody's great-aunt"* — the no-attraction / not-a-prospect observation (full personhood, no desire), which Vee privately recognizes as the look men give Cassie. Updated in `the-meet-cute.md`, `meta-plan-chronology.md` (entry + flag 5), `meta-arch-cassie-randi.md`. Done.
-
-3. **No `meta-craft-cassie.md` yet.** If Cassie's on-page presence grows, split the voice/behavior material out of this doc into a craft file paralleling the others. For now this doc carries both.
+2. **No `meta-craft-cassie.md` yet.** If Cassie's on-page presence grows, split the voice/behavior material out of this doc into a craft file paralleling the others. For now this doc carries both.

@@ -28,14 +28,12 @@ The high table by the window (the *display* posture; Vee finally gets to sit up 
 
 Parting on the sidewalk: a hug, the cold-citrus smell, a hand flat between her shoulder blades, **"Love you, girl. See you later"** — the *see you later* as scheduled-fact that leaves Vee spinning. Close on Vee warm and amnesiac the whole walk home; Cassie's *goodbye* already smoothed flat and forgotten.
 
-## Beat Map — Where the Collapsed Scenes' Beats Landed
+## Beat Map
 
-- *(former 4)* first on-page Randi/Vee proximity; calculus-based stats as the book's mirror; **unequal-exchange pattern** (Vee gives attention/competence, gets warmth-as-status) — **here, panel one.**
-- *(former 5)* first one-on-one — **here, panel two (moved earlier: same day, not a week later).** The **name exchange** is *repurposed* — no longer a Vee-steals-the-move bonding ritual; Randi runs it on **Cassie**, who flat-returns, exposing it as a routine (see **continuity flag 5** and the bible "name exchange" note, both updated). The **closing kiss / goodbye-kiss thread** is **deferred** — this parting is a **hug** ("Love you, girl"), the staircase's rung zero; the first *kiss* stays at the SATC brunch, Vee Tells Randi About the Fitting Brunch (updated; see flag 5). "Grenade-and-walk, filed as a sorority thing" survives as **"see you later" + the cheap-coin "love you, girl"** Vee over-values.
-- *(former 6)* **Cassie's Warning** — delivered live as **"Goodbye, Vee,"** the register-wrong word, dismissed in real time. The standalone vignette is retired into this seam.
+- First on-page Randi/Vee proximity; calculus-based stats as the book's mirror; **unequal-exchange pattern** (Vee gives attention/competence, gets warmth-as-status) — **panel one.**
+- First one-on-one — **panel two** (same day as the class, straight after the lecture). The **name exchange**: Randi runs it on **Cassie**, who flat-returns, exposing it as a routine. The **goodbye-kiss thread** opens as a **hug** ("Love you, girl"), the staircase's rung zero; the first *kiss* lands at the SATC brunch, Vee Tells Randi About the Fitting Brunch. "Grenade-and-walk, filed as a sorority thing" lives as **"see you later" + the cheap-coin "love you, girl"** Vee over-values.
+- **Cassie's Warning** — delivered live as **"Goodbye, Vee,"** the register-wrong word, dismissed in real time.
 
 ## Revision Notes
-
-> **Collapses former scenes 4 ("Statistics Class — Randi Notices Vee"), 5 ("Coffee/Smoothies — First One-on-One"), and 6 ("Cassie's Warning") into one two-panel scene.** The first Randi/Vee one-on-one now happens *the same day as the class*, straight after the lecture, at Chi Latte — not as a separate later coffee. Cassie's warning is delivered live in the seam between the two panels. The former separate coffee/class/warning beats are retired; their surviving content lands here (see beat map below).
 
 > **Chi Latte vs. Wilson Street — keep distinct.** Chi Latte (the Greek-heavy, yellow, Draper Street shop) is the Randi venue, introduced here. Wilson Street stays the meet-cute venue (The Engineered Meet-Cute) and the quiet study spot from Randi's Walk of Shame. Two separate places.

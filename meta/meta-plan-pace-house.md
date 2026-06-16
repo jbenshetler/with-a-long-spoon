@@ -152,13 +152,12 @@ out to each other.
   gets cold after sex).
 - **Water bottle** `[PAGE]` pre-staged on the bedside table for aftercare.
 
-## Resolved (was a continuity flag)
+## Settled spatial facts
 - **The bench room is his bedroom** — bed + bench in one room; the **bathroom is off the
-  hall**, not an ensuite (`the-bench.md`). "Study" was an object-word, now replaced by
-  **trestle**; it is *not* a room. The computer room is **the office**, a separate room.
-- **Prior women / access:** the old "no woman before Vee / he always went to their
-  homes" is superseded — see **Access** above (he owns the house; the motel stage;
-  Vee brought home early).
+  hall**, not an ensuite (`the-bench.md`). The **trestle** is an object, not a room. The
+  computer room is **the office**, a separate room.
+- **Prior women / access:** he owns the house (the motel stage; Vee brought home early) —
+  see **Access** above.
 
 ## See also
 - `character-relationship-bible.md` — what each room *means*; Pace's objects/class

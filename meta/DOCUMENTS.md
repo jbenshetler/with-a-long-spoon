@@ -116,7 +116,6 @@ One file per non-trivial scene; the chronology entry links to it. To work on a s
 | `meta-condensed-vee-tells-cassie-dinner.md` | Vee Tells Cassie — Dinner |
 | `meta-condensed-the-smoothie-shop.md` | The Smoothie Shop |
 | `meta-condensed-hiking-rainstorm.md` | The Hiking Rainstorm |
-| `meta-condensed-the-hiking-rainstorm.md` | The Hiking Rainstorm — ⚠️ orphan duplicate; retire (TODO doc-sync §3) |
 | `meta-condensed-vee-tells-cassie-hike.md` | Vee Tells Cassie — Hike (pure-romance telling; pairs with Cassie — After) |
 | `meta-condensed-the-fitting.md` | The Fitting |
 | `meta-condensed-vee-tells-cassie-fitting.md` | Vee Tells Cassie About the Fitting |
