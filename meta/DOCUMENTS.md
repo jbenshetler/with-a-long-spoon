@@ -154,8 +154,10 @@ One file per non-trivial scene; the chronology entry links to it. To work on a s
 | `meta-condensed-bb-weekend.md` | The B&B Weekend |
 | `meta-condensed-nipple-clamps.md` | Nipple Clamps |
 | `meta-condensed-grain-3-restoration.md` | Grain #3 — The Restoration (The Loud One) |
+| `meta-condensed-vee-on-the-bench.md` | Vee on the Bench |
 | `meta-condensed-threesome-introduction.md` | The Threesome Introduction |
 | `meta-condensed-sheer-dress-brunch.md` | The Sheer Dress Brunch + The Dressing Room |
+| `meta-condensed-vee-tells-randi-bench.md` | Vee Tells Randi About the Bench |
 | `meta-condensed-peaches.md` | The Peaches |
 | `meta-condensed-threesome-reveal.md` | The Threesome and Reveal |
 | `meta-condensed-ending-sequence.md` | The Ending Sequence |

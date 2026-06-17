@@ -276,6 +276,10 @@ Randi returns ~4 scrunchies (form 20 → 24) — the form goes *up*. In Vee's mo
 *~April* · Unwritten · Randi/Vee · non-structured
 Not a debrief. Randi and Vee doing something ordinary — studying for stats finals, a night in Randi's single, a walk. The friendship at its most genuine and most dangerous: Randi steering without seeming to steer, the management invisible because the relationship has its own momentum. A beat where nothing significant is said and the reader feels the undertow.
 
+### [SCENE] Vee on the Bench
+*~late May · the erotic apex before the rupture sequence* · Unwritten · Vee POV · [detail](meta-condensed-vee-on-the-bench.md)
+The bench returns (opening payoff), now under Vee — *used on only two women, Randi then Vee, the load-bearing difference between them*. Same apparatus, opposite outcome: Pace praises her lushness and her aliveness, the involuntary tells read aloud as delight, and exposure (her excitement, not her wound) drives the shame-arousal loop to overflow — multi-orgasmic where Randi was wrung once. She blooms where Randi broke: the seeing feeds a hunger she was built to run, not a need she has no equipment for. Rendered inside Vee, the inverse of the opening's outside-Randi vantage; the apparatus tour is skipped (the reader knows the bench) and the audience-shaming move is dropped (Randi-coded). Last full bloom before Ignition turns it toward souring; brackets the opening. Spawns the bench brunch — Vee describes it to Randi, who has been on it, double register holding.
+
 ### [SCENE] The Threesome Introduction
 *~late May · after finals* · Unwritten · [detail](meta-condensed-threesome-introduction.md)
 He plants it as observation; reads her body vs. ideology; she brings it to Randi; Randi walks her toward it; *"She's thinking about it."*
@@ -287,6 +291,10 @@ Randi braless in sheer fabric; explicit story (never resolved); first crack wher
 ### [SCENE] Scalding Jealousy Ignition
 *~June* · Draft in progress · `scenes/ignition-scalding.md`
 Diptych. Sunday: Randi post-coital with Pace, negotiating more time, accidentally says *"I can't wait to taste her"* — the subordinate position she didn't know she was requesting. Pace gives her Tuesday without a fight; she registers she's been heard deeper than she aimed. Tuesday midnight: Vee leaves; Randi arrives in full seduction and smells Vee on Pace. She drops to her knees and removes every trace of Vee from him. The pleasure is involuntary — her body votes ahead of her decision. Ends blank-faced and wrecked. Pace's POV throughout. *(Internal timeline references to "October" need reconciliation at final draft.)*
+
+### [SCENE] Vee Tells Randi About the Bench
+*~late June · post-Ignition · SATC · Vee POV* · [detail](meta-condensed-vee-tells-randi-bench.md)
+Vee retells the bench (the late-May apex) to Randi, not knowing Randi was ever on it. Placed for maximum scald: Randi, just wrecked in Ignition, hears the blooming — the staying-open her apparatus couldn't do — narrated in detail by the woman who could. Fresh proof that Pace's seeing was real and the failure was hers. Double register holds; the wound shows only in the wordless tells (the cup, a control raw from Ignition). Goodbye-kiss at the late/pre-seam rung, a candidate for the first real control-slip. The configuration-as-agent at maximum voltage — Vee in good faith the agent of the deepest harm.
 
 ### [SCENE] The Peaches
 *~mid-late July* · Unwritten · [detail](meta-condensed-the-peaches.md)
