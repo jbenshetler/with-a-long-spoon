@@ -18,10 +18,7 @@ Rendered from **inside** Vee the whole time — the inverse of the opening, whic
 
 ## Craft — not a repeated beat
 
-Three levers keep it fresh, each sharpening the Randi/Vee fork rather than diluting it:
-1. **POV flip** (above) — same furniture, opposite vantage.
-2. **Skip the apparatus tour.** The reader knows the bench now; what cost the opening ~200 lines of discovery, disguise, and mechanism costs a glance here. Reader-memory of Randi's scene runs underneath every beat Vee does differently — that is how the sameness shows the difference, without re-rendering it.
-3. **Invert the dramatic engine.** Randi's scene ran on extraction-through-denial and the imagined-judging-audience move (*"what would Brooke think"*) that broke her. That move is Randi-coded — evaluation is *Vee's* wound (Randi's domain, saved for the reveal), and Pace does not weaponize it against Vee. Vee's engine is overflow: the secretions reframe at full bloom, the tells welcomed, not wrung out.
+The bench is re-rendered in full through Vee — first-seeing, body-before-mind — *not* skipped: the guided positioning is the scene's action, and the reader knowing what each fixture is for is what makes her dawning excruciating, not redundant. The engine is inverted from Randi's: not extraction-through-denial and the imagined-audience move (Randi-coded — evaluation is Vee's wound, saved for the reveal), but overflow — the secretions reframe at full bloom, the tells welcomed. **Full how-to-render guidance — the positioning sequence, the epistemic fork, the recognition-curdle, the guardrails — lives in `meta-note-vee-on-the-bench.md`.**
 
 ## Function
 
