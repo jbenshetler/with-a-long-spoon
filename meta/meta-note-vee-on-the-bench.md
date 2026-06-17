@@ -78,6 +78,26 @@ It is a **shared game both play**, and the mutuality is what keeps it clean of a
 
 **Taught in situ, and the evolution is the release ladder.** This is not a game Vee already knows — Pace teaches it to her on the bench, move by move, and she learns it the way she's learned to follow his lead. The core move is body-reading: he names a tell over her deflection — anchor it to a *specific* tell (the nipple gone hard, the flush), never an abstract "your body." The arc: **he leads / she's tentative** (*"uh, yeah,"* deflecting) and her body betrays her → **she learns the moves** and starts mock-denying to be found out → **the game collapses** at the drip and she lets go. Same arc as the three releases — **ambushed → chasing → surrendering.** The fear at the start and the bloom at the end are the two ends of one line.
 
+## The on-the-bench cycle (head ↔ body)
+
+The cycle is an oscillation between two opposed pulls, and the oscillation — not the list of acts — is the scene's engine:
+
+- **Words / the game → her head.** Praise and naming force her to *cognize* her own response — to recognize, in language, that her body wants this. That recognition is the shame (the respectable self watching itself want); the game is a cognitive assault.
+- **Touch / spanking / edging → her body.** Sensation floods and drowns the watching head — relief, the body too loud for the shame-voice to be heard.
+
+**The edging is the whiplash between them.** He runs her bodily to the brink, then "checks" *verbally* (*"you don't like that, do you"*) — which yanks her back into her head at the threshold, denying the release **and** spiking the shame in one motion (dragged from the body, where she'd come mindless, into the head, where she has to *know* what she is). Then touch resumes and drops her toward the body again. Body rising → verbal yank to head → shame + denial → touch → body rising. The oscillation and the edging are one mechanism.
+
+This is why the game **collapses** at the drip: denial is a *head* operation, and at full flood she is out of her head entirely, so denial becomes impossible. The big release is the body finally winning. Mapped to the ladder: **Release 1 (ambushed)** — body ambushes the head before the game engages it (the shame is that it was so easy); **Release 2 (chasing)** — the whiplash at full play, shame most acute; **big release (surrendering)** — the body wins, the game goes quiet. The whole cycle is the head losing to the body — Vee's transformation in miniature, and rehearsal for the blindfold.
+
+**Shame increases, never diminishes.** It escalates because the *occasion* does — each cycle wetter, more exposed, and carrying the evidence of the last orgasm, so the next recognition is of a *more* undeniable wanting. Diminishing shame would kill the fuel; habituation is the failure mode. Find the next indignity; never re-light the last at the same pitch — the staircase run inside one scene.
+
+**Rhythm → random** is the second turn of the same screw. Early, he builds a rhythm she can *anticipate and dread* — bracing is a head operation, so predictability keeps her partly in her head, the gap before each beat filling with anticipatory shame (and he can play against the rhythm she's learned to expect). Later he varies *apparently* at random: she can't brace, can't predict, can't manage — forced out of the bracing head into pure reactive body. Losing the rhythm is losing her last control. It is surrender-training (trust the lead because you can't see it coming — straight rehearsal for the blindfold). Render the "randomness" as *her* inability to find the pattern, never as his calculation (he is reading her in real time — the musician, not the analyst).
+
+Two guardrails specific to the cycle:
+
+- **Body before mind, even in the head-phases.** "In her head" means shame and self-consciousness, never forensic analysis. The prose still leads with the bodily tell (the nipple gone hard, the heat) and lets the recognition follow; the shame is *felt in the body*. Don't let the head-moments turn heady.
+- **The dark layer stays reread-only.** Pace is both the *source* of the shame (the words) and the *relief* from it (the touch), and that shame-relief cycle bonds her to him — the comfort comes only from the hand that caused the exposure. True, and it works on reread; on first read it must play as pure, delighted, escalating pleasure. His delight is genuine, the relief is real. Don't tip it.
+
 ## Randi resists / Vee assists
 
 The whole fork in two verbs. Randi was organized *against* need, so the bench had to **overcome her resistance**, and breaking the resistance broke her. Vee was built *to* hunger and exposure is her excitement, so she **assists** — plays along, lifts her hips, denies-to-be-found-out, cooperates *through* the shame. Same apparatus, opposite participation: one fought it and was undone, one helped it and was fed. The cleanest single instance is the heels: Pace *removed* Randi's (disarming her); Vee *removes her own* on the way to the bench — same gesture, opposite agency. Her assisting is also Vee beginning to **own** her chosen shame rather than be ruled by it (the book's liberation-as-ownership) — felt, never named.
