@@ -1,6 +1,6 @@
 # Condensed — Vee on the Bench
 
-*SCENE · Unwritten · late on the Pace–Vee staircase (deep spring / early-summer peak) · **Vee's POV — close third***
+*SCENE · Draft complete · `scenes/vee-on-the-bench.md` · late on the Pace–Vee staircase (deep spring / early-summer peak) · **Vee's POV — close third***
 
 ## Architecture & Placement
 

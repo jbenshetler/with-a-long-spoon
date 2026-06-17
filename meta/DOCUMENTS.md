@@ -209,6 +209,7 @@ Listed in chronological order (filesystem = `scenes/`; order, names, and status 
 | `cw-dance-debrief.md` | The CW-Dance Debrief | complete |
 | `back-from-thanksgiving.md` | Back from Thanksgiving — Tells Cassie | complete |
 | `porch-scene.md` | The Porch Scene — Cracker-and-Meal | complete |
+| `vee-on-the-bench.md` | Vee on the Bench | complete |
 | `ignition-scalding.md` | Scalding Jealousy Ignition | draft in progress (holding bay — placement TBD) |
 
 **Note:** the Threesome / Ending exists only as the planning doc `meta/meta-note-threesome-reveal.md` (architecture complete, prose not drafted) — it is not a `scenes/` prose file.
