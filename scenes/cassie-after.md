@@ -1,6 +1,6 @@
 # Cassie — After
 
-The lock stuck the way it always stuck and she got the door open with her hip and came in out of the bright cold. The room was warm, close, full of the smell of cereal and radiator dust, and Cassie was on the bottom bunk with her knees up and a bowl balanced against them, the milk gone the soft brown of the cereal.
+The lock stuck the way it always stuck and she got the door open with her hip and came in from the stuffy heat of the hall into the room's open-window cold, bright and crisp and smelling of cereal. Cassie was on the bottom bunk with her knees up and a bowl balanced against them, the milk gone the soft brown of the cereal.
 
 Cassie looked up, and for half a second something crossed her face and was gone before it found a name. Then she read her friend the way she read everything, fast and whole, and her mouth went to match Vee's, because Vee was grinning and the grin was the entire story.
 
@@ -42,4 +42,4 @@ Cassie watched her with mild interest. "You all right?"
 
 The door stuck and gave. Her steps went off down the hall and were gone.
 
-Vee stood in the warm, emptied room. She let the towel fall, and stepped out of the dress at last, and the night went on running through her, and the green was given away, and the smile would not come down. She had never in her life been so happy.
+Vee stood in the cold, emptied room. She let the towel fall, and stepped out of the dress at last, and the night went on running through her, and the green was given away, and the smile would not come down. She had never in her life been so happy.
