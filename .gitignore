@@ -6,4 +6,4 @@ instructions
 novel-assistant/.env
 novel-assistant/data/
 data/
-
+.claude/agent-memory/lore-keeper/MEMORY.md
