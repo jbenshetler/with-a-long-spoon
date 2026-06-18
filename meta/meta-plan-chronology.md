@@ -87,10 +87,6 @@ Warmer, less performed than the Randi version. The heat detail lands hardest (*"
 *~Sun Oct 6* · Draft complete · `brunch-fitting-randi.md` · [detail](meta-condensed-brunch-fitting-randi.md)
 First off-campus brunch — format upgraded (velvet alcove, Rombauer by name). Apparatus switches on. Two firsts: the first goodbye-kiss debut; the first ignition of Randi's jealousy via the water-glass tell on *"he looked at me and I was fine."* ← **jealousy ignites here.** Carries the first scent-name beat: Vee notices Randi's perfume, unnamed, in the pre-kiss closeness (flag 17).
 
-### [VIGNETTE] Randi — Social Price #1
-*~mid-October* · Unwritten · Randi/sorority
-Chapter meeting, or Brooke again, or a sister's offhand comment — the social tax of Randi's choices made legible. She's missing events, losing standing, choosing the plan over the frame she used to own. She absorbs it without flinching. The plan is worth it; she's still in control. First visible depletion of the social capital she's been spending.
-
 ### [SCENE] First Night Together
 *~Fri Oct 11* · Draft complete · `scenes/first-night.md` · [detail](meta-condensed-first-night.md)
 Motivated by the Fitting's deferred tension, not the CW dance. Pace invites her the morning he leaves for a three-day University of Chicago conference — *"Dinner Friday?"* — so she waits knowing the date. She arrives before the heat (mise-en-place ready, no flame). *"I never thanked you for the shirt"* opens the kiss. Fra diavolo and Chianti Classico become the meal after, not before. *"Would you be bothered if I was too hard?"* The trade: she folds the green satin panties in thirds, wet spot centered, drops the sheet, hands them to him bare. Best sex of her life; no management gap. Pays off: Fitting's deferment, the shirt-sleeping, the shame-arousal loop fully run. Plants: the scar (inner thigh, surgical — returns later), the gap that reopens in daylight retelling (First-Night Debrief), the green-sheets beat (undocumented future).
@@ -176,10 +172,6 @@ Waxing agreed-to with noticed ease; painted as fruit (peaches callback); the pho
 *~within a few days of the Painting Afternoon* · Unwritten · SATC · [detail](meta-condensed-vee-tells-randi-painting.md)
 Shows the photo. *"Gesso?"* The small smile already in place on return.
 
-### [VIGNETTE] Randi — Social Price #2
-*~late November* · Unwritten · Randi/sorority
-The accumulated cost of months of absence — events skipped, standing not collected, the chapter's social fabric pulling away. Not a confrontation; a quiet audit. The plan has cost more than she accounted for. She's still choosing it.
-
 ### [SCENE] The COVID / PPP Statistics Project
 *~week before Thanksgiving break* · Unwritten · [detail](meta-condensed-covid-ppp-project.md)
 They find Randi's father's company; she didn't know; recovery one beat too fast (Cassie sees, Vee doesn't). She accelerates into the plan.
@@ -247,6 +239,14 @@ Vee at the drawer mid-ritual: is the form lower than it should be? A steeper dro
 ### [VIGNETTE] Grain #2 — Worn in Plain Sight
 *~ongoing from March onward · recurring* · Unwritten · [detail](meta-condensed-grain-2-scrunchies.md)
 Randi wears Vee's scrunchies around Vee — and Vee is **thrilled**: the glamour queen is mimicking *her* style. The evidence lives in the open, filed under flattery — the loving-Randi cover, twin to grain #3's loving-Pace cover; every corrupted datum in the campaign gets explained by love. First instance spoken — Vee delighted (*"did I actually convert you?"*), Randi's double-register reply (*"You've ruined me. I used to have standards."*); recurrences unremarked, set dressing only. Late variation, post-Restoration: one sighting where the delight takes a half-second longer to arrive — the only trace her instrument is still running underneath. The reader, carrying the First Flicker, gets the jolt (*wait — are those—?*) while Vee beams; unprovable either way. The only mutuality Vee ever perceives in the friendship — at last something flows from her to Randi — and it's the theft.
+
+### [VIGNETTE] Randi — Social Price #1
+*~spring · slot TBD when spring drafting begins (flag 16 window)* · Unwritten · Randi/sorority
+Chapter meeting, or Brooke again, or a sister's offhand comment — the social tax of Randi's choices made legible. She's missing events, losing standing, choosing the plan over the frame she used to own. She absorbs it without flinching. The plan is worth it; she's still in control. First visible depletion of the social capital she's been spending — the cost Spring Inversion held invisible, now surfacing in company.
+
+### [VIGNETTE] Randi — Social Price #2
+*~spring, later than #1 · slot TBD* · Unwritten · Randi/sorority
+The accumulated cost of months of absence — events skipped, standing not collected, the chapter's social fabric pulling away. Not a confrontation; a quiet audit. The plan has cost more than she accounted for. She's still choosing it.
 
 ### [SCENE] The B&B Weekend (The Pivot / Last Domino)
 *~late February or early March* · Unwritten · [detail](meta-condensed-bb-weekend.md)
@@ -358,7 +358,7 @@ Vee leaves with full knowledge, full anger, full ownership. Pace reads the wrong
 
 15. **Randi POV — the containers rule (canonical; full version in the Bible).** Randi's interior opens only when she is **alone**, only in two containers — **the mirror** and **her single room** — and never in the presence of another character (the double register depends on it). Four apertures, two per container, each pair installation → consequence: Bench mirror → Flat Date mirror (wound installed → wound confirmed); walk-of-shame room → Spring Inversion room (the managed life → its invisible cost). Deliberate unexplained rhyme: Vee's mirrors fill; Randi's empty. Open: whether the ending sequence earns a final aperture. Corollary: Pace's bathroom/drawer is on-camera **only in Vee's POV**; Randi–Pace house scenes continue freely in Pace's POV (the Scalding model — the camera honestly inherits his blindness); no staged "opportunity" beats anywhere.
 
-16. **Spring is underplanned for its new load.** Two tracks need a planning block: (a) spring SATC — goodbye-kiss staircase steps, grain #2 interleaving, brunches at maximum charm precisely while the reader is primed, April–May thin; revisit `meta-plan-satc-tracks.md`. (b) Spring Randi–Pace — between Spring Inversion and Scalding their evolving dynamic is nearly blank on-page (time-negotiations, the management fraying, ignition-1 preconditions accumulating); all Pace POV, first-read warm/wicked per the Scalding pattern.
+16. **Spring is underplanned for its new load.** Two tracks need a planning block: (a) spring SATC — goodbye-kiss staircase steps, grain #2 interleaving, brunches at maximum charm precisely while the reader is primed, April–May thin; revisit `meta-plan-satc-tracks.md`. (b) Spring Randi–Pace — between Spring Inversion and Scalding their evolving dynamic is nearly blank on-page (time-negotiations, the management fraying, ignition-1 preconditions accumulating); all Pace POV, first-read warm/wicked per the Scalding pattern. The two Social Price vignettes now sit in this window (moved from fall, since Walk of Shame and the Smoothie Shop already carry the fall social-cost thread); both unpinned, exact slots TBD at spring drafting — #1 still wants its inciting incident (the cw-dance-debrief sighting is the standing candidate).
 
 17. **Randi's two-scent thread — placement/creation.** Year-round = Diptyque Eau des Sens (ratified); reveal-only peppered rose recorded in `meta-note-threesome-reveal.md` (+ condensed). To do: (a) SATC scent-name beats — Vee *notices* at the Fitting Brunch (drafted, unnamed seed), *asks* at the second restaurant brunch (unwritten; asking-placement open) — see `meta-plan-satc-tracks.md`; (b) **create the buys-it→shower beat** (Pace track, ~spring as Vee grows daring): Vee buys Eau des Sens and wears it once; Pace takes her into the shower and washes it off before sex, saying he'd rather smell her — returns her to her own bare skin.
 
