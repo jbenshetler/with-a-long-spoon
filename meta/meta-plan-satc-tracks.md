@@ -154,6 +154,8 @@ Randi narrates the **cartoon** version of BDSM — the loud, scripted, performat
 
 **The fingerprint line that must NEVER be crossed:** category details are safe ("he likes to be in charge" — lots of men do); **fingerprint** details arm the bomb (Pace's signature: edging-and-watching-her-face, "keep still," tenderness *inside* control, the rhythmic attentive tide). Randi's stories stay loud, scripted, surface. If a Randi story ever drifts toward the attentive/tender register, STOP — that's Pace's fingerprint and the bomb arms.
 
+**The men are fabricated/composite (writer's truth).** The men in these stories are invented or chimeras of men Randi has known plus sorority gossip — which is what frees the stories to vary widely and still ring true. This is a writer's fact governing how freely they may vary; the text keeps "real or imagined, NEVER resolved" for Vee and the reader and never settles it.
+
 ### Pace-out-ahead via PRESCIENT GUESSING, not testimony
 
 To seed Pace "out ahead" of where he is with Vee (more dominant/knowing than Vee has yet experienced), do NOT have Randi describe Pace directly (continuity bomb + matching risk). Instead, Randi **guesses** what Vee's man is like — landing as prescient because it's true. *"Let me guess — he's the type who takes charge."* Vee, startled: *"How did you—"* Randi: *"I've known the type."*
