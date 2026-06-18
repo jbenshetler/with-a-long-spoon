@@ -68,6 +68,12 @@ The BDSM triangle: Pace is B/D (architecture, rules, the framework inside which 
 
 ---
 
+## The Permission Rule
+
+She may masturbate on one condition: she has to ask Pace first. The condition is trivial to satisfy and she routinely cannot, because asking means saying it — acknowledging out loud, to him, that her body has gone ahead of her and wants finishing. That acknowledgment is the exact exposure the cutting voice cannot survive, so the rule converts relief into a toll she often won't pay: she lies wound and unrelieved with the remedy one sentence away, kept from it only by the sentence. It also banks her need against the next time he takes her in hand. Drives the bathroom-trip progression in `meta-plan-chronology.md`; on the page in `scenes/vee-on-the-bench.md`.
+
+---
+
 ## The Cutting Voice
 
 The voice that produces shame on demand when her body responds. Originated in her mother's training; now runs as Vee's own apparatus. **Render at the experience level only** — it cuts her; she does not narrate it as something she is running. Reader identification depends on this distinction. The voice is architectural; its presence in the prose is experiential.

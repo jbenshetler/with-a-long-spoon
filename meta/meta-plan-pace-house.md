@@ -5,8 +5,8 @@ on what's been committed to the page, so recurring scenes at the house stay
 consistent. Defers to `character-relationship-bible.md` ("The house, room by room")
 and `summary.md` for what each room *means*; this doc owns *where things are*.*
 
-**Sources.** `[PAGE]` = drafted, on the page in `scenes/the-bench.md` and
-`scenes/dress-pickup.md` — treat as fixed. `[PLAN]` = established in
+**Sources.** `[PAGE]` = drafted, on the page in `scenes/the-bench.md`,
+`scenes/dress-pickup.md`, and `scenes/vee-on-the-bench.md` — treat as fixed. `[PLAN]` = established in
 `character-relationship-bible.md` / `summary.md` but not yet drafted — render to
 taste, don't contradict.
 
@@ -133,9 +133,13 @@ the woodshop); **The Fitting plays here.** On the page (`scenes/dress-pickup.md`
   silk.
 
 ## Atmosphere / constants `[PAGE]`
-Kept **very warm** (so he can take his time without anyone being cold; "his too-warm
-house"). Quiet; lamplight; a private retreat two people move through without calling
-out to each other.
+**Pre-warmed for the expected guest.** He turns the heat up ahead of a planned visit
+so he can take his time without anyone being cold ("his too-warm house"). The few
+times Vee turns up **unannounced** the house is markedly cooler, an ordinary
+temperature — the contrast is how she's worked out, without his ever saying it, that
+he warms the place for her comfort, before she's even there to feel it (origin: the
+first night she took her top off under his roof). Quiet; lamplight; a private retreat
+two people move through without calling out to each other.
 
 ## Fixtures / props
 - **The bench** `[PAGE]`: walnut, **twelve coats of oil**; a fitted **wooden top**
