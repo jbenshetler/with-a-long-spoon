@@ -70,7 +70,7 @@ The BDSM triangle: Pace is B/D (architecture, rules, the framework inside which 
 
 ## The Permission Rule
 
-She may masturbate on one condition: she has to ask Pace first. The condition is trivial to satisfy and she routinely cannot, because asking means saying it — acknowledging out loud, to him, that her body has gone ahead of her and wants finishing. That acknowledgment is the exact exposure the cutting voice cannot survive, so the rule converts relief into a toll she often won't pay: she lies wound and unrelieved with the remedy one sentence away, kept from it only by the sentence. It also banks her need against the next time he takes her in hand. Drives the bathroom-trip progression in `meta-plan-chronology.md`; on the page in `scenes/vee-on-the-bench.md`.
+She may masturbate freely, with one narrow exception: not to thoughts of Pace without asking him first. Narrow by design — it governs only the wanting that is *his*, which keeps it specific rather than controlling and leaves the SATC-track relief outside the rule (essential: there the shame is Randi's to light, and Vee takes her own relief). The asking is the trap: to ask is to say it — to acknowledge out loud to him that her body has gone ahead of her over the thought of him — the exact exposure the cutting voice cannot survive. So when it is *him* she wants, relief becomes a toll she often won't pay: wound and unrelieved with the remedy one sentence away, kept from it only by the sentence. Banks her need against the next time he takes her in hand. On the page in `scenes/vee-on-the-bench.md`; cf. the bathroom-trip progression in `meta-plan-chronology.md`.
 
 ---
 
