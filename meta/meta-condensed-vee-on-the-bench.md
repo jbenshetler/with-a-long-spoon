@@ -18,7 +18,9 @@ Rendered from **inside** Vee the whole time — the inverse of the opening, whic
 
 ## Craft — not a repeated beat
 
-The bench is re-rendered in full through Vee — first-seeing, body-before-mind — *not* skipped: the guided positioning is the scene's action, and the reader knowing what each fixture is for is what makes her dawning excruciating, not redundant. The engine is inverted from Randi's: not extraction-through-denial and the imagined-audience move (Randi-coded — evaluation is Vee's wound, saved for the reveal), but overflow — the secretions reframe at full bloom, the tells welcomed. **Full how-to-render guidance — the positioning sequence, the epistemic fork, the recognition-curdle, the guardrails — lives in `meta-note-vee-on-the-bench.md`.**
+The bench is re-rendered in full through Vee — first-seeing, body-before-mind — *not* skipped: the guided positioning is the scene's action, and the reader knowing what each fixture is for is what makes her dawning excruciating, not redundant. The engine is inverted from Randi's: not extraction-through-denial and the imagined-audience move (Randi-coded — evaluation is Vee's wound, saved for the reveal), but overflow — the secretions reframe at full bloom, the tells welcomed.
+
+The rendering runs a head↔body oscillation — his words pull her into self-conscious shame, his touch floods her back into the body — carried in the sentence rhythm itself: clipped and immediate in the head-beats, long and dreamy in the body-floods. His tenderness carries itself; the prose does not stop to rule out cruelty. **Full how-to-render guidance — the positioning sequence, the epistemic fork, the recognition-curdle, the head↔body cycle, the guardrails — lives in `meta-note-vee-on-the-bench.md`.**
 
 ## Function
 
