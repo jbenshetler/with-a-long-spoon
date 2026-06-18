@@ -106,7 +106,7 @@ Cassie is **explicitly anti-Greek** — a stance she will voice (unlike the Cass
 
 ## Dorm
 
-Standard double with Vee — **bunk beds (Vee took the top without being asked)**, two desks, a bathroom shared through a connecting door with the room next door. A partial scholarship covers Vee's housing premium. Cassie's side may be neater; the contrast is part of the friendship.
+Standard double with Vee — **bunk beds (Vee took the top without being asked)**, two desks, a bathroom shared through a connecting door with the room next door. A partial scholarship covers Vee's housing premium. Cassie's side may be neater; the contrast is part of the friendship. The building runs too hot whenever the heat is on, but the girls' room stays consistently cold: Cassie hates the heat and keeps the outside window open.
 
 *(Vee-took-the-top is characterful — small un-asked claiming, very Vee — and stays canon. See Continuity Flags re: bed-staging.)*
 
