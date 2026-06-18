@@ -38,6 +38,8 @@ Two distinct staircases live inside this track:
 
 **Scene assignments:** Fitting Brunch — no trip (apparatus installed, not fired). First-Night Debrief — no trip (conversion; floozie-shame is social, not transgressive). First Swat Debrief — **first trip, quick suppression** (Randi’s arch return: *"I hope everything is alright"*). Proof Scene debrief — **lingers, then first masturbation** (capitulation: she stops not-doing it; both happen within the same visit). Painting debrief — second time, a decision.
 
+**Pace's Permission Rule channels the relief here.** From ~mid-spring Pace forbids relief to *him* (tell-before, the gate); SATC-track relief stays outside the rule, so the charge Vee relieves is the one Randi lit. The line is gray (the brunch material *is* Pace scenes) and she passes it by description — *"the lunch undid me,"* not *"I want him"* — a not-looking she keeps un-examined. Full mechanism + the two craft guards: `meta-arch-vivienne.md` → The Permission Rule.
+
 -----
 
 ## THE PHYSICAL STAIRCASE — THE GOODBYE KISS AND ITS COUSINS
