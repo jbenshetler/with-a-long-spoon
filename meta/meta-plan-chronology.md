@@ -328,7 +328,7 @@ Vee leaves with full knowledge, full anger, full ownership. Pace reads the wrong
 
 ## Continuity Flags
 
-1. **The Fitting's "third stay" vs. the First Swat's "first visit after their first sex."** The Fitting precedes the First Swat, but the Fitting is written as her "third stay" while the First Swat is her first post-sex house visit. Recommend: treat the Fitting as a daytime *visit*, not an overnight *stay* (supported by the deferment — she doesn't stay the night) — change "third stay" in the draft to "third time at the house."
+1. **The Fitting is a daytime visit, not an overnight stay.** It is her third time at the house but she does not stay the night (the deferment carries her out the door). This keeps the First Swat clean as her first post-sex house visit.
 
 2. **The try-on.** Folded into Dress Pickup: she initiates, he proceeds, tender. The First Swat remains the first edged beat.
 
