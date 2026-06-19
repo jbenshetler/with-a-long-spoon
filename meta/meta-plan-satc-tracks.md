@@ -236,6 +236,13 @@ Every SATC lunch ends with a hug and a special kiss. It does double duty:
 
 **The Pace/Randi contrast, sharpened.** Both run transgression → reward → next. Pace rewards the terrifying crossing with *genuine* reception (goodness, meeting — the real blanket and tea — which makes the brave crossing worth it). Randi's reward *feels* like that and is counterfeit: recognition not meeting, the cheap currency, an exit ritual that returns Vee to normal life already booked for the next extraction. Same cycle-shape, real reception vs. counterfeit.
 
+### "Gorgeous" — reserved vocabulary, Randi → Vee only
+
+Randi's general affirmation-coin is spent on everyone (warmth, "you look great"), but the single word **"gorgeous" is reserved: Randi uses it only ever for Vee**, never for a man, never for anyone else. The reservation is what arms its arc:
+
+- **Already planted, on Vee.** Randi spends it on Vee's body and as the goodbye-ritual closer: *"Dresses don't stop at your gorgeous chest"* (brunch-fitting-randi) and *see you soon, gorgeous*. The word is Randi's to give, and she gives it only to Vee.
+- **Payoff (ignition-scalding), of Vee's breasts.** "Tell me about her breasts. The gorgeous ones." — *"She had handed Vee the word and kept nothing for herself, and lay there waiting to hear where she ranked."* The bite: Randi gives Vee the superlative and never keeps it for her own body, then waits to hear where she ranks. If "gorgeous" were sprayed on every handsome man, *kept nothing for herself* would mean nothing. Keep it clean.
+
 -----
 
 -----
