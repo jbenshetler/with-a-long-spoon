@@ -32,9 +32,9 @@
 
 Sheri's loyalty is *reassuring Pace toward Vee* — the CW report (Vee miserable, danced with no one, left alone) nudges him deeper into the attachment that becomes his reckoning. Her fierce care greases the trap. Light on first read (a friend cheering him up); cold only in the pattern.
 
-## Continuity hook
+## Continuity hook — resolved
 
-The size-mismatch joke (*"She couldn't take your heat"*) shows Sheri tiny but states no figures; it **depends on Vee's height being planted earlier in the book** — vs. Randi in the pointing game, vs. Pace in one of froyo / may-i-choose / the-fitting. **Open.**
+The size-mismatch joke (*"She couldn't take your heat"*) shows Sheri tiny but states no figures; it needs only that the reader already knows Vee is **tall and lushly built**. Met in **the pointing game** (Vee "tall, built on a lavish scale"; sharpened at the collision — sleek narrow Randi against the redhead's lush curves and the half-head of height on her), which precedes this ride. The **Vee-vs-Pace near-parity is deliberately NOT planted early** — Vee carries him as taller than he is, and *The First Swat* spends that misperception as the heel-inversion surprise; planting it sooner would dull the payoff. (Epistemic home: arch-vivienne; guard: meta-condensed-the-first-swat.)
 
 ## Craft watch
 
