@@ -48,7 +48,7 @@ Vee looked at the wine list, which was its own card, and found the Rombauer on i
 
 "Randi. I have only known you a few weeks. You could have robbed a bank — that I'd believe — but past that there is genuinely no telling. You're a woman of mystery."
 
-Randi laughed, the real one, pleased. "Okay, fine, you're no fun and I'm dying to tell you anyway." She came in close over the table, conspiratorial, warm, bringing Vee in with her. "So I let this beautiful idiot take me home. Sweet, gorgeous, completely in love with himself — you know the kind, the kind you keep around for the view. And we get back to his place and I decide I want to play, so I have him tie my wrists to the headboard. With a *scarf.* Very romantic, very incompetent, the knot came loose twice." She was grinning, lit up with it, and the grin was an invitation. "And then he tickles me."
+Randi laughed, the real one, pleased. "Okay, fine, you're no fun and I'm dying to tell you anyway." She came in close over the table, conspiratorial, warm, bringing Vee in with her. "So I let this beautiful idiot take me home. Sweet, pretty, completely in love with himself — you know the kind, the kind you keep around for the view. And we get back to his place and I decide I want to play, so I have him tie my wrists to the headboard. With a *scarf.* Very romantic, very incompetent, the knot came loose twice." She was grinning, lit up with it, and the grin was an invitation. "And then he tickles me."
 
 "He — he what?"
 
@@ -99,7 +99,7 @@ Vee looked at her.
 
 Vee laughed, helpless, complimented, the heat in her face turning to pleasure — because this was the thing about Randi, she could make you feel like the lucky one, like the thing you'd been ashamed of your whole life was the thing somebody glamorous would trade her whole self for.
 
-"He must've had his work cut out," Randi went on, light, turning her glass. "All that to get around. You said he's gorgeous, this man." A pause, just slightly lowered, just for the two of them. "Were there any — *challenges?*"
+"He must've had his work cut out," Randi went on, light, turning her glass. "All that to get around. You said he's a looker, this man." A pause, just slightly lowered, just for the two of them. "Were there any — *challenges?*"
 
 The word sat there with its little hook in it. And Vee, who had been warm and laughing a second ago, felt the floor tilt, because she knew exactly what *challenges* meant, it meant the thing she would never say, it meant the way her body had answered the cold air and the warm room and his hands near her and the whole impossible fact of being looked at — and her face was already betraying her, she could feel it, and her voice came out flat and defensive and too fast.
 
