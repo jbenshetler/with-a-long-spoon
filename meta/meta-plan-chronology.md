@@ -92,7 +92,7 @@ First off-campus brunch — format upgraded (velvet alcove, Rombauer by name). A
 Motivated by the Fitting's deferred tension, not the CW dance. Pace invites her the morning he leaves for a three-day University of Chicago conference — *"Dinner Friday?"* — so she waits knowing the date. She arrives before the heat (mise-en-place ready, no flame). *"I never thanked you for the shirt"* opens the kiss. Fra diavolo and Chianti Classico become the meal after, not before. *"Would you be bothered if I was too hard?"* The trade: she folds the green satin panties in thirds, wet spot centered, drops the sheet, hands them to him bare. Best sex of her life; no management gap. Pays off: Fitting's deferment, the shirt-sleeping, the shame-arousal loop fully run. Plants: the scar (inner thigh, surgical — returns later), the gap that reopens in daylight retelling (First-Night Debrief), the green-sheets beat (undocumented future).
 
 ### [SCENE] Cassie — After
-*~Sat Oct 12* · Unwritten · Cassandra track · [detail](meta-condensed-cassie-after.md)
+*~Sat Oct 12* · Draft complete · `scenes/cassie-after.md` · Cassandra track · [detail](meta-condensed-cassie-after.md)
 Vee tries to tell Cassie and can't. Shame meets the wrong-shaped listener; Cassie can hold romance but not the bodily response. First withheld thing. The vacancy this opens is exactly what Randi fills at First-Night Debrief. Photographic negative of Vee Tells Cassie — Hike.
 
 ### [SCENE] First-Night Debrief
@@ -106,10 +106,6 @@ Lean scene, quick build to quick release — the bridge is crossed (First Night)
 ### [SCENE] Stats — Simpson's Paradox
 *~Fri Oct 18 · morning after Dress Pickup · stats class day* · Draft complete · `scenes/stats-simpsons-paradox.md` · [detail](meta-condensed-stats-simpsons-paradox.md)
 Absorbs the old standalone "Vee Shows Cassie the Dress." Vee comes to stats glowing and late off the overnight at Pace's (the gown home at the dorm, zipped, shown to no one) and sits between her two confidantes (Cassie | Vee | Randi). The dress is old news to both (the fitting tellings), so neither re-reveals it; the fork is in how each meets the transformed Vee. Cassie watches Vee, not the dress — "Was it a good night?" / "Yes. Oh, yes." Randi hears the other thing in that second *yes* ("You lucky slut"), draws out the shoe-gap, and binds it with a favor ("How's Saturday"), setting up Shoe Shopping. The professor's **Simpson's-paradox** drone bookends it — short-term trends reversing against the whole, same data, the total handing you the reverse of the truth — and Vee transcribes it, connecting it to nothing. Pairs with Vee Tells Cassie About the Fitting (experience → completed object, Cassie's Cassandra role).
-
-### [VIGNETTE] Sheri — First Ride
-*~Sat Oct 19 · morning* · Unwritten · Pace/Sheri
-Pace and Sheri on bikes — the first rendered instance of a friendship that has existed throughout. Sheri asks about the redhead Pace mentioned; Pace tells him more than he intends. Brief, warm, Pace's register on the outside of his own architecture.
 
 ### [SCENE] Shoe Shopping with Randi
 *~Sat Oct 19* · Unwritten · SATC · [detail](meta-condensed-shoe-shopping.md)
@@ -127,6 +123,10 @@ Randi denigrates the homemade dress to the man who made it. The left-handed comp
 ### [SCENE] The CW-Dance Debrief
 *~Fri Oct 25 · morning after the CW Dance* · Draft complete · SATC · counsel register · Randi's single · `cw-dance-debrief.md` · [detail](meta-condensed-cw-dance-debrief.md)
 Vee already knows she was wrong — the older woman's correction landed complete Thursday night; the overnight was penance, not processing. She shows up at Randi's door Friday morning needing counsel, inverting the usual power geometry. Central irony: she is confessing to the woman Pace is sleeping with that she misread Pace as a womanizer. Randi's validation is eyewitness-credible and perfectly self-serving. Counsel register (not extraction — distinct from First-Night Debrief and the booth format). Randi steers Vee toward a full-throated apology without reservation (the posture Randi cannot occupy herself), reframes the jealousy as proof of feeling, and runs a wardrobe consultation from Vee's own closet — their bodies too different to share clothes, but shoes cross the gap. **First shoe loan** — Randi selects from her private archive of what she wore to Pace; the history rides along unspoken. Establishes the recurring pattern that culminates at the threesome. Vee's addition: the Humble Pie (store-bought, handmade label — her own idiom, not Randi's prescription). Social cost beat: a sister seeing the unaffiliated outsider at the sorority house threshold feeds Social Price #1.
+
+### [VIGNETTE] Sheri — First Ride
+*~Sat Oct 26 · morning* · Draft complete · `scenes/sheri-first-ride.md` · Pace/Sheri · [detail](meta-note-sheri-first-ride.md)
+Pace and Sheri on bicycles — the first rendered instance of a friendship that has existed throughout, and the one bond shown where the chivalric grammar simply works. Sits between the CW-Dance blowup (Thu) and the reconciliation that evening: Sheri, a CW regular, saw the redhead blow up at Pace Thursday and kept an eye on her the rest of the night. Now she asks. Pace doesn't lie to her; what leaks is affect, not the architecture — Sheri sees how gone he is. Learning they're together, she asks *"What happened to the pale sorority chick?"*; the non-denial earns *"If that's not already complicated, it will be."* Cassie warns Vee; Sheri warns Pace — in plain, uncoded language, the one register he can parse, and still can't act on. Brief, warm, Pace's register on the outside of his own architecture.
 
 ### [SCENE] The First Swat / The Setup
 *~Sat Oct 26 evening → Sun Oct 27 morning* · Unwritten · [detail](meta-condensed-the-first-swat.md)
