@@ -1,6 +1,8 @@
 # Condensed — First Swat Debrief
 
-*SCENE · Unwritten · early November, within a few days of the First Swat · SATC · music practice room (soundproof)*
+*SCENE · Draft complete · `first-swat-debrief.md` · early November, within a few days of the First Swat · SATC · music practice room (soundproof)*
+
+*Craft/why and beat-by-beat: [[meta-note-first-swat-debrief]].*
 
 ## Summary
 
@@ -8,11 +10,13 @@ The first SATC scene with genuinely transgressive shame content — the first ti
 
 ## Container
 
-A soundproof music practice room — not the velvet booth. No staging, no waiter, no Rombauer. The booth is reserved for the full production format; this room strips everything back. Occasion reads as logistics/accident (Randi in the building for legitimate reasons; Vee comes to find her, or Randi texts *come find me*). The soundproofing does architecturally what the velvet alcove does with velvet: nothing said here can leave. Randi is not running the production; she reads as a friend. The sealed intimacy is more naked for the lack of apparatus.
+A soundproof music practice room — not the velvet booth. No staging, no waiter, no Rombauer. The booth is reserved for the full production format; this room strips everything back. Occasion reads as logistics/accident: the two come from the stats class they share; off-campus is blocked (Randi's sorority commitment after), so Randi suggests the practice rooms. The soundproofing does architecturally what the velvet alcove does with velvet: nothing said here can leave. Randi is not running the production; she reads as a friend. The sealed intimacy is more naked for the lack of apparatus.
 
 ## Key Beats
 
-**"Your turn."** The taking-turns ritual is already running — no warmup opener needed. Two words that now carry the full weight of what *your turn* has come to mean between them. Randi moves directly to extraction; the story comes later.
+**Opening — stats class; the first peel.** Cold open in the shared stats lecture (Cassie present, as always), the professor on outliers (additive vs. innovational) — the stats mirror, silent/never-explained. Vee arrives underslept, full of Pace; that cover-story runs to the hug. After class, *Vee* peels Randi off for the first time (until now Randi peeled Vee out), leaving Cassie — the who-leads migration made literal. To the soundproof room; Vee supplies the freshman-makeout lore and colors at it; the door seals.
+
+**"Okay. The shoes. Tell me everything."** The taking-turns ritual (established at First-Night Debrief) runs without setup, and the coaching warrant folds into the opener: Randi set the reconciliation up, so she is owed the ending. Randi moves directly toward extraction; the story comes later. Motive stack and the asymmetric telling: see the note.
 
 **Vee's surface version.** *Ha ha, he swatted my butt. I laughed. We ended up having sex.* The approved funny story, cleaned up and ready. A person can say this out loud over lunch.
 
@@ -24,7 +28,7 @@ A soundproof music practice room — not the velvet booth. No staging, no waiter
 
 **Randi clocks when she left.**
 
-**On return: the close.** An arch look. *"I hope everything is alright."* Deniable, hospitable, devastating. On first read: mild concern, solicitude. On reread: *was everything handled, did you get sorted out* — the practical question in a hospitable costume. Vee can confirm neither way; to deny it confirms it; to let it pass is to leave it on the table. She carries the unsettled note out of the room.
+**On return: the close.** An arch look. *"All better?"* Deniable, hospitable, devastating. On first read: mild concern, solicitude. On reread: *did the condition get relieved, was it handled* — the practical question in a hospitable costume, and delivered the instant she sits it clocks the timing for free (*all better, already?*). Vee can confirm neither way; to deny it confirms it; to let it pass is to leave it on the table. She carries the unsettled note out of the room.
 
 ## Departure / Physical Staircase
 

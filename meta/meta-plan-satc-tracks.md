@@ -60,6 +60,8 @@ Added cousins (your Session 5 details): hand on the hip; a hug combined with the
 
 **Reveal payoff:** every goodbye kiss is Vee’s body cataloguing the one kiss it will recognize in the dark. **The kiss is the SOLE channel of identity in the threesome** (see threesome doc). Vee built and maintained the cover herself, brunch after brunch — there’s no one to blame for the goodbye kisses.
 
+**Render each rung in fresh language.** The signature is the *structure* (the two-tier kiss, the small second press), not any fixed wording — never reuse the same description across scenes (e.g. “soft and unhurried,” “the small second press that was only what they did now”). The recurrence should be felt through shape, not repeated sentences; identical phrasing scene to scene reads as formula.
+
 -----
 
 ## THE FORMAT-BREAK SCENES (punctuation, NOT a new format)

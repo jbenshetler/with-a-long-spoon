@@ -96,7 +96,7 @@ Motivated by the Fitting's deferred tension, not the CW dance. Pace invites her 
 Vee tries to tell Cassie and can't. Shame meets the wrong-shaped listener; Cassie can hold romance but not the bodily response. First withheld thing. The vacancy this opens is exactly what Randi fills at First-Night Debrief. Photographic negative of Vee Tells Cassie — Hike.
 
 ### [SCENE] First-Night Debrief
-*~Tue Oct 15 · stats class day* · Unwritten · SATC · off-campus · [detail](meta-condensed-first-night-debrief.md)
+*~Tue Oct 15 · stats class day* · Draft complete · SATC · off-campus · `first-night-debrief.md` · [detail](meta-condensed-first-night-debrief.md)
 Vee arrives carrying the floozie-shame she couldn't give Cassie. Randi catches the flush at maximum exposure and converts it to pride/aliveness — genuine kindness that is also the threesome on-ramp. Post-Fitting/post-jealousy: deliberate operation, so no tell. First read: the glamorous friend talked me out of my shame. *Them-not-you* seed and bathroom-trip beat migrate here.
 
 ### [SCENE] Dress Pickup
@@ -133,7 +133,7 @@ Pace and Sheri on bicycles — the first rendered instance of a friendship that 
 Vee arrives Saturday evening to apologize for the jealousy at the dance — the apology is the door-opening beat, shame arriving on his threshold. He takes it; she stays the night. Scene proper is Sunday, she wakes past noon: she's light, forgiven, spunky. Mouthy enough to earn one playful swat — the look crosses her face; she immediately initiates sex. Nobody names it. Plants the *what was that look?* hook. The Proof Scene is the deliberate escalation: recreation, naming, denial, physical proof.
 
 ### [SCENE] First Swat Debrief
-*~early November · within a few days of the First Swat* · Unwritten · SATC · music practice room · [detail](meta-condensed-first-swat-debrief.md)
+*~early November · within a few days of the First Swat* · Draft complete · SATC · music practice room · `first-swat-debrief.md` · [detail](meta-condensed-first-swat-debrief.md)
 First SATC scene with genuinely transgressive shame content. Container: soundproof music practice room — not the velvet booth. "Your turn" — the taking-turns ritual is already running; Randi moves directly to extraction. Vee's surface version (*ha ha, he swatted my butt*) peeled back to the real thing: the look, the immediate wanting, the charge that fired. Shame circuit fires in the retelling. Then — after the extraction, not before — Randi's spanking story as amplifier and installer (*"If you think a swat is good, a spanking is better"*): theatrical, explicit, porn-generic register, NOT Pace-fingerprint. Vee excuses herself to the bathroom; reason is specific — wetness, physical evidence her body produced without permission. Tempted to masturbate; doesn't. **First bathroom trip; quick suppression.** Randi clocks when she left. On return: *"I hope everything is alright."* — arch, deniable, devastating close. Pays off: the First Swat's look and unnamed wanting. Plants: Randi has now extracted the swat's effect, installed the escalation, witnessed physical arousal in retelling, filed the timing, and named it deniably — everything *"Are your fingers sticky?"* collects on at the Proof Scene debrief.
 
 ### [VIGNETTE] The Scrunchies
