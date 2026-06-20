@@ -179,6 +179,7 @@ One file per non-trivial scene; the chronology entry links to it. To work on a s
 | File | What it answers |
 |------|----------------|
 | `meta-ideas.md` | Unplaced ideas, candidate scenes, language fragments not yet assigned. |
+| `meta-blurb.md` | External reader-facing copy (not part of the writing process): jacket/blurb variants in two registers (explicit / implication) at three lengths, plus genre statement, comp shelf, and the blurb-discipline rules (foreground the configuration, protect the landing, never name the appetite). |
 
 ---
 
