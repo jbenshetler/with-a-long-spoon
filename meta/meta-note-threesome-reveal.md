@@ -74,7 +74,7 @@ She’s had it from the first kiss (the eye contact she actually remembers; admi
 
 ### The threesome introduction & the falling out (sequence/timing)
 
-- **Introduction:** Pace plants the idea as observation, not proposal. Reads her body’s response (≠ her ideological response). Doesn’t push. She brings it to Randi (confidante architecture fully operational). Randi’s most carefully controlled move: walks Vee toward it without appearing to. Reports to Pace: *“She’s thinking about it.”* His face; a beat; he nods. Still believes it’s a favor.
+- **Introduction:** Pace plants the idea as observation, not proposal. Reads her body’s response (≠ her ideological response). Doesn’t push. She brings it to Randi (confidante architecture fully operational). Randi’s most carefully controlled move: walks Vee toward it without appearing to. Reports to Pace: *“She’s thinking about it.”* His face; a beat; he nods. Still believes it’s a favor — he has known since the pointing game that the wanting is Randi’s; the blindness is to the sadism and the cost, not the desire.
 - **The falling out (Randi/Vee):** Randi crosses from EXPOSURE into EVALUATION — the one register Vee can’t tolerate (found wanting, not found). Vee withdraws without being able to name why. Randi doesn’t pursue (her most controlled, costly move); a casual text that asks nothing; a week or two. Vee comes back because the pull exceeds the discomfort. The uncrossable line crossed and forgiven — Randi updates her model of how far she can go. **Timing: close to the threesome**, so the friendship feels recently reaffirmed when the blindfold goes on — the betrayal lands harder for it.
 
 -----

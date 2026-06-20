@@ -127,6 +127,21 @@ Render moments of Randi being attracted to Vee in registers that are not strateg
 
 ---
 
+## The Self-Subjugation with Pace — How to Render
+
+*(Architecture: `meta-arch-randi.md`, The Self-Subjugation with Pace. First rung: the dress-barb vignette; high rung: `ignition-scalding.md`.)*
+
+A volunteered series in which Randi debases herself sexually with Pace, each rung a humiliation relative to Vee, all of it dressed as a game she is running. Render the submission and masochism as **real under a performance she controls** — never a put-on, never the plan tipping its hand. The tells:
+
+- **She offers it.** She volunteers the humiliation — fishes for the comparison, asks the wounding question, takes the lower place. The volunteering is the deniability and the wound both.
+- **Arousal climbs on the humiliation.** Her excitement rises as she digs toward what hurts; the body votes for the abasement she is authoring.
+- **Pace defuses, then plays.** He never wounds carelessly — he refuses to rank, tenderness first (see the breast-comparison defusal, `ignition-scalding.md`). What lands is his *kind* answer, read off her body and offered inside the deniable wrapper.
+- **Nothing is named, and the cup stays quiet** — in a sexual venue she has the discharge the clothed venues deny her.
+
+Keep her interior withheld; the reader assembles the masochism from what she volunteers and how her body answers, never from access to her wanting it.
+
+---
+
 ## The Flat Date — How to Render It
 
 *(Unwritten scene; see `meta-plan-chronology.md` for plan. The bench for comparison: → `the-bench.md`.)*

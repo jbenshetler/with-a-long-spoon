@@ -30,6 +30,8 @@
 
 **The after-register does not run.** What he does not read is what present moments become in the other person's interior afterward. Render this as the specific failure of after-reading, not as general inattention. The peak is real; the after-reading is what is not running.
 
+**A confirmed read forecloses it further.** When the present moment resolves into an unambiguous yes — a body answering, a boundary willingly crossed — the success closes the question, and nothing is left for the after-reading to carry forward. His competence is the blindness: the cleaner the win, the less reason to ask what it cost her.
+
 **The bench is the worked example** *(→ `the-bench.md`)*: he sees what he produced accurately; he does not see the regret that the vulnerability produced in Randi afterward.
 
 **No filing. No cataloging. No registering-and-storing.** When the prose needs to convey that something just reached him, render it in the embodied register: something moves in him, his attention slides toward what she just produced, his hand is already on her before his mind has finished the observation. He remembers her the way you remember a person still in the room.
