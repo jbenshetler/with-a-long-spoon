@@ -106,7 +106,7 @@ After the threesome: she will spend the rest of her life wondering whether the r
 
 Pace short-circuits the humiliation step — makes her feel safe in her own body. Randi maximizes it — makes her feel exposed. Both produce intense arousal because both engage her core mechanism in opposite directions. She does not perceive the coordination. The reader on second read does.
 
-Pace does not see the BDSM triangle. His attention is domain-specific; he has not seen Randi's sadism because Randi has not been sadistic with him. He believes the SATC track is a relatively conventional female friendship intensifying toward the threesome. This preserves his technical innocence while compounding the indictment of his blindness — the innocence requires not asking questions whose answers would damage the structure he is invested in.
+Pace does not see the BDSM triangle. His attention is domain-specific; he has not seen Randi's sadism because Randi has not been sadistic with him. What he *does* see is her desire: he read at the pointing game that Randi wants a woman and that her body picked Vee, and he let the wrapper — *a threesome, for him* — stand, because it was the wrapper the wanting needed and the frame he needed to proceed. His blindness is to the *cost*, never the want — to the sadism, the steering, the self-subjugation the configuration grinds into her. He believes the SATC track is a relatively conventional female friendship intensifying toward the threesome. This preserves his technical innocence while compounding the indictment of his blindness — the innocence requires not asking questions whose answers would damage the structure he is invested in.
 
 ---
 

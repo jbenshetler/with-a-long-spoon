@@ -59,6 +59,22 @@ She begged. *Please. Please, Pace. Please.* The first and only verbal admission 
 
 ---
 
+## The Self-Subjugation with Pace
+
+> **Defers to 🔒 THE NEED ENGINE (locked) above.** The bodily-sexual face of the same need: what the bench installed and forbade, routed through Pace in the one register that stays deniable.
+
+Her submission and masochism with Pace are **real, not performed.** She dresses them as performance — a game she is running, a scene, a bit — so the wanting stays deniable, socially and to herself. The performance is the disguise; the feeling under it is genuine. The frame does not hollow the *sensation* (the submission fully felt, the masochism fully craved); it hollows the *acknowledgment*. She is fed and never received-as-needing, because being received-as-needing would mean dropping the disguise. Real charge, starved admission — which is why it feeds her and never resolves.
+
+It runs as a **volunteered series** across the year — she offers the humiliation, paces it, authors each rung — and its content is **her own debasement relative to Vee.** It is coupled to the revelation slope: the more the SATC reports show her Pace stripping Vee's defenses and Vee *thriving* on it, the lower the rungs go. Early, the masochism is positional — she arranged for the man she sleeps with to spend himself on a girl she is certain she outranks, and the arrangement cuts her pride each time it runs (her own word for it, late, is *sloppy seconds*). She built it herself, as the price of the wrapper: *I want a woman* is unsurvivable, so it became *a threesome, for my boyfriend* — and the wrapper costs her the standing of steering her own man to the lesser girl. As the thriving-evidence accumulates, the same act sharpens into the torture of having handed him a girl who can do the thing that broke her and bloom on it.
+
+So the operation is **sadism on Vee and masochism on herself in one gesture** — running the configuration tops Vee and bottoms Randi's own pride in the same motion. (Extends *Love and sadism are the same motion*, locked above: the motion is also self-inflicted.)
+
+**The volunteering keeps the bench singular.** She authors every rung, which makes each one hers and deniable — the opposite of the bench, where the need was drawn out of her unframed. She may beg again inside the disguise; she does not produce the begging-voice again. The bench stays the one time the wrapper was absent.
+
+*Entry rung: the dress-barb vignette (`meta-condensed-sweet-dress-barb.md`). High rung: the kneeling and the* sloppy seconds *line (`ignition-scalding.md`).*
+
+---
+
 ## The Archive — What She Wore, What They Did
 
 Randi's visits to Pace are core memories. She can recite them: what she wore each time, what happened, the specific details of each encounter. This is not sentiment — it is the wound maintaining its own inventory. The visits are the source of her aliveness, and her memory protects that source with the precision of someone who has been given something irreplaceable and knows it.
