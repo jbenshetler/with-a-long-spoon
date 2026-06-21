@@ -2,7 +2,7 @@
 
 *VIGNETTE · Draft complete (`scenes/sweet-dress-barb.md`) · between First-Night Debrief and Dress Pickup (the dress still on the form at Pace's) · his POV*
 
-A weekday afternoon — Randi's remaining access, weekends now Vee's. Pace stays warm and romantic with her: the chivalric frame is intact (the warm house, the unhurried kiss, wine breathing, a board of cheese and split figs, his tending). The half-finished dress is on the form, which puts Vee in the room between them.
+A weekday afternoon — Randi's remaining access; weekends now Vee's (the part of Randi's cadence the plan transferred — she didn't mind sharing the servicing with a woman of her choosing; see `meta-arch-randi.md`, The Cadence). Pace stays warm and romantic with her: the chivalric frame is intact (the warm house, the unhurried kiss, wine breathing, a board of cheese and split figs, his tending). The half-finished dress is on the form, which puts Vee in the room between them.
 
 **The barb.** Randi denigrates the homemade dress to the man who made it: *"It's sweet, that you made it for her"* — homemade-as-déclassé, her first-gen-wealth hierarchy exactly backwards for this target. It thuds; Pace doesn't share the designer-over-handmade hierarchy, so the word goes down into him and finds no floor. The one flicker where her instrument doesn't play.
 

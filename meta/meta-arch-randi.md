@@ -87,6 +87,18 @@ It also means every SATC report Vee delivers cross-references against Randi's sp
 
 ---
 
+## The Cadence — The Greedy Phase, and Splitting the Servicing
+
+Randi and Pace opened greedy. The first weeks (from ~mid-August) ran hot and frequent: Pace is a fit twenty-two-year-old athlete, his body capable and often ready, and the early cadence was as much weekend overnights as weekday afternoons. The frequency left her sore — the plain physical fact of a healthy young woman keeping pace with an athlete, never a complaint and never neediness. (The vigor is *body*; the appetite that actually lights Pace stays cognitive — conventional sex leaves his mind elsewhere, its own unspoken cost inside a configuration she experiences as her aliveness.)
+
+Vee's arrival upends that orbit. The plan routes Pace's weekend nights to Vee; Randi's access contracts to weekday afternoons (see "Sweet"). She now has much less of Pace — and the soreness, with it, is past tense.
+
+Her attitude toward this is the load-bearing thing, and it is pure operator. She is **not seeking relief.** But in concept she is **not much bothered to split the servicing of Pace — with a woman of her own choosing.** The acceptability runs entirely through control: she selects who. She doesn't mind the freed weekends (sorority time she'd been spending on him) or the lightened physical load — but **both are side benefits, not sought, never the motive.** The threesome's engine is the want for Vee; the servicing-split is a comfort compatible with it, not a reason for it. Read it as the driver and Randi collapses into someone seeking help, which she is not.
+
+**Render discipline:** backstory only — it shapes the schedule, it does not get narrated. If it ever surfaces it is retrospective and cool (*there'd been a stretch, early on*), the operator noting an efficiency, never a grievance and never a request. And the freed weekends do not save her standing: by the time she has them back, her attention is on the operation, not the house. She got the time and lost the frame anyway, because she no longer wanted the frame.
+
+---
+
 ## The Hate — Structurally Orphaned
 
 Randi hates Pace for making her into a person who needs. He undid her at the level of her organizing principle. She did not consent to the transformation. He did not ask. The permission could not have been asked because the transformation requires the experience, and the experience is what the transformation is.
