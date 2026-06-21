@@ -10,7 +10,7 @@ Sunday morning of an overnight — the domestic ease that has become expected; t
 
 ## The geometry (felt, never named)
 
-Weekends his, weeknights hers, the shirt bridging the nights apart. Sleeping in his shirt is evidence of the nights she's *not* there — which is precisely what defines the new ordinary: the rhythm has a shape now, and the shirt is how she carries him across its gaps.
+Weekends his, weeknights hers, the shirt bridging the nights apart. Sleeping in his shirt is evidence of the nights she's *not* there — which is precisely what defines the new ordinary: the rhythm has a shape now, and the shirt is how she carries him across its gaps. This is what the **greedy early phase settles into** (the October weeknight stays behind `Cassie — School Nights`); a guideline, not a guarantee — the shape can still flex.
 
 ## The sibling-rhyme (never explained)
 
