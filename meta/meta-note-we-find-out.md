@@ -1,0 +1,27 @@
+# Note — We Find Out
+
+*Companion to `we-find-out.md`: unrendered craft and the why. Scene compaction lives in [[meta-condensed-we-find-out]] and is not restated here.*
+
+**POV:** close third on Vee throughout (reader ahead of her). Pace's interiority stays closed — his irritation, his improvising of the rules, his leg-day soreness reach the page only as behavior Vee reads. The backstory (Wednesday legs, peak soreness Friday, his plan to shower and sleep) is never exposition; it lives in the wince and the terseness. Humanizing, not a plant — expect no later payoff from the soreness itself.
+
+**Heat-by-kind across the scene:** playful (chase) → psychologically-intense (proof, wager) → ceremonial/tender (the bare-bottom spanking) → sealed-world/abandon (the sex) → tender-domestic (aftercare, curry, scrunchies). The funnier the front, the harder the floor drops; keep the red-shorts victory genuinely funny and triumphant so the reversal pays.
+
+**The irritation handoff.** Confine real irritation to the arrival beat (ungroomed, off-balance, the wince) and pivot to play at the tickle. She keeps escalating a real transgression (pokes the sore leg, ignores "Don't," pants him); he turns *playful*, not punitive. The catch's spank turns playful→focused, never irritated→disciplinary — "annoyed man disciplines pest" is the failure mode to avoid.
+
+**The proof device (riser one of its class).** Pace's register is diagnostic/tender, not cruel — *we find out*, the smile that refuses to argue, the evidence allowed to speak. The wager doubles as his consent-gate (*admit you lost* = the available stop). Her getting-small / pre-knowing-she's-lost is the body foreknowing what the mouth still denies; render as physical contraction, never forensic cognition. **Riser discipline:** the proof here is visual (the coated finger) plus the ease of entry. Do NOT spend the Bench's moves — the auditory *listen to that, that's you*, the drip, the missing-denial collapse.
+
+**Two proofs, two axes.** The finger proves the *body's* wanting (involuntary); *you set this up*, if used, proves the *will's* complicity (volitional) — the designated payoff of the brat plant in [[meta-condensed-first-swat-debrief]]. Keep any authorship-naming to something she *can't fully deny*, not a confession; the chosen owning of shame stays downstream (thesis: ownership, not here under his pressure).
+
+**The denial never breaks.** Audible throughout, said to him and to herself — the last fiction she keeps for her own sake. In the sealed room it isn't defeated; it becomes *unnecessary* (no witness, no need), set down but never taken back. No "yes."
+
+**Differentiating from Randi's porn version.** Randi primed her (loud, OTK, counted, theatrical). Pace's reality is the opposite — quiet, real, slow, kneeling not OTK (OTK rhymes Randi's story structurally; avoid), tenderness applied to the exposed position. Vee braced for a script and gets intimacy she has no defense for; the gap undoes her. SATC-layer payoff: Randi's loud-fake is the wrong-kind-of-true that conceals — it feels so unlike Pace that Vee can never connect the story to the man.
+
+**The sealed-room hinge.** The contraction (*shame wants a witness, and there was none*) is a structural pivot, not scene-local color: the sanctuary that is also the orchestrated stage, the unwitnessed room that is the most watched. Thematic home: [[meta-thesis]] (Why Each Carrier Half-Sees — the spatial engine of Vee's half-not-seeing). Render as felt, never explained; the reread does the work.
+
+**The scrunchie coda — marking management.** The object must stay domestic noise; the camera rides her mirror-decision, not the scrunchies. Name the green/white-dots once, lovingly, then never adjective again. She registers the plenty as devotion *emotionally*, never as a count — exactly what lets her stop watching the form, the precondition the spring gaslight needs. Design rationale (distinct-type / fungible-instance / not-custom; the confide-track as cover) lives in [[meta-plan-scrunchie-gaslight]].
+
+**Aftercare calibration.** Unplanned and instinctive is the point — no practiced routine; the absence of routine is what undoes her. Pure tenderness, no tell of calculation; the dark is only in the pattern, on reread (the genuine treasuring is also the bond being deepened). The juice quietly callbacks her kid-energy; the hair-stroking joins the hair motif (the goodbye smoothing, the scrunchies) — all unexplained.
+
+**Scar (canon-locked).** The hip scar is surgical — smooth, old, slightly raised in a clean line, inside the thigh near the hip, visible only naked; Vee already traced it at First Night and was told nothing. Render familiar and unexplained; never "jagged." Origin is the bike-dragging (the father's carelessness); never narrated here, reserved for a later scene where she presses him on it looking for a chink in his armor. Same-shape resonance (carelessness suffered → carelessness reproduced) carried silently, never stated.
+
+**Author's layer:** the pantsing / taunt / chase banter is deliberately thin in the draft — Vee's wired-kid dialogue to be built out.

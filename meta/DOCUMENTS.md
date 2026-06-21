@@ -132,11 +132,10 @@ One file per non-trivial scene; the chronology entry links to it. To work on a s
 | `meta-condensed-cw-dance-debrief.md` | The CW-Dance Debrief |
 | `meta-condensed-the-first-swat.md` | The First Swat / The Setup |
 | `meta-condensed-first-swat-debrief.md` | First Swat Debrief |
-| `meta-condensed-the-scrunchies.md` | The Scrunchies |
 | `meta-condensed-the-top-drawer.md` | The Top Drawer |
 | `meta-condensed-the-new-ordinary.md` | The Shirt — Re-Scenting (The New Ordinary) |
 | `meta-condensed-cassie-cooling-off.md` | Cassie & Vee — Cooling-Off |
-| `meta-condensed-the-proof-scene.md` | The Proof Scene |
+| `meta-condensed-we-find-out.md` | We Find Out |
 | `meta-condensed-vee-tells-randi-proof.md` | Vee Tells Randi About the Proof Scene |
 | `meta-condensed-the-painting-afternoon.md` | The Painting Afternoon |
 | `meta-condensed-vee-tells-randi-painting.md` | Vee Tells Randi About the Painting |

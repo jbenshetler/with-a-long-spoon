@@ -2,7 +2,7 @@
 
 *VIGNETTE · Unwritten · two movements across two visits · Vee POV · ~1–1½ pages*
 
-Territory answering an abundance. Second riser of the domestic staircase — several scenes after The Scrunchies, so the expectation of domesticity has had time to set before it's enlarged.
+Territory answering an abundance. The domestic staircase's territory riser — a couple of weeks after the scrunchie form first appears (folded into [[meta-condensed-we-find-out]]), so the expectation of domesticity has set before it's enlarged.
 
 ## Movement one — the embrace at the mirror
 
