@@ -283,9 +283,9 @@ Introduced in **the Walk of Shame**. The one person in the sorority who out-oper
 
 **Secretions reframe (first night):** *“Would you be bothered if I was too hard?”* (Exact parallel logic, dry humor, then *active savoring*. The showing is the scene; the line is just the door.)
 
-**The proof scene:** *“Oh, you want to be spanked?”* … *“We have to check if you like it.”* (finger, glistening digit). **Preferred over “you’re a bad girl”:** *“You set this up.”* Just that, then the check. Accuracy is more destabilizing than any label; the barely-perceptible irony shows he knows the register he’s playing in.
+**We Find Out:** *“Oh, you want to be spanked?”* … *“We have to check if you like it.”* (finger, glistening digit). **Preferred over “you’re a bad girl”:** *“You set this up.”* Just that, then the check. Accuracy is more destabilizing than any label; the barely-perceptible irony shows he knows the register he’s playing in.
 
-**Sticky fingers (Randi):** *“Are your fingers sticky?”* — with the pastry tilt after. Operates on three levels at once: pastries / bathroom trip / the proof scene. Deniable, devastating.
+**Sticky fingers (Randi):** *“Are your fingers sticky?”* — with the pastry tilt after. Operates on three levels at once: pastries / bathroom trip / We Find Out. Deniable, devastating.
 
 **The painting telling (Randi):** *“Gesso?”* (gesso = primer = what goes on before the real work begins). Vee gets it a half-beat late.
 

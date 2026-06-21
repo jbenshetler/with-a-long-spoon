@@ -1,4 +1,4 @@
-# Condensed — Vee Tells Randi About the Proof Scene
+# Condensed — Vee Tells Randi About We Find Out
 
 *SCENE · Unwritten · within a few days of We Find Out · SATC*
 
