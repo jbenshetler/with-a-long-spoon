@@ -39,6 +39,10 @@ needed.** Render as plain behavior, never stated: his openness, her sealing. A
 standing symbol of the two of them (he leaves himself open and is breached; she
 controls every threshold). Randi's signature — see `randi_architecture.md`.
 
+## The key `[PLAN]`
+
+At the B&B (~late Feb) Pace gives Vee a key — see `meta-note-bb-weekend.md`. It complicates the lock motif without erasing it: Randi keeps bolting (keyless, controls every threshold); Vee gets the *symbol* — a key she barely needs, the door already open for her — the only key-holder, converted from expected-guest to resident. First *use* deferred to the following week (her first solo entrance, no one opening the door). Resonance, never stated: Vee holds the claim, Randi holds the control.
+
 ## Interior layout
 
 From the **foyer** (the *anteroom* on the page), three ways off it:
