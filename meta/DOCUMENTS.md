@@ -136,7 +136,7 @@ One file per non-trivial scene; the chronology entry links to it. To work on a s
 | `meta-condensed-the-new-ordinary.md` | The Shirt — Re-Scenting (The New Ordinary) |
 | `meta-condensed-cassie-cooling-off.md` | Cassie & Vee — Cooling-Off |
 | `meta-condensed-we-find-out.md` | We Find Out |
-| `meta-condensed-vee-tells-randi-proof.md` | Vee Tells Randi About the Proof Scene |
+| `meta-condensed-vee-tells-randi-we-find-out.md` | Vee Tells Randi About We Find Out |
 | `meta-condensed-the-painting-afternoon.md` | The Painting Afternoon |
 | `meta-condensed-vee-tells-randi-painting.md` | Vee Tells Randi About the Painting |
 | `meta-condensed-covid-ppp-project.md` | The COVID / PPP Statistics Project |
