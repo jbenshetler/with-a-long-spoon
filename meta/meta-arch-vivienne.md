@@ -78,7 +78,7 @@ She may masturbate freely, with one narrow exception: not to thoughts of Pace wi
 
 **The gray line (load-bearing — leave it un-examined).** SATC-track relief stays outside the rule — there the shame is Randi's to light, and Vee takes her own relief — but the line is genuinely gray, because the brunch material *is* Pace scenes. She passes the rule by description: the desire-object after a brunch is the *exposure* (being drawn out and caught wanting by Randi at the table), not the man, so the relief is *"the lunch undid me,"* not *"I want him."* She runs Pace's own clean-but-poisoned consent move on herself, points at her own technicality (cf. the PPP/Vee rationalization parallel). Not guilt, quite: a deliberate **not-looking**, because to examine it cleanly would surface the content as his and oblige the telling. Two guards: (1) keep the two charges texturally distinct on the page — *his*, summoned, direct (forbidden, banked) vs. diffuse, being-seen, Randi's voice, the heat of the table (permitted) — or the rule loses its teeth as all Pace-charge gets relabeled lunch-charge; (2) never let her state the distinction crisply, or the rationalization shows its seams (telegraphing). Body before mind: she feels the permission, she does not articulate the loophole.
 
-On the page in `scenes/vee-on-the-bench.md`; cf. the bathroom-trip progression in `meta-plan-chronology.md` and the SATC relief channel in `meta-plan-satc-tracks.md`.
+Installed at the B&B (~late Feb; see `meta-note-bb-weekend.md`); on the page operating in `scenes/vee-on-the-bench.md`; cf. the bathroom-trip progression in `meta-plan-chronology.md` and the SATC relief channel in `meta-plan-satc-tracks.md`.
 
 ---
 

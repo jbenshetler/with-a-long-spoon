@@ -128,7 +128,7 @@ Lesbian. Bike rides (side by side, no eye contact — the only social format tha
 
 ## Current Scene Inventory
 
-Order reflects Session 5 restructuring. **Major change from v4: the peaches scene moved to AFTER the B&B and now performs the second-fight function; the B&B is new; tasting-herself consolidated at the B&B.**
+Order reflects Session 5 restructuring, since revised. **Major change from v4: the peaches scene moved to AFTER the B&B and now performs the second-fight function; the B&B is new.** *(Later revision: tasting-herself moved out of the B&B to a separate first-taste gate, ~May–June, so it stays fresh into Peaches; the B&B now answers the fight with a key and clears the watched-exposure domino — see `meta-note-bb-weekend.md`.)*
 
 ### Fully planned / planned — TRUE CHRONOLOGICAL ORDER
 
@@ -168,7 +168,7 @@ Order reflects Session 5 restructuring. **Major change from v4: the peaches scen
 
 1. **The Thanksgiving / Christmas Fight.** The mother’s boyfriend question she can’t answer. Conflates monogamy and I-love-you. *“Do any of your friends have a relationship you’d rather have?”* — genuine, insufficient. Reunion without naming it; his first appearance with her friends after.
 1. **First Weekend Back / Friends Dinner.** Bomber jacket and broadcloth without being asked. The proprietary feeling she hasn’t earned the right to.
-1. **The B&B Weekend (the pivot / last domino).** His answer to the fight, on his terms. **The ivory nightie** (expensive enough to cost him; no panties; the fit establishes value; coming out is the scene; inverse of the hiking shirt). **The tasting-herself sequence:** whiskey/white wine; he bypasses the kiss, samples with his penis, offers a taste; *“A shot?”*; the inducement (he extends her past her own resistance — the fuzziness is real). **She crosses the line she drew** — Pace has his answer.
+1. **The B&B Weekend (the pivot — the key & the watched exposure).** His answer to the fight, on his terms: **a key to his house**, in a handmade oiled-wood box (the answer he can’t speak). **The transgression — watched masturbation:** warmed, then asked (*“Would you show me how you touch yourself?”*); standing, in firelight, watched. **The Permission Rule installs** (tell, not ask). **“Adventure”** planted. Taste held for the first-taste gate (~May–June), which now carries the ivory nightie and the whiskey/white-wine catalogue. See `meta-note-bb-weekend.md`.
 1. **Nipple Clamps.** Sustained awareness; continuous-vs-discrete stats mirror. Told to Randi *(SATC)*; Randi later wants them for herself, files it. *(Placed post-B&B: a later, more advanced rung, landing when she’s already deep in surrender.)*
 1. **The Sheer Dress Brunch + The Dressing Room (FB — one summer outing: brunch into boutique).** **Dress:** Randi braless in expensive sheer fabric; explicit story (real or imagined, never resolved); first crack where the writing-off needs effort (operates on Vee’s response to *Randi’s* body). **Dressing room:** Vee admires it, Randi offers to *buy her one* — money as power. Neutral clerk. Adjustments = technique; the **nipple tweak = control-slip** (now also carries the relocated model-updating beat — how far Randi can go). Drive-home reckoning: unnameable desire + the dress she didn’t pay for. *(Seasonal anchor: sheer summer dress + the warm-weather peaches cluster together here.)*
 1. **The Peaches — Rejection → Second Fight → Reconnection.** Refuses the grilled peaches brattishly; he eats his portion quietly; she doesn’t stay. The sext escalation (her first): farmers-market photo → peach between breasts → *“I really want to try slimy peaches, and I’ll do anything”* → *“Both of these are sweet and juicy but only one has fuzz on it.”* **The peach-slices scene (penultimate sex scene):** he takes “anything” literally — slices inside her, orgasm, feeds her the drenched slices; she tastes the peaches she refused AND herself at once. Surviving callback: he makes them plainly later; she eats them; silence carries everything.
@@ -199,7 +199,7 @@ Order reflects Session 5 restructuring. **Major change from v4: the peaches scen
 
 5. **Exact placement of the B&B** relative to bondage/clamps and the friends dinner. *Still open.*
 
-6. **The last domino confirmed** as tasting herself — verify nothing earlier competes for that slot. *Still open.*
+6. **The dominoes:** taste moved to a first-taste gate (~May–June); the B&B clears the watched-exposure domino. Open: the first-taste gate’s exact slot and its ordering vs. the Threesome Introduction (late May). *See `meta-note-bb-weekend.md`.*
 
 7. **Campus geography & Pace's-house emotional mapping** — still unmapped.
 
