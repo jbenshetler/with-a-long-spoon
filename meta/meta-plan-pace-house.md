@@ -86,9 +86,9 @@ Randi leaves the bedroom, out into the hall and around the corner to it — not 
 Sink + **mirror**, tap, his **towel**, toilet. The door has a
 **lock**; Randi locking it mid-scene is marked unprecedented. A recurring,
 load-bearing small room (Vee uses it later too).
-- **Vee's top drawer** `[PLAN]` (canonical): gifted at The Top Drawer (~late Oct) —
+- **Vee's top drawer** `[PLAN]` (canonical): gifted at The Top Drawer (after We Find Out) —
   he consolidated his things to a lower drawer; the top one holds her form of
-  scrunchies (deep green, chosen for her hair — gifted earlier at The Scrunchies),
+  scrunchies (deep green with white dots, chosen for her hair — gifted at We Find Out),
   her pins, room to spare. **The drawer is hers; he never touches it** — the
   founding act is the only time his hand changes its contents. Her loose nest of
   entropy inside his precise house, and the man whose domestic compulsion adjusts

@@ -24,7 +24,7 @@ Sits between **The Fitting** — the *making*, dress left unfinished — and **S
 
 ## The scrunchie gaslight — full mechanism
 
-*Reference only. This campaign runs in **spring** (post-Christmas) — it does **not** fire in this fall cluster. The **provision** (the form/habit) is planted later in the fall (The Scrunchies, ~early Nov); the **taking and grains are spring** (chronology Late section; `meta-plan-scrunchie-gaslight.md`). The fall stays unshadowed.*
+*Reference only. This campaign runs in **spring** (post-Christmas) — it does **not** fire in this fall cluster. The **provision** (the form/habit) is planted later in the fall (We Find Out, ~early Nov); the **taking and grains are spring** (chronology Late section; `meta-plan-scrunchie-gaslight.md`). The fall stays unshadowed.*
 
 **What it is.** Not a clue *about another woman* — an attack on Vee's trust in her own perception. The campaign's real objective is **disabling her clue-detector**: training her, early, to override her own correct readings, so that when bigger grains land she's already conditioned to file them under *I'm probably imagining it.* Everything points **inward** (Vee doubting herself / crediting Pace), never **outward** (no "whose is this?"). The inward direction is what protects the reveal.
 

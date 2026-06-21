@@ -37,6 +37,10 @@ Pace is an early riser; Vee sleeps in, two sleepless nights repaid at once. Ward
 - **She initiates on his jeans.** Presses in, kisses hard, hands to the buttons, slightly clumsy — covering the *oh*, not a practiced seductress. She reaches to undress the dressed man, inverting the Fitting.
 - **Wordless button:** the pan left under the gray water as it moves elsewhere. The dishes soak after all. Reader supplies it; she says nothing.
 
+## Movement III — the departure (planned addition)
+
+Sunday evening, leaving. A soft tender denouement after the charged swat → sex, in a *plain-intimate* key distinct from Movement I's chivalric register (the grand "made for the gods" line vs. this small true one). She's rueful about her wrecked hair; he smooths it with one hand and tells her, plainly, she's beautiful, and says nothing else. Pure sweetness on first pass; it plants — invisibly — that she has nothing of her own at his house to manage her hair, the need [[meta-condensed-we-find-out]]'s scrunchie provision answers six days on (and the seed of the whole domestic-foothold thread: the form, the drawer, the shirt). Guard: do not let the tenderness soothe or explain the unnamed *oh* — the *what was that look?* hook stays open. Not yet drafted into `the-first-swat.md`.
+
 ## Scene-specific guards
 
 - Don't editorialize the shoe-glance. Only Vee's misread and her horror on the page.
