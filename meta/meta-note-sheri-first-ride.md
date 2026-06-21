@@ -8,7 +8,7 @@
 
 - **POV: Pace, close third — locked.** The only frame in which the load-bearing silence works: inside his head the scheme simply never surfaces across the whole ride, conspicuous on reread. Also the POV the book uses to pay the visual debt early. (Governs the later Sheri vignettes too.)
 - **The unresolved-state choice.** The Oct 26 morning slot sits *between* the CW-Dance blowup (Thu) and that evening's reconciliation. Pace is raw and doesn't yet know the redhead thing survives — that's *why* he overshares. (Decided; recorded so a later edit doesn't "settle" him here.)
-- **Bicycles, side by side, no eye contact.** The only social format that costs Pace nothing neurologically; the form *causes* the leak (he overshares because he isn't being looked at across a table). Not his motorcycle / Sheri on the back — wrong intimacy, breaks the format. Same discipline for Cheeseburgers.
+- **Bicycles, side by side, no eye contact.** The form *causes* the leak — he overshares because he isn't being looked at across a table. Not an accommodation; face-to-face doesn't tax him, this is just how he and Sheri are. Not his motorcycle / Sheri on the back — wrong intimacy, breaks the format. Same discipline for Cheeseburgers.
 
 ## Pace's state here — calibrate the affect (NOT love)
 

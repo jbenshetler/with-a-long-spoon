@@ -255,7 +255,7 @@ Functions: anchors what genuine friendship looks like (warmth without agenda); s
 
 ## SHERI — Pace’s Friend
 
-Lesbian, not bisexual. Rides bikes with Pace — side by side, moving, no eye contact = the only social format that costs him nothing neurologically. Not dazzled by his competence, no investment in his masculine performance. Dry, observational humor that punctures his intellectualism.
+Lesbian, not bisexual. Not dazzled by his competence, no investment in his masculine performance. Dry, observational humor that punctures his intellectualism.
 
 - One Randi encounter: *“she’s a lot.”* He deflects. Reader files it next to Cassie’s warning.
 - Last appearance after the reckoning: *“Give me ten minutes.”* No questions. That’s the scene.

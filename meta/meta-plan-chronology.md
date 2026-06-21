@@ -152,10 +152,6 @@ The shirt exchange staged inside the ordinary it marks. Sunday morning of an ove
 *~early to mid November* · Unwritten · Cassandra track · [detail](meta-condensed-cassie-cooling-off.md)
 Vee talks about Pace differently than with Randi — warmer, less performed, actual mutuality. A breath of genuine air.
 
-### [VIGNETTE] Sheri — Cheeseburgers
-*~mid-November* · Unwritten · Pace/Sheri
-Post-ride, a diner. Pace has something he's processing about Vee — can't name it directly; Sheri reads sideways. The friendship's texture: Sheri asks the question Pace doesn't quite answer. Pays off the first ride; establishes Sheri as the person who sees Pace from outside his own architecture.
-
 ### [SCENE] The Proof Scene
 *~mid-November* · Unwritten · [detail](meta-condensed-the-proof-scene.md)
 Recreates the conditions. Several spanks; the *whoa look* confirmed. *"You enjoy being spanked."* She denies it; his finger shows her her own arousal; the floor drops into real shame; shame ignites rather than recoiling. Shame used, not resolved.
@@ -199,6 +195,10 @@ The conventionally proper man, the fine dinner, the fine sex, the *nothing* it p
 ### [VIGNETTE] Vee — Christmas
 *~late December · Christmas break* · Unwritten · Vee solo
 Listless and flat at home without Pace, without Randi. The absence of both in the same week is information she doesn't fully process. Her mother's world — the questions, the ordinary furniture of home — sits beside her strangely. She is somewhere else without knowing she's left. Same week as the Flat Date: the two women flat in parallel; neither scene marks the other.
+
+### [VIGNETTE] Sheri — Cheeseburgers
+*~late December · Christmas break, after the Christmas Fight* · Unwritten · Pace/Sheri
+Winter kills the ride; the meal is the scene. A diner, counter seats — side by side, the no-eye-contact form still loosening the overshare (a choice now, not a crutch; face-to-face wouldn't tax him). Pace and Sheri are the two with no family table over the holidays — she was disowned, he won't go back — and neither says so. Pace carries the question Vee left unanswered at the Christmas Fight, and carries it in her absence; he can't name what's wrong and doesn't try. Sheri reads sideways, asks the question he doesn't quite answer. Pays off the first ride. Third panel of the break triptych with the Flat Date and Vee — Christmas: three principals apart, but his is the only bond on the page that isn't lonely. Establishes Sheri as the one who sees Pace from outside his own architecture.
 
 ### [SCENE] First Weekend Back
 *~Fri Jan 19 · first weekend of spring semester* · Unwritten · [detail](meta-condensed-first-weekend-back.md)

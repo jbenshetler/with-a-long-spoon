@@ -97,5 +97,5 @@ It lands **because the loyalty is earned:** the held temper finally aimed **outw
 - **Warmth lives in fierceness**, not pleasantness. She is not nice; she is loyal.
 - **Backstory never dramatized** — author-knowledge only; it shapes how Pace's past-kindness and her present-loyalty render, never appears as scene or telling.
 - **Not a second Cassandra** — Pace-specific perception, single-ping radar on Randi. Protect the asymmetry.
-- **The bike/dance formats are Pace's** — render the friendship through the cost-free configurations (side by side, moving, no eye contact; the dance floor), not through face-to-face confessional scenes that would cost Pace neurologically and read wrong for both of them.
+- **The bike/dance formats are Pace's** — render the friendship through side-by-side movement (cycling, the dance floor), which loosens him into the overshare; a face-to-face confessional would read wrong for both of them and lose the leak.
 - She is **secondary** — rendered through effect and function, not standalone interiority. (Less strict than Cassie's over-feed rule, but the same gravity: she exists to show who Pace is when the chivalric grammar simply works, and to pay the loyalty back at the end.)
