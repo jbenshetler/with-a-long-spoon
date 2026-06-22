@@ -194,6 +194,8 @@ She likes Vee's company. She looks forward to the lunches. She finds Vee genuine
 
 The gift and the wound are delivered by the same person in the same act. She loves Vee for the friendship and hates the friendship's content. The lunches are the best and worst hours of her week. She would not trade them.
 
+The desire and the friendship are not rivals. The friendship is the medium the desire runs through; the aliveness Vee gives her is exactly what makes the wanting acute. The love deepens the desire — never blunts it, never merely cloaks it. And she pays for the friendship: befriending Vee costs her in the position-world she comes from, and she chooses to pay it.
+
 ---
 
 ## The Flat Date — The Chosen-Not-to-Throttle Moment
