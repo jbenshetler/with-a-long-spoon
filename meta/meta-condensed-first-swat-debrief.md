@@ -41,10 +41,10 @@ Unlike the Fitting Brunch car-curb kiss, the music room has no audience risk —
 
 ## Plants
 
-Randi has now: (1) extracted that the swat excited Vee; (2) explicitly installed *spanking is better* as a named escalation; (3) witnessed physical arousal in retelling and its physical evidence; (4) filed the bathroom timing; (5) named it deniably on return. *"Are your fingers sticky?"* at the We Find Out debrief is collection on what was loaded here — Randi is not improvising, she is delivering.
+Randi has now: (1) extracted that the swat excited Vee; (2) explicitly installed *spanking is better* as a named escalation; (3) witnessed physical arousal in retelling and its physical evidence; (4) filed the bathroom timing; (5) named it deniably on return. *"Sticky fingers?"* at the We Find Out debrief is collection on what was loaded here — Randi is not improvising, she is delivering.
 
 ## Staircase Notes
 
 **Bathroom-trip progression:** First occurrence — quick suppression. Temptation present, not acted on. We Find Out debrief is where she stops not-doing it. **Note:** the SATC track doc (`meta-plan-satc-tracks.md`) currently places the first bathroom trip at the Fitting Brunch (rung 3). This scene supersedes that placement — the Fitting Brunch establishes the apparatus without yet firing it; the shame-arousal mechanism first fires in retelling here, at genuinely transgressive content.
 
-**Verbal staircase:** This scene sits between the First-Night Debrief (conversion/warmth operation, not extraction) and the We Find Out debrief (doubled shame, first masturbation). It is the intermediate rung that makes the escalation to masturbation one step rather than two.
+**Verbal staircase:** This scene sits between the First-Night Debrief (conversion/warmth operation, not extraction) and the We Find Out debrief (doubled shame; first restroom self-touch, stopped before completion). It is the intermediate rung that keeps the escalation gradual: suppression here, the stopped-short self-touch next, completion later.

@@ -285,7 +285,7 @@ Introduced in **the Walk of Shame**. The one person in the sorority who out-oper
 
 **We Find Out:** *“Oh, you want to be spanked?”* … *“We have to check if you like it.”* (finger, glistening digit). **Preferred over “you’re a bad girl”:** *“You set this up.”* Just that, then the check. Accuracy is more destabilizing than any label; the barely-perceptible irony shows he knows the register he’s playing in.
 
-**Sticky fingers (Randi):** *“Are your fingers sticky?”* — with the pastry tilt after. Operates on three levels at once: pastries / bathroom trip / We Find Out. Deniable, devastating.
+**Sticky fingers (Randi):** *“Sticky fingers?”* — with the pastry tilt after. Operates on several levels at once: the pastries / the bathroom trip / We Find Out / the *sticky-fingers* idiom (a hand where it shouldn’t be, a thing taken). Deniable, devastating.
 
 **The painting telling (Randi):** *“Gesso?”* (gesso = primer = what goes on before the real work begins). Vee gets it a half-beat late.
 
@@ -310,6 +310,7 @@ Introduced in **the Walk of Shame**. The one person in the sorority who out-oper
 - Body before mind, always: sensation/response first, cognition second. Never let Vee narrate forensic deductions (“I could tell from the smaller hands…”).
 - Erotic escalation is a staircase — each step one riser higher, never arbitrary.
 - Randi’s double register: sounds like curiosity, functions as steering. Her wordless beats = plan escaping her.
+- **Randi’s love is real AND instrumental, simultaneously, never resolved** (mirrors the Pace tenderness rule). The friendship is the most important, most enlivening thing in her life and is genuinely felt; she pays a social price for it willingly. The desire is real too, and the love *deepens* the wanting, never cloaks it. The double register above is what the reader *hears* — deniable both ways — not a warm shell over a cold core. A tell that reduces her to calculation makes her a simpler villain and the friendship un-sexy; the reader must love her as Vee does. Why: meta-arch-randi.md.
 - Shame is gasoline: never let Vee’s shame fully resolve. Chosen, examined, kept shame is the destination.
 - **Shame is load-bearing THROUGHOUT — almost every Vee sex scene runs on it.** The shame is not incidental; it is the ignition. The craft challenge is **freshness: each scene must find a NEW indignity to light her fire** — a new register of being-seen-wanting, a new involuntary thing her body does and is caught doing, a new line her conservative self drew and her body crosses. Never repeat the same exposure twice at the same intensity (that’s the staircase principle applied to shame). The through-line of indignities is itself an escalation: the spanking-proof (her body’s wanting shown), the secretions (her oldest physical shame savored), the watched exposure (made the agent of her own display), the clamps/bondage (sustained, can’t-manage awareness), tasting herself (active participation in her own exposure), up to the blindfold (everything, finally, no management possible). **What she’s ashamed of is consistent — involuntary response, her body announcing its wanting without her consent — but the OCCASION must keep changing.** Find the next indignity; don’t re-light the last one.
 - Class texture: restrained, never blunt, always active.

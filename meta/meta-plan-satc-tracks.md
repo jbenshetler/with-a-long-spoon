@@ -19,6 +19,46 @@ Two distinct staircases live inside this track:
 
 -----
 
+## THE ESCALATION ARCHITECTURE (the planning lens)
+
+Decomposes the two staircases above into the axes you actually plan a scene against. The reason to work in axes: **the track climbs on several at once, and distributing the climb is what keeps any single brunch under the alarm** — no scene jumps; each nudges one or two axes a single riser while the rest hold. This is the "all there on reread, never 'I knew'" target rendered structurally: a track that climbed one axis would be legible from inside a single scene.
+
+**The axes split by source — Randi's instruments acting on Vee's interior.**
+
+*Randi's instruments (what she does to Vee):*
+- **Extraction** — how much Vee gives up; how probing the questions. (See *Randi's three extraction instruments*.)
+- **Touch** — the goodbye-kiss-and-cousins ladder. (See *The Physical Staircase*.)
+- **Overtness** — directive + naming; warmth-wrapped suggestion → overt command/naming. (See verbal-staircase rung *Escalation to naming*; *The edging*.)
+- **Surface-authoring** — Randi dressing Vee: styling → loan → buy. (See *The Format-Break Scenes*; *Setting, Menu & Money Choreography*.)
+
+*Vee's transformations (what changes in her):*
+- **Response-migration** — where and how her body answers. (See *The orgasm-migration ladder*.)
+- **Object-migration** — *whom* the desire is for: aroused-telling-about-Pace → wanting Randi. (See the unsurfaced attraction that grows, extraction instrument 3.)
+- **Witness** — who may see her wanting: the dark room (none) → Randi in her sightline → semi-public.
+
+(*Initiative* — who acts: Randi-extracts → Vee-volunteers → Vee-initiates — is the visible face of the Vee-axes, not a separate ladder. It's the behavior whose felt meaning is the alibi → craving → cage arc.)
+
+**The spine: every axis runs deniable → undeniable.** The far end of each is the same event — an alibi stripped. Read the right-hand ends down and they are the walls of ONE perimeter: *I'm not aroused / it's about Pace / no one saw / I didn't choose / I'm independent / I control the telling.* SATC is therefore not several escalators but a **coordinated siege of one perimeter** — each axis takes a wall while the others stand to hold the illusion of safety. (Generalizes *The Two-Perimeter Structure* below.) This is the mechanism behind "no single brunch reads as an assault": on any given day one wall is worked and the rest are intact enough that Vee feels held.
+
+**Two axes behave oddly — plan around both:**
+- **Witness runs OPPOSITE in the two tracks.** Pace's gift is *removing* the witness ("shame wants a witness, and there is none" — in the empty room she sets her denials down and, for once, isn't ashamed). Randi's track *escalates* witness (her sightline, the shown proof, the chair). Same destination, opposite means — the one variable where the two seductions point in reverse. Do not treat witness as a single ladder shared across tracks.
+- **Surface-authoring strips a NON-erotic alibi** (independence/pride), not arousal — which is why it runs warm and deniable the longest and does its damage while Vee's erotic alarm is pointed elsewhere. (Same family: extraction strips *control*; initiative strips *agency*. The soft walls fall while the erotic ones look untouched.)
+
+**Ordering constraints (get these wrong and the book goes legible too early, or rings false):**
+1. **Object-migration is the keystone — it falls LAST, at the threshold.** Every other wall's deniability leans on "it's about Pace": while the object is Pace, every transgression files under loving her boyfriend. If it falls early the whole cover collapses at once and Vee (and the reader) sees the machine. It advances only in increments each individually deniable, until the Dress Entrance crack ("the writing-off needs effort"), which is correctly placed late. The slowest ladder, on purpose.
+2. **Overtness lags — language only names what behavior already did.** Randi cannot say "I know you don't have to pee" before the bathroom trips exist, or "show me" before the masturbation. Naming is the *second* strip of a wall behavior already took; it never leads.
+3. **Body before object.** Response-migration (she acts) precedes object-migration (the want reattaches): she does the deed while still filing it under Pace, and only later does the object move.
+
+**Per-scene rules:**
+- Move only 1–2 axes per scene; rest the others. Everything advancing at once reads as escalation; one thing creeping reads as a Tuesday.
+- Spent deniability on one axis licenses the next (once the naming goes overt, the touch can; the walls fall in sequence).
+- Down-beats reset the meter — a no-release brunch, a miss, a tender beat with no charge makes the next advance land.
+- Save the top of every axis for after the blindfold; the verbal track must not out-explicit the physical climax before you reach it.
+
+For the non-climbing rotation (kind of charge, container, register, temperature), see *How to Vary the Brunches* — those are variation levers, not escalation axes. The two together are the freshness engine: the axes are the climb, the levers are the disguise.
+
+-----
+
 ## THE VERBAL STAIRCASE — ESTABLISHED SEQUENCE
 
 (From summary, canonical:)
@@ -30,13 +70,13 @@ Two distinct staircases live inside this track:
 1. **Mimosa brunch (Fitting Brunch)** — velvet-alcove format installed; apparatus switches on. Partial extraction (“You don’t have to tell me that part”) leaves Vee half-open; goodbye-kiss staircase debuts. **No bathroom trip** — the apparatus is installed here, not yet fired; the shame-arousal mechanism hasn’t rooted at genuinely transgressive content.
 1. **After Vee sleeps with Pace (First-Night Debrief)** — Randi opens with her own story to warm the room, then it’s Vee’s turn. Vee raves, defers on why. The bullshit look — gives Vee nothing to deflect against. Vee fills the silence. **Conversion operation, not extraction** — Randi catches the floozie-shame and converts it to pride/aliveness. No bathroom trip; the shame is social (floozie-shame), not structural/transgressive, and the mechanism doesn’t fire.
 1. **After the first swat (First Swat Debrief)** — “Your turn” — taking-turns ritual already running; no warmup needed. Vee’s surface version (*ha ha, he swatted my butt*) extracted to the real thing: the look, the immediate wanting, the body’s answer. **Randi’s story comes after, not before** — amplifier/installer once the real material is on the table (*”If you think a swat is good, a spanking is better”* — theatrical, explicit, porn-generic register). **First bathroom trip; quick suppression** — Vee excuses herself (wetness: physical evidence her body produced without permission); tempted; doesn’t. Randi clocks her departure. *”I hope everything is alright”* on return — arch, deniable, devastating close.
-1. **After We Find Out** — Vee tells more than planned. First *”Are your fingers sticky?”* with the pastry tilt. **First masturbation** — a capitulation, not a decision (“she stops not-doing it”).
+1. **After We Find Out** — Vee tells more than planned. First *”Sticky fingers?”* with the pastry tilt. **First restroom self-touch, stopped before completion** — she gets her hand there and can’t go on under Randi’s imagined fond gaze (*what would Randi think*); she carries the unfinished charge back. First completion comes at a later rung.
 1. **After the painting** — Vee arrives already lit. The photo beat: she wasn’t planning to show her, shows her. The long stare. *“Gesso?”* On return, Randi already has a small smile in place. No question. Worse.
 1. **Escalation to naming** — *“I know you don’t have to pee”*; the panties demand (hand extended, Vee places them there herself); the not-washing-hands instruction. Each on separate occasions, each allowed to settle.
 
-**Bathroom-trip progression (vary the interior EACH time):** quick suppression → lingering → first masturbation (capitulation) → second time (a *decision*, not capitulation — this threshold matters more) → late interior reflecting who she’s become. Vary Randi’s *return response* too: the question / the look / the small smile already in place / the silence-and-window.
+**Bathroom-trip progression (vary the interior EACH time):** quick suppression → self-touch stopped before completion → first completion (capitulation) → again, a *decision* not a capitulation (this threshold matters more) → late interior reflecting who she’s become. Vary Randi’s *return response* too: the question / the look / the small smile already in place / the silence-and-window.
 
-**Scene assignments:** Fitting Brunch — no trip (apparatus installed, not fired). First-Night Debrief — no trip (conversion; floozie-shame is social, not transgressive). First Swat Debrief — **first trip, quick suppression** (Randi’s arch return: *"I hope everything is alright"*). We Find Out debrief — **lingers, then first masturbation** (capitulation: she stops not-doing it; both happen within the same visit). Painting debrief — second time, a decision.
+**Scene assignments:** Fitting Brunch — no trip (apparatus installed, not fired). First-Night Debrief — no trip (conversion; floozie-shame is social, not transgressive). First Swat Debrief — **first trip, quick suppression** (Randi’s arch return: *"I hope everything is alright"*). We Find Out debrief — **lingers, first self-touch, stops herself before completion** (the brake: Randi’s imagined fond gaze, *what would Randi think*; she carries the unfinished charge back). First completion (the capitulation) and the later *decision* rung fall in still-unplaced spring scenes — leave them as open slots.
 
 **Pace's Permission Rule channels the relief here.** Installed at the B&B (~late Feb; see `meta-note-bb-weekend.md`), Pace forbids relief to *him* (tell-before, the gate); SATC-track relief stays outside the rule, so the charge Vee relieves is the one Randi lit. The line is gray (the brunch material *is* Pace scenes) and she passes it by description — *"the lunch undid me,"* not *"I want him"* — a not-looking she keeps un-examined. Full mechanism + the two craft guards: `meta-arch-vivienne.md` → The Permission Rule.
 
@@ -54,7 +94,7 @@ Progression (interleave across the back half, not front-loaded; still climbing a
 - **Late:** carries something it didn’t. Vee initiates for the first time, or doesn’t pull back first, and notices she didn’t, and sets the noticing down. The eye contact from that first parting returns — same charge, now with months of accumulated intimacy behind it, the writing-off wearing thin.
 - **The seam (late-middle):** one goodbye that can’t quite be filed — the kiss ends and neither moves for a half-second, a held proximity the category has no slot for. Vee’s tell (hand to collarbone, going inward). Randi files it, says something normal, releases it (grenade-and-walk again, now protecting deniability instead of establishing it).
 
-Added cousins (your Session 5 details): hand on the hip; a hug combined with the kiss that presses their breasts together; Vee smelling her perfume or tasting her mimosa on the kiss. The mimosa taste is a faint rehearsal of tasting *her* — intimate, oral, fully explicable as an accident of two glasses and a close goodbye.
+Added cousins: hand on the hip; a hug combined with the kiss that presses their breasts together; Vee smelling her perfume or tasting her on the kiss — a faint rehearsal of tasting *her*, intimate, oral, fully explicable as an accident of a close goodbye. **Scent debuts at the Fitting Brunch** (the bright-green perfume caught in Vee's hair and jaw after the kiss). **Taste debuts at the We Find Out debrief** — pastry glaze on Vee's lip from Randi's one bite, carried by the goodbye kiss, from a pastry Vee never touched.
 
 **The scent-name thread (arms the reveal swap).** Vee *notices* Randi’s perfume at the first restaurant brunch (the Fitting Brunch) and, recalling it, *asks its name* at the second — the knowing that lets the reveal’s foreign scent register as wrong. Asking-placement open (a later brunch may be too late; the liminal frame allows it earlier). Pays off in `meta-note-threesome-reveal.md`.
 
@@ -77,7 +117,7 @@ Randi arrives late in a sheer, flowing, expensive dress, no bra — dark nipples
 Vee admires the dress; Randi names the boutique; Vee can’t afford it. **Randi offers to buy it for Vee — money as power and control, deployed directly against Vee for the first time.** Vee’s independence-pride is the trap: refuse = make the money visible (the thing her pride most wants hidden); accept = become something Randi paid to dress. No exit without a small surrender; Randi knows which way she’ll break.
 
 - **The clerk is COMPLETELY NEUTRAL** — bored, scanning a tag. Exposure lives entirely in Vee’s own awareness; no one confirms or reacts. (A smirking clerk tips into *evaluation* — the wrong cruelty, reserved for the falling out.)
-- Dressing-room adjustments = technique (deniable). **The nipple tweak before sending Vee out to pay = a control-SLIP** — the pointing-game want getting out ahead of the plan, covered instantly. Cold, controlled acquisition; then one uncontrolled beat of real desire.
+- Dressing-room adjustments = technique (deniable). **The nipple tweak before sending Vee out to pay = the FIRST sexual touch — the touch axis's first undeniable crossing** — and a control-SLIP (the pointing-game want getting out ahead of the plan), covered instantly. It is the rung where the deniable tending-touch (goodbye kisses, fitting-hands) finally breaks deniability: nothing earlier may cross. Cold, controlled acquisition; then one uncontrolled beat of real desire.
 - Contrast with Pace’s nightie: his gift cost him (love); the dress costs Randi nothing (power/ownership). Same act — expensive garment to expose her — opposite meanings. Vee won’t run the comparison; the reader will.
 - **After:** Vee’s drive-home reckoning has two things — the desire with no Pace in it (unnameable) and the dress she didn’t pay for (the thing she’s *allowed* to be troubled about, standing in for the thing she can’t look at).
 
@@ -218,7 +258,7 @@ Randi's mechanism for keeping the transgression unsafe-enough-to-fire as Vee's t
 
 Across the year Vee's orgasm migrates by location, and each shift is a *gap-collapse* that raises the stakes (thermodynamic necessity) and the shame (gasoline — see Vee arch., shame-as-gasoline):
 1. **Home, after — early.** Time-and-space gap between extraction and orgasm; the drive home, her own room, alone. The gap preserves deniability (she tells herself it was the frank talk, not Randi).
-2. **Restaurant restroom, during/after — middle.** The orgasm moves into the venue; she excuses herself, gets herself off in the bathroom, returns to the table still warm. Space-gap-only; deniability thinning; she comes back into Randi's company carrying what she just did.
+2. **Restaurant restroom, during/after — middle.** The orgasm moves into the venue; she excuses herself, gets herself off in the bathroom, returns to the table still warm. Space-gap-only; deniability thinning; she comes back into Randi's company carrying what she just did. (The first restroom trip — the We Find Out debrief — is a precursor: she acts but stops herself short of completion; the first *completed* restroom orgasm is a later trip.)
 3. **The chair, across from Randi, during the extraction itself — late.** No gap at all: the humiliation-charge and the climax are one event, in Randi's sightline, held behind a public face, no separation in which to insert management or a story.
 
 The ladder *trains Vee out of the management-gap* into the gapless, shame-fused responsive state the threesome cashes — the chair is the dress rehearsal, the blindfold's gaplessness pre-installed here (cf. threesome doc: the blindfold removes the gap where she'd insert management, so outrage and arousal arrive fused). Floozy-policing runs at FULL force at every rung and *fuels* each orgasm; rising location-transgression = rising shame = rising charge.
@@ -287,6 +327,12 @@ With the walk-of-shame established, the brunch is a scene where **two women each
 - Render Vee's money-anxiety **physical, specific, brief** — eyes to the right-hand column FIRST, the quick recalculation, the modest order (soup, or just coffee, or water to sidestep the wine list she can't navigate). NO interior monologue about her bank balance (tips into self-pity, kills the SATC fun-register). Behavior carries it.
 - **First read:** sweet/relatable — broke student stretching to keep up with her glamorous friend; paying her own way is just what you do. **Reread:** Vee is *paying to be extracted from* — spending money she doesn't have for the privilege of being worked on by the configuration's instrument.
 - Sets up the dressing-room trap by contrast: at brunch Vee pays her own way (pride intact, cost hidden); in the dress boutique Randi removes the option to pay her own way (pride trapped, cost made visible). Readers who watched Vee stretch all year feel the dress-offer land as the snare it is.
+
+**The clothing-loan device (in development — not yet locked).** Randi *loans* Vee clothes — never gives — extending the shoe-loan motif (first rung at the CW-Dance Debrief → … → the threesome pumps). Because Vee is the lusher figure, items modest on Randi run borderline-scandalous on her: Vee arrives at lunch displaying more than she'd have chosen, with the loan as built-in alibi (*she didn't choose it*). It's a surface-authoring rung that strips the independence wall while the erotic alarm points elsewhere — a fresh shame (public display), not a relit one.
+- **Loan ≠ buy.** A loan moves no money, so it stays frictionless and deniable and does NOT spend the Dressing Room's "first deployment of Randi's money against Vee." The loan is the warm runway; the buy is the snare. The device **resolves at the Dressing Room**, where loaning becomes buying and the first sexual touch lands.
+- **Touch stays deniable until the Dressing Room.** Loan-tending (adjusting, zipping, smoothing) sits in the same deniable register as the fitting-hands and goodbye kisses; nothing crosses into sexual touch before the nipple tweak.
+- **The handoff isolates Vee from Cassie.** Garments change hands in the spring stats class — a private ritual beside the one person who'd keep her safe; Cassie watching Vee disappear into Randi's wardrobe (Cassandra as image, never explained).
+- **Open / to resolve:** start point (~late Feb/March, near the shoe-loan's first rung) and the exposure-escalation rungs; whether the exchange is one-way or token-reciprocal; whether the loaned clothes carry Randi's scent (would seed the scent-name thread); whether a loan ever crosses into the Pace track (Vee wearing it to him — the scent-washing beat vs. Randi-dressing-her, two hands authoring her surface); continuity — confirm the spring stats class co-enrolls Vee + Randi + Cassie.
 
 **Randi's order = controlled intake (food-monitoring, the alimentary version of the bound hair, rule 17).** *The specific dish varies scene to scene — what's constant is the PATTERN:* light but expensive, virtuous, tiny. (Example: a poached egg with salmon and spinach.) Whatever she orders, she orders it with the EASE of someone for whom the right-hand column is invisible (chooses by want, not cost) — which sits right next to the control beat (Vee chooses by the column; Randi by desire). Same-sized small plate, opposite reasons (money vs. control), neither stated. NO calorie narration.
 
