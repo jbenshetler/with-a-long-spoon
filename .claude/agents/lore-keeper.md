@@ -25,12 +25,23 @@ It's a hybrid (vector + keyword) search that deliberately **over-returns** tagge
 
 - **Honor the flags.** For any result tagged `STALE`, `ACTIVE-WIP`, or `STALE-COMPANION`, the index lags the live file — **read the live file and trust it** over the indexed text.
 
-**Fallback — `rg` + read.** If `na.py` errors, has no index, Ollama is down, or it returns nothing useful, fall back to Grep/ripgrep over `meta/` + `scenes/` and read the hits directly. Same job, slower.
+**Regex lane — `--regex`.** Add `--regex` to turn `search` into a keyword-only PCRE-style pattern scan (the query is the pattern). Reach for it whenever the question is about an *exact form* rather than a topic:
+
+```
+novel-assistant/na.py search "\bPeter\b" --regex --json --top 12 [-i] [--file 'scenes/%']
+```
+
+- **When to use it:** finding every reference to a name/place/object/phrasing (`\bPeter\b` vs `\bPace\b`, `green\s+sheets`, `scrunchie`); dialogue-tag or punctuation patterns; verifying a canonical line is slotted verbatim; catching spelling/variant drift. Use the plain (non-`--regex`) hybrid search for "passages *about* X" — meaning, theme, what-happens questions.
+- **Why it's distinct:** a regex match is boolean, so this lane skips the similarity ranking entirely and returns matches in **document order** (`sequence`, then file). It also makes **no embedding call**, so it works even when Ollama is down — prefer it over the `rg` fallback when you need an exact match *and* want the index's provenance/scope/flag machinery.
+- **Result shape:** same `file` / `heading_path` / `sequence` / `flags`, plus `match_count` and `lines` (1-based, computed against the live file, so accurate even when the index is stale) and a match-centered `snippet` with hits wrapped in `«…»`. Cite the exact `file:line` from `lines`.
+- **Flags:** default is case-*sensitive* (so `Pace`/`Peter` stays distinct); add `-i` to fold case. `--file '<SQL LIKE glob>'` scopes by path (e.g. `'scenes/%'`, `'meta/%'`). `--active-edit` / `--max-sequence` work here too.
+
+**Fallback — `rg` + read.** If `na.py` errors, has no index, or returns nothing useful, fall back to Grep/ripgrep over `meta/` + `scenes/` and read the hits directly. Same job, slower. (For an exact-form lookup, try `--regex` *first* — it survives an Ollama outage and keeps the provenance tags.)
 
 ## What to return
 
 1. **Filter, don't summarize.** Return the passages that actually answer, quoted with enough fidelity to preserve nuance — do NOT crush to a single sentence, do NOT dump whole files. Cut what's irrelevant; keep what carries the meaning. The main agent synthesizes from what you return.
-2. **Cite** each passage: `file` + `heading_path` (or approximate line).
+2. **Cite** each passage: `file` + `heading_path` (or approximate line — use the exact `file:line` from a `--regex` result's `lines` when you have it).
 3. **Surface contradictions.** The corpus supersedes itself across documents; if sources disagree, say so and name the authority order — `meta-plan-chronology.md` owns scene order/inventory; `meta-plan-summary.md`'s inventory is stale; flag conflicts rather than silently picking one.
 4. If the answer isn't in `meta/` or `scenes/`, say so plainly — do not infer or invent.
 
