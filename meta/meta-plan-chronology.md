@@ -118,7 +118,7 @@ The showing-to-Randi contrast against the Cassie register in Stats — Simpson's
 
 ### [VIGNETTE] Cassie — School Nights
 *~Wed Oct 23 · between Shoe Shopping and the CW Dance · dorm, Vawter Hall* · Unwritten · Vee POV · Cassandra track · ~⅓–½ page · [detail](meta-condensed-cassie-school-nights.md)
-The greedy early phase given its only on-page trace — when they can't yet keep to weekends. The off-page weeknight stays (one in the Oct 13–16 gap, one in Oct 20–22) plus Dress Pickup, relayed to Cassie in the romance/agency register, the bodily shame walled off (the confidante-sort of Cassie — After, now running smooth). Vee comes in lit up; Cassie's dry *"I know. You didn't come home on school nights."* Warm first read; on reread it's Pace's feeling overflowing the weekend plan (weeknights were never Randi's to lose), and Cassie — the Cassandra — the one keeping count of Vee's recession from her own life. Rhythm phrasing over a hard tally. Earns the early-November domestic staircase (scrunchie form, top drawer) without spending a scene on it, and keeps Cassie alive as the warmth channel across the Oct 12 → early-November gap. The greedy phase settles into the *new ordinary* (weekends his, weeknights hers) by early November — guideline, not guarantee. Last warm beat before the SATC track takes the heat until Cooling-Off restores the air.
+The greedy early phase given its only on-page trace — when they can't yet keep to weekends. The off-page weeknight stays (one in the Oct 13–16 gap, one in Oct 20–22) plus Dress Pickup, relayed to Cassie in the romance/agency register, the bodily shame walled off (the confidante-sort of Cassie — After, now running smooth). Vee comes in lit up; Cassie's dry *"I know. You didn't come home on school nights."* Warm first read; on reread it's Pace's feeling overflowing the weekend plan (weeknights were never Randi's to lose), and Cassie — the Cassandra — the one keeping count of Vee's recession from her own life. Rhythm phrasing over a hard tally. Earns the early-November domestic staircase (scrunchie form, top drawer) without spending a scene on it, and keeps Cassie alive as the warmth channel across the Oct 12 → early-November gap. The greedy phase settles into the *new ordinary* (weekends his, weeknights hers) by early November — guideline, not guarantee. Last warm beat before the SATC track takes the heat.
 
 ### [SCENE] The CW Dance
 *~Thu Oct 24* · Draft complete · `cw-dance.md` · [detail](meta-condensed-the-cw-dance.md)
@@ -147,10 +147,6 @@ The deliberate escalation of the First Swat — the proof of her arousal, with t
 ### [SCENE] Vee Tells Randi About We Find Out
 *~within a few days of We Find Out* · Draft complete · SATC · [detail](meta-condensed-vee-tells-randi-we-find-out.md)
 *"Sticky fingers?"* Randi's question does in the retelling what Pace's finger did in the act. Doubled shame → first restroom self-touch, stopped short of completion (she can’t go on under Randi’s imagined fond gaze).
-
-### [SCENE] Cassie & Vee — Cooling-Off
-*~early to mid November* · Unwritten · Cassandra track · [detail](meta-condensed-cassie-cooling-off.md)
-Vee talks about Pace differently than with Randi — warmer, less performed, actual mutuality. A breath of genuine air.
 
 ### [VIGNETTE] The Top Drawer
 *~mid November · two movements · after We Find Out, whose scrunchie form it consolidates* · Unwritten · Vee POV · ~1–1½ pages · [detail](meta-condensed-the-top-drawer.md)
