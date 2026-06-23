@@ -1,6 +1,6 @@
 # Vee Tells Randi About We Find Out
 
-The morning had teeth in it, and Vee came in out of the cold with her eyes still stinging, and the bistro took her all at once: warm, loud with the bright clatter of a good brunch, smelling of coffee and butter and cut citrus. There was no velvet here, nothing to drink the noise. The whole south side was glass, a long bright sun porch of it, and the late morning came through the white muntins and lay over the cloths and the people without asking.
+The morning had teeth in it, and Vee came in out of the cold with her eyes still stinging, and the bistro took her all at once: warm, loud with the bright clatter of a good brunch, smelling of coffee and butter and cut citrus. There was no velvet here, nothing to drink the noise. The whole south side was glass, a long bright sun porch of it, and the late morning came through the white muntins and lay over the cloths and the people.
 
 A girl with a stack of menus and a brunch-shift brightness said, "Hi, just you?" and when Vee said she was meeting someone the girl's face cleared. "Oh, she's already here. Back porch, come on." Vee was on time; she'd checked. She followed the girl down between the tables a half step behind the morning.
 
@@ -108,13 +108,13 @@ Something low in Vee answered the phrase straight off, without asking her first,
 
 The straw had gone useless in Vee's dry mouth. "In a strange bedroom? Anyone could have walked in."
 
-"And they'd have got an eyeful." Randi said it without a flicker, warm, amused, her clear eyes right on Vee's. "Dress up, panties to the side, knees wide, and me singing the whole song of self-pleasure."
+"And they'd have got an eyeful." Randi said it warm, amused, her clear eyes right on Vee's. "Dress up, panties to the side, knees wide, and me singing the whole song of self-pleasure."
 
 The picture arrived in Vee entire and asked nothing of her, and her body, which had been climbing the whole morning one careful confession at a time, simply reached the top. The heat was no longer some weather happening near her. It was the main fact in the chair, slick and insistent and wholly her own, and she could not stay in the bright glassed room, under all those people and Randi's untroubled gaze, and sit still around it for another minute.
 
 She was on her feet before she had decided to stand. "Bathroom," she said, which was hardly a word and nothing like a sentence, and went, the napkin sliding off her lap behind her.
 
-"Course, gorgeous." Randi was already lifting her glass, easy, as if she had said nothing at all.
+"Do what you need to." Randi was already lifting her glass, easy and unhurried, no curiosity anywhere in it, as if she had said nothing at all.
 
 The bathroom was down a short hall and lit a hard clinical blue, a light that found everything and forgave none of it. The stall door swung to behind her on its slow hinge and only clicked, but in her head it slammed, a sound the whole bright porch must have heard and understood, every fork going still, every face turning to the little hall where the girl had gone to do the thing she had gone to do.
 
@@ -150,10 +150,10 @@ The cold caught her at the door and took her breath clean out, and the world cam
 
 "Oh, good." Randi's whole face opened, warm all the way through, and she reached out and took Vee lightly by both arms. "I couldn't bear it if there was something between us. You're my best friend in the whole world, you know that?"
 
-And the floor went out from under Vee again, but kindly this time, sweetly, in a direction she had no guard up against at all. Best friend. Hers. This woman who walked into a room and rearranged it, who ordered wine Vee had never heard of and danced with boys out of the movies, had looked at careful, overlookable Vee and picked her, out of everyone, for the closest place there was. The cold morning went briefly luminous.
+And the floor went out from under Vee again, but kindly this time, sweetly, in a direction she had no guard up against at all. Best friend. Hers. This woman who walked into a room and rearranged it, who ordered wine Vee had never heard of and danced with boys out of the movies, had looked at careful, unassuming Vee and picked her, out of everyone, for the closest place there was. The cold morning went briefly luminous.
 
-Then Randi gathered her in, the whole warm length of her, and kissed her. Soft, the way she always was, her mouth staying on Vee's a beat past what a friend's would, then the small drawing-off, the held half-breath, then her lips once more with a little more in them before she let go.
+Then Randi gathered her in, the whole warm length of her and that bright green scent Vee had never been able to name, and kissed her. Soft, the way she always was, her mouth staying on Vee's a beat past what a friend's would, then the small drawing-off, the held half-breath, then her lips once more with a little more in them before she let go.
 
-"See you so soon." Randi was already stepping back, already light, lifting a hand at the curb as she folded herself down into the low car. She was gone into the traffic with one last wave through the glass.
+"See you soon, gorgeous." Randi was already stepping back, already light, lifting a hand at the curb as she folded herself down into the Mercedes. She was gone into the traffic with one last wave through the glass.
 
 Vee stood a moment in the quiet the car left behind. And on her lower lip, when her tongue went to it without being told, there was a thread of sweetness, sugar and butter and something warm under it, the glaze of a pastry she had never once touched.

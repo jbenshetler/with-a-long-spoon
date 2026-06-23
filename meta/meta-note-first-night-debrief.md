@@ -41,7 +41,7 @@ Register guard: her stories stay in the loud/rueful anecdote key and **never dri
 
 ## Randi's opener (candidate lines, author)
 
-Ran into an old boyfriend on campus. "I thought, he's so gorgeous, why did we break up?" Went on a date, then slept with him. "The boy tries, but he's nervous and in such a rush! At least I got dinner ahead of time and anticipation through some rose colored glasses." Handoff: "That smile you're failing to hide tells me your date went better than mine. Give me something juicy, gorgeous, so I can live vicariously through you."
+Ran into an old boyfriend on campus. "I thought, he's so good-looking, why did we break up?" Went on a date, then slept with him. "The boy tries, but he's nervous and in such a rush! At least I got dinner ahead of time and anticipation through some rose colored glasses." Handoff: "That smile you're failing to hide tells me your date went better than mine. Give me something juicy, gorgeous, so I can live vicariously through you."
 
 "Live vicariously through you" is the sharpest double-register line: first read, a glamorous friend egging on the younger one, self-deprecating, clean; reread, she has zero need to live vicariously — she gets it direct, and doubled. Keep it; it isn't a wink because the surface meaning is complete and warm.
 
