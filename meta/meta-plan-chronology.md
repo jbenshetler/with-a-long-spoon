@@ -158,7 +158,7 @@ The shirt exchange staged inside the ordinary it marks. Sunday morning of an ove
 
 ### [SCENE] The Painting Afternoon
 *~late November, before Thanksgiving* · Unwritten · [detail](meta-condensed-the-painting-afternoon.md)
-Waxing agreed-to with noticed ease; painted as fruit (peaches callback); the photo she wants only to see herself through his eyes.
+Fun, sexy only. Painting → photo → sex → coinage. Waxing agreed-to with noticed ease; painted as fruit (peaches callback, seeds the B&B blazon's peach); the photo she wants only to see herself through his eyes (earliest sole-channel seed, played light). Afterglow: Vee coins **"adventure"** — *"Well, that was an adventure"* + helpless laughter (hers, joyful; origin of the arc that's first *invited* at the B&B and detonates at the threesome).
 
 ### [SCENE] Vee Tells Randi About the Painting
 *~within a few days of the Painting Afternoon* · Unwritten · SATC · [detail](meta-condensed-vee-tells-randi-painting.md)
@@ -250,7 +250,7 @@ The accumulated cost of months of absence — events skipped, standing not colle
 
 ### [SCENE] The B&B Weekend (The Pivot — the Key & the Watched Exposure)
 *~late February or early March* · Draft in progress · `scenes/bb-weekend.md` (arrival) · [detail](meta-condensed-bb-weekend.md) · [craft](meta-note-bb-weekend.md)
-His answer to the Christmas fight, on his terms: **a key to his house**, in a handmade oiled-wood box (the answer he can't speak). The transgression is **watched masturbation** (*"Would you show me how you touch yourself?"* — she's made the agent of her own exposure); the **Permission Rule installs** (tell, not ask). "Adventure" planted. Taste held for the first-taste gate (~May–June). Surprise takeaway to an isolated mountain cabin; he packs the trip, never the Top Drawer.
+His answer to the Christmas fight, on his terms: **a key to his house**, in a handmade oiled-wood box (the answer he can't speak). The transgression is **watched masturbation** (*"Would you show me how you touch yourself?"* — she's made the agent of her own exposure); the **Permission Rule installs** (tell, not ask). "Adventure" first *invited* here (coined at the Painting Afternoon). Taste held for the first-taste gate (~May–June). Surprise takeaway to an isolated mountain cabin; he packs the trip, never the Top Drawer.
 
 ### [SCENE] B&B Debrief Brunch
 *~early March · after the B&B Weekend* · Unwritten · SATC · debrief register
