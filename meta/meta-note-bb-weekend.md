@@ -2,11 +2,11 @@
 
 *Scene · Unwritten · ~late Feb / early March, a weekend · companion to meta-condensed-bb-weekend.md*
 
-**Restructured (workshop):** the taste-crossing is removed from this scene; the answer-to-the-fight is now **a key**; the transgression is now **watched masturbation**; the **Permission Rule** installs here. (Taste, the ivory cami + satin panties, and the whiskey/white-wine catalogue all move to a new late first-taste gate near Peaches — see "Docs to update" below.)
+**Restructured (workshop):** the taste-crossing is removed from this scene; the answer-to-the-fight is now **a key**; the transgression is now **hearing warm, detailed praised for her beauty and sexuality** and **watched masturbation**; the **Permission Rule** installs here. (Taste, the ivory cami + satin panties, and the whiskey/white-wine catalogue all move to a new late first-taste gate near Peaches — see "Docs to update" below.)
 
 ## What this scene is now
 
-His answer to the Christmas fight, on his terms — he can't answer the mother's question in words, so the weekend *is* the answer. The relationship at fullest flower; a quiet peak before the threesome pressure begins. Two crossings, both lighter than the old taste version: he gives her **the key** (the emotional answer), she gives him **the watched exposure** (the transgression). On first read: a man in love giving a key, a weekend, and an intense night — warm and sexy, no shadow. Every instrumental thread stays submerged.
+His answer to the Christmas fight, on his terms — he can't answer her mother's question in words, so the weekend *is* the answer. The relationship at fullest flower; a quiet peak before the threesome pressure begins. Two crossings, both lighter than the old taste version: he gives her **the key** (the emotional answer), she gives him **the watched exposure** (the transgression). On first read: a man in love giving a key, a weekend, and an intense night — warm and sexy, no shadow. Every instrumental thread stays submerged.
 
 ## The key (the answer to the fight)
 
