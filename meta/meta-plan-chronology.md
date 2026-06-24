@@ -202,7 +202,7 @@ Bomber jacket and broadcloth without being asked. The proprietary feeling she ha
 
 ### [VIGNETTE] Vee — The Reach (solo)
 *~late January · Vee's room · Unwritten · Vee solo*
-Alone, masturbating, working from the memory of how he looked at her wet — *like it was true, like it was fine.* At the peak she brings her fingers to her face: the sniff she can do (the old animal-evidence flinch, now threaded with wanting); the tongue she can't — it stops a breath short, no contact, and she doesn't have the reason. She wipes them, finishes; the wanting-to-know outlasts the orgasm. An open loop, reaching for the knowledge of herself only he has. Sets up the B&B's watched version (private → witnessed) and the first-taste gate (the loop he later closes). Taste held; the woman-taboo stays subterranean. Body before mind — she feels the wall, never names it.
+Alone, masturbating, working from the memory of how he looked at her wet — *like it was true, like it was fine.* At the peak she brings her fingers to her face: the sniff she can do (the old animal-evidence flinch, now threaded with wanting); the tongue she can't — it stops a breath short, no contact, and she doesn't have the reason. She wipes them, finishes; the wanting-to-know outlasts the orgasm. An open loop, reaching for the knowledge of herself only he has. Sets up the B&B's watched version (private → witnessed) and First Taste (the loop he later closes). Taste held; the woman-taboo stays subterranean. Body before mind — she feels the wall, never names it.
 
 ---
 
@@ -250,7 +250,7 @@ The accumulated cost of months of absence — events skipped, standing not colle
 
 ### [SCENE] The B&B Weekend (The Pivot — the Key & the Watched Exposure)
 *~late February or early March* · Draft in progress · `scenes/bb-weekend.md` (arrival) · [detail](meta-condensed-bb-weekend.md) · [craft](meta-note-bb-weekend.md)
-His answer to the Christmas fight, on his terms: **a key to his house**, in a handmade oiled-wood box (the answer he can't speak). The transgression is **watched masturbation** (*"Would you show me how you touch yourself?"* — she's made the agent of her own exposure); the **Permission Rule installs** (tell, not ask). "Adventure" first *invited* here (coined at the Painting Afternoon). Taste held for the first-taste gate (~May–June). Surprise takeaway to an isolated mountain cabin; he packs the trip, never the Top Drawer.
+His answer to the Christmas fight, on his terms: **a key to his house**, in a handmade oiled-wood box (the answer he can't speak). The transgression is **watched masturbation** (*"Would you show me how you touch yourself?"* — she's made the agent of her own exposure); the **Permission Rule installs** (tell, not ask). "Adventure" first *invited* here (coined at the Painting Afternoon). Taste held for First Taste (~late spring). Surprise takeaway to an isolated mountain cabin; he packs the trip, never the Top Drawer.
 
 ### [SCENE] B&B Debrief Brunch
 *~early March · after the B&B Weekend* · Unwritten · SATC · debrief register
@@ -296,9 +296,9 @@ Diptych. Sunday: Randi post-coital with Pace, negotiating more time, accidentall
 *~late June · post-Ignition · SATC · Vee POV* · [detail](meta-condensed-vee-tells-randi-bench.md)
 Vee retells the bench (the late-May apex) to Randi, not knowing Randi was ever on it. Placed for maximum scald: Randi, just wrecked in Ignition, hears the blooming — the staying-open her apparatus couldn't do — narrated in detail by the woman who could. Fresh proof that Pace's seeing was real and the failure was hers. Double register holds; the wound shows only in the wordless tells (the cup, a control raw from Ignition). Goodbye-kiss at the late/pre-seam rung, a candidate for the first real control-slip. The configuration-as-agent at maximum voltage — Vee in good faith the agent of the deepest harm.
 
-### [SCENE] The First-Taste Gate (the taste-domino) `[slot TBD]`
-*~June · slot + ordering vs. the Threesome Introduction TBD* · Unwritten · [craft](meta-note-threesome-reveal.md)
-The taste-crossing, moved out of the B&B so it stays fresh into Peaches. The **ivory nightie** (costs him; no panties; the fit establishes value; inverse of the hiking shirt; pearls worn with it) and the **tasting-herself sequence**: whiskey/white wine; he bypasses the kiss, samples with his penis, offers a taste; *"A shot?"*; the inducement. **She gets both whiskey and wine.** She crosses the line she drew; the open loop from The Reach closes. (The ivory cami + tight satin panties variant lives here too — reconcile with the canon nightie's no-panties logic when drafting.)
+### [SCENE] First Taste (the taste-domino) `[slot TBD]`
+*~late spring · slot + ordering vs. the Threesome Introduction TBD* · Unwritten · [craft](meta-note-taste-thread.md)
+The self-taste crossing — apex of the year-long self-taste thread (beat-spine and planting discipline: `meta-note-taste-thread.md`). The **ivory nightie** (costs him; no panties; the fit establishes value; inverse of the hiking shirt; pearls worn with it) and the **tasting-herself sequence**: she checks the whiskey/white-wine frame (already hers from The Telling) against her own tongue; he bypasses the kiss, samples with his penis, offers a taste; *"A shot?"*; the inducement. She crosses the line she drew; the open loop from The Reach closes. (The ivory cami + tight satin panties variant lives here too — reconcile with the canon nightie's no-panties logic when drafting.)
 
 ### [SCENE] The Peaches
 *~mid-late July* · Unwritten · [detail](meta-condensed-the-peaches.md)

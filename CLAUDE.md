@@ -12,7 +12,7 @@ IMPORTANT: When writing scene drafts, do not editorialize and do not telegraph.
 
 ## How this assistant works
 
-`novel-assistant/` is a small **recall-first search CLI** — `na.py` (SQLite + sqlite-vec + FTS5, local Ollama embeddings), with two commands: `search` and `reindex`. Factual lookups go through the **`lore-keeper` subagent**, which queries `na.py search` and falls back to `rg`/Read (see **Research / lore delegation** below). Run `na.py reindex` at session start to keep the index fresh.
+`novel-assistant/` is a small **recall-first search CLI** — `na.py` (SQLite + sqlite-vec + FTS5, local Ollama embeddings), with three commands: `search`, `reindex`, and `style` (a DB-free prose linter that flags style tics — literal phrases like "the way" and structures like "X, not Y" — over a draft or `scenes/`, against `novel-assistant/style-rules.toml`; `na.py style --help`). Style hits are recall-first (flag, don't fix); once you and the author agree a flagged hit is fine, `na.py style <path> --ack` suppresses it by a sentence fingerprint (re-shown with `--show-suppressed`, re-armed if the sentence is edited). Factual lookups go through the **`lore-keeper` subagent**, which queries `na.py search` and falls back to `rg`/Read (see **Research / lore delegation** below). Run `na.py reindex` at session start to keep the index fresh.
 
 ---
 
@@ -50,6 +50,7 @@ Run `novel-assistant/na.py reindex` once at the start — it's incremental (re-e
 
 If the author asks for a draft, passage, or scene:
 1. Delegate the prep lookups to the `lore-keeper`, fanned out in parallel — each appearing character's relevant traits/knowledge, the setting, the scene's entry in the chronology and any track/notes, and the craft constraints in play.
+1a. Check the **running threads to seed** (registry in the Bible's Global Craft Rules) — does a cross-scene thread want a seed *in this scene*, and if so in what register? For any sex scene this includes the taste thread (`meta-note-taste-thread.md`). Most scenes seed nothing — the point is to *decide*, not to plant every time; a dutiful seed in every scene is itself a tell.
 2. Draft the prose, matching the established register.
 3. Check the draft against canon — delegate a continuity pass to the `lore-keeper` with the passage quoted.
 4. If something's off, fix it and note what you corrected at the end; otherwise present the prose normally.
