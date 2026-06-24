@@ -293,7 +293,7 @@ Introduced in **the Walk of Shame**. The one person in the sorority who out-oper
 
 **The jealousy redirect (Randi, coldest line in the novel):** *“Do you actually want to know? Or do you want it to stop?”* (These are different questions.)
 
-**Whiskey/white wine (the first-taste gate, ~May–June):** before orgasm she’s *like whiskey — distinct, more impactful, oh so slippery*; after, *like a white wine — copious and thinner.* Vee’s riff back: *“A shot?”* (NOT deflection — she’s playing his metaphor back; engaging through the safety of wit. He doesn’t push; files it.)
+**Whiskey/white wine (First Taste, ~late spring):** before orgasm she’s *like whiskey — distinct, more impactful, oh so slippery*; after, *like a white wine — copious and thinner.* Vee’s riff back: *“A shot?”* (NOT deflection — she’s playing his metaphor back; engaging through the safety of wit. He doesn’t push; files it.)
 
 **The peaches sext escalation (Vee, initiating for the first time):** farmers-market photo → peach between bare breasts → *“I really want to try slimy peaches, and I’ll do anything”* (“slimy” = the derogatory word she used for the fish she refused; she turns her own cruelty against herself) → naked lower body, peach beside waxed sex: *“Both of these are sweet and juicy but only one has fuzz on it.”*
 
@@ -347,3 +347,9 @@ Introduced in **the Walk of Shame**. The one person in the sorority who out-oper
 - **The available honorable exits Pace did not take are real; the prose must not protect him from this.** Disclosure was available. Refusal-of-the-configuration was available. Harder questions with Vee were available. *Each would have prevented the catastrophe.* He did not take them because his architecture supplied the agency-respect framing that made not-taking feel like principle. The skeptical reader who concludes "he should have told her" is correct; the novel does not contest the conclusion, only the moral framing of why he did not.
 
 - **The bench-wound is harm-one fast-installed; the friendship-with-deception is harm-two with real goods bundled.** When the prose renders the bench, render the catastrophic depth in the single scene. When the prose renders the SATC lunches and the friendship's intensity, render the goods at full force *and* the harm operating in registers Vee cannot see. *Both harms are in the fourth category;* both have goods constitutively bundled with them. The help-harm-dials inventory document tracks individual operations and their goods-and-harms dials; check scenes against the inventory.
+
+### Running threads to seed (across scenes)
+
+Cross-scene threads that accrue by seeding small beats into scenes whose foreground is something else. Check this list when prepping any scene (see `CLAUDE.md` → *Before writing any prose*): decide whether a thread wants a seed *here*, and in what register. **Most scenes seed nothing — the discipline is to decide, not to plant. A dutiful seed in every scene is itself a tell.**
+
+- **The taste thread (Vee's self-taste arc)** → `meta-note-taste-thread.md`. Trigger: any Pace/Vee sex scene. Seed options: the Leak (he wipes before kissing her; scent always, taste now and then — render iterative and subordinate), His Relish (her wondering what he likes), or a staircase beat if the slot fits. The note holds the planting discipline and the telegraph/no-telegraph example.

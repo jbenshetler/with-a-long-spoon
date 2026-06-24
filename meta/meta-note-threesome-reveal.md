@@ -16,7 +16,7 @@ Three people, one bed, **three simultaneous self-administered betrayals** — ea
 
 ### Pace
 
-Wants the messy, sticky, sharing-all-around threesome — genuinely. Also: **the dominoes.** He knows he’ll never get Vee into that threesome if she won’t first cross her own shame lines — the clearest gate being whether she’ll taste her own fluids (hetero, on him). *If she won’t taste herself on his penis, she won’t taste another woman.* The **first-taste gate** (~May–June) is, underneath the genuine love, the calculated environment for moving that specific obstacle; the **B&B** clears an earlier one — being watched, the agent of her own exposure. **His wound:** he commits a betrayal he never computes (see “Pace’s blindness” below), and his proudest possession — the consent architecture that made him not-his-father — turns out to have a hole he aimed Vee straight through.
+Wants the messy, sticky, sharing-all-around threesome — genuinely. Also: **the dominoes.** He knows he’ll never get Vee into that threesome if she won’t first cross her own shame lines — the clearest gate being whether she’ll taste her own fluids (hetero, on him). *If she won’t taste herself on his penis, she won’t taste another woman.* **First Taste** (~late spring) is, underneath the genuine love, the calculated environment for moving that specific obstacle; the **B&B** clears an earlier one — being watched, the agent of her own exposure. **His wound:** he commits a betrayal he never computes (see “Pace’s blindness” below), and his proudest possession — the consent architecture that made him not-his-father — turns out to have a hole he aimed Vee straight through.
 
 ### Randi
 
@@ -34,28 +34,9 @@ Doesn’t know it’s a plan, doesn’t know it’s a domino. Consents to a thre
 
 A quiet peak before the threesome pressure begins — the relationship at fullest flower. Pace’s answer to the Thanksgiving/Christmas fight, on his own terms (he can’t answer the mother’s question verbally; the weekend is the answer): **a key to his house**, in a handmade oiled-wood box. The transgression is the **watched masturbation** — she’s made the agent of her own exposure — and the **Permission Rule installs** here (tell, not ask; the loophole later routes Randi’s gaze into her solitude). The “adventure” code-word — coined earlier at the Painting Afternoon (Vee’s joyful throwaway) — gets its **first use as an invite** here (Pace points it forward as a consent-gateway). Full design: `meta-note-bb-weekend.md`. Placement: after the friends dinner and after bondage/clamps have run.
 
-### The first-taste gate (~May–June — the taste-domino falls)
+### First Taste (the self-taste gate falls)
 
-The taste-crossing, moved out of the B&B so it stays fresh into the Peaches scene. The ivory nightie and the tasting-herself sequence land here. (Sequencing: this falls ~June, after the Threesome Introduction’s soft plant — it’s the crossing that tips her from *thinking about it* to proceeding; exact slot TBD.)
-
-**The nightie:**
-
-- Simple, elegant, **expensive enough that she knows it’s uncomfortable for him** — not a trifle. She reads his finite means: the wine range, the few good knives, the couple of good pans, not the 12-piece set. The gift is outside his pattern, an exception made deliberately, for her. **The fit is what establishes value** — chosen for her specific body with attention — not any stated price. He’d hate her knowing what it cost; she knows anyway.
-- **Color: IVORY** (not russet, not green). The functional logic: ivory gives her nowhere to hide a wet spot; the color honors the no-panties intention. Also reads against red hair and warm skin — almost luminous — and carries delicacy/occasion/kept associations that sharpen the exposure. Beautiful fabric that will betray her completely.
-- **No panties** — given deliberately. Removes her ability to manage her body’s response; the absence was considered, not an oversight. He wanted her response *in the room* rather than managed away from it. The reframe (first established verbally on the first night) made structural.
-- **The bathroom moment** (different from all her others): she’s not cleaning up after arousal — she’s deliberately dressing for his attention. The mirror gives her his eye before she has it. **Coming out is the scene.**
-- **His reaction:** doesn’t perform it; just looks long enough that she knows what’s in his face. The looking is the line. She has no toolkit for being looked at without evaluation; she makes a joke; she keeps moving.
-- **Structural echo:** the hiking shirt was enormous, concealing, his — she disappeared into it. The nightie is precise, fitted, made to make her *visible.* The two objects are a conversation about where they started and where they are.
-
-**The tasting-herself sequence (at the first-taste gate):**
-
-- He plants the idea by observation, not pressure: she tastes different before and after orgasm. Lets it hang. Sensitive (her shame) but also a special place for them both.
-- Curiosity beats shame; **she asks.** He answers like someone who’s been paying that quality of attention: before = **whiskey, distinct, more impactful, oh so slippery**; after = **white wine, copious and thinner.** (The “copious” detail turns her oldest wound into a catalogued pleasure.)
-- **He bypasses the kiss** (the line she drew early: *that’s dirty*) — instead samples her fluids with his penis, stops short of orgasm, offers her a taste.
-- Vee’s riff: **“A shot?”** — NOT deflection; she’s playing his whiskey metaphor back, engaging through the safety of wit, still in the room. He smiles, doesn’t push, files it.
-- **The inducement (preserve the imperfection):** he draws out her need — extends pleasure, approaches the plateau, withholds completion slightly as she deflects, resumes — until her body’s need outvotes her ideological position. He’s not refusing her; he’s *extending* her, and gives the orgasm immediately when she crosses. **The fuzziness is real:** he uses her own arousal to move her past a resistance she hasn’t resolved on her own terms, telling himself it serves her. Same architecture as the benefactor story, in miniature. Good man, not perfect.
-- **Afterward:** she has complicated feelings about the inducement once arousal clears — *“I know what he did there.”* Probably never said. Both live in a relationship where certain things are understood without being named.
-- **This is where she crosses the line she drew** — the taste-domino. The threesome introduction can precede this as a soft plant; the crossing here is what tips her from *thinking about it* to proceeding.
+The self-taste crossing — the ivory nightie and the tasting-herself sequence — is the domino that tips Vee from *thinking about it* to proceeding. It belongs to the year-long self-taste thread (the conflation *female wetness = lesbian = wrong*, routed through her own body first so the step to another woman loses its tallest riser), and is owned in full by **`meta-note-taste-thread.md`** — beat-spine, planting discipline, and the First Taste scene mechanics. The reveal-reconstruction below runs back through it.
 
 ### The peaches scene (moved LATER — now post-B&B; functions as the second fight)
 
@@ -141,7 +122,7 @@ The act essentially complete (blindfold comes off *after*). A register shift sig
 Sequence: recognition → retroactive reconstruction → physical awareness → shame → anger → **friendship betrayal (hits harder than romantic).** Multiple beats of silence first.
 
 - **Render through her BODY, not named emotions.** The image hits; her body answers; the reader reads the body. Naming the feelings would be the prose flinching.
-- The reconstruction runs BACKWARD through the whole novel: the goodbye kisses (she kept them, deepened them — no one to blame), the SATC questions, the planted clues (Randi the whole time), the dance (where her body learned Randi’s touch), the B&B (the key, and being watched — an exposure-domino), the first-taste gate and tasting herself (preparation, a domino), the ivory nightie (love AND clearing a domino), the blindfold she asked for. Nothing survives clean.
+- The reconstruction runs BACKWARD through the whole novel: the goodbye kisses (she kept them, deepened them — no one to blame), the SATC questions, the planted clues (Randi the whole time), the dance (where her body learned Randi’s touch), the B&B (the key, and being watched — an exposure-domino), First Taste and tasting herself (preparation, a domino), the ivory nightie (love AND clearing a domino), the blindfold she asked for. Nothing survives clean.
 - **The genuine suspense, withheld even from the reader:** not *who* (known) but *what will this do to her* — whether the transformed Vee metabolizes it as catastrophe or as final liberation. Her physical behavior here tells the reader **who she has become.** That’s the question the whole novel has been asking.
 
 -----

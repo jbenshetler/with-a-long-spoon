@@ -1,8 +1,6 @@
-# Note — The B&B Weekend (The Pivot / Last Domino)
+# Note — The B&B Weekend (The Pivot)
 
 *Scene · Unwritten · ~late Feb / early March, a weekend · companion to meta-condensed-bb-weekend.md*
-
-**Restructured (workshop):** the taste-crossing is removed from this scene; the answer-to-the-fight is now **a key**; the transgression is now **hearing warm, detailed praised for her beauty and sexuality** and **watched masturbation**; the **Permission Rule** installs here. (Taste, the ivory cami + satin panties, and the whiskey/white-wine catalogue all move to a new late first-taste gate near Peaches — see "Docs to update" below.)
 
 ## What this scene is now
 
@@ -48,7 +46,7 @@ The front half of the Saturday late-afternoon beat, leading into the reintegrati
 **Close beat detail:**
 - **Ass** (he's behind her, panties dropped): the curve (one unbroken line, *the best curve on her, "I've compared"*), the domestic-intimate adoration (*his favorite thing — watching her walk naked bed-to-bathroom in the morning*), the spank (*the way it answers, takes the weight and gives it back — alive*), goosebumps rising.
 - **The wet:** admire the **abundance** of it (reframes the "too much / shameful plenty," cf. the bench) — her body answering the *praise itself*, the most honest thing in the room.
-- **His taste** (brief, reverent — NOT her tasting herself): he puts his mouth to her *once* and savors, then withdraws and hands her to her own hand (preserves the watched-masturbation's *he won't, she must*). **Catalogue WITHHELD** — *"there's no word I'd trust for it"* — the whiskey/white-wine taxonomy and *her tasting herself* stay reserved for the first-taste gate (~June). His savoring her is already canon (the secretions reframe / the bench); this doesn't spend the gate.
+- **His taste** (brief, reverent — NOT her tasting herself): he puts his mouth to her *once* and savors, then withdraws and hands her to her own hand (preserves the watched-masturbation's *he won't, she must*). **Catalogue WITHHELD** — *"there's no word I'd trust for it"* — the whiskey/white-wine taxonomy and *her tasting herself* stay reserved for First Taste (~late spring). His savoring her is already canon (the secretions reframe / the bench); this doesn't spend the gate.
 
 **Rate is the device:** dense/specific (present, defended) → dissolved/fragmentary (under, disarmed) → dense/specific (jolted, at war). Sentence-length and her consciousness are the same line.
 
@@ -81,7 +79,7 @@ The front half of the Saturday late-afternoon beat, leading into the reintegrati
 
 - Replaces the taste-crossing as B&B's domino. New indignity: she's made the **agent of her own exposure** — the thing she does alone, now witnessed.
 - The ask (may-i-choose — **asking, not telling**; supersedes the old blowjob-misread, which no longer fits after a 15-min adoration): *"When you're feeling good — really good, on your own — what parts do you go to? … Would you show me?"* Curious + consenting; *show me* (hers to give), not *now I want to watch* (him subject, her object). The "what parts do you go to" **rhymes the litany** (he named the parts *he* sees; now she shows which parts *she* chooses) and hands her the agency. Render her body's stall (the solo-vignette stall, now witnessed), not her reasoning.
-- Flows out of the blazon via the **reintegration → the ask** (*"would you show me?"*). **Blindfold stays on** through it (she learns to find pleasure *surrendered and blind while knowing she's seen* — what the threesome exploits); off afterward, so eye contact returns for the confession. Standing on the rug, in the **clear late-afternoon light** (still lit — no hiding), his unseen gaze on her. **Taste untouched here** (held for the late first-taste gate). She can refuse; she doesn't — the blazon has already half-answered for her.
+- Flows out of the blazon via the **reintegration → the ask** (*"would you show me?"*). **Blindfold stays on** through it (she learns to find pleasure *surrendered and blind while knowing she's seen* — what the threesome exploits); off afterward, so eye contact returns for the confession. Standing on the rug, in the **clear late-afternoon light** (still lit — no hiding), his unseen gaze on her. **Taste untouched here** (held for First Taste). She can refuse; she doesn't — the blazon has already half-answered for her.
 - A request, not a command → the shame is **chosen, owned** (the thesis: ownership of chosen shame, not shamelessness).
 
 ## The Permission Rule (installs here)
@@ -120,23 +118,10 @@ The front half of the Saturday late-afternoon beat, leading into the reintegrati
 - Real AND instrumental, never resolved: the tell-rule installs Randi; the adventure-word frames the threesome; the watched exposure is a domino. On the page it is only love. The reader falls for him here as hard as she does.
 - **The blazon's dissociative float is the deepest threesome plant** — the trained dissolve (time gone, self loosened, pleasure in the dark) the blindfold later exploits; the blindfold *object* is installed here too, so "she asks for it herself" at the climax lands. *He becomes her eyes* — the sole-channel motif, pre-rhyming the kiss-as-sole-channel.
 
-## Propagated (done)
-
-The restructure has been threaded through the corpus:
-
-- **meta-condensed-bb-weekend.md** — rewritten (taste out; key + watched masturbation + permission rule + adventure in).
-- **meta-arch-bible.md** — whiskey/white-wine relabeled to the first-taste gate; shame-staircase reordered (watched exposure added; tasting-herself moved after bondage).
-- **meta-note-threesome-reveal.md** — "last domino" → split dominoes; B&B section now key/exposure with a pointer here; new "first-taste gate" section inherits the nightie + tasting material; backward-reconstruction clue list updated.
-- **meta-arch-vivienne.md** + **meta-plan-satc-tracks.md** — Permission Rule now installs at the B&B (~late Feb), not "mid-spring."
-- **meta-plan-pace-house.md** — the key added as its own section (complicates the lock motif; Randi stays keyless/bolting; deferred first use).
-- **meta-plan-summary.md** — B&B inventory bullet + the "last domino" open-question updated.
-- **meta-plan-chronology.md** — B&B entry + Debrief Brunch updated; two NEW scenes added: **Vee — The Reach** (solo masturbation, ~late Jan) and **The First-Taste Gate** (~June), which carries the ivory nightie + the whiskey/white-wine "she gets both" callback.
-
 ## Still open (flagged, not resolved)
 
-- **First-taste gate slot + ordering.** Placed ~June, *after* the Threesome Introduction (late May) — which reframes the introduction as a soft plant and the taste-crossing as the tipping move. Exact slot and that ordering are marked `[slot TBD]` in the chronology.
-- **Garment naming.** The "ivory cami + tight satin panties" you named conflicts with the canon "ivory nightie / no panties" (the no-panties is load-bearing for the tasting). To reconcile when the first-taste gate is drafted.
-- **The early taste *question* plant** (*"what do I taste like?"* / the whiskey-wine answer as a haunt) — workshopped for ~Dec–Jan but not yet placed in the chronology.
+- **First Taste slot + ordering.** Placed ~late spring, *after* the Threesome Introduction (late May) — which reframes the introduction as a soft plant and the taste-crossing as the tipping move. Exact slot and that ordering are marked `[slot TBD]` in the chronology.
+- **Garment naming.** The "ivory cami + tight satin panties" you named conflicts with the canon "ivory nightie / no panties" (the no-panties is load-bearing for the tasting). To reconcile when First Taste is drafted.
 - **Two gifts at the B&B** (key + plum lingerie) — confirm this doesn't dilute the key (earlier design was key-only). Currently kept via tonal/temporal separation.
 - **Color:** plum is the working choice; deep teal/peacock is the noted alternative if reconsidered.
 - **Blazon light — RESOLVED:** clear, ample **late-afternoon** light, held through the whole lit sequence (Pace's careful seeing needs real light; the day fails *after*, for the confession). Earlier "dusk/fading" and "midday" options dropped.
