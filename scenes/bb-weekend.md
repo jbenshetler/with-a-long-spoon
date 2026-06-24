@@ -198,8 +198,72 @@ Then he stood, and stepped back, and she felt the loss of his nearness as a kind
 
 She was crying, behind the blindfold. She let it.
 
-"One more thing," he said, gentle, "and then I'll have everything I came up here for." She heard him settle, somewhere close, sitting, his voice now coming from lower than her, in front. "When you're feeling good — really good, on your own, with no one watching — what parts do you go to? Where do your own hands know to go?"
+He had gone quiet a moment, somewhere close in front of her. "One more thing," he said, "and then I'll have everything I came up here for."
 
-She couldn't make a sound.
+His voice had come back down to its low register, near her, not touching her, and she felt the whole front of her body lean toward where it was without deciding to. She was still wet from his mouth, still open from it, the ache he'd built sitting low and heavy in her and asking to be finished.
 
-"Would you show me?"
+"You're all worked up," he said, and there was warmth in it, almost amusement, a man glad of what he saw. "Do you want relief?"
+
+She nodded. She nodded before the question was all the way out of him, her hips tipping forward, her hands coming an inch off her sides toward him, toward the hands that would take her the rest of the way. Yes. God, yes. Finally.
+
+"Go ahead."
+
+For a moment she didn't understand it, because his hands didn't come. She stood with her face lifted and her body offered and the warm space in front of her stayed empty, his heat not arriving, and the wanting in her swung once, hard, with nowhere to land.
+
+Then, softer: "Show me."
+
+Something went cold under the heat. Her mouth opened on a question and there was no question she could make herself say; she had no word for the thing he was asking that she could put in the air between them. A small sound came out of her instead, helpless, and she turned her head, the flannel dark over her eyes, toward where his voice had been and then away, as if somewhere in the room there might be someone to tell her she didn't have to, that this was not what he meant. There was no one. There was only him, who had brought her here, and the fire on the one side of her, and the long clear light she couldn't see lying along her bare skin.
+
+He didn't help her. He didn't move, didn't fill the silence, didn't take it back. He only waited, and the waiting was its own pressure, gentle and total, and under it the ache went on without her leave, building on the heat his mouth had left, until standing still cost her more than moving would.
+
+"There's no one here," he said, very low. "Just me. Just you."
+
+And her hand went. It went before she had agreed to send it, the way the wet came, the way everything in her body had gone ahead of her all night, down over her belly and lower, and she touched herself, and a sound left her that she had never made in front of another living soul.
+
+She started where he had been. It was the only map she had in the dark, and she followed it, her own hands going to the places his had named, as if she could keep herself inside the warm thing he had made if only she felt her body the way he had felt it. She lifted her own breasts and took their weight the way he had weighed them. She found the pale slope he'd called milk and traced it. She brought a hand around to the curve of herself behind and tried to do what he had done back there, and it was nothing, a flat pat against her own skin that her body knew was coming before it landed, and she understood, with a small absurd lurch close to laughter, that you can no more spank yourself than tickle yourself, that some of what he gave her she could not give herself, that it had needed him.
+
+And the trying fell away. Her hands stopped performing his hands and went where they went when no one was watching, one rising to her breast and closing on it harder than he ever had, rough, dragging at the nipple in a way he was too reverent for, and the other going down to the work her body actually knew, and she was, all at once, simply doing the thing she did alone, in front of him, in the light.
+
+At first she could hear nothing but the blood going in her ears, a high private roar that walled her in, and she was grateful for it, alone inside it. The shame came up at the same moment as the wet, the two of them together, and she felt herself grow slicker under her own fingers from the single fact of being watched at this, her body answering the eyes it could not see by wanting more, not less; and that was the worst of it, and she could not stop it, and it fed her hand.
+
+Then the roar thinned and she could hear him. His breath. It had gone faster, ragged at the edge of it, a man's breath coming apart, and she knew without being able to see that it was the sight of her doing this that was undoing him, and the knowing went into her like a hand laid flat. She was not alone. She was wanted, here, in the one place she had never let herself be seen.
+
+She went down into it the way she had gone down under his voice in the middle of everything, the light gone, time loosening, the watching no longer a thing outside her but folded into the heat itself, and her hand kept on, and the only sounds left in the world were her own breath and the small wet rhythm her fingers made, loud in the quiet, the most naked sound there was, and she could not stop hearing it, and she was almost there.
+
+"What are you thinking about?"
+
+His voice came into the dark and broke the last thin shell she had sealed around herself, and she was pulled up out of her body and into her head where she had to look, where she had to know, and the answer was right there and had been there the whole time, the only thing in the room, and the having to say it was unbearable, and her hand never stopped.
+
+"You," she got out, barely, the word torn loose. And then again, because there was nothing else in her, no other word her body would make, "you, you," the syllable coming in time with her hand and her hand beginning to lose its rhythm, stuttering, failing, and the word failing with it, breaking apart until it was not a word any longer but a sound rising out of her, high and helpless and keening, as the whole of it took her at once and she came with his name that was not even his name, only *you*, only the wanting of him said out loud, standing blind in the light while he watched.
+
+Her legs went. She felt herself folding, and then she felt his hands, finally his hands, catching her under the arms and gathering her in, and she heard the breath go out of him rough against her hair.
+
+"I need—"
+
+He didn't finish it. He didn't seem able to. His hands were already moving her, lifting, and she came up off the floor with her thighs going around his waist on their own and her heels finding the bare backs of his legs, and then he was inside her, all at once, with a sound low in his chest like something giving way, and she understood, dimly, through the aftershocks still moving in her, that the careful man who had asked her leave for every step of the whole long night had run clean out of asking.
+
+He held her up against nothing, his strength and the lock of her legs the only thing keeping her off the floor, and she let her head and her arms fall back into the dark and gave him the whole weight of her, and he took it. He could not move in her well like this and he did not care; the thrusts came short and frustrated and graceless, a man past doing anything well, and that told her more than anything he had said all evening what she had done to him. Then she felt him take her hand, the hand that had just been inside her, and bring it up to his mouth, and he sucked her fingers, one and then the next, slow, between the broken movements of his hips, cleaning her off himself, taking the taste of her like a man who had been waiting all night for just this, and she had no name for the sound he made against her own wet skin while he did it, low and grateful and undone.
+
+She wanted, for the first time all evening, to see. She wanted her eyes back, wanted to watch his face while he came apart like this, the face she couldn't read, the man who never lost the thread of anything losing it against her. But both her hands were his now, one in his mouth and one fallen back into the dark, and her legs were holding her up, and there was nothing she could do but feel it; and feel, under the shame of being taken before she had half come down, under the raw oversensitive shock of it, a thing she could only call power. He had not asked. He had not asked, and she had never in her life wanted anything the way she wanted that, the proof of it, that she had taken the most careful man she had ever known and made him unable to wait for her.
+
+When her fingers were clean he made a sound and turned with her still on him and brought them down onto the bed, and the give of it came up under her back, and his weight came over her, and now he could move, and he did. She was so raw from the first that the second built almost before she could brace for it, a wholly different thing, not the rough private climb of her own hand but something he was drawing up out of her with the long sure strokes she knew, and she had no say in it at all, and when it took her this time it was his, given to her, and she cried out under him with her eyes still bound.
+
+Afterward, when his weight had come down warm over her and the room had gone quiet but for the fire, she brought a hand up and worked the flannel loose herself and pushed it off her eyes. The light had failed while she could not see it. The windows held only the last gray of the day and the fire had the rest of the room, low and orange, and his face was above her in it, near, undone, looking at her the way she had wanted to look at him, and she looked back and let him see her looking.
+
+They lay a long while without saying anything, and the dark came up full in the room around them. He was on his back and she had turned onto her side against him, her head on his chest, one of her legs thrown over one of his, and he was stroking her, slow, the flat of his hand passing over the pale skin of her breast and back again, like a man who could not quite get over the softness of it and meant to keep checking.
+
+"I really liked knowing that just thinking about me helps bring you pleasure," he said, into her hair, into the dark. "It makes me feel close to you."
+
+The heat came up her neck and into her face all over again, and she turned her face into his chest to hide it, the old reflex, and felt against her thigh his cock stir and thicken where it had lain quiet, and that, the proof of him, the helpless plain fact of what she did to him, turned the embarrassment into something warmer and steadier that she liked far too much.
+
+"You do that to me," she said, against his skin.
+
+"Would you do something for me?"
+
+She laughed, low, still hidden against him. "Ha. After that? Certainly."
+
+His hand went on moving on her. "Would you share that pleasure with me? Would you tell me, when you touch yourself thinking of me?"
+
+He was full and hard against her thigh now, and her hand had already gone down over the warm length of him, still slippery from her, her mind running on ahead to the next thing, to having him again, so that the word came out of her easy and breathy and barely attended at all, the way you say yes to something small.
+
+"Yes," she said, and swung her leg up over him and rose and took him in her hand and put him back where she wanted him, and the asking and the answer dissolved into the slow welcome of sinking down onto him in the dark, and the cabin held the two of them, and the fire burned itself low, and there was nowhere else in the world to be.
