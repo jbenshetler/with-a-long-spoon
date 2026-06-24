@@ -26,7 +26,7 @@ A handful of short chapters dramatizing the Permission Rule operating on Vee nig
 
 ## Placement
 
-Sprinkled mid-to-late spring, interleaved between the staged escalations (Bondage, B&B, Pool, Nipple Clamps) so the rising solo line runs between the peaks — the escalation is not only in the big scenes but in the nights between them.
+Sprinkled mid-to-late spring, interleaved between the staged escalations (Bondage, B&B, Pool, Secret Plans) so the rising solo line runs between the peaks — the escalation is not only in the big scenes but in the nights between them.
 
 ## Craft guards
 

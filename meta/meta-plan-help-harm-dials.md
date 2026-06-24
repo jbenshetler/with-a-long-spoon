@@ -255,7 +255,7 @@ Operations not yet inventoried that probably need entries:
 - The dance lessons (Pace teaches Vee to dance; helps her bravely; deepens the trust-at-resolution; substrate for the SATC dance scene where Randi leads less capably)
 - The peaches sequence (the rejection, the second fight, the reconnection, the peach-slices scene — multiple operations, multiple dials)
 - The painting afternoon (waxing, painted as fruit, the photo)
-- The nipple clamps scene
+- The Secret Plans scene (the princess roleplay Vee authors)
 - The ivory nightie / B&B weekend
 - The dressing room with Randi (money-as-power; the cold echo of the warm shoe-shopping outing)
 - The various intentional clue-plants (the female item in the bathroom; the accumulating planted-clues thread)

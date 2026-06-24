@@ -21,6 +21,12 @@ and privacy bought in one decision (not concealment). The geography is why no on
 can casually spy (Vee drives toward it once and turns back). A used, well-kept
 utilitarian truck in the drive; a hybrid bike.
 
+**The grounds are large and private — enough for an outdoor scene.** Canon never
+states acreage directly but implies it: rural Virginia, far outside town, cheap
+wooded land bought for privacy — an older plat from before the land was subdivided
+into smaller lots. The wooded lot with no sight lines supports a private outdoor
+chase on his own ground (load-bearing for **Secret Plans** — `meta-note-secret-plans.md`).
+
 ## Access — who gets brought here (canon) `[PLAN]`
 
 **His home is more private to him than sex is.** Trying a woman out, the first few

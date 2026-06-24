@@ -151,7 +151,7 @@ One file per non-trivial scene; the chronology entry links to it. To work on a s
 | `meta-condensed-randi-takes-scrunchies.md` | Grain #1 — Randi Takes the Scrunchies (The First Flicker) |
 | `meta-condensed-grain-2-scrunchies.md` | Grain #2 — Worn in Plain Sight |
 | `meta-condensed-bb-weekend.md` | The B&B Weekend |
-| `meta-condensed-nipple-clamps.md` | Nipple Clamps |
+| `meta-condensed-secret-plans.md` | Secret Plans (The Princess / Vee's Adventure) |
 | `meta-condensed-grain-3-restoration.md` | Grain #3 — The Restoration (The Loud One) |
 | `meta-condensed-vee-on-the-bench.md` | Vee on the Bench |
 | `meta-condensed-threesome-introduction.md` | The Threesome Introduction |

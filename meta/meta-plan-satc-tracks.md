@@ -110,7 +110,7 @@ Three format-breaks across the back half, each doing what the seated brunch can�
 
 ### 1. The Dress Entrance (brunch, but format-stretching)
 
-Randi arrives late in a sheer, flowing, expensive dress, no bra — dark nipples visibly hard. Vee scandalized AND fascinated (the two are wired together, not in conflict). After the nipple-clamps beat, Vee notices she notices differently. Randi relates something sexually explicit with her man — **real or imagined, NEVER resolved** — getting Vee going. The dress operates on Vee’s response to *Randi’s body* (a new door; the not-washing-hands operated on Vee’s response to her own body). First crack where the writing-off needs effort, because there’s no Pace to file it under.
+Randi arrives late in a sheer, flowing, expensive dress, no bra — dark nipples visibly hard. Vee scandalized AND fascinated (the two are wired together, not in conflict). After the Secret Plans beat, Vee notices she notices differently. Randi relates something sexually explicit with her man — **real or imagined, NEVER resolved** — getting Vee going. The dress operates on Vee’s response to *Randi’s body* (a new door; the not-washing-hands operated on Vee’s response to her own body). First crack where the writing-off needs effort, because there’s no Pace to file it under.
 
 ### 2. The Dressing Room (money as power)
 
