@@ -74,6 +74,8 @@ She may masturbate freely, with one narrow exception: not to thoughts of Pace wi
 
 **Why it isn't porn-dom.** Narrow by design — it governs only the wanting that is *his*, leaving everything else free; the narrowness is what keeps it from reading as a blanket orgasm-denial. A broad rule would put *him* in charge of her body's relief; this one puts the cruelty in her own hands. He names a toll and steps back; her cutting voice enforces it. The line is hers, the stepping is hers — he only provides the condition (cf. `meta-arch-pace.md`, content-of-the-rule-is-secondary). *"Tell me — I want to know"* is intimate and genuinely meant (he cherishes the response) at the same instant it is the toll that keeps her wound; both true, never resolved. *"Ask permission"* would tip toward instrumental-only.
 
+**Never imposed — she builds the cage.** No one codifies the rule; Vee codifies it against herself. At the B&B he asks it once, plainly — *when* you do that, thinking of me, tell me — a tender wish, not a decree (no *from now on*, no *every time*). The grammar smuggles the binding: *when*, not *if*, presumes both the recurrence and the telling, and post-coital and melting she doesn't parse it. They never speak of it again, so its permanence — and her doubt — accrue only in her (*did he mean always? do I remember it right? is that what he said?*). The uncertainty is the cage: bound by something never actually imposed, she can't be sure she is permitted to be free of it. She signs at the peak of *felt power* — having just broken his control, climbing onto him, granting him a favor — her attention already downstream on the next fuck; her own appetite both signs the toll and is what it later taxes (the greed that makes her agree carelessly is the greed tolled). Same engine as the key (*he never lies; she inflates*) and as Randi's gaslighting — the epistemic destabilization that teaches Vee to distrust her own memory until she polices herself (`meta-plan-satc-tracks.md` → Randi's three extraction instruments; the two engines feed each other).
+
 **The toll is the saying.** To tell is to acknowledge out loud that her body has gone ahead of her over the thought of him — the exact exposure the cutting voice cannot survive. **Tell-before is the gate:** relief kept from her by one sentence, banked against the next time he takes her in hand — wound and unrelieved with the remedy a sentence away, kept from it only by the sentence. **Tell-after is the failure state, not a second rule:** when the body wins the race and she is over before she can get the sentence out, she owes him the after-confession (*I couldn't tell you first*) — a fresh indignity, the signature wound rendered as mechanic, and a quiet rhyme with retelling Randi (two confessors, one device).
 
 **The gray line (load-bearing — leave it un-examined).** SATC-track relief stays outside the rule — there the shame is Randi's to light, and Vee takes her own relief — but the line is genuinely gray, because the brunch material *is* Pace scenes. She passes the rule by description: the desire-object after a brunch is the *exposure* (being drawn out and caught wanting by Randi at the table), not the man, so the relief is *"the lunch undid me,"* not *"I want him."* She runs Pace's own clean-but-poisoned consent move on herself, points at her own technicality (cf. the PPP/Vee rationalization parallel). Not guilt, quite: a deliberate **not-looking**, because to examine it cleanly would surface the content as his and oblige the telling. Two guards: (1) keep the two charges texturally distinct on the page — *his*, summoned, direct (forbidden, banked) vs. diffuse, being-seen, Randi's voice, the heat of the table (permitted) — or the rule loses its teeth as all Pace-charge gets relabeled lunch-charge; (2) never let her state the distinction crisply, or the rationalization shows its seams (telegraphing). Body before mind: she feels the permission, she does not articulate the loophole.
@@ -92,7 +94,7 @@ The shame is constitutional and is not eliminated by the year. What changes is h
 
 ## The Secretions Reframe
 
-*(Primary scene where this operates: `the-fitting.md`. The bench is the foundational instance: `the-bench.md`.)*
+*(Primary scene where this operates: `the-fitting.md`. )*
 
 Not that Pace politely does not look. He looks. The reframe is that looking produces **delight** — her wetness as evidence that what he is doing is landing. He beams not despite it but at it.
 
@@ -150,8 +152,6 @@ The threesome is the catastrophic instance. She thought she wanted it. Some of t
 
 ## The Bravery as the Appetite's Executable
 
-*(First instance on the page: the campus collision in `the-pointing-game.md` — she executes it so precisely the redhead apologizes, and her feet do the small happy thing. Her appetite is already operating before she knows toward what.)*
-
 Vee's bravery is the operational form of her appetite for full aliveness. Each brave act is the appetite reaching for the not-fine. She is not consciously deciding to be brave; she is consciously responding to what her appetite has recognized, and the response requires overriding the shame. The overriding feels like bravery. It is bravery. *And* it is the executable of an appetite she did not choose.
 
 Each brave step is a step into the appetite's trap. She experiences only the step. The reader on second read sees the trap.
@@ -176,7 +176,7 @@ The kiss does not reveal previously-hidden feelings for Randi — those are not 
 
 She leaves without explaining. The people who could give her answers are the people whose answers she cannot now trust. If she confronts Pace, she produces his confused sincere defense of behavior he experienced as love. If she confronts Randi, Randi deflects or weaponizes. The exit-without-confrontation is not weakness. It is the only stable position available.
 
-She does not return for her panties. The artifact stays.
+She does not take for her panties. The artifact stays.
 
 ---
 
