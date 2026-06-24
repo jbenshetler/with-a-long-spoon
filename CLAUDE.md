@@ -12,7 +12,7 @@ IMPORTANT: When writing scene drafts, do not editorialize and do not telegraph.
 
 ## How this assistant works
 
-`novel-assistant/` is a small **recall-first search CLI** — `na.py` (SQLite + sqlite-vec + FTS5, local Ollama embeddings), with three commands: `search`, `reindex`, and `style` (a DB-free prose linter that flags style tics — literal phrases like "the way" and structures like "X, not Y" — over a draft or `scenes/`, against `novel-assistant/style-rules.toml`; `na.py style --help`). Style hits are recall-first (flag, don't fix); once you and the author agree a flagged hit is fine, `na.py style <path> --ack` suppresses it by a sentence fingerprint (re-shown with `--show-suppressed`, re-armed if the sentence is edited). Factual lookups go through the **`lore-keeper` subagent**, which queries `na.py search` and falls back to `rg`/Read (see **Research / lore delegation** below). Run `na.py reindex` at session start to keep the index fresh.
+`novel-assistant/` is a small **recall-first search CLI** — `na.py` (SQLite + sqlite-vec + FTS5, local Ollama embeddings), with three commands: `search`, `reindex`, and `style` (a DB-free prose linter that flags style tics — literal phrases like "the way" and structures like "X, not Y" — over a draft or `scenes/`, against `style/style-rules.toml`; `na.py style --help`; see **Style checking** below). Factual lookups go through the **`lore-keeper` subagent**, which queries `na.py search` and falls back to `rg`/Read (see **Research / lore delegation** below). Run `na.py reindex` at session start to keep the index fresh.
 
 ---
 
@@ -74,13 +74,25 @@ When committing a workshopped idea, write the agreed change into the relevant do
 
 If the author writes something and asks you to review it, delegate a continuity pass to the `lore-keeper` (quote their text in the prompt). Report what conflicts: the passage, the canon it contradicts, and the source. Never rewrite their text unless asked — "Found N issues: […]. Want me to suggest fixes?" If asked, suggest; don't apply. The author decides.
 
+### Style checking
+
+`novel-assistant/na.py style` is a prose linter that flags style tics — literal phrases (`the way`) and structures (`X, not Y`) — plus hard canon breaches. It is **recall-first: it flags, it never fixes**, and it over-flags on purpose. Use it as a review aid on drafted prose; the judgment stays with you and the author. It needs no index and no Ollama.
+
+- **Run it** on a drafted scene or a fresh draft: `novel-assistant/na.py style scenes/<slug>.md` — an explicit path works even before the scene is indexed. No path → all of `scenes/`; `--all` adds `meta/`. A natural moment is right after drafting/revising a scene.
+- **Read, don't obey.** Each hit is a *candidate*. Surface what's worth the author's eye — especially **clusters** (the density is the signal, not the lone hit) — and, exactly as with continuity, **never rewrite the author's prose off a hit unless asked.** The author decides.
+- **`never-name` (severity `error`) is not a tic — it's a canon breach.** Pace's neurodivergence must never be named on the page. Treat any `error` hit as a real violation to flag, not a style nicety.
+- **Accepting a hit (suppression).** When you and the author agree a flagged line should stand, suppress it so it stops nagging: `na.py style <path> --ack` (all hits in scope) or `--ack --fp <hash>` (one hit; the hash is the `[#…]` tag in the output), with `--note "why"`. Suppressed hits hide by default; `--show-suppressed` re-shows them (`✓`); `--unack --fp <hash>` / `--rule <id>` reverses. **Only run `--ack` once the author has signed off** — it records an authorial decision into the repo.
+- **Acceptance re-arms on edit.** It's anchored to the *sentence* by a content fingerprint, so it survives line shifts, reflow, and file renames, but re-arms the moment that sentence's wording changes — a re-flag after an edit is correct, not a regression.
+- **Config + decisions live in `style/`** (`style/style-rules.toml`, `style/style-allow.toml`) in the novel repo, versioned with the prose — a scene's accepted tics travel with it through checkouts and branches. Tune what's flagged by editing `style/style-rules.toml`; it encodes this book's voice (why `the way` is a tic) and canon (`never-name`).
+
 ---
 
 ## Repository layout
 
 - `meta/` — the planning corpus: thesis, per-character architecture, the relationship bible, the scene plan, and the SATC/threesome track docs. This is where the novel is *designed*.
 - `scenes/` — drafted prose. New chapters land here.
-- `novel-assistant/` — the recall-first search CLI (`na.py`) the lore-keeper queries.
+- `style/` — this book's style config + decisions, versioned with the prose: `style-rules.toml` (the linter's flagged tics + canon rules) and `style-allow.toml` (accepted hits). See **Style checking**.
+- `novel-assistant/` — the generic recall-first engine (`na.py`) the lore-keeper queries; holds no novel-specific data.
 
 There is no prose draft of most scenes yet; `meta/` is far ahead of `scenes/`. Most work is either (a) developing a planned scene into prose or (b) refining the architecture.
 

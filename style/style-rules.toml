@@ -1,0 +1,72 @@
+# style-rules.toml — prose style tics to flag for "With a Long Spoon".
+#
+# Recall-first: these FLAG, they do not fix. Many rules (especially the
+# structural regex ones) are deliberately high-recall and WILL catch legitimate
+# prose — that is the point. You read the density and decide. Tune freely.
+#
+#   kind = "phrase"  → literal text, matched on word boundaries, case-insensitive
+#                      (set case_sensitive = true to force exact case).
+#   kind = "regex"   → raw PCRE (the `regex` module). Use TOML '' literal strings
+#                      so backslashes need no escaping. Case-sensitive by default;
+#                      set case_insensitive = true, or prefix the pattern with (?i).
+#
+# Fields: id, kind, phrase|pattern, severity (error|warn|info), why,
+#         optional suggest, optional unless (suppress a hit if this pattern also
+#         matches the hit's line), optional scope (scenes|meta), optional case flags.
+
+# ---- Filtered / weak constructions -----------------------------------------
+
+[[rule]]
+id       = "the-way"
+kind     = "phrase"
+phrase   = "the way"
+severity = "warn"
+why      = "Filtered construction ('the way he…'); usually telling. Cut or recast into the direct image."
+
+[[rule]]
+id       = "filter-verbs"
+kind     = "regex"
+pattern  = '(?i)\b(?:she|he|they|i)\s+(?:could\s+)?(?:felt|saw|noticed|watched|realized|realised|sensed|heard)\b'
+severity = "warn"
+why      = "Filter verb distances the reader from sensation. 'Body before mind' — render the thing, not the perceiving of it."
+
+[[rule]]
+id       = "began-to"
+kind     = "regex"
+pattern  = '(?i)\b(?:began|started)\s+to\b'
+severity = "info"
+why      = "Throat-clearing aspect. 'She began to walk' → 'She walked.'"
+
+[[rule]]
+id       = "there-was-were"
+kind     = "regex"
+pattern  = '(?i)\bthere\s+(?:was|were)\b'
+severity = "info"
+why      = "Existential 'there was…' often buries the real subject. Consider recasting."
+
+# ---- Structural tics --------------------------------------------------------
+
+[[rule]]
+id       = "x-not-y"
+kind     = "regex"
+pattern  = '\b\w+,\s+not\s+\w+'
+severity = "info"
+why      = "Antithesis 'X, not Y' — fine once, a tic in bulk. Watch the density across the scene."
+
+[[rule]]
+id       = "not-x-but-y"
+kind     = "regex"
+pattern  = '(?i)\bnot\s+(?:\w+[\s,]+){1,6}but\b'
+severity = "info"
+why      = "'Not X but Y' antithesis (X may be several words) — same construction as x-not-y. Vary or cut if it clusters."
+unless   = '(?i)\bnot\s+only\b'   # 'not only … but also' is a correlative, not the tic
+
+# ---- Hard canon rules (never name, never explain) ---------------------------
+
+[[rule]]
+id       = "never-name"
+kind     = "regex"
+pattern  = '(?i)\b(?:autis\w*|asperger\w*|neurodiverg\w*|on the spectrum|diagnos\w*)\b'
+severity = "error"
+scope    = "scenes"
+why      = "CRAFT RULE: Pace's neurodivergence is NEVER named on the page — it lives only in behavior. Remove."
