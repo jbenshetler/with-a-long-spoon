@@ -1,0 +1,74 @@
+# style-allow.toml — acknowledged style hits (reviewed and accepted).
+# Each [[ok]] suppresses one (rule, sentence) by content fingerprint:
+# stable across line shifts and file renames; editing the sentence re-arms it.
+# Written by `na.py style --ack`; view hidden hits with `--show-suppressed`.
+
+[[ok]]
+fp   = "3fb15f593011"
+rule = "the-way"
+file = "scenes/bb-weekend.md"
+text = "He stood in nothing but a pair of boxers — bare otherwise, as bare as she nearly was — and held out his hand to her, palm up, the way a man asks for a dance."
+note = "Working simile doing real image work (porch/cold; a man asks for a dance; held in cupped hands), not filtered telling."
+
+[[ok]]
+fp   = "40a6c098e046"
+rule = "the-way"
+file = "scenes/bb-weekend.md"
+text = "His palm settled over the curve of her, the whole warm span of his hand, and just held her, the way you'd hold something in cupped hands, and stayed, not moving, until she felt the heat of it soak all the way in."
+note = "Working simile doing real image work (porch/cold; a man asks for a dance; held in cupped hands), not filtered telling."
+
+[[ok]]
+fp   = "440e72b5416f"
+rule = "the-way"
+file = "scenes/bb-weekend.md"
+text = "The fire had eaten the cold out of it; the windows had gone dark and the firelight had come up in their place, low and orange and moving on the walls, and the small space held the warmth the way the porch had held the cold."
+note = "Working simile doing real image work (porch/cold; a man asks for a dance; held in cupped hands), not filtered telling."
+
+[[ok]]
+fp   = "4c3b1af307d9"
+rule = "the-way"
+file = "scenes/bb-weekend.md"
+text = "Let me see the whole of you again, all at once, the way I started.\""
+note = "Pace's dialogue — his cataloguing cadence as he names her body; voice, not narrative telling. Do not sanitize."
+
+[[ok]]
+fp   = "66b7e35f35bb"
+rule = "the-way"
+file = "scenes/bb-weekend.md"
+text = "The way you come in here, this deep curve, this cinch."
+note = "Pace's dialogue — his cataloguing cadence as he names her body; voice, not narrative telling. Do not sanitize."
+
+[[ok]]
+fp   = "80d5be719458"
+rule = "the-way"
+file = "scenes/bb-weekend.md"
+text = "And he bent the last inch and laid his mouth to her there, on the bare rise of her, a kiss, slow and closed and reverent, his breath spreading hot, and she felt it go all the way up through her and heard the small broken sound come out of her own throat, and her hands came down to his shoulders to keep from going over."
+note = "Contrast ('the way another man would have') / 'all the way' idiom — not the filtered-construction tic; linter false positive."
+
+[[ok]]
+fp   = "8da7fac19d78"
+rule = "the-way"
+file = "scenes/bb-weekend.md"
+text = "He did not flinch from the cold of her the way another man would have."
+note = "Contrast ('the way another man would have') / 'all the way' idiom — not the filtered-construction tic; linter false positive."
+
+[[ok]]
+fp   = "8df83da1cfbe"
+rule = "the-way"
+file = "scenes/bb-weekend.md"
+text = "The way it moves, the way it settles, every time."
+note = "Pace's dialogue — his cataloguing cadence as he names her body; voice, not narrative telling. Do not sanitize."
+
+[[ok]]
+fp   = "901073f05b78"
+rule = "the-way"
+file = "scenes/bb-weekend.md"
+text = "The way it goes in here, at the waist, and out again — there's no flat place in it anywhere, nothing for a hand to rest on, so a hand never does; it just gets drawn the whole way down."
+note = "Pace's dialogue — his cataloguing cadence as he names her body; voice, not narrative telling. Do not sanitize."
+
+[[ok]]
+fp   = "ccd51b320f5e"
+rule = "the-way"
+file = "scenes/bb-weekend.md"
+text = "It's the thing that makes all the rest of you read the way it does."
+note = "Pace's dialogue — his cataloguing cadence as he names her body; voice, not narrative telling. Do not sanitize."
