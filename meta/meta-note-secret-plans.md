@@ -99,6 +99,13 @@ Later, Randi "jokes" to Pace that **she, too, has secret plans she won't reveal*
 - **The seam-guard for the retell.** Pace using *devices in costume* is, on its face, Randi's register — the most-protected distinction in the book. The **frame-dissolve** is what protects you: in the retell Vee conveys not "Pace did a fun prop scene" but *"I thought it would be a game, and then he—"* — the realness that undid her *through* the costume. Keep the retell foregrounding the **dissolve**, not the gadgets, and the seam holds (and is reinforced: even theatrical, Pace was real; Randi never could be).
 - **No telegraphing Randi.** The brunch and the joke must read as warm/fun/flirty first; suspicion kills arousal.
 
+## Running threads — seed decision
+
+Per the step-1a discipline (decide, don't auto-plant), the cross-scene threads checked against this scene:
+
+- **Taste thread** (`meta-note-taste-thread.md`) — **no gate here.** Placement (~late March/early April) sits between The Reach (~late Jan) and First Taste (~late spring), in the window where The Telling (#3) and The Almost (#4) ride other scenes — but **not this one.** Reasons: the scene's foreground is already loud and heavily freighted (the authorship irony, the device seam-risk, the Randi downstream), and the afterglow is committed to arming the "secret plans" phrase; layering *"what do I taste like?"* on top would crowd it and read as dutiful. The staircase gates want a *quieter* host. **Eligible, optional:** a single recurring **Leak/Relish** passenger — an afterglow clean-mouthed kiss in a subordinate clause, or his relish for her surfacing as the frame dissolves — *if* the drafter wants pulse in this window. Minor key only, never the foreground; default is to carry nothing and let a calmer scene host the next gate.
+- **Other threads** — the sole-channel / "he becomes her eyes" motif needs a blindfold (none here); the scent thread is Randi-track. Neither touches this scene.
+
 ## Continuity / placement
 
 - **Replaces Nipple Clamps (~March).** What that scene carried, rehomed:
