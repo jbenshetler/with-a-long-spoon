@@ -1,6 +1,6 @@
-# The B&B Weekend
+# The Cabin Weekend
 
-*The pivot — the key and the watched exposure. Vee's POV. ~late February. Arrival drafted; remainder unwritten. See `meta/meta-note-bb-weekend.md`.*
+*The pivot — the key and the watched exposure. Vee's POV. ~late February. Arrival drafted; remainder unwritten. See `meta/meta-note-cabin-weekend.md`.*
 
 ---
 
@@ -84,7 +84,7 @@ There was nowhere to be and nothing to rush toward. He undressed her slowly in t
 
 ---
 
-*[Saturday: morning coffee and the key on the porch, the daylight overflow, the easy walk down to the lake, the plum lingerie given when they came in, the warm wash — planned, not yet drafted. See `meta/meta-note-bb-weekend.md`. The draft resumes in the late afternoon.]*
+*[Saturday: morning coffee and the key on the porch, the daylight overflow, the easy walk down to the lake, the plum lingerie given when they came in, the warm wash — planned, not yet drafted. See `meta/meta-note-cabin-weekend.md`. The draft resumes in the late afternoon.]*
 
 ---
 

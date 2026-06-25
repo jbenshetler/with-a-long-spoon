@@ -6,7 +6,7 @@ A workshop-committed scene. The diptych is **The Ask** (Vee asks) and **The Prin
 
 ## The spine (the one thing to internalize)
 
-This is **the first scene Vee authors.** Canon has her *initiating* before — striding to him bare at the Dress Pickup, texting first at We Find Out, electing her own exposure at the B&B — but never *imagining a whole scene and handing it to him to stage.* Scheming requires imaginative authorship; that doesn't appear earlier. So "first time Vee schemes" holds, and it's a real new rung in her agency.
+This is **the first scene Vee authors.** Canon has her *initiating* before — striding to him bare at the Dress Pickup, texting first at We Find Out, electing her own exposure at the cabin — but never *imagining a whole scene and handing it to him to stage.* Scheming requires imaginative authorship; that doesn't appear earlier. So "first time Vee schemes" holds, and it's a real new rung in her agency.
 
 Why it's more than "she gets confident": the whole book runs on Pace and Randi orchestrating Vee — she's the one who cannot see the shape of what she's in. This is the **one time she holds the pen.** And what does she write? A scenario in which she is *chased, captured, stripped, and broken.* The first time she gets to direct, she casts herself as the captive and hands Pace the controls. **Her authorship and the machinery are the same act** — first read, brave and fun; reread, she authored her own deeper surrender. This is the "adventure"-word logic made literal (she coined the joy-word that later walks her in blind), and a **rehearsal of the rationalization-frame** she'll use to walk into the threesome (build a fiction that lets you want what you can't say plainly). Never stated on the page — resonance only.
 
@@ -16,7 +16,7 @@ Why it's more than "she gets confident": the whole book runs on Pace and Randi o
 
 - A quiet, warm domestic beat (afterglow, or a low-key evening). Small and brave, not a production.
 - **She hands Pace the premise, not a script.** She names the shape — space princess, chased, caught, stripped, "interrogated" for **secret plans she'll never reveal** — and leaves the **"torture" unspecified** (*you decide*). Pace designs the rest. (This is also the practical hinge for drafting: *what* the torture is can be tuned to wherever the physical staircase actually stands when the scene is written.)
-- **The bidirectional "adventure" pays off here.** She coined it (Painting Afternoon); Pace pointed it forward as a consent-gateway (B&B); now **she** uses it to invite *him*. Keep it a handshake, not a leash — her agency. Sparse, unwinking; never named as a code.
+- **The bidirectional "adventure" pays off here.** She coined it (Painting Afternoon); Pace pointed it forward as a consent-gateway (the cabin); now **she** uses it to invite *him*. Keep it a handshake, not a leash — her agency. Sparse, unwinking; never named as a code.
 - **Voice guard (the Peaches trap).** The roleplay is "easy for Vee" — but *easy* means she inhabits it **bodily and emotionally**, not that she gets verbally clever. Witty banter is borrowed register and shows as a seam. The persona is easy at *entry* because it is **cover** — as "the princess" she can be brazen, can play at wanting, in a way she can't as herself (same machinery as "it's about adventure": a frame that lets her permit herself). Keep the ask shy-brave and plain; let the blush carry it. She's confessing a fantasy, not pitching a screenplay.
 
 ## [EVENT] Pace Builds (off-page, never rendered)
@@ -33,7 +33,7 @@ Like the Drawer's first visit, this lives off-page — it protects the surprise 
 
 ### The chase
 
-- **Outdoors on his private land, a warm afternoon, full daylight** (the property is established as private; warmth is why it's late-March/April). Continues the **daylight-hinge** thread — full-sun exposure on open ground, the same "no darkness to hide in" the B&B blazon used.
+- **Outdoors on his private land, a warm afternoon, full daylight** (the property is established as private; warmth is why it's late-March/April). Continues the **daylight-hinge** thread — full-sun exposure on open ground, the same "no darkness to hide in" the cabin blazon used.
 - **The running is the first exposure.** The costume reveals in motion, so she undresses to his eye *by fleeing*, before he lays a hand on her. Pieces torn loose as he grabs and comes away with fabric, not her — exposure starts mid-flight, a staircase before the capture.
 - **A swat or two landed in passing** jolts her stride and lets him gain — his signature (the First Swat, the bench) deployed in a brand-new kinetic occasion.
 - **Pace stiff → warming.** Canon-true twice: his power is *real*, not theatrical, so of course he's stiff at performance; and his warming is his signature responsiveness (craft doc: "something moves in him, his attention slides toward what she just produced"). He catches the bit **because she's lit by it.** This inverts the usual lead/follow — she's fluent in the fiction, he catches up — the agency-inversion rendered in the texture of the scene.
@@ -113,7 +113,7 @@ Per the step-1a discipline (decide, don't auto-plant), the cross-scene threads c
   2. **Told to Randi at SATC** → the brunch retell (above), now *more* loaded (an authored retell).
   3. **Randi later wants them for herself** → survives via the clamps appearing as torture and the retell.
 - **The clamp *sensation* is not lost** — clamps remain available within the torture menu (the bible's shame-staircase "clamps/bondage, sustained awareness" beat is satisfied inside this scene).
-- **Dates (chronology owns these):** The Ask ~mid-late March; Pace Builds off-page ~the following week; The Princess ~late March / early April (a warm afternoon); brunch retell within days; the Randi→Pace joke ~April, slot TBD (flag 16). Builds correctly on the agency staircase: B&B (made the agent of her own exposure; Permission Rule installs) → she authors a whole scene.
+- **Dates (chronology owns these):** The Ask ~mid-late March; Pace Builds off-page ~the following week; The Princess ~late March / early April (a warm afternoon); brunch retell within days; the Randi→Pace joke ~April, slot TBD (flag 16). Builds correctly on the agency staircase: the cabin (made the agent of her own exposure; Permission Rule installs) → she authors a whole scene.
 - **Threesome resonances (submerged, never on the page):** she practices the **permission-fiction** (authoring a frame that lets her want what she can't say) — the exact mechanism she'll walk into the threesome on; the recurring failed grab pre-rhymes the stripping of every frame; the MacGuffin-as-unspoken-yes pre-echoes her never naming the threesome desire.
 
 ## To propagate / still open
