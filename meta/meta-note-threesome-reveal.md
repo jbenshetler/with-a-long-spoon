@@ -24,7 +24,7 @@ Wants Vee — has since the pointing game (*not just a body but a person, and so
 
 ### Vee
 
-Doesn’t know it’s a plan, doesn’t know it’s a domino. Consents to a threesome with a woman, blindfolded, **explicitly saying she doesn’t want to know who until it’s over — and possibly asking for the blindfold herself.** Why she asks: it’s the **culmination of everything Pace taught her** — *don’t think, just feel the lead*; surrender; being in the experience rather than controlling it; the bondage lesson (restraint removes the question of what to do with her hands — a gift for someone whose shame is involuntary response). **Her wound:** her own liberation — the real, beautiful thing she became — is what walks her into the dark voluntarily. She laid the final board of the trap herself.
+Doesn’t know it’s a plan, doesn’t know it’s a domino. Consents to a threesome with a woman, blindfolded, **explicitly saying she doesn’t want to know who — or when; she asks to be surprised — until it’s over, and asking for the blindfold herself.** Why she asks: it’s the **culmination of everything Pace taught her** — *don’t think, just feel the lead*; surrender; being in the experience rather than controlling it; the bondage lesson (restraint removes the question of what to do with her hands — a gift for someone whose shame is involuntary response). Not-knowing-*when* is the terminal riser of that surrender — pride, then grounding, then knowing itself, all set down (see `meta-note-first-weekend-back.md` → the staircase of surrender, and → the death of safety). **Her wound:** her own liberation — the real, beautiful thing she became — is what walks her into the dark voluntarily. She laid the final board of the trap herself.
 
 -----
 
@@ -62,13 +62,23 @@ She’s had it from the first kiss (the eye contact she actually remembers; admi
 - **Introduction:** Pace plants the idea as observation, not proposal. Reads her body’s response (≠ her ideological response). Doesn’t push. She brings it to Randi (confidante architecture fully operational). Randi’s most carefully controlled move: walks Vee toward it without appearing to. Reports to Pace: *“She’s thinking about it.”* His face; a beat; he nods. Still believes it’s a favor — he has known since the pointing game that the wanting is Randi’s; the blindness is to the sadism and the cost, not the desire.
 - **The falling out (Randi/Vee):** Randi crosses from EXPOSURE into EVALUATION — the one register Vee can’t tolerate (found wanting, not found). Vee withdraws without being able to name why. Randi doesn’t pursue (her most controlled, costly move); a casual text that asks nothing; a week or two. Vee comes back because the pull exceeds the discomfort. The uncrossable line crossed and forgiven — Randi updates her model of how far she can go. **Timing: close to the threesome**, so the friendship feels recently reaffirmed when the blindfold goes on — the betrayal lands harder for it.
 
+### The blindfold, normalized (the surprise mechanism)
+
+After the agreement — **not before** (the cabin install stands; pre-agreement the cloth means only surrender/adoration) — the blindfold becomes a recurring part of Pace/Vee sex: **some nights, not every night.** Because she’s consented to a *blindfolded, surprise* threesome (she won’t know the day), every appearance of the cloth now carries a second meaning: *will it be tonight?* One mechanism, three jobs:
+
+- **Kills the tell.** On the actual night the blindfold goes on exactly as it has a dozen times; nothing about the evening announces itself, because the gesture is routine and the not-knowing is the norm.
+- **Preserves the surprise.** She never knows which blindfolded night is *the* night, so the real one arrives unbraced.
+- **Climbs, not flattens.** Each *will I tonight?* ratchets the anticipation up — consistent with the appetite that climbs all season; this is not a flatness thread, it’s escalating heat in the not-knowing.
+
+**Hybrid — routine AND chosen.** Normalizing the cloth does not cost *the blindfold she asked for* in the reconstruction: she still affirms it each time, gladly, the surrender so internalized it’s become her comfort. Hindsight sharpens rather than dulls — not one brave climactic ask but a surrender so total she doesn’t even mark the day. **What drives the normalization, submerged:** the structural-safety wound opened at First Weekend Back (`meta-note-first-weekend-back.md` → the death of safety) — she fills the lost ground with ever-deeper surrender, beneath her awareness; the recurring blindfold is that filling made visible. Render the *why* nowhere on the page (body before mind); she names none of it until the reconstruction.
+
 -----
 
 ## RENDERING THE THREESOME — THE MECHANICS
 
 ### POV: inside the blindfold (Vee’s sensory vantage)
 
-NOT to hide the partner’s identity from the **reader** — the reader has known it’s Randi for hundreds of pages (they’ve seen the plan form, the pointing game). **The suspense is DREAD, not mystery** — the call from inside the house. The reader, fully informed, watches Vee ask for the blindfold (her growth!), put it on, surrender, and enjoy it. Every second of her pleasure is a countdown the reader feels.
+NOT to hide the partner’s identity from the **reader** — the reader has known it’s Randi for hundreds of pages (they’ve seen the plan form, the pointing game). **The suspense is DREAD, not mystery** — the call from inside the house. The reader, fully informed, watches Vee ask for the blindfold (her growth — by now her routine; see *the blindfold, normalized*), put it on, surrender, and enjoy it. Every second of her pleasure is a countdown the reader feels.
 
 ### What Vee can and cannot tell — the two-tier structure
 
@@ -122,7 +132,7 @@ The act essentially complete (blindfold comes off *after*). A register shift sig
 Sequence: recognition → retroactive reconstruction → physical awareness → shame → anger → **friendship betrayal (hits harder than romantic).** Multiple beats of silence first.
 
 - **Render through her BODY, not named emotions.** The image hits; her body answers; the reader reads the body. Naming the feelings would be the prose flinching.
-- The reconstruction runs BACKWARD through the whole novel: the goodbye kisses (she kept them, deepened them — no one to blame), the SATC questions, the planted clues (Randi the whole time), the dance (where her body learned Randi’s touch), the cabin (the key, and being watched — an exposure-domino), First Taste and tasting herself (preparation, a domino), the ivory nightie (love AND clearing a domino), the blindfold she asked for. Nothing survives clean.
+- The reconstruction runs BACKWARD through the whole novel: the goodbye kisses (she kept them, deepened them — no one to blame), the SATC questions, the planted clues (Randi the whole time), the dance (where her body learned Randi’s touch), the cabin (the key, and being watched — an exposure-domino), First Taste and tasting herself (preparation, a domino), the ivory nightie (love AND clearing a domino), the blindfold she asked for and the surprise she asked for. Nothing survives clean.
 - **The genuine suspense, withheld even from the reader:** not *who* (known) but *what will this do to her* — whether the transformed Vee metabolizes it as catastrophe or as final liberation. Her physical behavior here tells the reader **who she has become.** That’s the question the whole novel has been asking.
 
 -----
