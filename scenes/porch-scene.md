@@ -1,6 +1,6 @@
 # The Porch Scene — Cracker-and-Meal
 
-*(Revised against v6/v7 Pace architecture. Mid-novel; sits between Bondage and the Christmas fight. Vee's POV. Pre-dawn, enclosed porch at his house, after a night that has reached the depth bondage and the SATC reports have been building toward. Quiet beat. Load-bearing as a grain in the sand-in-the-gears reservoir that surfaces at Christmas. The figure — Vee saying she had been eating crackers and Pace fed her a meal — appears once and does not return in the novel.)*
+*(Revised against v6/v7 Pace architecture. Mid-novel; before the Christmas fight. Vee's POV. Pre-dawn, enclosed porch at his house, after a night that has reached the depth the SATC reports have been building toward. Quiet beat. Load-bearing as a grain in the sand-in-the-gears reservoir that surfaces at Christmas. The figure — Vee saying she had been eating crackers and Pace fed her a meal — appears once and does not return in the novel.)*
 
 ---
 
