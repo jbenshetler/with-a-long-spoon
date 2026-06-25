@@ -1,6 +1,6 @@
 # Notes — The First Love (and the Telling)
 
-*Holds two things: the backstory canon of Pace's first relationship, and the craft intent for the one scene where he tells Vee about it. Pairs with `meta-note-scar-reveal.md` — its sibling spring confession — and with the love-wound architecture in `meta-arch-bible.md` / `meta-arch-pace.md`, which this note revises (see **Rule changes** below).*
+*Holds two things: the backstory canon of Pace's first relationship, and the craft intent for the one scene where he tells Vee about it. Pairs with `meta-note-scar-reveal.md` — its sibling confession — and with the love-wound architecture in `meta-arch-bible.md` / `meta-arch-pace.md`, which this note revises (see **Rule changes** below).*
 
 ---
 
@@ -19,16 +19,16 @@ It makes him **the powerless one** — the younger, the minor, the boy with no s
 
 ## The telling (the scene)
 
-Spring, Vee POV close third (his read stays unrendered — standard). Pace tells her, in his own voice, about the first relationship.
+Late summer — after The Peaches, the last Pace/Vee two-hander before the threesome — Vee POV close third (his read stays unrendered — standard). Pace tells her, in his own voice, about the first relationship.
 
 - **The heartbreak is visible; the vow is never named.** He tells what happened, not the conclusion he drew from it. The reader who has the architecture feels the vow light up by resonance; no one says it. This is what keeps "never explain" intact while putting the wound *out there for the reader.*
 - **Voice: contained, but the sadness shows — and Vee reads it.** This is *not* the scar's register (`meta-note-scar-reveal.md`). Both wounds are unhealed; they present differently. The scar he's **walled off** — buried, never worked through, scar tissue over something still infected — so it comes out flat, sealed too deep to feel. The first love is a grief he can let *leak*: a sayable kind of pain, so it shows even as he holds it, and she catches what he's holding. **The containment is the tell, not an absence of feeling.** He still doesn't narrate his own pathos or frame himself as the boy-genius-minor — he tells it plain and undersells it, and **Vee (and the reader) do the math** on how young and alone he was; the contained sadness does the rest. Not a performance, no weeping — held, not spilled — but the pain is *visible*, and that visibility is essential, not optional.
 - **Why the sadness is load-bearing.** Without readable pain he's a robot, not the injured child in the gorilla suit (the powerlifter with his own money who the women like — the suit is real too). The refusal to say *I love you* only reads as a **wound** rather than a cold control technique if the reader has *seen* the wound bleed once. This telling is where the vow gets reclassified from maneuver to injury — which is also what keeps "real AND instrumental, never resolved" from flattening into villainy.
 - **What it does on each read.** First: a powerless, isolated kid loses his one human connection and never recovers his footing — she falls a little harder for him. Second: the powerlessness is the seed of the control that's working on her right now, and *left for no reason I could name* is the exact blindness he's repeating. The telling makes him more sympathetic **and** arms the irony; it never exonerates the plan, because he never connects the wound to the vow or to what he's doing to Vee.
 
-## Rule changes (flag before committing)
+## Rule changes (applied in canon)
 
-This revises standing canon. Both want a small edit to `meta-arch-bible.md` and `meta-arch-pace.md`:
+These revise standing canon, now applied in `meta-arch-bible.md` and `meta-arch-pace.md`:
 
 1. **Split the single "first love" into two relationships** (above). The vow's "empirical proof" attaches to the **first** (age-15) wound; the coded-channel set-piece stays with the **second**.
 2. **Relax "keep the first love almost entirely offscreen."** New rule: *the first love surfaces once, told by Pace to Vee — heartbreak visible, the lesson/vow never stated.* The "offscreen" discipline still governs everywhere except that one telling.
@@ -37,11 +37,11 @@ The vow's climax is untouched: it still breaks only **after she's gone, to no on
 
 ## Don't fuse with the scar
 
-The scar origin (`meta-note-scar-reveal.md`) is the sibling spring confession, but the two run at **different temperatures** — both unhealed, the scar walled flat, this one bleeding sadness. Resist co-locating them in one night-the-vault-opens scene: back-to-back confessions over-soften him and read as a sympathy-dump, and stacking the sealed one against the leaking one blurs the contrast that distinguishes them. Separate occasions. Placement open.
+The scar origin (`meta-note-scar-reveal.md`) is the sibling confession, but the two run at **different temperatures** — both unhealed, the scar walled flat (spring), this one bleeding sadness (late summer). They're placed months apart by design: back-to-back confessions would over-soften him and read as a sympathy-dump, and stacking the sealed one against the leaking one blurs the contrast that distinguishes them.
 
 ## Cross-refs
 
 - `meta-arch-bible.md` — the love-wound (three-source convergence); the vow; "real AND instrumental, never resolved."
 - `meta-arch-pace.md` — first love as formative wound / origin of the long-range planner; the after-she-leaves reckoning (the grammar that can't revise itself).
-- `meta-note-scar-reveal.md` — sibling spring confession; same voice guard.
-- `meta-plan-chronology.md` — placement (TBD; spring).
+- `meta-note-scar-reveal.md` — sibling confession (the scar, spring); the temperature-contrast guard.
+- `meta-plan-chronology.md` — **The First Love** (~late July / early August, after The Peaches, before the threesome).

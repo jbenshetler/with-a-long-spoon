@@ -1,6 +1,6 @@
 # Notes — The Scar (Two-Step Reveal)
 
-*The cross-scene thread that cashes out the hip scar: a quick verbal deferral in the fall, a plain telling in Pace's voice in the spring. Pairs with `meta-note-first-love.md` (its sibling spring confession). The scar's physical form and origin are canon-locked in `meta-arch-bible.md` / `meta-arch-pace.md` — this note owns only the reveal, not the facts.*
+*The cross-scene thread that cashes out the hip scar: a quick verbal deferral in the fall, a plain telling in Pace's voice in the spring. Pairs with `meta-note-first-love.md` (its sibling confession, in late summer). The scar's physical form and origin are canon-locked in `meta-arch-bible.md` / `meta-arch-pace.md` — this note owns only the reveal, not the facts.*
 
 ---
 
@@ -13,7 +13,7 @@ The scar is already planted unspoken (traced at First Night, touched at We Find 
 
 ## Step 1 — on the porch
 
-Place the deferral on **the porch**, the scene where he gives his real name (*Peter*). The contrast is the point: the porch is the one place he hands over a hard truth, so the scar he *won't* give even there is marked as the deepest vault in the house — deeper than the name. The spring telling then completes the porch's unfinished business, and can lean on the beat: *on the night he gave me his name, he wouldn't give me this.*
+Place the deferral on **the porch** — Rock (~late Oct), the scene where he gives his real name (*Peter*). The contrast is the point: the porch is the one place he hands over a hard truth, so the scar he *won't* give even there is marked as the deepest vault in the house — deeper than the name. The spring telling then completes the porch's unfinished business, and can lean on the beat: *on the night he gave me his name, he wouldn't give me this.*
 
 Keep it **small** — a few words, she presses, he closes it gently, done. The porch already carries the name; the scar ask is a quiet withholding underneath it, not a scene of its own. A flat, kind deflection (*not tonight* / a plain redirect), no drama, no visible flinch he's managing.
 
@@ -25,18 +25,18 @@ Spring, Vee POV close third (his read unrendered).
 - **The same-shape resonance stays unstated.** He describes being used for someone's experience without his say; he never connects it to himself, to his own checklist, or to Vee. **The reader connects it** — and the cold drop is the reader watching him narrate his own wound while reproducing it blind. This is the safe form of "more sympathetic": the understanding deepens the irony instead of buying him an exit. Never say it on the page (resonance only — the standing rule).
 - **What she's doing vs. what she gets.** She came looking for a chink; what she finds makes her love him more. Sympathy on her read, dread on the reader's, same words.
 
-## Rule changes (flag before committing)
+## Rule changes (applied in canon)
 
 1. **The origin gets spoken once.** Canon has the bike-dragging "surface obliquely, in fragments, never as a monologue." New carve-out: *the one spring telling to Vee is the sanctioned exception* — and it stays inside the rule's spirit because it's plain and undramatic, an account, not a monologue of self-pity. Everywhere else the fragmentary discipline holds.
-2. **Register the thread.** Add a running-threads entry in `meta-arch-bible.md` (alongside the taste thread): *Scar reveal — porch deferral (fall) → plain telling (spring); same-shape unstated; Pace's flat voice.* Trigger is narrow (these two slots only), so the registry line is mostly a guard against seeding it anywhere else.
+2. **Registered as a running thread** in `meta-arch-bible.md`, alongside the taste thread: porch deferral (fall) → plain telling (spring); same-shape unstated; Pace's flat voice. Narrow trigger (these two slots only), so the line is mostly a guard against seeding it anywhere else.
 
 ## Don't fuse with the first-love telling
 
-The two spring confessions run at **different temperatures** — both unhealed, but the scar comes out sealed-flat while the first love bleeds readable sadness (see `meta-note-first-love.md`). Keep them on **separate occasions**: two true hard things in one scene over-soften him and read as a sympathy-dump, and stacking the sealed telling against the leaking one blurs the contrast.
+The two confessions run at **different temperatures** — both unhealed, but the scar comes out sealed-flat (spring) while the first love bleeds readable sadness (late summer); see `meta-note-first-love.md`. They sit on **separate occasions** months apart by design: two true hard things in one scene over-soften him and read as a sympathy-dump, and stacking the sealed telling against the leaking one blurs the contrast.
 
 ## Cross-refs
 
 - `meta-arch-bible.md` / `meta-arch-pace.md` — scar physical form, the bike-dragging origin, the same-shape rule (carelessness suffered → carelessness reproduced).
 - `meta-condensed-first-night.md` — the plant ("returns later"; do not explain there).
-- `meta-note-first-love.md` — sibling spring confession; shared voice guard.
-- `meta-plan-chronology.md` — porch (Step 1) is placed; Step 2 placement TBD (spring).
+- `meta-note-first-love.md` — sibling confession (the first love, late summer); the temperature contrast.
+- `meta-plan-chronology.md` — Step 1 rides **Rock** (~late Oct, the porch/name scene); Step 2 is **The Scar** (~April).
