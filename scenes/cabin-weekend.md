@@ -206,9 +206,11 @@ She nodded. She nodded before the question was all the way out of him, her hips 
 
 "Go ahead."
 
-For a moment she didn't understand it, because his hands didn't come. She stood with her face lifted and her body offered and the warm space in front of her stayed empty, his heat not arriving, and the wanting in her swung once, hard, with nowhere to land.
+At first she didn't understand it, because his hands didn't come. She stood with her face lifted and her body offered and the warm space in front of her stayed empty, his heat not arriving, and the wanting in her swung once, hard, with nowhere to land.
 
-Something went cold under the heat. Her mouth opened on a question and there was no question she could make herself say; she had no word for the thing he was asking that she could put in the air between them. A small sound came out of her instead, helpless, and she looked to the left and then to the right with sightless eyes, searching for a savior.
+She waited inside it, certain it would give. This was a held breath, that was all — his hands a beat behind his voice, the way they sometimes were; he was drawing it out, making her wait the way he liked to make her wait, and any second now the warmth would step in against her and she would feel foolish for the half-second she'd spent not following. She kept her face tipped up toward where he had been, offered, patient, the wanting still aimed where his body should have been, and waited to be let in on it.
+
+It didn't give. The silence held past the length of any held breath, past teasing, past anywhere her warm readings could reach, and something went cold under the heat. Her mouth opened on a question and there was no question she could make herself say; she had no word for the thing he was asking that she could put in the air between them. A small sound came out of her instead, helpless, and she looked to the left and then to the right with sightless eyes, searching for a savior.
 
 He didn't help her. He didn't move, didn't fill the silence, didn't take it back. He only waited, and the waiting was its own pressure, gentle and total, and under it the ache went on without her leave, building on the heat his words and his hands and his mouth had left, until standing still cost her more than moving would.
 
