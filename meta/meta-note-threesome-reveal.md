@@ -16,7 +16,7 @@ Three people, one bed, **three simultaneous self-administered betrayals** — ea
 
 ### Pace
 
-Wants the messy, sticky, sharing-all-around threesome — genuinely. Also: **the dominoes.** He knows he’ll never get Vee into that threesome if she won’t first cross her own shame lines — the clearest gate being whether she’ll taste her own fluids (hetero, on him). *If she won’t taste herself on his penis, she won’t taste another woman.* **First Taste** (~late spring) is, underneath the genuine love, the calculated environment for moving that specific obstacle; the **B&B** clears an earlier one — being watched, the agent of her own exposure. **His wound:** he commits a betrayal he never computes (see “Pace’s blindness” below), and his proudest possession — the consent architecture that made him not-his-father — turns out to have a hole he aimed Vee straight through.
+Wants the messy, sticky, sharing-all-around threesome — genuinely. Also: **the dominoes.** He knows he’ll never get Vee into that threesome if she won’t first cross her own shame lines — the clearest gate being whether she’ll taste her own fluids (hetero, on him). *If she won’t taste herself on his penis, she won’t taste another woman.* **First Taste** (~late spring) is, underneath the genuine love, the calculated environment for moving that specific obstacle; the **cabin** clears an earlier one — being watched, the agent of her own exposure. **His wound:** he commits a betrayal he never computes (see “Pace’s blindness” below), and his proudest possession — the consent architecture that made him not-his-father — turns out to have a hole he aimed Vee straight through.
 
 ### Randi
 
@@ -30,20 +30,20 @@ Doesn’t know it’s a plan, doesn’t know it’s a domino. Consents to a thre
 
 ## THE EVOLUTION INTO THE THREESOME
 
-### The B&B weekend (the pivot — the answer to the fight)
+### The cabin weekend (the pivot — the answer to the fight)
 
-A quiet peak before the threesome pressure begins — the relationship at fullest flower. Pace’s answer to the Thanksgiving/Christmas fight, on his own terms (he can’t answer the mother’s question verbally; the weekend is the answer): **a key to his house**, in a handmade oiled-wood box. The transgression is the **watched masturbation** — she’s made the agent of her own exposure — and the **Permission Rule installs** here (tell, not ask; the loophole later routes Randi’s gaze into her solitude). The “adventure” code-word — coined earlier at the Painting Afternoon (Vee’s joyful throwaway) — gets its **first use as an invite** here (Pace points it forward as a consent-gateway). Full design: `meta-note-bb-weekend.md`. Placement: after the friends dinner and after bondage/clamps have run.
+A quiet peak before the threesome pressure begins — the relationship at fullest flower. Pace’s answer to the Thanksgiving/Christmas fight, on his own terms (he can’t answer the mother’s question verbally; the weekend is the answer): **a key to his house**, in a handmade oiled-wood box. The transgression is the **watched masturbation** — she’s made the agent of her own exposure — and the **Permission Rule installs** here (tell, not ask; the loophole later routes Randi’s gaze into her solitude). The “adventure” code-word — coined earlier at the Painting Afternoon (Vee’s joyful throwaway) — gets its **first use as an invite** here (Pace points it forward as a consent-gateway). Full design: `meta-note-cabin-weekend.md`. Placement: after the friends dinner and after bondage/clamps have run.
 
 ### First Taste (the self-taste gate falls)
 
 The self-taste crossing — the ivory nightie and the tasting-herself sequence — is the domino that tips Vee from *thinking about it* to proceeding. It belongs to the year-long self-taste thread (the conflation *female wetness = lesbian = wrong*, routed through her own body first so the step to another woman loses its tallest riser), and is owned in full by **`meta-note-taste-thread.md`** — beat-spine, planting discipline, and the First Taste scene mechanics. The reveal-reconstruction below runs back through it.
 
-### The peaches scene (moved LATER — now post-B&B; functions as the second fight)
+### The peaches scene (moved LATER — now post-cabin; functions as the second fight)
 
-Restructured so it follows the B&B emotional peak. The gap between best-weekend-of-her-life and brattishly refusing what he made for her is wider and more painful here. **This replaces the need for a separate vaguely-defined “second fight”** — it’s concrete, imagistic, and the repair is *active* (she drives toward him with escalating boldness, rather than time merely passing).
+Restructured so it follows the cabin emotional peak. The gap between best-weekend-of-her-life and brattishly refusing what he made for her is wider and more painful here. **This replaces the need for a separate vaguely-defined “second fight”** — it’s concrete, imagistic, and the repair is *active* (she drives toward him with escalating boldness, rather than time merely passing).
 
 - Refusal → his quiet eating of his portion, no performed hurt → she doesn’t spend the night (first time) → defensive justifications get louder → the sext escalation (see Bible for the lines) → he invites her over.
-- **The peach-slices scene (penultimate sex scene before the threesome):** he takes her *“I’ll do anything”* literally and specifically (within what she offered, outside what she pictured — same pattern as the B&B inducement) — peach slices inside her sex, brings her to orgasm, feeds her the drenched slices. No pain; psychologically intense. **She tastes both at once:** the peaches she refused out of stubbornness (now known to be extraordinary) AND herself (her oldest shame). The two things she withheld from him, combined, inseparable. She can never eat a peach again without this.
+- **The peach-slices scene (penultimate sex scene before the threesome):** he takes her *“I’ll do anything”* literally and specifically (within what she offered, outside what she pictured — same pattern as the cabin inducement) — peach slices inside her sex, brings her to orgasm, feeds her the drenched slices. No pain; psychologically intense. **She tastes both at once:** the peaches she refused out of stubbornness (now known to be extraordinary) AND herself (her oldest shame). The two things she withheld from him, combined, inseparable. She can never eat a peach again without this.
 - **Surviving callback:** later he makes balsamic grilled peaches again, plainly, no scene — just at the end of dinner — and she eats them and he watches and neither says anything. The silence carries everything.
 
 ### Vee’s desire for Randi — the suppressed thread that must NOT resolve before the reveal
@@ -122,7 +122,7 @@ The act essentially complete (blindfold comes off *after*). A register shift sig
 Sequence: recognition → retroactive reconstruction → physical awareness → shame → anger → **friendship betrayal (hits harder than romantic).** Multiple beats of silence first.
 
 - **Render through her BODY, not named emotions.** The image hits; her body answers; the reader reads the body. Naming the feelings would be the prose flinching.
-- The reconstruction runs BACKWARD through the whole novel: the goodbye kisses (she kept them, deepened them — no one to blame), the SATC questions, the planted clues (Randi the whole time), the dance (where her body learned Randi’s touch), the B&B (the key, and being watched — an exposure-domino), First Taste and tasting herself (preparation, a domino), the ivory nightie (love AND clearing a domino), the blindfold she asked for. Nothing survives clean.
+- The reconstruction runs BACKWARD through the whole novel: the goodbye kisses (she kept them, deepened them — no one to blame), the SATC questions, the planted clues (Randi the whole time), the dance (where her body learned Randi’s touch), the cabin (the key, and being watched — an exposure-domino), First Taste and tasting herself (preparation, a domino), the ivory nightie (love AND clearing a domino), the blindfold she asked for. Nothing survives clean.
 - **The genuine suspense, withheld even from the reader:** not *who* (known) but *what will this do to her* — whether the transformed Vee metabolizes it as catastrophe or as final liberation. Her physical behavior here tells the reader **who she has become.** That’s the question the whole novel has been asking.
 
 -----
@@ -178,5 +178,5 @@ Still in his house. **His ending is not a reunion but an artifact** — a kept t
 1. **How Randi participates physically** in the threesome beyond the withheld-kiss structure — dominant/submissive/watching; the choreography that keeps her body generic to Vee while serving the man-centered configuration she resents.
 1. **Who speaks first after the silence** (if anyone) — determines the register going into the ending. (Leaning: the silence, then Vee leaving without the satisfaction of a speech.)
 1. **The ex** — who, when, seen directly or secondhand; lands during the threesome-pressure beat.
-1. **Exact placement of the B&B** relative to bondage/clamps and the friends dinner.
+1. **Exact placement of the cabin** relative to bondage/clamps and the friends dinner.
 

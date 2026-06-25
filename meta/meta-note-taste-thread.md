@@ -29,7 +29,7 @@ So the arc is real liberation **and** the engineered precondition for the threes
 **Recurring beats** (interleaved across the year, never their own scenes):
 
 - **The Leak.** From the Refusal on, Pace wipes before he kisses her. The wipe is never total: **scent always reaches her, taste now and then** — a trace on his lip, his chin, a kiss not quite clean. Each leak a small involuntary registration. First read it's tenderness/habit; the withholding is what keeps the taste forbidden and wanted. Fresh phrasing every instance (recurring-ritual rule: same idea, never the same words).
-- **His Relish.** She watches his appetite for her. *What does he like so much?* The question migrates from *why would anyone* to *what am I missing.* Curiosity gaining on shame by degrees. First concrete instance: the **B&B watched-exposure aftermath** — he sucks her fluids from her own fingers as they fuck (*her fingers → his mouth* pre-figuring First Taste's *her fingers → her mouth*); also the detail Vee carries to the B&B Debrief. See `meta-note-bb-weekend.md`.
+- **His Relish.** She watches his appetite for her. *What does he like so much?* The question migrates from *why would anyone* to *what am I missing.* Curiosity gaining on shame by degrees. First concrete instance: the **cabin watched-exposure aftermath** — he sucks her fluids from her own fingers as they fuck (*her fingers → his mouth* pre-figuring First Taste's *her fingers → her mouth*); also the detail Vee carries to the Cabin Debrief. See `meta-note-cabin-weekend.md`.
 
 **The staircase** (discrete steps, each one riser higher):
 
