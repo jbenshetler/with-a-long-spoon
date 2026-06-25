@@ -220,9 +220,13 @@ She balks at the lifts (*too heavy*); he offers and waits at the consent line. A
 *~within a few days of the Jitterbug* · Unwritten · SATC · [detail](meta-condensed-vee-tells-randi-dance.md)
 The dance as the funny story. Then the jar — what his invisible chosen gentleness did to her. Voice changes mid-telling. Randi files the cruelest datum: tenderness/restraint is the load-bearing wall of what Vee feels. Off-page consequence (never marked in text): this is the witnessed-aliveness scene that detonates the drawer's first visit — Flat Date (both flames or no fire; nothing outside the configuration) → the Jar (Vee thriving openly on the exposure Randi can only endure — envy-of-capacity, the water-glass nerve, at full amperage) → the taking, on a weekday in the following weeks. The fuse is visible only on reread.
 
-### [SCENE] Bondage
-*~February* · Unwritten · [detail](meta-condensed-bondage.md)
+### [SCENE] Restrained
+*~February* · Unwritten · [detail](meta-condensed-restrained.md)
 Restraint removes the question of her hands — a gift for involuntary-response shame. Told to Randi (SATC); voice changes; *"Comfortable?"*
+
+### [SCENE] Winter Wonderland
+*~January–February · a snow day · no fixed sequence (snow-window only)* · Unwritten · Vee POV
+A relationship beat in the cold — sex likely, but not the point. A garage sale they browse together, where Pace buys an old Flexible Flyer (wooden-slat, steel-runner sled) for their use → sledding on the hills above Blacksburg. Clumsy, warm, laughing-in-the-cold register; one of the "earn the dark by being light" outings. Possible diptych: the garage-sale panel + the sledding panel. Snow-window constraint: deep-winter weeks of the spring semester (Jan–Feb/early March).
 
 ### [VIGNETTE] Randi — Spring Inversion
 *~mid-February · MUST precede the drawer's first visit (sequencing constraint)* · Unwritten · **Randi's POV — room aperture** · Randi/sorority
@@ -248,6 +252,10 @@ Chapter meeting, or Brooke again, or a sister's offhand comment — the social t
 *~spring, later than #1 · slot TBD* · Unwritten · Randi/sorority
 The accumulated cost of months of absence — events skipped, standing not collected, the chapter's social fabric pulling away. Not a confrontation; a quiet audit. The plan has cost more than she accounted for. She's still choosing it.
 
+### [SCENE] Into the Dark
+*~February–July · before The Threesome and Reveal* · Unwritten · Vee POV
+A relationship beat — a day trip to a Virginia cavern (Dixie Caverns near Roanoke is the nearest real option; author's call). The two of them underground among the formations, the constant cool, the world above shut off; the outing and the closeness are the point. **Symbolic of the blindfold** — the going-into-the-dark-together, led where she can't quite see — a thematic prefiguring of the threesome's blindfold, not a literal blindfold beat; must precede The Threesome and Reveal.
+
 ### [SCENE] The B&B Weekend (The Pivot — the Key & the Watched Exposure)
 *~late February or early March* · Draft in progress · `scenes/bb-weekend.md` (arrival) · [detail](meta-condensed-bb-weekend.md) · [craft](meta-note-bb-weekend.md)
 His answer to the Christmas fight, on his terms: **a key to his house**, in a handmade oiled-wood box (the answer he can't speak). The transgression is **watched masturbation** (*"Would you show me how you touch yourself?"* — she's made the agent of her own exposure); the **Permission Rule installs** (tell, not ask). "Adventure" first *invited* here (coined at the Painting Afternoon). Taste held for First Taste (~late spring). Surprise takeaway to an isolated mountain cabin; he packs the trip, never the Top Drawer.
@@ -259,6 +267,10 @@ Vee tells Randi she let him watch — the exposure she crossed. Randi receives c
 ### [SCENE] The Pool
 *~early to mid March* · Unwritten
 A conversation about sports turns tactless: Pace calls synchronized swimming dumb. Vee did eight years of it. She's insulted; she invites him to the pool to show him. She demonstrates; he attempts it; total failure. The power dynamic briefly inverts — she's the expert, he's the clumsy beginner. The laughter dissolves the insult without requiring contrition he doesn't quite feel. Playful register; earns the dark before the next escalation. His remark is behavioral-portrait: strong opinions organized by his own criteria, stated without checking who's in the room.
+
+### [SCENE] Edging
+*~after December, before Vee on the Bench (~late May) — exact slot open* · Unwritten · Vee POV
+The first time Pace *physically* edges Vee — distinct from the SATC brunches (Randi edged by Vee, conversationally) and from *Vee on the Bench*'s equipment-edging (~late May), which this introduces and *Vee on the Bench* later runs to apex. Light, playful register: she's astride him, and as she nears the edge he simply brings his thighs together to delay her, again and again. Vee discovers she both likes and hates it. Fresh indignity is **agency-shame** — her wanting becomes her own active motion; she buys each denial by grinding for it (different from *Vee on the Bench*'s involuntary-announcement shame, so it doesn't pre-spend it). Taste thread: default carry-nothing (no oral foreground).
 
 ### [SCENE] Secret Plans — The Ask
 *~mid-late March* · Unwritten · Vee POV · DIPTYCH (panel 1 of 2) · [detail](meta-condensed-secret-plans.md) · [craft](meta-note-secret-plans.md)
@@ -291,6 +303,10 @@ Randi returns ~4 scrunchies (form 20 → 24) — the form goes *up*. In Vee's mo
 ### [VIGNETTE] Ordinary Hang
 *~April* · Unwritten · Randi/Vee · non-structured
 Not a debrief. Randi and Vee doing something ordinary — studying for stats finals, a night in Randi's single, a walk. The friendship at its most genuine and most dangerous: Randi steering without seeming to steer, the management invisible because the relationship has its own momentum. A beat where nothing significant is said and the reader feels the undertow.
+
+### [SCENE] Massage Table
+*~February onward · before Vee on the Bench (~late May) · slot open* · Unwritten · Vee POV
+Pace **buys** (does not build) a massage table — deliberately the anti-(custom bench): a vaguely similar object turned to the opposite purpose. Here he *only* soothes and pleasures her; no shame-rack, no denial, no proof-extraction — pure tender/restful-restraint, the gift register. The soothing pleasure contrasts directly with *Vee on the Bench* (same kind of care, opposite machine; cherished past her defenses rather than caught by her body); must precede *Vee on the Bench*. Taste thread: no entry unless oral enters; default carry-nothing.
 
 ### [SCENE] Vee on the Bench
 *~late May · the erotic apex before the rupture sequence* · Draft complete · `scenes/vee-on-the-bench.md` · Vee POV · [detail](meta-condensed-vee-on-the-bench.md) · [craft](meta-note-vee-on-the-bench.md)

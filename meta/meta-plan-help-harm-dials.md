@@ -52,7 +52,7 @@ When new operations are discovered in the writing, add them here. The list is ge
 
 ---
 
-### The Bondage Scene
+### The Restrained Scene
 
 **Operation.** Pace ties Vee, removing the question of her hands during sexual operations.
 

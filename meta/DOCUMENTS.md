@@ -147,7 +147,7 @@ One file per non-trivial scene; the chronology entry links to it. To work on a s
 | `meta-condensed-the-dance.md` | The Dance (Format Break) |
 | `meta-condensed-cw-jitterbug.md` | The CW Jitterbug Scene |
 | `meta-condensed-vee-tells-randi-dance.md` | Vee Tells Randi About the Dance (The Jar) |
-| `meta-condensed-bondage.md` | Bondage |
+| `meta-condensed-restrained.md` | Restrained |
 | `meta-condensed-randi-takes-scrunchies.md` | Grain #1 — Randi Takes the Scrunchies (The First Flicker) |
 | `meta-condensed-grain-2-scrunchies.md` | Grain #2 — Worn in Plain Sight |
 | `meta-condensed-bb-weekend.md` | The B&B Weekend |

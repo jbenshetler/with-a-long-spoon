@@ -1,4 +1,4 @@
-# Condensed — Bondage
+# Condensed — Restrained
 
 *Scene · Unwritten · February*
 
