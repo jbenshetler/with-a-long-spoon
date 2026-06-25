@@ -64,6 +64,8 @@ He pumped her slowly, a few times, while she stood there and let him, and then h
 
 He didn't look disgusted. He looked at her the way he had looked at her that first evening, under the tree, when he'd asked if he could kiss her and she'd told him she didn't kiss a man she'd known a few days, and he had smiled as though she'd handed him something true and fine about herself. He looked at the wet on his finger the very same way. Like it was true. Like it was fine. Like it was hers, and good.
 
+Her tongue touched her lip before she knew it meant to, a small moist motion she felt more than made, there and gone.
+
 "It's not," she said. "That isn't."
 
 She didn't have the rest of it. He raised his eyebrows and tipped his head a little to one side and smiled at her and said nothing at all, and did not move the finger from where it was between them, and that was the whole of his answer.

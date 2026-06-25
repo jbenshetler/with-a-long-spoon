@@ -57,9 +57,9 @@ Friends from the **CW bar.** The thing that made the friendship possible was the
 
 ---
 
-## Backstory — Never Dramatized, Never a Scene
+## Backstory — Surfaced Once, Never Dramatized
 
-**Author-knowledge that shapes rendering; not content. No flashback, no telling-scene.**
+**The *why* under her loyalty — author-knowledge that shapes rendering, and reaches the page exactly once.** It surfaces only when Sheri tells Vee over drinks in `Another Round` (Vee POV; `meta-condensed-another-round.md` · `meta-note-another-round.md`), and only ever in **Sheri's own dry, no-self-pity register**, the weight on Pace's constancy rather than her pain. No flashback, no self-dramatizing telling-scene; everywhere but that one recounting it stays the unspoken thing under how Pace's past-kindness and her present-loyalty render.
 
 Last year she came out. **Church friends, brother (Marine), father (retired Marine), and mother all disowned her** — every inherited bond withdrawing at once. Every relationship built to hold a person failed to hold her, simultaneously.
 
@@ -95,7 +95,7 @@ It lands **because the loyalty is earned:** the held temper finally aimed **outw
 
 - **Kinetic, never fragile.** The smallness is motion. No frailty register, no eating-issue read.
 - **Warmth lives in fierceness**, not pleasantness. She is not nice; she is loyal.
-- **Backstory never dramatized** — author-knowledge only; it shapes how Pace's past-kindness and her present-loyalty render, never appears as scene or telling.
+- **Backstory surfaces once, never dramatized** — author-knowledge that shapes how Pace's past-kindness and her present-loyalty render; it reaches the page only in `Another Round`, recounted in Sheri's dry register (weight on Pace, no self-pity), and nowhere else as scene or telling.
 - **Not a second Cassandra** — Pace-specific perception, single-ping radar on Randi. Protect the asymmetry.
 - **The bike/dance formats are Pace's** — render the friendship through side-by-side movement (cycling, the dance floor), which loosens him into the overshare; a face-to-face confessional would read wrong for both of them and lose the leak.
 - She is **secondary** — rendered through effect and function, not standalone interiority. (Less strict than Cassie's over-feed rule, but the same gravity: she exists to show who Pace is when the chivalric grammar simply works, and to pay the loyalty back at the end.)

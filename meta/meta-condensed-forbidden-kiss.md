@@ -1,0 +1,10 @@
+# Condensed — Forbidden Kiss
+
+*Compaction of the planned scene; surface only — the unrendered craft/subtext lives in `meta-note-forbidden-kiss.md`. ~late January, just after First Weekend Back, before The Reach. Vee POV. Taste-thread gate #1 (the Refusal), on the page.*
+
+- **The gate.** After he goes down on her, Pace moves up to kiss her with his mouth still coated — he doesn't hide it and doesn't announce it. She's coming down from the orgasm, not tracking; she doesn't clock it until their lips touch and she feels the slick.
+- **The refusal — body first.** She turns her head, seals her lips, wipes her mouth with the back of her hand. The words ride on top, small and blurted: *"that's gross / wrong,"* and *"I'm not gay."* (The conflation underneath — a woman's wetness in her mouth = gay = wrong — stays subterranean; never analyzed.)
+- **He files it, doesn't push.** He wipes his face; they go on with sex. His instant acceptance of the no reads as care. (Real AND, faintly, aimed — see the tone guard in the note; first read it's nothing.)
+- **Post-coital — the install.** On her side, holding him while he sleeps, she reaches back over the wiped kisses where a trace still got through. That retrospect **retro-installs the Leak's whole Oct→Jan history** (so First Night and everything since stay clean, never rendered) and **lights the conscious wondering** — minor key, under the affection: *what is it, what am I missing.*
+
+**Function:** Taste-thread gate #1 — the door slams, with a hairline of light under it. After tonight the **Leak runs live and conscious** through the spring sex scenes (the transgressive through-line, mostly as gracenotes). The wipe becomes a *known* boundary here. **Tone (governing):** warm and sexy on both reads, no sinister signal — the faint aimed-ness registers as depth, not dread, the first grain of the consent-hole's year-long accretion, never a visible breach; the enabling genuinely is enabling (`meta-note-taste-thread.md`). Full craft + guards: `meta-note-forbidden-kiss.md`.
