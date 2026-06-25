@@ -30,7 +30,7 @@ He had available honorable exits he did not take. Disclosure, refusal, harder qu
 
 **Mother — emotionally abusive; love as currency.** Produced non-looking at his own interior and the vow against premature declaration. He runs hot; he has never developed the apparatus for naming what runs inside the interior because naming exposes it to accounting.
 
-**First love — ended for no cause he could name.** The formative wound. Produced the long-range planner. He will figure out what relationships actually run on. The threesome plan is the latest iteration of an apparatus he has been refining since sixteen.
+**First love — the formative wound (the age-fifteen heartbreak; facts in the Bible’s love-wound passage and `meta-note-first-love.md`).** She left for no cause he could name, and being the powerless one — the younger, a minor with no say in its ending and no way to see it coming — is the root of the man who now plans everything and is never surprised. Produced the long-range planner: he will figure out what relationships actually run on. The threesome plan is the latest iteration of an apparatus he has been refining ever since. Distinct from the later coded-channel relationship, which compounds the lesson but did not form him.
 
 **Fantasy refuge — sword and sorcery.** The chivalric frame from years of constructing imagined courtships gave his method its grammar. He learned to see women by practicing seeing women he invented.
 
