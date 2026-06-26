@@ -177,3 +177,42 @@ The thesis now supplements *given full range* with *when permitted to operate at
 The containers rule (meta-arch-bible.md) currently reads that Randi's interior "opens **only when she is alone** … **never in the presence of another character**." But `randis-walk-of-shame.md` runs Randi's close third *with the sisters present* (the smile holding its position, her reading of Brooke's not-standing) before the aperture proper opens upstairs, alone. The literal wording and the drafted practice conflict.
 
 Clarify the rule to mark the distinction the draft already uses: the **deep aperture** (the unmanaged wound) opens only alone, in mirror or single room — these stay the canonical four. The **operational/surface register** (Randi's close third in company, managed self, no wound-access) is permitted, and is the mode for the spring Social Price beats among the sorority. The inviolable line is **Randi's close third while operating on Vee**, which would expose the management and kill the double register. Phrase so a future draft doesn't read the literal "never in company" and wrongly rule out the walk-of-shame mode.
+
+-----
+
+# Spring Restructure & Threesome Mechanics — Items Surfaced (kiss-redirect session)
+
+Workshop session that **committed** the threesome end-game mechanics and **designed but did not write** the spring threesome-bridge. Committed this session to `meta-note-threesome-reveal.md`: bound hands (broad strap, restful-restraint; positioned every way; giving with mouth + sex; submissive AND functionally subservient); the kiss withheld by **redirecting Vee's mouth to other body parts** (not avoidance), final kiss as the release of the night-long denial; **voice** — Randi withholds words, releases pleasure-sounds; damp-clasp reconciled to her bound hands. Also renamed the taste-gate *The Telling → Whiskey and Wine*. The items below remain open.
+
+## 22. The spring threesome-bridge — designed in workshop, not yet written (DISCUSS / DRAFT)
+
+Bridges the too-fast jump from **First Taste** (Vee tastes herself) to the **Threesome Introduction**. Agreed division of labor: **Randi owns selection; Pace owns bed-fantasy + procurement.** Vee never knows Randi and Pace conspire, and does not know who the third is. To write into the chronology / SATC track:
+
+- **Randi runs a Pointing-Game variation with Vee** (the centerpiece, new scene, not in any doc) — Randi "helps" Vee decide what kind of woman she wants, looking around, Vee giving feedback; Randi *is* the type. Reread: she auditions herself, hears Vee want her by proxy. Hosts Vee's suppressed-Randi cracks; feeds the night-cluster "material has become Randi" beat. Vee will masturbate after these sessions.
+- **Germination / agreement split** of the Threesome Introduction: Pace's bed-fantasies reactivate the wanting (early spring, off the fall Pointing-Game seed) → development across spring → **agreement** (the yes + the blindfold/surprise request) in early summer. Currently the chronology carries the Introduction as a single ~late-May beat.
+- **Pace's procurement = omission** ("someone discreet, you won't have to see her") and the **"Vee describes the woman to Pace"** beat — a description Randi co-authored, of Randi.
+- **Lay the 16-week spring timeline** so the ramp distributes across spring and thins the crowded late-May→summer run. Discharges chronology Flags 16 & 19.
+
+## 23. Threesome choreography still open (DISCUSS)
+
+From the `meta-note-threesome-reveal.md` STILL-OPEN list, sharpened now that Vee's posture is fixed (bound, redirected):
+
+- **Randi's physical role** — dominant / active / watching, and whether Pace directs her or she acts autonomously (must keep her body generic to Vee).
+- **Who speaks first after the silence** (current lean: Vee just leaves, no speech).
+- **The reckoning-catalyst scene** — the moment Pace is forced to see the consent-architecture hole; pointed but unstaged.
+- **"The ex" vs. the now-placed First Love telling** — confirm whether the open-question "the ex" is the same thread as the First Love confession (just placed ~late July / early Aug) or a separate person.
+- **Cabin placement** relative to bondage/clamps and the friends dinner.
+
+## 24. Standing spring-architecture flags (cross-ref — owned by the chronology) (PENDING)
+
+Not duplicated here; `meta-plan-chronology.md`'s continuity-flags section owns them. This session's bridge work touches them directly:
+
+- **Flag 16** — spring underplanned: SATC goodbye-kiss staircase steps; the spring Randi–Pace dynamic; the two unpinned Social Price vignettes.
+- **Flag 17** — scent-name thread: where Vee *asks* the scent's name; the buys-it→shower beat to create.
+- **Flag 19** — Permission Rule second loop + the night cluster (feeds procurement and the masturbation-becomes-Randi beat).
+- **Flag 3 / reveal image** — scrunchie grain #3: a single confirming image at the reveal vs. permanently undecidable.
+- **Flag 15** — whether the ending earns Randi's final POV aperture.
+
+## 25. Housekeeping — stray memory file (CLEANUP)
+
+A research sub-agent auto-wrote `spring-satc-gap.md` into the project memory dir during an earlier session. Keep it as a spring-SATC planning capture, or discard — undecided.
