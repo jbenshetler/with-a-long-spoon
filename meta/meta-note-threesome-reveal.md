@@ -89,7 +89,18 @@ NOT to hide the partner’s identity from the **reader** — the reader has know
 
 ### The kiss = the SOLE channel of identity
 
-The one piece of Randi that is NOT generic to Vee: a year of goodbye kisses has trained Vee’s body to recognize exactly that kiss — its pressure, duration, the held half-second. No other woman’s kiss carries that signature. **Therefore the entire threesome must avoid the kiss** with invisible deliberateness — Randi does everything to/with Vee EXCEPT the one act with her signature on it (holding back the thing she’s wanted most since the pointing game). This is not aesthetic; it’s the *logical necessity* of the concealment. Touch/taste freely (identifies no one); withhold the kiss until it’s the weapon.
+The one piece of Randi that is NOT generic to Vee: a year of goodbye kisses has trained Vee’s body to recognize exactly that kiss — its pressure, duration, the held half-second. No other woman’s kiss carries that signature. **Therefore the one act withheld is the kiss** — withheld not by keeping Vee away from the woman, but by letting her seek the mouth and *redirecting her mouth to other body parts.* Vee reaches for the woman’s mouth (her suppressed desire surfacing in the body — the intimacy she won’t name, the mouth a year of goodbye kisses trained her to want), and each time her mouth is steered elsewhere: *not there* — to a breast, to Pace, to Randi’s sex. The denial and the use are one gesture, *not there — **here.*** Let the misses run close — a jaw, a throat, the corner of the mouth — before she’s guided down; the closer the near-miss, the worse the final hit. Steering is shared: Pace with words and a hand, Randi with the silent hand only — which reads in the moment as pure dominance (they run her pleasure) and on reread as two people coordinating to keep her off the revealing mouth. Everything else is free (touch and taste identify no one); only the kiss — *the thing Randi wants most, refused moment by moment* — is held back, so that the **final kiss is the release of the denial that ran all night:** Vee finally granted the mouth she kept reaching for, the signature on it, and it ends her.
+
+### Bound hands — the last surrender (restful-restraint; submissive and subservient)
+
+**Vee’s hands are bound — a broad strap behind her back, wide enough that her arms can go to her sides but no farther; hands the only thing taken.** Not cinched wrists (that’s pain/punishment); the broad strap is the *restful-restraint* register — comfort, surrender-as-gift, of-a-piece with the things Pace makes (the bench, the box, the costume): a rig built so she can be used at length without hurting, his tenderness and the configuration’s instrument in one object. She can lie on her back or her front, kneel, move on her knees with her face on the bed and her ass up, exposed — positioned every way, **receiving from both Pace and Randi and giving to both with her mouth and her sex.** At their mercy, the body arranged and used. What it earns:
+
+- **The terminus of the restraint staircase the blindfold-request already invokes** (*the bondage lesson — restraint removes the question of what to do with her hands*). After pride, grounding, and knowing, the last thing she sets down is her own agency.
+- **Submissive AND functionally subservient — two shames, not one.** Submissive is *done-to* (arranged, opened, yielding); subservient is *put to use* (her body made useful to their pleasure, and glad to be). The strap delivers both at once — the thesis in one image: she is most surrendered at the exact moment she’s most used, her liberation the thing that makes her a willing instrument. On reread, she served her orchestrator and her hunter with her body, blind, and wanted to.
+- **It lands the taste thread in full.** Hands gone, her giving runs through mouth and sex — which means *she goes down on the woman.* First Taste was the rehearsal (herself); here she tastes another woman completely, and the reveal image (*mouth smeared with their combined fluids*) is finally earned. Her mouth also draws the woman’s pleasure-sounds (see *Voice* below), so even bound she has agency — pleased, and ashamed, to be pleasing her.
+- **The redirected kiss reads as dominance.** Her mouth is steered where they choose (see *The kiss*), so the one withheld act never reads as a pointed gap — it reads as them running her. The restraint is the in-scene alibi for the concealment.
+
+**Hold the line on the kiss:** do not soften it into a de-signatured kiss carried through the encounter. The *total* withholding is load-bearing (see Randi’s reactions → it proves it wasn’t a toy). The familiarity-hum a de-signatured kiss would buy is already paid for — Vee’s body **catalogs the known mouth anyway** through the non-kiss mouth contact — so abstinence loses nothing and the final signature kiss stays the first and only one.
 
 ### Scent — the foreign signature
 
@@ -99,9 +110,18 @@ So for this night, and only this night, **Randi wears a different perfume — ch
 
 Function: like touch, the scent announces *woman* but not *who.* The foreign perfume forecloses the one olfactory channel that would have betrayed Randi instantly — which is precisely what **keeps the kiss the sole channel of identity.** The swap is not flavor; it is load-bearing concealment.
 
+### Voice — words withheld, pleasure released
+
+The channel a year of brunches trained into Vee’s ear is Randi’s **speaking voice** — cadence, laugh, phrasing. Vee has never heard Randi in bed. So the concealment line runs precisely between **words and pleasure:**
+
+- **Words withheld — Randi never speaks.** Her third deliberate concealment, alongside the withheld kiss and the swapped scent: her speaking register is the auditory equivalent of the kiss-signature and must not occur — not even a slipped name at her own edge. That single clamp is her one control point here.
+- **Pleasure released — she makes sound freely.** Moans are an untrained register with no reference point for Vee (blindfolded, with Pace’s voice and her own begging in the room), so they identify no one. They are *not* control — they’re the year escaping her body, the literal form of *her wordless beats are the plan escaping her.* This is her heart’s desire arriving; a Randi who clamped her body shut here would be mischaracterized. The sounds also do real work for Vee — her mouth (her one free instrument; the hands are what’s bound) draws the woman’s pleasure, and being pleased to be pleasing her is part of the heat (and, on reread, the wound: *she gladdened a woman she could not name*).
+
+So the room’s **words** come only from Pace (instruction, control) and Vee (begging, the exposed body); the woman answers in breath alone. Dials: keep her sound breath-forward and wordless — the hard rule is that no words slip; and Pace must never address her by name or by anything Vee could place.
+
 ### The damp hand-clasp — a planted rhyme, not a channel
 
-At some point under the blindfold a hand closes over Vee's: a damp clasp, warm now with the heat of the bed. Pure Tier-1 — it announces *a woman's hand* and identifies no one. Its work is **body-memory, not recognition.** It pays off the smoothie shop, where Randi first took Vee's hand *the way friends do,* palm cool and damp from a cold cup — cool there, warm here, the **damp** the constant Vee's body files without naming. She never decodes it in the moment (body before mind); it detonates only in reconstruction after the reveal, for the reader more than for Vee. The clasp must carry the echo and never the identity — the kiss stays the sole channel. (Plant: see meta-condensed-the-smoothie-shop.md.)
+At some point under the blindfold a hand closes over Vee's bound hands: a damp clasp, warm now with the heat of the bed — the clasp she can't return, which only sharpens it. Pure Tier-1 — it announces *a woman's hand* and identifies no one. Its work is **body-memory, not recognition.** It pays off the smoothie shop, where Randi first took Vee's hand *the way friends do,* palm cool and damp from a cold cup — cool there, warm here, the **damp** the constant Vee's body files without naming. She never decodes it in the moment (body before mind); it detonates only in reconstruction after the reveal, for the reader more than for Vee. The clasp must carry the echo and never the identity — the kiss stays the sole channel. (Plant: see meta-condensed-the-smoothie-shop.md.)
 
 ### Rendering rules
 
@@ -185,7 +205,7 @@ Still in his house. **His ending is not a reunion but an artifact** — a kept t
 ## STILL-OPEN QUESTIONS (narrowed)
 
 1. **Reckoning catalyst** — pointed at the consent-architecture hole (above); the exact scene/moment still needs staging.
-1. **How Randi participates physically** in the threesome beyond the withheld-kiss structure — dominant/submissive/watching; the choreography that keeps her body generic to Vee while serving the man-centered configuration she resents.
+1. **How Randi participates physically** in the threesome beyond the withheld-kiss/withheld-words structure — with Vee now fixed as the bound, receiving body, the open part is Randi’s role (dominant/active/watching) and whether Pace directs her or she acts autonomously; the choreography must keep her body generic to Vee while serving the man-centered configuration she resents.
 1. **Who speaks first after the silence** (if anyone) — determines the register going into the ending. (Leaning: the silence, then Vee leaving without the satisfaction of a speech.)
 1. **The ex** — who, when, seen directly or secondhand; lands during the threesome-pressure beat.
 1. **Exact placement of the cabin** relative to bondage/clamps and the friends dinner.
