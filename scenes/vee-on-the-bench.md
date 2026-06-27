@@ -272,13 +272,19 @@ And there was nothing. The still finger, the one point she had been working hers
 
 Then his other hand settled where the first had been. The dry one, the hand that had struck her, broad and cool against the slick point of her, taking up the place and going still in its turn. And the hand she had soaked, the one she had ground herself wet against, rose away and back, behind her, where she could not see what he meant to do with it.
 
-And the dry finger was a different thing to bear, cool and unfamiliar against the heat of her, and for a moment she held still against it. She would not. She had ground herself onto the last finger and brought the hand down on herself with her own moving, and she would not do it again; she would lie still and ache and not be the one who asked for it. She held out longer than she would have believed she could. But the ache did not care what she had sworn, and the finger gave her nothing, and the bench gave her nothing, and in the end her hips rolled down and worked the point of her against the cool dry pad of him of their own greedy accord, taking what friction there was, asking.
+And the dry finger was a different thing to bear, cool and unfamiliar against the heat of her, and for a moment she held still against it.
+
+"You can keep this one clean," he said. "If that's still your answer."
+
+She would. She had ground herself onto the last finger and brought the hand down on herself with her own moving, and she would not do it again; she would lie still and ache and not be the one who asked for it. She held out longer than she would have believed she could. But the ache did not care what she had sworn, and the finger gave her nothing, and the bench gave her nothing, and in the end her hips rolled down and worked the point of her against the cool dry pad of his finger, of their own greedy accord, taking what friction there was, asking.
 
 And the hand came down in answer, and it was different. The same flat fall of his palm, the same force, she could have sworn to it, and yet it landed sharp where the others had landed broad, a bright stinging bite of it that bloomed faster and hotter and would not spread soft the way the dry ones had.
 
 "Feel the difference?" he said, low, delighted. "That's all you. I only carried it up." And she felt then what he had done, her own wet brought up onto her skin and the blow laid down upon it, and the sting of it was twice what the dry had been. His palm pressed flat to the heat and circled, working her own slick into the burn. "You're going pink for me. Pink and shining and tacky where it dries, and you with no way in the world to know it but my telling you."
 
 And then his hands traded again. The hand that had just struck her drew back and came round and took up the still place against the point of her, cool and quieting; and the finger she had been working herself against, slick now with her own grinding, lifted and rose behind her. She could not see it. She did not need to. The wet that would be in the next blow was the wet her own moving had just put on his hand.
+
+"Another clean one," he said. "If you want to prove me wrong."
 
 And the new finger lay still against her, dry and waiting, and this time she did not hold out at all. Her hips went down and ground themselves against it openly, greedily, wetting this hand as she had wetted the last, taking the friction and asking for the blow in the same motion. And when it came she rose to meet it; she lifted for it before it landed, her hips rising of themselves into the fall of his hand, reaching up after the burn the way a body reaches after a thing it has decided that it wants, and the blow came down into the lift of her, sharp on the wet she had made, and she took it open and lifting and wanting; and the shield was nowhere, the no was nowhere, there was no breath left in her anywhere that was shaped like no.
 
@@ -290,9 +296,9 @@ He gave her the slick of his fingers again, the swollen point of her under them,
 
 And it caught her like a hook in the back of the head and dragged her straight up out of her body. Because she did. Because she had been an inch from going over and he made her hear herself.
 
-"Ugh — no," she got out, and the no came from somewhere below the place words meant one thing at a time.
+The sound came first, helpless and open. "Uhhh... no," she got out, and the word came from somewhere below the place words meant one thing at a time.
 
-The worst thing was that he did not take his hand away at once. The wave stood there under his still fingers, enormous and unfinished, and she was trapped in the half-second before the loss of it, knowing only that she had answered wrong.
+The worst thing was that he did not take his hand away at once. The wave stood there under his still fingers, enormous and unfinished, and she was trapped in the half-second before the loss of it, knowing only that he was going to be unfair enough to believe her.
 
 "Then I should stop."
 
