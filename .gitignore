@@ -7,3 +7,5 @@ novel-assistant/.env
 novel-assistant/data/
 data/
 MEMORY.md
+ref/
+novel-assistant
