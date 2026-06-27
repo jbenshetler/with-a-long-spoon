@@ -132,17 +132,53 @@ He set his hands on her and began, and he did not begin with the thing she had b
 
 Then his hands came around and under her, down into the open middle of the bench, and found her breasts where they hung. He took the weight of them in his palms, the full heavy underside of each, and held them, cupped them, stroked the outer swell of them, weighed and gentled them without once going near the tips; and the not-going-near was its own slow torment, because her nipples had drawn up tight and aching the moment the air first found them and they wanted touching now more than she would have admitted to a living soul. She lay and let him hold the warm weight of her and breathed and wanted, sunk down under the surface where there were no words, and did not know he was about to make her find some.
 
-"You're enjoying this," he said, easily, fondly, his hands full of her. "Your breasts hanging free like this. You like it."
+"You're enjoying this," he said, easily, his hands full of her. "Your breasts hanging free like this. Waiting."
 
 It went through her like a hand laid flat on a bruise. She had not known the thing had a name until he named it. The naming dragged her up out of the warm quiet into her own head, where her mother kept watch. The old reflex came up before she had decided anything at all. "No," she said into the leather, small. "That's not it. That's not —"
 
-"Don't deny it." There was no edge in it, only a smile, and his fingers found her nipples at last, both at once, and took them, and the touch she had been aching for went through her so hard and so welcome that her whole body answered, an arch and a rush of breath and a sound she had not given leave to leave her. "I can see it's true."
+He was quiet a moment.
+
+"No?"
+
+The word had a smile in it. Not kindness exactly. Not unkindness either. Interest. It left the word she had just said sitting there between them, available for inspection.
+
+"No," she said again, because he had left the first one sitting there and she could not bear it sitting there alone.
+
+"Say it properly."
+
+Her face went hot against the leather. His hands did not move. That was the wickedness of it: that he held the full weight of her in his palms and denied her the smallest part of what she wanted, the two aching points of her drawn up hard in the open air, so close to his fingers that her whole body seemed to lean toward them.
+
+"I'm not enjoying it," she said.
+
+"There," he said, pleased. "Brave."
+
+And then he touched her.
+
+His fingers found her nipples at last, both at once, and took them, and the touch she had been aching for went through her so hard and so welcome that the sentence she had just made broke in her body before it had finished being true in the room. Her whole body answered, an arch and a rush of breath and a sound she had not given leave to leave her.
+
+He laughed then, low under his breath, at the clean little catch of it, the lie collapsing under his fingers the instant he put weight on it. "Oh, Vee," he said. "That one didn't last at all."
 
 "That's just the cold." The oldest one, the first one she had ever reached for, fourteen years old in her mother's kitchen.
 
-"This isn't the cold." He said it gently, almost tenderly, and then he did not stop and did not hurry. He rolled the stiff peaks of her slowly between his fingers, drew them out and let them go and took them again, worked them with a patience that had no end in view, and the pleasure of it climbed and climbed with nowhere to break, and she gasped against the leather and then she moaned, helpless, the sound torn out of her, her hips shifting on the supports, and still he went on, unhurried, until she was panting into the warm leather with her mouth open and past any pretense of a denial. Only then did he ease, his fingers gentling, resting. "That's not the cold," he said. Not a question. The proof set down quietly beside her where it would stay.
+"You don't even sound like you believe that."
 
-She had no answer in her. She lay panting and found out, her nipples singing where his fingers had left them, and under the shame of it a thing had been shown to her that she could not have put into words: that here, when she denied, he would prove to her with pleasure how the denial was a lie, and that the proving was the best thing she had ever felt.
+His fingers did not change at first. That was worse. He only held her there, the stiff peaks caught lightly between thumb and forefinger, no more pressure than she could bear and not nearly enough to finish whatever had started; and the stillness made her feel the whole of it, the full humiliating fact of how hard she was in his hands, how ready, how little the cold had to do with any of it.
+
+Then he rolled them slowly.
+
+Not hard. Not hurried. A patient turning, drawing them out and letting them slip and taking them again, each pass just enough to start the bright thread of pleasure and not enough to let it go anywhere. Her breath changed first. Then her hands tightened on the grips. Then her hips shifted, small and useless, answering a touch that was nowhere near them.
+
+"The room is warm," he said. Another slow turn. "My hands are warm."
+
+She tried to hold still under it, because holding still was the last little proof she had, and he took that from her too, not by force, not even by increasing the pressure, only by continuing. The pleasure kept arriving in small exact increments, too little to surrender to and too much to ignore, until her body stopped pretending it had any dignity left in the matter. The pleasure of it climbed and climbed with nowhere to break, and she gasped against the leather and then she moaned, helpless, the sound torn out of her, her hips shifting on the supports, and still he went on, unhurried, until she was panting into the warm leather with her mouth open and past any pretense of a denial. Only then did he ease, his fingers gentling, resting.
+
+"That's not the cold," he said.
+
+Not a question. Then he pinched, not hard, not quite, only enough to make the pleasure sharpen its teeth, and she came up against the grips with a gasp before she could stop herself.
+
+"There," he said, delighted. "That's the part I like. Your mouth keeps making one argument and the rest of you keeps winning it for me."
+
+She had no answer in her. She lay panting and found out, her nipples singing where his fingers had left them, and under the shame of it a thing had been shown to her that she could not have put into words: that here, when she denied, he would let her hold the lie up herself, and then make losing it the best thing she had ever felt.
 
 His hands left her breasts and went roaming again, broad and unhurried, soothing her back down out of her head, his palms wide over her back and her hip and the long backs of her thighs until the warmth was traveling once more and the watching part of her had gone quiet. Then he moved down to where her legs lay along the flat supports, and she felt him take hold of something at the side she could not see, and the thing she was lying on began to move.
 
@@ -154,15 +190,17 @@ His hands came to her then, both of them, warm and broad over the seat of the ta
 
 Then one hand slid inward and down and went still where the satin had gone slick.
 
-"Look at that," he said, low, wondering. His fingers moved on the cloth, barely, reading it. "You've gone right through them."
+She made a sound into the leather and pressed her thighs tighter, which was the wrong thing, which only ground the wet of her up against the cloth and his hand both, and his palm settled flat over the dark place where the terra-cotta had gone from cloth to something else and pressed, gentle, feeling the give of her through it.
 
-She made a sound into the leather and pressed her thighs tighter, which was the wrong thing, which only ground the wet of her up against the cloth and his hand both, and his palm settled flat over the dark place where the terra-cotta had gone from cloth to something else and pressed, gentle, feeling the give of her through it. The wet had begun to cool in the open air and his hand was warm over it, so that she felt the temperature of her own wanting, the cold of it under his warm palm, and there was nowhere to put it. This was the thing beneath the other things, the thing she had stood over a sink an hour ago and scrubbed at, blooming through the very cloth she had chosen to swallow it, and he had found it and named it and he was pleased.
+He did not say anything.
+
+That was worse. She had felt the words gather in the room, had braced for them, and they did not come. He only kept his palm there, pressing the warm slick to her, knowing, letting her know he knew, and the silence made her feel the whole dark place of the cloth as if he had lit it. This was the thing beneath the other things, the thing she had stood over a sink an hour ago and scrubbed at, blooming through the very cloth she had chosen to swallow it, and he had found it and was making her wait for him to say so.
 
 He pressed the soaked satin slowly into her, and her hips moved. They moved without her, a small helpless roll up into his hand, and she could not stop them, and the not-stopping was the whole of it. It came from too far down and too fast, the week of it behind her and the tilt and the open air and the kneading and the shame all stacked with nothing under them, and she felt it begin to gather far too soon, in the wrong place, with everything still on her, her thighs still locked and the satin still on and not a word said, and she had nothing to stop it with and no breath to deny it with, and she went over without a sound that meant anything.
 
-She came clothed and closed, in under a minute, her thighs pressed shut and the cloth still on her and his hand still over it, the spasm wringing up through the center of her with nothing to give itself to, the wet blooming warm and fresh through the satin under his unmoving palm. Her body seized on the bench and her breasts swung in the open air below her and her hands clamped white on the grips, and the only sound she made was a long broken pull of air into the leather, no word in it, because there had been no game yet and nothing to say, only her body going off the instant it was tilted up and handled and pressed.
+She came clothed and closed, in under a minute, her thighs pressed shut and the cloth still on her and his hand still over it, the spasm wringing up through the center of her with nothing to give itself to, the wet blooming warm and fresh through the satin under his unmoving palm. Her body seized on the bench and her breasts swung in the open air below her and her hands clamped white on the grips, and the only sound she made was a long broken pull of air into the leather, no word in it, because this proof had moved too fast even for the lie, only her body going off the instant it was tilted up and handled and pressed.
 
-"There," he said. The delight in it was low and warm and entirely pleased, his palm resting over the soaked, pulsing cloth, taking in the last of it through his hand. "That was just sitting right there, wasn't it."
+"There," he said. The delight in it was low and warm and entirely pleased, his palm resting over the soaked, pulsing cloth, taking in the last of it through his hand. "You were ready."
 
 She was burning. She lay folded over his bench, wrung and panting into the warm leather, and the heat in her face had nothing to do with the room. She had come like that, clothed and closed and handled, in under a minute, before he had taken a thing off her, before he had so much as touched her bare, come the way her mother had always promised girls like her would come, and he had felt every second of it through his hand, and he was glad of it, and she had no idea in the world what a person did with a man who was glad.
 
@@ -180,31 +218,55 @@ He set his palm flat on her bare backside, on the warmth gathered there from the
 
 "It's not —" she said. The denial came up the way it always had, a real one, a hand thrown up to hold the thing at arm's length where she could go on living beside it. And there was nothing on the end of it now. No cold, no satin, no accident of cloth. Nothing to be not.
 
-"It's not what?" His fingers moved through her again, slow, and the wet answered him, that small slick sound, undeniable, and she heard it and her face burned. "Listen to that. That's you." He drew one finger up the length of her and the sound climbed with it. And under the shame, threaded all the way through it, was the new thing the nipples had taught her, the small treacherous wish to be caught, so that when she said it again, "it isn't," she half heard herself holding the lie out to him like a thing she wanted taken away, and he took it. "It is," he said, delighted, and stroked her slick and open until she could not have said where the shame stopped and the wanting started.
+"All right," he said.
+
+Softly. So softly she had to listen past the small wet sound of his fingers moving through her to hear him.
+
+"Tell me it rained."
+
+The wet answered first. His fingers moved through her again, slow, and the sound was louder this time, or she heard it louder, every slick parting of her under his hand made public in the warm room.
+
+"No?" he said. "Not rain?"
+
+He drew one finger up the length of her and the sound climbed with it. "Listen to that. That's you." And under the shame, threaded all the way through it, was the new thing the nipples had taught her, the small treacherous wish to be caught, so that when she said it again, "it isn't," she half heard herself holding the lie out to him like a thing she wanted taken away.
+
+"Again."
+
+"It isn't."
+
+"There," he said, delighted, and stroked her slick and open until the denial broke into a sound and the sound broke into wanting. "Brave."
 
 He came up through the slick of her and found the small stiff point of her, pressed close as her thighs were, and he did not hurry past it the way every hand before him had hurried. He stayed. He circled it slow with the flat of a fingertip, sharper there than anywhere else on her, almost too much, the one bright place where the rest of her was all broad and warm; and her breath went out of her and her hips wanted to move and could not, the supports holding her still. And then, just as the bright point of her began to climb, he stopped. He left the finger resting on it, motionless, not stroking, only there, and the climb hung where it was with nowhere to go and no way of her own to send it on.
 
 His other hand came to rest on the bare curve of her backside. Not striking. Resting, and then beginning to move, his whole warm palm going slow and round over the seat of her, the way a man polishes a thing he prizes and means to keep; and the touch went lighter as it went, lighter and lighter, until it was hardly a touch at all, only the drift of his hand waking every small nerve in the skin and leaving them standing and lit and waiting.
 
-"Do you want me to spank you?" he said, easy, almost fond, his palm still going its slow rounds.
+"Do you want me to spank you?" he said, easy, his palm still going its slow rounds.
 
-The denial came up the way it always had. "No," she said, into the leather. It was the thinnest one yet, thinner even than the wet had been, because there was nothing here left to find out. He had spanked her before. They both knew the answer to it. The word was not a hiding place anymore, only a small thing held up in front of herself, between her and the yes.
+"No," she said.
 
-And his finger stayed still on the point of her, and that was the whole of the cruelty of it, that he was there, exactly where she needed him, and gave her nothing. The ache climbed and stood and had nowhere to go and he would not move his hand. She pressed down against the bench to find some edge to work against, and the bench gave her nothing, made as it was to give her nothing. There was only his finger, still, beneath her. So she moved on it. She did not decide to. Her hips rolled down and forward and worked the point of her against the pad of his unmoving finger, a small helpless grinding, taking the friction he would not give her; and it was she who was moving now, she who was doing it, and the moment that she did,
+Too quickly. That was the mistake. The word had hardly left her before the last time was in the room with them: the two sharp swats, the burn still opening in her skin, his finger sliding into her afterward and coming back shining, held where she had to look at what her no had made of her.
+
+He made a small pleased sound.
+
+"That answer came back wet last time."
+
+And his finger stayed still on the point of her, and that was the whole of the wickedness of it, that he was there, exactly where she needed him, and gave her nothing. The ache climbed and stood and had nowhere to go and he would not move his hand. She pressed down against the bench to find some edge to work against, and the bench gave her nothing, made as it was to give her nothing. There was only his finger, still, beneath her. So she moved on it. She did not decide to. Her hips rolled down and forward and worked the point of her against the pad of his unmoving finger, a small helpless grinding, taking the friction he would not give her; and it was she who was moving now, she who was doing it, and the moment that she did,
 
 his other hand came down on her. The crack of it was sharp and flat and enormous in the bright room, and the white blank instant came with it where there was nothing, no pain, only the sound and the shock and the stunned hush of her skin not yet knowing. Then it knew. The burn bloomed up out of the blank a beat behind, spreading wide and singing across the curve of her, and last of all the throb came in under the heat, deep and slow, beating with her own blood, and it ran inward and down and met the wet ache at the center of her and fed it. It was her own moving that had brought it down on her, and that landed in her harder than his hand had.
 
-"There," he said, and the delight in it was plain and without a grain of cruelty, a man gladdened by a lovely thing. His still finger pressed once at the point of her and found her wetter for the blow. "You can't see yourself, can you," he said, low, almost reverent. "You can't see what you do down here when you can't help it. Your thighs have gone to shine, the both of them, soaked near to the knee, and the lamp loving every inch of it. I wish you could see how lovely you are when you stop being able to help yourself."
+"There," he said, and the delight in it was plain, a man gladdened by a lovely thing. His still finger pressed once at the point of her and found her wetter for the blow. "There you are. That's the same answer." A slow pressure, exactly where she needed him and not nearly enough. "You can't see yourself, can you. You can't see what you do down here when you can't help it. Your thighs have gone to shine, the both of them, soaked near to the knee, and the lamp loving every inch of it. I wish you could see how lovely you are when you stop being able to help yourself."
 
 *Lovely.* The word got into her and did what his hands could not, and lifted her a moment up out of her body to see the thing he was calling it: a woman sweated and naked and face down on a leather table, her hips tipped up into the lamp, her own wet shining down both thighs, grinding on a man's still hand and struck for the grinding. And her hands white on the grips. No one had tied them there. She had known since he closed her fingers on the wood that they were the only thing that held her, that there was no rope, that she could open them and rise and be a woman standing upright in a lit room. What she had not known was that they would not simply hold. They bore down. They gripped and braced and drove her into it, fixing her face to the leather and her hips to the air, bracing her so that she could grind the harder and take the blow when it came, her own two hands working with his; and there was no rope in the world she could have laid the blame on.
 
 And because the ache was still in her and the finger still would not move, she did it again. She worked herself against him, knowing now what it would buy her, and bought it: the flat hard fall of his hand, the blank, the late bloom of a second burn rising to lie down beside the first. Twice now she had brought it down on herself. The shame of the first had been in being caught wanting it; the shame of this was that she had gone back.
 
-"Tell me again you don't want it," he said.
+"Again," he said.
 
-"I don't," she said, and it broke in the middle of itself, with the wet sound of her still in the air and the grinding still in her hips.
+She knew which answer he meant. "I don't," she said, and it broke in the middle of itself, with the wet sound of her still in the air and the grinding still in her hips.
 
-"I know," he said, kind, and did not believe her, and did not need to. And his finger left her.
+"That one gets worse every time."
+
+And his finger left her.
 
 And there was nothing. The still finger, the one point she had been working herself against, the one thing she had, lifted away, and there was air where it had been, cool on the wet, and the bench beneath her giving her nothing, and the ache standing high and unanswered with not even a still hand left to grind on, the small promise of it simply gone. She hung in the nothing of it and made a sound she would never have made if she could have seen herself making it.
 
@@ -220,21 +282,33 @@ And then his hands traded again. The hand that had just struck her drew back and
 
 And the new finger lay still against her, dry and waiting, and this time she did not hold out at all. Her hips went down and ground themselves against it openly, greedily, wetting this hand as she had wetted the last, taking the friction and asking for the blow in the same motion. And when it came she rose to meet it; she lifted for it before it landed, her hips rising of themselves into the fall of his hand, reaching up after the burn the way a body reaches after a thing it has decided that it wants, and the blow came down into the lift of her, sharp on the wet she had made, and she took it open and lifting and wanting; and the shield was nowhere, the no was nowhere, there was no breath left in her anywhere that was shaped like no.
 
-"There she is," he said, very soft, pleased the way a man is pleased when a thing has at last come open to him. "Lifting for it. No more of that no out of you. Now."
+"There she is," he said, very soft, pleased the way a man is pleased when a thing has at last come open to him. "Lifting for it. Now."
 
 He gave her the slick of his fingers again, the swollen point of her under them, working her there where she was open and bare, and ran her up the long slope of it, unhurried, his other hand spread warm over the rising heat where he had struck her; and she climbed, helpless, her breath gone ragged, her hands tightening on the grips, the wave gathering far off and huge, the touch of him drowning the watching self under the flood, almost gone, almost free of itself, almost.
 
-"You don't like this," he said softly, just as it began to crest. "Do you."
+"You don't like this?" he said softly, just as she began to crest. "Do you want me to stop?"
 
-And it caught her like a hook in the back of the head and dragged her straight up out of her body. Because she did. Because she had been an inch from going over and he made her know it, made her hear herself. His fingers lifted off the point of her, his hand drew away and was gone, and the wave dropped back down all at once and left her gasping on the near side of it.
+And it caught her like a hook in the back of the head and dragged her straight up out of her body. Because she did. Because she had been an inch from going over and he made her hear herself.
+
+"Ugh — no," she got out, and the no came from somewhere below the place words meant one thing at a time.
+
+The worst thing was that he did not take his hand away at once. The wave stood there under his still fingers, enormous and unfinished, and she was trapped in the half-second before the loss of it, knowing only that she had answered wrong.
+
+"Then I should stop."
+
+His fingers lifted off the point of her, his hand drawing away and gone, and the wave dropped back down all at once and left her gasping on the near side of it.
 
 And she lifted after his hand.
 
 She did. Before she decided to, before she could stop it, her hips rose up off the rise into the empty air where his fingers had been, reaching, the body chasing what it had lost with its own naked want and no shame fast enough to catch it first, and there was nothing there, only air and the cooling wet; and that the shame caught, a half-second too late, and a sob came up out of her, pure frustration, nothing of grief in it.
 
-"No, you don't like it at all," he said, and she heard how pleased he was, how he had her. "Look at you chasing it. And listen." His fingers came back and slid through her, slow, and the wet sound was loud and lewd and hers. "You're wetter than you were a minute ago. Just from that. Just from me saying it." A low breath behind her, near to a laugh, hungry. "There. More. You feel how much more?"
+"There," he said, and she heard how pleased he was, how he had her. "That was clearer."
 
-She did. That was the unbearable part, that she did, her own scent rising off her now thick and warm and animal, the perfume she had dabbed at her wrists gone under it, only her own self lifting up musky and undeniable into the lamplit air for both of them to smell, *girls like that*, the voice in her sharp and clipped and her mother's; and she pushed back onto his hand and did not deny it now, could not, the week of wanting all in her and the first release having let none of it out, only woken the rest, and she was in hard need, the kind that does not negotiate.
+His fingers came back and slid through her, slow, and the sound was low and lewd and hers.
+
+"Pink and slick," he said, almost under his breath. "All from that."
+
+The words went through her low and hot, and then she felt what he had named: the swollen ache of herself, the slick slide of his fingers through what the little loss of his hand had drawn out of her, her own scent rising off her now thick and warm and animal, the perfume she had dabbed at her wrists gone under it, only her own self lifting up musky and undeniable into the lamplit air for both of them to smell, *girls like that*, the voice in her sharp and clipped and her mother's; and she pushed back onto his hand and did not deny it now, could not, the week of wanting all in her and the first release having let none of it out, only woken the rest, and she was in hard need, the kind that does not negotiate.
 
 With her thighs still locked together she pressed them down against the rise her hips were tipped onto, working, trying to find some edge to bear down on and take the ache off herself; and there was nothing there to find, the thing she lay on giving her no purchase anywhere she searched, and some dim part of her understood even then that it was made that way, that there was nowhere on it she could get to herself, and she stopped, ashamed of the trying, and lay still and wanting.
 
@@ -260,13 +334,23 @@ She could see his feet. That was all the bench had left her, her face down in th
 
 Then his fingers were at her, and it was new, and her whole body knew that it was new. He had not been inside her before, not once, not through any of it; he had run her up and over and back down with the flat of his hand and his thumb and never this. Now, with her spread open and held that way and unable to close, he set the tips of two fingers to the soaked open mouth of her and pressed, barely, just parting her, just past the first give of her and no further, and held there. Only the beginning of him in her. The threshold touched and not crossed, and him gone still against it, waiting, the way the still hand had waited under her all night for her to do the rest.
 
-She strained back onto him. She pushed on the grips and drove her hips up and back toward his hand with everything her arms and her back could give, the whole length of her shaking with the work of it, and "*No,*" she said as she did it, the word drawing out long and coming apart in the middle, "*nooo,*" even while she worked herself further onto him; and for all of that effort he went only a little deeper, a finger's breadth and no more, her own straining body buying her that small new fullness and no push of his to help it. Then the strain broke. Her arms gave and her back came down and her hips sank forward, away from him, off the reach she had made.
+She strained back onto him. She pushed on the grips and drove her hips up and back toward his hand with everything her arms and her back could give, the whole length of her shaking with the work of it, and "*No,*" she said as she did it, the word drawing out long and coming apart in the middle, "*nooo,*" even while she worked herself further onto him; and for all of that effort he went only a little deeper, a finger's breadth and no more, her own straining body buying her that small new fullness and no push of his to help it.
+
+"That's a lot of work for no," he said.
+
+Then the strain broke. Her arms gave and her back came down and her hips sank forward, away from him, off the reach she had made.
 
 And his hand came with her. It followed her down, unhurried, keeping the depth, neither pressing any further in nor letting any of it back out, so that when she settled she lay no shallower on him than she had been at the top of her stretch. The distance was simply gone. She had not got it back. She felt where his fingers stayed inside her, exactly as deep as she had worked them and not a hair less, and she understood it in her body before her mind had the words: that he would keep whatever she gave him, and that the rest of the way was hers to find. Behind her she heard him take a low breath, pleased, and say nothing at all.
 
-So she did it again. Knowing, this time. Knowing that forward was the only direction she had left and that he would hold her wherever she got to, she pushed against the grips and strained back onto him a second time, and now the no came out of her not long but short and bitten, grunted up out of her on the same breath as the effort, the labor and the denial the one sound; and she won another small reach of him up into herself by her own shaking muscle, and her arms failed again, and again his hand rode her sag down and kept the ground and gave her none of it back. Deeper than before, and held there, and she had done it to herself with her eyes open.
+So she did it again. Knowing, this time. Knowing that back was the only direction left to her, and that he would hold her wherever she got to, she pushed against the grips and strained onto him a second time. The no came out of her short and bitten now, huffed up on the same breath as the effort, the labor and the denial the one sound: "no." She won another small reach of him up into herself by her own shaking muscle, and her arms failed again, and again his hand rode her sag down and took none of it back. Deeper than before, and held there, and she had done it to herself with her eyes open.
 
-The third time was not a strain so much as a giving-up into it. She drove back the last of the way and let her whole weight go down onto his hand, and "*no,*" she got out once more, but it failed partway and had nothing left under it, and she came down full and seated on him, all the way, as deep as he would go; and the thing inside her that had been clenching all night on nothing closed at last on something, and the relief of it was so large and so shaming that the sound she made then had no word in it at all. Filled. The empty place full. Her body folded around him greedy and grateful and past all denying, and her mouth had only just given up saying no.
+"That 'no' keeps getting deeper."
+
+The third time was not a strain so much as a giving-up into it. She drove back the last of the way and let her whole weight go down onto his hand, and "*no,*" she got out once more, but it failed partway and had nothing left under it, and she came down full and seated on him, all the way, as deep as he would go; and the thing inside her that had been clenching all night on nothing closed at last on something, and the relief of it was so large and so shaming that the sound she made then had no word in it at all.
+
+"There," he said. "All the way down on 'no'."
+
+Filled. The empty place full. Her body folded around him greedy and grateful and past all denying, and her mouth had only just given up saying no.
 
 And then he began to move in her, his fingers curling up into the place he had found and his thumb settling onto the small swollen point of her, and the whole front of her caught fire from both places at once, filled and pressed and circled all together after the long while of being kept to the outside of herself. He worked her, unhurried, his fingers curling and his thumb circling, the heel of his hand warm over the open base of her, and she felt the wave start to build, far off and enormous, the long slow swell of it rising under her belly, and she gave herself up the slope toward it, climbing, her breath going ragged, her hands tightening white on the grips, her face turning in the ring so that the leather pressed her cheek.
 
@@ -274,9 +358,11 @@ And just before it broke, he eased. Not stopped. Eased, his fingers going still 
 
 "You feel that?" he said, low and unhurried behind her. "How you've got hold of me. You don't want to let me go." And the word did what the hand had quit doing; it hauled her up off the flooded body and into her head, where she had no choice but to know it, to put the plain fact of it into words against her own will: that the inside of her had clenched tight around him to keep him there. The shame went up her in a sheet of heat. Her jaw clamped down against the sound climbing her throat. And the toes that had curled hard toward the crest she had been an inch from uncurled, slow, and hung in the open air, nothing under them to press, nothing to bear down on, hanging the way the whole of her hung.
 
+"Tell me you don't," he said.
+
 She did the only thing left to her. She bore down, rolled her open hips forward and down onto the rise her body was tipped over, hunting some edge, some ridge of it, anything to drag the screaming point of her against and finish what he would not give her; and for one bright half-second she almost had it, the very lip of the support grazing her where she needed it, almost, almost, and then it curved away under her exactly there and gave her nothing, and she understood again and worse that it had been made to give her nothing, that there was no angle on the thing that would let her reach herself.
 
-"Nothing there for you," he said, and she heard the smile in it, fond, behind her. "I know. I built it that way."
+"That isn't telling me," he said. She heard the smile in it. "That's trying to get out of answering." A beat. "Nothing there for you. Keep trying if you like."
 
 The shame of being caught at it, grinding herself on his bench like something that had lost its manners, went through her hotter than the wave had. His feet moved. She watched them go, back down the length of the bench away from her, unhurried, and the going was its own torment, and she heard herself make a small broken sound and did not care that she had.
 
@@ -284,11 +370,17 @@ He came back. But not to the wet of her, not yet. His feet came up close behind 
 
 Then his fingers returned, deep again, and he ran her up a second time, savoring the long climb of her, and eased her down again just under the crest. And this time he set the word against her as he did it.
 
-"That sound you're making," he said. "That isn't a woman who wants to be left alone." It reached her; it always reached her; she felt it land and begin to lift her toward the cold high place where she would have to know that she was making the sound on purpose, that some part of her wanted it heard. The old reflex came up to meet it, the *it's not,* the hand flung out to hold the thing at arm's length. But the body would not give her the height this time. It dragged her back down before the shame could set, down into the flooded want where the words went thin and came apart, and what climbed out of her was not the denial but the thing the denial had always been thrown over. "Please." Small and high and broken, nothing left of the tall composed woman who had walked in. "Please, please." The sweat had come up the whole length of her by now and run forward down the head-low tilt of her, gathering at her brow and sliding stinging into her open eyes, blurring the floorboards under her to a smear; and her arms, that had pushed and held and strained all the long night, had nothing fresh left in them and only trembled on the grips, a fine unstoppable shaking she had no more say over than she had over the sweat.
+"That sound you're making," he said. "That isn't a woman who wants to be left alone."
+
+It reached her; it always reached her; she felt it land and begin to lift her toward the cold high place where she would have to know that she was making the sound on purpose, that some part of her wanted it heard.
+
+"Go on," he said. "Tell me I'm wrong."
+
+The old reflex came up to meet it, the *it's not,* the hand flung out to hold the thing at arm's length. But the body would not give her the height this time. It dragged her back down before the shame could set, down into the flooded want where the words went thin and came apart, and what climbed out of her was not the denial but the thing the denial had always been thrown over. "Please." Small and high and broken, nothing left of the tall composed woman who had walked in. "Please, please." The sweat had come up the whole length of her by now and run forward down the head-low tilt of her, gathering at her brow and sliding stinging into her open eyes, blurring the floorboards under her to a smear; and her arms, that had pushed and held and strained all the long night, had nothing fresh left in them and only trembled on the grips, a fine unstoppable shaking she had no more say over than she had over the sweat.
 
 Then his feet moved around to her side, and his hand came up under her into the open space the bench left below her, and found her breast where it hung. She felt the wet of his fingers first, her own slick carried up off her and laid onto the stiff aching point of her nipple, warm and slippery there; and then the slow roll of it between his fingers, and oh, it was something, it was real, after all the snatching-back it was a true pleasure given and left to stay, and she sank toward it grateful, her breath going long. A small mercy in the middle of the storm. He held her there, rolling the slippery peak of her, easy, and she let her eyes fall closed and took it. Even the fine tremble in her arms let go for the length of it, the one rest they were given all night, her weight sinking toward the single steady kindness within her reach.
 
-And it was a lesser thing. That was the cruelty folded inside the mercy: that it was real and it was not where she needed it, that he could give her something sweet and true here at her breast and leave the rest of her howling, and the small sweetness only sharpened the great want by feeding it nothing. Her knuckles stayed white on the grips. She took what he gave and ached for what he would not.
+And it was a lesser thing. That was the trick folded inside the mercy: that it was real and it was not where she needed it, that he could give her something sweet and true here at her breast and leave the rest of her howling, and the small sweetness only sharpened the great want by feeding it nothing. Her knuckles stayed white on the grips. She took what he gave and ached for what he would not.
 
 His feet moved back behind her. His hand left her breast, and a breath later it fell on her, lower, on the soft underplace where the curve shaded into her thigh, and the lag came, the crack and the white blank and then the late slow bloom of the burn spreading out across her already-hot skin; and the heat of it ran straight inward and down and met his fingers as they slid back into her, and the two became one fire, and she pushed her hips up into it openly, the spank and the want one thing now.
 
@@ -341,6 +433,10 @@ She felt it before she saw it. She felt it gather at the small swollen point of 
 Not soft. Not to her. The most private thing she had, the thing she had scrubbed at over a cold sink an hour ago with the water running so no one would hear, fallen out of her now on its own onto his floor where they could both hear it land. And her body, started now, did not stop: another gathered and stretched and broke, and another behind it, *Pat. Pat.*, her own excess running out of her onto the bare boards faster than the shame could close over each one.
 
 "There it is," he said, very low.
+
+Another drop fell. *Pat.*
+
+"Tell me that isn't you."
 
 And she did not deny it. The reflex came up, the *it's not,* the hand thrown out to hold the thing at arm's length, the thing she had thrown out all night and all her life; it came up and it did not reach her mouth, because there was nothing left in her that wanted to hold this away from him. She let it. She lay open and dripping in the light and said nothing against any of it, and the saying-nothing was the truest thing her body had done all night. She turned her wet face in the ring and gave him, small, the only word she had left.
 
