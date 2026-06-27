@@ -144,7 +144,7 @@ One file per non-trivial scene; the chronology entry links to it. To work on a s
 | `meta-condensed-christmas-fight.md` | The Christmas Fight |
 | `meta-condensed-the-flat-date.md` | The Flat Date |
 | `meta-condensed-first-weekend-back.md` | First Weekend Back |
-| `meta-condensed-the-dance.md` | The Dance (Format Break) |
+| `meta-condensed-on-her-floor.md` | On Her Floor |
 | `meta-condensed-cw-jitterbug.md` | The CW Jitterbug Scene |
 | `meta-condensed-vee-tells-randi-dance.md` | Vee Tells Randi About the Dance (The Jar) |
 | `meta-condensed-restrained.md` | Restrained |

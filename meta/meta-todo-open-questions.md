@@ -184,13 +184,13 @@ Clarify the rule to mark the distinction the draft already uses: the **deep aper
 
 Workshop session that **committed** the threesome end-game mechanics and **designed but did not write** the spring threesome-bridge. Committed this session to `meta-note-threesome-reveal.md`: bound hands (broad strap, restful-restraint; positioned every way; giving with mouth + sex; submissive AND functionally subservient); the kiss withheld by **redirecting Vee's mouth to other body parts** (not avoidance), final kiss as the release of the night-long denial; **voice** — Randi withholds words, releases pleasure-sounds; damp-clasp reconciled to her bound hands. Also renamed the taste-gate *The Telling → Whiskey and Wine*. The items below remain open.
 
-## 22. The spring threesome-bridge — designed in workshop, not yet written (DISCUSS / DRAFT)
+## 22. The spring threesome-bridge — planning note created; chronology integration still pending (DISCUSS / DRAFT)
 
-Bridges the too-fast jump from **First Taste** (Vee tastes herself) to the **Threesome Introduction**. Agreed division of labor: **Randi owns selection; Pace owns bed-fantasy + procurement.** Vee never knows Randi and Pace conspire, and does not know who the third is. To write into the chronology / SATC track:
+Planning note: `meta-note-spring-satc-bridge.md`. It locks the clothing-loan thread, the Vee-reads-Randi spring planting, the revised Spring SATC grid, and the major ordering decisions. The bridge now runs **First Taste → First Taste aftermath → Pointing-Game variation → threesome agreement**. Pace does not supply or select a stranger for Vee; Pace and Randi already have a pre-existing understanding, and the first time Vee encounters the woman is during the threesome.
 
 - **Randi runs a Pointing-Game variation with Vee** (the centerpiece, new scene, not in any doc) — Randi "helps" Vee decide what kind of woman she wants, looking around, Vee giving feedback; Randi *is* the type. Reread: she auditions herself, hears Vee want her by proxy. Hosts Vee's suppressed-Randi cracks; feeds the night-cluster "material has become Randi" beat. Vee will masturbate after these sessions.
-- **Germination / agreement split** of the Threesome Introduction: Pace's bed-fantasies reactivate the wanting (early spring, off the fall Pointing-Game seed) → development across spring → **agreement** (the yes + the blindfold/surprise request) in early summer. Currently the chronology carries the Introduction as a single ~late-May beat.
-- **Pace's procurement = omission** ("someone discreet, you won't have to see her") and the **"Vee describes the woman to Pace"** beat — a description Randi co-authored, of Randi.
+- **Germination / agreement split** of the Threesome Introduction: development across spring → **agreement** (the yes + the blindfold/surprise request) in early summer. Currently the chronology carries the Introduction as a single ~late-May beat.
+- **Pace's arrangement = omission**: he never tells Vee the woman is Randi or that the understanding pre-exists Vee's agreement. From Vee's position, Pace handles the unknown third; in reality, Randi is already the woman.
 - **Lay the 16-week spring timeline** so the ramp distributes across spring and thins the crowded late-May→summer run. Discharges chronology Flags 16 & 19.
 
 ## 23. Threesome choreography still open (DISCUSS)
@@ -209,8 +209,8 @@ Not duplicated here; `meta-plan-chronology.md`'s continuity-flags section owns t
 
 - **Flag 16** — spring underplanned: SATC goodbye-kiss staircase steps; the spring Randi–Pace dynamic; the two unpinned Social Price vignettes.
 - **Flag 17** — scent-name thread: where Vee *asks* the scent's name; the buys-it→shower beat to create.
-- **Flag 19** — Permission Rule second loop + the night cluster (feeds procurement and the masturbation-becomes-Randi beat).
-- **Flag 3 / reveal image** — scrunchie grain #3: a single confirming image at the reveal vs. permanently undecidable.
+- **Flag 19** — Permission Rule second loop + the night cluster (feeds the threesome arrangement and the masturbation-becomes-Randi beat).
+- **Flag 3 / reveal image** — locked in `meta-note-spring-satc-bridge.md`: at reveal, Randi's wild hair is barely contained by Vee's green-and-white polka dot scrunchies.
 - **Flag 15** — whether the ending earns Randi's final POV aperture.
 
 ## 25. Housekeeping — stray memory file (CLEANUP)
