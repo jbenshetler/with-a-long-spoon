@@ -23,7 +23,7 @@ Read
 
 ## How this assistant works
 
-`novel-assistant/` is a small **recall-first search CLI** — `na.py` (SQLite + sqlite-vec + FTS5, local Ollama embeddings), with three commands: `search`, `reindex`, and `style` (a DB-free prose linter that flags style tics — literal phrases like "the way" and structures like "X, not Y" — over a draft or `scenes/`, against `style/style-rules.toml`; `na.py style --help`; see **Style checking** below). Factual lookups go through the **`lore-keeper` subagent**, which queries `na.py search` and falls back to `rg`/Read (see **Research / lore delegation** below). Run `na.py reindex` at session start to keep the index fresh.
+`tools/novel-assistant/` is a small **recall-first search CLI** — `na.py` (SQLite + sqlite-vec + FTS5, local Ollama embeddings), with three commands: `search`, `reindex`, and `style` (a DB-free prose linter that flags style tics — literal phrases like "the way" and structures like "X, not Y" — over a draft or `scenes/`, against `style/style-rules.toml`; `na.py style --help`; see **Style checking** below). Factual lookups go through the **`lore-keeper` subagent**, which queries `na.py search` and falls back to `rg`/Read (see **Research / lore delegation** below). Run `na.py reindex` at session start to keep the index fresh.
 
 ---
 
@@ -55,7 +55,7 @@ The subagent has a **fresh context** — it cannot see the current draft or our 
 
 ### Starting every session
 
-Run `novel-assistant/na.py reindex` once at the start — it's incremental (re-embeds only changed files; ~40s worst case, usually seconds) and idempotent. Then confirm with the author which scene/chapter they're working on. Orient via the lore-keeper, not by reading `meta/` into context.
+Run `tools/novel-assistant/na.py reindex` once at the start — it's incremental (re-embeds only changed files; ~40s worst case, usually seconds) and idempotent. Then confirm with the author which scene/chapter they're working on. Orient via the lore-keeper, not by reading `meta/` into context.
 
 ### Before writing any prose
 
@@ -87,9 +87,9 @@ If the author writes something and asks you to review it, delegate a continuity 
 
 ### Style checking
 
-`novel-assistant/na.py style` is a prose linter that flags style tics — literal phrases (`the way`) and structures (`X, not Y`) — plus hard canon breaches. It is **recall-first: it flags, it never fixes**, and it over-flags on purpose. Use it as a review aid on drafted prose; the judgment stays with you and the author. It needs no index and no Ollama.
+`tools/novel-assistant/na.py style` is a prose linter that flags style tics — literal phrases (`the way`) and structures (`X, not Y`) — plus hard canon breaches. It is **recall-first: it flags, it never fixes**, and it over-flags on purpose. Use it as a review aid on drafted prose; the judgment stays with you and the author. It needs no index and no Ollama.
 
-- **Run it** on a drafted scene or a fresh draft: `novel-assistant/na.py style scenes/<slug>.md` — an explicit path works even before the scene is indexed. No path → all of `scenes/`; `--all` adds `meta/`. A natural moment is right after drafting/revising a scene.
+- **Run it** on a drafted scene or a fresh draft: `tools/novel-assistant/na.py style scenes/<slug>.md` — an explicit path works even before the scene is indexed. No path → all of `scenes/`; `--all` adds `meta/`. A natural moment is right after drafting/revising a scene.
 - **Read, don't obey.** Each hit is a *candidate*. Surface what's worth the author's eye — especially **clusters** (the density is the signal, not the lone hit) — and, exactly as with continuity, **never rewrite the author's prose off a hit unless asked.** The author decides.
 - **`never-name` (severity `error`) is not a tic — it's a canon breach.** Pace's neurodivergence must never be named on the page. Treat any `error` hit as a real violation to flag, not a style nicety.
 - **Accepting a hit (suppression).** When you and the author agree a flagged line should stand, suppress it so it stops nagging: `na.py style <path> --ack` (all hits in scope) or `--ack --fp <hash>` (one hit; the hash is the `[#…]` tag in the output), with `--note "why"`. Suppressed hits hide by default; `--show-suppressed` re-shows them (`✓`); `--unack --fp <hash>` / `--rule <id>` reverses. **Only run `--ack` once the author has signed off** — it records an authorial decision into the repo.
@@ -103,7 +103,8 @@ If the author writes something and asks you to review it, delegate a continuity 
 - `meta/` — the planning corpus: thesis, per-character architecture, the relationship bible, the scene plan, and the SATC/threesome track docs. This is where the novel is *designed*.
 - `scenes/` — drafted prose. New chapters land here.
 - `style/` — this book's style config + decisions, versioned with the prose: `style-rules.toml` (the linter's flagged tics + canon rules) and `style-allow.toml` (accepted hits). See **Style checking**.
-- `novel-assistant/` — the generic recall-first engine (`na.py`) the lore-keeper queries; holds no novel-specific data.
+- `tools/` — book-specific tooling that operates on this repo. `chronology_html.py` generates a self-contained `chronology.html` (status + beat-density view) from `meta/meta-plan-chronology.md`; run `tools/chronology_html.py` to regenerate.
+- `tools/novel-assistant/` — the generic recall-first engine (`na.py`) the lore-keeper queries; holds no novel-specific data. It's a **git submodule** (its own repo, `jbenshetler/novel-assistant`) — changes to `na.py` are committed and pushed there, not in this repo.
 
 There is no prose draft of most scenes yet; `meta/` is far ahead of `scenes/`. Most work is either (a) developing a planned scene into prose or (b) refining the architecture.
 

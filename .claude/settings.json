@@ -1,8 +1,17 @@
 {
   "permissions": {
     "allow": [
-      "Bash(novel-assistant/na.py:*)",
-      "Bash(./novel-assistant/na.py:*)"
+      "Bash(tools/novel-assistant/na.py:*)",
+      "Bash(./tools/novel-assistant/na.py:*)",
+      "Read(scenes/**)",
+      "Edit(scenes/**)",
+      "Write(scenes/**)",
+      "Read(meta/**)",
+      "Edit(meta/**)",
+      "Write(meta/**)",
+      "Read(/tmp/**)",
+      "Edit(/tmp/**)",
+      "Write(/tmp/**)"
     ]
   }
 }
