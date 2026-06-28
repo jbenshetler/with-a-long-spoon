@@ -6,6 +6,7 @@ The dance as the funny story. Then the jar (told only here, never shown): a stuc
 
 ## Key Craft Notes
 
+- **Cold open — re-files the On Her Floor kiss** (committed; see `meta-condensed-on-her-floor.md`). Before the jar/Jitterbug story, the brunch opens on the aftermath of the sorority-mixer kiss: Randi defuses it with laughter (*"oh my GOD, Harrison's face"*), **Randi smooth / Vee brittle** (Vee's brittleness reads as her own vulnerability; Randi's surface stays uncracked — temperature-gap, not a crack in Randi), and probes what Vee told Pace — then rolls into the jar. Surface: two friends laughing off a drunk kiss, closer at the end. Reread: Randi containing the transgression and steering the Pace channel. Keep it warm on first read; the cold lives in the pattern.
 - Opens as the funny story, shifts register mid-telling
 - The jar is the figurative image: stuck jar giving way to nothing
 - The real content: what his invisible, chosen gentleness did to her

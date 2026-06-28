@@ -44,6 +44,8 @@ So the arc is real liberation **and** the engineered precondition for the threes
 
 The escalation logic of 2 → 3 → 4: solo (no frame) → he gives her the words → she gets closer (frame-driven) → she verifies. His description is the thing that pushes her body past the stall.
 
+**Motivation for step 1 (committed, integration pending).** The coated kiss is set up by a prior Pace/Vee conversation: Vee tells Pace she kissed Randi at the mixer (`meta-condensed-on-her-floor.md`) — *not* cheating, so she can bring it to him; it turns hot, and Pace asks whether she's thought about being with another woman. That curiosity motivates the coated kiss, and the just-happened Randi kiss gives Vee's *"I'm not gay"* door-slam a concrete referent. **Keep Forbidden Kiss itself unannounced** — he doesn't declare a test; the conversation is the submerged reason, the kiss stays deniable. Whether the telling-conversation is its own beat or merges into Forbidden Kiss, and its sequence vs. The Jar brunch, are open (see `meta-todo-open-questions.md` #26).
+
 -----
 
 ## Planting discipline (how to plant without telegraphing)

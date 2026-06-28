@@ -216,3 +216,17 @@ Not duplicated here; `meta-plan-chronology.md`'s continuity-flags section owns t
 ## 25. Housekeeping — stray memory file (CLEANUP)
 
 A research sub-agent auto-wrote `spring-satc-gap.md` into the project memory dir during an earlier session. Keep it as a spring-SATC planning capture, or discard — undecided.
+
+-----
+
+# On Her Floor — Aftermath & Pace-Telling (pull-back session)
+
+## 26. Vee-tells-Pace beat + the Forbidden-Kiss motivation (DISCUSS / PLACE)
+
+Committed this session: because the Randi mixer-kiss is **not cheating** (`meta-condensed-on-her-floor.md` beat 9), Vee can bring it to Pace. NEW Pace/Vee beat — Vee tells Pace about the kiss; it turns hot, and Pace asks whether she's ever thought about being with another woman. This **motivates the Forbidden Kiss coated-kiss test** (taste-thread step 1), and the just-happened Randi kiss gives Vee's *"I'm not gay"* door-slam a concrete referent. Thematically powerful: the two tracks collide through Pace.
+
+Open:
+- **Placement / sequence vs. The Jar.** The Jar's cold open has Randi probe *"you didn't tell Pace, did you?"* If Vee tells Pace **before** the brunch, Randi's control of the Pace-channel leaks (rich collision); **after**, Randi may steer the telling. Decide order.
+- **Merge vs. separate from Forbidden Kiss.** Recommended: the telling-conversation is its own beat that motivates a still-**unannounced** Forbidden Kiss (keeps the coated kiss deniable per `meta-note-taste-thread.md` step 1 / `meta-note-forbidden-kiss.md`). Alternative: merge into one scene.
+- **Pace knows Randi intimately** (they're sleeping together). When Vee names *Randi* as the girl she kissed, what does Pace reveal/conceal? Charged; unstaged.
+- Cross-refs: `meta-condensed-on-her-floor.md` (Aftermath section), `meta-note-taste-thread.md` (step 1 motivation note), `meta-condensed-vee-tells-randi-dance.md` (The Jar cold open).
