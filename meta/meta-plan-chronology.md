@@ -24,6 +24,8 @@ Pace and Randi have been sleeping together ~3 weeks before the Bench. Relationsh
 
 ---
 
+**◆ VOLUME ONE — Fall**  ·  *the Beginning — the ascending relationship, through the first crack*
+
 ## Early
 
 ### [SCENE] The Bench
@@ -80,8 +82,6 @@ He turned the heat up before she came. Burgundy silk matched to her coloring, no
 Warmer, less performed than the Randi version. The heat detail lands hardest (*"He turned it up days ago, probably"*); Cassie goes still. Tips into comedy. Quiet Cassandra-track work. Pairs with the Cassie beat in Stats — Simpson's Paradox (experience → completed object).
 
 ---
-
-## Middle
 
 ### [SCENE] Vee Tells Randi About the Fitting Brunch
 *~Sun Oct 6* · Draft complete · `brunch-fitting-randi.md` · [detail](meta-condensed-brunch-fitting-randi.md)
@@ -199,9 +199,17 @@ Listless and flat at home without Pace, without Randi. The absence of both in th
 *~late December · Christmas break, after the Christmas Fight* · Unwritten · Pace/Sheri
 Winter kills the ride; the meal is the scene. A diner, counter seats — side by side, the no-eye-contact form still loosening the overshare (a choice now, not a crutch; face-to-face wouldn't tax him). Pace and Sheri are the two with no family table over the holidays — she was disowned, he won't go back — and neither says so. Pace carries the question Vee left unanswered at the Christmas Fight, and carries it in her absence; he can't name what's wrong and doesn't try. Sheri reads sideways, asks the question he doesn't quite answer. Pays off the first ride. Third panel of the break triptych with the Flat Date and Vee — Christmas: three principals apart, but his is the only bond on the page that isn't lonely. Establishes Sheri as the one who sees Pace from outside his own architecture.
 
+---
+
+## Middle
+
 ### [SCENE] First Weekend Back
 *~Fri Jan 19 · first weekend of spring semester* · Unwritten · [detail](meta-condensed-first-weekend-back.md)
-Bomber jacket and broadcloth without being asked. The proprietary feeling she hasn't earned the right to.
+Bomber jacket and broadcloth without being asked. The proprietary feeling she hasn't earned the right to. *Volume One closes here, on the false reconciliation; Volume Two opens on the scene after.*
+
+---
+
+**◆ VOLUME TWO — Spring**  ·  *the Middle — the apparatus at full extraction; the bloom before the souring*
 
 ### [SCENE] Forbidden Kiss
 *~late January · just after First Weekend Back, before The Reach* · Architecture complete, prose not drafted · Vee POV · [detail](meta-condensed-forbidden-kiss.md) · [craft](meta-note-forbidden-kiss.md)
@@ -211,13 +219,13 @@ Taste-thread **gate #1** (the Refusal), on the page. After he goes down on her, 
 *~late January · Vee's room · Unwritten · Vee solo*
 Alone, masturbating, working from the memory of how he looked at her wet — *like it was true, like it was fine.* At the peak she brings her fingers to her face: the sniff she can do (the old animal-evidence flinch, now threaded with wanting); the tongue she can't — it stops a breath short, no contact, and she doesn't have the reason (the taboo she could name for his coated kiss has no purchase on her own fingers; the deeper stop has no words). She wipes them, finishes; the wanting-to-know outlasts the orgasm. An open loop, reaching for the knowledge of herself only he has. Sets up the cabin's watched version (private → witnessed) and First Taste (the loop he later closes). Taste held; the woman-taboo stays subterranean. Body before mind — she feels the wall, never names it.
 
----
-
-## Late
-
 ### [SCENE] On Her Floor
 *Late January* · Draft in progress · `scenes/on-her-floor.md` · FB · [detail](meta-condensed-on-her-floor.md)
 Randi loans Vee a stretchy knit skirt for a sorority event. On Randi's floor, Randi recruits Vee into a show for Harrison: disco handholds, Randi's lead, skirt riding up, then a paused open-mouth kiss framed as play. Touch-signature and kiss-signature deepen under deniability.
+
+### [SCENE] Vee Tells Pace About the Kiss
+*~early February · just after On Her Floor* · Unwritten · Vee POV · [detail](meta-condensed-vee-tells-pace-about-the-kiss.md)
+She can't take the mixer kiss to Randi (naming it exposes her own want) and Cassie can't hold the bodily/queer charge — so she brings it to Pace, the only door left. Processing it turns hot; *afterward*, in the afterglow, he asks whether she's ever thought about being with a woman. The **threesome plant** — his, deniable, real curiosity AND the move at once; ends on the open question, nothing agreed. Motivates the still-unannounced Forbidden Kiss and gives the *"I'm not gay"* door-slam a concrete referent. Placed before The Jar so Randi's control of the Pace-channel leaks; what Pace conceals when Vee names Randi is charged and unstaged. See [[meta-note-threesome-reveal]].
 
 ### [SCENE] The CW Jitterbug Scene
 *~February · a Saturday* · Unwritten · [detail](meta-condensed-cw-jitterbug.md)
@@ -230,6 +238,10 @@ The dance as the funny story. Then the jar — what his invisible chosen gentlen
 ### [SCENE] Restrained
 *~February* · Unwritten · [detail](meta-condensed-restrained.md)
 Restraint removes the question of her hands — a gift for involuntary-response shame. Told to Randi (SATC); voice changes; *"Comfortable?"*
+
+### [SCENE] A Threesome, With You (The Conversion)
+*~late February · a different day from the plant, after intervening brunches and solo-processing* · Unwritten · Vee POV
+The plant germinates off the page — SATC brunches and the spring nighttime vignettes (almost, then actually, masturbating to the idea she can't take to Randi) — and surfaces here as **her** move: she converts *a woman* into *a threesome, with you* — because Pace is what makes experimenting safe, and she's honest enough to tell him so. **Vee-authored** (this is what keeps Pace deniable; he never asks). Starts with Pace *in the room* for safety, not yet the fully-interactive shape — the move to *Pace with the woman too* is the Randi-steered spring escalation that lands at the Agreement. The safety she names here is the same safety that became conditional rent at First Weekend Back. Warm on both reads; the cold is the reader's. See [[meta-note-threesome-reveal]].
 
 ### [SCENE] Winter Wonderland
 *~January–February · a snow day · no fixed sequence (snow-window only)* · Unwritten · Vee POV
@@ -325,15 +337,21 @@ Pace **buys** (does not build) a massage table — deliberately the anti-(custom
 
 ### [SCENE] Vee on the Bench
 *~late May · the erotic apex before the rupture sequence* · Draft complete · `scenes/vee-on-the-bench.md` · Vee POV · [detail](meta-condensed-vee-on-the-bench.md) · [craft](meta-note-vee-on-the-bench.md)
-The bench returns (opening payoff), now under Vee — *used on only two women, Randi then Vee, the load-bearing difference between them*. Same apparatus, opposite outcome: Pace praises her lushness and her aliveness, the involuntary tells read aloud as delight, and exposure (her excitement, not her wound) drives the shame-arousal loop to overflow — multi-orgasmic where Randi was wrung once. She blooms where Randi broke: the seeing feeds a hunger she was built to run, not a need she has no equipment for. Rendered inside Vee, the inverse of the opening's outside-Randi vantage — the bench re-seen first-time through her, body-before-mind (see `meta-note-vee-on-the-bench.md`); the audience-shaming move is dropped (Randi-coded). Last full bloom before Ignition turns it toward souring; brackets the opening. Spawns the bench brunch — Vee describes it to Randi, who has been on it, double register holding.
+The bench returns (opening payoff), now under Vee — *used on only two women, Randi then Vee, the load-bearing difference between them*. Same apparatus, opposite outcome: Pace praises her lushness and her aliveness, the involuntary tells read aloud as delight, and exposure (her excitement, not her wound) drives the shame-arousal loop to overflow — multi-orgasmic where Randi was wrung once. She blooms where Randi broke: the seeing feeds a hunger she was built to run, not a need she has no equipment for. Rendered inside Vee, the inverse of the opening's outside-Randi vantage — the bench re-seen first-time through her, body-before-mind (see `meta-note-vee-on-the-bench.md`); the audience-shaming move is dropped (Randi-coded). Last full bloom before Ignition turns it toward souring; brackets the opening. Spawns the bench brunch — Vee describes it to Randi, who has been on it, double register holding. **Volume Two curtain** — the last full bloom; the threesome is raised but not yet agreed, the one door left open across the seam.
 
-### [SCENE] The Threesome Introduction
-*~late May · after finals* · Unwritten · [detail](meta-condensed-threesome-introduction.md)
-He plants it as observation; reads her body vs. ideology; she brings it to Randi; Randi walks her toward it; *"She's thinking about it."*
+---
+
+**◆ VOLUME THREE — Summer**  ·  *the End — the rupture and the reveal*
+
+## Late
 
 ### [SCENE] The Sheer Dress Brunch + The Dressing Room (Format Break)
 *~early June* · Unwritten · FB · [detail](meta-condensed-sheer-dress-brunch.md)
-Randi braless in sheer fabric; explicit story (never resolved); first crack where the writing-off needs effort. Dressing room: Randi offers to *buy her one* — money as power. The nipple tweak = control-slip. Drive-home reckoning.
+Randi braless in sheer fabric; explicit story (never resolved); first crack where the writing-off needs effort. Dressing room: Randi offers to *buy her one* — money as power. The nipple tweak = control-slip. Drive-home reckoning. **Volume Three / the rupture opens here** — hot, and the first crack in writing Randi off.
+
+### [SCENE] The Threesome — Agreement
+*~early-to-mid June · early summer* · Unwritten · Vee POV · [detail](meta-note-threesome-reveal.md)
+The yes, and the terms she sets: a woman, blindfolded, surprised — she won't know who or when until it's over. **She builds her own blindfold.** Culmination of the spring germination and the Randi-steered escalation to a fully-interactive threesome (Randi sells Vee's *maximalism* and the masochist's sacrifice — *it's not fair to leave Pace wanting* — never her own stake; see [[meta-note-threesome-reveal]]). Pace handles the "unknown" third; in fact Randi is already the woman, the understanding pre-dating Vee's agreement.
 
 ### [SCENE] Scalding Jealousy Ignition
 *~June* · Draft complete · `scenes/ignition-scalding.md`
@@ -341,10 +359,10 @@ Diptych. Sunday: Randi post-coital with Pace, negotiating more time, accidentall
 
 ### [SCENE] Vee Tells Randi About the Bench
 *~late June · post-Ignition · SATC · Vee POV* · [detail](meta-condensed-vee-tells-randi-bench.md)
-Vee retells the bench (the late-May apex) to Randi, not knowing Randi was ever on it. Placed for maximum scald: Randi, just wrecked in Ignition, hears the blooming — the staying-open her apparatus couldn't do — narrated in detail by the woman who could. Fresh proof that Pace's seeing was real and the failure was hers. Double register holds; the wound shows only in the wordless tells (the cup, a control raw from Ignition). Goodbye-kiss at the late/pre-seam rung, a candidate for the first real control-slip. The configuration-as-agent at maximum voltage — Vee in good faith the agent of the deepest harm.
+Vee retells the bench (the late-May apex) to Randi, not knowing Randi was ever on it. Placed for maximum scald: Randi, just wrecked in Ignition, hears the blooming — the staying-open her apparatus couldn't do — narrated in detail by the woman who could. Fresh proof that Pace's seeing was real and the failure was hers. Double register holds; the wound shows only in the wordless tells (the cup, a control raw from Ignition). Goodbye-kiss at the late/pre-seam rung, a candidate for the first real control-slip. The configuration-as-agent at maximum voltage — Vee in good faith the agent of the deepest harm. The bench itself is the Volume Two curtain; this retelling sits in Volume Three, so the volume break is the gap that loads the scald.
 
 ### [SCENE] First Taste (the taste-domino) `[slot TBD]`
-*~late spring · slot + ordering vs. the Threesome Introduction TBD* · Unwritten · [craft](meta-note-taste-thread.md)
+*~late spring · slot + ordering vs. the threesome agreement TBD* · Unwritten · [craft](meta-note-taste-thread.md)
 The self-taste crossing — apex of the year-long self-taste thread (beat-spine and planting discipline: `meta-note-taste-thread.md`). The **ivory nightie** (costs him; no panties; the fit establishes value; inverse of the hiking shirt; pearls worn with it) and the **tasting-herself sequence**: she checks the whiskey/white-wine frame (already hers from Whiskey and Wine) against her own tongue; he bypasses the kiss, samples with his penis, offers a taste; *"A shot?"*; the inducement. She crosses the line she drew; the open loop from The Reach closes. (The ivory cami + tight satin panties variant lives here too — reconcile with the canon nightie's no-panties logic when drafting.) Land it by ~June or early July, before The Peaches, so the Peaches → The First Love → Threesome run into the reveal stays clean.
 
 ### [SCENE] The Peaches
@@ -354,6 +372,10 @@ Five-beat chapter. (1) **Dinner (snappish)** — unresolved conflict over emotio
 ### [SCENE] The First Love
 *~late July or early August · the last Pace/Vee two-hander before the threesome* · Architecture complete, prose not drafted · Vee POV · [craft](meta-note-first-love.md)
 He tells Vee about the first relationship: fifteen and alone on campus, a nineteen-year-old, a couple of years, and she left for ordinary reasons — and he, the boy who broke his own silence and said the words, was leveled. Contained, but the sadness shows and she reads it: the gorilla suit slipping, the thaw the year withheld; the heartbreak visible, the vow it bred never named. Placed after The Peaches (whose unavailability wound he must leave open) and just before the reveal — she gets the realest thing he has, then the blindfold comes off: maximum sympathy against maximum harm. Arms the irony, never exonerates (he never connects the wound to the vow, or to what he is doing to her). Candidate payoff of the failed *Peter* reach at First Weekend Back — Peter answers here, days before it's taken from her. Capstone of the disclosure staircase. Don't fuse with The Scar.
+
+### [SCENE] The Falling Out and Repair (Randi/Vee)
+*~late July or early August · close to the threesome* · Unwritten · [detail](meta-note-threesome-reveal.md)
+Randi crosses from exposure into evaluation — the one register Vee can't tolerate; Vee withdraws without naming why; Randi doesn't pursue (her most controlled, costly move), a casual text that asks nothing, a week or two; Vee comes back because the pull exceeds the discomfort. The uncrossable line crossed and forgiven. Placed close to the threesome so the friendship feels freshly reaffirmed when the blindfold goes on; the betrayal lands harder for it. Full design: [[meta-note-threesome-reveal]].
 
 ### [SCENE] The Threesome and Reveal
 *~early August* · Architecture complete, prose not drafted · `meta-note-threesome-reveal.md` · [detail](meta-condensed-threesome-reveal.md)
@@ -374,6 +396,7 @@ Vee leaves with full knowledge, full anger, full ownership. Pace reads the wrong
 - **Vee's mirror-time ritual (fall install → spring corruption).** Recurring beats of Vee at Pace's bathroom sink: washing her face, hair up, a scrunchie off the form, returns dropped loose (never re-threaded). Installed 3–4 times across the fall as pure domestic warmth, each occurrence doing other scene-local work — candidates: First Night's morning; the First Swat's Sunday morning; Re-Scenting (the form-plant proper); His Shirt — Pre-Dawn or First Weekend Back. By January the reader knows the drawer the way she does. In spring the same container holds the accumulating doubt — the definiteness questions left open by the Christmas Fight and the drawer arithmetic in one stream, so the gaslight lands inside her most settled habitat. Never flagged, never explained.
 - **Pace's deed-stream continues undiminished through spring.** The fall-register tenderness (the cooking, the small provisions, froyo-grade sweetness, the playful register — Pool, Jitterbug) threads through the escalation scenes. Load-bearing twice: it leavens the BDSM intensity exactly as Randi's genuine warmth earns the SATC extractions, and it is the gaslight's substrate — the doubt must stay entirely *epistemic* (can she trust her readings?), never *evidentiary* (the evidence of his love never thins; a thin spring deed-stream would accidentally argue "maybe he doesn't love her," which is the wrong book). Her question is actions vs. words — the cohabitation grit: the lived reality full, the named status absent — real and dignified before any grain lands; the grains remove the ground she stood on while living with it. The catalog of unworded declarations grows all year: the shirt, the scrunchies, the top drawer, the dress, the meals. Calibration: Vee stays the settled one (Randi owns the chaos) — the grit is a stone in the shoe, recurring at low level in mirror-time, surfacing only at pressure points (the Christmas Fight; the peaches dinner), never a spiral. Specific spring beats: plan with the flag-16 block.
 - **Vee's desire for Randi** — tracked as the *failure* of the writing-off; never resolves before the reveal.
+- **The could-have-been (resonance only, never on the page).** After On Her Floor the clean thing was available — Randi and Vee, with or without Pace, no apparatus — and both are sealed out of it: Vee by shame, Randi by fear of losing the friendship. The bare path was not only unspoken but *inert* to their appetites (Randi can't be received; Vee's shame, kindly received, cools to *fine*), so it reads not as a fixable miscommunication but as the thesis — the appetite forecloses the bare happiness it reaches for. Carried in On Her Floor (the fork) and the goodbye-kiss staircase (the want rationed in deniable doses); detonates at the reveal. The *why* lives in [[meta-thesis]] (the operational muteness / the bare thing foreclosed); never named on the page.
 - **The sorority social-penalty convergence** — from the walk-of-shame gauntlet tightening toward house consensus across the Early phase.
 - **Sheri bike rides; Cassie's quiet vindications; the statistics mirrors; the ex surfacing.**
 - **Pace's increasing editorial silence with Randi** — gradually shorter reports across the Late phase as he protects what he can't name.

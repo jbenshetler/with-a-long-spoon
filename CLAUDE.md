@@ -110,12 +110,11 @@ There is no prose draft of most scenes yet; `meta/` is far ahead of `scenes/`. M
 
 ## Document authority — read in this order, trust in this order
 
-The corpus accreted across numbered "Sessions" and document versions. **Version tags have been removed from filenames — git is the version history now — but older prose still carries conceptual version/Session labels, and the documents still silently supersede one another on *content*.** Before acting on any plot/structure detail, reconcile against the most recent source. Known hazard: `meta/meta-plan-summary.md`'s scene inventory is stale where it conflicts with `meta/meta-plan-chronology.md` — **the chronology doc owns current scene order and inventory and wins on those.** When in doubt, prefer the chronology and the `[NEW]` markers — and flag the conflict rather than silently picking one.
+The corpus accreted across numbered "Sessions" and document versions. **Version tags have been removed from filenames — git is the version history now — but older prose still carries conceptual version/Session labels, and the documents still silently supersede one another on *content*.** Before acting on any plot/structure detail, reconcile against the most recent source. **The chronology doc owns current scene order and inventory and wins on those.** When in doubt, prefer the chronology and the `[NEW]` markers — and flag the conflict rather than silently picking one.
 
 Authoritative-by-domain (each doc owns its subject; don't relitigate it elsewhere):
 
 - `meta/meta-plan-chronology.md` — **current scene order and inventory**. Story order = list order. Carries live `[NEW]` beats and a "continuity flags to resolve" section at the bottom — check it before placing or reordering scenes.
-- `meta/meta-plan-summary.md` — master concept overview and document map. Front door for orientation; **inventory section is superseded** (see above).
 - `meta/meta-arch-bible.md` — authoritative on character, best phrasings to preserve, and the **Global Craft Rules** (the non-negotiables below live here in full).
 - `meta/meta-thesis.md` — the structural argument: the three destructive appetites, the bargain, why each character half-sees. The "why" under everything.
 - `meta/meta-arch-pace.md`, `meta/meta-arch-randi.md`, `meta/meta-arch-vivienne.md` — deep per-character architecture (the *why*); each has a `meta/meta-craft-*.md` companion for voice/craft/surface rendering.

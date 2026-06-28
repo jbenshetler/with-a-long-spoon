@@ -189,7 +189,7 @@ Workshop session that **committed** the threesome end-game mechanics and **desig
 Planning note: `meta-note-spring-satc-bridge.md`. It locks the clothing-loan thread, the Vee-reads-Randi spring planting, the revised Spring SATC grid, and the major ordering decisions. The bridge now runs **First Taste → First Taste aftermath → Pointing-Game variation → threesome agreement**. Pace does not supply or select a stranger for Vee; Pace and Randi already have a pre-existing understanding, and the first time Vee encounters the woman is during the threesome.
 
 - **Randi runs a Pointing-Game variation with Vee** (the centerpiece, new scene, not in any doc) — Randi "helps" Vee decide what kind of woman she wants, looking around, Vee giving feedback; Randi *is* the type. Reread: she auditions herself, hears Vee want her by proxy. Hosts Vee's suppressed-Randi cracks; feeds the night-cluster "material has become Randi" beat. Vee will masturbate after these sessions.
-- **Germination / agreement split** of the Threesome Introduction: development across spring → **agreement** (the yes + the blindfold/surprise request) in early summer. Currently the chronology carries the Introduction as a single ~late-May beat.
+- **Germination / agreement split** *(RESOLVED — see chronology):* the single Introduction is dissolved into the plant (*Vee Tells Pace About the Kiss,* ~early Feb), the conversion (*A Threesome, With You,* ~late Feb), spring germination, and the **agreement** (the yes + blindfold/surprise terms, early summer, Vol III). The fully-interactive escalation (*Pace in the room → Pace with the woman*) is **Randi-steered** — mechanism in `meta-note-threesome-reveal.md`; per-brunch staircase steps remain TBD at spring SATC drafting.
 - **Pace's arrangement = omission**: he never tells Vee the woman is Randi or that the understanding pre-exists Vee's agreement. From Vee's position, Pace handles the unknown third; in reality, Randi is already the woman.
 - **Lay the 16-week spring timeline** so the ramp distributes across spring and thins the crowded late-May→summer run. Discharges chronology Flags 16 & 19.
 
@@ -221,12 +221,13 @@ A research sub-agent auto-wrote `spring-satc-gap.md` into the project memory dir
 
 # On Her Floor — Aftermath & Pace-Telling (pull-back session)
 
-## 26. Vee-tells-Pace beat + the Forbidden-Kiss motivation (DISCUSS / PLACE)
+## 26. Vee-tells-Pace beat + the Forbidden-Kiss motivation (PLACED — see chronology; one craft point open)
 
 Committed this session: because the Randi mixer-kiss is **not cheating** (`meta-condensed-on-her-floor.md` beat 9), Vee can bring it to Pace. NEW Pace/Vee beat — Vee tells Pace about the kiss; it turns hot, and Pace asks whether she's ever thought about being with another woman. This **motivates the Forbidden Kiss coated-kiss test** (taste-thread step 1), and the just-happened Randi kiss gives Vee's *"I'm not gay"* door-slam a concrete referent. Thematically powerful: the two tracks collide through Pace.
 
-Open:
-- **Placement / sequence vs. The Jar.** The Jar's cold open has Randi probe *"you didn't tell Pace, did you?"* If Vee tells Pace **before** the brunch, Randi's control of the Pace-channel leaks (rich collision); **after**, Randi may steer the telling. Decide order.
-- **Merge vs. separate from Forbidden Kiss.** Recommended: the telling-conversation is its own beat that motivates a still-**unannounced** Forbidden Kiss (keeps the coated kiss deniable per `meta-note-taste-thread.md` step 1 / `meta-note-forbidden-kiss.md`). Alternative: merge into one scene.
+Resolved (see chronology + `meta-condensed-vee-tells-pace-about-the-kiss.md`):
+- **Placement** — ~early Feb, right after On Her Floor and **before The Jar**, so Randi's control of the Pace-channel leaks.
+- **Merge vs. separate** — its own beat that motivates a still-**unannounced** Forbidden Kiss (coated kiss stays deniable per `meta-note-taste-thread.md` step 1 / `meta-note-forbidden-kiss.md`).
+
+Still open:
 - **Pace knows Randi intimately** (they're sleeping together). When Vee names *Randi* as the girl she kissed, what does Pace reveal/conceal? Charged; unstaged.
-- Cross-refs: `meta-condensed-on-her-floor.md` (Aftermath section), `meta-note-taste-thread.md` (step 1 motivation note), `meta-condensed-vee-tells-randi-dance.md` (The Jar cold open).
