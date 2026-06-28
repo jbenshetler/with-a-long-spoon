@@ -3,8 +3,8 @@ instructions
 .claude/mcp*.json
 .claude/agent-memory/
 .opencode.json
-novel-assistant/.env
-novel-assistant/data/
+tools/novel-assistant/.env
+tools/novel-assistant/data/
 data/
 MEMORY.md
 ref/

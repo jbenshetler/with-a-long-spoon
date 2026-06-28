@@ -1,0 +1,3 @@
+[submodule "tools/novel-assistant"]
+	path = tools/novel-assistant
+	url = git@github.com:jbenshetler/novel-assistant.git

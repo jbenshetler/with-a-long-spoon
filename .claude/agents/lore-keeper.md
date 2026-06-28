@@ -18,7 +18,7 @@ When invoked you receive a question — often with a draft snippet to check agai
 **Primary — the recall-first index (`na.py`).** From the repo root run:
 
 ```
-novel-assistant/na.py search "<query>" --json --top 12 [--active-edit <slug>] [--max-sequence <slug>]
+tools/novel-assistant/na.py search "<query>" --json --top 12 [--active-edit <slug>] [--max-sequence <slug>]
 ```
 
 It's a hybrid (vector + keyword) search that deliberately **over-returns** tagged candidate passages — it does NOT filter; that's your job. Each JSON result carries `file`, `heading_path` (breadcrumb provenance), `sequence` (or null), `flags`, and the expanded `text`. Pass `--active-edit <slug>` when the caller names the scene being edited, and `--max-sequence <slug>` for an "as of scene X" scope. Run more than one query if the question has distinct facets — recall is cheap (~150 ms).
@@ -28,7 +28,7 @@ It's a hybrid (vector + keyword) search that deliberately **over-returns** tagge
 **Regex lane — `--regex`.** Add `--regex` to turn `search` into a keyword-only PCRE-style pattern scan (the query is the pattern). Reach for it whenever the question is about an *exact form* rather than a topic:
 
 ```
-novel-assistant/na.py search "\bPeter\b" --regex --json --top 12 [-i] [--file 'scenes/%']
+tools/novel-assistant/na.py search "\bPeter\b" --regex --json --top 12 [-i] [--file 'scenes/%']
 ```
 
 - **When to use it:** finding every reference to a name/place/object/phrasing (`\bPeter\b` vs `\bPace\b`, `green\s+sheets`, `scrunchie`); dialogue-tag or punctuation patterns; verifying a canonical line is slotted verbatim; catching spelling/variant drift. Use the plain (non-`--regex`) hybrid search for "passages *about* X" — meaning, theme, what-happens questions.
