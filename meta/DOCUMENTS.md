@@ -60,7 +60,6 @@ scene-by-scene architecture.
 | File | What it answers |
 |------|----------------|
 | `meta-plan-chronology.md` | Scene chronology: running order by phase (Early / Middle / Late), thin per-entry summaries with links to condensed companions, continuity flags, and threaded-throughout threads. Scenes are identified **by name** (no numbers) and ordered by list position; this doc also owns all calendar dates. First document to check for sequence and placement questions. |
-| `meta-plan-summary.md` | Condensed whole-novel summary; character physical/object details; document map (may contain stale links — see `meta-todo-open-questions.md`). |
 | `meta-plan-satc-tracks.md` | Architecture of the SATC lunch scenes; extraction mechanics; Randi's operational register across the lunch track. |
 | `meta-plan-dress-cluster.md` | The dress cluster; sequence, dependencies, what each scene must accomplish. |
 | `meta-plan-pace-house.md` | The house room-by-room; object inventory; how the space reads to Vee across the year. |
@@ -154,7 +153,7 @@ One file per non-trivial scene; the chronology entry links to it. To work on a s
 | `meta-condensed-secret-plans.md` | Secret Plans (The Princess / Vee's Adventure) |
 | `meta-condensed-grain-3-restoration.md` | Grain #3 — The Restoration (The Loud One) |
 | `meta-condensed-vee-on-the-bench.md` | Vee on the Bench |
-| `meta-condensed-threesome-introduction.md` | The Threesome Introduction |
+| `meta-condensed-vee-tells-pace-about-the-kiss.md` | Vee Tells Pace About the Kiss (the threesome plant) |
 | `meta-condensed-sheer-dress-brunch.md` | The Sheer Dress Brunch + The Dressing Room |
 | `meta-condensed-vee-tells-randi-bench.md` | Vee Tells Randi About the Bench |
 | `meta-condensed-peaches.md` | The Peaches |

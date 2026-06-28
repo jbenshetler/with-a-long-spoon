@@ -133,7 +133,7 @@ The front half of the Saturday late-afternoon beat, leading into the reintegrati
 
 ## Still open (flagged, not resolved)
 
-- **First Taste slot + ordering.** Placed ~late spring, *after* the Threesome Introduction (late May) — which reframes the introduction as a soft plant and the taste-crossing as the tipping move. Exact slot and that ordering are marked `[slot TBD]` in the chronology.
+- **First Taste slot + ordering.** Placed ~late spring/early summer; the soft plant is now the early-Feb *Vee Tells Pace About the Kiss* beat, and First Taste is the taste-crossing that tips Vee from agreeing to proceeding. Exact slot and its ordering vs. the threesome agreement are marked `[slot TBD]` in the chronology.
 - **Garment naming.** The "ivory cami + tight satin panties" you named conflicts with the canon "ivory nightie / no panties" (the no-panties is load-bearing for the tasting). To reconcile when First Taste is drafted.
 - **Blazon light — RESOLVED:** clear, ample **late-afternoon** light, held through the whole lit sequence (Pace's careful seeing needs real light; the day fails *after*, for the confession). Earlier "dusk/fading" and "midday" options dropped.
 - **Daylight-sex (Sat morning):** added as the key's overflow + the blazon's seeing-setup. Keep short so it doesn't compete with the late-afternoon set-piece; render as her overflow, not payment.
