@@ -24,7 +24,9 @@ She does not narrate her own appetite, her own restriction, or her own wound —
 
 **The control lives inside the warmth, never instead of it.** A dominance move (steering, a faint correction, an extraction probe) arrives wrapped in affirmation, deniable, soft. She does not put Vee on the back foot by coolness; she does it by warmth so total Vee wants to deserve it.
 
-**Do NOT write her:** cool, withholding, sarcastic, back-foot (*"you're late"*). That is the wrong Randi and it puts the mark on guard instead of opening her.
+**Do NOT write her:** cool, withholding, sarcastic, back-foot (*"you're late"*), or self-deprecating. That is the wrong Randi and it puts the mark on guard instead of opening her.
+
+**She never wants up.** Her compliments confer from above (*you've got great legs*) and never reach toward what she lacks (*I'd kill for your legs*) — she ranks others; she is not ranked. Self-deprecation, envy voiced aloud, the wish-I-had: all the wrong Randi. The flattery is a gift handed down, never a comparison she comes out under.
 
 **The silence with Pace is the measure.** The affirmation engine runs everywhere *except* with Pace. With Pace the bright coin is useless — he is not bought by it, not opened by it — so the machine goes quiet. Render the contrast: Randi voluble, affirming, in command of the air in every other room; Randi quieter, stripped of her instrument, oddly without her usual fluency, in rooms with Pace. Do not explain the contrast; let it do its work.
 
@@ -33,7 +35,7 @@ She does not narrate her own appetite, her own restriction, or her own wound —
 - Dominance moves arrive wrapped in affirmation, deniable
 - She does not narrate her own restriction or appetite
 - With Pace: dial the engine down; less affirmation, more silence and tell
-- Avoid: cool put-downs, sarcasm-as-distance, withholding-as-power
+- Avoid: cool put-downs, sarcasm-as-distance, withholding-as-power, self-deprecation/wanting-up
 
 ---
 

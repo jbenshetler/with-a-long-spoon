@@ -1,5 +1,71 @@
 # On Her Floor
 
+Chi Latte was full of girls, bright as a kitchen — the long window table all sorority, a pledge book going hand to hand down it and getting laughed over. Randi had her cardigan on over the workout things she half-lived in, the expensive kind that wore their money on the inside, soft and unbranded, nothing on them you could say out loud. A tall matcha went green and cloudy at her elbow; she never sweetened anything. Vee had a coffee and the sweater she'd decided that morning was the good one, and their coats hung over the backs of the two chairs.
+
+"Wanna go to a party with me?" Randi said.
+
+"Yes." It was out before the question had finished, fast, a yes with no floor under it, and Vee heard how it sounded and felt the heat come up. She turned her cup a quarter-turn on the table. "What party?"
+
+"My sorority's throwing a mixer Saturday night." Randi tipped a shoulder. "I get a plus-one."
+
+A mixer meant a man on your arm — that was the shape of the word, the whole pairing-off of it. "You could get a date," Vee said, because it was easier than the other thing. "Easily."
+
+"You're more fun than any guy." The smile came up full, the whole megawatt of it, nothing held back. "Guys you have to manage all night. You I just get to have." She winked at Vee over the rim of the matcha.
+
+Then, lightly, around the straw, the way a good friend would: "What about Pace?"
+
+"He gets me Friday. He gets me Sunday." Vee smiled, the luckiest girl, getting to split her weekend between her devastating lover and her glamorous friend. "You get me Saturday night."
+
+"Good." Randi pushed her matcha aside like the deal was struck. "You're free after this, right? Come help me pick — I've got it down to three and I genuinely can't choose. I need your eyes."
+
+And Vee, who'd have followed her just about anywhere by now, said yes to this as fast as she'd said yes to the first.
+
+Randi's room was the same warm clutter it always was. She went to the closet and pulled the three she'd narrowed it to, holding each against herself at the mirror and turning for a verdict — and Vee gave it to her straight, because that was the fun of it. The first was too much; the second did nothing; and then the pale aqua, strapless and simple, the skirt of it short, and it lit her eyes up so blue that Vee said *that one* before she'd finished turning. Randi looked at herself a moment, pleased, and let the other two fall onto the bed.
+
+And watching how easy it was — three good things in a closet full of them, the right one settling on her like it had been waiting all week — Vee felt the other thing arrive, the one she'd kept at the edge of the afternoon. She had nothing like this. She had nothing that was right at all.
+
+"I have to buy something." It was out before she could soften it. "I don't have anything that's right."
+
+"Don't be silly." Randi turned for the closet.
+
+"Randi — " Vee got there first, a hand half-up. "Nothing in there's going to fit me but the shoes. We're built different, you and me. And you're shorter than I am."
+
+"Not that short." She said it lightly, sure of it, and pulled the door open. She went straight down the rail without hunting — she knew right where it was — and came out with it over one finger: a little iridescent skirt, stretchy and weightless, the sheen sliding oil-on-water as it swung. "Here." She held it out. "It'll look better on you than it does on me anyway. Legs like yours, and that ass? Wear it with your black wrap top, keep it simple — let the skirt do the talking."
+
+Vee took it. It weighed nothing — a scrap, really. She held it to her waist, clocked how little of her it would cover, and said nothing, because Randi was so sure, and being included was worth the risk.
+
+---
+
+Out of the shower, her face done, the skirt on — and no way in the room to see the whole of herself at once. The mirror over the sink gave her her face and shoulders and quit at her bust. The mirror inside the closet door was wide enough but too short, cut off above the hem, so she got her legs to mid-thigh and then the frame took the rest. The room had no wall far enough off to stand against and see it all. She turned one way and then the other, the sheen sliding over the skirt as she moved, and got herself in pieces.
+
+Cassie watched from the lower bunk, a textbook open against her knees, highlighter capped.
+
+"That's an outfit," she said.
+
+"It's a sorority mixer. Randi's." Pride got into her voice, and she let it. "I'm her plus-one."
+
+Cassie had her whole position on sororities and Vee had hers; they'd agreed a long time ago not to run it again. Tonight Cassie didn't reach for it. She looked at Vee standing there in the skirt and let it lie.
+
+"On Randi that's short. On you —" She tipped her head, doing the math out loud, accurate and unbothered. "You've got a foot of leg on her, and an ass she hasn't got at all. That hem's not going to stay put."
+
+Vee walked to the window and back. Three steps and the hem had started up the back of her thigh, then stopped, finding its own level — a little higher than she'd set it, and a good deal lower than Cassie was making it sound. She set her fingers to the hem where it sat on her thigh, and left it there.
+
+"You're going to be tugging that all night," Cassie said.
+
+"It'll be fine."
+
+"At a dance?"
+
+But she liked it — that was the truth under the nerves, and for once she let it stand. Any other night a skirt this short would have put her hand to the hem and her eyes to the floor, too much of her showing, all of it asking to be looked at. Tonight the skirt was Randi's. Randi dressed like this and walked into rooms as if she'd built them; in Randi's skirt the wanting wasn't hers to answer for. She caught the slide of the sheen in the strip of mirror — the bare bright length of her leg, the shape the cloth made of her — and held her own eyes there instead of dropping them. She turned once more just to bring back the hot, low pull of it: of being about to be looked at and for once not minding. Of wanting to be.
+
+"No Pace tonight?" Cassie asked the textbook, turning a page she wasn't reading.
+
+"He gets me tomorrow." Vee smiled. "Tonight I'm Randi's date."
+
+Cassie's eyebrow went up a half-inch and stayed there. Whatever it was for, she didn't say it, and Vee, already most of the way into the night, didn't ask her to.
+
+---
+
 After a few sets they came off the floor flushed and laughing, holding each other up by the forearms, and went to the bar for something cold. Randi ordered a margarita, and Vee — watching the salt, the pale cloudy green of it, the sweet-and-sour that would carry the liquor down so gently you barely met it — said she'd have the same. She had meant to drink champagne tonight; she'd decided on it days ago, the way you decide what kind of girl you'll be at a party you're nervous about. She was glad already she'd followed Randi instead.
 
 The music made talking a contact sport. You got a sentence in the gap between songs, and after that there was only the cupped hand, the mouth brought to the ear, the half-shouted nothing you laughed at because the laughing was the point. Randi said things into Vee's ear and Vee felt the words more than heard them, the warm shape of the breath, and said things back, and they sat close the way the room made everyone sit close. At some point a second margarita was in front of her; she hadn't seen Randi order it. She had never been so easy in her own skin in a room full of strangers.
