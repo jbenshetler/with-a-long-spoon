@@ -74,6 +74,13 @@ text = "It's the thing that makes all the rest of you read the way it does."
 note = "Pace's dialogue — his cataloguing cadence as he names her body; voice, not narrative telling. Do not sanitize."
 
 [[ok]]
+fp   = "e240a87af7f5"
+rule = "filter-verbs"
+file = "scenes/on-her-floor.md"
+text = "She heard herself say *god, his face* in a voice that knew how to do this even now, and laughed, and the laugh came out sounding like the room."
+note = "deliberate filter: Vee dissociated, hearing her own voice perform the cover while her body still rings"
+
+[[ok]]
 fp   = "62e1469e7eb8"
 rule = "there-was-were"
 file = "scenes/on-her-floor.md"
