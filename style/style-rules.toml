@@ -61,6 +61,50 @@ severity = "info"
 why      = "'Not X but Y' antithesis (X may be several words) — same construction as x-not-y. Vary or cut if it clusters."
 unless   = '(?i)\bnot\s+only\b'   # 'not only … but also' is a correlative, not the tic
 
+# ---- Lexical / word-choice tics ---------------------------------------------
+
+[[rule]]
+id       = "weather"
+kind     = "phrase"
+phrase   = "weather"
+severity = "warn"
+why      = "'weather' as metaphor (sensation/mood as 'weather') is a tic. Allowed ONLY for literal meteorology — recast any figurative use."
+
+[[rule]]
+id       = "a-small"
+kind     = "regex"
+pattern  = '(?i)\ba\s+small\s+\w+'
+severity = "warn"
+why      = "'a small X' is the tic — substantially reduce. Cut, or choose a more specific image."
+
+[[rule]]
+id       = "file-verb"
+kind     = "regex"
+pattern  = '(?i)(?<!\b(?:a|an|the|this|that|these|those|her|his|my|your|our|their|its|each|every|one|paper|case|nail|single|whole|personnel|on)\s)\b(?:re-?)?fil(?:e|es|ed|ing)\b'
+severity = "warn"
+why      = "'file' as a verb (categorizing/re-filing experience as paperwork) is a tic. Recast the categorization image; noun uses are fine."
+
+[[rule]]
+id       = "catalog-verb"
+kind     = "regex"
+pattern  = '(?i)(?<!\b(?:a|an|the|this|that|these|those|her|his|my|your|our|their|its)\s)\bcatalog(?:ue)?(?:s|ed|ing|d)?\b'
+severity = "warn"
+why      = "'catalog' as a verb (cataloging/itemizing experience) is a tic. Recast; noun uses are fine."
+
+[[rule]]
+id       = "learn"
+kind     = "regex"
+pattern  = '(?i)\blearn(?:s|ed|ing)?\b'
+severity = "info"
+why      = "Not a tic — a default-reach word the assistant favors. On each hit, double-check it's the precise verb and not autopilot; often it isn't."
+
+[[rule]]
+id       = "without-asking"
+kind     = "phrase"
+phrase   = "without asking"
+severity = "warn"
+why      = "'without asking' telegraphs the consent theme. Render the act; let the absence of asking land without the label."
+
 # ---- Hard canon rules (never name, never explain) ---------------------------
 
 [[rule]]
