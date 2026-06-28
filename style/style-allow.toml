@@ -226,3 +226,325 @@ rule = "the-way"
 file = "scenes/the-bench.md"
 text = "The lamplight fell across her back and shoulders and down over the long pale length of her, her skin taking the light the way oiled wood took it — warm, deep, alive at the surface."
 note = "oiled-wood motif: furniture-maker rendering her body"
+
+[[ok]]
+fp   = "55306d44c38c"
+rule = "a-small"
+file = "scenes/the-pointing-game.md"
+text = "A woman crossed the path ahead of them, twenty feet up, headed for the colonnade — petite and built to the proper scale, the scale Randi approved of and maintained, narrow through the shoulder and hip, an oval face, a small straight nose, dark hair in a high sleek ponytail that swung when she moved."
+note = "literal — she's petite; the diminutive is doing real work"
+
+[[ok]]
+fp   = "6cae39457ccd"
+rule = "a-small"
+file = "scenes/the-pointing-game.md"
+text = "A small collision."
+note = "kept — author's call"
+
+[[ok]]
+fp   = "fe42ed00c308"
+rule = "a-small"
+file = "scenes/the-pointing-game.md"
+text = "A small shake of the head."
+note = "kept — author's call"
+
+[[ok]]
+fp   = "3efb0e3cbafa"
+rule = "began-to"
+file = "scenes/the-pointing-game.md"
+text = "The grass was still summer-green, would be green another month, but the dogwoods at the edge of the quad had started to rust at the tips and one sugar maple near the chapel had gone over all at once, a single tree burning orange in a field of things that had not yet decided to change."
+note = "reviewed in style pass — accepted to stand"
+
+[[ok]]
+fp   = "0eb0d9569615"
+rule = "filter-verbs"
+file = "scenes/the-pointing-game.md"
+text = "So he saw it land."
+note = "reviewed in style pass — accepted to stand"
+
+[[ok]]
+fp   = "19d25cc14bb4"
+rule = "filter-verbs"
+file = "scenes/the-pointing-game.md"
+text = "He felt it go through her like something thrown."
+note = "reviewed in style pass — accepted to stand"
+
+[[ok]]
+fp   = "30caf54ff498"
+rule = "filter-verbs"
+file = "scenes/the-pointing-game.md"
+text = "He saw the precise instant the words stopped being something said in bed and became something asked—and she flinched."
+note = "reviewed in style pass — accepted to stand"
+
+[[ok]]
+fp   = "44f38907aa01"
+rule = "filter-verbs"
+file = "scenes/the-pointing-game.md"
+text = "\"Too — \" She watched the ponytail reach the shade of the colonnade and turn."
+note = "reviewed in style pass — accepted to stand"
+
+[[ok]]
+fp   = "4f292f42af7d"
+rule = "filter-verbs"
+file = "scenes/the-pointing-game.md"
+text = "Names, now: he watched the little ritual of it, the heads, the small social warming of three people discovering they could stand to talk for a minute."
+note = "reviewed in style pass — accepted to stand"
+
+[[ok]]
+fp   = "54586d4b443f"
+rule = "filter-verbs"
+file = "scenes/the-pointing-game.md"
+text = "He admired it, a little, even as he saw through it: she gathered herself and reached for the warm lower register, trailed one finger down his chest, tilted into him and pressed a slow kiss to his jaw."
+note = "reviewed in style pass — accepted to stand"
+
+[[ok]]
+fp   = "5a5a3106477a"
+rule = "filter-verbs"
+file = "scenes/the-pointing-game.md"
+text = "He held still and let her have it and watched her face the whole way, and what he saw there—the brief astonishment, the helplessness of it—told him everything the question had been for."
+note = "reviewed in style pass — accepted to stand"
+
+[[ok]]
+fp   = "6e4e47ea965f"
+rule = "filter-verbs"
+file = "scenes/the-pointing-game.md"
+text = "He kissed her forehead and got up and started pulling on his clothes, and she watched him from the bed, taking inventory as she always did, and after a moment she reached for hers too."
+note = "reviewed in style pass — accepted to stand"
+
+[[ok]]
+fp   = "7063e6660172"
+rule = "filter-verbs"
+file = "scenes/the-pointing-game.md"
+text = "He saw it please her — the corner of her mouth, the half-beat of recalibration as she understood the rules better than she had a sentence ago: the choosing was hers."
+note = "reviewed in style pass — accepted to stand"
+
+[[ok]]
+fp   = "729e9e6f1f53"
+rule = "filter-verbs"
+file = "scenes/the-pointing-game.md"
+text = "Then the third beat, and he felt it arrive in her body before her face changed: the question resolved, the frame snapped into place, and she went hunting up the path after the swinging ponytail."
+note = "reviewed in style pass — accepted to stand"
+
+[[ok]]
+fp   = "8aa4bc6f5940"
+rule = "filter-verbs"
+file = "scenes/the-pointing-game.md"
+text = "He watched her understand it."
+note = "reviewed in style pass — accepted to stand"
+
+[[ok]]
+fp   = "8ad94dbdb1db"
+rule = "filter-verbs"
+file = "scenes/the-pointing-game.md"
+text = "He saw the answer come up out of her before she made it a sentence — saw her stop, fully, the loose afternoon walk arrested mid-step, the half-stride dropping out from under her."
+note = "reviewed in style pass — accepted to stand"
+
+[[ok]]
+fp   = "984392884990"
+rule = "filter-verbs"
+file = "scenes/the-pointing-game.md"
+text = "He watched it work through her in stages."
+note = "reviewed in style pass — accepted to stand"
+
+[[ok]]
+fp   = "b70af9a629db"
+rule = "filter-verbs"
+file = "scenes/the-pointing-game.md"
+text = "Past the athletic center the path ran along the practice fields and then bent toward the library, and somewhere along there he felt the thing in her change."
+note = "reviewed in style pass — accepted to stand"
+
+[[ok]]
+fp   = "bcd90d0b71e4"
+rule = "filter-verbs"
+file = "scenes/the-pointing-game.md"
+text = "She laughed, low in her throat, and the thing she said came out warmer and realer than she meant it to — he heard the seam in it, the place where the performance didn't quite cover the actual heat underneath."
+note = "reviewed in style pass — accepted to stand"
+
+[[ok]]
+fp   = "c230679ecbdf"
+rule = "filter-verbs"
+file = "scenes/the-pointing-game.md"
+text = "Then she heard herself, and he watched her reach for the costume — watched the recovery start its work, her eyes coming back off the girl at last, the warmth coming up over the bareness, the kitten finding the floor."
+note = "reviewed in style pass — accepted to stand"
+
+[[ok]]
+fp   = "e676b429e75b"
+rule = "filter-verbs"
+file = "scenes/the-pointing-game.md"
+text = "He felt the small recoil of that in her hand, the propriety offended."
+note = "reviewed in style pass — accepted to stand"
+
+[[ok]]
+fp   = "1ad13377ec6b"
+rule = "learn"
+file = "scenes/the-pointing-game.md"
+text = "There was a great deal of afternoon, and the rushing would have done the opposite of what he wanted — would have made it a task, a thing being driven at, and the whole art of it was that it stay a game, a thing they were doing together because it was fun, her edge and his attention, the kind of afternoon she had learned to expect from him."
+note = "reviewed in style pass — accepted to stand"
+
+[[ok]]
+fp   = "94ef3e1cd6d6"
+rule = "learn"
+file = "scenes/the-pointing-game.md"
+text = "He was watching her learn that she could."
+note = "reviewed in style pass — accepted to stand"
+
+[[ok]]
+fp   = "f9238881d2ad"
+rule = "learn"
+file = "scenes/the-pointing-game.md"
+text = "Four weeks in she'd learned he did things—some he named in advance and some he didn't—and she'd learned to be game for the unnamed ones."
+note = "reviewed in style pass — accepted to stand"
+
+[[ok]]
+fp   = "1167e9e19198"
+rule = "not-x-but-y"
+file = "scenes/the-pointing-game.md"
+text = "Now, after — not before, not to be told what to want, but after the wanting had already shown, the social animal catching up and turning to him with the question that had nothing to do with whether she liked the girl and everything to do with whether she was allowed: *is this one mine to take.* He smiled at her."
+note = "reviewed in style pass — accepted to stand"
+
+[[ok]]
+fp   = "3fea5984bef0"
+rule = "not-x-but-y"
+file = "scenes/the-pointing-game.md"
+text = "He had decided this beforehand, the way he decided most things—not as strategy but as the shortest line to something true."
+note = "reviewed in style pass — accepted to stand"
+
+[[ok]]
+fp   = "68f9acca61a5"
+rule = "not-x-but-y"
+file = "scenes/the-pointing-game.md"
+text = "Not a question, but he wanted to hear her say it."
+note = "reviewed in style pass — accepted to stand"
+
+[[ok]]
+fp   = "b33057e3b926"
+rule = "not-x-but-y"
+file = "scenes/the-pointing-game.md"
+text = "He had not planned the maple but he was glad of the maple."
+note = "reviewed in style pass — accepted to stand"
+
+[[ok]]
+fp   = "07844e3d30a2"
+rule = "the-way"
+file = "scenes/the-pointing-game.md"
+text = "He even felt the rightness of it settle in his chest, the way the last piece of a thing settles—because the frame she'd built to hide in was the exact frame he needed to proceed."
+note = "simile (rightness settling like a last piece) — kept"
+
+[[ok]]
+fp   = "22e6c89381b2"
+rule = "the-way"
+file = "scenes/the-pointing-game.md"
+text = "He chose it now, the way he chose most things, fast and without seeming to, for the angle it gave on the doors."
+note = "method-echo with L9 — deliberate"
+
+[[ok]]
+fp   = "26c3f6a1af57"
+rule = "the-way"
+file = "scenes/the-pointing-game.md"
+text = "He was reading the grain of her, the way you read a board before you cut it, finding which way the figure ran — and he'd thought he knew the figure before they left the house."
+note = "furniture-maker grain simile — core metaphor"
+
+[[ok]]
+fp   = "2ffd280da36a"
+rule = "the-way"
+file = "scenes/the-pointing-game.md"
+text = "It was all over her, the grin, breaking the managed surface the way the dropped stride had, the way the bare *yes* had — her body out ahead of her composure again, lit up."
+note = "deliberate anaphora callback (dropped stride / bare yes)"
+
+[[ok]]
+fp   = "37add2e4133d"
+rule = "the-way"
+file = "scenes/the-pointing-game.md"
+text = "Randi considered the pair the way she might consider a dish she had not ordered."
+note = "consumerist simile (appraising women like dishes) — deliberate"
+
+[[ok]]
+fp   = "6b80c1b0956c"
+rule = "the-way"
+file = "scenes/the-pointing-game.md"
+text = "She was walking with another girl and she had her head thrown all the way back, laughing — balanced even in that, throat bare to the sky, laughing at something with her whole body the way the polished girls and the matched pairs and the closed camel-coat project would never laugh at anything in public, would never let go of the wheel that completely — laughing like a person who had genuinely forgotten, for the length of the laugh, that she could be seen."
+note = "characterizing contrast (Vee vs curated girls); rides a literal 'all the way back'"
+
+[[ok]]
+fp   = "9a1adc8042d7"
+rule = "the-way"
+file = "scenes/the-pointing-game.md"
+text = "He had decided this beforehand, the way he decided most things—not as strategy but as the shortest line to something true."
+note = "method-echo with L113 — deliberate (fast, unstrategic decisiveness)"
+
+[[ok]]
+fp   = "e83c522569a7"
+rule = "the-way"
+file = "scenes/the-pointing-game.md"
+text = "The wind came down off the ridge and got at her hair the way it got at everything else on the quad and found almost nothing to move — black and fine and gathered back into a sleek ponytail, a scrunchie at the crown the one allowed flourish, the tail swinging clean when she turned her head and not otherwise; she had decided that morning exactly how much of her the day would be permitted to touch, and bound the rest."
+note = "kept — wind treats her hair like everything else, finds nothing to move"
+
+[[ok]]
+fp   = "ff66199ee7c0"
+rule = "the-way"
+file = "scenes/the-pointing-game.md"
+text = "Long, lean, a narrow triangular face that came to a tidy chin, handsome more than pretty, and closed all the way down — eyes forward, mouth set, an air that had no give in it and no room in it, a girl moving through the quad as if it were a corridor between two places that mattered more."
+note = "literal 'all the way down' (completeness), not the construction"
+
+[[ok]]
+fp   = "0912be43784d"
+rule = "there-was-were"
+file = "scenes/the-pointing-game.md"
+text = "\"God, no,\" Randi said, fast, and there was real feeling in the *no*."
+note = "reviewed in style pass — accepted to stand"
+
+[[ok]]
+fp   = "7456c44fb325"
+rule = "there-was-were"
+file = "scenes/the-pointing-game.md"
+text = "There was a great deal of afternoon, and the rushing would have done the opposite of what he wanted — would have made it a task, a thing being driven at, and the whole art of it was that it stay a game, a thing they were doing together because it was fun, her edge and his attention, the kind of afternoon she had learned to expect from him."
+note = "reviewed in style pass — accepted to stand"
+
+[[ok]]
+fp   = "89cf710274a8"
+rule = "there-was-were"
+file = "scenes/the-pointing-game.md"
+text = "There was no managing in it."
+note = "reviewed in style pass — accepted to stand"
+
+[[ok]]
+fp   = "33da2a0f834c"
+rule = "x-not-y"
+file = "scenes/the-pointing-game.md"
+text = "Not the expected, not the matched pairs, not the closed projects, not the ones who ran the room."
+note = "reviewed in style pass — accepted to stand"
+
+[[ok]]
+fp   = "555374aa9a87"
+rule = "x-not-y"
+file = "scenes/the-pointing-game.md"
+text = "The *maybe* had taught him something and he tried to use it: not the closed ones, not the mirrors — try open, try warm, try a woman who took up room and was glad to."
+note = "reviewed in style pass — accepted to stand"
+
+[[ok]]
+fp   = "6702c220d055"
+rule = "x-not-y"
+file = "scenes/the-pointing-game.md"
+text = "Easy, automatic, not even a glance back at the tray."
+note = "reviewed in style pass — accepted to stand"
+
+[[ok]]
+fp   = "7bdefe3a44c6"
+rule = "x-not-y"
+file = "scenes/the-pointing-game.md"
+text = "He'd guessed wrong, and the wrongness was instructive: not that kind of open, not warmth that ran the room and knew it."
+note = "reviewed in style pass — accepted to stand"
+
+[[ok]]
+fp   = "952aa9cc8987"
+rule = "x-not-y"
+file = "scenes/the-pointing-game.md"
+text = "A sound, not a word."
+note = "reviewed in style pass — accepted to stand"
+
+[[ok]]
+fp   = "f2512ba06ff9"
+rule = "x-not-y"
+file = "scenes/the-pointing-game.md"
+text = "Now, after — not before, not to be told what to want, but after the wanting had already shown, the social animal catching up and turning to him with the question that had nothing to do with whether she liked the girl and everything to do with whether she was allowed: *is this one mine to take.* He smiled at her."
+note = "reviewed in style pass — accepted to stand"
