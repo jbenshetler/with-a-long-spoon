@@ -81,6 +81,20 @@ text = "She heard herself say *god, his face* in a voice that knew how to do thi
 note = "deliberate filter: Vee dissociated, hearing her own voice perform the cover while her body still rings"
 
 [[ok]]
+fp   = "8a0ddd0d75a4"
+rule = "the-way"
+file = "scenes/on-her-floor.md"
+text = "Then, lightly, around the straw, the way a good friend would: \"What about Pace?\""
+note = "Load-bearing: 'the way a good friend would' IS the double register — Randi asks exactly as a friend would (deniable), cold on reread (she manages the Pace channel). Carries the irony, not telling."
+
+[[ok]]
+fp   = "bd902ab7b11a"
+rule = "the-way"
+file = "scenes/on-her-floor.md"
+text = "Whatever it was for, she didn't say it, and Vee, already most of the way into the night, didn't ask her to."
+note = "Idiomatic distance ('most of the way into the night'), not the filtered 'the way she…' construction the rule targets. False positive."
+
+[[ok]]
 fp   = "62e1469e7eb8"
 rule = "there-was-were"
 file = "scenes/on-her-floor.md"
