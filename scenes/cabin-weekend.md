@@ -1,6 +1,6 @@
 # The Cabin Weekend
 
-*The pivot — the key and the watched exposure. Vee's POV. ~late February. Arrival drafted; remainder unwritten. See `meta/meta-note-cabin-weekend.md`.*
+*The pivot — the key and the watched exposure. Vee's POV. ~late February. See `meta/meta-note-cabin-weekend.md`.*
 
 ---
 
@@ -84,7 +84,25 @@ There was nowhere to be and nothing to rush toward. He undressed her slowly in t
 
 ---
 
-*[Saturday: morning coffee and the key on the porch, the daylight overflow, the easy walk down to the lake, the plum lingerie given when they came in, the warm wash — planned, not yet drafted. See `meta/meta-note-cabin-weekend.md`. The draft resumes in the late afternoon.]*
+Saturday came up clear and hard and bright, the cold of it ringing, and they took their coffee out onto the porch to meet it. He had carried pastries up the mountain too, wrapped in waxed paper and gone a little flat from the trip, and they ate them out of their laps on the top step where they'd had the cider, with the meadow blazing white-gold under the early sun and the frost still holding blue in the long shadow the cabin threw.
+
+When the pastries were gone he went inside and came back with something in his two hands and set it in her lap without a word about it, the way he did most things, and sat back down beside her.
+
+It was a box. Oiled wood, small enough to close both hands around, and she knew the hand that had made it before she knew what it was: the close-fitted corners, the grain run unbroken across the lid, the whole of it brought to that soft satin warmth she had felt under her palms once before, on a bench, in what seemed now another life. He had made this. He had stood at a bench and made her a box.
+
+She worked the lid up. Inside, on a small pillow of silk so pale it was nearly not a color, an oyster paleness, lay a key. A plain brass key, new-cut, the bright burr still standing on its teeth. She had the odd passing sense she had felt that silk against her skin somewhere before, and could not think where, and the not-knowing slid off her as soon as it came, because there was the key.
+
+"You're more than a guest in my house," he said. "I've never given a key to anyone."
+
+And there it was. Not the word she had reached for in December, not the larger thing said out loud into the air between them; but a key cut to his own door, and a box he had made with his hands to carry it up here and set in her lap, and her chest did the thing it had done on the porch the night before, the old wish rising and this time meeting something solid under it to stand on. He had said house. Some small exact part of her, the part that had never been quite sure what to call home, marked the word and waited half a beat for the other one, the one with a hearth in it. The other one didn't come. She let it go, the way she was learning to let it go, because the key was already warm in her palm from his hands, and a key was a thing she could close her fingers around, and the word she wanted had only ever been air.
+
+She set the box down on the step and turned and kissed him, the gladness in her too big now to stay sitting still under, and the kiss went long and then went past itself; and they left the coffee going cold and went back in, into the bright cold room with all the shutters open and the fire not yet built up. He laid her down in the plain white morning light with nothing drawn over the windows and no dark anywhere to keep her, and he didn't reach for one. He looked at her the whole of it, in the unsparing daylight, looked at her as though the light were a thing he had set out on purpose to have her in, and she let herself be looked at, glad, the gladness needing somewhere to go.
+
+In the afternoon they walked down to the lake. She had her own boots this time, worn to her own feet, and the path off the meadow ran easy and downhill and open, no wall of woods pitched up in front of her to read with her legs before her eyes could, only the tawny grass giving way to scrub and, far below through the bare trees, the grey gleam of water. The sky stayed clear. Nothing came down on them. She walked it sure and dry and warm from the moving, the key riding in her jacket pocket where she could feel it knock at her hip with every step, and somewhere on the way down it came to her without weight that the last time she'd done this she had been soaked to the skin and shaking and certain to her bones she had no business on the side of a mountain. None of that was true of her anymore. She went where he went now, and her feet had learned the ground.
+
+The lake lay flat and steel-colored and rimmed at the shallows with a lacework of ice, and they stood at the edge of it and didn't do much and didn't say much, and the cold came up off the water clean and enormous. He stood behind her with his arms crossed over her and his chin in her hair, and she watched her own breath go out and spread and vanish over the ice, and felt, with no complication in it anywhere, that she was exactly where she wanted to be.
+
+They came back up as the light went long and gold, and the climb that would have undone her once only warmed her through, and she was glad of the cabin when its chimney showed over the rise. He built the fire up again. While he was crouched at it she saw that sometime before they left he had laid something out for her along the foot of the bed: a fold of plum silk over the white quilt, deep and rich against it, nothing said. "For tonight," was all he gave her, when he caught her looking. She didn't go to it yet. She let it lie there being a promise, and went to run herself a warm shower instead, to take the cold of the lake out of her legs before the evening came.
 
 ---
 
