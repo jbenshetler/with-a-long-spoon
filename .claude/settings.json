@@ -3,6 +3,8 @@
     "allow": [
       "Bash(tools/novel-assistant/na.py:*)",
       "Bash(./tools/novel-assistant/na.py:*)",
+      "Bash(tools/chronology_html.py:*)",
+      "Bash(./tools/chronology_html.py:*)",
       "Read(scenes/**)",
       "Edit(scenes/**)",
       "Write(scenes/**)",
