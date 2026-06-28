@@ -72,3 +72,31 @@ rule = "the-way"
 file = "scenes/cabin-weekend.md"
 text = "It's the thing that makes all the rest of you read the way it does."
 note = "Pace's dialogue — his cataloguing cadence as he names her body; voice, not narrative telling. Do not sanitize."
+
+[[ok]]
+fp   = "62e1469e7eb8"
+rule = "there-was-were"
+file = "scenes/on-her-floor.md"
+text = "There was no Harrison, no show, no word for what this was or wasn't, no right and no wrong and no one watching — there was the seam of their mouths and the slow generous work Randi made of it and the heat letting down through her, low and liquid and total, and her hips pressing once to Randi's before she could stop them, asking."
+note = "deliberate anaphora — category-dissolve at the kiss's center"
+
+[[ok]]
+fp   = "a3c8dfabe5aa"
+rule = "there-was-were"
+file = "scenes/on-her-floor.md"
+text = "There was no floor."
+note = "deliberate anaphora — category-dissolve at the kiss's center"
+
+[[ok]]
+fp   = "df9e0e26f768"
+rule = "there-was-were"
+file = "scenes/on-her-floor.md"
+text = "There was no Harrison, no show, no word for what this was or wasn't, no right and no wrong and no one watching — there was the seam of their mouths and the slow generous work Randi made of it and the heat letting down through her until she had gone slick and aching with it, her body making the same humiliating announcement it always made, no way now to call it back, and making it for Randi — and her hips pressing once to Randi's before she could stop them, asking."
+note = "deliberate anaphora — category-dissolve at the kiss's center"
+
+[[ok]]
+fp   = "90c1fbb449bf"
+rule = "x-not-y"
+file = "scenes/on-her-floor.md"
+text = "Because it was not just a girl, not just the bit."
+note = "deliberate antithesis — fires once; it was not just a girl, it was Randi"
