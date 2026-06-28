@@ -10,6 +10,17 @@ IMPORTANT: When making code edits that don't require complex decisions, use Haik
 IMPORTANT: When searching files for literal or regex text, always use rg over grep. Do not search binary or excluded files unless specifically asked to.
 IMPORTANT: When writing scene drafts, do not editorialize and do not telegraph.
 
+Read 
+    - meta/meta-brief.md
+    - meta/meta-thesis.md
+    - meta/meta-arch-bible.md
+    - meta/meta-plan-chronology.md
+    - meta/meta-arch-vivienne.md
+    - meta/meta-arch-pace.md
+    - meta/meta-arch-randi.md
+    - meta/meta-rules.md
+
+
 ## How this assistant works
 
 `novel-assistant/` is a small **recall-first search CLI** — `na.py` (SQLite + sqlite-vec + FTS5, local Ollama embeddings), with three commands: `search`, `reindex`, and `style` (a DB-free prose linter that flags style tics — literal phrases like "the way" and structures like "X, not Y" — over a draft or `scenes/`, against `style/style-rules.toml`; `na.py style --help`; see **Style checking** below). Factual lookups go through the **`lore-keeper` subagent**, which queries `na.py search` and falls back to `rg`/Read (see **Research / lore delegation** below). Run `na.py reindex` at session start to keep the index fresh.
