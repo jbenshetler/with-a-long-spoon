@@ -51,7 +51,7 @@ Safe registers:
 - Jewelry: wrists, throat, hands, small flashes that can be read as taste before body.
 - Scent: nameable intimacy; the safe question that later makes the reveal-night scent-swap work.
 - Clothes: body displaced into fabric, fit, cut, cost, and Randi's taste.
-- Shoes: closeness without fit-problems; the object that can travel between bodies and into the reveal.
+- Shoes: closeness without fit-problems — clothes travel between them too (lent, they transform on Vee), but the shoe travels *cleanly*, no distortion, which is what carries it into the reveal.
 
 The full body-read should not arrive early. Spring should show Vee working harder to keep the attention in aesthetic categories until the Sheer Dress / Dressing Room format-break makes that laundering begin to fail.
 
