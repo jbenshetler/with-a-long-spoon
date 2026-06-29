@@ -66,6 +66,40 @@ Cassie's eyebrow went up a half-inch and stayed there. Whatever it was for, she 
 
 ---
 
+The room was the one cool place in the building, because Cassie kept the window cracked its two inches against a furnace nobody could throttle; the hall, when Vee stepped into it, was the furnace winning — heat standing in it like water, close and total, so that she was glad of the bare legs before she'd gone ten steps. She went down it in the borrowed shoes and was surprised again, as she'd been surprised all evening, by how they held her. High and firm and built, a real spine in them, nothing like the soft flat things she owned that let her foot sprawl and do as it liked. These told the foot what to do. She'd expected to suffer in them and instead she stood up out of them an inch taller and better made, her own ankles somehow more like ankles, and she carried herself down the hot hall like that, held.
+
+The elevator took her down with a lurch and a sigh and threw her back at herself in the brushed steel of the doors — a warped strip of bare leg, of the skirt's oil-on-water sheen, of dark hair down — and then opened on the foyer, where she had stood a dozen times waiting for Pace to come in out of the cold and find her. Tonight someone else was already there, in the spot by the desk where Vee's eye went looking for him out of pure habit. Randi, waiting. And the sight of her stopped Vee where she stood.
+
+She had the aqua on — strapless, bare to the shoulders, cut high on the thigh — and she wore it as only the very small and very finished can, so that it looked engineered around her and not bought. Her shoulders were pale and bare and exact, the arms of a girl trained to hold a line and hold it; the run of her from jaw to collarbone to the straight top edge of the dress was all one clean unbroken thing, a dancer's body said in a single sentence. Her hair was off her neck entirely, drawn back into a French braid so tight and precise it didn't read as braided so much as inlaid — laid down strand over strand, every pass identical, a thing of lacquer and geometry, gleaming like something machined. Nothing soft on her anywhere. No scrunchie tonight; this was the other Randi, the one the ordinary days never got.
+
+And the color. Vee had known, pointing at it in the closet, that the aqua would do something for Randi's eyes — but not this. The dress and the eyes were the same startling pale water-blue, the blue running straight up out of the neckline and into her face until you couldn't say where the cloth stopped and the girl started, and Vee just looked, and went on looking, until she heard herself.
+
+"Your shoulders. Randi — look at you. That dress is unreal, you're unreal, I hate you a little. I genuinely do."
+
+Randi laughed, lit up, and reached out and took a hank of Vee's hair and ran it slow through her fingers like money. "Listen to her. Look at this color, baby — you cannot buy this, girls pay a fortune to fake exactly this and get it wrong. And you're wearing it *down.*" She drew it once over Vee's shoulder, arranging her, proprietary and pleased. "Gorgeous. I'm going to stand next to you all night and live off what spills."
+
+Vee's hair was down and flat-ironed and still wouldn't fully obey — it had a will in it, curving where it wanted, warm and red and alive against all that lacquered black — and under Randi's hand the old easy pleasure rose in her, of being someone's good thing, handled and approved, and she grinned like a fool. And close like this she caught the rest of it: the mouth done in a deep berry drawn so smooth you couldn't find the seam where line met fill — steady-handed, unhurried, expensive in a way Vee could price to the dollar and never once pay; the white gold at Randi's ears, small and hard and throwing light; the one stone at her throat on a chain so fine it vanished; the plain heavy band always at her wrist — all of it the same cool pale metal, chosen to lie quiet against that cool pale skin and never fight it. Even her jewelry agreed with her.
+
+They coated up at the doors. Randi first and fast, hugging a soft wrap coat to herself and already mourning the walk, because Randi ran cold, a tiny girl who felt every degree of it and made it known; Vee got into her own and was fine, the tall one, the warm-blooded one of the pair. Then out — and the cold came straight up under the scrap of skirt and pebbled the whole length of her bare thighs into gooseflesh, a fast involuntary accounting of just how little of her the thing covered. She laughed, her breath going white. "It's not a skirt. It's a rumor."
+
+"It's working, isn't it." Randi took her arm and pulled her in, warm all down that side. "Cold's good. Cold gets us inside faster." And they went toward it like that, arm in arm and out of step and laughing at nothing, the campus hushed and lamplit and mostly theirs, the brick breathing its winter up at them, the bar a block off past the gates with its windows already gone gold — two girls dressed for the party and not the cold, the whole night still in front of them.
+
+The bracelet was at Vee's eye again where their arms were linked, catching the streetlight, that plain heavy band that never came off. "I love, *love* your bracelet," she said.
+
+Randi laughed.
+
+"What?"
+
+"Because, gorgeous — the bracelet is called Love." She turned her wrist so the light slid along it.
+
+Vee leaned to see. It sat close around the wrist, no clasp she could find, surely too narrow to clear the round of Randi's hand. "It looks too small to come over your hand. How do you even take it off?"
+
+"Oh, you don't." Randi said it lightly, fond, already looking ahead to the gold windows. "It's a real commitment. Taking it off requires tools."
+
+And Vee laughed, charmed, and tucked it away with the thousand glamorous things Randi knew that she didn't, and they came up on the light with the cold at their backs and the noise of the place leaking out under the door — talk and laughter and low music beneath it, the warmth of a room already full — and Randi reached for the door.
+
+---
+
 After a few sets they came off the floor flushed and laughing, holding each other up by the forearms, and went to the bar for something cold. Randi ordered a margarita, and Vee — watching the salt, the pale cloudy green of it, the sweet-and-sour that would carry the liquor down so gently you barely met it — said she'd have the same. She had meant to drink champagne tonight; she'd decided on it days ago, the way you decide what kind of girl you'll be at a party you're nervous about. She was glad already she'd followed Randi instead.
 
 The music made talking a contact sport. You got a sentence in the gap between songs, and after that there was only the cupped hand, the mouth brought to the ear, the half-shouted nothing you laughed at because the laughing was the point. Randi said things into Vee's ear and Vee felt the words more than heard them, the warm shape of the breath, and said things back, and they sat close the way the room made everyone sit close. At some point a second margarita was in front of her; she hadn't seen Randi order it. She had never been so easy in her own skin in a room full of strangers.

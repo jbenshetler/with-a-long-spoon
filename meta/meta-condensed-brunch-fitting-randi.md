@@ -14,6 +14,8 @@ The first off-campus brunch, where Randi extracts Vee's account of the Fitting w
 
 **Keep the two tells surgically distinct:** coffee-cup-handle-quarter-turn = hierarchy-inversion / bottom-position (meet-cute); water-glass-edge-worked = envy-of-capacity (here onward). This is the Fitting cashing as the jealousy origin — ignition off-page at the Fitting (Vee's POV, no Randi access), first visible symptom here.
 
+**Seed — the bracelet (quiet plant for `on-her-floor`).** Vee clocks the ever-present band at Randi's wrist — the attention is already in the scene (the unbothered wrist on the wheel; the hand worked at the water glass): white gold, plain and heavy, the one piece Randi never takes off. **Unnamed here** — no "Love," no removal-line; just the visual plant that it's *always on*, pairing with the scent-seed already in this scene (both are Vee's eye for what Randi wears/carries). The **name "Love" and the can't-take-it-off** are saved for the `on-her-floor` walk months later, where Vee finally asks and the reveal lands. *Prose insertion pending author sign-off — not yet in the draft.* (Bracelet canon: `meta-craft-randi.md`.)
+
 **Opening Movement (Drafted)**
 
 Mercedes at the curb, top down. Restaurant off Route 9, velvet-walled, sound-softened; Randi orders the Rombauer by name. Randi opens with the beautiful-idiot-and-the-Hermès-scarf story — *a little helpless can be a very good thing, done right.* Then the beam: *"You've had a face on since you got in the car. Tell me everything."* Vee produces the prepared version and feels the other thing strain underneath. Extraction begins: *"He measured you himself?"* The channel through which Randi first learns about the dress. 

@@ -8,7 +8,7 @@
 
 ## The Perceptual Sequence
 
-Vee would notice her first through the lipstick. She'd clock that something was different about it — that the edges were too sharp, too deliberate, that the color shifted somehow between the outline and the fill. She won't have the vocabulary to name what she's seeing. She probably doesn't know the word *overlining* or that two products are involved. She'd just know it looked expensive. Like the lips had been drawn by someone who didn't make mistakes.
+Vee would notice her first through the lipstick. She knows the techniques — she's poor, not fashion-illiterate. She knows what overlining is, knows two products are involved, has tried it at her own mirror. What stops her is the *execution*: how smooth it is, not a skip or a drag anywhere at the edge, the color seated so evenly the two products read as one surface. She knows exactly what that takes — the expensive product, the steady unhurried hand, the time — and knows it's precisely what she can't buy. Like the lips had been drawn by someone who didn't make mistakes, and could afford not to.
 
 The cat eye she'd recognize and maybe attempt herself at home, but she'd see immediately that this version was different from hers. The line was too clean, too confident, no visible correction. She'd understand instinctively that this came from either a lot of practice or a really good product or both, and she'd feel the gap between her own attempts and what she was looking at.
 
@@ -20,7 +20,7 @@ What she'd feel overall is not quite envy but something more complicated — a r
 
 ## Craft Implications
 
-**Vocabulary constraint.** Vee does not have the vocabulary for what she's seeing. The prose must honor this. *Overlining, cut crease, full-coverage contoured foundation* — these are Randi's grammar, not Vee's. Vee's register is perceptual and comparative: *too sharp, too deliberate, the color shifted somehow, too clean, impossibly even.* Let the reader supply the vocabulary if they have it; let the gap do the work if they don't.
+**Knowledge, not vocabulary, is the constraint.** Vee *has* the words — *overlining, cut crease, full-coverage foundation.* She's poor, not fashion-illiterate; she's read about these, tried them at her own mirror. What she lacks is the *execution* and what underwrites it: the expensive product, the steady hand, the unhurried time. So the prose should play her as expert and specific (*the overline seated smooth, not a skip or a drag at the edge*), never as naming-blind. Let the wound be that she knows exactly what it takes and exactly that she can't afford it. This sits *with* the "not-envy" recognition below, not against it: she isn't wishing she were Randi, she's pricing what she's looking at and feeling the gap.
 
 **The feeling is not envy.** It's recognition of a different register of inhabitation. The expensive-fitted-room figure captures it exactly: Vee is not wishing she were Randi; she is registering that Randi occupies her own face with a precision that implies a whole different relationship to self-construction. This lands as slightly alien to Vee — admirable and also faintly unsettling, in the way that any perfectly controlled thing is faintly unsettling to someone who does not control in that way.
 
