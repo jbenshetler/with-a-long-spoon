@@ -62,18 +62,6 @@ She reached past him to the bowl. She took a slice of apple. She brought it to h
 
 She ate three slices like that. Bite, kiss, bite. She did not finish the slice she was on. She fed him a bite from one of them. She did not finish that one either. He could feel the warm small concentrated weight of her on his thighs, the wiggling that came and went, the heat of her between his legs through his jeans and through her skirt. He kept his hands at her hips and on her back. He did not move them lower. He was not in a hurry. He had not been in a hurry since the first night.
 
----
-
-*The bench sat in the bedroom at the back of the house, in the lamplight, with its wooden top leaning against the wall.*
-
-*From the kitchen, where Randi was on Pace's thighs and the apples were in the bowl and the kettle had gone quiet on the counter, the bench could not be seen. The door to the bedroom was closed. The short hall that led there from the anteroom — past the bathroom, past Pace's office, around the corner — was empty. The bench had been in the bedroom for a few months, in its usual configuration with the wooden top fitted to it, sitting in the middle of the room as a low table of odd proportions. Taller than a table should be. Longer than a side table. Heavier in the build than the spare elegant furniture in the rest of the house, but matching the wood of the rest of the furniture exactly, because the same man had built all of it. Randi had seen the bench the second time she came to the house, and she had looked at it the way she looked at the rest of his furniture, which was the look of a person reading a price tag she could not read, and she had said something — he could not now remember what — that treated it as a table.*
-
-*The wooden top was off now. Pace had taken it off this afternoon. The bench was bare, the padded leather of its working surfaces visible in the lamplight: at the low end, the face donut, padded soft and ringed with grips for the hands, the same shape a high-end massage table used for the same purpose, and just past it a padded shelf shaped to take the upper chest, so the neck of whoever lay there rode easy; at the high end, the pelvis support, angled forward and shaped to hold a woman's hips raised; the leg supports extending out from the sides, separately padded, separately adjustable, each able to widen and lift independent of the other. Below the chest shelf there was no support. The torso of whoever lay on the bench would bridge that gap on its own, suspended, unsupported, the breasts hanging free in the lamplit space the bench had been built to leave empty. The whole long form of it suggested the long form of a woman draped over it face-down — head and hands low at the donut, pelvis high at the support, legs separate and apart and adjustable, breasts unsupported and accessible in between. The wood was walnut, dark, with the finish that came from five coats of oil applied a week apart. The bench had been finished three days ago. It had been waiting since then, in the bedroom, behind the closed door, for the evening Pace had planned for it, which was tonight.*
-
-*Pace had begun building it seven months ago. He had met Randi three weeks ago.*
-
----
-
 She had begun to slow on the apples. He could feel it: her hands were resting on his shoulders now rather than moving on him. She had eaten four slices. There were five left in the bowl. She would not eat them. She had eaten what she would eat. She kept her hands on him and looked down at him with the slightly altered weight of a woman who had finished what she was doing and was waiting for the next thing.
 
 "What are we doing tonight," she said.
@@ -99,6 +87,8 @@ The lamps were on. The top was leaning against the wall. The bench, which she ha
 She started at the front, finding a face cradle first, a padded ring, the kind she'd rest her face into for a massage. Just past it, a shelf, shallow and padded, for the top of the chest. Familiar. The massage table again. Handholds she found next, out beyond the face cradle, at shoulder width. A massage table didn't have them. Holding those would stretch her long. Her hands closed on nothing. The open middle, where a surface should have been, where her body would go unsupported, where everything a surface usually covered would hang free.
 
 He knew what she was reading — he had built it. The frame peaked at the hips — head down, legs down — and the leg rests on their pivots, angled out and down. Open, everything open. Her head went back, toward the ceiling. He watched her throat and heard her exhale shakily.
+
+He had begun building it seven months ago. He had met her three weeks ago.
 
 She did not turn back to him.
 
