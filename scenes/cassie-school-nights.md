@@ -2,7 +2,7 @@
 
 *Vee POV. Mid November, a school night.*
 
-She came in past eleven with the night still on her, the warmth of his car and the warmth of the evening before that, and the thin cold off the window found her at the door the way it always did. Cassie kept it cracked its two inches against the building's cooking, and Vee came into that cold lit up and didn't feel it.
+She came in past eleven with the night still on her, the warmth of his car and the warmth of the evening before that, and the thin cold off the window found her at the door as it always did. Cassie kept it cracked its two inches against the building's cooking, and Vee came into that cold lit up and didn't feel it.
 
 Cassie was folded into the bean bag with a book against her knees. "You're doing the streetlight thing again," she said, not looking up. "You're a public utility."
 
@@ -16,7 +16,7 @@ And Vee went on, because there was no holding it once Cassie opened the door. Sh
 
 But Vee was already past it, already on to how he'd kept the burn watched two days after, asking. And how the house stayed warm as a held breath now, because he'd worked out she went cold the minute they'd stopped, and he'd be up and back with something over her before she'd even found the cold herself.
 
-Cassie listened the way she listened, which was with no face on at all, and let Vee run all the way down. Then she said, mild, "You don't come home school nights."
+Cassie listened with no face on at all and let Vee run herself out. Then she said, mild, "You don't come home school nights."
 
 Not a question. Vee opened her mouth to argue it and Cassie just waited, and Vee went back over the week she hadn't counted and found her own bed had sat empty more nights than it hadn't. "It's not every night," she said.
 
@@ -24,7 +24,7 @@ Not a question. Vee opened her mouth to argue it and Cassie just waited, and Vee
 
 "I don't get it." Kindly, though. "You've had boyfriends. You never went like this over one."
 
-And Vee tried to say it, and what came was the small word, fine. The ones before him had been fine. Nice enough, a good enough time, and she'd gone along thinking that was the whole of what there was to have. Pace wasn't fine. She reached for the word after it and didn't have one, and laughed at herself reaching, and put both hands up at the size of it instead, at the cooking and the watching and the way he turned the whole of himself on her like the rest of the room had gone quiet and dark around her.
+And Vee tried to say it, and what came was the small word, fine. The ones before him had been fine. Nice enough, a good enough time, and she'd gone along thinking that was the whole of what there was to have. Pace wasn't fine. She reached for the word after it and didn't have one, and laughed at herself reaching, and put both hands up at the size of it instead, at the cooking and the watching and the whole of himself turned on her until the rest of the room went quiet and dark around her.
 
 Cassie watched her run clean out of words, which Vee never did. She let it sit. "Do you love him," she said, the same flat way she'd said the rest of it.
 
