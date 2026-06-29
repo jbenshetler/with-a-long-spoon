@@ -98,6 +98,40 @@ Vee leaned to see. It sat close around the wrist, no clasp she could find, surel
 
 And Vee laughed, charmed, and tucked it away with the thousand glamorous things Randi knew that she didn't, and they came up on the light with the cold at their backs and the noise of the place leaking out under the door — talk and laughter and low music beneath it, the warmth of a room already full — and Randi reached for the door.
 
+The door gave, and the cold dropped off her back, and the warmth she'd heard leaking under it took her whole — heat and gold light and the close press of a room filled past comfortable, the talk of it breaking over her louder than any music. No one was dancing. The middle of the floor lay open and lit and empty, a stretch of board with no reason yet to stand on it; whatever it was that started the dancing hadn't started. Everything was at the edges — the bar going two and three deep, the knots of people, the bare arms and bright dresses and the sweet warm reek of a hundred perfumes.
+
+And then they were inside it and it closed over them, and a sister caught Randi by the wrist and said something delighted into her ear and was gone, and another put a cup into Vee's hand — "you look frozen, here" — so that she had a drink she hadn't gone looking for and the warm enclosing fact of being, for one night, let right inside.
+
+The cup was running off a galvanized tub at the end of the bar, the sort of thing you'd haul ice in, and the punch in it was the deep pink of something a house would serve out of a trash can on purpose. Vee drank. It was sweet and cold and easy, the warmth of it arriving a beat late and low, and it tasted like just what it looked like, which was nothing — party punch, a hundred of them, the kind you don't keep.
+
+Randi's mouth came to her ear, bright with it. "You know what's in that?" Vee shook her head. "Chambord. She runs *Chambord* through it — forty dollars a bottle, God knows how many of them — into a tub, where not one soul in this room will taste it or thank her for it." She pulled back enough to give Vee the look, fond and withering at once. "That's Brooke all over. She'll spend a fortune to have you think she didn't spend a dime."
+
+And Vee, who could cross a department store and read the price off anything in the air, who knew to the dollar what she would never have, turned the cheap pink cup in her hand and could not find the money in it to save her life. She'd have drunk it down and never known. It took Randi to tell her what she was holding.
+
+A boy with a beer made his way over through the crush — tall, easy, a face she half-knew from some class or hallway, no name to go with it — and got close enough to be heard. He'd clocked the skirt from across the room; she could tell by how carefully he kept his eyes up now that he'd arrived.
+
+"You here with anyone?"
+
+Before Vee could find the answer, Randi was there — a hand settling light at the small of her back and staying — and gave it for her, easy and bright. "She's here with me."
+
+He took it in: his eyes going from Vee to Randi and back, the redhead and the little brunette, Randi's hand where it was, and the slow arrival of a question he couldn't quite get to. "Both of you," he said, thrown. "Neither one of you—" and didn't finish it, and laughed at himself instead, the laugh a good-natured boy gives when he's walked into something he can't quite read.
+
+And then they were both laughing — Randi first, delighted, pulling Vee into it with the hand at her back; and Vee caught it and laughed too, the easy conspiratorial joy of being on Randi's side of it, the two girls a boy couldn't work out. He lifted his beer, conceding the thing, and let the crowd take him back. And Vee — spoken for, taken off the market without lifting a finger, Randi's hand warm and sure against her spine — didn't think of him again.
+
+She came at them out of the crowd smile-first — Vee got the teeth before anything else, an almost-blue white, then the butterscotch tan and the gold lamé and the lacquered blonde of her all at once — and swept Vee into a hug before she could set her cup down, then held her back at arm's length by the shoulders to look at her.
+
+Vee started to say her name.
+
+"Hello — you're *Vee.*" Brooke had it before she could spend it. "Randi's *new* friend." A squeeze of the shoulders, delighted. "Stats, the two of you, all fall. And the smoothie shop — that cute little cardigan, I never forget a thing — and then you came by the house one Friday, oh, *early,* half of us still in our robes, and you needed our Randi like the world was ending."
+
+Vee felt Randi's shoulder come warm against her arm — there, where a second before there had been nothing.
+
+She was lit all through: the president of the whole house carried her little history by heart. "It's such a good party," she said. "Thank you so much for having me."
+
+"Of *course,* sweetheart." The smile widened by some exact amount, the whole face switching on behind it. "Any friend of Randi's." And the gold of her turned and closed back into the crowd, leaving the warmth where she'd stood like something you could smell.
+
+The low music had been thickening under everything, a floor laid down a little at a time, and then the lights dropped and a beat came up out of the dark big enough to feel in the breastbone, and the whole room turned to it at once with a noise that was half a scream. The empty middle was suddenly the only place to be. Randi had her by the hand already, towing her toward it, lit up — "Come on. Come *on*—" — and the floor took them both.
+
 ---
 
 After a few sets they came off the floor flushed and laughing, holding each other up by the forearms, and went to the bar for something cold. Randi ordered a margarita, and Vee — watching the salt, the pale cloudy green of it, the sweet-and-sour that would carry the liquor down so gently you barely met it — said she'd have the same. She had meant to drink champagne tonight; she'd decided on it days ago, the way you decide what kind of girl you'll be at a party you're nervous about. She was glad already she'd followed Randi instead.
