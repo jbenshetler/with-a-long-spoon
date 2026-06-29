@@ -218,7 +218,7 @@ Taste-thread **gate #1** (the Refusal), on the page. After he goes down on her, 
 Alone, masturbating, working from the memory of how he looked at her wet — *like it was true, like it was fine.* At the peak she brings her fingers to her face: the sniff she can do (the old animal-evidence flinch, now threaded with wanting); the tongue she can't — it stops a breath short, no contact, and she doesn't have the reason (the taboo she could name for his coated kiss has no purchase on her own fingers; the deeper stop has no words). She wipes them, finishes; the wanting-to-know outlasts the orgasm. An open loop, reaching for the knowledge of herself only he has. Sets up the cabin's watched version (private → witnessed) and First Taste (the loop he later closes). Taste held; the woman-taboo stays subterranean. Body before mind — she feels the wall, never names it.
 
 ### [SCENE] On Her Floor
-*Late January* · Draft in progress · `scenes/on-her-floor.md` · FB · [detail](meta-condensed-on-her-floor.md)
+*Late January* · Draft complete · `scenes/on-her-floor.md` · FB · [detail](meta-condensed-on-her-floor.md)
 Randi loans Vee a stretchy knit skirt for a sorority event. On Randi's floor, Randi recruits Vee into a show for Harrison: disco handholds, Randi's lead, skirt riding up, then a paused open-mouth kiss framed as play. Touch-signature and kiss-signature deepen under deniability.
 
 ### [SCENE] Vee Tells Pace About the Kiss
