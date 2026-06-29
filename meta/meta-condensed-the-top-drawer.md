@@ -1,22 +1,20 @@
 # Condensed — The Top Drawer
 
-*VIGNETTE · Unwritten · two movements across two visits · Vee POV · ~1–1½ pages*
+*VIGNETTE · Draft complete (`scenes/the-top-drawer.md`) · three movements across two weekends · Vee POV*
 
-Territory answering an abundance. The domestic staircase's territory riser — a couple of weeks after the scrunchie form first appears (folded into [[meta-condensed-we-find-out]]), so the expectation of domesticity has set before it's enlarged.
+Territory answering an abundance. The domestic staircase's territory riser — in the weeks just after the scrunchie form first appears (folded into [[meta-condensed-we-find-out]]), so the expectation of domesticity has set before it's enlarged.
 
-## Movement one — the embrace at the mirror
+## Movement one — the bed
 
-Weekend morning. She's at the bathroom mirror putting her hair up, wearing his robe (his, not hers — a robe of her own at his house would outrank the drawer on the staircase; his robe keeps the wearing-him motif running, sleeves too long, smelling of him). He comes in behind her, wraps his arms around to her front, hands coming to rest on her stomach under the robe — affection, not sex; the eroticism present, warm, low-key. He kisses her neck, rests his chin on her shoulder a moment, eyes closed. She's watching his reflection in the glass with affection.
+Night, the end of a whole-day overnight (the door-lift, the foyer, a simple supper — sautéed salmon, a Greek white — and a second time after). She relives the day drifting to sleep beside him: the unshadowed early-love high, his self-control as the established baseline (he brings her over first, usually more than once, before he takes his own — the great-sex baseline planted so the later taste-thread seeds read as deviation). She admits to herself she loves him and reads it back only in his deeds — *he says it in everything he does and names it in nothing* — and finds she can live inside that. The afterglow carries the **curvy-not-heavy** beat: the weight quietly come off, only bras and fitted underwear loose, the rest bought a size up because the racks misread her build (single-sourced at [[meta-craft-vivienne]]). She says *"Peter"* aloud to him **asleep** — the true name voiced in the one moment it can't be received. Unglossed: no porch-callback, no naming of the rule (porch-permission from [[meta-condensed-rock]]); whoever read Rock feels it.
 
-His eyes open — and land on the scatter: scrunchies, hair pins, her entropy spread across his precise counter. **She notices him seeing.** The whole transaction happens in reflection, wordlessly. Her brace fires — the mother's voice is available (*a slob in his beautiful house*); being found wanting in his ordered space is her wound's exact shape — and nothing lands on it. No comment, no tidying, no flicker of correction. He closes the moment as warmly as he opened it.
+## Movement two — the embrace at the mirror
 
-She carries *did he mind?* across the gap to her next visit — the actions-vs-words question in miniature: an unworded thing whose meaning she has to wait for.
+Weekend morning. She's at the mirror putting her hair up, wearing his robe (his, not hers — a robe of her own at his house would outrank the drawer on the staircase; his robe keeps the wearing-him motif running). He comes in behind her, arms crossing at her front, mouth at her neck — affection, not sex; warm, low-key. His eyes open and land on the scatter: scrunchies, hair pins, her entropy across his precise counter. **She notices him seeing.** The transaction happens in reflection, wordlessly. The flicker is **light and non-maternal** — a guest's surface worry of having flung her mess across a contained man's clean surface, the wish not to be a trouble; *not* the mother's voice, which is reserved for sexual shame and has no business here. Nothing lands on it; he closes the moment as warmly as he opened it. She carries *did he mind?* across the gap to her next visit — the actions-vs-words question in miniature.
 
-(Rendering note, never marked: the mirror that usually holds her self-audit holds his hands at home on the audited place — her stomach, the abundance she braces about in mirrors. Know it's there; don't point at it.)
+## Movement three — the discovery
 
-## Movement two — the discovery
-
-Next visit: she reaches for the form and the sink is clear. Half a second of dread — *he did mind; he's put my things away* — then the drawer: his razor and his things consolidated to a lower drawer, the top drawer holding her form, her pins, room to spare. Dread inverted into territory in one motion. The gift visibly cost him something — his own order rearranged — and the *top* drawer, the prime position, goes to her. Nothing is said, then or ever.
+Next weekend: she reaches for the form and the counter is clear. Half a second of dread — *he did mind; he's put my things away* — then the top drawer: his blades and comb gone, her form, her pins, room to spare; the drawer below holds everything of his squared down too tight into one. Dread inverted into territory in one motion. The gift visibly cost him — his own order rearranged — and the *top* drawer, the prime position, goes to her. Nothing is said, then or ever.
 
 ## The grammar it founds (canonical)
 
