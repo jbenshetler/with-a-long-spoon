@@ -199,17 +199,15 @@ Listless and flat at home without Pace, without Randi. The absence of both in th
 *~late December · Christmas break, after the Christmas Fight* · Unwritten · Pace/Sheri
 Winter kills the ride; the meal is the scene. A diner, counter seats — side by side, the no-eye-contact form still loosening the overshare (a choice now, not a crutch; face-to-face wouldn't tax him). Pace and Sheri are the two with no family table over the holidays — she was disowned, he won't go back — and neither says so. Pace carries the question Vee left unanswered at the Christmas Fight, and carries it in her absence; he can't name what's wrong and doesn't try. Sheri reads sideways, asks the question he doesn't quite answer. Pays off the first ride. Third panel of the break triptych with the Flat Date and Vee — Christmas: three principals apart, but his is the only bond on the page that isn't lonely. Establishes Sheri as the one who sees Pace from outside his own architecture.
 
----
-
-## Middle
-
 ### [SCENE] First Weekend Back
 *~Fri Jan 19 · first weekend of spring semester* · Unwritten · [detail](meta-condensed-first-weekend-back.md)
-Bomber jacket and broadcloth without being asked. The proprietary feeling she hasn't earned the right to. *Volume One closes here, on the false reconciliation; Volume Two opens on the scene after.*
+Bomber jacket and broadcloth without being asked. The proprietary feeling she hasn't earned the right to. *Volume One's satisfying close — the false reconciliation, the Beginning's last beat. The Middle act and Volume Two open together on the scene after.*
 
 ---
 
 **◆ VOLUME TWO — Spring**  ·  *the Middle — the apparatus at full extraction; the bloom before the souring*
+
+## Middle
 
 ### [SCENE] Forbidden Kiss
 *~late January · just after First Weekend Back, before The Reach* · Architecture complete, prose not drafted · Vee POV · [detail](meta-condensed-forbidden-kiss.md) · [craft](meta-note-forbidden-kiss.md)
