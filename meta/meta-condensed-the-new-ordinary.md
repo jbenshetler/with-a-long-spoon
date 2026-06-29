@@ -1,6 +1,6 @@
 # Condensed — The Shirt — Re-Scenting (The New Ordinary)
 
-*VIGNETTE · Unwritten · ~early November, a Sunday morning in the first weeks after the First Swat · Pace/Vee · ~1 page*
+*VIGNETTE · Unwritten · ~mid–late November, a Sunday morning a couple of weeks after the First Swat · Pace/Vee · ~1 page*
 
 The shirt exchange staged inside the ordinary it marks: one vignette doing both jobs — the re-scenting beat, and the marking of the settled domestic rhythm.
 
@@ -10,7 +10,7 @@ Sunday morning of an overnight — the domestic ease that has become expected; t
 
 ## The geometry (felt, never named)
 
-Weekends his, weeknights hers, the shirt bridging the nights apart. Sleeping in his shirt is evidence of the nights she's *not* there — which is precisely what defines the new ordinary: the rhythm has a shape now, and the shirt is how she carries him across its gaps. This is what the **greedy early phase settles into** (the October weeknight stays behind `Cassie — School Nights`); a guideline, not a guarantee — the shape can still flex.
+Weekends his, weeknights hers, the shirt bridging the nights apart. Sleeping in his shirt is evidence of the nights she's *not* there — which is precisely what defines the new ordinary: the rhythm has a shape now, and the shirt is how she carries him across its gaps. This is where the **greedy phase finally banks into the new ordinary** — still running through The Top Drawer and `Cassie — School Nights`, it settles here; a guideline, not a guarantee, the shape can still flex.
 
 ## The sibling-rhyme (never explained)
 
