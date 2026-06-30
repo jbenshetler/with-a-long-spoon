@@ -177,15 +177,19 @@ A cropped induction photo turned her parents' pride into questions about the exp
 
 ### [VIGNETTE] The Porch Scene
 *~early December · pre-dawn · enclosed porch* · Draft complete · `porch-scene.md` · [detail](meta-condensed-the-porch-scene.md)
-Vee delivers the cracker-and-meal figure whole — her displaced *I love you.* He answers: *"I love how good we are together"* — sincere within his chivalric grammar, routing her speech down the sex-channel. She receives the warmth; underneath something begins to move. She later replays the sentence and finds the shapes don't match. She never tells Randi or Cassie. First of three beats in the same arc.
+Vee delivers the cracker-and-meal figure whole — her displaced *I love you.* He answers: *"I love how good we are together"* — sincere within his chivalric grammar, routing her speech down the sex-channel. She receives the warmth; underneath something begins to move. She later replays the sentence and finds the shapes don't match. She never tells Randi or Cassie. Plants the grain the arc then escalates across three displacements (Under the Rug → His Shirt → the Christmas Fight).
+
+### [SCENE] Under the Rug
+*~mid-December, after the Porch, before His Shirt · his house → restaurant → his house* · Draft complete · Pace/Vee · Vee POV · [detail](meta-condensed-under-the-rug.md)
+A triptych across three rooms — bedroom, restaurant, bedroom — in which a displaced fight is dissolved on the surface while the real thing is buried deeper; the false resolution is the point. Post-coital, the happiness wants the name his vow forbids; the want curdles, *manufactured on the spot*, into a *just sex* charge displaced through *we never go out* (pegged to the dance — the last time out). Pace's accommodation (*let's go out*) is the wall; the restaurant puts him in the uncontrolled sensory venue that wrecks him (rendered in behavior, neurodivergence never named — the reader learns *why they stay in, and it was never shame*); back home he refutes *just sex* through demonstrated care, not a declaration (vow intact); Vee relents — reprieve from fear, not grace, miscategorized to herself as forgiveness — and the makeup sex is warm and fully rendered (he loses control of everything but the word); the coda leaves nothing resolved — she belongs to him, with no name to hold him by. The knot: she refutes the truth with the truth. Motivates His Shirt's shapelessness going unbearable; the *just sex* displacement is the furthest of the arc's three (→ His Shirt, wordless → Christmas Fight, *what are you to me*). Runs entirely on fear, zero detective energy.
 
 ### [VIGNETTE] His Shirt — Pre-Dawn
 *~Dec 15–16 · pre-dawn · her room* · Unwritten · Vee solo · ~1–2 pages
-Vee alone, tossing and turning in his shirt. The shapelessness of what they are has been building since the porch; in the dark it becomes unbearable; she takes the shirt off. No witness, no resolution. Second beat in the arc.
+Vee alone, tossing and turning in his shirt. The shapelessness of what they are has been building since the porch — and was not released by Under the Rug's false resolution; in the dark it becomes unbearable; she takes the shirt off. No witness, no resolution. Second of the three displacements — wordless, alone.
 
 ### [SCENE] The Christmas Fight
 *~Tue Dec 17 · mid-finals week · pre-Christmas-break* · Unwritten · [detail](meta-condensed-christmas-fight.md)
-Vee brings her mother's Thanksgiving question to Pace — the one she couldn't answer then and can't answer now: what are you to me? She conflates monogamy and *I love you.* *"Do any of your friends have a relationship you'd rather have?"* — genuine within his grammar, insufficient within hers. Reunion without naming it. Third beat in the arc.
+Vee brings her mother's Thanksgiving question to Pace — the one she couldn't answer then and can't answer now: what are you to me? She conflates monogamy and *I love you.* *"Do any of your friends have a relationship you'd rather have?"* — genuine within his grammar, insufficient within hers. Reunion without naming it. Last of the three displacements — the want finally named, and mismatched.
 
 ### [SCENE] The Flat Date
 *~during Christmas break* · Unwritten · **Randi's POV — mirror aperture, load-bearing** · [detail](meta-condensed-the-flat-date.md)
