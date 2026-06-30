@@ -758,3 +758,17 @@ rule = "x-not-y"
 file = "scenes/the-pointing-game.md"
 text = "Now, after — not before, not to be told what to want, but after the wanting had already shown, the social animal catching up and turning to him with the question that had nothing to do with whether she liked the girl and everything to do with whether she was allowed: *is this one mine to take.* He smiled at her."
 note = "reviewed in style pass — accepted to stand"
+
+[[ok]]
+fp   = "f26911aa0b02"
+rule = "filter-verbs"
+file = "scenes/under-the-rug.md"
+text = "Back at the house he watched her, careful and close, reading her for what she wanted so he could give it to her."
+note = "Load-bearing filter: Vee registering Pace's attentiveness from inside her POV; locked prose."
+
+[[ok]]
+fp   = "c65110ecfb89"
+rule = "the-way"
+file = "scenes/under-the-rug.md"
+text = "He made small talk on the way down — something on the radio, the parking at the rec center, a thing one of his students had said in office hours."
+note = "Directional idiom 'on the way down', not the filtered 'the way he' construction; false positive."
