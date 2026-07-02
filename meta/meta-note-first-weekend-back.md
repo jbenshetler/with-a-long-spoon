@@ -45,9 +45,9 @@ Afterward it behaves like nothing happened: they snuggle, he makes something to 
 
 The sacrifice is only sympathetic if the reader feels *why* anyone would make it, so the **flat-to-alive arc must be physiological**, not asserted. The deadness of the break — listless, colorless — and then the body waking: the cold air, her own steaming breath, his hands, sensation returning. If the aliveness is real on the body, the trade looks like the only thing a starving person could do and Vee keeps her dignity: not a dupe who failed to extract a commitment, but someone who knows in her skin what flat feels like and chooses to feel alive. That dignity keeps the reader inside her, and keeps her — close third, reader ahead of her — slightly behind the reader, who names the bargain she only enacts.
 
-## The bomber-jacket coda (public echo)
+## The bomber-jacket coda (public echo — now its own scene)
 
-Later that weekend, among friends: the **bomber jacket and broadcloth without being asked** — the proprietary feeling she hasn't earned the right to. Now it is the public echo of the private lie: she wears the **claim** in front of people while still, privately, **unnamed.** She got the body and the warmth and never the word; the garment is the named status she couldn't get verbally. Pulls the shirt-scenting / Top Drawer territory threads forward — she claims his clothes because she can't claim the word.
+Later that weekend, among her friends, **Pace** comes into her world in his **bomber jacket and broadcloth, without being asked** — she never had to ask him to be there. The public echo of the private lie: she gets the **proprietary feeling she hasn't earned the right to** — to present him as hers, in front of people — while he still, privately, will not **name** her. She got the body and the warmth and never the word; the public claim is the named status she couldn't get verbally. Pulls the shirt-scenting / Top Drawer territory threads forward — the claim worn (his coming, unasked) while the word stays withheld. **This beat is now developed as its own scene, `Among Friends` (`meta-note-among-friends.md`) — the reciprocal of Another Round and Volume Two's warm opener;** First Weekend Back proper ends on the reconciliation and hands the public echo to that scene.
 
 ## Threads & seeds
 
@@ -86,4 +86,4 @@ The deepest wound is structural, and **neither character understands it yet.** T
 - **Door two (the demand set down):** *put herself together* — long coat, heels, bare beneath; her steaming breath; Pace's one distancing line; she doesn't reach for Peter; she opens the coat, wordless. He sees it land (her willing transgression + that she came), takes her in.
 - **The sex:** within crossed thresholds at reunion-ferocity — starved, raw; flat-to-alive on the body; his being-undone and his appetite both, no seam.
 - **The afterglow (the lie):** snuggle → he makes something to eat → wine; First Night, shadowed; his loving non-answer she lets pass; the cloud as a faint absent floor, never narrated.
-- **Coda (public echo):** the bomber jacket and broadcloth among friends without being asked — the claim worn while unnamed.
+- **Coda (public echo → `Among Friends`):** Pace comes among her friends in the bomber jacket and broadcloth, unasked — her unearned proprietary claim enacted while he stays unnamed. Handed off to its own scene.
