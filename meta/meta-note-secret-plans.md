@@ -16,7 +16,7 @@ Why it's more than "she gets confident": the whole book runs on Pace and Randi o
 
 - A quiet, warm domestic beat (afterglow, or a low-key evening). Small and brave, not a production.
 - **She hands Pace the premise, not a script.** She names the shape — space princess, chased, caught, stripped, "interrogated" for **secret plans she'll never reveal** — and leaves the **"torture" unspecified** (*you decide*). Pace designs the rest. (This is also the practical hinge for drafting: *what* the torture is can be tuned to wherever the physical staircase actually stands when the scene is written.)
-- **The bidirectional "adventure" pays off here.** She coined it (Painting Afternoon); Pace pointed it forward as a consent-gateway (the cabin); now **she** uses it to invite *him*. Keep it a handshake, not a leash — her agency. Sparse, unwinking; never named as a code.
+- **The bidirectional "adventure" pays off here.** She coined it (Still Life); Pace pointed it forward as a consent-gateway (the cabin); now **she** uses it to invite *him*. Keep it a handshake, not a leash — her agency. Sparse, unwinking; never named as a code.
 - **Voice guard (the Peaches trap).** The roleplay is "easy for Vee" — but *easy* means she inhabits it **bodily and emotionally**, not that she gets verbally clever. Witty banter is borrowed register and shows as a seam. The persona is easy at *entry* because it is **cover** — as "the princess" she can be brazen, can play at wanting, in a way she can't as herself (same machinery as "it's about adventure": a frame that lets her permit herself). Keep the ask shy-brave and plain; let the blush carry it. She's confessing a fantasy, not pitching a screenplay.
 
 ## [EVENT] Pace Builds (off-page, never rendered)

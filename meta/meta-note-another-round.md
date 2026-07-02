@@ -34,6 +34,10 @@ Sheri narrates the man who takes care of people; then the girls get drunk and he
 
 Use her established proprietary jealousy (the CW Dance): she walks in braced at how easy he is with this woman, and the brace dissolves when Sheri's a lesbian lands — not a plot point, just fact, the rival-channel switched off. What's left is warmth and, underneath, the ache: the fullest case for his love yet, and still no word from him.
 
+## The Sheri-absorber thread (plant → here → spend)
+
+Sheri is *named* back at **Still Life** (~mid-Nov, the Thanksgiving exchange — *"She's alone"*), planted as the safe woman in Pace's life. This scene makes her **vivid and disarmed** (the lesbian fact switches the rival-channel off). That is what arms the spring **found-hair** beat (`meta-note-the-found-hair.md`, ~late April): when Vee finds a trace of a woman in his house, Sheri is the ready, warm, no-threat name she reaches for — so the outward question never forms. Meeting Sheri here is the hinge between the plant and the spend; keep the warmth pure — the dark is that Vee is being handed the very alibi she'll later use on herself.
+
 ## Dark-on-reread layer (do not point at it)
 
 The decency is **real** — render it pure-warm, no sinister note anywhere in the scene. The cold is structural and felt only later: the realer his constancy, the deeper Vee binds into the bargain, and the louder the *I love you* he still won't say. The man who stayed for Sheri is the man deceiving Vee into consent; the scene must never hint it. Earn the dark by being light.
