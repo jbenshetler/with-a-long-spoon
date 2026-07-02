@@ -121,3 +121,27 @@ And then the first of it. A prickle, a warmth, almost nothing, almost sweet, rig
 "I know," he said, rolling the burning nipple. "I know," and he tugged it, gentle, and would not let it go.
 
 Her body had chosen first, in the lecture halls, in the truck, a breath ago when it tipped her into his hand, and none of that had ever been hers to stop. This she had chosen. Eyes open, knowing to the inch what it would cost, and choosing it still.
+
+The kiss came out of that, out of the choosing, the two of them turning toward it at the same moment. His mouth came down and found hers and it was the sweetest thing yet, sweeter than his hands, his lips soft and certain and unhurried on hers, and for a second she had the whole of him, the fire in her nipple and his mouth on her mouth and nothing else left in the world, and she pressed up into it to have more.
+
+And her neck tore white.
+
+It came out of nowhere and out of everywhere at once, the wire she had forgotten drawn all at once to its limit, and the sound she made against his mouth was not the other kind of sound. He heard the difference. He was off her mouth and holding her head still between his two hands before she had finished making it, reading her face, his thumbs light along her jaw.
+
+"I'm fine," she said, which was the lie she had been telling all night, and she reached for his mouth again because she did not care, she would pay the neck, she would pay anything at all. "I'm fine. Keep going."
+
+"No." Gentle, and final. He held her where she couldn't hurt herself with it. "Not tonight. We need to wait."
+
+And she heard the *we* in it, that he was not sending her off alone into the not-having, that he meant to stand in it with her. It did not help. She was on fire and there was nowhere for the fire to go.
+
+He drew her back against him instead. He gathered her in from behind and settled her spine along his chest so she never had to turn her head, and she felt the whole hard length of his wanting pressed against her back, as stranded as she was, and it undid her a little that he was in it too and holding still in it anyway. His arms came around her. His hands came up and took her breasts.
+
+He kept the fire where the fire already was. The hand with the balm on it he laid over the nipple that was already burning, and the fire came up under his palm and turned, under the roll of his fingers, from torment into something she had no name for, the pleasure and the burn folded so close together that she gave up trying to hold them apart. His other hand, the clean one, took her other breast plain, and that nipple he worked soft and slow and only sweet, no fire in it anywhere, so that she hung between his two hands with her two breasts made into two different wantings, the one that scorched and the one that only ached, and both of them climbed.
+
+And she began to climb toward the end of it. She could feel it gathering, the old sure gather, low and deep and drawing everything in toward the center, and she leaned back into him and reached for it, and her body did the thing bodies do, tightened, arched, began to draw itself up toward the edge. And the wire in her neck lit, a warning, the first white feather of it, and she froze against it.
+
+"Easy," he said at her ear. "Easy. Stay still. Let it come down."
+
+And he brought her down. He gentled the climb back out of her with his hands, eased her off the edge she couldn't go over, held her under it, kept her exactly in the place where it was all pleasure and no finish. She hung there where he kept her, both nipples alive, the gather still thick and unspent low in her, wanting to break and not let to, the release a hand's breadth off and walled away behind the one thing her body would not let her do. The sound she made then was pure complaint, helpless, half a laugh at how unfair it was, and he held her through it and did not give it to her, because he could not, because it would cost her, and the wanting had to stay in her and keep.
+
+There was no putting it out. The balm would burn itself down in its own time; the wanting would not. It would bank in her all night, low and unfinished, and she would carry it home still lit. She turned her face into his throat, the one place that didn't hurt to reach, and breathed him in, and stayed still against him as he had asked, and kept it.
