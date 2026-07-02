@@ -145,7 +145,7 @@ The deliberate escalation of the First Swat — the proof of her arousal, with t
 
 ### [SCENE] Vee Tells Randi About We Find Out
 *~within a few days of We Find Out* · Draft complete · `scenes/vee-tells-randi-we-find-out.md` · SATC · [detail](meta-condensed-vee-tells-randi-we-find-out.md)
-*"Are your fingers sticky?"* Randi's question does in the retelling what Pace's finger did in the act. Doubled shame → first masturbation (a capitulation).
+Vee tells more than she means to — the pantsing, the bet, *he checked*, the spanking — the penetration truth surfacing on her face before she can dress it. Randi answers with her own mixer night as amplifier (self-pleasure in a stranger's bed; porn-generic register, not Pace-fingerprint). **First restroom self-touch, stopped before completion:** at the first give of her own hand Randi's imagined fond gaze arrives — *not the thinking, the looking* — she can't be looked at like that and keep her hand where it is; she blots and carries the ache back (*a second pulse*). On her return, Randi's *"Sticky fingers?"* drops the floor out of the room — named-and-seen — then the deniable off-ramp: Randi's only nodding at the pastries that came while Vee was up, and Vee can't tell naming from innocence. Goodbye-kiss lingers past a friend's; the capstone — glaze passed to Vee's lip, *sweetness from a pastry she had never once touched* — advances the goodbye-kiss staircase and seeds the taste thread ([[meta-note-taste-thread]]).
 
 ### [VIGNETTE] The Top Drawer
 *~early November · the weekend after We Find Out, into the next · three movements* · Draft complete · `scenes/the-top-drawer.md` · Vee POV · [detail](meta-condensed-the-top-drawer.md)
