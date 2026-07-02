@@ -1,6 +1,6 @@
 # Note — Keep Still (the gym, the fury, the tending)
 
-*Scene · Unwritten · ~mid-to-late February · after Restrained (spaced from it), before the Cabin Weekend and the Massage Table · Vee POV · tender / restful-restraint (held heat, no sex) · companion to meta-condensed-keep-still.md · title provisional (the line "Keep still" is the emotional/erotic core; author may rename — e.g. "Uncollared")*
+*Scene · Drafted (`scenes/keep-still.md`) · ~mid-to-late February · after Restrained (spaced from it), before the Cabin Weekend and the Massage Table · Vee POV · tender; held/edged heat, no sex (no intercourse) · companion to meta-condensed-keep-still.md · title provisional (the line "Keep still" is the emotional/erotic core; author may rename — e.g. "Uncollared")*
 
 ## What this scene is now
 
@@ -43,16 +43,21 @@ The uncollared plate rhymes the **bike his father roped to the car and dragged, 
 - **It banks; it doesn't discharge.** The guys retreat chastened — don't expel them; keep the focus off the randos and on the three-body thing (Vee, Pace, and the force he's holding). Because she forgave them, his protectiveness has **nowhere to go** — so it **converts into the tending.** The un-spent charge becomes the shower and the massage: his hands still carrying the leashed force, now gentled onto her. That energy-transfer is what makes the tending hot rather than merely nice, and it is "chosen restraint" made tactile.
 - **The dark rhyme (reread only):** Vee forgives careless strangers in thirty seconds; the reader knows she's being carelessly deceived at a far deeper level by the man banking his rage on her behalf — and *that* forgiveness will cost her everything. The small mercy prefigures the large reckoning. Never stated.
 
-## The tending (held heat, no sex)
+## The tending (held/edged heat, no sex)
 
-- **Drive home → hot shower → therapeutic massage.** Vee POV throughout. The shower loosens the muscle (steam, undress, skin) before the massage; keep the focus on *care*, the erotic charge present but not a sex act.
+The drive plants the injury and the need at once: the neck "getting shorter," the cold shoot at every bump *despite* his careful driving (the world got to her; even his care can't undo it now), and, under the pain, the want that started in the gym — **his taking her light lifting as seriously as his own heavy sets** — riding alongside it. Home is the too-warm sanctuary; he directs the shower, the ibuprofen, undresses her for care (the hurt arm eased through, the bra unhooked so she needn't reach behind) — care her body can't tell from the other thing.
+
 - **His hands, his knowledge — shown, never narrated.** Pace's roughened hands (canon: rough from gym and wood) do precise, gentle work; his anatomy competence (powerlifter) shows only in **what his hands do** — Vee feeling them *find* the sore places — never in Pace narrating muscle, never in Vee deducing forensically ("I could tell from…"). Body before mind on both sides.
-- **Arousal-no-sex — denial by injury (a fresh shame occasion).** The tending makes her *want*; the injury forecloses sex. What's fresh: she's aroused by being *tended* when she's hurt — her body sexualizes his care and *announces* it (a sound, an arch into his hands) when the frame is supposed to be medical. The constant shame (her body wanting without her consent) at a new occasion. On reread: the hands that will run the shame-machine here read soreness and *gentle* it — same skill, tender use.
-- **He holds the line himself — "Keep still."** Make the denial *his choice*, not just circumstance: she reaches/arches, and *he* is the one who won't, out of care — **"Keep still — you're hurt."** That is his canonical line (the physical-line-held-at-audible-cost, the "Keep still" register), redeployed here in a purely *protective* key. The reader meets "he holds us both in the not-having" first as **protection**, and only later (Cabin's Permission Rule, the apparatus scenes) as **rule/machine**. Both the banked gym-fury and the banked arousal get held at once — double leash. Ends warm and aching, **"not yet" installed** — un-engineered (not Randi-steered, not a Pace rule yet; just her body's yes and her injury's no, honored).
+- **The heating balm is a loaded gun.** A yellow herbal-medicinal paste that *warms on the skin* — demonstrated first, harmlessly, on her **neck and traps**, so the reader (and Vee) know what it does before it ever nears tender flesh. He works the hurt tendon from behind, then around to the front where it anchors low on the chest.
+- **The ownership hinge (the scene's deepest move — wordless).** Her body leans her breast into his balm-hand *ahead of her*; she gets only the cool grease, not the heat yet. He draws back: **"Keep still."** Then she *reaches up, takes his wrist, and pulls his hand back to her breast and holds it there* — knowing to the inch what the balm will do to that skin (she just felt it on her neck). **Her body chooses first; then she chooses, knowing the cost.** Render the shift purely as action (a hand that moves on its own vs. a hand that reaches and holds) — never let her narrate the thesis. Ownership *of* shame, not shamelessness: the involuntary sound still escapes inside the deliberate choice.
+- **His control breaks — licensed by her.** Only after she pulls his hand back does the governed man come undone: he rolls and tugs the balm-slicked nipple, gentle even here ("I know, I know"). **The line he'll cross is her *pleasure*; the line he won't is her *harm*.** His break is real and hot — his desire not merely instrumental — and stays tender-hungry, never careless.
+- **The delay is the dread.** The balm takes ~30–60 sec to come up, so she holds the pleasure she reached for *and* the mounting dread of the coming burn, both aimed at the same half inch of her, both her own doing; then the heat, the wanting still alive inside it so she can't tell the one from the other. This is the hottest beat — it earns its room.
+- **The brake — the body forecloses the having.** They kiss (brief, the sweetest thing yet); she presses in and the wrenched neck lights; he hears the difference and stops. She'd proceed anyway, pay the neck, pay anything — and *he* won't let her: **"we need to wait"** (the plural — he stands in the not-having *with* her, un-engineered). The same body that announced her wanting now blocks her acting on it.
+- **The edged close — max safe pleasure, no finish.** He draws her back against him (a settle-back, no neck-turn; his own hard wanting at her back, as stranded as she is) and gives her the most her hurt body can take: **one balm-hot hand on the burning nipple, one clean hand on the other** (the hot-vs-ordinary asymmetry rhymes the slippery/dry beat in Vee on the Bench — same device, fresh key; he keeps the fire *where the fire already is*). Real pleasure to the edge — then, as she climbs, the release itself engages the neck, and he **keeps her still below it**, holds her exactly where it's all pleasure and no finish. Both unsatisfied; the fire *kept*. **"Not yet" installed** un-engineered — by nothing but her injury and his care; only on reread the birth of the apparatus (edging, "he holds us both in the not-having"). Ends hot, held, aching. Still **no sex** (no intercourse).
 
 ## The massage table (option a — locks the causal link)
 
-- The gym injury is **why Pace buys the massage table.** Canon: he *buys* it, deliberately does not build it (the anti-bench). Here the object enters their world **through care** — he decides he should have a proper table for this *because she got hurt on his watch, in his world.*
+- The gym injury is **why Pace buys the massage table** — canon: he *buys* it, deliberately does not build it (the anti-bench). The causal link is real but **Pace-interior: not rendered in this scene** (Vee POV closes on the held-heat beat). The decision lands off-page / in a later beat *because she got hurt on his watch, in his world* — don't break Vee's frame to install it here.
 - **The planned Massage Table scene keeps its register.** This therapeutic beat *inspires the purchase*; the later **Massage Table** scene (~Feb onward, before Vee on the Bench) remains the separate, pure-gift meditation (tender/restful-restraint, cherished past her defenses). Don't let this scene *be* that one.
 - **Dark-tender on reread (unstated):** the table is an artifact of his guilt/care about the one time the world hurt her — while he is the one doing the deeper hurting.
 
@@ -68,7 +73,7 @@ The uncollared plate rhymes the **bike his father roped to the car and dragged, 
 
 - **Taste thread: carry nothing** (no oral; the massage default).
 - **The scar: deliberately NOT seeded here.** Pace carries a maiming from careless force; a careless force just nearly maimed Vee; the scar is that event's buried twin — and surfacing it here **over-welds** the rhyme and kills the resonance. Leave it off the page (even if already revealed earlier, don't invoke it). Its own reveal is The Scar (~April).
-- **Register: restful-restraint / tender** — protects the book's tonal variety (heat by *kind*, not just intensity) and pairs cleanly with the later pure-gift Massage Table scene.
+- **Register: tender, held/edged** — the crest and mutual break are real, but it ends held (no intercourse); protects the book's tonal variety (heat by *kind*, not just intensity) and pairs with the later pure-gift Massage Table scene.
 - **Vee's aliveness / the enclosure:** the scene's argument-for-the-cage feeds the sealed-room engine that must persist to the threesome.
 
 ## Continuity guards
@@ -76,7 +81,7 @@ The uncollared plate rhymes the **bike his father roped to the car and dragged, 
 - **Same-shape, never named** — no thought of the father; Vee never connects it; Pace's move pre-cognitive (body before mind).
 - **Never physical** — the fury must never tip into the violent-father register; hands off the kid; cold and leashed, not a blow-up.
 - **Vee forgives; Pace banks, doesn't discharge** — his anger defers to her; the charge converts to the tending.
-- **No sex** — the injury forecloses it; he holds the line ("Keep still"); "not yet" installed; taste carry-nothing.
+- **No sex (no intercourse)** — but not pure held-restraint: a real erotic crest and mutual break, *licensed by her choice*, then the neck forecloses both the kiss and the release; he re-gathers ("we need to wait") and edges her below a release her injury won't allow. "Not yet" installed un-engineered; taste carry-nothing.
 - **Buys, not builds, the table** — inspires the purchase; the planned Massage Table scene stays the pure-gift beat.
 - **Earn the dark by being light** — a genuinely frightening incident and genuinely tender care; the enclosure-vindication is reader-side only, never stated.
 
@@ -88,6 +93,8 @@ The uncollared plate rhymes the **bike his father roped to the car and dragged, 
 - **Vee forgives:** the guys apologize to her; she accepts (her mercy); Pace stands down at her signal, body a beat behind his words; the guys retreat chastened; the charge banks with nowhere to go.
 - **Drive home:** quiet, still-coiled; the un-spent protectiveness carried.
 - **Shower:** hot water to loosen the muscle; steam, undress; care, not sex.
-- **The massage (Vee POV):** his roughened hands find the soreness (competence in what they do, never narrated); the tending crests her arousal; her body announces it while she's "just" being cared for — the fresh shame.
-- **"Keep still":** she reaches/arches; he won't, out of care — the tender redeployment; both leashes held; "not yet" installed; warm and aching.
-- **The resolve (unstated → causal):** it makes him decide to buy a proper table. Close on the sanctuary reclaimed — the sealed room felt as more precious, never said.
+- **The massage (Vee POV):** roughened hands find the soreness (competence only in what they do); the heating balm shown first on neck/traps (the loaded gun); the tending crests her arousal.
+- **The ownership hinge:** her body leans into his balm-hand ahead of her ("Keep still"); then she pulls his hand back herself, knowing the cost — body chooses first, then she chooses. His control breaks, licensed by her ("I know, I know"); the ~30–60 sec dread before the heat; then the burn with the wanting alive inside it.
+- **The brake:** the kiss lights the neck; he stops; she'd proceed, he won't — "we need to wait" (the plural). The body that wanted forecloses the having.
+- **The edged close:** he draws her back against him (his own want stranded at her back), one balm-hot hand and one clean, real pleasure kept just under a release the neck won't allow — he keeps her still below it. Both unsatisfied; the fire kept; "not yet" installed un-engineered. Hot, held, aching.
+- **The resolve (Pace-interior, off-page):** the injury is why he'll buy a proper table — not rendered here; the scene closes on the held heat and the sanctuary felt as more precious, never said.
