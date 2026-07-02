@@ -289,6 +289,8 @@ Introduced in **the Walk of Shame**. The one person in the sorority who out-oper
 
 **The painting telling (Randi):** *“Gesso?”* (gesso = primer = what goes on before the real work begins). Vee gets it a half-beat late.
 
+**The wax lie, called out (Randi — Gesso):** Vee: *“You said it barely stings!”* / Randi, laughing: *“I knew how much you’d love it. I wasn’t going to let you skip the pleasure over a moment of pain.”* Both-tests: an indulgent friend who didn’t want your nerves to rob you of something good (first read) / she edited what you were allowed to fear, to steer you across the threshold — consent managed “for your own good,” the bargain’s shape in miniature (reread). The *barely stings* minimization is set up in the prep beat *Barely Stings* (`meta-note-barely-stings.md`).
+
 **Stepping out from behind ambiguity (Randi):** *“I know you don’t have to pee.”*
 
 **The jealousy redirect (Randi, coldest line in the novel):** *“Do you actually want to know? Or do you want it to stop?”* (These are different questions.)

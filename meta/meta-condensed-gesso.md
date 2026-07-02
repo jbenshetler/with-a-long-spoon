@@ -2,4 +2,4 @@
 
 *SCENE · Unwritten · ~mid-November, a few days after Still Life · SATC*
 
-Shows the photo. *"Gesso?"* — Randi names the primed ground (the white base a canvas takes before the paint), her one word titling her own scene. The small smile already in place on return. Detail: [[meta-note-still-life]] (Seeds forward).
+Shows the photo. *"Gesso?"* — Randi names the primed ground (the white base a canvas takes before the paint), her one word titling her own scene. The small smile already in place on return. She opens knowing the wax already happened (she sent Vee there); Vee calls out the *barely stings* lie, and Randi laughs — **"I knew how much you'd love it. I wasn't going to let you skip the pleasure over a moment of pain."** Both-tests: the indulgent friend who didn't want your nerves to rob you (first read) / consent edited "for your own good," the bargain's shape in miniature (reread). Detail: [[meta-note-still-life]], [[meta-note-barely-stings]] (the lie's setup).
