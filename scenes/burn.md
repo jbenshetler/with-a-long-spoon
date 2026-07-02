@@ -1,4 +1,4 @@
-# Keep Still
+# Burn
 
 He'd told her to come see the gym sideways, tossed off, as if it were nothing, as if she could take it or leave it. She had not been able to leave it. He had a place he went four mornings a week and a fifth when the week had been bad, a place that made him into whatever he was when she wasn't watching, and he had never once offered to show it to her, and now he had, and she'd said yes before he finished the sentence.
 

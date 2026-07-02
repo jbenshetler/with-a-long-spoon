@@ -1,6 +1,6 @@
-# Note — Keep Still (the gym, the fury, the tending)
+# Note — Burn (the gym, the fury, the tending)
 
-*Scene · Drafted (`scenes/keep-still.md`) · ~mid-to-late February · after Restrained (spaced from it), before the Cabin Weekend and the Massage Table · Vee POV · tender; held/edged heat, no sex (no intercourse) · companion to meta-condensed-keep-still.md · title provisional (the line "Keep still" is the emotional/erotic core; author may rename — e.g. "Uncollared")*
+*Scene · Drafted (`scenes/burn.md`) · ~mid-to-late February · after Restrained (spaced from it), before the Cabin Weekend and the Massage Table · Vee POV · tender; held/edged heat, no sex (no intercourse) · companion to meta-condensed-burn.md · titled "Burn" (display "The Burn" in the chronology); the "Keep still" line is the emotional/erotic core*
 
 ## What this scene is now
 

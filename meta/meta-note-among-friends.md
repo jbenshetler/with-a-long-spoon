@@ -8,7 +8,7 @@ The **reciprocal of Another Round.** Where Another Round (~mid-March) brings Vee
 
 Its engine is **Pace's deed-answer to the *Under the Rug* visibility wound.** In *Under the Rug* (~mid-December) Vee asked, in the dark, *"Is this what we are now? … will we ever be seen in public again?"* — and the Chili's disaster left it unanswered (his sensory overload misread as rejection of *being seen with her*). Pace metabolizes that over the break, and this is his response, given in the only grammar he has — **deed, not word.** He comes into her world and lets himself be seen *with* her, among her people, without her having to ask. The wound answered by an act, never a declaration (the vow holds all year).
 
-**The double answer, and the trap inside it.** He answers only one axis — *he'll be seen with me in public* — while the enclosure of his *own* life stays sealed (she still can't get into his world; the gym proves the outside dangerous at `Keep Still`; his people wait for Another Round). So the answer **soothes the wound and deepens the cage at once**: warm and real on the surface, and on reread the beginning of the lesson the book runs on — *his room is where I'm real; the world out there doesn't quite hold us.* He gives her the public claim and keeps the private word; she takes the deed for the thing she actually asked for. Nothing named.
+**The double answer, and the trap inside it.** He answers only one axis — *he'll be seen with me in public* — while the enclosure of his *own* life stays sealed (she still can't get into his world; the gym proves the outside dangerous at `The Burn`; his people wait for Another Round). So the answer **soothes the wound and deepens the cage at once**: warm and real on the surface, and on reread the beginning of the lesson the book runs on — *his room is where I'm real; the world out there doesn't quite hold us.* He gives her the public claim and keeps the private word; she takes the deed for the thing she actually asked for. Nothing named.
 
 ## The engine — being seen (deed, not word)
 
@@ -55,7 +55,7 @@ This is the most dangerous stretch to write, because it puts the two concealed c
 - **Goodbye-kiss staircase:** not this scene (it's not a Randi/Vee dyad debrief).
 - **Visibility thread — partial answer only.** This answers the "seen with me in public / in her world" axis. It must NOT discharge the whole thread: the *sealed-room* axis (Vee admitted to *his* world/people) stays open for Another Round (~mid-March) and beyond, and the enclosure must persist to the threesome. Don't let the walls read as down.
 - **Dorm-friends seed (flag 21):** required precondition; see the flag for pool/count/vehicle and the thinning payoff.
-- **Reciprocity with `Keep Still`:** he enters her world here (safe); she enters his at the gym (careless world hurts her). His world is where the danger lives; the house is the only true sanctuary. The pair does the asymmetry.
+- **Reciprocity with `The Burn`:** he enters her world here (safe); she enters his at the gym (careless world hurts her). His world is where the danger lives; the house is the only true sanctuary. The pair does the asymmetry.
 
 ## Continuity guards
 

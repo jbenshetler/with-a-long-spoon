@@ -1,6 +1,6 @@
-# Condensed — Keep Still
+# Condensed — Burn
 
-*SCENE · Drafted (`scenes/keep-still.md`) · ~mid-to-late February (after Restrained, spaced; before the Cabin Weekend and the Massage Table) · Vee POV · tender; held/edged heat, no sex (no intercourse) · [craft](meta-note-keep-still.md)*
+*SCENE · Drafted (`scenes/burn.md`) · ~mid-to-late February (after Restrained, spaced; before the Cabin Weekend and the Massage Table) · Vee POV · tender; held/edged heat, no sex (no intercourse) · [craft](meta-note-burn.md)*
 
 Vee into **Pace's** world (the reciprocal of Among Friends) — and it goes wrong, **vindicating** the sealed room rather than opening it. The outside world proves careless and dangerous; his fury and then his tending draw her back to the sanctuary, which she (and the reader) come to feel as *more* precious, not less. Frightening then tender on the surface; the cold (the cage argued *for*) is the reader's. (Title provisional; author may rename.)
 

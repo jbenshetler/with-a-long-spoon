@@ -5,7 +5,7 @@
 The reciprocal of Another Round: Pace enters **Vee's** world instead of the reverse. It is his deed-answer to the *Under the Rug* visibility wound — *will we ever be seen in public?* — given in the only grammar he has (deed, not word): he comes to a gathering of her friends **without being asked**, in his bomber jacket and broadcloth, and is seen with her. Volume Two's warm opener — the bloom before the souring. Warm and fun on first read; the cold is the reader's, on reread. (Title provisional; author may rename.)
 
 ### The engine — being seen
-The visibility wound answered in deed: he lets himself be claimed publicly. But only *her* world opens — his stays sealed (the gym goes wrong at `Keep Still`; his *people* wait for Another Round). He answers the "seen in public" axis while the enclosure of his own life holds; the answer soothes the wound and deepens the cage at once.
+The visibility wound answered in deed: he lets himself be claimed publicly. But only *her* world opens — his stays sealed (the gym goes wrong at `The Burn`; his *people* wait for Another Round). He answers the "seen in public" axis while the enclosure of his own life holds; the answer soothes the wound and deepens the cage at once.
 
 ### The room
 Vee assembles an unlikely mix — 2–3 of her **dorm** friends (seed: flag 21) + **Randi** (crossing status lines for Vee, as she does) + **Pace**. The mix exists only because Vee connects worlds no one else would — a render of her aliveness (Vivienne), and the mechanism that unknowingly seats her boyfriend and her orchestrator in one room. Cassie present.
