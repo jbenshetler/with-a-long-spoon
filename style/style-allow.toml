@@ -438,6 +438,20 @@ text = "The lamplight fell across her back and shoulders and down over the long 
 note = "oiled-wood motif: furniture-maker rendering her body"
 
 [[ok]]
+fp   = "21894f4b06de"
+rule = "the-way"
+file = "scenes/the-induction.md"
+text = "She could have taken the whole walk like that, mincing it modest all the way to the podium, and no one would have known there was anything to know."
+note = "distance idiom 'all the way to' — not the telling 'the way'; intentional"
+
+[[ok]]
+fp   = "6dededa5d064"
+rule = "there-was-were"
+file = "scenes/the-induction.md"
+text = "She could have taken the whole walk like that, mincing it modest all the way to the podium, and no one would have known there was anything to know."
+note = "idiomatic 'nothing to know' understatement; intentional"
+
+[[ok]]
 fp   = "55306d44c38c"
 rule = "a-small"
 file = "scenes/the-pointing-game.md"
