@@ -319,6 +319,13 @@ text = "Because it was not just a girl, not just the bit."
 note = "deliberate antithesis — fires once; it was not just a girl, it was Randi"
 
 [[ok]]
+fp   = "30cee1a108da"
+rule = "there-she-is"
+file = "scenes/still-life.md"
+text = "\"There she is,\" he said, and she had to put a hand on his shoulder to stay standing."
+note = "Load-bearing: the Barely Stings wax-reveal payoff; the single kept instance of the reveal beat in this scene."
+
+[[ok]]
 fp   = "6bc394db8bf0"
 rule = "a-small"
 file = "scenes/the-bench.md"

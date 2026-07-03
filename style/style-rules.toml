@@ -105,6 +105,54 @@ phrase   = "without asking"
 severity = "warn"
 why      = "'without asking' telegraphs the consent theme. Render the act; let the absence of asking land without the label."
 
+[[rule]]
+id       = "out-ahead"
+kind     = "phrase"
+phrase   = "out ahead"
+severity = "warn"
+why      = "'out ahead (of her)' — the body-before-mind tic (want/need arriving before thought). The idea is right; the phrasing is overused. Vary the image."
+suggest  = "her body arrived before her mind / before she'd decided / faster than thought / her want got there first / her body outran her."
+
+[[rule]]
+id       = "whole-of"
+kind     = "phrase"
+phrase   = "whole of"
+severity = "warn"
+why      = "'the whole of her / the whole of it' — the totality/absorption tic, overused. Cut to 'all of', or recast to a concrete image. Keep only rarely, with the author's direction."
+
+[[rule]]
+id       = "vivienne"
+kind     = "phrase"
+phrase   = "Vivienne"
+severity = "warn"
+scope    = "scenes"
+why      = "The name-toggle: 'Vivienne' (vs 'Vee') carries weight and must stay RARE and deliberate — used only with the author's direction (he says it once deliberately; she signs something formal; her mother is angry). Flag EVERY use for author sign-off; --ack the sanctioned ones."
+
+# ---- Recognition / appreciation beat tics -----------------------------------
+
+[[rule]]
+id       = "there-she-is"
+kind     = "regex"
+pattern  = '(?i)\bthere\s+(?:she|he|you|they)\s+(?:is|are)\b'
+severity = "warn"
+why      = "'There she is' / 'there you are' — the tender-recognition reveal beat, badly overused. Recast or cut."
+
+[[rule]]
+id       = "look-at-her"
+kind     = "regex"
+pattern  = '(?i)\blook\s+at\s+(?:her|him|you|them)\b'
+severity = "warn"
+why      = "'Look at her' / 'look at you' — the appreciation beat, badly overused. Recast or cut."
+
+[[rule]]
+id       = "undone"
+kind     = "regex"
+pattern  = '(?i)\b(?:undone|undid)\b'
+severity = "warn"
+why      = "'undone/undid' for sexual excitement or orgasm is a tic. Fine for literal unfastening (clothes, laces, a belt) — those are auto-suppressed. When it means arousal or climax, recast."
+suggest  = "climax: came apart / broke / went over / came / unraveled / gave way / shattered. excitement: unstrung / wrecked / went weak / came loose / lost the shape of herself."
+unless   = '(?i)\b(?:belt|button|buttons|buckle|buckled|clasp|clasps|lace|laces|laced|zip|zipper|zipped|knot|cuff|cuffs|hook|hooks|snap|snaps|sash|corset|bodice|apron|strap|straps|robe|shirt|blouse|dress|bra|collar|fly|button-?up)\b'
+
 # ---- Hard canon rules (never name, never explain) ---------------------------
 
 [[rule]]
