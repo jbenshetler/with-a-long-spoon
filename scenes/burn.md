@@ -136,7 +136,15 @@ And she heard the *we* in it, that he was not sending her off alone into the not
 
 He drew her back against him instead. He gathered her in from behind and settled her spine along his chest so she never had to turn her head, and she felt the whole hard length of his wanting pressed against her back, as stranded as she was, and it undid her a little that he was in it too and holding still in it anyway. His arms came around her. His hands came up and took her breasts.
 
-He kept the fire where the fire already was. The hand with the balm on it he laid over the nipple that was already burning, and the fire came up under his palm and turned, under the roll of his fingers, from torment into something she had no name for, the pleasure and the burn folded so close together that she gave up trying to hold them apart. His other hand, the clean one, took her other breast plain, and that nipple he worked soft and slow and only sweet, no fire in it anywhere, so that she hung between his two hands with her two breasts made into two different wantings, the one that scorched and the one that only ached, and both of them climbed.
+He kept the fire where the fire already was. One hand he laid over the nipple that was already burning, and the heat came up under his palm and turned, under the roll of his fingers, from torment into something she had no name for, the pleasure and the burn folded so close she gave up holding them apart.
+
+The other hand he kept closed. He rubbed her second breast with the backs of his knuckles, slow, the dry backs of his fingers, and kept the flat of his hand and the balm on it turned away from the tip of her. It came to her slowly, through the heat, and when it came it went through her hard and clear: he was sparing her this one. He was keeping the second nipple for the sweet and the plain, holding the fire off it, saving her from the rest of what she had asked for.
+
+She did not want to be saved.
+
+"Yes," she said, only that, and pressed the breast up into his closed hand.
+
+And he opened it. The balm came onto her, cool and slick and lying, and he took the second nipple the way he had taken the first, and she felt the ointment go greasy and harmless over it and knew, from the other side of her own chest, exactly what the harmlessness was the front of. The first nipple was burning still. It had her drawing her breath in between her teeth. It told her to the letter what she had just called down onto its twin, and she called it down anyway. Her need for him had gone out past the pain a long time back, and it did not so much as slow. She hung between his two hands with both of her alight now, and she would not have given back either fire.
 
 And she began to climb toward the end of it. She could feel it gathering, the old sure gather, low and deep and drawing everything in toward the center, and she leaned back into him and reached for it, and her body did the thing bodies do, tightened, arched, began to draw itself up toward the edge. And the wire in her neck lit, a warning, the first white feather of it, and she froze against it.
 
