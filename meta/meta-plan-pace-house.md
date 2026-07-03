@@ -124,10 +124,12 @@ owns its meaning ("where he lets his own mind sprawl"). Not yet drafted/placed.
 most of the house's furnishings came from here. Reached past the **kitchen / dining**,
 out through the **garage** (not yet drafted).
 
-### Den `[PAGE]`
+### Den `[PAGE]` + `[PLAN]`
 **Forward** off the foyer; the room you cross to reach the sun porch. **One long wall of
-books** (the library wall). Where Pace waits during the Dress Pickup try-on
-(`scenes/dress-pickup.md`).
+books** (the library wall). `[PLAN]` A working **fireplace** on the den side of the
+porch threshold; on cold porch nights it can throw heat and firelight from behind them
+without moving the scene out of the glass room. Where Pace waits during the Dress Pickup
+try-on (`scenes/dress-pickup.md`).
 
 ### Sun porch `[PAGE]`
 Through an archway at the far end of the den — an **enclosed porch at the back, mostly
