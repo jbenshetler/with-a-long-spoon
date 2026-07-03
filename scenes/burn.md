@@ -100,7 +100,7 @@ He did the back of her neck and the tops of her shoulders the same way, the same
 
 Then he came around in front of her. He tipped her chin up with one hand and looked at the side of her neck, and told her, low, that the hurt muscle ran down under the front too, under the collarbone, and that he'd work it from there now. And he did. He drew his fingers down from the corner of her jaw along the front of her throat and out under the collarbone, chasing the same cord to where it anchored low, and the heat came down with him, onto the upper slope of her breast where the towel had slipped open, and his face stayed bent to it the whole time, careful, on nothing but the muscle he was after. The wanting stood straight up in her.
 
-His hand moved along the top of her chest, and she leaned into it. She didn't decide to. Her body did it for her, tipped her breast up into his palm as it had tipped her toward the weekend a hundred times in the back of a lecture hall, ahead of her. For a second his hand met only the slick of the ointment, cool and greasy, no heat in it yet.
+His hand moved along the top of her chest, and she leaned into it. She didn't decide to. Her body did it for her, tipped her breast up into his palm as it had tipped her toward the weekend a hundred times in the back of a lecture hall, ahead of her. For a second her breast met only the slick of the ointment, cool and greasy, no heat in it yet.
 
 He drew his hand back. "Keep still," he said, low.
 
