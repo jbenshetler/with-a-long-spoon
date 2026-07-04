@@ -1,20 +1,14 @@
 # Rock
 
-Behind them the fire worked quietly in the den. In front of them the glass held the whole cold night: the yard gone black, the ridge a darker black laid over it, the stars out hard and close along the top of the line. The porch had no heat of its own. The cold stood on the other side of the glass and leaned in, and the quilt over the two of them and the fire at their backs made the whole of the warmth, and the smallness of it was the point.
+Behind them the fire worked quietly in the den. In front of them the glass held the whole cold night: the yard gone black, the ridge a darker black laid over it, the stars out hard and close along the top of the line. The porch had no heat of its own. The cold stood on the other side of the glass and leaned in, and the quilt over the two of them and the fire at their backs made all the warmth there was, and the smallness of it was the point.
 
 She had her feet tucked under his thigh. He had handed her the robe off the back of the closet door and taken the quilt down without being asked, and now they were under it, his boxers and her skin and his robe over her shoulders, and the tea gone cool in the mugs on the low table because they had stopped drinking it in order to keep talking.
 
-The robe smelled like him at the collar. Soap, wood dust that seemed to live in the seams of his house, and underneath it the warm spent smell of his skin. She had tied it badly. The belt was too long for her and doubled back on itself, and one side of the robe had slipped enough that her knee came out when she shifted. He had noticed and said nothing, only pulled the quilt higher over both of them, as if the answer to her almost-bareness was not correction but warmth.
-
-[AI] In the above paragraph, I want Vee's breast slipping out of the robe. Beyond their erotic charge, Pace finds comfort in Vee's breasts. It is only with her comfort that Pace talks about his past here. 
+The robe smelled like him at the collar. Soap, wood dust that seemed to live in the seams of his house, and underneath it the warm spent smell of his skin. She had tied it badly, it had fallen open, and she didn't mind. He looked and his face softened. Then his hand came up and settled over her breast, warm, his whole palm holding the soft weight of it without pressing, without asking, as if it were her skin and not the fire that kept him warm, and with his other hand he drew the quilt higher over them both.
 
 They had been talking for a while. She could not have said how they had started. With Pace a thing she said lightly did not disappear. He picked it up. He turned it over. He gave it back warmer, or stranger, or more exact than she had known it could be, and then the next thing would open from that one, and the next, until a whole conversation had happened without any sense of having been steered.
 
-[AI]: They do not eat standing at the counter. Pace would consider that disrespectful to Vee and to the food he cooked. They sit at his little kitchen table, looking at each others face across the food. 
-
-They had been on food. He had cooked, earlier, before the rest of it, and she had eaten standing at his counter with her fingers and made a sound she was a little embarrassed by, and now she was trying to explain the sound.
-
-[AI]: We want to render the food Vee group up on as adequate, affectionate, not enough, fine. The whole reason Vee is so attracted to Pace and Randi is because they are more than fine. We need that distinction here. The food before Pace was the crackers. Pace is the first person who ever fed Vee a meal. Look up the crackers-and-meal analogy. 
+They had been on food. He had cooked, earlier, before the rest of it, and they had eaten at his kitchen table, the small one, across from each other with the food between them and his face on the other side of it. She had made a sound over the first bite that she was a little embarrassed by, and now she was trying to explain the sound.
 
 "Before you," she said, "I'm not sure I had eaten cumin on purpose."
 
@@ -26,7 +20,7 @@ He smiled into his mug. "That seems like an omission."
 
 "Ohio would disagree with you."
 
-The food she had grown up with had been good. She said that first, because it was true and because she could hear her mother's defense of it before she had even accused it of anything. It had fed her. It had come to church basements in foil pans and gone home in Cool Whip containers washed and saved for that purpose. It had been hot and plentiful and beige in the ways food could be beige even when it was technically another color. Meat in gravy. Potatoes under gravy. Green beans improved by bacon until the vegetable had surrendered its own case. Casseroles deep enough to forgive almost anything.
+The food she had grown up with had been good. She said that first, because it was true and because she could hear her mother's defense of it before she had even accused it of anything. It had been made with love. It had come to church basements in foil pans and gone home in Cool Whip containers washed and saved for that purpose. It had been hot and plentiful and beige in the ways food could be beige even when it was technically another color. Meat in gravy. Potatoes under gravy. Green beans improved by bacon until the vegetable had surrendered its own case. Casseroles deep enough to forgive almost anything.
 
 "It sounds efficient," he said.
 
@@ -36,7 +30,7 @@ The food she had grown up with had been good. She said that first, because it wa
 
 That stopped her a little, because it was not the answer she would have expected from anyone else. Anyone else would have laughed with her, or made a face, or said something about cream of mushroom soup. Pace went first to the hand underneath the thing.
 
-"Yes," she said. "It was. It fed you. It just never tried to surprise you."
+"Yes," she said. "It was. It just never tried to surprise anybody." She turned the mug in her hands, looking at him over the top of it. "Even when I was hungry, it was never quite the thing I wanted. I didn't know food could be the thing you wanted. Then you cooked for me."
 
 The fire settled behind them. A line of light moved along the porch floor and went still.
 
@@ -56,9 +50,7 @@ Her mother had owned a spice rack, technically. It had come as a wedding present
 
 He laughed then, the small quiet laugh he had in the house, the one that did not perform for anyone beyond the two of them. It moved through her more tenderly than she expected. She had not been trying to make him laugh. That was the trouble with him. She could be trying only to tell him a thing, and he would receive it so exactly that the telling itself became a pleasure.
 
-[AI] Render this in Vee's voice rather than narration.
-
-Her parents had grown up in the same city, though not romantically enough to be high-school sweethearts. They had met at church. Her mother became a nurse. Her father worked on jet engines for a major airline and had the mechanic's reverence for things done in the right order. He could hear a problem in an engine as other men heard a bad note in a song, or so he had told her when she was young enough to believe fathers had secret senses issued to them with their children.
+"My parents grew up in the same city," she said. "Same city, not high-school sweethearts, nothing that good. They met at church. My mother's a nurse. My dad works on jet engines for a major airline." She turned the mug in her hands. "He's got this reverence for things done in the right order. When I was little he told me he could hear a problem in an engine the way other men hear a wrong note in a song, and I believed him completely. I thought all fathers came with a sense like that. Issued to them with the kid."
 
 "My mother still calls me Vivienne."
 
@@ -76,13 +68,13 @@ She looked over at him. He had said it plainly, laid it where she could see it, 
 
 He nodded, taking it in, and did not tell her that was sad, which she was grateful for, because it was not sad, or it was only the ordinary amount of sad that everything was.
 
-"So," she said, turning the mug between her hands, "that's me. Ohio. Casseroles. One brother. Nurse mother. Jet-engine father. Church, Corolla, unopened saffron." "What about you?"
+"So," she said, turning the mug between her hands, "that's me. Ohio. Casseroles. One brother. Nurse mother. Jet-engine father. Church, Corolla, unopened saffron. What about you?"
 
 He was quiet a moment. She had learned that his quiet was not reluctance. It was that he answered the actual question, and it took him a second to find the actual answer.
 
 "My mother stays home," he said. "My father works in a chemical plant."
 
-She waited. Nothing else came. It was not withheld. It was only the size of it, flat and factual, next to the warm sprawl of hers, and she felt the difference and it told her something.
+She waited. Nothing else came. It was not withheld. It was only the size of it, flat and factual, next to the warm sprawl of hers, and the difference was there, and it told her something.
 
 "What does she call you?" she asked. "Your mother."
 
@@ -110,7 +102,7 @@ She turned under the quilt to look at him. "You're not."
 
 "How?"
 
-He took a drink of tea, though it must have gone nearly cold. "I took the SAT for a summer program when I was fourteen. It became a longer conversation than anyone expected."
+He took a drink of tea, though it must have gone nearly cold. "I took the SAT for a summer program when I was fourteen. It became a longer conversation than anyone planned. Scholarships. A great deal of adult concern arranged around the idea that the opportunity shouldn't be wasted."
 
 "People do well on tests. They don't get offered college."
 
@@ -122,14 +114,7 @@ He took a drink of tea, though it must have gone nearly cold. "I took the SAT fo
 
 "That's worse."
 
-His mouth moved, not quite a smile, because he was too literal not to first check whether she meant it, and too used to her by now to think she did. "I took the SAT for a summer program when I was fourteen. It became a longer conversation than anyone planned. Scholarships. A great deal of adult concern arranged around the idea that the opportunity shouldn't be wasted." 
-
-
-####
-He gave it in order, one fact after another, plain as directions. "I started college at fifteen."
-
- It was the best thing that ever happened to me. I don't say that lightly."
-####
+His mouth moved, not quite a smile, because he was too literal not to first check whether she meant it, and too used to her by now to think she did.  
 
 "And you wanted to go?"
 
@@ -155,9 +140,7 @@ He said it so plainly it took her a moment to understand what it meant.
 
 The sentence was almost comic in its restraint. She looked at him over the rim of her mug, waiting, and he seemed to decide something, or else the room allowed another fact to rise.
 
-[AI] I added, "I asked for help." I'm trying to convey that he wanted to learn more and the teacher didn't know how to help him. Because the teacher couldn't answer the questions, they consigned him to long division alone in the hall. I don't want a full explanation but I want the idea that he asked questions the math teacher couldn't answer. 
-
-"In seventh grade I taught myself trigonometry because I wanted to write a graphics program," he said. "I asked for help. My math teacher had me move my desk into the hall every day during math class and do long-division worksheets."
+"In seventh grade I taught myself trigonometry because I wanted to write a graphics program," he said. "I asked for help. I asked questions my math teacher couldn't answer. So she moved my desk into the hall during math class, and I did long-division worksheets."
 
 The words reached her one at a time.
 
@@ -211,8 +194,6 @@ He considered it. "It didn't feel lonely. Not in the work. Not in the rooms wher
 
 He said it without self-pity, and that made it worse and better at once. She could picture him at fifteen, too young and not young at all, in a room where no one made him carry his desk into the hall.
 
-The fire settled behind them. A little of it trembled at the corner of the glass, a second warmth laid faint over the stars.
-
 "And lifting?" she asked. "Where did that come from?"
 
 His gaze went back to the glass. The fire moved again behind them, and the reflection of it trembled faintly at the edge of the window, a second warmth laid over the stars.
@@ -237,7 +218,7 @@ She was quiet. She was putting something together, and it came together in her b
 
 "That's how you are with me," she said slowly. "It's the same thing. When we're — you're all the way here. You're not thinking of the clever thing to say next. You're not off somewhere in your own head. I've been with people who were somewhere else the whole time. You're right here. It's the lift. It's the same face."
 
-He did not answer that with words. His hand moved up from her ankle, under the quilt, and settled flat and warm against her hip where she was bare under the robe, and stayed, not going anywhere, only being there, present in the way she had just named, and she felt the accuracy of it move through her.
+He did not answer that with words. His hand moved up from her ankle, under the quilt, and settled flat and warm against her hip where she was bare under the robe, and stayed, not going anywhere, only being there, present as she had just named it, and the accuracy of it moved through her.
 
 Her own hand had drifted while they talked. It was on his thigh, above the knee, and now it moved without her deciding it, and found, along the outside of his hip, a place where the skin was not like the rest. A seam of it, old, raised and smooth, longer than her hand. Her fingers went along it before she thought about whether to.
 

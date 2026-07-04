@@ -67,9 +67,11 @@ Front door (left unlocked for the expected guest; Randi bolts it behind her). A
 **chair by the door** where she drops her overnight bag.
 
 ### Kitchen `[PAGE]` + `[PLAN]`
-`[PAGE]` Granite-topped **counter** with **stool(s)**; **kettle**/burner; two mugs;
-the **green tea** she likes, kept on hand. `[PLAN]` A few good knives, a couple good
-pans (**not the 12-piece set**); a small bench of guest wines. He cooks here.
+`[PAGE]` **Formica**-topped **counter** (older, not shiny, still good to work on) with
+**stool(s)**; **kettle**/burner; two mugs; the **green tea** she likes, kept on hand;
+a small **table** where meals happen (he sits people down to eat, never feeds them
+standing at the counter). `[PLAN]` A few good knives, a couple good pans (**not the
+12-piece set**); a small bench of guest wines. He cooks here.
 
 ### Dining room `[PLAN]`
 Off the **kitchen** (distinct from the kitchen's own built table); beyond it, the way out

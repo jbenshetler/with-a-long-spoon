@@ -319,6 +319,76 @@ text = "Because it was not just a girl, not just the bit."
 note = "deliberate antithesis — fires once; it was not just a girl, it was Randi"
 
 [[ok]]
+fp   = "423e7972c35a"
+rule = "the-way"
+file = "scenes/rock.md"
+text = "When I was little he told me he could hear a problem in an engine the way other men hear a wrong note in a song, and I believed him completely."
+note = "Author-approved in Rock [AI] workshop: engine 'the way' simile, 'without asking' robe beat, 'city, not high-school sweethearts'."
+
+[[ok]]
+fp   = "76c889eab7b4"
+rule = "the-way"
+file = "scenes/rock.md"
+text = "She was only saying it, once, into the warm dark, the way you say a word to keep it."
+note = "Load-bearing, author-approved: 'all the way here' (presence/lift theme), 'whole of the asking/answer' (deliberate doubling), closing 'the way you say a word', 'all the way down' (fractal idiom)."
+
+[[ok]]
+fp   = "c27552de7fb3"
+rule = "the-way"
+file = "scenes/rock.md"
+text = "When we're — you're all the way here."
+note = "Load-bearing, author-approved: 'all the way here' (presence/lift theme), 'whole of the asking/answer' (deliberate doubling), closing 'the way you say a word', 'all the way down' (fractal idiom)."
+
+[[ok]]
+fp   = "e9ac6498f3b8"
+rule = "the-way"
+file = "scenes/rock.md"
+text = "Edges inside edges, all the way down, forever.\""
+note = "Load-bearing, author-approved: 'all the way here' (presence/lift theme), 'whole of the asking/answer' (deliberate doubling), closing 'the way you say a word', 'all the way down' (fractal idiom)."
+
+[[ok]]
+fp   = "3de0336f2f76"
+rule = "vivienne"
+file = "scenes/rock.md"
+text = "He only calls me Vivienne when I'm in trouble, so I learned it early."
+note = "Naming beat: mother's Vivienne vs father's Vee; the toggle earns its weight here. Author-approved."
+
+[[ok]]
+fp   = "5741bf63a38d"
+rule = "vivienne"
+file = "scenes/rock.md"
+text = "Vivienne."
+note = "Naming beat: mother's Vivienne vs father's Vee; the toggle earns its weight here. Author-approved."
+
+[[ok]]
+fp   = "a4e1cc2a528e"
+rule = "vivienne"
+file = "scenes/rock.md"
+text = "\"My mother still calls me Vivienne.\""
+note = "Naming beat: mother's Vivienne vs father's Vee; the toggle earns its weight here. Author-approved."
+
+[[ok]]
+fp   = "83743d35bf29"
+rule = "whole-of"
+file = "scenes/rock.md"
+text = "She turned her hand over under his so their palms were together over the scar, and left it, and that was the whole of the asking and the whole of the answer."
+note = "Load-bearing, author-approved: 'all the way here' (presence/lift theme), 'whole of the asking/answer' (deliberate doubling), closing 'the way you say a word', 'all the way down' (fractal idiom)."
+
+[[ok]]
+fp   = "53a6b39872e6"
+rule = "without-asking"
+file = "scenes/rock.md"
+text = "Then his hand came up and settled over her breast, warm, his whole palm holding the soft weight of it without pressing, without asking, as if it were her skin and not the fire that kept him warm, and with his other hand he drew the quilt higher over them both."
+note = "Author-approved in Rock [AI] workshop: engine 'the way' simile, 'without asking' robe beat, 'city, not high-school sweethearts'."
+
+[[ok]]
+fp   = "a2625ce17261"
+rule = "x-not-y"
+file = "scenes/rock.md"
+text = "\"Same city, not high-school sweethearts, nothing that good."
+note = "Author-approved in Rock [AI] workshop: engine 'the way' simile, 'without asking' robe beat, 'city, not high-school sweethearts'."
+
+[[ok]]
 fp   = "30cee1a108da"
 rule = "there-she-is"
 file = "scenes/still-life.md"
