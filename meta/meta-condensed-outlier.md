@@ -1,0 +1,22 @@
+# Condensed — The Outlier
+
+*SCENE (diptych) · Draft complete (`outlier.md`) · panel one earlier in the term; panel two the week before Thanksgiving break*
+*Craft companion: `meta-note-outlier.md`. Supersedes the former "COVID / PPP Statistics Project" brief. Close third on Vee throughout.*
+
+## Panel one — the assignment (stats class, earlier in the term)
+The professor (canon: unnamed, flat "tire-pressure" register, slides forward/back) assigns the 25%-of-grade semester project: real-world data (messy, complex, surprising); *pick a subject that means something to you*; it must have data (*a statistics class, not an English paper — we argue with data, not analogies*); a few samples to motivate the model; look at the outliers, set them aside if you can account for them, the exception often proves the rule; in industry, exploratory data analysis. Method planted **ambient, never spotlit** — the outlier line hides in the flow as Vee's attention slides to Randi.
+
+The group is a foregone conclusion (the three of them). Subject chosen on the walk out: **Cassie proposes PPP** with her thesis up front (*they didn't use that money for workers*) and her one flat family fact — *"My dad got laid off in 2020."* Randi doesn't answer it; Vee, between them, says nothing. **Randi believes** her father's loans kept people employed and means to prove Cassie wrong — *"We'll see."* Divvy by what each is for: Cassie pulls the data; Vee (economics major, the department's award) builds the model; Randi (marketing) makes the picture — *something you can see across a room.*
+
+## Panel two — the discovery (library group-study room, week before break)
+Live exploratory analysis before the write-up. The aggregate confirms Cassie (money up, jobs flat). They plot **home counties** (the professor's *few samples*). Randi drives into her own, hunting the counterexample; her county has a lone outlier. She hovers it — her viz's auto-tag reads **MIRH** — and goes still (recognition before management). She clicks: **Miranda Holdings, LLC**, her father's, several loans across subsidiaries, the workforce cut anyway. She didn't know the extent.
+
+- **The wound is Randi's, reader-only.** Small, physical, deniable — color gone, a breath with work in it. *"Cheating bastards"* — two words, no clause, the plural blurring *my father* into strangers; her genuine just-formed conclusion, her cover, her forced agreement with Cassie, and a daughter condemning the man she adores, all at once. Recovery one beat too fast; she re-clamps.
+- **Vee sees, and chooses silence (the scene's heart).** Beside her, Vee reads the name, knows whose it is, and **turns from the screen to the person** (the axis: Vee attends people, Cassie attends data). She keeps looking. She says nothing then or after, never tells Randi — kindness as silence. **Randi never registers she was seen** (guard down = the measure of the real wound). Vee's read tops out at *hurt friend, no hand in it, hadn't earned it* — true and shallow; **the operator stays reader-only.**
+- **Cassie is the true Cassandra.** She can't see the screen (seating: laptop–Randi–Vee–Cassie); she reads the graph and *"Cheating bastards"* as agreement and delivers the general verdict — *that's not the exception, that's just the one that's easy to see* — indicting Randi's father to his daughter's face without knowing it. The blindness is the power. Inverts the usual social power (the low-status friend holds the floor; Randi absorbs). Cassie's late free-floating payoff (*"You saw it and I didn't"*) is untouched.
+
+## Load-bearing
+- **No plan-acceleration here.** The turn toward the plan lands in the winter/spring; this scene is character/relationship, not plot-engine.
+- **Silent stats-mirror:** the professor's outlier/EDA method turned on the one who invoked it — Randi reaches for her father as the exception and produces the proof he is the rule. Distinct from the First-Swat additive/innovational outlier lecture.
+- **Never explain** (Global Craft Rule): the PPP/Vee rationalization parallel — a father who extracted under a benevolent cover story, a daughter who runs the same motion on Vee. Also unstated: Cassie's dad (laid off) and Randi's dad (the layoffer) are the two ends of PPP in one group.
+- New canon captured in arch docs: Randi is a marketing major; Miranda Holdings, LLC (named for her); she adored her father and didn't know. Cassie's dad laid off 2020 (held flat — over-feed watch). Vee's giftedness / economics / award are existing canon.

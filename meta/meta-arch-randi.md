@@ -239,3 +239,15 @@ Randi says she wants Pace to taste Vee. Her interior produces scalding jealousy 
 Randi says she wants to be Vee's confidante and friend. Her interior produces sadism — and, equally, genuine love. She did not fully order either. She cannot separate them.
 
 Both women have been given access to their own interiors by Pace and discovered the interior is not what they thought. Both are casualties of the same event, separated by the order of arrival and what each can do with her wound.
+
+---
+
+## The Father — Miranda Holdings
+
+*(Scene draft: `outlier.md`; craft in `meta-note-outlier.md`.)*
+
+First-generation wealth, made on PPP loans during COVID across several businesses under a holding company he named for her — **Miranda Holdings, LLC**. Randi adores him and grew up proud of the money's story (the loans kept people employed). She does not know the truth: the companies took the loans and cut their non-executive workforces anyway. She finds out in `outlier.md`, building the visualization for the stats project — **her own hand producing the evidence**, her own county the outlier, marketing's faith in the persuasive picture turned on her.
+
+**Recoil, not acceleration.** The discovery is a wound, not a spur; the turn toward the plan lands later (the winter — see The Flat Date — and spring), not here.
+
+**Render disciplines.** Her reaction stays **reader-only** (Vee sees a hurt friend, never the operator). She covers with a blurred, genuine *"Cheating bastards"* and re-clamps one beat too fast. The resonance — a father who extracted under a benevolent cover story, a daughter who runs the same motion on Vee — is **never explained** (the PPP/Vee rationalization parallel, per the Bible's Global Craft Rules). That she is *marketing* is on-theme (making the true thing look how she needs it to) but never underlined.

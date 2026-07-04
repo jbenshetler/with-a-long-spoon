@@ -9,7 +9,7 @@ AKA Cassandra
 
 ## Who She Is
 
-Vee's best friend and roommate, two years running. Pre-nursing (echoes Vee's mother). Unaffiliated — never in a sorority, never inside that social world (same as Vee; see the world-sort note below).
+Vee's best friend and roommate, two years running. Pre-nursing (echoes Vee's mother). Unaffiliated — never in a sorority, never inside that social world (same as Vee; see the world-sort note below). **Her father was laid off in 2020** (`outlier.md`) — the one family fact on the page, stated flat and never dwelt on; it grounds why the PPP subject means something to her and must not be grown into a wound (over-feed).
 
 She is the **Cassandra device**: she sees clearly and is not believed. **Never named, never explained, never commented on by any character — including Cassie herself.** She does not know she is Cassandra. The reader feels the shape from outside.
 
@@ -43,7 +43,7 @@ The narrator **never verdicts this.** Cassie's opting-out is a *fourth fact,* no
 
 - Anchors what **genuine friendship looks like** — warmth without agenda. The control case against which the Randi/Vee "friendship" is read.
 - **Sees Randi clearly** because she has no investment in Randi being what she presents as.
-- **Voices unease early, gets dismissed, becomes a marker the reader tracks.** (Chi Latte diptych, the register-wrong *"Goodbye, Vee"* — dismissed live with *"It's coffee, weirdo."* Statistics project: sees Randi's too-fast recovery, says nothing. Late: *"You saw it and I didn't"* — she does NOT say *I told you so.*)
+- **Voices unease early, gets dismissed, becomes a marker the reader tracks.** (Chi Latte diptych, the register-wrong *"Goodbye, Vee"* — dismissed live with *"It's coffee, weirdo."* Statistics project (`outlier.md`): can't see the screen, delivers the true verdict blind — indicting Randi's father to Randi's face without knowing it (the true-Cassandra beat); Vee is the one who sees the name and stays silent. Late: *"You saw it and I didn't"* — she does NOT say *I told you so.*)
 - Rendered **almost entirely as effect-on-Vee and she-was-right** — **no standalone interiority.** If the reader starts growing curious about Cassie *for her own sake,* that is the **over-feed signal** — pull back.
 
 ---

@@ -137,7 +137,7 @@ One file per non-trivial scene; the chronology entry links to it. To work on a s
 | `meta-condensed-vee-tells-randi-we-find-out.md` | Vee Tells Randi About We Find Out |
 | `meta-condensed-still-life.md` | Still Life |
 | `meta-condensed-gesso.md` | Gesso — Vee Tells Randi |
-| `meta-condensed-covid-ppp-project.md` | The COVID / PPP Statistics Project |
+| `meta-condensed-outlier.md` | The Outlier |
 | `meta-condensed-back-from-thanksgiving.md` | Back from Thanksgiving — Tells Cassie |
 | `meta-condensed-the-porch-scene.md` | The Porch Scene — Cracker-and-Meal |
 | `meta-condensed-christmas-fight.md` | The Christmas Fight |
