@@ -335,6 +335,11 @@ def render_flags(raw: str) -> str:
 
 
 # --- HTML assembly ----------------------------------------------------------
+def slugify(title: str) -> str:
+    s = re.sub(r"[^a-z0-9]+", "-", title.lower()).strip("-")
+    return s or "beat"
+
+
 def chip(label, cls="chip"):
     return f'<span class="{cls}">{html.escape(label)}</span>'
 
@@ -364,13 +369,20 @@ def render_entry(e: Entry) -> str:
     head = " ".join(parts)
     body = md_block(e.body) if e.body else ""
     details = (f'<details><summary>notes</summary>{body}</details>' if body else "")
-    return (f'<article class="card card-{sc}">'
+    return (f'<article id="beat-{e.slug}" class="card card-{sc}">'
             f'<h3>{html.escape(e.title)}</h3>'
             f'<div class="meta">{head}</div>{details}</article>')
 
 
 def build_html(entries, flags_raw, source_name):
     nodes, w, h, baseline, pad_l, plot_w, span = beeswarm(entries)
+    # stable, unique DOM ids so beeswarm dots can target their cards
+    seen_slugs = {}
+    for e in entries:
+        base = slugify(e.title)
+        n = seen_slugs.get(base, 0) + 1
+        seen_slugs[base] = n
+        e.slug = base if n == 1 else f"{base}-{n}"
     ticks = month_ticks(pad_l, plot_w, span)
 
     # beeswarm svg
@@ -386,7 +398,9 @@ def build_html(entries, flags_raw, source_name):
         color = STATUS_COLOR[e.status["cls"]]
         tip = f'{e.title}  ({e.date["display"]}, {e.date["precision"]})'
         svg.append(f'<circle cx="{x:.1f}" cy="{cy:.1f}" r="5" fill="{color}" '
-                   f'class="dot" data-tip="{html.escape(tip, quote=True)}"/>')
+                   f'class="dot" tabindex="0" role="link" '
+                   f'data-target="beat-{e.slug}" '
+                   f'data-tip="{html.escape(tip, quote=True)}"/>')
     svg.append("</svg>")
     swarm = "\n".join(svg)
 
@@ -447,6 +461,13 @@ PAGE = """<!doctype html>
   .swarm .mlabel {{ fill:var(--mut); font-size:11px; text-anchor:middle; }}
   .swarm .dot {{ cursor:pointer; transition:r .08s; }}
   .swarm .dot:hover {{ r:7; stroke:#fff; stroke-width:1.5; }}
+  .swarm .dot.ping {{ animation:ping 1s ease-out; }}
+  @keyframes ping {{ 0% {{ stroke:#fff; stroke-width:6; }} 100% {{ stroke-width:0; }} }}
+  #backtop {{ position:fixed; right:20px; bottom:20px; z-index:20; display:none;
+    background:#5c6bc0; color:#fff; border:none; border-radius:22px; padding:9px 16px;
+    font-size:13px; font-weight:600; cursor:pointer; box-shadow:0 3px 12px rgba(0,0,0,.4); }}
+  #backtop:hover {{ background:#6d7bd0; }}
+  #backtop.show {{ display:block; }}
   #tip {{ position:fixed; pointer-events:none; background:#000; color:#fff; padding:5px 9px;
     border-radius:6px; font-size:12px; max-width:280px; opacity:0; transition:opacity .08s; z-index:9; }}
   .phase h2, .flags h2 {{ font-size:16px; color:var(--mut); text-transform:uppercase;
@@ -457,6 +478,9 @@ PAGE = """<!doctype html>
   .card-arch {{ border-left-color:#5c6bc0; }}  .card-todo {{ border-left-color:#9e9e9e; }}
   .card-event {{ border-left-color:#546e7a; }}  .card-unknown {{ border-left-color:#c0c0c0; }}
   .card h3 {{ margin:0 0 7px; font-size:16px; }}
+  .card {{ scroll-margin-top:16px; }}
+  .card.flash {{ animation:flash 1.2s ease-out; }}
+  @keyframes flash {{ 0% {{ background:#26313f; border-left-color:#9fd3ff; }} 100% {{ background:var(--panel); }} }}
   .meta {{ display:flex; flex-wrap:wrap; gap:6px; align-items:center; }}
   .badge {{ font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; color:#fff; }}
   .badge-done {{ background:#2e7d32; }} .badge-wip {{ background:#f9a825; color:#222; }}
@@ -485,13 +509,16 @@ PAGE = """<!doctype html>
 </header>
 <div class="wrap">
   <div class="legend">{legend}</div>
-  <div class="panel">{swarm}</div>
+  <div class="panel" id="swarmpanel">{swarm}</div>
   {cards}
   {flags_section}
 </div>
 <div id="tip"></div>
+<button id="backtop" aria-label="Back to timeline">&#8593; Timeline</button>
 <script>
   var tip = document.getElementById('tip');
+  var backtop = document.getElementById('backtop');
+  var lastDot = null;
   document.querySelectorAll('.swarm .dot').forEach(function(d){{
     d.addEventListener('mousemove', function(e){{
       tip.textContent = d.getAttribute('data-tip');
@@ -500,6 +527,25 @@ PAGE = """<!doctype html>
       tip.style.opacity = 1;
     }});
     d.addEventListener('mouseleave', function(){{ tip.style.opacity = 0; }});
+    function goToCard(){{
+      var card = document.getElementById(d.getAttribute('data-target'));
+      if (!card) return;
+      tip.style.opacity = 0;
+      var det = card.querySelector('details'); if (det) det.open = true;
+      card.scrollIntoView({{behavior:'smooth', block:'start'}});
+      card.classList.remove('flash'); void card.offsetWidth; card.classList.add('flash');
+      lastDot = d; backtop.classList.add('show');
+    }}
+    d.addEventListener('click', goToCard);
+    d.addEventListener('keydown', function(e){{
+      if (e.key === 'Enter' || e.key === ' ') {{ e.preventDefault(); goToCard(); }}
+    }});
+  }});
+  backtop.addEventListener('click', function(){{
+    var panel = document.getElementById('swarmpanel');
+    panel.scrollIntoView({{behavior:'smooth', block:'start'}});
+    backtop.classList.remove('show');
+    if (lastDot) {{ lastDot.classList.remove('ping'); void lastDot.getBoundingClientRect(); lastDot.classList.add('ping'); }}
   }});
 </script>
 </body></html>"""
