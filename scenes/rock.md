@@ -1,14 +1,20 @@
 # Rock
 
-The herbal tea had gone from too hot to drinkable and was working its way toward forgotten. Vee held the mug anyway, both hands around the heat, Pace's robe folded loose around her and his quilt over both their laps. Beside her he sat in boxers, one bare knee warm against hers under the wool. Behind them, in the den, the fire moved quietly in its grate. Before them, the porch glass held the cold night: the yard gone black, the ridge a darker line, the stars bright and hard above it.
+Behind them the fire worked quietly in the den. In front of them the glass held the whole cold night: the yard gone black, the ridge a darker black laid over it, the stars out hard and close along the top of the line. The porch had no heat of its own. The cold stood on the other side of the glass and leaned in, and the quilt over the two of them and the fire at their backs made the whole of the warmth, and the smallness of it was the point.
 
-They had come out here because the bedroom had become too warm and because neither of them had wanted to put clothes on. Or that was what she had told herself when he had handed her the robe from the back of the bathroom door and lifted the quilt from the couch. Really, she had come because he had said, "Porch?" and the word had sounded like an invitation into a part of the house that only woke after the rest of it had gone quiet.
+She had her feet tucked under his thigh. He had handed her the robe off the back of the closet door and taken the quilt down without being asked, and now they were under it, his boxers and her skin and his robe over her shoulders, and the tea gone cool in the mugs on the low table because they had stopped drinking it in order to keep talking.
 
 The robe smelled like him at the collar. Soap, wood dust that seemed to live in the seams of his house, and underneath it the warm spent smell of his skin. She had tied it badly. The belt was too long for her and doubled back on itself, and one side of the robe had slipped enough that her knee came out when she shifted. He had noticed and said nothing, only pulled the quilt higher over both of them, as if the answer to her almost-bareness was not correction but warmth.
 
+[AI] In the above paragraph, I want Vee's breast slipping out of the robe. Beyond their erotic charge, Pace finds comfort in Vee's breasts. It is only with her comfort that Pace talks about his past here. 
+
 They had been talking for a while. She could not have said how they had started. With Pace a thing she said lightly did not disappear. He picked it up. He turned it over. He gave it back warmer, or stranger, or more exact than she had known it could be, and then the next thing would open from that one, and the next, until a whole conversation had happened without any sense of having been steered.
 
-Tonight it had started with dinner, or with the memory of dinner, because his food had a way of explaining him after it was gone.
+[AI]: They do not eat standing at the counter. Pace would consider that disrespectful to Vee and to the food he cooked. They sit at his little kitchen table, looking at each others face across the food. 
+
+They had been on food. He had cooked, earlier, before the rest of it, and she had eaten standing at his counter with her fingers and made a sound she was a little embarrassed by, and now she was trying to explain the sound.
+
+[AI]: We want to render the food Vee group up on as adequate, affectionate, not enough, fine. The whole reason Vee is so attracted to Pace and Randi is because they are more than fine. We need that distinction here. The food before Pace was the crackers. Pace is the first person who ever fed Vee a meal. Look up the crackers-and-meal analogy. 
 
 "Before you," she said, "I'm not sure I had eaten cumin on purpose."
 
@@ -50,33 +56,35 @@ Her mother had owned a spice rack, technically. It had come as a wedding present
 
 He laughed then, the small quiet laugh he had in the house, the one that did not perform for anyone beyond the two of them. It moved through her more tenderly than she expected. She had not been trying to make him laugh. That was the trouble with him. She could be trying only to tell him a thing, and he would receive it so exactly that the telling itself became a pleasure.
 
+[AI] Render this in Vee's voice rather than narration.
+
 Her parents had grown up in the same city, though not romantically enough to be high-school sweethearts. They had met at church. Her mother became a nurse. Her father worked on jet engines for a major airline and had the mechanic's reverence for things done in the right order. He could hear a problem in an engine as other men heard a bad note in a song, or so he had told her when she was young enough to believe fathers had secret senses issued to them with their children.
 
-Her mother called her Vivienne. Always. The full name was the proper container, and anything smaller would let too much of her spill out. The name came with good posture and clean language and a skirt pulled down before a person sat. Her father called her Vivienne only when she was in trouble. From him, most of the time, she was Vee.
+"My mother still calls me Vivienne."
 
-"And your brother?" Pace asked.
+"Not Vee?"
 
-"Depends what he wants."
+"Never Vee. Vivienne. Proper, ladylike." She pulled her knees up a little under the quilt. "My dad calls me Vee. He only calls me Vivienne when I'm in trouble, so I learned it early. You hear the whole name coming and you already know you did something wrong."
 
-"A useful taxonomy."
+"So the name that means love in one mouth means trouble in the other."
 
-"He mostly wants me to tell Mom he called."
+She looked over at him. He had said it plainly, laid it where she could see it, not reaching. "I never put it that way," she said. "But yes."
 
-Her brother was three years older and in the military now, unmarried, somewhere that seemed to change every time her mother reported it. Nothing was wrong between them. That was almost the whole truth of it. They liked each other. At Thanksgiving they could talk for twenty minutes about tires or whether their father was going to replace the garage door opener this year or only threaten to replace it. He had been leaving the house in stages by the time she was old enough to become a person to him, and by the time she had become one he had already gone.
+"Any siblings?"
 
-"So," she said, turning the mug between her hands, "that's me. Ohio. Casseroles. One brother. Nurse mother. Jet-engine father. Church, Corolla, unopened saffron."
+"One. A brother. Three years up." She thought about how to say it honestly. "He's in the Army. Not married. We're fine. There was never a fight, we just — there's a lot of air between us and neither of us minds it. I couldn't tell you his phone number. I love him. I don't know him very well."
 
-"A complete civilization," he said.
+He nodded, taking it in, and did not tell her that was sad, which she was grateful for, because it was not sad, or it was only the ordinary amount of sad that everything was.
 
-"Terrifyingly complete. Your turn."
+"So," she said, turning the mug between her hands, "that's me. Ohio. Casseroles. One brother. Nurse mother. Jet-engine father. Church, Corolla, unopened saffron." "What about you?"
 
-He did not evade her. That was almost stranger. Pace answered direct questions directly, and now he told her where he had been born, and the town after that, and the house after that, the distances between them as if he were laying out a route on a paper map. His mother stayed home. His father worked at a chemical plant. The facts came clean and dry and left the room empty.
+He was quiet a moment. She had learned that his quiet was not reluctance. It was that he answered the actual question, and it took him a second to find the actual answer.
 
-She had the odd sense that he was answering everything and giving her the outside of it only. Not because he was keeping it from her. Not exactly. More as if the inside were not arranged in a way that made it available to speech.
+"My mother stays home," he said. "My father works in a chemical plant."
 
-"What does your mother call you?" she asked.
+She waited. Nothing else came. It was not withheld. It was only the size of it, flat and factual, next to the warm sprawl of hers, and she felt the difference and it told her something.
 
-His thumb stilled on the side of his mug.
+"What does she call you?" she asked. "Your mother."
 
 "My real name is Peter," he said.
 
@@ -84,29 +92,19 @@ The fire made a sound behind them, one soft collapse of wood into wood. Outside 
 
 He had taken his mother out of the answer. Vee let him.
 
-"Peter," she said, but not aloud. Only inside herself, to see the shape of it. It did not stride into a room. It did not set anything going. It rested, and because it rested it seemed somehow older than him, and younger too, a name a boy might have had before he learned to be impressive.
+"Peter," she said, once, quietly, to feel how it sat in her own mouth.
 
-"Do people know?" she asked.
-
-"Some."
-
-"Randi?"
-
-"Yes."
-
-That should not have mattered. It was a fact, and not even a surprising one. Randi had known him longer. Randi knew many things before Vee did, and usually delivered the knowing with her elbows on a brunch table and her mouth wrapped around a straw. Still, the name felt different from those other things. Vee had not extracted it. He had not displayed it. It had simply appeared because they were here, under this quilt, with the fire behind them and the mountain dark in front of them, and for a second she wished no one else had ever heard it.
-
-She was ashamed of the wish almost before it finished forming.
+She let it be. She moved her foot against his leg under the quilt, and he put his hand on her ankle and left it there, warm, and they were quiet, and the stars stood over the ridge.
 
 "How old are you?" she asked, because the name had made him seem suddenly unmeasured by the usual campus categories, and because this was the kind of question new people were allowed to ask each other after born-where and brother and mother.
 
 "Twenty-two."
 
-She turned under the quilt. "You're not."
+She turned under the quilt to look at him. "You're not."
 
 "I am."
 
-"You're getting a PhD."
+"You're getting a doctorate."
 
 "Yes."
 
@@ -124,7 +122,14 @@ He took a drink of tea, though it must have gone nearly cold. "I took the SAT fo
 
 "That's worse."
 
-His mouth moved. Not quite a smile, because he was too literal not to consider whether she meant it, and too used to her by now not to know that she did not. The expression came and went. "There were scholarships. Conversations. A great deal of adult concern arranged around the idea that the opportunity should not be wasted."
+His mouth moved, not quite a smile, because he was too literal not to first check whether she meant it, and too used to her by now to think she did. "I took the SAT for a summer program when I was fourteen. It became a longer conversation than anyone planned. Scholarships. A great deal of adult concern arranged around the idea that the opportunity shouldn't be wasted." 
+
+
+####
+He gave it in order, one fact after another, plain as directions. "I started college at fifteen."
+
+ It was the best thing that ever happened to me. I don't say that lightly."
+####
 
 "And you wanted to go?"
 
@@ -144,13 +149,15 @@ Fifteen was braces and borrowed cars and being driven places by other people's m
 
 "Less than staying."
 
-He said it so plainly it took her a moment to understand there was anything in it.
+He said it so plainly it took her a moment to understand what it meant.
 
 "I was not a good fit where I was," he said.
 
 The sentence was almost comic in its restraint. She looked at him over the rim of her mug, waiting, and he seemed to decide something, or else the room allowed another fact to rise.
 
-"In seventh grade I taught myself algebra and trigonometry because I wanted to write a graphics program," he said. "My math teacher had me move my desk into the hall every day during math class and do long-division worksheets."
+[AI] I added, "I asked for help." I'm trying to convey that he wanted to learn more and the teacher didn't know how to help him. Because the teacher couldn't answer the questions, they consigned him to long division alone in the hall. I don't want a full explanation but I want the idea that he asked questions the math teacher couldn't answer. 
+
+"In seventh grade I taught myself trigonometry because I wanted to write a graphics program," he said. "I asked for help. My math teacher had me move my desk into the hall every day during math class and do long-division worksheets."
 
 The words reached her one at a time.
 
@@ -158,25 +165,23 @@ The words reached her one at a time.
 
 "The year."
 
-She set the mug down on the low table. Carefully. The carefulness mattered for some reason. Then she shifted closer under the quilt until her shoulder rested against his arm.
+She set the mug down on the low table. Carefully; the carefulness seemed to matter, though she could not have said why. Then she shifted under the quilt until her shoulder came to rest against his arm.
 
-"They took the thing you loved and made it punishment."
+"They took the thing you loved," she said, "and made it the punishment."
 
-He looked down at her then. Not startled. Not exactly. More as if she had put her hand on a place he had not offered her and had, by accident, found the right one.
+He looked down at her. Not startled. More as if she had put her hand on a place he had not offered her and had, by accident, found the right one.
 
 "Yes," he said. "That is approximately what happened."
 
-She wanted to say she was sorry. She did not. Sorry would have required him to accept comfort for a thing he had not asked to open. She pressed her shoulder once against his arm instead, a brief pressure, there and gone.
+She wanted to say she was sorry. She did not. Sorry would have asked him to accept comfort for a thing he had not meant to open. She pressed her shoulder once against his arm instead, there and gone.
 
-"College was better?" she asked.
+She thought he might stay there. He did not. He came back up out of it, and when he spoke again his voice had changed, had opened, and she understood that the hallway was not where the story lived for him. It was only the door you went through to get to the part he wanted to tell her.
 
-His face changed.
+"And then I got to college," he said, "and it was the opposite. Rooms full of people who thought it was beautiful. Who'd stay up arguing about it. That was the first year of my life I wasn't in the hall."
 
-"College was astonishing."
+"Beautiful," she said. "Math."
 
-There it was. Not relief only, not pride, but the opening of something that had been waiting for a room large enough to hold it. He turned a little more toward the glass as he spoke, but he did not leave her. That was the strange thing. His attention widened without abandoning its place. It was like watching someone take a picture from a pocket and hold it out, careful with it because it mattered, not because it was fragile.
-
-"There was a horn you could fill and never paint," he said. "A coastline that got longer the more carefully you measured it. Laws of motion that made a thrown ball and a planet part of the same sentence."
+"You don't believe me."
 
 She had to smile. "I have never thought of it that way."
 
@@ -184,27 +189,29 @@ She had to smile. "I have never thought of it that way."
 
 It was not arrogance in his voice. It was almost grief, and then not grief, because he went on before it could settle into anything so heavy.
 
-"People think mathematics is dry because they meet it after someone has taken the world out of it. Newton's laws are balls bouncing, leaves turning, stars moving. They are what the world is doing, moment by moment. The description is not separate from the beauty. It is one way of seeing the beauty."
+He shifted under the quilt so he was turned a little more toward her, and something in him leaned forward, quiet but lit, and she recognized it as the thing that came into him when he was about to give her something he cared about.
+
+"There's a shape," he said, "you can fill with paint but never paint the outside of. You could pour a cup of paint in and fill it to the brim, exactly this much and no more, a number you could write down. And the surface of it, the outside you'd have to cover with a brush, goes on forever. There isn't enough paint in the world for the outside of a thing you just filled with a cup." He watched her get it. "That's true. It's not a trick. Somebody proved it, and it stays proved."
+
+"That's not possible."
+
+"It's completely possible. It's just not what you expect." He was smiling now, out at the dark. "There's a coastline problem too. Ask how long a coastline is, and the answer is: how carefully are you measuring. Use a shorter ruler and you catch more of the little bays, and it gets longer. Shorter ruler, longer coast. Keep going and it runs off to infinity. A country's edge is as long as you have patience for. The pictures I wanted to make as a kid were made out of that. Edges inside edges, all the way down, forever."
+
+She was watching him more than listening now, though she was listening. "And that's beautiful to you?"
+
+"That's the small stuff." He said it like clearing his throat before the real thing. "Newton wrote down three sentences about how things move. Three. And they're enough for a ball you throw, and for a leaf coming off a tree and turning as it falls, and for the stars going around up there. The same three sentences. The ball and the leaf and the stars are all doing the one thing, and once you can read it you can't unsee that they're the same, that it's all one piece." He looked out at the ridge, at the hard stars over it. "People think it's dry. That's only because they meet it after someone's taken the life out of it. It isn't separate from the world. It's the language the world is written in. Most people walk around inside the poem and never get to read a line of it, and I got to read some."
+
+"I'd never thought of any of it that way," she said. Which was true, and was also not the thing she was feeling, which was larger and had nowhere to go.
 
 The stars stood above the ridge while he spoke. She looked at them because he was looking at them, and for a second they were no longer decoration, no longer pretty points in cold black. They were bodies moving as surely as thrown balls moved, as surely as leaves came down in October. The world shifted very slightly around her, not because she understood the mathematics, but because he did, and he had turned the understanding toward her like light.
 
-"So when people say it is the language of the universe," he said, "they are being imprecise, usually, but not wrong. It is a language. It has grammar. It has compression and elegance and inevitability. It is poetry with the ornament burned off."
+"It sounds a little lonely," she said. "College at fifteen, the hall, and then rooms where nobody else could follow you."
 
-"That sounds lonely," she said.
+He considered it. "It didn't feel lonely. Not in the work. Not in the rooms where people wanted to talk about it."
 
-He looked at her then.
+He said it without self-pity, and that made it worse and better at once. She could picture him at fifteen, too young and not young at all, in a room where no one made him carry his desk into the hall.
 
-"Does it?"
-
-"A little."
-
-"It did not feel lonely there."
-
-"At college."
-
-"In the work. In the rooms where people wanted to talk about it."
-
-He said it without self-pity. That made it worse and better at once. She could picture him at fifteen, too young and not young, sitting in a room where no one made him drag his desk into the hall, where the difficulty got larger because he touched it and no one punished him for wanting more.
+The fire settled behind them. A little of it trembled at the corner of the glass, a second warmth laid faint over the stars.
 
 "And lifting?" she asked. "Where did that come from?"
 
@@ -226,30 +233,24 @@ He accepted that with the small downward movement of his chin that meant he had 
 
 "It became something else," he said. "When I step up to a squat bar with enough weight on it to bend the one-inch steel like dry spaghetti, there can be nothing in my mind but that moment. No future. No past. Only this lift, this heartbeat. And that is freeing."
 
-He had gone plainer as he spoke, the sentences stripped down to the thing itself: bar, weight, breath, heart. She thought of him in the gym, though she had not yet seen him there, and then the thought moved, as thoughts near him had a way of moving, to his hands on her. Nothing in them wandered. Not his eyes, not his breath, not the pressure of his fingers. When he touched her he did not seem to be imagining some other body or some later victory or even himself inside the act. He was there, exact and entire, and she was the thing being read.
+She was quiet. She was putting something together, and it came together in her body before it came together as a thought, low and warm and a little unsteady.
 
-It embarrassed her, being attended to that completely. It made every other kind of attention feel thin.
+"That's how you are with me," she said slowly. "It's the same thing. When we're — you're all the way here. You're not thinking of the clever thing to say next. You're not off somewhere in your own head. I've been with people who were somewhere else the whole time. You're right here. It's the lift. It's the same face."
 
-Her hand had settled on his thigh under the quilt. She did not remember putting it there. His skin was warm under her palm, the muscle quiet now, unbraced. When her fingers shifted, they found the uneven place high near his hip, where the skin changed under them. She had seen it before. Only in pieces, in the low light after sex, a pale dragged line and then the rougher ghost of old damage, too serious to be mistaken for one of the small scars men acquired and forgot.
+He did not answer that with words. His hand moved up from her ankle, under the quilt, and settled flat and warm against her hip where she was bare under the robe, and stayed, not going anywhere, only being there, present in the way she had just named, and she felt the accuracy of it move through her.
 
-"This?" she asked.
+Her own hand had drifted while they talked. It was on his thigh, above the knee, and now it moved without her deciding it, and found, along the outside of his hip, a place where the skin was not like the rest. A seam of it, old, raised and smooth, longer than her hand. Her fingers went along it before she thought about whether to.
 
-His hand came down over hers. He did not move her away.
+"This?" she said.
+
+His hand came over hers. Not fast, not to move it. He laid his hand on top of hers where it was and pressed it gently down against the old seam and held it there.
 
 "Not tonight," he said.
 
-No anger in it. No flinch. Nothing slammed shut. Only his hand over hers, holding the question where it was and not letting it go further.
+He did not take her hand away. He kept it there under his, on the thing he wasn't going to tell her about yet, and the not-tonight had no wall in it, only a door with a time on it that wasn't now. She turned her hand over under his so their palms were together over the scar, and left it, and that was the whole of the asking and the whole of the answer.
 
-So she left her hand there, because he had not taken it from her.
+They stayed like that. The tea had gone fully cold. Past the glass the yard held its black and the ridge held its darker black and the stars did not move that she could see, though he had just told her they were moving, that they were doing the same thing the leaf did, that it was all one piece.
 
-They sat without speaking. The tea cooled. The fire in the den settled lower, and the stars stayed where they were, or seemed to, though now she knew that was only the kind of lie a body could afford because the motion was too large and old to show itself minute by minute. She had the feeling, not quite thought, that the world had been moving like that all along and Pace had been moving through it with some private part of himself tuned to the hidden machinery of it, seeing beauty in what other people had flattened into homework, finding freedom under weight other people would have called only heavy.
+"Peter," she said. Softly. No question in it this time. She was not asking him for anything, and she was not trying it on. She was only saying it, once, into the warm dark, the way you say a word to keep it.
 
-Peter.
-
-The name came back to her then, plain and still under all that motion.
-
-"Peter," she said.
-
-Quietly. With no question in it.
-
-He did not answer at first. His hand stayed over hers under the quilt. In the glass, the ridge held its dark line and the stars held their hard bright places above it. Then his fingers moved, only enough to close around her hand.
+He let it sit. He did not answer it and did not need to. His hand closed around hers over the old scar, slow, and held, and the fire kept its small business behind them, and the cold stayed on its own side of the glass, and neither of them said anything else for a while.
