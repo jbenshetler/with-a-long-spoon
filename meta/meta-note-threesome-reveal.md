@@ -168,7 +168,7 @@ With the betrayal built as it is — load-bearing, foundational — there is no 
 
 ### Vee’s reactions
 
-Shell-shocked and bitter; leaves soon. Reads Pace’s involvement as betrayal — total, unambiguous from inside her experience. **Probably does NOT explain** (or barely). Reasons:
+Shell-shocked and bitter; leaves soon. Reads Pace’s involvement as betrayal — total, unambiguous from inside her experience. **Probably does NOT explain to Pace or Randi** (or barely) — the wordless walk-out is aimed at *them*. (She does, some days later, tell **Cassie** everything — the thesis scene, `meta-arch-vivienne.md` → The Cassie Scene — a different act toward the one relationship built on mutuality, not the emotional labor of managing how Pace reads her.) Reasons she gives Pace and Randi nothing:
 
 - She owes him nothing, not even the dignity of being told why.
 - It’s consistent with who she’s become — she’s finally stopped doing the emotional labor of managing others’ understanding of her (the grace-reflex that was always a vulnerability).

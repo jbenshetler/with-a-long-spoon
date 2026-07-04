@@ -13,7 +13,7 @@ Vee's best friend and roommate, two years running. Pre-nursing (echoes Vee's mot
 
 She is the **Cassandra device**: she sees clearly and is not believed. **Never named, never explained, never commented on by any character — including Cassie herself.** She does not know she is Cassandra. The reader feels the shape from outside.
 
-The **reconciliation with Cassie at the end may matter more than the one with Pace** — she is the only relationship in the novel built on actual mutuality. (She is also the thesis-delivery vehicle at the very end: *the best sex of your life, getting better every week, the most intense friendship of your life — where do I sign up?* — see `meta-arch-vivienne.md`, "The Cassie Scene." She is right within the available frame; Vee is right on hers; the reader holds both.)
+The **reconciliation with Cassie at the end may matter more than the one with Pace** — she is the only relationship in the novel built on actual mutuality. (She is also the thesis-delivery vehicle at the very end: *the best sex of your life, getting better every week, the most intense friendship of your life — where do I sign up?* — see `meta-arch-vivienne.md`, "The Cassie Scene." She is right within the available frame — she has the facts (Vee tells her everything) but not the lived loss, and the cost cannot be known until it is paid; Vee is right on hers; the reader holds both.)
 
 ---
 

@@ -186,13 +186,13 @@ She does not take for her panties. The artifact stays.
 
 *(Unwritten; see `meta-plan-chronology.md` for plan. For Cassie's function throughout, see `meta-arch-bible.md`.)*
 
-After the leaving, Vee breaks down to Cassie. This is the load-bearing thesis-delivery scene.
+After the leaving, Vee breaks down to Cassie — the telling structurally forced (Pace and Randi vanish from her life the same day, and Cassie is owed the why) and structurally earned (the far bookend of Cassie — After, where shame kept her silent; sovereignty now lets her speak). This is the load-bearing thesis-delivery scene. She recounts the facts freely — articulate about *what happened*; only the *cost* stays beyond words.
 
-Cassie speaks the era's grammar in convicted form after hearing Vee out: the best sex of your life, getting better every week, the most intense friendship of your life — *where do I sign up?* The line lands as conviction, not bromide. Cassie is right within the available frame. Almost any reflective woman would sign up.
+Cassie speaks the era's grammar in convicted form after hearing Vee out: the best sex of your life, getting better every week, the most intense friendship of your life — *where do I sign up?* The line lands as conviction, not bromide. Cassie is right within the available frame. Almost any reflective woman would sign up. She has now heard the whole of it, the wreckage included, and would sign up anyway — not because the cost is small but because it cannot be known until it is lived. Her yes measures the cost; it does not dismiss it.
 
-Vee disagrees and cannot fully articulate why. She has the new grammar in her body — the framework the novel has installed — but not yet the words for it. She tries once and stops. The inarticulacy is the scene. The reader has the grammar in their hand. **The gap between Vee's knowing-without-words and the reader's having-the-vocabulary is the precise gift the novel has just given the reader.**
+Vee disagrees and cannot fully articulate why. She has the new grammar in her body — the framework the novel has installed — but not yet the words for it. She tries once and stops. The inarticulacy is the scene. The reader has the grammar in their hand. **The gap between Vee's knowing-without-words and the reader's having-the-vocabulary is the precise gift the novel has just given the reader.** The one thing she *can* say is the label, not the meaning — *I chose the beige life* (the flat ordinary she dreaded at Christmas, now chosen with full sight; [[meta-note-vee-christmas]]), a plain surface over a cost she cannot transmit.
 
-Do not resolve the disagreement. Cassie is right on her terms. Vee is right on hers. Both are correct. The reader holds both.
+Do not resolve the disagreement. Cassie is right on her terms. Vee is right on hers. Both are correct. The reader holds both. The disagreement cannot resolve because the gap is experiential, not informational — lived knowledge does not cross a table in words. The reader, who lived the loss beside Vee, holds her frame; Cassie, who got the summary, holds the other.
 
 Cassie's *I told you so* about Randi can land quietly, earlier in the conversation. Do not let it compete with the thesis-delivery. The big work is the disagreement.
 

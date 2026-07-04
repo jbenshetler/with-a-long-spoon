@@ -204,8 +204,8 @@ Vee brings her mother's Thanksgiving question to Pace — the one she couldn't a
 The conventionally proper man, the fine dinner, the fine sex, the *nothing* it produces. Randi in the bathroom mirror with the outline lipstick still nearly perfect, registering the comparison. The choice enacted by the return to the bed. The chosen-not-to-throttle moment. Rendered from inside her under the containers rule (flag 15): second opening of the mirror aperture, rhyming with the Bench mirror — installation → confirmation. Placed in the break: same week as Vee — Christmas, the two women flat without him in parallel, neither aware of the mirror. Structural hinge: every scrunchie grain lands after this scene — the reader enters the spring holding the nothing and the hate that is at least warm, so what follows reads as a starving apparatus leaking, not malice.
 
 ### [VIGNETTE] Vee — Christmas
-*~late December · Christmas break* · Unwritten · Vee solo
-Listless and flat at home without Pace, without Randi. The absence of both in the same week is information she doesn't fully process. Her mother's world — the questions, the ordinary furniture of home — sits beside her strangely. She is somewhere else without knowing she's left. Same week as the Flat Date: the two women flat in parallel; neither scene marks the other.
+*~late December · Christmas break* · Unwritten · Vee solo · [craft](meta-note-vee-christmas.md)
+Listless and flat at home without Pace, without Randi. The absence of both in the same week is information she doesn't fully process. Her mother's world — the questions, the ordinary furniture of home — sits beside her strangely. She is somewhere else without knowing she's left. Same week as the Flat Date: the two women flat in parallel; neither scene marks the other. **Plants the beige-life thread** (`meta-note-vee-christmas.md`): the flat, safe, unseen home rendered as the concrete cost of a life without Pace, and the book's bargain first *weighed* in her interior — the scale set here (First Weekend Back tips it). Sleepless in her childhood bed, the lavender-and-fabric-softener field inverting His Shirt's scent channel; the Gstaad postcard she envies (reader-hollow — the Flat Date's emptiness). Objects chosen to be recallable; *somewhere else without knowing she's left* is the line the ending inverts when she chooses that life knowingly (the final Cassie scene).
 
 ### [VIGNETTE] Sheri — Cheeseburgers
 *~late December · Christmas break, after the Christmas Fight* · Unwritten · Pace/Sheri
@@ -406,6 +406,10 @@ Vee blindfolded at her own request. Randi withholds the kiss through the entire 
 ### [SCENE] The Ending Sequence
 *Immediately after the Threesome* · Architecture complete, prose not drafted · `meta-note-threesome-reveal.md` · [detail](meta-condensed-ending-sequence.md)
 Vee leaves with full knowledge, full anger, full ownership. Pace reads the wrong betrayal. Randi hollow, known at last, unable to feel her loss to its floor. The panties stay in his house — not a promise, an artifact.
+
+### [SCENE] The Cassie Scene — Thesis Delivery
+*Some days after · the novel's final scene* · Architecture complete, prose not drafted · Vee POV · Cassandra track · [detail](meta-arch-vivienne.md)
+Vee tells Cassie everything — the telling forced by Pace and Randi vanishing the same day, made possible by the sovereignty Cassie — After lacked. Articulate about *what happened*, inarticulate about the *cost*; the one thing she can name is the label — *I chose the beige life* (the flat ordinary she dreaded at Christmas, now chosen with full sight; the beige-life thread closes). Cassie, having heard the whole wreckage, would sign up anyway — *where do I sign up?* — because the cost cannot be known until it is lived. The disagreement is experiential, not informational, and does not resolve: Vee no-with-data, Cassie yes-without-the-lived-loss; the reader, who lived it, holds Vee's frame. Full design: `meta-arch-vivienne.md` → The Cassie Scene. See [[meta-thesis]] (Rule 12; the three futures) and [[meta-note-vee-christmas]].
 
 ---
 
