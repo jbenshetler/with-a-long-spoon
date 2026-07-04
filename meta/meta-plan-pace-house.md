@@ -67,9 +67,11 @@ Front door (left unlocked for the expected guest; Randi bolts it behind her). A
 **chair by the door** where she drops her overnight bag.
 
 ### Kitchen `[PAGE]` + `[PLAN]`
-`[PAGE]` Granite-topped **counter** with **stool(s)**; **kettle**/burner; two mugs;
-the **green tea** she likes, kept on hand. `[PLAN]` A few good knives, a couple good
-pans (**not the 12-piece set**); a small bench of guest wines. He cooks here.
+`[PAGE]` **Formica**-topped **counter** (older, not shiny, still good to work on) with
+**stool(s)**; **kettle**/burner; two mugs; the **green tea** she likes, kept on hand;
+a small **table** where meals happen (he sits people down to eat, never feeds them
+standing at the counter). `[PLAN]` A few good knives, a couple good pans (**not the
+12-piece set**); a small bench of guest wines. He cooks here.
 
 ### Dining room `[PLAN]`
 Off the **kitchen** (distinct from the kitchen's own built table); beyond it, the way out
@@ -124,10 +126,12 @@ owns its meaning ("where he lets his own mind sprawl"). Not yet drafted/placed.
 most of the house's furnishings came from here. Reached past the **kitchen / dining**,
 out through the **garage** (not yet drafted).
 
-### Den `[PAGE]`
+### Den `[PAGE]` + `[PLAN]`
 **Forward** off the foyer; the room you cross to reach the sun porch. **One long wall of
-books** (the library wall). Where Pace waits during the Dress Pickup try-on
-(`scenes/dress-pickup.md`).
+books** (the library wall). `[PLAN]` A working **fireplace** on the den side of the
+porch threshold; on cold porch nights it can throw heat and firelight from behind them
+without moving the scene out of the glass room. Where Pace waits during the Dress Pickup
+try-on (`scenes/dress-pickup.md`).
 
 ### Sun porch `[PAGE]`
 Through an archway at the far end of the den — an **enclosed porch at the back, mostly

@@ -1,9 +1,11 @@
 # Condensed — Rock
 
-*Compaction of the planned scene; surface only — the unrendered craft/subtext lives in `meta-note-rock.md`. ~late October, a weeknight stay; post-sex, the porch couch after dark. Vee POV. The first time the name "Peter" reaches the page.*
+*Draft complete (`scenes/rock.md`) · ~late October, a weeknight stay; post-sex, the porch couch after dark. Vee POV. The first time the name "Peter" reaches the page.*
 
-- **Setting.** Under his quilt on the porch couch after sex, the yard and the mountains dark through the wall of glass, stars over the ridgeline. The porch is the calm-truth room (it does this twice in the book — here with his truth, in December with hers); the structural opposite of the SATC restaurants, where truth is *extracted.*
-- **The "who are you" talk.** The ordinary new-couple inventory — born where, how many siblings — rendered only enough to let the name surface in its flow. Not dug for; it just comes out because he's calm here.
+- **Setting.** A cold night on the enclosed porch after sex: Vee in Pace's robe, Pace in boxers, both under his quilt on the porch couch. Herbal tea, not coffee; firelight/heat from the den fireplace behind them; the yard and the mountains dark through the wall of glass, stars over the ridgeline. The porch is the calm-truth room (it does this twice in the book — here with his truth, in December with hers); the structural opposite of the SATC restaurants, where truth is *extracted.*
+- **The robe, uncovered.** It falls open, she doesn't mind; Pace rests a hand on her bare breast — comfort more than heat — and pulls the quilt up. Her ease is the physical twin of the porch-calm; his comfort in her body is part of what opens him.
+- **The "who are you" talk.** The ordinary new-couple inventory — food/home, born where, how many siblings, what parents called them, how he got to college at fifteen — rendered only enough to let the name surface in its flow. Not dug for; it just comes out because he's calm here.
+- **Food, the seed.** Her Ohio childhood food was made with love and plentiful but never enough; she tells Pace so as praise of his cooking that is really praise of him (*"…the thing you wanted. Then you cooked for me."*). The crackers-and-meal figure stays for December's Porch Scene — this is only its lighter first seed.
 - **Peter surfaces.** His real name lands in the talk — *Peter* — received, not confessed. He gives it with a faint **set-aside**: someone he put down, not someone he guards. The self under it stays withheld (never explained).
 - **She's allowed it here.** She tries the name softly; he lets it sit. *Peter* becomes the name permitted in the calm of the porch — which is exactly what won't travel to the cold step at First Weekend Back.
 - **Register.** Low heat, tender; the warm courtship phase, before the kink staircase ramps. No unresolved cloud yet (that's December's porch) — this one is clean intimacy.
