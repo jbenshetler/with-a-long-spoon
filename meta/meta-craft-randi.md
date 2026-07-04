@@ -99,7 +99,7 @@ Petite (5'2"), built to the "proper" scale she maintains and grades other women 
 
 *On campus, when she is not performing* — Wednesday afternoon, chapter dinner, athleisure hours — she presents in social camouflage: Greek pastel quarter-zip, leggings, box-fresh trainers. The ponytail is constant; the costume varies by venue. The camouflage is still controlled, still correct, still exactly what the occasion calls for. The Art Deco grammar runs underneath it whether or not the full register is deployed.
 
-**The flat-date lipstick** (*"the outline lipstick still nearly perfect"*) is this grammar at the moment of its failure: the precision intact on the surface, nothing inside it. The face is doing its job. The job has stopped meaning anything.
+**The flat-date mirror** is this grammar at the moment of its failure: the eyeliner holds because nothing reached her eyes, and she rebuilds the rest of the face exact, and there is no one behind it. The precision intact on the surface, nothing inside it. The face is doing its job. The job has stopped meaning anything.
 
 ---
 
