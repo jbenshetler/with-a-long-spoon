@@ -154,9 +154,9 @@ The choice is not stated to herself in words. The choice is enacted by the retur
 
 ## The Closing Image
 
-Leave her ambulant. Not destroyed. Not redeemed. Walking. Carrying the hate. Carrying the knowledge of what real is. Walking into a seeking she has already chosen. The last beat of her presence in the novel should be motion into a future she has already started — not stepping into it from a stable present.
+Leave her ambulant. Not destroyed. Not redeemed. Walking. Carrying the knowledge of what real is, and the hate that has nowhere to discharge. Walking into a seeking she has already chosen. The last beat of her presence in the novel should be motion into a future she has already started — not stepping into it from a stable present.
 
-**The hate is the keeper.** Do not let her spend it. Do not let her articulate it to Pace, to Vee, to anyone. The unspent hate is the only thing she will carry forward that she made herself.
+**The keeper is the knowledge of what real is, and the seeking it condemns her to.** The hate persists to the end, but it is not what sustains her: it is unspent because it has nowhere to discharge. Do not let her spend it, do not let her articulate it to Pace, to Vee, to anyone, and do not let it carry the ending. What she walks forward on is the knowing.
 
 ---
 

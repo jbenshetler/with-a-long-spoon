@@ -105,7 +105,7 @@ Randi hates Pace for making her into a person who needs. He undid her at the lev
 
 **The hate is therefore structurally orphaned.** Pace is too good, by every metric her world recognizes, to be a legible target of hatred. Her own apparatus's evaluation was correct; she cannot blame herself either. No protocol was violated by anyone. The wound was produced by two carefully-built apparatuses in a register where neither's protocols extended. She cannot articulate it to any standard the world or even she would accept. No one will accept her testimony if she gives it.
 
-The hate survives the end of the novel intact. It is the most cultivated thing in her by the close — held against a man whose excellence produced her need to hate him, for a year, in private, in a world that will not accept her account. She will carry it forward. It will not be spent.
+The hate persists to the end — unspent because it has nowhere to discharge, private because no one would accept the account, held against a man whose excellence produced her need to hate him. But it is a charge she cannot resolve, not what sustains her. What she carries forward is in *The Future* below: the knowledge of what real is, and the seeking it condemns her to.
 
 ---
 
@@ -196,6 +196,8 @@ The gift and the wound are delivered by the same person in the same act. She lov
 
 The desire and the friendship are not rivals. The friendship is the medium the desire runs through; the aliveness Vee gives her is exactly what makes the wanting acute. The love deepens the desire — never blunts it, never merely cloaks it. And she pays for the friendship: befriending Vee costs her in the position-world she comes from, and she chooses to pay it.
 
+One thread of that cost is still to be developed: acting on the attraction *openly* would register, in the sorority, as a liability to her standing — an external status price, never interior shame (her desire is constitutional; see 🔒 THE NEED ENGINE). Dramatize via Brooke and the Social Price vignettes, not the Flat Date. *(To refine.)*
+
 ---
 
 ## The Flat Date — The Chosen-Not-to-Throttle Moment
@@ -204,15 +206,17 @@ The desire and the friendship are not rivals. The friendship is the medium the d
 
 A SATC lunch where Vee glows about Pace. She leaves the SATC frame. She picks a man — handsome, kind, socially appropriate, conventionally perfect. Dinner is fine. Conversation is fine. The sex is a performance she could do in her sleep. She is operating the equipment.
 
-The bathroom mirror is where the management fails. The outline lipstick is still nearly perfect; the face is exquisite and there is no one inside it. *She has known this for a while.* What she has not known until this moment is that she has the comparison now. The man in the other room is unreal in exactly the way the SATC lunches are real, and she can register the difference. The data is the *nothing.* No spike. No broken stride. No involuntary anything. Not Pace alone, not Vee alone — *both.* Without both flames burning her she feels nothing at all.
+The bathroom mirror is where the management fails. The sex was genuinely good, and her body shows it — foundation smeared, hair loosened, the lipstick worn off and left on him where her mouth had been. The one thing intact is the eyeliner: nothing reached her eyes. (The tell inverts the Bench mirror — there the seeing wet them; here nothing did.) She rebuilds the face and it comes back exact, and there is no one behind it. *She has known that for a while.* What she has not known until this moment is that she has the comparison now. The man in the other room is unreal in exactly the way the SATC lunches are real, and she can register the difference. The data is the *nothing.* No spike. No broken stride. No involuntary anything. Not Pace alone, not Vee alone — *both.* Without both flames burning her she feels nothing at all.
+
+**Why the acceptable man produces nothing (defers to 🔒 THE NEED ENGINE):** the scene renders the *nothing* as a ledger — she put nothing on the table and won exactly that — but this is the being-seen fork made concrete, not a new mechanism. Pace reaches her because he *sees* her, and for Randi the aliveness and the intolerability are the *same event*: Vee metabolizes being-seen into arousal, Randi cannot, so it surfaces and has nowhere to go — alive and unbearable at once, never resolved into pleasure. Vee reaches her as aliveness she operates on and participates in; the stake there is *loss,* not exposure. The acceptable man is neither seen-by nor operable-on — no exposure, no living appetite to work — so there is nothing to register. Safe is the same fact as dead. Keep the risk/return ledger at the level of Randi's own rendering; do not smooth Pace's exposure into something merely pleasurable, and do not import Vee's metabolizing onto Randi — for Randi being-seen is the thing that reaches her *and* the thing she cannot bear.
 
 She has the choice more legibly here than at any other point in the novel. She could stop. The alternative is right there, warm and bewildered and on paper perfect. She has only to walk back to him with intent.
 
-She does not. She fixes a piece of her hair. She turns off the light and goes back to the bed and lies down beside the man and falls asleep, eventually, with her back to him, and the only thing in her chest is the hate, which is at least warm, which is at least *something she made herself.*
+She does not. She fixes her hair, turns off the light, and goes back to the bed and lies down against him. The other door is foreclosed too: telling Vee plainly is a confession she cannot picture Vee's face receiving, and even the kind outcome — Vee is too kind to cut her loose — costs the friendship's texture, the one warm hour of her week gone careful. So she keeps the want unsaid and takes the route that never requires it: the plan is how she has Vee without ever saying the word. She lies in a warmth she can borrow and cannot make, and stays.
 
 **The choice is not stated in words. The choice is enacted by the return.** The reader should feel it as a body-decision visible at the level of behavior — the way she fixes the hair, turns off the light, walks back to the bed without breaking stride.
 
-**POV (containers rule):** Rendered in Randi's POV — the second opening of the mirror aperture (Bench mirror → Flat Date mirror; installation → confirmation). No other camera exists: the proper man is a one-scene character, and the content is untellable to Vee — confessing the nothing confesses the comparison, which confesses the lunches are the real thing. Full rule in the Bible; chronology flag 15. Structural hinge: every scrunchie grain lands after this scene, so the reader enters the spring holding the nothing and the hate that is at least warm.
+**POV (containers rule):** Rendered in Randi's POV — the second opening of the mirror aperture (Bench mirror → Flat Date mirror; installation → confirmation). No other camera exists: the proper man is a one-scene character, and the content is untellable to Vee — confessing the nothing confesses the comparison, which confesses the lunches are the real thing. Full rule in the Bible; chronology flag 15. Structural hinge: every scrunchie grain lands after this scene, so the reader enters the spring holding the nothing, and the choice already made.
 
 ---
 

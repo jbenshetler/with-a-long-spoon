@@ -10,7 +10,7 @@ Placed in the break: same week as Vee — Christmas, the two women flat without 
 
 ## Content
 
-The conventionally proper man, the fine dinner, the fine sex, the *nothing* it produces. Randi in the bathroom mirror with the outline lipstick still nearly perfect, registering that she now has the comparison — the face is exquisite and there is no one inside it. The data is the nothing: no spike, no broken stride, no involuntary anything. Not Pace alone, not Vee alone — *both*; without both flames burning her she feels nothing at all. The choice enacted by the return to the bed: she fixes a piece of her hair, turns off the light, walks back without breaking stride, and the only thing in her chest is the hate, which is at least warm, which is at least something she made herself.
+The conventionally proper man, the fine dinner, the fine sex, the *nothing* it produces. Randi at the bathroom mirror: the sex was genuinely good and her body shows it — foundation smeared, lipstick worn off and left on him — but the eyeliner held, because nothing reached her eyes (the tell inverts the Bench mirror: there the seeing wet them; here nothing did). She rebuilds the face exact and there is no one behind it, and she now has the comparison. The data is the nothing: no spike, no broken stride, no involuntary anything. Not Pace alone, not Vee alone — *both*; without both flames burning her she feels nothing at all. The choice enacted by the return to the bed: she fixes a piece of her hair, turns off the light, walks back and lies down against him. Telling Vee plainly is foreclosed too — a confession she cannot picture Vee's face receiving, and even the kind outcome costs the friendship's texture — so she keeps the want unsaid and takes the route that never requires it: the plan is how she has Vee without saying the word. Warmth she can borrow and cannot make.
 
 ## POV (containers rule)
 
@@ -18,4 +18,4 @@ No other camera exists for this scene — the proper man is a one-scene characte
 
 ## Function
 
-This is where the reader's sympathy for Randi is banked, ahead of the spring. **Every scrunchie grain lands after this scene** — the reader enters the gaslight holding the nothing and the hate that is at least warm, so the spring cruelties read as a starving apparatus leaking, not malice. Thesis-level: the empirical confirmation that the configuration has no substitute; her yes-with-data bargain position is chosen here, in her body, before the catastrophe.
+This is where the reader's sympathy for Randi is banked, ahead of the spring. **Every scrunchie grain lands after this scene** — the reader enters the gaslight holding the nothing and the choice already made, so the spring cruelties read as a starving apparatus leaking, not malice. Thesis-level: the empirical confirmation that the configuration has no substitute; her yes-with-data bargain position is chosen here, in her body, before the catastrophe.
