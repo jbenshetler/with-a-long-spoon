@@ -30,6 +30,26 @@ She shook it. Her hand disappeared into his glove. By the time they reached the 
 
 The chair came around behind them. He put a hand under her elbow to steady her onto it. She did not need it. She took it anyway.
 
+The chair lifted them off the ramp and swung out over the slope, and the ground dropped away under their skis. Below, the town got smaller, the roofs and the church and the slow cars, and then the trees closed under them and it was gone.
+
+Past the treeline the cold came up under the chair and through her jacket and settled against the small of her back. She pulled the bar down. Their skis hung below them, his longer than hers.
+
+She tried to keep looking straight ahead. After a moment she looked over anyway, and found him looking back, not so much staring as assessing. From anyone else she would have minded. She did not.
+
+He was finishing law school in New Haven, he said, and kept a place in the city. It sounded like a good life. She was from central Florida, and did not mention it.
+
+Near the top he raised the bar. They put their ski tips down on the snow and let the chair push them up out of the seat and away.
+
+They slid to a stop past the top of the lift, where the pistes forked. He pointed a pole at the red dropping in off the ridge. "Shall we ski red?"
+
+"I've skied blacks since high school." She pulled her goggles down. "Try not to fall behind."
+
+He looked at the black falling away off the far shoulder, and shrugged, and let her lead.
+
+The black started steep and stayed steep. The snow up top was scoured hard and rang under her edges, and she took it fast, because she took everything fast, her thighs burning by the third turn, her cheeks going numb above her collar while she sweated under the shell. She was good. She had always been good.
+
+He was better. She knew it inside the first pitch, and not because he got ahead of her. He stayed off her shoulder the whole way down, a length back and a little to the side, matching her turn for turn. The difference was in how he did it. She worked the run, edging hard, setting each turn and fighting for the next; he skied it quiet, with no wasted motion, and made the same pitch look like less than it was. She had told him not to fall behind. There had been no danger of it. He could have left her behind whenever he wanted, and didn't. That was what she couldn't get past — that he had the run to spare and spent none of it proving it.
+
 Afterward she stayed against him. He was warm and heavy and already going under, and she pressed the length of herself to the length of him and went still, waiting to see what the holding would develop into. She waited a while. His breathing lengthened and slowed and became sleep. Nothing developed.
 
 It had been good. She could not have said otherwise; her body was still loose with how good, still humming in the ordinary places. And it had meant no more than a good sandwich eaten fast on a busy afternoon: the pleasure real, complete, and gone before the plate was cleared, nothing left behind it to keep. She lay there and tried to make it be more than that, and failed.
