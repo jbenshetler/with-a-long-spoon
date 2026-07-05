@@ -14,6 +14,22 @@ Randi delicately clomped through the snow toward the lift queue, feeling vaguely
 
 Despite herself, Randi laughed delightedly.
 
+The line shuffled them forward a boot-length at a time.
+
+"What's your name, my dear wife?" he asked.
+
+"Randi."
+
+"Really?"
+
+"Don't you start."
+
+"I wouldn't dream of it." He held out his hand. "John."
+
+She shook it. Her hand disappeared into his glove. By the time they reached the front they had three children, all sent off to ski camp for the day; he gave the number and she gave them their names, and neither of them missed a beat.
+
+The chair came around behind them. He put a hand under her elbow to steady her onto it. She did not need it. She took it anyway.
+
 Afterward she stayed against him. He was warm and heavy and already going under, and she pressed the length of herself to the length of him and went still, waiting to see what the holding would develop into. She waited a while. His breathing lengthened and slowed and became sleep. Nothing developed.
 
 It had been good. She could not have said otherwise; her body was still loose with how good, still humming in the ordinary places. And it had meant no more than a good sandwich eaten fast on a busy afternoon: the pleasure real, complete, and gone before the plate was cleared, nothing left behind it to keep. She lay there and tried to make it be more than that, and failed.
