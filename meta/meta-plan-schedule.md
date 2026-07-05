@@ -66,11 +66,11 @@ Each entry carries one **texture line** that records season + academic moment + 
 
 This block lives at the top of `meta-plan-chronology.md`, replacing the current single-line anchor.
 
-> **Calendar anchors** — *the only place hard dates live. All scene placement is relative to these. Revise here once; do not re-stamp individual scenes.*
+> **Calendar anchors** — *the only place hard dates live. All scene placement is relative to these. Revise here once; do not re-stamp individual scenes.* **Pinned internally to 2026–27 (hidden-year device — never on the page); dates below are the real 2026–27 calendar.**
 >
-> **Fall semester** — classes begin ~Mon Aug 28. Week 1 = Aug 28. Midterms ~mid-Oct (weeks 7–8). Thanksgiving break ~Wed Nov 22–Sun Nov 26. Reading period / finals early Dec. Last final ~Fri Dec 15.
-> **Winter break** — ~Fri Dec 15 – Sun Jan 14. (Town empties; campus dead. Load-bearing for the flat date — the emptiness is the content, not the date.)
-> **Spring semester** — classes begin ~Mon Jan 15. Spring break ~early-mid March. Midterms ~late Feb. Reading period / finals late Apr–early May. Commencement ~Sat May 11.
+> **Fall semester (2026)** — classes begin ~Mon Aug 31. Week 1 = Aug 31. Midterms ~mid-Oct (weeks 7–8). Thanksgiving break ~Wed Nov 25–Sun Nov 29 (Thanksgiving Thu Nov 26). Reading period / finals ~Mon Dec 14–Fri Dec 18.
+> **Winter break** — ~Sat Dec 19 – Sun Jan 17. (Town empties; campus dead. Load-bearing for the flat date — the emptiness is the content, not the date.)
+> **Spring semester (2027)** — classes begin ~Mon Jan 18. Spring break ~mid March. Midterms ~late Feb. Reading period / finals late Apr–early May. Commencement ~Sat May 15.
 > **Summer** — *(TO BE SPECIFIED — see §6).* Candidate shape: Summer Session I ~mid-May–late June; Session II ~early July–mid-Aug; the long unstructured stretch is the texture, not the course schedule. Town half-empty, hot, slow; the academic-pressure layer goes silent.
 >
 > **Seasonal weather (Blacksburg / Virginia Tech, SW Virginia, ~2,000 ft elevation — cooler and later-turning than lowland Virginia):**
@@ -83,7 +83,7 @@ This block lives at the top of `meta-plan-chronology.md`, replacing the current 
 > - *Apr–early May:* green returns, dogwoods, warm by commencement.
 > - *Summer:* hot, humid, afternoon thunderstorms; green and heavy.
 
-**Year specificity:** if the prose ever names a year or a dated real campus event, pin the anchors to an actual VT academic calendar for that year (look it up). If the year stays unspecified, the `~` estimates stand. Blacksburg's elevation is the detail most likely to be gotten wrong by defaulting to generic "Virginia" — keep the turn late and the cold real.
+**Year specificity:** the year is now pinned internally to **fall 2026 / spring 2027** (hidden-year device — see the anchor block and `meta-arch-bible.md`), so the anchors above are the real 2026–27 VT-style calendar. The year is **never surfaced to the reader**; only the day-of-week and season it produces are load-bearing. If the prose ever names a year or a dated real campus event, keep it consistent with this pin. Blacksburg's elevation is the detail most likely to be gotten wrong by defaulting to generic "Virginia" — keep the turn late and the cold real.
 
 ---
 

@@ -12,6 +12,8 @@ Also supplements `summary.md` (full physical/wardrobe/food detail), `scene-plan-
 
 Read all together. Where this document and the four-document core differ, **the four-document core is canonical;** this bible's job is rapid scene-level reference to phrasings, behavioral signatures, and material-world detail. This bible has been updated to reflect the v6/v7 architectural pass; the previous version of this bible carried somewhat earlier framings, and where they conflict with the v6/v7 material, the new material governs.
 
+**Hidden-year anchor (authoring device — never on the page).** The novel's fall semester is pinned internally to **2026**, spring to **2027**. This is a calendar tool only: it fixes the day-of-week ↔ date mapping so weekends, weeknights, and "stats day (MWF)" fall on real weekdays, and it quietly lengthens Randi's window of PPP-money enjoyment. The year is **never named or implied to the reader** — only the *day of week* and *time of year* it produces are load-bearing, never the specific dates. All hard dates live in `meta-plan-chronology.md`'s calendar-anchor block, computed against the real 2026–27 calendar (Nov 1 2026 = Sun; Thanksgiving = Thu Nov 26; finals = Mon Dec 14–Fri Dec 18).
+
 -----
 
 ## THE CORE ENGINE (read first)
