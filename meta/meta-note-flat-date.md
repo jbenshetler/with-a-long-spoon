@@ -10,7 +10,9 @@ Three **bodies-in-sync** beats — ski, dance, sex — each genuinely good, each
 
 ## Beats
 
-1. **Breakfast with her father.** The chalet: stone columns, raw timber, walls of glass, brilliantly lit. Wordless — the sense of it. Randi's bright face on, at rest, with family: the shell in its native habitat, the brilliant light against her interior cold. *Father warm-enough, not sinister — the gilded world doesn't reach her; he isn't a villain.*
+1. **Breakfast with her parents.** The chalet: stone columns, rough beam, a wall of beveled glass lit diffuse from the sky and hard off the snow. Not wordless ease but a **performance** — the first in a day of performances, all the way to the mirror. Randi plays the adored daughter (sorority practice) while eating her revulsion for her father, whose warm proud-father *surface* is genuine and whose conduct she privately reviles (the PPP/worker-cuts of Outlier; this scene is after it). Cold ascetic mother — black coffee, egg-white omelette, a perfunctory kiss; Randi's own order rhymes with hers, the disciplined body. Father backlit, hearty, transactional: asks after the sorority, the hearts broken, and tells her to watch the mountain for an eligible bachelor (unwinked irony, hours before she meets one).
+   - **Fabrication-origin (new canon).** Asked about boys, she supplies invented ones; the invented were always safer than the real, at this table. This is the childhood root of the SATC boy-stories and of the defensive shell. Keep it **performance/safety, not interior shame** (desire constitutional, concealment external — see `meta-arch-randi.md`).
+   - **New canon recorded here:** the parents as characters; the father's Outlier conduct sits *before* this scene; the fabrication-origin above.
 
 2. **The lift line.** Father's not skiing today. The man excuses himself into the line beside her — smooth, confident, a little forward.
 
