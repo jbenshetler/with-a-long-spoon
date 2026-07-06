@@ -28,9 +28,9 @@ She did the math without deciding to. Six hours ahead — going on six in the mo
 
 It lit the ceiling near midnight.
 
-*you ANGEL 😇 it's honestly a fairytale out here — dad's got us in this insane chalet, mountains for days, i'm never coming home. miss your face most though 💋*
+*you ANGEL 😇 it's honestly a fairytale out here — dad's got us in this insane chalet, mountains for days, i'm never coming home. miss your face most though, gorgeous 💋*
 
-So she was fine. Better than fine — a fairy tale, a chalet, mountains for days, while Vee lay here. She read it twice and was glad and felt the twelve hours it had taken sit inside the words like the distance they were, six time zones and a mountain range, Randi asleep now in all that gold. She'd reached across it and touched the glass and it had come back warm and left her nothing to hold. Both of them dark the same night, then — the one who would not reach and the one she could not reach — both of them in the small lit rectangle in her hand, and neither of them here.
+So she was fine. Better than fine — a fairy tale, a chalet, mountains for days, while Vee lay here. She read it twice and was glad and felt the distance sit inside the words, six time zones and a mountain range, the new year long begun over there and hers with minutes yet to run, Randi up somewhere in all that gold. She'd reached across it and touched the glass and it had come back warm and left her nothing to hold. Both of them dark the same night, then — the one who would not reach and the one she could not reach — both of them in the small lit rectangle in her hand, and neither of them here.
 
 And into the space the phone left came the thing she'd held off all day. She did not know what she was to him. She did not know, lying here, whether they were still anything at all. She went back through the last night — the fight, if it was a fight, her mother's question in her own mouth by then, *what am I to you,* and his answer warm and level and wrong, and then the quiet that neither of them broke, no answer and no coming-after, and nothing since, not a word across the whole break. Maybe it was over. Maybe he thought it was and she didn't. Maybe he thought nothing had happened at all. She turned it over and it would not come out even.
 

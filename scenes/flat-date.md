@@ -50,6 +50,18 @@ The black started steep and stayed steep. The snow up top was scoured hard and r
 
 He was better. She knew it inside the first pitch, and not because he got ahead of her. He stayed off her shoulder the whole way down, a length back and a little to the side, matching her turn for turn. The difference was in how he did it. She worked the run, edging hard, setting each turn and fighting for the next; he skied it quiet, with no wasted motion, and made the same pitch look like less than it was. She had told him not to fall behind. There had been no danger of it. He could have left her behind whenever he wanted, and didn't. That was what she couldn't get past — that he had the run to spare and spent none of it proving it.
 
+She planted her poles and looked back at him. "Well. You really applied yourself out there."
+
+His smile brightened into a chuckle. A beat. "Want to go again?"
+
+They went again, and again after that. The morning ran on the one rhythm: the slow ride up, the fast run down, the lift-line and the chair and the drop and the snow. On the chair they talked, and when they ran out of things to say the quiet was easy. The talk turned from where-are-you-from to something with an edge on it, and she caught him looking at her more than once, and did not look away, and let him catch her looking back.
+
+They traded the lead. She took the hard lines and he stayed with her; he found the fast ones and she stayed with him. By late morning her legs were shot, her base layer soaked through, and she was grinning without deciding to.
+
+"You can buy me a glass of champagne," she said. "Before I fall down."
+
+They skied down to a hütte on a shelf halfway down the mountain. It was stone and blackened timber, a thread of smoke standing straight up from the chimney into the still air, and people sat out on the terrace with their boots unbuckled and their faces to the sun, glasses in hand, somebody laughing. They stepped out of their skis, stood them in the rack, and went in.
+
 Afterward she stayed against him. He was warm and heavy and already going under, and she pressed the length of herself to the length of him and went still, waiting to see what the holding would develop into. She waited a while. His breathing lengthened and slowed and became sleep. Nothing developed.
 
 It had been good. She could not have said otherwise; her body was still loose with how good, still humming in the ordinary places. And it had meant no more than a good sandwich eaten fast on a busy afternoon: the pleasure real, complete, and gone before the plate was cleared, nothing left behind it to keep. She lay there and tried to make it be more than that, and failed.
@@ -64,6 +76,8 @@ She began to put the face back on, and it came back as it always did, even, exac
 
 This man had taken a beautiful woman to bed, brought her pleasure, but never found her underneath. He was safe. She had put nothing on the table and had won exactly that.
 
+And he was not just any safe. He was the whole safe life, the one she'd been pointed at since she was a girl. Her mother would put him at the good end of the table; the house would clock him the moment she came in on his arm. On the mountain they had played at it, the wedding, the children packed off to a ski camp that didn't exist, and she had laughed, and the joke had sat that close to a life she could actually have, whole and approved and waiting on her yes. She had lain down in the middle of all of it and felt nothing. There was no flaw in him to point to. The flaw, if that was the word for it, was hers, carried into the room the same as the cold.
+
 Pace on his worst night reached further than this man had managed at his best. She wished it wasn't true.
 
 Pace went straight to her. That was the whole terror of him, that he found the person she kept hidden and did not look away — and he would never once belong in the life she had built to keep her hidden.
@@ -73,5 +87,9 @@ And Vee. Something came off Vee across a table on a nothing Tuesday that this ro
 She could tell her. The thought sat where it always sat, and she took it out and turned it over. She could say it plainly, over eggs, the way Vee said every plain true thing. What she could not do was picture Vee's face while she said it. That was the one scenario she could not run to the end, and she had always been able to run a scenario to the end. The rest she could run. Vee would not cut her loose; Vee was too kind for that, would be gentle, would try, would find something soft to say. But they would not be this again. The talk that ran hot and easy between them would learn to watch itself. She would be trading the most important hour of her week for the terrified hope that Vee might feel it too.
 
 So she would not tell her. There was the other way, the one that never asked Randi to say the word and never made Vee decide what to do with it. Let the thing keep the shape it was already taking. Let Vee arrive at it on her own. Keep the brunches exactly as they were. She could have the aliveness and keep the friendship both, as long as she never once said it out loud.
+
+Her phone lit on the nightstand. Vee, from Ohio, where the year had minutes left. *thinking about you 💛 hope it's beautiful out there. i'm here if you want to talk. or not.*
+
+She could see the room it came from, the warm kitchen, the parents who loved Vee out loud. Vee would be seeing her the other way, up here in all the gold, living the fairytale. So Randi gave her the fairytale. *you ANGEL 😇 it's honestly a fairytale out here — dad's got us in this insane chalet, mountains for days, i'm never coming home.* Every word of it true. None of it the thing. She added the one line she meant, *miss your face most though, gorgeous 💋*, and sent it, and turned the phone face down.
 
 The perfect nothing asleep behind her asked for none of that and gave none of it back. She fixed the last of her hair, turned off the light, and went back to the bed and lay down against him again, in the warmth she could borrow and could not make, and stayed.

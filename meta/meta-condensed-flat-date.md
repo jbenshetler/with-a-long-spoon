@@ -1,12 +1,12 @@
 # Condensed — The Flat Date
 
-*SCENE · Unwritten · ~during Christmas break, exact date TBD · **Randi's POV — mirror aperture, load-bearing***
+*SCENE · Unwritten · New Year's Eve · **Randi's POV — mirror aperture, load-bearing***
 
 ## Architecture & Placement
 
 > **See `meta-arch-randi.md` for structural architecture.** This scene enacts Randi's "chosen-not-to-throttle moment" and must sit after the SATC lunches are running at full intensity and before the threesome is scheduled. (Continuity flag 6.)
 
-Placed in the break: same week as Vee — Christmas, the two women flat without him in parallel, neither aware of the mirror. Neither scene marks the other.
+Placed on New Year's Eve, the same night as Vee — Christmas: the two women flat without him in parallel, joined only by the midnight text, neither aware of the mirror.
 
 ## Content
 

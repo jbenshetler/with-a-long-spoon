@@ -2,7 +2,7 @@
 
 Companion to `meta-condensed-flat-date.md` (scene compaction) and the Flat Date section of `meta-arch-randi.md` (architecture — the *why*, not restated here). This note holds the beat sheet and the craft running under it.
 
-Randi POV, close third, Christmas break, **Gstaad**. Only the close is drafted (`scenes/flat-date.md`); beats 1–9 are to-draft.
+Randi POV, close third, **New Year's Eve**, **Gstaad**. Drafted (`scenes/flat-date.md`): the breakfast, the lift-line and charade, the ascent, the black run and the morning of runs into the hütte (beats 1–4), and the close (beat 10). To-draft: the boutiques, the gala/dance, the sleigh, the room, and the sex (beats 5–9) — the evening bridge from the hütte to *Afterward*.
 
 ## The engine
 
@@ -18,7 +18,7 @@ Three **bodies-in-sync** beats — ski, dance, sex — each genuinely good, each
 
 3. **On the lift.** She plays aloof; laughs past it, involuntarily. *The day's false dawn — a body-response that looks like the real thing and isn't; a faint wrong-rhyme with the involuntary* Yes *of the pointing game.*
 
-4. **The black run.** He suggests a blue; "Can't you ski a black?" They ski a black together — he's accomplished. Shared physical high: real, athletic, *not* aliveness. **Bodies-in-sync #1.** He invites her to a white-tie gala — named, no surprise. *European piste grades throughout: blue / red / black.*
+4. **The black run + the morning.** He offers the chivalrous *red*; she takes a *black* ("I've skied blacks since high school"). He's the better skier, shown as **restraint** — matches her turn for turn, finesse not fitness, never bests her. Shared physical high: real, athletic, *not* aliveness. **Bodies-in-sync #1.** A morning of runs (banter, sexy looks, matched pair), then champagne at a hütte — where the **gala invitation** lands. *European piste grades: blue / red / black.*
 
 5. **The boutiques.** She shops the gown. Nouveau-riche sensitivity active: no obvious brands, the codes performed flawlessly. *Class texture — restrained, never explained.*
 
@@ -31,7 +31,7 @@ Three **bodies-in-sync** beats — ski, dance, sex — each genuinely good, each
 
 9. **The sex.** "A performance she could do in her sleep. She is operating the equipment." Genuinely good; reaches nothing. **Bodies-in-sync #3.** Flows straight into the close.
 
-10. **The close (drafted).** *Afterward she stayed against him* → the mirror (eyeliner held, lipstick worn off and left on him) → Pace, then Vee → the fear → the plan as the way to have Vee without saying it → the borrowed warmth, and she stays.
+10. **The close (drafted).** *Afterward she stayed against him* → the mirror (eyeliner held, lipstick worn off and left on him) → Pace, then Vee → the **nadir** (the whole approved life offered — the charade's wedding-and-children made real-adjacent — and she felt nothing; the fault hers, not his) → the fear → the plan → the **midnight text** to Vee (her open hand, Randi's fairytale gloss, *gorgeous* on the one true line) → the borrowed warmth, and she stays.
 
 ## Threads under it
 
@@ -41,3 +41,5 @@ Three **bodies-in-sync** beats — ski, dance, sex — each genuinely good, each
 - **Mirror aperture.** Bench → Flat Date; installation → confirmation.
 - **Taste thread: not seeded.** It is Vee's, not Randi's. The close's distanced oral beat ("her own mouth from a long way off") is the *nothing* extended to taste, not a taste-thread seed.
 - **Location.** This commits Flat Date → Gstaad, making the **Gesso mid-November** mention (Randi telling Vee she'll be off-grid) load-bearing setup.
+- **NYE diptych with `vee-christmas`.** Same night: Vee alone in Ohio just before her midnight, Randi in Gstaad at ~6am. The **midnight text is the seam** — Vee's open hand, Randi's fairytale gloss — and the two scenes must stay **word-identical** on it (Vee's *thinking about you…*; Randi's *you ANGEL… miss your face most though, gorgeous 💋*). Near-real-time, no delay; the *gorgeous* obeys the reserved-endearment rule (sincere, Vee-only) and lands on the true line.
+- **Disconnection motif.** The ski gear's sensory isolation (helmet, goggles, gloves) is deliberate — it seeds the body-from-self disconnection of the sex (*felt her own mouth do it from a long way off*).
