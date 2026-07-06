@@ -38,7 +38,7 @@ He had gone still, watching her.
 
 "Out there." She tipped her head toward the door, the dark on the other side of it, everything that wasn't this room. "Out there, what are we? How do I say what this is to Cassie? To my father? What do I tell my mother, that he feeds me and we have a lot of sex?" It came out ugly and she let it, because that was the whole of it, that with no name on it the best thing in her life came out of her mouth sounding like that. "Out there. What is this relationship? What am I to you out there?"
 
-He was quiet a while. She watched him take it seriously, watched him reach for the thing she was asking for and not find it anywhere in himself, and come back with the truest thing he had.
+He was quiet a while. She watched him take the question seriously, reach for the thing she was asking for and not find it anywhere in himself, come back with the truest thing he had.
 
 "Do any of your friends," he said, "have a relationship you'd rather have than this one?"
 
@@ -56,6 +56,6 @@ Something went across his face and shut. He stepped back, and his arms came up a
 
 She felt the wet before she knew she was crying, hot and then over, down her face, anger in it as much as grief and she couldn't have told him which. She did not want him to see it. She did not want him to have it, the crying, on top of everything else he had of her and would not name. She turned her face toward the door to keep it from him.
 
-He had already seen. She felt the change in him more than she saw it, the cold going out of him all at once, his arms coming unfolded, and at the edge of her sight his hand lifting toward her, reaching to settle her the way his hands settled everything, to make it right the only way he had. That was the one thing she could not take from him now. Not the hand in place of the word.
+He had already seen. The change in him reached her before she looked, the cold going out of him all at once, his arms coming unfolded, and at the edge of her sight his hand lifting toward her, reaching to settle her with the hands that settled everything, to make it right the only way he had. That was the one thing she could not take from him now. Not the hand in place of the word.
 
 She got the door open. "Vee," he said behind her, once. Just her name, and her name was not the word she'd come for. She went out into the cold, and it was worse, and she did not go back in.
