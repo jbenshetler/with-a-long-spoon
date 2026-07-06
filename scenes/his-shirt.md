@@ -1,6 +1,6 @@
 # His Shirt
 
-*Vee POV, close third. ~Thu Dec 10, pre-dawn, her room. The second of the three displacements — after Under the Rug, before the Christmas fight. Vee alone.*
+*Vee POV, close third. ~Fri Dec 11, pre-dawn, her room. The second of the three displacements — after Under the Rug, before the Christmas fight. Vee alone.*
 
 ---
 
