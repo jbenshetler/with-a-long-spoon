@@ -72,6 +72,14 @@ She had a dress with her for New Year's Eve, and the moment she said yes she kne
 
 Boutiques ran the length of the main street, the kind with one perfect thing in the window and a bell on the door. She would find it before they closed. She finished her champagne and told him she had errands, and he smiled, a man who knew exactly what the errand was and pleased to be its cause.
 
+She found it in the second shop and knew it before it was off the rack.
+
+Back in her room, dressed, she stood at the long mirror and let herself look. The dress was a pale metallic blue, and it was too much: too much for dinner, too much for a party anywhere ordinary, exactly enough for a white-tie ball on the last night of the year in Gstaad. It was cut to move. It found the dancer in her, the long line from shoulder to hip, left her shoulders bare and gave the room her back. And it went to work on her eyes. They were a startling blue, the best thing about her, and she had always known it; the pale blue of the dress woke them up and gave them to the room.
+
+Diamond studs. The solitaire on its chain at the hollow of her throat. The white-gold bracelet that never came off. She turned once, slow, and the blue went lighter and darker with her.
+
+She was ready an hour early and did not mind. She stood there and let the night arrange itself in front of her, how it would go: his face when she came down, the drive, the room full of people who would look, the dancing. Somewhere past all of it, the story, and the daughter she'd tell it to. She could not remember being more sure of anything: that this was the night the rest of it started.
+
 Afterward she stayed against him. He was warm and heavy and already going under, and she pressed the length of herself to the length of him and went still, waiting to see what the holding would develop into. She waited a while. His breathing lengthened and slowed and became sleep. Nothing developed.
 
 It had been good. She could not have said otherwise; her body was still loose with how good, still humming in the ordinary places. And it had meant no more than a good sandwich eaten fast on a busy afternoon: the pleasure real, complete, and gone before the plate was cleared, nothing left behind it to keep. She lay there and tried to make it be more than that, and failed.
