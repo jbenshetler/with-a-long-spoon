@@ -6,13 +6,13 @@
 
 She had worn the good clothes on the plane. She'd thought about it in the terminal at two in the morning, whether to change into something to sleep in, and had kept them on: the gray sweater, the wool skirt, the boots, the things she'd bought at Christmas with her mother nodding beside her in the store, the things a person could wear to church or to meet anyone who mattered. She had dressed to arrive as that. By the time she turned off the highway onto his road the sweater was creased from six hours folded into a seat, and she smoothed it against herself at the stop sign, as though it would take.
 
-His truck was in the drive, so he was home. She sat with the engine running and let herself be afraid the way she hadn't on the plane, where there'd been coffee and a plan and the lit forward motion of it. Now it was only the house back through the trees and whatever was in it. On the worst nights of the break she had built the thing she feared most and lived inside it a while, Sheri in his bed, the plain nakedness of two people who belonged to each other, and had woken with it on her chest. She made herself get out. The cold took the breath out of her. She went up and knocked, because the door was locked, because she hadn't been expected.
+His truck was in the drive, so he was home. She sat with the engine running and let herself be afraid as she hadn't on the plane, where there'd been coffee and a plan and the lit forward motion of it. Now it was only the house back through the trees and whatever was in it. On the worst nights of the break she had built the thing she feared most and lived inside it a while, Sheri in his bed, the plain nakedness of two people who belonged to each other, and had woken with it on her chest. She made herself get out. The cold took the breath out of her. She went up and knocked, because the door was locked, because she hadn't been expected.
 
 He opened it, and there was no one behind him.
 
-That was the first thing, before his face. The house past his shoulder was only the house, quiet and lamplit and cool, a book face-down over the arm of a chair, no one in it he had needed while she was gone. She had come so braced for the worst picture that the plain empty room undid something in her.
+That was the first thing, before his face. The house past his shoulder was only the house, quiet and lamplit and cool, a book face-down over the arm of a chair, no one in it he had needed while she was gone. She had come so braced for the worst picture that the plain empty room hollowed something in her.
 
-He was in his weekend clothes, jeans and a clean white t-shirt, barefoot on the cold floor because he ran hot and kept the house the way he liked it when no one was coming. His good pencil was in his pocket. He'd been working. He had been entirely fine.
+He was in his weekend clothes, jeans and a clean white t-shirt, barefoot on the cold floor because he ran hot and kept it as he liked when no one was coming. His good pencil was behind his ear. He'd been working. He had been entirely fine.
 
 "Hello, Pace," she said.
 
