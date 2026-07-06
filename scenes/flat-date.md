@@ -62,6 +62,16 @@ They traded the lead. She took the hard lines and he stayed with her; he found t
 
 They skied down to a hütte on a shelf halfway down the mountain. It was stone and blackened timber, a thread of smoke standing straight up from the chimney into the still air, and people sat out on the terrace with their boots unbuckled and their faces to the sun, glasses in hand, somebody laughing. They stepped out of their skis, stood them in the rack, and went in.
 
+Inside it was dark and warm after the glare, wood everywhere, a fire going somewhere she couldn't see. The place was packed; he got them a table at the window anyway, by some string she didn't catch him pulling. A bottle appeared in a bucket, and when the champagne was poured he touched his glass to hers without a word. She drank, and it was very cold and very good.
+
+He said he'd had a grand time and asked whether she'd break whatever plans she had and celebrate New Year's Eve with him. Direct. Randi liked that. Her parents had planned something, which was true. He had tickets to a white-tie ball, he said, the whole production, and would count it a tragedy to spend the night dancing with anyone but her.
+
+She made a show of deciding. "Well, I had plans... Hmm. Let me see... Yes, I believe I can pencil you in for eight." Inside, she'd said yes before he finished asking, the same as she'd laughed on the lift. Her parents would be fine, relieved, even: a suitable man, a good family, exactly the errand they'd sent her out here to run. She would let them think she'd run it.
+
+She had a dress with her for New Year's Eve, and the moment she said yes she knew it wouldn't do. Not for this. She wanted something she'd never worn, bought today, for tonight, for him. The dress in the story she'd tell later, to a daughter she didn't have yet: *the year I met your father, the ball, the snow.* She could see the whole thing from here. She wanted to walk into that room in a dress she'd bought for him and have it be the one people remembered.
+
+Boutiques ran the length of the main street, the kind with one perfect thing in the window and a bell on the door. She would find it before they closed. She finished her champagne and told him she had errands, and he smiled, a man who knew exactly what the errand was and pleased to be its cause.
+
 Afterward she stayed against him. He was warm and heavy and already going under, and she pressed the length of herself to the length of him and went still, waiting to see what the holding would develop into. She waited a while. His breathing lengthened and slowed and became sleep. Nothing developed.
 
 It had been good. She could not have said otherwise; her body was still loose with how good, still humming in the ordinary places. And it had meant no more than a good sandwich eaten fast on a busy afternoon: the pleasure real, complete, and gone before the plate was cleared, nothing left behind it to keep. She lay there and tried to make it be more than that, and failed.
