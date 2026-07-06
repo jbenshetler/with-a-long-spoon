@@ -104,6 +104,14 @@ Outside, the cabs were all taken and the line for them ran back into the lobby, 
 
 The sleigh went up through the town with its bells going and the snow coming down soft and straight, no wind to it, the lit windows sliding past and the whole valley dropping away below in the dark. His arm was around her and she was warm all along that side, where he was, and cold everywhere the fur didn't reach, and she thought nothing of it; it was a cold night. He kissed her again with the snow falling into her hair, and she kissed him back, and thought she would remember this one the rest of her life.
 
+The sleigh let them off at the grand hotel above the town, all lit windows and a doorman in a greatcoat, and he took her arm and started up the steps, and it was only there, at the door, that she understood he had never once asked her where the night was going. He had assumed it, as he'd assumed the table and conjured the sleigh, and was taking her up.
+
+"Why, John," she said, a hand to her chest. "What kind of girl do you think I am?"
+
+He laughed. She hadn't planned to say it; it came out anyway, and she heard how light she sounded, how young, how unlike herself, and she didn't care. Pace had never assumed anything in his life. Pace made her say it, out loud, every time. She found, tonight, that she liked not being asked. She let John take her up.
+
+His room was high in the hotel with the mountains black in the window, and he drew her in, and she went.
+
 Afterward she stayed against him. He was warm and heavy and already going under, and she pressed the length of herself to the length of him and went still, waiting to see what the holding would develop into. She waited a while. His breathing lengthened and slowed and became sleep. Nothing developed.
 
 It had been good. She could not have said otherwise; her body was still loose with how good, still humming in the ordinary places. And it had meant no more than a good sandwich eaten fast on a busy afternoon: the pleasure real, complete, and gone before the plate was cleared, nothing left behind it to keep. She lay there and tried to make it be more than that, and failed.
