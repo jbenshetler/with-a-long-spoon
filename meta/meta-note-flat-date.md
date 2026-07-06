@@ -2,7 +2,7 @@
 
 Companion to `meta-condensed-flat-date.md` (scene compaction) and the Flat Date section of `meta-arch-randi.md` (architecture — the *why*, not restated here). This note holds the beat sheet and the craft running under it.
 
-Randi POV, close third, **New Year's Eve**, **Gstaad**. Drafted (`scenes/flat-date.md`): the breakfast, the lift-line and charade, the ascent, the black run and the morning of runs into the hütte (beats 1–4), and the close (beat 10). To-draft: the boutiques, the gala/dance, the sleigh, the room, and the sex (beats 5–9) — the evening bridge from the hütte to *Afterward*.
+Randi POV, close third, **New Year's Eve**, **Gstaad**. **Draft complete** (`scenes/flat-date.md`), start to nothing: breakfast → lift and charade → ascent → black run and the morning → hütte and invitation → the found dress and ready-mirror → the ball (descent, cab, gala, dinner) → the dance → the midnight kiss → the sleigh → the room and the cut across the sex → the close.
 
 ## The engine
 

@@ -1,6 +1,6 @@
 # Condensed — The Flat Date
 
-*SCENE · Unwritten · New Year's Eve · **Randi's POV — mirror aperture, load-bearing***
+*SCENE · Draft complete · New Year's Eve · **Randi's POV — mirror aperture, load-bearing***
 
 ## Architecture & Placement
 
