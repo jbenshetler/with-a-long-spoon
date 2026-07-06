@@ -106,11 +106,15 @@ def resolve_date(seg: str):
         return None
     if ENDASH in s:  # a range (ranges in this doc always use the en-dash)
         left, right = s.split(ENDASH, 1)
-        lp = _parse_point(left)
-        if not lp:
-            return None
-        rp = _parse_point(right, fallback_month=lp[0])
+        # The month usually rides on the right endpoint ("mid–late November",
+        # "early–mid October"), so resolve it first and let the modifier-only
+        # left ("mid", "early") borrow that month; fall back the other way for
+        # left-anchored ranges ("Oct 5–10").
+        rp = _parse_point(right)
+        lp = _parse_point(left, fallback_month=rp[0] if rp else None)
         if not rp:
+            rp = _parse_point(right, fallback_month=lp[0] if lp else None)
+        if not lp or not rp:
             return None
         off = (_offset(*lp) + _offset(*rp)) // 2
         return off, "~" + s, "range"
@@ -570,14 +574,12 @@ def main():
         by_status[e.status["cls"]] = by_status.get(e.status["cls"], 0) + 1
     print(f"wrote {args.out}: {len(entries)} entries, {n_dated} dated, "
           f"status {by_status}", file=sys.stderr)
-    # surface entries whose metadata produced no date and no status, so the
-    # parser can be kept in sync as the doc grows.
-    blind = [e.title for e in entries
-             if not e.date and e.status["cls"] == "unknown"]
-    if blind:
-        print(f"  no date & no status ({len(blind)}): "
-              + "; ".join(blind[:12]) + ("; ..." if len(blind) > 12 else ""),
-              file=sys.stderr)
+    # surface every entry that produced no date: these are absent from the
+    # beeswarm timeline, so the list is the drift check when the doc grows.
+    undated = [e.title for e in entries if not e.date]
+    if undated:
+        print(f"  undated, absent from the timeline ({len(undated)}): "
+              + "; ".join(undated), file=sys.stderr)
 
 
 if __name__ == "__main__":
