@@ -80,7 +80,11 @@ Diamond studs. The solitaire on its chain at the hollow of her throat. The white
 
 She was ready an hour early and did not mind. She stood there and let the night arrange itself in front of her, how it would go: his face when she came down, the drive, the room full of people who would look, the dancing. Somewhere past all of it, the story, and the daughter she'd tell it to. She could not remember being more sure of anything: that this was the night the rest of it started.
 
-He came for her at eight, his voice in the hall below, and she started down. The stair curved, so that she came into his view a beat before he came into hers; by the time she rounded the last of it he was at the bottom with his face turned up, and she got to watch it happen to him: the mouth opening on nothing, then both hands coming up and crossing over his heart as if to keep it where it belonged. He held that until she reached the last stair. "She walks in beauty," he started, and couldn't finish it. Then he gave her his arm.
+He came for her at eight, his voice in the hall below, and she started down. The stair curved, so that she came into his view a beat before he came into hers; by the time she rounded the last of it he was at the bottom with his face turned up, and she got to watch it happen to him: the mouth opening on nothing, then both hands coming up and crossing over his heart as if to keep it where it belonged.
+
+And she was doing her own looking. She had only ever seen him swallowed in ski gear, and here he stood in white tie, the tailcoat cut for him and no one else, the bulk of the mountain gone off him and something long and easy left in its place. Coming down to him, she had the feeling again of a man who kept turning out to be more than she'd yet seen.
+
+He held that until she reached the last stair. "She walks in beauty," he started, and couldn't finish it. Then he gave her his arm.
 
 A cab took them down through the lit town and up the far side of the valley to a hall blazing against the dark of the mountain. Inside, the floor was white marble and the tables were dressed in black, and Christmas trees stood down the length of the room hung with silver tinsel and small white lights, so the whole place glittered, white and silver against the black.
 
