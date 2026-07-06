@@ -1,6 +1,6 @@
 # Condensed — Grain #3 — The Restoration (The Loud One)
 
-*VIGNETTE (Vee POV, mirror-time) · Unwritten · April, after stakes/trust are high · slot TBD, deeper in*
+*VIGNETTE (Vee POV, mirror-time) · Architecture complete, prose not drafted · April, after stakes/trust are high · slot TBD, deeper in*
 
 Vee has depleted the form to ~20. Randi returns ~4 (20 → 24) — the form goes **up**. In Vee's model of the world this is not improbable but impossible: the drawer is hers, he never touches it (the gift's whole grammar, founded at The Top Drawer), and she never re-threads the form. Because she's been half-watching since the First Flicker and the base is low, +4 is unmissable. Direction beats magnitude: a small change in the impossible direction is louder than a large one in the plausible direction.
 

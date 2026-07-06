@@ -1,6 +1,6 @@
 # Note — Among Friends (Pace enters Vee's world)
 
-*Scene · Unwritten · ~late January, the first weekend of spring semester or a weeknight soon after · just after First Weekend Back, around Forbidden Kiss / The Reach · Vee POV · companion to meta-condensed-among-friends.md · title provisional (alt: "Without Being Asked")*
+*Scene · Architecture complete, prose not drafted · ~late January, the first weekend of spring semester or a weeknight soon after · just after First Weekend Back, around Forbidden Kiss / The Reach · Vee POV · companion to meta-condensed-among-friends.md · title provisional (alt: "Without Being Asked")*
 
 ## What this scene is now
 

@@ -1,6 +1,6 @@
 # Condensed — Grain #2 — Worn in Plain Sight
 
-*Vignette-thread · Unwritten · recurring, March onward · seen only in Vee-POV scenes*
+*Vignette-thread · Architecture complete, prose not drafted · recurring, March onward · seen only in Vee-POV scenes*
 
 Randi wears Vee's scrunchies around Vee — and Vee is **thrilled**: the glamour queen is mimicking *her* style. And not just the style — *her color*: the deep green that isn't in the local stores.
 

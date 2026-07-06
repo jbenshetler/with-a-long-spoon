@@ -1,6 +1,6 @@
 # Note — Secret Plans (The Princess / Vee's Adventure)
 
-*Diptych · Unwritten · ~late March–early April · replaces Nipple Clamps · companion to `meta-condensed-secret-plans.md`*
+*Diptych · Architecture complete, prose not drafted · ~late March–early April · replaces Nipple Clamps · companion to `meta-condensed-secret-plans.md`*
 
 A workshop-committed scene. The diptych is **The Ask** (Vee asks) and **The Princess** (the scene itself), with Pace's planning/building as an **off-page [EVENT]** between them. It replaces the planned Nipple Clamps scene (the clamp *sensation* survives inside this one; see Continuity below).
 

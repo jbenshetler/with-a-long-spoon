@@ -1,6 +1,6 @@
 # Condensed — Secret Plans (The Princess / Vee's Adventure)
 
-*Diptych · Unwritten · ~late March–early April · replaces Nipple Clamps · companion: `meta-note-secret-plans.md`*
+*Diptych · Architecture complete, prose not drafted · ~late March–early April · replaces Nipple Clamps · companion: `meta-note-secret-plans.md`*
 
 **The first scene Vee authors.** She invites *him* — the "adventure" word turned bidirectional at last (she coined it at Still Life; Pace first pointed it forward at the cabin; now she uses it to invite). Her one act of erotic authorship is to commission her own capture: she asks to play a **space princess** chased, caught, stripped, and "interrogated" by a galactic overlord for the **secret plans** she won't give up. She designs the *wish*; Pace engineers the *execution*. First read: the relationship's most playful peak, a brave fun thing she's finally confident enough to ask for. Reread: the first time she holds the pen she writes herself a cage — her authorship and the machinery that runs her are the same act. The playfulness is the point — earn the dark by being light; the cold is reread-only.
 

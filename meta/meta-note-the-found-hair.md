@@ -39,7 +39,7 @@ The reveal's locked confirmation image is *Randi's normally sleek hair wild, bar
 
 ## Placement / status
 
-~late April, after the grains (grain #3), the last trace before the early-May threesome. **Kept as a permanent standalone chronology/beeswarm entry** for visibility (the author's marker so the beat isn't lost); the *prose* folds into an adjacent spring Pace/Vee house scene at drafting — a beat, not a full scene. Unwritten.
+~late April, after the grains (grain #3), the last trace before the early-May threesome. **Kept as a permanent standalone chronology/beeswarm entry** for visibility (the author's marker so the beat isn't lost); the *prose* folds into an adjacent spring Pace/Vee house scene at drafting — a beat, not a full scene; architecture complete, prose not drafted.
 
 ## Cross-refs
 
