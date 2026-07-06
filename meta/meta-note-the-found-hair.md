@@ -19,7 +19,7 @@ This **complements** the scrunchie grains, it doesn't duplicate them — two dif
 - **The found hair — innocent-absorber route:** a trace *with* a ready story (Sheri) → she attributes and never forms the question.
 - **Grain #3 / the Restoration — no-absorber route:** a trace with *no* story available → the anomaly has nothing to absorb it, so the self absorbs it (*I must be wrong about what was there*).
 
-Placed **after the grains** (latter half of spring), the hair shows the **conditioning taken**: grain #3 (the Loud One) is where a *storyless* anomaly forces self-doubt; the found hair afterward is where a trace *with* a ready story (Sheri) gets absorbed so fast she never reaches the outward question — the training generalizing from the engineered grains to a real, accidental trace. The last wave-off before the reveal detonates. (Sheri is vivid and disarmed by then — *Another Round*, ~mid-March.) Keep the instruments distinct — a hair on the couch, not a scrunchie in the drawer.
+Placed **after the grains** (latter half of spring), the hair shows the **conditioning taken**: grain #3 (the Loud One) is where a *storyless* anomaly forces self-doubt; the found hair afterward is where a trace *with* a ready story (Sheri) gets absorbed so fast she never reaches the outward question — the training generalizing from the engineered grains to a real, accidental trace. The last wave-off before the reveal detonates. (Sheri is vivid and disarmed by then — *Another Round*, ~late January.) Keep the instruments distinct — a hair on the couch, not a scrunchie in the drawer.
 
 ## The alibi — bleached and permed
 

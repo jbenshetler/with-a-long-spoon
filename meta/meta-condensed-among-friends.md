@@ -2,7 +2,7 @@
 
 *SCENE · Unwritten · ~late January (that same first weekend or a weeknight soon after First Weekend Back) · a low-key bar or TV-less place, Vee's choice · Vee POV · warm/social register · [craft](meta-note-among-friends.md)*
 
-The reciprocal of Another Round: Pace enters **Vee's** world instead of the reverse. It is his deed-answer to the *Under the Rug* visibility wound — *will we ever be seen in public?* — given in the only grammar he has (deed, not word): he comes to a gathering of her friends **without being asked**, in his bomber jacket and broadcloth, and is seen with her. Volume Two's warm opener — the bloom before the souring. Warm and fun on first read; the cold is the reader's, on reread. (Title provisional; author may rename.)
+The first of the paired world-openings: Pace enters **Vee's** world here; Another Round reciprocates (Vee into his). It is his deed-answer to the *Under the Rug* visibility wound — *will we ever be seen in public?* — given in the only grammar he has (deed, not word): he comes to a gathering of her friends **without being asked**, in his bomber jacket and broadcloth, and is seen with her. Volume Two's warm opener — the bloom before the souring. Warm and fun on first read; the cold is the reader's, on reread. (Title provisional; author may rename.)
 
 ### The engine — being seen
 The visibility wound answered in deed: he lets himself be claimed publicly. But only *her* world opens — his stays sealed (the gym goes wrong at `The Burn`; his *people* wait for Another Round). He answers the "seen in public" axis while the enclosure of his own life holds; the answer soothes the wound and deepens the cage at once.
