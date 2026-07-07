@@ -501,6 +501,13 @@ text = "\"The kind you tell your daughter about,\" Vee said, quiet now, and look
 note = "Author-approved: 'file' = the sorority-folder image (canon callback to cw-dance-debrief); dialogue and realization filter verbs; retained 'whole of it'; info-level existentials."
 
 [[ok]]
+fp   = "21487d40a57f"
+rule = "filter-verbs"
+file = "scenes/nothing-underneath.md"
+text = "She heard it, and for the first time she could remember, hearing it did not stop her."
+note = "she registers the mother's word and overrides it; the ownership beat"
+
+[[ok]]
 fp   = "33b64cbc946d"
 rule = "filter-verbs"
 file = "scenes/nothing-underneath.md"
@@ -513,6 +520,13 @@ rule = "filter-verbs"
 file = "scenes/nothing-underneath.md"
 text = "She stood in his doorway in the black heels with the coat held open and gave him the whole of her, pale in the spill of the lamp, and she watched what it did to him."
 note = "Vee reading the reveal's effect; load-bearing"
+
+[[ok]]
+fp   = "44d594bc6ee2"
+rule = "filter-verbs"
+file = "scenes/nothing-underneath.md"
+text = "For once she was not the one being shown; she was the one showing, and she watched what it did to him."
+note = "she watches her own move land; the power-inversion beat"
 
 [[ok]]
 fp   = "51d7b22e99fa"
@@ -540,6 +554,13 @@ fp   = "b951ac4606a9"
 rule = "whole-of"
 file = "scenes/nothing-underneath.md"
 text = "She stood in his doorway in the black heels with the coat held open and gave him the whole of her, pale in the spill of the lamp, and she watched what it did to him."
+note = "the offering beat; single weighted use"
+
+[[ok]]
+fp   = "ff1608c6d636"
+rule = "whole-of"
+file = "scenes/nothing-underneath.md"
+text = "She stood in his doorway in the black heels with the coat held open and gave him the whole of her, pale in the spill of the lamp."
 note = "the offering beat; single weighted use"
 
 [[ok]]
