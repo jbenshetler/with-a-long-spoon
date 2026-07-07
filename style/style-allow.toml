@@ -501,6 +501,55 @@ text = "\"The kind you tell your daughter about,\" Vee said, quiet now, and look
 note = "Author-approved: 'file' = the sorority-folder image (canon callback to cw-dance-debrief); dialogue and realization filter verbs; retained 'whole of it'; info-level existentials."
 
 [[ok]]
+fp   = "33b64cbc946d"
+rule = "filter-verbs"
+file = "scenes/nothing-underneath.md"
+text = "She watched him place her, watched him go still with it, and then the courtesy came down over him like a thing reached for in a hurry."
+note = "Vee reading his face at the reveal; load-bearing"
+
+[[ok]]
+fp   = "417d830be504"
+rule = "filter-verbs"
+file = "scenes/nothing-underneath.md"
+text = "She stood in his doorway in the black heels with the coat held open and gave him the whole of her, pale in the spill of the lamp, and she watched what it did to him."
+note = "Vee reading the reveal's effect; load-bearing"
+
+[[ok]]
+fp   = "51d7b22e99fa"
+rule = "filter-verbs"
+file = "scenes/nothing-underneath.md"
+text = "She heard the word it went around, the word she had stood in his doorway that morning and begged the wall to say and been broken for."
+note = "she hears the absence; the non-declaration beat"
+
+[[ok]]
+fp   = "ac43c0610b62"
+rule = "filter-verbs"
+file = "scenes/nothing-underneath.md"
+text = "He worked her through it and kept on, slower now, deeper, watching her face in the lamplight, and the second one built in her long and low while he did, gathering in her thighs, the deep kind that took everything, and when it came it took all of her, a full shudder up her body and back down, and she heard herself make the long broken sound she made only for him."
+note = "involuntary/dissociative; body acting past her"
+
+[[ok]]
+fp   = "46d5d7ad7eb3"
+rule = "weather"
+file = "scenes/nothing-underneath.md"
+text = "Down the hall in the good coat with her heart going, past a girl coming up the stairs with a laundry basket who said hey, and Vee said hey back in a voice that came out almost normal, and every step the hem moved against the bare backs of her thighs and the cold found its way up under it, and she held the collar closed at her throat with one hand as though against the weather and walked out into the January dark with nothing on beneath her coat and got into the car."
+note = "literal January cold, not metaphor"
+
+[[ok]]
+fp   = "b951ac4606a9"
+rule = "whole-of"
+file = "scenes/nothing-underneath.md"
+text = "She stood in his doorway in the black heels with the coat held open and gave him the whole of her, pale in the spill of the lamp, and she watched what it did to him."
+note = "the offering beat; single weighted use"
+
+[[ok]]
+fp   = "bfa5b6536960"
+rule = "x-not-y"
+file = "scenes/nothing-underneath.md"
+text = "\"You drove out here like this,\" he said, low, not a question, his fingers moving in the slick of her."
+note = "he tells her what she did; not asking, he knows"
+
+[[ok]]
 fp   = "e240a87af7f5"
 rule = "filter-verbs"
 file = "scenes/on-her-floor.md"
