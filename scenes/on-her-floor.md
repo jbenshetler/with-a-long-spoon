@@ -126,7 +126,7 @@ Vee started to say her name.
 
 Vee felt Randi's shoulder come warm against her arm — there, where a second before there had been nothing.
 
-She was lit all through: the president of the whole house carried her little history by heart. "It's such a good party," she said. "Thank you so much for having me."
+She was lit all through: the president of the whole house carried her little history by heart. And Vee had braced, without quite meaning to, for the next of it, the day two weeks back when she'd come in off the cold too wrecked to get out a hello, braced to hear it read out into the room. But Brooke hadn't touched it. The gratitude went through her warm on top of everything else, and she thought that Brooke, whom she'd always found a little frightening, was kind after all. "It's such a good party," she said. "Thank you so much for having me."
 
 "Of *course,* sweetheart." The smile widened by some exact amount, the whole face switching on behind it. "Any friend of Randi's." And the gold of her turned and closed back into the crowd, leaving the warmth where she'd stood like something you could smell.
 
