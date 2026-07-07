@@ -14,11 +14,11 @@ Up the narrow stairs, the door shut, and Randi's arms came around her before eit
 
 When it finally broke, the room came back, and it wasn't the room Vee knew. It was half-unpacked, a suitcase open on the floor, new things everywhere, tissue paper and a good bag and a coat still in its plastic, sweaters stacked where no drawer had claimed them. Randi swept a pile off the bed without looking at it and made a place, and it reached Vee even through everything that Randi hadn't apologized for the mess or seemed to see it, that the wrecked girl in her doorway had come first.
 
-She put Vee down on the made place, and with Vee sitting and Randi standing close, listening, it came out in the wrong order and all at once. He hadn't texted, not once, the whole break. She'd flown in on the red-eye and driven straight out and he'd opened the door like she was a stranger, ice, and she'd tried to touch him and he'd flinched like she burned. He didn't care. It had been sex, that was all, and now that she'd made it complicated he was done. "And there's someone else, there has to be. He cooked for her at Thanksgiving, this girl, Sheri, she was alone, and the whole break I've been seeing her with him, alone, much more than friends." It broke off in her throat.
+She put Vee down on the made place, and with Vee sitting and Randi standing close, listening, it came out in the wrong order and all at once. He hadn't texted her once the whole break. She'd flown in on the red-eye and driven straight out and he'd opened the door like she was a stranger, ice, and she'd tried to touch him and he'd flinched like she burned. He didn't care. It had been sex, that was all, and now that she'd made it complicated he was done. "And there's someone else, there has to be. He cooked for her at Thanksgiving, this girl, Sheri, she was alone, and the whole break I've been seeing her with him, alone, much more than friends." It broke off in her throat.
 
 Randi didn't tell her she was wrong. She sat down beside her on the bed, close, their knees touching on the small mattress, and let the quiet sit a second before she moved into it. "Do you actually believe he was using you? Or is that the fear talking? Because the fear's a liar, and you haven't slept." She didn't wait for an answer. "Start over, but slow. Not this morning. The last night, before the break. You got there, and what happened?"
 
-And Vee, because Randi asked, told it. The truck in the drive. The house already warm, the way he warmed it hours ahead so she'd never once be cold in it. The chicken going. Two glasses of wine poured out on the counter, waiting for her.
+And Vee, because Randi asked, told it. The truck in the drive. The house already warm, the heat brought up hours ahead so she'd never once be cold in it. The chicken going. Two glasses of wine poured out on the counter, waiting for her.
 
 "He'd cooked," Randi said. "He had the wine out. He'd warmed the house for you." Not questions. Just setting each thing down where Vee could see it. "And then?"
 
@@ -32,7 +32,7 @@ And Vee, because Randi asked, told it. The truck in the drive. The house already
 
 Vee made herself go back. The long, loud breath through his nose. The two blinks. "I thought he was going to yell. I was ready for that. And then he just went away. Behind his face."
 
-"You show up like that, no warning, after two weeks of nothing." Randi said it evenly, not letting her off it. "How do you think he felt, opening that door?"
+"You show up like that, no warning, after two weeks of nothing." Randi said it evenly and didn't let her off it. "How do you think he felt, opening that door?"
 
 Vee hadn't once thought of it as his. "...Ambushed," she said slowly. "Like I'd come to do it all over again."
 
@@ -40,9 +40,9 @@ Vee hadn't once thought of it as his. "...Ambushed," she said slowly. "Like I'd 
 
 "Do you think so?" Vee said.
 
-"I know so." Then she reached and pushed the wet hair off Vee's face, the way you would a child's. "Now. This girl. Sheri. Tell me what she looks like."
+"I know so." Then she reached and pushed the wet hair off Vee's face like she would a child's. "Now. This girl. Sheri. Tell me what she looks like."
 
-"Blonde," Vee said. "Tan. Built like a model. And the way he—"
+"Blonde," Vee said. "Tan. Built like a model. And the two of them—"
 
 "How do you know any of that?"
 
@@ -64,7 +64,7 @@ Vee was crying again, quieter, a different kind.
 
 "I want him back." Saying it plainly was its own small collapse. "I got a whole taste of my life without him over that break. More than anything. I want him back."
 
-"Then hear me. A man who cooks for you, wine poured before you're through the door, in a house he heated up just so you'd be comfortable, and dynamite in bed on top of it. I'm so jealous, gorgeous, I could scream." She said it warm and easy and it passed. "He was set up for a beautiful night and you blindsided him with a fight. You have to tell him you don't want to fight. Give him a peace sign he can't misread."
+"Then hear me. A man who cooks for you, wine poured before you're through the door, in a house he heated up just so you'd be comfortable, and dynamite in bed on top of it. I'm so jealous, gorgeous, I could scream." She said it warm and easy and it passed. "He was set up for a beautiful night and you blindsided him with a fight. You have to show him you don't want to fight. Give him a peace sign he can't misread."
 
 "How? After this morning, how do I even—"
 
@@ -80,7 +80,7 @@ Then she heard what she'd said. The old voice came up in her fast and hot, her m
 
 "Okay. And who's going to see you do it?" Randi's voice stayed warm and level and walked her down off the ledge a word at a time. "One man. Who's had you every way there is, who knows that body by heart, who heats his whole house so you won't be cold in it. You wouldn't be showing him a thing he hasn't asked you for on his knees. You'd be walking through the cold to hand him everything, no words, no fight, nothing kept back. That's not a slut, gorgeous. That's the bravest thing a woman can do, and there's not a man alive who survives it."
 
-And Vee, hot-faced, mortified, felt the other thing turn over under the burn, the way it always turned over in her once the shame was lit, the wanting coming up hand in hand with the mortification and sharper for it. She was going to do it. She'd known it since the coat, maybe. She only needed walking past the part of her that would rather die.
+And Vee, hot-faced, mortified, felt the other thing turn over under the burn, as it always did once the shame was lit, the wanting coming up hand in hand with the mortification and sharper for it. She was going to do it. She'd known it since the coat, maybe. She only needed walking past the part of her that would rather die.
 
 Then she was up and reaching for her coat, the day's coat, ready to drive straight back out there and do it before the nerve went. Randi caught her wrist, laughing. "Absolutely not. Not like this."
 
@@ -90,7 +90,7 @@ Then she was up and reaching for her coat, the day's coat, ready to drive straig
 
 Vee wiped her face with the back of her wrist, steadier now, wanting suddenly to give something back into the warmth. "Tell me about your New Year," she said. "The real one. You sent me two lines and a chalet and left me dying all break."
 
-Randi waved it off the way she did. "Oh, it was a lot of white tie and a lot of rich people."
+Randi waved it off. "Oh, it was a lot of white tie and a lot of rich people."
 
 "No. I need to hear it."
 
@@ -112,6 +112,6 @@ And Randi, who could narrate anything, who had told Vee across a dozen tables ex
 
 Vee read the quiet as discretion, the one thing even Randi kept behind the door. "Are you going to see him again?" she said. "Randi. He sounds perfect."
 
-Randi came back up into her smile. "He was perfect. Truly. A masterpiece." A beat, a small tip of the hand. "Everywhere but the bedroom, and the bedroom's the room I actually live in. What's a girl to do." And Vee laughed, really laughed for the first time all day.
+Randi came back up into her smile. "He was perfect. Truly. A masterpiece." A beat, a tip of the hand. "Everywhere but the bedroom, and the bedroom's the room I actually live in. What's a girl to do." And Vee laughed, really laughed for the first time all day.
 
-They stood, and Randi pulled her in one more time, and this hug went as long as the first, both of them still frayed from their separate bad days, and when it broke Randi kissed her goodbye the way she did now, unremarkable, only what they did. Then Vee went down through the front hall and out into the cold with a plan sitting where the morning's wreckage had been, and drove to the dorm to sleep. Tonight she would shower, and dress, and be the thing. Tonight she would go to him.
+They stood, and Randi pulled her in one more time, and this hug went as long as the first, both of them still frayed from their separate bad days, and when it broke Randi kissed her goodbye, unremarkable now, only what they did. Then Vee went down through the front hall and out into the cold with a plan sitting where the morning's wreckage had been, and drove to the dorm to sleep. Tonight she would shower, and dress, and be the thing. Tonight she would go to him.
