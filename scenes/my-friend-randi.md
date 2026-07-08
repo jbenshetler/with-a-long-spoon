@@ -64,11 +64,15 @@ Vee was crying again, quieter, a different kind.
 
 "I want him back." Saying it plainly was its own small collapse. "I got a whole taste of my life without him over that break. More than anything. I want him back."
 
-"Then hear me. A man who cooks for you, wine poured before you're through the door, in a house he heated up just so you'd be comfortable, and dynamite in bed on top of it. I'm so jealous, gorgeous, I could scream." She said it warm and easy and it passed. "He was set up for a beautiful night and you blindsided him with a fight. You have to show him you don't want to fight. Give him a peace sign he can't misread."
+"Then hear me. A man who cooks for you, wine poured before you're through the door, in a house he heated up just so you'd be comfortable, and dynamite in bed on top of it. I'm so jealous I could scream." She said it warm and easy and it passed. "He was set up for a beautiful night and you blindsided him with a fight. You have to show him you don't want to fight. Give him a peace sign he can't misread."
 
 "How? After this morning, how do I even—"
 
-"You don't do it with words. Words are the whole war." Her voice dropped, certain, and Vee felt it settle over her like a thing being decided for her and by her at once. "You just show up already being the answer. You've got that good long coat." She stopped there, and let the rest hang in the room, and watched Vee find it.
+"You take this into your own hands. You don't do it with words. Words are the whole war." Her voice dropped, certain, and Vee felt it settle over her like a thing being decided for her and by her at once. "You've got that good long coat." A beat. She stopped there, and let the rest hang in the room, and waited for Vee to find it.
+
+"You mean…?"
+
+"You just show up already being the answer. You've got the goods, gorgeous girl, and Pace is not going to open his own door, see what you brought him, and say no."
 
 And Vee found it, and heard herself say it before she could stop it. "And nothing under it."
 
