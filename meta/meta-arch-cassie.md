@@ -45,6 +45,7 @@ The narrator **never verdicts this.** Cassie's opting-out is a *fourth fact,* no
 - **Sees Randi clearly** because she has no investment in Randi being what she presents as.
 - **Voices unease early, gets dismissed, becomes a marker the reader tracks.** (Chi Latte diptych, the register-wrong *"Goodbye, Vee"* — dismissed live with *"It's coffee, weirdo."* Statistics project (`outlier.md`): can't see the screen, delivers the true verdict blind — indicting Randi's father to Randi's face without knowing it (the true-Cassandra beat); Vee is the one who sees the name and stays silent. Late: *"You saw it and I didn't"* — she does NOT say *I told you so.*)
 - Rendered **almost entirely as effect-on-Vee and she-was-right** — **no standalone interiority.** If the reader starts growing curious about Cassie *for her own sake,* that is the **over-feed signal** — pull back.
+- **The structural drift (spring).** Her pre-nursing track (locked with the sciences) keeps her out of the spring **anthropology** elective Vee signs up for *with Randi* — so divergent majors, not any snub, peel her off Vee and hand Vee to the operator. Blameless and never narrated; she becomes the Cassandra who watches the drift from the dorm. Design: `meta-note-anthro.md`.
 
 ---
 
