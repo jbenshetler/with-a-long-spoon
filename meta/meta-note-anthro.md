@@ -25,6 +25,6 @@ Vee reads the theory without seeing she's the case. The concepts that rhyme hard
 - **Van Gennep / Turner — liminality, rites of passage.** The initiand stripped of status in the threshold phase. Her whole year; the blindfold is the liminal veil.
 - **Participant observation — the observer who is never neutral.** The ethnographer changes what she studies by joining it; Randi *participates* in Vee's life while steering it, Vee the unwitting informant. (Optional companion: "going native" — losing oneself in the culture one entered — for Vee absorbed into Pace's sealed world.)
 
-## Signup placement (open)
+## Signup placement (decided — Gesso)
 
-The signup can plant either **(a)** in `Among Friends` as a late add/drop discussed at the party — slightly awkward, since registration is normally late fall — or **(b)** in a yet-to-be-written **late-fall registration scene** (cleaner realism; seeds the binding *before* the winter break and the Christmas fight). Recommendation: settle the signup in the late-fall scene and let `Among Friends` merely reference it as established fact (they have anthro together this term). Author's call.
+The signup plants in **`Gesso`** (`meta-condensed-gesso.md`, ~mid-November — the SATC scene where Vee tells Randi about the wax), on the correct late-fall registration timing. **Vee invites Randi to sign up for spring anthropology with her,** placed **after the extraction and the masturbation, before the goodbye-kiss.** So the binding is seeded *before* the winter break and the Christmas fight, and `Among Friends` need only carry the class as established fact (they have anthro together this term). The invite is **Vee's** (she authors the trap); render it warm and offhand, the drift never named.
