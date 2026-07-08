@@ -61,7 +61,7 @@ Later that weekend, among her friends, **Pace** comes into her world in his **bo
 
 ## Threads & seeds
 
-- **Taste thread: carry nothing.** The Reach (the open loop) is the next gate and comes *after* this, later the same month. Foreground here is freighted; default is to host no gate. At most a single optional **Leak/Relish** passenger in the afterglow (his relish for her as the frame dissolves) — but the default is nothing.
+- **Taste thread — Vee's self-taste carries nothing; seed Pace's relish.** The Reach (Vee's open loop) is the next gate, *after* this, so no self-taste beat here. But **Pace's relish for her taste is seeded** at the doorstep oral (*as if he would die without the taste of her*) — the setup for Forbidden Kiss, where, having just refused her own, she wonders why he likes it.
 - **"Peter":** reached and failing at door one, not attempted at door two — the *demand* set down, not the hope. Keeps the name's powder dry; it costs and goes unanswered, as the vow requires. First use is *Rock* (~late Oct, warm, on the porch — `meta-note-rock.md`), so this reach is a **regression**, not the name's debut: she had the porch-name and it won't travel to the cold step.
 - **Territory / flannel:** the coat-and-jacket claiming continues the shirt-scenting and Top Drawer staircase (clothing as the proxy for the word).
 - **The vow:** Pace's non-declaration holds; this scene measures the silence without breaking it.
