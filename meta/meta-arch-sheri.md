@@ -51,6 +51,12 @@ This is **structurally opposite from Cassie's immunity:**
 
 ---
 
+## Sexuality — recently out, making up for lost time
+
+Out about a year (the coming-out that triggered the disowning; see Backstory). Because she never got an adolescence to be openly appreciative of women, she is **making up for lost time:** frank, warm, borderline-lecherous about women's bodies, exuberant and a little unpolished — still finding her way, and *pleased with her own boldness.* This is the *why* under her established habit of **remarking on women the way other people remark on the weather** (*"hell of a backside on her"*). It can go coarse (*"the one with the big tits"*) without curdling — the delight-in-saying-it is the safeguard, and the appreciation is warm, never predatory. On-thesis: the woman punished for her desire now owns it, unashamed. **Guard for `Another Round`:** keep it warm, never leering — Vee's proprietary brace dissolves *because* Sheri reads as safe; the appreciation testifies to disarmament, not threat.
+
+---
+
 ## Origin
 
 Friends from the **CW bar.** The thing that made the friendship possible was the **sexual disarming:** she could trust him to **dance with her and not hit on her.** Pace dances a lot and rarely dates from it — **the dancing is the point, not the prelude** — which is exactly the quality that let Sheri be near him safely. (For Pace, the CW bar is one of the few social formats that works neurologically: defined role, mapped interactions. Their friendship lives at the intersection of his two cost-free formats — dancing and, later, cycling.)
@@ -59,7 +65,7 @@ Friends from the **CW bar.** The thing that made the friendship possible was the
 
 ## Backstory — Surfaced Once, Never Dramatized
 
-**The *why* under her loyalty — author-knowledge that shapes rendering, and reaches the page exactly once.** It surfaces only when Sheri tells Vee over drinks in `Another Round` (Vee POV; `meta-condensed-another-round.md` · `meta-note-another-round.md`), and only ever in **Sheri's own dry, no-self-pity register**, the weight on Pace's constancy rather than her pain. No flashback, no self-dramatizing telling-scene; everywhere but that one recounting it stays the unspoken thing under how Pace's past-kindness and her present-loyalty render.
+**The *why* under her loyalty — author-knowledge that shapes rendering. The disowning *story* reaches the page exactly once.** It surfaces only when Sheri tells Vee over drinks in `Another Round` (Vee POV; `meta-condensed-another-round.md` · `meta-note-another-round.md`), and only ever in **Sheri's own dry, no-self-pity register**, the weight on Pace's constancy rather than her pain. No flashback, no self-dramatizing telling-scene; everywhere but that one recounting it stays the unspoken thing under how Pace's past-kindness and her present-loyalty render. **The bare *fact* of estrangement, though, may be glanced earlier as a plant** — e.g. `Cheeseburgers` (~late Dec), where Sheri mentions she isn't in contact with her family, framed in her no-self-pity register (*"me not talking to my people,"* never the cause) — which primes the Another Round telling to land as payoff rather than cold exposition. Plant the fact; reserve the story.
 
 Last year she came out. **Church friends, brother (Marine), father (retired Marine), and mother all disowned her** — every inherited bond withdrawing at once. Every relationship built to hold a person failed to hold her, simultaneously.
 
@@ -95,7 +101,7 @@ It lands **because the loyalty is earned:** the held temper finally aimed **outw
 
 - **Kinetic, never fragile.** The smallness is motion. No frailty register, no eating-issue read.
 - **Warmth lives in fierceness**, not pleasantness. She is not nice; she is loyal.
-- **Backstory surfaces once, never dramatized** — author-knowledge that shapes how Pace's past-kindness and her present-loyalty render; it reaches the page only in `Another Round`, recounted in Sheri's dry register (weight on Pace, no self-pity), and nowhere else as scene or telling.
+- **Disowning *story* surfaces once, never dramatized** — it reaches the page only in `Another Round`, recounted in Sheri's dry register (weight on Pace, no self-pity). The bare *fact* of estrangement may be glanced earlier as a plant (`Cheeseburgers`), never the cause.
 - **Not a second Cassandra** — Pace-specific perception, single-ping radar on Randi. Protect the asymmetry.
-- **The bike/dance formats are Pace's** — render the friendship through side-by-side movement (cycling, the dance floor), which loosens him into the overshare; a face-to-face confessional would read wrong for both of them and lose the leak.
+- **The cost-free formats are Pace's** — cycling, the dance floor, an easy diner booth: what loosens him into the overshare is the *ease of the format*, not the absence of eye contact. Side-by-side movement (bike/dance) and face-to-face over food (`Cheeseburgers`) both work; a *staged confessional* is what reads wrong. (The old "no-eye-contact spares him" rationale is retired — he is introvert-charismatic, not autistic.)
 - She is **secondary** — rendered through effect and function, not standalone interiority. (Less strict than Cassie's over-feed rule, but the same gravity: she exists to show who Pace is when the chivalric grammar simply works, and to pay the loyalty back at the end.)

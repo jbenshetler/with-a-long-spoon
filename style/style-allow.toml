@@ -690,6 +690,20 @@ text = "\"Same city, not high-school sweethearts, nothing that good."
 note = "Author-approved in Rock [AI] workshop: engine 'the way' simile, 'without asking' robe beat, 'city, not high-school sweethearts'."
 
 [[ok]]
+fp   = "6575b073d974"
+rule = "a-small"
+file = "scenes/sheri-cheeseburgers.md"
+text = "She was a small thing, five feet of her and every inch in motion even standing still — a round face gone a little sallow under makeup — too much of it, slightly off, and worn like she'd dare you to mention it."
+note = "Author-approved: 'a small thing' lead-in; vivid specifics follow immediately."
+
+[[ok]]
+fp   = "8271cfb578ca"
+rule = "whole-of"
+file = "scenes/sheri-cheeseburgers.md"
+text = "He'd been to California in November for a conference — Sheri had never been west of Knoxville and wanted the whole of it; Berkeley, he said, was a made-up place, people who agreed about everything and dressed like they didn't."
+note = "Author-approved: Sheri wanting the whole of the story — her frank register."
+
+[[ok]]
 fp   = "30cee1a108da"
 rule = "there-she-is"
 file = "scenes/still-life.md"
