@@ -26,7 +26,7 @@ A small pause while he turned the words over and got nothing different out of th
 
 "I want to know what we are." Her voice did not shake, which surprised her. "What am I to you?"
 
-"You're the most important thing in my life." He said it simply, with certainty.
+"You're the most important person in my life." He said it simply, with certainty.
 
 "But what am I?"
 
