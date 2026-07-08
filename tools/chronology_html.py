@@ -178,6 +178,8 @@ class Entry:
         # convenience
         self.status = None      # (cls, label)
         self.date = None        # dict or None
+        self.slug = None        # unique DOM id stem (assigned in build_html)
+        self.scene_md = None    # embedded scene prose (done scenes only)
 
     def finalize(self, unknown_log):
         for kind, val in self.segments:
@@ -344,13 +346,35 @@ def slugify(title: str) -> str:
     return s or "beat"
 
 
+# A scene's prose file is named in its metadata line — sometimes backticked
+# (`the-bench.md`), sometimes path-qualified (`scenes/first-night.md`), and
+# sometimes tucked inside the status ("**Draft complete:** `scenes/rock.md`").
+# Scan the raw line and take the first *.md that isn't a meta-* planning doc
+# (the [detail]/[craft] links point at meta-condensed-*/meta-note-* files).
+SCENE_MD_RE = re.compile(r"(?:scenes/)?([a-z0-9][a-z0-9-]*\.md)")
+
+
+def scene_filename(meta_raw: str):
+    for m in SCENE_MD_RE.finditer(meta_raw):
+        name = m.group(1)
+        if name.startswith("meta"):
+            continue
+        return name
+    return None
+
+
 def chip(label, cls="chip"):
     return f'<span class="{cls}">{html.escape(label)}</span>'
 
 
 def render_entry(e: Entry) -> str:
     sc = e.status["cls"]
-    parts = [f'<span class="badge badge-{sc}">{html.escape(e.status["label"])}</span>']
+    label = html.escape(e.status["label"])
+    if sc == "done" and e.scene_md:
+        parts = [f'<span class="badge badge-done openable" role="button" tabindex="0" '
+                 f'data-scene="{e.slug}" title="Read the scene">{label} ↗</span>']
+    else:
+        parts = [f'<span class="badge badge-{sc}">{label}</span>']
     parts.append(f'<span class="etype etype-{e.etype.lower()}">{e.etype.title()}</span>')
     if e.date:
         prec = e.date["precision"]
@@ -378,15 +402,27 @@ def render_entry(e: Entry) -> str:
             f'<div class="meta">{head}</div>{details}</article>')
 
 
-def build_html(entries, flags_raw, source_name):
+def build_html(entries, flags_raw, source_name, scene_dir=None):
     nodes, w, h, baseline, pad_l, plot_w, span = beeswarm(entries)
-    # stable, unique DOM ids so beeswarm dots can target their cards
+    # stable, unique DOM ids so beeswarm dots can target their cards; and, for
+    # drafted scenes, pull the prose file in so the reader can render it.
     seen_slugs = {}
     for e in entries:
         base = slugify(e.title)
         n = seen_slugs.get(base, 0) + 1
         seen_slugs[base] = n
         e.slug = base if n == 1 else f"{base}-{n}"
+        if e.status["cls"] == "done" and scene_dir is not None:
+            fn = scene_filename(e.meta_raw)
+            if fn and (scene_dir / fn).exists():
+                e.scene_md = (scene_dir / fn).read_text(encoding="utf-8")
+    # hidden raw-markdown sources the reader renders on demand; html.escape keeps
+    # arbitrary prose inert, and .textContent decodes it back verbatim in JS.
+    scene_srcs = "\n".join(
+        f'<div class="scenesrc" id="src-{e.slug}" '
+        f'data-title="{html.escape(e.title, quote=True)}" hidden>'
+        f'{html.escape(e.scene_md)}</div>'
+        for e in entries if e.scene_md)
     ticks = month_ticks(pad_l, plot_w, span)
 
     # beeswarm svg
@@ -439,7 +475,217 @@ def build_html(entries, flags_raw, source_name):
         flags=flags_html,
         flags_section=(f'<section class="flags"><h2>Continuity Flags</h2>{flags_html}</section>'
                        if flags_html else ""),
+        reader_css=READER_CSS, reader_html=READER_HTML, reader_js=READER_JS,
+        scene_srcs=scene_srcs,
     )
+
+
+# --- fullscreen scene reader (opened from a "Draft complete" badge) ---------
+# These three blocks are substituted into PAGE as *values*, so — unlike the
+# rest of PAGE — their braces are literal and need no doubling.
+READER_CSS = """
+  #reader { position:fixed; inset:0; z-index:50; background:var(--bg); color:var(--ink);
+    overflow-y:auto; overflow-x:hidden; scroll-behavior:smooth; }
+  #reader[hidden] { display:none; }
+  #reader-body { max-width:68ch; margin:0 auto; padding:88px 24px 40vh;
+    font-size:18px; line-height:1.75; }
+  #reader-body p { margin:0 0 1.15em; }
+  #reader-body h1 { font-size:26px; margin:0 0 .7em; }
+  #reader-body h2 { font-size:22px; margin:1.3em 0 .5em; }
+  #reader-body h3 { font-size:19px; margin:1.3em 0 .5em; color:var(--mut); }
+  #reader-body hr { border:none; border-top:1px solid var(--line); width:42%; margin:1.9em auto; }
+  #reader-body blockquote { margin:1em 0; padding:.2em 1em; border-left:3px solid var(--line); color:var(--mut); }
+  #reader-body em { font-style:italic; }  #reader-body strong { font-weight:700; }
+  #reader-body code { background:#222936; padding:1px 5px; border-radius:4px; font-size:.9em; }
+  #reader-body mark { background:#4a4522; color:inherit; border-radius:2px; }
+  #reader-body mark.cur { background:#f9a825; color:#111; }
+  @keyframes gotoflash { 0% { background:#3a4560; } 100% { background:transparent; } }
+  #reader-body .goto-flash { animation:gotoflash 1.2s ease-out; }
+  #reader-close { position:fixed; top:16px; left:16px; z-index:52; background:#5c6bc0; color:#fff;
+    border-radius:22px; padding:8px 15px; font-size:13px; font-weight:600; cursor:pointer;
+    box-shadow:0 3px 12px rgba(0,0,0,.5); }
+  #reader-close:hover { background:#6d7bd0; }
+  #reader-title { position:fixed; top:19px; left:50%; transform:translateX(-50%); z-index:51;
+    color:var(--mut); font-size:13px; pointer-events:none; max-width:56vw;
+    overflow:hidden; white-space:nowrap; text-overflow:ellipsis; }
+  #reader-cmd { position:fixed; bottom:0; left:0; right:0; z-index:52; display:none;
+    background:#000; color:var(--ink); font:14px/1.7 ui-monospace,Menlo,Consolas,monospace;
+    padding:6px 14px; border-top:1px solid var(--line); }
+  #reader-cmd.on { display:block; }
+  #reader-cmd-info { color:var(--mut); margin-left:14px; }
+  .badge.openable { cursor:pointer; }
+  .badge.openable:hover { filter:brightness(1.14); }"""
+
+READER_HTML = """
+<div id="reader" tabindex="-1" hidden aria-hidden="true">
+  <div id="reader-close" role="button" tabindex="0" title="Close (Esc)">&#10005; Close</div>
+  <div id="reader-title"></div>
+  <div id="reader-body"></div>
+  <div id="reader-cmd"><span id="reader-cmd-prefix"></span><span id="reader-cmd-buf"></span><span id="reader-cmd-info"></span></div>
+</div>"""
+
+READER_JS = r"""
+(function(){
+  var reader = document.getElementById('reader');
+  var body = document.getElementById('reader-body');
+  var titleEl = document.getElementById('reader-title');
+  var closeBtn = document.getElementById('reader-close');
+  var cmd = document.getElementById('reader-cmd');
+  var cmdPrefix = document.getElementById('reader-cmd-prefix');
+  var cmdBuf = document.getElementById('reader-cmd-buf');
+  var cmdInfo = document.getElementById('reader-cmd-info');
+  var savedScroll = 0, mode = 'normal', cmdType = '', buffer = '';
+  var marks = [], curMatch = -1, src = '';
+  var scrollMem = {}, curSlug = null;   // per-scene reading position, by slug
+
+  function escHtml(s){ return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
+  function inline(s){
+    s = escHtml(s);
+    s = s.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
+    s = s.replace(/(^|[^*])\*([^*]+)\*/g, '$1<em>$2</em>');
+    s = s.replace(/`([^`]+)`/g, '<code>$1</code>');
+    s = s.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2">$1</a>');
+    return s;
+  }
+  // Each non-blank source line becomes one block tagged with its 1-based line
+  // number, so ':N' lands where line N would in the .md file (blank lines are
+  // absent, so goto falls back to the nearest earlier line).
+  function renderMarkdown(text){
+    var lines = text.split('\n'), out = [];
+    for (var i=0; i<lines.length; i++){
+      var ln = i+1, t = lines[i].trim();
+      if (t === '') continue;
+      var h = t.match(/^(#{1,6})\s+(.*)$/);
+      if (h){ var lv=h[1].length; out.push('<h'+lv+' data-line="'+ln+'">'+inline(h[2])+'</h'+lv+'>'); continue; }
+      if (/^([-*_])\1\1+$/.test(t)){ out.push('<hr data-line="'+ln+'">'); continue; }
+      if (t.charAt(0) === '>'){ out.push('<blockquote data-line="'+ln+'">'+inline(t.replace(/^>\s?/,''))+'</blockquote>'); continue; }
+      out.push('<p data-line="'+ln+'">'+inline(t)+'</p>');
+    }
+    return out.join('\n');
+  }
+
+  function openReader(slug){
+    var el = document.getElementById('src-'+slug);
+    if (!el) return;
+    savedScroll = window.scrollY || window.pageYOffset || 0;
+    curSlug = slug;
+    src = el.textContent;
+    titleEl.textContent = el.getAttribute('data-title') || '';
+    body.innerHTML = renderMarkdown(src);
+    marks = []; curMatch = -1; buffer = ''; mode = 'normal'; hideCmd();
+    reader.hidden = false; reader.setAttribute('aria-hidden','false');
+    document.body.style.overflow = 'hidden';
+    // restore this scene's own last position (top the first time), instantly —
+    // no smooth animation across an unrelated prior scroll.
+    reader.style.scrollBehavior = 'auto';
+    reader.scrollTop = scrollMem[slug] || 0;
+    reader.style.scrollBehavior = '';
+    reader.focus();
+  }
+  function closeReader(){
+    if (curSlug !== null) scrollMem[curSlug] = reader.scrollTop;
+    reader.hidden = true; reader.setAttribute('aria-hidden','true');
+    document.body.style.overflow = '';
+    hideCmd(); mode = 'normal'; buffer = '';
+    window.scrollTo(0, savedScroll);
+    curSlug = null;
+  }
+
+  function showCmd(type){
+    mode = 'cmd'; cmdType = type; buffer = '';
+    cmdPrefix.textContent = type; cmdBuf.textContent = ''; cmdInfo.textContent = '';
+    cmd.classList.add('on');
+  }
+  function hideCmd(){ cmd.classList.remove('on'); if (mode === 'cmd') mode = 'normal'; }
+
+  function flashEl(el){ el.classList.remove('goto-flash'); void el.offsetWidth; el.classList.add('goto-flash'); }
+  function gotoLine(n){
+    if (!n || n < 1) return;
+    var els = body.querySelectorAll('[data-line]'), best = null, exact = null;
+    for (var i=0; i<els.length; i++){
+      var l = parseInt(els[i].getAttribute('data-line'), 10);
+      if (l === n){ exact = els[i]; break; }
+      if (l < n){ best = els[i]; } else { if (!best) best = els[i]; break; }
+    }
+    var target = exact || best;
+    if (target){ target.scrollIntoView({block:'center'}); flashEl(target); }
+  }
+
+  function search(q){
+    body.innerHTML = renderMarkdown(src);   // drop old marks
+    marks = []; curMatch = -1;
+    if (!q){ cmdInfo.textContent = ''; return; }
+    var ci = (q === q.toLowerCase());        // smartcase
+    var needle = ci ? q.toLowerCase() : q;
+    var walker = document.createTreeWalker(body, NodeFilter.SHOW_TEXT, null), nodes = [], node;
+    while ((node = walker.nextNode())) nodes.push(node);
+    for (var i=0; i<nodes.length; i++){
+      var tn = nodes[i], text = tn.nodeValue, hay = ci ? text.toLowerCase() : text;
+      var idx = hay.indexOf(needle);
+      if (idx === -1) continue;
+      var frag = document.createDocumentFragment(), pos = 0;
+      while (idx !== -1){
+        if (idx > pos) frag.appendChild(document.createTextNode(text.slice(pos, idx)));
+        var mk = document.createElement('mark');
+        mk.textContent = text.slice(idx, idx + q.length);
+        frag.appendChild(mk); marks.push(mk);
+        pos = idx + q.length; idx = hay.indexOf(needle, pos);
+      }
+      if (pos < text.length) frag.appendChild(document.createTextNode(text.slice(pos)));
+      tn.parentNode.replaceChild(frag, tn);
+    }
+    if (marks.length){ curMatch = 0; showCur(true); }
+    cmdInfo.textContent = marks.length ? (marks.length + ' matches') : 'no matches';
+  }
+  function showCur(scroll){
+    for (var i=0; i<marks.length; i++) marks[i].classList.toggle('cur', i === curMatch);
+    if (scroll && curMatch >= 0 && marks[curMatch]) marks[curMatch].scrollIntoView({block:'center'});
+  }
+  function nextMatch(dir){
+    if (!marks.length) return;
+    curMatch = (curMatch + dir + marks.length) % marks.length;
+    showCur(true);
+  }
+
+  document.addEventListener('keydown', function(e){
+    if (reader.hidden) return;
+    if (mode === 'cmd'){
+      if (e.key === 'Escape'){ e.preventDefault(); hideCmd(); return; }
+      if (e.key === 'Enter'){
+        e.preventDefault();
+        if (cmdType === ':') gotoLine(parseInt(buffer, 10));
+        hideCmd(); return;
+      }
+      if (e.key === 'Backspace'){
+        e.preventDefault();
+        buffer = buffer.slice(0, -1); cmdBuf.textContent = buffer;
+        if (cmdType === '/') search(buffer);
+        return;
+      }
+      if (e.key.length === 1 && !e.ctrlKey && !e.metaKey && !e.altKey){
+        if (cmdType === ':' && !/[0-9]/.test(e.key)){ e.preventDefault(); return; }
+        e.preventDefault();
+        buffer += e.key; cmdBuf.textContent = buffer;
+        if (cmdType === '/') search(buffer);
+        return;
+      }
+      return;
+    }
+    if (e.key === 'Escape'){ e.preventDefault(); closeReader(); return; }
+    if (e.key === ':'){ e.preventDefault(); showCmd(':'); return; }
+    if (e.key === '/'){ e.preventDefault(); showCmd('/'); return; }
+    if (e.key === 'n'){ e.preventDefault(); nextMatch(1); return; }
+    if (e.key === 'N'){ e.preventDefault(); nextMatch(-1); return; }
+  });
+
+  document.querySelectorAll('.badge.openable').forEach(function(b){
+    function open(){ openReader(b.getAttribute('data-scene')); }
+    b.addEventListener('click', open);
+    b.addEventListener('keydown', function(e){ if (e.key === 'Enter' || e.key === ' '){ e.preventDefault(); open(); } });
+  });
+  closeBtn.addEventListener('click', closeReader);
+  closeBtn.addEventListener('keydown', function(e){ if (e.key === 'Enter' || e.key === ' '){ e.preventDefault(); closeReader(); } });
+})();"""
 
 
 PAGE = """<!doctype html>
@@ -505,6 +751,7 @@ PAGE = """<!doctype html>
   .flagnum {{ flex:0 0 28px; height:28px; border-radius:50%; background:#2a313d; color:var(--ink);
     display:flex; align-items:center; justify-content:center; font-weight:700; font-size:13px; }}
   .flagbody p {{ margin:0 0 8px; }}  .flagbody p:last-child {{ margin:0; }}
+{reader_css}
 </style></head>
 <body>
 <header>
@@ -552,6 +799,9 @@ PAGE = """<!doctype html>
     if (lastDot) {{ lastDot.classList.remove('ping'); void lastDot.getBoundingClientRect(); lastDot.classList.add('ping'); }}
   }});
 </script>
+{reader_html}
+{scene_srcs}
+<script>{reader_js}</script>
 </body></html>"""
 
 
@@ -564,8 +814,13 @@ def main():
     src = Path(args.input)
     if not src.exists():
         sys.exit(f"input not found: {src}")
+    # scenes/ sits beside meta/ at the repo root; resolve it from the input's
+    # location so an absolute INPUT path still finds the prose, with a CWD fallback.
+    scene_dir = src.resolve().parent.parent / "scenes"
+    if not scene_dir.is_dir():
+        scene_dir = Path("scenes")
     entries, flags_raw = parse(src.read_text(encoding="utf-8"))
-    htmlout = build_html(entries, flags_raw, src.name)
+    htmlout = build_html(entries, flags_raw, src.name, scene_dir=scene_dir)
     Path(args.out).write_text(htmlout, encoding="utf-8")
 
     n_dated = sum(1 for e in entries if e.date)
@@ -580,6 +835,14 @@ def main():
     if undated:
         print(f"  undated, absent from the timeline ({len(undated)}): "
               + "; ".join(undated), file=sys.stderr)
+    # "Draft complete" but no prose embedded: the metadata line cites no scene
+    # file (or the file is missing), so the badge won't open a reader. Surface
+    # it so the chronology's file reference can be added.
+    no_prose = [e.title for e in entries
+                if e.status["cls"] == "done" and not e.scene_md]
+    if no_prose:
+        print(f"  draft-complete but no readable scene file ({len(no_prose)}): "
+              + "; ".join(no_prose), file=sys.stderr)
 
 
 if __name__ == "__main__":
