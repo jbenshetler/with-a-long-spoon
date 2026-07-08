@@ -88,7 +88,7 @@ She reached over, stole a fistful of his fries, and ate them.
 
 "You met her?"
 
-"Y'all came in dancing, I hugged you hello. She looked at me like I was one more of the girls who wanted what she had." A beat. "Never did learn my name. But I got to see her."
+"Y'all came in dancing, I hugged you hello. She looked at me like I was one more of your harem applicants." He saw the satisfaction in her face, her prepared quip landing just so. "Never did learn my name. But I got to see her."
 
 He didn't answer that, and she dropped it.
 
