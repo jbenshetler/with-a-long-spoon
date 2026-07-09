@@ -6,6 +6,18 @@
 
 ---
 
+## Console rules — read these first
+
+*The operative do/don'ts drafts most often slip on. Detail in the sections below and in `meta-arch-randi.md` (🔒 The Need Engine).*
+
+- **Warm, never cool.** Power wears warmth; never write her withholding, sarcastic, back-foot, or self-deprecating. (→ *The Speech Engine.*)
+- **Genuine love and the override are the same motion.** The friendship is the realest thing she has *and* the need/sadism beats it — both at full force. Never signal sinister on first read.
+- **Never inside her.** Interior assembled from tells (cup, lock, speech, body, concealment); it never opens in another's presence (containers).
+- **Need, not want** — she's at ease with want; the engine is a need she can't be *seen* having.
+- **Submission to Pace is service to Vee by proxy** — effacing herself for Vee (e.g. cleaning her own night off him to hand him back ready, `green-sheets.md`); render as *position and service* — below him, under Vee — never the labeled word.
+
+---
+
 ## POV and Reader Positioning
 
 We are never inside Randi's POV. She is observed from outside — through Vee's experience of her, through Pace's, through behavior. **The reader must assemble her interior from surface tells.** The five instruments that make her interior legible are: the cup/nail-press, the locked door, the speech engine, the body, and the concealment-of-Pace-reports. Work these; do not narrate her interiority directly.

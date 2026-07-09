@@ -60,7 +60,7 @@ Run `tools/novel-assistant/na.py reindex` once at the start — it's incremental
 ### Before writing any prose
 
 If the author asks for a draft, passage, or scene:
-1. Delegate the prep lookups to the `lore-keeper`, fanned out in parallel — each appearing character's relevant traits/knowledge, the setting, the scene's entry in the chronology and any track/notes, and the craft constraints in play.
+1. Delegate the prep lookups to the `lore-keeper`, fanned out in parallel — each appearing character's relevant traits/knowledge, the setting, the scene's entry in the chronology and any track/notes, and the craft constraints in play. **Surface the operative rendering rules, not just facts:** pull each POV character's **Console rules** from `meta-craft-<name>.md` (the do/don'ts most easily missed — e.g. Pace's play/teasing register, his charged-by-*willing*-not-cold, his catch-every-signal-assemble-none) and have the lore-keeper return them *as rules*. The craft docs are the *how-to-render*; the arch/thesis docs are the *why*. When unsure of tone, err toward the character's full range — Pace plays and teases; he is not only tender or intense.
 1a. Check the **running threads to seed** (registry in the Bible's Global Craft Rules) — does a cross-scene thread want a seed *in this scene*, and if so in what register? For any sex scene this includes the taste thread (`meta-note-taste-thread.md`). Most scenes seed nothing — the point is to *decide*, not to plant every time; a dutiful seed in every scene is itself a tell.
 2. Draft the prose, matching the established register.
 3. Check the draft against canon — delegate a continuity pass to the `lore-keeper` with the passage quoted.
