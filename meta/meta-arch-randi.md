@@ -71,7 +71,7 @@ So the operation is **sadism on Vee and masochism on herself in one gesture** â€
 
 **The volunteering keeps the bench singular.** She authors every rung, which makes each one hers and deniable â€” the opposite of the bench, where the need was drawn out of her unframed. She may beg again inside the disguise; she does not produce the begging-voice again. The bench stays the one time the wrapper was absent.
 
-*Entry rung: the dress-barb vignette (`meta-condensed-sweet-dress-barb.md`). High rung: the kneeling and the* sloppy seconds *line (`ignition-scalding.md`).*
+*Entry rung: `scenes/green-sheets.md` (spring; the fall dress-barb converted and grown into a full scene). High rung: the kneeling and the* sloppy seconds *line (`ignition-scalding.md`).*
 
 ---
 

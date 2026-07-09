@@ -1,6 +1,6 @@
 # Note — Green Sheets (Randi Takes Vee's Place)
 
-*Scene · **Converting the drafted `sweet-dress-barb.md`** (back half preserved, front & end newly drafted) · ~April (spring), the afternoon of the Secret Plans brunch retell · Pace's POV · Randi/Pace · **absorbs** the Randi→Pace "secret plans" joke from `meta-note-secret-plans.md`*
+*Scene · **Drafted end to end: `scenes/green-sheets.md`** (converted from the fall "Sweet" dress-barb; that scene retired) · ~April (spring), the afternoon of the Secret Plans brunch retell · Pace's POV · Randi/Pace · **absorbs** the Randi→Pace "secret plans" joke*
 
 Working title "Green Sheets" (slug `green-sheets`); alt "The White Sheets" (Randi's-rank framing). Naming open.
 
@@ -74,10 +74,7 @@ Cabin key (~late Feb) → Vee's first solo entrance (~early March) → **green-s
 
 ## To propagate / still open
 
-- **Convert, don't retire.** `scenes/sweet-dress-barb.md` → rename `scenes/green-sheets.md`, retitle, and perform the conversion map above. `meta-condensed-sweet-dress-barb.md` → delete or fold into this note.
-- **The Randi→Pace "secret plans" joke** in `meta-note-secret-plans.md` ("Downstream beats") is rehomed into this scene's afterglow; update that note when committing.
-- **Green-sheets gift scene** — NEW, needs its own entry/brief and a chronology slot (~March), before this scene.
-- **Chronology** — this scene's entry moves fall→spring (~April, Pace POV, Randi/Pace, new slug); reconcile with flag 16 (spring Randi–Pace blank — this fills much of it). Refresh `chronology.html`.
+- **PROPAGATED (done).** `sweet-dress-barb.md` and its condensed brief retired; chronology entry moved fall→spring as `green-sheets` (~April, Pace POV, Randi/Pace) and `chronology.html` refreshed; the Randi→Pace "secret plans" joke marked rehomed in `meta-note-secret-plans.md`; a **Green Sheets — The Gift** placeholder added to the chronology (~mid-March, unwritten, before this scene).
 - **OPEN — what the white sheets mean.** Canon says plain white = Pace's scent, "the source" Vee treasures (`first-night.md`) — so bedding Randi on white is not simply "scraps." (a) Randi gets the un-special bed while Vee owns the meaningful color; (b) Randi gets the authentic Pace-scent while Vee owns only the surface (darker, rhymes Pace/Peter). Author lean (a); canon complication pushes (b). Decide at draft — the sheets can't say both.
 - **OPEN — staircase floor.** With this scene at ~April and Ignition in summer (grab → collapse), decide whether a *lower* spring Randi–Pace rung is still wanted before it.
 - **RESOLVED — staging = ambush, green-wound via touch.** Randi in the green bed, wordless summons, substitution at the door; her green-encounter off-page; the wound surfaces via touch inside the comparison-fishing. **Afternoon** tryst (post-brunch; aligns with the draft's gold-afternoon light). Guard on the "call": a wordless summons Pace assumes is Vee — no vocal impersonation; he sees her on entry.

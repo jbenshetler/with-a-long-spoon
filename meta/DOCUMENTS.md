@@ -126,7 +126,7 @@ One file per non-trivial scene; the chronology entry links to it. To work on a s
 | `meta-condensed-dress-pickup.md` | Dress Pickup |
 | `meta-condensed-stats-simpsons-paradox.md` | Stats — Simpson's Paradox |
 | `meta-condensed-shoe-shopping.md` | Shoe Shopping with Randi |
-| `meta-condensed-sweet-dress-barb.md` | Randi & Pace — "Sweet" (The Dress Barb) |
+| `meta-note-green-sheets.md` | Green Sheets (Randi Takes Vee's Place) — spring Randi/Pace scene |
 | `meta-condensed-the-cw-dance.md` | The CW Dance |
 | `meta-condensed-cw-dance-debrief.md` | The CW-Dance Debrief |
 | `meta-condensed-the-first-swat.md` | The First Swat / The Setup |
