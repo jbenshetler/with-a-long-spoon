@@ -14,7 +14,7 @@ The shame occasion is the **failure to hold the pose.** Arranged as the cornucop
 
 Register: **playful going in, transgressive at the turn.** The fruit-painting is light — sensation-play, the fed fruit, the build kept from cresting; the turn to the mons in her own fluids is where it goes transgressive and psychologically intense. No longer the book's *lightest* beat (In His Hands now carries the fall warmth); this is a spring scene, post–Forbidden-Kiss, and it earns its dark by opening light.
 
-## Sequence: painting → the runaway → photo → sex
+## Sequence: painting → the runaway → photo → sex → afterglow
 
 Painted as fruit — a **grapevine** up the inner arm (wrist → armpit → side of breast), **cantaloupe** at the breasts, **cherries** at the mons; he traces each route with his mouth first, then the cool brush, and **feeds her the fruit he paints her as** (grape at the vine, melon at the breasts) so the build keeps breaking and she can't crest early. **No peach here** — the peach-as-her-body image originates at the cabin blazon and seeds forward to `meta-note-peaches.md` (the July apex); a plant here pre-spends it.
 
@@ -29,12 +29,17 @@ Still Life is the taste thread's **externalized wondering** rung, one step past 
 
 His painting-with-her-fluids is also a major **His-Relish** beat — his appetite for her taste, shown not named, which is what makes her wonder. (`meta-note-taste-thread.md`.)
 
+## The coinage — *adventure* (seed here)
+
+**This is where *adventure* is coined.** After the sex, in the afterglow — her head on his chest, both a paint-smeared wreck, the sheets bright — Vee, smiling: *"Well, that was an adventure,"* and the helpless, can't-breathe laughter. Hers, joyful, descriptive, born in laughter at the mess. **Pace present, so he hears it** — that's the point: he pockets the word and hands it back as the *invite* at the cabin a month later (`meta-note-cabin-weekend.md`), where it detonates at the threesome. It must **ride out unremarked** — never flagged as a code, never repeated with weight; she throws it away and the reader lets it go. The descent back into warm laughter after the transgressive gesso turn is the scene's *playful-in → transgressive-out → resolve-warm* shape completing.
+
 ## The photo — the escalation
 
 The photo she wants here is of her **nude, waxed, painted, transformed body** — to hand to Pace and, at Gesso, to show Randi. It is the **escalation** of the plain nude from *In His Hands* (which holds the earliest, best-disguised sole-channel seed): not just a sexy picture but a picture of what he has *made* of her, which she loves because it is how he sees her. The sole-channel deepens — she likes how she looks only through his eyes — running In His Hands → here → the cabin's "he becomes her eyes" → the bench → the threesome kiss (`meta-note-threesome-reveal.md`).
 
 ## Seeds forward
 
+- **"Adventure"** — coined here in the afterglow, joyful, hers, Pace present → first *invited* at the cabin (`meta-note-cabin-weekend.md`) → detonates at the threesome. Rides out unremarked; never named as a code.
 - **Taste thread** — the wondering rung; feeds Whiskey and Wine, preempts nothing (held: no ask, no contact, no taste).
 - **Sole-channel** — the photo escalates In His Hands' seed → cabin → bench → threesome kiss.
 - **Peach — deliberately NOT here** — originates at the cabin blazon, seeds forward to `meta-note-peaches.md`; a plant here pre-spends the July apex.
@@ -46,6 +51,7 @@ The photo she wants here is of her **nude, waxed, painted, transformed body** �
 - **Body before mind** on the can't-keep-still shame and the overflow — sensation and response first, never a narrated deduction.
 - **Cornucopia = her body**, not a calendar image — the abundance/overflow read, no harvest-table tie (the scene is late January now).
 - The overflow stays warm and dirty-gorgeous, never clinical, never solemn.
+- **"Adventure" rides out unremarked** — coined in the afterglow, thrown away in laughter; don't flag it, weight it, or let Pace echo it here. The pickup happens later, at the cabin.
 
 ## Cross-refs
 
