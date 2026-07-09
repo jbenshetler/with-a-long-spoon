@@ -1,10 +1,10 @@
 # Note — Water Wings (Vee's body in the world; the desirability anchor)
 
-*Scene · Architecture complete, prose not drafted · early fall, ~late Sep (after May I Choose, before the Fitting) · Vee POV · Vee + Cassie · companion to `meta-condensed-water-wings.md` · anchors the desirability thread (`meta-note-desirability-thread.md`)*
+*Scene · Architecture complete, prose not drafted · early fall, just after the Froyo Walk (before May I Choose) · Vee POV · Vee + Cassie · companion to `meta-condensed-water-wings.md` · anchors the desirability thread (`meta-note-desirability-thread.md`)*
 
 ## What this scene is
 
-A warm Vee-and-Cassie afternoon at the university pool that does three jobs at once, none of them announced: it establishes a **non-mother source** for Vee's sense that her body is "too much"; it plants the **involuntary, objective anchor** of the desirability thread (third parties want her while she's doing nothing to invite it); and it primes the Fitting (~two weeks later), where Pace looks and *doesn't* leer — the payoff to the wound planted here.
+A warm Vee-and-Cassie afternoon at the university pool that does three jobs at once, none of them announced: it establishes a **non-mother source** for Vee's sense that her body is "too much"; it plants the **involuntary, objective anchor** of the desirability thread (third parties want her while she's doing nothing to invite it); and it primes the Fitting (a few weeks on), where Pace looks and *doesn't* leer — the payoff to the wound planted here.
 
 Pace is not in it, and barely in her head — she's only just met him. Randi isn't in it either. This is the one early scene with **no erotic-plot stake in the room** — pure neutral third parties plus the one friend who has no agenda — which is exactly why it can prove, objectively, that Vee is desirable.
 
