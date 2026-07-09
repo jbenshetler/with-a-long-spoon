@@ -117,6 +117,8 @@ Petite (5'2"), built to the "proper" scale she maintains and grades other women 
 
 ## The SATC Scenes
 
+*Building the extractive questions — the ambiguous, deniable probes (*"Sticky fingers?"*, *"Cold?"*): → `meta-plan-satc-tracks.md`, **Building the ambiguous probe.***
+
 The sadism is **present from the start, not discovered.** Do not stage it as an arc of escalating recognition. Stage Randi as a woman operating on a wound she does not fully look at, with the operation already at adult resolution. The first lunch is where (b) ignites live — render the keyed-up anticipation under the warmth, the nervousness burning off as she finds her footing in her game.
 
 **The genuine like is real.** Render her actually enjoying the lunches, actually liking Vee, actually preferring Vee's company to anyone else's. The sadism and the love coexist. Show both.

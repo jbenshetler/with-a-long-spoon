@@ -247,6 +247,17 @@ The memory Vee is editing is *arousing because shameful*. Approaching the omitte
 
 Where Cassie receives Vee's agency (*I made a move*), Randi extracts the same fact as a **confession of helpless wanting** (*I couldn't help myself; I was the animal in the room*). Randi takes Vee's proud moment and reframes it from agency to exposure-of-appetite. Vee, in the charge, AGREES to the reframe — maybe prefers it. This is the well-poisoning: Randi gets a foothold inside Vee's experience and recategorizes it, so the reframe can later intrude on Vee's own memory. **Deliver every reframe as intimacy/understanding on the surface; the harm is reread-only.**
 
+### Building the ambiguous probe (how to write one)
+
+The devastating questions (*"Cold?"*, *"His hand was wet."*, *"Sticky fingers?"*) all run one engine: **a deniable double-bind.** The innocent reading is *fully* available, so Vee can't object without being the one who made it dirty — she's forced to answer the sexual reading while both hold the innocent frame. The ambiguity makes *Vee* supply the meaning; she convicts herself, and Randi stays deniable *and* warm. Build one:
+
+1. **Anchor it to something real and present — ideally a detail Vee just supplied.** *"Cold?"* rides Vee's own "it was cold"; *"His hand was wet"* rides her "he was doing dishes"; *"Sticky fingers?"* rides an actual pastry (the pastry tilt). The innocent reading must be load-bearing, not a fig leaf — that's what disarms the objection.
+2. **A short question, never a statement, never a gotcha** (see the *"Cold?"* rule below): the bare questioning word coded as collusion. The question mark hands Vee the job of hearing the meaning; the brevity is the deniability. *Not* "you touched yourself, didn't you."
+3. **Aim at the seam Vee thought she'd sealed** — the omitted part of the retell. The probe strips the non-sexual alibi and leaves the involuntary reaction standing as witnessed appetite.
+4. **Warm, delighted surface, complete** (the both-tests rule) — never chilly or knowing *on the page*; the cold is reread-only.
+
+On the page, frame the probe as the *smallest* part: anchor present → probe dropped light → Randi lets it sit (the tilt, the *"Hmm"*) → **Vee's body answers first** (flush, stillness, she *re-lives* it — never deduces) → her alibi is stripped (naming the tell is the next turn of the screw) → Randi's warmth holds and rewards. Let both readings stand; never gloss the double meaning.
+
 -----
 
 ## THE SATC CYCLE: TRANSGRESSION → REWARD → NEXT (and its rot)
