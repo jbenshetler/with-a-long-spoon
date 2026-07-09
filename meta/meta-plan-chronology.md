@@ -453,7 +453,7 @@ Vee tells Cassie everything — the telling forced by Pace and Randi vanishing t
 
 ## Continuity Flags
 
-1. **The Fitting is a daytime visit, not an overnight stay.** It is her third time at the house but she does not stay the night (the deferment carries her out the door). This keeps the First Swat clean as her first post-sex house visit.
+1. **The Fitting is a daytime visit, not an overnight stay.** ✓ **Resolved (author):** it happens during the day and she does not stay over. It is her third time at the house but she does not stay the night (the deferment carries her out the door). This keeps the First Swat clean as her first post-sex overnight. Current prose already reads clean — no edit needed.
 
 2. **The try-on.** Folded into Dress Pickup: she initiates, he proceeds, tender. The First Swat remains the first edged beat.
 
