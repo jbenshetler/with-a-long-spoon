@@ -6,11 +6,11 @@ He went and stripped the bed. The white was his and Randi's — the dry citrus s
 
 The second text came past two, the wine already breathing on the side table: *don't come out when you hear me. stay put, wherever you are. wait till I call — I've got a surprise.* He went back into his office and shut the door, intrigued by Vee's initiative, and did as he was told, and found he liked being told.
 
-The wind was up, the way it got this time of year. He never heard the engine, only the tires on the gravel. He was half out of his chair before he remembered, and made himself sit. The front door. Then the bolt, home behind her. He grinned — the drama of it, whatever she'd planned that wanted them locked in.
+The wind was up, as it got this time of year. He never heard the engine, only the tires on the gravel. He was half out of his chair before he remembered, and made himself sit. The front door. Then the bolt, home behind her. He grinned — the drama of it, whatever she'd planned that wanted them locked in.
 
 He didn't hear Vee's heels. That creased his brow. Vee's legs were special on their own, heart-stopping in heels. But the heater breathed in the vents, and under it there was nothing at all, and he took it for her — barefoot, quiet for him, part of the surprise.
 
-He waited for her to call his name. She didn't. What came instead was loud and flat and three times over — the long rail of the bed, the board he'd planed himself, struck and ringing like a drum. He heard her summons and answered without hesitation.
+He waited for her to call his name. She didn't. What came instead was loud and flat and three times over — the long rail of the bed, the board he'd planed himself, struck and ringing like a drum. He answered her summons without hesitation.
 
 Left out of the office it was a short hall to the bedroom. He put his hand to the door and pushed it open. On the green bed, where he'd made it for lush peach and red, was sleek pale and black. It was not Vee. It was Randi, and she was grinning.
 
@@ -28,11 +28,11 @@ He read the rest — the part she'd never say. The pressing, the pose, the walki
 
 He understood, then, how the hour would go, and that he'd give her every bit of what she'd come for.
 
-He didn't kiss her. He always kissed Randi first — eased her in slow, mouth and hands, until she went easy and open — and he did not do that now. There wasn't the hour for it, and it wasn't what this was. He went to the closet and drew the box out from under the bottom shelf where it lived, and heard her breath change behind him when she saw it.
+He didn't kiss her. He always kissed Randi first — eased her in slow, mouth and hands, until she went easy and open — and he did not do that now. There wasn't the hour for it, and it wasn't what this was. He went to the closet and drew the box out from under the bottom shelf where it lived. Behind him, her breath changed.
 
-"Word," he said, not turning.
+"Word," he said, without turning.
 
-"Red." She gave it up at once, steady, almost bored, the way you hand over a thing you have no intention of needing.
+"Red." She gave it up at once, steady, almost bored — handed it over like a thing she had no intention of needing.
 
 The cuffs were soft black microsuede, and he buckled them around her wrists behind her back and left the nylon strap between them long — long enough that when he laid her down on the green her arms could rest at her sides, no strain in the shoulders, held but at rest.
 
@@ -80,7 +80,7 @@ He gave her a moment, and looked past her at the clock on the shelf. Half the ho
 
 Then she was moving. Wrecked as she was — clamp-sore, just come, the marks of him all over her — she got a hand flat to his chest and pushed, and he let her. He went back onto the green and let her climb over him, her knees bracketing his hips, her hands on his chest, the close private concentration coming back into her face now that something in the room was hers again. He kept his hands at her hips and let her set it. After an hour of being moved and marked and made to, she took the one thing back he'd let her take — and he let her take it.
 
-She moved on him slow, watching his face. He brought his hands up and held her breasts, and the nipples he'd tortured — swollen, tender, still lit from the clamps — rubbed against his palms as she moved. And he felt the thing rising in her before she said it.
+She moved on him slow, watching his face. He brought his hands up and held her breasts, and the nipples he'd tortured — swollen, tender, still lit from the clamps — rubbed against his palms as she moved. And the thing rising in her showed before she said it.
 
 "How good is it," she said. "With Vee." Light, conversational, her hips not breaking their rhythm. "It's good. I know it is. Tell me how good."
 
@@ -90,7 +90,7 @@ The sound she made was not a laugh and was close to one. She bent low and dragge
 
 "That's not an answer." Her voice had dropped. "Is she better. Tell me she's better than me."
 
-He read her the way he read everyone, in the body and the present tense — the heat climbing in her as she pressed at the sore place herself, the flush going down her throat, her breath gone short and high. He understood what she was asking for, and that the asking was already the having. He gathered the hair off her face, held it at the back of her skull, and drew her down close.
+He read her as he read everyone, in the body and the present tense — the heat climbing in her as she pressed at the sore place herself, the flush going down her throat, her breath gone short and high. He understood what she was asking for, and that the asking was already the having. He gathered the hair off her face, held it at the back of her skull, and drew her down close.
 
 "She's perfect," he said, low, against her mouth. "For your first woman."
 
@@ -104,7 +104,7 @@ Whatever the hour had wrung loose came out of her now with nothing over it, and 
 
 He wrapped his arms around her, small and still shaking, and gave her the one thing he did have: the weight of him, the warmth, his hands flat and slow on her back, calming her, moving up and down until it wore itself out. Over her shoulder the clock kept going. He held her anyway, for as long as the hour would let him.
 
-The hour came back to him a piece at a time, the way the world always did after — where he was, what time it was, who was driving toward the door. His wits came back and his alarm came with them. He got a hand under her shoulder and began to lift her off him, gentle but no longer slow. "You have to go," he said. "She'll be here soon. Get dressed—"
+The hour came back to him a piece at a time, as the world always did after — where he was, what time it was, who was driving toward the door. His wits came back and his alarm came with them. He got a hand under her shoulder and began to lift her off him, gentle but no longer slow. "You have to go," he said. "She'll be here soon. Get dressed—"
 
 Randi laughed. It came up out of the last of the crying, wet and then not, and she raised her head off his neck and looked at him, her face still wrecked and something bright rising back up under the wreck of it. "She's not coming."
 
@@ -122,7 +122,7 @@ A beat.
 
 "I have secrets of my own." And the grin again.
 
-He heard the charm in it — his two girls, best friends, pink over mimosas, turning the thing he'd made for Vee in private over between them, talking about what his hands had done. It moved in him before he'd decided anything, the blood coming back, and she felt it come back and her eyes went bright.
+It charmed him — his two girls, best friends, pink over mimosas, turning the thing he'd made for Vee in private over between them, talking about what his hands had done. It moved in him before he'd decided anything, the blood coming back, and her eyes went bright.
 
 She was herself again now, all the way — the strings back in her own two hands. She reached down between them and took hold of him, warm and unhurried, nothing of the last hour in it, no sting, no box from the closet, just the two of them and the long afternoon she'd made certain they'd have.
 
@@ -138,7 +138,7 @@ He woke to the phone. The room was full of morning, the green gone gray-gold wit
 
 Beside him Randi listened, sleepy, and a smile came up on her face soft and almost tender — and then it woke the rest of the way and turned, and she slid down under the green and took him in her mouth.
 
-At first he thought she was reliving it — going back over last night with her mouth, the taste of the two of them and everything they'd done, trying to catch the intensity of it again and keep it. Then he felt the method in it. Thorough, complete, her mouth working over every part of him not to draw the night out but to take it off — every trace, until there was nothing of last night left on him at all. She wasn't keeping it. She was below him, wiping her own night off him with her mouth, cleaning herself away trace by trace, making him over into something clean and ready for Vee's use — putting herself under the other girl, handing him back to her washed of everything that was Randi's. He felt what it was, and it went through him, and he twitched in her mouth, and she felt that, and did not hurry.
+At first he thought she was reliving it — going back over last night with her mouth, the taste of the two of them and everything they'd done, trying to catch the intensity of it again and keep it. Then the method showed. Thorough, complete, her mouth working over every part of him not to draw the night out but to take it off — every trace, until there was nothing of last night left on him at all. She wasn't keeping it. She was below him, wiping her own night off him with her mouth, cleaning herself away trace by trace, making him over into something clean and ready for Vee's use — putting herself under the other girl, handing him back to her washed of everything that was Randi's. And it went through him — her under him, cleaning herself off for the other girl — and he twitched in her mouth, and she did not hurry.
 
 "It's all right," he said.
 
