@@ -6,6 +6,19 @@
 
 ---
 
+## Console rules — read these first
+
+*The operative do/don'ts drafts most often slip on. Detail in the sections below and in `meta-arch-vivienne.md`.*
+
+- **Body before mind, always.** Render the response, *then* the cognition — never a forensic deduction ("I could tell from the smaller hands…"). The body knows first; the thought arrives after, if at all.
+- **Shame is the engine, and teasing fires it.** Almost every sex scene runs on shame — her body announcing its wanting without her leave (wet, hard, flushed). *What* she's ashamed of is constant; the *occasion* must change (never re-light the last at the same heat). **Sexual teasing is erotic for her:** teased about the involuntary tell, the shame spikes and the shame *is* the arousal — Pace's play (→ `meta-craft-pace.md`) fires her engine precisely because it's affectionate.
+- **Under pressure her voice regresses *down*, never up.** Smaller words, younger syntax — never sharper or more articulate (articulate is Pace's register, never her defense). Most articulate = safest; plainest = most threatened.
+- **Reader is *with* her and *ahead* of her.** Inhabit her (no safe distance); she has a cultural explanation ready (*"sorority thing"*) and the reader doesn't. Never let the prose imply she should have refused the year.
+- **Seen (Pace) vs. chosen/cool (Randi) — never blur.** Pace makes her feel *seen/known*; Randi makes her feel *recognized/picked*. Keep the two vocabularies apart.
+- **Lush and curvy, never heavy or plain.** The oversized clothes are budget-and-fit, not size; she has a real eye. The plain/anti-curation read is Cassie's, not Vee's.
+
+---
+
 ## POV and Reader Identification
 
 The reader inhabits her. Her interior should be felt *with* her, not observed from outside. Architecture is honored; moment-to-moment emotional weather is discovered in scene. Never let a scene place Vee at a distance the reader can feel safe from — her hunger is the one most reflective readers carry; the recognition is part of what the novel installs.
@@ -58,7 +71,7 @@ When any scene touches Vee's involuntary responses, it is touching the live wire
 
 ## The Arousal–Humiliation Loop
 
-Central. Render it whenever Vee's body is in play. **Pace defuses the humiliation step; Randi amplifies it.** Both produce intense arousal because both engage her core mechanism — in opposite directions. She does not perceive the coordination. *(Key instances: `the-fitting.md` for the secretions reframe; `brunch-fitting-randi.md` for Randi's extraction of that same material.)*
+Central. Render it whenever Vee's body is in play. **Pace defuses the humiliation step; Randi amplifies it.** Both produce intense arousal because both engage her core mechanism — in opposite directions. She does not perceive the coordination. One of Pace's primary instruments here is **affectionate teasing** (→ `meta-craft-pace.md`, *Play, teasing, and humor*): naming the involuntary tell spikes the shame and his fondness converts it — the spike and the defuse in one gesture. It is erotic *because* it is kind; cross into mockery and it stops working. *(Key instances: `the-fitting.md` for the secretions reframe; `brunch-fitting-randi.md` for Randi's extraction of that same material.)*
 
 ---
 
