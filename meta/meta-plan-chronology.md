@@ -263,7 +263,7 @@ She balks at the lifts (*too heavy*); he offers and waits at the consent line. A
 The dance as the funny story. Then the jar — what his invisible chosen gentleness did to her. Voice changes mid-telling. Randi files the cruelest datum: tenderness/restraint is the load-bearing wall of what Vee feels. Off-page consequence (never marked in text): this is the witnessed-aliveness scene that detonates the drawer's first visit — Flat Date (both flames or no fire; nothing outside the configuration) → the Jar (Vee thriving openly on the exposure Randi can only endure — envy-of-capacity, the water-glass nerve, at full amperage) → the taking, on a weekday in the following weeks. The fuse is visible only on reread.
 
 ### [SCENE] On Top
-*~February · before Restrained* · Unwritten · Vee POV · [craft](meta-note-on-top.md)
+*~February · before Restrained* · Unwritten · Vee POV · [detail](meta-condensed-on-top.md) · [craft](meta-note-on-top.md)
 The first time Pace *physically* edges Vee — distinct from the SATC brunches (Randi edged by Vee, conversationally) and from *Vee on the Bench*'s equipment-edging (~late May), which this introduces and *Vee on the Bench* later runs to apex. Light, playful register: she's astride him, and as she nears the edge he simply brings his thighs together to delay her, again and again. Vee discovers she both likes and hates it. Fresh indignity is **agency-shame** — her wanting becomes her own active motion; she buys each denial by grinding for it (different from *Vee on the Bench*'s involuntary-announcement shame, so it doesn't pre-spend it). Taste thread: default carry-nothing (no oral foreground).
 
 ### [SCENE] Restrained

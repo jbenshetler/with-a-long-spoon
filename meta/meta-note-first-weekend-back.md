@@ -18,7 +18,7 @@ The first installment of the book's bargain, enacted in miniature. After the Chr
 
 **Guard the staircase (load-bearing — see Strategic).** The deeper death — aliveness over **grounding**, the grounded love getting its verdict — belongs to the **Cabin Weekend**, where Pace's maximum (the key) proves the ceiling and the death lands *reader-side* while Vee inflates joyful. First Weekend Back must **not** poach it: leave her hope and love fully alive here so the cabin has something to kill.
 
-Erotically this is **not a new riser** — every new threshold for the next two months is reserved (The Reach, Restrained, Edging, the Cabin Weekend's watched exposure, Secret Plans' authored fantasy). The escalation here is a new **kind** of heat (reunion-ferocity: starved, raw) inside acts already crossed, plus a fresh **shame occasion** (premeditated, volunteered exposure). The reconciliation is the **ignition** that re-charges the appetite; the kink escalation discharges *up the spring staircase*, harder because the breach underneath never closed.
+Erotically this is **not a new riser** — every new threshold for the next two months is reserved (The Reach, On Top, Restrained, the Cabin Weekend's watched exposure, Secret Plans' authored fantasy). The escalation here is a new **kind** of heat (reunion-ferocity: starved, raw) inside acts already crossed, plus a fresh **shame occasion** (premeditated, volunteered exposure). The reconciliation is the **ignition** that re-charges the appetite; the kink escalation discharges *up the spring staircase*, harder because the breach underneath never closed.
 
 ## The two attempts (the structure carries the surrender)
 

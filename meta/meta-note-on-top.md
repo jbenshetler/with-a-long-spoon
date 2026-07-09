@@ -1,6 +1,6 @@
 # Note — On Top
 
-*Scene · Unwritten · spring slot unresolved · Vee POV · formerly the Edging placeholder*
+*Scene · Unwritten · placed before `Restrained` (~February) · Vee POV · formerly the Edging placeholder*
 
 Workshop-committed title: **On Top**. The title carries the scene's double register: Vee is literally on top and appears to have the advantage; Pace controls the erotic architecture from underneath. The joke should stay sexy, not thesis-y.
 
@@ -167,12 +167,12 @@ Progression if placed there:
 2. `Restrained` — the question of what she can do with her hands/body is removed, and the loss of management becomes restful.
 3. `Vee on the Bench` — delayed pleasure becomes formalized, multiplied, and architecturally load-bearing.
 
-This is not yet hard-locked in chronology. If the scene remains after Cabin/Another Round, preserve the same register and check Permission Rule interactions.
+Now locked in chronology: `On Top` sits immediately before `Restrained` (~February), ahead of the Cabin. The slot is pre-cabin, so the Permission Rule is not yet in force (no rule interaction to check); preserve the playful register.
 
 -----
 
 ## To propagate / still open
 
-- Rename the old chronology placeholder `Edging` to `On Top` once placement is decided.
-- Decide whether `On Top` moves before `Restrained` in the authoritative chronology or remains in its current spring slot.
-- Add or update a condensed scene brief if/when the chronology placement is locked.
+- Rename the old chronology placeholder `Edging` to `On Top` — **done**; the chronology entry is now `### [SCENE] On Top`.
+- Placement **decided**: `On Top` sits immediately before `Restrained` (~February) — the note's preferred slot.
+- Condensed brief **done** (`meta-condensed-on-top.md`), linked from the chronology entry (`[detail]`).
