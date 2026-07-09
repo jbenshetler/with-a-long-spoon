@@ -32,7 +32,7 @@ Doesn’t know it’s a plan, doesn’t know it’s a domino. Consents to a thre
 
 ### The cabin weekend (the pivot — the answer to the fight)
 
-A quiet peak before the threesome pressure begins — the relationship at fullest flower. Pace’s answer to the Thanksgiving/Christmas fight, on his own terms (he can’t answer the mother’s question verbally; the weekend is the answer): **a key to his house**, in a handmade oiled-wood box. The transgression is the **watched masturbation** — she’s made the agent of her own exposure — and the **Permission Rule installs** here (tell, not ask; the loophole later routes Randi’s gaze into her solitude). The “adventure” code-word — coined earlier at Still Life (Vee’s joyful throwaway) — gets its **first use as an invite** here (Pace points it forward as a consent-gateway). Full design: `meta-note-cabin-weekend.md`. Placement: after the friends dinner and after bondage/clamps have run.
+A quiet peak before the threesome pressure begins — the relationship at fullest flower. Pace’s answer to the Thanksgiving/Christmas fight, on his own terms (he can’t answer the mother’s question verbally; the weekend is the answer): **a key to his house**, in a handmade oiled-wood box. The transgression is the **watched masturbation** — she’s made the agent of her own exposure — and the **Permission Rule installs** here (tell, not ask; the loophole later routes Randi’s gaze into her solitude). The “adventure” code-word — coined earlier at Nothing Underneath (Vee’s joyful throwaway) — gets its **first use as an invite** here (Pace points it forward as a consent-gateway). Full design: `meta-note-cabin-weekend.md`. Placement: after the friends dinner and after bondage/clamps have run.
 
 ### First Taste (the self-taste gate falls)
 

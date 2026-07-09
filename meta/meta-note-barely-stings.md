@@ -48,7 +48,7 @@ After the tech leaves, alone, Vee **touches her newly bare skin, loves the smoot
 - **Three hands resolve the grip.** Her body passes through the **cold stranger's** hand (the *wrong* one, that wanted nothing) → **her own** hand on the new smoothness → the imagined **his** (the hand that will touch her *because it wants to*). The wrong-hand ache is answered, privately, by her own hand and the promise of his.
 - **Cost becomes gift.** Everything before was given into his absence — submission with no one to receive it. Here the offering is **readied:** the cold price turns into warm anticipation she carries straight into *Still Life,* where he receives it and treasures her. Cold ordeal → private pivot → warm treasuring.
 - **Order holds; and the report is pleasure this time.** The **smooth under her own fingertips first** (sensation, warm now, not shame); *then* the thought of what he'll feel (mind). Body before mind, one last time, the body's report flipped.
-- **Sole-channel *whisper,* not a plant.** *Imagining what Pace will feel* faintly pre-echoes the sole-channel motif (her body known through him) — but *Still Life*'s photo (*she only likes how she looks through his eyes*) is the **marked** seed. Keep the coda a whisper so it pre-echoes without stealing Still Life's claim to earliest.
+- **Sole-channel *whisper,* not a plant.** *Imagining what Pace will feel* faintly touches the sole-channel motif (her body known through him) — but keep it a whisper: the **marked, earliest** seed is *In His Hands*' photo (`meta-note-in-his-hands.md`), and *Still Life*'s photo is its escalation; the coda only glances at what they carry.
 
 ## The keep-still diptych with Still Life
 

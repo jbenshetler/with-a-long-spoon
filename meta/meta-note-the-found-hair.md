@@ -1,6 +1,6 @@
 # Notes — The Found Hair (spring trace)
 
-*A cross-scene thread: a single trace of another woman in Pace's house, found and waved off by Vee in the spring. Planted in `meta-note-still-life.md` (Sheri named as the safe woman); paid off — bookended — at the threesome reveal. This note owns the beat and its guards; the scrunchie campaign it complements lives in `meta-plan-scrunchie-gaslight.md` and chronology flag 3.*
+*A cross-scene thread: a single trace of another woman in Pace's house, found and waved off by Vee in the spring. Planted in `meta-note-in-his-hands.md` (Sheri named as the safe woman); paid off — bookended — at the threesome reveal. This note owns the beat and its guards; the scrunchie campaign it complements lives in `meta-plan-scrunchie-gaslight.md` and chronology flag 3.*
 
 ---
 
@@ -43,7 +43,7 @@ The reveal's locked confirmation image is *Randi's normally sleek hair wild, bar
 
 ## Cross-refs
 
-- `meta-note-still-life.md` — where Sheri is named (the plant).
+- `meta-note-in-his-hands.md` — where Sheri is named (the plant).
 - `meta-note-another-round.md` — where Sheri becomes the vivid, disarmed absorber.
 - `meta-plan-scrunchie-gaslight.md`, chronology flag 3 — the campaign this complements (inward discipline; the no-absorber route).
 - `meta-note-threesome-reveal.md` — the hair-in-scrunchies payoff.
