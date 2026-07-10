@@ -2,11 +2,11 @@
 
 *Scene (triptych) · Draft complete · `under-the-rug.md` · date owned by chronology · Pace/Vee · Vee POV (close third) throughout*
 
-A diptych-grown-triptych across three rooms — bedroom, restaurant, bedroom — in which a displaced fight is dissolved on the surface and the real thing is buried deeper. The proxy gets resolved (warmly, even); that false resolution is the point. Sets up His Shirt — Pre-Dawn (the failed release is why the shapelessness then goes unbearable) and the Christmas Fight.
+A diptych-grown-triptych across three rooms — bedroom, restaurant, bedroom — in which a displaced fight is dissolved on the surface and the real thing is buried deeper. The proxy gets resolved (warmly, even); that false resolution is the point. Sets up His Shirt — Pre-Dawn (the failed release is why the shapelessness then goes unbearable) and Believe Me.
 
 ## The engine
 
-Vee is the happiest she's ever been, and the happiness wants a name — the three words his vow forbids (he says it first; he hasn't). The real thing is never spoken in this unit; it only ghosts. Three displacements of the same want across the arc: **this ("just sex," furthest from the real thing) → His Shirt (wordless, alone) → Christmas Fight ("what are you to me," closest, still mismatched).**
+Vee is the happiest she's ever been, and the happiness wants a name — the three words his vow forbids (he says it first; he hasn't). The real thing is never spoken in this unit; it only ghosts. Three displacements of the same want across the arc: **this ("just sex," furthest from the real thing) → His Shirt (wordless, alone) → Believe Me ("what are you to me," closest, still mismatched).**
 
 The accusation is **manufactured on the spot** — no standing grievance. It runs on *fear*, not a rule: she wants to say it, is afraid it comes back empty, feels her heart out ahead of whatever this actually is, and suspects the sex is blinding her. Crucially that self-suspicion is played as **ordinary infatuation-anxiety** (*am I deluding myself that this is love*), zero detective energy — the reader, holding the orchestration since chapter 2, hears the literal mechanism (the body used to cloud judgment) while she means only a crush. The dance-callback ties this to the CW-Dance fight, where she also wrongly suspected him and apologized: a pattern that inoculates her against the one cynical instinct that's true.
 

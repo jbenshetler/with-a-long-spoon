@@ -1,6 +1,6 @@
 # Note — The Usual
 
-Companion note for `scenes/the-usual.md`. Placement: ~late December, Christmas break, after the Christmas Fight. **Pace close third.** Third panel of the break triptych (Fairytale | Old Acquaintances | **The Usual**); the one bond on the page that isn't lonely.
+Companion note for `scenes/the-usual.md`. Placement: ~late December, Christmas break, after Believe Me. **Pace close third.** Third panel of the break triptych (Fairytale | Old Acquaintances | **The Usual**); the one bond on the page that isn't lonely.
 
 ## Format — face-to-face, NOT side-by-side
 
@@ -11,7 +11,7 @@ The scene is a diner **booth, across the table**, eyes engaged. The old chronolo
 Pace answers Vee's demand for a **declaration** with a **ledger** — an itemized case for his devotion. The *form* is the tell: an emotional question ("do you love me / what are we") met with an accounting. Love-as-currency, his mother's wound running in him. Rendered inside his POV as blind spot, never as narrator diagnosis; **the vow against premature declaration is never named.**
 
 - **"She wants a declaration… I said it, out loud, in words."** He believes *"you're the most important thing in my life"* already **was** the declaration. He can see *what* she wants (the word) and completely miss its weight — the exact shape of his blindness.
-- **person → thing.** Intentional amplification of the fight canon (`christmas-fight.md`: "most important **person**"). "Thing" is the objectifying tell — the ledger-mind rating its top asset — invisible on first read, lethal on the pattern.
+- **person → thing.** Intentional amplification of the fight canon (`believe-me.md`: "most important **person**"). "Thing" is the objectifying tell — the ledger-mind rating its top asset — invisible on first read, lethal on the pattern.
 - **"Is that so hard?" is answered only by "I can't."** Asked, dodged into the ledger ("the one he had answers to"), then answered naked once Sheri strips the dodge away. His virtue is the disease: *"I'm not them"* — he won't lie — is the honesty that is losing him Vee, and (for the reader tracking the architecture) the man who "doesn't lie" is running the deception of her life.
 - **"Her name is Vee."** He insists on her name to Sheri while withholding the one naming Vee actually wants. Uncommented.
 

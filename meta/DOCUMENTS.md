@@ -140,7 +140,7 @@ One file per non-trivial scene; the chronology entry links to it. To work on a s
 | `meta-condensed-outlier.md` | The Outlier |
 | `meta-condensed-back-from-thanksgiving.md` | Back from Thanksgiving — Tells Cassie |
 | `meta-condensed-the-porch-scene.md` | The Porch Scene — Cracker-and-Meal |
-| `meta-condensed-christmas-fight.md` | The Christmas Fight |
+| `meta-condensed-believe-me.md` | Believe Me |
 | `meta-condensed-fairytale.md` | Fairytale |
 | `meta-condensed-first-weekend-back.md` | First Weekend Back |
 | `meta-condensed-on-her-floor.md` | On Her Floor |
