@@ -1,6 +1,6 @@
-# Note — Vee — Christmas (the cost-weighing; the beige plant)
+# Note — Vee — Old Acquaintances (the cost-weighing; the beige plant)
 
-*Vignette · Unwritten · rendered on **New Year's Eve**, Christmas break · Vee solo, at her parents' home (Ohio) · companion to the chronology's [VIGNETTE] Vee — Christmas · one panel of the break triptych (Flat Date / Sheri — The Usual)*
+*Vignette · Unwritten · rendered on **New Year's Eve**, Christmas break · Vee solo, at her parents' home (Ohio) · companion to the chronology's [VIGNETTE] Vee — Old Acquaintances · one panel of the break triptych (Flat Date / Sheri — The Usual)*
 
 ## What this scene is now
 
