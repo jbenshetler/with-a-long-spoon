@@ -1,4 +1,4 @@
-# Cheeseburgers
+# The Usual
 
 He made the decision before the door had swung shut behind him: he would not bring her down today. Not this week, not this time of year. Whatever he'd carried in from the truck could keep; he had long practice at deciding a thing could keep. And then he was only here, in the warm griddle-smelling dark, and it was easier than it had any right to be.
 

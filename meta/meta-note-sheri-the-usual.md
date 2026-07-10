@@ -1,6 +1,6 @@
-# Note — Sheri: Cheeseburgers
+# Note — Sheri: The Usual
 
-Companion note for `scenes/sheri-cheeseburgers.md`. Placement: ~late December, Christmas break, after the Christmas Fight. **Pace close third.** Third panel of the break triptych (Flat Date | Vee — Christmas | **Cheeseburgers**); the one bond on the page that isn't lonely.
+Companion note for `scenes/sheri-the-usual.md`. Placement: ~late December, Christmas break, after the Christmas Fight. **Pace close third.** Third panel of the break triptych (Flat Date | Vee — Old Acquaintances | **The Usual**); the one bond on the page that isn't lonely.
 
 ## Format — face-to-face, NOT side-by-side
 
