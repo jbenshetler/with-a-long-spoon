@@ -231,3 +231,19 @@ Resolved (see chronology + `meta-condensed-vee-tells-pace-about-the-kiss.md`):
 
 Still open:
 - **Pace knows Randi intimately** (they're sleeping together). When Vee names *Randi* as the girl she kissed, what does Pace reveal/conceal? Charged; unstaged.
+
+-----
+
+# Fall/Spring Restructure — Items Surfaced (Still Life re-home session)
+
+The restructure moved Barely Stings / Still Life / Gesso to spring and added two new November scenes (In His Hands, All the Time). The "adventure" coinage is now homed in Still Life's afterglow, single-sourced (`meta-note-still-life.md`). Remaining:
+
+## 27. Spring cluster placement — late-January vs. February risers (DISCUSS)
+
+Barely Stings / Still Life / Gesso currently sit ~late January. Open whether to keep them there or shift into February among the On Top / Restrained risers. Authorial call; affects the spring ramp's density.
+
+## 28. Drafting queue — the two new November scenes + Still Life completion (DRAFT)
+
+- **In His Hands** (Pace/Vee bed scene, ~November) — architecture in `meta-note-in-his-hands.md`; prose unwritten. Carries the earliest sole-channel photo and the Sheri "she's alone" plant.
+- **All the Time** (SATC format-break, ~November) — architecture in `meta-note-all-the-time.md`; prose unwritten. Carries the anthro invite. The SATC title is provisional — the final should emerge from the draft.
+- **Still Life** — partial draft through the gesso runaway; photo → sex → afterglow unwritten. The afterglow lands the "adventure" coinage.
