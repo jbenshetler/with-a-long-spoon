@@ -14,7 +14,7 @@
 - **Genuine love and the override are the same motion.** The friendship is the realest thing she has *and* the need/sadism beats it — both at full force. Never signal sinister on first read.
 - **Never inside her.** Interior assembled from tells (cup, lock, speech, body, concealment); it never opens in another's presence (containers).
 - **Need, not want** — she's at ease with want; the engine is a need she can't be *seen* having.
-- **Submission to Pace is service to Vee by proxy** — effacing herself for Vee (e.g. cleaning her own night off him to hand him back ready, `green-sheets.md`); render as *position and service* — below him, under Vee — never the labeled word.
+- **Submission to Pace is service to Vee by proxy** — effacing herself for Vee (e.g. cleaning her own night off him to hand him back ready, `in-her-place.md`); render as *position and service* — below him, under Vee — never the labeled word.
 
 ---
 

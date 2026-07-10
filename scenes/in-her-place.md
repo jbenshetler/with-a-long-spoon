@@ -1,4 +1,4 @@
-# Green Sheets
+# In Her Place
 
 The text came a little after noon, while he was in his office, three days into a proof: *coming out this afternoon — don't make plans.* He read it twice, the second time slower, and he felt a little more solid, a little more of this world.
 

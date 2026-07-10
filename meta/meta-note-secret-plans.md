@@ -80,8 +80,8 @@ Pace's entire erotic power in canon is **real-time, hand-to-skin, reading-her-bo
 ### The brunch retell (SATC, Vee POV)
 Vee tells Randi about the scene — her **first *authored* retell.** It nudges Randi's territory: Randi's whole function is "produces with words what Pace produces with body" — she *extracts and steers* Vee's material. A Vee who *designs her own scene* is no longer the naïve one being drawn out; she's become the author of her own heat — the one thing Randi can't do for herself. Randi's response is jealousy + a flicker of lost leverage + fascination (Vee's aliveness is exactly what Randi is drawn to). **The clamps survive as sensation inside the torture, so the "Randi later wants them for herself" thread can still attach via this retell** (rehomed from the old Nipple Clamps scene).
 
-### The Randi → Pace "secret plans" joke (Pace POV) — REHOMED into Green Sheets
-**This beat now lives inside `scenes/green-sheets.md` (the after-telling), not as a standalone vignette** — Randi turns "I have secrets of my own" back on Pace in that scene's afterglow. The content and render guard below still govern how it plays there.
+### The Randi → Pace "secret plans" joke (Pace POV) — REHOMED into In Her Place
+**This beat now lives inside `scenes/in-her-place.md` (the after-telling), not as a standalone vignette** — Randi turns "I have secrets of my own" back on Pace in that scene's afterglow. The content and render guard below still govern how it plays there.
 
 Later, Randi "jokes" to Pace that **she, too, has secret plans she won't reveal** — a flirty deflection that is the literal truth (Randi *is* hiding the orchestration and her suppressed desire). The line does three things at once, all true:
 - **Jealousy-leak**, wrapped in wit (she can't show an unmanaged want; the frame hollows the real thing).
