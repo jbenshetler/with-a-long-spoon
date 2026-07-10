@@ -797,14 +797,14 @@ note = "Author-approved in Rock [AI] workshop: engine 'the way' simile, 'without
 [[ok]]
 fp   = "6575b073d974"
 rule = "a-small"
-file = "scenes/sheri-the-usual.md"
+file = "scenes/the-usual.md"
 text = "She was a small thing, five feet of her and every inch in motion even standing still — a round face gone a little sallow under makeup — too much of it, slightly off, and worn like she'd dare you to mention it."
 note = "Author-approved: 'a small thing' lead-in; vivid specifics follow immediately."
 
 [[ok]]
 fp   = "8271cfb578ca"
 rule = "whole-of"
-file = "scenes/sheri-the-usual.md"
+file = "scenes/the-usual.md"
 text = "He'd been to California in November for a conference — Sheri had never been west of Knoxville and wanted the whole of it; Berkeley, he said, was a made-up place, people who agreed about everything and dressed like they didn't."
 note = "Author-approved: Sheri wanting the whole of the story — her frank register."
 
@@ -1287,21 +1287,21 @@ note = "Directional idiom 'on the way down', not the filtered 'the way he' const
 [[ok]]
 fp   = "eef1239afc3d"
 rule = "a-small"
-file = "scenes/vee-old-acquaintances.md"
+file = "scenes/old-acquaintances.md"
 text = "It was a small room."
 note = "Thematic, not a tic: 'a small room' is immediately interrogated ('never once felt small — it had been the whole world'); the regression beat needs the plain word."
 
 [[ok]]
 fp   = "767f1c858b77"
 rule = "filter-verbs"
-file = "scenes/vee-old-acquaintances.md"
+file = "scenes/old-acquaintances.md"
 text = "She had reached for the one thing that was hers and it had taken the sheet off her and put the other one under it while she watched."
 note = "Deliberate: the jealousy hijack forces her to watch her own First Night corrupt in real time — 'while she watched' is the helpless spectation, the point, not a filter to cut."
 
 [[ok]]
 fp   = "c4e6ea885600"
 rule = "vivienne"
-file = "scenes/vee-old-acquaintances.md"
+file = "scenes/old-acquaintances.md"
 text = "It had known Vivienne — knew her still, in high resolution, and loved her."
 note = "Deliberate name-toggle: the museum paragraph has the room know 'Vivienne' (the whole-girl self it loved) vs the 'Vee' who came home — sanctioned per the vivienne toggle rule."
 

@@ -1,8 +1,8 @@
-# Note — The Flat Date
+# Note — Fairytale
 
-Companion to `meta-condensed-flat-date.md` (scene compaction) and the Flat Date section of `meta-arch-randi.md` (architecture — the *why*, not restated here). This note holds the beat sheet and the craft running under it.
+Companion to `meta-condensed-fairytale.md` (scene compaction) and the Fairytale section of `meta-arch-randi.md` (architecture — the *why*, not restated here). This note holds the beat sheet and the craft running under it.
 
-Randi POV, close third, **New Year's Eve**, **Gstaad**. **Draft complete** (`scenes/flat-date.md`), start to nothing: breakfast → lift and charade → ascent → black run and the morning → hütte and invitation → the found dress and ready-mirror → the ball (descent, cab, gala, dinner) → the dance → the midnight kiss → the sleigh → the room and the cut across the sex → the close.
+Randi POV, close third, **New Year's Eve**, **Gstaad**. **Draft complete** (`scenes/fairytale.md`), start to nothing: breakfast → lift and charade → ascent → black run and the morning → hütte and invitation → the found dress and ready-mirror → the ball (descent, cab, gala, dinner) → the dance → the midnight kiss → the sleigh → the room and the cut across the sex → the close.
 
 ## The engine
 
@@ -38,8 +38,8 @@ Three **bodies-in-sync** beats — ski, dance, sex — each genuinely good, each
 - **Class = the same wound in another key.** She *learned* to pass exactly as she *learned to walk* on the wound; the old-money man simply *is* it. Arriving at the apex of everything she performs reaches nothing. Undertone, never a theme she chews — the *nothing* stays the headline.
 - **Sleigh → bed pre-echo.** The borrowed-warmth / cold-that's-hers image is stated first in the sleigh as literal winter, resolved at the bed.
 - **Lead/follow → D/s rhyme.** The dance is the surrender-shape emptied of seeing; it rhymes against Pace, who has no game and sees her.
-- **Mirror aperture.** Bench → Flat Date; installation → confirmation.
+- **Mirror aperture.** Bench → Fairytale; installation → confirmation.
 - **Taste thread: not seeded.** It is Vee's, not Randi's. The close's distanced oral beat ("her own mouth from a long way off") is the *nothing* extended to taste, not a taste-thread seed.
-- **Location.** This commits Flat Date → Gstaad, making the **Gesso mid-November** mention (Randi telling Vee she'll be off-grid) load-bearing setup.
-- **NYE diptych with `vee-old-acquaintances`.** Same night: Vee alone in Ohio just before her midnight, Randi in Gstaad at ~6am. The **midnight text is the seam** — Vee's open hand, Randi's fairytale gloss — and the two scenes must stay **word-identical** on it (Vee's *thinking about you…*; Randi's *you ANGEL… miss your face most though, gorgeous 💋*). Near-real-time, no delay; the *gorgeous* obeys the reserved-endearment rule (sincere, Vee-only) and lands on the true line.
+- **Location.** This commits Fairytale → Gstaad, making the **Gesso mid-November** mention (Randi telling Vee she'll be off-grid) load-bearing setup.
+- **NYE diptych with `old-acquaintances`.** Same night: Vee alone in Ohio just before her midnight, Randi in Gstaad at ~6am. The **midnight text is the seam** — Vee's open hand, Randi's fairytale gloss — and the two scenes must stay **word-identical** on it (Vee's *thinking about you…*; Randi's *you ANGEL… miss your face most though, gorgeous 💋*). Near-real-time, no delay; the *gorgeous* obeys the reserved-endearment rule (sincere, Vee-only) and lands on the true line.
 - **Disconnection motif.** The ski gear's sensory isolation (helmet, goggles, gloves) is deliberate — it seeds the body-from-self disconnection of the sex (*felt her own mouth do it from a long way off*).

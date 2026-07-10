@@ -1,6 +1,6 @@
-# Note — Sheri: The Usual
+# Note — The Usual
 
-Companion note for `scenes/sheri-the-usual.md`. Placement: ~late December, Christmas break, after the Christmas Fight. **Pace close third.** Third panel of the break triptych (Flat Date | Vee — Old Acquaintances | **The Usual**); the one bond on the page that isn't lonely.
+Companion note for `scenes/the-usual.md`. Placement: ~late December, Christmas break, after the Christmas Fight. **Pace close third.** Third panel of the break triptych (Fairytale | Old Acquaintances | **The Usual**); the one bond on the page that isn't lonely.
 
 ## Format — face-to-face, NOT side-by-side
 

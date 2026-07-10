@@ -196,11 +196,11 @@ The gift and the wound are delivered by the same person in the same act. She lov
 
 The desire and the friendship are not rivals. The friendship is the medium the desire runs through; the aliveness Vee gives her is exactly what makes the wanting acute. The love deepens the desire — never blunts it, never merely cloaks it. And she pays for the friendship: befriending Vee costs her in the position-world she comes from, and she chooses to pay it.
 
-One thread of that cost is still to be developed: acting on the attraction *openly* would register, in the sorority, as a liability to her standing — an external status price, never interior shame (her desire is constitutional; see 🔒 THE NEED ENGINE). Dramatize via Brooke and the Social Price vignettes, not the Flat Date. *(To refine.)*
+One thread of that cost is still to be developed: acting on the attraction *openly* would register, in the sorority, as a liability to her standing — an external status price, never interior shame (her desire is constitutional; see 🔒 THE NEED ENGINE). Dramatize via Brooke and the Social Price vignettes, not Fairytale. *(To refine.)*
 
 ---
 
-## The Flat Date — The Chosen-Not-to-Throttle Moment
+## Fairytale — The Chosen-Not-to-Throttle Moment
 
 *(Unwritten; see `meta-plan-chronology.md` for scene plan.)* Placement: after the engineered meet-cute, after the SATC lunches are running at full intensity, before the threesome is scheduled. The window in which turning back is still mechanically possible.
 
@@ -216,7 +216,7 @@ She does not. She fixes her hair, turns off the light, and goes back to the bed 
 
 **The choice is not stated in words. The choice is enacted by the return.** The reader should feel it as a body-decision visible at the level of behavior — the way she fixes the hair, turns off the light, walks back to the bed without breaking stride.
 
-**POV (containers rule):** Rendered in Randi's POV — the second opening of the mirror aperture (Bench mirror → Flat Date mirror; installation → confirmation). No other camera exists: the proper man is a one-scene character, and the content is untellable to Vee — confessing the nothing confesses the comparison, which confesses the lunches are the real thing. Full rule in the Bible; chronology flag 15. Structural hinge: every scrunchie grain lands after this scene, so the reader enters the spring holding the nothing, and the choice already made.
+**POV (containers rule):** Rendered in Randi's POV — the second opening of the mirror aperture (Bench mirror → Fairytale mirror; installation → confirmation). No other camera exists: the proper man is a one-scene character, and the content is untellable to Vee — confessing the nothing confesses the comparison, which confesses the lunches are the real thing. Full rule in the Bible; chronology flag 15. Structural hinge: every scrunchie grain lands after this scene, so the reader enters the spring holding the nothing, and the choice already made.
 
 ---
 
@@ -226,9 +226,9 @@ Before the year, she lived inside smooth pleasantness and did not know it was un
 
 She will keep seeking. She will marry someone Pace-adjacent enough that her appetite can briefly route through him — and the appetite will dim, because the routing requires the substrate-friend and the lunch structure and the configuration she cannot reassemble. She will cultivate friendships intense enough to half-resemble what she had with Vee. Each approximation will be measured, in her body, against an apex she cannot reconstruct. Each measurement: *less than what I had.*
 
-**The seeking is her present condition, not a future trajectory.** At the novel's close she has already chosen it. The choosing happened at the flat date. Render the closing beats so the reader feels her future has already started; she is not stepping into it from a stable present.
+**The seeking is her present condition, not a future trajectory.** At the novel's close she has already chosen it. The choosing happened at Fairytale. Render the closing beats so the reader feels her future has already started; she is not stepping into it from a stable present.
 
-This is her bargain position: *yes, with data.* Would she advance again? Yes. She would pay the loss of Vee every time, on smaller scales, with worse substrates, for the rest of her life, because the alternative is the *nothing* the flat date confirmed. The yes is informed. She knows what advancing costs. She has seen what throttling costs. She has chosen. The future is the choice's elaboration.
+This is her bargain position: *yes, with data.* Would she advance again? Yes. She would pay the loss of Vee every time, on smaller scales, with worse substrates, for the rest of her life, because the alternative is the *nothing* Fairytale confirmed. The yes is informed. She knows what advancing costs. She has seen what throttling costs. She has chosen. The future is the choice's elaboration.
 
 ---
 
