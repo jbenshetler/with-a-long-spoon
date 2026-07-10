@@ -67,11 +67,7 @@ Front door (left unlocked for the expected guest; Randi bolts it behind her). A
 **chair by the door** where she drops her overnight bag.
 
 ### Kitchen `[PAGE]` + `[PLAN]`
-`[PAGE]` **Formica**-topped **counter** (older, not shiny, still good to work on) with
-**stool(s)**; **kettle**/burner; two mugs; the **green tea** she likes, kept on hand;
-a small **table** where meals happen (he sits people down to eat, never feeds them
-standing at the counter). `[PLAN]` A few good knives, a couple good pans (**not the
-12-piece set**); a small bench of guest wines. He cooks here.
+`[PAGE]` **white-laminate**-topped **counter** (plain white, no pattern, the shine worn off, still good to work on); **kettle**/burner; two mugs; the **green tea** she likes, kept on hand; a **bread machine**; a **baking stone** that lives in the oven, with its **wooden peel**; a **cold-water filter pitcher** in the fridge. **No stools.** The **kitchen is small**, too small for two to work in at once; a small **table with chairs** sits in it, where meals happen and where she watches him cook (he sits people down to eat, never feeds them standing at the counter). `[PLAN]` A few good **knives** and a few good **pans and skillets** (**not the full set**); an old **white KitchenAid stand mixer**, bought secondhand, the wear showing; the small tools a serious cook keeps (microplane, peeler, hand juicer, and the like), assumed present and not inventoried; a small bench of guest wines. He cooks here.
 
 ### Dining room `[PLAN]`
 Off the **kitchen** (distinct from the kitchen's own built table); beyond it, the way out

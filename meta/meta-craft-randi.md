@@ -162,7 +162,7 @@ Keep her interior withheld; the reader assembles the masochism from what she vol
 
 *(Unwritten scene; see `meta-plan-chronology.md` for plan. The bench for comparison: → `the-bench.md`.)*
 
-The choice is not stated to herself in words. The choice is enacted by the return — to the bed beside the man, then to her apartment, then to the next SATC lunch. Render it as a body-decision visible at the level of behavior: the way she fixes the hair, turns off the light, walks back to the bed without breaking stride. **She does not deliberate.** She experiences the *nothing* in her body, recognizes it without naming it, and her body chooses the return before her mind has formed the question. The middle register: the choice is being made; she is not making it consciously; she is also not being driven by it.
+The choice is not stated to herself in words. The choice is enacted by the return — to the bed beside the man, then to her room, then to the next SATC lunch. Render it as a body-decision visible at the level of behavior: the way she fixes the hair, turns off the light, walks back to the bed without breaking stride. **She does not deliberate.** She experiences the *nothing* in her body, recognizes it without naming it, and her body chooses the return before her mind has formed the question. The middle register: the choice is being made; she is not making it consciously; she is also not being driven by it.
 
 ---
 

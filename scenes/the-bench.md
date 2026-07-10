@@ -26,7 +26,7 @@ He set the kettle down. He put both hands on her then, properly, as he had not b
 
 "It's not due until Thursday."
 
-She turned away from him and moved through his kitchen as she did every time, with the small slow assessment she had been making since the first visit. She took in the laminate counters whose pattern she disliked — he had watched her clock them the first night, and the second night, and the third, and had watched her never say anything about them. She took in the kitchen table he had built two winters ago, and the two chairs that flanked it, and the glass-fronted cabinet beyond it that he had built from quartersawn oak in his first year here.
+She turned away from him and moved through his kitchen as she did every time, with the small slow assessment she had been making since the first visit. She took in the white laminate counters she disliked, plain and cheap — he had watched her clock them the first night, and the second night, and the third, and had watched her never say anything about them. She took in the kitchen table he had built two winters ago, and the two chairs that flanked it, and the glass-fronted cabinet beyond it that he had built from quartersawn oak in his first year here.
 
 She looked at the wood. She did not look at the wood the way she looked at her own things. She looked at it the way a person looks at something whose price tag she cannot read.
 

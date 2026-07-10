@@ -59,11 +59,11 @@ The first night is the discharge of the Fitting's deferred tension. Pace invited
 
 **After — kitchen**
 - He pulls on jeans and a white t-shirt; she wraps the top sheet; they go to the kitchen sweaty and tired and genuinely hungry
-- He builds the fra diavolo from the mise-en-place; she sits on the stool with the Chianti she didn't drink earlier and watches him cook her the dinner she hadn't let him cook
-- They eat at the counter; the fra diavolo hot with the pepper; the Chianti better for having waited; she eats until full; her body quiet; *the evening had used her well*
+- He builds the fra diavolo from the mise-en-place; she sits at the table with the Chianti she didn't drink earlier and watches him cook her the dinner she hadn't let him cook
+- They eat at the table; the fra diavolo hot with the pepper; the Chianti better for having waited; she eats until full; her body quiet; *the evening had used her well*
 
 **The trade**
-- She gets up from the stool without explaining herself; goes to the bedroom; he doesn't follow
+- She gets up from the table without explaining herself; goes to the bedroom; he doesn't follow
 - The bedroom holds the wreckage: apron on the floor, her blouse, sheets pulled loose; her panties near the foot of the bed where they landed; she stands a moment; picks them up
 - Returns to the kitchen with the sheet still around her and the panties in hand; tries to fold them — in thirds, the spot centered — and can't manage it with one hand holding the sheet; the sheet drops
 - She does not stop to pick it up; she finishes the fold: the satin smooth, catching the kitchen light with a soft diffuse glow, the lace filigree at the edges fine and dark against it, the deep green particular and chosen, and the wet spot exactly where she put it

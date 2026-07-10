@@ -116,7 +116,7 @@ He grinned, wide and easy. "You make that sound like a problem."
 
 She let the coat go and pulled the blanket around herself instead, and bent to unbuckle the heels, and without quite turning around he said, "Those stay on." The blush went straight up her face, and she left them on, and followed him the short way into the kitchen, blanket-wrapped and bare and ridiculous in the black heels, and minded neither thing.
 
-She took a stool and watched him work. He lit the burner, the blue flame catching with a soft huff, set a skillet over it, and put the kettle on beside it. Then he measured out flour and sugar and a little baking powder and whisked the dry things together without looking, his hands knowing it cold. He dribbled melted butter into cold milk and kept whisking, then broke in an egg and a slip of vanilla and beat it smooth, and tipped the wet into the dry and folded it over just until it came together and not a stroke more, left it lumpy on purpose. He buttered the hot skillet and poured the pale batter out in a circle.
+She took a chair and watched him work. He lit the burner, the blue flame catching with a soft huff, set a skillet over it, and put the kettle on beside it. Then he measured out flour and sugar and a little baking powder and whisked the dry things together without looking, his hands knowing it cold. He dribbled melted butter into cold milk and kept whisking, then broke in an egg and a slip of vanilla and beat it smooth, and tipped the wet into the dry and folded it over just until it came together and not a stroke more, left it lumpy on purpose. He buttered the hot skillet and poured the pale batter out in a circle.
 
 She sat with her chin in her hand and watched, mesmerized, as she always was by the sight of him bent to some exact thing and getting it precisely right. This, more than almost anything, was what she'd missed over the break, the plain fact of a warm room and this man making her something with his full attention.
 
@@ -124,7 +124,7 @@ In a few minutes there were pancakes in front of her, gold and steaming, a pat o
 
 "I feel like I haven't eaten anything real since the last time you cooked for me," she said.
 
-He came around the counter, and before she'd swallowed the bite in her mouth he went down on one knee beside the stool, bringing his face up under hers, and kissed her once on the forehead. "I missed you so much," he said, and his voice cracked, and did not quite come back.
+He came around the counter, and before she'd swallowed the bite in her mouth he went down on one knee beside her chair, bringing his face up under hers, and kissed her once on the forehead. "I missed you so much," he said, and his voice cracked, and did not quite come back.
 
 She sat there with her mouth full of the pancakes he'd made her at midnight and her eyes gone hot and a grown man on his knee with his face cracked open under hers, and she was so full, of the food and the warmth and the plain relief of being back inside his care, that tonight there was no room in her for wanting anything he hadn't given. She put her hand in his hair. She had everything she had driven out through the cold to get.
 

@@ -2,7 +2,7 @@
 
 The afternoon before, she'd painted her nails herself at the kitchen table, a small bottle of burgundy she'd bought without thinking too hard about why. The color was close to the silk he'd held to her face in the fitting room and she'd noticed, then put the connection away, then come back to it twice before the polish dried. She drove to his house with her toenails burgundy under her boots and her one good pair — deep green satin, lace at the edges — moved to the top of the drawer that morning, and told herself none of this meant anything in particular.
 
-He opened the door in a canvas apron over a dark henley, sleeves pushed to the elbows, and when he kissed her hello it was unhurried and still — more than a greeting, less than what she'd been thinking about for three nights — and she stepped inside and the apartment smelled of garlic and red pepper and nothing else. On the counter the cutting board held everything ready: garlic crushed, pepper flakes measured into a small bowl beside the tin of crushed tomatoes. The pan was dry and clean on the burner. He'd done all the preparation and stopped.
+He opened the door in a canvas apron over a dark henley, sleeves pushed to the elbows, and when he kissed her hello it was unhurried and still — more than a greeting, less than what she'd been thinking about for three nights — and she stepped inside and the house smelled of garlic and red pepper and nothing else. On the counter the cutting board held everything ready: garlic crushed, pepper flakes measured into a small bowl beside the tin of crushed tomatoes. The pan was dry and clean on the burner. He'd done all the preparation and stopped.
 
 A Chianti Classico open on the counter, already breathing. He'd opened it before she arrived.
 
@@ -68,11 +68,11 @@ It was the first time that had been true.
 
 He pulled on jeans and a white t-shirt. She gathered the top sheet from where they'd pulled it loose and wrapped it around herself and followed him to the kitchen.
 
-He built the fra diavolo from where he'd stopped — the oil, the garlic and pepper blooming, the tomatoes going in — and she sat on the stool with the wine she hadn't drunk earlier and watched him. The kitchen smelled right. She was sweaty and tired and genuinely hungry and she did not feel like talking and he did not appear to feel like talking and this was fine.
+He built the fra diavolo from where he'd stopped — the oil, the garlic and pepper blooming, the tomatoes going in — and she sat at the table with the wine she hadn't drunk earlier and watched him. The kitchen smelled right. She was sweaty and tired and genuinely hungry and she did not feel like talking and he did not appear to feel like talking and this was fine.
 
-They ate at the counter. The fra diavolo was hot with the pepper, and the Chianti was better for having waited, and she ate until she was full and then sat with the last of her wine. Her body was quiet. The evening had used her well.
+They ate at the table. The fra diavolo was hot with the pepper, and the Chianti was better for having waited, and she ate until she was full and then sat with the last of her wine. Her body was quiet. The evening had used her well.
 
-At some point she got up from the stool without explaining herself and went down the hall to the bedroom.
+At some point she got up from the table without explaining herself and went down the hall to the bedroom.
 
 He didn't follow. The sound of him in the kitchen continued.
 
