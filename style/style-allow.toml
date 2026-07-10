@@ -1304,3 +1304,31 @@ rule = "vivienne"
 file = "scenes/vee-christmas.md"
 text = "It had known Vivienne — knew her still, in high resolution, and loved her."
 note = "Deliberate name-toggle: the museum paragraph has the room know 'Vivienne' (the whole-girl self it loved) vs the 'Vee' who came home — sanctioned per the vivienne toggle rule."
+
+[[ok]]
+fp   = "8b4855433ae4"
+rule = "the-way"
+file = "scenes/water-wings.md"
+text = "Weightless the way you only are down here."
+note = "Author sign-off 2026-07-09: each earns its place — plain 'too much' beat (there-was), load-bearing underwater weightlessness (the-way), sensory list (there-was), Cassie's rhythm (x-not-y)."
+
+[[ok]]
+fp   = "24fa2f5d965d"
+rule = "there-was-were"
+file = "scenes/water-wings.md"
+text = "There was more of her now."
+note = "Author sign-off 2026-07-09: each earns its place — plain 'too much' beat (there-was), load-bearing underwater weightlessness (the-way), sensory list (there-was), Cassie's rhythm (x-not-y)."
+
+[[ok]]
+fp   = "3a68316791e0"
+rule = "there-was-were"
+file = "scenes/water-wings.md"
+text = "The applause-laughter, the lifeguard's radio, the flat boom of the big space, Cassie — all of it gone in the swallowing green, and there was only the cold coming up from below and the light coming down through the surface in slow sheets and her own heartbeat, close and unhurried."
+note = "Author sign-off 2026-07-09: each earns its place — plain 'too much' beat (there-was), load-bearing underwater weightlessness (the-way), sensory list (there-was), Cassie's rhythm (x-not-y)."
+
+[[ok]]
+fp   = "0413e6e37470"
+rule = "x-not-y"
+file = "scenes/water-wings.md"
+text = "Not hard, not asking; just clocking that her friend had gone off somewhere and come back with her face on wrong."
+note = "Author sign-off 2026-07-09: each earns its place — plain 'too much' beat (there-was), load-bearing underwater weightlessness (the-way), sensory list (there-was), Cassie's rhythm (x-not-y)."
