@@ -148,7 +148,7 @@ Pace's love is so well-calibrated to Vee that she experiences his attention as t
 
 The threesome is the catastrophic instance. She thought she wanted it. Some of the wanting was the original appetite. Some was cultivated. After the kiss, she has reason to doubt the provenance of every yes she has given across the year. The reader does not know which moments to trust either. This is the mechanism that lets the kiss work on the reader the same way it works on Vee.
 
-**Micro-instance — she perceives Pace as taller than he is.** Vee carries an inflated mental image of his height: they've rarely stood together outdoors with other men to scale him against (mostly close, eye-to-eye), and feeling inflates stature. Her readings of him run high because she wants them to — the same epistemic vulnerability at small scale. Render only through behavior — the deflation when her heels put her over him at the First Swat — never as exposition.
+**Micro-instance — she perceives Pace as taller than he is.** Vee carries an inflated mental image of his height: they've rarely stood together outdoors with other men to scale him against (mostly close, eye-to-eye), and feeling inflates stature. Her readings of him run high because she wants them to — the same epistemic vulnerability at small scale. Render only through behavior — the deflation when her heels put her over him in A Recognized Method — never as exposition.
 
 ---
 

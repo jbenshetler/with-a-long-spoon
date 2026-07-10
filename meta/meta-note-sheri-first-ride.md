@@ -34,7 +34,7 @@ Sheri's loyalty is *reassuring Pace toward Vee* — the CW report (Vee miserable
 
 ## Continuity hook — resolved
 
-The size-mismatch joke (*"She couldn't take your heat"*) shows Sheri tiny but states no figures; it needs only that the reader already knows Vee is **tall and lushly built**. Met in **the pointing game** (Vee "tall, built on a lavish scale"; sharpened at the collision — sleek narrow Randi against the redhead's lush curves and the half-head of height on her), which precedes this ride. The **Vee-vs-Pace near-parity is deliberately NOT planted early** — Vee carries him as taller than he is, and *The First Swat* spends that misperception as the heel-inversion surprise; planting it sooner would dull the payoff. (Epistemic home: arch-vivienne; guard: meta-condensed-the-first-swat.)
+The size-mismatch joke (*"She couldn't take your heat"*) shows Sheri tiny but states no figures; it needs only that the reader already knows Vee is **tall and lushly built**. Met in **the pointing game** (Vee "tall, built on a lavish scale"; sharpened at the collision — sleek narrow Randi against the redhead's lush curves and the half-head of height on her), which precedes this ride. The **Vee-vs-Pace near-parity is deliberately NOT planted early** — Vee carries him as taller than he is, and *A Recognized Method* spends that misperception as the heel-inversion surprise; planting it sooner would dull the payoff. (Epistemic home: arch-vivienne; guard: meta-condensed-recognized-method.)
 
 ## Render disciplines
 

@@ -1,6 +1,6 @@
-# Note — The First Swat / The Setup
+# Note — A Recognized Method / The Setup
 
-*Companion to the unwritten scene: beat structure and unrendered craft. The arrival / height-inversion beat, the canonical "leave them on" line, and the never-named rhyme/charge live in [[meta-condensed-the-first-swat]] and are not restated here.*
+*Companion to the unwritten scene: beat structure and unrendered craft. The arrival / height-inversion beat, the canonical "leave them on" line, and the never-named rhyme/charge live in [[meta-condensed-recognized-method]] and are not restated here.*
 
 **POV:** close third on Vee throughout. Pace's reading of the borrowed shoes is shown only externally (his glance, his line); the reader decodes it, the narrator never does. **Heat-by-kind:** Movement I raw/tender; Movement II playful-discovering.
 

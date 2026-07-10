@@ -8,7 +8,7 @@
 
 These are the live continuity flags from `meta-plan-chronology.md` that need a decision, not housekeeping:
 
-1. ✓ **RESOLVED** — **Fitting "third stay" vs. First Swat "first post-sex visit"** (chronology flag 1). The Fitting precedes the First Swat, but the Fitting read as her "third stay" while the swat is her first post-sex overnight. **Author's decision: the Fitting happens during the day with no overnight stay** (the deferment carries her out the door; First Swat stays clean as her first post-sex overnight). Verified: current `scenes/the-fitting.md` and `meta-condensed-the-fitting.md` carry no overnight language — no prose edit required.
+1. ✓ **RESOLVED** — **Fitting "third stay" vs. A Recognized Method "first post-sex visit"** (chronology flag 1). The Fitting precedes A Recognized Method, but the Fitting read as her "third stay" while the swat is her first post-sex overnight. **Author's decision: the Fitting happens during the day with no overnight stay** (the deferment carries her out the door; A Recognized Method stays clean as her first post-sex overnight). Verified: current `scenes/the-fitting.md` and `meta-condensed-the-fitting.md` carry no overnight language — no prose edit required.
 
 2. **The try-on** (chronology flag 2) — resolution of the Fitting's deferred tension needs a slot in the timeline (after the dress is finished, around the induction; tender, no spanking). **Not yet placed.**
 

@@ -1,6 +1,6 @@
 # The Fitting
 
-*(Revised draft — sits between "Vee Tells Randi About the First Night" and "The First Swat." An early visit to his house. Suggestive heat; dial as needed in revision.)*
+*(Revised draft — sits between "Vee Tells Randi About the First Night" and "A Recognized Method." An early visit to his house. Suggestive heat; dial as needed in revision.)*
 
 ---
 

@@ -1,6 +1,6 @@
-# Condensed — The First Swat / The Setup
+# Condensed — A Recognized Method / The Setup
 
-*SCENE · Draft complete · `the-first-swat.md` · the apology visit the weekend after the CW Dance → the next afternoon*
+*SCENE · Draft complete · `recognized-method.md` · the apology visit the weekend after the CW Dance → the next afternoon*
 
 Her sassy; one playful swat; the look crosses her face; she immediately initiates sex. Swat → look → sex, nobody names it. Plants the *what was that look?* hook. Prerequisite for We Find Out.
 

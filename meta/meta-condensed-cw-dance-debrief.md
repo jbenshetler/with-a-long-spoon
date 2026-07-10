@@ -8,7 +8,7 @@ This is the **CW-dance debrief**, a distinct SATC register: **counsel, not confe
 
 ## Timing
 
-**Friday morning — the morning after the Thursday dance.** The overnight is structurally load-bearing: Vee already knows she was wrong before she leaves the dance hall — the older woman's correction landed complete Thursday night, no ambiguity. The overnight is not processing; it's penance. She stews, morose, turning the irony over: she raged at a man for being a good man, accused him of the thing he pointedly doesn't do, performed the proprietary jealousy she'd have mocked in another woman. By Friday morning she has shifted from hot embarrassment to cold, clear *I have to fix this.* The debrief happens after that shift. One day remains before the First Swat (Saturday evening) — she gets the counsel and the shoes Friday, acts Saturday.
+**Friday morning — the morning after the Thursday dance.** The overnight is structurally load-bearing: Vee already knows she was wrong before she leaves the dance hall — the older woman's correction landed complete Thursday night, no ambiguity. The overnight is not processing; it's penance. She stews, morose, turning the irony over: she raged at a man for being a good man, accused him of the thing he pointedly doesn't do, performed the proprietary jealousy she'd have mocked in another woman. By Friday morning she has shifted from hot embarrassment to cold, clear *I have to fix this.* The debrief happens after that shift. One day remains before A Recognized Method (Saturday evening) — she gets the counsel and the shoes Friday, acts Saturday.
 
 ## Venue
 
@@ -40,4 +40,4 @@ Not Randi's advice — Vee's own translation of the counsel into her idiom. A st
 
 ## What This Plants
 
-Randi has now shaped the form of Vee's apology, chosen what she wears on her feet going to Pace, and steered her toward full submission — all in the idiom of friendship. The scene closes the CW Dance's emotional circuit and opens the door to the First Swat (Vee arrives to apologize; she stays the night; the swat happens the next morning).
+Randi has now shaped the form of Vee's apology, chosen what she wears on her feet going to Pace, and steered her toward full submission — all in the idiom of friendship. The scene closes the CW Dance's emotional circuit and opens the door to A Recognized Method (Vee arrives to apologize; she stays the night; the swat happens the next morning).

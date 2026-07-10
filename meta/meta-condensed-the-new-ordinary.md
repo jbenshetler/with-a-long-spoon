@@ -1,6 +1,6 @@
 # Condensed — The Shirt — Re-Scenting (The New Ordinary)
 
-*SCENE · Unwritten · ~mid–late November, a Friday night a couple of weeks after the First Swat · Pace/Vee · Vee POV*
+*SCENE · Unwritten · ~mid–late November, a Friday night a couple of weeks after A Recognized Method · Pace/Vee · Vee POV*
 
 A full scene doing two jobs at once: it *demonstrates* the settled domestic rhythm (the new ordinary) and stages the shirt re-scenting beat inside it. It also lays down, on purpose, the **ordinary baseline of how the couple's sex is narrated**, so the later taste-thread changes read as change and not as signal.
 
