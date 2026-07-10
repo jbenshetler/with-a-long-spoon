@@ -6,9 +6,9 @@
 
 ## Why the scene is shaped this way
 
-- **POV: Pace, close third — locked.** The only frame in which the load-bearing silence works: inside his head the scheme simply never surfaces across the whole ride, conspicuous on reread. Also the POV the book uses to pay the visual debt early. (Governs the later **Pace/Sheri** vignettes — Cheeseburgers. The exception is `Another Round`, which is **Vee POV**: Vee meets Sheri while Pace is mostly off fetching drinks, so there's no Pace-leak to capture — the frame is Vee receiving his goodness from a witness; see `meta-note-another-round.md`.)
+- **POV: Pace, close third — locked.** The only frame in which the load-bearing silence works: inside his head the scheme simply never surfaces across the whole ride, conspicuous on reread. Also the POV the book uses to pay the visual debt early. (Governs the later **Pace/Sheri** vignettes — The Usual. The exception is `Another Round`, which is **Vee POV**: Vee meets Sheri while Pace is mostly off fetching drinks, so there's no Pace-leak to capture — the frame is Vee receiving his goodness from a witness; see `meta-note-another-round.md`.)
 - **The unresolved-state choice.** The Oct 26 morning slot sits *between* the CW-Dance blowup (Thu) and that evening's reconciliation. Pace is raw and doesn't yet know the redhead thing survives — that's *why* he overshares. (Decided; recorded so a later edit doesn't "settle" him here.)
-- **Bicycles, side by side.** The bike is the format because it's *theirs* — a cost-free, easy-company format that loosens him into the overshare. It is **not** about avoiding eye contact: face-to-face doesn't tax him (he is introvert-charismatic, not autistic), and the eye-avoidance reading would poison the Sheri-decency of his having *looked at her* through her troubles. Not his motorcycle / Sheri on the back — wrong intimacy, breaks the format. **Cheeseburgers is face-to-face across a booth** and earns the same leak from the same source (easy company, food), not from any no-eye-contact form — see `meta-note-sheri-cheeseburgers.md`.
+- **Bicycles, side by side.** The bike is the format because it's *theirs* — a cost-free, easy-company format that loosens him into the overshare. It is **not** about avoiding eye contact: face-to-face doesn't tax him (he is introvert-charismatic, not autistic), and the eye-avoidance reading would poison the Sheri-decency of his having *looked at her* through her troubles. Not his motorcycle / Sheri on the back — wrong intimacy, breaks the format. **The Usual is face-to-face across a booth** and earns the same leak from the same source (easy company, food), not from any no-eye-contact form — see `meta-note-sheri-the-usual.md`.
 
 ## Pace's state here — calibrate the affect (NOT love)
 
@@ -35,6 +35,15 @@ Sheri's loyalty is *reassuring Pace toward Vee* — the CW report (Vee miserable
 ## Continuity hook — resolved
 
 The size-mismatch joke (*"She couldn't take your heat"*) shows Sheri tiny but states no figures; it needs only that the reader already knows Vee is **tall and lushly built**. Met in **the pointing game** (Vee "tall, built on a lavish scale"; sharpened at the collision — sleek narrow Randi against the redhead's lush curves and the half-head of height on her), which precedes this ride. The **Vee-vs-Pace near-parity is deliberately NOT planted early** — Vee carries him as taller than he is, and *The First Swat* spends that misperception as the heel-inversion surprise; planting it sooner would dull the payoff. (Epistemic home: arch-vivienne; guard: meta-condensed-the-first-swat.)
+
+## Render disciplines
+
+- **Kinetic, never fragile.** The smallness is motion. No frailty register, no eating-issue read.
+- **Warmth lives in fierceness**, not pleasantness. She is not nice; she is loyal.
+- **Disowning *story* surfaces once, never dramatized** — it reaches the page only in `Another Round`, recounted in Sheri's dry register (weight on Pace, no self-pity). The bare *fact* of estrangement may be glanced earlier as a plant (`The Usual`), never the cause.
+- **Not a second Cassandra** — Pace-specific perception, single-ping radar on Randi. Protect the asymmetry.
+- **The cost-free formats are Pace's** — cycling, the dance floor, an easy diner booth: what loosens him into the overshare is the *ease of the format*, not the absence of eye contact. Side-by-side movement (bike/dance) and face-to-face over food (`The Usual`) both work; a *staged confessional* is what reads wrong. (The old "no-eye-contact spares him" rationale is retired — he is introvert-charismatic, not autistic.)
+- She is **secondary** — rendered through effect and function, not standalone interiority. (Less strict than Cassie's over-feed rule, but the same gravity: she exists to show who Pace is when the chivalric grammar simply works, and to pay the loyalty back at the end.)
 
 ## Craft watch
 
