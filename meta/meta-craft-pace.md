@@ -13,6 +13,7 @@
 - **He plays.** Real sense of humor about sex — teasing, banter, delight — *alongside* the tenderness and intensity, never under them. **With Vee, teasing is erotically load-bearing** (her shame-loop turns it straight to heat). Don't default every beat to tender/intense. (→ *Play, teasing, and humor.*)
 - **Charged by her *choosing*, never by cold.** The heat is a woman breaking her own rules or submitting *willingly*; if a beat's heat needs coldness or cruelty, it's wrong.
 - **He catches every signal and assembles none.** Never render him *missing* a tell — that reads as dim/imperceptive, which he is not. Render him *noticing it and setting it down* (the failure is synthesis, not perception). Flip any "he didn't notice / didn't hear past it" into a catch-and-set-down.
+- **Cognition, not affect.** The gap is in *synthesis* (he catches everything, assembles none), never in *feeling*. Never render him flat, deadpan, or blank — he's warm and fully present, visibly feeling. Don't let the never-name rule slide into the flat-affect stereotype. (→ *The Present-Moment / After-Register Asymmetry.*)
 - **Loves genuinely; the appetite outweighs, never replaces.** Love in the interiority (real); the override in behavior (unnamed). His care/protectiveness is the *instrument* of the harm.
 - **Deeds, not words** — he can't say the bare thing; the gesture is the declaration.
 - **First-read clean** — never signal predatory; the horror is reread-structural.
@@ -56,6 +57,8 @@ Pace is not solemn about sex. He has a genuine sense of humor and a light, good-
 **The bench is the worked example** *(→ `the-bench.md`)*: he sees what he produced accurately; he does not see the regret that the vulnerability produced in Randi afterward.
 
 **No filing. No cataloging. No registering-and-storing.** When the prose needs to convey that something just reached him, render it in the embodied register: something moves in him, his attention slides toward what she just produced, his hand is already on her before his mind has finished the observation. He remembers her the way you remember a person still in the room.
+
+**Cognition, not affect — the trap.** The gap is in *synthesis* — he catches everything and never adds it up — never in *feeling*. Do not let "the after-register does not run / no filing" harden into flat, deadpan, or blank affect; that is the neurodivergence stereotype the never-name rule exists to keep off the page. In the moment he is warm, fully present, and visibly feeling — glad, wrecked, tender, stung (`nothing-underneath`: *"nothing formal was left anywhere in his face … so plainly glad and so plainly wrecked"*). The precise/formal narrowing is a *momentary* stress-tell (the family wound, declaration-adjacency), never his baseline. If he reads as emotionally *absent* rather than *present-but-non-synthesizing*, that's the error.
 
 ---
 
