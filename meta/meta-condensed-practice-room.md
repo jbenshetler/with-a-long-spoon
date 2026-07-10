@@ -1,8 +1,8 @@
-# Condensed — First Swat Debrief
+# Condensed — The Practice Room
 
-*SCENE · Draft complete · `first-swat-debrief.md` · early November, within a few days of the First Swat · SATC · music practice room (soundproof)*
+*SCENE · Draft complete · `practice-room.md` · early November, within a few days of A Recognized Method · SATC · music practice room (soundproof)*
 
-*Craft/why and beat-by-beat: [[meta-note-first-swat-debrief]].*
+*Craft/why and beat-by-beat: [[meta-note-practice-room]].*
 
 ## Summary
 
@@ -36,7 +36,7 @@ Unlike the Fitting Brunch car-curb kiss, the music room has no audience risk —
 
 ## Pays Off
 
-- The First Swat: the look, the unnamed wanting, the hook planted there
+- A Recognized Method: the look, the unnamed wanting, the hook planted there
 - Randi's escalating-story format: running since the Fitting Brunch, now shifted — the story serves extraction instead of preceding it
 
 ## Plants

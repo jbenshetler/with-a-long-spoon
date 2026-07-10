@@ -1,6 +1,6 @@
 # Condensed — We Find Out
 
-*SCENE · Draft complete · `we-find-out.md` · the Friday after the First Swat Debrief · Vee POV*
+*SCENE · Draft complete · `we-find-out.md` · the Friday after The Practice Room · Vee POV*
 
 The deliberate escalation of A Recognized Method — the proof of her own arousal, with the scrunchie provision folded in: recreation, naming, denial, physical proof — and the night the relationship's sealed-room engine first runs. Vee, who has thought about nothing but the swat all week, texts first for the first time (*I miss you, can I come by early?*) and arrives an hour early, before he's showered off the gym. She provokes without meaning to; he turns it into a game; he catches her.
 
@@ -14,4 +14,4 @@ The deliberate escalation of A Recognized Method — the proof of her own arousa
 
 **The scrunchies (provision folded in).** At the sink, nothing of hers to manage sex-wrecked hair, she finds a whole form waiting: **deep green with small white polka dots — distinct as a type, fungible as instances, not custom (online-found, not in local stores).** Named lovingly **once here and never adjectived again**; every later sighting is "a scrunchie" or "the green." She reads the care and the plenty (*he means to be looking at my hair a long while yet* — duration as devotion, registered emotionally, never counted). The design is calibrated for spring: distinct enough that Vee will recognize them on Randi, common enough that *she copied me / I told her about them* stays available — see [[meta-plan-scrunchie-gaslight]]. **The overnight-bag habit originates here:** in the mirror she stops pretending (*"Why do I keep pretending we're not going to sleep together"*; *"My Victorian LARPing does me no good when I'm sweaty and sticky"*), uses his antiperspirant, resolves to bring a bag. Habit cements by The Shirt — Re-Scenting.
 
-**Leans on:** the hair-need observed at A Recognized Method's departure (Mvt III — planned; [[meta-note-recognized-method]]); the spanking-as-escalation installed at [[meta-condensed-first-swat-debrief]]. **Saved for the Bench:** the auditory proof, the drip, the non-denial collapse — here the proof is visual and the ease of entry only.
+**Leans on:** the hair-need observed at A Recognized Method's departure (Mvt III — planned; [[meta-note-recognized-method]]); the spanking-as-escalation installed at [[meta-condensed-practice-room]]. **Saved for the Bench:** the auditory proof, the drip, the non-denial collapse — here the proof is visual and the ease of entry only.

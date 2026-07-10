@@ -95,7 +95,7 @@ Randi does not pronounce a thesis. She asks the question whose only answer is th
 
 - **Drafted seal:** *"I wanted it. And I took it. For once."* Mirrors Randi's reframe ("not a thing that happened to you, a thing you did") — Vee adopts the agency frame. "And I took it" is the ceiling: agency/ownership, brushing the forbidden sovereign-self-possession line; **"For once" is what caps it** — this night as the exception, not a method learned or a permanent new self. Randi's confirm is *"Good,"* with a hand laid over Vee's (approval-as-reward; the reward mechanism in one syllable, not a pronounced thesis).
 - **Too high (cut):** any insight that her shame is *fuel*; any sense she's learned a *method*; sovereign self-possession; and — critically — any lucidity that Randi is operating.
-- **Leave the deep shame live.** Don't surface the transgressive/body layer to convert it. Vee walks out lighter about being *a woman who wanted a man*, the body-shame entirely untouched and waiting. Durable, physiological ownership of shame-as-fuel is the later staircase (it first fires in retelling at First Swat Debrief), not this rung. The cruelty stays invisible-in-the-pattern, never loaded into this scene.
+- **Leave the deep shame live.** Don't surface the transgressive/body layer to convert it. Vee walks out lighter about being *a woman who wanted a man*, the body-shame entirely untouched and waiting. Durable, physiological ownership of shame-as-fuel is the later staircase (it first fires in retelling at The Practice Room), not this rung. The cruelty stays invisible-in-the-pattern, never loaded into this scene.
 
 ## Pacing guard
 

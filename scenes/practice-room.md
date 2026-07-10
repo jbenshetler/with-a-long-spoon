@@ -1,4 +1,4 @@
-# First Swat Debrief
+# The Practice Room
 
 The stats lecture met at eleven in one of the tiered rooms on the second floor of the math building, and Vee got there early the way she always did, underslept in a way that had nothing to do with the hour. She had not slept Sunday night, or not much, and not for any reason she could have said out loud in a room with the lights on. The weekend was still in her. He was still in her, the whole long ordinary miracle of it, and she had lain awake inside it and come to class wearing it like a coat she'd forgotten to take off.
 

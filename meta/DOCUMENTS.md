@@ -130,7 +130,7 @@ One file per non-trivial scene; the chronology entry links to it. To work on a s
 | `meta-condensed-the-cw-dance.md` | The CW Dance |
 | `meta-condensed-cw-dance-debrief.md` | The CW-Dance Debrief |
 | `meta-condensed-recognized-method.md` | A Recognized Method / The Setup |
-| `meta-condensed-first-swat-debrief.md` | First Swat Debrief |
+| `meta-condensed-practice-room.md` | The Practice Room |
 | `meta-condensed-the-top-drawer.md` | The Top Drawer |
 | `meta-condensed-the-new-ordinary.md` | The Shirt — Re-Scenting (The New Ordinary) |
 | `meta-condensed-we-find-out.md` | We Find Out |

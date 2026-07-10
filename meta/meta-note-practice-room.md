@@ -1,6 +1,6 @@
-# Note — First Swat Debrief
+# Note — The Practice Room
 
-*Companion to the unwritten scene: beat structure and unrendered craft. The container, the after-not-before structure, the bathroom-progression placement (and its supersession of the SATC-doc rung), and the plant ledger live in [[meta-condensed-first-swat-debrief]] and are not restated here.*
+*Companion to the unwritten scene: beat structure and unrendered craft. The container, the after-not-before structure, the bathroom-progression placement (and its supersession of the SATC-doc rung), and the plant ledger live in [[meta-condensed-practice-room]] and are not restated here.*
 
 **POV:** close third on Vee throughout. Randi stays opaque — her reading of Vee is shown only as Vee noticing she has been looked at, never from inside Randi. **Heat-by-kind:** Movement I opens dry-wry (the stats lecture) then turns warm/playful (earns the light); Movement II psychologically intense; Movements IV–V cold-under-warm. **Master guard:** first pass must read as *the glamorous friend delightedly drags the juicy details out of me, then sees me out warm* — every dark reading reread-only.
 
