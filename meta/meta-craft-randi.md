@@ -111,7 +111,7 @@ Petite (5'2"), built to the "proper" scale she maintains and grades other women 
 
 *On campus, when she is not performing* — Wednesday afternoon, chapter dinner, athleisure hours — she presents in social camouflage: Greek pastel quarter-zip, leggings, box-fresh trainers. The ponytail is constant; the costume varies by venue. The camouflage is still controlled, still correct, still exactly what the occasion calls for. The Art Deco grammar runs underneath it whether or not the full register is deployed.
 
-**The flat-date mirror** is this grammar at the moment of its failure: the eyeliner holds because nothing reached her eyes, and she rebuilds the rest of the face exact, and there is no one behind it. The precision intact on the surface, nothing inside it. The face is doing its job. The job has stopped meaning anything.
+**The Fairytale mirror** is this grammar at the moment of its failure: the eyeliner holds because nothing reached her eyes, and she rebuilds the rest of the face exact, and there is no one behind it. The precision intact on the surface, nothing inside it. The face is doing its job. The job has stopped meaning anything.
 
 ---
 
@@ -158,7 +158,7 @@ Keep her interior withheld; the reader assembles the masochism from what she vol
 
 ---
 
-## The Flat Date — How to Render It
+## Fairytale — How to Render It
 
 *(Unwritten scene; see `meta-plan-chronology.md` for plan. The bench for comparison: → `the-bench.md`.)*
 
@@ -184,6 +184,6 @@ Render Randi as the one who picks the venue for the lunches, positions herself i
 
 **The sadism and the genuine love are the same motion.** Not two separate things coexisting. The sadism is what love looks like when the channel for being-received is foreclosed. Render both at full force simultaneously; do not let the prose reduce her to pure operator or sentimentalize her into victim.
 
-**Half-seeing, not perceiving at depth.** At the flat date, she perceives that throttling produces nothing — that is what she sees. She does not perceive that advancing on the configuration will burn it through. The half-seeing is enough to be warned and not enough to be dissuaded. Render this as bodily knowledge of the alternative, not cognitive insight into her own appetite.
+**Half-seeing, not perceiving at depth.** At Fairytale, she perceives that throttling produces nothing — that is what she sees. She does not perceive that advancing on the configuration will burn it through. The half-seeing is enough to be warned and not enough to be dissuaded. Render this as bodily knowledge of the alternative, not cognitive insight into her own appetite.
 
 **She is tragic, not fated.** The wound did not drive her. She chose the channel. The choosing is what makes her tragic in the older sense: she saw enough of the alternative to know it was unlivable, and she returned to the plan anyway.

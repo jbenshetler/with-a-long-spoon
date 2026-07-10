@@ -31,7 +31,7 @@ Where the thesis and an architecture doc conflict, the thesis governs.
 | File | What it answers |
 |------|----------------|
 | `meta-arch-pace.md` | Pace's neurodivergence, consent architecture, chivalric grammar, vow against premature declaration, house/objects, the scar, method, arc. |
-| `meta-arch-randi.md` | The bench wound, the six-channel week, the SATC scenes as real life, the flat date, mutual envy, the cup compulsion, her future. **Contains 🔒 THE NEED ENGINE — LOCKED CANON (need vs. want; need re-filed as want; the being-seen fork; sadism as need inverted). Change only on explicit user instruction; never shortened or reinterpreted.** |
+| `meta-arch-randi.md` | The bench wound, the six-channel week, the SATC scenes as real life, Fairytale, mutual envy, the cup compulsion, her future. **Contains 🔒 THE NEED ENGINE — LOCKED CANON (need vs. want; need re-filed as want; the being-seen fork; sadism as need inverted). Change only on explicit user instruction; never shortened or reinterpreted.** |
 | `meta-arch-vivienne.md` | Vee's constitution, the cracker-and-meal architecture, the two registers, the dual outcome, parallel-and-opposite with Randi, the tragedy at two levels, what she carries forward. |
 | `meta-arch-bible.md` | Cross-character relational architecture; secondary characters (Cassie, Sheri, Brooke); craft rules that apply across all POVs; the chiasmus discipline. |
 
@@ -47,7 +47,7 @@ scene-level disciplines. Named `meta-craft-<character>`.
 |------|----------------|
 | `meta-craft-vivienne.md` | POV and reader identification; voice regression; behavioral signatures; the involuntary-signal hierarchy; deflection mechanics per relationship; the cutting voice at experience level; the chiasmus discipline; the three prose commitments. |
 | `meta-craft-pace.md` | *(to be created)* |
-| `meta-craft-randi.md` | POV and reader positioning; the speech engine (power wears warmth); reserved vocabulary (*seen* belongs to Pace); the cup/nail-press mechanics and firing rules; the locked door; physical description; SATC scene rendering; concealment from Pace; the flat date rendering; closing image; what the prose must hold. |
+| `meta-craft-randi.md` | POV and reader positioning; the speech engine (power wears warmth); reserved vocabulary (*seen* belongs to Pace); the cup/nail-press mechanics and firing rules; the locked door; physical description; SATC scene rendering; concealment from Pace; the Fairytale rendering; closing image; what the prose must hold. |
 | `meta-rules.md` | **Verification checklist.** Pass/fail propositions for Vee, Pace, Randi, cross-cutting structural rules, writing style (synthesized from `the-bench.md` and `the-pointing-game.md`), scene detail consistency (synthesized from `vee-tells-cassie-fitting.md`), and a pre-filing checklist. Run against any draft. For reasoning behind any rule, open the relevant craft file. |
 
 ---
@@ -141,7 +141,7 @@ One file per non-trivial scene; the chronology entry links to it. To work on a s
 | `meta-condensed-back-from-thanksgiving.md` | Back from Thanksgiving — Tells Cassie |
 | `meta-condensed-the-porch-scene.md` | The Porch Scene — Cracker-and-Meal |
 | `meta-condensed-christmas-fight.md` | The Christmas Fight |
-| `meta-condensed-flat-date.md` | The Flat Date |
+| `meta-condensed-fairytale.md` | Fairytale |
 | `meta-condensed-first-weekend-back.md` | First Weekend Back |
 | `meta-condensed-on-her-floor.md` | On Her Floor |
 | `meta-condensed-cw-jitterbug.md` | The CW Jitterbug Scene |

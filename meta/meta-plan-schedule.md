@@ -69,7 +69,7 @@ This block lives at the top of `meta-plan-chronology.md`, replacing the current 
 > **Calendar anchors** — *the only place hard dates live. All scene placement is relative to these. Revise here once; do not re-stamp individual scenes.* **Pinned internally to 2026–27 (hidden-year device — never on the page); dates below are the real 2026–27 calendar.**
 >
 > **Fall semester (2026)** — classes begin ~Mon Aug 31. Week 1 = Aug 31. Midterms ~mid-Oct (weeks 7–8). Thanksgiving break ~Wed Nov 25–Sun Nov 29 (Thanksgiving Thu Nov 26). Reading period / finals ~Mon Dec 14–Fri Dec 18.
-> **Winter break** — ~Sat Dec 19 – Sun Jan 17. (Town empties; campus dead. Load-bearing for the flat date — the emptiness is the content, not the date.)
+> **Winter break** — ~Sat Dec 19 – Sun Jan 17. (Town empties; campus dead. Load-bearing for Fairytale — the emptiness is the content, not the date.)
 > **Spring semester (2027)** — classes begin ~Mon Jan 18. Spring break ~mid March. Midterms ~late Feb. Reading period / finals late Apr–early May. Commencement ~Sat May 15.
 > **Summer** — *(TO BE SPECIFIED — see §6).* Candidate shape: Summer Session I ~mid-May–late June; Session II ~early July–mid-Aug; the long unstructured stretch is the texture, not the course schedule. Town half-empty, hot, slow; the academic-pressure layer goes silent.
 >
@@ -103,7 +103,7 @@ Day-of-week is load-bearing (the hungover day-after, the empty house). Pinned ha
 
 Nothing pinned. Reorder it, add a summer, shift the calendar — the *warm-day / cool-evening / early-fall / nothing-due-yet* texture is untouched, because that is what the prose was written against.
 
-**Fixed-window case — the flat date:**
+**Fixed-window case — Fairytale:**
 > *Season: deep winter, cold/grey, possible snow. Term: **winter break (hard window)** — dead campus, town emptied; the emptiness is the content. Day: soft. Relative constraint: after SATC track at full intensity, before the threesome is scheduled.*
 
 The *break window* is pinned (the empty town is the engine); the specific date inside it is free. The relative placement constraint travels *with* the texture line, so the logic lives next to the scene rather than buried in a flags list.
@@ -134,7 +134,7 @@ Summer-independent; the name migration is what makes expansion cheap (a name nev
 - [ ] Add a summer **phase** to the chronology (insert/renumber phases as the summer's position requires).
 - [ ] Convert every entry to carry a **texture line** (Layer 3 format).
 - [ ] Demote any remaining hard dates that aren't load-bearing to relative `(≈ …)` estimates; keep only the **(hard)**-tagged pins, each with a stated reason. *(Partly done: the condensed/note briefs already carry only relative anchors and the chronology owns all dates.)*
-- [ ] Move relative placement constraints (currently in the continuity-flags section, e.g. the flat-date placement flag) onto the relevant scenes' texture lines, so placement logic sits with the scene.
+- [ ] Move relative placement constraints (currently in the continuity-flags section, e.g. the Fairytale placement flag) onto the relevant scenes' texture lines, so placement logic sits with the scene.
 - [ ] Update `meta-process-chronology.md`: add **texture line** as a required field in "What Every Entry Must Contain," and the rule that **absolute dates live only in the anchor block** (entries carry derived estimates, never hard pins except where tagged **(hard)** with a reason).
 
 **Standing rule after migration:**

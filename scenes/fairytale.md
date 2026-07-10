@@ -1,4 +1,4 @@
-# The Flat Date
+# Fairytale
 
 *Randi's POV. New Year's Eve. The conventionally perfect man and the nothing he produces — the mirror aperture that confirms the configuration has no substitute.*
 
