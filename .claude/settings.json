@@ -14,6 +14,9 @@
       "Read(/tmp/**)",
       "Edit(/tmp/**)",
       "Write(/tmp/**)"
+    ],
+    "additionalDirectories": [
+      "/tmp"
     ]
   }
 }
