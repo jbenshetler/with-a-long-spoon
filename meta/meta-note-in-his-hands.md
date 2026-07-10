@@ -14,14 +14,25 @@ The gentle fall counterweight: warm, tender, unshadowed, low-explicit. It carrie
 
 ## The photo — earliest sole-channel seed
 
-The exchange is the disguise: *"What do you do when I'm not here?" / "I think of you as best I can, and touch myself." / "How's your memory?" / "Good, but not as good as seeing you."* It reads as tender want; underneath it plants **seeing as the channel** — his need for her image, and, crucially, **her own side**: she wants the photo, and she likes how she looks in it *because he does*. That vector — her sense of herself routed through his eyes — is what detonates when she's blindfolded at the threesome and can exist only *through* him (`meta-note-threesome-reveal.md`). Keep it light and a little vulnerable (Vee picturing him alone with the picture), never solemn, never a lecture on being seen. The sole-channel arc runs photo → the cabin's "he becomes her eyes" → the bench → the threesome kiss. The plain nude taken here is topped later by the painted-body photo in *Still Life* (shown to Randi at *Gesso*).
+Under the tender exchange it plants **seeing as the channel**: his need for her image when she's away, and — crucially — **her own side**, her sense of herself routed through his eyes (she likes how she looks *because he does*). That vector detonates when she's blindfolded at the threesome and can exist only *through* him (`meta-note-threesome-reveal.md`). The arc runs photo → the cabin's "he becomes her eyes" → the bench → the threesome kiss. (Rendered beat: `scenes/in-his-hands.md`.)
+
+Load-bearing mechanics:
+
+- **The photo is hers.** Taken on *Vee's* phone — better camera, and it puts every copy under her control. She sends Pace a copy herself, so the later "sharing" cascade is *her* hand; and his promise, narrowed to *"I'd never share your photograph,"* stays literally true while she does the sharing (the genie-bargain — he keeps the exact terms he set).
+- **She curates.** She cleans up, does her makeup (the eyes, the poppy-red mouth), and poses a composed **Playboy-glamour pinup**, legs together — *the version of herself she wants him to keep.* Pace prefers the raw her (*"I like you exactly like this"*) and **defers**; he arranges the pose, she controls the surface.
+- **The naked-picture worry grounds the send.** She knows what such a picture can do — it's why she made him promise — and sends it anyway, on trust. That's the brave part.
+- **The kink shows on the send, never named.** His erection returns the moment she *sends* (her willing self-transgression, not the picture), caught by Vee but not assembled; she takes him in hand. Timing seeds it; nothing explains it.
+
+**Extracted in two steps.** In the SATC track Vee doesn't hand Randi the whole thing at once — she shows a **cropped** (waist-up) version first, and Randi's *"you only gave him half of you"* needles the withholding until Vee turns over the **full-length** pinup. (That cropped→full reveal is *this* photo's spend; it lives in the SATC scene, not here.)
+
+**The curated → raw ladder (photo to photo).** This is a *curated glamour nude* — she controls how she's seen. Its rung up is the spring **`still-life`** photo: **raw and explicit**, between the legs, no clean-up — extracted from her in *its own* two-step reveal in a *different* SATC scene. The escalation across the two photos is control → loss-of-control, the same surrender her whole arc makes (ending blindfolded, unable to see herself at all).
 
 ## The Thanksgiving exchange — Sheri planted
 
 A natural *"What about Thanksgiving?"* Two things, both light, neither dwelt on:
 
 - **Sheri, named.** Pace is cooking for a friend — Sheri — *"She's alone."* Warmth; respect for her autonomy (he won't tell her story, *that's Sheri's to tell*); defuses toward *pity, not romance* (points Vee inward/safe, not toward a rival); a sidelong glimpse of his own aloneness by proxy (the other one with no family table). Keep Sheri **offstage/reported** — her first on-page meeting is *Another Round* (~late January).
-- **The family shadow — deflect, then one fact.** Vee pushes a little; his warm/present voice goes precise and formal (the canon stress-tell), and he gives **one flat fact only** — *I don't go home* — never the why. The **cause stays vaulted**: no bike-dragging (the spring Scar telling, `meta-note-scar-reveal.md`), no first love (late summer, `meta-note-first-love.md`). Effect, never cause.
+- **The family shadow — deflect, then one fact.** Vee pushes a little; his warm/present voice goes precise and formal (the canon stress-tell), and he gives **one flat fact only** — *I don't go back* — never the why. The **cause stays vaulted**: no bike-dragging (the spring Scar telling, `meta-note-scar-reveal.md`), no first love (late summer, `meta-note-first-love.md`). Effect, never cause.
 
 ## Seeds forward
 

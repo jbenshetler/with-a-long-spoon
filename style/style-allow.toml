@@ -550,6 +550,111 @@ text = "She had everything he did and not the one thing he wouldn't say, and the
 note = "canon echo of Under the Rug coda vocabulary (the big one / the small one)"
 
 [[ok]]
+fp   = "22b6410a32a0"
+rule = "began-to"
+file = "scenes/in-his-hands.md"
+text = "She started to get up."
+note = "Reviewed with author 2026-07-10: all defensible — Pace dialogue, the accepted Thanksgiving exchange, load-bearing antithesis (a body/not a body; phone/not his), the false-positive idiom (all the way around), inceptive began-to, idiomatic there-was."
+
+[[ok]]
+fp   = "74654922b8e6"
+rule = "began-to"
+file = "scenes/in-his-hands.md"
+text = "she said, and started to arrange herself."
+note = "Reviewed with author 2026-07-10: all defensible — Pace dialogue, the accepted Thanksgiving exchange, load-bearing antithesis (a body/not a body; phone/not his), the false-positive idiom (all the way around), inceptive began-to, idiomatic there-was."
+
+[[ok]]
+fp   = "268ae500b3c9"
+rule = "filter-verbs"
+file = "scenes/in-his-hands.md"
+text = "There was no door left open for her to step through, and she felt, low and quick, that she had put her hand on something she wasn't meant to touch, and she took her hand off it."
+note = "Reviewed with author 2026-07-10: all defensible — Pace dialogue, the accepted Thanksgiving exchange, load-bearing antithesis (a body/not a body; phone/not his), the false-positive idiom (all the way around), inceptive began-to, idiomatic there-was."
+
+[[ok]]
+fp   = "020fc0b186a5"
+rule = "the-way"
+file = "scenes/in-his-hands.md"
+text = "\"The way you look after."
+note = "Reviewed with author 2026-07-10: all defensible — Pace dialogue, the accepted Thanksgiving exchange, load-bearing antithesis (a body/not a body; phone/not his), the false-positive idiom (all the way around), inceptive began-to, idiomatic there-was."
+
+[[ok]]
+fp   = "836d96adbcef"
+rule = "the-way"
+file = "scenes/in-his-hands.md"
+text = "He turned toward her, and kept turning, rolling up onto his side and coming all the way around until his body lay nearly square across hers, his feet off the far edge of the bed, and he set his head down on the lower slope of her breast with his cheek against her skin."
+note = "Reviewed with author 2026-07-10: all defensible — Pace dialogue, the accepted Thanksgiving exchange, load-bearing antithesis (a body/not a body; phone/not his), the false-positive idiom (all the way around), inceptive began-to, idiomatic there-was."
+
+[[ok]]
+fp   = "b7beea57401a"
+rule = "the-way"
+file = "scenes/in-his-hands.md"
+text = "He said it the way a person says it about someone they're glad to be able to feed, and the flicker went out as fast as it had come."
+note = "Reviewed with author 2026-07-10: all defensible — Pace dialogue, the accepted Thanksgiving exchange, load-bearing antithesis (a body/not a body; phone/not his), the false-positive idiom (all the way around), inceptive began-to, idiomatic there-was."
+
+[[ok]]
+fp   = "0bd4d2a4a0a6"
+rule = "there-was-were"
+file = "scenes/in-his-hands.md"
+text = "She ate, and for a while there was nothing she wanted to do but that, the chicken gone tender in the sauce and the pasta holding the lemon under it, and he let her."
+note = "Reviewed with author 2026-07-10: all defensible — Pace dialogue, the accepted Thanksgiving exchange, load-bearing antithesis (a body/not a body; phone/not his), the false-positive idiom (all the way around), inceptive began-to, idiomatic there-was."
+
+[[ok]]
+fp   = "47bdb609c111"
+rule = "there-was-were"
+file = "scenes/in-his-hands.md"
+text = "Now she tasted, and there was no going back to the other, and she knew exactly whose doing that was."
+note = "Reviewed with author 2026-07-10: all defensible — Pace dialogue, the accepted Thanksgiving exchange, load-bearing antithesis (a body/not a body; phone/not his), the false-positive idiom (all the way around), inceptive began-to, idiomatic there-was."
+
+[[ok]]
+fp   = "f54ae8e2632d"
+rule = "there-was-were"
+file = "scenes/in-his-hands.md"
+text = "There was no door left open for her to step through, and she felt, low and quick, that she had put her hand on something she wasn't meant to touch, and she took her hand off it."
+note = "Reviewed with author 2026-07-10: all defensible — Pace dialogue, the accepted Thanksgiving exchange, load-bearing antithesis (a body/not a body; phone/not his), the false-positive idiom (all the way around), inceptive began-to, idiomatic there-was."
+
+[[ok]]
+fp   = "351296d088a9"
+rule = "x-not-y"
+file = "scenes/in-his-hands.md"
+text = "He caught her by the wrist, easy, not to stop her, only to say it."
+note = "Reviewed with author 2026-07-10: all defensible — Pace dialogue, the accepted Thanksgiving exchange, load-bearing antithesis (a body/not a body; phone/not his), the false-positive idiom (all the way around), inceptive began-to, idiomatic there-was."
+
+[[ok]]
+fp   = "a29dcfabc61b"
+rule = "x-not-y"
+file = "scenes/in-his-hands.md"
+text = "No man had ever wanted her body like this one did, and with Pace she was a girl who had a body, not a body that happened to have a girl attached to it."
+note = "Reviewed with author 2026-07-10: all defensible — Pace dialogue, the accepted Thanksgiving exchange, load-bearing antithesis (a body/not a body; phone/not his), the false-positive idiom (all the way around), inceptive began-to, idiomatic there-was."
+
+[[ok]]
+fp   = "c1ab9cb46af5"
+rule = "x-not-y"
+file = "scenes/in-his-hands.md"
+text = "His lips closed over her, not taking her into his mouth, only holding the risen tip of her a moment between his lips, gentle."
+note = "Reviewed with author 2026-07-10: all defensible — Pace dialogue, the accepted Thanksgiving exchange, load-bearing antithesis (a body/not a body; phone/not his), the false-positive idiom (all the way around), inceptive began-to, idiomatic there-was."
+
+[[ok]]
+fp   = "cbb7c77e8fe7"
+rule = "x-not-y"
+file = "scenes/in-his-hands.md"
+text = "He reached across her to the nightstand and took up her phone, not his, because hers took the better picture and they both knew it, and stood off at the foot of the bed and lifted it."
+note = "Reviewed with author 2026-07-10: all defensible — Pace dialogue, the accepted Thanksgiving exchange, load-bearing antithesis (a body/not a body; phone/not his), the false-positive idiom (all the way around), inceptive began-to, idiomatic there-was."
+
+[[ok]]
+fp   = "e6d56e9eab07"
+rule = "x-not-y"
+file = "scenes/in-his-hands.md"
+text = "\"Again,\" she said, not a question this time, and reached over and closed her hand around him."
+note = "Reviewed with author 2026-07-10: all defensible — Pace dialogue, the accepted Thanksgiving exchange, load-bearing antithesis (a body/not a body; phone/not his), the false-positive idiom (all the way around), inceptive began-to, idiomatic there-was."
+
+[[ok]]
+fp   = "eacd84a2bf09"
+rule = "x-not-y"
+file = "scenes/in-his-hands.md"
+text = "\"No, not like that."
+note = "Reviewed with author 2026-07-10: all defensible — Pace dialogue, the accepted Thanksgiving exchange, load-bearing antithesis (a body/not a body; phone/not his), the false-positive idiom (all the way around), inceptive began-to, idiomatic there-was."
+
+[[ok]]
 fp   = "d7ca7af7b560"
 rule = "file-verb"
 file = "scenes/my-friend-randi.md"

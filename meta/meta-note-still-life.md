@@ -37,6 +37,8 @@ His painting-with-her-fluids is also a major **His-Relish** beat — his appetit
 
 The photo she wants here is of her **nude, waxed, painted, transformed body** — to hand to Pace and, at Gesso, to show Randi. It is the **escalation** of the plain nude from *In His Hands* (which holds the earliest, best-disguised sole-channel seed): not just a sexy picture but a picture of what he has *made* of her, which she loves because it is how he sees her. The sole-channel deepens — she likes how she looks only through his eyes — running In His Hands → here → the cabin's "he becomes her eyes" → the bench → the threesome kiss (`meta-note-threesome-reveal.md`).
 
+Where the *In His Hands* nude was **curated** — she cleaned up, made up, posed a legs-together pinup, controlling how she was seen — this one is **raw and explicit**: between the legs, no clean-up, her transformed body shown as it is. That's the ladder's rung: curated → raw, control → loss-of-control. And like the first, it's **extracted in two steps** — cropped, then full — when she shows it to Randi at Gesso (`meta-condensed-gesso.md`).
+
 ## Seeds forward
 
 - **"Adventure"** — coined here in the afterglow, joyful, hers, Pace present → first *invited* at the cabin (`meta-note-cabin-weekend.md`) → detonates at the threesome. Rides out unremarked; never named as a code.

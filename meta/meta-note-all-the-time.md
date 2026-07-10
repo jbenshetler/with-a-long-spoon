@@ -12,6 +12,10 @@ A change-up from the recount spine (the track's own design licenses non-recount 
 
 A general conversation still serves extraction. Randi draws Vee into *naming* what she otherwise only lives — the continuous hunger, the crackers-and-meal shape (she's hungry, he's the meal), the way his attention is a constant rather than an event. Double register, no word changing: indulgent-friend warmth on first read, the operator taking inventory of the load-bearing wall (his tenderness and frequency are what Vee runs on) on reread. Withhold Randi's interior; her want shows only in the wordless beats.
 
+## The photo — cropped, then full
+
+Vee shows Randi the *In His Hands* nude here, in **two steps**: a **cropped** (waist-up) version first, holding back, then — needled by Randi's *"you only gave him half of you?"* — the **full-length** pinup, produced to prove she gave Pace all of herself. Warm-bawdy on first read, *finish handing yourself over* on reread; Vee reveals *more* to answer a dare, no one asking outright. This is the **curated** rung of the photo ladder (she controls how she's seen); the raw, explicit *Still Life* photo tops it at Gesso (`meta-note-in-his-hands.md`, `meta-note-still-life.md`).
+
 ## The anthro invite
 
 Late in the scene, warm and offhand, Vee invites Randi to sign up for **spring anthropology** together. The fall stats class was accidental (Vee, Randi, Cassie fell into one room); the spring class is **chosen** — Vee authors it herself, the sealed room beginning at the level of her own schedule. Cassie is peeled off blamelessly (her locked pre-nursing track can't fit the elective). Buries silently — resonance only, never a diagram. (`meta-note-anthro.md`.)
