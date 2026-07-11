@@ -22,7 +22,7 @@ Every entry in the chronology — scene, vignette, or event — must have:
 
 1. **Type label:** `[SCENE]`, `[VIGNETTE]`, or `[EVENT]`
 2. **Title** — the scene's name, its permanent identity handle. **No sequential number:** narrative order is carried by list position within the phase (see `meta-plan-schedule.md`), and sub-clusters sit in plain adjacency. Cross-references everywhere use the name, never a number.
-3. **Approximate date and day of week** — format: `~Fri Sep 1` or `~early October`. Use `~` for all approximations. Pin to specific dates where the narrative requires it (e.g. the Walk of Shame must be a Saturday morning).
+3. **Approximate date and day of week** — format: `~Fri Sep 1` or `~early October`. Use `~` for all approximations. Pin to specific dates where the narrative requires it (e.g. Standards must land on a Saturday morning).
 4. **Status line:** `draft complete`, `partial`, `beats only`, `unwritten`, or `not a scene` — plus file reference if a draft exists
 5. **Summary:** one paragraph maximum for scenes and vignettes; one to two sentences for events. For completed drafts, the summary must reflect what is actually written, not the original plan.
 

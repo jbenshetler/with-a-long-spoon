@@ -106,7 +106,7 @@ One file per non-trivial scene; the chronology entry links to it. To work on a s
 | File | Scene |
 |------|-------|
 | `meta-condensed-the-bench.md` | The Bench |
-| `meta-condensed-randis-walk-of-shame.md` | Randi's Walk of Shame |
+| `meta-condensed-standards.md` | Standards |
 | `meta-condensed-the-pointing-game.md` | The Pointing Game (diptych) |
 | `meta-condensed-together-in-class.md` | Together in Class / Chi Latte |
 | `meta-condensed-the-meet-cute.md` | The Engineered Meet-Cute |
@@ -187,7 +187,7 @@ Listed in chronological order (filesystem = `scenes/`; order, names, and status 
 | File | Scene | Status |
 |------|-------|--------|
 | `the-bench.md` | The Bench | complete |
-| `randis-walk-of-shame.md` | Randi's Walk of Shame | complete |
+| `standards.md` | Standards | complete |
 | `the-pointing-game.md` | The Pointing Game (diptych — bed + campus walk) | complete |
 | `together-in-class.md` | Together in Class / Chi Latte (diptych) | complete |
 | `the-meet-cute.md` | The Engineered Meet-Cute | complete |

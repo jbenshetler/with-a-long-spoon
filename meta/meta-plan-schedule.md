@@ -26,7 +26,7 @@ The jobs are distinct and have **opposite stability profiles**:
 
 ### Layer 1 — Identity: the name
 
-The **distinctive scene name is the permanent handle.** "The Fitting," "The Froyo Walk," "Randi's Walk of Shame." All cross-references in all `meta-*` docs point at the name. A name never breaks on insertion, reorder, renumber, or calendar revision.
+The **distinctive scene name is the permanent handle.** "The Fitting," "The Froyo Walk," "Standards." All cross-references in all `meta-*` docs point at the name. A name never breaks on insertion, reorder, renumber, or calendar revision.
 
 - **Cross-references use names, not numbers:** "see The Fitting," not "see scene 15."
 - **Optional stable ID (birth-order):** if a numeric handle is ever wanted (tooling, "X of ~41" tracking), assign a *never-reassigned birth-order* ID — the scene's permanent serial, unrelated to position. The Froyo Walk is born `#008` and dies `#008` regardless of where it sits or what month it lands in. New scenes take the next free integer. **This is optional; names already serve as handles.** Adopt only if numeric sorting in a tool becomes useful.
@@ -93,7 +93,7 @@ A date earns a hard pin **only when the prose depends on the specific day**, not
 
 **Worked examples (the three cases):**
 
-**Hard-date case — Randi's Walk of Shame:**
+**Hard-date case — Standards:**
 > *Season: early fall, warm. Term: week 1, settling-in. Day: **Saturday morning (hard)** — the day-after, empty house; the gauntlet only happens because it's a weekend. (≈ Sep 2.)*
 
 Day-of-week is load-bearing (the hungover day-after, the empty house). Pinned hard. Everything else relative.

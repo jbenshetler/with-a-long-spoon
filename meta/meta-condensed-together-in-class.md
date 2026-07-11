@@ -36,4 +36,4 @@ Parting on the sidewalk: a hug, the cold-citrus smell, a hand flat between her s
 
 ## Revision Notes
 
-> **Chi Latte vs. Wilson Street — keep distinct.** Chi Latte (the Greek-heavy, yellow, Draper Street shop) is the Randi venue, introduced here. Wilson Street stays the meet-cute venue (The Engineered Meet-Cute) and the quiet study spot from Randi's Walk of Shame. Two separate places.
+> **Chi Latte vs. Wilson Street — keep distinct.** Chi Latte (the Greek-heavy, yellow, Draper Street shop) is the Randi venue, introduced here. Wilson Street stays the meet-cute venue (The Engineered Meet-Cute) and the quiet study spot from Standards. Two separate places.
