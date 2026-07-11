@@ -155,4 +155,23 @@ These are the project's hard constraints (full versions in the Bible's Global Cr
 - **When the plan conflicts with itself across documents**, surface the conflict and the version lineage rather than quietly resolving it — these are authorial decisions.
 - **Regenerate the chronology HTML after editing the chronology.** Whenever you change `meta/meta-plan-chronology.md`, run `tools/chronology_html.py` to rebuild `chronology.html` and include the regenerated `chronology.html` in the same commit — never commit or push a chronology edit without refreshing its HTML.
 - **Naming:** "Pace" (the D role / public self) vs "Peter" (the hidden true self) is load-bearing — if Vee uses "Peter," it should land. "Vee" / "Vivienne Thorne" (V.T. = Virginia Tech). Setting is Virginia Tech, Blacksburg.
-- **Filenames** are kebab-case in `scenes/`; `meta/` mixes kebab-case and snake_case (no version suffixes — git tracks history). Follow the convention of the directory you're adding to.
+- **Filenames** are kebab-case in `scenes/`; `meta/` mixes kebab-case and snake_case (no version suffixes — git tracks history). Follow the convention of the directory you're adding to. **On-disk slugs drop the leading article** (`the`/`a`) to avoid "the"-clustering in `scenes/`, while the **display title keeps the article** — e.g. title "The New Ordinary" / slug `new-ordinary`, title "The Fitting" / slug `fitting`. Companion docs follow the slug (`meta-condensed-<slug>.md`, `meta-note-<slug>.md`). When renaming, distinguish scene-**title** references (update) from same-word prose/object/event uses (preserve).
+
+## Scene titles
+
+**Titles carry meaning, never plot.** Every scene title should hit *more than one* of: oblique · ambiguous · erotic · ironic · layered. Two hard rules: (1) the title must **not telegraph** what happens in the chapter; (2) it must be **meaningful only after reading** it (ideally deepening on reread).
+
+**The engine:** present an innocuous, literal, or idiomatic **surface** going in, and detonate a **charged** second meaning once the chapter is read. The strongest titles **launder the erotic or the dark through ordinary/domestic language**, so nothing is given away and the irony is invisible from outside the chapter. A good title names a *frame* that turns out to mean something else — **never the central object or action.**
+
+Worked examples (all endorsed):
+- **A Recognized Method** — surface: a dish-soaking domestic idiom → charge: swatting as an erotic "method," and her body's involuntary method of arousal. (oblique/erotic/ironic/layered)
+- **The Practice Room** — surface: a campus music room → charge: where Randi & Vee *rehearse* the seduction mechanism. (oblique/ironic/layered)
+- **The New Ordinary** — surface: the new domestic routine → charge: the erotic baseline later scenes depart from; ordinariness as cover for deepening possession. (oblique/ironic/layered)
+- **In Her Place** (was "Green Sheets") — surface: Randi in the spot Vee planned → charge: "put in her place" (humiliation/dominance); usurped position. (erotic/ironic/ambiguous/layered)
+- **The Usual** (was "Cheeseburgers") — surface: their customary diner meal → charge: Pace's default of love-as-ledger; the warmth is the tell. (oblique/ironic/layered)
+- **Old Acquaintances** (was "Vee — Christmas") — surface: Auld Lang Syne nostalgia → charge: the unresolved Pace/Randi "acquaintances"; jealousy poisoning memory. (ironic/ambiguous/layered)
+- **Fairytale** — surface: Randi's charming-prince fantasy → charge: the flawless man reaches nothing — proof Pace is irreplaceable; the acceptable lie. (ironic/ambiguous/layered)
+
+**Anti-pattern (rejected):** "Still My Shirt," "Wearing Him" — they name the prop/gesture, so they telegraph and go inert once read.
+
+**When proposing titles:** lead with oblique/ironic frames; for each candidate, state the innocuous surface vs. the reread charge and which goals it hits; explicitly flag any candidate that names the central object/act (telegraphs) so it can be ruled out fast.
