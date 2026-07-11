@@ -10,7 +10,7 @@ It also **plants the beige-life thread** (registry: `meta-arch-bible.md`): the h
 
 ## Form (the one rule that shapes everything)
 
-**One location, one night, all interior: alone in her childhood bed, sleepless, New Year's Eve.** The parents never appear on camera — home arrives only in recollection and on her phone. This keeps the discipline that *only school-people are present in a scene* (the same move as Back from Thanksgiving's off-page table), and it structurally mirrors Bare: one bed, one night, interior. Everything beige — the tree, the wrapping, Wheel of Fortune, the questions — is memory, already flat-tinted.
+**One location, one night, all interior: alone in her childhood bed, sleepless, New Year's Eve.** The parents never appear on camera — home arrives only in recollection and on her phone. This keeps the discipline that *only school-people are present in a scene* (the same move as Cropped's off-page table), and it structurally mirrors Bare: one bed, one night, interior. Everything beige — the tree, the wrapping, Wheel of Fortune, the questions — is memory, already flat-tinted.
 
 ## The New Year's frame (the clock and the turn)
 

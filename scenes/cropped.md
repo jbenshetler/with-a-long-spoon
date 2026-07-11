@@ -1,4 +1,4 @@
-# Back from Thanksgiving — Tells Cassie
+# Cropped
 
 The athletic cafeteria had the better food and, more to the point, somewhere to actually sit, so that was where they ended up, the two of them, neither an athlete, at a table near the windows. Sunday dinner, the night everyone came back. A low murmur under the high ceiling, syncopated by the clink of steel on hard plastic.
 

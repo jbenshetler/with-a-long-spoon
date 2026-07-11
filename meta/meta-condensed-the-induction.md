@@ -19,11 +19,11 @@ The daydream (Dress Pickup coda: the room turning for her) is subverted — the 
 Cassie finds her; Vee asks *"How did I look?"* (the only thing in her head). Cassie: *"Like a movie star. Somebody had to document it."* — the candid caught on Vee's phone: mid-stride, leg to the hip, whole and uncropped, "a woman who had every part of it handled, because she had." Vee knows to the heartbeat what second it is (the one she chose; the heat isn't in the frame, or is, and only she sees it). She sends it uncropped to Pace — the nearest thing to handing him the sight he missed; he'll watch the dress do the one thing he built it to do and never know what else is in the frame. Close on the walk out, the slit let to swing, pride and heat no longer tellable apart.
 
 ### The double register (canonical)
-First read: a warm, triumphant, sexy achievement beat — best day, best dress, best friend. Cold only on reread: the proud photo is the wanting-photo, and it is the same image that reaches her mother CROPPED in Back from Thanksgiving (she'll edit out the leg — the exact thing that made her feel like herself). The friend who documents the moment is the one the configuration later peels away — the last fully unclouded Cassie-and-Vee joy, set between School Nights (recession clocked) and Back from Thanksgiving (evasion, the door closed). Both orchestrators dressed her and neither was present. **Never signal any of it.**
+First read: a warm, triumphant, sexy achievement beat — best day, best dress, best friend. Cold only on reread: the proud photo is the wanting-photo, and it is the same image that reaches her mother in Cropped (she'll edit out the leg — the exact thing that made her feel like herself). The friend who documents the moment is the one the configuration later peels away — the last fully unclouded Cassie-and-Vee joy, set between School Nights (recession clocked) and Cropped (evasion, the door closed). Both orchestrators dressed her and neither was present. **Never signal any of it.**
 
 ### Foreshadow / installs
 - **On Her Floor (spring):** the hand at the hip/hem and being-seen-becomes-power are installed here in the *contained, chosen* key; Randi later un-contains and weaponizes the same charge (the skirt riding up without her say). Induction = she controls the reveal; On Her Floor = she loses control of it.
-- **The cropped induction photo** in Back from Thanksgiving gets its origin and its charge here (whole and thrilling now → curated and hollowed for the parents later).
+- **The cropped induction photo** in Cropped gets its origin and its charge here (whole and thrilling now → curated and hollowed for the parents later).
 - Frosted-plum nails match Shoe Shopping (updated there for consistency).
 
 ### Guards

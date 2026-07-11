@@ -138,7 +138,7 @@ One file per non-trivial scene; the chronology entry links to it. To work on a s
 | `meta-condensed-still-life.md` | Still Life |
 | `meta-condensed-gesso.md` | Gesso — Vee Tells Randi |
 | `meta-condensed-outlier.md` | The Outlier |
-| `meta-condensed-back-from-thanksgiving.md` | Back from Thanksgiving — Tells Cassie |
+| `meta-condensed-cropped.md` | Cropped |
 | `meta-condensed-the-porch-scene.md` | The Porch Scene — Cracker-and-Meal |
 | `meta-condensed-believe-me.md` | Believe Me |
 | `meta-condensed-fairytale.md` | Fairytale |
@@ -205,7 +205,7 @@ Listed in chronological order (filesystem = `scenes/`; order, names, and status 
 | `stats-simpsons-paradox.md` | Stats — Simpson's Paradox | complete |
 | `cw-dance.md` | The CW Dance | complete |
 | `cw-dance-debrief.md` | The CW-Dance Debrief | complete |
-| `back-from-thanksgiving.md` | Back from Thanksgiving — Tells Cassie | complete |
+| `cropped.md` | Cropped | complete |
 | `porch-scene.md` | The Porch Scene — Cracker-and-Meal | complete |
 | `vee-on-the-bench.md` | Vee on the Bench | complete |
 | `ignition-scalding.md` | Scalding Jealousy Ignition | draft in progress (holding bay — placement TBD) |

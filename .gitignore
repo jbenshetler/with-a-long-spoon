@@ -10,3 +10,4 @@ MEMORY.md
 ref/
 *.swp
 images/
+__pycache__/
