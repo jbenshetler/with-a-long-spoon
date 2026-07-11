@@ -83,7 +83,7 @@ The first night is the discharge of the Fitting's deferred tension. Pace invited
 >
 > **The nail color:** burgundy — close to the silk he chose for her dress; connection noticed by her, not named. Her interior color is green (the panties and matching bra). Burgundy is exterior / his; green is interior / hers. Do not conflate.
 >
-> **The scar:** inside of his thigh, close to the hip. Surgical, old. She asks with her finger and gets nothing verbal. It will return in a later chapter. Do not explain it here or in Cassie-After.
+> **The scar:** inside of his thigh, close to the hip. Surgical, old. She asks with her finger and gets nothing verbal. It will return in a later chapter. Do not explain it here or in Toenails.
 
 ---
 
@@ -102,4 +102,4 @@ The first night is the discharge of the Fitting's deferred tension. Pace invited
 - **The no-management-gap** — closes completely here for the first time; reopens the moment she narrates the night to Randi at the First-Night Debrief; that reopening is Randi's opening
 - **The green panties** — her interior color, the thing she chose for herself alone; the **green sheets** beat (undocumented; a future scene in which she gifts him green sheets)
 - **The trade** — he has the panties; a kept thing, not a collection; both know; neither mentions it again
-- **Cassie-After** — Vee will try to tell Cassie and discover that the body of this night has no channel to Cassie; the friendship's first withheld thing; the vacancy Randi fills
+- **Toenails** — Vee will try to tell Cassie and discover that the body of this night has no channel to Cassie; the friendship's first withheld thing; the vacancy Randi fills

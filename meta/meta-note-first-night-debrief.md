@@ -47,13 +47,13 @@ Ran into an old boyfriend on campus. "I thought, he's so good-looking, why did w
 
 ## Vee's clean version + the sheet flourish
 
-Vee gives the same version she gave Cassie — the dinner whole: the apron, garlic and pepper blooming, the patient complete attention, the fra diavolo, the Chianti opened before she came (cassie-after.md, where she "lifted out the middle clean as you lift a stitch" and Cassie let it stand). She tops it with the flourish she's proudest of, the thing she thinks seals "most romantic":
+Vee gives the same version she gave Cassie — the dinner whole: the apron, garlic and pepper blooming, the patient complete attention, the fra diavolo, the Chianti opened before she came (toenails.md, where she "lifted out the middle clean as you lift a stitch" and Cassie let it stand). She tops it with the flourish she's proudest of, the thing she thinks seals "most romantic":
 
 > "and after I sat in the kitchen wrapped only in a bedsheet watching him cook me dinner."
 
 She volunteers it believing it's safe and cozy. It smuggles in everything she lifted out for Cassie: the nakedness, the sex, and the *sequence* (dinner came after). She hands Randi the architecture inside the detail she was proudest of.
 
-**Cassie-After rhyme and inversion.** With Cassie the dinner is the safe, whole thing she *can* give, and Cassie lets it close the door ("He cooked." "A man made you dinner." "Mm."). Randi uses the dinner's own logic to open it. Same detail, opposite confidante: one lets it stand, one walks through it.
+**Toenails rhyme and inversion.** With Cassie the dinner is the safe, whole thing she *can* give, and Cassie lets it close the door ("He cooked." "A man made you dinner." "Mm."). Randi uses the dinner's own logic to open it. Same detail, opposite confidante: one lets it stand, one walks through it.
 
 This also fires the no-management-gap engine exactly: narrating a present-tense bodily fact (*I sat there in only a sheet*) to another woman in daylight re-enters the self-watching she didn't have in the moment. The flush isn't Randi shaming her — it's Vee hearing her own image land as *floozie in a man's sheet* the second it's out of her mouth.
 

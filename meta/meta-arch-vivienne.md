@@ -186,7 +186,7 @@ She does not take for her panties. The artifact stays.
 
 *(Unwritten; see `meta-plan-chronology.md` for plan. For Cassie's function throughout, see `meta-arch-bible.md`.)*
 
-After the leaving, Vee breaks down to Cassie — the telling structurally forced (Pace and Randi vanish from her life the same day, and Cassie is owed the why) and structurally earned (the far bookend of Cassie — After, where shame kept her silent; sovereignty now lets her speak). This is the load-bearing thesis-delivery scene. She recounts the facts freely — articulate about *what happened*; only the *cost* stays beyond words.
+After the leaving, Vee breaks down to Cassie — the telling structurally forced (Pace and Randi vanish from her life the same day, and Cassie is owed the why) and structurally earned (the far bookend of Toenails, where shame kept her silent; sovereignty now lets her speak). This is the load-bearing thesis-delivery scene. She recounts the facts freely — articulate about *what happened*; only the *cost* stays beyond words.
 
 Cassie speaks the era's grammar in convicted form after hearing Vee out: the best sex of your life, getting better every week, the most intense friendship of your life — *where do I sign up?* The line lands as conviction, not bromide. Cassie is right within the available frame. Almost any reflective woman would sign up. She has now heard the whole of it, the wreckage included, and would sign up anyway — not because the cost is small but because it cannot be known until it is lived. Her yes measures the cost; it does not dismiss it.
 

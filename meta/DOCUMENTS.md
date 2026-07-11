@@ -116,12 +116,12 @@ One file per non-trivial scene; the chronology entry links to it. To work on a s
 | `meta-condensed-vee-tells-cassie-dinner.md` | Vee Tells Cassie — Dinner |
 | `meta-condensed-the-smoothie-shop.md` | The Smoothie Shop |
 | `meta-condensed-hiking-rainstorm.md` | The Hiking Rainstorm |
-| `meta-condensed-vee-tells-cassie-hike.md` | Vee Tells Cassie — Hike (pure-romance telling; pairs with Cassie — After) |
+| `meta-condensed-vee-tells-cassie-hike.md` | Vee Tells Cassie — Hike (pure-romance telling; pairs with Toenails) |
 | `meta-condensed-fitting.md` | The Fitting |
 | `meta-condensed-vee-tells-cassie-fitting.md` | Vee Tells Cassie About the Fitting |
 | `meta-condensed-how-its-done.md` | How It's Done |
 | `meta-condensed-first-night.md` | First Night Together |
-| `meta-condensed-cassie-after.md` | Cassie — After |
+| `meta-condensed-toenails.md` | Toenails |
 | `meta-condensed-first-night-debrief.md` | First-Night Debrief |
 | `meta-condensed-dress-pickup.md` | Dress Pickup |
 | `meta-condensed-stats-simpsons-paradox.md` | Stats — Simpson's Paradox |
