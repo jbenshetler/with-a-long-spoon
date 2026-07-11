@@ -1,6 +1,6 @@
-# The Cabin Weekend
+# Grace
 
-*The pivot — the key and the watched exposure. Vee's POV. ~late February. See `meta/meta-note-cabin-weekend.md`.*
+*The pivot — the key and the watched exposure. Vee's POV. ~late February. See `meta/meta-note-grace.md`.*
 
 ---
 

@@ -31,7 +31,7 @@ His painting-with-her-fluids is also a major **His-Relish** beat — his appetit
 
 ## The coinage — *adventure* (seed here)
 
-**This is where *adventure* is coined.** After the sex, in the afterglow — her head on his chest, both a paint-smeared wreck, the sheets bright — Vee, smiling: *"Well, that was an adventure,"* and the helpless, can't-breathe laughter. Hers, joyful, descriptive, born in laughter at the mess. **Pace present, so he hears it** — that's the point: he pockets the word and hands it back as the *invite* at the cabin a month later (`meta-note-cabin-weekend.md`), where it detonates at the threesome. It must **ride out unremarked** — never flagged as a code, never repeated with weight; she throws it away and the reader lets it go. The descent back into warm laughter after the transgressive gesso turn is the scene's *playful-in → transgressive-out → resolve-warm* shape completing.
+**This is where *adventure* is coined.** After the sex, in the afterglow — her head on his chest, both a paint-smeared wreck, the sheets bright — Vee, smiling: *"Well, that was an adventure,"* and the helpless, can't-breathe laughter. Hers, joyful, descriptive, born in laughter at the mess. **Pace present, so he hears it** — that's the point: he pockets the word and hands it back as the *invite* at the cabin a month later (`meta-note-grace.md`), where it detonates at the threesome. It must **ride out unremarked** — never flagged as a code, never repeated with weight; she throws it away and the reader lets it go. The descent back into warm laughter after the transgressive gesso turn is the scene's *playful-in → transgressive-out → resolve-warm* shape completing.
 
 ## The photo — the escalation
 
@@ -41,7 +41,7 @@ Where the *In His Hands* nude was **curated** — she cleaned up, made up, posed
 
 ## Seeds forward
 
-- **"Adventure"** — coined here in the afterglow, joyful, hers, Pace present → first *invited* at the cabin (`meta-note-cabin-weekend.md`) → detonates at the threesome. Rides out unremarked; never named as a code.
+- **"Adventure"** — coined here in the afterglow, joyful, hers, Pace present → first *invited* at the cabin (`meta-note-grace.md`) → detonates at the threesome. Rides out unremarked; never named as a code.
 - **Taste thread** — the wondering rung; feeds Whiskey and Wine, preempts nothing (held: no ask, no contact, no taste).
 - **Sole-channel** — the photo escalates In His Hands' seed → cabin → bench → threesome kiss.
 - **Peach — deliberately NOT here** — originates at the cabin blazon, seeds forward to `meta-note-peaches.md`; a plant here pre-spends the July apex.
@@ -60,4 +60,4 @@ Where the *In His Hands* nude was **curated** — she cleaned up, made up, posed
 - `meta-condensed-still-life.md` — lean surface brief · `meta-condensed-gesso.md` — the retelling (the photo shown, the wax-lie called out).
 - `meta-note-barely-stings.md` — the diptych partner (the bare canvas) · `meta-note-in-his-hands.md` — the earliest sole-channel photo this one escalates.
 - `meta-note-taste-thread.md` — the thread this rung sits in (Reach → here → Whiskey and Wine → The Almost → First Taste).
-- `meta-note-cabin-weekend.md`, `meta-note-peaches.md`, `meta-note-threesome-reveal.md` — where the seeds cash out.
+- `meta-note-grace.md`, `meta-note-peaches.md`, `meta-note-threesome-reveal.md` — where the seeds cash out.

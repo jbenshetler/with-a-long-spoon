@@ -47,6 +47,6 @@ A natural *"What about Thanksgiving?"* Two things, both light, neither dwelt on:
 
 ## Cross-refs
 
-- `meta-note-threesome-reveal.md` — where the sole-channel cashes out · `meta-note-cabin-weekend.md` — "he becomes her eyes."
+- `meta-note-threesome-reveal.md` — where the sole-channel cashes out · `meta-note-grace.md` — "he becomes her eyes."
 - `meta-note-the-found-hair.md`, `meta-note-another-round.md` — the Sheri plant and its spend.
 - `meta-arch-sheri.md` — Sheri's architecture (offstage here) · `meta-note-scar-reveal.md`, `meta-note-first-love.md` — the vaulted causes not to open.

@@ -1,6 +1,6 @@
 # Condensed — Burn
 
-*SCENE · Drafted (`scenes/burn.md`) · ~mid-to-late February (after Restrained, spaced; before the Cabin Weekend and the Massage Table) · Vee POV · tender; held/edged heat, no sex (no intercourse) · [craft](meta-note-burn.md)*
+*SCENE · Drafted (`scenes/burn.md`) · ~mid-to-late February (after Restrained, spaced; before Grace and the Massage Table) · Vee POV · tender; held/edged heat, no sex (no intercourse) · [craft](meta-note-burn.md)*
 
 Vee into **Pace's** world (the reciprocal of Among Friends) — and it goes wrong, **vindicating** the sealed room rather than opening it. The outside world proves careless and dangerous; his fury and then his tending draw her back to the sanctuary, which she (and the reader) come to feel as *more* precious, not less. Frightening then tender on the surface; the cold (the cage argued *for*) is the reader's. (Title provisional; author may rename.)
 
@@ -20,7 +20,7 @@ Drive home (the need traces back to his taking her lifting seriously in the gym)
 The injury is **why he buys** the massage table (he buys, doesn't build it — canon). **Pace-interior: not rendered in this scene** (Vee POV closes on the held heat); the decision lands off-page. The planned **Massage Table** scene keeps its pure-gift register intact (this beat *inspires* the purchase, it is not that scene).
 
 ### Placement / sequencing
-Before **Cabin Weekend** (its tender "Keep still / not yet" prefigures the Permission Rule in a non-engineered key — the reader meets "he holds us both in the not-having" as protection first, rule later) and before the **Massage Table**. Spaced from **Restrained** (both held/can't-move beats — differentiate: injury-and-care denial vs. engineered edging; not adjacent). Give it air from Cabin too (don't stack two Pace-redemption beats).
+Before **Grace** (its tender "Keep still / not yet" prefigures the Permission Rule in a non-engineered key — the reader meets "he holds us both in the not-having" as protection first, rule later) and before the **Massage Table**. Spaced from **Restrained** (both held/can't-move beats — differentiate: injury-and-care denial vs. engineered edging; not adjacent). Give it air from Cabin too (don't stack two Pace-redemption beats).
 
 ### Guards
 - **Same-shape, never named:** no thought of the father; Vee never connects it; body before mind.
