@@ -6,11 +6,11 @@
 
 The old single scene is now **three beats across one day** (~Fri Jan 22), the compression itself carrying Vee's urgency — she can't let the breach sit. The diurnal arc does the thematic work for free: the honest **daylight** reach fails; the wordless **night** offering succeeds.
 
-- **Back In Town** (morning) — door one. Off a late-night flight, the first thing she does is drive out to mend; she hits his cold wall and drives away crying. (Documented below as door one.)
+- **The Stranger** (morning) — door one. Off a late-night flight, the first thing she does is drive out to mend; she hits his cold wall and drives away crying. (Documented below as door one.)
 - **My Friend Randi** (afternoon) — the pivot, at Randi's single. Wrecked from the morning, Vee does what she did after the CW Dance and goes to Randi; **the nothing-under-the-coat appeal is Randi's counsel.** The confidante track produces the act that saves the relationship. *Full craft in its own note: `meta-note-my-friend-randi.md` (SATC-track — kept separate to protect the register).*
 - **Nothing Underneath** (night) — door two. She executes Randi's counsel: the coat over nothing, the demand set down, the body her whole reply. (Documented below as door two.) **Volume One's close.**
 
-This umbrella holds **door one (Back In Town)** and **door two (Nothing Underneath)** and the shared reconciliation architecture; the middle beat's confidante craft lives in `meta-note-my-friend-randi.md`.
+This umbrella holds **door one (The Stranger)** and **door two (Nothing Underneath)** and the shared reconciliation architecture; the middle beat's confidante craft lives in `meta-note-my-friend-randi.md`.
 
 ## What this day is now
 
@@ -91,7 +91,7 @@ The deepest wound is structural, and **neither character understands it yet.** T
 
 ## Beat sheet
 
-- **Back In Town — door one, morning (the need live):** off a late-night flight she drives out to mend; stalls at the stoop; he is cold (stress-tell, not verdict); she reaches *Peter* and it fails against the cold; she leaves and drives away crying. No fight, no answer.
+- **The Stranger — door one, morning (the need live):** off a late-night flight she drives out to mend; stalls at the stoop; he is cold (stress-tell, not verdict); she reaches *Peter* and it fails against the cold; she leaves and drives away crying. No fight, no answer.
 - **My Friend Randi — the pivot, afternoon (own note):** wrecked, she goes to Randi (the CW-Dance rhyme); vents the silence, the no-name wound, the **Sheri fear she won't put to Pace**; Randi coaches — **the coat is Randi's idea**; the big long hug (flicker too-long) + Randi's scent taken in like Pace's (reader-side only) + the usual settled kiss. Surrender catalyzed, never narrated. Full craft: `meta-note-my-friend-randi.md`.
 - **Nothing Underneath — door two, night (the demand set down):** *put herself together* — long coat, heels, bare beneath; her steaming breath; Pace's one distancing line; she doesn't reach for Peter; she opens the coat, wordless. He sees it land (her willing transgression + that she came), takes her in.
 - **The sex:** within crossed thresholds at reunion-ferocity — starved, raw; flat-to-alive on the body; his being-undone and his appetite both, no seam.

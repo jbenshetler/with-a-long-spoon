@@ -1,4 +1,4 @@
-# Back In Town
+# The Stranger
 
 *Vee POV, close third. ~Fri Jan 22, morning. Door one of the First Weekend Back reconciliation — the honest daylight reach that fails.*
 
@@ -24,7 +24,7 @@ He blinked, twice.
 
 "Hello," he said. "Can I help you?"
 
-The words landed somewhere under her ribs and stayed there. Not anger, which she could have stood in front of; not the sadness she'd come hoping to meet. This was the voice for a stranger at the wrong door, and he was using it on her, and the distance it opened was wider than anything she had braced for. She stood on the step and for a moment could not feel her feet on it. The steam of her breath went up between them and his did not, because he was warm, in his warm body, in the cool house, and she was out in the cold being turned into no one.
+The words landed somewhere under her ribs and stayed there. Not anger, which she could have stood in front of; not the sadness she'd come hoping to meet. This was the voice you keep for someone come to the door selling God, level and courteous and closed, and he was using it on her, and the distance it opened was wider than anything she had braced for. She stood on the step and for a moment could not feel her feet on it. The steam of her breath went up between them and his did not, because he was warm, in his warm body, in the cool house, and she was out in the cold being turned into no one.
 
 "How was your Christmas," she said. She kept her voice level over the thing rising in her throat. She had questions ready, small good ones, made on the plane.
 
@@ -34,10 +34,10 @@ The words landed somewhere under her ribs and stayed there. Not anger, which she
 
 "Yes."
 
-He didn't go on, and he didn't ask her back. Each answer came out exact and finished and no bigger than it had to be, and to her it was a door shutting by inches, the short flat words you give a stranger who's come to the wrong house; and every question she'd brought died in the air the moment she spent it.
+He didn't go on, and he didn't ask her back. Each answer came out exact and finished and no bigger than it had to be, and to her it was a door shutting by inches, the least a person could say and still be answering at all; and every question she'd brought died in the air the moment she spent it.
 
 Then the hurt came up all at once, past the level voice and the good clothes and the small prepared questions, and it made her reckless. She stepped up into the space she wasn't allowed and put her hand to his face, to the jaw, the cheek, the place she'd had under her hand a hundred times in the dark, and said it low, the true name, the one under the other. "Peter."
 
-Something moved in his face, there and gone before she could believe it. Then he flinched back from her hand as if it had burned him, and whatever had come up went under, and he was a stranger again.
+Something moved in his face, there and gone before she could believe it. Then he flinched back from her hand as if it had burned him, and whatever had come up went under, and the man she'd come for went with it.
 
 She didn't stay for the rest. She turned and went down off the step and across the cold ground, not running and then running, and got the car started and got down the drive before it rose up in her, and it rose hard. She drove the first mile blind. At the county road she couldn't see and couldn't get her breath, and she put the car onto the gravel and stopped and held the wheel in both hands, the fields flat and patchy with snow on either side, the heater going, her good clothes on, and cried until there was nothing left to come up.

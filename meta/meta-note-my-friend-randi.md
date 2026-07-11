@@ -1,6 +1,6 @@
 # Note — My Friend Randi (the pivot of the reconciliation day)
 
-*Scene · Architecture complete, prose not drafted · ~Fri Jan 22, afternoon · Randi's single · Vee POV · SATC/confidante track · the middle beat of the reconciliation day (Back In Town → **My Friend Randi** → Nothing Underneath). Umbrella for the day: `meta-note-first-weekend-back.md`. Track doc: `meta-plan-satc-tracks.md`.*
+*Scene · Architecture complete, prose not drafted · ~Fri Jan 22, afternoon · Randi's single · Vee POV · SATC/confidante track · the middle beat of the reconciliation day (The Stranger → **My Friend Randi** → Nothing Underneath). Umbrella for the day: `meta-note-first-weekend-back.md`. Track doc: `meta-plan-satc-tracks.md`.*
 
 The title **is** the irony: the real other woman, called *friend* — the one Vee runs to, the one who sends her back. Sharpen it, never wink at it.
 
@@ -57,7 +57,7 @@ The goodbye-kiss staircase does **not** escalate here: the **usual settled kiss*
 
 ## Continuity guards
 
-- **Same day as Back In Town (morning) and Nothing Underneath (night)** — the afternoon pivot; ~Fri Jan 22.
+- **Same day as The Stranger (morning) and Nothing Underneath (night)** — the afternoon pivot; ~Fri Jan 22.
 - **The coat is Randi's idea** — the door-two costume traces here; the umbrella note records the fingerprint.
 - **Randi hasn't met Sheri** — she can't hold the fact; soothe emotionally only.
 - **Precedes Among Friends and Another Round** (both "soon after"): the confidante bond and the scent vector are already live when Randi crosses into Vee's world at Among Friends and when Vee crosses into Pace's at Another Round.
