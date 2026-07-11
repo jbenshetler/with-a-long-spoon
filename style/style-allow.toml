@@ -503,49 +503,49 @@ note = "author-approved for voice: idiomatic 'all the way', internal-state 'felt
 [[ok]]
 fp   = "17923d3ae69e"
 rule = "the-way"
-file = "scenes/his-shirt.md"
+file = "scenes/bare.md"
 text = "She sat up in the low space under the ceiling and pulled them both off together, hers and his, and dropped hers down the side, and put his back on with nothing under it, the cloth straight onto her, the way she wore it when no one could see."
 note = "private-version contrast; 'the way she wore it when no one could see' kept deliberately"
 
 [[ok]]
 fp   = "88195e46c5dd"
 rule = "there-was-were"
-file = "scenes/his-shirt.md"
+file = "scenes/bare.md"
 text = "You couldn't send a message and get out of a person the shape of what you were to them; there was no text that made it come clear; the ones she thought of were all small, and would be answered small and warm, and would leave her exactly here."
 note = "deliberate existential escalation: no text / no one / no name"
 
 [[ok]]
 fp   = "d8d78172abd8"
 rule = "there-was-were"
-file = "scenes/his-shirt.md"
+file = "scenes/bare.md"
 text = "It had promised him close and there was no one close."
 note = "deliberate existential escalation: no text / no one / no name"
 
 [[ok]]
 fp   = "f06e0a7c9718"
 rule = "there-was-were"
-file = "scenes/his-shirt.md"
+file = "scenes/bare.md"
 text = "She had everything he did and not the one thing he wouldn't say, and there was no name in her for it, not the big one and not the small one, only every breath of him now and the silence at the center where the word should be."
 note = "deliberate existential escalation: no text / no one / no name"
 
 [[ok]]
 fp   = "fbd7e33dae3f"
 rule = "there-was-were"
-file = "scenes/his-shirt.md"
+file = "scenes/bare.md"
 text = "There was nothing she could put in there that would come back as the thing she needed, nothing she could ask him that had an answer he could type."
 note = "deliberate existential escalation: no text / no one / no name"
 
 [[ok]]
 fp   = "993c66744c59"
 rule = "x-not-y"
-file = "scenes/his-shirt.md"
+file = "scenes/bare.md"
 text = "His shirt she left where it fell, beside her, not folded, not set back on the pillow, down in a heap where a dropped thing lands; and below her Cassie breathed on, slow and easy and asleep; and the window went grey, and she did not sleep."
 note = "ritual-negation payload (not folded, not set back on the pillow)"
 
 [[ok]]
 fp   = "c9c7dad3bb91"
 rule = "x-not-y"
-file = "scenes/his-shirt.md"
+file = "scenes/bare.md"
 text = "She had everything he did and not the one thing he wouldn't say, and there was no name in her for it, not the big one and not the small one, only every breath of him now and the silence at the center where the word should be."
 note = "canon echo of Under the Rug coda vocabulary (the big one / the small one)"
 

@@ -10,7 +10,7 @@ It also **plants the beige-life thread** (registry: `meta-arch-bible.md`): the h
 
 ## Form (the one rule that shapes everything)
 
-**One location, one night, all interior: alone in her childhood bed, sleepless, New Year's Eve.** The parents never appear on camera — home arrives only in recollection and on her phone. This keeps the discipline that *only school-people are present in a scene* (the same move as Back from Thanksgiving's off-page table), and it structurally mirrors His Shirt: one bed, one night, interior. Everything beige — the tree, the wrapping, Wheel of Fortune, the questions — is memory, already flat-tinted.
+**One location, one night, all interior: alone in her childhood bed, sleepless, New Year's Eve.** The parents never appear on camera — home arrives only in recollection and on her phone. This keeps the discipline that *only school-people are present in a scene* (the same move as Back from Thanksgiving's off-page table), and it structurally mirrors Bare: one bed, one night, interior. Everything beige — the tree, the wrapping, Wheel of Fortune, the questions — is memory, already flat-tinted.
 
 ## The New Year's frame (the clock and the turn)
 
@@ -20,9 +20,9 @@ It also **plants the beige-life thread** (registry: `meta-arch-bible.md`): the h
 - It gives a flat, plotless vignette a **clock** — counts down to midnight and past it into restless sleep.
 - The house is beige-quiet: a nurse and a mechanic asleep early; she's alone in her room as midnight comes.
 
-## The callback to His Shirt (structural, not literal)
+## The callback to Bare (structural, not literal)
 
-The shirt stays at school — **left on purpose**, a post-Christmas-Fight renunciation (*she doesn't need Pace or his shirt*): the same gesture that closed His Shirt (she took it off into the worse cold) now hardened into a resolution and carried 500 miles. So the callback is **the scent channel inverted.** His Shirt was saturated with *him* — the sawdust and the salt of the work; this room is saturated with *her mother* — fabric-softener sheets, plug-in lavender in every outlet, *like an old lady* — and no Pace-scent in the field at all. Same register (smell, sleepless, in bed), opposite content. **Do not name the parallel;** let the room's smell simply be there. **Do not re-use the shirt object** — the rhyme is the bed, the sleeplessness, the empty reach.
+The shirt stays at school — **left on purpose**, a post-Christmas-fight renunciation (*she doesn't need Pace or his shirt*): the same gesture that closed Bare (she took it off into the worse cold) now hardened into a resolution and carried 500 miles. So the callback is **the scent channel inverted.** Bare was saturated with *him* — the sawdust and the salt of the work; this room is saturated with *her mother* — fabric-softener sheets, plug-in lavender in every outlet, *like an old lady* — and no Pace-scent in the field at all. Same register (smell, sleepless, in bed), opposite content. **Do not name the parallel;** let the room's smell simply be there. **Do not re-use the shirt object** — the rhyme is the bed, the sleeplessness, the empty reach.
 
 ## The room-museum (reversion; seen vs. safe in objects)
 
@@ -84,7 +84,7 @@ The night has circled *who*, so the closer says it: **she'll have Randi back wit
 ## Midnight & landing
 
 - **Midnight carries both at once:** his strong arms around *her* (the longing) shadowed by the doubt of *whose* he's got them around tonight (the blonde). The wanted image and the feared image in the same beat, and no way to know which is real.
-- **Landing:** exhausted, still reaching, down into restless sleep — diverging from His Shirt's stay-awake grey window. The flatness takes even her vigil.
+- **Landing:** exhausted, still reaching, down into restless sleep — diverging from Bare's stay-awake grey window. The flatness takes even her vigil.
 
 ## Continuity
 
@@ -95,7 +95,7 @@ The night has circled *who*, so the closer says it: **she'll have Randi back wit
 
 ## Beat sheet
 
-- New Year's Eve, alone in the childhood bed, the house asleep early. The lavender / fabric-softener field (His Shirt's scent channel, inverted).
+- New Year's Eve, alone in the childhood bed, the house asleep early. The lavender / fabric-softener field (Bare's scent channel, inverted).
 - The room-museum: ribbons, synchro trophies, the clarinet, high-school faces — old-Vivienne, whom the room still loves.
 - Recollection of the beige run-up: wrapping, the tree, tidying, the never-enough cooking, Wheel of Fortune; the parents' questions (*how's your boyfriend / when do we meet him*) landing on the locked door. All flashback; never live.
 - The phone — Pace cluster: check (nothing), the old texts, the write-and-delete and the relief; the photos (couch-silly, the borrowed clothes, the whole induction candid).
