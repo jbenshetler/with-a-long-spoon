@@ -30,7 +30,7 @@ He had not known, going in. That was the honest part, the part he'd have told he
 
 He worked the third one out of her slowly, deliberately, giving her more than she'd asked for. He was closer than he let on. It had gone through him too, that a single question had taken all that control out from under her, and he changed his rhythm to stay off the edge. She had more in her yet, and he meant her to have every joy while the question still hung in the room; his own he would take last, and the waiting would only sharpen it. He drew his head back to see her, touched her face with his fingertips, and kissed her, slow and tender, for no reason but that he wanted to.
 
-Her body wanted this and her mind did not yet, and the gap between them was a thing he understood how to close. Pleasure was not a trick. It was a true thing he was giving her. It was also the bridge. Let the wanting feel good in her, good enough that the good feeling and the wanting became the same fact, and the mind would follow where the body had already gone. He was helping her toward something good she would otherwise deny herself.
+Her body wanted this and her mind did not yet, and the gap between them was a thing he understood how to close. Pleasure was not a trick. It was a true thing he was giving her. It was also the bridge. Let the wanting feel good in her, good enough that the good feeling and the wanting became the same fact, and the mind would follow where the body had already gone.
 
 Afterward they lay tangled and quiet. She was wrung out and heavy against him, in no hurry to be anywhere, and he was glad of it; he had never needed to fill a silence. For a while they were there, only the two of them, and it was more than enough.
 
@@ -38,7 +38,7 @@ The real question waited for the heat to leave the room, her breath to come down
 
 "Do you actually want to taste another woman?"
 
-He watched her understand it. He saw the precise instant the words stopped being something said in bed and became something asked—and she flinched. Barely. A shiver under the skin, gone almost before it arrived, the kind of thing a less attentive man would have missed entirely and called her calm. He did not miss it. Her body had been caught wanting something her mind had not agreed to want, and the flinch was the sound of the catching.
+He watched her understand it. He saw the precise instant the words stopped being something said in bed and became something asked—and she flinched. Barely. A shiver under the skin, gone almost before it arrived, the kind of thing a less attentive man would have missed entirely and called her calm. He did not miss it. The want had shown itself before she could dress it as anything, and the flinch was the sound of the catching.
 
 Then she came back. He admired it, a little, even as he saw through it: she gathered herself and reached for the warm lower register, trailed one finger down his chest, tilted into him and pressed a slow kiss to his jaw. It was good. It was practiced and it was warm and it was not cartoonish, and on another man it would have worked completely; he'd have felt seduced and forgotten he'd asked anything at all.
 
@@ -46,7 +46,7 @@ Then she came back. He admired it, a little, even as he saw through it: she gath
 
 And he understood what she had done, because it was beautiful and because he was built to see it. She had not taken back the wanting—she could not, her body had said it twice and she knew he'd heard. She had moved it. She had handed the appetite to him and made herself its generous instrument: not a woman who hungered for another woman, which was unsurvivable, but a girlfriend offering her man a gift, which was merely sexy. The same act. A different owner. She could live inside the second version. She could not live inside the first.
 
-He let her have the frame. He even felt the rightness of it settle in his chest, the way the last piece of a thing settles—because the frame she'd built to hide in was the exact frame he needed to proceed. A threesome, with him. He would not have to find her a woman for her transgression. He would find a woman for *theirs*. She could say yes to every step of it and never once have to say the thing her body had already said for her.
+He let her have the frame. He even felt the rightness of it settle in his chest, the way the last piece of a thing settles—because the frame she'd built to hide in was the exact frame he needed to proceed. A threesome, with him. He would not have to find her a woman for her transgression. He would find a woman for *theirs*. She could say yes to every step of it and never once have to say the thing she'd already shown him.
 
 "Okay," he said, easy, and meant several things by it.
 
@@ -74,7 +74,7 @@ They passed a man alone at one of the quad tables with a tray from the grill —
 
 "No." Easy, automatic, not even a glance back at the tray. "I can't eat that."
 
-She was loose beside him, still warm from the afternoon in his bed, the endorphins not yet spent. She had showered and put her face back on and dressed and walked out the door game for whatever the day was, because four weeks had taught her that the days with him were sometimes hiking and sometimes a play in a garden and sometimes a thing he did not name until they were doing it, and she had liked all of them, and she liked best the ones with an edge. He could feel the readiness in her hand. She thought they were going to do something fun. They were.
+She was loose beside him, still warm from the afternoon in his bed, the endorphins not yet spent. She had showered and put her face back on and dressed and walked out the door game for whatever the day was. She had liked all of it, and she liked best the ones with an edge. He could feel the readiness in her hand. She thought they were going to do something fun. They were.
 
 A woman crossed the path ahead of them, twenty feet up, headed for the colonnade — petite and built to the proper scale, the scale Randi approved of and maintained, narrow through the shoulder and hip, an oval face, a small straight nose, dark hair in a high sleek ponytail that swung when she moved. Leggings and an oversized quarter-zip in the Greek pastel, a canvas tote with a water bottle clipped to it, box-fresh white trainers that hadn't seen a trail. She walked the walk: chin level, phone in hand but not looked at, the unhurried propriety of a girl who has never once wondered whether a room was glad to have her in it. She could have been Randi's little sister. She could have been Randi — and that was where Pace started, with the type nearest her own, because he expected her to choose inside the grammar she lived in, the labels and the lines and the correct shoe, and a girl like this was that grammar walking.
 
