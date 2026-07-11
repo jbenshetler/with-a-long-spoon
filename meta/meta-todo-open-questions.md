@@ -172,11 +172,9 @@ Bible updated to v6/v7 state. Major additions: header now references all five co
 
 The thesis now supplements *given full range* with *when permitted to operate at the depth and across the duration their internal logic requires for the appetite to be itself.* The character documents continue to use the phrase in less-supplemented form in some passages. *In context, these uses are correct;* the supplementation in the thesis's central claim provides the unambiguous reading. Light pass to align the character docs is low priority. Hold until other higher-value work is done.
 
-## 21. Containers rule — distinguish operational register from the deep aperture (PENDING)
+## 21. Containers rule — operational register vs. the deep aperture (RESOLVED)
 
-The containers rule (meta-arch-bible.md) currently reads that Randi's interior "opens **only when she is alone** … **never in the presence of another character**." But `standards.md` runs Randi's close third *with the sisters present* (the smile holding its position, her reading of Brooke's not-standing) before the aperture proper opens upstairs, alone. The literal wording and the drafted practice conflict.
-
-Clarify the rule to mark the distinction the draft already uses: the **deep aperture** (the unmanaged wound) opens only alone, in mirror or single room — these stay the canonical four. The **operational/surface register** (Randi's close third in company, managed self, no wound-access) is permitted, and is the mode for the spring Social Price beats among the sorority. The inviolable line is **Randi's close third while operating on Vee**, which would expose the management and kill the double register. Phrase so a future draft doesn't read the literal "never in company" and wrongly rule out the walk-of-shame mode.
+Folded into the canonical rule: the **deep (wound) aperture** opens only **alone**, in mirror or single room (the four apertures); a **managed surface close-third** is permitted in company that is **not** Vee or Pace (the sisters at Standards; the spring Social Price beats); the inviolable line is Randi's interior in the same room as Vee or Pace. Canonical wording: `meta-arch-bible.md` (containers rule) + chronology flag 15.
 
 -----
 

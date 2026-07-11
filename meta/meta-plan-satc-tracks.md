@@ -325,9 +325,9 @@ A single detail Vee volunteers can wound in two directions across one scene:
 
 ## THE NESTED EXTRACTIONS / TWO-PERIMETER SYMMETRY (scene operates as a hall of extractions)
 
-With the walk-of-shame established, the brunch is a scene where **two women each overpay to sit at the only table where each feels something true, while each is being extracted by a more powerful party:**
+With Standards established, the brunch is a scene where **two women each overpay to sit at the only table where each feels something true, while each is being extracted by a more powerful party:**
 - Vee is extracted by Randi (the instrument).
-- Randi is extracted by Brooke / the house (the crab bucket) — the walk-of-shame shows Brooke running the warm-surgical-deniable instrument on Randi exactly as Randi runs it on Vee. The board member is herself being worked.
+- Randi is extracted by Brooke / the house (the crab bucket) — Standards shows Brooke running the warm-surgical-deniable instrument on Randi exactly as Randi runs it on Vee. The board member is herself being worked.
 - The reader sees the nesting neither woman fully sees: Vee can't see she's being worked; Randi can't see at depth that the channel she overpays for is the one that destroys what she wants.
 - **Overpayment symmetry:** Vee overpays in MONEY (brunch she can't afford) for access to glamour + the confidante who can receive her. Randi overpays in STATUS (mounting social cost of the Pace association + the conspicuous off-world friendship) for the aliveness the friendship gives her — *she can't not engage with Vee; the brunches are the only real thing in her life.* Both overpay for the same table, converse reasons.
 
@@ -360,14 +360,14 @@ With the walk-of-shame established, the brunch is a scene where **two women each
 
 ## STATUS GEOMETRY: VEE/CASSIE UNAFFILIATED; RANDI SORORITY + ALREADY PAYING
 
-**Vee and Cassie are NOT in any sorority.** Randi is sorority and sits on the board (Standards). Randi spending escalating social time with an unaffiliated outsider is a **status transgression** — and per the walk-of-shame, it layers on top of the Pace-association liability the crab bucket is ALREADY testing.
-- The sorority runs **crab-bucket logic**: they will try to take Randi down (success TBD). The walk-of-shame (Brooke's warm-surgical interrogation) is the bucket already reaching.
+**Vee and Cassie are NOT in any sorority.** Randi is sorority and sits on the board (Standards). Randi spending escalating social time with an unaffiliated outsider is a **status transgression** — and per Standards, it layers on top of the Pace-association liability the crab bucket is ALREADY testing.
+- The sorority runs **crab-bucket logic**: they will try to take Randi down (success TBD). Standards (Brooke's warm-surgical interrogation) is the bucket already reaching.
 - Randi is NOT the costless queen slumming by choice. The cost is real and mounting. She engages Vee anyway because **the friendship is the only aliveness she has** — the tragic engine. (Mirrors Vee overpaying in money; both overpay, converse reasons. See nested-extractions section.)
 - **First read for Vee:** being chosen by the glamorous sorority girl, against her world's sorting rules, is flattering and thrilling — part of why the friendship is precious enough to overpay for. **Reread:** the cross-status attention is costless-to-spend-but-real-cost targeting of the project component; the exception that read as devotion was the operation requiring proximity.
 
 ### The flicker (a flicker and NO more)
 - The brunch is REFUGE (off-world, eyes-free) — do NOT put a sorority observer at the table (spoils refuge logic). The flicker is carried IN, not enacted.
-- **Primary flicker = phone face-down.** A notification from that world reaches Randi even here; she glances and turns the phone face-down (rhymes exactly with the walk-of-shame's two unread notifications face-down on the vanity). Vee thinks nothing of it; the reader who's read the walk-of-shame feels the bucket's hand. Behavior-not-interior (rule 113), smallest possible flicker.
+- **Primary flicker = phone face-down.** A notification from that world reaches Randi even here; she glances and turns the phone face-down (rhymes exactly with Standards' two unread notifications face-down on the vanity). Vee thinks nothing of it; the reader who's read Standards feels the bucket's hand. Behavior-not-interior (rule 113), smallest possible flicker.
 - **Optional second micro-touch:** one dry, deniable off-campus-relief line ("God, it's good to be off-campus") — surface = glamorous senior amused by sorority pettiness (flatters Vee: *she'd rather be here with me*); reread = a woman naming the bucket closing on her. Never explained.
 - Vee may NOTICE and MISREAD (reads Randi's half-degree of guardedness as *she's so above all that* = admiration). The misread is the dual-pass engine.
 - **HARD CONSTRAINT:** the flicker must not invite Vee to ask ("everything okay?") — that opens Randi's interior, forbidden at this dosage. Vee registers and lets it pass. **Randi stays in COMMAND toward Vee throughout** (running the instrument, telling the stories, extracting). Her hunted-ness is RESERVED FOR THE READER. Vee must not see the hunted woman, or the extraction's power dynamic collapses and Randi becomes sympathetic-to-Vee too early. Flicker for the reader; command for Vee.

@@ -30,7 +30,7 @@ These are the live continuity flags from `meta-plan-chronology.md` that need a d
 
 9. **`together-in-class.md` review flags** (raised at draft): (a) the body/clothes scan paragraph in panel two runs dense — it carries four functions (grading-grammar / floozies / self-appraisal / latent-attraction plant) and may want a ~⅓ trim of the *"I could wear what they're wearing"* stretch, leaving the heavier body-economy to Shoe Shopping with Randi and the dressing-room FB (The Sheer Dress Brunch + The Dressing Room); (b) the line *"go in like a key in a lock"* is the closest the prose comes to naming Randi's mechanism — verify it stays deniable inside the blank-transcript paragraph.
 
-10. **Walk-of-shame minor flags** (un-ruled): three consecutive "approached X, didn't, moved on" beats (door, vanity, closet) — monotony or intended rhythm? Line-133 "in the kitchen" slight ambiguity; line-83 double-deflection. All minor.
+10. **Standards minor flags** (un-ruled): three consecutive "approached X, didn't, moved on" beats (door, vanity, closet) — monotony or intended rhythm? Line-133 "in the kitchen" slight ambiguity; line-83 double-deflection. All minor.
 
 11. **Add Brooke physical-description line to `standards.md`** — wants the beauty image: Brooke "looking like a shampoo model, or the third wife of a CEO." Slot at her introduction (~line 7, "Brooke at the long table… Brooke looked up") or her first warm-voice beat (~line 13). The "third wife of a CEO" half does double duty — surface gloss + the cool transactional read under it (well-kept, chosen, expensive) — which suits Brooke's warm-surface/calculating-underneath register. Keep it Randi's-eye observation (Randi POV scene), deniable as catty.
 
