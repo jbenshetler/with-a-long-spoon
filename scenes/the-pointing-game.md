@@ -32,7 +32,9 @@ He worked the third one out of her slowly, deliberately, giving her more than sh
 
 Her body wanted this and her mind did not yet, and the gap between them was a thing he understood how to close. Pleasure was not a trick. It was a true thing he was giving her. It was also the bridge. Let the wanting feel good in her, good enough that the good feeling and the wanting became the same fact, and the mind would follow where the body had already gone. He was helping her toward something good she would otherwise deny herself.
 
-Afterward they lay tangled and quiet. She said something about the time, about her afternoon. He answered. The room cooled around them and the heat went out of the air and the talk went small and ordinary, and he let it, because he wanted her settled when he asked, wanted the question to land in daylight and not in the dark of the thing itself.
+Afterward they lay tangled and quiet. She was wrung out and heavy against him, in no hurry to be anywhere, and he was glad of it; he had never needed to fill a silence. For a while they were there, only the two of them, and it was more than enough.
+
+The real question waited for the heat to leave the room, her breath to come down, and the afternoon to go ordinary around them. He wanted her gathered back into herself when he asked, free to weigh it and choose; that mattered to him more than the answer did. Because what he was bringing her was good: the thing she wanted and could not let herself reach for, put in her hands in daylight with her own clear yes on it. She would be happy. She had earned it, and he wanted to be the one who gave it to her.
 
 "Do you actually want to taste another woman?"
 
