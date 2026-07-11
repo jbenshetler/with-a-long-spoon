@@ -4,21 +4,25 @@
 
 ---
 
-She came the first time with his mouth on her, her hand flat against the top of his head—not pushing, just holding, as if to confirm he was there. He stayed with it longer than she needed, reading the slackening in her thighs, her breath going from held to spilled. He knew the difference between a woman performing release and a woman delivered to it. She had been performing, the first week. She was not performing now.
+She came the first time with his mouth on her, her hand flat against the top of his head, not pushing, just holding, as if to confirm he was there. He stayed with it longer than she needed, reading the slackening in her thighs, her breath going from held to spilled. He knew the difference between a woman performing release and a woman delivered to it. She had been performing, the first week. She was not performing now.
 
-He came up over her without wiping his mouth. He had decided this beforehand, the way he decided most things—not as strategy but as the shortest line to something true. He kissed her and let her find herself there.
+He came up over her before she was done, while she was still swollen and still pulsing around nothing, still given over to her body, undefended. He had decided this beforehand. He slid into her then, into all that grip and flutter, before he kissed her.
+
+He kissed her with his mouth still wet from her, and she took herself off his lips and kissed him back harder for it, ardent before she could think better of it. He felt her whole body rise to it. Then he moved in her, slow, taking her back up.
 
 "You like that," he said. Not a question, but he wanted to hear her say it.
 
-"Mm." A sound, not a word. Her eyes were soft, unguarded as they only were in the few minutes after.
+"Mm." Her eyes half open, soft, unguarded, as she only was with him inside her and the first not fully gone.
 
-"You like the taste of yourself."
+"You like the taste of yourself." He had felt her answer already, in the kiss. He wanted the word too.
 
-"Yes." Breathed, easy. This was old ground for her; he could feel that. Nothing in her flinched.
+"Yes." Warm, and a little caught by it.
+
+It was not fair to ask it now, and he knew it was not fair. He asked it anyway, lightly, into the warm disorder of her.
 
 "Would you like to taste another woman?"
 
-It was not fair, the timing, and he knew it was not fair. He asked it lightly, into the warm disorder of her, while she was still open—and her body answered before any part of her could intervene. She came again, hard, almost at once, with him barely inside her, far too fast for anything he was doing to account for it. He felt it go through her like something thrown. He held still and let her have it and watched her face the whole way, and what he saw there—the brief astonishment, the helplessness of it—told him everything the question had been for.
+The question reached her body before it reached her, and took her all at once: her sex clenching hard around him, her legs drawing him in, her arms coming up to lock him against her. He kept moving and let her have it. On her face was astonishment, and under it the helplessness, and under that what the question had been for. She had wanted it, and her body had said so before she could make the wanting mean anything safer.
 
 So. There it was.
 

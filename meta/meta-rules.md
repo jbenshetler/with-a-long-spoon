@@ -141,6 +141,7 @@
 - [ ] The prose slows down for the things that matter. Duration on the page = weight in the scene. Do not rush through the load-bearing beats.
 - [ ] Repetition is intentional and structural — the same word or phrase returning does work (*she locked it behind her, first thing / the script was failing / the bench had been waiting*). Accidental repetition reads as error; purposeful repetition reads as insistence.
 - [ ] Dialogue is short. The short line earns silence; silence earns the next line. Do not fill silence with dialogue.
+- [ ] No false antithesis / empty balance — "not X but Y," "X, not Y," "X didn't make it less Y," "less X than Y" earn the shape only when X and Y genuinely exclude each other and the exclusion is the point. Delete-test: cut the negated half; if only cadence is lost, cut it for real. Enact a real contradiction in behavior or image; never discharge it into a balanced clause *about* the contradiction.
 
 **Interiority and observation**
 - [ ] POV character reads through behavior first, then infers interior — never the reverse. He *felt* the small recoil in her hand; he *heard* the lock turn. The inference follows the sensation.

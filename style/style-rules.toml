@@ -61,6 +61,13 @@ severity = "info"
 why      = "'Not X but Y' antithesis (X may be several words) — same construction as x-not-y. Vary or cut if it clusters."
 unless   = '(?i)\bnot\s+only\b'   # 'not only … but also' is a correlative, not the tic
 
+[[rule]]
+id       = "empty-balance"
+kind     = "regex"
+pattern  = '''(?i)(?:\bnot|n['’]t)\s+(?:\w+\s+){0,2}?ma[dk]e[sn]?\s+(?:\w+\s+){0,3}?less\b'''
+severity = "info"
+why      = "Concessive balanced-negation ('X did not make it less Y') — often a FALSE antithesis: the terms don't actually exclude, so the sentence borrows the music of paradox with none of its content. Check X and Y genuinely oppose; delete-test the negated half — if only cadence is lost, cut it."
+
 # ---- Lexical / word-choice tics ---------------------------------------------
 
 [[rule]]
