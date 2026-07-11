@@ -1,4 +1,4 @@
-# Cassie — School Nights
+# School Nights
 
 *Vee POV. Mid November, a school night.*
 

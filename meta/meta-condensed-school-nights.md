@@ -1,6 +1,6 @@
-# Condensed — Cassie — School Nights
+# Condensed — School Nights
 
-*VIGNETTE · Draft complete (`scenes/cassie-school-nights.md`) · ~mid November, the week between The Top Drawer's two weekends (after the mirror, before the drawer) · Vee POV · short, ~½ page*
+*VIGNETTE · Draft complete (`scenes/school-nights.md`) · ~mid November, the week between The Top Drawer's two weekends (after the mirror, before the drawer) · Vee POV · short, ~½ page*
 
 The overnights that thicken the rhythm happen **off-page**; this is their only trace — the **greedy phase still running**, weeks in, when they still can't keep to weekends (it doesn't bank into the *regular pattern* until The New Ordinary, mid-to-late November — guideline, not guarantee). Vee relays the accumulating nights to Cassie in a warm, romantic register — the proud/sweet version — while the bodily shame stays walled off (it goes to Randi). The relay does what dramatizing the overnights would not: it keeps the off-page rhythm visible without spending scenes on it, *and* it shows the confidante-sort operating in miniature. It is also the one natural place Vee says, in words, what makes Pace different. Dorm room, Vawter Hall; the cold-window detail and shared-suite life already canon.
 
