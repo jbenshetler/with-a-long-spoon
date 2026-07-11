@@ -129,7 +129,7 @@ One file per non-trivial scene; the chronology entry links to it. To work on a s
 | `meta-note-in-her-place.md` | In Her Place (Randi Takes Vee's Place) — spring Randi/Pace scene |
 | `meta-condensed-the-cw-dance.md` | The CW Dance |
 | `meta-condensed-cw-dance-debrief.md` | The CW-Dance Debrief |
-| `meta-condensed-recognized-method.md` | A Recognized Method / The Setup |
+| `meta-condensed-recognized-method.md` | A Recognized Method |
 | `meta-condensed-practice-room.md` | The Practice Room |
 | `meta-condensed-the-top-drawer.md` | The Top Drawer |
 | `meta-condensed-new-ordinary.md` | The New Ordinary |

@@ -1,4 +1,4 @@
-# Condensed — A Recognized Method / The Setup
+# Condensed — A Recognized Method
 
 *SCENE · Draft complete · `recognized-method.md` · the apology visit the weekend after the CW Dance → the next afternoon*
 

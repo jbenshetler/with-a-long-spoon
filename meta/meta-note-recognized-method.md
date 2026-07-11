@@ -1,4 +1,4 @@
-# Note — A Recognized Method / The Setup
+# Note — A Recognized Method
 
 *Companion to the unwritten scene: beat structure and unrendered craft. The arrival / height-inversion beat, the canonical "leave them on" line, and the never-named rhyme/charge live in [[meta-condensed-recognized-method]] and are not restated here.*
 
