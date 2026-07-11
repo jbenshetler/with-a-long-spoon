@@ -90,7 +90,7 @@ Then she was up and reaching for her coat, the day's coat, ready to drive straig
 
 "Why—"
 
-"Because you came off a red-eye and cried it all off and put none of it back, and you look, my love, and I say this with my whole heart, like a raccoon who lost a fight." Vee made a wet sound that was almost a laugh. "No man opens that coat for a woman who needs a shower and eight hours first. Go home. Sleep. Make yourself into the thing. And go to him tonight."
+"Because you came off a red-eye and cried it all off and put none of it back, and you look, my love, and I say this with my whole heart, like a raccoon who lost a fight." Vee made a wet sound that was almost a laugh. "No man opens that coat for a woman who needs a shower and eight hours first. Go home. Sleep. Make yourself into the thing. And go to him tonight." She crossed to the closet and came back with a pair of black heels hooked on two fingers, and pressed them into Vee's hands. "And wear these. Just the thing for tonight." Vee took them — she was past looking at anything just now — grateful only that here was one piece of tonight already decided for her; Randi always knew the shoes.
 
 Vee wiped her face with the back of her wrist, steadier now, wanting suddenly to give something back into the warmth. "Tell me about your New Year," she said. "The real one. You sent me two lines and a chalet and left me dying all break."
 

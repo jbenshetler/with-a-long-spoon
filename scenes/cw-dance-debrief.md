@@ -130,13 +130,27 @@ Then Randi looked, and that was the part Vee felt: Randi came around her once, s
 
 And it went straight through Vee, warm and a little ridiculous, because it was *Randi* who'd said it.
 
+Randi's eye went on down her, all the way to her feet. "What size?"
+
+"Seven."
+
+"Me too." Something crossed her face, there and gone, a small private pleasure, and Vee took it for the plain luck of it — they could share shoes after all.
+
 Randi crossed to the closet then and opened it, and Vee got a look inside for the first time — a narrow run worked to the last inch, every hanger earning its place, the colors going bone to camel to oatmeal and ending on one deep oxblood like the last note of something. Vee made a sound. She couldn't help it.
 
 "I know," Randi said, not modest about it.
 
 "I could live in there."
 
-"You couldn't, that's the tragedy." She ran a hand down the rail and looked back at the whole of Vee — chest, hips, the abundance of her standing there in a bra. "Nothing in here would clear your ribs. You're built like the women they used to carve on the front of a ship. I'm built like a very good envelope." She said it grinning, no pity in it anywhere. "The only thing I own that'd fit you is a scarf."
+"Move in," Randi said. "I mean it."
+
+Vee huffed, and looked at the narrow, perfect run of it, and knew better. "Not that a stitch of it would fit me — other than your shoes." A beat. Then she was giggling into her hand.
+
+"What?"
+
+"I was picturing it. Me, in here, in nothing but your shoes."
+
+Randi laughed — the real one, head going back. "You'd be my very own *shoe whore.*" It came out like an endearment, the way the worst words did between them. "Except I'm on *Standards.* I'd have to make you cover up for room inspection — a scarf, at least." A beat. "And I've got one that'd be *criminal* on you."
 
 Vee laughed.
 
@@ -152,11 +166,7 @@ Vee laughed.
 
 It was so precisely the lie Vee told about those shoes that she had nothing to say, and Randi, watching her have nothing to say, just smiled and let it go, because it had landed.
 
-"What size?"
-
-"Seven."
-
-"Me too." A flick of pleasure crossed Randi's face, there and gone, and Vee took it for the plain luck of it — they could share shoes after all. "Right here." She pointed Vee to a spot on the floor like a model to her mark, and crouched to the bottom of the closet, where the shoes stood in their ranked order, each pair faced out. Vee took the spot, in her bra and her long skirt, and lifted a bare foot when the first shoe came up to meet it.
+"Right here." She pointed Vee to a spot on the floor like a model to her mark, and crouched to the bottom of the closet, where the shoes stood in their ranked order, each pair faced out. Vee took the spot, in her bra and her long skirt, and lifted a bare foot when the first shoe came up to meet it.
 
 And there was where her skin came up singing.
 
