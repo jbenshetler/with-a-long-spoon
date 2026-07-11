@@ -22,7 +22,7 @@ The two poles also trace her liberation arc: Sep (Water Wings) = desirable *whil
 | A **specific bid, deflected easy**, in the drink-buying gap | **Jitterbug** (~Feb) | a real person, non-creepy venue, Pace-absent moment | the "a real man crossed a room for her" evidence |
 | The named past suitor | **Theo / Among Friends** (~late Jan) | a prior bid, kindly refused | light, already placed |
 | The room waking to her chosen reveal | **The Induction** (~Nov) | **chosen**, and Pace's dress | the *ownership pole* — **not** objective evidence |
-| Bartender's *"wasn't him they were jealous of, honey"* | CW Dance (~Oct) | ambient, but Pace-entangled | texture; don't lean on it for the objective case |
+| Bartender's *"wasn't him they were jealous of, honey"* | Lesson (~Oct) | ambient, but Pace-entangled | texture; don't lean on it for the objective case |
 
 Water Wings and Theo are placed. **Jitterbug** needs one light beat folded in at drafting — a regular asks Vee to dance while Pace is at the bar; she gives an easy no; it lands "a real person wanted her," outside Pace's eyes, in a venue where being approached is normal. The **female seal** (formerly mis-slotted to Cassie in Water Wings) needs folding into a **Kayla dorm beat** at drafting — the *Nothing Underneath* laundry moment already has her clocking Vee, a natural home. The Induction stays itself.
 

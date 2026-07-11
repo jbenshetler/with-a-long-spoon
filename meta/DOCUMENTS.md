@@ -127,7 +127,7 @@ One file per non-trivial scene; the chronology entry links to it. To work on a s
 | `meta-condensed-stats-simpsons-paradox.md` | Stats — Simpson's Paradox |
 | `meta-condensed-shoe-shopping.md` | Shoe Shopping with Randi |
 | `meta-note-in-her-place.md` | In Her Place (Randi Takes Vee's Place) — spring Randi/Pace scene |
-| `meta-condensed-the-cw-dance.md` | The CW Dance |
+| `meta-condensed-lesson.md` | Lesson |
 | `meta-condensed-cw-dance-debrief.md` | The CW-Dance Debrief |
 | `meta-condensed-recognized-method.md` | A Recognized Method |
 | `meta-condensed-practice-room.md` | The Practice Room |
@@ -203,7 +203,7 @@ Listed in chronological order (filesystem = `scenes/`; order, names, and status 
 | `first-night.md` | First Night Together | complete |
 | `dress-pickup.md` | Dress Pickup | complete |
 | `stats-simpsons-paradox.md` | Stats — Simpson's Paradox | complete |
-| `cw-dance.md` | The CW Dance | complete |
+| `lesson.md` | Lesson | complete |
 | `cw-dance-debrief.md` | The CW-Dance Debrief | complete |
 | `cropped.md` | Cropped | complete |
 | `porch-scene.md` | The Porch Scene — Cracker-and-Meal | complete |

@@ -1,6 +1,6 @@
-# Condensed — The Dance Lesson and CW Bar
+# Condensed — Lesson
 
-*SCENE · Draft complete · `cw-dance.md` · ~late October / early November (after the first night and its debriefs)*
+*SCENE · Draft complete · `lesson.md` · ~late October / early November (after the first night and its debriefs)*
 
 ## Summary
 
