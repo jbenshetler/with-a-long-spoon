@@ -15,7 +15,7 @@ The whole evening is **borrowed belonging**: Vee gets the sorority world on loan
 
    > "I love, *love* your bracelet." … "Because, gorgeous — the bracelet is called Love." … "It looks too small to come over your hand. How do you even take it off?" "Oh, you don't. It's a real commitment. Taking it off requires tools."
 
-   First read: charming rich-girl small talk. Second read: Randi describing her own design — a thing called *Love*, locked on, off only with tools, that she has no intention of removing. Resonance only; the **brand stays unspoken** and the **symbolism is never explained** — Vee just hears the joke. (Brunch seeds the *unnamed* band; the **name lands here** — `meta-condensed-brunch-fitting-randi.md`.)
+   First read: charming rich-girl small talk. Second read: Randi describing her own design — a thing called *Love*, locked on, off only with tools, that she has no intention of removing. Resonance only; the **brand stays unspoken** and the **symbolism is never explained** — Vee just hears the joke. (How It's Done seeds the *unnamed* band; the **name lands here** — `meta-condensed-how-its-done.md`.)
 
 3. **Inside — pre-DJ, welcome then teeth (the Brooke beat).** Through the door into light, warmth, and noise — **talk and low background music, no DJ yet** (the DJ starting is what starts the dancing, beat 4). Meet-and-greet; Vee welcomed, warm, inside the golden world.
 

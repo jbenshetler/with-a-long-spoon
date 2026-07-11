@@ -1,4 +1,4 @@
-# The Brunch — Vee Tells Randi About the Fitting
+# How It's Done
 
 ---
 

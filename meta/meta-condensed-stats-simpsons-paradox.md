@@ -6,7 +6,7 @@ Absorbs the old standalone "Vee Shows Cassie the Dress." The dress-cluster's con
 
 ## What it does
 
-The dress is old news to both girls (the fitting tellings — `vee-tells-cassie-fitting.md` and the SATC fitting brunch), so **neither re-reveals it.** The new thing is the completed, transformed Vee, and the fork is in how each friend meets her:
+The dress is old news to both girls (the fitting tellings — `vee-tells-cassie-fitting.md` and How It's Done), so **neither re-reveals it.** The new thing is the completed, transformed Vee, and the fork is in how each friend meets her:
 
 - **Cassie watches Vee, not the dress.** She does not care about dresses; she cares about what the dress did to her friend. Forty seconds of the lecture pass with her attention never leaving Vee. "Was it a good night?" / "Yes. Oh, yes." Something eases in her; she goes back to her notes, reassured.
 - **Randi hears the other thing** in that second *yes* ("You lucky slut"), then draws the shoe-gap out of Vee and binds it with a favor ("A dress like that deserves the right shoes… How's Saturday"). The steering stays invisible: Vee surfaces the lack, Randi offers the fix, Vee is grateful. Sets up Shoe Shopping (where the bag comes out for Randi).

@@ -71,7 +71,7 @@ When any scene touches Vee's involuntary responses, it is touching the live wire
 
 ## The Arousal–Humiliation Loop
 
-Central. Render it whenever Vee's body is in play. **Pace defuses the humiliation step; Randi amplifies it.** Both produce intense arousal because both engage her core mechanism — in opposite directions. She does not perceive the coordination. One of Pace's primary instruments here is **affectionate teasing** (→ `meta-craft-pace.md`, *Play, teasing, and humor*): naming the involuntary tell spikes the shame and his fondness converts it — the spike and the defuse in one gesture. It is erotic *because* it is kind; cross into mockery and it stops working. *(Key instances: `fitting.md` for the secretions reframe; `brunch-fitting-randi.md` for Randi's extraction of that same material.)*
+Central. Render it whenever Vee's body is in play. **Pace defuses the humiliation step; Randi amplifies it.** Both produce intense arousal because both engage her core mechanism — in opposite directions. She does not perceive the coordination. One of Pace's primary instruments here is **affectionate teasing** (→ `meta-craft-pace.md`, *Play, teasing, and humor*): naming the involuntary tell spikes the shame and his fondness converts it — the spike and the defuse in one gesture. It is erotic *because* it is kind; cross into mockery and it stops working. *(Key instances: `fitting.md` for the secretions reframe; `how-its-done.md` for Randi's extraction of that same material.)*
 
 ---
 

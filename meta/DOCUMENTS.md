@@ -119,7 +119,7 @@ One file per non-trivial scene; the chronology entry links to it. To work on a s
 | `meta-condensed-vee-tells-cassie-hike.md` | Vee Tells Cassie — Hike (pure-romance telling; pairs with Cassie — After) |
 | `meta-condensed-fitting.md` | The Fitting |
 | `meta-condensed-vee-tells-cassie-fitting.md` | Vee Tells Cassie About the Fitting |
-| `meta-condensed-brunch-fitting-randi.md` | SATC Brunch — Fitting Debrief |
+| `meta-condensed-how-its-done.md` | How It's Done |
 | `meta-condensed-first-night.md` | First Night Together |
 | `meta-condensed-cassie-after.md` | Cassie — After |
 | `meta-condensed-first-night-debrief.md` | First-Night Debrief |
@@ -199,7 +199,7 @@ Listed in chronological order (filesystem = `scenes/`; order, names, and status 
 | `vee-tells-cassie-hike.md` | Vee Tells Cassie — Hike | complete |
 | `fitting.md` | The Fitting | complete |
 | `vee-tells-cassie-fitting.md` | Vee Tells Cassie About the Fitting | complete |
-| `brunch-fitting-randi.md` | SATC Brunch — Fitting Debrief | complete |
+| `how-its-done.md` | How It's Done | complete |
 | `first-night.md` | First Night Together | complete |
 | `dress-pickup.md` | Dress Pickup | complete |
 | `stats-simpsons-paradox.md` | Stats — Simpson's Paradox | complete |

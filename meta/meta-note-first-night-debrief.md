@@ -4,15 +4,15 @@ Companion to meta-condensed-first-night-debrief.md. Scene-local working material
 
 ## Where it sits
 
-The Randi/Vee beat that immediately follows First Night Together (within a few days). Verbal-staircase rung #4. The physical goodbye-kiss staircase already debuted at the Fitting Brunch and was normalized by the CW-Dance morning, so this scene is a **verbal** rung, not a new physical step; the kiss here is continuation.
+The Randi/Vee beat that immediately follows First Night Together (within a few days). Verbal-staircase rung #4. The physical goodbye-kiss staircase already debuted in How It's Done and was normalized by the CW-Dance morning, so this scene is a **verbal** rung, not a new physical step; the kiss here is continuation.
 
 It is the threshold where Vee can first hold shame as evidence-of-aliveness rather than verdict. That door opening is what lets Randi operate on her for the rest of the year; it spends nothing — it arms everything. See the calibration section for how far the conversion is allowed to reach.
 
 ## Setting — the sun porch, and the mimosa
 
-A bistro with a glassed sun porch, off-campus. Deliberate inversion of the venue progression: the Fitting Brunch ran inside the velvet alcove (enclosed, three-sided, dark, conspiratorial); this scene — the warmest rung, carrying the cruelest operation — happens in full daylight. The dark is invisible from inside the warm, and an open, bright porch refuses the dread an enclosed booth would telegraph. The light also does craft work: it makes Vee's flushes (the sheet-flush, the burgundy-flush) legible, which is the natural cover for Randi reading the tell *off her face* — see the hard guard on the burgundy facet.
+A bistro with a glassed sun porch, off-campus. Deliberate inversion of the venue progression: How It's Done ran inside the velvet alcove (enclosed, three-sided, dark, conspiratorial); this scene — the warmest rung, carrying the cruelest operation — happens in full daylight. The dark is invisible from inside the warm, and an open, bright porch refuses the dread an enclosed booth would telegraph. The light also does craft work: it makes Vee's flushes (the sheet-flush, the burgundy-flush) legible, which is the natural cover for Randi reading the tell *off her face* — see the hard guard on the burgundy facet.
 
-**Mimosas install here as the recurring off-campus brunch image** ("at least one"), varied scene to scene going forward. Vee orders one — mimicry of Randi in a register she can see and approve of (acceptable copying that belongs to the same machine as the verbal copying she can't see). The money beat rides on it without a word of bank-balance interior: she runs the established right-side-of-the-menu-first gesture (brunch-fitting-randi.md), and where the Fitting Brunch's Rombauer was a wall (soup and water instead), the mimosa is the price point she *clears* — the cheap glamour, buying in at her level. Pride, not pinch. Same body-move, opposite outcome; marks how far in she now is. Guard: **Vee pays her own way** — no question of Randi treating, which keeps the dressing-room dress-offer the first deployment of Randi's money against Vee. The planted mimosa-taste-on-the-goodbye-kiss cousin (meta-plan-satc-tracks.md) is *available* once the motif exists but is **not** played here; this kiss is continuation, no new riser.
+**Mimosas install here as the recurring off-campus brunch image** ("at least one"), varied scene to scene going forward. Vee orders one — mimicry of Randi in a register she can see and approve of (acceptable copying that belongs to the same machine as the verbal copying she can't see). The money beat rides on it without a word of bank-balance interior: she runs the established right-side-of-the-menu-first gesture (how-its-done.md), and where the Rombauer in How It's Done was a wall (soup and water instead), the mimosa is the price point she *clears* — the cheap glamour, buying in at her level. Pride, not pinch. Same body-move, opposite outcome; marks how far in she now is. Guard: **Vee pays her own way** — no question of Randi treating, which keeps the dressing-room dress-offer the first deployment of Randi's money against Vee. The planted mimosa-taste-on-the-goodbye-kiss cousin (meta-plan-satc-tracks.md) is *available* once the motif exists but is **not** played here; this kiss is continuation, no new riser.
 
 ## The inversion engine
 
@@ -59,7 +59,7 @@ This also fires the no-management-gap engine exactly: narrating a present-tense 
 
 ## The catch (candidate line, author)
 
-Replaces the bullshit-look. Truer to Randi's voice — she names things rather than withholds (cf. the Fitting Brunch's wordless "cold... hmm," a device used and now varied).
+Replaces the bullshit-look. Truer to Randi's voice — she names things rather than withholds (cf. the wordless "cold... hmm" in How It's Done, a device used and now varied).
 
 > "Ooo, that's sexy. I love the image. But I noticed that you skipped the part explaining how you ended up wearing only his bedsheet."
 
@@ -99,7 +99,7 @@ Randi does not pronounce a thesis. She asks the question whose only answer is th
 
 ## Pacing guard
 
-The facets in a row (sheet → toes → panties → burgundy) can tip into *Randi systematically prying*, which reads sinister and kills the warmth and the arousal. Two things hold it: the varied mechanism (catch → name → self-betrayal, ending on Vee convicting herself, not Randi prosecuting), and the release built in — **Vee wants to tell** ("the wanting to give it, finally, to set it down on the table," brunch-fitting-randi.md). Play it as Vee tumbling out her joy and Randi delightedly receiving and occasionally catching, not Randi extracting point by point. Fallback if it still feels like an interrogation in draft: fold toes + panties into a single grooming beat.
+The facets in a row (sheet → toes → panties → burgundy) can tip into *Randi systematically prying*, which reads sinister and kills the warmth and the arousal. Two things hold it: the varied mechanism (catch → name → self-betrayal, ending on Vee convicting herself, not Randi prosecuting), and the release built in — **Vee wants to tell** ("the wanting to give it, finally, to set it down on the table," how-its-done.md). Play it as Vee tumbling out her joy and Randi delightedly receiving and occasionally catching, not Randi extracting point by point. Fallback if it still feels like an interrogation in draft: fold toes + panties into a single grooming beat.
 
 ## Goodbye kiss
 

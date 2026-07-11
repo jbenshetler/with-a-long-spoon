@@ -37,5 +37,5 @@ Diptych, close-third Vee, panels split by `---`, **match-cut on the dress** (wor
 ## NOT in this scene (continuity)
 
 - **No scrunchie layer.** The gaslight is a **spring** arc (Drawer first visit ~mid–late Feb, off-page; grains #1/#2/#3 Feb–April; chronology Late section + `meta-plan-scrunchie-gaslight.md`). The fall stays unshadowed — Randi has taken nothing; Vee notices nothing.
-- **No goodbye-kiss beat** (the kiss debuts at the Fitting Brunch, settles at CW-Dance Debrief; don't run the physical staircase every scene).
+- **No goodbye-kiss beat** (the kiss debuts in How It's Done, settles at CW-Dance Debrief; don't run the physical staircase every scene).
 - **Not at Randi's place** (Vee's first time in Randi's room is the CW-Dance Debrief, ~Oct 25).

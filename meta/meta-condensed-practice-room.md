@@ -32,12 +32,12 @@ A soundproof music practice room — not the velvet booth. No staging, no waiter
 
 ## Departure / Physical Staircase
 
-Unlike the Fitting Brunch car-curb kiss, the music room has no audience risk — no window-scan possible on departure. Whatever the physical staircase delivers at the close happens in genuine privacy. Different texture: not the performance of deniability (the French-thing filing), but the simpler fact of two people leaving a sealed room.
+Unlike the car-curb kiss in How It's Done, the music room has no audience risk — no window-scan possible on departure. Whatever the physical staircase delivers at the close happens in genuine privacy. Different texture: not the performance of deniability (the French-thing filing), but the simpler fact of two people leaving a sealed room.
 
 ## Pays Off
 
 - A Recognized Method: the look, the unnamed wanting, the hook planted there
-- Randi's escalating-story format: running since the Fitting Brunch, now shifted — the story serves extraction instead of preceding it
+- Randi's escalating-story format: running since How It's Done, now shifted — the story serves extraction instead of preceding it
 
 ## Plants
 
@@ -45,6 +45,6 @@ Randi has now: (1) extracted that the swat excited Vee; (2) explicitly installed
 
 ## Staircase Notes
 
-**Bathroom-trip progression:** First occurrence — quick suppression. Temptation present, not acted on. We Find Out debrief is where she stops not-doing it. **Note:** the SATC track doc (`meta-plan-satc-tracks.md`) currently places the first bathroom trip at the Fitting Brunch (rung 3). This scene supersedes that placement — the Fitting Brunch establishes the apparatus without yet firing it; the shame-arousal mechanism first fires in retelling here, at genuinely transgressive content.
+**Bathroom-trip progression:** First occurrence — quick suppression. Temptation present, not acted on. We Find Out debrief is where she stops not-doing it. **Note:** the SATC track doc (`meta-plan-satc-tracks.md`) currently places the first bathroom trip at How It's Done (rung 3). This scene supersedes that placement — How It's Done establishes the apparatus without yet firing it; the shame-arousal mechanism first fires in retelling here, at genuinely transgressive content.
 
 **Verbal staircase:** This scene sits between the First-Night Debrief (conversion/warmth operation, not extraction) and the We Find Out debrief (doubled shame; first restroom self-touch, stopped before completion). It is the intermediate rung that keeps the escalation gradual: suppression here, the stopped-short self-touch next, completion later.

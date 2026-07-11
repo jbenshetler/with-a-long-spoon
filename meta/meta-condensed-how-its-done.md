@@ -1,6 +1,6 @@
-# Condensed — SATC Brunch — Fitting Debrief
+# Condensed — How It's Done
 
-*SCENE · Partial draft (opening movement) · `brunch-fitting-randi.md`; second movement drafted separately · ~a few days after The Fitting · sits between The Fitting and First Night Together*
+*SCENE · Partial draft (opening movement) · `how-its-done.md`; second movement drafted separately · ~a few days after The Fitting · sits between The Fitting and First Night Together*
 
 ## Summary
 

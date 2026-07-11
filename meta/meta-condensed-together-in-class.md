@@ -31,7 +31,7 @@ Parting on the sidewalk: a hug, the cold-citrus smell, a hand flat between her s
 ## Beat Map
 
 - First on-page Randi/Vee proximity; calculus-based stats as the book's mirror; **unequal-exchange pattern** (Vee gives attention/competence, gets warmth-as-status) — **panel one.**
-- First one-on-one — **panel two** (same day as the class, straight after the lecture). The **name exchange**: Randi runs it on **Cassie**, who flat-returns, exposing it as a routine. The **goodbye-kiss thread** opens as a **hug** ("Love you, girl"), the staircase's rung zero; the first *kiss* lands at the SATC brunch, Vee Tells Randi About the Fitting Brunch. "Grenade-and-walk, filed as a sorority thing" lives as **"see you later" + the cheap-coin "love you, girl"** Vee over-values.
+- First one-on-one — **panel two** (same day as the class, straight after the lecture). The **name exchange**: Randi runs it on **Cassie**, who flat-returns, exposing it as a routine. The **goodbye-kiss thread** opens as a **hug** ("Love you, girl"), the staircase's rung zero; the first *kiss* lands at the SATC brunch, How It's Done. "Grenade-and-walk, filed as a sorority thing" lives as **"see you later" + the cheap-coin "love you, girl"** Vee over-values.
 - **Cassie's Warning** — delivered live as **"Goodbye, Vee,"** the register-wrong word, dismissed in real time.
 
 ## Revision Notes

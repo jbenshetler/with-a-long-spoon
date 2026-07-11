@@ -88,8 +88,8 @@ Warmer, less performed than the Randi version. The heat detail lands hardest (*"
 
 ---
 
-### [SCENE] Vee Tells Randi About the Fitting Brunch
-*~Sun Oct 11* · Draft complete · `brunch-fitting-randi.md` · [detail](meta-condensed-brunch-fitting-randi.md)
+### [SCENE] How It's Done
+*~Sun Oct 11* · Draft complete · `how-its-done.md` · [detail](meta-condensed-how-its-done.md)
 First off-campus brunch — format upgraded (velvet alcove, Rombauer by name). Apparatus switches on. Two firsts: the first goodbye-kiss debut; the first ignition of Randi's jealousy via the water-glass tell on *"he looked at me and I was fine."* ← **jealousy ignites here.** Carries the first scent-name beat: Vee notices Randi's perfume, unnamed, in the pre-kiss closeness (flag 17).
 
 ### [SCENE] First Night Together
@@ -485,7 +485,7 @@ Vee tells Cassie everything — the telling forced by Pace and Randi vanishing t
 
 16. **Spring is underplanned for its new load.** Two tracks need a planning block: (a) spring SATC — goodbye-kiss staircase steps, grain #2 interleaving, brunches at maximum charm precisely while the reader is primed, April–May thin; see `meta-note-spring-satc-bridge.md` for the committed clothing-loan thread, Vee-reads-Randi plants, and revised spring SATC grid. (b) Spring Randi–Pace — between Spring Inversion and Scalding their evolving dynamic is nearly blank on-page (time-negotiations, the management fraying, ignition-1 preconditions accumulating); all Pace POV, first-read warm/wicked per the Scalding pattern. (The Randi & Pace "Secret Plans" vignette now partly feeds this blank — a deniable April jealousy-leak; see the Secret Plans cluster.) The two Social Price vignettes now sit in this window (moved from fall, since Walk of Shame and the Smoothie Shop already carry the fall social-cost thread); both unpinned, exact slots TBD at spring drafting — #1 still wants its inciting incident (the cw-dance-debrief sighting is the standing candidate).
 
-17. **Randi's two-scent thread — placement/creation.** Year-round = Diptyque Eau des Sens (ratified); reveal-only peppered rose recorded in `meta-note-threesome-reveal.md` (+ condensed). To do: (a) SATC scent-name beats — Vee *notices* at the Fitting Brunch (drafted, unnamed seed), *asks* at the second restaurant brunch (unwritten; asking-placement open) — see `meta-plan-satc-tracks.md`; (b) **create the buys-it→shower beat** (Pace track, ~spring as Vee grows daring): Vee buys Eau des Sens and wears it once; Pace takes her into the shower and washes it off before sex, saying he'd rather smell her — returns her to her own bare skin.
+17. **Randi's two-scent thread — placement/creation.** Year-round = Diptyque Eau des Sens (ratified); reveal-only peppered rose recorded in `meta-note-threesome-reveal.md` (+ condensed). To do: (a) SATC scent-name beats — Vee *notices* at How It's Done (drafted, unnamed seed), *asks* at the second restaurant brunch (unwritten; asking-placement open) — see `meta-plan-satc-tracks.md`; (b) **create the buys-it→shower beat** (Pace track, ~spring as Vee grows daring): Vee buys Eau des Sens and wears it once; Pace takes her into the shower and washes it off before sex, saying he'd rather smell her — returns her to her own bare skin.
 
 18. **Cropped.** The vignette carries the full design in prose: cropped induction photo forces the telling, the legibility monologue (the parts that fit / what she withheld / the sewing she couldn't say), the dodge at "what is he to you." Table off-page; athletic-dorm cafeteria. **Guard for Believe Me:** the retelling loads *external legibility* (Pace vs. her father's frame), distinct from the fight's *internal definition* (monogamy / what are we) — so the fight's sympathy for Pace is untouched.
 

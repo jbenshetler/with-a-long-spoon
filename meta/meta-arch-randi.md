@@ -131,7 +131,7 @@ Three distinct appetites, igniting on different schedules. Getting the schedule 
 
 **(a) The specific sexual hunger for Vee herself.** Long-known — it runs under (c)'s lurch from the pointing game on, and she is not in doubt that she wants her. What stays reserved is the *channel, not the knowledge*: all year the desire can only be enacted *as operating* — routed through (b)'s domination, the deniable play, the technique — never standing as bare, uncovered desire toward Vee. **The threesome kiss unbraids the channel:** the first and only time the want is expressed *as itself,* stripped of the operation. The kiss is not the reveal of the long-known attraction; it reveals that beneath all the operating she wanted *her* — the want naked for one moment, too late.
 
-**First-lunch pitch:** this is where (b) ignites live. *(First SATC extraction draft: `brunch-fitting-randi.md` — opening movement only; second movement drafted separately.)* Randi arrives excited and nervous — her game, the thing she is built for, in the deeper venue for the first time. Keyed-up anticipation under the warmth; never visible nervousness; the nervousness burning off as she finds her footing. Do not pitch the first lunch as cool/unhurried connoisseurship.
+**First-lunch pitch:** this is where (b) ignites live. *(First SATC extraction draft: `how-its-done.md` — opening movement only; second movement drafted separately.)* Randi arrives excited and nervous — her game, the thing she is built for, in the deeper venue for the first time. Keyed-up anticipation under the warmth; never visible nervousness; the nervousness burning off as she finds her footing. Do not pitch the first lunch as cool/unhurried connoisseurship.
 
 ---
 
