@@ -4,11 +4,11 @@ The text came a little after noon, while he was in his office, three days into a
 
 He went and stripped the bed. The white was his and Randi's — the dry citrus she wore still in it, and under that her hair and the warmth of a bed two people had slept in and not aired. He carried the whole load to the washer, pushed it down out of sight, and closed the lid; only then did he go back for the green — the sheets Vee had given him, her color and no one else's. He made the bed up new. He looked forward to an afternoon with a girl he cherished, and to sex with her he really liked.
 
-The second text came past two, the wine already breathing on the side table: *don't come out when you hear me. stay put, wherever you are. wait till I call — I've got a surprise.* He went back into his office and shut the door, intrigued by Vee's initiative, and did as he was told, and found he liked being told.
+The second text came past two, the wine already breathing on the side table: *don't come out when you hear me. stay put, wherever you are. wait till I call — I've got a surprise.* He went back into his office and shut the door, the playlist he'd had going all afternoon still turning low out in the front rooms, and did as he was told, intrigued by Vee's initiative, and found he liked being told.
 
-The wind was up, as it got this time of year. He never heard the engine, only the tires on the gravel. He was half out of his chair before he remembered, and made himself sit. The front door. Then the bolt, home behind her. He grinned — the drama of it, whatever she'd planned that wanted them locked in.
+The wind was up, as it got this time of year. Out front one record ran down and Depeche Mode's *Music for the Masses* came up in its place, low and cold through the house. He never heard the engine, only the tires on the gravel. He was half out of his chair before he remembered, and made himself sit. The front door. Then the bolt, home behind her. He grinned — the drama of it, whatever she'd planned that wanted them locked in.
 
-He didn't hear Vee's heels. That creased his brow. Vee's legs were special on their own, heart-stopping in heels. But the heater breathed in the vents, and under it there was nothing at all, and he took it for her — barefoot, quiet for him, part of the surprise.
+He didn't hear Vee's heels. That creased his brow. Vee's legs were special on their own, heart-stopping in heels. But the music ran on low out front, and under it no click of heels at all, and he took it for her — barefoot, quiet for him, part of the surprise.
 
 He waited for her to call his name. She didn't. What came instead was loud and flat and three times over — the long rail of the bed, the board he'd planed himself, struck and ringing like a drum. He answered her summons without hesitation.
 
