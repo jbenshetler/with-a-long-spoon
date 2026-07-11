@@ -1,10 +1,10 @@
 # Standards
 
-The door of the house was unlocked. It always was at this hour, the sisters drifting in and out for breakfast or class or laundry. Randi closed it behind her quietly, which was already wrong. Randi did not close doors quietly. She closed them with the small unhurried click of a woman who knew the room was hers, who had been the room for as long as she had been arriving in it.
+The door of the house was unlocked. It always was at this hour, the sisters drifting in and out for breakfast or class or laundry. Randi closed it behind her quietly, which was already wrong. Randi did not close doors quietly. She closed them with the small unhurried click of a woman who knew the room was hers.
 
 The quiet was deliberate. She wanted the door shut before anyone in the common room turned around, wanted to be at the stairs and up them before the house registered that she was only now coming in, in last night's clothes, on a Saturday.
 
-Through the archway from the foyer the common room was not empty. Saturday morning, before ten. There was usually one girl on the couch with a coffee and a laptop. There were three girls today. Sloane on the couch with the coffee and the laptop. Kinsey cross-legged on the rug with a bowl of cereal. And Brooke at the long table by the window with the chapter laptop and a coffee and the spreadsheet open — the morning admin she did at this hour every Saturday in this seat. Brooke looked up.
+Through the archway from the foyer the common room was not empty. Saturday morning, before ten. There was usually one girl on the couch with a coffee and a laptop. There were three girls today. Sloane on the couch with the coffee and the laptop. Kinsey cross-legged on the rug with a bowl of cereal. And Brooke at the long table by the window with the chapter laptop and a coffee and the spreadsheet open — the morning admin she did at this hour every Saturday in this seat. Brooke looked up. Finished already, hair and face, at not-yet-ten on a Saturday — buffed and expensively kept, a woman who would one day be some CEO's third wife.
 
 Brooke smiled.
 
@@ -34,7 +34,7 @@ The fraction-of-a-second was longer. Randi felt the smile on her face holding th
 
 "Mm, that place is so good for that," Brooke said, warmly. "I basically lived there sophomore year."
 
-The room had not moved. Sloane was watching the exchange without watching it. Kinsey's spoon was at her mouth and stayed there. Brooke let a small beat sit, friendly, and then she glanced back at her laptop and clicked something, as if the paper were settled and she was already onto the next thing — and the next thing arrived without a seam.
+The room had not moved. Sloane was watching the exchange without watching it. Kinsey's spoon was at her mouth and stayed there. Brooke let a beat sit, friendly, and then she glanced back at her laptop and clicked something, as if the paper were settled and she was already onto the next thing — and the next thing arrived without a seam.
 
 "And — I just want to make sure I have this." She looked up. "*Pace.* That's actually his name? Like he goes by Pace?"
 
@@ -62,7 +62,7 @@ Kinsey laughed. The laugh came in slightly above pitch.
 
 "Thanks," Randi said.
 
-Brooke shifted slightly in her chair. The smile got a small additional crease — the *can I ask* face.
+Brooke shifted slightly in her chair. The smile got an additional crease — the *can I ask* face.
 
 "He's grad school, right? Pace?"
 
@@ -72,7 +72,7 @@ Brooke shifted slightly in her chair. The smile got a small additional crease �
 
 "Math," Randi said. "PhD."
 
-"Oh — math." A small recalibration, barely there, the smile absorbing it without conceding the notch. "He doesn't *teach,* does he — you're in math this term, aren't you, you're not in one of his sections — "
+"Oh — math." A recalibration, barely there, the smile absorbing it without conceding the notch. "He doesn't *teach,* does he — you're in math this term, aren't you, you're not in one of his sections — "
 
 The fraction-of-a-second was wider here. Randi felt the room hold it.
 
@@ -104,7 +104,7 @@ The release was the cleanest hit. Randi was not going to get to deploy the three
 
 "Yeah," said Randi. "I'm — yeah. See you guys."
 
-She walked the rest of the way to the stairs. Eight steps to the landing and another seven to the second floor. She walked them the way she walked stairs, the small light walk she had walked them with every morning of the year. The monogrammed overnight bag was over one shoulder, the clutch in the same hand that held the railing. Her free hand was at her side. The cardigan she had worn last night was slightly wrinkled at the hem and the silk top under it showed, briefly, at the second step. She did not adjust either.
+She walked the rest of the way to the stairs. Eight steps to the landing, another seven to the second floor. She climbed them lightly and with certainty, exactly as she had every morning of the year. The monogrammed overnight bag was over one shoulder, the clutch in the same hand that held the railing. Her free hand was at her side. The cardigan she had worn last night was slightly wrinkled at the hem and the silk top under it showed, briefly, at the second step. She did not adjust either.
 
 At the landing she did not look back. She did not need to look back to know that Brooke had returned to the laptop, that Sloane had picked up the coffee, that Kinsey had returned to the cereal, that the conversation in the room had moved on, that the small ordinary noise of a Saturday morning in the house had resumed because the small ordinary noise had never actually stopped. The whole exchange had taken less than four minutes. Most of it had been smiling.
 
@@ -120,7 +120,7 @@ She did not move to the bed. She did not move to the vanity. She stood with her 
 
 She walked to the vanity. She did not sit. She walked to the bed. She did not sit. She set the overnight bag down at the foot of it and walked back to the vanity and set the clutch in the place where the clutch lived when she was not carrying it. She opened the clutch. She took out her phone. She looked at the phone. The screen showed two notifications. She did not read them. She put the phone face down on the vanity.
 
-She walked to her closet and opened the door. It was orderly the way it had been for two years — the narrow space worked to its limit, everything earning its hanger, the palette running bone to camel to oatmeal with the one disciplined oxblood at the end. She stood in front of it. She had come to the closet to do something and could not, for a moment, locate what. Her hand was partway lifted toward the row. She brought it down. She closed the closet door.
+She walked to her closet and opened the door. It was orderly, as it had been for two years — the narrow space worked to its limit, everything earning its hanger, the palette running bone to camel to oatmeal with the one disciplined oxblood at the end. She stood in front of it. She had come to the closet to do something and could not, for a moment, locate what. Her hand was partway lifted toward the row. She brought it down. She closed the closet door.
 
 She went into her bathroom. She ran the water in the sink. She did not put her hands under the water. She watched it run for the count of perhaps ten and then she shut it off and came back out.
 
