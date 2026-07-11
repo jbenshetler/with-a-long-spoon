@@ -1,6 +1,6 @@
 # Notes — The Dress Cluster & the Scrunchie Gaslight
 
-*Development note. Captures the cluster of scenes that follows the Fitting — the warm, **unshadowed** fall run from The Fitting through Shoe Shopping with Randi. **Continuity correction (committed):** the scrunchie gaslight does **not** fire in this fall cluster. It is a **spring** arc (Drawer first visit ~mid–late Feb, off-page; grains #1/#2/#3 Feb–April) — placements live in `meta-plan-chronology.md` (Late section), the mechanism in `meta-plan-scrunchie-gaslight.md`. The mechanism is kept below for reference only; the fall stays warm. Cross-ref: `meta-plan-chronology.md` (owns placement), `the-fitting.md` (the making, which leaves the dress unfinished).*
+*Development note. Captures the cluster of scenes that follows the Fitting — the warm, **unshadowed** fall run from The Fitting through Shoe Shopping with Randi. **Continuity correction (committed):** the scrunchie gaslight does **not** fire in this fall cluster. It is a **spring** arc (Drawer first visit ~mid–late Feb, off-page; grains #1/#2/#3 Feb–April) — placements live in `meta-plan-chronology.md` (Late section), the mechanism in `meta-plan-scrunchie-gaslight.md`. The mechanism is kept below for reference only; the fall stays warm. Cross-ref: `meta-plan-chronology.md` (owns placement), `fitting.md` (the making, which leaves the dress unfinished).*
 
 ---
 

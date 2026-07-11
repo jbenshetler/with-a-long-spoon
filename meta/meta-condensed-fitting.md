@@ -1,6 +1,6 @@
 # Condensed — The Fitting
 
-*Scene · Draft complete · `the-fitting.md` · date owned by chronology*
+*Scene · Draft complete · `fitting.md` · date owned by chronology*
 
 ## Summary
 

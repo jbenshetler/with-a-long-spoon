@@ -32,4 +32,4 @@ His honest refutation of *just sex* is true (his care is genuine) **and** the wh
 
 ## Placement / continuity
 
-Follows The Porch Scene (builds on its unresolved mismatch) and precedes Bare (the failed release motivates the shapelessness going unbearable). Held as **one file, three movements separated by `---`** — one continuous Vee-POV night, matching the single-file convention for multi-movement scenes (the-fitting, the-bench, cw-dance); a single chronology `[SCENE]` entry.
+Follows The Porch Scene (builds on its unresolved mismatch) and precedes Bare (the failed release motivates the shapelessness going unbearable). Held as **one file, three movements separated by `---`** — one continuous Vee-POV night, matching the single-file convention for multi-movement scenes (fitting, the-bench, cw-dance); a single chronology `[SCENE]` entry.

@@ -18,7 +18,7 @@ The reader holds **means** (weekday access) and **motive** (Fairytale; Spring In
 
 ## Hard constraints
 
-- **Sequencing:** Spring Inversion (the reader's last interior access to Randi before the campaign) must already be on the page; the overnight habit, the form, and the drawer's grammar must be reader-established since October–November (We Find Out; The Top Drawer; Re-Scenting).
+- **Sequencing:** Spring Inversion (the reader's last interior access to Randi before the campaign) must already be on the page; the overnight habit, the form, and the drawer's grammar must be reader-established since October–November (We Find Out; The Top Drawer; The New Ordinary).
 - **No staged opportunity beats.** Never plant a deniable "she excused herself" in any Randi–Pace scene — that is the author signaling. The strongest version marks nothing; weekday access alone is the opportunity. In Pace-POV scenes the camera rides Pace and honestly inherits his blindness ("he'd see scrunchies and scrunchies").
 - **POV key:** the bathroom/drawer is on-camera only in Vee's POV (`meta-plan-pace-house.md`; chronology flag 15).
 

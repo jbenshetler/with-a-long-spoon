@@ -49,7 +49,7 @@ The fall's warm, low-explicit baseline, laid down before spring turns transgress
 
 **Kitchen — the piccata**
 - He cooks chicken piccata over pasta in hyperfocus (seared breasts, lemon, garlic, onion, wine, stock, paper-thin lemon and capers); she watches from the table; the wine-to-pan joke
-- Owned-mastery tasting: she takes it apart on her tongue, and there's no going back, and she knows whose doing that is (the *discovery* itself happened earlier, at The Shirt)
+- Owned-mastery tasting: she takes it apart on her tongue, and there's no going back, and she knows whose doing that is (the *discovery* itself happened earlier, at The New Ordinary)
 - Less talk than presence — held hands, quiet — then the first bite, and the exact look he'd described in bed
 
 **The Thanksgiving exchange**
@@ -64,7 +64,7 @@ The fall's warm, low-explicit baseline, laid down before spring turns transgress
 
 > **The photo is curated, not raw.** She cleans up, does her makeup, and poses a composed legs-together pinup — the *control* rung of the photo ladder (spring's *Still Life* photo is the raw, explicit rung; `meta-note-still-life.md`). Don't render it just-fucked.
 >
-> **The dish is chicken piccata, not pizza.** The pizza and the first-time taste *discovery* live at The Shirt (`the-shirt-rescenting.md`); here the tasting is *owned mastery* — she already has the palate; don't re-run the discovery.
+> **The dish is chicken piccata, not pizza.** The pizza and the first-time taste *discovery* live at The New Ordinary (`new-ordinary.md`); here the tasting is *owned mastery* — she already has the palate; don't re-run the discovery.
 >
 > **"I don't go back," not "I don't go home."** This *is* his home; the parents' place is the one he doesn't return to. The cause stays vaulted — no bike-dragging, no first love.
 >
@@ -84,6 +84,6 @@ The fall's warm, low-explicit baseline, laid down before spring turns transgress
 
 **Pays off:**
 - **The photo → All the Time** — Vee shows Randi this pinup in a cropped→full reveal, Randi's *"you only gave him half of you?"* (`meta-note-all-the-time.md`)
-- **The taste discovery (The Shirt)** — here she *owns* the palate she gained there
+- **The taste discovery (The New Ordinary)** — here she *owns* the palate she gained there
 - **The soreness / three rounds** — the proud ache, boasted as *"used me terribly, three times"* in the kitchen
 - **Pace's "first bite" compliment** — set up in bed, cashed at the piccata (he watches her get the look he described)

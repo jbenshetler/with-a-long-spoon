@@ -1,12 +1,12 @@
-# Condensed — The Shirt — Re-Scenting (The New Ordinary)
+# Condensed — The New Ordinary
 
 *SCENE · Unwritten · ~mid–late November, a Friday night a couple of weeks after A Recognized Method · Pace/Vee · Vee POV*
 
-A full scene doing two jobs at once: it *demonstrates* the settled domestic rhythm (the new ordinary) and stages the shirt re-scenting beat inside it. It also lays down, on purpose, the **ordinary baseline of how the couple's sex is narrated**, so the later taste-thread changes read as change and not as signal.
+A full scene doing two jobs at once: it *demonstrates* the settled domestic rhythm (the regular pattern) and stages the shirt re-scenting beat inside it. It also lays down, on purpose, the **ordinary baseline of how the couple's sex is narrated**, so the later taste-thread changes read as change and not as signal.
 
 ## Why they've been apart
 
-Several nights without seeing each other. The over-staying caught up with Vee — too many short nights away from her dorm, schoolwork slipping — and she reluctantly said she needed the time. Pace didn't push (the deference is genuinely held, not a tactic; [[pace-good-qualities-not-cynical]]). This pull-back is the mechanism by which the **greedy phase banks into the new ordinary**: weekends his, weeknights hers. Still running through The Top Drawer and Cassie — School Nights, it settles here; a shape, not a guarantee.
+Several nights without seeing each other. The over-staying caught up with Vee — too many short nights away from her dorm, schoolwork slipping — and she reluctantly said she needed the time. Pace didn't push (the deference is genuinely held, not a tactic; [[pace-good-qualities-not-cynical]]). This pull-back is the mechanism by which the **greedy phase banks into the regular pattern**: weekends his, weeknights hers. Still running through The Top Drawer and Cassie — School Nights, it settles here; a shape, not a guarantee.
 
 ## Shape
 
@@ -25,7 +25,7 @@ Vee owns the shirt (the first-night *"Trade"* — panties for the shirt). She is
 
 ## The geometry (felt, never named)
 
-Weekends his, weeknights hers, the shirt bridging the nights apart. Sleeping in his shirt is evidence of the nights she's *not* there — which is exactly what defines the new ordinary: the rhythm has a shape now, and the shirt is how she carries him across its gaps.
+Weekends his, weeknights hers, the shirt bridging the nights apart. Sleeping in his shirt is evidence of the nights she's *not* there — which is exactly what defines the regular pattern: the rhythm has a shape now, and the shirt is how she carries him across its gaps.
 
 ## The sibling-rhyme (never explained)
 
@@ -37,4 +37,4 @@ If the bathroom comes on camera: hair up at his sink, a scrunchie off the form i
 
 ## Pays off / plants
 
-Pays off: the washed-out shirt at the close of the CW Dance (where the lost smell surfaces); the first-night trade. Establishes: the regular overnight habit and the new-ordinary rhythm; the **sex baseline** the taste-thread later departs from.
+Pays off: the washed-out shirt at the close of the CW Dance (where the lost smell surfaces); the first-night trade. Establishes: the regular overnight habit and the regular pattern; the **sex baseline** the taste-thread later departs from.

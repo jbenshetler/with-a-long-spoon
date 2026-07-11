@@ -1,12 +1,12 @@
 # Notes — The Hiking Rainstorm
 
-*Pre-draft notes from workshop. The scene is unwritten; this captures its thesis, texture, beats, and how it compares/contrasts with its neighbors (may-i-choose / the-fitting / first-night). Companion to the chronology entry for The Hiking Rainstorm — this is the craft thinking behind that entry.*
+*Pre-draft notes from workshop. The scene is unwritten; this captures its thesis, texture, beats, and how it compares/contrasts with its neighbors (may-i-choose / fitting / first-night). Companion to the chronology entry for The Hiking Rainstorm — this is the craft thinking behind that entry.*
 
 ---
 
 ## Position & job
 
-- **Sits before the Fitting and before the first night.** Reading order: …The Smoothie Shop → **The Hiking Rainstorm** → Vee Tells Cassie — Hike → The Fitting → Vee Tells Cassie About the Fitting → Vee Tells Randi About the Fitting Brunch → … → First Night Together.
+- **Sits before the Fitting and before the first night.** Reading order: …The Smoothie Shop → **The Hiking Rainstorm** → Vee Tells Cassie — Hike → Fitting → Vee Tells Cassie About the Fitting → Vee Tells Randi About the Fitting Brunch → … → First Night Together.
 - Their **third time out**, ~late Sep / early Oct.
 - **The hike is the cared-for/swoon apex, and it carries the domestic-tenderness work that cannot live at the house.** The first time Vee is alone with Pace at his home, the sexual tension is too high for a domestic visit to be believable (they'd go straight to bed, wasting the deferral the Fitting and first night depend on). **The wilderness is the chaperone the bedroom can't be:** he can care for her completely here *without* it discharging, because they're on a mountain, not in his bedroom. So the cooked-for tenderness relocates to the trail.
 - **This scene builds the trust the Fitting and first night spend.** It spends nothing itself.

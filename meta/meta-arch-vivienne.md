@@ -96,7 +96,7 @@ The shame is constitutional and is not eliminated by the year. What changes is h
 
 ## The Secretions Reframe
 
-*(Primary scene where this operates: `the-fitting.md`. )*
+*(Primary scene where this operates: `fitting.md`. )*
 
 Not that Pace politely does not look. He looks. The reframe is that looking produces **delight** — her wetness as evidence that what he is doing is landing. He beams not despite it but at it.
 

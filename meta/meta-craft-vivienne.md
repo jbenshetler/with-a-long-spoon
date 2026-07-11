@@ -71,7 +71,7 @@ When any scene touches Vee's involuntary responses, it is touching the live wire
 
 ## The Arousal–Humiliation Loop
 
-Central. Render it whenever Vee's body is in play. **Pace defuses the humiliation step; Randi amplifies it.** Both produce intense arousal because both engage her core mechanism — in opposite directions. She does not perceive the coordination. One of Pace's primary instruments here is **affectionate teasing** (→ `meta-craft-pace.md`, *Play, teasing, and humor*): naming the involuntary tell spikes the shame and his fondness converts it — the spike and the defuse in one gesture. It is erotic *because* it is kind; cross into mockery and it stops working. *(Key instances: `the-fitting.md` for the secretions reframe; `brunch-fitting-randi.md` for Randi's extraction of that same material.)*
+Central. Render it whenever Vee's body is in play. **Pace defuses the humiliation step; Randi amplifies it.** Both produce intense arousal because both engage her core mechanism — in opposite directions. She does not perceive the coordination. One of Pace's primary instruments here is **affectionate teasing** (→ `meta-craft-pace.md`, *Play, teasing, and humor*): naming the involuntary tell spikes the shame and his fondness converts it — the spike and the defuse in one gesture. It is erotic *because* it is kind; cross into mockery and it stops working. *(Key instances: `fitting.md` for the secretions reframe; `brunch-fitting-randi.md` for Randi's extraction of that same material.)*
 
 ---
 
@@ -130,7 +130,7 @@ Vee and Cassie are **unaffiliated** — not in any sorority, never attending as 
 
 ## What the Prose Must Hold — The Three Commitments
 
-**1. The goods of the year are real, in real time.** The sex, the becoming, the friendship, the bravery — rendered at full force as the goods they were. Do not let the prose pre-emptively contaminate them with the future reveal. Vee was not naive to value them. *(The fitting as template for this: `the-fitting.md`.)* When the reader reaches the reveal, the contamination is retrospective only. If the prose tilts toward *Vee should have refused the year in advance,* the argument collapses.
+**1. The goods of the year are real, in real time.** The sex, the becoming, the friendship, the bravery — rendered at full force as the goods they were. Do not let the prose pre-emptively contaminate them with the future reveal. Vee was not naive to value them. *(The fitting as template for this: `fitting.md`.)* When the reader reaches the reveal, the contamination is retrospective only. If the prose tilts toward *Vee should have refused the year in advance,* the argument collapses.
 
 **2. The no is the equipment working, not damage.** She walks out ascendant and hungry. The no is part of the gains. If the prose tilts toward the no reading as trauma or ingratitude, the argument collapses.
 

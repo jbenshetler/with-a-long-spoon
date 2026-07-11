@@ -117,7 +117,7 @@ One file per non-trivial scene; the chronology entry links to it. To work on a s
 | `meta-condensed-the-smoothie-shop.md` | The Smoothie Shop |
 | `meta-condensed-hiking-rainstorm.md` | The Hiking Rainstorm |
 | `meta-condensed-vee-tells-cassie-hike.md` | Vee Tells Cassie — Hike (pure-romance telling; pairs with Cassie — After) |
-| `meta-condensed-the-fitting.md` | The Fitting |
+| `meta-condensed-fitting.md` | The Fitting |
 | `meta-condensed-vee-tells-cassie-fitting.md` | Vee Tells Cassie About the Fitting |
 | `meta-condensed-brunch-fitting-randi.md` | SATC Brunch — Fitting Debrief |
 | `meta-condensed-first-night.md` | First Night Together |
@@ -132,7 +132,7 @@ One file per non-trivial scene; the chronology entry links to it. To work on a s
 | `meta-condensed-recognized-method.md` | A Recognized Method / The Setup |
 | `meta-condensed-practice-room.md` | The Practice Room |
 | `meta-condensed-the-top-drawer.md` | The Top Drawer |
-| `meta-condensed-the-new-ordinary.md` | The Shirt — Re-Scenting (The New Ordinary) |
+| `meta-condensed-new-ordinary.md` | The New Ordinary |
 | `meta-condensed-we-find-out.md` | We Find Out |
 | `meta-condensed-vee-tells-randi-we-find-out.md` | Vee Tells Randi About We Find Out |
 | `meta-condensed-still-life.md` | Still Life |
@@ -197,7 +197,7 @@ Listed in chronological order (filesystem = `scenes/`; order, names, and status 
 | `the-smoothie-shop.md` | The Smoothie Shop | complete |
 | `hiking-rainstorm.md` | The Hiking Rainstorm | complete |
 | `vee-tells-cassie-hike.md` | Vee Tells Cassie — Hike | complete |
-| `the-fitting.md` | The Fitting | complete |
+| `fitting.md` | The Fitting | complete |
 | `vee-tells-cassie-fitting.md` | Vee Tells Cassie About the Fitting | complete |
 | `brunch-fitting-randi.md` | SATC Brunch — Fitting Debrief | complete |
 | `first-night.md` | First Night Together | complete |

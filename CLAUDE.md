@@ -120,7 +120,7 @@ Authoritative-by-domain (each doc owns its subject; don't relitigate it elsewher
 - `meta/meta-arch-pace.md`, `meta/meta-arch-randi.md`, `meta/meta-arch-vivienne.md` — deep per-character architecture (the *why*); each has a `meta/meta-craft-*.md` companion for voice/craft/surface rendering.
 - `meta/meta-plan-satc-tracks.md` — authoritative on the Randi/Vee confidante track: the verbal and physical (goodbye-kiss) staircases, the format-break scenes, how to vary the brunches, and its own DOs/DON'Ts.
 - `meta/meta-note-threesome-reveal.md` — authoritative on the climax: the two-tier blindfold structure, the kiss-as-sole-channel-of-identity, the reveal image, the closed (not ajar) ending.
-- `meta/meta-condensed-*.md` and `meta/meta-note-*.md` — per-scene condensed briefs and scene-specific companion notes (e.g. `meta-condensed-the-fitting.md`, `meta-note-the-bench.md`). Pattern for how scene-local material is kept.
+- `meta/meta-condensed-*.md` and `meta/meta-note-*.md` — per-scene condensed briefs and scene-specific companion notes (e.g. `meta-condensed-fitting.md`, `meta-note-the-bench.md`). Pattern for how scene-local material is kept.
 - `meta/meta-plan-pace-house.md` — the **set/continuity reference for Pace's house**: spatial layout (room by room), what's been committed to the page vs. still planned, recurring fixtures, and continuity flags. Authoritative on *where things are*; defers to the bible for what each room means.
 
 ## The core structural engine (the one thing to internalize)
@@ -150,7 +150,7 @@ These are the project's hard constraints (full versions in the Bible's Global Cr
 
 ## Working conventions
 
-- **Match the established prose register** when drafting — the existing scenes (`scenes/the-fitting.md`, `scenes/the-bench.md`) and the "best phrasings / lines to preserve" in the Bible set the voice. Preserve canonical lines verbatim where they're slotted.
+- **Match the established prose register** when drafting — the existing scenes (`scenes/fitting.md`, `scenes/the-bench.md`) and the "best phrasings / lines to preserve" in the Bible set the voice. Preserve canonical lines verbatim where they're slotted.
 - **Before writing a planned scene**, read its entry in `meta-plan-chronology.md`, the relevant track doc (SATC or threesome), and any scene-specific companion notes; check the continuity-flags section for unresolved ordering/identity issues touching that scene.
 - **When the plan conflicts with itself across documents**, surface the conflict and the version lineage rather than quietly resolving it — these are authorial decisions.
 - **Regenerate the chronology HTML after editing the chronology.** Whenever you change `meta/meta-plan-chronology.md`, run `tools/chronology_html.py` to rebuild `chronology.html` and include the regenerated `chronology.html` in the same commit — never commit or push a chronology edit without refreshing its HTML.
