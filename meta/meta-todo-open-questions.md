@@ -245,3 +245,27 @@ Barely Stings / Still Life / Gesso currently sit ~late January. Open whether to 
 - **In His Hands** (Pace/Vee bed scene, ~November) — architecture in `meta-note-in-his-hands.md`; prose unwritten. Carries the earliest sole-channel photo and the Sheri "she's alone" plant.
 - **All the Time** (SATC format-break, ~November) — architecture in `meta-note-all-the-time.md`; prose unwritten. Carries the anthro invite. The SATC title is provisional — the final should emerge from the draft.
 - **Still Life** — partial draft through the gesso runaway; photo → sex → afterglow unwritten. The afterglow lands the "adventure" coinage.
+
+-----
+
+# POV Discipline — Prolepsis & Close-Third Pass
+
+**Policy committed:** strict close third on the POV character, **no omniscient exceptions** (recorded in `meta-arch-bible.md` GLOBAL CRAFT RULES + `meta-rules.md` POV consistency). Prolepsis policy **(b)**: keep time-compression / bare fact; cut pattern-naming / damage-naming — *reader-ahead is earned by the protagonist misreading the present, not by the narrator telling the future.*
+
+## 29. Prolepsis compression pass — line-level TODOs
+
+**porch-scene.md — coda after the break (L55–67): compress** *(the scene's own craft note at L93 already proposed this)*
+- [ ] **CUT** stacked summary (L61): "The position would sit with her. It would not resolve. She would not bring it up. She would continue. She would love him." → leave only the showing endpoint *I do not know what just happened.*
+- [ ] **CUT** pattern-naming paragraph (L65): "There would be other things in it by then — small flickers across the months… her reliable-Pace model had to do small repair work to keep functioning."
+- [ ] **TRIM** (L61): "the not-saying had now had a particular shape pushed into it…"; and the coda-opener (L55) "she would try to think about what had happened, and she would not quite be able to" if still summary after cuts.
+- [ ] **KEEP** (showing, not pattern-naming): L59 two-days-later bus / "not the same shape" body-surfacing (the payload the scene installs); L63 "*She had said her best sentence. He had not said the sentence back.*"; L67 the figure retiring.
+
+**the-meet-cute.md — closing coda (L271)** *(POV axis — primary)*
+- [ ] **FIX:** the cup-turn — "…because she had not registered the turn at the time…" → rewrite so Vee *perceived-and-dismissed* the turn; convert the 45 / 245 cup-beats to perceived-and-dismissed too.
+- [ ] **KEEP:** "She would text him three days later." + the factual day-compression (more problems, walk back with Cassie, his number).
+
+**Scattered (verified lines) — mostly KEEP; two real trims:**
+- [ ] **the-bench.md L527** (Pace POV) — **TRIM** "slightly, gradually, scene by scene": names the depletion pattern *and* implies slow-accumulation, contradicting the fast-installed rule (Bible / open-Q #14). Keep his forward-looking desire; cut the gradualism.
+- [ ] **fitting.md L268** — **TRIM/REVIEW** "this was going to matter to her later, in ways she couldn't yet see" — telegraphs significance; soft.
+- [ ] **the-bench.md L545** (Pace POV) — **REVIEW** the "tomorrow… waiting for the next time" coda: atmospheric, borderline; light trim only if minimizing codas.
+- [ ] **KEEP** (fact/compression, or the POV character's own live reasoning — not violations): see-you-later.md L135 (selective memory) & L137 (Vee's present dismissal of Cassie's goodbye — close-third-legal); fairytale.md L137 (Randi's own reasoning); burn.md L161 (present closing image); old-acquaintances.md L51 (Vee's forward musing); the-pointing-game.md L37 & L49 (Pace's intent/plan = fact).

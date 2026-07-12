@@ -28,13 +28,13 @@ Randi smiled the small *of course you do* smile and went back to her scroll.
 
 "It's not that I can't read it," Vee said, half to herself. "I know what it wants. I've got the whole setup. It's this integral — I know how to do integrals, and this one just won't go."
 
-She set the cup down and picked the pencil back up and read the problem again. Every road she took curved back and set her down exactly where she had started, the same problem in front of her, untouched, as if she had walked a wide careful circle in the dark and arrived at her own back. Her econ instructor had taught them, in the first week, that the trick to applied math was always to turn the thing in front of you into a thing you already knew how to do, and the rest was mechanical. She knew how to do a great many things. She could not find the one this was secretly asking for.
+She set the cup down and picked the pencil back up and read the problem again. Every road she took curved back and set her down exactly where she had started, the same problem in front of her, untouched, as if she had walked a wide careful circle in the dark and arrived at her own back. Her econ instructor had taught them, in the first week, that the trick to applied math was always to turn the thing in front of you into a thing you already knew how to do, and the rest was mechanical. She knew how to do a great many things. She could not see what to turn this one into.
 
 She pulled in a breath and let it out and set the pencil down again.
 
-Randi shifted in her chair. Her hand was no longer on her laptop. It had moved into her lap, below the table, the way a hand moves when it is going to do something its owner does not particularly want to broadcast. Vee did not notice. Vee was looking at her page.
+Vee looked up. Randi was texting — thumbs quick, eyes down, the small private focus of a girl writing to someone who had her attention. Some boy, Vee thought, amused, and looked back at her page.
 
-Cassie, two tables over, looked up at the small movement. Her eyes flicked from Randi's face down to the lap-region under the table and back up again. Her face did not change. She set her own pencil down and reached for her coffee.
+But the page didn't hold her, and when she looked up again Cassie, two tables over, was watching Randi thumb at her phone — the flat, patient look Cassie kept for Randi, for the sorority polish of her, the ease of her. *She's not serious,* the look said, or that was how Vee read it. Cassie and Randi had never quite taken to each other, and Vee let it be. Cassie set her pencil down and reached for her coffee.
 
 "How's it going over there," Cassie said.
 
@@ -42,7 +42,7 @@ Cassie, two tables over, looked up at the small movement. Her eyes flicked from 
 
 "Mm."
 
-That was all Cassie said. Cassie returned to her work. Randi's hand came back up from her lap and settled lightly on the edge of her laptop. Randi's coffee was at her right elbow. She lifted it and took a small sip and set it back down at the precise angle she had taken it from. Vee, returning to her page, did not see any of this.
+That was all Cassie said. Cassie returned to her work. Randi's coffee was at her right elbow. She lifted it and took a small sip and set it back down at the precise angle she had taken it from. Vee, returning to her page, did not see any of this.
 
 She tried it one more time. It had circled back on her the first three times. It circled back the fourth time. She set the pencil down and put her face in her hands for one count of three and then lifted her head and looked at the ceiling fan instead of at the problem.
 
@@ -82,7 +82,7 @@ He did glance at Randi then, briefly — the courtesy of a stranger acknowledgin
 
 "I'm Pace," he said.
 
-"Vivienne." It came out automatically, the full form, and then — because being looked at like that had loosened something, made her want to be a little more than herself, a little more like the kind of girl who was easy in a moment like this — she reached for the line. She had watched Randi do it on Monday, in the lecture hall, the practiced little swerve, and it had looked so easy and so good that some part of her had filed it to try on later. "Vivienne Thorne. Yes, like the university." A beat, the way Randi did the beat. "No, my parents didn't plan it. Yes, they find it funnier than I do."
+"Vivienne." It came out automatically, the full form, and then — because being looked at like that had loosened something, made her want to be a little more than herself, a little more like the kind of girl who was easy in a moment like this — she reached for the line. She had watched Randi do it on Monday, in the lecture hall, the practiced little swerve, and it had looked so easy and so good that some part of her had filed it to try on later. "Vivienne Thorne. V.T. Yes, like the university." A beat, the way Randi did the beat. "No, my parents didn't plan it. Yes, they find it funnier than I do."
 
 It landed. Pace's mouth did something warm at the corner, and Vee felt the small lift of having pulled it off — the borrowed poise sitting on her better than she'd expected, the room tilting half a degree toward her.
 
@@ -94,7 +94,7 @@ One word. She did not do the adjective thing. She did not do the parents-had-a-s
 
 "Cassie," said Cassie, from the next table, with a small wave.
 
-"Cassie. Vee. Randi." Pace nodded the small *got it* nod of a person registering names properly. He angled himself toward Vee's page. "May I?"
+"Cassie. Vee. Randi." Pace nodded the small *got it* nod of a person registering names properly. He angled himself toward Vee's page. "Do you mind?"
 
 "Please."
 

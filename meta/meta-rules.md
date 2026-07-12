@@ -112,6 +112,8 @@
 - [ ] We are never inside Randi's POV — she is assembled from behavior and tells
 - [ ] The reader inhabits Vee — interior felt with her, not observed
 - [ ] Pace observed from outside except in designated Pace-POV scenes
+- [ ] No omniscient peeks — never show the reader what the POV character cannot perceive (no over-the-shoulder tell she misses). Reader-ahead comes from her *misreading the present*, not the narrator reaching past her
+- [ ] Prolepsis stays factual — any *she would… / later she… / by then…* flash-forward compresses time or states a bare fact only; if it explains a pattern or names the accreting damage, cut it (the reader assembles that)
 
 **Goods and harm**
 - [ ] The goods of the configuration are real in real time — never pre-contaminated
