@@ -50,6 +50,7 @@ The reader inhabits her. Her interior should be felt *with* her, not observed fr
 - When she meets something real she has no toolkit for, she makes a joke.
 - Extends grace before it's earned. (This same quality stops her from becoming a stalker; drives toward his neighborhood once, turns back.)
 - **The snide/prudish commentary** about "girls like that" — her cruelest judgments are about exactly what she secretly wants. Used sparingly. Gone by novel's end — not announced, just absent.
+- **Aspiration, not envy.** Toward more-polished or higher-status women — Randi above all — her draw is aspiration: she wants to be near them, or to be them. She never ranks herself below them, never curdles into envy or competition. Envy would read small and mean; aspiration is generous, part of the same unguarded warmth that extends grace. She likes people and does not need to diminish them.
 - Primary coping mechanism for things that don't fit: a cultural explanation (*"sorority thing"*) that files the feeling without examining it. She notices she's doing it; the writing-off is active, not passive.
 
 ---
@@ -106,7 +107,7 @@ High-intensity BDSM rendered as lunch conversation. Randi is dominant and sadist
 **Against Randi's Art Deco — and the key is mis-categorization, NOT absence.** Randi is Art Deco: sleek, controlled, molded, geometric — beauty as engineering. Vee's beauty is **gradeable and high; it is simply un-molded** — built on a different aesthetic order than the molding-logic Randi's grammar measures. So Randi's grammar does not find *nothing* in Vee to grade; it **mis-categorizes** her — it has no scale for an order that isn't disciplined into a system (Klimt isn't losing to a blueprint; it's not in that contest). **Do NOT render Vee as plain, anti-curation, or outside/above the appearance economy — that is Cassie's fact, not Vee's** (see `meta-arch-cassie.md`). Vee was fashion-literate and high-tier social in high school and was kept out of Greek life by **money, not taste** — a *social* exclusion, not an aesthetic deficiency or an opting-out. She has taste and an eye; she is not naive about surface and not a curator-who-got-priced-out (that would pull her toward Randi's pole). The un-molded quality is exuberance not-yet-disciplined, not indifference to the game.
 
 - *Lush*, not voluptuous. Abundant, ripe, alive — command and abundance in the same frame.
-- Tall, full breasts, deep waist, hips with real width. Moves like an athlete under the abundance — low center, real balance. Synchronized swimmer's control, burdened out of competition by a build the competitive ideal can't use.
+- Tall, full breasts, deep waist, hips with real width. Moves like an athlete under the abundance — low center, real balance. Synchronized swimmer's control, burdened out of competition by a build the competitive ideal can't use. Under exposure her distress is emotional — the shame of being seen — never physical: she doesn't fumble, stumble, or move gracelessly. The athlete's composure holds even when she's mortified.
 - **Curvy, not heavy.** The full bust and real hips are abundance on a tall, trained frame — never weight. Off-the-rack sizing assumes a chest and hips like hers come on a heavy woman and cuts the rest too large, and the tailoring to fix it is past her budget, so she swims in most of what she owns (only bras and fitted underwear track her true size). The oversized clothes are budget-and-fit, not size — don't let them read her as heavy.
 - Shoulder-length hair worn loose, warm dark red, the highlights sparking to copper only in direct sun. The wind device: the same wind that finds almost nothing to move on Randi's bound ponytail lifts Vee's hair the whole time, playing with it.
 - Snub nose tipped up, chestnut freckles across nose and tops of cheeks. These features — the snub nose, the freckles, the loose uncontained hair — are the **un-molded** made flesh: vital and high, but not disciplined into a system. Randi's grammar, which measures the molding, has no scale for them — it mis-categorizes rather than finding nothing. (Not "can't be graded because plain"; "graded wrong because it's a different order.")
@@ -125,6 +126,8 @@ She may own something warm and sweet she almost never wears — a bottle gifted 
 ## Social World
 
 Vee and Cassie are **unaffiliated** — not in any sorority, never attending as sisters, never inside that social world. This never wavers. The status gap with Randi is cross-world and load-bearing: for the flattery-on-surface/targeting-on-reread structure; for the money choreography (Vee always pays her own way, stretching for venues she can't afford); for the Cassie/Randi disclosure-sort being a world-sort as well as a competence-sort.
+
+**Reads tier, not houses.** She clocks social rank instinctively — the high-school-popular navigation she still carries — so a Randi registers as *somebody* the way a celebrity would. But she doesn't track sororities by name or follow Greek-life politics; her access to that world runs through Randi and Pace, not her own interest. A Vee who followed house hierarchies would read pathetic.
 
 ---
 
