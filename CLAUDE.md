@@ -25,6 +25,8 @@ Read
 
 `tools/novel-assistant/` is a small **recall-first search CLI** — `na.py` (SQLite + sqlite-vec + FTS5, local Ollama embeddings), with three commands: `search`, `reindex`, and `style` (a DB-free prose linter that flags style tics — literal phrases like "the way" and structures like "X, not Y" — over a draft or `scenes/`, against `style/style-rules.toml`; `na.py style --help`; see **Style checking** below). Factual lookups go through the **`lore-keeper` subagent**, which queries `na.py search` and falls back to `rg`/Read (see **Research / lore delegation** below). Run `na.py reindex` at session start to keep the index fresh.
 
+**Scene review:** `/scene-review <slug>` runs a full craft/architecture/continuity review of a drafted scene — it fans out the lore-keeper prep in parallel, runs the style linter, and reports against a fixed rubric (craft rules, character architecture, sensory grounding, thesis-carry, seed-calibration, earn-the-dark, continuity/dates). Flags and advises; never rewrites prose. Defined in `.claude/commands/scene-review.md`.
+
 ---
 
 ## How to behave
