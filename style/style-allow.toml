@@ -1047,6 +1047,13 @@ text = "The Greek first — the big crossed *Chi* she knew from twelve front-law
 note = "precise, not autopilot"
 
 [[ok]]
+fp   = "7fc0ebcf3940"
+rule = "look-at-her"
+file = "scenes/see-you-later.md"
+text = "And all Vee could do was look at her with a flat helpless want, the want you keep for a thing you've only ever seen from a distance, except the distance was three feet now and Randi had ordered her an oat-milk latte and was turning around with both cups to find Vee with her eyes and her smile, and the want had nowhere to put itself except *here, this, with her,* and it sat there in Vee's chest, warm, unexamined, glad."
+note = "literal gaze (Vee looking at Randi), not the appreciation beat; author's final wording"
+
+[[ok]]
 fp   = "c7527f86e15f"
 rule = "look-at-her"
 file = "scenes/see-you-later.md"
