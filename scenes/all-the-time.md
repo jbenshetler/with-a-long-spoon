@@ -44,7 +44,13 @@ Randi listened the way she listened, which was total, her wine forgotten, her ey
 
 "And it doesn't *stop,*" Vee said, quieter, because this was the part that scared her a little. "That's the thing nobody tells you. You'd think all that would — fill you up. Wear it out. It's the opposite. The more we do it the more I *want* it. I walk around Tuesday afternoon in the middle of the library and my whole body's just — thinking about Friday. I've got sex brain. I used to be a person with thoughts."
 
-"You poor thing," Randi said, warm as a bath, and it wasn't unkind at all.
+"You poor thing," Randi said, warm as a bath.
+
+And because it was Randi, Vee said the rest, the part she hadn't said out loud to anyone. "Is that — is something *wrong* with me? Am I getting greedy? Am I turning into some kind of — I don't know. Sex pervert?"
+
+"Oh, honey. No." Randi's face went soft and certain. "You're not greedy. You're just finally hungry out loud." She said it like an absolution. "You've been starving your whole life and calling it *fine,* and now you're not, and you've gone and decided that's the flaw. It's the least flawed thing about you." Then, before it could get too solemn, the grin came back. "And if you're a sex pervert, you're *my* sex pervert." A beat. "…Does he have a brother?"
+
+Vee laughed, the worry breaking up and out of her, and her throat did something under it too, because no one had ever put it like that — that the wanting wasn't the thing gone wrong with her but the thing gone finally *right.*
 
 The plates came, the Benedict gold and glossy under a hollandaise gone slack and shining, and Vee cut into the near egg and the yolk broke and ran, thick and gold, out over the ham and the muffin and down into the sauce. A low sound got out of her before she could help it. She tore a corner off the toast and dragged it through the pooled gold — yolk and hollandaise together — and closed her mouth over it, and it was almost too much, and her hand had gone back for more before she'd decided anything. "God," she said, chasing the last of the run across the plate with the bread, "this is the best part. The middle, when it goes everywhere."
 
@@ -66,15 +72,13 @@ Vee looked up. Randi's eyes had gone bright and a little unfixed, held on her, a
 
 And Vee had it, or near enough: these were the ones that got you, told close, in a dark booth on a slow afternoon — of course it had reached her. She went warm with something close to pride, that a Saturday of hers could do that to a woman like Randi.
 
-Then Randi sat back, and drew a breath, and the beam came up full again, and she was herself, all of her, the grin arriving like a room light. "*Even with your clothes on,*" she repeated, savoring it, like Vee had set a jewel on the table. "God. Okay, I need the whole scene — what's he got *playing,* when that's going on? A man like that has a soundtrack."
+Then Randi sat back, and drew a breath, and the beam came up full again, and she was herself, all of her, the grin arriving like a room light. "*Even with your clothes on,*" she repeated, savoring it, like Vee had set a jewel on the table. "God. Okay — what's he got *playing,* when that's going on? A man like that has a soundtrack."
 
-"Always something old," Vee said, glad of the easy question. "Records, even. Low. He puts it on before he does anything else, like the room's not open till the music is."
+"These long playlists that just roll on their own," Vee said, glad of the easy question. "When he's cooking it's piano, mostly, old and soft, I couldn't tell you what half of it even is. And then it'll turn a corner and be *Fleetwood Mac,* or some Garth Brooks song I grew up on, and I just think — who *has* all of that on one playlist?" She smiled. "It goes on first, before anything. The music, and then the rest of the night."
 
-"Of course he does." Randi shook her head, delighted. Then she tipped it, and the warmth in her sharpened to a point that felt, to Vee, like being properly seen. "You know what your problem is, gorgeous? You're not greedy. You're just finally hungry out loud." She said it like an absolution. "You've been starving your whole life and calling it *fine.* And now you're not, and you think that's a flaw." She lifted her wine at last. "It's the least flawed thing about you."
+"Of course he does," Randi said, warm, and shook her head, delighted.
 
-Vee's throat did something. Nobody had ever put it like that — that the wanting wasn't the thing gone wrong with her but the thing finally gone *right* — and she looked down into her soup so Randi wouldn't see how much it landed.
-
-"He doesn't even *have* a life outside it, is the thing," she said, to change the temperature, to get her face back. "Like there's a TV in his den and I've genuinely never seen it on. I don't know if it works. He only ever touches his phone to put the music on or to—" and there she caught herself, a half-beat late, the heat climbing.
+"He doesn't even *have* a life outside it, is the thing," she said. "There's a TV in his den I've genuinely never seen on — I don't know if it works. He doesn't text, he doesn't scroll. The phone's for the music, and—" and there she caught herself, a half-beat late, the heat climbing.
 
 Randi did not lean in. She let the unfinished thing sit there and be finished. "Or to."
 
