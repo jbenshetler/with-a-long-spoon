@@ -16,7 +16,7 @@ Cassie sees Randi clearly; Randi does not see that Cassie sees. Cassie reads Ran
 
 These are fixed. They carry the dynamic and must survive every revision exactly as written.
 
-- **"Goodbye, Vee"** — Cassie's register-wrong farewell as Vee leaves with Randi (Chi Latte diptych, `together-in-class.md`). The warning-as-farewell. She does NOT explain it; she lets the wrong word stand.
+- **"Goodbye, Vee"** — Cassie's register-wrong farewell as Vee leaves with Randi (Chi Latte diptych, `see-you-later.md`). The warning-as-farewell. She does NOT explain it; she lets the wrong word stand.
 - **"It's coffee, weirdo"** — the live dismissal of that warning (Vee, to Cassie). The warning is dismissed in real time.
 - **"Cassie"** — her flat single-word return when Randi runs the warm-coin name-bit on her (first contact, diptych). Declines to complete the routine; leaves the open door unwalked; exposes the bit as a *routine* rather than a spark.
 - **"He looked at her the way you'd look at somebody's great-aunt"** — Cassie at the meet-cute (`the-meet-cute.md`). **NOT a warning about Pace, and NOT a dehumanization of Randi** (revised out of the earlier "like she was a chair" wording — Pace sees everyone fully and wants only Vee). It is the *no-attraction observation*: Pace showed Randi none of the desire a man shows a beautiful woman — the not-a-prospect look (full personhood, zero desire), which Vee privately recognizes as the look men give Cassie. Reads as an anomaly attaching to the staging / Randi. See `meta-arch-cassie.md`, the Knower Discipline.
@@ -50,7 +50,7 @@ These are fixed. They carry the dynamic and must survive every revision exactly 
 
 ### The two worked examples (the proof — both must be remembered)
 
-1. **The Greek coffee shop (Chi Latte).** In `together-in-class.md` Randi steers Vee to the Greek-coded coffee shop on Draper — **a place Cassie would never go.** Surface: just where Randi likes to go (glamorous, aspirational, Randi's taste). Underneath: ground selected to be Cassie-incompatible. The exclusion is built into the *choice of venue.*
+1. **The Greek coffee shop (Chi Latte).** In `see-you-later.md` Randi steers Vee to the Greek-coded coffee shop on Draper — **a place Cassie would never go.** Surface: just where Randi likes to go (glamorous, aspirational, Randi's taste). Underneath: ground selected to be Cassie-incompatible. The exclusion is built into the *choice of venue.*
 
 2. **The dress-code lunch.** Randi invites them **both** — looks generous, looks inclusive — to a lunch with a **dress code**, knowing **Cassie doesn't dress.** The invitation is the alibi; the dress code is the instrument; Cassie excludes *herself* by being who she is; Randi's hands stay clean and she gets to have extended the invitation. The social-perimeter version of what the velvet alcove is for disclosure: a room built so the inconvenient party can't be in it, presented as a nice place to eat. **Status: conceptual, not yet placed — likely becomes an SATC brunch. See `meta-plan-chronology.md` continuity flag and `meta-todo-doc-updates.md`.**
 
@@ -74,4 +74,4 @@ These are fixed. They carry the dynamic and must survive every revision exactly 
 - `meta-arch-randi.md` — Randi's method (warmth-as-instrument); this dynamic is an instance of it.
 - `meta-plan-satc-tracks.md` — the Vee-confidante-sort (DISTINCT mechanism: Vee routing material, not the Cassie–Randi relationship).
 - `meta-arch-bible.md` — cross-character relational architecture (carries a pointer here).
-- `together-in-class.md`, `the-meet-cute.md` — the drafted scenes the quotes and the coffee-shop example live in.
+- `see-you-later.md`, `the-meet-cute.md` — the drafted scenes the quotes and the coffee-shop example live in.

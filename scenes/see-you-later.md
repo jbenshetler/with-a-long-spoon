@@ -1,4 +1,4 @@
-# Together in Class / Chi Latte
+# See You Later
 
 *(Scene 4. The math building — a calculus-based statistics lecture — then the coffee shop two blocks down. The Monday after the campus collision. Vee's POV.)*
 

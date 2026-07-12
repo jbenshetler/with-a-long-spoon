@@ -63,7 +63,7 @@ For the non-climbing rotation (kind of charge, container, register, temperature)
 
 (From summary, canonical:)
 
-> **Note (scene-4 reconciliation):** The SATC verbal staircase below is the **post-meet-cute retelling channel** — every rung requires Vee to have Pace-material to bring. The scene-4 Chi Latte diptych (`together-in-class.md`) is the *first* Randi/Vee coffee but is **not** an SATC rung: Vee hasn't met Pace yet, so there is no report, no extraction, no bathroom trip, and (correctly) no cup-tell. The diptych establishes the *friendship* and the venue; the staircase's "Coffee after class" rung below is a **later** coffee (after the meet-cute), where Randi first volunteers the take-charge guy. Keep them distinct.
+> **Note (scene-4 reconciliation):** The SATC verbal staircase below is the **post-meet-cute retelling channel** — every rung requires Vee to have Pace-material to bring. The scene-4 Chi Latte diptych (`see-you-later.md`) is the *first* Randi/Vee coffee but is **not** an SATC rung: Vee hasn't met Pace yet, so there is no report, no extraction, no bathroom trip, and (correctly) no cup-tell. The diptych establishes the *friendship* and the venue; the staircase's "Coffee after class" rung below is a **later** coffee (after the meet-cute), where Randi first volunteers the take-charge guy. Keep them distinct.
 
 1. **Coffee after class** — Randi volunteers the take-charge guy unprompted. Doesn’t push when Vee deflects.
 1. **Smoothies** — a specific detail about the guy; slightly more specific question about what Vee wants. Lets go when deflected. **Drafted** (`the-smoothie-shop.md`): Randi's bad-date warm-up builds the negative template; the surrender is named; the kiss is reframed agency→appetite (*because of him*).
@@ -84,11 +84,11 @@ For the non-climbing rotation (kind of charge, container, register, temperature)
 
 ## THE PHYSICAL STAIRCASE — THE GOODBYE KISS AND ITS COUSINS
 
-The goodbye ritual is **established early** (the rung-zero hug at Together in Class / Chi Latte) and arrives pre-coded as deniable (*“sorority thing”*). That deniability is what lets it escalate indefinitely without tripping Vee’s alarm. **Render evolution through physical specificity and duration ONLY — never through Vee thinking “the kiss is different now.”** The moment she thinks it, the device collapses.
+The goodbye ritual is **established early** (the rung-zero hug at See You Later) and arrives pre-coded as deniable (*”sorority thing”*). That deniability is what lets it escalate indefinitely without tripping Vee’s alarm. **Render evolution through physical specificity and duration ONLY — never through Vee thinking “the kiss is different now.”** The moment she thinks it, the device collapses.
 
 Progression (interleave across the back half, not front-loaded; still climbing at the end):
 
-- **Rung zero — the hug (drafted, Together in Class / Chi Latte; reprised in The Smoothie Shop):** quick, warm, complete, a hand flat between the shoulder blades; *"Love you, girl."* No kiss. Pre-coded deniable.
+- **Rung zero — the hug (drafted, See You Later; reprised in The Smoothie Shop):** quick, warm, complete, a hand flat between the shoulder blades; *"Love you, girl."* No kiss. Pre-coded deniable.
 - **First kiss (drafted, How It's Done):** in the car, Vee leans in for the cheek-thing and it isn’t that — a hand at the hinge of her jaw, the mouth instead, soft and unhurried, then the small second press *"that had something in it the first one hadn’t."* The surprise is the tell; the cheek-peck she expected is the deniability the kiss steps through.
 - **Settling (drafted, the CW-Dance Debrief):** the same mouth-kiss, the same second press *"the first one always seemed to want"* — but the bracing is gone; she *"hadn’t braced… it was only what they did."* Habit is how the threshold holds without anyone deciding. A hand lands — arm, waist, small of the back (the chivalry-of-touch, but on Randi it’s assessment).
 - **Late:** carries something it didn’t. Vee initiates for the first time, or doesn’t pull back first, and notices she didn’t, and sets the noticing down. The eye contact from that first parting returns — same charge, now with months of accumulated intimacy behind it, the writing-off wearing thin.

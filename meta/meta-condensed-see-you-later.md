@@ -1,4 +1,4 @@
-# Condensed — Together in Class
+# Condensed — See You Later
 
 *SCENE (DIPTYCH) · Draft complete · first class meeting after the collision*
 

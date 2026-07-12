@@ -108,7 +108,7 @@ One file per non-trivial scene; the chronology entry links to it. To work on a s
 | `meta-condensed-the-bench.md` | The Bench |
 | `meta-condensed-standards.md` | Standards |
 | `meta-condensed-the-pointing-game.md` | The Pointing Game (diptych) |
-| `meta-condensed-together-in-class.md` | Together in Class / Chi Latte |
+| `meta-condensed-see-you-later.md` | See You Later |
 | `meta-condensed-the-meet-cute.md` | The Engineered Meet-Cute |
 | `meta-condensed-the-froyo-walk.md` | The Froyo Walk |
 | `meta-condensed-walk-home-kiss.md` | The Walk-Home Kiss |
@@ -189,7 +189,7 @@ Listed in chronological order (filesystem = `scenes/`; order, names, and status 
 | `the-bench.md` | The Bench | complete |
 | `standards.md` | Standards | complete |
 | `the-pointing-game.md` | The Pointing Game (diptych — bed + campus walk) | complete |
-| `together-in-class.md` | Together in Class / Chi Latte (diptych) | complete |
+| `see-you-later.md` | See You Later (diptych) | complete |
 | `the-meet-cute.md` | The Engineered Meet-Cute | complete |
 | `the-froyo-walk.md` | The Froyo Walk | complete |
 | `may-i-choose.md` | May I Choose — The Dinner (the first surrender) | complete |
