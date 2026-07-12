@@ -1138,6 +1138,20 @@ text = "\"You keep looking at the door,\" Cassie said, not looking up from her o
 note = "participial, natural"
 
 [[ok]]
+fp   = "62e35b8410e5"
+rule = "x-not-y"
+file = "scenes/see-you-later.md"
+text = "She'd been coming out of the dining hall with Meg from her floor, mid-laugh, not thinking about anything."
+note = "participial, natural"
+
+[[ok]]
+fp   = "7a859d52b5cd"
+rule = "x-not-y"
+file = "scenes/see-you-later.md"
+text = "She'd been coming out of the dining hall with Meg from her floor, mid-laugh, not thinking about anything, when a girl walked into her."
+note = "participial, natural"
+
+[[ok]]
 fp   = "d6afef71d712"
 rule = "x-not-y"
 file = "scenes/see-you-later.md"
