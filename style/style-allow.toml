@@ -1054,11 +1054,32 @@ text = "Look at you."
 note = "Randi's dialogue (performed warmth), not a narrator appreciation-beat"
 
 [[ok]]
+fp   = "10c164a2b414"
+rule = "the-way"
+file = "scenes/see-you-later.md"
+text = "*Kai latte,* she read — and heard *chai latte* a half-second later, the way a thing is funny only once you're allowed in on it."
+note = "thematic keeper (allowed-in-on-the-joke)"
+
+[[ok]]
+fp   = "3b850ebd262a"
+rule = "the-way"
+file = "scenes/see-you-later.md"
+text = "The Greek first — the big crossed *Chi* she knew from the frat and sorority signs she'd walked past for two years and never once sounded out — and then the rest tipping over into English in her mouth, *chi, latte,* the joke arriving a half-second after the alphabet, the way a thing is funny only once you're allowed in on it."
+note = "thematic keeper (allowed-in-on-the-joke)"
+
+[[ok]]
 fp   = "4b2badd781a2"
 rule = "the-way"
 file = "scenes/see-you-later.md"
 text = "Randi who was on the standards board and had run the spring philanthropy thing that got written up in the campus paper, Randi whose photos Vee had looked at the way you look at the popular account's photos, with a flat unbothered face and a hard knot of wanting underneath."
 note = "load-bearing simile (photos), kept per author"
+
+[[ok]]
+fp   = "5298c43a21ef"
+rule = "the-way"
+file = "scenes/see-you-later.md"
+text = "The joke arrived a half-second after the alphabet, the way a thing is funny only once you're allowed in on it."
+note = "thematic keeper (allowed-in-on-the-joke)"
 
 [[ok]]
 fp   = "5b599cc4e7e1"

@@ -92,7 +92,7 @@ The sign was the first thing. It hung over the door on Draper, gold letters on a
 
 **Χ ΛΑΤΕ**
 
-The Greek first — the big crossed *Chi* she knew from twelve front-lawn letterboards she had never had cause to learn the inside of — and then the rest of it tipping over into English in her mouth, *chi, latte,* the joke arriving a half-second after the alphabet, the way a thing is funny only once you're allowed in on it. She had stood outside this exact joke. Now she was walking under it with Randi holding the door, and the small private fact of that went through her warm and complete.
+The Greek first — the big crossed *Chi* she knew from the frat and sorority signs she'd walked past for two years and never once sounded out — and then the rest tipping over into English in her mouth, *chi, latte,* the joke arriving a half-second after the alphabet, the way a thing is funny only once you're allowed in on it. She had stood outside this exact joke. Now she was walking under it with Randi holding the door, and the small private fact of that went through her warm and complete.
 
 Inside it was yellow and white, bright as a kitchen in a commercial, the walls a soft butter color and the tables and the cups all white, the chalkboard menu done in careful hand-lettering with little drawings, the whole place smelling of coffee and of chocolate, dark and warm and close, the smell you'd want to live in. And under the smell, the sound — spoons going against the insides of cups, all over the room, an irregular ringing, everyone stirring up the sweetness at the bottom of their drinks.
 
