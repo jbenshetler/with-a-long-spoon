@@ -1481,6 +1481,13 @@ text = "She watched him read it."
 note = "Author sign-off: established scene voice throughout, plus the entrance gestalt/smile language (whole-of, easy-not-one-feature, She-felt anaphora) as authored."
 
 [[ok]]
+fp   = "aab2fc6776b8"
+rule = "filter-verbs"
+file = "scenes/the-meet-cute.md"
+text = "There was an economy in how he folded down into it that she felt before she could have named it — nothing in the movement spent that did not need spending."
+note = "Author sign-off: entry rework (challenge-problem framing, audible-entrance overhear, Pace in line, 'Let me try?' permission seed, coffee removed, Randi no-coffee beat, line-201 fix). Re-arms of established scene voice."
+
+[[ok]]
 fp   = "c453d370b234"
 rule = "filter-verbs"
 file = "scenes/the-meet-cute.md"
@@ -1507,6 +1514,13 @@ rule = "filter-verbs"
 file = "scenes/the-meet-cute.md"
 text = "She felt — and this was where her body got ahead of her mind by what felt like a full second, the kind of beat she would not be able to clock until later — *what he had done.* Not the math part, which was small and tidy."
 note = "Author sign-off: established scene voice throughout, plus the entrance gestalt/smile language (whole-of, easy-not-one-feature, She-felt anaphora) as authored."
+
+[[ok]]
+fp   = "952b04bcc69e"
+rule = "learn"
+file = "scenes/the-meet-cute.md"
+text = "The thing she had learned years ago and set aside as a curiosity — a true thing she had never once needed — came out and did the work in a few clean lines."
+note = "Author sign-off: 'learned years ago' reads natural in the payoff beat."
 
 [[ok]]
 fp   = "699ba4ebca8e"
@@ -1684,6 +1698,13 @@ text = "He did glance at Randi then, briefly — the courtesy of a stranger ackn
 note = "Author sign-off: established scene voice throughout, plus the entrance gestalt/smile language (whole-of, easy-not-one-feature, She-felt anaphora) as authored."
 
 [[ok]]
+fp   = "35ff052c1cc2"
+rule = "there-was-were"
+file = "scenes/the-meet-cute.md"
+text = "There was an economy in how he folded down into it that she felt before she could have named it — nothing in the movement spent that did not need spending."
+note = "Author sign-off: entry rework (challenge-problem framing, audible-entrance overhear, Pace in line, 'Let me try?' permission seed, coffee removed, Randi no-coffee beat, line-201 fix). Re-arms of established scene voice."
+
+[[ok]]
 fp   = "b5201b375b65"
 rule = "there-was-were"
 file = "scenes/the-meet-cute.md"
@@ -1726,6 +1747,13 @@ text = "Up close he was nothing her eye would have caught in a crowd — a pleas
 note = "Author sign-off: established scene voice throughout, plus the entrance gestalt/smile language (whole-of, easy-not-one-feature, She-felt anaphora) as authored."
 
 [[ok]]
+fp   = "4a342f926d40"
+rule = "x-not-y"
+file = "scenes/the-meet-cute.md"
+text = "He had a few steps to cover and he was using them — his eyes on her face the whole way, not on the table, not on Randi, on her."
+note = "Author sign-off: entry rework (challenge-problem framing, audible-entrance overhear, Pace in line, 'Let me try?' permission seed, coffee removed, Randi no-coffee beat, line-201 fix). Re-arms of established scene voice."
+
+[[ok]]
 fp   = "5956f1f381e1"
 rule = "x-not-y"
 file = "scenes/the-meet-cute.md"
@@ -1738,6 +1766,13 @@ rule = "x-not-y"
 file = "scenes/the-meet-cute.md"
 text = "The way his pencil-mark had been a margin note, not a rewrite."
 note = "Author sign-off: established scene voice throughout, plus the entrance gestalt/smile language (whole-of, easy-not-one-feature, She-felt anaphora) as authored."
+
+[[ok]]
+fp   = "9a4d4337940c"
+rule = "x-not-y"
+file = "scenes/the-meet-cute.md"
+text = "The path he picked was — she could see this with her econ training, the muscle she had been developing for two years now, the eye for *how a smart person handles a problem they could handle in any of several ways* — was the path of a person who wasn't performing — not showing off, not hiding it either — who had kept himself out of it so the solving stayed hers."
+note = "Author sign-off: entry rework (challenge-problem framing, audible-entrance overhear, Pace in line, 'Let me try?' permission seed, coffee removed, Randi no-coffee beat, line-201 fix). Re-arms of established scene voice."
 
 [[ok]]
 fp   = "c5aa77e139e5"
