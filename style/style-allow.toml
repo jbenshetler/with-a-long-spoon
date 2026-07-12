@@ -1082,6 +1082,13 @@ text = "The Greek first — the big crossed *Chi* she knew from twelve front-law
 note = "thematic keeper (allowed-in-on-the-joke)"
 
 [[ok]]
+fp   = "5bbb3db02afd"
+rule = "there-was-were"
+file = "scenes/see-you-later.md"
+text = "She could get the *shape* of it: that Randi was funny, that Randi told a story about a sister in the house and a parking ticket that had made Vee laugh hard enough to put her cup down, that Randi asked her things and seemed to want the answers, that there was a stretch about a guy and a stretch where Randi said something so flattering and so offhand that Vee had felt it go in like a key in a lock."
+note = "listing rhythm wants it"
+
+[[ok]]
 fp   = "93fdaee6f683"
 rule = "there-was-were"
 file = "scenes/see-you-later.md"
@@ -1117,11 +1124,25 @@ text = "She had been coming out of the dining hall with somebody from her hall, 
 note = "participial, natural"
 
 [[ok]]
+fp   = "3fe9fb71638b"
+rule = "x-not-y"
+file = "scenes/see-you-later.md"
+text = "She had been coming out of the dining hall with somebody from her hall, mid-laugh, not thinking about anything, and a girl had walked into her — or she had walked into the girl, it had genuinely not been clear, it had been one of those collisions where both people apologize and neither one did it — and Vee had looked up to say sorry and forgotten to."
+note = "participial, natural"
+
+[[ok]]
 fp   = "4c26472d30b6"
 rule = "x-not-y"
 file = "scenes/see-you-later.md"
 text = "\"You keep looking at the door,\" Cassie said, not looking up from her own page."
 note = "participial, natural"
+
+[[ok]]
+fp   = "d6afef71d712"
+rule = "x-not-y"
+file = "scenes/see-you-later.md"
+text = "Randi dropped into the seat on Vee's other side, the aisle side, so that Vee was between her and Cassie now, and a warm wave of her came with it, citrus, not sweet."
+note = "author-specified phrasing for Randi's scent"
 
 [[ok]]
 fp   = "30cee1a108da"
