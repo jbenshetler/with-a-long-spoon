@@ -32,7 +32,7 @@ She was at the end of the row. She had come in the back, which Vee had not thoug
 
 "I almost didn't find you. This room is a *cave*." Randi dropped into the seat on Vee's other side, the aisle side, so that Vee was between her and Cassie now, and a warm wave of her came with it, citrus, not sweet. Vee noticed clothes, always had, and Randi had dressed for a Monday-morning stats lecture like it was somewhere worth being seen: everything easy and exact and none of it cheap. Her face was done, lightly, with the kind of light hand that takes skill and time and money to manage. And she was already reaching to squeeze Vee's forearm, once, as she had on the lawn. "Okay. Look at you. You're one of those people who has the right pen and everything. I love that. I'm going to copy off you all semester, I'm just telling you now so it's not weird later."
 
-Vee laughed. The right pen. She would think about *the right pen* on and off for a day and a half.
+Vee laughed. *The right pen.* A nothing thing to say, and it warmed her like praise she'd worked for.
 
 Randi's eyes went past her to Cassie, and the warmth swung over and landed there, total, undimmed, as though Cassie were the next wonderful thing in a room full of them.
 
@@ -48,9 +48,9 @@ That was all. She didn't hand anything back. She didn't take the bit's open door
 
 Vee felt the small hitch of it, the place where the rhythm was supposed to keep going and didn't, and her own social fluency came up under it before she'd decided anything, as it always did when a beat ran a half-second long. "Cassie says about four words a day," she said, leaning in, making it warm, making it a feature. "You'll learn to read them like tea leaves."
 
-"That's *amazing*," Randi said, delighted, already past it, the warmth not so much smoothed over as simply moving on, weather that had found the next field. "I need that. I say four hundred words a day minimum and like nine of them land."
+"That's *amazing*," Randi said, delighted, taking the flat little *Cassie* as if it were the best thing anyone had handed her all morning. "I *need* that. I say four hundred words a day minimum and like nine of them land."
 
-She had not looked at Cassie again. Vee was aware mostly of the warmth, and of being in the middle of it, and of the granular happy fact of the three of them in a row with Randi's bag on the floor touching her bag.
+The warmth stayed generous with Cassie, a question sent her way, a laugh, an opening left for her that she didn't take. But it was Vee she kept coming back to, Vee she'd picked the seat beside. Vee was aware mostly of that, of being the one the warmth returned to, and of the granular happy fact of the three of them in a row with Randi's bag on the floor touching her bag.
 
 The professor said good morning and the room came down to a murmur and then to nothing.
 
