@@ -200,6 +200,139 @@ text = "Pace's reply is **delayed — engaged concentration, not defense** (the 
 note = "Under the Rug: author-reviewed during close drafting. Name/word antitheses load-bearing engine; filtered/existential constructions are intentional voice. 'all the way down through her' kept by author choice."
 
 [[ok]]
+fp   = "a6eb90d053d6"
+rule = "a-small"
+file = "scenes/all-the-time.md"
+text = "And when he actually—\" she made a small hopeless gesture \"—he changes it up the whole time, fast then slow then some way I don't have a word for, and he's *strong,* he can hold me anywhere he wants me, and then a minute later he's so gentle I could cry."
+note = "All the Time finalized: fixable tics recast; remainder are authorial keeps (the-way 4/5, file motif, Vee fumbles, there-was anaphora, in-voice antithesis)"
+
+[[ok]]
+fp   = "8f6a69205903"
+rule = "began-to"
+file = "scenes/all-the-time.md"
+text = "And then Randi's mouth, the greeting they did now, easy, only what they did — except that this time, when it should have ended, Vee was the one who wouldn't let it, leaning up the last half-inch after Randi as she started to draw back, taking a second of it for herself, not ready to give the morning up."
+note = "All the Time finalized: fixable tics recast; remainder are authorial keeps (the-way 4/5, file motif, Vee fumbles, there-was anaphora, in-voice antithesis)"
+
+[[ok]]
+fp   = "4adb67799abe"
+rule = "file-verb"
+file = "scenes/all-the-time.md"
+text = "And that landed wrong — that she'd lost her nerve, that Randi, who'd done God knew what with God knew whom, would file her as a girl who flinched."
+note = "All the Time finalized: fixable tics recast; remainder are authorial keeps (the-way 4/5, file motif, Vee fumbles, there-was anaphora, in-voice antithesis)"
+
+[[ok]]
+fp   = "03fb0d3f50d3"
+rule = "filter-verbs"
+file = "scenes/all-the-time.md"
+text = "She noticed it, and decided it was what she wanted, and didn't bother about it again."
+note = "All the Time finalized: fixable tics recast; remainder are authorial keeps (the-way 4/5, file motif, Vee fumbles, there-was anaphora, in-voice antithesis)"
+
+[[ok]]
+fp   = "df50c72e92e9"
+rule = "filter-verbs"
+file = "scenes/all-the-time.md"
+text = "She heard how much she wanted it and didn't mind."
+note = "All the Time finalized: fixable tics recast; remainder are authorial keeps (the-way 4/5, file motif, Vee fumbles, there-was anaphora, in-voice antithesis)"
+
+[[ok]]
+fp   = "6518a4b1f76a"
+rule = "the-way"
+file = "scenes/all-the-time.md"
+text = "And here was the thing Vee had not planned for, driving over: that there was nothing to *give*, not the way there usually was."
+note = "All the Time finalized: fixable tics recast; remainder are authorial keeps (the-way 4/5, file motif, Vee fumbles, there-was anaphora, in-voice antithesis)"
+
+[[ok]]
+fp   = "c296019e8fd3"
+rule = "the-way"
+file = "scenes/all-the-time.md"
+text = "Randi listened the way she listened, which was total, her wine forgotten, her eyes going to Vee's mouth when she talked and her hands when they moved, and Vee felt herself open under it like she always did, the best listener she'd ever had."
+note = "All the Time finalized: fixable tics recast; remainder are authorial keeps (the-way 4/5, file motif, Vee fumbles, there-was anaphora, in-voice antithesis)"
+
+[[ok]]
+fp   = "1ddc1789ee7b"
+rule = "there-was-were"
+file = "scenes/all-the-time.md"
+text = "Randi's eyes had gone bright and a little unfixed, held on her, and she gave her head one small shake, as if to clear it, and there was a catch in her breath she didn't quite smooth over."
+note = "All the Time finalized: fixable tics recast; remainder are authorial keeps (the-way 4/5, file motif, Vee fumbles, there-was anaphora, in-voice antithesis)"
+
+[[ok]]
+fp   = "324696f91967"
+rule = "there-was-were"
+file = "scenes/all-the-time.md"
+text = "There was no one else, anywhere, she could have shown."
+note = "All the Time finalized: fixable tics recast; remainder are authorial keeps (the-way 4/5, file motif, Vee fumbles, there-was anaphora, in-voice antithesis)"
+
+[[ok]]
+fp   = "68924b1e7615"
+rule = "there-was-were"
+file = "scenes/all-the-time.md"
+text = "And here was the thing Vee had not planned for, driving over: that there was nothing to *give*, not the way there usually was."
+note = "All the Time finalized: fixable tics recast; remainder are authorial keeps (the-way 4/5, file motif, Vee fumbles, there-was anaphora, in-voice antithesis)"
+
+[[ok]]
+fp   = "bbb5f32395c2"
+rule = "there-was-were"
+file = "scenes/all-the-time.md"
+text = "There was just — all of it."
+note = "All the Time finalized: fixable tics recast; remainder are authorial keeps (the-way 4/5, file motif, Vee fumbles, there-was anaphora, in-voice antithesis)"
+
+[[ok]]
+fp   = "e24d6d00598d"
+rule = "there-was-were"
+file = "scenes/all-the-time.md"
+text = "There was no dress, no swat, no afternoon that started one way and ended another."
+note = "All the Time finalized: fixable tics recast; remainder are authorial keeps (the-way 4/5, file motif, Vee fumbles, there-was anaphora, in-voice antithesis)"
+
+[[ok]]
+fp   = "f13dc278aff0"
+rule = "there-was-were"
+file = "scenes/all-the-time.md"
+text = "There was no scene."
+note = "All the Time finalized: fixable tics recast; remainder are authorial keeps (the-way 4/5, file motif, Vee fumbles, there-was anaphora, in-voice antithesis)"
+
+[[ok]]
+fp   = "3bf7e800a242"
+rule = "whole-of"
+file = "scenes/all-the-time.md"
+text = "His hands, his mouth, everywhere, like the whole of me is the— like there's not a part of me he doesn't want."
+note = "All the Time finalized: fixable tics recast; remainder are authorial keeps (the-way 4/5, file motif, Vee fumbles, there-was anaphora, in-voice antithesis)"
+
+[[ok]]
+fp   = "0be3e511d62e"
+rule = "x-not-y"
+file = "scenes/all-the-time.md"
+text = "A brunch at the green-velvet place — the tenor of a thing, not the thing.*"
+note = "All the Time finalized: fixable tics recast; remainder are authorial keeps (the-way 4/5, file motif, Vee fumbles, there-was anaphora, in-voice antithesis)"
+
+[[ok]]
+fp   = "2cfd8b700df9"
+rule = "x-not-y"
+file = "scenes/all-the-time.md"
+text = "I feel *looked at.* Not creepy-looked-at, not like a guy at a bar."
+note = "All the Time finalized: fixable tics recast; remainder are authorial keeps (the-way 4/5, file motif, Vee fumbles, there-was anaphora, in-voice antithesis)"
+
+[[ok]]
+fp   = "38b0cb21a3b5"
+rule = "x-not-y"
+file = "scenes/all-the-time.md"
+text = "She was not going to be that girl, not at this table."
+note = "All the Time finalized: fixable tics recast; remainder are authorial keeps (the-way 4/5, file motif, Vee fumbles, there-was anaphora, in-voice antithesis)"
+
+[[ok]]
+fp   = "73ea4cb1a977"
+rule = "x-not-y"
+file = "scenes/all-the-time.md"
+text = "\"It's on me the whole time I'm there, not just — I mean even with my clothes on, which, ha, isn't a lot of the weekend—\" Randi's laugh, low \"—even then."
+note = "All the Time finalized: fixable tics recast; remainder are authorial keeps (the-way 4/5, file motif, Vee fumbles, there-was anaphora, in-voice antithesis)"
+
+[[ok]]
+fp   = "ce1b0995c665"
+rule = "x-not-y"
+file = "scenes/all-the-time.md"
+text = "And then Randi's mouth, the greeting they did now, easy, only what they did — except that this time, when it should have ended, Vee was the one who wouldn't let it, leaning up the last half-inch after Randi as she started to draw back, taking a second of it for herself, not ready to give the morning up."
+note = "All the Time finalized: fixable tics recast; remainder are authorial keeps (the-way 4/5, file motif, Vee fumbles, there-was anaphora, in-voice antithesis)"
+
+[[ok]]
 fp   = "17923d3ae69e"
 rule = "the-way"
 file = "scenes/bare.md"
