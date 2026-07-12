@@ -1019,6 +1019,111 @@ text = "\"Same city, not high-school sweethearts, nothing that good."
 note = "Author-approved in Rock [AI] workshop: engine 'the way' simile, 'without asking' robe beat, 'city, not high-school sweethearts'."
 
 [[ok]]
+fp   = "bda5b5610495"
+rule = "a-small"
+file = "scenes/see-you-later.md"
+text = "But Randi was a presence at her right elbow the whole hour — recrossing her legs, writing something, leaning in once to whisper *wait is this going to be on the thing* with her breath warm and citrus and her shoulder against Vee's shoulder, and Vee whispering back *the midterm, yeah* and feeling, absurdly, like she had been given something to do, a small office, *the one who knows things,* and doing it gladly."
+note = "kept: the diminutive is the metaphor (a minor assigned duty)"
+
+[[ok]]
+fp   = "735ef7634d1b"
+rule = "file-verb"
+file = "scenes/see-you-later.md"
+text = "Cassie's *goodbye* had already gone out of her completely, the wrong stair smoothed flat, the word filed under *Cassie being Cassie* and forgotten."
+note = "deliberate blank-transcript/filing motif; lands the dismissal"
+
+[[ok]]
+fp   = "70167553308a"
+rule = "learn"
+file = "scenes/see-you-later.md"
+text = "\"You'll learn to read them like tea leaves.\""
+note = "dialogue; precise"
+
+[[ok]]
+fp   = "7376ae2893fd"
+rule = "learn"
+file = "scenes/see-you-later.md"
+text = "The Greek first — the big crossed *Chi* she knew from twelve front-lawn letterboards she had never had cause to learn the inside of — and then the rest of it tipping over into English in her mouth, *chi, latte,* the joke arriving a half-second after the alphabet, the way a thing is funny only once you're allowed in on it."
+note = "precise, not autopilot"
+
+[[ok]]
+fp   = "c7527f86e15f"
+rule = "look-at-her"
+file = "scenes/see-you-later.md"
+text = "Look at you."
+note = "Randi's dialogue (performed warmth), not a narrator appreciation-beat"
+
+[[ok]]
+fp   = "4b2badd781a2"
+rule = "the-way"
+file = "scenes/see-you-later.md"
+text = "Randi who was on the standards board and had run the spring philanthropy thing that got written up in the campus paper, Randi whose photos Vee had looked at the way you look at the popular account's photos, with a flat unbothered face and a hard knot of wanting underneath."
+note = "load-bearing simile (photos), kept per author"
+
+[[ok]]
+fp   = "5b599cc4e7e1"
+rule = "the-way"
+file = "scenes/see-you-later.md"
+text = "Vee felt the small wrongness of it the way you feel a stair that isn't where your foot expected, and her face did the thing it did with wrongness, which was to smooth it."
+note = "signature body-first image; recurs at scene close"
+
+[[ok]]
+fp   = "9d50018a33a9"
+rule = "the-way"
+file = "scenes/see-you-later.md"
+text = "Vee got there early, as she always did, and took her usual two-thirds of the way back, on the aisle, with Cassie beside her unpacking a granola bar and the wrong textbook and then the right one."
+note = "false positive: literal distance (two-thirds of the way back), not a filtered construction"
+
+[[ok]]
+fp   = "fa67c0cec2ac"
+rule = "the-way"
+file = "scenes/see-you-later.md"
+text = "The Greek first — the big crossed *Chi* she knew from twelve front-lawn letterboards she had never had cause to learn the inside of — and then the rest of it tipping over into English in her mouth, *chi, latte,* the joke arriving a half-second after the alphabet, the way a thing is funny only once you're allowed in on it."
+note = "thematic keeper (allowed-in-on-the-joke)"
+
+[[ok]]
+fp   = "93fdaee6f683"
+rule = "there-was-were"
+file = "scenes/see-you-later.md"
+text = "She could get the *shape* of it: that Randi was funny, that Randi told a story about a sister in the house and a parking ticket that had made Vee laugh hard enough to put her cup down, that Randi asked her things and seemed to want the answers, that there was a stretch about a guy and a stretch about the philanthropy thing and a stretch where Randi said something so flattering and so offhand that Vee had felt it go in like a key in a lock."
+note = "listing rhythm wants it"
+
+[[ok]]
+fp   = "a5a55f5c0f6d"
+rule = "there-was-were"
+file = "scenes/see-you-later.md"
+text = "And she meant it, too — there was nothing in it, no sulk, no edge, just a person declining a thing that wasn't hers in a voice with nothing in it but the fact."
+note = "idiomatic; kept per author"
+
+[[ok]]
+fp   = "bf6af044d18c"
+rule = "there-was-were"
+file = "scenes/see-you-later.md"
+text = "Randi dropped into the seat on Vee's other side, the aisle side, so that Vee was between her and Cassie now, and there was a quick warm wave of her — something citrus, something green and cold under it, nothing sweet — and she was already reaching to squeeze Vee's forearm, once, as she had on the lawn."
+note = "kept per author"
+
+[[ok]]
+fp   = "71ea2bb3c15d"
+rule = "weather"
+file = "scenes/see-you-later.md"
+text = "\"That's *amazing*,\" Randi said, delighted, already past it, the warmth not so much smoothed over as simply moving on, weather that had found the next field."
+note = "kept: fresher of the weather pair; Randi's warmth relocating = plan escaping her"
+
+[[ok]]
+fp   = "1f2a434babb5"
+rule = "x-not-y"
+file = "scenes/see-you-later.md"
+text = "She had been coming out of the dining hall with somebody from her hall, mid-laugh, not thinking about anything, and a girl had walked into her — or she had walked into the girl, it had genuinely not been clear, it had been one of those collisions where both people apologize and neither one did it — and the girl had been *Randi*."
+note = "participial, natural"
+
+[[ok]]
+fp   = "4c26472d30b6"
+rule = "x-not-y"
+file = "scenes/see-you-later.md"
+text = "\"You keep looking at the door,\" Cassie said, not looking up from her own page."
+note = "participial, natural"
+
+[[ok]]
 fp   = "30cee1a108da"
 rule = "there-she-is"
 file = "scenes/still-life.md"
