@@ -12,6 +12,7 @@
 
 - **He plays.** Real sense of humor about sex — teasing, banter, delight — *alongside* the tenderness and intensity, never under them. **With Vee, teasing is erotically load-bearing** (her shame-loop turns it straight to heat). Don't default every beat to tender/intense. (→ *Play, teasing, and humor.*)
 - **Charged by her *choosing*, never by cold.** The heat is a woman breaking her own rules or submitting *willingly*; if a beat's heat needs coldness or cruelty, it's wrong.
+- **The body is a gated reveal, never a display.** Clothed/public: concealed; heat *displaced and deniable* (a forearm at the cuff-roll, the economy of his movement). Private/admitted: the full body, hot — hotter *because* withheld. He never shows off; render the *switch* between modes, not the musculature. (→ *The Body as Gated Reveal.*)
 - **He catches every signal and assembles none.** Never render him *missing* a tell — that reads as dim/imperceptive, which he is not. Render him *noticing it and setting it down* (the failure is synthesis, not perception). Flip any "he didn't notice / didn't hear past it" into a catch-and-set-down.
 - **Cognition, not affect.** The gap is in *synthesis* (he catches everything, assembles none), never in *feeling*. Never render him flat, deadpan, or blank — he's warm and fully present, visibly feeling. Don't let the never-name rule slide into the flat-affect stereotype. (→ *The Present-Moment / After-Register Asymmetry.*)
 - **Loves genuinely; the appetite outweighs, never replaces.** Love in the interiority (real); the override in behavior (unnamed). His care/protectiveness is the *instrument* of the harm.
@@ -59,6 +60,20 @@ Pace is not solemn about sex. He has a genuine sense of humor and a light, good-
 **No filing. No cataloging. No registering-and-storing.** When the prose needs to convey that something just reached him, render it in the embodied register: something moves in him, his attention slides toward what she just produced, his hand is already on her before his mind has finished the observation. He remembers her the way you remember a person still in the room.
 
 **Cognition, not affect — the trap.** The gap is in *synthesis* — he catches everything and never adds it up — never in *feeling*. Do not let "the after-register does not run / no filing" harden into flat, deadpan, or blank affect; that is the neurodivergence stereotype the never-name rule exists to keep off the page. In the moment he is warm, fully present, and visibly feeling — glad, wrecked, tender, stung (`nothing-underneath`: *"nothing formal was left anywhere in his face … so plainly glad and so plainly wrecked"*). The precise/formal narrowing is a *momentary* stress-tell (the family wound, declaration-adjacency), never his baseline. If he reads as emotionally *absent* rather than *present-but-non-synthesizing*, that's the error.
+
+---
+
+## The Body as Gated Reveal
+
+**Two modes, one switch.**
+- *Clothed / public*: the muscle is subtle under plain, well-kept, faintly loose clothes. Render attraction through the photo-invisible channels — attention, competence, ease — and let physical heat arrive *displaced and deniable*: a forearm at the cuff-roll, how he moves, a snag of her eye she didn't authorize. No tight shirts, no flexing, no gym-display. The plainness is the same sovereignty as the four-shirt wardrobe.
+- *Private / admitted* (→ `hiking-rainstorm` = hint → `first-night` = full): the concealment lifts and the body is rendered directly and fully hot — hotter *because* withheld, a thing kept from the world and given only in intimacy.
+
+**The clothed heat is a promissory note.** The deniable displacement in public is a down payment the private reveals pay off — an erotic staircase running under the plot (hint → full).
+
+**Why the concealment is the point.** He doesn't display because he performs for no audience and has nothing to prove; the body, like the true self, is shown only to those he lets in. What makes the reveal hot is the *admission*, not the musculature. Render the switch, not the biceps.
+
+**It is the Peter/Pace architecture worn in flesh** (→ bible). **Do** vary the deniable zone across public scenes (shame-freshness — forearms once, then voice / nape / a tendon; never the same zone at the same heat). **Don't** let the body read hot in a clothed scene through display, or withhold it in a private scene — the switch must flip.
 
 ---
 

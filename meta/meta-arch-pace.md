@@ -166,6 +166,14 @@ The two registers map the two registers of his harm. The **structural register**
 
 ---
 
+## The Body as a Gated Intimacy
+
+The concealed-but-powerful body (→ bible: "the muscle is obvious with his clothes off, subtle with them on … the Peter/Pace architecture worn in the body itself") is his privacy made flesh. Clothed, he reads unremarkable — the capacity withheld, as the true self is. He does not display it because he performs for no one; uncovering it is an act of admission, gated to those he lets inside, on the same logic as everything else he keeps private (constitutional, not performed). To be shown the body is to be shown the man — which is why the reveal carries weight the plain surface can't, and why it is erotic as *admission* rather than as spectacle.
+
+Render rules: `meta-craft-pace.md` → *The Body as Gated Reveal*.
+
+---
+
 ## The Available Honorable Exits Pace Did Not Take
 
 **Option one: disclose.** Tell Vee, in week one, that he had been sleeping with Randi, that the two of them had discussed making her a third. Withholding information she needed to decide is itself the agency-violation. He withheld. This was a choice.
