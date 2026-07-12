@@ -4,7 +4,7 @@
 
 ---
 
-The stats lecture met in one of the tiered rooms on the second floor of the math building, the kind built for a hundred and seating sixty, long tables ranked down the tiers on steel uprights sunk into the floor, the chairs pivoting out from the uprights, one to the left of each and one to the right. Benches, really, the whole row bolted down as one piece. Vee got there early, as she always did, and took her usual two-thirds of the way back, on the aisle, with Cassie beside her unpacking a granola bar and the wrong textbook and then the right one. The room filled in its slow Monday way. The professor was at the front doing the thing he did before every class, scrolling his slides forward and back, forward and back, a man checking that the road was still there.
+The stats lecture met in one of the tiered rooms on the second floor of the math building, the kind built for a hundred and seating sixty, the seats bolted in pairs to a shared table that ran the length of each tier, chairs that swung out and swung back and went nowhere else, so that whoever you sat next to was whoever the row gave you. Vee got there early, as she always did, and took her usual two-thirds of the way back, on the aisle, with Cassie beside her unpacking a granola bar and the wrong textbook and then the right one. The room filled in its slow Monday way. The professor was at the front doing the thing he did before every class, scrolling his slides forward and back, forward and back, a man checking that the road was still there.
 
 Vee got her notebook open and her pencil out and did not look at the door. She had decided not to look at the door. She had decided this on the walk over, and again on the stairs, and was now in the third minute of not looking at the door.
 
