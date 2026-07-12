@@ -74,7 +74,7 @@ And Vee had it, or near enough: these were the ones that got you, told close, in
 
 Then Randi sat back, and drew a breath, and the beam came up full again, and she was herself, all of her, the grin arriving like a room light. "*Even with your clothes on,*" she repeated, savoring it, like Vee had set a jewel on the table. "God. Okay — what's he got *playing,* when that's going on? A man like that has a soundtrack."
 
-"These long playlists that just roll on their own," Vee said, glad of the easy question. "When he's cooking it's piano, mostly, old and soft, I couldn't tell you what half of it even is. And then it'll turn a corner and be *Fleetwood Mac,* or some Garth Brooks song I grew up on, and I just think — who *has* all of that on one playlist?" She smiled. "It goes on first, before anything. The music, and then the rest of the night."
+"These long playlists that just roll on their own," Vee said, glad of the easy question. "When he's cooking it's piano, mostly, old and soft — the kind that just flows and never quite lands — and I couldn't tell you what half of it even is. And then it'll turn a corner and be *Fleetwood Mac,* or some Garth Brooks song I grew up on, and I just think — who *has* all of that on one playlist?" She smiled. "It goes on first, before anything. The music, and then the rest of the night."
 
 "Of course he does," Randi said, warm, and shook her head, delighted.
 
