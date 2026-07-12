@@ -136,7 +136,7 @@ But she had already told him — with the dropped stride, before the editing. He
 
 "Go meet her," Pace said.
 
-She looked at him then. Now, after — not before, not to be told what to want, but after the wanting had already shown, the social animal catching up and turning to him with the question that had nothing to do with whether she liked the girl and everything to do with whether she was allowed: *is this one mine to take.* He smiled at her. He nodded once, and tipped his chin toward the two girls already drawing away across the lawn. *Go.* He was happy, plainly and simply; the game was working, the gift was moving toward her hands, and the last thing she needed before she went was to see in his face that it was hers to take. He let her see it.
+She looked at him then. Now, after — not before, not to be told what to want, but after the wanting had already shown, the social animal catching up and turning to him with the question that had nothing to do with whether she liked the girl and everything to do with whether she was allowed: *is this one mine to take.* He smiled at her. He nodded once, and tipped his chin toward the two girls already drawing away across the lawn. *Go.* He was happy, plainly and simply; the game was working, the gift was moving toward her hands, and the last thing she needed before she went was to see in his face that it was hers to take. He let her see it. And it took: the uncertainty going out of her at the sight of his face, a quick game smile coming up in its place, half nerve and half appetite.
 
 She went.
 
