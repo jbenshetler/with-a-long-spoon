@@ -55,6 +55,20 @@ STATUS_COLOR = {
     "event": "#546e7a", "unknown": "#c0c0c0",
 }
 
+# Review rounds are categorical, not a scale: a scene's pill color is its review
+# round (= how many review dates it carries) so equal color reads as equal round
+# at a glance. ColorBrewer "Set2" (qualitative), cycled for rounds beyond 8, with
+# a neutral slate reserved for the not-yet-reviewed (round 0).
+REVIEW_UNREVIEWED = "#4a5160"
+REVIEW_PALETTE = ["#66c2a5", "#fc8d62", "#8da0cb", "#e78ac3",
+                  "#a6d854", "#ffd92f", "#e5c494", "#b3b3b9"]
+
+
+def review_color(rnd: int) -> str:
+    if rnd <= 0:
+        return REVIEW_UNREVIEWED
+    return REVIEW_PALETTE[(rnd - 1) % len(REVIEW_PALETTE)]
+
 MIDDOT = "·"
 ENDASH = "–"
 
@@ -145,6 +159,12 @@ def classify(seg: str):
     m = LINK_RE.search(s)
     if m and not (ENDASH in s and _find_month(s)):
         return "link", {"text": m.group(1), "href": m.group(2)}
+    if low.startswith("reviewed"):
+        # ISO dates only (won't collide with the month-name story-date parser);
+        # round = how many, last = most recent (ISO sorts chronologically).
+        dates = re.findall(r"\d{4}-\d{2}-\d{2}", s)
+        if dates:
+            return "review", {"dates": dates, "round": len(dates), "last": max(dates)}
     for phrase, cls, label in STATUS_MATCH:
         if low.startswith(phrase):
             return "status", {"cls": cls, "label": label}
@@ -180,6 +200,7 @@ class Entry:
         self.date = None        # dict or None
         self.slug = None        # unique DOM id stem (assigned in build_html)
         self.scene_md = None    # embedded scene prose (done scenes only)
+        self.review = None      # {dates, round, last} or None (0 reviews)
 
     def finalize(self, unknown_log):
         for kind, val in self.segments:
@@ -187,6 +208,8 @@ class Entry:
                 self.status = val
             elif kind == "date" and self.date is None:
                 self.date = val
+            elif kind == "review" and self.review is None:
+                self.review = val
         if self.status is None:
             self.status = {"cls": "event" if self.etype == "EVENT" else "unknown",
                            "label": "—" if self.etype != "EVENT" else "Not a scene"}
@@ -376,6 +399,17 @@ def render_entry(e: Entry) -> str:
     else:
         parts = [f'<span class="badge badge-{sc}">{label}</span>']
     parts.append(f'<span class="etype etype-{e.etype.lower()}">{e.etype.title()}</span>')
+    if e.etype in ("SCENE", "VIGNETTE"):
+        if e.review:
+            rnd = e.review["round"]
+            parts.append(
+                f'<span class="chip review" style="background:{review_color(rnd)}" '
+                f'title="review round {rnd} · {html.escape(", ".join(e.review["dates"]))}">'
+                f'{html.escape(e.review["last"])}</span>')
+        else:
+            parts.append(f'<span class="chip review unreviewed" '
+                         f'style="background:{REVIEW_UNREVIEWED}" '
+                         f'title="not yet reviewed">unreviewed</span>')
     if e.date:
         prec = e.date["precision"]
         parts.append(f'<span class="chip date" title="precision: {prec}">'
@@ -462,6 +496,9 @@ def build_html(entries, flags_raw, source_name, scene_dir=None):
     flags_html = render_flags(flags_raw) if flags_raw else ""
     n_total = len(entries)
     n_dated = sum(1 for e in entries if e.date)
+    reviewable = [e for e in entries if e.etype in ("SCENE", "VIGNETTE")]
+    n_reviewed = sum(1 for e in reviewable if e.review)
+    reviewed = f"{n_reviewed}/{len(reviewable)} reviewed"
 
     legend = "".join(
         f'<span class="lg"><i style="background:{STATUS_COLOR[c]}"></i>{lbl}</span>'
@@ -471,6 +508,7 @@ def build_html(entries, flags_raw, source_name, scene_dir=None):
 
     return PAGE.format(
         source=html.escape(source_name), n_total=n_total, n_dated=n_dated,
+        reviewed=reviewed,
         legend=legend, swarm=swarm, cards=cards_html,
         flags=flags_html,
         flags_section=(f'<section class="flags"><h2>Continuity Flags</h2>{flags_html}</section>'
@@ -743,6 +781,8 @@ PAGE = """<!doctype html>
   .chip.track {{ color:#9fd3ff; }}  .chip.pov {{ color:#ffd59f; }}  .chip.file {{ color:#b6f0c4; font-family:ui-monospace,monospace; }}
   .chip.link {{ color:#c9b6ff; }}  .chip.link:hover {{ text-decoration:underline; }}
   .chip.ctx, .chip.len {{ color:var(--mut); }}
+  .chip.review {{ color:#1a1f29; font-weight:600; border-color:transparent; }}
+  .chip.review.unreviewed {{ color:#cdd3dd; font-weight:500; }}
   details {{ margin-top:8px; }}  summary {{ cursor:pointer; color:var(--mut); font-size:12px; }}
   details p {{ margin:8px 0; }}  code {{ background:#222936; padding:1px 5px; border-radius:4px; font-size:13px; }}
   .wiki {{ color:#c9b6ff; }}  a {{ color:#9fd3ff; }}
@@ -756,7 +796,7 @@ PAGE = """<!doctype html>
 <body>
 <header>
   <h1>With a Long Spoon — Chronology</h1>
-  <div class="sub">Generated from <code>{source}</code> · {n_total} entries · {n_dated} placed on the timeline · story order = list order</div>
+  <div class="sub">Generated from <code>{source}</code> · {n_total} entries · {n_dated} placed on the timeline · {reviewed} · story order = list order</div>
 </header>
 <div class="wrap">
   <div class="legend">{legend}</div>
