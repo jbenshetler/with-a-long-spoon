@@ -28,7 +28,7 @@ Randi smiled the small *of course you will* smile and went back to her scroll. V
 
 It did not get clearer.
 
-She read it once more. The same fog. The setup was a related rates problem, and she knew how to do related rates problems — she had done dozens of them — but this one had been built in a way that hid the move. Whatever the move was, she could not find it. Her econ instructor had taught them, in the first week, that the trick to applied math was always finding the *right question to ask the problem.* You named the variables, you named what was changing, you named what you were solving for, and the rest was mechanical. She had named everything she could name. The page was full of names. The names did not produce a question she could answer.
+She read it once more. The same fog. It was an integral, and she knew how to do integrals — she had done dozens of them — but this one turned on her. Every road she took curved back and set her down exactly where she had started, the same problem in front of her, untouched, as if she had walked a wide careful circle in the dark and arrived at her own back. Her econ instructor had taught them, in the first week, that the trick to applied math was always finding the *right question to ask the problem* — the real move was to turn the thing in front of you into a thing you already knew how to do, and the rest was mechanical. She knew how to do a great many things. She could not find the one this was secretly asking for.
 
 She pulled in a breath and let it out and set the pencil down again.
 
@@ -44,7 +44,7 @@ Cassie, two tables over, looked up at the small movement. Her eyes flicked from 
 
 That was all Cassie said. Cassie returned to her work. Randi's hand came back up from her lap and settled lightly on the edge of her laptop. Randi's coffee was at her right elbow. She lifted it and took a small sip and set it back down at the precise angle she had taken it from. Vee, returning to her page, did not see any of this.
 
-She tried the substitution one more time. The substitution had not worked the first three times. It did not work the fourth time. She set the pencil down and put her face in her hands for one count of three and then lifted her head and looked at the ceiling fan instead of at the problem.
+She tried it one more time. It had circled back on her the first three times. It circled back the fourth time. She set the pencil down and put her face in her hands for one count of three and then lifted her head and looked at the ceiling fan instead of at the problem.
 
 The bell above the door tinkled.
 
@@ -62,6 +62,8 @@ A man was walking toward their table. He had four steps to cover from the door t
 
 He stopped at the corner. He was looking at her.
 
+Up close he was nothing her eye would have caught in a crowd — a pleasant, ordinary face, light brown hair cut short and easy, not one feature in it that asked for a second look. No individual part of him was particularly impressive but the whole of him was, and she could not say how. She only felt the room settle a half-degree around where he stood. Then he smiled at her, and it was only at her — a smile that seemed to have picked her out of the whole day and decided she was the reason it had come across the room. She felt singled out. She felt, absurdly, chosen.
+
 Beside her, Randi's hand moved to her coffee cup. Vee did not see the movement. Vee was looking at the man who was looking at her.
 
 "Sorry," he said. "It sounds like you're having trouble with math. Can I help?"
@@ -76,7 +78,7 @@ The voice was smaller this time — different from the one he had used a half-se
 
 "Yes," she said. "Please. Thank you."
 
-He did glance at Randi then, briefly — the courtesy of a stranger acknowledging that there was another person at the table — and at Cassie at the next table over, the same courtesy. Both women returned the brief acknowledgment. He pulled out the empty chair at their table without dragging it, set down the coffee he had been carrying, and sat.
+He did glance at Randi then, briefly — the courtesy of a stranger acknowledging that there was another person at the table — and at Cassie at the next table over, the same courtesy. Both women returned the brief acknowledgment. He pulled out the empty chair at their table without dragging it, set down the coffee he had been carrying, and sat. There was an economy in how he folded down into it that she felt before she could have named it — nothing in the movement spent that did not need spending. He was not a big man. He moved like someone who had never once had to think about where his body was.
 
 "I'm Pace," he said.
 
@@ -96,37 +98,39 @@ One word. She did not do the adjective thing. She did not do the parents-had-a-s
 
 "Please."
 
+He rolled his cuffs back first, two easy turns each — a man readying to do something with his hands — and her eye caught on his forearms and stayed a half-second past where she would have chosen, before she made it move. Whatever else the loose shirt was keeping to itself, it did not keep that. They were not a math tutor's forearms.
+
 She handed him the page. His hand took it the way a person's hand takes a piece of paper they are about to actually read — at the corner, fingers placed so the page would not bend. She watched him read it. He read it once through, slowly, with his eyes moving in the way her econ TA's eyes moved when he was reading a problem he had not seen before — taking it in as a structure rather than as a sequence of words. Then he read it again, more slowly. She had the time to notice that his hand was steady and that his fingers were thick at the knuckles in the way that meant a person used his hands for things besides writing, and to notice that her own coffee had gone slightly cool in her cup, and to wonder, in a small unfinished way, what he did with his hands besides math.
+
+His clothes gave her nothing to hold. Not like the boys she knew, whose clothes did all the talking — the label at the chest, the right jacket, the effort pointed out at whoever might be looking. His weren't talking to anyone. A work shirt gone soft with washing; everything on him built to be used and nothing built to be seen. He dressed like a man who fixed things for a living — except the cloth was too good for that, and it hung on him too well, loose in the shoulders the easy way her own things hung loose on her, and a man who fixed things did not own a shirt cut like this one. She kept reaching for the shape under him and it would not come. He didn't fit anything she had. That interested her a good deal more than it should have.
 
 He set the page down between them.
 
 "Okay," he said. "What did your professor say the trick was, with these?"
 
-"Name the variables. Name what's changing. Name what you're solving for."
+"Turn it into something you already know how to do."
 
-"Right. Did you?"
+"Right. Did you try?"
 
-"I did all three."
+"I tried everything I know. It keeps coming back around."
 
 "Show me."
 
 She turned the page so he could see her scratch work. He looked at it for maybe ten seconds. He nodded once.
 
-"Yeah. Yeah, your variables are right. Your setup is right. Here's what's going on." He paused, picked up her pencil — *asked for it with his eyes first,* her body registered, before her mind got there — and made a small mark in the margin next to her variable list. "The problem is hiding the rate you actually need behind a thing it calls a different name. You named two rates. There's a third one." He underlined a phrase in the problem statement. "*That* is a rate. It's not labeled like a rate. It's described in a sentence. But it's a rate. Once you see it as a rate, the problem is the same as the ones you've been doing."
+"Your work's right. This one's just built to send you in circles — you can go around it all night." He picked up her pencil — *asked for it with his eyes first,* her body registered, before her mind got there — and wrote something in the margin from memory, a long crowded thing, fractions stacked on fractions. "There's a formula. That's the formula. You could memorize that."
 
-She looked at the phrase he had underlined.
+She looked at it and shuddered before she could help it.
 
-It was, in fact, a rate.
+"Yeah," he said. "Don't. Nobody should have to carry that around." Beside it he made one small mark — two short strokes crossing at a right angle, nothing else. "You've done Euler's. *e*-to-the-*i*-*x.*"
 
-She had read past it four times. She read it now and could not understand how she had read past it. The phrase was sitting there, in plain English, doing the rate's job. She had been so busy looking for a rate that looked like a rate that she had walked past the one that was speaking in a sentence.
+"We saw it. In its own chapter. It didn't seem like it was *for* anything."
 
-"Oh," she said. "Oh, *no.*"
+"It's for this." He touched the little cross. "Put two things at right angles and you get a third one that doesn't look like either. Your cosine's already in there — it's that, turned. So don't fight the cosine. Trade it for the exponential, and an exponential you can do in your sleep." He set the pencil back in her hand. "You already know every piece of this. You're just allowed to use them here."
 
-Pace smiled. It was a quick smile, gone almost as it arrived, the smile of a person who had enjoyed her sound of recognition and did not want to dwell on it. He handed her the pencil back.
+She hadn't known she was allowed.
 
-"Take it from there."
-
-She took it. She wrote the third rate down. The page opened. The two rates she had named related to the third rate the way her professor had taught her two rates relate to a third — through the chain rule, cleanly, the way the textbook example had done it. She did the next two lines. They worked. She did the third line. It worked. She looked up at him.
+She went on from there. The thing that had lived in its own chapter, useless, came out and did the work in a few clean lines, and the crowded formula he'd written went quietly beside the point, and at the bottom sat a plain answer with no circle left in it. She checked it. It held. She looked up at him with the private elation of a person who has just been handed something she is going to use for the rest of her life.
 
 "That's it," he said.
 
@@ -264,6 +268,6 @@ Vee waved her off. "It's coffee. He asked. He's nice. I'm not getting married."
 
 "Okay."
 
-Cassie put her headphones back on properly and turned to her own work. Randi went back to her laptop. Vee looked at her page again, where the third rate sat in the margin in Pace's pencil-mark and her own next two lines sat below it in her pencil, and the problem was solved, and beside the problem her phone sat face-down on the table where she had set it when she got there, and somewhere in the lining of her chest the small *oh* of being remembered had not yet stopped doing what it did. She would do another problem. She would do two more problems. She would walk back to her dorm with Cassie an hour later and would not, on the walk, say anything about it, and Cassie would not ask. By the time she got back to her room she would have his number in her phone and a small piece of the afternoon installed in the part of her chest that kept that kind of thing. She would text him three days later. She would not, on the third day or any subsequent day, think again about the slight angle of the coffee cup Randi had turned on its saucer in the moment before Randi recovered her line, because she had not registered the turn at the time, and the turn would not be available to her memory.
+Cassie put her headphones back on properly and turned to her own work. Randi went back to her laptop. Vee looked at her page again, where Pace's small crossed mark sat in the margin in his pencil and her own clean lines ran below it in hers, and the problem was solved, and beside the problem her phone sat face-down on the table where she had set it when she got there, and somewhere in the lining of her chest the small *oh* of being remembered had not yet stopped doing what it did. She would do another problem. She would do two more problems. She would walk back to her dorm with Cassie an hour later and would not, on the walk, say anything about it, and Cassie would not ask. By the time she got back to her room she would have his number in her phone and a small piece of the afternoon installed in the part of her chest that kept that kind of thing. She would text him three days later. She would not, on the third day or any subsequent day, think again about the slight angle of the coffee cup Randi had turned on its saucer in the moment before Randi recovered her line, because she had not registered the turn at the time, and the turn would not be available to her memory.
 
 The cup stayed where Randi had set it. The handle pointed at Vee. Randi did not look at it again.
