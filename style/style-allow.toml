@@ -1285,6 +1285,13 @@ text = "He was reading the grain of her, the way you read a board before you cut
 note = "furniture-maker grain simile — core metaphor"
 
 [[ok]]
+fp   = "2d399d44c18c"
+rule = "the-way"
+file = "scenes/the-pointing-game.md"
+text = "It was all over her, the grin, breaking the managed surface the way the dropped stride had, the way the bare *yes* had."
+note = "Deliberate anaphora — 'the way the dropped stride had, the way the bare yes had' callback list; re-armed by trimming the sentence tail to 'Lit up.'"
+
+[[ok]]
 fp   = "2ffd280da36a"
 rule = "the-way"
 file = "scenes/the-pointing-game.md"
