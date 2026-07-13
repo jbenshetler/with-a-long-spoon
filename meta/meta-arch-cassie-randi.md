@@ -19,7 +19,7 @@ These are fixed. They carry the dynamic and must survive every revision exactly 
 - **"Goodbye, Vee"** — Cassie's register-wrong farewell as Vee leaves with Randi (Chi Latte diptych, `see-you-later.md`). The warning-as-farewell. She does NOT explain it; she lets the wrong word stand.
 - **"It's coffee, weirdo"** — the live dismissal of that warning (Vee, to Cassie). The warning is dismissed in real time.
 - **"Cassie"** — her flat single-word return when Randi runs the warm-coin name-bit on her (first contact, diptych). Declines to complete the routine; leaves the open door unwalked; exposes the bit as a *routine* rather than a spark.
-- **"He looked at her the way you'd look at somebody's great-aunt"** — Cassie at the meet-cute (`the-meet-cute.md`). **NOT a warning about Pace, and NOT a dehumanization of Randi** (revised out of the earlier "like she was a chair" wording — Pace sees everyone fully and wants only Vee). It is the *no-attraction observation*: Pace showed Randi none of the desire a man shows a beautiful woman — the not-a-prospect look (full personhood, zero desire), which Vee privately recognizes as the look men give Cassie. Reads as an anomaly attaching to the staging / Randi. See `meta-arch-cassie.md`, the Knower Discipline.
+- **"He looked at her the way you'd look at somebody's great-aunt"** — Cassie at the meet-cute (`substitution.md`). **NOT a warning about Pace, and NOT a dehumanization of Randi** (revised out of the earlier "like she was a chair" wording — Pace sees everyone fully and wants only Vee). It is the *no-attraction observation*: Pace showed Randi none of the desire a man shows a beautiful woman — the not-a-prospect look (full personhood, zero desire), which Vee privately recognizes as the look men give Cassie. Reads as an anomaly attaching to the staging / Randi. See `meta-arch-cassie.md`, the Knower Discipline.
 - **"You saw it and I didn't"** — Vee to Cassie, late, after the reckoning. Cassie does **NOT** say *I told you so.*
 - **"She's a lot"** — (Sheri's verdict on Randi, not Cassie's — listed here only so the two outside-witnesses' lines are not confused. Sheri ≠ Cassie; see `meta-arch-sheri.md`.)
 
@@ -74,4 +74,4 @@ These are fixed. They carry the dynamic and must survive every revision exactly 
 - `meta-arch-randi.md` — Randi's method (warmth-as-instrument); this dynamic is an instance of it.
 - `meta-plan-satc-tracks.md` — the Vee-confidante-sort (DISTINCT mechanism: Vee routing material, not the Cassie–Randi relationship).
 - `meta-arch-bible.md` — cross-character relational architecture (carries a pointer here).
-- `see-you-later.md`, `the-meet-cute.md` — the drafted scenes the quotes and the coffee-shop example live in.
+- `see-you-later.md`, `substitution.md` — the drafted scenes the quotes and the coffee-shop example live in.

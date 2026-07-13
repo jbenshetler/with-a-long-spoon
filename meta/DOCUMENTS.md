@@ -109,7 +109,7 @@ One file per non-trivial scene; the chronology entry links to it. To work on a s
 | `meta-condensed-standards.md` | Standards |
 | `meta-condensed-the-pointing-game.md` | The Pointing Game (diptych) |
 | `meta-condensed-see-you-later.md` | See You Later |
-| `meta-condensed-the-meet-cute.md` | The Engineered Meet-Cute |
+| `meta-condensed-substitution.md` | Substitution |
 | `meta-condensed-the-froyo-walk.md` | The Froyo Walk |
 | `meta-condensed-walk-home-kiss.md` | The Walk-Home Kiss |
 | `meta-condensed-may-i-choose.md` | May I Choose |
@@ -190,7 +190,7 @@ Listed in chronological order (filesystem = `scenes/`; order, names, and status 
 | `standards.md` | Standards | complete |
 | `the-pointing-game.md` | The Pointing Game (diptych — bed + campus walk) | complete |
 | `see-you-later.md` | See You Later (diptych) | complete |
-| `the-meet-cute.md` | The Engineered Meet-Cute | complete |
+| `substitution.md` | Substitution | complete |
 | `the-froyo-walk.md` | The Froyo Walk | complete |
 | `may-i-choose.md` | May I Choose — The Dinner (the first surrender) | complete |
 | `vee-tells-cassie-dinner.md` | Vee Tells Cassie — Dinner | complete |

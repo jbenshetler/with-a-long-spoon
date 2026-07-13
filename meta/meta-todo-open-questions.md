@@ -68,9 +68,9 @@ e.g. `scene-plan-chronology.md` references `the_fitting.md` (actual:
 
 -----
 
-# Meet-Cute Conversation — TODOs Surfaced
+# Substitution Refinement — TODOs Surfaced
 
-The following items surfaced during the meet-cute refinement conversation and have not yet been addressed. Listed in priority order.
+The following items surfaced during the Substitution refinement conversation and have not yet been addressed. Listed in priority order.
 
 ## 6. Pace architecture doc — major update (DONE — see meta-arch-pace.md)
 
@@ -258,7 +258,7 @@ Barely Stings / Still Life / Gesso currently sit ~late January. Open whether to 
 The coda's forward-narration is **load-bearing plant, not thesis-y summary.** The reservoir line (L65: "there would be other things in it by then… her reliable-Pace model had to do small repair work") is the **only** on-page installation of the sand-in-the-gears accumulation, which the **Christmas fight (`believe-me.md`)** and the **spring scrunchie gaslight** harvest; the wound lines (L59 bus/body-surfacing; L63 "He had not said the sentence back."; L67 the figure retiring) carry Believe Me's engine ("Words are cheap, and you still won't spend them on me"). **All KEEP.**
 - [ ] **REVIEW (author, during the porch review cycle):** the pure fated-note "She would continue. She would love him." (L61) — the one line that reads as arc-summary rather than plant. Trim-or-keep is an author call at porch review; everything else in the coda stays.
 
-**the-meet-cute.md — closing coda (L271)** *(POV axis — primary)*
+**substitution.md — closing coda (L271)** *(POV axis — primary)*
 - [ ] **FIX:** the cup-turn — "…because she had not registered the turn at the time…" → rewrite so Vee *perceived-and-dismissed* the turn; convert the 45 / 245 cup-beats to perceived-and-dismissed too.
 - [ ] **KEEP:** "She would text him three days later." + the factual day-compression (more problems, walk back with Cassie, his number).
 

@@ -46,12 +46,12 @@ DIPTYCH. Pace POV throughout, one continuous afternoon. Panel one (bed): post-co
 *Early fall · week 2 · ~Wed Sep 9 · morning* · Draft complete · reviewed 2026-07-12 · `see-you-later.md` · [detail](meta-condensed-see-you-later.md) · [craft](meta-note-see-you-later.md)
 DIPTYCH. Panel one: Randi drops into the aisle seat, runs the name-bit on Cassie (who flat-returns), plants the latent-variable mirror. Panel two: Chi Latte — content-evaporation beat; Vee keeps the feeling of being chosen, not the transcript. Parting hug (rung zero of the goodbye-kiss staircase). Cassie's *"Goodbye, Vee"* warning buried in the seam. Collapses three former coffee/class beats into one diptych.
 
-### [SCENE] The Engineered Meet-Cute
-*Early fall · week 4 · ~Thu Sep 24* · Draft complete · `the-meet-cute.md` · [detail](meta-condensed-the-meet-cute.md)
-Randi texts Pace their location from under the table; Cassie clocks it, goes still. Vee deploys Randi's name-bit on Pace; Randi answers with a bare *"Randi."* He helps, takes her number. Cassie clocks that he showed no attraction to Randi — *"He looked at her the way you'd look at somebody's great-aunt"* — the not-a-prospect look (full personhood, no desire), which Vee privately recognizes as the look men give Cassie. Pace does NOT dehumanize Randi; he sees everyone, wants only Vee. The reader (who knows Pace and Randi are lovers and that Randi engineered the meet-cute to hide it) is left unsure whether it's flawless discipline or genuine only-eyes-for-Vee. Randi turns the coffee cup a quarter-turn. Plan formally live.
+### [SCENE] Substitution
+*Early fall · week 4 · ~Thu Sep 24* · Draft complete · `substitution.md` · [detail](meta-condensed-substitution.md)
+Randi texts Pace their location openly (Vee sees it and reads it as Randi texting some boy); Cassie clocks the summons and goes still. Vee deploys Randi's name-bit on Pace; Randi answers with a bare *"Randi."* He helps, takes her number. Cassie clocks that he showed no attraction to Randi — *"He looked at her the way you'd look at somebody's great-aunt"* — the not-a-prospect look (full personhood, no desire), which Vee privately recognizes as the look men give Cassie. Pace does NOT dehumanize Randi; he sees everyone, wants only Vee. The reader (who knows Pace and Randi are lovers and that Randi engineered the meeting to hide it) is left unsure whether it's flawless discipline or genuine only-eyes-for-Vee. The chapter ends on Vee hoping he'll reach out (she gave him her number; she can't text first). Plan formally live.
 
 ### [SCENE] The Froyo Walk
-*Early fall · week 4 · ~Thu Sep 24, hours after the Meet-Cute* · Draft complete · `the-froyo-walk.md` · [detail](meta-condensed-the-froyo-walk.md)
+*Early fall · week 4 · ~Thu Sep 24, hours after Substitution* · Draft complete · `the-froyo-walk.md` · [detail](meta-condensed-the-froyo-walk.md)
 First proper date, hours after the meet-cute — his forthrightness, not a boy's delay. Small safe opener — frozen yogurt, daylight, nothing that asks too much. Establishes the courtship register her mother would approve; builds the trust the staircase will later spend. Before it ends he asks her out again, plainly, for the weekend (May I Choose) — the follow-through that proves the directness, no cool-boy gap. **Coda at the dorm:** Vee returns and tells Cassie in one paragraph — *a man, not a boy* — the soon date its proof; spoken to Cassie, never narrated as an internal verdict (Vee doesn't render crisp verdicts in her head; body before mind).
 
 ### [SCENE] Water Wings
@@ -469,7 +469,7 @@ Vee tells Cassie everything — the telling forced by Pace and Randi vanishing t
 
 8. **Randi has no surname.** Full given names (Miranda, Vivienne, Cassandra, Peter) are reserved instruments; no surnames in-world.
 
-9. **Chi Latte.** Greek-heavy coffee shop on Draper Street, yellow-and-white, high window tables. Rendered *"Chi Latte"* in dialogue, *Χ ΛΑΤΕ* on the sign. Distinct from the Wilson Street coffee shop (Meet-Cute venue).
+9. **Chi Latte.** Greek-heavy coffee shop on Draper Street, yellow-and-white, high window tables. Rendered *"Chi Latte"* in dialogue, *Χ ΛΑΤΕ* on the sign. Distinct from the Wilson Street coffee shop (the meet-cute venue).
 
 10. **Latent-variable plant.** Seeded as ambient end-of-class preview in the Chi Latte diptych. Later stats mirrors (continuous-vs-discrete at Secret Plans — the corrector's pulses vs. the vibrator, having replaced the old Nipple Clamps home, etc.) do not re-explain the term.
 

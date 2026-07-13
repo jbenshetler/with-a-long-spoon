@@ -78,7 +78,7 @@ The nail-press/cup is the **only external, present-tense, recurring rendering of
 
 **Tracking across the year:**
 - Debuts at the bench — Randi overtly in the submissive position; teaches the gesture its meaning *(→ `the-bench.md`)*
-- The engineered meet-cute: Pace's eyes pass Randi on the way to Vee; her hand at the rim of something *(→ `the-meet-cute.md`)*
+- The engineered meet-cute: Pace's eyes pass Randi on the way to Vee; her hand at the rim of something *(→ `substitution.md`)*
 - SATC lunches: still during easy talk and during Randi's own operating; present when Vee's reports about Pace land *(→ `how-its-done.md` for first instance)*
 - Scenes with Pace where Vee is mentioned: the hand finds whatever edge is to hand
 - Engineered scenes she has architected: the highest-amplitude venues — she has scripted herself into helpless witness

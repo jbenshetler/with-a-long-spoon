@@ -47,9 +47,9 @@ When adding or revising an entry, check:
 ## Format Reference
 
 ```
-### [SCENE] The Engineered Meet-Cute
-**~Thu Sep 14 · Week 3 of fall semester**
-*Draft complete · `the-meet-cute.md`*
+### [SCENE] Substitution
+**~Thu Sep 24 · Week 4 of fall semester**
+*Draft complete · `substitution.md`*
 
 Summary paragraph here — one paragraph maximum, accurate to the draft.
 ```

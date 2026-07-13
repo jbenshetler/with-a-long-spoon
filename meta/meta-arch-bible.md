@@ -281,7 +281,7 @@ Introduced in **Standards**. The one person in the sorority who out-operates Ran
 - Randi: *“Yes, like the adjective. No, it’s not a coincidence. Yes, my parents had a sense of humor.”*
 - Vee (playing it back): *“Vivienne Thorne. Yes, like the university. No, my parents didn’t plan it. Yes, they find it funnier than I do.”* *(held for meet-cute revision — used on Pace, not Randi)*
 
-**The meet-cute (The Engineered Meet-Cute):** Vee giving Pace an out: *“It’s really hard — it’s statistics.”* / Pace: *“Well, let me look at it.”* / Randi after: *he was cute, you should text him.*
+**The meet-cute (Substitution):** Vee giving Pace an out: *”It’s really hard — it’s statistics.”* / Pace: *”Well, let me look at it.”* / Randi after: *he was cute, you should text him.*
 
 **CW bar — the older woman:** *“Honey, I’ve been watching that boy dance for two years. He doesn’t take anyone home. He just makes sure they get there.”* (Delivered to the dance floor, not to Vee; then she finishes her drink and leaves.)
 
