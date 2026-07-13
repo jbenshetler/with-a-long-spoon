@@ -47,7 +47,7 @@ DIPTYCH. Pace POV throughout, one continuous afternoon. Panel one (bed): post-co
 DIPTYCH. Panel one: Randi drops into the aisle seat, runs the name-bit on Cassie (who flat-returns), plants the latent-variable mirror. Panel two: Chi Latte — content-evaporation beat; Vee keeps the feeling of being chosen, not the transcript. Parting hug (rung zero of the goodbye-kiss staircase). Cassie's *"Goodbye, Vee"* warning buried in the seam. Collapses three former coffee/class beats into one diptych.
 
 ### [SCENE] Substitution
-*Early fall · week 4 · ~Thu Sep 24* · Draft complete · `substitution.md` · [detail](meta-condensed-substitution.md)
+*Early fall · week 4 · ~Thu Sep 24* · Draft complete · reviewed 2026-07-12 · `substitution.md` · [detail](meta-condensed-substitution.md)
 Randi texts Pace their location openly (Vee sees it and reads it as Randi texting some boy); Cassie clocks the summons and goes still. Vee deploys Randi's name-bit on Pace; Randi answers with a bare *"Randi."* He helps, takes her number. Cassie clocks that he showed no attraction to Randi — *"He looked at her the way you'd look at somebody's great-aunt"* — the not-a-prospect look (full personhood, no desire), which Vee privately recognizes as the look men give Cassie. Pace does NOT dehumanize Randi; he sees everyone, wants only Vee. The reader (who knows Pace and Randi are lovers and that Randi engineered the meeting to hide it) is left unsure whether it's flawless discipline or genuine only-eyes-for-Vee. The chapter ends on Vee hoping he'll reach out (she gave him her number; she can't text first). Plan formally live.
 
 ### [SCENE] The Froyo Walk
