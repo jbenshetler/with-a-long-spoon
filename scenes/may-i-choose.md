@@ -4,7 +4,25 @@
 
 ---
 
-It was the first time he'd come to get her. The froyo, the walk — those had been daylight, easy, the kind of thing that could turn out to be nothing. This was an evening, and he'd asked her for it like something he meant to do properly.
+The text came Friday evening, when she was still coming down off an afternoon in the water, chlorine in her hair, the good heavy tiredness of it sitting in her arms, Cassie folded up on the other bed with her knees to her chest, narrating a professor's crimes. Vee's phone lit on the desk and she reached for it without thinking, expecting nothing.
+
+It was him. Saturday, he said. Dinner. He didn't say where, and he didn't ask her to answer that night.
+
+She read it twice, then a third time slower, as if the words might hold more than they did, and maybe they didn't and she put it there: the plainness of it, a man saying a thing he'd already decided and leaving all the rest of the room to her. Nothing in it needed her right this second. She could carry it around a while first. That she could, that he'd built the quiet into it without being asked, eased something behind her ribs, and she had the phone pressed to her sternum before she'd decided to, the day's warmth in her going up a degree it had no cause to.
+
+The froyo had been yesterday, and here he was asking for tomorrow, and the wanting had already outrun anything she'd have called sensible. She was grinning at a dark screen in a way she'd have died to have anyone see.
+
+Anyone but Cassie.
+
+"That's a face," Cassie said, the professor forgotten, her chin come up off her knees. "That's a whole face."
+
+"It's nothing." It was not nothing. "It's — Saturday. We're getting dinner."
+
+"He's not making you wait, is he." The grin came up under Cassie's surprise. "What've you got on this man."
+
+---
+
+It was the first time he'd come to get her. The froyo — that had been daylight, easy, the kind of thing that could turn out to be nothing. This was an evening, and he'd asked her for it like something he meant to do properly.
 
 The elevator opened on the lobby — polished concrete, the squat hard-used couches, the smell of it that was always the same: bodies, smoke gone stale in somebody's coat, the sweet chemical fog of cheap perfume. And he was already there, standing, not yet looking her way, and for a second she had him to herself.
 
