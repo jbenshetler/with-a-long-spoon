@@ -1,6 +1,14 @@
 # Burn
 
-He'd told her to come see the gym sideways, tossed off, as if it were nothing, as if she could take it or leave it. She had not been able to leave it. He had a place he went four mornings a week and a fifth when the week had been bad, a place that made him into whatever he was when she wasn't watching, and he had never once offered to show it to her, and now he had, and she'd said yes before he finished the sentence.
+"I won't get my brunch this weekend," she said. "Randi's got some sorority thing Saturday." She set it down lightly, over the last of dinner. "I know that's your gym time. I'll just run errands."
+
+He looked up from his plate. "Come to the gym with me."
+
+She almost laughed it off. The gym was his — four mornings a week, sometimes a fifth — and he'd never once asked her into it. "No," she said. "I'd only be a distraction."
+
+"Come see what I do," he said, "while you have your girl time."
+
+Offhand. As if it were nothing. She wanted to go, she found — more than she'd have guessed — and said yes before she'd finished deciding to.
 
 It was up a flight of concrete stairs over a tire shop, and it did not look like the campus rec center where she'd gone twice a semester with good intentions and a full water bottle. The carpet had been a color once. The mirrors were spotted black at the corners. Along the far wall the dumbbells climbed in a rack from small ordinary weights up and up to black iron things the size of engine parts, heavier in one hand than she was in all of herself, so big they read as a joke someone had left lying out, decoration, nothing a body could really pick up. And then a man picked one up.
 
