@@ -753,6 +753,48 @@ text = "\"No, not like that."
 note = "Reviewed with author 2026-07-10: all defensible — Pace dialogue, the accepted Thanksgiving exchange, load-bearing antithesis (a body/not a body; phone/not his), the false-positive idiom (all the way around), inceptive began-to, idiomatic there-was."
 
 [[ok]]
+fp   = "31167d45cf02"
+rule = "filter-verbs"
+file = "scenes/may-i-choose.md"
+text = "Ordinarily she'd have caught it again before he noticed, as she always did, the small constant work of keeping up her end."
+note = "his noticing, not hers; the point is she didn't catch the thread this time"
+
+[[ok]]
+fp   = "a9e9a11d3a37"
+rule = "filter-verbs"
+file = "scenes/may-i-choose.md"
+text = "If he saw, he had the grace not to show it."
+note = "his perception, not hers — not a body-before-mind distancer"
+
+[[ok]]
+fp   = "d083fb4dbcea"
+rule = "filter-verbs"
+file = "scenes/may-i-choose.md"
+text = "She heard how it sounded, and half meant it."
+note = "load-bearing: she registers her own mother's-rule reflex landing; auditory self-perception is the beat"
+
+[[ok]]
+fp   = "36681f8004b6"
+rule = "not-x-but-y"
+file = "scenes/may-i-choose.md"
+text = "He looked at the page a moment longer, not because he needed it but to weigh what he was choosing for her, and then he asked her only one thing — was there anything she wouldn't eat — and when she shook her head he ordered, unhurried, deliberate, building it as he went."
+note = "deliberate reread beat: not reading the menu, curating it for her"
+
+[[ok]]
+fp   = "0a6b73b6424f"
+rule = "the-way"
+file = "scenes/may-i-choose.md"
+text = "She wrapped her hands around the little brass cage and the heat came through it, just bearable, and she drank, and the mint went all the way down clean and woke her up by degrees."
+note = "idiom (tea going 'all the way down'), not the 'the way he…' construction — false positive"
+
+[[ok]]
+fp   = "2d83871911bc"
+rule = "x-not-y"
+file = "scenes/may-i-choose.md"
+text = "He looked at the page a moment longer, not because he needed it but to weigh what he was choosing for her, and then he asked her only one thing — was there anything she wouldn't eat — and when she shook her head he ordered, unhurried, deliberate, building it as he went."
+note = "deliberate reread beat: not reading the menu, curating it for her"
+
+[[ok]]
 fp   = "d7ca7af7b560"
 rule = "file-verb"
 file = "scenes/my-friend-randi.md"
