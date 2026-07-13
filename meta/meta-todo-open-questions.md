@@ -254,11 +254,9 @@ Barely Stings / Still Life / Gesso currently sit ~late January. Open whether to 
 
 ## 29. Prolepsis compression pass — line-level TODOs
 
-**porch-scene.md — coda after the break (L55–67): compress** *(the scene's own craft note at L93 already proposed this)*
-- [ ] **CUT** stacked summary (L61): "The position would sit with her. It would not resolve. She would not bring it up. She would continue. She would love him." → leave only the showing endpoint *I do not know what just happened.*
-- [ ] **CUT** pattern-naming paragraph (L65): "There would be other things in it by then — small flickers across the months… her reliable-Pace model had to do small repair work to keep functioning."
-- [ ] **TRIM** (L61): "the not-saying had now had a particular shape pushed into it…"; and the coda-opener (L55) "she would try to think about what had happened, and she would not quite be able to" if still summary after cuts.
-- [ ] **KEEP** (showing, not pattern-naming): L59 two-days-later bus / "not the same shape" body-surfacing (the payload the scene installs); L63 "*She had said her best sentence. He had not said the sentence back.*"; L67 the figure retiring.
+**porch-scene.md — coda after the break (L55–67): KEEP essentially intact** *(compression reversed after a dependency check)*
+The coda's forward-narration is **load-bearing plant, not thesis-y summary.** The reservoir line (L65: "there would be other things in it by then… her reliable-Pace model had to do small repair work") is the **only** on-page installation of the sand-in-the-gears accumulation, which the **Christmas fight (`believe-me.md`)** and the **spring scrunchie gaslight** harvest; the wound lines (L59 bus/body-surfacing; L63 "He had not said the sentence back."; L67 the figure retiring) carry Believe Me's engine ("Words are cheap, and you still won't spend them on me"). **All KEEP.**
+- [ ] **REVIEW (author, during the porch review cycle):** the pure fated-note "She would continue. She would love him." (L61) — the one line that reads as arc-summary rather than plant. Trim-or-keep is an author call at porch review; everything else in the coda stays.
 
 **the-meet-cute.md — closing coda (L271)** *(POV axis — primary)*
 - [ ] **FIX:** the cup-turn — "…because she had not registered the turn at the time…" → rewrite so Vee *perceived-and-dismissed* the turn; convert the 45 / 245 cup-beats to perceived-and-dismissed too.

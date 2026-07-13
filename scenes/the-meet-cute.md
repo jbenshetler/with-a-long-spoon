@@ -42,7 +42,7 @@ But the page didn't hold her, and when she looked up again Cassie, two tables ov
 
 "Mm."
 
-That was all Cassie said. Cassie returned to her work. Randi's coffee was at her right elbow. She lifted it and took a small sip and set it back down at the precise angle she had taken it from. Vee, returning to her page, did not see any of this.
+That was all Cassie said. Cassie returned to her work.
 
 She tried it one more time. It had circled back on her the first three times. It circled back the fourth time. She set the pencil down and put her face in her hands for one count of three and then lifted her head and looked at the ceiling fan instead of at the problem.
 
@@ -66,7 +66,7 @@ Up close he was nothing her eye would have caught in a crowd — a pleasant, ord
 
 Beside her, Randi's hand moved to her coffee cup. Vee did not see the movement. Vee was looking at the man who was looking at her.
 
-"Sorry," he said. "It sounds like you're having trouble with math. Can I help?"
+"Pardon me," he said. "It sounds like you're having trouble with math. Can I help?"
 
 Vee had been being looked at for the four steps it took him to cross the floor and she had not, until this moment, been required to do anything but be looked at. She did not want to do anything that would make the looking stop.
 
@@ -202,72 +202,20 @@ Vee sat with her hand still on the page, on the clean lines she had written out 
 
 Randi spoke first.
 
-"He was cute," she said. "You should text him."
+"He was cute," she said. A beat. "You should go out with him."
 
-Vee laughed. It was the laugh she did when she was a little out of breath and was using the laugh to catch up. "He was very cute."
+"He hasn't asked me out. He took my number and left." The laugh came out a little breathless. "I don't even know if I'll ever hear from him again."
 
-"You should text him."
+"It was a very cute thing, watching you not understand what was happening," Randi said.
 
-"Yeah. Yeah, I think I will."
+"He looked at you like he'd forgotten there was anyone else in the room," Cassie said. "He looked at her—" a tip of her chin toward Randi "—the way you'd look at somebody's great-aunt."
 
-She put her hand to her collarbone for a second, briefly, in a way she did not register as a gesture she did. The hand came down. She picked up her pencil again because she did not know what else to do with her hand. Cassie was looking at her across the way. Cassie had her chin propped on her fist.
+Vee knew the look. It was the one that slid off Cassie every day of her life, and Cassie had named it without a flicker.
 
-"He looked at her like she wasn't pretty," Cassie said.
+"Cassie," Vee said.
 
-There was a small beat.
+"I'm only saying."
 
-Vee looked at Cassie. Cassie was looking at Randi. Cassie had said it in the same matter-of-fact voice she said everything in, the voice of someone reporting the weather, the voice of someone who had no particular stake in the observation but was reporting it because it was a thing she had observed. Vee felt the words land in the room before she felt them land in her body. It was a strange thing to have said, and it was true. Randi was the prettiest person at the table by a distance anyone could measure, and he had looked at her and not seemed to find it.
+"She's right about the way he looked at you." Randi tipped her head at the door. "Did you notice what he left without? His coffee. He gave up his place in line to come to you, spent the whole time on you, and walked out of a coffee shop empty-handed. A man doesn't forget his coffee over a girl he isn't going to call."
 
-The silence held.
-
-Vee turned to Randi.
-
-Randi was — Vee saw this and would not, later, remember having seen it — perfectly still. Her face was arranged in the small amused expression Randi's face was almost always in, the small *yeah, what about it* expression that anchored every conversation Randi was in. The expression was exactly correct. The expression had not changed. Her hand was on the coffee cup, and the cup had not moved, and her other hand was no longer in her lap, it was on the edge of the table, palm down, fingers slightly spread. The fingers were not doing anything. They were placed.
-
-Randi did not say anything.
-
-The beat was longer than it should have been. Vee felt the awkwardness of it without understanding the shape of the awkwardness, and her own social fluency engaged before she had decided to engage it, the way her social fluency always engaged when a room needed a small piece of friction smoothed.
-
-"Stop," Vee said, laughing. "He was being polite. She was on her laptop, he wasn't going to — it doesn't mean anything."
-
-"He looked at her the way you'd look at somebody's great-aunt," Cassie said.
-
-She said it without any weight on it, the way she said everything, not fishing and not wounded, a person stating a measurement. And Vee — before she could stop the thought, before she even knew it was a thought — knew exactly the look Cassie meant. She had spent two years beside Cassie and had seen it from inside the comparison: the same room, the same moment, a man's eyes moving over the both of them and warming on Vee, going easy and unbothered on Cassie, the way they'd go on an older woman, on a kid, on a man he was glad enough to meet and would never think about again. Not unkind. Not blind. He saw Cassie, every time, completely — he just saw her the way you see a person you are never once going to want. And he had looked at the most looked-at woman any of them knew with the same untroubled ease. Something was wrong with it, and Vee knew that following the wrongness led straight to Cassie, so she didn't follow it.
-
-"*Cassie.*"
-
-"I'm just reporting."
-
-"You're being weird."
-
-"I'm being accurate."
-
-Randi's hand moved. It moved without her looking at it, the way Randi's hands sometimes moved when she was doing something she had not decided to do. The hand picked up her cup, lifted it, did not drink, set it down — but set it down at a slightly different angle than it had been at before. A quarter turn. The handle, which had been pointing at her elbow, now pointed at Vee. Randi's hand released the cup and returned to the edge of the table.
-
-"Please," Randi said. Her voice was the voice she used for small social rescues, easy and warm, and it arrived at exactly the moment that voice was needed and not a moment sooner. "He was here for the math. I was background scenery. It was a *very* cute thing watching you not understand what was happening, by the way." She tipped her head at the door. "And did you notice what he left without? His coffee. He gave up his place in line to come over here, spent the whole time on you, and walked out of a coffee shop empty-handed. A man came in for coffee and forgot the coffee." She let that land, delighted for her. "That's not politeness. Nobody skips their coffee being polite." She smiled at Vee — the *we are friends* smile, the smile that resealed the room. "You should absolutely text him."
-
-The room resealed. Vee felt it reseal. The thing Cassie had said was already losing its outline. The thing Vee had felt one second ago — the small involuntary recognition of having been the one looked at — was already becoming a piece of the *we are friends* moment Randi had just produced.
-
-"I will," Vee said.
-
-"Good."
-
-Vee picked up her coffee, which had gone cold. She drank some of it anyway, and made a face at it, and laughed at her own face. Cassie was still looking at Randi.
-
-"I thought you were taking a break from dating," Cassie said.
-
-Vee waved her off. "It's coffee. He asked. He's nice. I'm not getting married."
-
-"Mm."
-
-"You always say *mm* like that."
-
-"I always mean it."
-
-"Cassie."
-
-"Okay."
-
-Cassie put her headphones back on properly and turned to her own work. Randi went back to her laptop. Vee looked at her page again, where Pace's small crossed mark sat in the margin in his pencil and her own clean lines ran below it in hers, and the problem was solved, and beside the problem her phone sat face-down on the table where she had set it when she got there, and somewhere in the lining of her chest the small *oh* of being remembered had not yet stopped doing what it did. She would do another problem. She would do two more problems. She would walk back to her dorm with Cassie an hour later and would not, on the walk, say anything about it, and Cassie would not ask. By the time she got back to her room she would have his number in her phone and a small piece of the afternoon installed in the part of her chest that kept that kind of thing. She would text him three days later. She would not, on the third day or any subsequent day, think again about the slight angle of the coffee cup Randi had turned on its saucer in the moment before Randi recovered her line, because she had not registered the turn at the time, and the turn would not be available to her memory.
-
-The cup stayed where Randi had set it. The handle pointed at Vee. Randi did not look at it again.
+Vee looked at her page — Pace's small crossed mark in the margin, her own clean lines under it, the problem solved — and then at her phone, face-down on the table where she'd left it, and she did not turn it over. She let herself want it to light up.

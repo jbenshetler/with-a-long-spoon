@@ -1663,6 +1663,13 @@ text = "He saw Cassie, every time, completely — he just saw her the way you se
 note = "Author sign-off: established scene voice throughout, plus the entrance gestalt/smile language (whole-of, easy-not-one-feature, She-felt anaphora) as authored."
 
 [[ok]]
+fp   = "c74abbae74e1"
+rule = "the-way"
+file = "scenes/the-meet-cute.md"
+text = "\"He looked at her—\" a tip of her chin toward Randi \"—the way you'd look at somebody's great-aunt.\""
+note = "Author sign-off: restructured ending — the-way (canonical great-aunt line + Randi's 'the way he looked at you') and dialogue there-was."
+
+[[ok]]
 fp   = "d3170ee70186"
 rule = "the-way"
 file = "scenes/the-meet-cute.md"
@@ -1684,6 +1691,13 @@ text = "The way he had asked her what her professor had said, instead of telling
 note = "Author sign-off: established scene voice throughout, plus the entrance gestalt/smile language (whole-of, easy-not-one-feature, She-felt anaphora) as authored."
 
 [[ok]]
+fp   = "f7b1f6f1cdff"
+rule = "the-way"
+file = "scenes/the-meet-cute.md"
+text = "\"She's right about the way he looked at you.\""
+note = "Author sign-off: restructured ending — the-way (canonical great-aunt line + Randi's 'the way he looked at you') and dialogue there-was."
+
+[[ok]]
 fp   = "fc335f852817"
 rule = "the-way"
 file = "scenes/the-meet-cute.md"
@@ -1703,6 +1717,13 @@ rule = "there-was-were"
 file = "scenes/the-meet-cute.md"
 text = "There was an economy in how he folded down into it that she felt before she could have named it — nothing in the movement spent that did not need spending."
 note = "Author sign-off: entry rework (challenge-problem framing, audible-entrance overhear, Pace in line, 'Let me try?' permission seed, coffee removed, Randi no-coffee beat, line-201 fix). Re-arms of established scene voice."
+
+[[ok]]
+fp   = "38f5b42ee8e7"
+rule = "there-was-were"
+file = "scenes/the-meet-cute.md"
+text = "\"He looked at you like he'd forgotten there was anyone else in the room,\" Cassie said."
+note = "Author sign-off: restructured ending — the-way (canonical great-aunt line + Randi's 'the way he looked at you') and dialogue there-was."
 
 [[ok]]
 fp   = "b5201b375b65"
