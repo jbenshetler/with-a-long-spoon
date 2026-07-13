@@ -100,6 +100,12 @@ He did the back of her neck and the tops of her shoulders the same way, the same
 
 Then he came around in front of her. He tipped her chin up with one hand and looked at the side of her neck, and told her, low, that the hurt muscle ran down under the front too, under the collarbone, and that he'd work it from there now. Her chin stayed where he'd left it and her throat lay open to the lamp, and from there she could not have seen her own chest if she'd tried. She didn't try. She closed her eyes and let him have the front of her as he'd had the back.
 
+He folded his free arm around her far side, the forearm flat across her back, and drew her in toward him, so that the pressure he was about to work down the front of her had something to bear against that was not her own held-up spine. She had only to lean into the arm and let it take the weight of her, and her body did the thing it had wanted to do all evening and stopped holding itself up.
+
+Where it tried, out of the habit of a long evening of hurting, to answer the pressure as it always had — to draw up and away and hold itself against the ache — the arm was there ahead of it and met it, and took the push, so that the bracing had nowhere to go and let itself go. She had never known how much of a worked muscle is the muscle fighting back. He had taken that from her, and left her nothing to do but breathe and be worked.
+
+He was below her, bent up under the bared line of her throat, and his breath came warm and then held against the underside of her jaw, and she kept her eyes shut and let him hold her there.
+
 He worked down the cord as he'd worked the neck, small deep circles, patient, taking it in the order it ran: the corner of her jaw, the side of the throat, the hollow over the collarbone, and out along the bone, chasing the same cord to where it anchored low under the slope of her breast where the towel had slipped open. He laid the warmth down ahead of himself as he went, and his face stayed bent to it the whole time, careful, on nothing but the muscle he was after. The wanting stood straight up in her.
 
 His hand moved along the top of her chest, and she leaned into it. She didn't decide to. Her body did it for her, tipped her breast up into his palm as it had tipped her toward the weekend a hundred times in the back of a lecture hall, ahead of her. For a second her breast met only the slick of the ointment, cool and greasy, no heat in it yet.
@@ -162,7 +168,25 @@ She did not want to be saved.
 
 "Yes," she said, only that, and pressed the breast up into his closed hand.
 
-And he opened it. The balm came onto her, cool and slick and lying, and he took the second nipple as deliberately as he had taken the first. The first one told her. It burned under his palm with every small movement of his fingers, instructive and merciless, while the second lay cool in the same hand's promise. The ointment lay greasy and not yet burning over it, and from the other side of her own chest she knew exactly what the not-yet meant. The first nipple was burning still. It had her drawing her breath in between her teeth. It told her to the letter what she had just called down onto its twin, and she called it down anyway. She was choosing to know it twice. Choosing the same pain again because it was his hand that brought her to it, because being spared by him was worse than being held in the fire she had asked for. Her need for him had gone out past the pain a long time back, and it did not so much as slow. She hung between his two hands with both of her alight now, and she would not have given back either fire.
+Everything up to here had been hers to begin. Her body had leaned and he had caught it; she had pulled his hand to her and he had let himself be pulled; she had said keep going and he had held her off it, for her own good. She led and he answered — shaped himself to each thing she did and gave it back to her gentler than she had meant it.
+
+This he did not answer. The hold that had kept her all night — that had braced her, gathered her, held her off the things that would cost her — closed on her now with none of that in it. He drew her back hard against him and set her open where he wanted her and left her nothing to push against, because there was nothing left in her to push. The choosing was still hers; she had made it. What she gave him with that one word was the steering, and he took it.
+
+He opened the hand he had kept closed against her and turned the loaded palm to her skin, and the balm came onto her, cool and slick and lying. And then he did not do the thing she had braced for. He did not go for the tip. He laid the greasy heel of his palm to the underside of her breast, low, where the skin was tenderest and had known nothing all its life but warm water, and spread it there — slow, deliberate, working the balm out in long unhurried circles that closed, each one, a little nearer the center.
+
+She understood what he was doing, and the understanding turned her cold and then hot. He was laying the fire down on purpose. He was drawing it for her, a line of it, out where it would take the longest to reach the tip, so that she would have to feel all of it come — the underside first, then the areola, then, last, the drawn point he was saving. He was building her a fuse and giving her the far end of it to hold, and he was in no hurry, because he knew she had asked for the fire and he meant her to have all of it.
+
+This was a thing in him she had not met before. All evening he had tended her, read her, held himself to what she could stand; and now, with her own yes still in the air, he had gone deliberate over her body in a way with nothing of the caretaker left in it — patient, and certain, and faintly and unmistakably cruel, taking his time with the hurt he was readying for her as though the slowness were its own pleasure to him. She could not see his face. She did not need to. It was there in his hands, this other man, in the slow sure circling, and the newness of him went through her worse than the dread did — hotter, and more shaming, because her body answered it before her mind could say a word, opened to it, wanted the different thing he had turned into. Against the base of her spine he was hard, and did not move, and all his stillness was bent to this, to the doing of it slowly.
+
+Her body went to get out from under it before she had decided anything — a flinch, a twist of the ribs, a drawing-up and away from the patient greasy hand. He held her open and let her squirm and did not hurry for it.
+
+"Do you want me to keep going," he said, low, at her ear.
+
+The ring of cool was drawn almost to the center now, laid and lying and waiting to wake, and on the other side of her chest the first nipple burned on under his palm to tell her to the letter what she would be buying.
+
+"Yes," she said. Small. Barely there. But she said it.
+
+And he kept going. He brought his fingers in off the ring and took the second nipple, and gave it to her deliberately, with none of the mercy he had shown the first. She was choosing to know it twice — the same fire again, brought to her a second time by his hand, because being spared by him had become worse than being held in the thing she had asked for. Her need for him had gone out past the pain a long while back, and it did not so much as slow. She hung between his two hands with both of her alight now, and she would not have given back either fire.
 
 And she climbed toward the end of it. It gathered low first, then took her stomach, then her thighs. Her back wanted to bow. Her throat wanted to open. She leaned back into him and reached for it, and the first inch of the arch caught in the wire of her neck and flashed white. She froze against it.
 
