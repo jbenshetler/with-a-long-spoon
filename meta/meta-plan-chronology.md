@@ -63,7 +63,7 @@ A warm Vee-and-Cassie afternoon at the university pool, doing three quiet jobs: 
 The first surrender. Safety assembled brick by brick at a Middle Eastern restaurant until her lifelong self-monitoring goes quiet and she goes under. The drip triggers it; mint tea surfaces her gently. The kiss is the surrender's second occurrence, elected. Plants: hand-motif, breach-verb (*"let the thread go"*), the *may* register deepened.
 
 ### [VIGNETTE] Off Six-Fourteen
-*Early fall · ~Sat Sep 26 · the same evening as May I Choose* · Draft complete · Cassandra track · `off-six-fourteen.md` · [detail](meta-condensed-off-six-fourteen.md)
+*Early fall · ~Sat Sep 26 · the same evening as May I Choose* · Draft complete · Cassandra track · `off-six-fourteen.md` · [detail](meta-condensed-off-six-fourteen.md) · reviewed: 2026-07-14
 Same night as May I Choose, Vee comes in lit up and tells Cassie mid-recount. The clean baseline in the truest register, before Randi reshapes the material. Agency spine: she claims the kiss as her own act (*I made him stop… I did it. Me.*); the drink-question establishes she chose it sober. Plants the too-fast *yes* to hiking (primary placement), the who-is-he answered as a road-number "dossier," and the class question (*rich people hike, poor people walk*). Closes warm; the dread is structural, never on anyone's face. Distinct from Vee Tells Cassie — Hike, the later, deepening telling after the hike.
 
 ### [SCENE] The Smoothie Shop
