@@ -1,6 +1,6 @@
 # Note — Water Wings (Vee's body in the world; the desirability anchor)
 
-*Scene · Architecture complete, prose not drafted · early fall, just after the Froyo Walk (before May I Choose) · Vee POV · Vee + Cassie · companion to `meta-condensed-water-wings.md` · anchors the desirability thread (`meta-note-desirability-thread.md`)*
+*Scene · Architecture complete, prose not drafted · early fall, just after The Long Way (before May I Choose) · Vee POV · Vee + Cassie · companion to `meta-condensed-water-wings.md` · anchors the desirability thread (`meta-note-desirability-thread.md`)*
 
 ## What this scene is
 
