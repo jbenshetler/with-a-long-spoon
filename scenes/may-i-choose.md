@@ -18,7 +18,7 @@ Anyone but Cassie.
 
 "It's nothing." It was not nothing. "It's — Saturday. We're getting dinner."
 
-"He's not making you wait, is he." The grin came up under Cassie's surprise. "What've you got on this man."
+"He's not making you wait, is he." The grin came up under Cassie's surprise. "What've you got on this man?"
 
 ---
 
@@ -26,7 +26,7 @@ It was the first time he'd come to get her. The froyo — that had been daylight
 
 The elevator opened on the lobby — polished concrete, the squat hard-used couches, the smell of it that was always the same: bodies, smoke gone stale in somebody's coat, the sweet chemical fog of cheap perfume. And he was already there, standing, not yet looking her way, and for a second she had him to herself.
 
-He'd showered. She could tell from across the room — the damp-dark edge of his hair, his jaw still faintly blushing from the razor, that color that meant *recently,* that meant *for this.* The rest of him was just himself: clean and plain, no effort spent on being seen, his boots the kind that had been somewhere and been kept, resoled, looked after. She knew enough to know he hadn't dressed up for her, and knew enough to understand that this was better — that the boys in this building bought new shoes to look like they'd lived and he just wore the ones that had. He'd showered and shaved and come to get her, and the only thing he'd changed for her was the part of him that touched her air.
+He'd showered. She could tell from across the room — the damp-dark edge of his hair, his jaw still faintly blushing from the razor, that color that meant *recently,* that meant *for this.* He'd dressed for it too, for the evening and for her: a broadcloth shirt, clean and pressed and easy on him, the good boots worn but polished, kept as boots have to be kept to last. Nothing new, nothing bought to impress her; he'd brought the real things, the ones he already looked after. The boys in this building bought new shoes to look like they'd lived, and he just wore the ones that had. He'd showered and shaved and dressed and come to get her, and the care ran past anything the room could see, down to the part of him she'd only get close enough to smell.
 
 The doors clanked and started to slide shut — the elevator timing out, done waiting on a girl who'd forgotten to get off it. She came to and threw out a hand, begging the doors for mercy, and stepped into the lobby like a person who knew how to walk. If he saw, he had the grace not to show it. Whatever he'd been before she walked in, he let go of, and crossed to meet her.
 
