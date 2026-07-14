@@ -115,6 +115,6 @@ Standard double with Vee — **bunk beds (Vee took the top without being asked)*
 
 ## Continuity Flags
 
-1. **Bunk-bed staging.** Canon: bunk beds, Vee on top. `vee-tells-cassie-dinner.md` currently has Cassie "on the edge of Vee's bed" and Vee "dropping back onto the bed," which doesn't sit cleanly against a top-bunk (you don't perch on the edge of a top bunk, and Vee dropping back onto "the bed" is ambiguous). **Fix the vignette's bed-staging** (Cassie on the floor / lower bunk / desk chair; Vee's flop re-blocked) rather than changing the bunk canon. **Not yet applied.**
+1. **Bunk-bed staging.** *(Resolved.)* Canon: bunk beds, Vee on top; Cassie's is the lower bunk. In `vee-tells-cassie-dinner.md` Cassie sits on the edge of the lower bunk and Vee flops into the bean bag chair after her spin, staying there through the close — consistent with the top-bunk geometry.
 
 2. **No `meta-craft-cassie.md` yet.** If Cassie's on-page presence grows, split the voice/behavior material out of this doc into a craft file paralleling the others. For now this doc carries both.
