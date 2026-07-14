@@ -20,7 +20,7 @@ She stepped onto the trail.
 
 ---
 
-The boots were wrong. She'd known it putting them on — Megan's boots, a half size big, stiff at the ankle where her foot didn't fill them. Her heel lifted inside the right one when she pushed off. A slip. A slip again.
+The boots were wrong. She'd known it putting them on — Meg's boots, a half size big, stiff at the ankle where her foot didn't fill them. Her heel lifted inside the right one when she pushed off. A slip. A slip again.
 
 The trail eased in, like he'd said. The trees came close on both sides. The world narrowed to bark and root and the dirt between. The sky broke into gray flecks above the leaves. It was dim down here. It smelled of cold earth and something rotting slow and sweet under it.
 
@@ -42,7 +42,7 @@ The grade pitched up another notch. Her foot pushed off. The hot place caught.
 
 He turned at once.
 
-"I think — my boot." A small noise came out of her, half a laugh. "The right one. It's rubbing."
+"I think — my boot." A noise came out of her, half a laugh. "The right one. It's rubbing."
 
 Two steps back down to her. He looked at the trail, then up past her at something she couldn't see.
 
@@ -52,11 +52,11 @@ A rock at the trail-edge, knee-high, dry. She stepped over and turned and sat up
 
 Her stomach clenched before she knew why. He was going to take her boot off. He was going to take her *sock* off. Her foot had been in that boot forty minutes and the sock was going to be — the word came up in her mother's voice, the whole verdict, *what kind of girl lets a man* — her face went hot and she opened her mouth —
 
-He had the boot unlaced. He worked the heel free and slid it off, one hand under her ankle. Then the sock, peeled down off her heel, and her bare foot was in his hand in the cold air. He looked at the heel the way a man looks at a heel. He found the raw place, pink and risen, and made a small sound, *mm,* the sound you make when a thing is where you thought it'd be.
+He had the boot unlaced. He worked the heel free and slid it off, one hand under her ankle. Then the sock, peeled down off her heel, and her bare foot was in his hand in the cold air. He looked at the heel the way a man looks at a heel. He found the raw place, pink and risen, and made a sound, *mm,* the sound you make when a thing is where you thought it'd be.
 
 "Hot spot. We can fix that."
 
-He didn't look at her face. He didn't apologize for the foot. There was nothing to apologize for — he hadn't found anything to apologize for. He took a kit from the pack, opened it on his knee, cut a square of moleskin, pressed it to her heel with his thumb and held it there to warm it. Then the sock, rolled gently up from her toes. Then the boot. He laced it different — tight near the ankle, loose across the top — and pulled the knot and gave the toe a small pat that meant only *done.*
+He didn't look at her face. He didn't apologize for the foot. There was nothing to apologize for — he hadn't found anything to apologize for. He took a kit from the pack, opened it on his knee, cut a square of moleskin, pressed it to her heel with his thumb and held it there to warm it. Then the sock, rolled gently up from her toes. Then the boot. He laced it different — tight near the ankle, loose across the top — and pulled the knot and gave the toe a pat that meant only *done.*
 
 "Stand."
 
@@ -78,7 +78,7 @@ The trees ended all at once and the world fell open in front of her and she stop
 
 His blue shirt was nothing against it. The world swallowed his blue whole. The world swallowed everything that was in it and went on being the world.
 
-She didn't say *oh.* She didn't say any of the words. There was wind up here that hadn't existed inside the trees, and it found her hair the way wind always found her hair, and lifted it and laid it across her face, and she stood in it and looked, and her body came back to her by pieces — that she was tired, that she was hungry, that the sweat down her back had started to turn to ice as the wind reached it. The body came back after the seeing, slow, the way a sound comes back after it's been too loud to hear.
+She didn't say *oh.* She didn't say any of the words. There was wind up here that hadn't existed inside the trees, and it found her hair, always her hair, and lifted it and laid it across her face, and she stood in it and looked, and her body came back to her by pieces — that she was tired, that she was hungry, that the sweat down her back had started to turn to ice as the wind reached it. The body came back after the seeing, slow, the way a sound comes back after it's been too loud to hear.
 
 A few steps ahead of her he had stopped. When she looked over he was already looking at her — not at the valley, at her face in front of the valley — and he didn't look away when she caught him doing it. He let her catch him. Then he turned back to the world and gave her the rest of the looking alone.
 
@@ -92,7 +92,7 @@ He pulled the sandwiches from the pack, wrapped in wax paper twisted at the ends
 
 She didn't have anything to do with that but eat. She bit.
 
-The bread was dry, the crust giving its small chew, and then the lettuce cold and loud against her teeth, and then the mustard came sharp and sour and woke her whole mouth, and then the meat under it, red and full and substantial, and then — a beat behind the rest, climbing up the way it does — the horseradish bloomed all the way up into her sinuses and watered her eyes and pulled a gasp out of her, half a laugh, around the mouthful.
+The bread was dry, the crust giving its small chew, and then the lettuce cold and loud against her teeth, and then the mustard came sharp and sour and woke her whole mouth, and then the meat under it, red and full and substantial, and then — a beat behind the rest, climbing — the horseradish bloomed all the way up into her sinuses and watered her eyes and pulled a gasp out of her, half a laugh, around the mouthful.
 
 "Oh — that's — "
 
@@ -124,7 +124,7 @@ The talk came back over the cherries. She told him about the induction.
 
 Still weeks off, come November. The honor society, the one with the certificate and the dinner and the part where they read your name and you walked up to the front. She hadn't thought she'd make it. Stats had been a fight she'd won by half a point in the last week, and the letter had come, and Cassie had screamed in the hall, and her mother had done the proud cry and the *I never* cry at the same time on the phone.
 
-There was a dinner. A ceremony. She had to find something to wear.
+A dinner. A ceremony. She had to find something to wear.
 
 "I saw a dress." She was holding a cherry and she looked at it instead of him. "In a magazine. The one they leave out in the lobby. It was silk. Russet — like — " the color, what to do with the color, "— like the red of a brick. That kind of red. It just looked like the dress. Like the one."
 
@@ -132,7 +132,7 @@ She heard it as it came out. The wanting in it. The reach of it — the dorm gir
 
 "I can't afford it. Obviously. But I keep thinking about it." She put the cherry in her mouth. "I'll find something. Something good."
 
-He hadn't said anything. She looked up. He was looking at her, the way he looked at her, the whole of his attention on her and nothing asked for it, and when he spoke there was no weight on it at all.
+He hadn't said anything. She looked up. He was looking at her, all of his attention on her and nothing asked for it, and when he spoke there was no weight on it at all.
 
 "That sounds like a beautiful dress."
 
@@ -148,7 +148,7 @@ He looked at the sky. It was the same sky it had been an hour ago, silver and lo
 
 Down was a different trail than up. Her legs learned that in the first hundred feet. The footing came fast. The rocks she'd stepped onto she now stepped off of, and the foot landed hard, and the knees took the landing. Watch this one. Hand here a second. He stayed close. The right hand at the right rock and gone again before she'd leaned on it.
 
-The grade ran down. Her toes jammed forward in Megan's boots. The moleskin held. Push and drop. Push and drop. The blue shirt below her now, leading down.
+The grade ran down. Her toes jammed forward in Meg's boots. The moleskin held. Push and drop. Push and drop. The blue shirt below her now, leading down.
 
 A drop hit the edge of her sight and she didn't believe it. Another, on her shoulder. Then all of it at once.
 
@@ -168,7 +168,7 @@ He got to her door a step ahead of her and opened it and she climbed in and haul
 
 She was shivering. She hadn't known it until she sat still and the cold caught up to her.
 
-He reached behind the seat. The bench ran the width of the cab and behind it on the narrow shelf was his gym bag — she hadn't seen it on the way up, she saw it now as he pulled it forward by the strap and unzipped it on his knee. He took out a flannel shirt. Folded. Clean. Dry. He held it out to her and didn't say anything.
+He reached behind the seat. The bench ran the width of the cab and behind it on the narrow shelf was his gym bag — she hadn't seen it on the way up. Now he pulled it forward by the strap and unzipped it on his knee. He took out a flannel shirt. Folded. Clean. Dry. He held it out to her and didn't say anything.
 
 She took it.
 
@@ -178,7 +178,7 @@ His only dry shirt. The one he'd packed for himself, for after, because he showe
 
 He opened his door and got out.
 
-He didn't say anything about it. The door shut, and through the windshield, blurred and running, she watched him walk a few steps off and stand with his back to the truck — his blue shirt gone almost black with the rain, his shoulders set, hands in his pockets — and stand there in the weather to give her the cab to change in.
+He didn't say anything about it. The door shut, and through the windshield, blurred and running, he walked a few steps off and stood with his back to the truck — his blue shirt gone almost black with the rain, his shoulders set, hands in his pockets — and stood there in the weather to give her the cab to change in.
 
 His shirt, and then the truck. Both.
 
@@ -186,19 +186,19 @@ She sat with the flannel in her lap. The cab was cold. The engine ran and the he
 
 *I want him in here with me.*
 
-And under it, slower, the way the second taste comes up behind the first — *I want him to see me.*
+And under it, slower — *I want him to see me.*
 
-The voice came up. The voice said all of it. *Girls who do this. Girls in trucks. What kind of. Three dates. Three dates and you'd — your mother. Your mother would.* It landed and landed, and her body answered each one with a low pull of heat under the cold, the heat that knew the voice was right, that wanted to be the very thing the voice said, wanted it with him, wanted him watching her be it. The shame and the heat were the same wire. There was no telling them apart.
+The voice came up. The voice said all of it. *Girls who do this. Girls in trucks. What kind of. Three dates. Three dates and you'd — your mother. Your mother would.* It landed and landed, and her body answered each one with a low pull of heat under the cold, the heat that knew the voice was right, that wanted to be the very thing the voice said, wanted it with him, wanted him watching her be it.
 
 She came up onto her knees on the bench. The console was folded up between the seats — old truck, the bench unbroken across — and she came up and turned to face the driver's side. Her hand went to her face. A wet curl had come down across her forehead and she pushed it back and tucked it behind her ear and her hand dropped. She set the flannel down beside her, folded, ready.
 
 She leaned across the bench. Her hair fell forward. She rapped on the driver's window with her knuckles, three quick, and it carried through the rain.
 
-He turned. He saw her through the running glass. He came back. The door opened and he pulled up into the cab and shut it and looked at her — and she hadn't moved, she was on her knees on the bench facing him, close in on his side of it, her wet hair down on her shoulders and the tucked curl already loose again — and she put her eyes on his and held them there.
+He turned. His eyes found her through the running glass. He came back. The door opened and he pulled up into the cab and shut it and looked at her — and she hadn't moved, she was on her knees on the bench facing him, close in on his side of it, her wet hair down on her shoulders and the tucked curl already loose again — and she put her eyes on his and held them there.
 
 She held them there.
 
-He didn't look away. His face went to the full attention, the whole of him on her, no part of him anywhere else — and in it she could see that he didn't know yet what she'd called him back to do. She held his eyes a beat to tell him there was a thing. Then her hands went to the top button of her shirt.
+He didn't look away. His face went to the full attention, no part of him anywhere else — and in it she could see that he didn't know yet what she'd called him back to do. She held his eyes a beat to tell him there was a thing. Then her hands went to the top button of her shirt.
 
 His face moved. Small. Nothing anyone outside the cab could have read. A little landing. His lips parting and closing. His eyes staying on hers, because she'd put them there.
 
@@ -210,7 +210,7 @@ The fourth button was lower. She had to look to find it.
 
 She looked down.
 
-She saw herself. She saw what he saw — the shirt open to her sternum, the wet bra gone sheer, the dark of her nipples through the pale cotton, the swell of her above the cup where the wet had dragged it down, her skin shocked pink with cold, the gooseflesh on it, a last drop of rain running down between her breasts out of her wet hair. She saw it the way the voice saw it. She saw it the way he saw it. There was no daylight between the two. The voice said *floozy* in her mother's exact word and her thighs pressed once, hard, on their own, under her jeans, and a slick of wet came that the rain had nothing to do with.
+She saw what he saw — the shirt open to her sternum, the wet bra gone sheer, the dark of her nipples through the pale cotton, the swell of her above the cup where the wet had dragged it down, her skin shocked pink with cold, the gooseflesh on it, a last drop of rain running down between her breasts out of her wet hair. The voice said *floozy* in her mother's exact word and her thighs pressed once, hard, on their own, under her jeans, and a slick of wet came that the rain had nothing to do with.
 
 Fourth button. Fifth. The last.
 
@@ -239,8 +239,6 @@ He nodded. He left his hand against her belly a beat longer than he had to, and 
 ---
 
 The drive was mostly quiet. Somewhere in the second mile the heat caught up with itself and the cab went warm and her shivering slowed and quit. She sat in his flannel, buttoned to the collar now, her wet jeans heavy on her legs, her own wet shirt balled in her lap, and watched the road come at them through the rain. He drove with both hands on the wheel and his jaw set against his own wet clothes. He didn't turn to her. He didn't need to. The thing that had happened was in the cab with them, holding still in the warm air.
-
-The voice came up once and had nothing. It could only ever say its things about what a girl *might* do. This had happened. It was on the other side of the voice now. The voice gave it up and went looking for some next thing to say it about, and she let it look, and didn't listen.
 
 ---
 
