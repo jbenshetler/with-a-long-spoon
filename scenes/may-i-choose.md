@@ -64,7 +64,7 @@ The food didn't come right away, and the not-coming was fine. They had the table
 
 Then it came, more than she'd pictured: the little dishes first, crowding in, the ones whose names she'd heard and couldn't have repeated — real now, set down in front of her, the soft promises turned solid. The bright green one. The smoke-dark one under its dust of spice. And the bread last, blistered and steaming, straight from the oven and set down hot among them. She looked at what she'd agreed to without knowing, and it was better than anything she'd have known to ask for.
 
-She was hungry — that hollow from noon, wider now than it had any right to be — but she didn't reach yet. Her eyes went to his hands first. He tore a piece of bread with care for the heat, and the steam came off the two halves in the lamp-light and was gone, and he folded it around a pinch of the green-and-white salad and ate it without ceremony, and she did what he did. Tore the bread. Folded it as he had. Brought it up not quite knowing what she'd find.
+She was hungry — that hollow from noon — but she didn't reach yet. Her eyes went to his hands first. He tore a piece of bread with care for the heat, and the steam came off the two halves in the lamp-light and was gone, and he folded it around a pinch of the green-and-white salad and ate it without ceremony, and she did what he did. Tore the bread. Folded it as he had. Brought it up not quite knowing what she'd find.
 
 It was sharp — green and sour and bright, lemon and something cold and clean underneath, a bitterness that woke her whole mouth up — and it went down into the hollow and the hollow only opened wider, asked for more before she'd swallowed. She'd thought she knew how hungry she was. She hadn't. It kept going down and down into something that had been empty a lot longer than since noon.
 
@@ -94,7 +94,7 @@ He took her hand. No ceremony, no question in it — he simply did it, like it w
 
 He walked her back the long way, and the softness came with her — that low warm not-quite-here she still hadn't shaken, the night doing nothing to clear it. The campus had gone quiet and blue around them. Somewhere past the quad a tree had dropped its shadow across the path in the moonlight, and under it he slowed, and stopped, and turned to her, and what came next was suddenly obvious.
 
-"I don't kiss a man I've known a few days," she said. It was out before she'd decided to say it — a rule that had never been breached before. She heard how it sounded, and half meant it.
+"I don't kiss a man I've known a couple of days," she said. It was out before she'd decided to say it — a rule that had never been breached before. She heard how it sounded, and half meant it.
 
 It was the old reflex, the part of her that always caught the thread before it could drop, that knew where the lines were and stayed inside them. The same part that had gone quiet at the table without her noticing. It came back now, here, at the worst possible moment, with its rule already in her mouth — and the ease of letting it go again pulled at her, distinct and close. She'd done it an hour ago over a glass of tea and the world hadn't ended. She had liked it. She had liked it more than almost anything.
 
