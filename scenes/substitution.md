@@ -176,7 +176,29 @@ Randi was smiling. Randi was smiling the *go on, this is nice* smile of a friend
 
 "Anyway," she said. "Sorry. That was a lot."
 
-"It was good," Pace said. He glanced — finally, properly — at his watch.
+"It was good," Pace said.
+
+She wanted to hand some of it back. She had taken the whole table and he had let her. "You never said what you do. Are you a student?"
+
+"Grad student."
+
+"In what?"
+
+"Math."
+
+It reached her body a half-second before it reached her sense of proportion. Her own voice came back from the top of all this, small, warning him off: *It's pretty hard. It's calculus.* She put her fingers over her eyes.
+
+"How far along," she said, into her hand.
+
+"Finishing a PhD." A pause. "More or less."
+
+"Oh, no." She came out from behind her hand. "Did I just warn a math PhD that my calculus was hard?"
+
+"You gave fair notice," he said. "I took it seriously."
+
+The laugh got away from her, the good kind. Underneath it he seemed young to be finishing a PhD, and she set the thought down without opening it, the way she'd set down the pencil.
+
+He glanced, finally, properly, at his watch.
 
 The thing that happened in her chest at the glance was small and stupid and she could not have named it. It was the small *oh* of being reminded that the man across from her was a man with a day, and that the day was about to take him out of the chair he was in.
 

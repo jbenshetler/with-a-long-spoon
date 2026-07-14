@@ -1271,139 +1271,6 @@ text = "She turned and went down off the step and across the cold ground, not ru
 note = "Author-approved: load-bearing 'the way it always had' (the gaze that fails to open for her), the close-third watch, and accepted single tics."
 
 [[ok]]
-fp   = "6bc394db8bf0"
-rule = "a-small"
-file = "scenes/the-bench.md"
-text = "The face had said *please, please, please* in a voice she had not used since she was a small child in tears asking her mother for something her mother was not going to give her."
-note = "Randi literally a small child"
-
-[[ok]]
-fp   = "9d3af4eb1c78"
-rule = "a-small"
-file = "scenes/the-bench.md"
-text = "He looked at the bare smooth cleft between her legs, waxed clean, a small pale thing, the lips just visible, the first faint gloss of her already glistening at the seam, and he registered it and moved on."
-note = "her body — literally small"
-
-[[ok]]
-fp   = "0ed5e65adaaf"
-rule = "the-way"
-file = "scenes/the-bench.md"
-text = "The way her body had stopped bracing and was now waiting."
-note = "deliberate fragment series"
-
-[[ok]]
-fp   = "10dc2e610947"
-rule = "the-way"
-file = "scenes/the-bench.md"
-text = "She had asked it the way a sorority girl asked about an inconvenience — *can we lower these?* — and he had said *can we leave them up?* and she had said yes the way a woman says yes to a minor inconvenience."
-note = "sorority-register parallel — deliberate"
-
-[[ok]]
-fp   = "1a10e5af9331"
-rule = "the-way"
-file = "scenes/the-bench.md"
-text = "She did not look at the wood the way she looked at her own things."
-note = "price-tag class anaphora (the wood) — deliberate"
-
-[[ok]]
-fp   = "1f12f454aaf4"
-rule = "the-way"
-file = "scenes/the-bench.md"
-text = "He was aware, in the way a man is aware of something he has been quietly not-thinking-about, that he was still hard."
-note = "renders his detached self-awareness — deliberate"
-
-[[ok]]
-fp   = "40af12500fbe"
-rule = "the-way"
-file = "scenes/the-bench.md"
-text = "He bent and laid his palm against her cheek, where he could reach her at the bench's low point, and she leaned into it the way an animal leans into a comforting touch."
-note = "characterizing simile"
-
-[[ok]]
-fp   = "6a0a41d68fdc"
-rule = "the-way"
-file = "scenes/the-bench.md"
-text = "She looked at it the way a person looks at something whose price tag she cannot read."
-note = "price-tag class anaphora (the wood) — deliberate"
-
-[[ok]]
-fp   = "7f893e5919e9"
-rule = "the-way"
-file = "scenes/the-bench.md"
-text = "Tomorrow he would put the top back on and the bench would be a low table of odd proportions again, and she would dress and walk past it on her way out of the bedroom, and she would not look at it, and he would not say anything about it, and it would sit there in the middle of the room the way an unwrapped gift sits on a counter, full of what it was, doing what it would continue to do, waiting for the next time."
-note = "closing unwrapped-gift image"
-
-[[ok]]
-fp   = "8535be25fe2e"
-rule = "the-way"
-file = "scenes/the-bench.md"
-text = "He had decided, on the way to the bed, that whatever was happening in there was hers and he would not put a hand on it until she invited him to."
-note = "literal 'way' (distance/direction), not the filtered construction"
-
-[[ok]]
-fp   = "a2bc27d6e203"
-rule = "the-way"
-file = "scenes/the-bench.md"
-text = "He stepped to her right side and ran his hand from her left shoulder all the way down her spine to the back of her right knee, the long slow stroke, the heat of her back under his palm, the sweat now visible between her shoulder blades in a thin dark line."
-note = "literal 'way' (distance/direction), not the filtered construction"
-
-[[ok]]
-fp   = "bb1c0aa176fd"
-rule = "the-way"
-file = "scenes/the-bench.md"
-text = "She had been raised to register cost by appearance, and the appearance of his furniture said *expensive* in a register her ear was tuned to, and she had not been able to get all the way to the fact that his middle-class income could not have bought the things she was looking at and that the things were therefore made by the man who lived in the house."
-note = "literal 'way' (distance/direction), not the filtered construction"
-
-[[ok]]
-fp   = "c30298904a77"
-rule = "the-way"
-file = "scenes/the-bench.md"
-text = "Her feet in the heels made the small sharp sound of a woman who walked in heels the way other people walked in flat shoes — without thought, the weight falling where the weight was meant to fall."
-note = "characterizing simile (heels) — deliberate"
-
-[[ok]]
-fp   = "e6ded6eeec8e"
-rule = "the-way"
-file = "scenes/the-bench.md"
-text = "The awareness arrived without urgency; he held it the way you hold a fact, considered it, and set it down."
-note = "renders his detached self-awareness — deliberate"
-
-[[ok]]
-fp   = "e83ca0357ce4"
-rule = "the-way"
-file = "scenes/the-bench.md"
-text = "She stood in her bra and her underwear, both of which were a matching set, pale, expensive, the kind of thing she had laid out on her bed that morning before her first class, showered into after her last one, and worn to chapter dinner under the cardigan because chapter dinner had only been a stop on the way to him."
-note = "literal 'way' (distance/direction), not the filtered construction"
-
-[[ok]]
-fp   = "fcca6db2efcc"
-rule = "the-way"
-file = "scenes/the-bench.md"
-text = "Randi had seen the bench the second time she came to the house, and she had looked at it the way she looked at the rest of his furniture, which was the look of a person reading a price tag she could not read, and she had said something — he could not now remember what — that treated it as a table.*"
-note = "price-tag look echo (furniture) — deliberate"
-
-[[ok]]
-fp   = "ffd1db3527de"
-rule = "the-way"
-file = "scenes/the-bench.md"
-text = "The lamplight fell across her back and shoulders and down over the long pale length of her, her skin taking the light the way oiled wood took it — warm, deep, alive at the surface."
-note = "oiled-wood motif: furniture-maker rendering her body"
-
-[[ok]]
-fp   = "21894f4b06de"
-rule = "the-way"
-file = "scenes/the-induction.md"
-text = "She could have taken the whole walk like that, mincing it modest all the way to the podium, and no one would have known there was anything to know."
-note = "distance idiom 'all the way to' — not the telling 'the way'; intentional"
-
-[[ok]]
-fp   = "6dededa5d064"
-rule = "there-was-were"
-file = "scenes/the-induction.md"
-text = "She could have taken the whole walk like that, mincing it modest all the way to the podium, and no one would have known there was anything to know."
-note = "idiomatic 'nothing to know' understatement; intentional"
-
-[[ok]]
 fp   = "192b78795b2e"
 rule = "a-small"
 file = "scenes/substitution.md"
@@ -1698,6 +1565,13 @@ text = "\"He looked at her the way you'd look at somebody's great-aunt,\" Cassie
 note = "Author sign-off: established scene voice throughout, plus the entrance gestalt/smile language (whole-of, easy-not-one-feature, She-felt anaphora) as authored."
 
 [[ok]]
+fp   = "ad5ff313ecad"
+rule = "the-way"
+file = "scenes/substitution.md"
+text = "Underneath it he seemed young to be finishing a PhD, and she set the thought down without opening it, the way she'd set down the pencil."
+note = "Deliberate pencil-motif callback; author approved keeping 'the way'."
+
+[[ok]]
 fp   = "c3c4e07fe9c2"
 rule = "the-way"
 file = "scenes/substitution.md"
@@ -1843,6 +1717,139 @@ rule = "x-not-y"
 file = "scenes/substitution.md"
 text = "He had four steps to cover from the door to where they were sitting and he was using them — his eyes on her face the whole way, not on the table, not on Randi, on her."
 note = "Author sign-off: established scene voice throughout, plus the entrance gestalt/smile language (whole-of, easy-not-one-feature, She-felt anaphora) as authored."
+
+[[ok]]
+fp   = "6bc394db8bf0"
+rule = "a-small"
+file = "scenes/the-bench.md"
+text = "The face had said *please, please, please* in a voice she had not used since she was a small child in tears asking her mother for something her mother was not going to give her."
+note = "Randi literally a small child"
+
+[[ok]]
+fp   = "9d3af4eb1c78"
+rule = "a-small"
+file = "scenes/the-bench.md"
+text = "He looked at the bare smooth cleft between her legs, waxed clean, a small pale thing, the lips just visible, the first faint gloss of her already glistening at the seam, and he registered it and moved on."
+note = "her body — literally small"
+
+[[ok]]
+fp   = "0ed5e65adaaf"
+rule = "the-way"
+file = "scenes/the-bench.md"
+text = "The way her body had stopped bracing and was now waiting."
+note = "deliberate fragment series"
+
+[[ok]]
+fp   = "10dc2e610947"
+rule = "the-way"
+file = "scenes/the-bench.md"
+text = "She had asked it the way a sorority girl asked about an inconvenience — *can we lower these?* — and he had said *can we leave them up?* and she had said yes the way a woman says yes to a minor inconvenience."
+note = "sorority-register parallel — deliberate"
+
+[[ok]]
+fp   = "1a10e5af9331"
+rule = "the-way"
+file = "scenes/the-bench.md"
+text = "She did not look at the wood the way she looked at her own things."
+note = "price-tag class anaphora (the wood) — deliberate"
+
+[[ok]]
+fp   = "1f12f454aaf4"
+rule = "the-way"
+file = "scenes/the-bench.md"
+text = "He was aware, in the way a man is aware of something he has been quietly not-thinking-about, that he was still hard."
+note = "renders his detached self-awareness — deliberate"
+
+[[ok]]
+fp   = "40af12500fbe"
+rule = "the-way"
+file = "scenes/the-bench.md"
+text = "He bent and laid his palm against her cheek, where he could reach her at the bench's low point, and she leaned into it the way an animal leans into a comforting touch."
+note = "characterizing simile"
+
+[[ok]]
+fp   = "6a0a41d68fdc"
+rule = "the-way"
+file = "scenes/the-bench.md"
+text = "She looked at it the way a person looks at something whose price tag she cannot read."
+note = "price-tag class anaphora (the wood) — deliberate"
+
+[[ok]]
+fp   = "7f893e5919e9"
+rule = "the-way"
+file = "scenes/the-bench.md"
+text = "Tomorrow he would put the top back on and the bench would be a low table of odd proportions again, and she would dress and walk past it on her way out of the bedroom, and she would not look at it, and he would not say anything about it, and it would sit there in the middle of the room the way an unwrapped gift sits on a counter, full of what it was, doing what it would continue to do, waiting for the next time."
+note = "closing unwrapped-gift image"
+
+[[ok]]
+fp   = "8535be25fe2e"
+rule = "the-way"
+file = "scenes/the-bench.md"
+text = "He had decided, on the way to the bed, that whatever was happening in there was hers and he would not put a hand on it until she invited him to."
+note = "literal 'way' (distance/direction), not the filtered construction"
+
+[[ok]]
+fp   = "a2bc27d6e203"
+rule = "the-way"
+file = "scenes/the-bench.md"
+text = "He stepped to her right side and ran his hand from her left shoulder all the way down her spine to the back of her right knee, the long slow stroke, the heat of her back under his palm, the sweat now visible between her shoulder blades in a thin dark line."
+note = "literal 'way' (distance/direction), not the filtered construction"
+
+[[ok]]
+fp   = "bb1c0aa176fd"
+rule = "the-way"
+file = "scenes/the-bench.md"
+text = "She had been raised to register cost by appearance, and the appearance of his furniture said *expensive* in a register her ear was tuned to, and she had not been able to get all the way to the fact that his middle-class income could not have bought the things she was looking at and that the things were therefore made by the man who lived in the house."
+note = "literal 'way' (distance/direction), not the filtered construction"
+
+[[ok]]
+fp   = "c30298904a77"
+rule = "the-way"
+file = "scenes/the-bench.md"
+text = "Her feet in the heels made the small sharp sound of a woman who walked in heels the way other people walked in flat shoes — without thought, the weight falling where the weight was meant to fall."
+note = "characterizing simile (heels) — deliberate"
+
+[[ok]]
+fp   = "e6ded6eeec8e"
+rule = "the-way"
+file = "scenes/the-bench.md"
+text = "The awareness arrived without urgency; he held it the way you hold a fact, considered it, and set it down."
+note = "renders his detached self-awareness — deliberate"
+
+[[ok]]
+fp   = "e83ca0357ce4"
+rule = "the-way"
+file = "scenes/the-bench.md"
+text = "She stood in her bra and her underwear, both of which were a matching set, pale, expensive, the kind of thing she had laid out on her bed that morning before her first class, showered into after her last one, and worn to chapter dinner under the cardigan because chapter dinner had only been a stop on the way to him."
+note = "literal 'way' (distance/direction), not the filtered construction"
+
+[[ok]]
+fp   = "fcca6db2efcc"
+rule = "the-way"
+file = "scenes/the-bench.md"
+text = "Randi had seen the bench the second time she came to the house, and she had looked at it the way she looked at the rest of his furniture, which was the look of a person reading a price tag she could not read, and she had said something — he could not now remember what — that treated it as a table.*"
+note = "price-tag look echo (furniture) — deliberate"
+
+[[ok]]
+fp   = "ffd1db3527de"
+rule = "the-way"
+file = "scenes/the-bench.md"
+text = "The lamplight fell across her back and shoulders and down over the long pale length of her, her skin taking the light the way oiled wood took it — warm, deep, alive at the surface."
+note = "oiled-wood motif: furniture-maker rendering her body"
+
+[[ok]]
+fp   = "21894f4b06de"
+rule = "the-way"
+file = "scenes/the-induction.md"
+text = "She could have taken the whole walk like that, mincing it modest all the way to the podium, and no one would have known there was anything to know."
+note = "distance idiom 'all the way to' — not the telling 'the way'; intentional"
+
+[[ok]]
+fp   = "6dededa5d064"
+rule = "there-was-were"
+file = "scenes/the-induction.md"
+text = "She could have taken the whole walk like that, mincing it modest all the way to the podium, and no one would have known there was anything to know."
+note = "idiomatic 'nothing to know' understatement; intentional"
 
 [[ok]]
 fp   = "55306d44c38c"
