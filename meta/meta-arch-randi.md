@@ -196,6 +196,10 @@ The gift and the wound are delivered by the same person in the same act. She lov
 
 The desire and the friendship are not rivals. The friendship is the medium the desire runs through; the aliveness Vee gives her is exactly what makes the wanting acute. The love deepens the desire — never blunts it, never merely cloaks it. And she pays for the friendship: befriending Vee costs her in the position-world she comes from, and she chooses to pay it.
 
+That the friendship is more than the operation shows in what Randi does when the plan asks nothing of it. She is first to the brunches, every time — early, waiting, the week bent around the hour. And she owns the friendship in public, where the sorority can see and it costs her: the smoothie shop, On Her Floor. Choosing Vee over her own standing is a price the operation never required her to pay, and she pays it.
+
+The love is most visible at Vee's lowest points. When she and Pace are in difficulty, Vee reaches for Randi — the morning after the CW Dance, raw from a jealousy she misfired at him (CW-Dance Debrief); the night her reach for Pace meets his cold and won't thaw it (My Friend Randi) — and Randi comes down the stairs fast, catches her, holds her, and does not hurry her out of it. Nothing in this is calculated: Randi *wants* to be the one Vee reaches for, and being reached for is part of what makes the lunches the thing she organizes her week around. It is the plainest on-page proof of the friendship's reality — and, the same act from the other side, the cold: each rough patch with Pace drives Vee deeper into Randi's orbit.
+
 One thread of that cost is still to be developed: acting on the attraction *openly* would register, in the sorority, as a liability to her standing — an external status price, never interior shame (her desire is constitutional; see 🔒 THE NEED ENGINE). Dramatize via Brooke and the Social Price vignettes, not Fairytale. *(To refine.)*
 
 ---
