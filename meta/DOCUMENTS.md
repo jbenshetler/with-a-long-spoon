@@ -61,6 +61,7 @@ scene-by-scene architecture.
 |------|----------------|
 | `meta-plan-chronology.md` | Scene chronology: running order by phase (Early / Middle / Late), thin per-entry summaries with links to condensed companions, continuity flags, and threaded-throughout threads. Scenes are identified **by name** (no numbers) and ordered by list position; this doc also owns all calendar dates. First document to check for sequence and placement questions. |
 | `meta-plan-satc-tracks.md` | Architecture of the SATC lunch scenes; extraction mechanics; Randi's operational register across the lunch track. |
+| `meta-plan-summer.md` | Volume Three (summer 2027) frame: the fieldwork engine (Dr. Marsh's two sites, weekend scarcity), housing, Cassie away, the isolation condition, and the early-fall-2027 coda. The world the summer scenes inherit. |
 | `meta-plan-dress-cluster.md` | The dress cluster; sequence, dependencies, what each scene must accomplish. |
 | `meta-plan-pace-house.md` | The house room-by-room; object inventory; how the space reads to Vee across the year. |
 | `meta-plan-help-harm-dials.md` | The help/harm dial inventory; what each configuration element produces for each carrier at each stage. |
@@ -93,7 +94,7 @@ architecture, more specific than scene plans. Named `meta-note-<subject>`.
 | File | What it answers |
 |------|----------------|
 | `meta-process-chronology.md` | When to update the chronology; what every entry must contain; entry type definitions (`[SCENE]` / `[VIGNETTE]` / `[EVENT]`); consistency checks; format reference. |
-| `meta-plan-schedule.md` | Time-management model: the three layers (identity = name / sequence = list-order within phase / in-world stamp = texture line); calendar-anchor block; what may be pinned to a hard date; migration checklist. *Status: Pass A (identity/names) applied; Pass B (texture + summer calendar) pending.* |
+| `meta-plan-schedule.md` | Time-management model: the three layers (identity = name / sequence = list-order within phase / in-world stamp = texture line); calendar-anchor block; what may be pinned to a hard date. *Status: in force; summer / early-fall-2027 calendar specified.* |
 
 ---
 
@@ -110,7 +111,7 @@ One file per non-trivial scene; the chronology entry links to it. To work on a s
 | `meta-condensed-the-pointing-game.md` | The Pointing Game (diptych) |
 | `meta-condensed-see-you-later.md` | See You Later |
 | `meta-condensed-substitution.md` | Substitution |
-| `meta-condensed-the-froyo-walk.md` | The Froyo Walk |
+| `meta-condensed-long-way.md` | The Long Way |
 | `meta-condensed-walk-home-kiss.md` | The Walk-Home Kiss |
 | `meta-condensed-may-i-choose.md` | May I Choose |
 | `meta-condensed-vee-tells-cassie-dinner.md` | Vee Tells Cassie — Dinner |
@@ -191,7 +192,7 @@ Listed in chronological order (filesystem = `scenes/`; order, names, and status 
 | `the-pointing-game.md` | The Pointing Game (diptych — bed + campus walk) | complete |
 | `see-you-later.md` | See You Later (diptych) | complete |
 | `substitution.md` | Substitution | complete |
-| `the-froyo-walk.md` | The Froyo Walk | complete |
+| `long-way.md` | The Long Way | complete |
 | `may-i-choose.md` | May I Choose — The Dinner (the first surrender) | complete |
 | `vee-tells-cassie-dinner.md` | Vee Tells Cassie — Dinner | complete |
 | `the-smoothie-shop.md` | The Smoothie Shop | complete |

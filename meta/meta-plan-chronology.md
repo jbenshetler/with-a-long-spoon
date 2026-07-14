@@ -4,9 +4,9 @@
 *Full beat detail, revision rationale, and craft notes for each entry live in its `meta-condensed-<scene>.md` companion.*
 *This document owns all calendar dates. Companion `meta-condensed-*` and `meta-note-*` files carry only relative anchors — before/after another scene, "morning after," season, or a recurring cadence like "stats day (MWF)" — never month/day pins. Change a date here and nowhere else.*
 
-**Calendar anchor:** Academic year runs late August through early May. Fall semester begins ~Mon Aug 31. Thanksgiving break ~Wed Nov 25–Sun Nov 29 (Thanksgiving Thu Nov 26). Reading period / finals ~Mon Dec 14–Fri Dec 18. Christmas break ~Sat Dec 19–Sun Jan 17. Spring semester begins ~Mon Jan 18.
+**Calendar anchor:** Academic year runs late August through early May. Fall semester begins ~Mon Aug 31. Thanksgiving break ~Wed Nov 25–Sun Nov 29 (Thanksgiving Thu Nov 26). Reading period / finals ~Mon Dec 14–Fri Dec 18. Christmas break ~Sat Dec 19–Sun Jan 17. Spring semester begins ~Mon Jan 18. Spring commencement ~mid-May 2027. **Summer 2027** (~mid-May–mid-Aug) is the climax act (Volume Three); the novel's coda is Vee's return in **early fall 2027**.
 
-**Hidden-year device (never surfaced to the reader):** the fall semester is pinned internally to **2026** (spring to **2027**) *solely* to fix the day-of-week ↔ date mapping — so weekends, weeknights, and "stats day (MWF)" land on real weekdays. The year is an authoring tool only: it is **never named or implied on the page**, and only the *day of week* and *time of year* it produces are load-bearing, never the specific dates. (2026 also quietly lengthens Randi's window of PPP-money enjoyment.) Anchors here reflect the real 2026–27 calendar: Nov 1 2026 = Sun; Thanksgiving = Thu Nov 26; finals week = Mon Dec 14–Fri Dec 18.
+**Hidden-year device (never surfaced to the reader):** the fall semester is pinned internally to **2026** (spring, summer, and the early-fall coda to **2027**) *solely* to fix the day-of-week ↔ date mapping — so weekends, weeknights, and "stats day (MWF)" land on real weekdays. The year is an authoring tool only: it is **never named or implied on the page**, and only the *day of week* and *time of year* it produces are load-bearing, never the specific dates. (2026 also quietly lengthens Randi's window of PPP-money enjoyment.) Anchors here reflect the real 2026–27 calendar: Nov 1 2026 = Sun; Thanksgiving = Thu Nov 26; finals week = Mon Dec 14–Fri Dec 18.
 
 **Entry types:** `[SCENE]` full prose scene · `[VIGNETTE]` short beat, single image · `[EVENT]` not rendered, canonical backstory
 
@@ -50,12 +50,12 @@ DIPTYCH. Panel one: Randi drops into the aisle seat, runs the name-bit on Cassie
 *Early fall · week 4 · ~Thu Sep 24* · Draft complete · reviewed 2026-07-12 · `substitution.md` · [detail](meta-condensed-substitution.md)
 Randi texts Pace their location openly (Vee sees it and reads it as Randi texting some boy); Cassie clocks the summons and goes still. Vee deploys Randi's name-bit on Pace; Randi answers with a bare *"Randi."* He helps, takes her number. Cassie clocks that he showed no attraction to Randi — *"He looked at her the way you'd look at somebody's great-aunt"* — the not-a-prospect look (full personhood, no desire), which Vee privately recognizes as the look men give Cassie. Pace does NOT dehumanize Randi; he sees everyone, wants only Vee. The reader (who knows Pace and Randi are lovers and that Randi engineered the meeting to hide it) is left unsure whether it's flawless discipline or genuine only-eyes-for-Vee. The chapter ends on Vee hoping he'll reach out (she gave him her number; she can't text first). Plan formally live.
 
-### [SCENE] The Froyo Walk
-*Early fall · week 4 · ~Thu Sep 24, hours after Substitution* · Draft complete · `the-froyo-walk.md` · [detail](meta-condensed-the-froyo-walk.md)
+### [SCENE] The Long Way
+*Early fall · week 4 · ~Thu Sep 24, hours after Substitution* · Draft complete · `long-way.md` · [detail](meta-condensed-long-way.md)
 First proper date, hours after the meet-cute — his forthrightness, not a boy's delay. Small safe opener — frozen yogurt, daylight, nothing that asks too much. Establishes the courtship register her mother would approve; builds the trust the staircase will later spend. Before it ends he asks her out again, plainly, for the weekend (May I Choose) — the follow-through that proves the directness, no cool-boy gap. **Coda at the dorm:** Vee returns and tells Cassie in one paragraph — *a man, not a boy* — the soon date its proof; spoken to Cassie, never narrated as an internal verdict (Vee doesn't render crisp verdicts in her head; body before mind).
 
 ### [SCENE] Water Wings
-*Early fall · week 4 · ~Fri Sep 25, after the Froyo Walk, before May I Choose* · Draft complete · `water-wings.md` · Vee POV · Vee + Cassie · [detail](meta-condensed-water-wings.md) · [craft](meta-note-water-wings.md)
+*Early fall · week 4 · ~Fri Sep 25, after The Long Way, before May I Choose* · Draft complete · `water-wings.md` · Vee POV · Vee + Cassie · [detail](meta-condensed-water-wings.md) · [craft](meta-note-water-wings.md)
 A warm Vee-and-Cassie afternoon at the university pool, doing three quiet jobs: a **non-mother source** for Vee's body being "too much," the **involuntary anchor** of the desirability thread (neutral third parties want her while she does nothing to invite it — the objective proof Pace and Randi can't give as compromised witnesses), and the **setup for the Fitting** (the leer-wound Pace's non-leering gaze later dissolves). **Deck vs. water:** the body unhideable in a one-piece, the world's "too much" — whistles, a holler, her practiced armor; the wish to be "sleek like Randi" rendered as wanting to *disappear*, never ranking herself lower. In the water, **homecoming, not escape**: she loved the water before she had a body, and the same abundance that draws the leers is what exiled her from **synchro** (the ideal her build couldn't use) — she lost the sport, not the water; the fade carries the first love and a thread of grief. Five beats: Cassie grumbles into the required suit (indifferent to exposure — the contrast) → the body as the world's "too much" → Cassie pops it with the dry objective seal → she sinks into the first love, the grief under it → **Cassie splashes her out, Vee splashes back laughing** (the water as play, alive and shared, fade). Leers stay ambient (a crossing reads creepy — the specific bid lives at Jitterbug); the exile is resonance, never exposition; no prowess (protects **The Deep End**). Anchor of the desirability thread (`meta-note-desirability-thread.md`).
 
 ### [SCENE] May I Choose
@@ -386,6 +386,8 @@ The bench returns (opening payoff), now under Vee — *used on only two women, R
 
 **◆ VOLUME THREE — Summer**  ·  *the End — the rupture and the reveal*
 
+*Summer 2027. Vee and Randi stay for Dr. Marsh's two-site fieldwork (separate sites, long days, weekends only); Cassie is away on a nursing internship; Vee splits scarce free time between Pace's house and Randi. Weekend-scarcity and isolation are the engine — full frame: [summer plan](meta-plan-summer.md).*
+
 ## Late
 
 ### [SCENE] The Sheer Dress Brunch + The Dressing Room (Format Break)
@@ -428,8 +430,12 @@ Vee blindfolded at her own request. Randi withholds the kiss through the entire 
 *Immediately after the Threesome* · Architecture complete, prose not drafted · `meta-note-threesome-reveal.md` · [detail](meta-condensed-ending-sequence.md)
 Vee leaves with full knowledge, full anger, full ownership. Pace reads the wrong betrayal. Randi hollow, known at last, unable to feel her loss to its floor. The panties stay in his house — not a promise, an artifact.
 
+**◆ CODA — Early Fall 2027**  ·  *the return*
+
+*Vee back on campus; the intervening weeks (living with what happened) unrendered. The book closes fall-to-fall — the fall-2026 meet-cute to the fall-2027 telling.*
+
 ### [SCENE] The Cassie Scene — Thesis Delivery
-*Some days after · the novel's final scene* · Architecture complete, prose not drafted · Vee POV · Cassandra track · [detail](meta-arch-vivienne.md)
+*~early fall 2027 · Vee's return to campus, a few weeks after the reveal · the novel's final scene* · Architecture complete, prose not drafted · Vee POV · Cassandra track · [detail](meta-arch-vivienne.md)
 Vee tells Cassie everything — the telling forced by Pace and Randi vanishing the same day, made possible by the sovereignty Toenails lacked. Articulate about *what happened*, inarticulate about the *cost*; the one thing she can name is the label — *I chose the beige life* (the flat ordinary she dreaded at Christmas, now chosen with full sight; the beige-life thread closes). Cassie, having heard the whole wreckage, would sign up anyway — *where do I sign up?* — because the cost cannot be known until it is lived. The disagreement is experiential, not informational, and does not resolve: Vee no-with-data, Cassie yes-without-the-lived-loss; the reader, who lived it, holds Vee's frame. Full design: `meta-arch-vivienne.md` → The Cassie Scene. See [[meta-thesis]] (Rule 12; the three futures) and [[meta-note-old-acquaintances]].
 
 ---

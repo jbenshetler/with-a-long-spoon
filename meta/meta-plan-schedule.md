@@ -2,7 +2,7 @@
 
 *How in-world time is recorded across the project. Governs the calendar-anchor block, per-scene texture lines, and what may be pinned to a hard date.*
 *Companion to `meta-process-chronology.md` (which governs when/how the chronology is updated). This file governs the **time model itself**.*
-*Status: **Pass A (identity/names) applied; Pass B (texture + summer calendar) pending the summer-expansion decisions — see §6.***
+*Status: in force — names are the permanent handle; the calendar-anchor block and texture-line schema below are the standing convention. (Summer calendar still to be specified — see the anchor block.)*
 
 ---
 
@@ -26,17 +26,17 @@ The jobs are distinct and have **opposite stability profiles**:
 
 ### Layer 1 — Identity: the name
 
-The **distinctive scene name is the permanent handle.** "The Fitting," "The Froyo Walk," "Standards." All cross-references in all `meta-*` docs point at the name. A name never breaks on insertion, reorder, renumber, or calendar revision.
+The **distinctive scene name is the permanent handle.** "The Fitting," "The Long Way," "Standards." All cross-references in all `meta-*` docs point at the name. A name never breaks on insertion, reorder, renumber, or calendar revision.
 
 - **Cross-references use names, not numbers:** "see The Fitting," not "see scene 15."
-- **Optional stable ID (birth-order):** if a numeric handle is ever wanted (tooling, "X of ~41" tracking), assign a *never-reassigned birth-order* ID — the scene's permanent serial, unrelated to position. The Froyo Walk is born `#008` and dies `#008` regardless of where it sits or what month it lands in. New scenes take the next free integer. **This is optional; names already serve as handles.** Adopt only if numeric sorting in a tool becomes useful.
+- **Optional stable ID (birth-order):** if a numeric handle is ever wanted (tooling, "X of ~41" tracking), assign a *never-reassigned birth-order* ID — the scene's permanent serial, unrelated to position. The Long Way is born `#008` and dies `#008` regardless of where it sits or what month it lands in. New scenes take the next free integer. **This is optional; names already serve as handles.** Adopt only if numeric sorting in a tool becomes useful.
 - **"X of ~41 complete"** is a *count*, not a max-number. It lives as prose in `meta-brief.md`, computed from how many are drafted — never inferred from the highest scene number.
 
 ### Layer 2 — Sequence: phase-grouped, list-ordered
 
 Narrative order is carried by **phase grouping + position in the list**, not by a number.
 
-- Scenes are grouped under broad phases (the existing Phase 0–5 structure, plus a summer phase — see §6).
+- Scenes are grouped under broad phases (the existing Phase 0–5 structure, plus a summer phase once the summer is specified).
 - **Within a phase, order = the order entries are listed in the chronology doc.** The document's top-to-bottom line order *is* the sequence. Reordering = cut and paste an entry up or down within its phase. Nothing to recompute.
 - Sub-clusters (the former 15a–15e lettered grammar) **retire into plain adjacency** — scenes that belong together simply sit next to each other in the list. No special numbering grammar needed.
 - For same-moment ordering (diptych panels, brunch movements), a short within-entry note carries it: *"same afternoon," "second movement."*
@@ -71,7 +71,8 @@ This block lives at the top of `meta-plan-chronology.md`, replacing the current 
 > **Fall semester (2026)** — classes begin ~Mon Aug 31. Week 1 = Aug 31. Midterms ~mid-Oct (weeks 7–8). Thanksgiving break ~Wed Nov 25–Sun Nov 29 (Thanksgiving Thu Nov 26). Reading period / finals ~Mon Dec 14–Fri Dec 18.
 > **Winter break** — ~Sat Dec 19 – Sun Jan 17. (Town empties; campus dead. Load-bearing for Fairytale — the emptiness is the content, not the date.)
 > **Spring semester (2027)** — classes begin ~Mon Jan 18. Spring break ~mid March. Midterms ~late Feb. Reading period / finals late Apr–early May. Commencement ~Sat May 15.
-> **Summer** — *(TO BE SPECIFIED — see §6).* Candidate shape: Summer Session I ~mid-May–late June; Session II ~early July–mid-Aug; the long unstructured stretch is the texture, not the course schedule. Town half-empty, hot, slow; the academic-pressure layer goes silent.
+> **Summer 2027** — the climax act (Volume Three). Vee and Randi stay for **Dr. Marsh's two-site anthropology fieldwork** (long days, separate sites, weekends only); Pace at his house outside town; Cassie away on a nursing internship. Hot, town half-empty, slow; the academic-pressure layer is replaced by fieldwork and heat. Full frame: `meta-plan-summer.md`.
+> **Early fall 2027** — the novel's coda: Vee returns to campus and tells Cassie (the final scene), a few weeks after the August reveal; the gap unrendered.
 >
 > **Seasonal weather (Blacksburg / Virginia Tech, SW Virginia, ~2,000 ft elevation — cooler and later-turning than lowland Virginia):**
 > - *Late Aug–Sep:* warm days, cool nights, leaves green. Move-in heat.
@@ -83,7 +84,7 @@ This block lives at the top of `meta-plan-chronology.md`, replacing the current 
 > - *Apr–early May:* green returns, dogwoods, warm by commencement.
 > - *Summer:* hot, humid, afternoon thunderstorms; green and heavy.
 
-**Year specificity:** the year is now pinned internally to **fall 2026 / spring 2027** (hidden-year device — see the anchor block and `meta-arch-bible.md`), so the anchors above are the real 2026–27 VT-style calendar. The year is **never surfaced to the reader**; only the day-of-week and season it produces are load-bearing. If the prose ever names a year or a dated real campus event, keep it consistent with this pin. Blacksburg's elevation is the detail most likely to be gotten wrong by defaulting to generic "Virginia" — keep the turn late and the cold real.
+**Year specificity:** the year is now pinned internally to **fall 2026 through early fall 2027** (the fall-2026 semester, spring–summer 2027, and the early-fall-2027 coda) (hidden-year device — see the anchor block and `meta-arch-bible.md`), so the anchors above are the real 2026–27 VT-style calendar. The year is **never surfaced to the reader**; only the day-of-week and season it produces are load-bearing. If the prose ever names a year or a dated real campus event, keep it consistent with this pin. Blacksburg's elevation is the detail most likely to be gotten wrong by defaulting to generic "Virginia" — keep the turn late and the cold real.
 
 ---
 
@@ -98,8 +99,8 @@ A date earns a hard pin **only when the prose depends on the specific day**, not
 
 Day-of-week is load-bearing (the hungover day-after, the empty house). Pinned hard. Everything else relative.
 
-**All-soft case — The Froyo Walk:**
-> *Season: early fall, warm, leaves green, cool evening ("gone blue and cool"). Term: week 3, pre-midterm, settling-in. Day: a weekday (soft) — "a Tuesday" in draft, flavor only. (≈ wk of Sep 18.)*
+**All-soft case — The Long Way:**
+> *Season: early fall, warm, leaves green, cool evening ("gone blue and cool"). Term: week 4, settling-in, pre-midterm. Day: omitted — the prose names no day-of-week; timing is carried relatively ("hours after the meet-cute," "by evening"). (≈ Thu Sep 24.)*
 
 Nothing pinned. Reorder it, add a summer, shift the calendar — the *warm-day / cool-evening / early-fall / nothing-due-yet* texture is untouched, because that is what the prose was written against.
 
@@ -110,43 +111,11 @@ The *break window* is pinned (the empty town is the engine); the specific date i
 
 ---
 
-## §6 — The Two Migration Passes
-
-The original plan bundled everything into one after-summer pass. That was a mistake: **identity (the name) has no dependency on the summer decisions** — a name encodes neither position nor date, so summer shape cannot affect it. And the name migration is exactly what makes expansion cheap (a name never breaks on insertion). So it is **decoupled** and run first; only the texture/calendar work waits for summer.
-
-### Pass A — Identity (applied)
-
-Summer-independent; the name migration is what makes expansion cheap (a name never breaks on insertion), so it ran first.
-
-- **Birth-order IDs: declined.** The name is the sole handle; no numeric IDs adopted. Revisit only if tooling ever needs numeric sorting (they would be assigned never-reassigned, so adopting them later is itself expansion-safe).
-
-### Pass B — Texture + calendar (after-summer)
-
-**Decisions required first (blockers — these genuinely depend on summer):**
-
-1. **Summer shape.** Does the configuration run hot through summer, attenuate, or break? This determines whether summer is a phase full of scenes or a thin connective stretch — and therefore the summer anchor's content.
-2. **Who is on campus in summer.** Vee, Pace, Randi — who stays, who leaves, who takes a session? The academic-pressure layer goes silent in summer; what replaces it as ambient texture (jobs, near-empty town, heat) depends on this.
-3. **Year specificity** (see anchor block). Pin to a real VT calendar or keep `~` estimates.
-
-**Migration steps (one pass, once the above are decided):**
-
-- [ ] Replace the single-line calendar anchor in `meta-plan-chronology.md` with the full anchor block above, **with the summer section filled in.**
-- [ ] Add a summer **phase** to the chronology (insert/renumber phases as the summer's position requires).
-- [ ] Convert every entry to carry a **texture line** (Layer 3 format).
-- [ ] Demote any remaining hard dates that aren't load-bearing to relative `(≈ …)` estimates; keep only the **(hard)**-tagged pins, each with a stated reason. *(Partly done: the condensed/note briefs already carry only relative anchors and the chronology owns all dates.)*
-- [ ] Move relative placement constraints (currently in the continuity-flags section, e.g. the Fairytale placement flag) onto the relevant scenes' texture lines, so placement logic sits with the scene.
-- [ ] Update `meta-process-chronology.md`: add **texture line** as a required field in "What Every Entry Must Contain," and the rule that **absolute dates live only in the anchor block** (entries carry derived estimates, never hard pins except where tagged **(hard)** with a reason).
-
-**Standing rule after migration:**
-- New scenes: assign a **name**, drop into the correct **phase** at the correct line, write a **texture line**. No renumbering. No date pin unless **(hard)** with a reason.
-
----
-
 ## What This Costs (eyes open)
 
 - **Reordering is never free** — *something* must record that a scene moved. This system shrinks the cost to updating one scene's position; it does not eliminate the move itself.
 - **"How far along at a glance"** is lost from the numbering and must come from a count in the brief instead.
-- **Verbal shorthand** is slightly longer ("the Froyo Walk" vs "scene 8") — but names were already the working register in conversation.
+- **Verbal shorthand** is slightly longer ("The Long Way" vs "scene 8") — but names were already the working register in conversation.
 - **One central maintenance point** — the anchor block — must be kept as the single source of truth. The payoff: revise the calendar once, never re-stamp scenes.
 
 The recurring renumbering tax is **not** the irreducible price of refactoring. It was avoidable, and this ends it. The irreducible price is small: when a scene moves, update where it sits — once.
