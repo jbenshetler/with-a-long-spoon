@@ -40,7 +40,7 @@ The doors clanked and started to slide shut — the elevator timing out, done wa
 
 "Hi." He didn't fill the space after it or make her account for the smallness. He only asked if she minded walking, and held the door — and didn't tell her where, which she decided not to ask about, because not knowing was its own small pleasure and she was already learning she could trust where he was taking her.
 
-The place was close enough to walk to, which she hadn't expected — off a split block a few streets back from campus, a stretch she'd somehow never turned down in two years of living a ten-minute walk away. He took her down it like it was obvious, and it wasn't, and that was the first nice thing: a part of her own small city she'd never seen, and he just knew it, easily; he seemed to know more of the world than she did.
+The place was close enough to walk to, which she hadn't expected — off a split block a few streets back from campus, a stretch she'd somehow never turned down in two years of living a ten-minute walk away. He took her down it like it was obvious, and it wasn't, and that was the first nice thing: a part of her own small city she'd never seen, and he just knew it; he seemed to know more of the world than she did.
 
 They walked without rushing. He kept to the street side without making anything of it. The talk came easy and she couldn't have said about what — the walk and the talk were the same unhurried thing, and the block opened up ahead of them, low lit, a couple of dark storefronts and then one that wasn't, warm yellow spilling out onto the pavement.
 
