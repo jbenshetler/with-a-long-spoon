@@ -267,7 +267,7 @@ She can't take the mixer kiss to Randi (naming it exposes her own want) and Cass
 She balks at the lifts (*too heavy*); he offers and waits at the consent line. Airborne escalation; shame-to-ease. Rehearsal-for-restraint — rhymes bondage and the blindfold. **This is the Brooks and Dunn tribute night Sheri invites Pace to at `The Usual` (~late Dec)** — he comes and brings *the redhead*, paying off her "you're dancing, and I don't care what the redhead's got to say about it"; Sheri is a CW regular and may be on the floor.
 
 ### [SCENE] Vee Tells Randi About the Dance (The Jar)
-*~within a few days of the Jitterbug* · Unwritten · SATC · [detail](meta-condensed-vee-tells-randi-dance.md)
+*~Feb 10 · within a few days of the Jitterbug* · Unwritten · SATC · [detail](meta-condensed-vee-tells-randi-dance.md)
 The dance as the funny story. Then the jar — what his invisible chosen gentleness did to her. Voice changes mid-telling. Randi files the cruelest datum: tenderness/restraint is the load-bearing wall of what Vee feels. Off-page consequence (never marked in text): this is the witnessed-aliveness scene that detonates the drawer's first visit — Fairytale (both flames or no fire; nothing outside the configuration) → the Jar (Vee thriving openly on the exposure Randi can only endure — envy-of-capacity, the water-glass nerve, at full amperage) → the taking, on a weekday in the following weeks. The fuse is visible only on reread.
 
 ### [SCENE] On Top
@@ -303,11 +303,11 @@ Vee at the drawer mid-ritual: is the form lower than it should be? A steeper dro
 Randi wears Vee's scrunchies around Vee — and Vee is **thrilled**: the glamour queen is mimicking *her* style. The evidence lives in the open, filed under flattery — the loving-Randi cover, twin to grain #3's loving-Pace cover; every corrupted datum in the campaign gets explained by love. First instance spoken — Vee delighted (*"did I actually convert you?"*), Randi's double-register reply (*"You've ruined me. I used to have standards."*); recurrences unremarked, set dressing only. Late variation, post-Restoration: one sighting where the delight takes a half-second longer to arrive — the only trace her instrument is still running underneath. The reader, carrying the First Flicker, gets the jolt (*wait — are those—?*) while Vee beams; unprovable either way. The only mutuality Vee ever perceives in the friendship — at last something flows from her to Randi — and it's the theft.
 
 ### [VIGNETTE] Randi — Social Price #1
-*~spring · slot TBD when spring drafting begins (flag 16 window)* · Unwritten · Randi/sorority
+*~March · slot TBD when spring drafting begins (flag 16 window)* · Unwritten · Randi/sorority
 Chapter meeting, or Brooke again, or a sister's offhand comment — the social tax of Randi's choices made legible. She's missing events, losing standing, choosing the plan over the frame she used to own. She absorbs it without flinching. The plan is worth it; she's still in control. First visible depletion of the social capital she's been spending — the cost Spring Inversion held invisible, now surfacing in company.
 
 ### [VIGNETTE] Randi — Social Price #2
-*~spring, later than #1 · slot TBD* · Unwritten · Randi/sorority
+*~April · later than #1 · slot TBD* · Unwritten · Randi/sorority
 The accumulated cost of months of absence — events skipped, standing not collected, the chapter's social fabric pulling away. Not a confrontation; a quiet audit. The plan has cost more than she accounted for. She's still choosing it.
 
 ### [SCENE] The Burn
@@ -343,7 +343,7 @@ Cassie tries to reconnect; Vee shows up half-present. Cassie says the thing — 
 **The first scene Vee authors.** A quiet domestic beat: she invites *him* — the "adventure" word turned bidirectional at last (she coined it at Still Life, Pace pointed it forward at the cabin; now she uses it to invite). She hands Pace the *premise*, not a script — shy-brave, native voice, small words (the persona is cover she can want behind, not banter she performs): a **space princess** chased, caught, stripped, "interrogated" by a galactic overlord for **secret plans she'll never reveal**. She leaves the "torture" **unspecified** (*you decide*); the unreleased plans are the only rule. She schemes the *wish*; she does **not** run it. First read: brave, fun, her most confident ask. Reread: the first time she holds the pen she writes herself a cage — her authorship and the machinery that runs her are the same act.
 
 ### [EVENT] Secret Plans — Pace Builds (off-page, never rendered)
-*~the following week · NOT A SCENE* · [detail](meta-condensed-secret-plans.md)
+*~late March · the week after The Ask · NOT A SCENE* · [detail](meta-condensed-secret-plans.md)
 Making-as-love (rhymes the dress, the key box). He crafts a **princess costume that barely covers her at rest and gives her away in motion**, seamed with **few stitches so it tears off a piece at a time** — a gorgeous thing built to come apart (tender AND instrumental). The sci-fi frame licenses **"alien tech" normally outside his register**: a **vibrator** and a **nipple corrector** (suction run in cycles/pulses, pleasure or light pain). License is diegetic; structurally the devices fold *into* his signature — another lever for owning *when* relief arrives. Off-page protects the surprise for Vee and reader both.
 
 ### [SCENE] Secret Plans — The Princess (Vee's Adventure)
@@ -407,7 +407,7 @@ Diptych. Sunday: Randi post-coital with Pace, negotiating more time, accidentall
 Vee retells the bench (the late-May apex) to Randi, not knowing Randi was ever on it. Placed for maximum scald: Randi, just wrecked in Ignition, hears the blooming — the staying-open her apparatus couldn't do — narrated in detail by the woman who could. Fresh proof that Pace's seeing was real and the failure was hers. Double register holds; the wound shows only in the wordless tells (the cup, a control raw from Ignition). Goodbye-kiss at the late/pre-seam rung, a candidate for the first real control-slip. The configuration-as-agent at maximum voltage — Vee in good faith the agent of the deepest harm. The bench itself is the Volume Two curtain; this retelling sits in Volume Three, so the volume break is the gap that loads the scald.
 
 ### [SCENE] First Taste (the taste-domino) `[slot TBD]`
-*~late spring · slot + ordering vs. the threesome agreement TBD* · Unwritten · [craft](meta-note-taste-thread.md)
+*~early July · slot + ordering vs. the threesome agreement TBD* · Unwritten · [craft](meta-note-taste-thread.md)
 The self-taste crossing — apex of the year-long self-taste thread (beat-spine and planting discipline: `meta-note-taste-thread.md`). The **ivory nightie** (costs him; no panties; the fit establishes value; inverse of the hiking shirt; pearls worn with it) and the **tasting-herself sequence**: she checks the whiskey/white-wine frame (already hers from Whiskey and Wine) against her own tongue; he bypasses the kiss, samples with his penis, offers a taste; *"A shot?"*; the inducement. She crosses the line she drew; the open loop from The Reach closes. (The ivory cami + tight satin panties variant lives here too — reconcile with the canon nightie's no-panties logic when drafting.) Land it by ~June or early July, before The Peaches, so the Peaches → The First Love → Threesome run into the reveal stays clean.
 
 ### [SCENE] The Peaches
@@ -427,7 +427,7 @@ Randi crosses from exposure into evaluation — the one register Vee can't toler
 Vee blindfolded at her own request. Randi withholds the kiss through the entire encounter. Vee's body catalogs the known mouth anyway. When the blindfold comes off, Vee — the one who literally could not see — becomes the only one who finally does.
 
 ### [SCENE] The Ending Sequence
-*Immediately after the Threesome* · Architecture complete, prose not drafted · `meta-note-threesome-reveal.md` · [detail](meta-condensed-ending-sequence.md)
+*~early August · immediately after the Threesome* · Architecture complete, prose not drafted · `meta-note-threesome-reveal.md` · [detail](meta-condensed-ending-sequence.md)
 Vee leaves with full knowledge, full anger, full ownership. Pace reads the wrong betrayal. Randi hollow, known at last, unable to feel her loss to its floor. The panties stay in his house — not a promise, an artifact.
 
 **◆ CODA — Early Fall 2027**  ·  *the return*
@@ -435,7 +435,7 @@ Vee leaves with full knowledge, full anger, full ownership. Pace reads the wrong
 *Vee back on campus; the intervening weeks (living with what happened) unrendered. The book closes fall-to-fall — the fall-2026 meet-cute to the fall-2027 telling.*
 
 ### [SCENE] The Cassie Scene — Thesis Delivery
-*~early fall 2027 · Vee's return to campus, a few weeks after the reveal · the novel's final scene* · Architecture complete, prose not drafted · Vee POV · Cassandra track · [detail](meta-arch-vivienne.md)
+*~Sun Sep 5, 2027 · Vee's return to campus, a few weeks after the reveal · the novel's final scene* · Architecture complete, prose not drafted · Vee POV · Cassandra track · [detail](meta-arch-vivienne.md)
 Vee tells Cassie everything — the telling forced by Pace and Randi vanishing the same day, made possible by the sovereignty Toenails lacked. Articulate about *what happened*, inarticulate about the *cost*; the one thing she can name is the label — *I chose the beige life* (the flat ordinary she dreaded at Christmas, now chosen with full sight; the beige-life thread closes). Cassie, having heard the whole wreckage, would sign up anyway — *where do I sign up?* — because the cost cannot be known until it is lived. The disagreement is experiential, not informational, and does not resolve: Vee no-with-data, Cassie yes-without-the-lived-loss; the reader, who lived it, holds Vee's frame. Full design: `meta-arch-vivienne.md` → The Cassie Scene. See [[meta-thesis]] (Rule 12; the three futures) and [[meta-note-old-acquaintances]].
 
 ---
