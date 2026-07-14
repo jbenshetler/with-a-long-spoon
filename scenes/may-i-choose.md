@@ -20,6 +20,12 @@ Anyone but Cassie.
 
 "He's not making you wait, is he." The grin came up under Cassie's surprise. "What've you got on this man?"
 
+She set the phone screen-down on the blanket, which cost her more than it should have. "The other ones always made you answer. Right then, on the phone." It came sideways, ahead of her deciding to say it. Then, because Cassie didn't date and wouldn't have the mechanics of it, she said the rest half to herself: "So they'd know where they stood." She turned the last of it over before she let it go. "He just left it with me. Like it could keep."
+
+Cassie took a second with it. She teased Vee about everything; she didn't tease her about this.
+
+"That's not a boy," she said. "That's a man."
+
 ---
 
 It was the first time he'd come to get her. The froyo — that had been daylight, easy, the kind of thing that could turn out to be nothing. This was an evening, and he'd asked her for it like something he meant to do properly.
