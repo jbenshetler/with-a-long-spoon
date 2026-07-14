@@ -267,3 +267,18 @@ The coda's forward-narration is **load-bearing plant, not thesis-y summary.** Th
 - [ ] **fitting.md L268** — **TRIM/REVIEW** "this was going to matter to her later, in ways she couldn't yet see" — telegraphs significance; soft.
 - [ ] **the-bench.md L545** (Pace POV) — **REVIEW** the "tomorrow… waiting for the next time" coda: atmospheric, borderline; light trim only if minimizing codas.
 - [ ] **KEEP** (fact/compression, or the POV character's own live reasoning — not violations): see-you-later.md L135 (selective memory) & L137 (Vee's present dismissal of Cassie's goodbye — close-third-legal); fairytale.md L137 (Randi's own reasoning); burn.md L161 (present closing image); old-acquaintances.md L51 (Vee's forward musing); the-pointing-game.md L37 & L49 (Pace's intent/plan = fact).
+
+-----
+
+# Pace Wardrobe — Flannel Continuity
+
+## 30. Flannel-gift wording — confirm "a few," not his last (VERIFY — later)
+
+The wardrobe canon now scopes the "four-shirt wardrobe" to Pace's going-out
+broadcloth and records the **flannels** as *a few, handmade off his own bolt of
+shirting cloth*, worn as shop/woods tools (`meta-arch-bible.md`; rendering guard
+in `meta-craft-pace.md`). When next touching `hiking-rainstorm` (the gift) and
+`grace` / the blindfold, confirm the prose does not imply the flannel is his
+*only* / last one, and that Vee's keeping it reads as intimate, not depriving —
+consistent with "a few." A prior lookup found no canon asserting a single
+flannel, so this is a sanity pass, not a retcon.
