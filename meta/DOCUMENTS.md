@@ -114,7 +114,7 @@ One file per non-trivial scene; the chronology entry links to it. To work on a s
 | `meta-condensed-long-way.md` | The Long Way |
 | `meta-condensed-walk-home-kiss.md` | The Walk-Home Kiss |
 | `meta-condensed-may-i-choose.md` | May I Choose |
-| `meta-condensed-vee-tells-cassie-dinner.md` | Vee Tells Cassie — Dinner |
+| `meta-condensed-off-six-fourteen.md` | Off Six-Fourteen |
 | `meta-condensed-the-smoothie-shop.md` | The Smoothie Shop |
 | `meta-condensed-hiking-rainstorm.md` | The Hiking Rainstorm |
 | `meta-condensed-vee-tells-cassie-hike.md` | Vee Tells Cassie — Hike (pure-romance telling; pairs with Toenails) |
@@ -194,7 +194,7 @@ Listed in chronological order (filesystem = `scenes/`; order, names, and status 
 | `substitution.md` | Substitution | complete |
 | `long-way.md` | The Long Way | complete |
 | `may-i-choose.md` | May I Choose — The Dinner (the first surrender) | complete |
-| `vee-tells-cassie-dinner.md` | Vee Tells Cassie — Dinner | complete |
+| `off-six-fourteen.md` | Off Six-Fourteen | complete |
 | `the-smoothie-shop.md` | The Smoothie Shop | complete |
 | `hiking-rainstorm.md` | The Hiking Rainstorm | complete |
 | `vee-tells-cassie-hike.md` | Vee Tells Cassie — Hike | complete |

@@ -8,4 +8,4 @@ Quiet dramatic irony (Cassie, who warned about Pace at the meet-cute, doesn't re
 
 Highlighter down, *Oh, Vee.*
 
-Distinct from the dinner-night telling (Vee Tells Cassie — Dinner): that is the giddy first-kiss / agency beat the same night as May I Choose; this is the later, deepening telling after the hike. Pairs structurally with the after-beat (Toenails) as its photographic negative.
+Distinct from the dinner-night telling (Off Six-Fourteen): that is the giddy first-kiss / agency beat the same night as May I Choose; this is the later, deepening telling after the hike. Pairs structurally with the after-beat (Toenails) as its photographic negative.

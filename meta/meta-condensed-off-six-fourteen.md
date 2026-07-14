@@ -1,6 +1,6 @@
-# Condensed — Vee Tells Cassie — Dinner
+# Condensed — Off Six-Fourteen
 
-*VIGNETTE · Draft complete · `vee-tells-cassie-dinner.md` · the same evening as May I Choose · Vawter Hall, the dorm room · Vee's POV · Cassandra track*
+*VIGNETTE · Draft complete · `off-six-fourteen.md` · the same evening as May I Choose · Vawter Hall, the dorm room · Vee's POV · Cassandra track*
 
 ## Summary
 

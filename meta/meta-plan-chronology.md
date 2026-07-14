@@ -62,8 +62,8 @@ A warm Vee-and-Cassie afternoon at the university pool, doing three quiet jobs: 
 *Early fall · week 4 · ~Sat Sep 26 · the second date* · Draft complete · `may-i-choose.md` · [detail](meta-condensed-may-i-choose.md) · reviewed: 2026-07-13
 The first surrender. Safety assembled brick by brick at a Middle Eastern restaurant until her lifelong self-monitoring goes quiet and she goes under. The drip triggers it; mint tea surfaces her gently. The kiss is the surrender's second occurrence, elected. Plants: hand-motif, breach-verb (*"let the thread go"*), the *may* register deepened.
 
-### [VIGNETTE] Vee Tells Cassie — Dinner
-*Early fall · ~Sat Sep 26 · the same evening as May I Choose* · Draft complete · Cassandra track · `vee-tells-cassie-dinner.md` · [detail](meta-condensed-vee-tells-cassie-dinner.md)
+### [VIGNETTE] Off Six-Fourteen
+*Early fall · ~Sat Sep 26 · the same evening as May I Choose* · Draft complete · Cassandra track · `off-six-fourteen.md` · [detail](meta-condensed-off-six-fourteen.md)
 Same night as May I Choose, Vee comes in lit up and tells Cassie mid-recount. The clean baseline in the truest register, before Randi reshapes the material. Agency spine: she claims the kiss as her own act (*I made him stop… I did it. Me.*); the drink-question establishes she chose it sober. Plants the too-fast *yes* to hiking (primary placement), the who-is-he answered as a road-number "dossier," and the class question (*rich people hike, poor people walk*). Closes warm; the dread is structural, never on anyone's face. Distinct from Vee Tells Cassie — Hike, the later, deepening telling after the hike.
 
 ### [SCENE] The Smoothie Shop
@@ -76,7 +76,7 @@ First hike: short steep climb through a tunnel of trees to a black-rock summit o
 
 ### [SCENE] Vee Tells Cassie — Hike
 *Early fall · ~Sun Oct 4 · within a day of the hike, before the Fitting* · Draft complete · Cassandra track · `vee-tells-cassie-hike.md` · [detail](meta-condensed-vee-tells-cassie-hike.md)
-The pure romantic beat. Vee tells Cassie about the hike, the kept shirt, and the deciding, in the unperformed warm register Cassie can hold: the clean baseline of her feeling for Pace, before shame and before Randi reshapes the material, so the later contamination has something to contaminate. Distinct from the dinner-night telling (Vee Tells Cassie — Dinner), the giddy first-kiss agency beat; this is the later, deepening telling after the hike. Photographic negative of Toenails: the romance Cassie can hold here, set against the bodily shame she cannot hold there. Cassie, who flagged Pace at the meet-cute, doesn't re-litigate.
+The pure romantic beat. Vee tells Cassie about the hike, the kept shirt, and the deciding, in the unperformed warm register Cassie can hold: the clean baseline of her feeling for Pace, before shame and before Randi reshapes the material, so the later contamination has something to contaminate. Distinct from the dinner-night telling (Off Six-Fourteen), the giddy first-kiss agency beat; this is the later, deepening telling after the hike. Photographic negative of Toenails: the romance Cassie can hold here, set against the bodily shame she cannot hold there. Cassie, who flagged Pace at the meet-cute, doesn't re-litigate.
 
 ### [SCENE] The Fitting
 *Early fall · ~Sat Oct 10* · Draft complete · `fitting.md` · [detail](meta-condensed-fitting.md)
