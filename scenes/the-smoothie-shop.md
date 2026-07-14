@@ -6,7 +6,7 @@
 
 The professor took them up to the edge of something he found more interesting than they did, glanced at the clock, and let it drop. "We'll pick that up next time," he said, in the voice of a man reading aloud from a phone bill, and the room came apart on the words, sixty people deciding at once that the hour was over.
 
-Cassie was already up, cap on, bag on one shoulder, with the small readiness of a person who has somewhere to be and is glad of it. Her eyes went past Vee to Randi, who had turned all the way around in her seat and was saying something with her whole lit face, and something in Cassie quietly settled and closed.
+Cassie was already up, cap on, bag on one shoulder, with the small readiness of a person who has somewhere to be and is glad of it. Her eyes went past Vee to Randi, who had turned all the way around in her seat and was saying something with her whole lit face, and something in Cassie's face quietly settled and closed, and she looked away.
 
 "I'll see you at the dorm," she said. Easy. Already going.
 
@@ -16,7 +16,7 @@ Cassie was already up, cap on, bag on one shoulder, with the small readiness of 
 
 "Pace."
 
-"Pace." She said it back the way you repeat a cross street, already past it. "How is it going with Pace, because you have had a look on your face for fifty minutes and you think I can't read it but I read it from across the room."
+"Pace." She said it back, already past it. "How is it going with Pace, because you have had a look on your face for fifty minutes and you think I can't read it but I read it from across the room."
 
 Vee felt whatever the look was warm and spread on her face. "It's going," she said, which was nothing, a door held not quite shut.
 
@@ -26,17 +26,17 @@ Vee felt whatever the look was warm and spread on her face. "It's going," she sa
 
 "Fair," Randi said, easy, already elsewhere.
 
-And Vee thought, the way you grab a jacket on the way out without looking at it, that it was fine to have your own people. Cassie had the team and the lab and a dozen things Vee was no part of, and nobody ever called that anything but healthy. The thought settled her comfortably down into herself. Underneath it something small turned over that she did not pick up, and she walked out into the day beside Randi instead.
+And Vee thought, the way you grab a jacket on the way out without looking at it, that it was fine to have your own people. Cassie had the team and the lab and a dozen things Vee was no part of, and nobody ever called that anything but healthy. The thought settled her comfortably down into herself. Underneath it something turned over, small, and she let it lie, and walked out into the day beside Randi instead.
 
 ---
 
 October had decided, for once, to be kind to Blacksburg. The light came long and clean off the brick and the mountains had gone that hard high blue, and Vee walked out into it next to Randi feeling, frankly, like a person things happened to. Good things. A man who looked at her as though she were the answer to a question he'd been carrying around. A girl who could have spent her forty minutes on anyone, her arm warm against Vee's as they walked, spending them on her. Vee had been fine for two years. This was not fine. This had color in it.
 
-The Smoothie Bird sat on its corner with the windows full of orange. The first thing was the cold of the air conditioning, the second was the noise of it, blenders and voices all pitched a little up, and the third, which Vee felt well before she could have named it, was that the room was full of girls who looked as though they had all gotten dressed in the same room. Leggings, the cropped quarter-zips, hair up, faces done light and exact. She had worn the cardigan over the better shirt, the way she did most mornings, the soft one gone a little pilled at the cuffs, and in a room of bare arms and cropped quarter-zips it covered her like an apology. The walls ran white up to a band of hot citrus near the ceiling, and the place smelled of fruit and someone's hairspray and someone's perfume over that, and Vee, who had come in lit, felt some of the light go out of her in the doorway without understanding why, the way you can feel underdressed before you have looked at a single person.
+The Smoothie Bird sat on its corner with the windows full of orange. The first thing was the cold of the air conditioning, the second was the noise of it, blenders and voices all pitched a little up, and the third, which Vee felt well before she could have named it, was that the room was full of girls who looked as though they had all gotten dressed in the same room. Leggings, the cropped quarter-zips, hair up, faces done light and exact. She had worn the cardigan over the better shirt, the way she did most mornings, the soft one gone a little pilled at the cuffs, and in a room of bare arms and cropped quarter-zips it covered her like an apology. The walls ran white up to a band of hot citrus near the ceiling, and the place smelled of fruit and someone's hairspray and someone's perfume over that, and Vee, who had come in lit, felt some of the light go out of her in the doorway without understanding why, underdressed before she had looked at a single person.
 
 They ordered at the counter with their bags still on their shoulders. Randi ordered something the boy had to ask her to say again, beet and wheatgrass and egg white and oat milk, blended down with ice, a drink the color of a bruise that sounded like a sentence handed down, and she ordered it the way she ordered everything, as though the having of it had been settled some time ago. Vee got the strawberry banana. With oat milk, she said, in place of the regular, and felt faintly that she had said the oat milk because Randi was standing right there, and let herself not look at that either.
 
-The only seats left were a high white table in the window, two tall chairs that left your feet hanging. Vee climbed onto one and understood at once that she had been set up on a shelf. The window at her back, the whole bright room laid out in front of her, her drink already sweating in her hand. She felt, up there, like a thing the room could turn and look at. She didn't like it and didn't know what to do with not liking it, so she did the thing she did, which was lean in toward Randi and decide to be happy.
+The only seats left were a high white table in the window, two tall chairs that left your feet hanging. Vee climbed onto one and understood at once that she had been set up on a shelf. The window at her back, the whole bright room laid out in front of her, her drink already sweating in her hand. Up there, she was a thing the room could turn and look at. She didn't like it and didn't know what to do with not liking it, so she did the thing she did, which was lean in toward Randi and decide to be happy.
 
 "Okay," Randi said, settling onto the tall chair as though it were a throne and not a punishment. "Before you give me your good news, you have to hear my catastrophe, so you understand what you have."
 
@@ -48,7 +48,7 @@ Vee laughed, the real kind, the kind that got up and out of her before she could
 
 "He's nothing like that." Vee felt her face go soft and a little stupid and let it. "Mine wasn't glamorous like yours. We walked. It was this tiny place I didn't even know existed, you'd go right past it, and it wasn't fancy at all, but the food." She lost the thread, found it again. "It was Middle Eastern. I couldn't read one word of the menu. And I told him so, I said I have no idea what any of this is, and he looked at it a second, and then he said, 'May I choose?'"
 
-She heard the small weight she put on it and didn't lift it back off. "May I. Not can I. Who even says that."
+She had put a little weight on it and didn't lift it back off. "May I. Not can I. Who even says that."
 
 "And you let him," Randi said.
 
@@ -80,21 +80,21 @@ It came from across the room, bright and certain, and Vee turned with the laugh 
 
 "Brooke," Randi said, warm, turning on the stool. "Hi."
 
-The older one's gaze finished its tour of Vee and handed back nothing but more smile. And Vee, up on her high chair with her pink drink sweating in her hand and her feet not reaching the floor, felt the bright thing she'd been holding go thin and careful, felt the whole room remember she was sitting in it.
+The older one's gaze finished its tour of Vee and handed back nothing but more smile. And Vee sat up on her high chair with her pink drink sweating in her hand and her feet not reaching the floor, and the bright thing she'd been holding went thin and careful, and the whole room remembered she was sitting in it.
 
-"We missed you Thursday," Brooke said to Randi, warm, and it was only friendly, and still it set down on the table the fact of a Thursday Vee knew nothing about, a room and the girls in it, a whole bright week with its own weather that Vee was no part of and had never been asked to be. She felt herself, up on her stool, go very slightly the wrong size for the room.
+"We missed you Thursday," Brooke said to Randi, warm, and it was only friendly, and still it set down on the table the fact of a Thursday Vee knew nothing about, a room and the girls in it, a whole bright week with its own private life that Vee was no part of and had never been asked to be. Up on her stool, she went very slightly the wrong size for the room.
 
 Then Brooke turned the smile on Vee, and it went wider by some exact amount, and Vee, who was being smiled at as warmly as anyone had smiled at her all year, felt herself shrink a size inside her clothes. "And who's your new friend?"
 
 "This is Vee," Randi said.
 
-And Vee, with the two finished women looking at her where she sat, did the thing she did, which was make herself smaller before anyone else could do it for her. "We have stats together."
+And Vee, with the two finished women looking at her where she sat, did the thing she did, which was make herself smaller, only this time not to get out in front of her own humiliation, but to leave nothing of herself worth holding against Randi, to be a girl from a stats class and no one's business at all. "We have stats together."
 
 "Vee's my dear friend," Randi said.
 
 She had taken Vee's hand somewhere in the saying of it, easily, the way she might have reached for anything on the table, her fingers cool and a little damp from the iced cup, and she held it there on the white top in plain view of the two of them and was in no hurry to let go.
 
-And something went through Vee at that, at *dear friend,* at the cool hand closing over hers in front of these women, that she could not have named and did not want to, a warmth that came with weight on it. She did not know what it had cost Randi to say it in front of them. She knew only, the way you know the temperature of a room without touching anything, that it had cost something, that Randi had spent it on her without appearing to count it, and that no one had chosen her out loud like that in a long time. The wrong-size feeling did not go away. It only stopped mattering next to the other thing.
+And something went through Vee at that, at *dear friend,* at the cool hand closing over hers in front of these women, that she could not have named and did not want to, a warmth that came with weight on it. She did not know what it had cost Randi to say it in front of them. She knew only, without being able to say how, that it had cost something, that Randi had spent it on her without appearing to count it, and that no one had chosen her out loud like that in a long time. The wrong-size feeling did not go away. It only stopped mattering next to the other thing.
 
 Brooke's smile took it all in, the *dear friend* and the cool hand on the table, and gave back nothing but more of itself. "We should all get dinner sometime," she said, which was lovely, and meant nothing, and was plainly the end of it.
 
