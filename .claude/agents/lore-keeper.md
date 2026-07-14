@@ -2,7 +2,7 @@
 name: lore-keeper
 description: MUST BE USED PROACTIVELY whenever the main session needs facts from other chapters, the character bible, individual character documents, the novel thesis, or any worldbuilding/continuity reference. Returns concise, sourced answers without dumping full documents into the main context.
 tools: Read, Grep, Glob, Bash
-model: haiku
+model: claude-sonnet-4-6
 memory: project
 ---
 
