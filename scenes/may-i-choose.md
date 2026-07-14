@@ -4,7 +4,7 @@
 
 ---
 
-The text came Friday evening, when she was still coming down off an afternoon in the water, chlorine in her hair, the good heavy tiredness of it sitting in her arms, Cassie folded up on the other bed with her knees to her chest, narrating a professor's crimes. Vee's phone lit on the desk and she reached for it without thinking, expecting nothing.
+The text came Friday evening, when she was still coming down off an afternoon in the water, chlorine in her hair, the good heavy tiredness of it sitting in her arms, Cassie folded up on the bottom bunk with her knees to her chest, narrating a professor's crimes. Vee's phone lit on the desk and she reached for it without thinking, expecting nothing.
 
 It was him. Saturday, he said. Dinner. He didn't say where, and he didn't ask her to answer that night.
 
@@ -20,7 +20,7 @@ Anyone but Cassie.
 
 "He's not making you wait, is he." The grin came up under Cassie's surprise. "What've you got on this man?"
 
-She set the phone screen-down on the blanket, which cost her more than it should have. "The other ones always made you answer. Right then, on the phone." It came sideways, ahead of her deciding to say it. Then, because Cassie didn't date and wouldn't have the mechanics of it, she said the rest half to herself: "So they'd know where they stood." She turned the last of it over before she let it go. "He just left it with me. Like it could keep."
+She set the phone screen-down on the blanket, which cost her more than it should have. "The other ones always made you answer. Right then, on the phone." It came sideways, ahead of her deciding to say it. Then she said the rest half to herself: "So they'd know where they stood." She turned the last of it over before she let it go. "He just left it with me. Like it could keep."
 
 Cassie took a second with it. She teased Vee about everything; she didn't tease her about this.
 
@@ -44,7 +44,7 @@ The place was close enough to walk to, which she hadn't expected — off a split
 
 They walked without rushing. He kept to the street side without making anything of it. The talk came easy and she couldn't have said about what — the walk and the talk were the same unhurried thing, and the block opened up ahead of them, low lit, a couple of dark storefronts and then one that wasn't, warm yellow spilling out onto the pavement.
 
-She hadn't eaten since breakfast. She'd meant to — there'd been a whole afternoon to walk over to the dining hall — but the afternoon had gone to other things: the dress and then the other dress, Cassie cross-legged on the bed delivering verdicts, the shoes borrowed off a girl down the hall because nothing of Vee's was right. Noon had come and gone somewhere in there and she hadn't felt it. It found her now — the hollow had been opening in her since midday without her noticing, and the smell off the warm doorway ahead reached into it and pulled. She was suddenly, enormously hungry.
+She hadn't eaten since breakfast. She'd meant to — there'd been a whole afternoon to walk over to the dining hall — but the afternoon had gone to other things: the dress and then the other dress, Cassie cross-legged on her bunk delivering verdicts, the shoes borrowed off a girl down the hall because nothing of Vee's was right. Noon had come and gone somewhere in there and she hadn't felt it. It found her now — the hollow had been opening in her since midday without her noticing, and the smell off the warm doorway ahead reached into it and pulled. She was suddenly, enormously hungry.
 
 Inside it was small, eight or nine tables and half of them full, and the smell reached her before the door had shut — garlic and char and something bright under it. The woman who came around the counter to seat them was older, gray coming in, a face worn soft by a lot of years of long days, and she knew him — something in her eased at who'd walked in, and he said "Christine" like a name he was glad to get to say. She sat them at a table by the wall and left them two menus, and the warmth of how she'd said hello to him stayed at the table after she'd gone.
 

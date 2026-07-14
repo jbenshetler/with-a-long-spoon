@@ -56,6 +56,8 @@ Tall (5'8"), built on a lavish scale — full, soft breasts, a deep waist, hips 
 
 Working-class means, working-class pride. Concrete object: a modest **Corolla** — bought *new* by her parents for her to take to college, made possible by her partial scholarship; her father, an airplane mechanic for a major commercial airline who works on jet engines, proud to be able to do this for her even though the cost pinches (*"keep the mileage down, it didn't come for free"* — the pride and the pinch in one line). Not a beater and not a leash: a stretched-for gift from people who love her. It carries the class contrast the prose runs on her own terms — her economy Corolla against Randi's self-tucking-in Mercedes — and sits beside the money-anxiety and independence-pride the dressing-room trap later turns against her. Render through object and behavior (the menu-price glance, the debit-card drop), never as stated hardship.
 
+**Academic year:** a junior — entering her third year by the fall the novel opens, two years already lived near campus.
+
 Family surface for Rock/backstory: Vee is from **Ohio**. Her parents grew up in the same city and met in church. Her mother is a nurse and defaults to **Vivienne**, carrying propriety/formality and the strict boundaries her mother sees; her father calls her **Vivienne** only when she is in trouble, otherwise **Vee**. She has one older brother, three years ahead, in the military and unmarried; they have no animosity but are not close.
 
 ---
