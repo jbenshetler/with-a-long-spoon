@@ -40,7 +40,7 @@ Randi's mouth curved. "The amount."
 
 "Two, three. And then there's mornings… and afternoons." She was pink now and past caring. "And it's not just the — he doesn't just go for the parts you'd think. It's all of me. His hands, his mouth, everywhere, like the whole of me is the— like there's not a part of me he doesn't want. And when he actually—" she made a small hopeless gesture "—he changes it up the whole time, fast then slow then some way I don't have a word for, and he's *strong,* he can hold me anywhere he wants me, and then a minute later he's so gentle I could cry. Both. The same night. I don't know how one person is both."
 
-Randi listened the way she listened, which was total, her wine forgotten, her eyes going to Vee's mouth when she talked and her hands when they moved, and Vee felt herself open under it like she always did, the best listener she'd ever had.
+Randi listened the way she listened, which was total, her wine forgotten, her eyes going to Vee's mouth when she talked and her hands when they moved, and Vee felt herself open under it like she always did, the best friend she'd ever had.
 
 "And it doesn't *stop,*" Vee said, quieter, because this was the part that scared her a little. "That's the thing nobody tells you. You'd think all that would — fill you up. Wear it out. It's the opposite. The more we do it the more I *want* it. I walk around Tuesday afternoon in the middle of the library and my whole body's just — thinking about Friday. I've got sex brain. I used to be a person with thoughts."
 
@@ -61,6 +61,12 @@ The plates came, the Benedict gold and glossy under a hollandaise gone slack and
 "Yeah." The word came out small. "Yeah. That's it exactly."
 
 Randi turned her glass a slow quarter-turn and back and said nothing for a second, letting Vee have it.
+
+"And it's—" She reached for it, because this one had no shape at all. "Talking to him is the easiest thing in the world. It just comes out of me, all of it — I'd confess anything, honest, just to have him hear me. But that's not even the strange part. Half the time we don't talk at all. I'll be sitting in his kitchen while he cleans up and neither of us has made a sound in I couldn't tell you how long, and it's not the kind of quiet you're supposed to hurry up and fill. I'm just there. Floating off."
+
+"And then I *sleep* there, Randi." Softer — this was the strangest of it and somehow the truest. "Actually sleep. The good kind, whole nights. It's just him and the trees out there, nobody else, all woods, and by the time we're through I'm wrung clean out and I go down like somebody reached over and switched me off. I didn't know I had it in me. I didn't know I *could.*"
+
+Randi didn't reach to make anything of it — no grin, no line to cap it. She only nodded, and let the quiet be quiet a moment.
 
 "And the *attention,*" Vee went on, because it was pouring now, the thing she'd never said out loud rising up to be said. "It's on me the whole time I'm there, not just — I mean even with my clothes on, which, ha, isn't a lot of the weekend—" Randi's laugh, low "—even then. I feel *looked at.* Not creepy-looked-at, not like a guy at a bar. The other thing. Like—" She was reaching for it and it came up on its own, surprising her as it left her mouth. "Like he wants *me.* With the body attached. Not — the other way around." She laughed, a little unsteady. "God, that sounds unhinged."
 
