@@ -108,11 +108,11 @@ The cherries came out of a small container. Dark red, near black where they were
 
 She spit the pit. It hit the rock a few feet off and rolled and stopped.
 
-"We take nothing and leave nothing," he said. Gentle. He leaned and picked the pit up between two fingers and folded it into a scrap of the wax paper.
+"We take nothing and leave nothing," he said. Gentle. He picked the pit up between two fingers, smoothed a square of wax paper open on the rock between them, and set the pit on it.
 
-Her face went hot. She hadn't known. The voice had its quick word for it — the *no one taught you* word, the *common* word — and Pace was already reaching for another cherry himself, and when his own pit came he spit it into a tissue from his pocket and folded it away and didn't look at her doing it.
+Her face went hot. She hadn't known. The voice had its quick word for it — the *no one taught you* word, the *common* word — and Pace was already reaching for another cherry himself, and when his own pit came he laid it on the wax paper beside hers and didn't look at her doing it.
 
-She took the next cherry. She ate it slow. When the pit came she caught it in her hand and put it in the tissue he'd set down by her knee, not looking, sometime in between.
+She took the next cherry. She ate it slow. When the pit came she caught it in her hand and put it with the others on the wax paper, not looking, sometime in between.
 
 She had it now. She had it and he hadn't made her small to give it to her. She reached for another cherry.
 

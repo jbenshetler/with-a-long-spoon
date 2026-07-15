@@ -613,6 +613,13 @@ text = "The voice had its quick word for it — the *no one taught you* word, th
 note = "inverse of the appreciation beat — he pointedly does NOT look (tact motif); author-blessed keep"
 
 [[ok]]
+fp   = "d1384750f138"
+rule = "look-at-her"
+file = "scenes/hiking-rainstorm.md"
+text = "The voice had its quick word for it — the *no one taught you* word, the *common* word — and Pace was already reaching for another cherry himself, and when his own pit came he laid it on the wax paper beside hers and didn't look at her doing it."
+note = "tact motif: he declines to watch her catch on to the pit etiquette (re-armed by wax-paper edit)"
+
+[[ok]]
 fp   = "f527be3a2477"
 rule = "look-at-her"
 file = "scenes/hiking-rainstorm.md"
@@ -758,6 +765,13 @@ rule = "x-not-y"
 file = "scenes/hiking-rainstorm.md"
 text = "When the pit came she caught it in her hand and put it in the tissue he'd set down by her knee, not looking, sometime in between."
 note = "info-level; correct/deliberate usage or working rhythm (interruption, embodied verb, idiom); author-blessed keeps"
+
+[[ok]]
+fp   = "cf3aaa3e97e6"
+rule = "x-not-y"
+file = "scenes/hiking-rainstorm.md"
+text = "When the pit came she caught it in her hand and put it with the others on the wax paper, not looking, sometime in between."
+note = "participial 'not looking' (covert), not the antithesis tic; single instance (re-armed by wax-paper edit)"
 
 [[ok]]
 fp   = "6a0dd1f82a5d"
