@@ -627,6 +627,13 @@ text = "It came out the way you reach for a thing before you've decided you want
 note = "earned simile — reflexive reach (body ahead of decision); author-chosen replacement for the 'of course' filler"
 
 [[ok]]
+fp   = "15c8967b6ed2"
+rule = "the-way"
+file = "scenes/hiking-rainstorm.md"
+text = "The bread was dry, the crust giving its small chew, and then the lettuce cold and loud against her teeth, and then the mustard came sharp and sour and woke her whole mouth, and then the meat under it, red and full and substantial, and then — a beat behind the rest, climbing — the heat of it bloomed all the way up into her sinuses and watered her eyes and pulled a gasp out of her, half a laugh, around the mouthful."
+note = "idiom 'all the way up' (bloomed), not the filtered tic (re-armed by sandwich re-render)"
+
+[[ok]]
 fp   = "2d9f3b05fff9"
 rule = "the-way"
 file = "scenes/hiking-rainstorm.md"

@@ -84,17 +84,17 @@ A few steps ahead of her he had stopped. When she looked over he was already loo
 
 They sat on the rock at the edge of it.
 
-He pulled the sandwiches from the pack, wrapped in wax paper twisted at the ends, and handed her one. The paper smelled of itself and then the sandwich smelled through it — rye first, deep and dark, the caraway and the grain of it, and under the rye the sharp clean bite of mustard, and under the mustard, climbing, the vapor of horseradish that found the back of her nose before she'd taken a bite of anything.
+He pulled sandwiches from the pack, wrapped in wax paper twisted at the ends, and handed her one. The paper smelled of itself and then the sandwich smelled through it — a dark bread first, deeper and more sour than the soft white loaf at home, with seeds in it she had no name for, and under the bread the sharp clean bite of mustard, sharper than the yellow kind out of the bottle, and under the mustard, climbing, a vapor with a heat in it that found the back of her nose before she'd taken a bite of anything.
 
 "Made them this morning," he said. "Lettuce against the bread. Keeps the bread from going through."
 
 She didn't have anything to do with that but eat. She bit.
 
-The bread was dry, the crust giving its small chew, and then the lettuce cold and loud against her teeth, and then the mustard came sharp and sour and woke her whole mouth, and then the meat under it, red and full and substantial, and then — a beat behind the rest, climbing — the horseradish bloomed all the way up into her sinuses and watered her eyes and pulled a gasp out of her, half a laugh, around the mouthful.
+The bread was dry, the crust giving its small chew, and then the lettuce cold and loud against her teeth, and then the mustard came sharp and sour and woke her whole mouth, and then the meat under it, red and full and substantial, and then — a beat behind the rest, climbing — the heat of it bloomed all the way up into her sinuses and watered her eyes and pulled a gasp out of her, half a laugh, around the mouthful.
 
 "Oh — that's — "
 
-"Too much?" He was smiling.
+"Too much?" He was smiling. "It's the horseradish. It does that."
 
 "No. No." She bit again to prove it. The horseradish climbed again, less of an ambush this time, the heat of it going up into her head, and her eyes ran, and she didn't care that they ran.
 
