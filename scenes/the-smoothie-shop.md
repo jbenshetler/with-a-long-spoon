@@ -6,7 +6,7 @@
 
 The professor took them up to the edge of something he found more interesting than they did, glanced at the clock, and let it drop. "We'll pick that up next time," he said, in the voice of a man reading aloud from a phone bill, and the room came apart on the words, sixty people deciding at once that the hour was over.
 
-Cassie was already up, cap on, bag on one shoulder, with the readiness of a person who has somewhere to be and is glad of it. Vee looked up at her and caught the look go past her, to Randi, who had turned all the way around in her seat, lit up and already reaching for her; and by the time Cassie's eyes came back to Vee's, whatever had been in them was folded away.
+Cassie was already up, cap on, bag on one shoulder, with the readiness of a person who has somewhere to be and is glad of it. Vee looked up at her and caught the look go past her, to Randi on her left, turned in her seat and lit up, already reaching for her; and by the time Cassie's eyes came back to Vee's, whatever had been in them was folded away.
 
 "I'll see you at the dorm," she said. Easy. Already going.
 
@@ -40,11 +40,11 @@ The only seats left were a high white table in the window, two tall chairs that 
 
 "Okay," Randi said, settling onto the tall chair as though it were a throne and not a punishment. "Before you give me your good news, you have to hear my catastrophe, so you understand what you have."
 
-She set it up like a story she had told before and would tell again. "My love life is a disaster, so yours had better be good enough for both of us to live on. Friday. A date. Tall, dreamy, dressed like money, and he drives us half an hour out to this little candlelit French place, and I'm thinking, all right, finally, now we are speaking the same language." She drew breath for the turn. "And then he talked. About himself. For the entire night. His summer in Switzerland. His lacrosse numbers. I could have sewn my own mouth shut and he would not have clocked that I'd gone quiet." She raised one shoulder and let it fall. "And a man who can't be bothered to listen to you across a dinner table, honey, is not going to bother taking care of you anywhere else. I told him I had an early morning."
+She set it up like a story she had told before and would tell again. "My love life is a disaster. Friday. A date. Tall, dreamy, dressed like money, and he drives us half an hour out to this little candlelit French place, and I'm thinking, all right, finally, now we are speaking the same language." She drew breath for the turn. "And then he talked. About himself. For the entire night. His summer in Switzerland. His lacrosse numbers. I could have sewn my own mouth shut and he would not have clocked that I'd gone quiet." She raised one shoulder and let it fall. "And a man who can't be bothered to listen to you across a dinner table, honey, is not going to bother taking care of you anywhere else. I told him I had an early morning."
 
 Vee laughed, the real kind, the kind that got up and out of her before she could put clothes on it.
 
-"So." Randi set her chin in her hand and turned the whole of her face on Vee. "You. Tell me yours is better. Tell me he is nothing like that."
+"So." Randi set her chin in her hand and turned the whole of her face on Vee. "You. Yours had better be good enough for both of us to live on. Tell me he is nothing like that."
 
 "He's nothing like that." Vee felt her face go soft and a little stupid and let it. "Mine wasn't glamorous like yours. We walked. It was this tiny place I didn't even know existed, you'd go right past it, and it wasn't fancy at all, but the food." She lost the thread, found it again. "It was Middle Eastern. I couldn't read one word of the menu. And I told him so, I said I have no idea what any of this is, and he looked at it a second, and then he said, 'May I choose?'"
 
