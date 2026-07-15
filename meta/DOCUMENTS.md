@@ -116,7 +116,7 @@ One file per non-trivial scene; the chronology entry links to it. To work on a s
 | `meta-condensed-off-six-fourteen.md` | Off Six-Fourteen |
 | `meta-condensed-dear.md` | Dear |
 | `meta-condensed-leave-no-trace.md` | Leave No Trace |
-| `meta-condensed-vee-tells-cassie-hike.md` | Rye (pure-romance telling; pairs with Toenails) |
+| `meta-condensed-rye.md` | Rye (pure-romance telling; pairs with Toenails) |
 | `meta-condensed-fitting.md` | The Fitting |
 | `meta-condensed-vee-tells-cassie-fitting.md` | Vee Tells Cassie About the Fitting |
 | `meta-condensed-how-its-done.md` | How It's Done |
@@ -196,7 +196,7 @@ Listed in chronological order (filesystem = `scenes/`; order, names, and status 
 | `off-six-fourteen.md` | Off Six-Fourteen | complete |
 | `dear.md` | Dear | complete |
 | `leave-no-trace.md` | Leave No Trace | complete |
-| `vee-tells-cassie-hike.md` | Rye | complete |
+| `rye.md` | Rye | complete |
 | `fitting.md` | The Fitting | complete |
 | `vee-tells-cassie-fitting.md` | Vee Tells Cassie About the Fitting | complete |
 | `how-its-done.md` | How It's Done | complete |

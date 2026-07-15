@@ -1,12 +1,12 @@
 # Rye
 
-The flannel was the first thing Cassie saw, because it was three sizes too big and not Vee's, and Vee was wearing it.
+Cassie's eyes went straight to the flannel — three sizes too big, not Vee's, and Vee wearing it anyway. Vee knew the picture: the shirt swallowing her, her hair dried every direction. She let Cassie look.
 
 "You're alive," Cassie said.
 
-"I'm alive." Vee lowered herself onto the edge of the bottom bunk like a much older woman, both hands bracing, a small wounded sound escaping. "Barely. My legs are going to file a complaint."
+"I'm alive." Vee lowered herself into her desk chair like a much older woman, both hands bracing, a small wounded sound escaping. "Barely. My legs are going to file a complaint."
 
-Cassie swiveled the desk chair around and took her in: the rain-dried hair gone everywhere, the borrowed shirt, the careful way Vee had stopped moving once she was down. "So," she said. "No windowless van."
+Cassie swiveled her chair around, warm and dry in her sweats, her brown shag untangled, and took her in. "So," she said. "No windowless van."
 
 "No van."
 

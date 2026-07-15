@@ -2477,14 +2477,14 @@ note = "Directional idiom 'on the way down', not the filtered 'the way he' const
 [[ok]]
 fp   = "dfbf82587351"
 rule = "the-way"
-file = "scenes/vee-tells-cassie-hike.md"
+file = "scenes/rye.md"
 text = "She said it the way other girls said *and then we kissed.* \"He packed lunch."
 note = "Load-bearing simile: 'the way other girls said and then we kissed' equates food-talk to sex-talk; the construction is the point."
 
 [[ok]]
 fp   = "f0a0c78a8e4d"
 rule = "the-way"
-file = "scenes/vee-tells-cassie-hike.md"
+file = "scenes/rye.md"
 text = "Her voice opened all the way up."
 note = "'opened all the way up' is idiom, not the filtered telling-construction; matches the vista opening."
 
