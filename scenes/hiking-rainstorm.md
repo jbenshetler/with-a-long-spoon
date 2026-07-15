@@ -128,7 +128,7 @@ A dinner. A ceremony. She had to find something to wear.
 
 She heard it as it came out. The wanting in it. The reach of it — the dorm girl pointing at the magazine, *that one, I want that one.* The voice opened up about it and she went past the voice.
 
-"I can't afford it. Obviously. But I keep thinking about it." She put the cherry in her mouth. "I'll find something. Something good."
+"I can't afford it. Obviously." She put the cherry in her mouth. "There's a black dress in the back of my closet. It's been good enough for every dinner I've had to dress for. It'll be good enough for this one." She set the russet down as she said it. You put a thing back on the shelf and you keep walking.
 
 He hadn't said anything. She looked up. He was looking at her, all of his attention on her and nothing asked for it, and when he spoke there was no weight on it at all.
 
@@ -162,7 +162,7 @@ They came out of the woods and she went at the truck the way you go at shelter.
 
 ---
 
-He got to her door a step ahead of her and opened it and she climbed in and hauled it shut. The rain on the cab roof was louder inside than out, a steady drum on the metal. He was already in, turning the key, and the engine caught and he put the heat to full, and the fan came up loud, and the air out of the vents was cold.
+He got to her door a step ahead of her and opened it and she climbed in and hauled it shut. The rain on the cab roof was louder inside than out, a steady drum on the metal. He was already in, turning the key, and the engine caught and he put the heat to full, and the fan came up loud, and the air out of the vents was cold. "It'll only blow cold till the truck warms up," he said. "Give it a minute."
 
 She was shivering. She hadn't known it until she sat still and the cold caught up to her.
 
@@ -176,7 +176,11 @@ His only dry shirt. The one he'd packed for himself, for after, because he showe
 
 He opened his door and got out.
 
-He didn't say anything about it. The door shut, and through the windshield, blurred and running, he walked a few steps off and stood with his back to the truck — his blue shirt gone almost black with the rain, his shoulders set, hands in his pockets — and stood there in the weather to give her the cab to change in.
+He didn't say anything about it. The door shut, and through the windshield, blurred and running, he walked a few steps off and stood with his back to the truck, hands in his pockets, shoulders set, his blue shirt going dark with the rain.
+
+For a moment it made no sense to her. He'd just climbed in out of the weather, and now he was back out in it, standing in the open with his back to her, taking the rain full-on for nothing she could see.
+
+Then she looked down at the flannel in her lap.
 
 His shirt, and then the truck. Both.
 
@@ -192,7 +196,11 @@ She came up onto her knees on the bench. The console was folded up between the s
 
 She leaned across the bench. Her hair fell forward. She rapped on the driver's window with her knuckles, three quick, and it carried through the rain.
 
-He turned. His eyes found her through the running glass. He came back. The door opened and he pulled up into the cab and shut it and looked at her — and she hadn't moved, she was on her knees on the bench facing him, close in on his side of it, her wet hair down on her shoulders and the tucked curl already loose again — and she put her eyes on his and held them there.
+He turned. His eyes found her through the running glass. He came back to the window and stopped there, close on the other side of it, the rain sheeting down between them. He looked in at her. He didn't open the door.
+
+She lifted a hand off the bench and crooked a finger at him. *Come in.*
+
+The door opened and he pulled up into the cab and shut it and looked at her — and she hadn't moved, she was on her knees on the bench facing him, close in on his side of it, her wet hair down on her shoulders and the tucked curl already loose again — and she put her eyes on his and held them there.
 
 She held them there.
 
@@ -204,11 +212,11 @@ Top button. The wet cotton dragged at her cold fingers and the button came throu
 
 *This is what girls who. Three dates. Your mother would never. Your mother.* The voice was the heat and the heat was the voice, the two run together inside her now, and she was hot in the cold cab with her nipples hard against the wet bra and she could feel them and she knew he could see what her body was doing in the open V of the shirt, and she gave it to him to see.
 
-The fourth button was lower. She had to look to find it.
+She didn't have to look down for the fourth. She could have taken it by feel like the others and kept his eyes the whole way.
 
-She looked down.
+She looked down anyway, and his eyes went with hers.
 
-She saw what he saw — the shirt open to her sternum, the wet bra gone sheer, the dark of her nipples through the pale cotton, the swell of her above the cup where the wet had dragged it down, her skin shocked pink with cold, the gooseflesh on it, a last drop of rain running down between her breasts out of her wet hair. The voice said *floozy* in her mother's exact word and her thighs pressed once, hard, on their own, under her jeans, and a slick of wet came that the rain had nothing to do with.
+She saw what he saw — the shirt open to her sternum, the wet bra gone sheer, the shape of her nipples through the pale cotton, the swell of her above the cup where the wet had dragged it down, her skin shocked pink with cold, the gooseflesh on it, a last drop of rain running down between her breasts out of her wet hair. The voice said *floozy* in her mother's exact word and her thighs pressed once, hard, on their own, under her jeans.
 
 Fourth button. Fifth. The last.
 

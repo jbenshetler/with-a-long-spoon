@@ -599,6 +599,13 @@ text = "She saw what he saw — the shirt open to her sternum, the wet bra gone 
 note = "load-bearing gaze — she experiences her exposed body through his eyes; the seeing IS the sensation (author-blessed keep)"
 
 [[ok]]
+fp   = "e34dfe513b9f"
+rule = "filter-verbs"
+file = "scenes/hiking-rainstorm.md"
+text = "She saw what he saw — the shirt open to her sternum, the wet bra gone sheer, the shape of her nipples through the pale cotton, the swell of her above the cup where the wet had dragged it down, her skin shocked pink with cold, the gooseflesh on it, a last drop of rain running down between her breasts out of her wet hair."
+note = "gaze-as-engine; she sees her body through his eyes — the shame mechanism, intentional"
+
+[[ok]]
 fp   = "193b52d1d443"
 rule = "learn"
 file = "scenes/hiking-rainstorm.md"
@@ -744,6 +751,13 @@ rule = "there-was-were"
 file = "scenes/hiking-rainstorm.md"
 text = "He was looking at her, all of his attention on her and nothing asked for it, and when he spoke there was no weight on it at all."
 note = "info-level; correct/deliberate usage or working rhythm (interruption, embodied verb, idiom); author-blessed keeps"
+
+[[ok]]
+fp   = "c257795a7a18"
+rule = "weather"
+file = "scenes/hiking-rainstorm.md"
+text = "He'd just climbed in out of the weather, and now he was back out in it, standing in the open with his back to her, taking the rain full-on for nothing she could see."
+note = "literal meteorology (rainstorm), not figurative"
 
 [[ok]]
 fp   = "ee654965cf7f"
