@@ -67,7 +67,7 @@ The first surrender. Safety assembled brick by brick at a Middle Eastern restaur
 Same night as May I Choose, Vee comes in lit up and tells Cassie mid-recount. The clean baseline in the truest register, before Randi reshapes the material. Agency spine: she claims the kiss as her own act (*I made him stop… I did it. Me.*); the drink-question establishes she chose it sober. Plants the too-fast *yes* to hiking (primary placement), the who-is-he answered as a road-number "dossier," and the class question (*rich people hike, poor people walk*). Closes warm; the dread is structural, never on anyone's face. Distinct from Vee Tells Cassie — Hike, the later, deepening telling after the hike.
 
 ### [SCENE] The Smoothie Shop
-*Early fall · ~Fri Oct 2 · stats class day* · Draft complete · SATC · `the-smoothie-shop.md` · [detail](meta-condensed-the-smoothie-shop.md)
+*Early fall · ~Fri Oct 2 · stats class day* · Draft complete · SATC · `the-smoothie-shop.md` · [detail](meta-condensed-the-smoothie-shop.md) · reviewed: 2026-07-14
 First SATC scene. Sisters approach and tax the friendship; Vee is marked as the cost Randi chooses to pay. Randi closes ranks — pre-jealousy, so purely loyalty-and-asset-protection. Result: brunches move private (off-campus, without comment). Recodes the brunch's privacy as concealment on reread.
 
 ### [SCENE] The Hiking Rainstorm
