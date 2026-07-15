@@ -1,4 +1,4 @@
-# Condensed — Vee Tells Cassie — Hike
+# Condensed — Rye
 
 *Scene · Draft complete · `vee-tells-cassie-hike.md` · within a day of the hike, before the Fitting · Cassandra track*
 

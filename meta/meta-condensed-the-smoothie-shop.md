@@ -42,4 +42,4 @@ The kiss via the **agency→appetite reframe** (canon sort mechanism): Vee bring
 
 The confidante track and the social-penalty thread cross here for the first time; the very thing that makes the friendship precious is the thing the world prices.
 
-**Reading position in sequence:** …The Long Way → May I Choose → **The Smoothie Shop** → Leave No Trace → Vee Tells Cassie — Hike → The Fitting → How It's Done → First Night Together → Toenails → First-Night Debrief → Lesson → The CW-Dance Debrief.
+**Reading position in sequence:** …The Long Way → May I Choose → **The Smoothie Shop** → Leave No Trace → Rye → The Fitting → How It's Done → First Night Together → Toenails → First-Night Debrief → Lesson → The CW-Dance Debrief.

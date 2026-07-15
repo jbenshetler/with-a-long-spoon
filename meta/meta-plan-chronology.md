@@ -64,7 +64,7 @@ The first surrender. Safety assembled brick by brick at a Middle Eastern restaur
 
 ### [VIGNETTE] Off Six-Fourteen
 *Early fall · ~Sat Sep 26 · the same evening as May I Choose* · Draft complete · Cassandra track · `off-six-fourteen.md` · [detail](meta-condensed-off-six-fourteen.md) · reviewed: 2026-07-14
-Same night as May I Choose, Vee comes in lit up and tells Cassie mid-recount. The clean baseline in the truest register, before Randi reshapes the material. Agency spine: she claims the kiss as her own act (*I made him stop… I did it. Me.*); the drink-question establishes she chose it sober. Plants the too-fast *yes* to hiking (primary placement), the who-is-he answered as a road-number "dossier," and the class question (*rich people hike, poor people walk*). Closes warm; the dread is structural, never on anyone's face. Distinct from Vee Tells Cassie — Hike, the later, deepening telling after the hike.
+Same night as May I Choose, Vee comes in lit up and tells Cassie mid-recount. The clean baseline in the truest register, before Randi reshapes the material. Agency spine: she claims the kiss as her own act (*I made him stop… I did it. Me.*); the drink-question establishes she chose it sober. Plants the too-fast *yes* to hiking (primary placement), the who-is-he answered as a road-number "dossier," and the class question (*rich people hike, poor people walk*). Closes warm; the dread is structural, never on anyone's face. Distinct from Rye, the later, deepening telling after the hike.
 
 ### [SCENE] The Smoothie Shop
 *Early fall · ~Fri Oct 2 · stats class day* · Draft complete · SATC · `the-smoothie-shop.md` · [detail](meta-condensed-the-smoothie-shop.md) · reviewed: 2026-07-14
@@ -74,7 +74,7 @@ First SATC scene. Sisters approach and tax the friendship; Vee is marked as the 
 *Early fall turning · ~Sun Oct 4 · their third date* · Draft complete · `leave-no-trace.md` · [detail](meta-condensed-leave-no-trace.md)
 First hike: short steep climb through a tunnel of trees to a black-rock summit over a silver lake; sudden cold rain on the descent. Borrowed ill-fitting boots → the blister beat (low-stakes cutting-voice-defusion install; elevation geometry prefigures the Fitting hem). Concrete summit lunch (rye/horseradish, shared water, cherries; the leave-nothing beat — second defusion install). Silk-naming on the trail: she names the **russet, brick-red** induction dress from a magazine — plants the silk Pace *offers a variant of* at the Fitting (he honors the want-to-be-beautiful beneath the color; he does not impose). *"That sounds like a beautiful dress"* plants *beautiful*. In the truck he gives her his only dry (no-tag, gym-bag) flannel and steps into the rain for her privacy; she beckons him back and, facing him, strips off her wet shirt — **the shame-arousal loop's first full-force install** — and gives him the sight of herself as a deliberate gift; he receives it without touching her. She feels him shivering; care overrides arousal; she sends them home. Fire-lane drop-off cut short by a campus cop's siren squawk. Builds the trust the later escalations spend. Keeps the no-tag shirt (detonates at the Fitting).
 
-### [SCENE] Vee Tells Cassie — Hike
+### [SCENE] Rye
 *Early fall · ~Sun Oct 4 · within a day of the hike, before the Fitting* · Draft complete · Cassandra track · `vee-tells-cassie-hike.md` · [detail](meta-condensed-vee-tells-cassie-hike.md)
 The pure romantic beat. Vee tells Cassie about the hike, the kept shirt, and the deciding, in the unperformed warm register Cassie can hold: the clean baseline of her feeling for Pace, before shame and before Randi reshapes the material, so the later contamination has something to contaminate. Distinct from the dinner-night telling (Off Six-Fourteen), the giddy first-kiss agency beat; this is the later, deepening telling after the hike. Photographic negative of Toenails: the romance Cassie can hold here, set against the bodily shame she cannot hold there. Cassie, who flagged Pace at the meet-cute, doesn't re-litigate.
 
@@ -98,7 +98,7 @@ Motivated by the Fitting's deferred tension, not the CW dance. Pace invites her 
 
 ### [SCENE] Toenails
 *~Sat Oct 17* · Draft complete · `toenails.md` · Cassandra track · [detail](meta-condensed-toenails.md)
-Vee tries to tell Cassie and can't. Shame meets the wrong-shaped listener; Cassie can hold romance but not the bodily response. First withheld thing. The vacancy this opens is exactly what Randi fills at First-Night Debrief. Photographic negative of Vee Tells Cassie — Hike.
+Vee tries to tell Cassie and can't. Shame meets the wrong-shaped listener; Cassie can hold romance but not the bodily response. First withheld thing. The vacancy this opens is exactly what Randi fills at First-Night Debrief. Photographic negative of Rye.
 
 ### [SCENE] First-Night Debrief
 *~Mon Oct 19 · stats class day · the first class day after First Night — she can't wait to tell it* · Draft complete · SATC · off-campus · `first-night-debrief.md` · [detail](meta-condensed-first-night-debrief.md)
