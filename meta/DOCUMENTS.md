@@ -114,7 +114,7 @@ One file per non-trivial scene; the chronology entry links to it. To work on a s
 | `meta-condensed-long-way.md` | The Long Way |
 | `meta-condensed-may-i-choose.md` | May I Choose |
 | `meta-condensed-off-six-fourteen.md` | Off Six-Fourteen |
-| `meta-condensed-the-smoothie-shop.md` | The Smoothie Shop |
+| `meta-condensed-dear.md` | Dear |
 | `meta-condensed-leave-no-trace.md` | Leave No Trace |
 | `meta-condensed-vee-tells-cassie-hike.md` | Rye (pure-romance telling; pairs with Toenails) |
 | `meta-condensed-fitting.md` | The Fitting |
@@ -194,7 +194,7 @@ Listed in chronological order (filesystem = `scenes/`; order, names, and status 
 | `long-way.md` | The Long Way | complete |
 | `may-i-choose.md` | May I Choose — The Dinner (the first surrender) | complete |
 | `off-six-fourteen.md` | Off Six-Fourteen | complete |
-| `the-smoothie-shop.md` | The Smoothie Shop | complete |
+| `dear.md` | Dear | complete |
 | `leave-no-trace.md` | Leave No Trace | complete |
 | `vee-tells-cassie-hike.md` | Rye | complete |
 | `fitting.md` | The Fitting | complete |

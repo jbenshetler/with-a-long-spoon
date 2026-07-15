@@ -1,4 +1,4 @@
-# The Smoothie Shop
+# Dear
 
 *(The calculus-based statistics lecture, then the Smoothie Bird on the corner of campus. Early fall. Vee's POV.)*
 

@@ -2435,14 +2435,14 @@ note = "reviewed in style pass — accepted to stand"
 [[ok]]
 fp   = "82132e2c9a8d"
 rule = "a-small"
-file = "scenes/the-smoothie-shop.md"
+file = "scenes/dear.md"
 text = "She made a small motion of the hand that meant the leggings, the matched hair, the whole bright sorority of it."
 note = "author-approved 2026-07-14: hand-motion reads as gesture standing in for the whole sorority look, not the 'a small X' tic"
 
 [[ok]]
 fp   = "53671250e7df"
 rule = "whole-of"
-file = "scenes/the-smoothie-shop.md"
+file = "scenes/dear.md"
 text = "Randi set her chin in her hand and turned the whole of her face on Vee."
 note = "author-approved 2026-07-14: 'turned the whole of her face on Vee' stands — total-attention image is the beat"
 

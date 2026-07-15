@@ -126,7 +126,7 @@ So the room’s **words** come only from Pace (instruction, control) and Vee (be
 
 ### The damp hand-clasp — a planted rhyme, not a channel
 
-At some point under the blindfold a hand closes over Vee's bound hands: a damp clasp, warm now with the heat of the bed — the clasp she can't return, which only sharpens it. Pure Tier-1 — it announces *a woman's hand* and identifies no one. Its work is **body-memory, not recognition.** It pays off the smoothie shop, where Randi first took Vee's hand *the way friends do,* palm cool and damp from a cold cup — cool there, warm here, the **damp** the constant Vee's body files without naming. She never decodes it in the moment (body before mind); it detonates only in reconstruction after the reveal, for the reader more than for Vee. The clasp must carry the echo and never the identity — the kiss stays the sole channel. (Plant: see meta-condensed-the-smoothie-shop.md.)
+At some point under the blindfold a hand closes over Vee's bound hands: a damp clasp, warm now with the heat of the bed — the clasp she can't return, which only sharpens it. Pure Tier-1 — it announces *a woman's hand* and identifies no one. Its work is **body-memory, not recognition.** It pays off Dear, where Randi first took Vee's hand *the way friends do,* palm cool and damp from a cold cup — cool there, warm here, the **damp** the constant Vee's body files without naming. She never decodes it in the moment (body before mind); it detonates only in reconstruction after the reveal, for the reader more than for Vee. The clasp must carry the echo and never the identity — the kiss stays the sole channel. (Plant: see meta-condensed-dear.md.)
 
 ### Rendering rules
 
