@@ -8,7 +8,7 @@ The trail came out of the gravel lot and went straight up into the trees, and sh
 
 It was the kind of bright that made her squint with no sun behind it — silver overcast pressed down close, the air with the wet edge that mountains have in fall. The trail did not look like a trail. It looked like a wall of woods with a path scratched up the front of it, and the path went up at a pitch her legs read before her eyes did. Her chest went tight. Her hand came up off the door toward her throat and stopped halfway and dropped.
 
-She had said yes to this on her bed with Cassie cross-legged across from her making faces about the boots, and the yes had come out before she'd weighed it. It came out the same way *of course* comes out. There had been no wall of trees in the yes. There had been him.
+She had said yes to this walking back from the dinner, the yes out before she'd weighed it. It came out the way you reach for a thing before you've decided you want it. There had been no wall of trees in the yes. There had been him.
 
 Pace was checking the straps on his pack. He looked up and saw her face and didn't make anything of it.
 
@@ -26,7 +26,7 @@ The trail eased in, like he'd said. The trees came close on both sides. The worl
 
 Pace went ahead. She followed. He'd said *I'll set a pace, tell me if it's wrong,* and the pace he set was slower than she'd braced for. He walked at the speed of her not knowing how. He didn't make her feel slow.
 
-His shirt was bright blue. Synthetic, fitted close, the safety color — cobalt against all that brown and gray, the only bright thing in the woods. It moved with him the way cotton never did. It showed his back as he climbed. The long line of him, shoulder to waist, the muscle working under the cloth. She hadn't seen his back before. She'd had a sense of it. The shirt gave her the rest.
+His shirt was bright blue. Synthetic, fitted close — cobalt against all that brown and gray, the only bright thing in the woods. It moved with him the way cotton never did. It showed his back as he climbed. The long line of him, shoulder to waist, the muscle working under the cloth. She hadn't seen his back before. She'd had a sense of it. The shirt gave her the rest.
 
 There was nothing else to look at. She looked.
 

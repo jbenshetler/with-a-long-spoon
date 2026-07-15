@@ -620,6 +620,13 @@ text = "He didn't look at her face."
 note = "inverse of the appreciation beat — he pointedly does NOT look (tact motif); author-blessed keep"
 
 [[ok]]
+fp   = "0ab26ea3b51d"
+rule = "the-way"
+file = "scenes/hiking-rainstorm.md"
+text = "It came out the way you reach for a thing before you've decided you want it."
+note = "earned simile — reflexive reach (body ahead of decision); author-chosen replacement for the 'of course' filler"
+
+[[ok]]
 fp   = "2d9f3b05fff9"
 rule = "the-way"
 file = "scenes/hiking-rainstorm.md"
