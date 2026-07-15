@@ -31,4 +31,4 @@ First read: a warm, triumphant, sexy achievement beat — best day, best dress, 
 - **Earn the dark by being light:** the surface is genuine joy and agency; cut any line that makes the photo or Cassie feel ominous.
 - **Cassie warm, not suspicious:** witness and friend; any Cassandra note is a whisper.
 - **Pace tender, not tipped:** his sorrow is real and un-performed; no line that exposes calculation.
-- **Continuity:** Berkeley conference is distinct from Top Drawer's Chicago (two November conferences — fall cluster); dress worn bare (per Dress Pickup slit logic); heels canon from Shoe Shopping (Vee's own, dear, four-inch dark strap); toe/finger polish = frosted plum (matched at Shoe Shopping); hiking-rainstorm timing recast to November ("Still weeks off, come November").
+- **Continuity:** Berkeley conference is distinct from Top Drawer's Chicago (two November conferences — fall cluster); dress worn bare (per Dress Pickup slit logic); heels canon from Shoe Shopping (Vee's own, dear, four-inch dark strap); toe/finger polish = frosted plum (matched at Shoe Shopping); Leave No Trace timing recast to November ("Still weeks off, come November").

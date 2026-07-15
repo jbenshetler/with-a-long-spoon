@@ -18,4 +18,4 @@ A Middle Eastern restaurant a few blocks off campus (small, family-run, the olde
 
 > **No humanizing failing here.** Do not seat a flaw at the on-ramp — a crack reads as foreshadowing and hands the reader an exculpatory off-ramp ("she could have known"); the scene's power is the *unbroken* perfection, contaminated only on reread. (Failings remain scattered later, none load-bearing — see `meta-craft-pace.md`.)
 
-> **The hike invitation stays off-page.** Don't end the scene on it — a nervous hesitation would re-arm her mid-scene and damage the surrender (which needs her guard fully down). The "yes despite nervousness" content lives as *retrospect* at the opening of the hike (The Hiking Rainstorm), where she sees she said yes before she weighed it.
+> **The hike invitation stays off-page.** Don't end the scene on it — a nervous hesitation would re-arm her mid-scene and damage the surrender (which needs her guard fully down). The "yes despite nervousness" content lives as *retrospect* at the opening of the hike (Leave No Trace), where she sees she said yes before she weighed it.

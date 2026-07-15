@@ -1,6 +1,6 @@
-# The Hiking Rainstorm
+# Leave No Trace
 
-*Scene 12 · [SCENE] · late September / early October · their third date · Vee's POV*
+*Scene 12 · [SCENE] · their third date · Vee's POV*
 
 ---
 
@@ -98,7 +98,7 @@ The bread was dry, the crust giving its small chew, and then the lettuce cold an
 
 "No. No." She bit again to prove it. The horseradish climbed again, less of an ambush this time, the heat of it going up into her head, and her eyes ran, and she didn't care that they ran.
 
-He passed her the water. One bottle. The metal was cold from the pack and the water in it was colder, hard and clean and mineral, and it went down through the burn of the horseradish and rinsed her mouth back to nothing, and she handed it back and he drank from it where her mouth had been without seeming to know that was what he'd done.
+He passed her the water. One bottle. The metal was cold from the pack and the water in it was colder, hard and clean and mineral, and it went down through the burn of the horseradish and rinsed her mouth back to nothing, and she handed it back and he drank from it where her mouth had been without making a thing of it.
 
 They ate. She didn't talk because she was eating, and the eating was the whole thing — the hunger coming up to meet the food, the food good enough to be worth the hunger, the plain animal rightness of needing something and being handed it. The hike had made her hungry first. That was the trick of it. That was what it was for.
 
@@ -230,7 +230,7 @@ She reached for his hand with the other.
 
 It was on the seat between them and she reached to bring it to her mouth — to kiss his knuckles, to start the next thing, because her body was already going at the next thing and the next thing was more — and her fingers closed around it and it was shaking.
 
-He was shivering. He'd been shivering. He was in a soaked shirt and soaked pants and he'd been out in the rain twice over, on the trail and standing at the truck, and he was cold enough that his hand trembled in hers — and she hadn't seen it, hadn't felt it, had been so far down inside her own heat that the man she'd given herself to had been freezing in front of her the whole time.
+He was shivering. He'd been shivering. He was in a soaked shirt and soaked pants and he'd been out in the rain twice over, on the trail and standing at the truck, and he was cold enough that his hand trembled in hers.
 
 The reach to her mouth stopped. Her fingers closed tighter. She brought his hand in against her belly, under the flannel, against the warmth the dry shirt was making on her, and held it there.
 

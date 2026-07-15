@@ -1,6 +1,6 @@
-# Condensed — The Hiking Rainstorm
+# Condensed — Leave No Trace
 
-*Scene · Draft complete · `hiking-rainstorm.md` · ~late Sep / early Oct · their third date · Vee's POV*
+*Scene · Draft complete · `leave-no-trace.md` · ~late Sep / early Oct · their third date · Vee's POV*
 
 ## Summary
 

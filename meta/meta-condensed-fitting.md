@@ -24,7 +24,7 @@ Vee arrives at Pace's house where he's prepared the setting—turning up the hea
 
 ## Plants / Pays Off
 
-- **The no-tag hiking shirt (from The Hiking Rainstorm) detonates here**: She noticed its absence once, guessed wrong (counterfeit, sample, off-brand), dropped the question. Now the silk—deliberately tagged and matched with care—makes the shirt's unlabeled quality a statement. The contrast between his careful anonymity and his careful personalization frames both acts as forms of devotion.
+- **The no-tag hiking shirt (from Leave No Trace) detonates here**: She noticed its absence once, guessed wrong (counterfeit, sample, off-brand), dropped the question. Now the silk—deliberately tagged and matched with care—makes the shirt's unlabeled quality a statement. The contrast between his careful anonymity and his careful personalization frames both acts as forms of devotion.
 - **The hike's silk-naming conversation**: The color she described—"like poured wine"—while walking the trail, unguarded. He acts on the being-known-without-asking.
 - **The dress is unfinished at this scene** and its completion/try-on/pickup resolves at Dress Pickup.
 - **The deferred tension motivates the first night (First Night Together)**: She walks out of the Fitting wanting, denied, newly aware she can nearly topple this contained man. The first night follows from that and from the freight-train attraction.

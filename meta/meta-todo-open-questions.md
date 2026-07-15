@@ -277,7 +277,7 @@ The coda's forward-narration is **load-bearing plant, not thesis-y summary.** Th
 The wardrobe canon now scopes the "four-shirt wardrobe" to Pace's going-out
 broadcloth and records the **flannels** as *a few, handmade off his own bolt of
 shirting cloth*, worn as shop/woods tools (`meta-arch-bible.md`; rendering guard
-in `meta-craft-pace.md`). When next touching `hiking-rainstorm` (the gift) and
+in `meta-craft-pace.md`). When next touching `leave-no-trace` (the gift) and
 `grace` / the blindfold, confirm the prose does not imply the flannel is his
 *only* / last one, and that Vee's keeping it reads as intimate, not depriving —
 consistent with "a few." A prior lookup found no canon asserting a single

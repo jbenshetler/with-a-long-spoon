@@ -545,245 +545,245 @@ note = "Pace's dialogue — his cataloguing cadence as he names her body; voice,
 [[ok]]
 fp   = "0b522636dc4f"
 rule = "a-small"
-file = "scenes/hiking-rainstorm.md"
+file = "scenes/leave-no-trace.md"
 text = "The thing she wanted to say was bigger than any words she had for it, and she was going to put a small thing where the big thing went, because the small thing was the one that fit."
 note = "deliberate/earned; author-blessed keep"
 
 [[ok]]
 fp   = "53c75b8840aa"
 rule = "a-small"
-file = "scenes/hiking-rainstorm.md"
+file = "scenes/leave-no-trace.md"
 text = "The slip in the right boot had been working at one spot a long time, and the spot was hot now, a small hot place at the back of her heel where the sock caught it every time her foot lifted."
 note = "literal-apt (a small hot spot); author-blessed keep"
 
 [[ok]]
 fp   = "c86afc74632c"
 rule = "a-small"
-file = "scenes/hiking-rainstorm.md"
+file = "scenes/leave-no-trace.md"
 text = "The cherries came out of a small container."
 note = "deliberate/earned; author-blessed keep"
 
 [[ok]]
 fp   = "0550784a8936"
 rule = "began-to"
-file = "scenes/hiking-rainstorm.md"
+file = "scenes/leave-no-trace.md"
 text = "There was wind up here that hadn't existed inside the trees, and it found her hair, always her hair, and lifted it and laid it across her face, and she stood in it and looked, and her body came back to her by pieces — that she was tired, that she was hungry, that the sweat down her back had started to turn to ice as the wind reached it."
 note = "info-level; correct/deliberate usage or working rhythm (interruption, embodied verb, idiom); author-blessed keeps"
 
 [[ok]]
 fp   = "a6f023216461"
 rule = "began-to"
-file = "scenes/hiking-rainstorm.md"
+file = "scenes/leave-no-trace.md"
 text = "He started to say something."
 note = "info-level; correct/deliberate usage or working rhythm (interruption, embodied verb, idiom); author-blessed keeps"
 
 [[ok]]
 fp   = "456dd899de04"
 rule = "filter-verbs"
-file = "scenes/hiking-rainstorm.md"
+file = "scenes/leave-no-trace.md"
 text = "She heard it as it came out."
 note = "129 = dialogue, not narration; 131 = self-hearing the want as the tell registering (load-bearing); author-blessed keeps"
 
 [[ok]]
 fp   = "79e20a18fe93"
 rule = "filter-verbs"
-file = "scenes/hiking-rainstorm.md"
+file = "scenes/leave-no-trace.md"
 text = "\"I saw a dress.\""
 note = "129 = dialogue, not narration; 131 = self-hearing the want as the tell registering (load-bearing); author-blessed keeps"
 
 [[ok]]
 fp   = "bba092c8cb7c"
 rule = "filter-verbs"
-file = "scenes/hiking-rainstorm.md"
+file = "scenes/leave-no-trace.md"
 text = "She saw what he saw — the shirt open to her sternum, the wet bra gone sheer, the dark of her nipples through the pale cotton, the swell of her above the cup where the wet had dragged it down, her skin shocked pink with cold, the gooseflesh on it, a last drop of rain running down between her breasts out of her wet hair."
 note = "load-bearing gaze — she experiences her exposed body through his eyes; the seeing IS the sensation (author-blessed keep)"
 
 [[ok]]
 fp   = "e34dfe513b9f"
 rule = "filter-verbs"
-file = "scenes/hiking-rainstorm.md"
+file = "scenes/leave-no-trace.md"
 text = "She saw what he saw — the shirt open to her sternum, the wet bra gone sheer, the shape of her nipples through the pale cotton, the swell of her above the cup where the wet had dragged it down, her skin shocked pink with cold, the gooseflesh on it, a last drop of rain running down between her breasts out of her wet hair."
 note = "gaze-as-engine; she sees her body through his eyes — the shame mechanism, intentional"
 
 [[ok]]
 fp   = "193b52d1d443"
 rule = "learn"
-file = "scenes/hiking-rainstorm.md"
+file = "scenes/leave-no-trace.md"
 text = "Her legs learned that in the first hundred feet."
 note = "info-level; correct/deliberate usage or working rhythm (interruption, embodied verb, idiom); author-blessed keeps"
 
 [[ok]]
 fp   = "153414438d91"
 rule = "look-at-her"
-file = "scenes/hiking-rainstorm.md"
+file = "scenes/leave-no-trace.md"
 text = "The voice had its quick word for it — the *no one taught you* word, the *common* word — and Pace was already reaching for another cherry himself, and when his own pit came he spit it into a tissue from his pocket and folded it away and didn't look at her doing it."
 note = "inverse of the appreciation beat — he pointedly does NOT look (tact motif); author-blessed keep"
 
 [[ok]]
 fp   = "d1384750f138"
 rule = "look-at-her"
-file = "scenes/hiking-rainstorm.md"
+file = "scenes/leave-no-trace.md"
 text = "The voice had its quick word for it — the *no one taught you* word, the *common* word — and Pace was already reaching for another cherry himself, and when his own pit came he laid it on the wax paper beside hers and didn't look at her doing it."
 note = "tact motif: he declines to watch her catch on to the pit etiquette (re-armed by wax-paper edit)"
 
 [[ok]]
 fp   = "f527be3a2477"
 rule = "look-at-her"
-file = "scenes/hiking-rainstorm.md"
+file = "scenes/leave-no-trace.md"
 text = "He didn't look at her face."
 note = "inverse of the appreciation beat — he pointedly does NOT look (tact motif); author-blessed keep"
 
 [[ok]]
 fp   = "0ab26ea3b51d"
 rule = "the-way"
-file = "scenes/hiking-rainstorm.md"
+file = "scenes/leave-no-trace.md"
 text = "It came out the way you reach for a thing before you've decided you want it."
 note = "earned simile — reflexive reach (body ahead of decision); author-chosen replacement for the 'of course' filler"
 
 [[ok]]
 fp   = "15c8967b6ed2"
 rule = "the-way"
-file = "scenes/hiking-rainstorm.md"
+file = "scenes/leave-no-trace.md"
 text = "The bread was dry, the crust giving its small chew, and then the lettuce cold and loud against her teeth, and then the mustard came sharp and sour and woke her whole mouth, and then the meat under it, red and full and substantial, and then — a beat behind the rest, climbing — the heat of it bloomed all the way up into her sinuses and watered her eyes and pulled a gasp out of her, half a laugh, around the mouthful."
 note = "idiom 'all the way up' (bloomed), not the filtered tic (re-armed by sandwich re-render)"
 
 [[ok]]
 fp   = "2d9f3b05fff9"
 rule = "the-way"
-file = "scenes/hiking-rainstorm.md"
+file = "scenes/leave-no-trace.md"
 text = "The bench ran the width of the cab and behind it on the narrow shelf was his gym bag — she hadn't seen it on the way up."
 note = "literal: 'the way up' = uphill trail direction, not the filtered tic (re-armed by filter-verb edit)"
 
 [[ok]]
 fp   = "407bb32d11d7"
 rule = "the-way"
-file = "scenes/hiking-rainstorm.md"
+file = "scenes/leave-no-trace.md"
 text = "The bread was dry, the crust giving its small chew, and then the lettuce cold and loud against her teeth, and then the mustard came sharp and sour and woke her whole mouth, and then the meat under it, red and full and substantial, and then — a beat behind the rest, climbing — the horseradish bloomed all the way up into her sinuses and watered her eyes and pulled a gasp out of her, half a laugh, around the mouthful."
 note = "false positive — idiom 'all the way' / literal 'the way up' (trail direction), not the filtered tic"
 
 [[ok]]
 fp   = "47be98cbf5dc"
 rule = "the-way"
-file = "scenes/hiking-rainstorm.md"
+file = "scenes/leave-no-trace.md"
 text = "It came down the way mountain rain comes, all in under a minute, the rain colder than the air and the air the same and her skin feeling the difference."
 note = "earned simile; author-blessed keep"
 
 [[ok]]
 fp   = "656b2b2040fe"
 rule = "the-way"
-file = "scenes/hiking-rainstorm.md"
+file = "scenes/leave-no-trace.md"
 text = "It moved with him the way cotton never did."
 note = "earned simile; author-blessed keep"
 
 [[ok]]
 fp   = "688de8d7e369"
 rule = "the-way"
-file = "scenes/hiking-rainstorm.md"
+file = "scenes/leave-no-trace.md"
 text = "It was soft, and it was warm — not warm from a body, warm the way dry folded cloth is warm against wet skin, the *dry* of it almost a heat."
 note = "earned simile / deliberate tautology; author-blessed keep"
 
 [[ok]]
 fp   = "8fd0a5b3976e"
 rule = "the-way"
-file = "scenes/hiking-rainstorm.md"
+file = "scenes/leave-no-trace.md"
 text = "The bench ran the width of the cab and behind it on the narrow shelf was his gym bag — she hadn't seen it on the way up, she saw it now as he pulled it forward by the strap and unzipped it on his knee."
 note = "false positive — idiom 'all the way' / literal 'the way up' (trail direction), not the filtered tic"
 
 [[ok]]
 fp   = "97366eb70bce"
 rule = "the-way"
-file = "scenes/hiking-rainstorm.md"
+file = "scenes/leave-no-trace.md"
 text = "The body came back after the seeing, slow, the way a sound comes back after it's been too loud to hear."
 note = "earned simile / deliberate tautology; author-blessed keep"
 
 [[ok]]
 fp   = "c40e497cdd85"
 rule = "the-way"
-file = "scenes/hiking-rainstorm.md"
+file = "scenes/leave-no-trace.md"
 text = "They came out of the woods and she went at the truck the way you go at shelter."
 note = "earned simile / deliberate tautology; author-blessed keep"
 
 [[ok]]
 fp   = "dd25952834a4"
 rule = "the-way"
-file = "scenes/hiking-rainstorm.md"
+file = "scenes/leave-no-trace.md"
 text = "They came up to her face, slow, the way a man's eyes come back when a woman has called them, and his face was want and it was gladness and it was a stillness she had never seen on anyone."
 note = "earned simile; author-blessed keep"
 
 [[ok]]
 fp   = "f5ed10bc882f"
 rule = "the-way"
-file = "scenes/hiking-rainstorm.md"
+file = "scenes/leave-no-trace.md"
 text = "He looked at the heel the way a man looks at a heel."
 note = "earned simile / deliberate tautology; author-blessed keep"
 
 [[ok]]
 fp   = "6b1c568dc3b8"
 rule = "there-was-were"
-file = "scenes/hiking-rainstorm.md"
+file = "scenes/leave-no-trace.md"
 text = "There was nothing else to look at."
 note = "info-level; correct/deliberate usage or working rhythm (interruption, embodied verb, idiom); author-blessed keeps"
 
 [[ok]]
 fp   = "6fe373d411d7"
 rule = "there-was-were"
-file = "scenes/hiking-rainstorm.md"
+file = "scenes/leave-no-trace.md"
 text = "There was wind up here that hadn't existed inside the trees, and it found her hair, always her hair, and lifted it and laid it across her face, and she stood in it and looked, and her body came back to her by pieces — that she was tired, that she was hungry, that the sweat down her back had started to turn to ice as the wind reached it."
 note = "info-level; correct/deliberate usage or working rhythm (interruption, embodied verb, idiom); author-blessed keeps"
 
 [[ok]]
 fp   = "92db7cc887bd"
 rule = "there-was-were"
-file = "scenes/hiking-rainstorm.md"
+file = "scenes/leave-no-trace.md"
 text = "There was nothing to apologize for — he hadn't found anything to apologize for."
 note = "info-level; correct/deliberate usage or working rhythm (interruption, embodied verb, idiom); author-blessed keeps"
 
 [[ok]]
 fp   = "aec6ce9df539"
 rule = "there-was-were"
-file = "scenes/hiking-rainstorm.md"
+file = "scenes/leave-no-trace.md"
 text = "She held his eyes a beat to tell him there was a thing."
 note = "info-level; correct/deliberate usage or working rhythm (interruption, embodied verb, idiom); author-blessed keeps"
 
 [[ok]]
 fp   = "b65ef14f01ef"
 rule = "there-was-were"
-file = "scenes/hiking-rainstorm.md"
+file = "scenes/leave-no-trace.md"
 text = "He was looking at her, all of his attention on her and nothing asked for it, and when he spoke there was no weight on it at all."
 note = "info-level; correct/deliberate usage or working rhythm (interruption, embodied verb, idiom); author-blessed keeps"
 
 [[ok]]
 fp   = "c257795a7a18"
 rule = "weather"
-file = "scenes/hiking-rainstorm.md"
+file = "scenes/leave-no-trace.md"
 text = "He'd just climbed in out of the weather, and now he was back out in it, standing in the open with his back to her, taking the rain full-on for nothing she could see."
 note = "literal meteorology (rainstorm), not figurative"
 
 [[ok]]
 fp   = "ee654965cf7f"
 rule = "weather"
-file = "scenes/hiking-rainstorm.md"
+file = "scenes/leave-no-trace.md"
 text = "The door shut, and through the windshield, blurred and running, he walked a few steps off and stood with his back to the truck — his blue shirt gone almost black with the rain, his shoulders set, hands in his pockets — and stood there in the weather to give her the cab to change in."
 note = "literal meteorology (actual rain) — allowed by rule (re-armed by filter-verb edit)"
 
 [[ok]]
 fp   = "83ef82d4f9e3"
 rule = "whole-of"
-file = "scenes/hiking-rainstorm.md"
+file = "scenes/leave-no-trace.md"
 text = "He sat and looked at all of her and didn't move, and the gladness in him was the whole of the answer, and it was right."
 note = "deliberate/earned; author-blessed keep"
 
 [[ok]]
 fp   = "184b60ebce7c"
 rule = "x-not-y"
-file = "scenes/hiking-rainstorm.md"
+file = "scenes/leave-no-trace.md"
 text = "When the pit came she caught it in her hand and put it in the tissue he'd set down by her knee, not looking, sometime in between."
 note = "info-level; correct/deliberate usage or working rhythm (interruption, embodied verb, idiom); author-blessed keeps"
 
 [[ok]]
 fp   = "cf3aaa3e97e6"
 rule = "x-not-y"
-file = "scenes/hiking-rainstorm.md"
+file = "scenes/leave-no-trace.md"
 text = "When the pit came she caught it in her hand and put it with the others on the wax paper, not looking, sometime in between."
 note = "participial 'not looking' (covert), not the antithesis tic; single instance (re-armed by wax-paper edit)"
 
