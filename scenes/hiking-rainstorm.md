@@ -28,11 +28,9 @@ Pace went ahead. She followed. He'd said *I'll set a pace, tell me if it's wrong
 
 His shirt was bright blue. Synthetic, fitted close — cobalt against all that brown and gray, the only bright thing in the woods. It moved with him the way cotton never did. It showed his back as he climbed. The long line of him, shoulder to waist, the muscle working under the cloth. She hadn't seen his back before. She'd had a sense of it. The shirt gave her the rest.
 
-There was nothing else to look at. She looked.
-
 They talked at first. Small things. The trail, where it went, how long. He'd been here before. He liked it because it didn't take all day and the top was worth it. He didn't sell her the top. He said it was worth it and left her to find out.
 
-The grade steepened. Her breath came short. The talk stopped and he didn't fill it. The slip in the right boot had been working at one spot a long time, and the spot was hot now, a small hot place at the back of her heel where the sock caught it every time her foot lifted.
+The grade steepened. Her lungs were fine. Her thighs were another matter. In all the years of practice, the pool had never asked them for this and they had begun to burn. The talk stopped and he didn't fill it. The slip in the right boot had been working at one spot a long time, and the spot was hot now, a small hot place at the back of her heel where the sock caught it every time her foot lifted.
 
 The climb would change. The grade would ease. She kept climbing.
 
@@ -52,11 +50,11 @@ A rock at the trail-edge, knee-high, dry. She stepped over and turned and sat up
 
 Her stomach clenched before she knew why. He was going to take her boot off. He was going to take her *sock* off. Her foot had been in that boot forty minutes and the sock was going to be — the word came up in her mother's voice, the whole verdict, *what kind of girl lets a man* — her face went hot and she opened her mouth —
 
-He had the boot unlaced. He worked the heel free and slid it off, one hand under her ankle. Then the sock, peeled down off her heel, and her bare foot was in his hand in the cold air. He looked at the heel the way a man looks at a heel. He found the raw place, pink and risen, and made a sound, *mm,* the sound you make when a thing is where you thought it'd be.
+He had the boot unlaced. He worked the heel free and slid it off, one hand under her ankle. Then the sock, peeled down off her heel, and her bare foot was in his hand in the cold air. He found the raw place, pink and risen, and made a sound, *hmm.*
 
 "Hot spot. We can fix that."
 
-He didn't look at her face. He didn't apologize for the foot. There was nothing to apologize for — he hadn't found anything to apologize for. He took a kit from the pack, opened it on his knee, cut a square of moleskin, pressed it to her heel with his thumb and held it there to warm it. Then the sock, rolled gently up from her toes. Then the boot. He laced it different — tight near the ankle, loose across the top — and pulled the knot and gave the toe a pat that meant only *done.*
+He took a kit from the pack, opened it on his knee, cut a square of moleskin, pressed it to her heel with his thumb and held it there to warm it. Then the sock, rolled gently up from her toes. Then the boot. He laced it different — tight near the ankle, loose across the top — and pulled the knot and gave the toe a pat that meant only *done.*
 
 "Stand."
 
