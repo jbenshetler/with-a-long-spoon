@@ -543,6 +543,216 @@ text = "It's the thing that makes all the rest of you read the way it does."
 note = "Pace's dialogue — his cataloguing cadence as he names her body; voice, not narrative telling. Do not sanitize."
 
 [[ok]]
+fp   = "6a0dd1f82a5d"
+rule = "began-to"
+file = "scenes/in-her-place.md"
+text = "He got a hand under her shoulder and began to lift her off him, gentle but no longer slow."
+note = "author-approved for voice: idiomatic 'all the way', internal-state 'felt', info-level existentials"
+
+[[ok]]
+fp   = "d32ae228d004"
+rule = "filter-verbs"
+file = "scenes/in-her-place.md"
+text = "The text came a little after noon, while he was in his office, three days into a proof: *coming out this afternoon — don't make plans.* He read it twice, the second time slower, and he felt a little more solid, a little more of this world."
+note = "author-approved for voice: idiomatic 'all the way', internal-state 'felt', info-level existentials"
+
+[[ok]]
+fp   = "a89d77117f83"
+rule = "not-x-but-y"
+file = "scenes/in-her-place.md"
+text = "Thorough, complete, her mouth working over every part of him not to draw the night out but to take it off — every trace, until there was nothing of last night left on him at all."
+note = "author-approved for voice: idiomatic 'all the way', internal-state 'felt', info-level existentials"
+
+[[ok]]
+fp   = "615eb9f8872a"
+rule = "the-way"
+file = "scenes/in-her-place.md"
+text = "The vigor was all the way back in her now, humming under the words, fed by the telling of it."
+note = "author-approved for voice: idiomatic 'all the way', internal-state 'felt', info-level existentials"
+
+[[ok]]
+fp   = "6d485154ee7a"
+rule = "the-way"
+file = "scenes/in-her-place.md"
+text = "She was herself again now, all the way — the strings back in her own two hands."
+note = "author-approved for voice: idiomatic 'all the way', internal-state 'felt', info-level existentials"
+
+[[ok]]
+fp   = "823c6997c1a2"
+rule = "the-way"
+file = "scenes/in-her-place.md"
+text = "Drove me all the way home, got me out of my fancy clothes, put me to bed, left me water and everything."
+note = "author-approved for voice: idiomatic 'all the way', internal-state 'felt', info-level existentials"
+
+[[ok]]
+fp   = "ff783b18326e"
+rule = "the-way"
+file = "scenes/in-her-place.md"
+text = "Beside him Randi listened, sleepy, and a smile came up on her face soft and almost tender — and then it woke the rest of the way and turned, and she slid down under the green and took him in her mouth."
+note = "author-approved for voice: idiomatic 'all the way', internal-state 'felt', info-level existentials"
+
+[[ok]]
+fp   = "63a53abd0471"
+rule = "there-was-were"
+file = "scenes/in-her-place.md"
+text = "Then her pleasure triggered his and there was no holding it back: he pumped all he had into her in long helpless pulses, sooner than he'd meant, buried deep on the green she'd ruined — Vee's name still in the room with them both."
+note = "author-approved for voice: idiomatic 'all the way', internal-state 'felt', info-level existentials"
+
+[[ok]]
+fp   = "660f51c3c4a0"
+rule = "there-was-were"
+file = "scenes/in-her-place.md"
+text = "But the heater breathed in the vents, and under it there was nothing at all, and he took it for her — barefoot, quiet for him, part of the surprise."
+note = "author-approved for voice: idiomatic 'all the way', internal-state 'felt', info-level existentials"
+
+[[ok]]
+fp   = "829cb7650135"
+rule = "there-was-were"
+file = "scenes/in-her-place.md"
+text = "There was no *or else* in it and didn't need to be; the only quick way clear of this ran through her, and she knew he knew it."
+note = "author-approved for voice: idiomatic 'all the way', internal-state 'felt', info-level existentials"
+
+[[ok]]
+fp   = "bccf8cb57f40"
+rule = "there-was-were"
+file = "scenes/in-her-place.md"
+text = "Thorough, complete, her mouth working over every part of him not to draw the night out but to take it off — every trace, until there was nothing of last night left on him at all."
+note = "author-approved for voice: idiomatic 'all the way', internal-state 'felt', info-level existentials"
+
+[[ok]]
+fp   = "eaf0b624c97a"
+rule = "there-was-were"
+file = "scenes/in-her-place.md"
+text = "He turned the dial to Speed Wash and pressed the button, and took the night off the green — every trace of it, until there was nothing left in the house for Vee at all, clean long before she ever reached the door."
+note = "author-approved for voice: idiomatic 'all the way', internal-state 'felt', info-level existentials"
+
+[[ok]]
+fp   = "f0e2f32d3153"
+rule = "there-was-were"
+file = "scenes/in-her-place.md"
+text = "And he let her start it again, warm this time, on the ruined green — and he didn't look at the clock again, because there was nothing on it that mattered now, and she had seen to that."
+note = "author-approved for voice: idiomatic 'all the way', internal-state 'felt', info-level existentials"
+
+[[ok]]
+fp   = "337b890f8017"
+rule = "x-not-y"
+file = "scenes/in-her-place.md"
+text = "She folded down onto his chest, boneless, as if her strings had been cut, and she was sobbing — not prettily, not performed, the shudders working up through her that she had no say in, her face pushed into his neck, her hands finally still."
+note = "author-approved for voice: idiomatic 'all the way', internal-state 'felt', info-level existentials"
+
+[[ok]]
+fp   = "6ac37b563ead"
+rule = "x-not-y"
+file = "scenes/in-her-place.md"
+text = "She was on her side on the green, up on one elbow with her head in her hand, and she'd set the rest of herself out like something off a calendar — the top leg drawn back, the whole line of her open to him, not a stitch on."
+note = "author-approved for voice: idiomatic 'all the way', internal-state 'felt', info-level existentials"
+
+[[ok]]
+fp   = "22b6410a32a0"
+rule = "began-to"
+file = "scenes/in-his-hands.md"
+text = "She started to get up."
+note = "Reviewed with author 2026-07-10: all defensible — Pace dialogue, the accepted Thanksgiving exchange, load-bearing antithesis (a body/not a body; phone/not his), the false-positive idiom (all the way around), inceptive began-to, idiomatic there-was."
+
+[[ok]]
+fp   = "74654922b8e6"
+rule = "began-to"
+file = "scenes/in-his-hands.md"
+text = "she said, and started to arrange herself."
+note = "Reviewed with author 2026-07-10: all defensible — Pace dialogue, the accepted Thanksgiving exchange, load-bearing antithesis (a body/not a body; phone/not his), the false-positive idiom (all the way around), inceptive began-to, idiomatic there-was."
+
+[[ok]]
+fp   = "268ae500b3c9"
+rule = "filter-verbs"
+file = "scenes/in-his-hands.md"
+text = "There was no door left open for her to step through, and she felt, low and quick, that she had put her hand on something she wasn't meant to touch, and she took her hand off it."
+note = "Reviewed with author 2026-07-10: all defensible — Pace dialogue, the accepted Thanksgiving exchange, load-bearing antithesis (a body/not a body; phone/not his), the false-positive idiom (all the way around), inceptive began-to, idiomatic there-was."
+
+[[ok]]
+fp   = "020fc0b186a5"
+rule = "the-way"
+file = "scenes/in-his-hands.md"
+text = "\"The way you look after."
+note = "Reviewed with author 2026-07-10: all defensible — Pace dialogue, the accepted Thanksgiving exchange, load-bearing antithesis (a body/not a body; phone/not his), the false-positive idiom (all the way around), inceptive began-to, idiomatic there-was."
+
+[[ok]]
+fp   = "836d96adbcef"
+rule = "the-way"
+file = "scenes/in-his-hands.md"
+text = "He turned toward her, and kept turning, rolling up onto his side and coming all the way around until his body lay nearly square across hers, his feet off the far edge of the bed, and he set his head down on the lower slope of her breast with his cheek against her skin."
+note = "Reviewed with author 2026-07-10: all defensible — Pace dialogue, the accepted Thanksgiving exchange, load-bearing antithesis (a body/not a body; phone/not his), the false-positive idiom (all the way around), inceptive began-to, idiomatic there-was."
+
+[[ok]]
+fp   = "b7beea57401a"
+rule = "the-way"
+file = "scenes/in-his-hands.md"
+text = "He said it the way a person says it about someone they're glad to be able to feed, and the flicker went out as fast as it had come."
+note = "Reviewed with author 2026-07-10: all defensible — Pace dialogue, the accepted Thanksgiving exchange, load-bearing antithesis (a body/not a body; phone/not his), the false-positive idiom (all the way around), inceptive began-to, idiomatic there-was."
+
+[[ok]]
+fp   = "0bd4d2a4a0a6"
+rule = "there-was-were"
+file = "scenes/in-his-hands.md"
+text = "She ate, and for a while there was nothing she wanted to do but that, the chicken gone tender in the sauce and the pasta holding the lemon under it, and he let her."
+note = "Reviewed with author 2026-07-10: all defensible — Pace dialogue, the accepted Thanksgiving exchange, load-bearing antithesis (a body/not a body; phone/not his), the false-positive idiom (all the way around), inceptive began-to, idiomatic there-was."
+
+[[ok]]
+fp   = "47bdb609c111"
+rule = "there-was-were"
+file = "scenes/in-his-hands.md"
+text = "Now she tasted, and there was no going back to the other, and she knew exactly whose doing that was."
+note = "Reviewed with author 2026-07-10: all defensible — Pace dialogue, the accepted Thanksgiving exchange, load-bearing antithesis (a body/not a body; phone/not his), the false-positive idiom (all the way around), inceptive began-to, idiomatic there-was."
+
+[[ok]]
+fp   = "f54ae8e2632d"
+rule = "there-was-were"
+file = "scenes/in-his-hands.md"
+text = "There was no door left open for her to step through, and she felt, low and quick, that she had put her hand on something she wasn't meant to touch, and she took her hand off it."
+note = "Reviewed with author 2026-07-10: all defensible — Pace dialogue, the accepted Thanksgiving exchange, load-bearing antithesis (a body/not a body; phone/not his), the false-positive idiom (all the way around), inceptive began-to, idiomatic there-was."
+
+[[ok]]
+fp   = "351296d088a9"
+rule = "x-not-y"
+file = "scenes/in-his-hands.md"
+text = "He caught her by the wrist, easy, not to stop her, only to say it."
+note = "Reviewed with author 2026-07-10: all defensible — Pace dialogue, the accepted Thanksgiving exchange, load-bearing antithesis (a body/not a body; phone/not his), the false-positive idiom (all the way around), inceptive began-to, idiomatic there-was."
+
+[[ok]]
+fp   = "a29dcfabc61b"
+rule = "x-not-y"
+file = "scenes/in-his-hands.md"
+text = "No man had ever wanted her body like this one did, and with Pace she was a girl who had a body, not a body that happened to have a girl attached to it."
+note = "Reviewed with author 2026-07-10: all defensible — Pace dialogue, the accepted Thanksgiving exchange, load-bearing antithesis (a body/not a body; phone/not his), the false-positive idiom (all the way around), inceptive began-to, idiomatic there-was."
+
+[[ok]]
+fp   = "c1ab9cb46af5"
+rule = "x-not-y"
+file = "scenes/in-his-hands.md"
+text = "His lips closed over her, not taking her into his mouth, only holding the risen tip of her a moment between his lips, gentle."
+note = "Reviewed with author 2026-07-10: all defensible — Pace dialogue, the accepted Thanksgiving exchange, load-bearing antithesis (a body/not a body; phone/not his), the false-positive idiom (all the way around), inceptive began-to, idiomatic there-was."
+
+[[ok]]
+fp   = "cbb7c77e8fe7"
+rule = "x-not-y"
+file = "scenes/in-his-hands.md"
+text = "He reached across her to the nightstand and took up her phone, not his, because hers took the better picture and they both knew it, and stood off at the foot of the bed and lifted it."
+note = "Reviewed with author 2026-07-10: all defensible — Pace dialogue, the accepted Thanksgiving exchange, load-bearing antithesis (a body/not a body; phone/not his), the false-positive idiom (all the way around), inceptive began-to, idiomatic there-was."
+
+[[ok]]
+fp   = "e6d56e9eab07"
+rule = "x-not-y"
+file = "scenes/in-his-hands.md"
+text = "\"Again,\" she said, not a question this time, and reached over and closed her hand around him."
+note = "Reviewed with author 2026-07-10: all defensible — Pace dialogue, the accepted Thanksgiving exchange, load-bearing antithesis (a body/not a body; phone/not his), the false-positive idiom (all the way around), inceptive began-to, idiomatic there-was."
+
+[[ok]]
+fp   = "eacd84a2bf09"
+rule = "x-not-y"
+file = "scenes/in-his-hands.md"
+text = "\"No, not like that."
+note = "Reviewed with author 2026-07-10: all defensible — Pace dialogue, the accepted Thanksgiving exchange, load-bearing antithesis (a body/not a body; phone/not his), the false-positive idiom (all the way around), inceptive began-to, idiomatic there-was."
+
+[[ok]]
 fp   = "0b522636dc4f"
 rule = "a-small"
 file = "scenes/leave-no-trace.md"
@@ -786,216 +996,6 @@ rule = "x-not-y"
 file = "scenes/leave-no-trace.md"
 text = "When the pit came she caught it in her hand and put it with the others on the wax paper, not looking, sometime in between."
 note = "participial 'not looking' (covert), not the antithesis tic; single instance (re-armed by wax-paper edit)"
-
-[[ok]]
-fp   = "6a0dd1f82a5d"
-rule = "began-to"
-file = "scenes/in-her-place.md"
-text = "He got a hand under her shoulder and began to lift her off him, gentle but no longer slow."
-note = "author-approved for voice: idiomatic 'all the way', internal-state 'felt', info-level existentials"
-
-[[ok]]
-fp   = "d32ae228d004"
-rule = "filter-verbs"
-file = "scenes/in-her-place.md"
-text = "The text came a little after noon, while he was in his office, three days into a proof: *coming out this afternoon — don't make plans.* He read it twice, the second time slower, and he felt a little more solid, a little more of this world."
-note = "author-approved for voice: idiomatic 'all the way', internal-state 'felt', info-level existentials"
-
-[[ok]]
-fp   = "a89d77117f83"
-rule = "not-x-but-y"
-file = "scenes/in-her-place.md"
-text = "Thorough, complete, her mouth working over every part of him not to draw the night out but to take it off — every trace, until there was nothing of last night left on him at all."
-note = "author-approved for voice: idiomatic 'all the way', internal-state 'felt', info-level existentials"
-
-[[ok]]
-fp   = "615eb9f8872a"
-rule = "the-way"
-file = "scenes/in-her-place.md"
-text = "The vigor was all the way back in her now, humming under the words, fed by the telling of it."
-note = "author-approved for voice: idiomatic 'all the way', internal-state 'felt', info-level existentials"
-
-[[ok]]
-fp   = "6d485154ee7a"
-rule = "the-way"
-file = "scenes/in-her-place.md"
-text = "She was herself again now, all the way — the strings back in her own two hands."
-note = "author-approved for voice: idiomatic 'all the way', internal-state 'felt', info-level existentials"
-
-[[ok]]
-fp   = "823c6997c1a2"
-rule = "the-way"
-file = "scenes/in-her-place.md"
-text = "Drove me all the way home, got me out of my fancy clothes, put me to bed, left me water and everything."
-note = "author-approved for voice: idiomatic 'all the way', internal-state 'felt', info-level existentials"
-
-[[ok]]
-fp   = "ff783b18326e"
-rule = "the-way"
-file = "scenes/in-her-place.md"
-text = "Beside him Randi listened, sleepy, and a smile came up on her face soft and almost tender — and then it woke the rest of the way and turned, and she slid down under the green and took him in her mouth."
-note = "author-approved for voice: idiomatic 'all the way', internal-state 'felt', info-level existentials"
-
-[[ok]]
-fp   = "63a53abd0471"
-rule = "there-was-were"
-file = "scenes/in-her-place.md"
-text = "Then her pleasure triggered his and there was no holding it back: he pumped all he had into her in long helpless pulses, sooner than he'd meant, buried deep on the green she'd ruined — Vee's name still in the room with them both."
-note = "author-approved for voice: idiomatic 'all the way', internal-state 'felt', info-level existentials"
-
-[[ok]]
-fp   = "660f51c3c4a0"
-rule = "there-was-were"
-file = "scenes/in-her-place.md"
-text = "But the heater breathed in the vents, and under it there was nothing at all, and he took it for her — barefoot, quiet for him, part of the surprise."
-note = "author-approved for voice: idiomatic 'all the way', internal-state 'felt', info-level existentials"
-
-[[ok]]
-fp   = "829cb7650135"
-rule = "there-was-were"
-file = "scenes/in-her-place.md"
-text = "There was no *or else* in it and didn't need to be; the only quick way clear of this ran through her, and she knew he knew it."
-note = "author-approved for voice: idiomatic 'all the way', internal-state 'felt', info-level existentials"
-
-[[ok]]
-fp   = "bccf8cb57f40"
-rule = "there-was-were"
-file = "scenes/in-her-place.md"
-text = "Thorough, complete, her mouth working over every part of him not to draw the night out but to take it off — every trace, until there was nothing of last night left on him at all."
-note = "author-approved for voice: idiomatic 'all the way', internal-state 'felt', info-level existentials"
-
-[[ok]]
-fp   = "eaf0b624c97a"
-rule = "there-was-were"
-file = "scenes/in-her-place.md"
-text = "He turned the dial to Speed Wash and pressed the button, and took the night off the green — every trace of it, until there was nothing left in the house for Vee at all, clean long before she ever reached the door."
-note = "author-approved for voice: idiomatic 'all the way', internal-state 'felt', info-level existentials"
-
-[[ok]]
-fp   = "f0e2f32d3153"
-rule = "there-was-were"
-file = "scenes/in-her-place.md"
-text = "And he let her start it again, warm this time, on the ruined green — and he didn't look at the clock again, because there was nothing on it that mattered now, and she had seen to that."
-note = "author-approved for voice: idiomatic 'all the way', internal-state 'felt', info-level existentials"
-
-[[ok]]
-fp   = "337b890f8017"
-rule = "x-not-y"
-file = "scenes/in-her-place.md"
-text = "She folded down onto his chest, boneless, as if her strings had been cut, and she was sobbing — not prettily, not performed, the shudders working up through her that she had no say in, her face pushed into his neck, her hands finally still."
-note = "author-approved for voice: idiomatic 'all the way', internal-state 'felt', info-level existentials"
-
-[[ok]]
-fp   = "6ac37b563ead"
-rule = "x-not-y"
-file = "scenes/in-her-place.md"
-text = "She was on her side on the green, up on one elbow with her head in her hand, and she'd set the rest of herself out like something off a calendar — the top leg drawn back, the whole line of her open to him, not a stitch on."
-note = "author-approved for voice: idiomatic 'all the way', internal-state 'felt', info-level existentials"
-
-[[ok]]
-fp   = "22b6410a32a0"
-rule = "began-to"
-file = "scenes/in-his-hands.md"
-text = "She started to get up."
-note = "Reviewed with author 2026-07-10: all defensible — Pace dialogue, the accepted Thanksgiving exchange, load-bearing antithesis (a body/not a body; phone/not his), the false-positive idiom (all the way around), inceptive began-to, idiomatic there-was."
-
-[[ok]]
-fp   = "74654922b8e6"
-rule = "began-to"
-file = "scenes/in-his-hands.md"
-text = "she said, and started to arrange herself."
-note = "Reviewed with author 2026-07-10: all defensible — Pace dialogue, the accepted Thanksgiving exchange, load-bearing antithesis (a body/not a body; phone/not his), the false-positive idiom (all the way around), inceptive began-to, idiomatic there-was."
-
-[[ok]]
-fp   = "268ae500b3c9"
-rule = "filter-verbs"
-file = "scenes/in-his-hands.md"
-text = "There was no door left open for her to step through, and she felt, low and quick, that she had put her hand on something she wasn't meant to touch, and she took her hand off it."
-note = "Reviewed with author 2026-07-10: all defensible — Pace dialogue, the accepted Thanksgiving exchange, load-bearing antithesis (a body/not a body; phone/not his), the false-positive idiom (all the way around), inceptive began-to, idiomatic there-was."
-
-[[ok]]
-fp   = "020fc0b186a5"
-rule = "the-way"
-file = "scenes/in-his-hands.md"
-text = "\"The way you look after."
-note = "Reviewed with author 2026-07-10: all defensible — Pace dialogue, the accepted Thanksgiving exchange, load-bearing antithesis (a body/not a body; phone/not his), the false-positive idiom (all the way around), inceptive began-to, idiomatic there-was."
-
-[[ok]]
-fp   = "836d96adbcef"
-rule = "the-way"
-file = "scenes/in-his-hands.md"
-text = "He turned toward her, and kept turning, rolling up onto his side and coming all the way around until his body lay nearly square across hers, his feet off the far edge of the bed, and he set his head down on the lower slope of her breast with his cheek against her skin."
-note = "Reviewed with author 2026-07-10: all defensible — Pace dialogue, the accepted Thanksgiving exchange, load-bearing antithesis (a body/not a body; phone/not his), the false-positive idiom (all the way around), inceptive began-to, idiomatic there-was."
-
-[[ok]]
-fp   = "b7beea57401a"
-rule = "the-way"
-file = "scenes/in-his-hands.md"
-text = "He said it the way a person says it about someone they're glad to be able to feed, and the flicker went out as fast as it had come."
-note = "Reviewed with author 2026-07-10: all defensible — Pace dialogue, the accepted Thanksgiving exchange, load-bearing antithesis (a body/not a body; phone/not his), the false-positive idiom (all the way around), inceptive began-to, idiomatic there-was."
-
-[[ok]]
-fp   = "0bd4d2a4a0a6"
-rule = "there-was-were"
-file = "scenes/in-his-hands.md"
-text = "She ate, and for a while there was nothing she wanted to do but that, the chicken gone tender in the sauce and the pasta holding the lemon under it, and he let her."
-note = "Reviewed with author 2026-07-10: all defensible — Pace dialogue, the accepted Thanksgiving exchange, load-bearing antithesis (a body/not a body; phone/not his), the false-positive idiom (all the way around), inceptive began-to, idiomatic there-was."
-
-[[ok]]
-fp   = "47bdb609c111"
-rule = "there-was-were"
-file = "scenes/in-his-hands.md"
-text = "Now she tasted, and there was no going back to the other, and she knew exactly whose doing that was."
-note = "Reviewed with author 2026-07-10: all defensible — Pace dialogue, the accepted Thanksgiving exchange, load-bearing antithesis (a body/not a body; phone/not his), the false-positive idiom (all the way around), inceptive began-to, idiomatic there-was."
-
-[[ok]]
-fp   = "f54ae8e2632d"
-rule = "there-was-were"
-file = "scenes/in-his-hands.md"
-text = "There was no door left open for her to step through, and she felt, low and quick, that she had put her hand on something she wasn't meant to touch, and she took her hand off it."
-note = "Reviewed with author 2026-07-10: all defensible — Pace dialogue, the accepted Thanksgiving exchange, load-bearing antithesis (a body/not a body; phone/not his), the false-positive idiom (all the way around), inceptive began-to, idiomatic there-was."
-
-[[ok]]
-fp   = "351296d088a9"
-rule = "x-not-y"
-file = "scenes/in-his-hands.md"
-text = "He caught her by the wrist, easy, not to stop her, only to say it."
-note = "Reviewed with author 2026-07-10: all defensible — Pace dialogue, the accepted Thanksgiving exchange, load-bearing antithesis (a body/not a body; phone/not his), the false-positive idiom (all the way around), inceptive began-to, idiomatic there-was."
-
-[[ok]]
-fp   = "a29dcfabc61b"
-rule = "x-not-y"
-file = "scenes/in-his-hands.md"
-text = "No man had ever wanted her body like this one did, and with Pace she was a girl who had a body, not a body that happened to have a girl attached to it."
-note = "Reviewed with author 2026-07-10: all defensible — Pace dialogue, the accepted Thanksgiving exchange, load-bearing antithesis (a body/not a body; phone/not his), the false-positive idiom (all the way around), inceptive began-to, idiomatic there-was."
-
-[[ok]]
-fp   = "c1ab9cb46af5"
-rule = "x-not-y"
-file = "scenes/in-his-hands.md"
-text = "His lips closed over her, not taking her into his mouth, only holding the risen tip of her a moment between his lips, gentle."
-note = "Reviewed with author 2026-07-10: all defensible — Pace dialogue, the accepted Thanksgiving exchange, load-bearing antithesis (a body/not a body; phone/not his), the false-positive idiom (all the way around), inceptive began-to, idiomatic there-was."
-
-[[ok]]
-fp   = "cbb7c77e8fe7"
-rule = "x-not-y"
-file = "scenes/in-his-hands.md"
-text = "He reached across her to the nightstand and took up her phone, not his, because hers took the better picture and they both knew it, and stood off at the foot of the bed and lifted it."
-note = "Reviewed with author 2026-07-10: all defensible — Pace dialogue, the accepted Thanksgiving exchange, load-bearing antithesis (a body/not a body; phone/not his), the false-positive idiom (all the way around), inceptive began-to, idiomatic there-was."
-
-[[ok]]
-fp   = "e6d56e9eab07"
-rule = "x-not-y"
-file = "scenes/in-his-hands.md"
-text = "\"Again,\" she said, not a question this time, and reached over and closed her hand around him."
-note = "Reviewed with author 2026-07-10: all defensible — Pace dialogue, the accepted Thanksgiving exchange, load-bearing antithesis (a body/not a body; phone/not his), the false-positive idiom (all the way around), inceptive began-to, idiomatic there-was."
-
-[[ok]]
-fp   = "eacd84a2bf09"
-rule = "x-not-y"
-file = "scenes/in-his-hands.md"
-text = "\"No, not like that."
-note = "Reviewed with author 2026-07-10: all defensible — Pace dialogue, the accepted Thanksgiving exchange, load-bearing antithesis (a body/not a body; phone/not his), the false-positive idiom (all the way around), inceptive began-to, idiomatic there-was."
 
 [[ok]]
 fp   = "31167d45cf02"
@@ -2473,6 +2473,20 @@ rule = "the-way"
 file = "scenes/under-the-rug.md"
 text = "He made small talk on the way down — something on the radio, the parking at the rec center, a thing one of his students had said in office hours."
 note = "Directional idiom 'on the way down', not the filtered 'the way he' construction; false positive."
+
+[[ok]]
+fp   = "dfbf82587351"
+rule = "the-way"
+file = "scenes/vee-tells-cassie-hike.md"
+text = "She said it the way other girls said *and then we kissed.* \"He packed lunch."
+note = "Load-bearing simile: 'the way other girls said and then we kissed' equates food-talk to sex-talk; the construction is the point."
+
+[[ok]]
+fp   = "f0a0c78a8e4d"
+rule = "the-way"
+file = "scenes/vee-tells-cassie-hike.md"
+text = "Her voice opened all the way up."
+note = "'opened all the way up' is idiom, not the filtered telling-construction; matches the vista opening."
 
 [[ok]]
 fp   = "8b4855433ae4"
