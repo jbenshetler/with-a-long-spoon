@@ -120,7 +120,7 @@ She had it now. She had it and he hadn't made her small to give it to her. She r
 
 The talk came back over the cherries. She told him about the induction.
 
-Still weeks off, come November. The honor society, the one with the certificate and the dinner and the part where they read your name and you walked up to the front. She hadn't thought she'd make it. Stats had been a fight she'd won by half a point in the last week, and the letter had come, and Cassie had screamed in the hall, and her mother had done the proud cry and the *I never* cry at the same time on the phone.
+Still weeks off, come November. The honor society, the one with the certificate and the dinner and the part where they read your name and you walked up to the front. She hadn't thought it would be her. Girls from where she was from didn't get their names read out at the front of rooms. But the grades were the grades, and Intermediate Micro had thinned the major by half and she'd come through it fine, and the letter had come, and Cassie had screamed in the hall, and her mother had done the proud cry and the *I never* cry at the same time on the phone.
 
 A dinner. A ceremony. She had to find something to wear.
 
