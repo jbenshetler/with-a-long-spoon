@@ -66,17 +66,17 @@ She wanted to keep telling it. That was the strange part, how much she wanted to
 
 "Not six years old when I kissed him." It came out flat and proud, before she'd decided to be either. "I kissed him. Two days I'd known him. I do not do that, I have never once in my life done that, and I just did it."
 
-Randi sat back. "You kissed him." She let a beat pass, turning it over the way she'd turned the other thing. "Two days. You, who doesn't do that." Her voice came down soft, near tender, as though she were agreeing with something Vee hadn't said yet. "Because you couldn't not. Because of him."
+Randi sat back. "You kissed him." She let a beat pass, turning it over as she had the other thing. "Two days. You, who doesn't do that." Her voice came down soft, near tender, as though she were agreeing with something Vee hadn't said yet. "Because you couldn't not. Because of him."
 
 And Vee, who had meant to say *I made an exception,* who had the dignified version sitting right there ready, felt it leave her instead as the smaller, truer thing.
 
 "...Yeah," she said. "Because of him."
 
-"You little minx." Randi reached over and swatted her on the arm, delighted, and Vee laughed, and for one whole bright second felt like the most interesting girl in the loud bright room, like her life had finally tipped over into the kind of life that happened to people.
+"You little minx." Randi reached over and swatted her on the arm, delighted, and Vee laughed, and for one whole giddy second felt like the most interesting girl in the loud bright room, like her life had finally tipped over into the kind of life that happened to people.
 
 "Randi!"
 
-It came from across the room, bright and certain, and Vee turned with the laugh still sitting on her mouth. Two of them, threading between the tables. The one in front was beautiful the way the whole room was beautiful, only more finished, her smile arriving a moment ahead of her. The second came a step behind, older, unhurried, a coffee in one hand and her eyes already moving in a slow, easy circuit of the table. Of Vee.
+It came from across the room, bright and certain, and Vee turned with the laugh still sitting on her mouth. Two of them, threading between the tables. The one in front was beautiful like the whole room, only more finished, her smile arriving a moment ahead of her. The second came a step behind, older, unhurried, a coffee in one hand and her eyes already moving in a slow, easy circuit of the table. Of Vee.
 
 "Brooke," Randi said, warm, turning on the stool. "Hi."
 
@@ -94,7 +94,7 @@ And Vee, with the two finished women looking at her where she sat, did the thing
 
 She had taken Vee's hand somewhere in the saying of it, easily, the way she might have reached for anything on the table, her fingers cool and a little damp from the iced cup, and she held it there on the white top in plain view of the two of them and was in no hurry to let go.
 
-And something went through Vee at that, at *dear friend,* at the cool hand closing over hers in front of these women, that she could not have named and did not want to, a warmth that came with weight on it. She did not know what it had cost Randi to say it in front of them. She knew only, without being able to say how, that it had cost something, that Randi had spent it on her without appearing to count it, and that no one had chosen her out loud like that in a long time. The wrong-size feeling did not go away. It only stopped mattering next to the other thing.
+And something went through Vee at that, at *dear friend,* at the cool, damp hand closing over hers in front of these women, that she could not have named and did not want to, a warmth that came with weight on it. She did not know what it had cost Randi to say it in front of them. She knew only, without being able to say how, that it had cost something, that Randi had spent it on her without appearing to count it, and that no one had chosen her out loud like that in a long time. The wrong-size feeling did not go away. It only stopped mattering next to the other thing.
 
 Brooke's smile took it all in, the *dear friend* and the cool hand on the table, and gave back nothing but more of itself. "We should all get dinner sometime," she said, which was lovely, and meant nothing, and was plainly the end of it.
 
@@ -112,6 +112,6 @@ Randi's phone lit on the table and she frowned at it. "Ugh. I have to go be a pe
 
 They climbed down off the high stools and went out through the cold orange noise into the afternoon, and on the sidewalk Randi pulled her into the hug, quick and warm and complete, the cold-citrus smell of her and a hand flat between Vee's shoulder blades for a second, and Vee leaned into it like it was already a thing they did.
 
-"Love you, girl," Randi said, and held her a second by the arms, the whole lit face on her, and then she was gone, bright, back into the bright matched crowd she had come out of.
+"Love you, girl," Randi said, and held her a second by the arms, the whole lit face on her, and then she was gone, radiant, back into the bright matched crowd she had come out of.
 
 Vee walked the other way with her empty pink cup, into the gold afternoon. The wrong size was gone. She did not feel, now, like a thing the room could turn and look at. She felt picked. She carried it the whole way home.

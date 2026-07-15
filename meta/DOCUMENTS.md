@@ -112,7 +112,6 @@ One file per non-trivial scene; the chronology entry links to it. To work on a s
 | `meta-condensed-see-you-later.md` | See You Later |
 | `meta-condensed-substitution.md` | Substitution |
 | `meta-condensed-long-way.md` | The Long Way |
-| `meta-condensed-walk-home-kiss.md` | The Walk-Home Kiss |
 | `meta-condensed-may-i-choose.md` | May I Choose |
 | `meta-condensed-off-six-fourteen.md` | Off Six-Fourteen |
 | `meta-condensed-the-smoothie-shop.md` | The Smoothie Shop |
