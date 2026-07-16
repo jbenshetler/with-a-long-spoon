@@ -479,7 +479,7 @@ Vee tells Cassie everything — the telling forced by Pace and Randi vanishing t
 
 10. **Latent-variable plant.** Seeded as ambient end-of-class preview in the Chi Latte diptych. Later stats mirrors (continuous-vs-discrete at Secret Plans — the corrector's pulses vs. the vibrator, having replaced the old Nipple Clamps home, etc.) do not re-explain the term.
 
-11. **Hike/Fitting color framing — open edits.** The hike names **russet / brick-red only** (the magazine shade). The Fitting does **not** impose a unilateral color-match: Pace *offers* a variant slightly off the russet, honoring the want beneath it; Vee consents and comes to see it suits her better. No "poured wine" phrasing anywhere. **Pending:** (a) `meta-rules.md` ~line 178 ("burgundy, not russet… he went deeper and warmer, matched her coloring") → reframe as offer-honoring-the-want, not Pace-chose-for-her; (b) `meta-condensed-fitting.md` Plants section *"like poured wine"* → *russet, like a brick*.
+11. **Hike/Fitting color framing.** ✓ **Resolved (author):** The hike names **russet / brick-red only** (the magazine shade she names). The Fitting does **not** impose a unilateral color-match: Pace offers a deeper burgundy variant that honors the want beneath the color, and Vee comes to see — in the dark window glass — that it suits her better than the shade she'd pictured. No "poured wine" phrasing anywhere. Applied: `fitting.md` (brick-red, not brick-wine); `meta-condensed-fitting.md` Plants + Summary (poured wine → brick-red; naming located at the summit); `meta-rules.md` (silk line reframed as offer-honoring-the-want).
 
 12. **First Night motive.** Motivated by the Fitting's deferred tension, not the CW Dance. Do not write as reassurance-seeking or loss-driven.
 

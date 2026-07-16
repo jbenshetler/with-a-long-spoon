@@ -1,6 +1,6 @@
 # The Fitting
 
-*(Revised draft — sits between "Vee Tells Randi About the First Night" and "A Recognized Method." An early visit to his house. Suggestive heat; dial as needed in revision.)*
+*(Sits between "Rye" and "Vee Tells Cassie About the Fitting." An early visit to his house — the honor-society dress fitting.)*
 
 ---
 
@@ -8,11 +8,11 @@ The house was warm when she came in. Too warm — she felt it the moment the doo
 
 A bolt of cloth was on the table, and Pace stood beside it with his hands in his pockets like a man who'd done something and wasn't sure yet whether he should have. She didn't understand what she was looking at until she did.
 
-Burgundy. Not the russet — not quite the one she'd pictured, the one from the magazine, that flat brick-wine the girl in the spread had been poured into. This was deeper, wine-like, with rich purple undertones, and her first beat was a small dropping disappointment, *oh, it's not the right—,* the reflex of a woman who'd had the exact shade fixed in her head for weeks. Then he took up a corner of it and held it toward her, up near her face, the way you hold a paint chip to a wall, and she caught the two of them together in the dark glass of the window — the cloth and her own coloring, the red of her hair and the warmth of her skin — and the disappointment turned over into something she didn't have a word for.
+Burgundy. Not the russet — not quite the one she'd pictured, the one from the magazine, that flat brick-red the girl in the spread had been poured into. This was deeper, wine-like, with rich purple undertones, and her first beat was a small dropping disappointment, *oh, it's not the right—,* the reflex of a woman who'd had the exact shade fixed in her head for weeks. Then he took up a corner of it and held it toward her, up near her face, as you hold a paint chip to a wall, and she caught the two of them together in the dark glass of the window — the cloth and her own coloring, the red of her hair and the warmth of her skin — and the disappointment turned over into something she didn't have a word for.
 
 The magazine shade would have fought her. This one didn't. This one looked like it had been mixed for exactly her, like her own coloring had been consulted, and she understood in the space of a breath that he hadn't matched the dress she'd described. He'd matched *her.*
 
-It was the silk she'd named at the summit, days ago. Cherries in her hand, the sky going silver, guard down the way it gets when you're tired and high up. She'd said the honor society thing, the dress she couldn't afford, the color she'd seen in a magazine — that brick-wine red she'd had stuck in her head for weeks. Said it the way you say things you've already let go of. He'd said *that sounds like a beautiful dress,* taken another cherry, and the talk moved on.
+It was the silk she'd named at the summit, days ago. Cherries in her hand, the sky going silver, guard down the way it gets when you're tired and high up. She'd said the honor society thing, the dress she couldn't afford, the color she'd seen in a magazine — that brick-red she'd had stuck in her head for weeks. Said it the way you say things you've already let go of. He'd said *that sounds like a beautiful dress,* taken another cherry, and the talk moved on.
 
 She'd hung the idea back up beside the good-enough black dress she'd worn to everything, decided that was what she'd wear to the induction, and not thought about it again. It would have been fine.
 
@@ -85,7 +85,7 @@ Around the waist. He knelt in front of her to get the tape level and she felt th
 
 He drew the tape snug to her waist and slid his fingers forward along her sides, following the tape, the edges of his hands in light continuous contact with her — and at the spot just above her hip, the soft unguarded place where her waist curved in, she flinched. A small involuntary jerk, a sound that wasn't quite a laugh caught behind her teeth.
 
-His hands stopped. He looked up at her and she saw the grin arrive before he could stop it — not the careful steadiness he'd been holding, but something younger, surprised, delighted by a thing he hadn't been looking for. She felt her face go hot. He filed it. She could see him filing it, the way he'd filed the color and the measurements, one more thing he knew about her now that she hadn't meant to give him. His fingers found the tape again and continued forward to her navel. He read the number off the front where his thumbs pinned the tape against her. Rose. Stepped back. Wrote it down.
+His hands stopped. He looked up at her and the grin arrived before he could stop it — not the careful steadiness he'd been holding, but something younger, surprised, delighted by a thing he hadn't been looking for. Her face went hot. He filed it. She could see him filing it, the way he'd filed the color and the measurements, one more thing he knew about her now that she hadn't meant to give him. His fingers found the tape again and continued forward to her navel. He read the number off the front where his thumbs pinned the tape against her. Rose. Stepped back. Wrote it down.
 
 Under the bust. He knelt again — she understood now that he would, every time, that the kneeling was part of the method and that knowing this did not help — and fed the tape behind her with one hand while the other held the starting end just below her left breast. His fingers drew the tape around, snug beneath her, his knuckles riding the underside of her as the tape found its level, one hand coming forward to meet the other, and she felt her breath go shallow and shallow was the worst thing because it lifted her into his hands with every inhale. He held the tape level anyway, patient, his breath warm against her sternum, and read the number, and rose, and stepped away and wrote it down.
 
@@ -95,7 +95,7 @@ Across the bustline. He stayed standing for this one, close, the tape drawn acro
 
 She had a stupid half-second of just thinking about his hands. About how they would feel on her in the dark, when she wasn't standing still for them. About how she'd touched them across a table and not really *touched* them, not paid attention.
 
-She came back. He was settling the tape, and the tape ran across the fullest part of her, which was — she could not pretend otherwise — across her nipples, which were still doing what they had been doing since the moment her arms came down. She felt the tape pass over them and her stomach did something small.
+She came back. He was settling the tape, and the tape ran across the fullest part of her, which was — she could not pretend otherwise — across her nipples, which were still doing what they had been doing since the moment her arms came down. The tape passed over them and her stomach did something small.
 
 "Does it — " She heard her own voice, slightly higher than she meant it. She made it steadier. "Does this measurement change? Like. When they're not — like this."
 
@@ -135,7 +135,7 @@ Her stomach went cold under the blanket.
 
 She tried to think about something else. She watched him cut. He laid the burgundy out on the long table and weighted it and went at it with shears, fast and certain and practiced, no wasted motion, the silk falling open into shapes that made no sense to her and clearly made complete sense to him. In the flat work light the color went deeper still, almost living, and she tried to drown in that and not in what was happening lower down.
 
-She tried, *please, please, just stop,* the way you ask your body things you have already learned it doesn't answer to. It did not stop. It never did. That was the whole problem. That had always been the whole problem.
+She tried, *please, please, just stop* — asking her body a thing she'd long since learned it doesn't answer to. It did not stop. It never did. That was the whole problem. That had always been the whole problem.
 
 She lifted the edge of the blanket and looked.
 
@@ -235,7 +235,7 @@ And then the pin caught her.
 
 A bright small sting at the side of her ribs, where his hands had been working and her body had gone where his hands didn't expect. She gasped — more surprise than hurt — and looked down, and he was already there, already seeing it, the tiny bead of it welling up.
 
-He bent and kissed it. Just there, on her ribs, where the pin had been — quick, warm, before he'd decided to, the way you put your hand out before you think. She felt his mouth, and then the small heat of it staying half a second longer than kissing-it-better needed to stay.
+He bent and kissed it. Just there, on her ribs, where the pin had been — quick, warm, before he'd decided to, the way you put your hand out before you think. His mouth, and then the small heat of it staying half a second longer than kissing-it-better needed to stay.
 
 Then he sat back on his heels and looked up at her, and the smile was still there but there was something working under it now, a man on the very edge of a thing he could have fallen into so easily.
 
