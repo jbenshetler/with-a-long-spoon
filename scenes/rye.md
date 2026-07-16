@@ -40,7 +40,7 @@ Cassie didn't say anything. Cassie was rapt.
 
 "And I knocked on the glass and I called him back in." Vee was turning the cuff over in her fingers, not quite looking up. "And I took my wet shirt off in front of him. On purpose. Me. And he looked at me like I'd handed him something. Like a gift. And he didn't touch me. He was shaking, he was so cold, and he just looked, and then he put the heat on and drove me home." She looked up. "I kept the shirt. I didn't ask. He didn't ask for it back."
 
-For a moment neither of them said anything. The room was too warm, as always, the window cracked its two inches to the cold, and Vee sat inside the enormous flannel with her ruined legs and her whole face open.
+For a moment neither of them said anything. The room was cool, as always, the window cracked its two inches to the cold, and Vee sat inside the enormous flannel with her ruined legs and her whole face open.
 
 "Vee," Cassie said finally. Soft. Not *Oh, Vee.* Just her name, like setting something down where it wouldn't break.
 
