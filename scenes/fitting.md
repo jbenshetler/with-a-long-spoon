@@ -54,11 +54,11 @@ At the end of the hall a door was shut, the only closed door in the house. She s
 
 "My bedroom."
 
-She leaned toward it, a little, before she'd decided whether to let him see her do it — because she'd dressed that morning with a hope pinned to a door just like this one, had put on, under everything, the satin a girl wears hoping the man won't hand her a reason not to show it to him. She'd worn it out here hoping. She leaned, and waited for his hand to go to the handle.
+She leaned toward it, a little, before she'd decided whether to let him see her do it — because she'd dressed that morning with a door just like this one in mind, had put on, under everything, the satin a girl wears hoping the man won't hand her a reason not to show it to him. She'd worn it out here on purpose. She leaned, and waited for his hand to go to the handle.
 
 It didn't. He said *my bedroom* like he'd said the kitchen and the office — no weight on it, nothing withheld and nothing offered — and left the door shut. Something in her dropped, small and private. He touched her elbow and turned her back toward the light, and she went, and didn't let her face do a thing.
 
-He took her back the way they'd come, to the foyer, and left, into a room she hadn't seen.
+He took her back the way they'd come, to the foyer, and from there into the den — the room set square in front of the door, the one she'd glanced into on the way in and not had the chance to really look at.
 
 The den ran deep and low, warm with afternoon coming in from the far end of it. The furniture stopped her before anything else did — a long low table, a pair of chairs, a sideboard down one wall, all of it in a pale white oak she could name on sight, straight-grained and plain-lined and not plain at all, the corners put together with joints she'd never seen on anything from a store: round dowels set flush, two pieces of wood meeting so close she could find the seam only by the change in the grain. She crouched without deciding to and put her fingers on the joint.
 
@@ -74,7 +74,7 @@ She looked up at him. "You made *furniture.*"
 
 "Patience. Paying attention." He said it like those were the whole secret, which, she'd think later, they probably were.
 
-One long wall of the den was books, floor to ceiling, and because you read a person off their shelves she read his. Down low, a run of fantasy paperbacks, spines cracked white from opening — dragons, sword-hilts, and one with a knight and a girl in a long gown standing close on the cover — and some middle-schooler came to her unbidden, flat on the floor on his elbows with one of them open in front of him, gone clean out of the room. Higher, cookbooks, enough of them and worn enough that they weren't there for anyone to see. Higher still, the tall hardbound math books, the same unfriendly language as the pages on his desk. She slid one off the shelf and turned it over. "Okay. What's this one."
+One long wall of the den was books, floor to ceiling, and because you read a person off their shelves she read his. Down low, a run of fantasy paperbacks, spines cracked white from opening — dragons, sword-hilts, and one with a knight and a girl in a long gown standing close on the cover — and some middle-schooler came to her unbidden, flat on the floor on his elbows with one of them open in front of him, gone clean out of the room. Higher, cookbooks, enough of them and worn enough that they weren't there for anyone to see. Higher still, the tall hardbound math books, the expensive kind — heavy, plainly bound, the kind you had to order and couldn't have found on any shelf in the university bookstore. She slid one off and turned it over. "Okay. What's this one."
 
 "Error-correcting codes." He came and looked at the cover with her, didn't take it back. "How to send a message so it survives getting chewed up on the way out. You build the redundancy in — some algebra, a little graph theory — so if a piece drops, the rest still tells you what was there."
 
@@ -100,9 +100,9 @@ He took her out through the kitchen, to a door on its far side and down two conc
 
 Then he brought her back up the steps and through the house to the last room, and it was the biggest one he had — a porch closed in with glass, one long wall of windows and a short one at either end, and past the glass the woods fell away and the mountains stood up blue behind them. It was, she understood all at once, the whole reason a person put up with a gravel road and a driveway you drove past the first time: you got this. The afternoon poured through all that glass, flat and bright and everywhere at once.
 
-A bolt of cloth was on the long table, and Pace stopped beside it with his hands in his pockets like a man who'd done something and wasn't sure yet whether he should have. She didn't understand what she was looking at until she did.
+A bolt of cloth was on the long table, and Pace stopped beside it with his hands in his pockets like a man who'd done something and wasn't sure yet whether he should have.
 
-Burgundy. Not the russet — not quite the one she'd pictured, the one from the magazine, that flat brick-red the girl in the spread had been poured into. This was deeper, wine-like, with rich purple undertones, and her first beat was a small dropping disappointment, *oh, it's not the right—,* the reflex of a woman who'd had the exact shade fixed in her head for weeks. Then he took up a corner of it and held it toward her, up near her face, as you hold a paint chip to a wall, and she caught the two of them together in the dark glass of the window — the cloth and her own coloring, the red of her hair and the warmth of her skin — and the disappointment turned over into something she didn't have a word for.
+For weeks she'd carried a single red in her head — the dress she'd given up on, the shade from the magazine, that flat brick-red the girl in the spread had been poured into. This wasn't it. This was burgundy, deeper, wine-like, with purple under the red, and her first beat was a small dropping disappointment, *oh, it's not the right—,* the reflex of a woman who'd had the shade fixed for weeks. Then he took up a corner of it and held it toward her, up near her face, as you hold a paint chip to a wall, and she caught the two of them together in the dark glass of the window — the cloth and her own coloring, the red of her hair and the warmth of her skin — and the disappointment turned over into something she didn't have a word for.
 
 The magazine shade would have fought her. This one didn't. This one looked like it had been mixed for exactly her, like her own coloring had been consulted, and she understood in the space of a breath that he hadn't matched the dress she'd described. He'd matched *her.*
 
@@ -120,11 +120,11 @@ Counterfeit. Sample. Off-brand. She'd never landed on the answer because the ans
 
 "You made the shirt," she said.
 
-He didn't preen. That was the thing about him she kept not being ready for. A different man would have let the moment be about him, and he just tipped his head, a little sheepish, and said, "The collar took me four tries," and reached for a measuring tape coiled on the table, and that was the end of his interest in being admired.
+He didn't preen. That was the thing about him she kept not being ready for. A different man would have let the moment be about him, and he just tipped his head, a little sheepish, and said, "I couldn't find a shirt I liked, so I made one," and reached for a measuring tape coiled on the table, and that was the end of his interest in being admired.
 
 ---
 
-"I'll need you in what you'd wear under it," he said, matter-of-fact, uncoiling the tape. He said it the way he said everything about the work, plainly, a fact about the world, and then he did look up, and there was the only concession he made to what he was asking: a pause, a question held open without being spoken, all right?
+"I'll need you in what you'd wear under it," he said, matter-of-fact, uncoiling the tape. He said it the way he'd explained the joinery and the patent — plainly, a fact about the world, and then he did look up, and there was the only concession he made to what he was asking: a pause, a question held open without being spoken, all right?
 
 She said okay, or thought she did. And then she stood there.
 
@@ -153,7 +153,7 @@ Her arms wanted to come up across herself. She made them stay down. The making w
 
 Then he looked at her. And he didn't ogle.
 
-She had braced for the look. She had braced for a particular kind of male attention with a particular quality to it and she had not gotten it. What she'd gotten was — she hunted for the word — *admired*. He had looked at her the way he'd looked at the cloth, the way he looked at things he'd already decided were worth four tries. There was want in it; she wasn't blind, she could feel his want at the edges of how he held the tape. But it wasn't the main thing. The main thing was that she was beautiful to him and he was glad. He saw her, fully, and he was glad.
+She had braced for the look. She had braced for a particular kind of male attention with a particular quality to it and she had not gotten it. What she'd gotten was — she hunted for the word — *admired*. He had looked at her the way he'd looked at the cloth, the way he looked at things he'd already decided were worth his patience. There was want in it; she wasn't blind, she could feel his want at the edges of how he held the tape. But it wasn't the main thing. The main thing was that she was beautiful to him and he was glad. He saw her, fully, and he was glad.
 
 Her arms relaxed at her sides. Not all the way. But enough.
 
@@ -261,7 +261,7 @@ And underneath it, the old thing, getting worse.
 
 She was getting wetter. She knew it the way she always knew it, the warm betrayal of it, only now there was nowhere to put it — that was what her mind kept snagging on as he pinned his way down her. In bed she could blame the bed. He wasn't doing anything. He was *making a dress.*
 
-And her body had decided that this — being measured, being attended to like she was worth four tries at a collar, being looked at and looked at and looked at — *this* was the thing, and the small thumbprint on the couch was not the small thumbprint anymore. She could feel it. She could feel the cool of the soaked satin where the air found it, the size of it growing against her skin, the slow appalling spread of evidence, and he was working lower.
+And her body had decided that this — being measured, being attended to like she was worth his patience, being looked at and looked at and looked at — *this* was the thing, and the small thumbprint on the couch was not the small thumbprint anymore. She could feel it. She could feel the cool of the soaked satin where the air found it, the size of it growing against her skin, the slow appalling spread of evidence, and he was working lower.
 
 She looked down before he got there. She had to know. She tipped her chin and looked past the pinned silk at herself and hoped — stupidly, against everything she could feel on her own skin — that it didn't show, or didn't show much.
 

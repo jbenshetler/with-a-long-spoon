@@ -52,9 +52,9 @@ Vee pointed at her. "Don't."
 
 Cassie pulled her knees tighter, the small smile settling in. "I'm just saying. The shirt makes more sense now." She let that land, and then: "Wait. He *made* the shirt?"
 
-"I didn't know that until today. There's no tag in it — I went looking, the first night I had it. I couldn't sleep, I was just — going over it." She heard how that sounded and didn't care. "And there's nothing. No tag, no brand, no size, nothing. But the flannel's beautiful, Cass, it's like — it's the softest thing I own. And it's *made* well. So I couldn't figure it out, because good fabric, made like that, that's a tag, that's a label, that costs something, and there wasn't one. It made no sense." She shook her head. "I gave up on it. Filed it under, I don't know, weird things about him." A week of sleeping in a shirt he'd made, the answer in her hands the whole time, and she'd decided it was a riddle and gone to sleep. "He made the collar four times to get it right."
+"I didn't know that until today. There's no tag in it — I went looking, the first night I had it. I couldn't sleep, I was just — going over it." She heard how that sounded and didn't care. "And there's nothing. No tag, no brand, no size, nothing. But the flannel's beautiful, Cass, it's like — it's the softest thing I own. And it's *made* well. So I couldn't figure it out, because good fabric, made like that, that's a tag, that's a label, that costs something, and there wasn't one. It made no sense." She shook her head. "I gave up on it. Filed it under, I don't know, weird things about him." A week of sleeping in a shirt he'd made, the answer in her hands the whole time, and she'd decided it was a riddle and gone to sleep. "He said he couldn't find a shirt he liked, so he made one."
 
-"Four times," Cassie repeated.
+"So he made one," Cassie repeated.
 
 "He said it like it was nothing."
 

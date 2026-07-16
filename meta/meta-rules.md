@@ -176,7 +176,7 @@
 - [ ] Details established in a scene become canonical — check against `meta-plan-chronology.md` and the relevant arch/bible docs before writing anything that could conflict
 - [ ] The no-tag shirt: she went looking for the tag the first night she had it; it was the softest thing she owned; good fabric, well-made; she filed it as a riddle and gave up. The fitting detonates it.
 - [ ] The shirt on the pillow: she put it there without thinking when she changed — it belongs on her pillow, not Cassie's, not put away
-- [ ] The collar: he made it four times to get it right. He said it like it was nothing.
+- [ ] Why he made the shirt: *"I couldn't find a shirt I liked, so I made one."* A fitness-for-purpose / Arts-and-Crafts reason — he builds his own because nothing off the rack meets his standard, NOT laborious hand-craft for its own sake (he uses the right tool: the sewing machine does buttonholes). He said it like it was nothing, because to him it is. (This is the answer to the no-tag riddle.)
 - [ ] The riser: she stood on it. It put her up. He was on his knees for the hem and looking up — the geometry is specific and load-bearing
 - [ ] The silk: burgundy, not russet. Russet/brick-red is the magazine shade she *named*; Pace's burgundy is a deeper, warmer variant that honors the want-to-be-beautiful beneath the color she asked for, not the reference itself. He doesn't override her taste — she sees in the dark window glass that it suits her better than the shade she'd pictured.
 - [ ] The heat: he turned it up before she came. Hours before, probably — early enough for the warmth to soak in. He thought of it then. This is the detail that detonates Cassie — *"Oh, Vee."*
