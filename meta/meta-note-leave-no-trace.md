@@ -6,7 +6,7 @@
 
 ## Position & job
 
-- **Sits before the Fitting and before the first night.** Reading order: …Dear → **Leave No Trace** → Rye → Fitting → Vee Tells Cassie About the Fitting → How It's Done → … → First Night Together.
+- **Sits before the Fitting and before the first night.** Reading order: …Dear → **Leave No Trace** → Rye → Fitting → Turned Up → How It's Done → … → First Night Together.
 - Their **third time out**, ~late Sep / early Oct.
 - **The hike is the cared-for/swoon apex, and it carries the domestic-tenderness work that cannot live at the house.** The first time Vee is alone with Pace at his home, the sexual tension is too high for a domestic visit to be believable (they'd go straight to bed, wasting the deferral the Fitting and first night depend on). **The wilderness is the chaperone the bedroom can't be:** he can care for her completely here *without* it discharging, because they're on a mountain, not in his bedroom. So the cooked-for tenderness relocates to the trail.
 - **This scene builds the trust the Fitting and first night spend.** It spends nothing itself.

@@ -82,8 +82,8 @@ The pure romantic beat. Vee tells Cassie about the hike, the kept shirt, and the
 *Early fall · ~Sat Oct 10* · Draft complete · `fitting.md` · [detail](meta-condensed-fitting.md)
 He turned the heat up before she came. Burgundy silk matched to her coloring, not the magazine reference. No-tag shirt detonates. Measuring sequence close and rhythmic; the deliberate *"Oops"*; *"Keep still"* at audible cost. Ends with deferred tension intact — the tension that motivates the first night. Pays off: silk-naming (hike), no-tag shirt (hike). Plants: the deferred want.
 
-### [SCENE] Vee Tells Cassie About the Fitting
-*~Sat Oct 10 · same afternoon as the Fitting* · Draft complete · `vee-tells-cassie-fitting.md` · [detail](meta-condensed-vee-tells-cassie-fitting.md)
+### [SCENE] Turned Up
+*~Sat Oct 10 · same afternoon as the Fitting* · Draft complete · `turned-up.md` · [detail](meta-condensed-turned-up.md)
 Warmer, less performed than the Randi version. The heat detail lands hardest (*"He turned it up days ago, probably"*); Cassie goes still. Tips into comedy. Quiet Cassandra-track work. Pairs with the Cassie beat in Stats — Simpson's Paradox (experience → completed object).
 
 ---
@@ -110,7 +110,7 @@ Lean scene, quick build to quick release — the bridge is crossed (First Night)
 
 ### [SCENE] Stats — Simpson's Paradox
 *~Fri Oct 23 · morning after Dress Pickup · stats class day* · Draft complete · `stats-simpsons-paradox.md` · [detail](meta-condensed-stats-simpsons-paradox.md)
-Absorbs the old standalone "Vee Shows Cassie the Dress." Vee comes to stats glowing and late off the overnight at Pace's (the gown home at the dorm, zipped, shown to no one) and sits between her two confidantes (Cassie | Vee | Randi). The dress is old news to both (the fitting tellings), so neither re-reveals it; the fork is in how each meets the transformed Vee. Cassie watches Vee, not the dress — "Was it a good night?" / "Yes. Oh, yes." Randi hears the other thing in that second *yes* ("You lucky slut"), draws out the shoe-gap, and binds it with a favor ("How's Saturday"), setting up Shoe Shopping. The professor's **Simpson's-paradox** drone bookends it — short-term trends reversing against the whole, same data, the total handing you the reverse of the truth — and Vee transcribes it, connecting it to nothing. Pairs with Vee Tells Cassie About the Fitting (experience → completed object, Cassie's Cassandra role).
+Absorbs the old standalone "Vee Shows Cassie the Dress." Vee comes to stats glowing and late off the overnight at Pace's (the gown home at the dorm, zipped, shown to no one) and sits between her two confidantes (Cassie | Vee | Randi). The dress is old news to both (the fitting tellings), so neither re-reveals it; the fork is in how each meets the transformed Vee. Cassie watches Vee, not the dress — "Was it a good night?" / "Yes. Oh, yes." Randi hears the other thing in that second *yes* ("You lucky slut"), draws out the shoe-gap, and binds it with a favor ("How's Saturday"), setting up Shoe Shopping. The professor's **Simpson's-paradox** drone bookends it — short-term trends reversing against the whole, same data, the total handing you the reverse of the truth — and Vee transcribes it, connecting it to nothing. Pairs with Turned Up (experience → completed object, Cassie's Cassandra role).
 
 ### [SCENE] Shoe Shopping with Randi
 *~Sat Oct 24* · **Draft complete:** `shoe-shopping-randi.md` · SATC · [detail](meta-condensed-shoe-shopping.md)

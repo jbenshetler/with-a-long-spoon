@@ -75,8 +75,8 @@ Established verbal signatures: the flat single-word return (declines the warm-co
 
 ## Physical Tells and Props
 
-- **The highlighter goes down the moment Vee walks in** — she reads Vee instantly; the put-down is the tell that her full attention is now on her friend. (Drafted: `vee-tells-cassie-fitting.md`.)
-- **Goes very still / pulls knees to chest** when she is truly listening — "the way she got when she was paying attention." (Drafted: `vee-tells-cassie-fitting.md`.)
+- **The highlighter goes down the moment Vee walks in** — she reads Vee instantly; the put-down is the tell that her full attention is now on her friend. (Drafted: `turned-up.md`.)
+- **Goes very still / pulls knees to chest** when she is truly listening — "the way she got when she was paying attention." (Drafted: `turned-up.md`.)
 - **Moves when processing** — window, back, bed, up again — **settling as the telling deepens.** The motion tracks the depth of what she's taking in.
 - **The car:** an old rust-spotted SUV with squeaking suspension, kept because it works and hauls equipment. The squeak is a **free entrance cue** Vee recognizes before she sees the car. **Keep the car an object — no name, no quirks, no running bit.**
 - Ball cap pulled low, headphones (volume low enough that she laughs at things said two tables over), shorts and yesterday's shirt — the functional, indifferent-to-venue uniform. (Drafted: `see-you-later.md`.)

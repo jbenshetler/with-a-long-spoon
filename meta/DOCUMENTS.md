@@ -48,7 +48,7 @@ scene-level disciplines. Named `meta-craft-<character>`.
 | `meta-craft-vivienne.md` | POV and reader identification; voice regression; behavioral signatures; the involuntary-signal hierarchy; deflection mechanics per relationship; the cutting voice at experience level; the chiasmus discipline; the three prose commitments. |
 | `meta-craft-pace.md` | *(to be created)* |
 | `meta-craft-randi.md` | POV and reader positioning; the speech engine (power wears warmth); reserved vocabulary (*seen* belongs to Pace); the cup/nail-press mechanics and firing rules; the locked door; physical description; SATC scene rendering; concealment from Pace; the Fairytale rendering; closing image; what the prose must hold. |
-| `meta-rules.md` | **Verification checklist.** Pass/fail propositions for Vee, Pace, Randi, cross-cutting structural rules, writing style (synthesized from `the-bench.md` and `the-pointing-game.md`), scene detail consistency (synthesized from `vee-tells-cassie-fitting.md`), and a pre-filing checklist. Run against any draft. For reasoning behind any rule, open the relevant craft file. |
+| `meta-rules.md` | **Verification checklist.** Pass/fail propositions for Vee, Pace, Randi, cross-cutting structural rules, writing style (synthesized from `the-bench.md` and `the-pointing-game.md`), scene detail consistency (synthesized from `turned-up.md`), and a pre-filing checklist. Run against any draft. For reasoning behind any rule, open the relevant craft file. |
 
 ---
 
@@ -118,7 +118,7 @@ One file per non-trivial scene; the chronology entry links to it. To work on a s
 | `meta-condensed-leave-no-trace.md` | Leave No Trace |
 | `meta-condensed-rye.md` | Rye (pure-romance telling; pairs with Toenails) |
 | `meta-condensed-fitting.md` | The Fitting |
-| `meta-condensed-vee-tells-cassie-fitting.md` | Vee Tells Cassie About the Fitting |
+| `meta-condensed-turned-up.md` | Turned Up |
 | `meta-condensed-how-its-done.md` | How It's Done |
 | `meta-condensed-first-night.md` | First Night Together |
 | `meta-condensed-toenails.md` | Toenails |
@@ -198,7 +198,7 @@ Listed in chronological order (filesystem = `scenes/`; order, names, and status 
 | `leave-no-trace.md` | Leave No Trace | complete |
 | `rye.md` | Rye | complete |
 | `fitting.md` | The Fitting | complete |
-| `vee-tells-cassie-fitting.md` | Vee Tells Cassie About the Fitting | complete |
+| `turned-up.md` | Turned Up | complete |
 | `how-its-done.md` | How It's Done | complete |
 | `first-night.md` | First Night Together | complete |
 | `dress-pickup.md` | Dress Pickup | complete |

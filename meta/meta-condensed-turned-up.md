@@ -1,6 +1,6 @@
-# Condensed — Vee Tells Cassie About the Fitting
+# Condensed — Turned Up
 
-*Scene · Draft complete · `vee-tells-cassie-fitting.md` · same day as The Fitting · same afternoon*
+*Scene · Draft complete · `turned-up.md` · same day as The Fitting · same afternoon*
 
 ## Summary
 

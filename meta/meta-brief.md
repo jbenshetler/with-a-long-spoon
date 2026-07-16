@@ -57,7 +57,7 @@ Pace does not know what happens at the SATC lunches. Vee does not know Pace and 
 
 **Phase:** Drafting. Approximately 10 scenes complete out of ~41 planned entries. The novel's chronology runs one academic year (fall semester through spring).
 
-**Drafted scenes:** The Bench, Standards, The Pointing Game (diptych, `the-pointing-game.md`), See You Later (diptych; collapses former coffee/class beats), Substitution, The Fitting, Vee Tells Cassie About the Fitting, SATC Brunch / Vee Tells Randi (opening movement), The Porch Scene, Threesome architecture (planning doc only).
+**Drafted scenes:** The Bench, Standards, The Pointing Game (diptych, `the-pointing-game.md`), See You Later (diptych; collapses former coffee/class beats), Substitution, The Fitting, Turned Up, SATC Brunch / Vee Tells Randi (opening movement), The Porch Scene, Threesome architecture (planning doc only).
 
 **Current phase of story:** Early-to-middle. The configuration is established; the SATC track is running; the erotic staircase is ascending. The threesome is the destination.
 

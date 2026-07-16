@@ -1,4 +1,4 @@
-# Vee Tells Cassie About the Fitting
+# Turned Up
 
 *(Scene 14a. Dorm room — Vee and Cassie's double. Same day as the fitting; Vee has come straight back. The dress is unfinished, the silk still pinned to its shape at Pace's house. Vee's POV.)*
 

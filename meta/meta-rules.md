@@ -168,7 +168,7 @@
 
 ---
 
-## SCENE DETAILS — Synthesized from Vee Tells Cassie About the Fitting
+## SCENE DETAILS — Synthesized from Turned Up
 
 *These rules govern canonical details that must remain consistent once established. Useful for verification against existing scenes and for maintaining continuity in new ones.*
 
