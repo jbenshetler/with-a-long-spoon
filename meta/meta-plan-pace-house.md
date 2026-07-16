@@ -140,7 +140,7 @@ the woodshop); **The Fitting plays here.** On the page (`scenes/dress-pickup.md`
 - A **full-length mirror**, newly hung on the wall for the Dress Pickup; the pedestal set
   in front of it.
 - The finished gown hung from the **lip of the window frame** for the reveal.
-- Light: the Fitting by lamplight (evening); the Dress Pickup by day, the sun through the
+- Light: both by day — the Fitting in flat, exposing afternoon light (nowhere to hide; load-bearing for the shame, the wet-spot has no shadow to sit in); the Dress Pickup gentler, the sun through the
   silk.
 
 ## Atmosphere / constants `[PAGE]`
@@ -149,7 +149,7 @@ so he can take his time without anyone being cold ("his too-warm house"). The fe
 times Vee turns up **unannounced** the house is markedly cooler, an ordinary
 temperature — the contrast is how she's worked out, without his ever saying it, that
 he warms the place for her comfort, before she's even there to feel it (origin: the
-first night she took her top off under his roof). Quiet; lamplight; a private retreat
+first night she took her top off under his roof). Quiet; a private retreat
 two people move through without calling out to each other.
 
 ## Fixtures / props
@@ -173,6 +173,20 @@ two people move through without calling out to each other.
   computer room is **the office**, a separate room.
 - **Prior women / access:** he owns the house (the motel stage; Vee brought home early) —
   see **Access** above.
+
+## The Fitting — drafted canon (first visit, `fitting.md`)
+
+*The first house visit is now drafted (a full, Vee-requested tour, by day). These confirm/extend the room sections above.*
+
+- **Drive-up / façade** `[PAGE]`: ~20 min past town, pavement → gravel; the driveway a **narrow cut through a hill**, easy to miss (Vee overshoots and doubles back; GPS quits off the pavement — *his* directions are exact, she's the one bad with them). The house is **small and old — post-war, vinyl siding, composite roof**. Concrete parking pad; **his old white pickup** (planted at Leave No Trace, so she knows it here); a **two-car garage** (the woodshop), oversized for the little house — the tell from the drive. **Three steps to a covered stoop**; a **sconce** by the door (bulb dark under a cover by day); a **painted wood door with a single diamond pane** at eye height (he sees her through it, opens before she knocks).
+- **The patent** `[PAGE]`: image reconstruction — **pulling the picture out of the noise, used in MRI / medical imaging** to run scans faster (less time in the machine for a sick, scared patient). He goes voluble in pure wonder; the money is incidental. *(Domain was undefined before; defined here.)*
+- **Foyer** `[PAGE]`: a **coat closet**; the **good shoes paired in the bottom** — the purpose-built pairs, *one right pair per thing he does* (she reads half the man off the closet floor).
+- **Kitchen** `[PAGE]`: **spare but purposeful** (rhymes with the shoes). An **old secondhand KitchenAid**, paint chipped. **Timeline note:** the *green tea kept for Vee* is a **later** accretion — **not yet stocked at the first visit**.
+- **Bathroom** `[PAGE]`: **two towels** (a morning and an evening — he showers after the shop; one towel reads as poverty, not economy).
+- **Office** `[PAGE]`: **closed laptop + a serious matte workstation** (the one expensive thing in the house, no gamer RGB); **green graph paper** in his small square hand (notation + diagrams); **printed article drafts** marked up (his own and others'); **journals read online**, not paper. Vee (econ — calc + linear algebra done, stats in progress) reads the *shape*, not the content.
+- **Den** `[PAGE]`: the library wall holds **sword-and-sorcery** (the chivalric refuge — one cover a **knight and a girl in a gown**, unspoken Pace/Vee), **cookbooks** (he cooks), **hardbound math texts**. **Arts-and-Crafts furniture he built** — table, chairs, sideboard in **pale white oak**; **round dowels set flush** (*not* square pegs — no mortising machine, and showing off is un-A&C), **glued cut joints, no screws**, **stain and shellac he mixed himself**. Reached by doubling back to the foyer.
+- **Woodshop / garage** `[PAGE]`: the **two-car garage off the far side of the kitchen, down a couple concrete steps** (oversized for the house — the drive-up tell). Immaculate for safety; tools in painted outlines; a piece curing (a chair short its back). *A look, not a full tour.*
+- **Sun porch** `[PAGE]`: the **largest room in the house** — glass on one long wall and both short ends, **woods → mountains** beyond (the payoff of the remote lot). **The Fitting plays here by day** (see Light, above).
 
 ## See also
 - `character-relationship-bible.md` — what each room *means*; Pace's objects/class

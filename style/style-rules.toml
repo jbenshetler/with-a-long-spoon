@@ -128,6 +128,14 @@ severity = "warn"
 why      = "'the whole of her / the whole of it' — the totality/absorption tic, overused. Cut to 'all of', or recast to a concrete image. Keep only rarely, with the author's direction."
 
 [[rule]]
+id       = "unhurried"
+kind     = "phrase"
+phrase   = "unhurried"
+severity = "warn"
+why      = "'unhurried' — the slow/in-control tic, badly overused (80+ times across scenes, a 14-hit cluster in vee-on-the-bench). Thin drastically; save it for the rare load-bearing beat. Vary the image — don't just swap in another reach-word."
+suggest  = "slow / took his time / in no rush / patient / without hurry / let it take its time (pick per beat; vary, don't substitute one tic for another)"
+
+[[rule]]
 id       = "vivienne"
 kind     = "phrase"
 phrase   = "Vivienne"

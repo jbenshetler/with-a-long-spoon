@@ -87,6 +87,7 @@ Pace is not solemn about sex. He has a genuine sense of humor and a light, good-
 - Defers immediately outside his two real stakes (sex and love); holds without friction inside them
 - Does not file what he sees; is in continuous present-tense contact with whoever is in the room
 - The private satisfaction of virtue — a small smoothness in how he carries himself in scenes where he has done the right thing
+- **Hand into her hair** on a kiss — his kiss-entry signature (`the-bench`, `fitting`), the deliberate counter to **Randi's hand at the hinge of the jaw**. Keep them distinct: the contrast is load-bearing for the **threesome touch-recognition** (Vee triangulating identity in the dark)
 
 ---
 

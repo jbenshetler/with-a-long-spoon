@@ -4,9 +4,103 @@
 
 ---
 
-The house was warm when she came in. Too warm — she felt it the moment the door shut behind her, a close even heat with no draft in it, and she almost said something, *did you leave the heat on,* the kind of thing you say. She didn't. She filed it under the small mysteries of him and forgot it, the way you walk past a wrapped box on the counter without asking who it is for.
+His directions were good — they always were, exact and in order and easy to follow. She was the hard part, and so was the gravel: twenty minutes past the edge of town the pavement gave out, and the map on her phone gave out with it, and she drove straight past the driveway and had to come back for it — a narrow cut he'd let the hill nearly close over, easy to miss even if you weren't bad at this, and she was. She took it slow, stone loud under the tires, the cut climbing until the hill opened at the top onto a clearing and a house.
 
-A bolt of cloth was on the table, and Pace stood beside it with his hands in his pockets like a man who'd done something and wasn't sure yet whether he should have. She didn't understand what she was looking at until she did.
+It was small. Older than she'd built it in her head — post-war, vinyl-sided, a composite roof. The gravel widened into a concrete pad where his truck sat nose-in to a two-car garage, closed up, more garage than a house this size had any business with. Three steps up to a covered stoop, a sconce beside the door with its bulb dark under a cover, waiting for night, and a painted wood door with a single diamond of glass set in at eye height.
+
+The diamond darkened — someone behind it — and the door came open before she'd made the top step.
+
+"Hi," he said.
+
+"I missed you," she said, and looked at him a moment first — let herself, up close, in the bright afternoon light, which you don't get in a moving truck or across a restaurant table — and then she leaned in and kissed him. The kiss she'd been wanting since the mountain — since the rain, the truck, the cop's lights swinging up to end the night before she got the chance at it — the one she'd made up her mind to take somewhere back on the paved road, before she lost the turn.
+
+He met her. His hand came up into her hair and the kiss opened, and it was everything the cold, wet minute on the mountain hadn't been let to be — he took his time, sure, and it went deep — and she had the plain satisfaction of a thing waited-for finally arriving.
+
+And then he was the one who stopped it. He drew back, not far, his breath gone uneven against her mouth, and the stopping was his; he put the brakes on. Something in her went still and started paying attention. She had been the one to reach — and no boy she'd ever been with had once been the one to stop. That had always been her job, never theirs. His hand slipped out of her hair.
+
+"Come in," he invited.
+
+And she went, the want still lit in her with nowhere to put it.
+
+The house was warm. Too warm — a close, even heat with no draft in it, and she almost said something, *did you leave the heat on,* the kind of thing you say, and didn't. She filed it under the small mysteries of him and let it go, the way you walk past a wrapped box on the counter without asking who it's for.
+
+"Show me," she said. "The whole thing. I want to see where you live."
+
+Something moved in his face — pleased, and not troubling to hide it, a man glad to be asked. "Okay," he said, and he didn't keep the gladness out of the word.
+
+By the door a coat closet stood open, and while he hung her jacket she looked at the floor of it: shoes, paired and squared, a short row. Hiking boots gone pale at the creases; work boots, stiffer, scarred; running shoes; a good pair of ropers, the heels barely touching.
+
+"How many pairs of shoes does one man need," she said, teasing.
+
+"Depends how many things he does." Not defending it — just true, and a little pleased to have her looking. One right pair for each thing and no more; she could have read half of him off that closet floor without a word.
+
+The kitchen was small, and out of an old reflex she braced for one of the two things a kitchen ever got to be — the granite kind nobody cooked in, or the one-fork-and-a-jar-of-sauce kind. It was neither. It looked like it had a purpose. A white counter with the shine worn off, wiped down; a kettle; a few good knives standing in a block, not a set, only the ones a cook keeps reaching for; a couple of heavy pans; a KitchenAid on the counter, white and old, a corner of the paint chipped, worn to the shine of a thing used every day. Nothing for show. Everything in the room had earned its place by getting used — the same logic as the shoes, one right thing for each thing he did.
+
+Down a hall to the left: a bathroom, plain, clean, two towels on the rod. And then a room he called the office, and the office was the opposite of the rest of the house — the one room that had thrown over order entirely. A closed laptop pushed to the side of the desk, and beside it a real workstation, matte and serious, not one glowing light on it — the first expensive thing she'd seen in the whole house, and nothing like the game rigs the boys she knew lit their rooms up with. Everything else was paper. Green graph paper covered edge to edge in neat square handwriting — symbols in some language she'd never been taught, and squiggles she understood after a second were diagrams. And printer pages, typeset, drafts of articles gone dense with corrections in the same square hand — marking up somebody's argument, or his own.
+
+"Can I look?"
+
+"Sure."
+
+She picked up a page. A few English words. A few things she knew from her own classes — a summation sign, an integral, the shape of a proof. And past that, nothing she had names for: two years of econ had gotten her through calculus and linear algebra and into the statistics she was still in the middle of, and none of it reached whatever this was. She put the page back where she'd found it.
+
+"I didn't realize you knew Sanskrit," she said.
+
+He chuckled, and didn't explain it down to her size, and she was glad of that — glad he stayed exactly as far past her as he was.
+
+At the end of the hall a door was shut, the only closed door in the house. She stopped in front of it.
+
+"What's back there?"
+
+"My bedroom."
+
+She leaned toward it, a little, before she'd decided whether to let him see her do it — because she'd dressed that morning with a hope pinned to a door just like this one, had put on, under everything, the satin a girl wears hoping the man won't hand her a reason not to show it to him. She'd worn it out here hoping. She leaned, and waited for his hand to go to the handle.
+
+It didn't. He said *my bedroom* like he'd said the kitchen and the office — no weight on it, nothing withheld and nothing offered — and left the door shut. Something in her dropped, small and private. He touched her elbow and turned her back toward the light, and she went, and didn't let her face do a thing.
+
+He took her back the way they'd come, to the foyer, and left, into a room she hadn't seen.
+
+The den ran deep and low, warm with afternoon coming in from the far end of it. The furniture stopped her before anything else did — a long low table, a pair of chairs, a sideboard down one wall, all of it in a pale white oak she could name on sight, straight-grained and plain-lined and not plain at all, the corners put together with joints she'd never seen on anything from a store: round dowels set flush, two pieces of wood meeting so close she could find the seam only by the change in the grain. She crouched without deciding to and put her fingers on the joint.
+
+"Where'd you get these?"
+
+"I made them."
+
+She looked up at him. "You made *furniture.*"
+
+"Most of what's in here." He was pleased — plainly, quietly proud, watching her hand on the wood more than her face. "That joint you've got your fingers on, there's no screws in it. It's cut to lock, and glued, so it stays. I mixed the stain myself. The shellac too."
+
+"How does somebody even get to where they can do this."
+
+"Patience. Paying attention." He said it like those were the whole secret, which, she'd think later, they probably were.
+
+One long wall of the den was books, floor to ceiling, and because you read a person off their shelves she read his. Down low, a run of fantasy paperbacks, spines cracked white from opening — dragons, sword-hilts, and one with a knight and a girl in a long gown standing close on the cover — and some middle-schooler came to her unbidden, flat on the floor on his elbows with one of them open in front of him, gone clean out of the room. Higher, cookbooks, enough of them and worn enough that they weren't there for anyone to see. Higher still, the tall hardbound math books, the same unfriendly language as the pages on his desk. She slid one off the shelf and turned it over. "Okay. What's this one."
+
+"Error-correcting codes." He came and looked at the cover with her, didn't take it back. "How to send a message so it survives getting chewed up on the way out. You build the redundancy in — some algebra, a little graph theory — so if a piece drops, the rest still tells you what was there."
+
+"That sounds impossible."
+
+"You do it every time you open your mouth." Warming to it. "'The dogs *are* barking' — *dogs*, *are*, it's plural twice over. Somebody coughs, you miss a word, you still get the sentence, because the sentence already said it more than once. That's all this is. Say it more than once so the noise can't kill it."
+
+She came up out of the book — lifted her eyes off the page and looked around, at the oak he'd made and the wall of books and the good worn order of a whole house he'd built around himself — and the question came out of her blunter than she'd have chosen. "This is really nice for a grad student. How do you afford all this? Are your parents rich?"
+
+Something crossed him at *parents* — a small closing, there and gone, a door easing shut two rooms away. "No," he said. Then, lighter, back in the room: "I license a patent. It pays a little."
+
+"You have a *patent.*" She turned to face him. "What's it do?"
+
+And he lit up like a six-year-old who'd just found out everything there was to know about dinosaurs. "You know MRI machines," he said, starting where she stood and working in. "The tube, holding still, the banging for half an hour. So — the machine's straining to pick up something really faint, and it comes in buried under noise, and the whole game is telling the real signal from the junk. That's the hard part, always." He wasn't looking at her now; he was looking at the middle of the air, where the thing was. "Mine does that part faster. Finds the picture in the noise in a fraction of the passes. Which is *time* — somebody sick, somebody scared, a kid who can't lie still, they get the same picture and they're out of the tube in a fraction of it."
+
+He came back to her face like he'd surfaced from somewhere. "It does other things. That's the part I like."
+
+She stood there and for a second didn't know what to do with her whole chest.
+
+"Show me where you make them," she said — she'd been wanting to ask since her hand was on the joint.
+
+He took her out through the kitchen, to a door on its far side and down two concrete steps, to the reason the garage doors were too big for the house. It had been a garage. It wasn't one now. She'd been in garages men used this way — an uncle's, a boyfriend's father's — and they ran to one kind of thing, coffee cans of screws and a floor you picked your way across. This was cleaner than her kitchen at home: the floor swept to bare concrete, the hand tools up on the wall each inside a painted outline of itself, the big machines — a table saw, a band saw, a tall drill on its own post, three or four more she had no name for — wiped down and squared to the room. It smelled of cut wood and, over it, something sharper, the stain or the shellac he'd talked about. On a bench to one side a chair sat half-finished, still short its back, a rag and an open can waiting beside it. He didn't take her in. He stood in the doorway and let her look, and she looked, and thought she could have stayed a while.
+
+Then he brought her back up the steps and through the house to the last room, and it was the biggest one he had — a porch closed in with glass, one long wall of windows and a short one at either end, and past the glass the woods fell away and the mountains stood up blue behind them. It was, she understood all at once, the whole reason a person put up with a gravel road and a driveway you drove past the first time: you got this. The afternoon poured through all that glass, flat and bright and everywhere at once.
+
+A bolt of cloth was on the long table, and Pace stopped beside it with his hands in his pockets like a man who'd done something and wasn't sure yet whether he should have. She didn't understand what she was looking at until she did.
 
 Burgundy. Not the russet — not quite the one she'd pictured, the one from the magazine, that flat brick-red the girl in the spread had been poured into. This was deeper, wine-like, with rich purple undertones, and her first beat was a small dropping disappointment, *oh, it's not the right—,* the reflex of a woman who'd had the exact shade fixed in her head for weeks. Then he took up a corner of it and held it toward her, up near her face, as you hold a paint chip to a wall, and she caught the two of them together in the dark glass of the window — the cloth and her own coloring, the red of her hair and the warmth of her skin — and the disappointment turned over into something she didn't have a word for.
 
@@ -34,7 +128,7 @@ He didn't preen. That was the thing about him she kept not being ready for. A di
 
 She said okay, or thought she did. And then she stood there.
 
-Her hands didn't move at first. Then they did — she drew a breath that didn't fill her lungs, undid the button of her jeans and the zipper, bent and pushed the denim down over her hips, balanced on one foot and then the other to step out of them, the small undignified mechanics of taking off jeans in front of a man who was politely not watching her do it. She folded them, badly, and set them on the back of a chair. Straightening, she caught herself glancing down — at her own legs, bare in the lamp light, longer and more shapely than she sometimes remembered they were — and felt, for one private second, the small uncomplicated pleasure of liking them.
+Her hands didn't move at first. Then they did — she drew a breath that didn't fill her lungs, undid the button of her jeans and the zipper, bent and pushed the denim down over her hips, balanced on one foot and then the other to step out of them, the small undignified mechanics of taking off jeans in front of a man who was politely not watching her do it. She folded them, badly, and set them on the back of a chair. Straightening, she caught herself glancing down — at her own legs, bare in the afternoon light, longer and more shapely than she sometimes remembered they were — and felt, for one private second, the small uncomplicated pleasure of liking them.
 
 They were good legs. Does he like my legs? The question arrived from nowhere, the traitorous question a woman asks even when she already knows the answer, even when she's standing half-undressed in the home of a man who picked her — walking right by Randi, Randi!, without even looking — and she set it down where she'd set the jeans and reached for the hem of her shirt.
 
@@ -49,9 +143,9 @@ Her stomach dropped a little. Of course. She had known it, distantly, the whole 
 
 He had seen her like this once, or near it — in the truck on the mountain, when she'd unbuttoned her wet shirt herself and pushed it off and handed him the sight of her, and he'd sat and looked at all of her and not moved, the gladness in him the whole of the answer. But that had been hers to give, in a charged, dripping minute with the wanting already loud in both of them, gone past the point where being seen could be its own event.
 
-This was not that. This was a bright lamp on a work table and a man fully dressed with his pencil tucked behind his ear and a measuring tape in his hand, waiting for her to take her bra off so he could look at her, sustained, on purpose, for the length of an hour. A small ugly word arrived from the back of her mind, in her mother's register: stripper. That was what women called this. A dressed man and a woman taking her clothes off for his attention. She closed her eyes for a beat against the word and the word stayed where it was, the way her mother's words always did.
+This was not that. This was the flat clear light of day on a work table and a man fully dressed with his pencil tucked behind his ear and a measuring tape in his hand, waiting for her to take her bra off so he could look at her, sustained, on purpose, for the length of an hour. A small ugly word arrived from the back of her mind, in her mother's register: stripper. That was what women called this. A dressed man and a woman taking her clothes off for his attention. She closed her eyes for a beat against the word and the word stayed where it was, the way her mother's words always did.
 
-She reached up behind her — no shirt to hide the gesture under now, the move a woman makes in the dark or under cover laid bare in the lamp light — and unhooked the bra, and brought the straps forward down her arms, and let it fall into her hands. She held it for a half-second, not sure where to put it, and then set it on the chair on top of her shirt, and made herself straighten, and stood in front of him in the panties she was suddenly very aware she'd chosen with hope.
+She reached up behind her — no shirt to hide the gesture under now, the move a woman makes in the dark or under cover laid bare in the afternoon light — and unhooked the bra, and brought the straps forward down her arms, and let it fall into her hands. She held it for a half-second, not sure where to put it, and then set it on the chair on top of her shirt, and made herself straighten, and stood in front of him in the panties she was suddenly very aware she'd chosen with hope.
 
 Satin. Pale and shining. Lace edged. The kind of thing a girl wears hoping the man won't hand her a reason to lose her nerve about showing him. She had not thought about them since she'd put them on this morning. She was thinking about them now.
 
@@ -133,13 +227,13 @@ The satin had gone slick against her. Not damp — slick, the particular slide o
 
 Her stomach went cold under the blanket.
 
-She tried to think about something else. She watched him cut. He laid the burgundy out on the long table and weighted it and went at it with shears, fast and certain and practiced, no wasted motion, the silk falling open into shapes that made no sense to her and clearly made complete sense to him. In the flat work light the color went deeper still, almost living, and she tried to drown in that and not in what was happening lower down.
+She tried to think about something else. She watched him cut. He laid the burgundy out on the long table and weighted it and went at it with shears, fast and certain and practiced, no wasted motion, the silk falling open into shapes that made no sense to her and clearly made complete sense to him. In the full afternoon light the color went deeper still, almost living, and she tried to drown in that and not in what was happening lower down.
 
 She tried, *please, please, just stop* — asking her body a thing she'd long since learned it doesn't answer to. It did not stop. It never did. That was the whole problem. That had always been the whole problem.
 
 She lifted the edge of the blanket and looked.
 
-It wasn't bad yet. A spot, small, the size of a thumbprint, darker than the pale satin but not — she told herself, bargaining — *obvious,* not at conversational distance, not across a room with the work light somewhere else. He hadn't seen it. Of course he hadn't seen it; he was at the cutting table with his back half-turned and his attention on the silk.
+It wasn't bad yet. A spot, small, the size of a thumbprint, darker than the pale satin but not — she told herself, bargaining — *obvious.* Not at conversational distance. Not with him across the room and half-turned away. He hadn't seen it. Of course he hadn't seen it; he was at the cutting table with his back half-turned and his attention on the silk.
 
 Maybe it would stop here. Maybe she could get back up on the box without it getting worse. Maybe the cold air on her skin would do what her mind couldn't and shut the whole thing down. Maybe.
 

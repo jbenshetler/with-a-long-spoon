@@ -473,6 +473,41 @@ text = "It came out ugly and she let it, because that was the whole of it, that 
 note = "Author-approved: intentional register ('the way' incl. the de-shaming gaze), close-third perception (filter verbs incl. the body-before-mind 'felt the wet'), and accepted single tics."
 
 [[ok]]
+fp   = "82132e2c9a8d"
+rule = "a-small"
+file = "scenes/dear.md"
+text = "She made a small motion of the hand that meant the leggings, the matched hair, the whole bright sorority of it."
+note = "author-approved 2026-07-14: hand-motion reads as gesture standing in for the whole sorority look, not the 'a small X' tic"
+
+[[ok]]
+fp   = "53671250e7df"
+rule = "whole-of"
+file = "scenes/dear.md"
+text = "Randi set her chin in her hand and turned the whole of her face on Vee."
+note = "author-approved 2026-07-14: 'turned the whole of her face on Vee' stands — total-attention image is the beat"
+
+[[ok]]
+fp   = "1ef023597526"
+rule = "file-verb"
+file = "scenes/fitting.md"
+text = "She filed it under the small mysteries of him and let it go, the way you walk past a wrapped box on the counter without asking who it's for."
+note = "canonical wrapped-box line; tics earn their place (the dress is the wrapped gift she walks past)"
+
+[[ok]]
+fp   = "6aa8997480ad"
+rule = "the-way"
+file = "scenes/fitting.md"
+text = "She filed it under the small mysteries of him and let it go, the way you walk past a wrapped box on the counter without asking who it's for."
+note = "canonical wrapped-box line; tics earn their place (the dress is the wrapped gift she walks past)"
+
+[[ok]]
+fp   = "eec6d9444091"
+rule = "without-asking"
+file = "scenes/fitting.md"
+text = "She filed it under the small mysteries of him and let it go, the way you walk past a wrapped box on the counter without asking who it's for."
+note = "canonical wrapped-box line; tics earn their place (the dress is the wrapped gift she walks past)"
+
+[[ok]]
 fp   = "3fb15f593011"
 rule = "the-way"
 file = "scenes/grace.md"
@@ -1304,6 +1339,20 @@ rule = "x-not-y"
 file = "scenes/rock.md"
 text = "\"Same city, not high-school sweethearts, nothing that good."
 note = "Author-approved in Rock [AI] workshop: engine 'the way' simile, 'without asking' robe beat, 'city, not high-school sweethearts'."
+
+[[ok]]
+fp   = "dfbf82587351"
+rule = "the-way"
+file = "scenes/rye.md"
+text = "She said it the way other girls said *and then we kissed.* \"He packed lunch."
+note = "Load-bearing simile: 'the way other girls said and then we kissed' equates food-talk to sex-talk; the construction is the point."
+
+[[ok]]
+fp   = "f0a0c78a8e4d"
+rule = "the-way"
+file = "scenes/rye.md"
+text = "Her voice opened all the way up."
+note = "'opened all the way up' is idiom, not the filtered telling-construction; matches the vista opening."
 
 [[ok]]
 fp   = "bda5b5610495"
@@ -2433,20 +2482,6 @@ text = "Now, after — not before, not to be told what to want, but after the wa
 note = "reviewed in style pass — accepted to stand"
 
 [[ok]]
-fp   = "82132e2c9a8d"
-rule = "a-small"
-file = "scenes/dear.md"
-text = "She made a small motion of the hand that meant the leggings, the matched hair, the whole bright sorority of it."
-note = "author-approved 2026-07-14: hand-motion reads as gesture standing in for the whole sorority look, not the 'a small X' tic"
-
-[[ok]]
-fp   = "53671250e7df"
-rule = "whole-of"
-file = "scenes/dear.md"
-text = "Randi set her chin in her hand and turned the whole of her face on Vee."
-note = "author-approved 2026-07-14: 'turned the whole of her face on Vee' stands — total-attention image is the beat"
-
-[[ok]]
 fp   = "6575b073d974"
 rule = "a-small"
 file = "scenes/the-usual.md"
@@ -2473,20 +2508,6 @@ rule = "the-way"
 file = "scenes/under-the-rug.md"
 text = "He made small talk on the way down — something on the radio, the parking at the rec center, a thing one of his students had said in office hours."
 note = "Directional idiom 'on the way down', not the filtered 'the way he' construction; false positive."
-
-[[ok]]
-fp   = "dfbf82587351"
-rule = "the-way"
-file = "scenes/rye.md"
-text = "She said it the way other girls said *and then we kissed.* \"He packed lunch."
-note = "Load-bearing simile: 'the way other girls said and then we kissed' equates food-talk to sex-talk; the construction is the point."
-
-[[ok]]
-fp   = "f0a0c78a8e4d"
-rule = "the-way"
-file = "scenes/rye.md"
-text = "Her voice opened all the way up."
-note = "'opened all the way up' is idiom, not the filtered telling-construction; matches the vista opening."
 
 [[ok]]
 fp   = "8b4855433ae4"

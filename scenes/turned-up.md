@@ -92,7 +92,7 @@ Cassie absorbed this. "Were you still dressed?"
 
 "And then?"
 
-"And then he says, *the bra too.*" She put her hands up. "The bra too! It changes the line, he says, very serious. So off it comes, and now I'm — " her hands cupped her breasts and then flew outward and away " — *out.* Just out. In the lamp light. On a box. Like, here you go, I guess."
+"And then he says, *the bra too.*" She put her hands up. "The bra too! It changes the line, he says, very serious. So off it comes, and now I'm — " her hands cupped her breasts and then flew outward and away " — *out.* Just out. In broad daylight. On a box. Like, here you go, I guess."
 
 Cassie cracked up.
 

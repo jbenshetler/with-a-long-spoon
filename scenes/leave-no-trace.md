@@ -156,7 +156,7 @@ Pace slowed.
 
 "Stay close. Take your time."
 
-She took her time. The trail dropped through the last of the trees and the trees did nothing — the rain came through the thin canopy like it wasn't there. Cold got down her collar and ran down her back. Her jeans went heavy from the thigh down. Push and drop. Watch the rock. Her hair was a wet rope. Water in her eyes. The lot showed through the trees, gray, the truck in it, alone.
+She took her time. The trail dropped through the last of the trees and the trees did nothing — the rain came through the thin canopy like it wasn't there. Cold got down her collar and ran down her back. Her jeans went heavy from the thigh down. Push and drop. Watch the rock. Her hair was a wet rope. Water in her eyes. The lot showed through the trees, gray, his truck in it, alone — the old white pickup, the white gone dull in the wet.
 
 They came out of the woods and she went at the truck the way you go at shelter.
 
