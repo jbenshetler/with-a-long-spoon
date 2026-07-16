@@ -78,13 +78,17 @@ First hike: short steep climb through a tunnel of trees to a black-rock summit o
 *Early fall · ~Sun Oct 4 · within a day of the hike, before the Fitting* · Draft complete · Cassandra track · `rye.md` · [detail](meta-condensed-rye.md) · reviewed: 2026-07-15
 The pure romantic beat. Vee tells Cassie about the hike, the kept shirt, and the deciding, in the unperformed warm register Cassie can hold: the clean baseline of her feeling for Pace, before shame and before Randi reshapes the material, so the later contamination has something to contaminate. Distinct from the dinner-night telling (Off Six-Fourteen), the giddy first-kiss agency beat; this is the later, deepening telling after the hike. Photographic negative of Toenails: the romance Cassie can hold here, set against the bodily shame she cannot hold there. Cassie, who flagged Pace at the meet-cute, doesn't re-litigate.
 
+### [SCENE] Better Light
+*Early fall · ~Thu Oct 8 · after the hike, before the Fitting* · Architecture complete, prose not drafted · Vee + Kayla + Meg · `better-light.md` · [detail](meta-condensed-better-light.md)
+**[NEW]** Standalone dorm-friends dinner in the athletic-dorm dining hall (better food, better light). Vee + Kayla + Meg — no Cassie, no Pace: the light, un-probing dorm-floor register, distinct from Cassie's confidante depth and Randi's performance. They already know the Pace saga (Hallmark-warm dates; the wet-shirt gift on the trail the raciest beat so far); this is the next installment. Pace's spare invitation to his house — no mention of the dress — lands mid-meal; the scene renders Vee's *reaction*, not the text. Knowing mock-shock — *"His house. For what?"* — the tease is that the invite won't say. First fall seeding of Kayla (the desirability-seal voice at Nothing Underneath) and Meg (coupled) as individuated friends (flag 22). Plants: the first-house-visit anticipation that opens the Fitting. Shirt stays off-page (private/dorm).
+
 ### [SCENE] The Fitting
 *Early fall · ~Sat Oct 10* · Draft complete · `fitting.md` · [detail](meta-condensed-fitting.md)
 He turned the heat up before she came. Burgundy silk matched to her coloring, not the magazine reference. No-tag shirt detonates. Measuring sequence close and rhythmic; the deliberate *"Oops"*; *"Keep still"* at audible cost. Ends with deferred tension intact — the tension that motivates the first night. Pays off: silk-naming (hike), no-tag shirt (hike). Plants: the deferred want.
 
 ### [SCENE] Turned Up
 *~Sat Oct 10 · same afternoon as the Fitting* · Draft complete · `turned-up.md` · [detail](meta-condensed-turned-up.md)
-Warmer, less performed than the Randi version. The heat detail lands hardest (*"He turned it up days ago, probably"*); Cassie goes still. Tips into comedy. Quiet Cassandra-track work. Pairs with the Cassie beat in Stats — Simpson's Paradox (experience → completed object).
+Warmer, less performed than the Randi version. The heat detail lands hardest (*"He turned it up hours before, probably"*); Cassie goes still. Tips into comedy. Quiet Cassandra-track work. Pairs with the Cassie beat in Stats — Simpson's Paradox (experience → completed object).
 
 ---
 
@@ -459,7 +463,7 @@ Vee tells Cassie everything — the telling forced by Pace and Randi vanishing t
 
 ## Continuity Flags
 
-1. **The Fitting is a daytime visit, not an overnight stay.** ✓ **Resolved (author):** it happens during the day and she does not stay over. It is her third time at the house but she does not stay the night (the deferment carries her out the door). This keeps A Recognized Method clean as her first post-sex overnight. Current prose already reads clean — no edit needed.
+1. **The Fitting is a daytime visit, not an overnight stay.** ✓ **Resolved (author):** it happens during the day and she does not stay over. It is her **first time at the house** — three prior dates, none at his home; he brings her home earlier in the arc than his usual pattern, and the shortcut is itself a tell. A daytime visit, no overnight (the deferment carries her out the door), which keeps A Recognized Method clean as her first post-sex overnight.
 
 2. **The try-on.** Folded into Dress Pickup: she initiates, he proceeds, tender. A Recognized Method remains the first edged beat.
 

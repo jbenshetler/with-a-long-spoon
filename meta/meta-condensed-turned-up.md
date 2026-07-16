@@ -11,7 +11,7 @@ Vee returns to her dorm and tells Cassie about the Fitting. The telling is warme
 - Cassie puts the highlighter down the moment Vee walks in
 - Vee recounts the Fitting: the house, the heat, the dress, the measuring
 - The shirt connection becomes clear through the telling
-- The heat detail—"He turned it up days ago, probably—he thought of it then"—lands hardest
+- The heat detail—"He turned it up hours before, probably—he thought of it then"—lands hardest
 - Cassie goes very still: "Oh, Vee"
 - The conversation tips into comedy; both of them laughing
 - The shirt still on Vee's pillow as evidence of the moment

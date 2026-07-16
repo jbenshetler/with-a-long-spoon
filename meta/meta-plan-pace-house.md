@@ -113,7 +113,7 @@ load-bearing small room (Vee uses it later too).
   definiteness questions and the drawer arithmetic in one stream.
 
 ### The office `[PLAN]`
-His **computer/work room** — the one genuinely messy room (laptop, workstation,
+His **computer/work room** — **organized chaos** more than mess, the sprawl of too little space rather than disorder (laptop, workstation,
 journals, white papers, pages of notation). **Separate from the bedroom.** Bible
 owns its meaning ("where he lets his own mind sprawl"). Not yet drafted/placed.
 
@@ -131,7 +131,8 @@ try-on (`scenes/dress-pickup.md`).
 
 ### Sun porch `[PAGE]`
 Through an archway at the far end of the den — an **enclosed porch at the back, mostly
-windows: the room with the best light.** His **sewing / fitting** workspace (distinct from
+windows: the room with the best light.** **Not a dedicated workroom** — he brings the
+fabric out and sets up here to cut, sew, and fit for a project (distinct from
 the woodshop); **The Fitting plays here.** On the page (`scenes/dress-pickup.md`):
 - A **long work / cutting table** (the burgundy gown was cut and built here).
 - A low **fitting pedestal** she stands on — the maker's fit-to-a-body, the same knack as

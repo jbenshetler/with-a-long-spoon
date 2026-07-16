@@ -42,18 +42,18 @@ She pulled it over her head in one motion, because hesitating was going to be wo
 
 She stood there in her bra and her panties. It was, she told herself, a swimsuit. Less than she wore to the lake. She made her arms stay at her sides and waited.
 
-The air on her skin was not cold. She registered that, then — and the registering opened a small door. The whole house cranked up so a woman could stand half-bare in it and not be cold. He'd thought of that. He'd thought of that days ago, probably, turning the thermostat up before she arrived, and the understanding undid something small in her even before he'd touched her once.
+The air on her skin was not cold. She registered that, then — and the registering opened a small door. The whole house cranked up so a woman could stand half-bare in it and not be cold. He'd thought of that. He'd thought of it hours before she came, probably — turned the thermostat up early enough for the warmth to soak all the way into the rooms — and the understanding undid something small in her even before he'd touched her once.
 
 He looked up from the tape. "The bra too," he said, gently, plainly. "It changes the line. It'll lie to me."
 Her stomach dropped a little. Of course. She had known it, distantly, the whole time she'd been working through the jeans and the shirt, and had let herself not know it, the way you let yourself not know a thing for as long as the room permits. The room no longer permitted.
 
-She had been naked in front of him. She knew that. He had seen all of her, more than once now, in the warm dark and the morning light and once with her hair wet and a towel forgotten on the bathroom floor. But that had been inside the thing — inside the wanting, inside the bed, with both of them already gone past the point where being seen could be its own event.
+He had seen her like this once, or near it — in the truck on the mountain, when she'd unbuttoned her wet shirt herself and pushed it off and handed him the sight of her, and he'd sat and looked at all of her and not moved, the gladness in him the whole of the answer. But that had been hers to give, in a charged, dripping minute with the wanting already loud in both of them, gone past the point where being seen could be its own event.
 
 This was not that. This was a bright lamp on a work table and a man fully dressed with his pencil tucked behind his ear and a measuring tape in his hand, waiting for her to take her bra off so he could look at her, sustained, on purpose, for the length of an hour. A small ugly word arrived from the back of her mind, in her mother's register: stripper. That was what women called this. A dressed man and a woman taking her clothes off for his attention. She closed her eyes for a beat against the word and the word stayed where it was, the way her mother's words always did.
 
 She reached up behind her — no shirt to hide the gesture under now, the move a woman makes in the dark or under cover laid bare in the lamp light — and unhooked the bra, and brought the straps forward down her arms, and let it fall into her hands. She held it for a half-second, not sure where to put it, and then set it on the chair on top of her shirt, and made herself straighten, and stood in front of him in the panties she was suddenly very aware she'd chosen with hope.
 
-Satin. Pale and shining. Lace edged. The kind of thing a woman wore to a man she had slept with only a handful of times, *just in case,* without admitting that's what *just in case* meant. She had not thought about them since she'd put them on this morning. She was thinking about them now.
+Satin. Pale and shining. Lace edged. The kind of thing a girl wears hoping the man won't hand her a reason to lose her nerve about showing him. She had not thought about them since she'd put them on this morning. She was thinking about them now.
 
 Her arms wanted to come up across herself. She made them stay down. The making was active; she had to keep making it, second by second, while he turned back toward her with the tape held ready. She felt the heat in her face and the cooler air on her skin and the wrongness of the geometry — *him there with his shirt buttoned and her here* — and she wanted, badly, briefly, to take it back, to cover herself, to say she'd changed her mind.
 

@@ -179,7 +179,7 @@
 - [ ] The collar: he made it four times to get it right. He said it like it was nothing.
 - [ ] The riser: she stood on it. It put her up. He was on his knees for the hem and looking up — the geometry is specific and load-bearing
 - [ ] The silk: burgundy, not russet. Russet/brick-red is the magazine shade she *named*; Pace's burgundy is a deeper, warmer variant that honors the want-to-be-beautiful beneath the color she asked for, not the reference itself. He doesn't override her taste — she sees in the dark window glass that it suits her better than the shade she'd pictured.
-- [ ] The heat: he turned it up before she came. Days ago, probably. Whenever he knew she was coming. He thought of it then. This is the detail that detonates Cassie — *"Oh, Vee."*
+- [ ] The heat: he turned it up before she came. Hours before, probably — early enough for the warmth to soak in. He thought of it then. This is the detail that detonates Cassie — *"Oh, Vee."*
 - [ ] The bra question: he stated it as a fact about the work (*"the bra changes the line"*) and then waited, left it open, left her a door. He did not use the word *ask.* But he asked.
 
 **Cassie's register**

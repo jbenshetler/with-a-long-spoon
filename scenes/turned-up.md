@@ -70,7 +70,7 @@ Cassie blinked. "What?"
 
 Cassie went very still.
 
-"Standing there," Vee said. "He turned it up days ago, probably. Whenever he knew I was coming. He thought of it then."
+"Standing there," Vee said. "He turned it up hours before, probably. As soon as he knew I was coming. He thought of it then."
 
 The room was quiet.
 
