@@ -24,7 +24,7 @@ Vee dropped onto her bed. Bounced once. Got up again. "I told him. Three weeks a
 
 "Out of what?"
 
-"Silk. He bought silk, Cass. He found a bolt of it, this burgundy, not even the same color I described, he went *deeper,* he — " She stopped again, because the image had come back, the two of them caught in the dark window glass, and she needed a second with it. "He held it up next to my face. To see if it was right for me."
+"Silk. He bought silk, Cass. He found a bolt of it, this burgundy, not even the same color I described, he went *deeper,* he — " She stopped again, because the image had come back, the two of them caught in the mirror, and she needed a second with it. "He held it up next to my face. To see if it was right for me."
 
 Cassie had her knees pulled up to her chest now, the textbook entirely abandoned. "So he's had this fabric just — sitting at his house."
 
@@ -88,7 +88,7 @@ Cassie let the pivot happen. She was good at that. "Measured how? Like — all o
 
 Cassie absorbed this. "Were you still dressed?"
 
-"He needed me in what I'd wear under it. For the fit, so he could see how the fabric was going to fall." Vee was up again, narrating with her hands. "So the shirt comes off, fine, no big deal, it's basically a swimsuit, less than I wear to the lake. I fold it, I put it on the chair, I'm standing there in my bra thinking, okay, I survived, that's the hard part — "
+"He needed me in what I'd wear under it. For the fit, so he could see how the fabric was going to fall." Vee was up again, narrating with her hands. "So the shirt comes off, fine, no big deal, it's basically a swimsuit. I fold it, I put it on the chair, I'm standing there in my bra thinking, okay, I survived, that's the hard part — "
 
 "And then?"
 
