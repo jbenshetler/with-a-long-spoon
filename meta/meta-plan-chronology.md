@@ -91,7 +91,7 @@ Vee's first visit to the house. He turned the heat up before she came. The tour 
 The fitting itself. He measures her down to just her panties (not the bra-and-panties she'd braced for) on the riser, in good light — close and rhythmic, close-then-away. Her body betrays her: involuntary arousal, soaked through the satin, the shame of the body announcing its wanting. The deliberate *"Oops"*; *"Keep still"* at audible cost (his held line); the knee-walk hem circuit — a round of her — building dread. Ends with the dress unfinished and deferred tension intact — the tension that motivates the first night. "Keep still" origin (recurs Still Life, Burn). Plants: the deferred want; first ass-contact (Vee — not The Bench, which is Randi).
 
 ### [SCENE] Turned Up
-*~Sat Oct 10 · same afternoon as the Fitting* · Draft complete · `turned-up.md` · [detail](meta-condensed-turned-up.md)
+*~Sat Oct 10 · same afternoon as the Fitting* · Draft complete · `turned-up.md` · [detail](meta-condensed-turned-up.md) · reviewed: 2026-07-17
 Warmer, less performed than the Randi version. The heat detail lands hardest (*"He turned it up hours before, probably"*); Cassie goes still. Tips into comedy. Quiet Cassandra-track work. Pairs with the Cassie beat in Stats — Simpson's Paradox (experience → completed object).
 
 ---
