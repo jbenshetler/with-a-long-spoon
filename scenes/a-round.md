@@ -1,6 +1,6 @@
 # A Round
 
-*(Sits between "Two Towels" and "Turned Up." The same afternoon — the fitting itself. Vee's POV.)*
+*(Same afternoon, directly on from "Two Towels" (which ends on her "Yes"). The sun porch: Pace measures Vee for the dress — she strips to just her panties (she'd assumed she'd keep the bra; then "the bra too") — in the bright light on the riser; her involuntary arousal and the shame of it; "Keep still" holds the line and defers full contact — the deferment that motivates First Night. Vee's POV.)*
 
 ---
 
