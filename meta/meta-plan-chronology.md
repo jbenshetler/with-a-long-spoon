@@ -88,7 +88,7 @@ Vee's first visit to the house. He turned the heat up before she came. The tour 
 
 ### [SCENE] A Round
 *Early fall · ~Sat Oct 10 · same afternoon, continues from Two Towels* · Draft complete · `a-round.md` · [detail](meta-condensed-a-round.md)
-The fitting itself. He measures her down to bra and panties on the riser, in good light — close and rhythmic, close-then-away. Her body betrays her: involuntary arousal, soaked through the satin, the shame of the body announcing its wanting. The deliberate *"Oops"*; *"Keep still"* at audible cost (his held line); the knee-walk hem circuit — a round of her — building dread. Ends with the dress unfinished and deferred tension intact — the tension that motivates the first night. "Keep still" origin (recurs Still Life, Burn). Plants: the deferred want; first ass-contact (Vee — not The Bench, which is Randi).
+The fitting itself. He measures her down to just her panties (not the bra-and-panties she'd braced for) on the riser, in good light — close and rhythmic, close-then-away. Her body betrays her: involuntary arousal, soaked through the satin, the shame of the body announcing its wanting. The deliberate *"Oops"*; *"Keep still"* at audible cost (his held line); the knee-walk hem circuit — a round of her — building dread. Ends with the dress unfinished and deferred tension intact — the tension that motivates the first night. "Keep still" origin (recurs Still Life, Burn). Plants: the deferred want; first ass-contact (Vee — not The Bench, which is Randi).
 
 ### [SCENE] Turned Up
 *~Sat Oct 10 · same afternoon as the Fitting* · Draft complete · `turned-up.md` · [detail](meta-condensed-turned-up.md)

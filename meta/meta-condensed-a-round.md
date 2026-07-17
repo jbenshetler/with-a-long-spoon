@@ -4,7 +4,7 @@
 
 ## Summary
 
-The same afternoon, continuing directly from **Two Towels** (`two-towels.md`), which ends on her "Yes." Pace measures Vee for the dress — down to bra and panties, in the bright porch light, on the riser he built. The measuring is close and rhythmic, top-down, close-then-away. Her body betrays her: involuntary arousal she can't govern, soaking through her satin panties — the shame of her body announcing its wanting without her consent. The deliberate "Oops" and the breast-against-cheek; the pin-prick of her own daring and his involuntary kiss-it-better; *"Keep still,"* the line held at audible cost (his restraint, not her fault); the knee-walk hem circuit — a full round of her body — building dread. It ends with the dress unfinished, the tension deferred; that deferment motivates First Night Together.
+The same afternoon, continuing directly from **Two Towels** (`two-towels.md`), which ends on her "Yes." Pace measures Vee for the dress — down to just her panties (she braces for bra-and-panties; then *"the bra too"*), in the bright porch light, on the riser he built. The measuring is close and rhythmic, top-down, close-then-away. Her body betrays her: involuntary arousal she can't govern, soaking through her satin panties — the shame of her body announcing its wanting without her consent. The deliberate "Oops" and the breast-against-cheek; the pin-prick of her own daring and his involuntary kiss-it-better; *"Keep still,"* the line held at audible cost (his restraint, not her fault); the knee-walk hem circuit — a full round of her body — building dread. It ends with the dress unfinished, the tension deferred; that deferment motivates First Night Together.
 
 ## Key Beats
 
