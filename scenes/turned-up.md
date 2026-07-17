@@ -28,15 +28,7 @@ Vee dropped onto her bed. Bounced once. Got up again. "I told him. On the hike, 
 
 "Silk. He bought silk, Cass. He found a bolt of it, this burgundy, not even the same color I described, he went *deeper,* he — " She stopped again, because the image had come back, the two of them caught in the mirror, and she needed a second with it. "He held it up next to my face. To see if it was right for me."
 
-Cassie had her knees pulled up to her chest now, the textbook entirely abandoned. "So he's had this fabric just — sitting at his house."
-
-"In his dining room. On the table."
-
-"Since when?"
-
-"I don't know since when." Vee was moving again, to the window, back. "Since before today. Long enough to have a plan. He had a riser built, Cass. A little platform. For me to stand on." She said this last part and heard it, and laughed a little. "For me to stand on."
-
-Cassie's mouth was doing something careful. "And the shirt," she said.
+Cassie had her knees pulled up to her chest now, the textbook abandoned. She was quiet a second, working it. "He *sews,*" she said, like she was setting the fact down somewhere. Then her eyes changed. "Vee. The shirt."
 
 Vee stopped moving.
 
@@ -52,19 +44,21 @@ Vee stopped moving.
 
 Vee pointed at her. "Don't."
 
-Cassie pulled her knees tighter, the small smile settling in. "I'm just saying. The shirt makes more sense now." She let that land, and then: "Wait. He *made* the shirt?"
+Cassie pulled her knees tighter, the small smile settling in. "Did he make that too?"
 
-"I didn't know that until today. There's no tag in it — I went looking, the first night I had it. I couldn't sleep, I was just — going over it." She heard how that sounded and didn't care. "And there's nothing. No tag, no brand, no size, nothing. But the flannel's beautiful, Cass, it's like — it's the softest thing I own. And it's *made* well. So I couldn't figure it out, because good fabric, made like that, that's a tag, that's a label, that costs something, and there wasn't one. It made no sense." She shook her head. "I gave up on it. Filed it under, I don't know, weird things about him." A week of sleeping in a shirt he'd made, the answer in her hands the whole time, and she'd decided it was a riddle and gone to sleep. "He said he couldn't find a shirt he liked, so he made one."
+"I didn't know until today." Vee sat down on the edge of the bed. "There's no tag in it. I went looking the first night I had it, turned the whole thing inside out — no brand, no size, nothing. And it's the softest thing I own, and it's made better than anything I've ever paid for, and none of it added up. So I gave up on it. Filed it under weird things about him." She shook her head. "He said he couldn't find a shirt he liked, so he made one."
 
 "So he made one," Cassie repeated.
 
 "He said it like it was nothing."
 
-Cassie was quiet for a moment. In the quiet Vee could hear the radiator and someone's music two doors down and her own breathing, which was a little faster than normal.
+Cassie didn't say anything. In the quiet Vee could hear the radiator and someone's music two doors down and her own breathing, faster than it should have been. A week of sleeping in a shirt he'd made, the answer in her hands the whole time, and she'd decided it was a riddle and gone to sleep.
 
-"Okay," Cassie said. "So you went over today and he had the silk and the riser and everything ready."
+"Okay," Cassie said, when the quiet had gone on a beat too long. "So you went over today, and it was all just — ready for you."
 
-"And the house was warm."
+"The silk was out, on the long table in his sun porch. And he'd built a riser." Vee was up again, to the window and back. "A little platform, in the corner, for me to stand on." She heard herself say it, and laughed. "For me to stand on."
+
+"And the house was warm," she said, before Cassie could answer.
 
 Cassie blinked. "What?"
 

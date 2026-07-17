@@ -487,27 +487,6 @@ text = "Randi set her chin in her hand and turned the whole of her face on Vee."
 note = "author-approved 2026-07-14: 'turned the whole of her face on Vee' stands — total-attention image is the beat"
 
 [[ok]]
-fp   = "1ef023597526"
-rule = "file-verb"
-file = "scenes/two-towels.md"
-text = "She filed it under the small mysteries of him and let it go, the way you walk past a wrapped box on the counter without asking who it's for."
-note = "canonical wrapped-box line; tics earn their place (the dress is the wrapped gift she walks past)"
-
-[[ok]]
-fp   = "6aa8997480ad"
-rule = "the-way"
-file = "scenes/two-towels.md"
-text = "She filed it under the small mysteries of him and let it go, the way you walk past a wrapped box on the counter without asking who it's for."
-note = "canonical wrapped-box line; tics earn their place (the dress is the wrapped gift she walks past)"
-
-[[ok]]
-fp   = "eec6d9444091"
-rule = "without-asking"
-file = "scenes/two-towels.md"
-text = "She filed it under the small mysteries of him and let it go, the way you walk past a wrapped box on the counter without asking who it's for."
-note = "canonical wrapped-box line; tics earn their place (the dress is the wrapped gift she walks past)"
-
-[[ok]]
 fp   = "3fb15f593011"
 rule = "the-way"
 file = "scenes/grace.md"
@@ -2503,6 +2482,13 @@ text = "Vee started to laugh."
 note = "'started to laugh' — the beginning is interrupted by Cassie; the aspect carries the beat. Kept."
 
 [[ok]]
+fp   = "4c0b80b0766c"
+rule = "file-verb"
+file = "scenes/turned-up.md"
+text = "Filed it under weird things about him.\""
+note = "The 'filed it away' anomaly-filing motif; accepted earlier, re-armed by the reorder reword. Kept."
+
+[[ok]]
 fp   = "b9c366a2509f"
 rule = "file-verb"
 file = "scenes/turned-up.md"
@@ -2522,6 +2508,13 @@ rule = "filter-verbs"
 file = "scenes/turned-up.md"
 text = "I noticed and I didn't — I just filed it away."
 note = "Retell/girl-talk perception register; l.201 'felt it surface' is body-before-mind. Kept."
+
+[[ok]]
+fp   = "96eeb0618e72"
+rule = "filter-verbs"
+file = "scenes/turned-up.md"
+text = "She heard herself say it, and laughed."
+note = "Riser-laugh: the filter ('heard herself say it') is the joke — Vee catching her own absurd phrase. Kept."
 
 [[ok]]
 fp   = "a555e9d2ef62"
@@ -2566,6 +2559,13 @@ text = "And there it was, the thing she'd been keeping all the way at the bottom
 note = "'all the way at the bottom' is idiom, not the filtered 'the way' construction — false positive."
 
 [[ok]]
+fp   = "85267081aa57"
+rule = "x-not-y"
+file = "scenes/turned-up.md"
+text = "He found a bolt of it, this burgundy, not even the same color I described, he went *deeper,* he — \" She stopped again, because the image had come back, the two of them caught in the mirror, and she needed a second with it."
+note = "Accepted earlier this session; re-armed by the window-glass→mirror merge. Same antithesis, kept for rhythm."
+
+[[ok]]
 fp   = "f7fc4eaa69cb"
 rule = "x-not-y"
 file = "scenes/turned-up.md"
@@ -2578,6 +2578,27 @@ rule = "x-not-y"
 file = "scenes/turned-up.md"
 text = "She shook her head, not at Cassie, at the inside of the sentence."
 note = "Antithesis used sparingly for rhythm — two across the whole scene, not a density problem."
+
+[[ok]]
+fp   = "1ef023597526"
+rule = "file-verb"
+file = "scenes/two-towels.md"
+text = "She filed it under the small mysteries of him and let it go, the way you walk past a wrapped box on the counter without asking who it's for."
+note = "canonical wrapped-box line; tics earn their place (the dress is the wrapped gift she walks past)"
+
+[[ok]]
+fp   = "6aa8997480ad"
+rule = "the-way"
+file = "scenes/two-towels.md"
+text = "She filed it under the small mysteries of him and let it go, the way you walk past a wrapped box on the counter without asking who it's for."
+note = "canonical wrapped-box line; tics earn their place (the dress is the wrapped gift she walks past)"
+
+[[ok]]
+fp   = "eec6d9444091"
+rule = "without-asking"
+file = "scenes/two-towels.md"
+text = "She filed it under the small mysteries of him and let it go, the way you walk past a wrapped box on the counter without asking who it's for."
+note = "canonical wrapped-box line; tics earn their place (the dress is the wrapped gift she walks past)"
 
 [[ok]]
 fp   = "f26911aa0b02"
