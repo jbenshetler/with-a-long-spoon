@@ -174,7 +174,7 @@ two people move through without calling out to each other.
 - **Prior women / access:** he owns the house (the motel stage; Vee brought home early) —
   see **Access** above.
 
-## The Fitting — drafted canon (first visit, `fitting.md`)
+## Two Towels — drafted canon (first visit, `two-towels.md`)
 
 *The first house visit is now drafted (a full, Vee-requested tour, by day). These confirm/extend the room sections above.*
 

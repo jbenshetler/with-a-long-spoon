@@ -58,6 +58,12 @@ RENAMES = [
         ("title", r"(?i)walk[\s-]of[\s-]shame",             "REVIEW", ""),
         ("title", r"The Morning After",                     "REVIEW", "old H1"),
     ]),
+    ("Two Towels  (was The Fitting)", [
+        ("slug",  r"fitting\.md",                           "STALE",  "old scene/companion path (ignore historical the-fitting.md in todo docs)"),
+        ("slug",  r"meta-condensed-fitting",                "STALE",  ""),
+        ("slug",  r"\[\[fitting\]\]",                       "STALE",  "wiki-link"),
+        ("title", r"The Fitting",                           "REVIEW", "lowercase 'the fitting'=dress-fitting event; 'fitting shoes'/'the fitting hem'/'fitting tellings'=common noun, keep"),
+    ]),
 ]
 
 

@@ -38,7 +38,7 @@ When new operations are discovered in the writing, add them here. The list is ge
 
 ---
 
-### The Fitting (Russet Dress Construction)
+### Two Towels (Russet Dress Construction)
 
 **Operation.** Pace makes Vee a russet silk dress for her honor-society induction, matched to her coloring rather than to the magazine reference she described. He builds the dress on her body, measuring with deliberate restraint. The secretions reframe operates wordlessly when she dreads the wet spot and opens her eyes to find him already beaming up at her face, never having looked down.
 

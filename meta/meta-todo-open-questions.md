@@ -264,7 +264,7 @@ The coda's forward-narration is **load-bearing plant, not thesis-y summary.** Th
 
 **Scattered (verified lines) — mostly KEEP; two real trims:**
 - [ ] **the-bench.md L527** (Pace POV) — **TRIM** "slightly, gradually, scene by scene": names the depletion pattern *and* implies slow-accumulation, contradicting the fast-installed rule (Bible / open-Q #14). Keep his forward-looking desire; cut the gradualism.
-- [ ] **fitting.md L268** — **TRIM/REVIEW** "this was going to matter to her later, in ways she couldn't yet see" — telegraphs significance; soft.
+- [ ] **two-towels.md L268** — **TRIM/REVIEW** "this was going to matter to her later, in ways she couldn't yet see" — telegraphs significance; soft.
 - [ ] **the-bench.md L545** (Pace POV) — **REVIEW** the "tomorrow… waiting for the next time" coda: atmospheric, borderline; light trim only if minimizing codas.
 - [ ] **KEEP** (fact/compression, or the POV character's own live reasoning — not violations): see-you-later.md L135 (selective memory) & L137 (Vee's present dismissal of Cassie's goodbye — close-third-legal); fairytale.md L137 (Randi's own reasoning); burn.md L161 (present closing image); old-acquaintances.md L51 (Vee's forward musing); the-pointing-game.md L37 & L49 (Pace's intent/plan = fact).
 

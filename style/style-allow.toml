@@ -489,21 +489,21 @@ note = "author-approved 2026-07-14: 'turned the whole of her face on Vee' stands
 [[ok]]
 fp   = "1ef023597526"
 rule = "file-verb"
-file = "scenes/fitting.md"
+file = "scenes/two-towels.md"
 text = "She filed it under the small mysteries of him and let it go, the way you walk past a wrapped box on the counter without asking who it's for."
 note = "canonical wrapped-box line; tics earn their place (the dress is the wrapped gift she walks past)"
 
 [[ok]]
 fp   = "6aa8997480ad"
 rule = "the-way"
-file = "scenes/fitting.md"
+file = "scenes/two-towels.md"
 text = "She filed it under the small mysteries of him and let it go, the way you walk past a wrapped box on the counter without asking who it's for."
 note = "canonical wrapped-box line; tics earn their place (the dress is the wrapped gift she walks past)"
 
 [[ok]]
 fp   = "eec6d9444091"
 rule = "without-asking"
-file = "scenes/fitting.md"
+file = "scenes/two-towels.md"
 text = "She filed it under the small mysteries of him and let it go, the way you walk past a wrapped box on the counter without asking who it's for."
 note = "canonical wrapped-box line; tics earn their place (the dress is the wrapped gift she walks past)"
 

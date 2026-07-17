@@ -117,7 +117,8 @@ One file per non-trivial scene; the chronology entry links to it. To work on a s
 | `meta-condensed-dear.md` | Dear |
 | `meta-condensed-leave-no-trace.md` | Leave No Trace |
 | `meta-condensed-rye.md` | Rye (pure-romance telling; pairs with Toenails) |
-| `meta-condensed-fitting.md` | The Fitting |
+| `meta-condensed-two-towels.md` | Two Towels |
+| `meta-condensed-a-round.md` | A Round |
 | `meta-condensed-turned-up.md` | Turned Up |
 | `meta-condensed-how-its-done.md` | How It's Done |
 | `meta-condensed-first-night.md` | First Night Together |
@@ -197,7 +198,8 @@ Listed in chronological order (filesystem = `scenes/`; order, names, and status 
 | `dear.md` | Dear | complete |
 | `leave-no-trace.md` | Leave No Trace | complete |
 | `rye.md` | Rye | complete |
-| `fitting.md` | The Fitting | complete |
+| `two-towels.md` | Two Towels | complete |
+| `a-round.md` | A Round | complete |
 | `turned-up.md` | Turned Up | complete |
 | `how-its-done.md` | How It's Done | complete |
 | `first-night.md` | First Night Together | complete |

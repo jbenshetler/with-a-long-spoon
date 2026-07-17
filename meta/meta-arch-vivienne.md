@@ -94,13 +94,13 @@ The voice that produces shame on demand when her body responds. Originated in he
 
 The shame is constitutional and is not eliminated by the year. What changes is her relationship to it: ownership replaces suppression. The shame becomes fuel for desire rather than its suppressor. The wiring needs an engager — Pace engages it directly; Randi engages it through exposure-as-humiliation. The fine man and the real friend will not engage it. After the year, the shame goes quiet in the configurations available to her. A part of Vee sits there with it.
 
-**The bikini — the mother's rule become her own.** A concrete instance of the training above: her mother kept Vee out of a bikini as a child (the prim/modesty stream, cf. the family surface and *floozie*), and by the time the choosing was hers she was too ashamed of her body to wear one — she never has. Her synchronized-swimming **one-piece** (see `meta-note-water-wings.md`, `scenes/water-wings.md`) is the *most* she has ever shown, so anything at bikini level (bra-and-panties at the fitting) is past every line she owns. Keep the streams distinct: the *bikini prohibition* is the **mother's** (modesty); the *body-became-too-much* exile is the **world's/sport's** (`meta-note-water-wings.md`: "too much = the world, not the mother"). On the page: `scenes/fitting.md`.
+**The bikini — the mother's rule become her own.** A concrete instance of the training above: her mother kept Vee out of a bikini as a child (the prim/modesty stream, cf. the family surface and *floozie*), and by the time the choosing was hers she was too ashamed of her body to wear one — she never has. Her synchronized-swimming **one-piece** (see `meta-note-water-wings.md`, `scenes/water-wings.md`) is the *most* she has ever shown, so anything at bikini level (bra-and-panties at the fitting) is past every line she owns. Keep the streams distinct: the *bikini prohibition* is the **mother's** (modesty); the *body-became-too-much* exile is the **world's/sport's** (`meta-note-water-wings.md`: "too much = the world, not the mother"). On the page: `scenes/a-round.md`.
 
 ---
 
 ## The Secretions Reframe
 
-*(Primary scene where this operates: `fitting.md`. )*
+*(Primary scene where this operates: `a-round.md`. )*
 
 Not that Pace politely does not look. He looks. The reframe is that looking produces **delight** — her wetness as evidence that what he is doing is landing. He beams not despite it but at it.
 

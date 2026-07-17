@@ -82,9 +82,13 @@ The pure romantic beat. Vee tells Cassie about the hike, the kept shirt, and the
 *Early fall · ~Thu Oct 8 · after the hike, before the Fitting* · Draft complete · Vee + Kayla + Meg · `what-to-wear.md` · [detail](meta-condensed-what-to-wear.md) · reviewed: 2026-07-16
 Standalone dorm-friends dinner in the athletic-dorm dining hall (better food, better light). Vee + Kayla + Meg — no Cassie, no Pace: the light, un-probing dorm-floor register, distinct from Cassie's confidante depth and Randi's performance. They already know the Pace saga (Hallmark-warm dates; the wet-shirt gift on the trail the raciest beat so far); this is the next installment. Pace's spare invitation to his house — no mention of the dress — lands mid-meal; the scene renders Vee's *reaction*, not the text. Knowing mock-shock — *"His house. For what?"* — the tease is that the invite won't say. First fall seeding of Kayla (the desirability-seal voice at Nothing Underneath) and Meg (coupled) as individuated friends (flag 22). Plants: the first-house-visit anticipation that opens the Fitting; the powerlifter seed (surfaced in the routine register) for the Fitting and Turned Up. Shirt stays off-page (private/dorm).
 
-### [SCENE] The Fitting
-*Early fall · ~Sat Oct 10* · Draft complete · `fitting.md` · [detail](meta-condensed-fitting.md)
-He turned the heat up before she came. Burgundy silk matched to her coloring, not the magazine reference. No-tag shirt detonates. Measuring sequence close and rhythmic; the deliberate *"Oops"*; *"Keep still"* at audible cost. Ends with deferred tension intact — the tension that motivates the first night. Pays off: silk-naming (hike), no-tag shirt (hike). Plants: the deferred want.
+### [SCENE] Two Towels
+*Early fall · ~Sat Oct 10* · Draft complete · `two-towels.md` · [detail](meta-condensed-two-towels.md)
+Vee's first visit to the house. He turned the heat up before she came. The tour reveals him room by room (squared shoes, the working kitchen, the two towels, the office equations, the closed bedroom door left closed, the handmade furniture, the patent). Ends at the sun porch: burgundy silk matched to her coloring, not the magazine reference; the no-tag shirt detonates (he made it); he offers to make her the dress and to measure her first, and she says yes. Pays off: silk-naming (hike), no-tag shirt (hike). Plants: the two towels (reread — the second towel); the offer that sets up the fitting.
+
+### [SCENE] A Round
+*Early fall · ~Sat Oct 10 · same afternoon, continues from Two Towels* · Draft complete · `a-round.md` · [detail](meta-condensed-a-round.md)
+The fitting itself. He measures her down to bra and panties on the riser, in good light — close and rhythmic, close-then-away. Her body betrays her: involuntary arousal, soaked through the satin, the shame of the body announcing its wanting. The deliberate *"Oops"*; *"Keep still"* at audible cost (his held line); the knee-walk hem circuit — a round of her — building dread. Ends with the dress unfinished and deferred tension intact — the tension that motivates the first night. "Keep still" origin (recurs Still Life, Burn). Plants: the deferred want; first ass-contact (Vee — not The Bench, which is Randi).
 
 ### [SCENE] Turned Up
 *~Sat Oct 10 · same afternoon as the Fitting* · Draft complete · `turned-up.md` · [detail](meta-condensed-turned-up.md)
@@ -483,7 +487,7 @@ Vee tells Cassie everything — the telling forced by Pace and Randi vanishing t
 
 10. **Latent-variable plant.** Seeded as ambient end-of-class preview in the Chi Latte diptych. Later stats mirrors (continuous-vs-discrete at Secret Plans — the corrector's pulses vs. the vibrator, having replaced the old Nipple Clamps home, etc.) do not re-explain the term.
 
-11. **Hike/Fitting color framing.** ✓ **Resolved (author):** The hike names **russet / brick-red only** (the magazine shade she names). The Fitting does **not** impose a unilateral color-match: Pace offers a deeper burgundy variant that honors the want beneath the color, and Vee comes to see — in the dark window glass — that it suits her better than the shade she'd pictured. No "poured wine" phrasing anywhere. Applied: `fitting.md` (brick-red, not brick-wine); `meta-condensed-fitting.md` Plants + Summary (poured wine → brick-red; naming located at the summit); `meta-rules.md` (silk line reframed as offer-honoring-the-want).
+11. **Hike/Fitting color framing.** ✓ **Resolved (author):** The hike names **russet / brick-red only** (the magazine shade she names). The Fitting does **not** impose a unilateral color-match: Pace offers a deeper burgundy variant that honors the want beneath the color, and Vee comes to see — in the dark window glass — that it suits her better than the shade she'd pictured. No "poured wine" phrasing anywhere. Applied: `two-towels.md` (brick-red, not brick-wine); `meta-condensed-two-towels.md` Plants + Summary (poured wine → brick-red; naming located at the summit); `meta-rules.md` (silk line reframed as offer-honoring-the-want).
 
 12. **First Night motive.** Motivated by the Fitting's deferred tension, not the CW Dance. Do not write as reassurance-seeking or loss-driven.
 
