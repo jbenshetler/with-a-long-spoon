@@ -1,4 +1,4 @@
-# Better Light
+# What to Wear
 
 The athletic dorm had the better dining hall and everyone knew it. Same meal-plan contract as everywhere else, but they plated it like they meant it, and the windows ran floor to ceiling down the west side, so even at six the whole room went gold and forgiving. Kayla's theory was that you walked in like you'd always eaten there and nobody ever asked you a thing. Six weeks running, nobody had.
 
@@ -36,9 +36,9 @@ Meg had gone quiet in the good way, chin in her hand. "And then he kissed you."
 
 They both looked at her.
 
-"On the mountain?" Kayla said. "In the rain, after the shirt, he didn't—"
+"In the truck?" Kayla said. "After all that, he didn't—"
 
-"I was about to. I turned around and I was right there, and he's shivering. He's so cold he can't get a word out. I'm not going to kiss a man who's about to go hypothermic on me, so I put his hands somewhere warm and drive him home instead." She stopped, because Kayla had both palms flat on the table. "And then he pulls up under the overhang at the dorm so I won't have to cross the rain again. Dead in the fire lane, engine running, and I'm about to. Again. And a blue-and-white slides in behind us, lights going."
+"I was about to. I turned and he was right there, and he's shivering. He's so cold he can't get a word out. I'm not going to kiss a man who's about to go hypothermic on me, so I had him drive us home instead." She stopped, because Kayla had both palms flat on the table. "And then he pulls up under the overhang at the dorm so I won't have to cross the rain again. Dead in the fire lane, engine running, and I'm about to. Again. And a blue-and-white slides in behind us, lights going."
 
 "No."
 
@@ -46,11 +46,15 @@ They both looked at her.
 
 "So you've never—"
 
-"Once. One time, the whole time. Second date, weeks ago, walking home from dinner." And the smile got completely away from her. "I told him flat out I don't kiss a man I've known two days. Then I backed him into a tree and we made out. For a while."
+"Once. One time, the whole time. Second date, a couple weeks ago—"
+
+"A couple weeks." Meg looked up from her plate. "You know exactly how many days ago. Tell us."
+
+Vee laughed, caught out. "Twelve." She hadn't even had to count, and that set the two of them laughing. "Twelve days. Walking home from dinner. I told him flat out I don't kiss a man I've known two days. Then I backed him into a tree and we made out. For a while."
 
 "Once." Kayla sat back and stared at her. "All that, and it's been once. Vee, that's insane."
 
-"It's making me lose my mind, is what it is." Vee said it into the table. "And I can't even explain why, that's the worst part. He's not pushing. It's the opposite. He asks me things. Little things. What I want to order, where I'd rather sit, whether the music's too loud. He asks, and he waits for the answer, and then he does it the way I said." She turned the glass a slow half-turn. "It sounds like nothing. I can hear it sounding like nothing. And I'm climbing the walls, I can't think straight, and he's asking me about the music." She lifted her head. "He's different. I know how that sounds."
+"It's making me lose my mind, is what it is." Vee said it into the table. "And I can't even explain why, that's the worst part. He's not pushing. It's the opposite. He asks me first. The small things. What I want to order, and he waits for the real answer, and then that's exactly what happens, the way I said it." She turned the glass a slow half-turn. "It sounds like nothing. I can hear it sounding like nothing. And I'm the one who can't think straight, climbing the walls over a man asking me what I want for dinner." She lifted her head. "He's different. I know how that sounds."
 
 Meg smiled into her cheese, not unkindly. "Everybody's different at the start. I said it about Danny. Word for word, I think. He's different." She shrugged, a girl easy in her own thing. "Sometimes they even are."
 

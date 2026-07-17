@@ -1,6 +1,6 @@
-# Condensed — Better Light
+# Condensed — What to Wear
 
-*Scene · Architecture complete, prose not drafted · `better-light.md` · date owned by chronology*
+*Scene · Architecture complete, prose not drafted · `what-to-wear.md` · date owned by chronology*
 
 ## Summary
 
