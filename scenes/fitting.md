@@ -165,7 +165,7 @@ Her arms wanted to come up across herself. She made them stay down. The making w
 
 Then he looked at her. And he didn't ogle.
 
-She had braced for the look. She had braced for a particular kind of male attention with a particular quality to it and she had not gotten it. What she'd gotten was — she hunted for the word — *admired*. He had looked at her the way he'd looked at the cloth, the way he looked at things he'd already decided were worth his patience. There was want in it; she wasn't blind, she could feel his want at the edges of how he held the tape. But it wasn't the main thing. The main thing was that she was beautiful to him and he was glad. He saw her, fully, and he was glad.
+She had braced for the look. She had braced for a particular kind of male attention with a particular quality to it and she had not gotten it. What she'd gotten was — she hunted for the word — *admired*. There was want in it; she wasn't blind, she could feel his want at the edges of how he held the tape. But it wasn't the main thing. The main thing was that she was beautiful to him and he was glad. He saw her, fully, and he was glad.
 
 Her arms relaxed at her sides. Not all the way. But enough.
 
