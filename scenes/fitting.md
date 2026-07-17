@@ -159,7 +159,7 @@ This was not that. This was the flat clear light of day on a work table and a ma
 
 She reached up behind her — no shirt to hide the gesture under now, the move a woman makes in the dark or under cover laid bare in the afternoon light — and unhooked the bra, and brought the straps forward down her arms, and let it fall into her hands. She held it for a half-second, not sure where to put it, and then set it on the chair on top of her shirt, and made herself straighten, and stood in front of him in the panties she was suddenly very aware she'd chosen with hope.
 
-Satin. Pale and shining. Lace edged. The kind of thing a girl wears hoping the man won't hand her a reason to lose her nerve about showing him. She had not thought about them since she'd put them on this morning. She was thinking about them now.
+Satin. Pale and shining. Lace edged. She was thinking about them now.
 
 Her arms wanted to come up across herself. She made them stay down. The making was active; she had to keep making it, second by second, while he turned back toward her with the tape held ready. She felt the heat in her face and the cooler air on her skin and the wrongness of the geometry — *him there with his shirt buttoned and her here* — and she wanted, badly, briefly, to take it back, to cover herself, to say she'd changed her mind.
 
@@ -197,9 +197,9 @@ Under the bust. He knelt again — she understood now that he would, every time,
 
 When he turned back his eyes went exactly where she'd thought they would — briefly, honestly — and then to her face.
 
-Across the bustline. He stayed standing for this one, close, the tape drawn across the fullest part of her. He pinned one end with his thumb at the side of her and drew the tape across with his other hand, his fingers finding the path, settling the tape flat, and she felt it then — the texture of him. His fingertips were not soft. They were calloused in specific places, the pads worn rough from the bar at the gym and harder still where he gripped his tools, and the difference between those hands and her own hands, between those hands and any hands that had been on her before, registered as a small disorienting thing.
+Across the bustline. He stayed standing for this one, close, the tape drawn across the fullest part of her. He pinned one end with his thumb at the side of her and drew the tape across with his other hand, his fingers finding the path, settling the tape flat, and she felt it then — the texture of him arriving all at once, the way a thing your skin has brushed a dozen times will suddenly be the only thing you can feel. His fingertips were rough. She'd half-known it — she'd had his hand in hers across a table, his fingers had already been the length of her arm — and none of it had reached her the way it did now, here, across the fullest part of her. Calloused in specific places, the pads worn from the bar at the gym, harder still where he gripped his tools. Being read back by hands that carried that much registered as a small disorienting thing.
 
-She had a stupid half-second of just thinking about his hands. About how they would feel on her in the dark, when she wasn't standing still for them. About how she'd touched them across a table and not really *touched* them, not paid attention.
+She had a stupid half-second of just thinking about his hands. About how they would feel on her in the dark, when she wasn't standing still for them.
 
 She came back. He was settling the tape, and the tape ran across the fullest part of her, which was — she could not pretend otherwise — across her nipples, which were still doing what they had been doing since the moment her arms came down. The tape passed over them and her stomach did something small.
 
