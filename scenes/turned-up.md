@@ -1,6 +1,6 @@
 # Turned Up
 
-*(Scene 14a. Dorm room — Vee and Cassie's double. Same day as the fitting; Vee has come straight back. The dress is unfinished, the silk still pinned to its shape at Pace's house. Vee's POV.)*
+*(Dorm room — Vee and Cassie's double. Same day as the fitting; Vee has come straight back. The dress is unfinished, the silk still pinned to its shape at Pace's house. Vee's POV.)*
 
 ---
 
@@ -16,7 +16,9 @@ Cassie looked at her for a long moment. She was very still in the way she got wh
 
 "Okay," Cassie said. "Back up. When did he — how did he even know?"
 
-Vee dropped onto her bed. Bounced once. Got up again. "I told him. Three weeks ago, maybe? We were — it was early in the morning and I wasn't even really awake yet, I was just talking. I told him about the induction and the dress I'd been looking at in the magazine, and the color, and that I couldn't — " She stopped. Waved it away. "I'd already let it go. I was going to wear the black one."
+Vee dropped onto her bed. Bounced once. Got up again. "I told him. On the hike, up on the rocks with the cherries. I was tired and just talking, and it came out. The induction, and the dress in the magazine, and the color, and that I couldn't — " She stopped. Waved it away. "I'd already let it go. I was going to wear the black one."
+
+"The induction," Cassie said softly. She'd screamed in the hall the day the letter came.
 
 "And he just —"
 

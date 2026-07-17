@@ -2496,6 +2496,90 @@ text = "He'd been to California in November for a conference — Sheri had never
 note = "Author-approved: Sheri wanting the whole of the story — her frank register."
 
 [[ok]]
+fp   = "b811ff6f8bc7"
+rule = "began-to"
+file = "scenes/turned-up.md"
+text = "Vee started to laugh."
+note = "'started to laugh' — the beginning is interrupted by Cassie; the aspect carries the beat. Kept."
+
+[[ok]]
+fp   = "b9c366a2509f"
+rule = "file-verb"
+file = "scenes/turned-up.md"
+text = "I noticed and I didn't — I just filed it away."
+note = "'Filed it' is the deliberate anomaly-filing motif: Vee notices oddities and files them away while the reader assembles them (Cassandra-adjacent). Kept."
+
+[[ok]]
+fp   = "cf6efec35c72"
+rule = "file-verb"
+file = "scenes/turned-up.md"
+text = "Filed it under, I don't know, weird things about him.\""
+note = "'Filed it' is the deliberate anomaly-filing motif: Vee notices oddities and files them away while the reader assembles them (Cassandra-adjacent). Kept."
+
+[[ok]]
+fp   = "12a49014c150"
+rule = "filter-verbs"
+file = "scenes/turned-up.md"
+text = "I noticed and I didn't — I just filed it away."
+note = "Retell/girl-talk perception register; l.201 'felt it surface' is body-before-mind. Kept."
+
+[[ok]]
+fp   = "a555e9d2ef62"
+rule = "filter-verbs"
+file = "scenes/turned-up.md"
+text = "She heard how that sounded and didn't care."
+note = "Retell/girl-talk perception register; l.201 'felt it surface' is body-before-mind. Kept."
+
+[[ok]]
+fp   = "fa3d7c333f17"
+rule = "filter-verbs"
+file = "scenes/turned-up.md"
+text = "And there it was, the thing she'd been keeping all the way at the bottom, and she felt it surface with her whole face going warm and delighted and a little wicked."
+note = "Retell/girl-talk perception register; l.201 'felt it surface' is body-before-mind. Kept."
+
+[[ok]]
+fp   = "24a813b32a15"
+rule = "the-way"
+file = "scenes/turned-up.md"
+text = "\"He said it the way he says things about the work,\" Vee said."
+note = "Characterizing similes doing real work — Cassie's attention-stillness, Pace's fact-register, Cassie's problem-set method. Deliberate, not filtered telling."
+
+[[ok]]
+fp   = "923d88a1d0f4"
+rule = "the-way"
+file = "scenes/turned-up.md"
+text = "Then Cassie shifted against her pillow, and Vee could see her doing it — going back over the whole thing, laying it out, the way she went over a problem set when the answer in the back of the book didn't match hers."
+note = "Characterizing similes doing real work — Cassie's attention-stillness, Pace's fact-register, Cassie's problem-set method. Deliberate, not filtered telling."
+
+[[ok]]
+fp   = "d2fc7acffdff"
+rule = "the-way"
+file = "scenes/turned-up.md"
+text = "She was very still in the way she got when she was paying attention, and Vee felt the attention on her like a hand on her shoulder."
+note = "Characterizing similes doing real work — Cassie's attention-stillness, Pace's fact-register, Cassie's problem-set method. Deliberate, not filtered telling."
+
+[[ok]]
+fp   = "ed90645bfddb"
+rule = "the-way"
+file = "scenes/turned-up.md"
+text = "And there it was, the thing she'd been keeping all the way at the bottom, and she felt it surface with her whole face going warm and delighted and a little wicked."
+note = "'all the way at the bottom' is idiom, not the filtered 'the way' construction — false positive."
+
+[[ok]]
+fp   = "f7fc4eaa69cb"
+rule = "x-not-y"
+file = "scenes/turned-up.md"
+text = "He found a bolt of it, this burgundy, not even the same color I described, he went *deeper,* he — \" She stopped again, because the image had come back, the two of them caught in the dark window glass, and she needed a second with it."
+note = "Antithesis used sparingly for rhythm — two across the whole scene, not a density problem."
+
+[[ok]]
+fp   = "fde4ae4d30ae"
+rule = "x-not-y"
+file = "scenes/turned-up.md"
+text = "She shook her head, not at Cassie, at the inside of the sentence."
+note = "Antithesis used sparingly for rhythm — two across the whole scene, not a density problem."
+
+[[ok]]
 fp   = "f26911aa0b02"
 rule = "filter-verbs"
 file = "scenes/under-the-rug.md"
