@@ -1,6 +1,6 @@
 # Condensed — What to Wear
 
-*Scene · Architecture complete, prose not drafted · `what-to-wear.md` · date owned by chronology*
+*Scene · Draft complete · `what-to-wear.md` · date owned by chronology*
 
 ## Summary
 
@@ -16,6 +16,7 @@ A standalone dorm-friends dinner in the athletic dorm's dining hall — the one 
 
 - The good dining hall: better food, better light; the three of them in it, easy and loud.
 - They already know the whole Pace saga — the Hallmark-warm dates, the wet-shirt gift on the trail as the raciest thing to date. This is the next installment, not the pilot.
+- The "what does he do" beat: PhD in math (Vee's pride) and the gym-mornings/writing routine — surfaces the powerlifter category (routine register, no hands) as a seed for the Fitting/Turned Up.
 - The text lands mid-meal. Render Vee's reaction — the buzz, the glance, the reread, the food forgotten — not the message.
 - The invite is spare and logistics-only: his house. It says nothing about the dress (the Fitting's surprise depends on it).
 - Knowing mock-shock: *"His house. For what?"* Vee is high-status and no innocent; the teasing is playful, not naive. The joke is the invite won't say. Mysterious.
@@ -26,6 +27,7 @@ A standalone dorm-friends dinner in the athletic dorm's dining hall — the one 
 
 - **Kayla** → her desirability-seal beat at Nothing Underneath (Jan); **both** → the populated room at Among Friends (flag 22).
 - **The first-house-visit anticipation** → opens the Fitting (the tour, the too-warm house).
+- **The powerlifter seed** → the Fitting (so its interior "watched a powerlifter cut silk" reads as recall, callus surprise intact) and Turned Up (Vee's bodybuilder/powerlifter correction to Cassie).
 - **The shirt stays off-page** — private to Vee's dorm room (it sits on her pillow; recalled at Turned Up). Not worn to dinner.
 
 ## Craft notes

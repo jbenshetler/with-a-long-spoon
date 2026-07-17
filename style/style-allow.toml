@@ -2536,3 +2536,38 @@ rule = "x-not-y"
 file = "scenes/water-wings.md"
 text = "Not hard, not asking; just clocking that her friend had gone off somewhere and come back with her face on wrong."
 note = "Author sign-off 2026-07-09: each earns its place — plain 'too much' beat (there-was), load-bearing underwater weightlessness (the-way), sensory list (there-was), Cassie's rhythm (x-not-y)."
+
+[[ok]]
+fp   = "10b836c4567f"
+rule = "look-at-her"
+file = "scenes/what-to-wear.md"
+text = "\"Look at her."
+note = "'Look at her' is Kayla's dialogue imperative, not the narration appreciation beat"
+
+[[ok]]
+fp   = "2ced831866e0"
+rule = "the-way"
+file = "scenes/what-to-wear.md"
+text = "\"It started raining on the way down,\" she said."
+note = "literal 'on the way down' (direction idiom), not the filtered construction"
+
+[[ok]]
+fp   = "cd5c9fdff741"
+rule = "the-way"
+file = "scenes/what-to-wear.md"
+text = "What I want to order, and he waits for the real answer, and then that's exactly what happens, the way I said it.\""
+note = "'the way I said it' — dialogue idiom in Vee's speech, not filtered narration"
+
+[[ok]]
+fp   = "3edfe7cd750f"
+rule = "there-was-were"
+file = "scenes/what-to-wear.md"
+text = "She'd had every piece of him she'd been handed, and never once been through his door, and now there was a door, and Saturday behind it, and not one word about what it was for."
+note = "'there was a door' — deliberate load-bearing turn of the scene"
+
+[[ok]]
+fp   = "5cbcb8dcd6b5"
+rule = "x-not-y"
+file = "scenes/what-to-wear.md"
+text = "Meg smiled into her cheese, not unkindly."
+note = "'not unkindly' is adverbial, not the X-not-Y antithesis tic"
