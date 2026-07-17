@@ -245,7 +245,7 @@ She lifted the edge of the blanket and looked.
 
 It wasn't bad yet. A spot, small, the size of a thumbprint, darker than the pale satin but not — she told herself, bargaining — *obvious.* Not at conversational distance. Not with him across the room and half-turned away. He hadn't seen it. Of course he hadn't seen it; he was at the cutting table with his back half-turned and his attention on the silk.
 
-Maybe it would stop here. Maybe she could get back up on the box without it getting worse. Maybe the cold air on her skin would do what her mind couldn't and shut the whole thing down. Maybe.
+Maybe it would stop here. Maybe she could get back up on the box without it getting worse. Maybe if she gave in and let it be a lovely afternoon, a man being kind to her, the wanting would quiet. Maybe kindness could be only kindness. Maybe.
 
 She watched him cut and counted the maybes and did not believe any of them. The satin moved against her again when she shifted. She knew, the way you know weather coming in, that she had a long way still to fall.
 
@@ -261,11 +261,11 @@ The way he worked would not let it. He kept looking at her — at her face, at t
 
 She stopped being a dress form somewhere around the second pin and started being something else she had no word for. *Muse* came to her, ridiculous, embarrassing, and she set it down quickly.
 
-But it didn't entirely go. He was working from a picture in his head of her in this dress, and the picture had a particular her in it, and he kept checking her face against the picture and adjusting either the silk or the picture, she couldn't tell which, and there was no way to be a dress form for that. You were either the woman he was making it for or you were nothing, and she was not nothing.
+But it didn't entirely go. He was working from a picture in his head of her in this dress, and the picture had a particular her in it, and he kept checking her face against the picture and adjusting either the silk or the picture, she couldn't tell which, and there was no way to be a dress form for that. The dress had a particular woman in it and the particular woman was her, and there was nowhere in that to hide.
 
 His hands worked. The edge of his hand kept seams straight against her ribs, narrow pressure, precise. The heel of his palm held the bodice up while his other hand pinned, the weight of her gathered against him for a second and then released. His flat hand pressed the silk into her side, into her hip, into the soft of her stomach below the navel, holding the fabric where it needed to lie until the pin caught it, and the flat-hand presses were the worst and the best — broad warm pressure, sustained, the whole shape of his palm reading the shape of her through a layer of silk that hid nothing and felt like less than nothing under his hand.
 
-He worked close again, but it was different from the measuring now — slower, more, his hands staying where the tape hadn't let them, the fluent easy talk about the bias and the grain coming and then drying up at odd moments, the silences arriving where his voice had been flowing a breath before. She was learning to hear the silences. They were the places his attention had left the dress.
+He worked close again, but it was different from the measuring now — slower, more, his hands staying where the tape hadn't let them, going still against her at odd moments, the work forgotten for a breath while his attention left the dress and came to rest on her. He'd gone quiet over the work; he had the dress to build, and it had him. She had nothing to do but stand on the box and be seen — and be touched, slow and certain, by a man she'd never done more than kiss. It thrilled her and it unnerved her in the same breath.
 
 And underneath it, the old thing, getting worse.
 
