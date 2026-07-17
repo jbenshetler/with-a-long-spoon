@@ -272,6 +272,16 @@ Introduced in **Standards**. The one person in the sorority who out-operates Ran
 
 -----
 
+## VEE'S DORM FLOOR — Kayla, Meg, Theo
+
+Vawter Hall (girls-only); Vee's unaffiliated dorm-life background. Kept light — recurring warmth, not architecture.
+
+- **Kayla** — two doors down; blonde, round-faced, a head of curls that moves when she does; warm, nosy chatterbox, under-21. The plain-female desirability seal.
+- **Meg** — same floor; dark-haired, level, eats and talks like she has all night; coupled (boyfriend Danny), the ambient-normal.
+- **Theo** — sophomore-English classmate (a separate pocket, since the dorm's girls-only); scenery. Asked Vee out once, took *let's be friends* in stride — a light desirability touch.
+
+-----
+
 ## BEST PHRASINGS / LINES TO PRESERVE
 
 **The name exchange:**
