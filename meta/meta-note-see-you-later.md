@@ -9,7 +9,7 @@ The scene's recurring craft problem was conveying an idea — status, un-apprais
 - **Refuse to measure Randi.** *"Randi was… Randi"* enacts not-comparing. Giving Randi a *height* would let Vee rank herself against it and break the dynamic — Randi is a different *kind*, off any competitive axis, never a ceiling. (→ the `chosen/recognized` vs `seen` reserved-vocabulary rule, `meta-craft-randi.md`.)
 - **The pun stays locked.** The Chi Latte joke is never taught. Tell only enough to get it; more reads as a lesson — and only a minority have taken stats. Let the reader who gets it feel let in.
 - **The warning lands by absence.** The ending stays in the present moment (*"Already the words were going"*); Cassie's *goodbye* is felt by what Vee can no longer reach, never by narrating "she forgot." Close third cannot recall what's gone. Cassandra by resonance.
-- **Content-evaporation.** Vee keeps the *feeling* of being chosen, not the transcript — enacted, not stated. This is the confidante track's engine in miniature: cheap warmth overvalued, substance gone.
+- **Content-evaporation.** Vee keeps the *feeling* of being chosen, not the transcript — enacted, not stated. This is the confidante track's engine in miniature: cheap warmth overvalued, substance gone. (Cheap coin is correct *here*, by design — this is first contact, before genuine attachment forms; the smile Vee gets is still the universal beam. The Vee-exception smile **develops** later; see `meta-craft-randi.md`, *The Vee exception*.)
 
 ## The two judgment calls locked in revision
 
@@ -24,6 +24,7 @@ Plants:
 - **Goodbye-kiss rung zero:** the hug, the hand flat between the shoulder blades, *"Love you, girl."* Pre-coded deniable.
 - **Unequal exchange:** Vee gives competence/attention ("the one who knows things"); gets warmth-as-status, and overvalues the cheap coin.
 - **Orbit / arrange-around** language for Randi (status register; consistent with later fall usage).
+- **Genuine-warmth flicker (proto-tell, ¶ "*There* you are" arrival):** a half-second soft register crossing Randi's face *before* the beam — unregistered by Randi (the body knows before the conquest-frame does), unreadable by Vee. First hairline of the develops-arc; pays off as the soft/genuine smiles Vee later learns to read (`meta-craft-randi.md`, *The Vee exception*). Not a cup/lock need-tell (those still don't fire — Randi is operating); this is warmth leaking *under* the operation.
 
 Deliberately withheld — recording the decision *not* to plant:
 - **Taste thread** — waits for the first Pace/Vee sex scene.
