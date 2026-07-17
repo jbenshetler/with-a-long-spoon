@@ -51,19 +51,19 @@ omits the three character-architecture docs, `novel_thesis.md`, and
 `scene-plan-chronology.md` entirely. Left untouched this pass (deleting references to
 historical docs is an authorial call). Recommend a full Document-Map refresh.
 
-## 4. Stale scene-file pointers (separate from the version cleanup) (CLEANUP)
+## 4. Stale scene-file pointers (separate from the version cleanup) ✓ RESOLVED
 
-Outside the version-tag scope, some docs point at scene files by old names —
-e.g. `scene-plan-chronology.md` references `the_fitting.md` (actual:
-`scenes/the-fitting.md`) and `fitting_companion_notes.md` (actual:
-`meta/notes-the-fitting.md`). Not fixed this pass.
+The old-name pointers noted here are obsolete: the fitting scene has since been
+renamed and split into `scenes/two-towels.md` + `scenes/a-round.md` (companions
+`meta-condensed-two-towels.md` / `meta-condensed-a-round.md`), and lingering path
+references are swept and tracked by `tools/check_renames.py`.
 
 ## 5. Filename case convention (OPTIONAL)
 
 `meta/` still mixes snake_case (`novel_thesis.md`, `pace_architecture.md`,
 `randi_architecture.md`, `vivienne_architecture.md`) and kebab-case
 (`character-relationship-bible.md`, `satc-track-scenes.md`,
-`scene-plan-chronology.md`, `meta-note-threesome-reveal.md`, `notes-the-fitting.md`,
+`scene-plan-chronology.md`, `meta-note-threesome-reveal.md`,
 `summary.md`). Optional future unification to one style (kebab-case is the majority).
 
 -----
