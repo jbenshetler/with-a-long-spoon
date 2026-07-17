@@ -273,15 +273,23 @@ She was getting wetter. She knew it the way she always knew it, the warm betraya
 
 And her body had decided that this — being measured, being attended to like she was worth his patience, being looked at and looked at and looked at — *this* was the thing, and the small thumbprint on the couch was not the small thumbprint anymore. She could feel it. She could feel the cool of the soaked satin where the air found it, the size of it growing against her skin, the slow appalling spread of evidence, and he was working lower.
 
-She looked down before he got there. She had to know. She tipped her chin and looked past the pinned silk at herself and hoped — stupidly, against everything she could feel on her own skin — that it didn't show, or didn't show much.
+She had to know. She tipped her chin and looked down past the pinned silk at herself and hoped — stupidly, against everything she could feel on her own skin — that it didn't show, or didn't show much.
 
 It was big and dark and stupid.
 
 The satin had no thickness to hide it in. The lace edge had even less. A patch on pale shining fabric, soaked through and showing dark beneath the sheen, the wrong color in the wrong place, obvious and humiliating and unmistakably her.
 
-Her body had done what her body did and there was no piece of cotton on earth thick enough to absorb what she'd been wearing, and what she'd been wearing was the satin she'd put on with hope. The hope was visible. The hope was sized to be seen across the room. Her shame made plain and dressed up in the fabric she'd chosen for the occasion, and the occasion had turned out to be this.
+Her body had done what her body did, and what she'd been wearing was the satin she'd put on with hope. The hope was visible. The hope was sized to be seen across the room. Her shame made plain and dressed up in the fabric she'd chosen for the occasion, and the occasion had turned out to be this.
 
-He was working lower. He was on his knees now — had been since the side seam — and the riser she stood on put her at exactly the height it would put her if she had wanted to, if she had stepped onto the box for the express purpose of putting that part of her at his eye level. Knees. Pedestal. He was inches below where she was wettest, working his way around toward the front, and in the next minute or so his face was going to come past the place she'd been dying over.
+He was working lower, and now he was working *around.*
+
+He'd been on his knees since the side seam, and he stayed on them and moved — a slow knee-walk around the base of her, following the line of a dress that wasn't a dress yet. She felt the geography of it before she let herself understand it. He was at her side. Then he was behind her, where she couldn't see him and couldn't read his face, only feel his breath arrive low against her — and then his hands arrived too.
+
+On her ass. Both of them, flat and warm, smoothing up over the seat of her as if to learn how the silk would fall there once it reached — except the silk hadn't reached, and there was nothing under his palms but the barely-there satin. She felt the whole shape of his hands take the whole shape of her and hold, once, before they went on. It was the first time he had ever touched her there. It landed low in her stomach and stayed.
+
+And it made everything worse, from every direction at once. His hands loosened another notch of her — she felt the give of it, more wanting worked loose with nowhere on earth to put it. She was no longer sure she was even dry back there; the thought arrived with a lurch and would not leave. Then his hands moved on, around to her other hip, and settled at the far side of her — and she knew it for the last of it, the last place he would stop before he came around to the front.
+
+The riser put her at exactly the height it would put her if she had wanted it, if she'd stepped up onto the box for the express purpose of setting that part of her at his eye level. Knees. Pedestal. From that hip he was one slow turn on his knees from where she was wettest, and in the next minute or so his face was going to come around the curve of her and arrive, open and level, at the place she'd been dying over.
 
 She shut her eyes.
 

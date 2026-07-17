@@ -1,6 +1,6 @@
 # The Bench
 
-*Inciting incident. Pace's POV. The novel's opening scene. Sets the world, both characters, the appetite, and the wound that originates everything downstream.*
+*Inciting incident. Pace's POV; the woman is **Randi** — **Vee does not appear in this scene** (Randi is not named in the prose until late; the whole first half is unnamed "she/her"). Not to be confused with the later "Vee on the Bench." The novel's opening scene. Sets the world, both characters, the appetite, and the wound that originates everything downstream.*
 
 ---
 
