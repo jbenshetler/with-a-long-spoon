@@ -83,6 +83,8 @@ The first night is the discharge of the Fitting's deferred tension. Pace invited
 >
 > **The nail color:** burgundy — close to the silk he chose for her dress; connection noticed by her, not named. Her interior color is green (the panties and matching bra). Burgundy is exterior / his; green is interior / hers. Do not conflate.
 >
+> **The green pair is NEW — two-pair arc, do not reconcile to one.** The panties at the fitting (`a-round.md`) are *pale, shining* satin — her "one good pair" *at that point*. The deep-green satin here is a **different, newly-bought pair** ("bought new and not yet worn," line 3), acquired after the fitting and first worn this night. The color turn is the point: after being truly seen on the riser, she begins wearing her interior color (green) outward — externalized in an object, never explained on the page (rhymes with the burgundy polish she also "bought without thinking too hard about why"). A future editor may be tempted to make the fitting and first-night panties the same garment — **do not.** The pale→green change is a character beat. (The "crystal-strings setup (Fitting)" payoff below is a *tableau* echo — his face at the soaked satin — not a garment carried over; the "crystal strings" are her fluids, not fabric.)
+>
 > **The scar:** inside of his thigh, close to the hip. Surgical, old. She asks with her finger and gets nothing verbal. It will return in a later chapter. Do not explain it here or in Toenails.
 
 ---
