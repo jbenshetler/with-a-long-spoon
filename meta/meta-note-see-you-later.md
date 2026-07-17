@@ -24,12 +24,12 @@ Plants:
 - **Goodbye-kiss rung zero:** the hug, the hand flat between the shoulder blades, *"Love you, girl."* Pre-coded deniable.
 - **Unequal exchange:** Vee gives competence/attention ("the one who knows things"); gets warmth-as-status, and overvalues the cheap coin.
 - **Orbit / arrange-around** language for Randi (status register; consistent with later fall usage).
-- **Genuine-warmth flicker (proto-tell, ¶ "*There* you are" arrival):** a half-second soft register crossing Randi's face *before* the beam — unregistered by Randi (the body knows before the conquest-frame does), unreadable by Vee. First hairline of the develops-arc; pays off as the soft/genuine smiles Vee later learns to read (`meta-craft-randi.md`, *The Vee exception*). Not a cup/lock need-tell (those still don't fire — Randi is operating); this is warmth leaking *under* the operation.
 
 Deliberately withheld — recording the decision *not* to plant:
 - **Taste thread** — waits for the first Pace/Vee sex scene.
 - **The cup / the lock** — Randi is *operating* here, not being done-to, so no tells fire.
 - **Randi's speech-engine on the page** (extract/name/steer) — deferred to the first brunch. This scene renders the *effect* (evaporation, being chosen); the *technique* is deferred. The tradeoff is deliberate: charm rendered directly in panel one (the right pen, the name-bit), effect-only in panel two.
+- **Genuine-warmth flicker** — considered and rejected: too soft, too soon. Randi runs the pure beam at first contact; her body-knows-before-she-does truth stays *off the page* here (the develops-arc surfaces later, `meta-craft-randi.md`, *The Vee exception*).
 
 ## Character guards exercised here
 

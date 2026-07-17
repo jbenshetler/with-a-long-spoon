@@ -26,7 +26,7 @@ The professor cleared his throat into the microphone clipped to his collar, whic
 
 "*There* you are."
 
-She was at the end of the row. She had come in the back, which Vee had not thought to watch, and she was already sidestepping in past two annoyed people with a hand raised in small apology to each of them, and she found Vee — and something crossed her face before the smile did, softer, with none of the wattage in it, there and gone before Vee could fix it. Then the smile came, her whole face lit, as though the thing she had been hoping for had in fact been this, this exact row, and had come true. Vee let the other thing go, already unsure she'd seen it at all.
+She was at the end of the row. She had come in the back, which Vee had not thought to watch, and she was already sidestepping in past two annoyed people with a hand raised in small apology to each of them, and she was looking at Vee with her whole face lit, as though the thing she had been hoping for had in fact been this, this exact row, and had come true.
 
 "Hi," Vee said, and heard it come out a half-step too bright, and could not do anything about it.
 
