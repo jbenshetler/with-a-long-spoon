@@ -87,7 +87,7 @@ Standalone dorm-friends dinner in the athletic-dorm dining hall (better food, be
 Vee's first visit to the house. He turned the heat up before she came. The tour reveals him room by room (squared shoes, the working kitchen, the two towels, the office equations, the closed bedroom door left closed, the handmade furniture, the patent). Ends at the sun porch: burgundy silk matched to her coloring, not the magazine reference; the no-tag shirt detonates (he made it); he offers to make her the dress and to measure her first, and she says yes. Pays off: silk-naming (hike), no-tag shirt (hike). Plants: the two towels (reread — the second towel); the offer that sets up the fitting.
 
 ### [SCENE] A Round
-*Early fall · ~Sat Oct 10 · same afternoon, continues from Two Towels* · Draft complete · `a-round.md` · [detail](meta-condensed-a-round.md)
+*Early fall · ~Sat Oct 10 · same afternoon, continues from Two Towels* · Draft complete · reviewed: 2026-07-17 · `a-round.md` · [detail](meta-condensed-a-round.md)
 The fitting itself. He measures her down to just her panties (not the bra-and-panties she'd braced for) on the riser, in good light — close and rhythmic, close-then-away. Her body betrays her: involuntary arousal, soaked through the satin, the shame of the body announcing its wanting. The deliberate *"Oops"*; *"Keep still"* at audible cost (his held line); the knee-walk hem circuit — a round of her — building dread. Ends with the dress unfinished and deferred tension intact — the tension that motivates the first night. "Keep still" origin (recurs Still Life, Burn). Plants: the deferred want; first ass-contact (Vee — not The Bench, which is Randi).
 
 ### [SCENE] Turned Up
