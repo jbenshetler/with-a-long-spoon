@@ -467,7 +467,7 @@ Vee tells Cassie everything — the telling forced by Pace and Randi vanishing t
 
 ## Continuity Flags
 
-1. **The Fitting is a daytime visit, not an overnight stay.** ✓ **Resolved (author):** it happens during the day and she does not stay over. It is her **first time at the house** — three prior dates, none at his home; he brings her home earlier in the arc than his usual pattern, and the shortcut is itself a tell. A daytime visit, no overnight (the deferment carries her out the door), which keeps A Recognized Method clean as her first post-sex overnight.
+1. **The fitting is a daytime visit, not an overnight stay.** ✓ **Resolved (author):** it happens during the day and she does not stay over. It is her **first time at the house** — three prior dates, none at his home; he brings her home earlier in the arc than his usual pattern, and the shortcut is itself a tell. A daytime visit, no overnight (the deferment carries her out the door), which keeps A Recognized Method clean as her first post-sex overnight.
 
 2. **The try-on.** Folded into Dress Pickup: she initiates, he proceeds, tender. A Recognized Method remains the first edged beat.
 
@@ -487,7 +487,7 @@ Vee tells Cassie everything — the telling forced by Pace and Randi vanishing t
 
 10. **Latent-variable plant.** Seeded as ambient end-of-class preview in the Chi Latte diptych. Later stats mirrors (continuous-vs-discrete at Secret Plans — the corrector's pulses vs. the vibrator, having replaced the old Nipple Clamps home, etc.) do not re-explain the term.
 
-11. **Hike/Fitting color framing.** ✓ **Resolved (author):** The hike names **russet / brick-red only** (the magazine shade she names). The Fitting does **not** impose a unilateral color-match: Pace offers a deeper burgundy variant that honors the want beneath the color, and Vee comes to see — in the dark window glass — that it suits her better than the shade she'd pictured. No "poured wine" phrasing anywhere. Applied: `two-towels.md` (brick-red, not brick-wine); `meta-condensed-two-towels.md` Plants + Summary (poured wine → brick-red; naming located at the summit); `meta-rules.md` (silk line reframed as offer-honoring-the-want).
+11. **Hike/Fitting color framing.** ✓ **Resolved (author):** The hike names **russet / brick-red only** (the magazine shade she names). The fitting does **not** impose a unilateral color-match: Pace offers a deeper burgundy variant that honors the want beneath the color, and Vee comes to see — in the dark window glass — that it suits her better than the shade she'd pictured. No "poured wine" phrasing anywhere. Applied: `two-towels.md` (brick-red, not brick-wine); `meta-condensed-two-towels.md` Plants + Summary (poured wine → brick-red; naming located at the summit); `meta-rules.md` (silk line reframed as offer-honoring-the-want).
 
 12. **First Night motive.** Motivated by the Fitting's deferred tension, not the CW Dance. Do not write as reassurance-seeking or loss-driven.
 

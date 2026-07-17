@@ -38,7 +38,7 @@ Pace takes Vee on her first hike — a short, steep climb through a tunnel of tr
 ## Architecture Notes
 
 - **Shame-arousal loop installed at full force.** This is the loop's first peak on the page, rendered in isolation (Vee's loop alone, against Pace's reception). The shame and the arousal are the same wire — the cutting voice's verdict *is* the heat. Deliberate decision (this session): lean in hard here so the loop is established and defined, freeing later scenes to fire it in new configurations (his arrangement at the Fitting; full body at the first night; Randi's amplification; social risk; pain) along *different axes* rather than escalating loop-intensity. The truck is not the erotic ceiling — later scenes compound engines, they don't out-shout this one.
-- **The two surrender halves.** This scene = the *active-offering* half (she authors the exposure). The Fitting takes the *passive-yielding* half (his arrangement, "Keep still"). The first night integrates both.
+- **The two surrender halves.** This scene = the *active-offering* half (she authors the exposure). The fitting takes the *passive-yielding* half (his arrangement, "Keep still"). The first night integrates both.
 - **Cutting-voice-defusion mechanism pre-installed twice at low stakes** (the blister; the cherry pit), so the Fitting's higher-stakes versions (the bra question, the breast-against-cheek) run on an established pattern.
 - **Pace receives, does not consume.** Looking *is* the receiving — to avert his eyes would refuse her gift. He looks fully; he does not touch. The not-touching is the only line.
 - **Pace's rule-breaking appetite is architectural and invisible to Vee.** She reads him as want + gladness. She does *not* perceive that her self-transgression is specifically what he most wants. The reader has that from elsewhere; the chiasmus discipline holds.
@@ -59,7 +59,7 @@ Pace takes Vee on her first hike — a short, steep climb through a tunnel of tr
 
 ## Continuity and Revision Notes
 
-> **Color framing.** Vee names **russet / brick-red** on the hike — the magazine shade — and *only* that color appears in this scene. The Fitting's color is **not** a unilateral match Pace imposes: there he **offers** a color slightly different from the russet, honoring the want beneath it (to look beautiful), and Vee consents and comes to see it is better for her. No "poured wine" phrasing here. (Pending doc edits tracked in chronology flag 11.)
+> **Color framing.** Vee names **russet / brick-red** on the hike — the magazine shade — and *only* that color appears in this scene. The fitting's color is **not** a unilateral match Pace imposes: there he **offers** a color slightly different from the russet, honoring the want beneath it (to look beautiful), and Vee consents and comes to see it is better for her. No "poured wine" phrasing here. (Pending doc edits tracked in chronology flag 11.)
 
 > **Silk-naming.** Lives here, at the summit lunch — Vee names the dress-color unguarded; Pace acts on it at the Fitting.
 

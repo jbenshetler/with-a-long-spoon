@@ -1,6 +1,6 @@
 # Condensed — Turned Up
 
-*Scene · Draft complete · `turned-up.md` · same day as The Fitting · same afternoon*
+*Scene · Draft complete · `turned-up.md` · same day as the fitting · same afternoon*
 
 ## Summary
 

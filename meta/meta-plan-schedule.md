@@ -26,9 +26,9 @@ The jobs are distinct and have **opposite stability profiles**:
 
 ### Layer 1 — Identity: the name
 
-The **distinctive scene name is the permanent handle.** "The Fitting," "The Long Way," "Standards." All cross-references in all `meta-*` docs point at the name. A name never breaks on insertion, reorder, renumber, or calendar revision.
+The **distinctive scene name is the permanent handle.** "Two Towels," "The Long Way," "Standards." All cross-references in all `meta-*` docs point at the name. A name never breaks on insertion, reorder, renumber, or calendar revision.
 
-- **Cross-references use names, not numbers:** "see The Fitting," not "see scene 15."
+- **Cross-references use names, not numbers:** "see Two Towels," not "see scene 15."
 - **Optional stable ID (birth-order):** if a numeric handle is ever wanted (tooling, "X of ~41" tracking), assign a *never-reassigned birth-order* ID — the scene's permanent serial, unrelated to position. The Long Way is born `#008` and dies `#008` regardless of where it sits or what month it lands in. New scenes take the next free integer. **This is optional; names already serve as handles.** Adopt only if numeric sorting in a tool becomes useful.
 - **"X of ~41 complete"** is a *count*, not a max-number. It lives as prose in `meta-brief.md`, computed from how many are drafted — never inferred from the highest scene number.
 

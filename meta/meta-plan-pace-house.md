@@ -133,7 +133,7 @@ try-on (`scenes/dress-pickup.md`).
 Through an archway at the far end of the den — an **enclosed porch at the back, mostly
 windows: the room with the best light.** **Not a dedicated workroom** — he brings the
 fabric out and sets up here to cut, sew, and fit for a project (distinct from
-the woodshop); **The Fitting plays here.** On the page (`scenes/dress-pickup.md`):
+the woodshop); **The fitting plays here.** On the page (`scenes/dress-pickup.md`):
 - A **long work / cutting table** (the burgundy gown was cut and built here).
 - A low **fitting pedestal** she stands on — the maker's fit-to-a-body, the same knack as
   the bench and the dress.
@@ -186,7 +186,7 @@ two people move through without calling out to each other.
 - **Office** `[PAGE]`: **closed laptop + a serious matte workstation** (the one expensive thing in the house, no gamer RGB); **green graph paper** in his small square hand (notation + diagrams); **printed article drafts** marked up (his own and others'); **journals read online**, not paper. Vee (econ — calc + linear algebra done, stats in progress) reads the *shape*, not the content.
 - **Den** `[PAGE]`: the library wall holds **sword-and-sorcery** (the chivalric refuge — one cover a **knight and a girl in a gown**, unspoken Pace/Vee), **cookbooks** (he cooks), **hardbound math texts**. **Arts-and-Crafts furniture he built** — table, chairs, sideboard in **pale white oak**; **round dowels set flush** (*not* square pegs — no mortising machine, and showing off is un-A&C), **glued cut joints, no screws**, **stain and shellac he mixed himself**. Reached by doubling back to the foyer.
 - **Woodshop / garage** `[PAGE]`: the **two-car garage off the far side of the kitchen, down a couple concrete steps** (oversized for the house — the drive-up tell). Immaculate for safety; tools in painted outlines; a piece curing (a chair short its back). *A look, not a full tour.*
-- **Sun porch** `[PAGE]`: the **largest room in the house** — glass on one long wall and both short ends, **woods → mountains** beyond (the payoff of the remote lot). **The Fitting plays here by day** (see Light, above).
+- **Sun porch** `[PAGE]`: the **largest room in the house** — glass on one long wall and both short ends, **woods → mountains** beyond (the payoff of the remote lot). **The fitting plays here by day** (see Light, above).
 
 ## See also
 - `character-relationship-bible.md` — what each room *means*; Pace's objects/class

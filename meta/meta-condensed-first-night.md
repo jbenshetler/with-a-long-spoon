@@ -90,7 +90,7 @@ The first night is the discharge of the Fitting's deferred tension. Pace invited
 ## Plants / Pays Off
 
 **Pays off:**
-- **The Fitting's deferment** — *"Keep still"* held a line; this is the line falling, by her agency
+- **The fitting's deferment** — *"Keep still"* held a line; this is the line falling, by her agency
 - **The shirt-sleeping** — she has been sleeping in his flannel for a week; the sheets are the source behind the proxy; *recognition, not discovery*
 - **The crystal-strings setup (Fitting)** — his face at the soaked satin seeded the reframe; *"Would you be bothered if I was too hard?"* fires it
 - **The mis-en-place / no heat** — she arrives before the flame; the image holds without stating what it means

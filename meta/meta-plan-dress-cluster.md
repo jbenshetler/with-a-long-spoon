@@ -1,12 +1,12 @@
 # Notes — The Dress Cluster & the Scrunchie Gaslight
 
-*Development note. Captures the cluster of scenes that follows the Fitting — the warm, **unshadowed** fall run from The Fitting through Shoe Shopping with Randi. **Continuity correction (committed):** the scrunchie gaslight does **not** fire in this fall cluster. It is a **spring** arc (Drawer first visit ~mid–late Feb, off-page; grains #1/#2/#3 Feb–April) — placements live in `meta-plan-chronology.md` (Late section), the mechanism in `meta-plan-scrunchie-gaslight.md`. The mechanism is kept below for reference only; the fall stays warm. Cross-ref: `meta-plan-chronology.md` (owns placement), `two-towels.md` (the making, which leaves the dress unfinished).*
+*Development note. Captures the cluster of scenes that follows the Fitting — the warm, **unshadowed** fall run from the fitting through Shoe Shopping with Randi. **Continuity correction (committed):** the scrunchie gaslight does **not** fire in this fall cluster. It is a **spring** arc (Drawer first visit ~mid–late Feb, off-page; grains #1/#2/#3 Feb–April) — placements live in `meta-plan-chronology.md` (Late section), the mechanism in `meta-plan-scrunchie-gaslight.md`. The mechanism is kept below for reference only; the fall stays warm. Cross-ref: `meta-plan-chronology.md` (owns placement), `two-towels.md` (the making, which leaves the dress unfinished).*
 
 ---
 
 ## The cluster, in order
 
-Sits between **The Fitting** — the *making*, dress left unfinished — and **Shoe Shopping with Randi** — the finished-dress outing. Order is load-bearing.
+Sits between **the fitting** — the *making*, dress left unfinished — and **Shoe Shopping with Randi** — the finished-dress outing. Order is load-bearing.
 
 1. **Turned Up.** Warm/genuine-mutuality register. The dress is still unfinished, so this is the *experience*, not the object — the being-seen-at-her-most-ashamed-and-not-found-wanting leaking into the telling. Pre-seeds the contrast against the Randi (SATC) channel. Quiet Cassandra-track.
 

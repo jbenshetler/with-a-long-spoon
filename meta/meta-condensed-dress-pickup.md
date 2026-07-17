@@ -1,6 +1,6 @@
 # Condensed — Dress Pickup
 
-*SCENE · Draft complete (`scenes/dress-pickup.md`) · mid-week, ~1.5 weeks after The Fitting*
+*SCENE · Draft complete (`scenes/dress-pickup.md`) · mid-week, ~1.5 weeks after the fitting*
 
 ## Shape
 
