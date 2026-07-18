@@ -1,6 +1,6 @@
 # Fed
 
-The bistro had a sun porch along its south side, a long room of glass and white-painted muntins where the late-morning light came in and lay on everything without asking. Randi had picked it. Randi picked all of them. Vee came in out of the ordinary day and into that bright room and felt the way she always felt at the start of these, which was chosen, which was lit, which was a half-second behind.
+The bistro had a sun porch along its south side, a long room of glass and white-painted muntins where the late-morning light came in and lay on everything without asking. Randi had picked it. Randi picked all of them. Vee came in out of the ordinary day and into that bright room and felt what she always felt at the start of these, which was chosen, which was lit, which was a half-second behind.
 
 Randi was already at a table against the glass, sunglasses pushed up into her hair, and she did the thing where she saw Vee and her whole face opened, as if Vee arriving were the good news she'd been waiting on all week. "There she is," she said. "God, look at you. You're glowing. Sit, sit."
 
@@ -20,7 +20,7 @@ So she gave Randi the same one, because it was the true one, and she told it wel
 
 "And after," she said, "I sat in his kitchen wrapped up in just a bedsheet and watched him finish cooking."
 
-It was out of her mouth before she heard it. Then she heard it. The light came in off the glass and lay on her and she felt the heat climb her throat the way it did, uninvited, announcing her, and she understood in the bright open room exactly what she had just set on the table.
+It was out of her mouth before she heard it. Then she heard it. The light came in off the glass and lay on her and she felt the heat climb her throat, uninvited, announcing her, and she understood in the bright open room exactly what she had just set on the table.
 
 Randi's face went soft with pleasure. "Oh, that's a good one. I love that, I can see it, that's a photograph." She took a slow sip. "But I notice," she said, warm, unhurried, setting the flute down, "that you went straight to the bedsheet and skipped clean over the part where you explain how you ended up wearing it."
 
@@ -40,7 +40,7 @@ Vee laughed, helpless, mortified, glowing. She had moved them to the top of the 
 
 "What color?" Randi said. "The nails."
 
-"Burgundy," Vee said, and the word was halfway out and easy and then it wasn't, because she was looking at the dark wine of her own nails on the white tablecloth and the thing she had noticed once and put away and come back to twice before the polish dried came up in her again, fully, here, in front of Randi, in the light: the silk he had held up to her face, the same deep red, the way she had picked the bottle off the shelf because of it without letting herself finish the thought. "Burgundy," she said again, and stopped, and the rest of it stayed in her face.
+"Burgundy," Vee said, and the word was halfway out and easy and then it wasn't, because she was looking at the dark wine of her own nails on the white tablecloth and the thing she had noticed once and put away and come back to twice before the polish dried came up in her again, fully, here, in front of Randi, in the light: the silk he had held up to her face, the same deep red, the bottle she'd picked off the shelf because of it, without letting herself finish the thought. "Burgundy," she said again, and stopped, and the rest of it stayed in her face.
 
 The heat sat in her face and would not go, and Randi was looking right at it. Her voice came down a register, intimate, pleased. "Oh," she said. "That color means something. Look at your face. It means something."
 

@@ -487,6 +487,48 @@ text = "Randi set her chin in her hand and turned the whole of her face on Vee."
 note = "author-approved 2026-07-14: 'turned the whole of her face on Vee' stands — total-attention image is the beat"
 
 [[ok]]
+fp   = "09ab496a579a"
+rule = "the-way"
+file = "scenes/fed.md"
+text = "She said it the way you hand someone a coat they'd left behind."
+note = "scene review 2026-07: author accepted; load-bearing 'the way' simile, keep"
+
+[[ok]]
+fp   = "bd0e61fea34d"
+rule = "the-way"
+file = "scenes/fed.md"
+text = "The good version, the whole clean one, the dinner he'd made, the apron, the garlic going soft and the pepper blooming red in the oil, the Chianti he'd opened before she'd even come so it could breathe, the way he'd paid attention to her like attention was a thing he had an unlimited supply of and had decided to spend all of it here."
+note = "scene review 2026-07: author accepted; load-bearing 'the way' simile, keep"
+
+[[ok]]
+fp   = "c0318024cc07"
+rule = "the-way"
+file = "scenes/fed.md"
+text = "Vee laughed, because it was funny, because Randi made it funny, the way she made everything that had cost her into a story that had cost her nothing."
+note = "scene review 2026-07: author accepted; load-bearing 'the way' simile, keep"
+
+[[ok]]
+fp   = "d9876dcbea76"
+rule = "the-way"
+file = "scenes/fed.md"
+text = "\"It might,\" Vee said, around the heat, and let it be unsaid, and Randi let it be unsaid too, and held it a beat, and then, kindly, gave her the way out by giving her the floor."
+note = "false positive: 'the way out' is the exit idiom, not the filtered 'the way she [verb]' construction"
+
+[[ok]]
+fp   = "ec9a248da05a"
+rule = "the-way"
+file = "scenes/fed.md"
+text = "The menu was a single heavy card, and Vee opened hers and read the right side first, the way she read a road in fog, looking for what was passable."
+note = "scene review 2026-07: author accepted; load-bearing 'the way' simile, keep"
+
+[[ok]]
+fp   = "fdee0a4e31aa"
+rule = "the-way"
+file = "scenes/fed.md"
+text = "The waiter came and Randi ordered a mimosa without looking at the card at all, the way you order a thing you have ordered a thousand times and will a thousand more, and Vee closed her menu and said she'd have the same."
+note = "scene review 2026-07: author accepted; load-bearing 'the way' simile, keep"
+
+[[ok]]
 fp   = "3fb15f593011"
 rule = "the-way"
 file = "scenes/grace.md"
