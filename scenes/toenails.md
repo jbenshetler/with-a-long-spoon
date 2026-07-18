@@ -4,7 +4,7 @@ The lock stuck the way it always stuck and she got the door open with her hip an
 
 Cassie looked up, and for half a second something crossed her face and was gone before it found a name. Then she read her friend the way she read everything, fast and whole, and her mouth went to match Vee's, because Vee was grinning and the grin was the entire story.
 
-"There she is," Cassie said.
+"That good," Cassie said.
 
 Vee had no bag. She had not been able to pack one. To pack a bag the night before would have been to say the thing to herself, plainly, and she had not been willing to say it, so she had driven over with nothing and woken in his bed with her dress on the floor and her hair its own wild country, no brush in the house that would go through it, her face bare because there had been nothing to do it with. She'd looked in his mirror and laughed. The smile had been there ever since. It had come back at every red light on the way home.
 
@@ -22,7 +22,7 @@ What she kept was the middle. She lifted it out clean as she went, the way you l
 
 Cassie listened with her chin on her knees and did not pull at the seam. Whether she felt it there, Vee couldn't have said.
 
-"He cooked," Cassie said, filing it. "A man made you dinner."
+"He cooked," Cassie said. "A man made you dinner."
 
 "He's a good cook."
 
@@ -30,7 +30,7 @@ Cassie listened with her chin on her knees and did not pull at the seam. Whether
 
 Vee wanted to be clean. She wanted the shower more than she'd wanted anything sensible in days. She got up, pulled her towel off the hook, reached back for the zipper, drew it halfway down, and stopped.
 
-Nothing under the dress. She had given them away. *Trade*, she'd said, and folded them one-handed and set them in his palm, and driven home bare under burgundy toenails her mother would have had a word for. The word could come; she found she didn't much mind it this morning. What she minded was here, now: three feet from Cassie, the zipper half down, and the next thing she took off would not be a story she was editing. It would be on the floor in green, and there would be nothing left to say.
+Nothing under the dress. She had given them away. *Trade*, she'd said, and folded them in thirds and set them in his palm, and driven home bare under burgundy toenails her mother would have had a word for. The word could come; she found she didn't much mind it this morning. What she minded was here, now: three feet from Cassie, the zipper half down, and the next thing she took off would not be a story she was editing. It would be on the floor in green, and there would be nothing left to say.
 
 She zipped the dress back up.
 

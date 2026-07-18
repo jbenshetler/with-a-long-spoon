@@ -85,7 +85,7 @@ Established verbal signatures: the flat single-word return (declines the warm-co
 
 ## Sport
 
-**Softball (spring) and basketball (winter); any rec team given the chance.** Heavy intramural sport is what holds the boxy build off fat; the body is *for* this, not for being looked at.
+**Soccer (fall), softball (spring), and basketball (winter); any rec team given the chance.** Heavy intramural sport is what holds the boxy build off fat; the body is *for* this, not for being looked at. (The fall soccer season is what puts her in cleats at a mid-October game in `toenails.md`.)
 
 **The sport calendar is load-bearing:** the friend who would have kept Vee safe was at a game. (The structural cost of the configuration is partly enabled by Cassie's seasons — she is reliably *elsewhere, competing,* at the times it matters most.)
 
