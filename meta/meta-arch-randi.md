@@ -71,7 +71,7 @@ So the operation is **sadism on Vee and masochism on herself in one gesture** �
 
 **The volunteering keeps the bench singular.** She authors every rung, which makes each one hers and deniable — the opposite of the bench, where the need was drawn out of her unframed. She may beg again inside the disguise; she does not produce the begging-voice again. The bench stays the one time the wrapper was absent.
 
-*Entry rung: `scenes/in-her-place.md` (spring; the fall dress-barb converted and grown into a full scene). High rung: the kneeling and the* sloppy seconds *line (`ignition-scalding.md`).*
+*Entry rung: `scenes/in-her-place.md` (spring; the fall Randi/Pace material relocated and grown into a full scene). High rung: the kneeling and the* sloppy seconds *line (`ignition-scalding.md`).*
 
 ---
 
@@ -91,7 +91,7 @@ It also means every SATC report Vee delivers cross-references against Randi's sp
 
 Randi and Pace opened greedy. The first weeks (from ~mid-August) ran hot and frequent: Pace is a fit twenty-two-year-old athlete, his body capable and often ready, and the early cadence was as much weekend overnights as weekday afternoons. The frequency left her sore — the plain physical fact of a healthy young woman keeping pace with an athlete, never a complaint and never neediness. (The vigor is *body*; the appetite that actually lights Pace stays cognitive — conventional sex leaves his mind elsewhere, its own unspoken cost inside a configuration she experiences as her aliveness.)
 
-Vee's arrival upends that orbit. The plan routes Pace's weekend nights to Vee; Randi's access contracts to weekday afternoons (see "Sweet"). She now has much less of Pace — and the soreness, with it, is past tense.
+Vee's arrival upends that orbit. The plan routes Pace's weekend nights to Vee; Randi's access contracts to weekday afternoons. She now has much less of Pace — and the soreness, with it, is past tense.
 
 Her attitude toward this is the load-bearing thing, and it is pure operator. She is **not seeking relief.** But in concept she is **not much bothered to split the servicing of Pace — with a woman of her own choosing.** The acceptability runs entirely through control: she selects who. She doesn't mind the freed weekends (sorority time she'd been spending on him) or the lightened physical load — but **both are side benefits, not sought, never the motive.** The threesome's engine is the want for Vee; the servicing-split is a comfort compatible with it, not a reason for it. Read it as the driver and Randi collapses into someone seeking help, which she is not.
 
