@@ -378,7 +378,7 @@ With Standards established, the brunch is a scene where **two women each overpay
 
 ## CRAFT GUARDRAILS RECAP (this session's additions)
 
-- The both-tests rule (existing rule 104) is the master bar for EVERY new Randi line: warm/frank/fun on first read, cold/instrumental on second, NO word changing. If a line only works as sinister, it fails.
+- The both-tests rule is the master bar for EVERY new Randi line: warm/frank/fun on first read, cold/instrumental on second, NO word changing. If a line only works as sinister, it fails.
 - Surface must be COMPLETE: a first-time reader should think "Vee's glamorous worldly friend delightedly drags the juicy details out of her — hot, scandalous, generous about what she doesn't push for; they're closer at the end." Every dark reading lives in the reread. A reader who feels "something's off with Randi" on first pass = over-tuned to dark.
-- The cup tell (Randi doc rule 335) is the ONLY crack permitted at a brunch, reserved for the wound-beat (warm-house). Keep her hands easy and her stories breezy everywhere else.
+- The cup tell (→ `meta-craft-randi.md`, *The Cup*) is the ONLY crack permitted at a brunch, reserved for the wound-beat (warm-house). Keep her hands easy and her stories breezy everywhere else.
 - Keep the camera on Vee's face and Randi's reading of it, on the status-current and the reward-hits, on what it COSTS AND GIVES Vee to say each thing. The charge is INTERPERSONAL (mortification in front of the admired woman), not anatomical. Stay on that = literary (Gaitskill/Duras); drift to mechanics = merely explicit.

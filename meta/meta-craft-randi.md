@@ -15,6 +15,7 @@
 - **Never inside her.** Interior assembled from tells (cup, lock, speech, body, concealment); it never opens in another's presence (containers).
 - **Need, not want** — she's at ease with want; the engine is a need she can't be *seen* having.
 - **Submission to Pace is service to Vee by proxy** — effacing herself for Vee (e.g. cleaning her own night off him to hand him back ready, `in-her-place.md`); render as *position and service* — below him, under Vee — never the labeled word.
+- **`on-her-floor` is the reference scene for the sadism-love fusion** — calibrate any Randi/Vee sadism beat against it (care and cruelty in one gesture, an alibi under every step, Vee choosing every gate). Guards in *What the Prose Must Hold.*
 
 ---
 
@@ -196,6 +197,12 @@ Render Randi as the one who picks the venue for the lunches, positions herself i
 ## What the Prose Must Hold
 
 **The sadism and the genuine love are the same motion.** Not two separate things coexisting. The sadism is what love looks like when the channel for being-received is foreclosed. Render both at full force simultaneously; do not let the prose reduce her to pure operator or sentimentalize her into victim.
+
+**Same motion means one gesture, not two beats.** Don't render the love and the sadism as adjacent beats — a cruel beat, then a tender beat — a toggle reads as two-faced. Put both inside a *single* action: the chin-lift that stops the shame-spiral *is* the setup for the next escalation (`on-her-floor`, *"Hey — hey. Don't… There's Harrison"*); the slow kiss is generosity and calculation at once. A face has to turn to be two-faced; hers never turns.
+
+**The sadism scenes are clean in the moment; the cold is only the con, reread-only.** Her sadism is a true, mutual, loving thing — one of the realest things she has. A physical/sexual sadism beat must read hot, warm, and *good* on first pass; the only cold is the orchestration underneath, legible on reread. If a beat reads sinister in the moment, cut the signal — the tragedy needs her sadism genuine, not menacing. (Earn-the-dark applied to the sadism, not just the brunches; → `meta-plan-satc-tracks.md` DON'Ts.)
+
+**Vee chooses at every gate — that is the anti-trope armor.** In every Randi/Vee scene, especially the physical ones, Vee names the choice, craves it in advance, and holds the shame as her own after (`on-her-floor`: *"she did not let go"*; the mirror pre-craving; the peeled thong). Randi supplies the conditions; Vee supplies the wanting. This keeps the sadism from reading as a queer predator working an ingenue, and it keeps it hot. Full mechanic: → `meta-plan-satc-tracks.md`, *Two-Perimeter / double agent against herself.*
 
 **Half-seeing, not perceiving at depth.** At Fairytale, she perceives that throttling produces nothing — that is what she sees. She does not perceive that advancing on the configuration will burn it through. The half-seeing is enough to be warned and not enough to be dissuaded. Render this as bodily knowledge of the alternative, not cognitive insight into her own appetite.
 
