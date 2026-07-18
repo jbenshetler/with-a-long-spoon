@@ -130,9 +130,9 @@ Cassie caught it, laughing, and hugged it. "I'm serious! The rain — "
 
 "You knocked on the window and took your shirt off in front of him!"
 
-"I was looking at his eyes the whole time."
+"I locked eyes with him." A beat. "And then I let him look."
 
-"I know," Cassie said, and she had stopped laughing. The warmth in her voice had changed its key. "I know you were."
+Cassie stopped laughing. The warmth in her voice had changed its key. "You did?"
 
 Vee sat down on the edge of Cassie's bed. Just the edge. She picked at a loose thread on the comforter and then stopped picking.
 
