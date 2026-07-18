@@ -123,7 +123,7 @@ One file per non-trivial scene; the chronology entry links to it. To work on a s
 | `meta-condensed-how-its-done.md` | How It's Done |
 | `meta-condensed-famished.md` | Famished |
 | `meta-condensed-toenails.md` | Toenails |
-| `meta-condensed-famished-debrief.md` | Famished Debrief |
+| `meta-condensed-fed.md` | Fed |
 | `meta-condensed-dress-pickup.md` | Dress Pickup |
 | `meta-condensed-stats-simpsons-paradox.md` | Stats — Simpson's Paradox |
 | `meta-condensed-shoe-shopping.md` | Shoe Shopping with Randi |

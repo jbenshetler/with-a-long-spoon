@@ -1,6 +1,6 @@
-# Note — Famished Debrief
+# Note — Fed
 
-Companion to meta-condensed-famished-debrief.md. Scene-local working material: the beat spine, candidate lines, and the craft guards specific to this brunch. Doctrine that lives elsewhere is referenced, not restated — the verbal-staircase rung in meta-plan-satc-tracks.md, the no-tell rule and Continuity Flag #13 (the two SATC tells stay surgically distinct and fire neither here), and the shame-arc calibration in meta-thesis.md / meta-arch-vivienne.md.
+Companion to meta-condensed-fed.md. Scene-local working material: the beat spine, candidate lines, and the craft guards specific to this brunch. Doctrine that lives elsewhere is referenced, not restated — the verbal-staircase rung in meta-plan-satc-tracks.md, the no-tell rule and Continuity Flag #13 (the two SATC tells stay surgically distinct and fire neither here), and the shame-arc calibration in meta-thesis.md / meta-arch-vivienne.md.
 
 ## Where it sits
 
