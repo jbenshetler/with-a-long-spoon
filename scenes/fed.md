@@ -16,7 +16,7 @@ Vee laughed, because it was funny, because Randi made it funny, the way she made
 
 And Vee wanted to. That was the thing she would not have been able to explain to anyone, least of all herself: how much she had wanted, all week, to set it down on a table in front of someone who would not flinch. She had given Cassie a version. The good version, the whole clean one, the dinner he'd made, the apron, the garlic going soft and the pepper blooming red in the oil, the Chianti he'd opened before she'd even come so it could breathe, the way he'd paid attention to her like attention was a thing he had an unlimited supply of and had decided to spend all of it here. Cassie had let it be that. *He cooked,* Cassie had said. *A man made you dinner.* And Vee had let the door close where Cassie closed it, because the rest of it was not Cassie's, was not anybody's, was hers.
 
-So she gave Randi the same one, because it was the true one, and she told it well, watching Randi's face do the things it did, and at the end of it, riding the pleasure of being listened to that hard, she reached for the detail she was proudest of, the one she thought would seal it, the most romantic thing that had ever happened to her or anyone.
+So she gave Randi the same one, because it was the true one, and she told it well, watching Randi's face do the things it did, and at the end of it, riding the pleasure of holding a woman like Randi rapt, she reached for the detail she was proudest of, the one she thought would seal it, the most romantic thing that had ever happened to her or anyone.
 
 "And after," she said, "I sat in his kitchen wrapped up in just a bedsheet and watched him finish cooking."
 
@@ -42,7 +42,7 @@ Vee laughed, helpless, mortified, glowing. She had moved them to the top of the 
 
 "Burgundy," Vee said, and the word was halfway out and easy and then it wasn't, because she was looking at the dark wine of her own nails on the white tablecloth and the thing she had noticed once and put away and come back to twice before the polish dried came up in her again, fully, here, in front of Randi, in the light: the silk he had held up to her face, the same deep red, the way she had picked the bottle off the shelf because of it without letting herself finish the thought. "Burgundy," she said again, and stopped, and the rest of it stayed in her face.
 
-Randi watched it move there. She did not say where she had seen that red. She read Vee, only Vee, and her voice came down a register, intimate, pleased. "Oh," she said. "That color means something. Look at your face. It means something."
+The heat sat in her face and would not go, and Randi was looking right at it. Her voice came down a register, intimate, pleased. "Oh," she said. "That color means something. Look at your face. It means something."
 
 "It might," Vee said, around the heat, and let it be unsaid, and Randi let it be unsaid too, and held it a beat, and then, kindly, gave her the way out by giving her the floor.
 
@@ -50,7 +50,7 @@ Randi watched it move there. She did not say where she had seen that red. She re
 
 And Vee found, talking herself out of the corner, that the corner became something else as she talked, that the saying of it turned it over. "He wasn't in a hurry," she tried. "At all. Like there was no clock. He was patient, and he was so gentle, and he was..." She heard herself reaching for it and reached anyway. "Hungry. For me. In a way that made me feel, I don't know. Unique. Not just like, tonight. Like singular."
 
-Randi held her flute and did not move her thumb on it and did not do anything at all except listen, her face open and warm and glad for her friend, and took the whole thing in, every word of it, and set none of it down anywhere.
+Randi held her flute and listened, her face open and warm and glad for her friend.
 
 "That's it," Randi said. "That's the whole thing right there. You know that, don't you."
 
