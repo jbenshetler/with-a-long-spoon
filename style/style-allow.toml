@@ -2559,6 +2559,13 @@ text = "She was very still in the way she got when she was paying attention, and
 note = "Characterizing simile — Cassie's attention-stillness ('the way she got when she was paying attention'). Accepted earlier; re-armed by the sun-on-face simile edit."
 
 [[ok]]
+fp   = "87edb670dba9"
+rule = "the-way"
+file = "scenes/turned-up.md"
+text = "Then Cassie shifted against her pillow, and Vee could see her doing it — going back over the whole thing, laying it out, the way she worked a puzzle when the pieces wouldn't fit."
+note = "Accepted: Cassie's analytic-habit simile ('the way she worked a puzzle'); previously acked as problem-set version, re-armed on wording change per author edit."
+
+[[ok]]
 fp   = "923d88a1d0f4"
 rule = "the-way"
 file = "scenes/turned-up.md"

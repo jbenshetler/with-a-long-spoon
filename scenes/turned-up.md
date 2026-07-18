@@ -134,7 +134,7 @@ Cassie caught it, laughing, and hugged it. "I'm serious! The rain — "
 
 Cassie stopped laughing. The warmth in her voice had changed its key. "You did?"
 
-Vee sat down on the edge of Cassie's bed. Just the edge. She picked at a loose thread on the comforter and then stopped picking.
+Vee sat down on the edge of Cassie's bed. Just the edge. She pressed her palm flat against the comforter and left it there.
 
 "Was it weird?" Cassie asked. "Standing up there. Half-dressed. With him fully — "
 
@@ -142,7 +142,7 @@ Vee sat down on the edge of Cassie's bed. Just the edge. She picked at a loose t
 
 "Then what?"
 
-Vee looked at the thread. "It was like his eyes asked, *May I look.*"
+Vee looked down. "It was like his eyes asked, *May I look.*"
 
 The room was quiet.
 
@@ -158,7 +158,7 @@ Cassie's expression said she could imagine.
 
 Cassie said nothing, which was the right thing.
 
-"He was on his knees," Vee said quietly, "and looking up. And I was up on the box looking down. And I kept waiting to feel wrong about it." She turned the thread around her finger. "I didn't."
+"He was on his knees," Vee said quietly, "and looking up. And I was up on the box looking down. And I kept waiting to feel wrong about it." She turned her hand over in her lap. "I didn't."
 
 "How did it feel?"
 
@@ -168,13 +168,13 @@ Vee was quiet for long enough that it wasn't about finding the word. It was abou
 
 Cassie made a sound that wasn't quite a word. She reached over and put her hand on Vee's knee, once, and took it back.
 
-Vee looked at the loose thread. Outside the window someone was crossing the quad and the afternoon had gone late and gold, and the radiator clicked in the corner, and the shirt Pace had made was folded on Vee's pillow at the top of the bunk because she'd put it there without thinking when she changed.
+Vee looked at the light on the floor. Outside the window someone was crossing the quad and the afternoon had gone late and gold, and the radiator clicked in the corner, and the shirt Pace had made was folded on Vee's pillow at the top of the bunk because she'd put it there without thinking when she changed.
 
 "He's not done," Vee said after a while. "The dress. He still has to sew it. He'll call me when it's ready."
 
 "Okay," Cassie said.
 
-The quiet sat there, warm, for a moment longer. Then Cassie shifted against her pillow, and Vee could see her doing it — going back over the whole thing, laying it out, the way she went over a problem set when the answer in the back of the book didn't match hers. Her face did the small frown.
+The quiet sat there, warm, for a moment longer. Then Cassie shifted against her pillow, and Vee could see her doing it — going back over the whole thing, laying it out, the way she worked a puzzle when the pieces wouldn't fit. Her face did the small frown.
 
 "Okay, wait," Cassie said. "Walk me through this. He's seen you with your shirt off twice now. Once in his own house. On a box. And he — sewed." She held up a finger. "He's a bodybuilder who makes dresses." Another finger. "He has had you standing in his living room in your underwear, and he picked up a *tape measure.*" She looked at Vee. "Vee. Are you sure he's not gay?"
 
