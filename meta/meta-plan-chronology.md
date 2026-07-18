@@ -105,7 +105,7 @@ First off-campus brunch — format upgraded (velvet alcove, Rombauer by name). A
 Motivated by the Fitting's deferred tension, not the CW dance. Pace invites her the morning he leaves for a three-day University of Chicago conference — *"Dinner Friday?"* — so she waits knowing the date. She arrives before the heat (mise-en-place ready, no flame). *"I never thanked you for the shirt"* opens the kiss. Fra diavolo and Chianti Classico become the meal after, not before. *"Would you be bothered if I was too hard?"* The trade: she folds the green satin panties in thirds, wet spot centered, drops the sheet, hands them to him bare. Best sex of her life; no management gap. Pays off: Fitting's deferment, the shirt-sleeping, the shame-arousal loop fully run. Plants: the scar (inner thigh, surgical — returns later), the gap that reopens in daylight retelling (Famished Debrief), the green-sheets beat (undocumented future).
 
 ### [SCENE] Toenails
-*~Sat Oct 17* · Draft complete · `toenails.md` · Cassandra track · [detail](meta-condensed-toenails.md)
+*~Sat Oct 17* · Draft complete · `toenails.md` · Cassandra track · [detail](meta-condensed-toenails.md) · reviewed: 2026-07-17
 Vee tries to tell Cassie and can't. Shame meets the wrong-shaped listener; Cassie can hold romance but not the bodily response. First withheld thing. The vacancy this opens is exactly what Randi fills at Famished Debrief. Photographic negative of Rye.
 
 ### [SCENE] Famished Debrief
