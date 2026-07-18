@@ -67,7 +67,7 @@ Pace is not solemn about sex. He has a genuine sense of humor and a light, good-
 
 **Two modes, one switch.**
 - *Clothed / public*: the muscle is subtle under plain, well-kept, faintly loose clothes. Render attraction through the photo-invisible channels — attention, competence, ease — and let physical heat arrive *displaced and deniable*: a forearm at the cuff-roll, how he moves, a snag of her eye she didn't authorize. No tight shirts, no flexing, no gym-display. The plainness is the same sovereignty as the four broadcloth shirts.
-- *Private / admitted* (→ `leave-no-trace` = hint → `first-night` = full): the concealment lifts and the body is rendered directly and fully hot — hotter *because* withheld, a thing kept from the world and given only in intimacy.
+- *Private / admitted* (→ `leave-no-trace` = hint → `famished` = full): the concealment lifts and the body is rendered directly and fully hot — hotter *because* withheld, a thing kept from the world and given only in intimacy.
 
 **Dressed right, never showy (care ≠ display).** The clothed plainness is *care*, not indifference: he dresses correctly for the occasion — clean, pressed, boots kept — because presenting right is one more domain he's competent in; a man who snagged socially couldn't navigate the rooms he does. The axis is *dress-right vs. dress-up*, never *effort vs. none* — too-careless is as off-model as flashy. Render it as maintenance (pressed, no starch; boots polished to last), read through Vee's eye, the not-showy carried by contrast, never a narrator's maxim. (Worked: `may-i-choose`, the pickup.)
 

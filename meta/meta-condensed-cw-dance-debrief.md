@@ -4,7 +4,7 @@
 
 ## Register
 
-This is the **CW-dance debrief**, a distinct SATC register: **counsel, not confession.** (The first-night telling is handled by the First-Night Debrief.)
+This is the **CW-dance debrief**, a distinct SATC register: **counsel, not confession.** (The first-night telling is handled by the Famished Debrief.)
 
 ## Timing
 

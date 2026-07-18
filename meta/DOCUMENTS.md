@@ -121,9 +121,9 @@ One file per non-trivial scene; the chronology entry links to it. To work on a s
 | `meta-condensed-a-round.md` | A Round |
 | `meta-condensed-turned-up.md` | Turned Up |
 | `meta-condensed-how-its-done.md` | How It's Done |
-| `meta-condensed-first-night.md` | First Night Together |
+| `meta-condensed-famished.md` | Famished |
 | `meta-condensed-toenails.md` | Toenails |
-| `meta-condensed-first-night-debrief.md` | First-Night Debrief |
+| `meta-condensed-famished-debrief.md` | Famished Debrief |
 | `meta-condensed-dress-pickup.md` | Dress Pickup |
 | `meta-condensed-stats-simpsons-paradox.md` | Stats — Simpson's Paradox |
 | `meta-condensed-shoe-shopping.md` | Shoe Shopping with Randi |
@@ -202,7 +202,7 @@ Listed in chronological order (filesystem = `scenes/`; order, names, and status 
 | `a-round.md` | A Round | complete |
 | `turned-up.md` | Turned Up | complete |
 | `how-its-done.md` | How It's Done | complete |
-| `first-night.md` | First Night Together | complete |
+| `famished.md` | Famished | complete |
 | `dress-pickup.md` | Dress Pickup | complete |
 | `stats-simpsons-paradox.md` | Stats — Simpson's Paradox | complete |
 | `lesson.md` | Lesson | complete |

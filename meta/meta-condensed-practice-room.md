@@ -6,7 +6,7 @@
 
 ## Summary
 
-The first SATC scene with genuinely transgressive shame content — the first time Vee brings Randi material that fires the shame-arousal loop in retelling. Structural innovation: **Randi's story comes after the extraction, not before** — functioning as amplifier and installer, not warmup. The taking-turns ritual established at First-Night Debrief runs without setup. First bathroom trip; quick suppression.
+The first SATC scene with genuinely transgressive shame content — the first time Vee brings Randi material that fires the shame-arousal loop in retelling. Structural innovation: **Randi's story comes after the extraction, not before** — functioning as amplifier and installer, not warmup. The taking-turns ritual established at Famished Debrief runs without setup. First bathroom trip; quick suppression.
 
 ## Container
 
@@ -14,9 +14,9 @@ A soundproof music practice room — not the velvet booth. No staging, no waiter
 
 ## Key Beats
 
-**Opening — stats class; the first peel.** Cold open in the shared stats lecture (Cassie present, as always), the professor on outliers (additive vs. innovational) — the stats mirror, silent/never-explained. Vee arrives underslept, full of Pace; that cover-story runs to the hug. After class, *Vee* peels Randi off for the first time (until now Randi peeled Vee out), leaving Cassie — the who-leads migration made literal. To the soundproof room; Vee supplies the freshman-makeout lore and colors at it; the door seals.
+**Opening — stats class; the first peel.** Cold open in the shared stats lecture (Cassie present, as always), the professor on outliers (additive vs. innovational) — the stats mirror, silent/never-explained. Vee arrives underslept, full of Pace; that cover-story runs to the hug. After class, *Vee* peels Randi off for the first time (until now Randi peeled Vee out), leaving Cassie — the who-leads migration made literal. To the soundproof room; Vee supplies the freshman-makeout lore and colors at it; the door seals. The taking-turns ritual (established at Famished Debrief) runs without setup, and the coaching warrant folds into the opener: Randi set the reconciliation up, so she is owed the ending.
 
-**"Okay. The shoes. Tell me everything."** The taking-turns ritual (established at First-Night Debrief) runs without setup, and the coaching warrant folds into the opener: Randi set the reconciliation up, so she is owed the ending. Randi moves directly toward extraction; the story comes later. Motive stack and the asymmetric telling: see the note.
+**"Okay. The shoes. Tell me everything."** Randi moves directly toward extraction; the story comes later. Motive stack and the asymmetric telling: see the note.
 
 **Vee's surface version.** *Ha ha, he swatted my butt. I laughed. We ended up having sex.* The approved funny story, cleaned up and ready. A person can say this out loud over lunch.
 
@@ -47,4 +47,4 @@ Randi has now: (1) extracted that the swat excited Vee; (2) explicitly installed
 
 **Bathroom-trip progression:** First occurrence — quick suppression. Temptation present, not acted on. We Find Out debrief is where she stops not-doing it. **Note:** the SATC track doc (`meta-plan-satc-tracks.md`) currently places the first bathroom trip at How It's Done (rung 3). This scene supersedes that placement — How It's Done establishes the apparatus without yet firing it; the shame-arousal mechanism first fires in retelling here, at genuinely transgressive content.
 
-**Verbal staircase:** This scene sits between the First-Night Debrief (conversion/warmth operation, not extraction) and the We Find Out debrief (doubled shame; first restroom self-touch, stopped before completion). It is the intermediate rung that keeps the escalation gradual: suppression here, the stopped-short self-touch next, completion later.
+**Verbal staircase:** This scene sits between the Famished Debrief (conversion/warmth operation, not extraction) and the We Find Out debrief (doubled shame; first restroom self-touch, stopped before completion). It is the intermediate rung that keeps the escalation gradual: suppression here, the stopped-short self-touch next, completion later.

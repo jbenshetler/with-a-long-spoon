@@ -1,4 +1,4 @@
-# Condensed — First-Night Debrief
+# Condensed — Famished Debrief
 
 *SCENE · Unwritten · within a few days of the first night · SATC · off-campus (brunches relocated after Dear)*
 
@@ -8,4 +8,4 @@ The post-first-night debrief. Vee arrives **already carrying the floozie-shame**
 
 Retrospective cruelty: Randi enviously clocked Vee's seen-and-accepting capacity at the SATC Brunch — Fitting Debrief, and now teaches Vee to *prize* the very capacity Randi envies — tuning the asset toward the table. First read: the glamorous friend talked me out of my shame and I felt magnificent. The *them-not-you* seed can migrate here from the content retired from Dear.
 
-Beat sequence, candidate lines, and craft guards: see meta-note-first-night-debrief.md.
+Beat sequence, candidate lines, and craft guards: see meta-note-famished-debrief.md.

@@ -1,4 +1,4 @@
-# First-Night Debrief
+# Famished Debrief
 
 The bistro had a sun porch along its south side, a long room of glass and white-painted muntins where the late-morning light came in and lay on everything without asking. Randi had picked it. Randi picked all of them. Vee came in out of the ordinary day and into that bright room and felt the way she always felt at the start of these, which was chosen, which was lit, which was a half-second behind.
 

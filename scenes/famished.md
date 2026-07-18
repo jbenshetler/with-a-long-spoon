@@ -1,8 +1,8 @@
-# First Night
+# Famished
 
 The afternoon before, she'd painted her nails herself at the kitchen table, a small bottle of burgundy she'd bought without thinking too hard about why. The color was close to the silk he'd held to her face in the fitting room and she'd noticed, then put the connection away, then come back to it twice before the polish dried. She drove to his house with her toenails burgundy under her boots and her one good pair — deep green satin, lace at the edges, bought new and not yet worn — moved to the top of the drawer that morning, and told herself none of this meant anything in particular.
 
-He opened the door in a canvas apron over a dark henley, sleeves pushed to the elbows, and when he kissed her hello it was unhurried and still — more than a greeting, less than what she'd been thinking about for three nights — and she stepped inside and the house smelled of garlic and red pepper and nothing else. On the counter the cutting board held everything ready: garlic crushed, pepper flakes measured into a small bowl beside the tin of crushed tomatoes. The pan was dry and clean on the burner. He'd done all the preparation and stopped.
+He opened the door in a canvas apron over a dark henley, sleeves pushed to the elbows, and when he kissed her hello it was still and certain, more than a greeting, less than what she'd been thinking about for three nights. She stepped inside, and the house smelled of garlic and red pepper and nothing else. On the counter the cutting board held everything ready: garlic crushed, pepper flakes measured into a small bowl beside the tin of crushed tomatoes. The pan was dry and clean on the burner. He'd done all the preparation and stopped.
 
 A Chianti Classico open on the counter, already breathing. He'd opened it before she arrived.
 
@@ -12,13 +12,13 @@ He handed her a glass without asking and went back to the stove with the quiet f
 
 "Famished," she said, and heard it a beat after he did.
 
-He turned then. His expression was not quite a smile.
+He turned then, and smiled.
 
 She set the glass on the counter.
 
 "I never thanked you for the shirt," she said.
 
-She kissed him before he could answer, and this was different from the bench and from the first time he'd asked permission — different from every narrow register she'd held herself to since — because it had nowhere to go except forward and she did not try to slow it. His hands found the hem of her blouse and went under it, palms flat against her bare sides, the calluses of the workbench and the bar rough against her skin, the hands that had built the platform and turned the hem of her dress and held her ankle in cold air on the mountain. They moved up along her ribs. She felt her nipples before he did — hard and crinkled against the silk, her body announcing itself ahead of her — and the voice came immediately: *floozie*, quick and flat, her mother's word exactly, and the loop ran, and her hands were in his hair, and she kept kissing him.
+She kissed him before he could answer, and this was different from the bench and from the first time he'd asked permission, different from every narrow register she'd held herself to since, because it had nowhere to go except forward and she did not try to slow it. His hands found the hem of her blouse and went under it, palms flat against her bare sides, the calluses of the workbench and the bar rough against her skin, the hands that had built the platform and turned the hem of her dress and held her ankle in cold air on the mountain. They moved up along her ribs. Her nipples were hard before his hands reached them, crinkled against the silk, her body announcing itself ahead of her, and the voice came immediately: *floozie*, quick and flat, her mother's word exactly, and the loop ran, and her hands were in his hair, and she kept kissing him.
 
 She broke from the kiss. He stilled, the question already in his hands — the beginning of care, the beginning of stepping back — and she did not want his care, not that kind. She reached up and took the strap of the apron behind his neck and pulled.
 
@@ -30,7 +30,7 @@ The apron strap slipped from her hand and the apron landed on the floor behind t
 
 She reached for the hem of his henley and he raised his arms and she pulled it off and stood a moment with it in her hands. The hike had given her the outline; this was the resolution: the woodworker's shoulders, the powerlifter's arms, the body of a man who used himself continuously and without comment. She put her palm flat against his sternum and felt his heart.
 
-He opened her blouse from the bottom, unhurried, and pushed it from her shoulders. She was briefly in the green bra before his hands found the clasp. And then his hands were on her, rough and warm and present — *floozie* — and she could not find the seam between the heat and the shame because there was no seam, they ran on the same wire, and she had stopped looking for one.
+He opened her blouse from the bottom and pushed it from her shoulders. She was briefly in the green bra before his hands found the clasp. And then his hands were on her, rough and warm and present — *floozie* — and she could not find the seam between the heat and the shame because there was no seam, they ran on the same wire, and she had stopped looking for one.
 
 She knew what was coming. That was the worst of it: she knew. When the skirt came off, when the panties came off, the evidence that had been building since the kitchen, since before the kitchen, since she'd laid the lace panties on top of the drawer that morning. She was already ashamed of what he hadn't seen yet. The anticipation sat on top of the fact of it, which made it worse, which made more anticipation, and that was the point of the loop, and the loop did not stop.
 
@@ -38,11 +38,11 @@ He unzipped the skirt at her hip. She stepped out of it.
 
 He went to his knees.
 
-The fitting room again — him on the floor, her standing, his hands at her waist, and she remembered the pinned silk and the smile he hadn't tried to hide — and the lace came down slowly and she watched his face and the crystal strings were there, obvious and excessive, and she saw him see them.
+The fitting room again: him on the floor, her standing, his hands at her waist, and she remembered the pinned silk and the smile he hadn't tried to hide. The lace came down slowly and she watched his face and the crystal strings were there, obvious and excessive, and she saw him see them.
 
 *Floozie*, said the voice. That was all it had.
 
-He looked up at her and said: "Would you be bothered if I was too hard?"
+He looked up at her and said, not hiding it: "Would you be bothered if I was too hard?"
 
 She understood it was a real question. She understood it was something else as well. The expression on his face was the same as the fitting room, scaled up: her body producing evidence that his was landing, and that being the good thing, the right thing. Something shifted in her chest.
 
@@ -58,7 +58,7 @@ On the inside of his thigh, close to the hip: a scar, surgical and old, the skin
 
 Later. Not now.
 
-The sheets were plain white cotton and very soft, washed many times, and when she lay down on them the smell arrived — the same smell she'd been sleeping in at home, in his flannel shirt in the dark — but the shirt had been holding a week-old version, stored and approximate. This was the source: his soap and under it his own scent, warm and immediate and specific to him, the actual thing behind the proxy she'd been studying for a week in her own bed. She'd thought she knew it. She'd been wrong in the best possible way.
+The sheets were plain white cotton and very soft, washed many times, and when she lay down on them the smell arrived, the same smell she'd been sleeping in at home, in his flannel shirt in the dark. But the shirt had been holding a version more than a week old, stored and approximate. This was the source: his soap and under it his own scent, warm and immediate and specific to him, the actual thing behind the proxy she'd been studying in her own bed since the hike. She'd thought she knew it. She'd been wrong in the best possible way.
 
 He was careful with his weight until she pulled him in. And then he wasn't careful. The answer to his question arrived, unmistakably, and she did not manage it or observe it or narrate it to herself while it was happening, she was only here, her face in his neck and his smell in every breath, and the shame was still running and she could not find the top of it and she did not try.
 

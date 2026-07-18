@@ -1,8 +1,8 @@
-# Condensed — First Night Together
+# Condensed — Famished
 
-*SCENE · Draft complete · `scenes/first-night.md` · ~mid-to-late October · after the Fitting, Fitting Debrief, Dress Pickup*
+*SCENE · Draft complete · `scenes/famished.md` · ~mid-to-late October · after the Fitting, Fitting Debrief, Dress Pickup*
 
-The first night is the discharge of the Fitting's deferred tension. Pace invited her to dinner the morning he left for a three-day conference at the University of Chicago — *"Dinner Friday?"* — so the three nights she spent sleeping in his flannel shirt were anticipatory, not anxious: she knew where he was and when he'd be back. The dinner does not happen before the sex. The sex does not happen because of the dress (the dress pickup is a separate event). The motive is the deferment itself.
+The first night is the discharge of the Fitting's deferred tension. Pace invited her to dinner the morning he left for a three-day conference at the University of Chicago — *"Dinner Friday?"* — so the three nights he was away were anticipatory, not anxious: she knew where he was and when he'd be back. The dinner does not happen before the sex. The sex does not happen because of the dress (the dress pickup is a separate event). The motive is the deferment itself.
 
 ---
 
@@ -53,7 +53,7 @@ The first night is the discharge of the Fitting's deferred tension. Pace invited
 - She files it: facts without frames. *Later. Not now.*
 
 **The bed / the sex**
-- Plain white cotton sheets, soft from washing; his smell arrives — the same smell she's been sleeping in for a week in his flannel shirt at home, but the shirt held a stored, approximate version; this is the source; recognition, not discovery; she'd thought she knew it; she'd been wrong in the best way
+- Plain white cotton sheets, soft from washing; his smell arrives — the same smell she's been sleeping in since the hike in his flannel shirt at home, but the shirt held a stored, approximate version; this is the source; recognition, not discovery; she'd thought she knew it; she'd been wrong in the best way
 - He is careful with his weight until she pulls him in; then he isn't careful; the answer to his question arrives unmistakably
 - No management gap: she cannot find the top of the shame and does not try; she is only here, her face in his neck and his smell in every breath; *it was the first time that had been true*
 
@@ -75,7 +75,7 @@ The first night is the discharge of the Fitting's deferred tension. Pace invited
 
 ## Continuity and Revision Notes
 
-> **Motive is the Fitting's deferment, not the CW dance.** The CW dance comes after. The conference gap (three nights sleeping in the shirt) is anticipatory, not anxious — she had the invitation before he left; she knew the shape of the week.
+> **Motive is the Fitting's deferment, not the CW dance.** The CW dance comes after. The conference gap (three nights) is anticipatory, not anxious — she had the invitation before he left; she knew the shape of the week.
 >
 > **The conference:** University of Chicago, three days (fly out / conference day / fly back). He mentioned the travel at the summit during the hiking rainstorm — not as a credential, as logistics. She has been tracking the return date against the days.
 >
@@ -93,7 +93,7 @@ The first night is the discharge of the Fitting's deferred tension. Pace invited
 
 **Pays off:**
 - **The fitting's deferment** — *"Keep still"* held a line; this is the line falling, by her agency
-- **The shirt-sleeping** — she has been sleeping in his flannel for a week; the sheets are the source behind the proxy; *recognition, not discovery*
+- **The shirt-sleeping** — she has been sleeping in his flannel since the hike; the sheets are the source behind the proxy; *recognition, not discovery*
 - **The crystal-strings setup (Fitting)** — his face at the soaked satin seeded the reframe; *"Would you be bothered if I was too hard?"* fires it
 - **The mis-en-place / no heat** — she arrives before the flame; the image holds without stating what it means
 - **"Famished"** — the word that came out before she decided to say it; the body before the mind, first instance in the scene
@@ -101,7 +101,7 @@ The first night is the discharge of the Fitting's deferred tension. Pace invited
 
 **Plants:**
 - **The scar** (inside thigh, surgical) — filed without a frame; returns in a later chapter
-- **The no-management-gap** — closes completely here for the first time; reopens the moment she narrates the night to Randi at the First-Night Debrief; that reopening is Randi's opening
+- **The no-management-gap** — closes completely here for the first time; reopens the moment she narrates the night to Randi at the Famished Debrief; that reopening is Randi's opening
 - **The green panties** — her interior color, the thing she chose for herself alone; the **green sheets** beat (undocumented; a future scene in which she gifts him green sheets)
 - **The trade** — he has the panties; a kept thing, not a collection; both know; neither mentions it again
 - **Toenails** — Vee will try to tell Cassie and discover that the body of this night has no channel to Cassie; the friendship's first withheld thing; the vacancy Randi fills

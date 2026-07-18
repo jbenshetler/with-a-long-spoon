@@ -27,5 +27,5 @@ Vee's first visit to Pace's house — a small post-war house at the top of a gra
 - **The two towels** (bathroom, zero-dwell in the tour): innocuous domestic texture on first read; on reread, whose is the second? (the buried Randi thread). Title-bearing — the prose gives it no dwell so the cold read stays banked for reread.
 - **The no-tag hiking shirt (from Leave No Trace) detonates here**: She noticed its absence once, guessed wrong (counterfeit, sample, off-brand), dropped the question. Now the silk — deliberately matched with care — makes the shirt's unlabeled quality a statement. Careful anonymity and careful personalization as twin forms of devotion.
 - **The hike's silk-naming conversation**: The color she named — brick-red, from a magazine, the dress she couldn't afford — at the summit, unguarded. Pace's burgundy is his deeper variant, *not* the shade she named: he honors the want-to-be-beautiful beneath the color rather than matching the reference. He acts on the being-known-without-asking.
-- **The offer + her yes set up the fitting (A Round)**, and through its deferment, First Night Together.
+- **The offer + her yes set up the fitting (A Round)**, and through its deferment, Famished.
 - **The dress is unfinished** across the fitting; completion/pickup resolves at Dress Pickup.
