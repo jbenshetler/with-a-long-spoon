@@ -47,11 +47,11 @@ DIPTYCH. Pace POV throughout, one continuous afternoon. Panel one (bed): post-co
 DIPTYCH. Panel one: Randi drops into the aisle seat, runs the name-bit on Cassie (who flat-returns), plants the latent-variable mirror. Panel two: Chi Latte — content-evaporation beat; Vee keeps the feeling of being chosen, not the transcript. Parting hug (rung zero of the goodbye-kiss staircase). Cassie's *"Goodbye, Vee"* warning buried in the seam. Collapses three former coffee/class beats into one diptych.
 
 ### [SCENE] Substitution
-*Early fall · week 4 · ~Thu Sep 24* · Draft complete · reviewed: 2026-07-12 · `substitution.md` · [detail](meta-condensed-substitution.md)
+*Early fall · week 4 · Thu Sep 24* · Draft complete · reviewed: 2026-07-12 · `substitution.md` · [detail](meta-condensed-substitution.md)
 Randi texts Pace their location openly (Vee sees it and reads it as Randi texting some boy); Cassie clocks the summons and goes still. Vee deploys Randi's name-bit on Pace; Randi answers with a bare *"Randi."* He helps, takes her number. Cassie clocks that he showed no attraction to Randi — *"He looked at her the way you'd look at somebody's great-aunt"* — the not-a-prospect look (full personhood, no desire), which Vee privately recognizes as the look men give Cassie. Pace does NOT dehumanize Randi; he sees everyone, wants only Vee. The reader (who knows Pace and Randi are lovers and that Randi engineered the meeting to hide it) is left unsure whether it's flawless discipline or genuine only-eyes-for-Vee. The chapter ends on Vee hoping he'll reach out (she gave him her number; she can't text first). Plan formally live.
 
 ### [SCENE] The Long Way
-*Early fall · week 4 · ~Thu Sep 24, hours after Substitution* · Draft complete · `long-way.md` · [detail](meta-condensed-long-way.md) · reviewed: 2026-07-13
+*Early fall · week 4 · Thu Sep 24, hours after Substitution* · Draft complete · `long-way.md` · [detail](meta-condensed-long-way.md) · reviewed: 2026-07-13
 First proper date, hours after the meet-cute — his forthrightness, not a boy's delay. Small safe opener — frozen yogurt, daylight, nothing that asks too much. Establishes the courtship register her mother would approve; builds the trust the staircase will later spend. Closes on the walk and the tart (*your tart's holding up*), no weekend-ask on the page: the follow-through invitation is deferred to the considerate Friday-evening text that opens **May I Choose** (prompt but no pressure to answer that night — the consent-architecture read, warm on first pass). The *a man, not a boy* verdict now lands there — **Vee** lays out the evidence (the other boys made her answer on the spot; he left it with her, *like it could keep*), coming sideways, ahead of her deciding to say it, and **Cassie** — who teases everything and here doesn't — puts the word to it: *That's not a boy. That's a man.* Division of labor: Vee does the seeing (the comparison is hers, from a history Cassie never saw), Cassie the clear-eyed, no-skin-in-the-game friend does the naming — which arms the irony (even the Cassandra is charmed; a true-but-incomplete read that detonates later). Never an internal verdict; body before mind.
 
 ### [SCENE] Water Wings
@@ -97,7 +97,7 @@ Warmer, less performed than the Randi version. The heat detail lands hardest (*"
 ---
 
 ### [SCENE] How It's Done
-*~Sun Oct 11* · Draft complete · `how-its-done.md` · [detail](meta-condensed-how-its-done.md)
+*Sun Oct 11* · Draft complete · `how-its-done.md` · [detail](meta-condensed-how-its-done.md)
 First off-campus brunch — format upgraded (velvet alcove, Rombauer by name). Apparatus switches on. Two firsts: the first goodbye-kiss debut; the first ignition of Randi's jealousy via the water-glass tell on *"he looked at me and I was fine."* ← **jealousy ignites here.** Carries the first scent-name beat: Vee notices Randi's perfume, unnamed, in the pre-kiss closeness (flag 17).
 
 ### [SCENE] First Night Together
