@@ -138,7 +138,7 @@ What the grammar does have, and what he will arrive at over the months and years
 
 ## Chivalric Grammar — Deeds, Not Words
 
-The grammar speaks through what he does — the dress, the food, the warm room, the attention, the patience. Each deed is a declaration. What he does not do is speak the deeds. He does not say *I love you.* The not-declaring is not a hole in his architecture; it is the shape of the grammar.
+The grammar speaks through what he does — the dress, the food, the warm room, the attention, the patience. Each deed is a declaration. Words can themselves be deeds: he is fully articulate, and his true-speech, wit, and culture — the compliment built as an argument, the true thing she needs to hear, the teasing that plays her engine — do real work and are part of the grammar, not exceptions to it. What the grammar routes away is one thing only: the verbal declaration of love. He does not say *I love you.* He does not say *I am yours,* or *I promise.* The not-declaring is not a hole in his architecture; it is the shape of the grammar.
 
 Vee's contemporary convention expects verbal declaration. His grammar does not contain it. The mismatch is structural and Pace does not see it because his after-register reading does not run. He is declaring constantly through deeds. In her convention, the deeds are not the speaking she is waiting for.
 

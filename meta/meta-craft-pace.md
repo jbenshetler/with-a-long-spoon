@@ -16,7 +16,7 @@
 - **He catches every signal and assembles none.** Never render him *missing* a tell — that reads as dim/imperceptive, which he is not. Render him *noticing it and setting it down* (the failure is synthesis, not perception). Flip any "he didn't notice / didn't hear past it" into a catch-and-set-down.
 - **Cognition, not affect.** The gap is in *synthesis* (he catches everything, assembles none), never in *feeling*. Never render him flat, deadpan, or blank — he's warm and fully present, visibly feeling. Don't let the never-name rule slide into the flat-affect stereotype. (→ *The Present-Moment / After-Register Asymmetry.*)
 - **Loves genuinely; the appetite outweighs, never replaces.** Love in the interiority (real); the override in behavior (unnamed). His care/protectiveness is the *instrument* of the harm.
-- **Deeds, not words** — he can't say the bare thing; the gesture is the declaration.
+- **Deeds, not words** — only the *love-declaration* is withheld (*I love you / I am yours / I promise*); the deed carries it. He is otherwise fully verbal — compliment, teasing, true things she needs to hear, his intellect and culture in play. **Words can themselves be deeds** (the precision of *always* in "you're always beautiful"). The guard is those three sentences, not general reticence. (→ *Chivalric Grammar — Deeds, Not Words.*)
 - **First-read clean** — never signal predatory; the horror is reread-structural.
 
 ---
