@@ -72,7 +72,7 @@ The BDSM triangle: Pace is B/D (architecture, rules, the framework inside which 
 
 ---
 
-## The Permission Rule
+## The Telling
 
 She may masturbate freely, with one narrow exception: not to thoughts of Pace without telling him. **Tell, not ask** — he is not a gate that grants or denies; the act is permitted, she has only to say it. Removing the permission removes the one controlling element and isolates the pure mechanism, the disclosure.
 

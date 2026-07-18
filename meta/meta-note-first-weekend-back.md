@@ -79,7 +79,7 @@ The deepest wound is structural, and **neither character understands it yet.** T
 ## Strategic (submerged, never on the page)
 
 - Real AND instrumental, never resolved: her willing transgression feeds his appetite *and* his tenderness is genuine; on the page it is only a man warming to the woman he missed.
-- This is the **first hinge of the thesis** — aliveness chosen over **pride** — and it loads the spring without naming itself. Every later riser lands harder because the breach stays open. **The staircase of surrender (don't collapse it):** pride dies here (she stops demanding the word); the **grounded love** gets its verdict at **Grace**, where Pace's maximum (the key) proves the ceiling and the death lands *reader-side* while Vee inflates joyful; full knowledge and ownership wait for the reveal. Reserved downstream: the **key** soothes the wound this scene leaves open (never closes it); the **peaches** reopen it; the spring solo beats and the Permission-Rule loophole run on the appetite this scene re-lights.
+- This is the **first hinge of the thesis** — aliveness chosen over **pride** — and it loads the spring without naming itself. Every later riser lands harder because the breach stays open. **The staircase of surrender (don't collapse it):** pride dies here (she stops demanding the word); the **grounded love** gets its verdict at **Grace**, where Pace's maximum (the key) proves the ceiling and the death lands *reader-side* while Vee inflates joyful; full knowledge and ownership wait for the reveal. Reserved downstream: the **key** soothes the wound this scene leaves open (never closes it); the **peaches** reopen it; the spring solo beats and the Telling's loophole run on the appetite this scene re-lights.
 
 ## Continuity guards
 

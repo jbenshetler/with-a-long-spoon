@@ -4,9 +4,9 @@
 
 ## Concept & Function
 
-> **Rule mechanism: `meta-arch-vivienne.md` → The Permission Rule. Creation + second-loop + the slips: chronology flag 19.**
+> **Rule mechanism: `meta-arch-vivienne.md` → The Telling. Creation + second-loop + the slips: chronology flag 19.**
 
-A handful of short chapters dramatizing the Permission Rule operating on Vee night after night. Intense regular sex with Pace + frequent intensely sexual SATC lunches with Randi + nightly solo relief *compound* rather than discharge — sex builds the appetite, it does not satisfy it — so across spring Vee's arousal climbs, hotter and hotter toward the bench and the threesome. The cluster is where the reader feels the engine running *between* the peaks.
+A handful of short chapters dramatizing the Telling operating on Vee night after night. Intense regular sex with Pace + frequent intensely sexual SATC lunches with Randi + nightly solo relief *compound* rather than discharge — sex builds the appetite, it does not satisfy it — so across spring Vee's arousal climbs, hotter and hotter toward the bench and the threesome. The cluster is where the reader feels the engine running *between* the peaks.
 
 **Withhold the act; dramatize the decision.** The orgasm is not the content — the *routing* is. Each chapter is the small nightly fork where she is turned, by a clause Pace wrote, away from him and toward Randi-proximity material. Render the act exactly once (below); everywhere else, the struggle and the choice.
 

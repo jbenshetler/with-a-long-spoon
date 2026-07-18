@@ -152,7 +152,7 @@ Keep the fascination aesthetic: polish, fabric, fit, cost, precision. Vee is not
 
 - **Taste thread:** default carry nothing. This scene has a clear foreground and should not be loaded with a taste gate. A minor Leak/Relish passenger is possible only if it stays subordinate.
 - **Goodbye-kiss staircase:** eligible for a small warmth/linger rung in the retell, but do not make the kiss the point.
-- **Permission Rule:** not in force if the scene lands before the cabin. If chronology later places `On Top` after the cabin, check whether the retell's aftermath interacts with the rule.
+- **The Telling:** not in force if the scene lands before the cabin. If chronology later places `On Top` after the cabin, check whether the retell's aftermath interacts with the rule.
 - **Clothing loans / Vee reads Randi:** yes, eligible and useful.
 
 -----
@@ -167,7 +167,7 @@ Progression if placed there:
 2. `Restrained` — the question of what she can do with her hands/body is removed, and the loss of management becomes restful.
 3. `Vee on the Bench` — delayed pleasure becomes formalized, multiplied, and architecturally load-bearing.
 
-Now locked in chronology: `On Top` sits immediately before `Restrained` (~February), ahead of the Cabin. The slot is pre-cabin, so the Permission Rule is not yet in force (no rule interaction to check); preserve the playful register.
+Now locked in chronology: `On Top` sits immediately before `Restrained` (~February), ahead of the Cabin. The slot is pre-cabin, so the Telling is not yet in force (no rule interaction to check); preserve the playful register.
 
 -----
 

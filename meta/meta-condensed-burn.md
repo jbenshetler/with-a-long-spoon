@@ -20,7 +20,7 @@ Drive home (the need traces back to his taking her lifting seriously in the gym)
 The injury is **why he buys** the massage table (he buys, doesn't build it — canon). **Pace-interior: not rendered in this scene** (Vee POV closes on the held heat); the decision lands off-page. The planned **Massage Table** scene keeps its pure-gift register intact (this beat *inspires* the purchase, it is not that scene).
 
 ### Placement / sequencing
-Before **Grace** (its tender "Keep still / not yet" prefigures the Permission Rule in a non-engineered key — the reader meets "he holds us both in the not-having" as protection first, rule later) and before the **Massage Table**. Spaced from **Restrained** (both held/can't-move beats — differentiate: injury-and-care denial vs. engineered edging; not adjacent). Give it air from Cabin too (don't stack two Pace-redemption beats).
+Before **Grace** (its tender "Keep still / not yet" prefigures the Telling in a non-engineered key — the reader meets "he holds us both in the not-having" as protection first, rule later) and before the **Massage Table**. Spaced from **Restrained** (both held/can't-move beats — differentiate: injury-and-care denial vs. engineered edging; not adjacent). Give it air from Cabin too (don't stack two Pace-redemption beats).
 
 ### Guards
 - **Same-shape, never named:** no thought of the father; Vee never connects it; body before mind.

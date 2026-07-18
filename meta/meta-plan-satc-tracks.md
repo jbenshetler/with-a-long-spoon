@@ -78,7 +78,7 @@ For the non-climbing rotation (kind of charge, container, register, temperature)
 
 **Scene assignments:** How It's Done — no trip (apparatus installed, not fired). Fed — no trip (conversion; floozie-shame is social, not transgressive). The Practice Room — **first trip, quick suppression** (Randi’s arch return: *"I hope everything is alright"*). We Find Out debrief — **lingers, first self-touch, stops herself before completion** (the brake: Randi’s imagined fond gaze, *what would Randi think*; she carries the unfinished charge back). First completion (the capitulation) and the later *decision* rung fall in still-unplaced spring scenes — leave them as open slots.
 
-**Pace's Permission Rule channels the relief here.** Installed at the cabin (~late Feb; see `meta-note-grace.md`), Pace forbids relief to *him* (tell-before, the gate); SATC-track relief stays outside the rule, so the charge Vee relieves is the one Randi lit. The line is gray (the brunch material *is* Pace scenes) and she passes it by description — *"the lunch undid me,"* not *"I want him"* — a not-looking she keeps un-examined. Full mechanism + the two craft guards: `meta-arch-vivienne.md` → The Permission Rule.
+**The Telling channels the relief here.** Installed at the cabin (~late Feb; see `meta-note-grace.md`), Pace forbids relief to *him* (tell-before, the gate); SATC-track relief stays outside the rule, so the charge Vee relieves is the one Randi lit. The line is gray (the brunch material *is* Pace scenes) and she passes it by description — *"the lunch undid me,"* not *"I want him"* — a not-looking she keeps un-examined. Full mechanism + the two craft guards: `meta-arch-vivienne.md` → The Telling.
 
 -----
 

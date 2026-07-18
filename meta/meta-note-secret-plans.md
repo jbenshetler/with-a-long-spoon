@@ -115,7 +115,7 @@ Per the step-1a discipline (decide, don't auto-plant), the cross-scene threads c
   2. **Told to Randi at SATC** → the brunch retell (above), now *more* loaded (an authored retell).
   3. **Randi later wants them for herself** → survives via the clamps appearing as torture and the retell.
 - **The clamp *sensation* is not lost** — clamps remain available within the torture menu (the bible's shame-staircase "clamps/bondage, sustained awareness" beat is satisfied inside this scene).
-- **Dates (chronology owns these):** The Ask ~mid-late March; Pace Builds off-page ~the following week; The Princess ~late March / early April (a warm afternoon); brunch retell within days; the Randi→Pace joke ~April, slot TBD (flag 16). Builds correctly on the agency staircase: the cabin (made the agent of her own exposure; Permission Rule installs) → she authors a whole scene.
+- **Dates (chronology owns these):** The Ask ~mid-late March; Pace Builds off-page ~the following week; The Princess ~late March / early April (a warm afternoon); brunch retell within days; the Randi→Pace joke ~April, slot TBD (flag 16). Builds correctly on the agency staircase: the cabin (made the agent of her own exposure; the Telling installs) → she authors a whole scene.
 - **Threesome resonances (submerged, never on the page):** she practices the **permission-fiction** (authoring a frame that lets her want what she can't say) — the exact mechanism she'll walk into the threesome on; the recurring failed grab pre-rhymes the stripping of every frame; the MacGuffin-as-unspoken-yes pre-echoes her never naming the threesome desire.
 
 ## To propagate / still open
