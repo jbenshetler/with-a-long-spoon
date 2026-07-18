@@ -103,7 +103,7 @@ Vee laughed, helpless, complimented, the heat in her face turning to pleasure �
 
 "He must've had his work cut out," Randi went on, light, turning her glass. "All that to get around. You said he's a looker, this man." A pause, just slightly lowered, just for the two of them. "Were there any — *challenges?*"
 
-The word sat there with its little hook in it. And Vee, who had been warm and laughing a second ago, felt the floor tilt, because she knew exactly what *challenges* meant, it meant the thing she would never say, it meant how her body had answered the cold air and the warm room and his hands near her and the whole impossible fact of being looked at — and her face was already betraying her, she could feel it, and her voice came out flat and defensive and too fast.
+The word sat there with its little hook in it. And Vee, who had been warm and laughing a second ago, felt the floor tilt, because she knew exactly what *challenges* meant, it meant the thing she would never say, it meant how her body had answered the warm air on her bared skin and his hands near her and the whole impossible fact of being looked at — and her face was already betraying her, she could feel it, and her voice came out flat and defensive and too fast.
 
 "It was cold in the house."
 
