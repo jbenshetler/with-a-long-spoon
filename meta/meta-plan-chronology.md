@@ -276,7 +276,7 @@ She balks at the lifts (*too heavy*); he offers and waits at the consent line. A
 
 ### [SCENE] Vee Tells Randi About the Dance (The Jar)
 *~Feb 10 · within a few days of the Jitterbug* · Unwritten · SATC · [detail](meta-condensed-vee-tells-randi-dance.md)
-The dance as the funny story. Then the jar — what his invisible chosen gentleness did to her. Voice changes mid-telling. Randi files the cruelest datum: tenderness/restraint is the load-bearing wall of what Vee feels. Off-page consequence (never marked in text): this is the witnessed-aliveness scene that detonates the drawer's first visit — Fairytale (both flames or no fire; nothing outside the configuration) → the Jar (Vee thriving openly on the exposure Randi can only endure — envy-of-capacity, the water-glass nerve, at full amperage) → the taking, on a weekday in the following weeks. The fuse is visible only on reread.
+The dance as the funny story. Then the jar — what his invisible chosen gentleness did to her. Voice changes mid-telling. Randi files the cruelest datum: tenderness/restraint is the load-bearing wall of what Vee feels. Off-page consequence (never marked in text): this is the witnessed-aliveness scene that detonates the drawer's first visit — Fairytale (nothing outside the configuration) → the Jar (Vee thriving openly on the exposure Randi can only endure — envy-of-capacity, the water-glass nerve, at full amperage) → the taking, on a weekday in the following weeks. The fuse is visible only on reread.
 
 ### [SCENE] On Top
 *~February · before Restrained* · Unwritten · Vee POV · [detail](meta-condensed-on-top.md) · [craft](meta-note-on-top.md)

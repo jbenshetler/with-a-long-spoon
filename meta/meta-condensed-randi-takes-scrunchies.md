@@ -14,7 +14,7 @@ The reader holds **means** (weekday access) and **motive** (Fairytale; Spring In
 
 ## Motive chain (reread-only; never marked in text)
 
-**Fairytale → the Jar → the taking.** Fairytale proves she feels nothing outside the configuration — both flames or no fire. Her aliveness runs on two channels, and both are real: submission (being seen by Pace — it reaches her fully, and it is intolerable; the exposure costs her what the bench cost) and sadism (operating on Vee — alive, controlled, deniable). The Jar shows her Vee thriving openly on the same exposure Randi can only endure and return to — same feeling, opposite tolerance. The envy is of capacity: not capacity to feel (she feels it) but capacity to *hold* it — to be seen and grow rather than seen and stripped. The water-glass nerve at full amperage; the taking follows as the plan escaping her — a compulsive leak, not strategy. The fuse is visible only on reread.
+**Fairytale → the Jar → the taking.** Fairytale proves she feels nothing outside the configuration. Her aliveness runs on two channels, and both are real: submission (being seen by Pace — it reaches her fully, and it is intolerable; the exposure costs her what the bench cost) and sadism (operating on Vee — alive, controlled, deniable). The Jar shows her Vee thriving openly on the same exposure Randi can only endure and return to — same feeling, opposite tolerance. The envy is of capacity: not capacity to feel (she feels it) but capacity to *hold* it — to be seen and grow rather than seen and stripped. The water-glass nerve at full amperage; the taking follows as the plan escaping her — a compulsive leak, not strategy. The fuse is visible only on reread.
 
 ## Hard constraints
 

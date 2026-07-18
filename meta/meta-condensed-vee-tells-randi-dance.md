@@ -14,4 +14,4 @@ The dance as the funny story. Then the jar (told only here, never shown): a stuc
 - This is what Randi cannot manufacture in herself — the cruelest tactical datum
 - Candidate for bathroom-trip beat (tenderness register)
 - SATC confidante track registration
-- Off-page consequence (never marked in text): the witnessed-aliveness that detonates the drawer's first visit. Fairytale (both flames or no fire) → the Jar (Vee thriving openly on the exposure Randi can only endure — envy-of-capacity, the water-glass nerve, at full amperage) → the taking, weeks later. On the page: nothing but the tell.
+- Off-page consequence (never marked in text): the witnessed-aliveness that detonates the drawer's first visit. Fairytale (nothing outside the configuration) → the Jar (Vee thriving openly on the exposure Randi can only endure — envy-of-capacity, the water-glass nerve, at full amperage) → the taking, weeks later. On the page: nothing but the tell.
