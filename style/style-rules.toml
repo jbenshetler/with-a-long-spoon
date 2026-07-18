@@ -121,6 +121,13 @@ why      = "'out ahead (of her)' — the body-before-mind tic (want/need arrivin
 suggest  = "her body arrived before her mind / before she'd decided / faster than thought / her want got there first / her body outran her."
 
 [[rule]]
+id       = "in-her-chest"
+kind     = "phrase"
+phrase   = "in her chest"
+severity = "info"
+why      = "'… in her chest' — emotional response located in the chest (something shifted/tightened/moved in her chest) is a recurring locus tic, 13 occurrences across scenes. Vary the somatic image or cut."
+
+[[rule]]
 id       = "whole-of"
 kind     = "phrase"
 phrase   = "whole of"
