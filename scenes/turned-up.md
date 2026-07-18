@@ -10,13 +10,13 @@ Cassie was at her desk with a highlighter when Vee came in, and she looked up on
 
 Vee opened her mouth. She set her bag on the floor. She picked it back up and put it on the chair. She turned around.
 
-"Burgundy," she said. "For the honor society induction. A skirt. Like the magazine. He's making it."
+"Burgundy," she said. "For the honor society induction. A dress. Like the magazine. He's making it."
 
-Cassie looked at her for a long moment. She was very still in the way she got when she was paying attention, and Vee felt the attention on her like a hand on her shoulder.
+Cassie looked at her for a long moment. She was very still in the way she got when she was paying attention, and Vee felt the attention like sun on her face.
 
 "Okay," Cassie said. "Back up. When did he — how did he even know?"
 
-Vee dropped onto her bed. Bounced once. Got up again. "I told him. On the hike, up on the rocks with the cherries. I was tired and just talking, and it came out. The induction, and the dress in the magazine, and the color, and that I couldn't — " She stopped. Waved it away. "I'd already let it go. I was going to wear the black one."
+Vee sat on the edge of her desk. A beat. Got up again. "I told him. On the hike, up on the rocks with the cherries. I was tired and just talking, and it came out. The induction, and the dress in the magazine, and the color, and that I couldn't — " She stopped. Waved it away. "I'd already let it go. I was going to wear the black one."
 
 "The induction," Cassie said softly. She'd screamed in the hall the day the letter came.
 
@@ -54,7 +54,7 @@ Cassie pulled her knees tighter, the small smile settling in. "Did he make that 
 
 Cassie didn't say anything. In the quiet Vee could hear the radiator and someone's music two doors down and her own breathing, faster than it should have been. A week of sleeping in a shirt he'd made, the answer in her hands the whole time, and she'd decided it was a riddle and gone to sleep.
 
-"Okay," Cassie said, when the quiet had gone on a beat too long. "So you went over today, and it was all just — ready for you."
+"Okay," Cassie said, when the quiet had gone on a beat too long. "So you went over today, and — ?"
 
 "The silk was out, on the long table in his sun porch. And he'd built a riser." Vee was up again, to the window and back. "A little platform, in the corner, for me to stand on." She heard herself say it, and laughed. "For me to stand on."
 
@@ -70,7 +70,7 @@ Cassie went very still.
 
 The room was quiet.
 
-"Oh, Vee," Cassie said.
+"Oh, Vee," Cassie said, and her face had gone soft with it.
 
 Vee laughed, quickly, and moved away from the window. "Anyway. He measured first. To get the fit right."
 
@@ -80,7 +80,7 @@ Cassie let the pivot happen. She was good at that. "Measured how? Like — all o
 
 "The whole — "
 
-"Yes, Cass. The whole skirt. All of it."
+"Yes, Cass. The whole dress. All of it."
 
 Cassie absorbed this. "Were you still dressed?"
 
@@ -170,7 +170,7 @@ Cassie made a sound that wasn't quite a word. She reached over and put her hand 
 
 Vee looked at the loose thread. Outside the window someone was crossing the quad and the afternoon had gone late and gold, and the radiator clicked in the corner, and the shirt Pace had made was folded on Vee's pillow at the top of the bunk because she'd put it there without thinking when she changed.
 
-"He's not done," Vee said after a while. "The skirt. He still has to sew it. He'll call me when it's ready."
+"He's not done," Vee said after a while. "The dress. He still has to sew it. He'll call me when it's ready."
 
 "Okay," Cassie said.
 
@@ -208,4 +208,4 @@ Vee started to laugh.
 
 "I *know.*" Vee dropped backward onto Cassie's bed, the pillow still against her, and lay there grinning at the underside of the top bunk. "I know, I know."
 
-She didn't get up for a while. Neither of them said anything for a while. It was a good kind of quiet, and the shirt was up there on her pillow, and the skirt wasn't even finished yet.
+She didn't get up for a while. Neither of them said anything for a while. It was a good kind of quiet, and the shirt was up there on her pillow, and the dress wasn't even finished yet.

@@ -2538,6 +2538,13 @@ text = "\"He said it the way he says things about the work,\" Vee said."
 note = "Characterizing similes doing real work — Cassie's attention-stillness, Pace's fact-register, Cassie's problem-set method. Deliberate, not filtered telling."
 
 [[ok]]
+fp   = "79caff969331"
+rule = "the-way"
+file = "scenes/turned-up.md"
+text = "She was very still in the way she got when she was paying attention, and Vee felt the attention like sun on her face."
+note = "Characterizing simile — Cassie's attention-stillness ('the way she got when she was paying attention'). Accepted earlier; re-armed by the sun-on-face simile edit."
+
+[[ok]]
 fp   = "923d88a1d0f4"
 rule = "the-way"
 file = "scenes/turned-up.md"
