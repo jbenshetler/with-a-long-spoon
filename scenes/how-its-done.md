@@ -143,7 +143,7 @@ Vee had gone dreamy. The booth was very far away. She was back on the platform w
 
 It was gentle. It was kind. It was a door closing very softly.
 
-And the laugh did not come. That was the thing Vee felt without being able to name — that here, where every other time the laugh had come up between them and joined them, there was instead a clean silence, and her secret was still half out of her with nowhere to go, risen and reaching and met with nothing.
+And the laugh did not come. That was the thing Vee felt without being able to name — that here, where the laugh had always come up between them and joined them, there was instead a clean silence, and her secret was still half out of her with nowhere to go, risen and reaching and met with nothing.
 
 Randi sat back. She let out a long breath, the air going out of the closeness all at once, and reached up and tucked a strand of the dark hair back where it lived, and when she spoke again her voice was a different voice — easy, ordinary, daylight. The hush was simply over.
 
