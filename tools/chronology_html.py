@@ -3,7 +3,9 @@
 
 Parses the chronology's scene/vignette/event entries and their metadata line
 (status, date, track, POV, files, links) and emits a single HTML file with
-inline CSS+JS (zero external dependencies): a status-colored beeswarm timeline
+inline CSS+JS (zero external dependencies): a progress summary table (words,
+pages at ~300 wpm, chapters, and reviewed counts, broken out by seasonal volume
+— Fall/Spring/Summer — plus a grand total), a status-colored beeswarm timeline
 across the academic year (hover a dot for the beat name), a phase-grouped card
 list, and the Continuity Flags panel.
 
@@ -185,6 +187,10 @@ def classify(seg: str):
 # --- parsing the file ------------------------------------------------------
 ENTRY_RE = re.compile(r"^###\s+\[(SCENE|VIGNETTE|EVENT)\]\s+(.*)$")
 SECTION_RE = re.compile(r"^##\s+(.*)$")
+# The doc is partitioned into three seasonal volumes by inline divider lines
+# ("**◆ VOLUME ONE — Fall** · ..."). We read the season word off the divider and
+# carry it forward to the entries that follow, until the next divider.
+VOLUME_RE = re.compile(r"VOLUME\s+\w+\s*[—–-]\s*([A-Za-z]+)")
 
 
 class Entry:
@@ -201,6 +207,8 @@ class Entry:
         self.slug = None        # unique DOM id stem (assigned in build_html)
         self.scene_md = None    # embedded scene prose (done scenes only)
         self.review = None      # {dates, round, last} or None (0 reviews)
+        self.season = None      # "Fall"/"Spring"/"Summer"/"Other" (VOLUME bucket)
+        self.words = 0          # prose word count of the scene file (0 if none)
 
     def finalize(self, unknown_log):
         for kind, val in self.segments:
@@ -219,6 +227,7 @@ def parse(md: str):
     lines = md.splitlines()
     entries = []
     phase = None
+    season = None            # set by the most recent VOLUME divider
     flags_raw = []
     in_flags = False
     cur = None
@@ -241,11 +250,16 @@ def parse(md: str):
         if in_flags:
             flags_raw.append(line)
             continue
+        vol = VOLUME_RE.search(line)
+        if vol:
+            season = vol.group(1).capitalize()
+            continue
         ent = ENTRY_RE.match(line)
         if ent:
             flush()
             body_lines = []
             cur = Entry(ent.group(1), ent.group(2).strip(), phase or "")
+            cur.season = season
             continue
         if cur is not None:
             # the metadata line is the first content line after the heading; the
@@ -271,6 +285,13 @@ def parse(md: str):
     unknown = []
     for e in entries:
         e.finalize(unknown)
+        # Entries outside the three seasonal volumes — Pre-Novel (before the
+        # first divider) and the trailing "Threaded Throughout" section (which
+        # sits after VOLUME THREE and would otherwise inherit Summer) — bucket as
+        # "Other" so the seasonal rows stay clean.
+        ph = e.phase.lower()
+        if e.season is None or ph.startswith("pre-novel") or ph.startswith("threaded"):
+            e.season = "Other"
 
     # The story spans one academic year (Aug -> next Aug), so both endpoints
     # land in August. A single Aug->Jul axis would collapse them. The file is
@@ -386,6 +407,106 @@ def scene_filename(meta_raw: str):
     return None
 
 
+WORDS_PER_PAGE = 300
+HR_RE = re.compile(r"^([-*_])\1{2,}$")
+HEADING_RE = re.compile(r"^#{1,6}\s")
+ITALIC_LINE_RE = re.compile(r"^\*.+\*$")
+
+
+def prose_word_count(text: str) -> int:
+    """Whitespace-token count of a scene's prose only.
+
+    Skips the manuscript furniture that isn't the story: ATX headings (the H1
+    title), horizontal rules, and the leading italic editorial note that sits
+    above the first '---'. Inline emphasis inside the prose is left in place
+    (each '*word*' / '**word**' counts as its one token), which is close enough
+    for an at-a-glance page count.
+    """
+    words = 0
+    seen_rule = False
+    for raw in text.split("\n"):
+        line = raw.strip()
+        if not line:
+            continue
+        if HR_RE.match(line):
+            seen_rule = True
+            continue
+        if HEADING_RE.match(line):
+            continue
+        if not seen_rule and ITALIC_LINE_RE.match(line):
+            continue  # leading italic editorial note (before the first rule)
+        words += len(line.split())
+    return words
+
+
+def _pages(words: int) -> int:
+    # round to nearest page; a mostly-full page still reads as "1".
+    return (words + WORDS_PER_PAGE // 2) // WORDS_PER_PAGE
+
+
+# Row order for the summary table: the three seasonal volumes, then the
+# out-of-volume "Other" bucket, then the grand total.
+STATS_SEASONS = ["Fall", "Spring", "Summer", "Other"]
+
+
+def compute_stats(entries):
+    """Aggregate chapter/word/review counts per season bucket + grand total.
+
+    A "chapter" is a SCENE or VIGNETTE (EVENTs never count). Words come from the
+    drafted prose file; undrafted chapters contribute 0. "Reviewed" means the
+    entry carries at least one `reviewed:` date.
+    """
+    buckets = {s: {"chapters": 0, "words": 0, "rev_chapters": 0, "rev_words": 0}
+               for s in STATS_SEASONS}
+    for e in entries:
+        if e.etype not in ("SCENE", "VIGNETTE"):
+            continue
+        b = buckets.get(e.season) or buckets["Other"]
+        b["chapters"] += 1
+        b["words"] += e.words
+        if e.review:
+            b["rev_chapters"] += 1
+            b["rev_words"] += e.words
+    total = {"chapters": 0, "words": 0, "rev_chapters": 0, "rev_words": 0}
+    for s in STATS_SEASONS:
+        for k in total:
+            total[k] += buckets[s][k]
+    return buckets, total
+
+
+def render_stats(entries) -> str:
+    buckets, total = compute_stats(entries)
+
+    def row(label, d, cls=""):
+        w, rw = d["words"], d["rev_words"]
+        return (
+            f'<tr class="{cls}"><th scope="row">{html.escape(label)}</th>'
+            f'<td>{d["chapters"]}</td>'
+            f'<td>{w:,}</td>'
+            f'<td>{_pages(w)}</td>'
+            f'<td>{d["rev_chapters"]}</td>'
+            f'<td>{rw:,}</td>'
+            f'<td>{_pages(rw)}</td></tr>'
+        )
+
+    body_rows = "".join(row(s, buckets[s]) for s in STATS_SEASONS
+                        if buckets[s]["chapters"])
+    total_row = row("Total", total, cls="stat-total")
+    return (
+        '<div class="panel statspanel"><table class="stats">'
+        '<caption>Progress — words &amp; pages at ~300 words/page</caption>'
+        '<thead><tr><th scope="col">Segment</th>'
+        '<th scope="col">Chapters</th><th scope="col">Words</th>'
+        '<th scope="col">Pages</th>'
+        '<th scope="col" class="rev">Rev. ch.</th>'
+        '<th scope="col" class="rev">Rev. words</th>'
+        '<th scope="col" class="rev">Rev. pages</th></tr></thead>'
+        f'<tbody>{body_rows}</tbody>'
+        f'<tfoot>{total_row}</tfoot>'
+        '</table></div>'
+    )
+
+
 def chip(label, cls="chip"):
     return f'<span class="{cls}">{html.escape(label)}</span>'
 
@@ -446,10 +567,16 @@ def build_html(entries, flags_raw, source_name, scene_dir=None):
         n = seen_slugs.get(base, 0) + 1
         seen_slugs[base] = n
         e.slug = base if n == 1 else f"{base}-{n}"
-        if e.status["cls"] == "done" and scene_dir is not None:
+        # Count words for any chapter whose prose file exists (not just "done" —
+        # a WIP draft still has a length), and embed the prose for the reader
+        # only when the scene is marked complete.
+        if e.etype in ("SCENE", "VIGNETTE") and scene_dir is not None:
             fn = scene_filename(e.meta_raw)
             if fn and (scene_dir / fn).exists():
-                e.scene_md = (scene_dir / fn).read_text(encoding="utf-8")
+                text = (scene_dir / fn).read_text(encoding="utf-8")
+                e.words = prose_word_count(text)
+                if e.status["cls"] == "done":
+                    e.scene_md = text
     # hidden raw-markdown sources the reader renders on demand; html.escape keeps
     # arbitrary prose inert, and .textContent decodes it back verbatim in JS.
     scene_srcs = "\n".join(
@@ -506,9 +633,11 @@ def build_html(entries, flags_raw, source_name, scene_dir=None):
                        ("arch", "Architecture complete"), ("todo", "Unwritten"),
                        ("event", "Event / not a scene"), ("unknown", "Unspecified")])
 
+    stats_html = render_stats(entries)
+
     return PAGE.format(
         source=html.escape(source_name), n_total=n_total, n_dated=n_dated,
-        reviewed=reviewed,
+        reviewed=reviewed, stats=stats_html,
         legend=legend, swarm=swarm, cards=cards_html,
         flags=flags_html,
         flags_section=(f'<section class="flags"><h2>Continuity Flags</h2>{flags_html}</section>'
@@ -743,6 +872,21 @@ PAGE = """<!doctype html>
   .lg {{ display:flex; align-items:center; gap:6px; }}
   .lg i {{ width:12px; height:12px; border-radius:3px; display:inline-block; }}
   .panel {{ background:var(--panel); border:1px solid var(--line); border-radius:12px; padding:14px 16px; margin:10px 0 26px; }}
+  .statspanel {{ overflow-x:auto; }}
+  table.stats {{ width:100%; border-collapse:collapse; font-size:13px; }}
+  table.stats caption {{ text-align:left; color:var(--mut); font-size:12px;
+    text-transform:uppercase; letter-spacing:.06em; padding:0 0 10px; }}
+  table.stats th, table.stats td {{ padding:7px 10px; text-align:right; white-space:nowrap; }}
+  table.stats thead th {{ color:var(--mut); font-weight:600; font-size:11px;
+    text-transform:uppercase; letter-spacing:.04em; border-bottom:1px solid var(--line); }}
+  table.stats thead th.rev {{ color:#9fd3ff; }}
+  table.stats th[scope="row"] {{ text-align:left; color:var(--ink); font-weight:600; }}
+  table.stats tbody td {{ color:var(--ink); font-variant-numeric:tabular-nums; }}
+  table.stats tbody tr:hover {{ background:#1d2733; }}
+  table.stats tfoot th, table.stats tfoot td {{ border-top:2px solid var(--line);
+    font-weight:700; font-variant-numeric:tabular-nums; padding-top:9px; }}
+  table.stats td:nth-child(5), table.stats td:nth-child(6), table.stats td:nth-child(7) {{ color:var(--mut); }}
+  table.stats tfoot td {{ color:var(--ink) !important; }}
   svg.swarm {{ width:100%; height:auto; display:block; }}
   .swarm .axis {{ stroke:var(--line); stroke-width:1; }}
   .swarm .grid {{ stroke:#222936; stroke-width:1; }}
@@ -799,6 +943,7 @@ PAGE = """<!doctype html>
   <div class="sub">Generated from <code>{source}</code> · {n_total} entries · {n_dated} placed on the timeline · {reviewed} · story order = list order</div>
 </header>
 <div class="wrap">
+  {stats}
   <div class="legend">{legend}</div>
   <div class="panel" id="swarmpanel">{swarm}</div>
   {cards}
