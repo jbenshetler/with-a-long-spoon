@@ -1,6 +1,6 @@
 # Famished
 
-The afternoon before, she'd painted her nails herself at the kitchen table, a small bottle of burgundy she'd bought without thinking too hard about why. The color was close to the silk he'd held to her face in the fitting room and she'd noticed, then put the connection away, then come back to it twice before the polish dried. She drove to his house with her toenails burgundy under her boots and her one good pair — deep green satin, lace at the edges, bought new and not yet worn — moved to the top of the drawer that morning, and told herself none of this meant anything in particular.
+The afternoon before, she'd painted her nails herself at dorm desk, a small bottle of burgundy she'd bought without thinking too hard about why. The color was close to the silk he'd held to her face in the fitting room and she'd noticed, then put the connection away, then come back to it twice before the polish dried. She drove to his house with her toenails burgundy under her boots and her one good pair — deep green satin, lace at the edges, bought new and not yet worn — moved to the top of the drawer that morning, and told herself none of this meant anything in particular.
 
 He opened the door in a canvas apron over a dark henley, sleeves pushed to the elbows, and when he kissed her hello it was still and certain, more than a greeting, less than what she'd been thinking about for three nights. She stepped inside, and the house smelled of garlic and red pepper and nothing else. On the counter the cutting board held everything ready: garlic crushed, pepper flakes measured into a small bowl beside the tin of crushed tomatoes. The pan was dry and clean on the burner. He'd done all the preparation and stopped.
 
@@ -18,7 +18,7 @@ She set the glass on the counter.
 
 "I never thanked you for the shirt," she said.
 
-She kissed him before he could answer, and this was different from the bench and from the first time he'd asked permission, different from every narrow register she'd held herself to since, because it had nowhere to go except forward and she did not try to slow it. His hands found the hem of her blouse and went under it, palms flat against her bare sides, the calluses of the workbench and the bar rough against her skin, the hands that had built the platform and turned the hem of her dress and held her ankle in cold air on the mountain. They moved up along her ribs. Her nipples were hard before his hands reached them, crinkled against the silk, her body announcing itself ahead of her, and the voice came immediately: *floozie*, quick and flat, her mother's word exactly, and the loop ran, and her hands were in his hair, and she kept kissing him.
+She kissed him before he could answer, and this was different from him asking if he could order her dinner, and asking if he could make her a dress, and every narrow register she'd held herself to since, because it had nowhere to go except forward and she did not try to slow it. His hands found the hem of her blouse and went under it, palms flat against her bare sides, the calluses of the workbench and the bar rough against her skin, the hands that had built the platform and turned the hem of her dress and held her ankle in cold air on the mountain. They moved up along her ribs. Her nipples were hard before his hands reached them, crinkled against the satin, her body announcing itself ahead of her, and the voice came immediately: *floozie*, quick and flat, her mother's word exactly, and the loop ran, and her hands were in his hair, and she kept kissing him.
 
 She broke from the kiss. He stilled, the question already in his hands — the beginning of care, the beginning of stepping back — and she did not want his care, not that kind. She reached up and took the strap of the apron behind his neck and pulled.
 
@@ -28,11 +28,11 @@ She was already moving. He steered her with one hand at her hip through the livi
 
 The apron strap slipped from her hand and the apron landed on the floor behind them.
 
-She reached for the hem of his henley and he raised his arms and she pulled it off and stood a moment with it in her hands. The hike had given her the outline; this was the resolution: the woodworker's shoulders, the powerlifter's arms, the body of a man who used himself continuously and without comment. She put her palm flat against his sternum and felt his heart.
+She reached for the hem of his henley and he raised his arms and she pulled it off and stood a moment with it in her hands. The hike had given her the outline; this was the resolution: the woodworker's shoulders, the powerlifter's arms, the body of a man who used himself continuously and without comment. She put her palm flat against his chest and felt his heart.
 
 He opened her blouse from the bottom and pushed it from her shoulders. She was briefly in the green bra before his hands found the clasp. And then his hands were on her, rough and warm and present — *floozie* — and she could not find the seam between the heat and the shame because there was no seam, they ran on the same wire, and she had stopped looking for one.
 
-She knew what was coming. That was the worst of it: she knew. When the skirt came off, when the panties came off, the evidence that had been building since the kitchen, since before the kitchen, since she'd laid the lace panties on top of the drawer that morning. She was already ashamed of what he hadn't seen yet. The anticipation sat on top of the fact of it, which made it worse, which made more anticipation, and that was the point of the loop, and the loop did not stop.
+She knew what was coming. That was the worst of it: she knew. When the skirt came off, when the panties came off, the evidence that had been building since the kitchen, since before the kitchen, since she'd dressed tonight, for Pace, for their first time. She was already ashamed of what he hadn't seen yet. The anticipation sat on top of the fact of it, which made it worse, which made more anticipation, and that was the point of the loop, and the loop did not stop.
 
 He unzipped the skirt at her hip. She stepped out of it.
 
