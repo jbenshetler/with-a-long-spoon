@@ -129,7 +129,7 @@ Authoritative-by-domain (each doc owns its subject; don't relitigate it elsewher
 
 Three characters in a BDSM triangle — one consenting, one orchestrated without full knowledge. **Two seduction tracks run in parallel and are the same engine running twice:**
 
-- **Pace/Vee — the erotic staircase.** Discrete physical escalations, each a new threshold, each a full scene. He pulls her forward erotically.
+- **Pace/Vee — the erotic staircase.** Discrete physical escalations, each a new threshold, each a full scene. He beckons her forward erotically.
 - **Randi/Vee — the SATC/confidante track.** Retelling-and-steering; theme-and-variations, *not* a staircase of equal scenes. Randi extracts, names, steers. Her core device: **she produces with words what Pace produces with his body.**
 
 Both tracks arrive at the same destination (Vee's body ready for the threesome) from different directions, neither track knowing the other exists as Vee experiences it. Everyone gets exactly what their plan called for and loses the thing the plan was secretly for; then the blindfold comes off and Vee — the one who literally could not see — becomes the only one who does.

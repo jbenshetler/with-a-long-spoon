@@ -29,7 +29,7 @@ Three characters in a sexual and emotional configuration across one academic yea
 
 **Two parallel tracks converge on the threesome:**
 
-The **Pace/Vee track** is the erotic staircase — discrete physical escalations, each a new threshold crossed, each a scene. He pulls her forward erotically, each yes making the next yes easier, the appetite teaching itself its own specifications.
+The **Pace/Vee track** is the erotic staircase — discrete physical escalations, each a new threshold crossed, each a scene. He beckons her forward erotically, each yes making the next yes easier, the appetite teaching itself its own specifications.
 
 The **Randi/Vee SATC track** is the confidante channel — Vee brings Randi reports of the Pace relationship; Randi extracts, names, amplifies, steers. These are not equal scenes; they are retelling-and-steering. They are also high-intensity BDSM in conversational form: Randi is dominant and sadistic, fed by jealousy; the conversational edging is real edging; the bathroom breaks are part of the scene. Vee experiences them as the most intense friendship of her life.
 
