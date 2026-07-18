@@ -557,6 +557,20 @@ text = "It's the thing that makes all the rest of you read the way it does."
 note = "Pace's dialogue — his cataloguing cadence as he names her body; voice, not narrative telling. Do not sanitize."
 
 [[ok]]
+fp   = "a747dd47168c"
+rule = "there-was-were"
+file = "scenes/how-its-done.md"
+text = "That was the thing Vee felt without being able to name — that here, where every other time the laugh had come up between them and joined them, there was instead a clean silence, and her secret was still half out of her with nowhere to go, risen and reaching and met with nothing."
+note = "door-closing beat — kept (author)"
+
+[[ok]]
+fp   = "e581ce43b865"
+rule = "there-was-were"
+file = "scenes/how-its-done.md"
+text = "\"There was — \""
+note = "interrupted-confession beat — kept (author)"
+
+[[ok]]
 fp   = "6a0dd1f82a5d"
 rule = "began-to"
 file = "scenes/in-her-place.md"
