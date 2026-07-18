@@ -82,7 +82,7 @@ Pace is not solemn about sex. He has a genuine sense of humor and a light, good-
 ## Behavioral Signatures
 
 - Warm/present → precise/formal/over-articulate under stress (render in dialogue)
-- Acts and watches rather than asking where possible
+- His attention serves her safety and pleasure: reads what she needs in the moment and gives it to her, his pleasure keyed to hers
 - Holds a physical line at audible cost — the *"Keep still"* register, the breath before resuming
 - Defers immediately outside his two real stakes (sex and love); holds without friction inside them
 - Does not file what he sees; is in continuous present-tense contact with whoever is in the room

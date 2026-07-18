@@ -20,7 +20,7 @@ Read all together. Where this document and the four-document core differ, **the 
 
 Two seduction tracks run in parallel and are the **same engine running twice**:
 
-- **Pace/Vee** — the erotic staircase. Discrete physical escalations, each a new threshold, each a scene. He pulls her forward erotically.
+- **Pace/Vee** — the erotic staircase. Discrete physical escalations, each a new threshold, each a scene. He beckons her forward erotically.
 - **Randi/Vee** — the SATC/confidante track. Retelling-and-steering. Randi extracts, names, steers. Runs as theme-and-variations, not a staircase of equal scenes.
 
 Both tracks arrive at the same destination — Vee’s body ready for the threesome — from different directions, neither track knowing the other exists as Vee experiences it. The blindfold is almost redundant; she’s been navigating in the dark the whole time.
@@ -179,7 +179,7 @@ These pieces are the architectural backbone of the novel. The character document
 
 > **“Peter” as the instrument (deepened):** the true name predates the wound — the self that hadn’t yet learned the lesson, the foundation under the anxious-motion surface. When Vee reaches past *Pace* to *Peter*, she’s calling the self that could still say it. The name is the *I love you* neither of them can otherwise produce — she says the true name, he can’t say the true sentence.
 
-**Method:** Acts and watches the reaction rather than asking permission for provocations. Genuine focus on getting women something they want. This is also how the fuzziness happens — he uses her own need/offering to move her past resistances she hasn’t fully resolved, telling himself it’s for her benefit.
+**Method:** His close attention serves her safety and her pleasure: it reads what she needs in the moment and gives it to her, his own pleasure keyed entirely to hers. Genuine focus on getting women something they want. This is where the fuzziness lives: her own wanting does the moving, so he never has to push — but he arranges the conditions it moves through and keeps his own design out of view, and tells himself it’s for her benefit.
 
 **Self-justification / the benefactor story:** *“She enjoys the kindness; I’m opening her to a beautiful experience; first for both women; it’s perfect.”* True things arranged into a story that lets him feel like a benefactor rather than an architect. His best tool (his mind) pointed in the wrong direction deliberately. *“Earlier dominoes must fall”* — he tracks her readiness closely; a purely transactional man wouldn’t.
 
