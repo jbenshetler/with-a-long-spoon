@@ -1,6 +1,6 @@
 # Famished
 
-The afternoon before, she'd painted her nails herself at dorm desk, a small bottle of burgundy she'd bought without thinking too hard about why. The color was close to the silk he'd held to her face in the fitting room and she'd noticed, then put the connection away, then come back to it twice before the polish dried. She drove to his house with her toenails burgundy under her boots and her one good pair — deep green satin, lace at the edges, bought new and not yet worn — moved to the top of the drawer that morning, and told herself none of this meant anything in particular.
+The afternoon before, she'd painted her nails herself at dorm desk, a small bottle of burgundy she'd bought without thinking too hard about why. The color was close to the silk he'd held to her face in the sun porch and she'd noticed, then put the connection away, then come back to it twice before the polish dried. She drove to his house with her toenails burgundy under her boots and her one good pair — deep green satin, lace at the edges, bought new and not yet worn — moved to the top of the drawer that morning, and told herself none of this meant anything in particular.
 
 He opened the door in a canvas apron over a dark henley, sleeves pushed to the elbows, and when he kissed her hello it was still and certain, more than a greeting, less than what she'd been thinking about for three nights. She stepped inside, and the house smelled of garlic and red pepper and nothing else. On the counter the cutting board held everything ready: garlic crushed, pepper flakes measured into a small bowl beside the tin of crushed tomatoes. The pan was dry and clean on the burner. He'd done all the preparation and stopped.
 
@@ -38,13 +38,13 @@ He unzipped the skirt at her hip. She stepped out of it.
 
 He went to his knees.
 
-The fitting room again: him on the floor, her standing, his hands at her waist, and she remembered the pinned silk and the smile he hadn't tried to hide. The lace came down slowly and she watched his face and the crystal strings were there, obvious and excessive, and she saw him see them.
+The sun porch again: him on the floor, her standing, his hands at her waist, and she remembered the pinned silk and the smile he hadn't tried to hide. The lace came down slowly and she watched his face and the crystal strings were there, obvious and excessive, and she saw him see them.
 
 *Floozie*, said the voice. That was all it had.
 
 He looked up at her and said, not hiding it: "Would you be bothered if I was too hard?"
 
-She understood it was a real question. She understood it was something else as well. The expression on his face was the same as the fitting room, scaled up: her body producing evidence that his was landing, and that being the good thing, the right thing. Something shifted in her chest.
+She understood it was a real question. She understood it was something else as well. The expression on his face was the same as the fitting, scaled up: her body producing evidence that his was landing, and that being the good thing, the right thing. Something shifted in her chest.
 
 She said no.
 
