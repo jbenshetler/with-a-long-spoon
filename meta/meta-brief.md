@@ -9,7 +9,7 @@
 
 *With a Long Spoon* is literary erotica in the tradition of Gaitskill, Duras's *The Lover*, and *A Sport and a Pastime* — psychological, structurally serious, where character interiority and the argument the novel is making do the work that plot mechanics do in genre. The title is from the proverb: *when supping with the devil, bring a long spoon.* The novel's claim is that the devil, in this era, presents as a virtue, and the reader did not previously have a way to bring the spoon — the novel gives it to them.
 
-Three characters in a sexual and emotional configuration across one academic year at Virginia Tech. Two women are being transformed by the same man simultaneously, without either knowing the other is in the configuration. The novel renders the transformation at full resolution, the goods at full force in real time, and the catastrophe retrospectively — when a blindfold comes off at a threesome and the woman who literally could not see becomes the only one who finally does. This is not a story about bad men and naive women. It is a story about three constitutively destructive appetites that mutually summon each other, three people who half-see the cost and choose to advance anyway because the alternative is starvation, and the installation of a vocabulary the era does not yet have for what happens at a table like this.
+Three characters in a sexual and emotional configuration across one academic year at Virginia Tech. Two women are drawn into the same configuration by the same man — one its unwitting subject, the other his hidden lover and the co-author of the design. Vee never knows Randi is in it at all. The novel renders the transformation at full resolution, the goods at full force in real time, and the catastrophe retrospectively — when a blindfold comes off at a threesome and the woman who literally could not see becomes the only one who finally does. This is not a story about bad men and naive women. It is a story about three constitutively destructive appetites that mutually summon each other, three people who half-see the cost and choose to advance anyway because the alternative is starvation, and the installation of a vocabulary the era does not yet have for what happens at a table like this.
 
 **The structural argument:** certain appetites are healthy and constitutively destructive simultaneously — not in excess, but at the depth their internal logic requires. The goods and the harms are the same operation seen from two angles. The novel's category is distinct from moderation, from dose-calibration, from prohibition. The reader walks out with a name for what they couldn't name before.
 
@@ -55,11 +55,9 @@ Pace does not know what happens at the SATC lunches. Vee does not know Pace and 
 
 ## Current State of the Work
 
-**Phase:** Drafting. Approximately 10 scenes complete out of ~41 planned entries. The novel's chronology runs one academic year (fall semester through spring).
+**Phase:** Drafting. Roughly 56 of 97 planned scene/vignette entries have complete drafts (one more partial). `meta-plan-chronology.md` owns the live inventory and per-scene status — consult it rather than any list here. The novel's chronology runs one academic year (fall semester through spring).
 
-**Drafted scenes:** The Bench, Standards, The Pointing Game (diptych, `the-pointing-game.md`), See You Later (diptych; collapses former coffee/class beats), Substitution, Two Towels, Turned Up, SATC Brunch / Vee Tells Randi (opening movement), The Porch Scene, Threesome architecture (planning doc only).
-
-**Current phase of story:** Early-to-middle. The configuration is established; the SATC track is running; the erotic staircase is ascending. The threesome is the destination.
+**Current phase of story:** The configuration is long established; the SATC confidante track and the erotic staircase are both well advanced, with drafted scenes now running from fall into spring. The threesome and its reveal remain the unwritten destination.
 
 ---
 

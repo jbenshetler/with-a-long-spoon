@@ -25,6 +25,8 @@ Two seduction tracks run in parallel and are the **same engine running twice**:
 
 Both tracks arrive at the same destination — Vee’s body ready for the threesome — from different directions, neither track knowing the other exists as Vee experiences it. The blindfold is almost redundant; she’s been navigating in the dark the whole time.
 
+**Information architecture — who knows what.** The asymmetry *is* the engine. **Randi** is the only fully-informed node: Pace’s lover, she picked Vee and staged the meet, and she works both feeds — Vee’s SATC reports and Pace’s pillow talk. **Pace** knows he and Randi chose Vee together but never learns what passes at the SATC lunches. **Vee** knows least: not that Pace and Randi are lovers, not that she was selected before they met. Only Randi sees the whole board — and cannot use it without destroying the thing it is about.
+
 **Central theme:** Consent as the foundation of freedom, not its enemy.
 **Core formulation:** While love is kindling to lust, shame is gasoline.
 **The destination is not shamelessness — it is *ownership*.** Chosen shame, examined and kept for what it does for her.

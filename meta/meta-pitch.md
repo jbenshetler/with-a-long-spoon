@@ -1,12 +1,12 @@
 # Pitch — With a Long Spoon
 
-*External-facing hook material (jacket / query / positioning). Psychological literary erotica; comps: Gaitskill, Duras (*The Lover*), Salter (*A Sport and a Pastime*), *Story of O*.*
+*External-facing hook material (jacket / query / positioning). Psychological literary erotica (internal shorthand); for the decided external framing and comp shelf, see `meta-blurb.md`.*
 
 ---
 
 ## Logline
 
-A man whose genius is *attention* — for seeing the one thing you don't dare admit you want, and giving it to you — draws two women into a bargain in which the tenderest love and the deepest harm are the same act. Everyone consents. No one comes out whole.
+A man whose genius is *attention* — for seeing the one thing you don't dare admit you want, and giving it to you. With the woman who shares his bed, he chooses a third, in a bargain where the tenderest love and the deepest harm are the same act. Everyone consents. No one comes out whole.
 
 ---
 

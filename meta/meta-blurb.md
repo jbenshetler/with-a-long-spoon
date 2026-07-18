@@ -20,7 +20,7 @@ External reader-facing copy for *With a Long Spoon* — marketing and positionin
 
 ### Long / jacket (~180 words)
 
-> It began as a game. Randi — poised, dazzling, certain of everything, and secretly the lover of a young mathematician who lives alone at the end of a long drive — picked Vivienne Thorne out across the quad and decided, with him, that she would be the third in their bed. They told her nothing. What none of the three of them saw coming was how real it would get.
+> It began as a game. Randi — poised, dazzling, certain of everything, and secretly the lover of a young mathematician who lives alone at the end of a long drive — picked Vivienne Thorne out across the quad and decided, with him, that she would be the third in their bed. They told her nothing. What none of them saw coming was how real it would get — as real for the two who started the game as for the girl who never knew there was one.
 >
 > What Vivienne knows is that her junior year has cracked open. Pace attends to her with an attention that feels like being seen all the way down — tuned to her safety and her pleasure, opening doors and never once pushing her through, so that walking through feels like the freest thing she's ever chosen. Randi — frank, warm, impossible not to love — lifts her into a brighter life and listens like no one ever has, drawing out over long Sunday lunches the shames Vivienne was raised to bury and handing them back as gifts. Both of them make her feel chosen; both are falling as hard as she is.
 >
@@ -44,7 +44,7 @@ External reader-facing copy for *With a Long Spoon* — marketing and positionin
 
 ### Long / jacket (~180 words)
 
-> It began as a game. Randi — poised, dazzling, certain of everything, and secretly the lover of a man no one has met, a young mathematician who lives alone at the end of a long drive — picked Vivienne Thorne out across the quad and decided, with him, that this was the girl. Neither of them told her. What none of the three of them saw coming was how real it would get.
+> It began as a game. Randi — poised, dazzling, certain of everything, and secretly the lover of a man no one has met, a young mathematician who lives alone at the end of a long drive — picked Vivienne Thorne out across the quad and decided, with him, that this was the girl. Neither of them told her. What none of them saw coming was how real it would get — as real for the two who started the game as for the girl who never knew there was one.
 >
 > What Vivienne knows is that her junior year has cracked open. Pace attends to her with an attention that feels like being seen all the way down — tuned to her safety and her pleasure, opening doors and never once pushing her through, so that walking through feels like the freest thing she's ever chosen. Randi — frank, warm, impossible not to love — lifts her into a brighter life and listens like no one ever has, drawing out over long Sunday lunches the shames Vivienne was raised to bury and handing them back as gifts. Both of them make her feel chosen; both are falling as hard as she is.
 >
