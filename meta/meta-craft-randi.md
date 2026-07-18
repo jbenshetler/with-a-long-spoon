@@ -74,6 +74,15 @@ The organizing distinction is **whether the operator is running underneath.** Pe
 
 When rendering Vee's pleasure under Randi's attention: use the recognition/status register (chosen, picked, admitted, clever, cool, lifted). **Never the seeing register.** If a draft has Randi making Vee feel *seen,* it is mischaracterized — change it. The whole tragedy depends on the reader (and eventually Vee) being able to tell apart the one who sees her from the one who ranks her.
 
+**Signature-phrase split — the two seducers never share a distinctive line.** An identical recognition/beholding phrase in both mouths smears the voices even when the underlying register differs, so each owns its own:
+
+- ***"Look at you"* is Pace's** — his beholding beat (*Grace*: "Let me look at you here, in the light, while it's full on you"; *Vee on the Bench*: "Look at all of you, open like this"). It belongs to his seeing register; keep it off Randi.
+- ***"There she is" / "there you are"* is Randi's** — her recognition-of-arrival beat, conferring presence and status (the greeting; the pleased *let-it-land*). Keep it off Pace.
+
+The guard is specifically that **Pace and Randi never share the line.** Incidental "look at you" from Cassie or Vee is tolerable (it doesn't blur the *pair*), and the cutting voice deliberately weaponizes Pace's phrase against Vee at *Grace* (*"look at you wanting it"*) — that echo is intended.
+
+**A signature, not a slogan.** Use each sparingly — about one beat per scene. A verbal fingerprint works by rarity; repeated too often in one scene it flattens into a catchphrase and stops individuating the character (Fed carries a single "There she is," at the greeting — not a second).
+
 ---
 
 ## The Cup — The Body's Tell

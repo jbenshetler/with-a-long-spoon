@@ -487,6 +487,41 @@ text = "Randi set her chin in her hand and turned the whole of her face on Vee."
 note = "author-approved 2026-07-14: 'turned the whole of her face on Vee' stands — total-attention image is the beat"
 
 [[ok]]
+fp   = "3bd177e26b85"
+rule = "filter-verbs"
+file = "scenes/fed.md"
+text = "Randi was already at a table against the glass, sunglasses pushed up into her hair, and she did the thing where she saw Vee and her whole face opened, as if Vee arriving were the good news she'd been waiting on all week."
+note = "Vee clocking Randi's habitual greeting move; keep"
+
+[[ok]]
+fp   = "4abfdee63a82"
+rule = "filter-verbs"
+file = "scenes/fed.md"
+text = "The light came in off the glass and lay on her and she felt the heat climb her throat, uninvited, announcing her, and she understood in the bright open room exactly what she had just set on the table."
+note = "deliberate delayed-hearing device (echoes Famished 'heard it a beat after he did'); body-before-mind; keep"
+
+[[ok]]
+fp   = "5081fd2a6556"
+rule = "filter-verbs"
+file = "scenes/fed.md"
+text = "Then she heard it."
+note = "deliberate delayed-hearing device (echoes Famished 'heard it a beat after he did'); body-before-mind; keep"
+
+[[ok]]
+fp   = "87a266ec6564"
+rule = "filter-verbs"
+file = "scenes/fed.md"
+text = "It was out of her mouth before she heard it."
+note = "deliberate delayed-hearing device (echoes Famished 'heard it a beat after he did'); body-before-mind; keep"
+
+[[ok]]
+fp   = "b947cebcefe1"
+rule = "filter-verbs"
+file = "scenes/fed.md"
+text = "She heard herself reaching for it and reached anyway."
+note = "self-aware reach ('She heard herself reaching for it') doing intentional work; keep"
+
+[[ok]]
 fp   = "09ab496a579a"
 rule = "the-way"
 file = "scenes/fed.md"
@@ -527,6 +562,34 @@ rule = "the-way"
 file = "scenes/fed.md"
 text = "The waiter came and Randi ordered a mimosa without looking at the card at all, the way you order a thing you have ordered a thousand times and will a thousand more, and Vee closed her menu and said she'd have the same."
 note = "scene review 2026-07: author accepted; load-bearing 'the way' simile, keep"
+
+[[ok]]
+fp   = "479a1ee20d2f"
+rule = "there-she-is"
+file = "scenes/fed.md"
+text = "\"There she is,\" she said."
+note = "Randi's signature recognition beat (canon: meta-craft-randi.md Reserved Vocabulary); single instance, greeting only"
+
+[[ok]]
+fp   = "017fd4a7c9bf"
+rule = "there-was-were"
+file = "scenes/fed.md"
+text = "Like there was no clock."
+note = "near-dialogue 'like there was no clock'; keep"
+
+[[ok]]
+fp   = "739b82a7a3eb"
+rule = "weather"
+file = "scenes/fed.md"
+text = "\"And the good ones,\" Randi went on, easy, conversational, as if they were comparing notes on the weather."
+note = "small-talk idiom (weather as literal topic), not the mood-as-weather metaphor the rule targets; false positive"
+
+[[ok]]
+fp   = "a9007c5f1a99"
+rule = "without-asking"
+file = "scenes/fed.md"
+text = "The bistro had a sun porch along its south side, a long room of glass and white-painted muntins where the late-morning light came in and lay on everything without asking."
+note = "kept as buried consent-resonance; reads as atmosphere on first pass (author decision, B)"
 
 [[ok]]
 fp   = "3fb15f593011"

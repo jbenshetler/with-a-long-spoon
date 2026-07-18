@@ -2,7 +2,7 @@
 
 The bistro had a sun porch along its south side, a long room of glass and white-painted muntins where the late-morning light came in and lay on everything without asking. Randi had picked it. Randi picked all of them. Vee came in out of the ordinary day and into that bright room and felt what she always felt at the start of these, which was chosen, which was lit, which was a half-second behind.
 
-Randi was already at a table against the glass, sunglasses pushed up into her hair, and she did the thing where she saw Vee and her whole face opened, as if Vee arriving were the good news she'd been waiting on all week. "There she is," she said. "God, look at you. You're glowing. Sit, sit."
+Randi was already at a table against the glass, sunglasses pushed up into her hair, and she did the thing where she saw Vee and her whole face opened, as if Vee arriving were the good news she'd been waiting on all week. "There she is," she said. "God, you're glowing. Sit, sit."
 
 The menu was a single heavy card, and Vee opened hers and read the right side first, the way she read a road in fog, looking for what was passable. The egg things were not low and the not-low was real. But there, near the top, under the heading that said the porch did this on weekends, the mimosa had a number beside it she could hold. She did the small arithmetic, the kind that ended in Thursday, and found that Thursday would survive it.
 
@@ -22,7 +22,7 @@ So she gave Randi the same one, because it was the true one, and she told it wel
 
 It was out of her mouth before she heard it. Then she heard it. The light came in off the glass and lay on her and she felt the heat climb her throat, uninvited, announcing her, and she understood in the bright open room exactly what she had just set on the table.
 
-Randi's face went soft with pleasure. "Oh, that's a good one. I love that, I can see it, that's a photograph." She took a slow sip. "But I notice," she said, warm, unhurried, setting the flute down, "that you went straight to the bedsheet and skipped clean over the part where you explain how you ended up wearing it."
+Randi's face went soft with pleasure. "Oh, that's a good one. I love that, I can see it, that's a photograph." She took a slow sip. "But I notice," she said, warm, setting the flute down, "that you went straight to the bedsheet and skipped clean over the part where you explain how you ended up wearing it."
 
 Vee opened her mouth and nothing came, and the nothing filled with everything, and Randi let it.
 
@@ -56,7 +56,7 @@ Randi held her flute and listened, her face open and warm and glad for her frien
 
 "Know what."
 
-"That you wanted it." She said it the way you hand someone a coat they'd left behind. "Look at you, you're embarrassed, you've been embarrassed this whole time, you've been carrying it around like you did something. You wore the good underwear and you painted your toes and you wanted a beautiful man to make you dinner and take your clothes off, and then he did, and it was wonderful, and you sat there in his sheet feeling like a... what. Say it."
+"That you wanted it." She said it the way you hand someone a coat they'd left behind. "You're embarrassed, you've been embarrassed this whole time, you've been carrying it around like you did something. You wore the good underwear and you painted your toes and you wanted a beautiful man to make you dinner and take your clothes off, and then he did, and it was wonderful, and you sat there in his sheet feeling like a... what. Say it."
 
 "A floozie," Vee said, and laughed, and her eyes stung doing it.
 
@@ -64,11 +64,11 @@ Randi held her flute and listened, her face open and warm and glad for her frien
 
 And Vee, who had come in carrying it, felt it shift, felt the weight of the week come off her in the bright room, and the thing that came up in its place she said out loud because it was suddenly, simply, true. "I wanted it," she said, and turned her flute on the cloth. "And I took it. For once."
 
-"Good," Randi said, and reached across and laid her hand over Vee's, and left it there, warm and unhurried, and Vee felt the word settle into her and stay.
+"Good," Randi said, and reached across and laid her hand over Vee's, and left it there, warm, and Vee felt the word settle into her and stay.
 
 They stayed another hour. The light moved across the porch. Vee had a second mimosa, and the second one she did not price at all, and they talked about other things, about Randi's awful committee and a girl in the house and a movie neither of them would admit to having cried at, and it was easy, it was the easiest thing in Vee's week, the thing she organized the rest of it around without quite admitting that either.
 
-Outside, at the curb, in the ordinary noise of the street after the glass quiet of the porch, Randi pulled her into the goodbye, the hand light at the hinge of her jaw, the mouth, soft and unhurried, the small second press that was simply part of it now. Vee didn't brace. She'd stopped bracing somewhere back. It was only what they did.
+Outside, at the curb, in the ordinary noise of the street after the glass quiet of the porch, Randi pulled her into the goodbye, the hand light at the hinge of her jaw, the mouth, soft, the small second press that was simply part of it now. Vee didn't brace. She'd stopped bracing somewhere back. It was only what they did.
 
 "Go on," Randi said, holding her by the shoulders a moment, looking at her. "See you soon, gorgeous."
 
