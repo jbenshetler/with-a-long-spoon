@@ -109,7 +109,7 @@ Motivated by the Fitting's deferred tension, not the CW dance. Pace invites her 
 Vee tries to tell Cassie and can't. Shame meets the wrong-shaped listener; Cassie can hold romance but not the bodily response. First withheld thing. The vacancy this opens is exactly what Randi fills at Fed. Photographic negative of Rye.
 
 ### [SCENE] Fed
-*~Sun Oct 18 · the weekend after First Night — she's been holding it since Friday* · Draft complete · SATC · off-campus · `fed.md` · [detail](meta-condensed-fed.md) · reviewed: 2026-07-19
+*~Sun Oct 18 · the weekend after Famished — she's been holding it since Friday* · Draft complete · SATC · off-campus · `fed.md` · [detail](meta-condensed-fed.md) · reviewed: 2026-07-19
 Vee arrives carrying the floozie-shame she couldn't give Cassie. Randi catches the flush at maximum exposure and converts it to pride/aliveness — genuine kindness that is also the threesome on-ramp. Post-Fitting/post-jealousy: deliberate operation, so no tell. First read: the glamorous friend talked me out of my shame. *Them-not-you* seed and bathroom-trip beat migrate here.
 
 ### [SCENE] Dress Pickup
