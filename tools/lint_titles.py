@@ -28,6 +28,36 @@ CHRONOLOGY = REPO / "meta" / "meta-plan-chronology.md"
 HEADING_RE = re.compile(r"^###\s+\[(SCENE|VIGNETTE|EVENT)\]\s+(.*)$")
 MARK_RE = re.compile(r"\{\{([^}]+)\}\}")
 
+# Curated short-form aliases: a reference may name a chapter by a distinctive
+# short form when the canonical heading carries a "Character —"/"— Subtitle"
+# frame or a parenthetical nickname. Each alias must map unambiguously to ONE
+# canonical title; generic tails ("The Ask", "The Gift") and cluster stems
+# ("Secret Plans", shared by several chapters) are deliberately left out.
+ALIASES = {
+    "Shoe Shopping": "Shoe Shopping with Randi",
+    "CW-Dance Debrief": "The CW-Dance Debrief",
+    "Porch Scene": "The Porch Scene",
+    "Gesso": "Gesso — Vee Tells Randi",
+    "Spring Inversion": "Randi — Spring Inversion",
+    "The Reach": "Vee — The Reach",
+    "The Jar": "Vee Tells Randi About the Dance",
+    "Jitterbug": "The CW Jitterbug Scene",
+    "Burn": "The Burn",
+    "First Ride": "Sheri — First Ride",
+    "Green Sheets": "Green Sheets — The Gift",
+    "The Cassie Scene": "The Cassie Scene — Thesis Delivery",
+    "Ignition Scalding": "Scalding Jealousy Ignition",
+    "Scalding": "Scalding Jealousy Ignition",
+    "Social Price #1": "Randi — Social Price #1",
+    "Social Price #2": "Randi — Social Price #2",
+    "Grain #1": "Grain #1 — The First Flicker",
+    "Grain #2": "Grain #2 — Worn in Plain Sight",
+    "Grain #3": "Grain #3 — The Restoration",
+    "The First Flicker": "Grain #1 — The First Flicker",
+    "Worn in Plain Sight": "Grain #2 — Worn in Plain Sight",
+    "The Restoration": "Grain #3 — The Restoration",
+}
+
 
 def canonical(raw: str) -> str:
     """The title as it is referenced: drop a trailing (parenthetical) and any
@@ -91,16 +121,23 @@ def main():
     if not CHRONOLOGY.exists():
         sys.exit(f"chronology not found: {CHRONOLOGY}")
     all_titles, chapters = load_titles(CHRONOLOGY)
+    orphan = {a: t for a, t in ALIASES.items() if t not in all_titles}
+    if orphan:
+        sys.exit("alias target(s) missing from the chronology (rename drift?): "
+                 + ", ".join(f"{a!r}->{t!r}" for a, t in orphan.items()))
+    valid = all_titles | set(ALIASES)
 
     if args.list:
         for t in sorted(all_titles):
             print(t)
+        for a in sorted(ALIASES):
+            print(f"{a}  (alias -> {ALIASES[a]})")
         return
 
     files = sorted((REPO / "meta").glob("*.md")) if args.all else [CHRONOLOGY]
     bad = 0
     for f in files:
-        for lineno, title, ok in check_file(f, all_titles):
+        for lineno, title, ok in check_file(f, valid):
             if not ok:
                 bad += 1
                 print(f"{f.relative_to(REPO)}:{lineno}: unknown chapter "
