@@ -2181,6 +2181,13 @@ text = "He felt it run through her against his chest."
 note = "kept per author"
 
 [[ok]]
+fp   = "4089c00f7ba9"
+rule = "filter-verbs"
+file = "scenes/the-bench.md"
+text = "Her brows drew together, and he watched her think better of it."
+note = "Pace's signature present-moment reading of her — his watching is his gift and the scene's engine; filter verb intentional here."
+
+[[ok]]
 fp   = "5919d850a757"
 rule = "filter-verbs"
 file = "scenes/the-bench.md"

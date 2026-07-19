@@ -14,9 +14,9 @@ She came in past the kitchen and put her bag on the chair by the door — the sm
 
 She came to him and put her arms around his waist and tilted her face up. He bent and kissed her, brief, warm, the kiss he gave her when she came in the door. He started to back off — that was what he did, he backed off and let her decide — and she did what she had started doing, which was to lean in and bring her mouth back to his and kiss him harder, her hands sliding up his back, and he let her have what she had come for.
 
-He pulled her in with the arm that wasn't holding the kettle, the length of her against the length of him, his free hand coming down to the curve of her ass through the thin skirt and resting there, then pressing, and she murmured against his mouth.
+He pulled her in, the length of her against the length of him, one hand coming down to the curve of her ass through the thin skirt and resting there, then pressing, and she murmured against his mouth.
 
-He set the kettle down. He put both hands on her then, properly, as he had not been able to with the kettle in his hand, his palms moving slowly down her back to her hips and down to the round of her ass and lifting her against him. She kissed him longer than the hello kiss had been planned to be. He let it run as long as she wanted to run it. When she finally stepped back her cheeks were faintly flushed and her mouth looked slightly mussed, which was a look she got.
+He put both hands on her then, properly, his palms moving slowly down her back to her hips and down to the round of her ass and lifting her against him. She kissed him longer than the hello kiss had been planned to be. He let it run as long as she wanted to run it. When she finally stepped back her cheeks were faintly flushed and her mouth looked slightly mussed, which was a look she got.
 
 "You're early," he said.
 
@@ -26,7 +26,7 @@ He set the kettle down. He put both hands on her then, properly, as he had not b
 
 "It's not due until Thursday."
 
-She turned away from him and moved through his kitchen as she did every time, with the small slow assessment she had been making since the first visit. She took in the white laminate counters she disliked, plain and cheap — he had watched her clock them the first night, and the second night, and the third, and had watched her never say anything about them. She took in the kitchen table he had built two winters ago, and the two chairs that flanked it, and the glass-fronted cabinet beyond it that he had built from quartersawn oak in his first year here.
+She turned away from him and moved through his kitchen as she did every time, with the slow assessment she had been making since the first visit. She took in the white laminate counters she disliked, plain and cheap — he had watched her clock them the first night, and the second night, and the third, and had watched her never say anything about them. She took in the kitchen table he had built two winters ago, and the two chairs that flanked it, and the glass-fronted cabinet beyond it that he had built from quartersawn oak in his first year here.
 
 She looked at the wood. She did not look at the wood the way she looked at her own things. She looked at it the way a person looks at something whose price tag she cannot read.
 
@@ -42,9 +42,9 @@ He set the bowl on the kitchen table.
 
 "I sliced this for you."
 
-She looked at the apple. He watched the thing behind her face that policed her relationship to food run through whatever calculation it was running. Apples were permitted. Apples were on her side of the line her mother had drawn for her at fourteen and the sorority had redrawn for her at eighteen. She came over to the table.
+She looked at the apple. He watched the thing behind her face that policed her relationship to food run through whatever calculation it was running. Apples were permitted. Her mother lived on egg whites and tofu, a thing she said with a knife in it, and her sorority took only girls built to the one scale; he had seen them. Apples were on the safe side of the line both had drawn. She came over to the table.
 
-She sat before he did, across from him at the little table. Her brows furrowed. She stood and gestured at his chair. He looked at her. She gestured again, more specifically, a slight rotational motion of the wrist while pointing with her index finger. He turned the chair so it faced sideways from the table, at right angles to it, and he sat down with his thighs together. 
+She sat before he did, across from him at the little table. Her brows drew together, and he watched her think better of it. She stood, and circled one finger in the air for him to turn the chair. He turned it away from the table and sat with his thighs together, where she wanted him. Being directed by her pleased him. He kept that off his face, mostly. 
 
 She straddled him.
 
