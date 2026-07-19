@@ -28,8 +28,8 @@ Dr. Marsh runs **two field sites**; Vee and Randi are assigned **separately**. L
 
 ## Relationship states across summer (pointers, owned elsewhere)
 
-- **Randi–Vee** — the painful unspoken desire, still unacknowledged; cracks widen, **no resolution before the reveal** (`meta-note-threesome-reveal.md`; `meta-plan-satc-tracks.md`). Candidate longing scenes vary by kind and stay deniable (a waterpark echoing Water Wings; a jog) — Vee's felt desire rendered through *her own body*, never a catalogue of Randi's (that sensual render is reserved to Pace's POV, the visual debt); third-party desirability stays **ambient** (no one crosses to her); each scene ends with Vee **alone with the feeling**. The goodbye-kiss staircase is still climbing — its **late/seam rungs land here**.
-- **Vee–Pace** — combustible: the commitment need re-erupts, **submerged in proxy fights** (the "what-are-we" grit surfacing at pressure points, never a spiral). The **Threesome Agreement** is extracted under this pressure; **The First Love** (the disclosure-staircase capstone) lands just before the reveal — maximum sympathy against maximum harm.
+- **Randi–Vee** — the painful unspoken desire, still unacknowledged; cracks widen, **no resolution before the reveal** (`meta-note-threesome-reveal.md`; `meta-plan-satc-tracks.md`). Candidate longing scenes vary by kind and stay deniable (a waterpark echoing {{Water Wings}}; a jog) — Vee's felt desire rendered through *her own body*, never a catalogue of Randi's (that sensual render is reserved to Pace's POV, the visual debt); third-party desirability stays **ambient** (no one crosses to her); each scene ends with Vee **alone with the feeling**. The goodbye-kiss staircase is still climbing — its **late/seam rungs land here**.
+- **Vee–Pace** — combustible: the commitment need re-erupts, **submerged in proxy fights** (the "what-are-we" grit surfacing at pressure points, never a spiral). The **Threesome Agreement** is extracted under this pressure; **{{The First Love}}** (the disclosure-staircase capstone) lands just before the reveal — maximum sympathy against maximum harm.
 
 ## Guards
 

@@ -58,7 +58,7 @@ Working-class means, working-class pride. Concrete object: a modest **Corolla** 
 
 **Academic year:** a junior — entering her third year by the fall the novel opens, two years already lived near campus.
 
-Family surface for Rock/backstory: Vee is from **Ohio**. Her parents grew up in the same city and met in church. Her mother is a nurse and defaults to **Vivienne**, carrying propriety/formality and the strict boundaries her mother sees; her father calls her **Vivienne** only when she is in trouble, otherwise **Vee**. She has one older brother, three years ahead, in the military and unmarried; they have no animosity but are not close.
+Family surface for {{Rock}}/backstory: Vee is from **Ohio**. Her parents grew up in the same city and met in church. Her mother is a nurse and defaults to **Vivienne**, carrying propriety/formality and the strict boundaries her mother sees; her father calls her **Vivienne** only when she is in trouble, otherwise **Vee**. She has one older brother, three years ahead, in the military and unmarried; they have no animosity but are not close.
 
 ---
 
@@ -154,7 +154,7 @@ Pace's love is so well-calibrated to Vee that she experiences his attention as t
 
 The threesome is the catastrophic instance. She thought she wanted it. Some of the wanting was the original appetite. Some was cultivated. After the kiss, she has reason to doubt the provenance of every yes she has given across the year. The reader does not know which moments to trust either. This is the mechanism that lets the kiss work on the reader the same way it works on Vee.
 
-**Micro-instance — she perceives Pace as taller than he is.** Vee carries an inflated mental image of his height: they've rarely stood together outdoors with other men to scale him against (mostly close, eye-to-eye), and feeling inflates stature. Her readings of him run high because she wants them to — the same epistemic vulnerability at small scale. Render only through behavior — the deflation when her heels put her over him in A Recognized Method — never as exposition.
+**Micro-instance — she perceives Pace as taller than he is.** Vee carries an inflated mental image of his height: they've rarely stood together outdoors with other men to scale him against (mostly close, eye-to-eye), and feeling inflates stature. Her readings of him run high because she wants them to — the same epistemic vulnerability at small scale. Render only through behavior — the deflation when her heels put her over him in {{A Recognized Method}} — never as exposition.
 
 ---
 
@@ -192,7 +192,7 @@ She does not take for her panties. The artifact stays.
 
 *(Unwritten; see `meta-plan-chronology.md` for plan. For Cassie's function throughout, see `meta-arch-bible.md`.)*
 
-After the leaving, Vee breaks down to Cassie — the telling structurally forced (Pace and Randi vanish from her life the same day, and Cassie is owed the why) and structurally earned (the far bookend of Toenails, where shame kept her silent; sovereignty now lets her speak). This is the load-bearing thesis-delivery scene. She recounts the facts freely — articulate about *what happened*; only the *cost* stays beyond words.
+After the leaving, Vee breaks down to Cassie — the telling structurally forced (Pace and Randi vanish from her life the same day, and Cassie is owed the why) and structurally earned (the far bookend of {{Toenails}}, where shame kept her silent; sovereignty now lets her speak). This is the load-bearing thesis-delivery scene. She recounts the facts freely — articulate about *what happened*; only the *cost* stays beyond words.
 
 Cassie speaks the era's grammar in convicted form after hearing Vee out: the best sex of your life, getting better every week, the most intense friendship of your life — *where do I sign up?* The line lands as conviction, not bromide. Cassie is right within the available frame. Almost any reflective woman would sign up. She has now heard the whole of it, the wreckage included, and would sign up anyway — not because the cost is small but because it cannot be known until it is lived. Her yes measures the cost; it does not dismiss it.
 

@@ -41,7 +41,7 @@
 
 ## Play, teasing, and humor
 
-Pace is not solemn about sex. He has a genuine sense of humor and a light, good-natured teasing register — banter, delight, the easy play of a man at home in his own wanting. It sits *alongside* the tenderness and the intensity, never instead of them; vary by kind (the book names *playful* as a heat-kind — Pool, Jitterbug, the Deep End run on it). Do not default every erotic beat to tender or psychologically-intense; let him joke, tease, grin.
+Pace is not solemn about sex. He has a genuine sense of humor and a light, good-natured teasing register — banter, delight, the easy play of a man at home in his own wanting. It sits *alongside* the tenderness and the intensity, never instead of them; vary by kind (the book names *playful* as a heat-kind — Pool, {{Jitterbug}}, the Deep End run on it). Do not default every erotic beat to tender or psychologically-intense; let him joke, tease, grin.
 
 **With Vee it is erotically load-bearing.** Her shame-loop makes teasing a direct line to arousal: teased about her body giving her away without her leave — the flush, the wet, the sound she didn't sign off on — the shame spikes, and the shame *is* the heat. His teasing isn't comic relief beside the scene; it's an instrument that plays her engine, and it undoes her *because* it's affectionate. Keep it good-natured — delighted, never mocking or cruel (cruelty curdles the tenderness and breaks the trust the whole appetite runs on).
 

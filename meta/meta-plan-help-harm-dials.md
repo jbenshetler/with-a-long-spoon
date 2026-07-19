@@ -214,7 +214,7 @@ When new operations are discovered in the writing, add them here. The list is ge
 
 ---
 
-**Vee's hidden masturbation in the bathroom after We Find Out.** Doubled shame — Pace's finger showing her her own arousal, then Randi's question doing in retelling what Pace's finger did in act. *Vee stops not-doing the masturbation* afterward. *Helps Vee in real time:* the wiring fires; the new register opens further; the pleasure is real. *Harms Vee in a register she cannot name:* she has been operated on by Randi without knowing the operation; the bathroom is the body's response to operations she does not have words for. *Same shame doubling. Same operation.* The masturbation is liberation and capitulation simultaneously.
+**Vee's hidden masturbation in the bathroom after {{We Find Out}}.** Doubled shame — Pace's finger showing her her own arousal, then Randi's question doing in retelling what Pace's finger did in act. *Vee stops not-doing the masturbation* afterward. *Helps Vee in real time:* the wiring fires; the new register opens further; the pleasure is real. *Harms Vee in a register she cannot name:* she has been operated on by Randi without knowing the operation; the bathroom is the body's response to operations she does not have words for. *Same shame doubling. Same operation.* The masturbation is liberation and capitulation simultaneously.
 
 *Craft notes.* The bathroom is the workspace where Vee's body processes operations that have not yet surfaced to her conscious naming. Render the bathroom as private space without sentimentalizing it. *Vee is not consciously processing the operation;* she is having the body's response.
 

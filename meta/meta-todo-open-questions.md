@@ -174,7 +174,7 @@ The thesis now supplements *given full range* with *when permitted to operate at
 
 ## 21. Containers rule — operational register vs. the deep aperture (RESOLVED)
 
-Folded into the canonical rule: the **deep (wound) aperture** opens only **alone**, in mirror or single room (the four apertures); a **managed surface close-third** is permitted in company that is **not** Vee or Pace (the sisters at Standards; the spring Social Price beats); the inviolable line is Randi's interior in the same room as Vee or Pace. Canonical wording: `meta-arch-bible.md` (containers rule) + chronology flag 15.
+Folded into the canonical rule: the **deep (wound) aperture** opens only **alone**, in mirror or single room (the four apertures); a **managed surface close-third** is permitted in company that is **not** Vee or Pace (the sisters at {{Standards}}; the spring Social Price beats); the inviolable line is Randi's interior in the same room as Vee or Pace. Canonical wording: `meta-arch-bible.md` (containers rule) + chronology flag 15.
 
 -----
 
@@ -184,10 +184,10 @@ Workshop session that **committed** the threesome end-game mechanics and **desig
 
 ## 22. The spring threesome-bridge — planning note created; chronology integration still pending (DISCUSS / DRAFT)
 
-Planning note: `meta-note-spring-satc-bridge.md`. It locks the clothing-loan thread, the Vee-reads-Randi spring planting, the revised Spring SATC grid, and the major ordering decisions. The bridge now runs **First Taste → First Taste aftermath → Pointing-Game variation → threesome agreement**. Pace does not supply or select a stranger for Vee; Pace and Randi already have a pre-existing understanding, and the first time Vee encounters the woman is during the threesome.
+Planning note: `meta-note-spring-satc-bridge.md`. It locks the clothing-loan thread, the Vee-reads-Randi spring planting, the revised Spring SATC grid, and the major ordering decisions. The bridge now runs **{{First Taste}} → {{First Taste}} aftermath → Pointing-Game variation → threesome agreement**. Pace does not supply or select a stranger for Vee; Pace and Randi already have a pre-existing understanding, and the first time Vee encounters the woman is during the threesome.
 
 - **Randi runs a Pointing-Game variation with Vee** (the centerpiece, new scene, not in any doc) — Randi "helps" Vee decide what kind of woman she wants, looking around, Vee giving feedback; Randi *is* the type. Reread: she auditions herself, hears Vee want her by proxy. Hosts Vee's suppressed-Randi cracks; feeds the night-cluster "material has become Randi" beat. Vee will masturbate after these sessions.
-- **Germination / agreement split** *(RESOLVED — see chronology):* the single Introduction is dissolved into the plant (*Vee Tells Pace About the Kiss,* ~early Feb), the conversion (*A Threesome, With You,* ~late Feb), spring germination, and the **agreement** (the yes + blindfold/surprise terms, early summer, Vol III). The fully-interactive escalation (*Pace in the room → Pace with the woman*) is **Randi-steered** — mechanism in `meta-note-threesome-reveal.md`; per-brunch staircase steps remain TBD at spring SATC drafting.
+- **Germination / agreement split** *(RESOLVED — see chronology):* the single Introduction is dissolved into the plant (*{{Vee Tells Pace About the Kiss}},* ~early Feb), the conversion (*{{A Threesome, With You}},* ~late Feb), spring germination, and the **agreement** (the yes + blindfold/surprise terms, early summer, Vol III). The fully-interactive escalation (*Pace in the room → Pace with the woman*) is **Randi-steered** — mechanism in `meta-note-threesome-reveal.md`; per-brunch staircase steps remain TBD at spring SATC drafting.
 - **Pace's arrangement = omission**: he never tells Vee the woman is Randi or that the understanding pre-exists Vee's agreement. From Vee's position, Pace handles the unknown third; in reality, Randi is already the woman.
 - **Lay the 16-week spring timeline** so the ramp distributes across spring and thins the crowded late-May→summer run. Discharges chronology Flags 16 & 19.
 
@@ -221,11 +221,11 @@ A research sub-agent auto-wrote `spring-satc-gap.md` into the project memory dir
 
 ## 26. Vee-tells-Pace beat + the Forbidden-Kiss motivation (PLACED — see chronology; one craft point open)
 
-Committed this session: because the Randi mixer-kiss is **not cheating** (`meta-condensed-on-her-floor.md` beat 9), Vee can bring it to Pace. NEW Pace/Vee beat — Vee tells Pace about the kiss; it turns hot, and Pace asks whether she's ever thought about being with another woman. This **motivates the Forbidden Kiss coated-kiss test** (taste-thread step 1), and the just-happened Randi kiss gives Vee's *"I'm not gay"* door-slam a concrete referent. Thematically powerful: the two tracks collide through Pace.
+Committed this session: because the Randi mixer-kiss is **not cheating** (`meta-condensed-on-her-floor.md` beat 9), Vee can bring it to Pace. NEW Pace/Vee beat — Vee tells Pace about the kiss; it turns hot, and Pace asks whether she's ever thought about being with another woman. This **motivates the {{Forbidden Kiss}} coated-kiss test** (taste-thread step 1), and the just-happened Randi kiss gives Vee's *"I'm not gay"* door-slam a concrete referent. Thematically powerful: the two tracks collide through Pace.
 
 Resolved (see chronology + `meta-condensed-vee-tells-pace-about-the-kiss.md`):
-- **Placement** — ~early Feb, right after On Her Floor and **before The Jar**, so Randi's control of the Pace-channel leaks.
-- **Merge vs. separate** — its own beat that motivates a still-**unannounced** Forbidden Kiss (coated kiss stays deniable per `meta-note-taste-thread.md` step 1 / `meta-note-forbidden-kiss.md`).
+- **Placement** — ~early Feb, right after {{On Her Floor}} and **before {{The Jar}}**, so Randi's control of the Pace-channel leaks.
+- **Merge vs. separate** — its own beat that motivates a still-**unannounced** {{Forbidden Kiss}} (coated kiss stays deniable per `meta-note-taste-thread.md` step 1 / `meta-note-forbidden-kiss.md`).
 
 Still open:
 - **Pace knows Randi intimately** (they're sleeping together). When Vee names *Randi* as the girl she kissed, what does Pace reveal/conceal? Charged; unstaged.
@@ -234,17 +234,17 @@ Still open:
 
 # Fall/Spring Restructure — Items Surfaced (Still Life re-home session)
 
-The restructure moved Barely Stings / Still Life / Gesso to spring and added two new November scenes (In His Hands, All the Time). The "adventure" coinage is now homed in Still Life's afterglow, single-sourced (`meta-note-still-life.md`). Remaining:
+The restructure moved {{Barely Stings}} / {{Still Life}} / {{Gesso}} to spring and added two new November scenes ({{In His Hands}}, {{All the Time}}). The "adventure" coinage is now homed in {{Still Life}}'s afterglow, single-sourced (`meta-note-still-life.md`). Remaining:
 
 ## 27. Spring cluster placement — late-January vs. February risers (DISCUSS)
 
-Barely Stings / Still Life / Gesso currently sit ~late January. Open whether to keep them there or shift into February among the On Top / Restrained risers. Authorial call; affects the spring ramp's density.
+{{Barely Stings}} / {{Still Life}} / {{Gesso}} currently sit ~late January. Open whether to keep them there or shift into February among the {{On Top}} / {{Restrained}} risers. Authorial call; affects the spring ramp's density.
 
 ## 28. Drafting queue — the two new November scenes + Still Life completion (DRAFT)
 
-- **In His Hands** (Pace/Vee bed scene, ~November) — architecture in `meta-note-in-his-hands.md`; prose unwritten. Carries the earliest sole-channel photo and the Sheri "she's alone" plant.
-- **All the Time** (SATC format-break, ~November) — architecture in `meta-note-all-the-time.md`; prose unwritten. Carries the anthro invite. The SATC title is provisional — the final should emerge from the draft.
-- **Still Life** — partial draft through the gesso runaway; photo → sex → afterglow unwritten. The afterglow lands the "adventure" coinage.
+- **{{In His Hands}}** (Pace/Vee bed scene, ~November) — architecture in `meta-note-in-his-hands.md`; prose unwritten. Carries the earliest sole-channel photo and the Sheri "she's alone" plant.
+- **{{All the Time}}** (SATC format-break, ~November) — architecture in `meta-note-all-the-time.md`; prose unwritten. Carries the anthro invite. The SATC title is provisional — the final should emerge from the draft.
+- **{{Still Life}}** — partial draft through the gesso runaway; photo → sex → afterglow unwritten. The afterglow lands the "adventure" coinage.
 
 -----
 
@@ -255,7 +255,7 @@ Barely Stings / Still Life / Gesso currently sit ~late January. Open whether to 
 ## 29. Prolepsis compression pass — line-level TODOs
 
 **porch-scene.md — coda after the break (L55–67): KEEP essentially intact** *(compression reversed after a dependency check)*
-The coda's forward-narration is **load-bearing plant, not thesis-y summary.** The reservoir line (L65: "there would be other things in it by then… her reliable-Pace model had to do small repair work") is the **only** on-page installation of the sand-in-the-gears accumulation, which the **Christmas fight (`believe-me.md`)** and the **spring scrunchie gaslight** harvest; the wound lines (L59 bus/body-surfacing; L63 "He had not said the sentence back."; L67 the figure retiring) carry Believe Me's engine ("Words are cheap, and you still won't spend them on me"). **All KEEP.**
+The coda's forward-narration is **load-bearing plant, not thesis-y summary.** The reservoir line (L65: "there would be other things in it by then… her reliable-Pace model had to do small repair work") is the **only** on-page installation of the sand-in-the-gears accumulation, which the **Christmas fight (`believe-me.md`)** and the **spring scrunchie gaslight** harvest; the wound lines (L59 bus/body-surfacing; L63 "He had not said the sentence back."; L67 the figure retiring) carry {{Believe Me}}'s engine ("Words are cheap, and you still won't spend them on me"). **All KEEP.**
 - [ ] **REVIEW (author, during the porch review cycle):** the pure fated-note "She would continue. She would love him." (L61) — the one line that reads as arc-summary rather than plant. Trim-or-keep is an author call at porch review; everything else in the coda stays.
 
 **substitution.md — closing coda (L271)** *(POV axis — primary)*

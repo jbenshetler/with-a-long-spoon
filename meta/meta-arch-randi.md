@@ -202,11 +202,11 @@ The gift and the wound are delivered by the same person in the same act. She lov
 
 The desire and the friendship are not rivals. The friendship is the medium the desire runs through; the aliveness Vee gives her is exactly what makes the wanting acute. The love deepens the desire — never blunts it, never merely cloaks it. And she pays for the friendship: befriending Vee costs her in the position-world she comes from, and she chooses to pay it.
 
-That the friendship is more than the operation shows in what Randi does when the plan asks nothing of it. She is first to the brunches, every time — early, waiting, the week bent around the hour. And she owns the friendship in public, where the sorority can see and it costs her: the smoothie shop, On Her Floor. Choosing Vee over her own standing is a price the operation never required her to pay, and she pays it.
+That the friendship is more than the operation shows in what Randi does when the plan asks nothing of it. She is first to the brunches, every time — early, waiting, the week bent around the hour. And she owns the friendship in public, where the sorority can see and it costs her: the smoothie shop, {{On Her Floor}}. Choosing Vee over her own standing is a price the operation never required her to pay, and she pays it.
 
-The love is most visible at Vee's lowest points. When she and Pace are in difficulty, Vee reaches for Randi — the morning after the CW Dance, raw from a jealousy she misfired at him (CW-Dance Debrief); the night her reach for Pace meets his cold and won't thaw it (My Friend Randi) — and Randi comes down the stairs fast, catches her, holds her, and does not hurry her out of it. Nothing in this is calculated: Randi *wants* to be the one Vee reaches for, and being reached for is part of what makes the lunches the thing she organizes her week around. It is the plainest on-page proof of the friendship's reality — and, the same act from the other side, the cold: each rough patch with Pace drives Vee deeper into Randi's orbit.
+The love is most visible at Vee's lowest points. When she and Pace are in difficulty, Vee reaches for Randi — the morning after the CW Dance, raw from a jealousy she misfired at him ({{CW-Dance Debrief}}); the night her reach for Pace meets his cold and won't thaw it ({{My Friend Randi}}) — and Randi comes down the stairs fast, catches her, holds her, and does not hurry her out of it. Nothing in this is calculated: Randi *wants* to be the one Vee reaches for, and being reached for is part of what makes the lunches the thing she organizes her week around. It is the plainest on-page proof of the friendship's reality — and, the same act from the other side, the cold: each rough patch with Pace drives Vee deeper into Randi's orbit.
 
-One thread of that cost is still to be developed: acting on the attraction *openly* would register, in the sorority, as a liability to her standing — an external status price, never interior shame (her desire is constitutional; see 🔒 THE NEED ENGINE). Dramatize via Brooke and the Social Price vignettes, not Fairytale. *(To refine.)*
+One thread of that cost is still to be developed: acting on the attraction *openly* would register, in the sorority, as a liability to her standing — an external status price, never interior shame (her desire is constitutional; see 🔒 THE NEED ENGINE). Dramatize via Brooke and the Social Price vignettes, not {{Fairytale}}. *(To refine.)*
 
 ---
 
@@ -226,7 +226,7 @@ She does not. She fixes her hair, turns off the light, and goes back to the bed 
 
 **The choice is not stated in words. The choice is enacted by the return.** The reader should feel it as a body-decision visible at the level of behavior — the way she fixes the hair, turns off the light, walks back to the bed without breaking stride.
 
-**POV (containers rule):** Rendered in Randi's POV — the second opening of the mirror aperture (Bench mirror → Fairytale mirror; installation → confirmation). No other camera exists: the proper man is a one-scene character, and the content is untellable to Vee — confessing the nothing confesses the comparison, which confesses the lunches are the real thing. Full rule in the Bible; chronology flag 15. Structural hinge: every scrunchie grain lands after this scene, so the reader enters the spring holding the nothing, and the choice already made.
+**POV (containers rule):** Rendered in Randi's POV — the second opening of the mirror aperture (Bench mirror → {{Fairytale}} mirror; installation → confirmation). No other camera exists: the proper man is a one-scene character, and the content is untellable to Vee — confessing the nothing confesses the comparison, which confesses the lunches are the real thing. Full rule in the Bible; chronology flag 15. Structural hinge: every scrunchie grain lands after this scene, so the reader enters the spring holding the nothing, and the choice already made.
 
 ---
 
@@ -236,9 +236,9 @@ Before the year, she lived inside smooth pleasantness and did not know it was un
 
 She will keep seeking. She will marry someone Pace-adjacent enough that her appetite can briefly route through him — and the appetite will dim, because the routing requires the substrate-friend and the lunch structure and the configuration she cannot reassemble. She will cultivate friendships intense enough to half-resemble what she had with Vee. Each approximation will be measured, in her body, against an apex she cannot reconstruct. Each measurement: *less than what I had.*
 
-**The seeking is her present condition, not a future trajectory.** At the novel's close she has already chosen it. The choosing happened at Fairytale. Render the closing beats so the reader feels her future has already started; she is not stepping into it from a stable present.
+**The seeking is her present condition, not a future trajectory.** At the novel's close she has already chosen it. The choosing happened at {{Fairytale}}. Render the closing beats so the reader feels her future has already started; she is not stepping into it from a stable present.
 
-This is her bargain position: *yes, with data.* Would she advance again? Yes. She would pay the loss of Vee every time, on smaller scales, with worse substrates, for the rest of her life, because the alternative is the *nothing* Fairytale confirmed. The yes is informed. She knows what advancing costs. She has seen what throttling costs. She has chosen. The future is the choice's elaboration.
+This is her bargain position: *yes, with data.* Would she advance again? Yes. She would pay the loss of Vee every time, on smaller scales, with worse substrates, for the rest of her life, because the alternative is the *nothing* {{Fairytale}} confirmed. The yes is informed. She knows what advancing costs. She has seen what throttling costs. She has chosen. The future is the choice's elaboration.
 
 ---
 
@@ -262,6 +262,6 @@ Both women have been given access to their own interiors by Pace and discovered 
 
 First-generation wealth, made on PPP loans during COVID across several businesses under a holding company he named for her — **Miranda Holdings, LLC**. Randi adores him and grew up proud of the money's story (the loans kept people employed). She does not know the truth: the companies took the loans and cut their non-executive workforces anyway. She finds out in `outlier.md`, building the visualization for the stats project — **her own hand producing the evidence**, her own county the outlier, marketing's faith in the persuasive picture turned on her.
 
-**Recoil, not acceleration.** The discovery is a wound, full stop — not a spur, and it does not need to convert into one: Randi's turn toward the plan is already motivated by existing spring scenes (On Her Floor, Vee Tells Randi About the Bench, Ignition Scalding). This beat carries none of that load.
+**Recoil, not acceleration.** The discovery is a wound, full stop — not a spur, and it does not need to convert into one: Randi's turn toward the plan is already motivated by existing spring scenes ({{On Her Floor}}, {{Vee Tells Randi About the Bench}}, {{Ignition Scalding}}). This beat carries none of that load.
 
 **Render disciplines.** Her reaction stays **reader-only** (Vee sees a hurt friend, never the operator). She covers with a blurred, genuine *"Cheating bastards"* and re-clamps one beat too fast. The resonance — a father who extracted under a benevolent cover story, a daughter who runs the same motion on Vee — is **never explained** (the PPP/Vee rationalization parallel, per the Bible's Global Craft Rules). That she is *marketing* is on-theme (making the true thing look how she needs it to) but never underlined.

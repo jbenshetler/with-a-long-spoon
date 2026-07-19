@@ -95,9 +95,9 @@ Randi leaves the bedroom, out into the hall and around the corner to it — not 
 Sink + **mirror**, tap, his **towel**, toilet. The door has a
 **lock**; Randi locking it mid-scene is marked unprecedented. A recurring,
 load-bearing small room (Vee uses it later too).
-- **Vee's top drawer** `[PLAN]` (canonical): gifted at The Top Drawer (after We Find Out) —
+- **Vee's top drawer** `[PLAN]` (canonical): gifted at {{The Top Drawer}} (after {{We Find Out}}) —
   he consolidated his things to a lower drawer; the top one holds her form of
-  scrunchies (deep green with white dots, chosen for her hair — gifted at We Find Out),
+  scrunchies (deep green with white dots, chosen for her hair — gifted at {{We Find Out}}),
   her pins, room to spare. **The drawer is hers; he never touches it** — the
   founding act is the only time his hand changes its contents. Her loose nest of
   entropy inside his precise house, and the man whose domestic compulsion adjusts
@@ -127,7 +127,7 @@ out through the **garage** (not yet drafted).
 **Forward** off the foyer; the room you cross to reach the sun porch. **One long wall of
 books** (the library wall). `[PLAN]` A working **fireplace** on the den side of the
 porch threshold; on cold porch nights it can throw heat and firelight from behind them
-without moving the scene out of the glass room. Where Pace waits during the Dress Pickup
+without moving the scene out of the glass room. Where Pace waits during the {{Dress Pickup}}
 try-on (`scenes/dress-pickup.md`).
 
 ### Sun porch `[PAGE]`
@@ -138,10 +138,10 @@ the woodshop); **The fitting plays here.** On the page (`scenes/dress-pickup.md`
 - A **long work / cutting table** (the burgundy gown was cut and built here).
 - A low **fitting pedestal** she stands on — the maker's fit-to-a-body, the same knack as
   the bench and the dress.
-- A **full-length mirror**, newly hung on the wall for the Dress Pickup; the pedestal set
+- A **full-length mirror**, newly hung on the wall for the {{Dress Pickup}}; the pedestal set
   in front of it.
 - The finished gown hung from the **lip of the window frame** for the reveal.
-- Light: both by day — the Fitting in flat, exposing afternoon light (nowhere to hide; load-bearing for the shame, the wet-spot has no shadow to sit in); the Dress Pickup gentler, the sun through the
+- Light: both by day — the Fitting in flat, exposing afternoon light (nowhere to hide; load-bearing for the shame, the wet-spot has no shadow to sit in); the {{Dress Pickup}} gentler, the sun through the
   silk.
 
 ## Atmosphere / constants `[PAGE]`
@@ -179,7 +179,7 @@ two people move through without calling out to each other.
 
 *The first house visit is now drafted (a full, Vee-requested tour, by day). These confirm/extend the room sections above.*
 
-- **Drive-up / façade** `[PAGE]`: ~20 min past town, pavement → gravel; the driveway a **narrow cut through a hill**, easy to miss (Vee overshoots and doubles back; GPS quits off the pavement — *his* directions are exact, she's the one bad with them). The house is **small and old — post-war, vinyl siding, composite roof**. Concrete parking pad; **his old white pickup** (planted at Leave No Trace, so she knows it here); a **two-car garage** (the woodshop), oversized for the little house — the tell from the drive. **Three steps to a covered stoop**; a **sconce** by the door (bulb dark under a cover by day); a **painted wood door with a single diamond pane** at eye height (he sees her through it, opens before she knocks).
+- **Drive-up / façade** `[PAGE]`: ~20 min past town, pavement → gravel; the driveway a **narrow cut through a hill**, easy to miss (Vee overshoots and doubles back; GPS quits off the pavement — *his* directions are exact, she's the one bad with them). The house is **small and old — post-war, vinyl siding, composite roof**. Concrete parking pad; **his old white pickup** (planted at {{Leave No Trace}}, so she knows it here); a **two-car garage** (the woodshop), oversized for the little house — the tell from the drive. **Three steps to a covered stoop**; a **sconce** by the door (bulb dark under a cover by day); a **painted wood door with a single diamond pane** at eye height (he sees her through it, opens before she knocks).
 - **The patent** `[PAGE]`: image reconstruction — **pulling the picture out of the noise, used in MRI / medical imaging** to run scans faster (less time in the machine for a sick, scared patient). He goes voluble in pure wonder; the money is incidental. *(Domain was undefined before; defined here.)*
 - **Foyer** `[PAGE]`: a **coat closet**; the **good shoes paired in the bottom** — the purpose-built pairs, *one right pair per thing he does* (she reads half the man off the closet floor).
 - **Kitchen** `[PAGE]`: **spare but purposeful** (rhymes with the shoes). An **old secondhand KitchenAid**, paint chipped. **Timeline note:** the *green tea kept for Vee* is a **later** accretion — **not yet stocked at the first visit**.

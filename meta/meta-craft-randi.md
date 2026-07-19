@@ -76,11 +76,11 @@ When rendering Vee's pleasure under Randi's attention: use the recognition/statu
 
 **Signature-phrase split — the two seducers never share a distinctive line.** An identical recognition/beholding phrase in both mouths smears the voices, so the *seeing*-register lines all belong to Pace and Randi keeps to her own:
 
-- ***"Look at you"* is Pace's** — his beholding beat (*Grace*: "Let me look at you here, in the light, while it's full on you"; *Vee on the Bench*: "Look at all of you, open like this").
-- ***"There you are" / "there she is"* is Pace's too** — his recognition-and-return beat (*Vee on the Bench*: "There you are. That's the same answer"; "There she is… Lifting for it"; the aftercare "There you are. You're alright"; *Still Life*). Both are the *seeing* register — perceiving/meeting the real her — which is Pace's by the reserved-vocabulary rule above.
+- ***"Look at you"* is Pace's** — his beholding beat (*{{Grace}}*: "Let me look at you here, in the light, while it's full on you"; *{{Vee on the Bench}}*: "Look at all of you, open like this").
+- ***"There you are" / "there she is"* is Pace's too** — his recognition-and-return beat (*{{Vee on the Bench}}*: "There you are. That's the same answer"; "There she is… Lifting for it"; the aftercare "There you are. You're alright"; *{{Still Life}}*). Both are the *seeing* register — perceiving/meeting the real her — which is Pace's by the reserved-vocabulary rule above.
 - **Randi uses neither.** Her recognition runs in the *status/belonging* register — endearment-forward greetings and the notice-and-name move (*"there's my girl," "look who it is," "look at that face," "gorgeous"*; the landed-point *"there it is"*) — conferring rank and admission, never *seeing*.
 
-The guard: **Pace owns the seeing-register lines; Randi never borrows them.** Incidental "look at you" from Cassie or Vee is tolerable (it doesn't blur the *pair*), and the cutting voice deliberately weaponizes Pace's phrase against Vee at *Grace* (*"look at you wanting it"*) — that echo is intended.
+The guard: **Pace owns the seeing-register lines; Randi never borrows them.** Incidental "look at you" from Cassie or Vee is tolerable (it doesn't blur the *pair*), and the cutting voice deliberately weaponizes Pace's phrase against Vee at *{{Grace}}* (*"look at you wanting it"*) — that echo is intended.
 
 **A signature, not a slogan.** Pace's phrases work by rarity — about one per scene; repeated too often they flatten into catchphrases. Randi's status register stays *various* — no single replacement catchphrase — so her warmth reads as range, not tic.
 
@@ -135,7 +135,7 @@ Petite (5'2"), built to the "proper" scale she maintains and grades other women 
 
 *On campus, when she is not performing* — Wednesday afternoon, chapter dinner, athleisure hours — she presents in social camouflage: Greek pastel quarter-zip, leggings, box-fresh trainers. The ponytail is constant; the costume varies by venue. The camouflage is still controlled, still correct, still exactly what the occasion calls for. The Art Deco grammar runs underneath it whether or not the full register is deployed.
 
-**The Fairytale mirror** is this grammar at the moment of its failure: the eyeliner holds because nothing reached her eyes, and she rebuilds the rest of the face exact, and there is no one behind it. The precision intact on the surface, nothing inside it. The face is doing its job. The job has stopped meaning anything.
+**The {{Fairytale}} mirror** is this grammar at the moment of its failure: the eyeliner holds because nothing reached her eyes, and she rebuilds the rest of the face exact, and there is no one behind it. The precision intact on the surface, nothing inside it. The face is doing its job. The job has stopped meaning anything.
 
 ---
 
@@ -214,6 +214,6 @@ Render Randi as the one who picks the venue for the lunches, positions herself i
 
 **Vee chooses at every gate — that is the anti-trope armor.** In every Randi/Vee scene, especially the physical ones, Vee names the choice, craves it in advance, and holds the shame as her own after (`on-her-floor`: *"she did not let go"*; the mirror pre-craving; the peeled thong). Randi supplies the conditions; Vee supplies the wanting. This keeps the sadism from reading as a queer predator working an ingenue, and it keeps it hot. Full mechanic: → `meta-plan-satc-tracks.md`, *Two-Perimeter / double agent against herself.*
 
-**Half-seeing, not perceiving at depth.** At Fairytale, she perceives that throttling produces nothing — that is what she sees. She does not perceive that advancing on the configuration will burn it through. The half-seeing is enough to be warned and not enough to be dissuaded. Render this as bodily knowledge of the alternative, not cognitive insight into her own appetite.
+**Half-seeing, not perceiving at depth.** At {{Fairytale}}, she perceives that throttling produces nothing — that is what she sees. She does not perceive that advancing on the configuration will burn it through. The half-seeing is enough to be warned and not enough to be dissuaded. Render this as bodily knowledge of the alternative, not cognitive insight into her own appetite.
 
 **She is tragic, not fated.** The wound did not drive her. She chose the channel. The choosing is what makes her tragic in the older sense: she saw enough of the alternative to know it was unlivable, and she returned to the plan anyway.
