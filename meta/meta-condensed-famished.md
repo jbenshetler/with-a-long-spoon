@@ -9,7 +9,7 @@ The first night is the discharge of the Fitting's deferred tension. After the Fi
 ## Key Beats
 
 **The quiet week / the text**
-- After the Fitting the week goes wordless; by Tuesday a first low anxiety (something that certain doesn't usually go silent)
+- After the Fitting the week goes quiet; he's not much for midweek contact and they're too new for his quiet to read, so it tells her nothing; by Tuesday a first low anxiety — not a break from pattern (there is none yet), but not knowing what he made of what she let show at the Fitting, or what comes next
 - Midweek the text, the morning he flies to Chicago: *"Dinner Friday?"* — three days at the conference, back for it; she answers yes and the days close to a point
 
 **The flannel night — the loop's first full pre-run, alone**
@@ -23,9 +23,10 @@ The first night is the discharge of the Fitting's deferred tension. After the Fi
 - The matching bra: "it would be silly to take the one and leave the other," so she buys the set — the thrift excuse laundering *matching for whom*, never said
 - On the way out, a bottle of frosted-plum nail polish, "without thinking too hard about why"
 
-**The toenails / the drive**
-- She leaves the toenails for Friday (fresh for him): that afternoon, hours before she leaves and the light still good, she paints them at her desk (one knee drawn up, foot on the chair), early enough they'll be dry and perfect; the frosted plum catches the light like the silk he held to her face — she notices, puts the connection away, comes back to it twice before it dries
-- Friday evening she drives out in ballet flats over her frosted-plum toenails, the green moved to the top of the drawer that morning; *told herself none of this meant anything in particular*
+**The toenails / dressing / the drive**
+- She leaves the toenails for Friday (fresh for him): that afternoon, hours before she leaves and the light still good, she paints them at her desk (one knee drawn up, foot on the chair), early enough they'll be dry and perfect; the frosted plum catches the light like the silk he held to her face — she looks away from it and looks again before it dries (the disavowal enacted in the eyes, never named as a "connection")
+- Dressing to leave, in the disavowal register (want vs. restraint): the bed fills with what she's tried and taken off; her own black pumps barely rate (too proper, too little); the *borrowed* black kitten heels (off a girl down the hall) hold her longer but are the real too-much — they'd say out loud the thing she won't; she wants to look good, not to look like she tried; lands on what's never failed her — a soft cream blouse (buttons front) and the black hip-zip skirt that does something for her, cut to give her legs; a nervous joke to the mirror (the skirt "like a short story," *kidding herself* — her humor-when-nervous tell, doubling as self-deception); the green already settled at the top of the drawer since morning (the one certain thing below, the surface the fretted part); steps into the ballet flats (frosted plum gone dark and hidden inside them)
+- Then she drives out; *told herself none of this meant anything in particular*
 
 **Arrival / kitchen**
 - He opens the door in a canvas apron over a dark henley, sleeves pushed to the elbows; the whole charged week reduces to a weak *"Hi"* — she can't find anything to say; he says *"Hi"* back and lets her in (no hello kiss; the first kiss is hers to give, at *"I never thanked you for the shirt"*)
@@ -102,7 +103,7 @@ The first night is the discharge of the Fitting's deferred tension. After the Fi
 
 > **The flannel.** She's slept in Pace's flannel since the hike; its smell fades with wear, not washing — she does not wash it before this night (that comes in the New Ordinary). By this week it's "gone thin," which sets up the bed beat's recognition: the sheets are the source behind the proxy she's been studying.
 
-> **Footwear.** Ballet flats on the first night — cute, deniable, in keeping with the disavowal; not heels. High heels are reserved for a later beat; do not put her in heels here.
+> **Footwear.** Ballet flats on the first night — cute, deniable, in keeping with the disavowal; not heels. High heels are reserved for a later beat; do not put her in heels here. She tries two elevated pairs and rejects both: her own black pumps (too proper/too little) and **black kitten heels borrowed from a girl down the hall** (too much). The borrow is a **dorm friend, not Randi** — the first Randi shoe loan is CW-Dance Debrief (~Oct 30, two weeks out) and "Randi installs heels later" is a planted staircase beat, so a Randi loan here would be anachronistic. She owns no appropriate date heels yet; rejecting the borrowed pair now sets up Randi's later installation.
 
 > **The scar:** inside of his thigh, close to the hip. Surgical, old. She asks with her finger and gets nothing verbal. It returns in a later chapter. Do not explain it here or in Toenails.
 
