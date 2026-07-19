@@ -166,7 +166,16 @@ Every scene-level decision can be tested against these.
 
 7. **Each carrier half-sees and chooses to advance.** Enough perception to be warned, not enough to be dissuaded. Render the half-seeing as a beat each moves through and past, not a moment of insight they then suppress.
 
-8. **The reader must both sympathize and assign responsibility — for every principal, never in equal measure.** If the reader does not understand *why* each character does what they do **and** hold each answerable for a share of what it costs, the novel fails: sympathy without responsibility makes them victims of structure, responsibility without sympathy makes them villains, and the book is neither. The shares are unequal and must stay unequal — Vee's complicity in her own seduction never lightens Pace's culpability for the deception, and holding her answerable for her wanting is not holding that she should have refused. This binds hardest on Vee, whose appetite for full aliveness is the one most reflective readers carry: do not place her at a distance the reader can feel safe from.
+8. **The reader must both sympathize and assign responsibility — for every principal, never in equal measure, and never from a safe distance.** If the reader does not understand *why* each character does what they do **and** hold each answerable for a share of what it costs, the novel fails: sympathy without responsibility makes them victims of structure, responsibility without sympathy makes them villains, and the book is neither. The shares are unequal and must stay unequal — Vee's complicity in her own seduction never lightens Pace's culpability for the deception, and holding her answerable for her wanting is not holding that she should have refused.
+
+   **Sympathy here means recognition, not exoneration.** The reader may judge a choice wrong or foolish and still have to feel it as human, believable, and *something they themselves might have done.* The failure mode is not only the villain; it is the **arm's-length** — the reader who can file *any* of the three under "a kind of person I am not." If even one principal can be held at a distance the reader feels safe from, the thesis fails, because the argument is that these appetites are the reader's own.
+
+   **The test — the reader's chair.** At the close, the reader should agonize over what they would have done in each seat:
+   - as **Randi** — would you have told Vee you loved her and wanted to be her lover, knowing the telling risked the friendship itself, and the lunches that were the only aliveness you had?
+   - as **Pace** — would you have told Vee about the pointing game and how it started, and risked losing her, to be honest?
+   - as **Vee** — would you have refused the willful blindness, knowing it costs you either the best love or the best friendship of your life?
+
+   If any of the three is a question with an easy answer — if the reader is sure they'd have done better — that character has been placed too far from the reader's chair. This binds hardest on Vee, whose appetite for full aliveness is the one most reflective readers carry.
 
 9. **The trade was worth it once, Vee will not take it again, and she knows what she is declining.** All three halves required: the goods of the year at full force; the no as equipment working, not trauma; the hunger the no commits her to. If the prose tilts toward *she should have refused in advance,* toward *the no is damage,* or toward *she'll find someone better* — the argument collapses. There is no free lunch.
 

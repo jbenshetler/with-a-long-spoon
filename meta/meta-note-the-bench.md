@@ -1,11 +1,6 @@
 ## The naming device & the humanization rules (load-bearing — read before any edit)
 
-**Why this outranks craft.** Randi must stay *humanized* on the page or the book loses the reader's sympathy for her — and that sympathy is load-bearing for the whole thesis. The novel only works if the reader can *see why* each character makes the choices they make (comprehension, not endorsement). Target end-state: at the close, the reader agonizes over what they'd have done in each character's place —
-- as **Randi**, would you have told Vee you loved her and wanted to be her lover?
-- as **Pace**, would you have told Vee about the pointing game and how it started — and risked losing her — to be honest?
-- as **Vee**, would you have refused the willful blindness, knowing it costs you either the best love or the best friendship of your life?
-
-If a reader can't feel the pull of all three dilemmas, the thesis falls flat. Every rendering choice in this chapter (the origin of Randi's wound) is judged against that.
+**Why this outranks craft.** Randi must stay *humanized* on the page or the book loses the reader's sympathy for her — and that sympathy is load-bearing for the whole thesis. The novel only works if the reader can *see why* each character makes the choices they make (comprehension, not endorsement) and can never hold any of the three at arm's length. The book-wide statement of this — the recognition-not-exoneration rule and the three-seat "reader's chair" test — lives in [[meta-thesis]] Working Rule 8; it is the bar every rendering choice in this chapter (the origin of Randi's wound) is judged against.
 
 **The naming device (current draft).** Randi's name is withheld from the prose entirely until Pace names her at the break — *"There you are"* (unnamed) → *"There you are, Randi."* Pace, by contrast, is named early, in her mouth, in the kitchen (*"…right after chapter dinner, Pace."*). The asymmetry is the point: he's open (leaves the door unlocked, named at once); she's sealed (deadbolts behind her, "last name unknown to her own sorority sisters"), named only when he reaches the self under the performance. The withheld name is *her* self-concealment — never the narrative's failure to see her.
 
