@@ -20,7 +20,7 @@ He set the kettle down. He put both hands on her then, properly, as he had not b
 
 "You're early," he said.
 
-"I left right after chapter dinner. I told Brooke I had a paper."
+"I left right after chapter dinner, Pace. I told Brooke I had a paper."
 
 "Do you?"
 
@@ -390,7 +390,7 @@ She did not say anything for a long moment. The breathing he could hear from her
 
 "Take your time," he said.
 
-She took her time. He could see, in the small movements of her face which was at the low point and turned sideways now, that she was trying to find the surface she could not find. The surface had a script for this. The script said you turned the heat up, you pouted, you made him want you so badly he gave you what you wanted as proof of his desire. The script was for the *wanted* position. Randi was excellent at the wanted position. She had spent her whole adult life there.
+She took her time. He could see, in the small movements of her face which was at the low point and turned sideways now, that she was trying to find the surface she could not find. The surface had a script for this. The script said you turned the heat up, you pouted, you made him want you so badly he gave you what you wanted as proof of his desire. The script was for the *wanted* position. She was excellent at the wanted position. She had spent her whole adult life there.
 
 The bench was not the wanted position. The bench was not even the wanting position. The bench was the needing position — something required that you could not supply yourself.
 
@@ -418,11 +418,11 @@ She did not answer.
 
 "Brooke," he said, "for instance. What would Brooke think."
 
-He felt the small jolt go through her body when he named the specific name. The naming was important. The naming made the imagined audience specific. Brooke was the president of the chapter; Brooke was the one Randi had told the lie about a paper to before coming over. He stroked her cheek with his thumb. He did not stop looking at her, and she did not, he could see, want him to stop looking at her.
+He felt the small jolt go through her body when he named the specific name. The naming was important. The naming made the imagined audience specific. Brooke was the president of the chapter; Brooke was the one she had told the lie about a paper to before coming over. He stroked her cheek with his thumb. He did not stop looking at her, and she did not, he could see, want him to stop looking at her.
 
 "What would she think, baby," he said. The endearment was the first he had used with her all night.
 
-A sound came out of Randi that he had never heard come out of her. It was small. It was raw. It was nothing like any sound she had ever made in his presence. It was the sound of a woman in a position she had not consented to even though she had consented to the position. He held very still. He kept his hand on her cheek. He waited.
+A sound came out of her that he had never heard before. It was small. It was raw. It was nothing like any sound she had ever made in his presence. It was the sound of a woman in a position she had not consented to even though she had consented to the position. He held very still. He kept his hand on her cheek. He waited.
 
 "I — " she said.
 
