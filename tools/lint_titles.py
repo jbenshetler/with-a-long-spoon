@@ -59,6 +59,14 @@ ALIASES = {
 }
 
 
+def _rel(p: Path):
+    """Display path relative to the repo when possible, else as given."""
+    try:
+        return p.resolve().relative_to(REPO)
+    except ValueError:
+        return p
+
+
 def canonical(raw: str) -> str:
     """The title as it is referenced: drop a trailing (parenthetical) and any
     trailing `slot` marker, then collapse surrounding whitespace."""
@@ -137,7 +145,7 @@ def main():
         return
 
     if args.paths:
-        files = [Path(p) for p in args.paths]
+        files = [Path(p).resolve() for p in args.paths]
     elif args.all:
         files = sorted((REPO / "meta").glob("*.md"))
     else:
@@ -147,12 +155,12 @@ def main():
         for lineno, title, ok in check_file(f, valid):
             if not ok:
                 bad += 1
-                print(f"{f.relative_to(REPO)}:{lineno}: unknown chapter "
+                print(f"{_rel(f)}:{lineno}: unknown chapter "
                       + "{{" + title + "}}", file=sys.stderr)
     if args.bare:
         for f in files:
             for lineno, title in find_bare(f, chapters):
-                print(f"{f.relative_to(REPO)}:{lineno}: [advisory] un-braced "
+                print(f"{_rel(f)}:{lineno}: [advisory] un-braced "
                       f"title '{title}'")
 
     if bad:
