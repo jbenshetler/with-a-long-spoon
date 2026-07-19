@@ -48,7 +48,7 @@ She sat before he did, across from him at the little table. Her brows drew toget
 
 She straddled him.
 
-She did it as she did everything in his house lately, with the concentration of a woman in a position she had not been in before and was figuring out — her knees bracketing his hips on the chair, her weight settling slowly onto his thighs, her body upright facing him with her hands coming to rest flat against his chest. She made the small adjustment that put her where she wanted to be. He felt her weight on him. He kept his hands at her hips, lightly, not directing.
+She did it as she did everything in his house lately, with the concentration of a woman doing the thing her body knew how to do and finding it had stopped being the thing she was doing — her knees bracketing his hips on the chair, her weight settling slowly onto his thighs, her body upright facing him with her hands coming to rest flat against his chest. She made the small adjustment that put her where she wanted to be. He felt her weight on him. He kept his hands at her hips, lightly, not directing.
 
 She looked at him. She slid her hands up over the front of his shirt — the loose linen one he wore around the house, which was nothing like the tight fitted button-downs the boys in her register wore, and which she had begun to like the feel of and to find places to touch him through — and she ran her palms along the planes of him under it. The chest. The shoulders. The arms. Slowly, with the small marveling concentration that came over her whenever she put her hands on his body.
 
