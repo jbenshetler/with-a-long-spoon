@@ -1,6 +1,6 @@
 # Note — See You Later (the first choosing; the cheap coin overvalued)
 
-*Scene · Draft complete (first revision) · morning after The Pointing Game, under a day later · Vee POV · Vee + Randi + Cassie · companion to `meta-condensed-see-you-later.md`*
+*Scene · Draft complete (first revision) · morning after {{The Pointing Game}}, under a day later · Vee POV · Vee + Randi + Cassie · companion to `meta-condensed-see-you-later.md`*
 
 ## The governing move: enact, don't narrate
 
@@ -41,7 +41,7 @@ General rules this scene surfaced — now homed at their single sources, applied
 
 ## Continuity anchor
 
-Morning after the Tue collision (The Pointing Game), under 24 hours later; stats is MWF, so the professor's next class is Friday. The compression is a *feature* — it makes the seduction's forward lean pressing. (Absolute date: chronology.)
+Morning after the Tue collision ({{The Pointing Game}}), under 24 hours later; stats is MWF, so the professor's next class is Friday. The compression is a *feature* — it makes the seduction's forward lean pressing. (Absolute date: chronology.)
 
 ## Open watch-items — considered, left standing
 

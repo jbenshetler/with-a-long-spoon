@@ -94,13 +94,13 @@ The first night is the discharge of the Fitting's deferred tension. After the Fi
 
 > **Timeline.** Six days separate the Fitting from the dinner. Pace flies to a three-day University of Chicago conference midweek and sends *"Dinner Friday?"* the morning he leaves, returning in time for it — so the front of the week is quiet (a first low anxiety) and the sharp, dated anticipation is only the last couple of days. He mentioned the travel on the mountain (the hiking rainstorm) as logistics, not a credential.
 
-> **The dress is not part of this scene.** Dress Pickup is a separate event that precedes it. She doesn't come to retrieve the dress; he doesn't offer it as a pretext. The invitation stands alone.
+> **The dress is not part of this scene.** {{Dress Pickup}} is a separate event that precedes it. She doesn't come to retrieve the dress; he doesn't offer it as a pretext. The invitation stands alone.
 
 > **The nail color.** Frosted plum — it catches the light like the silk he chose for her dress; connection noticed by her, not named. Green is her interior color (the panties and matching bra); the plum is exterior / his (the silk). Do not conflate. Both are bought this week under a reason that isn't the reason.
 
 > **The green pair is NEW — two-pair arc, do not reconcile to one.** The panties at the Fitting (`a-round.md`) are *pale, shining* satin — her "one good pair" *then*. The deep-green satin here is a **different, newly-bought pair**, its purchase now dramatized in the mall beat (with the matching bra bought as a set). After being truly seen on the riser, she begins wearing her interior color (green) outward — externalized in an object, never explained on the page (rhymes with the frosted-plum polish she also buys "without thinking too hard about why"). A future editor may want to make the Fitting and first-night panties one garment — **do not.** The pale→green change is a character beat. (The "crystal strings" at the reveal are her fluids, not fabric — a tableau echo of his face at the Fitting, not a carried-over garment.)
 
-> **The wine.** Open before she arrives; he pours her a glass. No wine is drunk before the sex — hers held untouched, his waiting on the counter, both drunk only after (*better for having waited*, as in New Ordinary). The consent line rests on that abstention, not on what the wine is "for," so the staged bottle is fine; the *two glasses poured out* in My Friend Randi's retell is consistent — poured, not drunk.
+> **The wine.** Open before she arrives; he pours her a glass. No wine is drunk before the sex — hers held untouched, his waiting on the counter, both drunk only after (*better for having waited*, as in New Ordinary). The consent line rests on that abstention, not on what the wine is "for," so the staged bottle is fine; the *two glasses poured out* in {{My Friend Randi}}'s retell is consistent — poured, not drunk.
 
 > **The flannel.** She's slept in Pace's flannel since the hike; its smell fades with wear, not washing — she does not wash it before this night (that comes in the New Ordinary). By this week it's "gone thin," which sets up the bed beat's recognition: the sheets are the source behind the proxy she's been studying.
 
@@ -124,7 +124,7 @@ The first night is the discharge of the Fitting's deferred tension. After the Fi
 - **The flannel night** — first solitary firing of the loop; the disavowal it runs on is the same one Randi later names
 - **The green panties / matching bra** — her interior color, chosen for herself alone (the *matching for whom* never said); the **green sheets** beat later (she gifts him green sheets)
 - **The scar** (inside thigh, surgical) — filed without a frame; returns later
-- **The no-management-gap** — closes completely here for the first time; reopens the moment she narrates the night to Randi at the Fed; that reopening is Randi's opening
+- **The no-management-gap** — closes completely here for the first time; reopens the moment she narrates the night to Randi at the {{Fed}}; that reopening is Randi's opening
 - **Footwear staircase** — ballet flats now; heels held for later
 - **The trade** — he has the panties; a kept thing, not a collection; both know; neither mentions it again
-- **Toenails** — Vee will try to tell Cassie and find the body of this night has no channel to her; the friendship's first withheld thing; the vacancy Randi fills
+- **{{Toenails}}** — Vee will try to tell Cassie and find the body of this night has no channel to her; the friendship's first withheld thing; the vacancy Randi fills

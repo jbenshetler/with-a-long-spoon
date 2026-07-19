@@ -27,7 +27,7 @@ Afterglow. They'd paused mid-passion to carefully hang the dress; Pace sleeps (u
 ## Beats
 
 - **Mid-week slot** — Pace has given Vee a Wednesday; not a transfer from Randi (weeknights were never hers) but his feeling overflowing the weekend plan — a quiet tell of the greedy early phase. [cadence ref: `meta-arch-randi.md`, The Cadence]
-- **No heels** — she owns none yet (Randi installs that later); the hem pools, she rises onto her toes for the line the dress wants — plants A Recognized Method's heels payoff.
+- **No heels** — she owns none yet (Randi installs that later); the hem pools, she rises onto her toes for the line the dress wants — plants {{A Recognized Method}}'s heels payoff.
 
 ## On reread
 

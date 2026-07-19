@@ -8,7 +8,7 @@ A two-panel scene collapsing former scenes 4, 5, and 6. Panel one (the lecture) 
 
 ## Key Beats — Panel One (The Lecture)
 
-Vee's POV. Vee got there early with Cassie, deciding not to watch the door; she met Randi the day before (the engineered collision in The Pointing Game, less than a day earlier) and has already worn a groove running *"we should sit together"* both ways. Randi enters from the back, sidesteps in lit-up, drops into the aisle seat so Vee is *between* her and Cassie, squeezes Vee's forearm, lands one specific affirmation (*the right pen — I love that*).
+Vee's POV. Vee got there early with Cassie, deciding not to watch the door; she met Randi the day before (the engineered collision in {{The Pointing Game}}, less than a day earlier) and has already worn a groove running *"we should sit together"* both ways. Randi enters from the back, sidesteps in lit-up, drops into the aisle seat so Vee is *between* her and Cassie, squeezes Vee's forearm, lands one specific affirmation (*the right pen — I love that*).
 
 **The name-bit fires on Cassie** (first contact): Randi's practiced *"not Randy, my parents weren't trying to be funny"* routine, built to be answered with the other person's own name-bit — and Cassie declines it, returns one flat word, *"Cassie,"* leaving the routine's open door unwalked-through. Vee smooths the half-second hitch (*"Cassie says about four words a day"*) and reads the flatness as dry humor.
 
@@ -31,9 +31,9 @@ Parting on the sidewalk: a hug, the cold-citrus smell, a hand flat between her s
 ## Beat Map
 
 - First on-page Randi/Vee proximity; calculus-based stats as the book's mirror; **unequal-exchange pattern** (Vee gives attention/competence, gets warmth-as-status) — **panel one.**
-- First one-on-one — **panel two** (same day as the class, straight after the lecture). The **name exchange**: Randi runs it on **Cassie**, who flat-returns, exposing it as a routine. The **goodbye-kiss thread** opens as a **hug** ("Love you, girl"), the staircase's rung zero; the first *kiss* lands at the SATC brunch, How It's Done. "Grenade-and-walk, filed as a sorority thing" lives as **"see you later" + the cheap-coin "love you, girl"** Vee over-values.
+- First one-on-one — **panel two** (same day as the class, straight after the lecture). The **name exchange**: Randi runs it on **Cassie**, who flat-returns, exposing it as a routine. The **goodbye-kiss thread** opens as a **hug** ("Love you, girl"), the staircase's rung zero; the first *kiss* lands at the SATC brunch, {{How It's Done}}. "Grenade-and-walk, filed as a sorority thing" lives as **"see you later" + the cheap-coin "love you, girl"** Vee over-values.
 - **Cassie's Warning** — delivered live as **"Goodbye, Vee,"** the register-wrong word, dismissed in real time.
 
 ## Revision Notes
 
-> **Chi Latte vs. Wilson Street — keep distinct.** Chi Latte (the Greek-heavy, yellow, Draper Street shop) is the Randi venue, introduced here. Wilson Street stays the meet-cute venue (Substitution) and the quiet study spot from Standards. Two separate places.
+> **Chi Latte vs. Wilson Street — keep distinct.** Chi Latte (the Greek-heavy, yellow, Draper Street shop) is the Randi venue, introduced here. Wilson Street stays the meet-cute venue ({{Substitution}}) and the quiet study spot from {{Standards}}. Two separate places.

@@ -1,6 +1,6 @@
 # Note — My Friend Randi (the pivot of the reconciliation day)
 
-*Scene · Architecture complete, prose not drafted · ~Fri Jan 22, afternoon · Randi's single · Vee POV · SATC/confidante track · the middle beat of the reconciliation day (The Stranger → **My Friend Randi** → Nothing Underneath). Umbrella for the day: `meta-note-first-weekend-back.md`. Track doc: `meta-plan-satc-tracks.md`.*
+*Scene · Architecture complete, prose not drafted · ~Fri Jan 22, afternoon · Randi's single · Vee POV · SATC/confidante track · the middle beat of the reconciliation day ({{The Stranger}} → **{{My Friend Randi}}** → {{Nothing Underneath}}). Umbrella for the day: `meta-note-first-weekend-back.md`. Track doc: `meta-plan-satc-tracks.md`.*
 
 The title **is** the irony: the real other woman, called *friend* — the one Vee runs to, the one who sends her back. Sharpen it, never wink at it.
 
@@ -20,7 +20,7 @@ Three jobs, all warm on the first read:
 
 ## The Sheri-vent — soothed, not solved
 
-- Randi almost certainly **hasn't met Sheri** (different worlds). So she cannot defuse the fear with the fact (*she's a lesbian*) — she soothes it **emotionally**, pure management, no information. Better: it keeps the worry **live** (balmed, not resolved), so it reactivates on Sheri-proximity and dissolves **experientially at Another Round**. Two-track handling of one anxiety — verbal here, bodily there.
+- Randi almost certainly **hasn't met Sheri** (different worlds). So she cannot defuse the fear with the fact (*she's a lesbian*) — she soothes it **emotionally**, pure management, no information. Better: it keeps the worry **live** (balmed, not resolved), so it reactivates on Sheri-proximity and dissolves **experientially at {{Another Round}}**. Two-track handling of one anxiety — verbal here, bodily there.
 - The reframe is **appetite-in-velvet** (`meta-plan-satc-tracks.md`): Vee's fear received as proof of caring, installed as a permanent condition of loving Pace — the more she loves, the more she'll worry, the more she'll need Randi's reassurance. Warm on the surface; a dependency Randi controls, on reread.
 
 ## The physical — a new vector, not a new kiss-rung
@@ -37,15 +37,15 @@ The goodbye-kiss staircase does **not** escalate here: the **usual settled kiss*
 
 - **Format-break, not a brunch.** A reunion wants intimacy: **Randi's single.** Breaks the brunch monopoly (the track wants this) and suits a confidence over a public seated apparatus.
 - **No bathroom beat.** The shame here is **relational** (jealousy, not-enough-ness), not erotic/transgressive — the shame-arousal mechanism does not fire. This is a warmth/refuge scene, not an apparatus scene.
-- **Vee POV; Randi opaque.** No interior crack. Randi's single is the **setting**, not an aperture — her interior stays locked to the containers rule (flag 15; the next aperture is Spring Inversion, mid-Feb). The reader infers everything from Vee's reading of Randi's warmth and belief in her; whether Randi is moved or filing is never given.
+- **Vee POV; Randi opaque.** No interior crack. Randi's single is the **setting**, not an aperture — her interior stays locked to the containers rule (flag 15; the next aperture is {{Spring Inversion}}, mid-Feb). The reader infers everything from Vee's reading of Randi's warmth and belief in her; whether Randi is moved or filing is never given.
 - **Double register — every line passes both tests, no word changing.** Worked example — Vee: *"I kept picturing him with her the whole break."* Randi, warm: *"Of course you did — that's how you know he's yours to lose."* First read: a friend normalizing heartbreak. Reread: she installs the worry as permanent, the dependency deepening. Aim every line there.
 
 ## Guards
 
 - **Earn the dark by being light.** A genuinely warm reunion — two people who missed each other, one falling apart, the other catching her. Cut any signal that Randi is sinister or that the advice is anything but love. Suspicion kills the scene; the cold is pattern-and-reread only.
-- **Preserve Vee's agency.** Randi supplies the **method** (the coat); the **surrender** — actually setting the word down and going — stays **Vee's**, so Nothing Underneath still reads as her brave choice, not Randi's puppetry. Randi tips the scale; Vee steps off it.
+- **Preserve Vee's agency.** Randi supplies the **method** (the coat); the **surrender** — actually setting the word down and going — stays **Vee's**, so {{Nothing Underneath}} still reads as her brave choice, not Randi's puppetry. Randi tips the scale; Vee steps off it.
 - **Keep the internal setting-down unnarrated.** The counsel is scene'd; Vee's renunciation of the demand is not. She never thinks *I'll stop needing to be named* — body before mind, the reader infers the trade.
-- **Don't pre-spend Another Round.** Randi soothes the Sheri fear without the fact; the experiential dissolve (the proprietary brace, `meta-note-another-round.md`) belongs there.
+- **Don't pre-spend {{Another Round}}.** Randi soothes the Sheri fear without the fact; the experiential dissolve (the proprietary brace, `meta-note-another-round.md`) belongs there.
 - **The CW-Dance rhyme.** Vee running to Randi in crisis is established behavior (the CW-Dance debrief). Lean on it lightly — every Pace-crisis drives her deeper into Randi's orbit; that pattern *is* the cold.
 
 ## Threads & seeds
@@ -53,11 +53,11 @@ The goodbye-kiss staircase does **not** escalate here: the **usual settled kiss*
 - **Scent channel:** opens here (unnamed), reader-side parallel to Pace; the perfume-name question is the later payoff (window open through March).
 - **Goodbye-kiss staircase:** stays at **settling** — no new rung; the escalation is the hug's duration and the scent, not the kiss.
 - **The confidante bond:** strengthened for real (the refuge, the great advice) — the warmth that makes the cold land on reread.
-- **Fills the thin January SATC gap** (`meta-plan-satc-tracks.md`): an early-spring confidante beat where the track otherwise sags. Give it air from *On Her Floor* (also late-Jan Randi/Vee, but physical-signature/FB register, not confidante) — different kinds, don't blur.
+- **Fills the thin January SATC gap** (`meta-plan-satc-tracks.md`): an early-spring confidante beat where the track otherwise sags. Give it air from *{{On Her Floor}}* (also late-Jan Randi/Vee, but physical-signature/FB register, not confidante) — different kinds, don't blur.
 
 ## Continuity guards
 
-- **Same day as The Stranger (morning) and Nothing Underneath (night)** — the afternoon pivot; ~Fri Jan 22.
+- **Same day as {{The Stranger}} (morning) and {{Nothing Underneath}} (night)** — the afternoon pivot; ~Fri Jan 22.
 - **The coat is Randi's idea** — the door-two costume traces here; the umbrella note records the fingerprint.
 - **Randi hasn't met Sheri** — she can't hold the fact; soothe emotionally only.
-- **Precedes Among Friends and Another Round** (both "soon after"): the confidante bond and the scent vector are already live when Randi crosses into Vee's world at Among Friends and when Vee crosses into Pace's at Another Round.
+- **Precedes {{Among Friends}} and {{Another Round}}** (both "soon after"): the confidante bond and the scent vector are already live when Randi crosses into Vee's world at {{Among Friends}} and when Vee crosses into Pace's at {{Another Round}}.

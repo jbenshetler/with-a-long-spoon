@@ -10,4 +10,4 @@
 - *"What happened to the pale sorority chick?"* / *"That's not finished."* She files it.
 - *"Two of them at once… If that's not already complicated, it will be."* He doesn't answer; she wasn't waiting for one. They ride on side by side. *"That was the whole of it."*
 
-**Planted facts a later scene leans on:** Sheri is tiny (shown, not stated). Vee's tallness/lush build is established earlier in the pointing game, so the size-mismatch joke lands. (Vee-vs-Pace near-parity is intentionally left unplanted — reserved for *A Recognized Method*'s heel-inversion surprise.)
+**Planted facts a later scene leans on:** Sheri is tiny (shown, not stated). Vee's tallness/lush build is established earlier in the pointing game, so the size-mismatch joke lands. (Vee-vs-Pace near-parity is intentionally left unplanted — reserved for *{{A Recognized Method}}*'s heel-inversion surprise.)

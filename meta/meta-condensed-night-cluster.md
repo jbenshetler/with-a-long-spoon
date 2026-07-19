@@ -26,7 +26,7 @@ A handful of short chapters dramatizing the Telling operating on Vee night after
 
 ## Placement
 
-Sprinkled mid-to-late spring, interleaved between the staged escalations (Restrained, Cabin, Pool, Secret Plans) so the rising solo line runs between the peaks — the escalation is not only in the big scenes but in the nights between them.
+Sprinkled mid-to-late spring, interleaved between the staged escalations ({{Restrained}}, Cabin, Pool, Secret Plans) so the rising solo line runs between the peaks — the escalation is not only in the big scenes but in the nights between them.
 
 ## Craft guards
 

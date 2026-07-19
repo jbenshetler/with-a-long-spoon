@@ -2,7 +2,7 @@
 
 *SCENE · Draft complete · `recognized-method.md` · the apology visit the weekend after the CW Dance → the next afternoon*
 
-Her sassy; one playful swat; the look crosses her face; she immediately initiates sex. Swat → look → sex, nobody names it. Plants the *what was that look?* hook. Prerequisite for We Find Out.
+Her sassy; one playful swat; the look crosses her face; she immediately initiates sex. Swat → look → sex, nobody names it. Plants the *what was that look?* hook. Prerequisite for {{We Find Out}}.
 
 **The arrival — the height-inversion beat.** She comes Saturday evening dressed up: LBD, scarf, pearls, Randi's loaned mid-heels (open-toed/strappy — she changes into them in the car on arrival, the slipper before the ball). The heels put 5'8" Vee over 5'9" Pace, and because she carries him as taller than he is (Vee arch. — the perceived-height epistemics), the inversion takes the air out of her at the exact moment she needs the most bravery. She bumbles, half-apologizes for being tall (not in those words), reaches to take the shoes off. Pace defuses:
 

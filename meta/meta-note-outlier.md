@@ -21,7 +21,7 @@ Auto-truncated label from **Randi's own** visualization (an LLC has no ticker) �
 She knows *Miranda Holdings* is her father's (named for her); she did **not** know it was the county's worst PPP-to-layoffs offender. The not-knowing is canon; only the target moves. Her advocacy (prove PPP saved jobs) is what drives her own hand to the dot that guts her — marketing's faith in the persuasive picture, turned on her.
 
 ## Register / discipline
-Earn-the-dark-by-being-light: panel one buoyant, panel two genuinely warm (collaborative pleasure) before the drop. Underwrite the flinch and the sick — small, bodily, deniable; the restraint is the power. No editorializing, no telegraphing; the closing outlier-image carries the reader-ahead, not the narrator. Diptych rhymes with the *See You Later* diptych (stats-class panel → venue panel, each carrying a Cassie beat): that one buried her withdrawn warning, this one delivers her unwitting true verdict.
+Earn-the-dark-by-being-light: panel one buoyant, panel two genuinely warm (collaborative pleasure) before the drop. Underwrite the flinch and the sick — small, bodily, deniable; the restraint is the power. No editorializing, no telegraphing; the closing outlier-image carries the reader-ahead, not the narrator. Diptych rhymes with the *{{See You Later}}* diptych (stats-class panel → venue panel, each carrying a Cassie beat): that one buried her withdrawn warning, this one delivers her unwitting true verdict.
 
 ## Evidence, kept light
 The documentary mechanics (PPP loan certifications against the layoffs — WARN-notice territory) stay gestural; this is a character/relationship scene, not a data procedural. Enough that the crime is clear; never a forensic dwell.

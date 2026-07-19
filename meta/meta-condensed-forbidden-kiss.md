@@ -1,6 +1,6 @@
 # Condensed — Forbidden Kiss
 
-*Compaction of the planned scene; surface only — the unrendered craft/subtext lives in `meta-note-forbidden-kiss.md`. ~late January, just after First Weekend Back, before The Reach. Vee POV. Taste-thread gate #1 (the Refusal), on the page.*
+*Compaction of the planned scene; surface only — the unrendered craft/subtext lives in `meta-note-forbidden-kiss.md`. ~late January, just after First Weekend Back, before {{The Reach}}. Vee POV. Taste-thread gate #1 (the Refusal), on the page.*
 
 - **The gate.** After he goes down on her, Pace moves up to kiss her with his mouth still coated — he doesn't hide it and doesn't announce it. She's coming down from the orgasm, not tracking; she doesn't clock it until their lips touch and she feels the slick.
 - **The refusal — body first.** She turns her head, seals her lips, wipes her mouth with the back of her hand. The words ride on top, small and blurted: *"that's gross / wrong,"* and *"I'm not gay."* (The conflation underneath — a woman's wetness in her mouth = gay = wrong — stays subterranean; never analyzed.)

@@ -1,12 +1,12 @@
 # Notes — Leave No Trace
 
-*Pre-draft notes from workshop. The scene is unwritten; this captures its thesis, texture, beats, and how it compares/contrasts with its neighbors (may-i-choose / fitting / first-night). Companion to the chronology entry for Leave No Trace — this is the craft thinking behind that entry.*
+*Pre-draft notes from workshop. The scene is unwritten; this captures its thesis, texture, beats, and how it compares/contrasts with its neighbors (may-i-choose / fitting / first-night). Companion to the chronology entry for {{Leave No Trace}} — this is the craft thinking behind that entry.*
 
 ---
 
 ## Position & job
 
-- **Sits before the Fitting and before the first night.** Reading order: …Dear → **Leave No Trace** → Rye → Fitting → Turned Up → How It's Done → … → Famished.
+- **Sits before the Fitting and before the first night.** Reading order: …{{Dear}} → **{{Leave No Trace}}** → {{Rye}} → Fitting → {{Turned Up}} → {{How It's Done}} → … → {{Famished}}.
 - Their **third time out**, ~late Sep / early Oct.
 - **The hike is the cared-for/swoon apex, and it carries the domestic-tenderness work that cannot live at the house.** The first time Vee is alone with Pace at his home, the sexual tension is too high for a domestic visit to be believable (they'd go straight to bed, wasting the deferral the Fitting and first night depend on). **The wilderness is the chaperone the bedroom can't be:** he can care for her completely here *without* it discharging, because they're on a mountain, not in his bedroom. So the cooked-for tenderness relocates to the trail.
 - **This scene builds the trust the Fitting and first night spend.** It spends nothing itself.
@@ -72,5 +72,5 @@ Crucially: she's been **wide awake and competent for hours** (the harsh world de
 
 ## Still open
 
-- The **"yes despite nervousness" retrospect** (relocated from the cut on-page hike invitation in May I Choose) opens this scene or its lead-in: she looks back and sees she said yes *too fast*, the lack of hesitation the unsettling part in hindsight. (To be drafted.)
+- The **"yes despite nervousness" retrospect** (relocated from the cut on-page hike invitation in {{May I Choose}}) opens this scene or its lead-in: she looks back and sees she said yes *too fast*, the lack of hesitation the unsettling part in hindsight. (To be drafted.)
 - The scene itself is **unwritten.**

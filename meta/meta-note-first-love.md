@@ -19,7 +19,7 @@ It makes him **the powerless one** — the younger, the minor, the boy with no s
 
 ## The telling (the scene)
 
-Late summer — after The Peaches, the last Pace/Vee two-hander before the threesome — Vee POV close third (his read stays unrendered — standard). Pace tells her, in his own voice, about the first relationship.
+Late summer — after {{The Peaches}}, the last Pace/Vee two-hander before the threesome — Vee POV close third (his read stays unrendered — standard). Pace tells her, in his own voice, about the first relationship.
 
 - **The heartbreak is visible; the vow is never named.** He tells what happened, not the conclusion he drew from it. The reader who has the architecture feels the vow light up by resonance; no one says it. This is what keeps "never explain" intact while putting the wound *out there for the reader.*
 - **Voice: contained, but the sadness shows — and Vee reads it.** This is *not* the scar's register (`meta-note-scar-reveal.md`). Both wounds are unhealed; they present differently. The scar he's **walled off** — buried, never worked through, scar tissue over something still infected — so it comes out flat, sealed too deep to feel. The first love is a grief he can let *leak*: a sayable kind of pain, so it shows even as he holds it, and she catches what he's holding. **The containment is the tell, not an absence of feeling.** He still doesn't narrate his own pathos or frame himself as the boy-genius-minor — he tells it plain and undersells it, and **Vee (and the reader) do the math** on how young and alone he was; the contained sadness does the rest. Not a performance, no weeping — held, not spilled — but the pain is *visible*, and that visibility is essential, not optional.
@@ -44,4 +44,4 @@ The scar origin (`meta-note-scar-reveal.md`) is the sibling confession, but the 
 - `meta-arch-bible.md` — the love-wound (three-source convergence); the vow; "real AND instrumental, never resolved."
 - `meta-arch-pace.md` — first love as formative wound / origin of the long-range planner; the after-she-leaves reckoning (the grammar that can't revise itself).
 - `meta-note-scar-reveal.md` — sibling confession (the scar, spring); the temperature-contrast guard.
-- `meta-plan-chronology.md` — **The First Love** (~late July / early August, after The Peaches, before the threesome).
+- `meta-plan-chronology.md` — **The First Love** (~late July / early August, after {{The Peaches}}, before the threesome).

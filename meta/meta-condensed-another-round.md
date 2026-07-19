@@ -1,6 +1,6 @@
 # Condensed — Another Round
 
-*Compaction of the planned scene; surface only — the unrendered craft/subtext lives in `meta-note-another-round.md`. ~late January, soon after First Weekend Back, before Grace; a taproom. Vee POV. Vee and Sheri's first meeting on the page.*
+*Compaction of the planned scene; surface only — the unrendered craft/subtext lives in `meta-note-another-round.md`. ~late January, soon after First Weekend Back, before {{Grace}}; a taproom. Vee POV. Vee and Sheri's first meeting on the page.*
 
 - **The setup.** Pace brings Vee to meet **Sheri** — the first of his people Vee has ever met. The three of them out for drinks; Sheri tiny and kinetic, too-much-makeup-no-shame, working/country idiom, dry. Vee walks in **braced** (who is this woman he's so easy with?); the brace dissolves when it lands that Sheri's a lesbian — not a rival, never was.
 - **The form: Sheri testifies in Pace's absences.** Twice he gets up for the next round; each time Sheri leans in and tells a little more. The story comes in two parts, in the gaps — you don't praise a man while he's at the table.

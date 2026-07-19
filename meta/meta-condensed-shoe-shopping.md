@@ -4,7 +4,7 @@
 
 ## Summary
 
-The second showing-to-Randi scene — a warm two-panel diptych: the finished gown's first unveiling to Randi (Vee's dorm room), then the boutique fitting. Structured as the contrast to Vee showing Cassie in Stats — Simpson's Paradox (Cassie watches the *person*; Randi runs *appraisal-as-interest*). **Played straight:** the dark is **reread-only**, carried by Randi's appraisal and the deniable physical installation — **not** by any planted secret. Establishes shopping-together as a format Randi excels at.
+The second showing-to-Randi scene — a warm two-panel diptych: the finished gown's first unveiling to Randi (Vee's dorm room), then the boutique fitting. Structured as the contrast to Vee showing Cassie in {{Stats — Simpson's Paradox}} (Cassie watches the *person*; Randi runs *appraisal-as-interest*). **Played straight:** the dark is **reread-only**, carried by Randi's appraisal and the deniable physical installation — **not** by any planted secret. Establishes shopping-together as a format Randi excels at.
 
 ## Form
 
@@ -31,11 +31,11 @@ Diptych, close-third Vee, panels split by `---`, **match-cut on the dress** (wor
 
 - **"When Randi sees something she wants, she buys it"** — the careless thousands-buy, worn out of the store; pure characterization now, **grain #2's cover** in spring (Randi wearing what she "just likes" is what later lets the stolen scrunchies read as flattery).
 - **Shopping-together as Randi's format** — pre-echoes the dressing-room money-as-power FB (canon *"same act, opposite meanings"*). Here **both pay their own way**, which protects the dressing-room's first deployment of Randi's money *against* Vee.
-- **The shoe-fitting touch** normalizes Randi's hands on Vee's body — seeds the **shoe-loan motif** (first loan at CW-Dance Debrief → … → the threesome pumps).
-- **Credit-card transgression** weakens Vee's money-independence armor before the dressing-room turns it against her; the self-administered price-override here pre-seeds her *"decided not to finish the math"* a week later (CW-Dance Debrief).
+- **The shoe-fitting touch** normalizes Randi's hands on Vee's body — seeds the **shoe-loan motif** (first loan at {{CW-Dance Debrief}} → … → the threesome pumps).
+- **Credit-card transgression** weakens Vee's money-independence armor before the dressing-room turns it against her; the self-administered price-override here pre-seeds her *"decided not to finish the math"* a week later ({{CW-Dance Debrief}}).
 
 ## NOT in this scene (continuity)
 
 - **No scrunchie layer.** The gaslight is a **spring** arc (Drawer first visit ~mid–late Feb, off-page; grains #1/#2/#3 Feb–April; chronology Late section + `meta-plan-scrunchie-gaslight.md`). The fall stays unshadowed — Randi has taken nothing; Vee notices nothing.
-- **No goodbye-kiss beat** (the kiss debuts in How It's Done, settles at CW-Dance Debrief; don't run the physical staircase every scene).
-- **Not at Randi's place** (Vee's first time in Randi's room is the CW-Dance Debrief, ~Oct 25).
+- **No goodbye-kiss beat** (the kiss debuts in {{How It's Done}}, settles at {{CW-Dance Debrief}}; don't run the physical staircase every scene).
+- **Not at Randi's place** (Vee's first time in Randi's room is the {{CW-Dance Debrief}}, ~Oct 25).

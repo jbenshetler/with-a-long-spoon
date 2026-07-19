@@ -36,7 +36,7 @@ Use her established proprietary jealousy (the CW Dance): she walks in braced at 
 
 ## The Sheri-absorber thread (plant → here → spend)
 
-Sheri is *named* back at **In His Hands** (~mid-to-late Nov, the Thanksgiving exchange — *"She's alone"*), planted as the safe woman in Pace's life. This scene makes her **vivid and disarmed** (the lesbian fact switches the rival-channel off). That is what arms the spring **found-hair** beat (`meta-note-the-found-hair.md`, ~late April): when Vee finds a trace of a woman in his house, Sheri is the ready, warm, no-threat name she reaches for — so the outward question never forms. Meeting Sheri here is the hinge between the plant and the spend; keep the warmth pure — the dark is that Vee is being handed the very alibi she'll later use on herself.
+Sheri is *named* back at **{{In His Hands}}** (~mid-to-late Nov, the Thanksgiving exchange — *"She's alone"*), planted as the safe woman in Pace's life. This scene makes her **vivid and disarmed** (the lesbian fact switches the rival-channel off). That is what arms the spring **found-hair** beat (`meta-note-the-found-hair.md`, ~late April): when Vee finds a trace of a woman in his house, Sheri is the ready, warm, no-threat name she reaches for — so the outward question never forms. Meeting Sheri here is the hinge between the plant and the spend; keep the warmth pure — the dark is that Vee is being handed the very alibi she'll later use on herself.
 
 ## Dark-on-reread layer (do not point at it)
 
@@ -52,4 +52,4 @@ The decency is **real** — render it pure-warm, no sinister note anywhere in th
 
 ## Placement
 
-~late January, soon after First Weekend Back and before Grace, in the warm window before Ignition sours things (~late May) — landing right when she's hungriest for grounding after the reconciliation, getting from Sheri the proof of his constancy he won't give her in words. Part of Vee entering the sealed world as a **widening, not an echo**: his **people before his house** — meeting his one real friendship here (social entry); the Cabin key, a month on, deepens the same movement to dominion (resident). **Reciprocates *Among Friends*** (Volume Two's opener): her world opened publicly there, his sealed world cracks a notch here — outer access, then inner.
+~late January, soon after First Weekend Back and before {{Grace}}, in the warm window before Ignition sours things (~late May) — landing right when she's hungriest for grounding after the reconciliation, getting from Sheri the proof of his constancy he won't give her in words. Part of Vee entering the sealed world as a **widening, not an echo**: his **people before his house** — meeting his one real friendship here (social entry); the Cabin key, a month on, deepens the same movement to dominion (resident). **Reciprocates *{{Among Friends}}*** (Volume Two's opener): her world opened publicly there, his sealed world cracks a notch here — outer access, then inner.

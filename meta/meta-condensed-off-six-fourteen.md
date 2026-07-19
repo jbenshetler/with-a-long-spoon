@@ -1,10 +1,10 @@
 # Condensed — Off Six-Fourteen
 
-*VIGNETTE · Draft complete · `off-six-fourteen.md` · the same evening as May I Choose · Vawter Hall, the dorm room · Vee's POV · Cassandra track*
+*VIGNETTE · Draft complete · `off-six-fourteen.md` · the same evening as {{May I Choose}} · Vawter Hall, the dorm room · Vee's POV · Cassandra track*
 
 ## Summary
 
-Vee comes in from the dinner still lit up and tells Cassie that same night. The clean baseline of her feeling for Pace, said aloud in the truest (unguarded-bawdy) register before Randi ever reshapes the material. Comes in **mid-recount** — the dinner is already mostly told, so the vignette does not re-tell what the reader just experienced in May I Choose; one brass-cage fragment-tail signals the mid-flow. Closes warm; the dread is entirely structural, carried by the reader, never on any character's face.
+Vee comes in from the dinner still lit up and tells Cassie that same night. The clean baseline of her feeling for Pace, said aloud in the truest (unguarded-bawdy) register before Randi ever reshapes the material. Comes in **mid-recount** — the dinner is already mostly told, so the vignette does not re-tell what the reader just experienced in {{May I Choose}}; one brass-cage fragment-tail signals the mid-flow. Closes warm; the dread is entirely structural, carried by the reader, never on any character's face.
 
 ## Key Beats
 
@@ -16,7 +16,7 @@ Vee comes in from the dinner still lit up and tells Cassie that same night. The 
 
 **Drink-question = agency, established sober.** Cassie's dry floor under the gladness: *How much did he give you to drink.* Vee: *Nothing… we had tea… nobody did anything to me. I wasn't talked into it. I did it because I wanted to and I did it on purpose.* (The mint tea — on reread, the very thing that surfaced her from the under-state, cited as proof of sobriety. Unflagged.) This is the first question's job: she **chose** it; no chemical out.
 
-**The "yes too fast" beat.** The hike *invitation* (off-page, on the post-kiss walk home — unrendered in May I Choose) lands here as the light, near-forgotten thing. Rendered as a **brushed-past stumble** in the telling — *I said yes so fast it was — anyway. Yeah* — NO self-diagnosis (cut: any "the thing where I check" naming). The reader catches the swerve; Vee hands over nothing. **Primary placement of the too-fast retrospect; Leave No Trace gets a thin echo only.**
+**The "yes too fast" beat.** The hike *invitation* (off-page, on the post-kiss walk home — unrendered in May I Choose) lands here as the light, near-forgotten thing. Rendered as a **brushed-past stumble** in the telling — *I said yes so fast it was — anyway. Yeah* — NO self-diagnosis (cut: any "the thing where I check" naming). The reader catches the swerve; Vee hands over nothing. **Primary placement of the too-fast retrospect; {{Leave No Trace}} gets a thin echo only.**
 
 **State-troopers bit = who-is-he, dual register.** *What's his name, so I know what to tell the state troopers when you go missing.* First read: affectionate roommate banter about a hiking date. Second read: the only time anyone asks the real question, and Vee answers with a **road number** — Pace + off 614 + the trail, fast and glad, *counted off like a dossier, like plenty.* She doesn't experience it as a deflection; she hands over her whole (thin) inventory as closeness and can't feel that it's thin.
 
@@ -28,7 +28,7 @@ Vee comes in from the dinner still lit up and tells Cassie that same night. The 
 
 ## Distinctions / Continuity
 
-- **Distinct from Rye**, which is a separate later beat (pre-first-night, about the hike and shirt, paired photographic-negative with Toenails). This vignette is the dinner-night beat and does not replace or move it.
+- **Distinct from {{Rye}}**, which is a separate later beat (pre-first-night, about the hike and shirt, paired photographic-negative with {{Toenails}}). This vignette is the dinner-night beat and does not replace or move it.
 - **No meet-cute-line callback.** The meet-cute's no-attraction observation (*"the way you'd look at somebody's great-aunt"* — formerly the cut "like she was a chair") was considered as a callback here and dropped — wrong-shaped for this moment (it's about Pace showing Randi no desire, not about Vee's unchecked yes), and invoking it would attach the dread to a mismatched prior. The dread stays unnamed and structural.
 - **Vawter Hall** canonized as Vee's dorm (buried sense: *water* under a real Virginia surname — her involuntary bodily tell, one layer down, deniable).
 - Mother-as-censor stays **unnamed**: the inheritance rides the starched cadence of *"I don't kiss a man I've known a few days,"* not an attribution.

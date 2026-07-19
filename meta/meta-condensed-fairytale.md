@@ -6,7 +6,7 @@
 
 > **See `meta-arch-randi.md` for structural architecture.** This scene enacts Randi's "chosen-not-to-throttle moment" and must sit after the SATC lunches are running at full intensity and before the threesome is scheduled. (Continuity flag 6.)
 
-Placed on New Year's Eve, the same night as Old Acquaintances: the two women flat without him in parallel, joined only by the midnight text, neither aware of the mirror.
+Placed on New Year's Eve, the same night as {{Old Acquaintances}}: the two women flat without him in parallel, joined only by the midnight text, neither aware of the mirror.
 
 ## Content
 
@@ -14,7 +14,7 @@ The conventionally proper man, the fine dinner, the fine sex, the *nothing* it p
 
 ## POV (containers rule)
 
-No other camera exists for this scene — the proper man is a one-scene character, and the content is constitutionally untellable to Vee: confessing the nothing confesses the comparison, which confesses the lunches are the real thing. Rendered from inside her under the containers rule (Bible; chronology flag 15): the second opening of the **mirror aperture** — Bench mirror (the wound installed; "the face had been lying for years") → Fairytale mirror (the wound confirmed; no substitute exists). The choice is not stated in words; it is enacted by the return — a body-decision visible at the level of behavior.
+No other camera exists for this scene — the proper man is a one-scene character, and the content is constitutionally untellable to Vee: confessing the nothing confesses the comparison, which confesses the lunches are the real thing. Rendered from inside her under the containers rule (Bible; chronology flag 15): the second opening of the **mirror aperture** — Bench mirror (the wound installed; "the face had been lying for years") → {{Fairytale}} mirror (the wound confirmed; no substitute exists). The choice is not stated in words; it is enacted by the return — a body-decision visible at the level of behavior.
 
 ## Function
 

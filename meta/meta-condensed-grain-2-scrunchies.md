@@ -10,7 +10,7 @@ Randi wears Vee's scrunchies around Vee — and Vee is **thrilled**: the glamour
 
 ## Mechanism — evidence in the open, wearing a perfect disguise
 
-The sighting is fully conscious and completely misread. Vee's reading is flattery — and it has a characterological engine, planted in the fall (Shoe Shopping): **when Randi sees something she wants, she buys it.** *She saw it on me, she wanted it, she hunted it down — of course she did, she's Randi.* This is the **loving-Randi cover**, twin to grain #3's flicker of the loving-Pace story: every corrupted datum in the campaign gets explained by love. The evidence isn't suppressed; it's metabolized as intimacy — which actively protects Randi at grain #3, because "Randi wears scrunchies like mine" is already filed under *friendship* and can't combine with the form arithmetic into "Randi has *my* scrunchies."
+The sighting is fully conscious and completely misread. Vee's reading is flattery — and it has a characterological engine, planted in the fall ({{Shoe Shopping}}): **when Randi sees something she wants, she buys it.** *She saw it on me, she wanted it, she hunted it down — of course she did, she's Randi.* This is the **loving-Randi cover**, twin to grain #3's flicker of the loving-Pace story: every corrupted datum in the campaign gets explained by love. The evidence isn't suppressed; it's metabolized as intimacy — which actively protects Randi at grain #3, because "Randi wears scrunchies like mine" is already filed under *friendship* and can't combine with the form arithmetic into "Randi has *my* scrunchies."
 
 ## Shape
 

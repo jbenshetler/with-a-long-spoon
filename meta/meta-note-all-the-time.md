@@ -14,7 +14,7 @@ A general conversation still serves extraction. Randi draws Vee into *naming* wh
 
 ## The photo — cropped, then full
 
-Vee shows Randi the *In His Hands* nude here, in **two steps**: a **cropped** (waist-up) version first, holding back, then — needled by Randi's *"you only gave him half of you?"* — the **full-length** pinup, produced to prove she gave Pace all of herself. Warm-bawdy on first read, *finish handing yourself over* on reread; Vee reveals *more* to answer a dare, no one asking outright. This is the **curated** rung of the photo ladder (she controls how she's seen); the raw, explicit *Still Life* photo tops it at Gesso (`meta-note-in-his-hands.md`, `meta-note-still-life.md`).
+Vee shows Randi the *{{In His Hands}}* nude here, in **two steps**: a **cropped** (waist-up) version first, holding back, then — needled by Randi's *"you only gave him half of you?"* — the **full-length** pinup, produced to prove she gave Pace all of herself. Warm-bawdy on first read, *finish handing yourself over* on reread; Vee reveals *more* to answer a dare, no one asking outright. This is the **curated** rung of the photo ladder (she controls how she's seen); the raw, explicit *{{Still Life}}* photo tops it at {{Gesso}} (`meta-note-in-his-hands.md`, `meta-note-still-life.md`).
 
 ## The anthro invite
 

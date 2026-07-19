@@ -4,7 +4,7 @@
 
 ## Summary
 
-Vee returns and tells Cassie about the break. A cropped induction photo is the physical evidence that surfaces her father's question and forces the telling: she can pour out the *external* problem — how do you make Pace legible to her father — at length, but still can't say what he is to her. The dodge relocates from the surface to the register that actually hurts; Cassie clocks the closed door. The telling earns Believe Me without prejudicing Pace.
+Vee returns and tells Cassie about the break. A cropped induction photo is the physical evidence that surfaces her father's question and forces the telling: she can pour out the *external* problem — how do you make Pace legible to her father — at length, but still can't say what he is to her. The dodge relocates from the surface to the register that actually hurts; Cassie clocks the closed door. The telling earns {{Believe Me}} without prejudicing Pace.
 
 ## Key Beats
 
@@ -17,7 +17,7 @@ Vee returns and tells Cassie about the break. A cropped induction photo is the p
 
 ## Continuity and Structure
 
-- **Two axes, kept distinct.** This retelling loads *external legibility* (fitting Pace into her father's categories); Believe Me loads *internal definition* (monogamy / what are we). They rhyme but don't pre-argue each other, so Pace's puzzlement in the fight stays sympathetic. Guard: the monologue's antagonist is her father's frame, never Pace — he is the thing that won't fit, not a man failing her.
+- **Two axes, kept distinct.** This retelling loads *external legibility* (fitting Pace into her father's categories); {{Believe Me}} loads *internal definition* (monogamy / what are we). They rhyme but don't pre-argue each other, so Pace's puzzlement in the fight stays sympathetic. Guard: the monologue's antagonist is her father's frame, never Pace — he is the thing that won't fit, not a man failing her.
 - **Family stays at a remove.** The table is reported, not shown — consistent with the vignette's existing form. The cropped induction photo is a new artifact and reads against the private Painting-Afternoon photo: that one for his eyes, this one for her parents'.
-- **Earns Believe Me:** Vee has now failed to name him truly even while pouring out everything she safely can.
+- **Earns {{Believe Me}}:** Vee has now failed to name him truly even while pouring out everything she safely can.
 - **Draft-time checks:** confirm Pace's field/credential phrasing and the "danced" reference against canon before committing them to prose.

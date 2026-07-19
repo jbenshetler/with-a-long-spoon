@@ -6,7 +6,7 @@
 
 ## What this scene is
 
-The Refusal, on the page: the first gate where the taste-taboo is named and the door slams — *"that's gross / I'm not gay."* It opens the spring transgressive through-line (the Leak runs live and conscious from here) and it's the line First Taste later crosses. Vee POV, close third (his read stays unrendered).
+The Refusal, on the page: the first gate where the taste-taboo is named and the door slams — *"that's gross / I'm not gay."* It opens the spring transgressive through-line (the Leak runs live and conscious from here) and it's the line {{First Taste}} later crosses. Vee POV, close third (his read stays unrendered).
 
 ## The mechanism — the un-clocked kiss
 
@@ -18,7 +18,7 @@ This is the one place the scene touches the book's thesis, and it must be handle
 
 - On **first read** it is *nothing* — a man kisses her after going down on her, she's grossed out, *ugh, no.* The smallest of busts, the kind most people would shrug off and forget.
 - On **reread** what surfaces is **depth, not dread**: that he wanted her past this, that the whole thing was always pointed somewhere. Never *he violated her.* The faint aimed-ness — his care contracting to the bare, deniable minimum because this taboo is the gate he most needs down — is the **first grain of the year's accretion** of the consent-hole (the maneuver-not-force gap his architecture can't see), not a visible breach. The hole becomes visible by *accumulation* and at the reckoning, never by a flagrant early beat (`meta-arch-pace.md`, `meta-thesis.md`).
-- **If it reads as Pace-the-manipulator, it's overcooked — cut the signal until it's just a kiss she didn't want.** The fuller, designated imperfection beat is **First Taste's inducement** (`meta-note-taste-thread.md`); don't let this out-loud it.
+- **If it reads as Pace-the-manipulator, it's overcooked — cut the signal until it's just a kiss she didn't want.** The fuller, designated imperfection beat is **{{First Taste}}'s inducement** (`meta-note-taste-thread.md`); don't let this out-loud it.
 
 ## Body before mind
 
@@ -41,8 +41,8 @@ The casual, incomplete wipe predates this (subliminal). Forbidden Kiss is where 
 
 ## Placement (fixed by the staircase)
 
-~late January, just after First Weekend Back (the reconciliation — they're not together before it, so this can't sit earlier in the month), and **before The Reach** (gate #2). The order Refusal → Reach → … → First Taste is fixed; only the rendering carries the thesis weight, since the placement can't move. Oral is long established (First Night onward), so the post-oral kiss has a valid history behind it.
+~late January, just after First Weekend Back (the reconciliation — they're not together before it, so this can't sit earlier in the month), and **before {{The Reach}}** (gate #2). The order Refusal → Reach → … → {{First Taste}} is fixed; only the rendering carries the thesis weight, since the placement can't move. Oral is long established (First Night onward), so the post-oral kiss has a valid history behind it.
 
 ## Downstream
 
-The Reach (gate #2, solo) now follows a scene where she's consciously named the taboo for a *partner's* mouth — so her solo tongue-stop reads as the **deeper, wordless one** (the named frame has no purchase on her own fingers, yet she still can't). Enriches the Reach; recalibrated there.
+{{The Reach}} (gate #2, solo) now follows a scene where she's consciously named the taboo for a *partner's* mouth — so her solo tongue-stop reads as the **deeper, wordless one** (the named frame has no purchase on her own fingers, yet she still can't). Enriches the Reach; recalibrated there.

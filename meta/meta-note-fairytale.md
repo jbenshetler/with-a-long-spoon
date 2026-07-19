@@ -40,6 +40,6 @@ Three **bodies-in-sync** beats — ski, dance, sex — each genuinely good, each
 - **Lead/follow → D/s rhyme.** The dance is the surrender-shape emptied of seeing; it rhymes against Pace, who has no game and sees her.
 - **Mirror aperture.** Bench → Fairytale; installation → confirmation.
 - **Taste thread: not seeded.** It is Vee's, not Randi's. The close's distanced oral beat ("her own mouth from a long way off") is the *nothing* extended to taste, not a taste-thread seed.
-- **Location.** This commits Fairytale → Gstaad, making the **Gesso mid-November** mention (Randi telling Vee she'll be off-grid) load-bearing setup.
+- **Location.** This commits Fairytale → Gstaad, making the **{{Gesso}} mid-November** mention (Randi telling Vee she'll be off-grid) load-bearing setup.
 - **NYE diptych with `old-acquaintances`.** Same night: Vee alone in Ohio just before her midnight, Randi in Gstaad at ~6am. The **midnight text is the seam** — Vee's open hand, Randi's fairytale gloss — and the two scenes must stay **word-identical** on it (Vee's *thinking about you…*; Randi's *you ANGEL… miss your face most though, gorgeous 💋*). Near-real-time, no delay; the *gorgeous* obeys the reserved-endearment rule (sincere, Vee-only) and lands on the true line.
 - **Disconnection motif.** The ski gear's sensory isolation (helmet, goggles, gloves) is deliberate — it seeds the body-from-self disconnection of the sex (*felt her own mouth do it from a long way off*).

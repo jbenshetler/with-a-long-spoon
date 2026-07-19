@@ -2,7 +2,7 @@
 
 *Scene · Unwritten · placed before `Restrained` (~February) · Vee POV · formerly the Edging placeholder*
 
-Workshop-committed title: **On Top**. The title carries the scene's double register: Vee is literally on top and appears to have the advantage; Pace controls the erotic architecture from underneath. The joke should stay sexy, not thesis-y.
+Workshop-committed title: **{{On Top}}**. The title carries the scene's double register: Vee is literally on top and appears to have the advantage; Pace controls the erotic architecture from underneath. The joke should stay sexy, not thesis-y.
 
 -----
 

@@ -12,4 +12,4 @@ Vee's POV; enclosed porch, watching the sun come up. Vee delivers the cracker-an
 
 ---
 
-**Note from continuity flag 7:** The porch scene is a load-bearing grain *for* Believe Me, so the porch scene must precede the fight. (Fight placement is owned by the chronology / flag 7.)
+**Note from continuity flag 7:** The porch scene is a load-bearing grain *for* {{Believe Me}}, so the porch scene must precede the fight. (Fight placement is owned by the chronology / flag 7.)
