@@ -206,7 +206,7 @@ Four hours ago she'd stood at a sink and found a sad clown. The woman in this gl
 
 Randi sent her home with the shoes in a soft drawstring bag and the scarf folded on top, and walked her down. Brooke was gone from the door. In the foyer, under all those framed faces, Randi pulled her into the whole-body hug and kissed her goodbye on the mouth — soft, unhurried, the small second press the first one always seemed to want.
 
-And Vee, kissing her back, caught up to something a half-beat late: she hadn't braced. Hadn't tensed, hadn't thought to, hadn't filed it anywhere on the way in. Her mouth had just met Randi's like it was nothing, because it was nothing. It was only what they did.
+And Vee, kissing her back, caught up to something a half-beat late: she hadn't braced. Hadn't tensed. Her mouth had just met Randi's. It was only what they did.
 
 "See you soon, gorgeous," Randi said.
 
