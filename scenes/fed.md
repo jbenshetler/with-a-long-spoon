@@ -70,6 +70,6 @@ They stayed another hour. The light moved across the porch. Vee had a second mim
 
 Outside, at the curb, in the ordinary noise of the street after the glass quiet of the porch, Randi pulled her into the goodbye, the hand light at the hinge of her jaw, the mouth, soft, the small drawing-back and then the second press. She'd half-expected it this time, and met it, and when Randi let her go she didn't look down the street for who might have seen them, the way she had the first time.
 
-"Go on," Randi said, holding her by the shoulders a moment, looking at her. "See you soon, gorgeous."
+Randi held her a moment by the shoulders and smiled, slow and soft, and it stayed a beat past where it needed to. "See you soon, gorgeous."
 
 Vee drove home lighter than she'd come. She did not examine it. She turned the radio up and let the day be good.
