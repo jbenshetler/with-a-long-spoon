@@ -2139,6 +2139,13 @@ text = "He felt her weight on him."
 note = "clean simple perception; kept per author"
 
 [[ok]]
+fp   = "3a17965fea2c"
+rule = "filter-verbs"
+file = "scenes/the-bench.md"
+text = "He watched her hands settle into the grips — the small sound of skin on leather, the delicate knuckles whitening and then relaxing — her knees finding the leg supports, her hips settling onto the pelvis support, her torso bridging the gap between them, unsupported, her breasts hanging free in the lamplight with the small heavy sway of them against gravity as she found the load."
+note = "intentional POV anchor — single 'watched' kept when collapsing the cluster (185)"
+
+[[ok]]
 fp   = "3b3061b9c55f"
 rule = "filter-verbs"
 file = "scenes/the-bench.md"
@@ -2165,6 +2172,13 @@ rule = "filter-verbs"
 file = "scenes/the-bench.md"
 text = "She did not understand yet how she felt about him for having produced it."
 note = "false positive — 'felt about him' is emotional, not a perception filter"
+
+[[ok]]
+fp   = "693d0df39a4b"
+rule = "filter-verbs"
+file = "scenes/the-bench.md"
+text = "He watched the thing behind her face that policed her relationship to food run through whatever calculation it was running."
+note = "intentional POV anchor — single 'watched' kept after trimming the double (45)"
 
 [[ok]]
 fp   = "7be9bdd7a32c"
@@ -2242,6 +2256,34 @@ rule = "filter-verbs"
 file = "scenes/the-bench.md"
 text = "She cried out and the cry was not a trained cry, the cry was real, the cry was a *sound from her,* and he heard it land and he heard himself want to hear it again, and he soothed her and waited and hit her again to hear her make it again, and she did."
 note = "doubled 'he heard...heard himself want' is rhetorical (appetite surfacing); intended"
+
+[[ok]]
+fp   = "2a232ee8e0bf"
+rule = "look-at-her"
+file = "scenes/the-bench.md"
+text = "By the end of that night she had begun to understand that the lights would be on whenever he could manage it, and that there was a way he wanted to look at her that she had not been looked at in before."
+note = "looking motif — his wanting-to-look is the appetite; intended density"
+
+[[ok]]
+fp   = "3e5fe8f9bcad"
+rule = "look-at-her"
+file = "scenes/the-bench.md"
+text = "She turned on the tap and washed her face quickly and patted it dry on his towel and did not look at her eyes again because she did not want to see what was there."
+note = "not the appreciation beat — mirror-scene avoidance of her own eyes; kept"
+
+[[ok]]
+fp   = "d1ed795ed182"
+rule = "look-at-her"
+file = "scenes/the-bench.md"
+text = "She did not look at him."
+note = "not the appreciation beat — Randi's post-scene gaze-avoidance; kept"
+
+[[ok]]
+fp   = "ff0077718259"
+rule = "look-at-her"
+file = "scenes/the-bench.md"
+text = "She stood naked in the middle of his bedroom and let him look at her, which was something she had learned to do with him."
+note = "looking motif — 'let him look at her' sets up the lights/looking engine; intended"
 
 [[ok]]
 fp   = "0ed5e65adaaf"
@@ -2368,6 +2410,13 @@ rule = "there-she-is"
 file = "scenes/the-bench.md"
 text = "She tried, briefly, by lifting her chin and arranging her mouth into the slight knowing half-smile she used in photographs, and the face in the mirror produced the smile, and the smile sat on top of the face that had begged, and she saw the disjunction and her eyes filled briefly and she made the small breath of a laugh which was the same breath of a laugh she had made when he had said *there you are.*"
 note = "mirror echo of the beholding beat; intended"
+
+[[ok]]
+fp   = "7656d09a1e44"
+rule = "unhurried"
+file = "scenes/the-bench.md"
+text = "Steely Dan was going low under it all, had been since before she came — that smooth sound, cool and unhurried, sliding through the front rooms."
+note = "Randi's music lane (Steely Dan, smooth/cool); the one load-bearing 'unhurried'; kept"
 
 [[ok]]
 fp   = "21894f4b06de"
