@@ -6,9 +6,9 @@ That night she lay in the flannel in the dark and breathed him in, the smell of 
 
 The next day she was at the mall for nothing in particular, and, feeling pretty, wanting something pretty to wear, she went into the store with the low lamps and the folded silk. The green called to her. It was so exactly her color that it seemed to have been set out and waiting, deep and cool and a little serious, satin with a fine dark lace at the edges, and when she lifted it the fabric was cool going warm in her hand, and it had the weight good things have. She bought it without trying it on, for the color. It was a beautiful color, and that was reason enough. The matching bra hung beside it, and it would be silly, she thought, to take the one and leave the other, so she bought the set. On her way out she stopped for a bottle of nail polish, a frosted plum she chose without thinking too hard about why.
 
-Back at the dorm the afternoon light was still good, and she painted her toenails at her desk, one knee drawn up and her foot on the edge of the chair. The frosted plum caught the light, like the silk he'd held to her face in the sun porch. She noticed, and put the connection away, and came back to it twice before the polish dried.
+She left the toenails for Friday. That afternoon, with hours yet before she had to leave and the light still good at her desk, she painted them, one knee drawn up and her foot on the edge of the chair — early enough they'd be dry and perfect by the time she went. The frosted plum caught the light, like the silk he'd held to her face in the sun porch. She noticed, and put the connection away, and came back to it twice before the polish dried.
 
-She drove to his house the next evening in ballet flats over her frosted-plum toenails, the green moved to the top of the drawer that morning, and told herself none of this meant anything in particular.
+That evening she drove to his house in ballet flats over her frosted-plum toenails, the green moved to the top of the drawer that morning, and told herself none of this meant anything in particular.
 
 He opened the door in a canvas apron over a dark henley, sleeves pushed to the elbows. She had spent the week not thinking about tonight, and now here it was, and she couldn't find anything to say.
 

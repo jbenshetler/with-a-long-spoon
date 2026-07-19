@@ -24,7 +24,7 @@ The first night is the discharge of the Fitting's deferred tension. After the Fi
 - On the way out, a bottle of frosted-plum nail polish, "without thinking too hard about why"
 
 **The toenails / the drive**
-- Back at the dorm, the afternoon light still good, she paints her toenails at her desk (one knee drawn up, foot on the chair); the frosted plum catches the light like the silk he held to her face — she notices, puts the connection away, comes back to it twice before it dries
+- She leaves the toenails for Friday (fresh for him): that afternoon, hours before she leaves and the light still good, she paints them at her desk (one knee drawn up, foot on the chair), early enough they'll be dry and perfect; the frosted plum catches the light like the silk he held to her face — she notices, puts the connection away, comes back to it twice before it dries
 - Friday evening she drives out in ballet flats over her frosted-plum toenails, the green moved to the top of the drawer that morning; *told herself none of this meant anything in particular*
 
 **Arrival / kitchen**

@@ -32,7 +32,7 @@ Randi held her flute and listened, her face open and warm and glad for her frien
 
 Vee looked at her hands on the white cloth. "I painted my nails," she said. And then, because she could not not, quieter: "And my toes."
 
-"Fingers for the room." Randi tilted her head. "But the toes. You paint the toes for a man who's going to have your feet bare in his hands. You did those the day before. For him."
+"Fingers for the room." Randi tilted her head. "But the toes. You paint the toes for a man who's going to have your feet bare in his hands. You did those Friday. For him."
 
 The heat came up in her throat.
 
