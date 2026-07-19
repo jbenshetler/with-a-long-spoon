@@ -46,7 +46,7 @@ It was higher than anything Vee owned and barely there, a fine dark strap and a 
 
 The woman who worked there came over with the box, and Randi put up a hand, easy — "I've got her" — and took the box herself and went down onto one knee in front of the bench, on the pale floor, in her own beautiful clothes, and patted the seat for Vee to sit.
 
-Vee sat. Randi lifted Vee's foot onto her knee and slipped the flat off — and then, instead of reaching for the box, held the foot a moment in both hands, turning it a little to the light, looking at it. At the toes. At the polish there: burgundy lightened to a frosted plum, deliberate, chosen to catch the light the way the silk did.
+Vee sat. Randi lifted Vee's foot onto her knee and slipped the flat off — and then, instead of reaching for the box, held the foot a moment in both hands, turning it a little to the light, looking at it. At the toes. At the polish there: a frosted plum, deliberate, chosen to catch the light the way the silk did.
 
 "Mm," Randi said.
 

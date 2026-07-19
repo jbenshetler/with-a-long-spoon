@@ -30,7 +30,7 @@ Cassie listened with her chin on her knees and did not pull at the seam. Whether
 
 Vee wanted to be clean. She wanted the shower more than she'd wanted anything sensible in days. She got up, pulled her towel off the hook, reached for the zipper at her hip, drew it halfway down, and stopped.
 
-Nothing under the skirt. She had given them away. *Trade*, she'd said, and folded them in thirds and set them in his palm, and driven home bare, burgundy toenails her mother would have had a word for. The word could come; she found she didn't much mind it this morning. What she minded was here, now: three feet from Cassie, the zipper half down, and the next thing she took off would not be a story she was editing. It would be on the floor, and there would be nothing left to say.
+Nothing under the skirt. She had given them away. *Trade*, she'd said, and folded them in thirds and set them in his palm, and driven home bare, frosted-plum toenails her mother would have had a word for. The word could come; she found she didn't much mind it this morning. What she minded was here, now: three feet from Cassie, the zipper half down, and the next thing she took off would not be a story she was editing. It would be on the floor, and there would be nothing left to say.
 
 She zipped the skirt back up.
 

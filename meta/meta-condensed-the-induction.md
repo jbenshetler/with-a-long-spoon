@@ -7,7 +7,7 @@ The burgundy induction dress — made by Pace for exactly this (named on the hik
 **Why it earns its place (not a trophy).** The engine is the walk. Bare beneath the dress (the hip-slit shows the edge of anything, so worn as built it is worn bare), Vee has managed the slit all day — small steps, a hand at her hip while seated — until the ceremonial walk to the stage, the one walk she can't take small. She chooses to open it: first step small, then she steels herself and makes the second step long, giving the room her leg to the hip on purpose, proud of her legs, the room registering she has nothing on (a murmur). The heat comes up as the body *agreeing*, not betraying — the chosen version of her constant shame (the body's wanting), now owned.
 
 ### Beat one — arrival, the managed secret
-Cassie walks her to the doors (as Vee's person, not an inductee), takes Vee's phone to hold, gives her the withheld-Cassie blessing ("You look—" unfinished, "a standing ovation"). Establish: the dress; bare underneath by necessity; the small choreography of keeping the slit shut; the dear four-inch dark heels Randi found (Vee's own, from Shoe Shopping); nails burgundy lightened to a frosted plum that echoes the silk. Every piece of her picked to go with a dress a man made — both orchestrators on her body, neither in the room.
+Cassie walks her to the doors (as Vee's person, not an inductee), takes Vee's phone to hold, gives her the withheld-Cassie blessing ("You look—" unfinished, "a standing ovation"). Establish: the dress; bare underneath by necessity; the small choreography of keeping the slit shut; the dear four-inch dark heels Randi found (Vee's own, from Shoe Shopping); nails a frosted plum that echoes the silk. Every piece of her picked to go with a dress a man made — both orchestrators on her body, neither in the room.
 
 ### Beat two — Pace absent, and why it lands
 Pace is away at a mathematics conference in Berkeley (distinct from the Chicago trip in The Top Drawer), quietly and un-performatively sorry — he made the dress for exactly this and will miss the one wearing it was built for. Vee does NOT diminish the dress (it is the most anyone has ever made for her); she reaches for "only a ceremony" and it rings hollow, because she talked it up with him on the mountain. Harm-one: the fine man wouldn't make the dress; Pace made it and ached to see it.
@@ -24,7 +24,7 @@ First read: a warm, triumphant, sexy achievement beat — best day, best dress, 
 ### Foreshadow / installs
 - **On Her Floor (spring):** the hand at the hip/hem and being-seen-becomes-power are installed here in the *contained, chosen* key; Randi later un-contains and weaponizes the same charge (the skirt riding up without her say). Induction = she controls the reveal; On Her Floor = she loses control of it.
 - **The cropped induction photo** in Cropped gets its origin and its charge here (whole and thrilling now → curated and hollowed for the parents later).
-- Frosted-plum nails match Shoe Shopping (updated there for consistency).
+- Frosted-plum nails — the established color from Famished on.
 
 ### Guards
 - **Never name, never explain:** arousal rendered only as "heat"/the body; the chosen display stays embodied, not thesis. Restraint is everything — a flick and a choice, not lust; literary, not lurid.
