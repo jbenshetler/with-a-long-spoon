@@ -76,7 +76,7 @@ The first night is the discharge of the Fitting's deferred tension. After the Fi
 - No management gap: she can't find the top of the shame and doesn't try; she's only here, her face in his neck, his smell in every breath; *it was the first time that had been true*
 
 **After — kitchen**
-- He pulls on jeans and a white t-shirt; she wraps the top sheet; they go to the kitchen sweaty, tired, genuinely hungry
+- He pulls on jeans and a white t-shirt; she's leaking, thighs slick, so she leaves her clothes where they fell and winds the top sheet around herself instead (motivates the sheet — which must be on her to *drop* at the trade; wetness thread still running after the fact, unbothered = burn-through paid off); they go to the kitchen sweaty, tired, genuinely hungry
 - He builds the fra diavolo from the mise-en-place; she sits with the Chianti she didn't drink earlier and watches him cook the dinner she hadn't let him cook
 - They eat; the fra diavolo hot with pepper, the Chianti better for having waited; she eats until full; her body quiet; *the evening had used her well*
 
