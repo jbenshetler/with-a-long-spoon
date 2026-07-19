@@ -72,4 +72,4 @@ Outside, at the curb, in the ordinary noise of the street after the glass quiet 
 
 Randi held her a moment by the shoulders and smiled, slow and soft, and it stayed a beat past where it needed to. "See you soon, gorgeous."
 
-Vee drove home lighter than she'd come. She did not examine it. She turned the radio up and let the day be good.
+Vee drove home lighter than she'd come. She turned the radio up, and the day was good.
