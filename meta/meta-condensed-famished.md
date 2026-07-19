@@ -54,8 +54,8 @@ The first night is the discharge of the Fitting's deferred tension. After the Fi
 **The panties / the line**
 - His palm brushes over the satin first, warmth through the fabric onto the wet — **felt before seen**, he meets the evidence before he's bared her (double exposure, the disavowal engine sharpest); fingers hook the waistband and draw them down, satin peeling and the crystal strings coming with it, obvious and excessive; she sees him see them
 - Her hand moves to cover herself and stops — the first time her shame surfaces where he can see it; the involuntary cue his line answers (he catches the aborted gesture, not a theory of her)
-- *Floozie*, said the voice. That was all it had.
-- He looks up: *"Would you be bothered if I was too hard?"* — a real consent question and something else at once; his face the same delight as the Fitting, scaled up: her body evidencing that his is landing, and that being the right thing; something shifts in her chest
+- *Floozie*, said the voice. That was the worst it had.
+- He looks up: *"Would you be bothered if I was too hard?"* — a real consent question and something else at once; his face the same delight as the Fitting, scaled up: her body producing proof that she wanted him, and that being the right thing; something shifts in her chest
 - She says no, and makes herself say it so it's true — and the suspended hand comes down into his hair: consent on two axes at once, the word and the body, the shielding hand redirected onto the thing she'd moved to hide (shame → arousal, kinetic)
 
 **Oral sex**

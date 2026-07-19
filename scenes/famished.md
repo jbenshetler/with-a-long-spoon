@@ -62,7 +62,7 @@ Then his fingers hooked inside the elastic at her hips and drew them down, and t
 
 He looked up at her and said: "Would you be bothered if I was too hard?"
 
-She understood it was a real question. She understood it was something else as well. The expression on his face was the same as the fitting, scaled up: her body producing evidence that his was landing, and that being the good thing, the right thing. Something shifted in her chest.
+She understood it was a real question. She understood it was something else as well. The expression on his face was the same as the fitting, scaled up: her body producing proof that she wanted him, and that being the good thing, the right thing. Something shifted in her chest.
 
 "No," she said, and made herself say it so it was true, and the hand that had stopped came down into his hair.
 
