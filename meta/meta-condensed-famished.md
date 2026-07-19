@@ -41,18 +41,18 @@ The first night is the discharge of the Fitting's deferred tension. After the Fi
 - His hands under her blouse along her ribs — the calluses of the workbench and the bar rough against bare skin; the same hands that built the platform, hemmed the dress, held her ankle in cold air on the mountain
 - Her nipples are hard before his hands reach them, crinkled against the satin, the body announcing itself — *floozie*, her mother's word, quick and flat; the loop runs
 - She breaks; he stills — the beginning of care, of stepping back; she does not want that kind of care
-- She takes the apron strap behind his neck and pulls: *"Where's your bedroom?"* — already moving
+- She takes the apron strap behind his neck and pulls: *"Will you show me your bedroom?"* — already moving; she knows the door (two-towels) but never crossed it, and turns his own courteous-request grammar back on him
 - He steers her with one hand at her hip; the apron drops to the bedroom floor
 
 **Bedroom undressing**
-- She reaches for his henley first — she wants to see him; the hike gave the outline, this is the resolution: woodworker's shoulders, powerlifter's arms, a man who uses himself continuously and without comment; palm flat on his sternum, his heart
+- She reaches for his henley first — she wants to see him; the hike gave the outline, this is the resolution: the powerlifter's mass up top (chest, deep shoulders, thickness into the neck) and the woodworker's arms under it (corded forearms, working strength), a man who uses himself continuously and without comment; palm flat on his solid chest, his heart
 - He opens her blouse from the bottom; she's briefly in the green bra before his hands find the clasp; then his hands on her, rough and warm and present — *floozie* — no seam between the heat and the shame
 - Anticipatory shame: she knows what's coming; the evidence has been building since the kitchen, since before it; she's already ashamed of what he hasn't seen yet; the anticipation sits on top of the fact, which is the point of the loop
-- He unzips the skirt at her hip; she steps out of it
-- He goes to his knees — the Fitting's geometry again: him on the floor, her standing, his hands at her waist; the pinned silk, the smile he hadn't hidden
+- He unzips the skirt and takes it down himself, palms flat to her legs, slower than needed, callus dragging warm over thigh/knee/calf, "getting the lay of her" — the languid beat lands on her legs, the one part of herself she's never doubted (pride, not shame), stretching the anticipation before the drop
+- He goes to his knees and draws the skirt off her feet — the Fitting's geometry again: him on the floor, her standing, his hands at her waist; the pinned silk, the smile he hadn't hidden
 
 **The panties / the line**
-- The lace comes down slowly; the crystal strings obvious and excessive; she sees him see them
+- His palm brushes over the satin first, warmth through the fabric onto the wet — **felt before seen**, he meets the evidence before he's bared her (double exposure, the disavowal engine sharpest); fingers hook the waistband and draw them down, satin peeling and the crystal strings coming with it, obvious and excessive; she sees him see them
 - Her hand moves to cover herself and stops — the first time her shame surfaces where he can see it; the involuntary cue his line answers (he catches the aborted gesture, not a theory of her)
 - *Floozie*, said the voice. That was all it had.
 - He looks up: *"Would you be bothered if I was too hard?"* — a real consent question and something else at once; his face the same delight as the Fitting, scaled up: her body evidencing that his is landing, and that being the right thing; something shifts in her chest

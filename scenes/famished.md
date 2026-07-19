@@ -38,23 +38,23 @@ She kissed him before he could answer, and this was different from him asking if
 
 She broke from the kiss. He stilled, the question already in his hands — the beginning of care, the beginning of stepping back — and she did not want his care, not that kind. She reached up and took the strap of the apron behind his neck and pulled.
 
-"Where's your bedroom?"
+"Will you show me your bedroom?"
 
 She was already moving. He steered her with one hand at her hip through the living room and the short hallway and into the room at the end. White walls. A bed that was large and low and simply made, plain white sheets, nothing decorative.
 
 The apron strap slipped from her hand and the apron landed on the floor behind them.
 
-She reached for the hem of his henley and he raised his arms and she pulled it off and stood a moment with it in her hands. The hike had given her the outline; this was the resolution: the woodworker's shoulders, the powerlifter's arms, the body of a man who used himself continuously and without comment. She put her palm flat against his chest and felt his heart.
+She reached for the hem of his henley and he raised his arms and she pulled it off and stood a moment with it in her hands. The hike had given her the outline; this was the resolution: the chest and the deep shoulders, the thickness carried up into his neck, the mass a man builds moving weight; and under it the arms were a different strength, the woodworker's, corded down the forearm, made by tools and not for show. The body of a man who used himself continuously and without comment. She put her palm flat against his chest, solid under her hand, and felt his heart.
 
 He opened her blouse from the bottom and pushed it from her shoulders. She was briefly in the green bra before his hands found the clasp. And then his hands were on her, rough and warm and present — *floozie* — and she could not find the seam between the heat and the shame because there was no seam, they ran on the same wire, and she had stopped looking for one.
 
-She knew what was coming. That was the worst of it: she knew. When the skirt came off, when the panties came off, the evidence that had been building since the kitchen, since before the kitchen, since she'd dressed tonight, for Pace, for their first time. She was already ashamed of what he hadn't seen yet. The anticipation sat on top of the fact of it, which made it worse, which made more anticipation, and that was the point of the loop, and the loop did not stop.
+She knew what was coming. That was the worst of it: she knew. When the skirt came off, when the panties came off, the evidence that had been building since the kitchen, since before the kitchen, since she'd dressed tonight, for Pace, for their first time. She was already ashamed of what he hadn't seen yet. The anticipation sat on top of the fact of it, which made it worse, which made more anticipation.
 
-He unzipped the skirt at her hip. She stepped out of it.
+He unzipped the skirt at her hip and took it down himself, both palms flat to the outsides of her legs and following the fabric down, slower than it needed to go. The callus of his hands dragged warm over her thighs, her knees, the swell of her calves. He was in no hurry. He was getting the lay of her. She had good legs, the one thing about herself she had never once doubted, and he took his time down the length of them like a man learning ground he meant to come back to.
 
-He went to his knees.
+He went to his knees and drew the skirt off her feet. She stepped free of it.
 
-The sun porch again: him on the floor, her standing, his hands at her waist, and she remembered the pinned silk and the smile he hadn't tried to hide. The lace came down slowly and she watched his face and the crystal strings were there, obvious and excessive, and she saw him see them. Her hand moved to cover herself and stopped.
+The sun porch again: him on the floor, her standing, his hands at her waist, and she remembered the pinned silk and the smile he hadn't tried to hide. His palm moved down over the satin, over the front of her, slow, and its warmth came through the thin fabric onto the exact place she was wet, pressing the damp back against her, so he met it before he had bared her at all. Then his fingers hooked inside the elastic at her hips and drew them down, and the satin peeled away and the crystal strings came with it, obvious and excessive, thin and bright between the fabric and her skin. She saw him see them. Her hand moved to cover herself and stopped.
 
 *Floozie*, said the voice. That was all it had.
 
