@@ -126,7 +126,7 @@ Both women are transformed by Pace. Both gain vulnerability through new openness
 
 **In Randi, the novelty is the need itself.** Her apparatus was organized for twenty-one years against producing hunger. The hunger now exists and she has no equipment for being a hungering thing. The same software, no hardware.
 
-**Consent is the same instrument, used in opposite directions.** Vee's yes opens her — she consents and is drawn further in, building her own cage (The Permission Rule); consent deepens the exposure. Randi's yes closes the door at a chosen width — she consents to a dose of being-seen and no more; consent is how she caps it. For Vee, consent is the way in; for Randi, the wall. *(See `meta-arch-randi.md`, the consent-dosed being-seen.)*
+**Consent is the same instrument, used in opposite directions.** Vee's yes opens her — she consents and is drawn further in, building her own cage (the Telling); consent deepens the exposure. Randi's yes closes the door at a chosen width — she consents to a dose of being-seen and no more; consent is how she caps it. For Vee, consent is the way in; for Randi, the wall. *(See `meta-arch-randi.md`, the consent-dosed being-seen.)*
 
 The parallel-and-opposite structure is real and **must remain invisible in the prose.** Neither woman can see what is happening in the other. The reader feels the chiasmus from outside two interiors that cannot see each other at this depth. The most important single discipline for protecting the architecture against literary risk: do not let any character or the narrator name the structure.
 
