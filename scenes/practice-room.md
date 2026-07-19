@@ -4,7 +4,7 @@ The stats lecture met at eleven in one of the tiered rooms on the second floor o
 
 Cassie was already there, of course, two-thirds back where they always sat, the seat on her left saved with a backpack she lifted away as Vee came down the row. Randi arrived a minute later from the other side and dropped into the aisle seat so that Vee was between them, and the warm green-citrus wave of her got there first, the way it always did, a half-second ahead of the rest.
 
-"Look at you," Randi said, low, already smiling. "You look like you've been up to something."
+"Look at that face," Randi said, low, already smiling. "You look like you've been up to something."
 
 "I look like I didn't sleep."
 

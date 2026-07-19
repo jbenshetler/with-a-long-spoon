@@ -97,7 +97,7 @@ Vee looked at her.
 
 "The bra too," Vee said. "Yeah."
 
-"There she is." Randi sat back an inch, pleased, and let it land, and then came the next thing, easy, like it followed naturally, because it did. "So how did he manage that *fabulous* bust? God." She looked frankly at Vee's chest, the way a woman looks at another woman's good feature, with open longing. "The tit goddess was good to you." 
+"There it is." Randi sat back an inch, pleased, and let it land, and then came the next thing, easy, like it followed naturally, because it did. "So how did he manage that *fabulous* bust? God." She looked frankly at Vee's chest, the way a woman looks at another woman's good feature, with open longing. "The tit goddess was good to you." 
 
 Vee laughed, helpless, complimented, the heat in her face turning to pleasure — because this was the thing about Randi, she could make you feel like the lucky one, like the thing you'd been ashamed of your whole life was, all along, something to be glad of.
 

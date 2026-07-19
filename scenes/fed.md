@@ -2,7 +2,7 @@
 
 The bistro had a sun porch along its south side, a long room of glass and white-painted muntins where the late-morning light came in and lay on everything without asking. Randi had picked it. Randi picked all of them. Vee came in out of the ordinary day and into that bright room and felt what she always felt at the start of these, which was chosen, which was lit, which was a half-second behind.
 
-Randi was already at a table against the glass, sunglasses pushed up into her hair, and she did the thing where she saw Vee and her whole face opened, as if Vee arriving were the good news she'd been waiting on all week. "There she is," she said. "God, you're glowing. Sit, sit."
+Randi was already at a table against the glass, sunglasses pushed up into her hair, and she did the thing where she saw Vee and her whole face opened, as if Vee arriving were the good news she'd been waiting on all week. "There's my girl," she said. "God, you're glowing. Sit, sit."
 
 The menu was a single heavy card, and Vee opened hers and read the right side first, the way she read a road in fog, looking for what was passable. The egg things were not low and the not-low was real. But there, near the top, under the heading that said the porch did this on weekends, the mimosa had a number beside it she could hold. She did the small arithmetic, the kind that ended in Thursday, and found that Thursday would survive it.
 

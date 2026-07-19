@@ -564,13 +564,6 @@ text = "The waiter came and Randi ordered a mimosa without looking at the card a
 note = "scene review 2026-07: author accepted; load-bearing 'the way' simile, keep"
 
 [[ok]]
-fp   = "479a1ee20d2f"
-rule = "there-she-is"
-file = "scenes/fed.md"
-text = "\"There she is,\" she said."
-note = "Randi's signature recognition beat (canon: meta-craft-randi.md Reserved Vocabulary); single instance, greeting only"
-
-[[ok]]
 fp   = "017fd4a7c9bf"
 rule = "there-was-were"
 file = "scenes/fed.md"
