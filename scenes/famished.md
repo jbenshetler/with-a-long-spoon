@@ -52,7 +52,7 @@ He unzipped the skirt at her hip. She stepped out of it.
 
 He went to his knees.
 
-The sun porch again: him on the floor, her standing, his hands at her waist, and she remembered the pinned silk and the smile he hadn't tried to hide. The lace came down slowly and she watched his face and the crystal strings were there, obvious and excessive, and she saw him see them.
+The sun porch again: him on the floor, her standing, his hands at her waist, and she remembered the pinned silk and the smile he hadn't tried to hide. The lace came down slowly and she watched his face and the crystal strings were there, obvious and excessive, and she saw him see them. Her hand moved to cover herself and stopped.
 
 *Floozie*, said the voice. That was all it had.
 
