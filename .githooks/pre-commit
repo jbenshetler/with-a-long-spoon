@@ -1,0 +1,18 @@
+#!/bin/sh
+# Pre-commit: validate {{Chapter Title}} references resolve to real chapters
+# (see CLAUDE.md, "Chapter-title references"). Runs only when a meta/*.md file
+# is staged, so non-meta commits aren't slowed.
+#
+# This hook is versioned but not auto-installed. Activate it on a fresh clone:
+#     git config core.hooksPath .githooks
+#
+staged=$(git diff --cached --name-only --diff-filter=ACM | grep '^meta/.*\.md$')
+[ -z "$staged" ] && exit 0
+
+if ! python3 tools/lint_titles.py --all; then
+    echo "" >&2
+    echo "pre-commit: a {{Title}} reference does not resolve to a chapter." >&2
+    echo "Fix the title/alias or unbrace it, then re-commit." >&2
+    echo "(To bypass in an emergency: git commit --no-verify)" >&2
+    exit 1
+fi

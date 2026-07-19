@@ -6,7 +6,7 @@
 
 ## The title (triple read)
 
-*{{In His Hands}}* — his attentive handling of her body (the comfort-motif); the photo literally in his hand when she's away; and she herself *in his hands*, his to arrange — the control quiet under the care. Warm on the surface, the last read only visible in the pattern.
+*In His Hands* — his attentive handling of her body (the comfort-motif); the photo literally in his hand when she's away; and she herself *in his hands*, his to arrange — the control quiet under the care. Warm on the surface, the last read only visible in the pattern.
 
 ## What it's for
 

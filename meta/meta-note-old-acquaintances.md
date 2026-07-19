@@ -1,6 +1,6 @@
 # Note — Old Acquaintances (the cost-weighing; the beige plant)
 
-*Vignette · Unwritten · rendered on **New Year's Eve**, Christmas break · Vee solo, at her parents' home (Ohio) · companion to the chronology's [VIGNETTE] {{Old Acquaintances}} · one panel of the break triptych ({{Fairytale}} / {{The Usual}})*
+*Vignette · Unwritten · rendered on **New Year's Eve**, Christmas break · Vee solo, at her parents' home (Ohio) · companion to the chronology's [VIGNETTE] Old Acquaintances · one panel of the break triptych ({{Fairytale}} / {{The Usual}})*
 
 ## What this scene is now
 

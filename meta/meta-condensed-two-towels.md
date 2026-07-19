@@ -18,9 +18,9 @@ Vee's first visit to Pace's house — a small post-war house at the top of a gra
 
 ## Continuity and Revision Notes
 
-> *The dress cluster sits between the fitting and shoe-shopping. Order is load-bearing: the dress is unfinished across the fitting ({{Two Towels}} → {{A Round}}), finished and picked up at {{Dress Pickup}}.*
+> *The dress cluster sits between the fitting and shoe-shopping. Order is load-bearing: the dress is unfinished across the fitting (Two Towels → {{A Round}}), finished and picked up at {{Dress Pickup}}.*
 
-> *Split note: "{{Two Towels}}" was formerly the front half of a single long scene (~9.7k words). It now ends on her "Yes"; the measuring/fitting is its own chapter, **{{A Round}}** (`a-round.md`), same afternoon.*
+> *Split note: "Two Towels" was formerly the front half of a single long scene (~9.7k words). It now ends on her "Yes"; the measuring/fitting is its own chapter, **{{A Round}}** (`a-round.md`), same afternoon.*
 
 ## Plants / Pays Off
 

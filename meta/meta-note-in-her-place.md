@@ -2,7 +2,7 @@
 
 *Scene · **Drafted end to end: `scenes/in-her-place.md`** (converted from the fall "Sweet" dress-barb; that scene retired) · ~April (spring), the afternoon of the Secret Plans brunch retell · Pace's POV · Randi/Pace · **absorbs** the Randi→Pace "secret plans" joke*
 
-Title: **{{In Her Place}}** (slug `in-her-place`) — Randi in Vee's exact place (substitution), "put in her place" (the self-subjugation), and whose *place* the claimed green bed is. Naming resolved (was working title "Green Sheets"; alt considered "The White Sheets", Randi's-rank framing). The green sheets remain the scene's central object/thread — only the scene *title* changed.
+Title: **In Her Place** (slug `in-her-place`) — Randi in Vee's exact place (substitution), "put in her place" (the self-subjugation), and whose *place* the claimed green bed is. Naming resolved (was working title "Green Sheets"; alt considered "The White Sheets", Randi's-rank framing). The green sheets remain the scene's central object/thread — only the scene *title* changed.
 
 ## Why the scene exists (the spine)
 

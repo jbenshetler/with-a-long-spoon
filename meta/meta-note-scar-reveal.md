@@ -39,4 +39,4 @@ The two confessions run at **different temperatures** — both unhealed, but the
 - `meta-arch-bible.md` / `meta-arch-pace.md` — scar physical form, the bike-dragging origin, the same-shape rule (carelessness suffered → carelessness reproduced).
 - `meta-condensed-famished.md` — the plant ("returns later"; do not explain there).
 - `meta-note-first-love.md` — sibling confession (the first love, late summer); the temperature contrast.
-- `meta-plan-chronology.md` — Step 1 rides **{{Rock}}** (~late Oct, the porch/name scene); Step 2 is **{{The Scar}}** (~April).
+- `meta-plan-chronology.md` — Step 1 rides **{{Rock}}** (~late Oct, the porch/name scene); Step 2 is **The Scar** (~April).

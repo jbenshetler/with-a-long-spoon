@@ -1,6 +1,6 @@
 # Note — The Usual
 
-Companion note for `scenes/the-usual.md`. Placement: ~late December, Christmas break, after {{Believe Me}}. **Pace close third.** Third panel of the break triptych ({{Fairytale}} | {{Old Acquaintances}} | **{{The Usual}}**); the one bond on the page that isn't lonely.
+Companion note for `scenes/the-usual.md`. Placement: ~late December, Christmas break, after {{Believe Me}}. **Pace close third.** Third panel of the break triptych ({{Fairytale}} | {{Old Acquaintances}} | **The Usual**); the one bond on the page that isn't lonely.
 
 ## Format — face-to-face, NOT side-by-side
 

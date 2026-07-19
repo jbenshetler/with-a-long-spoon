@@ -20,7 +20,7 @@ The same afternoon, continuing directly from **{{Two Towels}}** (`two-towels.md`
 
 ## Continuity and Revision Notes
 
-> *Split note: "{{A Round}}" was formerly the back half of a single long scene (~9.7k words). It is the fitting/measuring proper, following **{{Two Towels}}** (`two-towels.md`) on the same afternoon.*
+> *Split note: "A Round" was formerly the back half of a single long scene (~9.7k words). It is the fitting/measuring proper, following **{{Two Towels}}** (`two-towels.md`) on the same afternoon.*
 
 > *First ass-contact for Vee lands here (the knee-walk hem circuit) — NOT contradicted by {{The Bench}}, whose ass-contact is Randi's (Pace POV, Vee absent).*
 
