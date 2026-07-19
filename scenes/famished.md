@@ -54,11 +54,13 @@ He unzipped the skirt at her hip and took it down himself, both palms flat to th
 
 He went to his knees and drew the skirt off her feet. She stepped free of it.
 
-The sun porch again: him on the floor, her standing, his hands at her waist, and she remembered the pinned silk and the smile he hadn't tried to hide. His palm moved down over the satin, over the front of her, slow, and its warmth came through the thin fabric onto the exact place she was wet, pressing the damp back against her, so he met it before he had bared her at all. Then his fingers hooked inside the elastic at her hips and drew them down, and the satin peeled away and the crystal strings came with it, obvious and excessive, thin and bright between the fabric and her skin. She saw him see them. Her hand moved to cover herself and stopped.
+The sun porch again: him on the floor, her standing, his hands at her waist, and she remembered the pinned silk and the smile he hadn't tried to hide. His palm moved down over the satin, over the front of her, slow, and its warmth came through the thin fabric onto the exact place she was wet, pressing the damp back against her, so he met it before he had bared her at all. 
 
-*Floozie*, said the voice. That was all it had.
+*Floozie*, said the voice. That was the worst it had.
 
-He looked up at her and said, not hiding it: "Would you be bothered if I was too hard?"
+Then his fingers hooked inside the elastic at her hips and drew them down, and the satin peeled away and the crystal strings came with it, obvious and excessive, thin and bright between the fabric and her skin. She saw him see them. Her hand moved to cover herself and stopped.
+
+He looked up at her and said: "Would you be bothered if I was too hard?"
 
 She understood it was a real question. She understood it was something else as well. The expression on his face was the same as the fitting, scaled up: her body producing evidence that his was landing, and that being the good thing, the right thing. Something shifted in her chest.
 
