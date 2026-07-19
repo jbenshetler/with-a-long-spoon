@@ -487,6 +487,27 @@ text = "Randi set her chin in her hand and turned the whole of her face on Vee."
 note = "author-approved 2026-07-14: 'turned the whole of her face on Vee' stands — total-attention image is the beat"
 
 [[ok]]
+fp   = "ab8e9f2fba5a"
+rule = "filter-verbs"
+file = "scenes/famished.md"
+text = "They pushed up into his mouth and his hand, chasing it, greedy, and she heard herself, the sound that came out of her with no word in it, and the shame came for that, for her body doing this out loud where he could feel how much she wanted."
+note = "she heard herself = the auditory shame occasion (her body going audible where he can hear it); filter is load-bearing, cf. accepted 'she saw him see them'"
+
+[[ok]]
+fp   = "c684a2dd1993"
+rule = "the-way"
+file = "scenes/famished.md"
+text = "She waited for the shame to crest and close her, the way it always had, and it didn't."
+note = "author-approved pivot sentence (no-management-gap); 'the way it always had' stands"
+
+[[ok]]
+fp   = "1f34f2f824d7"
+rule = "there-was-were"
+file = "scenes/famished.md"
+text = "He put his mouth to her, a kiss first, low on the soft swell of her, then his tongue moving slow through the slick of her, taking the whole length of her at once, how ready she had been, how much of her there was for him to find."
+note = "propulsive appositive in the bench register; existential reads as intended"
+
+[[ok]]
 fp   = "3bd177e26b85"
 rule = "filter-verbs"
 file = "scenes/fed.md"

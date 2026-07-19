@@ -66,7 +66,11 @@ She understood it was a real question. She understood it was something else as w
 
 "No," she said, and made herself say it so it was true, and the hand that had stopped came down into his hair.
 
-He was meticulous and unhurried. She waited for the tightening around her eyes and it didn't come. The shame was still running and she was burning through it. She heard herself. Her hand was still in his hair and she was not watching it be there.
+He put his mouth to her, a kiss first, low on the soft swell of her, then his tongue moving slow through the slick of her, taking the whole length of her at once, how ready she had been, how much of her there was for him to find. The shame came up with the heat and she could not have said which was which: that he would meet all of it, that her body had laid it out for him before he had so much as asked. He did not move past it. He stayed in the wet of her and tasted her and was glad of it, his hands coming up the backs of her thighs to the round of her, holding her open to his mouth, and nothing in how he held her wanted her to be any less than she was.
+
+Then his mouth found the point of her and settled there, soft, working her, his tongue going back down through the slick of her, gathering the wet of her, returning, and his fingers slid up into her, easy, she was so wet they went in with nothing to stop them, and curled. Her hips moved. She had not told them to. They pushed up into his mouth and his hand, chasing it, greedy, and she heard herself, the sound that came out of her with no word in it, and the shame came for that, for her body doing this out loud where he could feel how much she wanted. She waited for the shame to crest and close her, the way it always had, and it didn't. The shame was still running and she was burning through it, and his hand was on the round of her, holding her up and pulling her in, and her hand was in his hair and she was not watching it be there.
+
+It built where his mouth held her, higher and tighter, past the place she could have stopped it, and she did not want to stop it. It broke over her standing up. Her knees gave and his hand took her weight, the round of her filling his palm, holding her against his mouth while it went through her in long clenching waves around his fingers, and she rode them down with her hand fisted in his hair, her whole body open and shaking and loud, and the shame ran the whole length of it and never closed her.
 
 She pulled him up.
 

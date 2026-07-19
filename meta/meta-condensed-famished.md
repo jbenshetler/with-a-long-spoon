@@ -58,10 +58,11 @@ The first night is the discharge of the Fitting's deferred tension. After the Fi
 - He looks up: *"Would you be bothered if I was too hard?"* — a real consent question and something else at once; his face the same delight as the Fitting, scaled up: her body producing proof that she wanted him, and that being the right thing; something shifts in her chest
 - She says no, and makes herself say it so it's true — and the suspended hand comes down into his hair: consent on two axes at once, the word and the body, the shielding hand redirected onto the thing she'd moved to hide (shame → arousal, kinetic)
 
-**Oral sex**
-- Meticulous and unhurried
-- She waits for the tightening around her eyes — the small managed brace she'd held through every prior version — and it doesn't come
-- The shame still running; she burns through it; she hears herself; her hand in his hair, not watching it be there
+**Oral sex** — the [Secretions Reframe](meta-plan-help-harm-dials.md): First-Night operation. Slow; he stays in the wet of her, tastes her, is glad of it — welcomes the abundance she's been condemned for; safe-and-admired rendered wordless, in how he holds her open and wants nothing less. Taste axis stays clean *in her* (Pace may taste; Vee doesn't want to or dwell — not yet in her mind).
+- His mouth: kiss low, tongue through the slick, then the point of her; fingers slide in (so wet, nothing stops them); one hand on the round of her, the other's fingers inside
+- Her wetness and her wantonness are the shame occasion: her hips move on their own, chasing, greedy; she hears herself, the sound with no word in it
+- She waits for the shame to crest and close her the way it always had — the managed brace of every prior version — and it doesn't come: the **No Management Gap**, first time. The shame still running; she burns through it; her hand in his hair, not watching it be there
+- She crests standing; her knees give and his hand takes her weight (held against his mouth, clenching around his fingers); the shame runs the whole length of it and never closes her — first oral crest (second at intercourse)
 - She pulls him up
 
 **The scar**
