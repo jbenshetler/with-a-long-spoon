@@ -150,11 +150,18 @@ def resolve_date(seg: str):
 
 # --- metadata segment classification ---------------------------------------
 LINK_RE = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
+# {{Chapter Title}} marks a reference to a chapter *by its title* (planning docs
+# only) so titles are machine-distinguishable from same-word event/prose uses.
+# The braces are display furniture: stripped for chip/beeswarm text (classify)
+# and turned into a styled span in body prose (md_inline). See CLAUDE.md.
+TITLE_MARK = re.compile(r"\{\{([^}]+)\}\}")
 
 
 def classify(seg: str):
     """Return (kind, value-dict) for one metadata segment."""
-    s = seg.strip()
+    # Strip {{Title}} marks to plain text before classifying — the braces are a
+    # tooling/disambiguation device, not display; the source file keeps them.
+    s = TITLE_MARK.sub(r"\1", seg).strip()
     low = s.lower()
     if not s:
         return None
@@ -349,6 +356,7 @@ def month_ticks(pad_l, plot_w, span):
 # --- inline markdown -> html ------------------------------------------------
 def md_inline(text: str) -> str:
     text = html.escape(text)
+    text = TITLE_MARK.sub(r'<span class="title">\1</span>', text)
     text = re.sub(r"\[\[([^\]]+)\]\]", r'<span class="wiki">\1</span>', text)
     text = LINK_RE.sub(r'<a href="\2">\1</a>', text)
     text = re.sub(r"\*\*([^*]+)\*\*", r"<strong>\1</strong>", text)
@@ -929,7 +937,7 @@ PAGE = """<!doctype html>
   .chip.review.unreviewed {{ color:#cdd3dd; font-weight:500; }}
   details {{ margin-top:8px; }}  summary {{ cursor:pointer; color:var(--mut); font-size:12px; }}
   details p {{ margin:8px 0; }}  code {{ background:#222936; padding:1px 5px; border-radius:4px; font-size:13px; }}
-  .wiki {{ color:#c9b6ff; }}  a {{ color:#9fd3ff; }}
+  .wiki {{ color:#c9b6ff; }}  .title {{ color:#e7c9a0; font-style:italic; }}  a {{ color:#9fd3ff; }}
   .flag {{ display:flex; gap:12px; background:var(--panel); border:1px solid var(--line);
     border-radius:10px; padding:12px 15px; margin:9px 0; }}
   .flagnum {{ flex:0 0 28px; height:28px; border-radius:50%; background:#2a313d; color:var(--ink);
