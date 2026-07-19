@@ -60,9 +60,9 @@ He looked up at her and said, not hiding it: "Would you be bothered if I was too
 
 She understood it was a real question. She understood it was something else as well. The expression on his face was the same as the fitting, scaled up: her body producing evidence that his was landing, and that being the good thing, the right thing. Something shifted in her chest.
 
-"No," she said, and made herself say it so it was true.
+"No," she said, and made herself say it so it was true, and the hand that had stopped came down into his hair.
 
-He was meticulous and unhurried. She waited for the tightening around her eyes and it didn't come. The shame was still running and she was burning through it. She heard herself. Her hand was in his hair and she was not watching it be there.
+He was meticulous and unhurried. She waited for the tightening around her eyes and it didn't come. The shame was still running and she was burning through it. She heard herself. Her hand was still in his hair and she was not watching it be there.
 
 She pulled him up.
 
