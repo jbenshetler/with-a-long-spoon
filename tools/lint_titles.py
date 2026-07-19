@@ -111,6 +111,8 @@ def find_bare(path: Path, chapters: set):
 def main():
     ap = argparse.ArgumentParser(
         description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    ap.add_argument("paths", nargs="*",
+                    help="specific files to check (default: the chronology)")
     ap.add_argument("--all", action="store_true", help="validate every meta/*.md")
     ap.add_argument("--bare", action="store_true",
                     help="also flag likely-unmarked multi-word titles (advisory)")
@@ -134,7 +136,12 @@ def main():
             print(f"{a}  (alias -> {ALIASES[a]})")
         return
 
-    files = sorted((REPO / "meta").glob("*.md")) if args.all else [CHRONOLOGY]
+    if args.paths:
+        files = [Path(p) for p in args.paths]
+    elif args.all:
+        files = sorted((REPO / "meta").glob("*.md"))
+    else:
+        files = [CHRONOLOGY]
     bad = 0
     for f in files:
         for lineno, title, ok in check_file(f, valid):
