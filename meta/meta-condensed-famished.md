@@ -28,7 +28,7 @@ The first night is the discharge of the Fitting's deferred tension. After the Fi
 - Friday evening she drives out in ballet flats over her burgundy toenails, the green moved to the top of the drawer that morning; *told herself none of this meant anything in particular*
 
 **Arrival / kitchen**
-- He answers in a canvas apron over a dark henley, sleeves pushed to the elbows; the hello kiss is still and certain — more than a greeting, less than what she's been thinking about since the Fitting
+- He opens the door in a canvas apron over a dark henley, sleeves pushed to the elbows; the whole charged week reduces to a weak *"Hi"* — she can't find anything to say; he says *"Hi"* back and lets her in (no hello kiss; the first kiss is hers to give, at *"I never thanked you for the shirt"*)
 - Kitchen: mise-en-place ready (garlic crushed, pepper flakes measured, tomatoes waiting), pan dry and clean on the burner — *she arrives before the heat*
 - Chianti Classico open on the counter, already breathing; he'd opened it before she arrived
 - He hands her a glass without asking and goes back to the stove; she holds the wine and does not drink it
@@ -96,6 +96,8 @@ The first night is the discharge of the Fitting's deferred tension. After the Fi
 > **The nail color.** Burgundy — close to the silk he chose for her dress; connection noticed by her, not named. Green is her interior color (the panties and matching bra); burgundy is exterior / his. Do not conflate. Both are bought this week under a reason that isn't the reason.
 
 > **The green pair is NEW — two-pair arc, do not reconcile to one.** The panties at the Fitting (`a-round.md`) are *pale, shining* satin — her "one good pair" *then*. The deep-green satin here is a **different, newly-bought pair**, its purchase now dramatized in the mall beat (with the matching bra bought as a set). After being truly seen on the riser, she begins wearing her interior color (green) outward — externalized in an object, never explained on the page (rhymes with the burgundy polish she also buys "without thinking too hard about why"). A future editor may want to make the Fitting and first-night panties one garment — **do not.** The pale→green change is a character beat. (The "crystal strings" at the reveal are her fluids, not fabric — a tableau echo of his face at the Fitting, not a carried-over garment.)
+
+> **The wine.** Open before she arrives; he pours her a glass. No wine is drunk before the sex — hers held untouched, his waiting on the counter, both drunk only after (*better for having waited*, as in New Ordinary). The consent line rests on that abstention, not on what the wine is "for," so the staged bottle is fine; the *two glasses poured out* in My Friend Randi's retell is consistent — poured, not drunk.
 
 > **The flannel.** She's slept in Pace's flannel since the hike; its smell fades with wear, not washing — she does not wash it before this night (that comes in the New Ordinary). By this week it's "gone thin," which sets up the bed beat's recognition: the sheets are the source behind the proxy she's been studying.
 

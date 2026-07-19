@@ -10,7 +10,13 @@ Back at the dorm the afternoon light was still good, and she painted her toenail
 
 She drove to his house the next evening in ballet flats over her burgundy toenails, the green moved to the top of the drawer that morning, and told herself none of this meant anything in particular.
 
-He opened the door in a canvas apron over a dark henley, sleeves pushed to the elbows, and when he kissed her hello it was still and certain, more than a greeting, less than what she'd been thinking about since the fitting. She stepped inside, and the house smelled of garlic and red pepper and nothing else. On the counter the cutting board held everything ready: garlic crushed, pepper flakes measured into a small bowl beside the tin of crushed tomatoes. The pan was dry and clean on the burner. He'd done all the preparation and stopped.
+He opened the door in a canvas apron over a dark henley, sleeves pushed to the elbows. She had spent the week not thinking about tonight, and now here it was, and she couldn't find anything to say.
+
+"Hi," she said.
+
+"Hi," he said, and stepped back to let her in.
+
+She stepped inside, and the house smelled of garlic and red pepper and nothing else. On the counter the cutting board held everything ready: garlic crushed, pepper flakes measured into a small bowl beside the tin of crushed tomatoes. The pan was dry and clean on the burner. He'd done all the preparation and stopped.
 
 A Chianti Classico open on the counter, already breathing. He'd opened it before she arrived.
 
