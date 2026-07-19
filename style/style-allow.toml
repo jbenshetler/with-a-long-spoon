@@ -2118,6 +2118,132 @@ text = "He looked at the bare smooth cleft between her legs, waxed clean, a smal
 note = "her body — literally small"
 
 [[ok]]
+fp   = "01ccc5636352"
+rule = "filter-verbs"
+file = "scenes/the-bench.md"
+text = "He watched."
+note = "terse 'He watched.' is the last beat in a four-part parallel of deliberate actions; rhythmic, intended"
+
+[[ok]]
+fp   = "05ab986d05b7"
+rule = "filter-verbs"
+file = "scenes/the-bench.md"
+text = "He kept his hand there, working her steadily, until he felt the first long tremor begin in her thighs."
+note = "kept per author"
+
+[[ok]]
+fp   = "2fb9a6361f21"
+rule = "filter-verbs"
+file = "scenes/the-bench.md"
+text = "He felt her weight on him."
+note = "clean simple perception; kept per author"
+
+[[ok]]
+fp   = "3b3061b9c55f"
+rule = "filter-verbs"
+file = "scenes/the-bench.md"
+text = "He heard it."
+note = "climax payoff staccato; he's been waiting for her real voice since the first night — intended"
+
+[[ok]]
+fp   = "3f4fc8efa404"
+rule = "filter-verbs"
+file = "scenes/the-bench.md"
+text = "He felt it run through her against his chest."
+note = "kept per author"
+
+[[ok]]
+fp   = "5919d850a757"
+rule = "filter-verbs"
+file = "scenes/the-bench.md"
+text = "He felt the small jolt go through her body when he named the specific name."
+note = "419 restored per author; naming-the-audience beat stays"
+
+[[ok]]
+fp   = "676e5278682c"
+rule = "filter-verbs"
+file = "scenes/the-bench.md"
+text = "She did not understand yet how she felt about him for having produced it."
+note = "false positive — 'felt about him' is emotional, not a perception filter"
+
+[[ok]]
+fp   = "7be9bdd7a32c"
+rule = "filter-verbs"
+file = "scenes/the-bench.md"
+text = "\"What do you think your sorority sisters would think if they saw you right now?\""
+note = "dialogue — perception verb in Pace's spoken line, not narration"
+
+[[ok]]
+fp   = "7fad07e416f4"
+rule = "filter-verbs"
+file = "scenes/the-bench.md"
+text = "He felt her shiver, the small ripple that ran up her spine and into her shoulders."
+note = "kept per author"
+
+[[ok]]
+fp   = "92cb5fe68b5e"
+rule = "filter-verbs"
+file = "scenes/the-bench.md"
+text = "When he pressed deeper he felt the grip of her, the muscle inside pulling at him in tight, rhythmic pulses."
+note = "kept per author"
+
+[[ok]]
+fp   = "9366e54afddb"
+rule = "filter-verbs"
+file = "scenes/the-bench.md"
+text = "He felt himself receive it."
+note = "climax payoff staccato; intended"
+
+[[ok]]
+fp   = "a26390a17fd7"
+rule = "filter-verbs"
+file = "scenes/the-bench.md"
+text = "He heard, after a long pause, the very quiet sound of a woman crying again, briefly, then stopping."
+note = "listening-series structure (did not hear/did not hear/heard); parallel to acked 323"
+
+[[ok]]
+fp   = "aa5b56348a85"
+rule = "filter-verbs"
+file = "scenes/the-bench.md"
+text = "He watched the pink rise on her pale skin in the shape of his hand."
+note = "kept per author"
+
+[[ok]]
+fp   = "c6a9c7fb323f"
+rule = "filter-verbs"
+file = "scenes/the-bench.md"
+text = "She walked ahead of him to the thing he had built for her, and he watched her walk, and the walk was part of what he was watching."
+note = "his gaze is the scene's engine; doubled watched/watching is rhetorical, intended"
+
+[[ok]]
+fp   = "c84c8e48a368"
+rule = "filter-verbs"
+file = "scenes/the-bench.md"
+text = "She tried, briefly, by lifting her chin and arranging her mouth into the slight knowing half-smile she used in photographs, and the face in the mirror produced the smile, and the smile sat on top of the face that had begged, and she saw the disjunction and her eyes filled briefly and she made the small breath of a laugh which was the same breath of a laugh she had made when he had said *there you are.*"
+note = "Randi's mirror POV — she's literally looking at her reflection; kept"
+
+[[ok]]
+fp   = "da3bb015be99"
+rule = "filter-verbs"
+file = "scenes/the-bench.md"
+text = "She shut the door behind her, gently, and he heard the small click of the lock turning over, which was not a thing she had ever done before in his house."
+note = "echoes the opening front-door locking (line 7, kept); mirror intended"
+
+[[ok]]
+fp   = "da44ac53b88e"
+rule = "filter-verbs"
+file = "scenes/the-bench.md"
+text = "He heard it open, and then the deadbolt turn over as she locked it behind her — she always locked it behind her, first thing, before anything else — and he came through the kitchen to meet her."
+note = "opening sensorium; his hearing seats us in his body from the first line — kept per author"
+
+[[ok]]
+fp   = "feb9ef59cf8d"
+rule = "filter-verbs"
+file = "scenes/the-bench.md"
+text = "She cried out and the cry was not a trained cry, the cry was real, the cry was a *sound from her,* and he heard it land and he heard himself want to hear it again, and he soothed her and waited and hit her again to hear her make it again, and she did."
+note = "doubled 'he heard...heard himself want' is rhetorical (appetite surfacing); intended"
+
+[[ok]]
 fp   = "0ed5e65adaaf"
 rule = "the-way"
 file = "scenes/the-bench.md"
@@ -2221,6 +2347,27 @@ rule = "the-way"
 file = "scenes/the-bench.md"
 text = "The lamplight fell across her back and shoulders and down over the long pale length of her, her skin taking the light the way oiled wood took it — warm, deep, alive at the surface."
 note = "oiled-wood motif: furniture-maker rendering her body"
+
+[[ok]]
+fp   = "0b8e8e85345e"
+rule = "there-she-is"
+file = "scenes/the-bench.md"
+text = "\"There you are,\" he said, very softly."
+note = "Pace's reserved beholding-register; earned apex"
+
+[[ok]]
+fp   = "23ba9cbf8973"
+rule = "there-she-is"
+file = "scenes/the-bench.md"
+text = "\"There you are, Randi.\""
+note = "Pace's reserved beholding-register; earned apex (+name)"
+
+[[ok]]
+fp   = "6c89089174fd"
+rule = "there-she-is"
+file = "scenes/the-bench.md"
+text = "She tried, briefly, by lifting her chin and arranging her mouth into the slight knowing half-smile she used in photographs, and the face in the mirror produced the smile, and the smile sat on top of the face that had begged, and she saw the disjunction and her eyes filled briefly and she made the small breath of a laugh which was the same breath of a laugh she had made when he had said *there you are.*"
+note = "mirror echo of the beholding beat; intended"
 
 [[ok]]
 fp   = "21894f4b06de"

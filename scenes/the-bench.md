@@ -6,7 +6,7 @@
 
 The room was warm when she came in, the kind of even unhurried warmth he kept the house at because he liked being able to take his time without thinking about whether someone else was cold. He had left the front door unlocked for her. He heard it open, and then the deadbolt turn over as she locked it behind her — she always locked it behind her, first thing, before anything else — and he came through the kitchen to meet her. He did not call out to her, and she did not call out to him, and the small economy of two people who had reached a stage of knowing each other settled across the house like a sheet being drawn. Steely Dan was going low under it all, had been since before she came — that smooth sound, cool and unhurried, sliding through the front rooms. He had put it on for himself, and left it on.
 
-She came in past the kitchen and put her bag on the chair by the door — the small overnight bag, leather, monogrammed in a sorority hand, expensive in the slightly aggressive way her things were expensive — and came into him and put her arms around him. He smelled her perfume, sharp citrus and something colder underneath. He felt the press of her against him. He looked down at her face, which was tilted up at him with the slight perpetual surprise that her resting expression carried, the flat oval and the *startlingly* blue eyes which were the first thing anyone noticed about her and the thing she had built her whole adult life around being looked at for.
+She came in past the kitchen and put her bag on the chair by the door — the small overnight bag, leather, monogrammed in a sorority hand, expensive in the slightly aggressive way her things were expensive — and came into him and put her arms around him. He smelled her perfume, sharp citrus and something colder underneath. She pressed against him. He looked down at her face, which was tilted up at him with the slight perpetual surprise that her resting expression carried, the flat oval and the *startlingly* blue eyes which were the first thing anyone noticed about her and the thing she had built her whole adult life around being looked at for.
 
 "Hi," she said.
 
@@ -42,7 +42,7 @@ He set the bowl on the kitchen table.
 
 "I sliced this for you."
 
-She looked at the apple. He watched her look — watched the thing behind her face that policed her relationship to food run through whatever calculation it was running. Apples were permitted. Apples were on her side of the line her mother had drawn for her at fourteen and the sorority had redrawn for her at eighteen. She came over to the table.
+She looked at the apple. He watched the thing behind her face that policed her relationship to food run through whatever calculation it was running. Apples were permitted. Apples were on her side of the line her mother had drawn for her at fourteen and the sorority had redrawn for her at eighteen. She came over to the table.
 
 She sat before he did, across from him at the little table. Her brows furrowed. She stood and gestured at his chair. He looked at her. She gestured again, more specifically, a slight rotational motion of the wrist while pointing with her index finger. He turned the chair so it faced sideways from the table, at right angles to it, and he sat down with his thighs together. 
 
@@ -86,7 +86,7 @@ The lamps were on. The top was leaning against the wall. The bench, which she ha
 
 She started at the front, finding a face cradle first, a padded ring, the kind she'd rest her face into for a massage. Just past it, a shelf, shallow and padded, for the top of the chest. Familiar. The massage table again. Handholds she found next, out beyond the face cradle, at shoulder width. A massage table didn't have them. Holding those would stretch her long. Her hands closed on nothing. The open middle, where a surface should have been, where her body would go unsupported, where everything a surface usually covered would hang free.
 
-He knew what she was reading — he had built it. The frame peaked at the hips — head down, legs down — and the leg rests on their pivots, angled out and down. Open, everything open. Her head went back, toward the ceiling. He watched her throat and heard her exhale shakily.
+He knew what she was reading — he had built it. The frame peaked at the hips — head down, legs down — and the leg rests on their pivots, angled out and down. Open, everything open. Her head went back, toward the ceiling. Her throat bared, she exhaled shakily.
 
 He had begun building it seven months ago. He had met her three weeks ago.
 
@@ -162,9 +162,11 @@ He let her see him looking. He did not tell her any of this. He thought it. The 
 
 "Come here," he said.
 
-She came to him. He kissed her, longer this time, his hand at the back of her neck where her hair was warm against his palm. He kissed her until he felt her body soften against his — there was always a moment, with her, when the composure dropped half an inch and her actual weight came forward against him, and he could feel the difference, and he waited for the difference before he did anything else.
+She came to him. He kissed her, longer this time, his hand at the back of her neck where her hair was warm against his palm. He kissed her until her body softened against his — there was always a moment, with her, when the composure dropped half an inch and her actual weight came forward against him, and he could feel the difference, and he waited for the difference before he did anything else.
 
 The difference arrived. He let her have it for one more breath.
+
+---
 
 Then he turned her by the shoulders, gently, and walked her to the bench.
 
@@ -172,13 +174,15 @@ He walked behind her. The lamplight fell across her back and shoulders and down 
 
 She walked ahead of him to the thing he had built for her, and he watched her walk, and the walk was part of what he was watching.
 
+At the bench she stopped. Her eyes went to the bottom of the closet and stayed there. He knew she was looking for the toy box, the familiar thing down where it lived.
+
 "Face down," he said. "Hands on the grips. Get the position. I'll adjust you."
 
 She had to figure out how to climb onto it. He could see the slight unsteadiness in her — nerves, not something she would have chosen him to see — and he stepped close and put one hand to the small of her back, the other flat against her chest, and she leaned into the span between his hands and he brought her forward and down, controlled, until her chest met the shelf and her face settled into the cradle. He moved to her wrists then, light, one then the other, and placed her hands at the grips. She closed her fingers around the leather.
 
 The dark walnut against her pale skin. The smell of the bench rose faintly in the warm air: the mineral tang of the oiled wood, the dark hide-smell of the new leather warming under her body. She was on it now, still in heels — the small high arches lifted, the calves tightening, the line of her doing what a decade of dance had trained the line of her to do under pressure.
 
-He watched her hands settle into the grips — the small sound of skin on leather, the delicate knuckles whitening and then relaxing — and her knees find the leg supports and her hips settle onto the pelvis support, and watched her torso bridge the gap between them, unsupported, her breasts hanging free in the lamplight with the small heavy sway of them against gravity as she found the load. He watched her thighs part as the leg supports took her weight, the bare cleft between them appearing and disappearing with each small adjustment. And he watched her ass — pale, bare, a decade of cheer written into the muscle of it — clench and release as she searched for the position, the small involuntary tightenings of a body that did not yet know how to be still under what was about to happen to it.
+He watched her hands settle into the grips — the small sound of skin on leather, the delicate knuckles whitening and then relaxing — her knees finding the leg supports, her hips settling onto the pelvis support, her torso bridging the gap between them, unsupported, her breasts hanging free in the lamplight with the small heavy sway of them against gravity as she found the load. Her thighs parted as the leg supports took her weight, the bare cleft between them appearing and disappearing with each small adjustment. Her ass — pale, bare, a decade of cheer written into the muscle of it — clenched and released as she searched for the position, the small involuntary tightenings of a body that did not yet know how to be still under what was about to happen to it.
 
 He adjusted the leg supports. The mechanisms had been his own design — well-oiled, silent, each piece moving under his hand with the precision of the thing he had made it to have. He widened them slowly until her thighs were apart enough that he could see all of her. The cleft between her legs opened — the coral lips, the gloss he had seen from the front now visible from the back, the scent of her beginning to reach him, unmistakable, the sea in it. She made a sound.
 
@@ -196,7 +200,7 @@ He set his palm flat against the small of her back and slid it slowly down to th
 
 "Red," she said.
 
-He laid his palm against the round of her ass — not striking, just resting — and let it sit there. The skin was warm and soft with a smoothness that gave his hand no purchase. He could see her breathing in her back: the slow rise and fall of it, the small spaces between her ribs expanding and contracting. He felt her settle further into the bench. The settling was good.
+He laid his palm against the round of her ass — not striking, just resting — and let it sit there. The skin was warm and soft with a smoothness that gave his hand no purchase. He could see her breathing in her back: the slow rise and fall of it, the small spaces between her ribs expanding and contracting. She settled further into the bench. The settling was good.
 
 He moved his hand up to her back, the palm flat, and ran it slowly the whole length of her. He could feel the muscle beside her spine, dense and warm under his palm, his hand running from the small of her back to her shoulders.
 
@@ -330,9 +334,9 @@ Then he started again — slowly, with his fingers, finding her rhythm and then 
 
 "Not yet."
 
-He hit her — hard, on the high point of her ass where it would sting brightest — and she cried out, the cry stretching into something past surprise, and he soothed the place with his palm and bent and kissed it. She had begun to push against his hand with her hips, the small involuntary motion of a woman who could not stay still anymore, and he felt the bench's slight tilt do its work — every push pressed her further forward into the head-down position the bench had been designed for, and her own urgency was making her more contained by the bench rather than less. The bench was helping him. He had built it to.
+He hit her — hard, on the high point of her ass where it would sting brightest — and she cried out, the cry stretching into something past surprise, and he soothed the place with his palm and bent and kissed it. She had begun to push against his hand with her hips, the small involuntary motion of a woman who could not stay still anymore, and the bench's slight tilt did its work — every push pressed her further forward into the head-down position the bench had been designed for, and her own urgency was making her more contained by the bench rather than less.
 
-He came around to her side and put one hand at the back of her neck, holding her there, and reached the other hand under her, into the space the bench had been built to leave below her, and found her breast — small, soft in his palm, the nipple hard against his thumb. He stroked it. He felt her shudder.
+He came around to her side and put one hand at the back of her neck, holding her there, and reached the other hand under her, into the space the bench had been built to leave below her, and found her breast — small, soft in his palm, the nipple hard against his thumb. He stroked it. She shuddered.
 
 "Oh," she said.
 
@@ -366,7 +370,7 @@ This time he stayed with the feeling. She was furnace-hot and so wet his fingers
 
 "I — please, please make me come, *please.*"
 
-He filed the *please* — three of them in a row, which she had not done before — but it was not the right *please* yet. It was still her *please.* It was still being said in the voice she said *please* in when she wanted a glass of water from a waiter she found beneath her notice. She did not yet know she was saying *please* like that. She was about to know.
+Three *pleases* in a row, which she had not done before. But it was not the right *please* yet. It was still her *please.* It was still being said in the voice she said *please* in when she wanted a glass of water from a waiter she found beneath her notice. She did not yet know she was saying *please* like that. She was about to know.
 
 He straightened up. He did not start the edging again. He stood behind her, his hand on her back, and watched her.
 
@@ -376,7 +380,7 @@ She went still.
 
 "Not yet."
 
-She did not say anything for a long moment. The breathing he could hear from her changed — the rhythm broke. He let it break. He kept his hand on her back. He felt the small confusion working in her body. He waited.
+She did not say anything for a long moment. The breathing he could hear from her changed — the rhythm broke. He let it break. He kept his hand on her back. The small confusion worked in her body. He waited.
 
 "I — " she said, and stopped.
 
@@ -468,7 +472,7 @@ He did not say anything. He had learned not to interpret things for her. She wou
 
 She sat against him. He could feel her breathing. He could feel her crying continue and then taper and then continue again in small surges. He stroked her hair, slowly, with the hand that was around her shoulder. He kissed the top of her head twice, neither time with any pressure behind it, just the kissing.
 
-After a while he reached over to the bedside table and got the water bottle he had left there in advance and held it for her to drink from. She drank. She drank more than he expected. He smiled, a little, that he had thought to leave the water — that he had known to, because she always drank more than she expected after they were together. He put the bottle back. He pulled her closer. She let him.
+After a while he reached over to the bedside table and got the water bottle he had left there in advance and held it out to her. She took it and drank. She drank more than he expected. He smiled, a little, that he had thought to leave the water — that he had known to, because she always drank more than she expected after they were together. She kept the bottle when she was done, turning the cap loose in her fingers, and set the sharp inner edge of it under her thumbnail and pressed — slow and steady, down into the nail bed, where it would hurt. She did not seem to know she was doing it. He took the bottle when she set it down and pulled her closer. She let him.
 
 The crying tapered finally. She was very quiet against him, her face against the side of his neck, her hair against his collarbone, her body warm in the blanket. He could feel her breathing slow. She did not seem to want to talk. He did not push her to. He kissed the top of her head again. He stroked her hair.
 

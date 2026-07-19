@@ -86,6 +86,7 @@ this single space (the bathroom is off the hall, not in the room). **There is no
 - A **bed**, ~three steps from the bench; **cashmere blanket** at its foot; a
   **bedside table** (water bottle pre-staged for aftercare).
 - A **chair** he folds her clothes onto.
+- A **closet**; his **toy box** kept at the bottom, under the bottom shelf (`in-her-place.md`) — Randi's eyes go to it before the bench (`the-bench.md`).
 - Lit by **lamplight**, not overhead.
 
 ### Bathroom — off the hall `[PAGE]`

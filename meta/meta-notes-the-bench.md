@@ -1,4 +1,0 @@
-
-He watched this time. Wetness had gathered between her thighs, and the light moved across it whenever his fingers parted the seam. He could see the slick shifting and catching with each slow pass of his hand, the seam parting and closing. A thin thread of it stretched between his fingers and her skin, then broke. He kept going until the shine thickened and began to run, then pulled his hand back.
-
-This time he stayed with the feeling. She was furnace-hot and so wet his fingers moved without friction. When he pressed deeper he felt the grip of her, the way the muscle inside pulled at him in tight, rhythmic pulses. Fresh wetness coated his knuckles and slid down his wrist. He kept his hand there, working her steadily, until he felt the first long tremor begin in her thighs. Then he stopped.
