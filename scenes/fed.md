@@ -16,53 +16,53 @@ Vee laughed, because it was funny, because Randi made it funny, the way she made
 
 And Vee wanted to. That was the thing she would not have been able to explain to anyone, least of all herself: how much she had wanted, all week, to set it down on a table in front of someone who would not flinch. She had given Cassie a version. The good version, the whole clean one, the dinner he'd made, the apron, the garlic going soft and the pepper blooming red in the oil, the Chianti he'd opened before she'd even come so it could breathe, the way he'd paid attention to her like attention was a thing he had an unlimited supply of and had decided to spend all of it here. Cassie had let it be that. *He cooked,* Cassie had said. *A man made you dinner.* And Vee had let the door close where Cassie closed it, because the rest of it was not Cassie's, was not anybody's, was hers.
 
-So she gave Randi the same one, because it was the true one, and she told it well, watching Randi's face do the things it did, and at the end of it, riding the pleasure of holding a woman like Randi rapt, she reached for the detail she was proudest of, the one she thought would seal it, the most romantic thing that had ever happened to her or anyone.
+So she gave Randi the same one, because it was the true one, and she told it well, watching Randi's face do the things it did, and then, because Randi was not Cassie, because Randi would not flinch, she went further than she'd gone with anyone. Not all the way. When she came to the middle of it, the part that was only hers, she went soft and quick, a hand waved at the air, *and then, well,* the way you fold a thing back into its tissue before anyone can pick it up, and she didn't slow down again until she was out the other side, back in his kitchen, after.
 
-"And after," she said, "I sat in his kitchen wrapped up in just a bedsheet and watched him finish cooking."
+"And after," she said, and heard her own voice change, "he cooked. He pulled his jeans back on and went right back to the stove like it was the most natural thing in the world, and I didn't have a stitch to put on, so I took the top sheet off the bed and wrapped up in it and padded out after him." It came back up around her as she said it, the whole warm dark of that hour: the sheet held closed at her breast and still warm from the bed, his kitchen floor cool under her bare feet, the glass of wine he'd poured her the minute she walked in and that she'd been too keyed up to touch. "And I sat at his table in his sheet and finally drank it, and watched him finish making our dinner. The oil going in the pan and starting to tick, the window black behind him, near midnight, neither of us saying a word and nothing missing." She let the softness stay in her voice. "I don't think I've ever felt anything better in my life. Just sitting there wrapped up in him, watching him cook."
 
-It was out of her mouth before she heard it. Then she heard it. The light came in off the glass and lay on her and she felt the heat climb her throat, uninvited, announcing her, and she understood in the bright open room exactly what she had just set on the table.
+For a second, saying it out loud in the bright room, she heard the other version of it, a girl in a man's sheet with nothing on underneath at midnight, and the heat started up her throat. But Randi had gone still and full listening, her face open and glad, and got there first. "Oh, I love that," she said, and meant it, it was all over her. "I can see the whole thing: the sheet, the wine, a beautiful man at the stove at midnight. That's not a story, honey. That's a painting. Keep that one."
 
-Randi's face went soft with pleasure. "Oh, that's a good one. I love that, I can see it, that's a photograph." She took a slow sip. "But I notice," she said, warm, setting the flute down, "that you went straight to the bedsheet and skipped clean over the part where you explain how you ended up wearing it."
+Then she pointed her flute, warm. "Which is very pretty, and you are not getting away with it. You went from taking your clothes off to watching him cook and left out everything in between. Everything." She leaned in. "You have to tell me. I only got dinner that night, dinner and a boy in a hurry, that was my whole evening. I'm running on fumes here. How was he?"
 
-Vee opened her mouth and nothing came, and the nothing filled with everything, and Randi let it.
-
-"My nails," Vee said, finally, stupidly, reaching for the smallest true thing, holding up one hand as if the polish could account for itself. "I did my nails."
-
-Randi caught her wrist, gentle, and turned the hand in the light, and then her eyes went down, under the table, to where Vee's foot was, and came back up bright. "Toes too?"
-
-The heat went up another degree. "...Yeah."
-
-"Mm," Randi said, and smiled, and that was all, the one warm syllable, and did not say the rest of it, did not say *you paint your fingers for the room and your toes for a man who is going to see your feet,* did not have to.
-
-"And the good ones," Randi went on, easy, conversational, as if they were comparing notes on the weather. "The good pair. Top of the drawer, ready to go." She tilted her head, fond. "Sweetheart. You weren't hoping he'd be a gentleman. You wore those hoping he'd give you no reason to keep them on."
-
-Vee laughed, helpless, mortified, glowing. She had moved them to the top of the drawer that morning and told herself it meant nothing in particular and had known, even telling herself, that it was a lie of a particular size.
-
-"What color?" Randi said. "The nails."
-
-"Burgundy," Vee said, and the word was halfway out and easy and then it wasn't, because she was looking at the dark wine of her own nails on the white tablecloth and the thing she had noticed once and put away and come back to twice before the polish dried came up in her again, fully, here, in front of Randi, in the light: the silk he had held up to her face, the same deep red, the bottle she'd picked off the shelf because of it, without letting herself finish the thought. "Burgundy," she said again, and stopped, and the rest of it stayed in her face.
-
-The heat sat in her face and would not go, and Randi was looking right at it. Her voice came down a register, intimate, pleased. "Oh," she said. "That color means something. Look at your face. It means something."
-
-"It might," Vee said, around the heat, and let it be unsaid, and Randi let it be unsaid too, and held it a beat, and then, kindly, gave her the way out by giving her the floor.
-
-"Okay." Randi folded her hands. "Enough. You're dying. Just tell me. How was he."
-
-And Vee found, talking herself out of the corner, that the corner became something else as she talked, that the saying of it turned it over. "He wasn't in a hurry," she tried. "At all. Like there was no clock. He was patient, and he was so gentle, and he was..." She heard herself reaching for it and reached anyway. "Hungry. For me. In a way that made me feel, I don't know. Unique. Not just like, tonight. Like singular."
+And Vee found she wanted to, that the wanting to tell it was most of why she'd come. She looked at her wine. "He wasn't in a hurry," she said. "At all. Like there was no clock anywhere in the world." She heard herself reaching for it and reached anyway. "He was patient, and he was so gentle, and he was... hungry. For me. In a way that made me feel, I don't know. Unique. Not just, like, tonight. Like singular."
 
 Randi held her flute and listened, her face open and warm and glad for her friend.
 
-"That's it," Randi said. "That's the whole thing right there. You know that, don't you."
+"Okay," she said. "And now I get to be a little mean, because I love you." She set the flute down. "You keep saying *he.* He was patient, he was gentle, like you just stood there and let it happen to you." A beat, fond. "Let me ask you something. That day. Did you do anything to get ready for him?"
 
-"Know what."
+Vee looked at her hands on the white cloth. "I painted my nails," she said. And then, because she could not not, quieter: "And my toes."
 
-"That you wanted it." She said it the way you hand someone a coat they'd left behind. "You're embarrassed, you've been embarrassed this whole time, you've been carrying it around like you did something. You wore the good underwear and you painted your toes and you wanted a beautiful man to make you dinner and take your clothes off, and then he did, and it was wonderful, and you sat there in his sheet feeling like a... what. Say it."
+"Fingers for the room." Randi tilted her head. "But the toes. You paint the toes for a man who's going to have your feet bare in his hands. You did those the day before. For him."
 
-"A floozie," Vee said, and laughed, and her eyes stung doing it.
+The heat came up in her throat.
 
-"A floozie." Randi said it back like the word was funny, which, on the porch, in the light, it was. "Baby. There's no floozie. There's a girl who knew what she wanted and dressed for it and got it. That's not a thing that happened *to* you. That's a thing you *did.*"
+"Mm," Randi said, warm, and did not say the rest of it, and did not have to. "That color, though." Her eyes had gone to Vee's hand on the cloth. "It's beautiful. What's it called?"
 
-And Vee, who had come in carrying it, felt it shift, felt the weight of the week come off her in the bright room, and the thing that came up in its place she said out loud because it was suddenly, simply, true. "I wanted it," she said, and turned her flute on the cloth. "And I took it. For once."
+"Frosted plum."
+
+"Why'd you pick it?"
+
+And Vee had the answer and couldn't give it. The answer was the nights she'd lain awake with the silk in her head — the silk she'd seen in the light of his sun porch, the dress he was still making her out of it — turning the color over in the dark; and the Ulta at the mall, earlier that week, the same afternoon she'd bought the bra and the panties, where she'd stood in the bright aisle and picked the one bottle that woke that same plum up when the light caught it. She didn't say any of it. It came up in her face instead.
+
+Randi watched it arrive. "Oh," she said, softer. "That face isn't about a color, is it."
+
+"No," Vee said, and heard, in the size of that one word, how far gone she already was, how much of herself she'd handed over without ever once deciding to, and a thread of fear went through her at it and showed before she could catch it.
+
+Randi reached over and covered Vee's hand, the painted one. "Hey. Don't you dare make that face." She waited until Vee met her eyes. "That's the best thing there is, being that gone on somebody. Do you know how many people never get within a mile of it?" She squeezed once. "You're not caught, sweetheart. You're lucky."
+
+Vee laughed, a little wet, and let herself be lucky for a second.
+
+"Now." Randi sat back, the tease coming back into her. "The underwear. And do not insult me. Do not tell me you wore your go-to-class panties for your first night with this man. What did you have on?"
+
+"...I bought new ones," Vee said.
+
+"You *bought* them." Randi pressed a hand to her chest like she'd been handed something. "You went to a store and bought new underwear for this man. That's not nothing, that's a *campaign.*" She was grinning. "You didn't buy those hoping he'd be a gentleman. You bought them hoping he'd give you no reason to keep them on."
+
+Vee laughed again, helpless, glowing, caught all the way through. She'd bought them the same afternoon as the polish and moved them to the top of the drawer that morning and told herself none of it meant anything in particular, and had known, even telling herself, that it was a lie of a particular size.
+
+Randi didn't tease her for it. She looked at her, warm, like the planning was the part she liked best. "You knew how that night was going to end before you ever got in the car," she said. "You drove over there sure." A beat, warm. "So why are you telling me like it's a confession?"
+
+And Vee, who'd half-expected teasing and gotten this instead, felt the thing come up and said it out loud because it was suddenly, simply, true. "I wanted it," she said, and turned her flute on the cloth. "And I took it. For once."
 
 "Good," Randi said, and reached across and laid her hand over Vee's, and left it there, warm, and Vee felt the word settle into her and stay.
 
