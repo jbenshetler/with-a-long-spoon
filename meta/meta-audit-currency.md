@@ -237,7 +237,7 @@ _status: checked 2026-07-19 — 10 findings (high 0, med 7, low 3)_
 - **New class — stale meta-doc pointers:** **[med/high]** `:5,10,193` `character-relationship-bible.md` → `meta-arch-bible.md`; **[med/med]** `:6,10,194` `summary.md` (dead file) → likely `meta-arch-bible.md` (confirm); **[med/high]** `:46,197` `randi_architecture.md` → `meta-arch-randi.md`.
 - **[PLAN] tags that are now drafted [PAGE]:** **[med/high]** `:116,119` Office; `:121,124` Woodshop; **[med/high]** `:98,112` Vee's top-drawer + mirror-ritual (drafted in `the-top-drawer.md`); **[low/high]** `:70` KitchenAid. **Fix:** retag `[PLAN]`→`[PAGE]`, cite `two-towels.md`/`the-top-drawer.md` (spring gaslight grains stay `[PLAN]`).
 - **[med/high]** `:8-9` `[PAGE]` source list incomplete — add `two-towels.md` + `a-round.md`.
-- **[med/high]** `:137,144` the fitting cited to `dress-pickup.md` — the fitting proper is `a-round.md`; keep dress-pickup only for pickup-day bullets.
+- **[med/high]** `:137,144` the fitting cited to `peekaboo.md` (was `dress-pickup.md`, renamed on `origin/main`) — the fitting proper is `a-round.md`; keep peekaboo only for pickup-day bullets.
 - **[low/low]** `:50` cabin date "~late Feb" → "~late Feb / early March".
 - Neuro: clean ("retreat" = privacy/cost, matches corrected bible:137).
 

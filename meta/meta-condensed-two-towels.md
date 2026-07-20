@@ -18,7 +18,7 @@ Vee's first visit to Pace's house — a small post-war house at the top of a gra
 
 ## Continuity and Revision Notes
 
-> *The dress cluster sits between the fitting and shoe-shopping. Order is load-bearing: the dress is unfinished across the fitting (Two Towels → {{A Round}}), finished and picked up at {{Dress Pickup}}.*
+> *The dress cluster sits between the fitting and shoe-shopping. Order is load-bearing: the dress is unfinished across the fitting (Two Towels → {{A Round}}), finished and picked up at {{Peekaboo}}.*
 
 > *Split note: "Two Towels" was formerly the front half of a single long scene (~9.7k words). It now ends on her "Yes"; the measuring/fitting is its own chapter, **{{A Round}}** (`a-round.md`), same afternoon.*
 
@@ -28,4 +28,4 @@ Vee's first visit to Pace's house — a small post-war house at the top of a gra
 - **The no-tag hiking shirt (from {{Leave No Trace}}) detonates here**: She noticed its absence once, guessed wrong (counterfeit, sample, off-brand), dropped the question. Now the silk — deliberately matched with care — makes the shirt's unlabeled quality a statement. Careful anonymity and careful personalization as twin forms of devotion.
 - **The hike's silk-naming conversation**: The color she named — brick-red, from a magazine, the dress she couldn't afford — at the summit, unguarded. Pace's burgundy is his deeper variant, *not* the shade she named: he honors the want-to-be-beautiful beneath the color rather than matching the reference. He acts on the being-known-without-asking.
 - **The offer + her yes set up the fitting ({{A Round}})**, and through its deferment, {{Famished}}.
-- **The dress is unfinished** across the fitting; completion/pickup resolves at {{Dress Pickup}}.
+- **The dress is unfinished** across the fitting; completion/pickup resolves at {{Peekaboo}}.

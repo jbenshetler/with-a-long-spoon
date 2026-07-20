@@ -6,7 +6,7 @@ consistent. Defers to `meta-arch-bible.md` ("The house, room by room")
 for what each room *means*; this doc owns *where things are*.*
 
 **Sources.** `[PAGE]` = drafted, on the page in `scenes/the-bench.md`,
-`scenes/two-towels.md`, `scenes/a-round.md`, `scenes/the-top-drawer.md`, `scenes/dress-pickup.md`, and `scenes/vee-on-the-bench.md` — treat as fixed. `[PLAN]` = established in
+`scenes/two-towels.md`, `scenes/a-round.md`, `scenes/the-top-drawer.md`, `scenes/peekaboo.md`, and `scenes/vee-on-the-bench.md` — treat as fixed. `[PLAN]` = established in
 `meta-arch-bible.md` but not yet drafted — render to
 taste, don't contradict.
 
@@ -127,21 +127,21 @@ out through the **garage**.
 **Forward** off the foyer; the room you cross to reach the sun porch. **One long wall of
 books** (the library wall). `[PLAN]` A working **fireplace** on the den side of the
 porch threshold; on cold porch nights it can throw heat and firelight from behind them
-without moving the scene out of the glass room. Where Pace waits during the {{Dress Pickup}}
-try-on (`scenes/dress-pickup.md`).
+without moving the scene out of the glass room. Where Pace waits during the {{Peekaboo}}
+try-on (`scenes/peekaboo.md`).
 
 ### Sun porch `[PAGE]`
 Through an archway at the far end of the den — an **enclosed porch at the back, mostly
 windows: the room with the best light.** **Not a dedicated workroom** — he brings the
 fabric out and sets up here to cut, sew, and fit for a project (distinct from
-the woodshop); **The fitting plays here.** On the page (`scenes/a-round.md`, the fitting; `scenes/dress-pickup.md`, the pickup day):
+the woodshop); **The fitting plays here.** On the page (`scenes/a-round.md`, the fitting; `scenes/peekaboo.md`, the pickup day):
 - A **long work / cutting table** (the burgundy gown was cut and built here).
 - A low **fitting pedestal** she stands on — the maker's fit-to-a-body, the same knack as
   the bench and the dress.
-- A **full-length mirror**, newly hung on the wall for the {{Dress Pickup}}; the pedestal set
+- A **full-length mirror**, newly hung on the wall for the {{Peekaboo}}; the pedestal set
   in front of it.
 - The finished gown hung from the **lip of the window frame** for the reveal.
-- Light: both by day — the Fitting in flat, exposing afternoon light (nowhere to hide; load-bearing for the shame, the wet-spot has no shadow to sit in); the {{Dress Pickup}} gentler, the sun through the
+- Light: both by day — the Fitting in flat, exposing afternoon light (nowhere to hide; load-bearing for the shame, the wet-spot has no shadow to sit in); the {{Peekaboo}} gentler, the sun through the
   silk.
 
 ## Atmosphere / constants `[PAGE]`
@@ -194,5 +194,5 @@ two people move through without calling out to each other.
   (now **owns**, not rents); the house (owns/patent), the access canon, the bench's
   only-Randi-and-Vee significance.
 - `meta-arch-randi.md` — the lock-behind-her signature.
-- `scenes/the-bench.md`, `scenes/dress-pickup.md` — the drafted house interiors (the bench
+- `scenes/the-bench.md`, `scenes/peekaboo.md` — the drafted house interiors (the bench
   room; the sun porch).

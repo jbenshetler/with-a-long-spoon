@@ -144,6 +144,14 @@ Vee's contemporary convention expects verbal declaration. His grammar does not c
 
 ---
 
+## The Courtly Domain — Low-Stakes Deference
+
+Toward women, in every register that does not touch his two real stakes (sex and love), Pace is reflexively, genuinely courtly. He leads by default and yields the moment a woman prefers otherwise on anything that costs him little and matters to her: he crosses the kitchen to turn the chair she gestured at and feels no loss in it. The deference is real, not performed, and frictionless, with no ego and no scorekeeping, precisely because the domain is weightless to him. The reader should register ease and good manners, never a power reversal.
+
+It is strictly domain-limited. Where the stake *is* sex or love the deference vanishes and the code takes over; the form-dependence that structures his intimate apparatus does not reach the weightless domains, where he is simply kind. This is why the courtesy is neither softness nor submission: it is the cheap, sincere generosity of a man giving away only what he never valued. It is also distinct in kind from the tenderness in the bedroom. That tenderness is calculated, part of the apparatus; the courtesy in the kitchen is genuinely thoughtless, not care performed but deference in a domain where deferring costs him nothing.
+
+---
+
 ## The Vow Against Premature Declaration
 
 Separate from the chivalric grammar; operating below it; older; from the mother.

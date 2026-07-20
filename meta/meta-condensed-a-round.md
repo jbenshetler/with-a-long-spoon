@@ -29,4 +29,4 @@ The same afternoon, continuing directly from **{{Two Towels}}** (`two-towels.md`
 - **The shame-arousal loop at full force**: what she's ashamed of is constant (her body announcing its wanting without her consent); the occasion here is being measured and seen in good light, soaking through despite herself.
 - **"Keep still" — origin of the motif**: it first lands here as tailoring practicality at audible cost (his restraint); it recurs, hotter, at {{Still Life}} (its premise/engine) and {{Burn}} (the ownership hinge). A *fingerprint* detail — never to be echoed in Randi's SATC stories.
 - **Deferred tension → {{Famished}}**: she leaves wanting, denied, newly aware she can nearly topple this contained man.
-- **The dress is unfinished**; completion/pickup at {{Dress Pickup}}.
+- **The dress is unfinished**; completion/pickup at {{Peekaboo}}.
