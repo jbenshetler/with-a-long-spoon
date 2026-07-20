@@ -1,6 +1,6 @@
 # Notes — Turned Up
 
-*Companion to the chronology entry for {{Turned Up}}. The scene is drafted; this holds the craft/why that isn't on the page — including accepted continuity decisions a review pass should not re-flag.*
+*Companion to the chronology entry for Turned Up. The scene is drafted; this holds the craft/why that isn't on the page — including accepted continuity decisions a review pass should not re-flag.*
 
 ---
 

@@ -52,9 +52,9 @@ Each finding: `[risk/certainty]` — location (doc:line) — the claim → the p
 | M | **Meta-doc filename rename sweep** — dead pre-`meta-*` pointers (`novel_thesis.md`, `pace_architecture.md`, `randi_architecture.md`, `vivienne_architecture.md`, `help-harm-dials.md`, `character-relationship-bible.md`, `scene-plan-chronology.md`, `open-questions.md`) | **in progress (apply agent 2026-07-20)** |
 | ! | **Dead `summary.md`** — RESOLVED: `meta/meta-plan-summary.md` was a *condensed overview* that DEFERRED physical/wardrobe/food + room-meaning detail TO the bible ("condensed — full detail in the Character Bible"); deleted in `a81560b` (three-volume restructure). The bible's "supplements summary.md (full detail)" pointer is circular. Refs redirect → `meta-arch-bible.md` (apply agent). | **resolved 2026-07-20** |
 | 4 | Topical / cross-scene notes (18 audited; erotic-register + tender-relief excluded as fresh) | **done 2026-07-20 — 46 findings (high 4, med 15, low 27); fixes applied: neuro-residue r2 (incl. follow-up `can't decode`×3 + perceive-then-avoid×2 in secret-plans/in-her-place/chronology/condensed-peaches) + currency + brace-migration + word-swap→chronology/sheri/todo. Still flagged (not applied): scrunchie-gaslight:27 no-absorber rewrite, spring-satc-bridge grid reorder, thesis Rule-N renumber (peaches/help-harm), bible:380 "Ignition-Scalding" title-form, chronology:525 anthro-signup context** |
-| 5 | Per-scene notes (`meta-note-<slug>`, ~45) — currency + prose cross-check | pending |
-| 6 | Per-scene condensed (`meta-condensed-<slug>`, ~68) — **orphan/removal check ONLY** (regenerable; do not audit content — only flag if the scene is gone/renamed and the brief should be removed or regenerated) | pending |
-| 7 | `DOCUMENTS.md` inventory accuracy | pending |
+| 5 | Per-scene notes (`meta-note-<slug>`, 24 drafted-scene notes) — currency + prose cross-check | **done 2026-07-20 — ~94 findings; wave-1 fixes applied, wave-2 fixes in progress** |
+| 6 | Per-scene condensed (`meta-condensed-<slug>`, 68) — orphan/removal check only | **done 2026-07-20 — CLEAN: 0 orphans (46 drafted, 22 planned/chronology-referenced); all known-rename stale condenseds already removed. Cosmetic only: a few slug-vs-scene mismatches (e.g. `meta-condensed-shoe-shopping.md` ↔ `shoe-shopping-randi.md`) — live via chronology, not removals** |
+| 7 | `DOCUMENTS.md` inventory accuracy | **done 2026-07-20 — SUBSTANTIALLY INCOMPLETE (author/rebuild flag)** |
 
 Restart: re-run any doc whose section below is absent or marked `pending`. Same-doc re-run is idempotent (findings replace).
 
@@ -550,6 +550,17 @@ _Two more Phase-5 themes: (a) **neuro-residue the reground didn't reach** in per
 ---
 
 **Phase 5 done — 24 notes, ~94 findings (high ~6, med ~40, low ~48).** Dominant patterns (for the wrap): (1) **pre-draft notes lag their drafted scenes** — stale "unwritten" status + superseded directives/quotes; (2) **neuro-residue tail** the reground didn't reach (`recognized-method:15`, `sheri-first-ride:28`, `vee-on-the-bench:79`; scene `rock.md:117`); (3) **scene-side prose staleness** (author flags, no prose edits here): `still-life.md:3`, `see-you-later.md:33`, `rock.md:117`; (4) **cross-doc stragglers where the note/scene is current but siblings lag**: `satc-tracks:71` (bullshit-look), `satc-tracks`+`chronology:149` (Your-turn/I-hope-everything-is-alright), `chronology:59`+`condensed-water-wings` (Cassie-seal→Kayla), `chronology:331` (ask quote); (5) misquotes/paraphrases-in-quotes + backtick/self-title brace nits.
+
+**✓ Wave-2 fixes applied 2026-07-20** (apply-agent): all wave-2 mechanical fixes (status, misquotes, dates, braces, wikilink) + neuro reframes (`recognized-method:15`, `sheri-first-ride:28`, `vee-on-the-bench:79`) + cross-doc stragglers (Practice Room opener/return "Okay, the shoes…/All better?" in `satc-tracks:72,79` + `chronology:149`; Cassie-seal→Kayla in `chronology:59` + `condensed-water-wings:5`). **Corpus neuro-residue sweep:** only 2 more meta hits fixed (`condensed-under-the-rug:19` "sensory overload"→"loud room overwhelms him", `condensed-among-friends:5` "only grammar he has"→"grammar he lives by") + 1 scene-side flag (`rock.md:117` "too literal" — prose, author's call). **The neurotypical reconception is now corpus-complete** (bar the flagged prose lines). Still flagged (editorial/prose, not applied): the note↔scene reconciliations (in-her-place clamp spine, grace mirror set-piece, leave-no-trace beats, my-friend-randi 2nd movement, water-wings beat-2, fairytale Gesso re-home) and scene-side prose (`still-life.md:3`, `see-you-later.md:33`, `rock.md:117`).
+
+---
+
+## Phase 7 — DOCUMENTS.md inventory
+_status: checked 2026-07-20 — **substantially incomplete** (author/rebuild flag)_
+`DOCUMENTS.md` self-describes as the "Master map of **all** files," but has fallen well behind the corpus:
+- **Missing (should be catalogued):** `meta-arch-cassie.md`, `meta-arch-cassie-randi.md`, `meta-arch-sheri.md` (Tier 2 Architecture); `meta-audit-currency.md` (this ledger); the two new topical notes `meta-note-erotic-register.md` + `meta-note-tender-relief.md`; **~40 per-scene notes/condensed** (Tiers 5/5c); **18 scene files** (Scene Files tier).
+- **Not dead, leave as-is:** the 6 `*(to be created)*` entries (`sexual-ratchet`, `vee-thriving`, `randi-costs`, `pace-contraction`, `triangulation`, `pace-protects-vee`) are honestly-marked backlog for uncreated notes — not broken refs. (Optional author review: still wanted?)
+- **Recommendation:** a DOCUMENTS.md refresh — auto-generating ~60 entry descriptions would be low quality, so this wants an author/curated rebuild (or I can add the ~6 high-value structural omissions — the 3 arch docs, the ledger, the 2 topical notes — and regenerate the per-scene tiers from the file list on request).
 
 ### meta-rules.md (master self-consistency)
 _status: pending_

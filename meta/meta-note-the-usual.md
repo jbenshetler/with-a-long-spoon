@@ -17,12 +17,12 @@ Pace answers Vee's demand for a **declaration** with a **ledger** — an itemize
 
 ## Pace's chivalric register = restraint, not cleverness
 
-Where his good register lands is Sheri's loss (Paige, the family estrangement): *"you don't get clever at a graveside."* Plainness chosen by a sophisticated man — *"People who've never lost anything think grief is a choice."* Not folksy (that's Sheri); precise.
+Where his good register lands is Sheri's loss (Paige, the family estrangement): nothing clever he can lay over it. Plainness chosen by a sophisticated man — *"People who've never lost anything think grief is a choice."* Not folksy (that's Sheri); precise.
 
 ## Sheri
 
 - **Lechery / making-up-for-lost-time** (see `meta-arch-sheri.md`): frank, warm, coarse ("the one with the big tits," "pleased with herself for saying it"), her delight in her own boldness the safeguard against crudeness.
-- **Her own wound, glanced not told.** Paige left because Sheri isn't in contact with her family; *"ironic, isn't it"* plants the estrangement as an unexplained weight. This is the **plant**; the disowning *story* stays reserved for `Another Round`. "From this seat, that feels pretty shitty" carries a second floor on reread (the seat of the one not chosen).
+- **Her own wound, glanced not told.** Paige left because Sheri isn't in contact with her family; *"ironic, isn't it"* plants the estrangement as an unexplained weight. This is the **plant**; the disowning *story* stays reserved for {{Another Round}}. "From this seat, that feels pretty shitty" carries a second floor on reread (the seat of the one not chosen).
 - Warmth **is** the fierceness: she hands him the hard truth and steals his fries in the same beat.
 
 ## Randi — one glancing ping (guard held)
@@ -34,5 +34,5 @@ Where his good register lands is Sheri's loss (Paige, the family estrangement): 
 ## Tone / craft
 
 - **Earn the dark by being light.** Surface is warm and funny (the busboy arithmetic, the lechery, the "philosophy of your food" tease that punctures his intellectualism); the hard center sits inside a genuinely happy scene; it ends **bright** — Sheri lifts him rather than leaving him gutted.
-- **The two-with-no-family-table parallel is wordless** — the *Leave It to Beaver* family under the tabletop glass, the jukebox breaching the one refuge from the Christmas loop ("Somebody always plays it"), "a Christmas neither of them was driving home for." Pace's POV holds the parallel; neither says it.
-- **Food-as-care motif** surfaces via "the philosophy of my food" — Vee *receives his deed-grammar*, which is the exact tragedy (she reads the deeds and still needs the words). No running threads seeded (not a sex scene).
+- **The two-with-no-family-table parallel is wordless** — the *Leave It to Beaver* family under the tabletop glass, the jukebox breaching the one refuge from the Christmas loop ("Somebody always plays it"), a Christmas neither of them was driving home for. Pace's POV holds the parallel; neither says it.
+- **Food-as-care motif** surfaces via "the philosophy of your food" — Vee *receives his deed-grammar*, which is the exact tragedy (she reads the deeds and still needs the words). No running threads seeded (not a sex scene).

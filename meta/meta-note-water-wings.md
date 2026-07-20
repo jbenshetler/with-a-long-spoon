@@ -1,10 +1,10 @@
 # Note — Water Wings (Vee's body in the world; the desirability anchor)
 
-*Scene · Architecture complete, prose not drafted · early fall, just after {{The Long Way}} (before {{May I Choose}}) · Vee POV · Vee + Cassie · companion to `meta-condensed-water-wings.md` · anchors the desirability thread (`meta-note-desirability-thread.md`)*
+*Scene · Draft complete · early fall, just after {{The Long Way}} (before {{May I Choose}}) · Vee POV · Vee + Cassie · companion to `meta-condensed-water-wings.md` · anchors the desirability thread (`meta-note-desirability-thread.md`)*
 
 ## What this scene is
 
-A warm Vee-and-Cassie afternoon at the university pool that does three jobs at once, none of them announced: it establishes a **non-mother source** for Vee's sense that her body is "too much"; it plants the **involuntary, objective anchor** of the desirability thread (third parties want her while she's doing nothing to invite it); and it primes the Fitting (a few weeks on), where Pace looks and *doesn't* leer — the payoff to the wound planted here.
+A warm Vee-and-Cassie afternoon at the university pool that does three jobs at once, none of them announced: it establishes a **non-mother source** for Vee's sense that her body is "too much"; it plants the **involuntary, objective anchor** of the desirability thread (third parties want her while she's doing nothing to invite it); and it primes {{A Round}} (a few weeks on), where Pace looks and *doesn't* leer — the payoff to the wound planted here.
 
 Pace is not in it, and barely in her head — she's only just met him. Randi isn't in it either. This is the one early scene with **no erotic-plot stake in the room** — pure neutral third parties plus the one friend who has no agenda — which is exactly why it can prove, objectively, that Vee is desirable.
 
@@ -47,7 +47,7 @@ But the **water itself survived the exile.** She lost the sport; she didn't lose
 ## Threads
 
 - **Desirability thread — the involuntary anchor.** Full coordination: `meta-note-desirability-thread.md`.
-- **Primes the Fitting** (~Oct 10): the leer-wound planted here is what Pace's non-leering gaze dissolves — *"he saw her, fully, and he was glad."*
+- **Primes {{A Round}}** (~Oct 10): the leer-wound planted here is what Pace's non-leering gaze dissolves — *"he saw her, fully, and he was glad."*
 - **"Stripper's body"** self-label — an early appearance (recurs at {{Nothing Underneath}}, spring, where she reclaims it and uses the body for its purpose).
 - **Randi-envy as wish-to-disappear** — reader-side irony (she covets the containment that is Randi's prison); never stated.
 - **"Best friend" plant (load-bearing).** Vee names Cassie her *best friend* here — glancing, buried inside the splash-fight (*"fight your best friend for a mouthful of pool"*), never underlined. Deliberate setup for the **end-of-semester reversal**, where Vee names *Randi* her best friend: the title migrates from the true friend to the manipulator. Kept quiet on purpose ("it was all there" on reread, never "I knew"). **Do not "fix" the repetition** — the echo is the whole point. Seed/verify the mirror wherever Randi is first given the title.
