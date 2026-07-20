@@ -27,7 +27,7 @@ These are fixed. They carry the dynamic and must survive every revision exactly 
 
 ## CASSIE'S SIDE (on record; see `meta-arch-cassie.md` for the full constitution)
 
-- **Instant mutual enmity needs no explanation.** Established as a given.
+- **Instant antipathy needs no explanation.** Established as a given — and *asymmetric*: Cassie's principled dislike, met by Randi's **pure dismissal** (no rivalry, no threat felt; see below). Not symmetric enmity.
 - **Does not twin Randi's silhouette** — the aesthetic non-overlap (brown, unmanaged, used-not-watched vs. Randi's sleek controlled black-on-black). Permanent managed-vs-unmanaged contrast; never staged.
 - **Sees Randi clearly because she has no investment in Randi being what she presents as.** Cassie is outside the appearance economy — no skin in being-looked-at — so Randi's warmth-instrument finds nothing to grip, and Cassie reads the *operation* instead of receiving the *beam.*
 - **Her warnings are Randi-shaped** (conscious); the meet-cute no-attraction line (great-aunt look) attaches to the staging / Randi, not to Pace's character. She registers structure, not character.

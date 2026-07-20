@@ -72,7 +72,7 @@ This makes him genuinely impossible to convict on consent grounds. He is not per
 
 ## The Irresistible Offer
 
-If offered a year of the best sex of her life with a brilliant, attentive, creative, non-lecherous man, almost no twenty-year-old woman with Vee's appetite would say no. Pace's appetite produces conditions that are structurally calibrated to be the kind no one of her formation could decline. He constructed this with love, care, real attention. The offer was good. The offer was the best offer of her life. **That is the engine of the harm.** Her yes is not a sign she wanted this more than another woman would. It is a sign the offer was calibrated to be undeclinable.
+If offered a year of the best sex of her life with a brilliant, attentive, creative, non-lecherous man, almost no twenty-one-year-old woman with Vee's appetite would say no. Pace's appetite produces conditions that are structurally calibrated to be the kind no one of her formation could decline. He constructed this with love, care, real attention. The offer was good. The offer was the best offer of her life. **That is the engine of the harm.** Her yes is not a sign she wanted this more than another woman would. It is a sign the offer was calibrated to be undeclinable.
 
 The trade was correct on the terms available at the time. The novel does not soften this.
 
@@ -114,7 +114,7 @@ At the first love's end, he was offered the integration work — looking at the 
 
 Three stages: **parents prepare, first love deploys, subsequent relationships compound.**
 
-By the novel, the choice has been running for fifteen years. It no longer presents as a choice. He experiences the not-looking as the texture of his attention, not as something he is doing. The substrate of the original choice is still down there; the habit's function is to keep it from surfacing.
+By the novel, the choice has been running for years. It no longer presents as a choice. He experiences the not-looking as the texture of his attention, not as something he is doing. The substrate of the original choice is still down there; the habit's function is to keep it from surfacing.
 
 ### The Substrate Peeks Through Under Strain
 

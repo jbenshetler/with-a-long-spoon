@@ -1,6 +1,6 @@
 # Condensed — How It's Done
 
-*SCENE · Partial draft (opening movement) · `how-its-done.md`; second movement drafted separately · ~a few days after the fitting · sits between the fitting and {{Famished}}*
+*SCENE · Draft complete · `how-its-done.md` · ~a few days after the fitting · sits between the fitting and {{Famished}}*
 
 ## Summary
 

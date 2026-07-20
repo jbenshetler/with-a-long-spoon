@@ -32,18 +32,18 @@ His non-reading and her disrobing are **the same event from two sides.** He neve
 
 The deferred apology clause **nags Pace offscreen** (backstory, unrenderable from her POV) and comes back as a *deed*: the peach is his unsaid apology routed through the chivalric grammar because the verbal register stayed closed — *I'm sorry it went cold, I should've seen you were scared of the canned-peach thing, not insulting me* — so he pares a peach instead. Her unsaid apology and his, meeting inside her body. That's why the final scene must be wordless-becoming-precise: the words were never available to either of them.
 
-## Rule-5 handling of the fuzz line (kept, exactly)
+## No-native-armor handling of the fuzz line (kept, exactly)
 
 Line stays verbatim: **"Both of these are sweet and juicy but only one has fuzz on it."**
 
-Not a Rule-5 violation, because the wit is **borrowed, not native.** The wound strips *her own* fluency, so she ventriloquizes Randi's — reaches for Randi's armor because it's the only thing that lets her press send. Cleverness as costume; the reader should feel the seams.
+Not a violation of the no-native-armor rule, because the wit is **borrowed, not native.** The wound strips *her own* fluency, so she ventriloquizes Randi's — reaches for Randi's armor because it's the only thing that lets her press send. Cleverness as costume; the reader should feel the seams.
 
 Render with three constraints:
 - **Applied, not native** — a beat where you feel her reach for a voice that isn't hers (one word of friction: the kind of thing Randi would say, so she said it). Don't explain the mechanism; show the seam.
 - **Fragile triumph** — she's not Randi; pulling it off thrills her *because she might not have.* The charge is in the risk of the borrowed register failing, not in cool mastery. Too comfortable = lost her.
 - **Survives contact, then collapses** — the reply comes back warm; the costume falls off *immediately* because it was a bad fit, not because it failed. Next thing out of her is small, plain, un-clever. Let the drop carry a hairline of grief (relief and loss at once): some part of her clocks, without language, that the clever thing got *wanted* back, not the place the clever thing was protecting. Got the yes, not the *seen.* The body's thrilled; the hairline is the chapter telling the truth while the characters don't.
 
-**Quiet architecture payoff (Rule 3 — never surfaced):** repairing-through-Randi's-voice puts Randi in the bed with them in July, transmitted through Vee's mouth, weeks before the threesome makes it literal. Vee thinks she's channeling a friend's confidence. The reader later feels what was being installed. The borrowed line is the chiasmus operating in the dark — evidence, not quip.
+**Quiet architecture payoff (the never-surface rule):** repairing-through-Randi's-voice puts Randi in the bed with them in July, transmitted through Vee's mouth, weeks before the threesome makes it literal. Vee thinks she's channeling a friend's confidence. The reader later feels what was being installed. The borrowed line is the chiasmus operating in the dark — evidence, not quip.
 
 ## The carried-along walk-out (texture between texting and peach)
 
@@ -53,7 +53,7 @@ Threaded **briefly, twice, bodily not cognitively:**
 1. **Photo-out-in-the-world flicker** — not paranoia about a hypothetical second man; the involuntary (her arousal, her actual sex) now *permanent, externalized, screenshot-able* — her most defended nerve made into a file, gone further than she can take back. No language for it, so it globs onto the nearest frame: *what if someone else sees.* Misfiled as **shame** (the only word her upbringing gave the place where desire meets exposure — same wrong-sized container as the borrowed wit). Swept away by the next wave of *but he wants me.*
 2. **The disproportion itself** — quieter, near-subliminal: the giddiness catching its own reflection and not recognizing the size of it. The overage *is* the tell. Volume as grief in a party dress. The bigger the giddiness, the bigger the buried thing (cold, unsaid apology, the I-love-you-shaped hole).
 
-Keep both **bodily, not cognitive** — a drop in the stomach, heat in the face she calls shame, gone before she finishes naming it. The body flags; the mind doesn't process; the appetite carries her off mid-flag. Keeps her in register (body before mind, no armor, no analysis) and keeps the scene moving at the speed of a girl about to get what she wants. Narrator never names what's underneath; reader assembles it from the overage (Rule 3).
+Keep both **bodily, not cognitive** — a drop in the stomach, heat in the face she calls shame, gone before she finishes naming it. The body flags; the mind doesn't process; the appetite carries her off mid-flag. Keeps her in register (body before mind, no armor, no analysis) and keeps the scene moving at the speed of a girl about to get what she wants. Narrator never names what's underneath; reader assembles it from the overage (the never-surface rule).
 
 ## The peach scene (execution flag)
 

@@ -73,7 +73,9 @@ Restart: re-run any doc whose section below is absent or marked `pending`. Same-
 - `see-you-later.md` — the line "no particular feelings about the yellow one on Draper" now reads as Cassie's light cover; with Chi Latte recanonized as Greek-coded exclusion, confirm whether the prose should register the exclusion more (author call).
 - `meta-craft-randi.md:187` Fairytale render-note vs the drafted NYE framing (`fairytale.md`).
 
-**Still-open (author-decision) findings not yet resolved:** cassie:96 enmity-root off-page; cassie-randi:30 "mutual enmity" vs asymmetry; `how-its-done` status (chronology "complete" vs condensed/arch "opening movement only"); pace:75 "twenty-year-old"; pace:117/thesis "fifteen years"; arch-sheri title-marking + age; cassie:46 scene-map lag; aspiration-vs-envy craft nuance (`meta-craft-vivienne.md:53`).
+**Flagged doctrine items — RESOLVED 2026-07-20 (one-at-a-time pass):** scrunchie-gaslight `:27` no-absorber collapse + `:9/:25` structural-effect (not conscious campaign) + "campaign" swept to thread/mechanism · spring-satc-bridge → **grid is canonical** (Agreement follows First Taste); ⇒ chronology-reorder flag raised · Rule-N citations (`peaches`, `help-harm-dials`) recited-by-concept · **"fifteen years"** (thesis:105/109 + pace:117) → number removed · `how-its-done` status (arch-randi:140 + condensed:3 → "Draft complete", verified against the scene) · `bible:380` "Ignition-Scalding" → `{{Scalding Jealousy Ignition}}` · `chronology:525` flag 26 signup → `{{All the Time}}` · **enmity** (cassie-randi:30 + cassie:96) → asymmetric (Cassie dislikes / Randi dismisses; root stays off-page) · `pace:75` "twenty-year-old" → "twenty-one-year-old" (+ recorded: the three age across the year — Pace 22→23, Vee/Randi 21→22) · **aspiration/envy** (bible:224) → revised: envy is Randi's alone; Vee *aspires* to Randi's charmed-life/composure (the cage), never envies.
+
+**Still open (minor / author to apply):** the spring-satc-bridge **chronology reorder** (move the Threesome Agreement to *after* First Taste on the date-master) · `arch-sheri` title-marking (`{{The Usual}}`/`{{Another Round}}`) + Sheri's uncorroborated age (~20) · `cassie:46` scene-map lag (add the stats-Simpson/`{{Turned Up}}` Cassandra pairing) · `threesome-reveal:11` betrayal framing (no-action per audit) · deferred prose passes (`see-you-later.md` Chi Latte cover; `meta-craft-randi.md:187` Fairytale render vs the drafted NYE page).
 
 ---
 
@@ -256,7 +258,7 @@ _status: checked 2026-07-19 — 6 findings (high 0, med 2, low 4)_
 - **[low/low]** `:93,:171` — "apparatus does not see": neuro-adjacent but **reconcilable** (harm-one non-asking is canon, not perceptual deficit). Watch.
 
 ### meta-plan-scrunchie-gaslight.md
-_status: checked 2026-07-19 — 4 findings (high 1, med 1, low 2)_
+_status: checked 2026-07-19 — 4 findings (high 1, med 1, low 2) · ✓ RESOLVED 2026-07-20: :27 → no-absorber collapse; :9/:25 conscious-strategy → structural-effect ("nobody plans this"); "campaign" swept to thread/mechanism (:3,:37); :11 gender-framed left as-is_
 - **[high/high]** `:27` — Grain #3 "cover holds / she credits Pace and takes it" is **superseded**: current canon is the **no-absorber collapse** (the Pace-refill story arrives, dies on the drawer's grammar [he never touches it], and defaults to "I must be wrong"). **Correct:** `chronology:371,474,375`. **Fix:** revise to the no-absorber-collapse model.
 - **[med/med]** `:9,25` — frames the taking as conscious strategy ("real objective / training her early"). Current canon = involuntary "**compulsive leak, not strategy**". **Correct:** `meta-condensed-randi-takes-scrunchies.md:17`; arch-randi middle register. **Fix:** reframe as the mechanism's *function on Vee*, not Randi's design.
 - **[low/med]** `:15-20` — arithmetic table labels the off-page ~6-taken drop as Grain #1; chronology splits them (the take = unnamed `[EVENT]` `:303`; Grain #1 = Vee's flicker `:305-307`). **Fix:** split move from grain label.
@@ -321,7 +323,7 @@ _status: checked 2026-07-20 — 2 findings (low 2)_
 _status: checked 2026-07-20 — 0 findings (clean)_ — all dates/claims reconcile (Rock ~late Oct, The Scar ~April, first love ~late summer); bike-drag origin matches bible:147; neuro clean (flatness = burial/suppression, not deficit).
 
 ### meta-note-peaches.md
-_status: checked 2026-07-20 — 5 findings (high 1, med 3, low 1)_
+_status: checked 2026-07-20 — 5 findings (high 1, med 3, low 1) · ✓ 2026-07-20: :29/:31 non-perception reframe (Phase-4 batch); Rule-N citations recited-by-concept (:35/39 no-native-armor, :46/56 never-surface; `help-harm-dials:245` deception-transcendence)_
 - **[high/med]** `:29,31` — frames Pace as perceiving the coded apology-bid and "**defers emotional integration**/steps around it" from discomfort → **contradicts** the coded-channel mechanic (he never perceives the cipher; answers the surface literally). Motivated-avoidance would make him a knowing manipulator. **Correct:** `bible:178` "never hears the cipher… never registers there's a cipher under it." **Fix:** reframe from motivated-deferral to non-perception of the encoded layer (keep the deed-as-later-apology; the deficit-denial at the note is already correct). [innate-deficit-residue's inverse — over-correcting into knowing-avoidance]
 - **[med/high]** `:64` — "the **late-August** threesome reveal" → reveal is ~early August (`chronology:433-434`). **Fix:** → early-August.
 - **[med/med]** `:35,39` — "Rule-5" miscited (current thesis Rule 5 = "grievance and gift are the same object"; the intended point is body-before-mind/no-native-armor). **Fix:** cite by concept or correct number. [thesis rule-renumber class — cf. help-harm-dials:245]
@@ -351,7 +353,7 @@ _status: checked 2026-07-20 — 2 findings (low 2)_
 - **[low/med]** `:30` — signup "plants in All the Time" is the CURRENT side; `chronology:525` flag 26 still says "plants in Gesso" (stale straggler). **Fix:** flag `chronology:525` (out of scope here). Major/neuro: clean (anthro = elective, not Vee's major).
 
 ### meta-note-spring-satc-bridge.md
-_status: checked 2026-07-20 — 2 findings (med 1, low 1)_
+_status: checked 2026-07-20 — 2 findings (med 1, low 1) · ✓ RESOLVED 2026-07-20 (author call): **GRID IS CANONICAL** — Agreement follows Vee's First Taste / self-taste threshold; the grid + `:85` note stand. ⇒ **NEW chronology-reorder flag (author to apply on the date-master, not done here):** `chronology:405` places The Threesome — Agreement (~early-mid June) BEFORE First Taste (~early July); per the grid the Agreement must move to **after** First Taste — reconsider the intervening Scalding / bench-retell / Vol 2-3 break stretch that currently sits between them._
 - **[med/high]** `:62-73,85-86` — revised spring grid orders the **Bench retell** + {{First Taste}} BEFORE the **Threesome Agreement**; chronology orders Agreement (~early-mid June) BEFORE bench-retell (~late June) and First Taste (~early July). Grid predates the Vol2/Vol3 restructure. **Correct:** `chronology:405-406,413-418`. **Fix:** reconcile grid rows 7-10 (Agreement first); First-Taste half is itself slot-TBD. [likely supersession]
 - **[low/med]** `:70` — row pairs {{Vee on the Bench}} (Pace) with the Bench-retell (SATC) as adjacent; chronology splits them across the Vol2/Vol3 curtain (the gap "loads the scald"). **Fix:** annotate the row. Neuro: clean.
 

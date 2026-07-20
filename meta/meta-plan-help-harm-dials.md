@@ -242,7 +242,7 @@ When new operations are discovered in the writing, add them here. The list is ge
 
 **Working rule 22 in the thesis** — *the configuration is the agent of harm in ways no single party is* — applies to all configuration-wide operations.
 
-**Working rule 23 in the thesis** — *the conventional grammar of deception is itself one of the prescriptive frameworks the novel transcends* — applies to all operations where the configuration's information-architecture is delivering goods alongside the betrayal.
+**The thesis's deception-transcendence principle** — *the conventional grammar of deception is itself one of the prescriptive frameworks the novel transcends* — applies to all operations where the configuration's information-architecture is delivering goods alongside the betrayal.
 
 ---
 
