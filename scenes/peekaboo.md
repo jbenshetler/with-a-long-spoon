@@ -1,4 +1,4 @@
-# Dress Pickup
+# Peekaboo
 
 She didn't really know what *come over* meant this time. There'd been one invitation before it — dinner, which had turned into the whole night and most of the next morning, and a Saturday drive home wishing she'd thought to pack a toothbrush. One night. One data point. Nothing yet that told her what a Thursday was supposed to mean. But she wasn't a fool: a midweek text from the man she'd just slept with for the first time meant the thing it obviously meant, and she'd dressed for it without quite letting herself say so — the soft dark dress, the long-sleeved one, feminine and easy, the one she knew she looked good in, her hair down the way he'd liked it. She'd carried the low warm hum of it the whole drive, so that by the time she reached his step it was most of the way to a decision her body had already made.
 

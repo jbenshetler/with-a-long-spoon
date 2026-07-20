@@ -124,7 +124,7 @@ One file per non-trivial scene; the chronology entry links to it. To work on a s
 | `meta-condensed-famished.md` | Famished |
 | `meta-condensed-toenails.md` | Toenails |
 | `meta-condensed-fed.md` | Fed |
-| `meta-condensed-dress-pickup.md` | Dress Pickup |
+| `meta-condensed-peekaboo.md` | Peekaboo |
 | `meta-condensed-stats-simpsons-paradox.md` | Stats — Simpson's Paradox |
 | `meta-condensed-shoe-shopping.md` | Shoe Shopping with Randi |
 | `meta-note-in-her-place.md` | In Her Place (Randi Takes Vee's Place) — spring Randi/Pace scene |
@@ -203,7 +203,7 @@ Listed in chronological order (filesystem = `scenes/`; order, names, and status 
 | `turned-up.md` | Turned Up | complete |
 | `how-its-done.md` | How It's Done | complete |
 | `famished.md` | Famished | complete |
-| `dress-pickup.md` | Dress Pickup | complete |
+| `peekaboo.md` | Peekaboo | complete |
 | `stats-simpsons-paradox.md` | Stats — Simpson's Paradox | complete |
 | `lesson.md` | Lesson | complete |
 | `cw-dance-debrief.md` | The CW-Dance Debrief | complete |

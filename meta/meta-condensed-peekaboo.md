@@ -1,6 +1,6 @@
-# Condensed — Dress Pickup
+# Condensed — Peekaboo
 
-*SCENE · Draft complete (`scenes/dress-pickup.md`) · mid-week, ~1.5 weeks after the fitting*
+*SCENE · Draft complete (`scenes/peekaboo.md`) · mid-week, ~1.5 weeks after the fitting*
 
 ## Shape
 

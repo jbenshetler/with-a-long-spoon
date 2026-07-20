@@ -94,7 +94,7 @@ The first night is the discharge of the Fitting's deferred tension. After the Fi
 
 > **Timeline.** Six days separate the Fitting from the dinner. Pace flies to a three-day University of Chicago conference midweek and sends *"Dinner Friday?"* the morning he leaves, returning in time for it — so the front of the week is quiet (a first low anxiety) and the sharp, dated anticipation is only the last couple of days. He mentioned the travel on the mountain (the hiking rainstorm) as logistics, not a credential.
 
-> **The dress is not part of this scene.** {{Dress Pickup}} is a separate event that precedes it. She doesn't come to retrieve the dress; he doesn't offer it as a pretext. The invitation stands alone.
+> **The dress is not part of this scene.** {{Peekaboo}} is a separate event that precedes it. She doesn't come to retrieve the dress; he doesn't offer it as a pretext. The invitation stands alone.
 
 > **The nail color.** Frosted plum — it catches the light like the silk he chose for her dress; connection noticed by her, not named. Green is her interior color (the panties and matching bra); the plum is exterior / his (the silk). Do not conflate. Both are bought this week under a reason that isn't the reason.
 

@@ -6,7 +6,7 @@ A workshop-committed scene. The diptych is **The Ask** (Vee asks) and **The Prin
 
 ## The spine (the one thing to internalize)
 
-This is **the first scene Vee authors.** Canon has her *initiating* before — striding to him bare at the {{Dress Pickup}}, texting first at {{We Find Out}}, electing her own exposure at the cabin — but never *imagining a whole scene and handing it to him to stage.* Scheming requires imaginative authorship; that doesn't appear earlier. So "first time Vee schemes" holds, and it's a real new rung in her agency.
+This is **the first scene Vee authors.** Canon has her *initiating* before — striding to him bare at the {{Peekaboo}}, texting first at {{We Find Out}}, electing her own exposure at the cabin — but never *imagining a whole scene and handing it to him to stage.* Scheming requires imaginative authorship; that doesn't appear earlier. So "first time Vee schemes" holds, and it's a real new rung in her agency.
 
 Why it's more than "she gets confident": the whole book runs on Pace and Randi orchestrating Vee — she's the one who cannot see the shape of what she's in. This is the **one time she holds the pen.** And what does she write? A scenario in which she is *chased, captured, stripped, and broken.* The first time she gets to direct, she casts herself as the captive and hands Pace the controls. **Her authorship and the machinery are the same act** — first read, brave and fun; reread, she authored her own deeper surrender. This is the "adventure"-word logic made literal (she coined the joy-word that later walks her in blind), and a **rehearsal of the rationalization-frame** she'll use to walk into the threesome (build a fiction that lets you want what you can't say plainly). Never stated on the page — resonance only.
 
