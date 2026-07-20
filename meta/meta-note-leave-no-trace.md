@@ -30,13 +30,13 @@ The hike is the **structural opposite of may-i-choose**, not a second helping of
 ## Care under real stakes (the upgrade over may-i-choose)
 
 In the dinner his care was lovely but **low-stakes** (nice room, good food, nothing at risk). On the trail the same care is measured against **genuine exposure**, so it lands harder — it's care that actually *matters*:
-- **Food brought, not cooked** — he packed it (cold-cut sandwiches, sliced fruit). Care as having-thought-of-her; "no one ever brought something *for her* with that attention" landing on the simple fact that he planned it. (NOT cooking — there's no stove on a trail.)
+- **Food brought, not cooked** — he packed it (a summit lunch, then **cherries**). Care as having-thought-of-her. The cherries carry the scene's **two cutting-voice defusion installs** — the mother's-voice shame disarmed *without* anyone naming it: (i) the **blister/moleskin** beat (`:47-67`) — he tends her foot, matter-of-fact, no fuss; (ii) **"We take nothing and leave nothing"** (`:107-117`) — she spits a pit, the *common / no-one-taught-you* voice fires, and he picks it up onto wax paper *without making her small*, reaching for his own cherry so she isn't watched learning. (NOT cooking — no stove on a trail.)
 - **Provision tested by the rain** — the storm hits; he's prepared; she's safe because he thought ahead. The chivalry-of-provision (the bible's "in the pantry" — guest wines, thinking ahead) relocated to a backpack, and now load-bearing instead of decorative.
-- **The dry no-tag shirt** — she's cold; he gives her his dry shirt and **steps into the rain to give her privacy.** Chivalric withdrawal, the gentleman in the weather.
+- **The dry no-tag flannel** (from his gym bag, `:169`) — she's cold; he gives her his dry flannel and **steps into the rain to give her privacy.** Chivalric withdrawal, the gentleman in the weather.
 
 ## The silk-naming (relocated here from the porch)
 
-The russet-dress / induction / "poured wine" magazine color — Vee tells him on the trail. **Must ride the walking**, not pause into a dreamy island: confiding *in motion*, breath short from the climb, intimacy folded into physical effort. "People talk about all kinds of things while hiking." Being-known-without-asking is part of the swoon — but it stays *on the move, in the wind*, so the single warm note at the end remains the only one. Plants the silk Pace acts on at the Fitting.
+The russet-dress / induction color — Vee tells him at the **summit, seated over the cherries** (`:121-137`), not in motion: the induction, the magazine dress, *"Russet — like the red of a brick"* — the wanting/reach in it (the dorm girl pointing: *that one*), then she sets it back down (*"I can't afford it. Obviously."*). Pace doesn't pick it up — *"That sounds like a beautiful dress,"* no weight on it, and the talk moves on; the dress left on the rock between them. Being-known-without-asking. Plants the silk Pace acts on at the Fitting. **(Shade is russet / brick-red — *not* "poured wine"; wine/burgundy is Pace's Fitting *variant*, not the color Vee names here.)**
 
 ## The hinge beat — she authors the exposure
 
@@ -61,8 +61,8 @@ Crucially: she's been **wide awake and competent for hours** (the harsh world de
 
 ## Plants & continuity (must not detonate early)
 
-- **No-tag shirt:** she keeps the enormous, his, no-tag hiking shirt — the disappear-into-his-fabric beat the burgundy dress later inverts. She notices the missing brand tag once, guesses wrong (counterfeit, sample, off-brand), drops it. **Must NOT read as significant until the Fitting detonates it.** (She goes looking for the tag the first night she has the shirt; softest thing she owns; files it as a riddle and gives up — see meta-rules.)
-- **Silk-naming** plants the russet/"poured wine" the Fitting pays off (he matches her coloring, not the reference).
+- **No-tag flannel:** she keeps the enormous, his, no-tag **flannel** (from his gym bag) — the disappear-into-his-fabric beat the burgundy dress later inverts. The tag-discovery stays **off the page** (the hike only hands her the dry flannel); she notices the missing brand tag later, guesses wrong (counterfeit, sample, off-brand), drops it. **Must NOT read as significant until the Fitting detonates it.** (softest thing she owns; files it as a riddle and gives up — see meta-rules.)
+- **Silk-naming** plants the **russet/brick-red** the Fitting pays off — where Pace **offers a deeper variant** (the burgundy silk) and Vee consents (*not* a unilateral color-match; supersedes older "matches her coloring" framing).
 
 ## Size / craft watch
 
@@ -72,5 +72,5 @@ Crucially: she's been **wide awake and competent for hours** (the harsh world de
 
 ## Still open
 
-- The **"yes despite nervousness" retrospect** (relocated from the cut on-page hike invitation in {{May I Choose}}) opens this scene or its lead-in: she looks back and sees she said yes *too fast*, the lack of hesitation the unsettling part in hindsight. (To be drafted.)
+- The **"yes despite nervousness" retrospect** is **on the page** (`:11`: *"She had said yes to this walking back from the dinner, the yes out before she'd weighed it"*): she said yes *too fast*, the lack of hesitation the unsettling part in hindsight.
 - This note is the craft thinking **companion to the drafted scene** (`scenes/leave-no-trace.md`).

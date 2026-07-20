@@ -23,6 +23,16 @@ Three jobs, all warm on the first read:
 - Randi almost certainly **hasn't met Sheri** (different worlds). So she cannot defuse the fear with the fact (*she's a lesbian*) — she soothes it **emotionally**, pure management, no information. Better: it keeps the worry **live** (balmed, not resolved), so it reactivates on Sheri-proximity and dissolves **experientially at {{Another Round}}**. Two-track handling of one anxiety — verbal here, bodily there.
 - The reframe is **appetite-in-velvet** (`meta-plan-satc-tracks.md`): Vee's fear received as proof of caring, installed as a permanent condition of loving Pace — the more she loves, the more she'll worry, the more she'll need Randi's reassurance. Warm on the surface; a dependency Randi controls, on reread.
 
+## The reciprocal retelling — Randi's Fairytale (the drafted second movement)
+
+After the counsel, Vee — steadier, *wanting to give something back into the warmth* — asks **"Tell me about your New Year. The real one."** Randi waves it off ("white tie and rich people"), Vee insists, and Randi tells it: **the {{Fairytale}} story, now spoken to Vee** — **John**, who cut the lift line and had them *"married with three children, all named"* by the top of the lift; the best table by the window; the *pale metallic blue* dress ("the kind you tell your daughter about"); the ball, the dancing, *"she just let him lead."* This runs the confidante track the **other direction** (Randi confides to Vee) and makes the NYE cross-cut (`meta-note-old-acquaintances.md` / `meta-note-fairytale.md`) **live and verbal**.
+
+Two loads, both reader-side:
+- **It hits Vee sideways.** *Delighted* on the surface, but the *easy forward motion* — a man who builds the whole future out loud in the first hour, unafraid of one word in it — is **the exact thing she doesn't have** with Pace (no word, no future spoken). The retelling deepens her own want without her clocking it.
+- **The withheld bedroom (the Fairytale thesis, delivered as a quip).** Randi, *who could narrate anything* — who has told Vee across a dozen tables what a man's mouth did and where — **stops** at the bedroom: *"And then it got very late, and we went up,"* a look down at her hands, and that is all. Vee reads the quiet as **discretion.** Then the closer: *"He was perfect. Truly. A masterpiece… Everywhere but the bedroom, and the bedroom's the room I actually live in. What's a girl to do."* — Vee **laughs, really laughs** for the first time all day. **Reread charge:** the flawless prince reached *nothing* — proof (to the reader who saw Fairytale) that **Pace is irreplaceable**; the room Randi *actually lives in* is the one John couldn't touch. Vee takes it as a friend's rueful joke. Never explained. (Containers rule intact — the stop-at-the-door is her only wordless crack; interior stays locked.)
+
+The closing hug (`:121`, long, both still frayed) and the settled goodbye kiss follow this.
+
 ## The physical — a new vector, not a new kiss-rung
 
 The goodbye-kiss staircase does **not** escalate here: the **usual settled kiss** closes the scene, by now unremarkable ("only what they do"). What advances is a **different vector**:
