@@ -282,3 +282,25 @@ in `meta-craft-pace.md`). When next touching `leave-no-trace` (the gift) and
 *only* / last one, and that Vee's keeping it reads as intimate, not depriving —
 consistent with "a few." A prior lookup found no canon asserting a single
 flannel, so this is a sanity pass, not a retcon.
+
+-----
+
+## 31. Scene-side prose staleness — surfaced in the currency audit (PROSE — author's call)
+
+Three drafted-scene prose lines drifted from current canon; flagged during the
+Phase-5 currency audit but **not edited** (the audit does not touch scene prose).
+Each is the author's call (full grounding in `meta-audit-currency.md`, Phase 5):
+
+- **`scenes/still-life.md:3`** — opens *"It was the week before the break, the
+  markets piled high…"* (a December/harvest frame), but the scene's canonical
+  slot is **~late January** (`meta-plan-chronology.md:258`; the note's own guard
+  reads "the scene is late January now"). Strip the pre-break/harvest calendar
+  frame — keep the counter/brandied-peaches as texture only (`chronology:259`).
+- **`scenes/see-you-later.md:33`** — *"Randi had dressed for a Monday-morning
+  stats lecture,"* but the scene sits ~**Wednesday** (morning after
+  `{{The Pointing Game}}`; stats is MWF, so "See you Friday" needs today = Wed).
+  Monday → the correct weekday.
+- **`scenes/rock.md:117`** — *"…because he was too literal not to first check
+  whether she meant it."* "too literal" reads as an innate trait; under current
+  canon Pace is **neurotypical** and the not-declaring is choice/care (chivalric
+  grammar + vow), not innate literal-mindedness. Re-cast as precision/care.

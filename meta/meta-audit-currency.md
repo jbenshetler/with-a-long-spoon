@@ -418,7 +418,7 @@ _Currency + light prose cross-check vs the drafted scene. Wave 1 (12): all-the-t
 - **[low]** `:41` — the prescriptive "worked example" double-register lines aren't the shipped lines (`my-friend-randi.md:51`); flag only.
 - Currency/doctrine: clean (friend-lane clean — "confidante", never "listener"; no neuro residue).
 
-### meta-note-fairytale.md — 3 (med 1, low 2) · ✓ RECONCILED 2026-07-20: the phantom "Gesso mid-Nov off-grid setup" downgraded to a needed-but-UNWRITTEN pre-break setup (must plant in a fall pre-break SATC beat, NOT late-Jan Gesso). Beat-9 quote + braces fixed wave-1.
+### meta-note-fairytale.md — 3 (med 1, low 2) · ✓ RECONCILED 2026-07-20 (corrected): Location bullet fixed — Gstaad is established **in-scene** (Randi POV) and, on Vee's side, by Randi's sparse break texts ("two lines and a chalet", `my-friend-randi:95`); **no separate setup needed** (the old "Gesso mid-Nov off-grid setup" was doubly wrong — Gesso is a SPRING SATC scene following {{Still Life}}). Beat-9 quote + braces fixed wave-1.
 - **[med/med]** `:43` — "{{Gesso}} **mid-November** mention (Randi off-grid) load-bearing setup": phantom + mis-dated — Gesso is now **~late Jan** and no off-grid/Gstaad mention exists anywhere (rg-confirmed). **Fix:** re-home the intended mid-Nov setup, or downgrade to "needed setup (unwritten)".
 - **[low]** `:32` — beat-9 quote "A performance she could do in her sleep / operating the equipment" isn't on the page; drafted = "good sandwich eaten fast" (`fairytale.md:117`). **Fix:** update quote or drop quotes.
 - **[low]** `:13,15,41` — bare title refs (`Outlier`×2, `Bench`). **Fix:** brace (incremental).
