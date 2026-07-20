@@ -407,7 +407,10 @@ _status: checked 2026-07-20 — 4 findings (high 1, med 3)_ — **neuro word-swa
 ---
 
 ## Phase 5 — Per-scene notes (drafted scenes)
-_Currency + light prose cross-check vs the drafted scene. Wave 1 (12): all-the-time, barely-stings, burn, fairytale, fed, grace, in-her-place, in-his-hands, leave-no-trace, my-friend-randi, old-acquaintances, outlier. Wave 2 (12) to follow._
+_Currency + light prose cross-check vs the drafted scene. Wave 1 (12): all-the-time, barely-stings, burn, fairytale, fed, grace, in-her-place, in-his-hands, leave-no-trace, my-friend-randi, old-acquaintances, outlier. Wave 2 (12): practice-room, recognized-method, rock, see-you-later, sheri-first-ride, still-life, the-bench, the-usual, turned-up, vee-on-the-bench, water-wings, we-find-out._
+
+**✓ Wave-1 mechanical fixes applied 2026-07-20:** stale-status (my-friend-randi/old-acquaintances/leave-no-trace/grace) · misquotes→drafted line (all-the-time/fed/fairytale) · factual (old-acquaintances borrowed-off-dorm + near-real-time + gorgeous; all-the-time Wardy; barely-stings Sondra/indifferent; burn Cabin→{{Grace}}) · date (grace First Taste→early July) · braces ({{The Outlier}}/{{The Bench}}/{{A Round}}/{{What to Wear}}) · **inverted "gorgeous" doctrine reframed** (old-acquaintances — gorgeous is the true line, not withheld) · cross-doc stragglers (`satc-tracks:71` bullshit-look→named-catch; `chronology:331` ask-quote). Editorial reconciliations flagged (not applied). Wave-2 fixes still to apply.
+**Note (author):** canonical title is **"The Outlier"** (`{{The Outlier}}`), not "Outlier" — the article is required or the brace won't resolve. `satc-tracks:145` has a second general-register "bullshit look" left as-is (not the {{Fed}} rung).
 
 ### meta-note-my-friend-randi.md — 4 (high 1, med 1, low 2)
 - **[high/high]** `:3` — status "Architecture complete, **prose not drafted**": the scene IS drafted. **Correct:** `chronology:224` "Draft complete · `my-friend-randi.md`". **Fix:** → "draft complete".
@@ -478,7 +481,75 @@ _Every quoted anchor matches the drafted scene; the precise/formal stress-tell i
 - **[med]** `:32,53` — "the Fitting / anti-Fitting" chapter cross-ref → `{{A Round}}` (the measure-and-withdraw beat). **Fix:** brace.
 - **[low×7]** `:73,117` "another adventure" → "an adventure" (`grace.md:113`) · `:140` blindfold-propagation already done · `:66` key-guard already satisfied · `:71` shower-order compression (non-conflict) · `:15` a mirror facial-tell the note said to CUT is on the page (`grace.md:123`) — **flag: reveal-arming vs telegraph?** · `:11` "the only register he has / **can't answer in words**" is innate-deficit-adjacent — flag: frame as chosen grammar/vow, not incapacity · **`chronology:331` "ask" quote** ("Would you show me how you touch yourself?") is stale vs the drafted/note "Go ahead… Show me" — flag chronology straggler (note is current).
 
-**Phase-5 pattern (emerging): pre-draft notes never reconciled to their drafted scenes** — stale "unwritten/prose-not-drafted" status (`my-friend-randi:3`, `old-acquaintances:3`, `leave-no-trace:3`) + superseded directives/quotes. A batch of these want a reconcile-to-the-drafted-scene pass, not just currency.
+**Phase-5 pattern (emerging): pre-draft notes never reconciled to their drafted scenes** — stale "unwritten/prose-not-drafted" status (`my-friend-randi:3`, `old-acquaintances:3`, `leave-no-trace:3`, `recognized-method:3`, `grace:3`) + superseded directives/quotes. A batch of these want a reconcile-to-the-drafted-scene pass, not just currency.
+
+_Two more Phase-5 themes: (a) **neuro-residue the reground didn't reach** in per-scene docs (`recognized-method:15` "the never-named temperament", `sheri-first-ride:28` "deficit", scene `rock.md:117` "too literal") — a residue-tail sweep wanted. (b) **scene-side prose staleness** (we don't edit prose — author flags): `still-life.md:3` "week before the break"/harvest frame (should read late-Jan), `see-you-later.md:33` "Monday-morning stats" (breaks the Wed timing)._
+
+### meta-note-see-you-later.md — 2 (med 1, low 1)
+- **[med]** `:21-26` — Plants list **omits the Chi Latte venue-exclusion** (just-recanonized: Greek-coded ground; this scene is its *first enactment* — Cassie's lab-decline = opting off, not merely a Cassandra beat). **Fix:** add venue-exclusion (reread-only, taste-on-first-pass) to the seeds; reframe Cassie's decline.
+- **[low]** scene-side `see-you-later.md:33` "Monday-morning stats" contradicts the Wed timing — prose flag.
+
+### meta-note-turned-up.md — 1 (med 1)
+- **[med]** `:3` — braced **self-title** `{{Turned Up}}` (the self-title sweep missed this file). **Fix:** → bare `Turned Up` (the `{{A Round}}` cross-refs stay braced).
+
+### meta-note-recognized-method.md — 5 (med 3, low 2)
+- **[med]** `:3` — "companion to the **unwritten scene** … **unrendered** craft"; drafted (`chronology:144`). **Fix:** → companion to `recognized-method.md`.
+- **[med]** `:32` — "wet hand … cold on sleep-skin" tickle; drafted is **dry** tickle (`:91`), the **wet** hand is the swat (`:101`), warm not cold. **Fix:** dry-tickle / wet-swat.
+- **[med]** `:15` — "(the never-named **temperament**)" glosses his non-comprehension as innate. **Fix:** reframe to choice-become-habit / plain info-gap (he didn't witness the blonde). [neuro residue]
+- **[low]** `:37` — "inverting **the Fitting**" → `{{A Round}}` / lowercase event.
+- **[low]** `:31` — "Soaking, Pace" → drafted "Soaking," (name dropped, `:89`).
+
+### meta-note-rock.md — 2 (med 1, low 1)
+- **[med]** `:76` — placement "after {{Shoe Shopping}} (Oct 19), before {{School Nights}} (Oct 23)" is stale. **Correct:** `chronology:124` Shoe Shopping ~Oct 24; Rock's next entry is `{{Lesson}}` ~Oct 29. **Fix:** → "after {{Shoe Shopping}} (~Oct 24), before {{Lesson}} (~Oct 29)".
+- **[low]** scene-side `rock.md:117` "too literal not to first check" — innate-literal residue; prose flag.
+
+### meta-note-still-life.md — 5 (med 2, low 1)
+- **[med]** `:56` — the note's own guard "no harvest-table tie (late Jan now)" is contradicted by the **draft**: `still-life.md:3` "the week before the break, the markets piled high." **Scene is the stale side** (note+chronology = late Jan). **Fix:** prose flag — strip the pre-break/harvest frame from `still-life.md:3`.
+- **[med]** `:19,49,56` — blanket "No peach here" is broader than canon; `chronology:259` carves out "counter peaches are texture only" (the draft's brandied peaches are allowed). **Fix:** add the carve-out to the note guard.
+- **[low]** `:17,34-48` — photo/sex/afterglow beats absent from the *partial* draft — consistent (note documents intended-unwritten), no drift.
+
+### meta-note-sheri-first-ride.md — 3 (med 2, low 1)
+- **[med]** `:10` — "Oct 26 morning slot" stale (Oct 26 = Monday, breaks the Thu-blowup/Sat framing). **Correct:** `chronology:140` ~Sat Oct 31. **Fix:** → Oct 31.
+- **[med]** `:28` — "Pace's **deficit** is missing meaning encoded…" — substance current, but "deficit" is retired wiring language. **Fix:** → "habituated non-reading/trained blind spot". [neuro residue]
+- **[low]** `:9,43` — `` `Another Round` `` backtick → `{{Another Round}}`.
+
+### meta-note-the-bench.md — 3 (med 2, low 1)
+- **[med]** `:23,39` — "Edging Improvements / Planned / In Progress" sections present material that is **already landed** in the completed draft as pending. **Fix:** relabel shipped/locked.
+- **[med]** `:5` — "last name unknown to her own sorority sisters" cited as *Randi's* withheld name; in the draft it's **Pace's** last name (relationship-concealment, `the-bench.md:509`). **Fix:** recast or drop from the withheld-her-name parallel.
+- **[low]** `:36` — quote "the way the muscle inside pulled…"; draft drops "the way" (`:357`).
+
+### meta-note-the-usual.md — 4 (low 4)
+- **[low]** `:25` — `` `Another Round` `` backtick → `{{Another Round}}` (×2).
+- **[low]** `:20` — "you don't get clever at a graveside" isn't a scene line (drafted "nothing clever he could lay over it", `:45`) — unquote/gloss.
+- **[low]** `:37` — "a Christmas neither of them was driving home for" not verbatim — note-coinage.
+- **[low]** `:38` — "the philosophy of my food" → drafted "philosophy of your food" (`:115`).
+- _Doctrine clean; retired counter/no-eye-contact rationale correctly marked retired._
+
+### meta-note-practice-room.md — 5 (high 1, med 1, low 3)
+- **[high]** `:3` — "the **unwritten scene**"; drafted (`chronology:148`). **Fix:** → the drafted scene.
+- **[med]** `:18,56` — drafted opener/close "Okay. The shoes. Tell me everything." / "All better?" **supersede** the old "Your turn" / "I hope everything is alright" — but that's **not propagated** to `satc-tracks` (rung 1) + `chronology:149`. **Fix:** propagate the new lines. [cross-doc straggler]
+- **[low]** `:55` — "latch" → drafted "bolt" (`:121`).
+- **[low]** `:11` — continuous-vs-discrete "reserved March" → April/spring (Secret Plans, TBD).
+- **[low]** `:11` — "outlier" keyword resonance with `{{The Outlier}}` — author glance (likely deliberate). Neuro clean.
+
+### meta-note-water-wings.md — 5 (high 1, med 3, low 1)
+- **[high]** `:3` — "Architecture complete, **prose not drafted**"; drafted (`chronology:58`). **Fix:** → Draft complete.
+- **[med]** `:31,51` — beat-2 content "stripper's body / hidden since fourteen / sleek like Randi" and the "stripper's-body self-label **early appearance here**" are **not in this scene** — relocated (`a-round.md:26` self-label; full form `nothing-underneath.md`). **Fix:** reconcile the note to what Water Wings actually renders; re-anchor the thread's early appearance to `{{A Round}}`.
+- **[med]** `:32` — the note's Cassie-seal→Kayla NB is **current**, but `chronology:59` + `meta-condensed-water-wings.md` still say "Cassie pops it" → external drift. **Fix:** flag chronology:59 + condensed (note is right). [cross-doc straggler]
+- **[low]** `:7,50` — "the Fitting" (chapter-sense) → `{{A Round}}`.
+
+### meta-note-we-find-out.md — 3 (med 1, low 2)
+- **[med]** `:13` — wikilink `[[meta-condensed-practice-room]]` for the brat plant; it lives in `[[meta-note-practice-room]]`. **Fix:** repoint.
+- **[low]** `:21` — "*shame wants a witness, and there was none*" is a paraphrase-in-quotes (draft `:95` is longer). **Fix:** unquote/align.
+- **[low]** `:29` — "chase banter deliberately thin, to be built out" but the scene is Draft complete. **Fix:** reconcile/retire.
+
+### meta-note-vee-on-the-bench.md — 6 (med 1, low 5)
+- **[med]** `:79` — "remembers her the way you **remember a person still in the room**": object-permanence/present-cognition figure reads neuro-adjacent under "introvert-charismatic, not autistic." **Fix:** flag — author decide reword to a vividness image. [neuro residue]
+- **[low×5]** `:143` bare "Ignition"/"Peaches" → brace · `:30-46` omits the drafted cold-open (Thursday wanting + tell-first rule) · `:34` box "on the table from arrival" vs drafted produced-later (`:33`) · `:141` "both asleep" vs drafted only-Vee (`:491`) · `:13` paraphrase-in-quotes.
+
+---
+
+**Phase 5 done — 24 notes, ~94 findings (high ~6, med ~40, low ~48).** Dominant patterns (for the wrap): (1) **pre-draft notes lag their drafted scenes** — stale "unwritten" status + superseded directives/quotes; (2) **neuro-residue tail** the reground didn't reach (`recognized-method:15`, `sheri-first-ride:28`, `vee-on-the-bench:79`; scene `rock.md:117`); (3) **scene-side prose staleness** (author flags, no prose edits here): `still-life.md:3`, `see-you-later.md:33`, `rock.md:117`; (4) **cross-doc stragglers where the note/scene is current but siblings lag**: `satc-tracks:71` (bullshit-look), `satc-tracks`+`chronology:149` (Your-turn/I-hope-everything-is-alright), `chronology:59`+`condensed-water-wings` (Cassie-seal→Kayla), `chronology:331` (ask quote); (5) misquotes/paraphrases-in-quotes + backtick/self-title brace nits.
 
 ### meta-rules.md (master self-consistency)
 _status: pending_

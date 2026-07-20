@@ -328,7 +328,7 @@ A relationship beat — a day trip to a Virginia cavern (Dixie Caverns near Roan
 
 ### [SCENE] Grace (The Pivot — the Key & the Watched Exposure)
 *~late February or early March* · Draft complete · `grace.md` · [detail](meta-condensed-grace.md) · [craft](meta-note-grace.md)
-His answer to the Christmas fight, on his terms: **a key to his house**, in a handmade oiled-wood box (the answer he can't speak). The transgression is **watched masturbation** (*"Would you show me how you touch yourself?"* — she's made the agent of her own exposure); the **Telling installs** (tell, not ask). "Adventure" first *invited* here (coined at {{Still Life}}). Taste held for {{First Taste}} (~early July). Surprise takeaway to an isolated mountain cabin; he packs the trip, never the Top Drawer.
+His answer to the Christmas fight, on his terms: **a key to his house**, in a handmade oiled-wood box (the answer he can't speak). The transgression is **watched masturbation** (*"Go ahead… Show me"* — she's made the agent of her own exposure); the **Telling installs** (tell, not ask). "Adventure" first *invited* here (coined at {{Still Life}}). Taste held for {{First Taste}} (~early July). Surprise takeaway to an isolated mountain cabin; he packs the trip, never the Top Drawer.
 
 ### [SCENE] Cabin Debrief Brunch
 *~early March · after {{Grace}}* · Unwritten · SATC · debrief register

@@ -1,6 +1,6 @@
 # Note — Old Acquaintances (the cost-weighing; the beige plant)
 
-*Vignette · Unwritten · rendered on **New Year's Eve**, Christmas break · Vee solo, at her parents' home (Ohio) · companion to the chronology's [VIGNETTE] Old Acquaintances · one panel of the break triptych ({{Fairytale}} / {{The Usual}})*
+*Vignette · Drafted · rendered on **New Year's Eve**, Christmas break · Vee solo, at her parents' home (Ohio) · companion to the chronology's [VIGNETTE] Old Acquaintances · one panel of the break triptych ({{Fairytale}} / {{The Usual}})*
 
 ## What this scene is now
 
@@ -39,7 +39,7 @@ Academic ribbons (the round ones, bunting around the edges), synchronized-swimmi
 
 - Checks whether he's written (nothing). Scrolls his old texts.
 - **Writes a message, deletes it** — relieved he doesn't sit on his phone, probably didn't see the abortive attempt (Randi's *he doesn't sulk, he leaves you the room* proven from the inside; keep her relief real, the loneliness the reader's).
-- Photos of the body he loved: her and Pace being silly on his couch; her in the **borrowed clothes before the CW Dance** (borrowed from *Randi* — both seducers on her body in one image, reader-only, unremarked); her in **the dress he made** — the uncropped induction candid, whole and thrilling on her phone while her mother has the **cropped** print somewhere downstairs. Same photo, whole and cropped, one house — seen/unseen in a single object.
+- Photos of the body he loved: her and Pace being silly on his couch; her in the **borrowed clothes before the CW Dance** (borrowed off the dorm, reader-only, unremarked); her in **the dress he made** — the uncropped induction candid, whole and thrilling on her phone while her mother has the **cropped** print somewhere downstairs. Same photo, whole and cropped, one house — seen/unseen in a single object.
 
 ## The Instagram — the postcard (reader-hollow; the envy, corrected)
 
@@ -52,20 +52,20 @@ Randi's Gstaad feed: ski-slope summit, palace facade, dressed-for-dinner. **Two 
 - Vee holds only what **Outlier** gave her: the dad thing hit something real, and Randi covered it fast. Motivated by that (and by her own loneliness), she reaches out.
 - **Constraint (Outlier canon):** Vee never reveals she saw the screen — *"didn't tell Randi, then or after, what she'd seen."* So the **sent text is oblique and deniable; the narration carries her knowledge** — but **pinned to the single Outlier observation**, no extrapolation into Randi's interior (that would be Vee seeing the machinery). Vee is *uncertain*, not insightful.
 - **Randi seals the door with fairytale** — warm, real affection, no way in.
-- **The *gorgeous* rule (verified against the drafts, 9 uses):** *gorgeous* is Randi's genuine-affection word for Vee — she spends it freely whenever she's warm and happy, **including mid-operation** (*your gorgeous chest* while extracting in {{How It's Done}}) and while deflecting at a goodbye (*See you soon, gorgeous*). She withholds it in the one register the drafts never show: **unhappy and lying to Vee about her own state** — the gloss she performs in {{Fairytale}}. That narrow condition is why the withheld word is a tell *here* (she can't spend the true word while performing a false self, so she reaches for a cheaper coin — *angel*). Do **not** overclaim it as a general operating-vs-genuine marker; sealing and operating do not trigger it, only unhappy-and-lying does. (Reread instrument, like *fine* is a reserved word around Pace — but reserved against a narrower thing.)
+- **The *gorgeous* rule (verified against the drafts, 9 uses):** *gorgeous* is Randi's genuine-affection word for Vee — she spends it freely whenever she's warm, **including mid-operation** (*your gorgeous chest* while extracting in {{How It's Done}}) and while deflecting at a goodbye (*See you soon, gorgeous*). Here, wrapped inside the false *fairytale* gloss she performs in {{Fairytale}}, *gorgeous* is **the one true line that breaks through** — *"the one line she meant, …gorgeous 💋"* (`scenes/fairytale.md`). The affection is real even when the self-report around it is a lie. So the tell is **not** a withheld word — it is that everything *around* the *gorgeous* is performance while the endearment itself is the truth surfacing. She opens on a cheaper coin (*ANGEL*, the gloss) and lands on *gorgeous* (the truth she can't help spending). (Reread instrument, like *fine* is a reserved word around Pace — but here the reserved word marks the *truth*, not the lie.)
 - **Vee takes the shine clean** — she believes it (Randi's cover is good; her own envy wants the glam real). The depth stays entirely reader-side; Vee doesn't even fully know she offered a door (the could-have-been foreclosed, reader-only).
-- The twelve-hour delay gets its innocent cover from the time zone (~6h ahead); it leaves Vee lonelier. **Both aliveness-channels dark:** Pace won't reach, Randi can't be reached — *the absence of both in the same week*, in a device in her hands.
+- **Randi answers near-real-time** — same night, ~6h ahead and already into New Year's Day — warm and instant, yet it leaves Vee lonelier, not less. **Both aliveness-channels dark the same week:** Pace won't reach at all, and Randi — reachable, warm — still seals the door with fairytale; *the absence of the one and the closed door of the other*, in a device in her hands.
 - Cruelest layer, never on the page: Vee is this good a friend to Randi (protecting her wound, asking nothing) at the exact time Randi runs the apparatus on her.
 
 Tuned exchange (calibration reference, not locked):
 
 > She'd typed it three times before she sent it. Never the thing itself — she'd never said the thing, not in the glass room when the name came up and the color went out of Randi's face, not after. Just: *thinking about you 💛 hope everything's good out there. here if you want to talk. or not.* She put the phone face-down, then turned it back over to be sure it had gone.
 >
-> *(twelve hours)*
+> *(the reply comes back almost at once — she's already six hours into tomorrow)*
 >
-> **Randi:** *you ANGEL 😇 it's honestly a fairytale — dad's got us in this insane chalet, mountains for days, never coming home. miss your face most though 💋*
+> **Randi:** *you ANGEL 😇 it's honestly a fairytale out here — dad's got us in this insane chalet, mountains for days, i'm never coming home. miss your face most though, gorgeous 💋*
 >
-> So she was okay. Better than okay — a fairy tale, chalets and mountains, while Vee lay in her childhood bed under a shelf of swimming trophies. The twelve hours the message took to come sat in the gap like the distance it was.
+> So she was okay. Better than okay — a fairy tale, chalets and mountains, while Vee lay in her childhood bed under a shelf of swimming trophies. How fast it came, warm and instant and still a whole world away, sat in the gap like the distance it was.
 
 ## The jealousy — New Year's (the knife)
 
@@ -89,7 +89,7 @@ The night has circled *who*, so the closer says it: **she'll have Randi back wit
 ## Continuity
 
 - **Outlier sits ~the week before Thanksgiving** (canonical): Vee has known about Randi's father since then — the money's dirty, the hurt landed, Randi covered fast. So her envy is *knowing-but-still-envious* (not innocent), and her worry over the texts is real but limited (she does **not** know Randi's depth; {{Fairytale}}'s emptiness is reader-only). (No reconciliation outstanding: `meta-arch-randi.md`'s "spring" refers to the scenes that motivate Randi's turn, not to the discovery's timing; the drafted {{Fairytale}} already aligns.)
-- **NYE = the night of Randi's {{Fairytale}}** (pinned this session): the vignette's New Year's Eve is the same night as Randi's white-tie Gstaad {{Fairytale}} — white-tie *is* New Year's, so date and dress agree, and the dressed-for-dinner Instagram post Vee envies *is* {{Fairytale}}'s dinner (she envies the emptiest evening). Reader-only: on NYE Randi finds that ordinary men leave her cold while Vee, mad and unseen, envies the spectacle. **Cross-branch thread:** the white-tie surface (the dress/jewelry Vee sees on the feed) and the *ordinary-men-can't-satisfy-her* hollow must stay synced with the {{Fairytale}} draft (in progress on a separate branch) at merge.
+- **NYE = the night of Randi's {{Fairytale}}** (pinned this session): the vignette's New Year's Eve is the same night as Randi's white-tie Gstaad {{Fairytale}} — white-tie *is* New Year's, so date and dress agree, and the dressed-for-dinner Instagram post Vee envies *is* {{Fairytale}}'s dinner (she envies the emptiest evening). Reader-only: on NYE Randi finds that ordinary men leave her cold while Vee, mad and unseen, envies the spectacle. **Cross-scene thread:** the white-tie surface (the dress/jewelry Vee sees on the feed) and the *ordinary-men-can't-satisfy-her* hollow stay synced with the drafted {{Fairytale}} (the midnight text is word-identical across the two).
 - **Not shame.** The disloyalty of finding home no longer enough is the ordinary ache of growing away, not shame (shame needs a witness; there is none here). The jealousy's shame is a *different* axis (her body imagined as insufficient) and belongs to the Pace-pole. Don't frame the home-ache as shame.
 - **Recallable seeds** (the ending and later beats reach back for these): the lavender / fabric-softener field, Wheel of Fortune, the never-enough food, the childhood bed and its museum, and — load-bearing — the **First Night tableau** (reused here as the jealous fantasy) and the **gorgeous rule**. Choose all for retrieval.
 
@@ -100,7 +100,7 @@ The night has circled *who*, so the closer says it: **she'll have Randi back wit
 - Recollection of the beige run-up: wrapping, the tree, tidying, the never-enough cooking, Wheel of Fortune; the parents' questions (*how's your boyfriend / when do we meet him*) landing on the locked door. All flashback; never live.
 - The phone — Pace cluster: check (nothing), the old texts, the write-and-delete and the relief; the photos (couch-silly, the borrowed clothes, the whole induction candid).
 - Instagram: Randi's Gstaad gloss; the two-phones contrast; the knowing envy.
-- The texts: Vee reaches oblique; Randi seals with fairytale (*angel*, not *gorgeous*); Vee takes it clean; twelve hours; both channels dark.
+- The texts: Vee reaches oblique; Randi seals with fairytale — the *ANGEL* gloss opening, *gorgeous* the one true line landing; Vee takes it clean; both channels dark.
 - The jealousy: the status-question (*did we even break up*); the cooking (Thanksgiving-Sheri poisoned, then the vacuum); the rival ballooning into the blonde — everything Vee isn't; the **First Night hijack** (the blonde in the sheet, at his stove, in Vee's fondest memory); the bartender's antidote, warring and failing.
 - Toward midnight: *I did it before, I can do it again* — the resolution she doesn't believe; the New Year at school imagined with a Pace-shaped hole.
 - Midnight: no one to kiss; his arms around her, shadowed by whose arms he's got them around. The renunciation collapses into longing, not decision (scale stays balanced).
@@ -111,5 +111,5 @@ The night has circled *who*, so the closer says it: **she'll have Randi back wit
 
 - **Beige-life thread — plant here.** The home as the visible cost of the without-Pace life; objects recallable; the *without knowing she's left* line preserved as the inversion seed. Payoff: the final Cassie scene (*I chose the beige life*). Chosen-but-costly, never triumphant.
 - **First Night inversion — recall-seed.** The fra diavolo / sheet / table tableau reused as the jealous fantasy; the reader remembers without a label.
-- **The *gorgeous* rule (Randi) — genuine-affection word, verified against drafts.** Withheld only when she's unhappy and lying to Vee about herself (the {{Fairytale}} register); spent freely otherwise, even mid-operation. See the texts section.
+- **The *gorgeous* rule (Randi) — genuine-affection word, verified against drafts.** Spent freely whenever she's warm, even mid-operation; in the {{Fairytale}} register it survives *as the one true line* inside the false gloss — the tell is the performance around it, not a withheld word. See the texts section.
 - **Taste thread: nothing** (not a sex scene). **Randi scent thread: nothing** here.

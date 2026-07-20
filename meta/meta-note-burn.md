@@ -66,10 +66,10 @@ The drive plants the injury and the need at once: the neck "getting shorter," th
 
 ## Placement / sequencing (why here)
 
-- **Before {{Grace}}.** Cabin installs *the Telling* (formalized disclosure — tell, not ask). This scene's tender "Keep still / not yet" **prefigures** that rule in a non-engineered key; Cabin then formalizes what the reader already met as pure care. That ordering *earns* the rule. After Cabin, the same beat would read as an application of an existing rule — less fresh.
+- **Before {{Grace}}.** {{Grace}} (the cabin trip) installs *the Telling* (formalized disclosure — tell, not ask). This scene's tender "Keep still / not yet" **prefigures** that rule in a non-engineered key; {{Grace}} then formalizes what the reader already met as pure care. That ordering *earns* the rule. After {{Grace}}, the same beat would read as an application of an existing rule — less fresh.
 - **Before the {{Massage Table}}** (it inspires the purchase).
 - **Spaced from {{Restrained}}.** *{{Restrained}}* (~Feb) is also a held/can't-move/denial beat — but engineered edging, heightening involuntary-response shame. This one is injury-and-care denial, "keep still" as *protection*. Contrastive and good *with space between them*; back-to-back they share a "she's held and can't move" surface and blur. Don't run them adjacent.
-- **Give it air from Cabin too** — Cabin is itself a big Pace-redemption gesture; don't stack two "Pace saves the day" beats shoulder to shoulder.
+- **Give it air from {{Grace}} too** — {{Grace}} (the cabin trip) is itself a big Pace-redemption gesture; don't stack two "Pace saves the day" beats shoulder to shoulder.
 - **Reciprocity with {{Among Friends}}:** he enters her world safely ({{Among Friends}}, late Jan); she enters his and the careless world hurts her (here). His world is where the danger lives; the house is the only true sanctuary.
 
 ## Threads & seeds

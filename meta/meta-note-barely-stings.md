@@ -25,7 +25,7 @@ Governing register: **erotic but cold** — clinical, shame-forward, *charged no
 - **Arrival.** Other college-aged girls being primped — sorted, in Vee's eye, into *to be seen* and *to be touched.* She is now in the second category: being prepared for his hands.
 - **The glass.** She has a reservation; the attendant offers a drink; she takes **white wine** — not champagne (champagne is joy, *{{On Her Floor}}*; this is functional). One glass; loosens the body, not the conscience.
 - **Gown and table.** Ushered to a private room, given a gown, strips off below the waist, climbs onto a table reminiscent of a doctor's — **no stirrups** (stirrups tip it into a gyno-exam register, more violating and wrong for this).
-- **The tech.** Starts friendly, goes **serious — reads as severe** once the waxing starts (POV-colored: *Vee* reads severity; never confirmed as the tech's real state). Friendliness withdrawn is a small abandonment — she's alone with the procedure.
+- **The tech.** Starts friendly, then the warmth folds down into something **indifferent/level** once the waxing starts (POV-colored: *Vee* reads the withdrawal; never confirmed as the tech's real state). Friendliness withdrawn is a small abandonment — she's alone with the procedure.
 - **The verbal shame (first).** The tech asks what she wants; Vee has to **say aloud, to a stranger, that she wants her sex entirely bare.** Naming the want, before the physical exposure. Render her saying it **badly** — her wit, her usual armor, stripped; a blush, a flat professional nod that doesn't reward the courage it cost.
 - **First strip / the curse.** A Brazilian works the **top and edges inward.** On the first strip she **curses aloud — out of character** — surprise and pain both; her composure cracks early and never fully recovers.
 - **Edges to center.** Each strip nears her center; dread, exposure, and the Pace-directed arousal all climb geometrically. Anatomy is the escalator.
@@ -80,7 +80,7 @@ Pace asks for the wax and gives **no reason** (a small *never-explain*; effect, 
 
 ## Seeds forward
 
-- **Primes {{Gesso}}.** Randi *knows* Vee is being waxed, so she opens the retelling with it — *"so, how was it — did you get [name]?"* Vee calls out the lie (*"you said it barely stings!"*); Randi laughs and gives the line: **"I knew how much you'd love it. I wasn't going to let you skip the pleasure over a moment of pain."** Both-tests: indulgent friend (first read) / consent edited "for your own good," the bargain's shape in miniature (reread). Line preserved in the Bible.
+- **Primes {{Gesso}}.** Randi *knows* Vee is being waxed, so she opens the retelling with it — *"so, how was it — did you get Sondra?"* Vee calls out the lie (*"you said it barely stings!"*); Randi laughs and gives the line: **"I knew how much you'd love it. I wasn't going to let you skip the pleasure over a moment of pain."** Both-tests: indulgent friend (first read) / consent edited "for your own good," the bargain's shape in miniature (reread). Line preserved in the Bible.
 - **Feeds {{Still Life}}.** The coda hands directly into it: the offering *readied* (her own touch, his imagined) becomes the offering *received.* The bare canvas the painting runs on; the fresh, still-tender skin under the brush.
 - **Consent-by-deception family.** The *barely stings* lie is the small, fond instance of the book's engine — a rhyme-mate to the found hair and the whole managed-consent architecture.
 

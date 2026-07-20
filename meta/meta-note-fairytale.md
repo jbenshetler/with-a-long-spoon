@@ -10,9 +10,9 @@ Three **bodies-in-sync** beats — ski, dance, sex — each genuinely good, each
 
 ## Beats
 
-1. **Breakfast with her parents.** The chalet: stone columns, rough beam, a wall of beveled glass lit diffuse from the sky and hard off the snow. Not wordless ease but a **performance** — the first in a day of performances, all the way to the mirror. Randi plays the adored daughter (sorority practice) while eating her revulsion for her father, whose warm proud-father *surface* is genuine and whose conduct she privately reviles (the PPP/worker-cuts of Outlier; this scene is after it). Cold ascetic mother — black coffee, egg-white omelette, a perfunctory kiss; Randi's own order rhymes with hers, the disciplined body. Father backlit, hearty, transactional: asks after the sorority, the hearts broken, and tells her to watch the mountain for an eligible bachelor (unwinked irony, hours before she meets one).
+1. **Breakfast with her parents.** The chalet: stone columns, rough beam, a wall of beveled glass lit diffuse from the sky and hard off the snow. Not wordless ease but a **performance** — the first in a day of performances, all the way to the mirror. Randi plays the adored daughter (sorority practice) while eating her revulsion for her father, whose warm proud-father *surface* is genuine and whose conduct she privately reviles (the PPP/worker-cuts of {{The Outlier}}; this scene is after it). Cold ascetic mother — black coffee, egg-white omelette, a perfunctory kiss; Randi's own order rhymes with hers, the disciplined body. Father backlit, hearty, transactional: asks after the sorority, the hearts broken, and tells her to watch the mountain for an eligible bachelor (unwinked irony, hours before she meets one).
    - **Fabrication-origin (new canon).** Asked about boys, she supplies invented ones; the invented were always safer than the real, at this table. This is the childhood root of the SATC boy-stories and of the defensive shell. Keep it **performance/safety, not interior shame** (desire constitutional, concealment external — see `meta-arch-randi.md`).
-   - **New canon recorded here:** the parents as characters; the father's Outlier conduct sits *before* this scene; the fabrication-origin above.
+   - **New canon recorded here:** the parents as characters; the father's {{The Outlier}} conduct sits *before* this scene; the fabrication-origin above.
 
 2. **The lift line.** Father's not skiing today. The man excuses himself into the line beside her — smooth, confident, a little forward.
 
@@ -29,7 +29,7 @@ Three **bodies-in-sync** beats — ski, dance, sex — each genuinely good, each
 
 8. **His room — he invites her up.** The complete acceptable-world script, taken correctly to the end — no "maybe if we'd finished" escape hatch. Her agency is the **knowing yes**: she selected him, she's appraising, in command of the outcome — not a reach. She cannot reach; she can only be taken and hope it works.
 
-9. **The sex.** "A performance she could do in her sleep. She is operating the equipment." Genuinely good; reaches nothing. **Bodies-in-sync #3.** Flows straight into the close.
+9. **The sex.** A performance she could do in her sleep, operating the equipment — genuinely good, reaching nothing (drafted gloss: the pleasure like *a good sandwich eaten fast*, complete and gone before the plate is cleared). **Bodies-in-sync #3.** Flows straight into the close.
 
 10. **The close (drafted).** *Afterward she stayed against him* → the mirror (eyeliner held, lipstick worn off and left on him) → Pace, then Vee → the **nadir** (the whole approved life offered — the charade's wedding-and-children made real-adjacent — and she felt nothing; the fault hers, not his) → the fear → the plan → the **midnight text** to Vee (her open hand, Randi's fairytale gloss, *gorgeous* on the one true line) → the borrowed warmth, and she stays.
 
@@ -38,7 +38,7 @@ Three **bodies-in-sync** beats — ski, dance, sex — each genuinely good, each
 - **Class = the same wound in another key.** She *learned* to pass exactly as she *learned to walk* on the wound; the old-money man simply *is* it. Arriving at the apex of everything she performs reaches nothing. Undertone, never a theme she chews — the *nothing* stays the headline.
 - **Sleigh → bed pre-echo.** The borrowed-warmth / cold-that's-hers image is stated first in the sleigh as literal winter, resolved at the bed.
 - **Lead/follow → D/s rhyme.** The dance is the surrender-shape emptied of seeing; it rhymes against Pace, who has no game and sees her.
-- **Mirror aperture.** Bench → Fairytale; installation → confirmation.
+- **Mirror aperture.** {{The Bench}} → Fairytale; installation → confirmation.
 - **Taste thread: not seeded.** It is Vee's, not Randi's. The close's distanced oral beat ("her own mouth from a long way off") is the *nothing* extended to taste, not a taste-thread seed.
 - **Location.** This commits Fairytale → Gstaad, making the **{{Gesso}} mid-November** mention (Randi telling Vee she'll be off-grid) load-bearing setup.
 - **NYE diptych with `old-acquaintances`.** Same night: Vee alone in Ohio just before her midnight, Randi in Gstaad at ~6am. The **midnight text is the seam** — Vee's open hand, Randi's fairytale gloss — and the two scenes must stay **word-identical** on it (Vee's *thinking about you…*; Randi's *you ANGEL… miss your face most though, gorgeous 💋*). Near-real-time, no delay; the *gorgeous* obeys the reserved-endearment rule (sincere, Vee-only) and lands on the true line.
