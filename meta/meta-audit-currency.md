@@ -51,7 +51,7 @@ Each finding: `[risk/certainty]` — location (doc:line) — the claim → the p
 | N | **Pace neuro-framing reconciliation** — Pace neurotypical (introvert-charismatic); device softened to temperament-in-behavior | **done 2026-07-19 — bible :133/137/327 + 14 mechanical ripple swaps (CLAUDE.md, craft-pace, brief, among-friends/under-the-rug/recognized-method notes, DOCUMENTS.md, style-rules.toml). JUDGMENT resolved 2026-07-20 (author call): regrounded bible :163/:164/:178 as **choice-become-habit** — a habituated/trained non-reading, explicitly "not an innate deficit or wiring"; tragedy mechanic (he genuinely whiffs the cipher) preserved. Vee's metaphorical "wiring" left intact. **Workstream N COMPLETE.** Note: `style-rules.toml:183` `never-name` regex still lists the diagnostic terms — correct (those must still never hit the page).** |
 | M | **Meta-doc filename rename sweep** — dead pre-`meta-*` pointers (`novel_thesis.md`, `pace_architecture.md`, `randi_architecture.md`, `vivienne_architecture.md`, `help-harm-dials.md`, `character-relationship-bible.md`, `scene-plan-chronology.md`, `open-questions.md`) | **in progress (apply agent 2026-07-20)** |
 | ! | **Dead `summary.md`** — RESOLVED: `meta/meta-plan-summary.md` was a *condensed overview* that DEFERRED physical/wardrobe/food + room-meaning detail TO the bible ("condensed — full detail in the Character Bible"); deleted in `a81560b` (three-volume restructure). The bible's "supplements summary.md (full detail)" pointer is circular. Refs redirect → `meta-arch-bible.md` (apply agent). | **resolved 2026-07-20** |
-| 4 | Topical notes (threesome-reveal, taste-thread, erotic-register, tender-relief, scar-reveal, …) | pending |
+| 4 | Topical / cross-scene notes (18 audited; erotic-register + tender-relief excluded as fresh) | **done 2026-07-20 — 46 findings (high 4, med 15, low 27); fixes applied: neuro-residue r2 (incl. follow-up `can't decode`×3 + perceive-then-avoid×2 in secret-plans/in-her-place/chronology/condensed-peaches) + currency + brace-migration + word-swap→chronology/sheri/todo. Still flagged (not applied): scrunchie-gaslight:27 no-absorber rewrite, spring-satc-bridge grid reorder, thesis Rule-N renumber (peaches/help-harm), bible:380 "Ignition-Scalding" title-form, chronology:525 anthro-signup context** |
 | 5 | Per-scene notes (`meta-note-<slug>`, ~45) — currency + prose cross-check | pending |
 | 6 | Per-scene condensed (`meta-condensed-<slug>`, ~68) — **orphan/removal check ONLY** (regenerable; do not audit content — only flag if the scene is gone/renamed and the brief should be removed or regenerated) | pending |
 | 7 | `DOCUMENTS.md` inventory accuracy | pending |
@@ -285,6 +285,122 @@ _status: checked 2026-07-19 — 7 findings (high 0, med 2, low 5)_
 - **[low/med]** `:73-75` — seen/chosen reserved split not encoded in `style-rules.toml` (enforcement gap only).
 - **[low/med]** `:157` — good-prose exemplar uses "the way" (a flagged linter tic); "fine" reserved word uncodified in both versioned docs. **Fix:** reconcile exemplar; consider codifying "fine".
 - **[low/high]** `:42-43` — neuro clean (musician-improvising framing = neurotypical-consistent).
+
+---
+
+## Phase 4 — Topical / cross-scene notes
+_(`meta-note-erotic-register.md` + `meta-note-tender-relief.md` excluded — created fresh this session, current.)_
+
+### meta-note-first-love.md
+_status: checked 2026-07-20 — 1 finding (low 1)_
+- **[low/med]** `:12` — "a *different* blindness: he **can't decode** a bid routed through a proxy": "can't" is incapacity/innate-deficit-coded (the framing the reground removes); the doc elsewhere uses "misses/never decodes" and explicitly defers to bible/pace. **Correct:** `bible:178` "a *habituated* non-reading, not an innate deficit… trained, not innate". **Fix:** if touched, "can't decode" → "doesn't decode"/"misses". Currency: clean.
+
+### meta-note-taste-thread.md
+_status: checked 2026-07-20 — 3 findings (med 2, low 1)_
+- **[med/high]** `:103` — defers "(Full design: `meta-condensed-the-peaches.md`.)": dead pointer (article-drop). **Correct:** on-disk `meta-condensed-peaches.md`. **Fix:** → `meta-condensed-peaches.md`. [chronology:422 shares this broken link — sweep]
+- **[med/med]** `:3,43` — {{First Taste}} at "(~late spring)"; the dated chronology entry says ~early July (`chronology:418-419`), though `chronology:331` still says "late spring" (chronology self-split). **Fix:** reconcile → "~June/early July"; align `chronology:331`.
+- **[low/high]** `:38` — Lip-Lick gracenote "(~Nov 1)"; host {{We Find Out}} re-dated to Fri Nov 6 (`chronology:482`). **Fix:** "~Nov 1" → "~Nov 6" (or drop the pin).
+- Doctrine/neuro: clean.
+
+### meta-note-threesome-reveal.md (climax master)
+_status: checked 2026-07-20 — 5 findings (med 2, low 3)_
+- **[med/high]** `:19` — {{First Taste}} "(~late spring)" → chronology says ~early July (`chronology:417`, slot TBD). **Fix:** → "~early July [slot TBD]".
+- **[med/high]** `:35` — cabin "Placement: after the friends dinner and after bondage/clamps have run": "after clamps" is stale — Nipple Clamps restructured into Secret Plans (~late March/April), now AFTER cabin (`chronology:357`). **Fix:** drop "/clamps".
+- **[med/high]** `:185` — "he never had the equipment to know": stale innate-deficit; contradicts neurotypical canon. **Correct:** `meta-arch-pace.md:101,107` "not a missing capacity… He chose the available adaptation." **Fix:** → habit/aim register ("he'd trained himself not to look"). [innate-deficit residue class]
+- **[low/med]** `:184` — "he lacked the equipment to see it": same; defensible as consent-apparatus-had-no-slot but reads as innate lack. **Fix:** tighten to habit/aim.
+- **[low/med]** `:11` — three-way "betrayal" framing extends thesis (thesis reserves "betrayal" for Pace harm-two). Doc owns the climax; flag so it's not cited as thesis-verbatim.
+- Internal/summer/chronology agreement: coherent; cabin placement self-flagged as open-Q #5.
+
+### meta-note-first-weekend-back.md
+_status: checked 2026-07-20 — 2 findings (low 2)_
+- **[low/high]** `:21,37` — "Secret Plans" bare vs braced siblings; no chapter is titled bare "Secret Plans" (cluster = "Secret Plans — The Princess"). **Fix:** → `{{Secret Plans — The Princess}}` (incremental).
+- **[low/med]** `:42` — "collapses to precise/formal under stress" frames the register-shift as passive; the stress-tell is canonical but should read as the **defended habit tightening** (active). **Correct:** `bible:178`. **Fix:** "collapses" → "tightens/pulls into" if edited. [innate-deficit-residue class, mild]
+- Peter/porch-name regression + neuro: clean.
+
+### meta-note-scar-reveal.md
+_status: checked 2026-07-20 — 0 findings (clean)_ — all dates/claims reconcile (Rock ~late Oct, The Scar ~April, first love ~late summer); bike-drag origin matches bible:147; neuro clean (flatness = burial/suppression, not deficit).
+
+### meta-note-peaches.md
+_status: checked 2026-07-20 — 5 findings (high 1, med 3, low 1)_
+- **[high/med]** `:29,31` — frames Pace as perceiving the coded apology-bid and "**defers emotional integration**/steps around it" from discomfort → **contradicts** the coded-channel mechanic (he never perceives the cipher; answers the surface literally). Motivated-avoidance would make him a knowing manipulator. **Correct:** `bible:178` "never hears the cipher… never registers there's a cipher under it." **Fix:** reframe from motivated-deferral to non-perception of the encoded layer (keep the deed-as-later-apology; the deficit-denial at the note is already correct). [innate-deficit-residue's inverse — over-correcting into knowing-avoidance]
+- **[med/high]** `:64` — "the **late-August** threesome reveal" → reveal is ~early August (`chronology:433-434`). **Fix:** → early-August.
+- **[med/med]** `:35,39` — "Rule-5" miscited (current thesis Rule 5 = "grievance and gift are the same object"; the intended point is body-before-mind/no-native-armor). **Fix:** cite by concept or correct number. [thesis rule-renumber class — cf. help-harm-dials:245]
+- **[med/med]** `:46,56` — "Rule 3" miscited (current Rule 3 = "no coercion beats"; the never-surface principle is Rule 15). **Fix:** recite by concept / renumber.
+- **[low/low]** `:33` — "canned-peach thing" conflates the fresh/grilled-peach refusal with the separate canned-peaches class-misread (`bible:137` vs `:317`). **Fix:** clarify if kept.
+
+### meta-note-on-top.md
+_status: checked 2026-07-20 — 1 finding (low 1)_
+- **[low/high]** `:53,55,66,162,168` — cross-refs `Restrained`/`Vee on the Bench`/`On Top` backticked-bare, not double-brace-marked (self-ref `On Top` stays bare). **Fix:** migrate cross-refs (incremental). Doctrine/agency/neuro: clean.
+
+### meta-note-desirability-thread.md
+_status: checked 2026-07-20 — 1 finding (low 1)_
+- **[low/high]** `:7` — quotes Randi's eyes as "built her **whole** adult life around being looked at for"; source (`meta-craft-randi.md`) has no "whole". **Fix:** drop "whole" or unquote. Dates/doctrine/neuro: clean.
+
+### meta-note-music-thread.md
+_status: checked 2026-07-20 — 2 findings (low 2)_
+- **[low/high]** `:39,43` — "Ignition-Scalding" bare/hyphenated vs braced siblings; canonical `{{Ignition Scalding}}` (`chronology:409` "Scalding Jealousy Ignition"). **Fix:** brace. (slug `ignition-scalding.md` at :21 is fine.)
+- **[low/med]** `:45` — "~mid-Nov SATC brunch"; {{All the Time}} is "~mid-to-late November" (`chronology:180`). **Fix:** align. Music beats/neuro: clean.
+
+### meta-note-forbidden-kiss.md
+_status: checked 2026-07-20 — 1 finding (low 1)_
+- **[low/med]** `:44,46-48` — states placement/downstream but omits the *committed* motivation (Vee tells Pace she kissed Randi at the mixer → motivates the coated kiss + gives "I'm not gay" its referent). **Correct:** `meta-note-taste-thread.md:47`; `chronology:271`. **Fix:** add a one-line motivation cross-ref (open-Q #26). Kiss-logic/neuro: clean (in lane).
+
+### meta-note-anthro.md
+_status: checked 2026-07-20 — 2 findings (low 2)_
+- **[low/high]** `:28,30` — `All the Time`/`Among Friends` bare/backticked, not double-brace-marked. **Fix:** brace cross-refs (leave file-slugs).
+- **[low/med]** `:30` — signup "plants in All the Time" is the CURRENT side; `chronology:525` flag 26 still says "plants in Gesso" (stale straggler). **Fix:** flag `chronology:525` (out of scope here). Major/neuro: clean (anthro = elective, not Vee's major).
+
+### meta-note-spring-satc-bridge.md
+_status: checked 2026-07-20 — 2 findings (med 1, low 1)_
+- **[med/high]** `:62-73,85-86` — revised spring grid orders the **Bench retell** + {{First Taste}} BEFORE the **Threesome Agreement**; chronology orders Agreement (~early-mid June) BEFORE bench-retell (~late June) and First Taste (~early July). Grid predates the Vol2/Vol3 restructure. **Correct:** `chronology:405-406,413-418`. **Fix:** reconcile grid rows 7-10 (Agreement first); First-Taste half is itself slot-TBD. [likely supersession]
+- **[low/med]** `:70` — row pairs {{Vee on the Bench}} (Pace) with the Bench-retell (SATC) as adjacent; chronology splits them across the Vol2/Vol3 curtain (the gap "loads the scald"). **Fix:** annotate the row. Neuro: clean.
+
+### meta-note-another-round.md
+_status: checked 2026-07-20 — 2 findings (low 2)_
+- **[low/high]** `:15` — `` `The Usual` `` backticked, not `{{The Usual}}` (same class as arch-sheri:200). **Fix:** brace (incremental).
+- **[low/low]** `:55` — placement omits the {{Among Friends}} co-anchor (`chronology:242`). **Fix:** optional add. Doctrine/neuro/Sheri: clean (patent-to-empty-room = current canon, not autistic).
+
+### meta-note-the-found-hair.md
+_status: checked 2026-07-20 — 3 findings (high 1, med 1, low 1)_
+- **[high/high]** `:22,42` — "the last trace before the **early-May** threesome": the reveal moved to **~early August** (`chronology:434,7`). **Fix:** "early-May" → "early-August" (both lines); late-April placement holds.
+- **[med/high]** `:19-22` — grain #3 rendered as **no-absorber collapse** = CURRENT (matches `chronology:474`), but **conflicts with its owning doc** `scrunchie-gaslight:27` (still "cover holds / credits Pace"). **Fix:** found-hair is correct; update `scrunchie-gaslight:27` (confirms the Phase-3 high finding). Do NOT change found-hair.
+- **[low/low]** `:9` — "the dress-cluster doc" unnamed → `meta-plan-dress-cluster.md`. **Fix:** optional. Neuro: clean.
+
+### meta-note-secret-plans.md
+_status: checked 2026-07-20 — 3 findings (med 1, low 2)_
+- **[med/high]** `:124` — cites `meta-plan-summary.md` twice (deleted); the "deliberately left … nipple clamps" content survives only in the bible. **Correct:** `meta-arch-bible.md:70`. **Fix:** drop the summary.md mentions; retarget to `meta-arch-bible.md:70`. [summary.md straggler beyond bible/pace-house]
+- **[low/high]** `:118` — Randi→Pace joke "~April, slot TBD (flag 16)" contradicts the doc's own :83-84 (rehomed into `in-her-place.md`, Draft complete). **Fix:** → "rehomed into `in-her-place.md` (~April), no longer standalone".
+- **[low/med]** `:71-76,86` — link-4 frames Randi's line as the "secret plans" phrase; drafted line is "I have secrets of my own" (`in-her-place.md:123`). **Fix:** flag only (within tolerance). Stats-mirror/clamp-sensation/neuro: clean.
+
+### meta-note-vee-reads-randi.md
+_status: checked 2026-07-20 — 2 findings (low 2)_
+- **[low/med]** `:25` — "faintly unsettling" is the nearest the note gets to the barred **wary** register (aspiration-only for Vee-reads-Randi). In-bounds (unease attaches to the *phenomenon of control*, not Randi-as-person) but slidable. **Correct:** `meta-craft-randi.md:49`. **Fix:** anchor the aspiration guard or trim.
+- **[low/med]** `:27` — "before the warmth takes over" (cold-appraisal-at-first-encounter) is superseded by `:31` (post-warmth close-study) and conflicts with See You Later canon (Vee taken instantly). **Fix:** reconcile :27 to :31. (Note: the mutual-envy framing at `:29` verified **live canon**, not stale.)
+
+### meta-note-the-pointing-game-pace-misread.md
+_status: checked 2026-07-20 — 4 findings (high 1, med 2, low 1)_ — **PROTECTED note; highest innate-deficit residue**
+- **[high/high]** `:25` — "peak present-moment perception, **no access to** what a present moment becomes": "no access" = missing-capacity framing. **Correct:** `meta-arch-pace.md:101` "not a missing capacity… could run it if a problem demanded… not a missing organ"; `bible:163/178`. **Fix:** → "the after-reading that **does not run**…" (operation never triggers, not a missing faculty).
+- **[med/med]** `:25` — "the same **faculty**" reifies as innate wiring. **Correct:** `meta-craft-pace.md:159` "the same **condition**"; `:56` "his competence is the blindness." **Fix:** → "same condition — his real-time competence leaves the after-reading nothing to run on."
+- **[med/med]** `:19,23,25,33` — the misread characterized only as constitutional "signature failure/his specific blindness," no practiced/habituated framing → a protected note could be read as endorsing innate framing. **Correct:** `bible:143` "practicing, not failing to perceive"; `meta-arch-pace.md:97,105`. **Fix:** add a clause anchoring it as a *habituated non-reading*.
+- **[low/high]** `:3,25,27` — stale scene line-anchors (the-pointing-game.md drifted: 117→125, 121-125→129-133, 67-69→79/129). **Fix:** update or make approximate.
+
+### meta-note-among-friends.md
+_status: checked 2026-07-20 — 4 findings (high 1, med 3)_ — **neuro word-swapped but mechanics unswept**
+- **[high/high]** `:9` — "given in **the only grammar he has** — deed, not word": frames the deed-channel as innate limitation, but `meta-arch-pace.md:135` marks "the only grammar he has" as **Pace's own rationalization/blind spot**, not author-frame. **Fix:** reframe as choice-become-habit OR attribute to Pace's belief (free-indirect).
+- **[med/high]** `:9` — "his **sensory overload** misread as rejection": retired clinical term. **Correct:** `meta-note-the-usual.md:5-7` "drained not disabled." **Fix:** → the loud room defeating him.
+- **[med/high]** `:42` — "a loud room **breaks his apparatus**" / "the Chili's **overload**": mechanical-circuit framing. **Fix:** → the room defeats him (keep "passes in short structured doses at a cost" — current canon).
+- **[med/med]** `chronology:239,:197` — still say "**neurodivergence**" (the word-swap didn't reach chronology/condensed briefs). **Fix:** extend the neuro word-swap to chronology + condensed. [neuro-residue class]
+
+---
+
+### Phase 4 — emergent patterns (feed follow-up sweeps)
+1. **Neuro-residue (round 2)** — the word-swap/reground didn't fully propagate: innate-deficit/"apparatus/overload/no-access/only-grammar/can't/never-had-the-equipment" phrasing survives in `first-love:12`, `threesome-reveal:184-185`, `pointing-game-misread:25`, `among-friends:9/42`, `first-weekend-back:42`; `peaches:29` over-corrected the other way (perceives-then-avoids). Plus `chronology:239/197` + condensed briefs still say "neurodivergence." → a round-2 sweep to habituated-non-reading + extend the word-swap.
+2. **Reveal-date drift** — "late spring / early-May / late-August" for the threesome → **~early August** (`chronology:434`): `found-hair:22/42`, `threesome-reveal:19`, `peaches:64`.
+3. **Backtick→brace title migration** (incremental, low) — `on-top`, `music-thread`, `anthro`, `another-round`, `first-weekend-back`.
+4. **Thesis "Rule N" renumber** — bare rule-number citations stale: `peaches:35/46`, `help-harm-dials:245`. → cite by concept.
+5. **scrunchie-gaslight:27** no-absorber rewrite confirmed by `found-hair`.
+6. **summary.md straggler** — `secret-plans:124` (beyond the bible/pace-house already fixed).
+7. **`meta-condensed-the-peaches.md` dead pointer** — `taste-thread:103` + `chronology:422`.
 
 ### meta-rules.md (master self-consistency)
 _status: pending_

@@ -1,6 +1,6 @@
 # Note — On Top
 
-*Scene · Unwritten · placed before `Restrained` (~February) · Vee POV · formerly the Edging placeholder*
+*Scene · Unwritten · placed before {{Restrained}} (~February) · Vee POV · formerly the Edging placeholder*
 
 Workshop-committed title: **On Top**. The title carries the scene's double register: Vee is literally on top and appears to have the advantage; Pace controls the erotic architecture from underneath. The joke should stay sexy, not thesis-y.
 
@@ -52,7 +52,7 @@ She is on top, making the move, using her body on purpose, and still he can chan
 
 ## Difference from Vee on the Bench
 
-`On Top` introduces edging in a playful, intimate register. `Vee on the Bench` later formalizes and multiplies delayed pleasure.
+`On Top` introduces edging in a playful, intimate register. {{Vee on the Bench}} later formalizes and multiplies delayed pleasure.
 
 `On Top`:
 
@@ -63,7 +63,7 @@ She is on top, making the move, using her body on purpose, and still he can chan
 - teasing, complaint, laughter, frustration;
 - first discovery that deferred pleasure can be enjoyable.
 
-`Vee on the Bench`:
+{{Vee on the Bench}}:
 
 - formal setting and equipment;
 - sustained orchestration;
@@ -159,20 +159,20 @@ Keep the fascination aesthetic: polish, fabric, fit, cost, precision. Vee is not
 
 ## Placement
 
-Preferred placement: **before `Restrained`**, because active frustration cleanly precedes surrendered rest.
+Preferred placement: **before {{Restrained}}**, because active frustration cleanly precedes surrendered rest.
 
 Progression if placed there:
 
 1. `On Top` — she appears to have control and discovers the pleasure of being outplayed.
-2. `Restrained` — the question of what she can do with her hands/body is removed, and the loss of management becomes restful.
-3. `Vee on the Bench` — delayed pleasure becomes formalized, multiplied, and architecturally load-bearing.
+2. {{Restrained}} — the question of what she can do with her hands/body is removed, and the loss of management becomes restful.
+3. {{Vee on the Bench}} — delayed pleasure becomes formalized, multiplied, and architecturally load-bearing.
 
-Now locked in chronology: `On Top` sits immediately before `Restrained` (~February), ahead of the Cabin. The slot is pre-cabin, so the Telling is not yet in force (no rule interaction to check); preserve the playful register.
+Now locked in chronology: `On Top` sits immediately before {{Restrained}} (~February), ahead of the Cabin. The slot is pre-cabin, so the Telling is not yet in force (no rule interaction to check); preserve the playful register.
 
 -----
 
 ## To propagate / still open
 
 - Rename the old chronology placeholder `Edging` to `On Top` — **done**; the chronology entry is now `### [SCENE] On Top`.
-- Placement **decided**: `On Top` sits immediately before `Restrained` (~February) — the note's preferred slot.
+- Placement **decided**: `On Top` sits immediately before {{Restrained}} (~February) — the note's preferred slot.
 - Condensed brief **done** (`meta-condensed-on-top.md`), linked from the chronology entry (`[detail]`).

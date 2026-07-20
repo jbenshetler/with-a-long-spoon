@@ -12,7 +12,7 @@ The book keeps its single best piece of Pace-decency — the disowning and his r
 
 `meta-arch-sheri.md` held the disowning as author-knowledge, "never dramatized, never a scene," and `meta-note-sheri-first-ride.md` locked the Sheri vignettes to **Pace POV**. This scene amends both, narrowly (edits recorded in those home docs):
 
-- The disowning **story surfaces on the page exactly once**, here, in **Sheri's own dry register**. The bare *fact* of estrangement is planted earlier — `The Usual` (~late Dec), where Sheri mentions she isn't in contact with her family (*"me not talking to my people,"* never the cause) — so this telling lands as **payoff, not first mention**. (See `meta-arch-sheri.md` → plant-vs-payload.)
+- The disowning **story surfaces on the page exactly once**, here, in **Sheri's own dry register**. The bare *fact* of estrangement is planted earlier — {{The Usual}} (~late Dec), where Sheri mentions she isn't in contact with her family (*"me not talking to my people,"* never the cause) — so this telling lands as **payoff, not first mention**. (See `meta-arch-sheri.md` → plant-vs-payload.)
 - **Vee POV** (the first Vee-POV Sheri scene): Vee meets Sheri, Pace is mostly off fetching drinks, so there's no Pace-leak to capture — the frame is Vee *receiving* his goodness from a witness.
 
 ## How to render the backstory without breaking Sheri

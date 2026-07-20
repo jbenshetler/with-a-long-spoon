@@ -1,6 +1,6 @@
 # The Taste Thread — Vee's Self-Taste Arc
 
-The slow thread of Vee crossing one rule she drew early: that she will not taste her own fluids. It runs most of the year, mostly as a will-she/won't-she in her own head, and lands at **{{First Taste}}** (~late spring), where she crosses by her own election. Self-taste is the gate that has to fall before she will taste another woman, so this thread is the quiet groundwork under the threesome — but it plays, start to finish, as genuine erotic self-discovery. Pace is the inciter and enabler; Vee is the one who chooses.
+The slow thread of Vee crossing one rule she drew early: that she will not taste her own fluids. It runs most of the year, mostly as a will-she/won't-she in her own head, and lands at **{{First Taste}}** (~early July), where she crosses by her own election. Self-taste is the gate that has to fall before she will taste another woman, so this thread is the quiet groundwork under the threesome — but it plays, start to finish, as genuine erotic self-discovery. Pace is the inciter and enabler; Vee is the one who chooses.
 
 This note owns the whole arc, including the {{First Taste}} crossing. The threesome's first-taste-of-*another-woman* is a separate gate and lives in `meta-note-threesome-reveal.md`.
 
@@ -35,12 +35,12 @@ So the arc is real liberation **and** the engineered precondition for the threes
 
 | # | Beat | What happens |
 |---|------|--------------|
-| 0 | **The Lip-Lick** *(gracenote in {{We Find Out}}, ~Nov 1)* | On the coated-finger proof beat — the whole length of it held up between them — her tongue touches her lip, involuntary, barely registered. The body votes yes before the mind is polled (months before {{Forbidden Kiss}}'s *no*). A subordinate-clause gracenote riding the scene's own proof business; tiny, warm, body-before-mind; we infer he catches it. |
+| 0 | **The Lip-Lick** *(gracenote in {{We Find Out}}, ~Nov 6)* | On the coated-finger proof beat — the whole length of it held up between them — her tongue touches her lip, involuntary, barely registered. The body votes yes before the mind is polled (months before {{Forbidden Kiss}}'s *no*). A subordinate-clause gracenote riding the scene's own proof business; tiny, warm, body-before-mind; we infer he catches it. |
 | 1 | **{{Forbidden Kiss}}** *(~late Jan, after First Weekend Back)* | After oral, he comes up to kiss her still coated — doesn't hide, doesn't announce; she's coming down, doesn't clock it until lips touch and she feels the slick. The mind slams the door — *"that's gross," "I'm not gay."* He files it, wipes, they go on. Under the refusal, the puzzle his relish has been seeding all along surfaces as hers to hold — *why does he like it so much?* — outliving the door-slam. The wipe becomes a *known* boundary; the post-coital retrospect retro-installs the Leak. **Faintest deniable grain of the consent-hole — depth not dread; render inside the tone rule above.** Own scene: `meta-note-forbidden-kiss.md`. |
 | 2 | **{{The Reach}}** *(solo, ~late Jan, just after {{Forbidden Kiss}})* | Alone: fingers up, the sniff she can do, the tongue she can't — it stops a breath short, no contact, and she doesn't have the reason (the taboo she just named for *his* coated kiss has no purchase on her own fingers; the deeper stop has no words). Open loop, no connoisseurship-frame yet. (Already planted; see chronology.) |
 | 3 | **Whiskey and Wine** *(rides another scene)* | He plants by observation — she tastes different before and after orgasm — and lets it hang. Curiosity beats shame: **she asks, *"What do I taste like?"*** He answers like someone who's paid that quality of attention: before = **whiskey, distinct, more impactful, oh so slippery**; after = **white wine, copious and thinner.** (The *copious* turns her oldest wound into a catalogued pleasure.) She doesn't taste; she now has words to be curious about. |
 | 4 | **The Almost** | Armed with his words, she gets physically closer — tongue to the *side* of the finger, a deniable near-miss. The frame drives the body past where the solo Reach stalled. Still can't do it straight. |
-| 5 | **{{First Taste}}** *(~late spring)* | She crosses the rule she drew, by her own election, and **checks his description against her own tongue.** Mechanics below. {{The Reach}}'s loop closes. |
+| 5 | **{{First Taste}}** *(~early July)* | She crosses the rule she drew, by her own election, and **checks his description against her own tongue.** Mechanics below. {{The Reach}}'s loop closes. |
 
 The escalation logic of 2 → 3 → 4: solo (no frame) → he gives her the words → she gets closer (frame-driven) → she verifies. His description is the thing that pushes her body past the stall.
 
@@ -100,7 +100,7 @@ POV: Vee's close third, like every Pace/Vee scene — his calculation stays unre
 
 Self-taste completes and *escalates* before any other-woman taste:
 
-- **{{The Peaches}}** (~mid-late July) is the **apex of this thread**, not an escalation of the other-woman gate: peach slices inside her sex, brought to orgasm, fed the drenched slices — **she tastes both at once,** the peaches she refused and herself, the two things she withheld from him made inseparable. By now the rule is long crossed; this is transgression on top of an open door. (Full design: `meta-condensed-the-peaches.md`.)
+- **{{The Peaches}}** (~mid-late July) is the **apex of this thread**, not an escalation of the other-woman gate: peach slices inside her sex, brought to orgasm, fed the drenched slices — **she tastes both at once,** the peaches she refused and herself, the two things she withheld from him made inseparable. By now the rule is long crossed; this is transgression on top of an open door. (Full design: `meta-condensed-peaches.md`.)
 - **The Threesome** (~early August) is the *next* gate — first taste of another woman — its tallest riser already lowered by this thread. Owned by `meta-note-threesome-reveal.md`.
 
 -----

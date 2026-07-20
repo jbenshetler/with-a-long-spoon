@@ -30,7 +30,7 @@ The image is the whole book in one frame: **Randi takes the exact place Vee plan
 - **The end (aftercare → after-telling → "secret plans too" — may be substantial, not a light add).**
   - Aftercare preserved (blanket, smoothing her hair) — minus the fall silk imagery.
   - **The after-telling:** Randi reveals Vee's out cold — that she drove her home, that there was never a real clock. This is how the reader learns (the reader lost Vee at brunch) AND it reveals to Pace that she **manufactured the deadline and let him sweat** — her control surfacing, the partnership fraying toward Ignition. Render as **Pace's dawning realization** (her dialogue is fine; her interior is not).
-  - **"Secret plans too":** in the afterglow Randi turns the phrase back on Pace (absorbs the joke from `meta-note-secret-plans.md`) — jealousy-leak wrapped in wit, the orchestrator's confession to the one man who can't decode it. Double register (warm/witty first, cold second, **no word changing**); body-tell only; never explained. Consequence accepted: **Randi's wound-ignition is pulled earlier** than the old "small deniable leak" plan.
+  - **"Secret plans too":** in the afterglow Randi turns the phrase back on Pace (absorbs the joke from `meta-note-secret-plans.md`) — jealousy-leak wrapped in wit, the orchestrator's confession to the one man who doesn't decode it. Double register (warm/witty first, cold second, **no word changing**); body-tell only; never explained. Consequence accepted: **Randi's wound-ignition is pulled earlier** than the old "small deniable leak" plan.
 
 ## Randi's want — the control axis (April vs. Ignition)
 

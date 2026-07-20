@@ -75,7 +75,7 @@ Last year she came out. **Church friends, brother (Marine), father (retired Mari
 
 ## Her Loyalty
 
-She has **no access to why Pace is the way he is** — the neurodivergence, the father, the scar, the started-college-at-15 history are all closed to her. All she knows is that he is **different in a way that makes him the kind of kind that doesn't blow away.**
+She has **no access to why Pace is the way he is** — the temperament, the father, the scar, the started-college-at-15 history are all closed to her. All she knows is that he is **different in a way that makes him the kind of kind that doesn't blow away.**
 
 Her fierce loyalty is therefore **structural, not temperamental:** he is **the one bond that proved load-bearing when everything built to hold didn't.** She is not loyal because she's a loyal sort of person; she's loyal because he is the single surviving counterexample to the lesson her family taught her. That's why the loyalty can be trusted absolutely and why the payback at the end lands.
 

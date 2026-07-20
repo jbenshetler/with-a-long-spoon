@@ -6,7 +6,7 @@
 
 ## Why it exists
 
-*"It was all there on reread"* requires that there was something there to miss. Randi is in the house on regular weekday afternoons (`meta-plan-pace-house.md`, `meta-arch-randi.md`); a house visited that often would leave a trace. If Vee never once encounters one, the reveal isn't fair to the rereader. This is the **one sanctioned outward trace** — and it is safe *only* because Sheri exists as the absorber. (The earlier "foreign scrunchie" version was cut precisely because it pointed outward with **no** innocent story to catch it; see the dress-cluster doc. Sheri is the story that version lacked.)
+*"It was all there on reread"* requires that there was something there to miss. Randi is in the house on regular weekday afternoons (`meta-plan-pace-house.md`, `meta-arch-randi.md`); a house visited that often would leave a trace. If Vee never once encounters one, the reveal isn't fair to the rereader. This is the **one sanctioned outward trace** — and it is safe *only* because Sheri exists as the absorber. (The earlier "foreign scrunchie" version was cut precisely because it pointed outward with **no** innocent story to catch it; see `meta-plan-dress-cluster.md`. Sheri is the story that version lacked.)
 
 ## The beat
 
@@ -39,7 +39,7 @@ The reveal's locked confirmation image is *Randi's normally sleek hair wild, bar
 
 ## Placement / status
 
-~late April, after the grains (grain #3), the last trace before the early-May threesome. **Kept as a permanent standalone chronology/beeswarm entry** for visibility (the author's marker so the beat isn't lost); the *prose* folds into an adjacent spring Pace/Vee house scene at drafting — a beat, not a full scene; architecture complete, prose not drafted.
+~late April, after the grains (grain #3), the last trace before the early-August threesome. **Kept as a permanent standalone chronology/beeswarm entry** for visibility (the author's marker so the beat isn't lost); the *prose* folds into an adjacent spring Pace/Vee house scene at drafting — a beat, not a full scene; architecture complete, prose not drafted.
 
 ## Cross-refs
 

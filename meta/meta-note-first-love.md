@@ -9,7 +9,7 @@
 Pace has two relationships behind him; the architecture had fused them. They are distinct, and the distinction is load-bearing.
 
 - **First — the love-wound.** He enters college at 15: a genius, already stunted (abusive father, currency-love mother), and now a minor alone on a campus. A 19-year-old. It lasts a couple of years. **She leaves for ordinary reasons** — she's twenty-one and moving on; the gap that held at 19/15 doesn't at 21/17. He is devastated. This is the deepest wound and the one where he broke his silence, said the words, and was destroyed — the empirical "proof" the vow rests on.
-- **Second — the coded-channel device.** The girlfriend an hour away, weekends only, the transfer question (*"What do you think of me transferring here?"* → he answers the fact). Later, shallower, a *different* blindness: he can't decode a bid routed through a proxy. Unchanged; stays as `meta-arch-bible.md` / `meta-arch-pace.md` have it.
+- **Second — the coded-channel device.** The girlfriend an hour away, weekends only, the transfer question (*"What do you think of me transferring here?"* → he answers the fact). Later, shallower, a *different* blindness: he doesn't decode a bid routed through a proxy. Unchanged; stays as `meta-arch-bible.md` / `meta-arch-pace.md` have it.
 
 **"Normal reasons" is the guard.** The girl does nothing wrong — no betrayal, no villainy. The wound is purely his over-reading of an ordinary loss. A girl who wronged him would let him off; the point is that nothing was done *to* him and he was still leveled, and that he could never name a cause. That blankness is the same one he'll reach for about Vee (*she left, no reason I could name*).
 
