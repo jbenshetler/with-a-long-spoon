@@ -1,7 +1,7 @@
 # With a Long Spoon — Project Brief
 
 *This is the entry-point document for AI writing assistance. Read this first.*
-*Then read `DOCUMENTS.md` for the full file map and to find the right document for a specific task.*
+*Then see the **Project File Map** below to find the right document for a task.*
 
 ---
 
@@ -63,7 +63,13 @@ Pace does not know what happens at the SATC lunches. Vee does not know Pace and 
 
 ## Project File Map
 
-**`DOCUMENTS.md`** — the full inventory of all project files, organized by tier. Read this to find the right document for any specific task.
+**Finding a document — by naming convention (no separate index; it can't drift).** The files are tiered by name-prefix, which is self-describing:
+- `meta-thesis` / `meta-arch-*` / `meta-craft-*` — the structural argument, per-character architecture (the *why*), and per-character rendering (the *how-to-write*).
+- `meta-plan-*` — planning: `chronology` (scene order/inventory + dates), `satc-tracks`, `pace-house`, `schedule`, `summer`, etc.
+- `meta-note-<slug>` / `meta-condensed-<slug>` — per-scene companion notes + condensed briefs (reached via the chronology's `[detail]`/`[craft]` links).
+- `meta-rules`, `meta-todo-open-questions` — prose-style/reserved-words and the open-items list.
+
+CLAUDE.md's **"Document authority — read in this order"** section says which master *owns* which subject. To locate anything: **scenes → `chronology.html`**; **any text → `rg`** or the **lore-keeper** (`na.py` search over the live corpus).
 
 **Most useful second documents by task:**
 - Writing a Vee scene → `meta-craft-vivienne.md`

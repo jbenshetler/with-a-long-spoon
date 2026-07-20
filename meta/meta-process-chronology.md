@@ -1,7 +1,7 @@
 # Chronology Update Protocol
 
 *This file governs when and how `meta-plan-chronology.md` must be updated.*
-*Pointer to this file lives at the top of `meta-plan-chronology.md` and in `DOCUMENTS.md`.*
+*Pointer to this file lives at the top of `meta-plan-chronology.md`.*
 
 ---
 
