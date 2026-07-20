@@ -36,7 +36,7 @@ She turned to the mirror.
 
 The bias took her waist and drew it long; the neckline crossed and dipped and set her chest out frank in the gold light. All of her was there, gathered up and set out like it had nothing to apologize for. *Floozy.* The word flared up automatic and her face went hot — and she stayed anyway, made herself look, and somewhere behind her ribs the looking stopped being shame. She looked expensive. She looked like a lot of woman who knew exactly how much she was. She was grinning before she'd decided to, wet-eyed all over again.
 
-The hem pooled at her feet; the dress wanted a height she wasn't giving it. She rose onto her toes and watched the line finish itself, and smiled at the woman that made, and came back down, because she hadn't brought the shoes and that woman could wait.
+The hem pooled at her feet; the dress wanted a height she wasn't giving it, and more of one than she owned. She thought of the pumps at the back of her closet, the sensible pair that went with everything, the leather gone soft and the heels worn low, nowhere near tall enough for this and wrong even if they had been. On this they'd have read like an apology, and this wasn't a dress you apologized for. She rose onto her toes instead, as high as she had, and watched the line finish itself, and smiled at the woman that made, and came back down, because the shoes this called for weren't anything she owned, and that woman could wait.
 
 Then she turned to see herself from the side, and took a step —
 

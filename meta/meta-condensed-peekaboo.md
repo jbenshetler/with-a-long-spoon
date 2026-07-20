@@ -26,8 +26,8 @@ Afterglow. They'd paused mid-passion to carefully hang the dress; Pace sleeps (u
 
 ## Beats
 
-- **Mid-week slot** — Pace has given Vee a Wednesday; not a transfer from Randi (weeknights were never hers) but his feeling overflowing the weekend plan — a quiet tell of the greedy early phase. [cadence ref: `meta-arch-randi.md`, The Cadence]
-- **No heels** — she owns none yet (Randi installs that later); the hem pools, she rises onto her toes for the line the dress wants — plants {{A Recognized Method}}'s heels payoff.
+- **Mid-week slot** — Pace has given Vee a Thursday; not a transfer from Randi (weeknights were never hers) but his feeling overflowing the weekend plan — a quiet tell of the greedy early phase. [cadence ref: `meta-arch-randi.md`, The Cadence]
+- **The wrong shoes** — she owns only a worn, conservative pair of pumps, nowhere near tall enough for a gown built for real heels and wrong even if they were; the hem pools, she rises onto her toes for the height nothing she owns supplies, then lets it wait. Plants the shoe gap that pays off the next day (*"Nothing I own is right"*) and in {{A Recognized Method}}.
 
 ## On reread
 
