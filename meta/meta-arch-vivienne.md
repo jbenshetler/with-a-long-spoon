@@ -46,7 +46,7 @@ The appetite eats its own substrate: the unselfconsciousness that made the full 
 
 *Lush,* not voluptuous. Abundant, ripe, fertile. Pairs with the burgundy silk imagery and the wine register in the fitting scene.
 
-Tall (5'8"), built on a lavish scale — full, soft breasts, a deep waist, hips with real width, a rounded, feminine ass (real muscle under it, rounded not fat), long shapely legs. Anna Nicole Smith proportions to Randi's Natalie Portman. Long, curling hair worn loose, warm dark red, prone to tangling; the highlights spark to copper only in direct sun. Green eyes. Snub nose, tipped up; chestnut freckles across the nose and tops of the cheeks, and scattered over her back. She smiles readily and with her whole face, and does not hide her emotions well. Warm peach skin; her areolas a pink so pale they barely show at rest, concentrating to bright pink when she's hard. She paints her nails burgundy (the burgundy of the silk he made her) or a frosted plum that catches the light. Moves like an athlete under the abundance — low center, real balance, plainly trained (background: synchronized swimmer; the control is real but burdened out of competition by a build the competitive ideal can't use). Command and abundance in the same frame, neither canceling the other.
+Tall (5'8"), built on a lavish scale — full, soft breasts, a deep waist, hips with real width, a rounded, feminine ass (real muscle under it, rounded not fat), long shapely legs. Anna Nicole Smith proportions to Randi's Natalie Portman. Hair to her shoulder blades, curling, worn loose, warm dark red, prone to tangling; the highlights spark to copper only in direct sun. Green eyes. Snub nose, tipped up; chestnut freckles across the nose and tops of the cheeks, and scattered over her back. She smiles readily and with her whole face, and does not hide her emotions well. Warm peach skin; her areolas a pink so pale they barely show at rest, concentrating to bright pink when she's hard. She paints her nails burgundy (the burgundy of the silk he made her) or a frosted plum that catches the light. Moves like an athlete under the abundance — low center, real balance, plainly trained (background: synchronized swimmer; the control is real but burdened out of competition by a build the competitive ideal can't use). Command and abundance in the same frame, neither canceling the other.
 
 *Lush against Randi's sleek.* The wind is the device: the same ridge-wind that lifts and plays through Vee's loose dark-red hair finds almost nothing to move on Randi's bound black ponytail.
 
@@ -84,7 +84,7 @@ She may masturbate freely, with one narrow exception: not to thoughts of Pace wi
 
 **The gray line (load-bearing — leave it un-examined).** SATC-track relief stays outside the rule — there the shame is Randi's to light, and Vee takes her own relief — but the line is genuinely gray, because the brunch material *is* Pace scenes. She passes the rule by description: the desire-object after a brunch is the *exposure* (being drawn out and caught wanting by Randi at the table), not the man, so the relief is *"the lunch undid me,"* not *"I want him."* She runs Pace's own clean-but-poisoned consent move on herself, points at her own technicality (cf. the PPP/Vee rationalization parallel). Not guilt, quite: a deliberate **not-looking**, because to examine it cleanly would surface the content as his and oblige the telling. Two guards: (1) keep the two charges texturally distinct on the page — *his*, summoned, direct (forbidden, banked) vs. diffuse, being-seen, Randi's voice, the heat of the table (permitted) — or the rule loses its teeth as all Pace-charge gets relabeled lunch-charge; (2) never let her state the distinction crisply, or the rationalization shows its seams (telegraphing). Body before mind: she feels the permission, she does not articulate the loophole.
 
-Installed at the cabin (~late Feb; see `meta-note-grace.md`); on the page operating in `scenes/vee-on-the-bench.md`; cf. the bathroom-trip progression in `meta-plan-chronology.md` and the SATC relief channel in `meta-plan-satc-tracks.md`.
+Installed at the cabin (~late Feb / early March; see `meta-note-grace.md`); on the page operating in `scenes/vee-on-the-bench.md`; cf. the bathroom-trip progression in `meta-plan-chronology.md` and the SATC relief channel in `meta-plan-satc-tracks.md`.
 
 ---
 
@@ -184,7 +184,7 @@ The kiss does not reveal previously-hidden feelings for Randi — those are not 
 
 She leaves without explaining. The people who could give her answers are the people whose answers she cannot now trust. If she confronts Pace, she produces his confused sincere defense of behavior he experienced as love. If she confronts Randi, Randi deflects or weaponizes. The exit-without-confrontation is not weakness. It is the only stable position available.
 
-She does not take for her panties. The artifact stays.
+She does not come back for her panties. The artifact stays.
 
 ---
 

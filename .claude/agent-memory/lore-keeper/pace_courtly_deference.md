@@ -13,6 +13,6 @@ Pace is reflexively, genuinely courtly toward women in every register that does 
 
 **Distinct from bedroom tenderness:** The tenderness in the bedroom is calculated, part of the apparatus. The courtesy in the kitchen is genuinely thoughtless—not *doing* attentiveness, not *performing* care. Simply deferring in a domain where deference costs him nothing to learn.
 
-**Destination:** `meta/pace_architecture.md` — new section titled "The Courtly Domain — Low-Stakes Deference," placed between "What He Sees That Other Men Don't" (line ~151-157) and "The Investment Demand" (line ~159). The section should be ~300-350 words and match the existing prose register (architectural, explanation-forward, no exposition filler).
+**Destination:** `meta/meta-arch-pace.md` — new section titled "The Courtly Domain — Low-Stakes Deference," placed between "What He Sees That Other Men Don't" (line ~151-157) and "The Investment Demand" (line ~159). The section should be ~300-350 words and match the existing prose register (architectural, explanation-forward, no exposition filler).
 
-**Secondary:** Brief cross-reference may fit in `meta/character-relationship-bible.md` under the "Method" or "Consent architecture" subsection of the Pace entry, but keep it short—the primary home is pace_architecture.md. Rule: each doc owns its subject; avoid duplication.
+**Secondary:** Brief cross-reference may fit in `meta/meta-arch-bible.md` under the "Method" or "Consent architecture" subsection of the Pace entry, but keep it short—the primary home is meta-arch-pace.md. Rule: each doc owns its subject; avoid duplication.

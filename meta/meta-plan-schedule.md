@@ -95,7 +95,7 @@ A date earns a hard pin **only when the prose depends on the specific day**, not
 **Worked examples (the three cases):**
 
 **Hard-date case — {{Standards}}:**
-> *Season: early fall, warm. Term: week 1, settling-in. Day: **Saturday morning (hard)** — the day-after, empty house; the gauntlet only happens because it's a weekend. (≈ Sep 2.)*
+> *Season: early fall, warm. Term: week 1, settling-in. Day: **Saturday morning (hard)** — the day-after, empty house; the gauntlet only happens because it's a weekend. (≈ Sep 5.)*
 
 Day-of-week is load-bearing (the hungover day-after, the empty house). Pinned hard. Everything else relative.
 

@@ -1,6 +1,6 @@
 # Help/Harm Dials — The Fourth-Category Inventory
 
-*Companion to `novel_thesis.md`. Working tool for the prose. Inventory of operations in the novel where a single act, configuration, or behavior produces help and harm simultaneously — the fourth-category structure named in the thesis. Each entry names the operation, the parties it acts on, the goods it produces, the harms it produces, the temporal vantage from which each becomes legible, and craft notes about how the duality should be rendered in scene.*
+*Companion to `meta-thesis.md`. Working tool for the prose. Inventory of operations in the novel where a single act, configuration, or behavior produces help and harm simultaneously — the fourth-category structure named in the thesis. Each entry names the operation, the parties it acts on, the goods it produces, the harms it produces, the temporal vantage from which each becomes legible, and craft notes about how the duality should be rendered in scene.*
 
 *Purpose: protect the prose against rendering any of these operations as one-sidedly helping or one-sidedly harming. The fourth-category claim only works if the scenes render both faces. This document is the inventory of dials the prose must keep set to "both."*
 
@@ -236,7 +236,7 @@ When new operations are discovered in the writing, add them here. The list is ge
 
 ## Cross-References
 
-**The fourth-category section of `novel_thesis.md`** is the conceptual home for everything this document tracks. Read alongside it.
+**The fourth-category section of `meta-thesis.md`** is the conceptual home for everything this document tracks. Read alongside it.
 
 **Working rule 20 in the thesis** — *render the goods of the configuration as real, in real time, in registers each party can detect* — is the master craft rule this document operationalizes.
 

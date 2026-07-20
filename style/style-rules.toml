@@ -183,4 +183,4 @@ kind     = "regex"
 pattern  = '(?i)\b(?:autis\w*|asperger\w*|neurodiverg\w*|on the spectrum|diagnos\w*)\b'
 severity = "error"
 scope    = "scenes"
-why      = "CRAFT RULE: Pace's neurodivergence is NEVER named on the page — it lives only in behavior. Remove."
+why      = "CRAFT RULE: never label Pace's temperament (his introversion and hyperfocus) on the page — it lives only in behavior, never as a diagnosis. Remove."

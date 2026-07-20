@@ -33,6 +33,6 @@ Dr. Marsh runs **two field sites**; Vee and Randi are assigned **separately**. L
 
 ## Guards
 
-- **Earn the dark.** Summer instability is **epistemic/emotional** (the grind, the ache) — *not* a cooling of the love or the heat. The deed-stream stays undiminished; the erotic apex sits at the spring/summer seam (the Bench, "the last full bloom"). If summer reads as "obviously doomed," the reveal loses its bite.
+- **Earn the dark.** Summer instability is **epistemic/emotional** (the grind, the ache) — *not* a cooling of the love or the heat. The deed-stream stays undiminished; the erotic apex sits at the spring/summer seam ({{Vee on the Bench}}, "the last full bloom"). If summer reads as "obviously doomed," the reveal loses its bite.
 - **Cassie's absence is blameless** — career/life, same register as the spring class-track peel-off; never a signal.
 - **The mirror stays buried** — subtle, never explained; method not subject; Vee transcribes and connects nothing.

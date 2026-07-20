@@ -6,9 +6,9 @@ close.
 
 -----
 
-## 1. Pace's femur scar / the bike-dragging origin — fold into `pace_architecture.md`? (DONE — folded into meta-arch-pace.md per option (a))
+## 1. Pace's femur scar / the bike-dragging origin — fold into `meta-arch-pace.md`? (DONE — folded into meta-arch-pace.md per option (a))
 
-`character-relationship-bible.md` and `summary.md` treat Pace's hip/femur scar and
+`meta-arch-bible.md` and `summary.md` treat Pace's hip/femur scar and
 its origin as **load-bearing**: at eleven, his father roped Pace's bike to a car
 and dragged him "for a laugh" → compound fracture at the head of the femur + severe
 road rash. It grounds the **same-shape rule** (the bike injury and the
@@ -16,19 +16,19 @@ consent-architecture hole are the same wound — *he didn't ask*), the
 **bike-as-un-narrated-repair** (the boy dragged off a bike becomes the man who
 rides for peace), and his pain-consciousness / safety-tracking.
 
-But `pace_architecture.md` — the *deep* character doc — does not mention the scar or
+But `meta-arch-pace.md` — the *deep* character doc — does not mention the scar or
 the bike origin at all; it renders the father only as generically "physically
 abusive."
 
-Per the agreed reconciliation (option **(i)**, with `pace_architecture.md` governing
+Per the agreed reconciliation (option **(i)**, with `meta-arch-pace.md` governing
 where the docs conflict), decide:
-- **(a)** Fold the scar + bike-dragging origin into `pace_architecture.md` so the
+- **(a)** Fold the scar + bike-dragging origin into `meta-arch-pace.md` so the
   deep doc carries this load-bearing body-fact. *(Recommended.)*
-- **(b)** Deliberately keep it living only in `character-relationship-bible.md` /
-  `summary.md`, and have `pace_architecture.md` stay silent on it.
+- **(b)** Deliberately keep it living only in `meta-arch-bible.md` /
+  `summary.md`, and have `meta-arch-pace.md` stay silent on it.
 
 Related, now resolved (no action unless you disagree): the bible was updated to
-match `pace_architecture.md`'s **emotionally-abusive mother** (love-as-currency =
+match `meta-arch-pace.md`'s **emotionally-abusive mother** (love-as-currency =
 the source of the love-silence), while the **father** keeps the physical abuse /
 "this'll be fun" / consent-architecture wound. The love-wound's "three sources"
 list now reads *parents (foundation) / wiring / first love.*
@@ -36,7 +36,7 @@ list now reads *parents (foundation) / wiring / first love.*
 ## 2. Bible — the excised "Randi-type" reasoning (FYI / DISCUSS)
 
 Removing "likely a Randi-type" from the first-love bullet (per your instruction,
-preferring `pace_architecture.md`, which says the first love "ended for no cause he
+preferring `meta-arch-pace.md`, which says the first love "ended for no cause he
 could name") also removed the dependent chain it carried: *Pace finds Randi legible
 → he can run the plan without it touching him → the gut-punch that Vee is **not** the
 type and gets the protective silence anyway.* If you still want the
@@ -47,8 +47,8 @@ depend on typing the first love.
 
 The Document Map still lists two files that are not in the repo:
 `parallel_scene_map.md` *(Session 4)* and `scenes_inventory.md` *(earlier)*. It also
-omits the three character-architecture docs, `novel_thesis.md`, and
-`scene-plan-chronology.md` entirely. Left untouched this pass (deleting references to
+omits the three character-architecture docs, `meta-thesis.md`, and
+`meta-plan-chronology.md` entirely. Left untouched this pass (deleting references to
 historical docs is an authorial call). Recommend a full Document-Map refresh.
 
 ## 4. Stale scene-file pointers (separate from the version cleanup) ✓ RESOLVED
@@ -100,7 +100,7 @@ The thesis doc currently treats the three appetites at the structural level but 
 
 - **Cross-reference the new sections in Randi and Vivienne docs.** Make sure the docs interlock cleanly at the boundary the thesis takes over. The character docs handle the year-version of the dual outcome; the thesis handles the trajectory across her lifetime. The thesis can briefly note: *the dual outcome operates across the year per the character architecture docs; the thesis articulates what the year-version commits her to permanently.*
 
-## 8. Scene chronology — the porch scene (DONE — see scene-plan-chronology.md)
+## 8. Scene chronology — the porch scene (DONE — see meta-plan-chronology.md)
 
 Mid-novel beat added: Vee speaks the cracker-and-meal figure as her displacement *I love you*; Pace understands and routes her speech down the sex-channel as deniable self-protective response; Vee cannot tell whether he understood or didn't, both possibilities bad. Precursor grain to the Christmas fight.
 
@@ -136,11 +136,11 @@ Across all prose: the chiastic structure between the two women's transformations
 
 # v7 Thesis Update — Items Surfaced
 
-## 12. Fourth-category section installed in thesis (DONE — see novel_thesis.md)
+## 12. Fourth-category section installed in thesis (DONE — see meta-thesis.md)
 
 The thesis now articulates the philosophical category the novel installs against three adjacent categories the era already names (food, alcohol, pedophilia — last named for philosophical contrast only) and against the conventional grammar of deception. The category is *configurations whose multi-party operation produces goods and harms in the same operation, with goods landing in real time and harms latent or retrospectively-legible.* Both harm-one (substrate-reshaping from required-depth operation) and harm-two (betrayal-and-coordination from the configuration's information-architecture) are in the category. Moderation does not solve it; neither do dose-calibration, prohibition, or the conventional grammar of deception. *The reader walks out with a name for what the era could not name.*
 
-## 13. Help/harm dials inventory document created (DONE — see help-harm-dials.md)
+## 13. Help/harm dials inventory document created (DONE — see meta-plan-help-harm-dials.md)
 
 New working document tracks each operation in the novel where help and harm are produced by the same operation. Each entry names the operation, the parties affected, the goods and harms with temporal vantages, the avoidability register, and craft notes. Inventory is generative, not closed. Add to it as scenes are drafted. Initial entries cover the secretions reframe, the fitting, the bondage scene, Pace's listening, the bench, Pace's continuing operation on Vee as experienced by Randi, the SATC scene amplifications, the engineered friendship-texture, Randi's cross-channel operation on Vee through her own confidences, the threesome, the SATC lunches as configuration operation, several specific scaldings (Randi tasting Vee on Pace; Pace's perception of the configuration as warm; Vee's hidden masturbation), and the year of aliveness itself as the master dial. Future scenes that need entries: dance lessons, peaches sequence, painting afternoon, Secret Plans, ivory nightie/cabin weekend, dressing room, planted clues, Christmas/Thanksgiving fight, Peter-call.
 
@@ -148,7 +148,7 @@ New working document tracks each operation in the novel where help and harm are 
 
 Across all prose: the structural reshaping in the substrate happens fast, at the depth the appetite requires to be operating, in conditions the appetite needs. *Randi is substantially wounded at the bench, in a single sustained scene. Vee's appetite-specifications are expanded by the first night.* Duration deepens what is already installed; it does not produce the catastrophe from a less-dangerous baseline. The earlier framing of *cumulative across the year* implied slow accumulation; this was imprecise. *Depth at the appetite's required operating threshold is the dangerous variable.* When scenes are drafted, the substrate-reshaping should be operating in single sustained scenes at full intensity, not gradually emerging across weeks. The year's role is to elaborate and compound what the early scenes installed, not to construct the catastrophe from a less-dangerous baseline. Earlier docs that imply slow-accumulation should be re-checked; light revision may be needed.
 
-## 15. The "given full range" phrase clarified in thesis (DONE — see novel_thesis.md)
+## 15. The "given full range" phrase clarified in thesis (DONE — see meta-thesis.md)
 
 The central claim's *given full range* is now supplemented with *when permitted to operate at the depth and across the duration their internal logic requires for the appetite to be itself.* This blocks the moderation-reading. The phrase appears in other documents in less-supplemented form; light revision to those documents to align with the v7 framing is a low-priority TODO. *In context, the existing uses are correct; the supplementation in the central claim provides the unambiguous reading.*
 
@@ -160,7 +160,7 @@ Across all prose: the friendship Vee values above all others is genuinely the be
 
 Across all prose: multi-party operations with asymmetric information distribute the agency of harm across the configuration's structure. *Vee, in good faith, is the agent of compounding harm to Randi through the SATC lunches' delivery of reports about Pace.* Vee has no opportunity to recognize this. When prose renders Vee at the SATC lunches, render the warmth and the harm-compounding as the same operation, with Vee unable to see the harm-doing because the configuration's information-architecture has placed her where she cannot see it. The catastrophe is not the result of any single agent's failure; it is the result of the configuration operating, with information distributed asymmetrically, and the harm traveling through the structure. *No single party is the catastrophe's locus. The configuration is.*
 
-## 18. Character relationship bible updated (DONE — see character-relationship-bible.md)
+## 18. Character relationship bible updated (DONE — see meta-arch-bible.md)
 
 Bible updated to v6/v7 state. Major additions: header now references all five core documents (thesis, three character architectures, help-harm-dials inventory); Core Engine section expanded with v6/v7 deeper structural layer (three habituated refusals; two perfect apparatuses; available honorable exits; fourth-category claim; harm fast-installed; configuration-as-agent; goods are real; both transformations parallel-and-opposite; 95% calibration; chivalric grammar as deeds; vow against premature declaration); Vee section adds cutting voice with experience-level-only rendering rule, cracker-and-meal architecture, Vee's transformation parallel-and-opposite to Randi's, dual outcome within the year; Pace privacy section reframed to two registers (neurological vs commitment-adjacent self-protection); Pace love-wound section adds four new note-blocks (chivalric grammar / vow distinction; available honorable exits not taken; 95% calibration with five humanizing failings; embodied-presence rendering rule; porch-scene register as worked example); choice-become-habit framing added as deepest fact about Pace; Randi section adds six new paragraphs (habituated refusal of need; bench-wound fast-installed mechanism with begging; hate as structurally orphaned with two perfect apparatuses; the cup as body's tell; both transformations parallel-and-opposite; the Vee-channel six-channel week); Global Craft Rules adds fourteen v6/v7 rules covering voice rendering, parallel-and-opposite never-surface, habituated refusals never-surface, fourth-category as writers' tool only, harm fast-installed, goods real in real time, configuration as agent, intensity as required pitch not excess, conventional grammar of deception transcended, no filing/cataloging for Pace, 95% calibration, deeds not words, vow holding throughout year, available honorable exits real, bench-wound vs friendship-deception both in fourth category.
 

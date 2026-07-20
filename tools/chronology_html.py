@@ -399,7 +399,7 @@ def slugify(title: str) -> str:
 
 
 # A scene's prose file is named in its metadata line — sometimes backticked
-# (`the-bench.md`), sometimes path-qualified (`scenes/first-night.md`), and
+# (`the-bench.md`), sometimes path-qualified (`scenes/famished.md`), and
 # sometimes tucked inside the status ("**Draft complete:** `scenes/rock.md`").
 # Scan the raw line and take the first *.md that isn't a meta-* planning doc
 # (the [detail]/[craft] links point at meta-condensed-*/meta-note-* files).

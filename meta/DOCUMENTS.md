@@ -30,7 +30,7 @@ Where the thesis and an architecture doc conflict, the thesis governs.
 
 | File | What it answers |
 |------|----------------|
-| `meta-arch-pace.md` | Pace's neurodivergence, consent architecture, chivalric grammar, vow against premature declaration, house/objects, the scar, method, arc. |
+| `meta-arch-pace.md` | Pace's temperament, consent architecture, chivalric grammar, vow against premature declaration, house/objects, the scar, method, arc. |
 | `meta-arch-randi.md` | The bench wound, the six-channel week, the SATC scenes as real life, Fairytale, mutual envy, the cup compulsion, her future. **Contains 🔒 THE NEED ENGINE — LOCKED CANON (need vs. want; need re-filed as want; the being-seen fork; sadism as need inverted). Change only on explicit user instruction; never shortened or reinterpreted.** |
 | `meta-arch-vivienne.md` | Vee's constitution, the cracker-and-meal architecture, the two registers, the dual outcome, parallel-and-opposite with Randi, the tragedy at two levels, what she carries forward. |
 | `meta-arch-bible.md` | Cross-character relational architecture; secondary characters (Cassie, Sheri, Brooke); craft rules that apply across all POVs; the chiasmus discipline. |

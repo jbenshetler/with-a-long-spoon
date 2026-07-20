@@ -52,13 +52,13 @@ These are fixed. They carry the dynamic and must survive every revision exactly 
 
 1. **The Greek coffee shop (Chi Latte).** In `see-you-later.md` Randi steers Vee to the Greek-coded coffee shop on Draper — **a place Cassie would never go.** Surface: just where Randi likes to go (glamorous, aspirational, Randi's taste). Underneath: ground selected to be Cassie-incompatible. The exclusion is built into the *choice of venue.*
 
-2. **The dress-code lunch.** Randi invites them **both** — looks generous, looks inclusive — to a lunch with a **dress code**, knowing **Cassie doesn't dress.** The invitation is the alibi; the dress code is the instrument; Cassie excludes *herself* by being who she is; Randi's hands stay clean and she gets to have extended the invitation. The social-perimeter version of what the velvet alcove is for disclosure: a room built so the inconvenient party can't be in it, presented as a nice place to eat. **Status: conceptual, not yet placed — likely becomes an SATC brunch. See `meta-plan-chronology.md` continuity flag and `meta-todo-doc-updates.md`.**
+2. **The dress-code lunch.** Randi invites them **both** — looks generous, looks inclusive — to a lunch with a **dress code**, knowing **Cassie doesn't dress.** The invitation is the alibi; the dress code is the instrument; Cassie excludes *herself* by being who she is; Randi's hands stay clean and she gets to have extended the invitation. The social-perimeter version of what the velvet alcove is for disclosure: a room built so the inconvenient party can't be in it, presented as a nice place to eat. **Status: conceptual, not yet placed — likely becomes an SATC brunch. See `meta-todo-doc-updates.md` item 5 (placement pending; no live chronology flag).**
 
 ---
 
 ## DISCIPLINES (how this renders on the page)
 
-1. **Venues read as Randi's TASTE, never as tactic.** The Greek coffee shop and the dress-code lunch must read, on first pass, as the glamorous places a girl like Randi naturally goes. The exclusion is **reread-only.** If the prose flags a venue as a tactic, Randi flips from warm-operator to obvious-schemer and the whole "power wears warmth" architecture breaks. (Bible rule: Randi's power wears warmth, not coolness.)
+1. **Venues read as Randi's TASTE, never as tactic.** The Greek coffee shop and the dress-code lunch must read, on first pass, as the glamorous places a girl like Randi naturally goes. The exclusion is **reread-only.** If the prose flags a venue as a tactic, Randi flips from warm-operator to obvious-schemer and the whole "power wears warmth" architecture breaks. (Craft rule — `meta-craft-randi.md`, The Speech Engine: Randi's power wears warmth, not coolness.)
 
 2. **Vee never articulates any of it.** Vee loves Cassie; that is real and unthreatened. Vee does not perceive the sort as a betrayal, does not see the venue-engineering, would never say "Cassie isn't new" or "Randi is a gateway." The whole mechanism is sub-articulate — the most natural sorting imaginable. (Rule 393: Vee does harm by being a good friend, unable to see it.)
 

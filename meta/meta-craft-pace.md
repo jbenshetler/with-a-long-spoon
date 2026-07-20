@@ -41,7 +41,7 @@
 
 ## Play, teasing, and humor
 
-Pace is not solemn about sex. He has a genuine sense of humor and a light, good-natured teasing register — banter, delight, the easy play of a man at home in his own wanting. It sits *alongside* the tenderness and the intensity, never instead of them; vary by kind (the book names *playful* as a heat-kind — Pool, {{Jitterbug}}, the Deep End run on it). Do not default every erotic beat to tender or psychologically-intense; let him joke, tease, grin.
+Pace is not solemn about sex. He has a genuine sense of humor and a light, good-natured teasing register — banter, delight, the easy play of a man at home in his own wanting. It sits *alongside* the tenderness and the intensity, never instead of them; vary by kind (the book names *playful* as a heat-kind — Pool, {{Jitterbug}}, {{The Deep End}} run on it). Do not default every erotic beat to tender or psychologically-intense; let him joke, tease, grin.
 
 **With Vee it is erotically load-bearing.** Her shame-loop makes teasing a direct line to arousal: teased about her body giving her away without her leave — the flush, the wet, the sound she didn't sign off on — the shame spikes, and the shame *is* the heat. His teasing isn't comic relief beside the scene; it's an instrument that plays her engine, and it undoes her *because* it's affectionate. Keep it good-natured — delighted, never mocking or cruel (cruelty curdles the tenderness and breaks the trust the whole appetite runs on).
 
@@ -59,7 +59,7 @@ Pace is not solemn about sex. He has a genuine sense of humor and a light, good-
 
 **No filing. No cataloging. No registering-and-storing.** When the prose needs to convey that something just reached him, render it in the embodied register: something moves in him, his attention slides toward what she just produced, his hand is already on her before his mind has finished the observation. He remembers her the way you remember a person still in the room.
 
-**Cognition, not affect — the trap.** The gap is in *synthesis* — he catches everything and never adds it up — never in *feeling*. Do not let "the after-register does not run / no filing" harden into flat, deadpan, or blank affect; that is the neurodivergence stereotype the never-name rule exists to keep off the page. In the moment he is warm, fully present, and visibly feeling — glad, wrecked, tender, stung (`nothing-underneath`: *"nothing formal was left anywhere in his face … so plainly glad and so plainly wrecked"*). The precise/formal narrowing is a *momentary* stress-tell (the family wound, declaration-adjacency), never his baseline. If he reads as emotionally *absent* rather than *present-but-non-synthesizing*, that's the error.
+**Cognition, not affect — the trap.** The gap is in *synthesis* — he catches everything and never adds it up — never in *feeling*. Do not let "the after-register does not run / no filing" harden into flat, deadpan, or blank affect; that is the flat-affect stereotype the never-name rule exists to keep off the page. In the moment he is warm, fully present, and visibly feeling — glad, wrecked, tender, stung (`nothing-underneath`: *"nothing formal was left anywhere in his face … so plainly glad and so plainly wrecked"*). The precise/formal narrowing is a *momentary* stress-tell (the family wound, declaration-adjacency), never his baseline. If he reads as emotionally *absent* rather than *present-but-non-synthesizing*, that's the error.
 
 ---
 
@@ -87,7 +87,7 @@ Pace is not solemn about sex. He has a genuine sense of humor and a light, good-
 - Defers immediately outside his two real stakes (sex and love); holds without friction inside them
 - Does not file what he sees; is in continuous present-tense contact with whoever is in the room
 - The private satisfaction of virtue — a small smoothness in how he carries himself in scenes where he has done the right thing
-- **Hand into her hair** on a kiss — his kiss-entry signature (`the-bench`, `fitting`), the deliberate counter to **Randi's hand at the hinge of the jaw**. Keep them distinct: the contrast is load-bearing for the **threesome touch-recognition** (Vee triangulating identity in the dark)
+- **Hand into her hair** on a kiss — his kiss-entry signature (`the-bench`, `a-round`), the deliberate counter to **Randi's hand at the hinge of the jaw**. Keep them distinct: the contrast is load-bearing for the **threesome touch-recognition** (Vee triangulating identity in the dark)
 
 ---
 

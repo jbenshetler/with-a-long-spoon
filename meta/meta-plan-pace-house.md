@@ -2,12 +2,12 @@
 
 *The standing "set bible" for Pace's house: authoritative on **spatial layout** and
 on what's been committed to the page, so recurring scenes at the house stay
-consistent. Defers to `character-relationship-bible.md` ("The house, room by room")
-and `summary.md` for what each room *means*; this doc owns *where things are*.*
+consistent. Defers to `meta-arch-bible.md` ("The house, room by room")
+for what each room *means*; this doc owns *where things are*.*
 
 **Sources.** `[PAGE]` = drafted, on the page in `scenes/the-bench.md`,
-`scenes/dress-pickup.md`, and `scenes/vee-on-the-bench.md` — treat as fixed. `[PLAN]` = established in
-`character-relationship-bible.md` / `summary.md` but not yet drafted — render to
+`scenes/two-towels.md`, `scenes/a-round.md`, `scenes/the-top-drawer.md`, `scenes/dress-pickup.md`, and `scenes/vee-on-the-bench.md` — treat as fixed. `[PLAN]` = established in
+`meta-arch-bible.md` but not yet drafted — render to
 taste, don't contradict.
 
 -----
@@ -43,7 +43,7 @@ Pace **leaves the front door unlocked** for a guest he's expecting. Randi, **eve
 time she lets herself in, throws the deadbolt behind her, first thing — no key
 needed.** Render as plain behavior, never stated: his openness, her sealing. A
 standing symbol of the two of them (he leaves himself open and is breached; she
-controls every threshold). Randi's signature — see `randi_architecture.md`.
+controls every threshold). Randi's signature — see `meta-arch-randi.md`.
 
 ## The key `[PLAN]`
 
@@ -67,7 +67,7 @@ Front door (left unlocked for the expected guest; Randi bolts it behind her). A
 **chair by the door** where she drops her overnight bag.
 
 ### Kitchen `[PAGE]` + `[PLAN]`
-`[PAGE]` **white-laminate**-topped **counter** (plain white, no pattern, the shine worn off, still good to work on); **kettle**/burner; two mugs; the **green tea** she likes, kept on hand; a **bread machine**; a **baking stone** that lives in the oven, with its **wooden peel**; a **cold-water filter pitcher** in the fridge. **No stools.** The **kitchen is small**, too small for two to work in at once; a small **table with chairs** sits in it, where meals happen and where she watches him cook (he sits people down to eat, never feeds them standing at the counter). `[PLAN]` A few good **knives** and a few good **pans and skillets** (**not the full set**); an old **white KitchenAid stand mixer**, bought secondhand, the wear showing; the small tools a serious cook keeps (microplane, peeler, hand juicer, and the like), assumed present and not inventoried; a small bench of guest wines. He cooks here.
+`[PAGE]` **white-laminate**-topped **counter** (plain white, no pattern, the shine worn off, still good to work on); **kettle**/burner; two mugs; the **green tea** she likes, kept on hand; a **bread machine**; a **baking stone** that lives in the oven, with its **wooden peel**; a **cold-water filter pitcher** in the fridge; an old **white KitchenAid stand mixer**, bought secondhand, the wear showing. **No stools.** The **kitchen is small**, too small for two to work in at once; a small **table with chairs** sits in it, where meals happen and where she watches him cook (he sits people down to eat, never feeds them standing at the counter). `[PLAN]` A few good **knives** and a few good **pans and skillets** (**not the full set**); the small tools a serious cook keeps (microplane, peeler, hand juicer, and the like), assumed present and not inventoried; a small bench of guest wines. He cooks here.
 
 ### Dining room `[PLAN]`
 Off the **kitchen** (distinct from the kitchen's own built table); beyond it, the way out
@@ -95,7 +95,7 @@ Randi leaves the bedroom, out into the hall and around the corner to it — not 
 Sink + **mirror**, tap, his **towel**, toilet. The door has a
 **lock**; Randi locking it mid-scene is marked unprecedented. A recurring,
 load-bearing small room (Vee uses it later too).
-- **Vee's top drawer** `[PLAN]` (canonical): gifted at {{The Top Drawer}} (after {{We Find Out}}) —
+- **Vee's top drawer** `[PAGE]` (canonical): gifted at {{The Top Drawer}} (after {{We Find Out}}) —
   he consolidated his things to a lower drawer; the top one holds her form of
   scrunchies (deep green with white dots, chosen for her hair — gifted at {{We Find Out}}),
   her pins, room to spare. **The drawer is hers; he never touches it** — the
@@ -113,15 +113,15 @@ load-bearing small room (Vee uses it later too).
   across the fall as domestic warmth; in spring the same container holds the
   definiteness questions and the drawer arithmetic in one stream.
 
-### The office `[PLAN]`
+### The office `[PAGE]`
 His **computer/work room** — **organized chaos** more than mess, the sprawl of too little space rather than disorder (laptop, workstation,
 journals, white papers, pages of notation). **Separate from the bedroom.** Bible
-owns its meaning ("where he lets his own mind sprawl"). Not yet drafted/placed.
+owns its meaning ("where he lets his own mind sprawl"). Drafted in `two-towels.md`.
 
-### Woodshop `[PLAN]`
+### Woodshop `[PAGE]`
 **Immaculate — for safety, not aesthetics**; pieces curing partway through finish;
 most of the house's furnishings came from here. Reached past the **kitchen / dining**,
-out through the **garage** (not yet drafted).
+out through the **garage**.
 
 ### Den `[PAGE]` + `[PLAN]`
 **Forward** off the foyer; the room you cross to reach the sun porch. **One long wall of
@@ -134,7 +134,7 @@ try-on (`scenes/dress-pickup.md`).
 Through an archway at the far end of the den — an **enclosed porch at the back, mostly
 windows: the room with the best light.** **Not a dedicated workroom** — he brings the
 fabric out and sets up here to cut, sew, and fit for a project (distinct from
-the woodshop); **The fitting plays here.** On the page (`scenes/dress-pickup.md`):
+the woodshop); **The fitting plays here.** On the page (`scenes/a-round.md`, the fitting; `scenes/dress-pickup.md`, the pickup day):
 - A **long work / cutting table** (the burgundy gown was cut and built here).
 - A low **fitting pedestal** she stands on — the maker's fit-to-a-body, the same knack as
   the bench and the dress.
@@ -190,10 +190,9 @@ two people move through without calling out to each other.
 - **Sun porch** `[PAGE]`: the **largest room in the house** — glass on one long wall and both short ends, **woods → mountains** beyond (the payoff of the remote lot). **The fitting plays here by day** (see Light, above).
 
 ## See also
-- `character-relationship-bible.md` — what each room *means*; Pace's objects/class
-  (now **owns**, not rents).
-- `summary.md` — house (owns/patent), the access canon, the bench's
+- `meta-arch-bible.md` — what each room *means*; Pace's objects/class
+  (now **owns**, not rents); the house (owns/patent), the access canon, the bench's
   only-Randi-and-Vee significance.
-- `randi_architecture.md` — the lock-behind-her signature.
+- `meta-arch-randi.md` — the lock-behind-her signature.
 - `scenes/the-bench.md`, `scenes/dress-pickup.md` — the drafted house interiors (the bench
   room; the sun porch).

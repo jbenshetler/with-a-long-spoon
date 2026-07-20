@@ -11,7 +11,7 @@ The visibility wound answered in deed: he lets himself be claimed publicly. But 
 Vee assembles an unlikely mix — 2–3 of her **dorm** friends (seed: flag 21) + **Randi** (crossing status lines for Vee, as she does) + **Pace**. The mix exists only because Vee connects worlds no one else would — a render of her aliveness (Vivienne), and the mechanism that unknowingly seats her boyfriend and her orchestrator in one room. Cassie present.
 
 ### Pace working the room
-Genuine, warm, easy — the joke-setter who sets up the lines and lets others land them, makes himself useful, defers (canon charm mechanism). **Venue guard:** Vee picks a Pace-friendly place — low-key, no TV wall — because she learned from the Chili's wreck (*Under the Rug*) without either naming why (answers that wound from *her* side; quiet growth). Don't write him effortlessly working a loud chaotic room — that contradicts the un-named neurodivergence; keep the format doable or let the cost show.
+Genuine, warm, easy — the joke-setter who sets up the lines and lets others land them, makes himself useful, defers (canon charm mechanism). **Venue guard:** Vee picks a Pace-friendly place — low-key, no TV wall — because she learned from the Chili's wreck (*Under the Rug*) without either naming why (answers that wound from *her* side; quiet growth). Don't write him effortlessly working a loud chaotic room — that contradicts the un-named temperament; keep the format doable or let the cost show.
 
 ### Randi present — the concealment (met once)
 Pace and Randi hold the meet-cute line: met once at the coffee shop, nothing more. Concealment is **uniformity, not distance** — he charms Randi at room temperature; the absent thing is *desire*, not warmth. Cassie does not re-clock the no-attraction. This is the one social scene where **Pace is the operator and Randi is the audience**, watching him work a room the way she works Vee alone (loaded on reread; invisible on first). Low reveal-cost: Vee already banked the meet-cute, so nothing new to un-know.
@@ -25,5 +25,5 @@ Pace's own bomber jacket + broadcloth (bible wardrobe). He comes into her world 
 ### Guards
 - **Earn the dark by being light:** a warm, fun party where a girlfriend's two favorite people get along. Cut any signal that Randi is sinister or that the two already know each other beyond the meet-cute.
 - **Real AND instrumental:** the "shared interest" line is genuine affection and live plan at once; never a knowing wink at the concealment.
-- **Never name, never explain:** the neurodivergence (venue), the threesome pre-seed, the enclosure-deepening — all resonance.
+- **Never name, never explain:** the temperament (venue), the threesome pre-seed, the enclosure-deepening — all resonance.
 - **Continuity:** dorm friends unaffiliated (flag 21); Pace/Randi met-once + Cassie no re-clock (flag 22); precedes the threesome plant.
