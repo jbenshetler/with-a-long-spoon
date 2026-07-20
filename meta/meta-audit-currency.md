@@ -404,6 +404,82 @@ _status: checked 2026-07-20 — 4 findings (high 1, med 3)_ — **neuro word-swa
 6. **summary.md straggler** — `secret-plans:124` (beyond the bible/pace-house already fixed).
 7. **`meta-condensed-the-peaches.md` dead pointer** — `taste-thread:103` + `chronology:422`.
 
+---
+
+## Phase 5 — Per-scene notes (drafted scenes)
+_Currency + light prose cross-check vs the drafted scene. Wave 1 (12): all-the-time, barely-stings, burn, fairytale, fed, grace, in-her-place, in-his-hands, leave-no-trace, my-friend-randi, old-acquaintances, outlier. Wave 2 (12) to follow._
+
+### meta-note-my-friend-randi.md — 4 (high 1, med 1, low 2)
+- **[high/high]** `:3` — status "Architecture complete, **prose not drafted**": the scene IS drafted. **Correct:** `chronology:224` "Draft complete · `my-friend-randi.md`". **Fix:** → "draft complete".
+- **[med/med]** `:15` — omits a whole drafted **second movement**: Randi retells the John/skiing {{Fairytale}} story, surface-only ("everywhere but the bedroom…", `my-friend-randi.md:95-119`). **Fix:** add a bullet covering the reciprocal Fairytale-retelling.
+- **[low]** `:41` — the prescriptive "worked example" double-register lines aren't the shipped lines (`my-friend-randi.md:51`); flag only.
+- Currency/doctrine: clean (friend-lane clean — "confidante", never "listener"; no neuro residue).
+
+### meta-note-fairytale.md — 3 (med 1, low 2)
+- **[med/med]** `:43` — "{{Gesso}} **mid-November** mention (Randi off-grid) load-bearing setup": phantom + mis-dated — Gesso is now **~late Jan** and no off-grid/Gstaad mention exists anywhere (rg-confirmed). **Fix:** re-home the intended mid-Nov setup, or downgrade to "needed setup (unwritten)".
+- **[low]** `:32` — beat-9 quote "A performance she could do in her sleep / operating the equipment" isn't on the page; drafted = "good sandwich eaten fast" (`fairytale.md:117`). **Fix:** update quote or drop quotes.
+- **[low]** `:13,15,41` — bare title refs (`Outlier`×2, `Bench`). **Fix:** brace (incremental).
+
+### meta-note-all-the-time.md — 2 (med 1, low 1)
+- **[med/med]** `:21` — Cassie peeled off by "locked pre-nursing track can't fit elective"; the drafted scene uses "already did hers, with oddball Wardy" (`all-the-time.md:129`; `chronology:180` carries both). **Fix:** add the already-completed/Wardy mechanism.
+- **[low/high]** `:17` — quote "you only gave him half of you?" → drafted "you only gave him *half?*" (`:111`). **Fix.**
+
+### meta-note-barely-stings.md — 4 (low 4)
+- **[low/high]** `:83` — esthetician "[name]" now canon **Sondra** (`barely-stings.md:31`; `chronology:254`). **Fix:** placeholder → Sondra.
+- **[low/med]** `:28` — tech "goes serious — reads as **severe**"; prose renders **indifferent/level** (`:39`, matches the note's own engine). **Fix:** "severe" → indifferent.
+- **[low/med]** `:39` — restrained-arousal "what will she see?" worry placed in the labia-strips finish; prose lands it earlier (`:61`). **Fix:** flag beat-placement.
+- **[low/med]** `:59` — "all the best dressmakers start on the left side" cited as a Randi anchor but appears in no drafted scene. **Fix:** flag (illustrative gloss, not citable).
+
+### meta-note-burn.md — 1 (low 1)
+- **[low/low]** `:69,72` — refers to the next scene as both `{{Grace}}` and bare "Cabin" (the cabin is *inside* Grace, `chronology:329`). **Fix:** normalize to "{{Grace}} (the cabin trip)". Prose fidelity otherwise excellent.
+
+### meta-note-outlier.md — 1 (low 1)
+- **[low/low]** `:18` — MIRH "auto-truncated (an LLC has no ticker)" vs prose "four letters, her own shorthand" (`outlier.md:55`). **Fix:** flag — soften mechanism. Fall placement + economics major confirmed; clean otherwise.
+
+### meta-note-in-his-hands.md — 0 (clean)
+_Every quoted anchor matches the drafted scene; the precise/formal stress-tell is current neurotypical canon._
+
+### meta-note-in-her-place.md — 5 (med 2, low 3) — **note predates the final draft**
+- **[med/high]** `:21-53` — the scene walk-through/conversion-map name no physical menu, but the **drafted spine is now nipple clamps + spanking** (`in-her-place.md:37-77`; `chronology:366` — the clamp-thread payoff). **Fix:** add clamps/spanking to the scene + conversion sections.
+- **[med/high]** `:24,52` — claims the "*she always locked it… stopped noticing that he noticed*" deadbolt line relocates here surfacing *after* the reveal; drafted bolt is at `:9` *before*, as delight ("He grinned"), no snag. **Fix:** reconcile the KEEP/relocation + "faint early tremor" (`:19`) to as-drafted.
+- **[low]** `:25,80` — "hand on the green during comparison-fishing"; drafted green-contact is toenails at orgasm (`:97`). **Fix:** reconcile.
+- **[low]** `:31` — aftercare "blanket, smoothing her hair"; drafted is "hands flat and slow on her back" (`:105`). **Fix:** adjust.
+- **[low]** `:69` — stale VERIFY item ("stride breaking" callback) absent from draft → retire. Neuro (`:33`) already fixed; clean.
+
+### meta-note-fed.md — 4 (med 3, low 1)
+- **[med]** `:44,46` — quotes Randi's "…live vicariously through you" as "keep verbatim, the sharpest double-register line"; drafted dropped it → "Give me something to live on… I'm running on fumes" (`fed.md:15,25`). **Fix:** stale line-anchor — update or restore.
+- **[med]** `:50` — attributes to `toenails.md` "lifted out… clean as you lift a stitch"; drafted is "clean as… a ladle takes soup" (`toenails.md:21`). **Fix:** correct misquote.
+- **[med]** `:62` — the note/scene use the **named-catch** device (replacing the "bullshit look"), but the sibling **`satc-tracks:71` still says "the bullshit look"** → cross-doc supersession; note is current. **Fix:** reconcile `satc-tracks` rung-#4 to named-catch. [new finding on satc-tracks]
+- **[low]** `:64` — a labeled "candidate" catch line not realized verbatim; mechanism preserved — informational. Neuro: clean.
+
+### meta-note-old-acquaintances.md — 6 (high 2, med 3, low 1) — **pre-draft note; doctrine inverted**
+- **[high/high]** `:55,103,114` — the "*gorgeous* rule" is **inverted**: note says *gorgeous* is *withheld* when Randi's lying (reaching for "*angel*, not *gorgeous*"); the draft **spends** *gorgeous* as "the one true line she means" (`fairytale.md:143`; `old-acquaintances.md:31`). **Fix:** reframe — *gorgeous* is the truth breaking through the false gloss, not withheld.
+- **[high/high]** `:66` — tuned exchange ends "miss your face most though 💋" (no *gorgeous*) as a withheld-word tell; draft spends *gorgeous*. **Fix:** add *gorgeous*, retire the angel-not-gorgeous framing.
+- **[med]** `:3` — status "Vignette · **Unwritten**"; drafted (`chronology:212`). **Fix:** → Drafted. [stale-status class]
+- **[med]** `:42` — photo "borrowed from **Randi** (both seducers on her body)"; canon is **dorm** (`old-acquaintances.md:19`; `lesson.md:19`). **Fix:** → dorm; the "both seducers" reading is false.
+- **[med]** `:57,64,68,103` — a "**twelve-hour delay**" ("Randi can't be reached"); draft is near-real-time (Randi replies same night, `:27,29`). **Fix:** retire the delay.
+- **[low]** `:92` — stale "Fairytale in progress on a separate branch / sync at merge"; Fairytale is merged + already word-identical. **Fix:** drop branch/merge language.
+
+### meta-note-leave-no-trace.md — 8 (high 1, med 4, low 3) — **pre-draft note; scene drafted+reviewed**
+- **[high]** `:3,76` — "The scene is **unwritten**"; drafted + reviewed 2026-07-15 (`chronology:74`). **Fix:** → companion to drafted scene. [stale-status class]
+- **[med]** `:39` — silk-naming "must ride the walking, on the move"; drafted as a **seated summit** beat (`leave-no-trace.md:121-137`; flag 11). **Fix:** walking → seated summit.
+- **[med]** `:33` — care-food "sliced fruit"; drafted is **cherries** + the two cutting-voice defusion installs (blister; leave-nothing) the note omits (`:47-67`,`:107-117`). **Fix:** → cherries; add the defusion beats.
+- **[med]** `:18,39,65` — names the shade "**poured wine**"; resolved canon is **russet/brick-red** only (wine is Pace's Fitting variant) (flag 11; `:127`). **Fix:** → russet/brick-red.
+- **[med]** `:65` — Fitting payoff "he **matches her coloring**"; superseded — he **offers** a variant, Vee consents (flag 11; condensed). **Fix:** → offers-a-variant.
+- **[low]** `:9` — reading-order omits `{{What to Wear}}` between Rye and Two Towels. **Fix:** insert.
+- **[low]** `:35,64` — "no-tag **hiking shirt**"; drafted is a **gym-bag flannel** (`:169`). **Fix:** → gym-bag flannel.
+- **[low]** `:75` — "(To be drafted.)" but already on-page (`:11`). **Fix:** drop.
+
+### meta-note-grace.md — 12 (med 5, low 7) — **pre-draft note; scene drafted**
+- **[med]** `:3` — status "Scene · **Unwritten**" + forward-tense throughout; drafted (`chronology:330`). **Fix:** → Drafted. [stale-status class]
+- **[med]** `:140` — "daylight-blazon / plum / key-line **note-only, not yet threaded**"; all three are on the page (`grace.md:99,105,95`). **Fix:** remove the TODO.
+- **[med]** `:38` — opening-integration blocked pre-blazon; draft relocates it to a **cheval-mirror** set-piece ("Look at you… Tell me what you see", `grace.md:117-139`), unrecorded. **Fix:** update to the mirror-mediated version.
+- **[med]** `:49,136` — {{First Taste}} "~late spring" → **~early July** (`chronology:331`). **Fix.**
+- **[med]** `:32,53` — "the Fitting / anti-Fitting" chapter cross-ref → `{{A Round}}` (the measure-and-withdraw beat). **Fix:** brace.
+- **[low×7]** `:73,117` "another adventure" → "an adventure" (`grace.md:113`) · `:140` blindfold-propagation already done · `:66` key-guard already satisfied · `:71` shower-order compression (non-conflict) · `:15` a mirror facial-tell the note said to CUT is on the page (`grace.md:123`) — **flag: reveal-arming vs telegraph?** · `:11` "the only register he has / **can't answer in words**" is innate-deficit-adjacent — flag: frame as chosen grammar/vow, not incapacity · **`chronology:331` "ask" quote** ("Would you show me how you touch yourself?") is stale vs the drafted/note "Go ahead… Show me" — flag chronology straggler (note is current).
+
+**Phase-5 pattern (emerging): pre-draft notes never reconciled to their drafted scenes** — stale "unwritten/prose-not-drafted" status (`my-friend-randi:3`, `old-acquaintances:3`, `leave-no-trace:3`) + superseded directives/quotes. A batch of these want a reconcile-to-the-drafted-scene pass, not just currency.
+
 ### meta-rules.md (master self-consistency)
 _status: pending_
 
