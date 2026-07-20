@@ -114,7 +114,7 @@ He took a drink of tea, though it must have gone nearly cold. "I took the SAT fo
 
 "That's worse."
 
-His mouth moved, not quite a smile, because he was too literal not to first check whether she meant it, and too used to her by now to think she did.  
+His mouth moved, not quite a smile, because he was too precise not to first check whether she meant it, and too used to her by now to think she did.  
 
 "And you wanted to go?"
 

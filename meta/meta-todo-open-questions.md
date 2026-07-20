@@ -285,7 +285,7 @@ flannel, so this is a sanity pass, not a retcon.
 
 -----
 
-## 31. Scene-side prose staleness — surfaced in the currency audit (PROSE — author's call)
+## 31. Scene-side prose staleness — surfaced in the currency audit (PROSE) — 2 of 3 applied 2026-07-20; only `still-life:3` remains (author to re-key the December frame to late January)
 
 Three drafted-scene prose lines drifted from current canon; flagged during the
 Phase-5 currency audit but **not edited** (the audit does not touch scene prose).
@@ -299,8 +299,8 @@ Each is the author's call (full grounding in `meta-audit-currency.md`, Phase 5):
 - **`scenes/see-you-later.md:33`** — *"Randi had dressed for a Monday-morning
   stats lecture,"* but the scene sits ~**Wednesday** (morning after
   `{{The Pointing Game}}`; stats is MWF, so "See you Friday" needs today = Wed).
-  Monday → the correct weekday.
+  Monday → the correct weekday. **✓ DONE 2026-07-20 (Monday → Wednesday).**
 - **`scenes/rock.md:117`** — *"…because he was too literal not to first check
   whether she meant it."* "too literal" reads as an innate trait; under current
   canon Pace is **neurotypical** and the not-declaring is choice/care (chivalric
-  grammar + vow), not innate literal-mindedness. Re-cast as precision/care.
+  grammar + vow), not innate literal-mindedness. Re-cast as precision/care. **✓ DONE 2026-07-20 (too literal → too precise).**
