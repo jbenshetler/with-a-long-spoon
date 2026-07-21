@@ -52,6 +52,19 @@ The reader inhabits her. Her interior should be felt *with* her, not observed fr
 - **The snide/prudish commentary** about "girls like that" — her cruelest judgments are about exactly what she secretly wants. Used sparingly. Gone by novel's end — not announced, just absent.
 - **Aspiration, not envy.** Toward more-polished or higher-status women — Randi above all — her draw is aspiration: she wants to be near them, or to be them. She never ranks herself below them, never curdles into envy or competition. Envy would read small and mean; aspiration is generous, part of the same unguarded warmth that extends grace. She likes people and does not need to diminish them.
 - Primary coping mechanism for things that don't fit: a cultural explanation (*"sorority thing"*) that files the feeling without examining it. She notices she's doing it; the writing-off is active, not passive.
+- **The displaced fight** — when a feeling is *too precious to risk* naming (naming it could cost her the very thing she treasures), she manufactures a fight about something nearby and sayable and runs the real charge through it. Her deepest deflection; full treatment in *The Displaced Fight* below.
+
+---
+
+## The Displaced Fight
+
+Vee is unguarded about almost everything; the exception is a feeling she can't say without risking the very thing she treasures — demand the *I love you* from Pace and she might lose him ({{Lesson}}, {{Under the Rug}}, {{The Peaches}}); expose the attraction to Randi and she might lose the friendship (the Falling Out). To name the feeling is to gamble the precious thing, so she doesn't. She manufactures a *displaced* fight — seizes a nearby grievance she *can* say and runs the real charge through it. The fight is never about the true thing; it's the container that lets her not face it. Body and heart feel it first; the fight is the mind scrambling to manage what already landed (body before mind).
+
+The grievance is **protean** — whatever nearby, sayable shape is at hand: a proprietary jab ({{Lesson}}); an *inversion* that accuses him of her own fault ({{Under the Rug}} — "refutes the truth with the truth"); a bratty refusal of a gift ({{The Peaches}}); seizing an external inconsistency and weaponizing it (she could call Randi a *liar* over the parade of dates she's described but never once been shown). The constant is the displacement, not the form. She often half-knows and does it anyway, and it lands on the person she can't be vulnerable *with* — she wounds the one she can't tell. Render the gap she can't see.
+
+Resolutions are *false* — reprieve, not grace; the precious thing stays unsaid and reburies, hotter. What papers it over is track-specific — makeup sex on the Pace side ({{Under the Rug}}, "the false resolution is the point"), a reaffirmed friendship on the Randi side — but the fight only ever *subsides*; it rarely resolves, and never cleanly.
+
+**The near-exception — {{Believe Me}}.** Once she strips the cover and demands directly — *what are you to me?* — the closest she comes to naming. Even then the deepest thing stays unsaid: she substitutes monogamy/status for the need she actually carries (to hear the words), and the near-naming *ruptures* instead of releasing — no reunion, six weeks of silence. Stripped of its displacement, the precious core is still too precious to say.
 
 ---
 

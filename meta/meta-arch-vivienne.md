@@ -64,9 +64,9 @@ Family surface for {{Rock}}/backstory: Vee is from **Ohio**. Her parents grew up
 
 ## The Two Registers — Exposure and Evaluation
 
-**Exposure** = her excitement. Admitting things, being seen responding, being told what to do. Pace only ever does this.
+**Exposure** = her excitement. Admitting things, being seen responding, being told what to do, being drawn out and caught wanting. The register she *enjoys*, and **both Pace and Randi work in it** — Pace directly and tenderly (beaming at her body's answer); Randi verbally at the table (the extraction — *"the lunch undid me"*) and physically (engineering her involuntary display, as in {{On Her Floor}}). She craves it from both.
 
-**Evaluation** = her wound. Being found wanting, compared, judged. Randi ultimately does this — it triggers the falling out; it is the register the reveal detonates in.
+**Evaluation** = her wound. Being found wanting, compared, judged — *seen and coming up short*, not merely seen. The register she *fears*: the dark twin of exposure, the same act of being seen but landing as a verdict instead of a thrill. Grounded in real nerves (class, her body). **It is not attributed to either Pace or Randi — neither finds her wanting** (Pace stays in exposure; Randi loves Vee and holds herself the lesser). It names what Vee dreads, not anything the two intimates actually do to her.
 
 The BDSM triangle: Pace is B/D (architecture, rules, the framework inside which transgression is made possible). Randi is S (takes pleasure in the suffering the control produces). Vee is M (the arousal-humiliation loop; extraordinarily responsive; extraordinarily skilled at receiving). The three registers are not interchangeable. The threesome works structurally because all three are present simultaneously.
 
