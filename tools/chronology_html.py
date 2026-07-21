@@ -665,6 +665,14 @@ READER_CSS = """
   #reader-body { max-width:68ch; margin:0 auto; padding:88px 24px 40vh;
     font-size:18px; line-height:1.75; }
   #reader-body p { margin:0 0 1.15em; }
+  /* line-number gutter: shows each block's source .md line (the same value :N
+     jumps to). Toggled by adding/removing .lnum on the body, so it survives the
+     search re-render (the class lives on the container, not the blocks). */
+  #reader-body.lnum [data-line] { position:relative; }
+  #reader-body.lnum [data-line]::before {
+    content: attr(data-line); position:absolute; left:-3.7em; top:.15em;
+    width:3em; text-align:right; font:12px/1.6 ui-monospace,Menlo,Consolas,monospace;
+    color:var(--mut); opacity:.5; user-select:none; pointer-events:none; }
   #reader-body h1 { font-size:26px; margin:0 0 .7em; }
   #reader-body h2 { font-size:22px; margin:1.3em 0 .5em; }
   #reader-body h3 { font-size:19px; margin:1.3em 0 .5em; color:var(--mut); }
@@ -712,6 +720,10 @@ READER_JS = r"""
   var savedScroll = 0, mode = 'normal', cmdType = '', buffer = '';
   var marks = [], curMatch = -1, src = '';
   var scrollMem = {}, curSlug = null;   // per-scene reading position, by slug
+  var lnum = true;   // line-number gutter on by default; ':n' toggles it
+
+  function applyLnum(){ body.classList.toggle('lnum', lnum); }
+  function toggleLnum(){ lnum = !lnum; applyLnum(); }
 
   function escHtml(s){ return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
   function inline(s){
@@ -747,6 +759,7 @@ READER_JS = r"""
     src = el.textContent;
     titleEl.textContent = el.getAttribute('data-title') || '';
     body.innerHTML = renderMarkdown(src);
+    applyLnum();
     marks = []; curMatch = -1; buffer = ''; mode = 'normal'; hideCmd();
     reader.hidden = false; reader.setAttribute('aria-hidden','false');
     document.body.style.overflow = 'hidden';
@@ -768,7 +781,8 @@ READER_JS = r"""
 
   function showCmd(type){
     mode = 'cmd'; cmdType = type; buffer = '';
-    cmdPrefix.textContent = type; cmdBuf.textContent = ''; cmdInfo.textContent = '';
+    cmdPrefix.textContent = type; cmdBuf.textContent = '';
+    cmdInfo.textContent = type === ':' ? 'number → line · n → line numbers' : '';
     cmd.classList.add('on');
   }
   function hideCmd(){ cmd.classList.remove('on'); if (mode === 'cmd') mode = 'normal'; }
@@ -828,7 +842,10 @@ READER_JS = r"""
       if (e.key === 'Escape'){ e.preventDefault(); hideCmd(); return; }
       if (e.key === 'Enter'){
         e.preventDefault();
-        if (cmdType === ':') gotoLine(parseInt(buffer, 10));
+        if (cmdType === ':'){
+          if (/^n$/i.test(buffer)) toggleLnum();   // ':n' toggles the gutter
+          else gotoLine(parseInt(buffer, 10));      // ':N' jumps to source line N
+        }
         hideCmd(); return;
       }
       if (e.key === 'Backspace'){
@@ -838,7 +855,7 @@ READER_JS = r"""
         return;
       }
       if (e.key.length === 1 && !e.ctrlKey && !e.metaKey && !e.altKey){
-        if (cmdType === ':' && !/[0-9]/.test(e.key)){ e.preventDefault(); return; }
+        if (cmdType === ':' && !/[0-9n]/i.test(e.key)){ e.preventDefault(); return; }
         e.preventDefault();
         buffer += e.key; cmdBuf.textContent = buffer;
         if (cmdType === '/') search(buffer);

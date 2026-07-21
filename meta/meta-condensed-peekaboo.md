@@ -1,6 +1,6 @@
 # Condensed — Peekaboo
 
-*SCENE · Draft complete (`scenes/peekaboo.md`) · mid-week, ~1.5 weeks after the fitting*
+*SCENE · Draft complete (`scenes/peekaboo.md`) · mid-week, ~1.5 weeks after the fitting · craft/why: `meta-note-peekaboo.md`*
 
 ## Shape
 
@@ -16,7 +16,7 @@ He was up all night finishing it (revealed only in the coda). At the door, the u
 
 ## The try-on — two risers
 
-She strips to bare (no bra — built for it), the silk slithers over her, a shimmy past the hips; the lining felt against her skin first (modesty recognition). At the mirror, **riser one**: the bias and the low chest — *floozy* flares, but she stays and *likes* it. (She knows she's a knockout; the shame is of her own sexiness, not insecurity — never an ugly-duckling arc.) **Riser two**: a step opens the hip-high slit on her bare leg — shame crossing straight into heat with no seam. She sees the slit shows her underwear; in a surge of bravery she slides it off and **strides** to him, bare under the gown, to show him — her first initiation. He proceeds, tender; cut at the threshold.
+She strips to bare (no bra — built for it), the silk slithers over her, a shimmy past the hips; her skin knows the *fit* before her head does — cut to her shape and no one else's (individuation) — then the doubled lining as a second, quieter discovery (modesty recognition). At the mirror, **riser one**: the bias and the low chest — *floozy* flares, but she stays and *likes* it. (She knows she's a knockout; the shame is of her own sexiness, not insecurity — never an ugly-duckling arc.) **Riser two**: a step opens the hip-high slit on her bare leg — shame crossing straight into heat with no seam. She sees the slit shows her underwear; in a surge of bravery she slides it off and **strides** to him, bare under the gown, to show him — her first initiation. He proceeds, tender; cut at the threshold.
 
 **Fresh shame occasion:** not her body's involuntary tells — her own deliberate act, owned as heat. He teaches her to work *with* the shame (that it's heat), never to shed it.
 
