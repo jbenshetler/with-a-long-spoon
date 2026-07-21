@@ -6,7 +6,7 @@ He opened the door, and for a second neither of them was sure how to do it — t
 
 And then it wasn't a hug. His face was in her hair, and then it wasn't in her hair, and she turned her mouth up and found his, and under the circumstances it was never going to stay gentle. It didn't. His hand slid up into the hair at the back of her head; she got a fistful of his shirt at the small of his back and pulled, and the kiss went deep and warm and certain, the door not even shut, both of them already most of the way to somewhere —
 
-And he broke it. Stepped back half a step, grinning. Not sly, not holding a thing over her — *grinning,* helpless with it, the way a kid grins when he can't keep a surprise in his mouth one more second, his eyes already going past her to the thing he'd made and couldn't wait another minute for her to see. He didn't say anything. He took her hand, still smiling like that, and pulled.
+And he broke it. Stepped back half a step. Not sly, not holding a thing over her — *grinning,* helpless with it, the way a kid can't keep a surprise in his mouth one more second, his eyes already going past her to the thing he'd made and couldn't wait another minute for her to see. He didn't say anything, only took her hand and pulled.
 
 Her body had assumed left, toward the bedroom. He didn't go left. He drew her the other way, through the den and into the sun porch at the back — the room where he'd fitted her, the room that was mostly windows — and the light reached her first, the whole gold afternoon, and then in the middle of the light —
 
@@ -28,19 +28,21 @@ She didn't ask him to leave, and he didn't make anything of going — a touch on
 
 She undressed where she stood — her own dress up over her head and folded onto the chair, then the bra, because she'd known since the fitting he'd built this to be worn bare. She lifted the gown off the hanger, heavier than it looked, stepped up onto the pedestal, and brought it down over her head.
 
-It came down her like water finding its level — cool against her bare skin for half a second and then warm, taking her own heat back, sliding the length of her and finding her shape on the way. At her hips it caught the way good cloth does and water doesn't, and she worked it down with a low shimmy, both hands smoothing it over herself until it dropped the last inch and settled and was on. And it lay flat to her everywhere at once. That was what her skin knew before her head did: no slack standing off the waist, none of the give she'd worn her whole life without once naming it. Everything she'd ever worn had been cut for no one in particular, for whatever shape a table had decided a body like hers came in. This one had been cut to the actual shape of her, and to no one else's. Under the burgundy, where it lay against her, there was a second softness — a doubled, quiet weight through the bodice and over the hips, oyster-pale where it showed at all. He'd lined it, there and nowhere else: a soft wall set into the only parts of her the dress had decided not to give away.
+It came down her like water finding its level — cool against her bare skin for half a second and then warm with her own heat, sliding the length of her and taking her shape on the way. At her hips it caught the way good cloth does and water doesn't, and she worked it down with a low shimmy, both hands smoothing it over herself until it dropped the last inch and settled. And it lay flat to her everywhere at once. That was what her skin knew before her head did: no slack standing off the waist, none of the give she'd worn her whole life without once naming it. Everything she'd ever worn had been cut for no one in particular. This one had been cut to the actual shape of her, and to no one else's.
+
+Under the burgundy there was a second softness, a doubled, quiet weight through the bodice and over the hips, oyster-pale where it showed at all. He'd lined it, there and nowhere else: a soft wall set into the only parts of her the dress had decided not to give away.
 
 Her hand found the closure at her side. Almost nothing to do — it drew up and caught and sat, like it had been waiting.
 
 She turned to the mirror.
 
-The bias took her waist and drew it long; the neckline crossed and dipped and set her chest out frank in the gold light. All of her was there, gathered up and set out like it had nothing to apologize for. *Floozy.* The word flared up automatic and her face went hot — and she stayed anyway, made herself look, and somewhere behind her ribs the looking stopped being shame. She looked expensive. She looked like a still out of an old film, a beauty that had never been in fashion because it had never been out. She looked like a lot of woman who knew exactly how much she was. She was grinning before she'd decided to, wet-eyed all over again.
+The bias took her waist and drew it long; the neckline crossed and dipped and set her chest out frank in the gold light. All of her was there, gathered up and set out like it had nothing to apologize for. *Floozy.* The word flared up automatic and her face went hot — and she stayed anyway, made herself look, and somewhere behind her ribs the looking stopped being shame. She looked expensive. She looked like a still out of an old film, a beauty that had never been in fashion because it had never been out. She looked like a lot of woman who knew exactly how much she was. She was smiling before she'd decided to, wet-eyed all over again.
 
-The hem pooled at her feet; the dress wanted a height she wasn't giving it, and more of one than she owned. She thought of the pumps at the back of her closet, the sensible pair that went with everything, the leather gone soft and the heels worn low, nowhere near tall enough for this and wrong even if they had been. On this they'd have read like an apology, and this wasn't a dress you apologized for. She rose onto her toes instead, as high as she had, and watched the line finish itself, and smiled at the woman that made, and came back down, because the shoes this called for weren't anything she owned, and that woman could wait.
+The hem pooled at her feet; the dress wanted a height she wasn't giving it, and more of one than she owned. She thought of the pumps at the back of her closet, the sensible pair that went with everything, the leather gone soft and the heels worn low, nowhere near tall enough for this and wrong even if they had been. On this they'd have read like an apology, and this wasn't a dress you apologized for. She rose onto her toes instead, as high as she had, and watched the line finish itself, and grinned at the woman that made, and came back down, because the shoes this called for weren't anything she owned, and that woman could wait.
 
 Then she turned to see herself from the side, and took a step —
 
-and the slit came open all the way up. To the hip. The silk parted and gave her whole leg to the room, calf to the jut of her hip, and fell shut when her feet came together. The breath went out of her, and the heat came up to take its place, low and certain, her body answering the glass before her head could —
+And the slit came open all the way up. To the hip. The silk parted and gave her whole leg to the room, calf to the jut of her hip, and fell shut when her feet came together. The breath went out of her, and the heat came up to take its place, low and certain, her body answering the glass before her head could —
 
 And there, where the slit had opened, was the pale edge of her underwear, cutting across the long line the dress had made of her.
 
@@ -50,7 +52,7 @@ And then she walked to him. Not the careful walk — she strode, the slit swingi
 
 He hadn't gone far — too pleased to, she'd known he wouldn't — and when she came through in it the grin went off his face into something quieter, harder to look at and impossible to look away from.
 
-She crossed to him and took his face in both her hands and kissed him, the dress falling open along her thigh against him. He made a low sound against her mouth, and his hands came to her waist, to the dress, to the place he'd measured it to — and after that there was nothing left for either of them to decide.
+She crossed to him and took his face in both her hands and kissed him, and hooked the bared leg up around him and pulled him in, the slit falling all the way open along her. He made a low sound against her mouth, and his hands went to her, one to her waist, to the dress, to the place he'd measured it to, the other under her bare thigh. And after that there was nothing left for either of them to decide.
 
 ---
 
