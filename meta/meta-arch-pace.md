@@ -34,6 +34,8 @@ He had available honorable exits he did not take. Disclosure, refusal, harder qu
 
 **First love — the formative wound (the age-fifteen heartbreak; facts in the Bible’s love-wound passage and `meta-note-first-love.md`).** She left for no cause he could name, and being the powerless one — the younger, a minor with no say in its ending and no way to see it coming — is the root of the man who now plans everything and is never surprised. Produced the long-range planner: he will figure out what relationships actually run on. The threesome plan is the latest iteration of an apparatus he has been refining ever since. Distinct from the later coded-channel relationship, which compounds the lesson but did not form him.
 
+**The offset — accelerated out of the friendship window.** College at fifteen, a graduate student at eighteen while his age-peers arrived as freshmen; the patent as a Master's student; the house while they took freshman English. Male friendship forms in adolescence, side-by-side, among age-peers — exactly the years he spent as a socially slow fifteen-year-old among twenty-year-olds (odd for the intelligence, closed for the home), and by the time his age-peers reached him institutionally he had a patent, a house, and a finished childhood they hadn't started. Men bond through competing; he breaks the channel twice — too young to be worth beating during the window, then unfun to compete with in every domain he enters — and his chosen domains carry no male rivalry lane at all (partnered dance, the bar-as-dance-space, lifting against the iron, solitary mathematics and wood). Friendly-with many, friends-with one: Sheri, formed in his own format with the erotic channel closed (`meta-arch-sheri.md`). The same offset structured his intimacy: lovers older or at other institutional stages, few and durational — the appetite's logistics require trust and a staircase — their exits on schedules his never matched; Vee and Randi are his first age-peer intimacies. Never explained on the page — the facts may surface in dialogue ({{Excavations}}; the guy-friends question); the analysis never. No names, no inventory.
+
 **Fantasy refuge — sword and sorcery.** The chivalric frame from years of constructing imagined courtships gave his method its grammar. He learned to see women by practicing seeing women he invented.
 
 The damage is fully metabolized into discipline, defensiveness, and the chivalric kink. He is not acting out. He is acting *from.*
@@ -154,7 +156,7 @@ It is strictly domain-limited. Where the stake *is* sex or love the deference va
 
 ## The Vow Against Premature Declaration
 
-Separate from the chivalric grammar; operating below it; older; from the mother.
+Separate from the chivalric grammar; operating below it; older. The mother supplied the materials; the first love supplied the seal — he overrode the caution once, said the words, heard them back, and it still broke (`meta-note-first-love.md`).
 
 *I will not declare love until I am certain, because to declare what I cannot guarantee is to break what declaration is for.*
 
@@ -168,7 +170,7 @@ The vow gives him his story afterward. *I was being careful. She did not wait. S
 
 Pace's privacy with Vee runs on two registers, and the prose must hold both.
 
-**Register one — constitutional, not concealment.** He was already a man who lived privately; the reticence is constitutional comfort, not hiding. What he gives Vee is the most intimate access he gives anyone; she experiences it as being kept outside. Both are true. The gap is a wound that does not resolve. This register is not a moral failing.
+**Register one — constitutional, not concealment.** He was already a man who lived privately; the reticence is constitutional comfort, not hiding. What he gives Vee is the most intimate access he gives anyone; she experiences it as being kept outside. Both are true. The gap gets a real spring answer in deed ({{Among Friends}}, {{Another Round}}, {{The Burn}}) — his world proves *small*, not walled; what stays concealed is not a circle of men but Randi — and the private word stays unsaid: the wound narrows without resolving. This register is not a moral failing.
 
 **Register two — situational fear, deployed via self-control.** In declaration-adjacent moments — when Vee is asking for or moving toward *I love you* — the privacy stops being constitutional comfort and becomes small ordinary fear of commitment, held shut by the same self-control he runs everywhere else. The porch scene is the worked example: he understands what she is offering, routes it down a register his apparatus can operate, and protects himself from declaring back. This register *is* a small moral failing.
 

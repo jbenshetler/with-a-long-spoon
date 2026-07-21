@@ -1,6 +1,6 @@
 # Sheri — Architecture
 
-*Deep character doc for Sheri, Pace's friend. For her place among the secondary cast, see `meta-arch-bible.md` (quick-ref). For Pace's side of the friendship — the bike format, the CW bar, the neuro reasons the friendship works — see `meta-arch-pace.md`. To verify a draft, run `meta-rules.md`.*
+*Deep character doc for Sheri, Pace's friend. For her place among the secondary cast, see `meta-arch-bible.md` (quick-ref). For Pace's side of the friendship — the bike format, the CW bar, the format reasons the friendship works — see `meta-arch-pace.md`. To verify a draft, run `meta-rules.md`.*
 
 ---
 
@@ -59,7 +59,7 @@ Out about a year (the coming-out that triggered the disowning; see Backstory). B
 
 ## Origin
 
-Friends from the **CW bar.** The thing that made the friendship possible was the **sexual disarming:** she could trust him to **dance with her and not hit on her.** Pace dances a lot and rarely dates from it — **the dancing is the point, not the prelude** — which is exactly the quality that let Sheri be near him safely. (For Pace, the CW bar is one of the few social formats that works neurologically: defined role, mapped interactions. Their friendship lives at the intersection of his two cost-free formats — dancing and, later, cycling.)
+Friends from the **CW bar.** The thing that made the friendship possible was the **sexual disarming:** she could trust him to **dance with her and not hit on her.** Pace dances a lot and rarely dates from it — **the dancing is the point, not the prelude** — which is exactly the quality that let Sheri be near him safely. They'd been dance friends for a semester when she came out. (For Pace, the CW bar is one of the few social formats that costs him nothing: defined role, mapped interactions. Their friendship lives at the intersection of his two cost-free formats — dancing and, later, cycling.)
 
 ---
 
@@ -67,7 +67,7 @@ Friends from the **CW bar.** The thing that made the friendship possible was the
 
 **The *why* under her loyalty — author-knowledge that shapes rendering. The disowning *story* reaches the page exactly once.** It surfaces only when Sheri tells Vee over drinks in `Another Round` (Vee POV; `meta-condensed-another-round.md` · `meta-note-another-round.md`), and only ever in **Sheri's own dry, no-self-pity register**, the weight on Pace's constancy rather than her pain. No flashback, no self-dramatizing telling-scene; everywhere but that one recounting it stays the unspoken thing under how Pace's past-kindness and her present-loyalty render. **The bare *fact* of estrangement, though, may be glanced earlier as a plant** — e.g. `The Usual` (~late Dec), where Sheri mentions she isn't in contact with her family, framed in her no-self-pity register (*"me not talking to my people,"* never the cause) — which primes the {{Another Round}} telling to land as payoff rather than cold exposition. Plant the fact; reserve the story.
 
-Last year she came out. **Church friends, brother (Marine), father (retired Marine), and mother all disowned her** — every inherited bond withdrawing at once. Every relationship built to hold a person failed to hold her, simultaneously.
+Last year she came out. **Church friends, her Campus Crusade for Christ circle, brother (Marine), father (retired Marine), and mother all disowned her** — every inherited bond withdrawing at once. Every relationship built to hold a person failed to hold her, simultaneously.
 
 **Pace's response is the load-bearing detail.** He **didn't change how he treated her.** He did **not** reach for cheap consolation — no *they'll come around,* no *their loss* — because he could see that consolation **would insult the size of what she lost.** What he did instead: **spent time, listened to her cry, bought her bacon cheeseburgers after cycling.** The true gesture chosen over the expected one. (This is the chivalric grammar operating *correctly* in a register where it costs nothing and harms no one — a clean instance of the same machinery that destroys Vee, here simply being good. Useful as contrast; do not annotate it as such on the page.)
 

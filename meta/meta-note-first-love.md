@@ -1,6 +1,6 @@
 # Notes — The First Love (and the Telling)
 
-*Holds two things: the backstory canon of Pace's first relationship, and the craft intent for the one scene where he tells Vee about it. Pairs with `meta-note-scar-reveal.md` — its sibling confession — and with the love-wound architecture in `meta-arch-bible.md` / `meta-arch-pace.md`, which this note revises (see **Rule changes** below).*
+*Holds two things: the backstory canon of Pace's first relationship, and the craft intent for the telling — which lives as the final movement of {{Excavations}} (scene design: `meta-note-excavations.md`). Pairs with `meta-note-scar-reveal.md` — its sibling confession — and with the love-wound architecture in `meta-arch-bible.md` / `meta-arch-pace.md`, which this note revises (see **Rule changes** below).*
 
 ---
 
@@ -8,7 +8,7 @@
 
 Pace has two relationships behind him; the architecture had fused them. They are distinct, and the distinction is load-bearing.
 
-- **First — the love-wound.** He enters college at 15: a genius, already stunted (abusive father, currency-love mother), and now a minor alone on a campus. A 19-year-old. It lasts a couple of years. **She leaves for ordinary reasons** — she's twenty-one and moving on; the gap that held at 19/15 doesn't at 21/17. He is devastated. This is the deepest wound and the one where he broke his silence, said the words, and was destroyed — the empirical "proof" the vow rests on.
+- **First — the love-wound.** He enters college at 15: a genius, already stunted (abusive father, currency-love mother), and now a minor alone on a campus. A 19-year-old — she began as his tutor. It lasts **two years** (canon): dorm-room leisure that trained a precocious, unhurried lover — the origin of the grammar (patience, attention, a body learned over time). **She leaves for ordinary reasons** — she's twenty-one and moving on; the gap that held at 19/15 doesn't at 21/17, and she turns twenty-one into a world of bars and adult rooms he legally can't enter for four more years. The world's age-gates take her; no one's fault. He is devastated — basically alone except for her for two years, and then not. This is the deepest wound and the one where he broke his silence, said the words — she said them back — and it still broke: the empirical "proof" the vow rests on.
 - **Second — the coded-channel device.** The girlfriend an hour away, weekends only, the transfer question (*"What do you think of me transferring here?"* → he answers the fact). Later, shallower, a *different* blindness: he doesn't decode a bid routed through a proxy. Unchanged; stays as `meta-arch-bible.md` / `meta-arch-pace.md` have it.
 
 **"Normal reasons" is the guard.** The girl does nothing wrong — no betrayal, no villainy. The wound is purely his over-reading of an ordinary loss. A girl who wronged him would let him off; the point is that nothing was done *to* him and he was still leveled, and that he could never name a cause. That blankness is the same one he'll reach for about Vee (*she left, no reason I could name*).
@@ -17,9 +17,9 @@ Pace has two relationships behind him; the architecture had fused them. They are
 
 It makes him **the powerless one** — the younger, the minor, the boy with no say in its ending and no way to see it coming. That is the root of the adult who plans everything, provisions everything, is never surprised: *never be the one who doesn't see it coming.* The bench, the checklist, the four shirts. So the heartbreak is not only sympathy — it explains the apparatus that hurts Vee. Sympathy and indictment, one root.
 
-## The telling (the scene)
+## The telling (the final movement of {{Excavations}})
 
-Late summer — after {{The Peaches}}, the last Pace/Vee two-hander before the threesome — Vee POV close third (his read stays unrendered — standard). Pace tells her, in his own voice, about the first relationship.
+Late summer — after {{The Peaches}}, the last Pace/Vee two-hander before the threesome — Vee POV close third (his read stays unrendered — standard). **Her excavation triggers it:** the pattern answers, the prophecy, *"Once."*, the silence where his whole history says sealed — and then he opens it; the reader watches him choose to hand her the realest thing he has. (Scene-level design: `meta-note-excavations.md`.) Pace tells her, in his own voice, about the first relationship.
 
 - **The heartbreak is visible; the vow is never named.** He tells what happened, not the conclusion he drew from it. The reader who has the architecture feels the vow light up by resonance; no one says it. This is what keeps "never explain" intact while putting the wound *out there for the reader.*
 - **Voice: contained, but the sadness shows — and Vee reads it.** This is *not* the scar's register (`meta-note-scar-reveal.md`). Both wounds are unhealed; they present differently. The scar he's **walled off** — buried, never worked through, scar tissue over something still infected — so it comes out flat, sealed too deep to feel. The first love is a grief he can let *leak*: a sayable kind of pain, so it shows even as he holds it, and she catches what he's holding. **The containment is the tell, not an absence of feeling.** He still doesn't narrate his own pathos or frame himself as the boy-genius-minor — he tells it plain and undersells it, and **Vee (and the reader) do the math** on how young and alone he was; the contained sadness does the rest. Not a performance, no weeping — held, not spilled — but the pain is *visible*, and that visibility is essential, not optional.
@@ -44,4 +44,5 @@ The scar origin (`meta-note-scar-reveal.md`) is the sibling confession, but the 
 - `meta-arch-bible.md` — the love-wound (three-source convergence); the vow; "real AND instrumental, never resolved."
 - `meta-arch-pace.md` — first love as formative wound / origin of the long-range planner; the after-she-leaves reckoning (the grammar that can't revise itself).
 - `meta-note-scar-reveal.md` — sibling confession (the scar, spring); the temperature-contrast guard.
-- `meta-plan-chronology.md` — **The First Love** (~late July / early August, after {{The Peaches}}, before the threesome).
+- `meta-plan-chronology.md` — **{{Excavations}}** (~late July / early August, after {{The Peaches}}, before the threesome).
+- `meta-note-excavations.md` — the scene that carries the telling (her probe, the prophecy, "Once.", the opening).
