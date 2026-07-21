@@ -9,7 +9,7 @@
 Two docs, authoritative together; where a rule appears in both they must agree:
 
 - `meta/meta-rules.md` — the Character Rules verification checklist (Vee / Pace / Randi / cross-cutting / writing-style / scene-details).
-- `meta/meta-arch-bible.md` §**GLOBAL CRAFT RULES** + §**v6/v7 Craft Rules** + §**Running threads to seed** (lines ~325–381).
+- `meta/meta-arch-bible.md` §**GLOBAL CRAFT RULES** + §**Craft Rules** + §**Running threads to seed** (lines ~325–381).
 
 ## How to restart
 

@@ -46,7 +46,7 @@ depend on typing the first love.
 ## 3. `summary.md` Document Map — dead links + omissions (CLEANUP)
 
 The Document Map still lists two files that are not in the repo:
-`parallel_scene_map.md` *(Session 4)* and `scenes_inventory.md` *(earlier)*. It also
+`parallel_scene_map.md` and `scenes_inventory.md`. It also
 omits the three character-architecture docs, `meta-thesis.md`, and
 `meta-plan-chronology.md` entirely. Left untouched this pass (deleting references to
 historical docs is an authorial call). Recommend a full Document-Map refresh.
@@ -106,9 +106,9 @@ Mid-novel beat added: Vee speaks the cracker-and-meal figure as her displacement
 
 ## 9. Porch scene draft (REVISION DONE — see porch-scene.md)
 
-First-pass draft was captured in `porch-scene.md`; v6/v7 revision pass complete. The revisions installed:
+First-pass draft was captured in `porch-scene.md`. The revisions installed:
 
-- **Pace's response reframed as sincere within his grammar.** Not evasion the prose silently codes as evasion; *he is declaring through his grammar.* The verbal smallness is what his grammar permits with the vow holding; the bodily presence (closer pull, longer kiss with cheek-settling) is the substantive declaration. For a reader with the v6 architecture available, the bodily layer reads as substantive declaration; the verbal smallness reads as the constraint of the vow.
+- **Pace's response reframed as sincere within his grammar.** Not evasion the prose silently codes as evasion; *he is declaring through his grammar.* The verbal smallness is what his grammar permits with the vow holding; the bodily presence (closer pull, longer kiss with cheek-settling) is the substantive declaration. For a reader with the architecture available, the bodily layer reads as substantive declaration; the verbal smallness reads as the constraint of the vow.
 
 - **Three sources of his discomfort, physically rendered.** Added: his hand pressed once and stopped, as if he had begun two different responses and put both down; he took a second breath after the first; the small specific quality of him assembling something he meant rather than producing something easy. The reader senses more than one pressure (choice-become-habit substrate; spirit-vs-letter; wanting-vs-vow-holding) without any of them surfacing in Pace's consciousness or in the prose's vocabulary.
 
@@ -116,7 +116,7 @@ First-pass draft was captured in `porch-scene.md`; v6/v7 revision pass complete.
 
 - **Later passage compressed.** The bus-replay was shortened from extended ambiguity-walking to a single beat (the *not the same shape* form she will let into herself without finishing the thought). The not-knowing's slow body-surfacing remains; the index-after-the-fact thesis-feel is reduced.
 
-- **Header and craft notes updated** to reflect v6/v7 revision. Craft notes now articulate: Pace's response as sincere within his grammar (not evasion); the three physical signals of pressure; the vow as silent constraint; the reader's access to substrate via prior scenes (the scene does not install architecture; it relies on it); the not-finally-the-lady precursor function preserved without signaling.
+- **Header and craft notes** articulate: Pace's response as sincere within his grammar (not evasion); the three physical signals of pressure; the vow as silent constraint; the reader's access to substrate via prior scenes (the scene does not install architecture; it relies on it); the not-finally-the-lady precursor function preserved without signaling.
 
 The scene's success depends on what is on the page before it (the fitting, the four shirts, the chivalric grammar in earlier scenes establishing the deeds-not-words principle). The revision does not try to do that work in this scene. The figure does not return in the novel.
 
@@ -134,7 +134,7 @@ Across all prose: the chiastic structure between the two women's transformations
 
 -----
 
-# v7 Thesis Update — Items Surfaced
+# Thesis Update — Items Surfaced
 
 ## 12. Fourth-category section installed in thesis (DONE — see meta-thesis.md)
 
@@ -150,7 +150,7 @@ Across all prose: the structural reshaping in the substrate happens fast, at the
 
 ## 15. The "given full range" phrase clarified in thesis (DONE — see meta-thesis.md)
 
-The central claim's *given full range* is now supplemented with *when permitted to operate at the depth and across the duration their internal logic requires for the appetite to be itself.* This blocks the moderation-reading. The phrase appears in other documents in less-supplemented form; light revision to those documents to align with the v7 framing is a low-priority TODO. *In context, the existing uses are correct; the supplementation in the central claim provides the unambiguous reading.*
+The central claim's *given full range* is now supplemented with *when permitted to operate at the depth and across the duration their internal logic requires for the appetite to be itself.* This blocks the moderation-reading. The phrase appears in other documents in less-supplemented form; light revision to those documents to align with the supplemented framing is a low-priority TODO. *In context, the existing uses are correct; the supplementation in the central claim provides the unambiguous reading.*
 
 ## 16. Goods of the configuration are real, in real time (CRAFT RULE)
 
@@ -160,15 +160,7 @@ Across all prose: the friendship Vee values above all others is genuinely the be
 
 Across all prose: multi-party operations with asymmetric information distribute the agency of harm across the configuration's structure. *Vee, in good faith, is the agent of compounding harm to Randi through the SATC lunches' delivery of reports about Pace.* Vee has no opportunity to recognize this. When prose renders Vee at the SATC lunches, render the warmth and the harm-compounding as the same operation, with Vee unable to see the harm-doing because the configuration's information-architecture has placed her where she cannot see it. The catastrophe is not the result of any single agent's failure; it is the result of the configuration operating, with information distributed asymmetrically, and the harm traveling through the structure. *No single party is the catastrophe's locus. The configuration is.*
 
-## 18. Character relationship bible updated (DONE — see meta-arch-bible.md)
-
-Bible updated to v6/v7 state. Major additions: header now references all five core documents (thesis, three character architectures, help-harm-dials inventory); Core Engine section expanded with v6/v7 deeper structural layer (three habituated refusals; two perfect apparatuses; available honorable exits; fourth-category claim; harm fast-installed; configuration-as-agent; goods are real; both transformations parallel-and-opposite; 95% calibration; chivalric grammar as deeds; vow against premature declaration); Vee section adds cutting voice with experience-level-only rendering rule, cracker-and-meal architecture, Vee's transformation parallel-and-opposite to Randi's, dual outcome within the year; Pace privacy section reframed to two registers (neurological vs commitment-adjacent self-protection); Pace love-wound section adds four new note-blocks (chivalric grammar / vow distinction; available honorable exits not taken; 95% calibration with five humanizing failings; embodied-presence rendering rule; porch-scene register as worked example); choice-become-habit framing added as deepest fact about Pace; Randi section adds six new paragraphs (habituated refusal of need; bench-wound fast-installed mechanism with begging; hate as structurally orphaned with two perfect apparatuses; the cup as body's tell; both transformations parallel-and-opposite; the Vee-channel six-channel week); Global Craft Rules adds fourteen v6/v7 rules covering voice rendering, parallel-and-opposite never-surface, habituated refusals never-surface, fourth-category as writers' tool only, harm fast-installed, goods real in real time, configuration as agent, intensity as required pitch not excess, conventional grammar of deception transcended, no filing/cataloging for Pace, 95% calibration, deeds not words, vow holding throughout year, available honorable exits real, bench-wound vs friendship-deception both in fourth category.
-
-## 19. summary.md alignment to v6/v7 (DONE — see summary.md)
-
-`summary.md` updated to v6/v7. Major changes: title installed (*With a Long Spoon*) in header; Concept Overview rewritten to add the v6/v7 structural argument as the deeper layer (fourth-category claim, three habituated refusals, the appetites-as-healthy framing) while preserving the existing surface description (consent as foundation, shame as gasoline, three simultaneous self-administered betrayals); Core Engine kept the two-tracks framing as surface engine and added a brief pointer to the v6/v7 deeper structural layer; Setting's bench note sharpened with the fast-installed framing and the two-perfect-apparatuses observation; Vee/Pace/Randi condensed principal sections each gained a v6/v7 architectural-layer paragraph that names the key new material without rewriting the established-facts level; Thematic Architecture revised to reframe Randi as foreclosed-not-hollow (the v6 work substantially humanized her — bench wound, begging, cup, hate as structurally orphaned) and added a Fourth Category paragraph; Threaded-throughout gained an entry for Randi's physical operations of operational silence (cup, lock); Open Questions revised — question 1 (Pace's reckoning) substantially clarified by v6 (no full reckoning on the page; *not-finally-the-lady* reading is canon; what remains is the precise staging of the last-on-page beat); new TODOs added (porch-scene revision, given-full-range alignment, future-scene help-harm-dials entries); Document Map rewritten to reflect the five-document architectural core (thesis + three character architectures + help-harm-dials) and the scene-level reference documents (bible, summary, scene-plan-chronology, open-questions) and the scene drafts; closing pass-marker updated from Session 5 to v6/v7.
-
-## 20. Light alignment edits to character docs for "given full range" phrasing (PENDING — low priority)
+## 18. Light alignment edits to character docs for "given full range" phrasing (PENDING — low priority)
 
 The thesis now supplements *given full range* with *when permitted to operate at the depth and across the duration their internal logic requires for the appetite to be itself.* The character documents continue to use the phrase in less-supplemented form in some passages. *In context, these uses are correct;* the supplementation in the thesis's central claim provides the unambiguous reading. Light pass to align the character docs is low priority. Hold until other higher-value work is done.
 
