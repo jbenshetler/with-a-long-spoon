@@ -42,7 +42,7 @@ The hem pooled at her feet; the dress wanted a height she wasn't giving it, and 
 
 Then she turned to see herself from the side, and took a step —
 
-and the slit came open all the way up. To the hip. The silk parted and gave her whole leg to the room, calf to the jut of her hip, and fell shut when her feet came together. The breath went out of her, and the heat came up to take its place, low and certain, her body answering the glass before her head could —
+And the slit came open all the way up. To the hip. The silk parted and gave her whole leg to the room, calf to the jut of her hip, and fell shut when her feet came together. The breath went out of her, and the heat came up to take its place, low and certain, her body answering the glass before her head could —
 
 And there, where the slit had opened, was the pale edge of her underwear, cutting across the long line the dress had made of her.
 
@@ -52,7 +52,7 @@ And then she walked to him. Not the careful walk — she strode, the slit swingi
 
 He hadn't gone far — too pleased to, she'd known he wouldn't — and when she came through in it the grin went off his face into something quieter, harder to look at and impossible to look away from.
 
-She crossed to him and took his face in both her hands and kissed him, the dress falling open along her thigh against him. He made a low sound against her mouth, and his hands came to her waist, to the dress, to the place he'd measured it to — and after that there was nothing left for either of them to decide.
+She crossed to him and took his face in both her hands and kissed him, and hooked the bared leg up around him and pulled him in, the slit falling all the way open along her. He made a low sound against her mouth, and his hands went to her, one to her waist, to the dress, to the place he'd measured it to, the other under her bare thigh. And after that there was nothing left for either of them to decide.
 
 ---
 
