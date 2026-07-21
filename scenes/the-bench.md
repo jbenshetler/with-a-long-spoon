@@ -60,7 +60,7 @@ He was hard. He could feel her registering it through her panties, the small shi
 
 She reached past him to the bowl. She took a slice of apple. She brought it to her mouth and bit half of it cleanly off and chewed and swallowed, looking at him, and then she leaned forward and kissed him with the half-slice still in her hand and the taste of apple in her mouth, and he kissed her back with one hand sliding up her back under her cardigan and into her hair.
 
-She ate three slices like that. Bite, kiss, bite. She did not finish the slice she was on. She fed him a bite from one of them. She did not finish that one either. He could feel the warm small concentrated weight of her on his thighs, the wiggling that came and went, the heat of her between his legs through his jeans and through her skirt. He kept his hands at her hips and on her back. He did not move them lower. He was not in a hurry. He had not been in a hurry since the first night.
+She ate three slices like that. Bite, kiss, bite. She did not finish the slice she was on. She fed him a bite from one of them. She did not finish that one either. He could feel the warm small concentrated weight of her on his thighs, the wiggling that came and went, the heat of her between his legs through his jeans and through her panties. He kept his hands at her hips and on her back. He did not move them lower. He was not in a hurry. He had not been in a hurry since the first night.
 
 She had begun to slow on the apples. He could feel it: her hands were resting on his shoulders now rather than moving on him. She had eaten four slices. There were five left in the bowl. She would not eat them. She had eaten what she would eat. She kept her hands on him and looked down at him with the slightly altered weight of a woman who had finished what she was doing and was waiting for the next thing.
 
@@ -72,7 +72,7 @@ He looked up at her. He brushed a strand of black hair back behind her ear with 
 
 "Come with me," he said.
 
-She got off his lap carefully because the weight had settled and she had to find her legs again, and he steadied her at the hip while she stood, and she made the small breath of a laugh that meant something he did not have a name for. He stood up after her. He walked first and she followed. He walked ahead of her out of the kitchen, across the anteroom, and down the short hall that led past the bathroom and his office and around the corner to the bedroom door.
+She got off his lap carefully because the weight had settled and she had to find her legs again, and he steadied her at the hip while she stood, and she made the small breath of a laugh that meant something he did not have a name for. He stood up after her. He walked first and she followed. He walked ahead of her out of the kitchen, across the foyer, and down the short hall that led past the bathroom and his office and around the corner to the bedroom door.
 
 The door was closed.
 

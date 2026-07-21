@@ -51,7 +51,7 @@ At the cabin (~late Feb) Pace gives Vee a key — see `meta-note-grace.md`. It c
 
 ## Interior layout
 
-From the **foyer** (the *anteroom* on the page), three ways off it:
+From the **foyer**, three ways off it:
 - **left** → the **hall**, running past the **bathroom** and the **office** and around a
   corner to **his bedroom** at the back;
 - **right** → the **kitchen**, with the **dining room** off it and, beyond, the way out to
@@ -59,7 +59,7 @@ From the **foyer** (the *anteroom* on the page), three ways off it:
 - **forward** → the **den**, and through an archway at its far end onto the enclosed
   **sun porch** at the back.
 
-Drafted path (`the-bench.md`): kitchen → anteroom → short hall, past the bathroom and the
+Drafted path (`the-bench.md`): kitchen → foyer → short hall, past the bathroom and the
 office, around the corner to the bedroom.
 
 ### Entry `[PAGE]`
