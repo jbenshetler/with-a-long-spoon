@@ -99,6 +99,8 @@ Pace is not solemn about sex. He has a genuine sense of humor and a light, good-
 
 **The grammar is the right tool and the wrong tool simultaneously.** It produces every virtue that makes him who he is. It cannot contain the question whose answer would have made him pause.
 
+**Food-as-craft motif (parallel to sex) and its guards — see the bible** (§Food, beside the fabric motif): he cooks for Vee's pleasure with the same attention/skill as his sex; render the preparation and *her* savoring, in pairs; never teach her to taste on the page; never state the parallel.
+
 ---
 
 ## Consent by Reading, Not by Clearance

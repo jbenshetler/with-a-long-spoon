@@ -119,6 +119,14 @@ These pieces are the architectural backbone of the novel. The character document
 
 **Fabric — a motif between Pace and Vee.** Cloth is their recurring medium of intimacy, possession, and concealment/revelation, from the everyday to the climax — he disappears her *into* his oversized fabric (safety, hiding) and makes her visible *in* fitted fabric (exposure): the **shirt she swims in** and carries across the nights apart; the **"Trade."** (his shirt for the worn panties he keeps); the **burgundy induction dress he cuts and pins to her body**, worn bare beneath; the **terra-cotta tap pants**; the **ivory chemise** made to make her visible; and the **blindfold** — flannel from his own shirting cloth (hiking shirt → sleep shirt → blindfold), the motif's culmination: fabric that takes *sight itself*. Seed as texture; never point at it.
 
+**Food — a motif for Pace (parallel to sex).** He cooks for Vee's *pleasure* — the same orientation as his sex: his attention, creativity, focus, and skill aimed at her delight and response, not at display or provision (not the everyday chicken her working-class framework braces for). Food is a chivalric deed (the grammar's "the dress, the food, the warm room") and a declaration; he *makes her things without invoicing*.
+
+- **Render the preparation** — the recipe as craft made concrete: the sourcing (the state-line drive), the technique (tomato cooked down to paste; lettuce against the bread), the hands in hyperfocus, eyes on the work not her face. The same hands and attention that appear in the sex.
+- **Render her savoring** — the pleasure he made it *for*: she doesn't just enjoy the meal, she *discriminates the constituent flavors and textures* (yeast, tomato acid, pepper heat, crunchy onion, yielding mushroom). Her palate waking is the domestic rhyme of her body waking — the faculty {{First Taste}} and {{The Peaches}} later turn on her own taste (connoisseurship migrating food → body: whiskey / white wine).
+- **Render them in pairs** — the default: a food beat and a sex beat in the same scene, so the cooking-hands and the sex-hands read as the same hands giving her the same pleasure. At its most intense the pairing *fuses* — the food becomes the erotic instrument (the peach; the painted fruit).
+
+**Guards:** the pleasure-giving is real — and, as with all his tenderness, the palate it wakes is also the faculty the self-taste thread later turns on her own body: real and instrumental at once, never resolved. *Vee* discriminates — **Pace never teaches her to taste** (cultivating her palate on the page telegraphs the thing it secretly is). Never state the food/sex parallel; resonance only. His kitchen hyperfocus is behavior, never diagnosis.
+
 -----
 
 ## PACE (Peter) — The Man / The D
