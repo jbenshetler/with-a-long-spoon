@@ -36,7 +36,7 @@ A quiet peak before the threesome pressure begins — the relationship at fulles
 
 ### First Taste (the self-taste gate falls)
 
-The self-taste crossing — the ivory nightie and the tasting-herself sequence — is the domino that tips Vee from *thinking about it* to proceeding. It belongs to the year-long self-taste thread (the conflation *female wetness = lesbian = wrong*, routed through her own body first so the step to another woman loses its tallest riser), and is owned in full by **`meta-note-taste-thread.md`** — beat-spine, planting discipline, and the First Taste scene mechanics. The reveal-reconstruction below runs back through it.
+The self-taste crossing — the ivory chemise and the tasting-herself sequence — is the domino that tips Vee from *thinking about it* to proceeding. It belongs to the year-long self-taste thread (the conflation *female wetness = lesbian = wrong*, routed through her own body first so the step to another woman loses its tallest riser), and is owned in full by **`meta-note-taste-thread.md`** — beat-spine, planting discipline, and the First Taste scene mechanics. The reveal-reconstruction below runs back through it.
 
 ### The peaches scene (moved LATER — now post-cabin; functions as the second fight)
 
@@ -157,7 +157,7 @@ The act essentially complete (blindfold comes off *after*). A register shift sig
 Sequence: recognition → retroactive reconstruction → physical awareness → shame → anger → **friendship betrayal (hits harder than romantic).** Multiple beats of silence first.
 
 - **Render through her BODY, not named emotions.** The image hits; her body answers; the reader reads the body. Naming the feelings would be the prose flinching.
-- The reconstruction runs BACKWARD through the whole novel: the goodbye kisses (she kept them, deepened them — no one to blame), the SATC questions, the planted clues (Randi the whole time), the dance (where her body learned Randi’s touch), the cabin (the key, and being watched — an exposure-domino), {{First Taste}} and tasting herself (preparation, a domino), the ivory nightie (love AND clearing a domino), the blindfold she asked for and the surprise she asked for. Nothing survives clean.
+- The reconstruction runs BACKWARD through the whole novel: the goodbye kisses (she kept them, deepened them — no one to blame), the SATC questions, the planted clues (Randi the whole time), the dance (where her body learned Randi’s touch), the cabin (the key, and being watched — an exposure-domino), {{First Taste}} and tasting herself (preparation, a domino), the ivory chemise (love AND clearing a domino), the blindfold she asked for and the surprise she asked for. Nothing survives clean.
 - **The genuine suspense, withheld even from the reader:** not *who* (known) but *what will this do to her* — whether the transformed Vee metabolizes it as catastrophe or as final liberation. Her physical behavior here tells the reader **who she has become.** That’s the question the whole novel has been asking.
 
 -----

@@ -78,13 +78,13 @@ The first is filler that announces. The second costs four words and builds.
 
 POV: Vee's close third, like every Pace/Vee scene — his calculation stays unrendered.
 
-**The ivory nightie:**
+**The ivory chemise:**
 
 - Simple, elegant, **expensive enough that she knows it's uncomfortable for him** — not a trifle. She reads his finite means and clocks the exception made deliberately, for her. **The fit is what establishes value** — chosen for her specific body — not any stated price. He'd hate her knowing what it cost; she knows anyway.
 - **Color: ivory.** It gives her nowhere to hide a wet spot and honors the no-panties intention; reads almost luminous against red hair and warm skin; carries delicacy/occasion/kept associations that sharpen the exposure. Beautiful fabric that will betray her completely. (Pearls worn with it.)
 - **No panties** — given deliberately, considered, not an oversight. Removes her ability to manage her body's response; he wanted it *in the room.*
 - **The bathroom moment** differs from all her others: she's not cleaning up after arousal, she's deliberately dressing for his attention. The mirror gives her his eye before she has it. **Coming out is the scene.**
-- **Structural echo:** the hiking shirt was enormous, concealing, his — she disappeared into it. The nightie is precise, fitted, made to make her *visible.*
+- **Structural echo:** the hiking shirt was enormous, concealing, his — she disappeared into it. The chemise is precise, fitted, made to make her *visible.*
 
 **The tasting-herself sequence:**
 

@@ -118,7 +118,7 @@ Vee admires the dress; Randi names the boutique; Vee can’t afford it. **Randi 
 
 - **The clerk is COMPLETELY NEUTRAL** — bored, scanning a tag. Exposure lives entirely in Vee’s own awareness; no one confirms or reacts. (A smirking clerk tips into *evaluation* — the wrong cruelty, reserved for the falling out.)
 - Dressing-room adjustments = technique (deniable). **The nipple tweak before sending Vee out to pay = the FIRST sexual touch — the touch axis's first undeniable crossing** — and a control-SLIP (the pointing-game want getting out ahead of the plan), covered instantly. It is the rung where the deniable tending-touch (goodbye kisses, fitting-hands) finally breaks deniability: nothing earlier may cross. Cold, controlled acquisition; then one uncontrolled beat of real desire.
-- Contrast with Pace’s nightie: his gift cost him (love); the dress costs Randi nothing (power/ownership). Same act — expensive garment to expose her — opposite meanings. Vee won’t run the comparison; the reader will.
+- Contrast with Pace’s chemise: his gift cost him (love); the dress costs Randi nothing (power/ownership). Same act — expensive garment to expose her — opposite meanings. Vee won’t run the comparison; the reader will.
 - **After:** Vee’s drive-home reckoning has two things — the desire with no Pace in it (unnameable) and the dress she didn’t pay for (the thing she’s *allowed* to be troubled about, standing in for the thing she can’t look at).
 
 ### 3. On Her Floor (CW-structured, on sorority turf)

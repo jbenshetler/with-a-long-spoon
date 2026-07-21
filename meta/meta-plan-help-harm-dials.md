@@ -256,7 +256,7 @@ Operations not yet inventoried that probably need entries:
 - The peaches sequence (the rejection, the second fight, the reconnection, the peach-slices scene — multiple operations, multiple dials)
 - The painting afternoon (waxing, painted as fruit, the photo)
 - The Secret Plans scene (the princess roleplay Vee authors)
-- The ivory nightie / cabin weekend
+- The ivory chemise / cabin weekend
 - The dressing room with Randi (money-as-power; the cold echo of the warm shoe-shopping outing)
 - The various intentional clue-plants (the female item in the bathroom; the accumulating planted-clues thread)
 - The mother's-boyfriend question and the Christmas/Thanksgiving fight
