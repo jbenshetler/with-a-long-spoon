@@ -17,7 +17,8 @@
 
 **Interior and shame**
 - [ ] The cutting voice is rendered at experience level — it cuts her; she does not narrate running it on herself
-- [ ] The most defended nerve is involuntary sexual signals (wetness, flush, hard nipples) — not chosen acts
+- [ ] Shame runs on three distinct, co-equal charge-sources — **(1) involuntary display** (wetness, flush, hard nipples; deepest nerve — *exposure*), **(2) premeditation** (owning appetite in advance — *agency*), **(3) transgressive content** (the specific, voluntary act past her lines — *transgression*). Don't route every charge through (1); (3) can lead alone (tasting herself). Full rule: `meta-craft-vivienne.md` §The Three Charge-Sources
+- [ ] The one guard over all three: shame that **fuels** the wanting (gasoline), never shame that **fights** it (the prude — reluctant, self-punishing, erotically dead). (3) is not generalized shame at being sexual; she is a settled, experienced adult
 - [ ] Shame is constitutional and kept; the arc is ownership replacing suppression, not liberation from shame
 
 **Behavioral tells**
@@ -75,16 +76,18 @@
 - [ ] Randi makes Vee feel *recognized* / *chosen* / *cool* / *clever* / *admitted* — conferred status, not being-known
 
 **The cup**
-- [ ] Cup/nail-press fires on bottom-position (being-done-to) — when something is done to her she cannot control
-- [ ] Cup does NOT fire when Randi is operating/dominant — the operation itself is the discharge
+- [ ] Cup/nail-press stays the **bottom's gesture** — self-administered sensation for a being-done-to she has **no operational lever to discharge**. It fires whenever that undischargeable need is running
+- [ ] The charge is the **envy-charge**: being near Vee's real intimacy with Pace — Vee *seen* and thriving on what Randi can't have in channel. She is *done-to by the envy* even while she tops the interaction that delivers it
+- [ ] "Fires when bottoming" is right — bottoming **to the charge/content**, not to her scene role. In the SATC extraction she *tops Vee* (steers the retelling) and *bottoms to what she hears* at once — the extraction is the primary delivery mechanism for the envy-material, so the cup fires mid-operation. Do NOT gate it on physical role. The wrong half of the old binary was "the operation itself is the discharge" — operating never discharges the envy (it has no lever)
+- [ ] Fires often at the SATC lunches, but not only there — can fire outside SATC entirely, in any venue where the envy-charge runs with no lever (the engineered meet-cute, project-talk with Pace, scenes she has architected near the configuration's operation on Vee)
 - [ ] Never name the gesture as a symbol
-- [ ] Cup debuts at the bench — that scene stamps it as the bottom's gesture; subsequent appearances inherit the valence
+- [ ] Cup debuts at the bench (Vee absent) — there the charge is her *own* freshly-installed need, and the gesture is stamped as the pure bottom's gesture (need externalized, unframed); the *content* driving it then shifts to the envy-charge in the later venues. Same gesture, evolving charge
 
 **The locked door**
 - [ ] Randi locks or bolts every door she enters — first act, every time, plain behavior, never stated as symbol
 
 **The SATC scenes**
-- [ ] Sadism is present from the start, not discovered — she is already operating at adult resolution
+- [ ] Her sadistic competence/resolution is present from the first lunch, not discovered — never render on-page discovery or a novice finding her footing (she arrives expert; equally, not a cool-connoisseur master). What deepens experientially is the *reward*: appetite (b) catches and grows across the early lunches — an already-operating hunger intensifying, not the capacity being discovered (see `meta-arch-randi.md` §The Three Appetites)
 - [ ] The genuine like is real — she actually enjoys the lunches, actually likes Vee; sadism and love coexist
 - [ ] Render the concealment from Pace — let the reader see what she omits; let the reader see his happy reception of the sanitized report
 
@@ -92,7 +95,7 @@
 - [ ] She is tragic, not fated — the wound presented its channel and she chose it, half-seeing
 - [ ] The hate survives the novel intact — do not let her spend it or articulate it to anyone
 - [ ] The sadism and the genuine love are the same motion — do not flatten her into pure operator or sentimentalize her into victim
-- [ ] POV is always outside Randi — assemble her interior from surface tells; never render her interiority directly
+- [ ] POV is outside Randi in every scene where Pace or Vee is present — assemble her interior from surface tells, never render it directly. **Containers exception:** a designated Randi-POV scene is permitted ONLY when neither Pace nor Vee is on the page ({{Fairytale}} — a brief Vee text exchange doesn't count as Vee present); the one in-scene aperture is a small beat at the very end of {{The Bench}}. Even inside a sanctioned container, keep the plan and the chiasmus from surfacing as narrator statement — render at experience level
 
 ---
 
@@ -109,7 +112,7 @@
 - [ ] Never use seeing-register vocabulary (*known, perceived, met, beheld*) for what Randi produces in Vee
 
 **POV consistency**
-- [ ] We are never inside Randi's POV — she is assembled from behavior and tells
+- [ ] Never inside Randi's POV in any scene where Pace or Vee is present — she is assembled from behavior and tells. Sanctioned Randi-POV containers exist only when neither is on the page ({{Fairytale}}; the small aperture ending {{The Bench}}) — see the containers exception under RANDI / POV above
 - [ ] The reader inhabits Vee — interior felt with her, not observed
 - [ ] Pace observed from outside except in designated Pace-POV scenes
 - [ ] No omniscient peeks — never show the reader what the POV character cannot perceive (no over-the-shoulder tell she misses). Reader-ahead comes from her *misreading the present*, not the narrator reaching past her

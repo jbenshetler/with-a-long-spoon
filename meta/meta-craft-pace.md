@@ -41,7 +41,7 @@
 
 ## Play, teasing, and humor
 
-Pace is not solemn about sex. He has a genuine sense of humor and a light, good-natured teasing register — banter, delight, the easy play of a man at home in his own wanting. It sits *alongside* the tenderness and the intensity, never instead of them; vary by kind (the book names *playful* as a heat-kind — Pool, {{Jitterbug}}, {{The Deep End}} run on it). Do not default every erotic beat to tender or psychologically-intense; let him joke, tease, grin.
+Pace is not solemn about sex. He has a genuine sense of humor and a light, good-natured teasing register — banter, delight, the easy play of a man at home in his own wanting. It sits *alongside* the tenderness and the intensity, never instead of them; vary by kind (the book names *playful* as a heat-kind — {{We Find Out}}, {{Jitterbug}}, {{The Deep End}} run on it). Do not default every erotic beat to tender or psychologically-intense; let him joke, tease, grin.
 
 **With Vee it is erotically load-bearing.** Her shame-loop makes teasing a direct line to arousal: teased about her body giving her away without her leave — the flush, the wet, the sound she didn't sign off on — the shame spikes, and the shame *is* the heat. His teasing isn't comic relief beside the scene; it's an instrument that plays her engine, and it undoes her *because* it's affectionate. Keep it good-natured — delighted, never mocking or cruel (cruelty curdles the tenderness and breaks the trust the whole appetite runs on).
 
@@ -101,6 +101,16 @@ Pace is not solemn about sex. He has a genuine sense of humor and a light, good-
 
 ---
 
+## Consent by Reading, Not by Clearance
+
+Pace mostly asks without asking: the question is in the act, the answer in her body. Low on the staircase he states a fact and leaves a door (*"the bra changes the line,"* then waits); higher up he acts on a confident read of an embodied yes already given (the unwiped kiss at {{Forbidden Kiss}}) — never on verbal pre-clearance. Always asking *"may I?"* makes him tentative, and tentative kills the heat; the charge is his *knowing* — reading her response ahead of her voiced permission (the *being seen responding* that is her excitement), not his overriding.
+
+**White-side only when all four hold:** a real body-yes first (he extends what her response already shows, never acts against a legible no); a real door (a beat where she could pull back and he'd stop — leading, not trapping); staircase-calibrated (one riser up from what she's shown she wants, never a cold jump); and it is *her* rule she breaks, of her own free will (the appetite's exact operation). Any one failing tips it gray→black.
+
+This is act-level and near-flawless — it is **not** where the harm is. He never deceives her about *an act*; the deception is frame-level (Randi, the orchestration), a different register entirely. His scrupulous local consent-reading is precisely why nothing in his own framework flags the structural harm.
+
+---
+
 ## The Vow in Scenes
 
 The vow holds the line below his consciousness. He does not in any moment decide not to declare; the vow operates as habit, not decision. Render it as automatic, not as a choice under pressure. When Vee produces declaration-adjacent moments, what happens in him is the habit's smooth operation — the routing of her speech down the register where his grammar has equipment — with the discomfort that is the substrate briefly closer to the surface. Small body-fact: half-beat of additional stillness, small sound, brief adjustment of weight. He does not put words to it.
@@ -144,7 +154,7 @@ He slides toward the *not finally the lady* reading in the later chapters and es
 
 Scattered across the year, none load-bearing for the catastrophe, none in the consent register:
 
-- **Selective inattention:** the high-resolution-when-present / more-total-absence-when-not texture. Vee adjusts. Render it as *a particular kind of mind*, not a flaw.
+- **Selective inattention:** the high-resolution-when-present / more-total-absence-when-not texture. Vee adjusts. Render it as *how his attention works*, not a flaw.
 - **Intellectual vanity:** small dismissive notes about softer fields; the barely-suppressed *yes, but.* Not unkind — his manner prevents it — but it leaks.
 - **Domestic compulsion:** small about something in his space. The smallness leaks in small adjustments after she leaves; never articulated as requirements.
 - **Declaration-adjacent routing:** smaller porch-scene-register moments scattered across the year. Together they are the sand-in-the-gears reservoir.

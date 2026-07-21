@@ -70,6 +70,21 @@ When any scene touches Vee's involuntary responses, it is touching the live wire
 
 ---
 
+## The Three Charge-Sources — And the One Guard
+
+Vee's shame has three *distinct, co-equal* sources — not subcategories of one:
+- **(1) Involuntary display** — her body announcing its wanting without her consent (wetness, hard nipples, flush). The deepest nerve. *Exposure.*
+- **(2) Premeditation** — owning appetite in advance (shaving, the chosen lingerie, initiating). *Agency, not transgression.*
+- **(3) Transgressive content** — the specific, voluntary act past her own lines; the meaning of the deed. *Transgression.*
+
+They combine but stay distinct, so don't route every charge through (1). (3) can lead alone: *tasting herself* is (3)-led (composed agent, scandal in the deed, no body betraying her); these agent-of-her-own-exposure beats are where the ownership arc lands.
+
+**The guard, over all three — shame that fuels, never shame that fights.** Whatever the source, her shame rises *with* the wanting and feeds it (gasoline). Shame that opposes the wanting and tries to snuff it is the prude — reluctant, self-punishing, erotically dead (reluctance reads as suspicion; suspicion kills arousal). Same blush, opposite vector: charged *because* it's shameful, crossing with her body already yes, landing on *"I did that,"* never regret.
+
+**On (3) only — transgression isn't prudishness.** Her shame is never generalized shame at being sexual; she's a settled, experienced adult. The charge is the specific, voluntary act past her lines — *"I can't believe I'm the woman doing this,"* not *"good girls don't"* — and it requires the healthy baseline: transgression needs a real limit to cross, and hers are an adult's, so the staircase climbs far (high baseline → the transgression goes *farther*, not that she shames *less*).
+
+---
+
 ## The Arousal–Humiliation Loop
 
 Central. Render it whenever Vee's body is in play. **Pace defuses the humiliation step; Randi amplifies it.** Both produce intense arousal because both engage her core mechanism — in opposite directions. She does not perceive the coordination. One of Pace's primary instruments here is **affectionate teasing** (→ `meta-craft-pace.md`, *Play, teasing, and humor*): naming the involuntary tell spikes the shame and his fondness converts it — the spike and the defuse in one gesture. It is erotic *because* it is kind; cross into mockery and it stops working. *(Key instances: `a-round.md` for the secretions reframe; `how-its-done.md` for Randi's extraction of that same material.)*
