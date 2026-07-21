@@ -1,4 +1,4 @@
-# Simpson's Paradox
+# All Told
 
 She had been late to everything all morning and it didn't bother her a whit.
 

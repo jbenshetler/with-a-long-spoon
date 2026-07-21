@@ -1,6 +1,6 @@
 # Note — The Anthropology Class (the spring mirror; the Vee/Randi binding; Cassie's drift)
 
-*Device + thread · spring semester · successor to the fall stats-mirror · Vee POV · companion to `meta-note-among-friends.md`, `meta-condensed-stats-simpsons-paradox.md`, `meta-note-outlier.md`*
+*Device + thread · spring semester · successor to the fall stats-mirror · Vee POV · companion to `meta-note-among-friends.md`, `meta-condensed-all-told.md`, `meta-note-outlier.md`*
 
 ## What it is
 

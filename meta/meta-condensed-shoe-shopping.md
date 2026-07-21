@@ -4,7 +4,7 @@
 
 ## Summary
 
-The second showing-to-Randi scene — a warm two-panel diptych: the finished gown's first unveiling to Randi (Vee's dorm room), then the boutique fitting. Structured as the contrast to Vee showing Cassie in {{Stats — Simpson's Paradox}} (Cassie watches the *person*; Randi runs *appraisal-as-interest*). **Played straight:** the dark is **reread-only**, carried by Randi's appraisal and the deniable physical installation — **not** by any planted secret. Establishes shopping-together as a format Randi excels at.
+The second showing-to-Randi scene — a warm two-panel diptych: the finished gown's first unveiling to Randi (Vee's dorm room), then the boutique fitting. Structured as the contrast to Vee showing Cassie in {{All Told}} (Cassie watches the *person*; Randi runs *appraisal-as-interest*). **Played straight:** the dark is **reread-only**, carried by Randi's appraisal and the deniable physical installation — **not** by any planted secret. Establishes shopping-together as a format Randi excels at.
 
 ## Form
 

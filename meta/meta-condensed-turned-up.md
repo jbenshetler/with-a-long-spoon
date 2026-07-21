@@ -18,6 +18,6 @@ Vee returns to her dorm and tells Cassie about the Fitting. The telling is warme
 
 ## Continuity and Structure
 
-This scene **pairs structurally with the Cassie beat in {{Stats — Simpson's Paradox}}**, which comes after the dress is completed. The two scenes together show Cassie's consistent role in the Cassandra track—she sees and withholds judgment, she witnesses Vee's interior without performance.
+This scene **pairs structurally with the Cassie beat in {{All Told}}**, which comes after the dress is completed. The two scenes together show Cassie's consistent role in the Cassandra track—she sees and withholds judgment, she witnesses Vee's interior without performance.
 
 The telling here is **distinct from the SATC brunch version (SATC Brunch — Fitting Debrief)**: where the brunch version will be warmer and less performed (with an undertone of Randi's operation), this version to Cassie is pure vulnerability—the being-seen-at-most-ashamed without performance, without steering, just witnessed.
