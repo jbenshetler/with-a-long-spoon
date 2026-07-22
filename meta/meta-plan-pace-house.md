@@ -51,11 +51,35 @@ At the cabin (~late Feb) Pace gives Vee a key — see `meta-note-grace.md`. It c
 
 ## Interior layout
 
+**Adjacency graph (canonical, unambiguous).** Each line is one direct connection:
+
+```
+parking pad      → covered stoop (front)
+parking pad      → garage / woodshop
+covered stoop    → foyer
+foyer            → kitchen
+foyer            → den
+foyer            → hall
+kitchen          → dining room
+kitchen          → garage / woodshop
+dining room      → den
+den              → sun porch
+hall             → bathroom
+hall             → office
+hall             → bedroom
+```
+
+Hall order from the foyer: **bathroom, office, bedroom** (the hall bends at a corner
+between the office and the bedroom; the bedroom is around it, not on a straight run).
+Two doors reach the **garage / woodshop** — the exterior one off the parking pad and the
+interior one off the kitchen. The **dining room** is a pass-through between the kitchen
+and the den, not a dead end.
+
 From the **foyer**, three ways off it:
 - **left** → the **hall**, running past the **bathroom** and the **office** and around a
   corner to **his bedroom** at the back;
-- **right** → the **kitchen**, with the **dining room** off it and, beyond, the way out to
-  the **garage / woodshop**;
+- **right** → the **kitchen**; the **garage / woodshop** opens off it, and so does the
+  **dining room**, which connects through to the **den**;
 - **forward** → the **den**, and through an archway at its far end onto the enclosed
   **sun porch** at the back.
 
@@ -70,8 +94,9 @@ Front door (left unlocked for the expected guest; Randi bolts it behind her). A
 `[PAGE]` **white-laminate**-topped **counter** (plain white, no pattern, the shine worn off, still good to work on); **kettle**/burner; two mugs; the **green tea** she likes, kept on hand; a **bread machine**; a **baking stone** that lives in the oven, with its **wooden peel**; a **cold-water filter pitcher** in the fridge; an old **white KitchenAid stand mixer**, bought secondhand, the wear showing. **No stools.** The **kitchen is small**, too small for two to work in at once; a small **table with chairs** sits in it, where meals happen and where she watches him cook (he sits people down to eat, never feeds them standing at the counter). `[PLAN]` A few good **knives** and a few good **pans and skillets** (**not the full set**); the small tools a serious cook keeps (microplane, peeler, hand juicer, and the like), assumed present and not inventoried; a small bench of guest wines. He cooks here.
 
 ### Dining room `[PLAN]`
-Off the **kitchen** (distinct from the kitchen's own built table); beyond it, the way out
-to the **garage / woodshop**.
+Off the **kitchen** (distinct from the kitchen's own built table); a second doorway
+connects through to the **den**, so the room is a pass-through, not a dead end. (The way
+out to the **garage / woodshop** is off the kitchen itself — see Woodshop.)
 
 ### Hall `[PAGE]`
 Off the foyer to the **left**; runs past the **bathroom** and the **office**, around a
@@ -120,8 +145,8 @@ owns its meaning ("where he lets his own mind sprawl"). Drafted in `two-towels.m
 
 ### Woodshop `[PAGE]`
 **Immaculate — for safety, not aesthetics**; pieces curing partway through finish;
-most of the house's furnishings came from here. Reached past the **kitchen / dining**,
-out through the **garage**.
+most of the house's furnishings came from here. Reached off the **kitchen**, out through
+the **garage**.
 
 ### Den `[PAGE]` + `[PLAN]`
 **Forward** off the foyer; the room you cross to reach the sun porch. **One long wall of
