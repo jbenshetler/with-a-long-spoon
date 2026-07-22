@@ -16,7 +16,7 @@ So she fixed the clown. She did the rest of her face, and it brought her up from
 
 ---
 
-She put on the long skirt — the one that meant she'd thought about where she was going — found no tights that were both clean and hers, and decided, with the conviction of the converted, that she would simply be a woman with bare legs in October. The coat was the long one, the warm one she lived in from mid-fall on — handsome at best, never cute, but it broke the wind, which over bare legs in October was the whole point. She buttoned it, took an apple from the bowl by the door — the bowl the dorm kept full for exactly the kind of morning she was having, the no-time kind — and went.
+She put on the long skirt — the one that meant she'd thought about where she was going — found no tights that were both clean and hers, and decided, with the conviction of the converted, that she would simply be a woman with bare legs in October. The tan lace-up boots went on over the bare legs, the scuffed faux-leather pair with the cap toe and the turned-down cuff, worn soft. The coat was the long one, the warm one she lived in from mid-fall on — handsome at best, never cute, but it broke the wind, which over bare legs in October was the whole point. She buttoned it, took an apple from the bowl by the door — the bowl the dorm kept full for exactly the kind of morning she was having, the no-time kind — and went.
 
 The day was a show-off. Bright, cold, so clear it looked rinsed, the last gold leaves down and crunching, the sky doing nothing but be blue. She started across it eating the apple, and her first steps were small, the careful steps of a person carrying something she didn't want to spill.
 
@@ -122,7 +122,7 @@ And Vee lost it — the laugh came up out of nowhere and bent her over, helpless
 
 Randi pulled it together first. She lifted two fingers and turned them in a small regal spiral — *up, off* — not a word in it, a head shorter than Vee and running her like a fit model.
 
-Vee peeled the shirt off over her head and stood there in her bra, still grinning, and it was nothing — it was dress-up, the oldest game there is, two girls and a problem and a whole morning to solve it in. Standing in her bra in front of Randi was no event; she'd done as much for Pace.
+Vee toed off the boots, then peeled the shirt off over her head and stood there in her bra, still grinning, and it was nothing — it was dress-up, the oldest game there is, two girls and a problem and a whole morning to solve it in. Standing in her bra in front of Randi was no event; she'd done as much for Pace.
 
 Then Randi looked, and that was the part Vee felt: Randi came around her once, slow, reading the line of her, and the pass of all that attention went over Vee's skin.
 
@@ -130,11 +130,7 @@ Then Randi looked, and that was the part Vee felt: Randi came around her once, s
 
 And it went straight through Vee, warm and a little ridiculous, because it was *Randi* who'd said it.
 
-Randi's eye went on down her, all the way to her feet. "What size?"
-
-"Seven."
-
-"Me too." Something crossed her face, there and gone, a small private pleasure, and Vee took it for the plain luck of it — they could share shoes after all.
+Randi's eye went on down her, all the way to her bare feet. "Shoes," she said, mostly to herself.
 
 Randi crossed to the closet then and opened it, and Vee got a look inside for the first time — a narrow run worked to the last inch, every hanger earning its place, the colors going bone to camel to oatmeal and ending on one deep oxblood like the last note of something. Vee made a sound. She couldn't help it.
 
@@ -166,7 +162,7 @@ Vee laughed.
 
 It was so precisely the lie Vee told about those shoes that she had nothing to say, and Randi, watching her have nothing to say, just smiled and let it go, because it had landed.
 
-"Right here." She pointed Vee to a spot on the floor like a model to her mark, and crouched to the bottom of the closet, where the shoes stood in their ranked order, each pair faced out. Vee took the spot, in her bra and her long skirt, and lifted a bare foot when the first shoe came up to meet it.
+"Right here." She pointed Vee to a spot on the floor like a model to her mark, and her eyes went down and rested on Vee's bare feet on the carpet, and something moved in her face, there and gone, that Vee didn't have a name for and was too happy to go looking for. Then Randi crouched to the bottom of the closet, where the shoes stood in their ranked order, each pair faced out. Vee took the spot, in her bra and her long skirt, and lifted a bare foot when the first shoe came up to meet it.
 
 And there was where her skin came up singing.
 
