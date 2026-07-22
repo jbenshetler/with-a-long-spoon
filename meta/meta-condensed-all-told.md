@@ -19,7 +19,7 @@ Both are glad for Vee; the orientations differ (the person vs. the deployment). 
 
 ## Beats / craft
 
-- Morning-after texture: solo dawn drive from Pace's, the dorm blown through (missed Cassie, already gone; the made bed a tattletale), running late all day. Vee's timeliness is ordinary, not characteristically early; the lateness is the day, not the trait.
+- Morning-after texture: solo early-morning drive from Pace's (left at eight, the day already ahead of her), the dorm blown through (missed Cassie, already gone; the made bed a tattletale), running late all day. Vee's timeliness is ordinary, not characteristically early; the lateness is the day, not the trait.
 - Em-dashes minimized (voice preference).
 - Closes on the zipped bag, "still shown to not one living soul" — the bag-zipped-for-Cassie / out-for-Randi motif.
 
