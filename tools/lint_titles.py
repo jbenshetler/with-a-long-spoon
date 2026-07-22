@@ -35,7 +35,7 @@ MARK_RE = re.compile(r"\{\{([^}]+)\}\}")
 # ("Secret Plans", shared by several chapters) are deliberately left out.
 ALIASES = {
     "Shoe Shopping": "Shoe Shopping with Randi",
-    "CW-Dance Debrief": "The CW-Dance Debrief",
+    "Broken In": "Broken In",
     "Porch Scene": "The Porch Scene",
     "Gesso": "Gesso — Vee Tells Randi",
     "Spring Inversion": "Randi — Spring Inversion",

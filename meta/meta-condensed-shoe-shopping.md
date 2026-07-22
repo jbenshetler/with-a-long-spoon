@@ -20,7 +20,7 @@ Triptych, close-third Vee, three movements split by `---` (dorm → bypass store
 ## Panel II — the bypass store (the giggle + the settle)
 
 - Vee's turf (the big cheap store off the bypass; tan/black/white, nothing made for the gown). The serious hunt **strikes out**, and the fruitlessness tips into the **joke-shoe game**: Vee's big-feet rib → the yeti shoe; Randi tops it, coming back in six-inch pink-rhinestone platforms, deadpan *"Do these go with burgundy?"*; Vee's falling-apart flat (*"one brisk walk from becoming a sandal"*) earns the real, costs-her-something laugh (pre-echoes the sidewalk laugh).
-- **Same-size discovery (moved here from {{CW-Dance Debrief}}):** the big-feet rib **boomerangs** — they're both a 7. Warm sisterhood (*"practically a marriage"*); on reread it's the loan-vector opening. **No tell here** — the dark is structural; store one stays the unshadowed light.
+- **Same-size discovery (moved here from {{Broken In}}):** the big-feet rib **boomerangs** — they're both a 7. Warm sisterhood (*"practically a marriage"*); on reread it's the loan-vector opening. **No tell here** — the dark is structural; store one stays the unshadowed light.
 - Vee settles for the **sensible tan** (cowardice-not-taste, now *color*: goes-with-everything = goes with nothing), voiced by Vee talking herself into it. Randi affirms it (*"they'd do just fine"*), then lifts by **drama, not verdict**: *"a dress a man made **to** you doesn't want to go with everything. It wants to walk in late and stop the room cold"* — naming Vee's own entrance-daydream (evaluation-wound dodged: Randi frees a want Vee won't reach for). *"I know just the place."*
 
 ## Panel III — the boutique (the fitting + the buys)
@@ -38,11 +38,11 @@ Triptych, close-third Vee, three movements split by `---` (dorm → bypass store
 
 - **"When Randi sees something she wants, she buys it"** — the careless multiple, worn out of the store; pure characterization now, **grain #2's cover** in spring (Randi wearing what she "just likes" is what later lets the stolen scrunchies read as flattery).
 - **Shopping-together as Randi's format** — pre-echoes the dressing-room money-as-power FB (canon *"same act, opposite meanings"*). Here **both pay their own way**, which protects the dressing-room's first deployment of Randi's money *against* Vee.
-- **The shoe-fitting touch** normalizes Randi's hands on Vee's body, and the **same-size discovery** (both a 7) is its mechanism — seeds the **shoe-loan motif** (first loan at {{CW-Dance Debrief}} → … → the threesome pumps).
-- **Credit-card transgression** weakens Vee's money-independence armor before the dressing-room turns it against her; the self-administered price-override here pre-seeds her *"decided not to finish the math"* a week later ({{CW-Dance Debrief}}).
+- **The shoe-fitting touch** normalizes Randi's hands on Vee's body, and the **same-size discovery** (both a 7) is its mechanism — seeds the **shoe-loan motif** (first loan at {{Broken In}} → … → the threesome pumps).
+- **Credit-card transgression** weakens Vee's money-independence armor before the dressing-room turns it against her; the self-administered price-override here pre-seeds her *"decided not to finish the math"* a week later ({{Broken In}}).
 
 ## NOT in this scene (continuity)
 
 - **No scrunchie layer.** The gaslight is a **spring** arc (Drawer first visit ~mid–late Feb, off-page; grains #1/#2/#3 Feb–April; chronology Late section + `meta-plan-scrunchie-gaslight.md`). The fall stays unshadowed — Randi has taken nothing; Vee notices nothing.
-- **No goodbye-kiss beat** (the kiss debuts in {{How It's Done}}, settles at {{CW-Dance Debrief}}; don't run the physical staircase every scene).
-- **Not at Randi's place** (Vee's first time in Randi's room is the {{CW-Dance Debrief}}, ~Oct 30).
+- **No goodbye-kiss beat** (the kiss debuts in {{How It's Done}}, settles at {{Broken In}}; don't run the physical staircase every scene).
+- **Not at Randi's place** (Vee's first time in Randi's room is the {{Broken In}}, ~Oct 30).

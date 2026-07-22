@@ -51,7 +51,7 @@ RENAMES = [
         ("slug",  r"the-cw-dance",                          "STALE",  ""),
         ("slug",  r"\[\[cw-dance\]\]",                      "STALE",  "wiki-link"),
         ("slug",  r"[(, ]cw-dance[),;]",                    "STALE",  "bare slug in a list"),
-        ("title", r"(?i)CW[\s-]dance",                      "REVIEW", "CW-Dance Debrief / dance hall / blowup = event/venue/other-scene, keep"),
+        ("title", r"(?i)CW[\s-]dance",                      "REVIEW", "Broken In / dance hall / blowup = event/venue/other-scene, keep"),
     ]),
     ("Standards  (was Randi's Walk of Shame)", [
         ("slug",  r"randis-walk-of-shame",                  "STALE",  ""),

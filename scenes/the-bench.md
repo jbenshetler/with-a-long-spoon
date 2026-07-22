@@ -132,7 +132,7 @@ The skin of her shoulders was warm through the thin blouse, still holding the he
 
 He unbuttoned her blouse. The first button slipped free with the small sound silk makes when it gives, and the skin beneath it appeared: the pale center of her, the notch at the base of her throat where her pulse was working a slow visible beat. The second button: the skin of her upper stomach, the faint blue shadow of her lowest ribs showing through. The third: the flat plane of her belly, the small indrawn breath she took as his knuckle brushed her. He traced a finger from the hollow of her throat downward, slowly, watching the small shiver that ran through her, then paused, then undid the rest — and when the blouse was open he leaned in and kissed her collarbone, the long shallow line of it pale under his mouth, his short hair brushing her cheek, and she made the small unselfconscious sigh he had registered before as the sound she made when she was not aware of being heard. He slid the blouse off her shoulders. The straps of her bra had left two faint pink indentations in the white skin of her shoulders. He folded the blouse and set it with the cardigan.
 
-He stood her up. He found the zipper at her hip and drew it down — the sound of it, metal and small in the quiet room — and slid the skirt down her hips and her thighs and her calves to her ankles. It pooled at her feet, dark against the floor. She stepped out of it, one foot and then the other, her hand resting on his shoulder for balance, and her legs were bare now from hip to ankle: an athlete's legs, a decade of dance and cheer behind them, the long muscle of them visible even at rest, the skin waxed smooth with the faint interrupted texture of real skin still present beneath the smoothness, the small knee, the fine pale hairs just visible in the lamplight. He folded the skirt and set it on the chair.
+He stood her up. He found the zipper at her hip and drew it down — the sound of it, metal and small in the quiet room — and slid the skirt down her hips and her thighs and her calves to her ankles. It pooled at her feet, dark against the floor. She stepped out of it, one foot and then the other, her hand resting on his shoulder for balance, and her legs were bare now from hip to ankle: an athlete's legs, a decade of dance and cheer behind them, the long muscle of them visible even at rest, the skin waxed smooth with the faint interrupted texture of the skin still present beneath the smoothness, the small knee, just visible in the lamplight. He folded the skirt and set it on the chair.
 
 She stood in her bra and her underwear, both of which were a matching set, pale, expensive, the kind of thing she had laid out on her bed that morning before her first class, showered into after her last one, and worn to chapter dinner under the cardigan because chapter dinner had only been a stop on the way to him. She had been thinking, since she opened her eyes that morning, about being undressed in this room.
 
@@ -152,9 +152,9 @@ The first night she had asked him about the lights. She had asked it the way a s
 
 He looked at her. He took his time.
 
-He started at her feet — the small high-arched things still in the heels she had not taken off, the blue polish of the toenails, the fine bone of the ankle, the evidence of a real body that had been in shoes on a floor asking for things feet were not meant to do — and then he let his gaze travel up. The dancer's legs took up most of her: the long thighs waxed smooth from hip to ankle, the skin pale and the muscle visible even at rest, the faint blue vein at the inner thigh, the small fine pale hairs at the backs of the calves that the waxing could not catch and did not try to. The knees. The knees were small and slightly longer than tall, with a pair of dimples below. He looked at them.
+He started at her feet — the small high-arched things still in the heels she had not taken off, the blue polish of the toenails, the fine bone of the ankle, the evidence of a body that had been in shoes on a floor asking for things feet were not meant to do — and then he let his gaze travel up. The dancer's legs took up most of her: the long thighs waxed smooth from hip to ankle, the skin pale and the muscle visible even at rest, the faint blue vein at the inner thigh, the small fine pale hairs at the backs of the calves that the waxing could not catch and did not try to. The knees. The knees were small and slightly longer than tall, with a pair of dimples below. He looked at them.
 
-He looked at the bare smooth cleft between her legs, waxed clean, a small pale thing, the lips just visible, the first faint gloss of her already glistening at the seam, and he registered it and moved on. The small rounded hip bones, the pale flat plane of her stomach, the soft skin at the hollow of it, the very small rise of the belly above the tended line where her body had a belly and had and would not. The line of her ribs showed pale and was there. The breasts — small, soft, compact, the nipples already hard and darkening in the open air, the small pale pink of the areola visible in the lamplight, the faint blue veins running under the skin. She had been buffed and polished to a high gloss, and the gloss was real, and the gloss was the gloss of a real woman who had spent real hours on it and whose body was also, underneath the gloss, a real body, which was what he was looking at.
+He looked at the bare smooth cleft between her legs, waxed clean, a small pale thing, the lips just visible, the first faint gloss of her already glistening at the seam, and he registered it and moved on. The small rounded hip bones, the pale flat plane of her stomach, the soft skin at the hollow of it, the very small rise of the belly above the tended line where her body had a belly and had and would not. The line of her ribs showed pale and was there. The breasts — small, soft, compact, the nipples already hard and darkening in the open air, the small pale pink of the areola visible in the lamplight, the faint blue veins running under the skin. She had been buffed and polished to a high gloss, and the gloss was earned, and it was the gloss of a woman who had spent real hours on it and whose body was also, underneath, an actual body, which was what he was looking at.
 
 Her perfect natural nails, the look of effort and cost on them. He liked her feet. He had not yet told her that. He intended, before the night was out, to take the gloss well past itself.
 
@@ -214,11 +214,11 @@ She had been in scenes before where the first strike came fast. He knew this bec
 
 She breathed.
 
-He kept his hand on her. He moved it slowly across the heat of her skin — the small of her back first, the shallow concave there still faintly damp from where his mouth had been earlier, then down to the right hip, the bone under the muscle, the lean line where the waist dipped in and the curve began. His palm slid around the outer thigh where the long muscle sat firm under the soft skin, the skin there cooler than the skin of her ass, the fine pale hairs just visible in the lamplight and catching against his palm on the down-stroke. He brought the hand around the front, sliding between the leg support and her body, and let his fingers travel up the inside of her thigh until the tips found the wetness — the slick heat of it, the small sound as his fingers parted the lips and registered the gloss, the frank female smell of her rising between her legs and mixing with the warmer smell of her skin. He did not linger. He brushed the place, registered the slick, and moved on, hand rising to the left hip, the outside of the left thigh, the back of the leg.
+He kept his hand on her. He moved it slowly across the heat of her skin — the small of her back first, the shallow concave there still faintly damp from where his mouth had been earlier, then down to the right hip, the bone under the muscle, the lean line where the waist dipped in and the curve began. His palm slid around the outer thigh where the long muscle sat firm under the soft skin, the skin there cooler than the skin of her ass, catching faintly against his palm on the down-stroke. He brought the hand around the front, sliding between the leg support and her body, and let his fingers travel up the inside of her thigh until the tips found the wetness — the slick heat of it, the small sound as his fingers parted the lips and registered the gloss, the frank female smell of her rising between her legs and mixing with the warmer smell of her skin. He did not linger. He brushed the place, registered the slick, and moved on, hand rising to the left hip, the outside of the left thigh, the back of the leg.
 
 He was teaching her the map of what was his for the next hour. The hand would be on her, all of her, without rushing. She was going to have to be present for it.
 
-He bent at her side and kissed the back of her neck where the hair had already begun to dampen. The skin there was hot. He tasted salt. She made a sound that was not the first sound she had made — lower, from farther down in her chest, a sound that carried hunger without knowing it yet. He let the kiss linger. The heat of her neck against his mouth. The first real smell of her rising from the skin under the perfume.
+He bent at her side and kissed the back of her neck where the hair had already begun to dampen. The skin there was hot. He tasted salt. She made a sound that was not the first sound she had made — lower, from farther down in her chest, a sound that carried hunger without knowing it yet. He let the kiss linger. The heat of her neck against his mouth. The first ungoverned smell of her rising from the skin under the perfume.
 
 "Good," he said, against her skin.
 
@@ -226,7 +226,7 @@ He straightened. He brought his hand down on her, the first strike, palm flat, n
 
 Then the second strike, a little harder, on the same place. The sound was louder. Her gasp came with it, and the pink was already deeper. He soothed again — the skin now hotter, the faintest dampness rising under his palm, the small slick of his own skin against hers.
 
-A ripple of goose bumps lifted across the cooler skin of her thighs, the fine pale hairs standing up for a moment and then settling again. Then the left side, twice, with the soothing between each one, and her breathing was beginning to change — the inhale shorter, the exhale longer, the small spaces between them where her body was working to understand what was happening.
+A ripple of goose bumps lifted across the cooler skin of her thighs, then settled again. Then the left side, twice, with the soothing between each one, and her breathing was beginning to change — the inhale shorter, the exhale longer, the small spaces between them where her body was working to understand what was happening.
 
 He worked her like that for several minutes. The strikes came in clean pairs, left then right, sharp and rhythmic. He did not linger between them. When he paused it was only to lay his palm flat over the place he had struck, feeling the heat rise under his hand before moving on.
 
@@ -248,7 +248,7 @@ She made the small breath of a laugh — the sound of it caught and then release
 
 Her eyes closed. He stayed where he was. The minutes passed. Twenty, thirty seconds. Longer than a spanking transition was supposed to be. Her breathing slowed. The tension eased from her shoulders. Her face turned slightly into his hand, the weight of her head settling into his palm.
 
-He bent and kissed her on the forehead — the warm damp of her temple against his lips, the taste of salt. She made the small breath-laugh again, the sound of it broken and real and closer to the surface than it had been.
+He bent and kissed her on the forehead — the warm damp of her temple against his lips, the taste of salt. She made the small breath-laugh again, the sound of it broken and unguarded and closer to the surface than it had been.
 
 He straightened. He did not go behind her yet. He moved to the far end of the bench, where her feet were in the leg supports, and crouched there. The heels were still on — strapped at the ankle, the buckle warm from her skin. He found the first buckle and worked it free and slid the heel from her foot, the soft sound of leather leaving skin, and set it on the floor beside the bench.
 
@@ -350,7 +350,7 @@ She made a soft sound against his face.
 
 "You are," he said. "You are doing so well."
 
-He took his hand from her breast. He went back behind her. He struck her again, lower, at the base of her right cheek, and the lovely curve of her ass jiggled pleasantly before settling back into her clean lines. She cried out and the cry was not a trained cry, the cry was real, the cry was a *sound from her,* and he heard it land and he heard himself want to hear it again, and he soothed her and waited and hit her again to hear her make it again, and she did.
+He took his hand from her breast. He went back behind her. He struck her again, lower, at the base of her right cheek, and the lovely curve of her ass jiggled pleasantly before settling back into her clean lines. She cried out and the cry was not a trained cry, the cry was a *sound from her,* and he heard it land and he heard himself want to hear it again, and he soothed her and waited and hit her again to hear her make it again, and she did.
 
 He bent and pressed his face against the curve of her ass where it was hottest and kissed her there, his mouth against the heat his own hand had made. She gasped.
 
@@ -398,7 +398,7 @@ She could not pout her way back to wanted. She could not turn the heat up; the h
 
 He waited.
 
-He bent and laid his palm against her cheek, where he could reach her at the bench's low point, and she leaned into it the way an animal leans into a comforting touch. The leaning was real. He kept his palm where it was.
+He bent and laid his palm against her cheek, where he could reach her at the bench's low point, and she leaned into it the way an animal leans into a comforting touch. The leaning was genuine. He kept his palm where it was.
 
 "I want to ask you something," he said, gently.
 
