@@ -185,8 +185,8 @@ two people move through without calling out to each other.
   surfaces: head + hand grips low, rising chest pad, **angled pelvis support** high,
   leg supports out from the sides. **Adjustable** — he built it to adjust to his
   guest's size and sets it to her beforehand (the maker's fitting-to-a-body, the
-  same knack as the dressmaking). He'd been building it ~a year, **before he knew
-  Randi**. In the novel it is **used on only two women — Randi, then Vee** — and what
+  same knack as the dressmaking). He'd been building it seven months, **before he knew
+  Randi** (`the-bench.md`: begun seven months ago; met her three weeks ago). In the novel it is **used on only two women — Randi, then Vee** — and what
   makes each capitulate is the load-bearing difference between them. Its top leans
   against the wall when the bench is in use.
 - **Cashmere blanket** `[PAGE]` at the foot of the bed (bought once he noticed she
