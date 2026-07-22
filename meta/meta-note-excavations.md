@@ -28,6 +28,7 @@ Both women are in Blacksburg for Dr. Marsh's summer fieldwork — **archaeologic
 - **He answers everything she asks, plainly and truly, at pattern level.** Long women, few of them, no roster, no names (his history carries the same discipline as hers: **no names, no inventory** — shapes only). He volunteers nothing she doesn't ask.
 - **"Why aren't you with them anymore?"** — the honest pattern: schedules that never matched his (the offset: his lovers were at other institutional stages; they graduated, took jobs, moved), and under it the truer answer, delivered plain: *they eventually wanted a word I couldn't give yet.* **He has told her exactly how their own story ends, as history, and she hears it as history.** Second Cassandra beat, from the man himself. On reread: unbearable.
 - **The live irony (never surfaced):** she audits his past-tense honestly answered while the present-tense answer sits across the brunch table at the plan's peak convergence. She asks the right question one ring too small. No lie is spoken.
+- **Downstream:** the audit-instinct and the benchmark of real disclosure this scene installs become the Falling Out's ammunition — the liar-accusation against Randi's invented men (charge: {{Sunburn}}; design: `meta-note-threesome-reveal.md`).
 
 ## Movement three — "Once.", and the opening (the telling)
 
