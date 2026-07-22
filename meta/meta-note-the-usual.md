@@ -4,7 +4,7 @@ Companion note for `scenes/the-usual.md`. Placement: ~late December, Christmas b
 
 ## Format — face-to-face, NOT side-by-side
 
-The scene is a diner **booth, across the table**, eyes engaged. The old chronology/First-Ride rationale that the counter's *no-eye-contact form loosens the overshare / spares him* is **retired** — it was downstream of an autistic reading of Pace that is wrong (he is introvert-charismatic: likes people, great with people, drained not disabled by them), and it poisoned the load-bearing Sheri-decency (that he *looked at her* through her troubles). The overshare loosens through easy, cost-free company and food, not eye-avoidance. See `meta-note-sheri-first-ride.md` (rationale struck there too).
+The scene is a diner **booth, across the table**, eyes engaged. The overshare loosens through easy company and food — and the load-bearing Sheri-decency is that he *looked at her* through her troubles. (Format rationale and the retirement of the old reading: `meta-arch-sheri.md`, render disciplines.)
 
 ## The engine
 

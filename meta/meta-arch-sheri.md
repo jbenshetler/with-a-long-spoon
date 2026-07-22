@@ -59,7 +59,7 @@ Out about a year (the coming-out that triggered the disowning; see Backstory). B
 
 ## Origin
 
-Friends from the **CW bar.** The thing that made the friendship possible was the **sexual disarming:** she could trust him to **dance with her and not hit on her.** Pace dances a lot and rarely dates from it — **the dancing is the point, not the prelude** — which is exactly the quality that let Sheri be near him safely. They'd been dance friends for a semester when she came out. (For Pace, the CW bar is one of the few social formats that costs him nothing: defined role, mapped interactions. Their friendship lives at the intersection of his two cost-free formats — dancing and, later, cycling.)
+Friends from the **CW bar.** The thing that made the friendship possible was the **sexual disarming:** she could trust him to **dance with her and not hit on her.** Pace dances a lot and rarely dates from it — **the dancing is the point, not the prelude** — which is exactly the quality that let Sheri be near him safely. They'd been dance friends for a semester when she came out. (He's there because he loves the dancing for itself. Their friendship lives where his loves are — the dance floor and, later, the bikes; shared activity is where his connection lives.)
 
 ---
 
@@ -103,5 +103,5 @@ It lands **because the loyalty is earned:** the held temper finally aimed **outw
 - **Warmth lives in fierceness**, not pleasantness. She is not nice; she is loyal.
 - **Disowning *story* surfaces once, never dramatized** — it reaches the page only in `Another Round`, recounted in Sheri's dry register (weight on Pace, no self-pity). The bare *fact* of estrangement may be glanced earlier as a plant (`The Usual`), never the cause.
 - **Not a second Cassandra** — Pace-specific perception, single-ping radar on Randi. Protect the asymmetry.
-- **The cost-free formats are Pace's** — cycling, the dance floor, an easy diner booth: what loosens him into the overshare is the *ease of the format*, not the absence of eye contact. Side-by-side movement (bike/dance) and face-to-face over food (`The Usual`) both work; a *staged confessional* is what reads wrong. (The old "no-eye-contact spares him" rationale is retired — he is introvert-charismatic, not autistic.)
+- **The easy formats are Pace's** — cycling, the dance floor, an easy diner booth: what loosens him into the overshare is easy company doing a thing he loves, nothing about the format's geometry. Moving (bike/dance) and face-to-face over food (`The Usual`) both work; a *staged confessional* reads wrong because it's an interrogation, not company. (Canonical retirement note — recorded here only: the old "no-eye-contact spares him" rationale is dead; he is introvert-charismatic, not autistic. Elsewhere, just write the easy company.)
 - She is **secondary** — rendered through effect and function, not standalone interiority. (Less strict than Cassie's over-feed rule, but the same gravity: she exists to show who Pace is when the chivalric grammar simply works, and to pay the loyalty back at the end.)
