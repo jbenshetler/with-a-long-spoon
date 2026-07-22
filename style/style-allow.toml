@@ -1191,56 +1191,56 @@ fp   = "d7ca7af7b560"
 rule = "file-verb"
 file = "scenes/my-friend-randi.md"
 text = "It was the kindest anyone had spoken to her all day, and Vee felt herself get smaller inside her coat, felt the house note her and file her, the stats friend, crying in the front hall on a Friday."
-note = "Author-approved: 'file' = the sorority-folder image (canon callback to cw-dance-debrief); dialogue and realization filter verbs; retained 'whole of it'; info-level existentials."
+note = "Author-approved: 'file' = the sorority-folder image (canon callback to broken-in); dialogue and realization filter verbs; retained 'whole of it'; info-level existentials."
 
 [[ok]]
 fp   = "17fd6ea4d463"
 rule = "filter-verbs"
 file = "scenes/my-friend-randi.md"
 text = "\"How do you think he felt, opening that door?\""
-note = "Author-approved: 'file' = the sorority-folder image (canon callback to cw-dance-debrief); dialogue and realization filter verbs; retained 'whole of it'; info-level existentials."
+note = "Author-approved: 'file' = the sorority-folder image (canon callback to broken-in); dialogue and realization filter verbs; retained 'whole of it'; info-level existentials."
 
 [[ok]]
 fp   = "5b9d85609c32"
 rule = "filter-verbs"
 file = "scenes/my-friend-randi.md"
 text = "Then she heard what she'd said."
-note = "Author-approved: 'file' = the sorority-folder image (canon callback to cw-dance-debrief); dialogue and realization filter verbs; retained 'whole of it'; info-level existentials."
+note = "Author-approved: 'file' = the sorority-folder image (canon callback to broken-in); dialogue and realization filter verbs; retained 'whole of it'; info-level existentials."
 
 [[ok]]
 fp   = "97db6cca8fa2"
 rule = "filter-verbs"
 file = "scenes/my-friend-randi.md"
 text = "Then Randi was on the stairs, coming down them fast the moment she saw the state of her, quick and light, and she had Vee by the arm before the girl who'd let her in was even out of the room."
-note = "Author-approved: 'file' = the sorority-folder image (canon callback to cw-dance-debrief); dialogue and realization filter verbs; retained 'whole of it'; info-level existentials."
+note = "Author-approved: 'file' = the sorority-folder image (canon callback to broken-in); dialogue and realization filter verbs; retained 'whole of it'; info-level existentials."
 
 [[ok]]
 fp   = "c9d017643d96"
 rule = "filter-verbs"
 file = "scenes/my-friend-randi.md"
 text = "I built her on the nights I felt stupid for missing him this badly.\""
-note = "Author-approved: 'file' = the sorority-folder image (canon callback to cw-dance-debrief); dialogue and realization filter verbs; retained 'whole of it'; info-level existentials."
+note = "Author-approved: 'file' = the sorority-folder image (canon callback to broken-in); dialogue and realization filter verbs; retained 'whole of it'; info-level existentials."
 
 [[ok]]
 fp   = "8aedd0ebe87c"
 rule = "there-was-were"
 file = "scenes/my-friend-randi.md"
 text = "And he could dance, God, he could dance, he led like it was nothing and there was nothing for her to do but be led, and she'd let him, all of it, gliding, easy as anything."
-note = "Author-approved: 'file' = the sorority-folder image (canon callback to cw-dance-debrief); dialogue and realization filter verbs; retained 'whole of it'; info-level existentials."
+note = "Author-approved: 'file' = the sorority-folder image (canon callback to broken-in); dialogue and realization filter verbs; retained 'whole of it'; info-level existentials."
 
 [[ok]]
 fp   = "db5195025101"
 rule = "there-was-were"
 file = "scenes/my-friend-randi.md"
 text = "That was what a certain kind of girl did, turned up on a doorstep bare under a coat like something ordered in, and there was a word for that girl and it was already in her mouth."
-note = "Author-approved: 'file' = the sorority-folder image (canon callback to cw-dance-debrief); dialogue and realization filter verbs; retained 'whole of it'; info-level existentials."
+note = "Author-approved: 'file' = the sorority-folder image (canon callback to broken-in); dialogue and realization filter verbs; retained 'whole of it'; info-level existentials."
 
 [[ok]]
 fp   = "aedbb8295f96"
 rule = "whole-of"
 file = "scenes/my-friend-randi.md"
 text = "\"The kind you tell your daughter about,\" Vee said, quiet now, and looked down, because that was the whole of it, a story with a shape already, a man who was a story you'd tell before you'd known him a day."
-note = "Author-approved: 'file' = the sorority-folder image (canon callback to cw-dance-debrief); dialogue and realization filter verbs; retained 'whole of it'; info-level existentials."
+note = "Author-approved: 'file' = the sorority-folder image (canon callback to broken-in); dialogue and realization filter verbs; retained 'whole of it'; info-level existentials."
 
 [[ok]]
 fp   = "21487d40a57f"

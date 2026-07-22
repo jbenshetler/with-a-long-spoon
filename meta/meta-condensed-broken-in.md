@@ -1,6 +1,6 @@
-# Condensed — The CW-Dance Debrief
+# Condensed — Broken In
 
-*SCENE · Draft complete · `cw-dance-debrief.md` · morning after the CW Dance · SATC · counsel register · Randi's single*
+*SCENE · Draft complete · `broken-in.md` · morning after the CW Dance · SATC · counsel register · Randi's single*
 
 ## Register
 
