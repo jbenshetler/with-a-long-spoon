@@ -500,7 +500,7 @@ _Two more Phase-5 themes: (a) **neuro-residue the reground didn't reach** in per
 - **[low]** `:31` — "Soaking, Pace" → drafted "Soaking," (name dropped, `:89`).
 
 ### meta-note-rock.md — 2 (med 1, low 1)
-- **[med]** `:76` — placement "after {{Shoe Shopping}} (Oct 19), before {{School Nights}} (Oct 23)" is stale. **Correct:** `chronology:124` Shoe Shopping ~Oct 24; Rock's next entry is `{{Lesson}}` ~Oct 29. **Fix:** → "after {{Shoe Shopping}} (~Oct 24), before {{Lesson}} (~Oct 29)".
+- **[med]** `:76` — placement "after {{Sorority}} (Oct 19), before {{School Nights}} (Oct 23)" is stale. **Correct:** `chronology:124` Shoe Shopping ~Oct 24; Rock's next entry is `{{Lesson}}` ~Oct 29. **Fix:** → "after {{Sorority}} (~Oct 24), before {{Lesson}} (~Oct 29)".
 - **[low]** scene-side `rock.md:117` "too literal not to first check" — innate-literal residue; prose flag.
 
 ### meta-note-still-life.md — 5 (med 2, low 1)

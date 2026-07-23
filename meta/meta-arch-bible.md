@@ -329,7 +329,7 @@ Vawter Hall (girls-only); Vee's unaffiliated dorm-life background. Kept light �
 
 **The panties:** *“Trade.”* (She hands him the worn pair after the first night, leaves in the short skirt.) One pair, a kept thing not a collection. Both know. Neither mentions it.
 
-**The reveal image (the whole novel in one frame):** *Randi’s beautiful face, hair a mess, lipstick gone, mouth smeared with their combined fluids.* Lead with beauty, degrade across the clause, land on the mouth and the smear. Don’t gloss “combined” — let the reader do the math at the speed of horror.
+**The reveal image (the whole novel in one frame):** *Randi’s beautiful face, hair loose and wild, lipstick gone, mouth smeared with their combined fluids; the deep-green, white-polka-dot scrunchie on her wrist.* Lead with beauty, degrade across the clause, land on the mouth and the smear (the scrunchie on the manipulating hand — the gaslight paid off, full descriptor, no dismissal). Don’t gloss “combined” — let the reader do the math at the speed of horror.
 
 -----
 

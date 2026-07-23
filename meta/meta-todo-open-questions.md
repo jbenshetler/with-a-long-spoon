@@ -200,7 +200,7 @@ Not duplicated here; `meta-plan-chronology.md`'s continuity-flags section owns t
 - **Flag 16** — spring underplanned: SATC goodbye-kiss staircase steps; the spring Randi–Pace dynamic; the two unpinned Social Price vignettes.
 - **Flag 17** — scent-name thread: where Vee *asks* the scent's name; the buys-it→shower beat to create.
 - **Flag 19** — the Telling's second loop + the night cluster (feeds the threesome arrangement and the masturbation-becomes-Randi beat).
-- **Flag 3 / reveal image** — locked in `meta-note-spring-satc-bridge.md`: at reveal, Randi's wild hair is barely contained by Vee's green-and-white polka dot scrunchies.
+- **Flag 3 / reveal image** — locked: at reveal, Randi's hair is loose and wild and the deep-green, white-polka-dot scrunchie is on her wrist (`meta-note-threesome-reveal.md`; `meta-note-spring-satc-bridge.md`).
 - **Flag 15** — whether the ending earns Randi's final POV aperture.
 
 ## 25. Housekeeping — stray memory file (CLEANUP)

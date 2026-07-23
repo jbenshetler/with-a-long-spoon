@@ -58,6 +58,12 @@ It destroys his own access: the appetite eats its own substrate. He needs unbrok
 
 ---
 
+## The Palate Idiom — Why He Doesn't See It as Sinister
+
+Pace **deliberately plans the cultivation.** The **abstract threesome** (Pace/Randi + a woman) **predates Vee**; **Vee is selected into it at {{The Pointing Game}}.** AND he does **not** experience the cultivation as manipulation or sinister — **no more than raising different appetites for food and wine.** **The palate idiom is load-bearing:** it is the viewpoint that justifies his non-sinister self-view — he experiences the cultivation as **opening new areas of pleasure**, a true gift. On the page already (`scenes/the-pointing-game.md`): *"Pleasure was not a trick. It was a true thing he was giving her. It was also the bridge."* **Guard:** the cultivation must read as **genuine liberation** on the page; **never let the reader watch him build the key to this specific lock** — real AND instrumental, unresolved. Only the reveal reorganizes it into *he cultivated the appetite, then fed her the object* — the Danaë reading (`meta-note-danae.md`).
+
+---
+
 ## Mutual Summoning
 
 The three destructive appetites are mutually summoning. Pace's appetite seeks women with dense rule-clusters; Vee carries the densest cluster he is likely to meet. Vee's appetite seeks intensity; intensity is structurally produced by appetites in the destructive class. Randi's appetite seeks aliveness to operate on; Vee carries it. The trio forms a closed structural loop. The configuration recurs whenever three such appetites converge.
