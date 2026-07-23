@@ -127,6 +127,16 @@ The *Yes* is the second-closest she has come to the begging-voice. The bench *pl
 
 ---
 
+## The "Love" That Means Both
+
+Randi **knows she loves Vee and says so** — *"Love you, girl,"* the goodbye-ritual warmth, the reserved *gorgeous* and the reserved smile (`meta-plan-satc-tracks.md`). **"Love" is a double register with no word changing:** Vee hears friendship; Randi means both. Every *I love you* is warm and true on first read and detonates on reread as the true thing Vee was never allowed to hear plainly. She is **fully cognizant of wanting Vee since {{The Pointing Game}}** — **the plan is the vehicle for a known desire** (the plan sits inside the wanting-to-sleep-with-Vee, not before it). She gets the **body**, loses the **person** — **tragedy by choice.** (The want/need hinge in the locked Need Engine still governs the *depth*; this states only the surface fact — that the love is spoken, and doubled.)
+
+## Orientation
+
+Randi **structured her life around women** (sorority officer, lives in the house) and **has and enjoys experience with men**; her same-sex attraction she **could not put into her conscious frame** until **Pace draws it out post-orgasm at {{The Pointing Game}}** — a *Yes* she'd have denied an hour earlier. During the game she is drawn to **multiple women**; once she sees Vee it is **Vee specifically**, and we never see her drawn to another woman after.
+
+---
+
 ## The Three Appetites — Ignition Schedule
 
 Three distinct appetites, igniting on different schedules. Getting the schedule right keeps the SATC arc escalating and protects the threesome kiss as the reveal.

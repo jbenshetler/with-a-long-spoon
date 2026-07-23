@@ -1,6 +1,6 @@
-# Condensed — Shoe Shopping with Randi
+# Condensed — Sorority
 
-*SCENE · **Draft complete:** `scenes/shoe-shopping-randi.md` · ~Sat Oct 24 · Vee POV · triptych · SATC*
+*SCENE · **Draft complete:** `scenes/sorority.md` · ~Sat Oct 24 · Vee POV · triptych · SATC*
 
 ## Summary
 
@@ -38,7 +38,7 @@ Triptych, close-third Vee, three movements split by `---` (dorm → bypass store
 
 - **"When Randi sees something she wants, she buys it"** — the careless multiple, worn out of the store; pure characterization now, **grain #2's cover** in spring (Randi wearing what she "just likes" is what later lets the stolen scrunchies read as flattery).
 - **Shopping-together as Randi's format** — pre-echoes the dressing-room money-as-power FB (canon *"same act, opposite meanings"*). Here **both pay their own way**, which protects the dressing-room's first deployment of Randi's money *against* Vee.
-- **The shoe-fitting touch** normalizes Randi's hands on Vee's body, and the **same-size discovery** (both a 7) is its mechanism — seeds the **shoe-loan motif** (first loan at {{Broken In}} → … → the threesome pumps).
+- **The shoe-fitting touch** normalizes Randi's hands on Vee's body, and the **same-size discovery** (both a 7) is its mechanism — seeds the **shoe-loan motif** (first loan at {{Broken In}} → … → the threesome shoes).
 - **Credit-card transgression** weakens Vee's money-independence armor before the dressing-room turns it against her; the self-administered price-override here pre-seeds her *"decided not to finish the math"* a week later ({{Broken In}}).
 
 ## NOT in this scene (continuity)

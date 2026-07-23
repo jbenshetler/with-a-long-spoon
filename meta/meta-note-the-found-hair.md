@@ -35,7 +35,7 @@ Sheri's hair is **bleached blonde (dark roots, dark underlayer) and permed (but 
 
 ## The bookend
 
-The reveal's locked confirmation image is *Randi's normally sleek hair wild, barely contained by Vee's green-and-white scrunchies* (`meta-note-threesome-reveal.md`, flag 3). The first loose hair Vee wouldn't look at → the last one she can't not: a closed loop across the book. That rhyme is the main argument for the beat; keep the spring instance quiet enough that only the reread lands it.
+The reveal's locked confirmation image is *Randi's normally sleek hair loose and wild, the deep-green polka-dot scrunchie on her wrist* (`meta-note-threesome-reveal.md`, flag 3). The first loose hair Vee wouldn't look at → the last one she can't not — loose and wild, the scrunchie migrated to the manipulating hand: a closed loop across the book. That rhyme is the main argument for the beat; keep the spring instance quiet enough that only the reread lands it.
 
 ## Placement / status
 
@@ -46,5 +46,5 @@ The reveal's locked confirmation image is *Randi's normally sleek hair wild, bar
 - `meta-note-in-his-hands.md` — where Sheri is named (the plant).
 - `meta-note-another-round.md` — where Sheri becomes the vivid, disarmed absorber.
 - `meta-plan-scrunchie-gaslight.md`, chronology flag 3 — the campaign this complements (inward discipline; the no-absorber route).
-- `meta-note-threesome-reveal.md` — the hair-in-scrunchies payoff.
+- `meta-note-threesome-reveal.md` — the reveal payoff (hair loose and wild, the scrunchie on Randi's wrist).
 - `meta-arch-sheri.md` (bleached-and-permed; outside-the-house bond), `meta-craft-randi.md` (black, fine, sleek).

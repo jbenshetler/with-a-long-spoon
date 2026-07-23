@@ -13,7 +13,7 @@
 ## Who is on campus, and where they live
 
 - **Vee and Randi stay.** Surface reason: **Dr. Marsh's summer anthropology fieldwork** (research credit / graduation acceleration). Real pull: Pace, and each other.
-- **Vee lives in a coed summer dorm** — not Vawter, not-home, no Cassie through the connecting door. A transient, exposed base she is rarely in, splitting her time between Pace's house (out of town) and Randi (on campus).
+- **Their bedroom.** Three nights a week plus a key have promoted Pace's bedroom to **theirs** (the green sheets already carry the bed as jointly hers); the coed summer dorm is the **technicality** — not Vawter, not-home, no Cassie through the connecting door, a transient exposed base Vee is rarely in. She splits her time between Pace's house (out of town) and Randi (on campus). Pace's summer gift, the *Danaë*, hangs on their bedroom wall (`meta-note-danae.md`).
 - **Pace** is at his house outside town (his year-round residence — see `meta-plan-pace-house.md`).
 - **Cassie is away all summer** on a nursing internship (career-track, blameless — never abandonment; quietly echoes Vee's mother). She returns in the fall for the final scene. **The Cassandra is out of the room** exactly as it detonates — rhyming the canon note *"the friend who would have kept Vee safe was at a game."*
 

@@ -301,6 +301,8 @@ Randi's general affirmation-coin is spent on everyone (warmth, "you look great")
 
 **The smile follows the same rule** (see `meta-craft-randi.md`, *The Vee exception — three smiles, not one*). As with *gorgeous*, the warmth Vee receives is the reserved, genuine register — the soft "we're actually friends" smile and, late, the *nothing-held-back* megawatt — distinct from the performed beam spent on everyone. Word-level (*gorgeous*) and register-level (the smile) carve-outs run in parallel: both **develop** as the friendship turns real, both stay reread-legible, never first-read telegraph.
 
+**"Love" belongs to the same reserved-vocabulary double register** — friendship on Vee's ear, both on Randi's. Home: `meta-arch-randi.md` → The "Love" That Means Both.
+
 -----
 
 -----
@@ -344,7 +346,7 @@ With {{Standards}} established, the brunch is a scene where **two women each ove
 - **First read:** sweet/relatable — broke student stretching to keep up with her glamorous friend; paying her own way is just what you do. **Reread:** Vee is *paying to be extracted from* — spending money she doesn't have for the privilege of being worked on by the configuration's instrument.
 - Sets up the dressing-room trap by contrast: at brunch Vee pays her own way (pride intact, cost hidden); in the dress boutique Randi removes the option to pay her own way (pride trapped, cost made visible). Readers who watched Vee stretch all year feel the dress-offer land as the snare it is.
 
-**The clothing-loan device (locked; see `meta-note-spring-satc-bridge.md`).** Randi *loans* Vee clothes — never gives — extending the shoe-loan motif (first rung at the {{Broken In}} → … → the threesome pumps). Randi is short and slender; Vee is tall and lush, so items modest on Randi run borderline-scandalous on Vee: Vee arrives at lunch displaying more than she'd have chosen, with the loan as built-in alibi (*she didn't choose it*). It's a surface-authoring rung that strips the independence wall while the erotic alarm points elsewhere — a fresh shame (public display), not a relit one.
+**The clothing-loan device (locked; see `meta-note-spring-satc-bridge.md`).** Randi *loans* Vee clothes — never gives — extending the shoe-loan motif (first rung at the {{Broken In}} → … → the threesome shoes). Randi is short and slender; Vee is tall and lush, so items modest on Randi run borderline-scandalous on Vee: Vee arrives at lunch displaying more than she'd have chosen, with the loan as built-in alibi (*she didn't choose it*). It's a surface-authoring rung that strips the independence wall while the erotic alarm points elsewhere — a fresh shame (public display), not a relit one.
 - **Loan ≠ buy.** A loan moves no money, so it stays frictionless and deniable and does NOT spend the Dressing Room's "first deployment of Randi's money against Vee." The loan is the warm runway; the buy is the snare. The device **resolves at the Dressing Room**, where loaning becomes buying and the first sexual touch lands.
 - **Touch stays deniable until the Dressing Room.** Loan-tending (adjusting, zipping, smoothing) sits in the same deniable register as the fitting-hands and goodbye kisses; nothing crosses into sexual touch before the nipple tweak.
 - **The handoff isolates Vee from Cassie.** Garments change hands in the spring stats class — a private ritual beside the one person who'd keep her safe; Cassie watching Vee disappear into Randi's wardrobe (Cassandra as image, never explained).

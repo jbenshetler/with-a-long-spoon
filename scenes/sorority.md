@@ -1,4 +1,4 @@
-# Shoe Shopping with Randi
+# Sorority
 
 ---
 

@@ -73,4 +73,4 @@ The porch faces the **rock** of the mountains; **Peter means rock/foundation.** 
 
 ## Placement
 
-~late October, a quiet weeknight stay, after {{Shoe Shopping}} (~Oct 24) and before {{Lesson}} (~Oct 29). The warm phase, lovers since First Night (Oct 11); the "who are you" talk is natural by now. First on-page use of "Peter" in story order.
+~late October, a quiet weeknight stay, after {{Sorority}} (~Oct 24) and before {{Lesson}} (~Oct 29). The warm phase, lovers since First Night (Oct 11); the "who are you" talk is natural by now. First on-page use of "Peter" in story order.

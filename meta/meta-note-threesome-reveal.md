@@ -81,6 +81,10 @@ After the agreement — **not before** (the cabin install stands; pre-agreement 
 
 ## RENDERING THE THREESOME — THE MECHANICS
 
+### The consent structure — clean on its face, materially deceived
+
+Vee **fully consents** to the threesome and looks forward to it (with some anxiety). She sets the terms: **not told which night** (so she won’t get too tense), **blindfold not removed until after** the act, **hands bound.** She **neither knows nor suspects Randi has anything to do with Pace.** She **does** know / strongly suspect Randi has sexual feelings for her — a **protective misread** ("crush" explains Randi’s intensity innocently and files it where it can’t point at the plan). **The deception is material — it would have changed her yes:** she consented to *a person Pace brings me, for my good,* not to *Randi, who’s been running me a year.* **The unguarded door is her trust that Pace chooses in her interest.** The consent architecture guards against force, never against deceiving someone into consent — the hole the whole scheme goes through (→ Pace’s reckoning, below).
+
 ### POV: inside the blindfold (Vee’s sensory vantage)
 
 NOT to hide the partner’s identity from the **reader** — the reader has known it’s Randi for hundreds of pages (they’ve seen the plan form, the pointing game). **The suspense is DREAD, not mystery** — the call from inside the house. The reader, fully informed, watches Vee ask for the blindfold (her growth — by now her routine; see *the blindfold, normalized*), put it on, surrender, and enjoy it. Every second of her pleasure is a countdown the reader feels.
@@ -98,12 +102,14 @@ The one piece of Randi that is NOT generic to Vee: a year of goodbye kisses has 
 
 ### Bound hands — the last surrender (restful-restraint; submissive and subservient)
 
-**Vee’s hands are bound — a broad strap behind her back, wide enough that her arms can go to her sides but no farther; hands the only thing taken.** Not cinched wrists (that’s pain/punishment); the broad strap is the *restful-restraint* register — comfort, surrender-as-gift, of-a-piece with the things Pace makes (the bench, the box, the costume): a rig built so she can be used at length without hurting, his tenderness and the configuration’s instrument in one object. She can lie on her back or her front, kneel, move on her knees with her face on the bed and her ass up, exposed — positioned every way, **receiving from both Pace and Randi and giving to both with her mouth and her sex.** At their mercy, the body arranged and used. What it earns:
+**Vee’s hands are bound — a broad strap behind her back, wide enough that her arms can go to her sides but no farther, plus soft microsuede wrist cuffs (microsuede sewn around a core, for body); hands the only thing taken.** Not cinched wrists (that’s pain/punishment); the strap and cuffs are the *restful-restraint* register — **entirely comfortable, even pleasant**, surrender-as-gift, of-a-piece with the things Pace makes (the bench, the box, the costume): a rig built so she can be used at length without hurting, his tenderness and the configuration’s instrument in one object. **The rig is self-releasable — she has the power to free herself at any moment; that is what it symbolizes.** She can lie on her back or her front, kneel, move on her knees with her face on the bed and her ass up, exposed — positioned every way, **receiving from both Pace and Randi and giving to both with her mouth and her sex.** At their mercy, the body arranged and used. What it earns:
 
 - **The terminus of the restraint staircase the blindfold-request already invokes** (*the bondage lesson — restraint removes the question of what to do with her hands*). After pride, grounding, and knowing, the last thing she sets down is her own agency.
 - **Submissive AND functionally subservient — two shames, not one.** Submissive is *done-to* (arranged, opened, yielding); subservient is *put to use* (her body made useful to their pleasure, and glad to be). The strap delivers both at once — the thesis in one image: she is most surrendered at the exact moment she’s most used, her liberation the thing that makes her a willing instrument. On reread, she served her orchestrator and her hunter with her body, blind, and wanted to.
 - **It lands the taste thread in full.** Hands gone, her giving runs through mouth and sex — which means *she goes down on the woman.* {{First Taste}} was the rehearsal (herself); here she tastes another woman completely, and the reveal image (*mouth smeared with their combined fluids*) is finally earned. Her mouth also draws the woman’s pleasure-sounds (see *Voice* below), so even bound she has agency — pleased, and ashamed, to be pleasing her.
 - **The redirected kiss reads as dominance.** Her mouth is steered where they choose (see *The kiss*), so the one withheld act never reads as a pointed gap — it reads as them running her. The restraint is the in-scene alibi for the concealment.
+- **Willingly at their mercy — surrendered, then sovereign.** She is experientially *at their mercy, the body arranged and used* — **and willing.** The self-release is **real but latent — never felt or invoked during the act** (structural, not experiential) — so it does not dilute the surrender; it is **invoked only at the reveal**, the pivot from surrendered to sovereign. The thesis literalized: **the restraint was never the trap — consent was.** Pace built a rig where she was always safe and never actually held; the only thing binding her was her freely-given yes to a deceived scene.
+- **Served vs. made to serve — a new kind of heat.** With Pace she is *served* (tended, drawn out, received); here she is *made to serve* — her mouth redirected to nipples, to Pace, to the woman's sex — **and by a woman.** Wildly exciting on first read: a heat of *kind* (dominance/service), not just intensity. On reread: she serves the two architects of her own deception, passed between them, and loves it — the shame engine at full compression.
 
 **Hold the line on the kiss:** do not soften it into a de-signatured kiss carried through the encounter. The *total* withholding is load-bearing (see Randi’s reactions → it proves it wasn’t a toy). The familiarity-hum a de-signatured kiss would buy is already paid for — Vee’s body **catalogs the known mouth anyway** through the non-kiss mouth contact — so abstinence loses nothing and the final signature kiss stays the first and only one.
 
@@ -140,15 +146,16 @@ At some point under the blindfold a hand closes over Vee's bound hands: a damp c
 
 ### The kiss → recognition → sight (in that order)
 
-The act essentially complete (blindfold comes off *after*). A register shift signals *one more thing* without announcing it. Vee, sated, open, receives a kiss. **The gap her goodbye-kisses trained her to feel is there — but it’s not a goodbye, so it has nowhere to resolve.** Her body knows this kiss as physical certainty *before* a name; render the interval in pure sensation (her hand toward her own collarbone in the dark — the tell, one last time, before she knows what she’s telling). THEN the blindfold lifts: sight confirms flesh-knowledge. Recognition is already complete, so it telescopes straight into reconstruction.
+The act essentially complete (blindfold comes off *after*). A register shift signals *one more thing* without announcing it. Vee, sated, open, receives a kiss. **The gap her goodbye-kisses trained her to feel is there — but it’s not a goodbye, so it has nowhere to resolve.** Her body knows this kiss as physical certainty *before* a name; render the interval in pure sensation — a stillness, a caught breath, the knowing landing in the body with her hands bound and the **collarbone tell foreclosed** (it retires here; the reach is impossible). **Then she uses the release: she frees her own hands and removes her own blindfold — the first purely-her act.** Sight confirms flesh-knowledge. Recognition is already complete, so it telescopes straight into reconstruction.
 
 ### The image (the whole novel in one frame)
 
-**Randi’s beautiful face, smiling — hair a mess, caught up in Vee’s scrunchies, lipstick gone, mouth smeared with their combined fluids.**
+**Randi’s beautiful face, smiling — hair loose and wild, lipstick gone, mouth smeared with their combined fluids; the deep-green, white-polka-dot scrunchie on her wrist.**
 
 - Lead with the beauty (the payoff, the thing Vee half-loved). Degrade across the clause. Land on the mouth and the smear.
 - It’s the maintained surface destroyed — the contained, polished, reassembled Randi, for once unmanaged. (Terrible rhyme: Pace once saw the unmanaged Randi at a sink and she resented him; now Vee sees it and it ends them. Being truly seen is a catastrophe both times.)
 - **Don’t gloss “combined”** — the reader does the math at the speed of horror. It forces the whole reconstruction instantly, wordlessly.
+- **The scrunchie migrates to the wrist.** At some point in the act Randi **draws her silk-fine hair across Vee’s body** — which takes the scrunchie *out* of her hair — so at the reveal her hair is loose and wild and the deep-green, white-polka-dot scrunchie rides her **wrist**, on / near the manipulating hand: the year’s gaslight symbol at full light. It fires with the **full descriptor and no dismissal available** — the knife (`meta-plan-scrunchie-gaslight.md`; the green thread, below).
 - Her oldest shame (the secretions, reframed by Pace into something savored) turned back into horror — the savoring was real AND the bait, proof of both smeared across her best friend’s mouth.
 - The beauty and the betrayal made one face — Vee can never think one without the other. The fused desire-and-betrayal, permanent.
 
@@ -200,6 +207,18 @@ Shell-shocked and bitter; leaves soon. Reads Pace’s involvement as betrayal �
 - **Randi:** keeps everything material; left hollow, known, unable to feel her loss to its floor. Touched real stakes once and proved she couldn’t be trusted with them. Exiled to friction-less comfort.
 - **Pace:** between them; never saw any of it; holding a consent architecture with a hole in it; about to discover the betrayal he committed without intending one.
 - **Nobody gets resolution. Everybody gets the truth.** Not happy, not tragic — true.
+
+### The exit — objects over people, the closed door
+
+She **integrates rather than breaks down** — a **half-minute of not breathing**, cold reconstruction, not a scene. She frees herself, removes the blindfold, sees Randi's face (above), then Pace's smiling, oblivious face (oblivious because she is integrating, not emoting). She pulls on just enough clothes, **ignores what Pace and Randi are saying**, and leaves looking at the **objects, not the people** — the closed door, the not-looking-back. Three fates, layered so it never reads as a symbol-inventory:
+
+- **Seen and left:** the **green sheets** (used, on the bed) and **Danaë** (on the wall) — her claim on his space and his claim on her body, both renounced (`meta-note-danae.md`).
+- **Realized and left:** the **two pairs of shoes** side by side — she realizes she wore both borrowed pairs to his house (→ the shoe motif).
+- **Unseen and kept:** the **green panties** in Pace's drawer, the one artifact he keeps (below).
+
+She **closes the bedroom door** and walks out **barefoot to her Corolla.** **The friendship betrayal hits hardest** — harder than the romantic. She gives Pace and Randi nothing (she tells Cassie everything days later — the thesis scene).
+
+**The green thread converges here.** Green is Vee's interior color; at the climax the three green things distribute across the two who took her, each a different fate: **green sheets** (used, seen — her claim on his space, left); **green panties** (kept, unseen — Pace's, the one thing he keeps); **deep-green scrunchie** (stolen, seen — on Randi's wrist, the whole scrunchie-gaslight arc paid off in one image).
 
 ### The panties (the ending object)
 

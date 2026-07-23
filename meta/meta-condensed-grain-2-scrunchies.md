@@ -10,12 +10,12 @@ Randi wears Vee's scrunchies around Vee — and Vee is **thrilled**: the glamour
 
 ## Mechanism — evidence in the open, wearing a perfect disguise
 
-The sighting is fully conscious and completely misread. Vee's reading is flattery — and it has a characterological engine, planted in the fall ({{Shoe Shopping}}): **when Randi sees something she wants, she buys it.** *She saw it on me, she wanted it, she hunted it down — of course she did, she's Randi.* This is the **loving-Randi cover**, twin to grain #3's flicker of the loving-Pace story: every corrupted datum in the campaign gets explained by love. The evidence isn't suppressed; it's metabolized as intimacy — which actively protects Randi at grain #3, because "Randi wears scrunchies like mine" is already filed under *friendship* and can't combine with the form arithmetic into "Randi has *my* scrunchies."
+The sighting is fully conscious and completely misread. Vee's reading is flattery — and it has a characterological engine, planted in the fall ({{Sorority}}): **when Randi sees something she wants, she buys it.** *She saw it on me, she wanted it, she hunted it down — of course she did, she's Randi.* This is the **loving-Randi cover**, twin to grain #3's flicker of the loving-Pace story: every corrupted datum in the campaign gets explained by love. The evidence isn't suppressed; it's metabolized as intimacy — which actively protects Randi at grain #3, because "Randi wears scrunchies like mine" is already filed under *friendship* and can't combine with the form arithmetic into "Randi has *my* scrunchies."
 
 ## Shape
 
 - **First instance — spoken.** Vee delighted (*"did I actually convert you?"*); Randi's double-register reply: *"You've ruined me. I used to have standards."* Warm, frank, fun on first read; on reread she is being complimented on wearing the trespass to its owner's face, and accepting the compliment. No word changes.
-- **Recurrences — unremarked.** Set dressing riding scenes that do other work; no camera linger, no authorial wink. The prose says "a scrunchie" or at most "the green" — the color was named once, at the gift, and never again; the reader's memory does all the work.
+- **Recurrences — unremarked.** Set dressing riding scenes that do other work; no camera linger, no authorial wink. The prose says "a scrunchie" or "the green" on the incidental recurrences, but the **full descriptor fires at the load-bearing beats** — the christening ({{We Find Out}}), the recognizing instance here, and the reveal — routed through Vee's **notice-and-dismiss** so she reads it and overrides it (see [[meta-plan-scrunchie-gaslight]]); the reread does the rest.
 - **Late variation — post-Restoration.** One sighting where the delight takes a half-second longer to arrive. The only trace that her instrument is still running underneath. Theme-and-variations inside the grain.
 
 ## Guardrails (anti-telegraph)

@@ -34,7 +34,6 @@ MARK_RE = re.compile(r"\{\{([^}]+)\}\}")
 # canonical title; generic tails ("The Ask", "The Gift") and cluster stems
 # ("Secret Plans", shared by several chapters) are deliberately left out.
 ALIASES = {
-    "Shoe Shopping": "Shoe Shopping with Randi",
     "Broken In": "Broken In",
     "Porch Scene": "The Porch Scene",
     "Gesso": "Gesso — Vee Tells Randi",

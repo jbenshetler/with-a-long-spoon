@@ -113,6 +113,7 @@ this single space (the bathroom is off the hall, not in the room). **There is no
 - A **chair** he folds her clothes onto.
 - A **closet**; his **toy box** kept at the bottom, under the bottom shelf (`in-her-place.md`) — Randi's eyes go to it before the bench (`the-bench.md`).
 - Lit by **lamplight**, not overhead.
+- A framed **Klimt *Danaë* giclée** on the wall `[PLAN]` — Pace's summer gift to Vee, in a frame he built; hung here once his bedroom becomes theirs. Meaning and arc owned by `meta-note-danae.md`.
 
 ### Bathroom — off the hall `[PAGE]`
 Off the **hall**, past the office, around the corner from the bedroom (`the-bench.md`:
