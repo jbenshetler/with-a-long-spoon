@@ -60,11 +60,19 @@ He was hard. He could feel her registering it through her panties, the small shi
 
 She reached past him to the bowl. She took a slice of apple. She brought it to her mouth and bit half of it cleanly off and chewed and swallowed, looking at him, and then she leaned forward and kissed him with the half-slice still in her hand and the taste of apple in her mouth, and he kissed her back with one hand sliding up her back under her cardigan and into her hair.
 
-She ate three slices like that. Bite, kiss, bite. She did not finish the slice she was on. She fed him a bite from one of them. She did not finish that one either. He could feel the warm small concentrated weight of her on his thighs, the wiggling that came and went, the heat of her between his legs through his jeans and through her panties. He kept his hands at her hips and on her back. He did not move them lower. He was not in a hurry. He had not been in a hurry since the first night.
+She ate three slices like that. Bite, kiss, bite. She did not finish the slice she was on. She fed him a bite from one of them. She did not finish that one either. He could feel the warm small concentrated weight of her on his thighs, the heat of her between his legs through his jeans and through her panties.
 
-She had begun to slow on the apples. He could feel it: her hands were resting on his shoulders now rather than moving on him. She had eaten four slices. There were five left in the bowl. She would not eat them. She had eaten what she would eat. She kept her hands on him and looked down at him with the slightly altered weight of a woman who had finished what she was doing and was waiting for the next thing.
+His hands started to move while she ate. Not lower — up. Slow along her sides, from the hips up over the ribs under the cardigan and down again, one unhurried pass and then another, each time turning back a little higher, a little nearer the soft weight at the sides of her breasts, and each time leaving again before it arrived. He was in no hurry about it at all. He was, plainly, enjoying himself.
 
-"What are we doing tonight," she said.
+She caught him at it on the fourth pass. "You're doing that on purpose," she said, around the apple, not quite a complaint.
+
+"Doing what?" he said, and did it again.
+
+She narrowed her eyes and took another bite to prove the point, and the point did not survive the next pass — she drew her shoulders back and leaned into him, offering her breasts to his hands. His hands rose to the offer and turned back before they took it. The bite stopped halfway. She forgot to finish it, and the apple sat forgotten in her hand.
+
+She stopped pretending to eat. She set her hand to his jaw and kissed him — not the light back-and-forth of the apple game but a deep kiss, open and going somewhere, and she stayed in it. When she broke it she took his hands from her sides and drew them up and set them on her breasts, both of them, closing his fingers around what he had spent those minutes not taking. He let her. He held her the way she'd placed him, in no more of a hurry now than before.
+
+"What are we doing tonight," she said, her mouth still near his, the words gone breathy and impatient.
 
 It was not really a question. It was a request. The asking was part of how she handed the evening to him. He had thought, the first time, that she was being coy. He had decided, by the third time, that she was actually asking him to choose. It was the only zone of her life in which she did not choose, and he had begun to understand, slowly, that it might be the only zone of her life she did not want to choose in.
 
