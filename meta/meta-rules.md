@@ -153,6 +153,7 @@
 - [ ] The POV character notices specifics, not categories. Not *she was nervous* — the specific physical tell. Not *he was attracted* — where his attention goes and how long it stays.
 - [ ] Interior heat is rendered at the edges of held behavior, not stated directly. The reader feels what the character is controlling by watching the control exert itself.
 - [ ] When something matters to the POV character, the prose stays with it. The redhead gets paragraphs; the others get sentences. Duration tracks significance.
+- [ ] Role-label lanes (Vee's close third): **Randi is the best *friend* she's ever had; Pace is the best *listener*.** Never let Vee label Randi a "listener" or register Randi's attention as a remarkable thing — if the total attention surfaces as noteworthy, the extraction shows. Being-heard / confession language belongs to Pace only.
 
 **Objects and environment**
 - [ ] Objects carry weight when they have been established. The bench, the scrunchies, the shirt, the bowl of thin-sliced apple — introduced without emphasis, returned to with accumulation. Plant without flagging; return without explaining.
@@ -166,6 +167,7 @@
 
 **The body**
 - [ ] Physical response precedes cognition and is rendered before the character processes it. She did not address it. She was not going to address it. The body first; the management second.
+- [ ] Body-before-mind governs the *involuntary* — the arousal and shame tells her body volunteers without her consent (the wet spot, the flush, the breath going shallow). It does not govern Vee's conscious agency: she is experienced and owns her wants — she anticipates, dresses for it, decides, initiates. Rendering her chosen desire as body-hijacking-before-thought writes her as a novice or a puppet. Owned appetite beside involuntary betrayal — the contrast is the engine.
 - [ ] Involuntary responses are rendered with precision, not euphemism. *The slick of her already gleaming between her thighs.* The prose does not look away from the body; it does not look at it provocatively either. Clinical accuracy with emotional weight.
 - [ ] Touch is rendered from the inside of the touching, not as visual observation. The warmth under his palm. The small bumps of the vertebrae. The scene is felt, not filmed.
 

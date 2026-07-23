@@ -87,6 +87,12 @@ When committing a workshopped idea, write the agreed change into the relevant do
 
 If the author writes something and asks you to review it, delegate a continuity pass to the `lore-keeper` (quote their text in the prompt). Report what conflicts: the passage, the canon it contradicts, and the source. Never rewrite their text unless asked — "Found N issues: […]. Want me to suggest fixes?" If asked, suggest; don't apply. The author decides.
 
+**Verify scene participants before attributing anything to Vee.** A recurring error: several Pace-POV scenes render the woman as an unnamed "she" for long stretches, and she is usually **Randi**, not Vee — above all **"The Bench"** (opening scene, Pace/Randi, Vee absent; distinct from the later **"Vee on the Bench"**). Before crediting any contact, first, or trait to Vee, confirm the scene's POV/participants from its header and chronology entry — and when delegating a Vee continuity check, don't pre-label candidate scenes as Vee scenes (that primes the error); tell the lore-keeper to verify participants itself.
+
+### Where decisions live
+
+Anything durable is recorded in the versioned repo, never in a machine-local memory store — the author works across multiple clones, and session memory does not travel. Novel canon and craft rules go in the right `meta/` doc; assistant working rules go in this file; accepted style decisions go in `style/`. Local memory is for machine facts and soft working preferences only. When a session produces a committed decision, write it into the repo before the session ends.
+
 ### Style checking
 
 `tools/novel-assistant/na.py style` is a prose linter that flags style tics — literal phrases (`the way`) and structures (`X, not Y`) — plus hard canon breaches. It is **recall-first: it flags, it never fixes**, and it over-flags on purpose. Use it as a review aid on drafted prose; the judgment stays with you and the author. It needs no index and no Ollama.
@@ -179,3 +185,5 @@ Worked examples (all endorsed):
 **Anti-pattern (rejected):** "Still My Shirt," "Wearing Him" — they name the prop/gesture, so they telegraph and go inert once read.
 
 **When proposing titles:** lead with oblique/ironic frames; for each candidate, state the innocuous surface vs. the reread charge and which goals it hits; explicitly flag any candidate that names the central object/act (telegraphs) so it can be ruled out fast.
+
+**Calibration:** not-telegraphing is the only disqualifier; the other goals (dual reading, detonate-on-reread, frame-not-the-act) are tradeoffs the author will knowingly spend for curiosity, playfulness, or charge. Present misses beyond the telegraph floor as tradeoffs, not grounds for a rename — recommend, then let the author weigh. Don't re-litigate retained titles (e.g. **The Pointing Game**, kept on purpose after review).
