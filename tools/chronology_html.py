@@ -117,6 +117,8 @@ def _parse_point(text: str, fallback_month=None):
 
 def resolve_date(seg: str):
     """Return (offset, display, precision) for a date-ish segment, else None."""
+    approx = seg.strip().startswith("~")  # source ~ means the date is approximate
+    tilde = "~" if approx else ""
     s = seg.strip().lstrip("~").strip()
     if not s:
         return None
@@ -133,7 +135,7 @@ def resolve_date(seg: str):
         if not lp or not rp:
             return None
         off = (_offset(*lp) + _offset(*rp)) // 2
-        return off, "~" + s, "range"
+        return off, tilde + s, "range"
     low = s.lower()
     pt = _parse_point(s)
     if not pt:
@@ -145,7 +147,7 @@ def resolve_date(seg: str):
         prec = "day"
     else:
         prec = "month"
-    return off, "~" + s, prec
+    return off, tilde + s, prec
 
 
 # --- metadata segment classification ---------------------------------------
