@@ -1,6 +1,6 @@
 # Cold read — Synthesis
 
-*Arc-level trajectory across the 46 drafted scenes read in story order (The Bench → The Usual). Built from the blind-reader's per-scene reactions; every scene ran tripwire-clean (tool_uses: 0), i.e. the reader stayed on the page throughout. This is the naive first-reader's evolving experience, not a craft verdict — flag, don't fix.*
+*Arc-level trajectory across all **49 drafted scenes** read in story order — the full drafted Volume One, The Bench → Nothing Underneath (the contiguous run ends at the first undrafted gap, `Among Friends`). Built from the blind-reader's per-scene reactions; **every scene ran tripwire-clean (tool_uses: 0)**, i.e. the reader stayed on the page throughout. This is the naive first-reader's evolving experience, not a craft verdict — flag, don't fix.*
 
 ---
 
@@ -63,6 +63,16 @@ The through-line: the prose earns its silences beautifully, and the few misses a
 
 Across the run the blind-reader twice **confabulated "Peter"** as Pace's hidden name before *Rock* revealed it — pure guessing on its part (it was never fed the name), and it happened to match canon. Harmless to the reviews (marked as speculation, didn't propagate destructively), but worth knowing the model will sometimes invent a plausible detail. It did *not* recur as a blindness breach — tool_uses stayed 0 every scene.
 
+## The volume's close — the First Weekend Back triptych (Stranger → My Friend Randi → Nothing Underneath)
+
+The last three drafted scenes are the volume's climactic movement, and they're the strongest confirmation in the whole run that the engine works:
+
+- **`The Stranger`** (the honest daylight reach that fails): the reader was "gutted." Pace's stranger-cold ("Can I help you?") **collapsed the reader's sympathy** for him — but the text kept the ambiguity ("something moved in his face… flinched as if burned"), so the reader split him into *cruel-or-defended* rather than resolving him to a villain. The "Peter" name paid off everything it had been carrying.
+- **`My Friend Randi`** (the pivot): the reader's read of Randi **crossed from neutral to earned dread** — and, crucially, by the exact intended mechanism. It named the SATC engine unprompted ("she produces with words what he produces with his body"), watched Randi *author the coat plan while making Vee feel she found it herself*, and identified that **the cruelty is the selection, not a lie** — "everything she says is true; she just never once says he might have another woman." That's the double register at its most load-bearing, and it read clean.
+- **`Nothing Underneath`** (the wordless offering that works): the reader called it "the coldest chapter yet precisely because it plays entirely warm." The reconciliation reads as **Vee's total triumph and Randi's manufacture simultaneously** — the reader clocked "Randi present in the shoes the whole time," and clocked the **still-withheld word** sitting inside Pace's most naked moment ("I missed you so much" / voice cracks / never *I love you*). The title detonated twice on the last page ("nothing under the coat / nothing underneath the reconciliation either"). **"Vee is happiest at her most trapped. Dread, not relief."** That is the volume-ending note the architecture is built to hit, and the instrument hit it without the text ever winking.
+
+Two structural confirmations from this triptych worth noting: (1) the **running siren** echo (the earlier date-night cop) paid off as felt suspense, not as a checklist beat; (2) **Cassie's single "Hmm"** at the very end reads as the one sober set of eyes declining to celebrate — the moral floor held its position through the close.
+
 ## Bottom line
 
-The drafted Fall run does what the architecture asks: a first reader falls for Pace, is charmed by Randi, aches for Vee, and only feels the cold in the *pattern* and at the exact beats you planted — never as a broadcast signal. The dark is being earned by the light. The tightening notes are all small and consistent: **trust the image; cut the one summarizing clause at the end of the paragraph.**
+The full drafted Volume One does what the architecture asks: a first reader falls for Pace, is charmed by Randi, aches for Vee, and only feels the cold in the *pattern* and at the exact beats you planted — never as a broadcast signal. The dark is being earned by the light, right through the volume's climax: the reconciliation that closes the book is *real and manufactured at once*, and the reader felt both without the scene signposting either. The tightening notes are all small and consistent: **trust the image; cut the one summarizing clause at the end of the paragraph.**
