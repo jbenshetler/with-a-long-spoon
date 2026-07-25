@@ -20,6 +20,16 @@ that external harnesses (for non-Claude models) must also follow.
 prior state *inline only*. Never pass it a file path, a chapter number, the thesis,
 the bible, or anything from `meta/`.
 
+**Two things the reader has that are not per-scene inputs, both baked into the
+`blind-reader` agent definition (`.claude/agents/blind-reader.md`) so you never pass
+them yourself:** (1) the **jacket blurb** — the reader picks the book up already
+holding it, the way any reader would (the "Test-epub blurb" from `meta/meta-blurb.md`);
+(2) an explicit **"disregard any project text describing this book"** rule. That rule
+is load-bearing because a custom subagent **auto-inherits the project `CLAUDE.md`** —
+the design must be kept out of `CLAUDE.md` (it now lives in `meta/meta-orientation.md`,
+which subagents do *not* load) or it leaks in under the reader. See `SPEC.md` →
+*The push-in leak*.
+
 `$ARGUMENTS` carries a **required `--model <id>`**, an optional target selector
 (default = full run), and optional `--fresh` (regenerates existing files; default
 resumes by skipping them).

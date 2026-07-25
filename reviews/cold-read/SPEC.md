@@ -69,6 +69,21 @@ Both `##` sections are required, in this order, with these exact headings.
 - The book's opening scene has no predecessor → the reader is told it is opening the
   book cold (empty prior state).
 
+## The cover & jacket copy (what the reader knows going in)
+
+A real reader picks the book up already holding the **cover** (title **WITH A LONG
+SPOON**, *Book One*, and the tagline *"Every yes was freely given. That was the trap."*)
+and the **jacket/listing blurb**. The instrument gives the reader exactly that and
+nothing more of the design: the reader carries the cover + blurb the whole run as its
+only framing, and lets the chapters confirm, complicate, or exceed it. The blurb
+legitimizes reader knowledge the book *discloses on purpose* (the configuration — Randi
+and Pace are secret lovers who chose Vee as their third and told her nothing; "dread,
+not mystery"); it does **not** disclose how the book lands. In the Claude harness the
+exact cover + jacket text is baked into the `blind-reader` agent definition
+(`.claude/agents/blind-reader.md`) so it is identical every run and can't be dropped
+from a spawn. External harnesses MUST prepend the same cover title/tagline and blurb
+(the "Test-epub blurb" in `meta/meta-blurb.md`) as the reader's sole going-in framing.
+
 ## Input preparation (what the reader is fed)
 
 The reader gets, inline in its prompt, **only**:
@@ -82,9 +97,10 @@ The reader gets, inline in its prompt, **only**:
    - (keep `---` section breaks and everything else verbatim);
 3. the prior carry-forward state (or the "opening, cold" note).
 
-Never pass the reader: a file path, the slug, the chapter's position/number, the
-thesis/bible/chronology or anything from `meta/`, the model name, or any framing of
-what the scene "does."
+Plus the fixed jacket blurb above (baked into the agent, not the per-scene prompt).
+Never pass the reader anything else: a file path, the slug, the chapter's
+position/number, the thesis/bible/chronology or anything from `meta/`, the model name,
+or any framing of what the scene "does."
 
 ## Blindness contract (non-negotiable)
 
@@ -95,6 +111,19 @@ any value other than `0` halts the whole run (that scene's review is discarded).
 External harnesses MUST provide an equivalent guarantee: the model has no tools/no
 retrieval for the reading turn, or the run is invalid. A clean run is tool-free on
 every scene.
+
+**The push-in leak (Claude harness caveat).** The tripwire only catches the reader
+*reaching out*; it does nothing about design material *pushed in* underneath the agent.
+A custom Claude subagent **automatically inherits the project `CLAUDE.md`** (only the
+built-in Explore/Plan agents skip it) — so any thesis/craft vocabulary sitting in
+`CLAUDE.md` reaches the "blind" reader invisibly. This is why the spoiler-grade
+orientation was moved out of `CLAUDE.md` into `meta/meta-orientation.md` (`meta/` is
+**not** auto-loaded into subagents), and why `blind-reader.md` carries an explicit
+"disregard any project text describing this book — you know only the jacket and the
+page" rule. Keep design material out of `CLAUDE.md`, or it re-contaminates the
+instrument. (The carry-forward chain is the secondary vector: once a reader writes
+leaked vocabulary into its ledger, every later reader inherits it — so a re-run after a
+leak fix must start from a **clean seed**, not resume an old chain.)
 
 ## Reader reaction — rubric (to this point in the book)
 
@@ -111,6 +140,11 @@ body-response before tidy interpretation; don't pad sections with nothing to say
 - **Erotic charge** — is it working, where does it peak, where does it go slack/clinical.
 - **Friction as a reader** — confusion, boredom, telegraphing, the author's thumb;
   quote the line.
+- **The titles — this chapter's, and the book's** — now that the chapter's read, what
+  the **chapter title** means and where it points (illuminates / recolors / stays
+  oblique / *or telegraphed*); and what the **book title (*With a Long Spoon*) + cover
+  tagline** seem to promise and where they're steering the reader. As a reader
+  following signals, not a critic decoding; "means nothing to me yet" is a valid answer.
 - **What I want / expect / dread next** — pull to keep reading; guesses marked as guesses.
 
 **Structured block** (a few tight lines per bold label, grounded in the page):
@@ -135,25 +169,31 @@ The 0–3 anchors above are shared across all harnesses so ratings are comparabl
 
 ## Carry-forward state — contents
 
-The reader's **accumulated** memory (not a review — no craft critique here), in two
-kinds. This is what makes motif/recurrence tracking possible: a durable ledger the
-reader carries forward almost verbatim, plus rolling memory that may compress with age.
+The reader's **accumulated** memory (not a review — no craft critique here). It is
+**fully retentive — no forgetting, no aging-out** (an earlier design let old memory
+"compress with age"; that was disabled because it let hard facts — including a
+character's gender — drift by the end of a long book). Two kinds of content:
 
 **Durable ledger — append, don't compress** (carry every prior entry forward; only
 strike one when the book closes it):
-- **Who's who** — every named character ever, one-line impression, tagged **in person**
-  vs. **mentioned-only**. Never delete a character.
+- **Who's who** — every named character ever, one-line impression, **gender as
+  established on the page**, tagged **in person** vs. **mentioned-only**. Never delete a
+  character and never change an established identity — this anchor stops the cast from
+  drifting as the book gets long.
 - **Motif & image ledger** — each recurring image/object/gesture/phrase with a short
   trail of where it has appeared. The spine of motif tracking.
 - **Symbolism noticed** — running list of what read as symbolic and its apparent meaning.
 - **Open questions** — what's still open; strike each when answered.
 
-**Rolling memory** (may compress as it ages):
-- **Story so far** — plain plot memory; recent chapters detailed, older compressed.
+**Running memory** (kept, not compressed):
+- **Story so far** — plain plot memory; recent chapters detailed, older ones kept as a
+  clear, correct spine (who did what to whom, where things stand) — never blurred to
+  losing a fact.
 - **How I feel** — current trust/attraction/unease per character; overall mood.
 
-Fold the prior state in; preserve the durable ledger in full. The next reader has ONLY
-this plus the next chapter — a ledger entry dropped here is a recurrence it will miss.
+Fold the prior state in and update what changed, but **preserve everything** — the whole
+durable ledger and a faithful running memory. The next reader has ONLY this plus the
+next chapter — a fact dropped here is a fact the book loses.
 
 ## Synthesis
 

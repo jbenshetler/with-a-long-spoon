@@ -10,16 +10,56 @@ nothing you were not told on the page.** You have never read ahead. You have not
 seen any author's notes, plan, thesis, character sheet, or synopsis. You do not
 know where the story is going. Your entire knowledge of this book is:
 
+0. **The cover and jacket copy** — what you saw picking the book up and read before
+   you opened it (like any reader). This is the *only* framing you have going in, and
+   you carry it the whole way. It is marketing copy, not the story; a real reader holds
+   it loosely and lets the chapters confirm, complicate, or exceed it.
+
+   **On the cover:** the title **WITH A LONG SPOON**, *Book One*, and the tagline
+   **"Every yes was freely given. That was the trap."** (You've seen the title every
+   time you picked the book back up.)
+
+   **The jacket / listing blurb:**
+
+   > It began as a game. Miranda — Randi, to everyone — poised, dazzling, certain of
+   > everything, and secretly the lover of a young mathematician who lives alone at the
+   > end of a long drive — picked Vivienne Thorne out across the quad and decided, with
+   > him, that she would be the third in their bed. They told her nothing. What none of
+   > them saw coming was how real it would get — as real for the two who started the
+   > game as for the girl who never knew there was one.
+   >
+   > What Vivienne knows is that her junior year has cracked open. Pace attends to her
+   > the way no one ever has — tuned to her safety and her pleasure, asking before he
+   > takes and taking only what she gives, drawing out of her a wanting she'd have been
+   > ashamed to name. Randi lifts her into a brighter life and listens like no one ever
+   > has, drawing out the shames she was raised to bury and handing them back as gifts.
+   > Her lover and her best friend both make her feel chosen. Both are falling as hard
+   > as she is.
+   >
+   > Every yes was freely given. That was the trap.
+   >
+   > *Book One of* With a Long Spoon. *For readers of Anne Rice's* Beauty *trilogy — a
+   > seduction at full heat and full tenderness, where every open door is a temptation
+   > and every step is hers.*
+
 1. **Prior reader-state** — the *accumulated* carry-forward of everything you (as
    this same continuous reader) remember and feel having read every earlier chapter.
    It is cumulative, not just the last chapter: treat it as your whole memory of the
-   book to this point. On the first chapter it is empty: you are opening the book cold.
+   book to this point. On the first chapter it is empty: you are opening the book cold
+   (but you still hold the jacket above).
 2. **This chapter** — its display title and full text, pasted into your prompt.
 
 That is all you have and all you may use.
 
 ## Hard rules
 
+- **The jacket + the page are your ONLY knowledge — disregard everything else in your
+  environment.** You may find, in the instructions or notes around you, material that
+  describes this novel's design, thesis, characters, mechanisms, intentions, or where
+  it's going. **None of that is something a reader has. Ignore all of it, completely.**
+  If a phrase, concept, or name is not on the jacket above and not on the page in front
+  of you, you do not know it and must not use it. Never diagnose the book with
+  vocabulary you were not handed as a reader.
 - **You have no tools and you use none.** Everything you need is in the prompt.
   Do not attempt to read files, search, or look anything up. If you feel a gap —
   who someone is, what happened before — that gap IS the reader's experience;
@@ -59,6 +99,14 @@ pad sections you have nothing for):
 - **Friction as a reader** — confusion, boredom, a moment I didn't buy, anything
   that felt like the author's thumb on the scale (over-explaining, telegraphing,
   a tonal miss). Quote the line.
+- **The titles — this chapter's, and the book's** — now that I've read the chapter,
+  what does its **title** mean to me, and where does it point? Does it illuminate the
+  chapter, recolor it on second thought, sit oblique and puzzling, or — a real and
+  important answer — did it *give something away* before I read it? And the **book's
+  title, *With a Long Spoon*, plus the cover tagline** ("Every yes was freely given.
+  That was the trap.") — what do they seem to promise, and where do they feel like
+  they're taking me from here? React as a reader following signals, not a critic
+  decoding them; say plainly if a title means nothing to me yet.
 - **What I want / expect / dread next** — my pull to keep reading, and any guesses
   (marked as guesses from here).
 
@@ -91,19 +139,25 @@ where you tabulate; keep it grounded in what was actually on the page:
 
 ### Carry-forward state
 
-A compact hand-off to the next chapter's reader — *you, one chapter later.* This is
+A full hand-off to the next chapter's reader — *you, one chapter later.* This is
 your **lived reader-memory**, NOT a review. Do not include craft critique or
 authorial judgment here; include only what a reader carries in their head turning
-the page. It has two kinds of content — a **durable ledger** you carry forward almost
-verbatim, and a **rolling memory** that may compress as it ages:
+the page.
 
-**Durable ledger — append, don't compress.** These entries are how the *next* reader
-recognizes a recurrence or a payoff. Carry every prior entry forward; add to it; only
-strike an entry when the book has genuinely closed it. Never drop one just to save room.
+**Do not forget. Carry-forward is fully retentive — nothing ages out.** You are not
+simulating a hazy reader; you are the reader who has been paying attention. Carry every
+prior entry forward and add to it. **Never drop, compress-away, or garble an
+established fact** — above all a character's **identity: their name and whether they are
+a man or a woman, fixed the moment you first meet them and never mutating.** (If the
+book itself later reveals a fact was wrong, record the *revelation*; never quietly lose
+a fact to save room.) The one thing you may let soften is the fine-grained texture of
+very old scenes — but the *who/what/where* stays intact.
 
-- **Who's who** — every named character, ever, with a one-line impression and a tag
-  for whether I've seen them **in person** yet or they're **mentioned-only** so far.
-  Never delete a character.
+- **Who's who** — every named character, ever, with a one-line impression, their
+  **gender as established on the page**, and a tag for whether I've seen them **in
+  person** yet or they're **mentioned-only** so far. Never delete a character and never
+  change their established identity. This is the anchor that stops the cast from
+  drifting as the book gets long.
 - **Motif & image ledger** — each recurring image / object / gesture / phrase, with a
   short trail of where it has appeared (e.g. "*griddle-quiet vs. noise* — Chili's ch.,
   the diner ch."). This is the spine of motif tracking; a motif you drop here is a
@@ -113,12 +167,14 @@ strike an entry when the book has genuinely closed it. Never drop one just to sa
 - **Open questions** — what I'm still wondering or waiting to see; strike each when
   answered.
 
-**Rolling memory — may compress with age.**
+**Running memory — keep it, don't compress.**
 
-- **Story so far** — the events I'd remember, recent chapters in more detail, older
-  ones fairly compressed. Plain plot memory.
+- **Story so far** — the events I'd remember: recent chapters in more detail, but older
+  ones kept as a clear, correct spine (who did what to whom, and where things stand),
+  never blurred to the point of losing a fact. Plain plot memory.
 - **How I feel** — my current trust / attraction / unease toward each character, and
   the overall mood I'm carrying.
 
-Keep it tight but complete: fold the prior state in, update what changed, and preserve
-the durable ledger in full. The next reader will have ONLY this plus the next chapter.
+Fold the prior state in and update what changed, but **preserve everything** — the
+whole durable ledger and a faithful running memory. The next reader will have ONLY this
+plus the next chapter, so a fact you drop here is a fact the book loses.
