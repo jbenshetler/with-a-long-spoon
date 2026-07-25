@@ -9,12 +9,13 @@ this repo (`.claude/commands/cold-read.md`); non-Claude models (`gemini-*`, `gpt
 ## What a cold read is
 
 A **blind, sequential first reader.** For each drafted chapter, in story order, a
-model reads *only*: the chapter's display title, its clean prose, and a carry-forward
-summary of the reader's experience through the previous chapters. It has seen no
-planning material, no future chapters, no author intent. It returns a **reader
-reaction** (how the chapter lands, to this point) and an updated **carry-forward
-state** (what this continuous reader now knows/feels) that feeds the next chapter.
-The instrument measures whether the book "earns the dark by being light."
+model reads *only*: the chapter's display title, its clean prose, and the
+**accumulated** carry-forward of the reader's experience through *all* previous
+chapters (not just the last one). It has seen no planning material, no future
+chapters, no author intent. It returns a **reader reaction** (how the chapter lands,
+to this point) and an updated **carry-forward state** (what this continuous reader now
+knows/feels) that feeds the next chapter. The instrument measures whether the book
+"earns the dark by being light."
 
 ## Directory layout
 
@@ -97,7 +98,11 @@ every scene.
 
 ## Reader reaction — rubric (to this point in the book)
 
-Cover, in natural order (don't pad sections with nothing to say):
+Two parts, in order: a **felt read** (prose) then a **structured block**. Keep them
+separate so the tabulation never contaminates the gut response. Quote the page;
+body-response before tidy interpretation; don't pad sections with nothing to say.
+
+**Felt read** (a person talking):
 - **How I feel about each character right now** — attraction, trust, sympathy,
   discomfort; what moved since last chapter and why.
 - **Trust vs. suspicion** — does anyone/anything feel "off" yet? Be precise about
@@ -108,18 +113,47 @@ Cover, in natural order (don't pad sections with nothing to say):
   quote the line.
 - **What I want / expect / dread next** — pull to keep reading; guesses marked as guesses.
 
-Write as a person talking; quote the page; body-response before tidy interpretation.
+**Structured block** (a few tight lines per bold label, grounded in the page):
+- **Cast present (in person):** characters who physically appear and act in this
+  chapter's scene, vs. mentioned-only names (list those separately).
+- **Heat:** 0–3 + half-line why. **0** none · **1** charged/simmering (clothed
+  tension, innuendo) · **2** explicit sexual activity, present but not the whole scene ·
+  **3** graphic, sustained, the scene's center.
+- **Romance:** 0–3 + half-line why. **0** none · **1** faint warmth/pull · **2** clear
+  tenderness/intimacy · **3** romantic peak (declaration, devotion, a turn in the bond).
+- **Motifs & images:** recurring images/objects/gestures/phrases noticed — flag any
+  that **recur** from earlier chapters (name the earlier appearance) and mark first vs.
+  repeat.
+- **Symbolism:** anything reading as more than itself — only if the page invited it.
+- **Characterization:** is each character landing as consistent and deepening, or
+  flattening / contradicting / serving the plot? Name who deepened, who went thin.
+- **Pace — within the chapter:** where it dragged or rushed; did it earn its length.
+- **Pace — chapter to chapter:** momentum vs. the last chapter and the run — building,
+  holding, or sagging; too much of the same beat in a row.
+
+The 0–3 anchors above are shared across all harnesses so ratings are comparable.
 
 ## Carry-forward state — contents
 
-A compact, cumulative **reader-memory** (not a review — no craft critique here):
-- **What happened** — plain plot memory, a few lines.
-- **Who's who** — each named character + the one-line impression currently held.
-- **How I feel** — current trust/attraction/unease per character; overall mood.
-- **Open questions** — what the reader is still wondering/waiting to see.
+The reader's **accumulated** memory (not a review — no craft critique here), in two
+kinds. This is what makes motif/recurrence tracking possible: a durable ledger the
+reader carries forward almost verbatim, plus rolling memory that may compress with age.
 
-Fold the prior state in; update what changed; drop nothing load-bearing. The next
-reader will have ONLY this plus the next chapter.
+**Durable ledger — append, don't compress** (carry every prior entry forward; only
+strike one when the book closes it):
+- **Who's who** — every named character ever, one-line impression, tagged **in person**
+  vs. **mentioned-only**. Never delete a character.
+- **Motif & image ledger** — each recurring image/object/gesture/phrase with a short
+  trail of where it has appeared. The spine of motif tracking.
+- **Symbolism noticed** — running list of what read as symbolic and its apparent meaning.
+- **Open questions** — what's still open; strike each when answered.
+
+**Rolling memory** (may compress as it ages):
+- **Story so far** — plain plot memory; recent chapters detailed, older compressed.
+- **How I feel** — current trust/attraction/unease per character; overall mood.
+
+Fold the prior state in; preserve the durable ledger in full. The next reader has ONLY
+this plus the next chapter — a ledger entry dropped here is a recurrence it will miss.
 
 ## Synthesis
 

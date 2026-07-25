@@ -35,8 +35,12 @@ per-model `SYNTHESIS.md` files side by side.
   same carry-forward chaining and blindness rules — so its files line up exactly with
   the Claude runs.
 
-Each file holds two parts: **`## Reader reaction`** (the deliverable — how the chapter
-lands, to this point) and **`## Carry-forward state`** (plumbing — the experiential
-reader-memory fed to the next chapter's reader; editing a source scene re-arms it and
-makes every downstream file stale). These are reader reactions, not canon and not
-craft verdicts — the judgment stays with the author.
+Each file holds two parts: **`## Reader reaction`** (the deliverable — a felt read
+followed by a structured block: cast present in person, Heat/Romance 0–3, motifs &
+symbolism, characterization, and pace within- and between-chapters) and
+**`## Carry-forward state`** (plumbing — the *accumulated* reader-memory fed to the
+next chapter's reader, carrying a durable ledger of who's-who / motifs / symbolism /
+open questions; editing a source scene re-arms it and makes every downstream file
+stale). These are reader reactions, not canon and not craft verdicts — the judgment
+stays with the author. Ratings use shared 0–3 anchors (see `SPEC.md`) so they compare
+across models.

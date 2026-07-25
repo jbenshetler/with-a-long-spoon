@@ -80,9 +80,13 @@ and stop rather than guessing.
 ## Step 3 — Determine each target's input carry-forward
 
 Each `blind-reader` needs the **prior chapter's `## Carry-forward state`** as input.
-For each target, the predecessor is the drafted scene immediately before it in the
-manifest. **Chains are per-model: only ever read carry-forward from this model's own
-subdirectory — never mix carry-forward across models.**
+That carry-forward is itself **accumulated** — each reader folds all earlier chapters
+into it and preserves a durable ledger (who's-who, motif/image ledger, symbolism, open
+questions) in full — so passing the predecessor's carry-forward passes the reader's
+whole memory of the book to that point, not just the last chapter. For each target, the
+predecessor is the drafted scene immediately before it in the manifest. **Chains are
+per-model: only ever read carry-forward from this model's own subdirectory — never mix
+carry-forward across models.**
 
 - The **very first drafted scene of the book** (The Bench) has no predecessor →
   input is empty (opening the book cold).
@@ -155,7 +159,13 @@ reviewed, for this model —
 - **where (if anywhere) suspicion of Randi first leaks**, and whether the text
   earned it — the key "earn the dark" signal;
 - where sympathy for and attraction to Pace peak or wobble;
-- erotic momentum across the run (where it builds, where it flags);
+- erotic momentum across the run — trace the per-scene **Heat** and **Romance** (0–3)
+  as curves; where each builds, peaks, flags;
+- **motifs & symbolism** — which recurring images/objects/phrases accreted across the
+  run, and where a recurrence paid off or went inert;
+- **characterization** across the arc — who deepened, who flattened or drifted;
+- **pace** across the arc — stretches that dragged or rushed, or too much of one beat
+  in a row;
 - any telegraphing / confusion / thumb-on-the-scale clusters worth the author's eye.
 
 One SYNTHESIS per model, in that model's subdir. Skip it for a single-scene run.
