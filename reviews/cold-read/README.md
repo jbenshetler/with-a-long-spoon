@@ -1,22 +1,42 @@
 # Cold Read — first-reader panel
 
-Output of the `/cold-read` command: a blind, sequential reader's reaction to each
-drafted chapter, plus an arc-level `SYNTHESIS.md`.
+Blind, sequential reader reactions to each drafted chapter, **one run per model**, so
+the same book can be read by many models and compared. Each `<model-id>/<slug>.md` is
+written by a reader that saw **only** the chapter's title, its clean prose, and a
+carry-forward summary of the reader's experience through the previous chapters — never
+the planning corpus, thesis, or character bible. It is the instrument for the book's
+central craft rule ("earn the dark by being light"): a first-time reader should fall
+for Pace and should *not* suspect Randi until the pattern earns it.
 
-Each `<slug>.md` here is written by a `blind-reader` subagent that saw **only** the
-chapter's title, its full text, and a carry-forward summary of the reader's
-experience through the previous chapters — never the planning corpus, thesis, or
-character bible. It is the instrument for the book's central craft rule ("earn the
-dark by being light"): a first-time reader should fall for Pace as hard as Vee does
-and should *not* suspect Randi until the pattern earns it. These files measure
-whether that's landing.
+## Layout
 
-Each file has two parts:
+```
+reviews/cold-read/
+  README.md            ← this file
+  SPEC.md              ← the shared file/harness contract (read this to add a model)
+  <model-id>/          ← one dir per model, e.g. claude-opus-4-8, gemini-2.5-pro
+    <slug>.md          ← per-scene review (Reader reaction + Carry-forward state)
+    SYNTHESIS.md       ← that model's arc-level synthesis
+```
 
-- **`## Reader reaction`** — the deliverable: how the chapter lands, to this point.
-- **`## Carry-forward state`** — plumbing: the experiential reader-memory fed to the
-  next chapter's reader. Editing the source scene re-arms this and makes every
-  downstream file stale (the command warns you).
+Model dirs are named by **versioned id** (`claude-opus-4-8`, `claude-fable-5`,
+`gemini-2.5-pro`, `gpt-5`, `grok-4`, …). Cross-model comparison is done by reading the
+per-model `SYNTHESIS.md` files side by side.
 
-These are reader reactions, not canon and not craft verdicts — the judgment stays
-with the author. Files are living (overwritten on re-review); git keeps history.
+## Producing a run
+
+- **Claude tiers** (opus/fable/sonnet/haiku): `/cold-read --model <id> [target]` in
+  this repo. The command spawns a tool-starved `blind-reader` subagent, runs the
+  scenes sequentially with a per-scene blindness tripwire (`tool_uses` must be 0), and
+  writes into `reviews/cold-read/<id>/`. Non-Claude ids are refused with a pointer to
+  the external harness.
+- **Non-Claude models** (gemini/gpt/grok/…): produced by a separate harness that
+  **must follow `SPEC.md`** — same layout, same filenames, same two-section format,
+  same carry-forward chaining and blindness rules — so its files line up exactly with
+  the Claude runs.
+
+Each file holds two parts: **`## Reader reaction`** (the deliverable — how the chapter
+lands, to this point) and **`## Carry-forward state`** (plumbing — the experiential
+reader-memory fed to the next chapter's reader; editing a source scene re-arms it and
+makes every downstream file stale). These are reader reactions, not canon and not
+craft verdicts — the judgment stays with the author.
