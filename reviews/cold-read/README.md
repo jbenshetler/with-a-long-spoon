@@ -25,7 +25,7 @@ per-model `SYNTHESIS.md` files side by side.
 
 ## Producing a run
 
-- **Claude tiers** (opus/fable/sonnet/haiku): `/cold-read --model <id> [target]` in
+- **Claude tiers** (opus/fable/sonnet/haiku): `/wals-cold-read --model <id> [target]` in
   this repo. The command spawns a tool-starved `blind-reader` subagent, runs the
   scenes sequentially with a per-scene blindness tripwire (`tool_uses` must be 0), and
   writes into `reviews/cold-read/<id>/`. Non-Claude ids are refused with a pointer to

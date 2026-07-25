@@ -36,8 +36,6 @@ He could see the missing inference every time she came in. He did not press it. 
 
 He took the small bowl out of the refrigerator, the one he had sliced the apple into before she got there. The apple was a honeycrisp. He had sliced it thin because she would eat thin slices and would not eat thick ones, and he had laid the slices in the bowl with the cut sides up because last he had noticed that she ate them faster when the cut sides showed.
 
-None of which he had mentioned to her. None of which he would.
-
 He set the bowl on the kitchen table.
 
 "I sliced this for you."
@@ -76,7 +74,7 @@ She stopped pretending to eat. She put the last of the slice to his mouth, and h
 
 "What are we doing tonight," she said, her mouth still near his, the words gone breathy and impatient.
 
-It was not really a question. It was a request. The asking was part of how she handed the evening to him. He had thought, the first time, that she was being coy. He had decided, by the third time, that she was actually asking him to choose. It was the only zone of her life in which she did not choose, and he had begun to understand, slowly, that it might be the only zone of her life she did not want to choose in.
+It was not really a question. It was a request — part of how she handed the evening to him. It was the only zone of her life in which she did not choose, and he had begun to understand, slowly, that it might be the only zone she did not want to choose in.
 
 He looked up at her. He brushed a strand of black hair back behind her ear with one hand, slowly, and let his fingers stay at the side of her neck.
 
@@ -177,7 +175,7 @@ He lifted her hand and looked at it: the perfect natural nails, bare, unpainted,
 
 He intended, before the night was out, to take the gloss well past itself.
 
-He let her feel him do all of it, and he did not tell her any of it. He had a word for what he held in his hands, and it sat behind his face where she could not see it, and he was not going to spend it yet.
+She felt all of it. The word for what he held stayed behind his face, and he let his hands say the nearer things.
 
 "Come here," he said.
 
@@ -235,7 +233,7 @@ She breathed.
 
 He kept his hand on her. He moved it slowly across the heat of her skin — the small of her back first, the shallow concave there still faintly damp from where his mouth had been earlier, then down to the right hip, the bone under the muscle, the lean line where the waist dipped in and the curve began. His palm slid around the outer thigh where the long muscle sat firm under the soft skin, the skin there cooler than the skin of her ass, catching faintly against his palm on the down-stroke. He brought the hand around the front, sliding between the leg support and her body, and let his fingers travel up the inside of her thigh until the tips found the wetness — the slick heat of it, the small sound as his fingers parted the lips and registered the gloss, the frank female smell of her rising between her legs and mixing with the warmer smell of her skin. He did not linger. He brushed the place, registered the slick, and moved on, hand rising to the left hip, the outside of the left thigh, the back of the leg.
 
-He was teaching her the map of what was his for the next hour. The hand would be on her, all of her, without rushing. She was going to have to be present for it.
+He was showing her the map of the next hour. His hand would be on all of her, slowly, and he was in no hurry about any of it.
 
 He bent at her side and kissed the back of her neck where the hair had already begun to dampen. The skin there was hot. He tasted salt. She made a sound that was not the first sound she had made — lower, from farther down in her chest, a sound that carried hunger without knowing it yet. He let the kiss linger. The heat of her neck against his mouth. The first ungoverned smell of her rising from the skin under the perfume.
 
@@ -243,11 +241,9 @@ He bent at her side and kissed the back of her neck where the hair had already b
 
 He straightened. He brought his hand down on her, the first strike, palm flat, not hard, on the right side of her ass. The sound was small and sharp in the warm room — skin meeting skin, the small shock of it. She gasped. The gasp was real — brief, breath-driven, the sound of a woman who had been braced for pain and received it and was already recalibrating. He watched the pink rise on her pale skin in the shape of his hand. He soothed the place with his palm, three slow passes, feeling the warmth rise under his hand, the skin already beginning to change temperature.
 
-Then the second strike, a little harder, on the same place. The sound was louder. Her gasp came with it, and the pink was already deeper. He soothed again — the skin now hotter, the faintest dampness rising under his palm, the small slick of his own skin against hers.
+Then the same place again, harder, the pink deepening; then the left side, twice. A ripple of goose bumps lifted across the cooler skin of her thighs and settled. Her breathing began to change — the inhale shorter, the exhale longer, the small held spaces where her body was working to understand what was happening.
 
-A ripple of goose bumps lifted across the cooler skin of her thighs, then settled again. Then the left side, twice, with the soothing between each one, and her breathing was beginning to change — the inhale shorter, the exhale longer, the small spaces between them where her body was working to understand what was happening.
-
-He worked her like that for several minutes. The strikes came in clean pairs, left then right, sharp and rhythmic. He did not linger between them. When he paused it was only to lay his palm flat over the place he had struck, feeling the heat rise under his hand before moving on.
+He worked her like that for several minutes, the strikes in clean athletic pairs, left then right. He did not linger between them.
 
 Between the eighth and ninth pair he stopped. He stepped to her right side and ran his hand from her left shoulder all the way down her spine to the back of her right knee, the long slow stroke, the heat of her back under his palm, the sweat now visible between her shoulder blades in a thin dark line.
 
@@ -297,7 +293,7 @@ He hit her, hard, on the high point of her ass, the place where the skin was alr
 
 He kept going, varying the rhythm and placement, alternating strikes with shifting intervals of touch and attention so she could not anticipate what came next.
 
-He did not begin the edging until her ass was beautifully red and she was trembling continuously, the small fine tremors of a body whose nervous system had reorganized around the situation it was in. He had been keeping his hand away from the front of her on purpose — checking only briefly between strikes, registering that she was wetter than she had been at the beginning, wetter than she had been ten minutes ago, getting wetter with every pair of strikes whether she liked the fact or not. He had not told her any of this yet. He was saving it.
+He did not begin the edging until her ass was beautifully red and she was trembling continuously, the small fine tremors of a body whose nervous system had reorganized around the situation it was in. He had been keeping his hand away from the front of her on purpose — checking only briefly between strikes, feeling how much wetter she was than at the beginning, wetter than ten minutes ago, getting wetter with every pair of strikes whether she liked the fact or not.
 
 He slid his fingers between her legs again.
 
@@ -343,9 +339,7 @@ He waited. He let her settle. He stroked her back. He watched. Wetness had gathe
 
 The sound she made this time was different. Lower. Something from further down in her than the sounds that had come before.
 
-Then he started again — slowly, with his fingers, finding her rhythm and then deliberately not matching it, building her toward the edge of something and then, when she was almost there, stopping again. He held his hand still against her and waited for the wave to recede in her body. Then he resumed, from further back than she had been, building her again. He stopped again. The third time he did it, she said his name through her teeth.
-
-"Pace," she said.
+"Pace," she said, through her teeth.
 
 "Yes," he said.
 
@@ -389,7 +383,7 @@ This time he stayed with the feeling. She was furnace-hot and so wet his fingers
 
 "I — please, please make me come, *please.*"
 
-Three *pleases* in a row, which she had not done before. But it was not the right *please* yet. It was still her *please.* It was still being said in the voice she said *please* in when she wanted a glass of water from a waiter she found beneath her notice. She did not yet know she was saying *please* like that. She was about to know.
+Three *pleases* in a row, which she had not done before. But it was not the right *please* yet. It was still her *please.* It was still being said in the voice she said *please* in when she asked a waiter for a glass of water. She did not yet know she was saying *please* like that. She was about to know.
 
 He straightened up. He did not start the edging again. He stood behind her, his hand on her back, and watched her.
 
@@ -411,7 +405,7 @@ She did not say anything for a long moment. The breathing he could hear from her
 
 She took her time. He could see, in the small movements of her face which was at the low point and turned sideways now, that she was trying to find the surface she could not find. The surface had a script for this. The script said you turned the heat up, you pouted, you made him want you so badly he gave you what you wanted as proof of his desire. The script was for the *wanted* position. She was excellent at the wanted position. She had spent her whole adult life there.
 
-The bench was not the wanted position. The bench was not even the wanting position. The bench was the needing position — something required that you could not supply yourself.
+The bench was not the wanted position. The bench was the needing position — something required that you could not supply yourself.
 
 She could not pout her way back to wanted. She could not turn the heat up; the heat was already at maximum, and the maximum was below her, where she was. The script was failing. She did not yet know that the script was failing, but she could feel something wasn't working, and her breathing had gone disordered.
 
@@ -437,7 +431,7 @@ She did not answer.
 
 "Brooke," he said, "for instance. What would Brooke think."
 
-He felt the small jolt go through her body when he named the specific name. The naming was important. The naming made the imagined audience specific. Brooke was the president of the chapter; Brooke was the one she had told the lie about a paper to before coming over. He stroked her cheek with his thumb. He did not stop looking at her, and she did not, he could see, want him to stop looking at her.
+He felt the small jolt go through her body when he named the specific name. Brooke was the president of the chapter; Brooke was the one she had told the lie about a paper to before coming over. He stroked her cheek with his thumb. He did not stop looking at her, and she did not, he could see, want him to stop looking at her.
 
 "What would she think, baby," he said. The endearment was the first he had used with her all night.
 

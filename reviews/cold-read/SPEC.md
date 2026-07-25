@@ -2,8 +2,8 @@
 
 The shared spec every harness follows so the same book, read by different models,
 produces **drop-in-compatible, directly comparable** files. The Claude tiers
-(`claude-opus-*`, `claude-fable-*`, …) are produced by the `/cold-read` command in
-this repo (`.claude/commands/cold-read.md`); non-Claude models (`gemini-*`, `gpt-*`,
+(`claude-opus-*`, `claude-fable-*`, …) are produced by the `/wals-cold-read` command in
+this repo (`.claude/commands/wals-cold-read.md`); non-Claude models (`gemini-*`, `gpt-*`,
 `grok-*`, …) are produced by an external harness that MUST conform to this spec.
 
 ## What a cold read is

@@ -2279,6 +2279,13 @@ text = "He heard it open, and then the deadbolt turn over as she locked it behin
 note = "opening sensorium; his hearing seats us in his body from the first line — kept per author"
 
 [[ok]]
+fp   = "fd3803aa9002"
+rule = "filter-verbs"
+file = "scenes/the-bench.md"
+text = "She felt all of it."
+note = "Deliberate felt/told antithesis: 'She felt all of it' plays sensation against 'the word ... stayed behind his face' (language withheld). Filter verb is load-bearing here."
+
+[[ok]]
 fp   = "feb9ef59cf8d"
 rule = "filter-verbs"
 file = "scenes/the-bench.md"
