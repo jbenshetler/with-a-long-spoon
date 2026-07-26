@@ -157,6 +157,14 @@ why      = "'unhurried' — the slow/in-control tic, badly overused (80+ times a
 suggest  = "slow / took his time / in no rush / patient / without hurry / let it take its time (pick per beat; vary, don't substitute one tic for another)"
 
 [[rule]]
+id       = "warm"
+kind     = "regex"
+pattern  = '(?i)\bwarm(?:th|er|est|ly|ing|ed)?\b'
+severity = "info"
+scope    = "scenes"
+why      = "'warm / warmth' — the default-reach warmth word, heavily overused (~500 across scenes). Thematic, so much is load-bearing (Vee's analog warmth, the porch as the warm room, Randi's warmth-under-gloss). Worked a scene at a time: read the paragraph density, keep the load-bearing, vary or cut the reflex ones — then --ack the sanctioned uses so the scene goes quiet."
+
+[[rule]]
 id       = "vivienne"
 kind     = "phrase"
 phrase   = "Vivienne"

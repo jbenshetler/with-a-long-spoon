@@ -606,6 +606,34 @@ text = "The bistro had a sun porch along its south side, a long room of glass an
 note = "kept as buried consent-resonance; reads as atmosphere on first pass (author decision, B)"
 
 [[ok]]
+fp   = "1024f8b98296"
+rule = "warm"
+file = "scenes/gone.md"
+text = "The first tender Pace/Randi scene (the Bench was BDSM): warm and true on first read, cold only on reread."
+note = "Scene-header craft note (describes the design: warm on first read, cold on reread), not prose."
+
+[[ok]]
+fp   = "12a78337397b"
+rule = "warm"
+file = "scenes/gone.md"
+text = "The house was warm the way he kept it when she was there, the lamp low, and Randi was still astride him where she'd stayed after, folded down onto his chest, loose in the way she only went afterward, her hair spilled black and fine across his skin."
+note = "Physical anchor — he heats the house for her; distinct sense from the Sade warmth in the same paragraph."
+
+[[ok]]
+fp   = "59661af134e9"
+rule = "warm"
+file = "scenes/gone.md"
+text = "She came up and kissed him — warm, languid, her hair falling around them, her hand at the side of his face — and he let her, one hand sliding up into her hair, and she stayed in it a moment before she drew back just far enough to look at him."
+note = "The kiss beat — warmth is the point of the first tender Pace/Randi scene."
+
+[[ok]]
+fp   = "7969087fd148"
+rule = "warm"
+file = "scenes/gone.md"
+text = "Her playlist was still going, low, down in the front rooms — Sade, smooth and slow, that cool voice with the warmth folded under it."
+note = "Canon: Randi's music-lane signature — the Art-Deco warmth-under-gloss (Sade)."
+
+[[ok]]
 fp   = "3fb15f593011"
 rule = "the-way"
 file = "scenes/grace.md"

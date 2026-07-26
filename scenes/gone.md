@@ -16,9 +16,9 @@ He waited.
 
 "You went shopping."
 
-"God, Saturday. Best time I've had in a store in years." He felt the laugh start low in her. "She's ragging on my feet all afternoon — yeti this, bigfoot that — so she finds the biggest, ugliest shoe in the place, a canoe, a sole like a snow tire, and gets it *on,* and does the whole walk for me. The stomping, arms out, the little growl. The full bigfoot." The laugh climbed. "And there's an older couple stopped dead at the end of the aisle the whole time, watching, and she has no idea — she's mid-stomp — and then she turns around and *sees them.*" Randi pushed her face into his chest. "She went so red I thought she'd go up. Hand over her mouth, wanting the floor to take her." A beat, warm. "It was so cute. She was *so* embarrassed." Softer. "That was kind of hot."
+"God, Saturday. Best time I've had in a store in years." He felt the laugh start low in her. "She's ragging on my feet all afternoon — yeti this, sasquatch that — so she finds the biggest, ugliest shoe in the place, a canoe, a sole like a snow tire, and gets it *on,* and does the whole walk for me. The stomping, arms out, the little growl. The full bigfoot." The laugh climbed. "And there's an older couple stopped dead at the end of the aisle the whole time, watching, and she has no idea — she's mid-stomp — and then she turns around and *sees them.*" Randi pushed her face into his chest. "She went so red I thought she'd go up. Hand over her mouth, wanting the floor to take her." A beat, fond. "It was so cute. She was *so* embarrassed." Softer. "That was kind of hot."
 
-He felt her smiling against his chest, and after a moment she went on, warm again.
+He felt her smiling against his chest, and after a moment she went on, easy again.
 
 "And she'll listen to you like you're the only thing in the room. Actually listen. And then she'll tell you some tiny nothing about her Tuesday and you're wiping your eyes. Nobody does both. She does both."
 
