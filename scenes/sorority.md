@@ -48,6 +48,8 @@ Then she found her answer: a limp flat off the clearance wall, the seam already 
 
 That was the one that got Randi, got her all the way, folded her over the bench, the real laugh, the one that costs her something to give. And Vee stood in the ruined-shoe wreckage of her own store feeling like the funniest woman in Virginia.
 
+Somewhere in it she caught an older couple stopped by the boots to watch them — a little flush, there and gone, just two girls being silly over shoes — and she let it go before it could be anything.
+
 They pulled themselves together. And when they had, Vee went and found the one that would work, two racks over, and carried it back to the bench: a tan heel, fine, a height she could stand a whole night in, a price that didn't make the debit flinch. She turned it over in her hands and talked herself into it out loud, which was the same as talking Randi into it.
 
 "Okay. This one works. It's not going to stop the room, but it works. And it's tan, so it goes with the burgundy. Sort of. It goes with everything, honestly, which is the whole point, because then I actually wear it again instead of it living in a box." She could hear exactly how it sounded. She kept going anyway. "It's the sensible one."
