@@ -1,6 +1,8 @@
-# Notes — Good Company *(provisional title — author to rename)*
+# Notes — Gone
 
-*Companion to the planned scene `good-company.md`. The first fall Pace/Randi two-hander since the meet-cute, added to surface Randi's warm interior early. Holds the craft intent; the chronology entry has the surface. Pairs with the villain-guard in `meta-arch-randi.md` (*The Villain-Guard — Let the Warm Love Surface*) and the reveal constraints in `meta-note-threesome-reveal.md`.*
+*Title charge: surface = **smitten** (Randi's "she's so gone over you," "she's got it bad" — Vee lovestruck); reread = **gone** as lost/consumed/done-for — Vee being lost into the configuration. Warm-idiomatic going in, cold on reread; names a frame, not the act.*
+
+*Companion to the planned scene `gone.md`. The first fall Pace/Randi two-hander since the meet-cute, added to surface Randi's warm interior early. Holds the craft intent; the chronology entry has the surface. Pairs with the villain-guard in `meta-arch-randi.md` (*The Villain-Guard — Let the Warm Love Surface*) and the reveal constraints in `meta-note-threesome-reveal.md`.*
 
 ---
 
