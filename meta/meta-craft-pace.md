@@ -18,6 +18,7 @@
 - **Loves genuinely; the appetite outweighs, never replaces.** Love in the interiority (real); the override in behavior (unnamed). His care/protectiveness is the *instrument* of the harm.
 - **Deeds, not words** — only the *love-declaration* is withheld (*I love you / I am yours / I promise*); the deed carries it. He is otherwise fully verbal — compliment, teasing, true things she needs to hear, his intellect and culture in play. **Words can themselves be deeds** (the precision of *always* in "you're always beautiful"). The guard is those three sentences, not general reticence. (→ *Chivalric Grammar — Deeds, Not Words.*)
 - **First-read clean** — never signal predatory; the horror is reread-structural.
+- **Possessive register → quarantined to the wound-seed.** The acquisition voice — conquest, trophy, having-been-*right*, the woman as a surface to lift or a project to continue — appears only in a *marked* post-scene coda where it reads as the wound-seed; never in the scene body, never bleeding into a recognition/tenderness/consent beat. A clean win narrated *in the moment* as possession tips the hand. (→ *The possessive register.*)
 
 ---
 
@@ -60,6 +61,18 @@ Pace is not solemn about sex. He has a genuine sense of humor and a light, good-
 **No filing. No cataloging. No registering-and-storing.** When the prose needs to convey that something just reached him, render it in the embodied register: something moves in him, his attention slides toward what she just produced, his hand is already on her before his mind has finished the observation. He remembers her the way you remember a person still in the room.
 
 **Cognition, not affect — the trap.** The gap is in *synthesis* — he catches everything and never adds it up — never in *feeling*. Do not let "the after-register does not run / no filing" harden into flat, deadpan, or blank affect; that is the flat-affect stereotype the never-name rule exists to keep off the page. In the moment he is warm, fully present, and visibly feeling — glad, wrecked, tender, stung (`nothing-underneath`: *"nothing formal was left anywhere in his face … so plainly glad and so plainly wrecked"*). The precise/formal narrowing is a *momentary* stress-tell (the family wound, declaration-adjacency), never his baseline. If he reads as emotionally *absent* rather than *present-but-non-synthesizing*, that's the error.
+
+---
+
+## The possessive register — quarantine to the wound-seed
+
+**The register.** Distinct from tenderness, and distinct from the after-register *failure*: this is the *acquisition* voice — conquest, trophy, having-been-right, the woman as a surface to lift or a project to continue (*"finding out who she actually was underneath," "what he might want to do with her next," "he had it now"*). It is the truest tell of the appetite operating under the care, and it is **real — do not delete it.** But it must be *placed*.
+
+**Where it may appear.** Only in a **marked wound-seed beat** — typically the post-scene coda, where the possession sits beside the harm it seeds and the reader feels the two as one gesture. The-bench is the worked example: the possessive read lives at the coda (*"He had been right about her… the long pleasant prospect of finding out who she actually was underneath the surface he had just begun to lift"*), fenced from the naming line.
+
+**Where it may not.** Never in the scene body; never bleeding up into a recognition, tenderness, or consent beat. A clean win narrated *in the moment* as possession — *"He had it now"* — tips the hand: the reader senses the conquest before the architecture has earned it, breaking first-read-clean. In the moment, keep the beat embodied (he *receives* what she gives; *Hers.*); let the possession wait for the coda, where it's marked.
+
+**Worked correction** *(→ `the-bench.md`, the begging-breaks beat)*: the beat once closed on *"He had been waiting for her voice since the first night. He had it now"* — the hunt frame (three weeks retroactively a campaign) plus possession-as-fact, mid-climax. Cut to end on *"Hers."* The acquisition register stays in the coda.
 
 ---
 
