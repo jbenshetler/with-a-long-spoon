@@ -220,6 +220,18 @@ One thread of that cost is still to be developed: acting on the attraction *open
 
 ---
 
+## The Villain-Guard — Let the Warm Love Surface (the affirmative half)
+
+We have almost no interior POV on Randi (`meta-craft-randi.md`: never inside her POV; the reader assembles her from surface tells). That withholding has a failure mode the existing guards don't name. The prohibitions are already on the books — *don't reduce her to calculation, don't signal she's sinister* (Bible Global Craft Rules; earn-the-dark) — but a prohibition only keeps the **cold** from leaking too far; it does nothing to make the **warm** legible. With her interior withheld and only instrumental-behavior-with-cracks on the page, the reader files the cracks as *fear of getting caught* and she collapses into a manipulator. **Under-showing her love is the villain-flattening failure mode — as binding a fault as telegraphing the cold.** The tragedy is load-bearing on her love being real *and legible:* *she loved Vee and did it anyway* only lands if we watched the loving.
+
+**The asymmetric permission.** "Keep her interior almost entirely withheld" holds for the **cold** interior — the plan, the awareness, the sadism, the instrumentality; that stays withheld and, where it leaks, stays *deniable* (the wordless beats = plan escaping her). But the **warm** interior — her genuine love and tenderness for Vee — is a *permitted exception:* let it **surface,** more openly than the cold ever does. Showing her love spoils nothing (the reader has known it's Randi for hundreds of pages; the suspense is *dread, not mystery*); it only deepens the dread.
+
+**The mechanism — feeling that leaks and gets re-wrapped.** This section's *"moved by Vee… small and immediately recovered from, but it is there,"* named as a directive — the {{Fairytale}} move at small scale, replayed. The real feeling breaks the surface (involuntary, body before mind); she manages it back down into the survivable frame — **reflex, not calculation** (a *cold* re-wrap re-villains her instantly; the thesis says she *cannot* hold an unmanaged want, so the wrapping is compulsive, not clever). **The wrapping is itself the proof the thing under it is real — a villain has nothing to wrap.** It never reopens the choice (sealed at {{Fairytale}}, below): she wraps the *feeling,* never reconsiders the *plan.*
+
+**Calibration.** Rare and escalating — the leaks get harder to wrap as the real thing grows and the irreversible point nears (staircase-shaped, never mechanical). Never dwelt on — a flicker, then gone; underlining it sentimentalizes her, which is the mirror failure (the author reassuring us she's good, softening the cold too far). And distinct in flavor from {{Scalding Jealousy Ignition}}'s cost/jealousy/body-voting register — this one is *love and tenderness for Vee* specifically.
+
+---
+
 ## Fairytale — The Chosen-Not-to-Throttle Moment
 
 *(Unwritten; see `meta-plan-chronology.md` for scene plan.)* Placement: after the engineered meet-cute, after the SATC lunches are running at full intensity, before the threesome is scheduled. The window in which turning back is still mechanically possible.
