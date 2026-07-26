@@ -53,6 +53,9 @@ as the output subdirectory name — it must match the convention every harness u
   anything unrecognized): **stop.** This harness can only spawn Claude models. Tell
   the author to run that model in the external harness, which must write to
   `reviews/cold-read/<id>/` following `reviews/cold-read/SPEC.md`. Do not attempt it.
+  - **OpenAI models** (`gpt-5.5`, `gpt-5.6-sol`, …) have a built-in external harness:
+    use **`/wals-cold-read-openai`**, which calls the OpenAI Responses API directly
+    (`tools/cold_read_openai.py`, run via `uv`) with a hard per-scene dollar budget.
 - If `--model` is missing entirely: **stop** and ask for it (e.g.
   `--model claude-opus-4-8`) — there is no default, because the id is the shared key
   that keeps every harness's output aligned.
