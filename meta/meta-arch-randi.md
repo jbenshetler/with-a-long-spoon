@@ -77,6 +77,8 @@ So the operation is **sadism on Vee and masochism on herself in one gesture** �
 
 *Entry rung: `scenes/in-her-place.md` (spring; the fall Randi/Pace material relocated and grown into a full scene). High rung: the kneeling and the* sloppy seconds *line (`ignition-scalding.md`).*
 
+*(A **new** fall Pace/Randi two-hander — {{Good Company}}, `good-company.md`, ~late Oct — is being added for the villain-guard (surface Randi's warm interior early; see* The Villain-Guard — Let the Warm Love Surface *above). It does **not** re-litigate the spring relocation: different job — {{Good Company}} is the warm happy-config beat; `in-her-place.md` is the self-subjugation rung. Craft: `meta-note-good-company.md`.)*
+
 ---
 
 ## The Archive — What She Wore, What They Did
