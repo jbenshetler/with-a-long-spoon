@@ -1670,6 +1670,13 @@ text = "At the county road she couldn't see and couldn't get her breath, and she
 note = "Author-approved: load-bearing 'the way it always had' (the gaze that fails to open for her), the close-third watch, and accepted single tics."
 
 [[ok]]
+fp   = "3729d0a35ec3"
+rule = "x-not-y"
+file = "scenes/stranger.md"
+text = "Grief, not anger; the thing she had come all this way to find, surfacing at last."
+note = "Author-approved: 'Grief, not anger' — the clear-signal read of Pace's strangled sob at the Peter reach; the antithesis is load-bearing (grief vs the anger she braced for)."
+
+[[ok]]
 fp   = "fb5cc08a82e7"
 rule = "x-not-y"
 file = "scenes/stranger.md"

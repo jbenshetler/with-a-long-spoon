@@ -28,7 +28,7 @@ The words landed somewhere under her ribs and stayed there. Not anger, which she
 
 "How was your Christmas," she said. She kept her voice level over the thing rising in her throat. She had questions ready, small good ones, made on the plane.
 
-"Pleasant." He set the word down whole and closed, and his hand stayed tight on the edge of the door.
+"Pleasant." He set the word down whole and closed, and his hand stayed on the edge of the door.
 
 "Did you do anything?"
 
@@ -38,6 +38,6 @@ He didn't go on, and he didn't ask her back. Each answer came out exact and fini
 
 Then the hurt came up all at once, past the level voice and the good clothes and the small prepared questions, and it made her reckless. She stepped up into the space she wasn't allowed and put her hand to his face, to the jaw, the cheek, the place she'd had under her hand a hundred times in the dark, and said it low, the true name, the one under the other. "Peter."
 
-Something moved in his face, there and gone before she could believe it. Then he flinched back from her hand as if it had burned him, and whatever had come up went under, and the man she'd come for went with it.
+His face broke. Just for a moment, but it broke — the cold going out of it all at once, something raw coming up underneath, and a sound with it, low and strangled, a sob caught in his throat and held there by force. Grief, not anger; the thing she had come all this way to find, surfacing at last. Then he pulled his face out from under her hand as though it had burned him and swallowed the sound down, and the cold closed over him again, and the man she'd come for went under with it. She had seen it — for one second she had seen it — and he wouldn't even give her that.
 
 She didn't stay for the rest. She turned and went down off the step and across the cold ground, not running and then running, and got the car started and got down the drive before it rose up in her, and it rose hard. She drove the first mile blind. At the county road she couldn't see and couldn't get her breath, and she put the car onto the gravel and stopped and held the wheel in both hands, the fields flat and patchy with snow on either side, the heater going, her good clothes on, and cried until there was nothing left to come up.
