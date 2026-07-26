@@ -76,7 +76,7 @@ The porch faces the **rock** of the mountains; **Peter means rock/foundation.** 
 
 ## Taste thread — carry nothing (decided)
 
-~late October sits **before** the thread's first gates (the Lip-Lick and the Refusal, both still unplaced, both due before The Reach ~late Jan). The Refusal's shame-recoil would collide with this scene's warmth, and the name owns the foreground; a taste seed here would be dutiful. **Decision: no gate, no passenger.** (The early gates want quieter, kink-adjacent hosts — not the name scene. See `meta-note-taste-thread.md`.)
+Tue Oct 27 sits **before** the thread's first gates (the Lip-Lick and the Refusal, both still unplaced, both due before The Reach ~late Jan). The Refusal's shame-recoil would collide with this scene's warmth, and the name owns the foreground; a taste seed here would be dutiful. **Decision: no gate, no passenger.** (The early gates want quieter, kink-adjacent hosts — not the name scene. See `meta-note-taste-thread.md`.)
 
 ## Register & POV
 
@@ -86,4 +86,4 @@ The porch faces the **rock** of the mountains; **Peter means rock/foundation.** 
 
 ## Placement
 
-~late October, a quiet weeknight stay, after {{Sorority}} (~Oct 24) and before {{Lesson}} (~Oct 29). The warm phase, lovers since First Night (Oct 11); the "who are you" talk is natural by now. First on-page use of "Peter" in story order.
+Tue Oct 27, a quiet weeknight stay, after {{Sorority}} (Sat Oct 24) and before {{Lesson}} (Thu Oct 29). The warm phase, lovers since First Night (Oct 11); the "who are you" talk is natural by now. First on-page use of "Peter" in story order.

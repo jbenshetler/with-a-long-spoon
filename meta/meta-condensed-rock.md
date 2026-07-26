@@ -1,6 +1,6 @@
 # Condensed — Rock
 
-*Draft complete (`scenes/rock.md`) · ~late October, a weeknight stay; post-sex, the porch couch after dark. Vee POV. The first time the name "Peter" reaches the page.*
+*Draft complete (`scenes/rock.md`) · Tue Oct 27, a weeknight stay; post-sex, the porch couch after dark. Vee POV. The first time the name "Peter" reaches the page.*
 
 - **Setting.** A cold night on the enclosed porch after sex: Vee in Pace's robe, Pace in boxers, both under his quilt on the porch couch. Herbal tea, not coffee; firelight/heat from the den fireplace behind them; the yard and the mountains dark through the wall of glass, stars over the ridgeline. The porch is the calm-truth room (it does this twice in the book — here with his truth, in December with hers); the structural opposite of the SATC restaurants, where truth is *extracted.*
 - **The robe, uncovered.** It falls open, she doesn't mind; Pace rests a hand on her bare breast — comfort more than heat — and pulls the quilt up. Her ease is the physical twin of the porch-calm; his comfort in her body is part of what opens him.

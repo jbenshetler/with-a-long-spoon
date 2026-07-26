@@ -38,7 +38,7 @@ Fall Randi/Pace material was once *deliberately* relocated to spring (→ `in-he
 
 ## Placement
 
-~late October, a weeknight, after {{Sorority}} (~Oct 24) and before {{Rock}} (~late Oct) — the warm phase, well after First Night, the friendship textured, Randi's love accumulated and her body-memory of Vee active from the Sorority fitting. Sits just before Rock (a warm Pace/Vee beat), so the two backstage/frontstage warmths bracket each other.
+Mon Oct 26, a weeknight, after {{Sorority}} (Sat Oct 24) and before {{Rock}} (Tue Oct 27) — the warm phase, well after First Night, the friendship textured, Randi's love accumulated and her body-memory of Vee active from the Sorority fitting. Sits just before Rock (a warm Pace/Vee beat), so the two backstage/frontstage warmths bracket each other.
 
 ## Planned beat order
 
