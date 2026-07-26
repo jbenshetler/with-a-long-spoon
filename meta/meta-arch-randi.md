@@ -266,6 +266,14 @@ Both women have been given access to their own interiors by Pace and discovered 
 
 ---
 
+## The Trained Instrument — Dance and Cheer
+
+Ten years of dance, six of cheer. This is the body's half of what the blue eyes are to the face: an instrument built, from childhood, to be looked at and to hold its line *while* being looked at. It is why performance is her native register and not a mask she reaches for — the presented surface is a *trained* surface, drilled for years before it was ever strategy. The poise, the control, the body kept to the one scale her sorority selects for, the ease of the *wanted position* she is so good at — all of it has a decade-plus of studio and sideline underneath it. She was built to be watched performing, and built to perform *well*: the exact competence the bench has no use for.
+
+**The architectural payoff is the tell that training cannot reach.** The trained body holds even on the bench — the line of her doing "what a decade of dance had trained the line of her to do under pressure" ({{The Bench}}) — but the *need* the bench installs is the one thing no drilling prepared her to hold. The instrument performs flawlessly right up to the seam where performance stops working (the *needing* position, not the *wanted* one). Her body's schooling and her interior's helplessness are legible in the same image: perfect form around a thing the form never covered.
+
+**Render discipline:** backstory, not exposition. It shows in the body — the carriage, the trained ease of being looked at — and in the single place it fails. Never hand the reader "she was a dancer, so —"; let the trained line and its one blind spot carry it. Already latent in {{The Bench}} prose (the dancer's legs; the decade-of-dance line under pressure). Physical-surface rendering lives in `meta-craft-randi.md` (Physical Description).
+
 ## The Father — Miranda Holdings
 
 *(Scene draft: `outlier.md`; craft in `meta-note-outlier.md`.)*
