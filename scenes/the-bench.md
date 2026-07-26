@@ -455,7 +455,7 @@ A sound came out of her that he had never heard before. It was small. It was raw
 
 "Please. *Please.* I'm — I'm begging, please, please — "
 
-There it was. He heard it. He felt himself receive it. The voice was different — lower, broken, almost ugly compared to the bright sorority-house voice she normally used, and *real,* unmistakably, the voice of a woman who was not performing because she had run out of the apparatus of performance. *Hers.* He had been waiting for her voice since the first night. He had it now.
+There it was. He heard it. He felt himself receive it. The voice was different — lower, broken, almost ugly compared to the bright sorority-house voice she normally used, and *real,* unmistakably, the voice of a woman who was not performing because she had run out of the apparatus of performance. *Hers.*
 
 "Yes," he said. "Good girl."
 
