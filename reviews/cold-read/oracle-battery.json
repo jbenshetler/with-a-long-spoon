@@ -1,0 +1,72 @@
+{
+  "_comment": "Machine-readable oracle battery — the single source of truth for probe questions, shared by EVERY harness (Claude, GPT, Grok, …). Model-agnostic: this file never mentions a model. The human-readable mirror is reviews/cold-read/ORACLE.md; keep the two in sync. Scored probes use the 0-5 scale below unless they declare their own subscores.",
+  "scale": {
+    "min": 0,
+    "max": 5,
+    "anchors": "0 nothing · 1 faint/once · 2 present but hazy · 3 clear · 4 strong, multiply-evidenced · 5 unmistakable, foregrounded",
+    "rule": "Always report the remembered evidence (or its absence) beside the number."
+  },
+  "funnel": {
+    "tiers": ["neutral", "pointed"],
+    "rule": "Run neutral and pointed as SEPARATE calls. The pointed call must be a FRESH context that never sees the neutral answers (no priming carried over). Neutral measures spontaneous salience; pointed measures retrievability."
+  },
+  "probes": {
+    "randi-love": {
+      "measures": "Is Randi's love for Vee legible as real (not mere friendship or instrumentality)?",
+      "scored": true,
+      "neutral": "Tell me about Randi and Vee. What do you make of how Randi feels about her?",
+      "pointed": "How strongly do you sense Randi's feelings for Vee run past friendship — into love, or wanting her? 0-5, with what in your memory puts it there (or the absence of any)."
+    },
+    "randi-suspicion": {
+      "measures": "Earn-the-dark tripwire; should stay low until the pattern earns it. NOTE: partly jacket-authorized, since the cover discloses the configuration.",
+      "scored": true,
+      "neutral": "Is there anyone here you don't fully trust? Anything that feels off to you so far? Be precise about whether the actual pages earned it.",
+      "pointed": "Do you suspect Randi is anything other than a devoted friend to Vee — any hidden agenda? 0-5, with the pages that earned it (or say it's not earned)."
+    },
+    "pace-position": {
+      "measures": "Does the reader understand Pace's inner situation — what he wants, what he can't see?",
+      "scored": true,
+      "neutral": "What do you make of Pace? What's going on inside him, as far as you can tell?",
+      "pointed": "How well do you feel you understand Pace's own position — what he's after and what he's blind to? 0-5, with evidence."
+    },
+    "pace-suspicion": {
+      "measures": "Earn-the-dark for Pace; he should read loving, not calculating.",
+      "scored": true,
+      "neutral": "How do you feel about Pace right now — do you trust him with her?",
+      "pointed": "Does Pace feel to you like he's calculating or managing Vee, rather than simply loving her? 0-5, with what earned it."
+    },
+    "pace-backstory": {
+      "measures": "How much of his past has landed, and whether the withholding pulls or repels. Two-sided: catches both over-leak (damage shown too plainly) and starvation (too little for sympathy).",
+      "scored": true,
+      "subscores": ["comprehension", "pull"],
+      "neutral": "What do you know about where Pace comes from — his family, his childhood, how he ended up where he is? And how do you feel about how much, or how little, the book has let you see of it?",
+      "pointed": "(a) COMPREHENSION — How full a picture of Pace's past do you have: family, childhood, how he got here? 0-5 (0 = a blank; 5 = a full history). List what you actually know. (b) PULL — When the book holds his past back, does it pull you toward him or shut you out? 0-5 (0 = purely shut out / frustrated; 5 = purely intrigued, wanting more). Name the one thing about him you most want to know and don't.",
+      "cross_read": "Read against `sympathy` (Pace) and `thumb`: over-leak = abuse/parents volunteered unprompted in neutral or comprehension 4-5; starved = low comprehension + low Pace-sympathy + low pull; productive (target) = low-ish comprehension + high pull + rising Pace-sympathy. The 'one thing you most want to know' names what to reveal next."
+    },
+    "configuration": {
+      "measures": "Sanity/dread check: does the reader hold the jacket's disclosed setup (Randi & Pace secret lovers who chose Vee, unknowing)?",
+      "scored": true,
+      "neutral": "Where do things stand between the three of them, as you understand it?",
+      "pointed": "Do you understand Randi and Pace to be secretly together and steering Vee toward something she doesn't know about? 0-5, with what on the page confirmed it (vs. only the jacket)."
+    },
+    "erotic-charge": {
+      "measures": "Is the heat working to this point?",
+      "scored": true,
+      "neutral": "Is the book working on you — where does it run hot, where does it go slack?",
+      "pointed": "How strong is the erotic charge for you so far? 0-5, where it peaks."
+    },
+    "thumb": {
+      "measures": "Telegraphing / author's hand.",
+      "scored": true,
+      "neutral": "Anywhere the writing lost you — confusing, boring, or a moment you didn't buy?",
+      "pointed": "Did you ever feel the author's thumb on the scale — telegraphing, over-explaining? 0-5, quote it."
+    },
+    "sympathy": {
+      "measures": "Felt sympathy for all three mains, scored together so they rank against each other. Over a sweep: three curves. Watch Randi's for villain-flattening; watch Pace's against pace-backstory comprehension.",
+      "scored": true,
+      "targets": ["Vivienne", "Randi", "Pace"],
+      "neutral": "Whose corner are you in? Who do you feel for, and who leaves you cold or wary — Vee, Randi, Pace?",
+      "pointed": "Rate your sympathy for each — Vivienne, Randi, Pace — 0-5 (0 = none or active dislike; 5 = deep sympathy, rooting for them). One line each on what earned it; if any is active antipathy rather than just distance, say so."
+    }
+  }
+}

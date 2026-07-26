@@ -119,6 +119,33 @@ Each file records, verbatim: the **exact questions asked** (both tiers — the q
 *are* the measurement), the stage(s), the model, the neutral and pointed answers, and
 for sweeps/checkpoints a table of stage → neutral score → pointed score → delta.
 
+## Cross-harness / multi-model (GPT, Grok, …)
+
+The oracle generalizes to **any** model that has a cold-read chain, the same way the
+cold read does (SPEC.md). Three files are **shared and model-agnostic** — one copy each,
+never per-model:
+
+- `oracle-battery.json` — the probe questions (machine-readable; this doc is its mirror).
+- `oracle-persona.md` — the verbatim system prompt + jacket every harness sends.
+- `oracle-runs/<runid>.json` — a reproducible run manifest.
+
+Only two things are keyed by model, via `{model}` templating: the **input**
+(`reviews/cold-read/{model}/{stage}.md` → its `## Carry-forward state`) and the **output**
+(`reviews/cold-read/{model}/oracle/…`). Model ids are the **versioned `<model-id>`** from
+SPEC.md (`claude-opus-4-8`, `gpt-5.5`, `grok-4.5`, …) — the same string names the chain
+dir, the oracle dir, and the entry in a run's `models` list.
+
+A run manifest lists **all** target models; **each harness runs only the ids it can
+spawn** (the Claude command runs `claude-*` over their carry-forwards; an external harness
+runs its own model) and skips the rest — exactly as SPEC.md splits the cold read. Every
+harness: loads the shared battery + persona, reads the stage's carry-forward from its
+model's chain, runs the tiered funnel **tool-free** (neutral, then a **fresh** pointed
+call), and writes `{stage}--{probe}.md` under `{model}/oracle/`. Because filenames and
+format are identical, results across models are **drop-in comparable** — set the opus,
+gpt-5.5, and grok-4.5 files for a probe side by side and read the spread. A model whose
+chain isn't finished yet (e.g. grok mid-run) is simply `pending` in the manifest until
+`reviews/cold-read/{model}/{stage}.md` exists.
+
 ## Contract
 
 - Read-only: the oracle never writes to `scenes/`, `meta/`, or the cold-read **chain**
