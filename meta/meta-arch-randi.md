@@ -77,6 +77,8 @@ So the operation is **sadism on Vee and masochism on herself in one gesture** �
 
 *Entry rung: `scenes/in-her-place.md` (spring; the fall Randi/Pace material relocated and grown into a full scene). High rung: the kneeling and the* sloppy seconds *line (`ignition-scalding.md`).*
 
+*(A **new** fall Pace/Randi two-hander — {{Gone}}, `gone.md`, ~late Oct — is being added for the villain-guard (surface Randi's warm interior early; see* The Villain-Guard — Let the Warm Love Surface *above). It does **not** re-litigate the spring relocation: different job — {{Gone}} is the warm happy-config beat; `in-her-place.md` is the self-subjugation rung. Craft: `meta-note-gone.md`.)*
+
 ---
 
 ## The Archive — What She Wore, What They Did
@@ -220,6 +222,18 @@ One thread of that cost is still to be developed: acting on the attraction *open
 
 ---
 
+## The Villain-Guard — Let the Warm Love Surface (the affirmative half)
+
+We have almost no interior POV on Randi (`meta-craft-randi.md`: never inside her POV; the reader assembles her from surface tells). That withholding has a failure mode the existing guards don't name. The prohibitions are already on the books — *don't reduce her to calculation, don't signal she's sinister* (Bible Global Craft Rules; earn-the-dark) — but a prohibition only keeps the **cold** from leaking too far; it does nothing to make the **warm** legible. With her interior withheld and only instrumental-behavior-with-cracks on the page, the reader files the cracks as *fear of getting caught* and she collapses into a manipulator. **Under-showing her love is the villain-flattening failure mode — as binding a fault as telegraphing the cold.** The tragedy is load-bearing on her love being real *and legible:* *she loved Vee and did it anyway* only lands if we watched the loving.
+
+**The asymmetric permission.** "Keep her interior almost entirely withheld" holds for the **cold** interior — the plan, the awareness, the sadism, the instrumentality; that stays withheld and, where it leaks, stays *deniable* (the wordless beats = plan escaping her). But the **warm** interior — her genuine love and tenderness for Vee — is a *permitted exception:* let it **surface,** more openly than the cold ever does. Showing her love spoils nothing (the reader has known it's Randi for hundreds of pages; the suspense is *dread, not mystery*); it only deepens the dread.
+
+**The mechanism — feeling that leaks and gets re-wrapped.** This section's *"moved by Vee… small and immediately recovered from, but it is there,"* named as a directive — the {{Fairytale}} move at small scale, replayed. The real feeling breaks the surface (involuntary, body before mind); she manages it back down into the survivable frame — **reflex, not calculation** (a *cold* re-wrap re-villains her instantly; the thesis says she *cannot* hold an unmanaged want, so the wrapping is compulsive, not clever). **The wrapping is itself the proof the thing under it is real — a villain has nothing to wrap.** It never reopens the choice (sealed at {{Fairytale}}, below): she wraps the *feeling,* never reconsiders the *plan.*
+
+**Calibration.** Rare and escalating — the leaks get harder to wrap as the real thing grows and the irreversible point nears (staircase-shaped, never mechanical). Never dwelt on — a flicker, then gone; underlining it sentimentalizes her, which is the mirror failure (the author reassuring us she's good, softening the cold too far). And distinct in flavor from {{Scalding Jealousy Ignition}}'s cost/jealousy/body-voting register — this one is *love and tenderness for Vee* specifically.
+
+---
+
 ## Fairytale — The Chosen-Not-to-Throttle Moment
 
 *(Unwritten; see `meta-plan-chronology.md` for scene plan.)* Placement: after the engineered meet-cute, after the SATC lunches are running at full intensity, before the threesome is scheduled. The window in which turning back is still mechanically possible.
@@ -265,6 +279,14 @@ Randi says she wants to be Vee's confidante and friend. Her interior produces sa
 Both women have been given access to their own interiors by Pace and discovered the interior is not what they thought. Both are casualties of the same event, separated by the order of arrival and what each can do with her wound.
 
 ---
+
+## The Trained Instrument — Dance and Cheer
+
+Ten years of dance, six of cheer. This is the body's half of what the blue eyes are to the face: an instrument built, from childhood, to be looked at and to hold its line *while* being looked at. It is why performance is her native register and not a mask she reaches for — the presented surface is a *trained* surface, drilled for years before it was ever strategy. The poise, the control, the body kept to the one scale her sorority selects for, the ease of the *wanted position* she is so good at — all of it has a decade-plus of studio and sideline underneath it. She was built to be watched performing, and built to perform *well*: the exact competence the bench has no use for.
+
+**The architectural payoff is the tell that training cannot reach.** The trained body holds even on the bench — the line of her doing "what a decade of dance had trained the line of her to do under pressure" ({{The Bench}}) — but the *need* the bench installs is the one thing no drilling prepared her to hold. The instrument performs flawlessly right up to the seam where performance stops working (the *needing* position, not the *wanted* one). Her body's schooling and her interior's helplessness are legible in the same image: perfect form around a thing the form never covered.
+
+**Render discipline:** backstory, not exposition. It shows in the body — the carriage, the trained ease of being looked at — and in the single place it fails. Never hand the reader "she was a dancer, so —"; let the trained line and its one blind spot carry it. Already latent in {{The Bench}} prose (the dancer's legs; the decade-of-dance line under pressure). Physical-surface rendering lives in `meta-craft-randi.md` (Physical Description).
 
 ## The Father — Miranda Holdings
 

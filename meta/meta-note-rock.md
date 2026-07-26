@@ -8,6 +8,8 @@
 
 It plants **Peter** — the first time the true name touches the page — so the failed reach at First Weekend Back reads as a **regression** (she had the name, reaches for it on the cold step, and it won't travel), not a first appearance. The whole Pace/Peter load ("if Vee uses Peter it should land") needs this plant under it.
 
+**It also now carries the *contained* first-love telling** (added — see *The first-love exchange* below): Pace tells Vee about the tutor, plain and undersold, the ages explicit, the *break* saved for {{Excavations}}. This is the Rock half of the two-register split (`meta-note-first-love.md`).
+
 ## The porch as the second liminal space
 
 The porch is where truth surfaces **calm and unforced** — the structural opposite of the SATC restaurants, where Randi *extracts.* It does this twice: here, his name (his truth); in December's {{Porch Scene}}, Vee's displaced *I-love-you* (hers). Same room, opposite people, the tonal inverse of how Randi gets her truths. Render the calm; don't stage the contrast.
@@ -15,6 +17,16 @@ The porch is where truth surfaces **calm and unforced** — the structural oppos
 ## How Peter surfaces — not extracted
 
 In the flow of the ordinary "who are you" talk (born where, how many siblings — rendered only enough to host the name). It comes out because he's calm here, not because she digs. **Received, not confessed.** He gives it with a faint **set-aside** — *Peter* as someone he put down, not someone he hides; wistful, not defensive. The self under the name stays mostly withheld (never explain — the reader feels there's a whole self there without being told).
+
+## The first-love exchange (contained tell — added)
+
+Rock now carries the **contained** half of the two-register first-love telling (`meta-note-first-love.md`; the *break* stays at {{Excavations}}). In the flow of the who-are-you talk — most naturally hung off the college-at-fifteen thread, or as the deeper turn just before the scar — **first loves come up:**
+
+- **Vee first, light.** Her first was *a trumpet player in the high-school band* (she played clarinet — band is already canon, `meta-note-old-acquaintances.md`). Keep it a **cracker**: sweet, fine, *non*-formative (her canon: "none of them formative"). Not a portrait — the warm, forgettable contrast that makes his land.
+- **Pace reciprocates — the tutor, contained.** Told plain and undersold, **the ages explicit** (fifteen; the older student; two years; she left for ordinary reasons), a **hairline** of feeling leaking — a beat he doesn't fill, his voice going careful. He frames it as luck/love/loss; **he does not see it as a wrong, and is not a victim on the page.** No forensic word (no *groomed/statutory/victim*); the vow it bred is never named.
+- **Vee clocks it and holds it.** She does the arithmetic and registers the wrong — but as **protective ache for the boy he was**, not condemnation — and **says nothing, or almost nothing.** Body-only, private, unspoken. (A smart 21-year-old *will* clock 15/19; the guard is the grace not to say so, not that she fails to notice — `meta-note-first-love.md`, no-blame.)
+- **What it's for.** It supplies the **felt why** for his armor that readers carry into {{The Stranger}} — the wall reads as fear/pain, not cruelty (endorsed misattribution; `meta-arch-bible.md`, Stress tell) — and it arms the reader-ahead irony. It **motivates** the wall; it doesn't explain it.
+- **Two hard guards.** (1) **Keep the leak a hairline** — if the feeling *breaks* here, it steals {{Excavations}}. (2) **Keep the warm close intact** — the ache is private and unspoken, never a rift; the scene still closes warm on *Peter* + his hand over hers.
 
 ## Accepted decisions / surface materials
 
@@ -49,6 +61,7 @@ In the flow of the ordinary "who are you" talk (born where, how many siblings �
 12. Vee names the cruelty; Pace receives; pivot fast to college as astonishing.
 13. Math beauty sequence: horn, coastline/border, Newton, mathematics as poetry/language of the universe.
 14. Powerlifting sequence: practical fifteen-year-old-in-dorm reason, then body/present-moment freedom under the squat bar.
+14a. **[ADDED] The first-love exchange (contained):** first loves come up (off the college-at-fifteen thread, or as the deeper turn here). Vee offers hers — a high-school-band trumpet player, light and non-formative; Pace reciprocates with the tutor, told plain and undersold, ages explicit (fifteen; the older student; two years; she left), a hairline of feeling leaking. Vee does the arithmetic, clocks the wrong as protective ache, and holds it unspoken. Pace's framing untouched. Break saved for {{Excavations}}; warm close intact. (See *The first-love exchange* above.)
 15. Vee realizes this is how he attends to her in conversation and sex.
 16. Scar deferral: "This?" / "Not tonight." Boundary held gently, hand not removed.
 17. Vee says **Peter** softly near the end, with no question in it. He lets it sit; his hand closes around hers. Warm close, no unresolved cloud.
@@ -63,14 +76,14 @@ The porch faces the **rock** of the mountains; **Peter means rock/foundation.** 
 
 ## Taste thread — carry nothing (decided)
 
-~late October sits **before** the thread's first gates (the Lip-Lick and the Refusal, both still unplaced, both due before The Reach ~late Jan). The Refusal's shame-recoil would collide with this scene's warmth, and the name owns the foreground; a taste seed here would be dutiful. **Decision: no gate, no passenger.** (The early gates want quieter, kink-adjacent hosts — not the name scene. See `meta-note-taste-thread.md`.)
+Tue Oct 27 sits **before** the thread's first gates (the Lip-Lick and the Refusal, both still unplaced, both due before The Reach ~late Jan). The Refusal's shame-recoil would collide with this scene's warmth, and the name owns the foreground; a taste seed here would be dutiful. **Decision: no gate, no passenger.** (The early gates want quieter, kink-adjacent hosts — not the name scene. See `meta-note-taste-thread.md`.)
 
 ## Register & POV
 
 - **Vee POV, close third.** Low heat, tender — the warm courtship phase (before the swats / We Find Out ramp the kink).
-- **No unresolved cloud.** Unlike December's porch, this one is clean intimacy; the cloud is December's to carry. Keep them distinct: night/stars here, pre-dawn/coffee there.
+- **No unresolved cloud.** Unlike December's porch, this one is clean intimacy; the cloud is December's to carry. *(The added first-love telling doesn't break this: the ache Vee holds is private and unspoken — between them the scene stays warm intimacy, the telling is trust, not a rift.)* Keep them distinct: night/stars here, pre-dawn/coffee there.
 - **Pace's virtues are real, not cynical** — his calm and the gift of the name are genuinely warm first.
 
 ## Placement
 
-~late October, a quiet weeknight stay, after {{Sorority}} (~Oct 24) and before {{Lesson}} (~Oct 29). The warm phase, lovers since First Night (Oct 11); the "who are you" talk is natural by now. First on-page use of "Peter" in story order.
+Tue Oct 27, a quiet weeknight stay, after {{Sorority}} (Sat Oct 24) and before {{Lesson}} (Thu Oct 29). The warm phase, lovers since First Night (Oct 11); the "who are you" talk is natural by now. First on-page use of "Peter" in story order.
