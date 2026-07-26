@@ -42,7 +42,7 @@ It started when Randi wedged herself into something strappy that plainly was not
 
 Randi laughed, and went to top it. Vee lost sight of her in the sale racks; when she looked up Randi was already coming back down the aisle toward her, gone a full head taller and taking it like it cost her nothing: six-inch platforms bedazzled toe to ankle in pink rhinestones, her own heels hooked off two fingers. Making herself enormous, apparently, was the answer to being called big-footed. She stopped in front of Vee, grave and strained, a woman at serious work, turned a foot to the light to weigh it honestly, and asked, "Do these go with burgundy?"
 
-Vee lost it, had to sit down on the bench with it.
+Vee lost it — laughed till her legs quit and plopped onto the try-on bench.
 
 Then she found her answer: a limp flat off the clearance wall, the seam already grinning loose from the sole, and she flapped it at Randi. "Careful. This one's one brisk walk from becoming a sandal."
 
