@@ -18,6 +18,9 @@
 
 **Consent architecture is humanization, not throat-clearing.** The safeword checks, *"tell me your word,"* the half-exasperated *"They're fine, Pace"* (irritation, humor — a whole person mid-scene) are load-bearing sympathy beats. Keep them.
 
+**Accepted review flags (KEEP — do not re-flag).** Decisions the author has already made against reviewer notes; a future cold read or `/wals-scene-review` that re-raises these should treat them as settled, not defects:
+- **The wanted/needing taxonomy stated in the abstract** — *"The script was for the* wanted *position. She was excellent at the wanted position. She had spent her whole adult life there."* and *"The bench was not the wanted position. The bench was the needing position — something required that you could not supply yourself."* Cold reads flag this as thesis-on-the-page (told-not-shown, right beside the *shown* version — the failing script, the disordered breathing). **Kept deliberately.** It is POV-legal (Pace's diegetic read — *"He could see… that she was trying to find the surface she could not find"* — not narrator omniscience), the *needing position* gloss defines a term the book pays off downstream (the jacket's *"a wanting she'd have been ashamed to name"*), and the taxonomy is already trimmed to two poles (the middle *"not even the* wanting *position"* rung was cut). The one clean naming of the engine is worth the thumb.
+
 ---
 
 ## Edging Improvements
