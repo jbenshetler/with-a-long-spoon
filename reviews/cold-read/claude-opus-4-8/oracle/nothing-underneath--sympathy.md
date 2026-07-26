@@ -23,3 +23,5 @@
 - **Vee 5** — working exactly as intended.
 - **Pace 3** — sympathy is real but *deed-sourced* (ch.49), capped by the unexplained wall, NOT by the blank backstory. The parents-reveal is the lever to lift it (see `pace-backstory`).
 - **Randi 2, edging to antipathy — the villain-flattening risk, CONFIRMED.** Cross-read with `randi-love` (4): the reader *knows* she loves Vee yet barely feels *for* her — love-as-information is doing almost no sympathy work, and her *flawless competence* reads as menace. This is the empirical case for the villain-guard (`meta-arch-randi.md` → *Let the Warm Love Surface*) and the backstage Randi-tells-Pace voicing: the love must be **felt**, not filed.
+
+**Reproduced** in the reader-axes batch (same carry-forward, fresh spawns): Vee 5 · Pace 3 · Randi 2, identical — the instrument is stable at this stage.

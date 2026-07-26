@@ -102,6 +102,23 @@ probes freely via `--ask`; promote a good one into this list when it earns its k
   - *neutral:* "Whose corner are you in? Who do you feel *for*, and who leaves you cold or wary — Vee, Randi, Pace?"
   - *pointed:* "Rate your sympathy for each — Vivienne, Randi, Pace — 0–5 (0 = none or active dislike; 5 = deep sympathy, rooting for them). One line each on what earned it; if any is active antipathy rather than just distance, say so."
 
+- **`pov-reliability`** — does the reader *discount* a POV character's feeling-colored
+  read of others? Measured as **narrator-trust, not craft comprehension** (asking "do you
+  understand POV is colored" is leading, hits a ceiling, and breaks the naive stance). The
+  probe closest to that line — trust the **neutral** tier and the delta.
+  - *neutral:* "When you're inside a character's head and they're describing someone they love or want — Vee on Pace, or on Randi — do you take that as how the person really is, or as colored by what the narrator feels? Walk me through how much you trust each viewpoint's read of the others."
+  - *pointed:* "0–5: how much do you read each POV as feeling-colored rather than objective — a character who loves or wants someone seeing them more flatteringly, or more forgivingly, than they might deserve? (0 = straight truth; 5 = I constantly adjust for who's looking and what they feel.) Point to a place you caught yourself doing it."
+- **`believability`** — do the mains read as real people vs. plot-constructs?
+  - *neutral:* "Do these people feel like real people to you, or like constructions in a scheme? Anyone ring false, anyone especially alive?"
+  - *pointed:* "Rate how believable each is as a real person — Vivienne, Randi, Pace — 0–5 (0 = a device/plot-construct; 5 = utterly real). One line each on what makes them ring true or false."
+- **`identification`** — could the reader see themselves making the same choices in the
+  character's circumstance? The **thesis-carry / reader-complicity** probe. Cross-read
+  against `sympathy`: high-sympathy + low-identification = reads as someone it happens
+  *to*, not a mirror (thesis failing, esp. for Pace); sympathy ≈ identification = reader
+  implicated. Deepens across later volumes as the full deception lands.
+  - *neutral:* "Put yourself in each of their shoes. Do you get why they did what they did — could you see yourself doing the same in their situation?"
+  - *pointed:* "For each — Vivienne, Randi, Pace — 0–5: how much could you see yourself making the same choices in their circumstances? (0 = alien to me, I'd never; 5 = honestly, I'd probably do the same.) Name the one choice that most tests your answer."
+
 ## Output layout
 
 All oracle output lives under the model's own subdir, in an `oracle/` folder, never
