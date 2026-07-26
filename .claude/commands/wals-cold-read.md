@@ -87,6 +87,41 @@ Build the ordered list of **slugs to review**, all drafted, in story order:
 If a requested slug isn't in the manifest, or a range endpoint is `planned`, say so
 and stop rather than guessing.
 
+## Step 2.5 — Upstream staleness audit (before spawning any reader)
+
+The carry-forward chain is sequential, so a review whose **scene was edited after the
+review was written** is stale — and because its carry-forward feeds every later
+reader, it poisons the whole downstream chain. Before running, audit every existing
+review for this model that sits **at or upstream of** the run's targets (every
+predecessor whose carry-forward will be consumed in Step 3, plus any target you would
+skip-as-done on a resume).
+
+**Use git, not filesystem mtime.** mtime is reset to checkout time on every fresh
+clone (the author works across multiple clones), so an mtime comparison is
+meaningless. Compare commit history instead. For each `<slug>` that has a review under
+`reviews/cold-read/<id>/`:
+
+```
+scene_ct=$(git log -1 --format=%ct -- scenes/<slug>.md)
+review_ct=$(git log -1 --format=%ct -- reviews/cold-read/<id>/<slug>.md)
+```
+
+A review is **stale** if either:
+- `scene_ct > review_ct` — the scene has a commit newer than its review; or
+- `scenes/<slug>.md` appears in `git status --porcelain` — the scene has
+  **uncommitted** edits not yet reflected in any review (the common case mid-revision).
+
+(If the review file itself is uncommitted — just written this run — it is current by
+definition; skip it.)
+
+**On any stale hit, warn before proceeding.** Name the *earliest* stale scene in story
+order: its review and **every downstream review in this model's chain are
+compromised** (their carry-forward was built on a version of the prose that has since
+changed). Recommend regenerating from there —
+`/wals-cold-read --model <id> <earliest-stale-slug>.. --fresh` — and let the author
+decide whether to continue (a resume that reuses stale carry-forward propagates the
+staleness) or regenerate first. **Do not silently proceed on a stale chain.**
+
 ## Step 3 — Determine each target's input carry-forward
 
 Each `blind-reader` needs the **prior chapter's `## Carry-forward state`** as input.
@@ -188,6 +223,9 @@ Tell the author, briefly:
 - the **model** the run used and its output dir (`reviews/cold-read/<id>/`);
 - which scenes were reviewed (and any skipped-as-already-done on a resume);
 - where a full run stopped (the first undrafted gap);
+- **Stale-upstream findings** — any reviews the Step 2.5 audit flagged as older than
+  their scene (scene edited after the review), and the `--fresh` cascade recommended
+  to rebuild the compromised chain;
 - **Stale downstream warning** — if this run did NOT reach the last drafted scene,
   list any drafted scenes *after* the last one reviewed that already have review
   files **in this model's subdir**: their carry-forward input is now stale. Give the
