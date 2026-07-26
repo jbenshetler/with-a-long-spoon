@@ -99,6 +99,20 @@ severity = "warn"
 why      = "'catalog' as a verb (cataloging/itemizing experience) is a tic. Recast; noun uses are fine."
 
 [[rule]]
+id       = "register-verb"
+kind     = "regex"
+pattern  = '(?i)(?<!\b(?:a|an|the|this|that|these|those|her|his|my|your|our|their|its|cash|vocal|voter|social|lower|upper|higher|different|same|one)\s)\bregister(?:s|ed|ing)?\b'
+severity = "warn"
+why      = "'register' as a verb (noticing-and-storing experience as a record) is the retired filing/cataloging frame — renders Pace/Randi as cold collectors. Recast into the embodied image; noun uses (a register, her register, cash/vocal register) are fine."
+
+[[rule]]
+id       = "clock-verb"
+kind     = "regex"
+pattern  = "(?i)(?<![oO]['’])(?<!\\b(?:a|an|the|this|that|these|those|her|his|my|your|our|their|its|body|alarm|wall|grandfather|around)\\s)\\bclock(?:s|ed|ing)?\\b"
+severity = "warn"
+why      = "'clock' as a verb (noticing-and-storing, 'she clocked it') is the retired filing/cataloging frame — renders Pace/Randi as cold collectors. Recast into the embodied image; noun uses (the clock, o'clock, clockwise) are fine."
+
+[[rule]]
 id       = "learn"
 kind     = "regex"
 pattern  = '(?i)\blearn(?:s|ed|ing)?\b'
