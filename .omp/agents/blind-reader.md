@@ -1,6 +1,6 @@
 ---
 name: blind-reader
-description: A cold, first-time reader of one chapter. Sees ONLY the chapter's title, its full text, and a carry-forward summary of the reader's experience so far — never the planning corpus, thesis, character bible, or any other chapter. Returns a reader reaction (critical analysis, to-this-point) plus an updated experiential carry-forward for the next reader. Invoked by /cold-read.
+description: A cold, first-time reader of one chapter. Sees ONLY the chapter's title, its full text, and a carry-forward summary of the reader's experience so far — never the planning corpus, thesis, character bible, or any other chapter. Returns a reader reaction (critical analysis, to-this-point) plus an updated experiential carry-forward for the next reader. Invoked by /wals-cold-read.
 tools: []
 model: openai-codex/gpt-5.4-mini
 thinkingLevel: low

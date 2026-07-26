@@ -3,11 +3,11 @@ description: OMP cold-read wrapper — follows Claude command source with OMP mo
 argument-hint: "[--model <omp-model-id>] [none | fall | spring | summer | <slug> | <slug-a>..<slug-b> | <slug>..] [--fresh]"
 ---
 
-Run the cold-read workflow by **reading and following** `.claude/commands/cold-read.md`, with the OMP-specific overrides below. This wrapper exists so the Claude command remains the workflow source of truth while OMP uses its own `blind-reader` agent and model configuration.
+Run the cold-read workflow by **reading and following** `.claude/commands/wals-cold-read.md`, with the OMP-specific overrides below. This wrapper exists so the Claude command remains the workflow source of truth while OMP uses its own `blind-reader` agent and model configuration.
 
 ## Required source-read
 
-Before executing, read `.claude/commands/cold-read.md` and follow its current workflow unless an override below conflicts. The Claude command may change; those changes should flow through automatically via this source-read.
+Before executing, read `.claude/commands/wals-cold-read.md` and follow its current workflow unless an override below conflicts. The Claude command may change; those changes should flow through automatically via this source-read.
 
 ## OMP overrides
 
@@ -40,4 +40,4 @@ Before executing, read `.claude/commands/cold-read.md` and follow its current wo
 7. **Output validation:** the reader output must include both `### Reader reaction` and `### Carry-forward state`. If either heading is missing, or if the carry-forward section is empty, discard that run, retry once with a format reminder, and stop rather than writing a broken chain if the retry still fails.
 8. **Blindness tripwire:** keep the Claude command's hard stop. A clean reader uses zero tools. If the OMP task/eval result reports any tool use, do not write the review and stop.
 
-All other behavior — manifest resolution, target selection, carry-forward chaining, output file layout, synthesis, stale downstream warnings, and non-destructive write policy — comes from the current `.claude/commands/cold-read.md`.
+All other behavior — manifest resolution, target selection, carry-forward chaining, output file layout, synthesis, stale downstream warnings, and non-destructive write policy — comes from the current `.claude/commands/wals-cold-read.md`.

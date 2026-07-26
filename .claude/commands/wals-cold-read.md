@@ -191,7 +191,7 @@ Tell the author, briefly:
 - **Stale downstream warning** — if this run did NOT reach the last drafted scene,
   list any drafted scenes *after* the last one reviewed that already have review
   files **in this model's subdir**: their carry-forward input is now stale. Give the
-  cascade command, e.g. `/cold-read --model <id> <first-reviewed-slug>..`
+  cascade command, e.g. `/wals-cold-read --model <id> <first-reviewed-slug>..`
 
 Non-destructive: writes only under `reviews/cold-read/<id>/`. Never touch `scenes/`
 or `meta/`, and never write into another model's subdir. These are reader reactions,

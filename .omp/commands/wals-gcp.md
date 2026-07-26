@@ -54,5 +54,5 @@ Add chronology HTML rebuild skill
 Update SATC chronology title refs
 ```
 
-Keep the subject specific and boring. Do not mention `/gcp`, automation, or the
+Keep the subject specific and boring. Do not mention `/wals-gcp`, automation, or the
 assistant.
