@@ -1,0 +1,204 @@
+# Cold read — file & harness contract
+
+The shared spec every harness follows so the same book, read by different models,
+produces **drop-in-compatible, directly comparable** files. The Claude tiers
+(`claude-opus-*`, `claude-fable-*`, …) are produced by the `/wals-cold-read` command in
+this repo (`.claude/commands/wals-cold-read.md`); non-Claude models (`gemini-*`, `gpt-*`,
+`grok-*`, …) are produced by an external harness that MUST conform to this spec.
+
+## What a cold read is
+
+A **blind, sequential first reader.** For each drafted chapter, in story order, a
+model reads *only*: the chapter's display title, its clean prose, and the
+**accumulated** carry-forward of the reader's experience through *all* previous
+chapters (not just the last one). It has seen no planning material, no future
+chapters, no author intent. It returns a **reader reaction** (how the chapter lands,
+to this point) and an updated **carry-forward state** (what this continuous reader now
+knows/feels) that feeds the next chapter. The instrument measures whether the book
+"earns the dark by being light."
+
+## Directory layout
+
+```
+reviews/cold-read/
+  README.md                     ← human overview (shared)
+  SPEC.md                       ← this file (shared)
+  <model-id>/                   ← one dir per model, named by its versioned id
+    <slug>.md                   ← one per scene reviewed
+    SYNTHESIS.md                ← that model's arc-level synthesis (multi-scene runs)
+```
+
+- **`<model-id>` = versioned model id**, verbatim as the folder name. Examples:
+  `claude-opus-4-8`, `claude-fable-5`, `gemini-2.5-pro`, `gpt-5`, `grok-4`.
+  Use the version so a later model upgrade lands in a new sibling dir instead of
+  overwriting. Every harness must agree on the exact string.
+- `<slug>` = the scene's on-disk slug (the `scenes/<slug>.md` filename without `.md`).
+- No model's run ever writes outside its own `<model-id>/` dir.
+
+## Per-scene file format
+
+```
+# Cold read — <Display Title>
+
+*scene: scenes/<slug>.md · model: <model-id> · read after: <predecessor-slug or "— (opening, cold)">*
+
+## Reader reaction
+
+<verbatim reader reaction>
+
+## Carry-forward state
+
+<verbatim carry-forward state>
+```
+
+Both `##` sections are required, in this order, with these exact headings.
+
+## Story order & scope
+
+- **Story order** comes from `meta/meta-plan-chronology.md` (every `[SCENE]`/`[VIGNETTE]`
+  entry in document order; `[EVENT]`s skipped). The orchestrator uses it only for
+  ordering/drafted-status — **the reader model never sees it.**
+- A run covers a contiguous drafted stretch, in order, stopping at the first
+  undrafted gap. The reader for scene *N* is fed the carry-forward from scene *N−1*.
+
+## The carry-forward chain (per model)
+
+- Chains are **per model.** Scene *N*'s input is scene *N−1*'s `## Carry-forward state`,
+  read from the **same model's** subdir. **Never mix carry-forward across models** —
+  each model is its own continuous reader.
+- The book's opening scene has no predecessor → the reader is told it is opening the
+  book cold (empty prior state).
+
+## The cover & jacket copy (what the reader knows going in)
+
+A real reader picks the book up already holding the **cover** (title **WITH A LONG
+SPOON**, *Book One*, and the tagline *"Every yes was freely given. That was the trap."*)
+and the **jacket/listing blurb**. The instrument gives the reader exactly that and
+nothing more of the design: the reader carries the cover + blurb the whole run as its
+only framing, and lets the chapters confirm, complicate, or exceed it. The blurb
+legitimizes reader knowledge the book *discloses on purpose* (the configuration — Randi
+and Pace are secret lovers who chose Vee as their third and told her nothing; "dread,
+not mystery"); it does **not** disclose how the book lands. In the Claude harness the
+exact cover + jacket text is baked into the `blind-reader` agent definition
+(`.claude/agents/blind-reader.md`) so it is identical every run and can't be dropped
+from a spawn. External harnesses MUST prepend the same cover title/tagline and blurb
+(the "Test-epub blurb" in `meta/meta-blurb.md`) as the reader's sole going-in framing.
+
+## Input preparation (what the reader is fed)
+
+The reader gets, inline in its prompt, **only**:
+1. the display title;
+2. the **clean prose**, verbatim — with these stripped first, because a real reader
+   would never see them:
+   - the leading *italic scene-header note* under the `# Title` (POV/participant/
+     purpose gloss);
+   - any `[AI]` / `[AI?]` notes or embedded author annotations;
+   - any trailing **craft-notes / revision-notes block**;
+   - (keep `---` section breaks and everything else verbatim);
+3. the prior carry-forward state (or the "opening, cold" note).
+
+Plus the fixed jacket blurb above (baked into the agent, not the per-scene prompt).
+Never pass the reader anything else: a file path, the slug, the chapter's
+position/number, the thesis/bible/chronology or anything from `meta/`, the model name,
+or any framing of what the scene "does."
+
+## Blindness contract (non-negotiable)
+
+The reader must be unable to reach anything beyond its prompt — no file reads, no
+search, no retrieval, no web. In the Claude harness this is enforced by a **hard
+tripwire**: after each scene the orchestrator checks the subagent's `tool_uses`, and
+any value other than `0` halts the whole run (that scene's review is discarded).
+External harnesses MUST provide an equivalent guarantee: the model has no tools/no
+retrieval for the reading turn, or the run is invalid. A clean run is tool-free on
+every scene.
+
+**The push-in leak (Claude harness caveat).** The tripwire only catches the reader
+*reaching out*; it does nothing about design material *pushed in* underneath the agent.
+A custom Claude subagent **automatically inherits the project `CLAUDE.md`** (only the
+built-in Explore/Plan agents skip it) — so any thesis/craft vocabulary sitting in
+`CLAUDE.md` reaches the "blind" reader invisibly. This is why the spoiler-grade
+orientation was moved out of `CLAUDE.md` into `meta/meta-orientation.md` (`meta/` is
+**not** auto-loaded into subagents), and why `blind-reader.md` carries an explicit
+"disregard any project text describing this book — you know only the jacket and the
+page" rule. Keep design material out of `CLAUDE.md`, or it re-contaminates the
+instrument. (The carry-forward chain is the secondary vector: once a reader writes
+leaked vocabulary into its ledger, every later reader inherits it — so a re-run after a
+leak fix must start from a **clean seed**, not resume an old chain.)
+
+## Reader reaction — rubric (to this point in the book)
+
+Two parts, in order: a **felt read** (prose) then a **structured block**. Keep them
+separate so the tabulation never contaminates the gut response. Quote the page;
+body-response before tidy interpretation; don't pad sections with nothing to say.
+
+**Felt read** (a person talking):
+- **How I feel about each character right now** — attraction, trust, sympathy,
+  discomfort; what moved since last chapter and why.
+- **Trust vs. suspicion** — does anyone/anything feel "off" yet? Be precise about
+  whether the *text on the page* earned it or there's simply no reason to doubt.
+  ("No suspicion of anyone" is a valid, important answer.)
+- **Erotic charge** — is it working, where does it peak, where does it go slack/clinical.
+- **Friction as a reader** — confusion, boredom, telegraphing, the author's thumb;
+  quote the line.
+- **The titles — this chapter's, and the book's** — now that the chapter's read, what
+  the **chapter title** means and where it points (illuminates / recolors / stays
+  oblique / *or telegraphed*); and what the **book title (*With a Long Spoon*) + cover
+  tagline** seem to promise and where they're steering the reader. As a reader
+  following signals, not a critic decoding; "means nothing to me yet" is a valid answer.
+- **What I want / expect / dread next** — pull to keep reading; guesses marked as guesses.
+
+**Structured block** (a few tight lines per bold label, grounded in the page):
+- **Cast present (in person):** characters who physically appear and act in this
+  chapter's scene, vs. mentioned-only names (list those separately).
+- **Heat:** 0–3 + half-line why. **0** none · **1** charged/simmering (clothed
+  tension, innuendo) · **2** explicit sexual activity, present but not the whole scene ·
+  **3** graphic, sustained, the scene's center.
+- **Romance:** 0–3 + half-line why. **0** none · **1** faint warmth/pull · **2** clear
+  tenderness/intimacy · **3** romantic peak (declaration, devotion, a turn in the bond).
+- **Motifs & images:** recurring images/objects/gestures/phrases noticed — flag any
+  that **recur** from earlier chapters (name the earlier appearance) and mark first vs.
+  repeat.
+- **Symbolism:** anything reading as more than itself — only if the page invited it.
+- **Characterization:** is each character landing as consistent and deepening, or
+  flattening / contradicting / serving the plot? Name who deepened, who went thin.
+- **Pace — within the chapter:** where it dragged or rushed; did it earn its length.
+- **Pace — chapter to chapter:** momentum vs. the last chapter and the run — building,
+  holding, or sagging; too much of the same beat in a row.
+
+The 0–3 anchors above are shared across all harnesses so ratings are comparable.
+
+## Carry-forward state — contents
+
+The reader's **accumulated** memory (not a review — no craft critique here). It is
+**fully retentive — no forgetting, no aging-out** (an earlier design let old memory
+"compress with age"; that was disabled because it let hard facts — including a
+character's gender — drift by the end of a long book). Two kinds of content:
+
+**Durable ledger — append, don't compress** (carry every prior entry forward; only
+strike one when the book closes it):
+- **Who's who** — every named character ever, one-line impression, **gender as
+  established on the page**, tagged **in person** vs. **mentioned-only**. Never delete a
+  character and never change an established identity — this anchor stops the cast from
+  drifting as the book gets long.
+- **Motif & image ledger** — each recurring image/object/gesture/phrase with a short
+  trail of where it has appeared. The spine of motif tracking.
+- **Symbolism noticed** — running list of what read as symbolic and its apparent meaning.
+- **Open questions** — what's still open; strike each when answered.
+
+**Running memory** (kept, not compressed):
+- **Story so far** — plain plot memory; recent chapters detailed, older ones kept as a
+  clear, correct spine (who did what to whom, where things stand) — never blurred to
+  losing a fact.
+- **How I feel** — current trust/attraction/unease per character; overall mood.
+
+Fold the prior state in and update what changed, but **preserve everything** — the whole
+durable ledger and a faithful running memory. The next reader has ONLY this plus the
+next chapter — a fact dropped here is a fact the book loses.
+
+## Synthesis
+
+One `SYNTHESIS.md` per model (in its subdir), for multi-scene runs: the arc-level
+trajectory — trust/attraction/sympathy/suspicion per character; where suspicion of
+Randi first leaks and whether the text earned it; where sympathy for Pace peaks and
+wobbles; erotic momentum; telegraphing / thumb-on-the-scale clusters. Cross-model
+comparison is done by hand across the per-model syntheses.

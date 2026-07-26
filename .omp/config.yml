@@ -1,0 +1,4 @@
+task:
+  agentModelOverrides:
+    lore-keeper: openai-codex/gpt-5.4-mini
+    blind-reader: openai-codex/gpt-5.4-mini
