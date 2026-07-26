@@ -24,7 +24,7 @@ He felt her smiling against his chest, and after a moment she went on, warm agai
 
 "And she talks about you," he said.
 
-"The whole hour." She lifted her head; there was something undefended in it. "Pace this, Pace that, the face you make when you're thinking. She is *gone* for you. It's a little pathetic." A beat. "I love it."
+"The whole hour." She lifted her head; there was something undefended in it. "Pace this, Pace that, the face you make when you're thinking. She's got it *bad.* It's a little pathetic." A beat. "I love it."
 
 She came up and kissed him — warm, unhurried, her hair falling around them, her hand at the side of his face — and he let her, one hand sliding up into her hair, and she stayed in it a moment before she drew back just far enough to look at him.
 
@@ -38,7 +38,13 @@ She waited, the blue of her eyes on him in the low light.
 
 Something crossed her face and was gone. "God, you two," she said, and set her cheek back on his chest.
 
-"And she has no idea what she's sitting on," she said, after a while, and the tell of it dropped, half a register, went somewhere lower and warmer. "Those curves. Under that sad little cardigan she hides in." She pressed up on her hands and drew slowly down the length of him, her breasts dragging across his chest, one way and then the other, showing him with her own body the thing she was describing. "It's *criminal,* Pace." She settled back down onto him. "But you already know."
+"I don't know why she hides in that cardigan," she said, after a while.
+
+"She's ashamed." He said it low, certain, without heat. A beat. "Somebody taught her to be ashamed of her body."
+
+Something in Randi went quiet at that, and softened past it. "And you're showing her she doesn't have to be." She leaned up and kissed his lower lip — soft, brief — and settled back onto his chest. "That's why she's so gone over you."
+
+Then the tell of it dropped, half a register, went somewhere lower and warmer. "God. What she keeps under there." She pressed up on her hands and drew slowly down the length of him, her breasts dragging across his chest, one way and then the other, showing him with her own body the thing she was describing. "It's *criminal,* Pace. But you already know."
 
 He knew what he'd heard. Not the words — the thing that came loose under them and got out a half-step ahead of her, before she folded it back up. All fall she'd said it the bright way — *for the threesome, for us,* easy — and that had not been the bright way. That was the thing the bright way was built to carry, out in the open for a second.
 
