@@ -87,6 +87,63 @@ Build the ordered list of **slugs to review**, all drafted, in story order:
 If a requested slug isn't in the manifest, or a range endpoint is `planned`, say so
 and stop rather than guessing.
 
+## Step 2.5 — Upstream staleness audit (before spawning any reader)
+
+The carry-forward chain is sequential, so a review whose **scene was edited after the
+review was written** is stale — and because its carry-forward feeds every later
+reader, it poisons the whole downstream chain. Before running, audit every existing
+review for this model that sits **at or upstream of** the run's targets (every
+predecessor whose carry-forward will be consumed in Step 3, plus any target you would
+skip-as-done on a resume).
+
+**Use git, not filesystem mtime.** mtime is reset to checkout time on every fresh
+clone (the author works across multiple clones), so an mtime comparison is
+meaningless. Compare commit history instead. For each `<slug>` that has a review under
+`reviews/cold-read/<id>/`:
+
+```
+scene_ct=$(git log -1 --format=%ct -- scenes/<slug>.md)
+review_ct=$(git log -1 --format=%ct -- reviews/cold-read/<id>/<slug>.md)
+```
+
+A review is **scene-stale** if either:
+- `scene_ct > review_ct` — the scene has a commit newer than its review; or
+- `scenes/<slug>.md` appears in `git status --porcelain` — the scene has
+  **uncommitted** edits not yet reflected in any review (the common case mid-revision).
+
+(If the review file itself is uncommitted — just written this run — it is current by
+definition; skip it.)
+
+**Also check chain-staleness (the carry-forward dependency).** A review can be stale
+even when its *own* scene is untouched — if a review **upstream of it in this model's
+chain** was regenerated after it, the carry-forward seed it was built on has changed.
+Using the story order from the Step 1 manifest, walk this model's reviews in order and
+compare each to its immediate predecessor's review commit time:
+
+```
+pred_ct=$(git log -1 --format=%ct -- reviews/cold-read/<id>/<predecessor-slug>.md)
+```
+
+A review is **chain-stale** if `pred_ct > review_ct` — its predecessor is newer, so
+(transitively) something upstream was regenerated after it. Staleness cascades from the
+regenerated scene down through the rest of the chain; the opening scene is the root, so
+regenerating it marks **every** later review chain-stale. This shares the scene-stale
+commit-time limitation (a review re-committed for an unrelated reason resets its clock;
+a content signal — recording the upstream carry-forward hash each review consumed —
+would be bulletproof but is a bigger change), and it is **conservative**: a regeneration
+whose carry-forward is materially unchanged still flags all downstream. So **report it
+but flag materiality** — name the regenerated upstream scene and let the author decide
+whether the change is worth a `--fresh` cascade; chain-stale is a heads-up, not an
+automatic rerun.
+
+**On any stale hit, warn before proceeding.** Name the *earliest* stale scene in story
+order: its review and **every downstream review in this model's chain are
+compromised** (their carry-forward was built on a version of the prose that has since
+changed). Recommend regenerating from there —
+`/wals-cold-read --model <id> <earliest-stale-slug>.. --fresh` — and let the author
+decide whether to continue (a resume that reuses stale carry-forward propagates the
+staleness) or regenerate first. **Do not silently proceed on a stale chain.**
+
 ## Step 3 — Determine each target's input carry-forward
 
 Each `blind-reader` needs the **prior chapter's `## Carry-forward state`** as input.
@@ -188,6 +245,11 @@ Tell the author, briefly:
 - the **model** the run used and its output dir (`reviews/cold-read/<id>/`);
 - which scenes were reviewed (and any skipped-as-already-done on a resume);
 - where a full run stopped (the first undrafted gap);
+- **Staleness findings (Step 2.5)** — any reviews flagged **scene-stale** (scene edited
+  after the review) or **chain-stale** (an upstream review regenerated after it, so its
+  carry-forward seed moved). Name the earliest affected scene and the `--fresh` cascade
+  that would rebuild the chain — but present chain-stale as a materiality call, not a
+  mandatory rerun;
 - **Stale downstream warning** — if this run did NOT reach the last drafted scene,
   list any drafted scenes *after* the last one reviewed that already have review
   files **in this model's subdir**: their carry-forward input is now stale. Give the
