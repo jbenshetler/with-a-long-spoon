@@ -163,8 +163,11 @@ def main():
     ap.add_argument("--effort", default="low", choices=["none", "minimal", "low", "medium", "high"],
                     help="reasoning effort (default low; high turns the reader into a critic)")
     ap.add_argument("--timeout", type=float, default=600.0, help="per-call request timeout, seconds")
-    ap.add_argument("--max-attempts", type=int, default=1,
-                    help="attempts per scene (default 1 = no retries, for cost safety)")
+    ap.add_argument("--max-attempts", type=int, default=3,
+                    help="attempts per scene (default 3). A retry appends a FORMAT REMINDER, "
+                         "which self-heals the occasional missing-section response. Still "
+                         "cost-safe: each attempt is budget-capped, and a budget breach aborts "
+                         "immediately without retrying (only parse/transient failures retry).")
     ap.add_argument("--fresh", action="store_true", help="regenerate existing reviews (default: resume/skip)")
     ap.add_argument("--price-in", type=float, default=None, help="override input price (USD/1M tokens)")
     ap.add_argument("--price-out", type=float, default=None, help="override output price (USD/1M tokens)")

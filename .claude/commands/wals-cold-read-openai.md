@@ -28,9 +28,13 @@ carry-forward, and nothing from `meta/`. Single source of truth; no drift.
   so one call **physically cannot** exceed the budget.
 - After each call it checks the **actual** cost and the response status; if a scene is
   over budget or comes back **incomplete** (hit the cap), the **whole batch aborts**.
-- **Retries are OFF by default** (`--max-attempts 1`) so a bad scene can't multiply
-  spend. A model with no price (in `tools/cold_read_pricing.toml` or via
-  `--price-in/--price-out`) is **refused**, never run uncapped.
+- **Retries default to `--max-attempts 3`.** A retry appends a FORMAT REMINDER, which
+  self-heals the occasional response that omits the carry-forward section (a single
+  formatting miss should not nuke a 46-scene run). This stays cost-safe: **only parse
+  or transient failures retry** — a budget breach aborts immediately without retrying,
+  and every attempt is still hard-capped. A model with no price (in
+  `tools/cold_read_pricing.toml` or via `--price-in/--price-out`) is **refused**, never
+  run uncapped.
 - **Reasoning effort defaults to `low`.** For a cold read that is deliberate: higher
   effort turns the naive first-reader into a craft critic that spots the trap early and
   over-reads telegraphing — degrading the very signal the instrument measures. Raise to
