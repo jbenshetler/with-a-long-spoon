@@ -606,6 +606,27 @@ text = "The bistro had a sun porch along its south side, a long room of glass an
 note = "kept as buried consent-resonance; reads as atmosphere on first pass (author decision, B)"
 
 [[ok]]
+fp   = "255f62f52e9c"
+rule = "filter-verbs"
+file = "scenes/gone.md"
+text = "He felt her smiling against his chest, and after a moment she went on, easy again."
+note = "tactile: he feels her smile against his chest — physical registration, author-accepted"
+
+[[ok]]
+fp   = "649b4e423a0a"
+rule = "filter-verbs"
+file = "scenes/gone.md"
+text = "He felt the laugh start low in her."
+note = "tactile: he feels her laugh through his chest, body-before-mind not a cognitive filter — author-accepted"
+
+[[ok]]
+fp   = "afca2c441e8a"
+rule = "the-way"
+file = "scenes/gone.md"
+text = "The house was warm the way he kept it when she was there, the lamp low, and Randi was still astride him where she'd stayed after, folded down onto his chest, loose in the way she only went afterward, her hair spilled black and fine across his skin."
+note = "opening motif line; 'warm the way he kept it' is near-canonical warm-house phrasing — author-accepted"
+
+[[ok]]
 fp   = "1024f8b98296"
 rule = "warm"
 file = "scenes/gone.md"
