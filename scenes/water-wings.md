@@ -10,7 +10,7 @@ Vee stood on the wet tile in the old, nostalgic smell of chlorine and floor clea
 
 Cassie banged her locker shut and they headed out, Cassie looping the stretchy wristband with the locker key over her wrist.
 
-Vee rolled her towel the way her hands still knew, tight from one end, and carried it down at her side — not up against her. She put her face on: chin level, shoulders open, the walk of a girl who had *meant* to arrive. The only way to the water ran the length of the bleachers, so she took it like an entrance.
+Vee rolled her towel tight from one end, her hands still knowing how, and carried it down at her side — not up against her. She put her face on: chin level, shoulders open, the walk of a girl who had *meant* to arrive. The only way to the water ran the length of the bleachers, so she took it like an entrance.
 
 It came about halfway down, lobbed easy: "You won't need floaties with *those!*" — the bleachers breaking up behind it, the laugh that's really the guys applauding each other. Vee gave it a long blink, half her mouth pursing, less than a grimace. Then, further along, lazy as a summer breeze: "Legs for *days.*" That one got the eyeroll, unbothered, aimed at the ceiling. She had them banked.
 
@@ -20,7 +20,7 @@ Cassie waded to the middle of her ribs and stopped, planted, arms spread along t
 
 The room switched off. The applause-laughter, the lifeguard's radio, the flat boom of the big space, Cassie — all of it gone in the swallowing green, and there was only the cold coming up from below and the light coming down through the surface in slow sheets and her own heartbeat, close and steady. She hung with nothing holding her and nothing to hold. Weightless the way you only are down here. Something in her chest that had stood at attention all afternoon quietly sat down.
 
-Her hands found the old shape before she asked them to — the slow scull, palms feathering the little figure-eight that keeps you down and turned and yours — and she let them, and turned, and looked up at the bright moving ceiling of the surface from underneath. Nobody up there could see her. Nobody down here wanted anything. She had loved this before she had a body to be a problem. She stayed until her lungs asked, and a beat past that, in the green and the quiet and the old uncomplicated belonging, and grieved, a little.
+Her hands found the old shape before she asked them to — the slow scull, palms feathering the little figure-eight that keeps you down and turned and yours — and she let them, and turned, and looked up at the bright moving ceiling of the surface from underneath. Nobody up there could see her. Nobody down here wanted anything. She had loved this before she had a body to be a problem, and the water was the one part of it that had never been taken. She stayed until her lungs asked, and a beat past that, in the green and the quiet and the old uncomplicated belonging, and grieved, a little.
 
 She came up. The surface broke and the room came back with it — light and noise and chlorine and the whole business of having a body in a place where people were — and she blinked it into focus, a little slow, still half in the green.
 
