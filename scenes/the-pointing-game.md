@@ -22,7 +22,7 @@ It was not fair to ask it now, and he knew it was not fair. He asked it anyway, 
 
 "Would you like to taste another woman?"
 
-The question reached her body before it reached her, and took her all at once: her sex clenching hard around him, her legs drawing him in, her arms coming up to lock him against her. He kept moving and let her have it. On her face was astonishment, and under it the helplessness, and under that what the question had been for. She had wanted it, and her body had said so before she could make the wanting mean anything safer.
+The question reached her body before it reached her, and it took her all at once — she came, hard, almost before he'd finished asking, her sex clenching around him, her legs drawing him in, her arms coming up to lock him against her, far too fast for anything he was doing to account for it. He kept moving and let her have it. On her face was astonishment, and under it the helplessness, and under that what the question had been for. She had wanted it, and her body had said so before she could make the wanting mean anything safer.
 
 So. There it was.
 
