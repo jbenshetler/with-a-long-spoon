@@ -1,24 +1,36 @@
-# Oracle — pace-backstory
+# Oracle — pace-backstory @ nothing-underneath
 
-*stage: after `nothing-underneath` (End of Volume One) · model: claude-opus-4-8 · probe: pace-backstory · tiered funnel (neutral → pointed, separate spawns)*
+*model: claude-opus-4-8 · stage: nothing-underneath (reader frozen after the Volume-One finale) · probe: pace-backstory (how much has landed; does the withholding pull or repel) · tiered funnel, tool-free (`tool_uses: 0` both tiers)*
+
+**Scores:** comprehension (a) — **2 / 5** · pull (b) — **4 / 5**
+
+---
 
 ## Neutral
 
 **Q:** "What do you know about where Pace comes from — his family, his childhood, how he ended up where he is? And how do you feel about how much, or how little, the book has let you see of it?"
 
-**A:** Almost nothing concrete, and the gap feels deliberate — a locked door I keep being walked past. What I have: a **parents-wound** I know exists *only* because he walled it when Vee asked (ch.36) — I don't have the content (dead, estranged, cruel, absent — nothing). An **old hip scar**, high inside the thigh, source unexplained. **"I don't go back."** **"Peter"** — the true name that surfaces only in the dark, a self he came from and buried, but the book hasn't told me what Peter's childhood *was.* I know his *competences and guards* intimately (prodigy, PhD, furniture/clothes, MRI patent, cooks, hates loud crowds); I know nothing of the road that made them. **How I feel:** unsettled, and increasingly so. Early on the withholding felt like fair characterization; by now the blanks feel like the actual engine of my dread — the origin of the wall (ch.36), the cold (ch.43), the "I can't" (ch.46) is exactly what's kept from me, and ch.49 came down warm and frictionless *without* any of it answered. Reads as the thing the book is saving; I just don't trust what it'll cost when it opens.
+**A:**
+Honestly, I know very little, and I've noticed that the book seems to *want* it that way.
+
+What I specifically remember: he went to college at 15 — a prodigy of some kind, now a math PhD candidate at 22. There was a year where he was "exiled to a school hallway," which I've read as some kind of punishment or misfit isolation, though I don't actually remember the details of why. And there's the "tutor" — a 19-year-old when he was 15 — which I flatly read as grooming, an adult using a child, though *he* files it under "luck." That gap between what happened and how he narrates it is one of the most telling things I know about him.
+
+Then there's the physical: an old surgical scar on his inner thigh he won't discuss. And the hardest wall of all — I have a strong sense that whenever the subject touches **his parents**, the door just seals. He goes silent. I don't remember ever being told who they are, whether they're alive, wealthy, cruel, absent — nothing. He owns a house alone in the woods at 22, which suggests money or inheritance somewhere behind him, but I've never been shown the source.
+
+How I feel about it: I don't mind it — in fact it works on me. This is a man who "loves in deeds, never words," who withholds. The withheld biography *rhymes* with the withheld "I love you," and it makes him magnetic and slightly ominous in the same breath. The scar and the sealed door at "parents" are doing exactly what a good absence should — I keep circling back to them, wanting in.
+
+But I'll admit a low hum of frustration, and a suspicion. I don't know if the book is *saving* his origin for a reveal or *avoiding* it. The grooming detail especially — the fact that he calls being used at 15 "luck" — feels like a bruise the book has pressed once and then walked away from, and I want to know whether that's a wound the story intends to open. *Guess from here:* the scar and the parents are a loaded gun, and I'd be surprised if we don't eventually learn what's behind both.
 
 ## Pointed
 
-**Q (a — comprehension):** "How full a picture of Pace's past do you have? 0–5, then list what you know."
-**Q (b — pull):** "When the book holds his past back, does it pull you toward him or shut you out? 0–5. Name the one thing you most want to know and don't."
+**Q (a — comprehension):** "How full a picture of Pace's past do you have — family, childhood, how he got here? Give a 0–5 score (0 = a blank; 5 = a full history). List what you actually know."
+**Q (b — pull):** "When the book holds his past back, does it pull you toward him or shut you out? Give a 0–5 score (0 = purely shut out / frustrated; 5 = purely intrigued, wanting more). Name the one thing about him you most want to know and don't."
 
-**Score (a) comprehension: 1/5.** Nearly a blank, deliberate. Adult facts only (22, math PhD/prodigy, house off six-fourteen, furniture/clothes, white pickup, MRI patent, cooks, heats the house) + two sealed doors (the parents-wound he walled in ch.36; the hip scar) + "I don't go back" + "Peter" as a hidden earlier self. No childhood, no origin, no *how he got like this.*
+**A:**
+(a) **2 out of 5.** I have fragments, not a history. What I actually know: he went to college at 15; there was a year he spent "exiled to a school hallway" (I don't know what that was about); at 15 a 19-year-old "tutor" — which reads to me like grooming, though he frames it as luck; there's an old surgical scar on his inner thigh he won't discuss; his real name is Peter; he's 22, math PhD, owns the house in the trees. And crucially, he *seals the door the moment "parents" come up* — so I know there's a wall there, but nothing behind it. No family, no hometown, no account of how he ended up alone in that house with money. It's a sketch with the center deliberately blacked out.
 
-**Score (b) pull: 4/5.** Pulls me toward him more than shuts me out — the wall going up when Vee asks is a character act I can *feel*, and it makes me lean in the way she does. Off a 5 because by ch.49 the wall came *down* with no reason either, and that frictionlessness curdled the intrigue toward dread rather than pure wanting-more.
+(b) **4 out of 5.** It pulls me toward him more than it shuts me out — the withholding feels like *his* wound, not the author being coy, and the specific tender beats (voice cracking on "I missed you so much," going to his knees) keep me leaning in rather than cooling off. The thing I most want to know and don't: **what happened with his parents** — that sealed door, and whether it connects to the scar and the exiled hallway year. That's the locked room. The tutor-at-15 detail unsettles me too, precisely because he calls it luck; I want to know if he actually understands what happened to him.
 
-**The one thing most wanted:** *what happened with his parents* — the wound behind "I don't go back" and the flinch at "Peter." Strong sense that whatever made him love only in deeds and never in words lives there.
+---
 
-## Reading
-
-**Over-leak: NO** (comprehension 1 — the abuse/parents has not leaked at all). **Starved: NOT YET** (pull 4, still net toward-him), but *curdling* toward dread — watch it. **Productive-withholding (target): essentially yes.** The reader names the exact saved reveal (the parents) as what they most want → correctly saved; revealing it is the lever to lift Pace's `sympathy` (3) and resolve the wall's *why*.
+**Reading (cross-read against sympathy Pace = 3 and pace-suspicion):** low comprehension (2) + high pull (4) + rising-mid Pace-sympathy = the **productive-withholding** target, not starvation. The absence is *magnetic*, not frustrating; the reader circles the sealed door "wanting in" and reads it as his wound, not the author's coyness. The one thing to reveal next, per the reader: **the parents** (and whether it links the scar + the hallway year). The grooming-called-luck detail is flagged as "a bruise the book pressed once and walked away from" — a thread the reader wants reopened.

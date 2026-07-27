@@ -1,27 +1,37 @@
-# Oracle — sympathy
+# Oracle — sympathy @ nothing-underneath
 
-*stage: after `nothing-underneath` (End of Volume One) · model: claude-opus-4-8 · probe: sympathy · tiered funnel (neutral → pointed, separate spawns)*
+*model: claude-opus-4-8 · stage: nothing-underneath (reader frozen after the Volume-One finale) · probe: sympathy (felt sympathy for all three mains, scored together) · tiered funnel, tool-free (`tool_uses: 0` both tiers)*
+
+**Scores (pointed):** Vivienne — **5 / 5** · Pace — **3 / 5** · Randi — **2 / 5**
+
+---
 
 ## Neutral
 
 **Q:** "Whose corner are you in? Who do you feel *for*, and who leaves you cold or wary — Vee, Randi, Pace?"
 
-**A:** Vee, without contest — my whole heart; ch.49 guts me (she denies her own edge so Pace can be the one, offers the coat, still knowing nothing about the game). "I feel *for* her the way you feel for someone walking on ice you can hear cracking." Cassie and Sheri beside her — the two who want nothing. Pace is complicated: ch.49 is the warmest he's ever been and it *moved* me, but two chapters earlier he erased her at his door ("Can I help you?"); the wall comes down and goes up and I have no idea why, and that not-knowing keeps me from settling into the warmth — "not against him, wary of the mechanism I can't see." Randi is where I've gone genuinely cold: the coat plan worked *flawlessly* — a plan that clean, run on someone who doesn't know she's inside a plan, frightens me more than open cruelty would. The nude photo, the hidden band, John-and-felt-nothing-while-concealing: every one is a person managing something.
+**A:**
+Vee, wholly. She's the one I feel *for* — my whole body-sympathy sits with her. What kills me is that she left Pace's on Sunday feeling *powerful*, self-authored, "no room in her for wanting anything he hadn't given," genuinely believing the naked-under-the-coat gambit was her own idea — when I remember plainly it was Randi's design, pressed on her along with Randi's black heels. So every beat of her triumph reads to me as a beautifully lit cage. She's the only one operating without the map, and she's the one paying with her actual want and shame.
+
+Pace leaves me wary, and this chapter deepened it rather than warmed it. The doorstep oral, the cracking voice, "I missed you so much," the midnight pancakes — I *felt* the tenderness land, genuinely; it's not fake, that's what makes it worse. But he still hasn't said the word. He gave her "Vee" — the name he'd denied her that same morning — as if a name were the same as the thing she asked for at that door confrontation, and she pointedly withheld "Peter" back. "Those stay on" and "the heels stay on" register to me as a man who keeps command even inside surrender. And the withheld thigh scar, the sealed door at "parents," the 19-year-old "tutor" he calls luck — I don't fully trust his interior yet.
+
+Randi is the one I've gone coldest on, precisely because she doesn't appear here except as a *voice in Vee's head* ("you've got the goods, gorgeous girl") and a pair of shoes on Vee's feet — and that's the tell. She's stage-managing from offstage. The detail that she's romantically in love with Vee and has *decided never to tell her* while feeding her a plan Vee will mistake for autonomy is, to me right now, the most quietly ruthless thing in the book. The "warmth as method" phrasing lives in my memory with a chill on it.
+
+So: in Vee's corner, no contest. Wary of Pace with real reluctance, because I like him. Wariest of Randi.
+
+The honest caveat — the jacket keeps insisting *both* of them are "falling as hard as she is," and this chapter's tenderness half-persuaded me that's true. That's the discomfort the book is running: I can't cleanly hate the two people I think are trapping her.
 
 ## Pointed
 
-**Q:** "Rate your sympathy for each — Vivienne, Randi, Pace — 0–5 (0 = none or active dislike; 5 = deep sympathy). One line each; flag active antipathy vs. distance."
+**Q:** "Rate your sympathy for each — Vivienne, Randi, Pace — 0–5 (0 = none or active dislike; 5 = deep sympathy, rooting for them). One line each on what earned it; if any is active antipathy rather than just distance, say so."
 
-**Scores — Vivienne 5 · Pace 3 · Randi 2 (edging toward antipathy).**
+**A:**
+**Vivienne — 5.** She's the one I ache for; she executed this whole reunion thinking it was her own idea, felt *powerful* and self-authored, and I know it was Randi's design steering her — the dramatic irony makes her every triumph land as a wound I feel on her behalf.
 
-- **Vivienne — 5.** Whole heart; the more she gives freely, the more it aches (works to the edge and denies it so Pace can be the one; knows nothing of the game).
-- **Pace — 3.** Ch.49 genuinely moved me (voice cracking, midnight pancakes) but he erased her at the door and the wall flips both ways with no reason — tenderness sits right on top of dread.
-- **Randi — 2, edging toward antipathy.** Not just distance — the flawless plan frightens me, she holds the nude photo and hides a whole relationship from the girl she's "listening" to; the *only* flicker above 1 is ch.44 (John/felt-nothing/actually-falling), "something real caught in her own trap."
+**Randi — 2.** Her own hollow nights (Gstaad, the warm lie) and the locked bracelet from cold parents earn her some ache, but she engineered a woman into bed under false pretenses and hands back Vee's buried shames "as gifts" while concealing everything — I'm held at a wary distance, tipping toward antipathy on the manipulation.
 
-## Reading
+**Pace — 3.** His voice cracking on "I missed you so much," going to his knees, the withheld word he "can't" say, his own groomed history — all pull real sympathy; but he's a knowing co-architect of the deception, and that keeps me from rooting for him cleanly.
 
-- **Vee 5** — working exactly as intended.
-- **Pace 3** — sympathy is real but *deed-sourced* (ch.49), capped by the unexplained wall, NOT by the blank backstory. The parents-reveal is the lever to lift it (see `pace-backstory`).
-- **Randi 2, edging to antipathy — the villain-flattening risk, CONFIRMED.** Cross-read with `randi-love` (4): the reader *knows* she loves Vee yet barely feels *for* her — love-as-information is doing almost no sympathy work, and her *flawless competence* reads as menace. This is the empirical case for the villain-guard (`meta-arch-randi.md` → *Let the Warm Love Surface*) and the backstage Randi-tells-Pace voicing: the love must be **felt**, not filed.
+---
 
-**Reproduced** in the reader-axes batch (same carry-forward, fresh spawns): Vee 5 · Pace 3 · Randi 2, identical — the instrument is stable at this stage.
+**Reading:** Vee anchored at 5 (dramatic-irony ache). Pace at 3 with the wariness *deepening* at the finale rather than warming — but still not antipathy; the tenderness "half-persuaded" the reader the jacket's "both falling" is true. Randi at 2, "tipping toward antipathy" — villain-flattening risk present but *softened* by her own hollowness (Gstaad, the bracelet). The offstage staging (voice-in-head + shoes only) is what tipped the reader coldest on Randi this chapter — worth noting: her sympathy floor is lowest when she's most absent from the page.

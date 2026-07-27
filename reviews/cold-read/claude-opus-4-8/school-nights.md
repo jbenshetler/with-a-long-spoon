@@ -1,104 +1,104 @@
 # Cold read — School Nights
 
-*scene: scenes/school-nights.md · read after: the-top-drawer*
+*scene: scenes/school-nights.md · model: claude-opus-4-8 · read after: the-top-drawer*
 
 ## Reader reaction
 
-This is a quiet one — a chapter that's all Cassie and Vee in the dorm room, near midnight, and after all the tenderness-heat of the last several chapters it lands like a cold draft through a cracked window. Which is literally what it is.
+# Felt read
 
-I've been braced for Cassie for a while now. She's been the one true note nobody hears, and here she finally gets a whole chapter with Vee's full attention, and what strikes me is how *unforced* it is. She doesn't lecture. "You're doing the streetlight thing again. You're a public utility." That's affectionate and dry and it's also — a public utility, something everyone uses, lit up all night for other people's benefit. I don't think Cassie means it that darkly. But I hear it darkly, because I know things Cassie doesn't.
+This is a small, quiet chapter and I liked it for exactly that. After the ravenousness of the top-drawer week, this is Vee spinning her desk chair around backward and just *glowing* at Cassie, and it's the first time in a while I've watched someone who isn't Randi hold the mirror up to her.
 
-What moved me most is that Cassie's love is the exact thing the jacket promised me in Randi and never delivered: "listens like no one ever has." Randi listens to *extract*. Cassie listens and *lets it sit* — "She let the maybe stand. She didn't say a thing against it." That restraint is the whole character. She notices the tell ("With not enough on," pleasant — she clocks that Vee half-dressed and slopped soup down her front is not an accident of clumsiness), and she lets it go. She lands the real hit — "You don't come home school nights" — flat, not a question, and then just *waits*. That waiting is devastating precisely because it isn't an attack. Vee goes back over the week she "hadn't counted" and finds her own bed empty more nights than not. Nobody made her see it. Cassie just held still until Vee saw it herself. That's the anti-Randi.
+That's the thing that struck me most: the confessional this time goes to **Cassie**, not Randi. And it lands so differently. Randi listens "like no one ever has," draws the shames out — the jacket even told me that. Cassie listens "with no face on at all" and then drops the flat little truths that actually catch Vee: *"You don't come home school nights."* Not a question. And Vee, who'd swear it wasn't every night, goes back over the week she hadn't counted and finds her own bed empty more than not. Cassie does with dryness what Randi does with warmth — gets the real shape out of Vee — but Cassie isn't running anything. She's just a fond roommate keeping the window cracked two inches. It made me trust the whole scene, because for once I'm hearing about Pace from a witness who has no stake and no method. And even *she* can only tease at the edges — "With not enough on," and "You're a public utility" — she can't puncture it, because there's nothing false in what Vee's describing.
 
-And the thing that got me in the chest: "Do you love him," said the same flat way. And Vee, who "hadn't stopped talking since the door, heard herself go small." That going-small is the truest thing in the chapter. When she's performing the wonder of it — the cooking, the watching, the warm-as-a-held-breath house — she's fluent, she's the streetlight. When Cassie asks the real question she loses her words, a woman who never loses words, and can only manage "Maybe. I think so. It's all so fast." That's the chapter telling me she's further gone than she can say out loud, and that some part of her knows it's happening *to* her — "so fast" — even as she can't stop it.
+I found the soup detail quietly devastating in the good way. Vee slops half a ladle down her front, and before she's got the first swear out he's got her at the sink with a cold cloth on the burn, and then he *watches the burn two days after, asking*. That's the man I keep meeting: the one who reads a body faster than the body reads itself. "He'd worked out she went cold the minute they'd stopped, and he'd be up and back with something over her before she'd even found the cold herself." I've stopped being able to fully separate my two readings of him — this IS love, it can't help itself, and it's also a man who has calibrated her to the tenth of a degree. Both. The chapter doesn't tip it either way and I'm grateful.
 
-Pace, offstage, comes off almost unbearably good again through Vee's retelling — the burn, the cold cloth at the sink before she got the first swear out, keeping it watched two days. And I notice I no longer take that at face value at all. He learned she goes cold, so the house is a held breath. He noticed the burn before she did. All of it is *attunement*, and I've read enough now to feel attunement as the mechanism, not the gift. The warmer the report, the more Cassie's flat little "Mm — whatever you say" reads like the sane person in the room.
+The moment Vee reaches for a word for him and doesn't have one — "what came was the small word, fine. The ones before him had been fine" — and then just puts both hands up at the size of it. That's the most honest thing she's said about the scale of this, and it's more convincing than the word "love" would've been. So when Cassie flatly asks "Do you love him," and Vee "heard herself go small" — *"Maybe. I think so."* — that's a step **backward** from the top-drawer chapter, where she'd already named it privately and whispered "Peter." Which reads true to me: she can name it alone in his bed at 4 a.m. and lose the nerve out loud to a friend at eleven. And the tell she reaches for instead: *"It's all so fast."* That's the first crack of fear in the gold. Cassie, wisely, lets the "maybe" stand and doesn't say "I know." Good. She's the one adult in the room.
 
-**Trust vs. suspicion.** No new suspicion of anyone — it's a Cassie chapter and Cassie is the one person I fully trust. If anything my unease is confirmed rather than advanced: the sheer *volume* of Vee's happiness, poured out at midnight into a cold room to the one friend immune to the whole apparatus, feels like the book letting me stand next to the only witness who wants nothing.
+**Erotic charge:** basically nil, and it should be. This is afterglow reported secondhand, not heat. The closest it comes is "the whole of himself turned on her until the rest of the room went quiet and dark around her," which is arousal remembered, not enacted. No complaint — it's a breather chapter.
 
-**Erotic charge.** Basically none, by design — a 0-to-1. The soup story has a flicker ("with not enough on") but it's reported and deflected, and the charge is really Cassie's dry eyebrow, not heat. This chapter isn't trying to arouse; it's trying to make me ache. It worked on the ache.
+**Friction:** almost none. The prose is doing that run-on breathless thing on purpose (the nights "all running into each other") and it works. If I squint, "You're a public utility" is a hair too cute, but Cassie's earned cuteness. No thumb on the scale that I felt — in fact this is the least engineered chapter in a while, precisely because Randi isn't in it.
 
-**Friction.** Almost none. This is lean and it earns its shortness. If I reach for a quibble: "the truer thing now, the nights all running into each other" does a little of the narrator's work of telling me what the retelling means, but it's so close to Vee's own dawning that I let it pass. The prose is doing the restrained thing it does well.
+**The titles.** "School Nights" — on the surface it's just Cassie's needle, the empty bed on nights with class in the morning. But it recolors as I sit with it: *school nights* are the ones you're supposed to be home, disciplined, accountable — and Vee isn't. The structure of her ordinary life (roommate, cracked window, class in the morning) is quietly emptying out into his house. It's the sound of a life being vacated one weeknight at a time, and only Cassie's counting. That's a sharp little title. And it faintly rhymes with Pace's own history — the boy sent to a school hallway, tutored at fifteen — "school" is a charged word in this book now.
 
-**The title.** "School Nights" — I love it here, it's the whole chapter. The plain domestic phrase, the thing your mother said (you have school tomorrow), and Cassie deploys it as the quiet indictment: "You don't come home school nights." It's the ordinary-life anchor Vee is drifting off of. It names the drift by the calendar — that she's stopped keeping the boundary between the enchantment and the Tuesday she has an econ class. Cassie's last line, "Go to sleep, streetlight. Some of us have class," puts the two worlds side by side: the girl lit up all night, and the person who still has to get up. Nothing given away — it's just precise.
+The book title and tagline, *With a Long Spoon* / "Every yes was freely given. That was the trap" — this chapter is the tagline in miniature. Nothing was taken from Vee. She *chose* every empty-bed night, she's lit up, she's happy. Cassie names the pattern and Vee can't even feel it as loss. That's the trap doing its quietest work: not a door closing, but Vee walking through open ones so gladly she doesn't notice she's already mostly moved out.
 
-**The book's title and tagline.** *With a Long Spoon* — supping with the devil, needing the long spoon, and here the tenderest chapter yet makes the point that there is no long spoon, because Vee's holding the bowl with both hands. "Every yes was freely given. That was the trap." This chapter *is* that line: nobody made Vee stay out. She counted the empty nights herself and shrugged. The freeness is the whole horror, and Cassie is the only one who feels the draft.
-
-**What I want / dread next.** I want Cassie to matter — I dread that this was her one clean shot and it landed soft, and Vee will go on being the streetlight. *Guess from here:* the "so fast" and "maybe, I think so" feel like the book winding Vee up to a point where the naming of love becomes irreversible right before the game surfaces. And Randi's been absent two chapters now; her return is going to feel loud. I keep waiting for the two women in Vee's head — the friend and the lover — to touch, and for Vee to see it.
+**What I want / dread next.** I'm reassured by this chapter and that itself makes me nervous — the book keeps giving me golden plateaus before the ground moves. The two worlds still haven't touched. *Guess from here:* Randi's near-total absence from Vee's confessing lately (Cassie got this one, not Randi) might be the book pulling Randi offstage right before some convergence — and I still dread the bench, still the only unspent escalation, and still dread whatever happens when Vee learns there was ever a game. I want to keep reading mostly because I'm frightened *for* Vee in direct proportion to how happy she is here.
 
 ---
 
-**Cast present (in person):** Vee, Cassie. **Mentioned-only:** Pace (offstage, all through Vee's retelling).
+**Cast present (in person):** Vee, Cassie.
+Mentioned-only: Pace (all reported), implicitly her past boyfriends.
 
-**Heat:** 1 — a flicker in the "with not enough on" soup story, deflected; the chapter's warmth is emotional, not sexual.
+**Heat:** 0 — afterglow narrated to a roommate; no sexual activity on the page.
 
-**Romance:** 2 — no lover on the page, but Vee's inarticulate, going-small "maybe, I think so… it's all so fast" is a real tender turn in the bond, witnessed by the one friend who wants nothing.
+**Romance:** 2 — no lovers together, but this is Vee reaching for and failing to size her love, ending on a frightened "maybe." Real tenderness, real feeling, but held at one remove and undercut by fear.
 
 **Motifs & images:**
-- *Cassie cracks the cold window two inches / the draft finds Vee at the door* — repeat (established ch.4–29); paid here as the framing image, the sane cold Vee walks into "lit up and didn't feel."
-- *Cassie as the love that wants nothing / lets it sit / doesn't argue* — repeat; her fullest scene yet, "she let the maybe stand."
-- *He readies / cooks never from a box / keeps the house warm because she goes cold / notices before she does / brings her over first* — repeat (ch.1,14–32); all re-reported here through Vee.
-- *"Do you love him" / Vee naming it as "maybe, I think so"* — repeat of the private "She loved him" (ch.32), now spoken aloud, but downgraded to *maybe* under Cassie's flat gaze.
-- *Streetlight / public utility / lit up all night* — first sighting; Cassie's image for Vee's glow.
-- *"It's all so fast"* — first explicit surfacing of Vee's own sense of the speed.
+- *The cracked window / two inches of cold* (repeat — Cassie's established habit) — the clean witness's small honesty; the cold he now preempts.
+- *Feeding / cooking / watching her eat* (repeat, ch. Famished, Top Drawer) — "he watched her eat it like that was the show."
+- *He reads her body before she does / the warmth kept for her* (repeat — the warm house "prepared and waiting") — now the burn-watch and the preempted cold.
+- *The pipeline / narrating him to a listener* (repeat — usually Randi) — first time it's Cassie, and it lands as truth-telling, not method. First-sighting variant of the motif.
+- *Reaching for a word and not having it / "fine" vs. the size of it* (first sighting) — the failure of language around him.
+- *"It's all so fast"* (first sighting) — first spoken fear.
+- *School / school hallway* (faint repeat — Pace's history in Rock) — "school nights."
 
-**Symbolism:** The cracked cold window = the reality Vee walks through without feeling. Streetlight/public utility = lit up for others, running all night, drained. "School nights" = the ordinary calendar she's drifting off. Cassie's *waiting* = love that lets you find your own truth (the exact inverse of Randi's extract-and-steer).
+**Symbolism:** The empty bed counted up by Cassie = a life being quietly vacated, one weeknight at a time — capture measured not by what he adds but by what her old life loses. The cracked window (cold she no longer feels) = the small honest draft of reality she's stopped registering.
 
-**Characterization:** Cassie deepened the most — her whole method (notice, don't press, let it sit, land one flat true question, retreat into affection) is now fully legible and consistent with every earlier appearance. Vee deepened: fluent about the wonder, wordless about the love — the gap *is* the character, and "so fast" is a crack of self-awareness. Pace consistent, seen only refracted.
+**Characterization:** Cassie deepened nicely — the dry, unmethodical witness whose flat questions cut cleaner than warmth; she's the book's plain-daylight instrument. Vee lands consistent and true: articulate about everything except the one word, brave alone and small out loud. Pace, entirely offstage, deepens only through report but stays exactly himself.
 
-**Pace — within the chapter:** Tight, well-judged; a single scene that earns its brevity. Nothing dragged; the one small over-explain ("the truer thing now") is minor.
+**Pace — within the chapter:** Right-sized. A short scene that knows it's a breather; earns its length by not overstaying.
 
-**Pace — chapter to chapter:** A deliberate cooldown after the heat/installation run (We Find Out → Vee Tells Randi → The Top Drawer). It holds momentum by pivoting rather than repeating — first sustained Cassie chapter, the conscience finally given the floor. Feels like a breath before something turns.
+**Pace — chapter to chapter:** A deliberate exhale after the top-drawer intensity. Momentum holds by tightening the emotional screw (first spoken fear) rather than escalating the erotic. Good placement — two plateau/afterglow chapters in a row (Vee-tells-Randi, this) would sag, but this one swaps the listener and finds a new note, so it doesn't feel like the same beat twice.
 
 ## Carry-forward state
 
 **Who's who**
-- **Pace / Peter** — man, 22. Math PhD nearly done; house at end of gravel drive off six-fourteen. Vee knows his true name "Peter" ("Pace" is public self). Prodigy; math-as-beauty; lifting; makes own furniture/clothes; white pickup; MRI patent. Contained, careful, orderly. Sealed "parents" wound; right-hand-only private rule; old hip scar high inside thigh, never explained (Vee "means to keep it"). Phrase "There you are"/"There it is." Readies fire/wine/food/porch-light; cooks nearly every visit (never from a box); notices before she does; keeps house held-breath warm because she goes cold after; brings her over first, often more than once, before taking anything for himself. Randi's secret lover; staged Vee's courtship; built her wardrobe; possessive abundance (deep-green scrunchies). Ch.32: gave Vee his cleared top drawer, no note — love only in act, "He never said." Never said he loves her. Rides Saturdays with Sheri. Ch.33 (offstage): the soup burn — cold cloth at the sink before her first swear, kept it watched two days. **Seen (ch.1,3,5,6,8,11,14,15,18,21,24,25,27,28,30,32).**
-- **Randi** (Miranda) — woman, 21. Sorority Standards; Pace's secret lover; the confidante who extracts/reshapes/steers Vee. Cold-citrus/green scent; dark-green Mercedes; gold sunglasses; plain heavy white-gold band never off; always early; un-sipped cup; makeup passes for skin. Ch.31: levered Vee with "vanilla," extracted the We-Find-Out night, told a possibly-invented self-pleasure story, "Sticky fingers?", passed a pastry's taste into Vee's mouth via the goodbye kiss. Absent ch.32–33. **Seen (ch.1–6,10,17,20,22,23,26,29,31).**
-- **Vivienne "Vee" Thorne** — woman, junior econ/stats, POV. Tall, lush, ex-synchro-swimmer body, dark-red/copper hair, cinnamon freckles, notable bust; body "announces its wanting" — lifelong shame, easing; losing weight with him. Money-watcher; over-giver; from Ohio; sleeps in his shirts; brings a bag to his house now. Ch.32: "She loved him," whispered "Peter" to his sleeping form; given top drawer. Ch.33: pours the wonder of him out to Cassie, but downgrades love to "maybe, I think so" and names the speed — "It's all so fast." Empty own bed more school nights than not. Falling for Randi and calling it friendship — can't come alone with Randi's face in her head; tasted Randi's pastry-glaze unknowingly. **Seen (ch.3–26,28,29,30,31,32,33).**
-- **Cassie** — Vee's roommate/truest friend; flat true affect that wants nothing; immune to Randi; the ignored conscience. Cracks the window two inches every night to sleep in the cold. Files Pace as "boyfriend." Ch.33: fullest scene — dry ("public utility," "streetlight"), notices the half-dressed soup tell and lets it go, lands the flat true hits ("You don't come home school nights," "Do you love him") then *lets it sit*, argues nothing, retreats into affection. The anti-Randi: listens without extracting. **Seen (ch.4–12,16,19,22,26,29,33).**
-- **Sheri** — Pace's cycling friend ~2 yrs; small, fast, bleached ponytail; blunt, appraises women, loyal but can "turn it." Read his falling. **Seen (ch.27).**
-- **Brooke** — sorority chapter president; warm-weaponized appraisal. **Seen (ch.2,10,26).**
-- **Mentioned-only:** the stats professor (outlier lecture); the "mouse that roars"/Radford blond boy (Randi's story-lovers, possibly invented); CW blonde/bartender; silent older woman; Christine (Mediterranean restaurant, knows Pace); Kayla/Meg/Theo; Vee's & Randi's mothers; Pace's parents.
+- **Pace / Peter** — *man; 22; math PhD.* House off route six-fourteen; homemade furniture; MRI patent money; powerlifter (broad thick chest under too-big shirts); cooks constantly; travels to present at conferences. Careful, ordered (razor squared to counter edge; kit fits one drawer). Reads a body like an instrument; privately calculating, self-justifying; loves in deeds, says nothing ("he never said"). Backstory: college at 15; a year exiled to a school hallway; a 19-yr-old "tutor" at 15 (reader reads grooming; he names it luck). Old raised surgical scar high inner thigh he won't discuss; **real name Peter — Vee knows it, whispered it to him asleep.** Owns homemade bondage/spanking "bench" (ch.1, used on Randi; Vee has NEVER seen it). Secret lover of Randi; together picked Vee, steering her into their bed without her knowledge; both genuinely fallen for Vee. Always brings Vee off first, more than once, before taking for himself; bought dozens of green white-dotted scrunchies; cleared his top bathroom drawer for her, folding his own things below; no note, never a note. This chapter (offstage, reported): cold-cloth on her burn before she swore, watched the burn two days after asking; keeps the house warm as a held breath and preempts her going cold. Signatures: "There you are"/"there it is," "may I," "we find out."
+- **Randi / Miranda** — *woman; 21.* Poised, wealthy; cold green-citrus scent; blue toenail polish; sorority Standards board. Secret lover of Pace. Warmth-as-method; genuinely gone on Vee AND operating her. Vee does NOT know Pace and Randi are connected. Absent from the last two Vee-confession chapters.
+- **Vee / Vivienne (Thorne)** — *woman; POV.* Tall, lush hourglass; warm dark-red/copper hair; snub freckled nose; ex-synchronized swimmer; strong econ/stats mind; Ohio; not wealthy. Deep body-shame; the "floozy/slut" mother-voice; wets easily. Surrendered fully to Pace; discovered a spanking-response; privately admitted she loves him and whispered "Peter"; quietly losing weight; full kit + top drawer at his place. Does NOT know Pace and Randi are connected. This chapter: home past eleven, glowing; can't find a word for him bigger than "fine"; empty bed most weeknights (Cassie names it); says love out loud only as "Maybe. I think so"; first spoken fear — "It's all so fast."
+- **Cassie** — Vee's roommate; the clean, unmethodical witness. Keeps the window cracked two inches; dry, fond ("You're a public utility," "Go to sleep, streetlight"). Flat, cutting questions get the real shape out of Vee without warmth or agenda; has had boyfriends, never "went like this over one." *In person.*
+- **Brooke** — sorority president (mentioned-only). **Sheri** — Pace's blunt cycling friend (in person earlier). **Vee's/Pace's parents, Pace's teenage tutor** — mentioned-only.
 
 **Motif & image ledger**
-- *Randi's doctrine — extract/name/steer; reframe shame as agency; retelling as theme-and-variation; her story primes/tips Vee* — ch.4–31.
-- *Cassie's inverse method — notice, don't press, let it sit, one flat true question, retreat into affection; love that wants nothing* — ch.4–29, fullest ch.33.
-- *Cassie cracks the cold window two inches / the draft finds Vee at the door lit up and unfeeling* — ch.4–29, framing image ch.33.
-- *Consent / the lead / refusing the last yes while soaked; body deciding without her* — ch.5–31.
-- *Being looked at / caught out / watched in the glass* — Bench,15–32.
-- *"There you are"/"There it is" / approval as verdict* — ch.24,25,27,30,31.
-- *His shirt/clothes/made things as totem; hidden broad chest under too-big shirts* — ch.11–32.
-- *He readies / cooks never from a box / notices before she does / keeps house warm because she goes cold / brings her over first* — ch.1,14–32, re-reported ch.33 (soup burn, held-breath house).
-- *The hip scar, never explained; Vee "means to keep it"* — ch.24,30,32.
-- *Taste of the other woman on the lip before she knows it means to* — planted ch.3, paid ch.18, paid sweet ch.31.
-- *Abundance-as-possession / deep-green as his claim-color* — ch.18,23,26,30,31,32.
-- *House/room as trap-architecture; the top drawer = installation/being kept* — ch.30,32.
-- *"He never says it" / "There was never a note" — love rendered only in act* — ch.32.
-- *"Do you love him?" — Vee's answer: private "She loved him" (ch.32) → aloud "maybe, I think so, it's all so fast" (ch.33)* — the naming keeps shrinking under a sober gaze.
-- *Streetlight / public utility / lit up all night, running for others, drained* — first ch.33.
-- *"School nights" / the empty own bed / the drift off the ordinary calendar* — first ch.33.
-- *"It's all so fast" — Vee's own sense of the speed* — first surfaced ch.33.
-- *Two women run concurrently / "not finished"* — ch.27; not yet surfaced to Vee.
-- *Bathroom refusal — can't finish with Randi's gaze in her head* — ch.29,31.
+- *"There you are"/"there it is"/"may I"/"we find out"/warm house kept for a coming woman* — Pace's signatures; "prepared and waiting." (This ch.: house "warm as a held breath," cold preempted.)
+- *Loves in deeds, never words / "he never said" / "There was never a note."*
+- *Green white-dotted scrunchies (bulk-bought)* — provision-as-promise.
+- *The top drawer / "the one your hand goes to first" / his life folded small* — capture dressed as generosity.
+- *Feeding / hunger made then met (food-as-love)* — cooks constantly, "watched her eat like that was the show."
+- *The cracked window / two inches of cold* — Cassie's honest draft; cold Vee no longer feels.
+- *He reads her body before she does* — burn-cloth before the swear; preempts her cold.
+- *The pipeline / narrating him to a listener* — usually Randi; this ch. it's Cassie, and reads as truth not method.
+- *Reaching for a word and not having it / "fine" vs. the size of it* (new) — language fails around him.
+- *"It's all so fast"* (new) — first spoken fear.
+- *Being looked at / on display / body-as-problem / shame / cardigan / "floozy/slut."*
+- *The scar (inner thigh) — traced, never asked, "meant to keep."*
+- *The bench (ch.1): premeditated spanking-desire disguised as innocent furniture — Vee has never seen it; only unspent escalation.*
+- *Wetness policed / "shameful plenty" / the involuntary body.*
+- *Randi's warmth as method; goodbye mouth-kiss with a second press.*
+- *Money as arithmetic (Vee prices everything).*
+- *The razor squared to the counter edge* — Pace's order.
+- *"Peter" — withheld real name, spoken by Vee to him asleep.*
+- *School / school hallway* — Pace's exile in Rock; "school nights" here.
 
 **Symbolism noticed**
-- Outlier lecture = thesis (the shock that never returns to zero). White-gold band = Randi's fixed unexplained marker. Cassie = love that wants nothing / lets you find your own truth (the inverse of Randi's extract-and-steer). Sheri = love that appraises and can turn. Green = his possessive claim-color. Pastry passed mouth-to-mouth = the other woman's taste as gift/contamination. Top drawer = installation; wordlessness = a man never on record. Cracked cold window = the reality Vee walks through unfeeling. Streetlight/public utility = lit up for others, drained. "School nights" = the ordinary life she's drifting off. *With a Long Spoon* = supping with the devil with no spoon because it's tender; every freely-given yes tightens the thing — and Cassie's chapter shows the trap is *self-held*: Vee counts her own empty nights and shrugs.
+- Bench = premeditated desire masked as innocent furniture.
+- Engineered agency = the freely-given yes as trap.
+- Provision (food, scrunchies, cleared drawer, preempted cold) = capture dressed as care.
+- The tutor named as "luck" = abuse metabolized as good fortune.
+- The two drawers = merger of lives and its cost.
+- The empty weeknight bed (this ch.) = a life quietly vacated one night at a time; capture measured by what her old life loses.
+- The cracked window (this ch.) = the small honest draft of reality she's stopped feeling.
 
 **Open questions**
-- Does Vee's falling *for Randi* surface as desire, not friendship?
-- Was "sticky fingers" a guess or does Randi know? Does the pastry-taste get recognized as Randi's mouth?
-- Does Vee ever learn Randi fed her engineered false versions? Were Randi's story-lovers real or invented?
-- Is "Peter" the true self or the deepest layer of the offering? Hip scar; sealed "parents" wound; right-hand rule.
-- Randi's white-gold band; her own want. (Now absent two chapters — when/how loud does she return?)
-- Vee's all-in on the man — when does the game surface, and what does it cost? Does "it's all so fast" become her way into seeing it?
-- He has never said he loves her — tenderness or escape hatch?
-- Do Randi-as-friend and Peter-as-lover connect in Vee's awareness before it's too late? Does Vee ever see the second woman is Randi?
-- What is Sheri to Pace; will her heat turn?
-- Does Cassie ever matter — was this her one clean shot, and does Vee hear it?
+- What's the inner-thigh scar / behind the "closing" at "parents"?
+- Is Pace's tenderness genuine or the deepest engineering? (Both, confirmed.)
+- Does Vee ever learn there was a game / that Pace and Randi are connected? When do the two worlds touch? (Still haven't; guessing a Nov. induction collision.)
+- When does Vee see the bench? (Only escalation left; she's primed.)
+- Does she ever say "I love him" / "Peter" to him awake? (Still not — went small to "maybe" out loud to Cassie.)
+- Why has Randi dropped out of Vee's confessing lately? (Two confession chapters running without her.)
 
 **Story so far**
-Randi (Pace's secret lover) edged/spanked under consent (Bench); Brooke interrogates Randi (Standards); Pace extracts Randi's yes to tasting another woman, picks Vee (Pointing Game); charm, tutoring pickup, froyo, pool, dinner + first kiss (May I Choose); hike; blank-house invite; house tour + shirt + dress offer (Two Towels); fitting/striptease/"Keep still" (A Round); Vee to Cassie "gay?" (Turned Up); big Randi lunch (How It's Done); first sex, traded green panties (Famished); morning after (Toenails); brunch (Fed); dress reveal/slit (Peekaboo); stats/Simpson's paradox (All Told); shoe day (Sorority); quiet night, real name Peter (Rock); CW dance/jealousy/rupture (Lesson); morning repair (Broken In); Pace's ride with Sheri (Sheri); apology reunion + spank-discovery (A Recognized Method); practice-room, Randi's spanking story, Vee's bathroom refusal (The Practice Room); the chase/bet/quiet spanking/full sex/treasured aftercare (We Find Out); brunch retelling, "sticky fingers," the taste-kiss (Vee Tells Randi About We Find Out); the given top drawer, "She loved him," whispered "Peter" (The Top Drawer); late-night dorm debrief with Cassie — the wonder poured out, love downgraded to "maybe… it's all so fast," Cassie names the empty school nights and lets it sit (School Nights).
+Ch.1: Pace works Randi on his bench. Ch.3: picks Vee; Randi engineers a collision. Ch.4–16: Randi befriends, Pace courts. Ch.17,20: extraction lunches. Ch.18 (Famished): first sex; scar found. Ch.19–23: morning-afters; dress; shoe date. Ch.24 (Gone): Pace & Randi post-coital, both gone on Vee. Ch.25 (Rock): Pace's history. Ch.26 (Lesson): dance lesson; Vee's CW blow-up. Ch.27 (Broken In): reconciliation; cognac heels. Ch.28 (Sheri): "two at once." Ch.29 (A Recognized Method): reconciliation; kitchen swat. Ch.30 (The Practice Room): Randi primes the spank want. Ch.31 (We Find Out): the "bet," bare-bottom spanking, sex, treasuring aftercare. Ch.32 (Vee Tells Randi About We Find Out): Vee narrates the spanking to Randi at brunch; edged; pastry-taste kiss. Ch.33 (The Top Drawer): longest gap; ravenous homecoming; names she loves him, whispers "Peter" to him asleep; he clears his top drawer, no note. Ch.34 (School Nights): Vee home past eleven, glowing; narrates her weeks to Cassie (cooking, the watching, the soup burn he tended, the preempted cold); Cassie flatly notes she doesn't come home school nights — empty bed most weeknights; Vee can't find a word bigger than "fine," says love only as "maybe," first spoken fear "it's all so fast." Cassie lets the maybe stand.
 
 **How I feel**
-Peter/Pace: seen only through Vee's happy retelling and no less unsettling for it — the attunement now reads as mechanism, and the warmer the report, the more I brace. Randi: no trust, deep red; two chapters absent now, and her return will be loud. Vee: my whole heart, and more frightened for her because she felt the speed and shrugged — "so fast," "maybe, I think so." Cassie: the one person I fully trust, finally given the floor, and I dread this was her one clean shot landing soft. Sheri: pending. Mood: a deliberate cold, quiet chapter — the sane draft through the cracked window — and it made me ache rather than brace. Something feels poised to turn.
+Vee: I love her and I'm scared for her — happier than she thinks she's allowed to be, and this chapter gave me her first out-loud fear ("it's all so fast"), which unnerved me more than the happiness did. Pace: distrust I carry, warmth I can't fault; the burn-tending and preempted cold read as love that can't help itself AND as calibration — I can no longer cleanly separate them. Randi: conspicuously absent two chapters running; the pipeline swapped to Cassie. Cassie: I trust her most of anyone — the one witness with no method and no stake, whose flat questions cut truer than warmth. Mood: golden and tightening; a deliberate exhale; the two worlds still haven't touched; I dread the collision and the bench.
