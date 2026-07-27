@@ -46,6 +46,29 @@ reader cohort snagging on the same spot, or an edit that re-opens the passage).
 - **The blonde is functional/thin** (all three, none asking for more) — correct
   POV behavior: Vee experiences her chiefly as a barb.
 
+## Addendum — full scene review, 2026-07-27 (craft/architecture/continuity pass)
+
+- **Bartender canon superseded.** The Bible's "best phrasings" entry (overheard
+  to the dance floor: "Honey, I've been watching that boy dance for two years…")
+  conflicted with the drafted version (bartender addresses Vee directly at
+  closing). Ruled: **draft wins** — the direct address is what carries the
+  jealousy reversal, which needs Vee as addressee. Bible and
+  `meta-condensed-lesson.md` updated to match; the overheard blocking is retired.
+- **Venom line kept against the master-tell query.** "Does your *service*
+  include…" is her most rhetorical construction at maximum threat, vs. the
+  console rule that her voice regresses down under pressure. Ruled standing:
+  the jab is borrowed ammunition (the blonde's vocabulary), the craft doc
+  sanctions this fight as "a proprietary jab," and the follow-up ("I don't need
+  you to get me home safely. I'll handle that myself.") drops correctly into
+  plain regression.
+- **Play beat added on the pad** (console: teasing is erotically load-bearing
+  with Pace; the lesson had none). In the fighting-it stretch: she loses the
+  beat — "Sorry." / "There's no sorry … unless you take off a foot." — mock-
+  grave delivery, her laugh breaks his. Beat-loss only, no foot contact (in
+  frame she literally can't); placed after the foot-fear exchange for callback,
+  directly before "And then something gave." Funnier alternates considered and
+  declined — dry is his canon register.
+
 ## What the panel confirmed (no action; for the record)
 
 All three readers, independently: the dance frame reads as the thesis in a body

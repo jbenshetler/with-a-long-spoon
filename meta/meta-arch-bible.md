@@ -309,7 +309,7 @@ Vawter Hall (girls-only); Vee's unaffiliated dorm-life background. Kept light �
 
 **The meet-cute ({{Substitution}}):** Vee giving Pace an out: *”It’s pretty hard. It’s calculus.”* / Pace (opener) *”Pardon me. It sounds like you’re having trouble with math. Can I help?”*, then the soft ask *”Let me try?”* / Randi after: *he was cute, you should go out with him.*
 
-**CW bar — the older woman:** *“Honey, I’ve been watching that boy dance for two years. He doesn’t take anyone home. He just makes sure they get there.”* (Delivered to the dance floor, not to Vee; then she finishes her drink and leaves.)
+**CW bar — the older woman:** the older bartender, at closing, to Vee directly: *“When a girl’s had too much, Pace gets her home. Leaves her at the door. Doesn’t take advantage — I’d have heard otherwise. Not that plenty haven’t tried, hoping he would.”* Then the reversal: *“Pace don’t bring dates. Tonight he brought one, on a Thursday, when folks come here to dance. … Wasn’t him they were jealous of, honey.”* (As drafted in `lesson.md`; supersedes the earlier overheard-to-the-dance-floor version — the direct address is what carries the jealousy reversal, which needs Vee as addressee.)
 
 **Secretions reframe (first night):** *“Would you be bothered if I was too hard?”* (Exact parallel logic, dry humor, then *active savoring*. The showing is the scene; the line is just the door.)
 

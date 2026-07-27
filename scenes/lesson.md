@@ -88,7 +88,15 @@ He pressed play on the ancient boombox, the tape warbling up to speed. "That's s
 
 "Some of the older songs have a clearer beat. It doesn't get lost in the extra." It was sparse, pretty.
 
-She fought it for ten minutes. She kept anticipating — reading the motion and stepping into it before the lead arrived, which put her in the wrong place for the next one. He gave her nothing to anticipate — held the frame even, waited out each early step, picked the count back up. The music kept going. The pad was empty and the field lights were cold and she was aware of how ridiculous this was and also aware that she did not want to stop.
+She fought it for ten minutes. She kept anticipating — reading the motion and stepping into it before the lead arrived, which put her in the wrong place for the next one. He gave her nothing to anticipate — held the frame even, waited out each early step, picked the count back up.
+
+She lost the beat again. "Sorry."
+
+"There's no sorry" — slow, grave, a man delivering doctrine — "unless you take off a foot."
+
+She laughed. Then his smile came up through the gravity and he laughed too.
+
+The music kept going. The pad was empty and the field lights were cold and she was aware of how ridiculous this was and also aware that she did not want to stop.
 
 And then something gave.
 
