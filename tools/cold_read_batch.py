@@ -42,6 +42,7 @@ FALL_SCENES = [
     {"title": "Peekaboo", "slug": "peekaboo"},
     {"title": "All Told", "slug": "all-told"},
     {"title": "Sorority", "slug": "sorority"},
+    {"title": "Gone", "slug": "gone"},
     {"title": "Rock", "slug": "rock"},
     {"title": "Lesson", "slug": "lesson"},
     {"title": "Broken In", "slug": "broken-in"},
@@ -65,6 +66,9 @@ FALL_SCENES = [
     {"title": "Fairytale", "slug": "fairytale"},
     {"title": "Old Acquaintances", "slug": "old-acquaintances"},
     {"title": "The Usual", "slug": "the-usual"},
+    {"title": "The Stranger", "slug": "stranger"},
+    {"title": "My Friend Randi", "slug": "my-friend-randi"},
+    {"title": "Nothing Underneath", "slug": "nothing-underneath"},
 ]
 
 
@@ -234,6 +238,25 @@ def run_batch(
     carry = ""
     predecessor = None
     log = []
+
+    # Seed carry-forward when the run starts mid-book (e.g. a scoped `gone..` run).
+    # The first scene's predecessor lives outside `scenes`, so the reader would
+    # otherwise read it cold as the opening. Load the predecessor's carry-forward
+    # from its review on disk; refuse rather than fabricate an opening read.
+    full_slugs = [s["slug"] for s in FALL_SCENES]
+    if scenes and scenes[0]["slug"] in full_slugs:
+        pos = full_slugs.index(scenes[0]["slug"])
+        if pos > 0:
+            pred_slug = full_slugs[pos - 1]
+            pred_file = out_dir / f"{pred_slug}.md"
+            if not has_valid_review(pred_file):
+                raise RuntimeError(
+                    f"cannot seed carry-forward for {scenes[0]['slug']}: predecessor "
+                    f"'{pred_slug}' has no review in {out_dir}. Start the run from the "
+                    f"opening, or ensure {pred_slug}.md exists first."
+                )
+            carry = pred_file.read_text().split("## Carry-forward state", 1)[1].strip()
+            predecessor = pred_slug
 
     for idx, scene in enumerate(scenes, 1):
         existing = out_dir / f"{scene['slug']}.md"
