@@ -1,6 +1,6 @@
 # Gone
 
-*Pace's POV, close third. Post-coital, Pace's bedroom, Monday Oct 26 (after {{Sorority}}, before {{Rock}}). The woman is **Randi**; Vee does not appear — they talk about her. The first tender Pace/Randi scene (the Bench was BDSM): warm and true on first read, cold only on reread. The shoe-store retelling is Randi's **embellished** version of the {{Sorority}} afternoon (dual-account unreliability — soft-register divergence, never adjudicated). Fourth draft.*
+*Pace's POV, close third. Post-coital, Pace's bedroom, Monday Oct 26 (after {{Sorority}}, before {{Rock}}). The woman is **Randi**; Vee does not appear — they talk about her. The first tender Pace/Randi scene (the Bench was BDSM): warm and true on first read, cold only on reread. The shoe-store retelling is Randi's **embellished** version of the {{Sorority}} afternoon (dual-account unreliability — soft-register divergence, never adjudicated). Fifth draft.*
 
 ---
 
@@ -46,7 +46,7 @@ Something in Randi went quiet at that, and softened past it. "And you're showing
 
 Then the tell of it dropped, half a register, went somewhere low and hoarse. "God. What she keeps under there." She pressed up on her hands and drew slowly down the length of him, her breasts dragging across his chest, one way and then the other, showing him with her own body the thing she was describing. "It's *criminal,* Pace. But you already know."
 
-He knew what he'd heard. Not the words — the thing that came loose under them and got out a half-step ahead of her, before she folded it back up. All fall she'd said it the bright way — *for the threesome, for us,* easy — and that had not been the bright way. That was the thing the bright way was built to carry, out in the open for a second.
+He knew what he'd heard. Not the words — the thing that came loose under them and got out a half-step ahead of her, before she folded it back up. All fall she'd said it the bright way — *for the threesome, for us,* easy — and that had not been the bright way.
 
 It went through him — not the picture of Vee she'd handed him, but Randi, who kept a hand on every ounce of herself out in the world, wanting something out loud in his bed and not able to stop it. Her, stepping over her own line, of her own accord. His hands went to her thighs before the thought was done, stroking slow up the backs of them.
 
@@ -62,7 +62,7 @@ Randi went still on him. Not the loose stillness of after. A different one, the 
 
 "Yeah," she said, when she'd been quiet a beat too long, lighter than the stillness. "She is."
 
-And then, before the quiet could go where it had started to go, she shifted her hips down against him, and found him hard, and a slow smile came up out of the still.
+And then she shifted her hips down against him, and found him hard, and a slow smile came up out of the still.
 
 "So soon?" she said.
 
