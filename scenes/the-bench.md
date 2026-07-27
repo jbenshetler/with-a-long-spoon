@@ -90,7 +90,7 @@ She walked three steps into the bedroom and stopped.
 
 She was looking at the bench.
 
-The lamps were on. The top was leaning against the wall. The bench, which she had seen without seeing, was now bare. The leather, the fittings visible — her reading a purpose she hadn't known was there.
+The lamps were on. The top was leaning against the wall. The bench, which she had seen without seeing, was now bare. The leather, the fittings visible. She was reading a purpose she hadn't known was there.
 
 She started at the front, finding a face cradle first, a padded ring, the kind she'd rest her face into for a massage. Just past it, a shelf, shallow and padded, for the top of the chest. Familiar. The massage table again. Handholds she found next, out beyond the face cradle, at shoulder width. A massage table didn't have them. Holding those would stretch her long. Her hands closed on nothing. The open middle, where a surface should have been, where her body would go unsupported, where everything a surface usually covered would hang free.
 
