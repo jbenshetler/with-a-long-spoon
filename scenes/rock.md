@@ -198,7 +198,7 @@ He said it without self-pity, and that made it worse and better at once. She cou
 
 He didn't answer at once, and it was the second kind of quiet, the kind still looking for the true thing.
 
-She hadn't meant to stand him in a doorway, so she went first, to make it a trade. "I had a boyfriend at fifteen. A trumpet player." She smiled down into the mug. "I played clarinet, he played trumpet, we sat three rows apart in band, and I was certain that was the whole mechanism of love — proximity and brass. It lasted one marching season. He took up with a girl from the Methodist church over the summer, I heard it from somebody else, and I lay on my bed playing the same four sad songs until my mother took the headphones off my head." She turned the mug. "I was sure it was love at the time. It turned out to be smaller than it felt. But I did feel it."
+She hadn't meant to stand him in a doorway, so she went first, to make it a trade. "I had a boyfriend at fifteen. A trumpet player." She smiled down into the mug. "I played clarinet, he played trumpet, we sat three rows apart in band, and I was certain that was the whole mechanism of love — proximity and brass. It lasted one marching season. He took up with a girl from the Methodist church over the summer, I heard it from somebody else, and I lay on my bed being sad to the same four songs until my mother took the headphones off my head." She turned the mug. "I was sure it was love at the time. It turned out to be smaller than it felt. But I did feel it."
 
 "That's how it's meant to go," he said. "At fifteen."
 
