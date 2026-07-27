@@ -20,7 +20,14 @@ Read the style hits as *candidates*, not verdicts — surface clusters and any
 
 ## Step 2 — Read the scene, then fan out the prep lookups
 
-Read `scenes/$1.md` in full. Then spawn these lore-keeper subagents **in a
+Read `scenes/$1.md` in full. Also read `meta/meta-triage-$1.md` if it exists —
+prior review-panel triage: its "Left standing — do not re-litigate" verdicts are
+authorial decisions. Do not re-flag those items unless the flagged passage has
+since been edited or you have genuinely new evidence (a different failure mode,
+not the same criticism restated); if you do re-raise one, say explicitly that
+you're contradicting a recorded verdict and why.
+
+Then spawn these lore-keeper subagents **in a
 single message so they run concurrently**. Each prompt must name the scene, its
 POV, and what it's doing; ask for *rules and relevant passages with sources*,
 not whole-file dumps. Adapt the four queries to whichever characters and beats
@@ -67,7 +74,9 @@ Synthesize (don't just relay the subagents). Judge the draft on:
 
 Output in this shape, prioritized, scannable:
 
-- **What's landing (don't touch)** — name what's working so it's protected.
+- **What's landing (don't touch)** — name what's working so it's protected;
+  include anything the triage doc's confirmed-positives section marks as
+  load-bearing.
 - **Where I'd point the flashlight** — the few things actually worth the
   author's knife, ordered by importance; for each, quote the line, say the
   specific risk, and — only if it helps the author decide — offer options.
