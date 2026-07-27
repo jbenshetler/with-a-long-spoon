@@ -57,6 +57,8 @@ She is the **un-instrumented opposite of Randi:** Cassie *withholds* her signal 
 
 Established verbal signatures: the flat single-word return (declines the warm-coin name-bit with one *"Cassie"*); the dry *"mm"*; *"I'm being accurate"*; pleasant-voiced needling that tips to comedy when she's enjoying herself. Says little; what she says is exact.
 
+She is a **BBC-comedy devotee** (Red Dwarf, *The Hitchhiker's Guide to the Galaxy*) — the source of her deadpan-absurdist register, and what licenses the occasional Briticism in her mouth (*"tossers"* in `water-wings.md`). She is American; the Briticisms are affectation absorbed from the comedy, not an accent — use sparingly, never a running bit.
+
 ***"Oh, Vee"* is her single moment of unguarded response** — reserve it. (Note: in `off-six-fourteen.md` it was deliberately *not* used — the moment there closes warm and the dread stays structural; the unguarded "Oh, Vee" is held for a beat that earns it.)
 
 ---
