@@ -232,13 +232,9 @@ His gaze went back to the glass. The fire moved again behind them, and the refle
 
 "It was a useful incentive."
 
-"To become terrifying?"
+"Did it work?"
 
-"I am not terrifying."
-
-"You can be."
-
-He accepted that with the small downward movement of his chin that meant he had put the statement somewhere and would not argue it only to be polite.
+"I never had to find out." A small movement at the corner of his mouth. "Which was the point."
 
 "It became something else," he said. "When I step up to a squat bar with enough weight on it to bend the one-inch steel like dry spaghetti, there can be nothing in my mind but that moment. No future. No past. Only this lift, this heartbeat. And that is freeing."
 
