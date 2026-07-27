@@ -6,7 +6,7 @@
 
 ## What this scene is for
 
-It plants **Peter** — the first time the true name touches the page — so the failed reach at First Weekend Back reads as a **regression** (she had the name, reaches for it on the cold step, and it won't travel), not a first appearance. The whole Pace/Peter load ("if Vee uses Peter it should land") needs this plant under it.
+It plants **Peter** — the first time the true name touches the page — the name permitted **here, in the calm**, and paid off at {{Excavations}} and the reckoning. The whole Pace/Peter load ("if Vee uses Peter it should land") needs this plant under it.
 
 **It also now carries the *contained* first-love telling** (added — see *The first-love exchange* below): Pace tells Vee about the tutor, plain and undersold, the ages explicit, the *break* saved for {{Excavations}}. This is the Rock half of the two-register split (`meta-note-first-love.md`).
 
@@ -25,7 +25,7 @@ Rock now carries the **contained** half of the two-register first-love telling (
 - **Vee first, light.** Her first was *a trumpet player in the high-school band* (she played clarinet — band is already canon, `meta-note-old-acquaintances.md`). Keep it a **cracker**: sweet, fine, *non*-formative (her canon: "none of them formative"). Not a portrait — the warm, forgettable contrast that makes his land.
 - **Pace reciprocates — the tutor, contained.** Told plain and undersold, **the ages explicit** (fifteen; the older student; two years; she left for ordinary reasons), a **hairline** of feeling leaking — a beat he doesn't fill, his voice going careful. He frames it as luck/love/loss; **he does not see it as a wrong, and is not a victim on the page.** No forensic word (no *groomed/statutory/victim*); the vow it bred is never named.
 - **Vee clocks it and holds it.** She does the arithmetic and registers the wrong — but as **protective ache for the boy he was**, not condemnation — and **says nothing, or almost nothing.** Body-only, private, unspoken. (A smart 21-year-old *will* clock 15/19; the guard is the grace not to say so, not that she fails to notice — `meta-note-first-love.md`, no-blame.)
-- **What it's for.** It supplies the **felt why** for his armor that readers carry into {{The Stranger}} — the wall reads as fear/pain, not cruelty (endorsed misattribution; `meta-arch-bible.md`, Stress tell) — and it arms the reader-ahead irony. It **motivates** the wall; it doesn't explain it.
+- **What it's for.** It supplies the **felt why** for his armor that readers carry into {{Believe Me}}'s rupture — the wall reads as fear/pain, not cruelty (endorsed misattribution; `meta-arch-bible.md`, Stress tell) — and it arms the reader-ahead irony. It **motivates** the wall; it doesn't explain it.
 - **Two hard guards.** (1) **Keep the leak a hairline** — if the feeling *breaks* here, it steals {{Excavations}}. (2) **Keep the warm close intact** — the ache is private and unspoken, never a rift; the scene still closes warm on *Peter* + his hand over hers.
 
 ## Accepted decisions / surface materials
@@ -68,7 +68,7 @@ Rock now carries the **contained** half of the two-register first-love telling (
 
 ## The name permitted here — the riser this builds
 
-She tries *Peter* softly and he **lets it sit.** The point: *Peter* is the name allowed **in the calm of the porch** — which is exactly what makes the spring stoop unbearable. At First Weekend Back she reaches for the porch-name in the wrong weather, on the cold step, and it has no purchase. The name didn't fail because she'd never used it; it failed because she'd only ever been *allowed* it here. (See `meta-note-first-weekend-back.md` → the "Peter" reach.)
+She tries *Peter* softly and he **lets it sit.** The point: *Peter* is the name allowed **in the calm of the porch** — the name permitted here, banked warm. It surfaces again, whispered, at {{The Top Drawer}} (to a sleeping Pace), and its declaration layer breaks open at {{Excavations}} — the reckoning is where the name is spent against the sentence he still can't say (`meta-arch-bible.md`, "Peter" as instrument).
 
 ## The resonance — bank it, never state it
 
