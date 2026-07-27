@@ -6,12 +6,12 @@
 
 **Q:** "How do you feel about Pace right now — do you trust him with her?"
 
-**A:** My body still responds to him: the hunger, tenderness, precise attention, pancakes, forehead kiss, and cracked “I missed you so much” all feel deeply real. But no, I don’t trust him with her emotionally right now.
+**A:** My body-level response is yes: his relief, hunger, tenderness, and the quiet care afterward made me soften toward him hard. I specifically remember him covering Vee, feeding her pancakes and tea, kissing her forehead, and cracking on “I missed you so much.” I trust him with her immediate physical safety and pleasure.
 
-I specifically remember that he treated Vee with stranger-coldness until she stopped asking for words and offered her naked body; then he gave her sex and domestic care without answering the question that had broken her. He is attentive to her immediate safety and pleasure, but he is still concealing Randi and the engineered game. I trust his hands with Vee more than I trust the reality he lets her believe she is living in.
+But I don’t trust him with her whole emotional reality. He knows she needed words, chose a month of silence, and then accepted a reunion that let sex and domestic care replace the answer. He is also still concealing Randi and their engineered game. So: I trust his care; I do not trust his honesty, or the terms on which he is willing to keep her.
 
 ## Pointed
 
 **Q:** "Does Pace feel to you like he's calculating or managing Vee, rather than simply loving her? 0-5, with what earned it."
 
-**A:** **4/5.** I feel his tenderness and longing as genuine, especially in his collapse at the coat reveal, the aftercare, pancakes, and cracked “I missed you so much.” But he also controls access and terms: he freezes Vee out when she asks for definition, then fully restores sex and domestic warmth once she returns silently offering her body. Alongside the concealed game, hidden preparations, and refusal to name their relationship, that feels like management even if it coexists with love.
+**A:** **4/5.** I feel genuinely moved by his hunger, tenderness, cooking, and cracked “I missed you so much”; those don’t feel merely strategic. But he knowingly refuses the declaration Vee needs, lets sex and domestic care replace it, and has concealed both Randi and the original game. His attention often feels loving, but also tightly controlled on terms he alone understands.

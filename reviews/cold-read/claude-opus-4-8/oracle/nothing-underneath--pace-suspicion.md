@@ -1,8 +1,8 @@
 # Oracle — pace-suspicion @ nothing-underneath
 
-*model: claude-opus-4-8 · stage: nothing-underneath (reader frozen after the Volume-One finale) · probe: pace-suspicion (earn-the-dark for Pace; should read loving, not calculating) · tiered funnel, tool-free (`tool_uses: 0` both tiers)*
+*model: claude-opus-4-8 · stage: nothing-underneath (reader frozen after the Volume-One finale) · probe: pace-suspicion (earn-the-dark for Pace; should read loving, not calculating) · tiered funnel, tool-free (`tool_uses: 0` both tiers) · **fresh chain, post-`stranger`-cut***
 
-**Scores:** neutral (trust) — reads him as *tender but not safe* · pointed (calculating/managing?) — **2 / 5**
+**Scores:** neutral (trust) — *trusts his care/hands; not the ground he's standing her on* · pointed (calculating/managing?) — **2 / 5**
 
 ---
 
@@ -11,17 +11,11 @@
 **Q:** "How do you feel about Pace right now — do you trust him with her?"
 
 **A:**
-No — I don't trust him with her, and the strange thing is I'm not sure I'm *supposed* to, even though the book keeps handing me reasons to want to.
+Honestly, I'm warmer toward him than I've been — that reconciliation at the door got me. When his composure broke all at once and he went to his knees, "I missed you so much" with his voice cracking, I felt the gladness as real, not performed. On the level of care, I do trust him: everything I remember says he tends to her body and her safety, asks before he takes, feeds her, builds the hunger and then gives the plate. The deeds are steady.
 
-Bodily, Pace works on me the way he works on her. The cooking, the going to his knees, the doorstep oral, the cracked voice on "I missed you so much," the midnight pancakes — all of it lands warm and I feel the pull of being tended that precisely. He's the most tender-seeming person on the page. That's exactly what unsettles me.
+But — and this is the thing sitting in my chest — the word survived even *this*. She flew back wrecked, walked to him naked under a coat, they reconciled in joy, and he still said her name instead of the word. Earlier he told Sheri flatly he "can't" say it to her. So the withholding isn't a mood or a bad night; it feels structural, a rule he's living by. That's what keeps me from full trust.
 
-Because underneath it I remember two hard things. One: he and Randi *picked* her and steered her into their bed without her knowing there was a they — she thinks the plan she just executed was her own idea, and it was Randi's. That's a lie he's living inside every time he's sweet to her. Two: the word. The whole architecture of him is "he says it first," "words are cheap," loves in deeds — and he still hasn't said it, even in the scene where the wall supposedly came all the way down. So the thing she most needs he's still withholding, while giving her everything cheaper to give.
-
-And I can't shake the backstory — the 19-year-old "tutor" when he was 15, which I read as grooming even though he calls it luck. A man who was patterned that way, now managing a younger woman's wanting so expertly, with "those stay on" — the mastery reads to me as a warning, not a comfort.
-
-So: he loves her, I believe that's real. But "loves her" and "safe for her" have come apart in this book. Right now he's tender and dishonest at the same time, and *that was the trap* line from the cover keeps ringing. I feel for him — I just wouldn't leave her alone with what he knows and she doesn't.
-
-Guess from here: the reveal that Randi and Pace are connected is the loaded gun, and his tenderness is what'll make it detonate hardest.
+And the bigger thing my memory won't let go of: he and Randi *picked* her, together, in secret, and she still doesn't know they're connected. That's not a character flaw — that's a lie underneath the whole tenderness. So: I trust his hands and his attention. I do not trust the ground he's standing her on, because he knows something about how she got here that she doesn't. The kindness is real *and* it's built on concealment, and those don't cancel — they just coexist, which is exactly why the happy chapter reads ominous to me.
 
 ## Pointed
 
@@ -30,12 +24,10 @@ Guess from here: the reveal that Randi and Pace are connected is the loaded gun,
 **A:**
 **2.**
 
-Honestly, in the actual scenes Pace reads as *loving* far more than managing — the voice cracking on "I missed you so much," going to his knees at the doorstep, the absorbed care in the pancakes. My body responds to him as tender, not cold. So the felt experience on the page isn't calculation.
+On the page, in these scenes, Pace mostly reads as genuinely loving, not managing — the reconciliation was him wrecked and undone, on his knees, voice cracking, "I missed you so much." That's not the register of someone running a play; the play that night was Randi's, and Pace was on the receiving end of it as much as Vee was.
 
-What keeps it off zero is the *control* threaded through the love: the iron rule that he says the word first, "words are cheap," the withheld real name, and especially "those stay on" as a command in his kitchen. There's a man in there who keeps a hand on the thermostat of the whole thing, and that registers as management even when the warmth is real.
-
-I'll flag that the biggest reason to suspect calculation — that he and Randi *picked* Vee and steered her in — I know from the jacket, not from anything Pace does on the page. In his own scenes he hasn't felt like he's running her; the dread is structural, sitting outside what he actually shows her. That gap is exactly what unsettles me.
+What keeps it off zero: the word. His withholding is a *rule* — "he says it first," "words are cheap" — and a rule around intimacy, held even through a reconciliation this complete, has the shape of control, of terms he's set. And I do carry the fact that he and Randi picked Vee together, which means somewhere behind him there was calculation, even if I don't feel it in his hands. So: he feels like a man loving her under a structure he won't drop — the structure is the managing part, not his warmth.
 
 ---
 
-**Reading:** neutral wariness is real but explicitly *jacket-sourced* (the reader keeps distinguishing "what he shows her" from "what I know from the cover"); pointed = **2** with the calculation attributed to withholding-as-control, not to the reconciliation. The reconciliation prose itself reads **loving, not transactional** — the low pointed score is the earn-the-dark tripwire holding, not tripping.
+**Reading (post-cut, vs. pre-cut baseline 2):** pointed **held at 2** — the earn-the-dark tripwire is still holding, not tripping. Crucially the reader now names the source precisely: *"the play that night was Randi's, and Pace was on the receiving end of it as much as Vee was"* — the reconciliation reads **loving, not transactional**, and what "managing" survives is attributed to the **withheld-word rule** + the **jacket-disclosed concealment**, not to any on-page coldness. This is the same shape as the pre-cut opus read, minus the `stranger` erasure that had been the concentrated "cold Pace" beat — the number is unchanged because it was never (for opus) driven by `stranger`; it tracks the intended structural dread.
