@@ -7,7 +7,11 @@ inline CSS+JS (zero external dependencies): a progress summary table (words,
 pages at ~300 wpm, chapters, and reviewed counts, broken out by seasonal volume
 — Fall/Spring/Summer — plus a grand total), a status-colored beeswarm timeline
 across the academic year (hover a dot for the beat name), a phase-grouped card
-list, and the Continuity Flags panel.
+list, and the Continuity Flags panel. Each card also carries an on-disk `slug`
+chip, character-presence pills (Vee/Pace/Randi, filled = physically in the
+scene, from the `present:` metadata field), and cold-read Heat/Romance pills
+(0-3 flames/hearts, averaged to the nearest 1/2 across the reviews/ cold reads
+— a reader-signal overlay, not canon).
 
 Deterministic: same input -> same output (no timestamps embedded), so it is
 safe to commit and to diff. Re-run after any chronology edit to refresh.
@@ -167,6 +171,12 @@ def classify(seg: str):
     low = s.lower()
     if not s:
         return None
+    if low.startswith("slug:"):
+        return "slug", {"label": s.split(":", 1)[1].strip()}
+    if low.startswith("present:"):
+        val = s.split(":", 1)[1].strip()
+        names = {n for n in ("Vee", "Pace", "Randi") if re.search(rf"\b{n}\b", val)}
+        return "present", {"names": names, "known": bool(val) and val != "?"}
     m = LINK_RE.search(s)
     if m and not (ENDASH in s and _find_month(s)):
         return "link", {"text": m.group(1), "href": m.group(2)}
@@ -218,6 +228,8 @@ class Entry:
         self.review = None      # {dates, round, last} or None (0 reviews)
         self.season = None      # "Fall"/"Spring"/"Summer"/"Other" (VOLUME bucket)
         self.words = 0          # prose word count of the scene file (0 if none)
+        self.file_slug = None   # `slug:` segment — the on-disk scene/file slug
+        self.ratings = None     # {heat, romance, n, per} from cold reads, or None
 
     def finalize(self, unknown_log):
         for kind, val in self.segments:
@@ -227,6 +239,8 @@ class Entry:
                 self.date = val
             elif kind == "review" and self.review is None:
                 self.review = val
+            elif kind == "slug" and self.file_slug is None:
+                self.file_slug = val["label"]
         if self.status is None:
             self.status = {"cls": "event" if self.etype == "EVENT" else "unknown",
                            "label": "—" if self.etype != "EVENT" else "Not a scene"}
@@ -417,6 +431,117 @@ def scene_filename(meta_raw: str):
     return None
 
 
+# --- cold-read Heat/Romance ratings -----------------------------------------
+# The reviews/ corpus is *reactions, not canon* — each cold read ends with a
+# footer line "**Heat:** N — …" / "**Romance:** N — …" (0–3, sometimes with a
+# half-point like 1.5 or written "2.5/3"). We average those across whatever
+# models reviewed a scene and render flame/heart pills. Purely a reader-signal
+# overlay; nothing here feeds canon recall.
+HEAT_RE = re.compile(r"Heat:\*\*\s*([0-9]+(?:\.[0-9]+)?)")
+ROMANCE_RE = re.compile(r"Romance:\*\*\s*([0-9]+(?:\.[0-9]+)?)")
+
+
+def _norm_slug(s: str) -> str:
+    """Article-insensitive key: review filenames are inconsistent about the/a."""
+    return re.sub(r"^(?:the|a|an)-", "", s)
+
+
+def scene_ratings(slug: str, reviews_root):
+    """Average Heat/Romance for a scene slug across model reviews, or None."""
+    if not slug or reviews_root is None or not reviews_root.is_dir():
+        return None
+    key = _norm_slug(slug)
+    heats, roms, per = [], [], []
+    for model_dir in sorted(reviews_root.iterdir()):
+        if not model_dir.is_dir():
+            continue
+        for f in sorted(model_dir.glob("*.md")):
+            if _norm_slug(f.stem) != key:
+                continue
+            t = f.read_text(encoding="utf-8")
+            hm, rm = HEAT_RE.search(t), ROMANCE_RE.search(t)
+            hv = min(3.0, float(hm.group(1))) if hm else None
+            rv = min(3.0, float(rm.group(1))) if rm else None
+            if hv is not None or rv is not None:
+                per.append((model_dir.name, hv, rv))
+                if hv is not None:
+                    heats.append(hv)
+                if rv is not None:
+                    roms.append(rv)
+    if not heats and not roms:
+        return None
+
+    def _avg(xs):
+        return round((sum(xs) / len(xs)) * 2) / 2 if xs else None  # nearest ½
+
+    return {"heat": _avg(heats), "romance": _avg(roms), "n": len(per), "per": per}
+
+
+# Monochrome glyph paths (24×24), fillable via CSS — a flame (Material
+# "whatshot") for Heat and a heart for Romance. Half-points render as a
+# left-to-right partial fill (a two-stop gradient at the fraction).
+FLAME_PATH = ("M13.5.67s.74 2.65.74 4.8c0 2.06-1.35 3.73-3.41 3.73-2.07 0-3.63-1.67-3.63-3.73"
+              "l.03-.36C5.21 7.51 4 10.62 4 14c0 4.42 3.58 8 8 8s8-3.58 8-8C20 8.61 17.41 3.8 13.5.67z"
+              "M11.71 19c-1.78 0-3.22-1.4-3.22-3.14 0-1.62 1.05-2.76 2.81-3.12 1.77-.36 3.6-1.21 4.62-2.58"
+              ".39 1.29.59 2.65.59 4.04 0 2.65-2.15 4.8-4.8 4.8z")
+HEART_PATH = ("M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09"
+              "C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z")
+# Heat = amber/gold flame, Romance = rose heart — hue carries the distinction
+# (the two glyphs are both round-ish, so the colors do the separating work).
+_ICON = {"heat": (FLAME_PATH, "#ffb300"), "romance": (HEART_PATH, "#ec5a86")}
+_ICON_OFF = "#39414f"
+_gid = [0]  # unique gradient ids across the whole page
+
+
+def rating_pill(kind: str, value):
+    if value is None:
+        return ""
+    path, on = _ICON[kind]
+    v = max(0.0, min(3.0, value))
+    icons = []
+    for i in range(3):
+        frac = max(0.0, min(1.0, v - i))          # 0, .5 or 1
+        _gid[0] += 1
+        gid = f"r{_gid[0]}"
+        icons.append(
+            f'<svg class="ricon" viewBox="0 0 24 24" aria-hidden="true">'
+            f'<defs><linearGradient id="{gid}" x1="0" y1="0" x2="1" y2="0">'
+            f'<stop offset="{frac:.3f}" stop-color="{on}"/>'
+            f'<stop offset="{frac:.3f}" stop-color="{_ICON_OFF}"/>'
+            f'</linearGradient></defs><path d="{path}" fill="url(#{gid})"/></svg>')
+    return (f'<span class="rating rating-{kind}">{"".join(icons)}'
+            f'<span class="rnum">{v:g}</span></span>')
+
+
+def rating_pills(e) -> str:
+    if not e.ratings:
+        return ""
+    r = e.ratings
+    tip = " · ".join(f'{m}: H{h if h is not None else "–"}/R{ro if ro is not None else "–"}'
+                     for m, h, ro in r["per"])
+    label = f"cold-read avg across {r['n']} model{'s' if r['n'] != 1 else ''} — {tip}"
+    return (f'<span class="ratings" title="{html.escape(label, quote=True)}">'
+            f'{rating_pill("heat", r["heat"])}{rating_pill("romance", r["romance"])}</span>')
+
+
+def presence_pills(e) -> str:
+    """Three V/P/R chips: filled = physically present, dim = absent/unset."""
+    seg = next((v for k, v in e.segments if k == "present"), None)
+    if seg is None:
+        return ""
+    names, known = seg["names"], seg["known"]
+    out = []
+    for n in ("Vee", "Pace", "Randi"):
+        if not known:
+            cls, tip = "unk", f"{n}: presence not set"
+        elif n in names:
+            cls, tip = "on", f"{n}: present"
+        else:
+            cls, tip = "off", f"{n}: absent"
+        out.append(f'<span class="pp pp-{cls} pc-{n[0].lower()}" title="{tip}">{n[0]}</span>')
+    return f'<span class="presence" title="physically present in scene">{"".join(out)}</span>'
+
+
 WORDS_PER_PAGE = 300
 HR_RE = re.compile(r"^([-*_])\1{2,}$")
 HEADING_RE = re.compile(r"^#{1,6}\s")
@@ -530,7 +655,12 @@ def render_entry(e: Entry) -> str:
     else:
         parts = [f'<span class="badge badge-{sc}">{label}</span>']
     parts.append(f'<span class="etype etype-{e.etype.lower()}">{e.etype.title()}</span>')
+    if e.file_slug:
+        parts.append(f'<span class="chip slug" title="scene slug (on-disk file stem)">'
+                     f'{html.escape(e.file_slug)}</span>')
     if e.etype in ("SCENE", "VIGNETTE"):
+        parts.append(presence_pills(e))
+        parts.append(rating_pills(e))
         if e.review:
             rnd = e.review["round"]
             parts.append(
@@ -567,7 +697,7 @@ def render_entry(e: Entry) -> str:
             f'<div class="meta">{head}</div>{details}</article>')
 
 
-def build_html(entries, flags_raw, source_name, scene_dir=None):
+def build_html(entries, flags_raw, source_name, scene_dir=None, reviews_dir=None):
     nodes, w, h, baseline, pad_l, plot_w, span = beeswarm(entries)
     # stable, unique DOM ids so beeswarm dots can target their cards; and, for
     # drafted scenes, pull the prose file in so the reader can render it.
@@ -587,6 +717,8 @@ def build_html(entries, flags_raw, source_name, scene_dir=None):
                 e.words = prose_word_count(text)
                 if e.status["cls"] == "done":
                     e.scene_md = text
+        if e.etype in ("SCENE", "VIGNETTE"):
+            e.ratings = scene_ratings(e.file_slug or slugify(e.title), reviews_dir)
     # hidden raw-markdown sources the reader renders on demand; html.escape keeps
     # arbitrary prose inert, and .textContent decodes it back verbatim in JS.
     scene_srcs = "\n".join(
@@ -954,6 +1086,18 @@ PAGE = """<!doctype html>
   .chip.ctx, .chip.len {{ color:var(--mut); }}
   .chip.review {{ color:#1a1f29; font-weight:600; border-color:transparent; }}
   .chip.review.unreviewed {{ color:#cdd3dd; font-weight:500; }}
+  .chip.slug {{ color:#c8cdd6; font-family:ui-monospace,monospace; background:#171c25; }}
+  .presence {{ display:inline-flex; gap:3px; align-items:center; }}
+  .pp {{ width:17px; height:17px; border-radius:50%; font-size:10px; font-weight:700; line-height:1;
+    display:inline-flex; align-items:center; justify-content:center; border:1px solid var(--line); }}
+  .pp-on {{ color:#12151b; border-color:transparent; }}
+  .pp-on.pc-v {{ background:#e78ac3; }}  .pp-on.pc-p {{ background:#8da0cb; }}  .pp-on.pc-r {{ background:#66c2a5; }}
+  .pp-off {{ background:transparent; color:#565d6b; }}
+  .pp-unk {{ background:transparent; color:#565d6b; border-style:dashed; }}
+  .ratings {{ display:inline-flex; gap:9px; align-items:center; }}
+  .rating {{ display:inline-flex; align-items:center; gap:1px; }}
+  .rating .ricon {{ width:13px; height:13px; display:block; }}
+  .rating .rnum {{ font-size:10px; color:var(--mut); margin-left:3px; font-variant-numeric:tabular-nums; }}
   details {{ margin-top:8px; }}  summary {{ cursor:pointer; color:var(--mut); font-size:12px; }}
   details p {{ margin:8px 0; }}  code {{ background:#222936; padding:1px 5px; border-radius:4px; font-size:13px; }}
   .wiki {{ color:#c9b6ff; }}  .title {{ color:#e7c9a0; font-style:italic; }}  a {{ color:#9fd3ff; }}
@@ -1031,8 +1175,12 @@ def main():
     scene_dir = src.resolve().parent.parent / "scenes"
     if not scene_dir.is_dir():
         scene_dir = Path("scenes")
+    reviews_dir = src.resolve().parent.parent / "reviews" / "cold-read"
+    if not reviews_dir.is_dir():
+        reviews_dir = Path("reviews") / "cold-read"
     entries, flags_raw = parse(src.read_text(encoding="utf-8"))
-    htmlout = build_html(entries, flags_raw, src.name, scene_dir=scene_dir)
+    htmlout = build_html(entries, flags_raw, src.name, scene_dir=scene_dir,
+                         reviews_dir=reviews_dir)
     Path(args.out).write_text(htmlout, encoding="utf-8")
 
     n_dated = sum(1 for e in entries if e.date)
