@@ -80,7 +80,7 @@ They stopped.
 
 "That's not helpful."
 
-"I know." His hand moved slightly at her back, a small increase in pressure. "Again."
+"I know." His hand firmed at her back, a degree and no more. "Again."
 
 ---
 
@@ -188,7 +188,7 @@ She knew what she was doing, and she did it anyway. She'd thought she was specia
 
 She gave up the wall for a stool at the end of the bar. She nursed one drink and made it last. Men came by the way they do for a woman sitting alone — she turned each of them down without quite looking at them, until they quit coming. The band packed up. The floor thinned out. She stayed until the lights began to come up.
 
-The woman behind the bar was older, and moved with the unhurried economy of someone who'd worked this room a long time. She set a glass of water in front of Vee without being asked.
+The woman behind the bar was older, and moved with the economy of someone who'd worked this room a long time. She set a glass of water in front of Vee without being asked.
 
 "I hear you tore into Pace tonight."
 
@@ -228,7 +228,7 @@ His shirt hung on the closet hook — hers now, after the trade, though she'd ne
 
 She lay down on top of the covers.
 
-The room went wrong the way rooms do at that hour — not dark enough, not quiet enough, Cassie's breathing the only easy thing in it. She lay in his shirt and couldn't stop seeing him through their eyes, one girl and then the next. He made them light on their feet. He made them feel feminine, the way he'd made her feel. He made them feel safe, and like real people — she knew he could, because he had done exactly that to her, the first time and every time after. He kept them safe. He could have had any one of them, and he hadn't. He'd chosen her. And what she'd thrown in his face was all of it — every good thing she knew to be true about him. She'd punished him for being the man she wanted him to be. The man she knew him to be. A good man. She'd done it to a good man.
+The room went wrong the way rooms do at that hour — not dark enough, not quiet enough, Cassie's breathing the only easy thing in it. She lay in his shirt and couldn't stop seeing him through their eyes, one girl and then the next. He made them light on their feet. He made them feel feminine, as he'd made her feel. He made them feel safe, and like real people — she knew he could, because he had done exactly that to her, the first time and every time after. He kept them safe. He could have had any one of them, and he hadn't. He'd chosen her. And what she'd thrown in his face was all of it — every good thing she knew to be true about him. She'd punished him for being the man she wanted him to be. The man she knew him to be. A good man. She'd done it to a good man.
 
 And underneath the shame, not touching it, the other thing kept coming back — not a thought, a sensation: his hand at her shoulder blade on the pad, the lead arriving before her feet knew what to do with it, the moment the dance took her and she stopped trying to guess.
 

@@ -1194,6 +1194,111 @@ text = "When the pit came she caught it in her hand and put it with the others o
 note = "participial 'not looking' (covert), not the antithesis tic; single instance (re-armed by wax-paper edit)"
 
 [[ok]]
+fp   = "c9c6779e1113"
+rule = "a-small"
+file = "scenes/lesson.md"
+text = "A small press at her shoulder blade."
+note = "small is load-bearing: the press demonstrates that minimal signal is legible — the frame's physics in one beat"
+
+[[ok]]
+fp   = "43a31d3cc20c"
+rule = "filter-verbs"
+file = "scenes/lesson.md"
+text = "From across the room she watched it happen."
+note = "the watching is the beat: she can't look away"
+
+[[ok]]
+fp   = "5a870ce0c4d0"
+rule = "filter-verbs"
+file = "scenes/lesson.md"
+text = "She heard it the way you hear a glass go past the point where you can still catch it."
+note = "panel best-sentence: the hearing is the subject (audience to her own venom)"
+
+[[ok]]
+fp   = "5cbb5c95bae7"
+rule = "filter-verbs"
+file = "scenes/lesson.md"
+text = "She felt the turn before it happened."
+note = "'felt' thematized: two lines after 'Just feel the lead' — feeling is what she just learned to do"
+
+[[ok]]
+fp   = "6787e8a70229"
+rule = "filter-verbs"
+file = "scenes/lesson.md"
+text = "She heard it before she saw it: something loose and belching under the hood, run well past maintaining."
+note = "sense-sequence is the content: how you meet a bad cab at night"
+
+[[ok]]
+fp   = "d79a029f1c3b"
+rule = "filter-verbs"
+file = "scenes/lesson.md"
+text = "She found a stretch of wall and didn't leave it, and she watched the floor because she couldn't make herself look away."
+note = "the watching is the beat: spectatorship curdling is the scene"
+
+[[ok]]
+fp   = "ead0dca518fe"
+rule = "filter-verbs"
+file = "scenes/lesson.md"
+text = "She watched them."
+note = "the watching is the beat: self-punishment rendered as looking"
+
+[[ok]]
+fp   = "137abb2397e6"
+rule = "the-way"
+file = "scenes/lesson.md"
+text = "She heard it the way you hear a glass go past the point where you can still catch it."
+note = "panel-praised: the glass-past-catching sentence; the construction is its engine"
+
+[[ok]]
+fp   = "22b970847ff7"
+rule = "the-way"
+file = "scenes/lesson.md"
+text = "Close it — come all the way in — and my feet can't land anywhere but past yours.\""
+note = "literal distance ('come all the way in'), not the construction"
+
+[[ok]]
+fp   = "2367b18b914e"
+rule = "the-way"
+file = "scenes/lesson.md"
+text = "The lights came up the rest of the way, and Vee sat there in it."
+note = "literal ('the rest of the way'), not the construction"
+
+[[ok]]
+fp   = "6df3eccb326a"
+rule = "the-way"
+file = "scenes/lesson.md"
+text = "It was more women than men, and they hugged him longer, with more of themselves, and he took it the way he took everything — unhurried, even, no more for one than for another — and moved them gently along."
+note = "Pace signature sentence ('the way he took everything'), paired with the sanctioned 'unhurried'"
+
+[[ok]]
+fp   = "a5dd1c5ef941"
+rule = "the-way"
+file = "scenes/lesson.md"
+text = "Men came by the way they do for a woman sitting alone — she turned each of them down without quite looking at them, until they quit coming."
+note = "worldly-generalization register doing work: Vee narrating herself as a type"
+
+[[ok]]
+fp   = "ecfbf74f4b3e"
+rule = "the-way"
+file = "scenes/lesson.md"
+text = "The room went wrong the way rooms do at that hour — not dark enough, not quiet enough, Cassie's breathing the only easy thing in it."
+note = "generalization register opening the bed paragraph; the paragraph's second the-way was removed instead"
+
+[[ok]]
+fp   = "2410f9879513"
+rule = "unhurried"
+file = "scenes/lesson.md"
+text = "It was more women than men, and they hugged him longer, with more of themselves, and he took it the way he took everything — unhurried, even, no more for one than for another — and moved them gently along."
+note = "authorial: 'unhurried' is Pace's signature word in this novel; the scene's other instance (bartender) was removed instead"
+
+[[ok]]
+fp   = "0caa7e33733e"
+rule = "weather"
+file = "scenes/lesson.md"
+text = "A short-sleeved knit shirt despite the October cold, which she didn't understand at first and then did: he'd dressed for the dancing, not the weather."
+note = "literal October meteorology — rule-sanctioned use"
+
+[[ok]]
 fp   = "31167d45cf02"
 rule = "filter-verbs"
 file = "scenes/may-i-choose.md"
