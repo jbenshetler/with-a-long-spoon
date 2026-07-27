@@ -1,8 +1,14 @@
 # My Friend Randi
 
-*Vee POV, close third. ~Fri Jan 22, afternoon. Beat 2 of 3 of the First Weekend Back reconciliation — the pivot, at Randi's single. Randi coaches; the confidante track produces the act that saves the relationship.*
+*Vee POV, close third. ~Fri Jan 22, afternoon. Beat 1 of 2 of the First Weekend Back reconciliation — the pivot, at Randi's single. Randi coaches; the confidante track produces the act that saves the relationship.*
 
 ---
+
+She'd cried most of the way in from the airport. The red-eye had put her down at Roanoke a little after six and she'd gotten the car out of the long-term lot in the gray start of the light and driven the forty minutes home with the heater going and nothing on the radio, and somewhere in the long dark middle of it it had come up in her and she'd let it, because there was no one in the car to keep it from. All break she'd held the picture of coming home — the mountains, the exit, the familiar road — and here it was going by exactly as she'd pictured it, and it was nothing, worse than nothing, because every mile of it ran toward a town that had Pace in it and not one inch of him for her.
+
+He hadn't texted. Not once, the whole break. She'd stood just inside his front door in December and asked him what she was to him and he wouldn't say, and she'd walked out into the cold and he'd let her go, and then the silence had come down over the both of them and held clear through finals and the break, and she'd told herself on the plane that silence wasn't an answer. The road knew better. She drove the last of it blinking, and pulled in behind the dorm with her face wrecked and her chest gone hollow.
+
+The room was dark. Cassie's side was stripped and bare, her family off in another state and not due back till the weekend, and the empty of it met Vee at the door like more of the same. She dropped her bag and didn't open it. She lay down on top of her own made bed in her plane clothes to sleep the flight off and instead lay there through the whole gray middle of the day with the radiator ticking, going over it and over it — the fight, the silence, how he'd folded his arms and let her leave — until the picture she'd built on the worst nights of the break came back and sat on her chest: the other one, the girl he'd cooked for, alone at Thanksgiving. By early afternoon she couldn't stand her own company one minute more, and she knew where she went when it got like this, and she got up and got back in the car, not trusting herself to look in the mirror on the way out, and drove to Randi's.
 
 The girl who opened the door was one Vee didn't know, a blonde with wet hair, and she took in Vee's face, the swollen eyes and the evidence of it, with the quick calculation of someone deciding whether a crisis was hers. "I'll get her," she said, and went.
 
@@ -14,9 +20,9 @@ Up the narrow stairs, the door shut, and Randi's arms came around her before eit
 
 When it finally broke, the room came back, and it wasn't the room Vee knew. It was half-unpacked, a suitcase open on the floor, new things everywhere, tissue paper and a good bag and a coat still in its plastic, sweaters stacked where no drawer had claimed them. Randi swept a pile off the bed without looking at it and made a place, and it reached Vee even through everything that Randi hadn't apologized for the mess or seemed to see it, that the wrecked girl in her doorway had come first.
 
-She put Vee down on the made place, and with Vee sitting and Randi standing close, listening, it came out in the wrong order and all at once. He hadn't texted her once the whole break. She'd flown in on the red-eye and driven straight out and he'd opened the door like she was a stranger, ice, and she'd tried to touch him and he'd flinched like she burned. He didn't care. It had been sex, that was all, and now that she'd made it complicated he was done. "And there's someone else, there has to be. He cooked for her at Thanksgiving, this girl, Sheri, she was alone, and the whole break I've been seeing her with him, alone, much more than friends." It broke off in her throat.
+She put Vee down on the made place, and with Vee sitting and Randi standing close, listening, it came out in the wrong order and all at once. He hadn't texted her once the whole break. Not one word, after she'd stood in his doorway and asked what she was to him and he wouldn't say it, after she'd walked out into the cold and he'd let her go. Over a month of nothing. He didn't care. It had been sex, that was all, and now that she'd made it complicated he was done. "And there's someone else, there has to be. He cooked for her at Thanksgiving, this girl, Sheri, she was alone, and the whole break I've been seeing her with him, alone, much more than friends." It broke off in her throat.
 
-Randi didn't tell her she was wrong. She sat down beside her on the bed, close, their knees touching on the small mattress, and let the quiet sit a second before she moved into it. "Do you actually believe he was using you? Or is that the fear talking? Because the fear's a liar, and you haven't slept." She didn't wait for an answer. "Start over, but slow. Not this morning. The last night, before the break. You got there, and what happened?"
+Randi didn't tell her she was wrong. She sat down beside her on the bed, close, their knees touching on the small mattress, and let the quiet sit a second before she moved into it. "Do you actually believe he was using you? Or is that the fear talking? Because the fear's a liar, and you haven't slept." She didn't wait for an answer. "Start over, but slow. Not the last month. That last night, the one before the break. You got there, and what happened?"
 
 And Vee, because Randi asked, told it. The truck in the drive. The house already warm, the heat brought up hours ahead so she'd never once be cold in it. The chicken going. Two glasses of wine poured out on the counter, waiting for her.
 
@@ -28,15 +34,15 @@ And Vee, because Randi asked, told it. The truck in the drive. The house already
 
 "What I was to him. What we were." Her voice went thin. "And he said I was the most important thing in his life."
 
-"He said that. Those words." Randi let it sit. "And this morning, when he opened the door. His face. What did it actually do?"
+"He said that. Those words." Randi let it sit. "And then you asked him what you were. Straight out. And he wouldn't say it. What did his face do — right then?"
 
-Vee made herself go back. The long, loud breath through his nose. The two blinks. "I thought he was going to yell. I was ready for that. And then he just went away. Behind his face."
+Vee made herself go back. He'd gone still. The arms coming up and folding, the voice going flat and careful. Words are cheap. "I thought he was going to fight me. I was ready for that. And then he just — went away. Behind his face. And when I left he didn't come after me."
 
-"You show up like that, no warning, after two weeks of nothing." Randi said it evenly and didn't let her off it. "How do you think he felt, opening that door?"
+"You backed him into a corner in his own house. Name it or lose me — the one thing he can't do." Randi said it evenly and didn't let her off it. "How do you think that felt, from where he was standing?"
 
-Vee hadn't once thought of it as his. "...Ambushed," she said slowly. "Like I'd come to do it all over again."
+Vee hadn't once thought of it as his. "...Cornered," she said slowly. "Like there was no answer that would make me stay."
 
-"Like you'd come for round two." Randi nodded. "So what does a man do with that, the kind who can't say the thing? He doesn't yell. He goes behind a wall so you can't land another one. That's not a man who's done with you, honey. That's a boy holding himself still so it won't show how much you got him."
+"Cornered." Randi nodded. "So what does a man do with that, the kind who can't say the thing? He doesn't fight you for it. He goes behind a wall so you can't get another word out of him. And then he waits. A month of it, and he didn't call you and you didn't call him — the both of you holding still, each waiting on the other to break first. That's not a man who's done with you, honey. That's a boy holding himself still so it won't show how much you got him."
 
 "Do you think so?" Vee said.
 
@@ -48,7 +54,7 @@ Vee hadn't once thought of it as his. "...Ambushed," she said slowly. "Like I'd 
 
 Vee stopped. "I've seen her," she said, small. "In my mind. I built her on the nights I felt stupid for missing him this badly."
 
-Randi's voice went all warmth. "Of course you did. You were alone and scared for two weeks, and fear needs a face to point at, so you gave it one. That doesn't make her true. It means you can't stand how much you'd lose." She let Vee sit in it a second. "So let's use the parts that are real, and leave the ones you built at three in the morning. Remind me. Why did you have to stop seeing Pace in the middle of the week?"
+Randi's voice went all warmth. "Of course you did. You were alone and scared for weeks, and fear needs a face to point at, so you gave it one. That doesn't make her true. It means you can't stand how much you'd lose." She let Vee sit in it a second. "So let's use the parts that are real, and leave the ones you built at three in the morning. Remind me. Why did you have to stop seeing Pace in the middle of the week?"
 
 "Because we were having so much sex I was exhausted all the time and my grades were slipping."
 
@@ -66,7 +72,7 @@ Vee was crying again, quieter, a different kind.
 
 "Then hear me. A man who cooks for you, wine poured before you're through the door, in a house he heated up just so you'd be comfortable, and dynamite in bed on top of it. I'm so jealous I could scream." She said it warm and easy and it passed. "He was set up for a beautiful night and you blindsided him with a fight. You have to show him you don't want to fight. Give him a peace sign he can't misread."
 
-"How? After this morning, how do I even—"
+"How? After how it ended, how do I even—"
 
 "You take this into your own hands. You don't do it with words. Words are the whole war." Her voice dropped, certain, and Vee felt it settle over her like a thing being decided for her and by her at once. "You've got that good long coat." A beat. She stopped there, and let the rest hang in the room, and waited for Vee to find it.
 
@@ -118,4 +124,4 @@ Vee read the quiet as discretion, the one thing even Randi kept behind the door.
 
 Randi came back up into her smile. "He was perfect. Truly. A masterpiece." A beat, a tip of the hand. "Everywhere but the bedroom, and the bedroom's the room I actually live in. What's a girl to do." And Vee laughed, really laughed for the first time all day.
 
-They stood, and Randi pulled her in one more time, and this hug went as long as the first, both of them still frayed from their separate bad days, and when it broke Randi kissed her goodbye, unremarkable now, only what they did. Then Vee went down through the front hall and out into the cold with a plan sitting where the morning's wreckage had been, and drove to the dorm to sleep. Tonight she would shower, and dress, and be the thing. Tonight she would go to him.
+They stood, and Randi pulled her in one more time, and this hug went as long as the first, both of them still frayed from their separate bad days, and when it broke Randi kissed her goodbye, unremarkable now, only what they did. Then Vee went down through the front hall and out into the cold with a plan sitting where the wreckage had been, and drove back to the dorm to sleep. Tonight she would shower, and dress, and be the thing. Tonight she would go to him.

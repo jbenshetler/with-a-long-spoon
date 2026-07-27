@@ -9,7 +9,7 @@ AKA Cassandra
 
 ## Who She Is
 
-Vee's best friend and roommate, two years running. Pre-nursing (echoes Vee's mother). Unaffiliated — never in a sorority, never inside that social world (same as Vee; see the world-sort note below). **Her father was laid off in 2020** (`outlier.md`) — the one family fact on the page, stated flat and never dwelt on; it grounds why the PPP subject means something to her and must not be grown into a wound (over-feed).
+Vee's best friend and roommate, two years running. Pre-nursing (echoes Vee's mother). Unaffiliated — never in a sorority, never inside that social world (same as Vee; see the world-sort note below). **Her father was laid off in 2020** (`outlier.md`) — the one family fact on the page, stated flat and never dwelt on; it grounds why the PPP subject means something to her and must not be grown into a wound (over-feed). **Her family lives out of state** (established `my-friend-randi` — she is not back at semester-start the first weekend, family "off in another state"); no region named, kept vague on purpose.
 
 She is the **Cassandra device**: she sees clearly and is not believed. **Never named, never explained, never commented on by any character — including Cassie herself.** She does not know she is Cassandra. The reader feels the shape from outside.
 
