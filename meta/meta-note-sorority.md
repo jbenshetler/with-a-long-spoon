@@ -12,7 +12,7 @@
 
 We deliberately kept restraint/yield off the marquee (a title headlining her collapse would over-seed and dent earn-the-dark). Instead, **lightly seed the BDSM ideas symbolically here**, a year ahead of where they go literal (the blindfold/threesome). The register is domestic and deniable; nothing is named. Carriers already latent in the draft, to lean into on revision:
 
-- **The buckle itself.** The boutique shoe is canon a **four-inch strap** (Induction canon) — so a buckle fastening is consistent; render it as *fastened/secured*, the ordinary fact of a strap shoe doing the quiet double of being *strapped in*.
+- **The buckle itself.** The boutique shoe is canon a **four-inch heel, a web of thin straps to one ankle buckle** (Induction canon) — so a buckle fastening is consistent; render it as *fastened/secured*, the ordinary fact of a strappy shoe doing the quiet double of being *strapped in* (the web cinching up to the single clasp lands the figure harder than one strap would).
 - **Held, not balanced.** The arch "firm as a hand under her foot," her weight *caught and carried* rather than balanced — restraint as steadiness, the good kind of being held.
 - **Her buckling.** The somatic yield at Randi's thumb across the frosted-plum nail — the wobble, the hand shooting to Randi's shoulder — and her resolve **buckling** on the credit-card leap. Let the word *buckle* do both jobs (fastened / gave way).
 

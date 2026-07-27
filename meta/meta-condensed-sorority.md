@@ -27,7 +27,7 @@ Triptych, close-third Vee, three movements split by `---` (dorm → bypass store
 
 - Dress on its hook (color reference); the **inversion-rhyme literalized** — Pace's made gown hangs while Randi kneels at Vee's feet.
 - **Price dismay** (Vee's TJMaxx world); pride bars the honest exit; she goes silent rather than admit she can't afford the door.
-- **Randi steers by taste, never money:** *"A dress your **lover** made you? … It goes on these."* (*lover* upgrades Pace in Vee's chest; hands Vee the laundering frame; dark-irony — Randi naming her own lover). The shoe: the **dramatic black four-inch strap** (Induction canon), against the tan she almost bought.
+- **Randi steers by taste, never money:** *"A dress your **lover** made you? … It goes on these."* (*lover* upgrades Pace in Vee's chest; hands Vee the laundering frame; dark-irony — Randi naming her own lover). The shoe: the **dramatic black four-inch strappy heel** (Induction canon), against the tan she almost bought.
 - Randi displaces the clerk and kneels to fit — the **frosted-plum toes** (dialed back to defer to the gown), the single **"Mm"** + thumb (the First-Night-Debrief seal, now skin-to-skin), Vee's **wobble** (body before mind; converted register, not raw shame).
 - **The shoe holds her** (the steel-shank quality the tan never had — steadies, doesn't bind); standing all-leg, the **entrance-daydream goes real** (the want owned: *in these she would*). Seeds On Her Floor's "borrowed shoes hold her better."
 - **The laundering:** aesthetic rightness overrides price — the shoes are *what the dress was owed*, the want relocated to the gown's needs (the rationalization engine, never named).
