@@ -6,7 +6,7 @@
 
 The house was warm the way he kept it when she was there, the lamp low, and Randi was still astride him where she'd stayed after, folded down onto his chest, loose in the way she only went afterward, her hair spilled black and fine across his skin. The room held the smell of the two of them, close and spent. Her playlist was still going, low, down in the front rooms — Sade, smooth and slow, that cool voice with the warmth folded under it.
 
-He had one hand in her hair and the other flat on the small of her back, and the wanting had gone quiet in both of them, and he let it stay quiet. She talked less here than anywhere; he'd counted on it since the first month. Whatever she ran on out in the world, she set it down at his door.
+He had one hand in her hair and the other flat on the small of her back, and the wanting had gone quiet in both of them, and he let it stay quiet. She talked less here than anywhere. Whatever she ran on out in the world, she set it down at his door.
 
 "I didn't think I'd like her this much," she said, into his chest.
 
