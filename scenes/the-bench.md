@@ -90,7 +90,7 @@ She walked three steps into the bedroom and stopped.
 
 She was looking at the bench.
 
-The lamps were on. The top was leaning against the wall. The bench, which she had seen without seeing, was now bare. The leather, the fittings visible — her reading a purpose she hadn't known was there.
+The lamps were on. The top was leaning against the wall. The bench, which she had seen without seeing, was now bare. The leather, the fittings visible. She was reading a purpose she hadn't known was there.
 
 She started at the front, finding a face cradle first, a padded ring, the kind she'd rest her face into for a massage. Just past it, a shelf, shallow and padded, for the top of the chest. Familiar. The massage table again. Handholds she found next, out beyond the face cradle, at shoulder width. A massage table didn't have them. Holding those would stretch her long. Her hands closed on nothing. The open middle, where a surface should have been, where her body would go unsupported, where everything a surface usually covered would hang free.
 
@@ -406,7 +406,7 @@ She took her time. He could see, in the small movements of her face which was at
 
 The bench was not the wanted position. The bench was the needing position — something required that you could not supply yourself.
 
-She could not pout her way back to wanted. She could not turn the heat up; the heat was already at maximum, and the maximum was below her, where she was. The script was failing. She did not yet know that the script was failing, but she could feel something wasn't working, and her breathing had gone disordered.
+She could not pout her way back to wanted. She could not turn the heat up; the heat was already at maximum, and the maximum was below her, where she was. The script was failing. He could see that it was failing before she could — her hands had begun to worry the grips, a woman reaching for a handle that had always been there and not finding it.
 
 He waited.
 
@@ -558,4 +558,4 @@ She did not know yet.
 
 She closed her eyes more tightly. She breathed against his neck. She let him hold her. The hum in her ribs continued, very low, very small, almost not there, the size of a key turning in a lock.
 
-Across the room, in the lamplight, the bench sat with the leather of its working surfaces faintly damp in two places and the wooden top leaning against the wall where Pace had set it down. Tomorrow he would put the top back on and the bench would be a low table of odd proportions again, and she would dress and walk past it on her way out of the bedroom, and she would not look at it, and he would not say anything about it, and it would sit there in the middle of the room the way an unwrapped gift sits on a counter, full of what it was, doing what it would continue to do, waiting for the next time.
+Across the room, in the lamplight, the bench sat with the leather of its working surfaces faintly damp in two places and the wooden top leaning against the wall where Pace had set it down. Tomorrow he would put the top back on and the bench would be a low table of odd proportions again, and she would dress and walk past it on her way out of the bedroom, and she would not look at it, and he would not say anything about it, and it would sit there in the middle of the room, full of what it was, doing what it would continue to do, waiting for the next time.

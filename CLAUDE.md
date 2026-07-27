@@ -141,6 +141,7 @@ Authoritative-by-domain (each doc owns its subject; don't relitigate it elsewher
 - `meta/meta-plan-satc-tracks.md` — authoritative on the Randi/Vee relationship track and its own DOs/DON'Ts (details in `meta-orientation.md` / this doc in full).
 - `meta/meta-note-threesome-reveal.md` — authoritative on the climax scene's structure and its ending.
 - `meta/meta-condensed-*.md` and `meta/meta-note-*.md` — per-scene condensed briefs and scene-specific companion notes (e.g. `meta-condensed-a-round.md`, `meta-note-the-bench.md`). Pattern for how scene-local material is kept.
+- `meta/meta-triage-<slug>.md` — per-scene cold-read triage verdicts: what the review panel flagged, what was fixed (with commits), and — the payload — what was **left standing with rationale**, so settled criticisms aren't re-litigated by later review passes. Authorial decisions, so they live in `meta/` (default-indexed), not `reviews/`. Check for one before flagging a scene's known friction points (e.g. `meta-triage-the-bench.md`).
 - `meta/meta-plan-pace-house.md` — the **set/continuity reference for Pace's house**: spatial layout (room by room), what's been committed to the page vs. still planned, recurring fixtures, and continuity flags. Authoritative on *where things are*; defers to the bible for what each room means.
 
 ## The core engine, craft rules, and scene titles → `meta/meta-orientation.md`
