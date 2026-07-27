@@ -248,7 +248,7 @@ She was quiet. She was putting something together, and it came together in her b
 
 He did not answer that with words. His hand moved up from her ankle, under the quilt, and settled flat and warm against her hip where she was bare under the robe, and stayed, not going anywhere, only being there, present as she had just named it, and the accuracy of it moved through her.
 
-Her own hand had drifted while they talked. It was on his thigh, above the knee, and now it moved without her deciding it, and found, along the outside of his hip, a place where the skin was not like the rest. A seam of it, old, raised and smooth, longer than her hand. Her fingers went along it before she thought about whether to.
+Her own hand had drifted while they talked. It was on his thigh, above the knee, and now it moved without her deciding it, and found, high on the inside of his thigh, a place where the skin was not like the rest. A seam of it, old, raised and smooth, longer than her hand. Her fingers went along it before she thought about whether to.
 
 "This?" she said.
 
