@@ -38,16 +38,15 @@ They walked across campus, up past the science buildings toward the basketball g
 
 "The basic step is back on the right, back on the right, then back on the left. One-and-two, three-four." He showed her: his feet, slow and patient, on the concrete. "The *and* is just a change of weight — that's what lets the same foot go back twice."
 
-He walked her through the pattern slowly, again and again until she got it. "One-and-two, three-four," they counted together. When she felt herself getting choppy, "Smaller steps are easier - it's not a race." 
+He walked her through the pattern slowly, again and again until she got it. "One-and-two, three-four," they counted together. When she got choppy he said, "Smaller steps are easier — it's not a race."
 
-He showed her the woman's part then — the same steps, his feet doing what hers would do, no ceremony about it: in front of her, facing away, so their feet took the same steps. 
+He showed her the woman's part then — no ceremony about it: in front of her, facing away, so their feet took the same steps.
 
 After some practice she said, "I think I got it."
 
-Turning, his left hand took her right and extended it straight out to the side. His right came under her left arm, the heel of his hand settling against her back, fingers curled and touching her shoulder blade, specific and firm.
+He turned. His left hand took her right and extended it straight out to the side. His right came under her left arm, the heel of his hand settling against her back, fingers curled and touching her shoulder blade, specific and firm.
 
-
-Gently shaking her right arm, "You have a job here," he said. "Give me something to push back against. Otherwise you cannot feel my lead. Push on my shoulder — firm, not hard. That's how we move together. Being jelly doesn't work."
+He shook her right arm gently. "You have a job here," he said. "Give me something to push back against. Otherwise you cannot feel my lead. Push on my shoulder — firm, not hard. That's how we move together. Being jelly doesn't work."
 
 She pushed on his shoulder.
 
@@ -59,7 +58,7 @@ She pushed harder.
 
 She looked up.
 
-He began to dance with her. 
+He began to dance with her.
 
 ---
 
@@ -85,7 +84,9 @@ They stopped.
 
 ---
 
-He pressed play on the ancient boombox, the tape warbling up to speed. "That's something my granddad listened to." "Some of the older songs have a clearer beat. It doesn't get lost in the extra." It was sparse, pretty. 
+He pressed play on the ancient boombox, the tape warbling up to speed. "That's something my granddad listened to," she said.
+
+"Some of the older songs have a clearer beat. It doesn't get lost in the extra." It was sparse, pretty.
 
 She fought it for ten minutes. She kept anticipating — reading the motion and stepping into it before the lead arrived, which put her in the wrong place for the next one. He gave her nothing to anticipate — held the frame even, waited out each early step, picked the count back up. The music kept going. The pad was empty and the field lights were cold and she was aware of how ridiculous this was and also aware that she did not want to stop.
 
@@ -197,7 +198,7 @@ Vee watched her a while. Then, despite herself: "Why do you like him?"
 
 Vee looked at her hands on the bar.
 
-"You felt the girls looking at you tonight." It wasn't a question. "Whoever's out there with Pace gets that — it's just the room. But Pace don't bring dates. Tonight he brought one, on a Thursday, when folks come here to dance." She set the last glass up and looked at Vee. "Wasn't him they were jealous of, honey."
+"Pace don't bring dates. Tonight he brought one, on a Thursday, when folks come here to dance." She set the last glass up and looked at Vee. "Wasn't him they were jealous of, honey."
 
 She moved off down the bar. The lights came up the rest of the way, and Vee sat there in it.
 
