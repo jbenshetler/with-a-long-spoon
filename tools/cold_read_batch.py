@@ -66,7 +66,6 @@ FALL_SCENES = [
     {"title": "Fairytale", "slug": "fairytale"},
     {"title": "Old Acquaintances", "slug": "old-acquaintances"},
     {"title": "The Usual", "slug": "the-usual"},
-    {"title": "The Stranger", "slug": "stranger"},
     {"title": "My Friend Randi", "slug": "my-friend-randi"},
     {"title": "Nothing Underneath", "slug": "nothing-underneath"},
 ]
