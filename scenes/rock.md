@@ -194,6 +194,34 @@ He considered it. "It didn't feel lonely. Not in the work. Not in the rooms wher
 
 He said it without self-pity, and that made it worse and better at once. She could picture him at fifteen, too young and not young at all, in a room where no one made him carry his desk into the hall.
 
+"Were you lonely the other way?" she asked. It was out before she'd decided to ask it. "Not the work. The rest of it. People."
+
+He didn't answer at once, and it was the second kind of quiet, the kind still looking for the true thing.
+
+She hadn't meant to stand him in a doorway, so she went first, to make it a trade. "I had a boyfriend at fifteen. A trumpet player." She smiled down into the mug. "I played clarinet, he played trumpet, we sat three rows apart in band, and I was certain that was the whole mechanism of love — proximity and brass. It lasted one marching season. He took up with a girl from the Methodist church over the summer, I heard it from somebody else, and I lay on my bed playing the same four sad songs until my mother took the tape away." She turned the mug. "I couldn't give you his last name now. It didn't leave a mark on me anywhere."
+
+"That's how it's meant to go," he said. "At fifteen."
+
+"And yours?" She kept it light, held the door open without pushing him through.
+
+He took a moment. "When I got there, they assigned me someone. A tutor." His mouth moved, dry. "Which was its own joke — there was nothing in the catalog I needed tutoring in. But that was the arrangement: an older student, to help the child find his feet." A beat he didn't fill. "She was nineteen."
+
+Vee went still. She didn't choose it. She simply stopped moving.
+
+"It went on two years," he said. He was looking at the black glass, not at her, and his voice had changed — each word set down separately and precisely in its place, as though the placing of them were what held the sentence up off the floor. "She left the year she turned twenty-one. Nothing happened. Nobody did anything wrong. She was twenty-one and I was seventeen, and the rooms she was walking into by then were rooms they wouldn't let me stand in for four more years. Bars. The ordinary places. The distance that had been nothing at nineteen and fifteen was, all at once, the entire thing." He turned the cold mug a quarter-turn against his knee. "So she went on. Which was only sensible. It would have been stranger if she'd stayed."
+
+He laid it out in good order, every reason accounted for and set in its slot, and the good order was the tell. All evening she had heard him undersell things — the hall, the fifteen, the dormitory full of men — and this was that same voice gone one degree flatter, held too level, carried the careful way a person carries a full glass so it won't go over the rim.
+
+She did the arithmetic without wanting to. Nineteen and fifteen. Two years. It landed low and heavy in her stomach before it was a thought she could have said aloud — the boy he must have been, taken off from home too early, brilliant and alone in a building full of grown men, and the one person in it who was his, who was tender with him, who was the soft middle of those two years, and she nineteen and he fifteen. The word for it started to form in her, the clean ugly grown-up word, and she held it down under her tongue. It was not hers to say. It was not what he had put in her hands. He had put a first love in her hands, carefully, in good order, the same way he set down anything he was afraid of dropping.
+
+So she did not say the word, and she did not say she was sorry. She set the mug on the table, turned under the quilt, and fitted herself along his side, her head to his shoulder, her palm flat on his chest over the place the careful voice had come out of.
+
+"You were so young," she said. That much got past her. She kept the rest behind her teeth.
+
+His arm came around her. "I didn't feel young," he said. "Not with her. It was the best two years I'd had. And then it was over." He said it plainly, and she understood that he was defending it — setting himself between the memory and the word she hadn't said — and that he did not hear himself doing it. He believed every part of what he'd told her. That was what stayed with her. Not the arithmetic. That he had handed her the thing that had hurt him and named it luck.
+
+She said nothing more. She stayed against him and let the fire do the talking behind them, and after a while the held thing under her palm eased, his breath going long and slow again.
+
 "And lifting?" she asked. "Where did that come from?"
 
 His gaze went back to the glass. The fire moved again behind them, and the reflection of it trembled faintly at the edge of the window, a second warmth laid over the stars.
