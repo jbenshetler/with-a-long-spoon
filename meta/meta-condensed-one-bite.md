@@ -1,4 +1,4 @@
-# Condensed — Vee Tells Randi About We Find Out
+# Condensed — One Bite
 
 *SCENE · Draft complete · within a few days of {{We Find Out}} · SATC · bistro sun porch, daylight*
 
