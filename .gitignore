@@ -16,3 +16,4 @@ __pycache__/
 
 # cold-read run artifacts (per-run stats; regenerated every run)
 reviews/cold-read/*/BATCH_STATS.json
+build/

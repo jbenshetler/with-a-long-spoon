@@ -78,7 +78,7 @@ Reading order and placement — an epub has no back cover, so the blurb lives in
 
 Deliberately absent: elevator pitch and unused taglines (query/ad material, not product); any mention of trilogy total scope ("Book One" says it all).
 
-*A build pipeline (cover image + chapter files → epub) is planned; this section is its packaging spec.*
+*This section is the packaging spec for `tools/build_epub.py`, which implements it: chronology (Volume One entries, story order) + `scenes/` prose + this doc's Test-epub blurb and Explicit/Short (metadata description) + `images/cover_with_title.png` → `build/with-a-long-spoon-book-one.epub`. Run `tools/build_epub.py --author "Pen Name"` (`--list` previews the roster). Deterministic; aborts if a Volume One chapter lacks prose.*
 
 ---
 
