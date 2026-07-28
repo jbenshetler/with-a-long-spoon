@@ -58,7 +58,7 @@ He brought it around the bed and put it in her hand.
 
 She had wanted pinup, glamour, a girl on a calendar, and that was what he handed back to her. The girl on the screen was composed and certain and lovely, lovelier than anything she'd have caught of herself alone, and it took her a second to credit that it was her. She looked, she thought, beautiful. And some part of why she could think so was that the picture was his, was her as his eyes had her, and she didn't want to give the phone back.
 
-And under the wanting to keep it, the cold sane thought any girl had about a picture like this: that it was a naked picture of her, that it lived on a phone now, that pictures like it got loose in the world and ruined the women in them. She knew all of that. It was why she'd made him promise. She looked at him, at the plain open want in his face, and she believed him, and believing him was the brave part. She sent it before the nerve could leave her, and watched the bar cross and the word under it go to Delivered, and gave him herself to keep.
+And under the wanting to keep it, the cold sane thought any girl had about a picture like this. She looked at him, at the plain open want in his face, and she believed him, and believing him was the brave part. She sent it before the nerve could leave her, and watched the bar cross and the word under it go to Delivered, and gave him herself to keep.
 
 When she looked up from the phone he was hard again, full, and watching her. She laughed, low in her throat. "Again," she said, not a question this time, and reached over and closed her hand around him.
 
