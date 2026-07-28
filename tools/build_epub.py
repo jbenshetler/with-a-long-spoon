@@ -15,7 +15,13 @@ Sources, all parsed at build time so the docs stay authoritative:
   - scenes/<slug>.md              prose (H1 title and the leading italic
                                   editorial note above the first --- are
                                   stripped; interior --- become scene breaks)
-  - images/cover_with_title.png   cover image
+  - images/cover.png              cover image — a symlink naming the currently
+                                  chosen cover asset (retarget the link to
+                                  switch covers; no builder change needed)
+
+No decorative page backgrounds: CSS background images fight reader theming
+and pagination (dark-mode contrast, Calibre partial/inconsistent renders) —
+parchment treatment dropped 2026-07-27.
 
 Deterministic: same inputs -> same output bytes (fixed zip timestamps; the
 package UUID is derived from the content; dcterms:modified comes from the
@@ -24,7 +30,7 @@ newest input mtime), so rebuilds are diffable.
 Usage:
     tools/build_epub.py --author "Pen Name"
     tools/build_epub.py --list          # preview the chapter roster, no build
-Defaults: cover images/cover_with_title.png, output build/ (created if absent).
+Defaults: cover images/cover.png, output build/ (created if absent).
 A Volume One chapter whose prose file is missing aborts the build (--allow-missing
 to override) — a test reader must never receive a silently incomplete book.
 """
@@ -218,10 +224,6 @@ p { margin: 0; text-indent: 1.3em; text-align: justify; }
 p.first { text-indent: 0; }
 p.break { text-indent: 0; text-align: center; margin: 1.2em 0; }
 /* front & back matter */
-/* Background lives on a content div, not <body>: Apple Books (and other
-   themed readers) paint their page theme over body backgrounds. */
-div.parchment-page { background: url(parchment.jpg) no-repeat center center;
-  background-size: cover; min-height: 96vh; margin: -1em; padding: 1.6em; }
 .cover { text-align: center; margin: 0; padding: 0; }
 .cover img { max-width: 100%; max-height: 100%; }
 .blurb p, .frontmatter p, .backmatter p { text-indent: 0; text-align: left;
@@ -245,7 +247,7 @@ def page(title: str, body: str, lang: str = LANGUAGE, bodyattr: str = "") -> str
 
 # --- epub assembly -------------------------------------------------------------
 def build(chapters, blurb, cover_path: Path, author: str, out_path: Path,
-          modified: str, parchment_path: Path | None = None):
+          modified: str):
     body_paras, tagline, comp, description = blurb
     files = []  # (id, href, media-type, properties, content_bytes, in_spine)
 
@@ -261,18 +263,9 @@ def build(chapters, blurb, cover_path: Path, author: str, out_path: Path,
     add("cover-image", f"cover.{cover_ext}", cover_mt, cover_path.read_bytes(),
         props="cover-image", spine=False)
 
-    # Parchment ground behind the blurb and title pages (meta-cover.md: aged
-    # parchment as the interior title-page treatment). Readers that ignore CSS
-    # backgrounds degrade to a plain page.
-    if parchment_path is not None:
-        add("parchment", "parchment.jpg", "image/jpeg",
-            parchment_path.read_bytes(), spine=False)
-
-    def parchment_wrap(body_html: str) -> str:
-        if parchment_path is None:
-            return body_html
-        return f'<div class="parchment-page">\n{body_html}\n</div>'
-
+    # No decorative page background: CSS background images fight reader
+    # theming (white dark-mode text over a pale image) and pagination
+    # (partial/inconsistent renders in Calibre, bleed in Apple Books).
     add("cover", "cover.xhtml", "application/xhtml+xml", page(
         "Cover",
         f'<div class="cover"><img src="cover.{cover_ext}" '
@@ -285,15 +278,14 @@ def build(chapters, blurb, cover_path: Path, author: str, out_path: Path,
     blurb_html.append(f'<p class="comp">{inline(comp)}</p>')
     blurb_html.append("</div>")
     add("blurb", "blurb.xhtml", "application/xhtml+xml",
-        page("About This Book", parchment_wrap("\n".join(blurb_html))))
+        page("About This Book", "\n".join(blurb_html)))
 
     add("titlepage", "titlepage.xhtml", "application/xhtml+xml", page(
         BOOK_TITLE,
-        parchment_wrap(
-            '<div class="titlepage frontmatter">'
-            f"<h1>{esc(SERIES_NAME)}</h1>"
-            '<p class="book">Book One</p>'
-            f'<p class="author">{esc(author)}</p></div>')))
+        '<div class="titlepage frontmatter">'
+        f"<h1>{esc(SERIES_NAME)}</h1>"
+        '<p class="book">Book One</p>'
+        f'<p class="author">{esc(author)}</p></div>'))
 
     add("copyright", "copyright.xhtml", "application/xhtml+xml", page(
         "Copyright",
@@ -424,14 +416,9 @@ def main():
     ap.add_argument("--blurb", type=Path, default=root / "meta/meta-blurb.md")
     ap.add_argument("--scenes", type=Path, default=root / "scenes")
     ap.add_argument("--cover", type=Path,
-                    default=root / "images/cover-book-1.png")
-    ap.add_argument("--parchment", type=Path,
-                    default=root / "images/parchment-page.jpg",
-                    help="background image for the blurb and title pages "
-                         "(derived from images/parchment.jpg: convert "
-                         "parchment.jpg -gravity center -crop 800x1200+0+0 "
-                         "+repage -quality 85 parchment-page.jpg); "
-                         "skipped with a note if the file is absent")
+                    default=root / "images/cover.png",
+                    help="cover image (default: images/cover.png, a symlink "
+                         "pointing at the currently chosen cover asset)")
     ap.add_argument("-o", "--out", type=Path,
                     default=root / "build/with-a-long-spoon-book-one.epub")
     ap.add_argument("--list", action="store_true",
@@ -470,19 +457,13 @@ def main():
                  + "\nUse --allow-missing to build without them.")
 
     blurb = load_blurb(args.blurb)
-    parchment = args.parchment if args.parchment.exists() else None
     inputs = [args.chronology, args.blurb, args.cover] + [p for _, p in chapters]
-    if parchment:
-        inputs.append(parchment)
     modified = dt.datetime.fromtimestamp(
         max(p.stat().st_mtime for p in inputs),
         tz=dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
     book_id = build(chapters, blurb, args.cover, args.author, args.out,
-                    modified, parchment_path=parchment)
-    if parchment is None:
-        print(f"  note: no parchment background ({args.parchment} absent) — "
-              "blurb/title pages built plain", file=sys.stderr)
+                    modified)
     words = sum(len(p.read_text(encoding="utf-8").split())
                 for _, p in chapters)
     print(f"wrote {args.out}: {len(chapters)} chapters, ~{words:,} words, "
