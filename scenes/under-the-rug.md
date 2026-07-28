@@ -58,7 +58,7 @@ Back at the house he watched her, careful and close, reading her for what she wa
 
 He didn't answer.
 
-"You went cold on me after the CW bar." It wasn't true. Some back room of her knew which of them had gone cold that night, knew who'd carried a pie up whose porch steps after — and she said it anyway, because she needed the line of it to hold. "At the restaurant you couldn't even look at me, because I wanted one night out of *your* house. And the second we're back in *your* truck you thaw right out, like none of it happened. You only warm to me when you've got your way."
+"You went cold on me after the Rusty Nail." It wasn't true. Some back room of her knew which of them had gone cold that night, knew who'd carried a pie up whose porch steps after — and she said it anyway, because she needed the line of it to hold. "At the restaurant you couldn't even look at me, because I wanted one night out of *your* house. And the second we're back in *your* truck you thaw right out, like none of it happened. You only warm to me when you've got your way."
 
 He was quiet a moment. "You know what happened after the dance," he said. He didn't argue it and he didn't plead it. He set the true thing down between them and let it be true.
 

@@ -1271,6 +1271,13 @@ text = "It was more women than men, and they hugged him longer, with more of the
 note = "Pace signature sentence ('the way he took everything'), paired with the sanctioned 'unhurried'"
 
 [[ok]]
+fp   = "9e61692a247e"
+rule = "the-way"
+file = "scenes/lesson.md"
+text = "Vee was talking before she was all the way in."
+note = "literal distance ('all the way in' — entering the room), not the construction"
+
+[[ok]]
 fp   = "a5dd1c5ef941"
 rule = "the-way"
 file = "scenes/lesson.md"
