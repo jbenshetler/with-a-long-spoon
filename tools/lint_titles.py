@@ -42,7 +42,6 @@ ALIASES = {
     "The Jar": "Vee Tells Randi About the Dance",
     "Jitterbug": "The CW Jitterbug Scene",
     "Burn": "The Burn",
-    "First Ride": "Sheri — First Ride",
     "Green Sheets": "Green Sheets — The Gift",
     "The Cassie Scene": "The Cassie Scene — Thesis Delivery",
     "Ignition Scalding": "Scalding Jealousy Ignition",

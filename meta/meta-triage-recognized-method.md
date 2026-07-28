@@ -1,6 +1,6 @@
 # Triage — A Recognized Method (`recognized-method`)
 
-Cold-read feedback pass, 2026-07-28. Panel: claude-opus-4-8, gpt-5.5, gpt-5.6-sol (all read after `sheri-first-ride`). Style lint run same pass.
+Cold-read feedback pass, 2026-07-28. Panel: claude-opus-4-8, gpt-5.5, gpt-5.6-sol (all read after `hills-and-valleys`). Style lint run same pass.
 
 ## What the panel confirmed (protect in later edits)
 

@@ -46,7 +46,7 @@ FALL_SCENES = [
     {"title": "Rock", "slug": "rock"},
     {"title": "Lesson", "slug": "lesson"},
     {"title": "Broken In", "slug": "broken-in"},
-    {"title": "Sheri — First Ride", "slug": "sheri-first-ride"},
+    {"title": "Hills and Valleys", "slug": "hills-and-valleys"},
     {"title": "A Recognized Method", "slug": "recognized-method"},
     {"title": "The Practice Room", "slug": "practice-room"},
     {"title": "We Find Out", "slug": "we-find-out"},

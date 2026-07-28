@@ -1,6 +1,6 @@
-# Condensed — Sheri — First Ride
+# Condensed — Hills and Valleys
 
-*Compaction of the drafted scene (`scenes/sheri-first-ride.md`); surface only — the unrendered craft/subtext lives in `meta-note-sheri-first-ride.md`. ~Sat Oct 31 morning, between the CW-Dance blowup (Thu) and that evening's reconciliation. Pace POV.*
+*Compaction of the drafted scene (`scenes/hills-and-valleys.md`); surface only — the unrendered craft/subtext lives in `meta-note-hills-and-valleys.md`. ~Sat Oct 31 morning, between the CW-Dance blowup (Thu) and that evening's reconciliation. Pace POV.*
 
 - Saturday bike ride, rolling roads out past his place; they talk on the flats and descents, go quiet on the climbs. Sheri: small, fast, faster than him on the climbs and never quiet about it.
 - **Sheri's CW report.** After Pace left the bar Thursday she kept an eye on the redhead: sat by herself glaring at the floor, nursed one drink, danced with nobody, left alone. *"Hell of a backside on her, though. I'll give her that."* (She remarks on women the way others remark on weather.)
