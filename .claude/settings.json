@@ -5,6 +5,7 @@
       "Bash(./tools/novel-assistant/na.py:*)",
       "Bash(tools/chronology_html.py:*)",
       "Bash(./tools/chronology_html.py:*)",
+      "Bash(tools/build_epub.py:*)",
       "Read(scenes/**)",
       "Edit(scenes/**)",
       "Write(scenes/**)",
