@@ -16,7 +16,7 @@ Across the room Theo lifted a hand at her, tray balanced, and she lifted hers ba
 
 "He's nice." Kayla watched Theo find a seat, mournful about it. "That's the tragedy. They're all nice until you don't want them and then they're wonderful."
 
-"So what's Pace do, then?" This from Kayla, Theo already forgotten. "He's older. He's got to actually do something with himself."
+"So what's Pace do, then?" Kayla said, Theo already forgotten. "He's older. He's got to actually do something with himself."
 
 "He's getting his doctorate. Math." Vee didn't bother keeping the pride out of it. "Twenty-two and almost finished, which is obnoxious. I asked him once what a person like that even does with a whole day." She leaned in on it. "He lifts in the morning, first thing, before anything. Says it clears his head. Then he writes for six hours and stops." She gave them his voice for the last of it, flat and certain. "'My writing's no good after that.'"
 

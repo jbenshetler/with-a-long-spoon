@@ -10,7 +10,7 @@ He waited for her to slide in first, then took the bench across.
 
 Under the glass of the tabletop, laid down years ago and gone amber at the edges, a young Elvis kept his jaw still narrow, a family of four in matching Sunday wool laughed at something past the frame, and a car that hadn't been built in his lifetime or his father's turned on a slow turntable under studio lights. He thought, before he could stop it, that Vee would either love this place or never see it at all, and he wanted very badly to know which.
 
-Vee had tried once to take him to the other kind — the Chili's out by 460, screens on four walls playing three different games, a music track coming down through the ceiling on top of all of it — and something in him had come apart very quietly over the hour, the evening sliding out from under him as his smile got tighter, every sound in the room arguing with him at once — the screens, the music, the crowd. Her voice was down under all of it. He couldn't pull it clear, however hard he tried. Here he could have heard her whisper. He wondered whether she'd let him.
+Vee had tried once to take him to the other kind — the Chili's out by 460, screens on four walls, music coming down through the ceiling — and something in him had come apart very quietly over the hour, her voice down under all of it where he couldn't pull it clear. Here he could have heard her whisper. He wondered whether she'd let him.
 
 The waitress came over — a woman in her forties, dark hair framing a tired face that had kept its smile, a diner tee and a half-apron over her jeans. "The usual?" she said, already writing, because there was no question and never had been, and they told her yes like people saying yes to their own names.
 
