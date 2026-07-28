@@ -46,8 +46,6 @@ Something in Randi went quiet at that, and softened past it. "And you're showing
 
 Then the tell of it dropped, half a register, went somewhere low and hoarse. "God. What she keeps under there." She pressed up on her hands and drew slowly down the length of him, her breasts dragging across his chest, one way and then the other, showing him with her own body the thing she was describing. "It's *criminal,* Pace. But you already know."
 
-He knew what he'd heard. Not the words — the thing that came loose under them and got out a half-step ahead of her, before she folded it back up. All fall she'd said it the bright way — *for the threesome, for us,* easy — and that had not been the bright way.
-
 It went through him — not the picture of Vee she'd handed him, but Randi, who kept a hand on every ounce of herself out in the world, wanting something out loud in his bed and not able to stop it. Her, stepping over her own line, of her own accord. His hands went to her thighs before the thought was done, stroking slow up the backs of them.
 
 He didn't take up the rest of what she'd set down; that was hers to hold. What came up in him was the other thing.
