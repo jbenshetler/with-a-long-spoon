@@ -6,7 +6,7 @@ What happens (in the docs only, never on the page): Randi takes ~6 scrunchies fr
 
 ## Trespass, not theft
 
-The top drawer is gifted territory — the one space in that house that is Vee's own, founded at {{The Top Drawer}} and never touched by Pace's hand since. Randi doesn't take tokens from Pace's bathroom; she reaches into Vee's space. On reread the violation isn't of provision but of territory, and what she strips is the artifact of Vee being met with grace — the form in her color, the gift that answered a need she never voiced. The space he gave Vee so she'd be at home becomes the instrument of her self-doubt.
+The top drawer is gifted territory — the one space in that house that is Vee's own, founded at {{Above Him}} and never touched by Pace's hand since. Randi doesn't take tokens from Pace's bathroom; she reaches into Vee's space. On reread the violation isn't of provision but of territory, and what she strips is the artifact of Vee being met with grace — the form in her color, the gift that answered a need she never voiced. The space he gave Vee so she'd be at home becomes the instrument of her self-doubt.
 
 ## Why it is never rendered
 
@@ -18,7 +18,7 @@ The reader holds **means** (weekday access) and **motive** ({{Fairytale}}; {{Spr
 
 ## Hard constraints
 
-- **Sequencing:** {{Spring Inversion}} (the reader's last interior access to Randi before the campaign) must already be on the page; the overnight habit, the form, and the drawer's grammar must be reader-established since October–November ({{We Find Out}}; {{The Top Drawer}}; {{The New Ordinary}}).
+- **Sequencing:** {{Spring Inversion}} (the reader's last interior access to Randi before the campaign) must already be on the page; the overnight habit, the form, and the drawer's grammar must be reader-established since October–November ({{We Find Out}}; {{Above Him}}; {{The New Ordinary}}).
 - **No staged opportunity beats.** Never plant a deniable "she excused herself" in any Randi–Pace scene — that is the author signaling. The strongest version marks nothing; weekday access alone is the opportunity. In Pace-POV scenes the camera rides Pace and honestly inherits his blindness ("he'd see scrunchies and scrunchies").
 - **POV key:** the bathroom/drawer is on-camera only in Vee's POV (`meta-plan-pace-house.md`; chronology flag 15).
 

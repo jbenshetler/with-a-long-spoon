@@ -47,7 +47,7 @@ But the **water itself survived the exile.** She lost the sport; she didn't lose
 ## Threads
 
 - **Desirability thread — the involuntary anchor.** Full coordination: `meta-note-desirability-thread.md`.
-- **Primes {{A Round}}** (~Oct 10): the leer-wound planted here is what Pace's non-leering gaze dissolves — *"he saw her, fully, and he was glad."*
+- **Primes {{A Round}}** (~Oct 3): the leer-wound planted here is what Pace's non-leering gaze dissolves — *"he saw her, fully, and he was glad."*
 - **"Stripper's body" self-label** — **not** in Water Wings (the draft renders the too-much via the suit only); its first on-page appearance is **{{A Round}}** (the bare self-label), reclaimed at {{Nothing Underneath}} (spring) where she uses the body for its purpose.
 - **Randi-envy as wish-to-disappear** — reader-side irony (she covets the containment that is Randi's prison); never stated.
 - **"Best friend" plant (load-bearing).** Vee names Cassie her *best friend* here — glancing, buried inside the splash-fight (*"fight your best friend for a mouthful of pool"*), never underlined. Deliberate setup for the **end-of-semester reversal**, where Vee names *Randi* her best friend: the title migrates from the true friend to the manipulator. Kept quiet on purpose ("it was all there" on reread, never "I knew"). **Do not "fix" the repetition** — the echo is the whole point. Seed/verify the mirror wherever Randi is first given the title.

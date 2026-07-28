@@ -6,7 +6,7 @@ A full scene doing two jobs at once: it *demonstrates* the settled domestic rhyt
 
 ## Why they've been apart
 
-Several nights without seeing each other. The over-staying caught up with Vee — too many short nights away from her dorm, schoolwork slipping — and she reluctantly said she needed the time. Pace didn't push (the deference is genuinely held, not a tactic; [[pace-good-qualities-not-cynical]]). This pull-back is the mechanism by which the **greedy phase banks into the regular pattern**: weekends his, weeknights hers. Still running through {{The Top Drawer}} and {{School Nights}}, it settles here; a shape, not a guarantee.
+Several nights without seeing each other. The over-staying caught up with Vee — too many short nights away from her dorm, schoolwork slipping — and she reluctantly said she needed the time. Pace didn't push (the deference is genuinely held, not a tactic; [[pace-good-qualities-not-cynical]]). This pull-back is the mechanism by which the **greedy phase banks into the regular pattern**: weekends his, weeknights hers. Still running through {{Above Him}} and {{School Nights}}, it settles here; a shape, not a guarantee.
 
 ## Shape
 
@@ -33,7 +33,7 @@ Both object-tokens of care in one frame: **her things live in his drawer; his sh
 
 ## Mirror-time (settled ritual, texture only)
 
-If the bathroom comes on camera: hair up at his sink, a scrunchie off the form in her top drawer, a returned one dropped loose — the never-rethread habit visible as nothing but domestic texture (origin: {{We Find Out}} — the form; {{The Top Drawer}} — the drawer). Here the grammar is already ordinary, which is the point.
+If the bathroom comes on camera: hair up at his sink, a scrunchie off the form in her top drawer, a returned one dropped loose — the never-rethread habit visible as nothing but domestic texture (origin: {{We Find Out}} — the form; {{Above Him}} — the drawer). Here the grammar is already ordinary, which is the point.
 
 ## Pays off / plants
 
