@@ -1544,6 +1544,27 @@ text = "Because it was not just a girl, not just the bit."
 note = "deliberate antithesis — fires once; it was not just a girl, it was Randi"
 
 [[ok]]
+fp   = "43d320416eac"
+rule = "clock-verb"
+file = "scenes/practice-room.md"
+text = "They went out into the ordinary noise of the building, the bad fluorescent hum and somebody two doors down running scales, and at the top of the stairs Randi pulled her into the goodbye the way she always did, the long hug, the kiss easy on her mouth, then the lighter second touch after it, so worn-in now that Vee barely clocked it."
+note = "worn-in kiss line — 'barely clocked it' stands; author 2026-07-28"
+
+[[ok]]
+fp   = "08f0fcc624be"
+rule = "filter-verbs"
+file = "scenes/practice-room.md"
+text = "A moment late, she realized what she'd just agreed to."
+note = "realization deliberately cognitive before the embodiment — author 2026-07-28"
+
+[[ok]]
+fp   = "27d77d5da499"
+rule = "warm"
+file = "scenes/practice-room.md"
+text = "It went down through her like a swallow of something warm."
+note = "load-bearing warm — Randi's warmth swallowed; author 2026-07-28"
+
+[[ok]]
 fp   = "11151fb363dc"
 rule = "a-small"
 file = "scenes/recognized-method.md"
