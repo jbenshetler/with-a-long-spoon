@@ -42,6 +42,12 @@ Read
 
 ## How to behave
 
+### No popup questionnaires
+
+Never use the AskUserQuestion tool (or any popup/questionnaire UI) with the
+author. Ask decisions and approvals in the regular text flow — numbered or
+lettered options in prose, answered in their reply. (Author ruling 2026-07-28.)
+
 ### The Prime Rule
 
 **Never answer a factual question about the novel from memory or context.**

@@ -47,7 +47,12 @@ point, record: what was said, **which models raised it** (consensus across
 models is the strongest signal; a lone reviewer's pet reading is the weakest),
 the quoted line(s) at issue, and whether triage already settled it.
 
-Sort every point into:
+Open the synthesis with a **bulleted extraction**: what the readers liked
+best, and what they found most problematic — quoted or tightly paraphrased,
+with the raising models named. The author wants this digest up front, before
+any classification or fix plan.
+
+Then sort every point into:
 
 - **Confirmed positives** — what's landing. These are *protection*, not
   praise: a fix must not damage them.
@@ -74,11 +79,13 @@ editorializing, no telegraphing, never-name is absolute.
 
 ## Step 4 — Author approval, item by item
 
-Present the synthesis (positives first, then the plan, then what you set
-aside and why). Then walk the actionable items past the author — use
-AskUserQuestion per item or batch, with apply / modify / reject / defer as the
-choices. **Nothing is applied until approved.** The author may also redirect a
-fix; re-plan rather than push the original.
+Present the synthesis (the liked-best / most-problematic extraction, then the
+plan, then what you set aside and why). Then walk the actionable items past
+the author **in the regular text flow — never AskUserQuestion or any popup
+questionnaire** (author ruling 2026-07-28): list each item with
+numbered/lettered choices (apply / modify / reject / defer) in prose and wait
+for the reply. **Nothing is applied until approved.** The author may also
+redirect a fix; re-plan rather than push the original.
 
 ## Step 5 — Apply and record
 
