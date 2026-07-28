@@ -1,8 +1,8 @@
 # The Practice Room
 
-The stats lecture met at eleven in one of the tiered rooms on the second floor of the math building, and Vee got there early the way she always did, underslept in a way that had nothing to do with the hour. She had not slept Sunday night, or not much, and not for any reason she could have said out loud in a room with the lights on. The weekend was still in her. He was still in her, the whole long ordinary miracle of it, and she had lain awake inside it and come to class wearing it like a coat she'd forgotten to take off.
+The stats lecture met at eleven in one of the tiered rooms on the second floor of the math building, and Vee got there early, underslept in a way that had nothing to do with the hour. She had not slept Sunday night, or not much, and not for any reason she could have said out loud in a room with the lights on. The weekend was still in her. He was still in her, the whole long ordinary miracle of it, and she had lain awake inside it and come to class wearing it like a coat she'd forgotten to take off.
 
-Cassie was already there, of course, two-thirds back where they always sat, the seat on her left saved with a backpack she lifted away as Vee came down the row. Randi arrived a minute later from the other side and dropped into the aisle seat so that Vee was between them, and the warm green-citrus wave of her got there first, the way it always did, a half-second ahead of the rest.
+Cassie was already there, of course, the seat on her left saved with a backpack she lifted away as Vee came down the row. Randi arrived a minute later from the other side and dropped into the aisle seat so that Vee was between them, and the warm green-citrus wave of her got there first, the way it always did, a half-second ahead of the rest.
 
 "Look at that face," Randi said, low, already smiling. "You look like you've been up to something."
 
@@ -22,17 +22,17 @@ The hour came apart the way it always did, sixty people deciding at once that it
 
 "Walk me out?" she said. To Randi. Only to Randi.
 
-It was a small thing and she didn't notice she'd done it. For weeks it had gone the other way: Randi's hand at her elbow on the lawn, Randi saying *come here a second,* Randi cutting her gently out of the herd of an afternoon and into somewhere quieter. Now it was Vee's two fingers on Randi's wrist, and Cassie was gathering her granola bar and her wrong textbook and saying *see you Thursday* to the side of Vee's head, and Vee was already moving, towing the most interesting person she knew toward the door.
+It was a small thing and she didn't notice she'd done it. For weeks it had gone the other way: Randi's hand at her elbow on the lawn, Randi saying *come here a second,* Randi cutting her gently out of the herd of an afternoon and into somewhere quieter. Now it was Vee's two fingers on Randi's wrist, and Cassie was gathering her granola bar and her wrong textbook and saying *see you in the room* to the side of Vee's head, and Vee was already moving, towing the most interesting person she knew toward the door.
 
 In the stairwell she said she needed to tell her something, the whole thing, and Randi said she had forty-five minutes before she had to be back across campus and useful to people she didn't like, and that they were not having this conversation in a hallway. There was no time to go anywhere. It was Randi who thought of the practice rooms in the music building, two minutes away, empty at this hour, the little soundproof cells nobody used at lunch.
 
-"Those are where everybody used to," Vee said, and didn't finish it, and felt the color come up her neck for no reason she'd have admitted to.
+"Those are where everybody used to…" Vee said, and didn't finish it, and felt the color come up her neck for no reason she'd have admitted to.
 
 "Used to what?" Randi was already holding the door.
 
 "Nothing. Freshman year. People used them to. You know."
 
-"I do know," Randi said, pleasant as weather, and that was all, and they went in.
+"I do know," Randi said, and that was all, and they went in.
 
 The room was the size of a closet: a battered upright against one wall, a music stand, two chairs, a square of carpet worn pale. When the door shut the building went away. Not muffled. Gone. The kind of quiet you could hear your own blood in.
 
@@ -46,7 +46,7 @@ Randi put a hand flat to her own chest. "He did not."
 
 "He did."
 
-"That man." She said it the way a woman names a wine. "Okay. And then."
+"That man." She said it on a breath, impressed. "Okay. And then."
 
 "And then it was just. It was really good." Vee heard herself skid past the middle of it, the part she had no words arranged for, and land on the morning. "And the next day I slept in forever, and he was up doing the dishes, and I was being a complete brat, and he was tickling me, so I swatted him. And he sort of swatted me back. And then we, you know." She lifted the shoes an inch and set them down. "That's it. That's the whole thing."
 
@@ -64,7 +64,7 @@ Randi let a beat go by. She was still smiling, but something in her had gone ver
 
 The question landed somewhere Vee wasn't braced for. "I mean. I was being awful. So. Probably." She laughed again. "Yeah. Probably I deserved it."
 
-She didn't hear what she'd agreed to. Randi did. Randi let it sit a second, the way the professor let things sit, the small private pleasure of a woman who had laid the same soft trap a hundred times.
+A moment late, she realized what she'd just agreed to. Randi's smile brightened. It went down through her like a swallow of something warm.
 
 "Tell me about the one he gave back," Randi said. "Not the love tap. His."
 
