@@ -1,6 +1,6 @@
 # Condensed — Sorority
 
-*SCENE · **Draft complete:** `scenes/sorority.md` · ~Sat Oct 24 · Vee POV · triptych · SATC*
+*SCENE · **Draft complete:** `scenes/sorority.md` · ~Sat Oct 17 · Vee POV · triptych · SATC*
 
 ## Summary
 

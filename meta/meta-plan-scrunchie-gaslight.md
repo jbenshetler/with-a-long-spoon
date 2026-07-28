@@ -1,6 +1,6 @@
 # Notes — The Scrunchie Gaslight
 
-*Development note. The scrunchie sub-thread — the planted-clue mechanism that corrodes Vee's own perception. Decoupled from the dress cluster: the form-plant sits in {{We Find Out}} and the domestic riser in {{The Top Drawer}} (early November), and the grains run in spring. See `meta-plan-chronology.md` (the Grain entries) and `meta-condensed-we-find-out.md` (the form's introduction) / `-the-top-drawer.md` / `-randi-takes-scrunchies.md`. To be developed into scenes later.*
+*Development note. The scrunchie sub-thread — the planted-clue mechanism that corrodes Vee's own perception. Decoupled from the dress cluster: the form-plant sits in {{We Find Out}} and the domestic riser in {{Above Him}} (early November), and the grains run in spring. See `meta-plan-chronology.md` (the Grain entries) and `meta-condensed-we-find-out.md` (the form's introduction) / `-above-him.md` / `-randi-takes-scrunchies.md`. To be developed into scenes later.*
 
 ---
 

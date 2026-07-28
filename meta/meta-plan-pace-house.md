@@ -6,7 +6,7 @@ consistent. Defers to `meta-arch-bible.md` ("The house, room by room")
 for what each room *means*; this doc owns *where things are*.*
 
 **Sources.** `[PAGE]` = drafted, on the page in `scenes/the-bench.md`,
-`scenes/two-towels.md`, `scenes/a-round.md`, `scenes/the-top-drawer.md`, `scenes/peekaboo.md`, and `scenes/vee-on-the-bench.md` — treat as fixed. `[PLAN]` = established in
+`scenes/two-towels.md`, `scenes/a-round.md`, `scenes/above-him.md`, `scenes/peekaboo.md`, and `scenes/vee-on-the-bench.md` — treat as fixed. `[PLAN]` = established in
 `meta-arch-bible.md` but not yet drafted — render to
 taste, don't contradict.
 
@@ -121,7 +121,7 @@ Randi leaves the bedroom, out into the hall and around the corner to it — not 
 Sink + **mirror**, tap, his **towel**, toilet. The door has a
 **lock**; Randi locking it mid-scene is marked unprecedented. A recurring,
 load-bearing small room (Vee uses it later too).
-- **Vee's top drawer** `[PAGE]` (canonical): gifted at {{The Top Drawer}} (after {{We Find Out}}) —
+- **Vee's top drawer** `[PAGE]` (canonical): gifted at {{Above Him}} (after {{We Find Out}}) —
   he consolidated his things to a lower drawer; the top one holds her form of
   scrunchies (deep green with white dots, chosen for her hair — gifted at {{We Find Out}}),
   her pins, room to spare. **The drawer is hers; he never touches it** — the

@@ -1,6 +1,6 @@
 # The Induction
 
-*Vee POV. November.*
+*Vee POV.*
 
 Cassie walked her as far as the doors of the hall and no farther, because past them the honorees peeled off into their own roped row down front and everyone else went to the seats. "Go make your mother cry again," Cassie said, and took Vee's phone out of her hand to hold, and looked her up and down and said, "You look—" and didn't finish it, which from Cassie was a standing ovation. Then she went to find a chair, and Vee went down to the row and found her name on a card taped to the arm of a folding seat, and sat, and waited.
 

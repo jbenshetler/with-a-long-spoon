@@ -65,7 +65,7 @@ Later that weekend, among her friends, **Pace** comes into her world in his **bo
 ## Threads & seeds
 
 - **Taste thread — Vee's self-taste carries nothing; seed Pace's relish.** {{The Reach}} (Vee's open loop) is the next gate, *after* this, so no self-taste beat here. But **Pace's relish for her taste is seeded** at the doorstep oral (*as if he would die without the taste of her*) — the setup for {{Forbidden Kiss}}, where, having just refused her own, she wonders why he likes it.
-- **"Peter":** **not reached here** (the door-one reach is cut with `The Stranger`). At the night door she doesn't call the true name any more than she asks again for the word — the *demand* set down, not the hope. The name's powder stays dry for downstream: planted warm at *{{Rock}}* (~late Oct, porch — `meta-note-rock.md`), whispered at {{The Top Drawer}}, its declaration layer paid off at {{Excavations}} and spent at the reckoning. No reach-and-fail beat anywhere in the reconciliation now.
+- **"Peter":** **not reached here** (the door-one reach is cut with `The Stranger`). At the night door she doesn't call the true name any more than she asks again for the word — the *demand* set down, not the hope. The name's powder stays dry for downstream: planted warm at *{{Rock}}* (~late Oct, porch — `meta-note-rock.md`), whispered at {{Above Him}}, its declaration layer paid off at {{Excavations}} and spent at the reckoning. No reach-and-fail beat anywhere in the reconciliation now.
 - **Territory / flannel:** the coat-and-jacket claiming continues the shirt-scenting and Top Drawer staircase (clothing as the proxy for the word).
 - **The vow:** Pace's non-declaration holds; this scene measures the silence without breaking it.
 

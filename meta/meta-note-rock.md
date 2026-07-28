@@ -68,7 +68,7 @@ Rock now carries the **contained** half of the two-register first-love telling (
 
 ## The name permitted here — the riser this builds
 
-She tries *Peter* softly and he **lets it sit.** The point: *Peter* is the name allowed **in the calm of the porch** — the name permitted here, banked warm. It surfaces again, whispered, at {{The Top Drawer}} (to a sleeping Pace), and its declaration layer breaks open at {{Excavations}} — the reckoning is where the name is spent against the sentence he still can't say (`meta-arch-bible.md`, "Peter" as instrument).
+She tries *Peter* softly and he **lets it sit.** The point: *Peter* is the name allowed **in the calm of the porch** — the name permitted here, banked warm. It surfaces again, whispered, at {{Above Him}} (to a sleeping Pace), and its declaration layer breaks open at {{Excavations}} — the reckoning is where the name is spent against the sentence he still can't say (`meta-arch-bible.md`, "Peter" as instrument).
 
 ## The resonance — bank it, never state it
 

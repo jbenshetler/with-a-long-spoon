@@ -100,7 +100,7 @@ A date earns a hard pin **only when the prose depends on the specific day**, not
 Day-of-week is load-bearing (the hungover day-after, the empty house). Pinned hard. Everything else relative.
 
 **All-soft case — {{The Long Way}}:**
-> *Season: early fall, warm, leaves green, cool evening ("gone blue and cool"). Term: week 4, settling-in, pre-midterm. Day: omitted — the prose names no day-of-week; timing is carried relatively ("hours after the meet-cute," "by evening"). (≈ Thu Sep 24.)*
+> *Season: early fall, warm, leaves green, cool evening ("gone blue and cool"). Term: week 3, settling-in, pre-midterm. Day: omitted — the prose names no day-of-week; timing is carried relatively ("hours after the meet-cute," "by evening"). (≈ Thu Sep 17.)*
 
 Nothing pinned. Reorder it, add a summer, shift the calendar — the *warm-day / cool-evening / early-fall / nothing-due-yet* texture is untouched, because that is what the prose was written against.
 

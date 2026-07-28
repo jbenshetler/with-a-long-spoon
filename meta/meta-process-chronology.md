@@ -48,7 +48,7 @@ When adding or revising an entry, check:
 
 ```
 ### [SCENE] Substitution
-**~Thu Sep 24 · Week 4 of fall semester**
+**~Thu Sep 17 · Week 3 of fall semester**
 *Draft complete · `substitution.md`*
 
 Summary paragraph here — one paragraph maximum, accurate to the draft.

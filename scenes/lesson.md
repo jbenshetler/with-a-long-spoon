@@ -1,6 +1,6 @@
 # Lesson
 
-*Vee's POV, close third. Thursday Oct 29 (after {{Rock}}, before {{Broken In}} — the dawn resolve is its hard cut). Pace teaches Vee the three-step on the concrete pad by the dark gym, then the Rusty Nail: the erroneous proprietary jealousy, the displaced fight, his walk-out, the older bartender's correction. Plants the threesome's phrase — "don't think, just feel the lead."*
+*Vee's POV, close third. Thursday Oct 22 (after {{Rock}}, before {{Broken In}} — the dawn resolve is its hard cut). Pace teaches Vee the three-step on the concrete pad by the dark gym, then the Rusty Nail: the erroneous proprietary jealousy, the displaced fight, his walk-out, the older bartender's correction. Plants the threesome's phrase — "don't think, just feel the lead."*
 
 ---
 

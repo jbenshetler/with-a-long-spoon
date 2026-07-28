@@ -7,7 +7,7 @@
 ## Why the scene is shaped this way
 
 - **POV: Pace, close third — locked.** Also the POV the book uses to pay the visual debt early. (Governs the later **Pace/Sheri** vignettes — {{The Usual}}. The exception is {{Another Round}}, which is **Vee POV**: Vee meets Sheri while Pace is mostly off fetching drinks, so there's no Pace-leak to capture — the frame is Vee receiving his goodness from a witness; see `meta-note-another-round.md`.)
-- **The unresolved-state choice.** The Oct 31 morning slot sits *between* the CW-Dance blowup (Thu) and that evening's reconciliation. Pace is raw and doesn't yet know the redhead thing survives — that's *why* he overshares. (Decided; recorded so a later edit doesn't "settle" him here.)
+- **The unresolved-state choice.** The Oct 24 morning slot sits *between* the CW-Dance blowup (Thu) and that evening's reconciliation. Pace is raw and doesn't yet know the redhead thing survives — that's *why* he overshares. (Decided; recorded so a later edit doesn't "settle" him here.)
 - **Bicycles, side by side.** The bike is the format because it's *theirs* — easy company, moving, doing a thing they both love; that's what loosens him into the overshare (format rationale: `meta-arch-sheri.md`). Not his motorcycle / Sheri on the back — wrong intimacy, breaks the format. **{{The Usual}} is face-to-face across a booth** and earns the same leak from the same source (easy company, food) — see `meta-note-the-usual.md`.
 
 ## Pace's state here — calibrate the affect (NOT love)
