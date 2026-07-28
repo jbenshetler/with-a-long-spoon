@@ -64,7 +64,7 @@ And that was Vee for the length of the lecture, turned between the two of them, 
 
 Up front, the professor reached his reversal. The little red dot settled on one number at the foot of a column.
 
-"Each year on its own, the first man is the better hitter. Put the two years together and the second man is. Same numbers. Nobody touched one of them." He let it sit. "A thing can run one way across every short stretch you measure and the opposite way across the whole of it, and the total will never once tell you that's what happened. The total will hand you the exact reverse of the truth and not lie about a single number."
+"Each year on its own, the first man is the better hitter. Put the two years together and the second man is. Same numbers. Nobody touched one of them." He let it sit. "A thing can run one way across every short stretch you measure and the opposite way across the whole of it."
 
 Vee wrote *short stretches can lie against the whole* because it had the ring of an exam question, underlined it, and gave it no further thought. The professor told them that was all, in the voice he told them everything in, and let them go.
 
