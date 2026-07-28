@@ -34,6 +34,8 @@ The engine of the scene: **Vee is confessing to the woman Pace is sleeping with 
 
 **Establishes the motif that culminates at the threesome** — where Randi lends Vee the **Mary-Jane peep-toes** she calls her *fuck-me pumps*, specifically chosen once Vee has confided (given the SATC closeness) that a big sexy event is coming. The history of the loan is always one-directional: Randi carries it, Vee does not.
 
+**The scarf** (added in draft). Randi also gifts a green/gold silk scarf and teaches the knot hands-over-hands (*tension — it has to hold its shape*): the same restraint-as-steadiness figure as the shoe, in a different material, deniable as styling instruction. Committed to the page: Vee is to wear it to the apology, so {{A Recognized Method}} must show it on her.
+
 ## Vee's Addition: The Humble Pie
 
 Not Randi's advice — Vee's own translation of the counsel into her idiom. A store-bought pie with a handmade *Humble Pie* label. The light quick thing that gets out ahead of discomfort; the self-deprecating gesture that makes the threshold crossable. Randi would probably wince at it — too cute, too much armor, the joke as cover for the naked apology underneath. But Vee can't do unconditional vulnerability without some frame. The pie lets her be Vee while doing the Randi-prescribed thing. Pace will see both: the joke and what's behind it.

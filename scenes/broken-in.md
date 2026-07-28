@@ -16,7 +16,7 @@ So she fixed the clown. She did the rest of her face, and it brought her up from
 
 ---
 
-She put on the long skirt — the one that meant she'd thought about where she was going — found no tights that were both clean and hers, and decided, with the conviction of the converted, that she would simply be a woman with bare legs in October. The tan lace-up boots went on over the bare legs, the scuffed faux-leather pair with the cap toe and the turned-down cuff, worn soft. The coat was the long one, the warm one she lived in from mid-fall on — handsome at best, never cute, but it broke the wind, which over bare legs in October was the whole point. She buttoned it, took an apple from the bowl by the door — the bowl the dorm kept full for exactly the kind of morning she was having, the no-time kind — and went.
+She put on the long skirt — the one that meant she'd thought about where she was going — found no tights that were both clean and hers, and decided, with the conviction of the converted, that she would simply be a woman with bare legs in October. The tan lace-up boots went on over the bare legs, the scuffed leather pair with the cap toe and the turned-down cuff, low and worn soft. The coat was the long one, the warm one she lived in from mid-fall on — handsome at best, never cute, but it broke the wind, which over bare legs in October was the whole point. She buttoned it, took an apple from the bowl by the door — the bowl the dorm kept full for exactly the kind of morning she was having, the no-time kind — and went.
 
 The day was a show-off. Bright, cold, so clear it looked rinsed, the last gold leaves down and crunching, the sky doing nothing but be blue. She started across it eating the apple, and her first steps were small, the careful steps of a person carrying something she didn't want to spill.
 
@@ -24,7 +24,7 @@ Then she thought: *I'm going to fix this.*
 
 It put length in her stride. She walked faster, and the cold came up the backs of her bare legs, and she found she liked it — the same cold as the water, the same clean daylight verdict, the world telling her she was awake and in it. She bit the apple. She passed the dining hall, griddle grease and burnt coffee rolling out its propped doors, and wanted nothing it had. She had her apple. She had a plan. She had somewhere to be.
 
-The house sat back on its lawn, white-columned, sure of itself, a place she'd looked at longingly from the sidewalk a hundred times and never once been inside. She finished the apple on the steps, found a bin for the core like a person raised right, and pressed the bell. She heard it sound somewhere deep in the house.
+The house sat back on its lawn, white-columned, sure of itself, a place she'd looked at longingly from the sidewalk a hundred times and never once been inside. She finished the apple on the steps, found a bin for the core like a person raised right, and pressed the bell. It sounded somewhere deep in the house.
 
 The door opened on a girl with the beauty of a shampoo model — the wide bright smile, the whole face switched on behind it. Vee placed her after a second: Randi's sister from the smoothie shop — the beautiful one whose warmth had somehow left her feeling small. Brooke. She'd come to the door with her coffee and opened it one-handed.
 
@@ -52,7 +52,7 @@ Randi dropped onto the foot of the bed, pulled her feet up under her — bare, t
 
 "I started one."
 
-It came out of her in pieces, the way it does when someone's letting you tell it instead of waiting for their turn. The dance first — and here she surprised herself, because the dance had been *good,* the best part, his hand flat on her back and the way the whole thing took her once she stopped fighting it, her body knowing where to go a half-second before she did — and Randi said *of course it was, he can dance, the bastard,* warm, delighted, and Vee laughed and went on. Drinks. Him at the bar. The blonde.
+It came out of her in pieces, the way it does when someone's letting you tell it instead of waiting for their turn. The dance first — and here she surprised herself, because the dance had been *good,* the best part, his hand flat on her back and the whole thing taking her once she stopped fighting it, her body knowing where to go a half-second before she did — and Randi said *of course it was, he can dance, the bastard,* warm, delighted, and Vee laughed and went on. Drinks. Him at the bar. The blonde.
 
 "She comes up to me all sugar," Vee said, "and goes, *he's such a great lead, all us girls love him, he's so good about getting a girl home safe at the end of the night.*"
 
@@ -146,7 +146,7 @@ Vee huffed, and looked at the narrow, perfect run of it, and knew better. "Not t
 
 "I was picturing it. Me, in here, in nothing but your shoes."
 
-Randi laughed — the real one, head going back. "You'd be my very own *shoe whore.*" It came out like an endearment, the way the worst words did between them. "Except I'm on *Standards.* I'd have to make you cover up for room inspection — a scarf, at least." A beat. "And I've got one that'd be *criminal* on you."
+Randi laughed — the real one, head going back. "You'd be my very own *shoe whore.*" It came out like an endearment — the worst words always did, between them. "Except I'm on *Standards.* I'd have to make you cover up for room inspection — a scarf, at least." A beat. "And I've got one that'd be *criminal* on you."
 
 Vee laughed.
 
@@ -200,7 +200,7 @@ Four hours ago she'd stood at a sink and found a sad clown. The woman in this gl
 
 ---
 
-Randi sent her home with the shoes in a soft drawstring bag and the scarf folded on top, and walked her down. Brooke was gone from the door. In the foyer, under all those framed faces, Randi pulled her into the whole-body hug and kissed her goodbye on the mouth — soft, unhurried, the small second press the first one always seemed to want.
+Randi sent her home with the shoes in a soft drawstring bag and the scarf folded on top, and walked her down. Brooke was gone from the door. In the foyer, under all those framed faces, Randi pulled her into the whole-body hug and kissed her goodbye on the mouth — soft, lingering, the small second press the first one always seemed to want.
 
 And Vee, kissing her back, caught up to something a half-beat late: she hadn't braced. Hadn't tensed. Her mouth had just met Randi's. It was only what they did.
 
