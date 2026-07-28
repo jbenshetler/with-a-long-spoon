@@ -1544,6 +1544,13 @@ text = "Because it was not just a girl, not just the bit."
 note = "deliberate antithesis — fires once; it was not just a girl, it was Randi"
 
 [[ok]]
+fp   = "11151fb363dc"
+rule = "a-small"
+file = "scenes/recognized-method.md"
+text = "He laid it back — two fingers under the tail of it, setting it where it had been, a half-second longer over the silk than the errand needed — and under the wreckage of her entrance a small vanity lifted its head, absurd and unkillable: he'd noticed the scarf."
+note = "Author sign-off 2026-07-28: 'a small vanity lifted its head' — diminutive is intentional in the scarf-beat addition"
+
+[[ok]]
 fp   = "c720618f2fe2"
 rule = "filter-verbs"
 file = "scenes/recognized-method.md"
