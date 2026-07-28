@@ -32,7 +32,7 @@ He took the pie out of her hands. Not took it as in accepted it; she hadn't offe
 
 "Leave them on," he said. "Beauty like yours made for the gods and loaned out — I'm not going to insult the loan by complaining I have to look up."
 
-She had nothing for that. It was the trouble with him, it had been the trouble from the first afternoon: he said the true extravagant thing in the plain voice you'd use for the weather, and it went in under whatever you had up, and left you standing there with your eyes stinging and no idea what to do with your face. He had the pie in one hand. He stood aside to let her in, and she went, careful on the heels across his threshold, and he shut the door on the cold.
+She had nothing for that. It was the trouble with him, it had been the trouble from the first afternoon: he said the true extravagant thing in the plain voice you'd use to say hello, and it went in under whatever you had up, and left you standing there with your eyes stinging and no idea what to do with your face. He had the pie in one hand. He stood aside to let her in, and she went, careful on the heels across his threshold, and he shut the door on the cold.
 
 Inside it was warm and low-lit and smelled of him and of something he'd cooked earlier, and the ordinary domestic fact of that, the fact that he'd been here living his evening while she sat in the car working her buckles, steadied her enough to find the top of the speech again.
 
@@ -62,7 +62,7 @@ Her eyes had gone. He had been quiet the whole way through, and now he crossed t
 
 "Thank you for telling me what she said," he said.
 
-Which was such a strange thing to be thanked for that she laughed, wetly, once, and that was the end of the apology, though the evening went on a long time after it. What the contrition turned into somewhere along the way, first lighter and then not light at all, the way he took her to bed eventually, none of that belonged to the apology anymore. She stayed. She had not packed a bag; she had not let herself think past the front step, because to pack would have been to admit she'd come hoping for this, and she had only had him the once, and the hope was too big and too new to say even to herself. And still she stayed. The last clear thing she thought before the night took her under was that she'd carried the whole weight of it up the hill to his door for two days and he had simply reached over and lifted it out of her hands, like the pie.
+Which was such a strange thing to be thanked for that she laughed, wetly, once, and that was the end of the apology, though the evening went on a long time after it, first lighter and then not light at all. She stayed. She had not packed a bag; she had not let herself think past the front step, because to pack would have been to admit she'd come hoping for this, and she had only had him the once, and the hope was too big and too new to say even to herself. And still she stayed. The last clear thing she thought before the night took her under was that she'd carried the whole weight of it up the hill to his door for two days and he had simply reached over and lifted it out of her hands, like the pie.
 
 ---
 

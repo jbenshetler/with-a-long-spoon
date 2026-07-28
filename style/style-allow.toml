@@ -1544,6 +1544,34 @@ text = "Because it was not just a girl, not just the bit."
 note = "deliberate antithesis — fires once; it was not just a girl, it was Randi"
 
 [[ok]]
+fp   = "c720618f2fe2"
+rule = "filter-verbs"
+file = "scenes/recognized-method.md"
+text = "She felt her eyes go somewhere far off and her mouth fall open around a sound that didn't come, a soundless *oh*, her body saying two or three things at once that she had not agreed to have it say, in the middle of his kitchen, in the flat bright light of the afternoon, with the dishes still wet in the sink."
+note = "Author sign-off 2026-07-28: spank-paragraph filter cluster left standing"
+
+[[ok]]
+fp   = "cb72ae3f94cb"
+rule = "filter-verbs"
+file = "scenes/recognized-method.md"
+text = "She felt her own face change."
+note = "Author sign-off 2026-07-28: spank-paragraph filter cluster left standing"
+
+[[ok]]
+fp   = "fdbcbec88c01"
+rule = "filter-verbs"
+file = "scenes/recognized-method.md"
+text = "Her nipples drew up tight, to aching points, so fast and so hard it was nearly pain, and she felt them stand against the thin worn cotton where there was nothing under it to hide them."
+note = "Author sign-off 2026-07-28: spank-paragraph filter cluster left standing — cold readers praised the paragraph as the chapter's charged peak"
+
+[[ok]]
+fp   = "da2b2a455c6d"
+rule = "weather"
+file = "scenes/recognized-method.md"
+text = "Her hair, two nights slept on and washed in his shampoo and combed with nothing but her fingers, had become a thing with its own weather, and she had nothing to put it up with, nothing to pull it back, nothing of hers anywhere in the small ordered room."
+note = "Author sign-off 2026-07-28: hair 'its own weather' stands — cold reader (gpt-5.6-sol) logged it as a liked first-sighting motif"
+
+[[ok]]
 fp   = "423e7972c35a"
 rule = "the-way"
 file = "scenes/rock.md"
