@@ -1,22 +1,32 @@
-The text came Tuesday.
+# Lesson
 
-*Thursday — CW dancing. Pick you up at 8?*
-
-She stared at it. Then:
-
-*I can't. I don't know how to dance.*
-
-His reply came back quickly.
-
-*If you want to, I'll teach you. Pick you up at 7?*
-
-She sent back a heart.
-
-*Borrow boots*, he said.
+*Vee's POV, close third. Thursday Oct 29 (after {{Rock}}, before {{Broken In}} — the dawn resolve is its hard cut). Pace teaches Vee the three-step on the concrete pad by the dark gym, then the Rusty Nail: the erroneous proprietary jealousy, the displaced fight, his walk-out, the older bartender's correction. Plants the threesome's phrase — "don't think, just feel the lead."*
 
 ---
 
-She borrowed the boots from a girl on another wing and a keyhole shirt from the girl two doors down, who looked at her chest once and handed it over without being asked twice. Someone had told her that serious dancers wore jeans. She wasn't a serious dancer, but she didn't want to advertise it.
+Tuesday night Meg's door was open, two down. Vee was talking before she was all the way in.
+
+"He asked me dancing. Thursday night — country dancing. He's picking me up. I said I can't dance, I don't even know how, and he said, 'If you want to, I'll teach you.'" She sat on the end of Meg's bed and stood up again. "He moved the pickup to seven. So there's time. To teach me."
+
+"Uh-huh," Meg said.
+
+"If I want to. That's what he said. 'If you want to, I'll teach you.'"
+
+"Word for word, huh."
+
+Vee kept going. "He said to wear leather-soled shoes. Boots if I have them. Meg, I have sneakers, I have flats, I have church pumps, and I have heels I'd break my neck in."
+
+Meg was already turned to her closet. "Dana on Third has ropers. She's your size, close enough — dance girls trade, everybody's danced in everybody's boots." She came out with something on a hanger and held it against Vee. "Try this."
+
+The shirt was black, with a keyhole at the neckline that on Meg would have been a suggestion. Vee put it on and looked in the mirror and her hand started up and she put it back down. The keyhole had stopped suggesting.
+
+"Well," Meg said. "That's settled."
+
+"Is it too—"
+
+"Jeans," Meg said. "Serious dancers wear jeans."
+
+---
 
 She was dressed by five-thirty. She changed the shirt and changed it back.
 
@@ -80,7 +90,7 @@ They stopped.
 
 "That's not helpful."
 
-"I know." His hand firmed at her back, a degree and no more. "Again."
+His hand firmed at her back, a degree and no more. "Again."
 
 ---
 
@@ -110,7 +120,7 @@ She said nothing. She was busy.
 
 ---
 
-The CW was loud and warm when they walked in, the kind of warm that came from bodies and not from the heat being turned up — a real crowd, people who knew what they were doing. The floor was already moving. She stood in the entrance for a moment and felt the difference between the pad and this: the lesson had been private and deliberate, and this was alive, and she was going to be visible.
+The Rusty Nail was loud and warm when they walked in, the kind of warm that came from bodies and not from the heat being turned up — a real crowd, people who knew what they were doing. The floor was already moving. She stood in the entrance for a moment and felt the difference between the pad and this: the lesson had been private and deliberate, and this was alive, and she was going to be visible.
 
 He paid at the door, and a girl at the till stamped the backs of their hands and said *hey, Pace* like she'd been waiting all night to. They went looking for a table along the wall and didn't get there quickly. People knew him. A man caught his shoulder going past; two women came off the rail with their arms already open, and there was a round of hugs — the easy collision of people glad to see somebody. *This is Vee*, he said, each time, and each time she got a handshake or a one-armed hug meant mostly for him.
 
@@ -138,7 +148,7 @@ She thought: *He's making me.*
 
 She thought, briefly: *I wonder how many of them he's taught.*
 
-But the music was loud and he was a good lead and she let it go.
+But the music was loud and he was an effortless lead and she let it go.
 
 ---
 
