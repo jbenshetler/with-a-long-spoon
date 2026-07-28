@@ -1,4 +1,4 @@
-# Vee Tells Randi About We Find Out
+# One Bite
 
 The morning had teeth in it, and Vee came in out of the cold with her eyes still stinging, and the bistro took her all at once: warm, loud with the bright clatter of a good brunch, smelling of coffee and butter and cut citrus. There was no velvet here, nothing to drink the noise. The whole south side was glass, a long bright sun porch of it, and the late morning came through the white muntins and lay over the cloths and the people.
 

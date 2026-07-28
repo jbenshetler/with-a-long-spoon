@@ -1,6 +1,6 @@
-# Notes — Sheri — First Ride
+# Notes — Hills and Valleys
 
-*Companion to the drafted scene (`scenes/sheri-first-ride.md`) and its condensed (`meta-condensed-sheri-first-ride.md`). Holds the craft intent that is deliberately **not** on the page — the subtext, calibrations, and guards a continuity pass or a later Sheri scene will need. For what happens on the page, read the condensed; for surface beats, the scene.*
+*Companion to the drafted scene (`scenes/hills-and-valleys.md`) and its condensed (`meta-condensed-hills-and-valleys.md`). Holds the craft intent that is deliberately **not** on the page — the subtext, calibrations, and guards a continuity pass or a later Sheri scene will need. For what happens on the page, read the condensed; for surface beats, the scene.*
 
 ---
 

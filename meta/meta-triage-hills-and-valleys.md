@@ -1,4 +1,4 @@
-# Triage — Sheri — First Ride
+# Triage — Hills and Valleys
 
 *Cold-read feedback pass, 2026-07-27. Panel: claude-opus-4-8, gpt-5.5, gpt-5.6-sol (all read after {{Broken In}}). No prior triage.*
 
@@ -16,8 +16,8 @@
 ## Left standing — do not re-litigate
 
 - **The "weather" sentence** (*"She remarked on women the way other people remarked on the weather"*). gpt-5.6-sol alone felt it pre-explains Sheri; the linter double-flags it. Author keeps it: two of three readers quote it as a favorite and it is Sheri's defining note. Hits suppressed in `style/style-allow.toml`.
-- **"That's not finished" + the non-answer to "two of them at once"** — working exactly as designed (`meta-note-sheri-first-ride.md`: the warning in the one register Pace can parse, refused). gpt-5.6-sol's trust drop at this line is the intended effect, not friction.
-- **Title puzzle** — opus notes it's explicitly not their first ride; both opus and gpt-5.6-sol self-resolve to *the reader's* first ride, matching the chronology's "first rendered instance of a friendship that has existed throughout." That is the title's rationale (recorded here; it was previously unwritten). Title stands.
+- **"That's not finished" + the non-answer to "two of them at once"** — working exactly as designed (`meta-note-hills-and-valleys.md`: the warning in the one register Pace can parse, refused). gpt-5.6-sol's trust drop at this line is the intended effect, not friction.
+- **Title** — retitled **Hills and Valleys** (was "Sheri — First Ride"; author, 2026-07-28). The old title's puzzle (not their first ride; self-resolved by opus and gpt-5.6-sol to *the reader's* first ride) is moot. New rationale: surface = the literal terrain of the ride / the ups-and-downs idiom; charge = women's bodies in Sheri's register — this scene **begins Sheri's pattern of crassly commenting on women's bodies** ("hell of a backside on her, though"; "remarked on women the way other people remarked on the weather"), and the title accrues charge each time the pattern recurs. Sheri-flavored by design: the chapter is the reader's introduction to her.
 - **"She filed it somewhere"** — `file-verb` linter tic, but gpt-5.6-sol quoted it approvingly and independently rhymed it with the sorority "folder"/institution motif. Earning its keep.
 - **"That was the whole of it" closer** — `whole-of` tic, but praised by gpt-5.6-sol as "deliberately casual, though what Sheri learns is not casual at all." Stands.
 - **"Would have ridden farther with her"** (opus, gpt-5.5) — appetite, not friction; the scene is designed brief, and Sheri recurs ({{The Usual}}, {{Another Round}}). No lengthening.
@@ -25,4 +25,4 @@
 
 ## Housekeeping
 
-- Corrected stale date in `meta-condensed-sheri-first-ride.md`: ~Sat Oct 26 → ~Sat Oct 31 (Oct 31 is the Saturday matching the chronology entry).
+- Corrected stale date in `meta-condensed-hills-and-valleys.md`: ~Sat Oct 26 → ~Sat Oct 31 (Oct 31 is the Saturday matching the chronology entry).

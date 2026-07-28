@@ -1854,14 +1854,14 @@ note = "author-specified phrasing for Randi's scent"
 [[ok]]
 fp   = "45277862c267"
 rule = "the-way"
-file = "scenes/sheri-first-ride.md"
+file = "scenes/hills-and-valleys.md"
 text = "She remarked on women the way other people remarked on the weather, and she'd been doing it across this handlebar for two years, and it had never once cost him anything."
 note = "cold-read pass 2026-07-27: 2 of 3 reviewers quote the line as Sheri's defining note; author keeps it"
 
 [[ok]]
 fp   = "34d6138a0ede"
 rule = "weather"
-file = "scenes/sheri-first-ride.md"
+file = "scenes/hills-and-valleys.md"
 text = "She remarked on women the way other people remarked on the weather, and she'd been doing it across this handlebar for two years, and it had never once cost him anything."
 note = "cold-read pass 2026-07-27: literal-adjacent simile is Sheri's defining line; author keeps it"
 
