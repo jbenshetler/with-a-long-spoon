@@ -62,6 +62,8 @@ Then Randi clicked.
 
 The point opened into a record and the record opened into a name, and the name was Miranda Holdings, LLC.
 
+Randi read it. Vee watched her do it — watched her eyes go down the short column once, fast, like a person reading a thing she already disbelieved, and then again from the top, slower, as if the second pass might turn up the line that took it back. It didn't.
+
 Vee read it before she knew she was reading it. She knew the name Miranda — everyone who knew Randi knew it, the long formal version on the chapter paperwork, the name Randi had been given and filed down to something a person could stand to answer to. And here it was in the small gray print of a government page, sitting over the worst point in the county, over a short column of numbers Vee needed no gift for math to read: the loans, several of them, one company under another, and beside each loan the thing the loan had been for and had not done.
 
 She knew whose it was.
@@ -74,7 +76,7 @@ Randi's face was doing very little, and the very little was the whole of it. The
 
 "Cheating bastards," Randi said.
 
-Low, to the screen. Two words, and nothing let out after them — no *these,* no *those,* no clause to fold the plural down into something a person could hold — just the two words set loose in the glass room. And Vee, watching the person and not the page, heard them land wrong. Heard that they weren't what you said about strangers, that they'd come up out of somewhere with a floor under it. She said nothing.
+Low, to the screen. Two words, and nothing let out after them — no *these,* no *those,* no clause to fold the plural down into something a person could hold — just the two words set loose in the glass room. And Vee, watching the person and not the page, heard them land wrong. There was nothing practiced in them, nothing worn smooth with use; they came out ragged, a thing being said for the first time, and aimed too near to be meant for strangers. She said nothing.
 
 Cassie couldn't see the screen. She was on the far side of Vee, and the record was small and canted toward Randi, and all Cassie had was the graph still open on her own laptop, the point on it, and the two words, which to Cassie were agreement.
 
