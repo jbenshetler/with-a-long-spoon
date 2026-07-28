@@ -22,9 +22,9 @@ When he ran down Sheri was looking at him sideways, the look she got when she'd 
 
 "Listen to you," she said.
 
-He didn't know what there was to listen to. He said nothing.
+He didn't know what there was to listen to.
 
-The road tilted up. Sheri put her head down and pulled away from him the way she always did, and he watched her go. Her bike was a small frame, not much bigger than a child's, and there was never as much of her as the work she got out of it: the whole small engine of her standing on the pedals and driving the grade, the bleached length of her ponytail swinging across her back with each pump of her legs. He marvelled at it the way he always did, and saved his breath for the hill, and came up at the top a length behind.
+The road tilted up. Sheri put her head down and pulled away from him as she always did, and he watched her go. Her bike was a small frame, not much bigger than a child's, and there was never as much of her as the work she got out of it: the whole small engine of her standing on the pedals and driving the grade, the bleached length of her ponytail swinging across her back with each pump of her legs. He marvelled at it, as ever, and saved his breath for the hill, and came up at the top a length behind.
 
 She was waiting there, soft-pedaling, not as winded as would have suited either of them.
 
@@ -36,7 +36,7 @@ Sheri laughed, pleased, and let it go.
 
 "What happened to the pale sorority chick?"
 
-"That's not finished."
+"Randi. That's not finished."
 
 "Huh." She filed it somewhere. The road went by.
 

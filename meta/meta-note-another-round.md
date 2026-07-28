@@ -18,7 +18,7 @@ The book keeps its single best piece of Pace-decency — the disowning and his r
 ## How to render the backstory without breaking Sheri
 
 - **Her register, not the novel's.** Dry, fierce, working/country idiom, **zero self-pity.** The tears were *then,* recounted flat now. She would not dramatize her own pain — that's not who she is.
-- **She needles even while she testifies.** She punctures Pace's intellectualism (the patent-lecture he'd give an empty room) so the warmth never goes saccharine — affection rendered as deflation.
+- **She needles even while she testifies.** She punctures Pace's intellectualism so the warmth never goes saccharine — affection rendered as deflation.
 - **Weight on Pace, not on Sheri.** Her story is the vehicle; his constancy is the cargo. Render his *specific* restraint — that he didn't say *they'll come around,* because it would insult the size of what she lost — not generic niceness. **Bacon** cheeseburgers, after a ride.
 - **Not a confessional.** Barroom talk in his absences, kept kinetic by the drinking and the drink-runs, not a static heart-to-heart. (The side-by-side-movement format guard in `meta-arch-sheri.md` is about *Pace's* leak; it isn't operative here, since Pace isn't the one talking.)
 
