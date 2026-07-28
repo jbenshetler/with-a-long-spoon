@@ -50,7 +50,7 @@ Randi's smile arranged again.
 
 Sloane laughed her small laugh, the laugh that meant nothing on its own and was therefore available for anything. She set her coffee on the side table.
 
-"Wait — is that the gray pickup I keep seeing parked behind Hahn?"
+"Wait — is that the white pickup I keep seeing parked behind Hahn?"
 
 "I — yeah," Randi said. "Probably."
 

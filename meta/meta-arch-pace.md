@@ -8,6 +8,10 @@
 ## Aliases 
 Peter
 
+## Fixed Surface Facts
+
+- **Truck: an old white pickup** — the white gone dull with age (reads gray at a distance or in bad weather; planted at {{Leave No Trace}}). Canon color is white everywhere.
+
 ## Core Claim
 
 Pace sees Vee, fully, and she lets him. The seeing is the love and the love is real.

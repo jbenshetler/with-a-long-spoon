@@ -4,7 +4,7 @@
 
 ---
 
-The truck was in the drive when she pulled in, dark against the trees, and past it the house held its light low in the windows the way it always did, lamplight and not the overhead, the glow of a room already warm. He would have brought the heat up hours ago. He did that before she came, every time, so she would never once be cold under his roof; she had worked that out a long while back without his ever saying it, and it had gone through her a little every time since. It went through her now, and she hated that it did.
+The truck was in the drive when she pulled in, pale against the trees, and past it the house held its light low in the windows the way it always did, lamplight and not the overhead, the glow of a room already warm. He would have brought the heat up hours ago. He did that before she came, every time, so she would never once be cold under his roof; she had worked that out a long while back without his ever saying it, and it had gone through her a little every time since. It went through her now, and she hated that it did.
 
 She sat with the engine ticking down and made herself feel the wanting all the way through, because the wanting was the whole trouble. If it had been only the food, only his hands, only the warm, she could have taken it for what it was and driven home light. It was so much more than that to her. That was the thing she could not put down, and it had kept her up two nights running, holding a smell in the dark that told her nothing. What she could not know was whether it was more than that to him.
 
