@@ -34,7 +34,7 @@ Cassie found her in the crush after, by the coffee no one was drinking, and took
 
 Vee took the phone and knew to the heartbeat what second it was — the one where she'd decided, and her body had come up to meet the decision. None of that was in the picture. Or all of it was, and only she would ever see it there.
 
-She looked a moment longer, and then, because he'd been sorry to miss it and this was the nearest thing to handing it to him, she sent it to Pace — the whole frame, uncropped, the leg and the shoulder and the woman who had it handled. In his Berkeley hotel between sessions, he'd open it and watch the dress do the single thing he'd built it to do and hadn't got to see. He would have no idea what else was in the frame. That part was hers.
+She looked a moment longer, and then, because he'd been sorry to miss it and this was the nearest thing to handing it to him, she sent it to Pace — the whole frame, uncropped, the leg and the shoulder and the woman who had it handled. In his Berkeley hotel between sessions, he'd open it and see the dress do the single thing he'd built it to do and hadn't got to watch. He would have no idea what else was in the frame. That part was hers.
 
 "Come on, streetlight." Cassie steered her by the elbow toward the doors. "I'll buy you a terrible sandwich and you can be famous at me."
 
