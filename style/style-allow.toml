@@ -725,6 +725,20 @@ text = "It's the thing that makes all the rest of you read the way it does."
 note = "Pace's dialogue — his cataloguing cadence as he names her body; voice, not narrative telling. Do not sanitize."
 
 [[ok]]
+fp   = "45277862c267"
+rule = "the-way"
+file = "scenes/hills-and-valleys.md"
+text = "She remarked on women the way other people remarked on the weather, and she'd been doing it across this handlebar for two years, and it had never once cost him anything."
+note = "cold-read pass 2026-07-27: 2 of 3 reviewers quote the line as Sheri's defining note; author keeps it"
+
+[[ok]]
+fp   = "34d6138a0ede"
+rule = "weather"
+file = "scenes/hills-and-valleys.md"
+text = "She remarked on women the way other people remarked on the weather, and she'd been doing it across this handlebar for two years, and it had never once cost him anything."
+note = "cold-read pass 2026-07-27: literal-adjacent simile is Sheri's defining line; author keeps it"
+
+[[ok]]
 fp   = "a747dd47168c"
 rule = "there-was-were"
 file = "scenes/how-its-done.md"
@@ -1850,20 +1864,6 @@ rule = "x-not-y"
 file = "scenes/see-you-later.md"
 text = "Randi dropped into the seat on Vee's other side, the aisle side, so that Vee was between her and Cassie now, and a warm wave of her came with it, citrus, not sweet."
 note = "author-specified phrasing for Randi's scent"
-
-[[ok]]
-fp   = "45277862c267"
-rule = "the-way"
-file = "scenes/hills-and-valleys.md"
-text = "She remarked on women the way other people remarked on the weather, and she'd been doing it across this handlebar for two years, and it had never once cost him anything."
-note = "cold-read pass 2026-07-27: 2 of 3 reviewers quote the line as Sheri's defining note; author keeps it"
-
-[[ok]]
-fp   = "34d6138a0ede"
-rule = "weather"
-file = "scenes/hills-and-valleys.md"
-text = "She remarked on women the way other people remarked on the weather, and she'd been doing it across this handlebar for two years, and it had never once cost him anything."
-note = "cold-read pass 2026-07-27: literal-adjacent simile is Sheri's defining line; author keeps it"
 
 [[ok]]
 fp   = "30cee1a108da"
@@ -3236,6 +3236,314 @@ rule = "x-not-y"
 file = "scenes/water-wings.md"
 text = "Not hard, not asking; just clocking that her friend had gone off somewhere and come back with her face on wrong."
 note = "Author sign-off 2026-07-09: each earns its place — plain 'too much' beat (there-was), load-bearing underwater weightlessness (the-way), sensory list (there-was), Cassie's rhythm (x-not-y)."
+
+[[ok]]
+fp   = "0c58f2544ed2"
+rule = "a-small"
+file = "scenes/we-find-out.md"
+text = "Her tongue touched her lip before she knew it meant to, a small moist motion she felt more than made, there and gone."
+note = "Cold-reader feedback pass 2026-07-28: remaining hits reviewed with author and accepted — filter verbs/the-way here are load-bearing (body-betrayal dissociation register, First Night rhyme, decided-to-keep line); 'undid her' is emotional not climactic; hinge-sentence 'there was' is canonical."
+
+[[ok]]
+fp   = "bd27e4fc9588"
+rule = "a-small"
+file = "scenes/we-find-out.md"
+text = "He pumped her slowly, a few times, while she stood there and let him, and then he drew his finger out, slow, and she felt the leaving of it like a small cry she didn't make."
+note = "Cold-reader feedback pass 2026-07-28: remaining hits reviewed with author and accepted — filter verbs/the-way here are load-bearing (body-betrayal dissociation register, First Night rhyme, decided-to-keep line); 'undid her' is emotional not climactic; hinge-sentence 'there was' is canonical."
+
+[[ok]]
+fp   = "2ca666a3f669"
+rule = "began-to"
+file = "scenes/we-find-out.md"
+text = "Then it began to go up, slow, his eyes on hers the whole time so she had nowhere to put her own."
+note = "Cold-reader feedback pass 2026-07-28: remaining hits reviewed with author and accepted — filter verbs/the-way here are load-bearing (body-betrayal dissociation register, First Night rhyme, decided-to-keep line); 'undid her' is emotional not climactic; hinge-sentence 'there was' is canonical."
+
+[[ok]]
+fp   = "345ea83923ad"
+rule = "began-to"
+file = "scenes/we-find-out.md"
+text = "She reached for the waist of her underwear and started to push it down fast, to get it over with, and he stopped her with a word."
+note = "Cold-reader feedback pass 2026-07-28: remaining hits reviewed with author and accepted — filter verbs/the-way here are load-bearing (body-betrayal dissociation register, First Night rhyme, decided-to-keep line); 'undid her' is emotional not climactic; hinge-sentence 'there was' is canonical."
+
+[[ok]]
+fp   = "1a963ad8723d"
+rule = "filter-verbs"
+file = "scenes/we-find-out.md"
+text = "He felt her go still."
+note = "Cold-reader feedback pass 2026-07-28: remaining hits reviewed with author and accepted — filter verbs/the-way here are load-bearing (body-betrayal dissociation register, First Night rhyme, decided-to-keep line); 'undid her' is emotional not climactic; hinge-sentence 'there was' is canonical."
+
+[[ok]]
+fp   = "1c2ad07a3dd0"
+rule = "filter-verbs"
+file = "scenes/we-find-out.md"
+text = "Her tongue touched her lip before she knew it meant to, a small moist motion she felt more than made, there and gone."
+note = "Cold-reader feedback pass 2026-07-28: remaining hits reviewed with author and accepted — filter verbs/the-way here are load-bearing (body-betrayal dissociation register, First Night rhyme, decided-to-keep line); 'undid her' is emotional not climactic; hinge-sentence 'there was' is canonical."
+
+[[ok]]
+fp   = "1d67c50debda"
+rule = "filter-verbs"
+file = "scenes/we-find-out.md"
+text = "His hand kept going, slow enough that she could have stepped out of it the whole way and didn't, and when it reached the gusset of her underwear he pressed the flat of two fingers there and felt the damp heat of her come through it, and he smiled, and she heard her own breath go ragged, and she nodded."
+note = "Cold-reader feedback pass 2026-07-28: remaining hits reviewed with author and accepted — filter verbs/the-way here are load-bearing (body-betrayal dissociation register, First Night rhyme, decided-to-keep line); 'undid her' is emotional not climactic; hinge-sentence 'there was' is canonical."
+
+[[ok]]
+fp   = "4a1bbe27e5b8"
+rule = "filter-verbs"
+file = "scenes/we-find-out.md"
+text = "He pumped her slowly, a few times, while she stood there and let him, and then he drew his finger out, slow, and she felt the leaving of it like a small cry she didn't make."
+note = "Cold-reader feedback pass 2026-07-28: remaining hits reviewed with author and accepted — filter verbs/the-way here are load-bearing (body-betrayal dissociation register, First Night rhyme, decided-to-keep line); 'undid her' is emotional not climactic; hinge-sentence 'there was' is canonical."
+
+[[ok]]
+fp   = "73a12fb9296c"
+rule = "filter-verbs"
+file = "scenes/we-find-out.md"
+text = "She knew he felt it because he stopped too, and held her there a moment against him, reading it."
+note = "Cold-reader feedback pass 2026-07-28: remaining hits reviewed with author and accepted — filter verbs/the-way here are load-bearing (body-betrayal dissociation register, First Night rhyme, decided-to-keep line); 'undid her' is emotional not climactic; hinge-sentence 'there was' is canonical."
+
+[[ok]]
+fp   = "7c7527a4e3bd"
+rule = "filter-verbs"
+file = "scenes/we-find-out.md"
+text = "Her head just went down and up, small, and she felt about three feet tall."
+note = "Cold-reader feedback pass 2026-07-28: remaining hits reviewed with author and accepted — filter verbs/the-way here are load-bearing (body-betrayal dissociation register, First Night rhyme, decided-to-keep line); 'undid her' is emotional not climactic; hinge-sentence 'there was' is canonical."
+
+[[ok]]
+fp   = "97642a78a070"
+rule = "filter-verbs"
+file = "scenes/we-find-out.md"
+text = "He gave her another, a real one this time, and her hips lifted into it before they sank, offering the thing her mouth was still refusing, and she heard herself deny it again even as she rose to meet his hand, and she could not have said which one of them she was lying to."
+note = "Cold-reader feedback pass 2026-07-28: remaining hits reviewed with author and accepted — filter verbs/the-way here are load-bearing (body-betrayal dissociation register, First Night rhyme, decided-to-keep line); 'undid her' is emotional not climactic; hinge-sentence 'there was' is canonical."
+
+[[ok]]
+fp   = "a0e722492f1e"
+rule = "filter-verbs"
+file = "scenes/we-find-out.md"
+text = "Can I come by early?* It sat there long enough that she felt it, the nakedness of having asked."
+note = "Cold-reader feedback pass 2026-07-28: remaining hits reviewed with author and accepted — filter verbs/the-way here are load-bearing (body-betrayal dissociation register, First Night rhyme, decided-to-keep line); 'undid her' is emotional not climactic; hinge-sentence 'there was' is canonical."
+
+[[ok]]
+fp   = "e33b1c6a15c6"
+rule = "filter-verbs"
+file = "scenes/we-find-out.md"
+text = "Through the dazzle she watched him get up and go out and come back with a glass of juice."
+note = "Cold-reader feedback pass 2026-07-28: remaining hits reviewed with author and accepted — filter verbs/the-way here are load-bearing (body-betrayal dissociation register, First Night rhyme, decided-to-keep line); 'undid her' is emotional not climactic; hinge-sentence 'there was' is canonical."
+
+[[ok]]
+fp   = "e7ca2d56bd36"
+rule = "filter-verbs"
+file = "scenes/we-find-out.md"
+text = "She heard the smile in it."
+note = "Cold-reader feedback pass 2026-07-28: remaining hits reviewed with author and accepted — filter verbs/the-way here are load-bearing (body-betrayal dissociation register, First Night rhyme, decided-to-keep line); 'undid her' is emotional not climactic; hinge-sentence 'there was' is canonical."
+
+[[ok]]
+fp   = "08112d55ba8f"
+rule = "the-way"
+file = "scenes/we-find-out.md"
+text = "Afterward she lay where he'd left her, open, arms and legs flung wide, too far gone to close herself the way she always closed herself, her whole body humming and stupid and unguarded."
+note = "Cold-reader feedback pass 2026-07-28: remaining hits reviewed with author and accepted — filter verbs/the-way here are load-bearing (body-betrayal dissociation register, First Night rhyme, decided-to-keep line); 'undid her' is emotional not climactic; hinge-sentence 'there was' is canonical."
+
+[[ok]]
+fp   = "12e3c4aa45c5"
+rule = "the-way"
+file = "scenes/we-find-out.md"
+text = "It hadn't been part of any bet he'd named, but she was already too far down into the warm dim place she'd gone to argue the rules, and so she did it the way he wanted, peeling the satin down over her hips and her thighs and stepping out of it under his eyes, and then her top, up and over her head, and then the bra, which she had to reach back and unhook herself, the last of her cover, and let fall."
+note = "Cold-reader feedback pass 2026-07-28: remaining hits reviewed with author and accepted — filter verbs/the-way here are load-bearing (body-betrayal dissociation register, First Night rhyme, decided-to-keep line); 'undid her' is emotional not climactic; hinge-sentence 'there was' is canonical."
+
+[[ok]]
+fp   = "632249fc61a4"
+rule = "the-way"
+file = "scenes/we-find-out.md"
+text = "He went into her easily, too easily, all of him this time, and her body took him the way it had taken the one finger, without a word of argument, as though it had settled the matter hours ago and was only waiting for her to stop asking."
+note = "Cold-reader feedback pass 2026-07-28: remaining hits reviewed with author and accepted — filter verbs/the-way here are load-bearing (body-betrayal dissociation register, First Night rhyme, decided-to-keep line); 'undid her' is emotional not climactic; hinge-sentence 'there was' is canonical."
+
+[[ok]]
+fp   = "82806a56780a"
+rule = "the-way"
+file = "scenes/we-find-out.md"
+text = "She feinted and his hands closed on air, and she laughed, the shorts streaming from her fist, drunk on the open floor and her own speed and the way his eyes kept dropping to where he had no clothes."
+note = "Cold-reader feedback pass 2026-07-28: remaining hits reviewed with author and accepted — filter verbs/the-way here are load-bearing (body-betrayal dissociation register, First Night rhyme, decided-to-keep line); 'undid her' is emotional not climactic; hinge-sentence 'there was' is canonical."
+
+[[ok]]
+fp   = "91af0431415b"
+rule = "the-way"
+file = "scenes/we-find-out.md"
+text = "\"You're no fun,\" she pouted, and hit him in the thigh with the side of her fist, the way you hit a door that sticks."
+note = "Cold-reader feedback pass 2026-07-28: remaining hits reviewed with author and accepted — filter verbs/the-way here are load-bearing (body-betrayal dissociation register, First Night rhyme, decided-to-keep line); 'undid her' is emotional not climactic; hinge-sentence 'there was' is canonical."
+
+[[ok]]
+fp   = "9f481e11e2b8"
+rule = "the-way"
+file = "scenes/we-find-out.md"
+text = "She ran a white washcloth under the warm tap and pressed it to her neck, her chest, between her legs, and flinched at the sticky animal evidence of herself the way she always did."
+note = "Cold-reader feedback pass 2026-07-28: remaining hits reviewed with author and accepted — filter verbs/the-way here are load-bearing (body-betrayal dissociation register, First Night rhyme, decided-to-keep line); 'undid her' is emotional not climactic; hinge-sentence 'there was' is canonical."
+
+[[ok]]
+fp   = "ab92a5d75fed"
+rule = "the-way"
+file = "scenes/we-find-out.md"
+text = "He looked at her the way he had looked at her that first evening, under the tree, when he'd asked if he could kiss her and she'd told him she didn't kiss a man she'd known a few days, and he had smiled as though she'd handed him something true and fine about herself."
+note = "Cold-reader feedback pass 2026-07-28: remaining hits reviewed with author and accepted — filter verbs/the-way here are load-bearing (body-betrayal dissociation register, First Night rhyme, decided-to-keep line); 'undid her' is emotional not climactic; hinge-sentence 'there was' is canonical."
+
+[[ok]]
+fp   = "cac183ddd6bb"
+rule = "the-way"
+file = "scenes/we-find-out.md"
+text = "She just knew it was there, the way you know a thing about a person you've decided to keep."
+note = "Cold-reader feedback pass 2026-07-28: remaining hits reviewed with author and accepted — filter verbs/the-way here are load-bearing (body-betrayal dissociation register, First Night rhyme, decided-to-keep line); 'undid her' is emotional not climactic; hinge-sentence 'there was' is canonical."
+
+[[ok]]
+fp   = "093bc9658833"
+rule = "there-was-were"
+file = "scenes/we-find-out.md"
+text = "The whole length of it was coated, gleaming in the lamplight, more of her than she would ever have admitted she had in her, and that was the old shame doubled, the wet and then the shameful plenty of the wet, the thing about her body she had spent her whole life trying to keep secret even from herself, held up now in the soft light where they could both see exactly how much of it there was."
+note = "Cold-reader feedback pass 2026-07-28: remaining hits reviewed with author and accepted — filter verbs/the-way here are load-bearing (body-betrayal dissociation register, First Night rhyme, decided-to-keep line); 'undid her' is emotional not climactic; hinge-sentence 'there was' is canonical."
+
+[[ok]]
+fp   = "0f15144ff3dc"
+rule = "there-was-were"
+file = "scenes/we-find-out.md"
+text = "There was no note."
+note = "Cold-reader feedback pass 2026-07-28: remaining hits reviewed with author and accepted — filter verbs/the-way here are load-bearing (body-betrayal dissociation register, First Night rhyme, decided-to-keep line); 'undid her' is emotional not climactic; hinge-sentence 'there was' is canonical."
+
+[[ok]]
+fp   = "29bc7bfb5b4f"
+rule = "there-was-were"
+file = "scenes/we-find-out.md"
+text = "She had given herself up to him by degrees because he'd said to, and there was a kind of terrible ceremony in it that her body answered to even as her face burned."
+note = "Cold-reader feedback pass 2026-07-28: remaining hits reviewed with author and accepted — filter verbs/the-way here are load-bearing (body-betrayal dissociation register, First Night rhyme, decided-to-keep line); 'undid her' is emotional not climactic; hinge-sentence 'there was' is canonical."
+
+[[ok]]
+fp   = "2bfb4e7f8794"
+rule = "there-was-were"
+file = "scenes/we-find-out.md"
+text = "There was nothing to brace against."
+note = "Cold-reader feedback pass 2026-07-28: remaining hits reviewed with author and accepted — filter verbs/the-way here are load-bearing (body-betrayal dissociation register, First Night rhyme, decided-to-keep line); 'undid her' is emotional not climactic; hinge-sentence 'there was' is canonical."
+
+[[ok]]
+fp   = "2dfa682647cf"
+rule = "there-was-were"
+file = "scenes/we-find-out.md"
+text = "There was none."
+note = "Cold-reader feedback pass 2026-07-28: remaining hits reviewed with author and accepted — filter verbs/the-way here are load-bearing (body-betrayal dissociation register, First Night rhyme, decided-to-keep line); 'undid her' is emotional not climactic; hinge-sentence 'there was' is canonical."
+
+[[ok]]
+fp   = "378237a2b1f1"
+rule = "there-was-were"
+file = "scenes/we-find-out.md"
+text = "There were more of them than a person could go through quickly, far more, and the plenty of them said the thing no note would have, that he meant to be looking at her hair a long while yet."
+note = "Cold-reader feedback pass 2026-07-28: remaining hits reviewed with author and accepted — filter verbs/the-way here are load-bearing (body-betrayal dissociation register, First Night rhyme, decided-to-keep line); 'undid her' is emotional not climactic; hinge-sentence 'there was' is canonical."
+
+[[ok]]
+fp   = "3b1d972d2dec"
+rule = "there-was-were"
+file = "scenes/we-find-out.md"
+text = "He was asking the same question the finger had asked, except there was so much more of him to ask it with now."
+note = "Cold-reader feedback pass 2026-07-28: remaining hits reviewed with author and accepted — filter verbs/the-way here are load-bearing (body-betrayal dissociation register, First Night rhyme, decided-to-keep line); 'undid her' is emotional not climactic; hinge-sentence 'there was' is canonical."
+
+[[ok]]
+fp   = "575a7fb0fce7"
+rule = "there-was-were"
+file = "scenes/we-find-out.md"
+text = "There was nothing she could do about what it showed him: her nipples had drawn up hard and stood out from her, tight and dark and plain, the spanking and the wanting both written on them, and he looked, and she knew he looked, and the worst of it was that they were not answering the spanks he'd already given so much as asking for the ones he hadn't."
+note = "Cold-reader feedback pass 2026-07-28: remaining hits reviewed with author and accepted — filter verbs/the-way here are load-bearing (body-betrayal dissociation register, First Night rhyme, decided-to-keep line); 'undid her' is emotional not climactic; hinge-sentence 'there was' is canonical."
+
+[[ok]]
+fp   = "90c395d898d7"
+rule = "there-was-were"
+file = "scenes/we-find-out.md"
+text = "He drew the satin aside, and there was his finger, and she braced somewhere low for it to be difficult, for there to be at least the dignity of a threshold to cross."
+note = "Cold-reader feedback pass 2026-07-28: remaining hits reviewed with author and accepted — filter verbs/the-way here are load-bearing (body-betrayal dissociation register, First Night rhyme, decided-to-keep line); 'undid her' is emotional not climactic; hinge-sentence 'there was' is canonical."
+
+[[ok]]
+fp   = "9babec20752b"
+rule = "there-was-were"
+file = "scenes/we-find-out.md"
+text = "Shame wants a witness, and in the small lit country of his bed there was no such thing as a witness, anywhere, and for a little while she let her body say the thing her mouth still wouldn't, and was not ashamed."
+note = "Cold-reader feedback pass 2026-07-28: remaining hits reviewed with author and accepted — filter verbs/the-way here are load-bearing (body-betrayal dissociation register, First Night rhyme, decided-to-keep line); 'undid her' is emotional not climactic; hinge-sentence 'there was' is canonical."
+
+[[ok]]
+fp   = "f22029c3727e"
+rule = "undone"
+file = "scenes/we-find-out.md"
+text = "He hadn't planned any of what came next, she could tell, and that was the thing that undid her."
+note = "Cold-reader feedback pass 2026-07-28: remaining hits reviewed with author and accepted — filter verbs/the-way here are load-bearing (body-betrayal dissociation register, First Night rhyme, decided-to-keep line); 'undid her' is emotional not climactic; hinge-sentence 'there was' is canonical."
+
+[[ok]]
+fp   = "20fe5a9e56ff"
+rule = "warm"
+file = "scenes/we-find-out.md"
+text = "It hadn't been part of any bet he'd named, but she was already too far down into the warm dim place she'd gone to argue the rules, and so she did it the way he wanted, peeling the satin down over her hips and her thighs and stepping out of it under his eyes, and then her top, up and over her head, and then the bra, which she had to reach back and unhook herself, the last of her cover, and let fall."
+note = "Cold-reader feedback pass 2026-07-28: remaining hits reviewed with author and accepted — filter verbs/the-way here are load-bearing (body-betrayal dissociation register, First Night rhyme, decided-to-keep line); 'undid her' is emotional not climactic; hinge-sentence 'there was' is canonical."
+
+[[ok]]
+fp   = "3dcdb21643c1"
+rule = "warm"
+file = "scenes/we-find-out.md"
+text = "He didn't move it for a moment, just let it rest there, warm and hard, the palm of him rough as a board from the gym and the wood, so that even still it was a fact she couldn't ignore."
+note = "Cold-reader feedback pass 2026-07-28: remaining hits reviewed with author and accepted — filter verbs/the-way here are load-bearing (body-betrayal dissociation register, First Night rhyme, decided-to-keep line); 'undid her' is emotional not climactic; hinge-sentence 'there was' is canonical."
+
+[[ok]]
+fp   = "60a42bb381a7"
+rule = "warm"
+file = "scenes/we-find-out.md"
+text = "She ran a white washcloth under the warm tap and pressed it to her neck, her chest, between her legs, and flinched at the sticky animal evidence of herself the way she always did."
+note = "Cold-reader feedback pass 2026-07-28: remaining hits reviewed with author and accepted — filter verbs/the-way here are load-bearing (body-betrayal dissociation register, First Night rhyme, decided-to-keep line); 'undid her' is emotional not climactic; hinge-sentence 'there was' is canonical."
+
+[[ok]]
+fp   = "64195aae13fc"
+rule = "warm"
+file = "scenes/we-find-out.md"
+text = "This close he smelled of himself, warm and dark and a little animal under the gym, muskier than the clean she knew, and she breathed it in and didn't say so."
+note = "Cold-reader feedback pass 2026-07-28: remaining hits reviewed with author and accepted — filter verbs/the-way here are load-bearing (body-betrayal dissociation register, First Night rhyme, decided-to-keep line); 'undid her' is emotional not climactic; hinge-sentence 'there was' is canonical."
+
+[[ok]]
+fp   = "8ce7cb0fdbbf"
+rule = "warm"
+file = "scenes/we-find-out.md"
+text = "His hand came to rest over her, warm and hard and rough, the whole of it covering her, and for a long moment he did nothing at all, only gentled her, slow, until the skin woke under his palm and began, on its own, to want the thing it was afraid of."
+note = "Cold-reader feedback pass 2026-07-28: remaining hits reviewed with author and accepted — filter verbs/the-way here are load-bearing (body-betrayal dissociation register, First Night rhyme, decided-to-keep line); 'undid her' is emotional not climactic; hinge-sentence 'there was' is canonical."
+
+[[ok]]
+fp   = "99b5724e2b4b"
+rule = "warm"
+file = "scenes/we-find-out.md"
+text = "No theatre, no counting, no audience, only his rough hand and her held breath and the slow heat blooming up from where he'd touched her, and then his palm again, soothing the place it had struck, and his mouth, once, pressed to the warm pink of her, so gently that she made a sound she was ashamed of."
+note = "Cold-reader feedback pass 2026-07-28: remaining hits reviewed with author and accepted — filter verbs/the-way here are load-bearing (body-betrayal dissociation register, First Night rhyme, decided-to-keep line); 'undid her' is emotional not climactic; hinge-sentence 'there was' is canonical."
+
+[[ok]]
+fp   = "9a01b4d0c0a0"
+rule = "whole-of"
+file = "scenes/we-find-out.md"
+text = "He raised his eyebrows and tipped his head a little to one side and smiled at her and said nothing at all, and did not move the finger from where it was between them, and that was the whole of his answer."
+note = "Cold-reader feedback pass 2026-07-28: remaining hits reviewed with author and accepted — filter verbs/the-way here are load-bearing (body-betrayal dissociation register, First Night rhyme, decided-to-keep line); 'undid her' is emotional not climactic; hinge-sentence 'there was' is canonical."
+
+[[ok]]
+fp   = "dfc09dd9ec4f"
+rule = "whole-of"
+file = "scenes/we-find-out.md"
+text = "His hand came to rest over her, warm and hard and rough, the whole of it covering her, and for a long moment he did nothing at all, only gentled her, slow, until the skin woke under his palm and began, on its own, to want the thing it was afraid of."
+note = "Cold-reader feedback pass 2026-07-28: remaining hits reviewed with author and accepted — filter verbs/the-way here are load-bearing (body-betrayal dissociation register, First Night rhyme, decided-to-keep line); 'undid her' is emotional not climactic; hinge-sentence 'there was' is canonical."
+
+[[ok]]
+fp   = "0d16bad3f9f8"
+rule = "x-not-y"
+file = "scenes/we-find-out.md"
+text = "She braced for that, for loudness, for a show, strung tight between dread and a wanting she would not have said aloud, not knowing what was coming, only that it was."
+note = "Cold-reader feedback pass 2026-07-28: remaining hits reviewed with author and accepted — filter verbs/the-way here are load-bearing (body-betrayal dissociation register, First Night rhyme, decided-to-keep line); 'undid her' is emotional not climactic; hinge-sentence 'there was' is canonical."
+
+[[ok]]
+fp   = "2c3f7e0248f9"
+rule = "x-not-y"
+file = "scenes/we-find-out.md"
+text = "He spanked her again, not hard, and she made a sound and bit it back."
+note = "Cold-reader feedback pass 2026-07-28: remaining hits reviewed with author and accepted — filter verbs/the-way here are load-bearing (body-betrayal dissociation register, First Night rhyme, decided-to-keep line); 'undid her' is emotional not climactic; hinge-sentence 'there was' is canonical."
+
+[[ok]]
+fp   = "57ebc244e910"
+rule = "x-not-y"
+file = "scenes/we-find-out.md"
+text = "He came on grinning, but walking, not the run she wanted, and it infuriated her, so to make him come she pulled her top up, the bra with it, a clumsy yank, and flashed him, her breasts bare for the length of a breath before she hauled it all back down."
+note = "Cold-reader feedback pass 2026-07-28: remaining hits reviewed with author and accepted — filter verbs/the-way here are load-bearing (body-betrayal dissociation register, First Night rhyme, decided-to-keep line); 'undid her' is emotional not climactic; hinge-sentence 'there was' is canonical."
 
 [[ok]]
 fp   = "10b836c4567f"
