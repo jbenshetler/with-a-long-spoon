@@ -98,7 +98,7 @@ That was all of it. There was no door left open for her to step through, and she
 
 Then it passed out of him. The level thing let go and his face came back to her, and he reached over and moved her wine an inch closer, as if that were the thing that had wanted doing.
 
-"Sheri's coming over," he said. "We ride together on the weekends. She'll bring a pie and pretend she made it." The fondness in it was plain and unguarded, a man talking about a friend.
+"Sheri's coming over," he said. "We cycle together. She'll bring a pie and pretend she made it." The fondness in it was plain and unguarded, a man talking about a friend.
 
 The flicker came before she could stop it, small and low and all her own, another woman at his table on a day meant for family. "What about her parents?" she said. "Her people."
 
