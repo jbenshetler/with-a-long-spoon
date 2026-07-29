@@ -1698,6 +1698,55 @@ text = "Her voice opened all the way up."
 note = "'opened all the way up' is idiom, not the filtered telling-construction; matches the vista opening."
 
 [[ok]]
+fp   = "0a71c26a7f7e"
+rule = "filter-verbs"
+file = "scenes/school-nights.md"
+text = "How he watched her eat it like that was the show."
+note = "reported speech: the filtering is Vee's telling to Cassie — 'he watched' is the content, not a lens"
+
+[[ok]]
+fp   = "d7ae0a8e628b"
+rule = "filter-verbs"
+file = "scenes/school-nights.md"
+text = "How he noticed things before she did."
+note = "reported speech: 'he noticed things before she did' is Vee's claim to Cassie, the perceiving is the point"
+
+[[ok]]
+fp   = "2dfe82484611"
+rule = "warm"
+file = "scenes/school-nights.md"
+text = "And how the house stayed warm as a held breath now, warm enough that she never once thought about how much she had on."
+note = "warmth load-bearing by design: 'warm as a held breath' + bareness rationale; post-fix wording (chill beat cut 2026-07-28, Randi's trait)"
+
+[[ok]]
+fp   = "7a5bec7242db"
+rule = "warm"
+file = "scenes/school-nights.md"
+text = "And how the house stayed warm as a held breath now, because he'd worked out she went cold the minute they'd stopped, and he'd be up and back with something over her before she'd even found the cold herself."
+note = "warmth load-bearing by design: 'warm as a held breath' is the scene's central image; panel confirmed earned"
+
+[[ok]]
+fp   = "9b58983a5b75"
+rule = "warm"
+file = "scenes/school-nights.md"
+text = "She came in past eleven with the night still on her, the warmth of his car and the warmth of the evening before that, and the thin cold off the window found her at the door as it always did."
+note = "warmth load-bearing by design: the warmth-kept-after is the planned leak of the body into the romance channel (condensed brief); panel confirmed earned (gpt-5.6-sol: conspicuous but earns itself)"
+
+[[ok]]
+fp   = "ea574551aac0"
+rule = "whole-of"
+file = "scenes/school-nights.md"
+text = "Nice enough, a good enough time, and she'd gone along thinking that was the whole of what there was to have."
+note = "author kept: the doubled 'whole of' stands — first sets up the fine-vs-size ladder, second is the paragraph's climax (his totality as content)"
+
+[[ok]]
+fp   = "fb22a615ea94"
+rule = "whole-of"
+file = "scenes/school-nights.md"
+text = "She reached for the word after it and didn't have one, and laughed at herself reaching, and put both hands up at the size of it instead, at the cooking and the watching and the whole of himself turned on her until the rest of the room went quiet and dark around her."
+note = "author kept: 'the whole of himself turned on her' — climactic totality-as-content use, panel-praised paragraph"
+
+[[ok]]
 fp   = "bda5b5610495"
 rule = "a-small"
 file = "scenes/see-you-later.md"
