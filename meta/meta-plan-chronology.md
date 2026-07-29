@@ -179,7 +179,7 @@ The greedy phase given its only on-page trace — weeks in and still running, wh
 
 
 ### [SCENE] In His Hands
-*~mid-to-late November · the week before Thanksgiving break · Draft complete · `in-his-hands.md` · Pace/Vee · Vee POV · [craft](meta-note-in-his-hands.md) · [detail](meta-condensed-in-his-hands.md)* · slug: in-his-hands · present: Vee, Pace
+*~mid-to-late November · the week before Thanksgiving break · Draft complete · `in-his-hands.md` · Pace/Vee · Vee POV · [craft](meta-note-in-his-hands.md) · [detail](meta-condensed-in-his-hands.md)* · reviewed: 2026-07-29 · slug: in-his-hands · present: Vee, Pace
 Warm and tender, low-explicit — the fall's gentler register, laid down before the spring turns transgressive. In bed after, Vee worn out, Pace takes comfort at her breast (the established comfort-motif), kissing her nipple; she feels him harden and, playful, *"Again?"* The exchange that gives the **photo** turns on his need to see her when she's away. The photo is the **earliest, best-disguised seed of the sole-channel motif** — his need to *see* her, and her own side given its due (she wants it; she likes how she looks in it because *he* does — the being-seen-through-his-eyes that pays off blindfolded at the threesome kiss). Vee picturing Pace alone with her image: tender, a little vulnerable, never shamed. **Thanksgiving exchange:** *"What about Thanksgiving?"* — he's cooking for Sheri (*"She's alone"*; Sheri offstage/reported, the absorber planted for the spring found-hair); Vee pushes on his family and gets the shadow — deflect, then one flat fact (*I don't go back*), the cause vaulted. Shadowless; his wound is warm-sad, not con-shadow.
 
 ### [SCENE] All the Time
