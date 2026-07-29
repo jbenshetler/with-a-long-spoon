@@ -1460,6 +1460,20 @@ text = "\"The kind you tell your daughter about,\" Vee said, quiet now, and look
 note = "Author-approved: 'file' = the sorority-folder image (canon callback to broken-in); dialogue and realization filter verbs; retained 'whole of it'; info-level existentials."
 
 [[ok]]
+fp   = "ce800c924767"
+rule = "unhurried"
+file = "scenes/new-ordinary.md"
+text = "He undressed her with the unhurried hands he brought to everything, no fumble in them, and the patience of it was its own small cruelty tonight, because she was already long past patience, had been past it somewhere around Wednesday."
+note = "Author-sanctioned: the load-bearing 'unhurried' for this scene — sets Pace's tempo against Vee's five-night urgency; paid off by 'its own small cruelty' (feedback pass 2026-07-29)"
+
+[[ok]]
+fp   = "305112797d5a"
+rule = "whole-of"
+file = "scenes/new-ordinary.md"
+text = "He'd worn it for her without making her ask twice, and he stood there now wearing two shirts in his own warm kitchen because she'd told him to, and that was the whole of his answer, as it always was."
+note = "Author-sanctioned: 'the whole of his answer, as it always was' — the acts-not-words motif close; the scene's other two whole-of hits were recast (feedback pass 2026-07-29)"
+
+[[ok]]
 fp   = "21487d40a57f"
 rule = "filter-verbs"
 file = "scenes/nothing-underneath.md"
