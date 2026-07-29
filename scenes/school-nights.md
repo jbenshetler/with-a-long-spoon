@@ -14,7 +14,7 @@ And Vee went on, because there was no holding it once Cassie opened the door. Sh
 
 "With not enough on," Cassie said, pleasant.
 
-But Vee was already past it, already on to how he'd kept the burn watched two days after, asking. And how the house stayed warm as a held breath now, because he'd worked out she went cold the minute they'd stopped, and he'd be up and back with something over her before she'd even found the cold herself.
+But Vee was already past it, already on to how he'd kept the burn watched two days after, asking. And how the house stayed warm as a held breath now, warm enough that she never once thought about how much she had on.
 
 Cassie listened with no face on at all and let Vee run herself out. Then she said, mild, "You don't come home school nights."
 

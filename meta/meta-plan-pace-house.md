@@ -172,11 +172,17 @@ the woodshop); **The fitting plays here.** On the page (`scenes/a-round.md`, the
 
 ## Atmosphere / constants `[PAGE]`
 **Pre-warmed for the expected guest.** He turns the heat up ahead of a planned visit
-so he can take his time without anyone being cold ("his too-warm house"). The few
-times Vee turns up **unannounced** the house is markedly cooler, an ordinary
-temperature — the contrast is how she's worked out, without his ever saying it, that
-he warms the place for her comfort, before she's even there to feel it (origin: the
-first night she took her top off under his roof). Quiet; a private retreat
+so he can take his time without anyone being cold ("his too-warm house"). **For
+himself alone he keeps the house chilly** — not merely ordinary; the warmth is a made
+thing, manufactured for her, ahead of her (origin: the first night she took her top
+off under his roof). **Vee's discovery of this is a planned page beat, placement
+open:** an unannounced visit finds the house cold, and she works out, without his
+ever saying it, that he warms the place for her comfort before she's even there to
+feel it. Deliberately kept **out of {{School Nights}}** (adoration register, no room
+for analysis — author ruling 2026-07-28); there the warmth appears only as ambience
+("warm as a held breath... she never once thought about how much she had on").
+**Guard:** the post-sex chill is **Randi's** trait, never Vee's — Vee is the
+warm-blooded one ({{On Her Floor}}); don't wire the warm house to Vee going cold. Quiet; a private retreat
 two people move through without calling out to each other.
 
 ## Fixtures / props
@@ -190,8 +196,9 @@ two people move through without calling out to each other.
   Randi** (`the-bench.md`: begun seven months ago; met her three weeks ago). In the novel it is **used on only two women — Randi, then Vee** — and what
   makes each capitulate is the load-bearing difference between them. Its top leans
   against the wall when the bench is in use.
-- **Cashmere blanket** `[PAGE]` at the foot of the bed (bought once he noticed she
-  gets cold after sex).
+- **Cashmere blanket** `[PAGE]` at the foot of the bed — **Randi brought it**, after
+  the second week, when she registered that she got cold after sex even in his
+  too-warm house (`the-bench.md`; the chill is Randi's trait, not Vee's).
 - **Water bottle** `[PAGE]` pre-staged on the bedside table for aftercare.
 
 ## Settled spatial facts
