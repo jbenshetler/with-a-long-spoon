@@ -26,6 +26,12 @@ reader cohort snagging on the same spot, or an edit that re-opens the passage).
   adjacent and terminal). "No town" cut as off-register: the cast is tight and personal —
   Vee is never rendered thinking about the town. Final order: *no week behind her, no
   stats class, no mother's voice, no Monday coming, no Randi waiting to be told.*
+- **Sealed-room litany ending re-edited (2026-07-28, follow-on to the reorder above):**
+  {{One Bite}} moved to **Sun Nov 1** (brunch logistics: Monday would collide with
+  stats letting out at 11:50 + parking/travel, and same-car arrival would kill the
+  arrival beat). The litany's terminal pair updated to match: "no Monday coming, no
+  Randi waiting to be told" → **"no Sunday, no Randi to be told"** — same
+  secretly-the-same-fact design, tighter cadence (author's phrasing).
 - **One reflex filter verb** ("until she felt the big muscles let go under her
   hands" — linter, not reader-flagged) — "she felt" cut; her hands were already on
   him.

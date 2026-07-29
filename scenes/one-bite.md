@@ -98,7 +98,7 @@ Vee knew the feeling. Her own skin was, just then, a good deal more party than s
 
 "We found a dark corner," Randi went on, "and he kissed like he meant it. Forceful, but he knew when to ease off and leave you the room to come after him, which is the entire art and almost nobody has it. So we take it upstairs. And he is just starting to find *my* dark corners—"
 
-Something low in Vee answered the phrase straight off, without asking her first, and she pressed the heel of her hand to her lap as if she were only settling her napkin.
+Something low in Vee answered the phrase straight off, and she pressed the heel of her hand to her lap as if she were only settling her napkin.
 
 "—and his phone goes. Dents the mood, but I'm well past minding, I am ready to *go.* Then it goes again, and he gets a face, and he says, 'I'd better take this.'" Randi laid a hand flat to her chest in mock salute. "An emergency, a friend in some trouble. He had to leave. And part of me respected it, honestly, a man who looks after his people. The other part of me is sitting on a stranger's bed with the engine running and nobody left to drive it. Forty minutes from home. A dark room in a Greek house."
 
@@ -110,7 +110,7 @@ The straw had gone useless in Vee's dry mouth. "In a strange bedroom? Anyone cou
 
 "And they'd have got an eyeful." Randi said it warm, amused, her clear eyes right on Vee's. "Dress up, panties to the side, knees wide, doing a private dance."
 
-The picture arrived in Vee entire and asked nothing of her, and her body, which had been climbing the whole morning one careful confession at a time, simply reached the top. The heat was no longer some weather happening near her. It was the main fact in the chair, slick and insistent and wholly her own, and she could not stay in the bright glassed room, under all those people and Randi's untroubled gaze, and sit still around it for another minute.
+The picture arrived in Vee entire and asked nothing of her, and her body, which had been climbing the whole morning one careful confession at a time, simply reached the top. The heat was no longer happening near her. It was the main fact in the chair, slick and insistent and wholly her own, and she could not stay in the bright glassed room, under all those people and Randi's untroubled gaze, and sit still around it for another minute.
 
 She was on her feet before she had decided to stand. "Bathroom," she said, which was hardly a word and nothing like a sentence, and went, the napkin sliding off her lap behind her.
 
@@ -128,7 +128,7 @@ She stopped. She held there with herself barely breached and the peak one unfair
 
 Then she drew her hand back. She tore off a length of dry paper and blotted herself as well as it would go, which was not well, and pulled her panties up over all of it, the ache still beating down there like a second pulse.
 
-At the sink she wanted, more than she could remember wanting anything reasonable, to put two hands of cold water on her face and drown whatever this fever was and come back up a person. But the face in the mirror was a careful face, built that morning to be looked at, and cold water would take it down to ruin. So she ran the tap cold and held her wrists under it the way you do for a faint, and watched the too-blue light make her look like exactly what she was, someone caught.
+At the sink she wanted, more than she could remember wanting anything reasonable, to put two hands of cold water on her face and drown whatever this fever was and come back up a person. But the face in the mirror was a careful face, built that morning to be looked at, and cold water would take it down to ruin. So she ran the tap cold and held her wrists under it as you do for a faint, and watched the too-blue light make her look like exactly what she was, someone caught.
 
 She went back.
 

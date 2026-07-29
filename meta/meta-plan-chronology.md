@@ -165,7 +165,7 @@ The deliberate escalation of {{A Recognized Method}} — the proof of her arousa
 Falls inside the {{We Find Out}} weekend; unrendered.
 
 ### [SCENE] One Bite
-*Mon Nov 2 · within a few days of {{We Find Out}}* · Draft complete · `one-bite.md` · SATC · [detail](meta-condensed-one-bite.md) · slug: one-bite · present: Vee, Randi
+*Sun Nov 1 · two days after {{We Find Out}}* · Draft complete · `one-bite.md` · SATC · [detail](meta-condensed-one-bite.md) · slug: one-bite · present: Vee, Randi · reviewed: 2026-07-28
 Vee tells more than she means to — the pantsing, the bet, *he checked*, the spanking — the penetration truth surfacing on her face before she can dress it. Randi answers with her own mixer night as amplifier (self-pleasure in a stranger's bed; porn-generic register, not Pace-fingerprint). **First restroom self-touch, stopped before completion:** at the first give of her own hand Randi's imagined fond gaze arrives — *not the thinking, the looking* — she can't be looked at like that and keep her hand where it is; she blots and carries the ache back (*a second pulse*). On her return, Randi's *"Sticky fingers?"* drops the floor out of the room — named-and-seen — then the deniable off-ramp: Randi's only nodding at the pastries that came while Vee was up, and Vee can't tell naming from innocence. Goodbye-kiss lingers past a friend's; the capstone — glaze passed to Vee's lip, *sweetness from a pastry she had never once touched* — advances the goodbye-kiss staircase and seeds the taste thread ([[meta-note-taste-thread]]).
 
 ### [VIGNETTE] Above Him

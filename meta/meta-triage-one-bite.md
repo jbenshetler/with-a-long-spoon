@@ -27,6 +27,25 @@ reader cohort snagging on the same spot, or an edit that re-opens the passage).
   her, the ease of it" (the third wave), "lifting her glass, easy, no curiosity
   anywhere in it" (the protected no-curiosity beat, now more exposed).
 
+## Scene-review pass (2026-07-28, same day)
+
+- **Re-dated Sun Nov 1** (was Mon Nov 2) — author ruling: Monday brunch at 11am
+  collides with stats (MWF, lets out 11:50) plus parking/travel logistics, and
+  the two women arriving together would kill the arrival beat. Sunday preserves
+  it cleanly. {{We Find Out}} litany updated to match ("no Sunday, no Randi to
+  be told" — see meta-triage-we-find-out.md). Chronology + HTML regenerated.
+- **"without asking her first" cut** (telegraphed the consent theme; the body
+  answering was already rendered).
+- **"some weather happening near her" cut** (figurative weather tic; "The heat
+  was no longer happening near her" stands).
+- **Acked as sanctioned:** "so far out ahead of her permission" (two cold
+  readers quoted it as a peak) and the goodbye-kiss frame "the way she always
+  was" — recorded in style-allow.toml.
+- **`the way` cluster resolved (9 hits):** one recast ("as you do for a faint");
+  the rest acked — two kept-current on author review (the light on both faces;
+  the glass-turn mimicry seed), one kept in the descent line, three adverbial
+  "all the way" (degree, not the tic), one inside the protected stall passage.
+
 ## Left standing — do not re-litigate
 
 - **Radford story "engineered to the millimeter" / author's hand visible**

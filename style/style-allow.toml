@@ -1558,6 +1558,69 @@ text = "Because it was not just a girl, not just the bit."
 note = "deliberate antithesis — fires once; it was not just a girl, it was Randi"
 
 [[ok]]
+fp   = "4deaed4a82bd"
+rule = "out-ahead"
+file = "scenes/one-bite.md"
+text = "She put her fingers where the wanting was and found herself already soaked, of course, always, her body so far out ahead of her permission that it shamed her even here, alone, with no one to give the shame to."
+note = "Sanctioned use: 'so far out ahead of her permission' — two cold readers quoted it as a peak; author ack 2026-07-28"
+
+[[ok]]
+fp   = "100b10425d29"
+rule = "the-way"
+file = "scenes/one-bite.md"
+text = "Vee's face was warming and the light would have it whole, every degree of it, the way it had Randi's bare honest skin."
+note = "Kept current: light having her face whole as it had Randi's; author ack 2026-07-28"
+
+[[ok]]
+fp   = "1d49c8b5dc0f"
+rule = "the-way"
+file = "scenes/one-bite.md"
+text = "Randi's whole face opened, warm all the way through, and she reached out and took Vee lightly by both arms."
+note = "Adverbial 'warm all the way through' — degree, not the tic; author ack 2026-07-28"
+
+[[ok]]
+fp   = "47f5a577dc0b"
+rule = "the-way"
+file = "scenes/one-bite.md"
+text = "It was all Vee trusted herself to say, because the *how* of it was suddenly there too, the dark and the weight of him and the way she had gone all the way down into it without a single denial left, and her face did something she couldn't call back and Randi watched it do the thing with frank, open pleasure."
+note = "Kept current: 'the way she had gone all the way down into it'; author ack 2026-07-28"
+
+[[ok]]
+fp   = "569b2a1b7758"
+rule = "the-way"
+file = "scenes/one-bite.md"
+text = "She turned her own glass, the way Randi had, to have somewhere to put her hands."
+note = "Kept current: glass-turn mimicry seed; author ack 2026-07-28"
+
+[[ok]]
+fp   = "878b68e8b865"
+rule = "the-way"
+file = "scenes/one-bite.md"
+text = "Randi fanned herself, not all the way a joke."
+note = "Adverbial 'not all the way a joke' — degree, not the tic; author ack 2026-07-28"
+
+[[ok]]
+fp   = "9e8a0914eee4"
+rule = "the-way"
+file = "scenes/one-bite.md"
+text = "Soft, the way she always was, her mouth staying on Vee's a beat past what a friend's would, then the small drawing-off, the held half-breath, then her lips once more with a little more in them before she let go."
+note = "Goodbye-kiss frame 'the way she always was' accepted; author ack 2026-07-28"
+
+[[ok]]
+fp   = "a8bea55206c6"
+rule = "the-way"
+file = "scenes/one-bite.md"
+text = "Vee nodded, solemn, her whole face alight with it, and underneath the nod her body did the thing it had done for him, gave without being asked, a slow soft give she felt all the way down, so that for one appalling second the chair and the cloth and the bright room were very far off and only the wet plain fact of herself was near."
+note = "Adverbial 'all the way down' — degree, not the filtered construction; author ack 2026-07-28"
+
+[[ok]]
+fp   = "d91ddd90edc4"
+rule = "the-way"
+file = "scenes/one-bite.md"
+text = "Clear, and fond, and near, looking at her the way she always did, as though Vee were the best thing in the room."
+note = "Protected stall passage (triage: do not touch); 'the way she always did' stands; author ack 2026-07-28"
+
+[[ok]]
 fp   = "43d320416eac"
 rule = "clock-verb"
 file = "scenes/practice-room.md"
