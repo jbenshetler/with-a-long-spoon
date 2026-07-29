@@ -329,7 +329,7 @@ Vawter Hall (girls-only); Vee's unaffiliated dorm-life background. Kept light �
 
 **Whiskey/white wine ({{First Taste}}, ~late spring):** before orgasm she’s *like whiskey — distinct, more impactful, oh so slippery*; after, *like a white wine — copious and thinner.* Vee’s riff back: *“A shot?”* (NOT deflection — she’s playing his metaphor back; engaging through the safety of wit. He doesn’t push; lets it land.)
 
-**The peaches sext escalation (Vee, initiating for the first time):** farmers-market photo → peach between bare breasts → *“I really want to try slimy peaches, and I’ll do anything”* (“slimy” = the derogatory word she used for the fish she refused; she turns her own cruelty against herself) → naked lower body, peach beside waxed sex: *“Both of these are sweet and juicy but only one has fuzz on it.”*
+**The peaches sext escalation (Vee, initiating for the first time):** farmers-market photo → peach between bare breasts → *“I really want to try slimy peaches, and I’ll do anything”* (“slimy” = the derogatory word she used for the grilled peaches she refused; she turns her own cruelty against herself) → naked lower body, peach beside waxed sex: *“Both of these are sweet and juicy but only one has fuzz on it.”*
 
 **The panties:** *“Trade.”* (She hands him the worn pair after the first night, leaves in the short skirt.) One pair, a kept thing not a collection. Both know. Neither mentions it.
 
@@ -386,7 +386,7 @@ Vawter Hall (girls-only); Vee's unaffiliated dorm-life background. Kept light �
 
 - **The available honorable exits Pace did not take are real; the prose must not protect him from this.** Disclosure was available. Refusal-of-the-configuration was available. Harder questions with Vee were available. *Each would have prevented the catastrophe.* He did not take them because his architecture supplied the agency-respect framing that made not-taking feel like principle. The skeptical reader who concludes "he should have told her" is correct; the novel does not contest the conclusion, only the moral framing of why he did not.
 
-- **The bench-wound is harm-one fast-installed; the friendship-with-deception is harm-two with real goods bundled.** When the prose renders the bench, render the catastrophic depth in the single scene. When the prose renders the SATC lunches and the friendship's intensity, render the goods at full force *and* the harm operating in registers Vee cannot see. *Both harms are in the fourth category;* both have goods constitutively bundled with them. The help-harm-dials inventory document tracks individual operations and their goods-and-harms dials; check scenes against the inventory.
+- **The bench-wound is harm-one fast-installed; the friendship-with-deception is harm-two with real goods bundled.** When the prose renders the bench, render the catastrophic depth in the single scene. When the prose renders the SATC lunches and the friendship's intensity, render the goods at full force *and* the harm operating in registers Vee cannot see. *Both harms are in the fourth category* (the thesis's coinage: `meta-thesis.md` → "The Fourth Category"); both have goods constitutively bundled with them. The help-harm-dials inventory document tracks individual operations and their goods-and-harms dials; check scenes against the inventory.
 
 ### Running threads to seed (across scenes)
 
