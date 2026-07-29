@@ -921,6 +921,48 @@ text = "There was no door left open for her to step through, and she felt, low a
 note = "Reviewed with author 2026-07-10: all defensible — Pace dialogue, the accepted Thanksgiving exchange, load-bearing antithesis (a body/not a body; phone/not his), the false-positive idiom (all the way around), inceptive began-to, idiomatic there-was."
 
 [[ok]]
+fp   = "c2d66ee4e712"
+rule = "unhurried"
+file = "scenes/in-his-hands.md"
+text = "He did it unhurried and sure, and at each place his hands set her he put his mouth there after: a kiss to the point of her shoulder, a kiss to the rise of her hip, a kiss to her knee."
+note = "Author-sanctioned Pace use: the posing beat is load-bearing (cold-reader feedback pass 2026-07-29)"
+
+[[ok]]
+fp   = "0111b04e6de1"
+rule = "warm"
+file = "scenes/in-his-hands.md"
+text = "And then he looked at her over the top of the phone, at her and not the picture of her, and grinned like a boy who'd got away with something, and it landed warm under her breastbone."
+note = "Load-bearing warmth: landed warm under her breastbone (ack pass 2026-07-29)"
+
+[[ok]]
+fp   = "55e354c87f1c"
+rule = "warm"
+file = "scenes/in-his-hands.md"
+text = "He said it easily, and it warmed her, and she nearly let it lie."
+note = "Load-bearing warmth: 'it warmed her' at This is my home (ack pass 2026-07-29)"
+
+[[ok]]
+fp   = "5e87658e031f"
+rule = "warm"
+file = "scenes/in-his-hands.md"
+text = "And then he looked at her over the top of the phone, at her and not the picture of her, and grinned like a boy who'd gotten away with something, and it landed warm under her breastbone."
+note = "Load-bearing warmth: landed warm under her breastbone — re-ack after got→gotten fix (2026-07-29)"
+
+[[ok]]
+fp   = "b5a2fb73f16d"
+rule = "warm"
+file = "scenes/in-his-hands.md"
+text = "By the time he stepped back she was laid out like a woman in an old calendar, warm under his hands, with no wish to argue with any of it."
+note = "Load-bearing warmth: warm under his hands, the posing beat (ack pass 2026-07-29)"
+
+[[ok]]
+fp   = "ef161b40658e"
+rule = "warm"
+file = "scenes/in-his-hands.md"
+text = "His breath moved warm across her skin."
+note = "Load-bearing warmth: his breath on her skin (ack pass 2026-07-29)"
+
+[[ok]]
 fp   = "351296d088a9"
 rule = "x-not-y"
 file = "scenes/in-his-hands.md"
