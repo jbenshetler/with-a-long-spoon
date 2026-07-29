@@ -20,6 +20,12 @@ reader cohort snagging on the same spot, or an edit that re-opens the passage).
   contraction, never forensic cognition" rule, and doubled the gone-small beat at
   the bet) — clause cut. Paragraph now ends "not knowing what was coming, only that
   it was"; the foreknowing survives in the skin-wakes line two sentences later.
+- **Sealed-room litany reordered to end on Randi; "no town" cut** (scene-review
+  2026-07-28) — "no Tuesday" also corrected to "no Monday" (stats is now MWF; Monday is
+  also {{One Bite}}, so the clause and the Randi clause are secretly the same fact,
+  adjacent and terminal). "No town" cut as off-register: the cast is tight and personal —
+  Vee is never rendered thinking about the town. Final order: *no week behind her, no
+  stats class, no mother's voice, no Monday coming, no Randi waiting to be told.*
 - **One reflex filter verb** ("until she felt the big muscles let go under her
   hands" — linter, not reader-flagged) — "she felt" cut; her hands were already on
   him.
@@ -41,6 +47,14 @@ reader cohort snagging on the same spot, or an edit that re-opens the passage).
   new sensual register" — opposite directions, canceling) — stands. The domestic
   landing is the designed stay-in-pattern plant behind the later why-never-out
   fight.
+- **Scrunchie descriptor on the page: "deep green with small white dots"** (scene-review
+  2026-07-28 flagged the planning docs' "polka dots") — accepted as-is. The prose string
+  is the on-page canon (it already recurs verbatim in `above-him.md`); the planning docs'
+  "polka dots" names the same type. On-page recurrences at load-bearing beats follow the
+  prose string.
+- **The Lip-Lick as its own one-sentence paragraph** (scene-review 2026-07-28: heavier
+  than the taste-thread note's "subordinate-clause gracenote" spec) — accepted. The
+  standalone beat stays; no reader flagged it, and it remains tiny, warm, body-before-mind.
 - **Remaining style-linter density** — 44 hits reviewed with the author and acked
   (`style/style-allow.toml`, note dated 2026-07-28): the filter verbs are the
   body-betrayal dissociation register (she hears/feels her body testify against
