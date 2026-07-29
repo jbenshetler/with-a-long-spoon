@@ -59,9 +59,29 @@ reader cohort snagging on the same spot, or an edit that re-opens the passage).
   on reread). Never signal it in the prose.
 - **`there-was-were` style hit in the recast room sentence** — deliberate; the
   flat existential states the room's deduction as plain fact.
+- **"the small choreography of a woman with a secret keeping it"** (scene-review
+  pass, 2026-07-28: the narrator naming behavior already shown — mild
+  never-explain vector) — accepted; the phrase is in her self-aware register
+  and the voltage is low. Author ruling 2026-07-28.
+- **"as rooms do"** ("Whatever the room had understood it folded up and put
+  away, as rooms do, and moved on") (scene-review pass: small narrator
+  generalization) — accepted; closes the public beat efficiently. Author
+  ruling 2026-07-28.
 - **Three info-level `warm` hits** (lines 15, 23, 41) — read as load-bearing
   (the warm dull room is the foil the walk wakes; the phone warm in her hand is
   the sent photo still alive); not reflex density.
+
+## Panel caveat — reading order
+
+The cold-read panel read this scene *after* {{School Nights}} (per the old
+chronology). Fall dates were re-tightened 2026-07-28; the scene now sits at
+Wed Oct 28, before {{We Find Out}} and well before {{School Nights}}. The
+panel's carry-forward state for this stretch (readers arriving with the
+spanking, the top drawer, "Maybe. I think so," and "Randi absent three
+chapters running") reflects the superseded order — discount its
+chapter-to-chapter momentum judgments accordingly. The "streetlight" coinage
+here → "the streetlight thing again" in `school-nights.md` is consistent with
+the *new* order.
 
 ## What the panel confirmed (no action; for the record)
 
