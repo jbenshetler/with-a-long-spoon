@@ -4,7 +4,7 @@ The morning had teeth in it, and Vee came in out of the cold with her eyes still
 
 A girl with a stack of menus and a brunch-shift brightness said, "Hi, just you?" and when Vee said she was meeting someone the girl's face cleared. "Oh, she's already here. Back porch, come on." Vee was on time; she'd checked. She followed the girl down between the tables a half step behind the morning.
 
-Randi was at the table against the glass with her gold sunglasses pushed up into her black hair, and when she saw Vee her whole face came on, warm and unhurried and sure, as though of all the people and all the mornings this was the one she had been keeping the table for. "There's my girl." She did not get up. She caught Vee's hand a moment as she sat, and let it go. "You look well. Sit."
+Randi was at the table against the glass with her gold sunglasses pushed up into her black hair, and when she saw Vee her whole face came on, warm and sure, as though of all the people and all the mornings this was the one she had been keeping the table for. "There's my girl." She did not get up. She caught Vee's hand a moment as she sat, and let it go. "You look well. Sit."
 
 The waiter came, and Vee did not reach for the card. She had the room's measure now, or the one mercy in it her budget cared about: a mimosa was the cheapest yes on the card, and no one needed to know that was why. "Mimosa, please," she said, light, as though she had ordered a thousand of them. Something pleased moved over Randi's face. "Two," she said, and never opened the wine list, and that was all it took, the both of them the same, the same drink, the same easy morning, and something small in Vee sat up and warmed itself at it.
 
@@ -62,7 +62,7 @@ Vee nodded, solemn, her whole face alight with it, and underneath the nod her bo
 
 "*Inside?*" Randi breathed it, scandalized, thrilled. "The cheeky devil. So you lost. When he checked." The smallest grin. "Close call?"
 
-"Not at all." And there it was a third time, going through her unhurried, the ease of it, the *much*-of-her of it that she had said out loud now to another person, and she shifted on the seat and her breath would not sit flat and she reached for the mimosa mostly to have something cold to do with her mouth.
+"Not at all." And there it was a third time, going through her, the ease of it, the *much*-of-her of it that she had said out loud now to another person, and she shifted on the seat and her breath would not sit flat and she reached for the mimosa mostly to have something cold to do with her mouth.
 
 "All right." Randi leaned in. "You lost. Over the knee?"
 
@@ -108,13 +108,13 @@ Something low in Vee answered the phrase straight off, without asking her first,
 
 The straw had gone useless in Vee's dry mouth. "In a strange bedroom? Anyone could have walked in."
 
-"And they'd have got an eyeful." Randi said it warm, amused, her clear eyes right on Vee's. "Dress up, panties to the side, knees wide, and me singing the whole song of self-pleasure."
+"And they'd have got an eyeful." Randi said it warm, amused, her clear eyes right on Vee's. "Dress up, panties to the side, knees wide, doing a private dance."
 
 The picture arrived in Vee entire and asked nothing of her, and her body, which had been climbing the whole morning one careful confession at a time, simply reached the top. The heat was no longer some weather happening near her. It was the main fact in the chair, slick and insistent and wholly her own, and she could not stay in the bright glassed room, under all those people and Randi's untroubled gaze, and sit still around it for another minute.
 
 She was on her feet before she had decided to stand. "Bathroom," she said, which was hardly a word and nothing like a sentence, and went, the napkin sliding off her lap behind her.
 
-"Do what you need to." Randi was already lifting her glass, easy and unhurried, no curiosity anywhere in it, as if she had said nothing at all.
+"Do what you need to." Randi was already lifting her glass, easy, no curiosity anywhere in it, as if she had said nothing at all.
 
 The bathroom was down a short hall and lit a hard clinical blue, a light that found everything and forgave none of it. The stall door swung to behind her on its slow hinge and only clicked, but in her head it slammed, a sound the whole bright porch must have heard and understood, every fork going still, every face turning to the little hall where the girl had gone to do the thing she had gone to do.
 
