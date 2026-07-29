@@ -10,7 +10,7 @@ The professor was talking about the semester project.
 
 He talked about it in the voice he used for everything, flat, weatherless, clicking the slide forward and then back to the one before it and then forward again, checking the deck like a man checking the pressure in a tire. It was worth twenty-five percent, he said. It was the practical demonstration of everything the semester had been for: they would take the modeling they'd been doing on the clean little invented numbers in the book and turn it on real data, which — he wanted them to understand — was not clean. It was messy and complex and, he said, often surprising, and he set the word *surprising* down without decorating it and clicked to the next slide.
 
-Pick a subject that means something to you, he said. It had to have data — he wanted to be clear about that, this was a statistics class and not an English paper; here they argued with data, not with analogies. Choose a few samples to motivate the model. Then look at the whole of it, and look at the outliers — there was usually the main body of the thing and then there were the points that sat off by themselves, and you could set those aside if you could account for them; the exception, he said, often proved the rule. In industry they called all of it exploratory data analysis. He clicked back a slide. Then forward.
+Pick a subject that means something to you, he said. It had to have data — he wanted to be clear about that, this was a statistics class and not an English paper; here they argued with data, not with analogies. Choose a few samples to motivate the model. Then look at the whole of it, and look at the outliers — there was usually the main body of the thing and then there were the points that sat off by themselves, and you could set those aside if you could account for them. In industry they called all of it exploratory data analysis. He clicked back a slide. Then forward.
 
 Vee wrote down *25%* and boxed it, and under it *something that means something to you,* and lost the rest of it to Randi, who had tipped her head against Vee's shoulder to murmur something unrepeatable about the boy two rows down.
 
@@ -50,7 +50,7 @@ Because that was the last of it before the write-up — the professor's *few sam
 
 Her county had a point off on its own.
 
-Well off — up and to the right, alone in the white, the kind of point the professor had named at the front of the cold hall without any weather in his voice. A big one. And Vee, watching Randi and not the screen, felt something come off her on the left, a small shift in the air of the room, and didn't know what it was.
+Well off — up and to the right, alone in the white, the kind of point the professor had named at the front of the cold hall. A big one. And Vee, watching Randi and not the screen, felt something come off her on the left, a shift in the air of the room, and didn't know what it was.
 
 Randi hovered the point. The graph she'd built dropped a little tag on each one when you touched it — four letters, her own shorthand — and the tag on this one read MIRH.
 
@@ -84,7 +84,7 @@ Cassie couldn't see the screen. She was on the far side of Vee, and the record w
 
 She went back to her own screen.
 
-Randi took it. Vee watched her take it — watched her give Cassie's certainty a small nod, because there was nothing else to give it, watched her close the record with one keystroke and put the point back among the hundred thousand others where it was only the biggest one and not a name.
+Randi took it. Vee watched her take it — watched her give Cassie's certainty a nod, because there was nothing else to give it, watched her close the record with one keystroke and put the point back among the hundred thousand others where it was only the biggest one and not a name.
 
 Randi didn't look at her. Randi had no idea she'd been looked at.
 

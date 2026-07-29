@@ -1663,6 +1663,83 @@ text = "Clear, and fond, and near, looking at her the way she always did, as tho
 note = "Protected stall passage (triage: do not touch); 'the way she always did' stands; author ack 2026-07-28"
 
 [[ok]]
+fp   = "a7749c07c80d"
+rule = "file-verb"
+file = "scenes/outlier.md"
+text = "She knew the name Miranda — everyone who knew Randi knew it, the long formal version on the chapter paperwork, the name Randi had been given and filed down to something a person could stand to answer to."
+note = "Filing-down = abrasion image, canonical Miranda/Randi motif, not the paperwork tic; author sign-off 2026-07-29"
+
+[[ok]]
+fp   = "b7e970b9e73e"
+rule = "look-at-her"
+file = "scenes/outlier.md"
+text = "Randi didn't look at her."
+note = "Author ruling 2026-07-29: kept as-is; literal gaze mechanics (tables-turned beat), not the appreciation tic"
+
+[[ok]]
+fp   = "120e929bcd22"
+rule = "there-was-were"
+file = "scenes/outlier.md"
+text = "Then she did the one useful thing there was, which was to give Randi somewhere to put her hands."
+note = "Author sign-off 2026-07-29"
+
+[[ok]]
+fp   = "18cbb8c3a55a"
+rule = "there-was-were"
+file = "scenes/outlier.md"
+text = "Vee watched her take it — watched her give Cassie's certainty a nod, because there was nothing else to give it, watched her close the record with one keystroke and put the point back among the hundred thousand others where it was only the biggest one and not a name."
+note = "Existential fits the beat; author sign-off 2026-07-29"
+
+[[ok]]
+fp   = "34abcafd2801"
+rule = "there-was-were"
+file = "scenes/outlier.md"
+text = "Then look at the whole of it, and look at the outliers — there was usually the main body of the thing and then there were the points that sat off by themselves, and you could set those aside if you could account for them."
+note = "Professor's plain lecture register; author sign-off 2026-07-29"
+
+[[ok]]
+fp   = "5a7b3e778402"
+rule = "there-was-were"
+file = "scenes/outlier.md"
+text = "County after county, the loans came down and the payrolls barely moved, and Cassie sat back — she didn't gloat, there was no gloat in her — with the still, satisfied face of a person watching the world admit something she'd told it about itself."
+note = "Deliberate repetition figure (didn't gloat / no gloat in her); author sign-off 2026-07-29"
+
+[[ok]]
+fp   = "8b7b16f8799f"
+rule = "there-was-were"
+file = "scenes/outlier.md"
+text = "There was nothing practiced in them, nothing worn smooth with use; they came out ragged, a thing being said for the first time, and aimed too near to be meant for strangers."
+note = "Ruled recast 2026-07-28 (surprise-legibility ruling, meta-note-outlier.md) — do not touch"
+
+[[ok]]
+fp   = "7f3375170b62"
+rule = "whole-of"
+file = "scenes/outlier.md"
+text = "Then look at the whole of it, and look at the outliers — there was usually the main body of the thing and then there were the points that sat off by themselves, and you could set those aside if you could account for them."
+note = "Professor's reported lecture speech, near-literal (the full dataset); author sign-off 2026-07-29"
+
+[[ok]]
+fp   = "89546c7ac492"
+rule = "whole-of"
+file = "scenes/outlier.md"
+text = "Randi's face was doing very little, and the very little was the whole of it."
+note = "Keeper line — 'the very little was the whole of it'; author sign-off 2026-07-29"
+
+[[ok]]
+fp   = "81a5501797c1"
+rule = "x-not-y"
+file = "scenes/outlier.md"
+text = "Vee walked out between her two friends into the gray and thought, not that she let herself think about it much, that Randi had been handed a rotten thing by a man she'd had the luck to be the daughter of — no hand in it, none of it earned — and that the kindest thing a friend could do was not make her carry it in front of anyone."
+note = "False positive — parenthetical, not antithesis; author sign-off 2026-07-29"
+
+[[ok]]
+fp   = "b607491c4ae2"
+rule = "x-not-y"
+file = "scenes/outlier.md"
+text = "It had to have data — he wanted to be clear about that, this was a statistics class and not an English paper; here they argued with data, not with analogies."
+note = "Professor's credo (data, not analogies); author sign-off 2026-07-29"
+
+[[ok]]
 fp   = "43d320416eac"
 rule = "clock-verb"
 file = "scenes/practice-room.md"

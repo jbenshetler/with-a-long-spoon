@@ -1,0 +1,26 @@
+# Triage — The Outlier
+
+*Cold-read panel: claude-fable-5, claude-opus-4-8, gpt-5.5, gpt-5.6-sol (all read after {{All the Time}}). Feedback pass 2026-07-29; the panel's reviews predate the 2026-07-28 surprise-legibility edit (25516df).*
+
+## Confirmed positives — protection, not praise
+
+Any later edit must not damage these:
+
+- **Randi's stillness** — "Not a motion — the withdrawal of motion." All four models singled out the bodily precision of the shock (color, breath, hand frozen on trackpad); fable-5 called it the best thing on the page.
+- **"Cheating bastards" landing wrong** — all four heard the register as intended (intimate, first-time, not stranger-aimed). The two-words-no-clause discipline holds (see `meta-note-outlier.md`, hinge line).
+- **Cassie's flat delivery** — "My dad got laid off in 2020" ("no handle left out") and "didn't carry things into rooms she meant to walk out of," quoted admiringly by all four. "Right and doesn't know how right" (opus); "the book's plumb line" (fable-5).
+- **Vee's protective silence** — "somewhere to put her hands" quoted by three models; the invented exculpating story read as "her whole tragedy in one paragraph" (fable-5), "love as suppression of evidence, mirror-inversion of Randi's love-as-extraction" (opus).
+- **The heat-0 pivot** after two intimacy chapters — all four called it earned.
+
+## Fixed
+
+- **Randi's shock read as old knowledge, not surprise** (3 of 4 models refused to grant her ignorance). Ruled and fixed **2026-07-28** (commit 25516df): discovery beat added (the fast-then-slow double read), curse gloss recast from "floor under it" to first-time rawness. Full ruling in `meta-note-outlier.md` § "She didn't know" — do not re-litigate, do not restore the floor-under-it phrasing.
+- **Lecture a touch schematic; "the exception often proved the rule" the thumb closest to the scale** (opus; gpt-5.5 softly). Fixed 2026-07-29: the proverb clause cut — the one time the professor spoke in idiom rather than method. The set-aside clause (load-bearing for Vee's later move) stays. Companion ruling: the stats-mirror discipline is (1) the professor delivers method, never meaning; (2) Vee's misfiled transcription is the punchline; (3) the lecture stays subordinate to a social beat. One-in-four reviewers getting the running joke is the intended hit rate; consensus legibility would mean it's too loud. The same discipline governs Dr. Marsh in spring.
+- **Style pass** (linter, 2026-07-29): second figurative "weather" cut (line ~53); "small" dropped from "a small shift" and "a small nod." Remaining hits acked with notes in `style/style-allow.toml`; scene scans clean.
+
+## Left standing — do not re-litigate
+
+- **"Randi had no idea she'd been looked at" stated flatly** (gpt-5.6-sol only: narration asserts what Vee can't know). **Author ruling 2026-07-29: kept as-is.** The guard-down state is canon and *the measure* of how real the wound is (`meta-note-outlier.md` § the gaze); the flat assertion is part of the tables-turned charge the other three readers loved. Acked in the linter (`look-at-her` — literal gaze mechanics, not the appreciation tic).
+- **MIRH → Miranda Holdings "a little neat"** (gpt-5.5, lone, and they bought it). Working as designed: MIRH is Randi's own labeling convention — her name rendered as the villain-tag by her own visualization (`meta-note-outlier.md` § MIRH).
+- **Closing image leans "a half-inch" toward telling the moral** (fable-5, lone, "but it earned it"). Working as designed: the closing outlier-image deliberately carries the reader-ahead instead of the narrator (`meta-note-outlier.md` § register).
+- **"Worst point in the county" pushes slightly hard** (gpt-5.5, lone, self-dismissed). Taste; not actionable.
