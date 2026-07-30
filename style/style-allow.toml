@@ -1460,6 +1460,20 @@ text = "\"The kind you tell your daughter about,\" Vee said, quiet now, and look
 note = "Author-approved: 'file' = the sorority-folder image (canon callback to broken-in); dialogue and realization filter verbs; retained 'whole of it'; info-level existentials."
 
 [[ok]]
+fp   = "ce800c924767"
+rule = "unhurried"
+file = "scenes/new-ordinary.md"
+text = "He undressed her with the unhurried hands he brought to everything, no fumble in them, and the patience of it was its own small cruelty tonight, because she was already long past patience, had been past it somewhere around Wednesday."
+note = "Author-sanctioned: the load-bearing 'unhurried' for this scene — sets Pace's tempo against Vee's five-night urgency; paid off by 'its own small cruelty' (feedback pass 2026-07-29)"
+
+[[ok]]
+fp   = "305112797d5a"
+rule = "whole-of"
+file = "scenes/new-ordinary.md"
+text = "He'd worn it for her without making her ask twice, and he stood there now wearing two shirts in his own warm kitchen because she'd told him to, and that was the whole of his answer, as it always was."
+note = "Author-sanctioned: 'the whole of his answer, as it always was' — the acts-not-words motif close; the scene's other two whole-of hits were recast (feedback pass 2026-07-29)"
+
+[[ok]]
 fp   = "21487d40a57f"
 rule = "filter-verbs"
 file = "scenes/nothing-underneath.md"
@@ -1710,6 +1724,13 @@ rule = "there-was-were"
 file = "scenes/outlier.md"
 text = "There was nothing practiced in them, nothing worn smooth with use; they came out ragged, a thing being said for the first time, and aimed too near to be meant for strangers."
 note = "Ruled recast 2026-07-28 (surprise-legibility ruling, meta-note-outlier.md) — do not touch"
+
+[[ok]]
+fp   = "b3d2cf77f73f"
+rule = "there-was-were"
+file = "scenes/outlier.md"
+text = "County after county, the loans landed and the payrolls fell anyway, and Cassie sat back — she didn't gloat, there was no gloat in her — with the still, satisfied face of a person watching the world admit something she'd told it about itself."
+note = "Re-ack after 2026-07-29 negative-correlation edit in same sentence; the sanctioned clause ('she didn't gloat, there was no gloat in her' — deliberate flat repetition) is unchanged"
 
 [[ok]]
 fp   = "7f3375170b62"
