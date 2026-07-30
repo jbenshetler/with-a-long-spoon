@@ -1,6 +1,6 @@
 # My Friend Randi
 
-*Vee POV, close third. ~Fri Jan 22, afternoon. Beat 1 of 2 of the First Weekend Back reconciliation — the pivot, at Randi's single. Randi coaches; the confidante track produces the act that saves the relationship.*
+*Vee POV, close third. Afternoon. Beat 1 of 2 of the First Weekend Back reconciliation — the pivot, at Randi's single. Randi coaches; the confidante track produces the act that saves the relationship.*
 
 ---
 
@@ -8,7 +8,7 @@ She'd cried most of the way in from the airport. The red-eye had put her down at
 
 He hadn't texted. Not once, the whole break. She'd stood just inside his front door in December and asked him what she was to him and he wouldn't say, and she'd walked out into the cold and he'd let her go, and then the silence had come down over the both of them and held clear through finals and the break, and she'd told herself on the plane that silence wasn't an answer. The road knew better. She drove the last of it blinking, and pulled in behind the dorm with her face wrecked and her chest gone hollow.
 
-The room was dark. Cassie's side was stripped and bare, her family off in another state and not due back till the weekend, and the empty of it met Vee at the door like more of the same. She dropped her bag and didn't open it. She lay down on top of her own made bed in her plane clothes to sleep the flight off and instead lay there through the whole gray middle of the day with the radiator ticking, going over it and over it — the fight, the silence, how he'd folded his arms and let her leave — until the picture she'd built on the worst nights of the break came back and sat on her chest: the other one, the girl he'd cooked for, alone at Thanksgiving. By early afternoon she couldn't stand her own company one minute more, and she knew where she went when it got like this, and she got up and got back in the car, not trusting herself to look in the mirror on the way out, and drove to Randi's.
+The room was dark. Cassie's side was stripped and bare, her family off in another state and not due back till the weekend, and the empty of it met Vee at the door like more of the same. She dropped her bag and didn't open it. She lay down on top of her own made bed in her plane clothes to sleep the flight off and instead lay there through the whole gray middle of the day with the radiator ticking, going over it and over it — the fight, the silence, how he'd folded his arms and let her leave — until the picture she'd built on the worst nights of the break came back and sat on her chest: the other one, the girl he'd cooked for, alone at Thanksgiving. By early afternoon she couldn't stand her own company one minute more, and she knew where she went when it got like this, and she got up, not trusting herself to look in the mirror on the way out, and walked across campus to Randi's.
 
 The girl who opened the door was one Vee didn't know, a blonde with wet hair, and she took in Vee's face, the swollen eyes and the evidence of it, with the quick calculation of someone deciding whether a crisis was hers. "I'll get her," she said, and went.
 
@@ -16,7 +16,7 @@ Brooke came through before Randi did. She always seemed to be passing through. "
 
 Then Randi was on the stairs, coming down them fast the moment she saw the state of her, quick and light, and she had Vee by the arm before the girl who'd let her in was even out of the room. "Up the stairs," she said, low, already turning her toward them. "Come on. Up." And she got her out of the front hall and away from the eyes, and Vee let herself be moved, wanting nothing but to be somewhere with a door that shut.
 
-Up the narrow stairs, the door shut, and Randi's arms came around her before either of them had said a word, and Vee went in and came apart. They had both missed each other badly, the whole flat break with only the one midnight text laid across it, and they both needed this and took it. It was a big hug and a long one, and Vee cried into her shoulder and Randi held on and didn't hurry her out of it. Vee pulled a breath in, deep, off the warm skin of her neck, Randi's own smell under the day, bitter orange, green at the edge, nothing sweet, and it steadied her, and she pulled another, and didn't want to stop. Randi was holding her tighter than she usually did. She held the hug past the end of it, past where a hug stops, the beat longer and the beat after that, and neither of them let go.
+Up the narrow stairs, the door shut, and Randi's arms came around her before either of them had said a word, and Vee went in and came apart. Vee had missed Randi badly, the whole flat break with only the one midnight text laid across it, and she both needed this and took it. It was a big hug and a long one, and Vee cried into her shoulder and Randi held on and didn't hurry her out of it. Vee pulled a breath in, deep, off the warm skin of her neck, Randi's own smell under the day, bitter orange, green at the edge, nothing sweet, and it steadied her, and she pulled another, and didn't want to stop. Randi was holding her tighter than she usually did. She held the hug past the end of it, past where a hug stops, the beat longer and the beat after that, and neither of them let go.
 
 When it finally broke, the room came back, and it wasn't the room Vee knew. It was half-unpacked, a suitcase open on the floor, new things everywhere, tissue paper and a good bag and a coat still in its plastic, sweaters stacked where no drawer had claimed them. Randi swept a pile off the bed without looking at it and made a place, and it reached Vee even through everything that Randi hadn't apologized for the mess or seemed to see it, that the wrecked girl in her doorway had come first.
 
@@ -80,7 +80,7 @@ Vee was crying again, quieter, a different kind.
 
 "You just show up already being the answer. You've got the goods, gorgeous girl, and Pace is not going to open his own door, see what you brought him, and say no."
 
-And Vee found it, and heard herself say it before she could stop it. "And nothing under it."
+And Vee found the rest of it, the end of the sentence Randi had left hanging, and heard herself finish it before she could stop. "And nothing under it."
 
 Then she heard what she'd said. The old voice came up in her fast and hot, her mother's worn smooth into her own, and the burn went straight up her neck into her face. She couldn't. That was what a certain kind of girl did, turned up on a doorstep bare under a coat like something ordered in, and there was a word for that girl and it was already in her mouth. "I can't," she said. "Randi, I can't, that's — you know what that is—"
 
@@ -92,7 +92,7 @@ Then she heard what she'd said. The old voice came up in her fast and hot, her m
 
 And Vee, hot-faced, mortified, felt the other thing turn over under the burn, as it always did once the shame was lit, the wanting coming up hand in hand with the mortification and sharper for it. She was going to do it. She'd known it since the coat, maybe. She only needed walking past the part of her that would rather die.
 
-Then she was up and reaching for her coat, the day's coat, ready to drive straight back out there and do it before the nerve went. Randi caught her wrist, laughing. "Absolutely not. Not like this."
+Then she was up and reaching for her coat, the day's coat, ready to go straight out there and do it before the nerve went. Randi caught her wrist, laughing. "Absolutely not. Not like this."
 
 "Why—"
 
@@ -122,6 +122,6 @@ And Randi, who could narrate anything, who had told Vee across a dozen tables ex
 
 Vee read the quiet as discretion, the one thing even Randi kept behind the door. "Are you going to see him again?" she said. "Randi. He sounds perfect."
 
-Randi came back up into her smile. "He was perfect. Truly. A masterpiece." A beat, a tip of the hand. "Everywhere but the bedroom, and the bedroom's the room I actually live in. What's a girl to do." And Vee laughed, really laughed for the first time all day.
+Randi came back up into her smile. "He was perfect. Truly. A masterpiece." A beat, a tip of the hand. "Everywhere but the bedroom, and the bedroom's the room I actually live in. What's a girl to do?" And Vee laughed, really laughed for the first time all day.
 
-They stood, and Randi pulled her in one more time, and this hug went as long as the first, both of them still frayed from their separate bad days, and when it broke Randi kissed her goodbye, unremarkable now, only what they did. Then Vee went down through the front hall and out into the cold with a plan sitting where the wreckage had been, and drove back to the dorm to sleep. Tonight she would shower, and dress, and be the thing. Tonight she would go to him.
+They stood, and Randi pulled her in one more time, and this hug went as long as the first, both of them still frayed from their separate bad days, and when it broke Randi kissed her goodbye, unremarkable now, only what they did. Then Vee went down through the front hall and out into the cold with a plan sitting where the wreckage had been, and walked back to the dorm to sleep. Tonight she would shower, and dress, and be the thing. Tonight she would go to him.

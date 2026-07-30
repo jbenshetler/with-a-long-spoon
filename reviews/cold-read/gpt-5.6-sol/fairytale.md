@@ -4,70 +4,54 @@
 
 ## Reader reaction
 
-My first feeling is seduction: the snow, the black run, the blue dress, the white-tie ball, the sleigh. I understand why Randi says yes before John has finished asking. His most attractive quality is not merely competence but restraint: skiing just behind her when “he could have left her behind whenever he wanted, and didn’t.” That lands hard because it resembles what attracts me to Pace—power held in reserve—while still being easier, grander, and socially acceptable.
+This chapter first swept me up and then left me cold. The skiing, champagne, blue dress, ballroom, sleigh, and snow genuinely worked on me as fantasy. John’s restraint on the mountain is especially attractive: “he had the run to spare and spent none of it proving it.” For a while I understood completely why Randi sees a whole future in him before they have even reached the ball.
 
-Then the pleasure drains out almost physically. The peak for me is actually the dancing, where Randi “gave it up” and lets John steer her. The hotel assumption has charge too, especially because “Pace made her say it, out loud, every time” and tonight she wants the opposite. But the sex itself is deliberately distant: the lipstick ring and “her own mouth do it from a long way off” make it sad rather than hot. John is not cruel or even disappointing on his own terms. That is what makes him devastating: “The best the acceptable world could do for her” still cannot reach her.
+But the emotional center is Randi, and I feel much more tenderness toward her now. Her polish has often made her seem powerful; here it looks like armor learned at the breakfast table. “The invented ones were safer than the real ones; they always had been, at this table” makes her lies about men feel less frivolous and more necessary. Her mother’s perfunctory, angular affection and her father’s hearty expectations leave her nowhere to put Pace, Vee, or her actual appetite.
 
-Randi deepens enormously for me. I feel more tenderness toward her and more alarm about her at once. Her parents explain some of her polished evasiveness without excusing it. At breakfast she invents acceptable men because “the invented ones were safer than the real ones; they always had been, at this table.” Her mother’s hug is “all edges and points”; her father adores a version of her while cheerfully directing her toward an eligible bachelor. The white-gold bracelet being “locked on her wrist” feels ominously personal, though I do not yet know who gave it to her or why it cannot come off.
+John is enormously attractive while the story is moving—playful, socially effortless, skilled, decisive, and apparently considerate—but afterward he becomes almost blank. I do not dislike him, because Randi herself sees “no flaw in him to point to.” He offers exactly what she risks by offering nothing of herself: excellent pleasure and no recognition. His assumption that she will come upstairs makes me uneasy, especially beside Pace’s insistence on asking, but Randi notices the contrast and freely chooses it: “She found, tonight, that she liked not being asked.” The cover tagline bites hard there. Her yes is real; the surrounding knowledge and emotional meaning are not complete.
 
-Her thoughts about Pace confirm that he truly reaches her: “Pace went straight to her.” Her thoughts about Vee confirm something even more important—Randi knows exactly what she feels. “And Vee” is almost a bodily confession. I believe she loves or is falling in love with Vee, not merely pursuing the original game.
+My feeling about Pace shifts slightly warmer without becoming more trusting. Through Randi’s comparison, his demanding explicitness reads as care rather than mere ritual: “Pace made her say it, out loud, every time.” More importantly, Pace “went straight to her” and found the person underneath. Yet the chapter also confirms that Randi believes he can never belong in her approved life, and his secrecy still costs Vee terribly.
 
-But my suspicion of Randi sharpens at the precise moment my sympathy does. She consciously chooses concealment: “So she would not tell her.” Worse, she selects “the other way,” letting Vee “arrive at it on her own,” because that preserves Randi’s pleasure and avoids forcing Vee to make an informed decision. The cover’s trap feels painfully present here. Randi’s message is technically true—“Every word of it true. None of it the thing”—and that is exactly the danger.
+Randi’s love for Vee is now undeniable to me. “Vee was her gorgeous” landed with more force than any polished declaration could have. It is beautiful and frightening because Randi immediately chooses concealment: “Let Vee arrive at it on her own.” She knows disclosure would make Vee decide what to do, and she avoids giving her that decision. I sympathize deeply with the fear of losing the best friendship she has ever had, but I distrust the solution. Her “two ways” hidden under the word Vee hears one way is precisely the sort of trap the cover promised.
 
-Pace is absent but becomes more attractive and more troubling through comparison. John assumes; Pace asks every time. Randi discovers she enjoys being assumed into bed, but afterward understands that Pace’s consent-seeking is connected to his ability to find the hidden person. Yet Pace is also the man with whom she is already hiding the central truth from Vee. His care still reaches deeper than John’s faultless performance, but the chapter makes the contradiction harsher.
+The erotic charge peaks less in the abbreviated sex with John than in the skiing and dancing: his power held in reserve, the firm lead, and Randi’s relief at surrendering the work. The sex itself is deliberately thin on the page and emotionally goes dead almost immediately. The lipstick ring is explicit and intimate, but not especially arousing because Randi experiences her own body “from a long way off.” The cold afterward is stronger than the heat.
 
-Vee’s tiny message hurts: “i’m here if you want to talk. or not.” She offers Randi the freedom to speak or remain quiet, and Randi uses that freedom to preserve the deception. I feel fiercely protective of Vee, especially because Randi imagines her loving family kitchen and knows Vee is seeing only the fairytale.
+My only friction is that the sequence is almost overwhelmingly perfect before the reversal, but Randi herself recognizes that perfection as the point, so I bought it. The line “This was the best the acceptable world could do for her” earns the elaborate fantasy that precedes it.
 
-There is little friction for me. The repeated perfection of the night risks becoming lavishly prolonged, but it earns the length because I have to feel how complete the fantasy is before discovering it is empty. “It had meant no more than a good sandwich eaten fast on a busy afternoon” is intentionally deflating, though almost blunt compared with the more affecting cold imagery.
+“Fairytale” initially promises the romantic spectacle Randi consciously constructs—the blue dress, ballroom, midnight kiss, snow, horses, imagined daughter. By the end it means the true but false story she sends Vee: everything she describes happened, but none of it is “the thing.” The title did signal that the perfection might be suspect, though it did not give away the particular emptiness. *With a Long Spoon* still feels like a warning about taking what is offered while keeping distance from something dangerous. The tagline now applies not only to Vee’s uninformed yeses but to Randi: she says yes to John, to safety, and to keeping Vee’s choice deferred. The trap seems to be built from genuine choices made inside stories that omit the decisive truth.
 
-“Fairytale” gives away the surface but not the emptiness. At first it means the story Randi is already constructing—the dress, ball, snow, future daughter, eligible husband. By the end it means the beautiful true account she sends Vee because it hides the more consequential truth. The title becomes bitter: the fairytale is not false; it is radically incomplete.
+I want to know when this New Year falls relative to Vee’s rupture with Pace and whether Randi will finally tell either of them the truth. My guess from here is that she will return determined to preserve both relationships under their existing names, not realizing—or refusing to admit—that Vee has already stopped accepting unnamed intimacy.
 
-*With a Long Spoon* still has no settled literal meaning for me. It continues to promise dangerous intimacy approached with supposed care or distance. The tagline now feels almost spoken over Randi’s reasoning: she freely says yes to John, freely withholds the truth from Vee, and plans to let Vee freely “arrive” at desire without knowing how carefully Randi and Pace have shaped the route.
+**Cast present (in person):** Randi, Randi’s father, Randi’s mother, John; hotel, restaurant, lift, shop, ballroom, cab, and sleigh staff and surrounding guests.  
+**Mentioned only:** Pace, Vee; the imaginary future daughter and imaginary ski-camp children.
 
-I want the next chapter to return to the rupture between Vee and Pace, but now I also want Vee to go to Randi—and dread it, because Randi has just consciously decided to give her truth without “the thing.” My guess from here is that Randi will offer Vee intense tenderness after Pace’s refusal while continuing not to disclose either her love or her relationship with him. That could feel like rescue to Vee and deepen the trap at exactly her most vulnerable point.
+**Heat:** 2 — sex occurs and its aftermath includes explicit bodily evidence, but the act is compressed and the chapter’s center is Randi’s emotional emptiness.
 
-### Structured block
+**Romance:** 3 — the chapter stages a full romantic fantasy and an imagined lifetime, then turns it into a devastating negative revelation about whom Randi actually loves.
 
-**Cast present (in person):** Randi; Randi’s father; Randi’s mother; John. Also unnamed chalet, ski-lift, boutique, ball, hotel, cab, and sleigh staff and guests.  
-**Mentioned-only:** Pace; Vee; Randi’s imagined future daughter; John and Randi’s invented three children; invented boys Randi tells her father about.
+**Motifs & images:** Warmth/cold repeats intensely: borrowed heat along John’s body versus Randi’s inward cold. Dance/lead repeats through John’s firm steering versus Pace’s lighter invitation. Surface/underneath repeats in makeup, the perfect room, and John never finding Randi beneath her beauty. Words/missing information repeats in Randi’s entirely true but crucially incomplete text to Vee. Fairytale/story-making is a strong first central appearance. The locked white-gold bracelet is newly emphasized. Food returns through the exquisite dinner and the “good sandwich” comparison.
 
-**Heat:** 2 — kissing, oral sex, and intercourse occur, but the sexual action is compressed and emotionally numb rather than graphically sustained.
+**Symbolism:** The bracelet locked on Randi’s wrist reads as the approved life she wears and cannot simply slide off. The blue dress and restored face are the perfect visible Randi; neither reveals or alters the woman underneath. John’s one seam of warmth embodies borrowed comfort without inward connection. The fairytale is a beautiful, truthful surface covering emotional absence.
 
-**Romance:** 2 — a full fairytale courtship fantasy peaks in dancing, midnight, and the sleigh, then collapses into emptiness; Randi’s real romantic feeling points toward Pace and Vee.
+**Characterization:** Randi deepens enormously: her deception, fear, love, class performance, and hunger all coexist. Pace and Vee deepen through her private comparisons despite being absent. John is intentionally limited to what Randi allows herself to know; he lands as a convincing ideal surface rather than a deep person. Randi’s parents remain sharply legible but emotionally narrow.
 
-**Motifs & images:**  
-- **Warmth/cold — repeat:** borrowed warmth along John’s body cannot touch Randi’s inner cold, echoing Vee leaving Pace’s warm house for the cold and discovering that Pace’s shirt held only her own warmth.  
-- **Dance/lead — repeat:** John’s unmistakable lead contrasts explicitly with Pace’s light pressure and room for choice.  
-- **Food — repeat:** spectacular dinner and later the “good sandwich” become pleasure without lasting nourishment, against Pace’s meaningful feeding of Vee.  
-- **Surface/underneath; face/makeup — repeat:** John reaches the beautiful surface but not the hidden Randi; she restores the socially functional face at the mirror.  
-- **Mirrors/looking — repeat:** Randi constructs herself in the blue dress, then repairs her face after sex; her eyes remain untouched.  
-- **Words, truth, and omission — repeat:** “Every word of it true. None of it the thing” echoes cropped stories, disguised declarations, and withheld labels.  
-- **Consent/asking — repeat:** John assumes the hotel; Pace asks every time; Randi chooses a path that avoids asking Vee directly.  
-- **Bracelet — first emphasized sighting:** plain white gold, “locked” on Randi’s wrist, hidden from the light and later unable to slide off.  
-- **Fairytale/story/scenario — first central cluster:** Randi imagines husband, daughter, dress, ball, and sleigh, then sends Vee that true but incomplete story.  
-- **Hands/holding — repeat:** John’s hand steers Randi confidently; afterward she waits to see whether bodily holding develops into emotional connection, and it does not.
+**Pace — within the chapter:** The long fantasy earns its length because Randi and I need to experience its appeal before its emptiness can register. The aftermath slows effectively around the mirror and the unsent truth.
 
-**Symbolism:** The locked bracelet reads as an attachment or imposed identity Randi cannot simply remove, though its source is unknown. The fairytale represents the entire approved life available to her—perfect, pleasurable, and unable to reach her. Makeup restores the acceptable Randi after her private emptiness. Borrowed warmth represents comfort without inner aliveness or mutual recognition.
-
-**Characterization:** Randi deepens substantially: her appetite for control and surrender, family-trained performance, genuine feeling for Pace and Vee, fear of disclosure, and deliberate strategy of omission all become clearer. John remains intentionally limited to the faultless eligible man Randi experiences; he is vivid as a presence but not deeply known. Randi’s parents remain socially legible and emotionally constricting rather than complex.
-
-**Pace — within the chapter:** The luxurious ascent through skiing, shopping, ball, dancing, and sleigh is long but earned; the hotel aftermath turns quickly and effectively. The only slight drag is the accumulation of perfect details before the collapse.
-
-**Pace — chapter to chapter:** Momentum holds while shifting backward/sideways into Randi’s private experience. It delays the immediate aftermath of Vee leaving Pace, but sharply raises the emotional stakes by confirming Randi’s feelings and conscious concealment.
+**Pace — chapter to chapter:** Momentum builds despite shifting away from Vee’s departure. The chapter widens the rupture by revealing that Randi is also consciously protecting an unnamed, unequal intimacy.
 
 ## Carry-forward state
 
 #### Who’s who
 
-- **Pace / Peter — man; seen in person.** Twenty-two, muscular powerlifter and nearly finished math PhD student; Randi’s secret lover and Vee’s undefined lover. Lives alone west of town beyond Route 614. Mathematician, cook, woodworker, tailor, organizer, patent holder, former dance instructor, cyclist, teacher, and trusted CW regular. Patient, dominant, tender, controlled, and domestic, but conceals Randi and the engineered game. Had a two-year sexual relationship with his assigned nineteen-year-old tutor beginning when he was fifteen and insists nobody did wrong. Has an unexplained hip/thigh scar, right-hand eating rule, second towel, closed rooms, concealed bench, trail, unclear finances, and hidden preparations. Made Vee’s burgundy gown, keeps her panties, gives her clothes and domestic space, cooks for her, and attends closely to her safety and pleasure. Accepted her academic boundary and promised never to share her nude photograph. Says his house is home and “I don’t go back” to his parents. Spent Thanksgiving with Sheri. Answered Vee’s disguised declaration with “I love how good we are together,” not “I love you.” Took Vee to Chili’s when asked; sensory noise overwhelmed him. Told Vee she was “the most important person in my life” but refused to label the relationship, saying, “Words are cheap. Believe what I do,” then held silent as she cried and left. In Randi’s comparison, he leads dancing with light pressure that requires attention and leaves the rest of the way to his partner; he asks for consent aloud every time, reaches the hidden person in Randi, and on his worst night reaches further than John at his best.
-- **Miranda “Randi” — woman; seen in person.** Twenty-one, wealthy, polished marketing student and sorority woman; Pace’s secret lover and Vee’s engineered best friend. Selected Vee with Pace. Desires and kisses Vee, listens exceptionally, and turns shame into permission. Has seen Vee’s full nude photograph and knows intimate details without revealing her connection to Pace. Her family company, Miranda Holdings, is the worst outlier in the trio’s pandemic-loan data; she went colorless, said “Cheating bastards,” and concealed the family connection. At a snowy family vacation she performed warmth toward parents she privately recoiled from, invented acceptable male admirers, met John skiing, and spent New Year’s Eve with him at a white-tie ball and hotel. She freely enjoyed his assumption and sexual competence but felt untouched beneath the surface. She recognized that Pace reaches her hidden self and that Vee creates an aliveness John cannot counterfeit. She knows she could confess to Vee but fears changing their friendship, so deliberately chooses not to say the word and instead plans to let Vee arrive at desire on her own. Sent Vee a true but incomplete “fairytale” message and concealed her emptiness and night with John.
-- **Vivienne Thorne / Vee — woman; seen in person.** Junior studying economics and statistics; tall, athletic former synchronized swimmer with copper/dark-red hair and freckles. Pace’s lover and Randi’s unknowingly engineered best friend. Raised amid church culture and maternal sexual shame. Loves Pace privately and desires Randi. Sleeps regularly at Pace’s, has the top bathroom drawer, wears his flannel when absent, and set an academic limit after falling behind. Wore Pace’s gown bare beneath it at induction and sent him an uncropped photograph. Trusts him with a nude image. Protects Randi’s Miranda Holdings secret. Cannot publicly define Pace. After Chili’s and two sleepless nights, directly demanded a public name for their relationship. Rejected touch and deeds as substitutes for words and left Pace’s warm house for the cold. During Randi’s New Year’s trip, sent from Ohio: “thinking about you 💛 hope it’s beautiful out there. i’m here if you want to talk. or not.” Randi imagines Vee at her loving family’s warm kitchen and believes Vee would respond kindly to a confession but that their friendship would change.
-- **John — man; seen in person.** Towering, tanned, socially assured skier finishing law school in New Haven and keeping a place in the city. Met Randi in a ski-lift queue, initiated an improvised married-couple game, skied with controlled skill, took her to champagne, a white-tie New Year’s ball, dancing, a sleigh, and his hotel room. Firm, practiced, direct, wealthy or connected, and perfectly acceptable to Randi’s family world. Assumed sex rather than asking; gave Randi real pleasure but never reached her emotionally. “John” may be the name he gave Randi; no surname supplied.
-- **Cassie — woman; seen in person.** Vee’s protective roommate and safest longstanding friend; pre-nursing. Dry, perceptive, patient, emotionally exact. Her father’s pandemic layoff motivated the statistics project. Asked what Pace is to Vee and respected her refusal.
+- **Pace / Peter — man; seen in person.** Twenty-two, muscular powerlifter and nearly finished math PhD student; Randi’s secret lover and Vee’s undefined lover. Lives alone west of town beyond Route 614. Mathematician, cook, woodworker, tailor, organizer, patent holder, former dance instructor, cyclist, teacher, and trusted CW regular. Patient, dominant, tender, controlled, and domestic, but conceals Randi and the engineered game. Had a two-year sexual relationship with his assigned nineteen-year-old tutor beginning when he was fifteen and insists nobody did wrong. Has an unexplained hip/thigh scar, right-hand eating rule, second towel, closed rooms, concealed bench, trail, unclear finances, and hidden preparations. Made Vee’s burgundy gown, keeps her panties, gives her clothes and domestic space, cooks for her, and attends closely to safety and pleasure. Accepted her academic boundary and promised never to share her nude photograph, though Randi has seen it. Says his house is home and “I don’t go back” to his parents. Spent Thanksgiving with Sheri. Could not tell Vee he loved her or give their relationship a public label; called her the most important person in his life, told her words were cheap, then folded his arms and remained silent as she cried and left. Randi now privately contrasts his light, responsive dance lead and insistence on explicit sexual consent with John’s firmer assumptions, and admits Pace reaches the hidden person in her even on his worst night.
+- **Miranda “Randi” — woman; seen in person.** Twenty-one, wealthy, polished marketing student and sorority woman; Pace’s secret lover and Vee’s engineered best friend. Selected Vee with Pace. Desires and kisses Vee, listens exceptionally, and turns shame into permission. Has seen Vee’s full nude photograph and knows intimate details about Vee and Pace while concealing her connection to him. Her family company, Miranda Holdings, is the worst outlier in the pandemic-loan project; she went colorless and said “Cheating bastards.” On a luxury New Year ski vacation in Gstaad, she concealed her real lovers from her parents, met John, skied and attended a white-tie ball with him, willingly slept with him, and found the perfect approved experience emotionally empty. She knows Pace finds the self she hides and knows she loves and desires Vee. She has told Vee “I love you” sincerely but under the cover of friendship, meaning it “two ways” while Vee hears one. Afraid disclosure would change or cost their friendship, she decides not to make Vee choose and to let Vee “arrive at it on her own.” She sends Vee a true but incomplete “fairytale” account and hides her emptiness.
+- **Vivienne Thorne / Vee — woman; seen in person.** Junior studying economics and statistics; tall, athletic former synchronized swimmer with copper/dark-red hair and freckles. Pace’s lover and Randi’s unknowingly engineered best friend. Raised amid church culture and maternal sexual shame. Loves Pace privately and desires Randi. Sleeps regularly at Pace’s, has the top bathroom drawer, wears his flannel when absent, wore his gown bare beneath it at induction, chose public exposure, and sent him an uncropped nude photograph. Trusts him with the image and believes his promise. Protects Randi’s Miranda Holdings secret. Could not explain Pace to Cassie or her parents. After indirect and direct attempts to define the relationship, she rejected deeds and touch as substitutes for a public name and left Pace’s warm house for the cold. From Ohio shortly before her own New Year, she messages Randi: “thinking about you 💛 hope it’s beautiful out there. i’m here if you want to talk. or not.” Randi imagines Vee in her parents’ warm kitchen and recognizes Vee’s plain truthfulness and kindness while withholding the truth from her.
+- **Cassie — woman; seen in person.** Vee’s protective roommate and safest longstanding friend; pre-nursing. Dry, perceptive, patient, and emotionally exact. Her father’s pandemic layoff motivated the statistics project. Asked what Pace is to Vee and respected her refusal to answer.
 - **Sheri — woman; seen in person.** Pace’s small, fast, sexually frank cycling companion of at least two years; warned that “two of them at once” would become complicated. Spent Thanksgiving with Pace.
 - **Meg — woman; seen in person.** Calm, skeptical friend; has a boyfriend.
 - **Kayla — woman; seen in person.** Exuberant, sexually interpretive friend who helped Vee prepare for induction.
 - **Theo — man; seen in person.** Respectful friend Vee declined romantically.
+- **John — man; seen in person.** Towering, tanned, socially assured law student finishing in New Haven and keeping a place in the city. Met Randi in a Gstaad lift queue, invented a marriage and children with her, skied with controlled excellence, took her to a white-tie ball, danced with a firm traditional lead, arranged a sleigh, assumed she would come to his hotel room, and gave her skilled but emotionally empty sex. Represents an apparently faultless, family-approved future, but does not know Randi underneath.
 - **Danny — man; mentioned-only.** Possibly Meg’s boyfriend; unconfirmed.
 - **Meg’s boyfriend — man; mentioned-only.**
 - **Meg’s boyfriend’s roommate — gender unestablished; mentioned-only.**
@@ -76,10 +60,10 @@ I want the next chapter to return to the rupture between Vee and Pace, but now I
 - **Sloane — woman; seen in person.** Sorority sister who recognized Pace’s truck and masks judgment as amusement.
 - **Kinsey — woman; seen in person.** Sorority sister eager for approval.
 - **Unnamed older woman with Brooke — woman; seen in person.** Silent and appraising.
-- **Randi’s mother — woman; now seen in person.** Exquisite, restrictive, withholding, and associated with denied appetite and begging. Eats an egg-white-and-spinach omelette with black coffee; gives Randi a perfunctory hug “all edges and points.” Displays designer labels and jewelry and represents the approved life Randi performs.
-- **Randi’s father — man; now seen in person.** Tall, aging, hearty, and outwardly adoring toward Randi. Controls businesses associated with Miranda Holdings and apparently took payroll loans without preserving promised jobs. Encourages stories of male conquests and directs Randi toward an eligible bachelor.
+- **Randi’s mother — woman; now seen in person.** Exquisite, restrictive, withholding, and associated with denied appetite and begging. At breakfast gives Randi a perfunctory, physically angular hug, eats a highly controlled meal, displays designer labels and diamonds, and approves the world of eligible men without seeing Randi’s real life.
+- **Randi’s father — man; now seen in person.** Controls businesses associated with Miranda Holdings and apparently took payroll loans without preserving promised jobs. He is hearty, affectionate, aging, and socially conventional; adores Randi but asks about invented male conquests, encourages her to find an eligible bachelor, and makes the false stories safer than the truth.
 - **Vee’s mother — woman; mentioned-only.** Nurse who implanted bodily and sexual shame through propriety and *Floozy*; proud of Vee’s induction but troubled by the gown’s exposure.
-- **Vee’s father — man; mentioned-only.** Jet-engine worker, observant and conventional; proud of Vee and habitually burns rolls.
+- **Vee’s father — man; mentioned-only.** Jet-engine worker, observant and conventional; proud of Vee, habitually burns rolls, and inferred significance from the gown’s cost.
 - **Vee’s older brother — man; mentioned-only.** In the Army.
 - **Vee’s grandfather — man; mentioned-only.** Remembered as attentive and nonjudgmental.
 - **Vee’s grandmother — woman; mentioned-only.**
@@ -97,126 +81,145 @@ I want the next chapter to return to the rupture between Vee and Pace, but now I
 - **Statistics professor — man; seen in person.** Flat, methodical lecturer who taught Simpson’s paradox and outliers and assigned the real-data project.
 - **Vee’s econ instructor and TA — genders unestablished; mentioned-only.**
 - **Unnamed professor in Cassie’s story — gender unestablished; mentioned-only.**
-- **Dr. Marsh — gender unestablished; mentioned-only.** Teaches the desired Anthro elective.
+- **Dr. Marsh — gender unestablished; mentioned-only.** Teaches the desired Anthro elective Vee and Randi plan to take together.
 - **Wardy — gender unestablished; mentioned-only.** Cassie’s “oddball” humanities instructor.
 - **Pace’s unnamed student — gender unestablished; mentioned-only.**
-- **Randi’s purported dates/lovers — men; mentioned-only, now confirmed at least partly invented or displaced.**
-- **Randi’s imagined future daughter — woman/girl; mentioned-only, hypothetical.** Child to whom Randi imagines telling the fairytale of meeting “the one.”
-- **John and Randi’s three invented children — genders unestablished; mentioned-only, fictional within their ski-line game.**
+- **Randi’s purported dates/lovers — men; mentioned-only, now confirmed at least partly invented.** Randi has long fabricated safe stories about boys for her parents.
 - **Unnamed blond “young Robert Redford” — man; mentioned-only.**
 - **The blond man’s friend in trouble — gender unestablished; mentioned-only.**
-- **Robert Redford, Tony Bennett, Garth Brooks — men; mentioned-only as comparison/music.**
+- **Robert Redford, Tony Bennett, Garth Brooks — men; mentioned-only as comparisons/music.**
 - **Fleetwood Mac — musical group; mentioned-only.**
+- **Imaginary future daughter — girl/woman; mentioned-only.** Randi imagines telling her the fairytale story of meeting John, then recognizes that future as an approved fiction.
+- **Imaginary ski-camp children — genders unestablished; mentioned-only.** Invented by Randi and John while pretending to be married in the lift queue.
 - **Unnamed sorority sisters at mixer — women; mentioned-only.**
 - **Unnamed brunch hostess/menu girl — woman; seen in person.**
 - **Unnamed brunch waiter — man; seen in person.**
 - **Unnamed department presenter — woman; seen in person.**
 - **Unnamed Chili’s hostess — woman; seen in person.**
-- **New unnamed people seen:** chalet staff; lift-line skiers; boutique workers; ball guests, musicians, servers, and chef staff; cab driver; sleigh driver/attendants; hotel doorman/staff.
-- **Other minor people retained:** unnamed clothing-lending women, sorority women, shop/restaurant workers, Chili’s staff and diners, CW staff and regulars, provocative CW blonde, older CW bartender, police/pool figures, dancers, students, professors, shoppers, MRI patients, Vee’s swimming squad, ceremony honorees, parents and audience members, campus/restaurant crowds, the boy in statistics, and athletic-cafeteria diners.
+- **Other minor people retained:** unnamed clothing-lending women, sorority women, shop and restaurant workers, Chili’s staff and diners, CW staff and regulars, provocative CW blonde, older CW bartender, cab drivers, police/pool figures, dancers, students, professors, shoppers, MRI patients, Vee’s swimming squad, ceremony honorees, parents and audiences, campus and restaurant crowds, the statistics-class boy, athletic-cafeteria diners, and the Gstaad lift, hotel, boutique, ballroom, cab, sleigh, and restaurant staff and guests.
 
 #### Motif & image ledger
 
-- **Locks/doors/keys/thresholds:** Closed rooms, open doors, induction and dorm thresholds, Pace’s unlocked door, Vee stopping on the mat and leaving. New: Randi’s bracelet is “locked” on her wrist; John takes her through the hotel door after assuming the night’s direction.
-- **Warmth/cold:** Pace’s house/body versus institutional and outdoor cold; Vee’s shirt warmth came from herself; she chose cold over unnamed warmth. New: Randi is warm only along the seam touching sleeping John; the inner cold is hers, brought into the room and carried away. She returns to warmth she can borrow but cannot make.
-- **Looking/reading/being chosen:** Pace and Randi read Vee; mirrors, photographs, audiences. New: John assesses Randi; spectators watch their dancing; Randi watches his face react to her dress, but he never finds her underneath.
-- **Surface/underneath:** Gowns, nakedness, cropped images, acceptable stories, public labels. New: John takes the beautiful surface to bed but cannot reach the hidden Randi; makeup restores the surface afterward.
-- **Food/hunger/permission:** Apples, pie, curry, brunch, chicken, crackers/meal, nachos. New: elaborate illusion-food and valley venison promise a perfect night; sex is compared to a good sandwich—real pleasure, quickly consumed, leaving nothing.
-- **Voice/loaded speech:** “Boyfriend?,” “I love how good we are together,” “What am I to you?,” “Words are cheap.” New: Randi consciously refuses to “say the word” to Vee and sends a true account containing “None of it the thing.”
-- **Hands/touch/holding:** Pace’s careful handling and rejected reaching hand. New: John steadies Randi unnecessarily; his hand leads firmly; she waits after sex to see what holding develops into, but nothing does.
-- **Clothing/fabric/fit:** Burgundy gown, flannel, shirts, quilt, coat. New: pale metallic-blue ball gown displays Randi’s dancer’s body and eyes; cream coat and fur provide fairytale warmth; makeup is a wearable social face.
-- **Music/rhythm/choreography:** Dance, morning rituals, sexual order/loss of control. New: skiing alternates slow ascent and fast descent; John’s firm dance lead contrasts with Pace’s subtle lead and permitted freedom.
-- **Order/systems/models/information:** Data, plans, reliable-Pace model. New: Randi can usually run scenarios to the end but cannot complete the imagined scene of confessing to Vee; she therefore chooses a controlled indirect route.
-- **Color/light/dark:** Burgundy, gray, dawn gold, restaurant glare. New: snow brilliance, pale metallic blue, white/silver/black ball, sour-cherry red, and the bracelet kept out of the light.
-- **Words versus feeling/deeds:** Pace’s gestures exceed his words. New: Randi’s message is factually true while withholding emotional truth; John performs every romantic deed without creating feeling.
-- **Glass/mirrors/windows:** Porch glass, restaurant glass, dorm window. New: beveled chalet glass, ball/hotel windows, and Randi’s long mirror frame performance and self-inspection.
-- **Silence/attention:** Safe silence, protective silence, Pace’s refusal. New: easy chairlift silence contrasts with Randi’s deliberate silence toward Vee.
-- **Safety:** Pace’s bodily safety without definition. New: John is socially and emotionally “safe” because Randi risks nothing and therefore receives nothing deeper.
-- **Triangle/middle:** Vee unknowingly stands between Pace and Randi. New: Randi explicitly holds both Pace and Vee in mind while lying beside John.
-- **Shame/permission/rules:** Vee’s inherited shame; Pace requires spoken consent. New: Randi enjoys John’s assumption but understands Pace always makes her say yes; she avoids asking Vee to decide.
-- **Names/labels:** Peter/Pace, Vivienne/Vee, Miranda/Randi, boyfriend, unnamed love. New: “wife” and invented children become a playful label sitting close to an approved possible life; John’s name is introduced without surname.
-- **Outliers/flickers/wrong notes:** Statistical anomalies and strains. New: the faultless fairytale produces no feeling, making Randi herself seem like the “flaw” by her family world’s standards.
-- **Messages/missing information/cropping:** Edited stories, photographs, MIRH, empty message field. New: Vee offers open support; Randi sends a true, affectionate, radically incomplete reply and turns the phone face down.
-- **Filing/keeping/sweeping away:** Vee’s unresolved pile. New: Randi decides to preserve brunches and friendship by refusing direct disclosure.
-- **Body before mind:** Hunger, arousal, cold, tears. New: Randi laughs and says yes before deciding; her body knows Vee’s significance; after sex her body is satisfied but she remains unmoved.
-- **Noise versus quiet:** Chili’s overload versus quiet attention. New: midnight noise surrounds a kiss that cannot suppress the thought of Pace.
-- **Control/loss of control:** Pace’s precision; Vee’s confrontation. New: Randi takes runs fast, lets John steer in dancing and sex, then reasserts control by restoring her face and choosing concealment.
-- **Public/private:** Private house versus outside naming. New: John perfectly fits Randi’s public life while Pace and Vee belong to truths she hides.
-- **Possession/belonging/proof:** Vee belongs to Pace without knowing reciprocity. New: Randi imagines John as husband/father material yet feels no belonging; John’s eyes and hands possess her surface only.
-- **Sleep/wakefulness:** Pace sleeping while Vee lies awake. New: John sleeps contentedly while Randi remains awake, cold, dressing, thinking of Pace and Vee.
-- **Crying/contained feeling:** Vee’s tears; Randi contains everything behind a working smile.
-- **Coin/metal:** Vee’s metallic dread. New: Randi’s metallic-blue dress and locked white-gold bracelet associate beauty with containment.
-- **Arms folded/holding a line:** Pace’s refusal remains; John’s arms provide only borrowed warmth.
-- **Fairytale/story — first central appearance:** Randi constructs a future-memory around dress, ball, snow, husband, and daughter, then markets that version to Vee.
-- **Eyes — repeat/deepened:** Randi’s startling blue eyes are displayed by the dress; after sex “Nothing had happened to her eyes,” suggesting her deepest self remains untouched.
-- **Prior durable motifs retained:** water/flow, waiting/counting, gifts/cost, evidence/hidden factors, home/family, image/truth/marketing, cropped/uncropped, weird versus wrong, red curtain, Delivered photograph, first bite, separate flavors, ritual, cars/class, pastry glaze, cold wrists, second pulse, bathroom counter, top drawer, compression/making room, empty bed, bare under burgundy, long step, safe navy, light bag, fading scent, two shirts, concealed furniture, right-hand rule, two towels, scars, roads, spices, making herself small, clean model versus messy data, MIRH/Miranda, and practical protection.
+- **Locks/doors/keys/thresholds:** Pace’s closed and open rooms; dorm, induction, porch, and house thresholds; unlocked door; Vee stopping on the mat and leaving. In Gstaad, John takes Randi through a side door and then toward his hotel door without asking; she knowingly lets him take her up.
+- **Warmth/cold:** Pace’s tailored warmth versus institutional and outdoor cold; Vee’s shirt warmed by her own body and departure into worse cold. Randi is warm only along the seam touching John and cold everywhere else; the cold is hers, brought in and carried out. She later returns to “warmth she could borrow and could not make.”
+- **Looking/reading/being chosen:** Pace and Randi read Vee; mirrors, photographs, audiences, and family inspection. John assesses Randi, watches her, and is visibly struck by the dress, but never finds her underneath. Randi’s parents enjoy the version she performs.
+- **Surface/underneath:** Gowns, nakedness, cropped images, clean graphs, acceptable stories, layered shirts. Randi restores her exact face in the mirror while recognizing John has touched only her surface. Pace and Vee reach underneath the approved exterior.
+- **Food/hunger/permission:** Apples, pie, curry, brunch, chicken, Benedict, burned rolls, crackers versus meal, nachos versus Pace’s cooking. Randi’s controlled salmon breakfast and her mother’s egg-white omelette contrast with the extravagant illusion-filled dinner. Sex with John is compared to a good sandwich: real pleasure, quickly gone, nothing left to keep.
+- **Voice/loaded speech:** “He’s all mine,” “finally hungry out loud,” “just us,” “boyfriend?,” declarations and refusals. Randi’s true-but-incomplete “fairytale” text gives Vee everything except “the thing”; “miss your face most though, gorgeous” is the line she fully means.
+- **Hands/touch/holding:** Fastening, posing, hand-holding, sexual handling, Pace’s refused reaching hand. John steadies Randi unnecessarily, leads her firmly, holds her hand at midnight, and keeps an arm around her; afterward she waits to see what holding will become, but nothing develops.
+- **Clothing/fabric/fit:** Burgundy gown, flannel, shirts, quilt, coats, seams. Randi’s metallic-blue dress is designed for movement and display; her cream coat and fur provide incomplete external warmth. Makeup and clothing restore the visible face.
+- **White-gold bracelet / locked adornment — first major appearance:** Randi’s plain bracelet “never came off,” is kept out of her mother’s glittering light, then slides down her wrist while dancing but catches at the hand and cannot be removed.
+- **Music/rhythm/choreography:** Dance, morning rituals, sexual order and loss of control. Ski lifts and runs create a repeated slow-up/fast-down rhythm. John leads with firm certainty; Pace’s lighter lead asks Randi to listen and choose more of the path.
+- **Order/systems/models/information:** Bets, drawers, data, scenarios, and solvable plans. Randi can usually run every scenario to its end but cannot picture Vee’s face during a confession. John effortlessly arranges tables, transport, and the night’s direction.
+- **Color/light/dark:** Burgundy, gray institutions, dawn, restaurant fluorescence. Gstaad glitters in snow, silver, white, black, and pale blue; Randi hides her bracelet from the breakfast light while her mother’s jewels court it. The mountains are black beyond the faultless room.
+- **Words versus feeling/deeds:** Pace’s deeds exceed his labels; Vee demands words. Randi has said “I love you” to Vee truthfully but under a friendship meaning that conceals the second meaning.
+- **Glass/mirrors/windows:** Mirrors, restaurant glass, porch glass, dorm window. Beveled chalet glass frames family performance; ballroom and hotel windows frame spectacle; the mirror lets Randi restore the face while seeing her untouched eyes.
+- **Silence/attention:** Safe silence, concealment, restaurant noise, empty message field, Pace’s chosen silence. Quiet with John on the lift is easy, but his sleeping silence after sex gives nothing back. Randi turns her phone face down after withholding the truth.
+- **Safety:** Pace’s bodily safety and John’s socially approved safety. John is “safe” because Randi risks nothing inwardly; she wins exactly the emotional nothing that bargain permits.
+- **Triangle/middle:** Vee remains unknowingly between Pace and Randi. Randi now consciously holds both Pace and Vee against John as proof of what reaches her.
+- **Shame/permission/rules:** Vee’s inherited shame; Pace’s explicit asking. Randi enjoys John’s unasked assumption for one night but recognizes Pace never assumes and makes her say every yes aloud.
+- **Names/labels:** Peter/Pace, Vivienne/Vee, Miranda/Randi, boyfriend, unnamed love. Randi can call Vee “gorgeous” and say “I love you” under friendship’s cover while withholding the romantic meaning.
+- **Outliers/flickers/wrong notes:** Statistical anomalies and accumulated strains. John is the flawless acceptable model that produces no feeling; Pace and Vee are socially disruptive but emotionally real.
+- **Messages/missing information/cropping:** Edited family stories, photographs, MIRH, declarations, empty fields. Randi’s New Year message is entirely true and still omits the central truth, making textual cropping explicit.
+- **Filing/keeping/sweeping away:** Drawers, photographs, filed mismatches, sex covering questions. Randi repeatedly takes out and turns over the possibility of telling Vee, then puts it back.
+- **Body before mind:** Hunger, sternum wait, orgasm, shirt warmth, metallic taste, tears. Randi’s body knows John’s skiing and dancing skill, experiences good sex, and nevertheless remains inwardly unmoved; her body knows what comes from Vee across a table.
+- **Noise versus quiet:** Pace’s difficulty in public noise versus attention in quiet. The ballroom roars at midnight, but Randi’s internal disconnection persists.
+- **Control/loss of control:** Pace’s precision and sexual loss of control; Vee’s confrontation. Randi takes everything fast, performs exact control, then willingly gives John the steering because she is tired of work.
+- **Public/private:** Secret lovers, edited family stories, public gown and outings. John fits perfectly into Randi’s public life; Pace and Vee touch what she keeps private and could disrupt the life built to conceal her.
+- **Possession/belonging/proof:** Domestic place, photographs, “most important person.” Randi imagines John as “the one” and a future father, but neither possesses nor knows her inner self.
+- **Sleep/wakefulness:** Pace asleep while Vee lies awake; Vee’s sleepless confrontation. John sleeps immediately while Randi waits for holding to become something and then gets up alone.
+- **Crying/contained feeling:** Vee’s tears; Randi’s feelings remain contained behind a working smile and exact eyeliner.
+- **Bag/place/ritual:** Vee’s bag left in the car. Randi’s prepared dress is rejected for a new one that can become part of the story.
+- **Coin/metal taste:** Vee’s confrontation dread.
+- **Arms folded/holding a line:** Pace’s visible refusal.
+- **Fairytale/story/scenario — first central appearance:** Randi constructs the night as a future family story, recognizes John as the whole approved life, and then sends Vee a “fairytale” account whose facts are true but meaning false.
+- **Borrowed warmth / seam — first sighting:** Randi can borrow John’s bodily heat only where they touch; it cannot reach or change her cold.
+- **Face/makeup/eyes — deepened repeat of looking and surface:** Lipstick is left on John; Randi restores her face exactly. Her smile works and means nothing; “nothing had happened to her eyes.”
+- **Skill held in reserve — first explicit appearance, linked to control:** John could out-ski Randi but stays just behind without proving superiority. He dances with the same reserve.
+- **Assumption versus asking — first explicit contrast:** John assumes sex and Randi enjoys surrendering that decision in the moment; Pace asks every time and requires an audible yes.
+- **Prior durable motifs retained:** water/flow, waiting/counting, gifts/cost, evidence/hidden factors, possession/place, home/family, image/truth/marketing, cropped/uncropped, weird versus wrong, red curtain, Delivered photograph, first bite, separate flavors, ritual, cars/class, pastry glaze, cold wrists, second pulse, bathroom counter, top drawer, compression/making room, empty bed, bare under burgundy, long step, safe navy, light bag, fading scent, two shirts, concealed furniture, right-hand rule, two towels, scars, roads, spices, making herself small, clean model versus messy data, MIRH/Miranda, and practical protection.
 
 #### Symbolism noticed
 
-- **The fairytale:** Randi’s entire socially approved romantic future—beautiful, genuinely pleasurable, and emotionally empty. It is also the polished true story she gives Vee instead of disclosure.
-- **Locked white-gold bracelet:** An attachment, obligation, or identity Randi cannot remove; source and exact meaning unknown.
-- **Borrowed warmth:** Physical/social comfort that cannot create inner warmth, paralleling Vee’s discovery that Pace’s shirt could not supply what she needed.
-- **Makeup and untouched eyes:** The acceptable face can be repaired perfectly while Randi’s hidden self remains unchanged and unseen.
-- **John’s firm lead versus Pace’s light lead:** Ease through surrender to assumption versus effortful, attentive freedom.
-- **The hotel threshold:** John’s unasked assumption is erotically welcome to Randi in the moment, while also contrasting with Pace’s explicit asking.
-- **True message / missing thing:** Truth can function as concealment when decisive information is omitted.
+- **The fairytale:** A beautiful sequence of true events arranged into a false emotional story; the life Randi is expected to desire and the edited version she gives Vee.
+- **The locked white-gold bracelet:** The approved identity and life attached to Randi; less showy than her mother’s jewelry but still fixed on her and unable to slide free.
+- **Randi’s restored face and untouched eyes:** Her social performance can be repaired perfectly after sex because the encounter never reached the self behind it.
+- **Borrowed warmth:** Bodily comfort without emotional recognition; unlike warmth made through genuine intimacy, it ends at the seam of contact.
+- **The sleigh:** John appears to write the next perfect page of Randi’s chosen story, making assumption feel magical until she recognizes its emptiness.
+- **The invented marriage and children:** A joke that sits frighteningly close to the approved future genuinely available to Randi.
+- **The blue dress:** Randi’s ideal visible self, created for a man and a remembered story, spectacular without revealing her.
+- **The lipstick left on John:** Her body leaves evidence while her inward self remains absent.
+- **The phone turned face down:** Randi actively closes away Vee’s invitation to truth after replying with a curated version.
 - **The unlocked door and mat:** Physical access without relational inclusion.
-- **The bag left in the car:** Refusal to assume Vee would stay.
-- **The preheated house; waiting wine and chicken:** Genuine tailored care unable to replace definition.
-- **The closed door / “out there”:** Private intimacy divided from public relationship.
+- **The bag left in the car:** Vee’s refusal to assume she will stay.
+- **The preheated house:** Pace’s genuine wordless care, powerful but unable to define the bond.
+- **The waiting wine and chicken:** Abundance offered where Vee needs an answer.
+- **The closed door / “out there”:** Private intensity versus public namelessness.
 - **The coat buttoned to the throat:** Vee withholding bodily ease and vulnerability.
 - **Folded arms:** Pace’s emotional boundary made physical.
-- **The reaching hand:** Care and regulation unable to substitute for words.
-- **Leaving into worse cold / naked cold:** Painful clarity preferred to false closeness.
-- **Pace’s shirt:** Scent and deeds without definition.
-- **Empty message field:** Missing language.
-- **Dropped shirt:** Break in Vee’s preservation of tokens as enough.
-- **Gray dawn, rug, Chili’s, nachos, squared fork, bed edges, cooling marks, “forgiven,” porch glass, crackers/meal, quilt, doubled reflection, unmatched shapes, filed pile, concealed bench, doors, food, mirrors, dance, shoes, water, Simpson’s paradox, outliers, freely given yes, best friend, bathroom drawer, streetlight, gown, photographs, home, “just us,” Miranda Holdings, closed laptop, Vee in the middle, “boyfriend?,” and weird versus wrong:** meanings retained from prior chapters.
+- **The reaching hand:** Care and regulation that cannot substitute for speech.
+- **Leaving into worse cold:** Painful uncertainty preferred to unnamed consolation.
+- **Pace’s shirt:** Scent and deeds without definition; its warmth came from Vee.
+- **Empty message field:** Missing language too large for an indirect question.
+- **Dropped shirt / naked cold / gray dawn:** Vee breaking with token consolation and choosing painful clarity.
+- **The rug:** Earlier solutions covered the status question until it was exposed.
+- **Chili’s/noisy public room and squared fork:** Public visibility without intimacy; Pace’s overload and attempt at order.
+- **Nachos versus cooking; crackers versus meal:** Former deprivation versus Pace’s abundance and unequal declarations.
+- **Bed’s edges, cooling marks, and sweat:** Bodily certainty and evidence that cannot define emotional belonging.
+- **“Forgiven” as clothing; doubled reflection; unmatched shapes; filed pile:** Comforting interpretations applied over preserved discrepancies.
+- **Concealed bench and doors:** Hidden preparation alongside invited access.
+- **Food, mirrors, dance, shoes, water:** Appetite/permission, judgment, guided freedom, erotic structure, and correction/restoration.
+- **Simpson’s paradox and outliers:** True happiness inside a concealed whole; anomalies exposing hidden structures.
+- **Freely given yes:** Authentic choices made without decisive information.
+- **Best friend and “I love you” under cover:** Real attachment protected and distorted by an undisclosed second meaning.
+- **Bathroom drawer, home, “just us,” and possession:** Domestic belonging and desired exclusivity shadowed by concealment.
+- **Streetlight, gown, and photographs:** Visible happiness, devotion/display, consent and incomplete framing.
+- **Miranda Holdings and closed laptop:** Family corruption revealed but hidden rather than erased.
+- **Vee in the middle:** Interpreter and protector inside a triangle she cannot see.
+- **“Boyfriend?” and weird versus wrong:** Inadequate inherited categories.
 
 #### Open questions
 
 - What is the concealed bench for, and what else has Pace prepared?
 - What happened in Randi’s family, and what did she know about Miranda Holdings before seeing the record?
-- Will Randi confront her father, disclose the family connection, or tell Pace?
+- Will Randi confront her father, disclose the connection, or tell Pace?
 - Will Miranda Holdings remain in the project, and will Cassie learn the truth?
 - Why did Randi say “Cheating bastards” in the plural?
 - Will Vee tell Randi she recognized Miranda Holdings?
 - How did Pace and Randi meet, and what do they tell each other about Vee?
-- Does Randi love Vee, and has the original threesome plan changed? **Developed:** Randi recognizes a unique bodily aliveness around Vee and consciously fears confessing it.
+- When exactly does the Gstaad New Year occur relative to Vee leaving Pace’s house?
+- Will John recur, and does Randi maintain any relationship or approved story about him?
+- Does Randi love Vee? **Answered:** Yes; she says so sincerely, desires her, calls her “my gorgeous,” and fears losing her.
+- Has the original threesome plan changed?
 - How does Pace understand consent inside the hidden design?
 - When and how will Vee learn about the game and Pace/Randi relationship?
 - What does *With a Long Spoon* finally mean?
-- What does Cassie suspect, and will Vee now confide in her?
+- What does Cassie suspect, and will Vee confide in her about Pace or Randi?
+- Why does Vee want boundaries respected and also wish Cassie would push?
 - How will Vee act on her attraction to women?
-- Which of Randi’s stories about men are true? **Developed:** she explicitly invents acceptable boys for her father; John is real.
-- Who gave Randi the locked white-gold bracelet, and why can it not come off?
-- Is John his real name, and will he matter beyond this night?
-- When exactly did this New Year’s Eve occur relative to the present rupture?
-- Will Randi continue seeing John or use him as an acceptable public cover?
-- Will Randi ever tell Vee directly what she feels?
-- Will Randi deliberately steer Vee toward reciprocation while withholding the game and her relationship with Pace?
+- Which of Randi’s stories about men are true? **Developed:** The stories she tells her parents have long included invented boys because invented lovers are safer than real ones.
 - What explains Pace’s right-hand rule, scar, second towel, childhood, finances, closed rooms, trail, spices, and preparations?
-- Is Pace generally overwhelmed by high-stimulation environments, and what else has Vee misread?
-- What becomes of the panties, flannel/shirt, heels, scarf, gown, shirts, scrunchies, bag, quilt, bracelet, and photographs?
+- Is Pace generally overwhelmed by high-stimulation environments, and what else has Vee misread because of it?
+- What becomes of the panties, flannel/shirt, heels, scarf, gown, shirts, scrunchies, bag, quilt, photographs, and Randi’s locked bracelet?
 - What is Vee and Pace’s relationship called?
 - Will Pace ever tell Vee “I love you,” and what prevents him?
 - Did Pace understand the cracker-and-meal declaration and deliberately answer differently?
 - After the confrontation, will Pace pursue Vee, answer her, or continue holding the line?
 - What exact word or commitment was Pace unwilling to spend?
-- Why can Pace call Vee the most important person in his life but not define the relationship?
+- Why can Pace call Vee the most important person in his life but not define their relationship?
 - Does “most important person” include or outrank Randi, and is it true as Pace understands it?
 - Will Vee return to the house without an answer?
 - Has direct confrontation ended Vee’s ability to file discrepancies?
 - What does Pace feel about Vee, and how does it coexist with his love for Randi?
 - Does Pace consider Vee his girlfriend, and are they exclusive in any sense?
-- Does Pace avoid public outings because of overload alone, or are secrecy and preference involved?
+- Does Pace avoid public outings because of overload alone, or are secrecy and preference also involved?
 - What is the significance of “Peter,” his former tutor, and his insistence nobody did wrong?
 - Did Randi know Vee masturbated at brunch, and what does she tell Pace?
 - Will Vee name what her kisses with Randi mean?
 - What did Pace understand in Vee’s earlier “Don’t”?
 - What future did Pace imagine in making room, buying scrunchies, and sewing the gown?
 - Will Vee tell Pace she loves him despite her rule?
-- Is Pace’s house Vee’s home after she refused its warmth and left?
+- Is Pace’s house Vee’s home after she left its warmth?
 - Will Vee maintain her academic boundary?
 - What is Sheri’s exact role, and what happened at Thanksgiving?
 - Why does Pace refuse to go back to his parents?
@@ -228,56 +231,74 @@ I want the next chapter to return to the rupture between Vee and Pace, but now I
 - Will Anthro bring Vee and Randi into a more openly romantic bond?
 - Will Vee’s charitable silence continue protecting Randi’s deception?
 - Does Pace truly sleep without anything grinding in him, or was that Vee’s projection?
-- **Answered:** Vee asked the large question in person; Pace called her his most important person but refused a label.
-- **Developed:** Vee rejected touch and deeds as substitutes for words and left.
-- **Answered in part:** Randi’s purported men are at least sometimes deliberately fabricated for her parents.
-- **Developed:** Randi consciously chooses omission over confession because she fears losing the present shape of her friendship with Vee.
-- **Developed:** Pace’s consent-seeking is real and meaningful to Randi, even as he participates in the larger concealed design.
+- Will Randi ever tell Vee that “I love you” has always meant two things?
+- Will Randi continue letting Vee “arrive at it on her own,” and does she recognize how much choice that withholds?
+- What would Vee’s face actually do if Randi confessed?
+- Why is Randi’s white-gold bracelet locked on and never removed?
+- How did Randi and Pace become lovers if he can never fit the approved life she has built?
+- Does Randi understand that Vee may already be in rupture with Pace while receiving the fairytale text?
+- **Answered:** Vee asked the large question in person. Pace called her his most important person but refused a label.
+- **Answered:** Vee rejected touch and deeds as substitutes for words and left.
+- **Developed:** Pace’s explicit asking is meaningful to Randi; John’s assumptions are pleasurable in the moment but emotionally shallow.
+- **Developed:** Randi’s fear is not only rejection but losing the unguarded friendship she already has with Vee.
+- **Developed:** Randi consciously uses the friendship meaning of love as cover for romantic love.
 
 #### Running memory — story so far
 
-Randi and Pace are secret lovers who selected Vee for a sexual game and approached her separately without telling her. Randi became Vee’s best friend while Pace courted Vee through attention, mathematics, cooking, making, dancing, domestic care, dominance, and sex. Both hidden players appear to have developed real feelings.
+Randi and Pace are secret lovers who selected Vee for a sexual game and approached her separately without telling her. Randi became Vee’s best friend while Pace courted Vee through attention, mathematics, cooking, making, dancing, domestic care, dominance, and sex. Both hidden players have developed real feelings.
 
-Pace revealed his private name Peter, early-college history, and relationship at fifteen with a nineteen-year-old tutor, which he insists was not wrong. His family history, finances, scar, rules, closed rooms, and preparations remain obscure.
+Pace revealed his private name Peter, his early-college history, and his sexual relationship at fifteen with a nineteen-year-old tutor, which he insists was not wrong. His childhood, parents, finances, scar, rules, closed rooms, and preparations remain obscure.
 
-Pace made Vee a burgundy gown, gave her clothes and domestic space, and created intense sexual and domestic intimacy. Vee privately recognized that she loves him. At induction she wore his gown bare beneath it and sent him an uncropped photograph. She later entrusted him with a nude photograph after securing his promise not to share it. Randi has seen that photograph without Vee knowing Randi’s connection to Pace.
+Pace made Vee a burgundy gown from one remembered comment, gave her clothing and domestic space, and established intense sexual and domestic intimacy. Vee recognized privately that she loves him. She began sleeping at his house most school nights, received the top bathroom drawer, and used his scented flannel as a substitute during absence.
 
-Vee’s overnights harmed her schoolwork, so she set a five-night boundary and Pace accepted it. He said his house was home and that he does not go back to his parents. Sheri spent Thanksgiving with him.
+At induction, Vee wore the gown bare beneath it with Randi’s heels, chose public exposure, and sent Pace the uncropped photograph. Repeated overnights harmed her schoolwork, so she set a five-night boundary; Pace accepted it.
 
-At brunch Vee told Randi intimate details about Pace and showed her the nude photograph. Randi encouraged Vee’s appetite but lost composure when Vee described Pace wanting her whole. Vee invited Randi into an Anthro elective for “just us” and prolonged their kiss.
+Vee later offered Pace a nude photograph after securing his promise not to share it. He posed her carefully, and she sent it. He cooked for her and said his house was home, adding that he did not go back to his parents. Sheri joined him for Thanksgiving.
 
-Cassie, Vee, and Randi analyzed pandemic payroll loans. Miranda Holdings, Randi’s family company, appeared as the worst outlier. Randi went pale and said, “Cheating bastards.” Vee recognized the connection, protected Randi, and concealed it from Cassie.
+At brunch, Vee told Randi extensive details about Pace and showed her the full nude photograph. Randi called her “finally hungry out loud” and “my sex pervert” but lost composure when Vee described Pace wanting her whole. Vee invited Randi into an Anthro elective for “just us” and prolonged their kiss.
 
-Over Thanksgiving Vee gave her parents only acceptable fragments of Pace and tentatively called him her boyfriend. Cassie later asked what he was to her; Vee could not answer.
+In statistics, Cassie proposed analyzing pandemic payroll loans, Vee modeled the data, and Randi graphed it. Miranda Holdings, Randi’s family company, appeared as the worst outlier. Randi went pale and said, “Cheating bastards.” Vee recognized the connection, protected Randi, and concealed it from Cassie.
 
-Vee indirectly declared love through the image of Pace feeding her a meal after a life of crackers. Pace answered, “I love how good we are together,” not “I love you.” Later Vee asked if they were “just sex” and complained they never went out. Pace immediately took her to Chili’s, where noise and screens overwhelmed him. Vee misread him and accused him of punishment; he calmly explained that he could not hear her there.
+Over Thanksgiving, Vee sent her parents a cropped induction photograph and gave them only acceptable pieces of Pace. She tentatively called him her boyfriend but concealed his age, house, sewing, cooking, and their sexual life. Cassie later asked what Pace was to her. Vee could not answer; Cassie respected the boundary.
 
-After prolonged sex and Pace’s loss of control, Vee still could not tell whether he belonged to her. She spent two sleepless nights, realized his shirt contained his deeds but no name, and drove to his house without bringing in her overnight bag.
+On Pace’s porch before dawn, Vee told him she had eaten crackers all her life and he fed her a meal. Pace answered, “I love how good we are together,” praised their bodily connection, and held her without saying he loved her. Vee knew the statements were not the same shape but did not test the discrepancy.
 
-Pace had warmed the house, poured wine, and started chicken. Vee refused the arrival kiss and asked what she was to him. He called her “the most important person in my life” but offered comparison with her friends rather than a label. When he said, “Words are cheap. Believe what I do,” she answered, “you still won’t spend them on me.” He folded his arms and remained silent. She refused his reaching hand and left for the cold.
+After sex on another night, Vee asked whether they were “just sex” and complained that they never went out. Pace immediately took her to Chili’s. The noise and screens overwhelmed him; Vee misread that as irritation and unfairly accused him of punishment. Pace calmly explained that such places make it impossible for him to hear her despite trying. His “I’m listening now” reassured her.
 
-During a snowy family holiday around New Year’s, Randi breakfasted with her parents and performed the polished daughter they expected. She privately felt revulsion toward her father and experienced her mother as all edges. She invented stories of male admirers because invented men were safer than real ones at that table.
+Pace then gave Vee prolonged, attentive sex and finally lost control, entering her urgently. Vee briefly took his loss of control as proof of possession, but after he slept she still could not tell whether he belonged to her or name their relationship.
 
-Randi met John in a ski-lift queue. They improvised being married with three children, skied together, and found an easy rhythm. John was an exceptional skier who could have surpassed her but stayed just behind. He invited her directly to a white-tie New Year’s ball. She accepted before consciously deciding and bought a pale metallic-blue dress, imagining the night as the story she would someday tell a daughter about meeting her father.
+Back in the cold dorm, Vee lay awake while Cassie slept below. She considered messaging Pace but knew no small question could extract the large truth. She put Pace’s shirt against her bare skin, realized its warmth came from her own body and its scent held deeds but no name, dropped it unfolded, and lay naked in the cold until dawn.
 
-John reacted strongly to her entrance. They attended an opulent dinner and danced. His firm, effortless lead contrasted with Pace’s light, attentive pressure; Randi enjoyed surrendering the work. At midnight they kissed. John procured a sleigh through the snow and took her to his hotel without asking where the night was going. Randi noticed the assumption, contrasted it with Pace’s insistence on spoken consent, and discovered that she liked not being asked that night.
+After two sleepless nights, Vee drove to Pace’s house. He had raised the heat for her, poured wine, and begun cooking chicken. She left her bag in the car, stopped on the mat, kept her coat fastened, and refused their usual kiss.
 
-Sex with John was good, but afterward Randi felt emotionally untouched and internally cold. John represented the best possible approved life, with no flaw she could identify, yet he reached only her surface. She restored her makeup while recognizing that Pace reaches her hidden self and that Vee creates an aliveness the perfect night cannot imitate.
+Vee asked what they were and what she was to him outside the house. Pace called her “the most important person in my life,” compared their relationship favorably with her friends’, and said, “Words are cheap. Believe what I do.” Vee answered, “Words are cheap, and you still won’t spend them on me.” Pace shut down, folded his arms, and remained silent. Vee cried, refused his reaching hand in place of the missing word, and left into the cold.
 
-Randi considered confessing her feelings to Vee but could not imagine Vee’s face during the disclosure. She believed Vee would be kind but feared their easy friendship would become guarded. She therefore deliberately decided not to say the word, instead preserving brunches and allowing Vee to arrive at desire on her own.
+In the newly revealed Gstaad New Year episode, Randi breakfasts with her wealthy parents in a spectacular chalet. Her father affectionately asks about boys and eligible bachelors; Randi supplies invented conquests because fictional men have always been safer than real lovers at that table. Her mother is exquisite, controlled, and withholding. Randi hides her plain locked bracelet from the light.
 
-Vee messaged from Ohio offering Randi affection and the freedom to talk or not. Randi replied with the beautiful true “fairytale” of chalet and mountains, omitted John and her emptiness, added that she missed Vee’s face, turned the phone down, and returned to John’s bed for borrowed warmth.
+Skiing alone, Randi meets John in a lift queue. They play at being married with three imaginary children. John is a highly skilled skier who stays just behind Randi without displaying superiority. Their flirtation develops through repeated lift rides and difficult runs.
+
+They drink champagne at a mountain hütte, and John directly invites her to a white-tie New Year’s ball. Randi agrees and buys a pale metallic-blue dress, imagining the night as the story she will someday tell a daughter: the year she met the child’s father.
+
+John is overwhelmed by her appearance and takes her to a dazzling black, white, and silver ballroom. They eat an extravagant dinner and dance. Randi finds his firm, unmistakable lead easier than Pace’s light pressure, which requires her active attention and choice. She thinks John is “the one.”
+
+At midnight John kisses her. Afterward he conjures a sleigh through the snow and takes her toward his hotel without asking where the night will end. Randi recognizes that Pace never assumes and always makes her say her desire aloud, but on this night she likes not being asked and willingly goes upstairs.
+
+The sex is physically good but leaves Randi emotionally untouched. John falls asleep while she waits for holding to develop into intimacy. She is warm only where their bodies touch and realizes the cold is hers. Seeing her lipstick on his body and restoring her face in the mirror, she understands that the faultless approved man and life have touched only her surface because she risked nothing underneath.
+
+Randi admits Pace reaches further on his worst night than John does at his best. Pace terrifies her because he finds the hidden person and cannot belong in her socially approved life. She also admits that something comes from Vee across an ordinary table that the perfect room cannot counterfeit.
+
+Randi considers telling Vee the romantic truth. She believes Vee would be kind rather than abandon her, but fears their hot, easy friendship would become guarded. She knows Vee is the best friend she has ever had and that her repeated “I love you” has been sincere in two ways. Because she is not brave enough to risk losing Vee, she decides not to make Vee choose, but to preserve the friendship cover and let Vee reach the second meaning herself.
+
+Vee messages from Ohio, offering to talk or not and hoping Randi’s trip is beautiful. Randi imagines Vee’s loving family kitchen and knows Vee sees her as living a fairytale. She replies with a completely true but emotionally false account of the chalet and mountains, adds the sincere “miss your face most though, gorgeous,” turns the phone face down, and returns to John’s bed for warmth she can borrow but cannot make.
 
 #### Running memory — how I feel
 
-- **Pace/Peter:** Intensely attractive for strength, precision, patience, sexual generosity, making, cooking, and detailed care. Randi’s comparison deepens the appeal of his light dance lead and explicit asking: he reaches hidden people rather than merely performing competence upon them. Distrust remains sharp because he conceals Randi and the engineered game and deliberately refused Vee a relational word.
-- **Randi:** More sympathetic, more emotionally exposed, and more dangerous. Her family-trained performance and hunger to be found now feel painfully real. I believe her feelings for Pace and Vee are genuine. I am attracted to her intelligence, beauty, appetite, and aliveness, but distrust her conscious choice to preserve intimacy by withholding the truth and letting Vee “arrive” without full knowledge.
-- **Vee:** Deep affection, attraction, protectiveness, and pride. Her tiny New Year’s message is characteristically generous and noncoercive. It hurts that Randi answers her openness with a carefully incomplete truth.
-- **John:** Strong initial attraction to his confidence, restraint on the mountain, directness, dancing, and fairytale competence. Little personal distrust—he does not appear malicious—but emotional distance after his unasked assumption and immediate sleep. He is socially perfect and inwardly irrelevant to Randi.
-- **Randi’s mother:** Strong discomfort. Elegant, withholding, and physically/emotionally sharp; she appears to embody the acceptable surface Randi has learned to maintain.
-- **Randi’s father:** Distrust and revulsion sharpened by Randi’s own response, his appetite for invented conquest stories, and the Miranda Holdings evidence. His affection seems directed toward an acceptable daughter he does not truly know.
-- **Cassie:** Highest trust and warmth; hope remains that Vee will confide in her.
-- **Sheri:** Warmth and cautious trust; her warning about “two at once” remains urgent.
+- **Pace/Peter:** Intensely attracted to his strength, precision, patience, sexual generosity, making, cooking, and bodily care. Randi’s comparison makes his insistence on explicit asking feel newly valuable, and her admission that he goes directly to her hidden self confirms his emotional power. Distrust remains sharp because he conceals Randi and the game and deliberately refused Vee a public word in a quiet room.
+- **Randi:** Stronger tenderness and attraction than before. Her polished deception now reads as survival within a family and social life that rewards only the acceptable surface. Her love for Vee is real, profound, and frightened. At the same time, distrust has increased because she consciously chooses a covered meaning that keeps Vee from deciding what to do with the truth. Her fear is sympathetic; her solution is not innocent.
+- **Vee:** Deep affection, attraction, protectiveness, and pride. Her plain truthfulness now stands in painful contrast to Randi’s curated fairytale. She is unknowingly being denied decisive information by both people she loves.
+- **John:** Strong physical and romantic attraction during the skiing and ballroom sequence; little emotional attachment afterward. I do not think he is malicious. His assumption about sex makes me uneasy, but Randi knowingly accepts it. He remains a faultless surface because Randi never offers him more.
+- **Cassie:** Highest trust and warmth; still the person I most want Vee to confide in.
+- **Sheri:** Warmth and cautious trust; her warning that two at once would become complicated feels increasingly exact.
 - **Meg:** Warmth and trust.
 - **Kayla:** Warm amusement with reservations.
 - **Theo:** Mild warmth and respect.
@@ -285,8 +306,10 @@ Vee messaged from Ohio offering Randi affection and the freedom to talk or not. 
 - **Brooke:** Wary and intimidated.
 - **Sloane:** Distrust.
 - **Kinsey:** Mild sympathy and discomfort.
+- **Randi’s mother:** Strong discomfort and some anger. Her exquisite control and perfunctory affection help explain Randi’s armor.
+- **Randi’s father:** Mixed warmth and distrust. His affection seems genuine, but it only welcomes the acceptable daughter and approved men; the business scandal remains unresolved.
 - **Vee’s mother:** Anger and pity softened by her pride.
 - **Vee’s father:** Warmth; loving and observant but conventionally limited.
 - **Pace’s parents:** Concern and curiosity.
 - **Pace’s former tutor:** Alarm.
-- **Overall mood:** Beautiful, cold, and increasingly trapped. The chapter confirms that Randi’s love and concealment are both real. The approved fairytale cannot touch her, while Pace and Vee can—but she chooses to protect that aliveness through omission. The tagline now feels immediate: genuine yeses and genuine pleasures are accumulating inside truths no one is being allowed to see whole.
+- **Overall mood:** Glittering, romantic, and inwardly freezing. Randi’s love for Vee is no longer a suspicion, but neither is her decision to hide its full meaning. The trap feels broader now: Vee’s choices are genuine but uninformed, while Randi also makes genuine choices inside an approved fairytale that leaves her untouched. Both secret lovers know Vee matters profoundly; neither has yet given her the whole truth.
