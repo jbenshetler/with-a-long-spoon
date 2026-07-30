@@ -1,0 +1,58 @@
+{
+  "model_selector": "gpt-5.5",
+  "model_id": "gpt-5.5",
+  "completed": 3,
+  "generated": 3,
+  "skipped": 0,
+  "total_cost": 1.533455,
+  "total_input": 46465,
+  "total_output": 43371,
+  "total_tokens": 89836,
+  "per_chapter": [
+    {
+      "slug": "stranger",
+      "title": "The Stranger",
+      "status": "generated",
+      "cost": 0.319255,
+      "input": 10409,
+      "output": 8907,
+      "totalTokens": 19316,
+      "promptTokens": 10409,
+      "reasoningTokens": 20,
+      "cacheRead": 0,
+      "duration_s": 101.1,
+      "wall_s": 101.1,
+      "path": "reviews/cold-read/gpt-5.5/stranger.md"
+    },
+    {
+      "slug": "my-friend-randi",
+      "title": "My Friend Randi",
+      "status": "generated",
+      "cost": 0.52222,
+      "input": 13268,
+      "output": 15196,
+      "totalTokens": 28464,
+      "promptTokens": 13268,
+      "reasoningTokens": 25,
+      "cacheRead": 0,
+      "duration_s": 179.3,
+      "wall_s": 179.3,
+      "path": "reviews/cold-read/gpt-5.5/my-friend-randi.md"
+    },
+    {
+      "slug": "nothing-underneath",
+      "title": "Nothing Underneath",
+      "status": "generated",
+      "cost": 0.69198,
+      "input": 22788,
+      "output": 19268,
+      "totalTokens": 42056,
+      "promptTokens": 22788,
+      "reasoningTokens": 38,
+      "cacheRead": 0,
+      "duration_s": 214.7,
+      "wall_s": 214.7,
+      "path": "reviews/cold-read/gpt-5.5/nothing-underneath.md"
+    }
+  ]
+}
