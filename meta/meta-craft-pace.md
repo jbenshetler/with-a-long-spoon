@@ -134,7 +134,7 @@ The vow holds the line below his consciousness. He does not in any moment decide
 
 ## The Porch-Scene-Style Discomfort
 
-*(Primary instance: `porch-scene.md`. Smaller instances distributed across the year precede it.)*
+*(Primary instance: `seconds.md`. Smaller instances distributed across the year precede it.)*
 
 Three concurrent sources, none surfaced by Pace, not all named by the prose:
 1. The substrate of the choice-become-habit peeking through

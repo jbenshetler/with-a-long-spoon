@@ -104,9 +104,9 @@ The thesis doc currently treats the three appetites at the structural level but 
 
 Mid-novel beat added: Vee speaks the cracker-and-meal figure as her displacement *I love you*; Pace understands and routes her speech down the sex-channel as deniable self-protective response; Vee cannot tell whether he understood or didn't, both possibilities bad. Precursor grain to the Christmas fight.
 
-## 9. Porch scene draft (REVISION DONE — see porch-scene.md)
+## 9. Porch scene draft (REVISION DONE — see seconds.md)
 
-First-pass draft was captured in `porch-scene.md`. The revisions installed:
+First-pass draft was captured in `seconds.md`. The revisions installed:
 
 - **Pace's response reframed as sincere within his grammar.** Not evasion the prose silently codes as evasion; *he is declaring through his grammar.* The verbal smallness is what his grammar permits with the vow holding; the bodily presence (closer pull, longer kiss with cheek-settling) is the substantive declaration. For a reader with the architecture available, the bodily layer reads as substantive declaration; the verbal smallness reads as the constraint of the vow.
 
@@ -246,7 +246,7 @@ The restructure moved {{Barely Stings}} / {{Still Life}} / {{Gesso}} to spring a
 
 ## 29. Prolepsis compression pass — line-level TODOs
 
-**porch-scene.md — coda after the break (L55–67): KEEP essentially intact** *(compression reversed after a dependency check)*
+**seconds.md — coda after the break (L55–67): KEEP essentially intact** *(compression reversed after a dependency check)*
 The coda's forward-narration is **load-bearing plant, not thesis-y summary.** The reservoir line (L65: "there would be other things in it by then… her reliable-Pace model had to do small repair work") is the **only** on-page installation of the sand-in-the-gears accumulation, which the **Christmas fight (`believe-me.md`)** and the **spring scrunchie gaslight** harvest; the wound lines (L59 bus/body-surfacing; L63 "He had not said the sentence back."; L67 the figure retiring) carry {{Believe Me}}'s engine ("Words are cheap, and you still won't spend them on me"). **All KEEP.**
 - [ ] **REVIEW (author, during the porch review cycle):** the pure fated-note "She would continue. She would love him." (L61) — the one line that reads as arc-summary rather than plant. Trim-or-keep is an author call at porch review; everything else in the coda stays.
 

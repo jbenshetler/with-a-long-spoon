@@ -179,7 +179,7 @@ The chiasmus between Vee's transformation and Randi's is real, architectural, an
 
 ## The Cracker-and-Meal Image
 
-The writer's tool for understanding Vee's interior across the year. **Does not appear in the prose** — with one exception: Vee speaks the figure once, whole, in displacement as her *I love you* at the porch scene. *(→ `porch-scene.md`.)* That is the sole prose appearance. Everywhere else it lives only in the architecture.
+The writer's tool for understanding Vee's interior across the year. **Does not appear in the prose** — with one exception: Vee speaks the figure once, whole, in displacement as her *I love you* at the porch scene. *(→ `seconds.md`.)* That is the sole prose appearance. Everywhere else it lives only in the architecture.
 
 ---
 

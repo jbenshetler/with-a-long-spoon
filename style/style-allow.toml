@@ -536,6 +536,13 @@ text = "She sat with the engine ticking down and made herself feel the wanting a
 note = "Author-approved: intentional register ('the way' incl. the de-shaming gaze), close-third perception (filter verbs incl. the body-before-mind 'felt the wet'), and accepted single tics."
 
 [[ok]]
+fp   = "e0eb7cfdcfc5"
+rule = "the-way"
+file = "scenes/believe-me.md"
+text = "The truck was in the drive when she pulled in, pale against the trees, and past it the house held its light low in the windows the way it always did, lamplight and not the overhead, the glow of a room already warm."
+note = "Cold-read pass 2026-07-30: ritual-repetition work (the door ritual all four reviewers cite); author kept"
+
+[[ok]]
 fp   = "e3b7da488389"
 rule = "the-way"
 file = "scenes/believe-me.md"
@@ -555,6 +562,62 @@ rule = "there-was-were"
 file = "scenes/believe-me.md"
 text = "There was a taste in her mouth like a coin held under the tongue, thin and metal."
 note = "Author-approved: intentional register ('the way' incl. the de-shaming gaze), close-third perception (filter verbs incl. the body-before-mind 'felt the wet'), and accepted single tics."
+
+[[ok]]
+fp   = "845cc5838f02"
+rule = "unhurried"
+file = "scenes/believe-me.md"
+text = "His face opened when he saw her, the way it opened every time, and he crossed to her with unhurried certainty, for the kiss he always gave her at the door."
+note = "Cold-read pass 2026-07-30: Pace's word on Pace, load-bearing door-kiss beat; author kept"
+
+[[ok]]
+fp   = "1bb817dfcf68"
+rule = "warm"
+file = "scenes/believe-me.md"
+text = "Him first, the clean warm of him with the sawdust and the salt under it, and then the food, something rich and spiced going low on the stove."
+note = "Re-ack after music-beat insertion 2026-07-30 (sentence re-armed; the sanctioned 'clean warm of him' unchanged)"
+
+[[ok]]
+fp   = "7595c32eef5d"
+rule = "warm"
+file = "scenes/believe-me.md"
+text = "The truck was in the drive when she pulled in, pale against the trees, and past it the house held its light low in the windows the way it always did, lamplight and not the overhead, the glow of a room already warm."
+note = "Cold-read pass 2026-07-30: warm cluster is the scene's subject (weaponized warmth); all load-bearing; author kept"
+
+[[ok]]
+fp   = "9df7c7aceebe"
+rule = "warm"
+file = "scenes/believe-me.md"
+text = "Him first, the clean warm of him with the sawdust and the salt under it, and then the food, something rich and spiced going low on the stove, and the two together went straight past her guard into the old wanting and made it worse."
+note = "Cold-read pass 2026-07-30: warm cluster is the scene's subject (weaponized warmth); all load-bearing; author kept"
+
+[[ok]]
+fp   = "a31fcc85e94e"
+rule = "warm"
+file = "scenes/believe-me.md"
+text = "She came in out of the dark and pushed it to behind her, and the heat of the house closed over her at once, too warm for him and made that way for her."
+note = "Cold-read pass 2026-07-30: warm cluster is the scene's subject (weaponized warmth); all load-bearing; author kept"
+
+[[ok]]
+fp   = "dffefbe6a5b7"
+rule = "warm"
+file = "scenes/believe-me.md"
+text = "\"You take me into your warm house every weekend,\" she said."
+note = "Cold-read pass 2026-07-30: warm cluster is the scene's subject (weaponized warmth); all load-bearing; author kept"
+
+[[ok]]
+fp   = "e425e239e0f3"
+rule = "warm"
+file = "scenes/believe-me.md"
+text = "We eat, and then if you're warm enough we sit out on the porch a while."
+note = "Cold-read pass 2026-07-30: warm cluster is the scene's subject (weaponized warmth); all load-bearing; author kept"
+
+[[ok]]
+fp   = "e5a5a6f63e3e"
+rule = "warm"
+file = "scenes/believe-me.md"
+text = "If it had been only the food, only his hands, only the warm, she could have taken it for what it was and driven home light."
+note = "Cold-read pass 2026-07-30: warm cluster is the scene's subject (weaponized warmth); all load-bearing; author kept"
 
 [[ok]]
 fp   = "83d5a9f9cf1c"
@@ -1852,34 +1915,6 @@ text = "It had to have data — he wanted to be clear about that, this was a sta
 note = "Professor's credo (data, not analogies); author sign-off 2026-07-29"
 
 [[ok]]
-fp   = "2f6ed740ed95"
-rule = "the-way"
-file = "scenes/porch-scene.md"
-text = "He kept the porch heater low overnight in the colder months — *for the plants,* he had said, the way he said practical things, without making them about himself — and the air on the porch had the close even warmth she had come to know as the texture of being at his house in the early morning."
-note = "author-sanctioned: 'the way he said practical things' — Vee generalizing his habit is the point (2026-07-30)"
-
-[[ok]]
-fp   = "40b826145e64"
-rule = "the-way"
-file = "scenes/porch-scene.md"
-text = "She had been carrying the sentence assembled for long enough that it came out the way a poem comes out when you have memorized it — whole, with the rhythm she had given it, finished before she had fully decided to start."
-note = "author-sanctioned: 'the way a poem comes out' — load-bearing idiom (2026-07-29)"
-
-[[ok]]
-fp   = "4c18ba84d94c"
-rule = "the-way"
-file = "scenes/porch-scene.md"
-text = "She thought, in the way you think when you are not yet thinking but only listening to your body, *what?* And then she thought, *what did he—* and then she stopped thinking because his hand on her shin had begun to move in the small slow way it moved when he was settling further into a long quiet morning with her, and his other arm came around her, and she let herself be drawn into him, and the small *wait* behind her sternum went into the body where small *waits* go when the room is warm and the man is holding you and the sun has begun to come up."
-note = "author-sanctioned: 'the way you think when you are not yet thinking' — body-before-mind generalization kept (2026-07-30)"
-
-[[ok]]
-fp   = "ba884f13a07e"
-rule = "the-way"
-file = "scenes/porch-scene.md"
-text = "He pulled her a little closer under the quilt — not casually, but the way a man rearranges himself when he wants you against him for a particular reason, the small specific adjustment of his arm around her shoulder, the deliberateness of being held."
-note = "author-sanctioned: 'the way a man rearranges himself' — load-bearing idiom (2026-07-29)"
-
-[[ok]]
 fp   = "43d320416eac"
 rule = "clock-verb"
 file = "scenes/practice-room.md"
@@ -2067,6 +2102,34 @@ rule = "whole-of"
 file = "scenes/school-nights.md"
 text = "She reached for the word after it and didn't have one, and laughed at herself reaching, and put both hands up at the size of it instead, at the cooking and the watching and the whole of himself turned on her until the rest of the room went quiet and dark around her."
 note = "author kept: 'the whole of himself turned on her' — climactic totality-as-content use, panel-praised paragraph"
+
+[[ok]]
+fp   = "2f6ed740ed95"
+rule = "the-way"
+file = "scenes/seconds.md"
+text = "He kept the porch heater low overnight in the colder months — *for the plants,* he had said, the way he said practical things, without making them about himself — and the air on the porch had the close even warmth she had come to know as the texture of being at his house in the early morning."
+note = "author-sanctioned: 'the way he said practical things' — Vee generalizing his habit is the point (2026-07-30)"
+
+[[ok]]
+fp   = "40b826145e64"
+rule = "the-way"
+file = "scenes/seconds.md"
+text = "She had been carrying the sentence assembled for long enough that it came out the way a poem comes out when you have memorized it — whole, with the rhythm she had given it, finished before she had fully decided to start."
+note = "author-sanctioned: 'the way a poem comes out' — load-bearing idiom (2026-07-29)"
+
+[[ok]]
+fp   = "4c18ba84d94c"
+rule = "the-way"
+file = "scenes/seconds.md"
+text = "She thought, in the way you think when you are not yet thinking but only listening to your body, *what?* And then she thought, *what did he—* and then she stopped thinking because his hand on her shin had begun to move in the small slow way it moved when he was settling further into a long quiet morning with her, and his other arm came around her, and she let herself be drawn into him, and the small *wait* behind her sternum went into the body where small *waits* go when the room is warm and the man is holding you and the sun has begun to come up."
+note = "author-sanctioned: 'the way you think when you are not yet thinking' — body-before-mind generalization kept (2026-07-30)"
+
+[[ok]]
+fp   = "ba884f13a07e"
+rule = "the-way"
+file = "scenes/seconds.md"
+text = "He pulled her a little closer under the quilt — not casually, but the way a man rearranges himself when he wants you against him for a particular reason, the small specific adjustment of his arm around her shoulder, the deliberateness of being held."
+note = "author-sanctioned: 'the way a man rearranges himself' — load-bearing idiom (2026-07-29)"
 
 [[ok]]
 fp   = "bda5b5610495"
@@ -3593,6 +3656,13 @@ rule = "the-way"
 file = "scenes/under-the-rug.md"
 text = "He cupped one in his hand, the soft full weight of it, his thumb going slow across the nipple until it stood up for him, and brought his mouth to the other — his tongue first, unhurried, circling, then his lips closing and drawing, a long pull that went all the way down through her."
 note = "author 2026-07-30: literal-directional 'all the way down', not the filtered construction"
+
+[[ok]]
+fp   = "779403d51531"
+rule = "the-way"
+file = "scenes/under-the-rug.md"
+text = "He made small talk on the way down — something on a podcast, the parking at the rec center, a thing one of his students had said in office hours."
+note = "author 2026-07-30: literal-directional 'on the way down', not the filtered construction; re-armed by radio→podcast edit"
 
 [[ok]]
 fp   = "c65110ecfb89"

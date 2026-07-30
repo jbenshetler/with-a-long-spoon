@@ -36,6 +36,11 @@ reader cohort snagging on the same spot, or an edit that re-opens the passage).
   she let it") (fable-5, lone and self-cleared: "I felt it before I noticed it, so
   it passes") — stands. Opus and 5.5 quoted the line as the withheld-name motif made
   physical; the "as she let it" clause carries the coda's complicity work.
+  *Author re-opened 2026-07-30:* the follow-on clause ", and was glad, in the wreck
+  of it, not to have said it" was cut — it restated the complicity "as she let it"
+  already carries, and was the exact spot fable-5's flag pointed at. The sentence
+  now ends "…and not the other thing." The drowning sentence itself still stands
+  as recorded above.
 - **Vee's fast, self-wounding restaurant conclusion** ("The just-sex of it, proven in
   fluorescent light") (5.5, self-cleared: "her fear talking, not the author asking me
   to believe it") — designed misread; the brief specifies she runs the opposite

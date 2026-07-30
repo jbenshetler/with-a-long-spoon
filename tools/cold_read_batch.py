@@ -59,7 +59,7 @@ FALL_SCENES = [
     {"title": "All the Time", "slug": "all-the-time"},
     {"title": "The Outlier", "slug": "outlier"},
     {"title": "Cropped", "slug": "cropped"},
-    {"title": "The Porch Scene", "slug": "porch-scene"},
+    {"title": "Seconds", "slug": "seconds"},
     {"title": "Under the Rug", "slug": "under-the-rug"},
     {"title": "Bare", "slug": "bare"},
     {"title": "Believe Me", "slug": "believe-me"},
