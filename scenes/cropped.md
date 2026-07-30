@@ -8,15 +8,15 @@ Cassie thought about it. "Good to see my parents. My sister has the new baby, so
 
 "Good," Vee said, and meant it. "They were so proud. The honor society thing. Mom cried on the phone when I told her, and then she cried again at the table, just remembering it." She smiled down at her tray. "Dad burned the rolls. On purpose, I'm pretty sure."
 
-"He does that."
+"He does that?"
 
 "He does." Vee turned her fork over. "Mom had the picture. From the induction. She'd printed it out, she had it in her purse, she kept taking it out to show people who'd already seen it. I cropped it before I sent it. The version they have stops at the waist."
 
 Cassie waited.
 
-"And Dad kept looking at it. Not at me, at the dress." She set the fork down. "And Mom had thoughts about the top of it. The shoulders. She didn't say anything, just touched her own collarbone while she looked. You know the one."
+"And Dad kept looking at it. Not at me, at the dress." She set the fork down. "And Mom had thoughts about the top of it. The shoulders. She didn't say anything, just touched her own collarbone while she looked. You know how she does."
 
-"I know the one," Cassie said.
+"I know how she does," Cassie said.
 
 "And then of course it turned into, well, who took you to this thing. Who gives a girl a dress like that. Who is he." Vee heard the next part before she said it. "I told them he was my boyfriend. I think I put a question mark on it. Out loud. Like I was asking them."
 
