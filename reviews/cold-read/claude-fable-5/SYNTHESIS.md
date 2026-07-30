@@ -96,3 +96,19 @@ Genuine confusion / unresolved snags:
 - **Titles:** "Vee Tells Randi About We Find Out" is the run's one real title complaint — "a log line, not a title… gave the game away and gave nothing back"; "The Top Drawer" "did lightly give the game away."
 
 Notably, the reader's dominant experience of the flagged devices (the stats lectures, the double-floored phrases) was pleasure, not friction — "the book keeps paying off its own litter, which is why I now trust every stray object" (Two Towels).
+
+---
+
+# Addendum — regenerated tail (run of 2026-07-30)
+
+*Scope: `fairytale` → `old-acquaintances` → `the-usual` → `my-friend-randi` → `nothing-underneath`, regenerated `--fresh` against the current prose (these five scenes had all been edited since the reviews above were written; the whole chain upstream of them also carries scene-stale reviews back to `standards` — a full repair is `standards.. --fresh`). Where this addendum conflicts with the sections above on these five chapters, the addendum is current.*
+
+**The break sequence, fresh.** The New Year's diptych verdict strengthened: `old-acquaintances` read as "the best structural move the book has made in a while" — same midnight, opposite beds, "Randi in a chalet... feeling nothing; Vee under flannel sheets... feeling everything" — with the added discovery that Vee's midnight text was *composed and vetted*, recoloring the prior chapter's tenderest beat ("both women are now holding a covered thing for the other"). `fairytale` itself: "annoyed for about two paragraphs and then completely taken"; "the extraction expert learned extraction at home"; Randi's non-telling read as "the pointing game run on her own heart." `the-usual` confirmed Sheri as "best single-scene character debut in the book" and produced the run's most-quoted damning line: "long practice at deciding a thing could keep... delivered as calm."
+
+**The reconciliation pair.** `my-friend-randi`: total, explicitly-held double-vision — "everything on the page is warm, and everything I know underneath it is ice"; the coat plan clocked as "the pointing game in miniature, the yes manufactured so it arrives as Vee's own"; the dread peak is the *heels* ("Randi dressing Vee for Pace's door"), and the reader exits asking whether Pace will ever recognize them. The Gstaad hands-pause was caught exactly as designed — pity inside the dread, the lie-as-joke landing as "almost the truth." `nothing-underneath`: "the erotic peak of the book so far... and interestingly it's Vee alone" — the mirror edging ("It left her feeling, of all things, powerful" called "the whole novel's argument about her in one line"); the reunion "resolved on his terms" with the reader clocking that he *still* never says the word ("that word 'tonight' is doing quiet work"); and the closing verdict: "Randi fed her this night with a very long spoon, and Vee ate it as her own cooking." Exit prediction: "Randi collects."
+
+**Heat/romance across the tail:** 2/2 → 1/2 → 1/2 → 1/2 → **3/3** — winter plain into the volume's peak convergence, consistent with the curve analysis above.
+
+**Fresh friction flags (all minor):** `fairytale` — the ball/dinner catalog "lush to the edge of indulgent"; "Vee was her gorgeous" one italic-adjacent flourish past need. `old-acquaintances` — the blonde-fantasy machinery "one turn more than it needs"; "what you believe at midnight..." narrates the weather. `the-usual` — the burger-swap gag "a touch long." `my-friend-randi` — "raccoon who lost a fight" a hair broad (allowed — it buys the laugh). `nothing-underneath` — "milking at him" "a shade pulpier than the book's register"; "which was the truth of them tonight" a hair of authorial summary.
+
+**Net:** the regenerated tail lands the volume's close exactly on thesis — reunion as release and re-arming at once, three unexploded charges named by the reader (the threesome plan, the bench, Randi's love), and the February dance flagged as the imminent fuse.
