@@ -38,7 +38,7 @@ The library gave them a glass-walled room on the fourth floor with a door that l
 
 Better than good. The model held. The graphs Randi had built off it were clean and fast and said their one thing at a glance, and the three of them leaned over the screen in the soundless glass room and felt the particular pleasure of having made a thing that was both true and looked true.
 
-The aggregate said what Cassie had said it would say. The money went up; the jobs didn't follow it. County after county, the loans came down and the payrolls barely moved, and Cassie sat back — she didn't gloat, there was no gloat in her — with the still, satisfied face of a person watching the world admit something she'd told it about itself.
+The aggregate said what Cassie had said it would say. The money went up; the jobs went the other way. County after county, the loans landed and the payrolls fell anyway, and Cassie sat back — she didn't gloat, there was no gloat in her — with the still, satisfied face of a person watching the world admit something she'd told it about itself.
 
 "Told you," she said, mild.
 

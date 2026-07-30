@@ -1726,6 +1726,13 @@ text = "There was nothing practiced in them, nothing worn smooth with use; they 
 note = "Ruled recast 2026-07-28 (surprise-legibility ruling, meta-note-outlier.md) — do not touch"
 
 [[ok]]
+fp   = "b3d2cf77f73f"
+rule = "there-was-were"
+file = "scenes/outlier.md"
+text = "County after county, the loans landed and the payrolls fell anyway, and Cassie sat back — she didn't gloat, there was no gloat in her — with the still, satisfied face of a person watching the world admit something she'd told it about itself."
+note = "Re-ack after 2026-07-29 negative-correlation edit in same sentence; the sanctioned clause ('she didn't gloat, there was no gloat in her' — deliberate flat repetition) is unchanged"
+
+[[ok]]
 fp   = "7f3375170b62"
 rule = "whole-of"
 file = "scenes/outlier.md"
