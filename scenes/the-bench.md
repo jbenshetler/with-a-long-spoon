@@ -406,7 +406,7 @@ She did not say anything for a long moment. The breathing he could hear from her
 
 She took her time. He could see, in the small movements of her face which was at the low point and turned sideways now, that she was trying to find the surface she could not find. The surface had a script for this. The script said you turned the heat up, you pouted, you made him want you so badly he gave you what you wanted as proof of his desire. The script was for the *wanted* position. She was excellent at the wanted position. She had spent her whole adult life there.
 
-The bench was not the wanted position. The bench was the needing position — something required that you could not supply yourself.
+The bench was not the wanted position. The bench was the needing position.
 
 She could not pout her way back to wanted. She could not turn the heat up; the heat was already at maximum, and the maximum was below her, where she was. The script was failing. He could see that it was failing before she could — her hands had begun to worry the grips, a woman reaching for a handle that had always been there and not finding it.
 

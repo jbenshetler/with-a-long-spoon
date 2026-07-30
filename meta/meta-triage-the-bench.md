@@ -1,4 +1,4 @@
-# Triage — The Bench (cold-read panel, 2026-07-27)
+# Triage — The Bench (cold-read panel, 2026-07-27; claude-fable-5 addendum 2026-07-30)
 
 Panel: claude-opus-4-8, gpt-5.4-mini, gpt-5.5, gpt-5.6-sol · `reviews/cold-read/*/the-bench.md`
 
@@ -50,6 +50,32 @@ reader cohort snagging on the same spot, or an edit that re-opens the passage).
   Precision-of-color is Pace's connoisseur register throughout (blue toes, deep
   pink); the sentence was already touched once in the gloss trim, and three readers
   cited the reveal as the erotic peak.
+
+## Addendum — claude-fable-5 read (triaged 2026-07-30)
+
+A fifth cold read (claude-fable-5), postdating the panel triage. Net-new findings:
+
+- **"The needing position" aphorism — re-opened and fixed.** Fable-5 snagged on the
+  same freestanding line 5.6-sol had flagged ("a sentence I didn't need after the
+  paragraph that dramatized it"), meeting this doc's stated re-open condition (a new
+  reader on the same spot; 2 of 5 readers now misattributed it to the author). The
+  wanted/needing opposition stands as Pace's free indirect; the explaining appositive
+  ("— something required that you could not supply yourself") is cut. Author chose
+  cut-the-tail over merging the line into the preceding paragraph.
+- **Consent-paradox line ("…had not consented to even though she had consented to
+  the position") — left standing.** Fable-5 alone read it as "the tagline restated
+  on the page"; three readers (Opus, 5.5, 5.6-sol) independently cited the same line
+  as the chapter's kill shot. Lone dissent vs. confirmed positive — do not
+  re-litigate on a single future snag.
+- **Aftercare pacing "runs slack"** — self-forgiven by the reviewer ("it's meant to;
+  the mirror pays it off"); same territory as the settled mid-section verdict above.
+- Confirmations: the jacket-misdirect landed (fable-5 half-assumed the unnamed "she"
+  was Vivienne until "There you are, Randi"); the locks bookend was noticed
+  unprompted; mirror scene again named best writing in the chapter.
+
+Note: all five reviews predate the 2026-07-30 undressing restage (standing, kneel,
+single rise — commits `56adfd2` ff.); their references to bed-staging describe the
+superseded draft.
 
 ## What the panel confirmed (no action; for the record)
 
