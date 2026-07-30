@@ -8,6 +8,8 @@
 ## Aliases
 AKA Miranda
 
+**Name origin (ruled 2026-07-29):** Her parents named her Miranda and then, deliberately, called her Randi — the adjective pun intentional, their joke, a name she has to carry. The introduction routine ("Yes, like the adjective. No, it's not a coincidence. Yes, my parents had a sense of humor.") is **pre-emption, not invention**: she gets to the joke before anyone else can. Do not render "Randi" as self-chosen. It rhymes, unstated, with Miranda Holdings — twice her family wrote on her name without asking.
+
 ## Core Claim
 
 Randi is the wound that learned to walk. The wound walked out of her mouth as a single bare *Yes* in a campus pointing-game, before she had named it, before she had a plan, before she had any conscious understanding of why she had said it. The whole year is the elaboration of that one syllable.
