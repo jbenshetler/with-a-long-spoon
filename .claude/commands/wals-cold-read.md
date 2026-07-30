@@ -200,7 +200,13 @@ output**, so do NOT parallelize:
    `tool_uses` count, and let the author decide. A clean run is `tool_uses: 0` on
    every scene.
 5. On a clean return, the subagent gives two sections: `### Reader reaction` and
-   `### Carry-forward state`. Write `reviews/cold-read/<id>/<slug>.md` as:
+   `### Carry-forward state`. **If the target review file already exists** (a
+   `--fresh` regeneration), don't Read it just to satisfy an overwrite — check
+   `git status --porcelain -- reviews/cold-read/<id>/<slug>.md`: if the file is
+   tracked and clean (empty output), `rm` it via Bash and Write the new review
+   as a fresh file (the old content is recoverable from git). If it is untracked
+   or has uncommitted modifications, fall back to Read-then-Write so nothing
+   unrecoverable is destroyed. Write `reviews/cold-read/<id>/<slug>.md` as:
 
    ```
    # Cold read — <Display Title>

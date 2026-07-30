@@ -1,0 +1,43 @@
+{
+  "model_selector": "gpt-5.6-sol",
+  "model_id": "gpt-5.6-sol",
+  "completed": 2,
+  "generated": 2,
+  "skipped": 0,
+  "total_cost": 0.60565,
+  "total_input": 29378,
+  "total_output": 15292,
+  "total_tokens": 44670,
+  "per_chapter": [
+    {
+      "slug": "my-friend-randi",
+      "title": "My Friend Randi",
+      "status": "generated",
+      "cost": 0.291165,
+      "input": 15123,
+      "output": 7185,
+      "totalTokens": 22308,
+      "promptTokens": 15123,
+      "reasoningTokens": 66,
+      "cacheRead": 0,
+      "duration_s": 116.3,
+      "wall_s": 116.3,
+      "path": "reviews/cold-read/gpt-5.6-sol/my-friend-randi.md"
+    },
+    {
+      "slug": "nothing-underneath",
+      "title": "Nothing Underneath",
+      "status": "generated",
+      "cost": 0.314485,
+      "input": 14255,
+      "output": 8107,
+      "totalTokens": 22362,
+      "promptTokens": 14255,
+      "reasoningTokens": 72,
+      "cacheRead": 0,
+      "duration_s": 128.5,
+      "wall_s": 128.5,
+      "path": "reviews/cold-read/gpt-5.6-sol/nothing-underneath.md"
+    }
+  ]
+}

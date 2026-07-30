@@ -65,6 +65,10 @@ carry-forward, and nothing from `meta/`. Single source of truth; no drift.
    generated vs skipped, per-scene and total cost, and — if it aborted — which scene and
    why (over budget / incomplete / failed sections). On an abort, the completed scenes
    are already written; re-run with `--resume` after adjusting `--budget-usd`/`--effort`.
+   Cost records: `reviews/cold-read/<model-id>/BATCH_STATS.json` is the latest run only
+   (overwritten each batch); `BATCH_RUNS.jsonl` in the same dir is the durable append-only
+   history (one line per batch) — both are git-tracked. Query the jsonl for cumulative or
+   historical cost questions.
 
 ## Guard rails
 

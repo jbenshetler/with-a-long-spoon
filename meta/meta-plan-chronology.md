@@ -203,7 +203,7 @@ No classes; Vee home with her mother. {{The New Ordinary}} is the Friday going i
 A cropped induction photo turned her parents' pride into questions about the expensive dress and the man behind it; Vee fumbled *"boyfriend (?)"* and couldn't say Pace made it. Over dinner she gives Cassie the legible facts freely (math PhD, the hike, the dance, what she withheld and why), but the deeper question, what is he to you, stays the closed door: *"Both. Probably both."* The parents' table stays off-page, reported. Rhymes with {{Toenails}}: same wrong-shaped listener, different occasion. Opens {{Believe Me}}'s emotional logic — Vee has now failed to name him truly, to her parents and to Cassie.
 
 ### [VIGNETTE] Seconds
-*Sun Nov 29 · pre-dawn · enclosed porch (weekend, the Sunday back)* · Draft complete · `seconds.md` · [detail](meta-condensed-seconds.md) · slug: seconds · present: Vee, Pace
+*Sun Nov 29 · pre-dawn · enclosed porch (weekend, the Sunday back)* · Draft complete · `seconds.md` · [detail](meta-condensed-seconds.md) · slug: seconds · present: Vee, Pace · reviewed: 2026-07-30
 Vee delivers the cracker-and-meal figure whole — her displaced *I love you.* He answers: *"I love how good we are together"* — sincere within his chivalric grammar, routing her speech down the sex-channel. She receives the warmth; underneath something begins to move. She later replays the sentence and finds the shapes don't match. She never tells Randi or Cassie. Plants the grain the arc then escalates across three displacements ({{Under the Rug}} → {{Bare}} → {{Believe Me}}).
 
 ### [SCENE] Under the Rug
