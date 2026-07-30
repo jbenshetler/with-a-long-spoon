@@ -44,4 +44,4 @@ Vee looked at her tray. She had nothing that fit in Cassie's frame, not the righ
 
 "Both," Vee said. "Probably both."
 
-Cassie nodded and went back to her plate. She had a gift for knowing when a door was closed, and she didn't push at it. Vee was grateful. She was also, a little, not.
+Cassie nodded and went back to her plate. She didn't push at it. Vee was grateful. She was also, a little, not.
