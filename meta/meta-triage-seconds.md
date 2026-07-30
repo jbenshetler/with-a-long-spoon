@@ -30,4 +30,4 @@ Panel: claude-fable-5, claude-opus-4-8, gpt-5.5, gpt-5.6-sol (read after {{Cropp
 - **Porch heat backstory** ruled coherent in `meta-plan-pace-house.md` (register + thermostat; warm for {{A Round}}, cool at night for {{Rock}}/{{Seconds}}).
 - **Same-day sequencing with {{Cropped}} is intentional** — first reunion after Thanksgiving, Vee full of missing him and the who-are-we questions the break raised.
 - **Moon rises over the mountains** (behind the nearer ridge) — line 17 aligned.
-
+- **Coda re-grounded (author-directed):** the "would"-heavy flash-forward landed as a lived scene in the dorm **laundry room** (bus cut — on-campus resident, container ruled: physically inside, physically quiet); one prophetic *would* retained at the close. Pile now already-not-empty (canon: smaller porch-register moments precede this one, `meta-craft-pace.md`). Flannel deliberately kept out of the load.

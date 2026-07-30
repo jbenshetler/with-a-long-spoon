@@ -8,7 +8,7 @@ Vee delivers the cracker-and-meal figure whole — her displaced *I love you* �
 
 ## Full Content
 
-Vee's POV; enclosed porch, watching the sun come up. Vee delivers the cracker-and-meal figure whole — her displaced *I love you.* His hand on her shin presses once and stops; he takes a second breath; then: *"I love how good we are together"* — sincere within his chivalric grammar, routing her speech down the sex-channel. He pulls her close and holds a kiss against her hair longer than usual. She receives the warmth; underneath it something begins to move. Two days later on a bus she replays the sentence and finds the shapes don't match, and will not finish the thought because either answer hurts. The figure does not return to her speech. She never tells Randi or Cassie. Load-bearing grain for the Christmas fight.
+Vee's POV; enclosed porch, watching the sun come up. Vee delivers the cracker-and-meal figure whole — her displaced *I love you.* His hand on her shin presses once and stops; he takes a second breath; then: *"I love how good we are together"* — sincere within his chivalric grammar, routing her speech down the sex-channel. He pulls her close and holds a kiss against her hair longer than usual. She receives the warmth; underneath it something begins to move. Two days later, in the dorm laundry room, she replays the sentence and finds the shapes don't match, and will not finish the thought because either answer hurts. The figure does not return to her speech. She never tells Randi or Cassie. Load-bearing grain for the Christmas fight.
 
 ---
 
