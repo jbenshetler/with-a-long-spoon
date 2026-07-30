@@ -46,7 +46,7 @@ He didn't touch the irony. It sat on the table between them and they both saw th
 
 "People who've never lost anything think grief is a choice," he said.
 
-The song had run out somewhere back, and nobody had fed the machine again. Sheri looked at him a beat longer than she needed to. "Don't waste the good stuff on me." She dragged the shake back over. "Save it for your redhead. How is she — the curvy one." She grinned. "Hell, that backside. I got maybe four seconds of her at the bar before she started throwing things, and I still think about it more than's decent."
+The song had run out somewhere back, and nobody had fed the machine again. Sheri looked at him a beat longer than she needed to. "Don't waste the good stuff on me." She dragged the shake back over. "Save it for your redhead. How is she — the curvy one?" She grinned. "Hell, that backside. I got maybe four seconds of her at the bar before she started throwing things, and I still think about it more than's decent."
 
 He didn't answer right off.
 
@@ -54,11 +54,11 @@ He didn't answer right off.
 
 "No."
 
-"She find out about the brunette, then."
+"She find out about the brunette, then?"
 
 "No. Not like that."
 
-"Then what is it."
+"Then what is it?"
 
 He weighed it. "She wants a declaration." And then, plainer: "She wants me to say it."
 
@@ -70,7 +70,7 @@ He didn't answer that. He answered the one next to it, the one he had answers to
 
 "I'm not them."
 
-"I know you're not." No praise in it — a flat fact, the kind she'd have stated about the weather. "But that's a hell of a lot of reasons for a man who's already got the girl. She didn't ask you for reasons." She set the shake down. "What is it you want."
+"I know you're not." No praise in it — just a flat fact. "But that's a hell of a lot of reasons for a man who's already got the girl. She didn't ask you for reasons." She set the shake down. "What is it you want?"
 
 "I want Vee. I miss her."
 
@@ -88,7 +88,7 @@ She reached over, stole a fistful of his fries, and ate them.
 
 "You met her?"
 
-"Y'all came in dancing, I hugged you hello. She looked at me like I was one more of your harem applicants." He saw the satisfaction in her face, her prepared quip landing just so. "Never did learn my name. But I got to see her."
+"Y'all came in dancing, I hugged you hello. She looked at me like I was one more of your harem applicants." The satisfaction was all over her face, her prepared quip landing just so. "Never did learn my name. But I got to see her."
 
 He didn't answer that, and she dropped it.
 
@@ -108,7 +108,7 @@ She cackled, a real one, loud enough the waitress looked over. "Bet those long l
 
 "Sheri."
 
-"What. Tell me they don't."
+"What? Tell me they don't."
 
 His face was hot and he knew it, and he went on anyway. "She sees things nobody else does. I'll cook her something and she won't just tell me it tastes good — she gets what it's for. The whole idea under it. The philosophy of it."
 

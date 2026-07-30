@@ -3525,6 +3525,55 @@ text = "She was a small thing, five feet of her and every inch in motion even st
 note = "Author-approved: 'a small thing' lead-in; vivid specifics follow immediately."
 
 [[ok]]
+fp   = "e7bdaf6915bd"
+rule = "filter-verbs"
+file = "scenes/the-usual.md"
+text = "She watched him."
+note = "Sheri watching Pace is the beat — POV-registered scrutiny, author-approved"
+
+[[ok]]
+fp   = "120674e7f82e"
+rule = "the-way"
+file = "scenes/the-usual.md"
+text = "He waited until she was most of the way through the double, then asked it the other way."
+note = "literal extent (most of the way through the double), not the tic"
+
+[[ok]]
+fp   = "95efac3161d2"
+rule = "the-way"
+file = "scenes/the-usual.md"
+text = "Sheri ate like she rode, all of her folded down into it, no ceremony and no apology, a third of the way into the double before he'd so much as picked his up."
+note = "literal extent (third of the way into the double), not the tic"
+
+[[ok]]
+fp   = "bc5c15a581d3"
+rule = "the-way"
+file = "scenes/the-usual.md"
+text = "Outside, the dark had come all the way down against the window, and for a moment the griddle was the only sound in the place."
+note = "literal extent (dark all the way down the window), not the tic"
+
+[[ok]]
+fp   = "2ea76196b3ee"
+rule = "warm"
+file = "scenes/the-usual.md"
+text = "And then he was only here, in the warm griddle-smelling dark, and it was easier than it had any right to be."
+note = "load-bearing: warm griddle-dark opening of the warm/cold frame"
+
+[[ok]]
+fp   = "388f1af2b259"
+rule = "warm"
+file = "scenes/the-usual.md"
+text = "Behind her the window had fogged over, warm on their side, cold and dark on the other, the whole county road lost out past the breath of the room."
+note = "load-bearing: fogged window warm/cold divide"
+
+[[ok]]
+fp   = "389526a7fea3"
+rule = "warm"
+file = "scenes/the-usual.md"
+text = "And he laughed — the first full one of the night — and she grinned at him across the wreckage of two cheeseburgers, and for a while the thing he couldn't do sat further off, and the diner was warm, and the fog on the glass kept the cold where it belonged."
+note = "load-bearing: closing warm-diner/fog image"
+
+[[ok]]
 fp   = "8271cfb578ca"
 rule = "whole-of"
 file = "scenes/the-usual.md"
