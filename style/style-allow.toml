@@ -641,6 +641,27 @@ text = "Randi set her chin in her hand and turned the whole of her face on Vee."
 note = "author-approved 2026-07-14: 'turned the whole of her face on Vee' stands — total-attention image is the beat"
 
 [[ok]]
+fp   = "6d8fcbe1c4f8"
+rule = "clock-verb"
+file = "scenes/fairytale.md"
+text = "Her mother would put him at the good end of the table; the house would clock him the moment she came in on his arm."
+note = "Author-approved 2026-07-30 (cold-read feedback pass): the house doing the clocking, not Randi filing — sanctioned use"
+
+[[ok]]
+fp   = "140f27ebb674"
+rule = "the-way"
+file = "scenes/fairytale.md"
+text = "Pace's lead was the lightest pressure, a thing she'd had to be listening for and good enough to catch, and it left the rest of the way to her."
+note = "Author-approved 2026-07-30: literal-directional (the rest of the way to her); scene's way-repetition is deliberate patterning per workshop ruling"
+
+[[ok]]
+fp   = "74a8a4752e73"
+rule = "the-way"
+file = "scenes/fairytale.md"
+text = "She could say it plainly, over eggs, the way Vee said every plain true thing."
+note = "Author-approved 2026-07-30 (cold-read feedback pass): load-bearing — Randi invoking Vee's plain-true register"
+
+[[ok]]
 fp   = "ab8e9f2fba5a"
 rule = "filter-verbs"
 file = "scenes/famished.md"
