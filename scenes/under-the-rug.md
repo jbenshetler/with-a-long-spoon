@@ -1,6 +1,6 @@
 # Under the Rug
 
-*Vee POV, close third. ~Mid-December, after the porch and before the shirt. A triptych across three rooms — his bedroom, a restaurant, his bedroom again.*
+*Vee POV, close third. After the porch and before the shirt. A triptych across three rooms — his bedroom, a restaurant, his bedroom again.*
 
 ---
 

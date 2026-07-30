@@ -45,6 +45,23 @@ reader cohort snagging on the same spot, or an edit that re-opens the passage).
   scene ("just sex," furthest) → {{Bare}} (wordless) → {{Believe Me}} ("what are you
   to me," closest). Not a gap; the staging.
 
+Scene-review pass (2026-07-30) added:
+
+- **Vee's front-room accusation speech fluency** (the *your house / your truck*
+  parallelism and "You only warm to me when you've got your way" — flagged against
+  the regresses-down console rule) — accepted as written: she is attacking from
+  manufactured grievance, not stripped by threat; "the needing made her mean" frames
+  it. Do not re-flag.
+- **Music thread: rested by decision.** The at-his-house trigger fires, but the
+  scene's sound architecture is loud-room-vs-quiet-house and "Somewhere quieter, I
+  can" needs the house silent — no music at Pace's house in this scene. Deliberate,
+  not an oversight.
+- **"Rusty Nail"** is the CW bar's correct canon name (author-confirmed 2026-07-30);
+  no drift.
+- **Header date removed** — the scene header carried "~Mid-December," conflicting
+  with the chronology's Fri Dec 4; dates belong to the chronology, so the header now
+  gives relative placement only.
+
 ## What the panel confirmed (no action; for the record)
 
 All four, independently: the Chili's sequence is the chapter's strongest writing
