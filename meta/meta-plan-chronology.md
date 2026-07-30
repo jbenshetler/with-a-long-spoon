@@ -31,7 +31,7 @@ Pace and Randi have been sleeping together ~3 weeks before the Bench. Relationsh
 ## Early
 
 ### [SCENE] The Bench
-*Early fall · week 1 · Fri Sep 4* · Draft complete · `the-bench.md` · [detail](meta-condensed-the-bench.md) · slug: the-bench · present: Pace, Randi
+*Early fall · week 1 · Fri Sep 4* · Draft complete · `the-bench.md` · [detail](meta-condensed-the-bench.md) · slug: the-bench · present: Pace, Randi · reviewed: 2026-07-30
 Opening scene, Pace's POV. Their domestic ease rendered; BDSM sequence unhurried, tidal; she begs in a voice she hasn't used since childhood. In his bathroom afterward Randi practices the smile back onto her face. He holds her blind to the hunger he has inaugurated. Plants: clamps (held for Vee track); *the hum in her ribs.*
 
 ### [SCENE] Standards

@@ -19,11 +19,16 @@
 **Consent architecture is humanization, not throat-clearing.** The safeword checks, *"tell me your word,"* the half-exasperated *"They're fine, Pace"* (irritation, humor — a whole person mid-scene) are load-bearing sympathy beats. Keep them.
 
 **Accepted review flags (KEEP — do not re-flag).** Decisions the author has already made against reviewer notes; a future cold read or `/wals-scene-review` that re-raises these should treat them as settled, not defects:
-- **The wanted/needing taxonomy stated in the abstract** — *"The script was for the* wanted *position. She was excellent at the wanted position. She had spent her whole adult life there."* and *"The bench was not the wanted position. The bench was the needing position — something required that you could not supply yourself."* Cold reads flag this as thesis-on-the-page (told-not-shown, right beside the *shown* version — the failing script, the disordered breathing). **Kept deliberately.** It is POV-legal (Pace's diegetic read — *"He could see… that she was trying to find the surface she could not find"* — not narrator omniscience), the *needing position* gloss defines a term the book pays off downstream (the jacket's *"a wanting she'd have been ashamed to name"*), and the taxonomy is already trimmed to two poles (the middle *"not even the* wanting *position"* rung was cut). The one clean naming of the engine is worth the thumb.
+- **The wanted/needing taxonomy stated in the abstract** — *"The script was for the* wanted *position. She was excellent at the wanted position. She had spent her whole adult life there."* and *"The bench was not the wanted position. The bench was the needing position."* Cold reads flag this as thesis-on-the-page (told-not-shown, right beside the *shown* version — the failing script, the disordered breathing). **Kept deliberately.** It is POV-legal (Pace's diegetic read — *"He could see… that she was trying to find the surface she could not find"* — not narrator omniscience), the *needing position* gloss defines a term the book pays off downstream (the jacket's *"a wanting she'd have been ashamed to name"*), and the taxonomy is already trimmed to two poles (the middle *"not even the* wanting *position"* rung was cut). The one clean naming of the engine is worth the thumb. **2026-07-30:** the explaining appositive ("— something required that you could not supply yourself") was cut after a second cold reader (claude-fable-5) snagged on it; the two-sentence opposition stands. See `meta-triage-the-bench.md`.
 
 ---
 
-## Edging Improvements
+## Edging Improvements — APPLIED (in the draft as of 2026-07-30)
+
+    All three cycles are in the prose, one per edging return (Sound → Sight →
+    Touch), with the hand's return rendered as its own action at each ("Then he
+    brought his hand back down…", "He slid his fingers back into her. This time
+    he stayed."). Kept here as the design record; do not re-apply.
 
     The headings are meta information and not to be included in the text. 
     
@@ -39,7 +44,13 @@
     This time he stayed with the feeling. She was furnace-hot and so wet his fingers moved without friction. When he pressed deeper he felt the grip of her, the muscle inside pulling at him in tight, rhythmic pulses. Fresh wetness coated his knuckles and slid down his wrist. He kept his hand there, working her steadily, until he felt the first long tremor begin in her thighs. Then he stopped.
 
 
- ## Planned / In Progress
+ ## Planned / In Progress — DONE (in the draft as of 2026-07-30)
+
+ The rewrite below is implemented: early strikes tight/athletic ("clean athletic
+ pairs"), middle condensed ("varying the rhythm and placement"), later deliberate
+ and appreciative (the jiggle observation), soothing varied throughout, and the
+ preserved beats (upside-down conversation, forehead kiss, breast-play transition)
+ all present. Kept as the design record; do not re-apply.
 
  ### Full Spanking Section Rewrite
  Goal: Create clear contrast between quick/athletic striking and deliberate, varied soothing. Include the two locked elements above.

@@ -77,6 +77,16 @@ Note: all five reviews predate the 2026-07-30 undressing restage (standing, knee
 single rise — commits `56adfd2` ff.); their references to bed-staging describe the
 superseded draft.
 
+- **The mother link in the mirror ("a voice she had not used since she was a small
+  child in tears asking her mother…") — deliberate exception, left standing
+  (author ruling 2026-07-30).** The scene-review pass flagged it as the one place
+  the sanctioned aperture narrates genealogy rather than felt truth; the docs are
+  silent on sanctioning the link. Author ruling: it stays — it is a memory of when
+  the voice was last used (experience-level), not a mechanism analysis, and the
+  cold readers uniformly read it as deepening. Do not re-litigate in either
+  direction: do not cut it, and do not extend the mother connection further in
+  this scene.
+
 ## What the panel confirmed (no action; for the record)
 
 All four readers, independently: the split-ledger Pace effect (seduced, then
