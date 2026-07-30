@@ -13,7 +13,4 @@ images/
 __pycache__/
 .DS_Store
 ._*
-
-# cold-read run artifacts (per-run stats; regenerated every run)
-reviews/cold-read/*/BATCH_STATS.json
 build/

@@ -424,6 +424,18 @@ def run_batch(
     }
     stats_path = out_dir / "BATCH_STATS.json"
     stats_path.write_text(json.dumps(summary, indent=2) + "\n")
+    # Durable cost record: append this run to BATCH_RUNS.jsonl (one line per batch).
+    # BATCH_STATS.json remains the latest-run convenience view; the jsonl is the history.
+    from datetime import datetime, timezone
+    run_record = {
+        "run_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+        "scope": f"{log[0]['slug']}..{log[-1]['slug']}" if log else None,
+        "budget_usd": budget_usd,
+        **summary,
+    }
+    runs_path = out_dir / "BATCH_RUNS.jsonl"
+    with runs_path.open("a") as f:
+        f.write(json.dumps(run_record) + "\n")
     print(json.dumps({"summary_path": str(stats_path), **{k: summary[k] for k in (
         "completed","generated","skipped","total_cost","total_input","total_output","total_tokens"
     )}}, indent=2), flush=True)
