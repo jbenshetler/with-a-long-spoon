@@ -1,6 +1,6 @@
-# Condensed — The Porch Scene
+# Condensed — Seconds
 
-*VIGNETTE · Draft complete · `porch-scene.md` · ~early December, before Christmas break · pre-dawn*
+*VIGNETTE · Draft complete · `seconds.md` · ~early December, before Christmas break · pre-dawn*
 
 ## Summary
 

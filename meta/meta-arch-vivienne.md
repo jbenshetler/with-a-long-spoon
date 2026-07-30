@@ -26,7 +26,7 @@ The trade was correct on the terms available the first time. She will not take i
 
 ## The Appetite — The Cracker-and-Meal Architecture
 
-*(The figure spoken aloud once, by Vee, as her displaced I love you: `porch-scene.md`. That is the sole prose appearance of the image.)*
+*(The figure spoken aloud once, by Vee, as her displaced I love you: `seconds.md`. That is the sole prose appearance of the image.)*
 
 Vee has always been constitutionally hungry. What was available had been crackers — fine men, fine friendships, fine pleasures, none of them formative, none of them the not-fine her appetite was waiting for. She did not name it as hunger because she had carried it so long it was the texture of being her. *Fine was not going to keep her* — the one sentence that names the hunger in her available register.
 

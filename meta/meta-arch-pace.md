@@ -130,7 +130,7 @@ By the novel, the choice has been running for years. It no longer presents as a 
 
 ### The Substrate Peeks Through Under Strain
 
-In moments when the situation produces an unusually clean demand for the operation the habit hides, a small awareness registers as discomfort. The porch scene is the worked example. *(Scene draft: `porch-scene.md`.)* Vee produces her cracker-and-meal speech — her displaced *I love you.* Pace hears it whole, understands it whole. His apparatus routes her speech down the sex-channel: *I love how good we are together.* The discomfort he registers — the half-beat of stillness, the small sound — is the substrate of the choice closer to the surface than usual. He does not put words to it. The not-putting-words is part of how the habit maintains itself.
+In moments when the situation produces an unusually clean demand for the operation the habit hides, a small awareness registers as discomfort. The porch scene is the worked example. *(Scene draft: `seconds.md`.)* Vee produces her cracker-and-meal speech — her displaced *I love you.* Pace hears it whole, understands it whole. His apparatus routes her speech down the sex-channel: *I love how good we are together.* The discomfort he registers — the half-beat of stillness, the small sound — is the substrate of the choice closer to the surface than usual. He does not put words to it. The not-putting-words is part of how the habit maintains itself.
 
 ### The Parallel with Randi
 
@@ -170,7 +170,7 @@ Separate from the chivalric grammar; operating below it; older. The mother suppl
 
 *I will not declare love until I am certain, because to declare what I cannot guarantee is to break what declaration is for.*
 
-Honorable in its own logic, in service of Vee from his vantage, and producing costs she pays (the wait, the uncertainty) that he does not see. The vow holds throughout the year. It never produces a declaration. Vee leaves before his certainty surfaces. *(The vow's cost on the page: `porch-scene.md`.)*
+Honorable in its own logic, in service of Vee from his vantage, and producing costs she pays (the wait, the uncertainty) that he does not see. The vow holds throughout the year. It never produces a declaration. Vee leaves before his certainty surfaces. *(The vow's cost on the page: `seconds.md`.)*
 
 The vow gives him his story afterward. *I was being careful. She did not wait. She was not, finally, the one — because the one would have waited.* He never sees that the vow was the wound.
 
