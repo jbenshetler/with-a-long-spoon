@@ -1719,6 +1719,13 @@ text = "Down the hall in the good coat with her heart going, past a girl coming 
 note = "literal January cold, not metaphor"
 
 [[ok]]
+fp   = "eea268851e06"
+rule = "weather"
+file = "scenes/nothing-underneath.md"
+text = "Through the door, under the wind, music was going somewhere back in the house — low, a horn in it, slow and sad, wandering off wherever it was going — and the cold spiked through her ahead of the weather: someone was there."
+note = "Literal weather — 'the weather' is the actual January cold on the doorstep; author ruled 2026-07-30"
+
+[[ok]]
 fp   = "b951ac4606a9"
 rule = "whole-of"
 file = "scenes/nothing-underneath.md"
