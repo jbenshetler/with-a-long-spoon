@@ -18,17 +18,15 @@ The groups picked themselves. No one had to propose the three of them. They'd be
 
 The subject took the walk out of the building, the wait at the crosswalk, and half the coffee after.
 
-Cassie wanted PPP. She'd wanted it before the professor finished saying *means something* — Vee had felt her settle into it on the right-hand side, the small certainty coming off her. The pandemic loans, the ones that were supposed to keep people on payroll. Cassie's thesis came out whole and flat and already checked: they hadn't used that money for workers. It went up, it didn't go down. She said it like a fact she'd looked up, which she pretty much had.
+Cassie wanted PPP. She'd wanted it before the professor finished saying *means something* — Vee had felt her settle into it on the right-hand side, the small certainty coming off her. The pandemic loans, the government money that was supposed to keep people on payroll — forgiven on the employer's say-so that it had. Cassie's thesis came out whole and flat: they hadn't used that money for workers. It went up, it didn't go down. She said it like a fact she'd looked up, which she pretty much had.
 
-"My dad got laid off in 2020," Cassie said. Flat. A fact set on the table beside the other facts, no weight on it, no handle left out for anyone to pick it up by.
+"My dad got laid off in 2020," Cassie said. Flat. A fact set on the table beside the other facts, no handle left out for anyone to pick it up by.
 
-Randi didn't answer it.
-
-And Vee, who sat between them and loved them both and had a thin, quick sense for when a room had stepped somewhere she couldn't follow, didn't answer it either. She looked at her coffee. She was glad when it moved.
-
-It moved because Randi moved it. Randi thought Cassie was wrong. Not rudely — Randi thought the story was more complicated than any one number, and she said so with the ease of a girl who'd grown up inside the thing they were about to graph. Her father had taken the loans — several businesses, several loans — and kept people on with them; that was the whole point of the money, that was what it had been for. She'd show it.
+Randi thought Cassie was wrong. Not rudely — Randi thought the story was more complicated than any one number, and she said so with the ease of a girl who'd grown up inside the thing they were about to graph. Her father had taken the loans — several businesses, several loans — and kept people on with them; that was the whole point of the money, that was what it had been for. She'd show it.
 
 "We'll see," she said, and let it go, certain.
+
+And Vee, who sat between them and loved them both — the laid-off father on her right, the loans on her left — had a thin, quick sense that the room had stepped somewhere she couldn't follow. She looked at her coffee.
 
 They split the work by what each of them was for. Cassie would pull the data — the federal numbers, the state numbers, the long unglamorous hours of it — because Cassie did the grunt and knew she did, and knew without any sting to it that the part after was Vee's; pre-nursing didn't build models. Vee would build it, because the math was hers — economics major, the department's award just this fall, the one at the table numbers came easy to. And Randi, marketing, who'd never met a true thing she couldn't make truer with the right image, would turn it into something you could see across a room.
 
