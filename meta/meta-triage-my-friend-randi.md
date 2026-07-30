@@ -23,6 +23,13 @@ don't re-litigate.
 
 ## Left standing — do not re-litigate
 
+- **"Randi was holding her tighter than she usually did."** — scene-review pass
+  (2026-07-30) flagged it against the meta-note rail ("rendered by the holding,
+  never by Vee thinking the hug is different"). **Author ruled: keep.** The
+  comparative is observation, not interpretation; both Claude cold readers
+  registered the hugs as a live wire without suspicion breaking the warmth —
+  the calibration is doing its job. Do not re-flag.
+
 - **Randi's blame-shift rhetoric** ("You backed him into a corner in his own
   house"; "You blindsided him with a fight"; "I know so"). gpt-5.5 and gpt-5.6-sol
   pushed back hard — 5.5: Vee's question "feels like the bill coming due," not an

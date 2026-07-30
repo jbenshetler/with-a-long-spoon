@@ -1,6 +1,6 @@
 # Nothing Underneath
 
-*Vee POV, close third. ~Fri Jan 22, night. Beat 2 of 2 of the First Weekend Back reconciliation, and Volume One's close — the wordless offering that works where December's demand for the word could not.*
+*Vee POV, close third. Night. Beat 2 of 2 of the First Weekend Back reconciliation, and Volume One's close — the wordless offering that works where December's demand for the word could not.*
 
 ---
 
