@@ -59,7 +59,7 @@ Randi's Gstaad feed: ski-slope summit, palace facade, dressed-for-dinner. **Two 
 
 Tuned exchange (calibration reference, not locked):
 
-> She'd typed it three times before she sent it. Never the thing itself — she'd never said the thing, not in the glass room when the name came up and the color went out of Randi's face, not after. Just: *thinking about you 💛 hope everything's good out there. here if you want to talk. or not.* She put the phone face-down, then turned it back over to be sure it had gone.
+> She'd typed it three times before she sent it. Never the thing itself — she'd never said the thing, not in the glass room when the name came up and the color went out of Randi's face, not after. Just: *thinking about you 💛 hope it's beautiful out there. i'm here if you want to talk. or not.* She put the phone face-down, then turned it back over to be sure it had gone.
 >
 > *(the reply comes back almost at once — she's already six hours into tomorrow)*
 >
