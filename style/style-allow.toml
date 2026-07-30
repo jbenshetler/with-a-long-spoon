@@ -200,6 +200,13 @@ text = "Pace's reply is **delayed — engaged concentration, not defense** (the 
 note = "Under the Rug: author-reviewed during close drafting. Name/word antitheses load-bearing engine; filtered/existential constructions are intentional voice. 'all the way down through her' kept by author choice."
 
 [[ok]]
+fp   = "3c50215c6326"
+rule = "a-small"
+file = "scenes/all-the-time.md"
+text = "\"Just us,\" Randi said — and it came out softer than the plan called for, a small roughness under it, there and gone — and Vee took it for the ordinary pleasure of a plan made."
+note = "Author accepted 2026-07-29: 'a small roughness under it' stands — the just-us voice tell, cold-reader feedback pass"
+
+[[ok]]
 fp   = "a6eb90d053d6"
 rule = "a-small"
 file = "scenes/all-the-time.md"
@@ -212,6 +219,13 @@ rule = "began-to"
 file = "scenes/all-the-time.md"
 text = "And then Randi's mouth, the greeting they did now, easy, only what they did — except that this time, when it should have ended, Vee was the one who wouldn't let it, leaning up the last half-inch after Randi as she started to draw back, taking a second of it for herself, not ready to give the morning up."
 note = "All the Time finalized: fixable tics recast; remainder are authorial keeps (the-way 4/5, file motif, Vee fumbles, there-was anaphora, in-voice antithesis)"
+
+[[ok]]
+fp   = "07669ecf5ccf"
+rule = "clock-verb"
+file = "scenes/all-the-time.md"
+text = "\"Okay, these are *dusty,*\" Randi said, thumbing back through, clocking the dates as she went."
+note = "Author accepted 2026-07-29: 'clocking the dates' stands — cold-reader feedback pass, deniable in context"
 
 [[ok]]
 fp   = "4adb67799abe"
@@ -233,6 +247,13 @@ rule = "filter-verbs"
 file = "scenes/all-the-time.md"
 text = "She heard how much she wanted it and didn't mind."
 note = "All the Time finalized: fixable tics recast; remainder are authorial keeps (the-way 4/5, file motif, Vee fumbles, there-was anaphora, in-voice antithesis)"
+
+[[ok]]
+fp   = "62da09b3fc1b"
+rule = "the-way"
+file = "scenes/all-the-time.md"
+text = "Randi listened the way she listened, which was total, her wine forgotten, her eyes going to Vee's mouth when she talked and her hands when they moved, and Vee felt herself open under it like she always did, the best friend she'd ever had."
+note = "Author accepted 2026-07-29: 'listened the way she listened' — deliberate doubling, load-bearing voice"
 
 [[ok]]
 fp   = "6518a4b1f76a"
@@ -289,6 +310,48 @@ rule = "there-was-were"
 file = "scenes/all-the-time.md"
 text = "There was no scene."
 note = "All the Time finalized: fixable tics recast; remainder are authorial keeps (the-way 4/5, file motif, Vee fumbles, there-was anaphora, in-voice antithesis)"
+
+[[ok]]
+fp   = "00d602e269e1"
+rule = "warm"
+file = "scenes/all-the-time.md"
+text = "\"You poor thing,\" Randi said, warm as a bath."
+note = "Author accepted 2026-07-29: 'warm as a bath' — load-bearing, unlocks the sex-pervert confession"
+
+[[ok]]
+fp   = "0a8f84cb49fe"
+rule = "warm"
+file = "scenes/all-the-time.md"
+text = "The smell reached her before the booth did: coffee and warm bread and something roasting far back in the kitchen, a smell that reached the stomach before the eyes."
+note = "Author accepted 2026-07-29: 'warm bread' — sensory, load-bearing"
+
+[[ok]]
+fp   = "3b7a15314954"
+rule = "warm"
+file = "scenes/all-the-time.md"
+text = "\"Of course he does,\" Randi said, warm, and shook her head, delighted."
+note = "Author accepted 2026-07-29: 'Randi said, warm' — kept as written per author"
+
+[[ok]]
+fp   = "4ff1e4b71fd4"
+rule = "warm"
+file = "scenes/all-the-time.md"
+text = "The hug first, long, the whole warm length of her, that bright green scent Vee had stopped trying to name folding around them both."
+note = "Author accepted 2026-07-29: 'warm length of her' — goodbye hug, load-bearing"
+
+[[ok]]
+fp   = "c4c292c69350"
+rule = "warm"
+file = "scenes/all-the-time.md"
+text = "She went warm with something close to pride, that a Saturday of hers could do that to a woman like Randi."
+note = "Author accepted 2026-07-29: 'went warm with something close to pride' — glow not blush, distinct from the heat-family"
+
+[[ok]]
+fp   = "dc48e66abf8d"
+rule = "warm"
+file = "scenes/all-the-time.md"
+text = "Vee nodded — and warmed, a little, that Randi had even thought to make joining her easy like this — and the hostess turned and took her back into the dark."
+note = "Author accepted 2026-07-29: hostess-beat 'warmed' — Vee registering Randi's provision"
 
 [[ok]]
 fp   = "3bf7e800a242"

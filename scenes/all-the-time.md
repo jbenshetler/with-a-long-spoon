@@ -30,7 +30,7 @@ And here was the thing Vee had not planned for, driving over: that there was not
 
 "How what is."
 
-"Him. Us. The—" Her face warmed, and she pushed on anyway, because it was Randi. "The amount of it."
+"Him. Us. The—" Her face went hot, and she pushed on anyway, because it was Randi. "The amount of it."
 
 Randi's mouth curved. "The amount."
 
@@ -80,15 +80,15 @@ And Vee had it, or near enough: these were the ones that got you, told close, in
 
 Then Randi sat back, and drew a breath, and the beam came up full again, and she was herself, all of her, the grin arriving like a room light. "*Even with your clothes on,*" she repeated, savoring it, like Vee had set a jewel on the table. "God. Okay — what's he got *playing,* when that's going on? A man like that has a soundtrack."
 
-"These long playlists that just roll on their own," Vee said, glad of the easy question. "When he's cooking it's piano, mostly, old and soft — the kind that just flows and never quite lands — and I couldn't tell you what half of it even is. And then it'll turn a corner and be *Fleetwood Mac,* or some Garth Brooks song I grew up on, and I just think — who *has* all of that on one playlist?" She smiled. "It goes on first, before anything. The music, and then the rest of the night."
+"These long playlists that just roll on their own," Vee said, glad of the easy question. "When he's cooking it's piano, mostly, old and soft — the kind that just flows and never quite lands — and I couldn't tell you what half of it even is. And then later it's *Fleetwood Mac,* or some Garth Brooks song I grew up on, and it's never wrong — like the house knows what the evening is before I do." She smiled. "It's going when I walk in. Every time. I've never once heard it start."
 
 "Of course he does," Randi said, warm, and shook her head, delighted.
 
-"He doesn't even *have* a life outside it, is the thing," she said. "There's a TV in his den I've genuinely never seen on — I don't know if it works. He doesn't text, he doesn't scroll. The phone's for the music, and—" and there she caught herself, a half-beat late, the heat climbing.
+"And when I'm there, I don't compete with anything, is the thing," she said. "There's a TV in his den I've genuinely never seen on — I don't know if it works. He doesn't text, he doesn't scroll. The phone's for the music, and—" and there she caught herself, a half-beat late, the heat climbing.
 
-Randi did not lean in. She let the unfinished thing sit there and be finished. "Or to."
+Randi did not lean in. She let the unfinished thing sit there and be finished. "And to."
 
-"Take pictures," Vee said.
+"Take pictures," Vee said, and her body gave one small rock in the seat, forward and back, that she caught only after it had happened.
 
 "Pictures." Randi turned her glass once and let the word be answered.
 
@@ -100,11 +100,11 @@ Vee felt it climb her neck. "I mean—"
 
 "You don't have to show me."
 
-And that was the thing that changed her mind. She had the cropped one ready — had had it ready for days, and didn't ask herself why she still did — and her thumb found it before the rest of her had voted, and she turned the phone back across: bare to the waist, the red mouth, the swept-back hair, and no more of her than that. Then she sat while Randi looked, and couldn't hold still, her foot going under the table.
+And that was the thing that changed her mind. She had the cropped one ready — had had it ready for days — and her thumb found it before the rest of her had voted, and she turned the phone back across: bare to the waist, the red mouth, the swept-back hair, and no more of her than that. Then she sat while Randi looked, and couldn't hold still, her foot going under the table.
 
 Randi went quiet over it, and looked, and kept looking — past a glance, past what a verdict needed — and Vee let herself be looked at and waited to hear what she'd say. Then Randi drew a breath and came up out of it, as if from a distance.
 
-"So *that's* what you've been hiding under all those loose clothes." The grin came. "Okay, *Miss November.*" And Vee laughed, surprised out of her nerves, and Randi grinned and let her. "He must love this. Did you cook it up yourself, or did he sweet-talk you into it?"
+"So *that's* what you've been hiding under all those loose clothes." The grin came. "Okay, *Miss November.*" And Vee laughed, surprised out of her nerves, and Randi grinned and let her. "He must love this. How did he sweet-talk you into it?"
 
 "It was my idea," Vee said, and felt the small pride of it.
 
@@ -112,7 +112,7 @@ Randi went quiet over it, and looked, and kept looking — past a glance, past w
 
 And that landed wrong — that she'd lost her nerve, that Randi, who'd done God knew what with God knew whom, would file her as a girl who flinched. She was not going to be that girl, not at this table. She pulled up the real one, the whole uncropped length of her — and then she sat with it a second, her thumb over it, working up to it, the thrill and the shame running together — before she turned the phone around and put it in Randi's hand. "I gave him *all* of it."
 
-Randi took it. Her eyes went the length of it, unhurried, and the grin came slow. "God, those *legs.*" Then, softer, delighted: "Showing him your toes, eh?"
+Randi took it. Her eyes went the length of it, and the grin came slow. "God, those *legs.*" Then, softer, delighted: "Showing him your toes, eh?"
 
 Vee laughed, and Randi laughed with her, the two of them gone pink and delighted over it together — and under the heat in her face Vee was, absurdly, happy. She'd never had this before: a friend she could hand all of it to, the real thing and not the tidied-up version — one who knew things, who'd been places Vee had only read about, and could take any of it without Vee having to explain herself or leave the good parts out. The one friend she trusted with all of it. There was no one else, anywhere, she could have shown.
 
@@ -126,16 +126,16 @@ They ate. The talk went easy and elsewhere for a while, the pressure bleeding of
 
 "Done," Randi said, immediately, like it cost nothing. "Obviously." Then: "Is Cassie in?"
 
-"She's out — already did hers, with that oddball Wardy." Vee shrugged, warm. "So it's just us."
+"She's out — already did hers, with that oddball Wardy." Vee shrugged. "So it's just us."
 
-"Just us," Randi said, and something crossed her face and was gone, and Vee took it for the ordinary pleasure of a plan made.
+"Just us," Randi said — and it came out softer than the plan called for, a small roughness under it, there and gone — and Vee took it for the ordinary pleasure of a plan made.
 
-The check came in its leather folder, and Vee had her card down on it before Randi's hand had finished lifting toward it — she'd sat at this table, she'd cover her own chair at it — and she signed and tipped well and said nothing about the number.
+The checks came in their leather folders. Vee had her card down on hers before Randi's hand could drift toward it, and she signed and tipped well and said nothing about the number.
 
-Out in the bright noon, on the walk in front of the low brick face of the place, Randi turned her into the goodbye — and this was the part Vee had come, without ever quite admitting it, to wait on all week. The hug first, long, the whole warm length of her, that bright green scent Vee had stopped trying to name folding around them both. And then Randi's mouth, the greeting they did now, easy, only what they did — except that this time, when it should have ended, Vee was the one who wouldn't let it, leaning up the last half-inch after Randi as she started to draw back, taking a second of it for herself, not ready to give the morning up. She did it before she'd thought. She noticed it, and decided it was what she wanted, and didn't bother about it again. Randi drew off and looked at her a moment, close, something in the look Vee didn't try to read.
+Out in the bright noon, on the walk in front of the low brick face of the place, Randi turned her into the goodbye — and this was the part Vee had come, without ever quite admitting it, to wait on all week. The hug first, long, the whole warm length of her, that bright green scent Vee had stopped trying to name folding around them both. And then Randi's mouth, easy, only what they did — except that this time, when it should have ended, Vee was the one who wouldn't let it, leaning up the last half-inch after Randi as she started to draw back, taking a second of it for herself, not ready to give the morning up. She did it before she'd thought. She noticed it, and decided it was what she wanted, and didn't bother about it again. Randi drew back just far enough to break the kiss, and looked right into her eyes from there — close, steady, a beat past what a goodbye needed — until Vee had almost begun to feel it as strange, and then the smile came.
 
 "See you soon, gorgeous."
 
-Then Randi was folding down into the low green Mercedes and Vee was crossing to the Corolla with its clean cloth seats, and that was that: one hug to carry her the whole week to the next one. She'd see Randi Tuesday in stats — but stats wasn't this. Stats was blue academic lighting and public and full of other people. This was the thing itself.
+Then Randi was folding down into the low green Mercedes and Vee was crossing to the Corolla with its clean cloth seats, and that was that: one hug to carry her the whole week to the next one. She'd see Randi Monday in stats — but stats wasn't this. Stats was blue academic lighting and public and full of other people. This was the thing itself.
 
 She got in and sat a second and found she was smiling, and started the car, and pointed it back toward Pace, and the house in the trees, and dinner, and the long slow thing that came before dinner in that house every time, that she was already, thirty minutes out, beginning to want.

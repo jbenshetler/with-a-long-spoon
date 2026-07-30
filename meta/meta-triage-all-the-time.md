@@ -1,0 +1,113 @@
+# Triage — All the Time (cold-read panel, 2026-07-29)
+
+Panel: claude-fable-5, claude-opus-4-8, gpt-5.5, gpt-5.6-sol · `reviews/cold-read/*/all-the-time.md`
+
+Verdicts on the friction items derived from the panel. **The "Left standing" section
+records authorial decisions — do not re-flag these without new evidence** (a new
+reader cohort snagging on the same spot, or an edit that re-opens the passage).
+
+## Fixed
+
+- **Two "unread flicker" beats read as authorial nudge** (5.6-sol: "something
+  crossed her face and was gone" + "something in the look Vee didn't try to read"
+  together made the reader aware Vee keeps declining to interpret) — author
+  diagnosis: the flicker formula is *too vague to read as anything specific*
+  (same lesson that produced `gone.md` and dropped `the-stranger.md`). Both beats
+  recast into concrete, deniable tells rather than cut: the "just us" flicker is
+  now a voice tell ("softer than the plan called for, a small roughness under it,
+  there and gone"); the kiss-look is now Randi breaking the kiss and looking
+  right into Vee's eyes from there, "a beat past what a goodbye needed" —
+  deliberately echoing the photo beat's "past what a verdict needed."
+- **`unhurried` on Randi** (style linter + author ruling 2026-07-28: unhurried is
+  Pace's word) — cut clean from the full-nude beat; "went the length of it" +
+  "the grin came slow" carry the tempo.
+- **`warm` cluster thinned** (Opus flagged warmth-as-illumination doubling;
+  linter showed 8 hits) — "Her face warmed" → "went hot" (joins the scene's
+  heat-family for Vee's exposed moments); "Vee shrugged, warm" → "Vee shrugged"
+  (sharpens the contrast with Randi's voice tell one line later). All remaining
+  `warm` uses examined and acked as load-bearing.
+- **Music passage recast** (author-initiated during the pass, not
+  reader-flagged) — "one playlist" / "goes on first" implied an undifferentiated
+  mix and Pace starting music after Vee arrives. Now: playlists plural and
+  per-phase, choosing kept deniable ("like the house knows what the evening is
+  before I do"), and the music already playing at arrival ("It's going when I
+  walk in. Every time. I've never once heard it start.") — verified against
+  `meta-note-music-thread.md` ("he does not put a record on for a guest") and
+  every drafted arrival scene; the old line was the only thing out of step.
+
+- **"He doesn't even *have* a life outside it"** (author-initiated; 5.6-sol had
+  flagged the line as "tragically false — he has Randi") — mischaracterized Pace
+  (PhD, cycling, lifting, dancing; Vee left him for the gym this very morning)
+  and read incel-adjacent. Recast to the true observation: "And when I'm there,
+  I don't compete with anything" — romantic cold, and on reread she is
+  competing, with the one thing she can't see. TV/no-scroll details and the
+  phone-for-music catch unchanged.
+
+- **"Or to." conjunction mismatch** (author-caught) — Vee hangs on "the music,
+  and—" but Randi's completion was "Or to.", finishing a sentence Vee didn't
+  start. Now "And to." — Randi completing Vee's own syntax (and, on reread, able
+  to because she already knows the answer).
+- **No rendered tell at "Take pictures"** (author-caught) — Vee's completion of
+  the slipped sentence landed with no residue, leaving Randi's "Pictures." echo
+  answering a tell the page never showed (regular pictures are no surprise; the
+  body saying the word is the signal). Added: "her body gave one small rock in
+  the seat, forward and back, that she caught only after it had happened" —
+  involuntary, body-before-head, erotic undertow deniable.
+- **"didn't ask herself why she still did"** (author cut) — narration nudging
+  the reader to notice the not-noticing; "ready for days" carries it silently.
+- **Sweet-talk question made presumptive** (author) — the either/or ("Did you
+  cook it up yourself, or did he sweet-talk you into it?") politely offered the
+  proud answer; now "How did he sweet-talk you into it?" assumes the diminishing
+  reading so "It was my idea" lands as a stung correction. Same lever as "only
+  gave him *half?*", kept tossed-off.
+- **Check mechanics ambiguous — one reader (fable) read Vee paying Randi's meal**
+  ("paid the whole check"); the other three read own-share, but one folder + one
+  card did imply the whole table. Canon: separate checks. Now "The checks came
+  in their leather folders. Vee had her card down on hers before Randi's hand
+  could drift toward it…" (author's wording).
+- **Goodbye kiss called "the greeting"** (author-caught) — mislabeled the
+  parting and collided with line 17's correct use of "greeting" for the arrival
+  hug. Noun cut: "And then Randi's mouth, easy, only what they did" — the bare
+  filing is Vee's deniability verbatim. The stronger candidate ("how they let
+  each other go now") was ruled half a rung too knowing for this stage of the
+  kiss staircase and **banked in `meta-plan-satc-tracks.md`** (physical
+  staircase section) for a spring rung at/after the seam.
+- **"Tuesday in stats" → "Monday in stats"** (author) — stats is MWF; next
+  class after a Saturday brunch is Monday.
+
+## Left standing — do not re-litigate
+
+- **Randi's involuntary crack — "It doesn't"** (all four readers; unanimously the
+  scene's emotional peak, not a complaint) — **blessed as this scene's sanctioned
+  exception to the track doc's cup-only-crack rule** (`meta-plan-satc-tracks.md`
+  "the cup tell is the ONLY crack permitted"). Author ruling 2026-07-29: the book
+  needs to surface *more* of Randi, not less; no reader read the crack as
+  suspicion of the game — all four read it as Randi becoming human. The crack,
+  the head-shake, the caught breath, and "Low, and not quite even" all stand.
+- **"warm as a bath" / room-light grin pairing** (Opus, lone, self-labeled tiny)
+  — both stand. The bath is warmth-as-envelopment and unlocks the sex-pervert
+  confession; the room light is the speech-engine recovery beat and needs to be
+  light, not warmth. Not the same move.
+- **"Miss November" / "Showing him your toes, eh?" banter** (Opus, lone: author
+  enjoying the double-edge) — stands. Planned warm-bawdy register per
+  `meta-note-all-the-time.md`; the toes line seeds a motif.
+- **"clocking the dates"** (style linter clock-verb rule) — acked; deniable in
+  context, and the dialogue that follows proves the noticing anyway.
+- **"Randi listened the way she listened, which was total"** (style linter) —
+  acked; the doubling is deliberate voice.
+- **Long summative pour of the Pace account** (5.5, Fable's yolk-length note;
+  both self-retracted in the same breath) — intentional. The scene is the SATC
+  format-break: Vee finally says the whole shape aloud, and the listening frame
+  is the extraction engine running.
+
+## What the panel confirmed (no action; for the record)
+
+All four readers, independently: the photo extraction ("You don't have to show
+me" → cropped → "only gave him *half?*" → full nude) is the book's mechanism at
+its cleanest — the promise kept while the leak is Vee's own hand; "finally
+hungry out loud" lands as absolution-that-is-also-grooming; the yolk/Benedict
+carries the food-eros; Vee paying the check unread and prolonging the goodbye
+kiss both register as quietly enormous, freely-given steps. Heat 1–2 / Romance
+2–3 across the board; two readers called friction "almost none." Consensus
+dread going forward: the photo now living in Randi's memory, the Anthro class
+as on-ramp, and whether Randi reports to Pace.
