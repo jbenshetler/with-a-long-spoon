@@ -61,7 +61,9 @@ STATUS_MATCH = [
 ]
 STATUS_COLOR = {
     "done": "#2e7d32", "wip": "#f9a825", "arch": "#5c6bc0", "todo": "#9e9e9e",
-    "event": "#546e7a", "unknown": "#c0c0c0",
+    # event = a warm brown, deliberately off the blue axis so "not a scene" dots
+    # don't read as "architecture complete" (indigo) in the beeswarm.
+    "event": "#8d6e63", "unknown": "#c0c0c0",
 }
 
 # Review rounds are categorical, not a scale: a scene's pill color is its review
@@ -675,13 +677,10 @@ def render_entry(e: Entry) -> str:
                  f'data-scene="{e.slug}" title="Read the scene">{label} ↗</span>']
     else:
         parts = [f'<span class="badge badge-{sc}">{label}</span>']
-    parts.append(f'<span class="etype etype-{e.etype.lower()}">{e.etype.title()}</span>')
-    if e.file_slug:
-        parts.append(f'<span class="chip slug" title="scene slug (on-disk file stem)">'
-                     f'{html.escape(e.file_slug)}</span>')
+    # Review pill immediately after the status badge, so it holds a near-fixed
+    # horizontal spot while scrolling (it used to ride after the variable-width
+    # presence/rating/word chips and drift left-right from card to card).
     if e.etype in ("SCENE", "VIGNETTE"):
-        parts.append(presence_pills(e))
-        parts.append(rating_pills(e))
         if e.review:
             rnd = e.review["round"]
             parts.append(
@@ -692,6 +691,13 @@ def render_entry(e: Entry) -> str:
             parts.append(f'<span class="chip review unreviewed" '
                          f'style="background:{REVIEW_UNREVIEWED}" '
                          f'title="not yet reviewed">unreviewed</span>')
+    parts.append(f'<span class="etype etype-{e.etype.lower()}">{e.etype.title()}</span>')
+    if e.file_slug:
+        parts.append(f'<span class="chip slug" title="scene slug (on-disk file stem)">'
+                     f'{html.escape(e.file_slug)}</span>')
+    if e.etype in ("SCENE", "VIGNETTE"):
+        parts.append(presence_pills(e))
+        parts.append(rating_pills(e))
         parts.append(
             f'<span class="chip words" title="prose word count · ~{_pages(e.words)} '
             f'pp at {WORDS_PER_PAGE} wpm">{e.words:,} words</span>')
@@ -1096,7 +1102,7 @@ PAGE = """<!doctype html>
     border-radius:10px; padding:12px 15px; margin:9px 0; }}
   .card-done {{ border-left-color:#2e7d32; }}  .card-wip {{ border-left-color:#f9a825; }}
   .card-arch {{ border-left-color:#5c6bc0; }}  .card-todo {{ border-left-color:#9e9e9e; }}
-  .card-event {{ border-left-color:#546e7a; }}  .card-unknown {{ border-left-color:#c0c0c0; }}
+  .card-event {{ border-left-color:#8d6e63; }}  .card-unknown {{ border-left-color:#c0c0c0; }}
   .card h3 {{ margin:0 0 7px; font-size:16px; }}
   .card {{ scroll-margin-top:16px; }}
   .card.flash {{ animation:flash 1.2s ease-out; }}
@@ -1105,7 +1111,7 @@ PAGE = """<!doctype html>
   .badge {{ font-size:11px; font-weight:600; padding:2px 8px; border-radius:20px; color:#fff; }}
   .badge-done {{ background:#2e7d32; }} .badge-wip {{ background:#f9a825; color:#222; }}
   .badge-arch {{ background:#5c6bc0; }} .badge-todo {{ background:#9e9e9e; color:#222; }}
-  .badge-event {{ background:#546e7a; }} .badge-unknown {{ background:#3a414e; color:var(--mut); }}
+  .badge-event {{ background:#8d6e63; }} .badge-unknown {{ background:#3a414e; color:var(--mut); }}
   .etype {{ font-size:11px; color:var(--mut); border:1px solid var(--line); border-radius:20px; padding:2px 8px; }}
   .chip {{ font-size:11.5px; color:var(--ink); background:#222936; border:1px solid var(--line);
     border-radius:6px; padding:2px 7px; text-decoration:none; }}
