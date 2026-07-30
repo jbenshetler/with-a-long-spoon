@@ -23,3 +23,11 @@ Panel: claude-fable-5, claude-opus-4-8, gpt-5.5, gpt-5.6-sol (read after {{Cropp
 
 - Wishes for Cassie/Randi intervention (plot desire, downstream scenes exist).
 - Reviewer inferences about *why* Pace withholds (Randi, the vow) — reactions, not canon.
+
+## Rulings recorded post-review (2026-07-30)
+
+- **Music thread: silence.** The registry triggers for any scene at Pace's house; ruled silent here — the soundscape is his breaths and the *mm*.
+- **Porch heat backstory** ruled coherent in `meta-plan-pace-house.md` (register + thermostat; warm for {{A Round}}, cool at night for {{Rock}}/{{Seconds}}).
+- **Same-day sequencing with {{Cropped}} is intentional** — first reunion after Thanksgiving, Vee full of missing him and the who-are-we questions the break raised.
+- **Moon rises over the mountains** (behind the nearer ridge) — line 17 aligned.
+

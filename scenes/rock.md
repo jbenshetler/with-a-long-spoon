@@ -1,6 +1,6 @@
 # Rock
 
-Behind them the fire worked quietly in the den. In front of them the glass held the whole cold night: the yard gone black, the ridge a darker black laid over it, the stars out hard and close along the top of the line. The porch had no heat of its own. The cold stood on the other side of the glass and leaned in, and the quilt over the two of them and the fire at their backs made all the warmth there was, and the smallness of it was the point.
+Behind them the fire worked quietly in the den. In front of them the glass held the whole cold night: the yard gone black, the ridge a darker black laid over it, the stars out hard and close along the top of the line. The cold stood on the other side of the glass and leaned in, and the quilt over the two of them and the fire at their backs made all the warmth there was, and the smallness of it was the point.
 
 She had her feet tucked under his thigh. He had handed her the robe off the back of the closet door and taken the quilt down without being asked, and now they were under it, his boxers and her skin and his robe over her shoulders, and the tea gone cool in the mugs on the low table because they had stopped drinking it in order to keep talking.
 
