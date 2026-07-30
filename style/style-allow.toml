@@ -1824,6 +1824,34 @@ text = "It had to have data — he wanted to be clear about that, this was a sta
 note = "Professor's credo (data, not analogies); author sign-off 2026-07-29"
 
 [[ok]]
+fp   = "2f6ed740ed95"
+rule = "the-way"
+file = "scenes/porch-scene.md"
+text = "He kept the porch heater low overnight in the colder months — *for the plants,* he had said, the way he said practical things, without making them about himself — and the air on the porch had the close even warmth she had come to know as the texture of being at his house in the early morning."
+note = "author-sanctioned: 'the way he said practical things' — Vee generalizing his habit is the point (2026-07-30)"
+
+[[ok]]
+fp   = "40b826145e64"
+rule = "the-way"
+file = "scenes/porch-scene.md"
+text = "She had been carrying the sentence assembled for long enough that it came out the way a poem comes out when you have memorized it — whole, with the rhythm she had given it, finished before she had fully decided to start."
+note = "author-sanctioned: 'the way a poem comes out' — load-bearing idiom (2026-07-29)"
+
+[[ok]]
+fp   = "4c18ba84d94c"
+rule = "the-way"
+file = "scenes/porch-scene.md"
+text = "She thought, in the way you think when you are not yet thinking but only listening to your body, *what?* And then she thought, *what did he—* and then she stopped thinking because his hand on her shin had begun to move in the small slow way it moved when he was settling further into a long quiet morning with her, and his other arm came around her, and she let herself be drawn into him, and the small *wait* behind her sternum went into the body where small *waits* go when the room is warm and the man is holding you and the sun has begun to come up."
+note = "author-sanctioned: 'the way you think when you are not yet thinking' — body-before-mind generalization kept (2026-07-30)"
+
+[[ok]]
+fp   = "ba884f13a07e"
+rule = "the-way"
+file = "scenes/porch-scene.md"
+text = "He pulled her a little closer under the quilt — not casually, but the way a man rearranges himself when he wants you against him for a particular reason, the small specific adjustment of his arm around her shoulder, the deliberateness of being held."
+note = "author-sanctioned: 'the way a man rearranges himself' — load-bearing idiom (2026-07-29)"
+
+[[ok]]
 fp   = "43d320416eac"
 rule = "clock-verb"
 file = "scenes/practice-room.md"
