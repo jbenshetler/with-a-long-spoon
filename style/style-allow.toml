@@ -1614,6 +1614,27 @@ text = "I built her on the nights I felt stupid for missing him this badly.\""
 note = "Author-approved: 'file' = the sorority-folder image (canon callback to broken-in); dialogue and realization filter verbs; retained 'whole of it'; info-level existentials."
 
 [[ok]]
+fp   = "6c896e162603"
+rule = "the-way"
+file = "scenes/my-friend-randi.md"
+text = "By early afternoon she couldn't stand her own company one minute more, and she knew where she went when it got like this, and she got up, not trusting herself to look in the mirror on the way out, and walked across campus to Randi's."
+note = "literal spatial use: 'mirror on the way out' — re-ack after walk-not-drive edit (author 2026-07-30)"
+
+[[ok]]
+fp   = "9253b3d42868"
+rule = "the-way"
+file = "scenes/my-friend-randi.md"
+text = "By early afternoon she couldn't stand her own company one minute more, and she knew where she went when it got like this, and she got up and got back in the car, not trusting herself to look in the mirror on the way out, and drove to Randi's."
+note = "literal spatial use: 'mirror on the way out' — not the filtered-construction tic (author 2026-07-30)"
+
+[[ok]]
+fp   = "a1d6301c6401"
+rule = "the-way"
+file = "scenes/my-friend-randi.md"
+text = "She'd cried most of the way in from the airport."
+note = "literal spatial use: 'cried most of the way in from the airport' — not the filtered-construction tic (author 2026-07-30)"
+
+[[ok]]
 fp   = "8aedd0ebe87c"
 rule = "there-was-were"
 file = "scenes/my-friend-randi.md"
