@@ -984,6 +984,48 @@ text = "There was no door left open for her to step through, and she felt, low a
 note = "Reviewed with author 2026-07-10: all defensible — Pace dialogue, the accepted Thanksgiving exchange, load-bearing antithesis (a body/not a body; phone/not his), the false-positive idiom (all the way around), inceptive began-to, idiomatic there-was."
 
 [[ok]]
+fp   = "c2d66ee4e712"
+rule = "unhurried"
+file = "scenes/in-his-hands.md"
+text = "He did it unhurried and sure, and at each place his hands set her he put his mouth there after: a kiss to the point of her shoulder, a kiss to the rise of her hip, a kiss to her knee."
+note = "Author-sanctioned Pace use: the posing beat is load-bearing (cold-reader feedback pass 2026-07-29)"
+
+[[ok]]
+fp   = "0111b04e6de1"
+rule = "warm"
+file = "scenes/in-his-hands.md"
+text = "And then he looked at her over the top of the phone, at her and not the picture of her, and grinned like a boy who'd got away with something, and it landed warm under her breastbone."
+note = "Load-bearing warmth: landed warm under her breastbone (ack pass 2026-07-29)"
+
+[[ok]]
+fp   = "55e354c87f1c"
+rule = "warm"
+file = "scenes/in-his-hands.md"
+text = "He said it easily, and it warmed her, and she nearly let it lie."
+note = "Load-bearing warmth: 'it warmed her' at This is my home (ack pass 2026-07-29)"
+
+[[ok]]
+fp   = "5e87658e031f"
+rule = "warm"
+file = "scenes/in-his-hands.md"
+text = "And then he looked at her over the top of the phone, at her and not the picture of her, and grinned like a boy who'd gotten away with something, and it landed warm under her breastbone."
+note = "Load-bearing warmth: landed warm under her breastbone — re-ack after got→gotten fix (2026-07-29)"
+
+[[ok]]
+fp   = "b5a2fb73f16d"
+rule = "warm"
+file = "scenes/in-his-hands.md"
+text = "By the time he stepped back she was laid out like a woman in an old calendar, warm under his hands, with no wish to argue with any of it."
+note = "Load-bearing warmth: warm under his hands, the posing beat (ack pass 2026-07-29)"
+
+[[ok]]
+fp   = "ef161b40658e"
+rule = "warm"
+file = "scenes/in-his-hands.md"
+text = "His breath moved warm across her skin."
+note = "Load-bearing warmth: his breath on her skin (ack pass 2026-07-29)"
+
+[[ok]]
 fp   = "351296d088a9"
 rule = "x-not-y"
 file = "scenes/in-his-hands.md"
@@ -1481,6 +1523,20 @@ text = "\"The kind you tell your daughter about,\" Vee said, quiet now, and look
 note = "Author-approved: 'file' = the sorority-folder image (canon callback to broken-in); dialogue and realization filter verbs; retained 'whole of it'; info-level existentials."
 
 [[ok]]
+fp   = "ce800c924767"
+rule = "unhurried"
+file = "scenes/new-ordinary.md"
+text = "He undressed her with the unhurried hands he brought to everything, no fumble in them, and the patience of it was its own small cruelty tonight, because she was already long past patience, had been past it somewhere around Wednesday."
+note = "Author-sanctioned: the load-bearing 'unhurried' for this scene — sets Pace's tempo against Vee's five-night urgency; paid off by 'its own small cruelty' (feedback pass 2026-07-29)"
+
+[[ok]]
+fp   = "305112797d5a"
+rule = "whole-of"
+file = "scenes/new-ordinary.md"
+text = "He'd worn it for her without making her ask twice, and he stood there now wearing two shirts in his own warm kitchen because she'd told him to, and that was the whole of his answer, as it always was."
+note = "Author-sanctioned: 'the whole of his answer, as it always was' — the acts-not-words motif close; the scene's other two whole-of hits were recast (feedback pass 2026-07-29)"
+
+[[ok]]
 fp   = "21487d40a57f"
 rule = "filter-verbs"
 file = "scenes/nothing-underneath.md"
@@ -1682,6 +1738,90 @@ rule = "the-way"
 file = "scenes/one-bite.md"
 text = "Clear, and fond, and near, looking at her the way she always did, as though Vee were the best thing in the room."
 note = "Protected stall passage (triage: do not touch); 'the way she always did' stands; author ack 2026-07-28"
+
+[[ok]]
+fp   = "a7749c07c80d"
+rule = "file-verb"
+file = "scenes/outlier.md"
+text = "She knew the name Miranda — everyone who knew Randi knew it, the long formal version on the chapter paperwork, the name Randi had been given and filed down to something a person could stand to answer to."
+note = "Filing-down = abrasion image, canonical Miranda/Randi motif, not the paperwork tic; author sign-off 2026-07-29"
+
+[[ok]]
+fp   = "b7e970b9e73e"
+rule = "look-at-her"
+file = "scenes/outlier.md"
+text = "Randi didn't look at her."
+note = "Author ruling 2026-07-29: kept as-is; literal gaze mechanics (tables-turned beat), not the appreciation tic"
+
+[[ok]]
+fp   = "120e929bcd22"
+rule = "there-was-were"
+file = "scenes/outlier.md"
+text = "Then she did the one useful thing there was, which was to give Randi somewhere to put her hands."
+note = "Author sign-off 2026-07-29"
+
+[[ok]]
+fp   = "18cbb8c3a55a"
+rule = "there-was-were"
+file = "scenes/outlier.md"
+text = "Vee watched her take it — watched her give Cassie's certainty a nod, because there was nothing else to give it, watched her close the record with one keystroke and put the point back among the hundred thousand others where it was only the biggest one and not a name."
+note = "Existential fits the beat; author sign-off 2026-07-29"
+
+[[ok]]
+fp   = "34abcafd2801"
+rule = "there-was-were"
+file = "scenes/outlier.md"
+text = "Then look at the whole of it, and look at the outliers — there was usually the main body of the thing and then there were the points that sat off by themselves, and you could set those aside if you could account for them."
+note = "Professor's plain lecture register; author sign-off 2026-07-29"
+
+[[ok]]
+fp   = "5a7b3e778402"
+rule = "there-was-were"
+file = "scenes/outlier.md"
+text = "County after county, the loans came down and the payrolls barely moved, and Cassie sat back — she didn't gloat, there was no gloat in her — with the still, satisfied face of a person watching the world admit something she'd told it about itself."
+note = "Deliberate repetition figure (didn't gloat / no gloat in her); author sign-off 2026-07-29"
+
+[[ok]]
+fp   = "8b7b16f8799f"
+rule = "there-was-were"
+file = "scenes/outlier.md"
+text = "There was nothing practiced in them, nothing worn smooth with use; they came out ragged, a thing being said for the first time, and aimed too near to be meant for strangers."
+note = "Ruled recast 2026-07-28 (surprise-legibility ruling, meta-note-outlier.md) — do not touch"
+
+[[ok]]
+fp   = "b3d2cf77f73f"
+rule = "there-was-were"
+file = "scenes/outlier.md"
+text = "County after county, the loans landed and the payrolls fell anyway, and Cassie sat back — she didn't gloat, there was no gloat in her — with the still, satisfied face of a person watching the world admit something she'd told it about itself."
+note = "Re-ack after 2026-07-29 negative-correlation edit in same sentence; the sanctioned clause ('she didn't gloat, there was no gloat in her' — deliberate flat repetition) is unchanged"
+
+[[ok]]
+fp   = "7f3375170b62"
+rule = "whole-of"
+file = "scenes/outlier.md"
+text = "Then look at the whole of it, and look at the outliers — there was usually the main body of the thing and then there were the points that sat off by themselves, and you could set those aside if you could account for them."
+note = "Professor's reported lecture speech, near-literal (the full dataset); author sign-off 2026-07-29"
+
+[[ok]]
+fp   = "89546c7ac492"
+rule = "whole-of"
+file = "scenes/outlier.md"
+text = "Randi's face was doing very little, and the very little was the whole of it."
+note = "Keeper line — 'the very little was the whole of it'; author sign-off 2026-07-29"
+
+[[ok]]
+fp   = "81a5501797c1"
+rule = "x-not-y"
+file = "scenes/outlier.md"
+text = "Vee walked out between her two friends into the gray and thought, not that she let herself think about it much, that Randi had been handed a rotten thing by a man she'd had the luck to be the daughter of — no hand in it, none of it earned — and that the kindest thing a friend could do was not make her carry it in front of anyone."
+note = "False positive — parenthetical, not antithesis; author sign-off 2026-07-29"
+
+[[ok]]
+fp   = "b607491c4ae2"
+rule = "x-not-y"
+file = "scenes/outlier.md"
+text = "It had to have data — he wanted to be clear about that, this was a statistics class and not an English paper; here they argued with data, not with analogies."
+note = "Professor's credo (data, not analogies); author sign-off 2026-07-29"
 
 [[ok]]
 fp   = "43d320416eac"

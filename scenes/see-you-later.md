@@ -36,7 +36,7 @@ Vee laughed. *The right pen.* A nothing thing to say, and it warmed her like pra
 
 Randi's eyes went past her to Cassie, and the warmth swung over and landed there, total, undimmed, as though Cassie were the next wonderful thing in a room full of them.
 
-"Hi — I'm Randi." She put a hand to her own collarbone. "Not, like — " a wave-off, practiced, charming, " — not *Randy*, my parents weren't trying to be funny, although my dad thinks he was. Long story. Randi."
+"Hi — I'm Randi. Yes, like the adjective. No, it's not a coincidence. Yes, my parents had a sense of humor."
 
 It was a little bit, Vee saw. A nice one. It had a shape to it, a place at the end where the other person was supposed to laugh and hand their own name back and the two of you were off.
 

@@ -48,6 +48,14 @@ this scene actually contains:
    *seeded by resonance only* here; the Cassandra device and "never explained"
    rule if a warning figure appears; the full earn-the-dark rule; what a
    "signal to cut" looks like.
+5. **SATC escalation ladder** *(only if the scene is an SATC/brunch/confidante
+   scene between Randi and Vee)* — from `meta-plan-satc-tracks.md`: the full
+   axis scheme (verbal/confessional rungs, bathroom-trip progression,
+   goodbye-kiss/physical staircase, overtness/naming, surface-authoring,
+   response-migration, object-migration, witness, Randi's story position,
+   container/venue) **plus the rung assignments of the immediately preceding
+   and following SATC scenes**, so the audit compares against neighbors, not
+   the whole track.
 
 ## Step 3 — Review against the rubric
 
@@ -67,6 +75,21 @@ Synthesize (don't just relay the subagents). Judge the draft on:
   This is usually where the real risks live: name any line where the machinery
   hums too close to the surface.
 - **Earn-the-dark** — genuinely warm/engaging on first read; no author's thumb.
+- **SATC escalation audit** *(SATC/brunch scenes only)* — name explicitly which
+  axes/rungs this scene advances versus the previous SATC scene, and which it
+  rests. Then flag against the track doc's law ("everything advancing at once
+  reads as escalation; one thing creeping reads as a Tuesday"):
+  - **Zero axes advanced** → flag as *static*: the visible container (arrive,
+    story, extraction, reward, kiss) is repeating without a ladder click —
+    the pattern-detector risk a third same-shaped run triggers in readers.
+  - **3+ axes advanced, or a jump of more than one rung on any single
+    ladder** → flag as *over-advancing*: escalation becomes visible, Randi
+    reads as operating, deniability is spent.
+  - **1–2 axes, one rung each** → on-model; say so and name the rungs.
+  Distinguish *designedly quiet* rungs (an axis resting per an explicit
+  track-doc assignment, e.g. "no bathroom trip — shame is social not
+  transgressive") from genuine stasis before flagging; cite the assignment
+  when one exists.
 - **Continuity / dates** — reconcile against the chronology (which owns dates);
   verify weekdays, elapsed time, venue, and canon details. Flag conflicts.
 
@@ -80,6 +103,9 @@ Output in this shape, prioritized, scannable:
 - **Where I'd point the flashlight** — the few things actually worth the
   author's knife, ordered by importance; for each, quote the line, say the
   specific risk, and — only if it helps the author decide — offer options.
+- **SATC rung report** *(SATC/brunch scenes only)* — a compact line per axis:
+  advanced (to what rung) / rested / rested-by-assignment, plus the verdict
+  (on-model · static · over-advancing).
 - **Verify** — anything to reconcile against canon/chronology before trusting.
 - **Bottom line** — an honest overall verdict on how the scene is landing.
 

@@ -10,7 +10,7 @@ A two-panel scene collapsing former scenes 4, 5, and 6. Panel one (the lecture) 
 
 Vee's POV. Vee got there early with Cassie, deciding not to watch the door; she met Randi the day before (the engineered collision in {{The Pointing Game}}, less than a day earlier) and has already worn a groove running *"we should sit together"* both ways. Randi enters from the back, sidesteps in lit-up, drops into the aisle seat so Vee is *between* her and Cassie, squeezes Vee's forearm, lands one specific affirmation (*the right pen — I love that*).
 
-**The name-bit fires on Cassie** (first contact): Randi's practiced *"not Randy, my parents weren't trying to be funny"* routine, built to be answered with the other person's own name-bit — and Cassie declines it, returns one flat word, *"Cassie,"* leaving the routine's open door unwalked-through. Vee smooths the half-second hitch (*"Cassie says about four words a day"*) and reads the flatness as dry humor.
+**The name-bit fires on Cassie** (first contact): Randi's practiced *"Yes, like the adjective. No, it's not a coincidence. Yes, my parents had a sense of humor."* routine (the Bible's best-phrasings version, on the page as of 2026-07-29; the earlier *"not Randy"* rendering is retired), built to be answered with the other person's own name-bit — and Cassie declines it, returns one flat word, *"Cassie,"* leaving the routine's open door unwalked-through. Vee smooths the half-second hitch (*"Cassie says about four words a day"*) and reads the flatness as dry humor.
 
 Lecture (residuals) goes to drone; Randi's proximity is the better thing at her elbow and Vee lets the math she's good at pass like scenery.
 
