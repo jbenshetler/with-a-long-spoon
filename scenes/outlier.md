@@ -42,9 +42,7 @@ Better than good. The model held. The graphs Randi had built off it were clean a
 
 The aggregate said what Cassie had said it would say. The money went up; the jobs didn't follow it. County after county, the loans came down and the payrolls barely moved, and Cassie sat back — she didn't gloat, there was no gloat in her — with the still, satisfied face of a person watching the world admit something she'd told it about itself.
 
-"Told you," she said, mild.
-
-"You told me the country," Randi said. "You didn't tell me my county."
+"The country isn't my county," Randi said.
 
 Because that was the last of it before the write-up — the professor's *few samples,* the thing that made the project theirs. They plotted the counties they were from. Cassie's, a flat rural nowhere, sat on the line. Vee's sat on the line. And then Randi pulled up her own and leaned in, driving now, because this was the one she'd been aiming the whole picture at — home, the proof, the bright counterexample that was going to complicate Cassie's clean sad story with something real.
 
@@ -66,7 +64,7 @@ Randi read it. Vee watched her do it — watched her eyes go down the short colu
 
 Vee read it before she knew she was reading it. She knew the name Miranda — everyone who knew Randi knew it, the long formal version on the chapter paperwork, the name Randi had been given and filed down to something a person could stand to answer to. And here it was in the small gray print of a government page, sitting over the worst point in the county, over a short column of numbers Vee needed no gift for math to read: the loans, several of them, one company under another, and beside each loan the thing the loan had been for and had not done.
 
-She knew whose it was.
+There could be no other Miranda.
 
 She turned from the screen and looked at Randi.
 
