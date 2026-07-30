@@ -1712,6 +1712,13 @@ text = "She had reached for the one thing that was hers and it had taken the she
 note = "Deliberate: the jealousy hijack forces her to watch her own First Night corrupt in real time — 'while she watched' is the helpless spectation, the point, not a filter to cut."
 
 [[ok]]
+fp   = "2aa7ca454e6b"
+rule = "the-way"
+file = "scenes/old-acquaintances.md"
+text = "She went up through the old messages the way you worry a sore tooth — the small warm things he'd sent, checking she'd gotten back to the dorm, asking how her day had been — and got as far as the little field and held her thumb over it."
+note = "Load-bearing idiom (worrying a sore tooth); author sign-off 2026-07-30 cold-read feedback pass"
+
+[[ok]]
 fp   = "c4e6ea885600"
 rule = "vivienne"
 file = "scenes/old-acquaintances.md"
