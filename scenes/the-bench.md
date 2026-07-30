@@ -186,11 +186,11 @@ The difference arrived. He let her have it for one more breath.
 
 ---
 
-Then he turned her by the shoulders, gently, and walked her to the bench.
+Then he took her by the shoulders, gently, and walked her to the bench.
 
-He walked behind her. The lamplight fell across her back and shoulders and down over the long pale length of her, her skin taking the light the way oiled wood took it — warm, deep, alive at the surface. The small of her back carried the faint damp sheen from his earlier kisses. Across her ribs, the fading pink line from her bra band was still just visible, a ghost of the garment now folded on the chair. Her ass moved as she walked — the muscle working under the pale skin, the cleft opening and closing with each step, the waxed smoothness of her catching and then losing the lamplight with the motion. Her feet in the heels made the small sharp sound of a woman who walked in heels the way other people walked in flat shoes — without thought, the weight falling where the weight was meant to fall.
+He walked behind her. The lamplight fell across her back and shoulders and down over the long pale length of her, her skin taking the light the way oiled wood took it — warm, deep, alive at the surface. The small of her back carried the faint damp sheen from his earlier kisses. Across her ribs, the fading pink line from her bra band was still just visible, a ghost of the garment now folded on the chair. Her ass moved as she walked — the muscle working under the pale skin. Her feet in the heels made the small sharp sound of a woman who walked in heels the way other people walked in flat shoes — without thought, the weight falling where the weight was meant to fall.
 
-She walked ahead of him to the thing he had built for her, and he watched her walk, and the walk was part of what he was watching.
+She walked ahead of him to the thing he had built, and he watched her walk, and the walk was part of what he was watching.
 
 At the bench she stopped. Her eyes went to the bottom of the closet and stayed there. He knew she was looking for the toy box, the familiar thing down where it lived.
 
@@ -200,7 +200,7 @@ She had to figure out how to climb onto it. He could see the slight unsteadiness
 
 The dark walnut against her pale skin. The smell of the bench rose faintly in the warm air: the mineral tang of the oiled wood, the dark hide-smell of the new leather warming under her body. She was on it now, still in heels — the small high arches lifted, the calves tightening, the line of her doing what a decade of dance had trained the line of her to do under pressure.
 
-He watched her hands settle into the grips — the small sound of skin on leather, the delicate knuckles whitening and then relaxing — her knees finding the leg supports, her hips settling onto the pelvis support, her torso bridging the gap between them, unsupported, her breasts hanging free in the lamplight with the small heavy sway of them against gravity as she found the load. Her thighs parted as the leg supports took her weight, the bare cleft between them appearing and disappearing with each small adjustment. Her ass — pale, bare, years of cheer written into the muscle of it — clenched and released as she searched for the position, the small involuntary tightenings of a body that did not yet know how to be still under what was about to happen to it.
+He watched her hands settle into the grips — the whisper of skin on leather, the delicate knuckles whitening and then relaxing — her knees finding the leg supports, her hips settling onto the pelvis support, her torso bridging the gap between them, unsupported, her breasts hanging free in the lamplight with the small heavy sway of them against gravity as she found the load. Her thighs parted as the leg supports took her weight, the bare cleft between them appearing and disappearing with each small adjustment. Her ass — pale, bare, years of cheer written into the muscle of it — clenched and released as she searched for the position, the small involuntary tightenings of a body that did not yet know how to be still under what was about to happen to it.
 
 He adjusted the leg supports. The mechanisms had been his own design — well-oiled, silent, each piece moving under his hand with the precision of the thing he had made it to have. He widened them slowly until her thighs were apart enough that he could see all of her. The cleft between her legs opened — the coral lips, the gloss he had seen from the front now visible from the back, the scent of her beginning to reach him, unmistakable, the sea in it. She made a sound.
 
@@ -276,7 +276,7 @@ He took the second foot in both hands — the arch warm, fine-boned, the blue-po
 
 He stood up. He went back behind her. He hit her again — harder this time, the first real one, the palm landing clean on the high point of the right side where the skin was already pink. The sound was sharper. Her whole body took the strike and gave it back. She gasped. He hit her again on the same place, then twice on the left, quick athletic strikes with almost no pause between them. The skin was hot now, the dampness under his palm real, thin gloss, the smell of her coming up. Her ass was a deep pink, almost red on the high points. The small involuntary clenches had stopped. She was no longer fighting the position. The bench had done that much.
 
-He bent at her side and kissed the small of her back just above where his hand had been working — the skin there hot and faintly slick, the thin gloss of sweat that had risen across the lower back without her knowing. The kiss landed on the salt of her. He felt her shiver, the small ripple that ran up her spine and into her shoulders. He kissed her again, half an inch higher, the skin there hotter. He worked his way up her back, alternating kisses, left, right, the sweat thickening. Between her shoulder blades the sweat was a fine dark film, the skin there the hottest, the smell of her strongest, the animal scent of her body rising under the fading perfume. He stayed at her neck for a long moment with his lips against the damp skin, breathing the salt and the heat of her, the small fine hairs at the base of her skull catching against his mouth. Then he moved up, lips tracing the line of her neck, and found the soft hollow behind her ear where the hair was warm and damp and her pulse was working against his mouth. He stayed there, his lips against the pulse, the small thud of it, the taste of her skin, the faint citrus still clinging to the hair that had fallen across her ear.
+He bent at her side and kissed the small of her back just above where his hand had been working — the skin there hot and faintly slick, the thin gloss of sweat that had risen across the lower back without her knowing. The kiss landed on the salt of her. He felt her shiver, the small ripple that ran up her spine and into her shoulders. He kissed her again, half an inch higher, the skin there hotter. He worked his way up her back, alternating kisses, left, right, the sweat thickening. Between her shoulder blades the sweat was a fine film, the skin there the hottest, the smell of her strongest, the animal scent of her body rising under the fading perfume. He stayed at her neck for a long moment with his lips against the damp skin, breathing the salt and the heat of her, the small fine hairs at the base of her skull catching against his mouth. Then he moved up, lips tracing the line of her neck, and found the soft hollow behind her ear where the hair was warm and damp and her pulse was working against his mouth. He stayed there, his lips against the pulse, the small thud of it, the taste of her skin, the faint citrus still clinging to the hair that had fallen across her ear.
 
 "I like this part," he said, into the hollow behind her ear. His voice was low. The words came out against her skin.
 
@@ -336,7 +336,7 @@ He kissed the spot where his hand had been on her ass. She inhaled sharply.
 
 "I know," he said, gently.
 
-He waited. He let her settle. He stroked her back. He watched. Wetness had gathered between her thighs, and the light moved across it whenever his fingers parted the seam. He could see the slick shifting and catching with each slow pass of his hand, the seam parting and closing. A thin thread of it stretched between his fingers and her skin, then broke. He kept going until the shine thickened and began to run, then pulled his hand back.
+He waited. He let her settle. He stroked her back. He watched. Then he brought his hand back down between her thighs. Wetness had gathered there, and the light moved across it as his fingers parted the seam. He could see the slick shifting and catching with each slow pass of his hand, the seam parting and closing. A thin thread of it stretched between his fingers and her skin, then broke. He kept going until the shine thickened and began to run, then pulled his hand back.
 
 The sound she made this time was different. Lower. Something from further down in her than the sounds that had come before.
 
@@ -368,7 +368,7 @@ He took his hand from her breast. He went back behind her. He struck her again, 
 
 He bent and pressed his face against the curve of her ass where it was hottest and kissed her there, his mouth against the heat his own hand had made. She gasped.
 
-This time he stayed with the feeling. She was furnace-hot and so wet his fingers moved without friction. When he pressed deeper he felt the grip of her, the muscle inside pulling at him in tight, rhythmic pulses. Fresh wetness coated his knuckles and slid down his wrist. He kept his hand there, working her steadily, until he felt the first long tremor begin in her thighs. Then he stopped.
+He slid his fingers back into her. This time he stayed. She was furnace-hot and so wet his fingers moved without friction. When he pressed deeper he felt the grip of her, the muscle inside pulling at him in tight, rhythmic pulses. Fresh wetness coated his knuckles and slid down his wrist. He kept his hand there, working her steadily, until he felt the first long tremor begin in her thighs. Then he stopped.
 
 "Pace," she said.
 
@@ -512,7 +512,7 @@ He sat on the bed. He listened.
 
 He did not hear the toilet. He did not hear the tap. He heard, after a long pause, the very quiet sound of a woman crying again, briefly, then stopping. Then nothing. He waited.
 
-He did not knock. He did not call out. He had decided, on the way to the bed, that whatever was happening in there was hers and he would not put a hand on it until she invited him to. He sat with his elbows on his knees and looked at the floor and waited.
+He did not knock. He did not call out. He had decided, when he heard the lock turn over, that whatever was happening in there was hers and he would not put a hand on it until she invited him to. He sat with his elbows on his knees and looked at the floor and waited.
 
 In the bathroom, Randi stood at the sink and looked at her face in the mirror.
 
