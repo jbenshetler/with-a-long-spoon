@@ -30,7 +30,7 @@ Level, unhurried, with no defense built into it and nothing in it to push agains
 
 ---
 
-He made small talk on the way down — something on the radio, the parking at the rec center, a thing one of his students had said in office hours. He was easy about it, doing the going-out with the same good will he brought to anything she asked of him, and she gave him back the short ends of answers — yes, not really, I don't know — not unkind, just not picking any of it up, not able to. She'd gotten what she wanted and couldn't find the part of herself that was supposed to be glad of it.
+He made small talk on the way down — something on a podcast, the parking at the rec center, a thing one of his students had said in office hours. He was easy about it, doing the going-out with the same good will he brought to anything she asked of him, and she gave him back the short ends of answers — yes, not really, I don't know — not unkind, just not picking any of it up, not able to. She'd gotten what she wanted and couldn't find the part of herself that was supposed to be glad of it.
 
 The hostess walked them back into the bright roar of the place — a game going on three of the walls and a fourth screen over the bar, music coming down through the ceiling on top of all of it, every booth full and loud. She sat them near the middle, where the sound seemed to pool. Vee slid in across from him. There was a television on the wall a foot above her head.
 

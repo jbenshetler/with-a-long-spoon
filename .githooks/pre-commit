@@ -1,18 +1,39 @@
 #!/bin/sh
-# Pre-commit: validate {{Chapter Title}} references resolve to real chapters
-# (see CLAUDE.md, "Chapter-title references"). Runs only when a meta/*.md file
-# is staged, so non-meta commits aren't slowed.
+# Pre-commit hook. Two independent, scoped checks — each runs only when files
+# it cares about are staged, so unrelated commits aren't slowed.
 #
 # This hook is versioned but not auto-installed. Activate it on a fresh clone:
 #     git config core.hooksPath .githooks
 #
-staged=$(git diff --cached --name-only --diff-filter=ACM | grep '^meta/.*\.md$')
-[ -z "$staged" ] && exit 0
+# 1. {{Chapter Title}} validation: when a meta/*.md file is staged, verify every
+#    {{Title}} reference resolves to a real chapter (see CLAUDE.md).
+# 2. Chronology HTML regen: when a scene or the chronology doc is staged,
+#    rebuild chronology.html and stage it into the same commit, so the committed
+#    HTML stays current-on-disk. The per-scene "updated" date is read from git
+#    history, so it lags the commit being made by one — accepted by design; the
+#    file is kept "current enough" by committing on every scene change.
 
-if ! python3 tools/lint_titles.py --all; then
-    echo "" >&2
-    echo "pre-commit: a {{Title}} reference does not resolve to a chapter." >&2
-    echo "Fix the title/alias or unbrace it, then re-commit." >&2
-    echo "(To bypass in an emergency: git commit --no-verify)" >&2
-    exit 1
+staged=$(git diff --cached --name-only --diff-filter=ACM)
+
+# --- 1. title-reference validation (meta/*.md only) ------------------------
+if printf '%s\n' "$staged" | grep -q '^meta/.*\.md$'; then
+    if ! python3 tools/lint_titles.py --all; then
+        echo "" >&2
+        echo "pre-commit: a {{Title}} reference does not resolve to a chapter." >&2
+        echo "Fix the title/alias or unbrace it, then re-commit." >&2
+        echo "(To bypass in an emergency: git commit --no-verify)" >&2
+        exit 1
+    fi
+fi
+
+# --- 2. chronology HTML regen (scenes/*.md or the chronology doc) -----------
+if printf '%s\n' "$staged" | grep -qE '^(scenes/.*\.md|meta/meta-plan-chronology\.md)$'; then
+    if ! python3 tools/chronology_html.py; then
+        echo "" >&2
+        echo "pre-commit: chronology_html.py failed to regenerate chronology.html." >&2
+        echo "Fix the generator (or the chronology doc), then re-commit." >&2
+        echo "(To bypass in an emergency: git commit --no-verify)" >&2
+        exit 1
+    fi
+    git add chronology.html
 fi

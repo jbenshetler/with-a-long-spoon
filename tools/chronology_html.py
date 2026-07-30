@@ -9,12 +9,14 @@ pages at ~300 wpm, chapters, and reviewed counts, broken out by seasonal volume
 across the academic year (hover a dot for the beat name), a phase-grouped card
 list, and the Continuity Flags panel. Each card also carries an on-disk `slug`
 chip, character-presence pills (Vee/Pace/Randi, filled = physically in the
-scene, from the `present:` metadata field), and cold-read Heat/Romance pills
+scene, from the `present:` metadata field), cold-read Heat/Romance pills
 (0-3 flames/hearts, averaged to the nearest 1/2 across the reviews/ cold reads
-— a reader-signal overlay, not canon).
+— a reader-signal overlay, not canon), a prose word count (0 for undrafted
+chapters), and the ISO date of the last commit touching the prose file.
 
-Deterministic: same input -> same output (no timestamps embedded), so it is
-safe to commit and to diff. Re-run after any chronology edit to refresh.
+NOT deterministic: the per-scene "updated" date is read live from git, so the
+output changes as commits land even with no chronology edit. Re-run after any
+chronology edit (or after committing prose) to refresh.
 
 Usage:
     tools/chronology_html.py [INPUT.md] [-o OUTPUT.html]
@@ -26,6 +28,7 @@ import argparse
 import datetime as dt
 import html
 import re
+import subprocess
 import sys
 from pathlib import Path
 
@@ -228,6 +231,7 @@ class Entry:
         self.review = None      # {dates, round, last} or None (0 reviews)
         self.season = None      # "Fall"/"Spring"/"Summer"/"Other" (VOLUME bucket)
         self.words = 0          # prose word count of the scene file (0 if none)
+        self.git_date = None    # ISO date of last commit touching the prose file
         self.file_slug = None   # `slug:` segment — the on-disk scene/file slug
         self.ratings = None     # {heat, romance, n, per} from cold reads, or None
 
@@ -579,6 +583,23 @@ def _pages(words: int) -> int:
     return (words + WORDS_PER_PAGE // 2) // WORDS_PER_PAGE
 
 
+def git_last_date(repo: Path, rel: str):
+    """ISO date (YYYY-MM-DD) of the last commit touching `rel`, or None.
+
+    %cs is git's short committer date. Returns None when git isn't available,
+    the path is untracked (never committed), or the call errors/times out — the
+    card then simply shows no "updated" chip.
+    """
+    try:
+        out = subprocess.run(
+            ["git", "-C", str(repo), "log", "-1", "--format=%cs", "--", rel],
+            capture_output=True, text=True, timeout=5, check=False)
+    except (OSError, subprocess.SubprocessError):
+        return None
+    d = out.stdout.strip()
+    return d or None
+
+
 # Row order for the summary table: the three seasonal volumes, then the
 # out-of-volume "Other" bucket, then the grand total.
 STATS_SEASONS = ["Fall", "Spring", "Summer", "Other"]
@@ -671,6 +692,13 @@ def render_entry(e: Entry) -> str:
             parts.append(f'<span class="chip review unreviewed" '
                          f'style="background:{REVIEW_UNREVIEWED}" '
                          f'title="not yet reviewed">unreviewed</span>')
+        parts.append(
+            f'<span class="chip words" title="prose word count · ~{_pages(e.words)} '
+            f'pp at {WORDS_PER_PAGE} wpm">{e.words:,} words</span>')
+        if e.git_date:
+            parts.append(
+                f'<span class="chip gitdate" title="last commit touching the prose file">'
+                f'updated {html.escape(e.git_date)}</span>')
     if e.date:
         prec = e.date["precision"]
         parts.append(f'<span class="chip date" title="precision: {prec}">'
@@ -715,6 +743,7 @@ def build_html(entries, flags_raw, source_name, scene_dir=None, reviews_dir=None
             if fn and (scene_dir / fn).exists():
                 text = (scene_dir / fn).read_text(encoding="utf-8")
                 e.words = prose_word_count(text)
+                e.git_date = git_last_date(scene_dir, fn)
                 if e.status["cls"] == "done":
                     e.scene_md = text
         if e.etype in ("SCENE", "VIGNETTE"):
@@ -1087,6 +1116,8 @@ PAGE = """<!doctype html>
   .chip.review {{ color:#1a1f29; font-weight:600; border-color:transparent; }}
   .chip.review.unreviewed {{ color:#cdd3dd; font-weight:500; }}
   .chip.slug {{ color:#c8cdd6; font-family:ui-monospace,monospace; background:#171c25; }}
+  .chip.words {{ color:#cdd3dd; font-variant-numeric:tabular-nums; }}
+  .chip.gitdate {{ color:#9fb4c9; font-family:ui-monospace,monospace; background:#171c25; }}
   .presence {{ display:inline-flex; gap:3px; align-items:center; }}
   .pp {{ width:17px; height:17px; border-radius:50%; font-size:10px; font-weight:700; line-height:1;
     display:inline-flex; align-items:center; justify-content:center; border:1px solid var(--line); }}
