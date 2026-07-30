@@ -641,6 +641,27 @@ text = "Randi set her chin in her hand and turned the whole of her face on Vee."
 note = "author-approved 2026-07-14: 'turned the whole of her face on Vee' stands — total-attention image is the beat"
 
 [[ok]]
+fp   = "6d8fcbe1c4f8"
+rule = "clock-verb"
+file = "scenes/fairytale.md"
+text = "Her mother would put him at the good end of the table; the house would clock him the moment she came in on his arm."
+note = "Author-approved 2026-07-30 (cold-read feedback pass): the house doing the clocking, not Randi filing — sanctioned use"
+
+[[ok]]
+fp   = "140f27ebb674"
+rule = "the-way"
+file = "scenes/fairytale.md"
+text = "Pace's lead was the lightest pressure, a thing she'd had to be listening for and good enough to catch, and it left the rest of the way to her."
+note = "Author-approved 2026-07-30: literal-directional (the rest of the way to her); scene's way-repetition is deliberate patterning per workshop ruling"
+
+[[ok]]
+fp   = "74a8a4752e73"
+rule = "the-way"
+file = "scenes/fairytale.md"
+text = "She could say it plainly, over eggs, the way Vee said every plain true thing."
+note = "Author-approved 2026-07-30 (cold-read feedback pass): load-bearing — Randi invoking Vee's plain-true register"
+
+[[ok]]
 fp   = "ab8e9f2fba5a"
 rule = "filter-verbs"
 file = "scenes/famished.md"
@@ -2111,6 +2132,13 @@ text = "She reached for the word after it and didn't have one, and laughed at he
 note = "author kept: 'the whole of himself turned on her' — climactic totality-as-content use, panel-praised paragraph"
 
 [[ok]]
+fp   = "40bcf61dd534"
+rule = "look-at-her"
+file = "scenes/seconds.md"
+text = "She breathed now, once, and she did not look at him while she did it."
+note = "author-sanctioned: 'did not look at him' is aversion, not the appreciation beat the rule targets (2026-07-30)"
+
+[[ok]]
 fp   = "2f6ed740ed95"
 rule = "the-way"
 file = "scenes/seconds.md"
@@ -2130,6 +2158,13 @@ rule = "the-way"
 file = "scenes/seconds.md"
 text = "She thought, in the way you think when you are not yet thinking but only listening to your body, *what?* And then she thought, *what did he—* and then she stopped thinking because his hand on her shin had begun to move in the small slow way it moved when he was settling further into a long quiet morning with her, and his other arm came around her, and she let herself be drawn into him, and the small *wait* behind her sternum went into the body where small *waits* go when the room is warm and the man is holding you and the sun has begun to come up."
 note = "author-sanctioned: 'the way you think when you are not yet thinking' — body-before-mind generalization kept (2026-07-30)"
+
+[[ok]]
+fp   = "a70840da759d"
+rule = "the-way"
+file = "scenes/seconds.md"
+text = "She thought, in the way you think when you are not yet thinking but only listening to your body, *what?* And then she thought, *what did he—* and then she stopped thinking because his hand on her shin had begun to move in the small slow way it moved when he was settling further into a long quiet morning with her, and his other arm came around her, and she let herself be drawn into him, and the small *wait* behind her sternum went into the body where small *waits* go when the quilt is warm and the man is holding you and the sun has begun to come up."
+note = "author-sanctioned (re-ack after edit): 'the way you think when you are not yet thinking' — body-before-mind generalization kept (2026-07-30)"
 
 [[ok]]
 fp   = "ba884f13a07e"

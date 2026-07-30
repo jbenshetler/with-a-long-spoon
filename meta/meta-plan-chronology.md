@@ -203,7 +203,7 @@ No classes; Vee home with her mother. {{The New Ordinary}} is the Friday going i
 A cropped induction photo turned her parents' pride into questions about the expensive dress and the man behind it; Vee fumbled *"boyfriend (?)"* and couldn't say Pace made it. Over dinner she gives Cassie the legible facts freely (math PhD, the hike, the dance, what she withheld and why), but the deeper question, what is he to you, stays the closed door: *"Both. Probably both."* The parents' table stays off-page, reported. Rhymes with {{Toenails}}: same wrong-shaped listener, different occasion. Opens {{Believe Me}}'s emotional logic — Vee has now failed to name him truly, to her parents and to Cassie.
 
 ### [VIGNETTE] Seconds
-*Sun Nov 29 · pre-dawn · enclosed porch (weekend, the Sunday back)* · Draft complete · `seconds.md` · [detail](meta-condensed-the-seconds.md) · slug: seconds · present: Vee, Pace
+*Sun Nov 29 · pre-dawn · enclosed porch (weekend, the Sunday back)* · Draft complete · `seconds.md` · [detail](meta-condensed-seconds.md) · slug: seconds · present: Vee, Pace
 Vee delivers the cracker-and-meal figure whole — her displaced *I love you.* He answers: *"I love how good we are together"* — sincere within his chivalric grammar, routing her speech down the sex-channel. She receives the warmth; underneath something begins to move. She later replays the sentence and finds the shapes don't match. She never tells Randi or Cassie. Plants the grain the arc then escalates across three displacements ({{Under the Rug}} → {{Bare}} → {{Believe Me}}).
 
 ### [SCENE] Under the Rug
@@ -223,7 +223,7 @@ Vee brings her mother's Thanksgiving question to Pace — the one she couldn't a
 Follows finals; extends the silence after {{Believe Me}}. {{Fairytale}}, {{Old Acquaintances}}, and {{The Usual}} fall inside it (New Year's Eve); spring classes begin Mon Jan 18.
 
 ### [SCENE] Fairytale
-*Thu Dec 31 · New Year's Eve · Christmas break* · Draft complete · `fairytale.md` · **Randi's POV — mirror aperture, load-bearing** · [detail](meta-condensed-fairytale.md) · slug: fairytale · present: Randi
+*Thu Dec 31 · New Year's Eve · Christmas break* · Draft complete · `fairytale.md` · **Randi's POV — mirror aperture, load-bearing** · [detail](meta-condensed-fairytale.md) · slug: fairytale · present: Randi · reviewed: 2026-07-30
 The conventionally proper man, the fine dinner, the fine sex, the *nothing* it produces. Randi at the bathroom mirror: the eyeliner holds because nothing reached her eyes; she rebuilds the face exact and there is no one behind it, registering the comparison. The choice enacted by the return to the bed. The chosen-not-to-throttle moment. Rendered from inside her under the containers rule (flag 15): second opening of the mirror aperture, rhyming with the Bench mirror — installation → confirmation. Placed on New Year's Eve, the same night as {{Old Acquaintances}}: the two women flat without him in parallel, joined only by the midnight text (Vee's open hand, Randi's fairytale gloss), neither aware of the mirror. Structural hinge: every scrunchie grain lands after this scene — the reader enters the spring holding the nothing and the choice already made, so what follows reads as a starving apparatus leaking, not malice.
 
 ### [VIGNETTE] Old Acquaintances

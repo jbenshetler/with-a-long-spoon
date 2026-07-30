@@ -169,6 +169,18 @@ the woodshop); **The fitting plays here.** On the page (`scenes/a-round.md`, the
 - The finished gown hung from the **lip of the window frame** for the reveal.
 - Light: both by day — the Fitting in flat, exposing afternoon light (nowhere to hide; load-bearing for the shame, the wet-spot has no shadow to sit in); the {{Peekaboo}} gentler, the sun through the
   silk.
+- **Heat (backstory ruling, 2026-07-30):** the porch **has heat** — an HVAC supply
+  register routed out when the porch was enclosed, on **its own thermostat Pace
+  controls** — plus the den fireplace throwing heat through the wide archway. He runs
+  it warm for daytime use ({{A Round}}: the fitting is warm — must-have), and keeps it
+  low/off at night, so the porch runs **cool after dark** ({{Rock}}, {{Seconds}}: quilt
+  + fire + him are the warmth). Most of this stays off the page; render only the felt
+  temperature. The porch's **couch, quilt (lives on the couch back, off his bed), and
+  low table** are committed to page in `scenes/rock.md` / `scenes/seconds.md`.
+- **View / sky `[PAGE]`:** glass holds the yard, a nearer **ridge**, and **mountains
+  behind it**; the **moon rises over the mountains** and sunrise is visible from the
+  couch ({{Rock}}: stars over the black ridge; {{Seconds}}: pale moon over the black
+  line of the mountains, then dawn).
 
 ## Atmosphere / constants `[PAGE]`
 **Pre-warmed for the expected guest.** He turns the heat up ahead of a planned visit

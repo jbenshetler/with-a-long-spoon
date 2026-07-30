@@ -10,11 +10,11 @@ She had been thinking about a sentence.
 
 She had been thinking about it for weeks. It had assembled itself in her piece by piece — first as a feeling she could not say, then as the shape of an image, then as the actual words. She had run the words in her head several times, in different orders. She had imagined saying them out loud and felt the heat come up the back of her neck at the imagining. She had not said them. *I love you* was the thing she actually meant, and *I love you* was the thing she could not say, because he had not said it, and the rule was that he said it first, and she did not know the rule was a rule until she had bumped against it from the inside, and now she knew. She would not say *I love you* into the open air ahead of him. She could not. The not-saying had its own gravity and the gravity was, by now, part of her shape.
 
-But the sentence was a different thing. The sentence was something she had built up *around* the words she could not say, a structure she could push into the air that would carry what the words meant without being the words. She had checked it carefully. It was warm and true and it was not *I love you* in any grammar he could be expected to register as that. It was just a thing she had thought of. It was just a way of saying *I am grateful,* which she had said before, which the rules permitted. It was just — slightly larger.
+But the sentence was a different thing. The sentence was something she had built up *around* the words she could not say, a structure she could push into the air that would carry what the words meant without being the words. She had checked it carefully. It was warm and true and it was not *I love you* — not in any shape he could take it for. It was just a thing she had thought of. It was just a way of saying *I am grateful,* which she had said before, which the rules permitted. It was just — slightly larger.
 
 She had decided, sometime in the last week, that she was going to say it.
 
-The moon had cleared the ridge by another fraction. His hand was on her shin under the quilt; the cup was warm against her palm. She set the cup down on the low table and she did not pick it up again.
+The moon had cleared the mountains by another fraction. His hand was on her shin under the quilt; the cup was warm against her palm. She set the cup down on the low table and she did not pick it up again.
 
 "I want to tell you something," she said.
 
