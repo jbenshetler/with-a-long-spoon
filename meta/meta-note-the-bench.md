@@ -106,3 +106,41 @@ design record; do not re-apply, and treat the rationale as settled in review.
   predates men — table origin); "breathe" as the coda's misread frame (true things
   can't carry the error); placing the choice-legibility beat in {{Standards}}
   (the Bible's bathroom-moment passage assigns frame-construction to this mirror).
+
+## Pace-interior warmth pass — APPLIED (in the draft as of 2026-07-31)
+
+Workshop 2026-07-31: Pace's interior read too manipulative/cold-technician;
+recolored to warm, tender, misguided — reception and gift-logic in place of
+method. The corresponding Console rule ("Warm, tender, misguided — never
+technician") is now in `meta-craft-pace.md`. Facts untouched: seven-months/
+three-weeks, the engineered begging, the named Brooke, the possessive coda.
+Dispositions (do not re-apply; declined items are settled — do not re-flag):
+
+- "Priming her. Not yet taking." → greed-shortcircuits gift-logic ("Greed now
+  would spend the night early…").
+- "take the gloss well past itself" → "meet her well past the gloss."
+- "she had not yet figured out what to do with that" → "he wanted her to find
+  out what the absence of hurry felt like."
+- "showing her the map of the next hour" → the no-clock promise ("nothing of
+  her would be skipped… all of her would be gotten to").
+- "The bench had done that much." → "she had let the bench have her" (author
+  chose *have* over *hold* — the bench as his proxy, echoing "To have her").
+- Checking recolored as solicitude ("the same check-in as his questions at her
+  face, making sure it was still pleasure that had her"); the cruel tail clause
+  ("whether she liked the fact or not") cut.
+- Right-please passage: criterion kept, waiter image cut, longing added — "She
+  did not yet know how good it felt to need." (his most misguided belief,
+  stated warm).
+- Brooke question re-founded (author recalibration): not audience-removal but
+  audience-SUMMONING — he brings the surface's owner into the room so she can
+  feel the need outweigh the surface ("He was going to bring it into the room,
+  and let her feel which was stronger — the keeping of it, or the need.").
+  "Conversationally" kept: the steadiness of a demonstration he believes in.
+  The president-explainer sentence kept (plants Brooke's authority for
+  `standards.md`).
+- Stopwatch cut; the climb kept in his medium ("A few slow strokes later").
+- Mid-aftercare possessive leak re-fenced: "taken her further than she had
+  ever been taken — further… than she had known there was to go."
+- DECLINED: "The settling was good." kept as-is (terse gladness, rhymes his
+  spoken "Good"); "He worked her like that" left; apple-slicing observation
+  left (the care is the warmth; the coda pays it off).
