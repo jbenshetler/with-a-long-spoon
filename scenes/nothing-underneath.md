@@ -106,7 +106,7 @@ The tease and the ridiculous muffle of it startled a laugh out of her. Then the 
 
 After a while he got up, reluctant, pulled his jeans up from where they'd stayed caught around his knees, and crossed to the front door where it stood open still on the cold and the black yard, and shut it, and the banging stopped and the house went quiet. The moment his warmth left her the chill found her, the sweat gone cold on her skin and the rest of it cooling between her legs, and she shivered there on the couch in nothing but the coat rucked open under her. He came back with a blanket off the back of a chair and put it over her and tucked it around her.
 
-After a while, from under the blanket, she said, "Eep. I was so nervous I forgot to pack a bag." She worked the coat out from under her and held it up, the one thing she'd brought. "This is all I have."
+After a while, from under the blanket, she said, "Eep. I was so nervous I forgot to pack a bag." She worked the coat out from under her and held it up, the one thing she'd brought. "I haven't got a stitch to wear."
 
 He grinned, wide and easy. "You make that sound like a problem."
 
