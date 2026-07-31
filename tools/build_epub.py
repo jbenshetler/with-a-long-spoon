@@ -425,7 +425,7 @@ def main():
                     help="cover image (default: images/cover.png, a symlink "
                          "pointing at the currently chosen cover asset)")
     ap.add_argument("-o", "--out", type=Path,
-                    default=root / "build/with-a-long-spoon-book-one.epub")
+                    default=root / "build/a-polite-invitation.epub")
     ap.add_argument("--list", action="store_true",
                     help="print the chapter roster and exit without building")
     ap.add_argument("--allow-missing", action="store_true",
