@@ -1726,6 +1726,20 @@ text = "She sat on the edge of the bed and put Randi's heels on, and got her fir
 note = "Author ruling 2026-07-30: not the generic appreciation beat the rule targets — the clause establishes that Vee has NOT examined the heels until this moment (Randi handed them over the previous chapter and she took them on faith), which is what earns 'trust Randi' two sentences later."
 
 [[ok]]
+fp   = "dd50c080ee84"
+rule = "warm"
+file = "scenes/nothing-underneath.md"
+text = "She sat there with her mouth full of the pancakes he'd made her at midnight and her eyes gone hot and a grown man on his knee with his face cracked open under hers, and she was so full, of the food and the warmth and the plain relief of being back inside his care, that tonight there was no room in her for wanting anything he hadn't given."
+note = "Load-bearing warmth: the afterglow tricolon (food/warmth/relief) is the payment beat. Author sign-off 2026-07-30."
+
+[[ok]]
+fp   = "e0e69bc5073e"
+rule = "warm"
+file = "scenes/nothing-underneath.md"
+text = "This, more than almost anything, was what she'd missed over the break, the plain fact of a warm room and this man making her something with his full attention."
+note = "Load-bearing warm: 'a warm room' is the thesis image of Pace's care; the scene's cold-to-warm gradient resolves here. Author sign-off 2026-07-30."
+
+[[ok]]
 fp   = "46d5d7ad7eb3"
 rule = "weather"
 file = "scenes/nothing-underneath.md"
