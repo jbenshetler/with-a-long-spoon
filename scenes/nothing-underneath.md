@@ -86,7 +86,7 @@ She was dimly aware, past the buckling of her knees, that she stood in an open d
 
 His arms came around her waist, and his hands took hold of her ass and gripped, holding her wobbling world upright, pulling her sex into his mouth as if he would die without the taste of her.
 
-She did not last, could not have, wound as she was and desperate for him to be the one. It came up fast and huge and she quit trying to stand through it and gave it to him, nothing holding her up but his hands and those absurd heels, and she cried out into the empty trees and the cold and did not care what heard. And she was still coming, still clenched and shaking around his mouth, when he rose up off his knees, too far gone himself now to wait her out.
+She did not last, could not have, wound as she was and desperate for him to be the one. It came up fast and huge and she quit trying to stand through it and gave it to him, nothing holding her up but his hands and those absurd heels, and she cried out into the empty trees and the cold and did not care what heard. And she was still coming with his mouth on her, still clenched and shaking, when he rose up off his knees, too far gone himself now to wait her out.
 
 The front door stood open behind them still, banging on its hinges in the wind, the cold pouring in around them, and neither of them moved to shut it. She got her hands to his jeans and had them open and shoved down and took him out, hard and ready and as far gone as she was.
 
