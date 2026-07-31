@@ -68,7 +68,7 @@ She caught him at it on the third pass. "You're doing that on purpose," she said
 
 "Doing what?" he said, and did it again.
 
-She narrowed her eyes and took another bite to prove the point, and the point did not survive the next pass — she drew her shoulders back and leaned into him, offering her breasts to his hands. His hands rose to the offer and turned back before they took it. The bite stopped halfway. She forgot to finish it, and the apple sat forgotten in her hand.
+She narrowed her eyes and took another bite to prove the point, and the point did not survive the next pass — she drew her shoulders back and leaned into him, bringing her breasts to his hands. His hands rose and turned back before they took them. The bite stopped halfway. She forgot to finish it, and the apple sat forgotten in her hand.
 
 She stopped pretending to eat. She put the last of the slice to his mouth, and he took it, and she kissed him through the taste of it — not the light back-and-forth of the apple game but a deep kiss, open and going somewhere, and she stayed in it. When she broke it she took his hands from her sides and drew them up and set them on her breasts, both of them, closing his fingers around what he had spent those minutes not taking. He let her. He held her the way she'd placed him, in no more of a hurry now than before.
 
@@ -170,7 +170,7 @@ He brought his hands up the fronts of her thighs, and the pale skin went faintly
 
 He looked at them while he took them. Small, and high, upturned in a way that had made nothing of the expensive bra they had spent the evening inside; he cupped the warm weight of them from below, soft and lifting into his hands, his fingers pressing in and softly distorting them, and caught her nipples between his fingers — cocoa-brown, and already tight, from the kitchen, from the bench, from nothing he had done yet. She gasped when he rolled them, and he watched the brown deepen under his thumbs, the areolae drawing tight, the flush climbing pink up her chest and throat. She made the sound again.
 
-He slid one hand down between her legs, over the bare waxed cleft, smooth and pale and already gleaming faintly where she was slick, and felt the first of her gathered at the seam, and pressed there once, and left it. Priming her. Not yet taking.
+He slid one hand down between her legs, over the bare waxed cleft, smooth and pale and already gleaming faintly where she was slick, and felt the first of her gathered at the seam, and pressed there once, and a sound came out of her. He took his hand away. Priming her. Not yet taking.
 
 She had been buffed and polished to a high gloss, and it was earned, the finish of a woman who had spent real hours on it, and her body was also, underneath his hands, an actual body — warm, flushed, breathing, the color up in it everywhere he had touched — which was what he held.
 
