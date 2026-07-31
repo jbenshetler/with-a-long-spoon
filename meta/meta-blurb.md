@@ -68,7 +68,7 @@ External reader-facing copy for *With a Long Spoon* — marketing and positionin
 
 Reading order and placement — an epub has no back cover, so the blurb lives in front matter:
 
-1. **Cover** — WITH A LONG SPOON / *Book One* / author. Tagline if the design has room: *"Every yes was freely given. That was the trap."* (one tagline max; droppable if the art carries the cover — it repeats inside).
+1. **Cover** — three text elements only, per the decided hierarchy (see **Genre & positioning**, volume-titles entry): series line small at top (`WITH A LONG SPOON · BOOK ONE`), volume title dominant (*A Polite Invitation*), author (Helen Rivers) at bottom. **No tagline on the front** — it closes the blurb page instead. *(Supersedes the pre-2026-07-30 spec: series title dominant, tagline-if-room.)*
 2. **Blurb page** — first page after the cover, *before* the title page (simulates the retail listing). Layout: the two blurb paragraphs → white space → the tagline **centered, alone** (the eye's last stop) → white space → the italic Book One / *Beauty* comp line, smallest type, bottom.
 3. **Title page** — title, *Book One*, author.
 4. **Copyright page** — boilerplate plus one line only: *"An erotic novel, for adult readers."* No itemized content-warning list for the test round (the blurb self-selects; a CW list telegraphs). Revisit for wide release.
