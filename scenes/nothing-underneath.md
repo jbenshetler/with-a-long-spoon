@@ -56,7 +56,7 @@ His truck was in the drive. The house sat back through the trees with a lamp on 
 
 The cold took her legs. She went up to the door in the heels, careful on the gravel, the coat held closed, and the porch light was off and the door was shut, because she was not expected, because no one had left it open for her. She knocked. Through the door, under the wind, music was going somewhere back in the house — low, a horn in it, slow and sad, wandering off wherever it was going — and the cold spiked through her ahead of the weather: someone was there. The blonde arrived, tan and laughing in his kitchen, and could get no grip, because no man put on music like that for a woman. So this was what the house sounded like when she wasn't in it. And then nothing was left but to stand and wait to see which way it went, bare under a coat on his doorstep in the dark, everything she had staked on the one card with nothing smaller behind it. If the door opened onto the man who'd folded his arms in December and let her walk out into the cold, she would have no move left, and no way back that did not start with a naked woman turning around in the cold. She made herself stand in it. She did not knock again, and she did not bolt for the car.
 
-The lock turned. He opened the door.
+The porch light flicked on, the lock turned. He opened the door.
 
 He was in the jeans and the t-shirt still, or again, and the light from behind him put his face half in the dark, the horn still going low somewhere behind him. She watched him place her, watched him go still with it, and then the courtesy came down over him like a thing reached for in a hurry.
 
