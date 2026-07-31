@@ -23,18 +23,32 @@ exposes ~10% regardless — through roughly chapter 4).
 ## Platform map — free archives (discovery via serialization)
 
 Serialize early chapters with a pointer to where the whole book lives; all
-under the pen name.
+under the pen name. **Lane assignments (2026-07-31): the pointer model is
+legal on Literotica/SOL, NOT on AO3** — see per-platform notes.
 
-- **Literotica** — the giant; tens of millions of readers; strong
-  series-following culture and author pages. Median content is functional
-  stroke fiction but a real literary sub-audience exists (Novels & Novellas).
-  Self-promo tolerated in author bios. Volume 1's opening chapters outclass
-  the shelf there.
-- **StoriesOnline**, **Lush Stories** — same model, smaller; SOL skews to
-  committed serial readers who binge long works.
-- **Archive of Our Own** — accepts original work; explicit fully welcome;
-  excellent tag-driven discovery; original fiction swims against the fanfic
-  current.
+- **Literotica — the funnel workhorse.** The giant; tens of millions of
+  readers; strong series-following culture and author pages. Median content
+  is functional stroke fiction but a real literary sub-audience exists
+  (Novels & Novellas). Self-promo tolerated in author bios — the pointer is
+  legal here. Volume 1's opening chapters outclass the shelf there.
+  Category is single-choice per submission: post in **Novels & Novellas**
+  (arc-and-prose self-selection), never the BDSM category. Tags: category
+  sets the contract, tags do discovery — prefer established high-traffic
+  tags over freeform; a couple of consistent spine tags on every part
+  (slow burn, power dynamics, series name) plus per-chapter tags for what
+  that chapter actually delivers; never tag bdsm/lesbian/threesome/mff on
+  Volume One parts (tag-promise stays chapter-local and honest).
+- **StoriesOnline**, **Lush Stories** — same funnel model, smaller; SOL
+  skews to committed serial readers who binge long works.
+- **Archive of Our Own — brand surface, NOT a funnel.** Accepts original
+  work; explicit fully welcome; excellent tag-driven discovery, though
+  original fiction swims against the fanfic current (expect modest
+  numbers). **Its ToS bans commercial promotion — no buy-links, no
+  retailer/site links from the work or notes; teaser-then-buy-pointer is
+  the classic reported-and-removed pattern there.** Play it clean: post
+  the free-through-the-hook chapters as complete-in-themselves, zero
+  links; the pen name does the pointing (a reader googles "Helen Rivers"
+  and lands on the site).
 - **Wattpad — ruled out:** prohibits explicit sexual content; unpostable.
 - **Reddit** — intelligence more than posting: r/EroticAuthors is the
   genre's working business forum (pricing/platform/market data from active
