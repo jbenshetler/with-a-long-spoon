@@ -1,6 +1,6 @@
 # Triage — {{Nothing Underneath}} cold-read feedback
 
-Verdicts from the 2026-07-30 feedback pass over the four cold-read reviews
+Verdicts from two 2026-07-30 feedback passes over the four cold-read reviews
 (claude-opus-4-8, claude-fable-5, gpt-5.5, gpt-5.6-sol — GPT reviews regenerated
 2026-07-30 on the post-my-friend-randi carry-forward). Reviews are reactions, not
 canon; this doc records what was acted on and what was **left standing with
@@ -35,6 +35,17 @@ rationale**, so later passes don't re-litigate.
   *missing Vee* (canon recorded in `meta-note-music-thread.md`). Note for later
   review passes: the doorstep-wait passage postdates the four 2026-07-30
   cold-read reviews.
+
+- **Style: `a small thrill` → `they sent a thrill`** (the heels paragraph). Linter
+  hit on the `a small X` construction, no reviewer friction. Author ruling
+  2026-07-30 (second feedback pass): the flagged word is *small*, and it is a
+  diminisher working against everything the beat is carrying — shoes are
+  load-bearing for Vee across the fall, these are Randi's, they are the sexiest
+  she has ever owned, and she is about to use them for exactly what they are
+  for. A *small* thrill undersells it. Also swapped the subject from "the
+  thought sent" to "they sent" — the shoes act on her body rather than her
+  cognition reporting on them (body before mind), and "the thought" was
+  referring back to a clause that had just said the same thing.
 
 - **Style: `unhurried` on Cassie's coda pass** ("in one unhurried pass" → "in
   one pass"). Not a reviewer flag — linter hit against the 2026-07-28 ruling
@@ -101,6 +112,48 @@ rationale**, so later passes don't re-litigate.
   reading a word — moot; {{My Friend Randi}} announced the plan on purpose.
   All four found the post-read recolor (nothing underneath the reconciliation /
   no smaller card behind the one she staked). Stands.
+
+- **Pace never asks how she knew to come, never clocks Randi's heels.**
+  claude-fable-5: "Pace never asks how she knew to come, never clocks the
+  heels. Does he guess Randi's hand? I couldn't tell, and that gap itches."
+  (gpt-5.6-sol touches the same nerve: "accepts the forgiveness Vee offers
+  without asking what changed.") **Author ruling 2026-07-30 (second feedback
+  pass): no edit — and the craft-rule pressure is already satisfied on the
+  page.** `meta-craft-pace.md` requires that Pace never be rendered *missing* a
+  tell (dim/imperceptive), only noticing it and setting it down. He sees the
+  heels at the doorstep ("She stood in his doorway in the black heels with the
+  coat held open") and then, later and unprompted, issues an order about them —
+  **"Those stay on."** Noticing plus a *preference* is more perception than a
+  glance; that line is the catch, and going on to make pancakes without ever
+  asking where the shoes came from is the set-down. A proposed doorstep
+  perception micro-beat was considered and **rejected as unnecessary** (it
+  would also risk nudging the reader toward *he suspects Randi*, which is not
+  the design). What fable-5 is actually feeling is the absent **synthesis** —
+  which is the architecture working: Pace knows he and Randi chose Vee together
+  but has no window into the SATC lunches (`meta-arch-bible.md`), and the heels
+  motif pays off in **Vee's** recognition at the threesome exit, never his.
+  Do not add a noticing beat; do not have him ask.
+
+- **The breast/nipple inventory length.** claude-opus-4-8 alone, the second
+  half of the flag whose first half was fixed above: "the nipples/breasts
+  inventory ran a touch long and catalog-ish before the touching started."
+  Author ruling 2026-07-30 (second feedback pass): **leave as is.** The
+  paragraph that actually earned the "catalog" charge is the body-history recap
+  already cut; what remains is the rehearsal of his hands on her own body
+  (she is practicing being looked at as he looks), which is doing thematic work
+  the compression would cost.
+
+- **Style, ¶17 (the heels paragraph) — two hits accepted, suppressed with
+  rationale in `style/style-allow.toml`.** Author ruling 2026-07-30.
+  `filter-verbs` on "Then **she noticed** her toes": the filter verb is
+  carrying *sequencing* (mid-zip, her eye drops), and filtering is the correct
+  register for a woman deliberately appraising her own body in stages; the
+  concrete detail after it (frosted plum, touched up over Christmas for a man
+  she thought would never see them) does the work. `look-at-her` on "got her
+  first proper **look at them**": not the generic appreciation beat the rule
+  targets — it establishes that Vee has *not* examined the heels until this
+  moment (Randi handed them over the previous chapter and she took them on
+  faith), which is what earns "trust Randi" two sentences later.
 
 ## Protected positives (don't damage in future edits)
 

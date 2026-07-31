@@ -1677,6 +1677,13 @@ text = "She heard it, and for the first time she could remember, hearing it did 
 note = "she registers the mother's word and overrides it; the ownership beat"
 
 [[ok]]
+fp   = "21a498600eac"
+rule = "filter-verbs"
+file = "scenes/nothing-underneath.md"
+text = "Then she noticed her toes: the frosted plum still good, the polish she'd kept up since the fitting, touched up even over Christmas in her old bedroom for a man she'd no longer been sure would ever see them again."
+note = "Author ruling 2026-07-30: filter verb carries sequencing (mid-zip, her eye drops to her toes) in a paragraph that is deliberately about Vee taking inventory of herself; the concrete detail after it (frosted plum, touched up over Christmas) does the work. Filtering is the correct register for a woman appraising her own body in stages."
+
+[[ok]]
 fp   = "33b64cbc946d"
 rule = "filter-verbs"
 file = "scenes/nothing-underneath.md"
@@ -1710,6 +1717,13 @@ rule = "filter-verbs"
 file = "scenes/nothing-underneath.md"
 text = "He worked her through it and kept on, slower now, deeper, watching her face in the lamplight, and the second one built in her long and low while he did, gathering in her thighs, the deep kind that took everything, and when it came it took all of her, a full shudder up her body and back down, and she heard herself make the long broken sound she made only for him."
 note = "involuntary/dissociative; body acting past her"
+
+[[ok]]
+fp   = "271e6d850b86"
+rule = "look-at-her"
+file = "scenes/nothing-underneath.md"
+text = "She sat on the edge of the bed and put Randi's heels on, and got her first proper look at them as she did: open at the toe, the straps crossing up the calf in little Xs to the middle of it, a zip drawing each one shut up the back, the heel under it a spike near two-thirds the length of her foot."
+note = "Author ruling 2026-07-30: not the generic appreciation beat the rule targets — the clause establishes that Vee has NOT examined the heels until this moment (Randi handed them over the previous chapter and she took them on faith), which is what earns 'trust Randi' two sentences later."
 
 [[ok]]
 fp   = "46d5d7ad7eb3"
