@@ -74,3 +74,5 @@ The lane that fits the positioning better than any archive:
 
 Everything above runs under the pen name — the pen name and its email must
 exist before any of it starts. The pen-name decision gates the fall sequence.
+**Decided (2026-07-30): Helen Rivers** — rationale, domain plan, and the
+crossover-audience strategy in `meta-plan-pen-name.md`.

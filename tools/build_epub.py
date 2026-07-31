@@ -408,9 +408,10 @@ def build(chapters, blurb, cover_path: Path, author: str, out_path: Path,
 def main():
     ap = argparse.ArgumentParser(description=__doc__.split("\n")[0])
     root = Path(__file__).resolve().parent.parent
-    ap.add_argument("--author", default="Anonymous",
+    ap.add_argument("--author", default="Helen Rivers",
                     help="author/pen name for the title, copyright and "
-                         "metadata (default: Anonymous)")
+                         "metadata (default: Helen Rivers, the decided pen "
+                         "name — see meta/meta-plan-pen-name.md)")
     ap.add_argument("--chronology", type=Path,
                     default=root / "meta/meta-plan-chronology.md")
     ap.add_argument("--blurb", type=Path, default=root / "meta/meta-blurb.md")
