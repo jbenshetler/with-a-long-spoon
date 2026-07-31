@@ -72,3 +72,37 @@ Middle round (gloss-over)
 Later:
 He struck her again, lower, at the base of her right cheek, and the lovely curve of her ass jiggled pleasantly before settling back into her clean lines.
 
+
+## Thesis/arch alignment pass — APPLIED (in the draft as of 2026-07-31)
+
+Session 2026-07-31, against `meta-thesis.md` + arch/craft docs. Kept as the
+design record; do not re-apply, and treat the rationale as settled in review.
+
+- **Mirror rework — the seeing as the breach (B+C, integrated).** The bathroom-mirror
+  span now runs the wound's full mechanism in order: aliveness (ecstatic *and*
+  terrifying, per author) → it came *from being seen*, not from what he did to her
+  body → the armor's insulation logic stated as her lived rule (*"Nothing happened
+  to her. That was what the face was for."* — perfect = safe, per the {{Fairytale}}
+  breakfast origin; performance/safety, never shame; no mother/table imagery here,
+  Fairytale owns the origin) → his tenderness intolerable because it would reach
+  *her*, unmetered → the wordless never-again decision, deadbolt-quiet, scoped
+  exactly to the wrapper rule (*"He could have the face… she was not coming out
+  again."*). Guards honored: the eyes-wet tell kept (inverts the Fairytale mirror);
+  no not-crying taxonomy (that belongs to `standards.md`, whose ending points back
+  here as the finding); the two "She did not understand yet" sentences kept so the
+  closing "figure out what she was going to do" stays open.
+- **Benefactor-misread in the coda (A).** One warm addition inside the fenced
+  possessive coda: the apple/portioning thought — *"The hunger had been in her all
+  along. All he had done was find it, and answer it."* Renders Pace's
+  deprived-woman-finally-fed misread (arch-exact) in his caring register; every
+  clause wrong on reread (the hunger was created in the room). Author rejected a
+  colder craftsman-satisfaction version; warmth is the carrier.
+- **Console-rule cut (D).** *"He had not noticed it start."* cut — the literal
+  didn't-notice construction the Pace craft doc bars; discovery of the crying now
+  lands without a confessed perception miss.
+- **Timing wobble cut (E).** *"The minutes passed."* cut (contradicted "Twenty,
+  thirty seconds").
+- **Declined (author):** extending the armor exegesis with a men-taxonomy (armor
+  predates men — table origin); "breathe" as the coda's misread frame (true things
+  can't carry the error); placing the choice-legibility beat in {{Standards}}
+  (the Bible's bathroom-moment passage assigns frame-construction to this mirror).
