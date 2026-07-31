@@ -45,7 +45,8 @@ import uuid
 import zipfile
 from pathlib import Path
 
-BOOK_TITLE = "With a Long Spoon: Book One"
+VOLUME_TITLE = "A Polite Invitation"
+BOOK_TITLE = "A Polite Invitation (With a Long Spoon, Book 1)"
 SERIES_NAME = "With a Long Spoon"
 SERIES_INDEX = "1"
 LANGUAGE = "en-US"
@@ -232,7 +233,8 @@ p.break { text-indent: 0; text-align: center; margin: 1.2em 0; }
 .blurb .comp { font-size: 0.85em; font-style: italic; margin-top: 3em; }
 .titlepage { text-align: center; margin-top: 20%; }
 .titlepage h1 { font-size: 1.9em; letter-spacing: 0.06em; text-align: center; }
-.titlepage .book { font-style: italic; margin: 1em 0 4em; text-indent: 0; text-align: center; }
+.titlepage .series { font-size: 0.8em; letter-spacing: 0.18em; margin: 0 0 3em; text-indent: 0; text-align: center; }
+.titlepage h1 { margin-bottom: 4em; }
 .titlepage .author { font-size: 1.1em; text-indent: 0; text-align: center; }
 .copyright { margin-top: 60%; font-size: 0.85em; }
 .copyright p { text-align: center; text-indent: 0; margin: 0 0 0.8em; }
@@ -283,8 +285,8 @@ def build(chapters, blurb, cover_path: Path, author: str, out_path: Path,
     add("titlepage", "titlepage.xhtml", "application/xhtml+xml", page(
         BOOK_TITLE,
         '<div class="titlepage frontmatter">'
-        f"<h1>{esc(SERIES_NAME)}</h1>"
-        '<p class="book">Book One</p>'
+        f'<p class="series">{esc(SERIES_NAME.upper())} · BOOK ONE</p>'
+        f"<h1>{esc(VOLUME_TITLE)}</h1>"
         f'<p class="author">{esc(author)}</p></div>'))
 
     add("copyright", "copyright.xhtml", "application/xhtml+xml", page(
