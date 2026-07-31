@@ -6,75 +6,75 @@
 
 **Felt read**
 
-Well. That was not the opening I expected, and the swerve is the whole experience. The jacket told me Randi is the schemer — "poised, dazzling, certain of everything" — and the chapter spends its first half letting me believe I'm watching a confident woman in her element, only to take her apart bolt by bolt. When he said "There you are, Randi," I actually flinched a little — I'd been half-assuming this unnamed "she" might be Vivienne, the girl from the blurb, and the name landing at the emotional bottom of the scene was a genuine jolt. So the book opens by doing to Randi what the jacket says Randi plans to do to someone else. That's chilling in a way I felt before I could articulate it.
+I came in expecting Vivienne — the jacket primed me for the girl picked out across the quad — so I spent most of this chapter assuming the woman being undressed was her. When he said "There you are, Randi," I actually went back a page. That's the chapter's best trick on me: I was reading her as the mark and she's the huntress from the blurb — poised, dazzling, sorority-perfect Randi — and I just watched the man she supposedly runs a game with take her apart. Which recolors everything. The jacket calls her "certain of everything," and here she is begging in a voice "she had not used since she was a small child."
 
-Pace: I'm honestly torn, which I think is the point of him. The attentiveness is seductive on the page — the apple sliced thin, cut sides up, because "she ate them faster when the cut sides showed"; the water bottle left in advance; unbuckling her heels mid-scene. My body responded to that care. And then: "He had begun building it seven months ago. He had met her three weeks ago." That line stopped me cold. It's dropped flat, no comment, and it's the most sinister sentence in the chapter. He built the instrument before he had the woman. Add "made small contented plans about her" and "the long pleasant prospect of finding out who she actually was underneath the surface he had just begun to lift" — he thinks of her as a project. The scene's kindness and its acquisitiveness are the same gestures, and I can't cleanly separate them. That's the discomfort I'm carrying out.
+Pace: I find him genuinely attractive as written and also faintly alarming, and the book seems to want both. The apple slices — "cut sides up because last he had noticed that she ate them faster when the cut sides showed" — is tenderness at a resolution that borders on surveillance. And then this: "He had begun building it seven months ago. He had met her three weeks ago." That line dropped my stomach. The bench predates her. Whatever this attention is, it's a practice looking for a subject, and she happened to walk into it. The text doesn't editorialize; it just hands me the dates and lets me flinch.
 
-Randi moved me more than I expected. The mirror passage is the best writing in the chapter — "the smile sat on top of the face that had begged, and she saw the disjunction." The bottle-cap detail — pressing the sharp edge under her thumbnail "where it would hurt," not knowing she's doing it — and the flinch at "You're beautiful" (the compliment lands worse than the spanking!) told me there's damage here the jacket's "certain of everything" was covering. Her mother "lived on egg whites and tofu, a thing she said with a knife in it" — that one line did a lot. And the locked bathroom door, "which was not a thing she had ever done before in his house," after she locked the front door behind her first thing — the chapter opens and closes on locks, and I noticed.
+The erotic charge works on me, and I want to be honest about where. The kitchen scene — the apple game, "bite, kiss, bite," his hands turning back before they arrive — is the hottest stretch, because it's mutual and playful. The undressing is gorgeous, slow, devotional. The bench sequence itself is skillful and I stayed in it, but somewhere around "The bench was not the wanted position. The bench was the needing position" the narration got a little professorial for me — the one place I felt the author explaining the mechanism I was already feeling. The Brooke gambit ("What would Brooke think, baby") genuinely unsettled me — it's humiliation deployed with surgical warmth, and it works, and I didn't fully trust him afterward.
 
-Erotic charge: high and real for me through the undressing and the first stretch of the bench — the slowness works, the sensory grounding (warmed leather, oiled walnut, the salt, the citrus perfume fading under sweat) is doing genuine work. Where it turned for me was the humiliation beat — "What would Brooke think" — which is the hottest and most upsetting moment simultaneously; the arousal and the alarm arrive together and I couldn't sort them, which I suspect is exactly what the scene wants. The aftercare section runs slack by comparison, but it's meant to; the mirror scene pays it off.
+And then the bathroom. This is where the chapter earns being a novel and not just a scene. Her POV arrives for the first time and it's devastating: "Nothing happened to her. That was what the face was for." The decision — "He could have the face... she was not coming out again," arriving "quiet as a deadbolt going over" — lands like a door closing on the whole book. And the thumbnail detail — pressing the bottle cap "down into the nail bed, where it would hurt," without seeming to know she's doing it — scared me more than anything on the bench.
 
-Friction: mild. The narrator occasionally explains what I'd already felt — "The bench was the needing position — something required that you could not supply yourself" is a sentence I didn't need after the paragraph that dramatized it. Also "It was the sound of a woman in a position she had not consented to even though she had consented to the position" — that's the tagline restated on the page, and it felt like the author looking at me. But those are quibbles against how controlled the prose is.
+The dramatic irony of the ending is brutal: he sits there "making small contented plans about her," certain he was "right about the bench," while she has just resolved, permanently, to give him only the mask. He thinks he opened her. He closed her. That gap is the engine I now expect the book to run on.
 
-Titles: "The Bench" is plain and right — the object that is "not only a table," a thing with a hidden purpose sitting in plain sight for weeks. Which is, I now notice, what Pace himself is to Randi, and — per the jacket — what Pace-and-Randi will be to Vivienne. *With a Long Spoon* — "he who sups with the devil should have a long spoon." After this chapter I read it as: everyone at this table thinks they have the long spoon. Randi thought she did. The tagline — "Every yes was freely given. That was the trap" — is literally this chapter's engine: she said yes, she said "Show me," she chose her underwear that morning, and none of it protected her from crossing something she "could not uncross."
+Suspicion: yes, of both of them, earned. Him — the bench built before her, the plans, "how she would be different now... scene by scene." Her — the jacket tells me she's about to recruit Vivienne into a game, and I've now watched her decide to live behind the face. Vivienne hasn't appeared, and I already dread what these two will do to her.
 
-What I want next: Vivienne. The jacket promised her and she hasn't appeared; the game hasn't started. My guess from here: Randi's "figure out what she was going to do about this" — the hum, the key turning in a lock — is the seed of the Vivienne scheme. Maybe bringing in a third is how she plans to get out from under what just happened to her, redistribute the exposure. Marked as a guess. I dread, pleasurably, watching these two do this to a girl who doesn't know.
+Titles: "The Bench" is plain going in, loaded coming out — the object that turns back into "a low table of odd proportions" and sits there "full of what it was, waiting." *With a Long Spoon* — I know the proverb: he who sups with the devil should bring a long spoon. After this chapter I can't tell who the devil is, which I suspect is the point. The tagline — "Every yes was freely given" — I just watched a woman say yes to everything and be trapped anyway, "a position she had not consented to even though she had consented to the position." The book showed me its thesis in action before naming anyone's game.
 
-**Structured block**
+What I want next: Vivienne. And I want to know whether Pace ever learns what happened in that bathroom. Guess from here: he doesn't, for a long time, and recruiting Vivienne is partly Randi's way of managing what he found in her.
 
-**Cast present (in person):** Pace, Randi (Miranda). Mentioned-only: Brooke (chapter president), Randi's mother.
+**Cast present (in person):** Pace (man), Randi/Miranda (woman — named only at the end). Mentioned-only: Brooke (chapter president), Randi's mother, the sorority sisters. Vivienne: jacket-only, not yet on the page.
 
-**Heat:** 3 — sustained explicit spanking/edging scene is the chapter's center, graphic and effective.
+**Heat:** 3 — sustained explicit scene at the chapter's center: spanking, edging, orgasm, rendered graphically and at length.
 
-**Romance:** 2 — real tenderness (aftercare, blanket, "There you are"), but shadowed; no declarations, and the tenderness is partly instrumental.
+**Romance:** 2 — real tenderness (the folding of clothes, the blanket, "There you are"), but undercut by the ending's terrible asymmetry.
 
-**Motifs & images (first sightings):** locks/keys (front-door deadbolt, bathroom lock, "the size of a key turning in a lock"); the apple, sliced thin, cut-sides up; Pace's handmade furniture / the unread price tag; the cashmere cardigan and blanket; citrus perfume fading into sweat/salt; "the small breath of a laugh"; the mirror and the arranged smile; the blue toenails as her "one small place she let herself step out of line"; the bottle cap pressed under the thumbnail; food policing ("egg whites and tofu... with a knife in it").
+**Motifs & images:** (all first sightings) the deadbolt/lock — she locks the door on arrival, locks the bathroom, "quiet as a deadbolt going over," "the size of a key turning in a lock"; the face vs. her; the apple / portioned appetite; built wood vs. bought things (the unread price tag); "There you are" / "Hi"—"Hi"; the safe word "Red"; the bench with its top on/off; the thumbnail press; lights up / being looked at.
 
-**Symbolism:** The bench — a table concealing its purpose, built before the woman was met; reads as the relationship itself, and possibly the coming game. The lock/key imagery frames the chapter: she locks herself in at the start, locks him out at the end, and something turns inside her.
+**Symbolism:** The bench — attention as apparatus, built before its object existed. The lock — consent and closure in one gesture; she opens by locking herself in with him, ends by locking herself away from him. The apple, sliced thin — appetite permitted only in portions.
 
-**Characterization:** Both land fully dimensional in one chapter. Pace: precise, patient, unsettlingly proprietary — consistent throughout. Randi: performance armor over real fracture; the mirror interiority deepens her past the jacket's sketch. No one thin.
+**Characterization:** Both deepened remarkably for one chapter. Pace: consistent — meticulous care indistinguishable from meticulous control; the closing complacency is his tell. Randi: the bathroom monologue turned a type into a person. No one flattened.
 
-**Pace — within the chapter:** Long but earned; the deliberate slowness is the subject. Aftercare section slightly slack before the mirror scene redeems it. A few over-explained beats (the "needing position" gloss).
+**Pace — within the chapter:** The bench sequence is long but earns it via escalation; only slack spot is the brief "wanted position / needing position" explication. The bathroom section is perfectly weighted.
 
-**Pace — chapter to chapter:** N/A — opening chapter. Strong launch; the Vivienne plot hasn't started, which creates pull rather than sag.
+**Pace — chapter to chapter:** N/A — opening chapter. Strong launch; the final irony creates real forward pressure.
 
 ## Carry-forward state
 
 **Who's who**
-- **Pace** (man, in person) — young mathematician (per jacket; not stated on page), lives alone, woodworker of real skill, keeps his house warm, meticulous dominant; patient, observant, tender in gesture, acquisitive in mind ("plans about her"). Built the bench 7 months before meeting Randi (3 weeks ago). Last name unknown to Randi's sisters.
-- **Randi / Miranda** (woman, in person) — sorority junior/senior?, black hair, startlingly blue eyes, pale, small high breasts, dancer/cheer body, blue toenail polish, wealthy family, food-policed upbringing (mother's egg whites/tofu), performs confidence, secretly Pace's lover ~3 weeks. Safeword "red." Broke open on the bench tonight; hiding it; presses bottle-cap edge under her thumbnail (unnoticed self-harm tic); flinched at "you're beautiful."
-- **Brooke** (woman, mentioned-only) — chapter president; Randi lied to her ("a paper") to come tonight; her name used in the humiliation beat.
-- **Randi's mother** (woman, mentioned-only) — knife-edged about food.
-- **Vivienne Thorne** (woman, jacket-only, not yet on page) — the promised third.
+- **Pace** — man; young mathematician (per jacket) living alone at the end of a long drive; woodworker (built his furniture and the bench); patient, observant to the point of surveillance; practices attentive dominance; believes tonight opened Randi up; wrong. Seen in person.
+- **Randi / Miranda** — woman; black hair, startling blue eyes, pale, small high breasts, dancer/cheer body, 21; sorority member; blue toenail polish her one rebellion; polices her food (mother lives on egg whites, "a knife in it"); Pace's secret lover ~3 weeks. On the bench she begged, came, cried — first genuinely un-performed moment of her adult life — then in the bathroom decided permanently: he gets only "the face," never her again. Presses a bottle cap into her nail bed without noticing. Seen in person.
+- **Brooke** — woman; sorority chapter president; Randi lied to her about a paper; Pace invoked her name as humiliation lever. Mentioned-only.
+- **Randi's mother** — woman; food-restriction origin. Mentioned-only.
+- **Vivienne Thorne** — woman; jacket-only: junior, the intended third, knows nothing. Not yet on the page.
 
 **Motif & image ledger**
-- *Locks/keys* — deadbolt on arrival; bathroom lock (first time ever); "the size of a key turning in a lock" (The Bench).
-- *The bench / table with hidden purpose* — built before she was met; top goes back on tomorrow, "waiting for the next time" (The Bench).
-- *Apple, sliced thin, cut-sides up* — his observational care + her food rules (The Bench).
-- *Handmade furniture / price tag she can't read* — her missed inference that he built it (The Bench).
-- *Cashmere* — her cardigan; the blanket she brought after week two (The Bench).
-- *Citrus perfume → sweat/salt* — surface scent giving way to "ungoverned" body (The Bench).
-- *"The small breath of a laugh"* — Randi's tell, recurs several times in-chapter (The Bench).
-- *Mirror / arranged smile* — the face that lies well (The Bench).
-- *Blue toenails* — her one sanctioned rebellion (The Bench).
-- *Bottle cap under thumbnail* — unconscious self-hurt in aftermath (The Bench).
-- *Lights on* — he insists on seeing her (The Bench).
-- *"Hi." / "Hi."* — their ritual exchange, repeated three times in-chapter, including her false re-entry.
+- *Locks/deadbolt/key* — The Bench (arrival deadbolt; bathroom lock — first time ever; "quiet as a deadbolt going over"; "the size of a key turning in a lock").
+- *The face vs. her* — The Bench (bathroom mirror monologue; "He could have the face").
+- *Apple, sliced thin / portioned appetite* — The Bench (kitchen; his closing thought about her hunger).
+- *Built wood / unread price tag* — The Bench (his furniture; she can't infer he made it).
+- *"Hi." "Hi."* — greeting ritual, repeated three times in the chapter, including mid-scene at the bench.
+- *"There you are"* — his phrase at her breaking-open.
+- *Safe word "Red"* — established.
+- *Bench top on/off* — disguised as a table; ends "waiting for the next time."
+- *Thumbnail / bottle-cap press* — self-harm-adjacent, unnoticed by her.
+- *Lights up / being looked at* — his insistence from night one.
+- *Cashmere* — her cardigan; her blanket kept at his house.
+- *Steely Dan low in the front rooms* — opening atmosphere.
 
 **Symbolism noticed**
-- Bench = concealed purpose in plain sight; possibly the relationship/the coming game itself.
-- Locks = control of thresholds; the key turning inside her = irreversible crossing.
-- The face/smile = performance apparatus; "run out of the apparatus of performance" is the scene's destination.
+- The bench: an instrument of attention built before its subject was met — care as pre-existing apparatus.
+- Locks: her consent and her self-sealing use the same gesture.
+- The apple: permitted appetite; his misreading of feeding her as pure gift.
 
 **Open questions**
-- When does Vivienne appear, and how do Randi + Pace pick her? (Jacket promise, not yet begun.)
-- What will Randi "do about this" — is the Vivienne scheme her response to being cracked open?
-- Does the bottle-cap self-hurt signal deeper damage that will surface?
-- What's Pace's actual history/intent — how deliberate is the "project" framing?
-- Will Randi ever make the "missing inference" about the furniture/him?
+- When/how does the Vivienne "game" from the jacket begin, and is Randi's retreat behind the face the motive for it?
+- Will Pace ever learn what Randi decided in the bathroom?
+- Why did Pace build the bench seven months before meeting her — prior partner? habit? who was it for originally?
+- What is the "long spoon" — who is the devil in this arrangement?
+- Randi's surname; how she and Pace met; his exact age/job on the page (jacket says mathematician — not yet confirmed in text).
 
 **Story so far**
-Opening chapter. Randi, a sorority girl, has been secretly seeing Pace (~3 weeks), visiting his isolated house; she lies to chapter president Brooke to come over. Tonight he reveals the "low table" she'd been laying underwear on is a restraint/spanking bench he built for her ("for you. Tonight" — though begun 7 months before they met). With her consent and safeword, he spanks and edges her past her performance scripts until she begs "in a voice that was hers" and comes hard, crying without knowing it; he names her — "There you are, Randi." Aftercare: blanket, water, "you're beautiful" (she flinches). She locks herself in the bathroom, confronts her face in the mirror — something has crossed that can't be uncrossed — reassembles the smile, returns, agrees to stay the night. He makes contented plans about opening her further; she privately resolves she'll "have to figure out what she was going to do about this." The bench's top goes back on tomorrow; it waits.
+Opening chapter, Pace's house, evening. Randi (secret girlfriend, ~3 weeks) arrives after chapter dinner, having lied to Brooke. Kitchen: apple-slice play on his lap, she hands the evening to him ("What are we doing tonight"). He reveals the bench — a disguised piece he built starting seven months before meeting her — and she says "Show me." Slow undressing; then spanking and repeated edging on the bench; he uses the imagined judgment of her sorority sisters/Brooke to break her performance; she begs for real, comes hard, cries. Aftercare with blanket and water. He says "You're beautiful"; she flinches. In the locked bathroom she confronts having been truly seen for the first time, and resolves he will only ever get "the face" again — not tonight, not ever. She returns smiling; he holds her, contentedly planning her further opening, unaware. She stays the night. Vivienne has not appeared.
 
 **How I feel**
-Pace: seduced by his care, genuinely disturbed by his proprietariness — trust low, fascination high. Randi: sympathy sharply up from the jacket's "schemer" framing; she's armored and hurt and now destabilized; I like her against my expectations. Mood: warm-room dread — tenderness and threat in the same gestures. Waiting for Vivienne with anticipation and guilt-in-advance.
+Drawn to Pace's competence and warmth, distrustful of the machinery under it (the pre-built bench, the "plans about her"). Aching sympathy for Randi and fresh wariness — the jacket says she's about to run this same seen/unseen game on an innocent girl. Mood carried: hushed, warm-lit, erotic, with a cold current underneath — dread on Vivienne's behalf before she's even appeared.
