@@ -307,7 +307,7 @@ def build(chapters, blurb, cover_path: Path, author: str, out_path: Path,
                 f"</p><h1 class=\"chapter\">{esc(title)}</h1></div>\n"
                 + scene_body_html(path.read_text(encoding="utf-8")))
         add(f"ch{i:03d}", href, "application/xhtml+xml", page(title, body))
-        toc.append((href, title))
+        toc.append((href, f"{i} · {title}"))
 
     note = ['<div class="backmatter">',
             f"<h1>{esc(NOTE_TO_READERS_TITLE)}</h1>"]
