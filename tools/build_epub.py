@@ -296,7 +296,9 @@ def build(chapters, blurb, cover_path: Path, author: str, out_path: Path,
         "All rights reserved.</p>"
         "<p>This is a work of fiction. Names, characters, places, and "
         "incidents are products of the author’s imagination or are used "
-        "fictitiously.</p>"
+        "fictitiously. All characters depicted are adults.</p>"
+        "<p>This book contains explicit sexual content and is intended "
+        "for adult readers.</p>"
         f"<p>{esc(COPYRIGHT_NOTICE)}</p>"
         f"<p>{esc(DRAFT_NOTICE)}</p></div>"))
 
