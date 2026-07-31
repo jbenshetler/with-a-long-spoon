@@ -116,7 +116,7 @@ She felt that first, only that, the strange light pull of her own weight hanging
 
 He took her wrists then, one and then the other, his fingers circling them, and drew her hands forward along the leather and set them onto the two pegs, closing her own fingers around the leather-wrapped wood, folding them down one at a time, pressing them gentle and firm into the curve of it; and only now, with the wood warm under her palms and her arms gone long, did she understand what they were. They were grips. You did not hold on for a massage. There was nothing to hold on for, on a massage table; you lay there and were worked on and your hands held nothing at all. These were here so that she would have something to grip. They were here because there was going to be something to grip against. And he had not tied her, there was no rope, no cuff, nothing buckled, he had only closed her hands and taken his away, and she understood as the truth of it traveled up her own arms that she was the thing keeping herself there, that her grip was the restraint, that if she opened her hands she could rise and she was not opening her hands, second by second, her knuckles paling on the grips, and the part of her that watched her own life with her mother's eyes leaned in close and clipped its judgment and she shut her face harder against the leather to get away from it.
 
-"You okay," he said. Not even a question, quite. A hand resting now at the join of her hip and her thigh, still, warm.
+"You okay?" he said. A hand resting now at the join of her hip and her thigh, still, warm.
 
 "Yes." Small. It came out small.
 

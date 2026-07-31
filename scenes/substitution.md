@@ -36,7 +36,7 @@ Vee looked up. Randi was texting — thumbs quick, eyes down, the small private 
 
 But the page didn't hold her, and when she looked up again Cassie, two tables over, was watching Randi thumb at her phone — the flat, patient look Cassie kept for Randi, for the sorority polish of her, the ease of her. *She's not serious,* the look said, or that was how Vee read it. Cassie and Randi had never quite taken to each other, and Vee let it be. Cassie set her pencil down and reached for her coffee.
 
-"How's it going over there," Cassie said.
+"How's it going over there?" Cassie said.
 
 "I think the problem hates me," Vee said.
 
@@ -188,7 +188,7 @@ She wanted to hand some of it back. She had taken the whole table and he had let
 
 It reached her body a half-second before it reached her sense of proportion. Her own voice came back from the top of all this, small, warning him off: *It's pretty hard. It's calculus.* She put her fingers over her eyes.
 
-"How far along," she said, into her hand.
+"How far along?" she said, into her hand.
 
 "Finishing a PhD." A pause. "More or less."
 

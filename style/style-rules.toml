@@ -47,6 +47,14 @@ why      = "Existential 'there was…' often buries the real subject. Consider r
 # ---- Structural tics --------------------------------------------------------
 
 [[rule]]
+id       = "flat-interrogative"
+kind     = "regex"
+pattern  = '(?i)"(?:what|how|why|who|where|when|which|are|is|do|does|did|can|could|will|would|should|you okay)\b[^"?.!]*,"'
+severity = "warn"
+why      = "Interrogative dialogue punctuated flat (comma, no question mark) — a borrowed literary mannerism. Author ruling 2026-07-31: genuine questions, especially comfort/safety check-ins, get real question marks; flat delivery reads as telling her she's okay rather than asking, and renders Pace cold. Flat is permitted only where the narration explicitly marks the line as not really a question."
+
+
+[[rule]]
 id       = "x-not-y"
 kind     = "regex"
 pattern  = '\b\w+,\s+not\s+\w+'

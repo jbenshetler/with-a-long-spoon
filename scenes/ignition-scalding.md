@@ -30,7 +30,7 @@ He smiled. He felt it move his own mouth before he'd decided to.
 
 He let that sit. The light moved a fraction across the floor. Her thumb pressed the side of his and eased and pressed.
 
-"Can I ask you something," she said, and the something was lighter than the words, "do you — when there's no one here. Do you still take care of it yourself? Or are you so —" she gestured vaguely with her free hand at the general fact of him — "*served*, now, that you don't have to?"
+"Can I ask you something?" she said, and the something was lighter than the words, "do you — when there's no one here. Do you still take care of it yourself? Or are you so —" she gestured vaguely with her free hand at the general fact of him — "*served*, now, that you don't have to?"
 
 "Sometimes," he said.
 

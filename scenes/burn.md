@@ -144,7 +144,7 @@ And she did not want to be saved. She knew what he was doing — keeping one bre
 
 He went still against her. Even with the word already given, he would not take it on the strength of her body alone.
 
-"Do you want me to keep going," he said, low at her ear, flat and careful, all of him waiting on the word and not on her.
+"Do you want me to keep going?" he said, low at her ear, flat and careful, all of him waiting on the word and not on her.
 
 "Yes." Small. Barely there. The one word she could get out of herself. But she said it.
 

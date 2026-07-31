@@ -30,7 +30,7 @@ Something moved in his face — pleased, and not troubling to hide it, a man gla
 
 By the door a coat closet stood open, and while he hung her jacket she looked at the floor of it: shoes, paired and squared, a short row. Hiking boots gone pale at the creases; work boots, stiffer, scarred; running shoes; a good pair of ropers, the heels barely touching.
 
-"How many pairs of shoes does one man need," she said, teasing.
+"How many pairs of shoes does one man need?" she said, teasing.
 
 "Depends how many things he does." Not defending it — just true, and a little pleased to have her looking. One right pair for each thing and no more; she could have read half of him off that closet floor without a word.
 

@@ -82,7 +82,7 @@ Then she was moving. Wrecked as she was — clamp-sore, just come, the marks of 
 
 She moved on him slow, watching his face. He brought his hands up and held her breasts, and the nipples he'd tortured — swollen, tender, still lit from the clamps — rubbed against his palms as she moved. And the thing rising in her showed before she said it.
 
-"How good is it," she said. "With Vee." Light, conversational, her hips not breaking their rhythm. "It's good. I know it is. Tell me how good."
+"How good is it?" she said. "With Vee." Light, conversational, her hips not breaking their rhythm. "It's good. I know it is. Tell me how good."
 
 He brought a hand up and laid it along her jaw, his thumb at the wet of her mouth. "I'm here," he said. "With you. Now."
 

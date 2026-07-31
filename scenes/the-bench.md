@@ -206,7 +206,7 @@ He adjusted the leg supports. The mechanisms had been his own design — well-oi
 
 He set his palm flat against the small of her back and slid it slowly down to the curve of her ass and lifted it.
 
-"You okay," he said.
+"You okay?" he said.
 
 "Yes." Her voice came from the face-down position small and slightly muffled, the sound of a voice that had to travel past leather and through hair.
 
@@ -280,7 +280,7 @@ He bent at her side and kissed the small of her back just above where his hand h
 
 "I like this part," he said, into the hollow behind her ear. His voice was low. The words came out against her skin.
 
-"Which part," she whispered. The word was small, the breath of it warm against the side of his face.
+"Which part?" she whispered. The word was small, the breath of it warm against the side of his face.
 
 "All of it."
 
@@ -304,7 +304,7 @@ She gripped the hand supports and pushed herself back into the empty space where
 
 He soothed her ass with his other hand. He came around to her face again. He crouched. He stroked her hair.
 
-"How's your back," he said.
+"How's your back?" he said.
 
 "It's fine."
 

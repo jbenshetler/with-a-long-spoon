@@ -515,6 +515,13 @@ text = "She felt the wet before she knew she was crying, hot and then over, down
 note = "Author-approved: intentional register ('the way' incl. the de-shaming gaze), close-third perception (filter verbs incl. the body-before-mind 'felt the wet'), and accepted single tics."
 
 [[ok]]
+fp   = "432e2539eebc"
+rule = "flat-interrogative"
+file = "scenes/believe-me.md"
+text = "\"Do any of your friends,\" he said, \"have a relationship you'd rather have than this one?\""
+note = "false positive: split quote, question mark at true sentence end"
+
+[[ok]]
 fp   = "84073744364b"
 rule = "the-way"
 file = "scenes/believe-me.md"
@@ -627,6 +634,13 @@ text = "It came out ugly and she let it, because that was the whole of it, that 
 note = "Author-approved: intentional register ('the way' incl. the de-shaming gaze), close-third perception (filter verbs incl. the body-before-mind 'felt the wet'), and accepted single tics."
 
 [[ok]]
+fp   = "21beefbb96a1"
+rule = "flat-interrogative"
+file = "scenes/cropped.md"
+text = "\"Is it that you can't say,\" Cassie asked, \"or that you don't want to?\""
+note = "false positive: split quote, question mark at true sentence end"
+
+[[ok]]
 fp   = "82132e2c9a8d"
 rule = "a-small"
 file = "scenes/dear.md"
@@ -646,6 +660,13 @@ rule = "clock-verb"
 file = "scenes/fairytale.md"
 text = "Her mother would put him at the good end of the table; the house would clock him the moment she came in on his arm."
 note = "Author-approved 2026-07-30 (cold-read feedback pass): the house doing the clocking, not Randi filing — sanctioned use"
+
+[[ok]]
+fp   = "7430b51b2a1c"
+rule = "flat-interrogative"
+file = "scenes/fairytale.md"
+text = "\"Why, John,\" she said, a hand to her chest."
+note = "false positive: 'Why, John' is an interjection, not interrogative why"
 
 [[ok]]
 fp   = "140f27ebb674"
@@ -1052,6 +1073,13 @@ rule = "filter-verbs"
 file = "scenes/in-his-hands.md"
 text = "There was no door left open for her to step through, and she felt, low and quick, that she had put her hand on something she wasn't meant to touch, and she took her hand off it."
 note = "Reviewed with author 2026-07-10: all defensible — Pace dialogue, the accepted Thanksgiving exchange, load-bearing antithesis (a body/not a body; phone/not his), the false-positive idiom (all the way around), inceptive began-to, idiomatic there-was."
+
+[[ok]]
+fp   = "f0d0a72770ad"
+rule = "flat-interrogative"
+file = "scenes/in-his-hands.md"
+text = "\"Can't have that,\" he said, and put a pan on."
+note = "false positive: \"Can't have that\" is declarative"
 
 [[ok]]
 fp   = "020fc0b186a5"
@@ -2048,6 +2076,13 @@ text = "Her nipples drew up tight, to aching points, so fast and so hard it was 
 note = "Author sign-off 2026-07-28: spank-paragraph filter cluster left standing — cold readers praised the paragraph as the chapter's charged peak"
 
 [[ok]]
+fp   = "99ebf57500ae"
+rule = "flat-interrogative"
+file = "scenes/recognized-method.md"
+text = "\"What I did on Thursday was wrong,\" she said, and there it was, the clean machine, running."
+note = "false positive: what-clause declarative, not a question"
+
+[[ok]]
 fp   = "da2b2a455c6d"
 rule = "weather"
 file = "scenes/recognized-method.md"
@@ -2151,6 +2186,13 @@ rule = "filter-verbs"
 file = "scenes/school-nights.md"
 text = "How he noticed things before she did."
 note = "reported speech: 'he noticed things before she did' is Vee's claim to Cassie, the perceiving is the point"
+
+[[ok]]
+fp   = "615926dcff18"
+rule = "flat-interrogative"
+file = "scenes/school-nights.md"
+text = "\"Do you love him,\" she said, the same flat way she'd said the rest of it."
+note = "Cassie's characterized flatness ('the same flat way') — exemption, author-confirmed 2026-07-31"
 
 [[ok]]
 fp   = "2dfe82484611"
@@ -3061,6 +3103,20 @@ rule = "filter-verbs"
 file = "scenes/the-bench.md"
 text = "She cried out and the cry was not a trained cry, the cry was real, the cry was a *sound from her,* and he heard it land and he heard himself want to hear it again, and he soothed her and waited and hit her again to hear her make it again, and she did."
 note = "doubled 'he heard...heard himself want' is rhetorical (appetite surfacing); intended"
+
+[[ok]]
+fp   = "0fa4e0b3c62d"
+rule = "flat-interrogative"
+file = "scenes/the-bench.md"
+text = "\"What would she think, baby,\" he said."
+note = "rhetorical weapon — no answer solicited; sibling of 'What would Brooke think.'"
+
+[[ok]]
+fp   = "9752983d35cb"
+rule = "flat-interrogative"
+file = "scenes/the-bench.md"
+text = "\"What are we doing tonight,\" she said, her mouth still near his, the words gone breathy and impatient."
+note = "narration marks it not-a-question (a request); exemption per author ruling 2026-07-31"
 
 [[ok]]
 fp   = "2a232ee8e0bf"
@@ -3978,6 +4034,13 @@ rule = "filter-verbs"
 file = "scenes/we-find-out.md"
 text = "She heard the smile in it."
 note = "Cold-reader feedback pass 2026-07-28: remaining hits reviewed with author and accepted — filter verbs/the-way here are load-bearing (body-betrayal dissociation register, First Night rhyme, decided-to-keep line); 'undid her' is emotional not climactic; hinge-sentence 'there was' is canonical."
+
+[[ok]]
+fp   = "c38357b442ed"
+rule = "flat-interrogative"
+file = "scenes/we-find-out.md"
+text = "\"Why do I keep pretending we're not going to sleep together,\" she said to the glass."
+note = "self-directed rhetorical to the mirror; flat comma renders the sigh — author keep 2026-07-31"
 
 [[ok]]
 fp   = "08112d55ba8f"

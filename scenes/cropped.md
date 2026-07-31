@@ -2,7 +2,7 @@
 
 The athletic cafeteria had the better food and, more to the point, somewhere to actually sit, so that was where they ended up, the two of them, neither an athlete, at a table near the windows. Sunday dinner, the night everyone came back. A low murmur under the high ceiling, syncopated by the clink of steel on hard plastic.
 
-"How was it," Vee asked. "Home."
+"How was it?" Vee asked. "Home."
 
 Cassie thought about it. "Good to see my parents. My sister has the new baby, so it was all baby, the whole time. Her husband's alright. A little bit of a dork." She speared something on her plate. "It was good to leave, too. They still treat me like I'm in high school. Not overtly. But I can tell they don't quite see me as an adult yet." She looked up. "What about you?"
 
