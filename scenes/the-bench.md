@@ -404,11 +404,9 @@ She did not say anything for a long moment. The breathing he could hear from her
 
 "Take your time," he said.
 
-She took her time. He could see, in the small movements of her face which was at the low point and turned sideways now, that she was trying to find the surface she could not find. The surface had a script for this. The script said you turned the heat up, you pouted, you made him want you so badly he gave you what you wanted as proof of his desire. The script was for the *wanted* position. She was excellent at the wanted position. She had spent her whole adult life there.
+She took her time. He could see, in the small movements of her face which was at the low point and turned sideways now, that she was trying to find the surface she could not find. The surface had a script for this. The script said you turned the heat up, you pouted, you made him want you so badly he gave you what you wanted as proof of his desire.
 
-The bench was not the wanted position. The bench was the needing position.
-
-She could not pout her way back to wanted. She could not turn the heat up; the heat was already at maximum, and the maximum was below her, where she was. The script was failing. He could see that it was failing before she could — her hands had begun to worry the grips, a woman reaching for a handle that had always been there and not finding it.
+She could not pout her way back. She could not turn the heat up; the heat was already at maximum, and the maximum was below her, where she was. The script was failing. He could see that it was failing before she could — her hands had begun to worry the grips, a woman reaching for a handle that had always been there and not finding it.
 
 He waited.
 
@@ -550,7 +548,7 @@ She fixed her hair again, this time more deliberately, smoothing it into the sha
 
 She came to the bed and sat down beside him and curled into him and he wrapped his arm around her and pulled her close, and she put her head against his shoulder, in the same place it had been before she had gone to the bathroom, and he kissed the top of her head, and she closed her eyes.
 
-He held her. He thought, with quiet satisfaction, that this had been a remarkably good evening. He had been right about her. He had been right about the bench. He had been right that there was more of her than she was showing him, and tonight he had gotten further into her than he had imagined he would get this early. He thought about the apple, the thin slices, the appetite she kept trimmed to almost nothing, and it moved him, a little — a girl who had been portioning herself for years, weighing every want before she let herself have it, and who tonight had finally let someone feed her. The hunger had been in her all along. All he had done was find it, and answer it. He would answer it again, as often as she wanted to bring it to him. He thought, briefly and not unkindly, about how she would be different now — slightly, gradually, scene by scene — and about what he might want to do with her next, and about the long pleasant prospect of finding out who she actually was underneath the surface he had just begun to lift.
+He held her. He thought that this had been a remarkably good evening. He had been right that she was showing him only a fraction of who she was, and tonight, with his help, she had met more of herself than he had imagined she would this early. He thought about the apple, the thin slices, the appetite she kept trimmed to almost nothing, and it moved him, a little — a girl who had been portioning herself for years, weighing every want before she let herself have it, and who tonight had finally let someone feed her. The hunger had been in her all along. All he had done was find it, and answer it. He would answer it again, as often as she wanted to bring it to him.
 
 He was aware, in the way a man is aware of something he has been quietly not-thinking-about, that he was still hard. He had been since she straddled him in the kitchen. The awareness arrived without urgency; he held it the way you hold a fact, considered it, and set it down. *That's not what this night was for.*
 
@@ -562,7 +560,7 @@ He kissed the top of her head one more time.
 
 "Yes," she said, against his neck.
 
-She lay there with her eyes closed, against the warmth of his shoulder, while he held her and made small contented plans about her, and she thought — silently, with the new low hum that was now inside her ribs and that she did not yet have a name for — that she was going to have to figure out what she was going to do about this.
+She lay there with her eyes closed, against the warmth of his shoulder, while he held her, quietly happy about her, and she thought — silently, with the new low hum that was now inside her ribs and that she did not yet have a name for — that she was going to have to figure out what she was going to do about this.
 
 She did not know yet.
 

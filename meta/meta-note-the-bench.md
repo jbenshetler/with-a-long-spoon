@@ -12,14 +12,14 @@
 **Risk zones — durable checks for ANY future edit to this scene:**
 1. **No pure-object run.** Never let physical action run long as *he-verbs-her* with no interiority. Thread her inner state through the physical (as at *"chasing what her body had just lost, before she'd decided to chase it"*). The nearest edge is the head-to-toe "looking" passage — the one place her grammatical agency drops; edit it with the most care, and keep the beats that insist on the real person under the gloss.
 2. **Keep her a grammatical *subject*** of wanting / feeling / erupting — not only the object of his doing. Preserve involuntary-eruption constructions like *"a sound came out of her"* (her body as the site of her own overflow, not his product); do not recast them into "he made her…".
-3. **Keep the naming line clean of triumph.** *"There you are, Randi"* must stay tender recognition. The instrumental/possessive note (Pace's *"he had been right about her… what he might want to do with her next"*) is quarantined to the post-scene beat where it's *marked* as the wound-seed; never let conquest bleed up into the naming.
+3. **Keep the naming line clean of triumph.** *"There you are, Randi"* must stay tender recognition. The instrumental note (Pace's *"with his help, she had met more of herself… All he had done was find it, and answer it"* — recast 2026-07-31, de-operator pass: vindication, roadmap, and excavation language cut; the seed now lives in facts and the benefactor-misread, not stated intent) stays in the post-scene beat; never let conquest bleed up into the naming.
 4. **Protect the aftercare interiority.** The mirror sequence is what earns the withhold retroactively. Do not trim it.
 5. **Make the reader ache for her to be found.** The more the withheld stretch shows a real self straining under the performance (*"trying to find the surface she could not find"*), the more the naming reads as *liberation*, not exposure done to her.
 
 **Consent architecture is humanization, not throat-clearing.** The safeword checks, *"tell me your word,"* the half-exasperated *"They're fine, Pace"* (irritation, humor — a whole person mid-scene) are load-bearing sympathy beats. Keep them.
 
 **Accepted review flags (KEEP — do not re-flag).** Decisions the author has already made against reviewer notes; a future cold read or `/wals-scene-review` that re-raises these should treat them as settled, not defects:
-- **The wanted/needing taxonomy stated in the abstract** — *"The script was for the* wanted *position. She was excellent at the wanted position. She had spent her whole adult life there."* and *"The bench was not the wanted position. The bench was the needing position."* Cold reads flag this as thesis-on-the-page (told-not-shown, right beside the *shown* version — the failing script, the disordered breathing). **Kept deliberately.** It is POV-legal (Pace's diegetic read — *"He could see… that she was trying to find the surface she could not find"* — not narrator omniscience), the *needing position* gloss defines a term the book pays off downstream (the jacket's *"a wanting she'd have been ashamed to name"*), and the taxonomy is already trimmed to two poles (the middle *"not even the* wanting *position"* rung was cut). The one clean naming of the engine is worth the thumb. **2026-07-30:** the explaining appositive ("— something required that you could not supply yourself") was cut after a second cold reader (claude-fable-5) snagged on it; the two-sentence opposition stands. See `meta-triage-the-bench.md`.
+- **The wanted/needing taxonomy stated in the abstract** — *"The script was for the* wanted *position. She was excellent at the wanted position. She had spent her whole adult life there."* and *"The bench was not the wanted position. The bench was the needing position."* Cold reads flag this as thesis-on-the-page (told-not-shown, right beside the *shown* version — the failing script, the disordered breathing). **Kept deliberately.** It is POV-legal (Pace's diegetic read — *"He could see… that she was trying to find the surface she could not find"* — not narrator omniscience), the *needing position* gloss defines a term the book pays off downstream (the jacket's *"a wanting she'd have been ashamed to name"*), and the taxonomy is already trimmed to two poles (the middle *"not even the* wanting *position"* rung was cut). The one clean naming of the engine is worth the thumb. **2026-07-30:** the explaining appositive ("— something required that you could not supply yourself") was cut after a second cold reader (claude-fable-5) snagged on it; the two-sentence opposition stands. **2026-07-31: SUPERSEDED — the whole taxonomy is cut** (author ruling after 3 of 4 post-warmth-pass rereads snagged again); the failing-script passage carries the beat fully shown. Do not restore. See `meta-triage-the-bench.md` (2026-07-31 addendum).
 
 ---
 
@@ -144,3 +144,45 @@ Dispositions (do not re-apply; declined items are settled — do not re-flag):
 - DECLINED: "The settling was good." kept as-is (terse gladness, rhymes his
   spoken "Good"); "He worked her like that" left; apple-slicing observation
   left (the care is the warmth; the coda pays it off).
+
+## De-operator pass — APPLIED (in the draft as of 2026-07-31, post-reread)
+
+After the four cold-reader reruns and the pace-suspicion oracle probe, the author
+ruled: the novel's argument is withheld information, not Pace's planning; forward
+pressure is already carried by the jacket, the seven-months/three-weeks fact, and
+the closing bench image ("waiting for the next time"). Stated managerial intent
+taxed reader sympathy book-long for a one-time reread frisson. Dispositions (do
+not re-apply; do not restore):
+
+- **"The needing position" aphorism cut** (with its taxonomy setup "The script was
+  for the *wanted* position…" and the "back to wanted" echo → "She could not pout
+  her way back."). Reverses the KEEP above.
+- **Coda vindication cut:** "He had been right about her. He had been right about
+  the bench." — kept only "He had been right that there was more of her than she
+  was showing him" (the clause that is about her and carries the reread irony).
+- **Coda roadmap sentence cut entirely:** "…how she would be different now —
+  slightly, gradually, scene by scene — …what he might want to do with her next…
+  the surface he had just begun to lift."
+- **"made small contented plans about her" → "quietly happy about her"** (the
+  final planning residue; the sentence's job is his ease against her hum).
+- **Kept as the marked seed** (facts, not tone): the apple/hunger
+  benefactor-misread, "He would answer it again, as often as she wanted to bring
+  it to him," and the closing bench paragraph.
+- **"gotten further into her than he had imagined he would get this early" recast
+  (2026-07-31, deferred call resolved):** → "she was showing him only a fraction
+  of who she was, and tonight, with his help, she had met more of herself than he
+  had imagined she would this early." Retires the excavation/agent verb per the
+  book-wide acquisition ruling; "with his help" is the hubris in miniature
+  (benefactor self-conception), "met more of herself" precisely wrong (she just
+  sealed that self off), "fraction" his mathematical register rhyming with the
+  portioning motif.
+- **"with quiet satisfaction" cut clean (2026-07-31, resolving the quiet/quietly
+  echo):** the last assessment tag in the coda — "satisfaction" framed the evening
+  as a result he produced (controlling/QA register). Now "He thought that this had
+  been a remarkably good evening." — the flat declarative carries the ease;
+  "quietly happy about her" at the close stands untouched.
+
+Follow-on ruling, same day: the possessive/acquisition register is **retired
+book-wide** — not fenced to codas. The surviving seed above stays as *facts*
+(what he built, when) and embodied hunger, never ownership vocabulary. See
+`meta-craft-pace.md` §Pride-in-effect, not possession.
