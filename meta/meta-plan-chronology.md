@@ -110,7 +110,7 @@ Vee tries to tell Cassie and can't. Shame meets the wrong-shaped listener; Cassi
 
 ### [SCENE] Fed
 *Sun Oct 11 · the weekend after {{Famished}} — she's been holding it since Friday* · Draft complete · SATC · off-campus · `fed.md` · [detail](meta-condensed-fed.md) · reviewed: 2026-07-19 · slug: fed · present: Vee, Randi
-Vee arrives carrying the floozie-shame she couldn't give Cassie. Randi catches the flush at maximum exposure and converts it to pride/aliveness — genuine kindness that is also the threesome on-ramp. Post-Fitting/post-jealousy: deliberate operation, so no tell. First read: the glamorous friend talked me out of my shame. *Them-not-you* seed and bathroom-trip beat migrate here.
+Vee arrives carrying the floozie-shame she couldn't give Cassie. Randi catches the flush at maximum exposure and converts it to pride/aliveness — genuine kindness that is also the threesome on-ramp. Post-Fitting/post-jealousy: deliberate operation, so no tell. First read: the glamorous friend talked me out of my shame. Bathroom trip correctly absent (mechanism first fires at {{The Practice Room}} — see [detail](meta-condensed-fed.md)); the *them-not-you* conversion is enacted in the pride-seal run ("I wanted it. And I took it."), not as a discrete line.
 
 ### [SCENE] Peekaboo
 *Thu Oct 15 · mid-week* · Draft complete (`peekaboo.md`) · [detail](meta-condensed-peekaboo.md) · reviewed: 2026-07-21 · slug: peekaboo · present: Vee, Pace

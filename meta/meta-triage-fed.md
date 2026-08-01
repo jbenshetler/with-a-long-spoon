@@ -53,3 +53,31 @@ Opus explicitly wants the worlds to touch from this chapter on ("the pressure
 is now real") — dread-want, the compression engine, not impatience with pacing.
 No reviewer names the threesome as overdue; the appetite transfers to the
 collision/reveal as designed.
+
+---
+
+# Line-audit pass (2026-08-01)
+
+Source: `audits/line-audit/fed.md`, reviewed with the author.
+
+## Fixed
+
+- ":71 Vee had half-expected it this time" (was "She'd") — the prior
+  sentence's subject is Randi; one word removes the momentary misread at the
+  curbside kiss.
+- Chronology entry updated (`meta-plan-chronology.md`, {{Fed}}): the stale
+  "*Them-not-you* seed and bathroom-trip beat migrate here" replaced with
+  what's true — bathroom trip correctly absent (condensed overrules; fires
+  at {{The Practice Room}}), and the them-not-you conversion is enacted in
+  the pride-seal run, not as a discrete line. The seed question is settled:
+  no explicit "them, not you" phrasing is wanted — naming the category is
+  more Randi-visible than her method allows.
+
+## Left standing — do not re-litigate
+
+- **":17 how much she had wanted, all week, to set it down" vs. the two-day
+  hold (dinner Fri Oct 9, brunch Sun Oct 11)** — free-indirect felt-duration
+  in Vee's dramatic register (cf. the {{How It's Done}} "all month" ruling);
+  calendar arithmetic is the wrong instrument inside her head. The echo of
+  Randi's timeline-correct "all week" at :5 stands too — Vee's interior
+  borrowing Randi's phrase is on-theme.

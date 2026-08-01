@@ -26,7 +26,7 @@ with the author, item by item.
 17. how-its-done — reviewed
 18. famished — reviewed
 19. toenails — reviewed
-20. fed — audited
+20. fed — reviewed
 21. peekaboo — audited
 22. all-told — audited
 23. sorority — audited
