@@ -1,6 +1,6 @@
 # Cover design — Volume 1
 
-*Marketing/production companion to `meta-blurb.md` (positioning, test-epub assembly). Status: concept settled, details in prototype. Decisions marked; open questions at the bottom. The SVG master feeds the epub build pipeline (rasterize once at export — see Production).*
+*Owns everything on and about the cover object — concept, art, text hierarchy, production specs. `meta-blurb.md` owns the words (jacket/ad copy, positioning, the volume-title decision and its rationale); this doc owns how the cover renders them. Status: concept settled, details in prototype. Decisions marked; open questions at the bottom. The SVG master feeds the epub build pipeline (rasterize once at export — see Production).*
 
 ---
 
@@ -58,6 +58,20 @@ Ranked candidates — all are one `<filter>` swap in the same SVG master:
 
 ---
 
+## Cover text (decided 2026-07-30)
+
+**Three text elements only** — what must survive the 100×160 render decides everything:
+
+1. **Series line, small, at the top:** `WITH A LONG SPOON · BOOK ONE` — small caps, quiet; never the word "Series" (metadata language; reads self-published on a cover).
+2. **Volume title, dominant:** *A Polite Invitation* — the element legible at thumbnail (title decision and rationale in `meta-blurb.md`, Genre & positioning).
+3. **Author, bottom:** Helen Rivers — second-largest; smaller than the title while the name is unknown, grows across volumes.
+
+**No tagline on the front** — illegible at thumbnail, and it's the blurb page's closing beat (it lives at the end of the blurb, in ads, and on a print back cover). This resolves former open question 4.
+
+Retail title field (metadata, not art): *A Polite Invitation (With a Long Spoon, Book 1)*.
+
+---
+
 ## Production
 
 - **SVG is the master; raster is the deliverable.** Epub covers ship as JPEG/PNG (EPUB 3 permits SVG covers; reader support untrustworthy).
@@ -77,5 +91,5 @@ Ranked candidates — all are one `<filter>` swap in the same SVG master:
 
 1. Mask vs. flower — A/B with the Volume 1 test readers.
 2. Background — pick from the four prototypes at thumbnail size.
-3. Title typography — untouched so far; decides the whole register.
-4. Whether the cover carries the tagline (*"Every yes was freely given. That was the trap."*) — one max, droppable if the art carries it (it repeats on the blurb page; see `meta-blurb.md`).
+3. Title typography — untouched so far; decides the whole register. (What the text *says* and its hierarchy are decided — see Cover text — this question is purely typeface/treatment.)
+4. ~~Whether the cover carries the tagline~~ — **decided 2026-07-30: no** (see Cover text).

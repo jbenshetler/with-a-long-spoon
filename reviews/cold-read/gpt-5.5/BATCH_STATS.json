@@ -4,25 +4,25 @@
   "completed": 1,
   "generated": 1,
   "skipped": 0,
-  "total_cost": 0.584275,
-  "total_input": 32255,
-  "total_output": 14100,
-  "total_tokens": 46355,
+  "total_cost": 0.23573500000000003,
+  "total_input": 16205,
+  "total_output": 5157,
+  "total_tokens": 21362,
   "per_chapter": [
     {
-      "slug": "nothing-underneath",
-      "title": "Nothing Underneath",
+      "slug": "the-bench",
+      "title": "The Bench",
       "status": "generated",
-      "cost": 0.584275,
-      "input": 32255,
-      "output": 14100,
-      "totalTokens": 46355,
-      "promptTokens": 32255,
-      "reasoningTokens": 48,
+      "cost": 0.23573500000000003,
+      "input": 16205,
+      "output": 5157,
+      "totalTokens": 21362,
+      "promptTokens": 16205,
+      "reasoningTokens": 0,
       "cacheRead": 0,
-      "duration_s": 278.0,
-      "wall_s": 278.0,
-      "path": "reviews/cold-read/gpt-5.5/nothing-underneath.md"
+      "duration_s": 100.8,
+      "wall_s": 100.8,
+      "path": "reviews/cold-read/gpt-5.5/the-bench.md"
     }
   ]
 }

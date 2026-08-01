@@ -296,3 +296,18 @@ Each is the author's call (full grounding in `meta-audit-currency.md`, Phase 5):
   whether she meant it."* "too literal" reads as an innate trait; under current
   canon Pace is **neurotypical** and the not-declaring is choice/care (chivalric
   grammar + vow), not innate literal-mindedness. Re-cast as precision/care. **✓ DONE 2026-07-20 (too literal → too precise).**
+
+## 32. Technician-drift audit of the other Pace-POV drafted scenes (PROSE) — open, added 2026-07-31
+
+The new `meta-craft-pace.md` Console rule — **"Warm, tender, misguided — never
+technician"** (author ruling 2026-07-31; worked example `{{The Bench}}` interior
+pass, dispositions in `meta-note-the-bench.md`) — matters most in **Pace-POV**
+scenes: his interiority in *reception* and *gift-logic*, never method. The rule
+postdates every other drafted scene, so each Pace-POV draft should get the same
+beat-by-beat pass: inventory his interior beats, mark keep / recolor / cut
+against the rule's diagnostics (surveillance/planning verb population,
+purpose-clauses stating technique as technique, QA assessment tags, stopwatch
+units), and bring proposed edits to the author per beat. Facts and reread
+structure stay untouched — the manipulation lives in the facts, never the tone.
+Identify the Pace-POV subset from the chronology's `present:`/POV metadata at
+audit time (e.g. `a-round.md`, `vee-on-the-bench.md`); `the-bench.md` is done.

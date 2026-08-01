@@ -39,7 +39,8 @@ reader cohort snagging on the same spot, or an edit that re-opens the passage).
   analysis; the second reprises his own italicized *Hers.* six lines earlier. The
   reader's discomfort is the intended effect of Pace's interpretive arrogance,
   misattributed to the author. The aphorism *shape* (freestanding paragraph) is what
-  triggers the misread — acceptable cost.
+  triggers the misread — acceptable cost. **SUPERSEDED 2026-07-31: the aphorism is
+  cut** (see the 2026-07-31 addendum below). *"The orgasm was hers"* still stands.
 - **Spatial parseability of the bench-reveal staccato** ("Open, everything open,"
   the piece-by-piece parse) (Opus, self-labeled "Minor"; other three readers clean,
   5.5 praised the specificity) — the staccato is Randi's real-time comprehension
@@ -96,3 +97,51 @@ center, with the flinch and the bottle-cap tell prized *because* unexplained; th
 seven-months/three-weeks line retroactively recolors the warmth as designed. Heat 3
 / Romance 2 across the board. Two readers unprompted predicted Randi turning outward
 toward the game to recover control.
+
+## Addendum — post warmth-pass rereads + author cuts (2026-07-31)
+
+All four readers were re-run on the recolored scene (Pace-interior warmth pass;
+see `meta-note-the-bench.md`), and a `pace-suspicion` oracle probe run on the two
+Claude readers. Findings and the author's rulings:
+
+- **The warmth pass landed.** No reader read Pace as a cold technician; both
+  oracle readers scored calculating-vs-loving 3/5 and stated they never caught
+  him faking warmth — suspicion attached to the *facts* (seven-months/three-weeks,
+  end-of-night obliviousness), not the tone. Target state per the Console rule.
+- **"The needing position" aphorism — CUT (2026-07-31), reversing the earlier
+  KEEP.** Three of four fresh readers snagged again (professorial / too tidy /
+  "the moment I distrust him most"), and the author ruled the one clean naming
+  no longer worth the recurring thumb. The failing-script passage now carries
+  the beat fully shown ("She could not pout her way back…"). Do not restore.
+- **Coda de-operatored (2026-07-31).** Author ruling: the novel's argument is
+  withheld information, not Pace's planning; the jacket + information asymmetry
+  already carry forward pressure, and stated managerial intent taxed reader
+  sympathy for Pace book-long. Cut from the coda: "He had been right about her.
+  He had been right about the bench." (vindication register); the entire roadmap
+  sentence ("…scene by scene… what he might want to do with her next… the
+  surface he had just begun to lift"). "made small contented plans about her" →
+  "quietly happy about her". The coda retains the benefactor-misread (apple/
+  hunger), "gotten further into her," and "as often as she wanted to bring it
+  to him" — the seed stays marked, in facts not tone. Do not re-add
+  planning language to Pace's interior in this scene. (Follow-on ruling, same
+  day: the possessive/acquisition register is **retired book-wide**, not fenced —
+  see `meta-craft-pace.md` §Pride-in-effect, not possession. "gotten further
+  into her" subsequently recast to "with his help, she had met more of herself…"
+  — see `meta-note-the-bench.md`, de-operator pass.)
+- **Seven-months/three-weeks line — cut tested and ruled KEEP (2026-07-31).**
+  A targeted experiment: the line was cut and the full four-model panel re-run
+  fresh on the cut text (hypothesis: readers would warm substantially on Pace
+  without the premeditation fact). Result: the weirdo/creep read did vanish —
+  no fresh reader questioned the bench's construction, and all four took "For
+  you. Tonight" as romantic craftsmanship ("built for her") — but overall
+  suspicion did **not** drop; it relocated wholesale onto the Brooke maneuver
+  and the end-of-night misread. Trust levels, Heat 3 / Romance 2, unchanged.
+  The scene's suspicion load is over-determined; the line is not what costs
+  Pace sympathy. Author ruling: the line stays — the beat's impact and the
+  reread detonator are worth more than the null sympathy gain, and the line is
+  the only on-page carrier of "the plan predates the woman" (in its absence
+  readers uniformly believe the bench was built for Randi, false to canon).
+  The experiment's reads were discarded (working tree reverted to the
+  committed baseline panel, which matches the restored text; the OpenAI batch
+  cost history retains the runs). **Do not re-propose this cut without new
+  reader evidence.**
