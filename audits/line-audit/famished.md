@@ -25,3 +25,22 @@ Timeline cross-check against `meta/meta-plan-chronology.md`: scene date Fri Oct 
 - Pronoun antecedents (the "them" in "drew them down" resolves acceptably via the satin/panties setup two paragraphs prior).
 - Her unprompted route to the bedroom is earned by the {{Two Towels}} house tour.
 - Dialogue: every reply answers the prior line; attributions unambiguous.
+
+## Author rulings (2026-08-01)
+
+1. **Fixed — rebuilt.** The finding under-called it: the scar (bible: visible
+   only when naked) could not be seen with the shorts on at all. Beat rebuilt
+   as tactile discovery in one paragraph — "shoved them down, shorts and all,
+   and her hand stopped — a scar, large, high on the inside of his thigh.
+   Then he drew her arms up around his neck, and she went." Redirect folded
+   into passion; filing narration and "Later. Not now." cut. Relocation out
+   of the scene rejected (First Night plant is canon + realism). See
+   `meta/meta-triage-famished.md`.
+2. **Fixed — trimmed.** Dropped "with the quiet focus she had watched him
+   bring to every task"; "went back to the stove" retained (position holds
+   "not turning", the glass, and the undrunk-wine plant).
+3. **Left standing** — waist tie lives in the kitchen→bedroom elision.
+4. **Left standing** — the tow-and-steer knot is intentional; strap release
+   in the same elision.
+5. **Left standing** — "sheets pulled loose" is loose wreckage idiom; no
+   sheet inventory intended.

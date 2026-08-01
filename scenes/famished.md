@@ -22,7 +22,7 @@ She stepped inside, and the house smelled of garlic and red pepper and nothing e
 
 A Chianti Classico open on the counter, already breathing. He'd opened it before she arrived.
 
-He handed her a glass without asking and went back to the stove with the quiet focus she had watched him bring to every task, and she stood at the edge of his kitchen and held the wine and did not drink it.
+He handed her a glass without asking and went back to the stove, and she stood at the edge of his kitchen and held the wine and did not drink it.
 
 "Are you hungry?" he said, not turning.
 
@@ -74,11 +74,7 @@ It built where his mouth held her, higher and tighter, past the place she could 
 
 She pulled him up.
 
-She got the jeans open and pushed them down and reached for the waistband of his shorts and then her hand stopped.
-
-On the inside of his thigh, close to the hip: a scar, surgical and old, the skin smooth and slightly raised in the line of the incision. She had not known. She traced it with one finger, carefully, the way she would touch something she did not yet have a name for. He let her. Then he took her hand and moved it without speaking, and she let him, and she filed the scar in the place where she kept facts without frames.
-
-Later. Not now.
+She got the jeans open and shoved them down, shorts and all, and her hand stopped — a scar, large, high on the inside of his thigh. Then he drew her arms up around his neck, and she went.
 
 The sheets were plain white cotton and very soft, washed many times, and when she lay down on them the smell arrived, the same smell she'd been sleeping in at home, in his flannel shirt in the dark. But the shirt had been holding a version more than a week old, stored and approximate. This was the source: his soap and under it his own scent, warm and immediate and specific to him, the actual thing behind the proxy she'd been studying in her own bed since the hike. She'd thought she knew it. She'd been wrong in the best possible way.
 
