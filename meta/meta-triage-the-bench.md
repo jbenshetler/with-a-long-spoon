@@ -128,6 +128,43 @@ Claude readers. Findings and the author's rulings:
   see `meta-craft-pace.md` §Pride-in-effect, not possession. "gotten further
   into her" subsequently recast to "with his help, she had met more of herself…"
   — see `meta-note-the-bench.md`, de-operator pass.)
+- **Audience-handhold paragraph ("The script had one handhold left: the audience…")
+  — KEEP, flag for next panel (2026-07-31).** Added in the warmth pass as a
+  counterweight where suspicion is known to concentrate (the Brooke maneuver, per
+  the seven-months experiment). No reader has been asked about it specifically;
+  the post-pass rereads that included it landed clean. Next cold-read round (or a
+  targeted oracle probe on the Brooke sequence) should check whether it reads as
+  care or as one script-analysis paragraph too many.
+- **Cross-clone reconciliation (2026-07-31, second session).** The author walked
+  all 24 of the day's changes (both clones) one by one. Rulings that adjust the
+  warmth/de-operator pass above — these supersede where they conflict:
+  - *Waiter-please passage restored verbatim* ("the voice she said *please* in
+    when she asked a waiter for a glass of water…") — the recast stated the idea
+    the image dramatized, and the waiter was a panel-confirmed positive. Do not
+    re-abstract.
+  - *"…and she had not yet figured out what to do with that" restored* (no-hurry
+    paragraph) — ruled low-operator (observation of her agency, no plan/
+    instrument/vindication marker); the warmth recast moved the beat's weight off
+    her.
+  - *"He was showing her what the next hour would be."* — author's own recast:
+    "the map of" cut (surveyor register) but the showing kept concrete; replaces
+    the warmth-pass "no clock on her tonight" version.
+  - *Intention line*: "He **wanted**, before the night was out, to take the gloss
+    well past itself" — warmth verb kept, original object restored ("take the
+    gloss past itself" acts on the surface, not the woman; ruled no operator
+    problem).
+  - *Wanted-position trio restored + new five-word bridge* ("…She had spent her
+    whole adult life there. **The bench was not there.**"). The needing-position
+    aphorism stays CUT per the unanimous rereads; the bridge renders the
+    displacement as pure subtraction, destination unnamed. Do not restore the
+    aphorism; do not name the needing pole.
+  - *Kitchen offering de-nouned to "her breasts asking for his hands"* — the
+    chapter's first ask now lives in her body; "offering" appears once, at the
+    appraisal. (Also this session: priming-press response "a sound came out of
+    her"; scent-logic fixes; razor-not-wax legs; question marks per the
+    flat-interrogative ruling.)
+  - Everything else in the warmth/de-operator/mirror pass confirmed as-is,
+    including the mirror expansion ("twenty-one years" kept) and the full coda.
 - **Seven-months/three-weeks line — cut tested and ruled KEEP (2026-07-31).**
   A targeted experiment: the line was cut and the full four-model panel re-run
   fresh on the cut text (hypothesis: readers would warm substantially on Pace
