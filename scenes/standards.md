@@ -1,6 +1,6 @@
 # Standards
 
-The door of the house was unlocked. It always was at this hour, the sisters drifting in and out for breakfast or class or laundry. Randi closed it behind her quietly, which was already wrong. Randi did not close doors quietly. She closed them with the small unhurried click of a woman who knew the room was hers.
+The door of the house was unlocked. It always was at this hour, the sisters drifting in and out for Pilates or coffee or brunch. Randi closed it behind her quietly, which was already wrong. Randi did not close doors quietly. She closed them with the small unhurried click of a woman who knew the room was hers.
 
 The quiet was deliberate. She wanted the door shut before anyone in the common room turned around, wanted to be at the stairs and up them before the house registered that she was only now coming in, in last night's clothes, on a Saturday.
 
@@ -128,7 +128,7 @@ She lay down on her bed on her back, in last night's clothes, with her shoes sti
 
 She looked at the ceiling.
 
-The room was cold. The house was always cold at the corners in September. She had a duvet folded at the foot of the bed. She pulled it up over her legs and her chest, with the cardigan still buttoned and the shoes still on, and she lay under the duvet and looked at the ceiling. The duvet was the duvet. It was light and synthetic and adequate. It was not — it was a duvet. She lay under it.
+The room was cold. The house was lovely and old and did not hold its heat; the corners were always cold. She had a duvet folded at the foot of the bed. She pulled it up over her legs and her chest, with the cardigan still buttoned and the shoes still on, and she lay under the duvet and looked at the ceiling. The duvet was the duvet. It was light and synthetic and adequate. It was not — it was a duvet. She lay under it.
 
 *He's hard to say no to,* she had said, in the kitchen, when the girls had asked why she had agreed to go on a date with him. She had said it with the small laugh that meant *what could I do.* The girls had laughed back. The line had landed perfectly.
 
