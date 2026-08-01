@@ -29,10 +29,10 @@ with the author, item by item.
 20. fed — audited
 21. peekaboo — audited
 22. all-told — audited
-23. sorority — pending
-24. gone — pending
-25. rock — pending
-26. lesson — pending
+23. sorority — audited
+24. gone — audited
+25. rock — audited
+26. lesson — audited
 27. broken-in — pending
 28. hills-and-valleys — pending
 29. recognized-method — pending
