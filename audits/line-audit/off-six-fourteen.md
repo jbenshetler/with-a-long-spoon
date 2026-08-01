@@ -20,3 +20,10 @@
 - **Knowledge plausibility:** everything Vee reports (road, gravel, trail, real-shoes instruction) is attributable to the walk-back conversation; her not knowing whether he's rich ("I haven't been out there yet") is consistent with no house visit yet.
 - **Dialogue logic and pronouns:** every reply answers the prior line; all "he" = Pace, all "she" = clear from turn-taking; no attribution errors.
 - **Tense/time:** consistent past tense; single continuous late-evening span; no elapsed-time contradictions.
+
+## Rulings (2026-08-01)
+
+1. Left standing (triaged) — the "walking us on" → "walking away" drift is designed: Vee upgrades the story mid-telling so "I did it. Me." lands maximal; do not align with canon.
+2. Left standing (no record) — "a few days" is natural self-quote drift, of a piece with item 1's retelling texture; the rule's shape carries recognition.
+3. Left standing (no record) — "wouldn't stay sitting down" places her retroactively at the moment the seat matters; bean-bag landing supplies the furniture.
+4. Fixed — stale "(8b)" dropped from the header.

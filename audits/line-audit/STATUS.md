@@ -15,7 +15,7 @@ with the author, item by item.
  6. long-way — reviewed
  7. water-wings — reviewed
  8. may-i-choose — reviewed
- 9. off-six-fourteen — audited
+ 9. off-six-fourteen — reviewed
 10. dear — audited
 11. leave-no-trace — audited
 12. rye — audited
