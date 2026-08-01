@@ -17,3 +17,12 @@ Cross-checks passed: Sun Sep 27 lands on a real Sunday in the hidden 2026 calend
 5. **nitpick** — "A rock at the trail-edge, knee-high, dry… She stepped over and turned and sat up on it. Her feet didn't reach the ground." (~lines 47–49). Seated on a knee-high rock, an adult's feet reach the ground by definition; the dangling feet need a taller rock (the elevation geometry the brief wants would survive "thigh-high"). Recommended: raise the rock or drop the feet-not-reaching detail.
 
 6. **nitpick** — "The console was folded up between the seats — old truck, the bench unbroken across" (~line 195). "Between the seats" and "the bench unbroken across" pull against each other (a bench has no "seats" plural with a between); the parenthetical is doing repair work on its own noun phrase. A fold-up bench armrest is real hardware, but the phrasing makes a reader re-parse. Recommended: name it as the bench's fold-up armrest (or similar) rather than a console "between the seats."
+
+## Rulings (2026-08-01)
+
+1. Fixed — geometry sided with the gallantry (author: the fire-lane park is so she doesn't get wet; the siren's only job is cutting the goodbye): truck stays under the overhang; exit line now "She pushed the door open and she went, the three steps to the doors." (rain-in and "to the dry" cut; "loud over the rain" kept as ambient downpour past the canopy).
+2. Fixed — "Keeps the bread from going through" → "Keeps the wet from going through" (Pace-precise physics).
+3. Fixed — "curve" removed at author direction: "up the drive to the entrance" (:251), "down the drive" (:263); kills the curb near-collision at the root.
+4. Left standing (no record) — "He was already in" is POV-time: the roof-drum sentence absorbs her attention while he rounds the truck.
+5. Fixed — "A rock at the trail-edge, knee-high, dry" → "A boulder at the trail-edge, dry" (author: boulder, height dropped; dangling feet set the height implicitly).
+6. Fixed — console "between the seats" → "into the seatback" (bench-true hardware).

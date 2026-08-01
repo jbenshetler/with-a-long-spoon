@@ -46,7 +46,7 @@ Two steps back down to her. He looked at the trail, then up past her at somethin
 
 "Here. Sit up on this one."
 
-A rock at the trail-edge, knee-high, dry. She stepped over and turned and sat up on it. Her feet didn't reach the ground. He crouched in front of her. The pack came off his shoulder and down onto the trail.
+A boulder at the trail-edge, dry. She stepped over and turned and sat up on it. Her feet didn't reach the ground. He crouched in front of her. The pack came off his shoulder and down onto the trail.
 
 Her stomach clenched before she knew why. He was going to take her boot off. He was going to take her *sock* off. Her foot had been in that boot forty minutes and the sock was going to be — the word came up in her mother's voice, the whole verdict, *what kind of girl lets a man* — her face went hot and she opened her mouth —
 
@@ -86,7 +86,7 @@ They sat on the rock at the edge of it.
 
 He pulled sandwiches from the pack, wrapped in wax paper twisted at the ends, and handed her one. The paper smelled of itself and then the sandwich smelled through it — a dark bread first, deeper and more sour than the soft white loaf at home, with seeds in it she had no name for, and under the bread the sharp clean bite of mustard, sharper than the yellow kind out of the bottle, and under the mustard, climbing, a vapor with a heat in it that found the back of her nose before she'd taken a bite of anything.
 
-"Made them this morning," he said. "Lettuce against the bread. Keeps the bread from going through."
+"Made them this morning," he said. "Lettuce against the bread. Keeps the wet from going through."
 
 She didn't have anything to do with that but eat. She bit.
 
@@ -192,7 +192,7 @@ And under it, slower — *I want him to see me.*
 
 The voice came up. The voice said all of it. *Girls who do this. Girls in trucks. What kind of. Three dates. Three dates and you'd — your mother. Your mother would.* It landed and landed, and her body answered each one with a low pull of heat under the cold, the heat that knew the voice was right, that wanted to be the very thing the voice said, wanted it with him, wanted him watching her be it.
 
-She came up onto her knees on the bench. The console was folded up between the seats — old truck, the bench unbroken across — and she came up and turned to face the driver's side. Her hand went to her face. A wet curl had come down across her forehead and she pushed it back and tucked it behind her ear and her hand dropped. She set the flannel down beside her, folded, ready.
+She came up onto her knees on the bench. The console was folded up into the seatback — old truck, the bench unbroken across — and she came up and turned to face the driver's side. Her hand went to her face. A wet curl had come down across her forehead and she pushed it back and tucked it behind her ear and her hand dropped. She set the flannel down beside her, folded, ready.
 
 She leaned across the bench. Her hair fell forward. She rapped on the driver's window with her knuckles, three quick, and it carried through the rain.
 
@@ -248,7 +248,7 @@ The drive was mostly quiet. Somewhere in the second mile the heat caught up with
 
 ---
 
-The rain was still coming when he pulled up at her dorm. He didn't take a real spot. He pulled the truck up onto the curve at the entrance — the fire lane, the red-painted curb — and stopped under the overhang where the rain wasn't, and put it in park, and turned to her.
+The rain was still coming when he pulled up at her dorm. He didn't take a real spot. He pulled the truck up the drive to the entrance — the fire lane, the red-painted curb — and stopped under the overhang where the rain wasn't, and put it in park, and turned to her.
 
 He'd parked illegal so she wouldn't have to cross the rain.
 
@@ -258,9 +258,9 @@ Her hand was on the door. She turned to him. The thing she wanted to say was big
 
 Blue and white came on behind them, strobing in the rain across the back glass. The campus cop, pulled up behind, lights going. Pace checked the mirror. He looked back at her. He started to say something.
 
-The siren squawked — one short electronic bark, loud over the rain, loud in the cab — and it took the rest of her sentence with it. Her hand was already on the door. Her body had already heard the siren and gone. She pushed the door open and the rain came in and she went, the three steps to the dry under the overhang.
+The siren squawked — one short electronic bark, loud over the rain, loud in the cab — and it took the rest of her sentence with it. Her hand was already on the door. Her body had already heard the siren and gone. She pushed the door open and she went, the three steps to the doors.
 
-She turned. He was already pulling away, slow, the lights still going behind him, and the cop pulled out after him, and the two sets of taillights went down the curve and onto the road and were gone.
+She turned. He was already pulling away, slow, the lights still going behind him, and the cop pulled out after him, and the two sets of taillights went down the drive and onto the road and were gone.
 
 The rain came off the gutter at the edge of the roof in a sheet in front of her. She was in his flannel. Her jeans were soaked through. Her wet shirt was balled in her hand. Her hair hung down her back in a rope. The square of foam was still on her heel, holding.
 
