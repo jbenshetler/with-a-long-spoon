@@ -4,7 +4,7 @@
 
 ---
 
-The stats lecture met in one of the tiered rooms on the second floor of the math building, the kind built for a hundred and seating sixty, the seats bolted in pairs to a shared table that ran the length of each tier, chairs that swung out and swung back and went nowhere else, so that whoever you sat next to was whoever the row gave you. Vee got there early, as she always did, and took her usual two-thirds of the way back, on the aisle, with Cassie beside her unpacking a granola bar and the wrong textbook and then the right one. The room filled in its slow morning way. The professor was at the front doing the thing he did before every class, scrolling his slides forward and back, forward and back, a man checking that the road was still there.
+The stats lecture met in one of the tiered rooms on the second floor of the math building, the kind built for a hundred and seating sixty, the seats bolted in pairs to a shared table that ran the length of each tier, chairs that swung out and swung back and went nowhere else, so that whoever you sat next to was whoever the row gave you. Vee got there early, as she always did, and took her usual two-thirds of the way back, with Cassie beside her unpacking a granola bar and the wrong textbook and then the right one. The room filled in its slow morning way. The professor was at the front doing the thing he did before every class, scrolling his slides forward and back, forward and back, a man checking that the road was still there.
 
 Vee got her notebook open and her pencil out and did not look at the door. She had decided not to look at the door. She had decided this on the walk over, and again on the stairs, and was now in the third minute of not looking at the door.
 
@@ -68,7 +68,7 @@ Randi was getting up.
 
 "Yeah," she said, and got most of the eagerness folded down. "Yeah, sure, I could do coffee."
 
-"*Yes.*" Randi turned the wattage. "Okay, good, this is the best decision I've made all day and it's eleven-fifteen." Then, to Cassie, the warmth swinging over again, generous, complete: "Cassie. Come."
+"*Yes.*" Randi turned the wattage. "Okay, good, this is the best decision I've made all day and it's eleven-fifty." Then, to Cassie, the warmth swinging over again, generous, complete: "Cassie. Come."
 
 Cassie was already standing, the wrong textbook back in her bag, her ball cap pulled out of the side pocket and set on her head, the brim low. She was in shorts and yesterday's shirt and the cap and she looked exactly like what she was, which was a person who had a lab at noon and no particular feelings about the yellow one on Draper.
 
@@ -132,6 +132,6 @@ When the cups were empty Randi looked at her phone and said *oh no, I have a mee
 
 "Yeah," Vee said. "See you."
 
-And Randi turned and went up Draper in the bright cool morning, the ponytail not moving, and Vee stood under the sign she had finally been let in under, holding an empty white cup, spinning a little, the *later* doing in her chest what the right pen had done and the high table had done and the whole sweet hour had done. Already the words were going. She reached for a single thing Randi had actually said and came up with none of them. What she had was *love you, girl,* and *see you later,* and the hand flat on her back, and that she had been chosen, plainly, for reasons she didn't need to understand, by exactly the person she'd have chosen to be chosen by.
+And Randi turned and went up Draper into the bright cool day, the ponytail not moving, and Vee stood under the sign she had finally been let in under, holding an empty white paper cup, spinning a little, the *later* doing in her chest what the right pen had done and the high table had done and the whole sweet hour had done. Already the words were going. She reached for a single thing Randi had actually said and came up with none of them. What she had was *love you, girl,* and *see you later,* and the hand flat on her back, and that she had been chosen, plainly, for reasons she didn't need to understand, by exactly the person she'd have chosen to be chosen by.
 
 Vee dropped the cup in the bin on the corner and went home the long way, in no hurry at all, warm the whole way there.

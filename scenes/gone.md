@@ -1,6 +1,6 @@
 # Gone
 
-*Pace's POV, close third. Post-coital, Pace's bedroom, Monday Oct 19 (after {{Sorority}}, before {{Rock}}). The woman is **Randi**; Vee does not appear — they talk about her. The first tender Pace/Randi scene (the Bench was BDSM): warm and true on first read, cold only on reread. The shoe-store retelling is Randi's **embellished** version of the {{Sorority}} afternoon (dual-account unreliability — soft-register divergence, never adjudicated). Fifth draft.*
+*Pace's POV, close third. Post-coital, Pace's bedroom (after {{Sorority}}, before {{Rock}}). The woman is **Randi**; Vee does not appear — they talk about her. The first tender Pace/Randi scene (the Bench was BDSM): warm and true on first read, cold only on reread. The shoe-store retelling is Randi's **embellished** version of the {{Sorority}} afternoon (dual-account unreliability — soft-register divergence, never adjudicated). Fifth draft.*
 
 ---
 

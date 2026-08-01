@@ -1,6 +1,6 @@
 # May I Choose
 
-*[SCENE / half-scene] · early fall · ~Sat Sep 26 · the second date · Vee's POV*
+*[SCENE / half-scene] · early fall · the second date · Vee's POV*
 
 ---
 

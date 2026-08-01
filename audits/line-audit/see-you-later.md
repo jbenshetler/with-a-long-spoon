@@ -22,3 +22,12 @@
 - Dialogue logic: every exchange (Cassie's "You keep looking at the door," the name-bit and its flat return, the Chi Latte invite/decline, "Goodbye, Vee" vs. "see you at home") responds coherently; "Goodbye, Vee" is the planned seeded warning, not an error.
 - Sign gag: Vee knowing the shop by sight for two years but only decoding **Χ ΛΑΤΕ** after hearing Randi say the name is internally consistent.
 - Flash-forward ("She tried, later… the next day when Cassie asked") is deliberate and doesn't contradict "see you at home in two hours."
+
+## Rulings (2026-08-01)
+
+1. Fixed — dropped Vee's "on the aisle" (usual seat now unpositioned; Randi's aisle seat + mid-row sidestep cohere).
+2. Fixed — "bright cool morning" → "into the bright cool day"; related author ruling: stats lets out 11:50 (canon), "eleven-fifteen" → "eleven-fifty".
+3. Left standing (triaged) — "that house" deliberate: the sorority is never named (authorial choice, narrative stronger unnamed); Vee knows Randi is in a top-ranked sorority.
+4. Left standing (no record) — one drink named by format (narration) and flavor (Randi); line 117 fuses them.
+5. Fixed — "empty white paper cup" (one word; kills the ceramic-in-the-bin read).
+6. Fixed — chronology `present:` now Vee, Randi, Cassie.
