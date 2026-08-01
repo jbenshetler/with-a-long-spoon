@@ -54,3 +54,29 @@
 - **Calendar:** Sat Oct 3 (hidden-year 2026) is a real Saturday; hike Sun Sep 27 → "sleeping in that shirt all week" and "breakfast on Tuesday" (Sep 29) both work.
 - **Cross-scene facts confirmed:** silk-naming over the cherries on the summit rocks (`leave-no-trace.md` 121–137); the mirror beat with the silk at her face (`two-towels.md` 105); "I couldn't find a shirt I liked, so I made one" verbatim (`two-towels.md` 123); the no-tag shirt; the riser/box; bra-off order and "It changes the line" (`a-round.md` 21–28); heat-turned-up-hours-before (`a-round.md` 19); knees-for-the-hem and top-down measuring; shirt-off count of two; "never seen naked" (true — only kissed, first kiss at {{May I Choose}}); Cassie's "built" knowledge from {{Rye}} supporting the bodybuilder/powerlifter exchange; Vee's powerlifter knowledge (seeded at {{What to Wear}}); dress unfinished at scene end matching header and chronology.
 - Dialogue logic elsewhere tracks (the Yes/No at line 99 answers Cassie's double question; the pivots at 75 and 179 are motivated).
+
+---
+
+## Author rulings (2026-08-01)
+
+1. Felt-package/grinding vs. {{A Round}} — LEFT STANDING: grinding confession
+   is sourced (a-round.md:200); the package is Vee's canon-protected comic
+   embellishment. Do not seed hardness into A Round. See triage.
+2. Doubled "up again" — FIXED: desk lean added at the heat-confession quiet
+   (:71), movement clause dropped at :75; :87's "up again" now earned.
+3. Cassie chair→bed gap — FIXED at the root: Cassie starts the scene on her
+   bed (:7); no migration needed.
+4. Doubled bed-sit — FIXED: :49 seats Vee in her desk chair; :137's "Just
+   the edge" is now the first bed contact.
+5. "When she changed" unanchored — LEFT STANDING: guessable reading is
+   correct; a time-stamp would flatten the closing image. See triage.
+6. Unattributed "And he just —" — LEFT STANDING: prompt-and-completion duet.
+   See triage.
+7. "Living room" vs. sun porch — LEFT STANDING: Cassie's comic compression.
+   See triage.
+8. "You did?" re-litigating {{Rye}} — FIXED: now "You did." (acknowledgment,
+   not news-surprise).
+9. Pillow source — LEFT STANDING: geography supplies it post-blocking-fix.
+   See triage.
+
+Standing rulings recorded in meta/meta-triage-turned-up.md.

@@ -22,7 +22,7 @@ with the author, item by item.
 13. what-to-wear — reviewed
 14. two-towels — reviewed
 15. a-round — reviewed
-16. turned-up — audited
+16. turned-up — reviewed
 17. how-its-done — audited
 18. famished — audited
 19. toenails — audited

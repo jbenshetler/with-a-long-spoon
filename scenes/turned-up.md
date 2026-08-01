@@ -4,7 +4,7 @@
 
 ---
 
-Cassie was at her desk with a highlighter when Vee came in, and she looked up once, and then she put the highlighter down.
+Cassie was on her bed with a textbook and a highlighter when Vee came in, and she looked up once, and then she put the highlighter down.
 
 "Well?" she said.
 
@@ -46,7 +46,7 @@ Vee pointed at her. "Don't."
 
 Cassie pulled her knees tighter, the small smile settling in. "Did he make that too?"
 
-"I didn't know until today." Vee sat down on the edge of the bed. "There's no tag in it. I went looking the first night I had it, turned the whole thing inside out — no brand, no size, nothing. And it's the softest thing I own, and it's made better than anything I've ever paid for, and none of it added up. So I gave up on it. Filed it under weird things about him." She shook her head. "He said he couldn't find a shirt he liked, so he made one."
+"I didn't know until today." Vee dropped into her desk chair. "There's no tag in it. I went looking the first night I had it, turned the whole thing inside out — no brand, no size, nothing. And it's the softest thing I own, and it's made better than anything I've ever paid for, and none of it added up. So I gave up on it. Filed it under weird things about him." She shook her head. "He said he couldn't find a shirt he liked, so he made one."
 
 "So he made one," Cassie repeated.
 
@@ -68,11 +68,11 @@ Cassie went very still.
 
 "Standing there," Vee said. "He turned it up hours before, probably. As soon as he knew I was coming. He thought of it then."
 
-The room was quiet.
+The room was quiet. Vee leaned back against the edge of her desk, half sitting.
 
 "Oh, Vee," Cassie said, and her face had gone soft with it.
 
-Vee laughed, quickly, and moved away from the window. "Anyway. He measured first. To get the fit right."
+Vee laughed, quickly. "Anyway. He measured first. To get the fit right."
 
 Cassie let the pivot happen. She was good at that. "Measured how? Like — all over? The whole — "
 
@@ -132,7 +132,7 @@ Cassie caught it, laughing, and hugged it. "I'm serious! The rain — "
 
 "I locked eyes with him." A beat. "And then I let him look."
 
-Cassie stopped laughing. The warmth in her voice had changed its key. "You did?"
+Cassie stopped laughing. The warmth in her voice had changed its key. "You did."
 
 Vee sat down on the edge of Cassie's bed. Just the edge. She pressed her palm flat against the comforter and left it there.
 
