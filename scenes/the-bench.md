@@ -12,7 +12,7 @@ She came in past the kitchen and put her bag on the chair by the door — the sm
 
 "Hi," he said.
 
-She came to him and put her arms around his waist and tilted her face up. He bent and kissed her, brief, warm, the kiss he gave her when she came in the door. He started to back off — that was what he did, he backed off and let her decide — and she did what she had started doing, which was to lean in and bring her mouth back to his and kiss him harder, her hands sliding up his back, and he let her have what she had come for.
+Her arms slid down to his waist. He bent and kissed her, brief, warm, the kiss he gave her when she came in the door. He started to back off — that was what he did, he backed off and let her decide — and she did what she had started doing, which was to lean in and bring her mouth back to his and kiss him harder, her hands sliding up his back, and he let her have what she had come for.
 
 He pulled her in, the length of her against the length of him, one hand coming down to the curve of her ass through the thin skirt and resting there, then pressing, and she murmured against his mouth.
 
@@ -34,7 +34,7 @@ He had told her, when she toured the house, that he had built the furniture. She
 
 He could see the missing inference every time she came in. He did not press it. The inference would arrive when it arrived, or it would not.
 
-He took the small bowl out of the refrigerator, the one he had sliced the apple into before she got there. The apple was a honeycrisp. He had sliced it thin because she would eat thin slices and would not eat thick ones, and he had laid the slices in the bowl with the cut sides up because last he had noticed that she ate them faster when the cut sides showed.
+He took the small bowl out of the refrigerator, the one he had sliced the apple into before she got there. The apple was a honeycrisp. He had sliced it thin because she would eat thin slices and would not eat thick ones, and he had laid the slices in the bowl with the cut sides up because he had noticed that she ate them faster when the cut sides showed.
 
 He set the bowl on the kitchen table.
 
@@ -42,7 +42,7 @@ He set the bowl on the kitchen table.
 
 She looked at the apple. He watched the thing behind her face that policed her relationship to food run through whatever calculation it was running. Apples were permitted. Her mother lived on egg whites and tofu, a thing she said with a knife in it, and her sorority took only girls built to the one scale; he had seen them. Apples were on the safe side of the line both had drawn. She came over to the table.
 
-She sat before he did, across from him at the little table. Her brows drew together, and he watched her think better of it. She stood, and circled one finger in the air for him to turn the chair. He turned it away from the table and sat with his thighs together, where she wanted him. Being directed by her pleased him. He kept that off his face, mostly. 
+She sat before he did, across from him at the little table. Her brows drew together, and he watched her think better of it. She stood, and circled one finger in the air for him to turn the chair. He turned his chair away from the table and sat with his thighs together, where she wanted him. Being directed by her pleased him. He kept that off his face, mostly. 
 
 She straddled him.
 
@@ -168,7 +168,7 @@ Not to move her. To have her, and to look at her while he did. He started with t
 
 He brought his hands up the fronts of her thighs, and the pale skin went faintly gold where the lamp caught the rise of them, over the small rounded hip bones and the shallow hollow inside each, over the flat plane of her stomach and the soft give at its center, the very small rise of belly her tending permitted and no more. Her breath went uneven under his palm. She clasped her hands behind her back, to still them, he thought, the way she had not been able to still them all night, and the clasping drew her shoulders back and lifted her breasts and pulled the whole front of her long and taut, and the stilling of her hands became, without her deciding it, an offering — one he could see as plainly as feel.
 
-He looked at them while he took them. Small, and high, upturned in a way that had made nothing of the expensive bra they had spent the evening inside; he cupped the warm weight of them from below, soft and lifting into his hands, his fingers pressing in and softly distorting them, and caught her nipples between his fingers — cocoa-brown, and already tight, from the kitchen, from the bench, from nothing he had done yet. She gasped when he rolled them, and he watched the brown deepen under his thumbs, the areolae drawing tight, the flush climbing pink up her chest and throat. She made the sound again.
+He looked at them while he took them. Small, and high, upturned in a way that had made nothing of the expensive bra they had spent the evening inside; he cupped the warm weight of them from below, soft and lifting into his hands, his fingers pressing in and softly distorting them, and caught her nipples between his fingers — cocoa-brown, and already tight, from the kitchen, from the bench, from how little it had taken. She gasped when he rolled them, and he watched the brown deepen under his thumbs, the areolae drawing tight, the flush climbing pink up her chest and throat. She made the sound again.
 
 He slid one hand down between her legs, over the bare waxed cleft, smooth and pale and already gleaming faintly where she was slick, and felt the first of her gathered at the seam, and pressed there once, and a sound came out of her. He took his hand away. Greed now would spend the night early, and there was better ahead of her, and he meant her to have it.
 
@@ -500,7 +500,7 @@ He held her. He could feel her heartbeat slowing against his ribs. He brushed he
 
 She flinched. Involuntary, the kind of flinch a body makes when something lands somewhere it was not braced for. He felt it run through her against his chest. 
 
-She did not say anything. She did not look up. After a moment she turned her face slightly further into his shoulder, where he could not see it.
+She did not say anything. She did not look up. She put her head back against his shoulder. After a moment she turned her face slightly further in, where he could not see it.
 
 "I need the bathroom," she said.
 

@@ -88,6 +88,21 @@ superseded draft.
   direction: do not cut it, and do not extend the mother connection further in
   this scene.
 
+- **Pace's vantage in the Brooke sequence (line-audit 2026-07-31) — left standing.**
+  A sentence-level audit flagged the unnarrated move from behind her to her head
+  and the sightline claim ("Wet enough that I can see it from where I'm
+  standing") as marginal geometry. Author ruling: the sightline is not
+  precluded (bent-standing at the head end, knees spread), the dialogue
+  self-certifies the vantage, and five cold readers never snagged. Do not
+  re-litigate positional logistics in this sequence.
+- **"Hang from the grips" / upside-down face (line-audit 2026-07-31) — left
+  standing.** The audit read the phrase literally (a head can't hang from
+  handgrips; a face in the cradle isn't inverted to a crouching viewer).
+  Author ruling: the hanging is figurative — she is gripping hard, pushing
+  into the grips, arms loaded, the head released into that frame; "from the
+  grips" names the load path. "Upside-down"/"inverted" is Pace's impression
+  of the hanging, hair-fallen face. Do not re-flag.
+
 ## What the panel confirmed (no action; for the record)
 
 All four readers, independently: the split-ledger Pace effect (seduced, then
