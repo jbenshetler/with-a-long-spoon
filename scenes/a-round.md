@@ -45,6 +45,8 @@ His eyes dropped — just for a moment, just to the two points she couldn't do a
 
 ---
 
+She saw the riser then — low, clean-edged, set where the light fell, the room arranged around it. She knew without being told that she was supposed to be on it. She crossed to it barefoot and stepped up, and the step raised her bare top into the full reach of the afternoon light, nowhere on the box to be anything but seen. Then her feet caught up with her — the wood under them smooth as fine furniture, finished; of course there was a riser in the corner of a woodworker's house, of course he'd built it.
+
 He started at the top, and he started gently, the way you'd gentle a horse — the measurements that didn't mean anything first.
 
 Neck to shoulder. He set two fingers at the base of her throat to anchor the tape and laid his other hand flat along the top of her shoulder to carry it out, both hands on her at once, warm, brief, and then he stepped back to the little table and wrote the number down. The stepping-away was the thing. He came close, he touched her in two places, he held her inside that closeness for the length of a breath, and then he withdrew entirely and made a mark on a pad, and the withdrawal left the place his hands had been ringing.
@@ -121,7 +123,7 @@ She drank her tea inside the blanket he'd thought to give her and watched a powe
 
 ---
 
-"Back up," he said, when the panels were cut. He said it gently. She set down the mug and let the blanket fall and stepped back onto the low platform — of course there was a clean-edged little riser in the corner of a woodworker's house, of course he'd built it — and he began to build the dress on her.
+"Back up," he said, when the panels were cut. He said it gently. She set down the mug and let the blanket fall and stepped back onto the low platform, and he began to build the dress on her.
 
 He built from the top down. A panel pinned at her shoulder, smoothed down her front, his palm flat over the silk reading the lie of it against her, a pin set at the dart, another. She had thought of herself, climbing back up on the box, as a kind of living dress form — a stand to drape silk over, no different in function from the wooden riser under her feet, only more convenient. The thought had been a comfort, briefly. It had let her depersonalize the next hour, lend her own body out to the work, stand inside it without having to be the woman it belonged to. The thought did not last.
 

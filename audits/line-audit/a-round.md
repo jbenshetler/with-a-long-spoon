@@ -26,3 +26,24 @@
 - **Dialogue logic:** the measurement-change question → "I don't know" → the "pre-aroused" joke chain is coherent; all attributions clear.
 - **Tense/POV:** consistent past-tense Vee POV; no head-hopping; no unearned knowledge (all inferences about Pace are marked as her reading of him).
 - **Environment:** afternoon light, over-warm house (continuous from {{Two Towels}}), heater sound — consistent throughout.
+
+---
+
+## Author rulings (2026-08-01)
+
+1. Riser missing at first mount — FIXED (author-directed beat): she reads the
+   room's arrangement, mounts unprompted, and her bare feet deliver "of course
+   there was a riser in the corner of a woodworker's house, of course he'd
+   built it"; later re-mount says "stepped back onto the low platform."
+2. Bare breast vs. bodice/kneeling geometry — LEFT STANDING (pin-fit front
+   panel, sides open; the lean is hers and on the page). See triage.
+3. "Hadn't looked down once" scope — LEFT STANDING (bounded to the crisis
+   stretch; her free-indirect relief). See triage.
+4. "The wine the color of the cloth" — LEFT STANDING (figurative compression;
+   silk is burgundy, color-true). See triage.
+5. Seam endpoints hip-to-floor vs. to-knee — LEFT STANDING (asymmetry is his
+   restraint; not trouser seams). See triage.
+6. Free-floating "Wryly." — LEFT STANDING (her tone-tag on her own joke). See
+   triage.
+
+All standing rulings recorded in meta/meta-triage-a-round.md.
