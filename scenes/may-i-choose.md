@@ -70,7 +70,7 @@ It was sharp — green and sour and bright, lemon and something cold and clean u
 
 So she ate. She wasn't watching herself eat, as some part of her almost always was, and she didn't notice she'd stopped. He didn't seem to notice either, or to think there was anything to notice.
 
-He moved on to the other one, a new piece of bread, and scooped a little of the tan dip under its dusting of red-brown spice and tiny pale nuts. It was the opposite of the first: cool and smoke-dark and soft, the smoke filling her whole head, and she imagined, dimly, that he'd chosen them to go together like that — the bright thing and the dark thing, one to wake you and one to fold you under.
+He moved on to the other one, a new piece of bread, and scooped a little of the dark dip under its dusting of red-brown spice and tiny pale nuts. It was the opposite of the first: cool and smoke-dark and soft, the smoke filling her whole head, and she imagined, dimly, that he'd chosen them to go together like that — the bright thing and the dark thing, one to wake you and one to fold you under.
 
 It was the right hand again, a pattern now, enough times over to be one: always the right, never the other, some consistent rule he kept without seeming to think about it, one more thing he knew that she didn't.
 
@@ -96,7 +96,7 @@ He walked her back the long way, and the softness came with her — that low war
 
 "I don't kiss a man I've known a couple of days," she said. It was out before she'd decided to say it — a rule that had never been breached before. She heard how it sounded, and half meant it.
 
-It was the old reflex, the part of her that always caught the thread before it could drop, that knew where the lines were and stayed inside them. The same part that had gone quiet at the table without her noticing. It came back now, here, at the worst possible moment, with its rule already in her mouth — and the ease of letting it go again pulled at her, distinct and close. She'd done it an hour ago over a glass of tea and the world hadn't ended. She had liked it. She had liked it more than almost anything.
+It was the old reflex, the part of her that always caught the thread before it could drop, that knew where the lines were and stayed inside them. The same part that had gone quiet at the table without her noticing. It came back now, here, at the worst possible moment, with its rule already in her mouth — and the ease of letting it go again pulled at her, distinct and close. She'd done it an hour ago over warm bread and the world hadn't ended. She had liked it. She had liked it more than almost anything.
 
 He didn't argue. He didn't do anything she'd braced for — no lean, no charm turned up, no patient little wait for her to change her mind. He just smiled, like she'd told him something true and fine about herself, and let it close, and started them gently back along the path, her hand drawn along with his.
 

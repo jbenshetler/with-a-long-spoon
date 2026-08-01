@@ -41,3 +41,11 @@
 - **Christine, coat, night walk, moonlight, campus route:** no contradictions; the coat is unestablished earlier but nothing contradicts it.
 - **Pronouns and dialogue attribution:** clear throughout; every reply answers the prior line (Cassie's "He's not making you wait" answers the delay-comparison Vee then articulates).
 - **Tense:** consistent past throughout; the section-two opener's pluperfect frames are correct.
+
+## Rulings (2026-08-01)
+
+1. Mooted — header dates stripped repo-wide (2026-08-01 convention: chronology owns dates); Sat Sep 19 stands in the chronology.
+2. Fixed (author wording) — "over a glass of tea" → "over warm bread": true to the staging (tea is the waking agent), and both kiss-moment callbacks (the letting-go, the hand) now point at the same table image.
+3. Fixed — "the tan dip" → "the dark dip": three dishes are ordered (her hummus, his baba ghanoush + tabbouleh); the line had fused hummus's color with baba's taste; the bright/dark pairing is his two dishes by design.
+4. Left standing (no record) — "the right hand again" is POV summary of accumulated watching; "enough times over to be one" supplies its own antecedent; planted motif lands when Vee consciously registers it.
+5. Left standing (no record) — gripping the hot cage past the explained handle is the beat: sensation chosen over protection, legible only because the handle's purpose is stated.
