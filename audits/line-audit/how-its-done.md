@@ -25,3 +25,25 @@
 - **Deliberate contradictions, not errors:** Vee's "It was cold in the house" contradicting her own "he had the house warm for me" minutes earlier is the scene's trap, explicitly caught ("the ground had shifted somewhere a few sentences back"); her sanitized "I was completely fine" against `a-round.md`'s actual distress is her curated telling, flagged as such in the narration.
 - **Spatial/body continuity:** car geometry (curb pickup, gearshift lean, fire-lane drop), the sunglasses-into-hair, cashmere draped then leaned into, the jaw touch echoed at "her own jaw where the hand had rested," and the booth blocking (Randi in the corner, Vee across) are all internally consistent.
 - **Pronouns/attribution:** all unattributed dialogue resolves unambiguously to the two speakers; no referent errors found.
+
+---
+
+## Author rulings (2026-08-01)
+
+1. Noon lunch / golden-hour return — FIXED by de-clocking: dropped "at eleven
+   in the morning" (:13); wine quip now "If I have wine, I'll be facedown in
+   the stacks this afternoon…" — no anchors, plan still quietly dies.
+2. "Collar of the silk" vs. camisole — FIXED: wind opens "the collar of the
+   cashmere"; wrist-band clause ends at "there now."
+3. Rombauer never on page — FIXED: ":104 turning her wine glass" (glass kept:
+   the fidget is Randi's tell).
+4. Waiter materializes — LEFT STANDING: frictionless staff around Randi;
+   convention covers the elision. See triage.
+5. "All month" on Oct 4 — LEFT STANDING: performance-register intensifier.
+   See triage.
+6. "You said he's a looker" — LEFT STANDING: Randi saw Pace in
+   {{Substitution}}; "you said" is her laundering her own observation — a
+   tell. See triage.
+7. "Off Route 9" — FIXED: "off Prices Fork" (scene + condensed doc).
+
+Standing rulings recorded in meta/meta-triage-how-its-done.md.

@@ -18,7 +18,7 @@ The first off-campus brunch, where Randi extracts Vee's account of the Fitting w
 
 **Opening Movement (Drafted)**
 
-Mercedes at the curb, top down. Restaurant off Route 9, velvet-walled, sound-softened; Randi orders the Rombauer by name. Randi opens with the beautiful-idiot-and-the-Hermès-scarf story — *a little helpless can be a very good thing, done right.* Then the beam: *"You've had a face on since you got in the car. Tell me everything."* Vee produces the prepared version and feels the other thing strain underneath. Extraction begins: *"He measured you himself?"* The channel through which Randi first learns about the dress. 
+Mercedes at the curb, top down. Restaurant off Prices Fork, velvet-walled, sound-softened; Randi orders the Rombauer by name. Randi opens with the beautiful-idiot-and-the-Hermès-scarf story — *a little helpless can be a very good thing, done right.* Then the beam: *"You've had a face on since you got in the car. Tell me everything."* Vee produces the prepared version and feels the other thing strain underneath. Extraction begins: *"He measured you himself?"* The channel through which Randi first learns about the dress. 
 
 **Second Movement (Drafted Separately)**
 

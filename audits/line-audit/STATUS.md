@@ -23,7 +23,7 @@ with the author, item by item.
 14. two-towels — reviewed
 15. a-round — reviewed
 16. turned-up — reviewed
-17. how-its-done — audited
+17. how-its-done — reviewed
 18. famished — audited
 19. toenails — audited
 20. fed — audited
