@@ -42,7 +42,11 @@ chapters, and review the first `audited` chapter with the author.
      existing triage-doc pattern). The triage doc is the ONLY durable ledger:
      a re-run overwrites the report file, so an unrecorded ruling WILL be
      re-litigated (author ruling 2026-08-01). One compact line suffices for
-     nitpicks.
+     nitpicks. Triage docs are shared across instruments (cold-read panels,
+     scene reviews, this audit): label every entry with its instrument and
+     date, and mind the differing re-open conditions — cold-read verdicts
+     re-open on new reader evidence; audit verdicts re-open on a text edit
+     to the passage.
    - Append a `## Rulings (YYYY-MM-DD)` section to the report file — one line
      per item: fixed (how) / left standing (why) / no record.
 4. **Close out the chapter.** Mark it `reviewed` in STATUS.md; commit the
