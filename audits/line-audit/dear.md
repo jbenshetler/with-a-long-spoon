@@ -15,3 +15,11 @@ Cross-checks that passed: scene date (Fri Sep 25, stats day — MWF ✓ per `met
 4. **"Friday. A date." spoken on a Friday.** — The scene is internally pinned to Fri Sep 25; Randi's catastrophe opens "Friday. A date," which must mean the previous Friday (Sep 18). The weekday is never on the page, so most readers won't stumble, but anyone tracking the stats-day calendar reads a momentary "tonight?" ambiguity. Severity: nitpick. Recommend "last Friday" only if the author wants the calendar airtight; otherwise no action.
 
 5. **Vee's drink is in her hand, then "reached for" without a set-down.** — At Brooke's arrival Vee sits "with her pink drink sweating in her hand"; after the women leave, "She reached for her drink and found her hand not quite steady and set it down again." The intervening set-down is never shown (and Randi takes her hand mid-encounter, implying it happened). Severity: nitpick. Recommend a set-down beat during the encounter, or nothing — the gap is easy to bridge.
+
+## Rulings (2026-08-01)
+
+1. Fixed — unified to "chair(s)" (:81, :85, :113); author ruling: the throne joke runs on chair (a throne is a chair; a stool isn't).
+2. Fixed — "Brooke," Randi said **to the smile** (:81) binds the name to the front girl; and author ruling: the second woman is "taller," not "older" (junior/senior age gap is unreadable) — changed at :79, :83, :101.
+3. Left standing (no record) — "Was Cassie not coming?" is past-progressive, presupposing the exit; the costless afterthought inclusiveness is Randi characterization.
+4. Left standing (no record) — "Friday. A date." auto-resolves to last Friday; the story is a curated cover performance, rounded edges in character.
+5. Left standing (no record) — the drink's set-down is ordinary ellipsis; the reach implies it.

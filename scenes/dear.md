@@ -76,13 +76,13 @@ And Vee, who had meant to say *I made an exception,* who had the dignified versi
 
 "Randi!"
 
-It came from across the room, bright and certain, and Vee turned with the laugh still sitting on her mouth. Two of them, threading between the tables. The one in front was beautiful like the whole room, only more finished, her smile arriving a moment ahead of her. The second came a step behind, older, unhurried, a coffee in one hand and her eyes already moving in a slow, easy circuit of the table. Of Vee.
+It came from across the room, bright and certain, and Vee turned with the laugh still sitting on her mouth. Two of them, threading between the tables. The one in front was beautiful like the whole room, only more finished, her smile arriving a moment ahead of her. The second came a step behind, taller, unhurried, a coffee in one hand and her eyes already moving in a slow, easy circuit of the table. Of Vee.
 
-"Brooke," Randi said, warm, turning on the stool. "Hi."
+"Brooke," Randi said to the smile, warm, turning on the chair. "Hi."
 
-The older one's gaze finished its tour of Vee and handed back nothing but more smile. And Vee sat up on her high chair with her pink drink sweating in her hand and her feet not reaching the floor, and the bright thing she'd been holding went thin and careful, and the whole room remembered she was sitting in it.
+The taller one's gaze finished its tour of Vee and handed back nothing but more smile. And Vee sat up on her high chair with her pink drink sweating in her hand and her feet not reaching the floor, and the bright thing she'd been holding went thin and careful, and the whole room remembered she was sitting in it.
 
-"We missed you Thursday," Brooke said to Randi, warm, and it was only friendly, and still it set down on the table the fact of a Thursday Vee knew nothing about, a room and the girls in it, a whole bright week with its own private life that Vee was no part of and had never been asked to be. Up on her stool, she went very slightly the wrong size for the room.
+"We missed you Thursday," Brooke said to Randi, warm, and it was only friendly, and still it set down on the table the fact of a Thursday Vee knew nothing about, a room and the girls in it, a whole bright week with its own private life that Vee was no part of and had never been asked to be. Up on her chair, she went very slightly the wrong size for the room.
 
 Then Brooke turned the smile on Vee, and it went wider by some exact amount, and Vee, who was being smiled at as warmly as anyone had smiled at her all year, felt it take her measure, top to bottom, and stay warm the whole way. "And who's your new friend?"
 
@@ -98,7 +98,7 @@ And something went through Vee at that, at *dear friend,* at the cool, damp hand
 
 Brooke's smile took it all in, the *dear friend* and the cool hand on the table, and gave back nothing but more of itself. "We should all get dinner sometime," she said, which was lovely, and meant nothing, and was plainly the end of it.
 
-The older one had not said a word. She had drunk her coffee and watched, and now she gave Vee one last unhurried look, friendly enough, the look you turn on a thing once you are done turning it over, and then the two of them were moving off toward the door, a wave, a *love you* tossed back across a shoulder, and the bright matched crowd closed over them and they were gone.
+The taller one had not said a word. She had drunk her coffee and watched, and now she gave Vee one last unhurried look, friendly enough, the look you turn on a thing once you are done turning it over, and then the two of them were moving off toward the door, a wave, a *love you* tossed back across a shoulder, and the bright matched crowd closed over them and they were gone.
 
 The room seemed to let its breath out, or Vee did. She reached for her drink and found her hand not quite steady and set it down again.
 
@@ -110,7 +110,7 @@ And Vee, who had meant to apologize for the fright, found she didn't need to any
 
 Randi's phone lit on the table and she frowned at it. "Ugh. I have to go be a person." She was already swinging the good bag up onto her shoulder.
 
-They climbed down off the high stools and went out through the cold orange noise into the afternoon, and on the sidewalk Randi pulled her into the hug, quick and warm and complete, the cold-citrus smell of her and a hand flat between Vee's shoulder blades for a second, and Vee leaned into it like it was already a thing they did.
+They climbed down off the high chairs and went out through the cold orange noise into the afternoon, and on the sidewalk Randi pulled her into the hug, quick and warm and complete, the cold-citrus smell of her and a hand flat between Vee's shoulder blades for a second, and Vee leaned into it like it was already a thing they did.
 
 "Love you, girl," Randi said, and held her a second by the arms, the whole lit face on her, and then she was gone, radiant, back into the bright matched crowd she had come out of.
 
