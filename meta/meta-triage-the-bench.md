@@ -128,3 +128,20 @@ Claude readers. Findings and the author's rulings:
   see `meta-craft-pace.md` §Pride-in-effect, not possession. "gotten further
   into her" subsequently recast to "with his help, she had met more of herself…"
   — see `meta-note-the-bench.md`, de-operator pass.)
+- **Seven-months/three-weeks line — cut tested and ruled KEEP (2026-07-31).**
+  A targeted experiment: the line was cut and the full four-model panel re-run
+  fresh on the cut text (hypothesis: readers would warm substantially on Pace
+  without the premeditation fact). Result: the weirdo/creep read did vanish —
+  no fresh reader questioned the bench's construction, and all four took "For
+  you. Tonight" as romantic craftsmanship ("built for her") — but overall
+  suspicion did **not** drop; it relocated wholesale onto the Brooke maneuver
+  and the end-of-night misread. Trust levels, Heat 3 / Romance 2, unchanged.
+  The scene's suspicion load is over-determined; the line is not what costs
+  Pace sympathy. Author ruling: the line stays — the beat's impact and the
+  reread detonator are worth more than the null sympathy gain, and the line is
+  the only on-page carrier of "the plan predates the woman" (in its absence
+  readers uniformly believe the bench was built for Randi, false to canon).
+  The experiment's reads were discarded (working tree reverted to the
+  committed baseline panel, which matches the restored text; the OpenAI batch
+  cost history retains the runs). **Do not re-propose this cut without new
+  reader evidence.**
