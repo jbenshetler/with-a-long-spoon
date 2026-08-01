@@ -20,3 +20,9 @@
 - **Dialogue logic:** each line responds to its trigger — Cassie's "Tossers" to the heckles, "Go on… I'll be right here" to the deep-end moment; no attribution errors.
 - **Tense/timeline:** past tense throughout; "all afternoon" (the guardedness) is compatible with a Friday-afternoon pool visit; no elapsed-time contradictions.
 - **Pronouns:** all she/her references resolve cleanly except finding 1; "It barely got her" correctly reads as Vee.
+
+## Rulings (2026-08-01)
+
+1. Fixed by cut — "She had them banked." removed (author: "banked" doesn't carry the intended save/reserve sense; the blink and eyeroll already show the practiced armor; button was telling after showing).
+2. Left standing (no record) — towel rolled at the start of the walk down; "carried it down" places it; hands-on-autopilot is right anyway.
+3. Left standing (no record) — bench is deck furniture; the closing line's opposition is deck-vs-water, not a towel relocation.

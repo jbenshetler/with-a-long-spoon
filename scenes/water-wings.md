@@ -12,7 +12,7 @@ Cassie banged her locker shut and they headed out, Cassie looping the stretchy w
 
 Vee rolled her towel tight from one end, her hands still knowing how, and carried it down at her side — not up against her. She put her face on: chin level, shoulders open, the walk of a girl who had *meant* to arrive. The only way to the water ran the length of the bleachers, so she took it like an entrance.
 
-It came about halfway down, lobbed easy: "You won't need floaties with *those!*" — the bleachers breaking up behind it, the laugh that's really the guys applauding each other. Vee gave it a long blink, half her mouth pursing, less than a grimace. Then, further along, lazy as a summer breeze: "Legs for *days.*" That one got the eyeroll, unbothered, aimed at the ceiling. She had them banked.
+It came about halfway down, lobbed easy: "You won't need floaties with *those!*" — the bleachers breaking up behind it, the laugh that's really the guys applauding each other. Vee gave it a long blink, half her mouth pursing, less than a grimace. Then, further along, lazy as a summer breeze: "Legs for *days.*" That one got the eyeroll, unbothered, aimed at the ceiling.
 
 Cassie said it low, just for the two of them, still walking. "Tossers." A beat. "They will never know the love of a woman." And Vee laughed — more than the joke had earned, the game face breaking on it, fifty yards of held breath going out at once. Cassie could have pitched it up into the bleachers; she had the lungs, used them all rec season. She'd kept it for Vee.
 
