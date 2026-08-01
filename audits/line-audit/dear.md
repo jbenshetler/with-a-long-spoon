@@ -1,0 +1,17 @@
+# Line audit — dear (2026-07-31)
+
+**Verdict:** 5 issues found — 0 fix, 1 clarification, 4 nitpick. Structurally clean.
+
+Cross-checks that passed: scene date (Fri Sep 25, stats day — MWF ✓ per `meta-plan-chronology.md`); Vee's "Two days I'd known him" for the kiss (met Thu Sep 17 in {{Substitution}}, kissed Sat Sep 19 in {{May I Choose}} — exactly two days ✓); the dinner she recounts matches the {{May I Choose}} canon (walked there, tiny Middle Eastern place, unreadable menu, "May I choose?", kiss the same night ✓); "fine for two years" matches Vee as a junior with "two years already lived near campus" (`meta-arch-vivienne.md` ✓); "We missed you Thursday" (Sep 24) is consistent with Randi's Pace cadence costing her sorority nights; Randi's iced-bruise drink → "fingers cool and a little damp from the iced cup" ✓; weather/light arc (long clean light → gold afternoon) ✓; the older woman "had not said a word" is true across the encounter ✓; Cassie's exit, bags-on-shoulders ordering, the 50-minute class / 40-minute window, and the end-of-scene empty cup all hold.
+
+## Findings
+
+1. **Seating wobbles between "chairs" and "stools."** — "two tall chairs that left your feet hanging" / "settling onto the tall chair as though it were a throne" vs. later "turning on the stool," "Up on her stool," "They climbed down off the high stools." Same furniture named two ways across the scene; a prop-tracking reader can wonder whether seats changed. Severity: nitpick. Recommend picking one term (or one deliberate switch) for the window seats.
+
+2. **"Brooke" attribution is inferable but one beat loose.** — After "Two of them, threading between the tables" (front one young/finished, second one older with coffee), Randi says "Brooke ... Hi," and the very next sentence is "The older one's gaze finished its tour of Vee and handed back nothing but more smile." A reader can momentarily map "Brooke" onto the older woman before "Then Brooke turned the smile on Vee" re-sorts it. Severity: clarification. Recommend one small anchor tying the name to the front/younger one at the greeting.
+
+3. **Randi asks "Was Cassie not coming?" after apparently witnessing Cassie's goodbye.** — Cassie says "I'll see you at the dorm" and leaves while Randi "had her by the wrist"; a paragraph later Randi asks whether Cassie was coming. Readable as polite afterthought (Randi was fixed on Vee), but a literal reader may snag on her asking about a departure she just watched. Severity: nitpick. Recommend either letting Randi's phrasing acknowledge the exit ("she's not coming?") or leaving as-is if the obliviousness is characterization.
+
+4. **"Friday. A date." spoken on a Friday.** — The scene is internally pinned to Fri Sep 25; Randi's catastrophe opens "Friday. A date," which must mean the previous Friday (Sep 18). The weekday is never on the page, so most readers won't stumble, but anyone tracking the stats-day calendar reads a momentary "tonight?" ambiguity. Severity: nitpick. Recommend "last Friday" only if the author wants the calendar airtight; otherwise no action.
+
+5. **Vee's drink is in her hand, then "reached for" without a set-down.** — At Brooke's arrival Vee sits "with her pink drink sweating in her hand"; after the women leave, "She reached for her drink and found her hand not quite steady and set it down again." The intervening set-down is never shown (and Randi takes her hand mid-encounter, implying it happened). Severity: nitpick. Recommend a set-down beat during the encounter, or nothing — the gap is easy to bridge.

@@ -1,17 +1,57 @@
-Run a sentence-by-sentence consistency and logic audit of `scenes/$1.md` in a
-sub-agent, and report the findings in chat. This is a mechanical continuity
-instrument, not a craft review — it complements `/wals-scene-review`, which
-owns craft/architecture/thesis judgment. **Flag and advise; never rewrite the
-author's prose unless asked.**
+Sentence-by-sentence consistency and logic audit of drafted chapters, run in
+sub-agents, with reports stored on disk and reviewed with the author item by
+item. Mechanical continuity instrument, not a craft review — complements
+`/wals-scene-review`. **Flag and advise; never rewrite the author's prose
+unless the author rules on an item.**
 
-## Step 1 — Spawn the auditor
+## Modes
 
-Spawn ONE `general-purpose` sub-agent (synchronous) with this brief, filling in
-the absolute path to `scenes/$1.md`:
+- `/wals-line-audit <slug>` — audit one chapter, report in chat (no files).
+- `/wals-line-audit run` — the batch/restartable pipeline over Volume One,
+  driven by `audits/line-audit/STATUS.md`.
+
+## The pipeline (`run` mode)
+
+**State lives in `audits/line-audit/STATUS.md`** — one row per drafted chapter
+in epub order, states `pending → audited → reviewed`. Reports live at
+`audits/line-audit/<slug>.md`. The `audits/` tree is deliberately outside the
+`na.py` index and outside `meta/` — machine-generated flags must not enter
+canon search. On any restart: read STATUS.md, batch-audit the first `pending`
+chapters, and review the first `audited` chapter with the author.
+
+1. **Batch ahead.** Keep ~4–6 audits in flight in background sub-agents while
+   reviewing in the foreground. Each sub-agent gets the audit brief below and
+   WRITES its report to `audits/line-audit/<slug>.md` itself (title line, date,
+   verdict, findings). When a report lands, flip the chapter to `audited` in
+   STATUS.md and launch the next pending one.
+2. **Review in the foreground, one chapter at a time, one item at a time.**
+   Before presenting findings, read `meta/meta-triage-<slug>.md` if it exists —
+   drop any finding that restates a "left standing" verdict, and say so. Then
+   for each finding, in severity order: show the quoted passage in context
+   (rg/sed the actual lines — do not trust the report's quotes blindly),
+   restate the problem, offer lettered options with a recommendation, and wait
+   for the author's ruling before the next item. Push back honestly when a
+   finding dissolves on a fair reading (reported-knowledge vs. sight,
+   figurative phrasing, defensible ellipsis) — the auditor over-flags by
+   design, and camera-angle/positional-logistics items usually deserve
+   "leave standing."
+3. **Record rulings.**
+   - Applied fixes: edit the scene per the ruled option.
+   - Substantive left-standing items: record in `meta/meta-triage-<slug>.md`
+     (create it if absent, following the existing triage-doc pattern) so later
+     passes don't re-flag. Nitpicks the text already answers: no record.
+   - Append a `## Rulings (YYYY-MM-DD)` section to the report file — one line
+     per item: fixed (how) / left standing (why) / no record.
+4. **Close out the chapter.** Mark it `reviewed` in STATUS.md; commit the
+   scene edits + triage + report + STATUS together
+   (`<Title>: line-audit pass — ...`); remind that the epub is stale (rebuild
+   on request or at end of session).
+
+## The audit brief (per sub-agent, general-purpose, background)
 
 > You are doing a sentence-by-sentence consistency and logic audit of one
-> chapter of the novel *With a Long Spoon*. Read the file `<absolute path>` in
-> full.
+> chapter of the novel *With a Long Spoon*. Read the file
+> `<absolute path to scenes/<slug>.md>` in full.
 >
 > Method: work through the scene sentence by sentence. For each sentence, ask:
 > - Internal logic: does it follow from what came before in the scene? Any
@@ -35,22 +75,10 @@ the absolute path to `scenes/$1.md`:
 > plus places where a sentence is genuinely unclear enough that a reader
 > would stumble (label those "clarification" rather than "fix").
 >
-> Output a report: (1) a one-line verdict (clean / N issues found); (2) a
-> numbered list of findings, each with the quoted sentence plus locating
-> context, the problem, severity (fix / clarification / nitpick), and a
-> recommended fix described in one sentence (do not draft replacement prose);
-> (3) if nothing found, say what you checked so the clean bill is credible.
-> Return the report as your final message — raw report text, no preamble.
-
-## Step 2 — Check prior triage
-
-While the auditor runs, check for `meta/meta-triage-$1.md`. If it exists, its
-"left standing" verdicts are authorial decisions — drop any finding that
-restates one, and say so.
-
-## Step 3 — Report
-
-Relay the findings ordered by severity (fix → clarification → nitpick), each
-with the quoted line and the risk. Include the auditor's what-was-checked
-summary when the verdict is clean or near-clean, so the bill is credible.
-Do not apply any fix; the author decides.
+> Write your report to `<absolute path to audits/line-audit/<slug>.md>` as
+> markdown: an H1 (`# Line audit — <slug> (YYYY-MM-DD)`), a one-line verdict
+> (clean / N issues found, with severity counts), then a numbered findings
+> list — each with the quoted sentence plus locating context, the problem,
+> severity (fix / clarification / nitpick), and a one-sentence recommended
+> fix (do not draft replacement prose). If clean, list what you checked so
+> the clean bill is credible. Your final message: just the verdict line.

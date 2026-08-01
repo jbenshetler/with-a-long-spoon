@@ -18,7 +18,7 @@ After. The room cools, the talk goes small and ordinary, and he asks again in da
 
 ## Key Beats — Panel Two (Campus Walk)
 
-Cool late-September afternoon; brick walk, colonnade, one sugar maple burned orange in a field of things not yet decided. Randi bound up clean — black ponytail, the one allowed scrunchie, *she had decided that morning exactly how much of her the day would be permitted to touch, and bound the rest.*
+Cool early-September afternoon (Tue Sep 8; a cold snap the week before started the early color); brick walk, colonnade, one sugar maple burned orange in a field of things not yet decided. Randi bound up clean — black ponytail, the one allowed scrunchie, *she had decided that morning exactly how much of her the day would be permitted to touch, and bound the rest.*
 
 **The game runs as reconnaissance.** He points; she judges. Rotating typology — the petite sorority girl in Greek pastels (*too expected*); the matched pair from the rec center (*"those two go everywhere together"*); the closed pre-law camel coat (*"she'd be a project"*); the loose-limbed, quietly open girl on the library steps with the green beanie (*maybe* — and he kisses her hard there, mouth-to-mouth without wiping his face, to teach her the *maybe* costs); the striking running-the-room girl with the blowout (*"God, no"* — the wrongness instructive). He is reading her grain. He never points first; the choosing is hers; she learns the rule inside a sentence.
 
