@@ -24,3 +24,11 @@
 - **Dialogue:** every reply answers the prior line; no attribution errors; "That's okay… You don't have to" correctly answers "I can't sew."
 - **Tense/POV:** consistent past-tense Vee POV; the one flash-forward ("she'd think later") is deliberate and grammatical.
 - **Heat detail:** the too-warm house is the planned plant (chronology: "He turned the heat up before she came"), not an error.
+
+## Rulings (2026-08-01)
+
+1. Left standing (triaged) — "worn into the ground" is intensity hyperbole in Vee's register.
+2. Left standing (triaged) — summit light was silver-overcast; the bright/close/still/permitted combination is genuinely first here.
+3. Fixed — mirror sentence reordered; "the two of them" now touches its gloss.
+4. Fixed — flag 11 updated: framed mirror supersedes "dark window glass" (author ruling).
+5. Left standing (triaged) — retroactive den glance is credible off-sentence attention.
