@@ -19,7 +19,7 @@ with the author, item by item.
 10. dear — reviewed
 11. leave-no-trace — reviewed
 12. rye — reviewed
-13. what-to-wear — audited
+13. what-to-wear — reviewed
 14. two-towels — audited
 15. a-round — audited
 16. turned-up — audited

@@ -33,3 +33,10 @@
 - **In-scene object/space continuity:** Meg's fork (telling with it → pointing it → setting it down), Vee's glass (two turns), the fries (stolen and stolen back), the phone (buzzes face-up → held out of reach → turned over), seating (corner table, Vee between them), lighting arc (gold at six → orange → thin) — all consistent.
 - **Dialogue logic:** every reply tracks its prior line; no attribution errors (consecutive Kayla paragraphs at "He's nice" / "So what's Pace do" are both tagged).
 - **Pronoun referents:** no ambiguous she/he/it that would misassign an antecedent.
+
+## Rulings (2026-08-01)
+
+1. Fixed (author wording) — "Six weeks running" → "All semester" (calendar-proof, campus-native, streak-since-day-one).
+2. Fixed (author wording) — "of the night" cut: "folded on her pillow at this exact hour" reads as pure simultaneity.
+3. Left standing (triaged) — "backed him into a tree" is designed retelling drift (same pattern as Off Six-Fourteen), licensed on the page by "the story getting better in the telling."
+Adjacent note (Kayla/Meg two-doors-down) deferred to nothing-underneath's review.

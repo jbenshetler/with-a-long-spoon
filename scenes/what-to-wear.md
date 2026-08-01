@@ -1,6 +1,6 @@
 # What to Wear
 
-The athletic dorm had the better dining hall and everyone knew it. Same meal-plan contract as everywhere else, but they plated it like they meant it, and the windows ran floor to ceiling down the west side, so even at six the whole room went gold and forgiving. Kayla's theory was that you walked in like you'd always eaten there and nobody ever asked you a thing. Six weeks running, nobody had.
+The athletic dorm had the better dining hall and everyone knew it. Same meal-plan contract as everywhere else, but they plated it like they meant it, and the windows ran floor to ceiling down the west side, so even at six the whole room went gold and forgiving. Kayla's theory was that you walked in like you'd always eaten there and nobody ever asked you a thing. All semester, nobody had.
 
 They had the corner table that caught the last of the light. Meg was working through a plate of something with too much cheese, steady about it, telling them with her fork about her boyfriend's roommate and a spectacularly stupid thing he'd done. Meg was the calm one, dark-haired and level, a girl who ate like she had all night and let a sentence finish before she picked it up. Kayla let nothing finish. She was round-faced and blonde, a head of curls that moved when she did, and she was always moving, her words coming in a bright unbroken stream you climbed onto rather than followed. Vee sat between them, laughing with her whole body, loud and easy, the kind that made the next table look over and then want in.
 
@@ -98,7 +98,7 @@ A beat, and then the table came apart.
 
 "I don't know for what." Vee was laughing now, the flustered kind, naming it before they could get there first. "That's what I'm telling you. It doesn't say for what. It doesn't say anything. It's the least information a human being has ever sent me and I have read it a thousand times."
 
-And that was the truth of it, under the noise. She'd had the dinners and the trail. She'd had the shirt, folded on her pillow at this exact hour of the night. She'd had every piece of him she'd been handed, and never once been through his door, and now there was a door, and Saturday behind it, and not one word about what it was for. She turned the glass again. Her heart was doing something quick and light and stupid, and she let it.
+And that was the truth of it, under the noise. She'd had the dinners and the trail. She'd had the shirt, folded on her pillow at this exact hour. She'd had every piece of him she'd been handed, and never once been through his door, and now there was a door, and Saturday behind it, and not one word about what it was for. She turned the glass again. Her heart was doing something quick and light and stupid, and she let it.
 
 "Saturday," Kayla announced, to the table, to the gold room, to the whole athletic dorm. "We're doing hair Saturday. I'm coming to your room. This is happening."
 
