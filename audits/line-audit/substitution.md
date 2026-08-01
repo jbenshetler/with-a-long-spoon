@@ -27,3 +27,13 @@
 - Dialogue logic: every reply tracks its prompt, including Vee's "He hasn't asked me out" after "May I call you?" — a characterful misread, deliberate per the brief, not an error.
 - Callback accuracy: "It's pretty hard. It's calculus." is quoted back verbatim; Pace's Bessel's-correction answer is mathematically correct.
 - Pace's age read ("young to be finishing a PhD") matches canon (college at fifteen, grad student at eighteen).
+
+## Rulings (2026-08-01)
+
+1. Fixed — "on Monday" → "the day they'd met" (the watched name-line is the Cassie bit in See You Later, Wed Sep 9; rewording ties the borrowed routine to the day Randi chose her).
+2. Fixed — chronology `present:` now includes Cassie.
+3. Fixed — dialogue "forty minutes" → "an hour" (matches narration's 40+20 total).
+4. Fixed — "gutter between the pages" → "The pencil lay across the page" (loose sheet throughout).
+5. Left standing (triaged) — the counter line is a few steps from the table ("He had a few steps to cover"); the overhear is plausible; "to nobody" names addressee, not volume.
+6. Fixed (author upgrade) — the single "just taken a sip" lift replaced with a doubled false sip: "Twice the cup came up to her mouth and went back down, and no sip happened."
+7. Fixed — "same page it had been ten minutes ago" → "The page was the same page." (clock removed; triplet cleaned).

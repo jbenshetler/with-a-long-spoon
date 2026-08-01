@@ -4,13 +4,13 @@
 
 ---
 
-She had been stuck on the problem for forty minutes when Randi suggested they move to the place on Wilson, and stuck on it for another twenty after they got there, and now the page had the kind of look she did not like — three approaches crossed out, the margins crowded, a small frustrated curl at the corner where her thumb had been working at it without her noticing. The pencil sat in the gutter between the pages. She had set it there because if she kept it in her hand she was going to break it.
+She had been stuck on the problem for forty minutes when Randi suggested they move to the place on Wilson, and stuck on it for another twenty after they got there, and now the page had the kind of look she did not like — three approaches crossed out, the margins crowded, a small frustrated curl at the corner where her thumb had been working at it without her noticing. The pencil lay across the page. She had set it there because if she kept it in her hand she was going to break it.
 
 "Take a break," Randi said, mildly.
 
-"I've been taking a break for forty minutes."
+"I've been taking a break for an hour."
 
-"You've been *not solving it* for forty minutes. That's different."
+"You've been *not solving it* for an hour. That's different."
 
 Vee laughed because Randi was right, the way Randi was usually right about the small social registers Vee was operating in. The laugh let her sit back from the page. She picked up her coffee and held it between both hands and looked across the table at Randi, who had her own laptop open in front of her and was scrolling something — the sorority calendar, Vee thought, but did not ask. Beyond Randi at the next table over, Cassie sat with her own work spread out in her own quiet manner, headphones in, the volume low enough that she sometimes laughed at things people said two tables away.
 
@@ -82,7 +82,7 @@ He did glance at Randi then, briefly — the courtesy of a stranger acknowledgin
 
 "I'm Pace," he said.
 
-"Vivienne." It came out automatically, the full form, and then — because being looked at like that had loosened something, made her want to be a little more than herself, a little more like the kind of girl who was easy in a moment like this — she reached for the line. She had watched Randi do it on Monday, in the lecture hall, the practiced little swerve, and it had looked so easy and so good that some part of her had filed it to try on later. "Vivienne Thorne. V.T. Yes, like the university." A beat, the way Randi did the beat. "No, my parents didn't plan it. Yes, they find it funnier than I do."
+"Vivienne." It came out automatically, the full form, and then — because being looked at like that had loosened something, made her want to be a little more than herself, a little more like the kind of girl who was easy in a moment like this — she reached for the line. She had watched Randi do it the day they'd met, in the lecture hall, the practiced little swerve, and it had looked so easy and so good that some part of her had filed it to try on later. "Vivienne Thorne. V.T. Yes, like the university." A beat, the way Randi did the beat. "No, my parents didn't plan it. Yes, they find it funnier than I do."
 
 It landed. Pace's mouth did something warm at the corner, and Vee felt the small lift of having pulled it off — the borrowed poise sitting on her better than she'd expected, the room tilting half a degree toward her.
 
@@ -172,7 +172,7 @@ He sat across from her and listened. She talked for what was probably four or fi
 
 She glanced once at Randi.
 
-Randi was smiling. Randi was smiling the *go on, this is nice* smile of a friend watching a friend be charmed. The smile was warm and unbothered. Randi's hand was around her coffee cup. Randi's other hand was in her lap. The cup was being lifted again, even though she had just taken a sip — Vee had seen the sip — and being set back down without a new sip happening. Vee registered the small busy-ness of Randi's hand only at the edges of her attention, and her brain helpfully provided the explanation *she's bored, this is going on too long for her,* and Vee made a small mental note to wrap up her econ monologue. She wrapped it up.
+Randi was smiling. Randi was smiling the *go on, this is nice* smile of a friend watching a friend be charmed. The smile was warm and unbothered. Randi's hand was around her coffee cup. Randi's other hand was in her lap. Twice the cup came up to her mouth and went back down, and no sip happened. Vee registered the small busy-ness of Randi's hand only at the edges of her attention, and her brain helpfully provided the explanation *she's bored, this is going on too long for her,* and Vee made a small mental note to wrap up her econ monologue. She wrapped it up.
 
 "Anyway," she said. "Sorry. That was a lot."
 
@@ -220,7 +220,7 @@ She gave it to him. He typed it into his phone, repeated it back to her once to 
 
 The bell above the door tinkled again.
 
-Vee sat with her hand still on the page, on the clean lines she had written out under his crossed mark. The page was the same page it had been ten minutes ago. The room was the same room. Her coffee was the same coffee. Something in her chest was doing what her chest sometimes did when she had taken stairs too fast.
+Vee sat with her hand still on the page, on the clean lines she had written out under his crossed mark. The page was the same page. The room was the same room. Her coffee was the same coffee. Something in her chest was doing what her chest sometimes did when she had taken stairs too fast.
 
 Randi spoke first.
 
