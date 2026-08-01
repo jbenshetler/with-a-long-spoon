@@ -26,3 +26,9 @@
 - **Cross-document continuity:** Chronology entry (Thu Sep 17, hours after Substitution) matches the scene's same-day compression; Tue Sep 8 (The Pointing Game) → Thu Sep 17 is weekday-consistent. "The same attention he'd given her calculus" matches Substitution (the tutoring was calculus; stats is only her class with Randi). The "wait a day / can't answer the first one" rule is consistent with Substitution's "she can't text first." Cassie's "roll a healer / business major" gibe matches the condensed brief's canonical gamer ex. Scene matches `meta-condensed-long-way.md` beat for beat.
 - **Pronouns/dialogue:** All speaker attributions check out; every reply answers the prior line ("It's frozen yogurt" to "he wants to see you naked"; "That was one semester" to the healer gibe; the rule exchange). Only pronoun wobble is finding 2.
 - **Tense/POV:** Past tense throughout, no slips; Vee POV holds (header matches).
+
+## Rulings (2026-08-01)
+
+1. Left standing (no record) — the phone flip is ordinary ellipsis; "here it was" carries the pickup; face-down detail stays.
+2. Fixed — "knowing it would drip" → "knowing the cup would drip" (kills the bitten-lip misparse).
+3. Fixed — chronology `present:` now includes Cassie.

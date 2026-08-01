@@ -12,7 +12,7 @@ with the author, item by item.
  3. the-pointing-game — reviewed
  4. see-you-later — reviewed
  5. substitution — reviewed
- 6. long-way — audited
+ 6. long-way — reviewed
  7. water-wings — audited
  8. may-i-choose — audited
  9. off-six-fourteen — audited
