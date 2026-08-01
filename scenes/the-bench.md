@@ -294,7 +294,7 @@ He hit her, hard, on the high point of her ass, the place where the skin was alr
 
 He kept going, varying the rhythm and placement, alternating strikes with shifting intervals of touch and attention so she could not anticipate what came next.
 
-He did not begin the edging until her ass was beautifully red and she was trembling continuously, the small fine tremors of a body whose nervous system had reorganized around the situation it was in. He had been keeping his hand away from the front of her on purpose — checking only briefly between strikes, feeling how much wetter she was than at the beginning, wetter than ten minutes ago, getting wetter with every pair of strikes whether she liked the fact or not.
+He did not begin the edging until her ass was beautifully red and she was trembling continuously, the small fine tremors of a body whose nervous system had reorganized around the situation it was in. He had been keeping his hand away from the front of her on purpose — checking only briefly between strikes, feeling how much wetter she was than at the beginning, wetter than ten minutes ago, getting wetter with every pair of strikes — building in her the kind of need that could not be denied. Could not be bargained down.
 
 He slid his fingers between her legs again.
 
