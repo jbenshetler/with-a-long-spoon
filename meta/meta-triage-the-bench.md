@@ -102,6 +102,13 @@ superseded draft.
   into the grips, arms loaded, the head released into that frame; "from the
   grips" names the load path. "Upside-down"/"inverted" is Pace's impression
   of the hanging, hair-fallen face. Do not re-flag.
+- **Blue lacquer named while the heels are on (line-audit 2026-07-31) — left
+  standing.** The sentence claims knowledge, not sight ("still up in the
+  heels he had not taken off" concedes they're hidden); prior acquaintance is
+  confirmed by "He liked her feet."
+- **Face turned sideways off-page (line-audit 2026-07-31) — left standing.**
+  "Turned sideways now" back-announces a turn during elapsed bodywork —
+  ordinary ellipsis; used consistently afterward.
 
 ## What the panel confirmed (no action; for the record)
 

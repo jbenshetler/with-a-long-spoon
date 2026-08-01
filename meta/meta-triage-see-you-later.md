@@ -24,3 +24,7 @@ authorial decisions — do not re-flag these without new evidence.**
   "that house" means the sorority house. The sorority is **never named** —
   authorial choice: the narrative is stronger without naming it specifically.
   Do not re-flag the missing name, and do not name the sorority anywhere.
+- **Oat-milk latte vs. "the lavender thing"** (audit item 4) — one drink,
+  named by format in narration and flavor in Randi's mouth; line 117 fuses
+  them; the split is Randi curating Vee's experience. Do not collapse the
+  names.

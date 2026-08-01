@@ -42,3 +42,6 @@ cohort snagging on the same spot, or an edit that re-opens the passage).
   Author ruling: leave standing — it is a refrain, not geography: the
   early-turned tree fused to the copper-haired girl in the same sentence.
   Do not re-flag as a sightline.
+- **"A hundred feet…still to close" vs. "across thirty feet"** (audit
+  item 7) — the gap closes in rendered action (Randi dispatched, Pace
+  relocating to the light pole); not a contradiction.

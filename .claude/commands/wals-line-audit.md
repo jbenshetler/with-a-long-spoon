@@ -37,9 +37,12 @@ chapters, and review the first `audited` chapter with the author.
    "leave standing."
 3. **Record rulings.**
    - Applied fixes: edit the scene per the ruled option.
-   - Substantive left-standing items: record in `meta/meta-triage-<slug>.md`
-     (create it if absent, following the existing triage-doc pattern) so later
-     passes don't re-flag. Nitpicks the text already answers: no record.
+   - **Every left-standing item — however minor — gets a line in
+     `meta/meta-triage-<slug>.md`** (create it if absent, following the
+     existing triage-doc pattern). The triage doc is the ONLY durable ledger:
+     a re-run overwrites the report file, so an unrecorded ruling WILL be
+     re-litigated (author ruling 2026-08-01). One compact line suffices for
+     nitpicks.
    - Append a `## Rulings (YYYY-MM-DD)` section to the report file — one line
      per item: fixed (how) / left standing (why) / no record.
 4. **Close out the chapter.** Mark it `reviewed` in STATUS.md; commit the
