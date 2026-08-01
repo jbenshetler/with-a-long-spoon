@@ -20,13 +20,13 @@ Vee laughed and then winced, because laughing used something that hurt. "Cass, i
 
 "And he, what. Carried you."
 
-"He fixed it. We got to the top and he just had a kit, of course he had a kit, and he knelt down and took my shoe off and did the whole thing, the moleskin, the little scissors, and he didn't make it weird. Didn't make me feel like I'd wrecked the day." Something moved across her face that she didn't bother to hide. "His hands, though. And he's got these forearms. Cass. I think he's built. Under the jacket. I think there's a whole situation under there."
+"He fixed it. Right there on the trail — he just had a kit, of course he had a kit, and he knelt down and took my shoe off and did the whole thing, the moleskin, the little scissors, and he didn't make it weird. Didn't make me feel like I'd wrecked the day." Something moved across her face that she didn't bother to hide. "His hands, though. And he's got these forearms. Cass. I think he's built. Under the jacket. I think there's a whole situation under there."
 
 "You think."
 
 "I'm reporting what I observed."
 
-"And then the top." Her voice opened all the way up. "You come up out of the trees and there's a *lake.* This whole silver lake way down, and the rock at the top is almost black, and you can see everything, you can see for miles. And I got up there. Me. I have never gotten anywhere on my own legs in my life and I got up a mountain."
+"And then the top." Vee's voice opened all the way up. "You come up out of the trees and there's a *lake.* This whole silver lake way down, and the rock at the top is almost black, and you can see everything, you can see for miles. And I got up there. Me. I have never gotten anywhere on my own legs in my life and I got up a mountain."
 
 "Look at you," Cassie said, and meant it.
 

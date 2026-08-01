@@ -26,3 +26,9 @@ Scope: sentence-by-sentence pass of `scenes/rye.md` (53 lines); cross-checked ag
 - Callback: "as she'd slowed at the tree the other night" (line 35) correctly points at the {{May I Choose}}/{{Off Six-Fourteen}} night, which is prior to this scene.
 - Dialogue logic: every reply answers the prior line; closing exchange (name / "I know" / boots / shirt) tracks.
 - Tense: consistent past throughout; quoted-speech present ("You come up…") is normal recounting register.
+
+## Rulings (2026-08-01)
+
+1. Fixed — "Her voice" → "Vee's voice" (:29); the established Cassie "And…" prompt pattern made the wrong attribution the trained first parse.
+2. Left standing (no record) — "on a Sunday" is the cadence of Cassie's true-crime case-report parody, not a calendar claim.
+3. Fixed — "We got to the top and he just had a kit" → "Right there on the trail — he just had a kit" (:23); matches canon (blister fixed at the mid-trail boulder) and un-doubles the summit so the :29 reveal carries her triumph alone.

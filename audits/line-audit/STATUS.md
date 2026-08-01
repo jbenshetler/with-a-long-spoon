@@ -18,7 +18,7 @@ with the author, item by item.
  9. off-six-fourteen — reviewed
 10. dear — reviewed
 11. leave-no-trace — reviewed
-12. rye — audited
+12. rye — reviewed
 13. what-to-wear — audited
 14. two-towels — audited
 15. a-round — audited
