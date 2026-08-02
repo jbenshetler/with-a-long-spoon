@@ -29,3 +29,17 @@ Triage doc (`meta/meta-triage-recognized-method.md`) checked: none of the findin
 - **Choreography:** arms-around-from-behind (line 77) → hands to his chest (line 83) → grip on forearm (line 89) → his half-turn inside her arms (line 91) → her twist-away, her swat (line 93), his single swat landing on the swung-into hand (lines 99–101) — all physically continuous.
 - **Lighting/time-of-day:** evening porch/cold Saturday; "light wrong for early" → "early-afternoon light" → "flat bright light of the afternoon" all consistent for a past-noon Sunday wake.
 - **Tense and attribution elsewhere:** no tense slips found; all other dialogue attributions unambiguous and responsive to the prior line.
+
+## Author rulings (2026-08-02)
+
+1. **Fixed** — :105 "all morning" → "all weekend" (author chose the weekend
+   span; "the words" = joke + doctrine + clean machine, the whole armory).
+2. **Fixed** — :11 "It had seemed" → "It had still seemed" (option a;
+   3 a.m. beat recast as re-approval of the Friday-printed label).
+3. **Fixed** — :51 attribution added: "Everything was fine," he said. (option a).
+4. **Left standing** — cloth/brush: two-implement sink, switch below the
+   narration floor.
+5. **Left standing** — dry fingers: brush-handle hand is the dry one; :101
+   wet left hand confirms the sink hand.
+6. **Left standing** — pearls: Randi's prescription list; everyday earrings
+   unrendered by design.

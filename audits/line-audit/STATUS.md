@@ -35,7 +35,7 @@ with the author, item by item.
 26. lesson — reviewed
 27. broken-in — reviewed
 28. hills-and-valleys — reviewed
-29. recognized-method — audited
+29. recognized-method — reviewed
 30. practice-room — audited
 31. the-induction — audited
 32. we-find-out — audited

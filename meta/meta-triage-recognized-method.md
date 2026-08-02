@@ -1,3 +1,42 @@
+# Triage — A Recognized Method (line-audit pass, 2026-08-02)
+
+Source: `audits/line-audit/recognized-method.md`, reviewed with the author.
+**The "Left standing" section records authorial decisions — do not re-flag
+these without new evidence** (a new reader cohort snagging on the same spot,
+or an edit that re-opens the passage).
+
+## Fixed
+
+- **":105 "all morning" → "all weekend"** — her Sunday has no morning (woke
+  past noon, :69–:75), and "the words" completes the list "no joke, no
+  doctrine, no clean machine" — the whole verbal armory of the visit, whose
+  true span is the weekend since she built the machine and printed the label.
+- **":11 "It had seemed" → "It had still seemed"** — the label is printed
+  Friday daytime but judged funny at 3 a.m. Saturday; "still" recasts the
+  3 a.m. beat as re-approval, giving the joke a clean decay curve: printed
+  Friday, still funny at 3 a.m., dead in the driveway.
+- **":51 "Everything was fine," he said.** — the unattributed opener directly
+  after his question and her wordless look could read as Vee deflecting; a
+  wrong reading, not a productive one, so it got the one "said".
+
+## Left standing — do not re-litigate
+
+- **":81 cloth / :91 scrub brush** — cloth-for-plates, brush-for-pan is how a
+  real sink runs; the switch happens during the soak filibuster, where
+  narration is rightly on her lobbying, and she reads his arms through his
+  back. Below the narration floor ({{Rock}} mug precedent).
+- **":91 dry fingers on the brush hand** — physically correct: the brush hand
+  rides the handle above the waterline while the other hand holds the dish
+  in the sink, which is exactly why the left comes up "warm and wet from the
+  dishwater" for the :101 swat. The wet/dry design is sound as drafted.
+- **":13 pearls inventoried, never rendered again** — the inventory is
+  Randi's {{Broken In}} prescription executing item by item ("the earrings —
+  the real ones"); the pearls are the grandmother's pearls she wears most
+  days. Everyday earrings stay below the narration floor, unlike the
+  borrowed scarf and heels, which are Randi's and earn beats for it.
+
+---
+
 # Triage — A Recognized Method (`recognized-method`)
 
 Cold-read feedback pass, 2026-07-28. Panel: claude-opus-4-8, gpt-5.5, gpt-5.6-sol (all read after `hills-and-valleys`). Style lint run same pass.
