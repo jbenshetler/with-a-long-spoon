@@ -37,6 +37,18 @@ cohort snagging on the same spot, or an edit that re-opens the passage).
   mouth wiped, to teach her what the maybe costs"; taste-thread canon), and
   the claim runs through her recognition, not chemistry. Do not re-flag as
   biology.
+- **De-operator pass — proposed and DECLINED whole (author ruling 2026-08-02).**
+  A nine-item recolor of Pace's operator-register narration (per the
+  `meta-craft-pace.md` "warm, tender, misguided — never technician" rule; items
+  included "He had decided this beforehand," "worked the third one out…
+  deliberately," "the exact frame he needed to proceed," "fast and without
+  seeming to, for the angle it gave on the doors," "watched his afternoon's
+  work talk to its result"). Author reviewed the proposals and ruled: the
+  impactful ones softened the scene's best lines and images to
+  meaninglessness — the operator register in this scene is carrying the
+  diptych's argument (reconnaissance wearing a game's costume), not drifting
+  from it. The scene stands as drafted. Do not re-propose a technician-drift
+  recolor of this scene without new reader evidence.
 - **"The maple was burning" at the dining hall** (audit item 6) — flagged as a
   dubious sightline (the maple is near the chapel, several landmarks back).
   Author ruling: leave standing — it is a refrain, not geography: the
