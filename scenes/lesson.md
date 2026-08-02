@@ -6,7 +6,7 @@
 
 Tuesday night Meg's door was open, two down. Vee was talking before she was all the way in.
 
-"He asked me dancing. Thursday night — country dancing. He's picking me up. I said I can't dance, I don't even know how, and he said, 'If you want to, I'll teach you.'" She sat on the end of Meg's bed and stood up again. "He moved the pickup to seven. So there's time. To teach me."
+"He asked me dancing. Thursday night — country dancing. He's picking me up. I said I can't dance, I don't even know how, and he said, 'If you want to, I'll teach you.'" She sat on the end of Meg's bed and stood up again. "He moved the date up to seven. So there's time. To teach me."
 
 "Uh-huh," Meg said.
 
@@ -74,7 +74,7 @@ He began to dance with her.
 
 She kept softening — going jelly the moment she tried to move, which meant he had nothing to push back against, which meant the lead went nowhere. He corrected her without comment, repositioning, waiting, starting again. Then she overcorrected.
 
-"Your right arm," he said. "You're holding yourself out."
+"Your left arm," he said. "You're holding yourself out."
 
 She looked at the space between them, the few inches she'd apparently been maintaining without knowing it.
 
@@ -119,6 +119,8 @@ They went around the pad once, twice. She wasn't thinking about the steps.
 She said nothing. She was busy.
 
 ---
+
+The boom box rode behind the seat of his truck, the town falling away behind them.
 
 The Rusty Nail was loud and warm when they walked in, the kind of warm that came from bodies and not from the heat being turned up — a real crowd, people who knew what they were doing. The floor was already moving. She stood in the entrance for a moment and felt the difference between the pad and this: the lesson had been private and deliberate, and this was alive, and she was going to be visible.
 
@@ -182,7 +184,7 @@ She set the bottle on the ledge and walked off before he could say anything — 
 
 ---
 
-From across the room she watched it happen. He stood where she'd left him with both bottles. A couple of regulars drifted over — a hand on his shoulder, the easy consolation of people who liked him, someone leaning in to say the thing you say. He shook his head. He set the beers down on the bar, untouched, and went out, and the door let in a wedge of cold and shut behind him.
+From across the room she watched it happen. He stood where she'd left him with his bottle. A couple of regulars drifted over — a hand on his shoulder, the easy consolation of people who liked him, someone leaning in to say the thing you say. He shook his head. He set the beer down on the bar, untouched, and went out, and the door let in a wedge of cold and shut behind him.
 
 ---
 

@@ -1,3 +1,47 @@
+# Triage — Lesson (line-audit pass, 2026-08-01)
+
+Source: `audits/line-audit/lesson.md`, reviewed with the author.
+**The "Left standing" section records authorial decisions — do not re-flag
+these without new evidence.**
+
+## Fixed
+
+- **":185 bottle count** — "with both bottles" / "the beers" → "with his
+  bottle" / "the beer": she'd set hers on a ledge at :181 and he hadn't
+  moved, so he can't hold both. Her orphaned bottle stays on the ledge —
+  where scorned drinks stay.
+- **":123 truck + boom box gap closed** — one freestanding half-line at the
+  head of the bar section: "The boom box rode behind the seat of his truck,
+  the town falling away behind them." Dispatches the hand-carried boom box
+  (foregrounded :35/:41/:97, then vanishing) and accounts for the drive the
+  :231 cab fare implies, without a logistics beat.
+- **":9 "He moved the date up to seven."** (was "He moved the pickup to
+  seven") — the direction of the move was unanchored (earlier or later?),
+  and "pickup up" from the first repair doubled audibly; author's wording.
+  "Date" is Vee's word in that room and frees "pickup" from double duty
+  near the truck.
+- **":77 "Your left arm"** (was "Your right arm") — the right arm is the
+  one extended laterally in his left hand (:57); the frontal inches Vee
+  perceives are governed by her left arm on his shoulder. His instruction
+  is now dance-correct.
+
+## Left standing — do not re-litigate
+
+- **":97 press-play with no marked tape flip** — a cassette side (~22 min)
+  plausibly ends during the frame work; the fresh press-play *is* the flip,
+  and "the tape warbling up to speed" carries the mechanics. Marking it
+  would be one more logistics beat.
+- **Underage-drinking flag dismissed as a canon error, not left standing** —
+  the auditor inferred "junior → ~20 in October" from
+  `meta-arch-vivienne.md` class year. Canon pins the age directly:
+  **Vee is 21 at novel-open** (`meta-arch-bible.md` Peer Configuration
+  guard: "the girls (Vee and Randi, both 21)"; corroborated in prose,
+  `the-bench.md` "twenty-one years"). The :125 hand-stamp and the
+  longnecks are correct as drafted. Do not re-derive her age from class
+  year — the Bible's pin overrides the inference.
+
+---
+
 # Triage — Lesson (cold-read panel, 2026-07-27)
 
 Panel: claude-opus-4-8, gpt-5.5, gpt-5.6-sol · `reviews/cold-read/*/lesson.md`

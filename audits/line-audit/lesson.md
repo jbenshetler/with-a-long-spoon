@@ -32,3 +32,14 @@ Cross-scene note (belongs to the *other* scene's ledger, recorded here for compl
 - **Money:** the cab-fare pinch is consistent with the {{Sorority}} credit-card strain and the Corolla-class background (`meta-arch-vivienne.md`).
 - **Weather/season:** October cold, field lights, dark gym, "tanned in October" as a marked oddity — all consistent.
 - **Cassie:** asleep in the shared room on return matches the not-calling beat; no contradiction.
+
+## Author rulings (2026-08-01)
+
+1. **Bottle count — fixed (option a):** :185 → "with his bottle" / "the beer". Her ledge bottle stays orphaned.
+2. **Truck/boom box gap — fixed (a-2):** freestanding half-line before :123: "The boom box rode behind the seat of his truck, the town falling away behind them."
+3. **Pickup-to-seven direction — fixed (author's wording):** ":9 "He moved the date up to seven."" (via an intermediate "moved the pickup up to seven" the author improved).
+4. **Music restart — left standing:** press-play at :97 reads as the tape side ending; "warbling up to speed" carries it.
+5. **Right-arm physics — fixed (option b):** :77 → "Your left arm" (the shoulder arm governs the frontal gap).
+6. **Underage drinking — dismissed, auditor error:** Vee is 21 by canon (`meta-arch-bible.md` Peer Configuration guard, "both 21"); the "junior → ~20" inference is overridden by the Bible's explicit age pin. No edit.
+
+Rulings recorded in `meta/meta-triage-lesson.md` (new line-audit section prepended). Cross-scene note on `broken-in.md:7` ("what was left of him in the cloth" vs. the washed shirt) deferred to Broken In's review.
