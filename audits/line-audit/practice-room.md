@@ -28,3 +28,14 @@ No finding above restates a "left standing" verdict. I did **not** flag: the the
 - **Tense:** consistent past throughout; the kitchen flashback (line 75) is clearly framed as memory.
 - **No calendar dates or weekdays in the scene header or prose** (per the no-header-dates convention).
 - **`never-name`:** Pace's temperament is nowhere labeled in the scene.
+
+## Author rulings (2026-08-02)
+
+1. **Fixed** — :99 "Mine," Randi said. (option a).
+2. **Left standing** — :113 continuation pattern; clearly Randi telling her
+   story (author: "That's not Vee talking, that's Randi").
+3. **Fixed** — :115 "all afternoon" → "since the morning" (author's wording,
+   with "arrived" cut); reaches back to the morning at Pace's, not just the
+   lecture.
+4. **Fixed** — chronology :530 "November" → "late-October" (meta-doc
+   staleness; scene entry's Mon Oct 26 owns the date).

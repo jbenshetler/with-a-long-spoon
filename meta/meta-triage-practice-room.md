@@ -1,3 +1,37 @@
+# Triage — The Practice Room (line-audit pass, 2026-08-02)
+
+Source: `audits/line-audit/practice-room.md`, reviewed with the author.
+**The "Left standing" section records authorial decisions — do not re-flag
+these without new evidence** (a new reader cohort snagging on the same spot,
+or an edit that re-opens the passage).
+
+## Fixed
+
+- **":99 "Mine," she said. → "Mine," Randi said.** — new paragraph opening
+  with a quote signals a speaker change, and with two women in the room the
+  bare "she" could hand the line to Vee for a beat before the ex-husband
+  content corrects it.
+- **":115 "all afternoon" → "since the morning"** (author's wording) — the
+  build starts with the knee at the eleven o'clock lecture, and her morning
+  began at Pace's; the phrase now sweeps in the whole day's saturated state,
+  not a span the noon–12:45 clock can't hold. "Arrived" also cut in the same
+  edit — the sentence runs straight from the fact of it to standing up too
+  fast.
+- **Chronology :530 "November" → "late-October"** — the Telling housekeeping
+  note's reference to this scene's bathroom beat was stale against the
+  scene's own entry (Mon Oct 26); the note's predates-the-cabin point is
+  unaffected.
+
+## Left standing — do not re-litigate
+
+- **":113 closed-quote/new-paragraph continuation ("And always, toward the
+  end, his hand would slip.")** — unmistakably Randi mid-story; Vee's
+  contributions have shrunk to a name and stillness, and "Randi's mouth
+  curved" confirms within the line. The unencumbered paragraph break is the
+  timing of the confession's last card.
+
+---
+
 # Triage — The Practice Room (`practice-room.md`)
 
 Cold-read feedback pass, 2026-07-28. Panel: claude-opus-4-8, gpt-5.5, gpt-5.6-sol

@@ -96,7 +96,7 @@ Randi let her hang there a moment, kindly, the way you let someone find their fe
 
 "Oh, baby." She settled back, and her face did something fond and far away. "Sometimes it's the mouse that roars."
 
-"Mine," she said. "You'd never have picked him out of a room. Slight little thing, soft-spoken, apologized to the furniture. But get him home, and if I'd had too much wine and gotten a little flirty with other men at dinner? Oh, I'd hear about it."
+"Mine," Randi said. "You'd never have picked him out of a room. Slight little thing, soft-spoken, apologized to the furniture. But get him home, and if I'd had too much wine and gotten a little flirty with other men at dinner? Oh, I'd hear about it."
 
 Vee held very still.
 
@@ -112,7 +112,7 @@ The color was high in Vee's face now and she knew it and couldn't get it down.
 
 "And always, toward the end, his hand would slip." Randi's mouth curved. "Mm-hm. Right between. I know how it sounds. It would have been a terrible thing, if I weren't already warm. But by then." One shoulder lifted and fell, the whole worldly weight of it in the gesture. "By then it's welcome. Believe me. Very welcome."
 
-And on the word *welcome* something turned over low in Vee's belly with a soft wet heaviness she had no vote in, and the thing her body had been building toward all afternoon arrived, the actual physical fact of it, warm and undeniable between her legs, and she stood up too fast.
+And on the word *welcome* something turned over low in Vee's belly with a soft wet heaviness she had no vote in, and the thing her body had been building toward since the morning, the actual physical fact of it, warm and undeniable between her legs, and she stood up too fast.
 
 "I'll be right back," she said. "Two seconds. I just need."
 
