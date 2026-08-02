@@ -34,6 +34,8 @@ mark items done with dates as they complete.*
   quotes/apostrophes, scene-break rendering.
 - [ ] **Legal/content read** — real-institution exposure (VT identifiability:
   professors, campus police behavior), no quoted lyrics, brand-name usage.
+  Counsel sourcing/briefing: `meta-plan-lawyer.md`; per-volume findings sheet:
+  `meta-plan-legal-read.md` (Vol 1).
 - [ ] **Front/back matter completeness** — dedication and acknowledgments
   decisions; Helen Rivers bio (a positioning artifact — write deliberately,
   see `meta-plan-pen-name.md`); series page pointing at Volume Two; the

@@ -15,6 +15,6 @@ Statuses: **unstarted** · **in-process** · **complete**
 | Copyedit against a style sheet | unstarted | Will be its own skill/command (decision 2026-08-01). |
 | Whole-book timeline sweep | unstarted | Gated on line audit completing. |
 | Proofread after typesetting | unstarted | |
-| Legal/content read | in-process | Pre-sheet scan started 2026-08-01; findings in `meta-plan-legal-read.md`. Lawyer consult pending. |
+| Legal/content read | in-process | Pre-sheet scan started 2026-08-01; findings in `meta-plan-legal-read.md`. Lawyer consult pending — sourcing/briefing plan in `meta-plan-lawyer.md`. |
 | Front/back matter completeness | unstarted | |
 | Beta/test-reader synthesis structure | unstarted | |

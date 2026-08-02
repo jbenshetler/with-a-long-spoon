@@ -4,6 +4,8 @@ Pre-sheet for the lawyer consult, generated 2026-08-01 from a per-chapter subage
 scan of all 49 drafted Volume 1 chapters. **Flags candidates; nothing here is legal
 judgment.** Risk scale: 0 = no plausible issue · 1 = present but conventionally safe ·
 2 = worth a lawyer's minute · 3 = ask the lawyer specifically.
+How to find/brief counsel + the legal-landscape rationale behind these grades:
+`meta-plan-lawyer.md`.
 
 Standing context for counsel: all persons fictitious; author has no VT connection;
 no character under 21 engages in any sexual activity (age-signal flags below are
