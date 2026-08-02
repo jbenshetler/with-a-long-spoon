@@ -14,13 +14,13 @@ surname; character names have symbolic antecedents, not real-person referents.
 
 | Category | risk 0 | risk 1 | risk 2 | risk 3 |
 |---|---|---|---|---|
-| trademark | 28 | 16 | 4 | 0 |
+| trademark | 28 | 17 | 3 | 0 |
 | lyrics | 7 | 2 | 1 | 0 |
 | institution | 27 | 12 | 1 | 0 |
 | real-person | 5 | 7 | 1 | 0 |
 | age-signal | 20 | 49 | 2 | 1 |
 
-183 findings across 46 chapters; 3 chapters fully clean. 10 items at risk ≥ 2 (the ask-the-lawyer list below).
+183 findings across 46 chapters; 3 chapters fully clean. 9 items at risk ≥ 2 (the ask-the-lawyer list below).
 
 ### Recurring-item index
 
@@ -43,15 +43,6 @@ surname; character names have symbolic antecedents, not real-person referents.
 *Location:* final third, tutor confession passage (lines ~207-221)  
 *Rationale:* On-page backstory strongly implies a sexual/romantic relationship between a 19-21-year-old and Pace at 15-17; Vee's suppressed 'clean ugly grown-up word' confirms the reader is meant to read it as statutory — a direct collision with the under-21 canon rule for a hostile reader, even though nothing is depicted.  
 *Proposed mitigation:* Ask the lawyer specifically: is elided, non-depicted minor sexual backstory (framed as harm by the narrative voice) acceptable, or must the relationship be textually ambiguous/non-sexual or the ages shifted?
-
-### [2] How It's Done — Hermès — scarf in bondage anecdote (trademark)
-
-> Tied to a man's headboard with a Hermès scarf. Best thing that's happened to me all month.
-
-*Location:* Randi's Saturday anecdote, mid-lunch  
-*Trademark tier:* negative/entangled  
-*Rationale:* Brand name directly entangled with an explicit sexual bondage anecdote (wrists tied, orgasm described).  
-*Proposed mitigation:* Genericize to 'a silk scarf' — the luxury signal survives without the mark.
 
 ### [2] How It's Done — 'Witchcraft' (Sinatra) — close paraphrase (lyrics)
 
@@ -264,7 +255,7 @@ Clean — no findings.
 
 | Risk | Category | Item | Quote | Location | Mitigation |
 |---|---|---|---|---|---|
-| 2 | trademark | Hermès — scarf in bondage anecdote *(tier: negative/entangled)* | Tied to a man's headboard with a Hermès scarf. Best thing that's happened to me all month. | Randi's Saturday anecdote, mid-lunch | Genericize to 'a silk scarf' — the luxury signal survives without the mark. |
+| 1 | trademark | Hermès — scarf in bondage anecdote *(tier: mentioned/entangled)* | Tied to a man's headboard with a Hermès scarf. Best thing that's happened to me all month. | Randi's Saturday anecdote, mid-lunch | Downgraded from 2 (author, 2026-08-01): passing in-prose brand mention, no source/sponsorship implication and no disparagement — protected expressive use (Rogers v. Grimaldi line; dilution statute excludes non-source, noncommercial use). Genericize to 'a silk scarf' only if counsel has a house preference. |
 | 2 | lyrics | 'Witchcraft' (Sinatra) — close paraphrase | the one where he gives in to a woman he knows he shouldn't, calls it witchcraft, that ancient pull he wouldn't switch off even if he could | restaurant-entry paragraph | Reduce to title-only ('Sinatra was doing "Witchcraft"') or loosen the paraphrase so it no longer tracks specific lines ('ancient pull', 'switch off'). |
 | 1 | trademark | Mercedes — setting of scene *(tier: setting-of-scene)* | The Mercedes was at the curb when Vee came down, top already folded back | opening paragraph | No change needed — nominative use, positive depiction; could genericize to 'the convertible' if counsel prefers. |
 | 1 | trademark | Rombauer — wine order *(tier: mentioned)* | And a glass of the Rombauer. | ordering scene; also the wine-list price paragraph and check paragraph | No change needed — nominative use; 'the Chardonnay' if counsel prefers. |
