@@ -20,7 +20,7 @@ She stepped onto the trail.
 
 ---
 
-The boots were wrong. She'd known it putting them on — Meg's boots, a half size big, stiff at the ankle where her foot didn't fill them. Her heel lifted inside the right one when she pushed off. A slip. A slip again.
+The boots were wrong. She'd known it putting them on — Meg's boots, a half-size big, stiff at the ankle where her foot didn't fill them. Her heel lifted inside the right one when she pushed off. A slip. A slip again.
 
 The trail eased in, like he'd said. The trees came close on both sides. The world narrowed to bark and root and the dirt between. The sky broke into gray flecks above the leaves. It was dim down here. It smelled of cold earth and something rotting slow and sweet under it.
 

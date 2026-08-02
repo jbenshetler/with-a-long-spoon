@@ -134,7 +134,7 @@ She went on from there. The thing she had learned years ago and set aside as a c
 
 "That's it," he said.
 
-She felt — and this was where her body got ahead of her mind by what felt like a full second, the kind of beat she would not be able to clock until later — *what he had done.* Not the math part, which was small and tidy. The other part. The way he had read it like a problem he was meeting for the first time. The way he had asked her what her professor had said, instead of telling her what *he* would have said. The way his pencil-mark had been a margin note, not a rewrite. The way he had given her *back the pencil* at the exact line where she could solve it herself. He had picked, out of the several possible paths into the problem, the path that was a tutor's path and not a mathematician's. The path he picked was — she could see this with her econ training, the muscle she had been developing for two years now, the eye for *how a smart person handles a problem they could handle in any of several ways* — was the path of a person who wasn't performing — not showing off, not hiding it either — who had kept himself out of it so the solving stayed hers. He had not pretended the problem was hard. He had simply not done the thing he could have done, which was solve it for her in two lines. He had given her the question and given her back the pencil. The way he had —
+She felt — and this was where her body got ahead of her mind by what felt like a full second, the kind of beat she would not be able to clock until later — *what he had done.* Not the math part, which was small and tidy. The other part. The way he had read it like a problem he was meeting for the first time. The way he had asked her what her professor had said, instead of telling her what *he* would have said. The way his pencil-mark had been a margin note, not a rewrite. The way he had given her *back the pencil* at the exact line where she could solve it herself. He had picked, out of the several possible paths into the problem, the path that was a tutor's path and not a mathematician's. The path he picked was — she could see this with her econ training, the muscle she had been developing for two years now, the eye for *how a smart person handles a problem they could handle in any of several ways* — was the path of a person who wasn't performing — not showing off, not hiding it either — who had kept himself out of it so the solving stayed hers. He had not pretended the problem was hard. He had simply not done the thing he could have done, which was solve it for her in two lines. He had given her the question and given her back the pencil. The way he had—
 
 The thought did not finish. She was already smiling at him. He was already saying something to Randi, who had asked a question of her own.
 
@@ -146,7 +146,7 @@ The thought did not finish. She was already smiling at him. He was already sayin
 
 "Sure."
 
-He turned back to Vee. Randi's question had gotten the answer it had asked for — a single clean sentence — and the conversation had moved on. Vee filed it without filing it: *he answered her well, the way you'd answer anybody, and he answered me longer. He is here for the math help. He is also — *
+He turned back to Vee. Randi's question had gotten the answer it had asked for — a single clean sentence — and the conversation had moved on. Vee filed it without filing it: *he answered her well, the way you'd answer anybody, and he answered me longer. He is here for the math help. He is also—*
 
 The thought did not finish that one either.
 

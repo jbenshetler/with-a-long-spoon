@@ -15,6 +15,10 @@ enforces these, and flags anything not yet ruled rather than inventing a rule.*
   trail-offs ("So you've never—"), resumption after the cut ("—and his phone
   goes"), and speech interrupted by an action beat then resumed ("the—" she
   rolled her hips "—interrogation"). The dash severs the word, so no space.
+  **The closed-up form extends to narration and interiority trail-offs** —
+  a free-indirect or interior-thought sentence that breaks off ("how could
+  she possibly—", "*He is also—*") closes up the same way; the break, not
+  the quotation marks, is what triggers it. (Ruled 2026-08-02.)
 - **Never dash + comma** (`—,`). The dash ends the fragment; the comma goes.
 - **No en dashes, no double hyphens** in prose.
 - **Ellipsis: the single character `…`**, closed up to the preceding word, space
@@ -41,7 +45,16 @@ enforces these, and flags anything not yet ruled rather than inventing a rule.*
   adjective alike: *half-second, half-inch, half-step, quarter-turn* ("she
   held it for a half-second," "turned her cup a quarter-turn"). Deviates from
   Chicago/MW (which open the noun) in favor of the book's established voice.
+  Extends to the like: *half-degree, half-size, quarter-inch* etc. The
+  **phrasal form with an article stays open** ("half a second," "half a
+  degree") — it's a different construction, not a variant to normalize.
   (Ruled 2026-08-02.)
+- **Coined color/quality compounds are exempt from the grammar split** and
+  keep their hyphen in every position — *wine-dark, cocoa-brown, gray-gold,
+  oyster-pale, heart-stopping, worn-in, keyed-up, dark-haired, round-faced,
+  pencil-mark* and their kin. These read as fused voice-coinages (the
+  wine-dark-sea pattern), not attributive compounds with a natural open
+  predicate form. (Ruled 2026-08-02.)
 - **Deliberate compound coinages** are a voice feature and exempt from the
   grammar split — see "Deliberate compounds" below.
 
@@ -81,6 +94,12 @@ Each entry: canonical form — ruling and date.
 - **faceup** (adv. and adj.) — closed, mirror of *facedown*, same noun/verb
   test: "the phone lying faceup" but "tilted her face up." (2026-08-02)
 - **high school** — open, incl. attributive (MW). (2026-08-02)
+- **one-piece** (n., the swimsuit) — hyphenated. (2026-08-02)
+- **part-time** — hyphenated in all positions (MW). (2026-08-02)
+- **post-war** — hyphenated; house deviation from MW's closed *postwar*.
+  (2026-08-02)
+- **sing-song** — hyphenated; house deviation from MW's closed *singsong*.
+  (2026-08-02)
 - **lamplight** — closed (MW). (2026-08-02)
 - **redheaded** — closed (MW). (2026-08-02)
 

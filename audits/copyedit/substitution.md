@@ -1,9 +1,0 @@
-# Copyedit flags — substitution.md
-
-- **"pencil-mark" hyphenation, line 137**: "The way his pencil-mark had been a margin note, not a rewrite." Used as a bare noun (not attributive before another noun), so the general grammar-split rule would open it ("pencil mark"). But "pencil mark" isn't in the word list or the deliberate-compounds list, so it's unclear whether this is a dictionary-style compound needing the split applied or an intentional coinage (like "not-knowing," "too-much"). Left unchanged pending a ruling.
-
-- **half-degree / half a degree inconsistency, lines 65 and 87**: Line 65 — "the room settle a half-degree around where he stood" (hyphenated). Line 87 — "the room tilting half a degree toward her" (open, with inserted article "a"). Same recurring image, two different constructions. The measure-compound rule ("always hyphenated, noun and adjective alike") suggests both should match, but converting "half a degree" to "a half-degree" would move/drop a word ("a"), which is outside the punctuation-only mandate. Flagging rather than rewording.
-
-- **half a second, line 219**: "looked at Vee one more time, half a second, said *talk soon*" — same open construction as above, versus the hyphenated "half-second" used at lines 77 and 189. Same word-order issue as the half-degree flag; not fixed for the same reason.
-
-- **Trailing/unfinished italicized thoughts, lines 137 and 149**: Both end an interior-thought span with a spaced em dash before the thought cuts off ("The way he had — " / "He is also — *"), followed by "The thought did not finish." The broken-speech rule (cut-offs closed up) is written for *speech*; these are interiority, not spoken dialogue. Left as spaced dashes since the ruling doesn't explicitly extend the closed-up convention to interior trail-offs — flagging in case the author wants it extended.

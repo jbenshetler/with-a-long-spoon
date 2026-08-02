@@ -52,7 +52,7 @@ Vee looked at the wine list, which was its own card, and found the Rombauer on i
 
 Randi laughed, the real one, pleased. "Okay, fine, you're no fun and I'm dying to tell you anyway." She came in close over the table, conspiratorial, warm, bringing Vee in with her. "So I let this beautiful idiot take me home. Sweet, pretty, completely in love with himself — you know the kind, the kind you keep around for the view. And we get back to his place and I decide I want to play, so I have him tie my wrists to the headboard. With a *scarf*. Very romantic, very incompetent, the knot came loose twice." She was grinning, lit up with it, and the grin was an invitation. "And then he tickles me."
 
-"He — he what?"
+"He—he what?"
 
 "Tickles me. Everywhere. And I can't move, that's the whole thing, my hands are tied up over my head and I am laughing so hard I genuinely thought I was going to *wet myself*, Vee, I'm not exaggerating, there were tears, I was gone — " the laugh breaking through her own telling now, pulling Vee bodily toward it " — and right when I think I'm going to actually die, he stops. And he switches. To somewhere else *entirely*." A lift of one eyebrow, the gap left wide open, generous, delighted. "And I went off like a *rocket*. Boom. Tied to a man's headboard with a Hermès scarf. Best thing that's happened to me all month."
 

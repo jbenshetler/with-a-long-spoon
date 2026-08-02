@@ -22,7 +22,7 @@ The door at the front of the room opened and it was not Randi, it was a guy with
 
 "Okay."
 
-The professor cleared his throat into the microphone clipped to his collar, which meant ninety seconds, which meant Vee could stop, the not-looking was over, the question was about to be answered by default — she wasn't coming, she'd meant it like you mean *we should get lunch*, fine, fine, it was always going to be fine —
+The professor cleared his throat into the microphone clipped to his collar, which meant ninety seconds, which meant Vee could stop, the not-looking was over, the question was about to be answered by default — she wasn't coming, she'd meant it like you mean *we should get lunch*, fine, fine, it was always going to be fine—
 
 "*There* you are."
 
