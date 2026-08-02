@@ -138,7 +138,7 @@ And she knew the cloth before he raised it — his flannel, the same soft shirti
 
 He laid it over her eyes and tied it behind, snug and careful, and the room went out; the last thing she saw was the two of them in the spotted glass, and then nothing.
 
-He took both her hands in his and drew her forward, step by slow step, leading her blind across the boards — she felt the fire's warmth come up against her front, nearer and then near, and then her bare feet found the edge of the rug and stepped onto it, the deep pile warm after the smooth boards. There he stopped her, and turned her a quarter turn by the hands, and let them go.
+He took both her hands in his and drew her forward, step by slow step, leading her blind across the boards — she felt the fire's warmth come up against her front, nearer and then near, and then her bare feet found the edge of the rug and stepped onto it, the deep pile warm after the smooth boards. There he stopped her, and turned her a quarter-turn by the hands, and let them go.
 
 He stepped back from her — his bare feet made no sound on the thick rug, and she felt the warmth of him go rather than heard it. She stood in the middle of the rug in the little plum nothing of a cami and the panties tied with their two bows, the warmth of the fire along one side of her and the comfortable room all around, the clear gray light of the afternoon still lying along her skin through the windows — and she understood, with a small lurch, that it was nowhere near dark, that the light would hold a good while yet, that he could see her, all of her, plainly, and she could see nothing at all. Her whole body wanted to curl inward and cover itself. She made herself stand still.
 

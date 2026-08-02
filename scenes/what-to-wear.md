@@ -68,7 +68,7 @@ Meg smiled into her cheese, not unkindly. "Everybody's different at the start. I
 
 Vee let it go by. It didn't catch on anything.
 
-Her phone buzzed on the table, face-up, and her eyes were on it before she chose to look. His name. She read it, read it again, and the fry in her hand was just a thing in her hand now.
+Her phone buzzed on the table, faceup, and her eyes were on it before she chose to look. His name. She read it, read it again, and the fry in her hand was just a thing in her hand now.
 
 Both of them were watching her face.
 

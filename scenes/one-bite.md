@@ -2,7 +2,7 @@
 
 The morning had teeth in it, and Vee came in out of the cold with her eyes still stinging, and the bistro took her all at once: warm, loud with the bright clatter of a good brunch, smelling of coffee and butter and cut citrus. There was no velvet here, nothing to drink the noise. The whole south side was glass, a long bright sun porch of it, and the late morning came through the white muntins and lay over the cloths and the people.
 
-A girl with a stack of menus and a brunch-shift brightness said, "Hi, just you?" and when Vee said she was meeting someone the girl's face cleared. "Oh, she's already here. Back porch, come on." Vee was on time; she'd checked. She followed the girl down between the tables a half step behind the morning.
+A girl with a stack of menus and a brunch-shift brightness said, "Hi, just you?" and when Vee said she was meeting someone the girl's face cleared. "Oh, she's already here. Back porch, come on." Vee was on time; she'd checked. She followed the girl down between the tables a half-step behind the morning.
 
 Randi was at the table against the glass with her gold sunglasses pushed up into her black hair, and when she saw Vee her whole face came on, warm and sure, as though of all the people and all the mornings this was the one she had been keeping the table for. "There's my girl." She did not get up. She caught Vee's hand a moment as she sat, and let it go. "You look well. Sit."
 

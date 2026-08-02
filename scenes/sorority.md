@@ -32,7 +32,7 @@ Vee took it off in the bathroom and slid it back into the bag and drew the zip u
 
 ---
 
-The Mercedes sat in the bypass lot, dark green going to black, too much car for the cart corral and the sun-faded lines. She got out of it more easily than the first time. She knew now to let the window drop its half inch to the handle on its own, knew the seat would give under her and then hold, and she stepped out onto her own asphalt like a girl who rode in cars like this.
+The Mercedes sat in the bypass lot, dark green going to black, too much car for the cart corral and the sun-faded lines. She got out of it more easily than the first time. She knew now to let the window drop its half-inch to the handle on its own, knew the seat would give under her and then hold, and she stepped out onto her own asphalt like a girl who rode in cars like this.
 
 They started where Vee started everything, the big bright store off the bypass, shoes out by the hundred on their steel racks, the try-on benches bolted to the floor, a clearance wall in the back you had to earn. Here the ground was hers. She knew which racks lied about a size and which aisle hid the real half-offs, and she went in with a plan, working the wall for something that could stand next to burgundy and not apologize.
 

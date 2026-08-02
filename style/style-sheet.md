@@ -27,6 +27,24 @@ enforces these, and flags anything not yet ruled rather than inventing a rule.*
   apostrophes, which naive smartening flips backward (`'em`, `'til`, `'90s`).
   (Ruled 2026-08-02.)
 
+### Hyphenation
+
+- **General rule — the grammar split**: hyphenate compounds when attributive
+  before a noun; open as noun or predicate. "A white-tie ball" / "he stood in
+  white tie" · "white-gold bracelet" / "white gold at her ears" · "right-hand
+  column" / "his right hand" · "barely-there satin" / "it was barely there" ·
+  "too-warm house" / "the house was too warm" · "department-store navy" /
+  "cross a department store" · "try-on bench" / "to try on later" ·
+  "late-morning light" / "by late morning." (Ruled 2026-08-02; the corpus
+  already followed this — recorded so a copyeditor doesn't relitigate it.)
+- **Measure compounds — house exception, always hyphenated**, noun and
+  adjective alike: *half-second, half-inch, half-step, quarter-turn* ("she
+  held it for a half-second," "turned her cup a quarter-turn"). Deviates from
+  Chicago/MW (which open the noun) in favor of the book's established voice.
+  (Ruled 2026-08-02.)
+- **Deliberate compound coinages** are a voice feature and exempt from the
+  grammar split — see "Deliberate compounds" below.
+
 ### Numbers
 
 - **Spelled out in narration**, always. **Digits only inside depicted
@@ -60,6 +78,8 @@ Each entry: canonical form — ruling and date.
   open only where *face* is the literal noun or the verb**: "put her face down
   in the covers," "turned to face down her body." The noun/verb test decides
   every case. (2026-08-02)
+- **faceup** (adv. and adj.) — closed, mirror of *facedown*, same noun/verb
+  test: "the phone lying faceup" but "tilted her face up." (2026-08-02)
 - **high school** — open, incl. attributive (MW). (2026-08-02)
 - **lamplight** — closed (MW). (2026-08-02)
 - **redheaded** — closed (MW). (2026-08-02)
@@ -80,5 +100,5 @@ Danny · Dr. Marsh. Places/brands as spelled in the legal pre-sheet
 
 ## Open items (candidates awaiting a ruling)
 
-- Remaining hyphenation variants in `style-sheet-candidates.md` §2 (top of
-  table; most of the tail is deliberate-compound noise).
+*None — all Pass 0/1 candidates ruled as of 2026-08-02. New candidates surface
+during Pass 2 (per-chapter enforcement) and get ruled as they arise.*
