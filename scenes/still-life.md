@@ -38,7 +38,7 @@ He got up. He took her by the hand and led her not to the bed exactly but to the
 
 "Keep them there," he said. "And keep your eyes closed for me."
 
-"Why am I —"
+"Why am I—"
 
 "Close your eyes."
 
@@ -58,7 +58,7 @@ There was a vine painted up her arm.
 
 Green and violet, wet-bright, a grapevine curling out of her open palm and down her wrist and up the inside of her forearm — a trailing branch of it, leaves and a tendril's whipping curl and a heavy hanging cluster of grapes just at the soft of her inner elbow, all of it rendered in paint on her own skin. She stared at it. She looked from the painted grapes to his face to the little pot of paint balanced on the low table and the soft brush in his hand still glistening, and she got it all at once, the whole afternoon of it, the towel and the eyes and the cold grape in her mouth — he was painting her. He'd been painting her the whole time. The grape she was still tasting matched the grapes on her arm.
 
-"*Oh,*" she said, which was not clever, which was nothing at all, just the sound of the top of her head coming off. "You — that's — "
+"*Oh*," she said, which was not clever, which was nothing at all, just the sound of the top of her head coming off. "You—that's—"
 
 "Keep still," he said, mild, and dipped the brush again.
 
@@ -68,7 +68,7 @@ He worked slowly, no hurry anywhere in him — he was the one with nothing left 
 
 He reached her armpit and she nearly came off the towel. The brush went into the hollow there, that defenseless place, and everything in her wanted to clamp her arm down over it, to protect it, to curl in — and her hands were up on the rail and meant to stay, and she made a sound that started as a laugh and turned into something with no name in the middle of it, her arm trembling with the work of staying open, staying up, staying still, while he painted a curling leaf into the one part of her that could not bear to be touched and could not get away.
 
-"*Pace* — "
+"*Pace*—"
 
 "Almost." He fed her another grape. She ate it helplessly, gasping around it. "There. Look."
 
@@ -80,7 +80,7 @@ He made a low sound, pleased, and she could have died of it, that he could see i
 
 He fed her a cool sliver of cantaloupe and painted the other breast while she came apart in small increments underneath, and her hands strained on the rail, and by now they wanted so badly to come down — to cover herself, to grab him, to do the one useless human thing and hold on — that keeping them up over her head, empty, receiving, unable to act, was all her body had left to fight, and it was losing. Her knuckles went white on the wood. She had never in her life been so unable to do anything but be done to.
 
-"You're — " she got out, and it fell apart, the sentence, the wit, the little half-inch of high ground she always kept above the moment to look down from — gone, no purchase, nothing quick enough. She was too far gone to be funny. That had never happened to her anywhere but here.
+"You're—" she got out, and it fell apart, the sentence, the wit, the little half-inch of high ground she always kept above the moment to look down from — gone, no purchase, nothing quick enough. She was too far gone to be funny. That had never happened to her anywhere but here.
 
 He went lower. He knelt in between her feet and drew her knees up and open, gently, arranging her, and she let him, boneless, watching over the wreck of her own painted body as he dipped the brush and considered the last of her.
 

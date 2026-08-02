@@ -12,7 +12,7 @@ Coming back was its own small ceremony. She came out of the bathroom in it, bare
 
 And Randi looked. The full beam, all at once — but for a second before any word came there was only the looking, Randi gone still with it, her eyes traveling down the long bias line and back up the way you take in a thing you're going to have to account for.
 
-"Oh, *baby.*" It came out on a breath. "Turn for me — slow." Vee turned the way she'd turned at the mirror, and felt the slit fall open on her leg and swing shut. "…*God*, Vee."
+"Oh, *baby*." It came out on a breath. "Turn for me — slow." Vee turned the way she'd turned at the mirror, and felt the slit fall open on her leg and swing shut. "…*God*, Vee."
 
 Randi crossed to her. She took a fold of the skirt between two fingers, at the hip, where the burgundy ran down into the plum beneath — not pinching, just feeling it, the silk sliding cool over her knuckle. "Charmeuse," she said, not to Vee; to herself, or to the dress. Her fingers moved up the seam, following the bias where it crossed Vee's body, reading the cut as her eyes had, and came to rest at the bare shoulder where the line began, the silk cool there and Vee warm under it. "And a good weight." A verdict, in a word Vee would never have reached for.
 

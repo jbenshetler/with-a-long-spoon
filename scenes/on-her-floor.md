@@ -28,7 +28,7 @@ And watching how easy it was — three good things in a closet full of them, the
 
 "Don't be silly." Randi turned for the closet.
 
-"Randi — " Vee got there first, a hand half-up. "Nothing in there's going to fit me but the shoes. We're built different, you and me. And you're shorter than I am."
+"Randi—" Vee got there first, a hand half-up. "Nothing in there's going to fit me but the shoes. We're built different, you and me. And you're shorter than I am."
 
 "Not that short." She said it lightly, sure of it, and pulled the door open. She went straight down the rail without hunting — she knew right where it was — and came out with it over one finger: a little iridescent skirt, stretchy and weightless, the sheen sliding oil-on-water as it swung. "Here." She held it out. "It'll look better on you than it does on me anyway. Legs like yours, and that ass? Wear it with your black wrap top, keep it simple — let the skirt do the talking."
 
@@ -46,7 +46,7 @@ Cassie watched from the lower bunk, a textbook open against her knees, highlight
 
 Cassie had her whole position on sororities and Vee had hers; they'd agreed a long time ago not to run it again. Tonight Cassie didn't reach for it. She looked at Vee standing there in the skirt and let it lie.
 
-"On Randi that's short. On you —" She tipped her head, doing the math out loud, accurate and unbothered. "You've got a foot of leg on her, and an ass she hasn't got at all. That hem's not going to stay put."
+"On Randi that's short. On you—" She tipped her head, doing the math out loud, accurate and unbothered. "You've got a foot of leg on her, and an ass she hasn't got at all. That hem's not going to stay put."
 
 Vee walked to the window and back. Three steps and the hem had started up the back of her thigh, then stopped, finding its own level — a little higher than she'd set it, and a good deal lower than Cassie was making it sound. She set her fingers to the hem where it sat on her thigh, and left it there.
 
@@ -154,7 +154,7 @@ The song broke. The floor cheered itself hoarse. Randi reeled her in by the hand
 
 Vee's hands came down and dragged the hem to where it should have been, too late, far too late. How long had it been up — a whole song? Longer? The edge of the floor was all faces, and she'd been turned to hand every one of them the back of her, the green, the almost-nothing. What had they seen? How much had she shown? The thong didn't even try to hide the roundness of her bottom. How much of her center had they seen? Some girl dancing up past the edge of her own skirt, flushed, letting another girl run her around by the wrists — what kind of floozie did that, in front of a room, and didn't even feel it going? She felt it now. It climbed her face, hot, and she waited for it to be only awful. It was not only awful. Underneath the shame, low, where she didn't look, something turned the heat over into the other thing, the thing she had no business feeling about a roomful of strangers and the back of a borrowed skirt — and she stood there in the broken-off music with her hem in both fists, found out twice over: once to the room, and once, worse, to herself.
 
-"Hey — *hey.* Don't." Randi caught her chin and brought Vee's eyes up off the floor and onto her. "They already looked — and believe me, nobody minded." The grin came up then, bright, conspiratorial. "There's Harrison. Let's put on a show — make him wish he were *me*." And she was already turning Vee by the hand, back toward the room.
+"Hey — *hey*. Don't." Randi caught her chin and brought Vee's eyes up off the floor and onto her. "They already looked — and believe me, nobody minded." The grin came up then, bright, conspiratorial. "There's Harrison. Let's put on a show — make him wish he were *me*." And she was already turning Vee by the hand, back toward the room.
 
 Harrison was across the room — a tall boy with a beer and a face Vee half-knew and didn't need to, and that was the whole use of him: he was over there, and he could be performed at. Randi tucked in against Vee's side, hip to hip, tipped her head toward him — the oldest joke at any party, two girls being silly for a boy — and then, grinning right at Harrison, she laid her hand flat on Vee's ass and took a slow, theatrical handful of it. A bit. A punchline. Vee felt the grip of it through the thin skirt, the warm certain spread of Randi's fingers, and understood that the joke and the thing were not going to be the same size.
 

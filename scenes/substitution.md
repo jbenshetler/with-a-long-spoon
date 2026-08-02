@@ -202,7 +202,7 @@ He glanced, finally, properly, at his watch.
 
 The thing that happened in her chest at the glance was small and stupid and she could not have named it. It was the small *oh* of being reminded that the man across from her was a man with a day, and that the day was about to take him out of the chair he was in.
 
-"I should — " he said.
+"I should—" he said.
 
 "Yeah," she said.
 

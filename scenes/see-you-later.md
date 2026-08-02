@@ -62,19 +62,19 @@ Vee wrote *latent variables* on her page because it was the last thing he'd said
 
 Randi was getting up.
 
-"Okay, I'm *dying*," Randi said, slinging her bag across her. "I cannot do another thing until I've had coffee. Come to Chi Latte with me. Both of you. Have you been? It's two blocks, it's the yellow one on Draper, they do this thing with the — you have to come, I'm not asking, I've decided."
+"Okay, I'm *dying*," Randi said, slinging her bag across her. "I cannot do another thing until I've had coffee. Come to Chi Latte with me. Both of you. Have you been? It's two blocks, it's the yellow one on Draper, they do this thing with the—you have to come, I'm not asking, I've decided."
 
 *Chi Latte.* Vee had been past it forty times. It was the one with the line out the door on game days, the one where the photos got taken, the one she had looked at through the window once while waiting for a bus and not gone into because going into it alone felt like walking into someone's party that you hadn't been invited to. *I've decided.* Vee felt the *yes* arrive in her chest fully formed, ahead of everything, and she made herself wait one full beat so it would not come out the size it actually was.
 
 "Yeah," she said, and got most of the eagerness folded down. "Yeah, sure, I could do coffee."
 
-"*Yes.*" Randi turned the wattage. "Okay, good, this is the best decision I've made all day and it's eleven-fifty." Then, to Cassie, the warmth swinging over again, generous, complete: "Cassie. Come."
+"*Yes*." Randi turned the wattage. "Okay, good, this is the best decision I've made all day and it's eleven-fifty." Then, to Cassie, the warmth swinging over again, generous, complete: "Cassie. Come."
 
 Cassie was already standing, the wrong textbook back in her bag, her ball cap pulled out of the side pocket and set on her head, the brim low. She was in shorts and yesterday's shirt and the cap and she looked exactly like what she was, which was a person who had a lab at noon and no particular feelings about the yellow one on Draper.
 
 "I've got a thing," she said. "You go."
 
-"Are you *sure,* we'll wait — "
+"Are you *sure*, we'll wait—"
 
 "I'm good." And she meant it, too — there was nothing in it, no sulk, no edge, just a person declining a thing that wasn't hers in a voice with nothing in it but the fact. She hitched her bag up and looked at Vee, and something passed over her face, brief, that Vee would not have been able to name and did not try to.
 
@@ -82,7 +82,7 @@ Cassie was already standing, the wrong textbook back in her bag, her ball cap pu
 
 It landed a little wrong. *Goodbye* — not *see you later,* not *text me,* not *bye* — the whole word, flat and finished, the word for a longer parting than a Monday. Vee felt the small wrongness of it the way you feel a stair that isn't where your foot expected, and her face did the thing it did with wrongness, which was to smooth it.
 
-"It's *coffee,* weirdo," she said, laughing. "I'll see you at home in two hours."
+"It's *coffee*, weirdo," she said, laughing. "I'll see you at home in two hours."
 
 "Yeah," Cassie said. She let it stand. She didn't fix it. She lifted a hand and went up the aisle toward the doors with the brim of her cap down, and was gone into the hallway, and Vee turned back to Randi already half forgetting the word had been odd, because Randi was holding the row open for her with a hand and saying *come on, come on, before the line,* and the better thing was moving and Vee went with it.
 

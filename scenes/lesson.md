@@ -124,7 +124,7 @@ The boom box rode behind the seat of his truck, the town falling away behind the
 
 The Rusty Nail was loud and warm when they walked in, the kind of warm that came from bodies and not from the heat being turned up — a real crowd, people who knew what they were doing. The floor was already moving. She stood in the entrance for a moment and felt the difference between the pad and this: the lesson had been private and deliberate, and this was alive, and she was going to be visible.
 
-He paid at the door, and a girl at the till stamped the backs of their hands and said *hey, Pace* like she'd been waiting all night to. They went looking for a table along the wall and didn't get there quickly. People knew him. A man caught his shoulder going past; two women came off the rail with their arms already open, and there was a round of hugs — the easy collision of people glad to see somebody. *This is Vee*, he said, each time, and each time she got a handshake or a one-armed hug meant mostly for him.
+He paid at the door, and a girl at the till stamped the backs of their hands and said *hey, Pace* like she'd been waiting all night to. They went looking for a table along the wall and didn't get there quickly. People knew him. A man caught his shoulder going past; two women came off the rail with their arms already open, and there was a round of hugs — the easy collision of people glad to see somebody. *This is Vee,* he said, each time, and each time she got a handshake or a one-armed hug meant mostly for him.
 
 One of them kept a hand on his arm and tipped her head at Vee. "Did he tell you he taught the class? He's the reason half of us can dance." She said it like a gift and was gone before Vee could do anything with it.
 
@@ -138,7 +138,7 @@ Then the band came back and he took her hand and led her onto the floor.
 
 For one song she was good, and the goodness still surprised her — not that she could do it but that she could do it *because of him*, the lead as legible here as it had been on the pad, three-quarters of what she needed already in his hand. Then she thought about it. She caught a couple watching, and a woman past his shoulder, and the count came back into her head — *one-and-two* — and the moment she was counting she was behind it, stepping where the step had already gone, a half-beat late, recovering wrong.
 
-*Don't think*, she told herself. *Just feel the lead.*
+*Don't think,* she told herself. *Just feel the lead.*
 
 She gave the frame her weight. And the floor came back to her — his hand at her back, even and exact, the turn arriving before she'd decided anything to do about it. The frame she'd fought on the pad as too close, too fixed, too much rule, was the thing doing it now: it held her in the one place the next step could come from, so there was nothing to do but take it. She stopped counting. Couples moved around them and she didn't touch one.
 
@@ -208,7 +208,7 @@ The woman behind the bar was older, and moved with the economy of someone who'd 
 
 "He's a good guy."
 
-"I don't need a man who *gets all the girls home safely.*"
+"I don't need a man who *gets all the girls home safely*."
 
 The woman huffed, not quite a laugh, and went on with what she was doing — glasses up out of the rack, rag over the taps.
 

@@ -73,7 +73,7 @@ She had a stupid half-second of just thinking about his hands. About how they wo
 
 She came back. He was settling the tape, and the tape ran across the fullest part of her, which was — she could not pretend otherwise — across her nipples, which were still doing what they had been doing since the moment her arms came down. The tape passed over them and her stomach did something small.
 
-"Does it — " She heard her own voice, slightly higher than she meant it. She made it steadier. "Does this measurement change? Like. When they're not — like this."
+"Does it—" She heard her own voice, slightly higher than she meant it. She made it steadier. "Does this measurement change? Like. When they're not — like this."
 
 He looked up. He was very still for a beat. And then he laughed — a real laugh, surprised out of him, his head dropping for a second before he got it under control. And then the laugh tapered and he tilted his head slightly, the look she was starting to recognize — the one he wore when something genuinely interesting had landed in front of him and he was turning it over.
 

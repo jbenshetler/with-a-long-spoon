@@ -86,7 +86,7 @@ She came up out of the book — lifted her eyes off the page and looked around, 
 
 Something crossed him at *parents* — a small closing, there and gone, a door easing shut two rooms away. "No," he said. Then, lighter, back in the room: "I license a patent. It pays a little."
 
-"You have a *patent.*" She turned to face him. "What's it do?"
+"You have a *patent*." She turned to face him. "What's it do?"
 
 And he lit up like a six-year-old who'd just found out everything there was to know about dinosaurs. "You know MRI machines," he said, starting where she stood and working in. "The tube, holding still, the banging for half an hour. So — the machine's straining to pick up something really faint, and it comes in buried under noise, and the whole game is telling the real signal from the junk. That's the hard part, always." He wasn't looking at her now; he was looking at the middle of the air, where the thing was. "Mine does that part faster. Finds the picture in the noise in a fraction of the passes. Which is *time* — somebody sick, somebody scared, a kid who can't lie still, they get the same picture and they're out of the tube in a fraction of it."
 

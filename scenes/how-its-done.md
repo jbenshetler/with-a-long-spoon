@@ -81,13 +81,13 @@ Across the table Randi was very still. She was smiling, still smiling, but somet
 
 "Oh," Randi said, and the tightness was gone, folded away somewhere, the beam full up again. She leaned in. "Oh, you *love* being looked at."
 
-"I do *not* — "
+"I do *not*—"
 
 "You do. Listen to you. *He looked at me and I was fine.*" She said it back in Vee's own voice, fond, delighted, and Vee felt her face go hot in a way that was not entirely unhappy. "There's nothing wrong with it, baby, God, I wish more girls had it. Most of them spend the whole time trying to disappear." She tipped her head, warm, conspiratorial, the room narrowing to the two of them. "So. What were you wearing while he looked at you?"
 
 And there it was — the door, swung open and waiting, and the thing Vee had planned to walk straight past. She had meant to keep this part folded up. She had meant to say *he fitted the top* and move on to the silk, the color, the safe parts. But the question was so soft, and the booth was so close, and she had wanted — she realized she had wanted, the whole drive over, maybe for days — to tell someone. To tell *her*. The wanting got there before the plan did.
 
-"Just — " her voice came out smaller, and higher, and she heard it go and couldn't stop it, dropping down into something hushed, leaning across the table the way you lean to give up a secret " — you know. To fit it right he had to — he needed the real measurements, the actual ones, so it would sit the way it's supposed to, so — " the words piling up vague and quick around the shape of the thing she wasn't saying, the cut-out plain in the middle of them.
+"Just—" her voice came out smaller, and higher, and she heard it go and couldn't stop it, dropping down into something hushed, leaning across the table the way you lean to give up a secret "—you know. To fit it right he had to — he needed the real measurements, the actual ones, so it would sit the way it's supposed to, so—" the words piling up vague and quick around the shape of the thing she wasn't saying, the cut-out plain in the middle of them.
 
 "Vee." Warm. Patient. A little amused. "Nobody measures over a bra."
 
@@ -117,11 +117,11 @@ And Vee — caught, and knowing she was caught, and unable in the swim of it to 
 
 And Randi laughed too, and the two laughs went up together over the table — Vee's first, raucous, her whole body in it, the laugh of someone setting down something she'd carried up too many stairs; and Randi's a half-beat behind and folding right around it, big, warm, the perfect sorority laugh.
 
-"*Hot,*" Randi repeated, savoring it, wiping under her eye though there was nothing there. "Oh, you're *trouble*." She let the laugh ebb, and stayed leaned in, and her voice came down again into the warm low register, the just-us register, the one Vee would have followed anywhere. "Okay. No. Go on, though — don't stop, you said he was measuring you for a *dress*." A wicked little smile. "Dresses don't stop at your gorgeous chest."
+"*Hot*," Randi repeated, savoring it, wiping under her eye though there was nothing there. "Oh, you're *trouble*." She let the laugh ebb, and stayed leaned in, and her voice came down again into the warm low register, the just-us register, the one Vee would have followed anywhere. "Okay. No. Go on, though — don't stop, you said he was measuring you for a *dress*." A wicked little smile. "Dresses don't stop at your gorgeous chest."
 
 "Randi."
 
-"They *don't.* Keep going. He had to get down on his knees to do the rest of you, didn't he — with you up on the little platform. The pedestal. They put you up on a literal pedestal." She said it like it delighted her, like it was the best detail yet. "I bet that felt *great*. Yeah?"
+"They *don't*. Keep going. He had to get down on his knees to do the rest of you, didn't he — with you up on the little platform. The pedestal. They put you up on a literal pedestal." She said it like it delighted her, like it was the best detail yet. "I bet that felt *great*. Yeah?"
 
 "…Yeah," Vee said, and heard her own voice go soft and faraway, because it had felt great, it had felt like nothing she had words for.
 
@@ -137,7 +137,7 @@ And Randi laughed too, and the two laughs went up together over the table — Ve
 
 Vee had gone dreamy. The booth was very far away. She was back on the platform with the warm air on her bare skin and his face turned up and the thing that had happened in her body that she had never told a single soul, not Cassie, not anyone, the thing she had folded up the smallest and pushed the deepest — and it rose now, all on its own, because the room was so safe and Randi was so close and the wanting to *give* it, finally, to set it down on the table with everything else and be laughed gently over and forgiven — the wanting opened her mouth.
 
-"I — " Vee started. "There was — "
+"I—" Vee started. "There was—"
 
 "You don't have to tell me."
 

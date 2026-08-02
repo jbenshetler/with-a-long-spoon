@@ -10,9 +10,9 @@ The ceiling came level. Her breasts were still shining faintly in the lamplight 
 
 He turned toward her, and kept turning, rolling up onto his side and coming all the way around until his body lay nearly square across hers, his feet off the far edge of the bed, and he set his head down on the lower slope of her breast with his cheek against her skin. One hand went up into her hair and stayed. For a while he only lay like that, looking up the length of her at her face, his eyes gone soft, the smile still on him, and she looked back down at him and the smile would not leave her face.
 
-*He's all mine*, she thought.
+*He's all mine,* she thought.
 
-Then his mouth moved, small kisses, barely kisses, his lips scarcely leaving her between them. *He takes such comfort there*, she thought. *They're not about sex for him.* She could feel his ear against her and the weight of his head and the kisses wandering slow up the curve of her breast, drawing his face along with them, and when they reached the faint pale pink of her, the color so slight it was scarcely there at all, it drew tight under his mouth and came up bright, with no say from her, spent as she was, and the corners of his mouth pulled up against her, where he'd felt it happen too.
+Then his mouth moved, small kisses, barely kisses, his lips scarcely leaving her between them. *He takes such comfort there,* she thought. *They're not about sex for him.* She could feel his ear against her and the weight of his head and the kisses wandering slow up the curve of her breast, drawing his face along with them, and when they reached the faint pale pink of her, the color so slight it was scarcely there at all, it drew tight under his mouth and came up bright, with no say from her, spent as she was, and the corners of his mouth pulled up against her, where he'd felt it happen too.
 
 His lips closed over her, not taking her into his mouth, only holding the risen tip of her a moment between his lips, gentle. Which rather spoiled her theory, and pleased her to no end. *Not just about sex for him, then.* And there, off to the side where his hips had come to lie across her, he was hard.
 

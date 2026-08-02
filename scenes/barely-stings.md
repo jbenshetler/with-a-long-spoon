@@ -38,7 +38,7 @@ Tuesday, after stats, at Chi Latte — the yellow room, the white cups, the smal
 
 Sondra came back snapping on gloves. She was warm at first — *how're we doing, first-timer? we'll take it easy* — warm in the professional way with a clock running under it, and then she settled onto her stool at the foot of the table and drew the not-gown up and away like a napkin lifted off a plate, and the warmth folded itself down into something level and unhurried and without any interest at all, and asked the question.
 
-"So what're we doing today, hon. Full Brazilian, or —"
+"So what're we doing today, hon. Full Brazilian, or—"
 
 And there it was. She had to say it. Out loud, to a stranger with a good haircut, in a bright room, she had to put the want into words and hand it across.
 
@@ -46,7 +46,7 @@ And there it was. She had to say it. Out loud, to a stranger with a good haircut
 
 Sondra nodded. Wrote nothing, changed nothing in her face, reached for the warmer — the nod you'd give a coffee order, and that was the worst of it, that the sentence which had cost Vee everything to say cost this woman nothing at all to hear. A word came up from the back of her mind in her mother's register, the flat kitchen voice that had been naming things for her since before she had names of her own: *the kind of girl who.* She shut her eyes on it. It stayed where it was. It always did.
 
-The first of it was almost pleasant — warm, the wax laid on thick with a wooden stick, high up along the top, a spread of heat where she was coldest. A cloth pressed over it. A pause. She had time to think *that's not so —*
+The first of it was almost pleasant — warm, the wax laid on thick with a wooden stick, high up along the top, a spread of heat where she was coldest. A cloth pressed over it. A pause. She had time to think *that's not so—*
 
 Sondra tore it off.
 

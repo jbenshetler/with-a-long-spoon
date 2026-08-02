@@ -86,7 +86,7 @@ He watched it work through her. For the first beat she was simply confused, and 
 
 Then the third beat, and he felt it arrive in her body before her face changed: the question resolved, the frame snapped into place, and she went hunting up the path after the swinging ponytail. That, and the hand in his — it was enough. He let the camouflage stand. It was the wrapper the wanting needed to come out in, and letting her keep it was the kindness.
 
-"No," Randi said. The propriety was gone out of her voice. Something else had come into it, lower, considering. "Too — " She watched the ponytail reach the shade of the colonnade and turn. "Too expected."
+"No," Randi said. The propriety was gone out of her voice. Something else had come into it, lower, considering. "Too—" She watched the ponytail reach the shade of the colonnade and turn. "Too expected."
 
 "Mm," he said, neither agreeing nor not, and they kept walking, in no hurry at all.
 
@@ -114,7 +114,7 @@ He stopped walking. He turned and kissed her — not the ear this time, the mout
 
 "Maybe," he agreed, mild, and started them walking again.
 
-She laughed, low in her throat, and the thing she said came out warmer and realer than she meant it to — he heard the seam in it, the place where the performance didn't quite cover the actual heat underneath. "*Oh,*" she said. "You dirty boy." Sex-kitten, the trailing register, a hand light on his arm. It would have read to almost any man as pure play, a girlfriend being game. He let her have it.
+She laughed, low in her throat, and the thing she said came out warmer and realer than she meant it to — he heard the seam in it, the place where the performance didn't quite cover the actual heat underneath. "*Oh*," she said. "You dirty boy." Sex-kitten, the trailing register, a hand light on his arm. It would have read to almost any man as pure play, a girlfriend being game. He let her have it.
 
 The *maybe* had taught him something and he tried to use it: not the closed ones, not the mirrors — try open, try warm, try a woman who took up room and was glad to. So he pointed at the most alive one in sight, a striking girl mid-laugh in a knot of friends, a blazer and a white-blond blowout in loose curls that had survived the wind better than it had any right to, the big unbothered authority of someone who chaired things and ran the room while she did, a wide confident face and a smile she was already wearing before anyone had said anything to earn it. He thought he had it. "God, no," Randi said, fast, and there was real feeling in the *no*. "Noted," he said, enjoying her. "Strong no." He'd guessed wrong. The girl's ease was performed, aimed outward, a thing she did *at* people. Closer, but no.
 

@@ -20,7 +20,7 @@ The flutes came cold and beading. Vee lifted hers. "To girls' brunch," she said,
 
 "He spanked me."
 
-Randi's brows went up a half degree. "The little love tap. You told me about that last time."
+Randi's brows went up a half-degree. "The little love tap. You told me about that last time."
 
 "No, that was a swat, before." And then, because the sun was warm, the mimosa delicious, and Randi's face waiting for it: "He spanked me." A pause, to hold her there. "After I pantsed him."
 
@@ -28,7 +28,7 @@ Randi shrieked, the real article, a hand flat to her chest, the next table glanc
 
 "Had his shorts off and gone before either of us knew I'd done it. He had nothing on underneath."
 
-"Oh, you *brat.*"
+"Oh, you *brat*."
 
 "I was crowing about it, too. And he got me by the waist and spun me clean out of my wrap skirt. One pull of the tie and it was gone. Like a top." The saying of it put his hands back on her, the whole quick helpless spin of it, and something low turned over once, lazily, and settled lower.
 
@@ -60,7 +60,7 @@ Randi went still. Then her mouth opened. "He did *not*."
 
 Vee nodded, solemn, her whole face alight with it, and underneath the nod her body did the thing it had done for him, gave without being asked, a slow soft give she felt all the way down, so that for one appalling second the chair and the cloth and the bright room were very far off and only the wet plain fact of herself was near.
 
-"*Inside?*" Randi breathed it, scandalized, thrilled. "The cheeky devil. So you lost. When he checked." The smallest grin. "Close call?"
+"*Inside*?" Randi breathed it, scandalized, thrilled. "The cheeky devil. So you lost. When he checked." The smallest grin. "Close call?"
 
 "Not at all." And there it was a third time, going through her, the ease of it, the *much*-of-her of it that she had said out loud now to another person, and she shifted on the seat and her breath would not sit flat and she reached for the mimosa mostly to have something cold to do with her mouth.
 

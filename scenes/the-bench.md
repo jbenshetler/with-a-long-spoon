@@ -314,7 +314,7 @@ He soothed her ass with his other hand. He came around to her face again. He cro
 
 "Tell me."
 
-"They're *fine,* Pace," she said, half exasperated, half something else, and he smiled at her in the upside-down position of her face — her cheeks were a high color now, her forehead damp — and saw her smile back, and he kissed her forehead again and tasted the salt of her on his lips.
+"They're *fine*, Pace," she said, half exasperated, half something else, and he smiled at her in the upside-down position of her face — her cheeks were a high color now, her forehead damp — and saw her smile back, and he kissed her forehead again and tasted the salt of her on his lips.
 
 "Just checking," he said.
 
@@ -332,7 +332,7 @@ He kissed the spot where his hand had been on her ass. She inhaled sharply.
 
 "I'm not stopping. I'm taking my time."
 
-"That's not what — "
+"That's not what—"
 
 "I know," he said, gently.
 
@@ -374,11 +374,11 @@ He slid his fingers back into her. This time he stayed. She was furnace-hot and 
 
 "Hi."
 
-"Pace, *please.*"
+"Pace, *please*."
 
 "Tell me," he said, mildly, his face still against her. "Tell me what you want."
 
-"I want — "
+"I want—"
 
 "Tell me."
 
@@ -396,11 +396,11 @@ She went still.
 
 She did not say anything for a long moment. The breathing he could hear from her changed — the rhythm broke. He let it break. He kept his hand on her back. The small confusion worked in her body. He waited.
 
-"I — " she said, and stopped.
+"I—" she said, and stopped.
 
 "Yes."
 
-"What — "
+"What—"
 
 "Take your time," he said.
 
@@ -438,15 +438,15 @@ He felt the small jolt go through her body when he named the specific name. Broo
 
 A sound came out of her that he had never heard before. It was small. It was raw. It was nothing like any sound she had ever made in his presence. It was the sound of a woman in a position she had not consented to even though she had consented to the position. He held very still. He kept his hand on her cheek. He waited.
 
-"I — " she said.
+"I—" she said.
 
 "Yes."
 
-"Please — "
+"Please—"
 
 "Tell me what you want, baby."
 
-"*Please,*" she said. The *please* was different. The *please* came from below. The *please* was the *please* of a woman who needed something. "Please. Please, Pace. Please."
+"*Please*," she said. The *please* was different. The *please* came from below. The *please* was the *please* of a woman who needed something. "Please. Please, Pace. Please."
 
 "Yes."
 
@@ -454,7 +454,7 @@ A sound came out of her that he had never heard before. It was small. It was raw
 
 "Yes."
 
-"Please. *Please.* I'm — I'm begging, please, please — "
+"Please. *Please.* I'm—I'm begging, please, please—"
 
 There it was. He heard it. He felt himself receive it. The voice was different — lower, broken, almost ugly compared to the bright sorority-house voice she normally used, and *real*, unmistakably, the voice of a woman who was not performing because she had run out of the apparatus of performance. *Hers.*
 

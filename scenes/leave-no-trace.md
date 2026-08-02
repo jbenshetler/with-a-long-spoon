@@ -46,7 +46,7 @@ Two steps back down to her. He looked at the trail, then up past her at somethin
 
 "Here. Sit up on this one."
 
-A boulder at the trail-edge, dry. She stepped over and turned and sat up on it. Her feet didn't reach the ground. He crouched in front of her. The pack came off his shoulder and down onto the trail.
+A boulder at the trail edge, dry. She stepped over and turned and sat up on it. Her feet didn't reach the ground. He crouched in front of her. The pack came off his shoulder and down onto the trail.
 
 Her stomach clenched before she knew why. He was going to take her boot off. He was going to take her *sock* off. Her foot had been in that boot forty minutes and the sock was going to be — the word came up in her mother's voice, the whole verdict, *what kind of girl lets a man* — her face went hot and she opened her mouth —
 
@@ -92,7 +92,7 @@ She didn't have anything to do with that but eat. She bit.
 
 The bread was dry, the crust giving its small chew, and then the lettuce cold and loud against her teeth, and then the mustard came sharp and sour and woke her whole mouth, and then the meat under it, red and full and substantial, and then — a beat behind the rest, climbing — the heat of it bloomed all the way up into her sinuses and watered her eyes and pulled a gasp out of her, half a laugh, around the mouthful.
 
-"Oh — that's — "
+"Oh—that's—"
 
 "Too much?" He was smiling. "It's the horseradish. It does that."
 
@@ -124,7 +124,7 @@ Still weeks off. The honor society, the one with the certificate and the dinner 
 
 A dinner. A ceremony. She had to find something to wear.
 
-"I saw a dress." She was holding a cherry and she looked at it instead of him. "In a magazine. The one they leave out in the lobby. It was silk. Russet — like — " the color, what to do with the color, "— like the red of a brick. That kind of red. It just looked like the dress. Like the one."
+"I saw a dress." She was holding a cherry and she looked at it instead of him. "In a magazine. The one they leave out in the lobby. It was silk. Russet—like—" the color, what to do with the color, "—like the red of a brick. That kind of red. It just looked like the dress. Like the one."
 
 She heard it as it came out. The wanting in it. The reach of it — the dorm girl pointing at the magazine, *that one, I want that one.* The voice opened up about it and she went past the voice.
 
@@ -254,7 +254,7 @@ He'd parked illegal so she wouldn't have to cross the rain.
 
 Her hand was on the door. She turned to him. The thing she wanted to say was bigger than any words she had for it, and she was going to put a small thing where the big thing went, because the small thing was the one that fit. She opened her mouth.
 
-"Pace — "
+"Pace—"
 
 Blue and white came on behind them, strobing in the rain across the back glass. The campus cop, pulled up behind, lights going. Pace checked the mirror. He looked back at her. He started to say something.
 

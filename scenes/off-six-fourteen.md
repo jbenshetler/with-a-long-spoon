@@ -26,11 +26,11 @@ Cassie's whole face was open with it, glad, all the way in — and then, because
 
 "How much did he give you to drink?"
 
-"*Nothing.*" Vee laughed, surprised up out of the quiet. "We had *tea*, Cassie, I just told you, the little — there was no wine, there was nothing. He didn't —" and here the thing she most wanted Cassie to have, the whole of it, came up plain and certain. "Nobody did anything to me. I wasn't talked into it. I did it because I wanted to and I did it on purpose."
+"*Nothing*." Vee laughed, surprised up out of the quiet. "We had *tea*, Cassie, I just told you, the little — there was no wine, there was nothing. He didn't —" and here the thing she most wanted Cassie to have, the whole of it, came up plain and certain. "Nobody did anything to me. I wasn't talked into it. I did it because I wanted to and I did it on purpose."
 
 "Okay," Cassie said, and this time the okay had her believing it, and she was grinning again. "Look at you."
 
-"Look at —" but the rest of it wouldn't stay sitting down. It came up through her all at once and put her on her feet, and she spun, once, quick, arms going up, hair going everywhere, a clumsy whole-body turn that nearly took out the closet door and was over before it was really a dance at all — the room too small to hold what she had to do with it — and she came down into the bean bag chair in a heap, breathless, laughing at herself. "*Look at me.*"
+"Look at —" but the rest of it wouldn't stay sitting down. It came up through her all at once and put her on her feet, and she spun, once, quick, arms going up, hair going everywhere, a clumsy whole-body turn that nearly took out the closet door and was over before it was really a dance at all — the room too small to hold what she had to do with it — and she came down into the bean bag chair in a heap, breathless, laughing at herself. "*Look at me*."
 
 "I'm looking."
 
@@ -46,15 +46,15 @@ Cassie considered her from the edge of the bed, sock feet, arms around her knees
 
 Vee threw a pillow at her, which Cassie took on the shoulder without unfolding.
 
-"His name is Pace, he is *lovely,* and I am not going to go missing." But she was already answering it, already happy to, because being able to answer it was its own small proof of something — that she had this, that there was a *this* to have. "He lives out west of town, off six-fourteen, past where it goes to gravel. There's a trail he goes to out there. He'll have water and everything, he's not going to walk me off a cliff." She counted it off like a dossier, like plenty. "See. I know where he lives and everything."
+"His name is Pace, he is *lovely*, and I am not going to go missing." But she was already answering it, already happy to, because being able to answer it was its own small proof of something — that she had this, that there was a *this* to have. "He lives out west of town, off six-fourteen, past where it goes to gravel. There's a trail he goes to out there. He'll have water and everything, he's not going to walk me off a cliff." She counted it off like a dossier, like plenty. "See. I know where he lives and everything."
 
 "Off six-fourteen," Cassie repeated.
 
 "Off six-fourteen."
 
-"That's the whole address. *Off six-fourteen.*"
+"That's the whole address. *Off six-fourteen*."
 
-"It's a *road,* Cassie, it's not — you go out past where the —" Vee gestured at the wall in the approximate direction of west, and gave it up, laughing.
+"It's a *road*, Cassie, it's not — you go out past where the —" Vee gestured at the wall in the approximate direction of west, and gave it up, laughing.
 
 "Is he rich?" Cassie said. "Rich people hike. Poor people walk. Out there with a trail he *goes to* — is he rich?"
 

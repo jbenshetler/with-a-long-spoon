@@ -12,7 +12,7 @@ She had not, it turned out, washed her makeup off the night before so much as re
 
 "Wouldn't be half bad," she told the mirror, "without the sad-clown thing."
 
-So she fixed the clown. She did the rest of her face, and it brought her up from *crime scene* to *long night,* which was as far as paint was going to get her and far enough.
+So she fixed the clown. She did the rest of her face, and it brought her up from *crime scene* to *long night*, which was as far as paint was going to get her and far enough.
 
 ---
 
@@ -56,7 +56,7 @@ It came out of her in pieces, the way it does when someone's letting you tell it
 
 "She comes up to me all sugar," Vee said, "and goes, *he's such a great lead, all us girls love him, he's so good about getting a girl home safe at the end of the night.*"
 
-"That *bitch,*" Randi said, with feeling.
+"That *bitch*," Randi said, with feeling.
 
 "Right?"
 
@@ -76,7 +76,7 @@ Randi didn't say anything for a moment. She just held on.
 
 "There was a woman behind the bar," Vee said. "Older. Closing up. She set a glass of water in front of me and told me he was a good guy, and I gave her the same thing — *I don't need a man who gets all the girls home safe* — and she just kept stacking her glasses. And then she said the girls weren't looking at *him*. They were looking at my chair. They were jealous of *me*. And I'd spent the whole night —"
 
-"— jealous of *them,*" Randi finished, soft.
+"— jealous of *them*," Randi finished, soft.
 
 "Jealous of them."
 
@@ -116,7 +116,7 @@ So Vee walked her through it — the green one she'd restyled, rayon, but it dra
 
 And Vee lost it — the laugh came up out of nowhere and bent her over, helpless, the kind that doesn't ask permission first.
 
-"*What,*" Randi said.
+"*What*," Randi said.
 
 "You — hang on —" She got half a breath back. "*Edna Mode.* You just straight-up Edna Mode'd me. *'I have to see what I'm working with'*" — she did the voice, the clipped imperious little bark of it — and that cracked Randi too, and for a second the pair of them were gone, the small dark one and the tall red one, laughing in the cold bright room.
 
@@ -180,7 +180,7 @@ She knew without being told what they cost — not off any label, there wasn't o
 
 "You can't just — these are —" She gestured down at her own feet, helpless. "I don't even have any evil stepsisters."
 
-Randi laughed, the real one. "Maybe you just haven't met your Evil Queen yet." She rose and crossed to a drawer, waving the rest of the protest off on the way — "You're wearing them, that's settled" — and came back with a length of silk pouring over both hands, deep greens and a thread of gold someone had chosen on purpose. She looped it once at Vee's bare throat and swept the ends back over one shoulder, off to one side, so the front of her stayed open and nothing lay across the chest. She cocked her head at the lopsided fall of it, liked it, and nudged it a quarter inch truer.
+Randi laughed, the real one. "Maybe you just haven't met your Evil Queen yet." She rose and crossed to a drawer, waving the rest of the protest off on the way — "You're wearing them, that's settled" — and came back with a length of silk pouring over both hands, deep greens and a thread of gold someone had chosen on purpose. She looped it once at Vee's bare throat and swept the ends back over one shoulder, off to one side, so the front of her stayed open and nothing lay across the chest. She cocked her head at the lopsided fall of it, liked it, and nudged it a quarter-inch truer.
 
 "There. That." She stepped back, looked, and nodded once, like a woman signing off on a commission. "Yes. Yes. Very good."
 

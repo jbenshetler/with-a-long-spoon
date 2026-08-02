@@ -50,7 +50,7 @@ Her mother had owned a spice rack, technically. It had come as a wedding present
 
 He laughed then, the small quiet laugh he had in the house, the one that did not perform for anyone beyond the two of them. It moved through her more tenderly than she expected. She had not been trying to make him laugh. That was the trouble with him. She could be trying only to tell him a thing, and he would receive it so exactly that the telling itself became a pleasure.
 
-"My parents grew up in the same city," she said. "Same city, not high-school sweethearts, nothing that good. They met at church. My mother's a nurse. My dad works on jet engines for a major airline." She turned the mug in her hands. "He's got this reverence for things done in the right order. When I was little he told me he could hear a problem in an engine the way other men hear a wrong note in a song, and I believed him completely. I thought all fathers came with a sense like that. Issued to them with the kid."
+"My parents grew up in the same city," she said. "Same city, not high school sweethearts, nothing that good. They met at church. My mother's a nurse. My dad works on jet engines for a major airline." She turned the mug in her hands. "He's got this reverence for things done in the right order. When I was little he told me he could hear a problem in an engine the way other men hear a wrong note in a song, and I believed him completely. I thought all fathers came with a sense like that. Issued to them with the kid."
 
 "My mother still calls me Vivienne."
 

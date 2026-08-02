@@ -134,7 +134,7 @@ Then his hands came around and under her, down into the open middle of the bench
 
 "You're enjoying this," he said, easily, his hands full of her. "Your breasts hanging free like this. Waiting."
 
-It went through her like a hand laid flat on a bruise. She had not known the thing had a name until he named it. The naming dragged her up out of the warm quiet into her own head, where her mother kept watch. The old reflex came up before she had decided anything at all. "No," she said into the leather, small. "That's not it. That's not —"
+It went through her like a hand laid flat on a bruise. She had not known the thing had a name until he named it. The naming dragged her up out of the warm quiet into her own head, where her mother kept watch. The old reflex came up before she had decided anything at all. "No," she said into the leather, small. "That's not it. That's not—"
 
 He was quiet a moment.
 
@@ -216,7 +216,7 @@ He set his palm flat on her bare backside, on the warmth gathered there from the
 
 "You're soaked," he said. Pleased, low, like a man naming a thing that is true and good. "Right through."
 
-"It's not —" she said. The denial came up the way it always had, a real one, a hand thrown up to hold the thing at arm's length where she could go on living beside it. And there was nothing on the end of it now. No cold, no satin, no accident of cloth. Nothing to be not.
+"It's not—" she said. The denial came up the way it always had, a real one, a hand thrown up to hold the thing at arm's length where she could go on living beside it. And there was nothing on the end of it now. No cold, no satin, no accident of cloth. Nothing to be not.
 
 "All right," he said.
 
@@ -340,7 +340,7 @@ She could see his feet. That was all the bench had left her, her face down in th
 
 Then his fingers were at her, and it was new, and her whole body knew that it was new. He had not been inside her before, not once, not through any of it; he had run her up and over and back down with the flat of his hand and his thumb and never this. Now, with her spread open and held that way and unable to close, he set the tips of two fingers to the soaked open mouth of her and pressed, barely, just parting her, just past the first give of her and no further, and held there. Only the beginning of him in her. The threshold touched and not crossed, and him gone still against it, waiting, the way the still hand had waited under her all night for her to do the rest.
 
-She strained back onto him. She pushed on the grips and drove her hips up and back toward his hand with everything her arms and her back could give, the whole length of her shaking with the work of it, and "*No,*" she said as she did it, the word drawing out long and coming apart in the middle, "*nooo,*" even while she worked herself further onto him; and for all of that effort he went only a little deeper, a finger's breadth and no more, her own straining body buying her that small new fullness and no push of his to help it.
+She strained back onto him. She pushed on the grips and drove her hips up and back toward his hand with everything her arms and her back could give, the whole length of her shaking with the work of it, and "*No*," she said as she did it, the word drawing out long and coming apart in the middle, "*nooo*," even while she worked herself further onto him; and for all of that effort he went only a little deeper, a finger's breadth and no more, her own straining body buying her that small new fullness and no push of his to help it.
 
 "That's a lot of work for no," he said.
 
@@ -352,7 +352,7 @@ So she did it again. Knowing, this time. Knowing that back was the only directio
 
 "That 'no' keeps getting deeper."
 
-The third time was not a strain so much as a giving-up into it. She drove back the last of the way and let her whole weight go down onto his hand, and "*no,*" she got out once more, but it failed partway and had nothing left under it, and she came down full and seated on him, all the way, as deep as he would go; and the thing inside her that had been clenching all night on nothing closed at last on something, and the relief of it was so large and so shaming that the sound she made then had no word in it at all.
+The third time was not a strain so much as a giving-up into it. She drove back the last of the way and let her whole weight go down onto his hand, and "*no*," she got out once more, but it failed partway and had nothing left under it, and she came down full and seated on him, all the way, as deep as he would go; and the thing inside her that had been clenching all night on nothing closed at last on something, and the relief of it was so large and so shaming that the sound she made then had no word in it at all.
 
 "There," he said. "All the way down on 'no'."
 

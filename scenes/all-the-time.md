@@ -68,7 +68,7 @@ Randi turned her glass a slow quarter-turn and back and said nothing for a secon
 
 Randi didn't reach to make anything of it — no grin, no line to cap it. She only nodded, and let the quiet be quiet a moment.
 
-"And the *attention,*" Vee went on, because it was pouring now, the thing she'd never said out loud rising up to be said. "It's on me the whole time I'm there, not just — I mean even with my clothes on, which, ha, isn't a lot of the weekend—" Randi's laugh, low "—even then. I feel *looked at*. Not creepy-looked-at, not like a guy at a bar. The other thing. Like—" She was reaching for it and it came up on its own, surprising her as it left her mouth. "Like he wants *me*. With the body attached. Not — the other way around." She laughed, a little unsteady. "God, that sounds unhinged."
+"And the *attention*," Vee went on, because it was pouring now, the thing she'd never said out loud rising up to be said. "It's on me the whole time I'm there, not just — I mean even with my clothes on, which, ha, isn't a lot of the weekend—" Randi's laugh, low "—even then. I feel *looked at*. Not creepy-looked-at, not like a guy at a bar. The other thing. Like—" She was reaching for it and it came up on its own, surprising her as it left her mouth. "Like he wants *me*. With the body attached. Not — the other way around." She laughed, a little unsteady. "God, that sounds unhinged."
 
 Randi didn't answer.
 
@@ -94,7 +94,7 @@ Randi did not lean in. She let the unfinished thing sit there and be finished. "
 
 And Vee had the phone in her hand before she'd quite decided to. She thumbed to the older ones first, the safe ones, and turned the screen across the table.
 
-"Okay, these are *dusty,*" Randi said, thumbing back through, clocking the dates as she went. "Babe, these are two *weeks* old. You did *nothing* worth a picture last week? Nothing?"
+"Okay, these are *dusty*," Randi said, thumbing back through, clocking the dates as she went. "Babe, these are two *weeks* old. You did *nothing* worth a picture last week? Nothing?"
 
 Vee felt it climb her neck. "I mean—"
 

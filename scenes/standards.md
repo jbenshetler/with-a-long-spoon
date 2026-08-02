@@ -8,7 +8,7 @@ Through the archway from the foyer the common room was not empty. Saturday morni
 
 Brooke smiled.
 
-"Oh — *hey,* you."
+"Oh — *hey*, you."
 
 Brooke's voice was always warm. She had a voice the way other people had a perfume. It preceded her into rooms and stayed in them after she left.
 
@@ -16,7 +16,7 @@ Randi's smile arranged. The arrangement was a fraction late.
 
 "Hey," she said, and kept moving toward the stairs.
 
-"Wait — "
+"Wait—"
 
 Friendly. The laptop still open. Brooke had not stood. The not-standing was the move; Brooke was the chapter president and did not need to stand to stop someone in her own common room. Randi understood it from the inside — she sat on the board herself, Standards — and she knew exactly how much authority it took to stay seated while another person stopped walking. Brooke had more of it than she did.
 
@@ -72,7 +72,7 @@ Brooke shifted slightly in her chair. The smile got an additional crease — the
 
 "Math," Randi said. "PhD."
 
-"Oh — math." A recalibration, barely there, the smile absorbing it without conceding the notch. "He doesn't *teach*, does he — you're in math this term, aren't you, you're not in one of his sections — "
+"Oh — math." A recalibration, barely there, the smile absorbing it without conceding the notch. "He doesn't *teach*, does he — you're in math this term, aren't you, you're not in one of his sections—"
 
 The fraction-of-a-second was wider here. Randi felt the room hold it.
 
@@ -88,7 +88,7 @@ The fraction-of-a-second was wider here. Randi felt the room hold it.
 
 Kinsey, who had been waiting for the room to warm to her, leaned forward over her cereal bowl. The small bright laugh she had been holding came out.
 
-"Okay but he's *cute,* right?" she said. "Like — short-cute? I feel like he's a short-cute."
+"Okay but he's *cute*, right?" she said. "Like — short-cute? I feel like he's a short-cute."
 
 Randi's laugh came at the same pitch as Kinsey's. The matching was very fast. She had not had time to choose the pitch.
 

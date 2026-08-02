@@ -18,7 +18,7 @@ They were on their backs in the white afternoon, the two of them, the bed wrecke
 
 "Mm."
 
-"And it was —" she let the word wait, and dropped her voice into a register of mock gravity for it, like a verdict she was pretending to deliver with a straight face — "*good.*"
+"And it was —" she let the word wait, and dropped her voice into a register of mock gravity for it, like a verdict she was pretending to deliver with a straight face — "*good*."
 
 He smiled. He felt it move his own mouth before he'd decided to.
 

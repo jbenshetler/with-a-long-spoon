@@ -86,7 +86,7 @@ She felt the laugh go through his back before she heard it.
 
 "Two minutes," he said again, maddening, reasonable, and kept washing, and she could feel that he was enjoying her, which only made it worse.
 
-"*Soaking,*" she said, the whole argument she'd already won, into his spine, and she got a grip on his wet forearm and pulled.
+"*Soaking*," she said, the whole argument she'd already won, into his spine, and she got a grip on his wet forearm and pulled.
 
 He turned, half-turned, inside the circle of her arms, and his right hand came off the scrub brush and got her under the arm where the big shirt hung loose and open, dry fingers against the bare warm skin of her side, and she came apart. The suddenness of it, fingers dug in exactly where she couldn't bear it, a hand that knew what it was doing to a ticklish sleep-warm body; she shrieked and folded and twisted away from it laughing, helpless, batting at him. "No, no, no, Pace…" already too far gone to defend herself.
 

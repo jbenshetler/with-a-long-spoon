@@ -56,7 +56,7 @@ He went to his knees and drew the skirt off her feet. She stepped free of it.
 
 The sun porch again: him on the floor, her standing, his hands at her waist, and she remembered the pinned silk and the smile he hadn't tried to hide. His palm moved down over the satin, over the front of her, slow, and its warmth came through the thin fabric onto the exact place she was wet, pressing the damp back against her, so he met it before he had bared her at all. 
 
-*Floozie*, said the voice. That was the worst it had.
+*Floozie,* said the voice. That was the worst it had.
 
 Then his fingers hooked inside the elastic at her hips and drew them down, and the satin peeled away and the crystal strings came with it, obvious and excessive, thin and bright between the fabric and her skin. She saw him see them. Her hand moved to cover herself and stopped.
 

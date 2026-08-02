@@ -14,7 +14,7 @@ She got down out of the truck and the cold came up to meet her, cleaner and hard
 
 "It's rustic," he said, mild, like he was standing by the word.
 
-"It is not. It's —" she gestured at the whole of it and gave up on the sentence. "You don't get to call this rustic. There are people who'd kill for your lean-to."
+"It is not. It's—" she gestured at the whole of it and gave up on the sentence. "You don't get to call this rustic. There are people who'd kill for your lean-to."
 
 And then the quiet got her, and she stopped. She stood a moment inside it. No road, no one — only the small tick of the cooling engine and the wind working in the dry grass and, past that, nothing at all. "I don't think I've ever heard it be this quiet," she said, lower now. "There's just — nothing."
 
@@ -72,7 +72,7 @@ They carried in the basket and the bowls and the cups, and the room had changed 
 
 He set the things down on the counter. Then he came to her and worked the top buttons of his flannel shirt open, three or four of them, taking his time, and reached for her hands.
 
-"No — Pace, don't, they're freezing." She tried to pull them back, curling them in against herself. "You don't want these anywhere near you, I'm serious, I'm like a popsicle —"
+"No — Pace, don't, they're freezing." She tried to pull them back, curling them in against herself. "You don't want these anywhere near you, I'm serious, I'm like a popsicle—"
 
 "I know what they are." He took them anyway, both of them, easily, as he took whatever she tried to keep back, and drew them in under the shirt and laid them flat against his bare chest. The shock of it went through both of them — her ice on his warmth — and she made a sound, half apology, and tried once more to take them back, and he held them there. He did not flinch from the cold of her the way another man would have. He kept her hands against the slow steady heat of him until the ache in her fingers began to loosen and let go, and she stopped pulling, and stood there with her palms on him and her eyes coming up to his.
 
@@ -118,7 +118,7 @@ He led her — unhurried, three slow steps — to the cheval mirror, and stood h
 
 "Look at you," he said, over her shoulder, the two of them together in the foxed glass. "Tell me what you see."
 
-She looked. "A red-headed woman in beautiful new plum lingerie," she said — all she gave herself, and she went past it gladly to the easier thing. "And a handsome man behind her. Brown hair, cut close — the athletic kind. Brown eyes, smiling. A cleft chin. That little birthmark by his ear."
+She looked. "A redheaded woman in beautiful new plum lingerie," she said — all she gave herself, and she went past it gladly to the easier thing. "And a handsome man behind her. Brown hair, cut close — the athletic kind. Brown eyes, smiling. A cleft chin. That little birthmark by his ear."
 
 Something crossed his face — a shadow, there and gone before she could put a name to it, so quick she half-thought she'd made it up. Then it was past, and he was looking at her again, steady and warm.
 
@@ -182,7 +182,7 @@ This was worse, somehow, than the front. The front she could at least have moved
 
 Not *look what you are.* Look what she was *to him* — the thing she did without thinking, the unguarded plain-morning fact of her, and he'd been lying there treasuring it while she thought herself unseen. Something tilted in her at that, some floor she'd stood on her whole life, and she put nothing back in its place; she only stood there, blind, and let it go.
 
-She felt him bend. His mouth came to the swell of her — a kiss, warm and slow — and then, soft, the gentlest catch of his teeth, barely a pressure, a thing that didn't hurt and only said *here, this, mine*, and a sound came out of her she hadn't planned. "And when I do this—" a tap, light, almost nothing, and she felt the give of herself answer it, the flesh taking the small blow and giving it back, alive. "—there. The way it moves, the way it settles, every time. And the goosebumps coming up now, all down the backs of your thighs, from my voice and the cold." She felt the smile against her skin. "Even your skin won't hold still for me. You couldn't be a still thing if you tried."
+She felt him bend. His mouth came to the swell of her — a kiss, warm and slow — and then, soft, the gentlest catch of his teeth, barely a pressure, a thing that didn't hurt and only said *here, this, mine,* and a sound came out of her she hadn't planned. "And when I do this—" a tap, light, almost nothing, and she felt the give of herself answer it, the flesh taking the small blow and giving it back, alive. "—there. The way it moves, the way it settles, every time. And the goosebumps coming up now, all down the backs of your thighs, from my voice and the cold." She felt the smile against her skin. "Even your skin won't hold still for me. You couldn't be a still thing if you tried."
 
 Then she felt him leave her back, and for a moment she had nothing — no touch, no breath, only the blind room turning slowly around her, and she did not know anymore which way she faced. The fire's warmth, steady all this while down her right side, swung dark as he crossed in front of it and came round to her — she found him by the heat alone, by its blocking and its coming back — and then she heard him go down, the rug taking his knees, and his breath arrived warm and low against her belly, and lower.
 
