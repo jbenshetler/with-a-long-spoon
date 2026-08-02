@@ -38,3 +38,21 @@
 - **Math content:** the painter's paradox (Gabriel's Horn — finite volume, infinite surface) and the coastline problem are both stated correctly.
 - **Season details:** "leaves came down in October" said in October; cold night, fire lit — consistent with Oct 20.
 - **Pronoun referents:** checked throughout; no ambiguous she/he/it beyond the flagged hand at line 245.
+
+## Author rulings (2026-08-01)
+
+1. **Fixed (in {{What to Wear}})** — the discovery belongs here ("It's
+   important that Vee discover his age here"); `what-to-wear.md:21` now
+   reads "He must be. He's getting his doctorate. Math." / "Almost finished
+   already" — the {{Rock}} beat stands as drafted.
+2. **Fixed** — ":247 found the place where the skin was not like the rest …
+   more of it than she'd known" — canon set: touched once briefly at First
+   Night, unexplored until tonight; inventory kept as the learning beat.
+3. **Fixed** — ":213 the hall, the fifteen" (dormitory item cut; :229 now
+   lands unspent).
+4. **Left standing** — mug re-pickup below narration's floor; cooling
+   gradient is the real continuity.
+5. **Left standing** — geometry closes; ":245 from her ankle" self-anchors.
+
+Also: chronology {{Rock}}/{{The Scar}} entries de-staled ("traced" → "found
+at First Night"). See `meta/meta-triage-rock.md`.

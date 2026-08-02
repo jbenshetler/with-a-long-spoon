@@ -210,7 +210,7 @@ Vee went still. She didn't choose it. She simply stopped moving.
 
 "It went on two years," he said. He was looking at the black glass, not at her, and his voice had changed — each word set down separately and precisely in its place, as though the placing of them were what held the sentence up off the floor. "She left the year she turned twenty-one. Nothing happened. Nobody did anything wrong. She was twenty-one and I was seventeen, and the rooms she was walking into by then were rooms they wouldn't let me stand in for four more years. Bars. The ordinary places. The distance that had been nothing at nineteen and fifteen was, all at once, the entire thing." He turned the cold mug a quarter-turn against his knee. "So she went on. Which was only sensible. It would have been stranger if she'd stayed."
 
-He laid it out in good order, every reason accounted for and set in its slot, and the good order was the tell. All evening she had heard him undersell things — the hall, the fifteen, the dormitory full of men — and this was that same voice gone one degree flatter, held too level, carried the careful way a person carries a full glass so it won't go over the rim.
+He laid it out in good order, every reason accounted for and set in its slot, and the good order was the tell. All evening she had heard him undersell things — the hall, the fifteen — and this was that same voice gone one degree flatter, held too level, carried the careful way a person carries a full glass so it won't go over the rim.
 
 She did the arithmetic without wanting to. Nineteen and fifteen. Two years. It landed low and heavy in her stomach before it was a thought she could have said aloud — the boy he must have been, taken off from home too early, brilliant and alone in a building full of grown men, and the one person in it who was his, who was tender with him, who was the soft middle of those two years, and she nineteen and he fifteen. The word for it started to form in her, the clean ugly grown-up word, and she held it down under her tongue. It was not hers to say.
 
@@ -244,7 +244,7 @@ She was quiet. She was putting something together, and it came together in her b
 
 He did not answer that with words. His hand moved up from her ankle, under the quilt, and settled flat and warm against her hip where she was bare under the robe, and stayed, not going anywhere, only being there, present as she had just named it, and the accuracy of it moved through her.
 
-Her own hand had drifted while they talked. It was on his thigh, above the knee, and now it moved without her deciding it, and found, high on the inside of his thigh, a place where the skin was not like the rest. A seam of it, old, raised and smooth, longer than her hand. Her fingers went along it before she thought about whether to.
+Her own hand had drifted while they talked. It was on his thigh, above the knee, and now it moved without her deciding it, and found the place where the skin was not like the rest, high on the inside of his thigh. A seam of it, old, raised and smooth, longer than her hand — more of it than she'd known. Her fingers went along it before she thought about whether to.
 
 "This?" she said.
 

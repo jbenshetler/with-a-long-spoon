@@ -31,7 +31,7 @@ with the author, item by item.
 22. all-told — reviewed
 23. sorority — reviewed
 24. gone — reviewed
-25. rock — audited
+25. rock — reviewed
 26. lesson — audited
 27. broken-in — audited
 28. hills-and-valleys — audited
