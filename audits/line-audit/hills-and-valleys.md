@@ -18,3 +18,10 @@ Triage doc (`meta/meta-triage-hills-and-valleys.md`) consulted; nothing below re
 - **Pronouns/referents:** "her" (line 7) → the redhead/Vee, resolved by lines 11–15; "the redhead" (line 19) already anchored; "She" attributions in lines 41–43 unambiguous.
 - **Dialogue logic:** every reply tracks — "Vee."/"That short for something?" (15–17); "You want me to not like her?" answered by "She couldn't take your heat" (31–33); "Two of them at once" follows correctly from the "not finished" non-denial (39–43). No attribution errors.
 - **Tense:** consistent past throughout; the habitual opening ("They rode Saturdays…") narrows correctly into the specific ride.
+
+## Author rulings (2026-08-02)
+
+1. **Left standing** — :45 "He caught her up": soft-pedal + "already looking
+   down the road" carry the re-separation; no beat wanted.
+
+No prose changes this pass.

@@ -1,3 +1,27 @@
+# Triage — Hills and Valleys (line-audit pass, 2026-08-02)
+
+Source: `audits/line-audit/hills-and-valleys.md`, reviewed with the author.
+**The "Left standing" section records authorial decisions — do not re-flag
+these without new evidence** (a new reader cohort snagging on the same spot,
+or an edit that re-opens the passage).
+
+## Fixed
+
+Nothing — the audit's only finding was left standing; everything else checked
+clean (dates vs. chronology, cross-scene continuity with {{Lesson}} and
+{{A Recognized Method}}, Sheri facts, spatial logic, dialogue logic, tense).
+
+## Left standing — do not re-litigate
+
+- **":45 "He caught her up" with no stated re-separation** — she has been
+  *soft-pedaling* (still rolling) since :29, and "already looking down the
+  road" is her moving off while he declines to answer; the drift apart is
+  reconstructible and her not waiting is the characterization. A stated
+  re-separation would be exactly the logistics beat this 45-line vignette
+  is built to omit.
+
+---
+
 # Triage — Hills and Valleys
 
 *Cold-read feedback pass, 2026-07-27. Panel: claude-opus-4-8, gpt-5.5, gpt-5.6-sol (all read after {{Broken In}}). No prior triage.*
