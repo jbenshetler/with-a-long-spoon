@@ -27,3 +27,22 @@ Triage checked: `meta/meta-triage-broken-in.md` reviewed; nothing below re-litig
 - **Dialogue logic:** every exchange answers its prior line, including Randi's preemptive "Not the cardigan" (characterful anticipation, not an error); attributions unambiguous throughout, including the two-"her" thumb/knee sentence at line 169 (readable in context).
 - **Tense/POV:** consistent past-tense Vee-POV; the pluperfect flashback of the bar confession (55–81) is cleanly framed as retelling.
 - **Pace unnamed until line 209** — deliberate and consistent; no premature naming.
+
+## Author rulings (2026-08-02)
+
+1. **Fixed** — :93 "half off the bed" → "half out of the chair" (option a).
+   Lore-keeper sweep confirmed the bed is a later escalation rung
+   ({{My Friend Randi}}, Jan 22); the chair is rung one by design.
+2. **Fixed** — :197 "Four hours ago" → "A few hours ago" (option a).
+3. **Fixed** — :49 appositive folded: "burying the cinnamon excess thrown
+   across her own nose and cheeks" (option b).
+4. **Left standing** — coat removal below narration's floor; the sealed
+   arrival is the coat's whole job.
+5. **Left standing** — toe-off pre-authorized by "low and worn soft";
+   Vee-vs-Randi footwear contrast intentional.
+6. **Fixed** (deferred from Lesson's auditor) — :7 "what" → "whatever was
+   left of him in the cloth"; wilful-reading tilt against {{Lesson}}'s
+   "fabric softener and no one".
+
+Also this session: chronology {{Ordinary Hang}} "stats finals" → "anthro
+finals"; Cassie added to broken-in `present:` (opening dorm beats).

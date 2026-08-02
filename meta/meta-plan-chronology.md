@@ -137,7 +137,7 @@ The "who are you" talk every new couple has — food/home, born where, how many 
 *"Don't think, just feel the lead"* — plants the threesome's phrase. Erroneous proprietary jealousy (she has standing now, which makes being wrong worse). The older woman's correction: external corroboration against the sorority whisper campaign.
 
 ### [SCENE] Broken In
-*Fri Oct 23 · morning after the CW Dance* · Draft complete · SATC · counsel register · Randi's single · `broken-in.md` · [detail](meta-condensed-broken-in.md) · slug: broken-in · present: Vee, Randi · reviewed: 2026-07-27
+*Fri Oct 23 · morning after the CW Dance* · Draft complete · SATC · counsel register · Randi's single · `broken-in.md` · [detail](meta-condensed-broken-in.md) · slug: broken-in · present: Vee, Randi, Cassie · reviewed: 2026-07-27
 Vee already knows she was wrong — the older woman's correction landed complete Thursday night; the overnight was penance, not processing. She shows up at Randi's door Friday morning needing counsel, inverting the usual power geometry. Central irony: she is confessing to the woman Pace is sleeping with that she misread Pace as a womanizer. Randi's validation is eyewitness-credible and perfectly self-serving. Counsel register (not extraction — distinct from {{Fed}} and the booth format). Randi steers Vee toward a full-throated apology without reservation (the posture Randi cannot occupy herself), reframes the jealousy as proof of feeling, and runs a wardrobe consultation from Vee's own closet — their bodies too different to share clothes, but shoes cross the gap. **First shoe loan** — Randi selects from her private archive of what she wore to Pace; the history rides along unspoken. Establishes the recurring pattern that culminates at the threesome. Vee's addition: the Humble Pie (store-bought, handmade label — her own idiom, not Randi's prescription). Social cost beat: a sister seeing the unaffiliated outsider at the sorority house threshold feeds {{Social Price #1}}.
 
 ### [VIGNETTE] Hills and Valleys
@@ -390,7 +390,7 @@ Vee finds a long dark hair that isn't hers in Pace's house (couch or kitchen, no
 
 ### [VIGNETTE] Ordinary Hang
 *~April* · Unwritten · Randi/Vee · non-structured · slug: ordinary-hang · present: ?
-Not a debrief. Randi and Vee doing something ordinary — studying for stats finals, a night in Randi's single, a walk. The friendship at its most genuine and most dangerous: Randi steering without seeming to steer, the management invisible because the relationship has its own momentum. A beat where nothing significant is said and the reader feels the undertow.
+Not a debrief. Randi and Vee doing something ordinary — studying for anthro finals, a night in Randi's single, a walk. The friendship at its most genuine and most dangerous: Randi steering without seeming to steer, the management invisible because the relationship has its own momentum. A beat where nothing significant is said and the reader feels the undertow.
 
 ### [SCENE] The Scar
 *~April · a quiet two-hander · before {{Vee on the Bench}}* · Architecture complete, prose not drafted · Vee POV · [craft](meta-note-scar-reveal.md) · slug: scar · present: ?

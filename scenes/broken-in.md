@@ -4,7 +4,7 @@ Vee refused to concede it. She kept her eyes shut and tracked the morning by sou
 
 She lay still until the quiet held. Then she climbed down.
 
-She'd slept in his shirt with nothing under it — the way she slept in it now, wanting as little as she could manage between her skin and what was left of him in the cloth. She crossed to the window Cassie cracked every night because she liked the cold to sleep in, and shut it. Then she pulled the shirt off over her head, folded it the way it deserved, set the totem back on her pillow, and pulled a t-shirt on against the chill.
+She'd slept in his shirt with nothing under it — the way she slept in it now, wanting as little as she could manage between her skin and whatever was left of him in the cloth. She crossed to the window Cassie cracked every night because she liked the cold to sleep in, and shut it. Then she pulled the shirt off over her head, folded it the way it deserved, set the totem back on her pillow, and pulled a t-shirt on against the chill.
 
 At their own sink she gave herself over to her ablutions, and they began with the water, which ran cold enough to bite. She put her face into it on purpose, and the cold went through her like a verdict. The funk had been a choice, all night, and she was done making it. She came up dripping and looked at herself.
 
@@ -46,7 +46,7 @@ Then Randi was at the top of the stairs in a robe, black hair loose and slept-on
 
 Up the stairs and inside, the door shut behind them, and Vee was somewhere she'd never been — a small room, close, entirely Randi's. The bed was thrown open and unmade, still holding the shape of her. Everything else sat in an order so quiet it read as calm. The air had Randi in it: bitter orange, green at the edge, nothing sweet.
 
-Randi dropped onto the foot of the bed, pulled her feet up under her — bare, the toenails painted sky blue — and nodded Vee into the desk chair. She'd been asleep ten minutes ago and gotten up for this. There were a few freckles across her nose, a sparse cocoa scatter she plainly never gave a thought to, bare to the morning and uncovered — where Vee had just spent ten minutes at the sink burying her own cinnamon excess, the freckles thrown across her nose and cheeks.
+Randi dropped onto the foot of the bed, pulled her feet up under her — bare, the toenails painted sky blue — and nodded Vee into the desk chair. She'd been asleep ten minutes ago and gotten up for this. There were a few freckles across her nose, a sparse cocoa scatter she plainly never gave a thought to, bare to the morning and uncovered — where Vee had just spent ten minutes at the sink burying the cinnamon excess thrown across her own nose and cheeks.
 
 "Tell me everything." Randi tipped her chin at her. "You look like you've been to a war."
 
@@ -90,7 +90,7 @@ And the thing Vee had been holding clenched since the dance floor let go of her,
 
 "So you fix it."
 
-"I'll go today." She was already half off the bed. "This afternoon. Before I lose my nerve —"
+"I'll go today." She was already half out of the chair. "This afternoon. Before I lose my nerve —"
 
 "Not today."
 
@@ -194,7 +194,7 @@ There was a long mirror on the wall and Randi turned her to it. "Look."
 
 Vee looked.
 
-Four hours ago she'd stood at a sink and found a sad clown. The woman in this glass was nobody's clown. She stood there in her bra and her long skirt and a borrowed pair of shoes and a stranger's silk at her throat, and there was color up high in her face and a light coming off her from somewhere, and she didn't go hunting for where. She'd have said the shoes. She'd have said the morning had turned out survivable after all. She looked, and she liked it, and she let herself like it, and behind her in the glass Randi watched her like her own good work.
+A few hours ago she'd stood at a sink and found a sad clown. The woman in this glass was nobody's clown. She stood there in her bra and her long skirt and a borrowed pair of shoes and a stranger's silk at her throat, and there was color up high in her face and a light coming off her from somewhere, and she didn't go hunting for where. She'd have said the shoes. She'd have said the morning had turned out survivable after all. She looked, and she liked it, and she let herself like it, and behind her in the glass Randi watched her like her own good work.
 
 "Tomorrow night," Randi said. "The black, the neckline down, the earrings — the real ones, nothing else. These shoes. This scarf. And you walk in there knowing you're going to make it right."
 

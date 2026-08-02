@@ -1,3 +1,49 @@
+# Triage — Broken In (line-audit pass, 2026-08-02)
+
+Source: `audits/line-audit/broken-in.md`, reviewed with the author.
+**The "Left standing" section records authorial decisions — do not re-flag
+these without new evidence** (a new reader cohort snagging on the same spot,
+or an edit that re-opens the passage).
+
+## Fixed
+
+- **":93 "half off the bed" → "half out of the chair"** — Vee was nodded into
+  the desk chair at :49 and never migrates; Randi owns the bed. Also
+  ladder-critical: Vee's first time *on* Randi's bed is {{My Friend Randi}}
+  (Jan 22, "knees touching"); the in-room escalation runs chair → bed →
+  closet-as-wardrobe, and this line would have spent the January rung three
+  months early.
+- **":197 "Four hours ago" → "A few hours ago"** — the scene's clock (8:00
+  alarm, sink ~8:15, arrival 9:00) makes "four hours" put the mirror moment
+  past noon; "a few" keeps the hinge without inviting arithmetic.
+- **":49 freckle appositive folded in** — "burying her own cinnamon excess,
+  the freckles thrown across her nose and cheeks" → "burying the cinnamon
+  excess thrown across her own nose and cheeks": the trailing appositive
+  could misattach to Randi's just-described nose freckles. One freckle-phrase,
+  unambiguously Vee's; freckle canon untouched.
+- **":7 "what was left of him" → "whatever was left of him in the cloth"** —
+  cross-scene: {{Lesson}} establishes the shirt washed ("fabric softener and
+  no one"), so a flat remainder-claim the next morning reads as contradiction.
+  "Whatever" concedes the inventory may be empty while keeping the want —
+  the totem outliving its evidence, marked as Vee's insistence.
+
+## Left standing — do not re-litigate
+
+- **The coat never comes off on-page** (:37 held closed, :43 done up to the
+  throat, gone by the :125 fitting) — removal on coming indoors is below
+  narration's floor ({{Rock}} mug precedent); the coat's meaning is the
+  sealed *arrival* Randi reads at :43, not the wearing.
+- **":125 lace-up boots "toed off"** — :19's "low and worn soft" scuffed pair
+  pre-authorizes it, and the contrast is working: Vee's comfort-worn things
+  surrender without ceremony while Randi's shoes are straps and catches that
+  must be fastened onto her.
+
+Related fix recorded elsewhere this pass: `meta-plan-chronology.md` {{Ordinary
+Hang}} entry "stats finals" → "anthro finals" (stats is fall-semester; the
+girls share anthro in spring).
+
+---
+
 # Triage — Broken In (cold-read feedback pass, 2026-07-27)
 
 Panel: claude-opus-4-8, gpt-5.5, gpt-5.6-sol (`reviews/cold-read/*/broken-in.md`).

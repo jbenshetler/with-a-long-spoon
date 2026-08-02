@@ -33,7 +33,7 @@ with the author, item by item.
 24. gone — reviewed
 25. rock — reviewed
 26. lesson — reviewed
-27. broken-in — audited
+27. broken-in — reviewed
 28. hills-and-valleys — audited
 29. recognized-method — audited
 30. practice-room — audited
