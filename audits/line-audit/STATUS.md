@@ -30,7 +30,7 @@ with the author, item by item.
 21. peekaboo — reviewed
 22. all-told — reviewed
 23. sorority — reviewed
-24. gone — audited
+24. gone — reviewed
 25. rock — audited
 26. lesson — audited
 27. broken-in — audited

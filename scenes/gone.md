@@ -44,7 +44,7 @@ Something crossed her face and was gone. "God, you two," she said, and set her c
 
 Something in Randi went quiet at that, and softened past it. "And you're showing her she doesn't have to be." She leaned up and kissed his lower lip — soft, brief — and settled back onto his chest. "That's why she's so gone over you."
 
-Then the tell of it dropped, half a register, went somewhere low and hoarse. "God. What she keeps under there." She pressed up on her hands and drew slowly down the length of him, her breasts dragging across his chest, one way and then the other, showing him with her own body the thing she was describing. "It's *criminal,* Pace. But you already know."
+Then her voice dropped half a register, went somewhere low and hoarse. "God. What she keeps under there." She pressed up on her hands and drew slowly down the length of him, her breasts dragging across his chest, one way and then the other, showing him with her own body the thing she was describing. "It's *criminal,* Pace. But you already know."
 
 It went through him — not the picture of Vee she'd handed him, but Randi, who kept a hand on every ounce of herself out in the world, wanting something out loud in his bed and not able to stop it. Her, stepping over her own line, of her own accord. His hands went to her thighs before the thought was done, stroking slow up the backs of them.
 

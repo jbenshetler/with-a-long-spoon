@@ -21,3 +21,11 @@
 - **Author-approved exception honored:** the interior brush at l.45 ("Something in Randi went quiet at that, and softened past it") is signed off in `meta-note-gone.md` (observation-only exception) — not flagged.
 - **Triage:** no `meta/meta-triage-gone.md` exists; nothing pre-settled to avoid beyond the meta-note exception above.
 - **Tense/timeline:** continuous single evening, past tense throughout; no elapsed-time contradictions.
+
+## Author rulings (2026-08-01)
+
+1. **Fixed** — ":47 Then her voice dropped half a register" (was "the tell of
+   it dropped, half a register"); :49 already does the tell-registering
+   explicitly.
+
+See `meta/meta-triage-gone.md`.
