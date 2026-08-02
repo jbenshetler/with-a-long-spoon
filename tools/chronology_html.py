@@ -8,7 +8,7 @@ pages at ~300 wpm, chapters, and reviewed counts, broken out by seasonal volume
 — Fall/Spring/Summer — plus a grand total), a status-colored beeswarm timeline
 across the academic year (hover a dot for the beat name), a phase-grouped card
 list, and the Continuity Flags panel. Each card also carries an on-disk `slug`
-chip, character-presence pills (Vee/Pace/Randi, filled = physically in the
+chip, character-presence pills (Vee/Pace/Randi/Cassie, filled = physically in the
 scene, from the `present:` metadata field), cold-read Heat/Romance pills
 (0-3 flames/hearts, averaged to the nearest 1/2 across the reviews/ cold reads
 — a reader-signal overlay, not canon), a prose word count (0 for undrafted
@@ -180,7 +180,7 @@ def classify(seg: str):
         return "slug", {"label": s.split(":", 1)[1].strip()}
     if low.startswith("present:"):
         val = s.split(":", 1)[1].strip()
-        names = {n for n in ("Vee", "Pace", "Randi") if re.search(rf"\b{n}\b", val)}
+        names = {n for n in ("Vee", "Pace", "Randi", "Cassie") if re.search(rf"\b{n}\b", val)}
         return "present", {"names": names, "known": bool(val) and val != "?"}
     m = LINK_RE.search(s)
     if m and not (ENDASH in s and _find_month(s)):
@@ -531,13 +531,13 @@ def rating_pills(e) -> str:
 
 
 def presence_pills(e) -> str:
-    """Three V/P/R chips: filled = physically present, dim = absent/unset."""
+    """Four V/P/R/C chips: filled = physically present, dim = absent/unset."""
     seg = next((v for k, v in e.segments if k == "present"), None)
     if seg is None:
         return ""
     names, known = seg["names"], seg["known"]
     out = []
-    for n in ("Vee", "Pace", "Randi"):
+    for n in ("Vee", "Pace", "Randi", "Cassie"):
         if not known:
             cls, tip = "unk", f"{n}: presence not set"
         elif n in names:
@@ -1128,7 +1128,7 @@ PAGE = """<!doctype html>
   .pp {{ width:17px; height:17px; border-radius:50%; font-size:10px; font-weight:700; line-height:1;
     display:inline-flex; align-items:center; justify-content:center; border:1px solid var(--line); }}
   .pp-on {{ color:#12151b; border-color:transparent; }}
-  .pp-on.pc-v {{ background:#e78ac3; }}  .pp-on.pc-p {{ background:#8da0cb; }}  .pp-on.pc-r {{ background:#66c2a5; }}
+  .pp-on.pc-v {{ background:#e78ac3; }}  .pp-on.pc-p {{ background:#8da0cb; }}  .pp-on.pc-r {{ background:#66c2a5; }}  .pp-on.pc-c {{ background:#fc8d62; }}
   .pp-off {{ background:transparent; color:#565d6b; }}
   .pp-unk {{ background:transparent; color:#565d6b; border-style:dashed; }}
   .ratings {{ display:inline-flex; gap:9px; align-items:center; }}
