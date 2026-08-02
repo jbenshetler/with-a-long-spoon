@@ -4,7 +4,7 @@
 
 ---
 
-He'd been gone twenty minutes and the table had gone back to its books, the coffee cooling, when the phone lit up face-down where she'd left it. Her stomach went before she did, the drop of a stair missed in the dark. A number she didn't know. She'd given him hers; it hadn't occurred to her to ask for his, and now here it was, a stranger's string of digits with a sentence under it, asking whether she liked frozen yogurt.
+He'd been gone twenty minutes and the table had gone back to its books, the coffee cooling, when the phone lit up facedown where she'd left it. Her stomach went before she did, the drop of a stair missed in the dark. A number she didn't know. She'd given him hers; it hadn't occurred to her to ask for his, and now here it was, a stranger's string of digits with a sentence under it, asking whether she liked frozen yogurt.
 
 "Is he desperate?" Vee said. "Texting this fast?" It was easier to go looking for the flaw than to sit in the wanting.
 

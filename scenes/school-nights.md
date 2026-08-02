@@ -8,7 +8,7 @@ Cassie was folded into the bean bag with a book against her knees. "You're doing
 
 "I am not."
 
-She turned the book face-down and looked, the dry held a beat and then given over, glad. "Go on, then."
+She turned the book facedown and looked, the dry held a beat and then given over, glad. "Go on, then."
 
 And Vee went on, because there was no holding it once Cassie opened the door. She spun her desk chair around and sat in it backward with her arms along the top, and gave Cassie not any one night but the shape her weeks had taken, which was the truer thing now, the nights all running into each other. How he cooked like it cost him nothing, something different every time and never once out of a box, things she had no name for and a few she did. How he watched her eat it like that was the show. How he noticed things before she did. She told her about the soup, how she'd been standing in too close to the burner with not enough on and slopped half a ladle of it down her front, and how he'd had her at the sink with a cold cloth on the burn before she'd got the first swear out, gentle as anything, bent over it.
 

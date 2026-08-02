@@ -126,7 +126,7 @@ He stood in the drive a moment. He did not have a name for why he stood there. T
 
 The house was quiet and still held the warmth and still held, faintly, her — the soft drift of whatever was in her hair, the warm bread-and-skin nothing-smell of a person who had been in a room for hours. He didn't notice it the way you notice a thing; it was just the texture of the house with her just gone from it. The Debussy he'd had on low all evening was still going, the sweet unhurried notes moving through the front rooms, and he left it.
 
-His phone went on the side table. He picked it up. *home safe ❤️* and a photo of her own front door, the little wreath she kept on it year-round, sent the way she sent these so he'd know without his having to ask. He thumbed the small heart onto it. Then he came up out of her thread and over into the other one, the two names a swipe apart, and typed: *I'm looking forward to seeing you.* Sent it. Set the phone face-down on the table.
+His phone went on the side table. He picked it up. *home safe ❤️* and a photo of her own front door, the little wreath she kept on it year-round, sent the way she sent these so he'd know without his having to ask. He thumbed the small heart onto it. Then he came up out of her thread and over into the other one, the two names a swipe apart, and typed: *I'm looking forward to seeing you.* Sent it. Set the phone facedown on the table.
 
 He poured a glass of wine and took it to the chair.
 

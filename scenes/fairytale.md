@@ -142,6 +142,6 @@ So she would not tell her, not in a way that would make Vee decide what to do wi
 
 Her phone lit on the nightstand. Vee, from Ohio, where the year had minutes left. *thinking about you 💛 hope it's beautiful out there. i'm here if you want to talk. or not.*
 
-She could see the room it came from, the warm kitchen, the parents who loved Vee out loud. Vee would be seeing her the other way, up here in all the gold, living the fairytale. So Randi gave her the fairytale. *you ANGEL 😇 it's honestly a fairytale out here — dad's got us in this insane chalet, mountains for days, i'm never coming home.* Every word of it true. None of it the thing. She added the one line she meant, *miss your face most though, gorgeous 💋*, and sent it, and turned the phone face down.
+She could see the room it came from, the warm kitchen, the parents who loved Vee out loud. Vee would be seeing her the other way, up here in all the gold, living the fairytale. So Randi gave her the fairytale. *you ANGEL 😇 it's honestly a fairytale out here — dad's got us in this insane chalet, mountains for days, i'm never coming home.* Every word of it true. None of it the thing. She added the one line she meant, *miss your face most though, gorgeous 💋*, and sent it, and turned the phone facedown.
 
 The perfect nothing asleep behind her asked for none of that and gave none of it back. She fixed the last of her hair, turned off the light, and went back to the bed and lay down against him again, in the warmth she could borrow and could not make, and stayed.

@@ -38,15 +38,15 @@ The real question waited for the heat to leave the room, her breath to come down
 
 "Do you actually want to taste another woman?"
 
-He watched her understand it. He saw the precise instant the words stopped being something said in bed and became something asked—and she flinched. Barely. A shiver under the skin, gone almost before it arrived, the kind of thing a less attentive man would have missed entirely and called her calm. He did not miss it. The want had shown itself before she could dress it as anything, and the flinch was the sound of the catching.
+He watched her understand it. He saw the precise instant the words stopped being something said in bed and became something asked — and she flinched. Barely. A shiver under the skin, gone almost before it arrived, the kind of thing a less attentive man would have missed entirely and called her calm. He did not miss it. The want had shown itself before she could dress it as anything, and the flinch was the sound of the catching.
 
 Then she came back. He admired it, a little, even as he saw through it: she gathered herself and reached for the warm lower register, trailed one finger down his chest, tilted into him and pressed a slow kiss to his jaw. It was good. It was practiced and it was warm and it was not cartoonish, and on another man it would have worked completely; he'd have felt seduced and forgotten he'd asked anything at all.
 
 "Only in a threesome," she said against his throat, smiling, all silk. "With you."
 
-And he understood what she had done, because it was beautiful and because he was built to see it. She had not taken back the wanting—she could not, her body had said it twice and she knew he'd heard. She had moved it. She had handed the appetite to him and made herself its generous instrument: not a woman who hungered for another woman, which was unsurvivable, but a girlfriend offering her man a gift, which was merely sexy. The same act. A different owner. She could live inside the second version. She could not live inside the first.
+And he understood what she had done, because it was beautiful and because he was built to see it. She had not taken back the wanting — she could not, her body had said it twice and she knew he'd heard. She had moved it. She had handed the appetite to him and made herself its generous instrument: not a woman who hungered for another woman, which was unsurvivable, but a girlfriend offering her man a gift, which was merely sexy. The same act. A different owner. She could live inside the second version. She could not live inside the first.
 
-He let her have the frame. He even felt the rightness of it settle in his chest, the way the last piece of a thing settles—because the frame she'd built to hide in was the exact frame he needed to proceed. A threesome, with him. He would not have to find her a woman for her transgression. He would find a woman for *theirs*. She could say yes to every step of it and never once have to say the thing she'd already shown him.
+He let her have the frame. He even felt the rightness of it settle in his chest, the way the last piece of a thing settles — because the frame she'd built to hide in was the exact frame he needed to proceed. A threesome, with him. He would not have to find her a woman for her transgression. He would find a woman for *theirs*. She could say yes to every step of it and never once have to say the thing she'd already shown him.
 
 "Okay," he said, easy, and meant several things by it.
 
@@ -54,7 +54,7 @@ He kissed her forehead and got up and started pulling on his clothes, and she wa
 
 "Let's go for a walk on campus," he said.
 
-"Yeah?" Already up, already reaching for the bright easy version of herself, the one for daylight. Four weeks in she'd learned he did things—some he named in advance and some he didn't—and she'd learned to be game for the unnamed ones. Hiking. The gardens. The bar with the older couples dancing. She had no reason to hear anything in *a walk on campus* but another of his good ideas.
+"Yeah?" Already up, already reaching for the bright easy version of herself, the one for daylight. Four weeks in she'd learned he did things — some he named in advance and some he didn't — and she'd learned to be game for the unnamed ones. Hiking. The gardens. The bar with the older couples dancing. She had no reason to hear anything in *a walk on campus* but another of his good ideas.
 
 "Yeah," he said, and held the door for her, and did not tell her what the walk was for.
 

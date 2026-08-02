@@ -194,7 +194,7 @@ She walked ahead of him to the thing he had built, and he watched her walk, and 
 
 At the bench she stopped. Her eyes went to the bottom of the closet and stayed there. He knew she was looking for the toy box, the familiar thing down where it lived.
 
-"Face down," he said. "Hands on the grips. Get the position. I'll adjust you."
+"Facedown," he said. "Hands on the grips. Get the position. I'll adjust you."
 
 She had to figure out how to climb onto it. He could see the slight unsteadiness in her — nerves, not something she would have chosen him to see — and he stepped close and put one hand to the small of her back, the other flat against her chest, and she leaned into the span between his hands and he brought her forward and down, controlled, until her chest met the shelf and her face settled into the cradle. He moved to her wrists then, light, one then the other, and placed her hands at the grips. She closed her fingers around the leather.
 
@@ -208,7 +208,7 @@ He set his palm flat against the small of her back and slid it slowly down to th
 
 "You okay?" he said.
 
-"Yes." Her voice came from the face-down position small and slightly muffled, the sound of a voice that had to travel past leather and through hair.
+"Yes." Her voice came from the facedown position small and slightly muffled, the sound of a voice that had to travel past leather and through hair.
 
 "Tell me your word."
 
@@ -298,7 +298,7 @@ He did not begin the edging until her ass was beautifully red and she was trembl
 
 He slid his fingers between her legs again.
 
-The wet sound was immediate, thick and soft. She stopped breathing for a moment, suspended in time, then the sound of her breathing returned in a shaky mix of pant and sigh. When he circled her clit she made a high, thin sound she hadn’t made before. He kept the rhythm steady, listening. When her breathing began to break and the sound rose again he took his hand away.
+The wet sound was immediate, thick and soft. She stopped breathing for a moment, suspended in time, then the sound of her breathing returned in a shaky mix of pant and sigh. When he circled her clit she made a high, thin sound she hadn't made before. He kept the rhythm steady, listening. When her breathing began to break and the sound rose again he took his hand away.
 
 She gripped the hand supports and pushed herself back into the empty space where his fingers had been — chasing what her body had just lost, before she'd decided to chase it. Then her thighs loosened against the leg supports and she slumped back into position.
 
@@ -422,7 +422,7 @@ She made a sound that meant yes.
 
 She did not move.
 
-"Face down on a bench in a man's house," he said, conversationally, his palm still at her cheek. "Ass in the air." He let his gaze travel down the long pale line of her. The cleft between her thighs was glossy with slick; it had gathered and was sliding. "Red from a spanking. Wet enough that I can see it from where I'm standing. Begging."
+"Facedown on a bench in a man's house," he said, conversationally, his palm still at her cheek. "Ass in the air." He let his gaze travel down the long pale line of her. The cleft between her thighs was glossy with slick; it had gathered and was sliding. "Red from a spanking. Wet enough that I can see it from where I'm standing. Begging."
 
 She made a sound that was not a word.
 
@@ -520,7 +520,7 @@ The face was the face she had been looking at every morning since she was thirte
 
 The face was hers. She knew the face. She had known the face all her life.
 
-The face had just begged. The face had said *please, please, please* in a voice she had not used since she was a small child in tears asking her mother for something her mother was not going to give her. The face had said *I'm begging* out loud. The face had been heard saying it. The face was now the face of a woman who had begged a man, last name unknown to her own sorority sisters, while red and wet and face-down on a bench in his bedroom. 
+The face had just begged. The face had said *please, please, please* in a voice she had not used since she was a small child in tears asking her mother for something her mother was not going to give her. The face had said *I'm begging* out loud. The face had been heard saying it. The face was now the face of a woman who had begged a man, last name unknown to her own sorority sisters, while red and wet and facedown on a bench in his bedroom. 
 
 The face had been called beautiful, on the bed, by the man who had put her on the bench, in a voice that had meant it.
 

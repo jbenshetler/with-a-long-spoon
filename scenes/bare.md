@@ -10,7 +10,7 @@ She'd been not-sleeping a long time. She had his shirt on over the one she slept
 
 She reached down to the rail for her phone, and its light was too much in the dark, and she turned it low. She found his name near the top, where it stayed. She held her thumb over the little field where the words would go, and waited for the words.
 
-There weren't any. There was nothing she could put in there that would come back as the thing she needed, nothing she could ask him that had an answer he could type. You couldn't send a message and get out of a person the shape of what you were to them; there was no text that made it come clear; the ones she thought of were all small, and would be answered small and warm, and would leave her exactly here. She looked at the empty field until it was only a lit shape in her hand, and put the phone face-down on the rail.
+There weren't any. There was nothing she could put in there that would come back as the thing she needed, nothing she could ask him that had an answer he could type. You couldn't send a message and get out of a person the shape of what you were to them; there was no text that made it come clear; the ones she thought of were all small, and would be answered small and warm, and would leave her exactly here. She looked at the empty field until it was only a lit shape in her hand, and put the phone facedown on the rail.
 
 It wasn't enough, the shirt held off her skin over the other one. She sat up in the low space under the ceiling and pulled them both off together, hers and his, and dropped hers down the side, and put his back on with nothing under it, the cloth straight onto her, the way she wore it when no one could see. She lay back down.
 

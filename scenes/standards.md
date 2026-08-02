@@ -118,7 +118,7 @@ Randi stood inside the closed door.
 
 She did not move to the bed. She did not move to the vanity. She stood with her back nearly against the door, her hand on the knob behind her, and she did not put the hand down for a moment, and then she did.
 
-She walked to the vanity. She did not sit. She walked to the bed. She did not sit. She set the overnight bag down at the foot of it and walked back to the vanity and set the clutch in the place where the clutch lived when she was not carrying it. She opened the clutch. She took out her phone. She looked at the phone. The screen showed two notifications. She did not read them. She put the phone face down on the vanity.
+She walked to the vanity. She did not sit. She walked to the bed. She did not sit. She set the overnight bag down at the foot of it and walked back to the vanity and set the clutch in the place where the clutch lived when she was not carrying it. She opened the clutch. She took out her phone. She looked at the phone. The screen showed two notifications. She did not read them. She put the phone facedown on the vanity.
 
 She walked to her closet and opened the door. It was orderly, as it had been for two years — the narrow space worked to its limit, everything earning its hanger, the palette running bone to camel to oatmeal with the one disciplined oxblood at the end. She stood in front of it. She had come to the closet to do something and could not, for a moment, locate what. Her hand was partway lifted toward the row. She brought it down. She closed the closet door.
 

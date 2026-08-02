@@ -12,7 +12,7 @@ Statuses: **unstarted** · **in-process** · **complete**
 | Continuity/logic line audit | in-process | Chapters 1–11 reviewed as of 2026-08-01 (`audits/line-audit/STATUS.md`). |
 | Style-tic policing | complete | Ongoing per draft (`na.py style` + `style/style-allow.toml`). |
 | True line edit | unstarted | |
-| Copyedit against a style sheet | unstarted | Will be its own skill/command (decision 2026-08-01). |
+| Copyedit against a style sheet | in-process | Pass 0 harvest (`tools/style_sheet_harvest.py` → `style/style-sheet-candidates.md`) and first Pass 1 rulings done 2026-08-02; sheet at `style/style-sheet.md`. Per-chapter enforcement pass (own skill/command, decision 2026-08-01) not yet built. |
 | Whole-book timeline sweep | unstarted | Gated on line audit completing. |
 | Proofread after typesetting | unstarted | |
 | Legal/content read | in-process | Pre-sheet scan started 2026-08-01; findings in `meta-plan-legal-read.md`. Lawyer consult pending — sourcing/briefing plan in `meta-plan-lawyer.md`. |

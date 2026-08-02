@@ -240,4 +240,4 @@ Vee knew the look. It was the one that slid off Cassie every day of her life, an
 
 "She's right about the way he looked at you." Randi tipped her head at the door. "Did you notice what he left without? His coffee. He gave up his place in line to come to you, spent the whole time on you, and walked out of a coffee shop empty-handed. A man doesn't forget his coffee over a girl he isn't going to call."
 
-Vee looked at her page — Pace's small crossed mark in the margin, her own clean lines under it, the problem solved — and then at her phone, face-down on the table where she'd left it, and she did not turn it over. She let herself want it to light up.
+Vee looked at her page — Pace's small crossed mark in the margin, her own clean lines under it, the problem solved — and then at her phone, facedown on the table where she'd left it, and she did not turn it over. She let herself want it to light up.

@@ -1,0 +1,75 @@
+# Style sheet — *With a Long Spoon*
+
+*The copyedit's book of rulings. Built as the copyedit runs (Pass 1 rulings from
+the Pass 0 harvest in `style-sheet-candidates.md`; more added per chapter during
+Pass 2). Every entry is an authorial decision — a copyeditor (human or agent)
+enforces these, and flags anything not yet ruled rather than inventing a rule.*
+
+## Conventions
+
+### Punctuation
+
+- **Em dash, spaced (` — `)** for pauses and pivots, in narration and inside
+  speech: "the money in the grain — and the weight of it." House default.
+- **Em dash, closed-up (`word—`)** *only* for broken speech: cut-offs and
+  trail-offs ("So you've never—"), resumption after the cut ("—and his phone
+  goes"), and speech interrupted by an action beat then resumed ("the—" she
+  rolled her hips "—interrogation"). The dash severs the word, so no space.
+- **Never dash + comma** (`—,`). The dash ends the fragment; the comma goes.
+- **No en dashes, no double hyphens** in prose.
+- **Ellipsis:** *(unruled — `…` ×5 vs `...` ×17 in corpus; rule pending)*
+- **Quotes/apostrophes: straight in source; smartened at typesetting.** Source
+  files use `"` and `'` throughout. Typesetting proofread must check *leading*
+  apostrophes, which naive smartening flips backward (`'em`, `'til`, `'90s`).
+  (Ruled 2026-08-02.)
+
+### Numbers
+
+- **Spelled out in narration**, always. **Digits only inside depicted
+  text/artifacts**: a phone screen (11:52), a written note (*Come over Friday
+  at 7.*), a slide (25%), a route number as signage-speak (out by 460), a year
+  in dialogue-as-fact (2020). (Ruled 2026-08-02.)
+
+### Italics
+
+- Three sanctioned uses: **emphasis**, **interiority** (unspoken thought,
+  including the mother's voice), and **quoted written text** (texts, notes —
+  emoji allowed there and only there).
+- *(Unruled: whether terminal punctuation sits inside the span — both `*me.*`
+  and `*me*.` occur; rule pending.)*
+
+## Word list (A–Z)
+
+Each entry: canonical form — ruling and date.
+
+- **Chi Latte** — invented coffee-shop name, Greek-letter pun. Do **not**
+  "correct" to *Chai*. (2026-08-02)
+- **facedown** (adv. and adj.) — closed, per Merriam-Webster, including in
+  dialogue commands ("Facedown," he said — elliptical adverb). **"face down"
+  open only where *face* is the literal noun or the verb**: "put her face down
+  in the covers," "turned to face down her body." The noun/verb test decides
+  every case. (2026-08-02)
+- **high school** — open, incl. attributive (MW). (2026-08-02)
+- **lamplight** — closed (MW). (2026-08-02)
+- **redheaded** — closed (MW). (2026-08-02)
+
+## Deliberate compounds (do not "fix")
+
+The prose coins hyphenated compounds as a voice feature — *not-knowing*,
+*too-much* (as noun), *being-looked-at*, *the-i-built-it-that-way* chains.
+These are intentional; the copyedit checks only that a given coinage is
+internally consistent where repeated, not that it matches a dictionary.
+
+## Names (from the Pass 0 inventory — canonical spellings)
+
+Vee / Vivienne Thorne · Pace · Randi · Cassie (Cass) · Sondra · Sheri · Meg ·
+Kayla · Brooke · Christine · Theo · Pat · Harrison · Wilson · Dunn · Carter ·
+Danny · Dr. Marsh. Places/brands as spelled in the legal pre-sheet
+(`meta/meta-plan-legal-read.md`).
+
+## Open items (candidates awaiting a ruling)
+
+- Ellipsis house form (`…` vs `...`).
+- Italic spans: terminal punctuation inside vs. outside.
+- Remaining hyphenation variants in `style-sheet-candidates.md` §2 (top of
+  table; most of the tail is deliberate-compound noise).
