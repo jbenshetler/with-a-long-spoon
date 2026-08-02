@@ -31,3 +31,18 @@
 - **Character facts:** Vee is a junior (`meta-arch-vivienne.md`: "entering her third year"), so the poster "hung freshman year" is sound; Cassie as roommate, absent, is consistent.
 - **Payment logic:** debit-vs-credit beat is internally consistent and consistent with line 53's "a price that didn't make the debit flinch."
 - No `meta/meta-triage-sorority.md` exists; nothing re-litigated.
+
+## Author rulings (2026-08-01)
+
+1. **Fixed** — ":5 the bunked beds"; ":7 Cassie's bunk — made tight and
+   square" (bunk canon restored).
+2. **Fixed** — ":5 Vee'd hung freshman year" (was "she'd").
+3. **Left standing** — all three "a week"s: hyperbole + free-indirect
+   felt-duration ({{Fed}}/{{How It's Done}} precedent).
+4. **Left standing** — luxury-register elision; the off-page size ask is the
+   store working.
+5. **Left standing** — deliberate second-shoe elision ({{Toenails}}
+   undress-elision precedent).
+6. **Left standing** — comic felt-magnitude in the gag paragraph.
+
+See `meta/meta-triage-sorority.md`.

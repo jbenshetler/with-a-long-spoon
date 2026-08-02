@@ -2,9 +2,9 @@
 
 ---
 
-The knock came earlier than Vee was ready for, and then Randi was in the doorway of the room — gold and easy in the cinderblock dim, sunglasses pushed up into her hair, taking the whole double in with one bright sweep, and the room reorganized itself around her the way rooms did, the two narrow beds and the milk-crate shelves and the Stevie Nicks poster, *Bella Donna*, she'd hung freshman year and long stopped seeing all of it suddenly visible again, smaller, lit by what she'd brought in with her.
+The knock came earlier than Vee was ready for, and then Randi was in the doorway of the room — gold and easy in the cinderblock dim, sunglasses pushed up into her hair, taking the whole double in with one bright sweep, and the room reorganized itself around her the way rooms did, the bunked beds and the milk-crate shelves and the Stevie Nicks poster, *Bella Donna*, Vee'd hung freshman year and long stopped seeing all of it suddenly visible again, smaller, lit by what she'd brought in with her.
 
-"So this is the nest." Randi stepped in, delighted. Her eyes went over Cassie's side — the bed made tight and square, the corners done the way Cassie did everything, nobody home — and came back to Vee warm. "Show me. You've made me wait a whole week. I've had to *hear* about it and not see it and I'm dying, genuinely dying. Where is it."
+"So this is the nest." Randi stepped in, delighted. Her eyes went over Cassie's bunk — made tight and square, the corners done the way Cassie did everything, nobody home — and came back to Vee warm. "Show me. You've made me wait a whole week. I've had to *hear* about it and not see it and I'm dying, genuinely dying. Where is it."
 
 Vee had it in the garment bag on the back of the door. She'd half-meant to just unzip it and hold it up on the hanger, which was the sane way to show a dress to a friend — but the wanting got there before the plan, the wanting to be *seen* in it the way she'd been seen in his mirror, and she heard herself say "give me a second" and carried the bag through to the bathroom and put it on.
 
