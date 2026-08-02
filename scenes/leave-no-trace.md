@@ -54,7 +54,7 @@ He had the boot unlaced. He worked the heel free and slid it off, one hand under
 
 "Hot spot. We can fix that."
 
-He took a kit from the pack, opened it on his knee, cut a square of moleskin, pressed it to her heel with his thumb and held it there to warm it. Then the sock, rolled gently up from her toes. Then the boot. He laced it different — tight near the ankle, loose across the top — and pulled the knot and gave the toe a pat that meant only *done.*
+He took a kit from the pack, opened it on his knee, cut a square of moleskin, pressed it to her heel with his thumb and held it there to warm it. Then the sock, rolled gently up from her toes. Then the boot. He laced it different — tight near the ankle, loose across the top — and pulled the knot and gave the toe a pat that meant only *done*.
 
 "Stand."
 

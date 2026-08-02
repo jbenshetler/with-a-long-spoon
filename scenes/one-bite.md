@@ -56,7 +56,7 @@ Randi's voice came down, quieter, no less warm. "What was the bet."
 
 It went almost to nothing in her throat, and she could not believe the words were going to be hers, in the daylight, with the mimosas, and she said them anyway. "He checked."
 
-Randi went still. Then her mouth opened. "He did *not.*"
+Randi went still. Then her mouth opened. "He did *not*."
 
 Vee nodded, solemn, her whole face alight with it, and underneath the nod her body did the thing it had done for him, gave without being asked, a slow soft give she felt all the way down, so that for one appalling second the chair and the cloth and the bright room were very far off and only the wet plain fact of herself was near.
 
@@ -92,7 +92,7 @@ Vee's eyes had gone past her, out into the burning glass. "He made me strip. Slo
 
 "He did." It was all Vee trusted herself to say, because the *how* of it was suddenly there too, the dark and the weight of him and the way she had gone all the way down into it without a single denial left, and her face did something she couldn't call back and Randi watched it do the thing with frank, open pleasure.
 
-"Some girls have all the luck." Randi sat back, turned her glass, and let her own night take the floor. "While you were being seen to by your romantic, definitely-not-vanilla man, I had my hands full. Went out to a mixer at Radford with some of the sisters, and there's this blond boy, a young Robert Redford, I swear it, and we just *caught.* And he could dance, actually dance, you have no idea how rare, and I was already down in my body by then. You know the feeling. The music's right, the dress is right, and your own skin is the whole party."
+"Some girls have all the luck." Randi sat back, turned her glass, and let her own night take the floor. "While you were being seen to by your romantic, definitely-not-vanilla man, I had my hands full. Went out to a mixer at Radford with some of the sisters, and there's this blond boy, a young Robert Redford, I swear it, and we just *caught*. And he could dance, actually dance, you have no idea how rare, and I was already down in my body by then. You know the feeling. The music's right, the dress is right, and your own skin is the whole party."
 
 Vee knew the feeling. Her own skin was, just then, a good deal more party than she wanted it to be at eleven in the morning over a tablecloth.
 
@@ -100,7 +100,7 @@ Vee knew the feeling. Her own skin was, just then, a good deal more party than s
 
 Something low in Vee answered the phrase straight off, and she pressed the heel of her hand to her lap as if she were only settling her napkin.
 
-"—and his phone goes. Dents the mood, but I'm well past minding, I am ready to *go.* Then it goes again, and he gets a face, and he says, 'I'd better take this.'" Randi laid a hand flat to her chest in mock salute. "An emergency, a friend in some trouble. He had to leave. And part of me respected it, honestly, a man who looks after his people. The other part of me is sitting on a stranger's bed with the engine running and nobody left to drive it. Forty minutes from home. A dark room in a Greek house."
+"—and his phone goes. Dents the mood, but I'm well past minding, I am ready to *go*. Then it goes again, and he gets a face, and he says, 'I'd better take this.'" Randi laid a hand flat to her chest in mock salute. "An emergency, a friend in some trouble. He had to leave. And part of me respected it, honestly, a man who looks after his people. The other part of me is sitting on a stranger's bed with the engine running and nobody left to drive it. Forty minutes from home. A dark room in a Greek house."
 
 "Ugh." It came from somewhere low in her. "So frustrating."
 

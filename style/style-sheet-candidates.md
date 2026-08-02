@@ -13,7 +13,7 @@
 | Term | Count | Files |
 |---|---|---|
 | Vee | 459 | all-the-time, all-told, bare, barely-stings, broken-in, cropped, … (39 files) |
-| Randi | 356 | all-the-time, all-told, barely-stings, broken-in, dear, fairytale, … (26 files) |
+| Randi | 357 | all-the-time, all-told, barely-stings, broken-in, dear, fairytale, … (26 files) |
 | Cassie | 127 | all-the-time, all-told, bare, believe-me, cropped, dear, … (26 files) |
 | Vee's | 105 | a-round, all-the-time, all-told, barely-stings, broken-in, dear, … (29 files) |
 | Randi's | 80 | all-the-time, broken-in, dear, fed, how-its-done, in-her-place, … (19 files) |
@@ -60,6 +60,7 @@
 | Randi Randi | 2 | a-round, how-its-done |
 | Benedict | 2 | all-the-time |
 | Thorne | 2 | all-told, substitution |
+| Hmm | 2 | fairytale, one-bite |
 | Gstaad | 2 | fairytale, old-acquaintances |
 | John | 2 | fairytale |
 | ANGEL | 2 | fairytale, old-acquaintances |
@@ -72,7 +73,7 @@
 | POV | 2 | school-nights, the-induction |
 | It's | 2 | school-nights, substitution |
 
-**Singletons (127):** AirPods (the-pointing-game), Almost (still-life), Anthro (all-the-time), Army (rock), Arrangement Post-coital (ignition-scalding), Arts (ignition-scalding), Bella Donna Vee'd (sorority), Blacksburg (dear), Blue (leave-no-trace), Brazilian (barely-stings), California (the-usual), Carter (the-usual), Cassie Cassie (substitution), Chambord (on-her-floor), Chi (see-you-later), Chilean (in-his-hands), Chili's (the-usual), Chinese (we-find-out), Christiansburg (grace), Christmases (rock), Close (still-life), Cool Whip (rock), Crafts (ignition-scalding), Dan (the-bench), Danny (what-to-wear), Debussy (ignition-scalding), Delicious (one-bite), Delivered (in-his-hands), Dirty (ignition-scalding), Dr (all-the-time), Draper Street (barely-stings), Dunn (the-usual), Edna Mode'd (broken-in), Eep (nothing-underneath), Elvis (the-usual), Euler's (substitution), Evil Queen (broken-in), February (the-usual), Fleetwood Mac (all-the-time), Florida (fairytale), Garth Brooks (all-the-time), Goodbye Vee (see-you-later), Greece (above-him), HUMBLE PIE (recognized-method), Hahn (how-its-done), He's (lesson), Hell (hills-and-valleys), Hermès (how-its-done), Hmm (one-bite), I-built-it-that-way (vee-on-the-bench), II After (ignition-scalding), Intermediate Micro (leave-no-trace), Jeans Meg (lesson), Kayla's (what-to-wear), Keep (still-life), KitchenAid (two-towels), Knoxville (the-usual), Lasted (the-usual), Latte (see-you-later), Leaves Tuesday (ignition-scalding), Legs (water-wings), Love (on-her-floor), MRI (two-towels), Methodist (rock), Middle Eastern (dear), Milan (peekaboo), Miranda Holdings LLC (outlier), Miss November (all-the-time), Mode (broken-in), Mom (cropped), Movement (ignition-scalding), Nebbiolo (new-ordinary), New Haven (fairytale), New Year (my-friend-randi), Ohio (fairytale), Oops (a-round), PPP (outlier), Pat (vee-on-the-bench), Peter (rock), Prices Fork (how-its-done), Radford (one-bite), Randi Monday (all-the-time), Randi Vee (all-the-time), Roanoke (my-friend-randi), Robert Redford (one-bite), SAT (rock), Sade (gone), San Francisco (all-the-time), Sanskrit (two-towels), Saturday-night (recognized-method), Saturdays (hills-and-valleys), Showing (all-the-time), Sinatra (how-its-done), Smaller (lesson), Smoothie Bird (dear), Sondra's (barely-stings), Speed Wash (in-her-place), Standards (broken-in), Stevie Nicks (sorority), Sticky (one-bite), Switzerland (dear), T (substitution), T-shirt (recognized-method), TA's (substitution), TJMaxx (sorority), TV (all-the-time), Take (the-bench), Third (lesson), Those (nothing-underneath), Thursday Brooke (dear), Thursday Sheri (hills-and-valleys), Thursday Vee (dear), Tony Bennett (all-the-time), Tuesday-afternoon (the-pointing-game), Ulta (fed), V (leave-no-trace), Vee Cassie (turned-up), Vee Randi (dear), Victorian LARPing (we-find-out), Virginia (sorority), Wardy (all-the-time), Wednesday-morning (see-you-later), Weren't (how-its-done), Wheel (old-acquaintances), Wilson (substitution), Xs (nothing-underneath), You're (broken-in)
+**Singletons (127):** AirPods (the-pointing-game), Almost (still-life), Anthro (all-the-time), Army (rock), Arrangement Post-coital (ignition-scalding), Arts (ignition-scalding), Bella Donna Vee'd (sorority), Blacksburg (dear), Blue (leave-no-trace), Brazilian (barely-stings), California (the-usual), Carter (the-usual), Cassie Cassie (substitution), Chambord (on-her-floor), Chi (see-you-later), Chilean (in-his-hands), Chili's (the-usual), Chinese (we-find-out), Christiansburg (grace), Christmases (rock), Close (still-life), Cool Whip (rock), Crafts (ignition-scalding), Dan (the-bench), Danny (what-to-wear), Debussy (ignition-scalding), Delicious (one-bite), Delivered (in-his-hands), Dirty (ignition-scalding), Dr (all-the-time), Draper Street (barely-stings), Dunn (the-usual), Edna Mode'd (broken-in), Eep (nothing-underneath), Elvis (the-usual), Euler's (substitution), Evil Queen (broken-in), February (the-usual), Fleetwood Mac (all-the-time), Florida (fairytale), Garth Brooks (all-the-time), Goodbye Vee (see-you-later), Greece (above-him), HUMBLE PIE (recognized-method), Hahn (how-its-done), He's (lesson), Hell (hills-and-valleys), Hermès (how-its-done), I-built-it-that-way (vee-on-the-bench), II After (ignition-scalding), Intermediate Micro (leave-no-trace), Jeans Meg (lesson), Kayla's (what-to-wear), Keep (still-life), KitchenAid (two-towels), Knoxville (the-usual), Lasted (the-usual), Latte (see-you-later), Leaves Tuesday (ignition-scalding), Legs (water-wings), Love (on-her-floor), MRI (two-towels), Methodist (rock), Middle Eastern (dear), Milan (peekaboo), Miranda Holdings LLC (outlier), Miss November (all-the-time), Mode (broken-in), Mom (cropped), Moved (a-round), Movement (ignition-scalding), Nebbiolo (new-ordinary), New Haven (fairytale), New Year (my-friend-randi), Ohio (fairytale), Oops (a-round), PPP (outlier), Pat (vee-on-the-bench), Peter (rock), Prices Fork (how-its-done), Radford (one-bite), Randi Monday (all-the-time), Randi Vee (all-the-time), Roanoke (my-friend-randi), Robert Redford (one-bite), SAT (rock), Sade (gone), San Francisco (all-the-time), Sanskrit (two-towels), Saturday-night (recognized-method), Saturdays (hills-and-valleys), Showing (all-the-time), Sinatra (how-its-done), Smaller (lesson), Smoothie Bird (dear), Sondra's (barely-stings), Speed Wash (in-her-place), Standards (broken-in), Stevie Nicks (sorority), Sticky (one-bite), Switzerland (dear), T (substitution), T-shirt (recognized-method), TA's (substitution), TJMaxx (sorority), TV (all-the-time), Take (the-bench), Third (lesson), Those (nothing-underneath), Thursday Brooke (dear), Thursday Sheri (hills-and-valleys), Thursday Vee (dear), Tony Bennett (all-the-time), Tuesday-afternoon (the-pointing-game), Ulta (fed), V (leave-no-trace), Vee Cassie (turned-up), Vee Randi (dear), Victorian LARPing (we-find-out), Virginia (sorority), Wardy (all-the-time), Wednesday-morning (see-you-later), Weren't (how-its-done), Wheel (old-acquaintances), Wilson (substitution), Xs (nothing-underneath), You're (broken-in)
 
 ## 2. Hyphenation variants (compound seen in 2+ forms)
 
@@ -225,44 +226,58 @@ Spelled-out number frequency (for the ruling's context): one ×881, two ×287, t
 
 ## 4. Italics census
 
-531 italic spans total; 474 distinct. Heaviest files: see-you-later (46), broken-in (37), how-its-done (37), substitution (34), the-bench (31), all-the-time (29), ignition-scalding (24), vee-on-the-bench (22).
+531 italic spans total; 453 distinct. Heaviest files: see-you-later (46), broken-in (37), how-its-done (37), substitution (34), the-bench (31), all-the-time (29), ignition-scalding (24), vee-on-the-bench (22).
 
 ### Repeated italicized spans (frequency ≥ 2)
 
-- *please* ×8
+- *please* ×10
+- *her* ×7
 - *yes* ×4
 - *to* ×4
 - *n* ×4
 - *this* ×3
-- *her* ×3
-- *me.* ×3
+- *me* ×3
 - *love* ×3
+- *him* ×3
+- *how* ×3
 - *for* ×3
-- *her.* ×3
-- *please.* ×3
+- *seen* ×3
 - *hmm.* ×2
 - *give* ×2
-- *fine,* ×2
+- *fine* ×2
 - *my* ×2
-- *done.* ×2
-- *him.* ×2
+- *right* ×2
+- *could* ×2
+- *done* ×2
+- *thing* ×2
+- *you* ×2
+- *nice* ×2
+- *criminal* ×2
+- *shape* ×2
+- *dinner in Paris* ×2
 - *thinking about you 💛 hope it's beautiful out there. i'm here if you want to talk. or not.* ×2
 - *you know* ×2
+- *he* ×2
+- *on* ×2
 - *there* ×2
-- *how* ×2
+- *not* ×2
+- *challenges* ×2
+- *dress* ×2
 - *yeah* ×2
+- *see* ×2
 - *I can't wait,* ×2
-- *not.* ×2
-- *seen* ×2
+- *caught* ×2
+- *those* ×2
 - *oh* ×2
 - *I love you* ×2
 - *Cassie* ×2
 - *latent variables* ×2
 - *see you later,* ×2
 - *really* ×2
+- *lover* ×2
 - *He's hard to say no to,* ×2
 - *Oh,* ×2
-- *know.* ×2
+- *know* ×2
 - *are* ×2
 - *your* ×2
 - *it's not,* ×2
@@ -296,8 +311,8 @@ Spelled-out number frequency (for the ruling's context): one ×881, two ×287, t
 | em dash unspaced (a—b) | 45 |  |
 | double hyphen (--) | 0 |  |
 | en dash (–) | 0 |  |
-| ellipsis char (…) | 5 | all-the-time ×2, believe-me ×1, my-friend-randi ×1, practice-room ×1 |
-| three dots (...) | 17 | recognized-method ×4, dear ×2, fairytale ×2, fed ×2, a-round ×1, barely-stings ×1, how-its-done ×1, my-friend-randi ×1, see-you-later ×1, sorority ×1, vee-on-the-bench ×1 |
+| ellipsis char (…) | 22 | recognized-method ×4, all-the-time ×2, dear ×2, fairytale ×2, fed ×2, my-friend-randi ×2, a-round ×1, barely-stings ×1, believe-me ×1, how-its-done ×1, practice-room ×1, see-you-later ×1, sorority ×1, vee-on-the-bench ×1 |
+| three dots (...) | 0 |  |
 | curly double quotes (“”) | 0 |  |
 | straight double quote (") | 4778 |  |
 | curly apostrophe (’) | 0 |  |

@@ -122,7 +122,7 @@ She turned the page so he could see her scratch work. He looked at it for maybe 
 
 She looked at it and shuddered before she could help it.
 
-"Yeah," he said. "Don't. Nobody should have to carry that around." Beside it he made one small mark — two short strokes crossing at a right angle, nothing else. "You've done Euler's. *e*-to-the-*i*-*x.*"
+"Yeah," he said. "Don't. Nobody should have to carry that around." Beside it he made one small mark — two short strokes crossing at a right angle, nothing else. "You've done Euler's. *e*-to-the-*i*-*x*."
 
 "Way back — before calculus, even. It had its own little chapter, we did the problems, and that was it. I've known it for years and never once used it. It didn't seem like it was *for* anything."
 
@@ -158,7 +158,7 @@ Randi picked up her coffee and took a small sip. She held the cup with both hand
 
 "Mm. What's drawing you to it?"
 
-It was — she would think about this later, walking back to her dorm — *the question.* Not *how do you like it,* which was the question, in her experience, that nice people asked at parties when they had nothing else to ask. *What's drawing you to it.* The question had room in it. She did not know the polite-short answer to that question, because no one had ever asked her that question, and the polite-short answer would have to be invented. She decided to skip inventing it.
+It was — she would think about this later, walking back to her dorm — *the question*. Not *how do you like it,* which was the question, in her experience, that nice people asked at parties when they had nothing else to ask. *What's drawing you to it.* The question had room in it. She did not know the polite-short answer to that question, because no one had ever asked her that question, and the polite-short answer would have to be invented. She decided to skip inventing it.
 
 "I like that it's about how people actually behave when they think they're being rational," she said. "The gap between what they say they're doing and what they're doing. It's — I don't know. It feels like the kind of thing where if you understood it well, you'd understand a lot."
 

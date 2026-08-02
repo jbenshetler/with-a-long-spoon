@@ -50,11 +50,11 @@ Vee looked at the wine list, which was its own card, and found the Rombauer on i
 
 "Randi. I have only known you a few weeks. You could have robbed a bank — that I'd believe — but past that there is genuinely no telling. You're a woman of mystery."
 
-Randi laughed, the real one, pleased. "Okay, fine, you're no fun and I'm dying to tell you anyway." She came in close over the table, conspiratorial, warm, bringing Vee in with her. "So I let this beautiful idiot take me home. Sweet, pretty, completely in love with himself — you know the kind, the kind you keep around for the view. And we get back to his place and I decide I want to play, so I have him tie my wrists to the headboard. With a *scarf.* Very romantic, very incompetent, the knot came loose twice." She was grinning, lit up with it, and the grin was an invitation. "And then he tickles me."
+Randi laughed, the real one, pleased. "Okay, fine, you're no fun and I'm dying to tell you anyway." She came in close over the table, conspiratorial, warm, bringing Vee in with her. "So I let this beautiful idiot take me home. Sweet, pretty, completely in love with himself — you know the kind, the kind you keep around for the view. And we get back to his place and I decide I want to play, so I have him tie my wrists to the headboard. With a *scarf*. Very romantic, very incompetent, the knot came loose twice." She was grinning, lit up with it, and the grin was an invitation. "And then he tickles me."
 
 "He — he what?"
 
-"Tickles me. Everywhere. And I can't move, that's the whole thing, my hands are tied up over my head and I am laughing so hard I genuinely thought I was going to *wet myself,* Vee, I'm not exaggerating, there were tears, I was gone — " the laugh breaking through her own telling now, pulling Vee bodily toward it " — and right when I think I'm going to actually die, he stops. And he switches. To somewhere else *entirely.*" A lift of one eyebrow, the gap left wide open, generous, delighted. "And I went off like a *rocket.* Boom. Tied to a man's headboard with a Hermès scarf. Best thing that's happened to me all month."
+"Tickles me. Everywhere. And I can't move, that's the whole thing, my hands are tied up over my head and I am laughing so hard I genuinely thought I was going to *wet myself*, Vee, I'm not exaggerating, there were tears, I was gone — " the laugh breaking through her own telling now, pulling Vee bodily toward it " — and right when I think I'm going to actually die, he stops. And he switches. To somewhere else *entirely*." A lift of one eyebrow, the gap left wide open, generous, delighted. "And I went off like a *rocket*. Boom. Tied to a man's headboard with a Hermès scarf. Best thing that's happened to me all month."
 
 Vee was laughing too, and under the laughing a heat had come up that she did not look at directly. It was the picture that did it — not the man, the man was nobody, but Randi, Randi naked and helpless and laughing, her wrists tied over her head and her control gone, that finished surface finally cracked all the way open — and the heat the picture put low in Vee was a heat she had no shelf for and would have died before naming at this table. So she did what she did. "Okay, well, I'm never letting you near a scarf of mine," she said, fast, bright, heading it off, "or a headboard, or — you know what, you're banned from my whole bedroom." It worked; Randi laughed and Vee felt the heat get a half-second of cover. Then, because she actually wanted to know, in a smaller voice: "Weren't you scared, though? Not being able to move?"
 
@@ -77,7 +77,7 @@ Randi listened the way she listened, which was completely — chin on her hand, 
 
 She was rolling in it now, telling it the way you tell the best thing, slowing down on the good part, *I was fine, he looked at me and I was fine,* turning it over so it caught the light.
 
-Across the table Randi was very still. She was smiling, still smiling, but something had gone tight behind it, some muscle she was holding, and her thumb had found the base of her water glass and was working the edge of it, turning it a slow degree against the cloth and back. Vee, surfacing for a second out of her own story, caught the tightness and the hand and did not know what to make of them. Her first thought, fast and cold, was *she thinks I'm awful* — that Randi was holding back a laugh, that any second the worldly face would break and Vee would see what she really thought of a girl who took her shirt off for a man she'd known seventeen days. Vee's stomach dropped toward it. And then she looked again and reached past it, the way you reach for the kinder thing because you want it to be true: maybe it wasn't a laugh she was holding. Maybe it was the opposite. Maybe Randi was *moved,* a little, holding back a smile, happy for her, the soft look an older friend gets when something lovely happens to you. That had to be it. That was the look. Vee felt herself settle, warmed, certain now that she was sitting across from someone glad for her.
+Across the table Randi was very still. She was smiling, still smiling, but something had gone tight behind it, some muscle she was holding, and her thumb had found the base of her water glass and was working the edge of it, turning it a slow degree against the cloth and back. Vee, surfacing for a second out of her own story, caught the tightness and the hand and did not know what to make of them. Her first thought, fast and cold, was *she thinks I'm awful* — that Randi was holding back a laugh, that any second the worldly face would break and Vee would see what she really thought of a girl who took her shirt off for a man she'd known seventeen days. Vee's stomach dropped toward it. And then she looked again and reached past it, the way you reach for the kinder thing because you want it to be true: maybe it wasn't a laugh she was holding. Maybe it was the opposite. Maybe Randi was *moved*, a little, holding back a smile, happy for her, the soft look an older friend gets when something lovely happens to you. That had to be it. That was the look. Vee felt herself settle, warmed, certain now that she was sitting across from someone glad for her.
 
 "Oh," Randi said, and the tightness was gone, folded away somewhere, the beam full up again. She leaned in. "Oh, you *love* being looked at."
 
@@ -85,7 +85,7 @@ Across the table Randi was very still. She was smiling, still smiling, but somet
 
 "You do. Listen to you. *He looked at me and I was fine.*" She said it back in Vee's own voice, fond, delighted, and Vee felt her face go hot in a way that was not entirely unhappy. "There's nothing wrong with it, baby, God, I wish more girls had it. Most of them spend the whole time trying to disappear." She tipped her head, warm, conspiratorial, the room narrowing to the two of them. "So. What were you wearing while he looked at you?"
 
-And there it was — the door, swung open and waiting, and the thing Vee had planned to walk straight past. She had meant to keep this part folded up. She had meant to say *he fitted the top* and move on to the silk, the color, the safe parts. But the question was so soft, and the booth was so close, and she had wanted — she realized she had wanted, the whole drive over, maybe for days — to tell someone. To tell *her.* The wanting got there before the plan did.
+And there it was — the door, swung open and waiting, and the thing Vee had planned to walk straight past. She had meant to keep this part folded up. She had meant to say *he fitted the top* and move on to the silk, the color, the safe parts. But the question was so soft, and the booth was so close, and she had wanted — she realized she had wanted, the whole drive over, maybe for days — to tell someone. To tell *her*. The wanting got there before the plan did.
 
 "Just — " her voice came out smaller, and higher, and she heard it go and couldn't stop it, dropping down into something hushed, leaning across the table the way you lean to give up a secret " — you know. To fit it right he had to — he needed the real measurements, the actual ones, so it would sit the way it's supposed to, so — " the words piling up vague and quick around the shape of the thing she wasn't saying, the cut-out plain in the middle of them.
 
@@ -93,7 +93,7 @@ And there it was — the door, swung open and waiting, and the thing Vee had pla
 
 Vee looked at her.
 
-"They don't, sweetheart. You can't get a true line through an inch of padding. Anybody who's had something made knows that — it's not a *thing,* it's just how it's done." She said it gently, the way you'd tell someone the salad fork goes on the outside, no judgment in it, only the easy authority of a person who'd had a great many things made. And the clench in Vee's chest let go, because if it was just *how it was done,* if everyone knew, if it was ordinary — then there was nothing to be ashamed of, then she hadn't done anything, then she could say it.
+"They don't, sweetheart. You can't get a true line through an inch of padding. Anybody who's had something made knows that — it's not a *thing*, it's just how it's done." She said it gently, the way you'd tell someone the salad fork goes on the outside, no judgment in it, only the easy authority of a person who'd had a great many things made. And the clench in Vee's chest let go, because if it was just *how it was done*, if everyone knew, if it was ordinary — then there was nothing to be ashamed of, then she hadn't done anything, then she could say it.
 
 "The bra too," Vee said. "Yeah."
 
@@ -101,7 +101,7 @@ Vee looked at her.
 
 Vee laughed, helpless, complimented, the heat in her face turning to pleasure — because this was the thing about Randi, she could make you feel like the lucky one, like the thing you'd been ashamed of your whole life was, all along, something to be glad of.
 
-"He must've had his work cut out," Randi went on, light, turning her wine glass. "All that to get around. You said he's a looker, this man." A pause, just slightly lowered, just for the two of them. "Were there any — *challenges?*"
+"He must've had his work cut out," Randi went on, light, turning her wine glass. "All that to get around. You said he's a looker, this man." A pause, just slightly lowered, just for the two of them. "Were there any — *challenges*?"
 
 The word sat there with its little hook in it. And Vee, who had been warm and laughing a second ago, felt the floor tilt, because she knew exactly what *challenges* meant, it meant the thing she would never say, it meant how her body had answered the warm air on her bared skin and his hands near her and the whole impossible fact of being looked at — and her face was already betraying her, she could feel it, and her voice came out flat and defensive and too fast.
 
@@ -113,17 +113,17 @@ A beat.
 
 And Vee — caught, and knowing she was caught, and unable in the swim of it to remember quite *how* she'd been caught, only that the ground had shifted somewhere a few sentences back and Randi had felt it shift — started to laugh. It came up out of her before she could decide anything about it, the laugh of the absolutely cornered, and she put her face in her hands for a second and then dropped them and gave up.
 
-"Okay," she said, through the giggle, "okay — actually it was really *hot.*"
+"Okay," she said, through the giggle, "okay — actually it was really *hot*."
 
 And Randi laughed too, and the two laughs went up together over the table — Vee's first, raucous, her whole body in it, the laugh of someone setting down something she'd carried up too many stairs; and Randi's a half-beat behind and folding right around it, big, warm, the perfect sorority laugh.
 
-"*Hot,*" Randi repeated, savoring it, wiping under her eye though there was nothing there. "Oh, you're *trouble.*" She let the laugh ebb, and stayed leaned in, and her voice came down again into the warm low register, the just-us register, the one Vee would have followed anywhere. "Okay. No. Go on, though — don't stop, you said he was measuring you for a *dress.*" A wicked little smile. "Dresses don't stop at your gorgeous chest."
+"*Hot,*" Randi repeated, savoring it, wiping under her eye though there was nothing there. "Oh, you're *trouble*." She let the laugh ebb, and stayed leaned in, and her voice came down again into the warm low register, the just-us register, the one Vee would have followed anywhere. "Okay. No. Go on, though — don't stop, you said he was measuring you for a *dress*." A wicked little smile. "Dresses don't stop at your gorgeous chest."
 
 "Randi."
 
-"They *don't.* Keep going. He had to get down on his knees to do the rest of you, didn't he — with you up on the little platform. The pedestal. They put you up on a literal pedestal." She said it like it delighted her, like it was the best detail yet. "I bet that felt *great.* Yeah?"
+"They *don't.* Keep going. He had to get down on his knees to do the rest of you, didn't he — with you up on the little platform. The pedestal. They put you up on a literal pedestal." She said it like it delighted her, like it was the best detail yet. "I bet that felt *great*. Yeah?"
 
-"...Yeah," Vee said, and heard her own voice go soft and faraway, because it had felt great, it had felt like nothing she had words for.
+"…Yeah," Vee said, and heard her own voice go soft and faraway, because it had felt great, it had felt like nothing she had words for.
 
 "I bet he started at your hip. Didn't he."
 
@@ -133,7 +133,7 @@ And Randi laughed too, and the two laughs went up together over the table — Ve
 
 "The left one."
 
-"Oh," Randi said, with enormous satisfaction, "all the best ones start at the left hip," which meant nothing at all and landed like a benediction, and Vee felt warmed and confirmed and led, one small *yeah* at a time, down and down. "And he's working his way around you, taking his time, getting it right. And then." Randi's voice dropped to almost nothing, the wink in it, the whole room gone. "Then he's right in front of you. On his knees. Looking up. And what did he *see?*"
+"Oh," Randi said, with enormous satisfaction, "all the best ones start at the left hip," which meant nothing at all and landed like a benediction, and Vee felt warmed and confirmed and led, one small *yeah* at a time, down and down. "And he's working his way around you, taking his time, getting it right. And then." Randi's voice dropped to almost nothing, the wink in it, the whole room gone. "Then he's right in front of you. On his knees. Looking up. And what did he *see*?"
 
 Vee had gone dreamy. The booth was very far away. She was back on the platform with the warm air on her bare skin and his face turned up and the thing that had happened in her body that she had never told a single soul, not Cassie, not anyone, the thing she had folded up the smallest and pushed the deepest — and it rose now, all on its own, because the room was so safe and Randi was so close and the wanting to *give* it, finally, to set it down on the table with everything else and be laughed gently over and forgiven — the wanting opened her mouth.
 
@@ -181,4 +181,4 @@ She put two fingers to her mouth without deciding to.
 
 *French,* she thought. *It's a French thing, she does the kiss-kiss, she's been everywhere, that's all it is, that's just how women like her say goodbye.* She had it explained away almost before her mouth was her own again.
 
-And then a colder thought, all at once: had anyone *seen?* She turned and looked at the courtyard — empty, gone gold in the low sun, nobody on the benches. She looked up at the dorm, the bank of windows, all those lit and unlit squares with anyone behind any of them, and her heart went fast, scanning, counting the dark ones, the ones where someone could have been standing, looking down, at the car in the fire lane and the girl leaning across the seat and what the girl had leaned across the seat to do. She stood there a long moment, the cold thing spreading, before she could make herself stop looking, and go in.
+And then a colder thought, all at once: had anyone *seen*? She turned and looked at the courtyard — empty, gone gold in the low sun, nobody on the benches. She looked up at the dorm, the bank of windows, all those lit and unlit squares with anyone behind any of them, and her heart went fast, scanning, counting the dark ones, the ones where someone could have been standing, looking down, at the car in the fire lane and the girl leaning across the seat and what the girl had leaned across the seat to do. She stood there a long moment, the cold thing spreading, before she could make herself stop looking, and go in.

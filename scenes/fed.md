@@ -24,11 +24,11 @@ For a second, saying it out loud in the bright room, she heard the other version
 
 Then she pointed her flute, warm. "Which is very pretty, and you are not getting away with it. You went from taking your clothes off to watching him cook and left out everything in between. Everything." She leaned in. "You have to tell me. I only got dinner that night, dinner and a boy in a hurry, that was my whole evening. I'm running on fumes here. How was he?"
 
-And Vee found she wanted to, that the wanting to tell it was most of why she'd come. She looked at her wine. "He wasn't in a hurry," she said. "At all. Like there was no clock anywhere in the world." She heard herself reaching for it and reached anyway. "He was patient, and he was so gentle, and he was... hungry. For me. In a way that made me feel, I don't know. Unique. Not just, like, tonight. Like singular."
+And Vee found she wanted to, that the wanting to tell it was most of why she'd come. She looked at her wine. "He wasn't in a hurry," she said. "At all. Like there was no clock anywhere in the world." She heard herself reaching for it and reached anyway. "He was patient, and he was so gentle, and he was… hungry. For me. In a way that made me feel, I don't know. Unique. Not just, like, tonight. Like singular."
 
 Randi held her flute and listened, her face open and warm and glad for her friend.
 
-"Okay," she said. "And now I get to be a little mean, because I love you." She set the flute down. "You keep saying *he.* He was patient, he was gentle, like you just stood there and let it happen to you." A beat, fond. "Let me ask you something. That day. Did you do anything to get ready for him?"
+"Okay," she said. "And now I get to be a little mean, because I love you." She set the flute down. "You keep saying *he*. He was patient, he was gentle, like you just stood there and let it happen to you." A beat, fond. "Let me ask you something. That day. Did you do anything to get ready for him?"
 
 Vee looked at her hands on the white cloth. "I painted my nails," she said. And then, because she could not not, quieter: "And my toes."
 
@@ -54,9 +54,9 @@ Vee laughed, a little wet, and let herself be lucky for a second.
 
 "Now." Randi sat back, the tease coming back into her. "The underwear. And do not insult me. Do not tell me you wore your go-to-class panties for your first night with this man. What did you have on?"
 
-"...I bought new ones," Vee said.
+"…I bought new ones," Vee said.
 
-"You *bought* them." Randi pressed a hand to her chest like she'd been handed something. "You went to a store and bought new underwear for this man. That's not nothing, that's a *campaign.*" She was grinning. "You didn't buy those hoping he'd be a gentleman. You bought them hoping he'd give you no reason to keep them on."
+"You *bought* them." Randi pressed a hand to her chest like she'd been handed something. "You went to a store and bought new underwear for this man. That's not nothing, that's a *campaign*." She was grinning. "You didn't buy those hoping he'd be a gentleman. You bought them hoping he'd give you no reason to keep them on."
 
 Vee laughed again, helpless, glowing, caught all the way through. She'd bought them the same afternoon as the polish and moved them to the top of the drawer that morning and told herself none of it meant anything in particular, and had known, even telling herself, that it was a lie of a particular size.
 

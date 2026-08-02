@@ -72,7 +72,7 @@ Randi's face was doing very little, and the very little was the whole of it. The
 
 "Cheating bastards," Randi said.
 
-Low, to the screen. Two words, and nothing let out after them — no *these,* no *those,* no clause to fold the plural down into something a person could hold — just the two words set loose in the glass room. And Vee, watching the person and not the page, heard them land wrong. There was nothing practiced in them, nothing worn smooth with use; they came out ragged, a thing being said for the first time, and aimed too near to be meant for strangers. She said nothing.
+Low, to the screen. Two words, and nothing let out after them — no *these*, no *those*, no clause to fold the plural down into something a person could hold — just the two words set loose in the glass room. And Vee, watching the person and not the page, heard them land wrong. There was nothing practiced in them, nothing worn smooth with use; they came out ragged, a thing being said for the first time, and aimed too near to be meant for strangers. She said nothing.
 
 Cassie couldn't see the screen. She was on the far side of Vee, and the record was small and canted toward Randi, and all Cassie had was the graph still open on her own laptop, the point on it, and the two words, which to Cassie were agreement.
 

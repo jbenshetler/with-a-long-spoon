@@ -74,11 +74,11 @@ And Vee let herself believe her — let the relief come up through her like wate
 
 "Okay. Roll over for me, hon. Onto your front."
 
-Vee didn't move. "...Over?"
+Vee didn't move. "…Over?"
 
 "The back and the rest of it. It's all the one service." Mild, already waiting, a gloved hand light on Vee's hip to start her turning — as though this were a thing everyone knew, a thing that went without saying, a thing only Vee had somehow failed to understand she'd been agreeing to.
 
-There it was. The part Randi hadn't said. *Barely stings,* and the glass of wine, and *the most expensive thing in the room,* and not one word about this — about rolling over, about the rest of it, about a part of herself she had honestly never once in her life thought of as a thing that got *done.* She could say no. The word was right there. She could sit up and say no, that's enough, that isn't — and she did not. She'd already said yes to the whole of it, in a bright kitchen three nights back, without once asking what the whole of it was; she was already here, already bare in front, already so far past every line she'd have thought to draw that another line seemed like a joke, a thing for a girl who had any lines left. So she rolled over.
+There it was. The part Randi hadn't said. *Barely stings,* and the glass of wine, and *the most expensive thing in the room,* and not one word about this — about rolling over, about the rest of it, about a part of herself she had honestly never once in her life thought of as a thing that got *done*. She could say no. The word was right there. She could sit up and say no, that's enough, that isn't — and she did not. She'd already said yes to the whole of it, in a bright kitchen three nights back, without once asking what the whole of it was; she was already here, already bare in front, already so far past every line she'd have thought to draw that another line seemed like a joke, a thing for a girl who had any lines left. So she rolled over.
 
 She put her face down in the paper. She couldn't see the woman now, couldn't set her own face, could do nothing but lie there and be turned and adjusted and opened and wait, presented, blind, for wherever the hands went next. No wanting in this one. Nothing lit, nothing for him, nothing to keep back. Just the plain fact of what she was letting be done to her, and the small ruthless voice out of the kitchen naming it, and the wax going on, and Vee holding still — holding still on her own now, nobody had to tell her — while it came off.
 

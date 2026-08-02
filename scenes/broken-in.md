@@ -52,7 +52,7 @@ Randi dropped onto the foot of the bed, pulled her feet up under her — bare, t
 
 "I started one."
 
-It came out of her in pieces, the way it does when someone's letting you tell it instead of waiting for their turn. The dance first — and here she surprised herself, because the dance had been *good,* the best part, his hand flat on her back and the whole thing taking her once she stopped fighting it, her body knowing where to go a half-second before she did — and Randi said *of course it was, he can dance, the bastard,* warm, delighted, and Vee laughed and went on. Drinks. Him at the bar. The blonde.
+It came out of her in pieces, the way it does when someone's letting you tell it instead of waiting for their turn. The dance first — and here she surprised herself, because the dance had been *good*, the best part, his hand flat on her back and the whole thing taking her once she stopped fighting it, her body knowing where to go a half-second before she did — and Randi said *of course it was, he can dance, the bastard,* warm, delighted, and Vee laughed and went on. Drinks. Him at the bar. The blonde.
 
 "She comes up to me all sugar," Vee said, "and goes, *he's such a great lead, all us girls love him, he's so good about getting a girl home safe at the end of the night.*"
 
@@ -70,11 +70,11 @@ It came out of her in pieces, the way it does when someone's letting you tell it
 
 Randi winced — the wince of a friend hearing the worst available version — and reached over and took Vee's hand.
 
-"He said *yes. Sometimes. When it's required.*" Vee turned her hand over in Randi's and held on. "The decent answer. The *right* answer. And I couldn't stand that it was, so I told him I didn't need looking after, I'd handle myself — I took the best thing about him — the way he cares about people — and threw it back at him like it was something to be ashamed of." Her voice dropped. "And his face just *went.* I watched it land. I'd hurt him, and the worst of it is some piece of me was glad. Then I walked off — didn't let him get a word out, left him standing there holding both our drinks. And from across the room I watched him. He didn't come after me. He didn't get angry. He stood there a while, then set the drinks down and left. Slow. And I stayed, and I called a cab."
+"He said *yes. Sometimes. When it's required.*" Vee turned her hand over in Randi's and held on. "The decent answer. The *right* answer. And I couldn't stand that it was, so I told him I didn't need looking after, I'd handle myself — I took the best thing about him — the way he cares about people — and threw it back at him like it was something to be ashamed of." Her voice dropped. "And his face just *went*. I watched it land. I'd hurt him, and the worst of it is some piece of me was glad. Then I walked off — didn't let him get a word out, left him standing there holding both our drinks. And from across the room I watched him. He didn't come after me. He didn't get angry. He stood there a while, then set the drinks down and left. Slow. And I stayed, and I called a cab."
 
 Randi didn't say anything for a moment. She just held on.
 
-"There was a woman behind the bar," Vee said. "Older. Closing up. She set a glass of water in front of me and told me he was a good guy, and I gave her the same thing — *I don't need a man who gets all the girls home safe* — and she just kept stacking her glasses. And then she said the girls weren't looking at *him.* They were looking at my chair. They were jealous of *me.* And I'd spent the whole night —"
+"There was a woman behind the bar," Vee said. "Older. Closing up. She set a glass of water in front of me and told me he was a good guy, and I gave her the same thing — *I don't need a man who gets all the girls home safe* — and she just kept stacking her glasses. And then she said the girls weren't looking at *him*. They were looking at my chair. They were jealous of *me*. And I'd spent the whole night —"
 
 "— jealous of *them,*" Randi finished, soft.
 
@@ -82,7 +82,7 @@ Randi didn't say anything for a moment. She just held on.
 
 Randi looked at her a moment, and then she did the thing she did, which was take the worst minute of Vee's life and turn it over in her hands and show her the back of it.
 
-"Okay. Listen to me." She leaned in. "You don't get that jealous over a man you don't care about. It's not in you — you'd have been bored. The only reason that blonde could land a thing on you at all is that there was something there to land on." She tipped her head. "He took *you.* On a Thursday. To a room full of women who'd have traded their teeth for your chair. You were so far ahead you couldn't see the race, and you ran it anyway, because you're *in* this, and he saw that. That's not the disaster, honey. That's the only thing that matters, and you handed it to him for free." She gave Vee's hand a last squeeze and let it go. "So don't you worry about a single piece of *how.* We're going to get you ready, and the rest takes care of itself."
+"Okay. Listen to me." She leaned in. "You don't get that jealous over a man you don't care about. It's not in you — you'd have been bored. The only reason that blonde could land a thing on you at all is that there was something there to land on." She tipped her head. "He took *you*. On a Thursday. To a room full of women who'd have traded their teeth for your chair. You were so far ahead you couldn't see the race, and you ran it anyway, because you're *in* this, and he saw that. That's not the disaster, honey. That's the only thing that matters, and you handed it to him for free." She gave Vee's hand a last squeeze and let it go. "So don't you worry about a single piece of *how*. We're going to get you ready, and the rest takes care of itself."
 
 And the thing Vee had been holding clenched since the dance floor let go of her, all at once — because Randi had said so.
 
@@ -96,7 +96,7 @@ And the thing Vee had been holding clenched since the dance floor let go of her,
 
 Not a suggestion — an instruction, and Vee stopped.
 
-"Today you show up having decided it in a panic, and he'll smell it on you, and you'll look like a girl who couldn't sit with herself for one day." Randi said it kindly, which only made it more final. "Tomorrow night. You sleep, you fix your face, you give it a whole day so it reads like something you *chose.* And you don't go in there sorry — sorry's easy, he already knows you're sorry. You go in there *sure.*" A beat. "He won't text you, by the way — don't read it as a door closing. If he's the man you've just described to me, he doesn't sulk. He leaves you the room and waits to see what you walk in wearing."
+"Today you show up having decided it in a panic, and he'll smell it on you, and you'll look like a girl who couldn't sit with herself for one day." Randi said it kindly, which only made it more final. "Tomorrow night. You sleep, you fix your face, you give it a whole day so it reads like something you *chose*. And you don't go in there sorry — sorry's easy, he already knows you're sorry. You go in there *sure*." A beat. "He won't text you, by the way — don't read it as a door closing. If he's the man you've just described to me, he doesn't sulk. He leaves you the room and waits to see what you walk in wearing."
 
 ---
 
@@ -108,7 +108,7 @@ Not a suggestion — an instruction, and Vee stopped.
 
 "It's a *nice* cardigan," Vee said, which was a surrender wearing the coat of a defense, and they both knew it.
 
-"Vee." Randi let her head tilt, slow. "You have got to do better than *nice.* What've you got. Walk me through it."
+"Vee." Randi let her head tilt, slow. "You have got to do better than *nice*. What've you got. Walk me through it."
 
 So Vee walked her through it — the green one she'd restyled, rayon, but it draped better than it had any right to; the black one; the —
 
@@ -146,7 +146,7 @@ Vee huffed, and looked at the narrow, perfect run of it, and knew better. "Not t
 
 "I was picturing it. Me, in here, in nothing but your shoes."
 
-Randi laughed — the real one, head going back. "You'd be my very own *shoe whore.*" It came out like an endearment — the worst words always did, between them. "Except I'm on *Standards.* I'd have to make you cover up for room inspection — a scarf, at least." A beat. "And I've got one that'd be *criminal* on you."
+Randi laughed — the real one, head going back. "You'd be my very own *shoe whore*." It came out like an endearment — the worst words always did, between them. "Except I'm on *Standards*. I'd have to make you cover up for room inspection — a scarf, at least." A beat. "And I've got one that'd be *criminal* on you."
 
 Vee laughed.
 
@@ -154,7 +154,7 @@ Vee laughed.
 
 "You said black does nothing for me."
 
-"Black as a *color* does nothing for you — that hair wants warmth." She was nodding herself into it. "But a little black dress isn't about color, it's about the *shape,* and what the shape does for your assets, and yours" — a gesture, frank, fond — "are a public service. Feminine. Classic. Classic's classic for a reason. The black. Neckline down where it ought to be."
+"Black as a *color* does nothing for you — that hair wants warmth." She was nodding herself into it. "But a little black dress isn't about color, it's about the *shape*, and what the shape does for your assets, and yours" — a gesture, frank, fond — "are a public service. Feminine. Classic. Classic's classic for a reason. The black. Neckline down where it ought to be."
 
 "Shoes," Vee said. "I don't have shoes for that. I've got the block heels."
 
@@ -186,7 +186,7 @@ Randi laughed, the real one. "Maybe you just haven't met your Evil Queen yet." S
 
 "You were serious about the scarf."
 
-"I'm always at least serious about the scarf." She came back in. "And you'll be tying it yourself tomorrow night, so — watch." She loosed the knot and put the silk into Vee's hands, and then her own hands came over them, cool over warm, and walked them through it: the loop, the cross, the tuck, the small firm pull at the end. "Tension. It has to hold its shape or it'll go limp on you by the second drink. Snug — there." And Vee felt it take, the silk going from a thing lying on her to a thing that held its own line. "You know what that is?" Randi stepped back again. "That's the whole difference between *dorm mixer* and *dinner in Paris.* That's all the difference there ever is."
+"I'm always at least serious about the scarf." She came back in. "And you'll be tying it yourself tomorrow night, so — watch." She loosed the knot and put the silk into Vee's hands, and then her own hands came over them, cool over warm, and walked them through it: the loop, the cross, the tuck, the small firm pull at the end. "Tension. It has to hold its shape or it'll go limp on you by the second drink. Snug — there." And Vee felt it take, the silk going from a thing lying on her to a thing that held its own line. "You know what that is?" Randi stepped back again. "That's the whole difference between *dorm mixer* and *dinner in Paris*. That's all the difference there ever is."
 
 *Dinner in Paris.* Vee would have walked into traffic for the woman who said *dinner in Paris* about her.
 

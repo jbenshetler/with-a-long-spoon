@@ -18,7 +18,7 @@ Too loud, in the dark, in the warm handspan between his chest and her mouth — 
 
 It came out sharp enough to ring, far too much voice for a man lying a handspan off, and then it was in the room and she couldn't take it back. The quiet afterward was the exact size of what she'd done to it. She lay still and listened to herself not having whispered, and knew precisely how she'd sounded, and could not, having heard it, pretend she hadn't.
 
-He didn't answer right away. She felt the pause come and knew its shape — the same stillness he went into over a knot in the wood or a step in a proof, the concentration that took the thing in front of him seriously and at its own speed. He was thinking about what she'd said. He was *actually thinking about it.* Somehow that was worse.
+He didn't answer right away. She felt the pause come and knew its shape — the same stillness he went into over a knot in the wood or a step in a proof, the concentration that took the thing in front of him seriously and at its own speed. He was thinking about what she'd said. He was *actually thinking about it*. Somehow that was worse.
 
 "Okay," he said. "Where do you want to go tonight?"
 

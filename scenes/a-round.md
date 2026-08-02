@@ -41,7 +41,7 @@ She felt it before she saw it — the quick tightening, the sudden small ache of
 
 *Maybe he'll think it's the cold air.* Except he'd thoughtfully turned up the heat. Wryly.
 
-His eyes dropped — just for a moment, just to the two points she couldn't do anything about... Moved on.
+His eyes dropped — just for a moment, just to the two points she couldn't do anything about… Moved on.
 
 ---
 
@@ -127,7 +127,7 @@ She drank her tea inside the blanket he'd thought to give her and watched a powe
 
 He built from the top down. A panel pinned at her shoulder, smoothed down her front, his palm flat over the silk reading the lie of it against her, a pin set at the dart, another. She had thought of herself, climbing back up on the box, as a kind of living dress form — a stand to drape silk over, no different in function from the wooden riser under her feet, only more convenient. The thought had been a comfort, briefly. It had let her depersonalize the next hour, lend her own body out to the work, stand inside it without having to be the woman it belonged to. The thought did not last.
 
-The way he worked would not let it. He kept looking at her — at her face, at the line of her neck, stepping back to consider the whole of her in the silk and stepping forward to adjust something he'd decided to change — and what he was doing was not building a dress on a form. He was building a dress *for her,* with her standing inside it, and the standing inside it was part of the design.
+The way he worked would not let it. He kept looking at her — at her face, at the line of her neck, stepping back to consider the whole of her in the silk and stepping forward to adjust something he'd decided to change — and what he was doing was not building a dress on a form. He was building a dress *for her*, with her standing inside it, and the standing inside it was part of the design.
 
 She stopped being a dress form somewhere around the second pin and started being something else she had no word for. *Muse* came to her, ridiculous, embarrassing, and she set it down quickly.
 
@@ -139,7 +139,7 @@ He worked close again, but it was different from the measuring now — slower, m
 
 And underneath it, the old thing, getting worse.
 
-She was getting wetter. She knew it the way she always knew it, the warm betrayal of it, only now there was nowhere to put it — that was what her mind kept snagging on as he pinned his way down her. In bed she could blame the bed. He wasn't doing anything. He was *making a dress.*
+She was getting wetter. She knew it the way she always knew it, the warm betrayal of it, only now there was nowhere to put it — that was what her mind kept snagging on as he pinned his way down her. In bed she could blame the bed. He wasn't doing anything. He was *making a dress*.
 
 And her body had decided that this — being measured, being attended to like she was worth his patience, being looked at and looked at and looked at — *this* was the thing, and the small thumbprint on the couch was not the small thumbprint anymore. She could feel it. She could feel the cool of the soaked satin where the air found it, the size of it growing against her skin, the slow appalling spread of evidence, and he was working lower.
 
@@ -151,7 +151,7 @@ The satin had no thickness to hide it in. The lace edge had even less. A patch o
 
 Her body had done what her body did, and what she'd been wearing was the satin she'd put on with hope. The hope was visible. The hope was sized to be seen across the room. Her shame made plain and dressed up in the fabric she'd chosen for the occasion, and the occasion had turned out to be this.
 
-He was working lower, and now he was working *around.*
+He was working lower, and now he was working *around*.
 
 He'd been on his knees since the side seam, and he stayed on them and moved — a slow knee-walk around the base of her, following the line of a dress that wasn't a dress yet. She felt the geography of it before she let herself understand it. He was at her side. Then he was behind her, where she couldn't see him and couldn't read his face, only feel his breath arrive low against her — and then his hands arrived too.
 

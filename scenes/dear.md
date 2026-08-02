@@ -56,7 +56,7 @@ She had put a little weight on it and didn't lift it back off. "May I. Not can I
 
 "You let him choose for you." Randi said it slowly, holding it up to the light. "And you liked it."
 
-It wasn't a question. "...Yeah." It came out small, and Vee felt her own face starting to give her away and moved to get in front of it. "It was just nice. Not having to be in charge of everything for once. That's all it was."
+It wasn't a question. "…Yeah." It came out small, and Vee felt her own face starting to give her away and moved to get in front of it. "It was just nice. Not having to be in charge of everything for once. That's all it was."
 
 "Mm," said Randi, warm, and let her have it, and went no further, and Vee felt the letting-go as one more kindness in a day that had been full of them.
 
@@ -70,7 +70,7 @@ Randi sat back. "You kissed him." She let a beat pass, turning it over as she ha
 
 And Vee, who had meant to say *I made an exception,* who had the dignified version sitting right there ready, felt it leave her instead as the smaller, truer thing.
 
-"...Yeah," she said. "Because of him."
+"…Yeah," she said. "Because of him."
 
 "You little minx." Randi reached over and swatted her on the arm, delighted, and Vee laughed, and for one whole giddy second felt like the most interesting girl in the loud bright room, like her life had finally tipped over into the kind of life that happened to people.
 

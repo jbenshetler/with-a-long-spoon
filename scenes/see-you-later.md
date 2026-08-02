@@ -110,7 +110,7 @@ She finished the room. She found her place in it, which was: she was the most of
 
 And then she looked at Randi, and all of it went quiet.
 
-Because Randi wasn't in it. The rest of them were performing for the room, dressed for it and worked for it and waiting to be looked at. And Randi was... Randi. And all Vee could do was look at her with a flat helpless want, the want you keep for a thing you've only ever seen from a distance, except the distance was three feet now and Randi had ordered her an oat-milk latte and was turning around with both cups to find Vee with her eyes and her smile, and the want had nowhere to put itself except *here, this, with her,* and it sat there in Vee's chest, warm, unexamined, glad.
+Because Randi wasn't in it. The rest of them were performing for the room, dressed for it and worked for it and waiting to be looked at. And Randi was… Randi. And all Vee could do was look at her with a flat helpless want, the want you keep for a thing you've only ever seen from a distance, except the distance was three feet now and Randi had ordered her an oat-milk latte and was turning around with both cups to find Vee with her eyes and her smile, and the want had nowhere to put itself except *here, this, with her,* and it sat there in Vee's chest, warm, unexamined, glad.
 
 "They had the lavender thing," Randi said, handing it over. "Trust me. Come on, the high table's open, I love the high table."
 

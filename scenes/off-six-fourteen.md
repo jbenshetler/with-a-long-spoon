@@ -26,7 +26,7 @@ Cassie's whole face was open with it, glad, all the way in — and then, because
 
 "How much did he give you to drink?"
 
-"*Nothing.*" Vee laughed, surprised up out of the quiet. "We had *tea,* Cassie, I just told you, the little — there was no wine, there was nothing. He didn't —" and here the thing she most wanted Cassie to have, the whole of it, came up plain and certain. "Nobody did anything to me. I wasn't talked into it. I did it because I wanted to and I did it on purpose."
+"*Nothing.*" Vee laughed, surprised up out of the quiet. "We had *tea*, Cassie, I just told you, the little — there was no wine, there was nothing. He didn't —" and here the thing she most wanted Cassie to have, the whole of it, came up plain and certain. "Nobody did anything to me. I wasn't talked into it. I did it because I wanted to and I did it on purpose."
 
 "Okay," Cassie said, and this time the okay had her believing it, and she was grinning again. "Look at you."
 

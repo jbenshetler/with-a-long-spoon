@@ -296,7 +296,7 @@ He gave her the slick of his fingers again, the swollen point of her under them,
 
 And it caught her like a hook in the back of the head and dragged her straight up out of her body. Because she did. Because she had been an inch from going over and he made her hear herself.
 
-The sound came first, helpless and open. "Uhhh... no," she got out, and the word came from somewhere below the place words meant one thing at a time.
+The sound came first, helpless and open. "Uhhh… no," she got out, and the word came from somewhere below the place words meant one thing at a time.
 
 The worst thing was that he did not take his hand away at once. The wave stood there under his still fingers, enormous and unfinished, and she was trapped in the half-second before the loss of it, knowing only that he was going to be unfair enough to believe her.
 

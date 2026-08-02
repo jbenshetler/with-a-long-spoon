@@ -40,7 +40,7 @@ Vee made herself go back. He'd gone still. The arms coming up and folding, the v
 
 "You backed him into a corner in his own house. Name it or lose me — the one thing he can't do." Randi said it evenly and didn't let her off it. "How do you think that felt, from where he was standing?"
 
-Vee hadn't once thought of it as his. "...Cornered," she said slowly. "Like there was no answer that would make me stay."
+Vee hadn't once thought of it as his. "…Cornered," she said slowly. "Like there was no answer that would make me stay."
 
 "Cornered." Randi nodded. "So what does a man do with that, the kind who can't say the thing? He doesn't fight you for it. He goes behind a wall so you can't get another word out of him. And then he waits. A month of it, and he didn't call you and you didn't call him — the both of you holding still, each waiting on the other to break first. That's not a man who's done with you, honey. That's a boy holding himself still so it won't show how much you got him."
 

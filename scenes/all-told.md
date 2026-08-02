@@ -54,7 +54,7 @@ Something eased in Cassie's face, and she picked her highlighter back up.
 
 And there was the one snag in the gold of the day, surfacing because Randi had reached in and found it. "I don't have shoes," Vee said. "Not for that. Nothing I own is right."
 
-"Stop." Randi had her by the wrist, delighted, the problem already solved in her hands. "That's not a problem, that's a *date.* You and me, Saturday. We are not quitting until the shoes are as right as the dress." Mock-stern then, brooking nothing, loving every inch of it. "Don't you dare tell me no."
+"Stop." Randi had her by the wrist, delighted, the problem already solved in her hands. "That's not a problem, that's a *date*. You and me, Saturday. We are not quitting until the shoes are as right as the dress." Mock-stern then, brooking nothing, loving every inch of it. "Don't you dare tell me no."
 
 Something turned over in Vee's chest, grateful and warmed, and she didn't.
 

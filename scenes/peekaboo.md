@@ -6,7 +6,7 @@ He opened the door, and for a second neither of them was sure how to do it — t
 
 And then it wasn't a hug. His face was in her hair, and then it wasn't in her hair, and she turned her mouth up and found his, and under the circumstances it was never going to stay gentle. It didn't. His hand slid up into the hair at the back of her head; she got a fistful of his shirt at the small of his back and pulled, and the kiss went deep and warm and certain, the door not even shut, both of them already most of the way to somewhere —
 
-And he broke it. Stepped back half a step. Not sly, not holding a thing over her — *grinning,* helpless with it, the way a kid can't keep a surprise in his mouth one more second, his eyes already going past her to the thing he'd made and couldn't wait another minute for her to see. He didn't say anything, only took her hand and pulled.
+And he broke it. Stepped back half a step. Not sly, not holding a thing over her — *grinning*, helpless with it, the way a kid can't keep a surprise in his mouth one more second, his eyes already going past her to the thing he'd made and couldn't wait another minute for her to see. He didn't say anything, only took her hand and pulled.
 
 Her body had assumed left, toward the bedroom. He didn't go left. He drew her the other way, through the den and into the sun porch at the back — the room where he'd fitted her, the room that was mostly windows — and the light reached her first, the whole gold afternoon, and then in the middle of the light —
 

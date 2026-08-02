@@ -26,9 +26,9 @@ Vee sat on the edge of her desk. A beat. Got up again. "I told him. On the hike,
 
 "Out of what?"
 
-"Silk. He bought silk, Cass. He found a bolt of it, this burgundy, not even the same color I described, he went *deeper,* he — " She stopped again, because the image had come back, the two of them caught in the mirror, and she needed a second with it. "He held it up next to my face. To see if it was right for me."
+"Silk. He bought silk, Cass. He found a bolt of it, this burgundy, not even the same color I described, he went *deeper*, he — " She stopped again, because the image had come back, the two of them caught in the mirror, and she needed a second with it. "He held it up next to my face. To see if it was right for me."
 
-Cassie had her knees pulled up to her chest now, the textbook abandoned. She was quiet a second, working it. "He *sews,*" she said, like she was setting the fact down somewhere. Then her eyes changed. "Vee. The shirt."
+Cassie had her knees pulled up to her chest now, the textbook abandoned. She was quiet a second, working it. "He *sews*," she said, like she was setting the fact down somewhere. Then her eyes changed. "Vee. The shirt."
 
 Vee stopped moving.
 
@@ -88,11 +88,11 @@ Cassie absorbed this. "Were you still dressed?"
 
 "And then?"
 
-"And then he says, *the bra too.*" She put her hands up. "The bra too! It changes the line, he says, very serious. So off it comes, and now I'm — " her hands cupped her breasts and then flew outward and away " — *out.* Just out. In broad daylight. On a box. Like, here you go, I guess."
+"And then he says, *the bra too.*" She put her hands up. "The bra too! It changes the line, he says, very serious. So off it comes, and now I'm — " her hands cupped her breasts and then flew outward and away " — *out*. Just out. In broad daylight. On a box. Like, here you go, I guess."
 
 Cassie cracked up.
 
-"I know!" Vee said, riding it. "I *know.*"
+"I know!" Vee said, riding it. "I *know*."
 
 "How does a man even — " Cassie wiped her eyes. "Did he just say it? *Take it off?*"
 
@@ -176,7 +176,7 @@ Vee looked at the light on the floor. Outside the window someone was crossing th
 
 The quiet sat there, warm, for a moment longer. Then Cassie shifted against her pillow, and Vee could see her doing it — going back over the whole thing, laying it out, the way she worked a puzzle when the pieces wouldn't fit. Her face did the small frown.
 
-"Okay, wait," Cassie said. "Walk me through this. He's seen you with your shirt off twice now. Once in his own house. On a box. And he — sewed." She held up a finger. "He's a bodybuilder who makes dresses." Another finger. "He has had you standing in his living room in your underwear, and he picked up a *tape measure.*" She looked at Vee. "Vee. Are you sure he's not gay?"
+"Okay, wait," Cassie said. "Walk me through this. He's seen you with your shirt off twice now. Once in his own house. On a box. And he — sewed." She held up a finger. "He's a bodybuilder who makes dresses." Another finger. "He has had you standing in his living room in your underwear, and he picked up a *tape measure*." She looked at Vee. "Vee. Are you sure he's not gay?"
 
 "He's not a bodybuilder, he's a powerlifter, it's a totally different — "
 
@@ -186,7 +186,7 @@ The quiet sat there, warm, for a moment longer. Then Cassie shifted against her 
 
 "Okay — "
 
-"And I could feel his — " Vee reached back and patted her own ass, brisk and clinical, like she was indicating it on a diagram. "His *package.* Right here. When he was pinning the back seam." She nodded with great authority. "Definitely not gay."
+"And I could feel his — " Vee reached back and patted her own ass, brisk and clinical, like she was indicating it on a diagram. "His *package*. Right here. When he was pinning the back seam." She nodded with great authority. "Definitely not gay."
 
 Cassie's eyebrows went up. She sat forward. "He was *grinding* on you?"
 
@@ -194,7 +194,7 @@ Cassie's eyebrows went up. She sat forward. "He was *grinding* on you?"
 
 "He had you half naked on a box and he was — "
 
-"No, Cass." And there it was, the thing she'd been keeping all the way at the bottom, and she felt it surface with her whole face going warm and delighted and a little wicked. She looked at Cassie sideways. "*I* was grinding on *him.*"
+"No, Cass." And there it was, the thing she'd been keeping all the way at the bottom, and she felt it surface with her whole face going warm and delighted and a little wicked. She looked at Cassie sideways. "*I* was grinding on *him*."
 
 Cassie stared at her.
 
@@ -206,6 +206,6 @@ Vee started to laugh.
 
 "You are unbelievable," Cassie said, but she was laughing too. "He's making you a *dress* and you're — "
 
-"I *know.*" Vee dropped backward onto Cassie's bed, the pillow still against her, and lay there grinning at the underside of the top bunk. "I know, I know."
+"I *know*." Vee dropped backward onto Cassie's bed, the pillow still against her, and lay there grinning at the underside of the top bunk. "I know, I know."
 
 She didn't get up for a while. Neither of them said anything for a while. It was a good kind of quiet, and the shirt was up there on her pillow, and the dress wasn't even finished yet.

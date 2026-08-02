@@ -12,7 +12,7 @@ Coming back was its own small ceremony. She came out of the bathroom in it, bare
 
 And Randi looked. The full beam, all at once — but for a second before any word came there was only the looking, Randi gone still with it, her eyes traveling down the long bias line and back up the way you take in a thing you're going to have to account for.
 
-"Oh, *baby.*" It came out on a breath. "Turn for me — slow." Vee turned the way she'd turned at the mirror, and felt the slit fall open on her leg and swing shut. "...*God,* Vee."
+"Oh, *baby.*" It came out on a breath. "Turn for me — slow." Vee turned the way she'd turned at the mirror, and felt the slit fall open on her leg and swing shut. "…*God*, Vee."
 
 Randi crossed to her. She took a fold of the skirt between two fingers, at the hip, where the burgundy ran down into the plum beneath — not pinching, just feeling it, the silk sliding cool over her knuckle. "Charmeuse," she said, not to Vee; to herself, or to the dress. Her fingers moved up the seam, following the bias where it crossed Vee's body, reading the cut as her eyes had, and came to rest at the bare shoulder where the line began, the silk cool there and Vee warm under it. "And a good weight." A verdict, in a word Vee would never have reached for.
 
@@ -80,7 +80,7 @@ The shoes here were set out one to a shelf, each on its own little block of blea
 
 She could not say it. Could not stand in this expensive hush and tell Randi, who belonged here the way she belonged everywhere, who was already down the lit shelves touching things, that she could not afford to be inside the door. So she did nothing, which was its own kind of going under, and stood there holding a quiet the exact shape of what was in her account.
 
-Randi was beside her before the quiet could set. "Baby. A dress your *lover* made you?" The word dropped in easy and glamorous, *lover,* more than Vee had ever let herself call him, and exactly right the instant Randi said it, so that Pace rearranged in her own chest into something adult and lit. She was already moving, already lifting a shoe off its block at the front and turning back with it. "It goes on these."
+Randi was beside her before the quiet could set. "Baby. A dress your *lover* made you?" The word dropped in easy and glamorous, *lover*, more than Vee had ever let herself call him, and exactly right the instant Randi said it, so that Pace rearranged in her own chest into something adult and lit. She was already moving, already lifting a shoe off its block at the front and turning back with it. "It goes on these."
 
 It was higher than anything Vee owned and barely there, a few thin black straps webbed across the foot, a heel like a held breath, and it was, she saw it at once, completely right, the kind of right that made the tan one back at the first place, the one that would have gone with everything, look like an apology she'd been about to make to no one.
 
@@ -112,6 +112,6 @@ And she did. She walked out of the boutique in brand-new shoes like it was nothi
 
 The afternoon had gone gold on the sidewalk. Randi was still going, the coat woman or some new thing, and then she looked over at Vee with the box clutched up under her chin and her mouth went dry and fond.
 
-"You can put it in the trunk, you know," she said. "It's not going to *spoil.*"
+"You can put it in the trunk, you know," she said. "It's not going to *spoil*."
 
 And it caught Vee right under the rib — caught holding the box like that, like a girl who had never in her life bought a beautiful thing and didn't trust the world with it — and the laugh came up out of her real and whole and unrehearsed, the kind that bends you at the middle, the kind you cannot perform. Randi caught it and laughed too, pleased, lit with it, the two of them stopped on the bright sidewalk laughing over the boxes and the bag, the dress in its gray nylon hanging off Randi's arm between them. And Vee thought, as she had been thinking lately and could not stop, that she had never once in her life had a friend like this.

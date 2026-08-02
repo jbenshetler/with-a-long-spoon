@@ -16,7 +16,7 @@ He waited.
 
 "You went shopping."
 
-"God, Saturday. Best time I've had in a store in years." He felt the laugh start low in her. "She's ragging on my feet all afternoon — yeti this, sasquatch that — so she finds the biggest, ugliest shoe in the place, a canoe, a sole like a snow tire, and gets it *on,* and does the whole walk for me. The stomping, arms out, the little growl. The full bigfoot." The laugh climbed. "And there's an older couple stopped dead at the end of the aisle the whole time, watching, and she has no idea — she's mid-stomp — and then she turns around and *sees them.*" Randi pushed her face into his chest. "She went so red I thought she'd go up. Hand over her mouth, wanting the floor to take her." A beat, fond. "It was so cute. She was *so* embarrassed." Softer. "That was kind of hot."
+"God, Saturday. Best time I've had in a store in years." He felt the laugh start low in her. "She's ragging on my feet all afternoon — yeti this, sasquatch that — so she finds the biggest, ugliest shoe in the place, a canoe, a sole like a snow tire, and gets it *on*, and does the whole walk for me. The stomping, arms out, the little growl. The full bigfoot." The laugh climbed. "And there's an older couple stopped dead at the end of the aisle the whole time, watching, and she has no idea — she's mid-stomp — and then she turns around and *sees them*." Randi pushed her face into his chest. "She went so red I thought she'd go up. Hand over her mouth, wanting the floor to take her." A beat, fond. "It was so cute. She was *so* embarrassed." Softer. "That was kind of hot."
 
 He felt her smiling against his chest, and after a moment she went on, easy again.
 
@@ -24,7 +24,7 @@ He felt her smiling against his chest, and after a moment she went on, easy agai
 
 "And she talks about you," he said.
 
-"The whole hour." She lifted her head; there was something undefended in it. "Pace this, Pace that, the face you make when you're thinking. She's got it *bad.* It's a little pathetic." A beat. "I love it."
+"The whole hour." She lifted her head; there was something undefended in it. "Pace this, Pace that, the face you make when you're thinking. She's got it *bad*. It's a little pathetic." A beat. "I love it."
 
 She came up and kissed him — warm, languid, her hair falling around them, her hand at the side of his face — and he let her, one hand sliding up into her hair, and she stayed in it a moment before she drew back just far enough to look at him.
 
@@ -44,7 +44,7 @@ Something crossed her face and was gone. "God, you two," she said, and set her c
 
 Something in Randi went quiet at that, and softened past it. "And you're showing her she doesn't have to be." She leaned up and kissed his lower lip — soft, brief — and settled back onto his chest. "That's why she's so gone over you."
 
-Then her voice dropped half a register, went somewhere low and hoarse. "God. What she keeps under there." She pressed up on her hands and drew slowly down the length of him, her breasts dragging across his chest, one way and then the other, showing him with her own body the thing she was describing. "It's *criminal,* Pace. But you already know."
+Then her voice dropped half a register, went somewhere low and hoarse. "God. What she keeps under there." She pressed up on her hands and drew slowly down the length of him, her breasts dragging across his chest, one way and then the other, showing him with her own body the thing she was describing. "It's *criminal*, Pace. But you already know."
 
 It went through him — not the picture of Vee she'd handed him, but Randi, who kept a hand on every ounce of herself out in the world, wanting something out loud in his bed and not able to stop it. Her, stepping over her own line, of her own accord. His hands went to her thighs before the thought was done, stroking slow up the backs of them.
 

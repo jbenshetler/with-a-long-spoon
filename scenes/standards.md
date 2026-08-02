@@ -42,7 +42,7 @@ Randi's smile arranged again.
 
 "Yeah," she said. "It's — yeah. It's his name."
 
-"Got it." The friendly nod. "I kept thinking you'd said *Chase.*"
+"Got it." The friendly nod. "I kept thinking you'd said *Chase*."
 
 "No."
 
@@ -54,7 +54,7 @@ Sloane laughed her small laugh, the laugh that meant nothing on its own and was 
 
 "I — yeah," Randi said. "Probably."
 
-"Oh my god, I love that you don't care about cars," Sloane said. "Last year I dated a guy with one of those huge stupid Raptors and it was *like,* sir. You are five-foot-nine."
+"Oh my god, I love that you don't care about cars," Sloane said. "Last year I dated a guy with one of those huge stupid Raptors and it was *like*, sir. You are five-foot-nine."
 
 Kinsey laughed. The laugh came in slightly above pitch.
 
@@ -72,7 +72,7 @@ Brooke shifted slightly in her chair. The smile got an additional crease — the
 
 "Math," Randi said. "PhD."
 
-"Oh — math." A recalibration, barely there, the smile absorbing it without conceding the notch. "He doesn't *teach,* does he — you're in math this term, aren't you, you're not in one of his sections — "
+"Oh — math." A recalibration, barely there, the smile absorbing it without conceding the notch. "He doesn't *teach*, does he — you're in math this term, aren't you, you're not in one of his sections — "
 
 The fraction-of-a-second was wider here. Randi felt the room hold it.
 

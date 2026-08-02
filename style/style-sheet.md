@@ -17,7 +17,11 @@ enforces these, and flags anything not yet ruled rather than inventing a rule.*
   rolled her hips "—interrogation"). The dash severs the word, so no space.
 - **Never dash + comma** (`—,`). The dash ends the fragment; the comma goes.
 - **No en dashes, no double hyphens** in prose.
-- **Ellipsis:** *(unruled — `…` ×5 vs `...` ×17 in corpus; rule pending)*
+- **Ellipsis: the single character `…`**, closed up to the preceding word, space
+  after ("used to… and"); leading ellipsis attaches to the following word
+  ("…Does he have a brother?"). Author-typed `...` is an accepted input form —
+  normalize to `…` whenever a copyedit pass touches the file; it is not an
+  error. (Ruled 2026-08-02.)
 - **Quotes/apostrophes: straight in source; smartened at typesetting.** Source
   files use `"` and `'` throughout. Typesetting proofread must check *leading*
   apostrophes, which naive smartening flips backward (`'em`, `'til`, `'90s`).
@@ -35,8 +39,15 @@ enforces these, and flags anything not yet ruled rather than inventing a rule.*
 - Three sanctioned uses: **emphasis**, **interiority** (unspoken thought,
   including the mother's voice), and **quoted written text** (texts, notes —
   emoji allowed there and only there).
-- *(Unruled: whether terminal punctuation sits inside the span — both `*me.*`
-  and `*me*.` occur; rule pending.)*
+- **Terminal punctuation — the Chicago rule** (ruled 2026-08-02): for
+  **emphasis** on a word or phrase, the comma/period belongs to the sentence
+  and sits **outside**, roman ("He takes *forever*."). For **interiority,
+  recalled speech, and written text**, the span is an utterance that owns its
+  punctuation, which stays **inside** ("*here it comes,* she thought";
+  "*Come over Friday at 7.*"). A span that is a **complete sentence set
+  entirely in italics** keeps its period inside ("*Edna Mode.* You just
+  straight-up left." · "*Gesso.*"). Decidable from context every time, same
+  shape as the facedown test.
 
 ## Word list (A–Z)
 
@@ -69,7 +80,5 @@ Danny · Dr. Marsh. Places/brands as spelled in the legal pre-sheet
 
 ## Open items (candidates awaiting a ruling)
 
-- Ellipsis house form (`…` vs `...`).
-- Italic spans: terminal punctuation inside vs. outside.
 - Remaining hyphenation variants in `style-sheet-candidates.md` §2 (top of
   table; most of the tail is deliberate-compound noise).

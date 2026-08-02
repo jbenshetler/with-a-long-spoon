@@ -22,7 +22,7 @@ Randi lifted her mimosa and Vee lifted hers and they touched the rims — they a
 
 Then the ordering, which was its own slow pleasure and half the reason to come. Randi ordered without once opening the menu, decisive, from the inside of the place — the menu a thing for other people. Vee read the right-hand column first — the prices, always the prices first — and this time didn't stop at the soup, the safe cheap thing you ordered so you could afford the chair. She let her eye climb the page, felt the old caution give, and ordered the eggs Benedict, the good one, the one that cost, and felt the small illicit lift of it — the daring a little easier each time, she was finding.
 
-The waiter took the menus. Randi settled back into the corner of the booth and took Vee in all at once. "You look so *happy,*" she said, delighted, and a little greedy with it. "Tell me why, so I can grab some."
+The waiter took the menus. Randi settled back into the corner of the booth and took Vee in all at once. "You look so *happy*," she said, delighted, and a little greedy with it. "Tell me why, so I can grab some."
 
 And here was the thing Vee had not planned for, driving over: that there was nothing to *give*, not the way there usually was. There was no scene. There was no dress, no swat, no afternoon that started one way and ended another. There was just — all of it. The whole shape of the last weeks, which was not a story you could tell over soup because it had no edges, no place it began.
 
@@ -34,23 +34,23 @@ And here was the thing Vee had not planned for, driving over: that there was not
 
 Randi's mouth curved. "The amount."
 
-"We have so much sex, Randi." It came out plain and a little helpless and she laughed at it. "Like — more than I knew people did. More than I've ever. And it's not—" She hunted for it. "You know how you think a guy who wants it that much would be, like, quick. Selfish about it. It's the opposite of that. He takes *forever.* He builds the whole thing, slow, like he's got nowhere to be, until I'm—" She dropped her voice, leaned in over the soup that hadn't come. "Until I've got the sheets in both hands before he's even really started. And then it's never just the once. We get through dinner and it's again, and sometimes again after that, and *then* we sleep."
+"We have so much sex, Randi." It came out plain and a little helpless and she laughed at it. "Like — more than I knew people did. More than I've ever. And it's not—" She hunted for it. "You know how you think a guy who wants it that much would be, like, quick. Selfish about it. It's the opposite of that. He takes *forever*. He builds the whole thing, slow, like he's got nowhere to be, until I'm—" She dropped her voice, leaned in over the soup that hadn't come. "Until I've got the sheets in both hands before he's even really started. And then it's never just the once. We get through dinner and it's again, and sometimes again after that, and *then* we sleep."
 
 "Twice in a night."
 
-"Two, three. And then there's mornings… and afternoons." She was pink now and past caring. "And it's not just the — he doesn't just go for the parts you'd think. It's all of me. His hands, his mouth, everywhere, like the whole of me is the— like there's not a part of me he doesn't want. And when he actually—" she made a small hopeless gesture "—he changes it up the whole time, fast then slow then some way I don't have a word for, and he's *strong,* he can hold me anywhere he wants me, and then a minute later he's so gentle I could cry. Both. The same night. I don't know how one person is both."
+"Two, three. And then there's mornings… and afternoons." She was pink now and past caring. "And it's not just the — he doesn't just go for the parts you'd think. It's all of me. His hands, his mouth, everywhere, like the whole of me is the— like there's not a part of me he doesn't want. And when he actually—" she made a small hopeless gesture "—he changes it up the whole time, fast then slow then some way I don't have a word for, and he's *strong*, he can hold me anywhere he wants me, and then a minute later he's so gentle I could cry. Both. The same night. I don't know how one person is both."
 
 Randi listened the way she listened, which was total, her wine forgotten, her eyes going to Vee's mouth when she talked and her hands when they moved, and Vee felt herself open under it like she always did, the best friend she'd ever had.
 
-"And it doesn't *stop,*" Vee said, quieter, because this was the part that scared her a little. "That's the thing nobody tells you. You'd think all that would — fill you up. Wear it out. It's the opposite. The more we do it the more I *want* it. I walk around Tuesday afternoon in the middle of the library and my whole body's just — thinking about Friday. I've got sex brain. I used to be a person with thoughts."
+"And it doesn't *stop*," Vee said, quieter, because this was the part that scared her a little. "That's the thing nobody tells you. You'd think all that would — fill you up. Wear it out. It's the opposite. The more we do it the more I *want* it. I walk around Tuesday afternoon in the middle of the library and my whole body's just — thinking about Friday. I've got sex brain. I used to be a person with thoughts."
 
 "You poor thing," Randi said, warm as a bath.
 
 And because it was Randi, Vee said the rest, the part she hadn't said out loud to anyone. "Is that — is something *wrong* with me? Am I getting greedy? Am I turning into some kind of — I don't know. Sex pervert?"
 
-"Oh, honey. No." Randi's face went soft and certain. "You're not greedy. You're just finally hungry out loud." She said it like an absolution. "You've been starving your whole life and calling it *fine,* and now you're not, and you've gone and decided that's the flaw. It's the least flawed thing about you." Then, before it could get too solemn, the grin came back. "And if you're a sex pervert, you're *my* sex pervert." A beat. "…Does he have a brother?"
+"Oh, honey. No." Randi's face went soft and certain. "You're not greedy. You're just finally hungry out loud." She said it like an absolution. "You've been starving your whole life and calling it *fine*, and now you're not, and you've gone and decided that's the flaw. It's the least flawed thing about you." Then, before it could get too solemn, the grin came back. "And if you're a sex pervert, you're *my* sex pervert." A beat. "…Does he have a brother?"
 
-Vee laughed, the worry breaking up and out of her, and her throat did something under it too, because no one had ever put it like that — that the wanting wasn't the thing gone wrong with her but the thing gone finally *right.*
+Vee laughed, the worry breaking up and out of her, and her throat did something under it too, because no one had ever put it like that — that the wanting wasn't the thing gone wrong with her but the thing gone finally *right*.
 
 The plates came, the Benedict gold and glossy under a hollandaise gone slack and shining, and Vee cut into the near egg and the yolk broke and ran, thick and gold, out over the ham and the muffin and down into the sauce. A low sound got out of her before she could help it. She tore a corner off the toast and dragged it through the pooled gold — yolk and hollandaise together — and closed her mouth over it, and it was almost too much, and her hand had gone back for more before she'd decided anything. "God," she said, chasing the last of the run across the plate with the bread, "this is the best part. The middle, when it goes everywhere."
 
@@ -64,11 +64,11 @@ Randi turned her glass a slow quarter-turn and back and said nothing for a secon
 
 "And it's—" She reached for it, because this one had no shape at all. "Talking to him is the easiest thing in the world. It just comes out of me, all of it — I'd confess anything, honest, just to have him hear me. But that's not even the strange part. Half the time we don't talk at all. I'll be sitting in his kitchen while he cleans up and neither of us has made a sound in I couldn't tell you how long, and it's not the kind of quiet you're supposed to hurry up and fill. I'm just there. Floating off."
 
-"And then I *sleep* there, Randi." Softer — this was the strangest of it and somehow the truest. "Actually sleep. The good kind, whole nights. It's just him and the trees out there, nobody else, all woods, and by the time we're through I'm wrung clean out and I go down like somebody reached over and switched me off. I didn't know I had it in me. I didn't know I *could.*"
+"And then I *sleep* there, Randi." Softer — this was the strangest of it and somehow the truest. "Actually sleep. The good kind, whole nights. It's just him and the trees out there, nobody else, all woods, and by the time we're through I'm wrung clean out and I go down like somebody reached over and switched me off. I didn't know I had it in me. I didn't know I *could*."
 
 Randi didn't reach to make anything of it — no grin, no line to cap it. She only nodded, and let the quiet be quiet a moment.
 
-"And the *attention,*" Vee went on, because it was pouring now, the thing she'd never said out loud rising up to be said. "It's on me the whole time I'm there, not just — I mean even with my clothes on, which, ha, isn't a lot of the weekend—" Randi's laugh, low "—even then. I feel *looked at.* Not creepy-looked-at, not like a guy at a bar. The other thing. Like—" She was reaching for it and it came up on its own, surprising her as it left her mouth. "Like he wants *me.* With the body attached. Not — the other way around." She laughed, a little unsteady. "God, that sounds unhinged."
+"And the *attention,*" Vee went on, because it was pouring now, the thing she'd never said out loud rising up to be said. "It's on me the whole time I'm there, not just — I mean even with my clothes on, which, ha, isn't a lot of the weekend—" Randi's laugh, low "—even then. I feel *looked at*. Not creepy-looked-at, not like a guy at a bar. The other thing. Like—" She was reaching for it and it came up on its own, surprising her as it left her mouth. "Like he wants *me*. With the body attached. Not — the other way around." She laughed, a little unsteady. "God, that sounds unhinged."
 
 Randi didn't answer.
 
@@ -78,9 +78,9 @@ Vee looked up. Randi's eyes had gone bright and a little unfixed, held on her, a
 
 And Vee had it, or near enough: these were the ones that got you, told close, in a dark booth on a slow afternoon — of course it had reached her. She went warm with something close to pride, that a Saturday of hers could do that to a woman like Randi.
 
-Then Randi sat back, and drew a breath, and the beam came up full again, and she was herself, all of her, the grin arriving like a room light. "*Even with your clothes on,*" she repeated, savoring it, like Vee had set a jewel on the table. "God. Okay — what's he got *playing,* when that's going on? A man like that has a soundtrack."
+Then Randi sat back, and drew a breath, and the beam came up full again, and she was herself, all of her, the grin arriving like a room light. "*Even with your clothes on,*" she repeated, savoring it, like Vee had set a jewel on the table. "God. Okay — what's he got *playing*, when that's going on? A man like that has a soundtrack."
 
-"These long playlists that just roll on their own," Vee said, glad of the easy question. "When he's cooking it's piano, mostly, old and soft — the kind that just flows and never quite lands — and I couldn't tell you what half of it even is. And then later it's *Fleetwood Mac,* or some Garth Brooks song I grew up on, and it's never wrong — like the house knows what the evening is before I do." She smiled. "It's going when I walk in. Every time. I've never once heard it start."
+"These long playlists that just roll on their own," Vee said, glad of the easy question. "When he's cooking it's piano, mostly, old and soft — the kind that just flows and never quite lands — and I couldn't tell you what half of it even is. And then later it's *Fleetwood Mac*, or some Garth Brooks song I grew up on, and it's never wrong — like the house knows what the evening is before I do." She smiled. "It's going when I walk in. Every time. I've never once heard it start."
 
 "Of course he does," Randi said, warm, and shook her head, delighted.
 
@@ -104,15 +104,15 @@ And that was the thing that changed her mind. She had the cropped one ready — 
 
 Randi went quiet over it, and looked, and kept looking — past a glance, past what a verdict needed — and Vee let herself be looked at and waited to hear what she'd say. Then Randi drew a breath and came up out of it, as if from a distance.
 
-"So *that's* what you've been hiding under all those loose clothes." The grin came. "Okay, *Miss November.*" And Vee laughed, surprised out of her nerves, and Randi grinned and let her. "He must love this. How did he sweet-talk you into it?"
+"So *that's* what you've been hiding under all those loose clothes." The grin came. "Okay, *Miss November*." And Vee laughed, surprised out of her nerves, and Randi grinned and let her. "He must love this. How did he sweet-talk you into it?"
 
 "It was my idea," Vee said, and felt the small pride of it.
 
-"Course it was." Randi looked back at the screen. "Legs like yours, though — and you only gave him *half?*"
+"Course it was." Randi looked back at the screen. "Legs like yours, though — and you only gave him *half*?"
 
 And that landed wrong — that she'd lost her nerve, that Randi, who'd done God knew what with God knew whom, would file her as a girl who flinched. She was not going to be that girl, not at this table. She pulled up the real one, the whole uncropped length of her — and then she sat with it a second, her thumb over it, working up to it, the thrill and the shame running together — before she turned the phone around and put it in Randi's hand. "I gave him *all* of it."
 
-Randi took it. Her eyes went the length of it, and the grin came slow. "God, those *legs.*" Then, softer, delighted: "Showing him your toes, eh?"
+Randi took it. Her eyes went the length of it, and the grin came slow. "God, those *legs*." Then, softer, delighted: "Showing him your toes, eh?"
 
 Vee laughed, and Randi laughed with her, the two of them gone pink and delighted over it together — and under the heat in her face Vee was, absurdly, happy. She'd never had this before: a friend she could hand all of it to, the real thing and not the tidied-up version — one who knew things, who'd been places Vee had only read about, and could take any of it without Vee having to explain herself or leave the good parts out. The one friend she trusted with all of it. There was no one else, anywhere, she could have shown.
 

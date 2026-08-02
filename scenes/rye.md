@@ -16,7 +16,7 @@ Cassie swiveled her chair around, warm and dry in her sweats, her brown shag unt
 
 "I had your blood type."
 
-Vee laughed and then winced, because laughing used something that hurt. "Cass, it was *so much.* It's straight up. The whole first part is just trees, this tunnel of trees, you can't see anything, you just go up and up and your lungs quit, and the boots didn't fit." She lifted one foot a careful inch off the floor. "I have a blister like a second toe."
+Vee laughed and then winced, because laughing used something that hurt. "Cass, it was *so much*. It's straight up. The whole first part is just trees, this tunnel of trees, you can't see anything, you just go up and up and your lungs quit, and the boots didn't fit." She lifted one foot a careful inch off the floor. "I have a blister like a second toe."
 
 "And he, what. Carried you."
 
@@ -26,7 +26,7 @@ Vee laughed and then winced, because laughing used something that hurt. "Cass, i
 
 "I'm reporting what I observed."
 
-"And then the top." Vee's voice opened all the way up. "You come up out of the trees and there's a *lake.* This whole silver lake way down, and the rock at the top is almost black, and you can see everything, you can see for miles. And I got up there. Me. I have never gotten anywhere on my own legs in my life and I got up a mountain."
+"And then the top." Vee's voice opened all the way up. "You come up out of the trees and there's a *lake*. This whole silver lake way down, and the rock at the top is almost black, and you can see everything, you can see for miles. And I got up there. Me. I have never gotten anywhere on my own legs in my life and I got up a mountain."
 
 "Look at you," Cassie said, and meant it.
 

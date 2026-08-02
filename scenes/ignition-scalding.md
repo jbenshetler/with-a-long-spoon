@@ -22,7 +22,7 @@ They were on their backs in the white afternoon, the two of them, the bed wrecke
 
 He smiled. He felt it move his own mouth before he'd decided to.
 
-"I get home from here," she said, "and I sleep for a day and a half. A day and a half, Pace. Like I've been in a car accident. And you —" she rolled her head on the pillow to look at the side of his face — "you've got to get up and do it all again tomorrow. No rest. How do you do it? How are you not — I don't understand how you're not just *finished.*"
+"I get home from here," she said, "and I sleep for a day and a half. A day and a half, Pace. Like I've been in a car accident. And you —" she rolled her head on the pillow to look at the side of his face — "you've got to get up and do it all again tomorrow. No rest. How do you do it? How are you not — I don't understand how you're not just *finished*."
 
 "I'm built for it," he said.
 
@@ -64,7 +64,7 @@ And then she said it.
 
 "I can't wait to taste her."
 
-It came out of her low and fast and unguarded, ahead of itself, the way a thing comes out when the body has gotten in front of the plan — he felt it more than heard it, felt the want in it travel down through her into where his mouth was, and he went still against her with the whole of his attention turning toward what she had just said. Because she had said it before she'd decided to. He could tell. There was no *as part of the thing* around it, no *eventually,* no scaffolding of the future to make it a thing a girlfriend was offering rather than a thing she wanted on her tongue right now — just the bare arrival of it, *I can't wait,* present tense, eager, a door she had opened a half-second before she knew her hand was on it.
+It came out of her low and fast and unguarded, ahead of itself, the way a thing comes out when the body has gotten in front of the plan — he felt it more than heard it, felt the want in it travel down through her into where his mouth was, and he went still against her with the whole of his attention turning toward what she had just said. Because she had said it before she'd decided to. He could tell. There was no *as part of the thing* around it, no *eventually*, no scaffolding of the future to make it a thing a girlfriend was offering rather than a thing she wanted on her tongue right now — just the bare arrival of it, *I can't wait,* present tense, eager, a door she had opened a half-second before she knew her hand was on it.
 
 He lifted his head and looked at her.
 
@@ -72,7 +72,7 @@ She heard it too, a beat behind him. He watched her hear it. He watched the smal
 
 "I mean it," she said, and made it wry, made it a joke at her own expense, the recovery dressed as a shrug. "I would take her — God. I would take sloppy seconds off her and say thank you." A small laugh, self-deprecating, charming, a senior officer of a house that polices exactly this saying the cruelest word the house has and aiming it at herself. "That's where I am. That's the state of me."
 
-She thought she was covering. She did not understand what she had just done. He could see that she did not — that to her the two things were one playful overshare, a hot woman in bed being filthy and funny about a fantasy they both already had on the calendar, the *can't wait* and the *sloppy seconds* a single blush she was laughing off. She did not hear the two of them snap together into something with a tense and an object and a time. He heard it. *I can't wait to taste her* and *I would take her off you* resolved in him, cleanly, into a sentence with no ambiguity left in it at all: she was telling him she wanted Vee's taste, soon, off him, and that she would take it second, after, knowingly, gladly. She was volunteering the low place. The woman who ranked Vee beneath her in every daylight hour was lying in his bed asking — *asking,* present tense, in words — for the position beneath her. Of her own free will. Without his having reached for it.
+She thought she was covering. She did not understand what she had just done. He could see that she did not — that to her the two things were one playful overshare, a hot woman in bed being filthy and funny about a fantasy they both already had on the calendar, the *can't wait* and the *sloppy seconds* a single blush she was laughing off. She did not hear the two of them snap together into something with a tense and an object and a time. He heard it. *I can't wait to taste her* and *I would take her off you* resolved in him, cleanly, into a sentence with no ambiguity left in it at all: she was telling him she wanted Vee's taste, soon, off him, and that she would take it second, after, knowingly, gladly. She was volunteering the low place. The woman who ranked Vee beneath her in every daylight hour was lying in his bed asking — *asking*, present tense, in words — for the position beneath her. Of her own free will. Without his having reached for it.
 
 Something opened in him, warm and exact, and the plan came up with it already whole, the way the next bar of a thing you're playing is just there under your hands before you've thought it: Tuesday. After Vee. He would not tell her when. She had not asked when. She had said *I can't wait,* and he would see to it that she didn't have to.
 

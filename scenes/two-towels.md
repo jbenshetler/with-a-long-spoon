@@ -66,7 +66,7 @@ The den ran deep and low, warm with afternoon coming in from the far end of it. 
 
 "I made them."
 
-She looked up at him. "You made *furniture.*"
+She looked up at him. "You made *furniture*."
 
 "Most of what's in here." He was pleased — plainly, quietly proud, watching her hand on the wood more than her face. "That joint you've got your fingers on, there's no screws in it. It's cut to lock, and glued, so it stays. I mixed the stain myself. The shellac too."
 
@@ -104,7 +104,7 @@ A bolt of cloth was on the long table, and Pace stopped beside it with his hands
 
 For weeks she'd carried a single red in her head — the dress she'd given up on, the shade from the magazine, that flat brick-red the girl in the spread had been poured into. This wasn't it. This was burgundy, deeper, wine-like, with purple under the red, and her first beat was a small dropping disappointment, *oh, it's not the right—* the reflex of a woman who'd had the shade fixed for weeks. Then he took up a corner of it and held it toward her, up near her face, as you hold a paint chip to a wall, and in a framed mirror on the wall she caught the two of them together — the cloth and her own coloring, the red of her hair and the warmth of her skin — and the disappointment turned over into something she didn't have a word for.
 
-The magazine shade would have fought her. This one didn't. This one looked like it had been mixed for exactly her, like her own coloring had been consulted, and she understood in the space of a breath that he hadn't matched the dress she'd described. He'd matched *her.*
+The magazine shade would have fought her. This one didn't. This one looked like it had been mixed for exactly her, like her own coloring had been consulted, and she understood in the space of a breath that he hadn't matched the dress she'd described. He'd matched *her*.
 
 It was the silk she'd named at the summit, days ago. Cherries in her hand, the sky going silver, guard down the way it gets when you're tired and high up. She'd said the honor society thing, the dress she couldn't afford, the color she'd seen in a magazine — that brick-red she'd had stuck in her head for weeks. Said it the way you say things you've already let go of. He'd said *that sounds like a beautiful dress,* taken another cherry, and the talk moved on.
 
