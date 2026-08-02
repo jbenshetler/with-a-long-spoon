@@ -26,7 +26,7 @@ On her other side Randi turned the whole warm weight of her attention on, like a
 
 "Eight."
 
-"She left at eight," Randi told Cassie, delighted, like she'd cracked a case. Cassie had cracked it an hour ago off the made bed, and let Randi have it anyway.
+"She left at eight," Randi told Cassie, delighted, like she'd cracked a case. Cassie had cracked it hours ago off the made bed, and let Randi have it anyway.
 
 So Vee started to tell them. Not the dress; they'd both had the dress for weeks, the bolt of cloth and the burgundy and the improbable man building it onto her. She started to tell them it was finished, that she'd picked it up and put it on and stood in front of a window with the sun pouring through it, that she still hadn't found the word for what she'd seen in the glass and had been failing to find it all day.
 
@@ -50,7 +50,7 @@ Something eased in Cassie's face, and she picked her highlighter back up.
 
 "You lucky slut." Randi, low and delighted from the aisle, and the register of the whole thing tipped over. Then, in the same breath, already turning the dress over in her hands without a hand on it, "I'll bet you've had the whole outfit planned since the second you got it on."
 
-"Slut" landed lower than Randi meant it to. Her body had been keeping the night's account since eight, a good soreness no gym had ever given her, down low, and up the inside of both thighs, and in her nipples where they sat against her bra. For a second she was sure the whole room could read it off her like Cassie had read the bed.
+"Slut" landed lower than Randi meant it to. Vee's body had been keeping the night's account since eight, a good soreness no gym had ever given her, down low, and up the inside of both thighs, and in her nipples where they sat against her bra. For a second she was sure the whole room could read it off her like Cassie had read the bed.
 
 And there was the one snag in the gold of the day, surfacing because Randi had reached in and found it. "I don't have shoes," Vee said. "Not for that. Nothing I own is right."
 
