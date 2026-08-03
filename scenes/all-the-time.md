@@ -100,7 +100,7 @@ Vee felt it climb her neck. "I mean—"
 
 "You don't have to show me." She slid the phone back across.
 
-And that was the thing that changed her mind. She had the cropped one ready — had had it ready for days — and her thumb found it before the rest of her had voted, and she turned the phone back across: bare to the waist, the red mouth, the swept-back hair, and no more of her than that. Then she sat while Randi looked, and couldn't hold still, her foot going under the table.
+And that was the thing that changed her mind. She had the cropped one ready — had had it ready since the morning after — and her thumb found it before the rest of her had voted, and she turned the phone back across: bare to the waist, the red mouth, the swept-back hair, and no more of her than that. Then she sat while Randi looked, and couldn't hold still, her foot going under the table.
 
 Randi went quiet over it, and looked, and kept looking — past a glance, past what a verdict needed — and Vee let herself be looked at and waited to hear what she'd say. Then Randi drew a breath and came up out of it, as if from a distance.
 

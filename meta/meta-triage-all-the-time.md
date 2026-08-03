@@ -1,3 +1,14 @@
+# Triage — All the Time (timeline sweep, 2026-08-03)
+
+## Fixed
+
+- **"had had it ready for days" → "since the morning after"** (:103) — the
+  cropped nude is taken Thu Nov 12 evening ({{In His Hands}}); brunch is Sat
+  Nov 14 morning, ~1.5 days later. The recast keeps the premeditation beat and
+  anchors to the photo night for the rereader.
+
+---
+
 # Triage — All the Time (line audit, 2026-08-02)
 
 Sentence-by-sentence consistency/logic audit (`audits/line-audit/all-the-time.md`).

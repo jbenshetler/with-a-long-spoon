@@ -1,3 +1,14 @@
+# Triage — Lesson (timeline sweep, 2026-08-03)
+
+## Fixed
+
+- **"Tuesday night Meg's door was open" → "Wednesday night"** (:7) — {{Rock}}
+  (Tue Oct 20) has Vee overnight at Pace's that same night; the Meg retelling
+  moves to the free night before the Thu Oct 22 dance. Nothing downstream
+  depended on Tuesday.
+
+---
+
 # Triage — Lesson (line-audit pass, 2026-08-01)
 
 Source: `audits/line-audit/lesson.md`, reviewed with the author.

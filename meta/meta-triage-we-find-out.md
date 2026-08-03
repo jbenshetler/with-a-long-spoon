@@ -1,3 +1,12 @@
+# Triage — We Find Out (timeline sweep, 2026-08-03)
+
+## Fixed
+
+- **Header "A Friday afternoon" → "An afternoon"** — weekdays are barred from
+  scene headers (2026-08-01 sweep); the chronology owns Fri Oct 30.
+
+---
+
 # Triage — We Find Out (line audit, 2026-08-02)
 
 Sentence-by-sentence consistency/logic audit (`audits/line-audit/we-find-out.md`).

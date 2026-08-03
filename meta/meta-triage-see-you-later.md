@@ -1,3 +1,13 @@
+# Triage — See You Later (timeline sweep, 2026-08-03)
+
+## Fixed
+
+- **"a longer parting than a Monday" → "than a Wednesday"** (:83) — the scene is
+  Wed Sep 9 and the prose names the weekday at :33; the idiom keeps its whole
+  shape with the day it actually is.
+
+---
+
 # Triage — See You Later (line-audit pass, 2026-08-01)
 
 Source: sentence-level consistency audit (`audits/line-audit/see-you-later.md`),

@@ -1,3 +1,15 @@
+# Triage — Fairytale (timeline sweep, 2026-08-03)
+
+## Left standing — do not re-litigate
+
+- **"across a table on a nothing Tuesday"** (:135) — no dated Randi/Vee Tuesday
+  table exists, but the friendship contains a fall of ambient undated contact
+  (shared MWF stats, ordinary meals) the chronology never inventories; the idiom
+  ("a nothing Tuesday" = the opposite of the Gstaad ballroom) is the point.
+  Do not hunt for a dated Tuesday table or de-specify the day.
+
+---
+
 # Triage — Fairytale (line audit, 2026-08-03)
 
 Sentence-by-sentence consistency/logic audit (`audits/line-audit/fairytale.md`).

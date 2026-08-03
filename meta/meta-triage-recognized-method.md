@@ -1,3 +1,17 @@
+# Triage — A Recognized Method (timeline sweep, 2026-08-03)
+
+## Fixed
+
+- **"and she had only had him the once" cut** (:65) — by Sat Oct 24 there are
+  three prior occasions ({{Famished}} Oct 9, {{Peekaboo}} Oct 15, {{Rock}} Oct 20);
+  the clause predated the [NEW] Rock/Gone insertions. "Too big and too new"
+  already carries the newness.
+- **Header recast** to "Two nights and the day between" — weekdays are barred
+  from headers (2026-08-01 sweep) and the old span ("into Sunday morning")
+  understated the scene, which runs to Mon Oct 26 morning per the chronology.
+
+---
+
 # Triage — A Recognized Method (line-audit pass, 2026-08-02)
 
 Source: `audits/line-audit/recognized-method.md`, reviewed with the author.

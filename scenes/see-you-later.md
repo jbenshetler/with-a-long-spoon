@@ -80,7 +80,7 @@ Cassie was already standing, the wrong textbook back in her bag, her ball cap pu
 
 "Have fun," Cassie said. And then, plainly, as she said everything: "Goodbye, Vee."
 
-It landed a little wrong. *Goodbye* — not *see you later,* not *text me,* not *bye* — the whole word, flat and finished, the word for a longer parting than a Monday. Vee felt the small wrongness of it the way you feel a stair that isn't where your foot expected, and her face did the thing it did with wrongness, which was to smooth it.
+It landed a little wrong. *Goodbye* — not *see you later,* not *text me,* not *bye* — the whole word, flat and finished, the word for a longer parting than a Wednesday. Vee felt the small wrongness of it the way you feel a stair that isn't where your foot expected, and her face did the thing it did with wrongness, which was to smooth it.
 
 "It's *coffee*, weirdo," she said, laughing. "I'll see you at home in two hours."
 

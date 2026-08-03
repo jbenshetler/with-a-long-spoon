@@ -1,6 +1,6 @@
 # A Recognized Method
 
-*Vee POV. Saturday evening into Sunday morning: the apology at the door, and the kitchen the next day.*
+*Vee POV. Two nights and the day between: the apology at the door, and the kitchen the next day.*
 
 ---
 
@@ -62,7 +62,7 @@ Her eyes had gone. He had been quiet the whole way through, and now he crossed t
 
 "Thank you for telling me what she said," he said.
 
-Which was such a strange thing to be thanked for that she laughed, wetly, once, and that was the end of the apology, though the evening went on a long time after it, first lighter and then not light at all. She stayed. She had not packed a bag; she had not let herself think past the front step, because to pack would have been to admit she'd come hoping for this, and she had only had him the once, and the hope was too big and too new to say even to herself. And still she stayed. The last clear thing she thought before the night took her under was that she'd carried the whole weight of it up the hill to his door for two days and he had simply reached over and lifted it out of her hands, like the pie.
+Which was such a strange thing to be thanked for that she laughed, wetly, once, and that was the end of the apology, though the evening went on a long time after it, first lighter and then not light at all. She stayed. She had not packed a bag; she had not let herself think past the front step, because to pack would have been to admit she'd come hoping for this, and the hope was too big and too new to say even to herself. And still she stayed. The last clear thing she thought before the night took her under was that she'd carried the whole weight of it up the hill to his door for two days and he had simply reached over and lifted it out of her hands, like the pie.
 
 ---
 

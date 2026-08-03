@@ -26,9 +26,11 @@ mark items done with dates as they complete.*
   **Decision 2026-08-01: this is its own skill/command, separate from
   `/wals-line-audit`** (that pass is mid-flight; don't graft a second rubric
   onto it).
-- [ ] **Whole-book timeline sweep** — one closing audit reconciling every
+- [x] **Whole-book timeline sweep** — one closing audit reconciling every
   elapsed-time claim against the master chronology in a single pass; run
-  after all chapters clear the line audit.
+  after all chapters clear the line audit. Complete 2026-08-03: 734 claims
+  across 49 chapters (`audits/timeline/`), 9 findings ruled, no cumulative
+  drift.
 - [ ] **Proofread after typesetting** — on-device (Books/Kindle) against the
   built epub: section-rule breaks, italics at chapter boundaries, curly
   quotes/apostrophes, scene-break rendering.

@@ -4,7 +4,7 @@
 
 ---
 
-Tuesday night Meg's door was open, two down. Vee was talking before she was all the way in.
+Wednesday night Meg's door was open, two down. Vee was talking before she was all the way in.
 
 "He asked me dancing. Thursday night — country dancing. He's picking me up. I said I can't dance, I don't even know how, and he said, 'If you want to, I'll teach you.'" She sat on the end of Meg's bed and stood up again. "He moved the date up to seven. So there's time. To teach me."
 

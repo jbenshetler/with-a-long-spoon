@@ -1,6 +1,6 @@
 # We Find Out
 
-*Vee POV. A Friday afternoon into evening: she comes by early, and loses a bet she didn't know she was making.*
+*Vee POV. An afternoon into evening: she comes by early, and loses a bet she didn't know she was making.*
 
 ---
 

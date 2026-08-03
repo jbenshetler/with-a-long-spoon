@@ -49,4 +49,4 @@ clean (dates vs. chronology, cross-scene continuity with {{Lesson}} and
 
 ## Housekeeping
 
-- Corrected stale date in `meta-condensed-hills-and-valleys.md`: ~Sat Oct 26 → ~Sat Oct 31 (Oct 31 is the Saturday matching the chronology entry).
+- Corrected stale date in `meta-condensed-hills-and-valleys.md`: now ~Sat Oct 24 (the Saturday after the Thu Oct 22 CW-Dance blowup, matching the chronology). An earlier version of this note said Oct 31 in error — corrected by the timeline sweep 2026-08-03.
