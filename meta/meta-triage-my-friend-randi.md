@@ -1,3 +1,45 @@
+# Triage — My Friend Randi (line audit, 2026-08-03)
+
+Sentence-by-sentence consistency/logic audit (`audits/line-audit/my-friend-randi.md`).
+7 findings: 2 fixed, 4 left standing, plus one author-directed addition (the
+wet-shoulder beat). Cassie not physically present (away with family); chronology
+`present: Vee, Randi` verified correct, no change.
+
+## Fixed
+
+- **Greeter exit-timing contradiction** (:17) — "before the girl who'd let her in
+  was even out of the room" referenced the blonde who had already left at :13.
+  Recast to "before Brooke could ask again" — which also keeps Brooke *with* Vee
+  (her warmth intact, no unaccompanied guest in the house) and enacts the
+  handoff: Vee is never left alone in the front hall.
+- **"Their separate bad days"** (:127) — POV breach: Vee has no reason to think
+  Randi had a bad day (as far as Vee knows, Randi lived a fairytale and flew home
+  on a private jet). Recast to "Randi holding on like she'd missed her every bit
+  as badly" — Vee's in-POV inference, closing the loop on :19's "Vee had missed
+  Randi badly," while leaving the reread charge (Randi's Gstaad freight) intact.
+- **"Wet hair" at :49** → "the hair" — wetness was unestablished and cross-wired
+  with the shower-wet blonde at :13. The *wet* was moved where it belongs
+  (author direction): a new beat at the first hug's break (:21), "Randi's neck
+  and shoulder were wet where she'd cried" — Vee cried into the skin of Randi's
+  neck (set up by :19's "warm skin of her neck"); personal and sensual without
+  being overtly sexual, and Randi wears it for the rest of the scene.
+
+## Left standing — do not re-litigate
+
+- **The greeter's unglossed "I'll get her"** (:13) — the house already knows
+  Vee's file ("the stats friend"); Vee is legible to strangers here, which :15
+  then makes explicit. A recognition beat would name what's better implied.
+- **The coat never shown coming off** (:15 vs. :95) — ambient prop convention;
+  readers grant indoor coat removal, and ":95's real work is "the day's coat"
+  vs. the good long coat of the plan.
+- **"Her family off… and not due back" attachment** (:11) — grammatical nicety;
+  the sense self-corrects to Cassie because the room registers *her* absence.
+- **Randi's "he didn't call you"** (:45) vs. the texting frame (:9, :23) —
+  Randi's colloquial idiom for reaching out, in her register, and true in the
+  event (a month of total silence includes calls).
+
+---
+
 # Triage — {{My Friend Randi}} cold-read feedback
 
 Verdicts from the 2026-07-30 feedback pass over the four cold-read reviews
