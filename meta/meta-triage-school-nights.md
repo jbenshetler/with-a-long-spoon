@@ -1,3 +1,22 @@
+# Triage — School Nights (line audit, 2026-08-02)
+
+Sentence-by-sentence consistency/logic audit (`audits/line-audit/school-nights.md`).
+2 findings, both fixed; nothing left standing.
+
+## Fixed
+
+- **"I don't get it." momentarily attributable to Vee** — two consecutive
+  Cassie paragraphs broke the alternation habit. Merged into the "Mm," said
+  Cassie paragraph (author's call: attribution by paragraph convention, zero
+  added words; the "Mm" reads as wind-up, not full stop).
+- **"She turned the book facedown" after Vee's line** — same shape in
+  miniature; "She" → "Cassie."
+
+Also: Cassie added to the chronology entry's `present:` field (she's on the
+page throughout) — standing presence sweep. Linter clean after edits.
+
+---
+
 # Triage — School Nights
 
 *Cold-read feedback pass, 2026-07-28. Panel: claude-fable-5, claude-opus-4-8, gpt-5.5, gpt-5.6-sol (all read after {{Above Him}} — the reviews name it by its pre-rename title, "The Top Drawer"). First triage pass for this scene. No prose was changed.*

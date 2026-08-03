@@ -28,3 +28,14 @@ Triage doc consulted: yes — `meta/meta-triage-school-nights.md`. Its protected
 - **Character knowledge:** everything Cassie knows she either observes (the glow, the absent nights) or is told in-scene; nothing unearned. Vee's week-count is done on the page (l.21), not assumed.
 - **Continuity with the l.17 triage fix:** the current text ("warm enough that she never once thought about how much she had on") carries no cold-after-sex residue; verified against the triage record.
 - **Streetlight coinage:** used consistently at open (l.7) and close (l.33); protected rhyme intact.
+
+## Author rulings (2026-08-02)
+
+1. **Fixed** (author's variant): the two Cassie paragraphs merged — "Mm," said
+   Cassie… "I don't get it." now one paragraph; attribution inherited, no tag
+   added.
+2. **Fixed**: "She turned the book facedown" → "Cassie turned the book
+   facedown."
+
+Cassie added to the chronology `present:` field (was Vee only). Triage
+recorded in `meta/meta-triage-school-nights.md`.
