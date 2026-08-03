@@ -52,6 +52,8 @@ These are fixed. They carry the dynamic and must survive every revision exactly 
 
 1. **The Greek coffee shop (Chi Latte).** In `see-you-later.md` Randi steers Vee to the Greek-coded coffee shop on Draper — **a place Cassie would never go.** Surface: just where Randi likes to go (glamorous, aspirational, Randi's taste). Underneath: ground selected to be Cassie-incompatible. The exclusion is built into the *choice of venue.*
 
+*Vee's surface-read of the pattern (no whiff of the engineering):* by ~late January Vee has absorbed the pattern's *surface* — Cassie just doesn't come when the thing is small and Randi-shaped, filed as taste-mismatch — and reasons from it in the {{Among Friends}} kitchen panel (she won't build a thing Cassie gets left out of, so the *group at a neutral venue* becomes her own idea). She is reasoning from data Randi manufactured; the engineering stays invisible to her (see discipline 2). Design: `meta-note-among-friends.md`.
+
 2. **The dress-code lunch.** Randi invites them **both** — looks generous, looks inclusive — to a lunch with a **dress code**, knowing **Cassie doesn't dress.** The invitation is the alibi; the dress code is the instrument; Cassie excludes *herself* by being who she is; Randi's hands stay clean and she gets to have extended the invitation. The social-perimeter version of what the velvet alcove is for disclosure: a room built so the inconvenient party can't be in it, presented as a nice place to eat. **Status: conceptual, not yet placed — likely becomes an SATC brunch. See `meta-todo-doc-updates.md` item 5 (placement pending; no live chronology flag).**
 
 ---

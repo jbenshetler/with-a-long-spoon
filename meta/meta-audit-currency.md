@@ -486,7 +486,7 @@ _Every quoted anchor matches the drafted scene; the precise/formal stress-tell i
 _Two more Phase-5 themes: (a) **neuro-residue the reground didn't reach** in per-scene docs (`recognized-method:15` "the never-named temperament", `hills-and-valleys:28` "deficit", scene `rock.md:117` "too literal") — a residue-tail sweep wanted. (b) **scene-side prose staleness** (we don't edit prose — author flags): `still-life.md:3` "week before the break"/harvest frame (should read late-Jan), `see-you-later.md:33` "Monday-morning stats" (breaks the Wed timing)._
 
 ### meta-note-see-you-later.md — 2 (med 1, low 1)
-- **[med]** `:21-26` — Plants list **omits the Chi Latte venue-exclusion** (just-recanonized: Greek-coded ground; this scene is its *first enactment* — Cassie's lab-decline = opting off, not merely a Cassandra beat). **Fix:** add venue-exclusion (reread-only, taste-on-first-pass) to the seeds; reframe Cassie's decline.
+- **[med]** `:21-26` — Plants list **omits the Chi Latte venue-exclusion** (just-recanonized: Greek-coded ground; this scene is its *first enactment* — Cassie's lab-decline = opting off, not merely a Cassandra beat). **Fix:** add venue-exclusion (reread-only, taste-on-first-pass) to the seeds; reframe Cassie's decline. **FIXED 2026-08-03** — plant added to the note's seeds list (prose left as-is by design; taste-never-tactic discipline).
 - **[low]** scene-side `see-you-later.md:33` "Monday-morning stats" contradicts the Wed timing — prose flag.
 
 ### meta-note-turned-up.md — 1 (med 1)

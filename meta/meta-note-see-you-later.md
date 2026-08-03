@@ -24,6 +24,7 @@ Plants:
 - **Goodbye-kiss rung zero:** the hug, the hand flat between the shoulder blades, *"Love you, girl."* Pre-coded deniable.
 - **Unequal exchange:** Vee gives competence/attention ("the one who knows things"); gets warmth-as-status, and overvalues the cheap coin.
 - **Orbit / arrange-around** language for Randi (status register; consistent with later fall usage).
+- **Venue-exclusion, first enactment (reread-only):** the Chi Latte's Greek-coded ground is Cassie-incompatible by nature; her lab-decline ("no particular feelings about the yellow one on Draper") is the pattern's first firing — Randi's *taste* on first read, tactic on reread (`meta-arch-cassie-randi.md`). The prose stays as-is: drawing the connection on the page would break the taste-never-tactic discipline; the plant is the ground itself. (Vee's surface-read of the accumulated pattern — "Cassie won't come if it's small and Randi-shaped" — later fuels the {{Among Friends}} kitchen-panel hem.)
 
 Deliberately withheld — recording the decision *not* to plant:
 - **Taste thread** — waits for the first Pace/Vee sex scene.
