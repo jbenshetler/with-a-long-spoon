@@ -4085,6 +4085,13 @@ text = "She ran a white washcloth under the warm tap and pressed it to her neck,
 note = "Cold-reader feedback pass 2026-07-28: remaining hits reviewed with author and accepted — filter verbs/the-way here are load-bearing (body-betrayal dissociation register, First Night rhyme, decided-to-keep line); 'undid her' is emotional not climactic; hinge-sentence 'there was' is canonical."
 
 [[ok]]
+fp   = "a8038f1671df"
+rule = "the-way"
+file = "scenes/we-find-out.md"
+text = "She feinted and his hands closed on air, and she laughed, the shorts streaming from her fist, drunk on the open floor and her own speed and the way his eyes kept dropping to where she had no clothes."
+note = "re-accepted after item-6 pronoun fix (he→she); line-audit 2026-08-02"
+
+[[ok]]
 fp   = "ab92a5d75fed"
 rule = "the-way"
 file = "scenes/we-find-out.md"

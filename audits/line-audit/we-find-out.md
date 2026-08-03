@@ -40,3 +40,15 @@ Checked `meta/meta-triage-we-find-out.md` first: the bet/"Don't"/rules-invented-
 - **Props/food:** shake → spill → shorts causal chain (aside from finding 4); juice, scrunchies, washcloth, antiperspirant, curry/beers all introduced before use; the scrunchie form and mirror bag-decision match the chronology entry.
 - **POV:** Vee-POV holds; the one "He felt her go still" (l. 31) is immediately grounded ("She knew he felt it because he stopped").
 - **Participants:** Vee and Pace only, per header and chronology — verified before attributing anything to Vee.
+
+## Author rulings (2026-08-02)
+
+1. Left standing (option b) — the photo-send doesn't count as a reach (ceremonial delivery answering his regret, not a request for access); recorded in triage so it isn't re-flagged.
+2. Fixed (option a, author-approved wording) — facing turn rendered at the knee beat: "He turned her by the waist to face him."
+3. Left standing — composite catch-and-swat motion is the point.
+4. Left standing — set-down implied in the post-slop gap.
+5. Left standing — the shake-reach is the weight shift.
+6. Fixed (option a) — "where she had no clothes."
+7. Fixed, grown into a new beat (author-drafted, iterated) — "Not yet." / bed turned down slow and careful while she watches ("the place where the debt would be paid, and she the payment"); ceremony lines repositioned below it; blanket→sheet downstream; ":95 No light" recast to "The same light now, and nothing left in her to hide from it" — lamp stays lit by authorial rule (Pace watches).
+
+Housekeeping: `the-way` ack re-armed by fix 6, re-acked; Cassie not present, `present:` unchanged.

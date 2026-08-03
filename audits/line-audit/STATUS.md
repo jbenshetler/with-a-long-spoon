@@ -38,7 +38,7 @@ with the author, item by item.
 29. recognized-method — reviewed
 30. practice-room — reviewed
 31. the-induction — reviewed
-32. we-find-out — audited
+32. we-find-out — reviewed
 33. one-bite — audited
 34. above-him — audited
 35. school-nights — audited

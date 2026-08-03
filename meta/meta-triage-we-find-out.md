@@ -1,3 +1,54 @@
+# Triage — We Find Out (line audit, 2026-08-02)
+
+Sentence-by-sentence consistency/logic audit (`audits/line-audit/we-find-out.md`).
+7 findings: 3 fixed (one grown into a new beat), 4 left standing.
+
+## Fixed
+
+- **Facing turn unrendered** (bet dialogue) — she was folded back against him
+  at the catch, face-to-face by "his eyes on hers"; no turn on the page. Added
+  at the knee-hand beat: "He turned her by the waist to face him. Then he set
+  his hand on the inside of her knee."
+- **Referent slip** ("his eyes kept dropping to where *he* had no clothes") —
+  the paragraph's engine is his eyes on her bared legs after the skirt-loss;
+  "he" was a drafting slip. Now "where she had no clothes."
+- **Blanket/lamp state changes unrendered** (spanking → intercourse) — grown
+  into a new beat rather than patched: he stops her ("Not yet." — rhyming his
+  :19 line) and turns the bed down slow and careful while she watches, "the
+  place where the debt would be paid, and she the payment… offered up to her
+  own wanting." The "Nothing was left on her anywhere" / "terrible ceremony"
+  lines moved below the preparation so the ceremony line harvests both the
+  ordered strip and the bed-making. Blanket→sheet at the three downstream
+  points; "No light now to speak of" recast to "The same light now, and
+  nothing left in her to hide from it" — the lamp stays lit (Pace watches;
+  never douse it), and the shame dissolves under the same light, which is the
+  scene's argument. "The small lit country" is now literal.
+
+## Left standing — do not re-litigate
+
+- **"never once been the one to reach first" vs the {{The Induction}}
+  photo-send** — the photo doesn't count as a reach: it was ceremonial
+  delivery of a thing he regretted missing (answering his stated regret), not
+  a request for access. "Reach first" in Vee's ledger means initiating contact
+  to get to him (*I miss you. Can I come by*). The condensed doc's "texts
+  first for the first time" stands.
+- **Spank landing while "all of her against all of him"** — the composite
+  catch-and-swat motion is the point; staging it frame by frame would slow the
+  exact instant the scene turns on. Physics pedantry against a working
+  sentence.
+- **Shake "went back for" with no rendered set-down** — the set-down happens
+  in the gap after the slop (you don't tickle one-handed holding a full
+  glass); "went back for" quietly covers it and the reader supplies it.
+- **Shorts off in one pull while he's seated** — the reach for the shake *is*
+  the weight shift, already on the page; a rendered shift would telegraph
+  "and then she struck." Game-speed license, earned.
+
+Also: the `the-way` acceptance at the chase sentence re-armed on the pronoun
+fix and was re-acked. Cassie not present (Vee/Pace only) — `present:` field
+already correct.
+
+---
+
 # Triage — We Find Out (cold-read panel, 2026-07-28)
 
 Panel: claude-fable-5, claude-opus-4-8, gpt-5.5, gpt-5.6-sol · `reviews/cold-read/*/we-find-out.md`
