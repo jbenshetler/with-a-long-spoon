@@ -1,3 +1,35 @@
+# Triage — Seconds (line audit, 2026-08-03)
+
+Sentence-by-sentence consistency/logic audit (`audits/line-audit/seconds.md`).
+4 findings: 3 fixed, 1 left standing.
+
+## Fixed
+
+- **Hand "not moving" vs. later "stopped"/"began to move again"** (:5 vs :29/:31)
+  — the explicit stillness claim at :5 broke the later beats. Cut the claim
+  instead of touching the beats: :5 now "warm and rough, the steady weight…"
+  ("rough" is firmly canon — gym bar + workbench; `meta-note-burn.md:51`). A
+  resting hand's ambient motion now makes "stopped" and "again" read true.
+- **"Her cheek against the place his mouth had just been"** (:39, echoed :43)
+  — his mouth had just been on her own crown; unleanable. Re-anchored both to
+  "his shoulder" (matches the coda's memory at :65). The head-kiss choreography
+  kept intact deliberately — Vee's hair is symbolic (the warm red,
+  untameable); a shoulder-kiss variant was considered and rejected as costing
+  the hair beats at :39/:51.
+- **"The basement laundry room"** (:55) — author ruled the Vawter laundry is
+  **on Vee's floor, down the hall, not a basement** (cozy sweats-and-socks
+  shuffle; recorded in `meta-note-among-friends.md`). Now "the dorm laundry
+  room"; coda's "carried it up" (:63) → "carried it back down the hall."
+  Kayla's hall-and-basket beat in {{Nothing Underneath}} is compatible.
+
+## Left standing — do not re-litigate
+
+- **Coda's "the sun coming up" while she said it** (:65) — memory-compression,
+  in-register for a coda about reworking the event at a distance; "pre-dawn
+  chill… sun coming up" frames the morning's span, not a timestamp.
+
+---
+
 # Triage — Seconds (cold-read feedback pass, 2026-07-29/30)
 
 Panel: claude-fable-5, claude-opus-4-8, gpt-5.5, gpt-5.6-sol (read after {{Cropped}}, under the placeholder title "The Porch Scene"). Review files: `reviews/cold-read/*/seconds.md`.

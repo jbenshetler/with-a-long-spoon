@@ -23,3 +23,18 @@ Checked and dropped nothing against `meta/meta-triage-seconds.md` "Left standing
 - **Body positions (apart from findings 1–2):** legs across his lap, hand on shin, arm around shoulder after the reply, pull-closer sequence — coherent.
 - **Pronouns/attribution:** two-person scene; every "he/she" unambiguous; both dialogue turns correctly attributed; his reply logically (mis)responds to her sentence by design (triage: working as designed).
 - **Interiority logic:** the sentence's weeks-long assembly → decision "sometime in the last week" → delivery-from-memory chain is consistent; the sternum-*wait* → laundry-room replay → filing sequence carries no knowledge she couldn't have.
+
+## Author rulings (2026-08-03)
+
+1. **Hand continuity** — fixed at the source instead of the beats: :5's "not
+   moving" cut, now "warm and rough, the steady weight…" ("rough" verified
+   canon). :29/:31 stand untouched and now read true.
+2. **Cheek against "the place his mouth had just been"** — fixed: re-anchored
+   to "his shoulder" at :39 and :43. A shoulder-kiss variant (which would have
+   saved the mouth-echo) was considered and rejected — the head/hair kiss is
+   symbolically load-bearing (Vee's hair = aliveness) and woven through
+   :39/:51.
+3. **Coda "sun coming up"** — left standing: memory-compression, in-register.
+4. **"Basement laundry room"** — ruled: Vawter laundry is on Vee's floor, not
+   a basement (canon recorded in meta-note-among-friends.md). :55 → "the dorm
+   laundry room"; :63 "carried it up" → "carried it back down the hall."

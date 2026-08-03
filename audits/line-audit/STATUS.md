@@ -47,7 +47,7 @@ with the author, item by item.
 38. outlier — reviewed
 39. new-ordinary — reviewed
 40. cropped — reviewed
-41. seconds — audited
+41. seconds — reviewed
 42. under-the-rug — audited
 43. bare — audited
 44. believe-me — audited
