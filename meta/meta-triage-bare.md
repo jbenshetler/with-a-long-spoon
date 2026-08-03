@@ -1,3 +1,13 @@
+# Triage — Bare (line audit, 2026-08-03)
+
+Sentence-by-sentence consistency/logic audit (`audits/line-audit/bare.md`).
+**Prose clean — 0 findings.** Shirt choreography, bunk geometry, pre-dawn
+timeline, referents, and character knowledge all verified; prior triage
+verdicts respected. Housekeeping only: chronology `present:` corrected to
+`Vee, Cassie (asleep)` — Cassie is bodily on the page (:7, :21), never waking.
+
+---
+
 # Triage — Bare (`bare.md`)
 
 Cold-read feedback pass, 2026-07-30. Panel: claude-fable-5, claude-opus-4-8, gpt-5.5, gpt-5.6-sol (all read after {{Under the Rug}}). Cleanest sheet of the run so far — no cross-model friction at all; three lone-reviewer notes, one acted on.

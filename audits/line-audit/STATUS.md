@@ -49,7 +49,7 @@ with the author, item by item.
 40. cropped — reviewed
 41. seconds — reviewed
 42. under-the-rug — reviewed
-43. bare — audited
+43. bare — reviewed
 44. believe-me — audited
 45. fairytale — audited
 46. old-acquaintances — audited

@@ -17,3 +17,8 @@
 - **Timeline/causality:** No tense slips (consistent past, with past-perfect used correctly for "She'd been not-sleeping"). No dialogue in the scene, so no dialogue-logic checks apply. Header carries no calendar date (per convention). Vee alone at 21, no age references on the page. The scene's placement claim in its header note ("after Under the Rug, before the Christmas fight; second of the three displacements") matches the chronology entry.
 - **Character knowledge:** Vee asserts nothing she couldn't know except the triaged "nothing grinding in him" misread, which is working as designed. The sawdust/salt work-smell attribution to Pace is consistent with his established handwork.
 - **Cassie presence:** Cassie **is physically present** in the scene — asleep in the lower bunk, on the page at lines 7 and 21; she never wakes or speaks. (See Finding 1 re: the chronology's `present:` field.)
+
+## Author rulings (2026-08-03)
+
+1. **Chronology `present:` field** — fixed: `present: Vee, Cassie (asleep)`
+   per the standing Cassie presence sweep. 0 prose edits.
