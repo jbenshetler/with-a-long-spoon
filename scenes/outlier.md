@@ -42,7 +42,7 @@ The aggregate said what Cassie had said it would say. The money went up; the job
 
 "The country isn't my county," Randi said.
 
-Because that was the last of it before the write-up — the professor's *few samples,* the thing that made the project theirs. They plotted the counties they were from. Cassie's, a flat rural nowhere, sat on the line. Vee's sat on the line. And then Randi pulled up her own and leaned in, driving now, because this was the one she'd been aiming the whole picture at — home, the proof, the bright counterexample that was going to complicate Cassie's clean sad story with something real.
+Because that was the last of it before the write-up — the professor's *few samples,* the thing that made the project theirs. They plotted the counties they were from. Cassie's, a flat rural nowhere, sat on the line. Vee's sat on the line. And then Randi pulled up the companies in her own county and leaned in, driving now, because this was the one she'd been aiming the whole picture at — home, the proof, the bright counterexample that was going to complicate Cassie's clean sad story with something real.
 
 Her county had a point off on its own.
 
@@ -76,7 +76,7 @@ Low, to the screen. Two words, and nothing let out after them — no *these*, no
 
 Cassie couldn't see the screen. She was on the far side of Vee, and the record was small and canted toward Randi, and all Cassie had was the graph still open on her own laptop, the point on it, and the two words, which to Cassie were agreement.
 
-"That's the whole thing, right there," Cassie said. Not loud. Certain — the flat certainty of someone who's been right a while and is now being handed the proof. "One holding company, a stack of loans, everybody cut anyway. That's not the exception. That's just the one that's easy to see."
+"That's the whole thing, right there," Cassie said. Not loud. Certain — the flat certainty of someone who's been right a while and is now being handed the proof. "One company, that size, everybody cut anyway. That's not the exception. That's just the one that's easy to see."
 
 She went back to her own screen.
 

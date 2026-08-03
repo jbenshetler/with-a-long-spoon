@@ -25,3 +25,19 @@
 - **Discovery sequence:** hover → tag (51) → stillness (53–55) → click (57) → record → name (59) → double read (61) — ordered, no object appearing before its cause; the fast-then-slow read matches the triage-fixed surprise ruling and was not disturbed.
 - **Dialogue logic:** "The country isn't my county" (43) answers the aggregate; Cassie's line (79) answers "Cheating bastards" as agreement, as designed; all attributions clear.
 - **Tense/POV:** close third on Vee throughout; no tense slips; Vee's knowledge never exceeds what she sees except the triage-settled line 85.
+
+## Author rulings (2026-08-02)
+
+1. **Cassie's specifics (:79)** — fixed, author's wording: "One company, that
+   size, everybody cut anyway." Size of the point is visible on her own
+   screen; a good graph encodes scale, and only companies could apply for
+   the loans. Blind verdict now airtight and credits Randi's graph work.
+2. **Drill-down point-identity switch (:45)** — fixed, author's wording with
+   tail retained: "pulled up the companies in her own county and leaned in,
+   driving now, …".
+3. **"The laptop" antecedent (:89)** — stands; context carries it, the beat
+   is the gesture not the object.
+4. **Closing image mechanics (:95)** — stands as deliberate figuration;
+   register already triage-protected.
+
+Housekeeping: chronology `present:` corrected to Vee, Randi, Cassie.

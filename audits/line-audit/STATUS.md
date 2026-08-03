@@ -44,7 +44,7 @@ with the author, item by item.
 35. school-nights — reviewed
 36. in-his-hands — reviewed
 37. all-the-time — reviewed
-38. outlier — audited
+38. outlier — reviewed
 39. new-ordinary — audited
 40. cropped — audited
 41. seconds — audited

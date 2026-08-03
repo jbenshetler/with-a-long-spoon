@@ -1,3 +1,37 @@
+# Triage — The Outlier (line audit, 2026-08-02)
+
+Sentence-by-sentence consistency/logic audit (`audits/line-audit/outlier.md`).
+4 findings: 2 fixed, 2 left standing.
+
+## Fixed
+
+- **Cassie's blind verdict named specifics the graph can't show** (:79) —
+  "One holding company, a stack of loans" wasn't derivable from a point's
+  position, and sourcing it to her data-pull implied she'd seen the name.
+  Now "One company, that size, everybody cut anyway" (author's wording) —
+  her read comes entirely off the point's visible size, which also credits
+  Randi's graph (size encodes scale; only companies could apply).
+- **Drill-down silently changed what a point is** (:45) — counties-as-points
+  switched to companies-as-points on "pulled up her own," inviting a brief
+  misread that Randi's *county* was the outlier. Now "pulled up the companies
+  in her own county" (author's wording, tail retained — "driving now" and the
+  aiming clause stand).
+
+## Left standing — do not re-litigate
+
+- **"The laptop" at :89** (definite article, no named owner) — stands; the
+  beat is the gesture (Vee taking over Randi's machine), context carries it,
+  and naming the owner adds bookkeeping to a sentence about the hands.
+- **Closing image's literal mechanics** (:95 — closed laptop displays
+  nothing; the point "goes back" twice) — stands as deliberate figuration:
+  :83's return is Randi's keystroke, :95's is the camera's; the image lives
+  in Vee's head, not on a screen. Register already triage-protected.
+
+Also: chronology `present:` corrected to include Cassie (on the page through
+both panels).
+
+---
+
 # Triage — The Outlier
 
 *Cold-read panel: claude-fable-5, claude-opus-4-8, gpt-5.5, gpt-5.6-sol (all read after {{All the Time}}). Feedback pass 2026-07-29; the panel's reviews predate the 2026-07-28 surprise-legibility edit (25516df).*
