@@ -24,3 +24,15 @@
 - **Tense:** past throughout; the present-tense fragments are quoted texts and remembered speech — no slips.
 - **Ages:** no ages stated in the scene; nothing to contradict Vee 21.
 - **Cassie presence:** Cassie is **not physically present** — mentioned once, line 19, as the photographer of the induction picture.
+
+## Author rulings (2026-08-03)
+
+1. **"That night" (:45)** — REJECTED: the quoted bartender lines are from
+   `lesson.md:217-221`, the dance night (Thu Oct 22), the same night named at
+   :19; the bartender is closing up in the source scene. No ambiguity; the
+   finding's premise (an earlier unnamed bar night) was factually wrong.
+2. **NYE framing at ~6 a.m. Gstaad (:27)** — left standing; in-character
+   compression, covered by the diptych design.
+
+Cassie sweep: not present (photographer mention only); `present: Vee` correct.
+0 edits.

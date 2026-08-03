@@ -1,3 +1,29 @@
+# Triage — Old Acquaintances (line audit, 2026-08-03)
+
+Sentence-by-sentence consistency/logic audit (`audits/line-audit/old-acquaintances.md`).
+2 findings: 1 rejected on verified facts, 1 left standing. 0 edits. Clock
+arithmetic, the {{Fairytale}} text seam, photo continuity, and canon
+cross-checks all verified; Cassie mentioned only as photographer, not present.
+
+## Rejected — auditor premise wrong, do not re-raise
+
+- **"That night" at the bartender memory (:45) called ambiguous** — the auditor
+  sourced the quoted lines to an unnamed earlier bar night; there was none. They
+  are from `lesson.md:217–221`, the Thu Oct 22 CW-dance/Rusty Nail night, where
+  the bartender is closing up (corroborated `broken-in.md:77`). "That night"
+  binds correctly to "the night of the dance" at :19 — the only and correct
+  night in the scene.
+
+## Left standing — do not re-litigate
+
+- **"Wouldn't go to bed on New Year's Eve" at ~6 a.m. Gstaad** (:27) — Randi's
+  midnight has passed; in-character folk time-zone math, the idea of Randi's
+  night rather than a timestamp, and true in the event ({{Fairytale}} has her
+  awake at the mirror). Precision here would break the "filled it in as she
+  always had to" register.
+
+---
+
 # Triage — Old Acquaintances (`old-acquaintances.md`)
 
 Cold-read feedback pass, 2026-07-30. Panel: claude-fable-5, claude-opus-4-8, gpt-5.5, gpt-5.6-sol (all read after {{Fairytale}}). Overwhelmingly positive sheet; friction thin and mild, two small fixes applied.

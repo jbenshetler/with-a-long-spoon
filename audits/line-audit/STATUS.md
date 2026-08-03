@@ -52,7 +52,7 @@ with the author, item by item.
 43. bare — reviewed
 44. believe-me — reviewed
 45. fairytale — reviewed
-46. old-acquaintances — audited
+46. old-acquaintances — reviewed
 47. the-usual — audited
 48. my-friend-randi — audited
 49. nothing-underneath — audited
