@@ -34,13 +34,13 @@ And here was the thing Vee had not planned for, driving over: that there was not
 
 Randi's mouth curved. "The amount."
 
-"We have so much sex, Randi." It came out plain and a little helpless and she laughed at it. "Like — more than I knew people did. More than I've ever. And it's not—" She hunted for it. "You know how you think a guy who wants it that much would be, like, quick. Selfish about it. It's the opposite of that. He takes *forever*. He builds the whole thing, slow, like he's got nowhere to be, until I'm—" She dropped her voice, leaned in over the soup that hadn't come. "Until I've got the sheets in both hands before he's even really started. And then it's never just the once. We get through dinner and it's again, and sometimes again after that, and *then* we sleep."
+"We have so much sex, Randi." It came out plain and a little helpless and she laughed at it. "Like — more than I knew people did. More than I've ever. And it's not—" She hunted for it. "You know how you think a guy who wants it that much would be, like, quick. Selfish about it. It's the opposite of that. He takes *forever*. He builds the whole thing, slow, like he's got nowhere to be, until I'm—" She dropped her voice, leaned in over the soup that wouldn't come. "Until I've got the sheets in both hands before he's even really started. And then it's never just the once. We get through dinner and it's again, and sometimes again after that, and *then* we sleep."
 
 "Twice in a night."
 
 "Two, three. And then there's mornings… and afternoons." She was pink now and past caring. "And it's not just the — he doesn't just go for the parts you'd think. It's all of me. His hands, his mouth, everywhere, like the whole of me is the— like there's not a part of me he doesn't want. And when he actually—" she made a small hopeless gesture "—he changes it up the whole time, fast then slow then some way I don't have a word for, and he's *strong*, he can hold me anywhere he wants me, and then a minute later he's so gentle I could cry. Both. The same night. I don't know how one person is both."
 
-Randi listened the way she listened, which was total, her wine forgotten, her eyes going to Vee's mouth when she talked and her hands when they moved, and Vee felt herself open under it like she always did, the best friend she'd ever had.
+Randi listened the way she listened, which was total, her glass forgotten, her eyes going to Vee's mouth when she talked and her hands when they moved, and Vee felt herself open under it like she always did, the best friend she'd ever had.
 
 "And it doesn't *stop*," Vee said, quieter, because this was the part that scared her a little. "That's the thing nobody tells you. You'd think all that would — fill you up. Wear it out. It's the opposite. The more we do it the more I *want* it. I walk around Tuesday afternoon in the middle of the library and my whole body's just — thinking about Friday. I've got sex brain. I used to be a person with thoughts."
 
@@ -76,7 +76,7 @@ Vee looked up. Randi's eyes had gone bright and a little unfixed, held on her, a
 
 "It doesn't," Randi said. Low, and not quite even.
 
-And Vee had it, or near enough: these were the ones that got you, told close, in a dark booth on a slow afternoon — of course it had reached her. She went warm with something close to pride, that a Saturday of hers could do that to a woman like Randi.
+And Vee had it, or near enough: these were the ones that got you, told close, in a dark booth on a lazy morning — of course it had reached her. She went warm with something close to pride, that a Saturday of hers could do that to a woman like Randi.
 
 Then Randi sat back, and drew a breath, and the beam came up full again, and she was herself, all of her, the grin arriving like a room light. "*Even with your clothes on,*" she repeated, savoring it, like Vee had set a jewel on the table. "God. Okay — what's he got *playing*, when that's going on? A man like that has a soundtrack."
 
@@ -98,7 +98,7 @@ And Vee had the phone in her hand before she'd quite decided to. She thumbed to 
 
 Vee felt it climb her neck. "I mean—"
 
-"You don't have to show me."
+"You don't have to show me." She slid the phone back across.
 
 And that was the thing that changed her mind. She had the cropped one ready — had had it ready for days — and her thumb found it before the rest of her had voted, and she turned the phone back across: bare to the waist, the red mouth, the swept-back hair, and no more of her than that. Then she sat while Randi looked, and couldn't hold still, her foot going under the table.
 
@@ -110,7 +110,7 @@ Randi went quiet over it, and looked, and kept looking — past a glance, past w
 
 "Course it was." Randi looked back at the screen. "Legs like yours, though — and you only gave him *half*?"
 
-And that landed wrong — that she'd lost her nerve, that Randi, who'd done God knew what with God knew whom, would file her as a girl who flinched. She was not going to be that girl, not at this table. She pulled up the real one, the whole uncropped length of her — and then she sat with it a second, her thumb over it, working up to it, the thrill and the shame running together — before she turned the phone around and put it in Randi's hand. "I gave him *all* of it."
+And that landed wrong — that she'd lost her nerve, that Randi, who'd done God knew what with God knew whom, would file her as a girl who flinched. She was not going to be that girl, not at this table. She took the phone back and pulled up the real one, the whole uncropped length of her — and then she sat with it a second, her thumb over it, working up to it, the thrill and the shame running together — before she turned the phone around and put it in Randi's hand. "I gave him *all* of it."
 
 Randi took it. Her eyes went the length of it, and the grin came slow. "God, those *legs*." Then, softer, delighted: "Showing him your toes, eh?"
 

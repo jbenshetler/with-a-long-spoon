@@ -1,3 +1,30 @@
+# Triage — All the Time (line audit, 2026-08-02)
+
+Sentence-by-sentence consistency/logic audit (`audits/line-audit/all-the-time.md`).
+4 findings, all fixed; nothing left standing.
+
+## Fixed
+
+- **"The soup that hadn't come"** (:37) — the non-order joke read as a prop
+  error ("hadn't come" is slow-kitchen language). Now "the soup that
+  *wouldn't* come" (author's phrasing) — the modal makes it a standing fact,
+  knowing rather than deniable, and keeps the :23/:27 soup rhyme compressed.
+- **"Her wine forgotten"** (:43) — mimosas only on this table; now "her glass
+  forgotten," matching the scene's own usage at :63/:93. (The `the-way` ack
+  on the sentence re-armed and was re-acked.)
+- **Phone custody** (:95–113) — two off-page handbacks rendered as
+  micro-beats: Randi's ""You don't have to show me." She slid the phone back
+  across." (the reverse-psychology door visibly closed), and "She took the
+  phone back and pulled up the real one" — so :113's "put it in Randi's hand"
+  lands as deliberate re-delivery.
+- **"Slow afternoon" vs. "bright noon" exit** (:79/:135) — now "a dark booth
+  on a lazy morning" ("slow morning" sounded inert; "lazy" keeps the languor
+  and belongs to the brunch world; "indulgent" rejected as naming the theme).
+
+Also: Cassie not present (Vee/Randi only) — `present:` already correct.
+
+---
+
 # Triage — All the Time (cold-read panel, 2026-07-29)
 
 Panel: claude-fable-5, claude-opus-4-8, gpt-5.5, gpt-5.6-sol · `reviews/cold-read/*/all-the-time.md`

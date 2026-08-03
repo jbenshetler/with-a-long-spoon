@@ -39,3 +39,14 @@
 - **Dialogue chains:** each reply tracks its prior line, including the "And to." / "Take pictures" completion and the "It doesn't" crack (triage-blessed); no attribution errors.
 - **Ages:** no ages or class-year derivations appear in the scene; nothing to conflict with the Vee/Randi 21, Pace 22 canon.
 - **Pronouns:** "Randi turned her into the goodbye" (line 135) and the listening beat's "her hands when they moved" (line 43) resolve cleanly in context; no wrong-antecedent hits.
+
+## Author rulings (2026-08-02)
+
+1. **Fixed** (author's phrasing): "the soup that wouldn't come" — modal keeps
+   the joke, kills the prop-error read.
+2. **Fixed** (option a): "her glass forgotten."
+3. **Fixed** (option a, both micro-beats): handback rendered at "You don't
+   have to show me."; "She took the phone back and" at the uncropped reveal.
+4. **Fixed** (author's choice after discussion): "on a lazy morning."
+
+Triage recorded in `meta/meta-triage-all-the-time.md`. Cassie not present.

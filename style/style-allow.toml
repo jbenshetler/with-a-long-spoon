@@ -249,6 +249,13 @@ text = "She heard how much she wanted it and didn't mind."
 note = "All the Time finalized: fixable tics recast; remainder are authorial keeps (the-way 4/5, file motif, Vee fumbles, there-was anaphora, in-voice antithesis)"
 
 [[ok]]
+fp   = "25a05747c02a"
+rule = "the-way"
+file = "scenes/all-the-time.md"
+text = "Randi listened the way she listened, which was total, her glass forgotten, her eyes going to Vee's mouth when she talked and her hands when they moved, and Vee felt herself open under it like she always did, the best friend she'd ever had."
+note = "re-accepted after wine→glass fix; line-audit 2026-08-02"
+
+[[ok]]
 fp   = "62da09b3fc1b"
 rule = "the-way"
 file = "scenes/all-the-time.md"
