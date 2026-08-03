@@ -9,7 +9,7 @@ Statuses: **unstarted** · **in-process** · **complete**
 | Review pass | Status | Notes |
 |---|---|---|
 | Developmental edit | complete | Ongoing per-scene as drafts land; Vol 1 scenes all through cold-read panels + triage. |
-| Continuity/logic line audit | in-process | Chapters 1–11 reviewed as of 2026-08-01 (`audits/line-audit/STATUS.md`). |
+| Continuity/logic line audit | complete | All 49 chapters reviewed as of 2026-08-03 (`audits/line-audit/STATUS.md`); rulings in per-chapter reports + `meta-triage-*` docs. |
 | Style-tic policing | complete | Ongoing per draft (`na.py style` + `style/style-allow.toml`). |
 | True line edit | unstarted | |
 | Copyedit against a style sheet | in-process | Pass 0 harvest (`tools/style_sheet_harvest.py` → `style/style-sheet-candidates.md`) and first Pass 1 rulings done 2026-08-02; sheet at `style/style-sheet.md`. Full Pass 2 per-chapter enforcement sweep (all 57 scenes, parallel agents) run 2026-08-02 — ~60 mechanical fixes applied; unruled candidates parked in `audits/copyedit/` awaiting Pass 1 rulings. |

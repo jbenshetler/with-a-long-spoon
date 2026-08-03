@@ -8,9 +8,9 @@ mark items done with dates as they complete.*
 
 - [x] **Developmental edit** — the `meta/` architecture + thesis, multi-model
   cold-read panels, triage verdicts, oracle probes. Ongoing as scenes land.
-- [ ] **Continuity/logic line audit** — sentence-level, per chapter, via
-  `/wals-line-audit` (state: `audits/line-audit/STATUS.md`). In progress:
-  chapters 1–11 reviewed as of 2026-08-01.
+- [x] **Continuity/logic line audit** — sentence-level, per chapter, via
+  `/wals-line-audit` (state: `audits/line-audit/STATUS.md`). Complete
+  2026-08-03: all 49 chapters audited and reviewed with the author.
 - [x] **Style-tic policing** — `na.py style` + `style/style-allow.toml`
   ledger. Ongoing per draft.
 
