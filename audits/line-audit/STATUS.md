@@ -42,7 +42,7 @@ with the author, item by item.
 33. one-bite — reviewed
 34. above-him — reviewed
 35. school-nights — reviewed
-36. in-his-hands — audited
+36. in-his-hands — reviewed
 37. all-the-time — audited
 38. outlier — audited
 39. new-ordinary — audited

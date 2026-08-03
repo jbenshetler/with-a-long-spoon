@@ -1,3 +1,32 @@
+# Triage — In His Hands (line audit, 2026-08-02)
+
+Sentence-by-sentence consistency/logic audit (`audits/line-audit/in-his-hands.md`).
+3 findings: 2 fixed, 1 left standing.
+
+## Fixed
+
+- **Blinds moving glare at night with no light source** (:55) — a day-switch
+  was considered and rejected (weeknight slot + class schedule + the lamplit
+  fall register). Recast to the lamp: "He crossed to the lamp and tilted the
+  shade until the glare slid off her skin" — source explicit, lamp placement
+  left to the reader (nightstand lamps would sit at the wrong angle for the
+  shot), the cross-adjust-return rhythm kept.
+- **"They drank the wine" with only her glass poured** (:69/:81) — now "he
+  poured a glass for each of them"; funds :81's shared quiet, matches his
+  sparing-glass-while-cooking pattern ({{The New Ordinary}}).
+
+## Left standing — do not re-litigate
+
+- **Unmarked table↔counter drift** (:75–83) — kitchen choreography reads
+  loose by nature: being fed tastes off the spoon *is* the move, "her hand on
+  the counter" confirms arrival, plating reseats her. Stage directions would
+  clutter the scene's most languid stretch.
+
+Also: Cassie not present (Vee/Pace only) — `present:` already correct. Linter
+clean after edits.
+
+---
+
 # Triage — In His Hands
 
 *Cold-read feedback pass, 2026-07-29. Panel: claude-fable-5, claude-opus-4-8, gpt-5.5, gpt-5.6-sol (`reviews/cold-read/*/in-his-hands.md`). Each item: what was flagged, who raised it, verdict.*

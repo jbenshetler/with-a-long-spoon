@@ -27,3 +27,14 @@
 - **Pronouns:** referents clear throughout; the extended "her/him" in the bed section never loses its antecedents (two-person scene).
 - **Tense:** consistent past; the two "again"s and "a little while before" (line 47) keep elapsed time coherent.
 - **Continuity outward:** first-night kitchen memory (line 79) consistent with the taste-thread canon; Sheri introduced with explanation ("We cycle together"), no prior-knowledge error on Vee's part.
+
+## Author rulings (2026-08-02)
+
+1. **Fixed** (author's variant): "He crossed to the lamp and tilted the shade
+   until the glare slid off her skin" — a daytime re-staging was discussed and
+   rejected (scheduling knot; lamplit register).
+2. **Left standing**: the table↔counter drift is natural kitchen choreography;
+   the spoon-tastes are the move.
+3. **Fixed** (option a): "he poured a glass for each of them" at :69.
+
+Triage recorded in `meta/meta-triage-in-his-hands.md`. Cassie not present.
