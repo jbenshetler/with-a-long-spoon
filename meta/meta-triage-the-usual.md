@@ -1,3 +1,33 @@
+# Triage — The Usual (line audit, 2026-08-03)
+
+Sentence-by-sentence consistency/logic audit (`audits/line-audit/the-usual.md`).
+6 findings: 2 fixed, 4 left standing. Cassie absent/unmentioned; chronology
+`present:` corrected to `Pace, Sheri`.
+
+## Fixed
+
+- **"California in November"** (:17) — conflated the Wed Oct 28 Berkeley trip
+  with the early-Nov Chicago trip (chronology guard 20: don't collapse them).
+  Now "California in October."
+- **"She dragged the shake back over"** (:49) — "back" implied unshown
+  displacement; author recast to "She sucked down an inch of the shake."
+
+## Left standing — do not re-litigate
+
+- **"Throwing things" / "four seconds of her"** (:49) — Sheri's hyperbole,
+  in-register; consistent with {{Lesson}} (verbal blowup) and
+  `hills-and-valleys.md` on a natural read ("four seconds" = of the backside).
+- **"You met her?"** (:89) — surprise at Sheri having *read* her, not at the
+  encounter; Sheri's reply resolves it within one line, and the beat is her
+  prepared quip landing.
+- **Opening "he would not bring her down today"** (:3) — antecedent ambiguity
+  intentional: the Vee-misdirection is productive (what he carries *is* Vee),
+  resolves to Sheri by :5–:9, and enacts the scene's point.
+- **Tea already drunk down** (:37) — "the usual" implies off-page delivery;
+  the rings are a time image, not a prop gap.
+
+---
+
 # Triage — The Usual (cold-read feedback pass, 2026-07-30)
 
 Panel: claude-fable-5, claude-opus-4-8, gpt-5.5, gpt-5.6-sol (`reviews/cold-read/*/the-usual.md`).

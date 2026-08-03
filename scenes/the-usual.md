@@ -14,7 +14,7 @@ Vee had tried once to take him to the other kind — the Chili's out by 460, scr
 
 The waitress came over — a woman in her forties, dark hair framing a tired face that had kept its smile, a diner tee and a half-apron over her jeans. "The usual?" she said, already writing, because there was no question and never had been, and they told her yes like people saying yes to their own names.
 
-While the griddle worked they talked about nothing that cost anything. He'd been to California in November for a conference — Sheri had never been west of Knoxville and wanted the whole of it; Berkeley, he said, was a made-up place, people who agreed about everything and dressed like they didn't. She laughed at that. School was thinner this term, part-time now that there was nobody behind her writing checks — she said it plainly and moved on before he could feel anything about it on her behalf.
+While the griddle worked they talked about nothing that cost anything. He'd been to California in October for a conference — Sheri had never been west of Knoxville and wanted the whole of it; Berkeley, he said, was a made-up place, people who agreed about everything and dressed like they didn't. She laughed at that. School was thinner this term, part-time now that there was nobody behind her writing checks — she said it plainly and moved on before he could feel anything about it on her behalf.
 
 "Brooks and Dunn cover band's coming to the hall," she said. "First Saturday in February. You're coming."
 
@@ -46,7 +46,7 @@ He didn't touch the irony. It sat on the table between them and they both saw th
 
 "People who've never lost anything think grief is a choice," he said.
 
-The song had run out somewhere back, and nobody had fed the machine again. Sheri looked at him a beat longer than she needed to. "Don't waste the good stuff on me." She dragged the shake back over. "Save it for your redhead. How is she — the curvy one?" She grinned. "Hell, that backside. I got maybe four seconds of her at the bar before she started throwing things, and I still think about it more than's decent."
+The song had run out somewhere back, and nobody had fed the machine again. Sheri looked at him a beat longer than she needed to. "Don't waste the good stuff on me." She sucked down an inch of the shake. "Save it for your redhead. How is she — the curvy one?" She grinned. "Hell, that backside. I got maybe four seconds of her at the bar before she started throwing things, and I still think about it more than's decent."
 
 He didn't answer right off.
 
