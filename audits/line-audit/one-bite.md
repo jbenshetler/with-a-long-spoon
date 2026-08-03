@@ -22,3 +22,17 @@
 - **Pronouns/attribution:** all "she" antecedents resolve (checked lines 11, 41, 93, 97); every dialogue line answers its prior line; no attribution errors.
 - **Glaze-on-the-kiss after Randi's black coffee (lines 143→155→159):** the persistence of glaze through the coffee is deliberate — the taste-thread debut is a protected positive in `meta-triage-one-bite.md` ("must all survive any edit") — not flagged.
 - **Triage cross-check:** `meta/meta-triage-one-bite.md` read; nothing here re-litigates its "Left standing" items ("Sticky fingers?" ambiguity, the engineered Radford story as designed suspicion, the best-friend clang) — finding 3 flags only the literal drive-time number, not the story's engineered feel.
+
+## Author rulings (2026-08-02)
+
+1. **Fixed** (option a): straw beat recast to "Vee's mouth had gone dry."
+2. **Left standing** on the knowledge-logic (genre knowledge, not this card;
+   the not-reaching is the characterization). Companion fix applied: first
+   mention now "the drinks card," closing a brief credit-card misparse the
+   author raised.
+3. **Left standing**: the inflated drive time is fabrication texture on an
+   engineered story.
+4. **Left standing**: "bare honest skin" is deliberate POV irony — the makeup
+   succeeding on the witness who clocked it.
+
+Triage recorded in `meta/meta-triage-one-bite.md`. Cassie not present.

@@ -1,3 +1,41 @@
+# Triage — One Bite (line audit, 2026-08-02)
+
+Sentence-by-sentence consistency/logic audit (`audits/line-audit/one-bite.md`).
+4 findings: 1 fixed (plus a companion disambiguation), 3 left standing.
+
+## Fixed
+
+- **Phantom straw** (:109) — "The straw had gone useless in Vee's dry mouth"
+  with no straw in the scene (mimosas in flutes; no water glass established).
+  Recast to the payload: "Vee's mouth had gone dry."
+- **"the card" briefly parseable as credit card** (companion fix to the
+  cheapest-yes finding) — first mention had no antecedent (the hostess carries
+  "menus") and "reach for the card" beside "her budget" invited the misread
+  for half a sentence. Now "did not reach for the drinks card"; the later bare
+  "the card" inherits the antecedent.
+
+## Left standing — do not re-litigate
+
+- **Vee knows the cheapest item without opening the card** (:9) — she's priced
+  the genre, not this specific card: "the cheapest yes on the card" is her
+  shorthand for *a mimosa is always the cheapest yes at a place like this*,
+  and the not-reaching is the characterization (performing ease while
+  budgeting). A rendered menu-scan would dilute exactly that.
+- **"Forty minutes from home"** (:103) — Radford is ~20–25 minutes from
+  Blacksburg; the inflation stays as fabrication texture. The whole story is
+  engineered (see cold-read triage below); Randi stretching her stranding for
+  effect is in character, and a local reader clocking it gets the designed
+  flicker of suspicion.
+- **"Randi's bare honest skin"** (:41) vs. the makeup "so finely done it
+  passed for skin" (:11) — deliberate close-POV payoff, not narrator error: by
+  :41 Vee is experiencing the illusion as fact, the makeup succeeding in real
+  time on the very witness who clocked it. "Honest" is the reread charge.
+
+Also: Cassie not present (Vee/Randi only) — `present:` field unchanged. No new
+style hits on the edited lines.
+
+---
+
 # Triage — One Bite (cold-read panel, 2026-07-28)
 
 Panel: claude-fable-5, claude-opus-4-8, gpt-5.5, gpt-5.6-sol · `reviews/cold-read/*/one-bite.md`

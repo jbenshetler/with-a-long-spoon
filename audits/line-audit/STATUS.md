@@ -39,7 +39,7 @@ with the author, item by item.
 30. practice-room — reviewed
 31. the-induction — reviewed
 32. we-find-out — reviewed
-33. one-bite — audited
+33. one-bite — reviewed
 34. above-him — audited
 35. school-nights — audited
 36. in-his-hands — audited

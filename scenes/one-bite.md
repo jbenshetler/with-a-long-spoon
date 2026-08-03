@@ -6,7 +6,7 @@ A girl with a stack of menus and a brunch-shift brightness said, "Hi, just you?"
 
 Randi was at the table against the glass with her gold sunglasses pushed up into her black hair, and when she saw Vee her whole face came on, warm and sure, as though of all the people and all the mornings this was the one she had been keeping the table for. "There's my girl." She did not get up. She caught Vee's hand a moment as she sat, and let it go. "You look well. Sit."
 
-The waiter came, and Vee did not reach for the card. She had the room's measure now, or the one mercy in it her budget cared about: a mimosa was the cheapest yes on the card, and no one needed to know that was why. "Mimosa, please," she said, light, as though she had ordered a thousand of them. Something pleased moved over Randi's face. "Two," she said, and never opened the wine list, and that was all it took, the both of them the same, the same drink, the same easy morning, and something small in Vee sat up and warmed itself at it.
+The waiter came, and Vee did not reach for the drinks card. She had the room's measure now, or the one mercy in it her budget cared about: a mimosa was the cheapest yes on the card, and no one needed to know that was why. "Mimosa, please," she said, light, as though she had ordered a thousand of them. Something pleased moved over Randi's face. "Two," she said, and never opened the wine list, and that was all it took, the both of them the same, the same drink, the same easy morning, and something small in Vee sat up and warmed itself at it.
 
 The flutes came cold and beading. Vee lifted hers. "To girls' brunch," she said, and Randi touched her glass to it and they drank. In the full clean light she could admire how much trouble Randi had gone to in order to look as if she had gone to none, the makeup so finely done it passed for skin, nothing on her the morning hadn't put there. And Vee was already talking, she had wanted to talk since she woke, going on a while about how good he was to her, how romantic, when Randi tipped her head and said, "Hmm."
 
@@ -106,7 +106,7 @@ Something low in Vee answered the phrase straight off, and she pressed the heel 
 
 "It would have been," Randi said, "if I weren't perfectly willing to take care of myself."
 
-The straw had gone useless in Vee's dry mouth. "In a strange bedroom? Anyone could have walked in."
+Vee's mouth had gone dry. "In a strange bedroom? Anyone could have walked in."
 
 "And they'd have got an eyeful." Randi said it warm, amused, her clear eyes right on Vee's. "Dress up, panties to the side, knees wide, doing a private dance."
 
