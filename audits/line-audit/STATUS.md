@@ -37,7 +37,7 @@ with the author, item by item.
 28. hills-and-valleys — reviewed
 29. recognized-method — reviewed
 30. practice-room — reviewed
-31. the-induction — audited
+31. the-induction — reviewed
 32. we-find-out — audited
 33. one-bite — audited
 34. above-him — audited

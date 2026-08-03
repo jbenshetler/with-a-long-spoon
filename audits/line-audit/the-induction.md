@@ -22,3 +22,14 @@
 - **Pronouns/referents:** "the woman" (l.25) resolves to the department woman at the microphone (l.7); all she/her instances resolve to Vee or Cassie unambiguously; "he/him" always Pace.
 - **Dialogue logic:** each exchange responds to the prior line; attributions clear (Cassie l.5, l.29, l.33, l.39; Vee l.31).
 - **Tense/causality:** past throughout, with correct past-perfect for the fitting/mirror/hike backstory and conditional-future for Pace opening the photo (l.37). No elapsed-time contradictions.
+
+## Author rulings (2026-08-02)
+
+1. **"the one wearing it was built for"** (:13) — **fixed** (option c): "he was
+   going to miss the wearing it was built for." Gerund kills the person-misbind,
+   compression kept.
+2. **Roped row vs. three rows** (:5/:9) — **fixed** (option b): "their own roped
+   rows down front."
+
+Housekeeping: Cassie added to `present:` in the chronology entry (physically
+present throughout).

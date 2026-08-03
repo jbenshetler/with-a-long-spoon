@@ -1,3 +1,23 @@
+# Triage — The Induction (line audit, 2026-08-02)
+
+Sentence-by-sentence consistency/logic audit (`audits/line-audit/the-induction.md`).
+2 findings, both fixed; nothing left standing.
+
+## Fixed
+
+- **"miss the one wearing it was built for" misparse** (:13) — the elided
+  relative let "the one wearing it" bind as *the wearer* on first read. Now
+  "miss the wearing it was built for" — the gerund can't misbind to a person
+  and keeps the compression.
+- **Roped row vs. "three rows from a microphone"** (:5 vs :9) — a single
+  honoree row down front sat in mild tension with Vee counting rows to the
+  podium. Pluralized: "their own roped rows down front."
+
+Also: Cassie added to the chronology entry's `present:` field (she walks Vee to
+the doors, shoots the candid, steers her out) — standing presence sweep.
+
+---
+
 # Triage — The Induction (cold-read panel, 2026-07-28)
 
 Panel: claude-fable-5, claude-opus-4-8, gpt-5.5, gpt-5.6-sol ·
