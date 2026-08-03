@@ -93,7 +93,7 @@ For the lawyer to confirm/correct; rationale behind the pre-sheet's risk grades.
 ## Status
 
 - [ ] Choose counsel (Authors Guild first pass recommended)
-- [ ] Run the dated Dr. Marsh directory/archive check
+- [x] Run the dated Dr. Marsh directory/archive check — run 2026-08-02, slot not occupied (see meta-plan-legal-read.md item [2]); Wayback leg blocked, review-site proxy used — re-run archive leg at publication
 - [ ] Run the Miranda Holdings, LLC entity search (VA registry + PPP data)
 - [ ] Consult on the 9 risk ≥ 2 items in `meta-plan-legal-read.md`
 - [ ] Settle disclosure/content-note phrasing (Rock)

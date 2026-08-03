@@ -68,7 +68,8 @@ surname; character names have symbolic antecedents, not real-person referents.
 
 *Location:* late scene, elective conversation  
 *Rationale:* A named professor at a real, named university (VT anthropology) characterized as running the easy-A class — a real Dr./Prof. Marsh at VT could read it as about them.  
-*Proposed mitigation:* Verify no real Marsh in VT anthro/humanities; if any collision, change surname or soften 'easy A' framing.
+*Proposed mitigation:* Verify no real Marsh in VT anthro/humanities; if any collision, change surname or soften 'easy A' framing.  
+*Check run 2026-08-02 (web search + faculty pages):* **slot not occupied.** No Marsh on the current VT Department of Sociology faculty page (which houses anthropology — full surname roster checked; nearest is "Marshall," a History postdoc), none in Religion & Culture, none surfacing on RateMyProfessors for VT (a student-facing review-site sweep per the lawyer doc's living-memory sources — nearest Marshes teach at NOVA and WVU). Only VT "Marsh" found anywhere: Meghan Marsh, communications staff (non-faculty, non-teaching — not the slot). Caveat: Wayback Machine was unreachable from this environment, so the ~5-year archived-catalog leg rests on the review-site proxy rather than archived department pages; re-run the archive leg at publication per the single-publication rule. Sources: [VT Sociology faculty](https://liberalarts.vt.edu/departments-and-schools/department-of-sociology/faculty.html), [VT Religion & Culture faculty](https://liberalarts.vt.edu/departments-and-schools/department-of-religion-and-culture/faculty.html), [VT History faculty](https://liberalarts.vt.edu/departments-and-schools/department-of-history/faculty.html), [VT media contacts](https://news.vt.edu/for-the-media.html), RateMyProfessors search.
 
 ### [2] The Outlier — Miranda Holdings, LLC — fictional company depicted as PPP fraud (real-person)
 

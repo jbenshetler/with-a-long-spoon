@@ -87,6 +87,46 @@ Retail title field (metadata, not art): *A Polite Invitation (With a Long Spoon,
 
 ---
 
+## Generation prompt of record (Gemini Nano Banana 3 Pro, saved 2026-08-02)
+
+The closest-yet prompt for the AI-generated cover comps. Produced
+`images/a-polite-invitation-cover-purple-3.png` (the current `images/cover.png`
+target). Known deviations after ~20 attempts: the generator refuses to render
+the necklace as a true solitaire while retaining the small hollow separator
+circles — the pendant reads as an ornate locket with a sparkle (accepted for
+the test epub); a stray gold four-pointed sparkle artifact appears right of
+the author name; the hand plane carries a verdigris tint. Prompt verbatim:
+
+> A professional book cover on an edge-to-edge background of luxurious, rich plum-purple folded velvet (hex color #5A3C5F) with deep shadows and soft highlights in the fabric folds.
+>
+> Centrally placed in the lower-middle section is a prominent, inverted equilateral triangle emblem crafted from antique machined brass with a subtle metallic sheen. The triangle points downward.
+>
+> Inside the brass triangle, three main circular medallions are arranged:
+>
+> Top-Left Medallion: A rustic, warm brown patinated metal circle featuring a bas relief woodworkers hand plane in side profile.
+>
+> Top-Right Medallion: A glossy black enamel circle containing a delicate gold-line necklace with a classic round brilliant-cut diamond solitaire (not pendant) in a four-prong setting, hanging from a fine cable chain. A tiny, subtle specular light sparkle glints on the upper-right edge of the diamond. The diamond obscures part of the chain. Render the diamond in the same bas relief style on the black enamel ground, slightly antique finish of the other two medallions (the hand plane and the sleep mask). The diamond obscures the chain, it does not descent from it. This is not a pendant. The diamond does not hang below the chain. Use only the gold and black.
+>
+> Bottom Center Medallion: A deep crimson-red enamel circle featuring an etched gold-line silk sleep mask blindfold with the head band shown as disconnected ribbons
+>
+> Small, hollow circular brass frame cutouts separate the main medallions, allowing the purple velvet texture behind the emblem to show through. The artwork inside all three medallions uses a matching antique, engraved-line relief illustration style.
+>
+> Typography elements are rendered in elegant, raised machined brass lettering:
+>
+> Top Text: "WITH A LONG SPOON · BOOK ONE" in a small, quiet, spaced small-caps serif font centered near the top edge.
+>
+> Main Title: "A Polite Invitation" in a large, dominant, highly legible serif font centered directly above the central brass triangle.
+>
+> Author Name: "Helen Rivers" in a medium-sized serif font centered beneath the point of the triangle near the bottom edge.
+>
+> Font Description
+> Use fonts Sabon Pro / Baskerville
+> Material Rendering: Finished with a 3D bevel and bevel-and-emboss treatment in antique machined brass, featuring a soft top-down highlight and dark ambient occlusion shadows.
+>
+> No external borders, frame margins, or ragged edges. Clean, high-resolution book cover layout with a 10:16 aspect ratio.
+
+---
+
 ## Open questions
 
 1. Mask vs. flower — A/B with the Volume 1 test readers.
