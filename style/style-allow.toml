@@ -403,6 +403,13 @@ text = "And then Randi's mouth, the greeting they did now, easy, only what they 
 note = "All the Time finalized: fixable tics recast; remainder are authorial keeps (the-way 4/5, file motif, Vee fumbles, there-was anaphora, in-voice antithesis)"
 
 [[ok]]
+fp   = "97d517ef5fc1"
+rule = "register-verb"
+file = "scenes/among-friends.md"
+text = "She beat everyone to Vee's things, always had, arrived at them first and fully, a standard other people's RSVPs could only wave at — and here she was, first even ahead of the hosts, at the chair that faced the door, a cold beer already sweating in front of her like she'd been drinking beer all her life, and she'd gotten the room almost exactly right — a chambray shirt with the sleeves cuffed back, the blue doing what blue always did to her eyes, slacks, and then the shoes, little heels a full register too nice for the tile, because there was a floor below which Randi's closet did not go."
+note = "noun use ('a full register too nice') — rule targets the verb; author kept 2026-08-03"
+
+[[ok]]
 fp   = "17923d3ae69e"
 rule = "the-way"
 file = "scenes/bare.md"
