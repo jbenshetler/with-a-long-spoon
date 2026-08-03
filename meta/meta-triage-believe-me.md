@@ -1,3 +1,20 @@
+# Triage — Believe Me (line audit, 2026-08-03)
+
+Sentence-by-sentence consistency/logic audit (`audits/line-audit/believe-me.md`).
+**Prose clean — 0 edits.** Arrival ritual, mat-anchored blocking, props, dialogue
+logic, and the two-nights-running timeline (per prior ruling) all verified; Cassie
+dialogue-only, `present: Vee, Pace` correct. One finding resolved in the set doc:
+
+## Fixed (in `meta-plan-pace-house.md`, not the prose)
+
+- **Wine-glasses sightline from the front mat** (:15) — geometry pinned in the
+  house doc: counter visible from the entry mat through the kitchen doorway
+  (committed to the page here), **plus new canon**: the kitchen has a
+  front-facing window beside the covered stoop (kitchen fronts the house on the
+  stoop side). Worded "stoop," never "porch" — the porch is the sun porch.
+
+---
+
 # Triage — {{Believe Me}} (cold-read pass, 2026-07-30)
 
 Panel: claude-fable-5, claude-opus-4-8, gpt-5.5, gpt-5.6-sol. The cleanest sheet

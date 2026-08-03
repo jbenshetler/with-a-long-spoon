@@ -93,6 +93,14 @@ Front door (left unlocked for the expected guest; Randi bolts it behind her). A
 ### Kitchen `[PAGE]` + `[PLAN]`
 `[PAGE]` **white-laminate**-topped **counter** (plain white, no pattern, the shine worn off, still good to work on); **kettle**/burner; two mugs; the **green tea** she likes, kept on hand; a **bread machine**; a **baking stone** that lives in the oven, with its **wooden peel**; a **cold-water filter pitcher** in the fridge; an old **white KitchenAid stand mixer**, bought secondhand, the wear showing. **No stools.** The **kitchen is small**, too small for two to work in at once; a small **table with chairs** sits in it, where meals happen and where she watches him cook (he sits people down to eat, never feeds them standing at the counter). `[PLAN]` A few good **knives** and a few good **pans and skillets** (**not the full set**); the small tools a serious cook keeps (microplane, peeler, hand juicer, and the like), assumed present and not inventoried; a small bench of guest wines. He cooks here.
 
+**Sightline (committed to the page, {{Believe Me}}):** the **counter is visible from the
+entry mat through the kitchen doorway** — standing at the front door looking right, past
+someone coming through, the counter is in view. **Window (canon, author ruling
+2026-08-03):** the kitchen has a **front-facing window beside the covered stoop** —
+the kitchen fronts the house on the stoop side; its lit window by the door is part of
+the low warm light the house shows on arrival (`believe-me.md` "the house held its
+light low in the windows"). Not "the porch" — the porch is the sun porch at the back.
+
 ### Dining room `[PLAN]`
 Off the **kitchen** (distinct from the kitchen's own built table); a second doorway
 connects through to the **den**, so the room is a pass-through, not a dead end. (The way

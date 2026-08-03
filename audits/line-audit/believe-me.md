@@ -22,3 +22,10 @@
 - **Tense:** consistent past throughout; the pluperfects (line 7 "had worked that out," line 11 "had climbed") are correctly anchored.
 - **Porch reference (line 21):** "sit out on the porch… you can see everything" matches the sun porch canon (mountains and stars through the glass; heatable for cold nights).
 - **Cassie presence:** Cassie is NOT physically present — mentioned only in dialogue (line 39, "How do I say what this is to Cassie?"). On-page cast is Vee and Pace only, matching the chronology's `present: Vee, Pace`.
+
+## Author rulings (2026-08-03)
+
+1. **Counter sightline (:15)** — fixed in the set doc, not the prose:
+   `meta-plan-pace-house.md` now pins (a) counter visible from the entry mat
+   through the kitchen doorway (committed on this page), and (b) new canon —
+   a front-facing kitchen window beside the covered stoop. 0 prose edits.
