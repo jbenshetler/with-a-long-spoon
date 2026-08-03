@@ -36,9 +36,9 @@ Vee stopped with her glass in the air.
 
 She'd said that once. Maybe once. Somewhere on the trail in October with her breath short, a half sentence about the boots being Meg's and a half size big, the kind of thing you say to say something, and it had gone wherever those sentences go. Except it hadn't. It had gone home with him and been put somewhere, apparently, on a shelf with her friends' names on it, and he'd just taken it down one-handed without turning around.
 
-"They didn't fit me," she said, stupidly.
+"You remember that?" she said.
 
-"I know. Your heel came up out of the right one when you pushed off." He rinsed. "And Kayla's the one who can talk the paint off a wall?"
+"Your heel came up out of the right one when you pushed off." He rinsed. "And Kayla's the one who can talk the paint off a wall?"
 
 That was hers. That was her own line, she'd said it about Kayla probably four times, and hearing it handed back in his flat certain voice did something to her that she would have been embarrassed to describe out loud. He had been listening. Not the polite kind, where a man keeps his face pointed at you while he rests. All fall, all those nights she'd run on at his back about her floor, her people, the small dumb news of her life — he'd kept it. All of it.
 
