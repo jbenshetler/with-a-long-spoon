@@ -27,3 +27,25 @@ Triage checked: `meta/meta-triage-new-ordinary.md` read before finalizing. No fi
 - **Pronouns:** only two characters present; every "he/she" resolves. Line 37's access to Pace's interior ("He decided not to ask") is Vee's read, already ruled a keep in triage.
 - **Scrunchie form:** "cardboard form of green scrunchies" in the drawer matches the {{Above Him}} drawer install and the triage-mandated "cardboard form" phrasing.
 - **Tense:** consistent past with past-perfect flashback in lines 9 and 35; the conditional future of line 53 is the only forward look and is grammatically clean (its content is finding #2).
+
+## Author rulings (2026-08-03)
+
+1. **Drawer inventory (:7/:33)** — fixed, author's split: drawer holds cheap
+   hair-and-sink items (brush, face soap, scrunchie form, pins); makeup and
+   specialty creams travel (no money for duplicates). ":7 the cream" → "the
+   face soap"; ":33 the cream and the pins" → "the makeup and the creams".
+2. **Re-scenting schedule vs. break (:53)** — fixed, option a: anchors
+   removed, the ritual made a standing arrangement ("carry it away Sunday…
+   bring it back gone faint again to be filled").
+3. **"Five nights" vs. {{In His Hands}} dateline** — resolved by re-dating
+   the chronology, after a four-scene collision check (above-him movement 3
+   seam clean; school-nights names no weekdays; all-the-time names Saturday
+   ×3 and returns Vee to Pace post-brunch; in-his-hands prose probe-safe):
+   In His Hands = Thu Nov 12 evening → overnight; All the Time = Sat Nov 14;
+   School Nights = Mon Nov 9–Wed Nov 11; scene header trimmed. Accepted
+   strain: "ready for days" = two days.
+4. **"A slug of the wine" (:21)** — fixed to indefinite "a slug of wine".
+5. **Mushroom "holding the wine" (:29)** — stands; bake-wicked sauce in a
+   sponge is real, and the line is the educated palate at work.
+
+Housekeeping: Cassie not present; `present:` already correct.

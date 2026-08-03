@@ -1,6 +1,6 @@
 # In His Hands
 
-*Vee POV. A weeknight in mid-November, the week before Thanksgiving.*
+*Vee POV. A weeknight in mid-November.*
 
 ---
 

@@ -1,3 +1,54 @@
+# Triage — The New Ordinary (line audit, 2026-08-03)
+
+Sentence-by-sentence consistency/logic audit (`audits/line-audit/new-ordinary.md`).
+5 findings: 3 fixed, 2 left standing — plus a chronology re-date the third
+finding forced (see below).
+
+## Fixed
+
+- **Drawer inventory vs. the bag** (:7/:33) — the cream and the pins were both
+  drawer-resident ("never had to be packed") and traveling. Author's split:
+  cheap hair-and-sink things live in the drawer; one-of-each makeup and
+  specialty creams travel (Vee can't afford duplicates). Now :7 "the brush and
+  the face soap and the cardboard form of green scrunchies and the loose
+  pins"; :33 "the makeup and the creams, the few things that still traveled."
+- **Shirt re-scenting schedule vs. Thanksgiving break** (:53) — "back to the
+  dorm Sunday night… next Friday" anticipated a week that break (Sat Nov
+  21–29, Vee home) erases, and she knows it on the page. Loosened to the
+  standing arrangement: "She'd carry it away Sunday full of him, and sleep in
+  him through the nights that weren't his, and bring it back gone faint again
+  to be filled."
+- **"A slug of the wine"** (:21) — definite article preceded the Nebbiolo's
+  introduction at :25; now "a slug of wine."
+
+## Chronology re-date (cross-doc, forced by the "five nights" check)
+
+"It had been five nights" (:9) against Fri Nov 20 puts the gap at Sun Nov
+15–Thu Nov 19 — colliding with {{In His Hands}}'s stale "week before
+Thanksgiving break" dateline. Four-scene verification (above-him, school-
+nights, all-the-time, in-his-hands read for markers) produced the corrected
+calendar, applied 2026-08-03: **{{In His Hands}} = Thu Nov 12, evening →
+overnight** (the Thursday-night stay whose morning is {{Above Him}}'s drawer
+discovery — the seed now pays off with a rendered scene); **{{All the Time}} =
+Sat Nov 14** (prose names Saturday ×3; Vee leaves Pace 30 min before brunch
+and drives back to him after — mid-drawer-weekend, not a departure morning);
+**{{School Nights}} trimmed to Mon Nov 9–Wed Nov 11**; in-his-hands.md header
+loosened to "A weeknight in mid-November." Accepted strain, ruled tolerable:
+Randi's "had had it ready for days" (all-the-time:103) = two days.
+
+## Left standing — do not re-litigate
+
+- **"The mushroom gone soft and giving, holding the wine"** (:29) — stands;
+  the physical path exists (bake wicks the sauce up into the sponge), and
+  Vee locating the wine in the mushroom is the educated palate the scene is
+  about, not a prop error.
+- **Retrospective narration in the cooking passage** (:21 "since before
+  she'd come," :25 past-perfect) — deliberate structure, not sequence error.
+
+Also: Cassie not present (Vee/Pace only) — `present:` already correct.
+
+---
+
 # Triage — The New Ordinary (`new-ordinary.md`)
 
 Cold-read feedback pass, 2026-07-29. Panel: claude-fable-5, claude-opus-4-8, gpt-5.5, gpt-5.6-sol. All four read after {{The Induction}}. The scene reviewed very clean; every flag was mild.
