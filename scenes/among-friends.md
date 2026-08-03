@@ -68,19 +68,17 @@ The water shut off. He dried his hands on the towel, taking his time about it, a
 
 ---
 
-The place was twenty minutes out on a road she'd never had a reason to take, and from the parking lot it was nothing — blacktop, a low long building gone the color that wood goes when nobody paints it, a sign she couldn't read until they were nearly under it. She had the address memorized from handing it out all week. *Where even is that,* Kayla had said, thrilled, and Vee had said, *no idea, Pace picked it,* and defended the place like a lawyer, sight unseen, on no evidence at all.
+The place was twenty minutes out on a road she'd never had a reason to take, and from the parking lot it was nothing — blacktop, a low long building gone the color that wood goes when nobody paints it, a sign she couldn't read until they were nearly under it. She had the address memorized from handing it out all week. *Where even is that,* Kayla had said, thrilled, and Vee had said, *no idea, Pace picked it,* and defended the place like a lawyer, sight unseen, on no evidence at all. They'd come out half an hour ahead of everybody, because it was theirs — his name on the reservation, her people driving twenty minutes into the dark on their say-so — and the lot was empty except for one car, parked square to the door, and Vee knew it before she was done looking at it. Twenty minutes out, on a road with no reason on it, and Randi had found the place first.
 
 Inside, it was pine. Every wall of it, boards gone a deep honey color that fifty years of other people's good nights had rubbed matte, and the whole room was warm with it, warmer than paneling had any right to be. A tile floor, boot heels and chair legs on it, a speaker somewhere up in a corner playing somebody's steel guitar at the volume of a conversation. No screens — a fact that went by like a room's ceiling height, half a second, gone. Along the back wall a buffet ran under heat lamps — brisket, chicken, corn, green beans, slaw, a vat of mashed potatoes — and to the side, three round tables had been pushed loosely together, and on one of them, tented, a folded sheet of white butcher paper said VEE — three letters, black marker, in a handwriting she'd never seen in her life.
 
-"It says *Vee*," Kayla said, to the room, to everyone, already halfway to the brisket.
+And behind the sign, already on her feet, was Randi. Of course she was. She beat everyone to Vee's things, always had, arrived at them first and fully, a standard other people's RSVPs could only wave at — and here she was, first even ahead of the hosts, at the chair that faced the door, a glass already sweating in front of her, in the exact right clothes for a place she'd never seen, which was a thing Randi could just do. Vee laughed out loud, the whole quiet room to laugh in.
 
-And behind the sign, already on her feet, was Randi. She'd beaten them all there — she always beat everyone to Vee's things, arrived at them first and fully, a standard other people's RSVPs could only wave at — and she'd had the chair that faced the door, a glass already sweating in front of her, and she was in the exact right clothes for a place she'd never seen, which was a thing Randi could just do.
+"You're impossible. We came early on *purpose*."
 
-Pace was there too, by the tables — he'd come early, he'd said, to sort it out, and whatever sorting it out had been, it was done, and he was just a man standing easy by a chair in a broadcloth shirt and the bomber jacket over it, looking like the place had been built around him.
+"You did. It didn't work." Randi came around the table already smiling.
 
-Vee had thought she might have to do something tonight. Manage a seam somewhere. She'd carried the thought in with her like a folded map and never once took it out.
-
-The rest of them were still a commotion at the door — coats coming off into a pile, Cassie's SUV pulling in outside with its suspension announcing it, Kayla narrating the buffet to people standing next to the buffet — and for a minute it was only the three of them at the front of the room, and Vee took Randi's hand and brought her the two steps over, because this, first, before anything else got to happen.
+Vee had thought she might have to do something tonight. Manage a seam somewhere. She'd carried the thought in with her like a folded map. And here was the room empty and warm, her name on butcher paper, her best friend first through a door she herself had just walked through — and the only thing left to manage was the thing she'd been saving, the thing she wanted done first, before a single coat came through that door.
 
 "Come here. Come meet him. You've technically met him, but that was ninety seconds of standard deviation, it doesn't count." She was pulling her along, laughing. "Randi, this is Pace."
 
@@ -94,9 +92,15 @@ He said it the plain way he said everything, a man supplying a fact, at a volume
 
 "Not anymore," he said, and pulled out her chair.
 
-And that, Vee understood a little later, had been everything she'd braced for, done and dusted inside the first two minutes. The folded map went wherever unneeded things go. The night stood open in front of her with nothing left in it to manage.
+And that, Vee understood a little later, had been everything she'd braced for, done and dusted before a single guest arrived. The folded map went wherever unneeded things go. The night stood open in front of her with nothing left in it to manage.
 
-The others came to the tables in waves off the buffet, and he met each wave the same. Kayla arrived with a loaded plate and her free hand already out — "Vee's boyfriend," he said, shaking it. He said it to Meg, and to Danny at Meg's shoulder. He said it to Theo, flat and friendly, and to Cassie, who shook on it once, like closing a deal. The same two words every time, a man with exactly one credential and no plans to produce another, and by the fourth telling the tables were grinning ahead of it, waiting for it, and he never varied it and never once seemed to notice he'd become the night's running joke. Vee heard it every single time. It landed somewhere low every single time. At the buffet, alone with the brisket, she caught herself saying it under her breath, trying it on with her own mouth, and made herself stop before anybody saw.
+Cassie's SUV announced itself from the lot, suspension first, and then the door brought them all in at once — Kayla, Meg, Danny, Cassie last with the keys, coats coming off into a pile, Kayla narrating the buffet to people standing next to the buffet.
+
+"It says *Vee*," Kayla said, to the room, to everyone, already halfway to the brisket.
+
+Theo came alone, ten minutes behind, with the entrance of a man who'd checked the address twice and sat in his car a minute, and by the time he was through the door the room had a running start on him.
+
+They came to the tables in waves off the buffet, and Pace met each wave the same. Kayla arrived with a loaded plate and her free hand already out — "Vee's boyfriend," he said, shaking it. He said it to Meg, and to Danny at Meg's shoulder. He said it to Theo, flat and friendly, and to Cassie, who shook on it once, like closing a deal. The same two words every time, a man with exactly one credential and no plans to produce another, and by the fourth telling the tables were grinning ahead of it, waiting for it, and he never varied it and never once seemed to notice he'd become the night's running joke. Vee heard it every single time. It landed somewhere low every single time. At the buffet, alone with the brisket, she caught herself saying it under her breath, trying it on with her own mouth, and made herself stop before anybody saw.
 
 Dinner organized itself around the buffet, which meant it never organized at all, and Vee watched it not organize with a pleasure she couldn't have explained. Nobody was seated. Everybody was seated, but a different everybody every twenty minutes — the buffet kept dealing them out and gathering them back in new arrangements, Kayla returning with a second pass at the brisket and a fresh audience, Meg and Danny splitting a plate of corn with the calm of the long-settled. And through it Pace moved. That was almost all he did, that she could ever have pointed to — he moved, between the tables, with a pitcher or without one, and wherever he stopped, something got easier.
 
