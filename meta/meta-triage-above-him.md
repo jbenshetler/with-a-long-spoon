@@ -1,3 +1,40 @@
+# Triage — Above Him (line audit, 2026-08-02)
+
+Sentence-by-sentence consistency/logic audit (`audits/line-audit/above-him.md`).
+5 findings: 1 fixed, 4 left standing.
+
+## Fixed
+
+- **Arms "still up in her hair" after the updo narrated complete** (:33 vs
+  :37) — the scrunchy sentence now ends at the reach ("off the form by the
+  tap"); the twist finishes in his arms, making the :37 mirror pose literal
+  and rhyming with :49's reach-by-the-tap out of habit. ("Twisted twice
+  around the knot" cut.)
+
+## Left standing — do not re-litigate
+
+- **"The next Friday" + "her morning"** (:47/:49) — the dateline is
+  retroactively literal: {{School Nights}} (Mon–Thu that week) puts her at
+  his mirror Friday morning after the Thursday-night stay. First read takes
+  "Friday = the next visit" loosely; reread finds it exact — the seed is the
+  point. Do not re-date or soften.
+- **"Waited all week to be answered" vs. her weeknight presence** (:59) — the
+  page never claims she was away; :49's "out of pure habit" implies the
+  weekday mornings. Staging: he cleared the counter overnight (Thursday
+  night/Friday early), in character ("There was never a note"), so the answer
+  lands at week's end — which is what makes "all week" true.
+- **"Gone the moment it was over" with the last narrated sex on the couch**
+  (:17/:19) — the movement is a recall in highlights; "it" reads as the whole
+  evening and the line characterizes his sleep, not the couch's timestamp.
+- **"She felt the warmth of him before the door"** (:37) — deliberate
+  compression: her body registers him before her ears do. Unpacking it adds a
+  second filter verb and flattens the sentence.
+
+Also: Cassie not present (Vee/Pace only) — `present:` unchanged. No new style
+hits from the edit.
+
+---
+
 # Triage — Above Him (cold-read panel, 2026-07-28)
 
 Panel: claude-fable-5, claude-opus-4-8, gpt-5.5, gpt-5.6-sol · `reviews/cold-read/*/above-him.md`

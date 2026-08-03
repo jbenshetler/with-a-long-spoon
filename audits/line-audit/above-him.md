@@ -28,3 +28,18 @@
 - **Canon checks:** "Peter" whispered to sleeping Pace matches the chronology's design (name permitted from {{Rock}}; the reach dropped elsewhere per flag 27). The weight-loss paragraph matches the post-triage compressed form. No `never-name` breach — Pace's temperament stays in behavior (the squared razor, the single drawer).
 - **Triage:** `meta/meta-triage-above-him.md` checked; none of the findings above touch its "Left standing" items (the felt-it-in-everything interiority, the old title, the force-words wish), so nothing was dropped — but nothing here re-litigates them either.
 - **Dialogue:** effectively none (one whispered word); no attribution issues possible.
+
+## Author rulings (2026-08-02)
+
+1. **Fixed** (option a): :33 scrunchy sentence ends at "off the form by the
+   tap"; the twist now finishes during the :37 embrace.
+2. **Left standing**: the Friday dateline is literal via {{School Nights}}
+   (Thursday-night stay → Friday morning); seeds the arrangement before its
+   chapter. Do not re-date.
+3. **Left standing**: overnight counter-clearing is the natural staging; :49's
+   "out of pure habit" covers her weekday mornings; "all week" is true because
+   the answer lands at week's end.
+4. **Left standing**: recall-in-highlights grammar; "it" = the evening.
+5. **Left standing**: deliberate sensory compression.
+
+Triage recorded in `meta/meta-triage-above-him.md`. Cassie not present.
