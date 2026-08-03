@@ -1,3 +1,33 @@
+# Triage — Nothing Underneath (line audit, 2026-08-03)
+
+Sentence-by-sentence consistency/logic audit (`audits/line-audit/nothing-underneath.md`).
+4 findings: 2 fixed, 2 left standing; plus the flag-22 Kayla/Meg deferred item
+resolved and the chronology `present:` field expanded to
+`Vee, Pace, Cassie (coda), Kayla (hall)`.
+
+## Fixed
+
+- **Jeans "stayed caught around his knees"** (:107) vs. "caught around his
+  thighs" (:95) — "stayed" asserted they hadn't moved. Dropped "stayed"; the
+  thighs-to-knees slippage across three hobbling steps and the couch is natural.
+- **"The mouth that had spent no words on her in December"** (:83) — literally
+  contradicted by :105 (he said her name in December). Now "no word she needed" —
+  true to the :105 ledger (a name, not the word) while keeping the figure.
+- **Kayla "from two doors down"** (:37) → "from down the hall" — the
+  two-doors-down slot is Meg's (chronology flag 22, individuated in {{Lesson}});
+  flag annotated in the chronology.
+
+## Left standing — do not re-litigate
+
+- **Doorstep-to-indoors transition unnarrated** (:83–:93) — the elision is the
+  characters' own blur; ":91's "the front door stood open behind them" anchors
+  retroactively, exactly when Vee would re-register the room. No staging beat.
+- **"Barely fifteen minutes before"** (:45) — Vee's felt time, not a wall
+  clock; the clause's job is *how recently* she was at the edge, and the
+  compression is true to her state.
+
+---
+
 # Triage — {{Nothing Underneath}} cold-read feedback
 
 Verdicts from two 2026-07-30 feedback passes over the four cold-read reviews
