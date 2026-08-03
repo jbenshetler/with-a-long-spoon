@@ -24,9 +24,9 @@ It arrived as *Randi*. Of course she did — she'd been saying Randi's name for 
 
 "Bring Cassie, too," he said, into the sink.
 
-He said it with a plate in his hand, no more weight on it than the plate had, and it landed in the middle of her little dinner and sat there. Cassie. Vee opened her mouth to say *of course* and didn't say it, because a table set itself in her head — small, Randi-shaped, the kind with real napkins — and she knew, without one thought that had words in it, what Cassie would have at noon that day. A lab. A thing. Cassie's things were real and they were also, somehow, always. And then it would be the three of them anyway and Cassie would be somewhere across town being fine about it, and Vee would have built a table her roommate had a reason to be missing from.
+He said it with a plate in his hand, no more weight on it than the plate had, and it landed in the middle of her little dinner and sat there. Cassie. Vee opened her mouth to say *of course* and didn't. Cassie would come — that was the thing. For Vee she'd come, cap and all, and be a good sport the whole evening. And Vee ran the dinner forward and couldn't find the restaurant to put it in. The real-napkins kind of place, Randi's kind, would seat Cassie in yesterday's shirt under a pendant light, being fine about it for two hours. Anywhere Cassie would pick, Vee couldn't picture Randi's hands on the menu. She went through every table in town, and every one of them had somebody at it being a good sport, and she wasn't going to build a dinner one of her people had to be a good sport at.
 
-She'd done that before. She wasn't going to look at when.
+She'd watched somebody be fine about it before. She wasn't going to look at when.
 
 "Okay, so not a dinner," she said slowly, thinking with her mouth open, her one method for anything worth planning. "Cassie doesn't — a fancy dinner isn't Cassie's."
 
