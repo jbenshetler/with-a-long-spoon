@@ -22,3 +22,12 @@
 - **Pronouns.** Checked throughout; only line 87 (finding 2) is stumble-worthy. "He/him" in the aftermath is unambiguously John; Pace and Vee appear only in interior, clearly named.
 - **Triage-fixed items** verified present in the current text ("The flaw was hers, carried into the room the same as the cold," line 129; the cut scale-line absent; "made herself slow down," line 91).
 - **Cassie presence:** Cassie is not physically present in the scene and is not mentioned at all.
+
+## Author rulings (2026-08-03)
+
+1. **"He held that" (:87)** — fixed: "He held the pose until she reached the
+   last stair."
+2. **Goggles (:9/:45)** — fixed at :37: "she pushed her goggles up and looked
+   over anyway" (chair look-exchange now bare-eyed; :45 pull-down kept).
+
+Cassie sweep: absent and unmentioned; `present: Randi` correct.

@@ -34,7 +34,7 @@ The chair lifted them off the ramp and swung out over the slope, and the ground 
 
 Past the treeline the cold came up under the chair and through her jacket and settled against the small of her back. She pulled the bar down. Their skis hung below them, his longer than hers.
 
-She tried to keep looking straight ahead. After a moment she looked over anyway, and found him looking back, not so much staring as assessing. From anyone else she would have minded. She did not.
+She tried to keep looking straight ahead. After a moment she pushed her goggles up and looked over anyway, and found him looking back, not so much staring as assessing. From anyone else she would have minded. She did not.
 
 He was finishing law school in New Haven, he said, and kept a place in the city. It sounded like a good life. She was from central Florida, and did not mention it.
 
@@ -84,7 +84,7 @@ He came for her at eight, his voice in the hall below, and she started down. The
 
 And she was doing her own looking. She had only ever seen him swallowed in ski gear, and here he stood in white tie, the tailcoat cut for him and no one else, the bulk of the mountain gone off him and something long and easy left in its place. Coming down to him, she had the feeling again of a man who kept turning out to be more than she'd yet seen.
 
-He held that until she reached the last stair. "She walks in beauty," he started, and couldn't finish it. Then he gave her his arm.
+He held the pose until she reached the last stair. "She walks in beauty," he started, and couldn't finish it. Then he gave her his arm.
 
 A cab took them down through the lit town and up the far side of the valley to a hall blazing against the dark of the mountain. Inside, the floor was white marble and the tables were dressed in black, and Christmas trees stood down the length of the room hung with silver tinsel and small white lights, so the whole place glittered, white and silver against the black.
 

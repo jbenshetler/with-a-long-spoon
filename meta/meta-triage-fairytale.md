@@ -1,3 +1,22 @@
+# Triage — Fairytale (line audit, 2026-08-03)
+
+Sentence-by-sentence consistency/logic audit (`audits/line-audit/fairytale.md`).
+2 findings, both fixed. The Gstaad/Ohio NYE time diptych, bracelet tracking,
+props, and dialogue logic all verified clean; Cassie absent, `present: Randi`
+correct.
+
+## Fixed
+
+- **"He held that" antecedent at the stair** (:87) — "that" (the hands-over-heart
+  pose, :83) landed two paragraphs late after her looking-paragraph. Now "He held
+  the pose until she reached the last stair."
+- **Goggles pulled down twice** (:9 worn in the queue, :45 pulled down at the
+  fork, no push-up between) — the push-up added at :37 where she turns on the
+  chair: "she pushed her goggles up and looked over anyway" — makes the
+  assessing-look eye contact literal and legitimizes the :45 beat.
+
+---
+
 # Triage — {{Fairytale}} (cold-read pass, 2026-07-30)
 
 Panel: claude-fable-5, claude-opus-4-8, gpt-5.5, gpt-5.6-sol (all read after {{Believe Me}}).
