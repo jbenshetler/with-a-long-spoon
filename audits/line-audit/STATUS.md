@@ -48,11 +48,11 @@ with the author, item by item.
 39. new-ordinary — reviewed
 40. cropped — reviewed
 41. seconds — reviewed
-42. under-the-rug — audited
+42. under-the-rug — reviewed
 43. bare — audited
 44. believe-me — audited
 45. fairytale — audited
 46. old-acquaintances — audited
-47. the-usual — pending
-48. my-friend-randi — pending
-49. nothing-underneath — pending
+47. the-usual — audited
+48. my-friend-randi — audited
+49. nothing-underneath — audited

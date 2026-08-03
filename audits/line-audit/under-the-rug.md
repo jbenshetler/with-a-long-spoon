@@ -28,3 +28,11 @@ Triage check: `meta/meta-triage-under-the-rug.md` read before finalizing. Its "L
 - **Tense.** Consistent close-third past; the one present-tense verb ("what a billboard is to a painting," line 45) is gnomic, not a slip.
 - **Emotional/knowledge continuity.** Vee's "forgiven" decision (line 73) is consistently re-referenced at line 91; the fear "since the dark of the bedroom" (line 71) tracks the opening; she knows nothing she couldn't know.
 - **Time of day / lighting.** Night throughout: dark bedroom → evening restaurant (bright interior) → night truck → house → dark bedroom. No daylight leaks.
+
+## Author rulings (2026-08-03)
+
+1. **"It" antecedent (:37)** — left standing; deliberate compression, in-register.
+2. **Screen geometry (:35/:37)** — left standing; "above her head" permits the offset.
+3. **Repositioning ellipsis (:83–:91)** — left standing; the curl at :85 carries it.
+
+Cassie sweep: absent, correctly; `present: Vee, Pace` verified. 0 scene edits.

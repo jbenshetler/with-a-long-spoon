@@ -1,3 +1,23 @@
+# Triage — Under the Rug (line audit, 2026-08-03)
+
+Sentence-by-sentence consistency/logic audit (`audits/line-audit/under-the-rug.md`).
+3 findings: 0 fixed, 3 left standing. Chronology `present: Vee, Pace` verified
+correct — Cassie neither present nor mentioned.
+
+## Left standing — do not re-litigate
+
+- **"It had him before the drinks came"** (:37) — the late-landing antecedent is
+  deliberate compression: "It" as an unnamed force mirrors Vee not yet
+  understanding what she's watching; the television sentence at :35 bridges it.
+- **Screen geometry** (:35 "a foot above her head" vs :37 "up and to the left…
+  the screen behind her head") — "above her head" doesn't imply dead-center; an
+  offset wall-mount reads naturally, and the offset glance is the observed detail.
+- **Unnarrated repositioning after sex** (:83 atop her → :91 spooning) —
+  standard ellipsis inside "He slept."; "in the curl of him" (:85) already
+  carries the settled posture.
+
+---
+
 # Triage — Under the Rug (cold-read panel, 2026-07-29/30)
 
 Panel: claude-fable-5, claude-opus-4-8, gpt-5.5, gpt-5.6-sol · `reviews/cold-read/*/under-the-rug.md`
