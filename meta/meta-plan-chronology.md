@@ -199,7 +199,7 @@ The settled domestic rhythm shown rather than summarized, with the re-scenting b
 No classes; Vee home with her mother. {{The New Ordinary}} is the Friday going in; {{Cropped}} and {{Seconds}} are the Sunday coming back.
 
 ### [VIGNETTE] Cropped
-*Sun Nov 29 · the Sunday back from break · athletic-dorm cafeteria, Sunday dinner* · Draft complete · Cassandra track · `cropped.md` · [detail](meta-condensed-cropped.md) · slug: cropped · present: Vee · reviewed: 2026-07-30
+*Sun Nov 29 · the Sunday back from break · athletic-dorm cafeteria, Sunday dinner* · Draft complete · Cassandra track · `cropped.md` · [detail](meta-condensed-cropped.md) · slug: cropped · present: Vee, Cassie · reviewed: 2026-07-30
 A cropped induction photo turned her parents' pride into questions about the expensive dress and the man behind it; Vee fumbled *"boyfriend (?)"* and couldn't say Pace made it. Over dinner she gives Cassie the legible facts freely (math PhD, the hike, the dance, what she withheld and why), but the deeper question, what is he to you, stays the closed door: *"Both. Probably both."* The parents' table stays off-page, reported. Rhymes with {{Toenails}}: same wrong-shaped listener, different occasion. Opens {{Believe Me}}'s emotional logic — Vee has now failed to name him truly, to her parents and to Cassie.
 
 ### [VIGNETTE] Seconds

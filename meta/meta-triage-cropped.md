@@ -1,3 +1,13 @@
+# Triage — Cropped (line audit, 2026-08-03)
+
+Sentence-by-sentence consistency/logic audit (`audits/line-audit/cropped.md`).
+**Clean — 0 findings.** Photo-crop mechanics, dateline (Sun Nov 29), dress
+backstory, ages, in-scene props, and the dorm-friends name-drop guard all
+verified; prior triage verdicts respected. Housekeeping only: chronology
+`present:` corrected to `Vee, Cassie` (Cassie is the second party throughout).
+
+---
+
 # Triage — Cropped (`cropped.md`)
 
 Cold-read feedback pass, 2026-07-29. Panel: claude-fable-5, claude-opus-4-8, gpt-5.5, gpt-5.6-sol (all read after {{The Outlier}}). Reception was near-frictionless across all four; only two friction points surfaced, both from Opus alone.

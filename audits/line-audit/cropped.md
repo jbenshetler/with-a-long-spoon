@@ -29,3 +29,9 @@ Notes on items examined and dismissed:
 - **Tense**: consistent past throughout; "Vee heard the next part before she said it" (21) is anticipation, not a tense slip.
 - **Dorm-friends name-drop guard**: chronology guard 22 rules name-drops out of {{Cropped}} (author 2026-07-30); the scene contains none. Compliant.
 - **Triage doc** (`meta/meta-triage-cropped.md`) read before finalizing; no finding here restates a settled verdict.
+
+## Author rulings (2026-08-03)
+
+Clean audit — no findings to rule on. Housekeeping applied: chronology
+`present:` field corrected to `Vee, Cassie` (Cassie is the scene's second
+party throughout; entry previously read `present: Vee`). No prose changes.
