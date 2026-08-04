@@ -17,7 +17,9 @@ those is a different, un-allowlisted command string and will prompt.
 
 ## What it builds
 
-`build/with-a-long-spoon-book-one.epub` (the `build/` dir is gitignored —
+`build/a-polite-invitation.epub` — reader-facing filename = the volume title,
+*A Polite Invitation* (Volume One of the *With a Long Spoon* trilogy; titles
+per `meta-blurb.md`). (The `build/` dir is gitignored —
 outputs are artifacts, never committed). Assembly order, per the "Test-epub
 assembly" spec in `meta/meta-blurb.md`:
 

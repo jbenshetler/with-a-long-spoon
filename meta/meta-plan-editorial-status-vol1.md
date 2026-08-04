@@ -1,4 +1,4 @@
-# Editorial status — Volume 1 (*Nothing Underneath*)
+# Editorial status — Volume 1 (*A Polite Invitation*)
 
 Per-volume progress against the reusable review checklist in
 `meta-plan-editorial-checklist.md`. The checklist defines *what* the passes are;
