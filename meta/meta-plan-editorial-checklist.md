@@ -19,13 +19,15 @@ mark items done with dates as they complete.*
 - [ ] **True line edit** — rhythm, cross-chapter repetition and unintentional
   echoes, pet constructions the linter doesn't yet know, paragraph pacing.
   Systematic front-to-back, distinct from the continuity audit.
-- [ ] **Copyedit against a style sheet** — build the style sheet as the pass
+- [x] **Copyedit against a style sheet** — build the style sheet as the pass
   runs: names/spellings, places, hyphenation rulings, numerals, italics
   conventions (interiority italics applied consistently?), dash/ellipsis
   house rules, capitalization of recurring objects. Sheet lives in `style/`.
   **Decision 2026-08-01: this is its own skill/command, separate from
   `/wals-line-audit`** (that pass is mid-flight; don't graft a second rubric
-  onto it).
+  onto it). Complete 2026-08-03: Pass 0/1/2 all done 2026-08-02, escalated
+  candidates ruled (`ef57bdc`); sheet at `style/style-sheet.md` with no open
+  items. Curly-quote conversion deferred to epub typesetting.
 - [x] **Whole-book timeline sweep** — one closing audit reconciling every
   elapsed-time claim against the master chronology in a single pass; run
   after all chapters clear the line audit. Complete 2026-08-03: 734 claims
