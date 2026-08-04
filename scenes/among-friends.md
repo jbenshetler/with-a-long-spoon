@@ -74,7 +74,7 @@ Inside, it was pine. Every wall of it, boards gone a deep honey color that fifty
 
 And behind the sign, already on her feet, was Randi. Of course she was. She beat everyone to Vee's things, always had, arrived at them first and fully, a standard other people's RSVPs could only wave at — and here she was, first even ahead of the hosts, at the chair that faced the door, a cold beer already sweating in front of her like she'd been drinking beer all her life, and she'd gotten the room almost exactly right — a chambray shirt with the sleeves cuffed back, the blue doing what blue always did to her eyes, slacks, and then the shoes, little heels a full register too nice for the tile, because there was a floor below which Randi's closet did not go. A few tables across the room were at their dinners and their beers, and none of them looked up, and Vee laughed out loud anyway.
 
-"You're impossible. We came early on *purpose*."
+"You're impossible. We came early. We wanted to be here first."
 
 "You did. It didn't work." Randi came around the table already smiling.
 
