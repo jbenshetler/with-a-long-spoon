@@ -34,7 +34,7 @@ She'd watched somebody be fine about it before. She wasn't going to look at when
 
 Vee stopped with her glass in the air.
 
-She'd said that once. Maybe once. Somewhere on the trail in October with her breath short, a half sentence about the boots being Meg's and a half size big, the kind of thing you say to say something, and it had gone wherever those sentences go. Except it hadn't. It had gone home with him and been put somewhere, apparently, on a shelf with her friends' names on it, and he'd just taken it down one-handed without turning around.
+She'd said that once. Maybe once. Somewhere on the trail in October with her thighs burning, a half sentence about the boots being Meg's and a half size big, the kind of thing you say to say something, and it had gone wherever those sentences go. Except it hadn't. It had gone home with him and been put somewhere, apparently, on a shelf with her friends' names on it, and he'd just taken it down one-handed without turning around.
 
 "You remember that?" she said.
 
@@ -52,11 +52,11 @@ And the whole thing turned over at once, the small dinner opening out into somet
 
 "I'd like it."
 
-"And Theo, maybe. He's a friend from my English class last year, he—" and there she caught herself, at the little ledge of the rest of it, *he asked me out once, it's fine, it's nothing*, not sure why she was explaining a thing nobody had asked her to explain.
+"And Theo, maybe. He's a friend from my English class last year, he—" and the rest of it came out over the little ledge before she could decide about it. "He asked me out once. Last spring. It's fine, it's nothing, we never even—" She stopped there, not sure why she was explaining a thing nobody had asked her to explain.
 
 "Bring Theo," Pace said, and reached for the next pan.
 
-That was all. He never looked around, never asked the question she'd braced for, and she sat there holding the unfinished sentence and feeling something she couldn't have named settle in her, warm side down.
+That was all. He never looked around, never asked the question she'd braced for, and she sat there feeling something she couldn't have named settle in her, warm side down.
 
 She was deep into the roster — who'd come, who'd bring whom, whether Kayla could be trusted around the story of the shirt — when the other thing surfaced. It came up as a picture, whole: a game running on three walls and a fourth screen over the bar, the sound pooling in the middle of the room, and Pace across the nachos with his fork in his hand, squaring it to the edge of the table, turning it, squaring it again. *I listen as hard as I know how and I still can't hear you.* The picture didn't want anything from her. It just stood there until she'd seen it.
 
