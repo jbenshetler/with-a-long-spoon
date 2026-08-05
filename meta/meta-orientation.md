@@ -62,6 +62,7 @@ These are the project's hard constraints (full versions in the Bible's Global Cr
 - **Erotic escalation is a staircase** — each step exactly one riser higher, never arbitrary. **Vary heat by *kind*** (tender / playful / psychologically intense / languid / restful-restraint), not just by intensity — an intensity-only arms race is unwinnable and burns the tonal contrast the dark ending needs.
 - **Class texture: restrained, never blunt, always active.** Likewise the statistics-class mirrors — subtle, never explained.
 - **POV:** close third on Vee for the erotic/confidante scenes (reader ahead of protagonist); Pace's POV used to render Randi's body early (pays the visual debt, arms the irony); the threesome is rendered *inside Vee's blindfold*.
+- **Scene-type-specific running threads** (moved here from `CLAUDE.md` 2026-08-05 — the named threads are spoiler-grade and must not leak into `blind-reader` via `CLAUDE.md` inheritance; a cold reader who knows a thread's *name* knows it's a device): **every sex scene** must run the seed-decision against the **taste thread** (`meta-note-taste-thread.md`) in addition to the general running-threads registry. Most scenes seed nothing — the point is to *decide*, not to plant every time.
 
 ## Scene titles
 
