@@ -30,3 +30,17 @@
 - "the not-going"
 - "unhurried click"
 - "buffed and expensively kept"
+
+## Author rulings (2026-08-04)
+
+1. "a held breath" — elected the Vol-1 keeper (echo-rulings #6); third
+   sentence of the close cut ("She did not feel herself holding it.");
+   "registered" kept and acked as the perceptual use.
+2. (merged into 1 — the trim above.)
+3. "The quiet was deliberate." — cut; ¶2 opens on "She wanted the door shut."
+4. "The not-standing was the move;" — KEPT against the finding: Randi's
+   room-reader voice, licensed by "understood it from the inside."
+5. "small" cluster — thinned at :51, :81, :89; the click, the :109 doubling,
+   and the :133 laugh keep theirs.
+6. "laugh that meant X" ×2 — kept as the chapter's designed laugh-anthropology.
+7. ", warmly" — cut from Brooke's third warmth token.

@@ -2447,6 +2447,13 @@ text = "Randi dropped into the seat on Vee's other side, the aisle side, so that
 note = "author-specified phrasing for Randi's scent"
 
 [[ok]]
+fp   = "c9a4366ae728"
+rule = "register-verb"
+file = "scenes/standards.md"
+text = "She had gotten very good, over twenty-one years, at the not-going; she had gotten so good at it that it no longer registered as an act, the way a held breath stops feeling held."
+note = "Line-edit ruling 2026-08-04: 'no longer registered as an act' kept — genuinely perceptual use (the act vanished from her own senses), Vee about herself, not the collector frame"
+
+[[ok]]
 fp   = "30cee1a108da"
 rule = "there-she-is"
 file = "scenes/still-life.md"

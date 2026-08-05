@@ -7,15 +7,15 @@ the echo shortlist with the author before per-chapter editing starts).
 | # | Chapter | Slug | State |
 |---|---|---|---|
 | 1 | The Bench | the-bench | reviewed |
-| 2 | Standards | standards | edited |
+| 2 | Standards | standards | reviewed |
 | 3 | The Pointing Game | the-pointing-game | edited |
 | 4 | See You Later | see-you-later | edited |
 | 5 | Substitution | substitution | edited |
-| 6 | The Long Way | long-way | pending |
-| 7 | Water Wings | water-wings | pending |
-| 8 | May I Choose | may-i-choose | pending |
-| 9 | Off Six-Fourteen | off-six-fourteen | pending |
-| 10 | Dear | dear | pending |
+| 6 | The Long Way | long-way | edited |
+| 7 | Water Wings | water-wings | edited |
+| 8 | May I Choose | may-i-choose | edited |
+| 9 | Off Six-Fourteen | off-six-fourteen | edited |
+| 10 | Dear | dear | edited |
 | 11 | Leave No Trace | leave-no-trace | pending |
 | 12 | Rye | rye | pending |
 | 13 | What to Wear | what-to-wear | pending |

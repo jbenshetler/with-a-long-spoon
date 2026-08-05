@@ -37,7 +37,10 @@ re-rule against their then-current text.
    Vol-1 occurrences (all-told, old-acquaintances) vary or cut at their
    chapters' reviews.
 6. **"a held breath" (6× / 6 ch) — FIX-AT.** Metaphor spent too often; keep
-   the strongest.
+   the strongest. **Vol-1 keeper ruled 2026-08-04: `standards.md:141`** (the
+   chapter close — the breath as subject, not decoration). The other Vol-1
+   occurrences (school-nights, sorority, under-the-rug) vary at their
+   chapters' reviews.
 7. **"plain fact of" (6× / 6 ch) — FIX-AT.** Interiority formula; vary.
 8. **"before she'd decided to" (8× / 6 ch) — PROTECT the construction, FIX-AT
    the exact wording.** Body-before-mind is the book's craft rule and this
@@ -77,3 +80,7 @@ re-rule against their then-current text.
 16. **"he did not" (36× / 11 ch) — PROTECTED as Pace's register.** Pace
     rendered in negative space — what he doesn't do — is architecture.
     Local pileups only may be raised.
+17. **"smile arranged" / the arranged smile (the-bench :543, standards :15,
+    :41) — PROTECTED (presumed design, 2026-08-04).** Randi's surface-
+    authoring verb: the post-mirror arranged smile carried into the next
+    morning. Do not flag or vary.

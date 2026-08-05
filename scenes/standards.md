@@ -2,7 +2,7 @@
 
 The door of the house was unlocked. It always was at this hour, the sisters drifting in and out for Pilates or coffee or brunch. Randi closed it behind her quietly, which was already wrong. Randi did not close doors quietly. She closed them with the small unhurried click of a woman who knew the room was hers.
 
-The quiet was deliberate. She wanted the door shut before anyone in the common room turned around, wanted to be at the stairs and up them before the house registered that she was only now coming in, in last night's clothes, on a Saturday.
+She wanted the door shut before anyone in the common room turned around, wanted to be at the stairs and up them before the house registered that she was only now coming in, in last night's clothes, on a Saturday.
 
 Through the archway from the foyer the common room was not empty. Saturday morning, before ten. There was usually one girl on the couch with a coffee and a laptop. There were three girls today. Sloane on the couch with the coffee and the laptop. Kinsey cross-legged on the rug with a bowl of cereal. And Brooke at the long table by the window with the chapter laptop and a coffee and the spreadsheet open — the morning admin she did at this hour every Saturday in this seat. Brooke looked up. Finished already, hair and face, at not-yet-ten on a Saturday — buffed and expensively kept, a woman who would one day be some CEO's third wife.
 
@@ -32,7 +32,7 @@ The fraction-of-a-second was longer. Randi felt the smile on her face holding th
 
 "I — went to a study group at first and then I just wanted somewhere quieter. There's the place on Wilson that stays open."
 
-"Mm, that place is so good for that," Brooke said, warmly. "I basically lived there sophomore year."
+"Mm, that place is so good for that," Brooke said. "I basically lived there sophomore year."
 
 The room had not moved. Sloane was watching the exchange without watching it. Kinsey's spoon was at her mouth and stayed there. Brooke let a beat sit, friendly, and then she glanced back at her laptop and clicked something, as if the paper were settled and she was already onto the next thing — and the next thing arrived without a seam.
 
@@ -48,7 +48,7 @@ Randi's smile arranged again.
 
 "Pace," said Brooke, like she was filing it.
 
-Sloane laughed her small laugh, the laugh that meant nothing on its own and was therefore available for anything. She set her coffee on the side table.
+Sloane laughed her laugh, the laugh that meant nothing on its own and was therefore available for anything. She set her coffee on the side table.
 
 "Wait — is that the white pickup I keep seeing parked behind Hahn?"
 
@@ -78,7 +78,7 @@ The fraction-of-a-second was wider here. Randi felt the room hold it.
 
 "No," she said. "Not his section."
 
-"Good," said Brooke, exhaling the small relief, the *thank god* exhale, the bright smile lifting. "I was about to be scandalized."
+"Good," said Brooke, exhaling the relief, the *thank god* exhale, the bright smile lifting. "I was about to be scandalized."
 
 "He's not — it's a different course. He's not anywhere near mine."
 
@@ -86,7 +86,7 @@ The fraction-of-a-second was wider here. Randi felt the room hold it.
 
 "It's fine."
 
-Kinsey, who had been waiting for the room to warm to her, leaned forward over her cereal bowl. The small bright laugh she had been holding came out.
+Kinsey, who had been waiting for the room to warm to her, leaned forward over her cereal bowl. The bright laugh she had been holding came out.
 
 "Okay but he's *cute*, right?" she said. "Like — short-cute? I feel like he's a short-cute."
 
@@ -138,4 +138,4 @@ It was not a key she could sing in. She did not let the thought continue. The th
 
 She lay under the duvet and looked at the ceiling and did not cry.
 
-It did not feel like a decision. The crying was there — she could feel where it was, the same place it had come from the night before in his bathroom, with her face in the mirror — and she did not go to it, and the not-going did not feel like holding a door shut. It felt like there being no door. She had gotten very good, over twenty-one years, at the not-going; she had gotten so good at it that it no longer registered as an act, the way a held breath stops feeling held. The breath was held. She did not feel herself holding it. She lay under the duvet on her back in last night's clothes, with the cardigan buttoned and the shoes on, and waited for nothing in particular, and the not-crying went on, and after a while she closed her eyes.
+It did not feel like a decision. The crying was there — she could feel where it was, the same place it had come from the night before in his bathroom, with her face in the mirror — and she did not go to it, and the not-going did not feel like holding a door shut. It felt like there being no door. She had gotten very good, over twenty-one years, at the not-going; she had gotten so good at it that it no longer registered as an act, the way a held breath stops feeling held. The breath was held. She lay under the duvet on her back in last night's clothes, with the cardigan buttoned and the shoes on, and waited for nothing in particular, and the not-crying went on, and after a while she closed her eyes.
