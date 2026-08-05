@@ -59,3 +59,21 @@ re-rule against their then-current text.
     governing grant-verb: permission as his mode of power. Not a tic — do not
     flag or vary; local pileups only (3+ in a page) may be raised. This also
     settles the "he let her" sentence-opener question: design, not tic.
+
+## Batch 2 (ruled 2026-08-04)
+
+13. **Rare-word inventory (§2) — reference-only.** No pre-rulings; editors
+    flag a reuse only when the word is genuinely striking diction (a word a
+    reader feels, spent twice), ruled per finding at chapter review. Set
+    dressing and ordinary nouns are never flagged off the list.
+14. **Sentence openers (§3) — end-of-pass linter harvest.** No pre-rulings;
+    editors flag only local pileups (3+ same-shaped openers in a page).
+    Confirmed tics enter `style/style-rules.toml` at pass end with the
+    author's sign-off. "she set the" is in this pile — mostly literal object
+    placement, not a protected motif (ruled 2026-08-04).
+15. **"it came out" (30× / 19 ch) — PROTECTED.** Speech betraying the
+    speaker is body-before-mind applied to the voice; design, not tic.
+    Local pileups only may be raised.
+16. **"he did not" (36× / 11 ch) — PROTECTED as Pace's register.** Pace
+    rendered in negative space — what he doesn't do — is architecture.
+    Local pileups only may be raised.
