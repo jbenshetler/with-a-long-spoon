@@ -3154,6 +3154,20 @@ text = "She stood naked in the middle of his bedroom and let him look at her, wh
 note = "looking motif — 'let him look at her' sets up the lights/looking engine; intended"
 
 [[ok]]
+fp   = "0e4c0a4c5cb4"
+rule = "register-verb"
+file = "scenes/the-bench.md"
+text = "They came down to his thighs, the outsides of them, and she pressed her palms against the muscle there and breathed out, the small audible breath, and her expression did the thing it did when she was registering something her social vocabulary did not give her a phrase for."
+note = "Line-edit ruling 2026-08-04: 'registering something her social vocabulary did not give her a phrase for' is the perfect use — the sentence is about her processing apparatus; the retired frame's other lap-sequence use was recast"
+
+[[ok]]
+fp   = "51dfbdf41e0b"
+rule = "register-verb"
+file = "scenes/the-bench.md"
+text = "He brought the hand around the front, sliding between the leg support and her body, and let his fingers travel up the inside of her thigh until the tips found the wetness — the slick heat of it, the small sound as his fingers parted the lips and registered the slick of her, the frank female smell of her rising between her legs and mixing with the warmer smell of her skin."
+note = "Line-edit ruling 2026-08-04: keep 'registered the slick of her' — the paired second use was cut; this one stands"
+
+[[ok]]
 fp   = "0ed5e65adaaf"
 rule = "the-way"
 file = "scenes/the-bench.md"

@@ -59,7 +59,9 @@ review the first `edited` chapter with the author.
    blindly), restate the problem, offer lettered options with a
    recommendation, and wait for the author's ruling before the next item.
    Any proposed replacement prose is shown verbatim and applied only on an
-   explicit "apply." Push back honestly when a finding is the voice, not a
+   explicit "apply" — and in both the finding quote and the before/after
+   proposal, **bold the exact span in question** so the author can see the
+   change area at a glance (author ruling 2026-08-04). Push back honestly when a finding is the voice, not a
    flaw — the book's register (spaced em dashes, fragments, recursive
    interiority) is the style sheet, and an editor flagging it is out of scope
    by definition. The editor over-flags by design.

@@ -6,11 +6,11 @@ the echo shortlist with the author before per-chapter editing starts).
 
 | # | Chapter | Slug | State |
 |---|---|---|---|
-| 1 | The Bench | the-bench | pending |
-| 2 | Standards | standards | pending |
-| 3 | The Pointing Game | the-pointing-game | pending |
-| 4 | See You Later | see-you-later | pending |
-| 5 | Substitution | substitution | pending |
+| 1 | The Bench | the-bench | reviewed |
+| 2 | Standards | standards | edited |
+| 3 | The Pointing Game | the-pointing-game | edited |
+| 4 | See You Later | see-you-later | edited |
+| 5 | Substitution | substitution | edited |
 | 6 | The Long Way | long-way | pending |
 | 7 | Water Wings | water-wings | pending |
 | 8 | May I Choose | may-i-choose | pending |

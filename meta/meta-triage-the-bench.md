@@ -6,6 +6,32 @@ Verdicts on the friction items derived from the panel. **The "Left standing" sec
 records authorial decisions — do not re-flag these without new evidence** (a new
 reader cohort snagging on the same spot, or an edit that re-opens the passage).
 
+## Line-edit pass (2026-08-04)
+
+14 items reviewed with the author (report: `audits/line-edit/the-bench.md`).
+Ten prose edits applied (repetition thinning: weight-shift beat, salt kiss
+moved to its earned arrival at the second forehead kiss, "athletic" moved to
+the escalation, heartbeat kept only at the coda's "finally," "registered the
+slick" pair cut/kept, lap-sequence beat recast as her subtle rocking, strike
+warmth recast as "the heat coming up under his palm," bench-tilt explaining
+tail cut at "designed for," hum coda trimmed to "she did not yet have a name
+for," "lovely/pleasantly" thinned, doubled walk-order cut). Durable rulings:
+
+- **"warm weight of them" (`:171`) — the Vol-1 keeper** (echo-rulings #5).
+- **"chasing what her body had just lost, before she'd decided to chase it"
+  (`:303`) — the Vol-1 keeper** (echo-rulings #8).
+- **"let her have" / "he let her" — PROTECTED book-wide** (echo-rulings #12):
+  Pace's governing grant-verb; do not flag.
+- **"registering" kept twice by ruling** (`:33`-area cost-register and the
+  social-vocabulary line) — acked in `style/style-allow.toml` with notes; the
+  retired-frame rule stands elsewhere.
+- **"She made a sound" density — no action:** the graded uses are a designed
+  system; only the two ungraded neutral uses would bear varying and the
+  author let them stand.
+- Auditor findings 6 (gloss/sweat density) and 9 ("the way" cluster) were
+  dropped as re-litigation of settled verdicts (gloss trim 2026-07-27;
+  acked the-way suppressions).
+
 ## Fixed
 
 - **Gloss motif over-hammered** (5.5; echoed 5.6-sol, 5.4-mini) — 8 tokens thinned
