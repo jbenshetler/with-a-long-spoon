@@ -80,6 +80,62 @@ items (now standard prep — see the command doc).
   by design (the dance floor is the metaphor's literal source); a thread, not
   an echo.
 
+## Narration-certainty pass (2026-08-05)
+
+Author-initiated: reduce spans where the narration *endorses or grades* Pace's
+certainty rather than inhabiting it. Distinct from the declined de-operator
+pass (that targeted his operator register, which stands); this targeted
+narrator-verifying-Pace spans, with cold-read evidence weighed per the
+enrichment step. Readers uniformly experience Pace's certainty as
+characterization ("he's certain he's giving her a gift" — opus, as praise of
+the effect), so this was a trim, not a recolor.
+
+### Fixed (certainty pass)
+
+- :29 "That was the honest part, the part he'd have told her if telling were
+  his grammar." cut — gpt-5.5 flagged the phrase as the book's intelligence
+  being "very visible."
+- :29 "by some old architecture he did not examine" → "by some old
+  architecture" — split evidence: claude-fable-5 called the full sentence "the
+  scariest thing in the book so far" (kept), gpt-5.5 called it "a warning label
+  applied directly to him" (the self-aware hedge cut). Ruled c): keep the
+  sentence, drop the examines-his-own-not-examining paradox.
+- :33 "Pleasure was not a trick. It was a true thing he was giving her — and
+  if it was also a bridge" → "If pleasure was also a bridge" — gpt-5.6-sol:
+  "the line where I most feel pressure from the narration"; the bridge
+  concession (fable-praised: "he's rationalizing, and half-believing it") kept.
+- :41 "the kind of thing a less attentive man would have missed entirely and
+  called her calm. He did not miss it." → "the kind of thing he might have
+  missed entirely if he had not been paying attention." — removes the
+  lesser-man ranking and the self-verifying tag.
+- :131 "— the girl was never who he was watching, Randi was —" cut —
+  claude-fable-5: "I'd already understood that; the line underlines it. Small
+  thumb on the scale."
+- :47 "and because he was built to see it" cut (post-edit re-run, same day) —
+  initially left standing, re-opened on convergent fresh evidence: the re-run
+  cohort snagged on this exact clause twice (claude-opus-4-8: "a hair too
+  pleased with Pace's perceptiveness, telling me he's a genius reader rather
+  than only showing it"; gpt-5.6-sol: "presses his special perceptiveness
+  hard, especially when the prior chapter showed how badly he missed Randi's
+  concealed distress"). Sentence now ends "because it was beautiful." The
+  "Same act. A different owner." payload it introduces remains protected.
+
+### Left standing (certainty pass)
+
+- **:7 "He knew the difference between a woman performing release and a woman
+  delivered to it."** — gpt-5.5 quoted it as "sexy as competence, but also
+  immediately controlling as certainty": the double read landing as designed.
+- **:43 "on another man it would have worked completely"** — HELD, not ruled:
+  revisit after the post-edit cold-read re-run if the lesser-man comparison
+  still reads as ranking.
+- **:37 "that mattered to him more than the answer did"** — opus argues with
+  it ("Does it, though? … The 'choice' is theater") — a reader distrusting
+  Pace, not the author; the certainty is generating the intended distrust.
+- **:47 "The same act. A different owner."** — the frame-analysis payload
+  stays protected (fable and sol quote it as the chapter's key insight); only
+  the introducing "built to see it" clause was cut (see Fixed, re-opened on
+  the post-edit re-run).
+
 ## Fixed
 
 - **Date/season conflict with the chronology** (audit item 1) — the scene said

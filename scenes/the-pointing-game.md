@@ -26,11 +26,11 @@ The question reached her body before it reached her, and it took her all at once
 
 So. There it was.
 
-He had not known, going in. That was the honest part, the part he'd have told her if telling were his grammar. He had wondered whether the idea would land in her as a transgression or as nothing. Many women would have laughed, or shrugged, or said *maybe someday* in the voice that means never. A few would have said a plain yes and meant it, and they were each their own carnal pleasure. But she had wanted it helplessly, ahead of herself, and that was the same as telling him she'd forbidden it. A wanting she allowed herself was only a wanting. A wanting she'd forbidden was a door. And he was, by some old architecture he did not examine, a man who could not leave a door like that closed once he'd seen it was there.
+He had not known, going in. He had wondered whether the idea would land in her as a transgression or as nothing. Many women would have laughed, or shrugged, or said *maybe someday* in the voice that means never. A few would have said a plain yes and meant it, and they were each their own carnal pleasure. But she had wanted it helplessly, ahead of herself, and that was the same as telling him she'd forbidden it. A wanting she allowed herself was only a wanting. A wanting she'd forbidden was a door. And he was, by some old architecture, a man who could not leave a door like that closed once he'd seen it was there.
 
 He worked the third one out of her deliberately, slowly, giving her more than she'd asked for. He was closer than he let on. It had gone through him too, that a single question had taken all that control out from under her, and he changed his rhythm to stay off the edge. She had more in her yet, and he meant her to have every joy while the question still hung in the room; his own he would take last, and the waiting would only sharpen it. He drew his head back to see her, touched her face with his fingertips, and kissed her, slow and tender, for no reason but that he wanted to.
 
-Her body wanted this; her mind had not yet caught up to it. Pleasure was not a trick. It was a true thing he was giving her — and if it was also a bridge, then let the wanting simply feel good in her, good enough that the good feeling and the wanting became one fact.
+Her body wanted this; her mind had not yet caught up to it. If pleasure was also a bridge, then let the wanting simply feel good in her, good enough that the good feeling and the wanting became one fact.
 
 Afterward they lay tangled and quiet. She was wrung out and heavy against him, contented, and he was glad of it; he had never needed to fill a silence. For a while they were there, only the two of them, and it was more than enough.
 
@@ -38,13 +38,13 @@ The real question waited for the heat to leave the room, her breath to come down
 
 "Do you actually want to taste another woman?"
 
-He watched her understand it. He saw the precise instant the words stopped being something said in bed and became something asked — and she flinched. Barely. A shiver under the skin, gone almost before it arrived, the kind of thing a less attentive man would have missed entirely and called her calm. He did not miss it. The want had shown itself before she could dress it as anything.
+He watched her understand it. He saw the precise instant the words stopped being something said in bed and became something asked — and she flinched. Barely. A shiver under the skin, gone almost before it arrived, the kind of thing he might have missed entirely if he had not been paying attention. The want had shown itself before she could dress it as anything.
 
 Then she came back. He admired it, a little, even as he saw through it: she gathered herself and reached for the warm lower register, trailed one finger down his chest, tilted into him and pressed a slow kiss to his jaw. It was good. It was practiced and it was warm and it was not cartoonish, and on another man it would have worked completely; he'd have felt seduced and forgotten he'd asked anything at all.
 
 "Only in a threesome," she said against his throat, smiling, all silk. "With you."
 
-And he understood what she had done, because it was beautiful and because he was built to see it. She had not taken back the wanting — she could not, her body had said it twice and she knew he'd heard. She had moved it. She had handed the appetite to him and made herself its generous instrument: not a woman who hungered for another woman, which was unsurvivable, but a girlfriend offering her man a gift, which was merely sexy. The same act. A different owner. She could live inside the second version. She could not live inside the first.
+And he understood what she had done, because it was beautiful. She had not taken back the wanting — she could not, her body had said it twice and she knew he'd heard. She had moved it. She had handed the appetite to him and made herself its generous instrument: not a woman who hungered for another woman, which was unsurvivable, but a girlfriend offering her man a gift, which was merely sexy. The same act. A different owner. She could live inside the second version. She could not live inside the first.
 
 He let her have the frame. He even felt the rightness of it settle in his chest — because the frame she'd built to hide in was the exact frame he needed to proceed. A threesome, with him. He would not have to find her a woman for her transgression. He would find a woman for *theirs*. She could say yes to every step of it and never once have to say the thing she'd already shown him.
 
@@ -128,7 +128,7 @@ She came out of the dining hall and drew the eye as nothing else on the quad had
 
 "Her," Pace said, and pointed.
 
-He had his eyes on Randi when he said it, not on the girl by the doors — the girl was never who he was watching, Randi was — so he saw it land. He saw the answer come up out of her before she made it a sentence — saw her stop, fully, the loose afternoon walk arrested mid-step, the half-stride dropping out from under her. And then she did the thing she had not done once all afternoon: she did not look away. Every other woman she had weighed and released, her attention moving on; this one held her where she stood, her eyes staying and staying on the red-haired girl as if pulled, the coil he'd felt in her frame all down the library walk releasing now into pure helpless looking. There was no managing in it. The follow had felt the music and broken frame before the lead called the step.
+He had his eyes on Randi when he said it, not on the girl by the doors — so he saw it land. He saw the answer come up out of her before she made it a sentence — saw her stop, fully, the loose afternoon walk arrested mid-step, the half-stride dropping out from under her. And then she did the thing she had not done once all afternoon: she did not look away. Every other woman she had weighed and released, her attention moving on; this one held her where she stood, her eyes staying and staying on the red-haired girl as if pulled, the coil he'd felt in her frame all down the library walk releasing now into pure helpless looking. There was no managing in it. The follow had felt the music and broken frame before the lead called the step.
 
 "Yes," she said. The word came out alone, with nothing around it — the bare arrival of a thing already true before she got to it.
 
