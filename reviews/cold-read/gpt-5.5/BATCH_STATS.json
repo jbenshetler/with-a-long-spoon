@@ -4,25 +4,25 @@
   "completed": 1,
   "generated": 1,
   "skipped": 0,
-  "total_cost": 0.38316,
-  "total_input": 14790,
-  "total_output": 10307,
-  "total_tokens": 25097,
+  "total_cost": 0.52845,
+  "total_input": 16356,
+  "total_output": 14889,
+  "total_tokens": 31245,
   "per_chapter": [
     {
-      "slug": "the-pointing-game",
-      "title": "The Pointing Game",
+      "slug": "see-you-later",
+      "title": "See You Later",
       "status": "generated",
-      "cost": 0.38316,
-      "input": 14790,
-      "output": 10307,
-      "totalTokens": 25097,
-      "promptTokens": 14790,
-      "reasoningTokens": 19,
+      "cost": 0.52845,
+      "input": 16356,
+      "output": 14889,
+      "totalTokens": 31245,
+      "promptTokens": 16356,
+      "reasoningTokens": 30,
       "cacheRead": 0,
-      "duration_s": 145.7,
-      "wall_s": 145.7,
-      "path": "reviews/cold-read/gpt-5.5/the-pointing-game.md"
+      "duration_s": 194.3,
+      "wall_s": 194.3,
+      "path": "reviews/cold-read/gpt-5.5/see-you-later.md"
     }
   ]
 }

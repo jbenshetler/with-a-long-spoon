@@ -8,9 +8,9 @@ The stats lecture met in one of the tiered rooms on the second floor of the math
 
 Vee got her notebook open and her pencil out and did not look at the door. She had decided not to look at the door. She had decided this on the walk over, and again on the stairs, and was now in the third minute of not looking at the door.
 
-She had met Randi yesterday. She'd been coming out of the dining hall with Meg from her floor, dark-haired, unhurried Meg, mid-laugh, not thinking about anything, when a girl walked into her. Or she walked into the girl; it had genuinely not been clear, one of those collisions where both people apologize and neither one did it. Vee had looked up to say sorry and forgotten to. The girl was simply better than the morning around her: better lit, better put together, wearing her clothes like they'd been made for her. Vee had never seen her before. She knew inside a second that she was somebody, the kind of somebody a campus orbits, the kind Vee would have given a lot to be standing next to.
+She had met Randi yesterday. She'd been coming out of the dining hall with Meg from her floor, dark-haired, easygoing Meg, mid-laugh, not thinking about anything, when a girl walked into her. Or she walked into the girl; it had genuinely not been clear, one of those collisions where both people apologize and neither one did it. Vee had looked up to say sorry and forgotten to. The girl was simply better than the morning around her: better lit, better put together, wearing her clothes like they'd been made for her. Vee had never seen her before. She knew inside a second that she was somebody, the kind of somebody a campus orbits, the kind Vee would have given a lot to be standing next to.
 
-And then the girl had smiled at her, and been *warm*, immediately, completely, and had touched Vee's arm and laughed at the thing Vee said and asked what she was studying. Her name was Randi. Somewhere in the two minutes on the lawn it came out that they had this class together, this exact class, and Randi had said *oh my god, we should sit together* like it was a thing she'd been hoping for. Vee had walked back to her dorm not feeling her feet. She'd carried the morning of it like an hour she'd been let borrow inside a brighter, better-lit life, and she wanted more of it already.
+And then the girl had smiled at her, and been *warm*, immediately, completely, and had touched Vee's arm and laughed at the thing Vee said and asked what she was studying. Her name was Randi. Somewhere in the two minutes on the lawn it came out that they had this class together, this exact class, and Randi had said *oh my god, we should sit together* like it was a thing she'd been hoping for. Vee had walked back to her dorm not feeling her feet. She'd carried the morning of it like an hour she'd been let borrow inside a brighter life, and she wanted more of it already.
 
 She had not, in the day since, decided whether *we should sit together* was a thing Randi had meant or a thing Randi said. She had run it both ways enough times to wear a groove.
 
@@ -30,7 +30,7 @@ She was at the end of the row. She had come in the back, which Vee had not thoug
 
 "Hi," Vee said, and heard it come out a half-step too bright, and could not do anything about it.
 
-"I almost didn't find you. This room is a *cave*." Randi dropped into the seat on Vee's other side, the aisle side, so that Vee was between her and Cassie now, and a warm wave of her came with it, citrus, not sweet. Vee noticed clothes, always had, and Randi had dressed for a Wednesday-morning stats lecture like it was somewhere worth being seen: everything easy and exact and none of it cheap. Her face was done, lightly, with the kind of light hand that takes skill and time and money to manage. And she was already reaching to squeeze Vee's forearm, once, as she had on the lawn. "Okay. You're one of those people who has the right pen and everything. I love that. I'm going to copy off you all semester, I'm just telling you now so it's not weird later."
+"I almost didn't find you. This room is a *cave*." Randi dropped into the seat on Vee's other side, the aisle side, so that Vee was between her and Cassie now, and a warm wave of her came with it, citrus, not sweet. Vee noticed clothes, always had, and Randi had dressed for a Wednesday-morning stats lecture like it was somewhere worth being seen: everything easy and exact and none of it cheap. Her face was done, with the kind of light hand that takes skill and time and money to manage. And she was already reaching to squeeze Vee's forearm, once, as she had on the lawn. "Okay. You're one of those people who has the right pen and everything. I love that. I'm going to copy off you all semester, I'm just telling you now so it's not weird later."
 
 Vee laughed. *The right pen.* A nothing thing to say, and it warmed her like praise she'd worked for.
 
@@ -44,9 +44,9 @@ Cassie looked at her for a second.
 
 "Cassie," Cassie said.
 
-That was all. She didn't hand anything back. She didn't take the bit's open door — didn't do the *oh, mine's a whole thing too* that the bit was built to be answered with — she just put her name down flat in the space, one word, and picked her pencil back up.
+That was all. She didn't take the bit's open door — didn't do the *oh, mine's a whole thing too* that the bit was built to be answered with — she just put her name down flat in the space, one word, and picked her pencil back up.
 
-Vee felt the small hitch of it, the place where the rhythm was supposed to keep going and didn't, and her own social fluency came up under it before she'd decided anything, as it always did when a beat ran a half-second long. "Cassie says about four words a day," she said, leaning in, making it warm, making it a feature. "You'll learn to read them like tea leaves."
+Vee felt the small hitch of it, the place where the rhythm was supposed to keep going and didn't, and her own social fluency came up under it before she'd decided anything, as it always did when a beat ran long. "Cassie says about four words a day," she said, leaning in, making it warm, making it a feature. "You'll learn to read them like tea leaves."
 
 "That's *amazing*," Randi said, delighted, taking the flat little *Cassie* as if it were the best thing anyone had handed her all morning. "I *need* that. I say four hundred words a day minimum and like nine of them land."
 
@@ -54,7 +54,7 @@ The warmth stayed generous with Cassie, a question sent her way, a laugh, an ope
 
 The professor said good morning and the room came down to a murmur and then to nothing.
 
-He was a soft-spoken man with a laser pointer he over-used, and he talked about residuals for fifty minutes, and Vee took notes for some of it. She meant to take notes for all of it. But Randi was a presence at her right elbow the whole hour — recrossing her legs, writing something, leaning in once to whisper *wait is this going to be on the thing* with her breath warm and citrus and her shoulder against Vee's shoulder, and Vee whispering back *the midterm, yeah* and feeling, absurdly, like she had been given something to do, a small office, *the one who knows things,* and doing it gladly. The professor's voice went on at the front, even and low, and somewhere around the third graph it stopped being words and became the sound a class makes, the drone you surface from to copy a definition and sink back under. Vee surfaced. Vee sank. The clean thing she was usually good at — the structure under the numbers, the pleasure of the problem opening — was there at the front of the room being explained to her and she was letting it go by like scenery, because the better thing was right here at her elbow, costing her nothing, smelling like cold citrus, occasionally touching her arm.
+He was a soft-spoken man with a laser pointer he over-used, and he talked about residuals for fifty minutes, and Vee took notes for some of it. She meant to take notes for all of it. But Randi was a presence at her right elbow the whole hour — recrossing her legs, writing something, leaning in once to whisper *wait is this going to be on the thing* with her breath warm and her shoulder against Vee's shoulder, and Vee whispering back *the midterm, yeah* and feeling, absurdly, like she had been given something to do, a small office, *the one who knows things,* and doing it gladly. The professor's voice went on at the front, even and low, and somewhere around the third graph it stopped being words and became the sound a class makes, the drone you surface from to copy a definition and sink back under. Vee surfaced. Vee sank. The clean thing she was usually good at — the structure under the numbers, the pleasure of the problem opening — was there at the front of the room being explained to her and she was letting it go by like scenery, because the better thing was right here at her elbow, costing her nothing, smelling like cold citrus, occasionally touching her arm.
 
 "All right," the professor said, and the room made its small collective shift, sensing the end. "That's us. Next time we get into the interesting part — *latent variables*. The factors you can't measure directly, that you have to infer from the ones you can." He was already pulling his slides closed. "Read the chapter. It's shorter than it looks. See you Friday."
 
@@ -64,11 +64,11 @@ Randi was getting up.
 
 "Okay, I'm *dying*," Randi said, slinging her bag across her. "I cannot do another thing until I've had coffee. Come to Chi Latte with me. Both of you. Have you been? It's two blocks, it's the yellow one on Draper, they do this thing with the—you have to come, I'm not asking, I've decided."
 
-*Chi Latte.* Vee had been past it forty times. It was the one with the line out the door on game days, the one where the photos got taken, the one she had looked at through the window once while waiting for a bus and not gone into because going into it alone felt like walking into someone's party that you hadn't been invited to. *I've decided.* Vee felt the *yes* arrive in her chest fully formed, ahead of everything, and she made herself wait one full beat so it would not come out the size it actually was.
+*Chi Latte.* She knew it. It was the one with the line out the door on game days, the one where the photos got taken, the one she had looked at through the window once and not gone into because going into it alone felt like walking into someone's party that you hadn't been invited to. *I've decided.* Vee felt the *yes* arrive in her chest fully formed, ahead of everything, and she made herself wait one full beat so it would not come out the size it actually was.
 
 "Yeah," she said, and got most of the eagerness folded down. "Yeah, sure, I could do coffee."
 
-"*Yes*." Randi turned the wattage. "Okay, good, this is the best decision I've made all day and it's eleven-fifty." Then, to Cassie, the warmth swinging over again, generous, complete: "Cassie. Come."
+"*Yes*." Randi turned the wattage. "Okay, good, this is the best decision I've made all day and it's eleven-fifty." Then, to Cassie, the warmth swinging over again, with nothing held back: "Cassie. Come."
 
 Cassie was already standing, the wrong textbook back in her bag, her ball cap pulled out of the side pocket and set on her head, the brim low. She was in shorts and yesterday's shirt and the cap and she looked exactly like what she was, which was a person who had a lab at noon and no particular feelings about the yellow one on Draper.
 
@@ -76,7 +76,7 @@ Cassie was already standing, the wrong textbook back in her bag, her ball cap pu
 
 "Are you *sure*, we'll wait—"
 
-"I'm good." And she meant it, too — there was nothing in it, no sulk, no edge, just a person declining a thing that wasn't hers in a voice with nothing in it but the fact. She hitched her bag up and looked at Vee, and something passed over her face, brief, that Vee would not have been able to name and did not try to.
+"I'm good." And she meant it, too — no sulk, no edge, just a person declining a thing that wasn't hers in a voice with nothing in it but the fact. She hitched her bag up and looked at Vee, and something passed over her face, brief, that Vee would not have been able to name and did not try to.
 
 "Have fun," Cassie said. And then, plainly, as she said everything: "Goodbye, Vee."
 
@@ -88,17 +88,17 @@ It landed a little wrong. *Goodbye* — not *see you later,* not *text me,* not 
 
 ---
 
-The sign was the first thing. It hung over the door on Draper, gold letters on a black field, and Vee had read it forty times from the bus stop without really reading it, and she read it now, walking up under it with Randi, and the letters resolved as they hadn't before, because she had the sound in her ear now from Randi's mouth:
+The sign was the first thing. It hung over the door on Draper, gold letters on a black field, and Vee had passed under it forty times without really reading it, and she read it now, walking up under it with Randi, and the letters resolved as they hadn't before, because she had the sound in her ear now from Randi's mouth:
 
 **Χ ΛΑΤΕ**
 
-The Greek first — the big crossed *Chi* she knew from the frat and sorority signs she'd walked past for two years and never once sounded out — and then the rest tipping over into English in her mouth, *chi, latte,* the joke arriving a half-second after the alphabet, the way a thing is funny only once you're allowed in on it. She had stood outside this exact joke. Now she was walking under it with Randi holding the door, and the small private fact of that went through her warm and complete.
+The Greek first — the big crossed *Chi* she knew from the frat and sorority signs she'd walked past for two years and never once sounded out — and then the rest tipping over into English in her mouth, *chi, latte,* the joke arriving a half-second after the alphabet, the way a thing is funny only once you're allowed in on it. She had stood outside this exact joke. Now she was walking under it with Randi holding the door, and that small fact went through her, warm, all the way down.
 
 Inside it was yellow and white, bright as a kitchen in a commercial, the walls a soft butter color and the tables and the cups all white, the chalkboard menu done in careful hand-lettering with little drawings, the whole place smelling of coffee and of chocolate, dark and warm and close, the smell you'd want to live in. And under the smell, the sound — spoons going against the insides of cups, all over the room, an irregular ringing, everyone stirring up the sweetness at the bottom of their drinks.
 
 It was full of girls. Vee read the room as she always did a room she wasn't sure of, which was all at once and in detail, taking its measure to find her own place in it.
 
-They were the Chi Latte girls, which was to say the kind other girls measured themselves against. Down the long banquette under the window, four of them in a cluster, all in the leggings that everyone had that year and the cropped quarter-zips, three in the sage and one in a dusty mauve, hair up in the big scrunchies, faces done lightly and exactly, the matched uniformed prettiness of girls who had gotten ready together and would leave together.
+They were the Chi Latte girls, which was to say the kind other girls measured themselves against. Down the long banquette under the window, four of them in a cluster, all in the leggings that everyone had that year and the cropped quarter-zips, three in the sage and one in a dusty mauve, hair up in the big scrunchies, faces done exactly and a shade too loudly, the matched uniformed prettiness of girls who had gotten ready together and would leave together.
 
 Two at the bar by the window in barely anything — a sports bra and a little open shirt over it on one, the cropped tank and the low waistband with the brand showing on the other — bare midriffs, a lot of leg, worked-for bodies deliberately underdressed and wanting to be seen. *Floozies,* Vee thought, the word arriving whole and in her mother's voice before she had finished forming the picture.
 
@@ -114,7 +114,7 @@ Because Randi wasn't in it. The rest of them were performing for the room, dress
 
 "They had the lavender thing," Randi said, handing it over. "Trust me. Come on, the high table's open, I love the high table."
 
-The high table was by the window, two stools, tall. Vee had seen girls perched up there through the glass from the bus stop, up at the bright window like something in a display, and she had thought *that's where you sit if you belong here,* and now Randi was patting the stool, and Vee took it in a single clean motion. Her body knew how to do this much. What she wasn't ready for was being suddenly up and lit in the window, feet off the floor, her body presented at the height the whole room could see. Then she was level with Randi, knees nearly touching, the latte warm in both her hands, and she was a girl at the high table at Chi Latte. She had a sip of the lavender thing. It was good. Of course it was good.
+The high table was by the window, two stools, tall. Vee had seen girls perched up there, up at the bright window like something in a display, and she had thought *that's where you sit if you belong here,* and now Randi was patting the stool, and Vee took it in a single clean motion. Her body knew how to do this much. What she wasn't ready for was being suddenly up in the window, feet off the floor, her body presented at the height the whole room could see. Then she was level with Randi, knees nearly touching, the latte warm in both her hands, and she was a girl at the high table at Chi Latte. She had a sip of the lavender thing. It was good. Of course it was good.
 
 They talked, and at first Vee could hold onto it, the ordinary opening moves of two people finding the shape of each other. She'd asked who Randi roomed with, and Randi didn't room with anyone; she had her own room, and said it like it was nothing, already moving on. Vee said *oh, nice.* But something in her shifted. Vee didn't know the houses, couldn't have named one, but she knew what she'd just been handed: Randi wasn't only in that house, she was near the top of it, and she'd turned all that warmth on Vee anyway.
 
@@ -122,7 +122,7 @@ And then Randi *really* talked, and Vee listened, and this was the part she woul
 
 She tried, later — on the walk home, that night, the next day when Cassie asked how it was — to reconstruct what they had actually talked about, and she could not do it. She could get the *shape* of it: that Randi was funny, that Randi told a story about a sister in the house and a parking ticket that had made Vee laugh hard enough to put her cup down, that Randi asked her things and seemed to want the answers, that there was a stretch about a guy and a stretch where Randi said something so flattering and so offhand that Vee had felt it go in like a key in a lock. But the *words* were gone. She had hung on every one of them in the moment — had leaned in, had laughed, had felt clever and chosen and lit up at the window in the sweet-smelling yellow room with the spoons ringing all around — and somehow the leaning-in was the whole content, and the words it had been leaning toward had not stayed. She had not been keeping the words. She had been keeping the feeling, which was the feeling of being a person who got to sit at this table with this girl, and the feeling was total and the transcript was blank.
 
-It was the best hour she'd had in months. She could not have told you a thing that was said in it.
+It was the best hour she'd had in months.
 
 When the cups were empty Randi looked at her phone and said *oh no, I have a meeting,* in the voice of someone genuinely sorry, and they climbed down off the stools, and out on the sidewalk under the gold Greek sign Randi pulled her into a hug — quick, warm, complete, the cold-citrus smell of her and a hand flat between Vee's shoulder blades for one second — and pulled back holding Vee by the upper arms and looked at her with the whole lit face.
 

@@ -6,122 +6,116 @@
 
 # Felt read
 
-So this is the chapter I've been braced for since the pointing game — Vee's interior, finally opened — and reading it did exactly what I feared and hoped: it made her real, and it made me sick with tenderness. She's not a lush laughing prop across a quad anymore. She's a girl in the third minute of not looking at a door, writing the date at the top of a page "so that her hand would have somewhere to be." That line undid me a little. That's the whole ache of it — a person managing her own hope so it won't show its true size.
+This is the first time I've been *inside* Vee, and it changes the temperature of the whole book. Everything I've watched get engineered — the collision, the shared stats class, the "let's go feed you" — I now get to feel from the receiving end, and it's worse and sweeter than I braced for. She's not naive in a dumb way. She's *sharp*: she reads the room at Chi Latte with real precision, she clocks that Randi lives near the top of some house and turned the warmth on her anyway, she even runs "we should sit together" both ways enough to "wear a groove." She's smart enough to know she's being flattered and it doesn't matter at all. That's the ache. The intelligence doesn't protect her; it just narrates her own falling.
 
-And what kills me is that everything I've watched Pace and Randi *build* is now landing on her from the inside, and it feels **good**, and I can't warn her. The "**There you are**" — Randi's line, or Pace's line, the one I've flagged twice as his reading-the-real-you skill — comes out of Randi's mouth here as she finds Vee in the row. I felt that as a cold little drop. It's the phrase of the person who sees the real you under the performance, and it's being deployed as an entrance. Whether Randi even knows she's using his instrument, I can't tell, and that ambiguity is doing a lot to me.
+The detail that undid me: **"somehow the leaning-in was the whole content, and the words it had been leaning toward had not stayed... the feeling was total and the transcript was blank."** That's the trap made physical. She can't even audit what happened to her because she wasn't keeping the words, only the feeling of being chosen. A whole hour and no evidence. It's the cleanest picture yet of how this thing works — it leaves no transcript.
 
-The whole hour at Chi Latte works the way the bench worked in reverse: I'm watching craft I now recognize — the warmth that "returns" to the chosen one, the arm-squeeze repeated from the lawn, the story that makes her put her cup down, the offhand flattery that "went in like a key in a lock" (there it is, my irreversible-threshold image from Randi's own ribs in chapter one, now turning in Vee) — and Vee experiences all of it as being *chosen, plainly, for reasons she didn't need to understand.* The transcript being blank is the most honest thing in the chapter: "the leaning-in was the whole content." That's how seduction actually feels from inside, and it's also, horribly, evidence — she remembers the feeling and not one word, which is exactly what makes a person defenseless.
+And then **Cassie.** Cassie is doing something to me that I don't think Vee registered and I did. She won't take the bit's open door — puts her name down "flat in the space, one word." She declines coffee with "no sulk, no edge." And then: **"Goodbye, Vee."** The whole word. Not *see you later.* Vee feels it as "a stair that isn't where your foot expected" and smooths it over — but I couldn't smooth it. Cassie *sees* Randi. She doesn't take the door because she recognizes the door. That flat "Goodbye" read to me like someone watching a friend get taken and knowing she can't stop it, marking the moment. It gave me a chill the chapter otherwise kept warm.
 
-**Randi.** My feeling moved, and not in a comfortable direction. From Vee's side she is pure gift — funny, generous, warm even to silent Cassie. But I've read chapter two. I know the wattage is a dial. So I sat in a double exposure the whole chapter: the girl Vee sees, and the operator I've watched dissociate and relocate her own wants. And here's the thing that genuinely unsettled me — I couldn't always find the seam. When Randi laughs hard and squeezes an arm, is that the performance or is it real? The jacket promised me "both are falling as hard as she is," and this chapter is the first place I *believe* that could be true, because Randi's warmth here doesn't read as effortful. That's worse, somehow. If it's genuine, the trap has caught the trapper too.
+There's a beautiful cruelty in **"There you are."** That's Pace's line to Randi from the very first chapter — the thing he said when he broke her performance and got the bare real her. And now *Randi* says it to Vee across the lecture hall. The hunter's phrase, handed down. I don't think Randi even knows she's echoing him. That one landed like a cold drop in warm water.
 
-**Pace** isn't on the page at all, and I felt his absence as a kind of pressure. "There you are" carries him into the room. This is his hunt being executed by his lover, and he's nowhere to be seen — which made me trust the whole enterprise even less.
+On Randi: I'm split worse than before. In the pointing game I could still tell myself she was a co-conspirator. Here she's so *good* — the wattage swinging over to include Cassie, undimmed, the parking-ticket story, "love you, girl" — that I can't fully hate it, because some of it might be real, and that's the horror. She's warm to Cassie who gives her *nothing*. Is that genuine generosity, or is it that she can't turn it off, it's just her instrument? I can't tell, and I don't think Vee ever will.
 
-**Cassie** is the new one, and she's the chapter's quiet alarm bell. She refuses the bit. Randi's little "not *Randy*" routine has "a place at the end where the other person was supposed to laugh and hand their own name back," and Cassie just "put her name down flat in the space, one word." She reads Randi instantly and declines her. And then — "**Goodbye, Vee**." Not *see you later*, not *bye* — "the whole word, flat and finished, the word for a longer parting than a Monday." Vee feels it "the way you feel a stair that isn't where your foot expected," and smooths it away. That landed on me hard. Cassie sees something. Cassie is the person in this book so far who is immune to the warmth and can therefore perceive the machine. Whether she knows what she's seeing or just feels wrongness, she said goodbye like Vee is going somewhere.
+The **"floozies"** beat is one of the best things in the book so far. Her mother's voice arriving "whole" ahead of her own thought, then the longer beat of actual looking underneath — "the sprinter's cut of the leaner one's stomach" — the wanting she covers with a cardigan she chose this morning "and the room did not know it was a choice, and she let it not know." That's Vee's whole architecture in one paragraph: desire buried under an inherited word, shame policing the body, the covering performed as if it weren't a performance. And the jacket promised exactly this — "the shames she was raised to bury." Watching Randi be the one who'll dig them out, I'm braced.
 
-**Erotic charge:** low and deliberately so — this is a seduction with no sex in it, and it's the more effective for that. Where it got closest to heat was Vee reading the "floozies" at the bar: her mother's word arriving whole, and under it "a longer beat of looking than the word accounted for — the sprinter's cut of the leaner one's stomach." That's the taste-thread, the wanting-she'd-been-raised-to-bury, surfacing in Vee herself now — she looks at women's bodies and shuts the picture with her mother's voice. That was the one nakedly erotic current, and it's the exact door Pace collects. I felt the setup click without the chapter telegraphing it.
+**Erotic charge:** low and that's right — this is a seduction with no sex in it, all displacement. The charge lives in "flat helpless want," the knees nearly touching, the hand flat between her shoulder blades. It's romantic-erotic, not physical, and it works precisely because Vee doesn't call it want-want. When she looks at Randi and "all of it went quiet" — that's a crush rendered honestly. I felt it.
 
-**Friction:** very little. Once or twice the summary-voice at Chi Latte ("this was the part she would not be able to give back," "she tried, later... and she could not do it") tips slightly into telling me the significance rather than letting me sit in it — but honestly it's rendering a real phenomenon (the blank transcript) so precisely that I forgave it. The "floozies" beat with the mother's voice is doing double duty and I could feel the machinery a hair, but it's true to what I know of how this book puts inheritance in a person's mouth.
+**Friction:** almost none. If I press, the queen-imagery gets laid on a touch thick near the end — "the queen having decided there would be a later" — but it's Vee's own inflation, so I forgive it. The chapter earns its length; the lecture drone ("Vee surfaced. Vee sank") is doing real work, showing the good clean thing she's actually good at going by "like scenery" because Randi costs her nothing.
 
-**The title.** "See You Later" — Randi's parting line, delivered as "flat fact, a thing already scheduled in some calendar Vee couldn't see." And it sits in direct, awful rhyme with Cassie's "Goodbye, Vee." One person promises a *later* Vee can't see the shape of; the other says goodbye like there won't be one, or not the kind Vee thinks. The title is innocuous on its face — the sweetest thing a new friend says — and the chapter loaded it so that on second glance it reads as the queen scheduling Vee into a future Vee isn't allowed to know the terms of. It didn't give anything away going in; it recolored on the way out. That's the good kind.
+**Title — "See You Later":** it's Randi's parting line, and set directly against Cassie's "Goodbye," it's the whole chapter. Randi's "see you later" is "flat fact, a thing already scheduled in some calendar Vee couldn't see" — which is *exactly true* in a way Vee can't know: there IS a calendar, and she's on it, and it isn't hers. The title sounds like the friendliest phrase in the world and points straight at the machinery. On reread it'll sting worse. Cassie's "Goodbye" is the truer word for what's actually beginning. The title gave nothing away going in; coming out, it's a small blade.
 
-**The book title and tagline.** "Every yes was freely given. That was the trap." — this chapter is the cleanest illustration yet. Every yes here is Vee's: yes to the seat, yes to coffee, yes to the high table, the "*yes* arrive[d] in her chest fully formed" and she "made herself wait one full beat so it would not come out the size it actually was." Freely, gladly given — and I'm the only one in the room who knows it was engineered on a quad the day before. *With a Long Spoon* — "sup with the devil with a long spoon" — still hums under everything: the ones who came to the meal thinking distance keeps them safe. I keep wondering who ends up needing the long spoon most.
+**Book title / tagline:** "Every yes was freely given. That was the trap." — this chapter is the purest demonstration so far. Vee's "yes" to coffee arrives "fully formed, ahead of everything," and she makes herself *wait a beat so it won't come out the size it actually was.* Freely given, wildly wanting, and she doesn't even know there's a game. The "long spoon" — you sup with the devil with a long spoon — I keep feeling it as: the ones who set the table know to keep their distance, and the girl brought to it has no spoon at all.
 
-**What I want / dread next:** I want to know what Cassie saw. I dread the moment Vee's body-looking (the floozies) gets found and used. And I'm braced for Pace to re-enter — because so far Vee has met exactly one of her two hunters, and doesn't know the second exists, or the first. *Guess from here:* the next Vee-thread beat is Randi deepening the friendship — "drawing out the shames she was raised to bury," as the jacket said — and I suspect the mother's-voice material (the cardigan over the better shirt) is what Randi will go mining for.
+**What I want / dread next:** I want more Cassie — she's the only clear-eyed person in the room and I want to know what she saw. I dread Pace entering Vee's world, because right now Vee thinks this is a friendship. *Guess from here:* Pace stays offstage in Vee's line of sight for a while; Randi is the whole door, and he comes through it much later, once Vee's already inside. And I'm watching, per the jacket, for the founders to fall — nothing cracked in Randi here that she'd admit, but the ease with which she said "There you are" makes me wonder if she even knows whose voice she's using.
 
 ---
 
-**Cast present (in person):** Vee, Randi, Cassie. Mentioned-only: Meg (Vee's floor), the stats professor (present but unnamed, functionally scenery), Pace (not present, carried in by "There you are"), Randi's dad (in the name-bit).
+**Cast present (in person):** Vee (POV), Randi, Cassie. Mentioned-only: Meg (Vee's floormate, at the collision), Pace (not named but the offstage architect), the professor (functionary), Vee's mother (interior voice).
 
-**Heat:** 1 — no sex; the one charged current is Vee's suppressed body-looking at the underdressed girls, shut down by her mother's voice.
+**Heat:** 1 — no sex; charged throughout with displaced want (knees, the hand between shoulder blades, "flat helpless want").
 
-**Romance:** 2 — one-sided but real: Vee's flat helpless want for Randi, the hug, "love you, girl." Tender and glowing from Vee's side; from Randi's, unreadable.
+**Romance:** 3 for the Vee→Randi bond specifically — this is a full romantic infatuation peak, one-sided-known: chosen, lit up, "the best hour she'd had in months." A turn in the bond, even if only Vee feels it as one.
 
 **Motifs & images:**
-- *"There you are" / reading the real you* — **repeat** (Pace's phrase/skill, ch.1 & ch.3); now spoken by Randi as her entrance to Vee. Big.
-- *"key in a lock" / irreversible threshold* — **repeat** (Randi's ribs, ch.1); now turns in Vee at Randi's offhand flattery.
-- *Being looked at / the high window / display* — **repeat/extension** of Randi's looked-at currency; Vee hoisted "up and lit in the window... presented at the height the whole room could see."
-- *The withheld yes, waited one beat so it won't show its size* — **repeat** of Randi's helpless-anticipation beat (ch.3), now Vee's tell.
-- *Warm citrus (cold, not sweet)* — **first** — Randi's signature scent.
-- *Spoons ringing against cups / stirring the sweetness at the bottom* — **first** — the sound of Chi Latte.
-- *Cardigan over the better shirt, worn on purpose, room doesn't know it's a choice* — **first** — Vee's concealment as inheritance.
-- *"Floozies" in the mother's voice / that's not the kind of attention a nice girl* — **first (Vee)**; rhymes with Randi's mother's policed eating (ch.2). Inherited shame in a parent's voice.
-- *Goodbye vs. see you later* — **first** — the chapter's paired partings.
-- *Blank transcript / kept the feeling, not the words* — **first** — how the seduction lands from inside.
+- *"There you are"* — **repeat, charged**: Pace's line to broken-open Randi (The Bench), now Randi's to Vee across the hall. First time it's passed hunter-to-hunter.
+- *"Yes" / the bare word arriving ahead of thought* — repeat (Bench, Pointing Game); now Vee's, "fully formed, ahead of everything," deliberately downsized.
+- *Being looked at / who forgets she can be seen* — repeat; whole Chi Latte room-reading; the high table as "something in a display"; the floozies "wanting to be seen" vs. Vee covered to the collarbone.
+- *Food refusal / feeding* — repeat; oat-milk latte handed over, "trust me"; Randi feeding Vee sweetness (the lavender thing) — inversion of Randi's own refusal.
+- *Rationed self-deviation / covering* — the cardigan over the better shirt, chosen so "the room did not know it was a choice." New instance of the buried-self pattern, now in Vee.
+- *The mother's voice / inherited shame* — "floozies... in her mother's voice"; the second voice that closes the picture. First sighting in Vee (echoes Randi's mother's egg-whites voice).
+- *Doors held open* — repeat; Randi "holding the row open," "come on, before the line." He held the house door (Pointing Game); she holds every door here.
+- *Warm / no hurry* — repeat; Vee goes "home the long way, in no hurry at all, warm the whole way." Pace's signature register now inhabiting Vee.
+- *The single scrunchie / ponytail that doesn't move* — repeat (Pointing Game); "the ponytail not moving" as Randi walks off.
+- *Spoons ringing in cups* — **first sighting**: the whole room stirring "the sweetness at the bottom of their drinks." (Given the book's title, this one hummed.)
+- *Cold citrus, not sweet* — first sighting; Randi's scent, twice.
 
-**Symbolism:**
-- The high table in the bright window = belonging as being *on display*; Vee gets what she wanted (a seat where you're seen) without noticing it's also a shop window.
-- The Χ ΛΑΤΕ sign she'd read forty times and only now "resolved" = being let in on a joke / a world; access as the thing being dangled.
-- "Latent variables — the factors you can't measure directly... driving the whole thing from underneath" — the professor's line is almost too on-the-nose, but the page put it there deliberately as Vee lets the real lesson go by for the warmth at her elbow. It named the shape of her situation to her face while she didn't listen.
-- Cassie's "Goodbye" = the outside observer registering that Vee is being taken somewhere.
+**Symbolism:** Cassie's "Goodbye" vs. the title's "See you later" = the true word for the parting vs. the friendly lie over it. *Latent variables* — the professor's line ("the factors you can't measure directly, that you have to infer from the ones you can") dropped right into a scene about a hidden game Vee can only infer and won't; the page all but winks. The **spoons in cups** — sweetness stirred up from the bottom, everyone doing it — reads against *With a Long Spoon* as the whole room supping something sweet, none of them holding the long spoon. The cardigan = shame worn as choice-disguised-as-nothing.
 
-**Characterization:** Vee **deepened enormously** — first interior, and it's specific, self-aware in the wrong places and blind in exactly the human ways (manages her hope, reads a room expertly, smooths over wrongness, buries her own looking under a mother's word). Consistent with the "forgotten she could be seen" girl from the quad, now shown to be very much aware of being seen and rationing it. Randi held consistent but gained a disturbing plausibility of genuine warmth. Cassie arrived fully formed in a handful of flat words — economical and vivid. Nobody went thin.
+**Characterization:** Vee **deepened enormously** — first interior, and she's sharp, self-aware, appetite-under-shame, socially fluent, and completely undefended against being chosen. Randi **held and darkened** — same instrument as before, now seen from outside, and "There you are" made me doubt how much of her warmth is even hers. Cassie **arrived fully** in a handful of lines — flat, unbuyable, seeing — the first character in the book Randi's warmth doesn't move. Nobody thinned.
 
-**Pace — within the chapter:** Excellent control. The pre-class not-looking, the entrance, the class hour blurring, the café — each earned its length. Only the "she tried, later, and could not" reconstructions nudged toward over-explaining, briefly.
+**Pace — within the chapter:** excellent control. The not-looking-at-the-door open, the lecture-drone middle, the Chi Latte set piece all earn their space; no drag.
 
-**Pace — chapter to chapter:** A gear-shift — first sustained Vee POV, no sex, pure seduction-from-inside — and it builds rather than sags, because I've been waiting three chapters to be inside this girl. Momentum is rising precisely because the dread now has a first-person host.
+**Pace — chapter to chapter:** a deliberate, effective *cooling of tempo* after the engineered heat of the Pointing Game — we drop into the victim's warmth and slow way down. Momentum held, not sagged, because the dramatic irony (I know the game, she doesn't) does the pulling that plot did before. Good variation; not too much of the same beat.
 
 ## Carry-forward state
 
 **Who's who**
-- **Pace** — *man; seen ch.1, ch.3; named ch.2; not present ch.4.* Young math PhD; too-warm no-hurry house; built his furniture and a homemade bondage/spanking "bench." Gray pickup. Reads a lover's body like an instrument; privately calculating, self-justifying; compelled by "forbidden doors," frames his engineering as generosity/gift. Met Randi ~4 weeks ago. His signature phrase "There you are" now also in Randi's mouth.
-- **Randi / Miranda** — *woman; POV ch.2; seen ch.1, ch.3; present ch.4 (from Vee's POV).* Poised, polished; startling blue eyes, black hair (sleek tail/ponytail, single scrunchie), dancer/cheer body, disordered/policed eating; wealthy-quiet; sorority Standards board; own single room near the top of her house. With Pace gives up control; relocates her own wants. Cold-citrus (not sweet) scent. To Vee she is pure warmth — funny, generous, "love you, girl," "see you later" delivered as scheduled fact. 21.
-- **Vee / Vivienne (Thorne)** — *woman; seen ch.3 from distance; POV ch.4.* Tall, lush full-figured hourglass, athletic under the abundance; warm dark-red hair sparking copper, snub freckled nose; laughs head-back. **Now interior:** socially fluent, reads rooms all-at-once, manages her own hope, good at the "clean structure under the numbers" (stats) — lets it go for warmth at her elbow. Wears a cardigan over the better shirt on purpose to not be looked at; buries her own looking at women's bodies under her mother's word "floozies." Shares stats class w/ Randi; roommate/floormate Cassie. Chosen, glad, defenseless.
-- **Cassie** — *woman; seen ch.4.* Vee's classmate/roommate (they live "at home" together; she asks how coffee went). Four-words-a-day flat, ball cap, lab at noon. Immune to Randi's warmth; refused the name-bit; said "Goodbye, Vee" — flat, finished, wrong. The one who senses the machine.
-- **Brooke** — chapter president; relentlessly warm; grilled Randi (ch.2). Genuine vs. probe still ambiguous. *Mentioned-only since ch.2.*
-- **Sloane, Kinsey** — sorority sisters; texture (ch.2). *Mentioned-only.*
-- **Randi's mother** — *mentioned-only.* Egg whites/tofu; source of Randi's policed eating.
-- **Vee's mother** — *mentioned-only (ch.4).* Voice in Vee's head: "floozies," "that's not the kind of attention a nice girl"; source of Vee's cover-up/concealment.
-- **Meg** — *mentioned-only.* Vee's floormate, with her at the dining hall (ch.3/recalled ch.4).
+- **Pace** — *man; seen in person (ch.1, POV ch.3); offstage/named ch.2; offstage architect ch.4 (not named on Vee's page).* Young mathematician, PhD in math. Lives alone in a too-warm no-hurry house; built his own furniture and the bench. Drives a gray pickup. Met Randi ~3 weeks before ch.1; "four weeks in" by ch.3. Attentive to omniscience, coldly calculating, frames seduction as generous gift and seems to believe it; "cannot leave a forbidden door closed." Reads bodies expertly. Orchestrated the pointing game. His line to broken-open Randi, "There you are," now recurs in Randi's mouth (ch.4).
+- **Randi / Miranda** — *woman; seen in person, POV ch.2, present ch.3 & ch.4.* 21. Poised, polished; startling blue eyes, black hair (sleek tail/single scrunchie), dancer/cheer body, disordered relationship to food. Wealthy-quiet, near top of her sorority house (own room). Master of a performed smile with a measurable lag under pressure; practiced at not-crying. With Pace she gives up control. Co-architect of the game while believing it's hers. In ch.4 (seen from Vee's side): executes the friendship seduction flawlessly — finds Vee's row ("*There* you are"), citrus scent, arm-squeezes, includes stony Cassie with undimmed warmth, takes Vee to Chi Latte, the parking-ticket story, "love you, girl," "see you later." Whether her warmth is genuine or pure instrument is now a live open question.
+- **Vee / Vivienne (Thorne)** — *woman; seen in person (ch.3), POV ch.4; unknowing.* The third. Tall, lush/curvy, athletic; warm dark-red hair sparking copper, snub upturned nose, cinnamon freckles. Interior revealed ch.4: sharp, socially fluent, reads rooms in precise detail; genuinely good at the "clean thing" under the numbers (stats structure) but lets it go by for Randi; appetite (wants to be seen, could wear what the "floozies" wear) buried under her mother's inherited shame-voice; covers the better shirt with a cardigan by choice and hides that it's a choice. Falls hard and knowingly for Randi's attention; keeps the *feeling* of being chosen, not the words. Gets up early, has "the right pen." Rooms with / lives with Cassie.
+- **Cassie** — *woman; seen in person (ch.4).* Vee's roommate/close friend; sits beside her in stats; ball cap, shorts, a noon lab; says ~"four words a day," flat and unbuyable. The one person Randi's warmth doesn't move — won't take the bit's open door, declines coffee without edge. Marks the parting with a deliberate whole-word "Goodbye, Vee" that lands wrong on Vee and chilling on me — reads as someone who sees what Randi is. Watch her.
+- **Meg** — *woman; mentioned-only (ch.4).* Vee's floormate, dark-haired, easygoing; was with Vee at the staged collision outside the dining hall. (In ch.3 the friend was unnamed; now named Meg.)
+- **Brooke** — *woman; seen ch.2; mentioned-only ch.3.* Chapter president; relentlessly warm authority-by-staying-seated; grilled Randi about the paper and Pace.
+- **Sloane** — *woman; seen ch.2.* Sorority sister; small ready laugh; noticed Pace's pickup.
+- **Kinsey** — *woman; seen ch.2.* Sorority sister; eager; called Pace "short-cute."
+- **Randi's mother** — *woman; mentioned-only (ch.1).* Egg whites/tofu; source of Randi's policed food.
+- **Vee's mother** — *woman; mentioned-only (ch.4).* Interior shame-voice ("floozies," "not the kind of attention a nice girl"); source of Vee's buried appetite / covering.
+- **The stats professor** — *man; seen ch.4, unnamed.* Soft-spoken, over-uses the laser pointer; teaches residuals; announces "latent variables" next.
 
 **Motif & image ledger**
-- *"There you are" / reading the real you under performance* — Pace's phrase/skill (ch.1, ch.3); **now Randi's entrance line to Vee** (ch.4).
-- *"key turning in a lock" / irreversible threshold* — Randi's ribs (ch.1); **turns in Vee** at Randi's offhand flattery (ch.4).
-- *Withheld "yes," waited a beat so it won't show its true size* — Randi's helpless anticipation (ch.3); **Vee's tell** at the coffee invite (ch.4).
-- *Being looked at / on display / the bright window* — Randi's currency (ch.1–3); **Vee lifted onto the high table in the shop window** (ch.4).
-- *Taste / looking at another woman's body* — ch.3 (Randi); **Vee's buried "longer beat of looking" at the underdressed girls** (ch.4).
-- *Feeding / hunger / food refusal / policed eating* — mother's egg whites (Randi); Pace's "feed you"; **Vee's mother's voice policing display** (adjacent inheritance, ch.4).
-- *"Hi." / "Hi."* — the unperformed greeting (ch.1); **Vee's "Hi" comes out "a half-step too bright"** (ch.4).
-- *Performed smile / warmth as a dial / wattage* — Randi (ch.1–2); **the warmth that "returns" to the chosen one, swings generously to Cassie** (ch.4).
-- *Cold-citrus scent (not sweet)* — Randi's signature (**first named, ch.4**).
-- *Spoons ringing / stirring the sweetness at the bottom* — Chi Latte (**first, ch.4**).
-- *Cardigan over the better shirt; room doesn't know it's a choice* — Vee's concealment (**first, ch.4**).
-- *Goodbye vs. see you later* — the paired partings (**first, ch.4**).
-- *Blank transcript / kept the feeling, not the words* — seduction from inside (**first, ch.4**).
-- *Dance: follow/lead, breaking frame before the step is called* — Randi (ch.3).
-- *Doors* — control-state / forbidden wanting (ch.1, ch.3).
-- *The flinch* (at praise, at the real question) — ch.1, ch.3.
-- *Blue toenail polish / scrunchie / permitted deviations* — Randi (ch.1–2).
-- *Self-hurt (bottle-cap under thumbnail)* — Randi (ch.1).
-- *The bench* — premeditated desire as innocent furniture (ch.1).
-- *The burning maple / the one who turns ahead of the field* — (ch.3, Vee).
+- *Doors — locking/closing/holding open* — Bench; Standards; Pointing Game (forbidden wanting = door; he holds the house door); **ch.4 Randi holds every row/shop door for Vee.**
+- *"There you are"* — Bench (Pace to broken-open Randi); **ch.4 Randi to Vee across the lecture hall.**
+- *The performed smile / mirror / costume / recovery* — Bench; Standards; Pointing Game ("kitten" register); **ch.4 Vee's face "smooths" the wrongness of Cassie's goodbye — same reflex, new person.**
+- *"Yes" / the bare unperformed word arriving ahead of thought* — Bench; Pointing Game; **ch.4 Vee's "yes" to coffee, fully formed ahead of thought, deliberately downsized.**
+- *Being looked at / who forgets she can be seen* — Bench; Standards; Pointing Game (Vee "forgot she could be seen"); **ch.4 the Chi Latte room-read, the high table as display, floozies wanting to be seen vs. Vee covered.**
+- *Food refusal / feeding* — mother's egg whites; untouched cereal; "I can't eat that" / "let's go feed you"; **ch.4 Randi feeds Vee the oat-milk lavender latte, "trust me."**
+- *Rationed self-deviation / covering the self* — blue toenail (Bench), oxblood (Standards), single scrunchie (Pointing Game); **ch.4 Vee's cardigan-over-the-better-shirt, choice hidden as non-choice.**
+- *The inherited maternal shame-voice* — Randi's mother (food); **ch.4 Vee's mother ("floozies") — first sighting in Vee, same mechanism.**
+- *Dance — lead & follow* — danced (ch.1); Pointing Game ("follow broke frame before the lead called the step").
+- *Warm house / no hurry (Pace) vs. cold-cornered room (Randi)* — Bench, Standards; Pointing Game (perfect valley afternoon); **ch.4 Vee walks home "the long way, no hurry, warm" — Pace's register now in Vee.**
+- *The burning maple / one tree changed early* — Pointing Game.
+- *Self-hurt* — bottle-cap under thumbnail (Bench). (Absent since.)
+- *"He's hard to say no to"* — Standards.
+- *Spoons ringing in cups / sweetness stirred from the bottom* — **first sighting ch.4 (Chi Latte); hums against the book's title.**
+- *Cold citrus, not sweet (Randi's scent)* — **first sighting ch.4, twice.**
+- *The ponytail that doesn't move / single scrunchie* — Pointing Game; **ch.4 (walks off, "ponytail not moving").**
 
 **Symbolism noticed**
 - Bench = premeditated desire masked as innocent furniture.
-- "Consented to the position but not to being in it" = the jacket's trap.
-- Standards board = judging and being judged.
-- Dissociation as architecture (Randi, "no door" for crying).
-- Pointing game = a hunt disguised as a shared game.
-- Vee's unguarded quality = what's being selected for by two people whose craft is seeing.
-- **The high table in the bright window = belonging = being on display; Vee gets the seat she wanted without seeing it's a shop window.**
-- **The Χ ΛΑΤΕ sign "resolving" = being let in on a world/joke; access as bait.**
-- **"Latent variables — driving the whole thing from underneath" = the unseen force acting on Vee, named to her face as she ignores it for warmth.**
-- **Cassie's "Goodbye" = the outside witness registering Vee is being taken somewhere.**
+- Forbidden-wanting-as-door = the trap: a yes traps only when it's a desire you'd forbidden yourself.
+- Staged collision / Vee apologizing = the book in miniature (victim self-blames toward hunter).
+- Early-burning maple = the one who changes before the rest are ready.
+- Standards board = external judgment doubling as internal discipline.
+- **"There you are" passed Pace→Randi→Vee = the hunter's recognition-phrase handed down the chain.**
+- **"Latent variables" (the factors you infer, can't measure directly) = the hidden game Vee can only infer and won't; the page nearly winks.**
+- **Cassie's "Goodbye" vs. the title's "See you later" = the true word for the parting under the friendly lie.**
+- **Spoons stirring sweetness / "long spoon" = a roomful supping something sweet; the brought-girl has no spoon.**
+- **The cardigan = shame worn as a choice disguised as nothing.**
 
 **Open questions**
-- What did Cassie see? Does she know something, or just feel the wrongness? (Her "Goodbye, Vee.")
-- Buried history behind Randi's flinch-at-praise, self-hurt, not-crying, policed eating?
-- Is Brooke probing, or is it Randi's guilt?
-- Is Randi's warmth toward Vee real, performed, or (dreadfully) both — is the trapper being trapped?
-- How does Randi's real pleasure curdle as the game becomes a relationship with a girl who has no idea?
-- Does Pace lose control of his engineered generosity? (Jacket: both founders fall.)
-- Does Vee ever learn there was a game? (Jacket: "the girl who never knew there was one.")
-- Will Vee's buried body-looking / cardigan-concealment become the "forbidden door" Pace and Randi mine?
+- Buried history behind Randi's flinch-at-praise, thumbnail self-hurt, practiced not-crying? (open)
+- Is Randi's warmth genuine or pure instrument? — sharpened by ch.4; she's warm even to unbuyable Cassie. (new, live)
+- Does Pace have any capacity to be caught by his own game / do the founders crack? (jacket says both fall — watching.)
+- What did Cassie see? Will she warn Vee, or has she already, with that "Goodbye"? (new)
+- When does Pace enter Vee's line of sight, and how? (new)
+- Is Brooke probing or is that Randi's guilt? (dormant)
+- What are Pace and Randi's wider lives/context? (partly open)
 
 **Story so far**
-Ch.1 (The Bench): Pace worked Randi through a long patient cycle on a homemade bench until she begged and came crying; she flinched at "You're beautiful," locked the bathroom, reassembled her mask, returned performing contentment; he privately made plans.
-Ch.2 (Standards): Morning after; Brooke's all-smiles interrogation about the "paper" and Pace; Randi holds the mask, can't function alone, doesn't cry.
-Ch.3 (The Pointing Game): Post-sex, Pace asks if she'd like to taste another woman; her body says yes before her mind; she relocates it to "only in a threesome, with you." Pace runs a "pointing game" reading her taste until a tall red-haired woman (Vee) laughs out of the dining hall; Randi stops, bare "Yes." Randi engineers a clean "accidental" collision on the lawn, gets Vee's name and that they share a stats class, returns glowing. "Let's go feed you."
-Ch.4 (See You Later): Vee's POV, one day later. She waits, managing her hope, for Randi in stats. Randi arrives ("There you are"), sits beside her, is completely warm — even to silent Cassie, who refuses the name-bit and later says a flat, wrong "Goodbye, Vee." After class Randi sweeps Vee to Chi Latte (the café Vee had only ever looked at from outside), buys her a lavender latte, sits her at the high window table. Vee, dazzled, chosen, remembers the *feeling* and not one word. Randi hugs her, "love you, girl," "see you later" (scheduled fact), and leaves. Vee floats home. She has now met Randi; she does not know Pace exists, or that any of this was chosen.
+Ch.1 (The Bench): In Pace's house, Randi is worked through a long bondage-bench cycle until her social performance breaks, she begs and comes crying; aftercare; she flinches at "You're beautiful," locks herself in the bathroom, rebuilds her face, returns performing contentment; he privately plans for her; she stays over.
+Ch.2 (Standards): Morning after. Randi comes home in last night's clothes; Brooke (with Sloane, Kinsey) runs a four-minute all-smiles interrogation about the paper and Pace. Randi holds the mask, escapes upstairs, lies down clothed under a thin duvet in a cold room, and does not cry — so practiced it no longer feels like an act.
+Ch.3 (The Pointing Game): Four weeks in. Mid-orgasm Pace asks if she'd like to taste another woman; her body says yes twice. He reads it as a forbidden door and resolves to give it as a "gift," letting her reframe it as a girlfriend's offering. They walk campus playing the pointing game (he learns her taste); Randi comes alive. Outside the dining hall he points at Vee; Randi's bare "yes" escapes; on his cue she executes a staged collision that makes Vee apologize; they exchange names; Randi returns glowing ("Her name is Vee. And we've got a stats class together"); "Let's go feed you."
+Ch.4 (See You Later): The next day, in Vee's POV. Vee gets to stats early, agonizes over whether Randi meant "we should sit together." Randi arrives late from the back — "*There* you are" — sits so Vee is between her and roommate Cassie, radiates warmth, tries to include flat, unbuyable Cassie (who won't play). Through a lecture (residuals; next time "latent variables") Vee lets the material she's actually good at slide by because Randi at her elbow costs her nothing. After, Randi sweeps her to Chi Latte (the Greek-letter joke Vee had stood outside of), buys her a lavender oat-milk latte, sits her at the high-visibility window table; Vee reads the room (the matched sorority cluster, the "floozies" her mother's voice names, herself covered by a chosen cardigan). She falls completely — keeps the *feeling* of being chosen but not one word Randi said; "the best hour in months." Randi hugs her, "love you, girl," "see you later." Earlier, Cassie had declined coffee and said a deliberate, whole-word "Goodbye, Vee" that landed wrong on Vee and reads to me like someone who sees Randi clearly. Vee walks home the long way, warm.
 
 **How I feel**
-Vee: full-blown ache — now the beating heart of the book for me, real and defenseless, and I can't warn her. Randi: my trust dropped and my dread rose *because* her warmth read as possibly genuine — if she's falling too, everyone drowns. Pace: still fully distrusted, more chilling for being offstage while his instrument ("There you are") plays in his absence. Cassie: instant trust and alarm — the one who sees the machine and can't stop it. Brooke: open ambiguity, receding. Overall mood: a golden, sweet-smelling morning with the hunt now perfectly, invisibly underway on the prey's own side of the glass.
+Now that I've been inside Vee, my dread is intimate. She's sharp and self-aware and it buys her nothing — she narrates her own falling and can't stop it, keeps the feeling and loses the transcript, which is the trap made physical. Deep protective ache for her. Randi is harder to place than ever: from outside, the warmth is so complete, even toward someone (Cassie) who gives nothing back, that I can't tell instrument from real, and "There you are" — Pace's own line — coming out of her mouth chilled me; I wonder if she knows whose voice she's using. Pace stayed offstage and I felt him the whole time. Cassie is my one point of cold clarity and hope — she sees, and her "Goodbye" was a bell. Overall mood: a warm, sweet, spoon-ringing seduction with a hidden game humming underneath, a smart girl walking gladly into a later that isn't hers, and one quiet friend at the door saying the truer word.
