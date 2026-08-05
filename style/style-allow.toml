@@ -410,6 +410,20 @@ text = "She beat everyone to Vee's things, always had, arrived at them first and
 note = "noun use ('a full register too nice') — rule targets the verb; author kept 2026-08-03"
 
 [[ok]]
+fp   = "e400f389b2dc"
+rule = "the-way"
+file = "scenes/among-friends.md"
+text = "Somebody had turned the speaker down another notch, or the room had just gone quiet enough to make it seem so, the steel guitar walking along under the last of the conversation, and they were taking the night apart the way you do at the end of one that went right — Kayla's promise extracted about the cornbread, Cassie's knighting, who'd laughed at what."
+note = "idiomatic 'the way you do' (as-one-does), not filtered perception — author accepted 2026-08-05"
+
+[[ok]]
+fp   = "250c815eb167"
+rule = "there-was-were"
+file = "scenes/among-friends.md"
+text = "But there was nothing in his face except the pleasure of a man delivering a compliment that belonged to someone else."
+note = "existential renders the null result of Vee scanning Pace's face — author accepted 2026-08-05"
+
+[[ok]]
 fp   = "17923d3ae69e"
 rule = "the-way"
 file = "scenes/bare.md"
