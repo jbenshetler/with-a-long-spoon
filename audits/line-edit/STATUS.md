@@ -8,7 +8,7 @@ the echo shortlist with the author before per-chapter editing starts).
 |---|---|---|---|
 | 1 | The Bench | the-bench | reviewed |
 | 2 | Standards | standards | reviewed |
-| 3 | The Pointing Game | the-pointing-game | edited |
+| 3 | The Pointing Game | the-pointing-game | reviewed |
 | 4 | See You Later | see-you-later | edited |
 | 5 | Substitution | substitution | edited |
 | 6 | The Long Way | long-way | edited |

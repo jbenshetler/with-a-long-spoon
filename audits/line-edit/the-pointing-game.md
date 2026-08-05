@@ -29,3 +29,28 @@
 - "delivered to it" / "a woman delivered to it" (line 7)
 - "taking her back up" (line 11)
 - "put in her hands in daylight" / "the gift was moving toward her hands" (lines 37, 141)
+
+## Author rulings (2026-08-05)
+
+1. "slowly, deliberately" — reversed to "deliberately, slowly" (kills the stock
+   cadence; intent governs tempo).
+2. Motive paragraph — "She would be happy." cut; "earned" → "deserved".
+3. Flinch closer — first ruled standing (comprehension), then re-opened on
+   cold-read evidence: metaphor tail cut, comprehension clause kept.
+4. Settle/settles — simile cut; verb + chest complete.
+5. Wind ×2 — second varied to "The wind found her hair" (protects :127 callback).
+6. Wind-gets-nothing ×2 — first cut; the flirting/nothing version kept.
+7. Unhurried motif — workshopped; all literal uses removed (:35 "contented",
+   :63 "slow", :91 cut, :123 "eventually", :145 "comfortable"); :93 kept as the
+   load-bearing statement.
+8. Appositive stack — trimmed to end at "her edge and his attention."
+9. Guess bracket — reversed from finding: "He'd guessed wrong." cut, setup kept.
+10. Paragraph opener — cut; opens at "The maple was burning" (reader-backed).
+11. "hers to take" — finding dissolved: call-and-response, antecedent of "And
+    it took"; full run stands.
+12. Three "looked like"s — left standing: designed ladder (chance → nothing →
+    her fault).
+Bonus (reader-flagged): "and meant several things by it" cut.
+
+Echo candidates: only "before the lead" crosses chapters (lesson.md:101) —
+designed dance-metaphor thread, no ledger entry. Rest chapter-local.

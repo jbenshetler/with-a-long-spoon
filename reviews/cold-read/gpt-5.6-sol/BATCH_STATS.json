@@ -4,25 +4,25 @@
   "completed": 1,
   "generated": 1,
   "skipped": 0,
-  "total_cost": 0.216445,
-  "total_input": 16205,
-  "total_output": 4514,
-  "total_tokens": 20719,
+  "total_cost": 0.26311,
+  "total_input": 13712,
+  "total_output": 6485,
+  "total_tokens": 20197,
   "per_chapter": [
     {
-      "slug": "the-bench",
-      "title": "The Bench",
+      "slug": "the-pointing-game",
+      "title": "The Pointing Game",
       "status": "generated",
-      "cost": 0.216445,
-      "input": 16205,
-      "output": 4514,
-      "totalTokens": 20719,
-      "promptTokens": 16205,
-      "reasoningTokens": 223,
+      "cost": 0.26311,
+      "input": 13712,
+      "output": 6485,
+      "totalTokens": 20197,
+      "promptTokens": 13712,
+      "reasoningTokens": 83,
       "cacheRead": 0,
-      "duration_s": 93.5,
-      "wall_s": 93.5,
-      "path": "reviews/cold-read/gpt-5.6-sol/the-bench.md"
+      "duration_s": 121.8,
+      "wall_s": 121.8,
+      "path": "reviews/cold-read/gpt-5.6-sol/the-pointing-game.md"
     }
   ]
 }

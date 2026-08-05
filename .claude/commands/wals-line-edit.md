@@ -54,6 +54,18 @@ review the first `edited` chapter with the author.
      restates a "left standing" verdict, and say so.
    - Run `tools/novel-assistant/na.py style scenes/<slug>.md` and drop any
      finding that duplicates an accepted (suppressed) style hit.
+   - **Cold-read enrichment (author ruling 2026-08-05):** have a lore-keeper
+     mine the chapter's `reviews/cold-read/*/<slug>.md` `## Reader reaction`
+     sections for line-level praise and criticism (this per-chapter prep is
+     the sanctioned reviews-lane use). Mark any finding that touches a
+     reader-quoted line as **reader-praised** — praise doesn't veto a finding,
+     but it raises the bar and must be said in the presentation. Reader
+     criticism of a line the editor missed may be presented as a bonus item;
+     reader evidence may also re-open an item ruled earlier in the same
+     chapter's review. Cold readers re-run at **end of the Volume One pass**
+     (full chain, since carry-forward propagates), comparing archived
+     reactions chapter-by-chapter for praise that disappeared — never
+     per-chapter.
    Then for each finding, in severity order: show the quoted passage in
    context (rg/sed the actual lines — never trust the report's quotes
    blindly), restate the problem, offer lettered options with a
