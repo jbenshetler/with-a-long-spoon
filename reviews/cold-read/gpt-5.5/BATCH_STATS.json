@@ -4,25 +4,25 @@
   "completed": 1,
   "generated": 1,
   "skipped": 0,
-  "total_cost": 0.6590750000000001,
-  "total_input": 20989,
-  "total_output": 18471,
-  "total_tokens": 39460,
+  "total_cost": 0.34757000000000005,
+  "total_input": 19768,
+  "total_output": 8291,
+  "total_tokens": 28059,
   "per_chapter": [
     {
-      "slug": "substitution",
-      "title": "Substitution",
+      "slug": "long-way",
+      "title": "The Long Way",
       "status": "generated",
-      "cost": 0.6590750000000001,
-      "input": 20989,
-      "output": 18471,
-      "totalTokens": 39460,
-      "promptTokens": 20989,
-      "reasoningTokens": 34,
+      "cost": 0.34757000000000005,
+      "input": 19768,
+      "output": 8291,
+      "totalTokens": 28059,
+      "promptTokens": 19768,
+      "reasoningTokens": 31,
       "cacheRead": 0,
-      "duration_s": 241.0,
-      "wall_s": 241.0,
-      "path": "reviews/cold-read/gpt-5.5/substitution.md"
+      "duration_s": 139.7,
+      "wall_s": 139.7,
+      "path": "reviews/cold-read/gpt-5.5/long-way.md"
     }
   ]
 }
