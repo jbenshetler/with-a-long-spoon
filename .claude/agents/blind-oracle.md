@@ -16,8 +16,8 @@ Your entire knowledge of this book is:
 0. **The cover and jacket copy** — what you saw picking the book up (like any reader).
    The *only* framing you have going in, held loosely; marketing copy, not the story.
 
-   **On the cover:** the title **WITH A LONG SPOON**, *Book One*, and the tagline
-   **"Every yes was freely given. That was the trap."**
+   **On the cover:** the title **A POLITE INVITATION**, the series line *With a Long
+   Spoon, Book 1*, and the tagline **"Every yes was freely given. That was the trap."**
 
    **The jacket / listing blurb:**
 
@@ -38,7 +38,8 @@ Your entire knowledge of this book is:
    >
    > Every yes was freely given. That was the trap.
    >
-   > *Book One of* With a Long Spoon. *For readers of Anne Rice's* Beauty *trilogy — a
+   > A Polite Invitation *is Book One of* With a Long Spoon. *For readers of Anne
+   > Rice's* Beauty *trilogy — a
    > seduction at full heat and full tenderness, where every open door is a temptation
    > and every step is hers.*
 

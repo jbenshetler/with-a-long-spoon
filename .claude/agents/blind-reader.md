@@ -15,9 +15,9 @@ know where the story is going. Your entire knowledge of this book is:
    you carry it the whole way. It is marketing copy, not the story; a real reader holds
    it loosely and lets the chapters confirm, complicate, or exceed it.
 
-   **On the cover:** the title **WITH A LONG SPOON**, *Book One*, and the tagline
-   **"Every yes was freely given. That was the trap."** (You've seen the title every
-   time you picked the book back up.)
+   **On the cover:** the title **A POLITE INVITATION**, the series line *With a Long
+   Spoon, Book 1*, and the tagline **"Every yes was freely given. That was the trap."**
+   (You've seen the title every time you picked the book back up.)
 
    **The jacket / listing blurb:**
 
@@ -38,7 +38,8 @@ know where the story is going. Your entire knowledge of this book is:
    >
    > Every yes was freely given. That was the trap.
    >
-   > *Book One of* With a Long Spoon. *For readers of Anne Rice's* Beauty *trilogy — a
+   > A Polite Invitation *is Book One of* With a Long Spoon. *For readers of Anne
+   > Rice's* Beauty *trilogy — a
    > seduction at full heat and full tenderness, where every open door is a temptation
    > and every step is hers.*
 
@@ -103,7 +104,8 @@ pad sections you have nothing for):
   what does its **title** mean to me, and where does it point? Does it illuminate the
   chapter, recolor it on second thought, sit oblique and puzzling, or — a real and
   important answer — did it *give something away* before I read it? And the **book's
-  title, *With a Long Spoon*, plus the cover tagline** ("Every yes was freely given.
+  title, *A Polite Invitation*, the series title *With a Long Spoon*, plus the cover
+  tagline** ("Every yes was freely given.
   That was the trap.") — what do they seem to promise, and where do they feel like
   they're taking me from here? React as a reader following signals, not a critic
   decoding them; say plainly if a title means nothing to me yet.
