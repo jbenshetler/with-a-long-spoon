@@ -4,25 +4,25 @@
   "completed": 1,
   "generated": 1,
   "skipped": 0,
-  "total_cost": 0.46535000000000004,
-  "total_input": 14194,
-  "total_output": 13146,
-  "total_tokens": 27340,
+  "total_cost": 0.617705,
+  "total_input": 22057,
+  "total_output": 16914,
+  "total_tokens": 38971,
   "per_chapter": [
     {
-      "slug": "may-i-choose",
-      "title": "May I Choose",
+      "slug": "among-friends",
+      "title": "Among Friends",
       "status": "generated",
-      "cost": 0.46535000000000004,
-      "input": 14194,
-      "output": 13146,
-      "totalTokens": 27340,
-      "promptTokens": 14194,
-      "reasoningTokens": 32,
+      "cost": 0.617705,
+      "input": 22057,
+      "output": 16914,
+      "totalTokens": 38971,
+      "promptTokens": 22057,
+      "reasoningTokens": 49,
       "cacheRead": 0,
-      "duration_s": 181.5,
-      "wall_s": 181.5,
-      "path": "reviews/cold-read/gpt-5.5/may-i-choose.md"
+      "duration_s": 241.6,
+      "wall_s": 241.6,
+      "path": "reviews/cold-read/gpt-5.5/among-friends.md"
     }
   ]
 }
