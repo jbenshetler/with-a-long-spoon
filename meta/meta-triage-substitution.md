@@ -61,10 +61,11 @@ saved by "The thought did not finish").
 
 ## Left standing (line edit) — do not re-litigate
 
-- **:65 "She felt, absurdly, chosen." — RESTORE-WATCH.** The praised span now
-  stands without its "She felt singled out." lead-in. Author ruling: cut and
-  re-run the cold readers; if the re-run stops quoting/praising it, restore
-  the pair. Check this on the next cold-read comparison.
+- **:65 "She felt, absurdly, chosen." — RESOLVED (2026-08-05 re-run).** The
+  span stands without its "She felt singled out." lead-in: the post-edit
+  re-run quotes it verbatim (fable, opus) and the chosen-motif stays central
+  for both GPT readers. Author ruling: watch removed; the cut is final. Do
+  not restore the pair.
 - **:137 "The way he had…" litany** — designed anaphora; all four readers
   flag it as running "a hair long" but all four also say "The thought did not
   finish" saves it. The credential-aside trim above is the fix; do not thin
