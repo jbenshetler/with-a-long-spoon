@@ -23,3 +23,14 @@
 - "climbing the walls" (line 65)
 - "as if the rest might have loaded" (line 89)
 - "went orange and then thin" (line 109)
+
+## Author rulings (2026-08-06)
+
+1. Dialogue tag at "So what's Pace do, then?" — **left standing**, and generalized: a paragraph break inside dialogue takes a speaker tag, especially on a same-speaker continuation. Recorded as a book-wide convention in the triage doc. The real defect in the passage was the reverse — two *untagged* paragraphs earlier — **fixed** with beats ("Vee went back to her tray." / "Kayla's curls came around with her.").
+2. "He must be." — **dropped before review**: re-litigates a recorded verdict (the {{Rock}} age-discovery ruling, triage 2026-08-01).
+3. Three "it"-terminal beats — **fixed**, "She leaned in on it." cut; quoted spans closed into one continuous quote.
+4. "I'm soaked" / "soaking to the skin" — **left standing**: the echo is the transfer of the state from her to him.
+5. "actually" ×4 — **fixed**, cut from Meg's line only; the tic stays Kayla's, Vee's "An actual one" is characterization.
+6. "and not one word about what it was for" — **left standing**; reader-praised by claude-fable-5 as the jacket tagline in miniature. Dialogue and interiority are different beats, not a repeat.
+
+Echo candidates: none ruled this pass; left for the book-wide inventory.

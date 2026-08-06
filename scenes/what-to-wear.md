@@ -8,9 +8,9 @@ Across the room Theo lifted a hand at her, tray balanced, and she lifted hers ba
 
 "Theo waved at you," Kayla said, before Vee's hand was back down.
 
-"Theo waves at everyone."
+"Theo waves at everyone." Vee went back to her tray.
 
-"Theo does not wave at everyone. Theo asked you to the fall thing."
+"Theo does not wave at everyone." Kayla's curls came around with her. "Theo asked you to the fall thing."
 
 "In September. And I said let's be friends, and now we're friends, and he waves." Vee stole a fry off Kayla's tray. "He took it like a gentleman. He's nice."
 
@@ -18,13 +18,13 @@ Across the room Theo lifted a hand at her, tray balanced, and she lifted hers ba
 
 "So what's Pace do, then?" Kayla said, Theo already forgotten. "He's older. He's got to actually do something with himself."
 
-"He must be. He's getting his doctorate. Math." Vee didn't bother keeping the pride out of it. "Almost finished already, which is obnoxious. I asked him once what a person like that even does with a whole day." She leaned in on it. "He lifts in the morning, first thing, before anything. Says it clears his head. Then he writes for six hours and stops." She gave them his voice for the last of it, flat and certain. "'My writing's no good after that.'"
+"He must be. He's getting his doctorate. Math." Vee didn't bother keeping the pride out of it. "Almost finished already, which is obnoxious. I asked him once what a person like that even does with a whole day. He lifts in the morning, first thing, before anything. Says it clears his head. Then he writes for six hours and stops." She gave them his voice for the last of it, flat and certain. "'My writing's no good after that.'"
 
 "Lifts," Kayla said.
 
 "He's a powerlifter. An actual one." Vee shrugged like it was nothing, and it was not nothing. "You don't expect it off a man who does math for a living. Then again, I'd just spent a whole mountain climbing up behind him, so I'd had the time to work it out."
 
-Meg, who followed the Pace situation in installments like her shows, pointed the fork at Vee now. "Okay, but the shirt. You have to actually tell the shirt. You keep getting to it and going soft and skipping the middle."
+Meg, who followed the Pace situation in installments like her shows, pointed the fork at Vee now. "Okay, but the shirt. You have to tell the shirt. You keep getting to it and going soft and skipping the middle."
 
 The shirt. Vee felt the smile arrive before she'd cleared it.
 
