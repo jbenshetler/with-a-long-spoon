@@ -4,25 +4,25 @@
   "completed": 1,
   "generated": 1,
   "skipped": 0,
-  "total_cost": 0.327575,
-  "total_input": 11449,
-  "total_output": 9011,
-  "total_tokens": 20460,
+  "total_cost": 0.32493,
+  "total_input": 13644,
+  "total_output": 8557,
+  "total_tokens": 22201,
   "per_chapter": [
     {
-      "slug": "water-wings",
-      "title": "Water Wings",
+      "slug": "may-i-choose",
+      "title": "May I Choose",
       "status": "generated",
-      "cost": 0.327575,
-      "input": 11449,
-      "output": 9011,
-      "totalTokens": 20460,
-      "promptTokens": 11449,
-      "reasoningTokens": 95,
+      "cost": 0.32493,
+      "input": 13644,
+      "output": 8557,
+      "totalTokens": 22201,
+      "promptTokens": 13644,
+      "reasoningTokens": 104,
       "cacheRead": 0,
-      "duration_s": 148.1,
-      "wall_s": 148.1,
-      "path": "reviews/cold-read/gpt-5.6-sol/water-wings.md"
+      "duration_s": 162.3,
+      "wall_s": 162.3,
+      "path": "reviews/cold-read/gpt-5.6-sol/may-i-choose.md"
     }
   ]
 }
