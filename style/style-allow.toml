@@ -403,11 +403,81 @@ text = "And then Randi's mouth, the greeting they did now, easy, only what they 
 note = "All the Time finalized: fixable tics recast; remainder are authorial keeps (the-way 4/5, file motif, Vee fumbles, there-was anaphora, in-voice antithesis)"
 
 [[ok]]
+fp   = "22c704fca6d0"
+rule = "filter-verbs"
+file = "scenes/among-friends.md"
+text = "I saw it.\""
+note = "Coda triage 2026-08-05: load-bearing perception — dialogue, afterglow drift, or the perceiving as the erotic event"
+
+[[ok]]
+fp   = "29ca500aff2e"
+rule = "filter-verbs"
+file = "scenes/among-friends.md"
+text = "She heard herself make a frustrated sound at her own jeans — at the fact of them, the stupid sturdy fact — and then her hands went to the button."
+note = "Coda triage 2026-08-05: load-bearing perception — hearing herself is the involuntary-tell; re-ack after a-small cut re-armed the sentence"
+
+[[ok]]
+fp   = "380d4f97afc4"
+rule = "filter-verbs"
+file = "scenes/among-friends.md"
+text = "Vee looked at him a moment, then out at the road, and let it warm her from the middle out, the plain and obvious truth of it, too sweet to poke at: her people, and the thing they had in common was her, and he'd noticed, because he noticed everything."
+note = "Coda triage 2026-08-05: load-bearing perception — dialogue, afterglow drift, or the perceiving as the erotic event"
+
+[[ok]]
+fp   = "55cc4f037ff3"
+rule = "filter-verbs"
+file = "scenes/among-friends.md"
+text = "She watched the trees go by, her blood still down somewhere low and humming, in no hurry to climb back up."
+note = "Coda triage 2026-08-05: load-bearing perception — dialogue, afterglow drift, or the perceiving as the erotic event"
+
+[[ok]]
+fp   = "8506a45fa419"
+rule = "filter-verbs"
+file = "scenes/among-friends.md"
+text = "He touched her over the lace first, light, the road running empty and black ahead, and found the narrow strip of it already soaked — she heard what it did to his breathing when he found it — and he rubbed her like that, slow, through lace gone useless, until her hips were moving and her head was back against the seat."
+note = "Coda triage 2026-08-05: load-bearing perception — dialogue, afterglow drift, or the perceiving as the erotic event"
+
+[[ok]]
+fp   = "b34a856ca881"
+rule = "filter-verbs"
+file = "scenes/among-friends.md"
+text = "She heard herself make a small frustrated sound at her own jeans — at the fact of them, the stupid sturdy fact — and then her hands went to the button."
+note = "Coda triage 2026-08-05: load-bearing perception — dialogue, afterglow drift, or the perceiving as the erotic event"
+
+[[ok]]
+fp   = "e4e4a398d3a5"
+rule = "filter-verbs"
+file = "scenes/among-friends.md"
+text = "Pace took a curve, easy, and she watched the corner of his mouth in the dash light."
+note = "Coda triage 2026-08-05: load-bearing perception — dialogue, afterglow drift, or the perceiving as the erotic event"
+
+[[ok]]
 fp   = "97d517ef5fc1"
 rule = "register-verb"
 file = "scenes/among-friends.md"
 text = "She beat everyone to Vee's things, always had, arrived at them first and fully, a standard other people's RSVPs could only wave at — and here she was, first even ahead of the hosts, at the chair that faced the door, a cold beer already sweating in front of her like she'd been drinking beer all her life, and she'd gotten the room almost exactly right — a chambray shirt with the sleeves cuffed back, the blue doing what blue always did to her eyes, slacks, and then the shoes, little heels a full register too nice for the tile, because there was a floor below which Randi's closet did not go."
 note = "noun use ('a full register too nice') — rule targets the verb; author kept 2026-08-03"
+
+[[ok]]
+fp   = "1cd7f2a42a96"
+rule = "the-way"
+file = "scenes/among-friends.md"
+text = "She came with her boots braced on the floorboard and her free hand clenched in his sleeve and the mile markers going by uncounted, came hard and long and loud in the little warm box of the cab, and he drove her through it, easy, all the way down the far side of it, until her hand unclenched and lay flat on his forearm like something washed ashore."
+note = "Coda triage 2026-08-05: :185 twins the acked :159 'received everything' construction; :191 'all the way down' is idiomatic distance, not the filter construction"
+
+[[ok]]
+fp   = "4e6a31459d0d"
+rule = "the-way"
+file = "scenes/among-friends.md"
+text = "She reached over and took his hand off the wheel — he let her have it, driving on the one wrist without a word — and drew it across the seat and put it up under her sweater, where her bra still sat pushed above her breasts from the parking lot, and he understood her the way he understood everything, no searching, his big hand closing warm over her bare breast and kneading it slow, catching the nipple and pulling until her breath went."
+note = "Coda triage 2026-08-05: :185 twins the acked :159 'received everything' construction; :191 'all the way down' is idiomatic distance, not the filter construction"
+
+[[ok]]
+fp   = "aca632a9bcd9"
+rule = "the-way"
+file = "scenes/among-friends.md"
+text = "He received it the way he received everything, steady, opening to her, and it wasn't enough."
+note = "Deliberate twinned construction: 'the way he received everything' pairs with 'the way he understood everything' — author-approved 2026-08-05"
 
 [[ok]]
 fp   = "e400f389b2dc"
@@ -422,6 +492,62 @@ rule = "there-was-were"
 file = "scenes/among-friends.md"
 text = "But there was nothing in his face except the pleasure of a man delivering a compliment that belonged to someone else."
 note = "existential renders the null result of Vee scanning Pace's face — author accepted 2026-08-05"
+
+[[ok]]
+fp   = "3bb314ccfef3"
+rule = "warm"
+file = "scenes/among-friends.md"
+text = "Vee looked at him a moment, then out at the road, and let it warm her from the middle out, the plain and obvious truth of it, too sweet to poke at: her people, and the thing they had in common was her, and he'd noticed, because he noticed everything."
+note = "Coda triage 2026-08-05: load-bearing warmth — cold/warm engine of the coda (leave-no-trace inversion, 'the warmth kept going' escalation line)"
+
+[[ok]]
+fp   = "44ae2b690994"
+rule = "warm"
+file = "scenes/among-friends.md"
+text = "And the warmth kept going."
+note = "Coda triage 2026-08-05: load-bearing warmth — cold/warm engine of the coda (leave-no-trace inversion, 'the warmth kept going' escalation line)"
+
+[[ok]]
+fp   = "57fee6b1df5d"
+rule = "warm"
+file = "scenes/among-friends.md"
+text = "She reached over and took his hand off the wheel — he let her have it, driving on the one wrist without a word — and drew it across the seat and put it up under her sweater, where her bra still sat pushed above her breasts from the parking lot, and he understood her the way he understood everything, no searching, his big hand closing warm over her bare breast and kneading it slow, catching the nipple and pulling until her breath went."
+note = "Coda triage 2026-08-05: load-bearing warmth — cold/warm engine of the coda (leave-no-trace inversion, 'the warmth kept going' escalation line)"
+
+[[ok]]
+fp   = "c28e38309a4b"
+rule = "warm"
+file = "scenes/among-friends.md"
+text = "He was heavy on her tongue and warm and already hard, and she was greedy about it — there was no other word, she didn't reach for one — greedy with the whole night, the room and the butcher paper and *Vee's boyfriend* said six times to six measuring faces, all of it going into this, into the slow deep work of her mouth in a dark truck in an empty lot."
+note = "Coda triage 2026-08-05: load-bearing warmth — cold/warm engine of the coda (leave-no-trace inversion, 'the warmth kept going' escalation line)"
+
+[[ok]]
+fp   = "d22d2aed268d"
+rule = "warm"
+file = "scenes/among-friends.md"
+text = "She pressed him back a step into the truck, and found his hands, and pulled them up under her sweater herself, cold off the January air against the warm skin of her waist, and her whole body answered its own boldness — her back arching her into him, her breath going ragged against his mouth, her nipples gone hard for the cold or for him, no way to tell and no difference."
+note = "Coda triage 2026-08-05: load-bearing warmth — cold/warm engine of the coda (leave-no-trace inversion, 'the warmth kept going' escalation line)"
+
+[[ok]]
+fp   = "ebaaca05a333"
+rule = "warm"
+file = "scenes/among-friends.md"
+text = "She looked over at him now, dry and warm and easy behind the wheel, one wrist on top of it, nothing in his world trembling, and the wanting came up through her so plainly it was almost calm."
+note = "Coda triage 2026-08-05: load-bearing warmth — cold/warm engine of the coda (leave-no-trace inversion, 'the warmth kept going' escalation line)"
+
+[[ok]]
+fp   = "f99031f555c7"
+rule = "warm"
+file = "scenes/among-friends.md"
+text = "She came with her boots braced on the floorboard and her free hand clenched in his sleeve and the mile markers going by uncounted, came hard and long and loud in the little warm box of the cab, and he drove her through it, easy, all the way down the far side of it, until her hand unclenched and lay flat on his forearm like something washed ashore."
+note = "Coda triage 2026-08-05: load-bearing warmth — cold/warm engine of the coda (leave-no-trace inversion, 'the warmth kept going' escalation line)"
+
+[[ok]]
+fp   = "1c87ff7b634a"
+rule = "weather"
+file = "scenes/among-friends.md"
+text = "Pace was three steps away by the truck with his hands in his jacket pockets, looking at the sky like a man checking for weather."
+note = "Coda triage 2026-08-05: literal-adjacent — a man actually checking the sky for weather"
 
 [[ok]]
 fp   = "17923d3ae69e"
