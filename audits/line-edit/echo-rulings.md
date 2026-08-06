@@ -52,33 +52,40 @@ re-rule against their then-current text.
    occurrences (school-nights, sorority, under-the-rug) vary at their
    chapters' reviews.
 7. **"plain fact of" (6× / 6 ch) — FIX-AT.** Interiority formula; vary.
-8. **"before she'd decided to" (8× / 6 ch) — PROTECT the construction, FIX-AT
-   the exact wording.** Body-before-mind is the book's craft rule and this
-   construction is that rule rendered — the *shape* (action preceding
-   decision) is protected everywhere; the identical five-word phrasing is
-   what varies. **Vol-1 keeper ruled 2026-08-04: `the-bench.md:303`**
-   ("chasing what her body had just lost, before she'd decided to chase
-   it"). The other Vol-1 occurrences (may-i-choose ×2, dear, rock) vary at
-   their chapters' reviews.
-   **Author override 2026-08-06: `two-towels`** ("before she'd decided whether
-   to let him see her do it") **stands unvaried**; the keeper was not
-   contested. Do not re-flag that line.
-   **Amended 2026-08-06 (a-round review):** the harvest undercounted a-round —
-   it holds **three**, not two, the third being the *he'd* variant
-   (`a-round.md:220`, Pace kissing the pinprick), which the "she'd" n-gram
-   missed. Two of the three are **additionally PROTECTED** on cold-read
-   evidence: `a-round.md:58` ("She was learning the rhythm of it before she'd
-   decided to" — claude-fable-5: "could be the epigraph of her entire
-   courtship, and she says it about a tape measure") and `a-round.md:220`
-   (claude-opus-4-8 and claude-fable-5 both credit it as the beat that cracks
-   reader distrust of Pace). `a-round.md:82` was varied at review.
-   **Running total, both 2026-08-06 rulings applied: the wording now stands in
-   FOUR Vol-1 places** — `the-bench:303` (keeper), `two-towels` (override),
-   `a-round:58` and `a-round:220` (protected). Each ruling was made without
-   sight of the other, and the two-towels note's "appears in two Vol-1
-   chapters" was written before the a-round ruling. **Flagged for the author:
-   four may be past what the FIX-AT intent allows — re-rule if so.** Until
-   re-ruled, none of the four is to be re-flagged.
+8. **"before she'd decided to" — PROTECT the construction, RATION the exact
+   wording.** Body-before-mind is the book's craft rule and this construction
+   is that rule rendered — the *shape* (action preceding decision) is
+   protected everywhere. **What is rationed is the exact five-word string
+   `before s/he'd decided to`; variants that break the stem are not counted
+   and need no ruling.**
+   **Corrected count (2026-08-06, superseding the harvest's "8× / 6 ch"):**
+   six in Vol One — `the-bench:303` (keeper), `a-round:58`, `a-round:220`,
+   `peekaboo:39`, `rock:197`, `hills-and-valleys:19`. The harvest missed the
+   *he'd* variant and counted Volume Two occurrences; `ignition-scalding`,
+   `grace` and `in-her-place` are Volume Two and out of scope (author
+   confirmed 2026-08-06).
+   **Ruled and closed:** `the-bench:303` is the keeper (ruled 2026-08-04 —
+   "chasing what her body had just lost, before she'd decided to chase it").
+   `a-round:58` and `a-round:220` **PROTECTED** on cold-read evidence
+   (claude-fable-5 calls :58 "the epigraph of her entire courtship, and she
+   says it about a tape measure"; claude-opus-4-8 and claude-fable-5 both
+   credit :220, the *he'd* variant, as the beat that cracks reader distrust
+   of Pace). `a-round:82` was varied at that review.
+   **`two-towels:57` was never in scope** — "before she'd decided *whether*
+   to let him see her do it" breaks the stem at word four and does different
+   work (action outrunning deliberation-about-being-seen, not decision). The
+   2026-08-06 "override" is **rescinded as unnecessary, not reversed**; the
+   line stands as written and is not counted against the ration.
+   **Three are spent.** The remaining Vol-1 occurrences — `peekaboo:39`,
+   `rock:197`, `hills-and-valleys:19` — **vary at their chapters' reviews by
+   default.** A further instance may be kept **only on the author's explicit
+   direction at that chapter's review** (author ruling 2026-08-06); an editor
+   or reviewer may propose one, but may not grant it.
+8b. **"before she'd decided anything" — UNRULED (raised 2026-08-06).** Same
+   construction family, missed by the harvest: `see-you-later:49` (chapter
+   already reviewed), `all-the-time:55`, `lesson:143` — three in Vol One.
+   **Awaiting an author ruling; treat as unruled, not licensed.** Editors may
+   raise an occurrence at their chapter's review; do not vary in bulk.
 9. **Furniture block — IGNORE.** "a moment longer," "across the table," "the
    door open," "edge of the bed," "the foot of the bed," "from across the
    room," "held the door": ordinary spatial/temporal furniture, not echoes.

@@ -73,11 +73,13 @@ them or re-argue the ones that deviate from the report.
   is named-and-quoted reader praise (claude-fable-5: "That undid me") *and*
   carries a standing line-audit verdict above. Both protected.
 - **Cold-read enrichment re-opened echo ledger #8** — see
-  `audits/line-edit/echo-rulings.md` (amended 2026-08-06): the harvest
+  `audits/line-edit/echo-rulings.md` #8 (rewritten 2026-08-06): the harvest
   undercounted this chapter (three, not two — the third is the *he'd*
   variant at `:220`), and `:58` and `:220` are now PROTECTED on reader
-  evidence. Vol One deliberately keeps three instances of that wording. Not
-  an oversight; do not re-flag.
+  evidence. The entry now rations the **exact five-word string** and records
+  the corrected Vol-1 count (six; three ruled and spent — `the-bench:303`
+  plus these two). `peekaboo:39`, `rock:197` and `hills-and-valleys:19` vary
+  by default at their reviews. Not an oversight; do not re-flag these two.
 
 ## Applied, with rationale worth keeping
 

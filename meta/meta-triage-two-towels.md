@@ -113,9 +113,16 @@ evidence** (verdicts re-open on a text edit to the passage).
   opus-4-8: "the patent broke me a little"). **Do not re-flag.**
 - **"before she'd decided whether to let him see her do it"** (echo ledger
   FIX-AT #8) — author override, 2026-08-06: this occurrence **stands unvaried**,
-  and the `the-bench.md:303` keeper is **not** contested. Consequence accepted:
-  "before she'd decided" appears in two Volume One chapters. Do not vary this
+  and the `the-bench.md:303` keeper is **not** contested. Do not vary this
   line at a later pass.
+  **Superseded same day (2026-08-06), outcome unchanged:** the override was
+  unnecessary — ledger #8 rations the exact five-word string `before s/he'd
+  decided to`, and this line breaks the stem at word four ("decided *whether*
+  to…"), so it was never in scope. The "appears in two Volume One chapters"
+  arithmetic was written before the concurrent a-round ruling and was wrong on
+  both sides; see `audits/line-edit/echo-rulings.md` #8 for the corrected
+  count (six in Vol One, three ruled). This line stands as written and is not
+  counted against the ration.
 - **The Sanskrit quip** ("I didn't realize you knew Sanskrit") — fable-5's
   only line-level complaint, doubly hedged (*"Maybe the Sanskrit quip was a
   touch cute"*). Author ruling: keep. The joke is load-bearing — Vee meeting
