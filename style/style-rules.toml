@@ -213,6 +213,14 @@ severity = "error"
 scope    = "scenes"
 why      = "AUTHOR RULING (2026-08-06): 'sternum' is banned outright — no one says 'sternum'; if we aren't using adverbs to mimic common speech we're definitely not using sternum. Feelings live in the chest, heart, throat, stomach, gut, behind the eyes, a clenched jaw, a burning face, tingling hands; for literal anatomy use breastbone or chest. No exceptions, no --ack."
 
+[[rule]]
+id       = "no-record-player"
+kind     = "regex"
+pattern  = '(?i)\b(?:record player|phonograph|gramophone|wax cylinder|piano roll|cassette|8-track)s?\b|\bneedle (?:dropped|drop|on the record)\b'
+severity = "error"
+scope    = "scenes"
+why      = "AUTHOR RULING (2026-08-06): anachronism — there is no record player in Pace's house; he controls music from his phone (playlists; stereo/speakers are only the output — see the {{In Her Place}} music note). Period music hardware reads like wax cylinders on a college campus. Render room-music phone-driven and unremarked. ('turntable'/'vinyl' deliberately not matched: the diner's display turntable and vinyl siding/seats are legitimate.)"
+
 # ---- Hard canon rules (never name, never explain) ---------------------------
 
 [[rule]]
