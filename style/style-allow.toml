@@ -1509,6 +1509,13 @@ text = "The thing she wanted to say was bigger than any words she had for it, an
 note = "deliberate/earned; author-blessed keep"
 
 [[ok]]
+fp   = "303a8d2f5ec0"
+rule = "a-small"
+file = "scenes/leave-no-trace.md"
+text = "The thing she wanted to say was bigger than any words she had for it, and she was going to put a small thing where the big thing went."
+note = "line-edit pass 2026-08-06: warm load-bearing (cold-to-warm chapter), she-saw-what-he-saw device, small/big figure, flat existential tact — author sign-off"
+
+[[ok]]
 fp   = "53c75b8840aa"
 rule = "a-small"
 file = "scenes/leave-no-trace.md"
@@ -1535,6 +1542,13 @@ rule = "began-to"
 file = "scenes/leave-no-trace.md"
 text = "He started to say something."
 note = "info-level; correct/deliberate usage or working rhythm (interruption, embodied verb, idiom); author-blessed keeps"
+
+[[ok]]
+fp   = "2c57907b470b"
+rule = "filter-verbs"
+file = "scenes/leave-no-trace.md"
+text = "She saw what he saw — the shirt open to her breastbone, the wet bra gone sheer, the shape of her nipples through the pale cotton, the swell of her above the cup where the wet had dragged it down, her skin shocked pink with cold, the gooseflesh on it, a last drop of rain running down between her breasts out of her wet hair."
+note = "line-edit pass 2026-08-06: warm load-bearing (cold-to-warm chapter), she-saw-what-he-saw device, small/big figure, flat existential tact — author sign-off"
 
 [[ok]]
 fp   = "456dd899de04"
@@ -1614,6 +1628,13 @@ text = "The bench ran the width of the cab and behind it on the narrow shelf was
 note = "literal: 'the way up' = uphill trail direction, not the filtered tic (re-armed by filter-verb edit)"
 
 [[ok]]
+fp   = "3a300eae31f3"
+rule = "the-way"
+file = "scenes/leave-no-trace.md"
+text = "The bread was dry, the crust giving its small chew, and then the lettuce cold and loud against her teeth, and then the mustard came sharp and sour and woke her whole mouth, and then the meat under it, red and full, and then — a beat behind the rest, climbing — the heat of it bloomed all the way up into her sinuses and watered her eyes and pulled a gasp out of her around the mouthful."
+note = "line-edit pass 2026-08-06: warm load-bearing (cold-to-warm chapter), she-saw-what-he-saw device, small/big figure, flat existential tact — author sign-off"
+
+[[ok]]
 fp   = "407bb32d11d7"
 rule = "the-way"
 file = "scenes/leave-no-trace.md"
@@ -1677,6 +1698,13 @@ text = "He looked at the heel the way a man looks at a heel."
 note = "earned simile / deliberate tautology; author-blessed keep"
 
 [[ok]]
+fp   = "5451572574ab"
+rule = "there-was-were"
+file = "scenes/leave-no-trace.md"
+text = "He was looking at her and nowhere else, and nothing asked for it, and when he spoke there was no weight on it at all."
+note = "line-edit pass 2026-08-06: warm load-bearing (cold-to-warm chapter), she-saw-what-he-saw device, small/big figure, flat existential tact — author sign-off"
+
+[[ok]]
 fp   = "6b1c568dc3b8"
 rule = "there-was-were"
 file = "scenes/leave-no-trace.md"
@@ -1710,6 +1738,69 @@ rule = "there-was-were"
 file = "scenes/leave-no-trace.md"
 text = "He was looking at her, all of his attention on her and nothing asked for it, and when he spoke there was no weight on it at all."
 note = "info-level; correct/deliberate usage or working rhythm (interruption, embodied verb, idiom); author-blessed keeps"
+
+[[ok]]
+fp   = "085e6d465c0d"
+rule = "warm"
+file = "scenes/leave-no-trace.md"
+text = "It was soft, and it was warm — not warm from a body, warm the way dry folded cloth is warm against wet skin, the *dry* of it almost a heat."
+note = "line-edit pass 2026-08-06: warm load-bearing (cold-to-warm chapter), she-saw-what-he-saw device, small/big figure, flat existential tact — author sign-off"
+
+[[ok]]
+fp   = "2a1b333b8b7c"
+rule = "warm"
+file = "scenes/leave-no-trace.md"
+text = "The thing that had happened was in the cab with them, holding still in the warm air."
+note = "line-edit pass 2026-08-06: warm load-bearing (cold-to-warm chapter), she-saw-what-he-saw device, small/big figure, flat existential tact — author sign-off"
+
+[[ok]]
+fp   = "2cb387e84ff2"
+rule = "warm"
+file = "scenes/leave-no-trace.md"
+text = "Somewhere in the second mile he reached over and put the fan on, and the air came warm immediately, and her shivering slowed and quit."
+note = "line-edit pass 2026-08-06: warm load-bearing (cold-to-warm chapter), she-saw-what-he-saw device, small/big figure, flat existential tact — author sign-off"
+
+[[ok]]
+fp   = "2ed59e9db90b"
+rule = "warm"
+file = "scenes/leave-no-trace.md"
+text = "She pulled it on over her wet skin and her wet bra, and it drank the cold off her and went warm against her ribs and her belly, almost too warm, the relief overstating itself."
+note = "line-edit pass 2026-08-06: warm load-bearing (cold-to-warm chapter), she-saw-what-he-saw device, small/big figure, flat existential tact — author sign-off"
+
+[[ok]]
+fp   = "52d2bca282c5"
+rule = "warm"
+file = "scenes/leave-no-trace.md"
+text = "He took a kit from the pack, opened it on his knee, cut a square of moleskin, pressed it to her heel with his thumb and held it there to warm it."
+note = "line-edit pass 2026-08-06: warm load-bearing (cold-to-warm chapter), she-saw-what-he-saw device, small/big figure, flat existential tact — author sign-off"
+
+[[ok]]
+fp   = "55e42f7d82d8"
+rule = "warm"
+file = "scenes/leave-no-trace.md"
+text = "She brought his hand in against her belly, under the flannel, against the warmth the dry shirt was making on her, and held it there."
+note = "line-edit pass 2026-08-06: warm load-bearing (cold-to-warm chapter), she-saw-what-he-saw device, small/big figure, flat existential tact — author sign-off"
+
+[[ok]]
+fp   = "a33f751015f4"
+rule = "warm"
+file = "scenes/leave-no-trace.md"
+text = "\"Truck needs to warm up,\" he said."
+note = "line-edit pass 2026-08-06: warm load-bearing (cold-to-warm chapter), she-saw-what-he-saw device, small/big figure, flat existential tact — author sign-off"
+
+[[ok]]
+fp   = "ce41410fabe8"
+rule = "warm"
+file = "scenes/leave-no-trace.md"
+text = "The flannel was warm on her."
+note = "line-edit pass 2026-08-06: warm load-bearing (cold-to-warm chapter), she-saw-what-he-saw device, small/big figure, flat existential tact — author sign-off"
+
+[[ok]]
+fp   = "d55e7f8b4a24"
+rule = "warm"
+file = "scenes/leave-no-trace.md"
+text = "\"Get warm."
+note = "line-edit pass 2026-08-06: warm load-bearing (cold-to-warm chapter), she-saw-what-he-saw device, small/big figure, flat existential tact — author sign-off"
 
 [[ok]]
 fp   = "c257795a7a18"

@@ -9,24 +9,24 @@ the echo shortlist with the author before per-chapter editing starts).
 | 1 | The Bench | the-bench | reviewed |
 | 2 | Standards | standards | reviewed |
 | 3 | The Pointing Game | the-pointing-game | reviewed |
-| 4 | See You Later | see-you-later | edited |
-| 5 | Substitution | substitution | edited |
-| 6 | The Long Way | long-way | edited |
-| 7 | Water Wings | water-wings | edited |
-| 8 | May I Choose | may-i-choose | edited |
-| 9 | Off Six-Fourteen | off-six-fourteen | edited |
-| 10 | Dear | dear | edited |
-| 11 | Leave No Trace | leave-no-trace | pending |
-| 12 | Rye | rye | pending |
-| 13 | What to Wear | what-to-wear | pending |
-| 14 | Two Towels | two-towels | pending |
-| 15 | A Round | a-round | pending |
-| 16 | Turned Up | turned-up | pending |
-| 17 | How It's Done | how-its-done | pending |
-| 18 | Famished | famished | pending |
-| 19 | Toenails | toenails | pending |
-| 20 | Fed | fed | pending |
-| 21 | Peekaboo | peekaboo | pending |
+| 4 | See You Later | see-you-later | reviewed |
+| 5 | Substitution | substitution | reviewed |
+| 6 | The Long Way | long-way | reviewed |
+| 7 | Water Wings | water-wings | reviewed |
+| 8 | May I Choose | may-i-choose | reviewed |
+| 9 | Off Six-Fourteen | off-six-fourteen | reviewed |
+| 10 | Dear | dear | reviewed |
+| 11 | Leave No Trace | leave-no-trace | reviewed |
+| 12 | Rye | rye | edited |
+| 13 | What to Wear | what-to-wear | edited |
+| 14 | Two Towels | two-towels | edited |
+| 15 | A Round | a-round | edited |
+| 16 | Turned Up | turned-up | edited |
+| 17 | How It's Done | how-its-done | edited |
+| 18 | Famished | famished | edited |
+| 19 | Toenails | toenails | edited |
+| 20 | Fed | fed | edited |
+| 21 | Peekaboo | peekaboo | edited |
 | 22 | All Told | all-told | pending |
 | 23 | Sorority | sorority | pending |
 | 24 | Gone | gone | pending |

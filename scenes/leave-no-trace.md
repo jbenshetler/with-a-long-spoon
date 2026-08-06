@@ -8,7 +8,7 @@ The trail came out of the gravel lot and went straight up into the trees, and sh
 
 It was the kind of bright that made her squint with no sun behind it — silver overcast pressed down close, the air with the wet edge that mountains have in fall. The trail did not look like a trail. It looked like a wall of woods with a path scratched up the front of it, and the path went up at a pitch her legs read before her eyes did. Her chest went tight. Her hand came up off the door toward her throat and stopped halfway and dropped.
 
-She had said yes to this walking back from the dinner, the yes out before she'd weighed it. It came out the way you reach for a thing before you've decided you want it. There had been no wall of trees in the yes. There had been him.
+She had said yes to this walking back from the dinner, the yes out before she'd weighed it. There had been no wall of trees in the yes. There had been him.
 
 Pace was checking the straps on his pack. He looked up and saw her face and didn't make anything of it.
 
@@ -26,13 +26,13 @@ The trail eased in, like he'd said. The trees came close on both sides. The worl
 
 Pace went ahead. She followed. He'd said *I'll set a pace, tell me if it's wrong,* and the pace he set was slower than she'd braced for. He walked at the speed of her not knowing how. He didn't make her feel slow.
 
-His shirt was bright blue. Synthetic, fitted close — cobalt against all that brown and gray, the only bright thing in the woods. It moved with him the way cotton never did. It showed his back as he climbed. The long line of him, shoulder to waist, the muscle working under the cloth. She hadn't seen his back before. She'd had a sense of it. The shirt gave her the rest.
+His shirt was bright blue. Synthetic, fitted close — cobalt against all that brown and gray, the only bright thing in the woods. It moved with him the way cotton never did. It showed his back as he climbed. The long line of him, shoulder to waist, the muscle working under the cloth. She hadn't seen his back before. She'd had a sense of it.
 
 They talked at first. Small things. The trail, where it went, how long. He'd been here before. He liked it because it didn't take all day and the top was worth it. He didn't sell her the top. He said it was worth it and left her to find out.
 
 The grade steepened. Her lungs were fine. Her thighs were another matter. In all the years of practice, the pool had never asked them for this and they had begun to burn. The talk stopped and he didn't fill it. The slip in the right boot had been working at one spot a long time, and the spot was hot now, a small hot place at the back of her heel where the sock caught it every time her foot lifted.
 
-The climb would change. The grade would ease. She kept climbing.
+The climb would change. It would ease. She kept climbing.
 
 The grade pitched up another notch. Her foot pushed off. The hot place caught.
 
@@ -76,7 +76,7 @@ The trees ended all at once and the world fell open in front of her and she stop
 
 His blue shirt was nothing against it. The world swallowed his blue whole. The world swallowed everything that was in it and went on being the world.
 
-She didn't say *oh.* She didn't say any of the words. There was wind up here that hadn't existed inside the trees, and it found her hair, always her hair, and lifted it and laid it across her face, and she stood in it and looked, and her body came back to her by pieces — that she was tired, that she was hungry, that the sweat down her back had started to turn to ice as the wind reached it. The body came back after the seeing, slow, the way a sound comes back after it's been too loud to hear.
+She didn't say *oh.* She didn't say any of the words. There was wind up here that hadn't existed inside the trees, and it found her hair, always her hair, and lifted it and laid it across her face, and she stood in it and looked, and her body came back to her by pieces — that she was tired, that she was hungry, that the sweat down her back had started to turn to ice as the wind reached it. The body came back after the seeing, slow.
 
 A few steps ahead of her he had stopped. When she looked over he was already looking at her — not at the valley, at her face in front of the valley — and he didn't look away when she caught him doing it. He let her catch him. Then he turned back to the world and gave her the rest of the looking alone.
 
@@ -90,7 +90,7 @@ He pulled sandwiches from the pack, wrapped in wax paper twisted at the ends, an
 
 She didn't have anything to do with that but eat. She bit.
 
-The bread was dry, the crust giving its small chew, and then the lettuce cold and loud against her teeth, and then the mustard came sharp and sour and woke her whole mouth, and then the meat under it, red and full and substantial, and then — a beat behind the rest, climbing — the heat of it bloomed all the way up into her sinuses and watered her eyes and pulled a gasp out of her, half a laugh, around the mouthful.
+The bread was dry, the crust giving its small chew, and then the lettuce cold and loud against her teeth, and then the mustard came sharp and sour and woke her whole mouth, and then the meat under it, red and full, and then — a beat behind the rest, climbing — the heat of it bloomed all the way up into her sinuses and watered her eyes and pulled a gasp out of her around the mouthful.
 
 "Oh—that's—"
 
@@ -98,17 +98,17 @@ The bread was dry, the crust giving its small chew, and then the lettuce cold an
 
 "No. No." She bit again to prove it. The horseradish climbed again, less of an ambush this time, the heat of it going up into her head, and her eyes ran, and she didn't care that they ran.
 
-He passed her the water. One bottle. The metal was cold from the pack and the water in it was colder, hard and clean and mineral, and it went down through the burn of the horseradish and rinsed her mouth back to nothing, and she handed it back and he drank from it where her mouth had been without making a thing of it.
+He passed her the water. One bottle. The metal was cold from the pack and the water in it was colder, hard and clean and mineral, and it went down through the burn of the horseradish and rinsed her mouth back to nothing, and she handed it back and he drank from it where her mouth had been.
 
 They ate. She didn't talk because she was eating, and the eating was the whole thing — the hunger coming up to meet the food, the food good enough to be worth the hunger, the plain animal rightness of needing something and being handed it. The hike had made her hungry first. That was the trick of it. That was what it was for.
 
 When she finished she crumpled her paper and he took it from her and folded it into a pocket of the pack that already had a sound of crumpled paper in it.
 
-The cherries came out of a small container. Dark red, near black where they were deepest, the skins shining. He set them on the rock between them. She took one. The skin was cold on her lip. She bit, and the sweet came first, bright and cold, and then the acid edged up under the sweet, and then the small bitter of the skin at the back of her tongue, and she wanted another one before she'd finished the first.
+The cherries came out of a small container. Dark red, near black where they were deepest, the skins shining. He set them on the rock between them. She took one. The skin was cold on her lip. She bit, and the sweet came first, bright and cold, the acid edging up under it, the small bitter of the skin at the back of her tongue behind that, and she wanted another one before she'd finished the first.
 
 She spit the pit. It hit the rock a few feet off and rolled and stopped.
 
-"We take nothing and leave nothing," he said. Gentle. He picked the pit up between two fingers, smoothed a square of wax paper open on the rock between them, and set the pit on it.
+"We take nothing and leave nothing," he said. Gentle. He picked the pit up between two fingers, smoothed a square of wax paper open on the rock, and set the pit on it.
 
 Her face went hot. She hadn't known. The voice had its quick word for it — the *no one taught you* word, the *common* word — and Pace was already reaching for another cherry himself, and when his own pit came he laid it on the wax paper beside hers and didn't look at her doing it.
 
@@ -130,13 +130,13 @@ She heard it as it came out. The wanting in it. The reach of it — the dorm gir
 
 "I can't afford it. Obviously." She put the cherry in her mouth. "There's a black dress in the back of my closet. It's been good enough for every dinner I've had to dress for. It'll be good enough for this one." She set the russet down as she said it. You put a thing back on the shelf and you keep walking.
 
-He hadn't said anything. She looked up. He was looking at her, all of his attention on her and nothing asked for it, and when he spoke there was no weight on it at all.
+He hadn't said anything. She looked up. He was looking at her and nowhere else, and nothing asked for it, and when he spoke there was no weight on it at all.
 
 "That sounds like a beautiful dress."
 
 That was all. He took another cherry. So did she. The talk moved on — to the dinner, to whether her parents would come down, her mother yes and her father no for work — and the dress stayed where she'd set it down on the rock between them, and he didn't pick it up again.
 
-The wind laid her hair across her face. She pushed it back with her hand and let it go.
+The wind took her hair across her face again. She pushed it back with her hand and let it go.
 
 He looked at the sky. It was the same sky it had been an hour ago, silver and low, but he read something in it she couldn't.
 
@@ -162,7 +162,7 @@ They came out of the woods and she went at the truck the way you go at shelter.
 
 ---
 
-He got to her door a step ahead of her and opened it and she climbed in and hauled it shut. The rain on the cab roof was louder inside than out, a steady drum on the metal. He was already in, turning the key, and the engine caught and he put the heat to full, and the fan came up loud, and the air out of the vents was cold. "It'll only blow cold till the truck warms up," he said. "Give it a minute."
+He got to her door a step ahead of her and opened it and she climbed in and hauled it shut. The rain on the cab roof was louder inside than out, a steady drum on the metal. He was already in, turning the key, and the engine caught. He left the fan alone. "Truck needs to warm up," he said.
 
 She was shivering. She hadn't known it until she sat still and the cold caught up to her.
 
@@ -172,7 +172,7 @@ She took it.
 
 It was soft, and it was warm — not warm from a body, warm the way dry folded cloth is warm against wet skin, the *dry* of it almost a heat. Thick flannel. It would drink the wet off her like a towel. She held it in both hands in her lap and looked at it.
 
-His only dry shirt. The one he'd packed for himself, for after, because he showered at the gym and had no house here to go to — and he'd put it in her hands instead.
+His only dry shirt. The one he'd packed for himself, for after, because he showered at the gym and had no house here to go to.
 
 He opened his door and got out.
 
@@ -210,13 +210,13 @@ His face moved. Small. Nothing anyone outside the cab could have read. A little 
 
 Top button. The wet cotton dragged at her cold fingers and the button came through and the collar opened. Second. Third. Her hands knew the buttons. She didn't look down for them. She kept her eyes on his. He stayed.
 
-*This is what girls who. Three dates. Your mother would never. Your mother.* The voice was the heat and the heat was the voice, the two run together inside her now, and she was hot in the cold cab with her nipples hard against the wet bra and she could feel them and she knew he could see what her body was doing in the open V of the shirt, and she gave it to him to see.
+*This is what girls who. Three dates. Your mother would never. Your mother.* The voice was the heat and the heat was the voice, and she was hot in the cold cab with her nipples hard against the wet bra and she could feel them and she knew he could see what her body was doing in the open V of the shirt, and she gave it to him to see.
 
 She didn't have to look down for the fourth. She could have taken it by feel like the others and kept his eyes the whole way.
 
 She looked down anyway, and his eyes went with hers.
 
-She saw what he saw — the shirt open to her sternum, the wet bra gone sheer, the shape of her nipples through the pale cotton, the swell of her above the cup where the wet had dragged it down, her skin shocked pink with cold, the gooseflesh on it, a last drop of rain running down between her breasts out of her wet hair. The voice said *floozy* in her mother's exact word and her thighs pressed once, hard, on their own, under her jeans.
+She saw what he saw — the shirt open to her breastbone, the wet bra gone sheer, the shape of her nipples through the pale cotton, the swell of her above the cup where the wet had dragged it down, her skin shocked pink with cold, the gooseflesh on it, a last drop of rain running down between her breasts out of her wet hair. The voice said *floozy* in her mother's exact word and her thighs pressed once, hard, on their own, under her jeans.
 
 Fourth button. Fifth. The last.
 
@@ -230,7 +230,7 @@ She reached for his hand with the other.
 
 It was on the seat between them and she reached to bring it to her mouth — to kiss his knuckles, to start the next thing, because her body was already going at the next thing and the next thing was more — and her fingers closed around it and it was shaking.
 
-He was shivering. He'd been shivering. He was in a soaked shirt and soaked pants and he'd been out in the rain twice over, on the trail and standing at the truck, and he was cold enough that his hand trembled in hers.
+He was shivering. He'd been shivering.
 
 The reach to her mouth stopped. Her fingers closed tighter. She brought his hand in against her belly, under the flannel, against the warmth the dry shirt was making on her, and held it there.
 
@@ -244,15 +244,13 @@ He nodded. He left his hand against her belly a beat longer than he had to, and 
 
 ---
 
-The drive was mostly quiet. Somewhere in the second mile the heat caught up with itself and the cab went warm and her shivering slowed and quit. She sat in his flannel, buttoned to the collar now, her wet jeans heavy on her legs, her own wet shirt balled in her lap, and watched the road come at them through the rain. He drove with both hands on the wheel and his jaw set against his own wet clothes. He didn't turn to her. He didn't need to. The thing that had happened was in the cab with them, holding still in the warm air.
+The drive was mostly quiet. Somewhere in the second mile he reached over and put the fan on, and the air came warm immediately, and her shivering slowed and quit. She sat in his flannel, buttoned to the collar now, her wet jeans heavy on her legs, her own wet shirt balled in her lap, and watched the road come at them through the rain. He drove with both hands on the wheel and his jaw set against his own wet clothes. He didn't turn to her. He didn't need to. The thing that had happened was in the cab with them, holding still in the warm air.
 
 ---
 
 The rain was still coming when he pulled up at her dorm. He didn't take a real spot. He pulled the truck up the drive to the entrance — the fire lane, the red-painted curb — and stopped under the overhang where the rain wasn't, and put it in park, and turned to her.
 
-He'd parked illegal so she wouldn't have to cross the rain.
-
-Her hand was on the door. She turned to him. The thing she wanted to say was bigger than any words she had for it, and she was going to put a small thing where the big thing went, because the small thing was the one that fit. She opened her mouth.
+Her hand was on the door. She turned to him. The thing she wanted to say was bigger than any words she had for it, and she was going to put a small thing where the big thing went. She opened her mouth.
 
 "Pace—"
 
