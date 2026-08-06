@@ -12,7 +12,7 @@ She had been stuck on the problem for forty minutes when Randi suggested they mo
 
 "You've been *not solving it* for an hour. That's different."
 
-Vee laughed because Randi was right, the way Randi was usually right about the small social registers Vee was operating in. The laugh let her sit back from the page. She picked up her coffee and held it between both hands and looked across the table at Randi, who had her own laptop open in front of her and was scrolling something — the sorority calendar, Vee thought, but did not ask. Beyond Randi at the next table over, Cassie sat with her own work spread out in her own quiet manner, headphones in, the volume low enough that she sometimes laughed at things people said two tables away.
+Vee laughed because Randi was right, the way Randi was usually right about the social registers Vee was operating in. The laugh let her sit back from the page. She picked up her coffee and held it between both hands and looked across the table at Randi, who had her laptop open in front of her and was scrolling something — the sorority calendar, Vee thought, but did not ask. Beyond Randi at the next table over, Cassie sat with her own work spread out in her quiet manner, headphones in, the volume low enough that she sometimes laughed at things people said two tables away.
 
 "It's really hard," Vee said.
 
@@ -24,7 +24,7 @@ Vee laughed because Randi was right, the way Randi was usually right about the s
 
 "I want to do it." She said it more to the page than to Randi.
 
-Randi smiled the small *of course you do* smile and went back to her scroll.
+Randi smiled the *of course you do* smile and went back to her scroll.
 
 "It's not that I can't read it," Vee said, half to herself. "I know what it wants. I've got the whole setup. It's this integral — I know how to do integrals, and this one just won't go."
 
@@ -32,7 +32,7 @@ She set the cup down and picked the pencil back up and read the problem again. E
 
 She pulled in a breath and let it out and set the pencil down again.
 
-Vee looked up. Randi was texting — thumbs quick, eyes down, the small private focus of a girl writing to someone who had her attention. Some boy, Vee thought, amused, and looked back at her page.
+Vee looked up. Randi was texting — thumbs quick, eyes down, the private, absorbed focus of a girl writing to someone who had her attention. Some boy, Vee thought, amused, and looked back at her page.
 
 But the page didn't hold her, and when she looked up again Cassie, two tables over, was watching Randi thumb at her phone — the flat, patient look Cassie kept for Randi, for the sorority polish of her, the ease of her. *She's not serious,* the look said, or that was how Vee read it. Cassie and Randi had never quite taken to each other, and Vee let it be. Cassie set her pencil down and reached for her coffee.
 
@@ -58,11 +58,11 @@ Cassie's voice was at its plain volume. Vee looked up. Cassie was looking past h
 
 Vee turned her head.
 
-A man was crossing to their table. He had a few steps to cover and he was using them — his eyes on her face the whole way, not on the table, not on Randi, on her. Her shoulders settled differently. Something in her chest went quiet. By the time he reached the corner of their table she had been being looked at for what felt like, but could not have been, a long time.
+A man was crossing to their table. He had a few steps to cover and he was using them — his eyes on her face the whole way, not on the table, not on Randi, on her. Her shoulders settled differently. Something in her chest went quiet.
 
-He stopped at the corner. He was looking at her.
+He stopped at the corner.
 
-Up close he was nothing her eye would have caught in a crowd — a pleasant, ordinary face, light brown hair cut short and easy, not one feature in it that asked for a second look. No individual part of him was particularly impressive but the whole of him was, and she could not say how. She only felt the room settle a half-degree around where he stood. Then he smiled at her, and it was only at her — a smile that seemed to have picked her out of the whole day and decided she was the reason it had come across the room. She felt singled out. She felt, absurdly, chosen.
+Up close he was nothing her eye would have caught in a crowd — a pleasant, ordinary face, light brown hair cut short and easy, not one feature in it that asked for a second look. No individual part of him was particularly impressive but the whole of him was, and she could not say how. She only felt the room settle a half-degree around where he stood. Then he smiled at her, and it was only at her — a smile that seemed to have picked her out of the whole day and decided she was the reason it had come across the room. She felt, absurdly, chosen.
 
 Beside her, Randi's hand moved to her coffee cup. Vee did not see the movement. Vee was looking at the man who was looking at her.
 
@@ -78,13 +78,13 @@ The voice was smaller this time — different from the one he had used a half-se
 
 "Yes," she said. "Please. Thank you."
 
-He did glance at Randi then, briefly — the courtesy of a stranger acknowledging that there was another person at the table — and at Cassie at the next table over, the same courtesy. Both women returned the brief acknowledgment. He pulled out the empty chair at their table without dragging it and sat. There was an economy in how he folded down into it that she felt before she could have named it — nothing in the movement spent that did not need spending. He was not a big man. He moved like someone who had never once had to think about where his body was.
+He did glance at Randi then, briefly — the courtesy of a stranger acknowledging that there was another person at the table — and at Cassie at the next table over, the same courtesy. He pulled out the empty chair at their table without dragging it and sat. There was an economy in how he folded down into it that she felt before she could have named it — nothing in the movement spent that did not need spending. He was not a big man. He moved like someone who had never once had to think about where his body was.
 
 "I'm Pace," he said.
 
-"Vivienne." It came out automatically, the full form, and then — because being looked at like that had loosened something, made her want to be a little more than herself, a little more like the kind of girl who was easy in a moment like this — she reached for the line. She had watched Randi do it the day they'd met, in the lecture hall, the practiced little swerve, and it had looked so easy and so good that some part of her had filed it to try on later. "Vivienne Thorne. V.T. Yes, like the university." A beat, the way Randi did the beat. "No, my parents didn't plan it. Yes, they find it funnier than I do."
+"Vivienne." It came out automatically, the full form, and then — because being looked at like that had loosened something, made her want to be a little more than herself, a little more like the kind of girl who was easy in a moment like this — she reached for the line. She had watched Randi do it the day they'd met, in the lecture hall, the practiced little swerve, and it had looked so easy and so good that some part of her had tucked it away to try on later. "Vivienne Thorne. V.T. Yes, like the university." A beat, the way Randi did the beat. "No, my parents didn't plan it. Yes, they find it funnier than I do."
 
-It landed. Pace's mouth did something warm at the corner, and Vee felt the small lift of having pulled it off — the borrowed poise sitting on her better than she'd expected, the room tilting half a degree toward her.
+It landed. Pace's mouth did something warm at the corner, and Vee felt the small lift of having pulled it off — the borrowed poise sitting on her better than she'd expected.
 
 "Vee," she added, quickly, suddenly wanting her own name back. "People call me Vee."
 
@@ -92,7 +92,7 @@ It landed. Pace's mouth did something warm at the corner, and Vee felt the small
 
 One word. She did not do the adjective thing. She did not do the parents-had-a-sense-of-humor thing. She gave him her name as a single bare word and waited.
 
-"Cassie," said Cassie, from the next table, with a small wave.
+"Cassie," said Cassie, from the next table, with a wave.
 
 "Cassie. Vee. Randi." Pace nodded the small *got it* nod of a person registering names properly. He angled himself toward Vee's page. "Do you mind?"
 
@@ -134,7 +134,7 @@ She went on from there. The thing she had learned years ago and set aside as a c
 
 "That's it," he said.
 
-She felt — and this was where her body got ahead of her mind by what felt like a full second, the kind of beat she would not be able to clock until later — *what he had done.* Not the math part, which was small and tidy. The other part. The way he had read it like a problem he was meeting for the first time. The way he had asked her what her professor had said, instead of telling her what *he* would have said. The way his pencil-mark had been a margin note, not a rewrite. The way he had given her *back the pencil* at the exact line where she could solve it herself. He had picked, out of the several possible paths into the problem, the path that was a tutor's path and not a mathematician's. The path he picked was — she could see this with her econ training, the muscle she had been developing for two years now, the eye for *how a smart person handles a problem they could handle in any of several ways* — was the path of a person who wasn't performing — not showing off, not hiding it either — who had kept himself out of it so the solving stayed hers. He had not pretended the problem was hard. He had simply not done the thing he could have done, which was solve it for her in two lines. He had given her the question and given her back the pencil. The way he had—
+She felt — and this was where her body got ahead of her mind by what felt like a full second, the kind of beat she would not catch until later — *what he had done.* Not the math part, which was small and tidy. The other part. The way he had read it like a problem he was meeting for the first time. The way he had asked her what her professor had said, instead of telling her what *he* would have said. The way his pencil-mark had been a margin note, not a rewrite. The way he had given her *back the pencil* at the exact line where she could solve it herself. He had picked, out of the several possible paths into the problem, the path that was a tutor's path and not a mathematician's. The path he picked was — she could see it with her econ eye, the eye for *how a smart person handles a problem they could handle in any of several ways* — the path of a person who wasn't performing — not showing off, not hiding it either — who had kept himself out of it so the solving stayed hers. He had not pretended the problem was hard. He had simply not done the thing he could have done, which was solve it for her in two lines. He had given her the question and given her back the pencil. The way he had—
 
 The thought did not finish. She was already smiling at him. He was already saying something to Randi, who had asked a question of her own.
 
@@ -146,7 +146,7 @@ The thought did not finish. She was already smiling at him. He was already sayin
 
 "Sure."
 
-He turned back to Vee. Randi's question had gotten the answer it had asked for — a single clean sentence — and the conversation had moved on. Vee filed it without filing it: *he answered her well, the way you'd answer anybody, and he answered me longer. He is here for the math help. He is also—*
+He turned back to Vee. Vee filed it without filing it: *he answered her well, the way you'd answer anybody, and he answered me longer. He is here for the math help. He is also—*
 
 The thought did not finish that one either.
 
@@ -158,7 +158,7 @@ Randi picked up her coffee and took a small sip. She held the cup with both hand
 
 "Mm. What's drawing you to it?"
 
-It was — she would think about this later, walking back to her dorm — *the question*. Not *how do you like it,* which was the question, in her experience, that nice people asked at parties when they had nothing else to ask. *What's drawing you to it.* The question had room in it. She did not know the polite-short answer to that question, because no one had ever asked her that question, and the polite-short answer would have to be invented. She decided to skip inventing it.
+It was — she would think about this later, walking back to her dorm — *the question*. Not *how do you like it,* which was the question nice people asked at parties when they had nothing else to ask. *What's drawing you to it.* The question had room in it. She did not know the polite-short answer to that question; it would have to be invented. She decided to skip inventing it.
 
 "I like that it's about how people actually behave when they think they're being rational," she said. "The gap between what they say they're doing and what they're doing. It's — I don't know. It feels like the kind of thing where if you understood it well, you'd understand a lot."
 
@@ -168,11 +168,11 @@ It was — she would think about this later, walking back to her dorm — *the q
 
 "That's the good part," he said. "Yeah."
 
-He sat across from her and listened. She talked for what was probably four or five minutes about a research project she wanted to do, which she had not started, but which she had been thinking about, and which she had not yet articulated to anyone in this much detail, because no one had asked. He said *yeah* a few times and *really* once, in a way that meant he actually wanted to know whether she meant what she had just said, and asked her one follow-up question about her professor's work that opened the topic up further than she had expected. She talked some more. He listened. He did not look at his phone. He did not interrupt. He laughed once, briefly, at a small thing she said about her statistics class, which she had not meant as a joke but which he had heard as one, and his laugh was warm and short and over before she had time to be embarrassed by being funny on accident.
+He sat across from her and listened. She talked for what was probably four or five minutes about a research project she wanted to do — not started, but thought about, and never articulated to anyone in this much detail, because no one had asked. He said *yeah* a few times and *really* once, in a way that meant he actually wanted to know whether she meant what she had just said, and asked her one follow-up question about her professor's work that opened the topic up further than she had expected. She talked some more. He listened. He did not look at his phone. He did not interrupt. He laughed once, briefly, at a small thing she said about her statistics class, which she had not meant as a joke but which he had heard as one, and his laugh was warm and short and over before she had time to be embarrassed by being funny on accident.
 
 She glanced once at Randi.
 
-Randi was smiling. Randi was smiling the *go on, this is nice* smile of a friend watching a friend be charmed. The smile was warm and unbothered. Randi's hand was around her coffee cup. Randi's other hand was in her lap. Twice the cup came up to her mouth and went back down, and no sip happened. Vee registered the small busy-ness of Randi's hand only at the edges of her attention, and her brain helpfully provided the explanation *she's bored, this is going on too long for her,* and Vee made a small mental note to wrap up her econ monologue. She wrapped it up.
+Randi was smiling. Randi was smiling the *go on, this is nice* smile of a friend watching a friend be charmed. Randi's hand was around her coffee cup. Randi's other hand was in her lap. Twice the cup came up to her mouth and went back down, and no sip happened. Vee registered the small busy-ness of Randi's hand only at the edges of her attention, and her brain helpfully provided the explanation *she's bored, this is going on too long for her,* and Vee made a mental note to wrap up her econ monologue. She wrapped it up.
 
 "Anyway," she said. "Sorry. That was a lot."
 
@@ -200,7 +200,7 @@ The laugh got away from her, the good kind. Underneath it he seemed young to be 
 
 He glanced, finally, properly, at his watch.
 
-The thing that happened in her chest at the glance was small and stupid and she could not have named it. It was the small *oh* of being reminded that the man across from her was a man with a day, and that the day was about to take him out of the chair he was in.
+What went through her at the glance made her want to fall through her seat — she was embarrassed to be looking at him and could not look anywhere else. It was the small *oh* of being reminded that the man across from her was a man with a day, and that the day was about to take him out of the chair he was in.
 
 "I should—" he said.
 
@@ -210,7 +210,7 @@ The thing that happened in her chest at the glance was small and stupid and she 
 
 She heard the *may.*
 
-She heard it the way you hear a word that does not belong to the room it has just been spoken in — a word from another vocabulary, a word her mother might use approvingly if she ever met this man, a word a man her age was not, in her experience, in possession of. *May I.* It was small and formal and not affected. It was, she registered, simply how he had asked. She had a fraction of a second to receive it and to respond to it and her body had already responded. She was nodding before her mouth caught up.
+She heard it the way you hear a word that does not belong to the room it has just been spoken in — a word from another vocabulary, a word her mother might use approvingly if she ever met this man, a word a man her age was not, in her experience, in possession of. *May I.* It was small and formal and not affected. It was, she understood, simply how he had asked. She had a fraction of a second to receive it and her body had already responded. She was nodding before her mouth caught up.
 
 "Yes."
 

@@ -2685,6 +2685,20 @@ text = "She talked for what was probably four or five minutes about her senior t
 note = "Author sign-off: established scene voice throughout, plus the entrance gestalt/smile language (whole-of, easy-not-one-feature, She-felt anaphora) as authored."
 
 [[ok]]
+fp   = "2990c62b378b"
+rule = "register-verb"
+file = "scenes/substitution.md"
+text = "Pace nodded the small *got it* nod of a person registering names properly."
+note = "author ruling 2026-08-05: 'registering names properly' ok — the got-it nod carries it, plain sense"
+
+[[ok]]
+fp   = "5a07d4d59085"
+rule = "register-verb"
+file = "scenes/substitution.md"
+text = "Vee registered the small busy-ness of Randi's hand only at the edges of her attention, and her brain helpfully provided the explanation *she's bored, this is going on too long for her,* and Vee made a mental note to wrap up her econ monologue."
+note = "author ruling 2026-08-05: keep — edges-of-attention registering is the misread mechanism in the cup-tell paragraph"
+
+[[ok]]
 fp   = "08e8e8821c06"
 rule = "the-way"
 file = "scenes/substitution.md"
