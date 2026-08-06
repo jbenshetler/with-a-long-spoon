@@ -1978,6 +1978,20 @@ text = "He weighed his own cup and paid for both before she'd found her wallet; 
 note = "literal path sense, false positive"
 
 [[ok]]
+fp   = "6211ed77a97d"
+rule = "filter-verbs"
+file = "scenes/made-up.md"
+text = "She watched it work under his shirt, and his forearms bare out of the rolled sleeves, and his hands turning the pan under the water."
+note = "watching is the scene's action — 'It was a good watching' frames it; author sign-off 2026-08-06"
+
+[[ok]]
+fp   = "8079dd28cc02"
+rule = "filter-verbs"
+file = "scenes/made-up.md"
+text = "She watched him make himself do it."
+note = "watching him comply is the event, not a filter; author sign-off 2026-08-06"
+
+[[ok]]
 fp   = "31167d45cf02"
 rule = "filter-verbs"
 file = "scenes/may-i-choose.md"

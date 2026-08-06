@@ -162,7 +162,14 @@ the **garage**.
 books** (the library wall). `[PLAN]` A working **fireplace** on the den side of the
 porch threshold; on cold porch nights it can throw heat and firelight from behind them
 without moving the scene out of the glass room. Where Pace waits during the {{Peekaboo}}
-try-on (`scenes/peekaboo.md`).
+try-on (`scenes/peekaboo.md`). **Music is phone-driven** (author ruling 2026-08-06):
+no record player anywhere in the house — Pace runs playlists from his phone, the
+stereo/speakers only the output (the {{In Her Place}} playlist rolls over while he
+waits; {{Made-Up}}'s room-music is "something low on the speakers"). The `no-record-player`
+style rule (error) enforces it. `[PAGE]` A **lamp** ({{Made-Up}} — "the lamp throwing its circle," with a click-stop
+switch) and a **recliner** ({{Made-Up}} — his chair, where Vee seats him for the
+two-costume show; reads naturally as a built **Morris chair**, the A&C recliner,
+consistent with the furniture-he-built canon).
 
 ### Sun porch `[PAGE]`
 Through an archway at the far end of the den — an **enclosed porch at the back, mostly
