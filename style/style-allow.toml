@@ -802,11 +802,144 @@ text = "She made a small motion of the hand that meant the leggings, the matched
 note = "author-approved 2026-07-14: hand-motion reads as gesture standing in for the whole sorority look, not the 'a small X' tic"
 
 [[ok]]
+fp   = "be1b1fbbbf01"
+rule = "clock-verb"
+file = "scenes/dear.md"
+text = "I could have sewn my own mouth shut and he would not have clocked that I'd gone quiet.\""
+note = "Author-approved 2026-08-06 line-edit pass: Randi's spoken dialogue, in-voice slang; the tic rule targets narration."
+
+[[ok]]
+fp   = "57a483381f4f"
+rule = "filter-verbs"
+file = "scenes/dear.md"
+text = "She felt picked."
+note = "Author-approved 2026-08-06 line-edit pass: remaining hits reviewed one-by-one — the-way hits are habitual/dialogue/protected spans, filter-verbs are dialogue + protected close, warm uses load-bearing (Randi/Brooke registers, warmth-with-weight), x-not-y a false positive."
+
+[[ok]]
+fp   = "6e47775ffe4a"
+rule = "filter-verbs"
+file = "scenes/dear.md"
+text = "\"I felt good just sitting there listening to him.\""
+note = "Author-approved 2026-08-06 line-edit pass: remaining hits reviewed one-by-one — the-way hits are habitual/dialogue/protected spans, filter-verbs are dialogue + protected close, warm uses load-bearing (Randi/Brooke registers, warmth-with-weight), x-not-y a false positive."
+
+[[ok]]
+fp   = "204192d4e1b3"
+rule = "the-way"
+file = "scenes/dear.md"
+text = "He gets this thing in his voice when he's excited, he goes about six years old, the way a little boy tells you about dinosaurs, like it's the most magic thing anyone ever got to know about."
+note = "Author-approved 2026-08-06 line-edit pass: remaining hits reviewed one-by-one — the-way hits are habitual/dialogue/protected spans, filter-verbs are dialogue + protected close, warm uses load-bearing (Randi/Brooke registers, warmth-with-weight), x-not-y a false positive."
+
+[[ok]]
+fp   = "27730600fff6"
+rule = "the-way"
+file = "scenes/dear.md"
+text = "I wasn't watching myself the way I always am."
+note = "Author-approved 2026-08-06 line-edit pass: remaining hits reviewed one-by-one — the-way hits are habitual/dialogue/protected spans, filter-verbs are dialogue + protected close, warm uses load-bearing (Randi/Brooke registers, warmth-with-weight), x-not-y a false positive."
+
+[[ok]]
+fp   = "57d592176cbe"
+rule = "the-way"
+file = "scenes/dear.md"
+text = "She had worn the cardigan over the better shirt, the way she did most mornings, the soft one gone a little pilled at the cuffs, and in a room of bare arms and cropped quarter-zips it covered her like an apology."
+note = "Author-approved 2026-08-06 line-edit pass: remaining hits reviewed one-by-one — the-way hits are habitual/dialogue/protected spans, filter-verbs are dialogue + protected close, warm uses load-bearing (Randi/Brooke registers, warmth-with-weight), x-not-y a false positive."
+
+[[ok]]
+fp   = "b45abc90e60b"
+rule = "the-way"
+file = "scenes/dear.md"
+text = "She had taken Vee's hand somewhere in the saying of it, easily, the way she might have reached for anything on the table, her fingers cool and a little damp from the iced cup, and she held it there on the white top in plain view of the two of them and was in no hurry to let go."
+note = "Author-approved 2026-08-06 line-edit pass: remaining hits reviewed one-by-one — the-way hits are habitual/dialogue/protected spans, filter-verbs are dialogue + protected close, warm uses load-bearing (Randi/Brooke registers, warmth-with-weight), x-not-y a false positive."
+
+[[ok]]
+fp   = "bc442eb5e2ec"
+rule = "the-way"
+file = "scenes/dear.md"
+text = "It was still in her somewhere, the cool finished force of the woman, the way you stay aware of deep water for a while after you are back in the boat."
+note = "Author-approved 2026-08-06 line-edit pass: remaining hits reviewed one-by-one — the-way hits are habitual/dialogue/protected spans, filter-verbs are dialogue + protected close, warm uses load-bearing (Randi/Brooke registers, warmth-with-weight), x-not-y a false positive."
+
+[[ok]]
+fp   = "043661572efa"
+rule = "warm"
+file = "scenes/dear.md"
+text = "Vee felt the look go warm and spread on her face."
+note = "Author-approved 2026-08-06 line-edit pass: remaining hits reviewed one-by-one — the-way hits are habitual/dialogue/protected spans, filter-verbs are dialogue + protected close, warm uses load-bearing (Randi/Brooke registers, warmth-with-weight), x-not-y a false positive."
+
+[[ok]]
+fp   = "08b1b0d249d8"
+rule = "warm"
+file = "scenes/dear.md"
+text = "\"We missed you Thursday,\" Brooke said to Randi, warm, and it was only friendly, and still it set down on the table the fact of a Thursday Vee knew nothing about, a room and the girls in it, a whole bright week with its own private life that Vee was no part of and had never been asked to be."
+note = "Author-approved 2026-08-06 line-edit pass: 'warm' load-bearing in Brooke's warmly-hostile register; kept."
+
+[[ok]]
+fp   = "0a6053c09247"
+rule = "warm"
+file = "scenes/dear.md"
+text = "And Vee, warm again, felt the thing settle in her that settles when someone picks you out loud in a roomful of people: that she had a place now, and that the place was here, next to Randi."
+note = "Author-approved 2026-08-06 line-edit pass: remaining hits reviewed one-by-one — the-way hits are habitual/dialogue/protected spans, filter-verbs are dialogue + protected close, warm uses load-bearing (Randi/Brooke registers, warmth-with-weight), x-not-y a false positive."
+
+[[ok]]
+fp   = "20fbcf4dfef4"
+rule = "warm"
+file = "scenes/dear.md"
+text = "They climbed down off the high chairs and went out through the cold orange noise into the afternoon, and on the sidewalk Randi pulled her into the hug, quick and warm and complete, the cold-citrus smell of her and a hand flat between Vee's shoulder blades for a second, and Vee leaned into it like it was already a thing they did."
+note = "Author-approved 2026-08-06 line-edit pass: remaining hits reviewed one-by-one — the-way hits are habitual/dialogue/protected spans, filter-verbs are dialogue + protected close, warm uses load-bearing (Randi/Brooke registers, warmth-with-weight), x-not-y a false positive."
+
+[[ok]]
+fp   = "a5a830314162"
+rule = "warm"
+file = "scenes/dear.md"
+text = "Then Brooke turned the smile on Vee, and it went wider by some exact amount, and Vee, who was being smiled at as warmly as anyone had smiled at her all year, felt it take her measure, top to bottom, and stay warm the whole way."
+note = "Author-approved 2026-08-06 line-edit pass: remaining hits reviewed one-by-one — the-way hits are habitual/dialogue/protected spans, filter-verbs are dialogue + protected close, warm uses load-bearing (Randi/Brooke registers, warmth-with-weight), x-not-y a false positive."
+
+[[ok]]
+fp   = "c222e2e29711"
+rule = "warm"
+file = "scenes/dear.md"
+text = "\"Mm,\" said Randi, warm, and let her have it, and went no further, and Vee felt the letting-go as one more kindness in a day that had been full of them."
+note = "Author-approved 2026-08-06 line-edit pass: remaining hits reviewed one-by-one — the-way hits are habitual/dialogue/protected spans, filter-verbs are dialogue + protected close, warm uses load-bearing (Randi/Brooke registers, warmth-with-weight), x-not-y a false positive."
+
+[[ok]]
+fp   = "de631d65fee1"
+rule = "warm"
+file = "scenes/dear.md"
+text = "\"Brooke,\" Randi said to the smile, warm, turning on the chair."
+note = "Author-approved 2026-08-06 line-edit pass: remaining hits reviewed one-by-one — the-way hits are habitual/dialogue/protected spans, filter-verbs are dialogue + protected close, warm uses load-bearing (Randi/Brooke registers, warmth-with-weight), x-not-y a false positive."
+
+[[ok]]
+fp   = "e1b3ffb5d102"
+rule = "warm"
+file = "scenes/dear.md"
+text = "A girl who could have spent her forty minutes on anyone, her arm warm against Vee's as they walked, spending them on her."
+note = "Author-approved 2026-08-06 line-edit pass: remaining hits reviewed one-by-one — the-way hits are habitual/dialogue/protected spans, filter-verbs are dialogue + protected close, warm uses load-bearing (Randi/Brooke registers, warmth-with-weight), x-not-y a false positive."
+
+[[ok]]
+fp   = "fae520a4bfb6"
+rule = "warm"
+file = "scenes/dear.md"
+text = "And something went through Vee at that, at *dear friend,* at the cool, damp hand closing over hers in front of these women, that she could not have named and did not want to, a warmth that came with weight on it."
+note = "Author-approved 2026-08-06 line-edit pass: remaining hits reviewed one-by-one — the-way hits are habitual/dialogue/protected spans, filter-verbs are dialogue + protected close, warm uses load-bearing (Randi/Brooke registers, warmth-with-weight), x-not-y a false positive."
+
+[[ok]]
+fp   = "3c70aac4d217"
+rule = "weather"
+file = "scenes/dear.md"
+text = "The weather had decided to be kind to Blacksburg."
+note = "Author-approved 2026-08-06 line-edit pass: the day 'deciding' for Vee is thesis-adjacent agency, kept deliberately."
+
+[[ok]]
 fp   = "53671250e7df"
 rule = "whole-of"
 file = "scenes/dear.md"
 text = "Randi set her chin in her hand and turned the whole of her face on Vee."
 note = "author-approved 2026-07-14: 'turned the whole of her face on Vee' stands — total-attention image is the beat"
+
+[[ok]]
+fp   = "18125826ddca"
+rule = "x-not-y"
+file = "scenes/dear.md"
+text = "\"Sorry,\" she said, not sure what for."
+note = "Author-approved 2026-08-06 line-edit pass: remaining hits reviewed one-by-one — the-way hits are habitual/dialogue/protected spans, filter-verbs are dialogue + protected close, warm uses load-bearing (Randi/Brooke registers, warmth-with-weight), x-not-y a false positive."
 
 [[ok]]
 fp   = "6d8fcbe1c4f8"
