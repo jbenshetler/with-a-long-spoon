@@ -50,6 +50,7 @@ FALL_SCENES = [
     {"title": "A Recognized Method", "slug": "recognized-method"},
     {"title": "The Practice Room", "slug": "practice-room"},
     {"title": "We Find Out", "slug": "we-find-out"},
+    {"title": "Made-Up", "slug": "made-up"},
     {"title": "One Bite", "slug": "one-bite"},
     {"title": "Above Him", "slug": "above-him"},
     {"title": "School Nights", "slug": "school-nights"},

@@ -4,25 +4,25 @@
   "completed": 1,
   "generated": 1,
   "skipped": 0,
-  "total_cost": 0.8095150000000001,
-  "total_input": 24269,
-  "total_output": 22939,
-  "total_tokens": 47208,
+  "total_cost": 0.466615,
+  "total_input": 22349,
+  "total_output": 11829,
+  "total_tokens": 34178,
   "per_chapter": [
     {
-      "slug": "leave-no-trace",
-      "title": "Leave No Trace",
+      "slug": "made-up",
+      "title": "Made-Up",
       "status": "generated",
-      "cost": 0.8095150000000001,
-      "input": 24269,
-      "output": 22939,
-      "totalTokens": 47208,
-      "promptTokens": 24269,
-      "reasoningTokens": 49,
+      "cost": 0.466615,
+      "input": 22349,
+      "output": 11829,
+      "totalTokens": 34178,
+      "promptTokens": 22349,
+      "reasoningTokens": 72,
       "cacheRead": 0,
-      "duration_s": 291.1,
-      "wall_s": 291.1,
-      "path": "reviews/cold-read/gpt-5.5/leave-no-trace.md"
+      "duration_s": 165.0,
+      "wall_s": 165.0,
+      "path": "reviews/cold-read/gpt-5.5/made-up.md"
     }
   ]
 }
