@@ -1635,6 +1635,13 @@ text = "She wrapped her hands around the little brass cage and the heat came thr
 note = "idiom (tea going 'all the way down'), not the 'the way he…' construction — false positive"
 
 [[ok]]
+fp   = "870ab4662ff2"
+rule = "unhurried"
+file = "scenes/may-i-choose.md"
+text = "He looked at the page a moment longer, not because he needed it but to weigh what he was choosing for her, and then he asked her only one thing — was there anything she wouldn't eat — and when she shook her head he ordered, unhurried, deliberate, building it as he went."
+note = "Line-edit pass 2026-08-05: chapter's one sanctioned 'unhurried' — on Pace, at the may-I-choose hinge; other two occurrences cut (finding 4)."
+
+[[ok]]
 fp   = "2d83871911bc"
 rule = "x-not-y"
 file = "scenes/may-i-choose.md"

@@ -8,7 +8,7 @@ The text came Friday evening, when she was still coming down off an afternoon in
 
 It was him. Saturday, he said. Dinner. He didn't say where, and he didn't ask her to answer that night.
 
-She read it twice, then a third time slower, as if the words might hold more than they did, and maybe they didn't and she put it there: the plainness of it, a man saying a thing he'd already decided and leaving all the rest of the room to her. Nothing in it needed her right this second. She could carry it around a while first. That she could, that he'd built the quiet into it without being asked, eased something behind her ribs, and she had the phone pressed to her sternum before she'd decided to, the day's warmth in her going up a degree it had no cause to.
+She read it twice, then a third time slower, as if the words might hold more than they did, and maybe the more was hers: the plainness of it, a man saying a thing he'd already decided and leaving all the rest of the room to her. Nothing in it needed her right this second. She could carry it around a while first. That she could, that he'd built the quiet into it without being asked, eased something behind her ribs, and she had the phone pressed to her chest, the day's warmth in her going up a degree it had no cause to.
 
 The froyo had been yesterday, and here he was asking for tomorrow, and the wanting had already outrun anything she'd have called sensible. She was grinning at a dark screen in a way she'd have died to have anyone see.
 
@@ -38,11 +38,11 @@ The doors clanked and started to slide shut — the elevator timing out, done wa
 
 "Hi," she said, and heard it come out smaller than she'd planned, the elevator still on her a little.
 
-"Hi." He didn't fill the space after it or make her account for the smallness. He only asked if she minded walking, and held the door — and didn't tell her where, which she decided not to ask about, because not knowing was its own small pleasure and she was already learning she could trust where he was taking her.
+"Hi." He didn't fill the space after it or make her account for the smallness. He only asked if she minded walking, and held the door — and didn't tell her where, which she decided not to ask about; she was already learning she could trust where he was taking her.
 
-The place was close enough to walk to, which she hadn't expected — off a split block a few streets back from campus, a stretch she'd somehow never turned down in two years of living a ten-minute walk away. He took her down it like it was obvious, and it wasn't, and that was the first nice thing: a part of her own small city she'd never seen, and he just knew it; he seemed to know more of the world than she did.
+The place was close enough to walk to — off a split block a few streets back from campus, a stretch she'd somehow never turned down in two years of living a ten-minute walk away. He took her down it like it was obvious, and it wasn't, and that was the first nice thing: a part of her own small city she'd never seen, and he just knew it.
 
-They walked without rushing. He kept to the street side without making anything of it. The talk came easy and she couldn't have said about what — the walk and the talk were the same unhurried thing, and the block opened up ahead of them, low lit, a couple of dark storefronts and then one that wasn't, warm yellow spilling out onto the pavement.
+They walked without rushing. He kept to the street side without making anything of it. The talk came easy and she couldn't have said about what — the walk and the talk were the same thing, and the block opened up ahead of them, low lit, a couple of dark storefronts and then one that wasn't, warm yellow spilling out onto the pavement.
 
 She hadn't eaten since breakfast. She'd meant to — there'd been a whole afternoon to walk over to the dining hall — but the afternoon had gone to other things: the dress and then the other dress, Cassie cross-legged on her bunk delivering verdicts, the shoes borrowed off a girl down the hall because nothing of Vee's was right. Noon had come and gone somewhere in there and she hadn't felt it. It found her now — the hollow had been opening in her since midday without her noticing, and the smell off the warm doorway ahead reached into it and pulled. She was suddenly, enormously hungry.
 
@@ -52,7 +52,7 @@ The menu was a single page, dog-eared, most of it words she didn't know. She fou
 
 He didn't reach to explain it, didn't walk her through the page as she half expected. He only watched her be funny about it, and then, because she'd asked for rescue without quite asking, set his own menu down. "May I choose?"
 
-Three words, and the relief of handing the choice across the table went through her, more than she'd have guessed such a surrender would be.
+Three words, and the relief of handing the choice across the table went through her, more than she'd have guessed such a surrender would.
 
 "Yes," she said. "Please."
 
@@ -60,11 +60,11 @@ He didn't take it lightly, which she hadn't expected. He looked at the page a mo
 
 She didn't catch the words so much as feel them. They came out of him soft, rounded, opening at the ends as her own flat words never did — little exhalations, more breath than edge, and she understood none of it. *Baba ghanoush.* *Tabbouleh.* They meant nothing to her and so they could mean anything: each soft sound a closed door with something behind it, and she sat there with her mouth watering at promises she couldn't have read aloud, wanting things she had no names for, content for once not to know.
 
-The food didn't come right away, and the not-coming was fine. They had the table and the low light and each other, and he was easy to be across from in a way she hadn't expected — he asked her things and listened like getting to hear her was the point, and the talk started up between them and went along, unhurried, while the kitchen worked somewhere behind her.
+The food didn't come right away, and the not-coming was fine. They had the table and the low light and each other, and he was easy to be across from — he asked her things and listened like getting to hear her was the point, and the talk started up between them and went along while the kitchen worked somewhere behind her.
 
 Then it came, more than she'd pictured: the little dishes first, crowding in, the ones whose names she'd heard and couldn't have repeated — real now, set down in front of her, the soft promises turned solid. The bright green one. The smoke-dark one under its dust of spice. And the bread last, blistered and steaming, straight from the oven and set down hot among them. She looked at what she'd agreed to without knowing, and it was better than anything she'd have known to ask for.
 
-She was hungry — that hollow from noon — but she didn't reach yet. Her eyes went to his hands first. He tore a piece of bread with care for the heat, and the steam came off the two halves in the lamplight and was gone, and he folded it around a pinch of the green-and-white salad and ate it without ceremony, and she did what he did. Tore the bread. Folded it as he had. Brought it up not quite knowing what she'd find.
+She was hungry, but she didn't reach yet. Her eyes went to his hands first. He tore a piece of bread with care for the heat, and the steam came off the two halves in the lamplight and was gone, and he folded it around a pinch of the green-and-white salad and ate it without ceremony, and she did what he did. Tore the bread. Folded it as he had. Brought it up not quite knowing what she'd find.
 
 It was sharp — green and sour and bright, lemon and something cold and clean underneath, a bitterness that woke her whole mouth up — and it went down into the hollow and the hollow only opened wider, asked for more before she'd swallowed. She'd thought she knew how hungry she was. She hadn't. It kept going down and down into something that had been empty a lot longer than since noon.
 
@@ -92,11 +92,11 @@ He settled it with Christine while Vee found her coat, and Christine said someth
 
 He took her hand. No ceremony, no question in it — he simply did it, like it was already settled between them and always had been. It should have been nothing, and it wasn't. It was the first time. The wrongness of how much it was caught at her, a hand, only a hand, the same hand she'd been watching tear bread and lift things to his mouth all night, around hers now and warm and certain. It was too much for what it was. And underneath the too-much, stranger, was the other thing: that it felt less like something beginning than something resolving — like her hand had been wrong all evening, all its life maybe, for want of his exactly, and was only now where it belonged.
 
-He walked her back the long way, and the softness came with her — that low warm not-quite-here she still hadn't shaken, the night doing nothing to clear it. The campus had gone quiet and blue around them. Somewhere past the quad a tree had dropped its shadow across the path in the moonlight, and under it he slowed, and stopped, and turned to her, and what came next was suddenly obvious.
+He walked her back the long way, and the softness came with her, the night doing nothing to clear it. The campus had gone quiet and blue around them. Somewhere past the quad a tree had dropped its shadow across the path in the moonlight, and under it he slowed, and stopped, and turned to her, and what came next was suddenly obvious.
 
-"I don't kiss a man I've known a couple of days," she said. It was out before she'd decided to say it — a rule that had never been breached before. She heard how it sounded, and half meant it.
+"I don't kiss a man I've known a couple of days," she said. It was out — a rule that had never been breached before. She heard how it sounded, and half meant it.
 
-It was the old reflex, the part of her that always caught the thread before it could drop, that knew where the lines were and stayed inside them. The same part that had gone quiet at the table without her noticing. It came back now, here, at the worst possible moment, with its rule already in her mouth — and the ease of letting it go again pulled at her, distinct and close. She'd done it an hour ago over warm bread and the world hadn't ended. She had liked it. She had liked it more than almost anything.
+It was the old reflex, the part of her that always caught the thread before it could drop, that knew where the lines were and stayed inside them. The same part that had gone quiet at the table without her noticing. It came back now, here, at the worst possible moment, with its rule already in her mouth. She'd done it an hour ago over warm bread and the world hadn't ended. She had liked it. She had liked it more than almost anything.
 
 He didn't argue. He didn't do anything she'd braced for — no lean, no charm turned up, no patient little wait for her to change her mind. He just smiled, like she'd told him something true and fine about herself, and let it close, and started them gently back along the path, her hand drawn along with his.
 
