@@ -25,6 +25,16 @@ re-rule against their then-current text.
    up.
 3. **"the small private" (7× / 7 ch) — FIX-AT.** Same-shaped rendering each
    time; vary all but the strongest.
+   **Applied 2026-08-06: `two-towels`** ("Something in her dropped, small and
+   private." → "Something in her dropped.").
+   **Open question raised at that review, not yet ruled:** the occurrences
+   split into two kinds — four are Pace's recurring *tell*, "the small private
+   smile" (`all-told`, `new-ordinary`, `above-him`, `ignition-scalding`), which
+   may warrant PROTECTED on the "randi pulled her into" logic (the repeated
+   gesture *is* the characterization); the other two are the adjective pair
+   used elsewhere (`two-towels`, now cut, and `seconds.md:51`). If the split
+   holds, the real FIX-AT set is `seconds` alone. Awaiting an author ruling —
+   until then treat the four smiles as unruled, not as licensed.
 4. **"high on the inside of" (6× incl. a-round) — FIX-AT wording, PROTECT the
    fact.** The recurring occurrences are Pace's scar (Vol 1: famished, rock,
    above-him, we-find-out — its found/traced/kept arc). The
@@ -50,6 +60,10 @@ re-rule against their then-current text.
    ("chasing what her body had just lost, before she'd decided to chase
    it"). The other Vol-1 occurrences (a-round ×2, may-i-choose ×2, dear,
    rock) vary at their chapters' reviews.
+   **Author override 2026-08-06: `two-towels`** ("before she'd decided whether
+   to let him see her do it") **stands unvaried**; the keeper was not
+   contested. Consequence accepted: the phrase appears in two Vol-1 chapters.
+   Do not re-flag that line.
 9. **Furniture block — IGNORE.** "a moment longer," "across the table," "the
    door open," "edge of the bed," "the foot of the bed," "from across the
    room," "held the door": ordinary spatial/temporal furniture, not echoes.

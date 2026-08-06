@@ -41,3 +41,56 @@
 - "said it the way you say things you've already let go of"
 - "lit up like a six-year-old"
 - "no hedge in it"
+
+## Author rulings (2026-08-06)
+
+Prep gates: triage doc (no overlap); style linter (**killed finding 7** —
+"filed it under" ×2: the recommended fix targeted an already-accepted
+suppression `#1ef023597526`, and opus-4-8 praised the sentence); cold-read
+enrichment across 4 models (8 findings touched reader-quoted lines).
+
+1. **"; he put the brakes on"** — **fixed** (cut). Third rendering of one fact.
+2. **"That had always been her job, never theirs."** — **left standing**;
+   reader-praised as a unit with the preceding sentence (gpt-5.5).
+3. + 4. **Pace's pleasure ×3** — **fixed**: "and he didn't keep the gladness
+   out of the word" cut; "and a little pleased to have her looking" cut. L71
+   keeps the only "pleased."
+5. **"— the same logic as the shoes,"** — **fixed** (partial cut). Both halves
+   of the parallel are separately reader-praised; only the pointing finger
+   went.
+6. **Doubled "kind"** — **fixed**: "the expensive kind — " cut.
+7. **"filed it under" ×2** — **dropped before review** (accepted suppression +
+   reader praise).
+8. **"reflex" ×3** — **fixed**: kitchen "an old reflex" → "old habit."
+9. **Magazine-red recap** — **fixed**: trimmed to "the dress she couldn't
+   afford, the color."
+10. **Chest ×2** — **fixed**, direction **inverted** on reader evidence (the
+    editor's keeper was the one fable-5 quoted). Also killed an identical
+    sentence-opening the report missed.
+11. **"hands in his pockets" ×2** — **fixed**: cut at the bolt of cloth. A
+    designed-bracket reading was raised and rejected.
+12. **Sunroom light ×2** — **fixed**: re-render cut, head-tip kept.
+13. **"like her own coloring had been consulted"** — **fixed** (cut).
+14. **Doubled "fraction"** — **left standing**: designed redundancy, the
+    error-correcting-code principle enacted in Pace's speech eight lines
+    after he explains it. Editor right on mechanics, wrong on cause.
+15. **Final sentence** — **fixed**: ends at "no hedge in it."
+16. **"waiting" ×2** — **fixed**: cut from the rag and can.
+
+Pre-ruled (echo ledger):
+- **FIX-AT #3 "the small private"** — **applied**: "small and private" cut.
+  Ledger correction surfaced (the 4 "small private smile"s may warrant
+  PROTECTED as Pace's recurring tell) — **not actioned, awaiting ruling**.
+- **FIX-AT #8 "before she'd decided"** — **author override: left standing
+  unvaried**, keeper (`the-bench.md:303`) not contested.
+
+Bonus items from reader criticism (not in the report):
+- **"which, she'd think later, they probably were"** — **fixed** (cut);
+  opus-4-8's only author's-thumb note.
+- **Sanskrit quip** — **left standing**; fable-5's hedged note, joke is
+  load-bearing.
+- **Stacked competencies** (gpt-5.5 + gpt-5.6-sol, convergent) — **recorded as
+  an unresolved architecture flag**, no prose change. Author: all load-bearing;
+  the patent is the income explanation. Re-test at the end-of-volume rerun.
+
+Echo candidates: carried forward to the book-wide inventory, none ruled here.
