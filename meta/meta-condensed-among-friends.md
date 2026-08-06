@@ -1,6 +1,6 @@
 # Condensed — Among Friends
 
-*SCENE · Architecture complete, prose not drafted · ~late January (a mid-week night soon after First Weekend Back) · an old roadhouse outside town, Pace's choice · Vee POV · warm/social register · [craft](meta-note-among-friends.md)*
+*SCENE · Draft complete · ~late January (a mid-week night soon after First Weekend Back) · an old roadhouse outside town, Pace's choice · Vee POV · warm/social register · [craft](meta-note-among-friends.md)*
 
 The first of the paired world-openings: Pace enters **Vee's** world here; {{Another Round}} reciprocates (Vee into his). It is his deed-answer to the *{{Under the Rug}}* visibility wound — *will we ever be seen in public?* — given in the grammar he lives by (deed, not word): he comes to a gathering of her friends **without being asked**, in his bomber jacket and broadcloth, and is seen with her. Volume Two's warm opener — the bloom before the souring. Warm and fun on first read; the cold is the reader's, on reread. (Title provisional; author may rename.)
 
@@ -27,6 +27,9 @@ Vee later asks what he and Randi talked about; his light **"they share an intere
 
 ### The bomber jacket (the claim, unasked)
 Pace's own bomber jacket + broadcloth (bible wardrobe). He comes into her world **without being asked**; Vee gets the **proprietary feeling she hasn't earned the right to** — to present him as hers, publicly — while he still won't **name** her. The public claim is the named status she couldn't get verbally; continues the shirt-scenting / Top Drawer clothing-as-proxy staircase.
+
+### The coda — the drive home (explicit, warm)
+After Randi's goodbye kiss pre-lights her, **Vee initiates everything**: she crosses the lot, kisses him long, presses him into the truck, pulls his hands under her sweater herself; in the cab she gives him a blowjob (his one uninvited act: pushing her bra up; his hand goes **still** in her hair as he loses control — she feeds on that stillness), then *"I need you to take me to bed now."* On the drive: cold vents → the {{Leave No Trace}} memory (September; only this time he isn't shivering); the Randi-question dialogue rides inside the afterglow (**placement-only seed** — blowjob → Randi talk → escalation; surface object stays Pace, no interiority linking Randi to arousal); *"You."* sends the warmth down → she puts his hand on her bare breast, then works her own jeans down (the three-step commitment is the shame-charge) and pulls her **lace thong** aside herself; he masturbates her to orgasm one-handed while driving — the deliberate **mirror-inversion of {{Nothing Underneath}}** (her hand/denied/toward him → his hand/completed/driven by him). First semi-public sex (their sex life is all at his house). Ends sated, un-fixed, "claimed and easy and openly undone."
 
 ### Guards
 - **Earn the dark by being light:** a warm, fun party where a girlfriend's two favorite people get along. Cut any signal that Randi is sinister or that the two already know each other beyond the meet-cute.
