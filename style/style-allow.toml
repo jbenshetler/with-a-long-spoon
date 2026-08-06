@@ -2587,6 +2587,34 @@ text = "\"Same city, not high-school sweethearts, nothing that good."
 note = "Author-approved in Rock [AI] workshop: engine 'the way' simile, 'without asking' robe beat, 'city, not high-school sweethearts'."
 
 [[ok]]
+fp   = "9326c46ca39f"
+rule = "a-small"
+file = "scenes/rye.md"
+text = "Vee lowered herself into her desk chair like a much older woman, both hands bracing, a small wounded sound escaping."
+note = "small is load-bearing: holds the sound at comic-bit scale, not real pain"
+
+[[ok]]
+fp   = "0c962486d501"
+rule = "file-verb"
+file = "scenes/rye.md"
+text = "My legs are going to file a complaint.\""
+note = "Vee's legal pun, sets up the file-revising thing; not the categorizing tic"
+
+[[ok]]
+fp   = "8aed6a11a157"
+rule = "look-at-her"
+file = "scenes/rye.md"
+text = "\"Look at you,\" Cassie said, and meant it."
+note = "Cassie's 'and meant it' — the bit dropping; earned dialogue use"
+
+[[ok]]
+fp   = "2fd9f65c14d1"
+rule = "the-way"
+file = "scenes/rye.md"
+text = "On the way down, out of nowhere, freezing, and we got to the truck wet through, both of us.\""
+note = "literal route ('on the way down'), not the filtered construction"
+
+[[ok]]
 fp   = "dfbf82587351"
 rule = "the-way"
 file = "scenes/rye.md"

@@ -26,19 +26,19 @@ Vee laughed and then winced, because laughing used something that hurt. "Cass, i
 
 "I'm reporting what I observed."
 
-"And then the top." Vee's voice opened all the way up. "You come up out of the trees and there's a *lake*. This whole silver lake way down, and the rock at the top is almost black, and you can see everything, you can see for miles. And I got up there. Me. I have never gotten anywhere on my own legs in my life and I got up a mountain."
+"And then the top." Vee's voice lifted. "You come up out of the trees and there's a *lake*. This whole silver lake way down, and the rock at the top is almost black, and you can see everything, you can see for miles. And I got up there. Me. I have never gotten anywhere on my own legs in my life and I got up a mountain."
 
 "Look at you," Cassie said, and meant it.
 
-"And then we ate." She said it the way other girls said *and then we kissed.* "He packed lunch. Rye bread and this horseradish, and we passed the water back and forth, and there were cherries. Cass, I have never tasted anything like that sandwich in my life. I think you have to almost die on a mountain first. We didn't leave a crumb. We didn't leave a pit. There's a leave-nothing thing with him, you carry out what you carried in."
+"And then we ate." She said it the way other girls said *and then we kissed.* "He packed lunch. Rye bread and this horseradish, and we passed the water back and forth, and there were cherries. Cass, that sandwich. I think you have to almost die on a mountain first. We didn't leave a crumb. We didn't leave a pit. You carry out what you carried in."
 
 She slowed then, as she'd slowed at the tree the other night, and Cassie, who had been doing the dry thing, the file-revising thing, went still and stayed that way.
 
-"And then it rained. On the way down, out of nowhere, freezing, and we got to the truck soaked through, both of us, shaking." Vee touched the flannel at her own collar. "He had a dry shirt in his bag. This one. He gave it to me. And then he got out. Into the rain. He stood out there with his back to the cab so I could change, getting soaked on purpose so I wouldn't have anybody looking at me."
+"And then it rained. On the way down, out of nowhere, freezing, and we got to the truck wet through, both of us." Vee touched the flannel at her own collar. "He had a dry shirt in his bag. This one. He gave it to me. And then he got out. Into the rain. He stood out there with his back to the cab so I could change, getting soaked on purpose so I wouldn't have anybody looking at me."
 
 Cassie didn't say anything. Cassie was rapt.
 
-"And I knocked on the glass and I called him back in." Vee was turning the cuff over in her fingers, not quite looking up. "And I took my wet shirt off in front of him. On purpose. Me. And he looked at me like I'd handed him something. Like a gift. And he didn't touch me. He was shaking, he was so cold, and he just looked, and then he put the heat on and drove me home." She looked up. "I kept the shirt. I didn't ask. He didn't ask for it back."
+"And I knocked on the glass and I called him back in." Vee was turning the cuff over in her fingers, not quite looking up. "And I took my wet shirt off in front of him. On purpose. Me. And he looked at me like I'd handed him something. And he didn't touch me. He was shaking, he was so cold, and he just looked, and then he put the heat on and drove me home." She looked up. "I kept the shirt. I didn't ask. He didn't ask for it back."
 
 For a moment neither of them said anything. The room was cool, as always, the window cracked its two inches to the cold, and Vee sat inside the enormous flannel with her ruined legs and her whole face open.
 

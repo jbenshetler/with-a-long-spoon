@@ -17,7 +17,7 @@ the echo shortlist with the author before per-chapter editing starts).
 | 9 | Off Six-Fourteen | off-six-fourteen | reviewed |
 | 10 | Dear | dear | reviewed |
 | 11 | Leave No Trace | leave-no-trace | reviewed |
-| 12 | Rye | rye | edited |
+| 12 | Rye | rye | reviewed |
 | 13 | What to Wear | what-to-wear | edited |
 | 14 | Two Towels | two-towels | edited |
 | 15 | A Round | a-round | edited |

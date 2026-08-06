@@ -29,3 +29,25 @@
 - "She said it the way other girls said…" (line 33)
 - "her whole face open" (line 43)
 - "you carry out what you carried in" (line 33)
+
+## Author rulings (2026-08-06)
+
+1. a — frame dropped from the sandwich sentence ("Cass, that sandwich.");
+   summit keeps sole ownership of "I have never … in my life".
+2. a — "There's a leave-nothing thing with him," cut; "You carry out what you
+   carried in." stands alone (the learned rule in his wording).
+3. a — "soaked through" → "wet through"; "getting soaked on purpose" owns the
+   word.
+4. change — "shaking" cut from line 37 (ruled jointly with 3); line 41's
+   "He was shaking, he was so cold" is the chapter's only shaking.
+5. a — "Like a gift." cut; ends on "like I'd handed him something" (protects
+   the designed callback chain: we-find-out :65, in-his-hands :83).
+6. a — left standing as designed: the twin bare "Me." (:29 summit-agency,
+   :41 undressing-agency) is the chapter's agency rhyme.
+7. a — "Vee's voice opened all the way up" → "Vee's voice lifted"; the closing
+   "her whole face open" (:43) owns the word.
+
+Linter: all four warn hits acked with author sign-off (file-verb + the-way as
+false positives; a-small "small" load-bearing for comic scale; look-at-you
+earned by "and meant it"). Echo sweep: "handed him something" and "whole face
+open" recur downstream by design; all other candidates unique to this chapter.
