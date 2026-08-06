@@ -1992,6 +1992,13 @@ text = "\"You drove out here like this,\" he said, low, not a question, his fing
 note = "he tells her what she did; not asking, he knows"
 
 [[ok]]
+fp   = "84d63bbbd899"
+rule = "the-way"
+file = "scenes/off-six-fourteen.md"
+text = "She'd been talking, really, since the door — it had spilled out of her before she'd got her coat off — and Cassie had been pulled out of the desk chair by it the way good news pulls you to your feet, the highlighter set down somewhere, the reading abandoned, Cassie down on the edge of the lower bunk now with her sock feet up and her arms around her knees, in it, grinning, asking the small questions that kept it coming."
+note = "Line-edit 2026-08-05: simile recast per audit finding 2; author accepted 'the way good news pulls you to your feet' as a direct image"
+
+[[ok]]
 fp   = "eef1239afc3d"
 rule = "a-small"
 file = "scenes/old-acquaintances.md"

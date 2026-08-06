@@ -6,7 +6,7 @@
 
 The window was cracked its two inches the way Cassie kept it, because the building ran the heat like it was trying to cook something and Cassie would rather have the cold than the cooking, and Vee had come in out of the night still warm from the evening, from the walk, from him, and the thin line of cold off the sill found her at the door and she didn't mind it. She didn't mind anything. She was already talking.
 
-She'd been talking, really, since the door — it had come up out of her before she'd got her coat off — and Cassie had been pulled out of the desk chair by it the way you get pulled up out of a chair by good news, the highlighter set down somewhere, the reading abandoned, Cassie down on the edge of the lower bunk now with her sock feet up and her arms around her knees, in it, grinning, asking the small questions that kept it coming. The tea had come in little brass cages, Vee was saying, you held them by a handle off the side because the glass was too hot to hold, she'd never explain it right —
+She'd been talking, really, since the door — it had spilled out of her before she'd got her coat off — and Cassie had been pulled out of the desk chair by it the way good news pulls you to your feet, the highlighter set down somewhere, the reading abandoned, Cassie down on the edge of the lower bunk now with her sock feet up and her arms around her knees, in it, grinning, asking the small questions that kept it coming. The tea had come in little brass cages, Vee was saying, you held them by a handle off the side because the glass was too hot to hold, she'd never explain it right —
 
 "And then walking back," Vee said, and slowed.
 
@@ -40,13 +40,13 @@ Cassie's whole face was open with it, glad, all the way in — and then, because
 
 "I've never hiked in my life."
 
-Cassie considered her from the edge of the bed, sock feet, arms around her knees.
+Cassie considered her from the edge of the bed, sock feet, chin on her knees.
 
 "Okay. What's his name, so I know what to tell the state troopers when you go missing on a mountain with a man you met at a coffee shop?"
 
 Vee threw a pillow at her, which Cassie took on the shoulder without unfolding.
 
-"His name is Pace, he is *lovely*, and I am not going to go missing." But she was already answering it, already happy to, because being able to answer it was its own small proof of something — that she had this, that there was a *this* to have. "He lives out west of town, off six-fourteen, past where it goes to gravel. There's a trail he goes to out there. He'll have water and everything, he's not going to walk me off a cliff." She counted it off like a dossier, like plenty. "See. I know where he lives and everything."
+"His name is Pace, he is *lovely*, and I am not going to go missing." But she was already answering it, already happy to, because being able to answer it was its own small proof of something — that she had this, that there was a *this* to have. "He lives out west of town, off six-fourteen, past where it goes to gravel. There's a trail he goes to out there. He'll have water, he's not going to walk me off a cliff." She counted it off like a dossier, like plenty. "See. I know where he lives and everything."
 
 "Off six-fourteen," Cassie repeated.
 
