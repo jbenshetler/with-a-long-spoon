@@ -36,9 +36,9 @@ By evening she and Pace were standing under the neon in a too-bright shop, plast
 
 "You've thought about this."
 
-"I've thought about most things." He said it without apology, and she laughed, and he looked pleased in a contained way, like a man who'd set a small thing down exactly where he meant it to go.
+"I've thought about most things." He said it without apology, and she laughed, and he looked pleased in a contained way, as if he'd set something down exactly where he meant it to go.
 
-She built her cup without thinking, and it got away from her — too much, the cone of it leaning. Usually she heard her mother before she'd finished, *that's plenty, that's enough now.* Today there was nothing. She bit her lower lip, knowing the cup would drip, and then found she didn't care. He weighed his own cup on the scale and paid for both before she'd found her wallet; she grabbed spoons and a fistful of napkins on the way past, and he held the door with his back so they both had their hands full going out.
+She built her cup without thinking, and it got away from her — too much, the cone of it leaning. Usually she heard her mother before she'd finished, *that's plenty, that's enough now.* Today there was nothing. She bit her lower lip, knowing the cup would drip, and then found she didn't care. He weighed his own cup and paid for both before she'd found her wallet; she grabbed spoons and a fistful of napkins on the way past, and he held the door with his back so they both had their hands full going out.
 
 Outside it had gone blue and cool. They walked the long way, not toward anything. He asked her things the way her grandfather used to ask things, as though the answer mattered and there was no wrong one, and then he waited through all of it. She'd get to the end of a sentence and find him still there, still listening, in no hurry to take his own turn. Like the sentence had been worth waiting out. She wasn't used to being the thing a person waited on.
 

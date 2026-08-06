@@ -1572,6 +1572,34 @@ text = "A short-sleeved knit shirt despite the October cold, which she didn't un
 note = "literal October meteorology — rule-sanctioned use"
 
 [[ok]]
+fp   = "5561498dece8"
+rule = "filter-verbs"
+file = "scenes/long-way.md"
+text = "She heard how it landed and winced."
+note = "beat is her hearing her own line from outside"
+
+[[ok]]
+fp   = "7833971a1c9e"
+rule = "filter-verbs"
+file = "scenes/long-way.md"
+text = "Usually she heard her mother before she'd finished, *that's plenty, that's enough now.* Today there was nothing."
+note = "mother's-voice-absence beat: hearing vs not-hearing is the mechanism"
+
+[[ok]]
+fp   = "5c6a0d396fe5"
+rule = "the-way"
+file = "scenes/long-way.md"
+text = "He asked her things the way her grandfather used to ask things, as though the answer mattered and there was no wrong one, and then he waited through all of it."
+note = "grandfather paragraph, reader-protected (opus quotes in full)"
+
+[[ok]]
+fp   = "7d3d04250e55"
+rule = "the-way"
+file = "scenes/long-way.md"
+text = "He weighed his own cup and paid for both before she'd found her wallet; she grabbed spoons and a fistful of napkins on the way past, and he held the door with his back so they both had their hands full going out."
+note = "literal path sense, false positive"
+
+[[ok]]
 fp   = "31167d45cf02"
 rule = "filter-verbs"
 file = "scenes/may-i-choose.md"
