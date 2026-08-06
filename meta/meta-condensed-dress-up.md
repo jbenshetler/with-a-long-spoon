@@ -1,0 +1,12 @@
+# Condensed — Dress-Up
+
+*Compaction of the planned vignette; surface only — the unrendered craft/subtext lives in `meta-note-dress-up.md`. Sat Oct 31 (Halloween evening), Pace's house, inside the {{We Find Out}} weekend — the [EVENT] Halloween calendar marker stays; this vignette is the prose that lands on it. Vee POV. **Title provisional until drafted.***
+
+- **The setup.** Vee is already at the house (the weekend is a multi-day stay); the induction dress is still in her car from Wednesday. The gravel road gets no trick-or-treaters — Halloween exists only as the word, the one night of the year a costume needs no explaining, her permission slip.
+- **The offer.** *"I've got two costumes to show you"* — *costumes* is her word, claiming the holiday. She changes behind the bathroom door; Pace gives her privacy; each reveal is a door opening.
+- **Costume one — the debut he missed.** The full induction rig: the burgundy dress he made and the four-inch heels bought for it. The pairing he has never seen live — Berkeley put him at a conference for the ceremony; his only access was Cassie's candid on her phone. She re-stages the debut for its maker.
+- **Costume two — its interior.** The dress goes on its hanger; the door opens again on just the heels. Her line: *"And this is what I had on under it."* Literally true — canon at {{The Induction}} is *nothing under the burgundy* (the slit made anything's edge show; her own discovery in his mirror at {{Peekaboo}}). The show runs outside-of-the-dress, then inside-of-it.
+- **Her choice, informed.** Friday night ({{We Find Out}}) he had her strip slowly down to nothing but the heels (the beat {{One Bite}} retells Sunday) — so she *knows* he likes her in just heels. Tonight the just-heels is hers: unasked, staged, offered. The first time she is nude in heels *for* him.
+- **The end.** On the looking — being received. Sex off-page; Friday banked the weekend's sex; the vignette's payload is display.
+
+**Function:** The dress+heels pairing finally reaches its maker's eyes, live. First staged instance of the nude-in-heels offering the later scenes climb ({{Nothing Underneath}}, the bench's adored-nude-in-heels). Reread charge: on the costume holiday she dresses up as the woman the two of them built — his dress, Randi's heels-steering — and names neither; the second costume shows what walked through the ceremony. Full craft + guards: `meta-note-dress-up.md`.
