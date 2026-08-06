@@ -4,361 +4,295 @@
 
 ## Reader reaction
 
-This chapter leaves me warm, amused, and a little heartsore. After the mountain’s physical and erotic intensity, the return to Cassie feels like coming somewhere safe. Her first joke—“You’re alive”—is funny because her worry was real, and “I had your blood type” is exactly her kind of love: vigilance disguised as deadpan.
+This feels like the exhale the last chapter was denied. I’m warm toward both women almost immediately: Cassie’s first concern is the flannel, but her first words are still, “You’re alive.” Her jokes about the van and having Vee’s blood type are funny because the worry underneath them was real. She doesn’t punish Vee for frightening her or demand details; she lets Vee tell the story at her own speed.
 
-Vee is radiant even while wrecked. I love the way she tells the story according to what mattered to her rather than according to conventional romantic importance: “And then we ate,” delivered “the way other girls said *and then we kissed*.” The sandwich, the summit, the moleskin, Pace’s forearms, and taking off her shirt all belong to one enormous bodily awakening. “I have never gotten anywhere on my own legs in my life and I got up a mountain” moves me most. It makes the hike feel like something she owns, despite Pace having chosen and prepared the experience.
+Vee’s happiness is infectious. I especially love that she says, “And then we ate” the way other girls say *and then we kissed.* The mountain, her appetite, Pace’s hands, and her own achievement all belong to the same awakening. “I have never gotten anywhere on my own legs in my life and I got up a mountain” moves me, although it isn’t literally true—she has accomplished plenty. Emotionally, I understand it as the first time an arrival has felt bodily and wholly hers.
 
-My trust in Cassie rises again. She knows when to tease, when to become still, and when not to turn Vee’s intimate disclosure into interrogation. “Vee,” spoken “like setting something down where it wouldn’t break,” is extraordinarily tender. Her final “Keep the shirt” feels like permission without possession: she sees that this matters and lets Vee have it.
+Her account also confirms how deeply Pace’s behavior affected her. She remembers not merely that he treated the blister, but that “he didn’t make it weird. Didn’t make me feel like I’d wrecked the day.” That makes me trust his conduct in the moment even more. Yet the hidden arrangement still hangs over the joy: Cassie is revising her judgment of Pace using sincere evidence, while lacking the same foundational fact Vee lacks.
 
-Pace is only present through Vee’s report, but the retelling makes him even more seductive. What Vee carries home is not simply that he desired her; it is that he protected her privacy and then accepted the gift of her deliberate display without assuming more. Yet the hidden arrangement still makes the sweetness dangerous. Vee’s “There’s a leave-nothing thing with him” lands uneasily because she has brought home his shirt, his scent, the moleskin, and a changed sense of herself. They left no physical trace on the mountain, but he has left traces all over her.
+The erotic charge is lighter here but absolutely alive. It peaks in Vee’s proud, embarrassed report of Pace’s hands and forearms—“I think there’s a whole situation under there”—and then becomes more intimate when she admits she called him back and undressed “On purpose. Me.” What lands most strongly is her interpretation of his gaze: “he looked at me like I’d handed him something.” That makes her exposure feel like a gift she consciously gave, not something taken from her. Cassie’s rapt silence protects that meaning.
 
-The erotic charge is lower than the previous chapter because this is recollection rather than action—Heat 1 rather than 2—but it remains alive in “His hands, though,” “these forearms,” and especially “he looked at me like I’d handed him something. Like a gift.” The charge peaks there. What follows is more emotionally intimate than erotic: Vee openly claiming, “I’m keeping the shirt.”
+Cassie’s final response deepens my trust in her. “Vee,” spoken “like setting something down where it wouldn’t break,” is tender without being sentimental. She understands that this matters beyond a shirt or a near-sexual encounter. And “Borrow real boots next time” carries an important acceptance of *next time*: she remains practical and cautious, but she isn’t trying to close Vee’s life down. “Keep the shirt” feels almost like a blessing.
 
-I had almost no reader friction. The only slight simplification is Vee’s summary that Pace “just looked, and then he put the heat on and drove me home,” which omits her warming his hand against her belly. But that feels like Vee choosing what she can presently tell Cassie, not the page forgetting what happened. It makes me wonder whether she is protecting that moment because it was more intimate than undressing.
+Nothing in the conversation itself feels off. Cassie’s concern is earned, Vee’s account matches what I witnessed, and neither woman performs a false note. My suspicion belongs outside the room, with the truth Randi and Pace are withholding. The chapter does make Cassie’s approval painful in advance: she is allowing herself to trust Pace more because the evidence she has is good.
 
-“Rye” points first to the sandwich bread, an almost comically modest title for a chapter about Vee telling Cassie she exposed herself to Pace. But the rye is exactly right for Vee: food is one of the central revelations of the day, and the sandwich has become inseparable from exertion, care, and appetite. The title did not give anything away. On second thought, it also keeps the chapter grounded in what nourished her rather than reducing the hike to sex.
+The only slight friction is Vee’s claim that she has “never gotten anywhere on my own legs in my life.” It is emotionally persuasive, but broad enough to momentarily erase her academic success and her earlier bodily competence in swimming. I take it as exhilaration rather than factual self-assessment.
 
-*With a Long Spoon* still suggests approaching appetite, intimacy, or danger with some protective distance. The spoons themselves are absent again, and I still cannot firmly attach the title to the story. The tagline feels increasingly exact: Vee chose the trail, chose to continue, chose to call Pace into the truck, chose to undress, and now chooses to keep his shirt. Every choice is genuinely hers. The trap is that she has no idea the relationship around those choices was designed before she ever met him.
+“Rye” first points simply to Pace’s sandwich, one of the details Vee remembers with nearly erotic intensity. But it also makes the chapter feel grounded in nourishment: after mountain grandeur and charged undressing, what titles the memory is the dark, sharp, sustaining bread he made for her. It did not give anything away.
 
-I want Randi to hear about the truck, and I dread her hearing it. I also want to know whether Vee will tell Cassie more—especially about warming Pace’s hand—or whether this is the limit of what she can presently expose. My guess from here is that the shirt will become both a cherished object and evidence: something Randi or someone in her social world can recognize. I am strongly pulled onward because this quiet chapter makes Vee’s attachment feel more real, not less dangerous.
+*A Polite Invitation* now feels present in Vee knocking on the glass and crooking Pace back into the truck, then giving him permission to look; here she is the one extending the invitation. *With a Long Spoon* still suggests appetite approached carefully, perhaps because the meal or sweetness is dangerous, distant, or shared under conditions she cannot see. The tagline remains the source of dread: Vee proudly insists “On purpose. Me,” and I believe her completely. Her yes is real. The trap is that her real agency is making the concealed relationship more emotionally binding, not less.
 
-**Cast present (in person):** Vee and Cassie.  
-**Mentioned-only:** Pace; “other girls” generically.
+I want the next meeting with Pace, and I want to see whether he lets her keep the flannel without making it a claim. I also want Cassie and Randi in the same room again, because Cassie’s instincts are sharpening even as Pace’s actual kindness disarms her. My guess from here is that the shirt will become visible evidence—something Randi may recognize instantly—and that Vee’s candid story will eventually create a contradiction neither Randi nor Pace can smooth over. I dread Cassie’s newly revised trust being used against both women.
 
-**Heat:** 1 — charged recollection of Vee undressing under Pace’s gaze, but no sexual activity occurs in the room.
+**Cast present (in person):** Vivienne “Vee” Thorne and Cassie.  
+**Mentioned only:** Pace.
 
-**Romance:** 2 — Vee cherishes Pace’s shirt and the meaning of his restraint; Cassie receives her disclosure with deep tenderness.
+**Heat:** 1 — clothed recollection of Vee’s deliberate undressing, Pace’s gaze, hands, and body; intimate but not active sex.
 
-**Motifs & images:** Flannel as shelter and intimate trace—repeat from the truck; cracked window and cold room—repeat from the post-date dorm scene; looking—Cassie looks, Pace looked, and Cassie repeats “Look at you”; food/appetite—rye, horseradish, cherries, and the sandwich retold as a romantic peak; boots and unstable footing—Meg’s bad boots and the blister recur; leaving no trace—repeated explicitly but contradicted emotionally by the retained shirt and bodily memory; gift—Vee names her display as something handed to Pace; records/files—Cassie jokingly “revising a file” and having a witness statement.
+**Romance:** 2 — Vee treasures Pace’s care and shirt, while Cassie receives her confession with unmistakable tenderness.
 
-**Symbolism:** The oversized flannel is a visible piece of Pace’s world wrapped around Vee: warmth, desire, possession freely claimed by her, and evidence she cannot entirely conceal. “Keep the shirt” feels like Cassie blessing Vee’s right to keep what the day gave her. Leave-no-trace continues to symbolize concealment while the chapter inventories the traces that remain.
+**Motifs & images:** Repeat—borrowed clothing and wrong-sized footwear; Pace’s flannel; cracked-window cold; food/appetite; hands and looking; invitations through glass; carrying out pits and leaving no trace; Cassie’s dry humor covering concern; “next time” as an opening rather than an ending. First emphasis—rye bread as the title-object and compact memory of being fed.
 
-**Characterization:** Vee deepens through the hierarchy of her telling: accomplishment, food, care, desire, then the shirt she claims. Cassie deepens as a friend who can move from protective comedy to exact gentleness without prying. Pace remains vivid through Vee’s eyes but does not appear in person.
+**Symbolism:** The flannel remains transferred warmth, shelter, and evidence of intimacy; keeping it makes the encounter continue inside Vee’s ordinary room. Cassie’s permission to keep it reads as acceptance of Vee’s desire. The ill-fitting boots contrast with the oversized shirt: both are borrowed and too large, but one wounds while the other shelters.
 
-**Pace — within the chapter:** Quick, clean, and earned. The retelling could have felt repetitive after the hike, but Cassie’s reactions change the meaning and show what Vee chooses to remember and disclose.
+**Characterization:** Vee deepens through her delighted ownership of appetite, achievement, and erotic choice. Cassie deepens as protective without becoming controlling; her humor, stillness, and final softness all feel consistent. Pace remains vivid through Vee’s accurate recollection rather than appearing directly.
 
-**Pace — chapter to chapter:** A deliberate exhale after the sustained hike and truck scene. Momentum holds because the relationship is now entering Vee’s ordinary life through the shirt and through what she tells Cassie.
+**Pace — within the chapter:** Quick, clean, and earned. Vee’s excited retelling naturally slows at the rain and undressing; Cassie’s silences give the emotional turn room.
+
+**Pace — chapter to chapter:** Holding and consolidating momentum. It revisits the hike without feeling repetitive because the point is what Vee chooses to tell Cassie and how Cassie receives it.
 
 ## Carry-forward state
 
-**Who’s who**
+#### Who’s who
 
-- **Pace — man; seen in person, mentioned-only in “Rye.”** Young mathematician/math PhD student, muscular and sexually dominant, living alone west of town off Route 614 past gravel and a long drive; Randi’s secret lover. Built his kitchen table, oak cabinet, and concealed walnut-and-leather sexual bench seven months before meeting Randi. Initiated the pointing game, selected Vee with Randi, directed both staged meetings, helped Vee with an integral while preserving her local ownership, dated her, accepted her refusal to kiss, and let her reverse it. On the hike he set a novice-safe pace, repaired her borrowed boot with moleskin, fed her homemade sandwiches and cherries, gently taught “take nothing and leave nothing,” listened to her induction and desired russet dress without pressing, gave her his dry flannel and privacy to change, watched only when summoned, visibly desired her without touching, and shivered from cold. He briefly left his hand against her warm belly, drove her home, and parked illegally under the dorm overhang before a campus officer followed him. Vee now retains his flannel without asking.
-- **Miranda “Randi” — woman; seen in person.** Twenty-one, wealthy, polished sorority woman with black hair, pale skin, blue eyes, and a dancer’s/cheerleader’s trained body. Pace’s secret lover and a Standards board member. Her mother and sorority environment police appetite and image. Pace’s bench scene made her beg, cry, and confront a self she could not assimilate; she concealed the distress. Desires a woman but framed it as a gift for Pace. Chose Vee, staged their collision and friendship, hid Pace, encouraged Vee toward him, pretended not to remember his name, elicited Vee’s pleasure in surrendering dinner choices, reframed Vee’s kiss around Pace’s irresistibility, and publicly called Vee her “dear friend” while holding her hand before Brooke.
-- **Vivienne Thorne / Vee — woman; seen in person.** Junior; tall, lushly hourglass-shaped and athletic, with long copper/dark-red hair, freckles, and a tipped-up nose. Studies economics and statistics, especially gaps between stated rationality and actual behavior. Her mother’s internalized voice polices clothes, food, attraction, and conduct. Intelligent, stubborn, loyal, socially capable, and deeply responsive to being chosen and listened to. Former synchronized swimmer whose recovered pool skill reconnects her to bodily belonging. Freely refused Pace’s kiss, reversed herself, kissed him, and accepted his hike. Confronted the actual steep trail absent from her easy yes and chose it again; completed the mountain on her own legs. Accepted Pace’s practical care, experienced the summit’s impersonal beauty, ate ravenously, disclosed her honor-society induction and longing for a russet dress, and learned leave-no-trace etiquette without humiliation. In the truck she summoned Pace, deliberately exposed herself under his gaze, then noticed his cold, warmed his hand against her belly, and chose driving over escalation. Returned to the dorm in his flannel. Told Cassie about the mountain, meal, privacy, undressing, Pace’s gaze, and keeping the shirt, but omitted warming his hand against her belly.
-- **Cassie — woman; seen in person.** Vee’s classmate, roommate/housemate, and best friend; plainspoken, boxy-framed, brown shag haircut, resistant to polish, comfortable not being admired, and not a strong swimmer. Protective without prying; checked Vee’s sobriety and Pace’s location, advised good hiking shoes, celebrates Vee’s agency, and screamed happily over Vee’s honor-society letter. Looked from Vee toward Randi and folded away whatever she saw. In “Rye,” jokingly revealed how worried she had been, listened raptly to Vee’s account, received the sexual disclosure without judgment, and told her to keep Pace’s flannel.
-- **Christine — woman; seen in person.** Older restaurant worker/owner with graying hair and a face softened by long days. Knows Pace and was visibly glad to see him; said something that made him duck his head.
-- **Meg — woman; seen in person.** Lives on Vee’s floor; made Vee laugh before Randi’s staged collision. Lent Vee hiking boots half a size too big, causing the blister.
-- **Brooke — woman; seen in person.** President of Randi’s sorority chapter; expensively kept, warm, authoritative, and probing. Challenged Randi’s paper lie, identified Pace, checked he did not teach Randi, and controlled her release. At Smoothie Bird she assessed Vee, registered Randi’s public claim and hand-holding, and offered a likely empty dinner invitation.
-- **Sloane — woman; seen in person.** Sorority sister who watches without appearing to watch; identified Pace’s gray pickup and disguises judgment as amusement.
-- **Kinsey — woman; seen in person.** Sorority sister, less authoritative and eager for approval; asked whether Pace was “short-cute.”
-- **Unnamed older woman with Brooke — woman; seen in person.** Accompanied Brooke at Smoothie Bird, carried coffee, remained silent, and appraised Vee slowly.
-- **Randi’s mother — woman; mentioned-only.** Lives on egg whites and tofu; associated with food restriction, childhood begging, and emotional refusal.
-- **Randi’s father — man; mentioned-only.** Thinks the Randi/Randy naming joke is funny.
-- **Vee’s mother — woman; mentioned-only.** Internalized condemning voice saying “Floozies,” “that’s plenty,” “what kind of girl,” and “common”; polices Vee’s body, clothes, appetite, conduct, ignorance, and desire. Proud-cried and “I never”-cried about Vee’s induction.
-- **Vee’s father — man; mentioned-only.** Cannot attend Vee’s induction dinner because of work.
-- **Vee’s grandfather — man; mentioned-only.** Asked Vee questions as though her answers mattered and had no wrong answers; Pace’s listening reminds her of him.
-- **Statistics professor — man; seen in person.** Soft-spoken, overuses a laser pointer, checks slides, lectures on residuals and latent variables, and sounds bored enough to be reading a phone bill.
-- **Vee’s econ instructor — gender not established; mentioned-only.** Taught that applied mathematics turns a problem into something already known.
-- **Vee’s econ TA — gender not established; mentioned-only.** Reads unfamiliar problems as structures rather than sequences.
-- **Unnamed professor in Cassie’s story — gender not established; mentioned-only.** Subject of Cassie’s narrated “crimes.”
-- **Unnamed girl down the hall — woman; mentioned-only.** Lent Vee shoes for dinner.
-- **Unnamed sorority sister in Randi’s coffee story — woman; mentioned-only.**
-- **Unnamed guy from the Chi Latte conversation — man; mentioned-only.**
-- **Unnamed boys/previous dates Vee knows — men; mentioned-only.** Advertised status and effort and demanded immediate answers.
-- **Randi’s purported Friday date — man; mentioned-only.** Tall, dreamy, wealthy-looking, self-absorbed, and inattentive; story’s truth uncertain.
-- **Unnamed business major — gender not established; mentioned-only.** Vee stayed up until two for a semester keeping this person’s healer alive.
-- **Unnamed pool hecklers — men; seen in person.** Commented on Vee’s breasts and legs.
-- **Unnamed rec-pool lifeguard — gender not established; seen in person.** Checks proper swimwear.
-- **Unnamed smoothie-counter worker — man; seen in person.** Asked Randi to repeat her complicated order.
-- **Unnamed campus police officer — gender not established; seen in person.** Pulled behind Pace at the dorm’s red fire-lane curb, sounded the siren, and followed him away.
-- **Unnamed state troopers — genders not established; mentioned-only jokingly.** Cassie invokes them as possible rescuers.
-- **Unnamed café, shop, campus, pool, dorm, restaurant, classroom, smoothie-shop, honor-society patrons/students, and “other girls” — various or unestablished genders; seen, mentioned, or generalized.**
+- **Miranda “Randi” — woman, seen in person.** Twenty-one, wealthy, polished, black-haired, blue-eyed sorority woman with dance/cheer training, a single room, and a place on Standards; Pace’s secret lover. She chose Vee in the pointing game, engineered their collision, helped stage Pace’s approach, encourages Vee’s courtship, concealed knowing Pace, invented or embellished a bad Friday date, reframed Vee’s chosen kiss as “because of him,” and publicly named Vee her “dear friend.”
+- **Pace — man, seen in person.** Young mathematics PhD student living alone west of town off road 614 beyond gravel, at the end of a long drive; Randi’s secret lover. Strong, observant, sexually skilled, and careful with safewords, aftercare, safety, pleasure, and permission. He courted Vee through mathematics help, listening, food, patience, and a mountain hike. He accepted her no-kissing rule and was kissed by her. He fixed her blister, taught leave-no-trace practice gently, fed her, listened to her wish for a russet dress, gave her his dry flannel, stood in rain to grant privacy, watched her undress only after she invited him, and let her warm his shaking hand against her belly. Vee has kept his shirt.
+- **Vivienne “Vee” Thorne — woman, seen in person.** Tall, athletic, lushly hourglass-shaped red-haired junior with freckles, an uncurated manner, and a whole-body laugh; studies economics and applied mathematics. Former synchronized swimmer who feels free underwater. Her mother’s internalized voice polices appetite, clothing, body, and desire. She does not know Randi and Pace are lovers or that both initial meetings were arranged. She chose to kiss Pace, accepted his hike, overcame fear and pain to reach the summit, ate freely, invited Pace to watch her undress, and stopped escalation to care for his cold. She returned wearing his flannel and told Cassie the full hike story, including her deliberate exposure; she intends to keep the shirt.
+- **Cassie — woman, seen in person.** Vee’s quiet classmate, dorm/home companion, and best friend; boxy-framed, brown-shagged, plain-spoken, observant, practical, and resistant to Randi’s polish. She checked whether Vee had been intoxicated, requested Pace’s identifying/location details, and previously concealed a look when Randi reached for Vee. After the hike she confirmed Vee was alive, joked about a witness statement and blood type, listened raptly, recognized the emotional importance of Vee’s experience, advised real boots “next time,” and told her to keep Pace’s shirt.
+- **Christine — woman, seen in person.** Older restaurant worker with graying hair and a work-softened face; knows Pace warmly and said something that made him duck his head.
+- **Meg — woman, seen in person.** Dark-haired, easygoing friend from Vee’s floor; witnessed Randi’s engineered collision and lent Vee hiking boots half a size too large, which injured her right heel.
+- **Brooke — woman, seen in person.** Sorority president; polished, warm-voiced, socially authoritative. Questioned Randi about Pace, measured Vee through an exact smile, absorbed Randi’s public “dear friend” declaration, and offered a likely empty dinner invitation.
+- **Sloane — woman, seen in person.** Sorority sister with a laugh “available for anything”; status-conscious, identified Pace’s white pickup, and joked about an ex’s Raptor.
+- **Kinsey — woman, seen in person.** Sorority sister eager for group approval; asked whether Pace was “short-cute.”
+- **Unnamed taller sorority woman — woman, seen in person.** Accompanied Brooke at Smoothie Bird, carried coffee, silently inspected Vee, and offered only a finished smile.
+- **Statistics professor — man, seen in person, unnamed.** Soft-spoken, slide-checking lecturer with a laser pointer; introduced latent variables.
+- **Skateboard student — man, seen in person, unnamed.** Entered statistics while Vee waited for Randi.
+- **Smoothie-counter worker — boy/man, seen in person, unnamed.** Took Randi’s complicated order and asked her to repeat it.
+- **Pool lifeguard — gender not established, seen in person, unnamed.** Checks proper suits; radio audible in the pool room.
+- **Pool hecklers — men, seen in person, unnamed.** Publicly appraised Vee’s breasts and legs and laughed for one another.
+- **Campus police officer — gender not established, seen in person, unnamed.** Pulled behind Pace’s truck at the dorm fire lane with blue-and-white lights, sounded the siren once, and followed Pace out after Vee fled inside.
+- **Randi’s mother — woman, mentioned-only, unnamed.** Associated with egg whites, tofu, judgment, restricted eating, and denied childhood pleas.
+- **Vee’s mother — woman, mentioned-only, unnamed.** Internalized shaming voice concerning clothing, “floozies,” attention, appetite, body, portions, class, and exposure. Proud-cried and “I never”-cried over Vee’s honor-society induction and plans to attend.
+- **Vee’s father — man, mentioned-only, unnamed.** Cannot attend Vee’s induction dinner because of work.
+- **Vee’s grandfather — man, mentioned-only, unnamed.** Asked questions as though Vee’s answers mattered and there were no wrong answers.
+- **Vee’s econ instructor — gender not established, mentioned-only, unnamed.** Taught that applied math transforms unfamiliar problems into known ones.
+- **Vee’s econ TA — gender not established, mentioned-only, unnamed.** Reads unfamiliar problems structurally.
+- **Vee’s professor — gender not established, mentioned-only, unnamed.** Has work relevant to Vee’s proposed research.
+- **Unnamed sorority sister — woman, mentioned-only.** Subject of Randi’s parking-ticket story.
+- **Unnamed guy — man, mentioned-only.** Part of a café conversation Vee cannot reconstruct.
+- **Unnamed business major — gender not established, mentioned-only.** Vee once stayed up until two keeping this person alive in a video game.
+- **Unnamed professor discussed by Cassie — gender not established, mentioned-only.** Cassie narrated this professor’s “crimes” after the pool.
+- **Unnamed girl down the hall — woman, mentioned-only.** Lent Vee shoes for dinner.
+- **Randi’s alleged Friday date — man, mentioned-only and possibly invented.** Supposedly tall, dreamy, expensively dressed, self-absorbed, lacrosse-playing, and given to talking about Switzerland.
 
-**Motif & image ledger**
+#### Motif & image ledger
 
-- **Locks, doors, keys, thresholds — repeat.** Domestic and emotional locks; Chi Latte; flattery as key; locker key; menus as closed doors; closet; guarded disclosures; trail threshold, truck doors/window, dorm overhang; now Vee admits what happened after crossing back into her room.
-- **Warmth versus cold — repeat.** Pace’s house and restaurant, pool, cracked dorm window, Smoothie Bird air-conditioning, mountain rain and truck heat; now Cassie is warm and dry while Vee sits in Pace’s flannel in the habitually cool room with the window cracked two inches.
-- **Looking and being chosen — repeat.** Secret selection, pool scrutiny, Pace’s singular attention, Brooke’s appraisal, Randi’s public claim, summit solitude, Vee summoning Pace’s gaze; now Cassie’s eyes go straight to the flannel, Vee lets her look, Cassie says “Look at you,” and Vee recalls Pace looking as though she had given him a gift.
-- **Surface, gloss, costume, underneath — repeat.** Randi’s polish, concealed bench, staged meetings, swimsuits, public faces, wet transparency; now Vee is swallowed by Pace’s shirt, hair dried in every direction, her face “open.”
-- **Handmade wood and leather / concealed bench-table — established.** Pace’s hidden apparatus remains undiscovered by Vee.
-- **Food, permission, hunger, appetite, sweetness — repeat.** Apples, drinks, froyo, restaurant food, restrictive smoothie, mountain sandwiches and cherries; now Vee narrates rye, horseradish, water, and cherries with the emotional weight of a kiss.
-- **Waiting versus hurry — repeat.** Pace waits through refusals and uncertainty, sets a safe pace, watches without taking; Cassie waits silently through Vee’s disclosure.
-- **Loaded ordinary speech — repeat.** “May I choose?”, “dear friend,” “Leave nothing”; now “Keep the shirt” carries permission, affection, and recognition.
-- **Voice, begging, pitch, performance — repeat.** Randi’s raw/social voices, Vee’s laugh, maternal condemnation; now Vee’s voice “opens all the way up” at the summit and slows before sexual disclosure.
-- **Crying, leaking, unnamed grief — repeat.** Randi’s private crying, Vee’s underwater grief, maternal proud/“I never” crying; no new tears.
-- **Arranged/open face — repeat.** Randi and Brooke’s managed expressions, Pace’s unreadable “landing”; now Vee’s “whole face” is open before Cassie.
-- **Gifts, spending, cost, being given — repeat.** Attention, food, privacy, time, public allegiance, flannel; now Vee explicitly says Pace looked as if her display were a gift and claims his shirt in return.
-- **Hands and touch — repeat.** Mathematical pencil, ankle and moleskin care, hand-holding, Vee warming Pace’s hand; now she remembers “His hands” and turns the flannel cuff in her fingers.
-- **Water and preparation — repeat.** Pool, prepared water, shared bottle, rain; now the shared mountain water is part of Vee’s cherished retelling.
-- **Clothing, covering, shoes, social grammar — repeat.** Borrowed dinner shoes, swimsuit, wrong hiking boots, wet shirt, sheer bra, dry flannel; now the oversized flannel visibly marks the experience and Vee announces she will keep it.
-- **Music, rhythm, beats, timing — repeat.** Kiss pauses, climbing rhythm, rain and siren; now the chapter follows Vee’s spoken sequence and meaningful slowing.
-- **Order, discipline, systems, files — repeat.** Pace’s designs and pack systems, trail rules; now Cassie jokes about revising a file, a witness statement, and having Vee’s blood type.
-- **Held breath/chest/stomach/body response — repeat.** Trail anxiety, summit breathlessness, cold and exposure; now Vee laughs, winces, braces herself, and makes wounded sounds because the hike inhabits her body afterward.
-- **Dance, following, frame, geometry — repeat.** Pace led the trail; Vee now emphasizes that she reached the summit “on my own legs.”
-- **Pointing, choosing, selection — repeat.** Vee was selected but repeatedly chooses; now she claims her deliberate undressing and her decision to keep the shirt.
-- **Burning maple and red/copper — repeat.** Copper hair, autumn ridges, cherries, russet dress, red fire curb; no new development.
-- **Collision, fault, apology — repeat.** Staged collision and habitual apology; Pace’s boot apology; Vee says he did not make her feel she had “wrecked the day.”
-- **Wrapper, frame, camouflage — repeat.** Gifts and chance frame hidden design; wax paper holds pits; now humor frames Cassie’s worry and Vee’s vulnerability.
-- **Reading, instruments, evidence, hidden factors — repeat.** Pace reads Vee and conditions; Vee reads him; Cassie reads the flannel instantly and jokes about files and witness statements.
-- **Spoons — established, absent again.** Chi Latte and froyo spoons stir/carry sweetness; title connection unresolved.
-- **Words versus feeling / blank transcript — repeat.** Vee often remembers effects over words; now she can narrate the hike vividly but omits the belly-hand moment and condenses the drive.
-- **Orbit, light, brighter life — repeat.** Social and romantic light, silver lake, blue shirt, police lights; now retained in Vee’s excited memory.
-- **Stairs and wrong footing / unstable footing — repeat.** Emotional missed steps, oversized boots, blister, slick descent; now Vee’s legs hurt so badly she braces to sit and lifts her foot cautiously.
-- **Roads, routes, long way, gravel — repeat.** Concealed Route 614, long walks, gravel trail lot and drive; Cassie notes the invisible mountain and Sunday isolation.
-- **Pencils, margins, ownership; circles/right angles/substitution — established.** Pace returned Vee’s pencil to preserve local ownership.
-- **Borrowing and reclaiming identity — repeat.** Borrowed introduction, shoes, boots, and flannel; now Vee converts Pace’s borrowed shirt into something she is keeping.
-- **Forgotten coffee / phone face-down lighting up — established.** Pretexts and invitations; no new appearance.
-- **Structures that hold — repeat.** Mathematics, food base, tea cage, moleskin, rock shelf, truck, flannel; now Cassie’s response metaphorically sets Vee’s name down “where it wouldn’t break.”
-- **Artificial greenery — established.** Dusty plastic ivy at the froyo shop.
-- **Gaming/healer — established.** Vee’s prolonged care for another player.
-- **Swimming, buoyancy, water wings — repeat.** Pool belonging contrasts with arduous mountain accomplishment.
-- **Play and restoration — repeat.** Pool play, horseradish laugh; now Cassie’s dry jokes let Vee recount vulnerability safely.
-- **Thread / keeping up one’s end — repeat.** Silence can stand with Pace; Cassie also lets silence stand without forcing Vee onward.
-- **Right hand / consistent private rule — established.** Pace’s restaurant right-hand pattern remains unexplained.
-- **Tea / surfacing / waking — established.** Mint tea restored Vee to sobriety.
-- **Care and maintenance — repeat.** Pace’s grooming, food, water, boots, moleskin, dry shirt and sheltered drop-off; Cassie’s practical concern and exact listening continue a different form of care.
-- **Yes / deliberate consent — repeat.** Vee chose the actual trail after seeing it, summoned Pace, directed his gaze, stopped escalation, and now emphasizes “On purpose. Me.”
-- **Addresses, dossiers, insufficient coordinates — repeat.** Pace’s exact address remains unknown; Cassie’s joking “file” remains incomplete.
-- **Rooms too small / expansive feeling / wrong size — repeat.** Dorm joy, social discomfort, mountain vastness; now Pace’s flannel is three sizes too big and swallows Vee.
-- **Safety checks and rescue authorities — repeat.** State-trooper joke and real campus officer; now Cassie jokes about a windowless van, blood type, and witness statement.
-- **Matched crowds / belonging and exclusion — established.** Smoothie Bird’s regulated social world.
-- **Punitive nourishment / bruise drink — established.** Randi’s restrictive smoothie.
-- **Dear / price / spending — established.** Randi’s costly public claim.
-- **Trail etiquette / taking and leaving — repeat.** Vee explains Pace’s “leave-nothing thing” to Cassie.
-- **Traces and residue — repeat, deepened.** Pit, wax paper, moleskin, wet clothes, flannel, scent, lights, interrupted words; now Vee keeps the shirt, retells the day, and physically carries soreness and blister despite saying they left nothing.
-- **Blue shirt / swallowed brightness — established.** Pace’s cobalt shirt was swallowed by the mountain’s scale.
-- **Rain / exposure / shelter — repeat.** Rain forced transparency and shelter; now Vee recounts Pace deliberately standing in it to give privacy.
-- **Watching through glass — repeat.** Vee called Pace through rain-sheeted truck glass; now she tells Cassie she knocked and called him back.
-- **Interrupted speech / public intrusion — established.** The siren stole Vee’s attempted goodbye.
-- **Files, witness statements, evidence — first strong cluster.** Cassie jokingly treats Pace’s safety and Vee’s return as a case under review; the flannel is immediate visible evidence.
-- **Keeping / possession — first strong cluster.** Vee twice says she is keeping the shirt; Cassie affirms it.
+- **Locks, keys, deadbolts, thresholds:** Pace’s locked doors; praise and desire as keys; Randi’s unreachable inner door; Cassie’s locker key.
+- **Doors and invitations:** Calls, yogurt, dinner, choosing, hiking, Randi’s social admission; Pace as “a door held not quite shut”; Vee enters the trail, calls Pace through the truck window, and invites his gaze.
+- **Face versus hidden self:** Randi’s social face; Vee’s performed entrances and now “whole face open”; Cassie folds away looks; Brooke’s exact smile.
+- **Looking and being seen:** Randi selects Vee; hecklers and sorority women inspect her; Pace attends to her and watches her undress by invitation; Cassie sees the flannel immediately and lets Vee disclose its meaning.
+- **Food, feeding, appetite, portioning:** Apples, yogurt, dinner, tea, smoothies, sandwiches, horseradish, shared water, cherries; Vee recounts “And then we ate” with romantic excitement. Rye is now singled out in the title.
+- **Warmth versus cold:** Pace’s warmth, pool and air-conditioning cold, cracked dorm window; mountain rain, dry flannel, Vee warming Pace’s hand, truck heater; Vee now sits inside the flannel in the habitually cool room.
+- **Slowness/waiting versus hurry:** Pace waits, hikes at Vee’s speed, and leaves silence; the police siren interrupts goodbye; Cassie waits through Vee’s slowing account.
+- **Hands:** Pace’s sexual, feeding, tutoring, holding, blister-tending, trail-supporting hands; Randi and Cassie’s gestures; Vee warms Pace’s hand. Vee now eroticizes his hands and forearms in her retelling.
+- **Polish versus usefulness:** Sorority finish contrasts with Cassie/Vee practicality; old truck, moleskin, wax paper, flannel, kit, and homemade sandwiches remain useful and unpolished.
+- **Laughter:** Sorority laughter enforces belonging; Vee’s whole-body laugh resists it; after the hike she laughs and winces because her body hurts.
+- **Voice as warmth/permission:** Pace’s low questions, Randi’s tender reinterpretation, Cassie saying only “Vee” softly enough not to break the moment.
+- **Body before thought / held breath:** Desire, shame, cold, summit awe, and pain arrive bodily before explanation.
+- **“He’s hard to say no to”:** Pace accepts spoken no, but his care makes surrender attractive; Vee’s real yeses deepen while the hidden arrangement remains unknown.
+- **Water/immersion:** Pool freedom, running water, social deep water, mountain lake, rain, soaked clothes, and shared bottle.
+- **Bodily training/movement:** Randi’s trained grace; Vee’s swimming, spinning, and unfamiliar hiking labor; post-hike legs now feel ruined but victorious.
+- **Pointing and choosing:** Randi chose Vee; Pace and Randi shaped options; Vee chose food, kiss, hike, gaze, stopping, disclosure, and keeping the shirt.
+- **Frames, camouflage, costumes, ownership:** Disguised bench; curated and borrowed clothing; oversized boots injure while oversized flannel shelters; Vee claims the borrowed shirt.
+- **Accident versus arrangement:** Staged collision and coffee meeting remain unknown to Vee; the hike and its intimacy appear spontaneous to her and Cassie.
+- **Words versus feeling:** Vee remembers emotional effects over dialogue; Randi redirects accounts; the siren stole Vee’s goodbye, but she can tell Cassie what happened.
+- **High places/display:** Café table, pool, Smoothie Bird, summit; the summit exposes Vee without socially judging her.
+- **Spoons/sweetness/sharpness:** Yogurt and smoothies; cherries’ sweetness, acid, bitterness, pits; horseradish and rye make nourishment sharp rather than merely sweet.
+- **Latent variables:** Hidden Randi-Pace motives remain visible only through effects.
+- **Goodbye/later/love you:** Cassie’s “Goodbye,” Pace’s departures, Randi’s “Love you,” interrupted dorm goodbye; “next time” now opens the future.
+- **Right/wrong size:** Wrong textbook/right pen; borrowed shoes and oversized boots; Pace’s hand feels right; the oversized flannel is wrong-sized but welcome.
+- **Circles/substitution/clean lines:** Mathematics, swimming figures, Vee’s spin, Randi’s substituted explanation, altered boot lacing.
+- **Borrowed poise/reclaimed self:** Vee borrows Randi’s manner, footwear, and Pace’s shirt while increasingly claiming her own laughter, appetite, desire, and story.
+- **Unknown numbers/incomplete maps:** Pace as unknown number; vague home location off 614; hidden trail and unseen lake.
+- **Games and roles:** Concealed selection game; sorority performance; Vee knowingly inhabits a condemned erotic role yet names it as her own choice.
+- **Overflow/abundance:** Yogurt, joy, color, landscape, rain, feeling larger than speech.
+- **Support/foundations:** Food, water, Cassie’s room, Randi’s reassurance, Pace’s pacing and practical care; Cassie now provides emotional support without control.
+- **Long routes/hidden destinations:** Long walk, remote road, hidden summit, concealed relational destination.
+- **Cleaning/sharpness beneath sweetness:** Cleaner, chlorine, citrus, mustard, horseradish, cherry bitterness.
+- **Boundaries/crossing:** Pool stripe, kissing rule, social thresholds, trail edge, truck door/window, invitation to look.
+- **Weight/buoyancy:** Water supports; scrutiny weighs; soaked clothing and aching legs weigh; summit and desire enlarge Vee’s world.
+- **Noise versus quiet:** Underwater and woods quiet; blenders, rain, and siren noise; Cassie’s silence receives Vee safely.
+- **Threads, dropping, catching:** Lecture and conversation threads; Randi catches and redirects language; siren cuts Vee off; Cassie allows the thread to resume afterward.
+- **Objects mediating heat:** Tea cage, cups, bottle, moleskin, wax paper, flannel, heater.
+- **Roads/gravel/addresses:** Pace’s incomplete address, trailhead gravel, police following his departure.
+- **Good news pulling bodies upright:** Cassie and Vee physically rose over induction news; after the hike Vee can barely lower herself into the chair.
+- **Color versus adequacy:** “Fine” life versus new color; autumn landscape; desired russet dress versus adequate black.
+- **Being picked aloud:** Randi’s “dear friend”; Pace watching Vee’s face; Cassie naming “Vee” with care.
+- **Feet, footing, vulnerability:** Pool footing, high chairs, borrowed shoes, trail fear, blister, moleskin, aching legs; Cassie advises real boots next time.
+- **Taking/leaving traces:** Carrying crumbs and pits out, moleskin left on Vee, flannel carried home. Intimacy leaves traces despite leave-no-trace practice.
+- **Clothing removed/exchanged/borrowed:** Curated clothes, borrowed shoes and boots; Vee removes her wet shirt, wears Pace’s flannel, and chooses to keep it.
+- **Shelter and exposure:** Trees fail as shelter, truck succeeds, Pace exits to protect privacy, Vee recalls him to witness exposure; flannel shelters her afterward.
+- **Shared containers:** Pace and Vee share one bottle; food and pits pass through wax paper.
+- **Authority interruption:** Police lights and siren break the private goodbye.
+- **Files, evidence, witness statements — first:** Cassie jokingly revises a file and imagines a witness statement; the flannel is visible evidence altering her judgment.
+- **“Next time” — first emphasis:** Cassie’s practical warning also accepts that Vee may go with Pace again.
 
-**Symbolism noticed**
+#### Symbolism noticed
 
-- **Disguised bench:** hidden purpose beneath polished ordinariness; parallels the couple’s concealed intentions.
-- **Locks, keys, forbidden doors:** privacy, boundaries, inaccessible feeling, appetite, and irreversible change.
-- **Mirror / covered tabletop / orderly closet / cold synthetic duvet / single room:** Randi’s curated identity, concealment, and failed comfort.
-- **Bench as unwrapped gift:** pleasure and discovery Randi cannot assimilate.
-- **Apple and “feed you”:** physical appetite joined to sexual appetite.
-- **Absent door to crying / held breath:** habitual repression.
-- **Burning maple and Vee’s loose copper hair:** visible change and bodily freedom.
-- **Pointing game and staged collision:** an unsuspecting woman selected and manipulated through apparent chance.
-- **Dance frame:** Pace leads and Randi follows; Vee’s spin shows joy escaping management; Randi verbally leads Vee’s interpretation.
-- **Bolted/high seats, doorways, windows:** constrained placement, display, initiation, and precarious belonging.
-- **Latent variables:** hidden desires and plans driving visible events.
-- **Spoons stirring sweetness upward:** buried pleasure brought to the surface; possible title link.
-- **“Goodbye” versus “See you later”:** movement toward a promised future.
-- **Blank transcript:** emotional intoxication displacing verbal memory.
-- **Integral/substitution/right-angle cross:** transforming a circular problem into usable structure.
-- **Returned pencil:** genuine local agency within a secretly designed larger situation.
-- **Pace’s clothes and abandoned coffee:** unadvertised capability and exposed pretext.
-- **Overflowing frozen yogurt / tart foundation:** appetite escaping restraint; support beneath excess.
-- **The long way:** patient intimacy along a concealed route.
-- **Phone lighting up:** desire or obligation arriving despite attempts not to watch.
-- **Plastic ivy:** decorative life surrounding a real encounter.
-- **Pool surface:** boundary between public scrutiny and private bodily belonging.
-- **Underwater weightlessness:** freedom from desire, judgment, and performance.
-- **Old swimsuit:** continuity with Vee’s younger self and proof her changed body cannot hide.
-- **Cassie’s small splash:** care calibrated to invite rather than compel.
-- **Body left with the towel:** temporary separation from the socially troublesome body.
-- **Water wings:** false public reading of Vee’s body versus real supports.
-- **Unfamiliar menu:** unknown experience Vee permits Pace to navigate.
-- **Bright and dark dishes:** complementary awakening and surrender.
-- **Bread torn and folded by hand:** sensual instruction through example.
-- **Brass tea-glass cage:** structure making something hot safe to hold; proof of sobriety.
-- **Dropped thread:** social vigilance relinquished with Pace.
-- **First hand-holding as resolution:** attachment experienced as correction of absence.
-- **Freely chosen exception:** genuine local yes inside a concealed route.
-- **Cracked window / untouched cold:** romantic warmth blocking ordinary discomfort; now Pace’s flannel supplies warmth inside the still-cool dorm.
-- **“Off six-fourteen”:** knowledge that feels safe while incomplete.
-- **Borrowed hiking shoes:** entering unfamiliar terrain through equipment not her own; concretely inadequate.
-- **Too-small room:** happiness exceeding Vee’s contained life.
-- **Cassie’s dry floor:** practical friendship supporting joy.
-- **High stool / dangling feet:** Vee displayed and judged without grounding.
-- **Matched smoothie-shop clothing:** Randi’s regulated world and Vee’s fear of failing its grammar.
-- **Bruise-colored punitive smoothie:** appetite disciplined until nourishment resembles punishment.
-- **Public hand on white table:** visible protection and belonging, but also stronger fastening.
-- **“Dear”:** affection joined to cost.
-- **Deep water after the boat:** Brooke’s influence lingering as bodily danger.
-- **Steep trail absent from the yes:** material reality omitted from Vee’s eager, Pace-centered agreement.
-- **Pace’s blue shirt swallowed by the summit:** his compelling presence made small by a world larger than the romance.
-- **Summit’s indifference:** beauty and bodily existence outside judgment, selection, or desire.
-- **Moleskin square:** practical care that protects Vee and lets her continue; a literal trace carried home.
-- **Sandwich made after hunger:** Pace’s prepared satisfaction arriving after experience creates appetite; Vee’s retelling gives the meal the emotional weight of romance.
-- **Cherry pits / leave nothing:** ethical trail rule highlighting hidden evidence and concealed design.
-- **Russet silk dress:** Vee’s restrained desire for beauty, recognition, and a ceremonial self.
-- **Rain-soaked shirt and sheer bra:** involuntary exposure converted into deliberate erotic display.
-- **Dry flannel:** shelter, Pace’s self-denial, intimacy, and a visible/scented trace; now something Vee openly claims and Cassie sanctions her keeping.
-- **Hand under flannel against belly:** desire redirected into reciprocal care and warmth; notably omitted from Vee’s account to Cassie.
-- **Illegal curb and police lights:** private care colliding with public rules and consequence.
-- **Siren taking the sentence:** public interruption of intimate meaning Vee cannot yet articulate.
-- **Oversized shirt swallowing Vee:** Pace’s presence visibly surrounding her, but worn and kept by her choice.
-- **Cassie setting down Vee’s name safely:** friendship as a place where vulnerable meaning can be held without breaking.
-- **“Keep the shirt”:** Cassie’s blessing of Vee’s claim on the experience and its tangible trace.
-- **Rye:** ordinary nourishment carrying romantic and bodily intensity; Vee’s appetite is as important to her as the conventional kiss.
+- The disguised bench symbolizes hidden function beneath ordinary appearance.
+- Locks and keys symbolize privacy, access, consent, and emotional thresholds.
+- Thin apple slices and restricted drinks symbolize controlled appetite.
+- Faces symbolize social armor and unguarded feeling.
+- Handmade furniture, maintained boots, and practical kits suggest durable private value outside status display.
+- Randi’s single room and ordered closet suggest privilege, isolation, and curated identity.
+- Synthetic bedding versus cashmere contrasts impersonal safety with dangerous tenderness.
+- Untouched water symbolizes relief Randi cannot enter.
+- Matched laughter and clothing symbolize conformity.
+- The pointing game symbolizes real choice inside a concealed structure.
+- Bolted seats and high tables symbolize intimacy or exposure constrained by arrangement.
+- Latent variables symbolize hidden motives known through effects.
+- Spoons and overflowing yogurt symbolize appetite raised into reach and escaping limits.
+- Mathematical substitution and the returned pencil symbolize transformed difficulty with Vee retaining final agency.
+- The pool and figure-eight symbolize bodily freedom predating shame.
+- The tea cage symbolizes structure making dangerous heat holdable.
+- The cracked window symbolizes controlled admission of cold reality into happiness.
+- “Off six-fourteen” symbolizes incomplete knowledge mistaken for orientation.
+- Borrowed shoes symbolize borrowed readiness; oversized boots show that borrowed readiness can wound.
+- Vee’s spin symbolizes joy exceeding former boundaries.
+- The high Smoothie Bird chair symbolizes display and loss of footing.
+- Vee’s apologetic cardigan symbolizes body shame.
+- Randi’s bruise-colored drink suggests something punitive beneath disciplined polish.
+- “Dear friend” symbolizes affection, allegiance, and social cost.
+- The empty pink cup symbolizes sweetness consumed but emotionally retained.
+- Color symbolizes Vee’s awakening from adequacy.
+- The summit’s indifference symbolizes freedom from social judgment.
+- Pace’s cobalt shirt swallowed by landscape makes him small beside the world.
+- The russet dress symbolizes a visible life Vee wants rather than “good enough.”
+- Leave-no-trace practice symbolizes gentle instruction, while intimacy’s marks make the phrase impossible.
+- The moleskin symbolizes practical, durable care.
+- Pace’s flannel symbolizes shelter, transferred warmth, trust, erotic evidence, and a bond Vee now claims by keeping it.
+- The truck window symbolizes a consent threshold crossed by Vee’s invitation.
+- Police lights and siren symbolize public authority breaking private space before Vee can name it.
+- The contrasting oversized items matter: boots too large injure Vee, while a shirt three sizes too large shelters her.
+- Rye bread symbolizes sustaining, handmade care remembered through appetite rather than glamour.
+- Cassie’s “Keep the shirt” reads as acceptance of Vee’s desire and experience without surrendering caution.
 
-**Open questions**
+#### Open questions
 
-- What exactly did the bench scene mean to Randi, and will she tell Pace that praise, begging, or Brooke’s name disturbed her?
-- Will Pace recognize Randi’s concealed distress?
-- What is the low hum inside Randi’s ribs?
-- Why did Pace build the bench seven months before meeting Randi, and will it be used again?
-- How did Pace and Randi meet and develop their secret relationship?
-- What trained Randi to expect hurried pain?
-- What is Randi’s history with her mother, begging, food discipline, and emotional refusal?
-- Will the bottle-cap pressure under Randi’s thumbnail recur?
-- Why must Pace remain unknown to Randi’s sorority sisters?
-- How did Brooke and Sloane identify Pace and his truck, and what might Brooke do?
-- What does Randi’s Standards role require?
+- What will Randi do with her grief from the bench experience, and will Pace notice it?
+- What lies behind “He’s hard to say no to”?
+- What taught Randi to brace for hurried pain, and why is tenderness harder for her?
+- What is Randi’s relationship with her mother, and why do restriction images recur?
 - What were Randi’s unread notifications?
-- Will Randi ever finish “He’s hard to say no to,” cry openly, or confide?
-- How much will Randi tell Vee about Pace?
-- Will Randi admit wanting Vee for herself?
-- Does Randi understand the unfairness of Pace’s orgasm-time question?
-- Will Pace question his belief that bodily response reveals actionable truth?
-- Can Pace distinguish a freely given yes from a yes whose route he secretly designed?
-- When and how will Vee learn that the pointing game, collision, friendship, and Pace’s approach were arranged?
-- How will Randi’s bench experience shape her treatment of Vee?
-- How will emotional reality complicate all three?
-- What does *With a Long Spoon* ultimately mean, and how will the freely given yes become a trap?
-- What did Cassie perceive about Randi and Vee, and will she challenge Randi’s influence?
-- How much did Cassie infer from Randi’s cup-hand or coordinated meeting?
-- Will Vee’s separation of “her own people” from Cassie become a division?
-- What does Vee want from Randi: friendship, status, erotic intimacy, or all three?
-- When will Vee consciously recognize her attraction to women and the inherited voice policing it?
-- What exactly did Vee feel in Randi’s public hand-holding?
-- Why does Vee retain intimate feelings but few words?
-- What flattery entered Vee like a key, and who was the guy discussed at Chi Latte?
-- Was Randi’s earlier meeting genuine, and was Pace waiting nearby?
-- What does Randi feel while Pace charms Vee?
-- Was Randi’s Friday-date story true?
+- How much do Brooke and the sorority police Randi, and what does Brooke suspect?
+- Why did publicly naming Vee “dear friend” cost Randi?
+- Who is the taller sorority woman, and what did she make of Vee?
+- Will Brooke’s proposed dinner happen?
+- Was Randi’s disastrous Friday date wholly invented?
 - Why did Randi pretend not to remember Pace’s name?
-- Will Randi tell Pace that Vee liked surrendering choice and stopped watching herself?
-- Will Randi continue reframing Vee’s choices around Pace’s irresistibility?
-- Will café/froyo spoons clarify the title?
-- Will Pace reveal Randi before Vee becomes more attached or enters his house?
-- Can Vee’s interest in hidden gaps help her detect the game?
-- Was Pace’s teaching spontaneous generosity, deliberate seduction, or both?
-- Will substitution/right-angle imagery recur in the triangle?
-- How quickly will Pace and Vee’s physical intimacy deepen after the truck display?
-- Why has attentive kindness been absent from Vee’s life?
-- What is Vee’s history with her grandfather?
-- Who was the business major Vee helped, if relevant beyond loyalty?
-- Will Vee’s mother’s limiting voice remain erotically entangled with Vee’s desire?
-- How much does Pace’s food-ordering and hike preparation reflect a broader need to design experience?
-- Will Randi’s pressure not to wait become visible as pressure?
-- What did Vee grieve underwater?
-- What does “back before any of it” encompass?
-- Why did Vee stop synchronized swimming, and how was it taken from her?
-- Will her swimming self and bodily confidence recur?
-- How will Pace’s and Randi’s attention affect Vee’s refuge in her body and Cassie’s friendship?
-- What rule governs Pace’s right-hand use while eating?
-- What did Christine say that made Pace duck his head?
-- What taught Vee that men require immediate answers?
-- Will Vee’s ease in surrendering small choices expand into consequential choices?
-- Will Vee recognize how often she loses the verbal record around Randi and Pace?
-- When will Vee get Pace’s exact address, and will Cassie insist on it?
-- What is Pace’s house and financial situation actually like?
-- When will Vee enter Pace’s house and discover the concealed bench?
-- What trail lies near Pace’s home, and was this hike that trail or a separate location?
-- What happened in the kiss beyond Vee’s choice to initiate it?
-- Who is the silent older woman with Brooke?
-- What did Randi’s public declaration cost?
-- Will Brooke’s dinner invitation become real?
-- Why did Randi’s phone light up, and what took her away?
-- Will Pace remember or act on Vee’s desire for the russet silk dress?
-- What words was Vee trying to say before the siren interrupted her?
-- Did the campus officer ticket or otherwise confront Pace after following him?
-- ~~Will Cassie see the flannel and learn what happened in the truck?~~ Cassie immediately saw the flannel, and Vee told her about deliberately undressing under Pace’s gaze, though not about warming his hand against her belly.
-- Why did Vee omit the hand-against-belly moment from her account to Cassie?
-- Will Vee return Pace’s flannel, despite insisting she is keeping it?
-- Will Randi see or hear about the flannel and Vee’s deliberate exposure?
-- How will Randi react if she learns Vee kept Pace’s shirt?
-- Does Pace understand how powerfully Vee’s mother’s shame is entering her desire?
-- What does “Leave No Trace” imply beyond trail etiquette, given all the traces Vee carries away?
-- Will the flannel become recognizable evidence to someone besides Cassie?
-- What will Pace think when he realizes Vee has claimed the shirt without asking?
+- Will Pace hear Randi’s version of Vee’s kiss?
+- Will Randi continue shifting Vee’s “I chose” toward “I couldn’t not”?
+- What are Pace’s precise age, background, wealth, and PhD status?
+- Why did Pace build the bench before Randi?
+- What precisely drew Randi to Vee?
+- When and how will Vee learn the collision and coffee meeting were arranged?
+- When will Vee learn Randi and Pace are lovers?
+- What account will they give of the pointing game?
+- Will Randi experience pursuing Vee as her choice, Pace’s gift, or both?
+- What happens if Randi later says no?
+- What will the tagline mean across all three relationships?
+- What further invitation will make *A Polite Invitation* literal?
+- What will *With a Long Spoon* mean?
+- What did Cassie initially perceive in Randi?
+- Is Cassie hurt by Vee’s growing attachment to Randi?
+- Will Vee’s idea of “your own people” distance her from Cassie?
+- Will Cassie notice contradictions in Randi and Pace’s supposed unfamiliarity?
+- How much romantic and sexual experience has Vee had?
+- Who demanded immediate answers from Vee in the past?
+- How consciously does Vee understand attraction to women and Randi’s weighted touch?
+- How deeply has Vee’s mother shaped her shame and excitement?
+- What was Randi’s key-like flattering remark in their first lawn conversation?
+- Who was the unnamed guy discussed at Chi Latte?
+- What obligations pull Randi back into sorority life?
+- Will Vee’s research or statistics matter?
+- How much of Pace’s courtship was planned?
+- Was Pace texting Randi during the coffee-shop scene?
+- Why did Pace use mathematics help as his entrance?
+- How will Vee reinterpret his attention after learning the truth?
+- Can Randi keep encouraging the courtship as it becomes real?
+- Will Pace tell Randi about Vee’s loneliness, kiss, hike, and undressing?
+- What deprivation makes Pace’s kindness unprecedented to Vee?
+- What was Vee’s relationship with her grandfather, and is he alive?
+- Who was the business major Vee kept alive in a game?
+- Why did Vee stop synchronized swimming, and what is “before any of it”?
+- What was Vee grieving underwater?
+- How long has Cassie understood Vee’s sadness?
+- Will Vee tell Cassie about confessing loneliness to Pace?
+- Why did Pace eat only with his right hand, and does his two-handed driving matter?
+- What did Christine say, and how does she know Pace?
+- Will Vee get Pace’s full address?
+- Why is his home isolated and vaguely located?
+- Is Pace rich?
+- Why did Pace choose that trail?
+- Was Randi involved behind the scenes in the hike?
+- Why did Vee think Pace “had no house here to go to”?
+- Did the campus officer ticket or stop Pace?
+- What was Vee trying to say before the siren?
+- Will Vee return the flannel, or has keeping it been silently accepted?
+- Will the truck encounter lead directly to further physical intimacy?
+- Will Pace tell Randi Vee invited him to watch?
+- Will Randi recognize the flannel, and what will she do?
+- Will Cassie’s revised trust in Pace survive the hidden truth?
+- Will Pace or Randi buy Vee the russet dress?
+- What honor society is inducting Vee?
+- How will the ceremony affect her?
+- Will Vee’s father’s absence and mother’s presence matter?
+- What does Vee’s mother mean by the “I never” cry?
+- Will Pace attend or become involved in the induction dinner?
 
-**Running memory — story so far**
+#### Running memory — story so far
 
-Randi secretly visited Pace’s warm, isolated house while lying to Brooke about a paper. Pace accommodated her restricted eating; an apple game became sexual. He revealed a concealed walnut-and-leather bench built over seven months despite knowing Randi only three weeks. Randi consented.
+The jacket says Randi and Pace are secret lovers who selected Vee as a third without telling her; all three will develop genuine feelings, and every yes will be freely given.
 
-Pace undressed, positioned, spanked, and edged her slowly, established “Red” as a safeword, and attended to safety. He invoked sorority judgment and Brooke until Randi begged in a childhood voice associated with her mother. After orgasm she cried involuntarily. Pace gave aftercare, but she flinched at “beautiful,” locked herself in his bathroom, cried privately, and could not reconcile her polished identity with the begging self. She concealed this and stayed; Pace believed he had reached something authentic.
+In **“The Bench,”** Pace showed Randi a handmade sexual bench disguised as a table, fed her apple slices, undressed, spanked, and edged her with safeword checks, then gave careful aftercare. Randi climaxed, cried silently, hid in his bathroom, and rebuilt her social face.
 
-Brooke later questioned Randi before Sloane and Kinsey, exposed holes in her paper story, identified Pace, confirmed his PhD status, and checked that he had no teaching authority over Randi. Alone, Randi could neither act normally nor cry and could not finish, “He’s hard to say no to.”
+In **“Standards,”** Brooke, Sloane, and Kinsey questioned Randi about Pace. Alone, Randi could not complete ordinary acts, ignored notifications, ran water without touching it, and could not finish “He’s hard to say no to.”
 
-Four weeks into their relationship, Pace asked during Randi’s orgasm whether she wanted another woman. Her body responded. Afterward she said, “Only in a threesome. With you,” disguising her desire as a gift. Pace accepted the camouflage.
+In **“The Pointing Game,”** Pace asked whether Randi wanted a woman. She allowed the desire only in a threesome with him. He presented women on campus; she selected Vee, engineered a collision, and began befriending her.
 
-On campus Pace had Randi evaluate women and pointed out Vee. Randi chose her and staged a collision at Pace’s direction. Vee believed it accidental and apologized. Randi exchanged names with Vee and Meg and learned they shared statistics. Randi returned glowing; Pace said, “Let’s go feed you.”
+In **“See You Later,”** Randi took Vee to Chi Latte, listened intensely, hugged her, said “Love you, girl,” and made her feel admitted to a brighter life. Cassie declined with “Goodbye, Vee.”
 
-Vee watched for Randi in statistics. Randi sat beside her, praised her pen, touched her, and distracted her from material she normally enjoys. The professor lectured on latent variables—hidden factors driving visible events.
+In **“Substitution,”** Pace entered a coffee shop as an apparent stranger after Randi texted, helped Vee solve an integral without taking over, asked about her ambitions, requested her number, and received Randi’s encouragement toward dating him. Cassie noticed his excluding focus.
 
-Randi invited Vee and Cassie to Chi Latte. Cassie declined and said “Goodbye, Vee.” Randi bought Vee a lavender oat-milk latte and made her feel funny, capable, admitted, and chosen. Vee retained the effect more than the words. Randi hugged her, said “Love you, girl,” and promised “See you later.” Vee walked the long way home believing Randi had chosen a future containing her.
+In **“The Long Way,”** Pace invited Vee for yogurt. Vee built an overflowing cup without her mother’s limiting voice. Pace paid, held doors, took the long route, listened deeply, and received her admission that his kindness was the nicest she had experienced in a long time without exploiting it.
 
-At a Wilson coffee shop, Vee struggled with an optional economics integral beside Randi and Cassie. Pace entered as if a stranger, focused on Vee, and offered help. With permission he used her pencil, confirmed her work, supplied Euler’s formula and a right-angle substitution, then returned the pencil so she solved it. He listened to her ambitions, identified himself as a math PhD student, requested her number, and left without coffee.
+In **“Water Wings,”** male hecklers appraised Vee at the pool. Underwater she recovered synchronized-swimming freedom and a self predating shame. Cassie restored her laughter through play without interrogating her grief.
 
-Randi urged Vee to date him. Cassie observed that Pace looked at Vee as if no one else existed and ignored Randi. Pace texted asking whether Vee liked frozen yogurt. Randi took Vee’s phone, said he wanted her naked, urged her to go, and dismissed waiting because Vee was not unsure.
+In **“May I Choose,”** Pace took Vee to dinner, checked limits, selected food with permission, and let her rest in his attention. He accepted her no-kissing rule; Vee stopped him as he left and deliberately kissed him.
 
-At the bright frozen-yogurt shop, Pace explained his layering system. Vee made an excessive leaning cup without hearing her mother’s usual limit. Pace paid; Vee gathered spoons. They walked the long way. His waiting reminded her of her grandfather. Vee confessed that this was the nicest anyone had been in a long time, then asked him to forget it. He neither denied nor magnified it and later observed that the tart base held up her leaning stack.
+In **“Off Six-Fourteen,”** Vee joyfully told Cassie about the kiss and hiking invitation. Cassie checked for alcohol, accepted Vee’s agency, requested identifying details, and warned that “off six-fourteen” was not a full address.
 
-At the rec pool, Vee wore her old synchronized-swimming suit and felt exposed in her fuller body. Male hecklers commented on her. Cassie called them “Tossers.” Underwater, Vee recovered the figure-eight scull and remembered uncomplicated bodily belonging from before her body became a problem. She briefly grieved something unnamed. Cassie noticed without questioning and initiated a water fight that restored Vee’s unguarded laugh.
+In **“Dear,”** Cassie concealed a look when Randi reached for Vee. At Smoothie Bird, Randi pretended not to remember Pace and told a likely fabricated bad-date story. She reframed Vee’s chosen kiss as something she could not avoid “because of him.” Before Brooke and another sorority woman, Randi held Vee’s hand and publicly called her “my dear friend,” making Vee feel chosen despite sensing a cost.
 
-Pace invited Vee to Saturday dinner without demanding an immediate answer. Vee treasured the quiet and told Cassie other men required instant responses. Cassie stopped teasing and said Pace was a man, not a boy.
+In **“Leave No Trace,”** Pace drove Vee to a steep mountain trail. Meg’s oversized boot blistered her heel; Pace applied moleskin and adjusted it without humiliating her. At the summit Vee saw an immense autumn valley and silver lake and felt freed by their indifference. Pace watched her face, then gave her solitude. They ate Pace’s sandwiches, shared water, and ate cherries. Pace gently taught her to carry out the pits.
 
-Vee chose clothes with Cassie, borrowed shoes, and forgot to eat. Pace arrived carefully groomed and took her to a warm restaurant where Christine knew him. Unable to read the menu, Vee asked for rescue. Pace said, “May I choose?”, checked restrictions, and ordered deliberately. Vee became profoundly hungry, stopped monitoring herself, and noticed Pace always ate with his right hand. Mint tea in brass cages returned her to awareness.
+Vee disclosed her upcoming honor-society induction, Cassie’s joy, her mother’s emotional response and planned attendance, her father’s work absence, and her desire for an unaffordable russet silk dress instead of an adequate black one. Pace listened without pressing or promising.
 
-Outside, Pace took her hand. Beneath a tree Vee said she did not kiss men she had known only days. Pace accepted this and began walking. Vee drew him back, said, “I’m making an exception,” and kissed him.
+Rain soaked them on descent. Pace gave Vee his only dry flannel and stood outside the truck in the rain to let her change privately. Vee called him back, deliberately removed her wet shirt under his gaze, and experienced his look as wanted but non-taking. When she discovered he was shaking, she warmed his hand against her belly and asked him to drive. At the dorm a campus police siren interrupted Vee before she could say what she felt; Pace drove away followed by the officer.
 
-At the dorm Vee emphasized to Cassie that Pace accepted her no and that she deliberately pulled him back. Cassie checked for alcohol. Vee insisted, “Nobody did anything to me. I wasn't talked into it. I did it because I wanted to and I did it on purpose.” Cassie believed and celebrated her. Vee spun, cried “Look at me,” and Cassie answered, “I’m looking.”
+In **“Rye,”** Vee returned to her room in Pace’s enormous flannel, exhausted and sore. Cassie immediately noticed it and confirmed Vee was alive, joking that she had prepared a witness statement and knew Vee’s blood type. Vee excitedly recounted the climb, Pace’s blister care, his hands and forearms, her achievement in reaching the summit, and the rye-and-horseradish sandwiches, shared water, and cherries.
 
-Vee revealed Pace had invited her hiking near his home and that she immediately said yes despite never hiking. Cassie asked his name and whereabouts in case she needed state troopers. Vee knew only west of town, off 614 after gravel, and had no exact address. Pace required real shoes and Vee assumed he would bring water. Cassie said, “Borrow good ones.”
+Vee then slowed and told Cassie about the rain, Pace giving her his shirt and standing outside to protect her privacy, and her own deliberate choice to call him back and undress before him. She emphasized, “On purpose. Me,” and said Pace looked as though she had handed him something but did not touch her. She admitted she had kept the flannel without asking. Cassie received this raptly and tenderly, saying Vee’s name “like setting something down where it wouldn’t break.” She advised Vee to borrow real boots next time and told her to keep the shirt.
 
-After statistics, Cassie looked from Vee to Randi, folded away her reaction, and left. Randi seized Vee’s wrist and demanded a report, pretending to search for Pace’s name. At Smoothie Bird, Vee felt underdressed among polished women. Randi ordered a restrictive bruise-colored smoothie; Vee copied her oat-milk choice.
+#### Running memory — how I feel
 
-Randi told a possibly fabricated story about a glamorous inattentive date, prompting Vee to contrast Pace. Vee described handing dinner choices to him, ceasing to monitor herself, and liking not being in charge. Randi named that pleasure gently. Vee proudly said she had kissed Pace. Randi transformed “I made an exception” into “Because you couldn’t not. Because of him,” and Vee accepted it.
-
-Brooke and an older silent woman approached. Brooke’s warmth made Vee feel measured. Vee minimized herself, but Randi called her “my dear friend,” took her hand, and held it publicly. Vee sensed this cost Randi something and felt profoundly chosen. Brooke offered an apparently empty dinner invitation. After they left, Vee apologized without knowing why. Randi restored her with praise, touch, a hug, and “Love you, girl,” then left when her phone lit.
-
-For the hike, Meg lent Vee boots half a size too big. At the gravel lot Vee confronted a steep wall of woods and recognized that her instant yes had contained Pace, not the actual trail. Pace said it eased in; she chose to step onto it.
-
-Pace led slowly enough for her inexperience. When the right boot rubbed her heel raw, he removed boot and sock, supported her bare foot, applied moleskin, relaced the boot, apologized for not checking earlier, and continued. Vee’s maternal shame rose but subsided because he treated the care as ordinary.
-
-At the summit, the world opened onto black rock, a silver lake, and burning autumn ridges. Its vast indifference felt beautiful. Pace watched Vee’s face before the valley, let her catch him, then turned away and gave her the remaining experience alone.
-
-They ate homemade rye sandwiches with mustard and horseradish, sharing one metal water bottle. Vee experienced exertion-created hunger meeting prepared food. Pace served dark cherries. When Vee spat a pit onto the rock, he gently said, “We take nothing and leave nothing,” retrieved it, and later put his own pit beside hers.
-
-Vee told Pace about her coming honor-society induction. Cassie had screamed with joy; Vee’s mother proud-cried and planned to attend, while her father could not leave work. Vee confessed longing for an unaffordable russet silk dress and resignation to an old black one. Pace only said it sounded beautiful.
-
-Rain began during the descent. Pace kept close and slowed for safety. They reached his old white pickup soaked and shivering. Pace produced one clean dry flannel and silently gave it to Vee, then stood outside in the rain with his back to the truck to give her privacy.
-
-Vee wanted him inside and wanted him to see her. She tapped the window, summoned him, and held his eyes while slowly removing her wet shirt, exposing a wet sheer bra. Her mother’s condemning voice intensified her desire. Pace watched with want and gladness but did not touch.
-
-Vee put on his flannel unbuttoned and reached for his hand, intending to begin more. Discovering that he was shaking from cold, she brought his hand under the flannel against her warm belly, held it there, and asked him to drive so they could get warm. He left his hand there a beat before withdrawing.
-
-At Vee’s dorm Pace parked on the fire-lane curb beneath the overhang so she would not cross the rain. As Vee began to say something larger than her available words, a campus officer sounded the siren. Vee fled under the overhang; Pace drove away followed by the officer. She entered soaked, wearing his flannel and carrying the wet shirt, with moleskin on her heel.
-
-In “Rye,” Cassie immediately noticed the oversized flannel. Her jokes about a windowless van, witness statement, and blood type revealed her worry without making Vee defend the outing. Aching badly, Vee recounted the mountain: the bad boots, Pace’s moleskin kit and hands, her suspicion that he is heavily built, the silver lake, her pride in reaching the summit on her own legs, and the extraordinary rye-and-horseradish lunch.
-
-Vee explained Pace’s leave-nothing rule. She then slowed and told Cassie about the rain, Pace giving her his sole dry shirt, and his standing outside to protect her privacy. She confessed that she deliberately called him back and took off her wet shirt in front of him. She described his gaze as though she had handed him a gift and emphasized that he did not touch her. She omitted warming his hand against her belly and condensed the remainder to his turning on the heat and driving her home.
-
-Vee said she had kept Pace’s shirt without asking and intended to keep it. Cassie did not interrogate or shame her. She spoke Vee’s name softly, advised real boots next time, and affirmed: “Keep the shirt.”
-
-**Running memory — how I feel**
-
-- **Pace:** Intensely attractive, intellectually generous, practically capable, patient, and tender. Physical trust remains high because he notices risk, repairs discomfort, protects privacy, waits for invitation, and does not treat display as permission to touch. His cold and shaking make him vulnerable. Larger trust remains very low because he secretly designed Vee’s route and conceals Randi. Vee’s adoring retelling shows how deeply his real care is fastening her to a situation she cannot evaluate fully.
-- **Randi:** Strong attraction and sympathy mixed with sharp distrust. Her public claim of Vee feels emotionally real and possibly brave, but she lies about Pace, extracts intimate information for a hidden design, and reinterprets Vee’s choices. I dread her reaction to the truck disclosure and retained flannel.
-- **Vee:** Deep affection, admiration, protectiveness, and worry. She is proud of reaching the summit herself, openly claims her desire, and chooses what to tell Cassie. Her omission of the belly-hand moment suggests a private core she is not ready to share. Her mother’s shame remains fused with erotic excitement. She is visibly and emotionally wrapped in Pace now.
-- **Cassie:** Very high trust and warmth, increased again. Blunt, practical, observant, funny, tactful, and genuinely protective. She can recognize danger without overriding Vee and can receive an intimate disclosure without prying. “Keep the shirt” feels like loving permission.
-- **Meg:** Mild warmth and amusement; unsuitable boots caused harm, but Vee knew they fit badly.
+- **Randi:** Strong attraction, sympathy, sadness, and alarm. Her affection for Vee feels real, but she lies about Pace and redirects Vee’s account of her own agency. Tenderness and manipulation remain inseparable.
+- **Pace:** Intensely attractive. His immediate conduct—patience, blister care, food, privacy, permission, vulnerability, and refusal to touch without invitation—continues to earn trust. Vee’s accurate retelling makes that care feel even more consequential. I still distrust the concealed structure he and Randi created, and his isolated home remains ominous.
+- **Vee:** Deep affection, attraction, protectiveness, and pride. She now openly owns the hike, her appetite, her achievement, her desire to be seen, and the shirt she brought home. Her “On purpose. Me” is convincing. I fear her genuine agency is binding her to people withholding essential truth.
+- **Cassie:** Strongest trust, now with increased tenderness. She is protective without being controlling, funny without trivializing danger, and capable of receiving Vee’s erotic happiness without shame. Her “Keep the shirt” feels generous. I worry that good evidence is causing her to revise her judgment of Pace without access to the hidden arrangement.
+- **Brooke:** Uneasy fascination; exact, measuring, socially authoritative.
+- **Unnamed taller sorority woman:** Discomfort; she inspected Vee rather than meeting her.
 - **Christine:** Mild warmth and curiosity.
-- **Brooke:** Wary and intimidated. Her concern may be legitimate, but her authority feels controlling.
-- **Unnamed older woman with Brooke:** Unease; silent appraisal unexplained.
-- **Sloane:** Distrustful; observant and skilled at disguising judgment.
-- **Kinsey:** Mild sympathy mixed with discomfort.
-- **Randi’s mother:** Dislike and unease because of restriction, refusal, and emotional inaccessibility.
-- **Vee’s mother:** Strong dislike and unease. Her internalized condemnations police Vee’s body and sexuality and actively feed her arousal.
-- **Vee’s father:** Neutral.
-- **Vee’s grandfather:** Warmth; remembered as genuinely interested and nonjudgmental.
-- **Unnamed campus police officer:** Neutral-to-irritated uncertainty; interrupted intimacy, though Pace was parked in a fire lane.
-- **Overall mood:** Warm, sore, nourished, and quietly claimed after the rain. Vee’s yeses remain unmistakably her own, while the concealed design makes every beautiful choice more dangerous. The mountain has entered her ordinary room through pain, memory, disclosure, and the enormous flannel she intends to keep.
+- **Meg:** Mild warmth, though her boots wounded Vee.
+- **Sloane:** Mild discomfort; status-conscious and watchful.
+- **Kinsey:** Less threatening but group-aligned.
+- **Statistics professor:** Neutral, faintly comic.
+- **Smoothie-counter worker:** Neutral.
+- **Campus police officer:** Mild anxiety and irritation because the interruption separated Vee and Pace before they could speak.
+- **Pool hecklers:** Contempt.
+- **Pool lifeguard:** Neutral.
+- **Randi’s mother:** Dislike and unease because of restriction and denied pleading.
+- **Vee’s mother:** Strong dislike for her shaming influence, somewhat complicated by pride in Vee’s induction.
+- **Vee’s father:** Neutral curiosity; currently defined by work preventing attendance.
+- **Vee’s grandfather:** Warmth; he made Vee feel her answers mattered.
+- **Overall mood:** Warm, amused, tender, and ominous beneath the comfort. The cold mountain encounter has become a treasured story and a piece of clothing Vee claims openly with Cassie. Pace’s kindness is real enough to soften Cassie’s caution, while the foundational deception remains untouched.

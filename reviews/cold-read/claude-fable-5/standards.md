@@ -6,78 +6,82 @@
 
 **Felt read**
 
-This chapter is small and it landed hard. After the bench, I expected either Pace's morning-after or the Vivienne scheme kicking off; instead I got Randi walking back into her sorority house in last night's clothes and getting vivisected by warmth. And it's brilliant, honestly — Brooke's interrogation is the most quietly menacing thing in the book so far, and nobody raises their voice or says a single unkind word. "She had a voice the way other people had a perfume. It preceded her into rooms and stayed in them after she left" — I felt that as a threat before I could explain why.
+This chapter is a comedown, and it hurt more than the bench did. The whole common-room scene runs on smiling — "Most of it had been smiling" — and I read it clenched. Brooke is a marvel of quiet menace: the not-standing ("Brooke had not stood. The not-standing was the move"), the seamless pivot from paper to "*Pace.* That's actually his name?", the "Engineering, isn't it" landing him a notch down, the teacher-question that makes the room hold, and then the cleanest hit of all — "Anyway, I'm sure you want to shower... Go." Randi, who dominated an entire chapter of my attention, is completely outranked here, and she knows it from the inside because she "sat on the board herself, Standards." That's the title landing: Randi *is* Standards — the enforcer of appearances — and she just got processed by a better enforcer.
 
-What moved most is my feeling for Randi. Last chapter I watched Pace strip her performance off her; this chapter I watched why the performance exists. The house runs on the exact machinery she runs on — the arranged smile, the beat that sits, the release deployed as a weapon ("The conversation was over because Brooke had decided it was over"). Randi is Standards — she's an officer of this apparatus — and she still loses the exchange. Watching her matched, and outmatched, on her home court gave me a chill: "she knew exactly how much authority it took to stay seated while another person stopped walking. Brooke had more of it than she did." My sympathy for her is now fully rooted. The bit that hurt most was the duvet: "It was not — it was a duvet." That broken sentence is her almost naming what the cashmere blanket at Pace's was — being cared for — and refusing the thought. And then the two keys of "He's hard to say no to" — the kitchen key and the room key — that's as close as this book has come to saying something is wrong out loud, and it wisely stops: "beyond the words there was a quiet she had no way of crossing."
+Did Brooke *know* the paper was a lie? I think she at least suspects — "I was going to ask about it last night and you'd already left" is a stiletto delivered warm. The text never confirms it, and that withholding is exactly right; I'm in Randi's uncertainty.
 
-The ending flattened me. "It felt like there being no door... the way a held breath stops feeling held." That's the bottle-cap tic from last chapter written out at scale — self-suppression so old it no longer registers as an act.
+Then the room. The second half wrecked me quietly. The pacing of failed actions — walks to the vanity, doesn't sit; walks to the bed, doesn't sit; opens the closet and "could not, for a moment, locate what" she came for; runs the water and doesn't touch it — is the most precise rendering of dissociation I've read in a while. And the duvet against the memory of his house's warmth and her cashmere blanket: "The duvet was the duvet... It was not — it was a duvet." That broken sentence is the chapter. She almost compared it to something and the comparison is not allowed to finish.
 
-Suspicion: Brooke knows something, or suspects. The question sequence is too well-built — paper, location, name, department, "you're not in one of his sections" — that's an audit dressed as brunch chat. The text earned this: "the next thing arrived without a seam." Whether she's protecting the chapter or hunting Randi, I can't tell. Sloane and Kinsey read as instruments of the room more than people yet.
+The killer line: "*He's hard to say no to,* she heard, in her room, in a different key. It was not a key she could sing in." After the jacket's tagline about freely given yeses, this landed like ice. And the ending — the not-crying that "did not feel like holding a door shut. It felt like there being no door" — pays off the lock motif from last chapter in the bleakest way. Last night she locked a door; today there's no door at all.
 
-Erotic charge: essentially zero, and correctly so — this is the cold plunge after the bench. The only heat is residual: last night's clothes, the silk showing at the second step, unadjusted. That "she did not adjust either" is a tiny defiance I liked.
+My feelings moved: Randi has gone from fascinating to genuinely heartbreaking. The armor I watched her choose in the bathroom is shown here to be older than Pace, older than the sorority — "twenty-one years... good at the not-going." Brooke I now actively fear; she went from a name Randi lied to into a fully realized predator-in-cardigan. Pace isn't on the page, and his absence is felt — his warm house versus this cold, lovely one.
 
-Friction: almost none. If anything, "a woman who would one day be some CEO's third wife" felt like the one line where the narration got cattier than Randi's own head has been — a small thumb on the scale against Brooke.
+Erotic charge: essentially zero, and correctly so. This is the hangover chapter; heat here would have been a lie.
 
-The title: "Standards" is doing triple work and I enjoyed it — Randi's board seat, the house's behavioral code, and the question of what standard she's being held to (and holds herself to — the closet, "everything earning its hanger"). It recolored the chapter as I read: she *is* Standards, and the standards are eating her. *With a Long Spoon* — sup with the devil — still hovers; I'm starting to wonder if the devil is the house as much as Pace. The tagline's "every yes was freely given" gets an ugly echo here: "He's hard to say no to" is not the same as yes, in the second key.
+Friction: almost none. Maybe Sloane and Kinsey are a touch stock (the truck bit, "short-cute"), but they're meant to be ambient, and Kinsey's laugh "slightly above pitch" — and Randi's matching it before she "had time to choose the pitch" — is horribly good.
 
-What I want next: I'm now half-dreading Vivienne's arrival because I understand what Randi might do with a person softer than herself. Guess from here: the Vivienne game is Randi exporting her destabilization — regaining control by running on someone else the seduction that's being run on her. Also guessing Brooke becomes a real antagonist or discovers the affair.
+Titles: "Standards" is perfect and multivalent — her board seat, the house's standards of appearance, the standards she polices in herself, the standard she failed by walking in at ten in last night's clothes. *A Polite Invitation* / the tagline: I'm now watching a woman whose yeses may never have been free in any meaningful sense — "hard to say no to" reframed as something she can't even think about. If she and Pace run this game on Vivienne, I'm starting to sense Randi will do to Vivienne what's been done to her, in whatever key.
+
+Want next: I want Pace's view of the morning after, or the first sighting of Vivienne. Guess from here: Randi's "what to do about this" resolves into the Vivienne plan as a way to regain control — dilute the thing that broke her open.
 
 **Structured block**
 
-- **Cast present (in person):** Randi, Brooke, Sloane (new), Kinsey (new). Mentioned-only: Pace.
-- **Heat:** 0.5 — no sexual content; only residue (last night's clothes, silk at the step).
-- **Romance:** 1 — Pace absent, but the duvet-that-is-not-his-blanket and the second key of "hard to say no to" carry a real, troubled pull toward him.
-- **Motifs & images:** *Arranged smile* (repeat — mirror, The Bench; here "arranged" twice, "a fraction late"). *Doors/locks/thresholds* (repeat — deadbolt, bathroom lock; here the quiet door-close, hand on the knob, "there being no door"). *Cashmere vs. duvet* (repeat of cashmere blanket — the synthetic duvet as its failed double). *"Small laugh"* (repeat — Randi's tell, now Sloane's too). *Not-crying / held breath* (repeat — bathroom tears; here suppression named as no-door). First sightings: *the closet's bone-to-oatmeal palette with one oxblood* (kin to blue toenails — the single sanctioned rebellion); *running water not touched*.
-- **Symbolism:** The duvet vs. Pace's blanket — adequate, unloving care vs. care that sees her. The no-door — suppression so total it isn't felt as effort. Standards = the machine she serves and is ground by.
-- **Characterization:** Randi deepened enormously — her competence and its insufficiency in the same scene. Brooke arrived fully formed, a genuinely frightening soft-power portrait. Sloane/Kinsey thin but functional as chorus. Pace deepened in absence.
-- **Pace — within the chapter:** Excellent. The common-room scene is tight, real-time, four minutes rendered as four minutes; the bedroom aftermath's repetitive not-sitting, not-washing earned its slowness.
-- **Pace — chapter to chapter:** A deliberate cold contraction after the bench's heat — momentum holds; the contrast is the momentum.
+- **Cast present (in person):** Randi, Brooke, Sloane, Kinsey. Mentioned-only: Pace.
+- **Heat:** 0 — no eroticism; the chapter is the cold after.
+- **Romance:** 0 — the closest thing is the duvet failing to be his blanket.
+- **Motifs & images:** *Locks/doors* — repeat (The Bench's deadbolt/key): unlocked house door, quiet closing, "no door" at the end. *The face/arranged smile* — repeat: "Randi's smile arranged," twice. *Warmth vs. cold* — repeat (his warm house): the cold corners, the inadequate duvet vs. the cashmere blanket. *"He's hard to say no to"* — first sighting, in two keys; feels load-bearing. *Held breath* — first: "The breath was held." *Not-crying* — repeat of the bathroom crying-place.
+- **Symbolism:** The duvet as the not-Pace object — adequacy vs. being kept warm. "No door" as armor so old it's become anatomy. "Standards" as the machine Randi both serves and is crushed by.
+- **Characterization:** Randi deepened enormously — the dissociative sequence gives her armor a 21-year history. Brooke arrives fully formed and formidable. Sloane/Kinsey thin but functional.
+- **Pace — within the chapter:** Two clean movements, both earned; the common-room scene's real-time compression ("less than four minutes") is expertly held. Nothing dragged.
+- **Pace — chapter to chapter:** Excellent counterweight to The Bench — the intensity drops but the pressure doesn't; momentum building.
 
 ## Carry-forward state
 
 **Who's who**
-- **Pace** (man, in person ch.1, offstage ch.2) — math PhD student (confirmed on page this chapter; Brooke guessed "engineering," Randi corrected: "Math. PhD."), drives a gray pickup sometimes parked behind Hahn. Woodworker, lives alone at end of a drive, meticulous dominant; tender care + proprietary plans. Built the bench 7 months before meeting Randi. Not Randi's instructor ("not his section" — she was tense answering this).
-- **Randi / Miranda** (woman, in person) — junior/senior sorority member; sits on the chapter board as **Standards** (rates a single room). Black hair, blue eyes, pale, dancer body, blue toenails; wealthy, food-policed upbringing; monogrammed overnight bag; closet palette bone/camel/oatmeal + one oxblood. Secretly Pace's lover ~3 weeks; the affair is semi-known in the house as "a date" — the sisters know his name, truck, grad status; the depth is hidden. Lied about "a paper" last night; sustained the lie under Brooke's questioning. Cracked open on the bench; suppresses crying so habitually it feels like "there being no door." Told the girls "He's hard to say no to."
-- **Brooke** (woman, now in person) — chapter president; polished, warm-voiced, soft-power master; ran a seamless audit of Randi's night (paper → location → his name → department → "not in one of his sections?"). May suspect the lie or the impropriety. Narration jabbed her: "some CEO's third wife."
-- **Sloane** (woman, in person, new) — sister, couch/coffee/laptop; small meaningless-available laugh; spotted Pace's gray pickup behind Hahn; flattered Randi ("I love that you don't care about cars").
-- **Kinsey** (woman, in person, new) — sister, cereal on the rug; eager, above-pitch laugh; "short-cute?" — Randi matched her pitch reflexively.
-- **Randi's mother** (woman, mentioned-only, ch.1) — knife-edged about food.
-- **Vivienne Thorne** (woman, jacket-only, not yet on page) — the promised third.
+- **Pace** (man; in person, ch.1) — mathematician, now page-confirmed: **math PhD student at Virginia Tech**, not teaching Randi's section; drives a **white pickup** parked behind Hahn. Lives alone, warm house, builds furniture (the bench, begun 7 months pre-Randi). Dominant, patient, safety-obsessed; believes the bench night was a triumph. Sisters now know his first name (via Randi's date story) but not his last.
+- **Randi** (woman; in person) — sorority sister, sits on the board as **Standards** officer, has a **single room** (perk of the seat). Black hair, blue eyes, dancer body, restricted eater, disciplined closet (bone/camel/oatmeal, one oxblood). Told the sisters a cover story: a date with a guy named Pace, "he's hard to say no to." Lied to Brooke about a paper the night of the bench. Post-bench: decided Pace only gets "the face." This morning: caught coming in at ten in last night's clothes, smoothly interrogated by Brooke, then dissociates alone in her room — can't sit, can't cry ("no door"), lies under an inadequate duvet in shoes. 21 years of "not-going" to her feelings. Jacket: she's "Miranda," future co-runner of the Vivienne game.
+- **Brooke** (woman; **now in person**) — chapter president. Warm voice "the way other people had a perfume"; polished by 10am Saturday; runs the chapter spreadsheet. Interrogates without standing, controls conversations' endings ("Go."). May suspect the paper lie. Formidable; possibly dangerous to Randi's secret.
+- **Sloane** (woman; in person, new) — sister; coffee/laptop; the all-purpose laugh; spotted the white pickup behind Hahn; "loves" that Randi doesn't care about cars.
+- **Kinsey** (woman; in person, new) — sister; cereal on the rug; eager, above-pitch laugh; "short-cute?" question.
+- **Randi's mother** (mentioned-only, ch.1) — food-policing.
+- **Vivienne Thorne** (woman; jacket-only, not yet on page).
 
 **Motif & image ledger**
-- *Locks/keys/doors/thresholds* — deadbolt, bathroom lock, "key turning in a lock" (The Bench); quiet door-close, hand on knob, "there being no door" (Standards).
-- *The bench* — hidden-purpose furniture; top goes back on "tomorrow," waiting (The Bench).
-- *Apple sliced thin* (The Bench).
-- *Cashmere vs. adequate substitutes* — cardigan + blanket (The Bench); synthetic duvet, "It was not — it was a duvet" (Standards).
-- *Arranged smile / mirror face* — The Bench mirror; "Randi's smile arranged," twice, "a fraction late" (Standards).
-- *"Small breath of a laugh" / calibrated laughs* — Randi's tell (The Bench); Sloane's available laugh, Kinsey's above-pitch, Randi's instant pitch-matching (Standards).
-- *Blue toenails / one oxblood in the closet* — the single sanctioned rebellion (The Bench; Standards).
-- *Bottle cap under thumbnail / not-crying as no-door / held breath* — self-suppression tic (The Bench aftermath; Standards ending).
-- *Lights on / being seen* (The Bench).
-- *"Hi." / "Hi."* — Randi & Pace's ritual (The Bench).
-- *Citrus perfume → sweat* (The Bench); kin: Brooke's voice "the way other people had a perfume" (Standards).
-- *"He's hard to say no to"* — same line, two keys: kitchen performance vs. private dread (Standards). Watch this one.
-- *Running water not used* — sink run and shut off, hands never under it (Standards, first).
+- *Locks/doors* — The Bench (front-door lock, bathroom lock, deadbolt/key figures); Standards (unlocked house door, quiet closing "already wrong," her single's door, ending "no door" for the crying).
+- *The face / arranged smile* — The Bench (mirror decision); Standards ("Randi's smile arranged," repeated; matching Kinsey's pitch without choosing it).
+- *Warm vs. cold; cashmere blanket vs. duvet* — The Bench (warm house, cashmere blanket); Standards (cold corners, "The duvet was the duvet... It was not — it was a duvet").
+- *"He's hard to say no to"* — first sighting, Standards: performed in the kitchen for the girls, then heard "in a different key" she cannot sing in. Feels central to the tagline.
+- *Held breath* — first, Standards: 21 years of not-going, "The breath was held."
+- *The apple / portioned appetite* — The Bench.
+- *Handmade furniture / missing inference* — The Bench.
+- *"Hi."/"Hi." ritual* — The Bench.
+- *"There you are"* — The Bench.
+- *Bottle-cap under thumbnail* — The Bench.
+- *"Red"* — safeword, The Bench.
+- *Steely Dan low in the house* — The Bench.
+- *Bench as table with a lid* — The Bench.
+- *Standards (the seat/the concept)* — first, this chapter: Randi as enforcer of appearances, outranked by Brooke.
+- *White pickup behind Hahn* — first: the affair's visible trace.
 
 **Symbolism noticed**
-- Bench = concealed purpose in plain sight.
-- Locks/doors = thresholds of control; now inverted — "no door" = suppression with no threshold left to cross.
-- Duvet vs. cashmere blanket = adequate care vs. care that sees.
-- Standards (title) = the board seat, the house's code, and the discipline consuming Randi.
-- The smile = performance apparatus (both houses run on it; Brooke runs it better).
+- Bench = innocuous surface concealing purpose.
+- Lock/key = Randi's interior; now escalated to "no door" — armor so old it's involuntary.
+- Apple = portioned appetite; Eden note.
+- Duvet vs. cashmere = adequate life vs. being actually kept warm; she can't finish the comparison.
+- "He's hard to say no to" in two keys = performed consent vs. the unexaminable thing under it — resonates with the cover tagline.
 
 **Open questions**
-- When does Vivienne appear, and how do Randi + Pace pick her? Is the scheme Randi's response to being cracked open? (My guess: exporting her destabilization.)
-- Does Brooke actually suspect the lie/affair? Will she become a threat?
-- What are the two unread notifications on Randi's phone?
-- What will Randi "do about this"?
-- Does the self-suppression (bottle cap, no-door not-crying) escalate?
-- Will Randi ever realize Pace built the furniture?
-- Any impropriety risk in Pace's department (Brooke's "sections" probe) — is there a real vulnerability there?
+- Does Brooke know or suspect the paper lie / the affair's true shape? Will she pursue it?
+- What will Randi "do about this"? (Still guessing: births the Vivienne plan.)
+- Does Pace ever learn the bathroom decision / "the face"?
+- Who is the devil of *With a Long Spoon*?
+- Pace's last name.
+- How deep does the self-harm/eating thread go? (Deepened: 21 years of "not-going.")
+- Is the white pickup behind Hahn going to expose them?
+- What did the two unread phone notifications say?
 
 **Story so far**
-Ch.1 (The Bench): Randi, secretly seeing Pace ~3 weeks at his isolated house, lied to Brooke ("a paper") to come over. He revealed the low table was a restraint bench built for her; with consent and safeword "red," he spanked/edged her past her scripts to a raw orgasm and tears — "There you are, Randi." Aftercare: blanket, water, "you're beautiful" (flinch). She locked herself in his bathroom, faced the mirror — something irreversible — reassembled the smile, stayed the night; he plans to open her further; she privately resolves to "figure out what she was going to do about this."
-Ch.2 (Standards): Next morning, Saturday before ten. Randi returns to the sorority house in last night's clothes; Brooke (with Sloane and Kinsey present) conducts a warm, seamless interrogation — the paper, where she worked (Randi improvises "the place on Wilson"), Pace's name, his field (math PhD), whether she's in his section ("No"). Brooke releases her ("Go") before Randi can deploy her prepared lines. Alone in her single room, Randi paces without purpose — closet, sink run unused, phone face-down with two unread notifications — then lies on the made bed in shoes and cardigan under an inadequate duvet, replays "He's hard to say no to" in a second, unsingable key, and does not cry — not by choice, but because the suppression is so lifelong "there was no door."
+Ch.1 (The Bench): Opening night at Pace's house — apple game, the bench reveal (built for her), spanking and edging, Brooke-invocation breaks Randi into a real begging voice and a genuine orgasm, silent crying; she locks herself in his bathroom, decides he only gets "the face" forever; returns smiling; he thinks he won. Ch.2 (Standards): Next morning, ~10am Saturday. Randi walks into the sorority house in last night's clothes; Brooke (with Sloane and Kinsey present) conducts a four-minute warm interrogation — the paper, Pace's name, the white pickup, math PhD, not-her-section — and dismisses her ("Go"). Cover story established: it was a "date," "he's hard to say no to." Alone in her single, Randi dissociates: can't sit, can't use the closet or the water, lies under a duvet in shoes and cardigan, hears her own line in a key she can't sing in, and does not cry — not by choice but because "there was no door."
 
 **How I feel**
-Randi: full sympathy now — competent, armored, quietly drowning; two apparatuses (Pace's and the house's) both working on her. Pace: absent but haunting; my ambivalence holds — his care felt realer than the duvet, which frightens me for her. Brooke: wary, impressed, a little scared of her; soft power with teeth. Sloane/Kinsey: chorus, low stakes. Mood: cold-corner dread after warm-room dread; bracing for Vivienne with more foreboding than before, because now I know what Randi does with pain — she doesn't feel it, she manages it.
+Randi: heartbreak and dread — her armor predates everything; she's more trapped than I knew. Pace: still drawn to his care but his warm house now reads as the one place she almost got out, and he doesn't know she's re-sealed. Brooke: afraid of her — the politest threat in the book so far. Sloane/Kinsey: ambient, harmless-seeming. Mood carried: cold, held-breath, quietly devastating — the morning after a very good night that was secretly a catastrophe, now seen from inside the catastrophe.
