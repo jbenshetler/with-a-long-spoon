@@ -14,6 +14,7 @@ The book keeps its single best piece of Pace-decency — the disowning and his r
 
 - The disowning **story surfaces on the page exactly once**, here, in **Sheri's own dry register**. The bare *fact* of estrangement is planted earlier — {{The Usual}} (~late Dec), where Sheri mentions she isn't in contact with her family (*"me not talking to my people,"* never the cause) — so this telling lands as **payoff, not first mention**. (See `meta-arch-sheri.md` → plant-vs-payload.)
 - **Vee POV** (the first Vee-POV Sheri scene): Vee meets Sheri, Pace is mostly off fetching drinks, so there's no Pace-leak to capture — the frame is Vee *receiving* his goodness from a witness.
+- **(Drafted 2026-08) Sheri holds one sentence of Pace's backstory.** This scene revised `meta-arch-sheri.md` ("no access to why Pace is the way he is") to *almost* none: her whole ration is *went bad with his daddy; hasn't been home since he was sixteen,* surfaced once here and closed with the boundary (*"that is every word of it I've got"*). The fact under it (the failed return at sixteen, the emancipation) is author-knowledge only — `meta-arch-pace.md`, Formation.
 
 ## How to render the backstory without breaking Sheri
 
@@ -32,7 +33,7 @@ Sheri narrates the man who takes care of people; then the girls get drunk and he
 
 ## Vee's beat — the proprietary brace, then warmth
 
-Use her established proprietary jealousy (the CW Dance): she walks in braced at how easy he is with this woman, and the brace dissolves when Sheri's a lesbian lands — not a plot point, just fact, the rival-channel switched off. What's left is warmth and, underneath, the ache: the fullest case for his love yet, and still no word from him.
+Use her established proprietary jealousy (the CW Dance): she walks in braced at how easy he is with this woman — and **the jealousy dies hard, experientially, not on a fact** (as drafted): the sight of Sheri kills the imagined blonde but not the heat; the whole-weight hug confuses it; only after the full appreciative scan and the laugh does it dissolve, as *physical* relief — tension leaving she hadn't known she was carrying. The lesbian fact arrives later (*"I came out last March,"* part two) as testimony, not as the dissolver. What's left is warmth and, underneath, the ache: the fullest case for his love yet, and still no word from him.
 
 ## The Sheri-absorber thread (plant → here → spend)
 
@@ -56,4 +57,4 @@ The decency is **real** — render it pure-warm, no sinister note anywhere in th
 
 ## Aftermath seed — the guy-friends question (a later spring beat)
 
-Meeting Sheri is what makes the absence visible: Vee has now met his one friend, and the arithmetic stops adding up against her frat-world model, where a man *is* his group. Some weeks on — a small beat riding a quiet spring scene (host TBD), not its own chapter — she asks about his guy friends. He answers with the timeline, plainly, no self-pity (*college at fifteen; a graduate student when they were freshmen*), and she does the math herself. True, complete, and insufficient: what's missing isn't guy friends. First delivery of the offset arithmetic; the summer probe ({{Excavations}}) is the darker second dig — friends in spring, women in summer, same investigative instinct, escalating stakes. Facts in dialogue only; the analysis (the window, the competition channel) never surfaces. Design: `meta-arch-pace.md` (the offset); `meta-arch-bible.md` (backstory spine).
+Meeting Sheri is what makes the absence visible: Vee has now met his one friend, and the arithmetic stops adding up against her frat-world model, where a man *is* his group. The next morning — **{{Hangover}}**, Sun Jan 31, now its own chapter in the chronology — she asks about his guy friends. He answers with the timeline, plainly, no self-pity (*college at fifteen; a graduate student when they were freshmen*), and she does the math herself. True, complete, and insufficient: what's missing isn't guy friends. First delivery of the offset arithmetic; the summer probe ({{Excavations}}) is the darker second dig — friends in spring, women in summer, same investigative instinct, escalating stakes. Facts in dialogue only; the analysis (the window, the competition channel) never surfaces. Design: `meta-arch-pace.md` (the offset); `meta-arch-bible.md` (backstory spine).
