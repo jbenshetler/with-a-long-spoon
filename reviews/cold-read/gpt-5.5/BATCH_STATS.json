@@ -4,25 +4,25 @@
   "completed": 1,
   "generated": 1,
   "skipped": 0,
-  "total_cost": 0.6238400000000001,
-  "total_input": 18046,
-  "total_output": 17787,
-  "total_tokens": 35833,
+  "total_cost": 0.588435,
+  "total_input": 22857,
+  "total_output": 15805,
+  "total_tokens": 38662,
   "per_chapter": [
     {
-      "slug": "dear",
-      "title": "Dear",
+      "slug": "another-round",
+      "title": "Another Round",
       "status": "generated",
-      "cost": 0.6238400000000001,
-      "input": 18046,
-      "output": 17787,
-      "totalTokens": 35833,
-      "promptTokens": 18046,
-      "reasoningTokens": 26,
+      "cost": 0.588435,
+      "input": 22857,
+      "output": 15805,
+      "totalTokens": 38662,
+      "promptTokens": 22857,
+      "reasoningTokens": 57,
       "cacheRead": 0,
-      "duration_s": 248.5,
-      "wall_s": 248.6,
-      "path": "reviews/cold-read/gpt-5.5/dear.md"
+      "duration_s": 265.7,
+      "wall_s": 265.7,
+      "path": "reviews/cold-read/gpt-5.5/another-round.md"
     }
   ]
 }

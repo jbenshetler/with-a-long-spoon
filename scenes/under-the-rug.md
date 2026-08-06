@@ -22,7 +22,7 @@ He didn't answer right away. She felt the pause come and knew its shape — the 
 
 "Okay," he said. "Where do you want to go tonight?"
 
-Level, unhurried, with no defense built into it and nothing in it to push against. She felt the thing she'd been winding up behind her sternum swing out, meet all that calm, and find nothing to catch on. She'd wanted — she didn't finish it. He had taken the loud ugly thing she'd thrown and set it down, carefully, and handed her back a plain question, and there was nothing to do with a plain question but answer it.
+Level, unhurried, with no defense built into it and nothing in it to push against. She felt the thing she'd been winding up in her chest swing out, meet all that calm, and find nothing to catch on. She'd wanted — she didn't finish it. He had taken the loud ugly thing she'd thrown and set it down, carefully, and handed her back a plain question, and there was nothing to do with a plain question but answer it.
 
 "Chili's," she said — the first name her mouth found, the one out by 460. "I like the nachos there." A great gloppy skillet of them, the opposite of anything he'd ever set in front of her, and she wanted it.
 
