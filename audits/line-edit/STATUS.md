@@ -20,7 +20,7 @@ the echo shortlist with the author before per-chapter editing starts).
 | 12 | Rye | rye | reviewed |
 | 13 | What to Wear | what-to-wear | reviewed |
 | 14 | Two Towels | two-towels | reviewed |
-| 15 | A Round | a-round | edited |
+| 15 | A Round | a-round | reviewed |
 | 16 | Turned Up | turned-up | edited |
 | 17 | How It's Done | how-its-done | edited |
 | 18 | Famished | famished | edited |

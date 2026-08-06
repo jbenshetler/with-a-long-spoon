@@ -42,3 +42,68 @@ evidence** (audit verdicts re-open on a text edit to the passage).
   tone-tag on her own punctured joke, not a modifier of his turning up the
   heat; the compressed self-commentary is her register. (Nearest-verb
   misparse acknowledged and accepted.)
+
+---
+
+# Triage — A Round (line-edit pass, 2026-08-06)
+
+Source: `audits/line-edit/a-round.md`, reviewed with the author item by item,
+enriched with the cold-read reactions (`reviews/cold-read/*/a-round.md`) per
+the 2026-08-05 ruling. **All 13 report findings and 3 reader-sourced bonus
+items were ruled and applied — nothing was left standing.** Recorded below are
+the rulings whose *reasoning* is non-obvious, so a later pass doesn't undo
+them or re-argue the ones that deviate from the report.
+
+## Dropped before review
+
+- **Report finding 9, cut "Wryly." (line edit)** — restates the line-audit
+  verdict above; already settled 2026-08-01, not re-litigated.
+
+## Deviations from the report's recommendation (line edit)
+
+- **"the fullest part of her" ×3** — the report recommended varying the third
+  use (`:74`). **Reversed:** `:74` is the phrase's *payoff*, not a third
+  repetition — the tailor's euphemism cracking open under her ("which was —
+  she could not pretend otherwise — across her nipples"), which only works
+  because the phrase has been established as cover. Cut the *second* use
+  inside `:70` instead. Do not vary `:74`.
+- **"dying over" ×3 at the reveal** — varied the middle instance only
+  (`:182` → "right at the height of the worst of it"). `:162` sets the term
+  up; `:184` ("The whole time she'd been dying he hadn't looked down once")
+  is named-and-quoted reader praise (claude-fable-5: "That undid me") *and*
+  carries a standing line-audit verdict above. Both protected.
+- **Cold-read enrichment re-opened echo ledger #8** — see
+  `audits/line-edit/echo-rulings.md` (amended 2026-08-06): the harvest
+  undercounted this chapter (three, not two — the third is the *he'd*
+  variant at `:220`), and `:58` and `:220` are now PROTECTED on reader
+  evidence. Vol One deliberately keeps three instances of that wording. Not
+  an oversight; do not re-flag.
+
+## Applied, with rationale worth keeping
+
+- **Chapter ending shortened by one sentence** — cut "She felt, distantly,
+  that this was going to matter to her later, in ways she couldn't yet see."
+  Flagged independently by two cold readers (claude-opus-4-8: "the author's
+  thumb pressing the significance button"; gpt-5.6-sol: "puts a caption
+  beneath a transformation I already felt"). The chapter now closes on "had
+  not, once, been found wanting." → "She stood very still and let him work."
+- **Second "Keep still" gloss paragraph cut entirely** — "He wasn't telling
+  her to stop because she shouldn't…" The preceding paragraph already lands
+  the whole freight and is reader-praised; the cut paragraph was the one
+  gpt-5.6-sol named as overstating Vee's access to Pace's interiority ("I was
+  aware of being instructed to accept it"). Note this also dissolves that
+  reader's related complaint that the text draws too clean a distinction
+  between his disciplined work and the covert touches that follow — the
+  distinction was being drawn *in the cut paragraph*.
+- **Pace's competence-stacking** — gpt-5.5 felt "the author's thumb" at "a
+  powerlifter cut silk **like it was the thing he'd been made for**." Ruled
+  at the sentence level: the destiny clause was cut, the incongruity image
+  kept. The broader question (Pace as mathematician + powerlifter +
+  woodworker + cook + patent holder + shirtmaker + dressmaker) was **not**
+  ruled on here — it is a character-architecture question, not a line-edit
+  one, and remains open for an architecture pass.
+- **Stomach as the register of every turn** — was five beats; now three
+  (`:108`, `:158`, `:236`). The first (`Her stomach dropped a little` →
+  "Something dropped out of her") and the tape-across-nipples beat (cut
+  entirely) were varied, on the principle that varying the *first* instance
+  matters most — it denies the reader a template to notice being repeated.

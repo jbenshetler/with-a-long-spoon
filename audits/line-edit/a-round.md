@@ -54,3 +54,63 @@ Distinctive phrases worth checking book-wide (not yet in the ledger):
 - "the too-warm house" (l. 228)
 - "attention turned sideways" (l. 102)
 - "kissing-it-better" / the kissed pinprick (l. 220)
+
+---
+
+## Author rulings (2026-08-06)
+
+Reviewed item by item with the author, enriched with the cold-read reactions.
+**All findings ruled; every ruling was to change the prose — nothing left
+standing.** Durable rationale is in `meta/meta-triage-a-round.md`.
+
+- **F9 (cut "Wryly.")** — DROPPED before review: restates a line-audit verdict
+  already settled 2026-08-01 in the triage doc.
+- **F13, ending** — APPLIED, cut. "She felt, distantly, that this was going to
+  matter to her later, in ways she couldn't yet see." removed; chapter now ends
+  on "found wanting." → "She stood very still and let him work."
+- **F12, "Keep still" gloss** — APPLIED, second paragraph cut entirely.
+- **F4, "dying" ×3** — APPLIED to the *middle* instance only. `:182` → "right
+  at the height of the worst of it". `:162` and `:184` protected (see triage).
+- **F11, l.112 four beats** — APPLIED, cut "That was the whole problem."
+- **F8, doubled "and he was glad"** — APPLIED, merged to one sentence: "The
+  main thing was that he saw her, fully, and he was glad."
+- **F1, echo ledger #8 (FIX-AT)** — APPLIED to `:82` only ("and the grin was
+  out before she had any say in it"). `:58` and `:220` PROTECTED on reader
+  evidence; ledger amended — count corrected 2→3, see `echo-rulings.md`.
+- **F2, eyes-closed-against ×2** — APPLIED to `:26` (the *first*, reversing the
+  report's pick): "She shut her eyes. The word stayed where it was…". `:92`
+  kept verbatim so its return reads as motif.
+- **F5, "X, of course X" ×3** — APPLIED to `:116` only ("He hadn't seen it. He
+  couldn't have seen it;"). `:48` is a triage "Fixed" beat and `:102` is
+  reader-praised; both protected.
+- **F6, nowhere-to-put-it ×3** — APPLIED to `:160`: "the give of it went
+  through her, more wanting worked loose than she could hold still around."
+  (Also clears a `filter-verbs` hit.)
+- **F3, "the fullest part of her" ×3** — APPLIED to the *second* use inside
+  `:70`, REVERSING the report: `:74` is the euphemism's payoff, not a third
+  repetition. See triage.
+- **F7, "particular" ×6** — APPLIED at `:36`, cut "with a particular quality to
+  it". The `:134` recursion and `:106` precision use both kept.
+- **F10a, l.70 closing abstraction** — APPLIED, cut. Sentence tripped three
+  linter rules at once (`register-verb`, `a-small`, plus the paragraph's
+  `filter-verbs`).
+- **F10b, "depersonalize"** — APPLIED, clause cut; the two concrete clauses
+  after it carry the sense.
+- **F14, stomach ×5** — APPLIED to two: `:22` → "Something dropped out of
+  her."; `:74` → "The tape passed over them." (bare cut). Now three.
+
+### Bonus items (reader-sourced, not in the report)
+
+- **"the whole furniture of shame she'd never thought to question"** —
+  APPLIED, tail cut (claude-fable-5: "one clause of explanation more than I
+  needed").
+- **"a powerlifter cut silk like it was the thing he'd been made for"** —
+  APPLIED, destiny clause cut (gpt-5.5 competence-stacking flicker). Book-level
+  competence question left open for an architecture pass.
+- **kept-heat epiphany frame sentences (`:19`)** — APPLIED to both frames, the
+  praised inference untouched: opening "She registered that, then — and the
+  registering opened a small door." cut; closing → "and something in her let go
+  even before he'd touched her once." Cleared four linter hits.
+
+**Linter delta:** 104 → 96 active hits (68 → 61 warn), 0 errors.
+No `--ack` pass has been run on this chapter; 96 hits remain unsuppressed.

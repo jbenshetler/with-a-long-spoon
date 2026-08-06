@@ -16,14 +16,14 @@ She pulled it over her head in one motion, because hesitating was going to be wo
 
 She stood there in her bra and her panties and tried to call it a swimsuit. It wasn't. A swimsuit was a one-piece — the plain suit the whole squad wore, back when her body was still lean and straight, the way the sport wanted them. Then it had come in, all at once, into curves the clean line had no use for — too much woman for the sport, and in the end too much for the suit to hold — and that was the end of the swimming she'd loved. A one-piece was as bare as she'd ever gone. She had never worn a bikini: her mother had made sure of it when she was small, and by the time the choosing was Vee's own she was too ashamed of her body to choose it. This was two pieces and the bare stretch between them, a bikini in all but name — and here she was in it anyway, because he'd asked and she'd said yes. She made her arms stay at her sides and waited.
 
-The air on her skin was not cold. She registered that, then — and the registering opened a small door. The whole house cranked up so a woman could stand half-bare in it and not be cold. He'd thought of that. He'd thought of it hours before she came, probably — turned the thermostat up early enough for the warmth to soak all the way into the rooms — and the understanding undid something small in her even before he'd touched her once.
+The air on her skin was not cold. The whole house cranked up so a woman could stand half-bare in it and not be cold. He'd thought of that. He'd thought of it hours before she came, probably — turned the thermostat up early enough for the warmth to soak all the way into the rooms — and something in her let go even before he'd touched her once.
 
 He looked up from the tape. "The bra too," he said, gently, plainly. "It changes the line. It'll lie to me."
-Her stomach dropped a little. Of course. She had known it, distantly, the whole time she'd been working through the jeans and the shirt, and had let herself not know it, the way you let yourself not know a thing for as long as the room permits. The room no longer permitted.
+Something dropped out of her. Of course. She had known it, distantly, the whole time she'd been working through the jeans and the shirt, and had let herself not know it, the way you let yourself not know a thing for as long as the room permits. The room no longer permitted.
 
 He had seen her near this, days ago — in the truck on the mountain, when she'd unbuttoned her wet shirt herself and pushed it off and handed him the sight of her, and he'd sat and looked at all of her and not moved, the gladness in him the whole of the answer. But that had been a charged, dripping minute with the wanting already loud in both of them, the seeing swept up inside it, gone past the point where being looked at could be its own event.
 
-This was not that. This was the flat clear light of day on a work table and a man fully dressed with his pencil tucked behind his ear and a measuring tape in his hand, waiting for her to take her bra off so he could look at her, sustained, on purpose, for the length of an hour. A small ugly word arrived from the back of her mind, in her mother's register: stripper. That was what women called this. A dressed man and a woman taking her clothes off for his attention. She closed her eyes for a beat against the word and the word stayed where it was, the way her mother's words always did.
+This was not that. This was the flat clear light of day on a work table and a man fully dressed with his pencil tucked behind his ear and a measuring tape in his hand, waiting for her to take her bra off so he could look at her, sustained, on purpose, for the length of an hour. A small ugly word arrived from the back of her mind, in her mother's register: stripper. That was what women called this. A dressed man and a woman taking her clothes off for his attention. She shut her eyes. The word stayed where it was, the way her mother's words always did.
 
 She reached up behind her — no shirt to hide the gesture under now, the move a woman makes in the dark or under cover laid bare in the afternoon light — and unhooked the bra, and brought the straps forward down her arms, and let it fall into her hands. She held it for a half-second, not sure where to put it, and then set it on the chair on top of her shirt, and made herself straighten, and stood in front of him in the panties she was suddenly very aware she'd chosen with hope.
 
@@ -33,7 +33,7 @@ Her arms wanted to come up across herself. She made them stay down. The making w
 
 Then he looked at her. And he didn't ogle.
 
-She had braced for the look. She had braced for a particular kind of male attention with a particular quality to it and she had not gotten it. What she'd gotten was — she hunted for the word — *admired*. There was want in it; she wasn't blind, she could feel his want at the edges of how he held the tape. But it wasn't the main thing. The main thing was that she was beautiful to him and he was glad. He saw her, fully, and he was glad.
+She had braced for the look. She had braced for a particular kind of male attention and she had not gotten it. What she'd gotten was — she hunted for the word — *admired*. There was want in it; she wasn't blind, she could feel his want at the edges of how he held the tape. But it wasn't the main thing. The main thing was that he saw her, fully, and he was glad.
 
 Her arms relaxed at her sides. Not all the way. But enough.
 
@@ -67,11 +67,11 @@ Under the bust. He knelt again — she understood now that he would, every time,
 
 When he turned back his eyes went exactly where she'd thought they would — briefly, honestly — and then to her face.
 
-Across the bustline. He stayed standing for this one, close, the tape drawn across the fullest part of her. He pinned one end with his thumb at the side of her and drew the tape across with his other hand, his fingers finding the path, settling the tape flat, and she felt it then — the texture of him arriving all at once, the way a thing your skin has brushed a dozen times will suddenly be the only thing you can feel. His fingertips were rough. She'd half-known it — she'd had his hand in hers across a table, his fingers had already been the length of her arm — and none of it had reached her the way it did now, here, across the fullest part of her. Calloused in specific places, the pads worn from the bar at the gym, harder still where he gripped his tools. Being read back by hands that carried that much registered as a small disorienting thing.
+Across the bustline. He stayed standing for this one, close, the tape drawn across the fullest part of her. He pinned one end with his thumb at the side of her and drew the tape across with his other hand, his fingers finding the path, settling the tape flat, and she felt it then — the texture of him arriving all at once, the way a thing your skin has brushed a dozen times will suddenly be the only thing you can feel. His fingertips were rough. She'd half-known it — she'd had his hand in hers across a table, his fingers had already been the length of her arm — and none of it had reached her the way it did now. Calloused in specific places, the pads worn from the bar at the gym, harder still where he gripped his tools.
 
 She had a stupid half-second of just thinking about his hands. About how they would feel on her in the dark, when she wasn't standing still for them.
 
-She came back. He was settling the tape, and the tape ran across the fullest part of her, which was — she could not pretend otherwise — across her nipples, which were still doing what they had been doing since the moment her arms came down. The tape passed over them and her stomach did something small.
+She came back. He was settling the tape, and the tape ran across the fullest part of her, which was — she could not pretend otherwise — across her nipples, which were still doing what they had been doing since the moment her arms came down. The tape passed over them.
 
 "Does it—" She heard her own voice, slightly higher than she meant it. She made it steadier. "Does this measurement change? Like. When they're not — like this."
 
@@ -79,7 +79,7 @@ He looked up. He was very still for a beat. And then he laughed — a real laugh
 
 "I don't know," he said. "I've never thought about it."
 
-It came out plain, a little surprised at himself. He was still looking up at her but he was somewhere else now, somewhere behind his own eyes, working it. She watched him do it. Watched the part of her she'd been apologizing for become, in his hands, something worth getting right. She felt the laugh in her own chest like something releasing, and she was grinning before she'd decided to, the first real grin since she'd walked in the door. *I made him laugh,* she thought. *And then I stumped him. Standing here like this, I did both.*
+It came out plain, a little surprised at himself. He was still looking up at her but he was somewhere else now, somewhere behind his own eyes, working it. She watched him do it. Watched the part of her she'd been apologizing for become, in his hands, something worth getting right. She felt the laugh in her own chest like something releasing, and the grin was out before she had any say in it, the first real grin since she'd walked in the door. *I made him laugh,* she thought. *And then I stumped him. Standing here like this, I did both.*
 
 "Oh," she said. "Good. I was worried I was going to have to come over here pre-aroused every time I wore it."
 
@@ -109,23 +109,23 @@ Her stomach went cold under the blanket.
 
 She tried to think about something else. She watched him cut. He laid the burgundy out on the long table and weighted it and went at it with shears, fast and certain and practiced, no wasted motion, the silk falling open into shapes that made no sense to her and clearly made complete sense to him. In the full afternoon light the color went deeper still, almost living, and she tried to drown in that and not in what was happening lower down.
 
-She tried, *please, please, just stop* — asking her body a thing she'd long since learned it doesn't answer to. It did not stop. It never did. That was the whole problem. That had always been the whole problem.
+She tried, *please, please, just stop* — asking her body a thing she'd long since learned it doesn't answer to. It did not stop. It never did. That had always been the whole problem.
 
 She lifted the edge of the blanket and looked.
 
-It wasn't bad yet. A spot, small, the size of a thumbprint, darker than the pale satin but not — she told herself, bargaining — *obvious.* Not at conversational distance. Not with him across the room and half-turned away. He hadn't seen it. Of course he hadn't seen it; he was at the cutting table with his back half-turned and his attention on the silk.
+It wasn't bad yet. A spot, small, the size of a thumbprint, darker than the pale satin but not — she told herself, bargaining — *obvious.* Not at conversational distance. Not with him across the room and half-turned away. He hadn't seen it. He couldn't have seen it; he was at the cutting table with his back half-turned and his attention on the silk.
 
 Maybe it would stop here. Maybe she could get back up on the box without it getting worse. Maybe if she gave in and let it be a lovely afternoon, a man being kind to her, the wanting would quiet. Maybe kindness could be only kindness. Maybe.
 
 She watched him cut and counted the maybes and did not believe any of them. The satin moved against her again when she shifted. She knew, the way you know weather coming in, that she had a long way still to fall.
 
-She drank her tea inside the blanket he'd thought to give her and watched a powerlifter cut silk like it was the thing he'd been made for, and felt the warm mug and the warm house and the cooling places his hands had been, and the small steady spreading wrongness underneath the blanket, and did not say any of what she was thinking.
+She drank her tea inside the blanket he'd thought to give her and watched a powerlifter cut silk, and felt the warm mug and the warm house and the cooling places his hands had been, and the small steady spreading wrongness underneath the blanket, and did not say any of what she was thinking.
 
 ---
 
 "Back up," he said, when the panels were cut. He said it gently. She set down the mug and let the blanket fall and stepped back onto the low platform, and he began to build the dress on her.
 
-He built from the top down. A panel pinned at her shoulder, smoothed down her front, his palm flat over the silk reading the lie of it against her, a pin set at the dart, another. She had thought of herself, climbing back up on the box, as a kind of living dress form — a stand to drape silk over, no different in function from the wooden riser under her feet, only more convenient. The thought had been a comfort, briefly. It had let her depersonalize the next hour, lend her own body out to the work, stand inside it without having to be the woman it belonged to. The thought did not last.
+He built from the top down. A panel pinned at her shoulder, smoothed down her front, his palm flat over the silk reading the lie of it against her, a pin set at the dart, another. She had thought of herself, climbing back up on the box, as a kind of living dress form — a stand to drape silk over, no different in function from the wooden riser under her feet, only more convenient. The thought had been a comfort, briefly. It had let her lend her own body out to the work, stand inside it without having to be the woman it belonged to. The thought did not last.
 
 The way he worked would not let it. He kept looking at her — at her face, at the line of her neck, stepping back to consider the whole of her in the silk and stepping forward to adjust something he'd decided to change — and what he was doing was not building a dress on a form. He was building a dress *for her*, with her standing inside it, and the standing inside it was part of the design.
 
@@ -157,13 +157,13 @@ He'd been on his knees since the side seam, and he stayed on them and moved — 
 
 On her ass. Both of them, flat and warm, smoothing up over the seat of her as if to learn how the silk would fall there once it reached — except the silk hadn't reached, and there was nothing under his palms but the barely-there satin. She felt the whole shape of his hands take the whole shape of her and hold, once, before they went on. It was the first time he had ever touched her there. It landed low in her stomach and stayed.
 
-And it made everything worse, from every direction at once. His hands loosened another notch of her — she felt the give of it, more wanting worked loose with nowhere on earth to put it. She was no longer sure she was dry even back there; the thought arrived with a lurch and would not leave. Then his hands moved on, around to her other hip, and settled at the far side of her — and she knew it for the last of it, the last place he would stop before he came around to the front.
+And it made everything worse, from every direction at once. His hands loosened another notch of her — the give of it went through her, more wanting worked loose than she could hold still around. She was no longer sure she was dry even back there; the thought arrived with a lurch and would not leave. Then his hands moved on, around to her other hip, and settled at the far side of her — and she knew it for the last of it, the last place he would stop before he came around to the front.
 
 The riser put her at exactly the height it would put her if she had wanted it, if she'd stepped up onto the box for the express purpose of setting that part of her at his eye level. Knees. Pedestal. From that hip he was one slow turn on his knees from where she was wettest, and in the next minute or so his face was going to come around the curve of her and arrive, open and level, at the place she'd been dying over.
 
 She shut her eyes.
 
-She didn't decide to. It was the oldest thing she had, older than him — the flinch, the bracing. *Floozie. Girls like that.* Her mother's voice and her own, the whole furniture of shame she'd never thought to question.
+She didn't decide to. It was the oldest thing she had, older than him — the flinch, the bracing. *Floozie. Girls like that.* Her mother's voice and her own, the whole furniture of shame.
 
 She screwed her eyes shut and turned her face away and counted it in her own chest, one fearful breath, two, three, and nothing happened. Nothing. The small sounds of him had stopped and the room held still and she did not know what his face was doing and could not make herself look.
 
@@ -179,7 +179,7 @@ She knew that grin. Had always known it was coming — the grin of someone watch
 
 No, not grinning. Smiling. Smiling at her, the smile of a man who had just received an unexpected gift.
 
-His face was right there, right at the height of the thing she'd been dying over, and he'd craned his neck up, all the way up, chin lifted and tipped back so he could reach her eyes from down there. He had been waiting. He had been on his knees in front of her with his face turned up to where her face would be when she opened her eyes, and he had been waiting for her to open them, and she had taken long enough about it that the smile had had time to settle onto him and stay.
+His face was right there, right at the height of the worst of it, and he'd craned his neck up, all the way up, chin lifted and tipped back so he could reach her eyes from down there. He had been waiting. He had been on his knees in front of her with his face turned up to where her face would be when she opened her eyes, and he had been waiting for her to open them, and she had taken long enough about it that the smile had had time to settle onto him and stay.
 
 He hadn't looked down. The whole time she'd been dying he hadn't looked down once. Open. Helpless almost. Delighted by her. The whole fact of her, up there.
 
@@ -225,8 +225,6 @@ Then he sat back on his heels and looked up at her, and the smile was still ther
 
 It came out low. It came out a beat too late, after a silence she watched him spend deciding, and she heard everything in it that he didn't say — that it wasn't easy, that he wanted her, that he was choosing the dress and the doing-it-right over the easy yes she was all but handing him, and that the choosing cost him.
 
-He wasn't telling her to stop because she shouldn't. He was holding a line, and letting her hear that it was a line, and that holding it was the hardest thing he'd done since she walked into the too-warm house.
-
 She kept still.
 
 He pinned. And then, as he worked, the small things began.
@@ -247,7 +245,7 @@ He took up the next pin.
 
 There was something else, too, under the singing and under the knowledge. Something she didn't have words for yet, and would not, she thought, find words for any time soon. It had to do with the look on his face when she'd opened her eyes.
 
-It had to do with the fact that she had spent the entire afternoon being seen at her most ashamed and had not, once, been found wanting. She felt, distantly, that this was going to matter to her later, in ways she couldn't yet see.
+It had to do with the fact that she had spent the entire afternoon being seen at her most ashamed and had not, once, been found wanting.
 
 She stood very still and let him work.
 

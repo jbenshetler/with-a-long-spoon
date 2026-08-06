@@ -58,12 +58,27 @@ re-rule against their then-current text.
    decision) is protected everywhere; the identical five-word phrasing is
    what varies. **Vol-1 keeper ruled 2026-08-04: `the-bench.md:303`**
    ("chasing what her body had just lost, before she'd decided to chase
-   it"). The other Vol-1 occurrences (a-round ×2, may-i-choose ×2, dear,
-   rock) vary at their chapters' reviews.
+   it"). The other Vol-1 occurrences (may-i-choose ×2, dear, rock) vary at
+   their chapters' reviews.
    **Author override 2026-08-06: `two-towels`** ("before she'd decided whether
    to let him see her do it") **stands unvaried**; the keeper was not
-   contested. Consequence accepted: the phrase appears in two Vol-1 chapters.
-   Do not re-flag that line.
+   contested. Do not re-flag that line.
+   **Amended 2026-08-06 (a-round review):** the harvest undercounted a-round —
+   it holds **three**, not two, the third being the *he'd* variant
+   (`a-round.md:220`, Pace kissing the pinprick), which the "she'd" n-gram
+   missed. Two of the three are **additionally PROTECTED** on cold-read
+   evidence: `a-round.md:58` ("She was learning the rhythm of it before she'd
+   decided to" — claude-fable-5: "could be the epigraph of her entire
+   courtship, and she says it about a tape measure") and `a-round.md:220`
+   (claude-opus-4-8 and claude-fable-5 both credit it as the beat that cracks
+   reader distrust of Pace). `a-round.md:82` was varied at review.
+   **Running total, both 2026-08-06 rulings applied: the wording now stands in
+   FOUR Vol-1 places** — `the-bench:303` (keeper), `two-towels` (override),
+   `a-round:58` and `a-round:220` (protected). Each ruling was made without
+   sight of the other, and the two-towels note's "appears in two Vol-1
+   chapters" was written before the a-round ruling. **Flagged for the author:
+   four may be past what the FIX-AT intent allows — re-rule if so.** Until
+   re-ruled, none of the four is to be re-flagged.
 9. **Furniture block — IGNORE.** "a moment longer," "across the table," "the
    door open," "edge of the bed," "the foot of the bed," "from across the
    room," "held the door": ordinary spatial/temporal furniture, not echoes.
