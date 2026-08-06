@@ -11,6 +11,8 @@ AKA Cassandra
 
 Vee's best friend and roommate, two years running. Pre-nursing (echoes Vee's mother). Unaffiliated — never in a sorority, never inside that social world (same as Vee; see the world-sort note below). **Her father was laid off in 2020** (`outlier.md`) — the one family fact on the page, stated flat and never dwelt on; it grounds why the PPP subject means something to her and must not be grown into a wound (over-feed). **Her family lives out of state** (established `my-friend-randi` — she is not back at semester-start the first weekend, family "off in another state"); no region named, kept vague on purpose.
 
+**Origin story (canonized 2026-08-03, rendered in {{Among Friends}}):** freshman year, Vee's assigned roommate couldn't get along with Vee — *with Vee, who gets along with everyone* (the absurdity is the point, and Cassie still relitigates it like a bad call); Cassie's own roommate quit school by October, leaving her an empty bed. They met in the cafeteria — the tray set down across from a stranger's tray — and their two problems solved one another. Cassie tells the story the same way every time, same beats, same gestures (Vee can read it across a room by choreography alone); glowing stories about Vee are as warm as the dry Cassie gets.
+
 She is the **Cassandra device**: she sees clearly and is not believed. **Never named, never explained, never commented on by any character — including Cassie herself.** She does not know she is Cassandra. The reader feels the shape from outside.
 
 The **reconciliation with Cassie at the end may matter more than the one with Pace** — she is the only relationship in the novel built on actual mutuality. (She is also the thesis-delivery vehicle at the very end: *the best sex of your life, getting better every week, the most intense friendship of your life — where do I sign up?* — see `meta-arch-vivienne.md`, "The Cassie Scene." She is right within the available frame — she has the facts (Vee tells her everything) but not the lived loss, and the cost cannot be known until it is paid; Vee is right on hers; the reader holds both. Her yes has coin behind it: she has sampled the ordinary version (the dating history, above) and knows exactly how far above baseline the offer sits — seeded once, at the ~mid-May channel beat. The history stays off-page even here; the conviction carries it.)
@@ -87,7 +89,7 @@ She is a **BBC-comedy devotee** (Red Dwarf, *The Hitchhiker's Guide to the Galax
 
 ## Sport
 
-**Soccer (fall), softball (spring), and basketball (winter); any rec team given the chance.** Heavy intramural sport is what holds the boxy build off fat; the body is *for* this, not for being looked at. (The fall soccer season is what puts her in cleats at a mid-October game in `toenails.md`.)
+**Soccer (fall), softball (spring), and basketball (winter); any rec team given the chance.** Her winter rec-basketball team is **the Bricklayers** (self-deprecating shooting pun; named in {{Among Friends}}, where Pace opens with it — a name he could only have had from Vee). Heavy intramural sport is what holds the boxy build off fat; the body is *for* this, not for being looked at. (The fall soccer season is what puts her in cleats at a mid-October game in `toenails.md`.)
 
 **The sport calendar is load-bearing:** the friend who would have kept Vee safe was at a game. (The structural cost of the configuration is partly enabled by Cassie's seasons — she is reliably *elsewhere, competing,* at the times it matters most.)
 

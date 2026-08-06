@@ -41,8 +41,10 @@ The casual, incomplete wipe predates this (subliminal). Forbidden Kiss is where 
 
 ## Placement (fixed by the staircase)
 
-~late January, just after First Weekend Back (the reconciliation — they're not together before it, so this can't sit earlier in the month), and **before {{The Reach}}** (gate #2). The order Refusal → Reach → … → {{First Taste}} is fixed; only the rendering carries the thesis weight, since the placement can't move. Oral is long established (First Night onward), so the post-oral kiss has a valid history behind it.
+**Sat Jan 23 — the second night of the reconciliation weekend** (they're not together before {{Nothing Underneath}}, Fri Jan 22, so this can't sit earlier in the month), and **before {{A Clean Plate}} and {{The Reach}}** (gate #2). **Volume Two's opener** — the transgressive open echoing {{The Bench}} opening Volume One; chronologically it sits the day *before* Volume One's closing image (the Sunday dorm-return coda), a deliberate rewind across the break. The order Refusal → Reach → … → {{First Taste}} is fixed; only the rendering carries the thesis weight, since the placement can't move. Oral is long established (First Night onward), so the post-oral kiss has a valid history behind it.
 
 ## Downstream
 
-{{The Reach}} (gate #2, solo) now follows a scene where she's consciously named the taboo for a *partner's* mouth — so her solo tongue-stop reads as the **deeper, wordless one** (the named frame has no purchase on her own fingers, yet she still can't). Enriches the Reach; recalibrated there.
+**{{A Clean Plate}}** (Sun Jan 24, the first spring SATC beat) receives the surface event the next morning: Vee brings the recoil expecting a co-sign and Randi reframes it instead — full-strength, attractive, never pushing. The frame doesn't win, but the line leaves brunch questioned instead of settled. **The retell carries only the surface** — the post-coital install stays private to this scene, and the conflation stays unanalyzed there too.
+
+{{The Reach}} (gate #2, solo) now follows both the naming *and* the reframe — her solo tongue-stop is the **failed first test of Randi's frame** (the proximate spark), and reads as the deeper, wordless stop: the taboo she named for a *partner's* mouth has no purchase on her own fingers, Randi's frame has no purchase either, yet she still can't. Enriches the Reach; recalibrated there.
