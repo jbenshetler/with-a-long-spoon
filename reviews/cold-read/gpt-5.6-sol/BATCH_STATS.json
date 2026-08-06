@@ -4,25 +4,25 @@
   "completed": 1,
   "generated": 1,
   "skipped": 0,
-  "total_cost": 0.30566000000000004,
-  "total_input": 11578,
-  "total_output": 8259,
-  "total_tokens": 19837,
+  "total_cost": 0.299155,
+  "total_input": 14051,
+  "total_output": 7630,
+  "total_tokens": 21681,
   "per_chapter": [
     {
-      "slug": "see-you-later",
-      "title": "See You Later",
+      "slug": "substitution",
+      "title": "Substitution",
       "status": "generated",
-      "cost": 0.30566000000000004,
-      "input": 11578,
-      "output": 8259,
-      "totalTokens": 19837,
-      "promptTokens": 11578,
-      "reasoningTokens": 54,
+      "cost": 0.299155,
+      "input": 14051,
+      "output": 7630,
+      "totalTokens": 21681,
+      "promptTokens": 14051,
+      "reasoningTokens": 130,
       "cacheRead": 0,
-      "duration_s": 153.8,
-      "wall_s": 153.8,
-      "path": "reviews/cold-read/gpt-5.6-sol/see-you-later.md"
+      "duration_s": 145.5,
+      "wall_s": 145.5,
+      "path": "reviews/cold-read/gpt-5.6-sol/substitution.md"
     }
   ]
 }
