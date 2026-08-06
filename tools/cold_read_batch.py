@@ -71,6 +71,7 @@ FALL_SCENES = [
     # Spring (Volume Two) drafted scenes — appended in story order so scoped runs
     # can reach them; the list name predates the volume split.
     {"title": "Among Friends", "slug": "among-friends"},
+    {"title": "Another Round", "slug": "another-round"},
 ]
 
 
