@@ -34,7 +34,7 @@ The place was in town, a narrow brick storefront she'd seen a hundred times and 
 
 Vee had the blonde ready. She'd had her ready for a month — tall, gold, built on a fashion model's chassis, coming through every door in Virginia one after another since Christmas — and she was still hunting her over the tables when Pace, beside her, called out "Sheri," across the room, at a volume she'd never heard him spend in public. Glad. The whole word lit with it. Something went through Vee hot and fast: his voice, being glad, at a woman's name that wasn't hers.
 
-The woman who turned at the high table near the back, already parked behind a longneck, came off the stool standing — and standing was five foot nothing, boots included, every inch of her in motion holding still — hair two colors, bleached going dark at the roots, permed where it fell over her collar, and a round face under too much makeup, a little off, worn like she'd dare you to mention it. The blonde didn't die so much as fail to find anywhere to stand. There was no room for her. There was barely room for the coat pegs. And the heat under Vee's sternum stayed exactly where it was. It had never needed the blonde, it turned out.
+The woman who turned at the high table near the back, already parked behind a longneck, came off the stool standing — and standing was five foot nothing, boots included, every inch of her in motion holding still — hair two colors, bleached going dark at the roots, permed where it fell over her collar, and a round face under too much makeup, a little off, worn like she'd dare you to mention it. The blonde didn't die so much as fail to find anywhere to stand. There was no room for her. There was barely room for the coat pegs. And the heat in Vee's chest stayed exactly where it was. It had never needed the blonde, it turned out.
 
 "You're late," she said, at a volume the room had to make a decision about, and hugged him — both arms, all the way around, her cheek flat to his chest and her eyes shut for the length of one held count, a hug with its whole weight committed. Pace's hand came down on her back like it had a place there.
 
@@ -56,7 +56,7 @@ And there, at her feet, which had become the most naked thing in the room — a 
 
 The laugh came out of Vee before she'd voted on it. Loud, from the middle of her, apropos of absolutely nothing — and with it something let go that she hadn't known she was holding, off the shoulders, out of the ribs, a month of it leaving in one long breath. Nobody had said a word.
 
-"Sorry," she said. "I'm — sorry. It's not—" and there was nothing at the end of that sentence, so she stood in the wreck of it with her hand pressed flat to her sternum, laughing at a joke nobody at the table had told.
+"Sorry," she said. "I'm — sorry. It's not—" and there was nothing at the end of that sentence, so she stood in the wreck of it with her hand pressed flat to her chest, laughing at a joke nobody at the table had told.
 
 "I'm—" She put her hand out into the wreckage, formal as a church greeter, the only rope in reach. "I'm Vee."
 

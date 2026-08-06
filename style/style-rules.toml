@@ -205,6 +205,14 @@ why      = "'undone/undid' for sexual excitement or orgasm is a tic. Fine for li
 suggest  = "climax: came apart / broke / went over / came / unraveled / gave way / shattered. excitement: unstrung / wrecked / went weak / came loose / lost the shape of herself."
 unless   = '(?i)\b(?:belt|button|buttons|buckle|buckled|clasp|clasps|lace|laces|laced|zip|zipper|zipped|knot|cuff|cuffs|hook|hooks|snap|snaps|sash|corset|bodice|apron|strap|straps|robe|shirt|blouse|dress|bra|collar|fly|button-?up)\b'
 
+[[rule]]
+id       = "sternum"
+kind     = "regex"
+pattern  = '(?i)\bsternum\b'
+severity = "error"
+scope    = "scenes"
+why      = "AUTHOR RULING (2026-08-06): 'sternum' is banned outright — no one says 'sternum'; if we aren't using adverbs to mimic common speech we're definitely not using sternum. Feelings live in the chest, heart, throat, stomach, gut, behind the eyes, a clenched jaw, a burning face, tingling hands; for literal anatomy use breastbone or chest. No exceptions, no --ack."
+
 # ---- Hard canon rules (never name, never explain) ---------------------------
 
 [[rule]]
