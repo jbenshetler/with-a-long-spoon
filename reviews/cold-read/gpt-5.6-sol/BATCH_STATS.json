@@ -4,25 +4,25 @@
   "completed": 1,
   "generated": 1,
   "skipped": 0,
-  "total_cost": 0.450365,
-  "total_input": 19039,
-  "total_output": 11839,
-  "total_tokens": 30878,
+  "total_cost": 0.294235,
+  "total_input": 11141,
+  "total_output": 7951,
+  "total_tokens": 19092,
   "per_chapter": [
     {
-      "slug": "among-friends",
-      "title": "Among Friends",
+      "slug": "off-six-fourteen",
+      "title": "Off Six-Fourteen",
       "status": "generated",
-      "cost": 0.450365,
-      "input": 19039,
-      "output": 11839,
-      "totalTokens": 30878,
-      "promptTokens": 19039,
-      "reasoningTokens": 58,
+      "cost": 0.294235,
+      "input": 11141,
+      "output": 7951,
+      "totalTokens": 19092,
+      "promptTokens": 11141,
+      "reasoningTokens": 104,
       "cacheRead": 0,
-      "duration_s": 220.2,
-      "wall_s": 220.2,
-      "path": "reviews/cold-read/gpt-5.6-sol/among-friends.md"
+      "duration_s": 122.4,
+      "wall_s": 122.4,
+      "path": "reviews/cold-read/gpt-5.6-sol/off-six-fourteen.md"
     }
   ]
 }
