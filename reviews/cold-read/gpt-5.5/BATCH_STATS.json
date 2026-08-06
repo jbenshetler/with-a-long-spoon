@@ -4,25 +4,25 @@
   "completed": 1,
   "generated": 1,
   "skipped": 0,
-  "total_cost": 0.34757000000000005,
-  "total_input": 19768,
-  "total_output": 8291,
-  "total_tokens": 28059,
+  "total_cost": 0.35385,
+  "total_input": 10914,
+  "total_output": 9976,
+  "total_tokens": 20890,
   "per_chapter": [
     {
-      "slug": "long-way",
-      "title": "The Long Way",
+      "slug": "water-wings",
+      "title": "Water Wings",
       "status": "generated",
-      "cost": 0.34757000000000005,
-      "input": 19768,
-      "output": 8291,
-      "totalTokens": 28059,
-      "promptTokens": 19768,
-      "reasoningTokens": 31,
+      "cost": 0.35385,
+      "input": 10914,
+      "output": 9976,
+      "totalTokens": 20890,
+      "promptTokens": 10914,
+      "reasoningTokens": 0,
       "cacheRead": 0,
-      "duration_s": 139.7,
-      "wall_s": 139.7,
-      "path": "reviews/cold-read/gpt-5.5/long-way.md"
+      "duration_s": 137.1,
+      "wall_s": 137.1,
+      "path": "reviews/cold-read/gpt-5.5/water-wings.md"
     }
   ]
 }
