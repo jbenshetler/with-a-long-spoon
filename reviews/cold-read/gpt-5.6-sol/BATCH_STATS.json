@@ -4,24 +4,24 @@
   "completed": 1,
   "generated": 1,
   "skipped": 0,
-  "total_cost": 0.347115,
+  "total_cost": 0.371535,
   "total_input": 13959,
-  "total_output": 9244,
-  "total_tokens": 23203,
+  "total_output": 10058,
+  "total_tokens": 24017,
   "per_chapter": [
     {
       "slug": "made-up",
       "title": "Made-Up",
       "status": "generated",
-      "cost": 0.347115,
+      "cost": 0.371535,
       "input": 13959,
-      "output": 9244,
-      "totalTokens": 23203,
+      "output": 10058,
+      "totalTokens": 24017,
       "promptTokens": 13959,
-      "reasoningTokens": 76,
+      "reasoningTokens": 138,
       "cacheRead": 0,
-      "duration_s": 142.8,
-      "wall_s": 142.8,
+      "duration_s": 152.7,
+      "wall_s": 152.7,
       "path": "reviews/cold-read/gpt-5.6-sol/made-up.md"
     }
   ]
