@@ -4,25 +4,25 @@
   "completed": 1,
   "generated": 1,
   "skipped": 0,
-  "total_cost": 0.294235,
-  "total_input": 11141,
-  "total_output": 7951,
-  "total_tokens": 19092,
+  "total_cost": 0.36902500000000005,
+  "total_input": 12719,
+  "total_output": 10181,
+  "total_tokens": 22900,
   "per_chapter": [
     {
-      "slug": "off-six-fourteen",
-      "title": "Off Six-Fourteen",
+      "slug": "dear",
+      "title": "Dear",
       "status": "generated",
-      "cost": 0.294235,
-      "input": 11141,
-      "output": 7951,
-      "totalTokens": 19092,
-      "promptTokens": 11141,
-      "reasoningTokens": 104,
+      "cost": 0.36902500000000005,
+      "input": 12719,
+      "output": 10181,
+      "totalTokens": 22900,
+      "promptTokens": 12719,
+      "reasoningTokens": 206,
       "cacheRead": 0,
-      "duration_s": 122.4,
-      "wall_s": 122.4,
-      "path": "reviews/cold-read/gpt-5.6-sol/off-six-fourteen.md"
+      "duration_s": 151.4,
+      "wall_s": 151.4,
+      "path": "reviews/cold-read/gpt-5.6-sol/dear.md"
     }
   ]
 }
