@@ -4,25 +4,25 @@
   "completed": 1,
   "generated": 1,
   "skipped": 0,
-  "total_cost": 0.39378,
-  "total_input": 17400,
-  "total_output": 10226,
-  "total_tokens": 27626,
+  "total_cost": 0.41058000000000006,
+  "total_input": 16668,
+  "total_output": 10908,
+  "total_tokens": 27576,
   "per_chapter": [
     {
-      "slug": "another-round",
-      "title": "Another Round",
+      "slug": "leave-no-trace",
+      "title": "Leave No Trace",
       "status": "generated",
-      "cost": 0.39378,
-      "input": 17400,
-      "output": 10226,
-      "totalTokens": 27626,
-      "promptTokens": 17400,
-      "reasoningTokens": 60,
+      "cost": 0.41058000000000006,
+      "input": 16668,
+      "output": 10908,
+      "totalTokens": 27576,
+      "promptTokens": 16668,
+      "reasoningTokens": 110,
       "cacheRead": 0,
-      "duration_s": 172.3,
-      "wall_s": 172.3,
-      "path": "reviews/cold-read/gpt-5.6-sol/another-round.md"
+      "duration_s": 175.9,
+      "wall_s": 175.9,
+      "path": "reviews/cold-read/gpt-5.6-sol/leave-no-trace.md"
     }
   ]
 }

@@ -75,6 +75,9 @@ entries are authorial decisions — do not re-flag without new evidence.**
 - **Mother's-voice density** (gpt-5.5: "noticed the mechanism") — left: the
   five-beat accumulation is required for the inversion-into-fuel, itself
   fable-5-praised as completing a build; F12/F14 lightened its neighborhood.
+- **"no house here to go to" (:175)** — gpt-5.6-sol (2026-08-06 re-read)
+  couldn't parse "here" (= in town, vs. his house off six-fourteen). One
+  reader in four; logic is sound; left as is (author ruling 2026-08-06).
 - **Truck color** — two readers misremembered a gray truck; canon is white
   (`standards.md:53`). No issue.
 - **Linter acks 2026-08-06:** all `warm` hits (cold-to-warm chapter;
