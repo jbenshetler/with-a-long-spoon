@@ -550,6 +550,13 @@ text = "Pace was three steps away by the truck with his hands in his jacket pock
 note = "Coda triage 2026-08-05: literal-adjacent — a man actually checking the sky for weather"
 
 [[ok]]
+fp   = "adf6888d96a8"
+rule = "register-verb"
+file = "scenes/another-round.md"
+text = "The place was in town, a narrow brick storefront she'd seen a hundred times and never registered — a chalkboard of taps behind the bar in five colors of handwriting, wood floors gone soft down the middle, a Saturday-early quiet on it like a church that had loosened its collar."
+note = "Author-directed wording ('seen a hundred times and never registered') — Vee's own perception of a venue, not the retired Pace/Randi filing frame; pun on the barroom register welcome. Authorized 2026-08-06."
+
+[[ok]]
 fp   = "17923d3ae69e"
 rule = "the-way"
 file = "scenes/bare.md"
