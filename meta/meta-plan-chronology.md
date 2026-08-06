@@ -162,7 +162,11 @@ The deliberate escalation of {{A Recognized Method}} — the proof of her arousa
 
 ### [EVENT] Halloween
 *Sat Oct 31 · calendar landmark · not a scene* · slug: halloween
-Falls inside the {{We Find Out}} weekend; unrendered.
+Falls inside the {{We Find Out}} weekend; the evening carries {{Dress-Up}}.
+
+### [VIGNETTE] Dress-Up
+*Sat Oct 31 · Halloween evening, Pace's house, inside the {{We Find Out}} weekend* · Architecture complete, prose not drafted · Vee POV · [detail](meta-condensed-dress-up.md) · [craft](meta-note-dress-up.md) · slug: dress-up · present: Vee, Pace
+**Title provisional until drafted.** The debut he missed, re-staged for its maker — and the first time she is nude in heels *for* him, by her own choice. Halloween present only as the word (gravel road, no trick-or-treaters) — the one night a costume needs no explaining; *"I've got two costumes to show you."* She changes behind the bathroom door, Pace giving privacy; each reveal a door opening. **One:** the full induction rig — dress and the heels bought for it (the pairing he has never seen live; Berkeley got him only the photo). **Two:** the dress goes on its hanger and she comes out in just the heels — *"And this is what I had on under it"* — the literal canon truth of the ceremony ({{The Induction}}: nothing under the burgundy), retro-charging Wednesday. Informed choice, not repetition: Friday's strip-to-the-heels ({{We Find Out}}; retold at {{One Bite}}) taught her what he likes; tonight she stages it unasked. Ends on the looking — sex off-page (Friday banked the weekend's). Reread: she dresses up as the woman the two of them built — his dress, Randi's heels — and names neither. First rung of the nude-in-heels ladder ({{Nothing Underneath}}, the bench).
 
 ### [SCENE] One Bite
 *Sun Nov 1 · two days after {{We Find Out}}* · Draft complete · `one-bite.md` · SATC · [detail](meta-condensed-one-bite.md) · slug: one-bite · present: Vee, Randi · reviewed: 2026-07-28
