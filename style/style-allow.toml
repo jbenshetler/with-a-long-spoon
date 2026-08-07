@@ -858,6 +858,209 @@ text = "It came out ugly and she let it, because that was the whole of it, that 
 note = "Author-approved: intentional register ('the way' incl. the de-shaming gaze), close-third perception (filter verbs incl. the body-before-mind 'felt the wet'), and accepted single tics."
 
 [[ok]]
+fp   = "4f02af9f4f3b"
+rule = "a-small"
+file = "scenes/broken-in.md"
+text = "Up the stairs and inside, the door shut behind them, and Vee was somewhere she'd never been — a small room, close, entirely Randi's."
+note = "Broken In line-edit pass 2026-08-07: author sign-off. Filter verbs are inside Vee's spoken confession and Randi's reply (speech, not narration); the-way hits are ruled keepers (:7, :55) or literal/idiomatic (:99, :183); a-small keepers ruled (:47 room-as-intimacy, :123 small regal spiral); there-was-were mostly dialogue plus the deliberate 'there was only the feel' in the fitting; warm hits load-bearing or literal temperature (:189 cool over warm); x-not-y at :173 previously accepted in triage."
+
+[[ok]]
+fp   = "640043c664c7"
+rule = "a-small"
+file = "scenes/broken-in.md"
+text = "She lifted two fingers and turned them in a small regal spiral — *up, off* — not a word in it, a head shorter than Vee and running her like a fit model."
+note = "Broken In line-edit pass 2026-08-07: author sign-off. Filter verbs are inside Vee's spoken confession and Randi's reply (speech, not narration); the-way hits are ruled keepers (:7, :55) or literal/idiomatic (:99, :183); a-small keepers ruled (:47 room-as-intimacy, :123 small regal spiral); there-was-were mostly dialogue plus the deliberate 'there was only the feel' in the fitting; warm hits load-bearing or literal temperature (:189 cool over warm); x-not-y at :173 previously accepted in triage."
+
+[[ok]]
+fp   = "3952c4d3b439"
+rule = "filter-verbs"
+file = "scenes/broken-in.md"
+text = "I saw her dangling the hook, and I bit it anyway.\""
+note = "Broken In line-edit pass 2026-08-07: author sign-off. Filter verbs are inside Vee's spoken confession and Randi's reply (speech, not narration); the-way hits are ruled keepers (:7, :55) or literal/idiomatic (:99, :183); a-small keepers ruled (:47 room-as-intimacy, :123 small regal spiral); there-was-were mostly dialogue plus the deliberate 'there was only the feel' in the fitting; warm hits load-bearing or literal temperature (:189 cool over warm); x-not-y at :173 previously accepted in triage."
+
+[[ok]]
+fp   = "856954785fde"
+rule = "filter-verbs"
+file = "scenes/broken-in.md"
+text = "You were so far ahead you couldn't see the race, and you ran it anyway, because you're *in* this, and he saw that."
+note = "Broken In line-edit pass 2026-08-07: author sign-off. Filter verbs are inside Vee's spoken confession and Randi's reply (speech, not narration); the-way hits are ruled keepers (:7, :55) or literal/idiomatic (:99, :183); a-small keepers ruled (:47 room-as-intimacy, :123 small regal spiral); there-was-were mostly dialogue plus the deliberate 'there was only the feel' in the fitting; warm hits load-bearing or literal temperature (:189 cool over warm); x-not-y at :173 previously accepted in triage."
+
+[[ok]]
+fp   = "a7c735fa8636"
+rule = "filter-verbs"
+file = "scenes/broken-in.md"
+text = "And from across the room I watched him."
+note = "Broken In line-edit pass 2026-08-07: author sign-off. Filter verbs are inside Vee's spoken confession and Randi's reply (speech, not narration); the-way hits are ruled keepers (:7, :55) or literal/idiomatic (:99, :183); a-small keepers ruled (:47 room-as-intimacy, :123 small regal spiral); there-was-were mostly dialogue plus the deliberate 'there was only the feel' in the fitting; warm hits load-bearing or literal temperature (:189 cool over warm); x-not-y at :173 previously accepted in triage."
+
+[[ok]]
+fp   = "eabca83d08e3"
+rule = "filter-verbs"
+file = "scenes/broken-in.md"
+text = "I watched it land."
+note = "Broken In line-edit pass 2026-08-07: author sign-off. Filter verbs are inside Vee's spoken confession and Randi's reply (speech, not narration); the-way hits are ruled keepers (:7, :55) or literal/idiomatic (:99, :183); a-small keepers ruled (:47 room-as-intimacy, :123 small regal spiral); there-was-were mostly dialogue plus the deliberate 'there was only the feel' in the fitting; warm hits load-bearing or literal temperature (:189 cool over warm); x-not-y at :173 previously accepted in triage."
+
+[[ok]]
+fp   = "12bb38d6adbf"
+rule = "the-way"
+file = "scenes/broken-in.md"
+text = "She'd slept in his shirt with nothing under it — the way she slept in it now, wanting as little as she could manage between her skin and whatever was left of him in the cloth."
+note = "Broken In line-edit pass 2026-08-07: author sign-off. Filter verbs are inside Vee's spoken confession and Randi's reply (speech, not narration); the-way hits are ruled keepers (:7, :55) or literal/idiomatic (:99, :183); a-small keepers ruled (:47 room-as-intimacy, :123 small regal spiral); there-was-were mostly dialogue plus the deliberate 'there was only the feel' in the fitting; warm hits load-bearing or literal temperature (:189 cool over warm); x-not-y at :173 previously accepted in triage."
+
+[[ok]]
+fp   = "326ace850b72"
+rule = "the-way"
+file = "scenes/broken-in.md"
+text = "She knew without being told what they cost — not off any label, there wasn't one she could find, but off the way they'd taken her foot and meant it."
+note = "Broken In line-edit pass 2026-08-07: author sign-off. Filter verbs are inside Vee's spoken confession and Randi's reply (speech, not narration); the-way hits are ruled keepers (:7, :55) or literal/idiomatic (:99, :183); a-small keepers ruled (:47 room-as-intimacy, :123 small regal spiral); there-was-were mostly dialogue plus the deliberate 'there was only the feel' in the fitting; warm hits load-bearing or literal temperature (:189 cool over warm); x-not-y at :173 previously accepted in triage."
+
+[[ok]]
+fp   = "930990ded9c2"
+rule = "the-way"
+file = "scenes/broken-in.md"
+text = "\"He won't text you, by the way — don't read it as a door closing."
+note = "Broken In line-edit pass 2026-08-07: author sign-off. Filter verbs are inside Vee's spoken confession and Randi's reply (speech, not narration); the-way hits are ruled keepers (:7, :55) or literal/idiomatic (:99, :183); a-small keepers ruled (:47 room-as-intimacy, :123 small regal spiral); there-was-were mostly dialogue plus the deliberate 'there was only the feel' in the fitting; warm hits load-bearing or literal temperature (:189 cool over warm); x-not-y at :173 previously accepted in triage."
+
+[[ok]]
+fp   = "c14b5368eafc"
+rule = "the-way"
+file = "scenes/broken-in.md"
+text = "She rose and crossed to a drawer, waving the rest of the protest off on the way — \"You're wearing them, that's settled\" — and came back with a length of silk pouring over both hands, deep greens and a thread of gold someone had chosen on purpose."
+note = "Broken In line-edit pass 2026-08-07: author sign-off. Filter verbs are inside Vee's spoken confession and Randi's reply (speech, not narration); the-way hits are ruled keepers (:7, :55) or literal/idiomatic (:99, :183); a-small keepers ruled (:47 room-as-intimacy, :123 small regal spiral); there-was-were mostly dialogue plus the deliberate 'there was only the feel' in the fitting; warm hits load-bearing or literal temperature (:189 cool over warm); x-not-y at :173 previously accepted in triage."
+
+[[ok]]
+fp   = "d67c0839b33e"
+rule = "the-way"
+file = "scenes/broken-in.md"
+text = "Vee walked, came back, and Randi made a sound in her throat and reached up under the hem and slid the shoe off, her thumb pressing once into the soft hollow behind her knee on the way down, and Vee's breath did something she hoped wasn't out loud."
+note = "Broken In line-edit pass 2026-08-07: author sign-off. Filter verbs are inside Vee's spoken confession and Randi's reply (speech, not narration); the-way hits are ruled keepers (:7, :55) or literal/idiomatic (:99, :183); a-small keepers ruled (:47 room-as-intimacy, :123 small regal spiral); there-was-were mostly dialogue plus the deliberate 'there was only the feel' in the fitting; warm hits load-bearing or literal temperature (:189 cool over warm); x-not-y at :173 previously accepted in triage."
+
+[[ok]]
+fp   = "fee2d30423ff"
+rule = "the-way"
+file = "scenes/broken-in.md"
+text = "It came out of her in pieces, the way it does when someone's letting you tell it instead of waiting for their turn."
+note = "Broken In line-edit pass 2026-08-07: author sign-off. Filter verbs are inside Vee's spoken confession and Randi's reply (speech, not narration); the-way hits are ruled keepers (:7, :55) or literal/idiomatic (:99, :183); a-small keepers ruled (:47 room-as-intimacy, :123 small regal spiral); there-was-were mostly dialogue plus the deliberate 'there was only the feel' in the fitting; warm hits load-bearing or literal temperature (:189 cool over warm); x-not-y at :173 previously accepted in triage."
+
+[[ok]]
+fp   = "35bf67018484"
+rule = "there-was-were"
+file = "scenes/broken-in.md"
+text = "\"There was a woman behind the bar,\" Vee said."
+note = "Broken In line-edit pass 2026-08-07: author sign-off. Filter verbs are inside Vee's spoken confession and Randi's reply (speech, not narration); the-way hits are ruled keepers (:7, :55) or literal/idiomatic (:99, :183); a-small keepers ruled (:47 room-as-intimacy, :123 small regal spiral); there-was-were mostly dialogue plus the deliberate 'there was only the feel' in the fitting; warm hits load-bearing or literal temperature (:189 cool over warm); x-not-y at :173 previously accepted in triage."
+
+[[ok]]
+fp   = "3685be8da13a"
+rule = "there-was-were"
+file = "scenes/broken-in.md"
+text = "There was a long mirror on the wall and Randi turned her to it."
+note = "Broken In line-edit pass 2026-08-07: author sign-off. Filter verbs are inside Vee's spoken confession and Randi's reply (speech, not narration); the-way hits are ruled keepers (:7, :55) or literal/idiomatic (:99, :183); a-small keepers ruled (:47 room-as-intimacy, :123 small regal spiral); there-was-were mostly dialogue plus the deliberate 'there was only the feel' in the fitting; warm hits load-bearing or literal temperature (:189 cool over warm); x-not-y at :173 previously accepted in triage."
+
+[[ok]]
+fp   = "68a97fc7400c"
+rule = "there-was-were"
+file = "scenes/broken-in.md"
+text = "The only reason that blonde could land a thing on you at all is that there was something there to land on.\""
+note = "Broken In line-edit pass 2026-08-07: author sign-off. Filter verbs are inside Vee's spoken confession and Randi's reply (speech, not narration); the-way hits are ruled keepers (:7, :55) or literal/idiomatic (:99, :183); a-small keepers ruled (:47 room-as-intimacy, :123 small regal spiral); there-was-were mostly dialogue plus the deliberate 'there was only the feel' in the fitting; warm hits load-bearing or literal temperature (:189 cool over warm); x-not-y at :173 previously accepted in triage."
+
+[[ok]]
+fp   = "6ae351413f62"
+rule = "there-was-were"
+file = "scenes/broken-in.md"
+text = "There was mascara somewhere up near a cheekbone it had no business being near."
+note = "Broken In line-edit pass 2026-08-07: author sign-off. Filter verbs are inside Vee's spoken confession and Randi's reply (speech, not narration); the-way hits are ruled keepers (:7, :55) or literal/idiomatic (:99, :183); a-small keepers ruled (:47 room-as-intimacy, :123 small regal spiral); there-was-were mostly dialogue plus the deliberate 'there was only the feel' in the fitting; warm hits load-bearing or literal temperature (:189 cool over warm); x-not-y at :173 previously accepted in triage."
+
+[[ok]]
+fp   = "732498ec3906"
+rule = "there-was-were"
+file = "scenes/broken-in.md"
+text = "There was a whole architecture in there she'd never once felt in a shoe, a structure that took her foot and *held* it, told it where to be — and the holding didn't bind."
+note = "Broken In line-edit pass 2026-08-07: author sign-off. Filter verbs are inside Vee's spoken confession and Randi's reply (speech, not narration); the-way hits are ruled keepers (:7, :55) or literal/idiomatic (:99, :183); a-small keepers ruled (:47 room-as-intimacy, :123 small regal spiral); there-was-were mostly dialogue plus the deliberate 'there was only the feel' in the fitting; warm hits load-bearing or literal temperature (:189 cool over warm); x-not-y at :173 previously accepted in triage."
+
+[[ok]]
+fp   = "85ef888a4e9f"
+rule = "there-was-were"
+file = "scenes/broken-in.md"
+text = "She stood there in her bra and her long skirt and a borrowed pair of shoes and a stranger's silk at her throat, and there was color up high in her face and a light coming off her from somewhere, and she didn't go hunting for where."
+note = "Broken In line-edit pass 2026-08-07: author sign-off. Filter verbs are inside Vee's spoken confession and Randi's reply (speech, not narration); the-way hits are ruled keepers (:7, :55) or literal/idiomatic (:99, :183); a-small keepers ruled (:47 room-as-intimacy, :123 small regal spiral); there-was-were mostly dialogue plus the deliberate 'there was only the feel' in the fitting; warm hits load-bearing or literal temperature (:189 cool over warm); x-not-y at :173 previously accepted in triage."
+
+[[ok]]
+fp   = "bf2ea6d3768a"
+rule = "there-was-were"
+file = "scenes/broken-in.md"
+text = "And there was where her skin came up singing."
+note = "Broken In line-edit pass 2026-08-07: author sign-off. Filter verbs are inside Vee's spoken confession and Randi's reply (speech, not narration); the-way hits are ruled keepers (:7, :55) or literal/idiomatic (:99, :183); a-small keepers ruled (:47 room-as-intimacy, :123 small regal spiral); there-was-were mostly dialogue plus the deliberate 'there was only the feel' in the fitting; warm hits load-bearing or literal temperature (:189 cool over warm); x-not-y at :173 previously accepted in triage."
+
+[[ok]]
+fp   = "dd33f779a1c2"
+rule = "there-was-were"
+file = "scenes/broken-in.md"
+text = "There were a few freckles across her nose, a sparse cocoa scatter she plainly never gave a thought to — where Vee had just spent ten minutes at the sink burying the cinnamon excess thrown across her own nose and cheeks."
+note = "Broken In line-edit pass 2026-08-07: author sign-off. Filter verbs are inside Vee's spoken confession and Randi's reply (speech, not narration); the-way hits are ruled keepers (:7, :55) or literal/idiomatic (:99, :183); a-small keepers ruled (:47 room-as-intimacy, :123 small regal spiral); there-was-were mostly dialogue plus the deliberate 'there was only the feel' in the fitting; warm hits load-bearing or literal temperature (:189 cool over warm); x-not-y at :173 previously accepted in triage."
+
+[[ok]]
+fp   = "ec908e4a8274"
+rule = "there-was-were"
+file = "scenes/broken-in.md"
+text = "The long skirt fell the whole length of her over the work, and there was only the feel — the cool quick hands somewhere down past the hem, her foot guided in, a strap closing at the ankle."
+note = "Broken In line-edit pass 2026-08-07: author sign-off. Filter verbs are inside Vee's spoken confession and Randi's reply (speech, not narration); the-way hits are ruled keepers (:7, :55) or literal/idiomatic (:99, :183); a-small keepers ruled (:47 room-as-intimacy, :123 small regal spiral); there-was-were mostly dialogue plus the deliberate 'there was only the feel' in the fitting; warm hits load-bearing or literal temperature (:189 cool over warm); x-not-y at :173 previously accepted in triage."
+
+[[ok]]
+fp   = "0f5243d57939"
+rule = "warm"
+file = "scenes/broken-in.md"
+text = "She loosed the knot and put the silk into Vee's hands, and then her own hands came over them, cool over warm, and walked them through it: the loop, the cross, the tuck, the small firm pull at the end."
+note = "Broken In line-edit pass 2026-08-07: author sign-off. Filter verbs are inside Vee's spoken confession and Randi's reply (speech, not narration); the-way hits are ruled keepers (:7, :55) or literal/idiomatic (:99, :183); a-small keepers ruled (:47 room-as-intimacy, :123 small regal spiral); there-was-were mostly dialogue plus the deliberate 'there was only the feel' in the fitting; warm hits load-bearing or literal temperature (:189 cool over warm); x-not-y at :173 previously accepted in triage."
+
+[[ok]]
+fp   = "32780b06d839"
+rule = "warm"
+file = "scenes/broken-in.md"
+text = "The dance first — and here she surprised herself, because the dance had been *good*, the best part, his hand flat on her back and the whole thing taking her once she stopped fighting it, her body knowing where to go a half-second before she did — and Randi said *of course it was, he can dance, the bastard,* warm, and Vee laughed and went on."
+note = "Broken In line-edit pass 2026-08-07: author sign-off. Filter verbs are inside Vee's spoken confession and Randi's reply (speech, not narration); the-way hits are ruled keepers (:7, :55) or literal/idiomatic (:99, :183); a-small keepers ruled (:47 room-as-intimacy, :123 small regal spiral); there-was-were mostly dialogue plus the deliberate 'there was only the feel' in the fitting; warm hits load-bearing or literal temperature (:189 cool over warm); x-not-y at :173 previously accepted in triage."
+
+[[ok]]
+fp   = "670ae16722d9"
+rule = "warm"
+file = "scenes/broken-in.md"
+text = "Brooke's eyes went over Vee once, took all of it, gave back nothing but more warmth."
+note = "Broken In line-edit pass 2026-08-07: author sign-off. Filter verbs are inside Vee's spoken confession and Randi's reply (speech, not narration); the-way hits are ruled keepers (:7, :55) or literal/idiomatic (:99, :183); a-small keepers ruled (:47 room-as-intimacy, :123 small regal spiral); there-was-were mostly dialogue plus the deliberate 'there was only the feel' in the fitting; warm hits load-bearing or literal temperature (:189 cool over warm); x-not-y at :173 previously accepted in triage."
+
+[[ok]]
+fp   = "862beb3f1ee4"
+rule = "warm"
+file = "scenes/broken-in.md"
+text = "The coat was the long one, the warm one she lived in from mid-fall on — handsome at best, never cute, but it broke the wind, which over bare legs in October was the whole point."
+note = "Broken In line-edit pass 2026-08-07: author sign-off. Filter verbs are inside Vee's spoken confession and Randi's reply (speech, not narration); the-way hits are ruled keepers (:7, :55) or literal/idiomatic (:99, :183); a-small keepers ruled (:47 room-as-intimacy, :123 small regal spiral); there-was-were mostly dialogue plus the deliberate 'there was only the feel' in the fitting; warm hits load-bearing or literal temperature (:189 cool over warm); x-not-y at :173 previously accepted in triage."
+
+[[ok]]
+fp   = "c293035c8720"
+rule = "warm"
+file = "scenes/broken-in.md"
+text = "And it went straight through Vee, warm and a little ridiculous, because it was *Randi* who'd said it."
+note = "Broken In line-edit pass 2026-08-07: author sign-off. Filter verbs are inside Vee's spoken confession and Randi's reply (speech, not narration); the-way hits are ruled keepers (:7, :55) or literal/idiomatic (:99, :183); a-small keepers ruled (:47 room-as-intimacy, :123 small regal spiral); there-was-were mostly dialogue plus the deliberate 'there was only the feel' in the fitting; warm hits load-bearing or literal temperature (:189 cool over warm); x-not-y at :173 previously accepted in triage."
+
+[[ok]]
+fp   = "ee0c81412f35"
+rule = "warm"
+file = "scenes/broken-in.md"
+text = "\"Black as a *color* does nothing for you — that hair wants warmth.\""
+note = "Broken In line-edit pass 2026-08-07: author sign-off. Filter verbs are inside Vee's spoken confession and Randi's reply (speech, not narration); the-way hits are ruled keepers (:7, :55) or literal/idiomatic (:99, :183); a-small keepers ruled (:47 room-as-intimacy, :123 small regal spiral); there-was-were mostly dialogue plus the deliberate 'there was only the feel' in the fitting; warm hits load-bearing or literal temperature (:189 cool over warm); x-not-y at :173 previously accepted in triage."
+
+[[ok]]
+fp   = "aec9fca89119"
+rule = "x-not-y"
+file = "scenes/broken-in.md"
+text = "Being given no say in where her foot went made her surer of it, not less."
+note = "Broken In line-edit pass 2026-08-07: author sign-off. Filter verbs are inside Vee's spoken confession and Randi's reply (speech, not narration); the-way hits are ruled keepers (:7, :55) or literal/idiomatic (:99, :183); a-small keepers ruled (:47 room-as-intimacy, :123 small regal spiral); there-was-were mostly dialogue plus the deliberate 'there was only the feel' in the fitting; warm hits load-bearing or literal temperature (:189 cool over warm); x-not-y at :173 previously accepted in triage."
+
+[[ok]]
+fp   = "c229b1903cf7"
+rule = "x-not-y"
+file = "scenes/broken-in.md"
+text = "\"I know,\" Randi said, not modest about it."
+note = "Broken In line-edit pass 2026-08-07: author sign-off. Filter verbs are inside Vee's spoken confession and Randi's reply (speech, not narration); the-way hits are ruled keepers (:7, :55) or literal/idiomatic (:99, :183); a-small keepers ruled (:47 room-as-intimacy, :123 small regal spiral); there-was-were mostly dialogue plus the deliberate 'there was only the feel' in the fitting; warm hits load-bearing or literal temperature (:189 cool over warm); x-not-y at :173 previously accepted in triage."
+
+[[ok]]
 fp   = "21beefbb96a1"
 rule = "flat-interrogative"
 file = "scenes/cropped.md"

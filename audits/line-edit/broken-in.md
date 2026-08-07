@@ -72,3 +72,36 @@ Distinctive phrasings from this chapter that feel likely to recur elsewhere in t
 8. **"dorm mixer / dinner in Paris"** (`:189`) — Randi's two-worlds formulation; check against the "stop the room" family (unruled, Sorority) and the {{The Induction}} payoff.
 9. **"like a person raised right"** (`:27`) — Vee's self-deprecating class marker; check for siblings.
 10. **"a heel that meant it and didn't brag"** (`:173`) — the object-with-restraint formulation; likely has a sibling in the shoe and dress chapters (cf. Sorority's "the kind of shoe with no occasion").
+
+## Author rulings (2026-08-07)
+
+0. `:55` "delighted" (pre-ruled #30) — **a**, cut. Applied.
+1. `:133`/`:165` doubled bare-feet gaze — **b**, `:133` → "taking inventory". Applied.
+2. `:169` not-seeing ×3 — **a**, cut "all of it under the cloth where her eyes couldn't follow". Applied.
+3. `:73` confession ending — **a**, end on "Slow." Applied.
+4. `:73` "— the way he cares about people —" — **a**, cut. Applied.
+5. `:87` — **a**, "since the dance floor" → "since last night" (garden-path fix; report's "no main verb" diagnosis was wrong). Applied.
+6. `:97` "Not a suggestion — an instruction" — **d**, LEFT STANDING against the assistant's recommendation. Reader-taken-up handler register.
+7. `:109` — **a**, cut "and they both knew it"; "coat" kept deliberately. Applied.
+8. `:9` "ablutions" — **c**, split into two sentences, arch word kept. Applied.
+9. `:1` plan-as-warm-cup — **c**, figure cut, alarm made its own sentence. Applied.
+10. `:19` "bare legs" ×3 — **a**, cut the middle. Applied.
+11. `:19` bowl appositive — **b**, kept "the no-time kind of morning". Applied.
+12. `:25` three appositives — **a**, kept "the same cold as the water" only. Applied.
+13. `:29`/`:35` "warmth" — **a**, cut "whose warmth" at `:29`. Applied.
+14. `:7` two `the-way`s — **b**, cut "the way it deserved" from the fold. Applied.
+15. `:49` "bare to the morning and uncovered" — **b**, whole phrase cut. Author's alternative (feet "bare" → "uncovered") raised and declined: breaks the tracked bare-feet chain.
+16. `:49` "ten minutes" ×2 — **a**, first → "five minutes ago". Applied.
+17. `:55` "the way it does when someone's letting you tell it" — **a**, LEFT STANDING + acked. Reader-praised narration.
+18. `model` ×3 — **a**, cut "like a model to her mark" at `:165`. Applied.
+19. "drawn snug" ×2 — **b**, varied the first (`:169` → "a strap closing at the ankle"). Applied.
+20. `:173` "shoe… shoe" — **b**, → "a whole architecture in there". Applied.
+21. `:173` announcement before the thesis — **a**, both announcements cut; thesis sentence untouched. Applied.
+22. `:209` closing inventory — **a**, first → "the rest of the day and a night". Report's "ends one beat late" framing rejected on reader evidence. Applied.
+23. (bonus) "the real one" ×2 — **a**, cut at `:183`. Applied. Ledger #45.
+24. (bonus) three standalone "A beat." — **a**, LEFT STANDING, recorded in triage.
+25. (linter) `:175` two `the-way`s in one sentence — **a**, cut "the way they were made". Applied.
+26. (linter) `a small X` ×3 — **a**, `:169` → "a sound in her throat". Applied.
+27. Linter sweep — **ack**. 29 hits suppressed; 0 active, 0 errors.
+
+**24 edits applied. 4 items left standing.**

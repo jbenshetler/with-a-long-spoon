@@ -665,3 +665,83 @@ FIX-AT. Do not vary either occurrence before that count exists.
   induction heels"). Designed recurrence; count, don't vary.
 - **"Something loose and belching under the hood, run well past maintaining"**
   (`lesson:229`) — rare-word check per ruling #13 ("past maintaining").
+
+## Batch 11 — Broken In (2026-08-07)
+
+**#45 — "the real one" (Randi's unguarded laugh).** `broken-in:149`
+("Randi laughed — the real one, head going back") / `broken-in:183`
+("Randi laughed, the real one"). **FIX-AT `:183`** — cut, applied. Two
+identical three-word annotations thirty-four lines apart turned a tell into a
+label. **Keeper is `:149`**, because "head going back" is the body evidence
+that earns the claim; the second was bare assertion. The formulation is almost
+certainly book-wide — **harvest it and ration the density** (cf. #5, #22).
+*Rule learned: when the same tell is named twice in a chapter, keep the
+instance that comes with physical evidence and cut the one that only asserts.*
+
+**#46 — the bare-feet chain is PROTECTED as a chain, not a phrase.**
+`broken-in:49` (Randi's bare feet, sky-blue toenails) → `:165` (Randi's eyes
+rest on Vee's bare feet; "something moved in her face") → `:167` ("lifted a
+bare foot when the first shoe came up to meet it"). The erotic peak depends on
+the links. `:133`'s "all the way to her bare feet" was cut precisely to
+reserve the phrase for `:165`. **Do not vary "bare" anywhere in this chain**,
+and note "bare" is a deliberate chapter keyword elsewhere too (`:19` "bare legs
+in October", framed twice, reader-praised). *Rule learned: before swapping a
+common word to fix a local repetition, check whether it is a link in a tracked
+chain — a synonym that reads fine in place can break a payoff forty lines on.*
+
+**#47 — where to place a variation in a two-instance echo.** "drawn snug"
+(`broken-in:169`, `:173`) resolved by varying the **first** instance, not the
+second, so the surviving use sits closest to Randi's spoken "Snug — there."
+(`:189`) and builds toward it. *Rule learned: when an echo's third beat is
+dialogue — a character saying the word — vary the earlier narration so the
+spoken instance arrives fresh; the mouth gets the keeper.*
+
+**#48 — the run-up is fair game when the line is not.** `broken-in:173`'s
+thesis sentence carries a recorded split verdict (kept deliberately). The
+review cut the two-stage announcement *before* it ("the strange thing, the
+thing she turned over standing there, was that") on the reasoning that the
+recorded decision examined the sentence and never its framing. *Rule learned:
+a "left standing" verdict protects the sentence it names, not the scaffolding
+around it — and when one reader felt a thumb where another felt admiration,
+the drumroll is a likelier culprit than the line.*
+
+### Unruled candidates from Broken In (for the end-of-pass harvest)
+
+- **"something moved in her face, there and gone"** (`broken-in:165`) — fourth
+  instance of the unruled `Something [verb]ed in/over [X]` interiority frame
+  (#32 harvest; prior instances from All Told, Sorority, Lesson). This one is
+  Randi's single crack in the chapter and has a real claim if a ration is
+  granted.
+- **"It came out like an endearment — the worst words always did, between
+  them"** (`broken-in:149`) — the Randi/Vee slur-as-endearment formulation;
+  fable-5 quotes it ("the truth passed across the table in the register of
+  endearment"). If it recurs, this is the cleanest statement and should be the
+  keeper.
+- **"like a woman signing off on a commission"** (`:185`) / **"running her like
+  a fit model"** (`:123`) — the Randi-as-professional-appraiser family. Check
+  against the fitting and shopping chapters. The third sibling in this chapter
+  (`:165` "like a model to her mark") was already cut.
+- **"a girl who couldn't sit with herself for one day"** (`:99`) — second
+  instance of the `like a girl who…` self-description shape (unruled, logged
+  from `sorority:35`); this one is in Randi's mouth about Vee.
+- **"dorm mixer / dinner in Paris"** (`:189`) — Randi's two-worlds
+  formulation. "dinner in Paris" is logged in **four** motif ledgers. Check
+  against the unruled "stop the room" family (Sorority) and the {{The
+  Induction}} payoff. Designed; count, don't vary.
+- **"marching orders"** (`:209`) — four ledgers log it as the chapter's newly
+  explicit phrase. Designed; count, don't vary.
+- **"the totem"** for the flannel (`:7`) — four ledgers. Designed.
+- **"It was only what they did"** / the unbraced kiss (`:205`) — five ledgers.
+  Designed; the escalation-by-normalization rung. Never vary here.
+- **"Randi watched her like her own good work"** — five ledgers, read as
+  authorship by all of them. Designed.
+- **"the house had a folder on her"** (`:35`) — five ledgers, institution
+  motif. Designed.
+- **"so clear it looked rinsed"** (`:21`) / **"all that rinsed blue light"**
+  (`:209`) — deliberate bookend within the chapter; noted so no sibling
+  chapter's editor flags it. Check whether "rinsed" recurs elsewhere.
+- **"a heel that meant it and didn't brag"** (`:173`) — the
+  object-with-restraint formulation; likely sibling in Sorority ("the kind of
+  shoe with no occasion").
+- **"like a person raised right"** (`:27`) — Vee's self-deprecating class
+  marker; check for siblings.

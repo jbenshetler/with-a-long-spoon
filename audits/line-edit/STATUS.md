@@ -32,13 +32,13 @@ the echo shortlist with the author before per-chapter editing starts).
 | 24 | Gone | gone | reviewed |
 | 25 | Rock | rock | reviewed |
 | 26 | Lesson | lesson | reviewed |
-| 27 | Broken In | broken-in | edited |
+| 27 | Broken In | broken-in | reviewed |
 | 28 | Hills and Valleys | hills-and-valleys | edited |
 | 29 | A Recognized Method | recognized-method | edited |
 | 30 | The Practice Room | practice-room | edited |
 | 31 | The Induction | the-induction | edited |
 | 32 | We Find Out | we-find-out | edited |
-| 33 | Made-Up | made-up | pending |
+| 33 | Made-Up | made-up | edited |
 | 34 | One Bite | one-bite | edited |
 | 35 | Above Him | above-him | edited |
 | 36 | School Nights | school-nights | edited |
@@ -53,6 +53,6 @@ the echo shortlist with the author before per-chapter editing starts).
 | 45 | Believe Me | believe-me | edited |
 | 46 | Fairytale | fairytale | edited |
 | 47 | Old Acquaintances | old-acquaintances | edited |
-| 48 | The Usual | the-usual | pending |
-| 49 | My Friend Randi | my-friend-randi | pending |
-| 50 | Nothing Underneath | nothing-underneath | pending |
+| 48 | The Usual | the-usual | edited |
+| 49 | My Friend Randi | my-friend-randi | edited |
+| 50 | Nothing Underneath | nothing-underneath | edited |
