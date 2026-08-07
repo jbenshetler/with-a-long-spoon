@@ -984,6 +984,13 @@ text = "They pushed up into his mouth and his hand, chasing it, greedy, and she 
 note = "she heard herself = the auditory shame occasion (her body going audible where he can hear it); filter is load-bearing, cf. accepted 'she saw him see them'"
 
 [[ok]]
+fp   = "c21719b8b2dd"
+rule = "filter-verbs"
+file = "scenes/famished.md"
+text = "She saw him see them."
+note = "Author ruling 2026-08-07 (line-edit pass). Not the frame the rule targets: the crystal strings are already rendered in the preceding sentence ('obvious and excessive, thin and bright'), so the perceiving IS the event here — her being seen seeing herself be seen. The doubled verb is the shame mechanism in four words and is paid off immediately by 'Her hand moved to cover herself and stopped.' Cold-read evidence: gpt-5.5 quoted the span and reported 'I braced for humiliation'; claude-opus-4-8 credited it as why the erotic peak is 'never clinical.'"
+
+[[ok]]
 fp   = "c684a2dd1993"
 rule = "the-way"
 file = "scenes/famished.md"

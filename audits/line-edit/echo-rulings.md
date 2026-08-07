@@ -41,6 +41,14 @@ re-rule against their then-current text.
    scar's **location is canon and must never blur**; the framing phrase may
    vary. The sixth (`a-round.md:90`, the measuring tape high on the inside of
    *Vee's* thigh) is presumed a designed mirror — leave it untouched.
+   **Keeper ruled 2026-08-07: `famished:77`** — "her hand stopped — a scar,
+   large, high on the inside of his thigh." It is the *found* beat, and the
+   discovery is tactile, in the dark, mid-undressing: a flat unadorned
+   coordinate is what a hand reports. The other three Vol-1 occurrences
+   (`rock:247`, `above-him:19`, `we-find-out:95`) are all retrospective — the
+   reader already holds the fact, so varied wording costs them nothing.
+   **They vary at their chapters' reviews.** (`still-life:13` is Volume Two,
+   out of scope.)
 5. **"warm weight of" (7× / 6 ch) — PROTECT the construction, vary the exact
    wording.** The sensory move stays; the identical three-word rendering
    doesn't. **Vol-1 keeper ruled 2026-08-04: `the-bench.md`.** The other

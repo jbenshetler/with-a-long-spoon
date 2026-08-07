@@ -44,3 +44,28 @@ Noted, not flagged: the two "a beat" timing renderings (lines 5, 29 — "a beat 
 - "stored and approximate" (line 79)
 - "The evening had used her well." (line 91)
 - "quick and flat" (lines 5, 37 — the *floozie* refrain's fixed rendering; check whether other chapters reuse it)
+
+## Author rulings (2026-08-07)
+
+Durable ledger: `meta/meta-triage-famished.md`. This file is disposable.
+
+1. Ruled — **Famished is the FIX-AT #4 keeper**; `:77` stands as written. `rock`, `above-him`, `we-find-out` vary at their reviews. Echo-rulings #4 updated.
+2. Applied — "garlic crushed" → "garlic minced" (`:21`).
+3. Applied — cut "He'd opened it before she arrived." (`:23`).
+4. Applied — "deep and cool" → "deep and quiet" (`:7`).
+5. Applied — cut "It was a beautiful color, and that was reason enough." (`:7`). Cut against claude-opus-4-8 praise; noted in triage.
+6. Applied — cut "The body of a man who used himself continuously and without comment." (`:47`).
+7. Applied — cut "He was getting the lay of her." (`:53`); the reader-praised simile stands.
+8. Applied (option b) — cut "through the slick of her" at `:71`. `:69` "the wet of her" then re-raised and left standing; the author's "the shame of her" proposal declined (see triage).
+9. Applied — "the round of her" ×3 → ×1. `:69` and `:71` varied; `:73` keeps it.
+10. **Withdrawn** — "the shame was still running" ×2 is design, not repetition. Both occurrences reader-quoted as one unit. See triage.
+11. Applied (option c) — `:71` → "and she was not watching herself do any of it." The editor's own recommendation was unusable (orphaned pronoun); noted in triage.
+12. Applied — cut "Something shifted in her chest." (`:65`). Also clears the linter's `in-her-chest` hit.
+13. Applied — cut "She'd been wrong in the best possible way." (`:79`); and "with a soft diffuse glow" → nothing (`:101`).
+
+### Bonus items (cold-read + linter)
+
+B1. Applied — cut "without asking" (`:25`). Flagged by the linter (label) and gpt-5.5 (behavior) independently.
+B2. Left standing, **acked** — `filter-verbs` `:61` "She saw him see them."
+B3. Applied — `a-small` `:21` "a small bowl" → "a bowl".
+B4. Left standing — `:11` "Like a short story" (two models, both self-pardoned); repeated *floozie* (gpt-5.6-sol, conceded); `:91` "The evening had used her well" (two models, both accepted).

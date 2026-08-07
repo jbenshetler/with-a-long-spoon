@@ -23,14 +23,14 @@ the echo shortlist with the author before per-chapter editing starts).
 | 15 | A Round | a-round | reviewed |
 | 16 | Turned Up | turned-up | reviewed |
 | 17 | How It's Done | how-its-done | reviewed |
-| 18 | Famished | famished | edited |
+| 18 | Famished | famished | reviewed |
 | 19 | Toenails | toenails | edited |
 | 20 | Fed | fed | edited |
 | 21 | Peekaboo | peekaboo | edited |
-| 22 | All Told | all-told | pending |
-| 23 | Sorority | sorority | pending |
-| 24 | Gone | gone | pending |
-| 25 | Rock | rock | pending |
+| 22 | All Told | all-told | edited |
+| 23 | Sorority | sorority | edited |
+| 24 | Gone | gone | edited |
+| 25 | Rock | rock | edited |
 | 26 | Lesson | lesson | pending |
 | 27 | Broken In | broken-in | pending |
 | 28 | Hills and Valleys | hills-and-valleys | pending |
