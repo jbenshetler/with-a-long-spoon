@@ -40,7 +40,7 @@ REPO = Path(__file__).resolve().parent.parent
 os.chdir(REPO)  # so scenes/, reviews/, .claude/ resolve regardless of caller's cwd
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-from cold_read_batch import FALL_SCENES, run_batch  # noqa: E402
+from cold_read_batch import FALL_SCENES, has_valid_review, run_batch  # noqa: E402
 
 AGENT_DEF = REPO / ".claude/agents/blind-reader.md"
 PRICING_TOML = Path(__file__).resolve().parent / "cold_read_pricing.toml"
@@ -171,6 +171,14 @@ def main():
     ap.add_argument("--fresh", action="store_true", help="regenerate existing reviews (default: resume/skip)")
     ap.add_argument("--price-in", type=float, default=None, help="override input price (USD/1M tokens)")
     ap.add_argument("--price-out", type=float, default=None, help="override output price (USD/1M tokens)")
+    ap.add_argument(
+        "--allow-volume-one-rewrite",
+        action="store_true",
+        help="the new carry-forward spec is now the default for all runs; this flag "
+             "opts in to a --fresh run REGENERATING existing (Volume One) reviews under "
+             "it. Without it, --fresh refuses if the scope would overwrite any review "
+             "already on disk.",
+    )
     args = ap.parse_args()
 
     if not os.environ.get("OPENAI_API_KEY"):
@@ -180,6 +188,17 @@ def main():
     system_prompt = load_system_prompt()
     pricing = load_pricing(args.model, args.price_in, args.price_out)
     scenes = resolve_scenes(args.scope)
+
+    if args.fresh and not args.allow_volume_one_rewrite:
+        out_dir = Path("reviews/cold-read") / model_id
+        existing = [s["slug"] for s in scenes if has_valid_review(out_dir / f"{s['slug']}.md")]
+        if existing:
+            raise SystemExit(
+                f"refusing: --fresh would regenerate {len(existing)} existing review(s) in "
+                f"{out_dir} under the new carry-forward spec. Regenerating Volume One is "
+                f"opt-in — pass --allow-volume-one-rewrite to proceed, or drop --fresh to "
+                f"resume/skip existing reviews instead."
+            )
     agent_fn = make_agent_fn(
         system_prompt=system_prompt,
         pricing=pricing,

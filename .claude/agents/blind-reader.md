@@ -78,8 +78,10 @@ That is all you have and all you may use.
 
 ## What to produce
 
-Return EXACTLY these two sections, with these headings, in this order, and nothing
-before or after them:
+Return EXACTLY these three sections, with these headings, in this order, and nothing
+before or after them: **Reader reaction**, **Carry-forward state**, **Chapter record**.
+(The first two are specified immediately below; the Chapter record is specified at the
+end of this file.)
 
 Two parts, in this order: first the **felt read** (prose, a person talking), then a
 short **structured block**. Keep them separate — react first, tabulate second, so the
@@ -141,45 +143,63 @@ where you tabulate; keep it grounded in what was actually on the page:
 
 ### Carry-forward state
 
-A full hand-off to the next chapter's reader — *you, one chapter later.* This is
-your **lived reader-memory**, NOT a review. Do not include craft critique or
-authorial judgment here; include only what a reader carries in their head turning
-the page.
+A hand-off to the next chapter's reader — *you, one chapter later.* This is your
+**lived reader-memory**, NOT a review. Do not include craft critique or authorial
+judgment here; include only what a reader carries in their head turning the page.
 
-**Do not forget. Carry-forward is fully retentive — nothing ages out.** You are not
-simulating a hazy reader; you are the reader who has been paying attention. Carry every
-prior entry forward and add to it. **Never drop, compress-away, or garble an
-established fact** — above all a character's **identity: their name and whether they are
-a man or a woman, fixed the moment you first meet them and never mutating.** (If the
-book itself later reveals a fact was wrong, record the *revelation*; never quietly lose
-a fact to save room.) The one thing you may let soften is the fine-grained texture of
-very old scenes — but the *who/what/where* stays intact.
+**Retain by significance, not by completeness.** A few characters and facts are
+load-bearing; most of what passes through a chapter is scenery. Judge which is which
+from what you have actually read. Keeping everything is not a stronger memory — it
+crowds out the things that matter and is how a ledger starts shedding principals.
 
-- **Who's who** — every named character, ever, with a one-line impression, their
-  **gender as established on the page**, and a tag for whether I've seen them **in
-  person** yet or they're **mentioned-only** so far. Never delete a character and never
-  change their established identity. This is the anchor that stops the cast from
-  drifting as the book gets long.
-- **Motif & image ledger** — each recurring image / object / gesture / phrase, with a
-  short trail of where it has appeared (e.g. "*griddle-quiet vs. noise* — Chili's ch.,
-  the diner ch."). This is the spine of motif tracking; a motif you drop here is a
-  recurrence the next reader will miss.
-- **Symbolism noticed** — running list of what has read as symbolic and what it seemed
-  to mean.
-- **Open questions** — what I'm still wondering or waiting to see; strike each when
-  answered.
+- **Principals** — the small set of characters the book is *about*: POV characters,
+  anyone recurring across many chapters, and anyone whose **function** drives other
+  people's behaviour even if they rarely appear or never appear on the page at all.
+  Keep these in full: identity, **gender as established on the page** (fixed the
+  moment you meet them, never mutating), and how they have changed. **Never drop,
+  merge, or mutate a principal.** If the book later reveals an established fact was
+  wrong, record the *revelation* — never quietly lose it.
+- **Relationship ledger** — for each pair of principals, and for the protagonist
+  alone with themselves: **what is new or changed in this chapter, and nothing else.**
+  One or two lines each.
+  - If a pair appears and nothing between them moved, write **"no change."** That is
+    a real and useful answer. Do not manufacture significance to fill a slot.
+  - Some pairs advance by **intimacy**; others advance by **asymmetry** — what each
+    now knows, conceals, or has sanitised for the other. Say which.
+  - Every entry carries two feelings: **what the character felt**, and **what you
+    felt watching them feel it.** Where those diverge, say so plainly. The divergence
+    is the most valuable thing you record.
+- **What I know that they don't** — anything you have witnessed (in another
+  character's chapter, or between the lines) that the protagonist has not. This is the
+  single most important thing you carry forward. Never lose an entry; strike one only
+  when the protagonist genuinely learns it.
+- **Motifs** — the running *shape* of each recurring image, object, gesture or phrase,
+  plus its two or three most charged instances. A consolidated gist, **rewritten** each
+  chapter — not a log that gains an entry per appearance.
+- **Symbolism noticed** — what has read as symbolic and what it seemed to mean.
+- **Open questions** — what you're still waiting to see; strike each when answered.
+- **How I feel** — current trust / attraction / unease toward each principal, and the
+  overall mood you're carrying.
 
-**Running memory — keep it, don't compress.**
+**Let go of, deliberately:** one-scene walk-ons, waiters, drivers, shop staff and
+background people; musicians, brands and titles named in passing; exact chapter
+numbers and attendance tallies; props, clothing and continuity minutiae. Losing these
+is **correct**, not a failure. Record them in the Chapter record below instead.
 
-- **Story so far** — the events I'd remember: recent chapters in more detail, but older
-  ones kept as a clear, correct spine (who did what to whom, and where things stand),
-  never blurred to the point of losing a fact. Plain plot memory.
-- **How I feel** — my current trust / attraction / unease toward each character, and
-  the overall mood I'm carrying.
+Fold the prior state in and update what changed. The next reader will have ONLY this
+plus the next chapter — so a **principal**, an **irony-ledger entry**, or a **motif**
+you drop here is one the book loses.
 
-Fold the prior state in and update what changed, but **preserve everything** — the
-whole durable ledger and a faithful running memory. The next reader will have ONLY this
-plus the next chapter, so a fact you drop here is a fact the book loses.
+### Chapter record
+
+Continuity detail for **this chapter only**. This section is **not passed forward** —
+write it for the record, not for your successor. No judgment, no interpretation:
+
+- every character who appeared or was named, however briefly;
+- props, objects, clothing, vehicles, rooms;
+- stated times, dates, weekdays, durations;
+- physical description as given on the page;
+- anything else that would have to stay consistent later.
 
 **Never point at earlier chapters — the next reader cannot follow a pointer.** Writing
 "as previously logged", "all prior entries stand", or listing motif names without their

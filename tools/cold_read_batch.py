@@ -205,8 +205,26 @@ _BLOCK_START = re.compile(r"(?im)^\s*(?:#{1,4}\s*)?\*\*(?:Cast present|Heat|Roma
 _LEDGER_START = re.compile(
     r"(?im)^\s*(?:#{1,4}\s*)?(?:\*\*)?"
     r"(?:Who.s who|Motif & image ledger|Symbolism noticed|Open questions|"
-    r"Running memory|Story so far|How I feel)\b"
+    r"Running memory|Story so far|How I feel|Principals|Relationship ledger|"
+    r"What I know that they don[''’]t|Motifs)\b"
 )
+
+_CHAPTER_RECORD_RE = re.compile(
+    r"(?im)^\s*(?:#{1,3}\s*)?(?:\*\*)?Chapter record:?(?:\*\*)?\s*$"
+)
+
+
+def forward_carry(carry: str) -> str:
+    """The part of the carry-forward the next reader receives.
+
+    The Chapter record is written to the review file but never chained
+    forward — it is per-chapter continuity detail, deliberately not part of
+    reader memory.
+    """
+    if not carry:
+        return carry
+    m = _CHAPTER_RECORD_RE.search(carry)
+    return carry[: m.start()].rstrip() if m else carry
 
 
 def relocate_structured_block(reader: str, carry: str):
@@ -244,7 +262,7 @@ def _cast_names(carry: str) -> set:
     """Names in the who's-who section, lowercased."""
     if not carry:
         return set()
-    head = re.search(r"(?im)^\s*(?:#{1,4}\s*)?(?:\*\*)?Who.s who\b.*$", carry)
+    head = re.search(r"(?im)^\s*(?:#{1,4}\s*)?(?:\*\*)?(?:Who.s who|Principals)\b.*$", carry)
     if not head:
         return set()
     rest = carry[head.end():]
@@ -253,12 +271,85 @@ def _cast_names(carry: str) -> set:
     return {n.strip().lower() for n in re.findall(r"^[-*]\s+\*\*([^*]+?)\*\*", section, re.M)}
 
 
-def check_retention(prior_carry: str, new_carry: str):
-    """Return a list of retention violations (empty = clean)."""
+def _norm_apos(s: str) -> str:
+    """Fold curly apostrophes to straight.
+
+    Models write "Vee's mother" with U+2019 far more often than U+0027, while
+    principals.toml is hand-written with the straight form. Without this the
+    retention check reports a false dropped-principal and burns a paid retry.
+    """
+    return s.replace("’", "'").replace("ʼ", "'")
+
+
+# Old-format (v1) ledgers predate the Principals / Relationship ledger spec.
+# Any one of these headings marks a carry-forward as v1, so the new
+# structural checks are skipped rather than failing a legitimate legacy chain.
+_LEGACY_HEADINGS = re.compile(
+    r"(?im)^\s*(?:#{1,4}\s*)?(?:\*\*)?"
+    r"(?:Who.s who|Motif & image ledger|Running memory|Story so far)\b"
+)
+
+
+def _is_legacy_carry(carry: str) -> bool:
+    if not carry:
+        return False
+    if _LEGACY_HEADINGS.search(carry):
+        return True
+    # Some models emit the v1 ledger without bolded headings at all; treat a
+    # carry that has neither new-format anchor as legacy too.
+    has_new = re.search(
+        r"(?im)^\s*(?:#{1,4}\s*)?(?:\*\*)?(?:Principals|Relationship ledger)\b", carry
+    )
+    return not has_new
+
+
+def _load_principals(path=None):
+    """Never-drop names from reviews/cold-read/principals.toml (canonical + aliases).
+
+    The blind-reader never sees this file; its prompt states the rule
+    functionally. Only the harness, which is not blind, knows the names.
+    """
+    import tomllib
+    p = Path(path) if path else Path(__file__).resolve().parents[1] / "reviews" / "cold-read" / "principals.toml"
+    if not p.exists():
+        return {}
+    data = tomllib.loads(p.read_text(encoding="utf-8"))
+    canon = [str(x).lower() for x in data.get("book", {}).get("principals", [])]
+    aliases = {str(k).lower(): [str(v).lower() for v in vals]
+               for k, vals in (data.get("aliases") or {}).items()}
+    return {c: [c] + aliases.get(c, []) for c in canon}
+
+
+def check_retention(prior_carry: str, new_carry: str, principals=None):
+    """Retention violations (empty = clean).
+
+    Dropping a walk-on is CORRECT behaviour, not a violation — the reader is
+    told to let scenery go. Only the configured principals, the irony ledger
+    and the relationship ledger are protected.
+    """
     problems = []
-    dropped = sorted(_cast_names(prior_carry) - _cast_names(new_carry))
-    if dropped:
-        problems.append("dropped cast entries: " + ", ".join(dropped))
+    if principals is None:
+        principals = _load_principals()
+    names = {_norm_apos(n) for n in _cast_names(new_carry)}
+    blob = _norm_apos(new_carry.lower())
+    missing = []
+    for canon, forms in principals.items():
+        forms = [_norm_apos(f) for f in forms]
+        if any(f in names for f in forms):
+            continue
+        # fall back to a substring hit anywhere in the ledger before failing
+        if any(f in blob for f in forms):
+            continue
+        missing.append(canon)
+    if missing:
+        problems.append("dropped PRINCIPAL: " + ", ".join(sorted(missing)))
+
+    if not _is_legacy_carry(new_carry):
+        if not re.search(r"(?im)^\s*(?:#{1,4}\s*)?(?:\*\*)?What I know that they don['’]t", new_carry):
+            problems.append("missing 'what I know that they don't' ledger")
+        if not re.search(r"(?im)^\s*(?:#{1,4}\s*)?(?:\*\*)?Relationship ledger", new_carry):
+            problems.append("missing relationship ledger")
+
     hits = sorted({m.group(0).lower() for m in _POINTER_RE.finditer(new_carry)})
     if hits:
         problems.append("pointer-style compression (strips trails): " + "; ".join(hits))
@@ -287,7 +378,7 @@ def write_review(out_dir: Path, model_id: str, model_selector: str, scene, respo
         f"## Carry-forward state\n\n{carry}\n"
     )
     path.write_text(content)
-    return path, carry
+    return path, forward_carry(carry)
 
 
 def run_batch(
@@ -388,17 +479,20 @@ def run_batch(
             prompt = base_prompt
             if attempt > 1:
                 prompt += (
-                    "\n\nFORMAT REMINDER: Return exactly two top-level sections headed "
-                    "`### Reader reaction` and `### Carry-forward state`. The carry-forward "
-                    "section must be a full updated memory, not empty."
+                    "\n\nFORMAT REMINDER: Return exactly three top-level sections headed "
+                    "`### Reader reaction`, `### Carry-forward state`, and `### Chapter "
+                    "record`. The carry-forward section must be a full updated memory, "
+                    "not empty."
                 )
             if last_problems:
                 prompt += (
                     "\n\nRETENTION REMINDER: your previous attempt lost memory the next "
                     "reader cannot recover — " + "; ".join(last_problems) + ". Carry EVERY "
-                    "prior who's-who entry forward, and write each motif out with its own "
-                    "trail. Never write 'as previously logged' or point at earlier "
-                    "chapters: the next reader sees ONLY this ledger."
+                    "principal character and every entry in the 'what I know that they "
+                    "don't' ledger forward. Consolidate motifs rather than logging every "
+                    "appearance — letting walk-ons and scenery go is correct and expected. "
+                    "Never write 'as previously logged' or point at earlier chapters: the "
+                    "next reader sees ONLY this ledger."
                 )
             # unique label every attempt/time to avoid artifact collisions
             label = (

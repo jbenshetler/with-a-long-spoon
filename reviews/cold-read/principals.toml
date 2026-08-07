@@ -1,0 +1,38 @@
+# Cold-read retention: the never-drop list.
+#
+# The blind-reader is NEVER shown this file. Its prompt states the rule
+# *functionally* ("POV characters, anyone recurring, anyone whose function drives
+# others' behaviour") and it works out its own principals from what it has read.
+# Naming them in the prompt would hand chapter one's reader the cast and the
+# hierarchy before it read a word — the push-in leak (see SPEC.md).
+#
+# This list is used ONLY by the harness's retention check, which is not blind. A
+# reader that drops a name below has lost the plot and its attempt is retried.
+# Dropping anyone NOT on this list is correct behaviour, not a violation.
+#
+# Criterion is structural function, not page count. Brooke appears in four
+# chapters and is the sorority's surveillance instrument — the same warm-surgical
+# technique, run on Randi, that Randi runs on Vee. Vee's mother never appears at
+# all and speaks in Vee's head at every escalation. Both are load-bearing; both
+# stay.
+
+[book]
+title = "With a Long Spoon"
+
+# Matched case-insensitively against the bolded names in the carry-forward's
+# principals section. Use the form the reader would naturally write.
+principals = [
+  "vee",
+  "pace",
+  "randi",
+  "cassie",
+  "brooke",
+  "vee's mother",
+]
+
+# Accepted alternates, so a reader writing "Vivienne" or "Miranda" isn't failed
+# for a naming variant. Key = canonical entry above.
+[aliases]
+vee = ["vivienne", "vivienne thorne", "vee / vivienne", "vee / vivienne (thorne)"]
+randi = ["miranda", "randi / miranda"]
+"vee's mother" = ["vees mother", "vee's mom", "the mother", "mother (vee's)"]
