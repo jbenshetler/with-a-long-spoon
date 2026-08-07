@@ -4344,6 +4344,48 @@ text = "He'd been to California in November for a conference — Sheri had never
 note = "Author-approved: Sheri wanting the whole of the story — her frank register."
 
 [[ok]]
+fp   = "c7e24c0b8582"
+rule = "filter-verbs"
+file = "scenes/toenails.md"
+text = "Whether she felt it there, Vee couldn't have said."
+note = "POV, not distance: the sensation is Cassie's and Vee has no access to it — the sentence's content IS the epistemic gap (did Cassie catch the omission). Rendering it directly would require narrating Cassie's interior, which this POV cannot do. Keeps open the question gpt-5.6-sol raised off Cassie's half-second at :5 ('makes me wonder whether she saw more than she said'). Author sign-off 2026-08-07."
+
+[[ok]]
+fp   = "fbfda1a8adda"
+rule = "not-x-but-y"
+file = "scenes/toenails.md"
+text = "She sat on the floor with her spine against the desk and told it: how they'd met, the parts that made a story, leaving out how fast the door had become the bed, which was not a story but only her body naming what it wanted the moment he touched her."
+note = "Single occurrence (cluster condition unmet) and load-bearing: the antithesis is the hinge between the public version ('the parts that made a story') and the private fact, which is the chapter's subject. claude-fable-5 noted it 'edges toward over-articulate for Vee's own head' and pardoned it in the same breath as within register. Author sign-off 2026-08-07."
+
+[[ok]]
+fp   = "3fa14975f14e"
+rule = "the-way"
+file = "scenes/toenails.md"
+text = "The lock stuck the way it always stuck and she got the door open with her hip and came in from the stuffy heat of the hall into the room's open-window cold, bright and crisp and smelling of cereal."
+note = "Bookend, ruled 2026-08-07: 'The lock stuck the way it always stuck' (:3) pairs with 'The door stuck and gave' (:43) — the door is the chapter's frame. Author sign-off."
+
+[[ok]]
+fp   = "bbc7d7c99a04"
+rule = "the-way"
+file = "scenes/toenails.md"
+text = "She believed it the way you believe the thing that lets you keep what you want to keep."
+note = "Protected 2026-08-07: 'She believed it the way you believe the thing that lets you keep what you want to keep' is the chapter's most-praised line (claude-opus-4-8 'the sharpest line in the chapter'; gpt-5.5 and gpt-5.6-sol both quoted it). Author sign-off."
+
+[[ok]]
+fp   = "e032a1da394a"
+rule = "the-way"
+file = "scenes/toenails.md"
+text = "She lifted it out clean as she went, the way a ladle takes soup from the pot and the surface closes without a hole, and told herself it was a kindness."
+note = "Protected 2026-08-07: the ladle simile is the chapter's engine — claude-fable-5 'That sentence is the chapter', claude-opus-4-8 'The engine of the chapter is the ladle'. The 'the way' is inseparable from the image. Author sign-off."
+
+[[ok]]
+fp   = "fcd6bccc2ecd"
+rule = "the-way"
+file = "scenes/toenails.md"
+text = "It had come back at every red light on the way home."
+note = "False positive: 'at every red light on the way home' is the literal noun (route), not the filtered 'the way he...' construction. Author sign-off 2026-08-07."
+
+[[ok]]
 fp   = "b811ff6f8bc7"
 rule = "began-to"
 file = "scenes/turned-up.md"

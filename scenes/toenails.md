@@ -2,7 +2,7 @@
 
 The lock stuck the way it always stuck and she got the door open with her hip and came in from the stuffy heat of the hall into the room's open-window cold, bright and crisp and smelling of cereal. Cassie was on the bottom bunk with her knees up and a bowl balanced against them, the milk gone the soft brown of the cereal.
 
-Cassie looked up, and for half a second something crossed her face and was gone before it found a name. Then she read her friend the way she read everything, fast and whole, and her mouth went to match Vee's, because Vee was grinning and the grin was the entire story.
+Cassie looked up, and for half a second something crossed her face and was gone before it found a name. Then she read her friend as she read everything, fast and whole, and her mouth went to match Vee's, because Vee was grinning and the grin was the entire story.
 
 "That good?" Cassie said.
 
@@ -16,9 +16,9 @@ The heat climbed Vee's neck. "Cassie."
 
 "In October." Cassie aimed the spoon at her. "I have eyes."
 
-So Vee told her. She sat on the floor with her spine against the desk and told it: how they'd met, the parts that made a story, leaving out how fast the door had become the bed, which was not a story but only her body naming what it wanted the moment he touched her. She said he was sweet. She said he was a good kisser, the old easy words she'd always handed Cassie about a man. She gave her the dinner whole, because the dinner she could give: the apron, the garlic and pepper blooming, the patient complete attention he brought to it, chicken fra diavolo, the Chianti he'd opened before she came so it would be ready when she was.
+So Vee told her. She sat on the floor with her spine against the desk and told it: how they'd met, the parts that made a story, leaving out how fast the door had become the bed, which was not a story but only her body naming what it wanted the moment he touched her. She said he was sweet. She said he was a good kisser, the old easy words she'd always handed Cassie about a man. She gave her the dinner whole, because the dinner she could give: the apron, the garlic and pepper blooming, the patient attention he brought to it, chicken fra diavolo, the Chianti he'd opened before she came so it would be ready when she was.
 
-What she kept was the middle. She lifted it out clean as she went, the way a ladle takes soup from the pot and the surface closes without a hole, and told herself it was a kindness. This was never Cassie's country; you did not march her through it. It was a kindness. She believed it the way you believe the thing that lets you keep what you want to keep.
+What she kept was the middle. She lifted it out clean as she went, the way a ladle takes soup from the pot and the surface closes without a hole, and told herself it was a kindness. It was a kindness. She believed it the way you believe the thing that lets you keep what you want to keep.
 
 Cassie listened with her chin on her knees and did not pull at the seam. Whether she felt it there, Vee couldn't have said.
 
@@ -28,7 +28,7 @@ Cassie listened with her chin on her knees and did not pull at the seam. Whether
 
 "Mm." And she let it stand.
 
-Vee wanted to be clean. She wanted the shower more than she'd wanted anything sensible in days. She got up, pulled her towel off the hook, reached for the zipper at her hip, drew it halfway down, and stopped.
+Vee wanted to be clean. She wanted the shower more than anything sensible in days. She got up, pulled her towel off the hook, reached for the zipper at her hip, drew it halfway down, and stopped.
 
 Nothing under the skirt. She had given them away. *Trade*, she'd said, and folded them in thirds and set them in his palm, and driven home bare, frosted-plum toenails her mother would have had a word for. The word could come; she found she didn't much mind it this morning. What she minded was here, now: three feet from Cassie, the zipper half down, and the next thing she took off would not be a story she was editing. It would be on the floor, and there would be nothing left to say.
 

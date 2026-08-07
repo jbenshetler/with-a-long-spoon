@@ -24,7 +24,7 @@ the echo shortlist with the author before per-chapter editing starts).
 | 16 | Turned Up | turned-up | reviewed |
 | 17 | How It's Done | how-its-done | reviewed |
 | 18 | Famished | famished | reviewed |
-| 19 | Toenails | toenails | edited |
+| 19 | Toenails | toenails | reviewed |
 | 20 | Fed | fed | edited |
 | 21 | Peekaboo | peekaboo | edited |
 | 22 | All Told | all-told | edited |

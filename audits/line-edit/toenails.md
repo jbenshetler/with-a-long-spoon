@@ -25,3 +25,14 @@ The chapter's own standard is high and mostly met. The strongest passages: the l
 - "the smile would not come down"
 - "had a word for" (mother's word)
 - "Don't wait up, lover"
+
+## Author rulings (2026-08-07)
+
+1. **"the way" ×4** — (a) vary `:5` only ("as she read everything"); `:3` bookend, ladle, and believed-line protected.
+2. **"country" ×2** — (a) leave both. Rendered moot by bonus 1's cut; hair image protected going forward.
+3. **"wanted" ×3** — (b) cut the third instance: "more than anything sensible in days."
+4. **"the patient complete attention"** — (a) cut "complete."
+5. **kindness ×3** — (a) leave all three; recorded as designed mirror.
+B1. **Ladle three-turn accumulation** (cold-read bonus, claude-opus-4-8 + gpt-5.6-sol) — (a) cut "This was never Cassie's country; you did not march her through it."
+B2. **`filter-verbs` `:23`** — (a) leave standing, acked (POV, not distance).
+B3. **`not-x-but-y` `:19`** — (a) leave standing, acked (single occurrence, load-bearing).
