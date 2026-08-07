@@ -41,3 +41,46 @@
 - "the inside of the sentence" (line 149, "not at Cassie, at the inside of the sentence") — distinctive interiority move.
 - "Let the geometry say itself" (line 157) — distinctive; check for other "geometry" uses.
 - "like sun on her face" (line 15, attention rendered as warmth) — warmth/heat imagery; may belong to the chapter's turned-up-heat design but worth an inventory check.
+
+---
+
+## Author rulings (2026-08-06)
+
+Reviewed item by item with the author, enriched with cold-read evidence from
+four models. **10 of 12 findings applied, 2 left standing; 3 reader-sourced
+bonus items, all left standing.** Durable record (with rationale) is
+`meta/meta-triage-turned-up.md` — this report file is overwritten on re-run.
+
+| # | Class | Ruling |
+|---|---|---|
+| 1 | repetition | **Applied** — "A beat." cut at :19; kept at :133. |
+| 2 | repetition | **Applied** — :59 "Vee was up again" → "Vee crossed to the window and back"; :87 kept. |
+| 3 | repetition | **Applied** — "The room was quiet." cut at :71; kept at :147. Cut, not reworded ("quiet" ran 8×). |
+| 4 | repetition | **LEFT STANDING — report reversed.** "filed" at :49/:65 is a designed rhyme (her habit of filing anomalies about Pace), not a tic; :65 also sits in the four-model peak passage. |
+| 5 | precision | **Applied** — :55 "gone to sleep" → "stopped looking" (callback to :49 "I went looking"). |
+| 6 | rhythm | **Applied** — "She stopped." cut at :141 only; :19, :29, :103, :157 stand. |
+| 7 | overwork | **Applied** — :157 "He'd been on his knees" → "He had been since the side seam"; the flat declarative preserved so :161 reads as a return. |
+| 8 | overwork | **Applied** — :165 "It was about deciding to say it." cut. |
+| 9 | overwork | **Applied** — :177 "laying it out," cut. *(Re-armed a suppressed `the-way` linter hit on that sentence — see below.)* |
+| 10 | dialogue | **Applied** — :179 "He has had you" → "He's had you". Standing "living room" verdict untouched. |
+| 11 | repetition | **Applied** — :189 "with great authority" → "grave as a witness"; :111 "with great delicacy" stands. Praised ass-pat/diagram sentence not touched. |
+| 12 | rhythm | **Applied** — "after a while" cut at :173; :211's closing anaphora kept. Also fixed :157's "for a while" in the same pass. |
+
+**Bonus items (reader-sourced, not in the report) — all left standing:**
+
+- Cassie's "Are you sure he's not gay?" (:179) — friction from 3 of 4 models, all noting the recovery lands it. **Stands.**
+- The mid-chapter re-narration of the fitting (:85–:161) — claude-opus-4-8 only, twice self-hedged. **Stands; designed, and not a line-edit item.**
+- The narration grading Cassie's listening (:77, :159) — claude-fable-5, reservation withdrawn in the same sentence; countervailing praise from gpt-5.5 and gpt-5.6-sol. **Both stand.**
+
+**Echo candidates** (report's closing list) — none ruled this pass; no
+occurrence in this chapter was varied on echo grounds, and no new entry was
+added to `audits/line-edit/echo-rulings.md`. The PROTECTED items the report
+correctly left alone ("it came out" :19 per #15; the let-grant adjacency at
+:133 per #12) stand.
+
+**Linter delta:** 6 active hits → 7 (0 error, 1 warn, 6 info; 12 suppressed).
+The one new warn is a `the-way` hit at :177 that had been *accepted and
+suppressed* — finding 9's cut changed the sentence's fingerprint and re-armed
+it, which is correct behavior, not a regression. The construction itself is
+unchanged from the accepted version. **Awaiting the author's sign-off to
+re-`--ack` it**; no `--ack` pass has been run on this chapter otherwise.

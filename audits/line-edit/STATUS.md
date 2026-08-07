@@ -21,7 +21,7 @@ the echo shortlist with the author before per-chapter editing starts).
 | 13 | What to Wear | what-to-wear | reviewed |
 | 14 | Two Towels | two-towels | reviewed |
 | 15 | A Round | a-round | reviewed |
-| 16 | Turned Up | turned-up | edited |
+| 16 | Turned Up | turned-up | reviewed |
 | 17 | How It's Done | how-its-done | edited |
 | 18 | Famished | famished | edited |
 | 19 | Toenails | toenails | edited |

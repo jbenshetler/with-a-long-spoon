@@ -16,7 +16,7 @@ Cassie looked at her for a long moment. She was very still in the way she got wh
 
 "Okay," Cassie said. "Back up. When did he — how did he even know?"
 
-Vee sat on the edge of her desk. A beat. Got up again. "I told him. On the hike, up on the rocks with the cherries. I was tired and just talking, and it came out. The induction, and the dress in the magazine, and the color, and that I couldn't—" She stopped. Waved it away. "I'd already let it go. I was going to wear the black one."
+Vee sat on the edge of her desk. Got up again. "I told him. On the hike, up on the rocks with the cherries. I was tired and just talking, and it came out. The induction, and the dress in the magazine, and the color, and that I couldn't—" She stopped. Waved it away. "I'd already let it go. I was going to wear the black one."
 
 "The induction," Cassie said softly. She'd screamed in the hall the day the letter came.
 
@@ -52,11 +52,11 @@ Cassie pulled her knees tighter, the small smile settling in. "Did he make that 
 
 "He said it like it was nothing."
 
-Cassie didn't say anything. In the quiet Vee could hear the radiator and someone's music two doors down and her own breathing, faster than it should have been. A week of sleeping in a shirt he'd made, the answer in her hands the whole time, and she'd decided it was a riddle and gone to sleep.
+Cassie didn't say anything. In the quiet Vee could hear the radiator and someone's music two doors down and her own breathing, faster than it should have been. A week of sleeping in a shirt he'd made, the answer in her hands the whole time, and she'd decided it was a riddle and stopped looking.
 
 "Okay," Cassie said, when the quiet had gone on a beat too long. "So you went over today, and — ?"
 
-"The silk was out, on the long table in his sun porch. And he'd built a riser." Vee was up again, to the window and back. "A little platform, in the corner, for me to stand on." She heard herself say it, and laughed. "For me to stand on."
+"The silk was out, on the long table in his sun porch. And he'd built a riser." Vee crossed to the window and back. "A little platform, in the corner, for me to stand on." She heard herself say it, and laughed. "For me to stand on."
 
 "And the house was warm," she said, before Cassie could answer.
 
@@ -68,7 +68,7 @@ Cassie went very still.
 
 "Standing there," Vee said. "He turned it up hours before, probably. As soon as he knew I was coming. He thought of it then."
 
-The room was quiet. Vee leaned back against the edge of her desk, half sitting.
+Vee leaned back against the edge of her desk, half sitting.
 
 "Oh, Vee," Cassie said, and her face had gone soft with it.
 
@@ -138,7 +138,7 @@ Vee sat down on the edge of Cassie's bed. Just the edge. She pressed her palm fl
 
 "Was it weird?" Cassie asked. "Standing up there. Half-dressed. With him fully—"
 
-"For a minute," Vee said. "I was braced for it to stay weird. And then it just — didn't." She stopped.
+"For a minute," Vee said. "I was braced for it to stay weird. And then it just — didn't."
 
 "Then what?"
 
@@ -154,7 +154,7 @@ Vee pulled her knees up, smaller than she usually sat. "And then he measured. He
 
 Cassie's expression said she could imagine.
 
-"And then at the end, the hem," Vee said. "He had to do the hem, and that meant — " She was tracing it without thinking, one hand down her own hip. "He was on his knees. He'd been on his knees for a while for the side seam, but then the front, and the riser put me up, and he was—" She stopped. Let the geometry say itself.
+"And then at the end, the hem," Vee said. "He had to do the hem, and that meant — " She was tracing it without thinking, one hand down her own hip. "He was on his knees. He had been since the side seam, but then the front, and the riser put me up, and he was—" She stopped. Let the geometry say itself.
 
 Cassie said nothing, which was the right thing.
 
@@ -162,7 +162,7 @@ Cassie said nothing, which was the right thing.
 
 "How did it feel?"
 
-Vee was quiet for long enough that it wasn't about finding the word. It was about deciding to say it.
+Vee was quiet for long enough that it wasn't about finding the word.
 
 "Like I was supposed to be there," she said.
 
@@ -170,13 +170,13 @@ Cassie made a sound that wasn't quite a word. She reached over and put her hand 
 
 Vee looked at the light on the floor. Outside the window someone was crossing the quad and the afternoon had gone late and gold, and the radiator clicked in the corner, and the shirt Pace had made was folded on Vee's pillow at the top of the bunk because she'd put it there without thinking when she changed.
 
-"He's not done," Vee said after a while. "The dress. He still has to sew it. He'll call me when it's ready."
+"He's not done," Vee said. "The dress. He still has to sew it. He'll call me when it's ready."
 
 "Okay," Cassie said.
 
-The quiet sat there, warm, for a moment longer. Then Cassie shifted against her pillow, and Vee could see her doing it — going back over the whole thing, laying it out, the way she worked a puzzle when the pieces wouldn't fit. Her face did the small frown.
+The quiet sat there, warm, for a moment longer. Then Cassie shifted against her pillow, and Vee could see her doing it — going back over the whole thing, the way she worked a puzzle when the pieces wouldn't fit. Her face did the small frown.
 
-"Okay, wait," Cassie said. "Walk me through this. He's seen you with your shirt off twice now. Once in his own house. On a box. And he — sewed." She held up a finger. "He's a bodybuilder who makes dresses." Another finger. "He has had you standing in his living room in your underwear, and he picked up a *tape measure*." She looked at Vee. "Vee. Are you sure he's not gay?"
+"Okay, wait," Cassie said. "Walk me through this. He's seen you with your shirt off twice now. Once in his own house. On a box. And he — sewed." She held up a finger. "He's a bodybuilder who makes dresses." Another finger. "He's had you standing in his living room in your underwear, and he picked up a *tape measure*." She looked at Vee. "Vee. Are you sure he's not gay?"
 
 "He's not a bodybuilder, he's a powerlifter, it's a totally different — "
 
@@ -186,7 +186,7 @@ The quiet sat there, warm, for a moment longer. Then Cassie shifted against her 
 
 "Okay — "
 
-"And I could feel his—" Vee reached back and patted her own ass, brisk and clinical, like she was indicating it on a diagram. "His *package*. Right here. When he was pinning the back seam." She nodded with great authority. "Definitely not gay."
+"And I could feel his—" Vee reached back and patted her own ass, brisk and clinical, like she was indicating it on a diagram. "His *package*. Right here. When he was pinning the back seam." She nodded, grave as a witness. "Definitely not gay."
 
 Cassie's eyebrows went up. She sat forward. "He was *grinding* on you?"
 
