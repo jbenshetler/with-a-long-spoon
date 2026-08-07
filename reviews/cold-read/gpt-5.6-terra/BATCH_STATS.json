@@ -1,0 +1,43 @@
+{
+  "model_selector": "gpt-5.6-terra",
+  "model_id": "gpt-5.6-terra",
+  "completed": 2,
+  "generated": 2,
+  "skipped": 0,
+  "total_cost": 0.13751999999999998,
+  "total_input": 31104,
+  "total_output": 18828,
+  "total_tokens": 49932,
+  "per_chapter": [
+    {
+      "slug": "two-towels",
+      "title": "Two Towels",
+      "status": "generated",
+      "cost": 0.06546,
+      "input": 12872,
+      "output": 9929,
+      "totalTokens": 22801,
+      "promptTokens": 12872,
+      "reasoningTokens": 24,
+      "cacheRead": 0,
+      "duration_s": 80.1,
+      "wall_s": 80.1,
+      "path": "reviews/cold-read/gpt-5.6-terra/two-towels.md"
+    },
+    {
+      "slug": "a-round",
+      "title": "A Round",
+      "status": "generated",
+      "cost": 0.07205999999999999,
+      "input": 18232,
+      "output": 8899,
+      "totalTokens": 27131,
+      "promptTokens": 18232,
+      "reasoningTokens": 60,
+      "cacheRead": 0,
+      "duration_s": 77.6,
+      "wall_s": 77.6,
+      "path": "reviews/cold-read/gpt-5.6-terra/a-round.md"
+    }
+  ]
+}

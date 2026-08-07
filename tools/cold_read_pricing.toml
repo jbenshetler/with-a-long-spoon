@@ -16,3 +16,13 @@ output = 30.00   # reasoning included
 [models."gpt-5.6-sol"]
 input = 5.00
 output = 30.00   # reasoning included
+
+# Rates are the DIRECT OpenAI API's. An OpenRouter route for this model was
+# priced (2026-08-06) at $1 in / $6 out and rejected: cold reads emit a full
+# retentive carry-forward every chapter, so the corpus runs ~1.3-1.7:1
+# input:output — below the 2:1 break-even where the cheaper input would pay
+# for the dearer output. Direct is also Responses-API native; OpenRouter is
+# Chat Completions only and would need a port.
+[models."gpt-5.6-terra"]
+input = 2.00
+output = 4.00    # reasoning included

@@ -17,11 +17,20 @@ reviews/cold-read/
   <model-id>/          ← one dir per model, e.g. claude-opus-4-8, gemini-2.5-pro
     <slug>.md          ← per-scene review (Reader reaction + Carry-forward state)
     SYNTHESIS.md       ← that model's arc-level synthesis
+    README.md          ← ONLY if the run has a seam (see "Spliced runs")
 ```
 
 Model dirs are named by **versioned id** (`claude-opus-4-8`, `claude-fable-5`,
 `gemini-2.5-pro`, `gpt-5`, `grok-4`, …). Cross-model comparison is done by reading the
 per-model `SYNTHESIS.md` files side by side.
+
+**Spliced runs.** A run whose model changed mid-book carries a `README.md` in its dir
+naming the donor model and the seam chapter. Its donated chapters are byte-identical
+copies of the donor's files (and keep the donor's `model:` line), so they must **not**
+be counted as an independent read in a cross-model comparison — compare only from the
+seam forward. `gpt-5.6-terra` is the first of these: chapters 1–8 are
+`claude-fable-5`'s, chapter 9 on are terra's. Rules in `SPEC.md`, "Model substitution
+mid-run."
 
 ## Producing a run
 

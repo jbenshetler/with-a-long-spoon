@@ -1,6 +1,6 @@
 ---
 description: Cold read via OpenAI models called directly (Responses API), with a hard per-scene dollar budget
-argument-hint: "--model gpt-5.5|gpt-5.6-sol [--scope fall|<slug>|<a>..<b>] [--budget-usd 2] [--effort low] [--fresh]"
+argument-hint: "--model gpt-5.5|gpt-5.6-sol|gpt-5.6-terra [--scope fall|<slug>|<a>..<b>] [--budget-usd 2] [--effort low] [--fresh]"
 ---
 
 Run a **cold read using an OpenAI model called directly** (OpenAI Responses API), for
@@ -42,7 +42,8 @@ carry-forward, and nothing from `meta/`. Single source of truth; no drift.
 
 ## Steps
 
-1. **Parse `$ARGUMENTS`** for `--model` (required: `gpt-5.5` or `gpt-5.6-sol`), and
+1. **Parse `$ARGUMENTS`** for `--model` (required: `gpt-5.5`, `gpt-5.6-sol`, or
+   `gpt-5.6-terra`), and
    optional `--scope` (default `fall`), `--budget-usd`, `--effort`, `--fresh`,
    `--max-attempts`. If `--model` is missing, stop and ask.
 2. **Confirm `OPENAI_API_KEY` is set** in the environment (the script also checks). If
@@ -78,4 +79,9 @@ carry-forward, and nothing from `meta/`. Single source of truth; no drift.
   **staleness** caveats as `/wals-cold-read` apply (see its Step 2.5): downstream
   reviews built on a now-stale carry-forward should be refreshed.
 - These files are drop-in comparable with the Claude runs; compare per-model
-  `SYNTHESIS.md` side by side.
+  `SYNTHESIS.md` side by side. **Exception: a spliced run** (one continued from
+  another model mid-book — see SPEC's "Model substitution mid-run") is comparable
+  only from its seam forward; its donated chapters are byte-identical copies of the
+  donor's and must not be counted as an independent read. Check the model dir's
+  `README.md` for a recorded seam before comparing. `gpt-5.6-terra` is spliced
+  (continues `claude-fable-5` from chapter 9).
