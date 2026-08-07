@@ -32,6 +32,35 @@ seam forward. `gpt-5.6-terra` is the first of these: chapters 1–8 are
 `claude-fable-5`'s, chapter 9 on are terra's. Rules in `SPEC.md`, "Model substitution
 mid-run."
 
+## Chain currency — where each model actually is
+
+**A model dir being full of files does not mean its chain is current.** A file is stale
+if it was read before a later edit to its own chapter's prose, or before a change to the
+cover/blurb the whole run is framed by. Because the chain is sequential, a stale file
+also makes every file after it stale. Check with git — compare a review's last-commit
+date against its `scenes/<slug>.md`, and against the cover commit `4fe7d55`.
+
+As of **2026-08-06**, the live (current-cover, current-prose) chains end at:
+
+| model | live through | note |
+|---|---|---|
+| `gpt-5.6-terra` | **ch. 15** (`a-round`) | spliced from fable at ch. 9 |
+| `gpt-5.5` | **ch. 15** | |
+| `gpt-5.6-sol` | **ch. 15** | |
+| `claude-fable-5` | **ch. 8** (`may-i-choose`) | retired — Anthropic budget exhausted; continued as `gpt-5.6-terra` |
+| `claude-opus-4-8` | **ch. 8** | see below |
+
+The `c6b56c9` re-run under the corrected cover regenerated only chapters 1–8 for fable
+and opus, so **their ch. 9+ files are all pre-cover and must not be read as current.**
+
+**Author ruling 2026-08-06 — opus is not being advanced.** Bringing `claude-opus-4-8`
+to ch. 15 would cost seven `blind-reader` runs (ch. 9–13 regenerated, then 14–15)
+against the same scarce Anthropic budget that retired fable. Three current models
+(terra, gpt-5.5, sol) are sufficient for comparison at this stage. Opus's ch. 9+ files
+are **left in place but stale** — do not cite them, and do not resume its chain without
+regenerating from ch. 9. If opus is wanted later, the options are to spend the seven
+runs or to splice it onto a cheaper model from the ch. 8 seam, as fable was.
+
 ## Producing a run
 
 - **Claude tiers** (opus/fable/sonnet/haiku): `/wals-cold-read --model <id> [target]` in
