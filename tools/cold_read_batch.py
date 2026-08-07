@@ -195,8 +195,47 @@ def has_valid_review(path: Path) -> bool:
     return bool(txt.split("## Carry-forward state", 1)[1].strip())
 
 
+# The reaction's structured block (Cast present / Heat / Romance / Motifs /
+# Symbolism / Characterization / Pace) belongs under `## Reader reaction`. Models
+# intermittently emit it AFTER the carry-forward heading instead — observed 3x in
+# 9 gpt-5.6-terra runs. split_reader() then faithfully files it under the wrong
+# section, and na.py (which indexes ONLY `## Reader reaction`) silently loses the
+# Heat/Romance ratings for that chapter. Repair it here so it cannot reach disk.
+_BLOCK_START = re.compile(r"(?im)^\s*(?:#{1,4}\s*)?\*\*(?:Cast present|Heat|Romance)\b")
+_LEDGER_START = re.compile(
+    r"(?im)^\s*(?:#{1,4}\s*)?(?:\*\*)?"
+    r"(?:Who.s who|Motif & image ledger|Symbolism noticed|Open questions|"
+    r"Running memory|Story so far|How I feel)\b"
+)
+
+
+def relocate_structured_block(reader: str, carry: str):
+    """Move a misplaced structured block from the carry-forward back into the
+    reaction. Returns (reader, carry, moved: bool). No-op when placement is fine."""
+    if not carry.strip() or _BLOCK_START.search(reader or ""):
+        return reader, carry, False
+    if not _BLOCK_START.match(carry.lstrip("\n")):
+        return reader, carry, False
+    ledger = _LEDGER_START.search(carry)
+    if not ledger:
+        # Whole carry-forward looks like a structured block — that is a genuinely
+        # malformed response, not a misplacement. Leave it for the caller to reject.
+        return reader, carry, False
+    block = carry[: ledger.start()].strip()
+    remainder = carry[ledger.start() :].strip()
+    if not block or not remainder:
+        return reader, carry, False
+    return f"{reader.rstrip()}\n\n### Structured block\n\n{block}", remainder, True
+
+
 def write_review(out_dir: Path, model_id: str, model_selector: str, scene, response_text, predecessor, provider_label: str = "OMP"):
     reader, carry = split_reader(response_text)
+    reader, carry, moved = relocate_structured_block(reader, carry)
+    if moved:
+        print(
+            json.dumps({"slug": scene["slug"], "repaired": "structured-block-relocated"}),
+            flush=True,
+        )
     if not reader or not carry:
         raise ValueError(
             f"missing sections for {scene['slug']}: reader={len(reader)} carry={len(carry)}"
