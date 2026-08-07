@@ -28,7 +28,7 @@ the echo shortlist with the author before per-chapter editing starts).
 | 20 | Fed | fed | reviewed |
 | 21 | Peekaboo | peekaboo | reviewed |
 | 22 | All Told | all-told | reviewed |
-| 23 | Sorority | sorority | edited |
+| 23 | Sorority | sorority | reviewed |
 | 24 | Gone | gone | edited |
 | 25 | Rock | rock | edited |
 | 26 | Lesson | lesson | pending |

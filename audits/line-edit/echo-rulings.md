@@ -322,3 +322,56 @@ FIX-AT. Do not vary either occurrence before that count exists.
   body-or-action-before-decision family (#8 / #8b). Breaks the `before s/he'd
   decided to` stem, so it is **not** counted against the #8 ration; logged for
   the family's end-of-pass inventory only.
+
+## Batch 7 (ruled 2026-08-07, during the Sorority review)
+
+29. **#6 "a held breath" — progress.** `sorority:85` varied at its review
+    ("a heel that looked like it could not possibly hold her"). The
+    replacement was chosen to set up `sorority:97` ("less like wearing a shoe
+    than being stood up by one") rather than merely to dodge the echo —
+    **the general form: when a FIX-AT forces a rewrite, prefer a replacement
+    that earns something twelve lines later over a like-for-like swap.**
+    Remaining Vol-1 occurrences to vary: `school-nights:17`, `under-the-rug:71`.
+    Keeper unchanged: `standards.md:141`.
+30. **"delighted" as a narrator label for Randi — FIX-AT, ruled twice now.**
+    {{All Told}} (2026-08-07) kept `:51` and cut `:29`/`:57`; {{Sorority}}
+    (same day) cut `:7` and `:65` and kept `:61`'s "Something delighted broke
+    over Randi's whole face" and `:65`'s "the delight had folded". **The rule:
+    keep the occurrence where delight is the grammatical subject doing
+    something; cut the ones where it is an adverbial label pinned to a speech
+    or a movement Randi's own dialogue already performs.** Applies book-wide
+    to Randi without re-litigation.
+31. **The floor/ground-moving figure for a shock — RATION, one per chapter.**
+    `sorority:79` (money) and `:93` (the toe-touch) used it fourteen lines
+    apart for two different shocks; `:79` cut. **Tiebreak rule when two
+    instances compete: keep the one a later sentence *answers*** — `:93`'s
+    swing is what Vee's hand shoots out to stop, so it is load-bearing;
+    `:79`'s was decoration. Check other chapters for siblings at the
+    end-of-pass harvest.
+
+### Unruled candidates logged from Sorority
+
+- **"take in the whole/all of it" as an appraisal move for Randi** —
+  `sorority:5` ("taking the whole double in with one bright sweep") and `:21`
+  (varied at this review). Randi-looking is a tracked axis; if the
+  construction recurs across the SATC chapters it wants a PROTECT-the-move /
+  vary-the-wording ruling like #5, not a FIX-AT.
+- **"like a girl who rode in cars like this"** (`:35`) — the
+  `like a girl who…` self-description shape. Almost certainly recurs; check
+  the full set before varying any instance.
+- **"the kind of shoe with no occasion because every day of her life was its
+  occasion"** (`:109`) — the Randi-wealth formulation. Reader-praised as part
+  of the two-purchases contrast (four of five); if a sibling exists,
+  `sorority` has the claim.
+- **"stop the room" / "stop the room cold"** (`:27`, `:55`, `:69`, `:99`) —
+  four in one chapter, and it reads as **designed** (it is the promise Randi
+  makes and the picture Vee rehearses). Flagged here so the gala/induction
+  chapter's editor knows the phrase is loaded before reaching for it: the
+  payoff belongs to {{The Induction}}, and any *third-party* use in between
+  dilutes it.
+- **"an apology" for the lesser object** (`:85`, `:101`) — twice in one
+  chapter, both surviving this review because the second is the reader-quoted
+  turn. Check book-wide for the same figure applied to clothing.
+- **`Something [verb]ed in/over [X]'s [body part]`** — `sorority:61` is a
+  third instance (with `all-told:49`, `all-told:59`). Strengthens the case for
+  an end-of-pass FIX-AT harvest on this frame.

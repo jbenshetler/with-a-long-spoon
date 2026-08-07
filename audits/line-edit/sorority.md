@@ -72,3 +72,24 @@ The chapter is strongest where it trusts a single flat sentence after a long one
 - "the kind of shoe with no occasion because every day of her life was its occasion" (`:109`) — Randi-wealth formulation; check for siblings.
 - "the whole of it" (`:21`, `:101`) — under the `whole-of` linter tic, book-wide.
 - **PROTECTED, listed for completeness, do not vary:** "The full beam, all at once" (`:13`) — attention-as-lamp, echo-rulings #18.
+
+## Author rulings (2026-08-07)
+
+1. `:19` telegraph — **b**: cut to "Vee held still under the hand, the silk pressed where Randi had settled it." (also resolves finding 3, "cool" ×3).
+2. `:39` "as hunts do…" — **a**: clause cut.
+3. `:43` "Making herself enormous…" — **a**: sentence cut.
+4. `:51` tripled softening — **a**: cut "and she let it go before it could be anything"; Vee's own cover story kept.
+5. `:83` gloss stack — **a**: cut to "The word was more than Vee had ever let herself call him, and Pace rearranged in her own chest into something adult and lit."
+6. `:101` — **a**: cut "A small betrayal of the whole of it."; "It would be wrong." and the reader-quoted pair kept.
+7. `:109` price ×3 — **b** (editor recommendation inverted, and reader-quote evidence inverted with it): anchored form kept, "several times it" cut.
+8. `:105` "nothing" ×2 — **a**: cut "with nothing behind it but next month".
+9. `:85` held breath (pre-ruled FIX-AT #6) — **a**: "a heel that looked like it could not possibly hold her".
+10. floor ×2 — **a** (editor recommendation inverted): cut at `:79`, not `:93`.
+11. "delight" ×4 — **b**: cut `:65` "delighted with the pair of them" and `:7` "delighted".
+12. `:5` opening spine — **a**: split; "she'd brought in" → "Randi had brought in" to preserve the 2026-08-01 referent fix.
+13. `:117` closing laugh — **b**: "whole and unrehearsed, the kind that bends you at the middle."
+14. `:113` "her mouth went dry and fond" — **a**, on the author's own diagnosis (POV: Vee cannot perceive a dry mouth on Randi; "dry" and "fond" are incompatible registers welded together): clause cut, the dialogue carries it.
+15. `the way` cluster — **b**: `:9` and `:15` recast to "as"; `:7`, `:13`, `:81`, `:95` kept and argued.
+16. `:21` "the whole of it" — **a**: → "take in all of it again".
+
+**Linter sweep (A–H) presented but NOT ruled** — no `--ack` written, no sweep fix applied. See the triage doc.

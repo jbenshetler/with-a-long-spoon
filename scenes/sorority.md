@@ -2,23 +2,23 @@
 
 ---
 
-The knock came earlier than Vee was ready for, and then Randi was in the doorway of the room — gold and easy in the cinderblock dim, sunglasses pushed up into her hair, taking the whole double in with one bright sweep, and the room reorganized itself around her the way rooms did, the bunked beds and the milk-crate shelves and the Stevie Nicks poster, *Bella Donna*, Vee'd hung freshman year and long stopped seeing all of it suddenly visible again, smaller, lit by what she'd brought in with her.
+The knock came earlier than Vee was ready for, and then Randi was in the doorway of the room — gold and easy in the cinderblock dim, sunglasses pushed up into her hair, taking the whole double in with one bright sweep, and the room reorganized itself around her. The bunked beds, the milk-crate shelves, the Stevie Nicks poster, *Bella Donna*, Vee'd hung freshman year and long stopped seeing: all of it suddenly visible again, smaller, lit by what Randi had brought in with her.
 
-"So this is the nest." Randi stepped in, delighted. Her eyes went over Cassie's bunk — made tight and square, the corners done the way Cassie did everything, nobody home — and came back to Vee warm. "Show me. You've made me wait a whole week. I've had to *hear* about it and not see it and I'm dying, genuinely dying. Where is it."
+"So this is the nest." Randi stepped in. Her eyes went over Cassie's bunk — made tight and square, the corners done the way Cassie did everything, nobody home — and came back to Vee warm. "Show me. You've made me wait a whole week. I've had to *hear* about it and not see it and I'm dying, genuinely dying. Where is it."
 
-Vee had it in the garment bag on the back of the door. She'd half-meant to just unzip it and hold it up on the hanger, which was the sane way to show a dress to a friend — but the wanting got there before the plan, the wanting to be *seen* in it the way she'd been seen in his mirror, and she heard herself say "give me a second" and carried the bag through to the bathroom and put it on.
+Vee had it in the garment bag on the back of the door. She'd half-meant to just unzip it and hold it up on the hanger, which was the sane way to show a dress to a friend — but the wanting got there before the plan, the wanting to be *seen* in it as she'd been seen in his mirror, and she heard herself say "give me a second" and carried the bag through to the bathroom and put it on.
 
 Coming back was its own small ceremony. She came out of the bathroom in it, bare-shouldered, the hem just off the floor without the shoes, and stood in the middle of the room and let Randi look.
 
 And Randi looked. The full beam, all at once — but for a second before any word came there was only the looking, Randi gone still with it, her eyes traveling down the long bias line and back up the way you take in a thing you're going to have to account for.
 
-"Oh, *baby*." It came out on a breath. "Turn for me — slow." Vee turned the way she'd turned at the mirror, and felt the slit fall open on her leg and swing shut. "…*God*, Vee."
+"Oh, *baby*." It came out on a breath. "Turn for me — slow." Vee turned as she'd turned at the mirror, and felt the slit fall open on her leg and swing shut. "…*God*, Vee."
 
 Randi crossed to her. She took a fold of the skirt between two fingers, at the hip, where the burgundy ran down into the plum beneath — not pinching, just feeling it, the silk sliding cool over her knuckle. "Charmeuse," she said, not to Vee; to herself, or to the dress. Her fingers moved up the seam, following the bias where it crossed Vee's body, reading the cut as her eyes had, and came to rest at the bare shoulder where the line began, the silk cool there and Vee warm under it. "And a good weight." A verdict, in a word Vee would never have reached for.
 
-Vee held still under the hand. The cool press of the silk where Randi settled it against her shoulder, the small stillness, the pleasure of being looked at — and one faint thing under it she didn't stop to name.
+Vee held still under the hand, the silk pressed where Randi had settled it.
 
-Randi stepped back to take in the whole of it again. "He didn't make this *for* you," she said. "He made it *to* you."
+Randi stepped back to take in all of it again. "He didn't make this *for* you," she said. "He made it *to* you."
 
 And Vee, who had stood in his sun porch and cried over precisely this without a word for it, felt the word land — *to* — felt it name the thing the tears had been about, that he'd built it onto her out of nothing while she stood there and held still, and her throat did the thing again.
 
@@ -36,11 +36,11 @@ The Mercedes sat in the bypass lot, dark green going to black, too much car for 
 
 They started where Vee started everything, the big bright store off the bypass, shoes out by the hundred on their steel racks, the try-on benches bolted to the floor, a clearance wall in the back you had to earn. Here the ground was hers. She knew which racks lied about a size and which aisle hid the real half-offs, and she went in with a plan, working the wall for something that could stand next to burgundy and not apologize.
 
-It did not go well. The trouble wasn't that the place had nothing sexy. The racks were full of it, strappy and high and almost-right. The trouble was that the sexy was cheap where it showed: patent that was more plastic than leather, a wobble in the heel, a sole that stuck to her foot. Nothing with an arch, nothing that would hold her, nothing built to stand next to a dress a man had cut by hand; and what would actually last ran to tan and sensible and utterly wrong for her gown. Randi worked the far end and came back with nothing. Twenty minutes in, they had a bench between them stacked with nos, and the hunt tipped over, as hunts do when they stop paying out, into the other thing.
+It did not go well. The trouble wasn't that the place had nothing sexy. The racks were full of it, strappy and high and almost-right. The trouble was that the sexy was cheap where it showed: patent that was more plastic than leather, a wobble in the heel, a sole that stuck to her foot. Nothing with an arch, nothing that would hold her, nothing built to stand next to a dress a man had cut by hand; and what would actually last ran to tan and sensible and utterly wrong for her gown. Randi worked the far end and came back with nothing. Twenty minutes in, they had a bench between them stacked with nos, and the hunt tipped over into the other thing.
 
 It started when Randi wedged herself into something strappy that plainly was not going to happen and blamed the shoe. "It's cut small," she said, and Vee said it was not cut small, and that some people just needed to make peace with their feet. Randi gave her a wounded look and went back to the racks. A minute later Vee came back from the end wall with a single shoe the size of a canoe, a sole like a snow tire, and set it down in front of her without a word. "Found your size. Do yetis shop here?"
 
-Randi laughed, and went to top it. Vee lost sight of her in the sale racks; when she looked up Randi was already coming back down the aisle toward her, gone a full head taller and taking it like it cost her nothing: six-inch platforms bedazzled toe to ankle in pink rhinestones, her own heels hooked off two fingers. Making herself enormous, apparently, was the answer to being called big-footed. She stopped in front of Vee, grave and strained, a woman at serious work, turned a foot to the light to weigh it honestly, and asked, "Do these go with burgundy?"
+Randi laughed, and went to top it. Vee lost sight of her in the sale racks; when she looked up Randi was already coming back down the aisle toward her, gone a full head taller and taking it like it cost her nothing: six-inch platforms bedazzled toe to ankle in pink rhinestones, her own heels hooked off two fingers. She stopped in front of Vee, grave and strained, a woman at serious work, turned a foot to the light to weigh it honestly, and asked, "Do these go with burgundy?"
 
 Vee lost it — laughed till her legs quit and plopped onto the try-on bench.
 
@@ -48,7 +48,7 @@ Then she found her answer: a limp flat off the clearance wall, the seam already 
 
 That was the one that got Randi, got her all the way, folded her over the bench, the real laugh, the one that costs her something to give. And Vee stood in the ruined-shoe wreckage of her own store feeling like the funniest woman in Virginia.
 
-Somewhere in it she caught an older couple stopped by the boots to watch them — a little flush, there and gone, just two girls being silly over shoes — and she let it go before it could be anything.
+Somewhere in it she caught an older couple stopped by the boots to watch them — a little flush, there and gone, just two girls being silly over shoes.
 
 They pulled themselves together. And when they had, Vee went and found the one that would work, two racks over, and carried it back to the bench: a tan heel, fine, a height she could stand a whole night in, a price that didn't make the debit flinch. She turned it over in her hands and talked herself into it out loud, which was the same as talking Randi into it.
 
@@ -62,7 +62,7 @@ Something delighted broke over Randi's whole face. "That's me. That's me exactly
 
 Vee opened her mouth and found she had nowhere on earth to stand.
 
-"Same feet, baby. Same size, same everything." Randi was up off the bench, gathering her bag and her sunglasses and the whole afternoon with them, delighted with the pair of them. "Do you know what this means? We can share. God help us both, it's practically a marriage." She got to the end of the aisle before she turned back, and the delight had folded into something warmer and surer, and she looked at the tan heel still in Vee's hand. "Which is exactly why you're not buying that."
+"Same feet, baby. Same size, same everything." Randi was up off the bench, gathering her bag and her sunglasses and the whole afternoon with them. "Do you know what this means? We can share. God help us both, it's practically a marriage." She got to the end of the aisle before she turned back, and the delight had folded into something warmer and surer, and she looked at the tan heel still in Vee's hand. "Which is exactly why you're not buying that."
 
 "It's the sensible one," Vee said, but weakly; she could feel where this was going.
 
@@ -76,13 +76,13 @@ This time the car was the right amount of car. It sat outside the little shop as
 
 The dress hung where Randi had settled it, careful with it, on a brass hook at the end of the fitting bench, there for exactly this — back in its bag but for the top foot left unzipped so the shoulder showed, the one real color in a place done entirely in brass and black lacquer and dove gray. It was not a store Vee would ever have walked into on her own.
 
-The shoes here were set out one to a shelf, each on its own little block of bleached wood, lit, with nothing so vulgar as a price anywhere near them. She lifted the first that caught her, a plain black heel, lovely, exactly the kind of thing, and turned it over, and found the number written small on the leather of the sole, and the floor did a quiet thing under her. She set it back down. She ran the math she knew how to run, the TJMaxx math, the most-I-could math, and the number on that sole started beyond where her most ended and kept on going.
+The shoes here were set out one to a shelf, each on its own little block of bleached wood, lit, with nothing so vulgar as a price anywhere near them. She lifted the first that caught her, a plain black heel, lovely, exactly the kind of thing, and turned it over, and found the number written small on the leather of the sole. She set it back down. She ran the math she knew how to run, the TJMaxx math, the most-I-could math, and the number on that sole started beyond where her most ended and kept on going.
 
 She could not say it. Could not stand in this expensive hush and tell Randi, who belonged here the way she belonged everywhere, who was already down the lit shelves touching things, that she could not afford to be inside the door. So she did nothing, which was its own kind of going under, and stood there holding a quiet the exact shape of what was in her account.
 
-Randi was beside her before the quiet could set. "Baby. A dress your *lover* made you?" The word dropped in easy and glamorous, *lover*, more than Vee had ever let herself call him, and exactly right the instant Randi said it, so that Pace rearranged in her own chest into something adult and lit. She was already moving, already lifting a shoe off its block at the front and turning back with it. "It goes on these."
+Randi was beside her before the quiet could set. "Baby. A dress your *lover* made you?" The word was more than Vee had ever let herself call him, and Pace rearranged in her own chest into something adult and lit. She was already moving, already lifting a shoe off its block at the front and turning back with it. "It goes on these."
 
-It was higher than anything Vee owned and barely there, a few thin black straps webbed across the foot, a heel like a held breath, and it was, she saw it at once, completely right, the kind of right that made the tan one back at the first place, the one that would have gone with everything, look like an apology she'd been about to make to no one.
+It was higher than anything Vee owned and barely there, a few thin black straps webbed across the foot, a heel that looked like it could not possibly hold her, and it was, she saw it at once, completely right, the kind of right that made the tan one back at the first place, the one that would have gone with everything, look like an apology she'd been about to make to no one.
 
 The woman who worked there came over with the box, and Randi put up a hand, easy — "I've got her" — and took the box herself and went down onto one knee in front of the bench, on the pale floor, in her own beautiful clothes, and patted the seat for Vee to sit.
 
@@ -98,20 +98,20 @@ And the shoe held her. That was the thing the tan one would never have done: it 
 
 She looked down the length of her own legs, both flats gone, all leg now, the bare line of the calf running up to where the slit would fall. And there it was, the picture she'd been rehearsing in private for a week: in late, the door, the whole room turning to find her. In these she could do it. In these she would.
 
-Her eyes went to the dress on its hook, and the number on the sole quietly stopped being the thing. A different arithmetic had taken the wheel, the only one that counted now: that the gown was the most beautiful thing she would ever own and it had been made *to* her by a man who had thought of nothing else for a week, and you did not, you *could* not, set a thing like that down onto shoes that were an apology. It would be wrong. A small betrayal of the whole of it. The shoes were not a want she had to own as a want. They were what the dress was owed.
+Her eyes went to the dress on its hook, and the number on the sole quietly stopped being the thing. A different arithmetic had taken the wheel, the only one that counted now: that the gown was the most beautiful thing she would ever own and it had been made *to* her by a man who had thought of nothing else for a week, and you did not, you *could* not, set a thing like that down onto shoes that were an apology. It would be wrong. The shoes were not a want she had to own as a want. They were what the dress was owed.
 
 At the front the woman folded the heels in tissue and laid them in their box and the box in a bag with rope handles, and Vee got out her card.
 
-Not the debit. She stood there a half-second with the debit between her fingers, the card she paid her own way with, the one that only ever spent what was already behind it, and felt the last careful thing in her give way, and put it back, and took out the other one, the credit card she kept for emergencies and gas and the months that ran long, and laid that on the counter instead. The number was the most she had ever once handed across a counter for anything that wasn't tuition or rent. There was nothing under it. She knew that even while she did it — that she did not have the next part, the paying-it-back part, that it would be sitting there next month with nothing behind it but next month — and she signed her name and smiled and let none of it reach her face, because the one thing she would not do in this room was flinch.
+Not the debit. She stood there a half-second with the debit between her fingers, the card she paid her own way with, the one that only ever spent what was already behind it, and felt the last careful thing in her give way, and put it back, and took out the other one, the credit card she kept for emergencies and gas and the months that ran long, and laid that on the counter instead. The number was the most she had ever once handed across a counter for anything that wasn't tuition or rent. There was nothing under it. She knew that even while she did it — that she did not have the next part, the paying-it-back part, that it would be sitting there next month — and she signed her name and smiled and let none of it reach her face, because the one thing she would not do in this room was flinch.
 
 Beside her, while she did it, Randi had picked up a pair of her own.
 
-She'd seen them on the way in — a loafer, soft and dark, the kind of shoe with no occasion because every day of her life was its occasion, and she set them on the counter next to Vee's box, and a card came out of her wallet without her seeming to choose it, and the number that rang up was a multiple of Vee's, several times it, the price of the shoes Vee was white-knuckling and then several times that again, and Randi never once looked at it. She was telling Vee a story about a woman who'd ruined a coat doing the tailoring, the whole time, her hands going, and she signed without glancing down and asked the woman to box her old heels, because she'd wear these out.
+She'd seen them on the way in — a loafer, soft and dark, the kind of shoe with no occasion because every day of her life was its occasion, and she set them on the counter next to Vee's box, and a card came out of her wallet without her seeming to choose it, and the number that rang up was a multiple of Vee's — the price of the shoes Vee was white-knuckling, and then several times that again — and Randi never once looked at it. She was telling Vee a story about a woman who'd ruined a coat doing the tailoring, the whole time, her hands going, and she signed without glancing down and asked the woman to box her old heels, because she'd wear these out.
 
 And she did. She walked out of the boutique in brand-new shoes like it was nothing on earth, like shoes were a thing you simply traded mid-afternoon when you happened past better ones. And Vee carried her own box out against her chest with both arms, the rope handle not enough for it, holding the thing she'd just bought like it might get up and leave her.
 
-The afternoon had gone gold on the sidewalk. Randi was still going, the coat woman or some new thing, and then she looked over at Vee with the box clutched up under her chin and her mouth went dry and fond.
+The afternoon had gone gold on the sidewalk. Randi was still going, the coat woman or some new thing, and then she looked over at Vee with the box clutched up under her chin.
 
 "You can put it in the trunk, you know," she said. "It's not going to *spoil*."
 
-And it caught Vee right under the rib — caught holding the box like that, like a girl who had never in her life bought a beautiful thing and didn't trust the world with it — and the laugh came up out of her real and whole and unrehearsed, the kind that bends you at the middle, the kind you cannot perform. Randi caught it and laughed too, pleased, lit with it, the two of them stopped on the bright sidewalk laughing over the boxes and the bag, the dress in its gray nylon hanging off Randi's arm between them. And Vee thought, as she had been thinking lately and could not stop, that she had never once in her life had a friend like this.
+And it caught Vee right under the rib — caught holding the box like that, like a girl who had never in her life bought a beautiful thing and didn't trust the world with it — and the laugh came up out of her whole and unrehearsed, the kind that bends you at the middle. Randi caught it and laughed too, pleased, lit with it, the two of them stopped on the bright sidewalk laughing over the boxes and the bag, the dress in its gray nylon hanging off Randi's arm between them. And Vee thought, as she had been thinking lately and could not stop, that she had never once in her life had a friend like this.
