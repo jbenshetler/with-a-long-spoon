@@ -38,20 +38,21 @@ the echo shortlist with the author before per-chapter editing starts).
 | 30 | The Practice Room | practice-room | edited |
 | 31 | The Induction | the-induction | edited |
 | 32 | We Find Out | we-find-out | edited |
-| 33 | One Bite | one-bite | edited |
-| 34 | Above Him | above-him | edited |
-| 35 | School Nights | school-nights | edited |
-| 36 | In His Hands | in-his-hands | edited |
-| 37 | All the Time | all-the-time | edited |
-| 38 | The Outlier | outlier | edited |
-| 39 | The New Ordinary | new-ordinary | edited |
-| 40 | Cropped | cropped | edited |
-| 41 | Seconds | seconds | edited |
-| 42 | Under the Rug | under-the-rug | edited |
-| 43 | Bare | bare | edited |
-| 44 | Believe Me | believe-me | edited |
-| 45 | Fairytale | fairytale | edited |
-| 46 | Old Acquaintances | old-acquaintances | edited |
-| 47 | The Usual | the-usual | pending |
-| 48 | My Friend Randi | my-friend-randi | pending |
-| 49 | Nothing Underneath | nothing-underneath | pending |
+| 33 | Made-Up | made-up | pending |
+| 34 | One Bite | one-bite | edited |
+| 35 | Above Him | above-him | edited |
+| 36 | School Nights | school-nights | edited |
+| 37 | In His Hands | in-his-hands | edited |
+| 38 | All the Time | all-the-time | edited |
+| 39 | The Outlier | outlier | edited |
+| 40 | The New Ordinary | new-ordinary | edited |
+| 41 | Cropped | cropped | edited |
+| 42 | Seconds | seconds | edited |
+| 43 | Under the Rug | under-the-rug | edited |
+| 44 | Bare | bare | edited |
+| 45 | Believe Me | believe-me | edited |
+| 46 | Fairytale | fairytale | edited |
+| 47 | Old Acquaintances | old-acquaintances | edited |
+| 48 | The Usual | the-usual | pending |
+| 49 | My Friend Randi | my-friend-randi | pending |
+| 50 | Nothing Underneath | nothing-underneath | pending |
