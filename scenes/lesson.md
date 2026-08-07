@@ -32,7 +32,7 @@ She was dressed by five-thirty. She changed the shirt and changed it back.
 
 ---
 
-He was in the common area when she came off the elevator — she had a moment to see him before anything was said. Recently polished boots. Jeans with a crease pressed into them. A short-sleeved knit shirt despite the October cold, which she didn't understand at first and then did: he'd dressed for the dancing, not the weather. He was freshly shaved. He was carrying a boom box — battered, the handle wrapped in electrical tape, the kind of machine that belonged to a decade she hadn't been alive for.
+He was in the common area when she came off the elevator — she had a moment to see him before anything was said. Recently polished boots. Jeans with a crease pressed into them. A short-sleeved knit shirt despite the October cold, which she didn't understand at first and then did: he'd dressed for the dancing, not the weather. Freshly shaved. A boom box — battered, the handle wrapped in electrical tape, the kind of machine that belonged to a decade she hadn't been alive for.
 
 He held the door.
 
@@ -44,7 +44,7 @@ They walked across campus, up past the science buildings toward the basketball g
 
 "Shouldn't I start with a two-step?" she said. "Or a one-step?"
 
-"Most of what you'll hear tonight is a better fit for the three-step. For the same beat, the three-step is easier, slower steps than the two-step. I know it doesn't make any sense."
+"Most of what you'll hear tonight is a better fit for the three-step. For the same beat, the three-step takes slower steps than the two-step. Easier. I know it doesn't make any sense."
 
 "The basic step is back on the right, back on the right, then back on the left. One-and-two, three-four." He showed her: his feet, slow and patient, on the concrete. "The *and* is just a change of weight — that's what lets the same foot go back twice."
 
@@ -72,7 +72,7 @@ He began to dance with her.
 
 ---
 
-She kept softening — going jelly the moment she tried to move, which meant he had nothing to push back against, which meant the lead went nowhere. He corrected her without comment, repositioning, waiting, starting again. Then she overcorrected.
+She kept softening — going jelly the moment she tried to move. He corrected her without comment, repositioning, waiting, starting again. Then she overcorrected.
 
 "Your left arm," he said. "You're holding yourself out."
 
@@ -82,7 +82,7 @@ She looked at the space between them, the few inches she'd apparently been maint
 
 "That's what gets you stepped on," he said. "The space you're keeping. Close it — come all the way in — and my feet can't land anywhere but past yours."
 
-She said nothing. She adjusted. He waited until she'd settled — or what she thought was settling, her version of it — and then he moved, and her feet scrambled to follow, a half-beat late, stepping on nothing, recovering wrong.
+She adjusted. He waited until she'd settled — or what she thought was settling, her version of it — and then he moved, and her feet scrambled to follow, a half-beat late, stepping on nothing, recovering wrong.
 
 They stopped.
 
@@ -94,7 +94,7 @@ His hand firmed at her back, a degree and no more. "Again."
 
 ---
 
-He pressed play on the ancient boombox, the tape warbling up to speed. "That's something my granddad listened to," she said.
+He pressed play on the boom box, the tape warbling up to speed. "That's something my granddad listened to," she said.
 
 "Some of the older songs have a clearer beat. It doesn't get lost in the extra." It was sparse, pretty.
 
@@ -102,15 +102,15 @@ She fought it for ten minutes. She kept anticipating — reading the motion and 
 
 She lost the beat again. "Sorry."
 
-"There's no sorry" — slow, grave, a man delivering doctrine — "unless you take off a foot."
+"There's no sorry" — slow, grave — "unless you take off a foot."
 
 She laughed. Then his smile came up through the gravity and he laughed too.
 
-The music kept going. The pad was empty and the field lights were cold and she was aware of how ridiculous this was and also aware that she did not want to stop.
+The music kept going. The pad was empty and the field lights were cold and it was ridiculous and she did not want to stop.
 
 And then something gave.
 
-She wasn't sure what she did differently. She stopped guessing — or guessing stopped happening, the decision pulled from her somehow — and the pressure of her hand on his shoulder became readable, actual information, and she was moving. The pattern came through his body before it arrived in her feet. She felt the turn before it happened. Her feet landed where they were supposed to land.
+She wasn't sure what she did differently. She stopped guessing — or guessing stopped happening, the decision pulled from her somehow — and the pressure of her hand on his shoulder became readable, actual information, and she was moving. The pattern came through his body before it arrived in her feet. Her feet landed where they were supposed to land.
 
 They went around the pad once, twice. She wasn't thinking about the steps.
 
@@ -122,7 +122,7 @@ She said nothing. She was busy.
 
 The boom box rode behind the seat of his truck, the town falling away behind them.
 
-The Rusty Nail was loud and warm when they walked in, the kind of warm that came from bodies and not from the heat being turned up — a real crowd, people who knew what they were doing. The floor was already moving. She stood in the entrance for a moment and felt the difference between the pad and this: the lesson had been private and deliberate, and this was alive, and she was going to be visible.
+The Rusty Nail was loud and warm when they walked in, the kind of warm that came from bodies and not from the heat being turned up — a real crowd, people who knew what they were doing. The floor was already moving. She stood in the entrance for a moment. She was going to be visible.
 
 He paid at the door, and a girl at the till stamped the backs of their hands and said *hey, Pace* like she'd been waiting all night to. They went looking for a table along the wall and didn't get there quickly. People knew him. A man caught his shoulder going past; two women came off the rail with their arms already open, and there was a round of hugs — the easy collision of people glad to see somebody. *This is Vee,* he said, each time, and each time she got a handshake or a one-armed hug meant mostly for him.
 
@@ -140,9 +140,9 @@ For one song she was good, and the goodness still surprised her — not that she
 
 *Don't think,* she told herself. *Just feel the lead.*
 
-She gave the frame her weight. And the floor came back to her — his hand at her back, even and exact, the turn arriving before she'd decided anything to do about it. The frame she'd fought on the pad as too close, too fixed, too much rule, was the thing doing it now: it held her in the one place the next step could come from, so there was nothing to do but take it. She stopped counting. Couples moved around them and she didn't touch one.
+She gave the frame her weight. And the floor came back to her — his hand at her back, even and exact, the turn arriving ahead of anything she'd decided. The frame she'd fought on the pad as too close, too fixed, too much rule, was the thing doing it now: it held her in the one place the next step could come from, so there was nothing to do but take it. She stopped counting. Couples moved around them and she didn't touch one.
 
-Once she wasn't braced for the collision she could feel the room again, and the room was partly watching them. Women, mostly — that particular awareness of other women tracking a couple on the floor.
+Once she stopped bracing she could feel the room again, and the room was partly watching them. Women, mostly — that particular awareness of other women tracking a couple on the floor.
 
 She thought: *I'm doing well.*
 
@@ -158,7 +158,7 @@ He went to the bar for drinks. She stood near the wall with her arms at her side
 
 "Y'all look great together."
 
-She turned. A blonde about her own age, country pretty in the standard issue — hair done, makeup put on with intention and no apology for being makeup, the kind that worked in the dark and would be too much by daylight. She said it warm, and kept going. "He's such a great lead, isn't he? Knows how to get a girl to do just what he wants her to." A sip of her drink, her eyes on Vee over the rim. "All us girls love him. He's so good about getting a girl home safe at the end of the night."
+She turned. A blonde about her own age, country pretty in the standard issue — hair done, makeup with no apology for being makeup, the kind that worked in the dark and would be too much by daylight. She said it warm, and kept going. "He's such a great lead, isn't he? Knows how to get a girl to do just what he wants her to." A sip of her drink, her eyes on Vee over the rim. "All us girls love him. He's so good about getting a girl home safe at the end of the night."
 
 And she moved off, pleased with herself, before Vee could find anything to say back.
 
@@ -176,7 +176,7 @@ The ease went out of his face. Not anger — the good mood just draining off him
 
 "Yes," he said. "Sometimes. When it's required."
 
-He'd answered straight — and it wouldn't have mattered what he said. She was already angry, and some part of her wanted to stay that way, and nothing he could put into that moment was going to make it all right.
+He'd answered straight — and it wouldn't have mattered what he said. She was already angry, and some part of her wanted to stay that way.
 
 "I don't need you to get me home safely." Her face was hot. "I'll handle that myself."
 
@@ -184,7 +184,7 @@ She set the bottle on the ledge and walked off before he could say anything — 
 
 ---
 
-From across the room she watched it happen. He stood where she'd left him with his bottle. A couple of regulars drifted over — a hand on his shoulder, the easy consolation of people who liked him, someone leaning in to say the thing you say. He shook his head. He set the beer down on the bar, untouched, and went out, and the door let in a wedge of cold and shut behind him.
+From across the room she watched it happen. He stood where she'd left him with his bottle. A couple of regulars drifted over — a hand on his shoulder, someone leaning in to say the thing you say. He shook his head. He set the beer down on the bar, untouched, and went out, and the door let in a wedge of cold and shut behind him.
 
 ---
 
@@ -228,7 +228,7 @@ She could have called Cassie. She stood outside with her phone in her hand and d
 
 The lot was emptying out, the last of the crowd spilling loud and unsteady into the cold. She waited under the one good light by the door, where the dark didn't quite reach, her arms crossed, and the cab took its time. She heard it before she saw it: something loose and belching under the hood, run well past maintaining. It lurched to the curb.
 
-The back seat had a smell and a sag she chose not to investigate. The driver found her in the mirror. "Long night?" She gave him the address and nothing after it, and he kept catching her eyes in the glass the whole way home while she kept hers on the window.
+The back seat had a smell and a sag she chose not to investigate. The driver found her in the mirror. "Long night?" She gave him the address and nothing after it, and kept her eyes on the window the whole way home.
 
 The fare was more than she'd guessed, and the money had been meant for other things.
 
@@ -240,9 +240,9 @@ His shirt hung on the closet hook — hers now, after the trade, though she'd ne
 
 She lay down on top of the covers.
 
-The room went wrong the way rooms do at that hour — not dark enough, not quiet enough, Cassie's breathing the only easy thing in it. She lay in his shirt and couldn't stop seeing him through their eyes, one girl and then the next. He made them light on their feet. He made them feel feminine, as he'd made her feel. He made them feel safe, and like real people — she knew he could, because he had done exactly that to her, the first time and every time after. He kept them safe. He could have had any one of them, and he hadn't. He'd chosen her. And what she'd thrown in his face was all of it — every good thing she knew to be true about him. She'd punished him for being the man she wanted him to be. The man she knew him to be. A good man. She'd done it to a good man.
+The room went wrong the way rooms do at that hour — not dark enough, not quiet enough, Cassie's breathing the only easy thing in it. She lay in his shirt and couldn't stop seeing him through their eyes, one girl and then the next. He made them light on their feet. He made them feel feminine, as he'd made her feel. He made them feel safe, and like real people. He kept them safe. He could have had any one of them, and he hadn't. He'd chosen her. And what she'd thrown in his face was all of it — every good thing she knew to be true about him. She'd punished him for being the man she wanted him to be. She'd done it to a good man.
 
-And underneath the shame, not touching it, the other thing kept coming back — not a thought, a sensation: his hand at her shoulder blade on the pad, the lead arriving before her feet knew what to do with it, the moment the dance took her and she stopped trying to guess.
+And underneath the shame, the other thing kept coming back — not a thought, a sensation: his hand at her shoulder blade on the pad, the lead arriving before her feet knew what to do with it, the moment the dance took her and she stopped trying to guess.
 
 She lay there with both.
 
@@ -250,4 +250,4 @@ She did not sleep.
 
 ---
 
-When it was light she knew what she was going to do. Not how — the how was a separate problem — but what, which was: go to Randi's. The embarrassment was still there but it had changed temperature overnight, was cool now instead of hot, and cool embarrassment was just information. She'd been wrong. She was going to fix it.
+When it was light she knew what she was going to do. Not how — the how was a separate problem — but what, which was: go to Randi's. The embarrassment was still there but it had changed temperature overnight, and cool embarrassment was just information. She'd been wrong. She was going to fix it.

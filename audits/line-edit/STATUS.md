@@ -31,27 +31,27 @@ the echo shortlist with the author before per-chapter editing starts).
 | 23 | Sorority | sorority | reviewed |
 | 24 | Gone | gone | reviewed |
 | 25 | Rock | rock | reviewed |
-| 26 | Lesson | lesson | edited |
+| 26 | Lesson | lesson | reviewed |
 | 27 | Broken In | broken-in | edited |
 | 28 | Hills and Valleys | hills-and-valleys | edited |
 | 29 | A Recognized Method | recognized-method | edited |
-| 30 | The Practice Room | practice-room | pending |
-| 31 | The Induction | the-induction | pending |
-| 32 | We Find Out | we-find-out | pending |
-| 33 | One Bite | one-bite | pending |
-| 34 | Above Him | above-him | pending |
-| 35 | School Nights | school-nights | pending |
-| 36 | In His Hands | in-his-hands | pending |
-| 37 | All the Time | all-the-time | pending |
-| 38 | The Outlier | outlier | pending |
-| 39 | The New Ordinary | new-ordinary | pending |
-| 40 | Cropped | cropped | pending |
-| 41 | Seconds | seconds | pending |
-| 42 | Under the Rug | under-the-rug | pending |
-| 43 | Bare | bare | pending |
-| 44 | Believe Me | believe-me | pending |
-| 45 | Fairytale | fairytale | pending |
-| 46 | Old Acquaintances | old-acquaintances | pending |
+| 30 | The Practice Room | practice-room | edited |
+| 31 | The Induction | the-induction | edited |
+| 32 | We Find Out | we-find-out | edited |
+| 33 | One Bite | one-bite | edited |
+| 34 | Above Him | above-him | edited |
+| 35 | School Nights | school-nights | edited |
+| 36 | In His Hands | in-his-hands | edited |
+| 37 | All the Time | all-the-time | edited |
+| 38 | The Outlier | outlier | edited |
+| 39 | The New Ordinary | new-ordinary | edited |
+| 40 | Cropped | cropped | edited |
+| 41 | Seconds | seconds | edited |
+| 42 | Under the Rug | under-the-rug | edited |
+| 43 | Bare | bare | edited |
+| 44 | Believe Me | believe-me | edited |
+| 45 | Fairytale | fairytale | edited |
+| 46 | Old Acquaintances | old-acquaintances | edited |
 | 47 | The Usual | the-usual | pending |
 | 48 | My Friend Randi | my-friend-randi | pending |
 | 49 | Nothing Underneath | nothing-underneath | pending |

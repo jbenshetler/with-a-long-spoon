@@ -63,3 +63,52 @@ Distinctive phrasings that may recur elsewhere in the book — logged for the ha
 - **"cool embarrassment was just information"** (`:253`) — the emotion-as-data formulation; check other resolve/dawn chapters.
 - **"the kind of warm that came from bodies and not from the heat being turned up"** (`:125`) — the `X, not Y` warmth definition; check other crowded-room entrances.
 - **"Something loose and belching under the hood, run well past maintaining"** (`:229`) — striking diction ("past maintaining"), rare-word check per ruling #13.
+
+---
+
+## Author rulings (2026-08-07)
+
+0. **Pre-ruled #8b, `:143`** — ruled `c`: vary here. Wording ruled `b` after
+   three rounds (author: "none of those quite have the same sense"; kept "the
+   turn arriving" explicitly). → "the turn arriving **ahead of anything she'd
+   decided**." Ledger #8b now RULED; `all-the-time:55` inherits an unrationed
+   slot.
+1. **`:243` `He made/He kept` run** — ruled `b`. **Editor inverted:** "He kept
+   them safe." kept (the felt/factual pair is the bartender's distinction, and
+   the anaphora break is the point); the em-dash aside cut instead.
+2. **`:243` closing stack** — ruled `c`. → "the man she wanted him to be.
+   She'd done it to a good man." Editor's `d` (ending at "wanted him to be")
+   declined: that is the sentence 5.6-sol named as over-certain.
+3. **`:113` breakthrough trio** — ruled `a`. Cut "She felt the turn before it
+   happened." Reader-protected first sentence kept; the cut also protected
+   `:143`.
+4. **`:75` chained `which meant`** — ruled `a`. Cut from "which meant" onward.
+5. **`:125` entrance gloss** — ruled `c`. → "She stood in the entrance for a
+   moment. She was going to be visible."
+6. **`:179`** — ruled `a`. Cut the final clause.
+7. **`:253` closing paragraph** — ruled `a`. Cut "was cool now instead of hot,".
+8. **`:105` doctrine beat** — ruled `a`. → "— slow, grave —".
+9. **`:109`** — ruled `c`. → "and it was ridiculous and she did not want to
+   stop."
+10. **`:85`/`:139` half-beat-late** — **dropped before presentation**;
+    left-standing verdict in `meta-triage-lesson.md` (2026-08-01).
+11. **`:85`/`:119` "She said nothing."** — ruled `b`. `:85` → "She adjusted."
+12. **Crowd figures** — split into two items. **12** (reviewer-found, editor
+    missed): the `:127`/`:187` *"the easy [noun] of people [who verb]"* frame
+    — ruled `a`, cut `:187`'s appositive. **12b**: `:145` "collision" — ruled
+    `a` → "Once she stopped bracing", completing the *stopped-* series.
+13. **`:231` cab mirror** — ruled `a`. Tail cut (head carries the attribution).
+14. **`:97` "ancient"** — ruled `a`. → "the boom box". Boombox/boom box
+    spelling flagged for the copyedit, not ruled.
+15. **`:47` Pace teaching** — ruled `a`. → "takes slower steps than the
+    two-step. Easier."
+16. **`:35` arrival inventory** — ruled `a`. → "Freshly shaved. A boom box —".
+17. **`:161` blonde's makeup** — ruled `b`. Cut "put on with intention and".
+18. **Bonus (reader criticism, editor missed)** — `:147`–`:151` the three
+    italicized thoughts, on fable-5's "a thumb on the scale" — ruled `a`,
+    left standing. Four readers protect them.
+19. **Linter sweep** — ruled `ack + fix`: cut `:245`'s "not touching it,"
+    then acked all remaining (15 hits, 1 pre-suppressed). Scene now 0 active,
+    32 suppressed, 0 errors.
+
+**Result: 18 edits applied** (18 insertions, 18 deletions).

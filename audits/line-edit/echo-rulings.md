@@ -107,8 +107,19 @@ re-rule against their then-current text.
 8b. **"before she'd decided anything" — UNRULED (raised 2026-08-06).** Same
    construction family, missed by the harvest: `see-you-later:49` (chapter
    already reviewed), `all-the-time:55`, `lesson:143` — three in Vol One.
-   **Awaiting an author ruling; treat as unruled, not licensed.** Editors may
-   raise an occurrence at their chapter's review; do not vary in bulk.
+   **RULED 2026-08-07 (Lesson review) — FIX-AT `lesson:143`.** The author
+   declined to grant the ration to the strongest instance: the stem is spent
+   by ch. 26, so `lesson:143` varies even though body-before-mind is that
+   chapter's literal subject. `see-you-later:49` (already reviewed) and
+   `all-the-time:55` keep the stem — but note this is an **inherited slot,
+   not a granted one**: ch. 37's review may still vary `all-the-time:55` on
+   its own merits. `grace.md:169` ("leaned the half-inch toward him before
+   she'd decided anything at all") is Vol Two; out of scope here.
+   **Applied 2026-08-07:** `lesson:143` "the turn arriving before she'd
+   decided anything to do about it" → "the turn arriving **ahead of anything
+   she'd decided**." The author explicitly kept "the turn arriving" — my note
+   that "arriving" also doubled `:113`'s "arrived in her feet" was **declined**
+   (and `:113`'s instance was cut at finding 3, so the doubling is moot).
 9. **Furniture block — IGNORE.** "a moment longer," "across the table," "the
    door open," "edge of the bed," "the foot of the bed," "from across the
    room," "held the door": ordinary spatial/temporal furniture, not echoes.
@@ -572,3 +583,85 @@ FIX-AT. Do not vary either occurrence before that count exists.
   the Gone review (#32). **Left standing here** on #32's own carve-out: the
   vagueness is the perception, and "quiet but lit" grounds it immediately.
   Counts toward the end-of-pass harvest.
+
+
+---
+
+## Batch 10 — Lesson review, 2026-08-07
+
+41. **`lesson:127` / `lesson:187` — "the easy [noun] of people [who verb]" —
+    FIX-AT `:187`, applied.** *Found by the reviewer, missed by the chapter
+    editor* (which flagged only the weaker "collision" pair). Two crowd-
+    around-Pace beats sixty lines apart used the identical sentence-frame:
+    *a hand on his shoulder* + a mid-sentence appositive *the easy collision
+    of people glad to see somebody* / *the easy consolation of people who
+    liked him*. Varied at `:187` (his exit — a beat two readers name as the
+    chapter's gut-punch, and one that gets faster for the cut); `:127`
+    protected as the evidence the bartender confirms at `:221`.
+    **Rule: an echo can live in the frame rather than the word. The editor
+    caught the repeated noun and missed the repeated grammar — when a
+    distinctive word recurs, also diff the sentences around it.**
+
+42. **`lesson:127` / `lesson:145` — "collision" — FIX-AT `:145`, applied.**
+    Different senses (a crowd meeting gladly / her bracing against couples),
+    but distinctive enough that the second recalled the hugs at the moment she
+    is supposed to be free of the room. Varied to "Once she **stopped
+    bracing**". **Rule: when varying an echo, look for a series the
+    replacement can complete rather than a synonym.** Here it landed the third
+    beat of the chapter's *stopped-* series — stopped guessing (`:113`),
+    stopped counting (`:143`), stopped bracing (`:145`) — three surrenders in
+    thirty lines, stating the argument in the chapter's own grammar instead of
+    in commentary. The fix improved the chapter rather than merely de-duping it.
+
+43. **Editor inversion — `lesson:243` "He kept them safe."** The editor read
+    it as a restatement of "He made them feel safe" inside a four-sentence
+    anaphora run and wanted it cut. **Inverted.** *Made them feel safe* vs.
+    *kept them safe* is the exact felt/factual pair the bartender draws at
+    `:217` ("Leaves her at the door. Doesn't take advantage"), and the
+    anaphora **breaking** (made → made → made → kept) is what makes it land.
+    The run's real problem was an em-dash aside; that was cut instead.
+    **Rule: before cutting the last term of an anaphora run, check whether it
+    breaks the pattern on purpose. A run that varies at the end is a cadence,
+    not an echo — and the varied term is usually the one carrying the point.**
+
+44. **Cut-site constraint — `lesson:231`.** A doubled mirror gesture had to be
+    thinned from the *tail*, not the head, because the head sentence ("The
+    driver found her in the mirror.") is what attributes the next line of
+    dialogue. Sibling of #38b (cutting an interstitial beat can merge two
+    speakers). **Rule, generalized: before cutting a narrative beat adjacent
+    to dialogue, check whether it is carrying an attribution. The editor names
+    the redundancy; it does not know which instance is load-bearing
+    grammatically.**
+
+### Unruled candidates raised by the Lesson review
+
+- **"a half-beat late, … recovering wrong"** (`lesson:85`, `:139`) —
+  **PROTECTED by prior triage** (2026-08-01): intentional motif, same failure
+  in the same words so the floor relapse reads as the pad problem returning.
+  Recorded here so sibling editors stop re-flagging it. Check the
+  timing-failure formula in other dance/sex chapters before allowing a third.
+- **"the way you hear a glass go past the point where you can still catch it"**
+  (`lesson:173`) — the too-late-to-catch-it figure. **Reader-registered by
+  three of five** (Opus: "the best sentence in the chapter"; 5.6-sol logs it
+  in the motif ledger under "glass imagery"). Verify unique before anyone
+  varies it; note `rock:213`'s full-glass simile is a *different* figure
+  (Pace's carefulness), and the two should not be collapsed.
+- **"fabric softener and no one"** (`lesson:239`) — the strongest cross-ledger
+  hit in the chapter: **all five** readers log the flannel motif, and three
+  reproduce this phrase verbatim in their carry-forward. Effectively
+  untouchable; the scent-proxy thread wants a count at end of pass.
+- **Witness-vouches-for-Pace** (`lesson:209`/`:221`, bartender) — fable-5
+  tracks it as a repeat ("Christine ch.8, now bartender ch.26"); Opus calls
+  her "the second Cassie — the clean witness." A *structural* recurrence, not
+  a phrase. Worth a count at end of pass: a third clean witness would be the
+  finding.
+- **"She'd let herself feel like an exception. She was looking at the rule."**
+  (`lesson:165`) / **"She'd thought she was special. She was just next."**
+  (`lesson:197`) — near-twins thirty lines apart, both surviving because the
+  second is angrier and more concrete. If either figure recurs book-wide,
+  `lesson` has a claim on one, not both.
+- **"money meant for other things"** (`lesson:233`) — four of five motif
+  ledgers log the debt thread (Opus explicitly: "echoes the overspent
+  induction heels"). Designed recurrence; count, don't vary.
+- **"Something loose and belching under the hood, run well past maintaining"**
+  (`lesson:229`) — rare-word check per ruling #13 ("past maintaining").

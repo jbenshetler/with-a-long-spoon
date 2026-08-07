@@ -2160,6 +2160,20 @@ text = "A small press at her shoulder blade."
 note = "small is load-bearing: the press demonstrates that minimal signal is legible — the frame's physics in one beat"
 
 [[ok]]
+fp   = "a21ce81abb3e"
+rule = "began-to"
+file = "scenes/lesson.md"
+text = "He began to dance with her."
+note = "Lesson line-edit pass 2026-08-07: author sign-off on full sweep. x-not-y density thinned at :245 (cut 'not touching it'); remaining antitheses each precise and spread. warm x4: :125 pair is a deliberate definition, :157/:161 are different senses (body/tone) — load-bearing per the Rock appositive precedent. began-to x2 both genuinely inceptive."
+
+[[ok]]
+fp   = "b51e1361a80c"
+rule = "began-to"
+file = "scenes/lesson.md"
+text = "She stayed until the lights began to come up."
+note = "Lesson line-edit pass 2026-08-07: author sign-off on full sweep. x-not-y density thinned at :245 (cut 'not touching it'); remaining antitheses each precise and spread. warm x4: :125 pair is a deliberate definition, :157/:161 are different senses (body/tone) — load-bearing per the Rock appositive precedent. began-to x2 both genuinely inceptive."
+
+[[ok]]
 fp   = "43a31d3cc20c"
 rule = "filter-verbs"
 file = "scenes/lesson.md"
@@ -2200,6 +2214,13 @@ rule = "filter-verbs"
 file = "scenes/lesson.md"
 text = "She watched them."
 note = "the watching is the beat: self-punishment rendered as looking"
+
+[[ok]]
+fp   = "7d4ce484c4a6"
+rule = "not-x-but-y"
+file = "scenes/lesson.md"
+text = "For one song she was good, and the goodness still surprised her — not that she could do it but that she could do it *because of him*, the lead as legible here as it had been on the pad, three-quarters of what she needed already in his hand."
+note = "Lesson line-edit pass 2026-08-07: author sign-off on full sweep. x-not-y density thinned at :245 (cut 'not touching it'); remaining antitheses each precise and spread. warm x4: :125 pair is a deliberate definition, :157/:161 are different senses (body/tone) — load-bearing per the Rock appositive precedent. began-to x2 both genuinely inceptive."
 
 [[ok]]
 fp   = "137abb2397e6"
@@ -2251,6 +2272,34 @@ text = "The room went wrong the way rooms do at that hour — not dark enough, n
 note = "generalization register opening the bed paragraph; the paragraph's second the-way was removed instead"
 
 [[ok]]
+fp   = "5802245b5544"
+rule = "there-was-were"
+file = "scenes/lesson.md"
+text = "On the upper side there was a concrete pad caught in the spill of the field lights, empty."
+note = "Lesson line-edit pass 2026-08-07: author sign-off on full sweep. x-not-y density thinned at :245 (cut 'not touching it'); remaining antitheses each precise and spread. warm x4: :125 pair is a deliberate definition, :157/:161 are different senses (body/tone) — load-bearing per the Rock appositive precedent. began-to x2 both genuinely inceptive."
+
+[[ok]]
+fp   = "5a1e57f57307"
+rule = "there-was-were"
+file = "scenes/lesson.md"
+text = "There were girls out there she hadn't let herself notice while she was dancing — bare midriffs, shirts cut down to there, tanned in October, bodies that knew they were being looked at and moved like they liked it."
+note = "Lesson line-edit pass 2026-08-07: author sign-off on full sweep. x-not-y density thinned at :245 (cut 'not touching it'); remaining antitheses each precise and spread. warm x4: :125 pair is a deliberate definition, :157/:161 are different senses (body/tone) — load-bearing per the Rock appositive precedent. began-to x2 both genuinely inceptive."
+
+[[ok]]
+fp   = "ab78bd715ab5"
+rule = "there-was-were"
+file = "scenes/lesson.md"
+text = "The frame she'd fought on the pad as too close, too fixed, too much rule, was the thing doing it now: it held her in the one place the next step could come from, so there was nothing to do but take it."
+note = "Lesson line-edit pass 2026-08-07: author sign-off on full sweep. x-not-y density thinned at :245 (cut 'not touching it'); remaining antitheses each precise and spread. warm x4: :125 pair is a deliberate definition, :157/:161 are different senses (body/tone) — load-bearing per the Rock appositive precedent. began-to x2 both genuinely inceptive."
+
+[[ok]]
+fp   = "d8a30b0fb892"
+rule = "there-was-were"
+file = "scenes/lesson.md"
+text = "A man caught his shoulder going past; two women came off the rail with their arms already open, and there was a round of hugs — the easy collision of people glad to see somebody."
+note = "Lesson line-edit pass 2026-08-07: author sign-off on full sweep. x-not-y density thinned at :245 (cut 'not touching it'); remaining antitheses each precise and spread. warm x4: :125 pair is a deliberate definition, :157/:161 are different senses (body/tone) — load-bearing per the Rock appositive precedent. began-to x2 both genuinely inceptive."
+
+[[ok]]
 fp   = "2410f9879513"
 rule = "unhurried"
 file = "scenes/lesson.md"
@@ -2258,11 +2307,67 @@ text = "It was more women than men, and they hugged him longer, with more of the
 note = "authorial: 'unhurried' is Pace's signature word in this novel; the scene's other instance (bartender) was removed instead"
 
 [[ok]]
+fp   = "275ab4320dea"
+rule = "warm"
+file = "scenes/lesson.md"
+text = "She stood near the wall with her arms at her sides, warm, her pulse going in her neck."
+note = "Lesson line-edit pass 2026-08-07: author sign-off on full sweep. x-not-y density thinned at :245 (cut 'not touching it'); remaining antitheses each precise and spread. warm x4: :125 pair is a deliberate definition, :157/:161 are different senses (body/tone) — load-bearing per the Rock appositive precedent. began-to x2 both genuinely inceptive."
+
+[[ok]]
+fp   = "8c2110e540e2"
+rule = "warm"
+file = "scenes/lesson.md"
+text = "She said it warm, and kept going."
+note = "Lesson line-edit pass 2026-08-07: author sign-off on full sweep. x-not-y density thinned at :245 (cut 'not touching it'); remaining antitheses each precise and spread. warm x4: :125 pair is a deliberate definition, :157/:161 are different senses (body/tone) — load-bearing per the Rock appositive precedent. began-to x2 both genuinely inceptive."
+
+[[ok]]
+fp   = "bd13b5c02315"
+rule = "warm"
+file = "scenes/lesson.md"
+text = "The Rusty Nail was loud and warm when they walked in, the kind of warm that came from bodies and not from the heat being turned up — a real crowd, people who knew what they were doing."
+note = "Lesson line-edit pass 2026-08-07: author sign-off on full sweep. x-not-y density thinned at :245 (cut 'not touching it'); remaining antitheses each precise and spread. warm x4: :125 pair is a deliberate definition, :157/:161 are different senses (body/tone) — load-bearing per the Rock appositive precedent. began-to x2 both genuinely inceptive."
+
+[[ok]]
 fp   = "0caa7e33733e"
 rule = "weather"
 file = "scenes/lesson.md"
 text = "A short-sleeved knit shirt despite the October cold, which she didn't understand at first and then did: he'd dressed for the dancing, not the weather."
 note = "literal October meteorology — rule-sanctioned use"
+
+[[ok]]
+fp   = "023f6fdcf58b"
+rule = "x-not-y"
+file = "scenes/lesson.md"
+text = "She set the bottle on the ledge and walked off before he could say anything — fast, not toward anywhere, just away."
+note = "Lesson line-edit pass 2026-08-07: author sign-off on full sweep. x-not-y density thinned at :245 (cut 'not touching it'); remaining antitheses each precise and spread. warm x4: :125 pair is a deliberate definition, :157/:161 are different senses (body/tone) — load-bearing per the Rock appositive precedent. began-to x2 both genuinely inceptive."
+
+[[ok]]
+fp   = "2c33176360c3"
+rule = "x-not-y"
+file = "scenes/lesson.md"
+text = "The woman huffed, not quite a laugh, and went on with what she was doing — glasses up out of the rack, rag over the taps."
+note = "Lesson line-edit pass 2026-08-07: author sign-off on full sweep. x-not-y density thinned at :245 (cut 'not touching it'); remaining antitheses each precise and spread. warm x4: :125 pair is a deliberate definition, :157/:161 are different senses (body/tone) — load-bearing per the Rock appositive precedent. began-to x2 both genuinely inceptive."
+
+[[ok]]
+fp   = "51a07db22820"
+rule = "x-not-y"
+file = "scenes/lesson.md"
+text = "The room went wrong the way rooms do at that hour — not dark enough, not quiet enough, Cassie's breathing the only easy thing in it."
+note = "Lesson line-edit pass 2026-08-07: author sign-off on full sweep. x-not-y density thinned at :245 (cut 'not touching it'); remaining antitheses each precise and spread. warm x4: :125 pair is a deliberate definition, :157/:161 are different senses (body/tone) — load-bearing per the Rock appositive precedent. began-to x2 both genuinely inceptive."
+
+[[ok]]
+fp   = "722fb2e9c3cd"
+rule = "x-not-y"
+file = "scenes/lesson.md"
+text = "A short-sleeved knit shirt despite the October cold, which she didn't understand at first and then did: he'd dressed for the dancing, not the weather."
+note = "Lesson line-edit pass 2026-08-07: author sign-off on full sweep. x-not-y density thinned at :245 (cut 'not touching it'); remaining antitheses each precise and spread. warm x4: :125 pair is a deliberate definition, :157/:161 are different senses (body/tone) — load-bearing per the Rock appositive precedent. began-to x2 both genuinely inceptive."
+
+[[ok]]
+fp   = "dc9deb2b1238"
+rule = "x-not-y"
+file = "scenes/lesson.md"
+text = "Push on my shoulder — firm, not hard."
+note = "Lesson line-edit pass 2026-08-07: author sign-off on full sweep. x-not-y density thinned at :245 (cut 'not touching it'); remaining antitheses each precise and spread. warm x4: :125 pair is a deliberate definition, :157/:161 are different senses (body/tone) — load-bearing per the Rock appositive precedent. began-to x2 both genuinely inceptive."
 
 [[ok]]
 fp   = "5561498dece8"
