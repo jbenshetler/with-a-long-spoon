@@ -42,3 +42,23 @@ Pre-ruled PROTECTED items present and correctly left unflagged: "It came out eas
 - "lighter than she'd come"
 - "lay on everything without asking" (light personified at the porch)
 - "it was all over you" / "it was all over her" (Randi's read-the-face idiom, twice in this chapter — possibly her voice-print; rule book-wide)
+
+## Author rulings (2026-08-07)
+
+1. **the-way cluster (:7/:9/:13)** — APPLIED (a): cut the :9 clause. :7 and :13 kept.
+2. **Randi's open face (:5/:23/:29)** — APPLIED (a): cut at :23. **Editor's recommendation to cut :29 overridden** on claude-opus-4-8's quote of that line as the chapter's dramatic irony.
+3. **heat up the throat (:23/:37)** — APPLIED (c′): cut the flush *and* the "she heard" filter verb at :23; :37 keeps the beat alone.
+4. **hand-cover twice (:51/:67)** — DECLINED. Five readers logged it positively, one counting the repetition explicitly; echo ruling #10 logic. Recorded in triage.
+5. **"half-expected" (:65/:71)** — APPLIED (a): :65 → "who'd braced for teasing". :71 kept (opus-quoted; already ruled 2026-08-01).
+6. **shopping afternoon twice (:45/:61)** — APPLIED (a): cut the clause at :45. Ulta stays at :45; it cannot move to :61 (different shop — `famished:7`).
+7. **beat-tags + warm cluster (:31/:63/:67)** — APPLIED (a): both reflex uses at :63 cut ("She looked at her," / "A beat."). :31 and :67 kept.
+8 + 9. **:69 not-admitting tail (merged — same span)** — APPLIED (a): tail cut; paragraph ends on "better than she managed to like herself."
+10. **"gone still and full listening" (:23)** — APPLIED (c): "gone still, all listening." *fully / attentive / focused* considered and declined (degree adverb; diagnosis words that make Randi visible as operating).
+11. **"a beat past" (:73), FIX-AT #2** — APPLIED (a): → "and let it sit." Fed claims no keeper slot; slate recorded in echo-rulings.md #21.
+
+**Bonus (cold-read enrichment, five readers):**
+- B1. "Fingers for the room. But the toes." (:35) — fable-5's "one beat too diagrammed," self-pardoned. LEFT STANDING, recorded.
+- B2. "You drove over there sure." (:63) — sol's overstatement flag. LEFT STANDING; the overstatement is Randi's operation. Recorded with a do-not-correct note.
+- B3. "all over her / all over you" — new echo ruling #22 (PROTECT construction, ration density); :23 occurrence cut.
+
+**Linter sweep:** A (the-way ×5) ack all — two false positives, three load-bearing. B (warm) — (a) cut :25, keep :39. C (there-was-were :23) — (b) recast to "the other version of it was right there". Chapter taken to **0 active hits** (from 15); ten acks recorded.

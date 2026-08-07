@@ -174,3 +174,42 @@ re-rule against their then-current text.
     **Open question for the Volume One pass:** which 2–3 of the remaining
     "a beat past" occurrences claim the keeper slots. `how-its-done` is now
     out of the running.
+
+## Batch 4 (ruled 2026-08-07, during the Fed review)
+
+21. **"a beat past" — FIX-AT #2 applied at `fed:73`.** Varied to "and smiled,
+    slow and soft, and let it sit." **Fed claims no keeper slot.** Measured
+    against the full remaining slate, `fed:73` was the weakest instance: the
+    only one whose comparison term is abstract ("where it needed to" names no
+    standard, where the others name a goodbye, a friend, a dare, comfort), and
+    its situation is owned better by `all-the-time:135`, the same beat (Randi
+    at the curb, holding past the length) under far more pressure.
+    **Current Vol-1 slate, none yet ruled keepers:**
+    - `all-the-time:135` — "close, steady, a beat past what a goodbye needed"
+      — **presumptive keeper**, ruled at its review.
+    - `one-bite:155` — "her mouth staying on Vee's a beat past what a friend's
+      would" — **presumptive keeper**, ruled at its review.
+    - `another-round:53` — "a beat past what any look she'd ever been given in
+      public would have dared".
+    - `may-i-choose:107` — "The quiet held a beat past comfortable."
+    - `water-wings:23` — "stayed until her lungs asked, and a beat past that":
+      literal duration, arguably not the tic at all; editor may decline it.
+    - `grace:29` — Volume Two, out of scope.
+    `how-its-done` (#20) and `fed` are both now out of the running.
+
+22. **"all over her / all over you" (the legible-face idiom) — PROTECT the
+    construction, RATION the local density.** Same shape as ruling #5.
+    Book-wide the family is four: `fed:11` (Randi's dialogue, "it's all over
+    you"), `fed:23` (cut 2026-08-07, see below), `the-pointing-game:151` ("It
+    was all over her, the grin, breaking the managed surface"), `the-usual:91`
+    ("The satisfaction was all over her face"). It is **not** a Randi
+    voice-print — two of the four are narration — but the book's idiom for a
+    surface failing to hold, which is thematic, not a tic. Do not flag single
+    uses; raise local density only.
+    **Applied 2026-08-07: `fed:23`** — "and meant it, it was all over her" →
+    "and meant it." Fed held two of the four fourteen lines apart, and the
+    narration was vouching for Randi's sincerity, which is the assurance the
+    chapter should make the reader supply.
+    **Not in this family, no ruling needed:** `in-her-place:81` (the marks of
+    him all over her), `nothing-underneath:49` (the wet all over her fingers),
+    `another-round:3` (fingerprints all over it — dead idiom).

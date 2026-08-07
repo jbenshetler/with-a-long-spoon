@@ -1040,11 +1040,39 @@ text = "She heard herself reaching for it and reached anyway."
 note = "self-aware reach ('She heard herself reaching for it') doing intentional work; keep"
 
 [[ok]]
+fp   = "01c1e7609741"
+rule = "the-way"
+file = "scenes/fed.md"
+text = "Not all the way."
+note = "False positive: 'Not all the way' is the literal idiom (distance/extent), not the filtered construction."
+
+[[ok]]
 fp   = "09ab496a579a"
 rule = "the-way"
 file = "scenes/fed.md"
 text = "She said it the way you hand someone a coat they'd left behind."
 note = "scene review 2026-07: author accepted; load-bearing 'the way' simile, keep"
+
+[[ok]]
+fp   = "3b9aad1caa44"
+rule = "the-way"
+file = "scenes/fed.md"
+text = "When she came to the middle of it, the part that was only hers, she went soft and quick, a hand waved at the air, *and then, well,* the way you fold a thing back into its tissue before anyone can pick it up, and she didn't slow down again until she was out the other side, back in his kitchen, after."
+note = "The tissue-fold. Reader-praised by claude-fable-5 (Vee's Toenails elision skill turned on the one person it was built for) and quoted by claude-opus-4-8. Load-bearing."
+
+[[ok]]
+fp   = "85ebe5d3ce8d"
+rule = "the-way"
+file = "scenes/fed.md"
+text = "Vee had half-expected it this time, and met it, and when Randi let her go she didn't look down the street for who might have seen them, the way she had the first time."
+note = "'the way she had the first time' — the continuity hinge on the goodbye kiss; all five cold readers named this beat as the chapter's real movement."
+
+[[ok]]
+fp   = "8a48c1962f1b"
+rule = "the-way"
+file = "scenes/fed.md"
+text = "Not the way Pace was easy — Pace was the thing the week bent around."
+note = "'Not the way Pace was easy' — comparative carrying the chapter's central structural contrast (Pace vs Randi). Not a filter."
 
 [[ok]]
 fp   = "bd0e61fea34d"
@@ -1068,6 +1096,13 @@ text = "\"It might,\" Vee said, around the heat, and let it be unsaid, and Randi
 note = "false positive: 'the way out' is the exit idiom, not the filtered 'the way she [verb]' construction"
 
 [[ok]]
+fp   = "dbb18b6e4edc"
+rule = "the-way"
+file = "scenes/fed.md"
+text = "Vee laughed again, helpless, glowing, caught all the way through."
+note = "False positive: 'caught all the way through' is the literal idiom."
+
+[[ok]]
 fp   = "ec9a248da05a"
 rule = "the-way"
 file = "scenes/fed.md"
@@ -1087,6 +1122,41 @@ rule = "there-was-were"
 file = "scenes/fed.md"
 text = "Like there was no clock."
 note = "near-dialogue 'like there was no clock'; keep"
+
+[[ok]]
+fp   = "e1f81bd5e9a1"
+rule = "there-was-were"
+file = "scenes/fed.md"
+text = "Like there was no clock anywhere in the world.\""
+note = "Dialogue ('Like there was no clock anywhere in the world'), and reader-praised by gpt-5.6-terra and gpt-5.6-sol as the positive image against Randi's hurried invented lover."
+
+[[ok]]
+fp   = "22af139847ff"
+rule = "warm"
+file = "scenes/fed.md"
+text = "\"Mm,\" Randi said, warm, and did not say the rest of it, and did not have to."
+note = "Kept over :25 in the 2026-08-07 reflex-pair thinning (the flute-tag at :25 lost its 'warm'); this one carries the unsaid rest of it."
+
+[[ok]]
+fp   = "771a7e0c516e"
+rule = "warm"
+file = "scenes/fed.md"
+text = "It came back up around her as she said it, the whole warm dark of that hour: the sheet held closed at her breast and still warm from the bed, his kitchen floor cool under her bare feet, the glass of wine he'd poured her the minute she walked in and that she'd been too keyed up to touch."
+note = "The warm dark of that hour + the sheet still warm from the bed: the second is literal bed temperature, the first is the memory's register. Load-bearing."
+
+[[ok]]
+fp   = "92b56b4b8490"
+rule = "warm"
+file = "scenes/fed.md"
+text = "Randi held her flute and listened, her face open and warm and glad for her friend."
+note = "'open and warm and glad for her friend' — claude-opus-4-8 quoted this by name as the chapter's sharpest dramatic irony (Randi glad, listening to her own lover's first night with Vee). Protected."
+
+[[ok]]
+fp   = "c0f4bbfa93d8"
+rule = "warm"
+file = "scenes/fed.md"
+text = "\"Good,\" Randi said, and reached across and laid her hand over Vee's, and left it there, warm, and Vee felt the word settle into her and stay."
+note = "Literal skin temperature on the chapter's closing gesture; four cold readers logged this hand. Sole owner of 'warm' in the closing movement."
 
 [[ok]]
 fp   = "739b82a7a3eb"

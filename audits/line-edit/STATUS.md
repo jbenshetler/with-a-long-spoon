@@ -25,7 +25,7 @@ the echo shortlist with the author before per-chapter editing starts).
 | 17 | How It's Done | how-its-done | reviewed |
 | 18 | Famished | famished | reviewed |
 | 19 | Toenails | toenails | reviewed |
-| 20 | Fed | fed | edited |
+| 20 | Fed | fed | reviewed |
 | 21 | Peekaboo | peekaboo | edited |
 | 22 | All Told | all-told | edited |
 | 23 | Sorority | sorority | edited |

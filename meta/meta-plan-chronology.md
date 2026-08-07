@@ -101,15 +101,15 @@ Warmer, less performed than the Randi version. The heat detail lands hardest (*"
 First off-campus brunch — format upgraded (velvet alcove, Rombauer by name). Apparatus switches on. Two firsts: the first goodbye-kiss debut; the first ignition of Randi's jealousy via the water-glass tell on *"he looked at me and I was fine."* ← **jealousy ignites here.** Carries the first scent-name beat: Vee notices Randi's perfume, unnamed, in the pre-kiss closeness (flag 17).
 
 ### [SCENE] Famished
-*Fri Oct 9* · Draft complete · `famished.md` · [detail](meta-condensed-famished.md) · reviewed: 2026-07-19 · slug: famished · present: Vee, Pace
+*Fri Oct 9* · Draft complete · `famished.md` · [detail](meta-condensed-famished.md) · reviewed: 2026-07-19, 2026-08-07 · slug: famished · present: Vee, Pace
 Motivated by the Fitting's deferred tension, not the CW dance. Pace invites her the morning he leaves for a three-day University of Chicago conference — *"Dinner Friday?"* — so she waits knowing the date. She arrives before the heat (mise-en-place ready, no flame). *"I never thanked you for the shirt"* opens the kiss. Fra diavolo and Chianti Classico become the meal after, not before. *"Would you be bothered if I was too hard?"* The trade: she folds the green satin panties in thirds, wet spot centered, drops the sheet, hands them to him bare. Best sex of her life; no management gap. Pays off: Fitting's deferment, the shirt-sleeping, the shame-arousal loop fully run. Plants: the scar (inner thigh, surgical — returns later), the gap that reopens in daylight retelling ({{Fed}}), the green-sheets beat (undocumented future).
 
 ### [SCENE] Toenails
-*Sat Oct 10* · Draft complete · `toenails.md` · Cassandra track · [detail](meta-condensed-toenails.md) · reviewed: 2026-07-17 · slug: toenails · present: Vee, Cassie
+*Sat Oct 10* · Draft complete · `toenails.md` · Cassandra track · [detail](meta-condensed-toenails.md) · reviewed: 2026-07-17, 2026-08-07 · slug: toenails · present: Vee, Cassie
 Vee tries to tell Cassie and can't. Shame meets the wrong-shaped listener; Cassie can hold romance but not the bodily response. First withheld thing. The vacancy this opens is exactly what Randi fills at {{Fed}}. Photographic negative of {{Rye}}.
 
 ### [SCENE] Fed
-*Sun Oct 11 · the weekend after {{Famished}} — she's been holding it since Friday* · Draft complete · SATC · off-campus · `fed.md` · [detail](meta-condensed-fed.md) · reviewed: 2026-07-19 · slug: fed · present: Vee, Randi
+*Sun Oct 11 · the weekend after {{Famished}} — she's been holding it since Friday* · Draft complete · SATC · off-campus · `fed.md` · [detail](meta-condensed-fed.md) · reviewed: 2026-07-19, 2026-08-07 · slug: fed · present: Vee, Randi
 Vee arrives carrying the floozie-shame she couldn't give Cassie. Randi catches the flush at maximum exposure and converts it to pride/aliveness — genuine kindness that is also the threesome on-ramp. Post-Fitting/post-jealousy: deliberate operation, so no tell. First read: the glamorous friend talked me out of my shame. Bathroom trip correctly absent (mechanism first fires at {{The Practice Room}} — see [detail](meta-condensed-fed.md)); the *them-not-you* conversion is enacted in the pride-seal run ("I wanted it. And I took it."), not as a discrete line.
 
 ### [SCENE] Peekaboo
