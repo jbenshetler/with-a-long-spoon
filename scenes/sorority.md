@@ -4,7 +4,7 @@
 
 The knock came earlier than Vee was ready for, and then Randi was in the doorway of the room — gold and easy in the cinderblock dim, sunglasses pushed up into her hair, taking the whole double in with one bright sweep, and the room reorganized itself around her. The bunked beds, the milk-crate shelves, the Stevie Nicks poster, *Bella Donna*, Vee'd hung freshman year and long stopped seeing: all of it suddenly visible again, smaller, lit by what Randi had brought in with her.
 
-"So this is the nest." Randi stepped in. Her eyes went over Cassie's bunk — made tight and square, the corners done the way Cassie did everything, nobody home — and came back to Vee warm. "Show me. You've made me wait a whole week. I've had to *hear* about it and not see it and I'm dying, genuinely dying. Where is it."
+"So this is the nest." Randi stepped in. Her eyes went over Cassie's bunk — made tight and square, the corners done the way Cassie did everything, nobody home — and came back to Vee. "Show me. You've made me wait a whole week. I've had to *hear* about it and not see it and I'm dying, genuinely dying. Where is it."
 
 Vee had it in the garment bag on the back of the door. She'd half-meant to just unzip it and hold it up on the hanger, which was the sane way to show a dress to a friend — but the wanting got there before the plan, the wanting to be *seen* in it as she'd been seen in his mirror, and she heard herself say "give me a second" and carried the bag through to the bathroom and put it on.
 
@@ -82,7 +82,7 @@ She could not say it. Could not stand in this expensive hush and tell Randi, who
 
 Randi was beside her before the quiet could set. "Baby. A dress your *lover* made you?" The word was more than Vee had ever let herself call him, and Pace rearranged in her own chest into something adult and lit. She was already moving, already lifting a shoe off its block at the front and turning back with it. "It goes on these."
 
-It was higher than anything Vee owned and barely there, a few thin black straps webbed across the foot, a heel that looked like it could not possibly hold her, and it was, she saw it at once, completely right, the kind of right that made the tan one back at the first place, the one that would have gone with everything, look like an apology she'd been about to make to no one.
+It was higher than anything Vee owned and barely there, a few thin black straps webbed across the foot, a heel that looked like it could not possibly hold her, and it was, at once, completely right, the kind of right that made the tan one back at the first place, the one that would have gone with everything, look like an apology she'd been about to make to no one.
 
 The woman who worked there came over with the box, and Randi put up a hand, easy — "I've got her" — and took the box herself and went down onto one knee in front of the bench, on the pale floor, in her own beautiful clothes, and patted the seat for Vee to sit.
 

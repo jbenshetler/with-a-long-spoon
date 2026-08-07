@@ -123,11 +123,29 @@ quoted.
   of the `Something [verb]ed in [X]'s [body part]` frame, an unruled echo
   candidate. Not touched; awaits the end-of-pass inventory.
 
-## Linter sweep — NOT ruled
+## Linter acks (author sign-off 2026-08-07)
 
-The 8-group sweep (A–H) was presented but the author moved to close-out before
-ruling it. **No `--ack` was written and no sweep fix was applied** — in
-particular `:85` "she saw it at once" (`filter-verbs`, recommended fix) and
-`:7` "came back to Vee warm" (`warm`, recommended fix) are still standing and
-still flagging. The chapter sits at 19 active hits. Re-present the sweep before
-this chapter is called done.
+Sweep groups A–H, ruled "ack the recommended" — the two recommended fixes
+applied, the remaining 17 hits suppressed with per-group rationale in
+`style/style-allow.toml`. Chapter is now clean (0 active, 17 suppressed).
+
+- **Fixed:** `:85` "and it was, she saw it at once, completely right" → "and it
+  was, at once, completely right" (`filter-verbs` — a real filter on a sentence
+  already inside her head). `:7` "and came back to Vee warm" → "and came back
+  to Vee" (`warm` — the reflex instance; the dialogue is the warmth).
+- **A — `the way` as ordinary idiom** (`:49`, `:93`, `:109`): not the
+  filtered-comparison tic.
+- **B — `the way`, ruled at item 15** (`:7`, `:13`, `:81`, `:95`): see
+  "Left standing" above.
+- **C — `filter-verbs` `:9`** "she heard herself say": body before mind
+  working; see "Left standing" above.
+- **E — `a-small` `:93`** "a small swing of the room": load-bearing; see
+  "Left standing" above.
+- **F — `warm` ×3** (`:17` the cool/warm tactile contrast, `:65` the delight
+  folding into something surer, `:71` Vee's face answering Randi saying her
+  secret out loud).
+- **G — `x-not-y` / `not-x-but-y` ×3** (`:17`, `:25`, `:55`): well spread,
+  none adjacent, `:55` in dialogue.
+- **H — `there-was-were` ×2** (`:13` the held pause before Randi speaks;
+  `:105` "There was nothing under it", quoted approvingly by three cold
+  readers).

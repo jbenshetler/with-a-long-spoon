@@ -3336,6 +3336,125 @@ text = "Randi dropped into the seat on Vee's other side, the aisle side, so that
 note = "author-specified phrasing for Randi's scent"
 
 [[ok]]
+fp   = "656ba4ac30d7"
+rule = "a-small"
+file = "scenes/sorority.md"
+text = "A thumb moved once across the nail of the big toe, light — and Vee felt it go all the way up the length of her, felt the floor of her tip, a small swing of the room though she was sitting down, and her hand shot out and found Randi's shoulder to stop it."
+note = "Group E (2026-08-07): 'a small swing of the room' is load-bearing - it is what her hand shoots out to stop, and the reach for Randi's shoulder is praised by three cold readers. The competing floor figure was cut at :79 instead (echo ledger #31)."
+
+[[ok]]
+fp   = "66fc17d0829b"
+rule = "filter-verbs"
+file = "scenes/sorority.md"
+text = "She'd half-meant to just unzip it and hold it up on the hanger, which was the sane way to show a dress to a friend — but the wanting got there before the plan, the wanting to be *seen* in it as she'd been seen in his mirror, and she heard herself say \"give me a second\" and carried the bag through to the bathroom and put it on."
+note = "Group C (2026-08-07): 'she heard herself say' is the sentence's subject, not a filter - the wanting got there before the plan and Vee catches her own voice already doing it. Body before mind working."
+
+[[ok]]
+fp   = "51f2eff34e44"
+rule = "not-x-but-y"
+file = "scenes/sorority.md"
+text = "It's not going to stop the room, but it works."
+note = "Group G (2026-08-07): three antitheses, well spread, none adjacent; :55 is in dialogue. No cluster."
+
+[[ok]]
+fp   = "0546a5a71266"
+rule = "the-way"
+file = "scenes/sorority.md"
+text = "She'd seen them on the way in — a loafer, soft and dark, the kind of shoe with no occasion because every day of her life was its occasion, and she set them on the counter next to Vee's box, and a card came out of her wallet without her seeming to choose it, and the number that rang up was a multiple of Vee's — the price of the shoes Vee was white-knuckling, and then several times that again — and Randi never once looked at it."
+note = "Group A (2026-08-07): ordinary idiom ('all the way', 'on the way in'), not the filtered-comparison tic the rule targets."
+
+[[ok]]
+fp   = "05b07e593259"
+rule = "the-way"
+file = "scenes/sorority.md"
+text = "That was the one that got Randi, got her all the way, folded her over the bench, the real laugh, the one that costs her something to give."
+note = "Group A (2026-08-07): ordinary idiom ('all the way', 'on the way in'), not the filtered-comparison tic the rule targets."
+
+[[ok]]
+fp   = "0ee50b31cde0"
+rule = "the-way"
+file = "scenes/sorority.md"
+text = "A thumb moved once across the nail of the big toe, light — and Vee felt it go all the way up the length of her, felt the floor of her tip, a small swing of the room though she was sitting down, and her hand shot out and found Randi's shoulder to stop it."
+note = "Group A (2026-08-07): ordinary idiom ('all the way', 'on the way in'), not the filtered-comparison tic the rule targets."
+
+[[ok]]
+fp   = "29d99297b470"
+rule = "the-way"
+file = "scenes/sorority.md"
+text = "Could not stand in this expensive hush and tell Randi, who belonged here the way she belonged everywhere, who was already down the lit shelves touching things, that she could not afford to be inside the door."
+note = "Group B (2026-08-07): ruled at item 15 of the line-edit review. :13 is the paragraph's best figure; :81 is the class observation the boutique section rests on; :7 sits in reader-quoted territory (Cassie's bed); :95 completes the designed three-beat mirror callback to Peekaboo. Only the opening-nine-lines density was the problem, and :9/:15 fixed it."
+
+[[ok]]
+fp   = "a23c353c7713"
+rule = "the-way"
+file = "scenes/sorority.md"
+text = "The full beam, all at once — but for a second before any word came there was only the looking, Randi gone still with it, her eyes traveling down the long bias line and back up the way you take in a thing you're going to have to account for."
+note = "Group B (2026-08-07): ruled at item 15 of the line-edit review. :13 is the paragraph's best figure; :81 is the class observation the boutique section rests on; :7 sits in reader-quoted territory (Cassie's bed); :95 completes the designed three-beat mirror callback to Peekaboo. Only the opening-nine-lines density was the problem, and :9/:15 fixed it."
+
+[[ok]]
+fp   = "a8b8d08db5a0"
+rule = "the-way"
+file = "scenes/sorority.md"
+text = "Randi did the little buckle at the ankle with two fingers and set the foot down and sat back on her heels to look, and Vee rose up into them, the four inches of it, her whole weight resettling forward onto the balls of her feet the way it had risen onto her bare toes in his mirror, the line of her finishing itself, this time, instead of waiting on a height she wasn't giving it."
+note = "Group B (2026-08-07): ruled at item 15 of the line-edit review. :13 is the paragraph's best figure; :81 is the class observation the boutique section rests on; :7 sits in reader-quoted territory (Cassie's bed); :95 completes the designed three-beat mirror callback to Peekaboo. Only the opening-nine-lines density was the problem, and :9/:15 fixed it."
+
+[[ok]]
+fp   = "b132fe52fbe8"
+rule = "the-way"
+file = "scenes/sorority.md"
+text = "Her eyes went over Cassie's bunk — made tight and square, the corners done the way Cassie did everything, nobody home — and came back to Vee."
+note = "Group B (2026-08-07): ruled at item 15 of the line-edit review. :13 is the paragraph's best figure; :81 is the class observation the boutique section rests on; :7 sits in reader-quoted territory (Cassie's bed); :95 completes the designed three-beat mirror callback to Peekaboo. Only the opening-nine-lines density was the problem, and :9/:15 fixed it."
+
+[[ok]]
+fp   = "1598a3aadf20"
+rule = "there-was-were"
+file = "scenes/sorority.md"
+text = "There was nothing under it."
+note = "Group H (2026-08-07): :13's existential is the held pause before Randi speaks; :105 'There was nothing under it' is quoted approvingly by three cold readers as the cleanest statement of the financial danger."
+
+[[ok]]
+fp   = "c161e3bed4c3"
+rule = "there-was-were"
+file = "scenes/sorority.md"
+text = "The full beam, all at once — but for a second before any word came there was only the looking, Randi gone still with it, her eyes traveling down the long bias line and back up the way you take in a thing you're going to have to account for."
+note = "Group H (2026-08-07): :13's existential is the held pause before Randi speaks; :105 'There was nothing under it' is quoted approvingly by three cold readers as the cleanest statement of the financial danger."
+
+[[ok]]
+fp   = "434e405b275c"
+rule = "warm"
+file = "scenes/sorority.md"
+text = "Her fingers moved up the seam, following the bias where it crossed Vee's body, reading the cut as her eyes had, and came to rest at the bare shoulder where the line began, the silk cool there and Vee warm under it."
+note = "Group F (2026-08-07): load-bearing warmth. :17 is the cool/warm tactile contrast, :65 is the delight folding into something surer, :71 is Vee's face answering Randi saying her secret out loud. The reflex instance (:7 'came back to Vee warm') was cut."
+
+[[ok]]
+fp   = "612e941dd6d5"
+rule = "warm"
+file = "scenes/sorority.md"
+text = "She got to the end of the aisle before she turned back, and the delight had folded into something warmer and surer, and she looked at the tan heel still in Vee's hand."
+note = "Group F (2026-08-07): load-bearing warmth. :17 is the cool/warm tactile contrast, :65 is the delight folding into something surer, :71 is Vee's face answering Randi saying her secret out loud. The reflex instance (:7 'came back to Vee warm') was cut."
+
+[[ok]]
+fp   = "838a1f087d28"
+rule = "warm"
+file = "scenes/sorority.md"
+text = "Randi had just said out loud, easy and offhand, the thing Vee had been running behind her own eyes all week, and hearing it in someone else's mouth made it real, and made her face go warm, and she followed her out."
+note = "Group F (2026-08-07): load-bearing warmth. :17 is the cool/warm tactile contrast, :65 is the delight folding into something surer, :71 is Vee's face answering Randi saying her secret out loud. The reflex instance (:7 'came back to Vee warm') was cut."
+
+[[ok]]
+fp   = "4bcfbd8a561a"
+rule = "x-not-y"
+file = "scenes/sorority.md"
+text = "\"It's the most—\" she started, and Randi was already shaking her head, smiling, not letting her finish it small."
+note = "Group G (2026-08-07): three antitheses, well spread, none adjacent; :55 is in dialogue. No cluster."
+
+[[ok]]
+fp   = "f25b2a7dc45d"
+rule = "x-not-y"
+file = "scenes/sorority.md"
+text = "\"Charmeuse,\" she said, not to Vee; to herself, or to the dress."
+note = "Group G (2026-08-07): three antitheses, well spread, none adjacent; :55 is in dialogue. No cluster."
+
+[[ok]]
 fp   = "c9a4366ae728"
 rule = "register-verb"
 file = "scenes/standards.md"

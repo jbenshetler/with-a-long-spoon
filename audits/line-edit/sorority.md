@@ -92,4 +92,4 @@ The chapter is strongest where it trusts a single flat sentence after a long one
 15. `the way` cluster — **b**: `:9` and `:15` recast to "as"; `:7`, `:13`, `:81`, `:95` kept and argued.
 16. `:21` "the whole of it" — **a**: → "take in all of it again".
 
-**Linter sweep (A–H) presented but NOT ruled** — no `--ack` written, no sweep fix applied. See the triage doc.
+**Linter sweep (A–H)** — ruled "ack the recommended" 2026-08-07: groups D and F(`:7`) fixed, the other 17 hits acked with per-group rationale. Chapter clean (0 active, 17 suppressed). See the triage doc.
