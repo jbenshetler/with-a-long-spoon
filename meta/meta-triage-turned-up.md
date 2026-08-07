@@ -51,7 +51,9 @@ evidence** (audit verdicts re-open on a text edit to the passage).
 
 Source: `audits/line-edit/turned-up.md` (12 findings), reviewed with the author
 item by item, enriched with the cold-read reactions
-(`reviews/cold-read/*/turned-up.md`) per the 2026-08-05 ruling. **Ten applied,
+(`reviews/cold-read/*/turned-up.md` — **five models**; gpt-5.6-terra landed
+mid-review at `20a6c3d` and was mined after the rulings, changing none of
+them) per the 2026-08-05 ruling. **Ten applied,
 two left standing; three reader-sourced bonus items, all three left standing.**
 Nothing was dropped against the 2026-08-01 line-audit verdicts above — the two
 passes did not overlap.
@@ -81,7 +83,11 @@ passes did not overlap.
   chapter of precision is a joke, not authorial reach; the speed of the turn
   is what the readers valued, and sharpening or re-angling the line would
   spend it. Do not re-raise on reader-friction grounds — the friction is
-  known, and it is mitigated on the page.
+  known, and it is mitigated on the page. **gpt-5.6-terra (mined after the
+  ruling) reads it as working outright:** the question "nicely exposes how
+  strange he is by ordinary assumptions: a powerlifter who makes dresses and
+  sees a nearly naked woman without immediately making the moment about
+  getting sex." Ruling unchanged and better supported.
 - **The mid-chapter re-narration of the fitting (`:85`–`:161`)** —
   claude-opus-4-8 alone: "the recap stretch in the middle… where I'm being
   walked back through geometry I already stood inside," self-hedged twice in
@@ -92,7 +98,8 @@ passes did not overlap.
   three readers praised passages *inside* that stretch (the bra beat, "I was on
   a box," "May I look," "Like I was supposed to be there"). **Not a line-edit
   item in any case** — compressing the recap would restructure the chapter's
-  spine. Do not reopen it as one.
+  spine. Do not reopen it as one. **gpt-5.6-terra (fifth model, mined after
+  the ruling) does not raise it either** — one of five, self-hedged.
 - **The narration grading Cassie's listening — `:77` ("Cassie let the pivot
   happen. She was good at that.") and `:159` ("Cassie said nothing, which was
   the right thing.")** — claude-fable-5 felt `:159` "edges toward telling me
@@ -103,6 +110,23 @@ passes did not overlap.
   itself, alongside the knee-touch, as "perfectly judged." The defense is the
   free-indirect one: both clauses are *Vee's* judgment, characterizing her
   newly-earned trust in Cassie, not the narrator flattering Cassie.
+  gpt-5.6-terra names neither line but praises Cassie's receptiveness in
+  general ("her teasing is funny, but she also catches the distinction") —
+  i.e. the characterization reads as *shown*, not told, to that reader.
+
+## Noted, not actioned — thematic, not craft (2026-08-06)
+
+- **Cassie's "He asked" / Vee's "He didn't use the word. But yes." (`:105`–
+  `:107`)** — gpt-5.6-terra's single qualified pause, and the only reservation
+  that reader records: "I believe Vee's experience of the open door, but I feel
+  the importance of the distinction, **especially under the book's tagline**."
+  Explicitly *not* a craft complaint — the reader does not call it a false note
+  or overwriting, and praises Cassie's "He asked" elsewhere in the same
+  reaction as her catching that "he left Vee room to refuse." **No edit
+  proposed.** A reader feeling the gap between an asked question and an opened
+  door is the machinery working; recorded here so a later pass reads it as
+  designed rather than as an unaddressed flag. If it is ever taken up, it is a
+  thesis/architecture question, not a line-edit one.
 
 ## Applied, with rationale worth keeping
 

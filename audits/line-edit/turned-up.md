@@ -47,7 +47,8 @@
 ## Author rulings (2026-08-06)
 
 Reviewed item by item with the author, enriched with cold-read evidence from
-four models. **10 of 12 findings applied, 2 left standing; 3 reader-sourced
+four models; a fifth (gpt-5.6-terra, commit `20a6c3d`) landed mid-review and
+was mined after the rulings — it changed none of them (see below). **10 of 12 findings applied, 2 left standing; 3 reader-sourced
 bonus items, all left standing.** Durable record (with rationale) is
 `meta/meta-triage-turned-up.md` — this report file is overwritten on re-run.
 
@@ -84,3 +85,32 @@ suppressed* — finding 9's cut changed the sentence's fingerprint and re-armed
 it, which is correct behavior, not a regression. The construction itself is
 unchanged from the accepted version. **Awaiting the author's sign-off to
 re-`--ack` it**; no `--ack` pass has been run on this chapter otherwise.
+
+### Fifth cold read, mined post-ruling (gpt-5.6-terra)
+
+`reviews/cold-read/gpt-5.6-terra/turned-up.md` landed at `20a6c3d` while this
+review was in progress and was missed by the initial mining. Mined afterward
+against every ruling above. **No ruling changed.** The reader states outright
+"I did not feel friction here," raises **no** intra-chapter repetition
+complaint (so none of the ten applied edits are contradicted), and:
+
+- **Strengthens** the "not gay" verdict — reads the line as working, not as
+  shorthand: it "nicely exposes how strange he is by ordinary assumptions."
+- **Strengthens** the re-narration verdict — does not raise the recap at all,
+  leaving claude-opus-4-8 alone among five.
+- **Strengthens** the Cassie-grading verdict — praises her receptiveness
+  without naming either flagged clause.
+- Confirms the two protected peaks: "Like I was supposed to be there" ("landed
+  hard for me") and "*I* was grinding on *him*" ("a real shift from the girl
+  who feared being found out as too hungry or too sexual").
+- Says nothing about "filed" either way.
+
+One new item, recorded in the triage doc as **thematic, not craft**: the
+reader pauses on Cassie's "He asked" / Vee's "He didn't use the word. But yes,"
+feeling "the importance of the distinction, especially under the book's
+tagline." Not a craft complaint and no edit proposed.
+
+**Process note:** the initial reviews mining was dispatched in parallel with
+the session's `git pull` and raced a review file that the pull was fetching.
+Mine `reviews/cold-read/*/<slug>.md` **after** the pull completes, or list the
+directory first to confirm the model count.
