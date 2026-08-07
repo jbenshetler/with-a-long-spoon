@@ -9,23 +9,26 @@ images/cover.jpg    1000×1600 web copy of images/cover.png
 images/cover-500.jpg  half-size, served to phones via srcset
 ```
 
-## Deploy (Cloudflare)
-
-Dashboard → **Workers & Pages** → **Create** → **Pages** tab → **Upload assets**.
-Drag **this directory** in (not the repo root). Then, in the project's
-**Custom domains**, add `helenriversbooks.com` and `www.helenriversbooks.com`.
-
-Updating later: drag the directory in again — each upload is a new deployment,
-and old ones stay available for rollback.
-
-## Regenerating the cover images
-
-After a cover change, re-derive both sizes from the master symlink:
+## Deploy
 
 ```
-convert images/cover.png -resize 1000x1600 -quality 86 site/helenriversbooks.com/images/cover.jpg
-convert images/cover.png -resize 500x800  -quality 86 site/helenriversbooks.com/images/cover-500.jpg
+site/helenriversbooks.com/deploy.sh
 ```
+
+Wraps `wrangler pages deploy` for the `helen-rivers-site` project, and
+regenerates the web cover copies first if `images/cover.png` (the master
+symlink) is newer. First run opens a browser to log in to Cloudflare; after
+that it is non-interactive. Live at <https://helen-rivers-site.pages.dev> —
+the per-deployment hash URL wrangler prints has no TLS certificate, so ignore it.
+
+Dashboard drag-and-drop and the folder picker are both broken in Chrome on
+Cinnamon/Mint; `/tmp` zip upload is the fallback if wrangler is unavailable.
+
+Custom domains are attached in the dashboard under the project's **Custom
+domains** (`helenriversbooks.com`, `www.helenriversbooks.com`) — Cloudflare
+writes the DNS records and issues the certificates itself.
+
+`.assetsignore` keeps this README off the public site.
 
 ## Copy source
 
