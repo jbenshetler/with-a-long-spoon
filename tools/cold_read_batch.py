@@ -228,6 +228,43 @@ def relocate_structured_block(reader: str, carry: str):
     return f"{reader.rstrip()}\n\n### Structured block\n\n{block}", remainder, True
 
 
+# Retention enforcement. SPEC and blind-reader.md already forbid both of these in
+# prose, and readers violate them anyway: claude-fable-5 dropped named characters
+# (including Vee's own surname and Brooke) at 7 points in chs.1-8, and collapsed 35
+# motifs into "— all as previously logged", stripping every appearance trail and
+# pointing at files the next reader never sees. A dropped fact is silently
+# unrecoverable: the next reader has ONLY this ledger. So check it in code.
+_POINTER_RE = re.compile(
+    r"(?i)(as previously logged|previously logged|all prior (?:entries|questions) stand"
+    r"|all (?:prior|earlier) \w+ (?:stand|remain)|unchanged from (?:the )?prior)"
+)
+
+
+def _cast_names(carry: str) -> set:
+    """Names in the who's-who section, lowercased."""
+    if not carry:
+        return set()
+    head = re.search(r"(?im)^\s*(?:#{1,4}\s*)?(?:\*\*)?Who.s who\b.*$", carry)
+    if not head:
+        return set()
+    rest = carry[head.end():]
+    nxt = _LEDGER_START.search(rest)
+    section = rest[: nxt.start()] if nxt else rest
+    return {n.strip().lower() for n in re.findall(r"^[-*]\s+\*\*([^*]+?)\*\*", section, re.M)}
+
+
+def check_retention(prior_carry: str, new_carry: str):
+    """Return a list of retention violations (empty = clean)."""
+    problems = []
+    dropped = sorted(_cast_names(prior_carry) - _cast_names(new_carry))
+    if dropped:
+        problems.append("dropped cast entries: " + ", ".join(dropped))
+    hits = sorted({m.group(0).lower() for m in _POINTER_RE.finditer(new_carry)})
+    if hits:
+        problems.append("pointer-style compression (strips trails): " + "; ".join(hits))
+    return problems
+
+
 def write_review(out_dir: Path, model_id: str, model_selector: str, scene, response_text, predecessor, provider_label: str = "OMP"):
     reader, carry = split_reader(response_text)
     reader, carry, moved = relocate_structured_block(reader, carry)
@@ -345,6 +382,8 @@ def run_batch(
 
         ok = False
         usage = None
+        prior_carry_text = carry if carry.strip() else ""
+        last_problems = []
         for attempt in range(1, max_attempts + 1):
             prompt = base_prompt
             if attempt > 1:
@@ -352,6 +391,14 @@ def run_batch(
                     "\n\nFORMAT REMINDER: Return exactly two top-level sections headed "
                     "`### Reader reaction` and `### Carry-forward state`. The carry-forward "
                     "section must be a full updated memory, not empty."
+                )
+            if last_problems:
+                prompt += (
+                    "\n\nRETENTION REMINDER: your previous attempt lost memory the next "
+                    "reader cannot recover — " + "; ".join(last_problems) + ". Carry EVERY "
+                    "prior who's-who entry forward, and write each motif out with its own "
+                    "trail. Never write 'as previously logged' or point at earlier "
+                    "chapters: the next reader sees ONLY this ledger."
                 )
             # unique label every attempt/time to avoid artifact collisions
             label = (
@@ -365,6 +412,29 @@ def run_batch(
                 response_text = parse_response(result.get("output") or result.get("text"))
                 reader, parsed = split_reader(response_text)
                 if reader and parsed:
+                    last_problems = check_retention(prior_carry_text, parsed)
+                    if last_problems and attempt < max_attempts:
+                        print(
+                            json.dumps({
+                                "slug": scene["slug"],
+                                "status": "retention-retry",
+                                "attempt": attempt,
+                                "problems": last_problems,
+                            }),
+                            flush=True,
+                        )
+                        continue
+                    if last_problems:
+                        # Out of attempts: keep the review (a partial ledger beats no
+                        # chain) but make the loss loud and durable in the stats.
+                        print(
+                            json.dumps({
+                                "slug": scene["slug"],
+                                "status": "retention-warning",
+                                "problems": last_problems,
+                            }),
+                            flush=True,
+                        )
                     path, carry = write_review(
                         out_dir, model_id, model_selector, scene, response_text, predecessor, provider_label
                     )
@@ -382,6 +452,8 @@ def run_batch(
                         "carry_chars": len(carry),
                         "usage": usage,
                     }
+                    if last_problems:
+                        rec["retention_problems"] = last_problems
                     log.append(rec)
                     print(
                         json.dumps(

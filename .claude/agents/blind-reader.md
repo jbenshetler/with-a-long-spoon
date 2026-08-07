@@ -180,3 +180,15 @@ very old scenes — but the *who/what/where* stays intact.
 Fold the prior state in and update what changed, but **preserve everything** — the
 whole durable ledger and a faithful running memory. The next reader will have ONLY this
 plus the next chapter, so a fact you drop here is a fact the book loses.
+
+**Never point at earlier chapters — the next reader cannot follow a pointer.** Writing
+"as previously logged", "all prior entries stand", or listing motif names without their
+trails destroys the ledger while looking like you kept it. There is no earlier file to
+consult: this ledger is the whole memory. Every entry you intend to keep must appear
+here **in full, with its trail**, every single time.
+
+**Copy unchanged entries forward verbatim.** If an entry has not changed, reproduce its
+exact wording rather than re-describing it. Re-paraphrasing each chapter quietly erodes
+your sharpest formulations across a long book — the precise phrase you found for
+something is itself worth keeping. Rewrite an entry only when the new chapter actually
+changed what you think.
