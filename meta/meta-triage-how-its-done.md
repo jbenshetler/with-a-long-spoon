@@ -57,8 +57,15 @@ evidence** (line-edit verdicts re-open on a text edit to the passage).
   to learn" → "studied Randi" (study/learn near-tautology); cut "instead of
   the glamorous girl" (a label after four clauses of showing — `:164`'s "the
   most glamorous woman she knew" is Vee's own vocabulary and stands).
-- `:17` — "held the look a beat past nothing" → "held the look past
-  nothing". **Flagged for the author's ear: still reads clunky.**
+- `:7` and `:17` — echo FIX-AT #2 ("a beat past"). *Both* varied; the chapter
+  claims no keeper slot. `:7` "it stayed a beat past when it might have
+  stopped" → "it stayed past when it might have stopped"; `:17` "held the look
+  a beat past nothing" → "held the look a beat". The first attempt kept `:7`
+  and varied `:17` to "held the look past nothing" — reversed the same day: the
+  figure was opaque ("past nothing means nothing to me") and cutting "a beat"
+  orphaned the antecedent of "for that beat" later in the sentence. `:7` also
+  measured as the weaker use, a near-twin of `fed:73`. Detail in
+  `audits/line-edit/echo-rulings.md` #20.
 - `:21` — Sinatra gloss trimmed to the identifying stroke ("the one where he
   calls it witchcraft"): the cut clauses stated the book's own argument in
   the narrator's voice. gpt-5.6-sol called it "a little pointed";

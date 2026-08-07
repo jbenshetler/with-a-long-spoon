@@ -48,7 +48,7 @@ The chapter's own high bar: the price-column paragraph and its payoff ("more tha
 Durable ledger: `meta/meta-triage-how-its-done.md`. This file is disposable.
 
 1. Applied — cut second "at the curb" (`:5`).
-2. Applied — FIX-AT #2: `:7` kept, `:17` varied ("held the look past nothing"; author flagged as still clunky).
+2. Applied — FIX-AT #2, then reversed same day: *both* varied. `:7` → "it stayed past when it might have stopped"; `:17` → "held the look a beat". (First attempt kept `:7` and gave `:17` "past nothing" — opaque, and it orphaned "for that beat". See echo-rulings #20.)
 3. Applied — cut the hair/wind personification (`:13`).
 4. Resolved for free by #3 — "boisterous" now 1×.
 5. Applied — "studied Randi the way you study what you'd like to learn" → "studied Randi" (`:15`).

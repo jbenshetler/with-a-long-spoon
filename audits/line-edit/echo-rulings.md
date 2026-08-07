@@ -147,7 +147,22 @@ re-rule against their then-current text.
     folds are shame, Randi's is tactical. Do not flag or vary.
 
 20. **"a beat past" (`how-its-done:7`, `:17`) — FIX-AT #2 applied
-    2026-08-06.** Line 7's use kept (the smile, the chapter's opening tell);
-    `:17` varied to "held the look past nothing". **Open question for the
-    Volume One pass:** whether `:7`'s "a beat past" claims a book-wide keeper
-    slot. Recorded as kept in-chapter only.
+    2026-08-06; revised same day.** *Both* occurrences varied — the chapter
+    claims no keeper slot. `:7` → "and it stayed past when it might have
+    stopped" (dropping "a beat"); `:17` → "held the look a beat".
+    **Why the reversal:** the first pass kept `:7` and varied `:17` to "held
+    the look past nothing", which failed twice — the figure was opaque to the
+    author ("means nothing to me"), and cutting "a beat" orphaned the
+    antecedent of "for that beat" later in the same sentence. Re-measuring
+    also showed `:7` was the *weaker* of the two: it is a near-twin of
+    `fed:73` ("smiled … and it stayed a beat past where it needed to") — same
+    subject, verb, and figure — while `:17` half-collided with
+    `another-round:53` ("The look held … a beat past what any look she'd ever
+    been given").
+    **Scope note for sibling chapters:** the tic is **"a beat past"**
+    specifically, not "a beat". Bare "a beat" runs ~50× book-wide as ordinary
+    unmarked idiom (`practice-room:53` "let a beat go by", `dear:69` "let a
+    beat pass") and is not under this ruling.
+    **Open question for the Volume One pass:** which 2–3 of the remaining
+    "a beat past" occurrences claim the keeper slots. `how-its-done` is now
+    out of the running.
