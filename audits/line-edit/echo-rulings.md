@@ -28,13 +28,22 @@ re-rule against their then-current text.
    **Applied 2026-08-06: `two-towels`** ("Something in her dropped, small and
    private." → "Something in her dropped.").
    **Open question raised at that review, not yet ruled:** the occurrences
-   split into two kinds — four are Pace's recurring *tell*, "the small private
-   smile" (`all-told`, `new-ordinary`, `above-him`, `ignition-scalding`), which
-   may warrant PROTECTED on the "randi pulled her into" logic (the repeated
-   gesture *is* the characterization); the other two are the adjective pair
-   used elsewhere (`two-towels`, now cut, and `seconds.md:51`). If the split
-   holds, the real FIX-AT set is `seconds` alone. Awaiting an author ruling —
-   until then treat the four smiles as unruled, not as licensed.
+   split into two kinds — ~~four~~ **three** are Pace's recurring *tell*, "the
+   small private smile" (`new-ordinary`, `above-him`, `ignition-scalding`),
+   which may warrant PROTECTED on the "randi pulled her into" logic (the
+   repeated gesture *is* the characterization); the others are the adjective
+   pair used elsewhere (`two-towels`, now cut, and `seconds.md:51`). If the
+   split holds, the real FIX-AT set is `seconds` + `all-told`. Awaiting an
+   author ruling — until then treat the three smiles as unruled, not as
+   licensed.
+   **Correction (author ruling 2026-08-07, during the All Told review):**
+   `all-told:37` was listed above as a fourth Pace smile. **It is not Pace —
+   it is the stats professor** ("He smiled the small private smile of a man who
+   had laid the same trap a hundred times"). It therefore cannot inherit a
+   protection granted on the grounds that the smile is *Pace's* tell, and
+   spending a signature Pace gesture on a walk-on is itself the argument
+   against keeping it. Moved to the FIX-AT set: **varyable at the All Told
+   review.** The open Pace question narrows to the remaining three.
 4. **"high on the inside of" (6× incl. a-round) — FIX-AT wording, PROTECT the
    fact.** The recurring occurrences are Pace's scar (Vol 1: famished, rock,
    above-him, we-find-out — its found/traced/kept arc). The
@@ -261,3 +270,55 @@ to the author; they are logged so a later harvest does not present them as new.
 - "wine-dark" (`peekaboo:15`) — striking diction; a reader would feel it twice.
 - "most of the way to" — reduced to one occurrence in Peekaboo at this review;
   flagged there as feeling like a book-wide measure-phrase.
+
+## Batch 6 (ruled 2026-08-07, during the All Told review)
+
+**#26 — #3's "small private smile" set is three, not four.** See the correction
+recorded inline at #3 above. `all-told:37` is the **stats professor**, not
+Pace; varied at this review ("He smiled the smile of a man who had laid the
+same trap a hundred times"). **General principle established for the remaining
+Pace-smile ruling and for future passes: a character's signature gesture spent
+on a walk-on is an argument for cutting it, not for protecting it.** The same
+principle decided the `unhurried` register leak in the same chapter — `:35`'s
+"flat unhurried voice" (the professor) → "unbothered", since *unhurried* is
+Pace's word by the author ruling of 2026-07-28.
+
+**#27 — #5 "warm weight of" progress.** `all-told:21` varied ("the full warmth
+of her attention"), lamp intact. `the-bench` remains the Vol-1 keeper. The
+`practice-room` near-twin flagged in #18's sub-note (`the whole bright weight…
+like a lamp`) is now the **only** surviving instance of the `the whole ___
+weight` frame in the reviewed set — it should be decided at its own review
+rather than inheriting anything from here.
+
+**#28 — "Tell me everything" (Randi) is a refrain, not an accident.** `fed:15`
+("Be cruel. Tell me everything") and `all-told:25` ("Tell me everything. Leave
+nothing out."). Both left standing at the All Told review. **Unruled** pending
+the end-of-pass harvest, which should count the full book-wide set before any
+FIX-AT: if it recurs at every extraction beat it is the SATC container's
+signature line and belongs in PROTECTED; if it appears twice by reflex it is a
+FIX-AT. Do not vary either occurrence before that count exists.
+
+### Unruled candidates logged from All Told
+
+- **`Something [verb]ed in [X]'s [body part]`** — the interiority frame. Two in
+  this chapter ten lines apart (`:49` "Something eased in Cassie's face",
+  `:59`, now cut). Not on the current inventory; likely runs book-wide and is a
+  strong FIX-AT candidate for the end-of-pass linter harvest. **`:49` is
+  reader-quoted** (claude-opus-4-8: "That's love with no agenda"; gpt-5.5
+  seconds it) — if a ration is granted, `all-told:49` has the claim.
+- **"a tattletale … for anyone who cared to read it"** (`all-told:5`) — the
+  reading-the-body/reading-the-evidence figure. Worth checking against other
+  morning-after chapters. Reader-praised here (opus-4-8: "a lovely small
+  image"), so `all-told` should be the keeper if a set exists.
+- **"a good soreness no gym had ever given her"** (`all-told:53`) — the
+  gym-comparison for post-sex soreness; check for a sibling rendering in
+  Vol 1. Reader-named as the chapter's most alive line by two models.
+- **"short stretches can lie against the whole"** (`all-told:69`) — thesis
+  line. If it recurs anywhere as callback, that recurrence is design and this
+  chapter is the keeper. Never vary it here.
+- **"fit to burst"** (`:7`), **"underslept and overfull"** (`:9`) — striking
+  diction, rare-word check (ruling #13) to confirm each is spent only once.
+- **"before other people had decided to go"** (`:9`) — the
+  body-or-action-before-decision family (#8 / #8b). Breaks the `before s/he'd
+  decided to` stem, so it is **not** counted against the #8 ration; logged for
+  the family's end-of-pass inventory only.

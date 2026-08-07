@@ -403,6 +403,69 @@ text = "And then Randi's mouth, the greeting they did now, easy, only what they 
 note = "All the Time finalized: fixable tics recast; remainder are authorial keeps (the-way 4/5, file motif, Vee fumbles, there-was anaphora, in-voice antithesis)"
 
 [[ok]]
+fp   = "f14e48285272"
+rule = "began-to"
+file = "scenes/all-told.md"
+text = "So Vee started to tell them."
+note = "Structural: the professor cuts her off two lines later, so 'started to' is the fact. Author sign-off 2026-08-07."
+
+[[ok]]
+fp   = "660a64a7769d"
+rule = "learn"
+file = "scenes/all-told.md"
+text = "And she did learn it, for a while."
+note = "Deliberate repetition, paired with the preceding 'learn'. Author sign-off 2026-08-07."
+
+[[ok]]
+fp   = "c28eb7e8457a"
+rule = "learn"
+file = "scenes/all-told.md"
+text = "Vee made herself pull her eyes to the front, the good student coming up for air from her own life to learn a thing she would never use."
+note = "Deliberate repetition; 'a thing she would never use' is the chapter's dramatic irony. Author sign-off 2026-08-07."
+
+[[ok]]
+fp   = "acd5383b51e8"
+rule = "the-way"
+file = "scenes/all-told.md"
+text = "The room had that just-left stillness, Cassie's bed made tight the way Cassie made it, Vee's own untouched, a tattletale in the cold morning light for anyone who cared to read it."
+note = "Characterization by method, not a filter — the sentence's subject is how Cassie does things. Author sign-off 2026-08-07 (line-edit pass)."
+
+[[ok]]
+fp   = "e102ca32544c"
+rule = "the-way"
+file = "scenes/all-told.md"
+text = "She followed the two columns up the screen, the numbers refusing to add the way numbers were supposed to."
+note = "Vee's idiom; the 'as' recast reads formal against her giddy register. Author sign-off 2026-08-07 (line-edit pass)."
+
+[[ok]]
+fp   = "b848ce66fbf8"
+rule = "there-was-were"
+file = "scenes/all-told.md"
+text = "And there was the one snag in the gold of the day, and Randi had reached in and found it."
+note = "The existential is the turn — the day was gold until it wasn't. Author sign-off 2026-08-07."
+
+[[ok]]
+fp   = "0b4fde8176b2"
+rule = "warm"
+file = "scenes/all-told.md"
+text = "On her other side Randi turned the full warmth of her attention on, like a lamp finding you."
+note = "Randi's warmth is her whole surface; edited in during this pass to break echo #5. Author sign-off 2026-08-07."
+
+[[ok]]
+fp   = "c0f8765f49cc"
+rule = "warm"
+file = "scenes/all-told.md"
+text = "It went through her warm, and she didn't."
+note = "Edited in this pass to break the Something-verbed-in frame and the in-her-chest locus tic. Author sign-off 2026-08-07."
+
+[[ok]]
+fp   = "69f18687e144"
+rule = "whole-of"
+file = "scenes/all-told.md"
+text = "\"A thing can run one way across every short stretch you measure and the opposite way across the whole of it.\""
+note = "Load-bearing: the professor's phrasing is what Vee writes down as 'short stretches can lie against the whole'. The tic word IS the thesis word. Author sign-off 2026-08-07."
+
+[[ok]]
 fp   = "22c704fca6d0"
 rule = "filter-verbs"
 file = "scenes/among-friends.md"

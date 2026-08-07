@@ -113,3 +113,29 @@ Distinctive phrases from this chapter that may recur elsewhere in `scenes/` and 
 7. **"a tattletale … for anyone who cared to read it"** (:5) — the reading-the-body/reading-the-evidence figure. Distinctive enough to check against other morning-after chapters.
 8. **"a good soreness no gym had ever given her"** (:53) — the gym-comparison for post-sex soreness; check for a sibling rendering elsewhere in Vol 1.
 9. **"short stretches can lie against the whole"** (:69) — thesis-carrying line; if it recurs anywhere as callback, that recurrence is design and this chapter is the keeper.
+
+---
+
+## Author rulings (2026-08-07)
+
+- **P1** (#5 "warm weight of", `:21`) — applied: "the full warmth of her attention"; lamp untouched.
+- **P2** (#3 mis-attribution, `:37`) — mis-attribution confirmed and corrected in the ledger; occurrence moved to FIX-AT and varied: "He smiled the smile of a man who…".
+- **1** (`:3`/`:7` idiom pair) — "topsy-turvy" sentence cut; "a whit" kept (reader-praised, gpt-5.5).
+- **2** (`:31` "started to tell them" ×2) — applied: second → "She told them".
+- **3** (`:31` unfound word doubled) — applied: collapsed to one clause, duration kept, ends on "the glass".
+- **4** (`:39` paradox pre-explained) — applied: reversal clause cut; `:67` deliberately not thinned.
+- **5** (`:39`/`:41` up-out-of) — applied at `:39` ("for air from"), NOT `:41`: the up/down mirror is the setup for the chapter's most-quoted realization.
+- **6** (`:43` not-watching doubled) — applied: "and nowhere near the front of the room" cut.
+- **7** (`:43` paragraph one sentence long) — **declined.** Three readers quote the disputed clause verbatim as the chapter's peak; all five name the beat.
+- **8** (bed-as-text ×3) — applied at `:53`: "like Cassie had read the bed" cut.
+- **9** ("delighted" ×3) — applied, **keeper inverted**: `:51` kept (reader-quoted), `:29` and `:57` cut.
+- **10** ("loving every second/inch") — resolved by the `:57` cut in finding 12.
+- **11** (`:55` three metaphors) — applied, **editor's fix inverted**: "surfacing because" → "and"; "reached in and found it" kept (reader-quoted ×2).
+- **12** (`:57` modifier stack) — applied: → "Mock-stern then."
+- **13** (`Something [verb]ed in`) — applied at `:59` → "It went through her warm"; `:49` kept (reader-quoted).
+- **14** (`:59` "grateful and warmed") — resolved by the same rewrite.
+- **15** (`:71` "the place that was hers") — applied: → "which was hers".
+- **16** (`:25` "Leave nothing out.") — **left standing.** Randi repeats herself when excited; "Tell me everything" logged as a refrain candidate (#28).
+- **Bonus 1** (`:71` "not one living soul", gpt-5.6-sol) — left standing as an end-of-volume watch-item.
+- **Bonus 2** (linter `unhurried` `:35`) — applied: → "unbothered" (Pace's word, ruling 2026-07-28).
+- **Linter sweep** — all 8 groups acked; chapter 11 hits → 0.

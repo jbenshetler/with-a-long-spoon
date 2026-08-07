@@ -27,7 +27,7 @@ the echo shortlist with the author before per-chapter editing starts).
 | 19 | Toenails | toenails | reviewed |
 | 20 | Fed | fed | reviewed |
 | 21 | Peekaboo | peekaboo | reviewed |
-| 22 | All Told | all-told | edited |
+| 22 | All Told | all-told | reviewed |
 | 23 | Sorority | sorority | edited |
 | 24 | Gone | gone | edited |
 | 25 | Rock | rock | edited |
