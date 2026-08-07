@@ -135,7 +135,10 @@ passes did not overlap.
   business, which gpt-5.5 singled out ("exactly the body of someone who has
   been changed by an afternoon and cannot file it normally"). Naming the beat
   is the one thing that opening proves the chapter doesn't need to do. Note
-  echo-rulings #2 has the cousin phrase "a beat past" as FIX-AT book-wide.
+  echo-rulings #2 covers "a beat past" **only** — scope clarified 2026-08-06
+  (ledger #20): bare "a beat" runs ~50× book-wide as unmarked idiom and is
+  not under that ruling. So `:133` "A beat." and `:57` "a beat too long"
+  are clear of it; this cut was made on within-chapter repetition alone.
 - **`:71` "The room was quiet." cut** (kept at `:147`, the deeper beat, where
   it stands alone). Cut rather than reworded because "quiet" ran eight times
   in this chapter; the staging already holds the pause (Cassie "went very
