@@ -109,3 +109,43 @@ them or re-argue the ones that deviate from the report.
   "Something dropped out of her") and the tape-across-nipples beat (cut
   entirely) were varied, on the principle that varying the *first* instance
   matters most — it denies the reader a template to notice being repeated.
+
+## Left standing — do not re-litigate (line edit, post-edit cold reads 2026-08-06)
+
+The chapter was re-read by three models against the edited text (commit
+`c288217`; re-read commit `b67dd4c`). **Every applied edit held** — no model
+raises the ending, the "Keep still" interiority, the mother's-voice material,
+or any word/image repetition. Three new line-level flags arrived; all ruled
+to stand.
+
+- **"She knew, the way you know weather coming in, that she had a long way
+  still to fall"** (the cutting interlude) — gpt-5.6-sol: "tells me what the
+  already vivid physical details have made clear," and the passage "slightly
+  overstates Vee's wetness before the fitting resumes." **Author ruling
+  2026-08-06: stands.** Single model, and the interlude's accumulating dread
+  is structural (claude-fable-5 on the same passage: "the one deliberate slack
+  point and it's structural"). Note for future linter runs: this line also
+  trips the `weather` rule (figurative weather), and that hit is *known and
+  accepted here* — do not re-raise it as a fresh finding.
+- **"the way you'd gentle a horse"** — gpt-5.6-terra's only friction: "jarred
+  me slightly… made his first gentle measurements feel a little more clinical
+  than tender." **Author ruling 2026-08-06: stands.** One hedged model against
+  a working simile.
+- **Pin/plausible-deniability mechanics "carefully prolonged"** —
+  gpt-5.6-terra, self-hedged ("because Vee's experience is precisely this slow
+  accumulation, it mostly worked rather than went slack"). **Stands.**
+
+## Pace's competence — ruled not actionable (2026-08-06)
+
+Raised by gpt-5.5 in both cold-read runs and independently by gpt-5.6-terra
+("his competence can feel almost overwhelming"); gpt-5.5 post-edit: "his
+near-impossible competence remains noticeable." The line-edit fix (cutting
+"like it was the thing he'd been made for") **did not clear it** — gpt-5.5
+simply re-anchored the same objection to the riser's "of course he'd built it."
+That is the proof it is architecture, not phrasing.
+
+**Author ruling 2026-08-06: not actionable.** Changing Pace's competencies
+would require rewriting substantial portions of the novel — at least 5–6
+chapters. The flag is known, accepted, and closed. **Do not re-raise it at
+this or any other chapter's review**, and do not propose sentence-level fixes
+for it: the a-round attempt showed they only move the reader's anchor.
