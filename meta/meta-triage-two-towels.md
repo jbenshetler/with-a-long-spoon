@@ -38,6 +38,30 @@ evidence** (verdicts re-open on a text edit to the passage).
   seductive"), opus-4-8 quoted the kitchen version ("I like him more here than
   I have anywhere, which is precisely why I'm scared"). Only the pointing
   finger went.
+- **The kitchen's three closing clauses cut** (item 5, reopened 2026-08-06 —
+  **this reverses part of the earlier ruling on the same item**). Was: "…worn to
+  the shine of a thing used every day. Nothing for show. Everything in the room
+  had earned its place by getting used, one right thing for each thing he did."
+  Now ends at "…worn to the shine of a thing used every day."
+  **Why reopened:** the post-line-edit cold reads (2026-08-06, gpt-5.6-sol) made
+  the "one right thing" repetition sol's *sole* remaining friction — *"stated
+  enough that I begin to feel the emphasis"* — after the first pass had cut only
+  the pointing finger ("— the same logic as the shoes,") and left both halves of
+  the parallel standing. The partial fix did not clear it.
+  **Why this cut and not the shoes:** the paragraph already *shows* the idea in
+  objects ("only the ones a cook keeps reaching for"; "worn to the shine of a
+  thing used every day") and then told it three times in the abstract, the last
+  clause repeating the shoes verbatim. The shoes version is the earned one — in
+  Vee's voice, provoked by Pace's "Depends how many things he does," and quoted
+  approvingly by gpt-5.5 in **both** cold-read runs. Say it once, where it's
+  earned; let the kitchen be evidence.
+  **Cost accepted:** opus-4-8 had quoted the kitchen version (*"I like him more
+  here than I have anywhere, which is precisely why I'm scared"*). Judged to be
+  a response to the paragraph rather than that sentence; the inventory survives
+  intact. Not re-testable cheaply — opus's chain is stale at ch.8 (see
+  `reviews/cold-read/README.md`, "Chain currency").
+  **Evidence strength, recorded honestly:** sol flagged this in both runs;
+  gpt-5.5 in neither. One model, not a consensus.
 - **"the expensive kind — " cut** (item 6) — doubled "kind" inside one
   bookshelf sentence, and the told version of what the rest of the sentence
   shows ("the kind you had to order and couldn't have found on any shelf in

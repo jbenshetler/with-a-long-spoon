@@ -4,94 +4,104 @@
 
 ## Reader reaction
 
-This chapter got under my skin in a quieter way than I expected. I came into Pace’s house braced for sex, or at least for the erotic apparatus I know is somewhere in his world, and the chapter keeps opening doors and then not opening *that* door. That made me tense in a very bodily way: Vee has worn satin “hoping the man won’t hand her a reason not to show it to him,” she kisses him at the door with all the stored-up hunger from the mountain, and then he is the one who stops. That landed hard: “no boy she’d ever been with had once been the one to stop. That had always been her job, never theirs.” I felt her startled recalibration there. The erotic charge peaks for me in that stopped kiss and then again, differently, when the measuring is offered: the invitation to be seen “down to what you’d wear under it, in good light.” It’s not explicit, but it is intensely intimate because the whole chapter has made his looking feel precise, skilled, and consequential.
+Oh. This chapter got me in the chest before it got me anywhere else.
 
-Pace is almost too much here, and I mean that both as attraction and alarm. The house is not flashy; it is exact. Shoes for each use, knives that have earned their place, paper everywhere in the office, handmade furniture, a workshop clean enough to feel devotional. I am very drawn to the idea of him: competent in body, mind, craft, food, clothes, and attention. The MRI patent moment unexpectedly moved me — not because it makes him impressive, though it does, but because his face lights up around helping “somebody sick, somebody scared, a kid who can’t lie still.” That widens him.
+I came in braced for Pace’s house as erotic danger — because I know about the bench, because the jacket keeps whispering trap, because Vee doesn’t know Randi and Pace chose her. And the chapter absolutely uses that tension: the missed driveway, the closed garage, the “only closed door in the house,” the bedroom she dressed for and doesn’t get invited into. But what actually arrives is not the sex scene I was half-expecting. It is almost more intimate: his house as evidence of him.
 
-But my suspicion does not go away. The text earns trust in his moment-to-moment behavior with Vee: he does not push the bedroom, does not convert her arrival kiss into a demand, does not flatter himself over the shirt, and frames the dress as “If you want it.” At the same time, I know from earlier pages that he and Randi picked Vee without telling her, and the cover keeps whispering “Every yes was freely given. That was the trap.” So when Vee says “Yes. Yes — of course, yes,” I feel both the beauty of the gift and the trap-shape of it. Her yes is completely hers; that is exactly why it scares me.
+I feel more attracted to Pace than ever, and more uneasy because of it. The chapter makes him devastatingly appealing. The shoes “paired and squared,” the kitchen that “looked like it had a purpose,” the office full of graph paper and dense correction, the handmade furniture, the shop clean enough to shame every garage stereotype, the patent that helps people get out of MRI machines faster — all of it builds a man whose competence is not decorative. It has ethics in it. It helps sick people. It makes beauty. It listens. When he explains error-correcting codes as “Say it more than once so the noise can’t kill it,” I felt a little taken apart, because that line also seems to describe the whole way he attends to Vee: repeating care in enough forms that she can receive the message through all the shame-noise.
 
-Vee is wonderful here. She is nervous, wanting, observant, funny, and smart in the way she reads rooms. I loved her reading Pace off the closet floor: “One right pair for each thing and no more; she could have read half of him off that closet floor without a word.” She doesn’t become passive in his house. She asks to see “the whole thing,” she looks closely, she teases, she asks bluntly about money, she asks to see where he makes furniture. The final emotional blow — realizing he remembered the silk dress and matched not the magazine but *her* — really worked on me. I felt her eyes go hot before the line said they did.
+And then the silk. The burgundy silk knocked me flat. Not because it is expensive, exactly, but because he remembered something she had “already let go of,” and he didn’t match the fantasy object; “He’d matched *her*.” That is intensely romantic and intensely dangerous. It is maybe the most seductive thing he has done yet, and it is also a perfect polite invitation: no force, no demand, just a door opened onto a yes she can hardly refuse emotionally. The cover tagline rang very loudly here. “Every yes was freely given. That was the trap.” Her yes at the end is completely hers — “warm and immediate, no hedge in it” — and I believe it. But I also feel the trap tightening, because how do you say no to being seen this accurately?
 
-Randi’s absence is loud now. She is not in the room, but everything about this threshold makes me wonder where she is in relation to it. Does she know he bought burgundy silk? Does she know he invited Vee to the house alone? Does she know the “third” is now being offered a dress made to her body, for her public honor society induction, out of a want she once confessed on a mountain? I am increasingly anxious that Pace’s connection to Vee is becoming tender and individual in a way that may exceed whatever game he and Randi thought they were playing.
+My trust in Pace moves in two directions at once. On the page, in this chapter alone, he earns trust: he stops the kiss himself, invites her in, shows her the house, leaves the bedroom door closed rather than making the obvious move, frames the dress clearly, tells her measuring will require seeing her “down to what you’d wear under it,” and leaves “the rest to her, open.” Nothing here feels coercive in the blunt sense. But because I carry the earlier chapters, I cannot relax. He has not told her about Randi. He has not told her she was selected. He knows the emotional weight of this gift. So the kindness feels real and the concealment feels real, and that combination is making me nervous.
 
-The title, “Two Towels,” felt almost comic at first because it is such a small household detail: “a bathroom, plain, clean, two towels on the rod.” But after reading, it points right at the question that hums under the chapter: who are the two towels for? Does he live alone but prepare for someone? Is one for Randi? For a guest? For aftercare? It’s tiny, domestic, and suspiciously intimate. It did not give the chapter away, but it made that bathroom detail glow once I reached it.
+Vee breaks my heart a little here. She arrives wanting him plainly — “I missed you,” then kisses him before entering — and I loved that she took what she wanted. I also loved the tiny recalibration when he stops: “Something in her went still and started paying attention.” She notices that this man’s restraint is not like the boys she has known. But then the bedroom moment hurts. She has dressed for it. She has “put on, under everything, the satin a girl wears hoping the man won’t hand her a reason not to show it to him.” When he leaves the door shut and turns her away, “Something in her dropped.” I felt that. Not because Pace did wrong exactly, but because she is so ready to be chosen bodily, and she has to hide the disappointment from her face.
 
-The book title, *A Polite Invitation*, is almost painfully active here. The entire chapter is an invitation disguised as a house tour, then narrowed into another invitation: “I’d like to make it for you… If you’ll let me.” *With a Long Spoon* still feels like a warning about approaching something dangerous with manners and distance, though I do not yet know its practical meaning. The tagline is the blade under the silk: Vee’s “yes” to the dress-measuring is freely, warmly given. That is exactly what frightens me.
+The erotic charge is strong but mostly displaced. The kiss at the door is the overt peak: “His hand came up into her hair and the kiss opened,” and it has “the plain satisfaction of a thing waited-for finally arriving.” The closed bedroom door is almost hotter in frustration than if he’d opened it. Then the charge transfers into measuring: the dress offer makes being looked at practical, artistic, sensual, and terrifying all at once. The last line’s “Yes” is not sex, but it is consent to exposure, and that lands erotically.
 
-My main friction is that Pace’s competence is starting to verge on impossible-man territory: math doctorate, powerlifting, cooking, furniture-making, tailoring, patent licensing, exquisite emotional restraint. The chapter partly disarms that by making the house modest and used, and by letting Vee feel the absurdity herself — “the answer was absurd” — but I did feel the stack. If anything made me resist, it was the accumulation, not a single line.
+The chapter title, “Two Towels,” seemed almost minor when I hit the bathroom line — “plain, clean, two towels on the rod” — but it stayed with me. Two towels in a house where he lives alone. It could be nothing: practical, guest-ready. But as a reader primed by this book, it feels like readiness for another body, a house prepared not just for bachelor solitude but for receiving someone. It also quietly points away from the bedroom and toward domestic intimacy: not the bed, the towels. The ordinary provision after water, after undressing, after being seen.
 
-What I want next: I want to see the measuring. I dread it too. I want Cassie to know before Vee is half-undressed in that glass room. I also badly want Randi back on the page, because this gift feels like a shift in the whole triangle, whether Vee knows there is a triangle or not.
+The book title, *A Polite Invitation*, feels almost painfully exact now. This whole chapter is invitation after invitation: “Come in,” “Show me,” the house tour, the closed bedroom not offered, the silk offered with conditions named, and finally “If you want it.” The series title *With a Long Spoon* still feels like distance from danger — how close can you eat with the devil, maybe — but I’m not sure yet how literal or moral that will become. The tagline is blazing over this chapter. Vee’s yes is free. It is also being elicited by care so exact it overwhelms her defenses.
+
+Friction: I bought almost all of this, but Pace is becoming so super-competent that I did have one tiny “come on” flicker when the list stacked up: math prodigy, powerlifter, cook, woodworker, patent-holder, and now shirtmaker/dressmaker. The line “I couldn’t find a shirt I liked, so I made one” is charming, but it also pushed him near impossibly capable for me. That said, the chapter knows Vee finds the answer “absurd,” so my disbelief is partly folded into hers.
+
+What I want next: I badly want Cassie to hear about this before Vee gets measured. I want to know whether Randi knows about the silk. I dread Vee standing in that glass room in her underthings, being looked at with the full force of Pace’s attention, while still not knowing the hidden context. My guess from here: the measuring scene will be erotic without being technically sex, and it may matter more than sex because it will turn Vee’s body from “problem” into pattern, silk, fit, and chosen form.
+
+## Carry-forward state
 
 **Cast present (in person):**  
-Vivienne Thorne / Vee — woman; arrives at Pace’s house, kisses him, tours the house, discovers his work, workshop, and cloth for the dress.  
-Pace — man; receives Vee at his door, stops the kiss, shows her the house, explains his books/patent/workshop, offers to make her the silk dress.
+Vivienne Thorne / Vee — woman; drives to Pace’s house Saturday at two, kisses him at the door, tours his house, sees his office, handmade furniture, workshop, glass porch, and the burgundy silk he bought to make her honor-society dress; says yes to being measured for it.  
+Pace — man; receives Vee at his house, stops their kiss, shows her his home, explains his books/patent/furniture, reveals he can sew and wants to make her a silk dress, naming the need to measure her in what she’d wear under it.
 
-Mentioned-only: Vee’s parents implied through the induction context but not directly active; Pace’s parents mentioned when Vee asks if they are rich.
+**Mentioned-only names:**  
+Vee’s parents — mentioned indirectly through the earlier honor society/dress context but not newly active on page.  
+No Randi, Cassie, Meg, Kayla, Theo, Brooke, or others appear or are directly involved in this chapter.
 
-**Heat:** 1.5 — clothed but strongly charged: the arrival kiss, closed bedroom door, satin underclothes, and measuring “down to what you’d wear under it.”
+**Heat:** 1.5 — one deep kiss and sustained erotic anticipation around the bedroom door and measuring-underclothes invitation, but no explicit sexual activity.
 
-**Romance:** 3 — the silk dress offer is a major romantic/intimate turn: he remembered a discarded wish and made a plan to build it around her.
+**Romance:** 3 — Pace remembers a discarded wish, matches silk to Vee herself, and offers to make her a custom gown; this is a major intimacy/romance turn.
 
 **Motifs & images:**  
-House / door / threshold — repeat, now crossed; Vee enters Pace’s private house for the first time.  
-Closed bedroom door — first explicit in his house; sexual threshold withheld.  
-Warmth / too-warm house — repeat; his house is “warm. Too warm,” echoing warmth as care/control/mystery.  
-Shoes / right gear — repeat; closet shoes echo hiking boots/real shoes, now “one right pair for each thing.”  
-Kitchen / earned objects / being fed — repeat; his kitchen is purposeful, not performative.  
-Two towels — first sighting; domestic intimacy and possible trace of another person.  
-Paper / square handwriting / math language — repeat; Pace’s hidden intellectual structure deepens.  
-Error-correcting codes / message surviving noise — first sighting but strongly tied to hidden communication/miscommunication.  
-Handmade furniture / joints / shellac — repeat and deepened; Vee sees his craft in his den and workshop.  
-Bookshelves / fantasy paperbacks / math books / cookbooks — first strong shelf-reading of Pace.  
-Patent / signal and noise / MRI — first sighting; deepens math as practical rescue.  
-Glass porch / woods / blue mountains — first sighting of house-view; private world opened outward.  
-Burgundy silk / dress — repeat and major escalation from summit/russet dress; he has obtained silk matched to her.  
-No tag shirt — repeat/revelation; Vee realizes Pace made the good shirt.  
-Measuring tape / being looked at in good light — first explicit; ties clothing, exposure, consent, and craft.
+Door / threshold — repeat and major: missed driveway, front door opening before she knocks, bedroom as “the only closed door,” and the offered threshold into being measured.  
+House / private terrain — repeat and fulfilled: Vee finally sees Pace’s house at the end of the long gravel drive.  
+Warmth — repeat: “The house was warm. Too warm,” a controlled heat that feels both care and mystery.  
+Shoes / right gear — repeat: closet shoes “paired and squared,” each pair for a purpose, echoing real shoes/boots preparation.  
+Kitchen / appetite / competence — repeat: kitchen “looked like it had a purpose,” with used tools rather than display.  
+Two towels — first central sighting; ordinary doubled readiness in a house where he lives alone.  
+Closed bedroom door — first explicit house-bedroom threshold; Vee dressed for it, but Pace leaves it shut.  
+Wood / handmade furniture / joints — repeat and deepened: Vee sees the den furniture Pace made, touches the joints, learns there are no screws.  
+Books / shelves as self — first strong house-shelf reading: fantasy paperbacks, cookbooks, advanced math.  
+Math / signal / noise / hidden structure — repeat and deepened: error-correcting codes, redundancy, “Say it more than once so the noise can’t kill it.”  
+Patent / MRI signal — first sighting: Pace’s work separates real signal from noise faster, helping frightened/sick people spend less time in the machine.  
+Workshop / tools / outlines — first strong sighting: garage converted into clean woodshop with tools in painted outlines.  
+Glass porch / mountains / view — first sighting at house; the reason for the gravel road and hidden driveway.  
+Russet/red dress / silk / honor society clothing — repeat and transformed: Pace has bought burgundy silk, not the magazine red, matched to Vee herself.  
+No tag / handmade shirt — repeat revelation: the good shirt Vee wore was made by Pace.  
+Measuring / being looked at / clothing as exposure — repeat and escalated: he will need to measure her “down to what you’d wear under it, in good light.”  
+Polite invitation / consent — repeat: “If you want it,” and Vee’s immediate “Yes.”
 
 **Symbolism:**  
-Two towels — domestic pair, possible intimacy, readiness, or trace of another life in a house he supposedly lives in alone.  
-Closed bedroom door — desire withheld; Pace controls not by taking but by not offering.  
-Error-correcting codes — saying something more than once so the message survives noise; this feels like a lens for how care/desire/hidden truths are being sent through repeated gestures.  
-The handmade joint — patience, attention, and hidden locking structure: beauty held by what cannot be seen.  
-The burgundy silk — Vee’s discarded wish returned to her, transformed from fantasy into a body-specific invitation.  
-The measuring tape / good light — consented exposure made practical, erotic, and emotionally dangerous.
+Two towels — domestic readiness for two; a quiet sign that his solitary house may already be prepared for another body.  
+Closed bedroom door — restraint, withheld sexual possibility, and Pace’s control over pacing.  
+Error-correcting codes / signal and noise — reads as more than math: real messages surviving distortion, care repeated until shame/noise cannot kill it.  
+Handmade furniture — Pace’s patient making, hidden skill, and desire to build things fitted to purpose.  
+Burgundy silk — Vee’s discarded wish returned transformed; not fantasy copied from a magazine but desire matched to her body and coloring.  
+Measuring in good light — exposure translated into craft, fit, and consent; being looked at as both erotic and practical.
 
 **Characterization:**  
-Vee deepens: observant, brave, desirous, funny, and emotionally overwhelmed by being remembered.  
-Pace deepens dramatically: not just mathematician/powerlifter/cook, but woodworker, tailor, patent-holder, and someone whose attention becomes material action. He risks feeling too idealized, but his restraint and modest house keep him grounded for now.  
-Randi thins only by absence; the silence around her is becoming pressure rather than a contradiction.
+Vee deepens strongly: bold enough to kiss first, vulnerable enough to feel the bedroom refusal, curious about Pace’s life, sharp in reading spaces, and overwhelmed by remembered care.  
+Pace deepens dramatically: householder, cook, mathematician, inventor, woodworker, sewer, maker; tender and restrained, but almost impossibly competent. His concealment remains the dangerous undertow.  
+No one goes thin on page, though Pace’s competence risks excess.
 
 **Pace — within the chapter:**  
-Deliberate and well-earned. The tour structure could have felt static, but each room changes my understanding of Pace and tightens toward the silk.
+The chapter earns its length through discovery. It moves room by room, each space adding pressure, then pivots beautifully from house-tour to silk/dress invitation. The bedroom pause gives the middle a charged dip.
 
 **Pace — chapter to chapter:**  
-Building sharply. “What to Wear” raised the house as threshold; this chapter crosses it and turns the expected sexual afternoon into something more intimate and possibly more dangerous.
+Momentum builds hard. “What to Wear” asked what the house invitation meant; “Two Towels” answers not with sex but with a more intimate offer. The erotic/romantic stakes rise.
 
 ## Carry-forward state
 
 **Who’s who:**  
-Pace — man; seen in person. Young mathematician / near-finished math PhD; lives alone at the end of a long gravel drive off past the edge of town, at a small older post-war vinyl-sided house with a large converted garage/workshop and glassed-in porch overlooking woods and blue mountains. Randi’s secret lover. Careful, dominant, patient, sexually skilled, asks before taking and stops himself; builds furniture and hidden erotic apparatus. With Randi, helped choose Vee as the third without Vee knowing. With Vee, has tutored her, asked “May I call you?”, taken her for froyo, dinner, hiking, and now invited her to his house Saturday at two. He powerlifts in the mornings, writes mathematics with discipline, owns serious math/workstation equipment, keeps a purposeful kitchen, cooks, makes furniture, mixes stain/shellac, sews shirts, and licenses a patent related to MRI signal/noise that shortens scan time. His house contains handmade white-oak furniture, books, a very orderly workshop, and at least one closed bedroom door he does not open to Vee. In “Two Towels,” he opens the door before Vee reaches the top step, receives her kiss, meets it deeply, then stops it himself and invites her in. He shows her the house, explains error-correcting codes and his MRI-related patent, lets her see but not enter the workshop, and reveals burgundy silk he bought to make her the honor society dress she once described and gave up on. He says he would need to measure her “down to what you’d wear under it, in good light” and leaves the choice open: “If you want it.” I am intensely attracted and increasingly wary; his care is beautiful and material, but the hidden game with Randi makes every freely given yes feel dangerous.
+Pace — man; seen in person. Young mathematician / math PhD; lives alone at the end of a long drive. Randi’s secret lover. Careful, dominant, patient, sexually skilled, builds furniture and hidden erotic apparatus. With Randi, helped choose Vee as the third without Vee knowing. With Vee, has tutored her, asked “May I call you?”, taken her for froyo, dinner, hiking, and now to his house; repeatedly asks, waits, structures choice, feeds, protects, and listens. Associated with old white pickup, private terrain off/past 614, discipline, powerlifting, writing, and skilled making. In “Leave No Trace,” fixed Vee’s boot with moleskin, fed her rye/horseradish sandwiches and cherries, gave dry flannel and privacy, returned when invited, looked while she undressed, did not touch, and drove her home cold and restrained. In “What to Wear,” he texted, “would you come to my house Saturday. Two o’clock.” In “Two Towels,” he gives exact directions to his hidden gravel-drive house, opens the door before Vee reaches the top step, receives and then stops her kiss, shows her his warm small post-war house, tidy kitchen, bathroom with two towels, chaotic math office, handmade white-oak den furniture, bookshelves, converted garage woodshop, and glass porch with mountain view. He explains error-correcting codes and his MRI-related patent that speeds signal extraction so patients spend less time in the machine. He reveals he made the good shirt Vee had worn and offers to make her a burgundy silk honor-society dress, clearly saying he would need to measure her in what she’d wear under it, in good light, “If you want it.” I am intensely attracted and intensely wary: his care is exquisite, but the hidden Randi/game context makes every beautiful invitation double-edged.
 
-Randi / Miranda — woman; seen in person. Poised sorority woman, Pace’s secret lover, black hair, pale skin, startling blue eyes, polished, image-conscious, food-policed, Standards officer with a single room. Exposed by Pace on the bench, lied to Brooke, chosen Vee after Pace pointed her out, befriended Vee in stats and Chi Latte, watched Pace approach Vee, encouraged Vee toward him, drew out Vee’s Pace story while lying about her own date, and publicly named Vee “my dear friend” in front of Brooke. Not present in “Leave No Trace,” “Rye,” “What to Wear,” or “Two Towels.” I feel sympathy, fascination, and alarm; her affection for Vee feels real, but she is steering Vee while hiding the game. Her absence is now loud because Pace has invited Vee into his house and offered to make her a dress without Randi on the page.
+Randi / Miranda — woman; seen in person. Poised sorority woman, Pace’s secret lover, black hair, pale skin, startling blue eyes, polished, image-conscious, food-policed, Standards officer with a single room. She has been exposed by Pace on the bench, lied to Brooke, chosen Vee after Pace pointed her out, befriended Vee in stats and Chi Latte, watched Pace approach Vee, encouraged Vee toward him, and in “Dear” drew out Vee’s Pace story while lying about her own date and then publicly named Vee “my dear friend” in front of Brooke. Not present in “Leave No Trace,” “Rye,” “What to Wear,” or “Two Towels.” I feel sympathy, fascination, and alarm; her affection for Vee feels real, but she is steering Vee while hiding the game. I am especially waiting to see how she reacts to Pace inviting Vee to his house and making Vee a dress.
 
-Vivienne Thorne / Vee — woman; seen in person. Junior student chosen by Randi and Pace without knowing. Tall, lush, red-haired, freckled, intelligent, funny, socially observant, ashamed around body/appetite, susceptible to being chosen and heard, but increasingly active in choosing. Has been warmed by Randi’s friendship and Pace’s attention; went to froyo, dinner, hiking, and now Pace’s house; kissed Pace by choice after he accepted her no-kiss rule; let him choose dinner and stopped watching herself eat; was publicly claimed by Randi as “my dear friend.” In “Leave No Trace,” hiked despite inexperience, accepted care, ate freely, invited Pace to watch her undress in the truck, then cared for him when he was freezing. In “Rye,” told Cassie the story and kept the flannel. In “What to Wear,” told Meg and Kayla the Pace/flannel/cop story and received his house invitation. In “Two Towels,” she drives to Pace’s house, misses the gravel driveway, kisses him immediately and says “I missed you,” notices he stops the kiss, tours his house, reads him through objects, asks bluntly about money, learns he has a patent, sees his workshop and glass porch, realizes he made the good shirt with no tag, and says yes to his offer to make her a burgundy silk dress fitted to her body. I am very protective of her and moved by her growing agency; I am anxious because she is consenting warmly without knowing the hidden Randi/Pace setup.
+Vivienne Thorne / Vee — woman; seen in person. Junior student chosen by Randi and Pace without knowing. Tall, lush, red-haired, freckled, intelligent, funny, socially observant, ashamed around body/appetite, susceptible to being chosen and heard. Has been warmed by Randi’s friendship and Pace’s attention; went to froyo, dinner, hiking, and now Pace’s house; kissed Pace by choice after he accepted her no-kiss rule; let him choose dinner and stopped watching herself eat; was publicly claimed by Randi as “my dear friend.” In “Leave No Trace,” hiked despite inexperience, accepted care, ate freely, told Pace about honor society and the russet silk dress, invited Pace to watch her undress in the truck, then shifted into caretaking when she realized he was freezing. In “Rye,” returns to Cassie wearing Pace’s flannel, sore and proud, tells the story with joy and erotic wonder, and decides, “I’m keeping the shirt.” In “What to Wear,” she laughs with Meg and Kayla, retells the Pace/flannel/cop/makeout stories, admits Pace is making her “lose [her] mind,” and receives his house invitation. In “Two Towels,” she drives to his house, misses the hidden driveway, kisses him first and says “I missed you,” notices when he stops the kiss, tours his life through rooms/objects, feels disappointment when he leaves the bedroom door shut after she dressed with satin underneath, sees the burgundy silk he matched to her, realizes he remembered the dress she’d let go of and made the no-tag shirt himself, and says “Yes” to letting him make and measure her for the gown. I am very protective of her and moved by her growing agency, but anxious because she is accepting deeper intimacy without knowing the hidden setup.
 
-Cassie — woman; seen in person. Vee’s stats-class friend; terse, practical, observant, protective, funny in a dry way. Resists Randi’s charm; noticed odd things around Pace and Randi; protected Vee at the pool; helped process Pace’s dinner/kiss/hiking invitation with concern but without shaming. In “Rye,” saw the flannel, confirmed Vee was alive, joked through relief, listened to the mountain/truck story, and told Vee to keep the shirt but borrow real boots next time. Not present in “What to Wear” or “Two Towels.” I trust her most and want her to know about the house, the dress, and the measuring before it happens.
+Cassie — woman; seen in person. Vee’s stats-class friend; terse, practical, observant, protective, funny in a dry way. Resists Randi’s charm; noticed odd things around Pace and Randi; protected Vee at the pool; helped process Pace’s dinner/kiss/hiking invitation with concern but without shaming. In “Rye,” sees the flannel immediately, confirms Vee is alive, jokes about vans/blood type, listens raptly to the mountain and truck story, says Vee’s name with deep care, and tells her to keep the shirt but borrow real boots next time. Not present in “What to Wear” or “Two Towels.” I trust her most and want her to know about the house visit and the measuring/dress offer.
 
-Meg — woman; seen in person. Floor friend / dining-hall friend; likely the lender of the too-large hiking boots that caused Vee’s blister. In “What to Wear,” appeared in person: dark-haired, level, calm, eating steadily, “the calm one,” follows the Pace situation in installments, presses Vee for the shirt story, teases her, mentions her boyfriend Danny, and asks what Vee owns that says his house without trying too hard. Not present in “Two Towels.” I like and tentatively trust her.
+Meg — woman; seen in person. Floor friend / dining-hall friend; previously mentioned as the lender of the too-large hiking boots that caused Vee’s blister. In “What to Wear,” appears in person: dark-haired, level, calm, eating steadily, “the calm one,” lets sentences finish, follows the Pace situation in installments, presses Vee to tell “the shirt” without skipping the middle, teases her about knowing exactly how many days since the kiss, mentions boyfriend Danny, and starts asking what Vee owns that says his house without trying too hard. Not present in “Two Towels.” I like her and tentatively trust her; she seems steadier than the group noise.
 
-Kayla — woman; seen in person. Dining-hall friend; round-faced, blonde, curly, kinetic, fast-talking, funny, dramatic. In “What to Wear,” interrogated Vee about Theo, Pace, the shirt, the kiss, and the house invitation; called Pace’s sparse text “a ransom note,” said two in the afternoon is not a meal, and announced she would do Vee’s hair Saturday. Not present in “Two Towels.” I enjoy her; affectionate but not as cautious as Cassie.
+Kayla — woman; seen in person. Dining-hall friend; round-faced, blonde, curly, kinetic, fast-talking, funny, dramatic. Has a theory that you can eat at the athletic dorm dining hall if you walk in like you belong. Interrogates Vee about Theo, Pace’s job/body/routine, the shirt, the kiss, and the house invitation; declares Pace’s sparse text “a ransom note,” says two in the afternoon is not a meal, and announces she is doing Vee’s hair Saturday. Not present in “Two Towels.” I enjoy her; she is not Cassie-level cautious, but her affection for Vee feels real and cheering.
 
-Theo — man; seen in person at a distance in “What to Wear.” Waved at Vee across the athletic dining hall. Asked Vee to the fall thing in September; Vee said “let’s be friends,” he took it like a gentleman, and now they are friends. Harmless-seeming male friend.
+Theo — man; seen in person at a distance in “What to Wear.” Waved at Vee across the athletic dining hall with his tray balanced. He asked Vee to the fall thing in September; Vee said “let’s be friends,” and now they are friends. Vee says he took it like a gentleman and is nice. A harmless-seeming marker that Vee has other male social attention.
 
-Danny — man; mentioned-only. Meg’s boyfriend. Meg once said “He’s different” about Danny and says sometimes men are different.
+Danny — man; mentioned-only. Meg’s boyfriend. Meg says she once said “He’s different” about Danny, word for word, and adds that sometimes men even are different.
 
-Danny’s roommate — gender not clearly established; mentioned-only. Subject of Meg’s anecdote about doing something spectacularly stupid.
+Danny’s roommate — gender not clearly established; mentioned-only. Subject of Meg’s dining-hall anecdote about a spectacularly stupid thing he’d done.
 
 Christine — woman; seen in person. Older woman at the small restaurant who knows Pace and seems glad/eased to see him. A small witness making Pace feel rooted and known.
 
-Vee’s unnamed dining-hall friend from prior chapter — woman; seen in person, likely Meg, now clarified by “What to Wear” as part of Vee’s friend circle.
+Vee’s unnamed dining-hall friend from prior chapter — woman; seen in person, likely Meg, now strongly clarified by “What to Wear” as Meg being part of Vee’s friend circle. Earlier was present when Randi engineered the first collision with Vee.
 
 Brooke — woman; seen in person. President of Randi’s sorority chapter; polished, warm-voiced, socially powerful. Interrogated Randi about Pace/paper lies; later at The Smoothie Bird appraised Vee while smiling and witnessed Randi calling Vee “my dear friend.” I distrust her warmth as social control.
 
@@ -103,17 +113,15 @@ Unnamed taller sorority woman with Brooke — woman; seen in person. Silent soci
 
 Unnamed boy at Smoothie Bird counter — man; seen in person. Took Randi and Vee’s orders.
 
-Campus cop — gender not established; seen only through vehicle/lights/siren in “Leave No Trace.” Interrupted Pace and Vee at the dorm fire lane after the hike and followed Pace’s truck away. In “What to Wear,” Vee retold the blue-and-white, lights, bark of siren, and cop on Pace’s bumper.
+Campus cop — gender not established; seen only through vehicle/lights/siren in “Leave No Trace.” Interrupted Pace and Vee at the dorm fire lane after the hike and followed Pace’s truck away. In “What to Wear,” Vee tells Meg and Kayla that a blue-and-white slid in behind them, lights going, gave one bark of the siren, and stayed on Pace’s bumper to the road.
 
 Randi’s mother — woman; mentioned-only. Source of Randi’s deprivation, food shame, body discipline, egg whites/tofu.
 
-Vee’s mother — woman; mentioned-only. Internalized source of shame around exposure, clothing, food, appetite, nice-girl rules, and “floozy.”
+Vee’s mother — woman; mentioned-only. Internalized source of shame around exposure, clothing, food, appetite, nice-girl rules, and “floozy.” Fierce in “Leave No Trace,” though not directly invoked in “Rye,” “What to Wear,” or “Two Towels.”
 
 Vee’s father — man; mentioned-only. Will not attend the honor society induction because of work.
 
 Vee’s grandfather — man; mentioned-only. Remembered as someone who asked questions as though answers mattered; Pace reminds Vee of him.
-
-Pace’s parents — mentioned-only in “Two Towels.” Vee asks if they are rich; Pace says “No,” and something closes in him at “parents.” Their actual situation remains unknown.
 
 Stats professor — man; seen in person. Soft-spoken lecturer; introduced residuals and latent variables.
 
@@ -137,142 +145,142 @@ Unnamed girl down the hall — woman; mentioned-only. Lent Vee shoes for dinner.
 
 State troopers — mentioned-only jokingly by Cassie in “Off Six-Fourteen.”
 
-Honor society — institution/event. Vee has been invited to an induction with certificate, dinner, name read aloud, and walking to the front. Pace has now offered to make her a silk dress for it.
+Honor society — institution/event. Vee has been invited to an induction with certificate, dinner, name read aloud, and walking to the front. Pace now offers to make her a burgundy silk dress for it.
 
-Athletic dorm dining hall — place/institution; first seen in “What to Wear.” Better food than other meal-plan halls, floor-to-ceiling west windows, gold evening light, and an unofficial belonging code.
+Athletic dorm dining hall — place/institution; first seen in “What to Wear.” Has better food than other meal-plan halls, floor-to-ceiling west windows, gold evening light, and an unofficial rule that if you walk in like you belong, nobody asks questions.
 
-Pace’s house — place; first fully seen by Vee in “Two Towels.” Small older post-war vinyl-sided house beyond gravel, with concrete pad, two-car garage/workshop, covered stoop, diamond-glass front door, warm interior, purposeful kitchen, plain bathroom with two towels, disordered math office, closed bedroom door, handmade white-oak den furniture, bookshelves, converted workshop, and glass porch overlooking woods and blue mountains.
+Pace’s house — place; first fully seen by Vee in “Two Towels.” Small older post-war vinyl-sided house at the top of a hidden gravel driveway twenty minutes past the edge of town, with more garage than house, warm interior, orderly closet, purposeful kitchen, plain bathroom with two towels, chaotic math office, handmade white-oak den, bookshelves, converted woodshop, and glass porch overlooking woods and blue mountains.
 
 **Motif & image ledger:**  
-Warmth / controlled environment vs cold — Pace’s warm house/cashmere; cold sorority duvet; Chi Latte warmth; froyo evening; pool cold; warm dinner; Smoothie Bird chill; mountain rain and flannel warmth; Cassie’s cool room; athletic dining hall gold warmth; in “Two Towels,” Pace’s house is “warm. Too warm,” close and draftless, a care/control mystery.
+Warmth / controlled environment vs cold — Pace’s warm house/cashmere; cold sorority duvet; Chi Latte warmth; froyo evening; pool cold; warm dinner; cold dorm window; Smoothie Bird chill; mountain rain and flannel warmth; in “Rye,” Cassie’s cool cracked-window room receives Vee still inside Pace’s oversized warm trace; in “What to Wear,” the athletic dining hall is gold and forgiving while Vee retells cold rain and dry flannel; in “Two Towels,” Pace’s house is “warm. Too warm,” a close even heat with no draft.
 
-Locks / doors / key / thresholds — bench locks, social doors, “May I call you?”, dinner invitation, “May I choose?”, hiking/off 614, truck cab, dorm fire-lane interruption, Pace’s house invitation; in “Two Towels,” Vee crosses the front door but the bedroom door remains shut.
+Locks / doors / key / thresholds — bench locks, social doors, “May I call you?”, dinner invitation, “May I choose?”, hiking/off 614, trail threshold, truck cab threshold, dorm fire-lane interruption; in “Rye,” Vee crosses back into the dorm with the threshold-object/flannel; in “What to Wear,” Pace’s house becomes the next explicit door; in “Two Towels,” the hidden driveway, opening front door, closed bedroom door, and invitation into measuring all intensify threshold imagery.
 
-Polite invitation / stepping back / consent ritual — Pace’s repeated asking/waiting/structuring: safeword, “I point. You pick,” “May I call you?”, “May I choose?”, accepting no-kiss rule, hiking care, privacy in the rain, looking only when invited, house text. In “Two Towels,” he stops the kiss himself, does not open the bedroom, and offers the dress with “If you want it.”
+Polite invitation / stepping back / consent ritual — Pace’s repeated asking/waiting/structuring: safeword, “I point. You pick,” “May I call you?”, dinner text, “May I choose?”, accepting no-kiss rule, hiking care, giving privacy, looking only when invited. “Rye” confirms through Vee’s account that he did not touch and let the shirt remain with her. “What to Wear” crystallizes the book title in a literal house text. “Two Towels” repeats this through “Come in,” the house tour, not opening the bedroom, and “If you want it” before the dress/measuring offer.
 
-Face / being looked at / arranged self — Randi’s face, Vee’s public face, Cassie reading faces, Brooke appraising, Pace watching Vee’s body. In “Two Towels,” Vee refuses to let her face show disappointment at the closed bedroom, sees herself with the burgundy silk in a framed mirror, and faces the condition of being measured/looked at in good light.
+Face / being looked at / arranged self — Randi’s face, Vee’s public face, Cassie reading faces, Brooke appraising, Pace watching Vee’s face and body. In “Rye,” Vee sits with “her whole face open”; in “What to Wear,” Meg and Kayla watch Vee’s face when Pace’s text arrives; in “Two Towels,” Vee “didn't let her face do a thing” when disappointed by the closed bedroom, and the dress offer leads toward being looked at in good light.
 
-Food / appetite / portioning / being fed — apples, coffee, froyo, dinner, smoothies, hiking sandwiches/cherries, dining-hall food. In “Two Towels,” Pace’s kitchen is purposeful, with kettle, knives, pans, KitchenAid; food is implied through competence rather than served.
+Food / appetite / portioning / being fed — apples, coffee, froyo, Middle Eastern dinner, smoothies, hiking sandwiches/cherries. In “Rye,” Vee recounts rye/horseradish/cherries. In “What to Wear,” athletic dining hall abundance and two o’clock as “not dinner.” In “Two Towels,” Pace’s kitchen is purposeful, with kettle, knives, pans, and KitchenAid; the cookbooks are worn, confirming practical appetite/care though no meal occurs.
 
-Apple / bite-kiss-feeding — Randi apple; Pace food; Vee’s kiss after dinner; cherries/pits; no direct apple repeat in “Two Towels,” but the remembered summit cherries connect to the silk confession.
+Apple / bite-kiss-feeding — Randi apple; Pace food; Vee’s kiss after dinner; cherries/pits. “Two Towels” has no apple/meal, but the kiss finally arrives at the doorway after waiting since the rain.
 
-Furniture / craft / hidden purpose — Pace’s bench/table; handmade competence; truck bench. In “Two Towels,” Vee sees handmade white-oak den furniture, joinery, stain/shellac, and the converted workshop; craft becomes a major part of Pace’s identity.
+Furniture / craft / hidden purpose — Pace’s bench/table; handmade competence; truck bench as erotic surface. In “Two Towels,” Vee sees the den furniture Pace made: white oak, careful joints, mixed stain/shellac, and a half-finished chair in the workshop; craft becomes central.
 
-Bench / table / apparatus — erotic bench, high tables, pickup bench, dining-hall table. In “Two Towels,” a long low handmade table and long porch table appear; the hidden erotic bench is not seen but haunts the house for me.
+Bench / table / apparatus — erotic bench, high white Smoothie Bird table, pickup bench seat, dining-hall table. In “Two Towels,” a long low handmade table appears in Pace’s den, and a long table in the glass porch holds the bolt of silk; the original erotic apparatus remains known to reader but unseen by Vee.
 
-Surface / gloss / polish — sorority polish vs practical real things; Pace’s worn counters, used tools, handmade furniture. In “Two Towels,” nothing is for show; everything has earned its place.
+Surface / gloss / polish — sorority polish vs practical real things. “Rye” stays practical: flannel, boots, blister, rye, kit. “What to Wear” mixes practical social prep with appearance. “Two Towels” contrasts worn counters, used tools, handmade wood, and silk chosen for Vee rather than magazine surface.
 
-Waiting / slowness / not hurrying — Pace’s patience; Cassie’s listening; waiting for Saturday. In “Two Towels,” the waited-for kiss arrives and is stopped; the dress will take “a couple of weeks.”
+Waiting / slowness / not hurrying — Pace’s patience; Cassie’s patient listening. “Rye” is delayed processing. “What to Wear” marks the wait for Saturday. “Two Towels” pays off the wait with a kiss Pace stops, a bedroom he does not open, and a dress process requiring weeks.
 
-“Hi” / recognition check-in — greetings and social recognition throughout; in “Two Towels,” Pace opens with “Hi,” and Vee answers not with hi but “I missed you.”
+“Hi” / recognition check-in — greetings and social recognition throughout; Theo’s wave in “What to Wear”; in “Two Towels,” Pace opens the door and says “Hi,” and Vee answers with “I missed you.”
 
-Crying / grief / not crying — Randi’s tears, Vee underwater grief, horseradish eyes; in “Two Towels,” Vee’s eyes go hot over the dress but “it didn’t spill.”
+Crying / grief / not crying — Randi’s tears, Vee underwater grief, horseradish eyes. In “Two Towels,” Vee’s eyes go “hot and full” at the dress offer, but she blinks and it does not spill.
 
-Cashmere / softness after intensity vs inadequate covering — cashmere, synthetic duvet, flannel; in “Two Towels,” silk becomes the new intimate textile, not aftercare but anticipated public glory/private exposure.
+Cashmere / softness after intensity vs inadequate covering — cashmere aftercare, synthetic duvet, soft dinner, flannel after rain. “Rye” makes flannel visible; “What to Wear” places it folded on Vee’s pillow. “Two Towels” reveals Pace made the good no-tag shirt Vee wore and now wants to make silk softness for her.
 
 Music / Steely Dan — “The Bench” only.
 
-Blue as mood / controlled deviation — Randi’s blue, campus blue, Pace’s cobalt shirt, cop lights; in “Two Towels,” blue mountains beyond the glass porch.
+Blue as mood / controlled deviation — Randi’s blue, campus blue, Pace’s cobalt shirt, cop lights. “Two Towels” adds blue mountains beyond Pace’s glass porch.
 
-Social authority / public appraisal — sorority, pool bleachers, Brooke, campus cop, athletic dining hall belonging. In “Two Towels,” the honor society induction remains the public scene the dress is for.
+Social authority / public appraisal — sorority, pool bleachers, Brooke, campus cop, athletic dining hall belonging. “Two Towels” is private, away from public appraisal, but the honor society induction remains a future public scene.
 
-Voice / laugh / pitch — Pace’s listening voice, Vee’s laugh, Cassie’s flatness, Kayla’s stream. In “Two Towels,” Pace warms into explanation around codes and patent; Vee’s blunt questions come out before she can polish them.
+Voice / laugh / pitch — Pace’s listening voice, Vee’s real laugh, Cassie’s flatness, Kayla’s rush. In “Two Towels,” Pace’s explanations warm when discussing codes/patent; Vee’s blunt questions and teasing show comfort.
 
-Pointing / choosing / game — Pace/Randi chose Vee; Pace chooses food; Vee chooses kiss, hike, exposure. In “Two Towels,” Vee chooses to kiss him first and says yes to the dress; Pace chooses not to open the bedroom.
+Pointing / choosing / game — Pace/Randi chose Vee; Pace chooses food; Vee chooses kiss, hike, exposure. “Rye” emphasizes “On purpose. Me.” “What to Wear” has choosing how to read the house invitation. “Two Towels” has Vee choose to kiss first and choose “Yes” to the dress/measuring offer.
 
-Dance / frame / follow-lead / choreography — sex/dance, swimming, dinner, hiking, social prep. In “Two Towels,” the house tour becomes choreography through rooms, ending at the glass porch and measuring invitation.
+Dance / frame / follow-lead / choreography — sex/dance, swimming, dinner, hiking. “Two Towels” choreographs a house tour, a non-entry into the bedroom, and a coming measuring ritual.
 
-Red / copper / burning — Vee’s hair, fall ridges, cherries, russet dress, raw heel. In “Two Towels,” the desired brick-red/russet dress becomes burgundy silk matched to Vee’s coloring.
+Red / copper / burning — Vee’s hair, fall ridges, cherries, russet dress, raw heel. “Two Towels” deepens red through burgundy silk, wine-like with purple under red, chosen to suit Vee’s red hair and warm skin rather than the magazine brick-red.
 
-Greek letters / belonging code — stats, sorority, menus, trail etiquette, honor society, athletic-dorm code. In “Two Towels,” math codes become explicit through error-correcting codes.
+Greek letters / belonging code — stats, sorority, menu, trail etiquette, honor society. “Two Towels” adds advanced math notation beyond Vee’s naming and error-correcting codes as a literal code system.
 
-Spoons / stirring sweetness — coffee/froyo/smoothies; no direct spoon in “Two Towels.”
+Spoons / stirring sweetness — coffee/froyo/smoothies; no direct spoon in “Rye,” “What to Wear,” or “Two Towels.”
 
-High table / display window — Chi Latte, pool bleachers, Smoothie Bird, summit, truck, dining-hall windows. In “Two Towels,” the glass porch and framed mirror create a private display space in good light.
+High table / display window — Chi Latte, pool bleachers, Smoothie Bird high table, summit shelf, truck display, dining-hall windows. “Two Towels” adds the glass porch with bright afternoon and long windows, a private display space for silk and future measuring.
 
-Goodbye / see you later / talk soon — continuation phrases; interrupted goodbye after hike; in “Two Towels,” the missed kiss is resumed at the door.
+Goodbye / see you later / talk soon — continuation phrases; interrupted goodbye after hike; Pace resumes contact by text in “What to Wear.” “Two Towels” begins with arrival rather than goodbye.
 
-Math / hidden structure / latent variables — stats/econ/Pace’s structuring; hidden game. In “Two Towels,” Pace’s office, graph paper, proofs, error-correcting codes, and MRI patent deepen math as hidden structure made practical.
+Math / hidden structure / latent variables — stats/econ/Pace’s structuring; hidden game. “What to Wear” adds doctorate/writing discipline. “Two Towels” gives dense graph paper, proofs, error-correcting codes, and MRI signal/noise patent.
 
-Circles / returning — Vee’s problem circles, swimming figure-eight, dorm spin; in “Two Towels,” Vee circles back to the wish she had abandoned on the summit.
+Circles / returning — Vee’s problem circles, swimming figure-eight, dorm spin. “Two Towels” returns to the dress wish from the summit and reveals Pace carried it forward.
 
-Pencil / page / margin — “Substitution”; in “Two Towels,” pages and corrections fill Pace’s office.
+Pencil / page / margin — “Substitution” only; “Two Towels” adds pages covered in corrections and square handwriting in Pace’s office.
 
-Forearms / hands / bodily competence — Pace’s hands throughout; boot repair; powerlifting. In “Two Towels,” his hand in Vee’s hair, his handmade furniture, tailoring, and measuring tape extend hands as skilled attention.
+Forearms / hands / bodily competence — Pace’s hands throughout; boot repair; powerlifting. In “Two Towels,” his hand goes into Vee’s hair during the kiss, and his making hands are everywhere in the furniture, shirt, and future dress.
 
-Names / naming bits — Randi/Vee/Pace naming; “my dear friend”; Pace’s name on phone. In “Two Towels,” Vee names the absurd truth: “You made the shirt.”
+Names / naming bits — Randi/Vee/Pace naming; “my dear friend”; Pace’s name on phone. “Two Towels” no new names, but Vee uses his name less than she reads his rooms.
 
-Phone / notification / waiting for contact — Randi’s phone, Pace texts; in “Two Towels,” phone map gives out, emphasizing private terrain beyond easy navigation.
+Phone / notification / waiting for contact — Randi’s phone, Pace texts. “What to Wear” centers Pace’s invitation text; in “Two Towels,” Vee’s phone map gives out with the pavement, leaving her dependent on his directions and the physical road.
 
-Rules / social scripts — dating rules, pool rules, trail rules, fire lane, clothing scripts. In “Two Towels,” house-tour and bedroom expectations are quietly rewritten; afternoon house visit becomes dress-measuring proposal.
+Rules / social scripts — dating rules, pool rules, trail rules, fire lane, clothes/date scripts. “Two Towels” disrupts expected scripts: house invitation at two does not become bedroom sex but dressmaking/measuring.
 
-Video game / healer / keeping someone alive — Vee’s past; no direct repeat.
+Video game / healer / keeping someone alive — Vee’s past; Cassie’s protective mode echoes keeping Vee alive. “Two Towels” adds Pace’s patent helping sick/scared people in MRI machines, a different kind of keeping people safe.
 
-Long way / indirect route — long walks, hike, long drive; in “Two Towels,” Vee drives twenty minutes past town, loses phone map, misses the driveway, and reaches his hidden house.
+Long way / indirect route — long walks and hike; “Rye” aftermath of mountain route; “What to Wear” points toward long-drive house. “Two Towels” fulfills it: twenty minutes past town, pavement giving out, map failing, hidden gravel driveway climbing to the house.
 
-Water / swimming / underwater refuge — pool, bottle, rain, wet clothes; in “Two Towels,” no direct water except plain bathroom/towels; the towels echo water aftermath.
+Water / swimming / underwater refuge — pool, shared bottle, rain, wet hair/clothes. “Two Towels” has the bathroom with two towels and a future possibility of undressing/aftercare, though no water scene.
 
-Suits / clothing as exposure or armor — pool suit, dinner dress, borrowed boots, wet shirt/bra, flannel, house outfit. In “Two Towels,” Vee has worn satin underthings hoping to show him; Pace offers to make a silk dress fitted to what she wears beneath.
+Suits / clothing as exposure or armor — pool suit, dinner dress, borrowed boots, wet shirt/bra, flannel. “Two Towels” escalates clothing: Vee wears satin under her clothes hoping to show him; Pace reveals he made her no-tag shirt; he offers to make a custom silk gown requiring intimate measurement.
 
-Bleachers / audience / applause-laughter — public appraisal; in “Two Towels,” the mirror and future induction replace the audience.
+Bleachers / audience / applause-laughter — pool and public appraisal; Cassie as private audience; Meg/Kayla as friendly audience. “Two Towels” has Pace as private audience and maker; future induction remains public audience.
 
-Towel / body left behind — pool towel; flannel after rain. In “Two Towels,” the plain bathroom has “two towels on the rod,” now title-marked and suggestive of domestic pairing/aftercare.
+Towel / body left behind — pool towel; flannel after rain; shirt on pillow. “Two Towels” gives the title image: two towels on the bathroom rod in Pace’s solitary house.
 
-Tea / glass / brass cage / heat made holdable — dinner tea; no direct repeat.
+Tea / glass / brass cage / heat made holdable — dinner tea; no direct repeat, though kettle appears in Pace’s kitchen.
 
-Unfamiliar language / nameless wanting — menu, wanting, trail etiquette, russet. In “Two Towels,” Pace’s math pages look like “Sanskrit” to Vee; the dress feeling gives her “something she didn’t have a word for.”
+Unfamiliar language / nameless wanting — menu, wanting, trail etiquette, russet. “Two Towels” gives unfamiliar math language Vee jokes is Sanskrit, and the dress offer creates a feeling she “didn't have a word for.”
 
-Road / address / off 614 / gravel / private terrain — Pace’s private terrain; hike from gravel lot. In “Two Towels,” the road to his house becomes concrete: pavement gives out, phone map gives out, driveway is hidden by hill.
+Road / address / off 614 / gravel / private terrain — Pace’s private west-of-town terrain; hike from gravel lot. “Two Towels” makes the road to his house concrete: past the edge of town, pavement gives out, map gives out, narrow cut driveway hidden by hill.
 
-Real shoes / practical preparation — borrowed dinner shoes, hiking boots, moleskin. In “Two Towels,” Pace’s closet has one right pair for each thing: hiking boots, work boots, running shoes, ropers.
+Real shoes / practical preparation — borrowed dinner shoes, hiking boots, Meg’s bad boots, moleskin. “Two Towels” shows Pace’s closet of specific shoes for specific things: hiking boots, work boots, running shoes, ropers.
 
-Mountain/trail/missing joke — Cassie’s state-trooper joke, mountain route. In “Two Towels,” the mountains stand blue beyond his glass porch and the summit conversation returns through the dress.
+Mountain/trail/missing joke — hike safely completed; danger humor. “Two Towels” brings mountains into Pace’s home view beyond glass.
 
 Smoothie / health drink / bruise-color — no repeat.
 
-“Dear friend” / public naming — no direct repeat; the dress is for Vee’s public induction, another possible public naming.
+“Dear friend” / public naming — no repeat.
 
-Moleskin / foam square / practical patch — no direct repeat.
+Moleskin / foam square / practical patch — no direct repeat, but the same practical care appears in Pace’s fitted-making.
 
-Cherries / pits / leave no trace — in “Two Towels,” Vee remembers naming the dress at the summit with cherries in her hand.
+Cherries / pits / leave no trace — no direct repeat, but the summit cherry conversation is where Vee named the desired dress Pace now acts on.
 
 Horseradish / sharp heat — no direct repeat.
 
-Flannel / borrowed shirt / dry shelter — Vee kept Pace’s flannel; in “Two Towels,” the “good shirt” with no tag is revealed to have been made by Pace, adding shirt-making to clothing intimacy.
+Flannel / borrowed shirt / dry shelter — repeat by implication: Vee thinks of “the good shirt” and realizes Pace made it; the flannel remains an earlier kept trace.
 
-Campus cop lights / siren interruption — in “Two Towels,” remembered as the interruption that prevented the mountain kiss from continuing.
+Campus cop lights / siren interruption — occurred in “Leave No Trace,” retold in “What to Wear”; in “Two Towels,” Vee’s door kiss is the kiss she’d wanted since the cop interrupted the night.
 
-Russet / burgundy silk dress / induction clothing — major repeat and escalation. Vee once described an unaffordable russet/brick-red silk dress at the summit; Pace now has burgundy silk, chosen not to match the magazine exactly but to match Vee.
+Russet silk dress / induction clothing — major repeat and transformation in “Two Towels”: Pace has burgundy silk for a custom dress, matched to Vee rather than the magazine shade, to be ready before induction.
 
-Summit / indifferent vastness — repeat by memory; Vee’s offhand dress confession happened at the summit.
+Summit / indifferent vastness — repeat by memory: the dress wish came from summit conversation with cherries and silver sky; “Two Towels” adds mountains viewed from Pace’s glass porch.
 
-Athletic dining-hall gold light — no direct repeat; replaced by bright afternoon glass-house light.
+Athletic dining-hall gold light — first sighting in “What to Wear”; no direct repeat, but “Two Towels” has bright afternoon light and glass.
 
-Powerlifting / disciplined body — no direct repeat but reinforced by house order and physical craft.
+Powerlifting / disciplined body — first explicit in “What to Wear”; no new lifting, but Pace’s bodily and manual discipline shows in house, tools, furniture, and sewing.
 
-Six-hour writing limit — deepened through math office and serious workstation.
+Six-hour writing limit — first explicit in “What to Wear”; “Two Towels” shows the office/workstation/papers where that disciplined writing likely happens.
 
-Two o’clock / not a meal — fulfilled as house visit; not sex directly, but an intimate dress-making proposal.
+Two o’clock / not a meal — first explicit in “What to Wear”; “Two Towels” reveals the two o’clock invitation was for house tour and silk/dress offer, not lunch/dinner/straight sex.
 
-Two towels — first/title motif; plain bathroom detail that may indicate domestic pairing, guest readiness, Randi’s trace, or simply Pace’s orderly preparedness.
+House / room-by-room reading — first fully developed in “Two Towels”: Vee reads Pace through closet, kitchen, bathroom, office, den, shelves, workshop, porch.
 
-Error-correcting codes / redundancy / message surviving noise — first motif; Pace explains messages survive by saying things more than once. Potentially important for how care, desire, and hidden truths are communicated.
+Signal / noise / redundancy — first explicit in “Two Towels”: error-correcting codes and MRI patent; symbolically tied to messages surviving distortion.
 
-Signal and noise / MRI patent — first motif; Pace’s invention finds the real picture in noise faster. Resonates with Vee trying to read what is real in his gestures.
+Patent / MRI machine — first explicit in “Two Towels”: Pace licenses a patent that extracts images from noise faster, helping patients spend less time in MRI tubes.
 
-Workshop outlines / tools in place — first motif; each tool has a place, each use has a tool, echoing control and patience.
+Handmade shirt / no tag — revelation in “Two Towels”: Vee’s good no-tag shirt was made by Pace.
 
-Mirror with silk and Vee’s coloring — first motif; Vee sees herself matched by the cloth, through Pace’s choice.
+Burgundy silk / matched to her — first explicit in “Two Towels”: Pace chooses deeper burgundy silk that suits Vee better than the magazine brick-red.
 
-Measuring tape / good light — first motif; practical craft object becomes erotic/consent threshold.
+Measuring tape / good light — first explicit in “Two Towels”: Pace will measure Vee down to undergarments so the dress falls correctly.
 
 **Symbolism noticed:**  
 The bench — hidden erotic truth beneath ordinary furniture; exposure/surrender/removal of performance surfaces.  
-The face — social interface and readable vulnerability; Vee’s face is watched by friends, Pace, and herself; in “Two Towels,” she controls it at the closed bedroom and sees herself with silk in the mirror.  
-Locks/doors/keys/clicks — thresholds of control, concealment, and opened wanting; in “Two Towels,” the front door opens, the bedroom door stays closed.  
+The face — social interface and readable vulnerability; Vee’s face opens safely with Cassie, is read by friends, and in “Two Towels” is controlled when the bedroom disappointment hits.  
+Locks/doors/keys/clicks — thresholds of control, concealment, and opened wanting; in “Two Towels,” Pace’s house door opens, the bedroom door stays closed, and another threshold opens through the measuring/dress invitation.  
 Apple/feeding — permitted appetite leading to deeper hunger.  
-Handmade wood/furniture — Pace’s hidden competence and purposeful objects; in “Two Towels,” the joint that locks without screws becomes patience and unseen structure.  
-Warmth — care, sensual patience, belonging, and possible control; Pace’s house is too warm.  
+Handmade wood/furniture — Pace’s hidden competence and purposeful objects; in “Two Towels,” handmade craft becomes the visible center of his home.  
+Warmth — care, sensual patience, belonging; flannel warmth is portable evidence; house warmth is controlled, close, possibly prepared.  
 Blue toenails — Randi’s controlled rebellion.  
 Standards — sorority discipline and inner measuring.  
 Brooke at laptop/spreadsheet — smiling institutional power.  
@@ -281,22 +289,22 @@ Orderly closet palette — disciplined self-presentation.
 The pointing game — desire made deniable/playable.  
 The cheeseburger — frank appetite Randi refuses.  
 Burning maple/fall ridges — visible heat/change.  
-Vee’s red hair/lushness/laugh — abundance and bodily aliveness; in “Two Towels,” burgundy silk is chosen to harmonize with her coloring.  
-Campus architecture/sightlines — social order and controlled looking; in “Two Towels,” house sightlines become private: diamond door glass, mirror, glass porch.  
+Vee’s red hair/lushness/laugh — abundance and bodily aliveness; “Two Towels” makes her coloring the reason burgundy silk works.  
+Campus architecture/sightlines — social order and controlled looking; athletic dining hall windows and Pace’s glass porch both frame visibility.  
 Latent variables — unseen forces inferred from signs.  
-Chi Latte / The Smoothie Bird / athletic dining hall — social belonging mediated through consumption spaces.  
-High table/window — visible inclusion/display; in “Two Towels,” the glass porch and mirror create private visibility.  
+Chi Latte / The Smoothie Bird / athletic dining hall — social belonging disguised or mediated through consumption spaces.  
+High table/window — visible inclusion/display; in “Two Towels,” the glass porch becomes a private bright display space.  
 Cassie’s grounded departures vs Randi’s warm continuations — different kinds of care.  
 Substitution/Euler/pencil — math and agency inside guided structure.  
 Frozen yogurt / tart on bottom / long way — playful appetite and indirect intimacy.  
-Water — refuge, exposure, rain, aftermath; in “Two Towels,” towels quietly hold the water/aftercare thread.  
+Water — refuge, exposure, rain, aftermath; “Two Towels” adds towels as domestic readiness after water/exposure.  
 Bleachers — public judgment.  
-Unfamiliar menu/language — unnamed desire and trusting another’s knowledge; in “Two Towels,” Pace’s math is like Sanskrit.  
+Unfamiliar menu — unnamed desire and trusting another’s knowledge.  
 “May I choose?” — courteous surrender.  
 Tea in brass cage — intensity made holdable.  
 Handholding — belonging, claim, care.  
-“Off six-fourteen” — partial knowledge mistaken for safety; in “Two Towels,” Vee reaches the actual hidden house beyond unreliable phone map.  
-Real shoes — preparation for new terrain; Pace’s shoes embody correct preparation for each task.  
+“Off six-fourteen” — partial knowledge mistaken for safety.  
+Real shoes — preparation for new terrain; borrowed gear fails; Pace’s shoe closet suggests right equipment for each life-task.  
 Cracked window’s cold line — Cassie’s realism touching Vee’s romantic warmth.  
 Vee’s spin — joy too large for the room.  
 Randi’s bruise-colored smoothie — stylish discipline/self-punishing appetite.  
@@ -304,18 +312,18 @@ Randi’s bruise-colored smoothie — stylish discipline/self-punishing appetite
 Moleskin — dignity-preserving practical care.  
 Cherry pits / leave no trace — rules learned without shame; also question of what desire leaves behind.  
 Horseradish — pleasurable sharpness after overwhelm.  
-Flannel — shelter, aftercare, erotic permission, trace/evidence of Pace on Vee’s body.  
-Summit / indifferent valley — beauty beyond social measurement; origin point of the dress confession.  
-Campus cop lights — public rule/order interrupting private intimacy.  
-Pace’s house/door — symbolic threshold into his private world, secrecy, competence, and withheld bedroom.  
-The bare invitation text — invitation as courtesy and uncertainty; now answered by the house visit.  
-“What to wear” — clothing as self-presentation, readiness, armor, and invitation-answer; now transformed into the literal making of a dress.  
-Two o’clock — ambiguous afternoon time outside meal scripts; became neither lunch nor sex directly, but intimate fitting proposal.  
-Two towels — domestic pair/readiness; possibly a sign of another presence, guest ritual, or aftercare.  
-Error-correcting codes — messages made durable by repetition; may symbolize how Pace’s care says the same thing through food, flannel, house, cloth, and restraint.  
-Signal and noise — finding the real picture beneath interference; Vee is trying to read the true Pace through seductive signs and hidden context.  
-Burgundy silk — a wish remembered and returned, not copied but fitted to Vee herself.  
-Measuring tape / good light — the next consent threshold: exposure translated into craft.
+Flannel — shelter, aftercare, erotic permission, trace/evidence of Pace on Vee’s body; now joined by the revelation that Pace makes clothing himself.  
+Summit / indifferent valley — beauty beyond social measurement; site where Vee named the dress wish Pace later remembered.  
+Campus cop lights — public rule/order interrupting private intimacy; in “Two Towels,” the interrupted kiss is finally taken at the door.  
+Pace’s house/door — symbolic threshold into his private world, secrecy, craft, restraint, and deeper intimacy.  
+The bare invitation text — invitation as courtesy and uncertainty; now revealed to lead to house tour and dress offer.  
+“What to wear” — clothing as self-presentation, readiness, armor, and possible invitation-answer; “Two Towels” literalizes clothing as the center of the visit.  
+Two o’clock — ambiguous afternoon time outside meal scripts; now becomes time for private showing and a new consent threshold.  
+Two towels — quiet domestic sign of provision for two bodies in a solitary house.  
+Error-correcting codes / signal and noise — messages surviving damage; real meaning repeated through noise, shame, or concealment.  
+MRI patent — finding the true picture inside noise, and using intelligence to reduce fear and confinement.  
+Burgundy silk — desire remembered, corrected, and fitted to Vee rather than copied from fantasy.  
+Measuring in good light — being seen as craft, consent, exposure, and transformation.
 
 **Open questions:**  
 What will Randi do with what happened on the bench?  
@@ -348,18 +356,18 @@ How much did Randi know about or coordinate Pace’s quick text?
 Will Vee notice Randi pushing unusually hard for Pace?  
 What happened with the business major Vee kept alive?  
 Will Vee’s relief from her mother’s food voice continue around Pace? — yes around eating; shame still returns around exposure.  
-Will Pace’s kindness remain careful when desire becomes more explicit? — so far yes; in “Two Towels,” he stops the kiss, withholds the bedroom, and asks before measuring.  
+Will Pace’s kindness remain careful when desire becomes more explicit? — so far yes, including stopping the door kiss and not opening the bedroom, but his care is increasingly overwhelming.  
 What happened in Vee’s synchronized-swimming past, and why did it stop?  
 How long has Vee felt her body was “a problem”?  
 Will water remain a private refuge, or be invaded by wanting/looking?  
 Will Cassie’s protective friendship put her in conflict with Randi, Pace, or Vee’s choices?  
 Who is Christine to Pace beyond a restaurant acquaintance?  
 What did Christine say to Pace at the door that made him duck his head?  
-Where exactly is Pace’s house off 614, and how much does Vee really know about where she is going? — partly answered in “Two Towels”: beyond town, pavement gives out, phone map fails, hidden gravel driveway climbs to clearing/house.  
+Where exactly is Pace’s house off 614, and how much does Vee really know about where she is going? — partly answered: twenty minutes past town, pavement and phone map give out, hidden gravel driveway up a hill to a small house with mountain view.  
 Will Vee see Pace’s house? — yes, in “Two Towels.”  
 Will Cassie’s state-trooper joke turn into real worry or action?  
-Is Pace rich, as Cassie wonders, or simply private/competent/rooted somewhere outside town? — partly answered: he says his parents are not rich and he licenses a patent that pays “a little,” though the full finances remain open.  
-Will Randi know about the kiss, hike, flannel, truck undressing, house invitation, and dress offer? If so, how will she react?  
+Is Pace rich, as Cassie wonders, or simply private/competent/rooted somewhere outside town? — partly answered: he licenses a patent that “pays a little”; parents are not rich, and the house is small/older but full of skilled self-making.  
+Will Randi know about the kiss, hike, flannel, truck undressing, house invitation, house visit, silk, and dress-measuring offer? If so, how will she react?  
 What did Cassie feel when Randi reached for Vee after stats and Vee did not watch Cassie go?  
 Why did Randi pretend not to remember Pace’s name at first?  
 What did it cost Randi socially to call Vee “my dear friend” in front of Brooke?  
@@ -368,36 +376,39 @@ Will Brooke’s “We should all get dinner sometime” ever become real?
 What did Brooke make of Randi holding Vee’s hand publicly?  
 What Thursday did Brooke say they missed Randi at?  
 Will Cassie challenge Vee about Randi, not just Pace?  
-What will happen because Pace stopped in the fire lane and the campus cop followed him? Is it only a parking/traffic warning, or will it create a record/social complication? — no known consequence yet.  
-What was Vee about to say when she began “Pace—” before the cop interrupted? — “What to Wear” and “Two Towels” suggest she wanted another kiss.  
-Will Pace ask for the flannel back, will Vee return it, or will it become an intimate object she keeps? — Vee kept it; Pace has not asked for it back.  
-Will anyone see Vee enter the dorm soaked, in Pace’s flannel, carrying her wet shirt? — Cassie sees her; others unknown.  
-Will Cassie see the moleskin, the flannel, and Vee’s face and understand how far things went? — she sees the flannel and face; Vee tells much of the story.  
-Will Pace buy or provide the russet silk dress for Vee’s induction, and would that be tender, controlling, or both? — yes, he has bought burgundy silk and offered to make it; whether tender, controlling, or both remains live.  
+What will happen because Pace stopped in the fire lane and the campus cop followed him? Is it only a parking/traffic warning, or will it create a record/social complication? — “What to Wear” reframes it as one bark of the siren and the cop following to the road, but no consequence is known yet.  
+What was Vee about to say when she began “Pace—” before the cop interrupted? — “What to Wear” suggests she was about to kiss him again; “Two Towels” confirms she wanted that kiss and takes it at the door.  
+Will Pace ask for the flannel back, will Vee return it, or will it become an intimate object she keeps? — “Rye” answers partly: Vee kept it without asking and intends to keep it; “What to Wear” shows it folded on her pillow. Pace has not asked for it back.  
+Will anyone see Vee enter the dorm soaked, in Pace’s flannel, carrying her wet shirt? — Cassie sees her in the flannel after return; others unknown.  
+Will Cassie see the moleskin, the flannel, and Vee’s face and understand how far things went? — she sees the flannel and face; Vee tells her much of how far it went.  
+Will Pace buy or provide the russet silk dress for Vee’s induction, and would that be tender, controlling, or both? — yes, he provides burgundy silk and offers to make it; it feels profoundly tender and potentially controlling/overwhelming because it requires intimate measurement and deepens dependence.  
 Will Vee’s honor society induction become a public scene where mother, Randi, Pace, Cassie, or social shame intersect?  
 Will Vee’s mother’s “floozy” voice get stronger as Vee’s desire becomes more explicit, or will Pace/Randi/Cassie help loosen it?  
 What trace did the truck scene leave on Pace? His shaking was cold, but how much was also restraint/want?  
 Will the old pickup bench seat become a recurring erotic space?  
-Why does Vee omit, or at least not mention in “Rye,” the campus cop interruption when telling Cassie? — “What to Wear” shows she tells Meg and Kayla; whether Cassie knows remains unclear.  
-Who are Meg and Kayla in Vee’s wider life, and how much will they matter?  
-Will Kayla actually come do Vee’s hair Saturday? — Saturday house visit has happened; whether Kayla did the hair is not shown.  
-What should Vee wear to Pace’s house, and will the choice matter? — she wore clothes over satin underthings, hoping he might see them; the satin now matters because of the measuring.  
-Why did Pace’s invitation include no purpose, no clothing guidance, and so little context, when he usually frames choices more fully? — partly answered: he had prepared the silk/dress offer, but did not tell her ahead.  
-What does Pace intend for two o’clock Saturday — dinner, talk, sex, showing her the house, something with the bench, something involving Randi, or something else? — answered partly: house tour and dress offer; sex/bedroom/Randi/bench not yet.  
+Why does Vee omit, or at least not mention in “Rye,” the campus cop interruption when telling Cassie? — “What to Wear” shows she does tell Meg and Kayla about it; whether Cassie knows remains unclear.  
+Who are Meg and Kayla in Vee’s wider life, and how much will they matter? — Meg now clarified as a real friend and likely the boot lender; Kayla introduced as lively dining-hall friend.  
+Will Kayla actually come do Vee’s hair Saturday? — not shown in “Two Towels”; Vee arrives at Pace’s house, but hair-prep details are not described.  
+What should Vee wear to Pace’s house, and will the choice matter? — partly answered: she wore satin underneath, hoping for the possibility of showing him; the visible outfit is not detailed.  
+Why did Pace’s invitation include no purpose, no clothing guidance, and so little context, when he usually frames choices more fully? — answered partly: he had prepared the silk/dress offer and may have left the purpose unstated to present it in person.  
+What does Pace intend for two o’clock Saturday — dinner, talk, sex, showing her the house, something with the bench, something involving Randi, or something else? — answered partly: house tour and offering to make/measure her for the dress; sex does not happen in this chapter, Randi is not present, bench not shown.  
 Does Randi know Pace has invited Vee to his house?  
 Will Vee tell Cassie about the Saturday house invitation before she goes? — not shown before “Two Towels.”  
 Will Meg or Kayla’s excitement make Vee less cautious, or simply help her feel supported?  
 Will Theo remain just a nice friend, or will his interest complicate anything?  
 What is Danny like, and will Meg’s relationship serve as contrast for Vee’s “he’s different” feeling?  
-Why are there two towels in Pace’s bathroom? Guest readiness, Randi’s trace, simple household habit, or something else?  
-Where is the hidden erotic bench/apparatus in relation to the house Vee toured? Is it in the closed bedroom, den, workshop, or elsewhere?  
-Why did Pace not open the bedroom door? Was it restraint, planning, concealment, respect, or all of these?  
-What happened with Pace’s parents that made something close in him at the word “parents”?  
-How much money does the patent really provide, and what else has Pace made/licensed/done?  
-Will the measuring happen immediately in the glass porch, and how much will Vee undress?  
-Will the dress-making become another form of erotic control, care, or both?  
-Did Pace choose burgundy only by aesthetic judgment, or has he been thinking about Vee’s body/coloring more deeply for a while?  
-What does it mean that Pace can “say” care through objects — flannel, food, furniture, silk — more safely than through declarations?
+Why are there two towels in Pace’s bathroom if he lives alone? Guest readiness, Randi, Vee, or just practical habit?  
+Where is the hidden erotic bench/apparatus in Pace’s house, and did Vee pass near it without knowing?  
+What is behind the closed bedroom door besides the obvious?  
+Will Pace measure Vee in this same glass porch, and how erotic will that be?  
+What exactly will Vee have to wear under the dress for measuring?  
+Will Vee tell Cassie/Meg/Kayla/Randi that Pace is making her a dress?  
+How did Pace learn to sew well enough to make shirts and gowns?  
+How did Pace get the MRI patent, and how old was he when he made it?  
+What happened with Pace’s parents, given the small closing in him when Vee asks if they are rich?  
+How much money does the patent really provide?  
+Will the burgundy dress become a public claim people can read without knowing who made it?  
+Will Vee’s yes to the dress/measuring be the kind of freely given yes the cover warns about?
 
 **Running memory — story so far:**  
 The cover/jacket frames the book as *A Polite Invitation*, Book 1 of *With a Long Spoon*, tagline “Every yes was freely given. That was the trap.” The jacket says Randi/Miranda, Pace’s secret lover, and Pace, a young mathematician living alone at the end of a long drive, pick Vivienne Thorne across the quad and decide she will be third in their bed. Vivienne never knows there was a game; both Pace and Randi will fall as hard as she does.
@@ -426,29 +437,21 @@ In “Leave No Trace,” Pace takes Vee hiking from a gravel lot into steep fall
 
 In “Rye,” Vee reaches the dorm room and Cassie immediately sees the oversized flannel. Cassie jokes through relief: Vee is alive, no windowless van, shoes still on, witness statement and blood type ready. Vee lowers herself painfully into the chair, sore from the hike, and tells Cassie about the mountain: the tunnel of trees, lungs quitting, boots not fitting, Pace fixing the blister with moleskin and a kit, his hands and forearms, the black rock, silver lake, and the pride of reaching the top on her own legs. She describes lunch almost ecstatically: rye bread, horseradish, shared water, cherries, no crumbs or pits left behind, carrying out what they carried in. Then she slows and tells Cassie about the rain, the truck, Pace giving her the dry flannel and standing outside in the rain so she could change unseen. She says she knocked on the glass, called him back, took her wet shirt off in front of him on purpose, and he looked at her like she had handed him something; he did not touch her, was shaking from cold, put the heat on, and drove her home. She kept the shirt without asking; he did not ask for it back. Cassie receives this softly, says only “Vee,” then tells her to borrow real boots next time. Vee says she is keeping the shirt. Cassie says, “Keep the shirt.”
 
-In “What to Wear,” Vee eats with Meg and Kayla in the athletic dorm dining hall, which has the better food and west-facing floor-to-ceiling windows that make the room gold and forgiving. Kayla’s theory is that if you walk in like you belong, no one asks questions. Meg is calm, dark-haired, and steady; Kayla is blonde, curly, fast, and talkative. Theo waves from across the room; Kayla notes it and reminds Vee he asked her to the fall thing in September, but Vee says she said “let’s be friends,” he took it like a gentleman, and now they are friends. Kayla asks what Pace actually does. Vee proudly explains that he is almost done with his math doctorate, lifts first thing in the morning as an actual powerlifter, then writes for six hours and stops because his writing is no good after that. Meg asks for “the shirt” story because Vee keeps skipping the middle. Vee retells the rain descent: soaked, freezing, Pace handing her his dry packed shirt and getting out into the rain so she can change. She says she kept it and he did not ask for it back. Kayla and Meg assume he kissed her in the truck; Vee says no, because he was shivering too badly, and she had him drive them home. She then explains that at the dorm overhang, in the fire lane, she was about to again, but a blue-and-white campus cop slid in behind them with lights and a bark of siren, so Pace moved along with the cop on his bumper. Meg teases out that Vee and Pace have kissed only once, twelve days ago, after Vee told him she does not kiss men she has known two days and then backed him into a tree. Vee admits Pace is making her lose her mind precisely because he does not push: he asks about small things, waits for the real answer, and then does exactly what she said. Her phone buzzes faceup with Pace’s name. The message asks whether she would come to his house Saturday at two. Vee has never been to his house. Kayla and Meg explode into excited interrogation: what does it say, what is it for, what does she wear? The message gives no reason and no clothing guidance. Kayla calls it a ransom note and says two in the afternoon is neither lunch nor dinner: he wants Vee for the afternoon, so she should bring a change of clothes. Meg starts asking what Vee owns that says “his house” without trying too hard. Vee thinks of the dinners, the trail, the shirt folded on her pillow, every piece of Pace she has been handed, and the fact that now there is a door and Saturday behind it. None of them get up as the light goes orange and thin.
+In “What to Wear,” Vee eats with Meg and Kayla in the athletic dorm dining hall, which has the better food and west-facing floor-to-ceiling windows that make the room gold and forgiving. Kayla’s theory is that if you walk in like you belong, no one asks questions. Meg is calm, dark-haired, and steady; Kayla is blonde, curly, fast, and talkative. Vee sits between them laughing loudly and easily. Theo waves from across the room; Kayla notes it and reminds Vee he asked her to the fall thing in September, but Vee says she said “let’s be friends,” he took it like a gentleman, and now they are friends. Kayla asks what Pace actually does. Vee proudly explains that he is almost done with his math doctorate, lifts first thing in the morning as an actual powerlifter, then writes for six hours and stops because his writing is no good after that. Meg asks for “the shirt” story because Vee keeps skipping the middle. Vee retells the rain descent: soaked, freezing, Pace handing her his dry packed shirt and getting out into the rain so she can change. She says she kept it and he did not ask for it back. Kayla and Meg assume he kissed her in the truck; Vee says no, because he was shivering too badly, and she had him drive them home. She then explains that at the dorm overhang, in the fire lane, she was about to again, but a blue-and-white campus cop slid in behind them with lights and a bark of siren, so Pace moved along with the cop on his bumper. Meg teases out that Vee and Pace have kissed only once, twelve days ago, after Vee told him she does not kiss men she has known two days and then backed him into a tree. Vee admits Pace is making her lose her mind precisely because he does not push: he asks about small things, waits for the real answer, and then does exactly what she said. Her phone buzzes faceup with Pace’s name. The message asks whether she would come to his house Saturday at two. Vee has never been to his house. Kayla and Meg explode into excited interrogation: what does it say, what is it for, what does she wear? The message gives no reason and no clothing guidance. Kayla calls it a ransom note and says two in the afternoon is neither lunch nor dinner: he wants Vee for the afternoon, so she should bring a change of clothes. Meg starts asking what Vee owns that says “his house” without trying too hard. Vee thinks of the dinners, the trail, the shirt folded on her pillow, every piece of Pace she has been handed, and the fact that now there is a door and Saturday behind it. None of them get up as the light goes orange and thin.
 
-In “Two Towels,” Vee follows Pace’s good directions twenty minutes past town, but the pavement and phone map give out, and she misses the narrow gravel driveway before turning back. At the top of the hill she finds his small older house, vinyl-sided, with a too-large two-car garage, covered stoop, and diamond-glass front door. Pace opens the door before she reaches it. He says “Hi”; she says “I missed you” and kisses him. He meets her deeply, hand in her hair, giving her the kiss she wanted since the mountain/truck/cop interruption, but then he stops it himself. Vee notices this because stopping has always been her job with boys before. He invites her in.
-
-The house is warm, almost too warm. Vee asks him to show her where he lives. By the door she sees his orderly shoes: hiking boots, work boots, running shoes, ropers, each pair for a use. His kitchen is small but purposeful: worn white counter, kettle, selected knives, heavy pans, old white KitchenAid. Down the hall are a plain clean bathroom with two towels on the rod, an office crowded with graph paper, proofs, corrections, and a serious workstation, and one closed door: his bedroom. Vee, wearing satin beneath her clothes in hope, waits for him to open it. He does not. He simply says it is his bedroom, touches her elbow, and turns her back toward the light. She is disappointed but hides it.
-
-In the den, Vee sees pale white-oak furniture and realizes Pace made it: long low table, chairs, sideboard, careful joints with no screws, mixed stain and shellac. She reads his bookshelves: fantasy paperbacks, cookbooks, hardbound math books. He explains error-correcting codes as messages built with redundancy so noise cannot kill them. When she bluntly asks how a grad student affords all this and whether his parents are rich, something closes in him at “parents”; he says no and explains that he licenses a patent. He then lights up explaining his MRI-related invention, which finds the picture in noise faster so sick or scared people spend less time in the tube.
-
-Vee asks to see where he makes furniture. He takes her through the kitchen to the converted garage workshop: swept concrete, tools hung inside painted outlines, table saw, band saw, drill press, other machines, smell of cut wood and stain/shellac, and a half-finished chair. He lets her look from the doorway. Then he brings her to the glassed-in porch, the biggest room, with windows looking over woods and blue mountains. On the long table is a bolt of burgundy silk. Vee first feels disappointment because it is not the brick-red magazine shade she had imagined for the honor society dress, then sees in the mirror that this deeper wine color suits her hair and skin better. She realizes Pace did not match the dress; he matched her.
-
-Vee remembers telling him at the summit, almost offhand, about the unaffordable silk dress she wanted for the honor society induction and had given up on. He remembered, found silk, and planned to make it real. She says she cannot sew; he says she does not have to. Then she realizes the good shirt with no tag, the one he gave her and she wore constantly, was not counterfeit or off-brand: he made it. He confirms, sheepishly, that he could not find a shirt he liked, so he made one. He says he would like to make the dress for her if she lets him. To do it right, he would measure her first, “down to what you’d wear under it, in good light,” then cut and sew so she would have it before the induction. Vee understands that he cannot make it without seeing her, and that her willingness to be looked at is the only thing between her and the dress. She says, warmly and immediately, “Yes. Yes — of course, yes.”
+In “Two Towels,” Vee follows Pace’s exact directions twenty minutes past the edge of town, where the pavement and her phone map give out. She misses his narrow hidden driveway, comes back, and drives up gravel to a clearing and his small older post-war house with a two-car garage. Pace opens the door before she reaches the top step and says “Hi.” Vee says “I missed you” and kisses him, taking the kiss she has wanted since the rainy truck night and cop interruption. He meets her deeply, hand in her hair, then stops the kiss himself. Vee notices because stopping has always been her job with boys before. He invites her in. The house is warm, almost too warm. Vee asks him to show her where he lives. She reads his open coat closet by its paired shoes: hiking boots, work boots, running shoes, ropers. The kitchen is small but purposeful, with worn white counter, kettle, good knives, heavy pans, and an old used KitchenAid. The bathroom is plain and clean with two towels on the rod. His office is disorderly compared to the rest: laptop, serious workstation, graph paper filled with square handwriting, diagrams, typeset drafts dense with corrections. Vee looks at the math, recognizes a few symbols but not most, jokes that she didn’t know he knew Sanskrit, and he does not explain it down to her. At the only closed door, he says it is his bedroom. Vee leans toward it because she dressed with that door in mind, satin under everything, hoping he would not give her a reason not to show him. He does not open it; he turns her back toward the light, and she hides her disappointment. In the den, she sees pale white-oak furniture with beautiful joints and learns Pace made most of it, with no screws, cut to lock, glued, stained and shellacked by him. She reads his shelves: cracked fantasy paperbacks, worn cookbooks, and advanced math books. He explains error-correcting codes as building redundancy so messages survive noise: “Say it more than once so the noise can’t kill it.” Vee bluntly asks how he can afford all this and whether his parents are rich. Something closes in him at “parents”; he says no and explains he licenses a patent. He lights up describing his MRI-related invention, which finds the picture in the noise faster so sick/scared people, including children, spend less time in the machine. Vee asks to see where he makes furniture. He shows her the converted garage woodshop, clean and ordered, with tools in painted outlines, big machines, cut-wood/stain/shellac smell, and a half-finished chair. Then he brings her to a glassed-in porch with mountains beyond the woods, the apparent reason for the whole hidden road and house. On the long table is a bolt of burgundy silk. Vee first feels disappointment because it is not the brick-red magazine shade of the dress she wanted for the honor society induction, then sees in the mirror that this deeper wine-purple red suits her hair and skin better. She realizes Pace did not match the dress; he matched her. He remembered the silk dress she had mentioned and given up at the summit. Vee panics that she can’t sew. Pace says she does not have to. She realizes the no-tag good shirt she wore was made by him too. He says he couldn’t find a shirt he liked, so he made one. He asks to make the dress for her, explaining he would measure her first “down to what you’d wear under it, in good light,” then cut and sew it over a couple of weeks before induction, if she wants it. Vee is overwhelmed that he remembered and wants to make real something she had thrown away. Knowing the only thing between her and the gown is willingness to be looked at, she says, “Yes. Yes — of course, yes.”
 
 **How I feel:**  
-Pace is intensely attractive and intensely suspect. His courtesy, competence, patience, restraint, body discipline, craft, and attention are seductive and repeatedly earned on the page. “Two Towels” makes him even more formidable: he is not only a mathematician, powerlifter, cook, and careful lover, but a woodworker, tailor, patent-holder, and man whose care becomes objects. But because he and Randi chose Vee in a concealed game, his care remains double-edged. His dress offer is one of the most romantic acts so far and also one of the most alarming because Vee’s yes is completely free and deeply uninformed.
+Pace is intensely attractive and intensely suspect. His courtesy, competence, patience, restraint, body discipline, attention, house, craft, invention, and remembered gift are seductive and repeatedly earned on the page. In “Two Towels,” he becomes almost devastating: he stops the kiss, does not open the bedroom, shows his real life, and offers a custom dress matched to Vee. But because he and Randi chose Vee in a concealed game, his care remains double-edged. The more perfectly he sees and provides, the more dangerous the hidden context feels.
 
-Randi is sympathetic, wounded, desirous, and alarming. Her public tenderness toward Vee felt real, but she is still hiding her connection to Pace and the setup. Her absence around the hike aftermath, house invitation, and now dress offer makes me wonder how much she knows and how she will react when she learns how far Pace and Vee have gone emotionally.
+Randi is sympathetic, wounded, desirous, and alarming. Her public tenderness toward Vee felt real, but she is still hiding her connection to Pace and the setup. Her absence through the hike aftermath, house invitation, and dress offer makes me increasingly anxious about what she knows and what this will do to her when she learns it.
 
-Vee has my full protectiveness and admiration. She is opening quickly, but not passively: she chooses, reports, names, keeps, laughs, asks, notices, kisses first, and says yes. In “Two Towels,” I especially feel her vulnerability before being remembered so exactly and her courage in accepting the condition of being seen.
+Vee has my full protectiveness and admiration. She is opening quickly, but not passively: she chooses, reports, names, keeps, laughs, kisses first, reads rooms, and says yes. In “Two Towels,” her vulnerability around the closed bedroom door and the silk dress is acute. I am moved by her being matched and remembered, and afraid of how hard it will be for her to refuse anything offered with such care.
 
-Cassie remains my most trusted person. “Rye” confirmed her as Vee’s safe witness: practical, funny, alert to danger, and deeply gentle. I want her looped in before the measuring.
+Cassie remains my most trusted person. “Rye” confirmed her as Vee’s safe witness: practical, funny, alert to danger, and deeply gentle. I want her looped in before the measuring happens.
 
 Meg feels like a solid part of Vee’s ordinary life: calm, teasing, and watchful without being heavy. I tentatively trust her.
 
 Kayla is a delightfully noisy friend, all momentum and social translation. I do not trust her judgment the way I trust Cassie’s, but her affection for Vee feels real and cheering.
 
-Overall mood: intimate, warm, dazzled, and tightening. The erotic danger has moved from flannel and a house text into silk, good light, a measuring tape, a closed bedroom door, and Vee’s immediate yes.
+Overall mood: intimate, bright, overwhelmed, and tightening. The erotic danger has moved from flannel and house invitation to silk, measuring tape, good light, and a yes that is completely free and therefore frightening.
