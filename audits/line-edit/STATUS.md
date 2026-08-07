@@ -30,7 +30,7 @@ the echo shortlist with the author before per-chapter editing starts).
 | 22 | All Told | all-told | reviewed |
 | 23 | Sorority | sorority | reviewed |
 | 24 | Gone | gone | reviewed |
-| 25 | Rock | rock | edited |
+| 25 | Rock | rock | reviewed |
 | 26 | Lesson | lesson | edited |
 | 27 | Broken In | broken-in | edited |
 | 28 | Hills and Valleys | hills-and-valleys | edited |

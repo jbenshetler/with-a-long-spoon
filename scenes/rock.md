@@ -16,7 +16,7 @@ He turned his head against the back of the couch. "On accident, then?"
 
 "Ohio has its mysteries. Cumin was not one of them."
 
-He smiled into his mug. "That seems like an omission."
+"That seems like an omission."
 
 "Ohio would disagree with you."
 
@@ -30,7 +30,7 @@ The food she had grown up with had been good. She said that first, because it wa
 
 That stopped her a little, because it was not the answer she would have expected from anyone else. Anyone else would have laughed with her, or made a face, or said something about cream of mushroom soup. Pace went first to the hand underneath the thing.
 
-"Yes," she said. "It was. It just never tried to surprise anybody." She turned the mug in her hands, looking at him over the top of it. "Even when I was hungry, it was never quite the thing I wanted. I didn't know food could be the thing you wanted. Then you cooked for me."
+"Yes," she said. "It was. It just never tried to surprise anybody." She turned the mug in her hands. "Even when I was hungry, it was never quite the thing I wanted. I didn't know food could be the thing you wanted. Then you cooked for me."
 
 The fire settled behind them. A line of light moved along the porch floor and went still.
 
@@ -48,15 +48,15 @@ Her mother had owned a spice rack, technically. It had come as a wedding present
 
 "My mother had a jar labeled saffron. Whatever was in it may have been old enough to vote."
 
-He laughed then, the small quiet laugh he had in the house, the one that did not perform for anyone beyond the two of them. It moved through her more tenderly than she expected. She had not been trying to make him laugh. That was the trouble with him. She could be trying only to tell him a thing, and he would receive it so exactly that the telling itself became a pleasure.
+He laughed then, the small quiet laugh he had in the house, the one that did not perform for anyone beyond the two of them. She had not been trying to make him laugh. That was the trouble with him. She could be trying only to tell him a thing, and he would receive it so exactly that the telling itself became a pleasure.
 
-"My parents grew up in the same city," she said. "Same city, not high school sweethearts, nothing that good. They met at church. My mother's a nurse. My dad works on jet engines for a major airline." She turned the mug in her hands. "He's got this reverence for things done in the right order. When I was little he told me he could hear a problem in an engine the way other men hear a wrong note in a song, and I believed him completely. I thought all fathers came with a sense like that. Issued to them with the kid."
+"My parents grew up in the same city," she said. "Same city, not high school sweethearts, nothing that good. They met at church. My mother's a nurse. My dad works on jet engines for a major airline. He's got this reverence for things done in the right order. When I was little he told me he could hear a problem in an engine the way other men hear a wrong note in a song, and I believed him completely. I thought all fathers came with a sense like that. Issued to them with the kid."
 
-"My mother still calls me Vivienne."
+She pulled her knees up a little under the quilt. "My mother still calls me Vivienne."
 
 "Not Vee?"
 
-"Never Vee. Vivienne. Proper, ladylike." She pulled her knees up a little under the quilt. "My dad calls me Vee. He only calls me Vivienne when I'm in trouble, so I learned it early. You hear the whole name coming and you already know you did something wrong."
+"Never Vee. Vivienne. Proper, ladylike. My dad calls me Vee. He only calls me Vivienne when I'm in trouble, so I learned it early. You hear the whole name coming and you already know you did something wrong."
 
 "So the name that means love in one mouth means trouble in the other."
 
@@ -68,13 +68,13 @@ She looked over at him. He had said it plainly, laid it where she could see it, 
 
 He nodded, taking it in, and did not tell her that was sad, which she was grateful for, because it was not sad, or it was only the ordinary amount of sad that everything was.
 
-"So," she said, turning the mug between her hands, "that's me. Ohio. Casseroles. One brother. Nurse mother. Jet-engine father. Church, Corolla, unopened saffron. What about you?"
+"So," she said, "that's me. Ohio. Casseroles. One brother. Nurse mother. Jet-engine father. Church, Corolla, unopened saffron. What about you?"
 
 He was quiet a moment. She had learned that his quiet was not reluctance. It was that he answered the actual question, and it took him a second to find the actual answer.
 
 "My mother stays home," he said. "My father works in a chemical plant."
 
-She waited. Nothing else came. It was not withheld. It was only the size of it, flat and factual, next to the warm sprawl of hers, and the difference was there, and it told her something.
+She waited. Nothing else came. It was not withheld. It was only the size of it, flat and factual, next to the warm sprawl of hers.
 
 "What does she call you?" she asked. "Your mother."
 
@@ -86,7 +86,7 @@ He had taken his mother out of the answer. Vee let him.
 
 "Peter," she said, once, quietly, to feel how it sat in her own mouth.
 
-She let it be. She moved her foot against his leg under the quilt, and he put his hand on her ankle and left it there, warm, and they were quiet, and the stars stood over the ridge.
+She let it be. She moved her foot against his leg under the quilt, and he put his hand on her ankle and left it there, warm, and they were quiet.
 
 "How old are you?" she asked, because the name had made him seem suddenly unmeasured by the usual campus categories, and because this was the kind of question new people were allowed to ask each other after born-where and brother and mother.
 
@@ -114,7 +114,7 @@ He took a drink of tea, though it must have gone nearly cold. "I took the SAT fo
 
 "That's worse."
 
-His mouth moved, not quite a smile, because he was too precise not to first check whether she meant it, and too used to her by now to think she did.  
+Not quite a smile, because he was too precise not to first check whether she meant it, and too used to her by now to think she did.  
 
 "And you wanted to go?"
 
@@ -148,7 +148,7 @@ The words reached her one at a time.
 
 "The year."
 
-She set the mug down on the low table. Carefully; the carefulness seemed to matter, though she could not have said why. Then she shifted under the quilt until her shoulder came to rest against his arm.
+She set the mug down on the low table. Carefully. Then she shifted under the quilt until her shoulder came to rest against his arm.
 
 "They took the thing you loved," she said, "and made it the punishment."
 
@@ -170,9 +170,9 @@ She had to smile. "I have never thought of it that way."
 
 "Most people don't."
 
-It was not arrogance in his voice. It was almost grief, and then not grief, because he went on before it could settle into anything so heavy.
+It was not arrogance in his voice. It was almost grief.
 
-He shifted under the quilt so he was turned a little more toward her, and something in him leaned forward, quiet but lit, and she recognized it as the thing that came into him when he was about to give her something he cared about.
+He shifted under the quilt so he was turned a little more toward her, and something in him leaned forward, quiet but lit.
 
 "There's a shape," he said, "you can fill with paint but never paint the outside of. You could pour a cup of paint in and fill it to the brim, exactly this much and no more, a number you could write down. And the surface of it, the outside you'd have to cover with a brush, goes on forever. There isn't enough paint in the world for the outside of a thing you just filled with a cup." He watched her get it. "That's true. It's not a trick. Somebody proved it, and it stays proved."
 
@@ -192,17 +192,17 @@ The stars stood above the ridge while he spoke. She looked at them because he wa
 
 He considered it. "It didn't feel lonely. Not in the work. Not in the rooms where people wanted to talk about it."
 
-He said it without self-pity, and that made it worse and better at once. She could picture him at fifteen, too young and not young at all, in a room where no one made him carry his desk into the hall.
+He said it without self-pity. She could picture him at fifteen, too young and not young at all, in a room where no one made him carry his desk into the hall.
 
-"Were you lonely the other way?" she asked. It was out before she'd decided to ask it. "Not the work. The rest of it. People."
+"Were you lonely the other way?" she asked. It was out before she meant it to be. "Not the work. The rest of it. People."
 
-He didn't answer at once, and it was the second kind of quiet, the kind still looking for the true thing.
+He didn't answer at once, and it was the second kind of quiet.
 
-She hadn't meant to stand him in a doorway, so she went first, to make it a trade. "I had a boyfriend at fifteen. A trumpet player." She smiled down into the mug. "I played clarinet, he played trumpet, we sat three rows apart in band, and I was certain that was the whole mechanism of love — proximity and brass. It lasted one marching season. He took up with a girl from the Methodist church over the summer, I heard it from somebody else, and I lay on my bed being sad to the same four songs until my mother took the headphones off my head." She turned the mug. "I was sure it was love at the time. It turned out to be smaller than it felt. But I did feel it."
+She hadn't meant to stand him in a doorway, so she went first, to make it a trade. "I had a boyfriend at fifteen. A trumpet player. I played clarinet, he played trumpet, we sat three rows apart in band, and I was certain that was the whole mechanism of love — proximity and brass. It lasted one marching season. He took up with a girl from the Methodist church over the summer, I heard it from somebody else, and I lay on my bed being sad to the same four songs until my mother took the headphones off my head." She turned the mug. "I was sure it was love at the time. It turned out to be smaller than it felt. But I did feel it."
 
 "That's how it's meant to go," he said. "At fifteen."
 
-"And yours?" She kept it light, held the door open without pushing him through.
+"And yours?" She kept it light.
 
 He took a moment. "When I got there, they assigned me someone. A tutor." His mouth moved, dry. "Which was its own joke — there was nothing in the catalog I needed tutoring in. But that was the arrangement: an older student, to help the child find his feet." A beat he didn't fill. "She was nineteen."
 
@@ -210,7 +210,7 @@ Vee went still. She didn't choose it. She simply stopped moving.
 
 "It went on two years," he said. He was looking at the black glass, not at her, and his voice had changed — each word set down separately and precisely in its place, as though the placing of them were what held the sentence up off the floor. "She left the year she turned twenty-one. Nothing happened. Nobody did anything wrong. She was twenty-one and I was seventeen, and the rooms she was walking into by then were rooms they wouldn't let me stand in for four more years. Bars. The ordinary places. The distance that had been nothing at nineteen and fifteen was, all at once, the entire thing." He turned the cold mug a quarter-turn against his knee. "So she went on. Which was only sensible. It would have been stranger if she'd stayed."
 
-He laid it out in good order, every reason accounted for and set in its slot, and the good order was the tell. All evening she had heard him undersell things — the hall, the fifteen — and this was that same voice gone one degree flatter, held too level, carried the careful way a person carries a full glass so it won't go over the rim.
+He laid it out in good order, every reason accounted for and set in its slot, and the good order was the tell. All evening she had heard him undersell things — the hall, the fifteen — and this was that same voice gone one degree flatter, held the careful way a person carries a full glass so it won't go over the rim.
 
 She did the arithmetic without wanting to. Nineteen and fifteen. Two years. It landed low and heavy in her stomach before it was a thought she could have said aloud — the boy he must have been, taken off from home too early, brilliant and alone in a building full of grown men, and the one person in it who was his, who was tender with him, who was the soft middle of those two years, and she nineteen and he fifteen. The word for it started to form in her, the clean ugly grown-up word, and she held it down under her tongue. It was not hers to say.
 
@@ -234,17 +234,15 @@ His gaze went back to the glass. The fire moved again behind them, and the refle
 
 "Did it work?"
 
-"I never had to find out." A small movement at the corner of his mouth. "Which was the point."
-
-"It became something else," he said. "When I step up to a squat bar with enough weight on it to bend the one-inch steel like dry spaghetti, there can be nothing in my mind but that moment. No future. No past. Only this lift, this heartbeat. And that is freeing."
+"I never had to find out." A small movement at the corner of his mouth. "Which was the point. It became something else. When I step up to a squat bar with enough weight on it to bend the one-inch steel like dry spaghetti, there can be nothing in my mind but that moment. No future. No past. Only this lift, this heartbeat. And that is freeing."
 
 She was quiet. She was putting something together, and it came together in her body before it came together as a thought, low and warm and a little unsteady.
 
 "That's how you are with me," she said slowly. "It's the same thing. When we're — you're all the way here. You're not thinking of the clever thing to say next. You're not off somewhere in your own head. I've been with people who were somewhere else the whole time. You're right here. It's the lift. It's the same face."
 
-He did not answer that with words. His hand moved up from her ankle, under the quilt, and settled flat and warm against her hip where she was bare under the robe, and stayed, not going anywhere, only being there, present as she had just named it, and the accuracy of it moved through her.
+He did not answer that with words. His hand moved up from her ankle, under the quilt, and settled flat and warm against her hip where she was bare under the robe, and stayed.
 
-Her own hand had drifted while they talked. It was on his thigh, above the knee, and now it moved without her deciding it, and found the place where the skin was not like the rest, high on the inside of his thigh. A seam of it, old, raised and smooth, longer than her hand — more of it than she'd known. Her fingers went along it before she thought about whether to.
+Her own hand had drifted while they talked. It was on his thigh, above the knee, and now it moved without her deciding it, and found the place where the skin was not like the rest, high up the inside of his thigh. A seam of it, old, raised and smooth, longer than her hand — more of it than she'd known. Her fingers went along it before she thought about whether to.
 
 "This?" she said.
 

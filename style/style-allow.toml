@@ -3000,6 +3000,69 @@ text = "Her hair, two nights slept on and washed in his shampoo and combed with 
 note = "Author sign-off 2026-07-28: hair 'its own weather' stands — cold reader (gpt-5.6-sol) logged it as a liked first-sighting motif"
 
 [[ok]]
+fp   = "60c95191695d"
+rule = "a-small"
+file = "scenes/rock.md"
+text = "A small movement at the corner of his mouth."
+note = "Line-edit pass 2026-08-07, author sign-off. Warm cluster ruled load-bearing incl. the :7 appositive (small-warmth-against-cold-glass frame). x-not-y/not-x-but-y are the register; :127 anaphora deliberate. :95 look-at-her is a double-take, not appreciation. :177 'He watched her get it' is Pace observed from outside, not a POV filter; :201 filter verb is inside dialogue. 'learned' precise (accrued over time). :215 'started to' aspect is the point. :237 a-small kept for the joke's timing (finding 5)."
+
+[[ok]]
+fp   = "bf3fb5bd3a32"
+rule = "began-to"
+file = "scenes/rock.md"
+text = "The word for it started to form in her, the clean ugly grown-up word, and she held it down under her tongue."
+note = "Line-edit pass 2026-08-07, author sign-off. Warm cluster ruled load-bearing incl. the :7 appositive (small-warmth-against-cold-glass frame). x-not-y/not-x-but-y are the register; :127 anaphora deliberate. :95 look-at-her is a double-take, not appreciation. :177 'He watched her get it' is Pace observed from outside, not a POV filter; :201 filter verb is inside dialogue. 'learned' precise (accrued over time). :215 'started to' aspect is the point. :237 a-small kept for the joke's timing (finding 5)."
+
+[[ok]]
+fp   = "b1b865a5c385"
+rule = "filter-verbs"
+file = "scenes/rock.md"
+text = "He watched her get it."
+note = "Line-edit pass 2026-08-07, author sign-off. Warm cluster ruled load-bearing incl. the :7 appositive (small-warmth-against-cold-glass frame). x-not-y/not-x-but-y are the register; :127 anaphora deliberate. :95 look-at-her is a double-take, not appreciation. :177 'He watched her get it' is Pace observed from outside, not a POV filter; :201 filter verb is inside dialogue. 'learned' precise (accrued over time). :215 'started to' aspect is the point. :237 a-small kept for the joke's timing (finding 5)."
+
+[[ok]]
+fp   = "d81f368681e1"
+rule = "filter-verbs"
+file = "scenes/rock.md"
+text = "He took up with a girl from the Methodist church over the summer, I heard it from somebody else, and I lay on my bed being sad to the same four songs until my mother took the headphones off my head.\""
+note = "Line-edit pass 2026-08-07, author sign-off. Warm cluster ruled load-bearing incl. the :7 appositive (small-warmth-against-cold-glass frame). x-not-y/not-x-but-y are the register; :127 anaphora deliberate. :95 look-at-her is a double-take, not appreciation. :177 'He watched her get it' is Pace observed from outside, not a POV filter; :201 filter verb is inside dialogue. 'learned' precise (accrued over time). :215 'started to' aspect is the point. :237 a-small kept for the joke's timing (finding 5)."
+
+[[ok]]
+fp   = "455b390338ed"
+rule = "learn"
+file = "scenes/rock.md"
+text = "Fifteen was football games she had not cared about until the night was cold and all her friends were there, and school dances in gymnasiums, and learning how to be pretty under bad fluorescent light."
+note = "Line-edit pass 2026-08-07, author sign-off. Warm cluster ruled load-bearing incl. the :7 appositive (small-warmth-against-cold-glass frame). x-not-y/not-x-but-y are the register; :127 anaphora deliberate. :95 look-at-her is a double-take, not appreciation. :177 'He watched her get it' is Pace observed from outside, not a POV filter; :201 filter verb is inside dialogue. 'learned' precise (accrued over time). :215 'started to' aspect is the point. :237 a-small kept for the joke's timing (finding 5)."
+
+[[ok]]
+fp   = "8287d036b368"
+rule = "learn"
+file = "scenes/rock.md"
+text = "He only calls me Vivienne when I'm in trouble, so I learned it early."
+note = "Line-edit pass 2026-08-07, author sign-off. Warm cluster ruled load-bearing incl. the :7 appositive (small-warmth-against-cold-glass frame). x-not-y/not-x-but-y are the register; :127 anaphora deliberate. :95 look-at-her is a double-take, not appreciation. :177 'He watched her get it' is Pace observed from outside, not a POV filter; :201 filter verb is inside dialogue. 'learned' precise (accrued over time). :215 'started to' aspect is the point. :237 a-small kept for the joke's timing (finding 5)."
+
+[[ok]]
+fp   = "f4e03a743fbe"
+rule = "learn"
+file = "scenes/rock.md"
+text = "She had learned that his quiet was not reluctance."
+note = "Line-edit pass 2026-08-07, author sign-off. Warm cluster ruled load-bearing incl. the :7 appositive (small-warmth-against-cold-glass frame). x-not-y/not-x-but-y are the register; :127 anaphora deliberate. :95 look-at-her is a double-take, not appreciation. :177 'He watched her get it' is Pace observed from outside, not a POV filter; :201 filter verb is inside dialogue. 'learned' precise (accrued over time). :215 'started to' aspect is the point. :237 a-small kept for the joke's timing (finding 5)."
+
+[[ok]]
+fp   = "dd1a8be5351a"
+rule = "look-at-her"
+file = "scenes/rock.md"
+text = "She turned under the quilt to look at him."
+note = "Line-edit pass 2026-08-07, author sign-off. Warm cluster ruled load-bearing incl. the :7 appositive (small-warmth-against-cold-glass frame). x-not-y/not-x-but-y are the register; :127 anaphora deliberate. :95 look-at-her is a double-take, not appreciation. :177 'He watched her get it' is Pace observed from outside, not a POV filter; :201 filter verb is inside dialogue. 'learned' precise (accrued over time). :215 'started to' aspect is the point. :237 a-small kept for the joke's timing (finding 5)."
+
+[[ok]]
+fp   = "cb292db55a27"
+rule = "not-x-but-y"
+file = "scenes/rock.md"
+text = "The world shifted very slightly around her, not because she understood the mathematics, but because he did, and he had turned the understanding toward her like light."
+note = "Line-edit pass 2026-08-07, author sign-off. Warm cluster ruled load-bearing incl. the :7 appositive (small-warmth-against-cold-glass frame). x-not-y/not-x-but-y are the register; :127 anaphora deliberate. :95 look-at-her is a double-take, not appreciation. :177 'He watched her get it' is Pace observed from outside, not a POV filter; :201 filter verb is inside dialogue. 'learned' precise (accrued over time). :215 'started to' aspect is the point. :237 a-small kept for the joke's timing (finding 5)."
+
+[[ok]]
 fp   = "423e7972c35a"
 rule = "the-way"
 file = "scenes/rock.md"
@@ -3028,6 +3091,27 @@ text = "Edges inside edges, all the way down, forever.\""
 note = "Load-bearing, author-approved: 'all the way here' (presence/lift theme), 'whole of the asking/answer' (deliberate doubling), closing 'the way you say a word', 'all the way down' (fractal idiom)."
 
 [[ok]]
+fp   = "0876d16638dc"
+rule = "there-was-were"
+file = "scenes/rock.md"
+text = "The cold stood on the other side of the glass and leaned in, and the quilt over the two of them and the fire at their backs made all the warmth there was, and the smallness of it was the point."
+note = "Line-edit pass 2026-08-07, author sign-off. Warm cluster ruled load-bearing incl. the :7 appositive (small-warmth-against-cold-glass frame). x-not-y/not-x-but-y are the register; :127 anaphora deliberate. :95 look-at-her is a double-take, not appreciation. :177 'He watched her get it' is Pace observed from outside, not a POV filter; :201 filter verb is inside dialogue. 'learned' precise (accrued over time). :215 'started to' aspect is the point. :237 a-small kept for the joke's timing (finding 5)."
+
+[[ok]]
+fp   = "6161c0f40494"
+rule = "there-was-were"
+file = "scenes/rock.md"
+text = "\"Which was its own joke — there was nothing in the catalog I needed tutoring in."
+note = "Line-edit pass 2026-08-07, author sign-off. Warm cluster ruled load-bearing incl. the :7 appositive (small-warmth-against-cold-glass frame). x-not-y/not-x-but-y are the register; :127 anaphora deliberate. :95 look-at-her is a double-take, not appreciation. :177 'He watched her get it' is Pace observed from outside, not a POV filter; :201 filter verb is inside dialogue. 'learned' precise (accrued over time). :215 'started to' aspect is the point. :237 a-small kept for the joke's timing (finding 5)."
+
+[[ok]]
+fp   = "81b98fdce895"
+rule = "there-was-were"
+file = "scenes/rock.md"
+text = "There was never a fight, we just — there's a lot of air between us and neither of us minds it."
+note = "Line-edit pass 2026-08-07, author sign-off. Warm cluster ruled load-bearing incl. the :7 appositive (small-warmth-against-cold-glass frame). x-not-y/not-x-but-y are the register; :127 anaphora deliberate. :95 look-at-her is a double-take, not appreciation. :177 'He watched her get it' is Pace observed from outside, not a POV filter; :201 filter verb is inside dialogue. 'learned' precise (accrued over time). :215 'started to' aspect is the point. :237 a-small kept for the joke's timing (finding 5)."
+
+[[ok]]
 fp   = "3de0336f2f76"
 rule = "vivienne"
 file = "scenes/rock.md"
@@ -3049,6 +3133,76 @@ text = "\"My mother still calls me Vivienne.\""
 note = "Naming beat: mother's Vivienne vs father's Vee; the toggle earns its weight here. Author-approved."
 
 [[ok]]
+fp   = "0c3af281faa7"
+rule = "warm"
+file = "scenes/rock.md"
+text = "He gave it back warmer, or stranger, or more exact than she had known it could be, and then the next thing would open from that one, and the next, until a whole conversation had happened without any sense of having been steered."
+note = "Line-edit pass 2026-08-07, author sign-off. Warm cluster ruled load-bearing incl. the :7 appositive (small-warmth-against-cold-glass frame). x-not-y/not-x-but-y are the register; :127 anaphora deliberate. :95 look-at-her is a double-take, not appreciation. :177 'He watched her get it' is Pace observed from outside, not a POV filter; :201 filter verb is inside dialogue. 'learned' precise (accrued over time). :215 'started to' aspect is the point. :237 a-small kept for the joke's timing (finding 5)."
+
+[[ok]]
+fp   = "1ba1197a77d6"
+rule = "warm"
+file = "scenes/rock.md"
+text = "The fire moved again behind them, and the reflection of it trembled faintly at the edge of the window, a second warmth laid over the stars."
+note = "Line-edit pass 2026-08-07, author sign-off. Warm cluster ruled load-bearing incl. the :7 appositive (small-warmth-against-cold-glass frame). x-not-y/not-x-but-y are the register; :127 anaphora deliberate. :95 look-at-her is a double-take, not appreciation. :177 'He watched her get it' is Pace observed from outside, not a POV filter; :201 filter verb is inside dialogue. 'learned' precise (accrued over time). :215 'started to' aspect is the point. :237 a-small kept for the joke's timing (finding 5)."
+
+[[ok]]
+fp   = "24545f1d8659"
+rule = "warm"
+file = "scenes/rock.md"
+text = "The cold stood on the other side of the glass and leaned in, and the quilt over the two of them and the fire at their backs made all the warmth there was, and the smallness of it was the point."
+note = "Line-edit pass 2026-08-07, author sign-off. Warm cluster ruled load-bearing incl. the :7 appositive (small-warmth-against-cold-glass frame). x-not-y/not-x-but-y are the register; :127 anaphora deliberate. :95 look-at-her is a double-take, not appreciation. :177 'He watched her get it' is Pace observed from outside, not a POV filter; :201 filter verb is inside dialogue. 'learned' precise (accrued over time). :215 'started to' aspect is the point. :237 a-small kept for the joke's timing (finding 5)."
+
+[[ok]]
+fp   = "2be043a47af4"
+rule = "warm"
+file = "scenes/rock.md"
+text = "Soap, wood dust that seemed to live in the seams of his house, and underneath it the warm spent smell of his skin."
+note = "Line-edit pass 2026-08-07, author sign-off. Warm cluster ruled load-bearing incl. the :7 appositive (small-warmth-against-cold-glass frame). x-not-y/not-x-but-y are the register; :127 anaphora deliberate. :95 look-at-her is a double-take, not appreciation. :177 'He watched her get it' is Pace observed from outside, not a POV filter; :201 filter verb is inside dialogue. 'learned' precise (accrued over time). :215 'started to' aspect is the point. :237 a-small kept for the joke's timing (finding 5)."
+
+[[ok]]
+fp   = "89c111dd8d4a"
+rule = "warm"
+file = "scenes/rock.md"
+text = "She was only saying it, once, into the warm dark, the way you say a word to keep it."
+note = "Line-edit pass 2026-08-07, author sign-off. Warm cluster ruled load-bearing incl. the :7 appositive (small-warmth-against-cold-glass frame). x-not-y/not-x-but-y are the register; :127 anaphora deliberate. :95 look-at-her is a double-take, not appreciation. :177 'He watched her get it' is Pace observed from outside, not a POV filter; :201 filter verb is inside dialogue. 'learned' precise (accrued over time). :215 'started to' aspect is the point. :237 a-small kept for the joke's timing (finding 5)."
+
+[[ok]]
+fp   = "8a7efb4b30e1"
+rule = "warm"
+file = "scenes/rock.md"
+text = "She moved her foot against his leg under the quilt, and he put his hand on her ankle and left it there, warm, and they were quiet."
+note = "Line-edit pass 2026-08-07, author sign-off. Warm cluster ruled load-bearing incl. the :7 appositive (small-warmth-against-cold-glass frame). x-not-y/not-x-but-y are the register; :127 anaphora deliberate. :95 look-at-her is a double-take, not appreciation. :177 'He watched her get it' is Pace observed from outside, not a POV filter; :201 filter verb is inside dialogue. 'learned' precise (accrued over time). :215 'started to' aspect is the point. :237 a-small kept for the joke's timing (finding 5)."
+
+[[ok]]
+fp   = "9bfb001d637a"
+rule = "warm"
+file = "scenes/rock.md"
+text = "Then his hand came up and settled over her breast, warm, his whole palm holding the soft weight of it without pressing, without asking, as if it were her skin and not the fire that kept him warm, and with his other hand he drew the quilt higher over them both."
+note = "Line-edit pass 2026-08-07, author sign-off. Warm cluster ruled load-bearing incl. the :7 appositive (small-warmth-against-cold-glass frame). x-not-y/not-x-but-y are the register; :127 anaphora deliberate. :95 look-at-her is a double-take, not appreciation. :177 'He watched her get it' is Pace observed from outside, not a POV filter; :201 filter verb is inside dialogue. 'learned' precise (accrued over time). :215 'started to' aspect is the point. :237 a-small kept for the joke's timing (finding 5)."
+
+[[ok]]
+fp   = "a28bcb2d4d32"
+rule = "warm"
+file = "scenes/rock.md"
+text = "His hand moved up from her ankle, under the quilt, and settled flat and warm against her hip where she was bare under the robe, and stayed."
+note = "Line-edit pass 2026-08-07, author sign-off. Warm cluster ruled load-bearing incl. the :7 appositive (small-warmth-against-cold-glass frame). x-not-y/not-x-but-y are the register; :127 anaphora deliberate. :95 look-at-her is a double-take, not appreciation. :177 'He watched her get it' is Pace observed from outside, not a POV filter; :201 filter verb is inside dialogue. 'learned' precise (accrued over time). :215 'started to' aspect is the point. :237 a-small kept for the joke's timing (finding 5)."
+
+[[ok]]
+fp   = "c51a82a32bc8"
+rule = "warm"
+file = "scenes/rock.md"
+text = "She was putting something together, and it came together in her body before it came together as a thought, low and warm and a little unsteady."
+note = "Line-edit pass 2026-08-07, author sign-off. Warm cluster ruled load-bearing incl. the :7 appositive (small-warmth-against-cold-glass frame). x-not-y/not-x-but-y are the register; :127 anaphora deliberate. :95 look-at-her is a double-take, not appreciation. :177 'He watched her get it' is Pace observed from outside, not a POV filter; :201 filter verb is inside dialogue. 'learned' precise (accrued over time). :215 'started to' aspect is the point. :237 a-small kept for the joke's timing (finding 5)."
+
+[[ok]]
+fp   = "d1a3105716b9"
+rule = "warm"
+file = "scenes/rock.md"
+text = "It was only the size of it, flat and factual, next to the warm sprawl of hers."
+note = "Line-edit pass 2026-08-07, author sign-off. Warm cluster ruled load-bearing incl. the :7 appositive (small-warmth-against-cold-glass frame). x-not-y/not-x-but-y are the register; :127 anaphora deliberate. :95 look-at-her is a double-take, not appreciation. :177 'He watched her get it' is Pace observed from outside, not a POV filter; :201 filter verb is inside dialogue. 'learned' precise (accrued over time). :215 'started to' aspect is the point. :237 a-small kept for the joke's timing (finding 5)."
+
+[[ok]]
 fp   = "83743d35bf29"
 rule = "whole-of"
 file = "scenes/rock.md"
@@ -3063,11 +3217,53 @@ text = "Then his hand came up and settled over her breast, warm, his whole palm 
 note = "Author-approved in Rock [AI] workshop: engine 'the way' simile, 'without asking' robe beat, 'city, not high-school sweethearts'."
 
 [[ok]]
+fp   = "1a4bcdc368b3"
+rule = "x-not-y"
+file = "scenes/rock.md"
+text = "He had said it plainly, laid it where she could see it, not reaching."
+note = "Line-edit pass 2026-08-07, author sign-off. Warm cluster ruled load-bearing incl. the :7 appositive (small-warmth-against-cold-glass frame). x-not-y/not-x-but-y are the register; :127 anaphora deliberate. :95 look-at-her is a double-take, not appreciation. :177 'He watched her get it' is Pace observed from outside, not a POV filter; :201 filter verb is inside dialogue. 'learned' precise (accrued over time). :215 'started to' aspect is the point. :237 a-small kept for the joke's timing (finding 5)."
+
+[[ok]]
+fp   = "59953a9744e2"
+rule = "x-not-y"
+file = "scenes/rock.md"
+text = "Fifteen was not a dormitory, not professors, not a campus at night full of people whose bodies had already finished deciding what size they were going to be."
+note = "Line-edit pass 2026-08-07, author sign-off. Warm cluster ruled load-bearing incl. the :7 appositive (small-warmth-against-cold-glass frame). x-not-y/not-x-but-y are the register; :127 anaphora deliberate. :95 look-at-her is a double-take, not appreciation. :177 'He watched her get it' is Pace observed from outside, not a POV filter; :201 filter verb is inside dialogue. 'learned' precise (accrued over time). :215 'started to' aspect is the point. :237 a-small kept for the joke's timing (finding 5)."
+
+[[ok]]
+fp   = "644db7870675"
+rule = "x-not-y"
+file = "scenes/rock.md"
+text = "The world shifted very slightly around her, not because she understood the mathematics, but because he did, and he had turned the understanding toward her like light."
+note = "Line-edit pass 2026-08-07, author sign-off. Warm cluster ruled load-bearing incl. the :7 appositive (small-warmth-against-cold-glass frame). x-not-y/not-x-but-y are the register; :127 anaphora deliberate. :95 look-at-her is a double-take, not appreciation. :177 'He watched her get it' is Pace observed from outside, not a POV filter; :201 filter verb is inside dialogue. 'learned' precise (accrued over time). :215 'started to' aspect is the point. :237 a-small kept for the joke's timing (finding 5)."
+
+[[ok]]
 fp   = "a2625ce17261"
 rule = "x-not-y"
 file = "scenes/rock.md"
 text = "\"Same city, not high-school sweethearts, nothing that good."
 note = "Author-approved in Rock [AI] workshop: engine 'the way' simile, 'without asking' robe beat, 'city, not high-school sweethearts'."
+
+[[ok]]
+fp   = "bb115c95da30"
+rule = "x-not-y"
+file = "scenes/rock.md"
+text = "He was looking at the black glass, not at her, and his voice had changed — each word set down separately and precisely in its place, as though the placing of them were what held the sentence up off the floor."
+note = "Line-edit pass 2026-08-07, author sign-off. Warm cluster ruled load-bearing incl. the :7 appositive (small-warmth-against-cold-glass frame). x-not-y/not-x-but-y are the register; :127 anaphora deliberate. :95 look-at-her is a double-take, not appreciation. :177 'He watched her get it' is Pace observed from outside, not a POV filter; :201 filter verb is inside dialogue. 'learned' precise (accrued over time). :215 'started to' aspect is the point. :237 a-small kept for the joke's timing (finding 5)."
+
+[[ok]]
+fp   = "d64fe7da0f2b"
+rule = "x-not-y"
+file = "scenes/rock.md"
+text = "\"Same city, not high school sweethearts, nothing that good."
+note = "Line-edit pass 2026-08-07, author sign-off. Warm cluster ruled load-bearing incl. the :7 appositive (small-warmth-against-cold-glass frame). x-not-y/not-x-but-y are the register; :127 anaphora deliberate. :95 look-at-her is a double-take, not appreciation. :177 'He watched her get it' is Pace observed from outside, not a POV filter; :201 filter verb is inside dialogue. 'learned' precise (accrued over time). :215 'started to' aspect is the point. :237 a-small kept for the joke's timing (finding 5)."
+
+[[ok]]
+fp   = "faed7f0615f1"
+rule = "x-not-y"
+file = "scenes/rock.md"
+text = "Not fast, not to move it."
+note = "Line-edit pass 2026-08-07, author sign-off. Warm cluster ruled load-bearing incl. the :7 appositive (small-warmth-against-cold-glass frame). x-not-y/not-x-but-y are the register; :127 anaphora deliberate. :95 look-at-her is a double-take, not appreciation. :177 'He watched her get it' is Pace observed from outside, not a POV filter; :201 filter verb is inside dialogue. 'learned' precise (accrued over time). :215 'started to' aspect is the point. :237 a-small kept for the joke's timing (finding 5)."
 
 [[ok]]
 fp   = "9326c46ca39f"

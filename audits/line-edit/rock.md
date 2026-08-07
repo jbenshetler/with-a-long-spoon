@@ -111,3 +111,30 @@ Distinctive phrasings from this chapter that may recur elsewhere in the corpus a
 - "a second warmth laid over the stars" (`:227`) — the fire's reflection in the glass; check other firelight-in-window renderings.
 - "held the door open without pushing him through" (`:205`) and the door/doorway cluster (`:161`, `:201`, `:255`) — see finding 6; the figure may also run cross-chapter.
 - "carries a full glass so it won't go over the rim" (`:213`) — verify unique before varying anything in that sentence.
+
+---
+
+## Author rulings (2026-08-07)
+
+1. `:197` (pre-ruled, ledger #8) — **varied**: "before she'd decided to ask it" → "before she meant it to be."
+2. `:247` (pre-ruled, ledger #4) — **varied**: "high on the inside of his thigh" → "high up the inside of his thigh." Anatomy verbatim.
+3. Mug gesture ×5 — **cut `:53` and `:71`** (both required a follow-on quote merge).
+4. `:73`/`:199` two kinds of quiet — **editor inverted.** `:73` is reader-praised (claude-opus-4-8) and is setup, not restatement; fixed at `:199` instead by cutting ", the kind still looking for the true thing."
+   3b. `:33`/`:141` look through the mug — **cut `:33`'s ", looking at him over the top of it."**
+   3c. Mug inventory (11 mentions) — **cut `:19` "He smiled into his mug." and `:201a` "She smiled down into the mug."** `:201b` kept as the triage's re-pickup leg.
+5. Mouth microexpression ×3 — **`:117` → "Not quite a smile"**; `:207` keeper; `:237` left standing (the beat is the joke's timing).
+6. Door figure ×4 — **cut `:205`'s ", held the door open without pushing him through."** `:255` PROTECTED on reader evidence; `:161` left standing (different sense).
+7. Stars over the ridge ×2 — **cut `:89`'s ", and the stars stood over the ridge."**
+8. `:51` overwork — **cut "It moved through her more tenderly than she expected."** "That was the trouble with him" left standing (Vee's idiom, not telegraphing).
+9. `:77` — **ended at "the warm sprawl of hers."**
+10. `:151` — **cut everything after "Carefully."**
+11. `:173` — **cut ", and then not grief, because he went on…"**
+12. `:175` — **ended at "quiet but lit."** Answers the three-reader "math riff runs long" criticism without touching the riff.
+13. `:245` — **cut to "and stayed."** (deeper than the editor proposed; the reader-praised element is the gesture, untouched).
+14. `:213` — **"held too level, carried the careful way a person carries" → "held the careful way a person carries."**
+15. `:195` — **cut ", and that made it worse and better at once."**
+16. `:55` dialogue shape — **relocated `:59`'s knee beat up to `:55`**; `:59` merged into one quote.
+17. *(bonus, reader-flagged, not in this report)* `:237`/`:239` — **merged Pace's two consecutive paragraphs, dropped the second "he said."** Closes the seam claude-fable-5 named twice.
+18. Linter sweep — **all 29 active hits acked** (0 errors), including the `warm` opening cluster; the `:7` appositive cut I recommended was **declined**.
+
+20 edits applied. Durable ledger: `meta/meta-triage-rock.md`; echoes: `audits/line-edit/echo-rulings.md` Batch 9 (#37–40).

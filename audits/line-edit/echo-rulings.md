@@ -56,7 +56,10 @@ re-rule against their then-current text.
    coordinate is what a hand reports. The other three Vol-1 occurrences
    (`rock:247`, `above-him:19`, `we-find-out:95`) are all retrospective — the
    reader already holds the fact, so varied wording costs them nothing.
-   **They vary at their chapters' reviews.** (`still-life:13` is Volume Two,
+   **They vary at their chapters' reviews.** **`rock:247` applied 2026-08-07:**
+   "high on the inside of his thigh" → "high **up** the inside of his thigh"
+   (one word; anatomy verbatim, and "high up" is if anything more tactile for
+   a hand travelling). Two remain: `above-him:19`, `we-find-out:95`. (`still-life:13` is Volume Two,
    out of scope.)
 5. **"warm weight of" (7× / 6 ch) — PROTECT the construction, vary the exact
    wording.** The sensory move stays; the identical three-word rendering
@@ -98,6 +101,9 @@ re-rule against their then-current text.
    default.** A further instance may be kept **only on the author's explicit
    direction at that chapter's review** (author ruling 2026-08-06); an editor
    or reviewer may propose one, but may not grant it.
+   **`rock:197` applied 2026-08-07:** "It was out before she'd decided to ask
+   it" → "It was out before she **meant it to be**." Stem broken, body-before-
+   mind shape preserved. One Vol-1 slot remains: `hills-and-valleys:19`.
 8b. **"before she'd decided anything" — UNRULED (raised 2026-08-06).** Same
    construction family, missed by the harvest: `see-you-later:49` (chapter
    already reviewed), `all-the-time:55`, `lesson:143` — three in Vol One.
@@ -469,3 +475,100 @@ FIX-AT. Do not vary either occurrence before that count exists.
     of her thighs and cupped the curve of her ass," which also lands `:49`'s
     "stroking slow up the backs of them" — a stroke begun twenty lines earlier
     that never arrived.
+
+---
+
+## Batch 9 (ruled 2026-08-07, during the Rock review)
+
+37. **`rock:89` / `rock:189` "the stars stood over/above the ridge" —
+    FIX-AT, applied.** Same subject, same verb, differing only in
+    preposition, 100 lines apart in a chapter whose yard/ridge/stars frame
+    (`:3`, `:257`) is a *designed* bookend. Ruled: **a designed return wants
+    a different rendering; an identical one reads as recycling, and the
+    proximity of a real bookend makes the accidental repeat more visible,
+    not less.** Fixed by subtraction at the throwaway (`:89`'s star clause
+    cut, ending the sentence on "and they were quiet"), leaving `:189` — the
+    sentence that turns the stars into moving bodies and delivers the Newton
+    payoff — untouched. The defense that the repetition marks a before/after
+    was considered and rejected: it does not survive 100 lines of separation
+    in language this plain.
+    **General rule:** when an accidental echo sits inside a chapter that also
+    runs a designed one, vary the accidental at its *weakest* instance and
+    protect the load-bearing one. Prefer cutting to finding a second-best
+    verb.
+
+38. **Business-as-beat-marker — the `rock` mug, a worked example.** Eleven
+    mug/tea mentions in 261 lines, five of them the identical hand-motion
+    doing duty as a paragraph beat roughly every twenty lines. Not a
+    cross-chapter echo — logged here because the **method** generalizes.
+    Ruled procedure: inventory every instance, classify each as
+    **structural** (`:5` and `:257`, the cooling gradient; `:151`/`:217`, the
+    mirrored set-downs; `:211`, his quarter-turn inside the flattened voice),
+    **distinct action** (`:105`, drinking), or **free**; then cut only from
+    the free set. Applied: `:19`, `:33` (partial), `:53`, `:71`, `:201a` —
+    eleven down to nine, no structural loss.
+    **Two cautions this surfaced, both worth carrying:**
+    (a) **A prior triage ruling can have a leg inside the free set.** `:201b`
+    ("She turned the mug.") is the only evidence of a re-pickup the
+    2026-08-01 line-audit triage ruled *works because it is unnarrated*.
+    Kept deliberately, and the author ruled on it rather than the reviewer
+    dismantling a recorded verdict in passing.
+    (b) **Cutting a beat can merge two speakers.** Three of these cuts left
+    same-speaker quoted chunks abutting across a paragraph or a gap, which
+    the new-paragraph-means-new-speaker convention reads as a *change* of
+    speaker. Each required a follow-on merge (`:53`, `:201`) or was checked
+    against the alternation (`:19`, left standing). **Always re-read the
+    surrounding dialogue after cutting an interstitial beat.**
+
+39. **`rock:117` / `:207` "His mouth moved," — FIX-AT, applied at `:117`.**
+    Shared three-word stem. `:207` ("His mouth moved, dry") is the keeper —
+    the dryness immediately precedes "She was nineteen" and is the last light
+    thing in the chapter. `:117` recast to the bare fragment "Not quite a
+    smile, because…", which breaks the stem, keeps the observation, and costs
+    no beat. `:237` ("A small movement at the corner of his mouth") was
+    **left standing** — a different construction, and the beat is the joke's
+    timing; its `a-small` linter warn was acked rather than paid for with a
+    cut.
+
+40. **`rock` door figure ×4 (`:161`, `:201`, `:205`, `:255`) — FIX-AT,
+    applied at `:205`.** `:255` ("no wall in it, only a door with a time on
+    it that wasn't now") is **PROTECTED** on strong reader evidence — three
+    of five cold readers quote it verbatim, and claude-fable-5 calls the
+    moment "the erotic peak of the chapter." Nothing upstream may spend the
+    figure in a way that dulls it.
+    Ruled: **the four are not one echo.** `:161` is *door as passage*, `:255`
+    is *door as deferral*, and only `:201`/`:205` — four lines apart — are
+    the same figure (*door as pressure*), with `:205` restating an intention
+    `:201` already showed her acting on. `:205`'s clause cut; `:161` left
+    standing as the hinge that turns the hallway from wound into preamble.
+    **General rule:** before treating a repeated image as an echo, separate
+    it by *sense*. A figure used three ways is a motif; the same way twice in
+    four lines is the finding.
+
+### Unruled candidates raised at the Rock review
+
+- **"moved through her"** — was twice in `rock` (`:51`, `:245`); both cut for
+  other reasons, so the chapter no longer carries it. **Likely a book-wide
+  sensation verb worth counting at the end-of-pass harvest.**
+- **"the small quiet laugh he had in the house, the one that did not
+  perform"** (`rock:51`) — Pace's private-register laugh. Two cold readers
+  (claude-fable-5, gpt-5.6-terra) log it in their *motif ledgers*, i.e. it is
+  registering as a recurring signature. Probable sibling of the "small
+  private smile" cluster under #3's unruled split. **Reader-registered
+  motifs raise the bar for varying them** — count before touching.
+- **"carries a full glass so it won't go over the rim"** (`rock:213`) —
+  likewise logged as a Pace signature by two readers' motif ledgers
+  (gpt-5.6-terra: "Pace carries memory like a full glass that must not
+  spill"). The image was **protected**; only its mechanics were fixed
+  (`carried`/`carries` inside eleven words, and "held too level" as a third
+  statement of flatness after "one degree flatter"). Verify unique before
+  anyone varies the simile itself.
+- **"the way you say a word to keep it"** (`rock:259`) — striking; verify
+  unique.
+- **"a second warmth laid over the stars"** (`rock:227`) — firelight in the
+  window glass; check other firelight-in-window renderings.
+- **`Something [verb]ed in [X]`** — `rock:175` ("something in him leaned
+  forward") is a further instance of the frame that took its first FIX-AT in
+  the Gone review (#32). **Left standing here** on #32's own carve-out: the
+  vagueness is the perception, and "quiet but lit" grounds it immediately.
+  Counts toward the end-of-pass harvest.
