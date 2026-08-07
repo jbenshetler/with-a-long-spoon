@@ -97,7 +97,7 @@ Warmer, less performed than the Randi version. The heat detail lands hardest (*"
 ---
 
 ### [SCENE] How It's Done
-*Sun Oct 4* · Draft complete · `how-its-done.md` · [detail](meta-condensed-how-its-done.md) · reviewed: 2026-07-17 · slug: how-its-done · present: Vee, Randi
+*Sun Oct 4* · Draft complete · `how-its-done.md` · [detail](meta-condensed-how-its-done.md) · reviewed: 2026-07-17, 2026-08-06 · slug: how-its-done · present: Vee, Randi
 First off-campus brunch — format upgraded (velvet alcove, Rombauer by name). Apparatus switches on. Two firsts: the first goodbye-kiss debut; the first ignition of Randi's jealousy via the water-glass tell on *"he looked at me and I was fine."* ← **jealousy ignites here.** Carries the first scent-name beat: Vee notices Randi's perfume, unnamed, in the pre-kiss closeness (flag 17).
 
 ### [SCENE] Famished
