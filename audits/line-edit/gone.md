@@ -55,4 +55,5 @@
 10. **:7 double "fold" (#11)** — a: literal posture use cut; the Sade concealment metaphor protected (echo ledger #34).
 11. **Three "A beat" tags (#9)** — a: cut :43's only. :19's is modified, :27's is the tell.
 12. **:19 "It was so cute" (#13)** — a: LEFT STANDING. Editor inverted — the flatness is the alibi the third beat breaks through; two readers quoted all three rungs as the chapter's payload.
-13. **Linter sweep (A–E)** — ruled "E fix, A–D ack" 2026-08-07: `:15` "A small breath." → "A breath."; six acked (three of them re-arms of prior acks). Chapter clean (0 active, 10 suppressed). See the triage doc.
+13. **:67 "the round of her"** — raised post-review as an echo; ruled NOT an echo (ledger #36, the count was wrong and the distance defeats it), but recast on its own merits to "His hands slid up the backs of her thighs and cupped the curve of her ass." See the triage addendum.
+14. **Linter sweep (A–E)** — ruled "E fix, A–D ack" 2026-08-07: `:15` "A small breath." → "A breath."; six acked (three of them re-arms of prior acks). Chapter clean (0 active, 10 suppressed). See the triage doc.

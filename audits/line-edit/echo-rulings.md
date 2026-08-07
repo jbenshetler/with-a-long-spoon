@@ -420,10 +420,7 @@ FIX-AT. Do not vary either occurrence before that count exists.
 
 ### Unruled candidates raised by `gone`
 
-- **"the round of her"** (`gone:67`) — nine Vol-1 occurrences (`famished` ×3,
-  `nothing-underneath:77`, `still-life:77`, `the-bench:19`, `:221`). A
-  book-wide default rather than an image. **Strongest outstanding FIX-AT
-  candidate**; needs a keeper-slot decision.
+*(The "the round of her" candidate raised here was ruled the same day — see #36.)*
 - **"the most alive"** (`gone:57`, `the-pointing-game:119`, `grace`) — both the
   `gone` and pointing-game uses are Pace appraising a woman by exactly this
   criterion. Likely design; rule it rather than assume it.
@@ -437,3 +434,38 @@ FIX-AT. Do not vary either occurrence before that count exists.
   against the `she set the` opener pile (ruling #14).
 - **"the kind that costs something to hold"** (`gone:59`) — near-relative of
   `the-bench:177`. Both about Randi's maintained surface; likely designed.
+
+36. **"the round of her" — IGNORE. Distance defeats it; the count was wrong.**
+    Raised as the "strongest outstanding FIX-AT candidate" on a harvester count
+    of nine. The true count is **seven**, and they are three unrelated groups:
+
+    - *Different referent — not the tic.* `still-life:77` ("painted the round
+      of her" — her breast, a paintbrush) and `nothing-underneath:29` ("the
+      soft small round of her belly" — modified, and it is **Vee's own** hands).
+    - *Noun stated — a different construction.* `the-bench:19` and `:221`, both
+      "the round of her **ass**". A clean chapter-internal rhyme (the hello kiss
+      / the bench), at opposite poles of one chapter. Do not sweep these in, and
+      do not spend the pair by reusing the exact phrasing in another chapter.
+    - *The only real group.* `famished:73`, `nothing-underneath:77`, `gone:67`
+      — a man's hands closing on her, noun left absolute.
+
+    **Author ruling (2026-08-07): not an issue.** Three instances across ~135k
+    words, in chapters 18, 24 and 49, is not a density any reader carries — the
+    harvester counts occurrences and cannot weigh distance, and the editor
+    (and I) passed its "book-wide default" framing along without applying that
+    test. `famished:73` and `nothing-underneath:77` both stand: in each, the
+    phrase sits inside a sentence doing other work (his hand taking her actual
+    weight mid-orgasm; lifting her the last inch into him).
+
+    **The general rule this settles:** a harvester count is not evidence of an
+    echo. Before raising one, check (a) that the instances share a referent and
+    a construction, and (b) that they are close enough for a reader to carry.
+    Distance alone can retire a candidate.
+
+    `gone:67` was nonetheless recast — **on its own merits, not as an echo**.
+    "His hands slid up to cup the round of her" made the phrase the entire
+    payload of a two-beat transitional sentence, with no weight taken and no
+    lift, and it failed to locate the gesture. Now: "His hands slid up the backs
+    of her thighs and cupped the curve of her ass," which also lands `:49`'s
+    "stroking slow up the backs of them" — a stroke begun twenty lines earlier
+    that never arrived.

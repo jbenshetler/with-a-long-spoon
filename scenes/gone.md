@@ -64,6 +64,6 @@ And then she shifted her hips down against him, and found him hard, and a slow s
 
 "So soon?" she said.
 
-He didn't answer that. His hands slid up to cup the round of her.
+He didn't answer that. His hands slid up the backs of her thighs and cupped the curve of her ass.
 
 She rode him slow in the low lamplight, small and pale above him, the blue on her toes still perfect, her hands flat on his chest and her head dropping forward as it built, and he held her and let her set the pace of it, and there was nothing quiet left in either of them now, and down the hall the playlist kept going, low, under the door.

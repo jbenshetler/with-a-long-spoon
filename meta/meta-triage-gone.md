@@ -114,3 +114,23 @@ their original rationale carried forward. Newly acked: `:29` `look-at-her`
 chapter's POV method; `:69`, the protected closing cadence).
 
 Chapter clean: 0 active hits, 10 suppressed.
+
+## Addendum — `:67` recast (2026-08-07, same day)
+
+`:67` "His hands slid up to cup the round of her." → **"His hands slid up the
+backs of her thighs and cupped the curve of her ass."**
+
+Raised as a book-wide echo ("the round of her"), and **ruled not one** — see
+echo ledger #36: three real instances across chapters 18/24/49 is not a density
+a reader carries, and the harvester's count of nine was wrong. The recast is on
+the sentence's own merits: the phrase was the entire payload of a two-beat
+transitional line, it took no weight and made no lift (unlike `famished:73` and
+`nothing-underneath:77`, both of which stand), and it failed to locate the
+gesture. The new line also lands `:49`'s "stroking slow up the backs of them" —
+a stroke begun twenty lines earlier that never arrived — and "cupped → held"
+(`:69`) reads as a firm hand relaxing into a steady one, which is him answering
+"So soon?" and then getting out of her way.
+
+Constraints observed: no steering (the protected `:69` is "let her set the pace
+of it"); "settled back down" was already spent at `:45` this pass; "filled"
+avoided as it collides with `famished:73`'s keeper.
