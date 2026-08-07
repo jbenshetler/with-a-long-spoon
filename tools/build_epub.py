@@ -40,6 +40,7 @@ import argparse
 import datetime as dt
 import hashlib
 import re
+import subprocess
 import sys
 import uuid
 import zipfile
@@ -55,6 +56,8 @@ COPYRIGHT_YEAR = "2026"
 # content-warning list for the test round; the blurb self-selects).
 COPYRIGHT_NOTICE = "An erotic novel, for adult readers."
 DRAFT_NOTICE = "Test-reader draft — please don’t share or distribute."
+WEBSITE = "helenriversbooks.com"
+CONTACT_EMAIL = "helen@helenriversbooks.com"
 
 # Back matter (spec: asks live here, never up front — first read unshaped,
 # reflection directed). Edit freely; this text lives nowhere else.
@@ -69,6 +72,7 @@ NOTE_TO_READERS = [
     "• Was there a point where the warmth curdled?",
     "Beyond those: where you put the book down, what you skipped, what you "
     "didn’t believe, and anything that pulled you out. All of it helps.",
+    f"Write to me at {CONTACT_EMAIL}. — Helen Rivers",
 ]
 
 MIDDOT = "·"
@@ -238,6 +242,7 @@ p.break { text-indent: 0; text-align: center; margin: 1.2em 0; }
 .titlepage .author { font-size: 1.1em; text-indent: 0; text-align: center; }
 .copyright { margin-top: 60%; font-size: 0.85em; }
 .copyright p { text-align: center; text-indent: 0; margin: 0 0 0.8em; }
+.buildid { font-size: 0.8em; opacity: 0.7; }
 .backmatter h1 { font-size: 1.2em; margin: 3em 0 1.5em; text-align: center; }
 """
 
@@ -249,7 +254,7 @@ def page(title: str, body: str, lang: str = LANGUAGE, bodyattr: str = "") -> str
 
 # --- epub assembly -------------------------------------------------------------
 def build(chapters, blurb, cover_path: Path, author: str, out_path: Path,
-          modified: str):
+          modified: str, build_id: str = ""):
     body_paras, tagline, comp, description = blurb
     files = []  # (id, href, media-type, properties, content_bytes, in_spine)
 
@@ -300,7 +305,10 @@ def build(chapters, blurb, cover_path: Path, author: str, out_path: Path,
         "<p>This book contains explicit sexual content and is intended "
         "for adult readers.</p>"
         f"<p>{esc(COPYRIGHT_NOTICE)}</p>"
-        f"<p>{esc(DRAFT_NOTICE)}</p></div>"))
+        f"<p>{esc(WEBSITE)}</p>"
+        f"<p>{esc(DRAFT_NOTICE)}</p>"
+        + (f'<p class="buildid">Draft {esc(build_id)}</p>' if build_id else "")
+        + "</div>"))
 
     toc = []  # (href, label) — chapters + back matter
     for i, (title, path) in enumerate(chapters, 1):
@@ -377,6 +385,7 @@ def build(chapters, blurb, cover_path: Path, author: str, out_path: Path,
 <meta name="calibre:series" content="{esc(SERIES_NAME)}"/>
 <meta name="calibre:series_index" content="{SERIES_INDEX}"/>
 <meta name="cover" content="cover-image"/>
+{f'<meta property="wals:build">{esc(build_id)}</meta>' if build_id else ""}
 </metadata>
 <manifest>
 {manifest}
@@ -409,6 +418,47 @@ def build(chapters, blurb, cover_path: Path, author: str, out_path: Path,
     return book_id
 
 
+def git_build_info(root: Path, inputs) -> dict:
+    """Identify the build from git alone, so it stays deterministic.
+
+    Returns the short HEAD sha (suffixed '+dirty' when any input has
+    uncommitted changes) and the most recent commit date among the inputs —
+    i.e. how current the *content* is, independent of when it was packaged.
+    Falls back to file mtimes outside a git checkout.
+    """
+    def git(*a):
+        return subprocess.run(("git", "-C", str(root)) + a,
+                              capture_output=True, text=True).stdout.strip()
+
+    sha = git("rev-parse", "--short", "HEAD")
+    if not sha:
+        newest = max(p.stat().st_mtime for p in inputs)
+        return {"sha": None,
+                "source_date": dt.datetime.fromtimestamp(
+                    newest, tz=dt.timezone.utc).strftime("%Y-%m-%d"),
+                "modified": dt.datetime.fromtimestamp(
+                    newest, tz=dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")}
+
+    rel = [str(p.resolve().relative_to(root)) for p in inputs]
+    # The builder shapes the output as much as the prose does, so uncommitted
+    # changes to it make the sha a lie too.
+    rel.append(str(Path(__file__).resolve().relative_to(root)))
+    dirty = bool(git("status", "--porcelain", "--", *rel))
+
+    newest = 0
+    for r in rel:
+        ct = git("log", "-1", "--format=%ct", "--", r)
+        if ct:
+            newest = max(newest, int(ct))
+    if not newest:                       # nothing committed yet
+        newest = int(max(p.stat().st_mtime for p in inputs))
+
+    when = dt.datetime.fromtimestamp(newest, tz=dt.timezone.utc)
+    return {"sha": sha + ("+dirty" if dirty else ""),
+            "source_date": when.strftime("%Y-%m-%d"),
+            "modified": when.strftime("%Y-%m-%dT%H:%M:%SZ")}
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__.split("\n")[0])
     root = Path(__file__).resolve().parent.parent
@@ -424,8 +474,13 @@ def main():
                     default=root / "images/cover.png",
                     help="cover image (default: images/cover.png, a symlink "
                          "pointing at the currently chosen cover asset)")
-    ap.add_argument("-o", "--out", type=Path,
-                    default=root / "build/a-polite-invitation.epub")
+    ap.add_argument("-o", "--out", type=Path, default=None,
+                    help="output path (default: "
+                         "build/a-polite-invitation-<source-date>-<sha>.epub, "
+                         "so many test builds sort and identify themselves)")
+    ap.add_argument("--plain-name", action="store_true",
+                    help="write build/a-polite-invitation.epub instead of the "
+                         "stamped filename")
     ap.add_argument("--list", action="store_true",
                     help="print the chapter roster and exit without building")
     ap.add_argument("--allow-missing", action="store_true",
@@ -463,16 +518,26 @@ def main():
 
     blurb = load_blurb(args.blurb)
     inputs = [args.chronology, args.blurb, args.cover] + [p for _, p in chapters]
-    modified = dt.datetime.fromtimestamp(
-        max(p.stat().st_mtime for p in inputs),
-        tz=dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    info = git_build_info(root, inputs)
+    build_id = (f"{info['source_date']} · {info['sha']}" if info["sha"]
+                else info["source_date"])
 
-    book_id = build(chapters, blurb, args.cover, args.author, args.out,
-                    modified)
+    out = args.out
+    if out is None:
+        stem = "a-polite-invitation"
+        if args.plain_name or not info["sha"]:
+            out = root / f"build/{stem}.epub"
+        else:
+            sha = info["sha"].replace("+", "-")
+            out = root / f"build/{stem}-{info['source_date']}-{sha}.epub"
+    out.parent.mkdir(parents=True, exist_ok=True)
+
+    book_id = build(chapters, blurb, args.cover, args.author, out,
+                    info["modified"], build_id)
     words = sum(len(p.read_text(encoding="utf-8").split())
                 for _, p in chapters)
-    print(f"wrote {args.out}: {len(chapters)} chapters, ~{words:,} words, "
-          f"id urn:uuid:{book_id}", file=sys.stderr)
+    print(f"wrote {out}: {len(chapters)} chapters, ~{words:,} words, "
+          f"build {build_id}, id urn:uuid:{book_id}", file=sys.stderr)
     if args.author == "Anonymous":
         print("  note: author defaulted to 'Anonymous' — pass --author "
               "\"Pen Name\"", file=sys.stderr)

@@ -4,6 +4,9 @@ Static author site — plain HTML/CSS, no build step, no JavaScript.
 
 ```
 index.html          the whole page
+favicon.svg         master mark — brass triangle, three medallions knocked out
+favicon.ico         16/32/48 multi-resolution, rendered from the SVG
+apple-touch-icon.png  180×180 · icon-512.png  512×512
 style.css           palette taken from the cover (plum, brass, the one red accent)
 images/cover.jpg    1000×1600 web copy of images/cover.png
 images/cover-500.jpg  half-size, served to phones via srcset
@@ -43,4 +46,11 @@ blurb surface (warmth leads, one dark cue, no happily-ever-after language).
   section; paste the provider's embed snippet there once a list service is chosen.
 - **Buy links** — add when the book is listed; the `.status` line becomes the
   retail link.
-- **Favicon** — a cropped detail of the brass emblem would do it.
+Regenerating the icons after an edit to `favicon.svg`:
+
+```
+cd site/helenriversbooks.com
+for s in 16 32 48 180 512; do inkscape -w $s -h $s favicon.svg -o /tmp/fav-$s.png; done
+convert /tmp/fav-16.png /tmp/fav-32.png /tmp/fav-48.png favicon.ico
+cp /tmp/fav-180.png apple-touch-icon.png && cp /tmp/fav-512.png icon-512.png
+```

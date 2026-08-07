@@ -23,8 +23,24 @@ if [[ -f "$MASTER" ]] && command -v convert >/dev/null 2>&1; then
   fi
 fi
 
-echo "deploying $SITE_DIR -> $PROJECT"
-npx wrangler pages deploy "$SITE_DIR" \
+# Stage only the public files. `wrangler pages deploy` uploads everything in the
+# directory it is given — .assetsignore is a Workers-assets feature and is NOT
+# honoured by Pages — so anything not meant to be public must be excluded here.
+STAGE="$(mktemp -d)"
+trap 'rm -rf "$STAGE"' EXIT
+
+rsync -a \
+  --exclude 'README.md' \
+  --exclude '.assetsignore' \
+  --exclude 'deploy.sh' \
+  --exclude '.wrangler' \
+  --exclude '.*.swp' \
+  "$SITE_DIR"/ "$STAGE"/
+
+echo "deploying (staged copy of $SITE_DIR) -> $PROJECT"
+echo "  files:"; (cd "$STAGE" && find . -type f | sed 's|^\./|    |' | sort)
+
+npx wrangler pages deploy "$STAGE" \
   --project-name="$PROJECT" \
   --commit-dirty=true
 
