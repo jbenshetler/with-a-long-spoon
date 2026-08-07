@@ -4260,6 +4260,13 @@ text = "\"He said it the way he says things about the work,\" Vee said."
 note = "Characterizing similes doing real work — Cassie's attention-stillness, Pace's fact-register, Cassie's problem-set method. Deliberate, not filtered telling."
 
 [[ok]]
+fp   = "6b268e57dac3"
+rule = "the-way"
+file = "scenes/turned-up.md"
+text = "Then Cassie shifted against her pillow, and Vee could see her doing it — going back over the whole thing, the way she worked a puzzle when the pieces wouldn't fit."
+note = "re-armed by the 2026-08-06 line-edit cut (finding 9, 'laying it out,' removed); construction unchanged from the prior acceptance. Author re-acked 2026-08-06."
+
+[[ok]]
 fp   = "79caff969331"
 rule = "the-way"
 file = "scenes/turned-up.md"

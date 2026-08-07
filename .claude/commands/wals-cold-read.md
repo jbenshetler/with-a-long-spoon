@@ -34,6 +34,29 @@ which subagents do *not* load) or it leaks in under the reader. See `SPEC.md` �
 (default = full run), and optional `--fresh` (regenerates existing files; default
 resumes by skipping them).
 
+## The current panel (as of 2026-08-06)
+
+The four models run against new chapters going forward:
+
+| Model id | Status |
+|---|---|
+| `claude-opus-4-8` | active |
+| `gpt-5.5` | active |
+| `gpt-5.6-sol` | active |
+| `gpt-5.6-terra` | active — **replaces `claude-fable-5`** (2026-08-06) |
+| `claude-fable-5` | **retired** — resources exhausted; do not start new runs |
+
+`claude-fable-5`'s existing reviews (54 chapters) **remain valid evidence** and
+are still mined during line-edit review — it is retired, not repudiated. But it
+is stalled one chapter behind the other actives and will not advance, so:
+
+- **Do not expect a fable read on recently-drafted chapters**, and do not treat
+  its absence as a missing file.
+- **`gpt-5.6-terra` is catching up** (19 chapters as of 2026-08-06), so on older
+  chapters the panel may be fable-without-terra and on newer ones
+  terra-without-fable. **Count the reviews on disk before assuming a panel size**
+  — `ls reviews/cold-read/*/<slug>.md`.
+
 ## Step 0 — Resolve the model (required) and its output directory
 
 Parse `--model <id>` from `$ARGUMENTS`. **`<id>` is required** and is used verbatim
