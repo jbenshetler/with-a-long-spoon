@@ -120,3 +120,34 @@ re-rule against their then-current text.
     :41) — PROTECTED (presumed design, 2026-08-04).** Randi's surface-
     authoring verb: the post-mirror arranged smile carried into the next
     morning. Do not flag or vary.
+
+## Batch 3 (ruled 2026-08-06, during the How It's Done review)
+
+18. **Attention-as-lamp / "the full beam of her attention" — PROTECTED.**
+    Randi's attention rendered as a light switching on. Book-wide it appears
+    once per chapter, always at a hinge: `practice-room` ("the whole bright
+    weight of her attention coming on like a lamp"), `sorority:13` ("The full
+    beam, all at once"), `all-told:21` ("turned the whole warm weight of her
+    attention on, like a lamp finding you"), `how-its-done:45`, `:76`. Do not
+    flag single uses. **Local over-concentration may be raised** — this is
+    how the ruling arose: `how-its-done` held four of the book's seven uses
+    and was thinned to two (`:67` and `:82` cut, 2026-08-06).
+    - Sub-note, unruled: `practice-room` and `all-told` are near-twins of
+      each other ("whole bright weight… like a lamp" / "whole warm weight…
+      like a lamp finding you"). Worth a FIX-AT when either comes up for
+      review; not ruled here.
+
+19. **The fold figure (folded up / folded away / folded the smallest) —
+    PROTECTED.** `how-its-done:88` → `:138` is a designed escalation ("kept
+    this part folded up" → "folded up the smallest and pushed the deepest"):
+    the chapter is Vee unfolding in order, outermost fold inward. `:82`
+    (Randi's tightness "folded away somewhere") is load-bearing, not the
+    loose one — it puts both women in one grammar of concealment six lines
+    before Vee starts unfolding, and marks the difference in silence: Vee's
+    folds are shame, Randi's is tactical. Do not flag or vary.
+
+20. **"a beat past" (`how-its-done:7`, `:17`) — FIX-AT #2 applied
+    2026-08-06.** Line 7's use kept (the smile, the chapter's opening tell);
+    `:17` varied to "held the look past nothing". **Open question for the
+    Volume One pass:** whether `:7`'s "a beat past" claims a book-wide keeper
+    slot. Recorded as kept in-chapter only.

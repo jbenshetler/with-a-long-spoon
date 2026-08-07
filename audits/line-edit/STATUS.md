@@ -22,7 +22,7 @@ the echo shortlist with the author before per-chapter editing starts).
 | 14 | Two Towels | two-towels | reviewed |
 | 15 | A Round | a-round | reviewed |
 | 16 | Turned Up | turned-up | reviewed |
-| 17 | How It's Done | how-its-done | edited |
+| 17 | How It's Done | how-its-done | reviewed |
 | 18 | Famished | famished | edited |
 | 19 | Toenails | toenails | edited |
 | 20 | Fed | fed | edited |

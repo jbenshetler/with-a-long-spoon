@@ -1229,6 +1229,139 @@ text = "She remarked on women the way other people remarked on the weather, and 
 note = "cold-read pass 2026-07-27: literal-adjacent simile is Sheri's defining line; author keeps it"
 
 [[ok]]
+fp   = "a97e41d7f77d"
+rule = "a-small"
+file = "scenes/how-its-done.md"
+text = "Soft, and in no hurry, and then — just as Vee thought it was ending — not ending: a small drawing-back, the barest pause, and then back again with a little more, a second press that had something in it the first one hadn't, before it let her go."
+note = "How It's Done :172 — the diminutive is load-bearing: the second press works by being almost undetectable, which is what keeps it deniable. Chapter has only one 'a small' (book-wide 60/26 chapters). Author ruling 2026-08-06."
+
+[[ok]]
+fp   = "6f2e4e5236ad"
+rule = "filter-verbs"
+file = "scenes/how-its-done.md"
+text = "She heard her own voice do the thing it did for Randi, the slightly-up thing, the trying-to-sound-like-this-happens-to-me thing."
+note = "How It's Done — Vee hearing her own voice is a designed progression (perform :71 / lose it :90 / gone :126); thinned from four to three this pass by cutting :71b. Surviving instances each mark a turn. Author ruling 2026-08-06."
+
+[[ok]]
+fp   = "7358ef520622"
+rule = "filter-verbs"
+file = "scenes/how-its-done.md"
+text = "But the question was so soft, and the booth was so close, and she had wanted — she realized she had wanted, the whole drive over, maybe for days — to tell someone."
+note = "How It's Done :88 — the perceiving IS the thing: Vee discovering her own want mid-sentence; 'she realized' is what makes the self-interruption a discovery rather than a stutter. Hinge into 'The wanting got there before the plan did.' Author ruling 2026-08-06."
+
+[[ok]]
+fp   = "8c8e551738bb"
+rule = "filter-verbs"
+file = "scenes/how-its-done.md"
+text = "\"Just—\" her voice came out smaller, and higher, and she heard it go and couldn't stop it, dropping down into something hushed, leaning across the table the way you lean to give up a secret \"—you know."
+note = "How It's Done — Vee hearing her own voice is a designed progression (perform :71 / lose it :90 / gone :126); thinned from four to three this pass by cutting :71b. Surviving instances each mark a turn. Author ruling 2026-08-06."
+
+[[ok]]
+fp   = "5628364f57a8"
+rule = "register-verb"
+file = "scenes/how-its-done.md"
+text = "Vee looked, and then registered that she'd looked, and turned it into the thought she had a use for: that Randi had the body the magazines meant, small and high and the proper scale, the body you were graded against — the kind of body that got to wear a camisole cut to *there* and have it read as elegant instead of as a girl showing off what she couldn't help having."
+note = "How It's Done :27 — Vee, not Pace/Randi; the look-then-catch-then-launder sequence is body-before-mind and the beat itself. Author ruling 2026-08-06."
+
+[[ok]]
+fp   = "f2746fb701c5"
+rule = "register-verb"
+file = "scenes/how-its-done.md"
+text = "Randi appeared not to register the girls at all, or if she did they cost her nothing, and she drove them off campus one-handed, the other arm along the door, and Vee held her hair and let herself be driven."
+note = "How It's Done :17 — negated and doubly hedged ('appeared not to', 'or if she did'); renders Vee's inability to read Randi, not Randi as collector. Author ruling 2026-08-06."
+
+[[ok]]
+fp   = "10e626c20c8e"
+rule = "the-way"
+file = "scenes/how-its-done.md"
+text = "The car was long and low and a green so dark it read as black until the sun moved on it, and it sat the way expensive things sit, without apology, taking up exactly the room it intended to."
+note = "How It's Done — the instructive-simile grammar ('the way you X') is the chapter's subject: the narrator instructs the reader in how things are done while Randi instructs Vee, converging at :96 'it's just how it's done'. Measured 2.5/1k vs 1.6/1k book mean; high-normal, not an outlier. Author ruling 2026-08-06."
+
+[[ok]]
+fp   = "12bf171fc9f7"
+rule = "the-way"
+file = "scenes/how-its-done.md"
+text = "She looked frankly at Vee's chest, the way a woman looks at another woman's good feature, with open longing."
+note = "How It's Done — the instructive-simile grammar ('the way you X') is the chapter's subject: the narrator instructs the reader in how things are done while Randi instructs Vee, converging at :96 'it's just how it's done'. Measured 2.5/1k vs 1.6/1k book mean; high-normal, not an outlier. Author ruling 2026-08-06."
+
+[[ok]]
+fp   = "1318deccbaa2"
+rule = "the-way"
+file = "scenes/how-its-done.md"
+text = "The place was off Prices Fork, a freestanding building of red brick that sat by itself in its own lot the way restaurants from a certain decade did, low and single-story with a deep pitched roof."
+note = "How It's Done — the instructive-simile grammar ('the way you X') is the chapter's subject: the narrator instructs the reader in how things are done while Randi instructs Vee, converging at :96 'it's just how it's done'. Measured 2.5/1k vs 1.6/1k book mean; high-normal, not an outlier. Author ruling 2026-08-06."
+
+[[ok]]
+fp   = "177b5232d030"
+rule = "the-way"
+file = "scenes/how-its-done.md"
+text = "Randi listened the way she listened, which was completely — chin on her hand, eyes on Vee, going where Vee's animation took them, to her mouth when she talked, to her hands when they moved, down the line of her and back."
+note = "How It's Done — the instructive-simile grammar ('the way you X') is the chapter's subject: the narrator instructs the reader in how things are done while Randi instructs Vee, converging at :96 'it's just how it's done'. Measured 2.5/1k vs 1.6/1k book mean; high-normal, not an outlier. Author ruling 2026-08-06."
+
+[[ok]]
+fp   = "84713a837796"
+rule = "the-way"
+file = "scenes/how-its-done.md"
+text = "Randi settled into the corner of the booth like the booth had been waiting for her, gold and pale silk and cream, lit somehow in the dim room the way money is lit."
+note = "How It's Done — the instructive-simile grammar ('the way you X') is the chapter's subject: the narrator instructs the reader in how things are done while Randi instructs Vee, converging at :96 'it's just how it's done'. Measured 2.5/1k vs 1.6/1k book mean; high-normal, not an outlier. Author ruling 2026-08-06."
+
+[[ok]]
+fp   = "86491bb35f97"
+rule = "the-way"
+file = "scenes/how-its-done.md"
+text = "It was the picture that did it — not the man, the man was nobody, but Randi, Randi naked and helpless and laughing, her wrists tied over her head and her control gone, that finished surface finally cracked all the way open — and the heat the picture put low in Vee was a heat she had no shelf for and would have died before naming at this table."
+note = "How It's Done — the instructive-simile grammar ('the way you X') is the chapter's subject: the narrator instructs the reader in how things are done while Randi instructs Vee, converging at :96 'it's just how it's done'. Measured 2.5/1k vs 1.6/1k book mean; high-normal, not an outlier. Author ruling 2026-08-06."
+
+[[ok]]
+fp   = "950d8aeaa88f"
+rule = "the-way"
+file = "scenes/how-its-done.md"
+text = "She had read, it seemed, only the left side, the way a person reads who has never once in her life had to find the bottom of a column."
+note = "How It's Done — the instructive-simile grammar ('the way you X') is the chapter's subject: the narrator instructs the reader in how things are done while Randi instructs Vee, converging at :96 'it's just how it's done'. Measured 2.5/1k vs 1.6/1k book mean; high-normal, not an outlier. Author ruling 2026-08-06."
+
+[[ok]]
+fp   = "97e1c57914c5"
+rule = "the-way"
+file = "scenes/how-its-done.md"
+text = "And then she looked again and reached past it, the way you reach for the kinder thing because you want it to be true: maybe it wasn't a laugh she was holding."
+note = "How It's Done — the instructive-simile grammar ('the way you X') is the chapter's subject: the narrator instructs the reader in how things are done while Randi instructs Vee, converging at :96 'it's just how it's done'. Measured 2.5/1k vs 1.6/1k book mean; high-normal, not an outlier. Author ruling 2026-08-06."
+
+[[ok]]
+fp   = "9dc677979927"
+rule = "the-way"
+file = "scenes/how-its-done.md"
+text = "She read it the way you read a road in fog, looking for what was passable."
+note = "How It's Done — the instructive-simile grammar ('the way you X') is the chapter's subject: the narrator instructs the reader in how things are done while Randi instructs Vee, converging at :96 'it's just how it's done'. Measured 2.5/1k vs 1.6/1k book mean; high-normal, not an outlier. Author ruling 2026-08-06."
+
+[[ok]]
+fp   = "aa4252d5f904"
+rule = "the-way"
+file = "scenes/how-its-done.md"
+text = "To fit it right he had to — he needed the real measurements, the actual ones, so it would sit the way it's supposed to, so—\" the words piling up vague and quick around the shape of the thing she wasn't saying, the cut-out plain in the middle of them."
+note = "How It's Done — the instructive-simile grammar ('the way you X') is the chapter's subject: the narrator instructs the reader in how things are done while Randi instructs Vee, converging at :96 'it's just how it's done'. Measured 2.5/1k vs 1.6/1k book mean; high-normal, not an outlier. Author ruling 2026-08-06."
+
+[[ok]]
+fp   = "b64c8b68b21f"
+rule = "the-way"
+file = "scenes/how-its-done.md"
+text = "\"Just—\" her voice came out smaller, and higher, and she heard it go and couldn't stop it, dropping down into something hushed, leaning across the table the way you lean to give up a secret \"—you know."
+note = "How It's Done — the instructive-simile grammar ('the way you X') is the chapter's subject: the narrator instructs the reader in how things are done while Randi instructs Vee, converging at :96 'it's just how it's done'. Measured 2.5/1k vs 1.6/1k book mean; high-normal, not an outlier. Author ruling 2026-08-06."
+
+[[ok]]
+fp   = "b6c7a282b6d4"
+rule = "the-way"
+file = "scenes/how-its-done.md"
+text = "She was rolling in it now, telling it the way you tell the best thing, slowing down on the good part, *I was fine, he looked at me and I was fine,* turning it over so it caught the light."
+note = "How It's Done — the instructive-simile grammar ('the way you X') is the chapter's subject: the narrator instructs the reader in how things are done while Randi instructs Vee, converging at :96 'it's just how it's done'. Measured 2.5/1k vs 1.6/1k book mean; high-normal, not an outlier. Author ruling 2026-08-06."
+
+[[ok]]
+fp   = "fa6b62308278"
+rule = "the-way"
+file = "scenes/how-its-done.md"
+text = "She said it gently, the way you'd tell someone the salad fork goes on the outside, no judgment in it, only the easy authority of a person who'd had a great many things made."
+note = "How It's Done — the instructive-simile grammar ('the way you X') is the chapter's subject: the narrator instructs the reader in how things are done while Randi instructs Vee, converging at :96 'it's just how it's done'. Measured 2.5/1k vs 1.6/1k book mean; high-normal, not an outlier. Author ruling 2026-08-06."
+
+[[ok]]
 fp   = "a747dd47168c"
 rule = "there-was-were"
 file = "scenes/how-its-done.md"

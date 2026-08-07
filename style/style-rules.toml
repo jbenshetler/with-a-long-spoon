@@ -109,14 +109,22 @@ why      = "'catalog' as a verb (cataloging/itemizing experience) is a tic. Reca
 [[rule]]
 id       = "register-verb"
 kind     = "regex"
-pattern  = '(?i)(?<!\b(?:a|an|the|this|that|these|those|her|his|my|your|our|their|its|cash|vocal|voter|social|lower|upper|higher|different|same|one)\s)\bregister(?:s|ed|ing)?\b'
+# Detect the VERB positively rather than excluding noun phrases. The old
+# negative lookbehind inspected only one word, so "the register" was excluded
+# but "the warm low register" was not — 14 of 28 book-wide hits were nouns.
+# Widening the lookbehind is worse (it suppresses real verbs whenever any
+# determiner falls within a few words). Safe because the book is past tense:
+# -ed/-ing are always verbal, and bare "registers" occurs only as a noun.
+pattern  = '(?i)\bregister(?:ed|ing)\b|\bto\s+register\b|\b(?:not|never|hardly|barely|would|could|might|must|may|can|will|even)\s+register\b|\b(?:watch(?:ed|es|ing)?|saw|see|seen|heard|hear|felt|feel|let|made|make)\s+\w+\s+register\b'
 severity = "warn"
 why      = "'register' as a verb (noticing-and-storing experience as a record) is the retired filing/cataloging frame — renders Pace/Randi as cold collectors. Recast into the embodied image; noun uses (a register, her register, cash/vocal register) are fine."
 
 [[rule]]
 id       = "clock-verb"
 kind     = "regex"
-pattern  = "(?i)(?<![oO]['’])(?<!\\b(?:a|an|the|this|that|these|those|her|his|my|your|our|their|its|body|alarm|wall|grandfather|around)\\s)\\bclock(?:s|ed|ing)?\\b"
+# Same inversion as register-verb above (see that comment). The old pattern
+# missed "no clock", "a kind of clock" — 4 of 10 hits were nouns.
+pattern  = '(?i)\bclock(?:ed|ing)\b|\bto\s+clock\b|\b(?:not|never|hardly|barely|would|could|might|must|may|can|will|even)\s+clock\b|\b(?:watch(?:ed|es|ing)?|saw|see|seen|heard|hear|felt|feel|let|made|make)\s+\w+\s+clock\b'
 severity = "warn"
 why      = "'clock' as a verb (noticing-and-storing, 'she clocked it') is the retired filing/cataloging frame — renders Pace/Randi as cold collectors. Recast into the embodied image; noun uses (the clock, o'clock, clockwise) are fine."
 

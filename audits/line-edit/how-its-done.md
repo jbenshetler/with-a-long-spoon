@@ -42,3 +42,30 @@ The chapter's own high bar: the price-column paragraph and its payoff ("more tha
 - "the laugh of someone setting down something she'd carried up too many stairs" (line 118)
 - "she set the thought where she set those thoughts" (line 11)
 - "a beat past" (lines 7, 17 — already ruled FIX-AT, ledger #2)
+
+## Author rulings (2026-08-06)
+
+Durable ledger: `meta/meta-triage-how-its-done.md`. This file is disposable.
+
+1. Applied — cut second "at the curb" (`:5`).
+2. Applied — FIX-AT #2: `:7` kept, `:17` varied ("held the look past nothing"; author flagged as still clunky).
+3. Applied — cut the hair/wind personification (`:13`).
+4. Resolved for free by #3 — "boisterous" now 1×.
+5. Applied — "studied Randi the way you study what you'd like to learn" → "studied Randi" (`:15`).
+6. Applied — cut "instead of the glamorous girl" (`:15`); `:164` stands.
+7. Applied — Sinatra gloss trimmed to "the one where he calls it witchcraft" (`:21`).
+8. Applied in part — cut `:59` "So she did what she did."; `:11`, `:31`, `:71`, `:73` kept.
+9. Applied, deeper than recommended (option b) — `:67` and `:82` cut; two in-chapter uses remain. Echo-rulings #18 PROTECTED.
+10. Applied — cut the two explanatory sentences at `:73`.
+11. **Withdrawn** — `:37`/`:158` are a designed bookend (projection → verdict), not a repetition. See triage.
+12. Left standing — the fold figure is design. Echo-rulings #19 PROTECTED.
+
+### Bonus items (cold-read enrichment)
+
+B1. Applied — cut "The room was built so that you could." (`:25`), per claude-fable-5.
+B2. Left standing — `:146` "her secret was still half out of her with nowhere to go", against claude-opus-4-8. See triage.
+
+### Reviewer-raised
+
+D1. **Withdrawn** — "the way" ×13 measured at 2.5/1k vs 1.6/1k book mean; the instructive-simile cluster is the chapter's subject. Acked.
+L1–L5. Style-linter items: `register-verb` `:17`/`:27` acked; self-hearing thinned 4→3 (cut `:71b`, new beat added); `filter-verbs` `:88` acked; `a-small` `:172` acked. Chapter closes at 0 error, 0 warn.
