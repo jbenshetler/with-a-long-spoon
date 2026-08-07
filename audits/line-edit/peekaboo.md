@@ -34,3 +34,20 @@
 - "like water finding its level" (distinctive simile; check for other water-settling renderings of the dress/silk)
 - "wine-dark" (striking diction; a reader would feel it twice)
 - "it came out wet" (¶10 — "it came out" is PROTECTED per ruling 15; listed only for the pileup count)
+
+## Author rulings (2026-08-07)
+
+1. **Doubled grin (`:9`/`:15`)** — APPLIED (a): cut the `:15` clause. `:9` reader-praised by 3 of 5; `:15` defended by none.
+2. **"He'd set the whole thing up for her" (`:15`)** — DECLINED (b): left standing on terra's quote; paragraph would otherwise close on hardware with Pace absent.
+3. **"most of the way to" ×2 (`:3`/`:7`)** — APPLIED (a) + (c): `:7` → "both of them already past stopping".
+4. **Ribs ×3 (`:19`/`:39`/`:61`)** — APPLIED (a): keeper is `:39`, not `:19` as recommended — reader evidence inverted the editor's pick. `:19` → "It got in and opened…"; `:61` → "a laugh coming up in her every time".
+5. **Body-before-mind pileup + echo #8 (`:31`/`:39`/`:45`/`:49`)** — APPLIED (a): varied `:39` (ration) and `:45`; kept `:31` and `:49`. Keeper slot for `:39` proposed against, not granted.
+6. **Clean-line sentence (`:49`)** — APPLIED (a), a narrowed version: editor's recommendation was unusable as written (would have cut the chapter's most-quoted phrase). Cut only "where the pale edge had cut it a minute ago".
+7. **"there was nothing left…" ×2 (`:49`/`:55`)** — APPLIED (a) + (c): `:49` → "and she let it come". `:55` kept over gpt-5.6-sol's "more fated" objection.
+8. **Not-far restatement (`:53`)** — APPLIED (a): cut the whole clause; paragraph opens on her entrance.
+9. **"the way" cluster** — APPLIED (a) then **REVERTED at author direction**: `:31` stands as written. Construction stays at five, all acked.
+10. **Echo #8 pre-ruled item** — merged into item 5.
+- **B1 opening recap (`:3`)** — LEFT STANDING (a): opus-4-8 flagged and self-resolved.
+- **B2 `:55` "fated" (gpt-5.6-sol)** — ruled inside item 7; kept.
+- **B3 "getting away with something" (`:69`)** — WITHDRAWN (a) on reader evidence; watch-item for the end-of-volume re-run.
+- **Linter sweep** — A ack, B ack, C(b) cut `warm` at `:7`, D ack, E(b) `:21` → "that always beat her to it", F ack, G ack. 26 hits → 0 active, 22 suppressed.

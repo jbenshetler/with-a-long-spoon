@@ -2678,6 +2678,160 @@ text = "It had to have data — he wanted to be clear about that, this was a sta
 note = "Professor's credo (data, not analogies); author sign-off 2026-07-29"
 
 [[ok]]
+fp   = "3d946afd9d9d"
+rule = "filter-verbs"
+file = "scenes/peekaboo.md"
+text = "She watched him breathe and didn't wake him."
+note = "':63 She watched him breathe and didn't wake him' — not the frame the rule targets: the watching IS the act (she is the only one awake; the not-waking is the beat). Same reasoning as the acked famished:61. Line-edit 2026-08-07 group F."
+
+[[ok]]
+fp   = "5491fabeda76"
+rule = "learn"
+file = "scenes/peekaboo.md"
+text = "He'd gone down hard and fast the way she was learning he did, flat on his back, one arm flung up by his head, and she knew without being told that he'd been up the night before — that the dress had been finished at some hour with no business being awake in it, that he'd stood at the long table in the sun porch getting the last of it right while she slept across town, not knowing."
+note = "':63 learning' is the precise verb — she is accumulating knowledge of him over weeks, not reaching for a default. Line-edit 2026-08-07 group G."
+
+[[ok]]
+fp   = "40bd2f2445ab"
+rule = "the-way"
+file = "scenes/peekaboo.md"
+text = "The way the room would turn."
+note = "Third beat of a three-fragment sequence (The slit. The bare shoulder. The way the room would turn.); construction is doing deliberate rhythmic work. Earns its slot. Line-edit 2026-08-07 item 9."
+
+[[ok]]
+fp   = "5d19f0d7a486"
+rule = "the-way"
+file = "scenes/peekaboo.md"
+text = "At her hips it caught the way good cloth does and water doesn't, and she worked it down with a low shimmy, both hands smoothing it over herself until it dropped the last inch and settled."
+note = "'the way good cloth does and water doesn't' — finding declined and edit reverted at author direction: 'good cloth' grounds the sentence in the real object before invoking water as foil; removing it leaves a literal claim resting on a simile's vehicle. Line-edit 2026-08-07 item 9."
+
+[[ok]]
+fp   = "b5208b867f1e"
+rule = "the-way"
+file = "scenes/peekaboo.md"
+text = "She crossed to him and took his face in both her hands and kissed him, and hooked the bared leg up around him and pulled him in, the slit falling all the way open along her."
+note = "Idiom, not the filtered construction the rule targets ('most of the way to' / 'on the way' / 'all the way'). False positive. Line-edit 2026-08-07 group A."
+
+[[ok]]
+fp   = "b941ef08ceb4"
+rule = "the-way"
+file = "scenes/peekaboo.md"
+text = "She'd carried the low warm hum of it the whole drive, so that by the time she reached his step it was most of the way to a decision her body had already made."
+note = "Idiom, not the filtered construction the rule targets ('most of the way to' / 'on the way' / 'all the way'). False positive. Line-edit 2026-08-07 group A."
+
+[[ok]]
+fp   = "c3e181da85db"
+rule = "the-way"
+file = "scenes/peekaboo.md"
+text = "And the slit came open all the way up."
+note = "Idiom, not the filtered construction the rule targets ('most of the way to' / 'on the way' / 'all the way'). False positive. Line-edit 2026-08-07 group A."
+
+[[ok]]
+fp   = "c42c6dfe3297"
+rule = "the-way"
+file = "scenes/peekaboo.md"
+text = "Not sly, not holding a thing over her — *grinning*, helpless with it, the way a kid can't keep a surprise in his mouth one more second, his eyes already going past her to the thing he'd made and couldn't wait another minute for her to see."
+note = "Reader-praised by 3 of 5 cold readers (fable-5, opus-4-8, gpt-5.5) as the most disarming rendering of Pace in the book. Protected. Line-edit 2026-08-07 item 9."
+
+[[ok]]
+fp   = "c911d4a3e6f9"
+rule = "the-way"
+file = "scenes/peekaboo.md"
+text = "He'd hung it from the lip of the window frame, and the fall sun came through it the way light only comes through silk, the burgundy lit from inside itself and the plum beneath it deepening, a wine-dark glow with a shadow alive in it; the bias of the cut took the bare shoulder and ran it down in one long clean line."
+note = "The reveal; 'the way light only comes through silk' is a claim about silk the sentence needs. Kept at item 9 over :31. Line-edit 2026-08-07."
+
+[[ok]]
+fp   = "cbb858705b2a"
+rule = "the-way"
+file = "scenes/peekaboo.md"
+text = "It came down her like water finding its level — cool against her bare skin for half a second and then warm with her own heat, sliding the length of her and taking her shape on the way."
+note = "Idiom, not the filtered construction the rule targets ('most of the way to' / 'on the way' / 'all the way'). False positive. Line-edit 2026-08-07 group A."
+
+[[ok]]
+fp   = "d4ee7ac0ce3f"
+rule = "the-way"
+file = "scenes/peekaboo.md"
+text = "He'd gone down hard and fast the way she was learning he did, flat on his back, one arm flung up by his head, and she knew without being told that he'd been up the night before — that the dress had been finished at some hour with no business being awake in it, that he'd stood at the long table in the sun porch getting the last of it right while she slept across town, not knowing."
+note = "Coda; 'the way she was learning he did' is her accumulating knowledge of him, the quiet home for a beat cut from :53. Line-edit 2026-08-07 item 9."
+
+[[ok]]
+fp   = "de4d89fb6c56"
+rule = "the-way"
+file = "scenes/peekaboo.md"
+text = "Not the careful walk — she strode, the slit swinging open on her bare leg and her hip with every step, the length of her given and taken back and given, all the way to the den where he was waiting, to show him what he'd made."
+note = "Idiom, not the filtered construction the rule targets ('most of the way to' / 'on the way' / 'all the way'). False positive. Line-edit 2026-08-07 group A."
+
+[[ok]]
+fp   = "5cd225485e16"
+rule = "there-was-were"
+file = "scenes/peekaboo.md"
+text = "And after that there was nothing left for either of them to decide."
+note = "':55 nothing left for either of them to decide' — kept at item 7 (echo varied at :49 instead). gpt-5.6-sol filed the only objection ('more fated than the surrounding scene's careful agency'); claude-opus-4-8 quoted it approvingly as the right elision. Author ruled keep. Line-edit 2026-08-07."
+
+[[ok]]
+fp   = "7fbedc37b82a"
+rule = "there-was-were"
+file = "scenes/peekaboo.md"
+text = "Under the burgundy there was a second softness, a doubled, quiet weight through the bodice and over the hips, oyster-pale where it showed at all."
+note = "':33 Under the burgundy there was a second softness' — opens the lining sentence fable-5 and opus-4-8 both quote as the truly-seen payoff ('a soft wall set into the only parts of her the dress had decided not to give away'). Line-edit 2026-08-07 group D."
+
+[[ok]]
+fp   = "53aeeda5f3ef"
+rule = "warm"
+file = "scenes/peekaboo.md"
+text = "It came down her like water finding its level — cool against her bare skin for half a second and then warm with her own heat, sliding the length of her and taking her shape on the way."
+note = "':31 warm with her own heat' — literal body temperature transferring to silk; the point of the sentence, not a mood word. Line-edit 2026-08-07 group C(b)."
+
+[[ok]]
+fp   = "6b460ea7c19e"
+rule = "warm"
+file = "scenes/peekaboo.md"
+text = "Then he leaned in and kissed her, small, a careful peck, a question; and when it answered itself he drew her into a hug, the whole warm front of him, and it swung her half a turn off the step and into the house, holding each other longer than hello —"
+note = "':5 the whole warm front of him' — physical, the hug's actual sensation. Line-edit 2026-08-07 group C(b)."
+
+[[ok]]
+fp   = "d756a4ed8eaa"
+rule = "warm"
+file = "scenes/peekaboo.md"
+text = "The only one awake in the warm house."
+note = "':63 the warm house' — load-bearing: claude-opus-4-8 clocked it unprompted as an echo of the kept-heat/second-inhabitant thread ('the only one awake in the warm house'). Do not vary. Line-edit 2026-08-07 group C(b)."
+
+[[ok]]
+fp   = "e445774241c7"
+rule = "warm"
+file = "scenes/peekaboo.md"
+text = "She'd carried the low warm hum of it the whole drive, so that by the time she reached his step it was most of the way to a decision her body had already made."
+note = "':3 low warm hum' — the drive-long anticipation she carries to his step; opening warmth is the chapter's arrival register. Cluster thinned at :7 instead. Line-edit 2026-08-07 group C(b)."
+
+[[ok]]
+fp   = "fb9bb298fd75"
+rule = "warm"
+file = "scenes/peekaboo.md"
+text = "After, she lay on her side in his bed, loose and warm and looking at the dress."
+note = "':59 loose and warm' — the post-sex body in bed. Earned. Line-edit 2026-08-07 group C(b)."
+
+[[ok]]
+fp   = "138c240e4675"
+rule = "x-not-y"
+file = "scenes/peekaboo.md"
+text = "Not sly, not holding a thing over her — *grinning*, helpless with it, the way a kid can't keep a surprise in his mouth one more second, his eyes already going past her to the thing he'd made and couldn't wait another minute for her to see."
+note = "Three antitheses across the chapter is under the density threshold. Line-edit 2026-08-07 group G."
+
+[[ok]]
+fp   = "2b479cacdf54"
+rule = "x-not-y"
+file = "scenes/peekaboo.md"
+text = "He'd gone down hard and fast the way she was learning he did, flat on his back, one arm flung up by his head, and she knew without being told that he'd been up the night before — that the dress had been finished at some hour with no business being awake in it, that he'd stood at the long table in the sun porch getting the last of it right while she slept across town, not knowing."
+note = "':63 while she slept across town, not knowing' — the dramatic-irony beat fable-5 named ('phrases with two floors'). Line-edit 2026-08-07 group G."
+
+[[ok]]
+fp   = "f92c88964ce5"
+rule = "x-not-y"
+file = "scenes/peekaboo.md"
+text = "She didn't ask him to leave, and he didn't make anything of going — a touch on her shoulder, and he stepped out into the den, not far, never far, and left her to it."
+note = "':27 not far, never far' — reader-praised by gpt-5.6-terra ('keeps that familiar tension around him intact'); the stronger of the two not-far statements, the other cut at item 8. Line-edit 2026-08-07 group G."
+
+[[ok]]
 fp   = "43d320416eac"
 rule = "clock-verb"
 file = "scenes/practice-room.md"

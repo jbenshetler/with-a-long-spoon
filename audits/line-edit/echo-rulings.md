@@ -213,3 +213,51 @@ re-rule against their then-current text.
     **Not in this family, no ruling needed:** `in-her-place:81` (the marks of
     him all over her), `nothing-underneath:49` (the wet all over her fingers),
     `another-round:3` (fingerprints all over it — dead idiom).
+
+## Batch 5 (ruled 2026-08-07, during the Peekaboo review)
+
+23. **Ruling #8 progress — `peekaboo:39` varied and closed.** "She was smiling
+    before she'd decided to" → "She was smiling and hadn't decided to". The
+    default in #8 was applied (vary at the chapter's review); a keeper slot was
+    proposed against and **not granted** — no cold reader quoted the line, and
+    the smile is the least surprising of the chapter's four body-first beats.
+    The smallest stem-breaking move was chosen deliberately: this is a ration
+    fix, not an improvement brief. **Four of six Vol-1 slots now resolved**
+    (`the-bench:303` keeper; `a-round:58` and `a-round:220` PROTECTED;
+    `peekaboo:39` varied). **Remaining: `rock:197`, `hills-and-valleys:19`** —
+    still vary-by-default, keeper only on the author's explicit direction.
+
+24. **Body-before-mind local pileup — the construction stays PROTECTED; local
+    density is the only thing ever at issue.** Peekaboo ran four in five pages
+    (`:31` skin/head, `:39` the smile, `:45` body/head, `:49` the
+    shame-crossing). Ruled: keep `:31` (structural — introduces the
+    fitted-to-her revelation) and `:49` (reader-praised by three of five);
+    vary `:39` (ration, above) and `:45`. **The operative test is the exact
+    repeated noun, not the shape** — `:31` and `:45` both ended on "before her
+    head," fourteen lines apart, and that collision was the finding. Sibling
+    chapters: do not flag the construction; do count identical closing nouns.
+
+25. **"there was nothing left …" — FIX-AT, one per chapter, reserved for the
+    stronger position.** Peekaboo closed two consecutive sections on the shape
+    (`:49`, `:55`). Ruled: the scene-out into white space wins; the earlier
+    occurrence gives way (`:49` → "and she let it come"). Not a book-wide ban —
+    the phrase is unremarkable in isolation; what fails is two section-ends in
+    a row.
+
+### Candidates raised at Peekaboo, UNRULED — do not vary in bulk
+
+The chapter's editor listed these as book-wide echo candidates. None were put
+to the author; they are logged so a later harvest does not present them as new.
+
+- **"getting away with something"** (`peekaboo:69`, the chapter's last words) —
+  **check before touching:** the finding against it was *withdrawn* on
+  reader evidence at that review (see `meta-triage-peekaboo.md`). If it recurs
+  elsewhere, the recurrence is the question, not this occurrence.
+- "the small place the tears came from" (`peekaboo:19`) — worth checking against
+  the "the small private ___" FIX-AT family (#3), which is itself unruled on
+  whether the four occurrences are Pace's tell.
+- "like water finding its level" (`peekaboo:31`) — check for other
+  water-settling renderings of silk/dress.
+- "wine-dark" (`peekaboo:15`) — striking diction; a reader would feel it twice.
+- "most of the way to" — reduced to one occurrence in Peekaboo at this review;
+  flagged there as feeling like a book-wide measure-phrase.
