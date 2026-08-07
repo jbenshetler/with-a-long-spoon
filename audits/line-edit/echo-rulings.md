@@ -375,3 +375,65 @@ FIX-AT. Do not vary either occurrence before that count exists.
 - **`Something [verb]ed in/over [X]'s [body part]`** — `sorority:61` is a
   third instance (with `all-told:49`, `all-told:59`). Strengthens the case for
   an end-of-pass FIX-AT harvest on this frame.
+
+## Batch 8 (ruled 2026-08-07, during the Gone review)
+
+32. **The `Something [verb]ed in [X]'s [body part]` frame — first FIX-AT
+    applied.** `gone:45` ("Something in Randi went quiet at that") was the
+    fourth logged instance (with `all-told:49`, `all-told:59`,
+    `sorority:61`) and was recast to "She went quiet at that." Two reasons
+    it went first: the frame was *also* the fourth bare "Something…" subject
+    inside `gone` alone (`:31`, `:39`, `:45`, `:59`), and the plain "She went
+    quiet" is **more** observation-only than the frame it replaced — "something
+    in Randi" claims interior access that a Pace-POV scene has to borrow.
+    **The rule:** in an outside-in POV, prefer the visible act over the
+    `Something in <her>` frame; keep the frame only where the vagueness is the
+    perception (`gone:39` "Something crossed her face and was gone" — kept,
+    reader-quoted; `gone:59` — kept, quoted by four of five readers).
+    The end-of-pass harvest on this frame stands.
+
+33. **"the way" in `gone:7` — one kept, one varied.** The opening sentence
+    carried two. `warm the way he kept it when she was there` is
+    near-canonical warm-house phrasing and is acked in `style-allow.toml`;
+    `loose in the way she only went afterward` → `loose as she only went
+    afterward`. Same treatment as `sorority:9`/`:15`. **The rule for this
+    tic is now settled by precedent:** when a sentence carries two, keep the
+    idiomatic/canonical one and recast the other to "as" — do not blanket-recast.
+
+34. **The fold figure in `gone:7` — NOT part of protected #19.** Ruling #19
+    protects the `how-its-done` fold figure as a *grammar of concealment*.
+    `gone`'s Sade line ("that cool voice with the warmth folded under it") is a
+    legitimate extension of that grammar onto Randi and is **PROTECTED** — it is
+    her architecture in seven words, in her own chosen music. The literal
+    posture use eight words earlier ("folded down onto his chest") was the
+    accident and was cut to "down onto his chest". **The rule:** the fold
+    figure belongs to concealment; a fold used for mere body position is
+    available to cut.
+
+35. **"let her set the pace of it" (`gone:69`) — PROTECTED, do not "fix".**
+    The pun with Pace's name is real and was flagged as unintended. Left
+    standing on reader evidence: gpt-5.6-sol read it as theme, not error
+    ("faintly echoes the novel's larger unease about who really sets anyone's
+    pace"), and gpt-5.6-terra transcribed it as "Pace letting her set the pace"
+    without stumbling. Recorded here specifically so a later pass does not
+    re-flag it as a blooper.
+
+### Unruled candidates raised by `gone`
+
+- **"the round of her"** (`gone:67`) — nine Vol-1 occurrences (`famished` ×3,
+  `nothing-underneath:77`, `still-life:77`, `the-bench:19`, `:221`). A
+  book-wide default rather than an image. **Strongest outstanding FIX-AT
+  candidate**; needs a keeper-slot decision.
+- **"the most alive"** (`gone:57`, `the-pointing-game:119`, `grace`) — both the
+  `gone` and pointing-game uses are Pace appraising a woman by exactly this
+  criterion. Likely design; rule it rather than assume it.
+- **"and she has no idea" (Randi, `gone:19`) / "and she has no idea she does
+  it" (Pace, `gone:57`)** — within-chapter, across two speakers, Pace
+  unknowingly echoing her. No cold reader noticed it. Probably design; if so
+  it belongs in the protected list, and if not it is a cheap fix.
+- **"she set it down at his door" (`gone:9`) / "the rest of what she'd set
+  down" (`gone:51`)** — the setting-down figure for Randi's guardedness, twice.
+  Both survived this review (the second pays off the first). Cross-check
+  against the `she set the` opener pile (ruling #14).
+- **"the kind that costs something to hold"** (`gone:59`) — near-relative of
+  `the-bench:177`. Both about Randi's maintained surface; likely designed.

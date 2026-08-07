@@ -40,3 +40,19 @@
 - **"and she has no idea"** (:19, Randi) / **"and she has no idea she does it"** (:57, Pace) — within-chapter, but the exact repetition across two speakers looks intentional (Pace unknowingly echoing her). Confirm as design or vary; if design, it belongs in the protected list.
 - **"she set it down at his door"** (:9) / **"the rest of what she'd set down"** (:51) — the setting-down figure used twice for Randi's guardedness. Cross-check against the `she set the` opener pile (ruling #14).
 - **"folded / folded under"** (:7) — flagged in #11 above, but also worth checking against the protected fold figure (ruling #19) so the accidental use isn't later mistaken for part of that design.
+
+## Author rulings (2026-08-07)
+
+1. **Chest cluster (#1, #2)** — a: cut ":21 against his chest" and ":45 onto his chest". Kept :19 and :39 (both earn the return). 8 → 6.
+2. **:59 "a readiness" (#4)** — a: cut the abstraction, kept the tightening.
+3. **:47 stage direction (#7)** — a: LEFT STANDING. Editor inverted on reader evidence — three of five readers quoted the clause as the mechanism of the triangulation.
+4. **:49 "Her, stepping over her own line" (#6)** — a: cut.
+5. **:51 "What came up in him was the other thing" (#8)** — a: cut; the lamp speech arrives off the silence.
+6. **:61 double qualifier (#5)** — a: cut "lighter than the stillness", kept "a beat too long".
+7. **:69 "let her set the pace of it" (#12)** — a: LEFT STANDING. Pun is real; two readers registered it and one converted it to theme. Echo ledger #35.
+8. **"Something" ×4 (#3)** — a: recast :45 to "She went quiet at that". Also clears the book-wide `Something [verb]ed in [X]'s [body part]` frame's fourth instance (echo ledger #32).
+9. **:7 double "the way" (#10)** — a: second → "as"; the warm-house one kept (echo ledger #33).
+10. **:7 double "fold" (#11)** — a: literal posture use cut; the Sade concealment metaphor protected (echo ledger #34).
+11. **Three "A beat" tags (#9)** — a: cut :43's only. :19's is modified, :27's is the tell.
+12. **:19 "It was so cute" (#13)** — a: LEFT STANDING. Editor inverted — the flatness is the alibi the third beat breaks through; two readers quoted all three rungs as the chapter's payload.
+13. **Linter sweep (A–E)** — ruled "E fix, A–D ack" 2026-08-07: `:15` "A small breath." → "A breath."; six acked (three of them re-arms of prior acks). Chapter clean (0 active, 10 suppressed). See the triage doc.

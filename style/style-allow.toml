@@ -1236,6 +1236,13 @@ text = "The bistro had a sun porch along its south side, a long room of glass an
 note = "kept as buried consent-resonance; reads as atmosphere on first pass (author decision, B)"
 
 [[ok]]
+fp   = "04a157233783"
+rule = "filter-verbs"
+file = "scenes/gone.md"
+text = "He felt her smiling, and after a moment she went on, easy again."
+note = "Gone line edit 2026-08-07 (re-arm of prior ack): tactile registration, not cognitive filter — her face is against him, so the feeling IS the perception"
+
+[[ok]]
 fp   = "255f62f52e9c"
 rule = "filter-verbs"
 file = "scenes/gone.md"
@@ -1250,11 +1257,39 @@ text = "He felt the laugh start low in her."
 note = "tactile: he feels her laugh through his chest, body-before-mind not a cognitive filter — author-accepted"
 
 [[ok]]
+fp   = "0892db130ab6"
+rule = "look-at-her"
+file = "scenes/gone.md"
+text = "She came up and kissed him — warm, languid, her hair falling around them, her hand at the side of his face — and he let her, one hand sliding up into her hair, and she stayed in it a moment before she drew back just far enough to look at him."
+note = "Gone line edit 2026-08-07: physical repositioning to meet his eyes before she speaks, not the appreciation beat the rule targets"
+
+[[ok]]
+fp   = "3543db935f1d"
+rule = "the-way"
+file = "scenes/gone.md"
+text = "The house was warm the way he kept it when she was there, the lamp low, and Randi was still astride him where she'd stayed after, down onto his chest, loose as she only went afterward, her hair spilled black and fine across his skin."
+note = "Gone line edit 2026-08-07 (re-arm of prior ack): opening motif line, 'warm the way he kept it' near-canonical warm-house phrasing; the second 'the way' in this sentence was recast to 'as' in the same pass"
+
+[[ok]]
 fp   = "afca2c441e8a"
 rule = "the-way"
 file = "scenes/gone.md"
 text = "The house was warm the way he kept it when she was there, the lamp low, and Randi was still astride him where she'd stayed after, folded down onto his chest, loose in the way she only went afterward, her hair spilled black and fine across his skin."
 note = "opening motif line; 'warm the way he kept it' is near-canonical warm-house phrasing — author-accepted"
+
+[[ok]]
+fp   = "8dcf0cc6cd7c"
+rule = "there-was-were"
+file = "scenes/gone.md"
+text = "She lifted her head; there was something undefended in it."
+note = "Gone line edit 2026-08-07: Pace reading her from outside is the chapter's POV method — the vagueness of 'something undefended' is the point"
+
+[[ok]]
+fp   = "f81245f234d8"
+rule = "there-was-were"
+file = "scenes/gone.md"
+text = "She rode him slow in the low lamplight, small and pale above him, the blue on her toes still perfect, her hands flat on his chest and her head dropping forward as it built, and he held her and let her set the pace of it, and there was nothing quiet left in either of them now, and down the hall the playlist kept going, low, under the door."
+note = "Gone line edit 2026-08-07: protected closing cadence — the rolling clauses were praised by four cold readers; 'let her set the pace of it' also left standing this pass"
 
 [[ok]]
 fp   = "1024f8b98296"
@@ -1269,6 +1304,13 @@ rule = "warm"
 file = "scenes/gone.md"
 text = "The house was warm the way he kept it when she was there, the lamp low, and Randi was still astride him where she'd stayed after, folded down onto his chest, loose in the way she only went afterward, her hair spilled black and fine across his skin."
 note = "Physical anchor — he heats the house for her; distinct sense from the Sade warmth in the same paragraph."
+
+[[ok]]
+fp   = "4d9c4274e853"
+rule = "warm"
+file = "scenes/gone.md"
+text = "The house was warm the way he kept it when she was there, the lamp low, and Randi was still astride him where she'd stayed after, down onto his chest, loose as she only went afterward, her hair spilled black and fine across his skin."
+note = "Gone line edit 2026-08-07 (re-arm of prior ack): load-bearing warmth — the house heated for her is the chapter's tenderness premise"
 
 [[ok]]
 fp   = "59661af134e9"

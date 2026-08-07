@@ -29,12 +29,12 @@ the echo shortlist with the author before per-chapter editing starts).
 | 21 | Peekaboo | peekaboo | reviewed |
 | 22 | All Told | all-told | reviewed |
 | 23 | Sorority | sorority | reviewed |
-| 24 | Gone | gone | edited |
+| 24 | Gone | gone | reviewed |
 | 25 | Rock | rock | edited |
-| 26 | Lesson | lesson | pending |
-| 27 | Broken In | broken-in | pending |
-| 28 | Hills and Valleys | hills-and-valleys | pending |
-| 29 | A Recognized Method | recognized-method | pending |
+| 26 | Lesson | lesson | edited |
+| 27 | Broken In | broken-in | edited |
+| 28 | Hills and Valleys | hills-and-valleys | edited |
+| 29 | A Recognized Method | recognized-method | edited |
 | 30 | The Practice Room | practice-room | pending |
 | 31 | The Induction | the-induction | pending |
 | 32 | We Find Out | we-find-out | pending |
