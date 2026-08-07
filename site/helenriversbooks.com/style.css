@@ -1,0 +1,189 @@
+/* helenriversbooks.com — palette taken from the cover:
+   plum velvet ground, brass type, the one red accent. */
+
+:root {
+  --plum-deep: #2E1B33;
+  --plum:      #4A2C4F;
+  --brass:     #C9A54B;
+  --brass-dim: #9C7F3A;
+  --paper:     #EFE7DC;
+  --paper-dim: #C9BCAE;
+  --red:       #D4574A;   /* lifted off the cover's crimson for legibility on plum */
+  --measure:   34rem;
+}
+
+* { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  padding: 0 1.5rem 4rem;
+  background: var(--plum-deep);
+  background-image: radial-gradient(ellipse at 50% 0%, var(--plum) 0%, var(--plum-deep) 70%);
+  background-attachment: fixed;
+  color: var(--paper);
+  font-family: Baskerville, "Libre Baskerville", Georgia, "Times New Roman", serif;
+  font-size: 18px;
+  line-height: 1.65;
+}
+
+/* ---------- masthead ---------- */
+
+.masthead {
+  max-width: var(--measure);
+  margin: 0 auto;
+  padding: 3.5rem 0 2.5rem;
+  text-align: center;
+}
+
+.masthead .series {
+  margin: 0 0 .6rem;
+  color: var(--brass-dim);
+  font-size: .78rem;
+  letter-spacing: .28em;
+  text-transform: uppercase;
+}
+
+.masthead h1 {
+  margin: 0;
+  color: var(--brass);
+  font-size: 2rem;
+  font-weight: 400;
+  letter-spacing: .06em;
+}
+
+/* ---------- book block ---------- */
+
+main {
+  max-width: 58rem;
+  margin: 0 auto;
+}
+
+.book {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 3rem;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.cover {
+  flex: 0 0 340px;
+  margin: 0;
+  max-width: 70vw;
+}
+
+.cover img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 2px;
+  box-shadow: 0 18px 40px rgba(0, 0, 0, .55);
+}
+
+.copy {
+  flex: 1 1 22rem;
+  min-width: 0;
+  max-width: var(--measure);
+}
+
+.copy h2 {
+  margin: 0;
+  color: var(--brass);
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.15;
+}
+
+.volume {
+  margin: .4rem 0 1.8rem;
+  color: var(--paper-dim);
+  font-size: .95rem;
+  font-style: italic;
+}
+
+.copy p { margin: 0 0 1.2rem; }
+
+.tagline {
+  margin: 2rem 0;
+  color: var(--brass);
+  font-size: 1.15rem;
+  line-height: 1.5;
+  text-align: center;
+}
+
+.comp {
+  color: var(--paper-dim);
+  font-size: .92rem;
+  font-style: italic;
+}
+
+.status {
+  margin-top: 1.8rem;
+  color: var(--red);
+  font-size: .8rem;
+  font-style: normal;
+  letter-spacing: .22em;
+  text-transform: uppercase;
+}
+
+/* ---------- lower sections ---------- */
+
+.rule {
+  max-width: 8rem;
+  margin: 4rem auto 3rem;
+  border: 0;
+  border-top: 1px solid var(--brass-dim);
+  opacity: .5;
+}
+
+.aside {
+  max-width: var(--measure);
+  margin: 0 auto 2.5rem;
+}
+
+.aside h3 {
+  margin: 0 0 .7rem;
+  color: var(--brass-dim);
+  font-size: .78rem;
+  font-weight: 400;
+  letter-spacing: .24em;
+  text-transform: uppercase;
+}
+
+.aside p { margin: 0; }
+
+a {
+  color: var(--brass);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+a:hover { color: var(--paper); }
+
+/* ---------- footer ---------- */
+
+footer {
+  max-width: var(--measure);
+  margin: 4rem auto 0;
+  padding-top: 2rem;
+  border-top: 1px solid rgba(201, 165, 75, .25);
+  text-align: center;
+  color: var(--paper-dim);
+  font-size: .82rem;
+}
+
+footer p { margin: 0 0 .5rem; }
+
+.fine { color: var(--brass-dim); font-size: .75rem; }
+
+/* ---------- small screens ---------- */
+
+@media (max-width: 700px) {
+  body { font-size: 17px; }
+  .book { gap: 2rem; }
+  .cover { flex-basis: 260px; }
+  .copy h2 { font-size: 1.75rem; }
+  .masthead { padding-top: 2.5rem; }
+}

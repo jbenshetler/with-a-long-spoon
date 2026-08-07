@@ -9,7 +9,7 @@ data/
 MEMORY.md
 ref/
 *.swp
-images/
+/images/
 __pycache__/
 .DS_Store
 ._*
