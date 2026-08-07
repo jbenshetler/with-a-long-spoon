@@ -3574,6 +3574,13 @@ text = "He looked at the bare smooth cleft between her legs, waxed clean, a smal
 note = "her body — literally small"
 
 [[ok]]
+fp   = "ba366b91c77e"
+rule = "clock-verb"
+file = "scenes/the-bench.md"
+text = "She took in the white laminate counters she disliked, plain and cheap — he had watched her clock them the first night, and the second night, and the third, and had watched her never say anything about them."
+note = "Author ruling 2026-08-06 (surfaced by the register-verb/clock-verb regex fix during the How It's Done line edit; the-bench was already marked reviewed). Not the cold-collector frame the rule targets: the sentence's subject is Pace watching Vee notice, and the payload is the second clause — that she never says anything. The noticing-and-storing is HERS and is characterizing, not his filing."
+
+[[ok]]
 fp   = "01ccc5636352"
 rule = "filter-verbs"
 file = "scenes/the-bench.md"

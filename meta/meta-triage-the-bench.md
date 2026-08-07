@@ -230,3 +230,16 @@ Claude readers. Findings and the author's rulings:
   committed baseline panel, which matches the restored text; the OpenAI batch
   cost history retains the runs). **Do not re-propose this cut without new
   reader evidence.**
+
+## Linter acks (2026-08-06)
+
+- **`clock-verb` `:29` (`#ba366b91c77e`) — left standing, acked.** "he had
+  watched her clock them the first night, and the second night, and the third,
+  and had watched her never say anything." Surfaced late (during the
+  {{How It's Done}} line edit, when `clock-verb`'s pattern was rewritten to
+  detect the verb positively rather than exclude noun phrases — the old regex
+  missed this line). Ruled *not* the frame the rule targets: the rule guards
+  against Pace/Randi rendered as cold collectors, and here the
+  noticing-and-storing is **Vee's**, characterizing her; Pace's action is
+  watching, and the sentence's payload is the second clause — that she never
+  says anything.
