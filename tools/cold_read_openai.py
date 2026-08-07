@@ -19,8 +19,14 @@ hard `max_output_tokens` cap (output and reasoning are billed together at the ou
 rate), so one call physically cannot exceed the budget. After each call the actual
 cost is checked; if it somehow exceeds budget, or the response comes back `incomplete`
 (it hit the cap), the whole batch ABORTS. Retries are OFF by default
-(--max-attempts 1) so a bad scene can't multiply spend. A model with no price
-(pricing TOML or --price-* override) is REFUSED rather than run uncapped.
+(--max-attempts 1) so a bad scene can't multiply spend.
+
+The invariant is NEVER RUN UNCAPPED — not always know the price. Either guard
+satisfies it: a dollar budget, or --max-output-tokens N (a hard per-call
+output+reasoning cap). Given both, the tighter binds. A model with no price AND
+no token cap is REFUSED. On a subscription-backed arm there is no per-token
+price to convert, so --max-output-tokens is the only guard and is required;
+cost reporting is disabled there (cost is None, not 0).
 
 RUN (never pip — uv resolves the deps in the header above):
   uv run tools/cold_read_openai.py --model gpt-5.5      --scope fall
@@ -59,7 +65,15 @@ def load_system_prompt() -> str:
     return body
 
 
-def load_pricing(model: str, price_in, price_out) -> dict:
+def load_pricing(model: str, price_in, price_out, max_output_tokens=None) -> dict:
+    """Pricing for the dollar guard, or None when a token guard stands in.
+
+    The invariant is *never run uncapped* — not *always know the price*. A
+    per-call `max_output_tokens` bounds spend just as hard as a dollar budget
+    does, and it is the only guard available on a subscription-backed arm where
+    there is no per-token price to convert. So: a price OR an explicit token cap
+    is required; neither is a refusal.
+    """
     table = {}
     if PRICING_TOML.exists():
         table = tomllib.loads(PRICING_TOML.read_text()).get("models", {})
@@ -69,9 +83,12 @@ def load_pricing(model: str, price_in, price_out) -> dict:
     if price_out is not None:
         entry["output"] = price_out
     if "input" not in entry or "output" not in entry:
+        if max_output_tokens:
+            return None  # token-guarded; cost reporting disabled
         raise SystemExit(
-            f"No pricing for '{model}'. Add it to {PRICING_TOML} or pass "
-            f"--price-in/--price-out (USD per 1M tokens). Refusing to run uncapped."
+            f"No pricing for '{model}'. Add it to {PRICING_TOML}, pass "
+            f"--price-in/--price-out (USD per 1M tokens), or pass "
+            f"--max-output-tokens N to cap by tokens instead. Refusing to run uncapped."
         )
     return {"input": float(entry["input"]), "output": float(entry["output"])}
 
@@ -96,23 +113,34 @@ def resolve_scenes(scope: str):
     raise SystemExit(f"unknown scope/slug: {scope} (use 'fall', a slug, or 'a..b')")
 
 
-def make_agent_fn(*, system_prompt, pricing, effort, budget_usd, timeout):
+def make_agent_fn(*, system_prompt, pricing, effort, budget_usd, timeout,
+                  max_output_tokens=None):
     """Returns agent_fn(prompt, model, label) -> {output, id, usage} calling the
-    Responses API with a budget-derived hard max_output_tokens cap."""
+    Responses API with a hard max_output_tokens cap.
+
+    The cap is the tighter of the dollar-derived bound and an explicit
+    --max-output-tokens. With no pricing (subscription arm) the explicit cap is
+    the only guard, and load_pricing() has already refused if neither exists.
+    """
     from openai import OpenAI
 
     # max_retries=0: the SDK retries transient errors (incl. timeouts) up to 2x by
     # default, which would both blow the --timeout budget and silently re-issue
     # expensive calls behind our own --max-attempts guard. We own retry policy.
     client = OpenAI(timeout=timeout, max_retries=0)
-    in_per_tok = pricing["input"] / 1_000_000
-    out_per_tok = pricing["output"] / 1_000_000
+    in_per_tok = pricing["input"] / 1_000_000 if pricing else None
+    out_per_tok = pricing["output"] / 1_000_000 if pricing else None
 
     def agent_fn(*, prompt, model, label):
         # Reserve budget for input (bounded by prompt size); the rest caps output+reasoning.
-        est_input_tokens = (len(system_prompt) + len(prompt)) / 4  # ~4 chars/token
-        out_budget = max(budget_usd - est_input_tokens * in_per_tok, budget_usd * 0.5)
-        max_out = max(int(out_budget / out_per_tok), 512)
+        if pricing:
+            est_input_tokens = (len(system_prompt) + len(prompt)) / 4  # ~4 chars/token
+            out_budget = max(budget_usd - est_input_tokens * in_per_tok, budget_usd * 0.5)
+            max_out = max(int(out_budget / out_per_tok), 512)
+            if max_output_tokens:
+                max_out = min(max_out, max_output_tokens)
+        else:
+            max_out = max_output_tokens
 
         kwargs = dict(
             model=model,
@@ -133,7 +161,7 @@ def make_agent_fn(*, system_prompt, pricing, effort, budget_usd, timeout):
         out_tok = getattr(u, "output_tokens", 0) or 0
         details = getattr(u, "output_tokens_details", None)
         reasoning_tok = (getattr(details, "reasoning_tokens", 0) or 0) if details else 0
-        cost = in_tok * in_per_tok + out_tok * out_per_tok
+        cost = (in_tok * in_per_tok + out_tok * out_per_tok) if pricing else None
         usage = {
             "input": in_tok,
             "output": out_tok,
@@ -171,6 +199,10 @@ def main():
     ap.add_argument("--fresh", action="store_true", help="regenerate existing reviews (default: resume/skip)")
     ap.add_argument("--price-in", type=float, default=None, help="override input price (USD/1M tokens)")
     ap.add_argument("--price-out", type=float, default=None, help="override output price (USD/1M tokens)")
+    ap.add_argument("--max-output-tokens", type=int, default=None,
+                    help="hard per-call output+reasoning token cap. Combined with --budget-usd "
+                         "the tighter of the two binds. Required when the model has no price "
+                         "(e.g. a subscription-backed arm), where it is the only spend guard.")
     ap.add_argument(
         "--allow-volume-one-rewrite",
         action="store_true",
@@ -186,7 +218,7 @@ def main():
 
     model_id = args.model_id or args.model
     system_prompt = load_system_prompt()
-    pricing = load_pricing(args.model, args.price_in, args.price_out)
+    pricing = load_pricing(args.model, args.price_in, args.price_out, args.max_output_tokens)
     scenes = resolve_scenes(args.scope)
 
     if args.fresh and not args.allow_volume_one_rewrite:
@@ -204,14 +236,16 @@ def main():
         pricing=pricing,
         effort=args.effort,
         budget_usd=args.budget_usd,
+        max_output_tokens=args.max_output_tokens,
         timeout=args.timeout,
     )
 
     print(
         f"[cold_read_openai] model={args.model} id={model_id} scenes={len(scenes)} "
         f"effort={args.effort} budget=${args.budget_usd:.2f}/scene "
-        f"price in=${pricing['input']}/1M out=${pricing['output']}/1M "
-        f"resume={not args.fresh} max_attempts={args.max_attempts}",
+        + (f"price in=${pricing['input']}/1M out=${pricing['output']}/1M "
+           if pricing else f"UNPRICED (token-guarded, cap={args.max_output_tokens}) ")
+        + f"resume={not args.fresh} max_attempts={args.max_attempts}",
         flush=True,
     )
     run_batch(

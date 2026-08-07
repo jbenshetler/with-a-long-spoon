@@ -607,7 +607,8 @@ def run_batch(
         "completed": len(log),
         "generated": len(gen),
         "skipped": sum(1 for r in log if r.get("status") == "skipped-existing"),
-        "total_cost": sum((r.get("usage") or {}).get("cost", 0) for r in gen),
+        # `or 0`: cost is None on a token-guarded (unpriced) run — sum(None) raises.
+        "total_cost": sum(((r.get("usage") or {}).get("cost") or 0) for r in gen),
         "total_input": sum((r.get("usage") or {}).get("input", 0) for r in gen),
         "total_output": sum((r.get("usage") or {}).get("output", 0) for r in gen),
         "total_tokens": sum((r.get("usage") or {}).get("totalTokens", 0) for r in gen),
