@@ -4,25 +4,25 @@
   "completed": 1,
   "generated": 1,
   "skipped": 0,
-  "total_cost": 0.356275,
-  "total_input": 16565,
-  "total_output": 9115,
-  "total_tokens": 25680,
+  "total_cost": 0.39469000000000004,
+  "total_input": 13058,
+  "total_output": 10980,
+  "total_tokens": 24038,
   "per_chapter": [
     {
-      "slug": "a-round",
-      "title": "A Round",
+      "slug": "turned-up",
+      "title": "Turned Up",
       "status": "generated",
-      "cost": 0.356275,
-      "input": 16565,
-      "output": 9115,
-      "totalTokens": 25680,
-      "promptTokens": 16565,
-      "reasoningTokens": 101,
+      "cost": 0.39469000000000004,
+      "input": 13058,
+      "output": 10980,
+      "totalTokens": 24038,
+      "promptTokens": 13058,
+      "reasoningTokens": 155,
       "cacheRead": 0,
-      "duration_s": 156.6,
-      "wall_s": 156.6,
-      "path": "reviews/cold-read/gpt-5.6-sol/a-round.md"
+      "duration_s": 141.8,
+      "wall_s": 141.8,
+      "path": "reviews/cold-read/gpt-5.6-sol/turned-up.md"
     }
   ]
 }

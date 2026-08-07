@@ -4,112 +4,140 @@
 
 ## Reader reaction
 
-# Felt read
+**The felt read**
 
-So I finally got the house. Twelve chapters of waiting and here it is, and the thing that undid me isn't the bench (still unseen, behind that one shut door) — it's the towels. "A bathroom, plain, clean, two towels on the rod." I read right past it the first time, same as Vee did, and then the *title* is sitting up on the top of the chapter like a raised eyebrow and it hauled me back. Two towels. One man, alone, twenty minutes past where the pavement quits. Two towels on the rod. I know who the other one is and Vee doesn't, and the chapter even hands me the image for my own complicity — "the way you walk past a wrapped box on the counter without asking who it's for." That line is doing double duty and it's cruel. The house is *too warm*, "a close, even heat with no draft in it," and she almost says *did you leave the heat on* and doesn't. A house kept warm for someone. The two towels and the heat left on are the same fact told twice — which is, God help me, exactly the thing he explains about error-correcting codes three rooms later. Say it more than once so the noise can't kill it.
+The title did it to me before the chapter did. **Two Towels.** I read that phrase, filed it, and then twenty lines in there it was, dropped in the flattest possible clause — "a bathroom, plain, clean, two towels on the rod" — and my stomach went cold while Vee walked right past it. That's the cruelest thing this book has done to me yet, and it's done a lot. He lives alone at the end of a long drive. One man. One towel. The chapter never says a word about it, never lets her notice, and the *title* is standing there holding the sign up over her head. I actually stopped reading and went back to check I hadn't invented it. I hadn't.
 
-That's the chapter that's working on me most: the ambient dread laid *under* the most swooning material yet. Because on the surface this is a love scene and it's devastating. The dress. He took the throwaway thing she confessed on the summit — the russet silk she'd already hung back up beside her good-enough black dress and stopped thinking about — and he *found the cloth and cleared the weeks*. And then the turn that got me in the chest same as it got her: it's not the magazine red. It's burgundy, wine, purple under it, and her heart drops — *oh, it's not the right—* — and then he holds it to her face like a paint chip and she catches the two of them in the mirror and understands "he hadn't matched the dress she'd described. He'd matched *her.*" That's a beautiful, genuinely swoony beat. And I hate how good it is, because I don't trust the hands it's coming out of.
+And once I had that, the too-warm house stopped being charming. "A close, even heat with no draft in it, and she almost said something, *did you leave the heat on,* the kind of thing you say, and didn't." A man who heats an empty house to that temperature on an afternoon is a man who has decided a woman is going to be undressed in it. She "filed it under the small mysteries of him and let it go, the way you walk past a wrapped box on the counter without asking who it's for." That simile is doing so much work — she's the one being wrapped. And the one closed door in the house is the bedroom, and he says *my bedroom* with no weight on it and leaves it shut, and she'd worn the satin out there on purpose, and "something in her dropped." He knows. He has to know. He's had the whole afternoon architected since he bought the cloth.
 
-The kiss at the door — she reaches, and *he's* the one who stops it. "No boy she'd ever been with had once been the one to stop. That had always been her job, never theirs." He keeps taking nothing. On the hike he gave her the flannel and took nothing; here she's wearing satin she chose that morning "hoping the man won't hand her a reason not to show it to him," she *leans* at the shut bedroom door waiting for his hand to go to the handle, and it doesn't. "Something in her dropped, small and private." I feel that drop with her — and I also feel the machine in it. Every withholding tightens her want. The jacket told me the yes is the trap and I keep watching him arrange things so that she's the one saying yes, reaching, leaning. He never asks for the door. He makes her want to ask.
+But here's what's wrecking me: I *also* believed the house. The shoe closet — hiking, work, running, ropers, "one right pair for each thing and no more" — is the best short character sketch in the book so far. The fantasy paperbacks down low with the cracked white spines and Vee's unbidden vision of some middle-schooler flat on his elbows on the floor, "gone clean out of the room." The MRI patent, where he lights up "like a six-year-old who'd just found out everything there was to know about dinosaurs" and the thing he actually cares about is a scared kid out of the tube faster. The error-correcting-codes explanation — "The dogs *are* barking… Say it more than once so the noise can't kill it" — is genuinely the best moment of teaching he's had, and I loved him for it, and I hate that I loved him for it. Because *say it more than once so the noise can't kill it* is exactly what this whole seduction is: the same message, redundantly encoded through two people, so that if one channel drops the meaning still arrives intact. He explained the machine to her. She thought it was math.
 
-And yet — the patent broke me a little the way the shaking hand did. When he lights up "like a six-year-old who'd just found out everything there was to know about dinosaurs" about the MRI, about a scared kid out of the tube in a fraction of the time — "It does other things. That's the part I like." I believed that. There's a boy in this man; she reads him off the cracked-spine fantasy paperbacks down low on the shelf, the flat-on-his-elbows middle-schooler gone out of the room. The house is honestly one of the best character portraits I've gotten — the shoes paired and squared, one right pair per thing; the knives that aren't a set, only the ones a cook keeps reaching for; the tools inside painted outlines of themselves. "One right thing for each thing he did." I like him more here than I have anywhere, which is precisely why I'm scared. The book keeps making me fall on Vee's exact schedule.
+The one crack: "Something crossed him at *parents* — a small closing, there and gone, a door easing shut two rooms away." First real interior door he's had. I want that opened.
 
-The one small closing I clocked: "Something crossed him at *parents* — a small closing, there and gone, a door easing shut two rooms away." First real crack of something ungenerous or wounded in him that isn't about her. I don't know what's back there and I want to.
+Pace has moved for me — not down exactly, but *doubled*. He stopped the kiss. "That had always been her job, never theirs." That's the single most effective seduction beat he's run and it costs him nothing. He withheld the bedroom. He withheld the workshop too — "He didn't take her in. He stood in the doorway and let her look." He is a man who spends this entire chapter *not* opening doors, and then opens the only one he wants opened: the measuring. "To do it right I'd measure you first — down to what you'd wear under it, in good light, so I can see how it'll fall." In *good light*. That is the whole afternoon, and it's phrased as craft, and she says "Yes — of course, yes." Every yes was freely given.
 
-The measuring is where the dread and the sweetness fuse hardest. "To do it right I'd measure you first — down to what you'd wear under it, in good light, so I can see how it'll fall." And then "If you want it," and he leaves the rest open. That's the whole method in one sentence — the thing he wants (her, undressed, in good light, seen) delivered as *her* choice, wrapped in a gift she can't refuse, phrased so the only thing standing between her and the dress is "her own willingness to be looked at." Which is her whole wound. He's engineered a situation where being looked at *is* the yes, and she says it three times — "Yes — of course, yes." Every yes freely given.
+Vee — God. "He'd gone and found the cloth and set aside the weeks and waited for her to come out here, so he could hand her back the thing she'd thrown away, made real." The dress thread from the summit paying off here landed hard even knowing it's a hook; the burgundy-not-brick reversal is beautiful, "he hadn't matched the dress she'd described. He'd matched *her*." And then the shirt — the no-tag shirt she wore into the ground, the answer that was "absurd, and the absurd answer was standing in front of her with his hands in his pockets." That's a great line. My eyes went hot roughly when hers did.
 
-**Erotic charge:** the kiss is charged (a 1, clothed, then broken on purpose), but the real heat is deferred — the satin under her clothes she's dying to show, the shut door, the coming measuring. The chapter is nearly all foreplay-by-withholding, and it works *because* nothing lands. The peak is the mirror moment with the cloth at her face — not sex, but the most intimate beat here.
+Erotic charge: honestly low and that's right. Peak is the doorstep kiss and then his stopping it — that stop is hotter than the kiss. After that it's all deferred, and the deferral is the engine. Nothing went slack; the tour could have been a real-estate listing and instead every room was a piece of him.
 
-**Friction:** almost none. Once or twice the reading-a-man-off-his-shelves runs a touch long ("because you read a person off their shelves she read his") but it earned it. The only line that felt slightly like the author nudging me was "which, she'd think later, they probably were" — a small flash-forward that reminds me there's a narrating Vee looking back, which I don't mind but noticed.
+Friction: very little. Mild — "Sanskrit" is a slightly too-polished joke for a woman who's just been humbled by a page of math. And "the reflex of a woman who'd had the shade fixed for weeks" is the narrator explaining a beat I'd already felt. Small thumb.
 
-**Titles:** "Two Towels" *gave something away* — or rather, it hands the knowing reader the knife and trusts me to feel it while Vee doesn't. It's the sharpest title yet for exactly that reason: innocuous on the rod, lethal on the page. And *With a Long Spoon* — I still read it as "he who sups with the devil needs a long spoon." Somebody at this table is the devil and someone's spoon isn't long enough. After this chapter I honestly can't tell if the too-warm, two-toweled house means Vee's the one supping with a pair of devils, or whether Pace and Randi are the ones who'll get burned. The tagline says the trap is the freely-given yes, and I just watched three of them.
+**Titles.** *Two Towels* is the rare title that gives something away *and is better for it* — it's not a spoiler, it's a loaded gun laid in the reader's lap while the character looks the other way. It recolors the warm house, the shut bedroom, Randi's three-chapter absence. *A Polite Invitation* — the invitation this chapter is the *dress*, offered with an out ("If you want it") that isn't an out at all. *With a Long Spoon* keeps meaning: she is eating with him and has no spoon.
 
-**What I want / dread:** I want the measuring scene — and I dread it, because it's the door to everything. I want to know whose second towel that is and when Vee finds out (guess from here: the collision is Randi, and this house, warm and toweled for two, is where it detonates). I dread Randi walking back in. And I'm now genuinely unsure whether Pace loves her or is the most patient predator I've read — the chapter refuses to tell me, and that refusal is the best thing about it.
+**Next:** the measuring, in good light, down to what she's wearing under it. I want it and I dread it. Guess from here: Randi is in that bedroom, or has been, and the towel is hers. Guess: the dress gets finished and she wears it to the induction with her mother in the room.
 
 ---
 
-**Cast present (in person):** Pace, Vee.
-**Mentioned-only:** Randi (only by my inference from the towels/warmth — not named), the summit conversation, his parents (the closing at "parents"), the girl in the magazine.
-
-**Heat:** 1 — the door kiss opens and goes deep, then *he* stops it; satin under her clothes, a shut bedroom door, a promised measuring "down to what you'd wear under it." All charge, no consummation.
-
-**Romance:** 3 — the dress reveal is a devotion peak: he saved the throwaway wish and matched the silk not to the magazine but to *her*. Her eyes go hot and full.
-
-**Motifs & images:**
-- *Two towels on the rod* — **first sighting**, and the chapter's title; a second person's trace in a solo man's house.
-- *The too-warm house / no draft* — **repeat** (the too-warm house, ch.11-era ledger); now sharpened, heat kept for someone.
-- *The shirt with no tag* — **repeat & resolved**: "You made the shirt." He couldn't find one he liked, so he made it. The absurd answer confirmed.
-- *The russet/brick-red dress she confided and let go* — **repeat** (summit, ch.11); now made real as burgundy silk, matched to her coloring.
-- *"may I" / "if you want it" / leaves the choice open* — **repeat**: "I'd like to make it for you… If you'll let me," "If you want it."
-- *Being looked at / body-as-problem / willingness to be seen* — **repeat**: "the only thing standing between her and it — her own willingness to be looked at."
-- *He's the one who stops / takes nothing* — **repeat** (hike truck): he brakes the kiss; leaves the bedroom door shut.
-- *The closed bedroom door (bench unseen)* — **repeat**: the only shut door in the house; she leans, he doesn't open it.
-- *Made furniture / built-to-lock joints, self-mixed stain & shellac* — **first sighting** of the craft in detail (the bench in ch.1 was his build; now the whole house is).
-- *Reading a person off their shelves/shoes/tools* — **first sighting** as a sustained method.
-- *Signal from noise / say it more than once* (error-correcting codes, MRI) — **first sighting**; rhymes with the doubled tells.
-- *Wrapped box on the counter you don't ask about* — **first sighting**; the image for not-asking.
-
-**Symbolism:**
-- *Two towels + heat left on* = a second inhabitant the house won't name; the reader's knowledge against Vee's blindness.
-- *Error-correcting codes / redundancy* = the truth told more than once so the noise (Vee's willingness not to see) can't kill it — the tells are built to survive.
-- *The dress matched to her, not the magazine* = being truly seen — or being perfectly measured; love and engineering wearing the same face.
-- *The one shut door* = the room with the thing she can't be shown yet; premeditation behind the only locked surface.
-- *The measuring "in good light"* = the gift as the mechanism to get her undressed and seen, her wound converted to a yes.
-
-**Characterization:** Both deepened. Pace lands fullest yet — the house is a whole consistent person (economy, use, the boy in the fantasy shelves, the lit-up patent, the small closing at "parents"), while every generous act still doubles as a lever, and the chapter refuses to adjudicate which. Vee deepens too: her reflex panic ("I can't sew"), her drop at the shut door, the ache of being handed back a thing she threw away. Nobody went thin.
-
-**Pace — within the chapter:** Excellent. The room-by-room tour could have dragged and didn't; each room paid off (closet→kitchen→office→shut door→den→workshop→sun porch→cloth), building to the dress. The house-reading passages are the only slightly indulgent stretch.
-
-**Pace — chapter to chapter:** Building hard. This is the payoff the run has been pointing at since ch.1 (the house, the shirt's no-tag, the russet dress), and it lands three threads at once while planting a new dread (the towels). Momentum up, not sagging.
+**Cast present (in person):** Vee, Pace. Mentioned-only: Vee's parents implied via "are your parents rich?"; the magazine girl. (Randi conspicuously absent a fourth chapter.)
+**Heat:** 1 — one deep kiss he ends; satin worn on purpose and never seen; the measuring only proposed.
+**Romance:** 3 — the silk. A remembered offhand want built into weeks of labor; a genuine turn in the bond.
+**Motifs & images:** *Doors* (repeat: bench, ch.9 long drive, ch.13 "a door and Saturday behind it) — here the diamond of glass darkening, the one shut bedroom door, the workshop doorway he doesn't cross, "a door easing shut two rooms away." *The russet/red dress* (repeat ch.11 summit) — now burgundy silk, matched to her. *Clothing as claim* (repeat: the flannel ch.11–13) — now the tagless shirt revealed as handmade. *Hands/joints/patience* (repeat) — "Patience. Paying attention." *Food as tell* — kettle, KitchenAid, cookbooks worn beyond display. *Two towels* — first sighting. *Un-felt warning* (repeat: Cassie's withheld "Oh, Vee," Meg's "he's different") — here the heat, the towels, the shut door, all passed by.
+**Symbolism:** The locking dowel joint with no screws, "cut to lock, and glued, so it stays" — the relationship, held by fit rather than fastener. Error-correcting codes = redundant encoding of one message through two channels. The house heated for a body. The measuring tape as the instrument of consent.
+**Characterization:** Pace deepened enormously and darkened simultaneously — the patent and the paperbacks are the most human he's been, the thermostat and the closed door the most calculated. Vee deepened; her reading-a-man-off-his-shelves is her sharpest instrument, and it misses the towels. Nobody thin.
+**Pace — within:** Earned its length. The house tour is inventory that reads as portrait. Slight sag only in the office.
+**Pace — chapter to chapter:** Building hard. Three chapters of retelling paid off into arrival; the withheld bedroom keeps the tension unspent for next chapter.
 
 ## Carry-forward state
 
 **Who's who**
-- **Pace** — *man; young math PhD, ~22.* House west of town off route six-fourteen, twenty min past town where pavement ends, up a hidden gravel drive he lets the hill nearly close over. Small older post-war vinyl-sided house; oversized two-car garage he's converted to an immaculate woodshop (tools in painted outlines, self-mixed stain/shellac, a half-finished chair). **Made most of the furniture himself** — pale white oak, built-to-lock joints, no screws. Glassed-in sun porch with a mountain view is the point of the place. Kitchen used and purposeful; shelves read: cracked fantasy paperbacks (a boyhood in them), worn cookbooks, ordered hardbound math. **Licenses a patent** — an MRI signal-processing method (finds the picture in the noise in a fraction of the passes; "does other things," which is the part he likes); it "pays a little" and funds the house. **Made the tagless flannel** ("couldn't find a shirt I liked, so I made one") — the no-tag mystery is now solved. Powerlifter; reads a body like an instrument; privately calculating, self-justifying, drawn to "forbidden doors." Signatures: "There you are," "may I" / "if you want it," "take nothing, leave nothing," asks first and leaves the choice open. Keeps taking nothing — brakes the kiss himself, leaves his bedroom door shut. Secret lover of Randi; he & Randi steer Vee (the jacket's "game"); Vee doesn't know. A "small closing" crossed him at the word *parents*. Just offered to **make Vee the induction dress** in burgundy silk matched to her coloring — proposing to **measure her "down to what you'd wear under it, in good light"** first; she said yes. In person.
-- **Randi / Miranda** — *woman; 21.* Poised, polished; dancer/cheer body; disordered/policed eating; sorority Standards board; cold-citrus scent. Secret lover of Pace. To Vee: pure warmth. **Still absent** — dread lives in her return. (I now strongly suspect the second towel / the kept-warm house is hers, though the chapter never says so.) In person (earlier chapters).
-- **Vee / Vivienne (Thorne)** — *woman; POV.* Tall, lush full-figured hourglass, athletic; warm dark-red hair; snub freckled nose; ex-synchronized swimmer. Strong econ/stats mind (2 yrs econ: calc, linear algebra, mid-stats); honor-society induction in November; wanted the russet dress. Hides her body in cardigans; mother's shame/eating-voice. Broke her no-kiss rule for Pace; undressed for him on the hike; kept his flannel. Bad at gravel roads. Wore satin under her clothes to the house "hoping the man won't hand her a reason not to show it." Said yes to the made dress and the measuring. Does NOT know Pace and Randi are connected; did NOT clock the two towels or the kept heat. In person.
-- **Cassie** — *woman.* Vee's roommate/floormate; ball cap, four-words-flat, boxy; immune to Randi's warmth; clean, agenda-free witness; being edged out of Vee's life. In person (earlier).
-- **Kayla, Meg** — Vee's floormates (fun crowd); Meg lent hiking boots, warned "everybody's different at the start"; Kayla read the house invite as "he wants you for the afternoon." In person (earlier).
-- **Brooke** — sorority chapter president; warm-and-empty. Mentioned-only lately. **Silent older woman** — unnamed; appraised Vee. **Vee's mother/father** — mentioned-only; mother's shame-voice. **Pace's parents** — mentioned-only; a nerve (the "small closing" at *parents*).
+- **Pace** — *man; seen in person (ch.1, POV ch.3, ch.5, ch.6, ch.8, ch.11, ch.14), offstage ch.7, ch.9, ch.10, ch.12, ch.13.* Young math PhD, nearly finished; lives alone off six-fourteen past the gravel, up a hidden driveway on a hilltop. Old white pickup (called gray earlier — **note the discrepancy**), bench seat, showers at the gym. Attentive, fault-taking, removes Vee's shame without making her small; sits utterly still and takes only what's given. **Ch.11: runs the hike — fixes her boot (moleskin, "I'm sorry, I didn't think to ask about the boots"), teaches "we take nothing and leave nothing," witnesses the russet-dress want and leaves it standing ("That sounds like a beautiful dress"), gives Vee his only dry flannel and stands out in the rain back-turned; receives her truck striptease motionless; his hand found *shaking*. Ch.13 (offstage, per Vee): powerlifter, lifts every morning, writes six hours and stops; texts nine words, no information. Ch.14: hosts Vee at the house. Made most of the furniture (white oak, dowel joints, own stain and shellac), made his own clothes including the tagless shirt he gave her, cooks (worn cookbooks, KitchenAid), licenses an MRI-denoising patent ("It pays a little"), lights up like a six-year-old about dinosaurs explaining it; explains error-correcting codes ("Say it more than once so the noise can't kill it"). Closes over at the word *parents* — "No." Ends the doorstep kiss himself. Leaves the bedroom door shut without comment. Offers to make Vee a burgundy silk gown for the induction, measuring her "down to what you'd wear under it, in good light."*
+- **Randi / Miranda** — *woman; seen/POV ch.2, present ch.3–6, ch.10; absent ch.7–9, ch.11–14.* 21, poised, disordered eating (bruise-colored beet/egg-white/wheatgrass "usual"). Co-architect of the game while believing it's hers. Runs Pace's exact technique (draw out shame, receive tenderly, hand back as gift, go no further) — ch.10 smoothie debrief, "dear friend" public hand-hold, cold-citrus hug, "Love you, girl." **Four chapters absent and counting.**
+- **Vee / Vivienne (Thorne)** — *woman; POV ch.4–8, ch.10–14; present ch.9; unknowing.* Tall, lush, warm dark-red/copper hair, freckles. Sharp econ major (through calculus and linear algebra, mid-statistics). Over-gives; raised in shame about appetite. Being inducted into an honor society (weeks off; mother coming, father not). Ch.11: hike, summit, russet dress set back on the shelf, truck striptease, warms his shaking hand on her belly. Ch.12: retells to Cassie. Ch.13: retells to Kayla and Meg, omitting the striptease. **Ch.14: drives out to his house Saturday, wearing satin underneath on purpose; initiates the kiss on the stoop; asks for the full tour; reads him off his shoes and shelves; is humbled by his math pages ("I didn't realize you knew Sanskrit"); asks if his parents are rich; is stopped cold by the burgundy silk and the realization he made the shirt; says "Yes — of course, yes" to being measured.**
+- **Cassie** — *woman; seen ch.4–10, ch.12; mentioned ch.11; absent ch.13–14.* Vee's roommate; athlete, lab, clear-eyed, never pries; screamed over the induction letter. Being edged out. Ch.12: "No windowless van," "I had your blood type"; withholds an "Oh, Vee"; "Borrow real boots next time" / "Keep the shirt." Brown shag hair, sweats.
+- **Kayla** — *woman; seen ch.13.* Round-faced blonde, moving curls, "bright unbroken stream." "That's not a message, that's a ransom note." Called it: "There's no meal at two… Bring a change of clothes." Coming to do Vee's hair Saturday.
+- **Meg** — *woman; mentioned ch.9, ch.11; seen ch.13.* Dark-haired, calm, level. Lent the too-big boots. Boyfriend Danny. Said "Everybody's different at the start… Sometimes they even are." Vee let it go by.
+- **Theo** — *man; seen ch.13, no dialogue.* Asked Vee out in September; refused kindly; took it like a gentleman.
+- **Danny** — *man; mentioned-only ch.13.* Meg's boyfriend.
+- **Brooke** — *woman; seen ch.2, ch.10.* Sorority chapter president; warm-but-appraising.
+- **The silent taller woman** — *woman; seen ch.10, unnamed.* Assessor at the smoothie shop. Possibly Sloane/Kinsey.
+- **Christine** — *woman; seen ch.8; mentioned ch.9.* Runs the Levantine restaurant; knows Pace.
+- **Sloane / Kinsey** — *women; seen ch.2.* Sorority sisters.
+- **Randi's mother** — *woman; mentioned-only.* Policed food.
+- **Vee's mother** — *woman; mentioned-only.* Shame-voice ("floozy," "what kind of girl"); coming to the induction dinner.
+- **Vee's father** — *man; mentioned-only (ch.11).* Not coming, work.
+- **Pace's parents** — *mentioned-only ch.14, ungendered plural.* Not rich; the word closes something in him.
+- **The stats professor** — *man; seen ch.4, ch.10, unnamed.*
+- **Vee's grandfather** — *man; mentioned-only ch.6.*
+- **The bleacher boys** — *men; ch.7, unnamed.*
+- **Randi's disaster date** — *man; mentioned-only ch.10.*
+- **The campus cop** — *unseen/ungendered; ch.11, retold ch.13.*
 
 **Motif & image ledger**
-- *"There you are" / "may I" / "if you want it" / asks first, leaves the choice open / "take nothing, leave nothing"* — Pace's register; here: "If you'll let me," "If you want it," brakes the kiss, leaves the bedroom door shut.
-- *Two towels on the rod* — Two Towels ch. (first); a second inhabitant's trace, unnamed.
-- *The too-warm house / no draft / kept heat* — the house ch.11-era; Two Towels (heat left on, she doesn't ask).
-- *Wrapped box you don't ask who it's for* — Two Towels (first); the not-asking.
-- *The tagless flannel → he made the shirt* — the kept shirt (ch.11); no-tag mystery **resolved** in Two Towels.
-- *The russet/brick-red dress confided and let go* — summit (ch.11); **made real** as burgundy silk in Two Towels, matched to her not the magazine.
-- *Being looked at / body-as-problem / choosing to be seen* — Randi's currency, Vee's concealment; pool & truck; Two Towels: the measuring, "her own willingness to be looked at."
-- *Feeding / hunger made first, then met* — froyo, hand-fed dinner, rye+horseradish; (summit cherries).
-- *Rules Vee breaks herself* — wait-a-day, no-kiss, undressing; here she reaches for the kiss.
-- *The house off six-fourteen / the bench / the one closed door* — Two Towels: the only shut door is the bedroom, left shut; bench still unseen by Vee.
-- *Signal from noise / redundancy / "say it more than once so the noise can't kill it"* — error-correcting codes & MRI patent, Two Towels (first); rhymes with the doubled tells.
-- *Made things / built-to-lock joints / one right thing per task / read-a-man-off-his-shelves-shoes-tools* — Two Towels (first, sustained).
-- *Cassie as clean witness / agenda-free love.*
+- *Doors / bell / holding open / the unseen house* — Bench; ch.4–6; ch.8; ch.10; ch.11 (truck door; house unseen); ch.9 (long drive off six-fourteen); ch.13 ("now there was a door, and Saturday behind it"); **ch.14: the diamond of glass darkening before she knocks; the one shut door in the house is his bedroom, left shut; the workshop doorway he doesn't cross; "a door easing shut two rooms away" at the word *parents*; the coat closet standing open.**
+- *"There you are" / recognition / "may I"* — Bench; ch.4–5; ch.8; ch.10; ch.11 ("I'll set a pace, tell me if it's wrong"); **ch.14 ("If you want it").**
+- *"Yes" / bare freely-given yes* — Bench; ch.4–6; ch.8–10; ch.11; ch.13; **ch.14: "Yes. Yes — of course, yes," to being measured.**
+- *Food/drink as tell; hunger made first, then fed* — ch.5–6,8,9,10; ch.11 (horseradish sandwich, cherries); ch.12 (rye); ch.13 (stolen fries, "There's no meal at two"); **ch.14: kettle, good knives, heavy pans, worn KitchenAid, cookbooks worn past display — and no food served.**
+- *Rationed self-deviation / self-monitoring* — ch.5,7,8,10,11; ch.12 (none with Cassie); ch.13 (truck edited out).
+- *No hurry / patience / goes no further* — ch.1,5–6,8–10,11; ch.12; ch.13; **ch.14: he ends the kiss; "Patience. Paying attention."**
+- *Hands / initiated touch / the shaking hand* — ch.5–10; ch.11 (his hand shaking, warmed on her belly); ch.12 ("His hands, though."); **ch.14: her fingers on the dowel joint; his hand into her hair, then out of it.**
+- *Spoons / sweetness / long spoon* — Chi Latte; ch.5,8,9.
+- *Water / cold / weightlessness / deep water* — ch.7,8,10,11,13.
+- *Cold citrus (Randi's scent)* — ch.4,10; absent ch.11–14.
+- *Hot-to-hold vessels / heat through a cage* — ch.8,9; **ch.14: the house itself, heated too warm with no draft.**
+- *Cold window / cold she doesn't feel* — ch.9; ch.12.
+- *Real / borrowed shoes* — ch.9; ch.11 (Meg's oversize boots); ch.12 ("Borrow real boots next time"); **ch.14: his closet floor, one right pair for each thing.**
+- *Set up on a shelf / exposed / feet not reaching* — ch.7,10,11.
+- *"Dear friend" / being picked out loud* — ch.10.
+- *Manufactured cost / visible sacrifice* — ch.10; ch.11 (dry shirt, rain); ch.12; ch.13; **ch.14: weeks of labor pledged for a dress she mentioned once.**
+- *Underdressed / apology-clothing / what to wear* — ch.10; ch.11 (russet dress); ch.13 (title); **ch.14: satin worn underneath on purpose, unseen.**
+- *The flannel / clothing as kept claim* — ch.11; ch.12 ("Keep the shirt."); ch.13 ("I kept it."); **ch.14: the tagless good shirt revealed to be handmade by him — he has been dressing her all along.**
+- *The red dress (wanted, set back, witnessed, left standing)* — ch.11; **ch.14: returns as burgundy silk, matched to her coloring, not to the magazine.**
+- *Leave no trace / wax paper / pocketed refuse* — ch.11 (title); ch.12.
+- *Withheld or unheeded speech / the unsaid* — ch.12 (Cassie's swallowed "Oh, Vee"); ch.13 (Meg's warning let go by); **ch.14: the unasked "did you leave the heat on"; the two towels, unremarked.**
+- *Golden light failing* — ch.13; **ch.14: the sun porch, "the afternoon poured through all that glass, flat and bright and everywhere at once"; the dark sconce bulb "waiting for night."**
+- *Two towels* — **first sighting ch.14 (chapter title), on the bathroom rod in a house where one man lives alone. Never noticed by Vee.**
+- *Making / joinery / built things* — **first sighting ch.14: dowel joints with no screws, "cut to lock, and glued, so it stays"; the half-finished chair still short its back.**
 
 **Symbolism noticed**
-- Bench = premeditated desire masked as innocent furniture (still behind the shut door for Vee).
-- Engineered agency = the freely-given yes as trap; the dress-measuring converts her wound (being seen) into a yes.
-- The flannel / made shirt = his warmth around her at his own cost; love and/or the perfect trap.
-- "Take nothing, leave nothing" = fingerprint-less manipulation; kept shirt/made clothes the traceable exception.
-- Two towels + kept heat = an unnamed second inhabitant; the reader knows, Vee doesn't.
-- Error-correcting codes = truth told twice so the noise can't kill it; the tells built to survive.
-- The dress matched to *her* = truly seen vs. perfectly measured — love and engineering in one gesture.
-- Cassie = the clean well.
+- Bench = premeditated desire as innocent furniture.
+- Forbidden-wanting-as-door = the trap.
+- Staged collision/apology = victim self-blames toward hunter.
+- Recognition/permission register = handed-down hunter phrasing; surrender feels like relief.
+- Euler substitution / returned pencil = Vee substituted into the couple; false agency.
+- Water/underwater = un-taken interior; deep-water = a wariness that lingers.
+- The meal = interior reached and filled.
+- Book title = "sup with the devil, use a long spoon."
+- Freely-given yes as triumph = tagline delivered by the victim.
+- Un-felt cold = happiness insulating Vee from danger.
+- "Dear"/manufactured cost = affection priced and paid in public/visible sacrifice.
+- Summit's indifference (ch.11) = the one thing bigger than the game.
+- "Leave no trace" = the hunter leaves no fingerprints on the yes; the only trace lands on her (the flannel), and she keeps it.
+- The red dress = witnessed, un-taken appetite — now being *made*, which is appetite granted on his terms.
+- Pace's shiver (ch.11) = possible crack in his control.
+- Cassie's withheld "Oh, Vee" / Meg's unheeded "he's different" = the warning the book keeps almost letting someone deliver.
+- The nine-word invitation (ch.13) = the polite invitation of the title.
+- **Two towels = the evidence of the other woman, sitting in plain sight, titled and unnoticed.**
+- **The overheated house = prepared for a body to be undressed in it.**
+- **The dowel joint, no screws, "cut to lock… so it stays" = a bond held by fit, not fastening; unremovable without breaking the wood.**
+- **Error-correcting codes = the same message sent redundantly through two channels so noise can't kill it — he explains his own seduction to her as mathematics.**
+- **The measuring tape = consent as craft; the instrument that undresses her with her enthusiastic permission.**
+- **The half-finished chair still short its back = something built and not yet done.**
 
 **Open questions**
-- Whose is the second towel / who is the house kept warm for? (My strong guess: Randi.)
-- Is Randi's warmth real, performed, or both — is the trapper being trapped?
-- Is Pace's feeling (shaking hand, lit-up patent, the dress) genuine or the deepest engineering? Jacket says both founders fall.
-- What's the "small closing" at *parents* — what's behind him?
-- Does Vee ever learn there was a game? When do her two worlds touch?
-- **What happens at the measuring — and does she finally see the bench / behind the shut door?**
-- Will she return the flannel?
-- ~~What is Saturday at two / does she see the house?~~ **Answered:** she saw the house (not the bench); Saturday was the dress reveal.
-- ~~Why no tag in the shirt?~~ **Answered:** he made it.
+- **Whose is the second towel?** (New, and now the loudest.)
+- Is Randi's warmth genuine or instrument? (Ch.10 tilted hard to instrument.)
+- Did "dear friend" cost Randi anything?
+- Is Cassie being deliberately edged out, and does she know?
+- What was Pace's shiver — involuntary investment, or the most patient con?
+- What is behind the shut bedroom door, and when does it open?
+- Why did the word *parents* close him?
+- What happens at the induction dinner (mother coming, the dress now in play)?
+- Who is the silent taller woman?
+- What was the "Thursday" Vee wasn't part of? (minor)
+- Do the founders crack / does the "cost" become a fault line?
+- How/when does Vee learn there was a game?
+- Is Pace rich? — **partly answered ch.14: not parents' money; an MRI patent that "pays a little," plus a house he built out himself.**
+- Truck color discrepancy: earlier "gray pickup," ch.11/13 "old white pickup."
+- What was Vee grieving underwater (ch.7)?
+- Buried history behind Randi's flinch-at-praise?
+- What exactly did Cassie almost say, and does she ever say it?
+- Does Vee tell Randi this story, and how does it differ? — Randi now absent four chapters.
+- Why did Vee omit the truck striptease from the ch.13 telling?
+- Why did Pace's invitation contain no information, when everything else he does is asking first? — **sharpened ch.14: he withholds a great deal in this house.**
+- **NEW: What happens at the measuring?**
 
 **Story so far**
-Ch.1–2: Pace works Randi on his homemade bench; Brooke interrogates Randi. Ch.3: Pace picks Vee from a crowd; Randi engineers a collision. Ch.4–5: Randi befriends Vee; Pace "helps" Vee's calculus, takes her number. Ch.6: froyo; Randi disarms Vee's wait-rule. Ch.7: Vee & Cassie at the pool. Ch.8: dinner; hand-fed; Vee kisses Pace (first). Ch.9: Vee debriefs Cassie; hike set. Ch.10: Vee excludes Cassie, gives Randi the whole story; "picked." Ch.11: the hike — blister fixed, fed, summit + russet-dress confession, rainstorm, truck striptease (she initiated, he took nothing), driven home, keeps flannel. Ch.12: Vee retells hike to Cassie. Ch.13: dining hall with Kayla/Meg; Pace texts the house invite; she says yes. **Ch.14 (Two Towels):** Vee drives out to the house (misses the drive, comes back). Kisses him at the door; he stops it. He gives a full tour — closet, kitchen, office (math she can't read), the one shut bedroom door (she leans, hoping; he leaves it shut), the den of hand-made oak furniture, the wall of books, his MRI patent (funds the house). Notices two towels, the too-warm house — files both away without asking. Workshop tour. On the glassed sun porch: a bolt of **burgundy silk**. He made the tagless shirt; he offers to **make her the induction dress**, matched to her coloring, proposing to measure her "down to what you'd wear under it, in good light." She says yes, three times.
+Ch.1–10: Pace & Randi (lovers; she a poised sorority woman, he a young mathematician off six-fourteen) decide, mid-encounter, to make Vee — a shame-raised, over-giving econ major Randi picked across the quad — the third in their bed, telling her nothing. Randi befriends and seduces Vee socially (stats, Chi Latte, froyo, the ch.10 smoothie-shop "dear friend" claim); Pace seduces her by withholding-then-giving (tutoring, the Levantine dinner where he ordered for her and didn't push the first kiss, which she initiated). Cassie sees the asymmetry and is being edged out. Both use the same technique: draw out Vee's shame, receive it tenderly, hand it back as a gift, go no further. Ch.11 (Leave No Trace): the hike — blister fixed, "we take nothing and leave nothing," the summit cherries, the witnessed want for an unaffordable russet dress, the rain, his only dry flannel, the truck striptease he receives motionless, his shaking hand warmed on her belly, a campus cop ending the night. Ch.12 (Rye): Vee retells it to Cassie; "Keep the shirt." Ch.13 (What to Wear): dining hall at golden hour; Vee retells it polished to Kayla and Meg, omitting the striptease; Meg's mild warning slides off; Pace texts "would you come to my house Saturday. Two o'clock." Kayla calls it. **Ch.14 (Two Towels): Saturday. Vee drives out past the hidden driveway, comes back for it, arrives at a small post-war vinyl-sided house on a hilltop with an outsized two-car garage. She kisses him at the door; he ends the kiss — the first man who ever has — and invites her in. The house is unaccountably too warm and she doesn't ask. He gives her the full tour: the shoe closet, the working kitchen, the bathroom with two towels on the rod, the chaotic office with a serious workstation and pages of math she can't read, the shut bedroom door he does not open, the den full of white-oak furniture he built himself with locking dowel joints and homemade stain, the wall of books (fantasy paperbacks, cookbooks, math), and — through the kitchen and down two steps — the immaculate former garage that is his woodshop, which he lets her look at from the doorway. He explains error-correcting codes and his MRI patent (faster imaging, kids out of the tube sooner). He closes over at the word *parents*. Last is a glassed-in sun porch facing the mountains, where a bolt of burgundy silk lies on the table: he has bought cloth to make her the gown she mentioned once at the summit and gave up on, matched not to the magazine but to her coloring. She realizes the tagless shirt he gave her was made by him. He offers to measure her — "down to what you'd wear under it, in good light" — and make the dress before the induction. She says yes.**
 
 **How I feel**
-Vee: deepest ache yet, and now handed the most seductive gift in the book — being truly seen — right where her wound is; funny, magnetic, defenseless. Pace: I like him more than ever here (the boy in the shelves, the lit-up patent, the made dress) and distrust him more than ever *because* of it — the chapter fuses devotion and engineering and refuses to say which. The two towels and the kept heat put a cold hand on the back of my neck through the whole warm scene. Randi: dread + stubborn half-believed warmth, sharpened by her absence and now by the sense that this house is hers too. Cassie: total trust, being edged out. Mood: golden, tender, and the tenderer it gets the more I brace for the collision — which I now think detonates in this warm, two-toweled house.
+Split in half, which I think is the point. Pace has never been more admirable or more legible as a builder of traps, and this chapter made both true at once — the patent and the paperbacks are genuinely moving, the thermostat and the closed door are choreography. Vee's joy over the silk got me in the throat and I dreaded it the whole time. And the two towels sit in the middle of the chapter like a fuse. Randi's four-chapter absence is now a held breath with a name I expect any minute. Cassie remains the person I most want to protect. I want the measuring scene and I'm afraid of it.
