@@ -82,3 +82,10 @@ Revise Pace's interiority only so cold readers understand him as caring, hopeful
 - Retained tagged wording outside this hunk: `The closeness made him want to know more of her, and he asked it into the warm disorder of her.`
 - Scores: gpt-5.6-terra Heat 3/3, Romance 2/3; gpt-5.6-sol Heat 3/3, Romance 2/3; gpt-5.5 Heat 3/3, Romance 2/3.
 - Result: romance floor holds; tagged scene restored before the next trial.
+
+### Main-hunk trial 5
+- Hunk: `@@ -25 +25 @@ It was not fair to ask it now, and he knew it was not fair. He asked it anyway,`
+- Reverted only this hunk to `main`: `The question reached her body before it reached her, and it took her all at once — she came, hard, her sex clenching around him, her legs drawing him in, her arms coming up to lock him against her, far too fast for anything his body was doing to account for it. He kept moving and let her have it. On her face was astonishment, and under it the helplessness, and under that what the question had been for. She had wanted it, and her body had said so before she could make the wanting mean anything safer.`
+- Retained tagged wording outside this hunk: `The question reached her body before it reached her, and it took her all at once — she came, hard, her sex clenching around him, her legs drawing him in, her arms coming up to lock him against her, far too fast for anything his body was doing to account for it. He kept moving and let her have it. On her face was astonishment, and beneath it something he read, too eagerly, as wanting. Her body had answered before she could make sense of it, or so he believed.`
+- Scores: gpt-5.6-terra Heat 3/3, Romance 2/3; gpt-5.6-sol Heat 3/3, Romance 2/3; gpt-5.5 Heat 3/3, Romance 2/3.
+- Result: romance floor holds; tagged scene restored before the next trial.
