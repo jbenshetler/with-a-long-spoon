@@ -139,3 +139,10 @@ Revise Pace's interiority only so cold readers understand him as caring, hopeful
 - Retained tagged wording outside this hunk: `The closeness made him want to know more of her, and he asked it into the warm disorder of her.`
 - Scores: gpt-5.6-terra Heat 3/3, Romance 2/3; gpt-5.6-sol Heat 3/3, Romance 2/3; gpt-5.5 Heat 3/3, Romance 2/3.
 - Result: all-model floor holds; tagged scene restored before the next trial.
+
+### Matrix C hunk trial 3
+- Hunk: `@@ -27 +27 @@ The question reached her body before it reached her, and it took her all at once`
+- Reverted only this hunk to `main`: `So. There it was.`
+- Retained tagged wording outside this hunk: `To him, there it was.`
+- Scores: gpt-5.6-terra Heat 3/3, Romance 2/3; gpt-5.6-sol Heat 3/3, Romance 2/3; gpt-5.5 Heat 3/3, Romance 2/3.
+- Result: all-model floor holds; tagged scene restored before the next trial.
