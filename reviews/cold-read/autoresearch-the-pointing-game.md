@@ -241,3 +241,7 @@ Revise Pace's interiority only so cold readers understand him as caring, hopeful
 - Boundary judge: PASS; all nine changed hunks were Pace interior only.
 - Terra, Sol, and GPT-5.5: Heat 3/3 and Romance 2/3.
 - Sol outcome judge: FAIL on the qualitative Pace target. All three readers still characterized his care as covert steering/control, so Candidate B is required under the author’s fallback rule.
+
+### Candidate D — softened shared-frame test
+- Frame replacement: `The shape she gave it felt right because she had found a way to say yes without making the wanting stand naked between them. A threesome, with him. He would not have to find her a woman for her transgression. She would find a woman for *theirs*. She was plainly excited about this. He was glad of it.`
+- Purpose: soften Pace’s harmful reading of Randi’s hiding structure as the exact frame he needed to proceed, while retaining the jacket-warranted suspicion. He is glad she appears to have found a way to want this within a shared sexy arrangement; he remains wrong about what that arrangement costs her.
