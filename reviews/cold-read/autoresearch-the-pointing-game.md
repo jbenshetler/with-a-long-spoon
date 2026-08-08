@@ -126,3 +126,9 @@ Revise Pace's interiority only so cold readers understand him as caring, hopeful
 ### Boundary repair
 - Restored the boundary judge's forbidden scene framing, Randi/non-Pace narration, and physical-action changes to their `main` wording.
 - Retained only the approved, separable Pace close-third interior revisions (scene lines 21, 27, 29, 33, 37, 59, 93, 117, 119, 121, 149, and 157); at line 9, restored the protected Randi phrase “given over to her body, undefended” while retaining the separable Pace thought.
+### Matrix C hunk trial 1
+- Hunk: `@@ -9 +9 @@ She came the first time with his mouth on her, her hand flat against the top of`
+- Reverted only this hunk to `main`: `He came up over her before she was done, while she was still swollen and still pulsing around nothing, still given over to her body, undefended. He had decided this beforehand. He slid into her then, into all that grip and flutter, before he kissed her.`
+- Retained tagged wording outside this hunk: `He came up over her before she was done, while she was still swollen and still pulsing around nothing, still given over to her body, undefended. The thought came to him with the force of a second climax: what else might she want, if she let herself say it? He slid into her then, into all that grip and flutter, before he kissed her.`
+- Scores: gpt-5.6-terra Heat 3/3, Romance 2/3; gpt-5.6-sol Heat 3/3, Romance 2/3; gpt-5.5 Heat 3/3, Romance 2/3.
+- Result: all-model floor holds; tagged scene restored before the next trial.
