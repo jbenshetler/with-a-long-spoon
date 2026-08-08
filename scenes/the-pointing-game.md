@@ -1,40 +1,40 @@
 # The Pointing Game
 
-*Diptych. Pace POV throughout. Panel one: post-coital, in bed — the appetite surfaces and gets a frame she can live inside. Panel two: continuous afternoon, the walk on campus — the same act in daylight, reconnaissance wearing the costume of a game. One dramatic movement, two settings.*
+*Diptych. Pace POV throughout. Panel one: post-coital, in bed — the appetite surfaces and gets a frame she can live inside. Panel two: continuous afternoon, the walk on campus — the same act in daylight, a game Pace mistakes for a shared discovery. One dramatic movement, two settings.*
 
 ---
 
 She came the first time with his mouth on her, her hand flat against the top of his head, not pushing, just holding, as if to confirm he was there. He stayed with it longer than she needed, reading the slackening in her thighs, her breath going from held to spilled. He knew the difference between a woman performing release and a woman delivered to it. She had been performing, the first week. She was not performing now.
 
-He came up over her before she was done, while she was still swollen and still pulsing around nothing, still given over to her body, undefended. He had decided this beforehand. He slid into her then, into all that grip and flutter, before he kissed her.
+He came up over her before she was done, while she was still swollen and still pulsing around nothing, still given over to her body and to him, and an unbidden, bright wondering stirred in him: what else might she want, if she let herself say it? He slid into her then, into all that grip and flutter, before he kissed her.
 
 He kissed her with his mouth still wet from her, and she took herself off his lips and kissed him back harder for it, ardent before she could think better of it. He felt her whole body rise to it. Then he moved in her, slow, taking her back up.
 
 "You like that," he said. Not a question, but he wanted to hear her say it.
 
-"Mm." Her eyes half open, soft, unguarded, as she only was with him inside her and the first not fully gone.
+"Mm." Her eyes half open, soft, open, as she only was with him inside her and the first not fully gone.
 
 "You like the taste of yourself." He had felt her answer already, in the kiss. He wanted the word too.
 
 "Yes." Warm, and a little caught by it.
 
-It was not fair to ask it now, and he knew it was not fair. He asked it anyway, lightly, into the warm disorder of her.
+The closeness felt to him like an invitation to ask another question, and he asked it lightly into the warm disorder of her.
 
 "Would you like to taste another woman?"
 
-The question reached her body before it reached her, and it took her all at once — she came, hard, her sex clenching around him, her legs drawing him in, her arms coming up to lock him against her, far too fast for anything his body was doing to account for it. He kept moving and let her have it. On her face was astonishment, and under it the helplessness, and under that what the question had been for. She had wanted it, and her body had said so before she could make the wanting mean anything safer.
+The question reached her body before it reached her, and it took her all at once — she came, hard, her sex clenching around him, her legs drawing him in, her arms coming up to lock him against her, far too fast for anything his body was doing to account for it. He kept moving and let her have it. On her face was astonishment, and beneath it something he read, too eagerly, as wanting. Her body had answered before she could make sense of it, or so he believed.
 
-So. There it was.
+To him, there it was.
 
-He had not known, going in. He had wondered whether the idea would land in her as a transgression or as nothing. Many women would have laughed, or shrugged, or said *maybe someday* in the voice that means never. A few would have said a plain yes and meant it, and they were each their own carnal pleasure. But she had wanted it helplessly, ahead of herself, and that was the same as telling him she'd forbidden it. A wanting she allowed herself was only a wanting. A wanting she'd forbidden was a door. And he was, by some old architecture, a man who could not leave a door like that closed once he'd seen it was there.
+He had not known what the idea might stir in her. He saw her surprise and took it for a desire too new and bright to have a name yet; he was too taken with the thought to wonder what else it might be. He felt grateful for the glimpse and hoped the game could make room for it in daylight without turning it into something solemn.
 
-He worked the third one out of her deliberately, slowly, giving her more than she'd asked for. He was closer than he let on. It had gone through him too, that a single question had taken all that control out from under her, and he changed his rhythm to stay off the edge. She had more in her yet, and he meant her to have every joy while the question still hung in the room; his own he would take last, and the waiting would only sharpen it. He drew his head back to see her, touched her face with his fingertips, and kissed her, slow and tender, for no reason but that he wanted to.
+He drew the third one out of her deliberately, slowly. It had gone through him too, the suddenness of her answer, and he changed his rhythm to stay off the edge. She had more in her yet, he thought, and he wanted her to have every joy while the question still hung in the room; his own he would take last, and the waiting would only sharpen it. He drew his head back to see her, touched her face with his fingertips, and kissed her, slow and tender, for no reason but that he wanted to.
 
-Her body wanted this; her mind had not yet caught up to it. If pleasure was also a bridge, then let the wanting simply feel good in her, good enough that the good feeling and the wanting became one fact.
+He wanted the pleasure to be only pleasure for her, with no answer required of it. He let himself believe that whatever she wanted to say later could come in its own time.
 
 Afterward they lay tangled and quiet. She was wrung out and heavy against him, contented, and he was glad of it; he had never needed to fill a silence. For a while they were there, only the two of them, and it was more than enough.
 
-The real question waited for the heat to leave the room, her breath to come down, and the afternoon to go ordinary around them. He wanted her gathered back into herself when he asked, free to weigh it and choose; that mattered to him more than the answer did. Because what he was bringing her was good: the thing she wanted and could not let herself reach for, put in her hands in daylight with her own clear yes on it. She deserved it, and he wanted to be the one who gave it to her.
+The question could wait for the heat to leave the room, her breath to come down, and the afternoon to go ordinary around them. He wanted her gathered back into herself when he asked, free to find the words; that mattered to him more than the answer did. He hoped the game might give her a way to say something true without sitting up and making a grave little confession of it — let it come out laughing, dressed as play, before she had to look it full in the face. She deserved that gentleness, he thought. He wanted it for her.
 
 "Do you actually want to taste another woman?"
 
@@ -46,7 +46,7 @@ Then she came back. He admired it, a little, even as he saw through it: she gath
 
 And he understood what she had done, because it was beautiful. She had not taken back the wanting — she could not, her body had said it twice and she knew he'd heard. She had moved it. She had handed the appetite to him and made herself its generous instrument: not a woman who hungered for another woman, which was unsurvivable, but a girlfriend offering her man a gift, which was merely sexy. The same act. A different owner. She could live inside the second version. She could not live inside the first.
 
-He let her have the frame. He even felt the rightness of it settle in his chest — because the frame she'd built to hide in was the exact frame he needed to proceed. A threesome, with him. He would not have to find her a woman for her transgression. He would find a woman for *theirs*. She could say yes to every step of it and never once have to say the thing she'd already shown him.
+He let her have the frame. It felt right because she had found a way to say yes that did not make the wanting a confession. A threesome, with him. The thing could be theirs, spoken as something sexy instead of secret. He took the warmth in her smile for relief, and was glad of it.
 
 "Okay," he said, easy.
 
@@ -56,7 +56,7 @@ He kissed her forehead and got up and started pulling on his clothes, and she wa
 
 "Yeah?" Already up, already reaching for the bright easy version of herself, the one for daylight. Four weeks in she'd learned he did things — some he named in advance and some he didn't — and she'd learned to be game for the unnamed ones. Hiking. The gardens. The bar with the older couples dancing. She had no reason to hear anything in *a walk on campus* but another of his good ideas.
 
-"Yeah," he said, and held the door for her, and did not tell her what the walk was for.
+"Yeah," he said, and held the door for her. He had no name for the game yet, only a hope it would be something they made together.
 
 ---
 
@@ -64,7 +64,7 @@ It was the kind of afternoon that the valley produced only a handful of times a 
 
 They came up the brick walk from the lower lot with her hand in his. The wind found her hair as it went at everything on the quad — black and fine, drawn back into a sleek tail, a single scrunchie, the one flourish she'd allowed herself, the tail flirting with the wind when she turned her head and giving it nothing when she didn't. She had decided that morning how much of herself the day would get, and it would get exactly that, and not a strand more. The campus laid itself out as it had been built to — the long colonnade of the old academic row, the white pediments and the red brick, the columns throwing their afternoon shadows in even bars across the path, the whole thing composed two centuries ago by men who wanted the eye to travel exactly this way. Students moved through it in the loose Tuesday-afternoon current, alone and in pairs and in clusters, the ones with nowhere to be drifting and the ones with somewhere to be cutting across the grass against the diagonal. Somebody was throwing a frisbee. Somebody had a speaker going, low, two hundred feet off, the bass arriving a half-second behind the rest.
 
-Pace was entirely present to all of it and entirely inside the thing he had decided to do, and the two were not in tension. This was the pleasure — the day arranged itself around them, the light and the wind and the burning maple, and underneath the day the clean line of what he already knew about her, what her body had told him an hour ago in a register her mouth was still busy correcting. She wanted this. She could not yet hold that she wanted it. He could give her a shape to hold it in. The day was good for it. He had not planned the maple but he was glad of the maple.
+Pace was entirely present to all of it and entirely taken with her, and the two were not in tension. This was the pleasure — the light and the wind and the burning maple, her hand in his, and underneath it what he thought he had glimpsed in her an hour ago. He thought she wanted something. He thought she was not ready to say it bare. Maybe the game would let her say it sideways, laughing, without having to turn toward him and confess. He had not planned the maple but he was glad of the maple.
 
 They passed a man alone at one of the quad tables with a tray from the grill — a cheeseburger in waxed paper, a paper boat of fries gone slightly translucent with grease, the smell of it carrying on the wind, beef and salt and hot oil, frank and uncomplicated and good.
 
@@ -82,15 +82,15 @@ Pace leaned in close, his mouth at the shell of her ear, breath warm against it,
 
 Randi went still.
 
-He watched it work through her. For the first beat she was simply confused, and under the confusion something tightened: he was *pointing*, in daylight, at a girl on the path, the bald social wrongness of it, the exposure of being two people who pointed at a stranger and discussed her. He felt the small recoil of that in her hand, the propriety offended. Second beat, the confusion held — what about her *for what* — and he let it hold, let her hang in it, said nothing, did not help.
+He tried to read it as it worked through her. For the first beat he read simply confusion, and something tightening under it: he was *pointing*, in daylight, at a girl on the path, the bald social wrongness of it, the exposure of being two people who pointed at a stranger and discussed her. He felt the small recoil of that in her hand and took it for offended propriety. Second beat, the confusion held — what about her *for what* — and he stayed quiet. The little suspense felt like part of the play to him, the beat before she decided what the question could mean.
 
-Then the third beat, and he felt it arrive in her body before her face changed: the question resolved, the frame snapped into place, and she went hunting up the path after the swinging ponytail. That, and the hand in his — it was enough. He let the camouflage stand. It was the wrapper the wanting needed to come out in, and letting her keep it was the kindness.
+Then the third beat, and he thought he felt something change in the hand that stayed in his as her attention went hunting up the path after the swinging ponytail. That was enough for him. A warmth moved through him. He took it for her finding a way into the game, not by stripping herself bare but by making it something they could look at together — a small, private yes.
 
 "No," Randi said. The propriety was gone out of her voice. Something else had come into it, lower, considering. "Too—" She watched the ponytail reach the shade of the colonnade and turn. "Too expected."
 
 "Mm," he said, neither agreeing nor not, and they kept walking.
 
-He did not rush her. There was a great deal of afternoon, and the rushing would have done the opposite of what he wanted — would have made it a task, a thing being driven at, and the whole art of it was that it stay a game, a thing they were doing together because it was fun, her edge and his attention. So he let a hundred yards go by with nothing in it but the walk and the wind and the back of her hand under his thumb, and only when the path opened toward the athletic center did he tip his chin at the next one.
+There was a great deal of afternoon, and he was content to let the question stay inside the bright looseness of the walk, a game he hoped they could share because it was fun, a little edge and mutual attention. So he let a hundred yards go by with nothing in it but the walk and the wind and the back of her hand under his thumb, and only when the path opened toward the athletic center did he tip his chin at the next one.
 
 Two of them this time, coming out through the glass doors of the rec center with gym bags, mid-laugh at something, both in the matched athleisure that read like a uniform — high-waisted, cropped, one in lavender and one in a sage that was everywhere that year, the same chunky trainers, the same oversized scrunchies, blond hair scraped up off damp necks, faces bare and bright and shining a little with the workout. Sorority, both of them, or close, and both built lean and correct, the bodies Randi's standard would pass without a second look. The one in sage had the harder body, a sprinter's build and a sharp little chin, and moved fast and sure, an athlete's economy in it; the lavender one was rounder in the face, softer, slower, trailing a half-step and laughing up at her friend. Their air was the same air all the same: bright, closed, complete in each other, a sealed unit that the world washed past.
 
@@ -102,9 +102,9 @@ Randi considered the pair the way she might consider a dish she had not ordered.
 
 She laughed before she could decide whether to.
 
-That pleased her. He saw it please her — the corner of her mouth, the half-beat of recalibration as she understood the rules better than she had a sentence ago: the choosing was hers. He was not choosing a woman. He was watching her learn that she could.
+That pleased him. He thought it pleased her too — the corner of her mouth, the half-beat of recalibration as she understood the rules better than she had a sentence ago: the choosing was hers, as he saw it. He loved the feeling that answers were coming free.
 
-Past the athletic center the path ran along the practice fields and then bent toward the library, and somewhere along there he felt the thing in her change. It came up through her hand and through the side of her he was walking against: a low readiness, a faint tension strung through her frame, the particular coil he knew from the dance floor — a follow gathering herself a half-beat before the lead moves, weighting forward, already leaning into a turn that hasn't been called yet. She was scanning ahead of them now. He could feel her wanting him to point, feeling for the next one before he gave it to her, her body asking *that one? now?* into the space before his hand came up. She would have told him she was being a good sport about his game; she had stopped being a good sport a quarter mile back. She was shopping. He gave her three more along that stretch.
+Past the athletic center the path ran along the practice fields and then bent toward the library, and somewhere along there Pace thought he felt the thing in her change. It came up through her hand and through the side of her he was walking against: a low readiness, a faint tension strung through her frame, with the quality of the dance floor — a follow gathering herself a half-beat before the lead moves, weighting forward, already leaning into a turn that hasn't been called yet. He took her looking ahead of them as readiness for the next point, and was pleased by the thought that she was waiting for it. She would have told him she was being a good sport about his game; he did not know that. To him, she had stopped acting like one.
 
 A tall girl alone, walking fast, AirPods in, a structured bag carried in the crook of her forearm rather than worn — pre-law, maybe, or business, dressed a half-decade older than she was in a camel coat too warm for the afternoon. Long, lean, ash-brown hair blunt at the shoulder, a narrow triangular face that came to a tidy chin, handsome more than pretty, and closed all the way down — eyes forward, mouth set, an air that had no give in it and no room in it, a girl moving through the quad as if it were a corridor between two places that mattered more. "No," Randi said, before he had finished pointing. "She'd be a project." She did not elaborate and he did not ask. Not the closed ones, then. Not the ones who'd have to be gotten through.
 
@@ -114,13 +114,13 @@ He stopped walking. He turned and kissed her — not the ear this time, the mout
 
 "Maybe," he agreed, mild, and started them walking again.
 
-She laughed, low in her throat, and the thing she said came out warmer and realer than she meant it to — he heard the seam in it, the place where the performance didn't quite cover the actual heat underneath. "*Oh*," she said. "You dirty boy." Sex-kitten, the trailing register, a hand light on his arm. It would have read to almost any man as pure play, a girlfriend being game. He let her have it.
+She laughed, low in her throat, and the thing she said came out warmer and realer than she meant it to — or so he heard it, too pleased by the possibility to question himself. "*Oh*," she said. "You dirty boy." Sex-kitten, the trailing register, a hand light on his arm. It would have read to almost any man as pure play, a girlfriend being game. He let her have it.
 
-The *maybe* had taught him something and he tried to use it: not the closed ones, not the mirrors — try open, try warm, try a woman who took up room and was glad to. So he pointed at the most alive one in sight, a striking girl mid-laugh in a knot of friends, a blazer and a white-blond blowout in loose curls that had survived the wind better than it had any right to, the big unbothered authority of someone who chaired things and ran the room while she did, a wide confident face and a smile she was already wearing before anyone had said anything to earn it. He thought he had it. "God, no," Randi said, fast, and there was real feeling in the *no*. "Noted," he said, enjoying her. "Strong no." The girl's ease was performed, aimed outward, a thing she did *at* people. Closer, but no.
+The *maybe* delighted him, and he let it color the next woman he chose to point at: not the closed ones, not the mirrors — someone open, someone warm, someone who took up room and was glad to. So he pointed at the most alive one in sight, a striking girl mid-laugh in a knot of friends, a blazer and a white-blond blowout in loose curls that had survived the wind better than it had any right to, the big unbothered authority of someone who chaired things and ran the room while she did, a wide confident face and a smile she was already wearing before anyone had said anything to earn it. He thought he had it. "God, no," Randi said, fast, and there was real feeling in the *no*. "Noted," he said, enjoying her. "Strong no." The girl's ease was performed, aimed outward, a thing she did *at* people. Randi had no use for that.
 
-Not the expected, not the matched pairs, not the closed projects, not the ones who ran the room. He had thought he knew her taste before they left the house, and mostly he had. He liked being right about her. He liked, even better, the places she surprised him.
+Not the expected, not the matched pairs, not the closed projects, not the ones who ran the room. He had thought he knew her taste before they left the house, and mostly he had. He liked the feeling that he could see her clearly. He liked, even better, the places she surprised him.
 
-The path delivered them, eventually, to the broad doors of the dining cafeteria, where the four-o'clock current thickened — students coming and going through the propped doors, the warm institutional smell of the place breathing out into the cool air, trays and voices, the clatter carrying. They drifted to the low retaining wall a little off from the doors, an unremarkable stretch of brick at exactly the right remove, and he let them slow there as if it were nothing, as if they were only two people who had walked a while and might sit a minute. He had not chosen the spot in advance. He chose it now, fast and without seeming to, for the angle it gave on the doors.
+The path delivered them, eventually, to the broad doors of the dining cafeteria, where the four-o'clock current thickened — students coming and going through the propped doors, the warm institutional smell of the place breathing out into the cool air, trays and voices, the clatter carrying. They drifted to a low retaining wall a little off from the doors, an unremarkable stretch of brick at exactly the right remove, and slowed there as if it were nothing, as if they were only two people who had walked a while and might sit a minute.
 
 And then she came out.
 
@@ -128,7 +128,7 @@ She came out of the dining hall and drew the eye as nothing else on the quad had
 
 "Her," Pace said, and pointed.
 
-He had his eyes on Randi when he said it, not on the girl by the doors — so he saw it land. He saw the answer come up out of her before she made it a sentence — saw her stop, fully, the loose afternoon walk arrested mid-step, the half-stride dropping out from under her. And then she did the thing she had not done once all afternoon: she did not look away. Every other woman she had weighed and released, her attention moving on; this one held her where she stood, her eyes staying and staying on the red-haired girl as if pulled, the coil he'd felt in her frame all down the library walk releasing now into pure helpless looking. There was no managing in it. The follow had felt the music and broken frame before the lead called the step.
+He had his eyes on Randi when he said it, not on the girl by the doors — so he saw it land. She stopped, fully, the loose afternoon walk arrested mid-step, the half-stride dropping out from under her. And then she did the thing she had not done once all afternoon: she did not look away. Every other woman she had weighed and released, her attention moving on; this one held her where she stood, her eyes staying and staying on the red-haired girl as if pulled. He saw in that sustained attention an answer forming, and the thought filled him with a warm, startled delight.
 
 "Yes," she said. The word came out alone, with nothing around it — the bare arrival of a thing already true before she got to it.
 
@@ -138,7 +138,7 @@ The maple was burning, and the redheaded girl by the doors brought her chin back
 
 "Go meet her," Pace said.
 
-She looked at him then. Now, after — not before, not to be told what to want, but after the wanting had already shown, the social animal catching up and turning to him with the question that had nothing to do with whether she liked the girl and everything to do with whether she was allowed: *is this one mine to take.* He smiled at her. He nodded once, and tipped his chin toward the two girls coming up the walk toward them. *Go.* He was happy, plainly and simply; the game was working, the gift was moving toward her hands, and the last thing she needed before she went was to see in his face that it was hers to take. He let her see it. And it took: the uncertainty going out of her at the sight of his face, a quick game smile coming up in its place, half nerve and half appetite.
+She looked at him then. Now, after — not before, not to be told what to want, but after the wanting had already shown, the social animal catching up and turning to him with the question that had nothing to do with whether she liked the girl and everything to do with whether she was allowed: *is this one mine to take.* He smiled at her. He nodded once, and tipped his chin toward the two girls coming up the walk toward them. *Go.* He was happy, plainly and simply, to see her so lit by what she'd found. He thought she needed only to see that he was glad of it — that the wanting could be good, could be hers — before she went. He let her see it. And it took: the uncertainty going out of her at the sight of his face, a quick game smile coming up in its place, half nerve and half delight.
 
 She went.
 
@@ -146,7 +146,7 @@ Pace did not follow. He found a light pole at a comfortable angle to the lawn an
 
 And it was a thing to watch. He had known she moved well — he had danced with her, felt the trained instrument of her under his hand — but he had not yet seen her aim it at a person. She did not angle at the girls in any way a watching eye could have named. She simply drifted, adjusting nothing he could point to, her line and the redhead's line closing on a single point by degrees so gradual they looked like chance. And the redhead gave her every inch of cover without knowing it: she was turned full into her friend, saying something and laughing at it. So the geometry arranged across thirty feet arrived all at once, and the shoulders met, Randi sleek and narrow against the redhead's lush curves and the half-head of height she had on her, brought together so cleanly that the smaller woman seemed the one put upon. A small collision. Nothing. And the beautiful part, the part he'd have stood there an hour to see again: it was the redhead's hand that flew to her own mouth. It was the redhead who pulled up short, stricken, apologizing — he could read the *oh-I'm-so-sorry* in the lift of her shoulders and the tilt of her head as clearly as if it had been printed. A decade of dance and three years of whatever sorority actually taught under the mixers and the letters, all of it folded down into three seconds of execution so clean it looked like nothing — looked, if anything, like the redhead had walked into *her*.
 
-Then Randi's hand went to the girl's arm — *no, no, my fault, it's fine* — light, warm, settling, the hand staying a half-beat longer than the apology required, and the redhead's shoulders came back down out of their fluster, and they were laughing. The friend laughed too. Names, now: he watched the little ritual of it, the heads, the small social warming of three people discovering they could stand to talk for a minute. Two minutes, in fact. He stood at his pole and watched his afternoon's work talk to its result and felt the particular contentment of a thing going exactly as it should. Then the redhead and her friend said the thing people say, and lifted hands a little, and went on up the walk, and Randi turned and came back across the lawn to him.
+Then Randi's hand went to the girl's arm — *no, no, my fault, it's fine* — light, warm, settling, the hand staying a half-beat longer than the apology required, and the redhead's shoulders came back down out of their fluster, and they were laughing. The friend laughed too. Names, now: he watched the little ritual of it, the heads, the small social warming of three people discovering they could stand to talk for a minute. Two minutes, in fact. He stood at his pole and watched Randi talk to the woman who had caught her eye, and felt a warm, uncomplicated gladness at the sight of it. Then the redhead and her friend said the thing people say, and lifted hands a little, and went on up the walk, and Randi turned and came back across the lawn to him.
 
 She was failing to hide the grin. It was all over her, the grin, breaking the managed surface the way the dropped stride had, the way the bare *yes* had. Lit up.
 
@@ -154,6 +154,6 @@ She was failing to hide the grin. It was all over her, the grin, breaking the ma
 
 "Her name is Vee." She arrived in front of him glowing. "And we've got a stats class together."
 
-Her feet did a thing on the brick, a half-second of happy footwork she didn't decide to do, there and gone. He nodded, slow, and let her see the pride in it — *good, that's very good, look what you did.* Randi's *yes* had a name now and a class schedule and a copper head he could still pick out, small, at the far edge of the lawn.
+Her feet did a thing on the brick, a half-second of happy footwork she didn't decide to do, there and gone. He nodded, slow, delighted for her. Randi's *yes* had a name now and a class schedule and a copper head he could still pick out, small, at the far edge of the lawn.
 
 "Let's go feed you," he said.
