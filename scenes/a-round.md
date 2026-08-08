@@ -205,7 +205,7 @@ And twice, leaning into his work, her bare breast came soft against the side of 
 
 So the third time she did it on purpose.
 
-She leaned, and turned, and pressed her breast deliberately against his cheek, and held it there a beat too long for any accident, and said, low and bright and not remotely sorry, "Oops. Sorry."
+She leaned, and turned, and pressed her breast deliberately against his cheek, and held it there too long for any accident, and said, low and bright and not remotely sorry, "Oops. Sorry."
 
 He went red.
 
@@ -235,7 +235,7 @@ When the front panel needed her weight shifted he didn't tell her — he set one
 
 He was pinning low across the front and his face was close to her stomach and he exhaled, once, a breath slightly longer than a normal breath, slightly warmer than neutral, against the bare skin below her navel. Plausible deniability. She felt it on her skin and her stomach contracted and she had to work not to show it.
 
-He smoothed the silk flat over her hip with his palm and then didn't lift it for a beat longer than the work required, reading the lie of the fabric, technically, holding the pressure of his hand against her, technically. He lifted his hand. He set the next pin.
+He smoothed the silk flat over her hip with his palm and then didn't lift it, reading the lie of the fabric, technically, holding the pressure of his hand against her, technically. He lifted his hand. He set the next pin.
 
 She stood on the box in the burgundy silk pinned roughly to the shape of her and the satin panties she'd stopped being able to think about, the deep purple-under-red of the cloth lying against her bare skin like it had grown there, like he'd been right about the color the way he was right about everything he went all the way into, and she held still, and her whole skin was singing.
 

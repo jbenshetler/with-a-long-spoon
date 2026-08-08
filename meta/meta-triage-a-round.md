@@ -149,3 +149,59 @@ would require rewriting substantial portions of the novel — at least 5–6
 chapters. The flag is known, accepted, and closed. **Do not re-raise it at
 this or any other chapter's review**, and do not propose sentence-level fixes
 for it: the a-round attempt showed they only move the reader's anchor.
+
+---
+
+# Triage — A Round (held-past re-open, 2026-08-08)
+
+**Chapter re-opened after being marked `reviewed`**, on the book-wide
+re-harvest of the held-past-the-function figure (echo ledger #59/#60). The
+figure was invisible to the string-match harvest because the recurrence is a
+*move*, not a phrase; `a-round` turned out to hold the worst cluster in
+Volume One — five instances, three canonical inside thirty lines.
+
+**Author's governing instruction: preserve the idea.** *"We need to preserve
+the idea of waiting for something to happen. That stopping for a beat is
+important to build the tension."* The pause is the fitting scene's whole
+engine — two people holding contact a fraction past its pretext, under the
+cover of "It was completely justified by the work" (`:200`). What was
+repeating is the **sentence shape that measures** the pause, not the pause.
+
+## Fixed (2 edits)
+
+- **`:238`** — cut "for a beat longer than the work required": "He smoothed
+  the silk flat over her hip with his palm and then **didn't lift it**,
+  reading the lie of the fabric, technically, holding the pressure of his hand
+  against her, technically. **He lifted his hand.** He set the next pin."
+  The sentence already carries its own clock — *didn't lift it* opens the
+  hold, *He lifted his hand* closes it two sentences later, and the two
+  `technically`s are him lying to himself for the duration. The measure was
+  the one part **telling** what the rest was already **doing**, and the gap
+  reads longer unmeasured because the reader has to sit in it without being
+  told how long it lasted. This was the tightest collision in the book: same
+  character, same shape as `:220`, eighteen lines apart.
+- **`:208`** — "held it there **a beat** too long for any accident" → "held it
+  there **too long for any accident**" (author's own recast). Beyond the echo,
+  this is the better line: *a beat too long* measures a small, still-arguable
+  excess — the deniability register — but `:208` is where Vee stops being
+  deniable, pressing deliberately and then saying "Oops. Sorry" *low and
+  bright and not remotely sorry*. The flat absolute **refuses the alibi in the
+  same breath she offers it**. Side effect: with no time unit, `:208` leaves
+  the figure family entirely and becomes a purpose statement.
+
+## Left standing — do not re-litigate
+
+- **`:220` "half a second longer than kissing-it-better needed to stay" — the
+  PROTECTED keeper.** It names the pretext being exceeded, which no other
+  instance in the book does, and the line is separately protected under echo
+  #8 on cold-read evidence for its *"before you think"* half. Acked.
+- **`:200` "she bent into it more than the dress asked"** — the *degree*
+  family (with `we-find-out:9`), ruled out of scope at #60 and **still
+  unruled**. Deliberately left UNACKED so it stays visible for that ruling.
+- **`:226` "It came out a beat too late"** — the bare *too-[adj]* family (with
+  `turned-up:57`, `gone:61`, `outlier:71`, `practice-room:131`,
+  `burn:181`), also still unruled and deliberately left UNACKED.
+
+After these two edits **no unruled canonical instance of the figure remains in
+this chapter**; the three remaining linter hits are one protected keeper and
+two members of families awaiting their own ruling.

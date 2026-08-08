@@ -200,6 +200,13 @@ text = "Pace's reply is **delayed — engaged concentration, not defense** (the 
 note = "Under the Rug: author-reviewed during close drafting. Name/word antitheses load-bearing engine; filtered/existential constructions are intentional voice. 'all the way down through her' kept by author choice."
 
 [[ok]]
+fp   = "df4be7feb9f5"
+rule = "held-past"
+file = "scenes/a-round.md"
+text = "His mouth, and then the small heat of it staying half a second longer than kissing-it-better needed to stay."
+note = "PROTECTED keeper for the held-past figure (echo #60, author 2026-08-08). Pace at :220: 'kissing-it-better needed to stay' names the pretext he is exceeding, which no other instance does; also protected under #8 on cold-read evidence for its 'before you think' half. The :238 collision was resolved by cutting the measure there, not here. :200 (degree family) and :226 (bare too-adj family) deliberately left UNACKED — both belong to adjacent families that are still unruled, and suppressing them would hide them from those rulings."
+
+[[ok]]
 fp   = "3c50215c6326"
 rule = "a-small"
 file = "scenes/all-the-time.md"
