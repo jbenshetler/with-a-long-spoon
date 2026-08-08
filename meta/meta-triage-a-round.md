@@ -205,3 +205,21 @@ repeating is the **sentence shape that measures** the pause, not the pause.
 After these two edits **no unruled canonical instance of the figure remains in
 this chapter**; the three remaining linter hits are one protected keeper and
 two members of families awaiting their own ruling.
+
+## Adjacent families — ruled IGNORE and acked (2026-08-08)
+
+Both remaining held-past linter hits were ruled and suppressed the same day;
+`a-round` now returns **zero** hits on the `held-past` rule.
+
+- **`:200` "she bent into it more than the dress asked"** — degree family,
+  IGNORE (two instances book-wide) and the line PROTECTED: *the dress* is the
+  authority granting permission, the deniability structure the paragraph's own
+  last sentence names ("It was completely justified by the work").
+- **`:226` "It came out a beat too late"** — bare too-adj family, IGNORE (five
+  in Volume One) and the line PROTECTED: the only *too late* in the family,
+  and the delay is the content, not a timing tic.
+
+See echo ledger #61, which also records the rule that governs this whole area:
+**never ration the move.** Exceeding a pretext by a fraction is the book's
+subject; duration, degree and excess are three grammars for one idea. Only the
+phrasing is ever negotiable.

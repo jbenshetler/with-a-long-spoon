@@ -200,6 +200,20 @@ text = "Pace's reply is **delayed — engaged concentration, not defense** (the 
 note = "Under the Rug: author-reviewed during close drafting. Name/word antitheses load-bearing engine; filtered/existential constructions are intentional voice. 'all the way down through her' kept by author choice."
 
 [[ok]]
+fp   = "2bf55ab4df60"
+rule = "held-past"
+file = "scenes/a-round.md"
+text = "It came out a beat too late, after a silence she watched him spend deciding, and she heard everything in it that he didn't say — that it wasn't easy, that he wanted her, that he was choosing the dress and the doing-it-right over the easy yes she was all but handing him, and that the choosing cost him."
+note = "PROTECTED (echo #61, author 2026-08-08). Bare too-adj family, IGNORE verdict. ':226 It came out a beat too late' is the best line in its family and the only 'too late' in it; the delay is the content — his voice is late because of 'a silence she watched him spend deciding,' and she reads the lateness. Mechanism, not timing tic."
+
+[[ok]]
+fp   = "441c37408fbf"
+rule = "held-past"
+file = "scenes/a-round.md"
+text = "When he knelt at the back of her she bent into it more than the dress asked, slow, and was glad of him there."
+note = "PROTECTED (echo #61, author 2026-08-08). Degree family, IGNORE verdict. ':200 she bent into it more than the dress asked' — the dress is the grammatical authority granting permission, which is the deniability structure the fitting scene runs on and which the paragraph's own last sentence names ('It was completely justified by the work'). Vee's first escalation in the chapter. Two instances book-wide with we-find-out:9."
+
+[[ok]]
 fp   = "df4be7feb9f5"
 rule = "held-past"
 file = "scenes/a-round.md"

@@ -1136,3 +1136,51 @@ the drumroll is a likelier culprit than the line.*
     recurrence is a figure — a linter rule on the shape would have surfaced it
     at chapter 1. When a ruling identifies a construction rather than a
     phrase, instrument it; do not rely on the next harvest to find it.*
+
+61. **The two families adjacent to the held-past figure — both IGNORE
+    (author, 2026-08-08).** Split out of #60 and examined on their own. Both
+    were found **not to be echoes**; recorded here so a later chapter's editor
+    finds a ruling instead of re-deriving one.
+
+    **(a) The DEGREE family — "more than the X asked / called for" — IGNORE.**
+    `a-round:200` ("she bent into it more than the dress asked") and
+    `we-find-out:9` ("she'd worn the black strappy heels and the wrap skirt
+    for him, more than a Friday after stats called for"). Two instances across
+    ~137,700 words. `a-round:200` is additionally **PROTECTED**: *the dress* is
+    the grammatical authority granting the permission, which is precisely the
+    deniability structure the fitting scene runs on and which the paragraph's
+    own closing sentence names — *"It was completely justified by the work."*
+    It is Vee's first escalation in the chapter. Acked.
+
+    **(b) The bare TOO-[ADJ] family — "a beat too long / too fast / too late"
+    — IGNORE.** Volume One: `turned-up:57`, `gone:61`, `outlier:71`,
+    `practice-room:131`, `a-round:226` — five, about one per 27,500 words.
+    (`burn:181`, "a second too late", is outside Volume One.)
+    `a-round:226` is additionally **PROTECTED**: it is the only *too late* in
+    the family, and the delay is the content — his voice is late because of
+    "a silence she watched him spend deciding," and she reads the lateness.
+    Mechanism, not timing tic. Acked.
+
+    **The governing point, which outranks both verdicts and every future
+    harvest in this area: NEVER RATION THE MOVE.** Doing something
+    fractionally more than the pretext requires — the fitting, the goodbye
+    kiss, the hand left on the belly, the pause over the cup — **is the book's
+    subject.** Duration, degree, and excess are three grammars for one idea,
+    and that idea is the thesis. **Only the phrasing is ever negotiable.** A
+    future harvest that counts the *move* across its grammars and reports a
+    large number is committing the census error in a new costume: the count
+    will be real and it will mean nothing. See the governing rule at the top
+    of this file, and #60's *render the hold; do not count it*.
+
+    **WATCH-ITEM (not a finding) — the pause-before-answering dialogue tag.**
+    `turned-up:57` ("'Okay,' Cassie said, when the quiet had gone on a beat
+    too long") and `gone:61` ("'Yeah,' she said, when she'd been quiet a beat
+    too long") are the same phrase doing the same **job**: a tag marking a
+    hesitation before a reply. Chapters 16 and 24 — one per ~45,000 words, so
+    **not carryable and NOT ruled a finding; neither chapter is re-opened.**
+    Logged because it is a **default reach** rather than a tic — the
+    `learn`-rule category, the words the drafting hand grabs when a character
+    hesitates before answering, which is autopilot rather than voice. If a
+    third pause-before-answering tag reaches for the same wording, vary it
+    then. *Chasing these two would be the discipline failure the preamble
+    exists to prevent.*
