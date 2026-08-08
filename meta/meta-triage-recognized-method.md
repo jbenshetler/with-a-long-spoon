@@ -84,3 +84,144 @@ Unanimous positives — a fix in this scene must not damage these:
 - **The god-line ("Beauty like yours made for the gods and loaned out") stays.** gpt-5.5's "almost too perfect" was self-resolved in the same sentence — accepted because Pace's plain delivery is established.
 - **Spank-paragraph filter verbs sanctioned.** The three `she felt` hits in the involuntary-response paragraph are acked (`style-allow.toml`, 2026-07-28) — the panel praised the paragraph as written.
 - **Hair "with its own weather" sanctioned.** Acked; gpt-5.6-sol logged it as a liked first-sighting motif.
+
+---
+
+# Triage — A Recognized Method (line-edit pass, 2026-08-08)
+
+Source: `audits/line-edit/recognized-method.md` (15 findings), reviewed with
+the author item by item. Cold-read enrichment: all five models
+(claude-fable-5, claude-opus-4-8, gpt-5.5, gpt-5.6-sol, gpt-5.6-terra).
+**17 items ruled, 16 edits applied, 1 finding dropped as already-settled,
+1 finding pushed back on and left standing.**
+
+## Context worth keeping
+
+- **No reader flagged anything in this chapter as overwritten or
+  over-explained.** The sole friction any of the five named was the
+  first-night elision (fable-5, gpt-5.5, gpt-5.6-sol) — already ruled left
+  standing 2026-07-28, and all three said the kitchen scene compensates.
+  Every edit this pass was local overwork found by the editor, not by a
+  reader. **Do not trim this chapter for pace** — no reader found it long;
+  fable-5: "Nothing dragged"; opus-4-8: "Excellent shape."
+- **Reader-protected lines (five-model consensus):** the height reversal at
+  `:23` — the most-praised moment in the chapter, called "the best thing on
+  the page" (opus-4-8) and "the best small thing in the chapter" (fable-5),
+  with "her eyes came level with his and kept going," "her body had learned
+  him as a man she looked up at," and "like a missed stair" all quoted
+  verbatim; `:27` "one more disrespect laid at his feet"; `:31` the pie lift
+  and the scarf ("The scarf was working" — terra: "both funny and a little
+  sad"); `:61` "Thank you for telling me what she said," read in the intended
+  double register by all five; the `:83` soak aria; the whole
+  `:91`–`:103` kitchen/tickle/spank sequence, which **all five** name the
+  chapter's erotic peak, ahead of the actual sex; `:121` "Not *you're
+  beautiful*, which she'd have argued. *Always.*"
+- **"a small clean machine" is load-bearing vocabulary, not a tic.** All five
+  readers name the phrase; three use the machine's breakdown as the chapter's
+  structural hinge. Echo ledger #56.
+
+## Fixed (16 edits)
+
+**Opening paragraph (`:9`) — four edits.** Cut "the way Randi kept her own"
+and "the way it had in Randi's room" (Randi was named five times in one
+paragraph; the {{Broken In}} callback wasn't carrying weight the paragraph
+wasn't already carrying four other ways); recast "the way a uniform helps" →
+"as a uniform helps", preserving the *helped/helps* chime while killing the
+third `the-way` in five sentences; cut "and steadying was most of what she
+needed" as a repeat-back of the sentence before it; recast "There was a
+structure built into the shoe" → "The shoe had a structure built into it".
+
+- **`:11`** — "It had seemed like a way to walk in" → "It had **been** a way
+  to walk in." Three `seemed` in three sentences with two consecutive
+  sentences opening identically. The first carries the 2026-08-02 timeline fix
+  ("still") and the third is panel-protected (the driveway deflation), so the
+  middle was the only free variable.
+- **`:21`** — "And then the floor did something strange, because he was
+  looking up at her." → **"And then he was looking up at her."** Echo #31,
+  and the trailer test (ledger #53): `:23` renders the same event precisely
+  two lines later. Side benefit — the one-line paragraph now states the
+  catastrophe flat, and "looking up at her" sets up the *looked up at / turned
+  up to hers* chime in `:23`.
+- **`:23`** — cut "and took the bottom out of everything she'd rehearsed",
+  ending on "and the knowing arrived all at once." The collapse of the
+  rehearsed speech was announced here and then *enacted* four lines later at
+  `:27` ("coming apart in her mouth into something that wasn't even
+  sentences"); the enactment is the better one. Also the fourth
+  ground-instability figure in fifteen lines.
+- **`:27`** — cut "the polished thing," keeping "because they were the right
+  thing to wear to apologize." Two placeholder nouns in a clause, in a
+  paragraph otherwise built of buckles and heels and the inch.
+- **`:31`** — "pushed the tail of it half off her shoulder" → "pushed it half
+  off her shoulder." "The tail of it" twice in three sentences; the second is
+  what his fingers find and is the beat that matters.
+- **`:45`** — cut "the way you feel walking out of an exam" and recast "she
+  felt" → "she had". *Felt … feel* inside eleven words, with the abstract and
+  the concrete both stating the same relief.
+- **`:73`** — cut the restaging appositive "a man moving quietly that morning
+  laying out a clean folded shirt so she'd have something when she woke".
+  The paragraph had already described the fold in detail and already said he
+  set it there for her to find. "Did something to her chest" kept — it's the
+  only interiority in a paragraph of inventory.
+- **`:75`** — cut "sleeves up, doing the dishes," from the second listing,
+  keeping "the unbearable ordinary fact of him, up before her". The same
+  inventory appeared twice forty words apart; "up before her" was the only
+  new fact in the repeat.
+- **`:91`** — cut "The suddenness of it," (pure abstraction explaining "she
+  came apart" after it landed, and untrue besides — the paragraph has just
+  walked us through his hand leaving the brush) and cut "warm" from "the bare
+  warm skin of her side" (doubled modifier, and `sleep-warm` three words later
+  is the specific compound; the clause wants the **dry/bare** contrast, which
+  is the wet/dry design the 2026-08-02 audit ruled sound).
+- **`:97`** — three cuts. "The water stopped and" (the tap is turned off at
+  `:95`, so this was the third report of one action, in the middle of the
+  sentence meant to be the silence landing); "and the bright afternoon light"
+  (the same light three times in seven lines — `:103` needs it to be
+  pitilessly exposing and can't be if it's already been said twice); and the
+  filter in "She felt it come around" → "It came around". Also "the thin
+  shirt" → "the shirt".
+- **`:101`** — "the thin cotton of her underwear" → "the cotton of her
+  underwear." Per the author's correction (ledger #57): "only" and "and then
+  nothing" already state the insufficiency twice here, whereas at `:103`
+  "thin" is the only word covering *show-through*.
+
+## Left standing — do not re-litigate
+
+- **`:83` "That is the entire point of soaking"** — the editor's finding 15
+  (runs grammatical where the character would contract) **rejected** (author,
+  2026-08-08). Vee is performing pedantry; the uncontracted form is of a piece
+  with "Soaking is a recognized method," the sentence the chapter is named
+  after, and the formality is the joke. Reader evidence is unanimous and is
+  specifically about the mock-seriousness: fable-5 ("the loosest, happiest
+  domestic writing in the book so far and I grinned through it"), opus-4-8
+  (quotes the aria), gpt-5.5, gpt-5.6-sol, gpt-5.6-terra (quotes her "arguing
+  seriously that soaking is 'a recognized method'"). Echo ledger #58.
+- **`:103`'s three `She felt`** — the editor's finding 11 rediscovered a
+  settled verdict; **dropped before presentation.** Already sanctioned and
+  acked 2026-07-28 ("the panel praised the paragraph as written").
+- **`:81` and `:85` filter verbs** — kept against the editor, who conceded
+  only `:85`. Vee is pressed face-first against his back with her eyes on
+  nothing; feeling-without-seeing *is* the sensation, and it's why the section
+  is intimate. Same logic for `:55` (hearing her own mouth produce the
+  blonde's words) and `:119` (hearing how small her voice is).
+- **`:9`'s floor and `:23`'s missed stair** — two of the four
+  ground-instability figures kept. `:9` is the *inverted* use (the shoe gives
+  her solid ground) and `:23` is the chapter's most-quoted line.
+- **`:31` and `:121` second-person similes** — both reader-quoted; with `:9`
+  and `:45` recast, the closing "the way you hold a thing you mean to keep"
+  now arrives with only one predecessor instead of three. fable-5 on `:121`:
+  "*keep* is another possession-word he keeps choosing."
+- **`:97` "the way it had in the front hall"** — designed internal callback to
+  `:41`. Logged in echo ledger #59-adjacent notes as touching the PROTECTED
+  attention-as-lamp family (#18) applied to Pace rather than Randi; wants an
+  author ruling at the end-of-pass harvest, not a fix here.
+
+## Linter acks (author sign-off 2026-08-08)
+
+Started at 32 active hits, 0 errors; the edits cleared 8; `:9` and `:45` fixed
+at the sweep; the remaining 23 acked. **Scene now lints clean (30 suppressed).**
+Nothing unruled among them — `a-small:13` is the chapter's spine (#56),
+`learn:23` is quoted verbatim by fable-5, `began-to:31` ("the fold she'd
+started to make of herself") is the one case where the aspect is *correct*
+since she's interrupted mid-fold, `the-way:101` is a false positive ("ridden
+all the way up" is the idiom), and the six `warm` hits are all load-bearing
+once the `:91` reflex use was cut.

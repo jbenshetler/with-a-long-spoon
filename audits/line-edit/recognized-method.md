@@ -49,3 +49,27 @@ Distinctive phrasings here that may recur elsewhere in the book — for the end-
 - **"You're always beautiful" / "Not *you're beautiful*… *Always*"** (:121) — if this is called back anywhere, this chapter is the keeper.
 - **"gave her his attention, all of it" (:41) / "settle on her fully, all of it, the way it had in the front hall" (:97)** — deliberate internal callback, but adjacent to the PROTECTED attention-as-lamp family (ruling #18) as applied to Pace rather than Randi; logged, not flagged.
 - **"like a uniform"** (:9) — sibling at `the-pointing-game:95` ("athleisure that read like a uniform"). Different work in each; probably IGNORE-grade.
+
+## Author rulings (2026-08-08)
+
+0. Finding 11 (`:103` filter verbs) — **dropped before presentation**; settled 2026-07-28 (spank paragraph acked, panel praised as written).
+1. `:97` "The water stopped and" — **cut** (a).
+2. `:97` "and the bright afternoon light" — **cut** (a); light kept at `:75` and `:103`.
+3. `:75` "sleeves up, doing the dishes," — **cut** (a).
+4. `:73` restaging appositive — **cut** (a); "did something to her chest" kept.
+5. `:9` "and steadying was most of what she needed" — **cut** (a); uniform gloss kept at this item.
+6. `:9` three `the way`s — author asked whether all three could go; **cut two, recast one** (a): "the way Randi kept her own" cut, "the way it had in Randi's room" cut, "the way a uniform helps" → "as a uniform helps".
+7. `:21` floor figure (echo #31) — **recast** (a) to "And then he was looking up at her."
+8. `:11` three `seemed` — **middle recast** (b): "It had been a way to walk in…".
+9. `:45` "the way you feel walking out of an exam" — **cut** (a).
+10. `:31` "the tail of it" ×2 — **first varied** (a).
+11. `:97` "She felt it come around" — **filter cut** (a); `:81`/`:85` kept.
+12. Three "thin" — **author corrected the keeper**: `:103` has the strongest claim (show-through), not `:101`. Cut at `:97` and `:101` (a).
+13. `:91` "The suddenness of it," — **cut** (a).
+14. `:91` "bare warm skin" — **warm cut** (a); `sleep-warm` kept.
+15. `:27` "the polished thing," — **cut** (a).
+16. `:83` "That is the entire point of soaking" — **left standing** (b) and logged; the formality is the bit, five-model praise for the mock-seriousness.
+17. `:23` "took the bottom out of everything she'd rehearsed" — **cut** (a).
+18. Linter sweep — fix `:9` (existential) and `:45` (filter), **ack the remaining 23**. Scene lints clean.
+
+**16 edits applied. 1 finding rejected on the merits. 1 finding dropped as settled.**

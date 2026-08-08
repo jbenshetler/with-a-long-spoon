@@ -929,3 +929,92 @@ the drumroll is a likelier culprit than the line.*
 - `:41` **"She filed it somewhere"** — `file-verb` tic, triage-protected here
   on gpt-5.6-sol's approval and its rhyme with the sorority-folder motif. Do
   not vary; count siblings.
+
+---
+
+## Batch 13 — A Recognized Method review (2026-08-08)
+
+53. **#31 (floor/ground-moving figure) applied at `recognized-method` — two of
+    four cut.** The chapter opened with four ground-instability figures inside
+    fifteen lines: `:9` "the floor went solid under her" (the shoe *gives* her
+    the floor), `:21` "the floor did something strange", `:23` "like a missed
+    stair", `:23` "took the bottom out of everything she'd rehearsed". `:9`
+    and `:23`'s missed stair kept — the first is the inverted use (solid, not
+    moving) and the second is the most-quoted line in the chapter
+    (claude-fable-5, claude-opus-4-8 both name it the best thing in it).
+    `:21` recast to "And then he was looking up at her."; `:23`'s tail cut.
+    **Rule extension — the trailer test:** *when a vague instance of a figure
+    is followed within two lines by a precise rendering of the same event, cut
+    the vague one.* It is not a second use; it is a trailer for the line that
+    works, and it spends the surprise. This is proximity reasoning, not
+    arithmetic — it survives the governing rule at the top of this file.
+
+54. **"the plain voice" — PROTECTED, no action.** `recognized-method:35` ("he
+    said the true extravagant thing in the plain voice you'd use to say
+    hello") and `barely-stings:13` ("in the plain voice he used for facts
+    about the world"). Both Pace-defining; claude-opus-4-8 quoted the figure
+    back approvingly ("the Pace who says the extravagant true thing in the
+    weather voice"). **Two instances across ~137,700 words is not an echo** —
+    logged here so a later chapter's editor does not flag either, not because
+    a ration exists.
+
+55. **Lifting a thing out of her hands — PROTECTED as designed.**
+    `recognized-method:31` (the pie), `:65` ("lifted it out of her hands, like
+    the pie"), `:105` ("lifted out of her hands"); sibling at `burn:103` ("He
+    took the hem out of her hands"). The three in-chapter uses are an explicit
+    callback chain — `:65` names the callback in the text — and readers
+    tracked it as a motif (claude-opus-4-8 logged it; gpt-5.6-terra read the
+    pie lift as "care that receives her apology without requiring abasement").
+    Do not vary any of them. `burn:103` stands separately.
+
+56. **"a small clean machine" — PROTECTED.** `recognized-method:13`, `:43`,
+    `:53`, `:105`. The chapter's spine; all five cold readers name the phrase
+    and three use the machine's breakdown as the structural hinge (gpt-5.5:
+    "The real apology begins where the 'small clean machine' breaks"). Trips
+    the `a-small` linter rule at `:13`; acked. A later chapter reaching for
+    "clean machine" casually would spend this — flag any sibling.
+
+57. **Rank competing instances by mechanical work, not by position (author
+    correction, 2026-08-08).** Three "thin"s in seven lines at
+    `recognized-method:97`/`:101`/`:103`. The editor and I both awarded the
+    keeper slot to `:101` on sequence grounds (it's the reveal). The author
+    corrected: `:103` has the strongest claim, because that is where her
+    nipples **show through** the fabric — nothing else in the sentence covers
+    *through* ("nothing under it to hide them" covers *under*). At `:101`,
+    "only" and "and then nothing" already state the insufficiency twice, so
+    "thin" was the third statement. Cut at `:97` and `:101`; kept at `:103`.
+    **Rule: when a repeated modifier must be rationed, keep the instance doing
+    mechanical work no other word in its sentence is doing — not the one at
+    the dramatic peak.**
+
+58. **Uncontracted speech is not a dialogue-shape flaw when the character is
+    performing formality.** The editor flagged `recognized-method:83` ("That
+    is the entire point of soaking") as running grammatical where a sleepy
+    girl would contract. Left standing: the whole aria is mock-legal — *a
+    recognized method*, *the entire point*, *undermining the soak* — and the
+    uncontracted form is of a piece with the sentence the chapter is named
+    after. All five readers praised the bit for its mock-seriousness
+    (claude-fable-5: "the loosest, happiest domestic writing in the book so
+    far"). **Rule: check whether the character is performing a register before
+    applying the compress-the-speech default.**
+
+### Candidates raised at A Recognized Method, UNRULED
+
+- `:71` **"her body did not so much wake as agree to be awake"** — striking
+  diction; check the other morning-after chapters before any sibling is
+  allowed to reach for the not-so-much-X-as-Y shape.
+- `:33` **"Beauty like yours made for the gods and loaned out"** — the
+  beauty-as-loan formulation for Pace. Triage-protected here (2026-07-28);
+  check for siblings.
+- `:121` **"You're always beautiful" / "Not *you're beautiful*… *Always*"** —
+  if this is called back anywhere, **this chapter is the keeper**. Quoted
+  verbatim by claude-fable-5 and claude-opus-4-8.
+- `:97` **"settled on her fully, all of it, the way it had in the front
+  hall"** (and `:41` "gave her his attention, all of it") — a deliberate
+  internal callback, but adjacent to the PROTECTED attention-as-lamp family
+  (#18) applied to **Pace** rather than Randi. Logged, not flagged: if the
+  family is meant to be Randi's, this is a cross-contamination worth an
+  author ruling at the end-of-pass harvest.
+- `:9` **"as a uniform helps"** — recast from "the way a uniform helps" at
+  this review. Sibling at `the-pointing-game:95` ("athleisure that read like a
+  uniform"); different work in each, IGNORE-grade.

@@ -3357,6 +3357,48 @@ text = "He laid it back — two fingers under the tail of it, setting it where i
 note = "Author sign-off 2026-07-28: 'a small vanity lifted its head' — diminutive is intentional in the scarf-beat addition"
 
 [[ok]]
+fp   = "e8325ebbf2be"
+rule = "a-small"
+file = "scenes/recognized-method.md"
+text = "So Vee had built the thing she would say like a small clean machine, and she had the first line and the turns it would take, and she had the heels and the pearls and the dress, and she had the pie to put in his hands in the doorway so her own hands would have somewhere to be."
+note = "Line-edit pass 2026-08-08, author sign-off. Reader-protected or load-bearing: a-small=the chapter's spine figure named by all five cold readers; learn:23 quoted verbatim by fable-5; began-to:31 aspect correct (interrupted mid-fold); filter-verbs 55/81/85/119 are perception-as-content (blind against his back, hearing her own mouth); the-way 31/121 reader-quoted similes, 97 designed front-hall callback, 101 false positive (idiom); there-was-were all deliberate or dialogue; warm all load-bearing after the :91 reflex use was cut."
+
+[[ok]]
+fp   = "c6e0512cd90b"
+rule = "began-to"
+file = "scenes/recognized-method.md"
+text = "Not took it as in accepted it; she hadn't offered it; he simply lifted it away from where it was sliding, the way you take a glass from someone about to drop it, and his other hand came to her forearm and brought her back upright out of the fold she'd started to make of herself, so that she was standing again, level, too tall, with nothing in her hands."
+note = "Line-edit pass 2026-08-08, author sign-off. Reader-protected or load-bearing: a-small=the chapter's spine figure named by all five cold readers; learn:23 quoted verbatim by fable-5; began-to:31 aspect correct (interrupted mid-fold); filter-verbs 55/81/85/119 are perception-as-content (blind against his back, hearing her own mouth); the-way 31/121 reader-quoted similes, 97 designed front-hall callback, 101 false positive (idiom); there-was-were all deliberate or dialogue; warm all load-bearing after the :91 reflex use was cut."
+
+[[ok]]
+fp   = "37a3d8002849"
+rule = "filter-verbs"
+file = "scenes/recognized-method.md"
+text = "She felt the laugh go through his back before she heard it."
+note = "Line-edit pass 2026-08-08, author sign-off. Reader-protected or load-bearing: a-small=the chapter's spine figure named by all five cold readers; learn:23 quoted verbatim by fable-5; began-to:31 aspect correct (interrupted mid-fold); filter-verbs 55/81/85/119 are perception-as-content (blind against his back, hearing her own mouth); the-way 31/121 reader-quoted similes, 97 designed front-hall callback, 101 false positive (idiom); there-was-were all deliberate or dialogue; warm all load-bearing after the :91 reflex use was cut."
+
+[[ok]]
+fp   = "9641d897699c"
+rule = "filter-verbs"
+file = "scenes/recognized-method.md"
+text = "She felt the small economical movements of his arms, a plate, the cloth."
+note = "Line-edit pass 2026-08-08, author sign-off. Reader-protected or load-bearing: a-small=the chapter's spine figure named by all five cold readers; learn:23 quoted verbatim by fable-5; began-to:31 aspect correct (interrupted mid-fold); filter-verbs 55/81/85/119 are perception-as-content (blind against his back, hearing her own mouth); the-way 31/121 reader-quoted similes, 97 designed front-hall callback, 101 false positive (idiom); there-was-were all deliberate or dialogue; warm all load-bearing after the :91 reflex use was cut."
+
+[[ok]]
+fp   = "9a567d771a82"
+rule = "filter-verbs"
+file = "scenes/recognized-method.md"
+text = "It came out in a rush, the clock and the dorm and the dress and no time and look at me, look at my hair, I can't, and she heard how small it was even as she said it and could not stop saying it."
+note = "Line-edit pass 2026-08-08, author sign-off. Reader-protected or load-bearing: a-small=the chapter's spine figure named by all five cold readers; learn:23 quoted verbatim by fable-5; began-to:31 aspect correct (interrupted mid-fold); filter-verbs 55/81/85/119 are perception-as-content (blind against his back, hearing her own mouth); the-way 31/121 reader-quoted similes, 97 designed front-hall callback, 101 false positive (idiom); there-was-were all deliberate or dialogue; warm all load-bearing after the :91 reflex use was cut."
+
+[[ok]]
+fp   = "9eb2b6562498"
+rule = "filter-verbs"
+file = "scenes/recognized-method.md"
+text = "She heard herself slip into the blonde's exact words and couldn't stop it."
+note = "Line-edit pass 2026-08-08, author sign-off. Reader-protected or load-bearing: a-small=the chapter's spine figure named by all five cold readers; learn:23 quoted verbatim by fable-5; began-to:31 aspect correct (interrupted mid-fold); filter-verbs 55/81/85/119 are perception-as-content (blind against his back, hearing her own mouth); the-way 31/121 reader-quoted similes, 97 designed front-hall callback, 101 false positive (idiom); there-was-were all deliberate or dialogue; warm all load-bearing after the :91 reflex use was cut."
+
+[[ok]]
 fp   = "c720618f2fe2"
 rule = "filter-verbs"
 file = "scenes/recognized-method.md"
@@ -3383,6 +3425,125 @@ rule = "flat-interrogative"
 file = "scenes/recognized-method.md"
 text = "\"What I did on Thursday was wrong,\" she said, and there it was, the clean machine, running."
 note = "false positive: what-clause declarative, not a question"
+
+[[ok]]
+fp   = "7d5a2503b3e8"
+rule = "learn"
+file = "scenes/recognized-method.md"
+text = "But she had spent every minute of knowing him looking up into his face, her body had learned him as a man she looked up at, and now her eyes came level with his and kept going, came to rest a fraction above them, and the small wrongness of it went through her like a missed stair."
+note = "Line-edit pass 2026-08-08, author sign-off. Reader-protected or load-bearing: a-small=the chapter's spine figure named by all five cold readers; learn:23 quoted verbatim by fable-5; began-to:31 aspect correct (interrupted mid-fold); filter-verbs 55/81/85/119 are perception-as-content (blind against his back, hearing her own mouth); the-way 31/121 reader-quoted similes, 97 designed front-hall callback, 101 false positive (idiom); there-was-were all deliberate or dialogue; warm all load-bearing after the :91 reflex use was cut."
+
+[[ok]]
+fp   = "0878b1cf2985"
+rule = "the-way"
+file = "scenes/recognized-method.md"
+text = "He crossed the little room and swept the wild hair back off her face with one hand, gathering it at her nape and holding it there a second the way you hold a thing you mean to keep, and bent and kissed her once behind the ear, where the hair had been, and said it against her skin."
+note = "Line-edit pass 2026-08-08, author sign-off. Reader-protected or load-bearing: a-small=the chapter's spine figure named by all five cold readers; learn:23 quoted verbatim by fable-5; began-to:31 aspect correct (interrupted mid-fold); filter-verbs 55/81/85/119 are perception-as-content (blind against his back, hearing her own mouth); the-way 31/121 reader-quoted similes, 97 designed front-hall callback, 101 false positive (idiom); there-was-were all deliberate or dialogue; warm all load-bearing after the :91 reflex use was cut."
+
+[[ok]]
+fp   = "6a75c11c1f70"
+rule = "the-way"
+file = "scenes/recognized-method.md"
+text = "The words were coming now without her choosing them, the order all wrong, the way it had been replaying for two nights in no order at all."
+note = "Line-edit pass 2026-08-08, author sign-off. Reader-protected or load-bearing: a-small=the chapter's spine figure named by all five cold readers; learn:23 quoted verbatim by fable-5; began-to:31 aspect correct (interrupted mid-fold); filter-verbs 55/81/85/119 are perception-as-content (blind against his back, hearing her own mouth); the-way 31/121 reader-quoted similes, 97 designed front-hall callback, 101 false positive (idiom); there-was-were all deliberate or dialogue; warm all load-bearing after the :91 reflex use was cut."
+
+[[ok]]
+fp   = "70e38edacc52"
+rule = "the-way"
+file = "scenes/recognized-method.md"
+text = "Not took it as in accepted it; she hadn't offered it; he simply lifted it away from where it was sliding, the way you take a glass from someone about to drop it, and his other hand came to her forearm and brought her back upright out of the fold she'd started to make of herself, so that she was standing again, level, too tall, with nothing in her hands."
+note = "Line-edit pass 2026-08-08, author sign-off. Reader-protected or load-bearing: a-small=the chapter's spine figure named by all five cold readers; learn:23 quoted verbatim by fable-5; began-to:31 aspect correct (interrupted mid-fold); filter-verbs 55/81/85/119 are perception-as-content (blind against his back, hearing her own mouth); the-way 31/121 reader-quoted similes, 97 designed front-hall callback, 101 false positive (idiom); there-was-were all deliberate or dialogue; warm all load-bearing after the :91 reflex use was cut."
+
+[[ok]]
+fp   = "7205c3accd34"
+rule = "the-way"
+file = "scenes/recognized-method.md"
+text = "His left hand, warm and wet from the dishwater, open and flat across the curve of her where the shirt had ridden all the way up and there was only the cotton of her underwear and then nothing."
+note = "Line-edit pass 2026-08-08, author sign-off. Reader-protected or load-bearing: a-small=the chapter's spine figure named by all five cold readers; learn:23 quoted verbatim by fable-5; began-to:31 aspect correct (interrupted mid-fold); filter-verbs 55/81/85/119 are perception-as-content (blind against his back, hearing her own mouth); the-way 31/121 reader-quoted similes, 97 designed front-hall callback, 101 false positive (idiom); there-was-were all deliberate or dialogue; warm all load-bearing after the :91 reflex use was cut."
+
+[[ok]]
+fp   = "bbaa3d0e5ecb"
+rule = "the-way"
+file = "scenes/recognized-method.md"
+text = "It came around and settled on her fully, all of it, the way it had in the front hall, and she was suddenly aware of her bare legs and the shirt and her own laughing open mouth."
+note = "Line-edit pass 2026-08-08, author sign-off. Reader-protected or load-bearing: a-small=the chapter's spine figure named by all five cold readers; learn:23 quoted verbatim by fable-5; began-to:31 aspect correct (interrupted mid-fold); filter-verbs 55/81/85/119 are perception-as-content (blind against his back, hearing her own mouth); the-way 31/121 reader-quoted similes, 97 designed front-hall callback, 101 false positive (idiom); there-was-were all deliberate or dialogue; warm all load-bearing after the :91 reflex use was cut."
+
+[[ok]]
+fp   = "401d5a682440"
+rule = "there-was-were"
+file = "scenes/recognized-method.md"
+text = "His left hand, warm and wet from the dishwater, open and flat across the curve of her where the shirt had ridden all the way up and there was only the cotton of her underwear and then nothing."
+note = "Line-edit pass 2026-08-08, author sign-off. Reader-protected or load-bearing: a-small=the chapter's spine figure named by all five cold readers; learn:23 quoted verbatim by fable-5; began-to:31 aspect correct (interrupted mid-fold); filter-verbs 55/81/85/119 are perception-as-content (blind against his back, hearing her own mouth); the-way 31/121 reader-quoted similes, 97 designed front-hall callback, 101 false positive (idiom); there-was-were all deliberate or dialogue; warm all load-bearing after the :91 reflex use was cut."
+
+[[ok]]
+fp   = "9339bf7bf0d0"
+rule = "there-was-were"
+file = "scenes/recognized-method.md"
+text = "Her nipples drew up tight, to aching points, so fast and so hard it was nearly pain, and she felt them stand against the thin worn cotton where there was nothing under it to hide them."
+note = "Line-edit pass 2026-08-08, author sign-off. Reader-protected or load-bearing: a-small=the chapter's spine figure named by all five cold readers; learn:23 quoted verbatim by fable-5; began-to:31 aspect correct (interrupted mid-fold); filter-verbs 55/81/85/119 are perception-as-content (blind against his back, hearing her own mouth); the-way 31/121 reader-quoted similes, 97 designed front-hall callback, 101 false positive (idiom); there-was-were all deliberate or dialogue; warm all load-bearing after the :91 reflex use was cut."
+
+[[ok]]
+fp   = "b234d5a0599d"
+rule = "there-was-were"
+file = "scenes/recognized-method.md"
+text = "So she surfaced late, to the sound of him already up and quiet in the next room, early riser that he was, and she lay there one warm second before the morning arrived all at once: the class, the drive, the fact that she could not walk into a lecture hall in a Saturday-night dress, that she would have to fly to the dorm first and change, and that there was no time, no time at all."
+note = "Line-edit pass 2026-08-08, author sign-off. Reader-protected or load-bearing: a-small=the chapter's spine figure named by all five cold readers; learn:23 quoted verbatim by fable-5; began-to:31 aspect correct (interrupted mid-fold); filter-verbs 55/81/85/119 are perception-as-content (blind against his back, hearing her own mouth); the-way 31/121 reader-quoted similes, 97 designed front-hall callback, 101 false positive (idiom); there-was-were all deliberate or dialogue; warm all load-bearing after the :91 reflex use was cut."
+
+[[ok]]
+fp   = "bfdb6c2b41dc"
+rule = "there-was-were"
+file = "scenes/recognized-method.md"
+text = "There was no edge in it."
+note = "Line-edit pass 2026-08-08, author sign-off. Reader-protected or load-bearing: a-small=the chapter's spine figure named by all five cold readers; learn:23 quoted verbatim by fable-5; began-to:31 aspect correct (interrupted mid-fold); filter-verbs 55/81/85/119 are perception-as-content (blind against his back, hearing her own mouth); the-way 31/121 reader-quoted similes, 97 designed front-hall callback, 101 false positive (idiom); there-was-were all deliberate or dialogue; warm all load-bearing after the :91 reflex use was cut."
+
+[[ok]]
+fp   = "e2ffa0156afa"
+rule = "there-was-were"
+file = "scenes/recognized-method.md"
+text = "\"There was a girl,\" she said."
+note = "Line-edit pass 2026-08-08, author sign-off. Reader-protected or load-bearing: a-small=the chapter's spine figure named by all five cold readers; learn:23 quoted verbatim by fable-5; began-to:31 aspect correct (interrupted mid-fold); filter-verbs 55/81/85/119 are perception-as-content (blind against his back, hearing her own mouth); the-way 31/121 reader-quoted similes, 97 designed front-hall callback, 101 false positive (idiom); there-was-were all deliberate or dialogue; warm all load-bearing after the :91 reflex use was cut."
+
+[[ok]]
+fp   = "1af67466101f"
+rule = "warm"
+file = "scenes/recognized-method.md"
+text = "His left hand, warm and wet from the dishwater, open and flat across the curve of her where the shirt had ridden all the way up and there was only the cotton of her underwear and then nothing."
+note = "Line-edit pass 2026-08-08, author sign-off. Reader-protected or load-bearing: a-small=the chapter's spine figure named by all five cold readers; learn:23 quoted verbatim by fable-5; began-to:31 aspect correct (interrupted mid-fold); filter-verbs 55/81/85/119 are perception-as-content (blind against his back, hearing her own mouth); the-way 31/121 reader-quoted similes, 97 designed front-hall callback, 101 false positive (idiom); there-was-were all deliberate or dialogue; warm all load-bearing after the :91 reflex use was cut."
+
+[[ok]]
+fp   = "1c22da4eb773"
+rule = "warm"
+file = "scenes/recognized-method.md"
+text = "He took her face in both hands, warm, and tipped it down a little, because he had to tip it down now, and looked at her."
+note = "Line-edit pass 2026-08-08, author sign-off. Reader-protected or load-bearing: a-small=the chapter's spine figure named by all five cold readers; learn:23 quoted verbatim by fable-5; began-to:31 aspect correct (interrupted mid-fold); filter-verbs 55/81/85/119 are perception-as-content (blind against his back, hearing her own mouth); the-way 31/121 reader-quoted similes, 97 designed front-hall callback, 101 false positive (idiom); there-was-were all deliberate or dialogue; warm all load-bearing after the :91 reflex use was cut."
+
+[[ok]]
+fp   = "326ab107b56d"
+rule = "warm"
+file = "scenes/recognized-method.md"
+text = "So she surfaced late, to the sound of him already up and quiet in the next room, early riser that he was, and she lay there one warm second before the morning arrived all at once: the class, the drive, the fact that she could not walk into a lecture hall in a Saturday-night dress, that she would have to fly to the dorm first and change, and that there was no time, no time at all."
+note = "Line-edit pass 2026-08-08, author sign-off. Reader-protected or load-bearing: a-small=the chapter's spine figure named by all five cold readers; learn:23 quoted verbatim by fable-5; began-to:31 aspect correct (interrupted mid-fold); filter-verbs 55/81/85/119 are perception-as-content (blind against his back, hearing her own mouth); the-way 31/121 reader-quoted similes, 97 designed front-hall callback, 101 false positive (idiom); there-was-were all deliberate or dialogue; warm all load-bearing after the :91 reflex use was cut."
+
+[[ok]]
+fp   = "8a00277d3f9d"
+rule = "warm"
+file = "scenes/recognized-method.md"
+text = "Inside it was warm and low-lit and smelled of him and of something he'd cooked earlier, and the ordinary domestic fact of that, the fact that he'd been here living his evening while she sat in the car working her buckles, steadied her enough to find the top of the speech again."
+note = "Line-edit pass 2026-08-08, author sign-off. Reader-protected or load-bearing: a-small=the chapter's spine figure named by all five cold readers; learn:23 quoted verbatim by fable-5; began-to:31 aspect correct (interrupted mid-fold); filter-verbs 55/81/85/119 are perception-as-content (blind against his back, hearing her own mouth); the-way 31/121 reader-quoted similes, 97 designed front-hall callback, 101 false positive (idiom); there-was-were all deliberate or dialogue; warm all load-bearing after the :91 reflex use was cut."
+
+[[ok]]
+fp   = "c42f6e9826a5"
+rule = "warm"
+file = "scenes/recognized-method.md"
+text = "Fingers dug in exactly where she couldn't bear it, a hand that knew what it was doing to a ticklish sleep-warm body; she shrieked and folded and twisted away from it laughing, helpless, batting at him."
+note = "Line-edit pass 2026-08-08, author sign-off. Reader-protected or load-bearing: a-small=the chapter's spine figure named by all five cold readers; learn:23 quoted verbatim by fable-5; began-to:31 aspect correct (interrupted mid-fold); filter-verbs 55/81/85/119 are perception-as-content (blind against his back, hearing her own mouth); the-way 31/121 reader-quoted similes, 97 designed front-hall callback, 101 false positive (idiom); there-was-were all deliberate or dialogue; warm all load-bearing after the :91 reflex use was cut."
+
+[[ok]]
+fp   = "f2ceabfebf8a"
+rule = "warm"
+file = "scenes/recognized-method.md"
+text = "Two nights of no sleep had been paid back all at once and left her thick and slow and warm, and her body did not so much wake as agree to be awake."
+note = "Line-edit pass 2026-08-08, author sign-off. Reader-protected or load-bearing: a-small=the chapter's spine figure named by all five cold readers; learn:23 quoted verbatim by fable-5; began-to:31 aspect correct (interrupted mid-fold); filter-verbs 55/81/85/119 are perception-as-content (blind against his back, hearing her own mouth); the-way 31/121 reader-quoted similes, 97 designed front-hall callback, 101 false positive (idiom); there-was-were all deliberate or dialogue; warm all load-bearing after the :91 reflex use was cut."
 
 [[ok]]
 fp   = "da2b2a455c6d"
