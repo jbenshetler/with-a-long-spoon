@@ -152,13 +152,14 @@ load-bearing; most of what passes through a chapter is scenery. Judge which is w
 from what you have actually read. Keeping everything is not a stronger memory — it
 crowds out the things that matter and is how a ledger starts shedding principals.
 
-- **Principals** — the small set of characters the book is *about*: POV characters,
-  anyone recurring across many chapters, and anyone whose **function** drives other
-  people's behaviour even if they rarely appear or never appear on the page at all.
-  Keep these in full: identity, **gender as established on the page** (fixed the
-  moment you meet them, never mutating), and how they have changed. **Never drop,
-  merge, or mutate a principal.** If the book later reveals an established fact was
-  wrong, record the *revelation* — never quietly lose it.
+- **Principals** — the small set of characters established by the jacket, the page,
+  or the prior reader-state: POV characters, recurring people, and anyone whose
+  established function drives other behaviour. **Never introduce a principal from an
+  implied cast or outside knowledge.** Once a principal is in the prior state, keep
+  their identity, **gender as established on the page** (fixed the moment you meet
+  them, never mutating), and change over time. **Never drop, merge, or mutate an
+  established principal.** If the book later reveals an established fact was wrong,
+  record the *revelation* — never quietly lose it.
 - **Relationship ledger** — for each pair of principals, and for the protagonist
   alone with themselves: **what is new or changed in this chapter, and nothing else.**
   One or two lines each.

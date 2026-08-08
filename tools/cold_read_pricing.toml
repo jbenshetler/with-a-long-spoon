@@ -1,5 +1,5 @@
-# Cold-read OpenAI pricing — USD per 1,000,000 tokens.
-# Read by tools/cold_read_openai.py via stdlib tomllib (Python >= 3.11).
+# Cold-read direct-OpenAI pricing — USD per 1,000,000 tokens.
+# Read by tools/cold_read.py via stdlib tomllib (Python >= 3.11).
 #
 # Reasoning tokens are billed AS output tokens, so there is no separate
 # "reasoning" rate — put the reasoning price into `output`.

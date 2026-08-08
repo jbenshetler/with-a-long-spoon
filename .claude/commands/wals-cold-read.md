@@ -76,9 +76,8 @@ as the output subdirectory name — it must match the convention every harness u
   anything unrecognized): **stop.** This harness can only spawn Claude models. Tell
   the author to run that model in the external harness, which must write to
   `reviews/cold-read/<id>/` following `reviews/cold-read/SPEC.md`. Do not attempt it.
-  - **OpenAI models** (`gpt-5.5`, `gpt-5.6-sol`, …) have a built-in external harness:
-    use **`/wals-cold-read-openai`**, which calls the OpenAI Responses API directly
-    (`tools/cold_read_openai.py`, run via `uv`) with a hard per-scene dollar budget.
+  - **Provider models** (`gpt-*`, OpenRouter model slugs, …) have a built-in external
+    harness: use **`/wals-cold-read-provider`**, which calls `tools/cold_read.py`.
 - If `--model` is missing entirely: **stop** and ask for it (e.g.
   `--model claude-opus-4-8`) — there is no default, because the id is the shared key
   that keeps every harness's output aligned.
@@ -222,7 +221,16 @@ output**, so do NOT parallelize:
    next scene.** Halt the entire run, report which scene tripped it and the
    `tool_uses` count, and let the author decide. A clean run is `tool_uses: 0` on
    every scene.
-5. On a clean return, the subagent gives two sections: `### Reader reaction` and
+5. **Retention gate — hard retry.** Before writing the review, compare the candidate
+   carry-forward with the prior carry-forward using the same rule as
+   `tools/cold_read_batch.py::check_retention`: only principals already established in
+   the prior state are protected; unseen cast names must not be invented; an established
+   principal, relationship ledger, or "what I know that they don't" ledger must not be
+   silently lost. On a violation, re-spawn this same chapter up to the command's normal
+   three attempts with the specific lost items named. If it still fails, write the review
+   but record the retention warning in the run report; never fabricate a replacement
+   memory.
+6. On a clean return, the subagent gives two sections: `### Reader reaction` and
    `### Carry-forward state`. **If the target review file already exists** (a
    `--fresh` regeneration), don't Read it just to satisfy an overwrite — check
    `git status --porcelain -- reviews/cold-read/<id>/<slug>.md`: if the file is
@@ -244,8 +252,7 @@ output**, so do NOT parallelize:
 
    <the subagent's Carry-forward state, verbatim>
    ```
-
-6. That written carry-forward is the input to the next target. Continue.
+7. That written carry-forward is the input to the next chapter. Continue.
 
 ## Step 5 — Synthesis (multi-scene runs only)
 

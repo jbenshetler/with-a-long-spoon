@@ -63,10 +63,52 @@ import cold_read_batch
 class _Sandbox:
     read_only = "read-only"
 
+class _Responses:
+    def create(self, **kwargs):
+        self.kwargs = kwargs
+        usage = types.SimpleNamespace(
+            input_tokens=10,
+            output_tokens=20,
+            total_tokens=30,
+            output_tokens_details=None,
+        )
+        return types.SimpleNamespace(
+            output_text="### Reader reaction\n\nFine\n\n### Carry-forward state\n\nRemembered",
+            usage=usage,
+            status="completed",
+            id="response-1",
+        )
+
+
+
+
+class _ChatCompletions:
+    def create(self, **kwargs):
+        self.kwargs = kwargs
+        usage = types.SimpleNamespace(prompt_tokens=10, completion_tokens=20, total_tokens=30)
+        choice = types.SimpleNamespace(
+            message=types.SimpleNamespace(content="### Reader reaction\n\nFine\n\n### Carry-forward state\n\nRemembered"),
+            finish_reason="stop",
+        )
+        return types.SimpleNamespace(id="chat-1", usage=usage, choices=[choice])
+
+
+class _Chat:
+    def __init__(self):
+        self.completions = _ChatCompletions()
+class _OpenAI:
+    last = None
+
+    def __init__(self, **kwargs):
+        self.kwargs = kwargs
+        self.responses = _Responses()
+        self.chat = _Chat()
+        _OpenAI.last = self
+
 
 class CodexAdapterTests(unittest.TestCase):
     def setUp(self):
-        self.module = importlib.import_module("cold_read_openai")
+        self.module = importlib.import_module("cold_read")
 
     def test_subscription_adapter_isolated_and_reports_unknown_cost(self):
         fake_sdk = types.SimpleNamespace(Codex=_Codex, Sandbox=_Sandbox)
@@ -100,6 +142,22 @@ class CodexAdapterTests(unittest.TestCase):
             cold_read_batch.check_retention("Cassie", "### Who's who\n\n- **Pace**", principals),
             ["dropped PRINCIPAL: cassie"],
         )
+
+    def test_openrouter_uses_compatible_endpoint_and_token_cap(self):
+        fake_openai = types.SimpleNamespace(OpenAI=_OpenAI)
+        with patch.dict(sys.modules, {"openai": fake_openai}):
+            agent_fn = self.module.make_openrouter_agent_fn(
+                system_prompt="blind-reader instructions",
+                effort="none",
+                timeout=30,
+                max_output_tokens=4000,
+                api_key="router-token",
+            )
+            result = agent_fn(prompt="chapter text", model="anthropic/claude-sonnet-4", label="label")
+            self.assertEqual(_OpenAI.last.kwargs["base_url"], "https://openrouter.ai/api/v1")
+            self.assertEqual(_OpenAI.last.kwargs["api_key"], "router-token")
+            self.assertEqual(_OpenAI.last.chat.completions.kwargs["max_tokens"], 4000)
+            self.assertIsNone(result["usage"]["cost"])
 
 
 

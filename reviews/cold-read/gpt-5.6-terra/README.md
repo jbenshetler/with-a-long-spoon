@@ -33,7 +33,7 @@ See `../SPEC.md` ("Model substitution mid-run") for the general rule.
 
 ## Provenance
 
-- Routed through the **OpenAI API directly** (`tools/cold_read_openai.py`), not
+- Routed through the **OpenAI API directly** (`tools/cold_read.py`), not
   OpenRouter. Pricing compared at $2/$4 per 1M (OpenAI) vs $1/$6 (OpenRouter);
   the corpus runs ~1.3–1.7:1 input:output, below the 2:1 break-even, so direct
   is both cheaper and needs no Chat Completions port.

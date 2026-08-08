@@ -70,6 +70,16 @@ Both `##` sections are required, in this order, with these exact headings.
 - The book's opening scene has no predecessor → the reader is told it is opening the
   book cold (empty prior state).
 
+### Retention invariant
+
+Every harness MUST preserve established reader memory without preloading an unseen
+cast. A character becomes a protected principal only after the jacket, page, or prior
+carry-forward establishes them. The next state MUST retain every such principal, the
+relationship ledger, and the "what I know that they don't" ledger; it MUST NOT invent a
+principal from an implied cast list or harness-side canon. On a retention failure,
+retry the same chapter with the specific loss named. After configured retries, write a
+durable warning rather than fabricating memory.
+
 ### Model substitution mid-run (the sanctioned exception)
 
 A run may lose its model — budget exhausted, model retired, access pulled. Restarting

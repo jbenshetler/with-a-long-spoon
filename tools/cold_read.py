@@ -1,22 +1,20 @@
+#!/usr/bin/env -S uv run --script
 # /// script
 # requires-python = ">=3.11"
 # dependencies = ["openai>=1.40", "openai-codex"]
 # ///
-"""OpenAI cold-read harness, built on cold_read_batch.run_batch.
+"""Provider-neutral cold-read harness, built on cold_read_batch.run_batch.
 
-The direct API path keeps the existing dollar-capped Responses API behavior.
-`--auth codex` reuses a ChatGPT subscription session created by the official
-Codex CLI (`codex login`).
+Authentication:
+- `api-key`: direct OpenAI Responses API via OPENAI_API_KEY.
+- `codex`: ChatGPT subscription via an existing `codex login` session.
+- `openrouter`: OpenRouter Responses API via OPENROUTER_API_KEY.
 
-Subscription calls have no API dollar price or SDK-supported per-turn output
-cap. They record cost as `null`; subscription rate/quota enforcement remains
-with Codex. They run in an empty temporary working directory with a read-only
-sandbox: the blind reader receives only its supplied prompt and cannot inspect
-this repo.
-RUN (never pip — uv resolves the deps in the header above):
-  OPENAI_API_KEY=... uv run tools/cold_read_openai.py --model gpt-5.5 --scope fall
-  codex login
-  uv run tools/cold_read_openai.py --auth codex --model gpt-5.6-terra --scope the-bench
+RUN:
+  tools/cold_read.py --auth codex --model gpt-5.6-terra --scope the-bench
+  OPENAI_API_KEY=... tools/cold_read.py --auth api-key --model gpt-5.5 --scope fall
+  OPENROUTER_API_KEY=... tools/cold_read.py --auth openrouter \
+    --model anthropic/claude-sonnet-4 --max-output-tokens 4000 --scope the-bench
 """
 from __future__ import annotations
 
@@ -96,21 +94,18 @@ def resolve_scenes(scope: str):
     raise SystemExit(f"unknown scope/slug: {scope} (use 'fall', a slug, or 'a..b')")
 
 
-def make_agent_fn(*, system_prompt, pricing, effort, budget_usd, timeout,
-                  max_output_tokens=None):
-    """Returns agent_fn(prompt, model, label) -> {output, id, usage} calling the
-    Responses API with a hard max_output_tokens cap.
-
-    The cap is the tighter of the dollar-derived bound and an explicit
-    --max-output-tokens. With no pricing (subscription arm) the explicit cap is
-    the only guard, and load_pricing() has already refused if neither exists.
-    """
+def make_api_agent_fn(*, system_prompt, pricing, effort, budget_usd, timeout,
+                      max_output_tokens=None, api_key=None, base_url=None):
+    """Return an OpenAI-compatible Responses API adapter with a hard token cap."""
     from openai import OpenAI
 
-    # max_retries=0: the SDK retries transient errors (incl. timeouts) up to 2x by
-    # default, which would both blow the --timeout budget and silently re-issue
-    # expensive calls behind our own --max-attempts guard. We own retry policy.
-    client = OpenAI(timeout=timeout, max_retries=0)
+    # We own retry policy; SDK retries would bypass batch-level attempt accounting.
+    client = OpenAI(
+        api_key=api_key,
+        base_url=base_url,
+        timeout=timeout,
+        max_retries=0,
+    )
     in_per_tok = pricing["input"] / 1_000_000 if pricing else None
     out_per_tok = pricing["output"] / 1_000_000 if pricing else None
 
@@ -161,6 +156,58 @@ def make_agent_fn(*, system_prompt, pricing, effort, budget_usd, timeout,
             "incomplete": getattr(resp, "status", None) == "incomplete",
         }
         return {"output": text, "id": getattr(resp, "id", label), "usage": usage}
+    return agent_fn
+
+def make_openrouter_agent_fn(*, system_prompt, effort, timeout, max_output_tokens, api_key):
+    """Return an OpenRouter Chat Completions adapter with a mandatory token cap."""
+    from openai import OpenAI
+
+    client = OpenAI(
+        api_key=api_key,
+        base_url="https://openrouter.ai/api/v1",
+        timeout=timeout,
+        max_retries=0,
+    )
+
+    def agent_fn(*, prompt, model, label):
+        kwargs = {
+            "model": model,
+            "messages": [
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": prompt},
+            ],
+            "max_tokens": max_output_tokens,
+        }
+        if effort and effort != "none":
+            kwargs["reasoning_effort"] = effort
+        t0 = time.time()
+        response = client.chat.completions.create(**kwargs)
+        duration_ms = (time.time() - t0) * 1000.0
+        usage = response.usage
+        in_tok = getattr(usage, "prompt_tokens", 0) or 0
+        out_tok = getattr(usage, "completion_tokens", 0) or 0
+        text = (response.choices[0].message.content or "").strip()
+        return {
+            "output": text,
+            "id": getattr(response, "id", None) or label,
+            "usage": {
+                "input": in_tok,
+                "output": out_tok,
+                "reasoningTokens": 0,
+                "totalTokens": getattr(usage, "total_tokens", 0) or (in_tok + out_tok),
+                "cacheRead": 0,
+                "cacheWrite": 0,
+                "promptTokens": in_tok,
+                "nonMessageTokens": 0,
+                "cost": None,
+                "duration_ms": duration_ms,
+                "turns": 1,
+                "max_output_tokens": max_output_tokens,
+                "incomplete": getattr(response.choices[0], "finish_reason", None) == "length",
+            },
+        }
+
+    return agent_fn
 def make_codex_agent_fn(*, system_prompt, effort):
     """Return a subscription-backed agent function and its resource cleanup.
 
@@ -230,10 +277,10 @@ def make_codex_agent_fn(*, system_prompt, effort):
 
 
 def main():
-    ap = argparse.ArgumentParser(description="OpenAI cold-read harness.")
+    ap = argparse.ArgumentParser(description="Provider-neutral cold-read harness.")
     ap.add_argument(
         "--auth",
-        choices=["api-key", "codex"],
+        choices=["api-key", "codex", "openrouter"],
         default="api-key",
         help="authentication backend (default: api-key)",
     )
@@ -256,7 +303,7 @@ def main():
     ap.add_argument("--price-in", type=float, default=None, help="override API input price (USD/1M tokens)")
     ap.add_argument("--price-out", type=float, default=None, help="override API output price (USD/1M tokens)")
     ap.add_argument("--max-output-tokens", type=int, default=None,
-                    help="hard direct-API per-call output+reasoning cap; not supported by Codex subscription mode.")
+                    help="hard direct/OpenRouter per-call output cap; unsupported by Codex subscription mode.")
     ap.add_argument(
         "--allow-volume-one-rewrite",
         action="store_true",
@@ -268,10 +315,26 @@ def main():
     args = ap.parse_args()
 
     if args.auth == "api-key":
-        if not os.environ.get("OPENAI_API_KEY"):
+        api_key = os.environ.get("OPENAI_API_KEY")
+        if not api_key:
             raise SystemExit("OPENAI_API_KEY not set in the environment.")
         budget_usd = args.budget_usd if args.budget_usd is not None else 2.0
         pricing = load_pricing(args.model, args.price_in, args.price_out, args.max_output_tokens)
+        base_url = None
+    elif args.auth == "openrouter":
+        api_key = os.environ.get("OPENROUTER_API_KEY")
+        if not api_key:
+            raise SystemExit("OPENROUTER_API_KEY not set in the environment.")
+        if args.budget_usd is not None or args.price_in is not None or args.price_out is not None:
+            raise SystemExit(
+                "--budget-usd/--price-in/--price-out are direct OpenAI API options; "
+                "OpenRouter requires --max-output-tokens."
+            )
+        if not args.max_output_tokens:
+            raise SystemExit("--max-output-tokens is required with --auth openrouter.")
+        budget_usd = None
+        pricing = None
+        base_url = "https://openrouter.ai/api/v1"
     else:
         if args.price_in is not None or args.price_out is not None:
             raise SystemExit("--price-in/--price-out apply only to --auth api-key.")
@@ -282,6 +345,8 @@ def main():
                 "--max-output-tokens is not supported by the Codex SDK; "
                 "subscription rate and quota limits are enforced by Codex."
             )
+        api_key = None
+        base_url = None
         budget_usd = None
         pricing = None
 
@@ -301,13 +366,23 @@ def main():
             )
     close = None
     if args.auth == "api-key":
-        agent_fn = make_agent_fn(
+        agent_fn = make_api_agent_fn(
             system_prompt=system_prompt,
             pricing=pricing,
             effort=args.effort,
             budget_usd=budget_usd,
             max_output_tokens=args.max_output_tokens,
             timeout=args.timeout,
+            api_key=api_key,
+            base_url=base_url,
+        )
+    elif args.auth == "openrouter":
+        agent_fn = make_openrouter_agent_fn(
+            system_prompt=system_prompt,
+            effort=args.effort,
+            timeout=args.timeout,
+            max_output_tokens=args.max_output_tokens,
+            api_key=api_key,
         )
     else:
         agent_fn, close = make_codex_agent_fn(
@@ -316,14 +391,18 @@ def main():
         )
 
     print(
-        f"[cold_read_openai] auth={args.auth} model={args.model} id={model_id} "
+        f"[cold_read] auth={args.auth} model={args.model} id={model_id} "
         f"scenes={len(scenes)} effort={args.effort} "
         + (
             f"budget=${budget_usd:.2f}/scene "
             + (f"price in=${pricing['input']}/1M out=${pricing['output']}/1M "
                if pricing else f"UNPRICED (token-guarded, cap={args.max_output_tokens}) ")
             if args.auth == "api-key"
-            else "subscription (rate/quota limited by Codex, cost=unavailable) "
+            else (
+                f"OpenRouter (token-guarded, cap={args.max_output_tokens}, cost=unavailable) "
+                if args.auth == "openrouter"
+                else "Codex subscription (rate/quota limited by Codex, cost=unavailable) "
+            )
         )
         + f"resume={not args.fresh} max_attempts={args.max_attempts}",
         flush=True,
@@ -337,7 +416,11 @@ def main():
             resume=not args.fresh,
             max_attempts=args.max_attempts,
             budget_usd=budget_usd,
-            provider_label="OpenAI API" if args.auth == "api-key" else "Codex subscription",
+            provider_label=(
+                "OpenAI API" if args.auth == "api-key"
+                else "OpenRouter" if args.auth == "openrouter"
+                else "Codex subscription"
+            ),
         )
     finally:
         if close:
