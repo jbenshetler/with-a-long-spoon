@@ -146,3 +146,10 @@ Revise Pace's interiority only so cold readers understand him as caring, hopeful
 - Retained tagged wording outside this hunk: `To him, there it was.`
 - Scores: gpt-5.6-terra Heat 3/3, Romance 2/3; gpt-5.6-sol Heat 3/3, Romance 2/3; gpt-5.5 Heat 3/3, Romance 2/3.
 - Result: all-model floor holds; tagged scene restored before the next trial.
+
+### Matrix C hunk trial 4
+- Hunk: `@@ -29 +29 @@ So. There it was.`
+- Reverted only this hunk to `main`: `He had not known, going in. He had wondered whether the idea would land in her as a transgression or as nothing. Many women would have laughed, or shrugged, or said *maybe someday* in the voice that means never. A few would have said a plain yes and meant it, and they were each their own carnal pleasure. But she had wanted it helplessly, ahead of herself, and that was the same as telling him she'd forbidden it. A wanting she allowed herself was only a wanting. A wanting she'd forbidden was a door. And he was, by some old architecture, a man who could not leave a door like that closed once he'd seen it was there.`
+- Retained tagged wording outside this hunk: `He had not known what the idea might stir in her. He saw the shock in her eyes and felt the hard afterclench around him, a desire too new and bright to have a name yet. The thought flooded him with heat. He felt grateful for the glimpse and wanted the game to give that wanting air in daylight without making her pin it beneath a solemn name.`
+- Scores: gpt-5.6-terra Heat 3/3, Romance 2/3; gpt-5.6-sol Heat 3/3, Romance 2/3; gpt-5.5 Heat 3/3, Romance 2/3.
+- Result: all-model floor holds; tagged scene restored before the next trial.
