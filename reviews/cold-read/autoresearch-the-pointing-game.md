@@ -245,3 +245,7 @@ Revise Pace's interiority only so cold readers understand him as caring, hopeful
 ### Candidate D — softened shared-frame test
 - Frame replacement: `The shape she gave it felt right because she had found a way to say yes without making the wanting stand naked between them. A threesome, with him. He would not have to find her a woman for her transgression. She would find a woman for *theirs*. She was plainly excited about this. He was glad of it.`
 - Purpose: soften Pace’s harmful reading of Randi’s hiding structure as the exact frame he needed to proceed, while retaining the jacket-warranted suspicion. He is glad she appears to have found a way to want this within a shared sexy arrangement; he remains wrong about what that arrangement costs her.
+
+- Authorial decision: accepted as the prose baseline for main. Preserve the research
+  branch and its test history; merge only the scene prose plus regenerated chronology
+  HTML into main.
