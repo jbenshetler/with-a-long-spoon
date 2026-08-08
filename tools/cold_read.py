@@ -206,11 +206,15 @@ def make_openrouter_agent_fn(*, system_prompt, effort, timeout, max_output_token
                 "duration_ms": duration_ms,
                 "turns": 1,
                 "max_output_tokens": max_output_tokens,
-                "incomplete": getattr(response.choices[0], "finish_reason", None) == "length",
+                "incomplete": (
+                    getattr(response.choices[0], "finish_reason", None) == "length"
+                    and "Carry-forward state" not in text
+                ),
             },
         }
-
     return agent_fn
+
+
 def make_codex_agent_fn(*, system_prompt, effort):
     """Return a subscription-backed agent function and its resource cleanup.
 
