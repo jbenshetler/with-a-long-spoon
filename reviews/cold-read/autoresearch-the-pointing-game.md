@@ -38,3 +38,9 @@ Revise Pace's interiority only so cold readers understand him as caring, hopeful
 - Revision applied: Pace's post-coital wondering is now explicitly unbidden; the intimate moment is open rather than unguarded; and he reads her response too eagerly rather than knowingly using an impaired state. His subsequent thoughts now mark his conclusions as his hopeful, fallible readings, make pleasure an experience with no answer required, and make the walk's game an unformed hope for something they make together. The walk no longer frames Randi's responses as evidence that he is gathering, nor the cafeteria pause as a covertly selected observation point; he continues to mistake tentative cues for shared permission and to enjoy the false feeling that he sees her clearly.
 - Preserved: every external action and quoted line, scene order and outcomes, Randi/Vee interiority, sensual material, and the protected first-sight "ungradeable / nothing to grade" passage.
 - Reader status: no reader was rerun in this revision step. The next required gate is Terra's qualitative read; Sol and GPT-5.5 remain deferred until Terra passes.
+
+### Iteration 3 — validation and decision
+- Terra gate: Romance 2/3. It found Pace's tenderness and delight real; the remaining danger was confident misreading, not conscious predation.
+- Cross-model validation: Sol and GPT-5.5 each returned Romance 2/3, with no retention warnings or errors.
+- Sol outcome judge: PASS. Across Terra, Sol, and GPT-5.5, Pace reads as patient, attentive, tender, and sincerely delighted by Randi's pleasure; the unease is the gap between his intent and impact, not a conscious operator/predator reading.
+- Decision: accept Iteration 3. Stop after 3 of the 10 allowed iterations.
