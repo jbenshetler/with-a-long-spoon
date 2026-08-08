@@ -5,24 +5,24 @@
   "generated": 1,
   "skipped": 0,
   "total_cost": null,
-  "total_input": 22192,
-  "total_output": 3823,
-  "total_tokens": 26015,
+  "total_input": 26175,
+  "total_output": 6701,
+  "total_tokens": 32876,
   "per_chapter": [
     {
-      "slug": "standards",
-      "title": "Standards",
+      "slug": "see-you-later",
+      "title": "See You Later",
       "status": "generated",
       "cost": null,
-      "input": 22192,
-      "output": 3823,
-      "totalTokens": 26015,
-      "promptTokens": 22192,
-      "reasoningTokens": 31,
+      "input": 26175,
+      "output": 6701,
+      "totalTokens": 32876,
+      "promptTokens": 26175,
+      "reasoningTokens": 47,
       "cacheRead": 9984,
-      "duration_s": 74.0,
-      "wall_s": 74.2,
-      "path": "reviews/cold-read/gpt-5.6-terra/standards.md"
+      "duration_s": 122.8,
+      "wall_s": 123.0,
+      "path": "reviews/cold-read/gpt-5.6-terra/see-you-later.md"
     }
   ]
 }
