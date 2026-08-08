@@ -1,4 +1,4 @@
-# Cold-read direct-OpenAI pricing — USD per 1,000,000 tokens.
+# Cold-reader model pricing — USD per 1,000,000 tokens.
 # Read by tools/cold_read.py via stdlib tomllib (Python >= 3.11).
 #
 # Reasoning tokens are billed AS output tokens, so there is no separate
@@ -26,3 +26,9 @@ output = 30.00   # reasoning included
 [models."gpt-5.6-terra"]
 input = 2.00
 output = 4.00    # reasoning included
+
+# OpenRouter: MoonshotAI Kimi K3. Source:
+# https://openrouter.ai/models/moonshotai/kimi-k3
+[models."moonshotai/kimi-k3"]
+input = 2.90
+output = 14.00

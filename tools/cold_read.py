@@ -34,6 +34,9 @@ from cold_read_batch import FALL_SCENES, has_valid_review, run_batch  # noqa: E4
 
 AGENT_DEF = REPO / ".claude/agents/blind-reader.md"
 PRICING_TOML = Path(__file__).resolve().parent / "cold_read_pricing.toml"
+MODEL_ALIASES = {
+    "kimi": "moonshotai/kimi-k3",
+}
 
 
 def load_system_prompt() -> str:
@@ -313,6 +316,7 @@ def main():
              "already on disk.",
     )
     args = ap.parse_args()
+    args.model = MODEL_ALIASES.get(args.model, args.model)
 
     if args.auth == "api-key":
         api_key = os.environ.get("OPENAI_API_KEY")
