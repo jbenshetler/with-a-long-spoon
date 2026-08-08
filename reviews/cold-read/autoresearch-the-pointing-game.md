@@ -89,3 +89,10 @@ Revise Pace's interiority only so cold readers understand him as caring, hopeful
 - Retained tagged wording outside this hunk: `The question reached her body before it reached her, and it took her all at once — she came, hard, her sex clenching around him, her legs drawing him in, her arms coming up to lock him against her, far too fast for anything his body was doing to account for it. He kept moving and let her have it. On her face was astonishment, and beneath it something he read, too eagerly, as wanting. Her body had answered before she could make sense of it, or so he believed.`
 - Scores: gpt-5.6-terra Heat 3/3, Romance 2/3; gpt-5.6-sol Heat 3/3, Romance 2/3; gpt-5.5 Heat 3/3, Romance 2/3.
 - Result: romance floor holds; tagged scene restored before the next trial.
+
+### Main-hunk trial 6
+- Hunk: `@@ -27 +27 @@ The question reached her body before it reached her, and it took her all at once`
+- Reverted only this hunk to `main`: `So. There it was.`
+- Retained tagged wording outside this hunk: `To him, there it was.`
+- Scores: gpt-5.6-terra Heat 3/3, Romance 2/3; gpt-5.6-sol Heat 3/3, Romance 2/3; gpt-5.5 Heat 3/3, Romance 2/3.
+- Result: romance floor holds; tagged scene restored before the next trial.
