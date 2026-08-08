@@ -5,23 +5,23 @@
   "generated": 1,
   "skipped": 0,
   "total_cost": null,
-  "total_input": 27316,
-  "total_output": 8366,
-  "total_tokens": 35682,
+  "total_input": 27411,
+  "total_output": 8215,
+  "total_tokens": 35626,
   "per_chapter": [
     {
       "slug": "the-pointing-game",
       "title": "The Pointing Game",
       "status": "generated",
       "cost": null,
-      "input": 27316,
-      "output": 8366,
-      "totalTokens": 35682,
-      "promptTokens": 27316,
-      "reasoningTokens": 46,
+      "input": 27411,
+      "output": 8215,
+      "totalTokens": 35626,
+      "promptTokens": 27411,
+      "reasoningTokens": 44,
       "cacheRead": 9984,
-      "duration_s": 185.5,
-      "wall_s": 185.7,
+      "duration_s": 202.3,
+      "wall_s": 202.5,
       "path": "reviews/cold-read/gpt-5.6-sol/the-pointing-game.md"
     }
   ]
