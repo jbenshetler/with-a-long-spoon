@@ -1018,3 +1018,35 @@ the drumroll is a likelier culprit than the line.*
 - `:9` **"as a uniform helps"** — recast from "the way a uniform helps" at
   this review. Sibling at `the-pointing-game:95` ("athleisure that read like a
   uniform"); different work in each, IGNORE-grade.
+
+59. **The held-past-the-errand figure — PROTECTED at `recognized-method`; and
+    a census can UNDERCOUNT.** Found only because the author asked whether
+    "a beat past" appeared in this chapter — the editor missed it, the review
+    missed it, and **the harvester missed it, because the harvest matches
+    strings and the recurrence is a figure.** #2 records "8 found / 7
+    chapters" from a string match on *a beat past*; this chapter carries three
+    instances of the same move wearing different clothes:
+    `:31` "a half-second longer over the silk than the errand needed",
+    `:121` "holding it there a second" and "as long as she could afford to and
+    a few seconds past that". **The real book-wide set is larger than eight by
+    an unknown amount, and #2's count should not be read as the inventory.**
+
+    *Companion to the governing rule at the top of this file: a census can
+    overstate an echo (the failure that produced the retired quotas) and it can
+    also hide one. A string-match harvest is evidence about strings, not about
+    figures. When a figure is in question, look for the move, not the wording.*
+
+    **Ruling (author, 2026-08-08): all three stand.** `:31` and `:121` frame
+    the chapter with the same tell — Pace holding something of hers past the
+    errand, the scarf at the door and her hair at the end — which is the
+    possession note claude-fable-5 caught unprompted ("*keep* is another
+    possession-word he keeps choosing"). The doubling inside `:121`'s closing
+    sentence is the sentence's argument, not a stutter: he holds past the
+    errand, she holds past what she can afford. Cutting either half makes it
+    one person's gesture instead of a shared one.
+
+    **Open at the end-of-pass harvest:** re-harvest this figure by *move*
+    rather than by phrase before #2 is ruled as a set. Candidate shapes —
+    "a beat past", "a half-second longer than X needed", "a few seconds past
+    that", "longer than the errand needed", "held it there a second". Whether
+    the set is too large is **still unruled**; the author has not seen it.
