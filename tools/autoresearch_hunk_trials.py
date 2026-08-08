@@ -44,12 +44,14 @@ def score(model: str) -> tuple[int, int]:
     return int(heat.group(1)), int(romance.group(1))
 
 
-def append_log(log: Path, trial: dict[str, str], outcomes: dict[str, tuple[int, int]]) -> None:
+def append_log(
+    log: Path, matrix: str, trial: dict[str, str], outcomes: dict[str, tuple[int, int]]
+) -> None:
     keep = all(romance >= 2 for _, romance in outcomes.values())
     old = trial["old"].replace("\n", " ")
     new = trial["new"].replace("\n", " ")
     lines = [
-        f"\n### Main-hunk trial {trial['number']}\n",
+        f"\n### {matrix} hunk trial {trial['number']}\n",
         f"- Hunk: `{trial['header']}`\n",
         f"- Reverted only this hunk to `main`: `{old}`\n",
         f"- Retained tagged wording outside this hunk: `{new}`\n",
@@ -62,21 +64,21 @@ def append_log(log: Path, trial: dict[str, str], outcomes: dict[str, tuple[int, 
         file.writelines(lines)
 
 
-def commit_trial(number: str, log: Path) -> None:
+def commit_trial(matrix: str, number: str, log: Path) -> None:
     paths = [str(log), *[
         str(Path("reviews") / "cold-read" / model / filename)
         for model in MODELS
         for filename in ("the-pointing-game.md", "BATCH_STATS.json", "BATCH_RUNS.jsonl")
     ]]
     run("git", "add", *paths)
-    run("git", "commit", "-m", f"Record pointing game main-hunk trial {number}")
-
+    run("git", "commit", "-m", f"Record {matrix.lower()} hunk trial {number}")
 
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--tag", required=True)
     parser.add_argument("--log", required=True, type=Path)
     parser.add_argument("--start", type=int, default=1)
+    parser.add_argument("--matrix", required=True, help="stable label for this trial matrix")
     parser.add_argument("--stop", type=int, default=None)
     args = parser.parse_args()
     log = REPO / args.log
@@ -84,9 +86,7 @@ def main() -> None:
     stop = args.stop or len(trials)
 
     for trial in trials[args.start - 1 : stop]:
-        marker = f"### Main-hunk trial {trial['number']}"
-        if marker in log.read_text():
-            continue
+        marker = f"### {args.matrix} hunk trial {trial['number']}"
         scene_path = REPO / SCENE
         outcomes = {}
         try:
@@ -106,8 +106,8 @@ def main() -> None:
                 outcomes[model] = score(model)
         finally:
             run("git", "restore", str(SCENE))
-        append_log(log, trial, outcomes)
-        commit_trial(trial["number"], args.log)
+        append_log(log, args.matrix, trial, outcomes)
+        commit_trial(args.matrix, trial["number"], args.log)
 
 
 if __name__ == "__main__":
