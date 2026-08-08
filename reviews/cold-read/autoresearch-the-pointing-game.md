@@ -44,3 +44,9 @@ Revise Pace's interiority only so cold readers understand him as caring, hopeful
 - Cross-model validation: Sol and GPT-5.5 each returned Romance 2/3, with no retention warnings or errors.
 - Sol outcome judge: PASS. Across Terra, Sol, and GPT-5.5, Pace reads as patient, attentive, tender, and sincerely delighted by Randi's pleasure; the unease is the gap between his intent and impact, not a conscious operator/predator reading.
 - Decision: accept Iteration 3. Stop after 3 of the 10 allowed iterations.
+
+### Iteration 4 — author-clarification revision record
+- Hypothesis: Pace must read as sexually alive, attentive, and caring rather than merely hopeful or playful. His body-reading is often exact; the durable error is that he mistakes Randi's capacity to participate in and enjoy parts of the game for knowledge of what its events will mean to her emotionally afterward.
+- Revision applied: restored the lusty weight of Pace's private register through the post-coital wanting, the held-back climax, touch, and his bodily response to Randi's wit, taste, nerve, and pleasure. His readings now dwell on specific signals — the afterclench, a hand tightening or flexing, her arrested step and held gaze — while his conclusions explicitly mistake those signals for shared erotic invitation, relief, trust, or mutual play. The walk reads to him as a generous, mutual game with heat and attention, never a plan or proof-gathering exercise.
+- Preserved: every external action and quoted line, chronology, scene order, Randi/Vee interiority, Romance and Heat intent, and the protected "ungradeable / nothing to grade" passage.
+- Reader status: no readers were run in this assigned revision step.
