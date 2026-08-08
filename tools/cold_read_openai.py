@@ -1,43 +1,29 @@
 # /// script
 # requires-python = ">=3.11"
-# dependencies = ["openai>=1.40"]
+# dependencies = ["openai>=1.40", "openai-codex"]
 # ///
-"""Direct-OpenAI cold-read harness (Responses API), built on cold_read_batch.run_batch.
+"""OpenAI cold-read harness, built on cold_read_batch.run_batch.
 
-WHY DIRECT: experiments show OpenAI models do the best cold read; calling the API
-directly (rather than through a router) gives maximum control — reasoning effort and
-a hard max_output_tokens cap.
+The direct API path keeps the existing dollar-capped Responses API behavior.
+`--auth codex` reuses a ChatGPT subscription session created by the official
+Codex CLI (`codex login`).
 
-BLINDNESS PARITY: the system prompt IS the blind-reader agent definition
-(.claude/agents/blind-reader.md, YAML frontmatter stripped) — the exact framing the
-Claude harness bakes in (cover + jacket blurb + "disregard project text / no tools" +
-the two-section output rubric). So output is drop-in comparable per
-reviews/cold-read/SPEC.md, and there is a single source of truth for the reader.
-
-COST SAFETY (the $20-loop guard): --budget-usd is PER SCENE. It is converted into a
-hard `max_output_tokens` cap (output and reasoning are billed together at the output
-rate), so one call physically cannot exceed the budget. After each call the actual
-cost is checked; if it somehow exceeds budget, or the response comes back `incomplete`
-(it hit the cap), the whole batch ABORTS. Retries are OFF by default
-(--max-attempts 1) so a bad scene can't multiply spend.
-
-The invariant is NEVER RUN UNCAPPED — not always know the price. Either guard
-satisfies it: a dollar budget, or --max-output-tokens N (a hard per-call
-output+reasoning cap). Given both, the tighter binds. A model with no price AND
-no token cap is REFUSED. On a subscription-backed arm there is no per-token
-price to convert, so --max-output-tokens is the only guard and is required;
-cost reporting is disabled there (cost is None, not 0).
-
+Subscription calls have no API dollar price or SDK-supported per-turn output
+cap. They record cost as `null`; subscription rate/quota enforcement remains
+with Codex. They run in an empty temporary working directory with a read-only
+sandbox: the blind reader receives only its supplied prompt and cannot inspect
+this repo.
 RUN (never pip — uv resolves the deps in the header above):
-  uv run tools/cold_read_openai.py --model gpt-5.5      --scope fall
-  uv run tools/cold_read_openai.py --model gpt-5.6-sol  --scope the-bench --fresh
-  uv run tools/cold_read_openai.py --model gpt-5.5      --scope the-bench..dear
+  OPENAI_API_KEY=... uv run tools/cold_read_openai.py --model gpt-5.5 --scope fall
+  codex login
+  uv run tools/cold_read_openai.py --auth codex --model gpt-5.6-terra --scope the-bench
 """
 from __future__ import annotations
 
 import argparse
 import os
 import sys
+import tempfile
 import time
 import tomllib
 from pathlib import Path
@@ -65,14 +51,11 @@ def load_system_prompt() -> str:
     return body
 
 
-def load_pricing(model: str, price_in, price_out, max_output_tokens=None) -> dict:
-    """Pricing for the dollar guard, or None when a token guard stands in.
+def load_pricing(model: str, price_in, price_out, max_output_tokens=None) -> dict | None:
+    """Pricing for the direct API dollar guard, if known.
 
-    The invariant is *never run uncapped* — not *always know the price*. A
-    per-call `max_output_tokens` bounds spend just as hard as a dollar budget
-    does, and it is the only guard available on a subscription-backed arm where
-    there is no per-token price to convert. So: a price OR an explicit token cap
-    is required; neither is a refusal.
+    A direct API run without published pricing is permitted only with an
+    explicit output-token cap. Codex subscription runs never call this helper.
     """
     table = {}
     if PRICING_TOML.exists():
@@ -84,7 +67,7 @@ def load_pricing(model: str, price_in, price_out, max_output_tokens=None) -> dic
         entry["output"] = price_out
     if "input" not in entry or "output" not in entry:
         if max_output_tokens:
-            return None  # token-guarded; cost reporting disabled
+            return None
         raise SystemExit(
             f"No pricing for '{model}'. Add it to {PRICING_TOML}, pass "
             f"--price-in/--price-out (USD per 1M tokens), or pass "
@@ -178,31 +161,102 @@ def make_agent_fn(*, system_prompt, pricing, effort, budget_usd, timeout,
             "incomplete": getattr(resp, "status", None) == "incomplete",
         }
         return {"output": text, "id": getattr(resp, "id", label), "usage": usage}
+def make_codex_agent_fn(*, system_prompt, effort):
+    """Return a subscription-backed agent function and its resource cleanup.
 
-    return agent_fn
+    The official Codex CLI owns credential persistence, refresh, and
+    subscription quota enforcement. An empty cwd plus a read-only sandbox
+    protects the blind-reader boundary even though the harness runs from the
+    novel repository.
+    """
+    from openai_codex import Codex, Sandbox
+
+    codex = Codex()
+    workdir = tempfile.TemporaryDirectory(prefix="cold-reader-codex-")
+    account = codex.account(refresh_token=True)
+    if not getattr(account, "account", None):
+        codex.close()
+        workdir.cleanup()
+        raise SystemExit("No reusable Codex OAuth session. Run `codex login` first.")
+
+    def agent_fn(*, prompt, model, label):
+        thread = codex.thread_start(
+            cwd=workdir.name,
+            developer_instructions=system_prompt,
+            model=model,
+            sandbox=Sandbox.read_only,
+        )
+        t0 = time.time()
+        result = thread.run(
+            prompt,
+            cwd=workdir.name,
+            effort=None if effort == "none" else effort,
+            model=model,
+            sandbox=Sandbox.read_only,
+        )
+        duration_ms = (time.time() - t0) * 1000.0
+        if result.error:
+            raise RuntimeError(f"Codex turn failed: {result.error}")
+        text = result.final_response or ""
+        token_usage = getattr(result, "usage", None)
+        total = getattr(token_usage, "total", token_usage)
+        in_tok = getattr(total, "input_tokens", 0) or 0
+        out_tok = getattr(total, "output_tokens", 0) or 0
+        reasoning_tok = getattr(total, "reasoning_output_tokens", 0) or 0
+        total_tok = getattr(total, "total_tokens", 0) or (in_tok + out_tok)
+        usage = {
+            "input": in_tok,
+            "output": out_tok,
+            "reasoningTokens": reasoning_tok,
+            "totalTokens": total_tok,
+            "cacheRead": getattr(total, "cached_input_tokens", 0) or 0,
+            "max_output_tokens": None,
+            "promptTokens": in_tok,
+            "nonMessageTokens": 0,
+            "cost": None,
+            "duration_ms": getattr(result, "duration_ms", None) or duration_ms,
+            "turns": 1,
+            "incomplete": getattr(result, "status", None) == "incomplete",
+        }
+        return {"output": text, "id": getattr(result, "id", None) or label, "usage": usage}
+
+    def close():
+        try:
+            codex.close()
+        finally:
+            workdir.cleanup()
+
+    return agent_fn, close
 
 
 def main():
-    ap = argparse.ArgumentParser(description="Direct-OpenAI cold-read harness (Responses API).")
-    ap.add_argument("--model", required=True, help="OpenAI API model id, e.g. gpt-5.5 / gpt-5.6-sol")
+    ap = argparse.ArgumentParser(description="OpenAI cold-read harness.")
+    ap.add_argument(
+        "--auth",
+        choices=["api-key", "codex"],
+        default="api-key",
+        help="authentication backend (default: api-key)",
+    )
+    ap.add_argument("--model", required=True, help="model id accepted by the selected backend")
     ap.add_argument("--model-id", default=None, help="output dir under reviews/cold-read/ (default: --model)")
     ap.add_argument("--scope", default="fall", help="'fall' | <slug> | <a>..<b> | <a>.. | ..<b>")
-    ap.add_argument("--budget-usd", type=float, default=2.0, help="hard per-scene budget (default $2.00)")
+    ap.add_argument(
+        "--budget-usd",
+        type=float,
+        default=None,
+        help="hard per-scene API budget (default: $2.00 in --auth api-key mode)",
+    )
     ap.add_argument("--effort", default="low", choices=["none", "minimal", "low", "medium", "high"],
                     help="reasoning effort (default low; high turns the reader into a critic)")
-    ap.add_argument("--timeout", type=float, default=600.0, help="per-call request timeout, seconds")
+    ap.add_argument("--timeout", type=float, default=600.0, help="per-call direct API request timeout, seconds")
     ap.add_argument("--max-attempts", type=int, default=3,
                     help="attempts per scene (default 3). A retry appends a FORMAT REMINDER, "
-                         "which self-heals the occasional missing-section response. Still "
-                         "cost-safe: each attempt is budget-capped, and a budget breach aborts "
-                         "immediately without retrying (only parse/transient failures retry).")
+                    "which self-heals the occasional missing-section response.")
     ap.add_argument("--fresh", action="store_true", help="regenerate existing reviews (default: resume/skip)")
-    ap.add_argument("--price-in", type=float, default=None, help="override input price (USD/1M tokens)")
-    ap.add_argument("--price-out", type=float, default=None, help="override output price (USD/1M tokens)")
+    ap.add_argument("--price-in", type=float, default=None, help="override API input price (USD/1M tokens)")
+    ap.add_argument("--price-out", type=float, default=None, help="override API output price (USD/1M tokens)")
     ap.add_argument("--max-output-tokens", type=int, default=None,
-                    help="hard per-call output+reasoning token cap. Combined with --budget-usd "
-                         "the tighter of the two binds. Required when the model has no price "
-                         "(e.g. a subscription-backed arm), where it is the only spend guard.")
+                    help="hard direct-API per-call output+reasoning cap; not supported by Codex subscription mode.")
     ap.add_argument(
         "--allow-volume-one-rewrite",
         action="store_true",
@@ -213,12 +267,26 @@ def main():
     )
     args = ap.parse_args()
 
-    if not os.environ.get("OPENAI_API_KEY"):
-        raise SystemExit("OPENAI_API_KEY not set in the environment.")
+    if args.auth == "api-key":
+        if not os.environ.get("OPENAI_API_KEY"):
+            raise SystemExit("OPENAI_API_KEY not set in the environment.")
+        budget_usd = args.budget_usd if args.budget_usd is not None else 2.0
+        pricing = load_pricing(args.model, args.price_in, args.price_out, args.max_output_tokens)
+    else:
+        if args.price_in is not None or args.price_out is not None:
+            raise SystemExit("--price-in/--price-out apply only to --auth api-key.")
+        if args.budget_usd is not None:
+            raise SystemExit("--budget-usd applies only to --auth api-key; subscription cost is unavailable.")
+        if args.max_output_tokens is not None:
+            raise SystemExit(
+                "--max-output-tokens is not supported by the Codex SDK; "
+                "subscription rate and quota limits are enforced by Codex."
+            )
+        budget_usd = None
+        pricing = None
 
     model_id = args.model_id or args.model
     system_prompt = load_system_prompt()
-    pricing = load_pricing(args.model, args.price_in, args.price_out, args.max_output_tokens)
     scenes = resolve_scenes(args.scope)
 
     if args.fresh and not args.allow_volume_one_rewrite:
@@ -231,33 +299,49 @@ def main():
                 f"opt-in — pass --allow-volume-one-rewrite to proceed, or drop --fresh to "
                 f"resume/skip existing reviews instead."
             )
-    agent_fn = make_agent_fn(
-        system_prompt=system_prompt,
-        pricing=pricing,
-        effort=args.effort,
-        budget_usd=args.budget_usd,
-        max_output_tokens=args.max_output_tokens,
-        timeout=args.timeout,
-    )
+    close = None
+    if args.auth == "api-key":
+        agent_fn = make_agent_fn(
+            system_prompt=system_prompt,
+            pricing=pricing,
+            effort=args.effort,
+            budget_usd=budget_usd,
+            max_output_tokens=args.max_output_tokens,
+            timeout=args.timeout,
+        )
+    else:
+        agent_fn, close = make_codex_agent_fn(
+            system_prompt=system_prompt,
+            effort=args.effort,
+        )
 
     print(
-        f"[cold_read_openai] model={args.model} id={model_id} scenes={len(scenes)} "
-        f"effort={args.effort} budget=${args.budget_usd:.2f}/scene "
-        + (f"price in=${pricing['input']}/1M out=${pricing['output']}/1M "
-           if pricing else f"UNPRICED (token-guarded, cap={args.max_output_tokens}) ")
+        f"[cold_read_openai] auth={args.auth} model={args.model} id={model_id} "
+        f"scenes={len(scenes)} effort={args.effort} "
+        + (
+            f"budget=${budget_usd:.2f}/scene "
+            + (f"price in=${pricing['input']}/1M out=${pricing['output']}/1M "
+               if pricing else f"UNPRICED (token-guarded, cap={args.max_output_tokens}) ")
+            if args.auth == "api-key"
+            else "subscription (rate/quota limited by Codex, cost=unavailable) "
+        )
         + f"resume={not args.fresh} max_attempts={args.max_attempts}",
         flush=True,
     )
-    run_batch(
-        agent_fn=agent_fn,
-        model_selector=args.model,
-        model_id=model_id,
-        scenes=scenes,
-        resume=not args.fresh,
-        max_attempts=args.max_attempts,
-        budget_usd=args.budget_usd,
-        provider_label="OpenAI",
-    )
+    try:
+        run_batch(
+            agent_fn=agent_fn,
+            model_selector=args.model,
+            model_id=model_id,
+            scenes=scenes,
+            resume=not args.fresh,
+            max_attempts=args.max_attempts,
+            budget_usd=budget_usd,
+            provider_label="OpenAI API" if args.auth == "api-key" else "Codex subscription",
+        )
+    finally:
+        if close:
+            close()
 
 
 if __name__ == "__main__":

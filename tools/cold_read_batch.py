@@ -323,21 +323,25 @@ def _load_principals(path=None):
 def check_retention(prior_carry: str, new_carry: str, principals=None):
     """Retention violations (empty = clean).
 
-    Dropping a walk-on is CORRECT behaviour, not a violation — the reader is
-    told to let scenery go. Only the configured principals, the irony ledger
-    and the relationship ledger are protected.
+    A principal becomes protected only after the previous reader-state contains
+    them. Requiring every configured book principal from chapter one invents
+    people before the reader has met them; this check detects only a genuine
+    drop from the carried state.
     """
     problems = []
     if principals is None:
         principals = _load_principals()
     names = {_norm_apos(n) for n in _cast_names(new_carry)}
     blob = _norm_apos(new_carry.lower())
+    prior_blob = _norm_apos(prior_carry.lower())
     missing = []
     for canon, forms in principals.items():
         forms = [_norm_apos(f) for f in forms]
+        if not any(f in prior_blob for f in forms):
+            continue
         if any(f in names for f in forms):
             continue
-        # fall back to a substring hit anywhere in the ledger before failing
+        # Fall back to a substring hit anywhere in the ledger before failing.
         if any(f in blob for f in forms):
             continue
         missing.append(canon)
@@ -557,7 +561,11 @@ def run_batch(
                                 "slug": scene["slug"],
                                 "status": "generated",
                                 "attempt": attempt,
-                                "cost": None if not usage else round(usage["cost"], 6),
+                                "cost": (
+                                    None
+                                    if not usage or usage.get("cost") is None
+                                    else round(usage["cost"], 6)
+                                ),
                                 "input": None if not usage else usage["input"],
                                 "output": None if not usage else usage["output"],
                                 "totalTokens": None if not usage else usage["totalTokens"],
@@ -592,7 +600,7 @@ def run_batch(
             if usage.get("incomplete"):
                 raise RuntimeError(
                     f"response incomplete on {scene['slug']} (hit the output cap). "
-                    f"Raise --budget-usd or lower --effort, then re-run with --resume."
+                    f"Raise the applicable output cap or lower --effort, then re-run with --resume."
                 )
             if budget_usd is not None and float(usage.get("cost") or 0) > budget_usd:
                 raise RuntimeError(
@@ -607,8 +615,11 @@ def run_batch(
         "completed": len(log),
         "generated": len(gen),
         "skipped": sum(1 for r in log if r.get("status") == "skipped-existing"),
-        # `or 0`: cost is None on a token-guarded (unpriced) run — sum(None) raises.
-        "total_cost": sum(((r.get("usage") or {}).get("cost") or 0) for r in gen),
+        "total_cost": (
+            None
+            if any((r.get("usage") or {}).get("cost") is None for r in gen)
+            else sum((r.get("usage") or {}).get("cost", 0) for r in gen)
+        ),
         "total_input": sum((r.get("usage") or {}).get("input", 0) for r in gen),
         "total_output": sum((r.get("usage") or {}).get("output", 0) for r in gen),
         "total_tokens": sum((r.get("usage") or {}).get("totalTokens", 0) for r in gen),
