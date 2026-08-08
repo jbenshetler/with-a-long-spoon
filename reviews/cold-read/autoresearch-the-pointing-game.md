@@ -174,3 +174,10 @@ Revise Pace's interiority only so cold readers understand him as caring, hopeful
 - Retained tagged wording outside this hunk: `"Yeah," he said, and held the door for her. He had no name for the game yet, only the live private charge of something he imagined they could make together.`
 - Scores: gpt-5.6-terra Heat 3/3, Romance 2/3; gpt-5.6-sol Heat 3/3, Romance 2/3; gpt-5.5 Heat 3/3, Romance 2/3.
 - Result: all-model floor holds; tagged scene restored before the next trial.
+
+### Matrix C hunk trial 8
+- Hunk: `@@ -93 +93 @@ Then the third beat, and he felt it arrive in her body before her face changed:`
+- Reverted only this hunk to `main`: `He did not rush her. There was a great deal of afternoon, and the rushing would have done the opposite of what he wanted — would have made it a task, a thing being driven at, and the whole art of it was that it stay a game, a thing they were doing together because it was fun, her edge and his attention. So he let a hundred yards go by with nothing in it but the walk and the wind and the back of her hand under his thumb, and only when the path opened toward the athletic center did he tip his chin at the next one.`
+- Retained tagged wording outside this hunk: `There was a great deal of afternoon, and he was content to let the question stay inside the bright looseness of the walk, a game he hoped they could share for the heat of it, the little edge, the mutual attention. So he let a hundred yards go by with nothing in it but the walk and the wind and the back of her hand under his thumb, and only when the path opened toward the athletic center did he tip his chin at the next one.`
+- Scores: gpt-5.6-terra Heat 3/3, Romance 2/3; gpt-5.6-sol Heat 3/3, Romance 2/3; gpt-5.5 Heat 3/3, Romance 2/3.
+- Result: all-model floor holds; tagged scene restored before the next trial.
