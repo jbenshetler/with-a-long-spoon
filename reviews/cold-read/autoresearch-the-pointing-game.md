@@ -209,3 +209,10 @@ Revise Pace's interiority only so cold readers understand him as caring, hopeful
 - Retained tagged wording outside this hunk: `Then Randi's hand went to the girl's arm — *no, no, my fault, it's fine* — light, warm, settling, the hand staying a half-beat longer than the apology required, and the redhead's shoulders came back down out of their fluster, and they were laughing. The friend laughed too. Names, now: he watched the little ritual of it, the heads, the small social warming of three people discovering they could stand to talk for a minute. Two minutes, in fact. He stood at his pole and watched Randi talk to the woman who had caught her eye, and felt a deep warmth in his body at the sight of it. Then the redhead and her friend said the thing people say, and lifted hands a little, and went on up the walk, and Randi turned and came back across the lawn to him.`
 - Scores: gpt-5.6-terra Heat 3/3, Romance 2/3; gpt-5.6-sol Heat 3/3, Romance 2/3; gpt-5.5 Heat 3/3, Romance 2/3.
 - Result: all-model floor holds; tagged scene restored before the next trial.
+
+### Matrix C hunk trial 13
+- Hunk: `@@ -157 +157 @@ She was failing to hide the grin. It was all over her, the grin, breaking the ma`
+- Reverted only this hunk to `main`: `Her feet did a thing on the brick, a half-second of happy footwork she didn't decide to do, there and gone. He nodded, slow, and let her see the pride in it — *good, that's very good, look what you did.* Randi's *yes* had a name now and a class schedule and a copper head he could still pick out, small, at the far edge of the lawn.`
+- Retained tagged wording outside this hunk: `Her feet did a thing on the brick, a half-second of happy footwork she didn't decide to do, there and gone. He nodded, slow, delighted for her. Randi's *yes* had a name now and a class schedule and a copper head he could still pick out, small, at the far edge of the lawn. The fact of her pleasure stayed bright in him.`
+- Scores: gpt-5.6-terra Heat 3/3, Romance 2/3; gpt-5.6-sol Heat 3/3, Romance 2/3; gpt-5.5 Heat 3/3, Romance 2/3.
+- Result: all-model floor holds; tagged scene restored before the next trial.
