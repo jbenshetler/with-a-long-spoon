@@ -195,3 +195,10 @@ Revise Pace's interiority only so cold readers understand him as caring, hopeful
 - Retained tagged wording outside this hunk: `The *maybe* delighted him, and it sharpened the next woman he chose to point at: not the closed ones, not the mirrors — someone open, someone warm, someone who took up room and was glad to. So he pointed at the most alive one in sight, a striking girl mid-laugh in a knot of friends, a blazer and a white-blond blowout in loose curls that had survived the wind better than it had any right to, the big unbothered authority of someone who chaired things and ran the room while she did, a wide confident face and a smile she was already wearing before anyone had said anything to earn it. He had it. "God, no," Randi said, fast, and there was real feeling in the *no*. "Noted," he said, enjoying her. "Strong no." The girl's ease was performed, aimed outward. That was it. The answer was better when it surprised him.`
 - Scores: gpt-5.6-terra Heat 3/3, Romance 2/3; gpt-5.6-sol Heat 3/3, Romance 2/3; gpt-5.5 Heat 3/3, Romance 2/3.
 - Result: all-model floor holds; tagged scene restored before the next trial.
+
+### Matrix C hunk trial 11
+- Hunk: `@@ -121 +121 @@ The *maybe* had taught him something and he tried to use it: not the closed ones`
+- Reverted only this hunk to `main`: `Not the expected, not the matched pairs, not the closed projects, not the ones who ran the room. He had thought he knew her taste before they left the house, and mostly he had. He liked being right about her. He liked, even better, the places she surprised him.`
+- Retained tagged wording outside this hunk: `Not the expected, not the matched pairs, not the closed projects, not the ones who ran the room. He knew her taste before they left the house, mostly. He liked the feeling that he could see her clearly. He liked, even better, the nerve and quick discrimination with which she surprised him.`
+- Scores: gpt-5.6-terra Heat 3/3, Romance 2/3; gpt-5.6-sol Heat 3/3, Romance 2/3; gpt-5.5 Heat 3/3, Romance 2/3.
+- Result: all-model floor holds; tagged scene restored before the next trial.
