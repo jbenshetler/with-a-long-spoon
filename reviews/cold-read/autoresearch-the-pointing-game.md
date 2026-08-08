@@ -114,3 +114,10 @@ Revise Pace's interiority only so cold readers understand him as caring, hopeful
 ### Iteration 5 — POV correction
 - The strict close-third correction removes narrator-side hedges and diagnoses from Pace's readings; his certainty now appears directly in his perception, bodily response, and judgment.
 - Matrix A's incomplete one-hunk trial results are invalidated by this correction. Historical trial records remain above; restart selection from a fresh tagged baseline.
+
+### Matrix B hunk trial 1
+- Hunk: `@@ -3 +3 @@`
+- Reverted only this hunk to `main`: `*Diptych. Pace POV throughout. Panel one: post-coital, in bed — the appetite surfaces and gets a frame she can live inside. Panel two: continuous afternoon, the walk on campus — the same act in daylight, reconnaissance wearing the costume of a game. One dramatic movement, two settings.*`
+- Retained tagged wording outside this hunk: `*Diptych. Pace POV throughout. Panel one: post-coital, in bed — the appetite surfaces and gets a frame she can live inside. Panel two: continuous afternoon, the walk on campus — the same act in daylight, Pace's game of shared discovery. One dramatic movement, two settings.*`
+- Scores: gpt-5.6-terra Heat 3/3, Romance 2/3; gpt-5.6-sol Heat 3/3, Romance 2/3; gpt-5.5 Heat 3/3, Romance 2/3.
+- Result: romance floor holds; tagged scene restored before the next trial.
