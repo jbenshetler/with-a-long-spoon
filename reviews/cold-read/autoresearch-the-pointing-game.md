@@ -121,3 +121,8 @@ Revise Pace's interiority only so cold readers understand him as caring, hopeful
 - Retained tagged wording outside this hunk: `*Diptych. Pace POV throughout. Panel one: post-coital, in bed — the appetite surfaces and gets a frame she can live inside. Panel two: continuous afternoon, the walk on campus — the same act in daylight, Pace's game of shared discovery. One dramatic movement, two settings.*`
 - Scores: gpt-5.6-terra Heat 3/3, Romance 2/3; gpt-5.6-sol Heat 3/3, Romance 2/3; gpt-5.5 Heat 3/3, Romance 2/3.
 - Result: romance floor holds; tagged scene restored before the next trial.
+
+
+### Boundary repair
+- Restored the boundary judge's forbidden scene framing, Randi/non-Pace narration, and physical-action changes to their `main` wording.
+- Retained only the approved, separable Pace close-third interior revisions (scene lines 21, 27, 29, 33, 37, 59, 93, 117, 119, 121, 149, and 157); at line 9, restored the protected Randi phrase “given over to her body, undefended” while retaining the separable Pace thought.
