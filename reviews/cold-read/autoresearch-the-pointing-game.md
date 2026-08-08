@@ -216,3 +216,9 @@ Revise Pace's interiority only so cold readers understand him as caring, hopeful
 - Retained tagged wording outside this hunk: `Her feet did a thing on the brick, a half-second of happy footwork she didn't decide to do, there and gone. He nodded, slow, delighted for her. Randi's *yes* had a name now and a class schedule and a copper head he could still pick out, small, at the far edge of the lawn. The fact of her pleasure stayed bright in him.`
 - Scores: gpt-5.6-terra Heat 3/3, Romance 2/3; gpt-5.6-sol Heat 3/3, Romance 2/3; gpt-5.5 Heat 3/3, Romance 2/3.
 - Result: all-model floor holds; tagged scene restored before the next trial.
+
+### Matrix C — selection summary
+- Baseline: `pace-pointing-game-interior-only`; boundary judge passed all 13 changed hunks as Pace interior only.
+- Method: each trial restored exactly one hunk to its `main` wording, retained the tagged baseline for all other hunks, restored the tagged scene before the next trial, and gated Sol/GPT-5.5 behind a passing Terra result.
+- Result: all 13 individual reversions held Heat 3/3 and Romance 2/3 across Terra, Sol, and GPT-5.5.
+- Decision status: no reversion has been adopted. The tagged close-third baseline remains the scene; the author can now choose any subset of individually qualified main-version hunks for a follow-up combination test.
