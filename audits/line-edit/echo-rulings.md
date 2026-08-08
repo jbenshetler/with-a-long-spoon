@@ -1077,9 +1077,21 @@ the drumroll is a likelier culprit than the line.*
       (`:208`, `:220`, `:238`), plus `:200` and `:226` in the adjacent
       families: five in one chapter. `:220` is PROTECTED under **#8**, but for
       its *"before you think"* half only — the held-past half was never ruled,
-      and #8's protection does not extend to it. **The chapter is already
-      marked `reviewed`; this needs a re-open, it cannot wait for a pass that
-      has gone by.**
+      and #8's protection does not extend to it.
+      **RESOLVED — chapter re-opened and fixed 2026-08-08** (see
+      `meta-triage-a-round.md`): `:238`'s measure cut, because the sentence
+      already carries its own clock — *didn't lift it* … *He lifted his hand*,
+      with the two `technically`s spanning the hold; and `:208` recast by the
+      author to "held it there **too long for any accident**", which drops the
+      time unit and leaves the family altogether (it is also the better line —
+      *a beat too long* half-grants the deniability that Vee's "Oops. Sorry."
+      is only pretending to claim). `:220` stands as the PROTECTED keeper: it
+      names the pretext being exceeded, which no other instance in the book
+      does. **No unruled canonical instance remains in the chapter.**
+      Author's governing instruction on the re-open: *preserve the idea of
+      waiting for something to happen — that stopping for a beat is important
+      to build the tension.* **What repeats is the sentence shape that
+      measures the pause, not the pause. Render the hold; do not count it.**
     - **`all-the-time` — two in thirty lines** (`:105`, `:135`). Lands at its
       own review (ch. 38).
     - **`one-bite:155` / `all-the-time:135` — breach of an explicit craft
