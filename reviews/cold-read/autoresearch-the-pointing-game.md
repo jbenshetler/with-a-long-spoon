@@ -110,3 +110,7 @@ Revise Pace's interiority only so cold readers understand him as caring, hopeful
 - Retained tagged wording outside this hunk: `He drew the third one out of her deliberately, slowly. It had gone through him too, the suddenness of her answer, and he changed his rhythm to stay off the edge. She had more pleasure in her yet, he thought, and he wanted to take his time with every wave of it while the question still hung in the room; his own he would take last, and the waiting made him ache. He drew his head back to see her, touched her face with his fingertips, and kissed her, slow and tender, for no reason but that he wanted to.`
 - Scores: gpt-5.6-terra Heat 3/3, Romance 2/3; gpt-5.6-sol Heat 3/3, Romance 2/3; gpt-5.5 Heat 3/3, Romance 2/3.
 - Result: romance floor holds; tagged scene restored before the next trial.
+
+### Iteration 5 — POV correction
+- The strict close-third correction removes narrator-side hedges and diagnoses from Pace's readings; his certainty now appears directly in his perception, bodily response, and judgment.
+- Matrix A's incomplete one-hunk trial results are invalidated by this correction. Historical trial records remain above; restart selection from a fresh tagged baseline.
