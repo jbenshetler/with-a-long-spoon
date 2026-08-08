@@ -110,7 +110,9 @@ def main() -> None:
                     "--scope", "the-pointing-game", "--fresh", "--allow-volume-one-rewrite",
                 )
                 outcomes[model] = score(model)
-                if model == MODELS[0] and outcomes[model] != (3, 2):
+                if model == MODELS[0] and (
+                    outcomes[model][0] != 3 or outcomes[model][1] < 2
+                ):
                     break
         finally:
             run("git", "restore", str(SCENE))
