@@ -68,3 +68,10 @@ Revise Pace's interiority only so cold readers understand him as caring, hopeful
 - Retained tagged wording outside this hunk: `He came up over her before she was done, while she was still swollen and still pulsing around nothing, still given over to her body and to him, and the thought came to him with the force of a second climax: what else might she want, if she let herself say it? He slid into her then, into all that grip and flutter, before he kissed her.`
 - Scores: gpt-5.6-terra Heat 3/3, Romance 2/3; gpt-5.6-sol Heat 3/3, Romance 2/3; gpt-5.5 Heat 3/3, Romance 2/3.
 - Result: romance floor holds; tagged scene restored before the next trial.
+
+### Main-hunk trial 3
+- Hunk: `@@ -15 +15 @@ He kissed her with his mouth still wet from her, and she took herself off his li`
+- Reverted only this hunk to `main`: `"Mm." Her eyes half open, soft, unguarded, as she only was with him inside her and the first not fully gone.`
+- Retained tagged wording outside this hunk: `"Mm." Her eyes half open, soft, open, as she only was with him inside her and the first not fully gone.`
+- Scores: gpt-5.6-terra Heat 3/3, Romance 2/3; gpt-5.6-sol Heat 3/3, Romance 2/3; gpt-5.5 Heat 3/3, Romance 2/3.
+- Result: romance floor holds; tagged scene restored before the next trial.
