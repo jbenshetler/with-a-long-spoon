@@ -153,3 +153,10 @@ Revise Pace's interiority only so cold readers understand him as caring, hopeful
 - Retained tagged wording outside this hunk: `He had not known what the idea might stir in her. He saw the shock in her eyes and felt the hard afterclench around him, a desire too new and bright to have a name yet. The thought flooded him with heat. He felt grateful for the glimpse and wanted the game to give that wanting air in daylight without making her pin it beneath a solemn name.`
 - Scores: gpt-5.6-terra Heat 3/3, Romance 2/3; gpt-5.6-sol Heat 3/3, Romance 2/3; gpt-5.5 Heat 3/3, Romance 2/3.
 - Result: all-model floor holds; tagged scene restored before the next trial.
+
+### Matrix C hunk trial 5
+- Hunk: `@@ -33 +33 @@ He worked the third one out of her deliberately, slowly, giving her more than sh`
+- Reverted only this hunk to `main`: `Her body wanted this; her mind had not yet caught up to it. If pleasure was also a bridge, then let the wanting simply feel good in her, good enough that the good feeling and the wanting became one fact.`
+- Retained tagged wording outside this hunk: `He wanted her to have the pleasure whole, with no answer required of it. Whatever she wanted to say later could come in its own time.`
+- Scores: gpt-5.6-terra Heat 3/3, Romance 2/3; gpt-5.6-sol Heat 3/3, Romance 2/3; gpt-5.5 Heat 3/3, Romance 2/3.
+- Result: all-model floor holds; tagged scene restored before the next trial.
