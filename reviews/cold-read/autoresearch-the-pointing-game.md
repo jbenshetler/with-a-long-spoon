@@ -61,3 +61,10 @@ Revise Pace's interiority only so cold readers understand him as caring, hopeful
 - Retained tagged wording outside this hunk: `*Diptych. Pace POV throughout. Panel one: post-coital, in bed — the appetite surfaces and gets a frame she can live inside. Panel two: continuous afternoon, the walk on campus — the same act in daylight, a game Pace mistakes for a shared discovery. One dramatic movement, two settings.*`
 - Scores: gpt-5.6-terra Heat 3/3, Romance 2/3; gpt-5.6-sol Heat 3/3, Romance 2/3; gpt-5.5 Heat 3/3, Romance 2/3.
 - Result: romance floor holds; tagged scene restored before the next trial.
+
+### Main-hunk trial 2
+- Hunk: `@@ -9 +9 @@ She came the first time with his mouth on her, her hand flat against the top of`
+- Reverted only this hunk to `main`: `He came up over her before she was done, while she was still swollen and still pulsing around nothing, still given over to her body, undefended. He had decided this beforehand. He slid into her then, into all that grip and flutter, before he kissed her.`
+- Retained tagged wording outside this hunk: `He came up over her before she was done, while she was still swollen and still pulsing around nothing, still given over to her body and to him, and the thought came to him with the force of a second climax: what else might she want, if she let herself say it? He slid into her then, into all that grip and flutter, before he kissed her.`
+- Scores: gpt-5.6-terra Heat 3/3, Romance 2/3; gpt-5.6-sol Heat 3/3, Romance 2/3; gpt-5.5 Heat 3/3, Romance 2/3.
+- Result: romance floor holds; tagged scene restored before the next trial.
