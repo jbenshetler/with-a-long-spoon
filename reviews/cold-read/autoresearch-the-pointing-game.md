@@ -55,3 +55,9 @@ Revise Pace's interiority only so cold readers understand him as caring, hopeful
 - Terra, Sol, and GPT-5.5 each returned Heat 3/3 and Romance 2/3, with no retention warnings or errors.
 - Sol outcome judge: PASS. All three readers found Pace's warmth, sensual attention, tenderness, and delight sincere; they separated his accurate observation of Randi's bodily cues from his failure to understand their emotional stakes. None read him as a conscious operator or predator.
 - Decision: accept Iteration 4. Stop after 4 of the 10 allowed iterations.
+### Main-hunk trial 1
+- Hunk: `@@ -3 +3 @@`
+- Reverted only this hunk to `main`: `*Diptych. Pace POV throughout. Panel one: post-coital, in bed — the appetite surfaces and gets a frame she can live inside. Panel two: continuous afternoon, the walk on campus — the same act in daylight, reconnaissance wearing the costume of a game. One dramatic movement, two settings.*`
+- Retained tagged wording outside this hunk: `*Diptych. Pace POV throughout. Panel one: post-coital, in bed — the appetite surfaces and gets a frame she can live inside. Panel two: continuous afternoon, the walk on campus — the same act in daylight, a game Pace mistakes for a shared discovery. One dramatic movement, two settings.*`
+- Scores: gpt-5.6-terra Heat 3/3, Romance 2/3; gpt-5.6-sol Heat 3/3, Romance 2/3; gpt-5.5 Heat 3/3, Romance 2/3.
+- Result: romance floor holds; tagged scene restored before the next trial.
