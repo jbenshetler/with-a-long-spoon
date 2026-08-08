@@ -47,7 +47,9 @@ def score(model: str) -> tuple[int, int]:
 def append_log(
     log: Path, matrix: str, trial: dict[str, str], outcomes: dict[str, tuple[int, int]]
 ) -> None:
-    keep = all(romance >= 2 for _, romance in outcomes.values())
+    passed = len(outcomes) == len(MODELS) and all(
+        heat == 3 and romance >= 2 for heat, romance in outcomes.values()
+    )
     old = trial["old"].replace("\n", " ")
     new = trial["new"].replace("\n", " ")
     lines = [
@@ -56,9 +58,11 @@ def append_log(
         f"- Reverted only this hunk to `main`: `{old}`\n",
         f"- Retained tagged wording outside this hunk: `{new}`\n",
         "- Scores: " + "; ".join(
-            f"{model} Heat {heat}/3, Romance {romance}/3" for model, (heat, romance) in outcomes.items()
+            f"{model} Heat {heat}/3, Romance {romance}/3"
+            for model, (heat, romance) in outcomes.items()
         ) + ".\n",
-        f"- Result: {'romance floor holds' if keep else 'romance floor fails'}; tagged scene restored before the next trial.\n",
+        f"- Result: {'all-model floor holds' if passed else 'Terra gate failed; Sol/GPT-5.5 not run'}; "
+        "tagged scene restored before the next trial.\n",
     ]
     with log.open("a") as file:
         file.writelines(lines)
@@ -87,6 +91,8 @@ def main() -> None:
 
     for trial in trials[args.start - 1 : stop]:
         marker = f"### {args.matrix} hunk trial {trial['number']}"
+        if marker in log.read_text():
+            continue
         scene_path = REPO / SCENE
         outcomes = {}
         try:
@@ -104,6 +110,8 @@ def main() -> None:
                     "--scope", "the-pointing-game", "--fresh", "--allow-volume-one-rewrite",
                 )
                 outcomes[model] = score(model)
+                if model == MODELS[0] and outcomes[model] != (3, 2):
+                    break
         finally:
             run("git", "restore", str(SCENE))
         append_log(log, args.matrix, trial, outcomes)
