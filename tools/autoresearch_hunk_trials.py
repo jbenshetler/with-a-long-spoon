@@ -10,7 +10,6 @@ from __future__ import annotations
 import argparse
 import re
 import subprocess
-import tempfile
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
@@ -31,7 +30,7 @@ def hunks(tag: str) -> list[dict[str, str]]:
         lines = chunk.splitlines()
         old = "\n".join(line[1:] for line in lines[1:] if line.startswith("-"))
         new = "\n".join(line[1:] for line in lines[1:] if line.startswith("+"))
-        result.append({"number": str(number), "header": lines[0], "old": old, "new": new, "patch": header + chunk})
+        result.append({"number": str(number), "header": lines[0], "old": old, "new": new})
     return result
 
 
@@ -88,12 +87,16 @@ def main() -> None:
         marker = f"### Main-hunk trial {trial['number']}"
         if marker in log.read_text():
             continue
-        with tempfile.NamedTemporaryFile("w", suffix=".patch", delete=False) as file:
-            patch_path = Path(file.name)
-            file.write(trial["patch"])
+        scene_path = REPO / SCENE
         outcomes = {}
         try:
-            run("git", "apply", "--reverse", str(patch_path))
+            original = scene_path.read_text()
+            replacements = original.count(trial["new"])
+            if replacements != 1:
+                raise RuntimeError(
+                    f"hunk {trial['number']} expected one tagged occurrence, found {replacements}"
+                )
+            scene_path.write_text(original.replace(trial["new"], trial["old"], 1))
             for model in MODELS:
                 run(
                     "uv", "run", "--python", "3.11", "--with", "openai-codex",
@@ -102,7 +105,6 @@ def main() -> None:
                 )
                 outcomes[model] = score(model)
         finally:
-            patch_path.unlink(missing_ok=True)
             run("git", "restore", str(SCENE))
         append_log(log, trial, outcomes)
         commit_trial(trial["number"], args.log)
