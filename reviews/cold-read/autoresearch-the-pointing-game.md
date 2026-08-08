@@ -160,3 +160,10 @@ Revise Pace's interiority only so cold readers understand him as caring, hopeful
 - Retained tagged wording outside this hunk: `He wanted her to have the pleasure whole, with no answer required of it. Whatever she wanted to say later could come in its own time.`
 - Scores: gpt-5.6-terra Heat 3/3, Romance 2/3; gpt-5.6-sol Heat 3/3, Romance 2/3; gpt-5.5 Heat 3/3, Romance 2/3.
 - Result: all-model floor holds; tagged scene restored before the next trial.
+
+### Matrix C hunk trial 6
+- Hunk: `@@ -37 +37 @@ Afterward they lay tangled and quiet. She was wrung out and heavy against him, c`
+- Reverted only this hunk to `main`: `The real question waited for the heat to leave the room, her breath to come down, and the afternoon to go ordinary around them. He wanted her gathered back into herself when he asked, free to weigh it and choose; that mattered to him more than the answer did. Because what he was bringing her was good: the thing she wanted and could not let herself reach for, put in her hands in daylight with her own clear yes on it. She deserved it, and he wanted to be the one who gave it to her.`
+- Retained tagged wording outside this hunk: `The question could wait for the heat to leave the room, her breath to come down, and the afternoon to go ordinary around them. He wanted her gathered back into herself when he asked, free to find the words; that mattered to him more than the answer did. He hoped the game might give her a way to say something true without forcing her to sit up and put a name to it — let it come out laughing, dressed as play, before she had to look it full in the face. She deserved that gentleness, he thought. He wanted it for her.`
+- Scores: gpt-5.6-terra Heat 3/3, Romance 2/3; gpt-5.6-sol Heat 3/3, Romance 2/3; gpt-5.5 Heat 3/3, Romance 2/3.
+- Result: all-model floor holds; tagged scene restored before the next trial.
