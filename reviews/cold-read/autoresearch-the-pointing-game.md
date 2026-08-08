@@ -181,3 +181,10 @@ Revise Pace's interiority only so cold readers understand him as caring, hopeful
 - Retained tagged wording outside this hunk: `There was a great deal of afternoon, and he was content to let the question stay inside the bright looseness of the walk, a game he hoped they could share for the heat of it, the little edge, the mutual attention. So he let a hundred yards go by with nothing in it but the walk and the wind and the back of her hand under his thumb, and only when the path opened toward the athletic center did he tip his chin at the next one.`
 - Scores: gpt-5.6-terra Heat 3/3, Romance 2/3; gpt-5.6-sol Heat 3/3, Romance 2/3; gpt-5.5 Heat 3/3, Romance 2/3.
 - Result: all-model floor holds; tagged scene restored before the next trial.
+
+### Matrix C hunk trial 9
+- Hunk: `@@ -117 +117 @@ He stopped walking. He turned and kissed her — not the ear this time, the mout`
+- Reverted only this hunk to `main`: `She laughed, low in her throat, and the thing she said came out warmer and realer than she meant it to — he heard the seam in it, the place where the performance didn't quite cover the actual heat underneath. "*Oh*," she said. "You dirty boy." Sex-kitten, the trailing register, a hand light on his arm. It would have read to almost any man as pure play, a girlfriend being game. He let her have it.`
+- Retained tagged wording outside this hunk: `She laughed, low in her throat, and the thing she said came out warmer and realer than she meant it to. "*Oh*," she said. "You dirty boy." Sex-kitten, the trailing register, a hand light on his arm. A girlfriend being game. He let her have it.`
+- Scores: gpt-5.6-terra Heat 3/3, Romance 2/3; gpt-5.6-sol Heat 3/3, Romance 2/3; gpt-5.5 Heat 3/3, Romance 2/3.
+- Result: all-model floor holds; tagged scene restored before the next trial.
