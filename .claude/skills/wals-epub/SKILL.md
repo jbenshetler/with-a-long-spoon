@@ -17,11 +17,22 @@ those is a different, un-allowlisted command string and will prompt.
 
 ## What it builds
 
-`build/a-polite-invitation.epub` — reader-facing filename = the volume title,
-*A Polite Invitation* (Volume One of the *With a Long Spoon* trilogy; titles
-per `meta-blurb.md`). (The `build/` dir is gitignored —
-outputs are artifacts, never committed). Assembly order, per the "Test-epub
-assembly" spec in `meta/meta-blurb.md`:
+**`build/a-polite-invitation.epub`** — reader-facing filename = the volume
+title, *A Polite Invitation* (Volume One of the *With a Long Spoon* trilogy;
+titles per `meta-blurb.md`). (The `build/` dir is gitignored — outputs are
+artifacts, never committed.)
+
+**The default filename is stamped, not plain.** A bare build writes
+`build/a-polite-invitation-<source-date>-<sha>.epub` (e.g.
+`a-polite-invitation-2026-08-08-4c15460.epub`) so many test builds sort and
+identify themselves. **`--plain-name` writes the plain
+`build/a-polite-invitation.epub`** — use it when the author wants *the* epub
+rather than a dated one, or when a downstream step expects a fixed path.
+The sha gains a **`-dirty` suffix when any build input is uncommitted**; if
+you see `-dirty` and didn't intend a scratch build, commit first and rebuild
+so the artifact carries a real commit stamp.
+
+Assembly order, per the "Test-epub assembly" spec in `meta/meta-blurb.md`:
 
 cover → **blurb page before the title page** (simulates the retail listing:
 decided blurb, centered tagline, *Beauty* comp line) → title page → copyright
@@ -31,14 +42,18 @@ entries only) → note to test readers.
 All sources are parsed at build time — chronology, blurb, and scene prose stay
 authoritative in their own files, so an edit there flows into the next build
 with no script change. Builds are **deterministic**: identical inputs produce
-byte-identical epubs (diffable rebuilds).
+byte-identical epubs (diffable rebuilds). Note the build stamp (source date +
+sha) is part of the output, including the metadata UUID — so rebuilds at
+*different commits* differ by design, and only same-commit rebuilds compare
+byte-for-byte.
 
 ## Canonical invocations
 
 ```
-tools/build_epub.py --list                 # ALWAYS run first: roster preview + missing-prose check, no build
-tools/build_epub.py --author "Pen Name"    # the real build
-tools/build_epub.py --author "Pen Name" -o build/custom-name.epub
+tools/build_epub.py --list                                    # ALWAYS run first: roster preview + missing-prose check, no build
+tools/build_epub.py --author "Helen Rivers"                   # stamped:  build/a-polite-invitation-<date>-<sha>.epub
+tools/build_epub.py --author "Helen Rivers" --plain-name      # plain:    build/a-polite-invitation.epub
+tools/build_epub.py --author "Helen Rivers" -o build/custom-name.epub
 ```
 
 - **Run `--list` before every build** — it prints the numbered chapter roster
@@ -47,7 +62,9 @@ tools/build_epub.py --author "Pen Name" -o build/custom-name.epub
   never receive a silently incomplete book). `--allow-missing` overrides;
   never use it without the author's explicit say-so.
 - **Never invent a pen name.** `--author` defaults to `Anonymous` (with a
-  warning); if the author hasn't specified one, ask — don't guess.
+  warning). The recorded decision is **Helen Rivers**
+  (`meta/meta-plan-pen-name.md`, 2026-07-30) — use it unless the author says
+  otherwise, and never substitute a different name.
 
 ## Inputs (defaults; override flags exist for each)
 
