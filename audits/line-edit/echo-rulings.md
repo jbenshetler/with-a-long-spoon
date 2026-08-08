@@ -1050,3 +1050,77 @@ the drumroll is a likelier culprit than the line.*
     "a beat past", "a half-second longer than X needed", "a few seconds past
     that", "longer than the errand needed", "held it there a second". Whether
     the set is too large is **still unruled**; the author has not seen it.
+
+60. **The held-past-the-function figure — RE-HARVESTED BY MOVE, ruled
+    (author, 2026-08-08).** Follows #59. #2's "8 found / 7 chapters" came from
+    a string match on *a beat past*; harvesting the **move** instead found
+    **16 in 12 Volume One chapters**, about one per 8,600 words — twice the
+    reported density. A distinctive figure, not connective syntax, so it
+    passes the governing rule's third test: a reader plausibly can feel it.
+
+    **Canonical set** (time unit + longer/past + the function named):
+    `the-bench:147` (the balance needed) · `the-pointing-game:149` (the
+    apology required) · `substitution:153` (the sip required) ·
+    `leave-no-trace:243` (longer than he had to) · `a-round:208` (too long for
+    any accident) · `a-round:220` (kissing-it-better needed to stay) ·
+    `a-round:238` (the work required) · `recognized-method:31` (the errand
+    needed) · `one-bite:155` (what a friend's would) · `all-the-time:105`
+    (what a verdict needed) · `all-the-time:135` (what a goodbye needed).
+    **Near-variants:** `may-i-choose:107`, `water-wings:23`,
+    `recognized-method:121`, `the-pointing-game:7`, and `the-induction:15`
+    (the *inverted* form — nobody held past the function; leave it, the
+    inversion is the point).
+
+    **Ruled FIX-AT on local density and on the fresh-language rule. No quota.**
+
+    - **`a-round` — the hotspot, three canonical inside thirty lines**
+      (`:208`, `:220`, `:238`), plus `:200` and `:226` in the adjacent
+      families: five in one chapter. `:220` is PROTECTED under **#8**, but for
+      its *"before you think"* half only — the held-past half was never ruled,
+      and #8's protection does not extend to it. **The chapter is already
+      marked `reviewed`; this needs a re-open, it cannot wait for a pass that
+      has gone by.**
+    - **`all-the-time` — two in thirty lines** (`:105`, `:135`). Lands at its
+      own review (ch. 38).
+    - **`one-bite:155` / `all-the-time:135` — breach of an explicit craft
+      rule.** Both render **Randi's goodbye kiss** in the **same
+      construction** ("a beat past what a friend's would" / "what a goodbye
+      needed"). `meta-plan-satc-tracks.md:105`: *"Render each rung in fresh
+      language. The signature is the structure… never reuse the same
+      description across scenes… identical phrasing scene to scene reads as
+      formula."* The track doc licenses **duration** as an escalation axis
+      (`:87`) but prescribes no phrase for rendering it. Vary one. This is the
+      same pair #21 flagged as one sentence written twice — now confirmed as a
+      rule breach, not a taste call.
+    - **`substitution:153` — PROTECT THE MOVE, vary the wording if it
+      collides (author).** *Randi pausing over a cup or a drink is important
+      characterization.* The behaviour is hers and stays; only the phrasing is
+      negotiable. This is the PROTECT-the-move/vary-the-wording shape #2
+      predicted this ruling would take.
+    - **Isolated singles — no action.** One per three chapters is not
+      carryable, and several are load-bearing in place.
+
+    **Correction to the record:** the review's first analysis claimed the
+    figure had "colonized Randi's non-Vee scenes," citing
+    `the-pointing-game:149`. **The redhead in that scene is Vee, not yet
+    named** (author). The claim was wrong; the instance is on the Randi↔Vee
+    axis and is therefore subject to the same fresh-language rule as the
+    goodbye kisses — which strengthens the finding rather than weakening it.
+    *(This is the recurring participant-identification error CLAUDE.md warns
+    about, running in the unusual direction: not crediting Vee with another
+    woman's beat, but failing to recognise her.)*
+
+    **Two adjacent families, ruled separately, NOT folded in:** the *degree*
+    form (`a-round:200` "more than the dress asked"; `we-find-out:9` "more
+    than a Friday after stats called for") and the bare *"a beat too [adj]"*
+    form (`turned-up:57`, `gone:61`, `outlier:71`, `practice-room:131`,
+    `a-round:226`, `burn:181`). Both unruled; the linter flags them so they
+    surface, but neither has been ruled an echo.
+
+    **Instrumented — `held-past` added to `style/style-rules.toml`
+    (severity `warn`).** Matches the shape, not the phrase. Fires 39 times
+    across 24 scenes (all families, over-flagging by design). *The reason this
+    hid for 29 chapters is that the harvester matches strings and the
+    recurrence is a figure — a linter rule on the shape would have surfaced it
+    at chapter 1. When a ruling identifies a construction rather than a
+    phrase, instrument it; do not rely on the next harvest to find it.*

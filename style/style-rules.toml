@@ -238,3 +238,10 @@ pattern  = '(?i)\b(?:autis\w*|asperger\w*|neurodiverg\w*|on the spectrum|diagnos
 severity = "error"
 scope    = "scenes"
 why      = "CRAFT RULE: never label Pace's temperament (his introversion and hyperfocus) on the page — it lives only in behavior, never as a diagnosis. Remove."
+
+[[rule]]
+id       = "held-past"
+kind     = "regex"
+pattern  = '''(?i)\b(?:(?:a|one|two|half\s+a|a\s+half|a\s+few|several)\s+(?:half-)?(?:beat|second|moment|breath|heartbeat)s?)\s+(?:too\s+\w+|longer|more|past)\b|\b(?:longer|more)\s+than\s+(?:the|a|an|it|any|his|her|their|she|he)\s+[\w\x27\- ]{2,25}\s*(?:needed|need|required|asked|called\s+for|warranted|took|had\s+to|meant\s+to|allowed)\b|\bpast\s+what\s+[\w\x27\- ]{2,25}\s*(?:needed|required|would|called\s+for)\b'''
+severity = "warn"
+why      = '''The held-past-the-function figure (a beat longer than the work required / a beat past what a goodbye needed / a half-second longer than the errand needed). A distinctive authorial tic, NOT ordinary syntax — re-harvested by MOVE rather than by phrase on 2026-08-08 and found 16 times across 12 Volume One chapters, twice the density the string-match harvest reported (echo ledger #59/#60). Clusters are the real problem: three inside thirty lines in a-round, two in all-the-time. Also breaches meta-plan-satc-tracks.md:105 (render each rung in fresh language; never reuse the same description across scenes) when it renders Randi goodbye kisses in the same construction twice. Randi pausing over a cup or a drink is DESIGNED characterization — protect the move, vary the wording. Rule the shape, never the count.'''
