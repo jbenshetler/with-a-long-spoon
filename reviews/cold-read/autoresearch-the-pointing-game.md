@@ -50,3 +50,8 @@ Revise Pace's interiority only so cold readers understand him as caring, hopeful
 - Revision applied: restored the lusty weight of Pace's private register through the post-coital wanting, the held-back climax, touch, and his bodily response to Randi's wit, taste, nerve, and pleasure. His readings now dwell on specific signals — the afterclench, a hand tightening or flexing, her arrested step and held gaze — while his conclusions explicitly mistake those signals for shared erotic invitation, relief, trust, or mutual play. The walk reads to him as a generous, mutual game with heat and attention, never a plan or proof-gathering exercise.
 - Preserved: every external action and quoted line, chronology, scene order, Randi/Vee interiority, Romance and Heat intent, and the protected "ungradeable / nothing to grade" passage.
 - Reader status: no readers were run in this assigned revision step.
+
+### Iteration 4 — validation and decision
+- Terra, Sol, and GPT-5.5 each returned Heat 3/3 and Romance 2/3, with no retention warnings or errors.
+- Sol outcome judge: PASS. All three readers found Pace's warmth, sensual attention, tenderness, and delight sincere; they separated his accurate observation of Randi's bodily cues from his failure to understand their emotional stakes. None read him as a conscious operator or predator.
+- Decision: accept Iteration 4. Stop after 4 of the 10 allowed iterations.
