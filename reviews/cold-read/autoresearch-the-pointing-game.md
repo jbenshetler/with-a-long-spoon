@@ -235,3 +235,9 @@ Revise Pace's interiority only so cold readers understand him as caring, hopeful
 - H10 hybrid: `The *maybe* delighted him. He followed the feeling of it toward the next woman: not the closed ones, not the mirrors — someone open, someone warm, someone who took up room and was glad to. So he pointed at the most alive one in sight, a striking girl mid-laugh in a knot of friends, a blazer and a white-blond blowout in loose curls that had survived the wind better than it had any right to, the big unbothered authority of someone who chaired things and ran the room while she did, a wide confident face and a smile she was already wearing before anyone had said anything to earn it. He thought he had it.`
 - H11 hybrid: `Not the expected, not the matched pairs, not the closed projects, not the ones who ran the room. He had thought he knew her taste before they left the house, and mostly he had. He liked when he guessed right about her. He liked, even better, the places she surprised him.`
 - All other approved interior hunks remain at the baseline wording.
+
+
+### Candidate A — result
+- Boundary judge: PASS; all nine changed hunks were Pace interior only.
+- Terra, Sol, and GPT-5.5: Heat 3/3 and Romance 2/3.
+- Sol outcome judge: FAIL on the qualitative Pace target. All three readers still characterized his care as covert steering/control, so Candidate B is required under the author’s fallback rule.
