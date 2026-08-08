@@ -120,11 +120,13 @@ pre-ruled echo resolved as a keeper.**
 ## Left standing — do not re-litigate
 
 - **`:19` "And then he was past the name before he'd decided to be"** —
-  **keeper granted** (author, 2026-08-08). This was the last of ration #8's six
-  Volume One slots and the default was to vary. Granted on claude-fable-5's
-  citation of the line by name as the moment Pace gushes — the same evidentiary
-  standard that protected `a-round:220`. **Ration #8 is now closed for Volume
-  One.** See echo ledger #49.
+  stands (author, 2026-08-08), on claude-fable-5's citation of the line by name
+  as the moment Pace gushes — the same evidentiary standard that protected
+  `a-round:220`. **The same ruling retired echo #8's ration**: the "six in
+  Volume One" was a census of what the harvest found, never a quota the author
+  approved, and six across ~137,700 words of a non-striking construction is not
+  overuse. Newly surfaced instances are presented neutrally on the merits, with
+  no vary-by-default presumption. See echo ledger #49.
 - **`:45` "and that was the whole of it"** — the editor's finding 9 (ends one
   beat late) was **dropped before presentation**: already ruled left standing
   at the 2026-07-27 triage on gpt-5.6-sol's praise. Rediscovery, not new

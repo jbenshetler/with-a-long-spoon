@@ -96,14 +96,20 @@ re-rule against their then-current text.
    work (action outrunning deliberation-about-being-seen, not decision). The
    2026-08-06 "override" is **rescinded as unnecessary, not reversed**; the
    line stands as written and is not counted against the ration.
-   **Three are spent.** The remaining Vol-1 occurrences — `peekaboo:39`,
-   `rock:197`, `hills-and-valleys:19` — **vary at their chapters' reviews by
-   default.** A further instance may be kept **only on the author's explicit
-   direction at that chapter's review** (author ruling 2026-08-06); an editor
-   or reviewer may propose one, but may not grant it.
    **`rock:197` applied 2026-08-07:** "It was out before she'd decided to ask
    it" → "It was out before she **meant it to be**." Stem broken, body-before-
-   mind shape preserved. One Vol-1 slot remains: `hills-and-valleys:19`.
+   mind shape preserved.
+   **⚠ SUPERSEDED IN PART — read #49 before acting on this entry (author
+   ruling 2026-08-08).** This entry formerly read "three are spent … the
+   remaining Vol-1 occurrences vary at their chapters' reviews by default."
+   **The vary-by-default presumption is retired, and there is no budget.** The
+   "six" above is a *census* — the number of instances the harvest found — and
+   was never a quota the author approved. Six across ~137,700 words is one per
+   ~23,000 words of a construction with no distinctive vocabulary in it; the
+   author ruled that is not overuse. Newly surfaced Vol-1 instances are
+   presented neutrally at their chapter's review with the reader evidence, no
+   thumb either way. `peekaboo:39` and `rock:197` remain varied (see #49); the
+   protected/keeper instances are unchanged.
 8b. **"before she'd decided anything" — UNRULED (raised 2026-08-06).** Same
    construction family, missed by the harvest: `see-you-later:49` (chapter
    already reviewed), `all-the-time:55`, `lesson:143` — three in Vol One.
@@ -750,19 +756,47 @@ the drumroll is a likelier culprit than the line.*
 
 ## Batch 12 — Hills and Valleys review (2026-08-08)
 
-49. **Ruling #8 CLOSED — `hills-and-valleys:19` KEEPER GRANTED.** "And then he
-    was past the name before he'd decided to be" stands. This was the sixth and
-    last Vol-1 slot and the default was vary; the author granted the keeper on
-    cold-read evidence — claude-fable-5 quotes the line by name as the moment
-    Pace *gushes*, the same standard that protected `a-round:220`. **Final
-    disposition of the six:** `the-bench:303` keeper; `a-round:58` and
-    `a-round:220` PROTECTED; `peekaboo:39`, `rock:197` varied;
-    `hills-and-valleys:19` keeper. **Ration #8 is now closed for Volume One** —
-    no slots remain, and any further instance found in Vol One is a fix, not a
-    request. Rule: *a ration exists to stop a construction becoming a
-    signature, not to hit a quota — once the policing has done its work, the
-    strongest surviving instance is the one to keep, and the reader evidence
-    decides which that is.*
+49. **Ruling #8's ration RETIRED — and `hills-and-valleys:19` stands.**
+    Two decisions, 2026-08-08.
+
+    **(a) `hills-and-valleys:19` keeps the stem.** "And then he was past the
+    name before he'd decided to be" stands, on cold-read evidence —
+    claude-fable-5 quotes the line by name as the moment Pace *gushes*, the
+    same standard that protected `a-round:220`.
+
+    **(b) The vary-by-default presumption and the implied budget are retired.**
+    **The "six in Vol One" in #8 is a census, not a quota.** It is the number
+    of instances the harvest found; the author never approved six as a correct
+    or maximum amount. What the author actually ruled on 2026-08-06 was a
+    *procedure* with no number in it (vary by default; keeper only on explicit
+    direction). That procedure is now replaced: **newly surfaced Volume One
+    instances are presented neutrally at their chapter's review with the
+    reader evidence, no thumb on the scale either way.** The last three
+    decisions all turned on the merits rather than on arithmetic, so the
+    presumption was already not describing practice.
+
+    **Author's calibration (the load-bearing part):** *six instances across
+    ~137,700 words of a non-striking construction is not overuse.* That is one
+    per ~23,000 words — roughly one every two and a half chapters — of
+    ordinary syntax with no distinctive vocabulary in it. A reader cannot
+    count that.
+
+    **Current disposition:** `the-bench:303` keeper; `a-round:58` and
+    `a-round:220` PROTECTED; `hills-and-valleys:19` keeper; `peekaboo:39` and
+    `rock:197` varied. **The two varied instances were varied under the
+    now-retired presumption, not on quality** — #23 says so explicitly of
+    Peekaboo ("a ration fix, not an improvement brief"). The author ruled
+    2026-08-08 to leave both as they stand (the variants are unobjectionable
+    and `rock:197`'s is arguably an improvement); this is not a verdict that
+    the originals were worse.
+
+    Rule: *a mechanical harvest counts strings, not salience — before treating
+    a count as overuse, divide it into the word count and ask whether the
+    construction is striking enough for a reader to notice a repeat at that
+    spacing. A distinctive image can become a signature in two uses; ordinary
+    syntax rendering a craft rule can recur every few chapters unnoticed. Do
+    not let a census harden into a quota: report what was found, and rule
+    each instance on the merits.*
 
 50. **The gloss before the line — cut the label, keep the look.** `:21` read
     "Sheri was looking at him sideways, the look she got when she'd caught him

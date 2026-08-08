@@ -57,7 +57,7 @@ Distinctive phrasings from this chapter that may recur elsewhere in the book; fl
 
 ## Author rulings (2026-08-08)
 
-0. `:19` pre-ruled echo #8 (last Vol-1 slot) — **KEEPER GRANTED**, line stands. Ration #8 closed for Volume One. Ledger #49.
+0. `:19` pre-ruled echo #8 — line **stands** on cold-read evidence; the same ruling **retired the #8 ration** (the "six" was a census, not a quota; not overuse at ~137,700 words). Ledger #49.
 1. `:21` "the look she got when she'd caught him out" — **cut** (option a). Ledger #50.
 2. `:31` "She'd do it, too." — **cut** (option a). "which was everything" kept on gpt-5.5's quotation.
 3. `:3` "She was small on the bike and fast on it, all of her folded down into the work," — **cut** (option a). Ledger #51.
