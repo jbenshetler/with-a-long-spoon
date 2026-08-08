@@ -15,16 +15,62 @@ FIX-AT work is applied only in Volume One chapters. This ledger records no
 rulings about chapters outside the volume — later volumes re-harvest and
 re-rule against their then-current text.
 
+## Governing rule — a count is not a finding (author, 2026-08-07 / 2026-08-08)
+
+**This rule outranks every numbered entry below.** It was first ruled at #36
+and re-ruled at #49; on 2026-08-08 the author promoted it to govern the whole
+ledger, and the quota language in #2, #3, #5, #6 and #7 was retired to match.
+
+**A harvester count is not evidence of an echo.** The tool counts strings; it
+cannot weigh distance or salience. Before treating a count as overuse:
+
+1. **Check the instances are the same thing** — same referent, same
+   construction, same sense. (#36 split nine into three unrelated groups; #40
+   split four door figures into three senses.)
+2. **Divide the count into the word count.** Volume One is ~137,700 words.
+   Six instances is one per ~23,000 words — roughly one every two and a half
+   chapters. **A reader cannot carry that.**
+3. **Ask whether the phrase is striking enough to be felt twice.** A
+   distinctive image or rare diction can become a signature in two uses;
+   ordinary syntax rendering a craft rule can recur every few chapters
+   unnoticed. Distance alone can retire a candidate.
+
+**Never let a census harden into a quota.** A harvest count is a report of
+what exists, not a budget the author has approved. Phrases like "keep the 2–3
+strongest," "vary all but the strongest," "N slots remain," "claims no keeper
+slot," or "out of the running" describe an authority no ruling conferred —
+**if the author did not name a number, there is no number.** Report what was
+found and rule each instance on the merits, with the reader evidence.
+
+**What remains a real finding:** *local density* — the same figure twice in a
+page, two section-ends in a row, an identical noun fourteen lines apart, a
+chapter holding four of the book's seven uses. Proximity is the test that
+survives; arithmetic is not.
+
 ## Batch 1 (ruled 2026-08-03)
 
 1. **"cracked its two inches" — PROTECTED.** The dorm-room window, cracked
    two inches in winter against an unbalanced HVAC system: a set detail doing
    continuity work. The fixed wording is the fixed fact; do not vary.
-2. **"a beat past" (8× / 7 ch) — FIX-AT.** Timing tic. Keep the 2–3 strongest
-   occurrences (chosen at review time); vary the rest as their chapters come
-   up.
-3. **"the small private" (7× / 7 ch) — FIX-AT.** Same-shaped rendering each
-   time; vary all but the strongest.
+2. **"a beat past" (8 found / 7 ch) — FIX-AT on local density; NO QUOTA.**
+   Timing tic. **⚠ Quota retired 2026-08-08** — this entry formerly read "keep
+   the 2–3 strongest occurrences; vary the rest," a budget invented from the
+   harvest count on 2026-08-03 before any author calibration existed. Eight
+   across ~137,700 words is one per ~17,000 words. Per the governing rule,
+   **remaining instances are presented neutrally at their chapters' reviews on
+   the merits, with the reader evidence** — no slots, no competition, no
+   "presumptive keepers." The applied fixes at `how-its-done` (#20) and `fed`
+   (#21) stand, but note both were argued partly on scarcity; the language of
+   "claims no keeper slot" and "out of the running" in those entries is void.
+   Local density remains a live finding — `how-its-done` holding two was a
+   genuine one. *"a beat past" is a distinctive figure, not ordinary syntax, so
+   a reader plausibly could feel a repeat; that is an argument for looking at
+   the set, not for a number. Author has not ruled the set too large.*
+3. **"the small private" (7 found / 7 ch) — FIX-AT on local density; NO QUOTA.**
+   Same-shaped rendering each time. **⚠ Quota retired 2026-08-08** — formerly
+   "vary all but the strongest," i.e. a budget of one, invented from the count.
+   Seven across ~137,700 words is one per ~20,000. Rule each on the merits; the
+   unruled Pace-tell split below is the live question, not the total.
    **Applied 2026-08-06: `two-towels`** ("Something in her dropped, small and
    private." → "Something in her dropped.").
    **Open question raised at that review, not yet ruled:** the occurrences
@@ -61,17 +107,34 @@ re-rule against their then-current text.
    (one word; anatomy verbatim, and "high up" is if anything more tactile for
    a hand travelling). Two remain: `above-him:19`, `we-find-out:95`. (`still-life:13` is Volume Two,
    out of scope.)
-5. **"warm weight of" (7× / 6 ch) — PROTECT the construction, vary the exact
-   wording.** The sensory move stays; the identical three-word rendering
-   doesn't. **Vol-1 keeper ruled 2026-08-04: `the-bench.md`.** The other
-   Vol-1 occurrences (all-told, old-acquaintances) vary or cut at their
-   chapters' reviews.
-6. **"a held breath" (6× / 6 ch) — FIX-AT.** Metaphor spent too often; keep
-   the strongest. **Vol-1 keeper ruled 2026-08-04: `standards.md:141`** (the
-   chapter close — the breath as subject, not decoration). The other Vol-1
-   occurrences (school-nights, sorority, under-the-rug) vary at their
-   chapters' reviews.
-7. **"plain fact of" (6× / 6 ch) — FIX-AT.** Interiority formula; vary.
+5. **"warm weight of" (7 found / 6 ch) — PROTECT the construction, vary the
+   exact wording.** The sensory move stays; the identical three-word rendering
+   doesn't. `the-bench.md` was ruled the Vol-1 keeper 2026-08-04 and remains
+   the strongest. **⚠ Quota retired 2026-08-08** — "the other occurrences vary
+   or cut" was a budget of one derived from the count (7 → one per ~20,000
+   words). The *identical three-word string* is still the thing to watch, but
+   `old-acquaintances` is ruled on its own merits at its review, not because a
+   slot is taken. `all-told:21` (varied 2026-08-07, #27) stands.
+6. **"a held breath" (6 found / 6 ch) — FIX-AT on the merits; NO QUOTA.**
+   `standards.md:141` was ruled the Vol-1 keeper 2026-08-04 (the chapter close
+   — the breath as subject, not decoration) and remains the strongest instance.
+   **⚠ Quota retired 2026-08-08 (author ruling).** "Keep the strongest" was a
+   budget of one from a count of six — one per ~23,000 words, the exact profile
+   ruled *not overuse* at #49. **`school-nights:17` (ch. 36) and
+   `under-the-rug:71` (ch. 43) are queued as pre-ruled items in their chapters'
+   reports: those pre-rulings are void.** Present both neutrally at their
+   reviews with the reader evidence. `sorority:85` (varied 2026-08-07, #29)
+   stands — and note that fix earned its keep independently, setting up `:97`.
+   *If there is a live concern here it is staleness, not density: "a held
+   breath" is a worn metaphor, which is a per-instance quality question.*
+7. **"plain fact of" (6 found / 6 ch) — NO RULING; NO QUOTA.**
+   **⚠ Blanket FIX-AT retired 2026-08-08 (author ruling).** This entry read
+   simply "Interiority formula; vary" — a vary-all with no keeper, issued from
+   a raw count on 2026-08-03 and never re-examined. Six across ~137,700 words
+   is one per ~23,000 of a **non-striking** formula: the exact profile ruled
+   not overuse at #49. **The pre-ruled item queued at `nothing-underneath:121`
+   (ch. 50) is void** — present it neutrally, or not at all if the line is
+   sound. Local density (two in a chapter) remains raisable.
 8. **"before she'd decided to" — PROTECT the construction, RATION the exact
    wording.** Body-before-mind is the book's craft rule and this construction
    is that rule rendered — the *shape* (action preceding decision) is
@@ -203,9 +266,13 @@ re-rule against their then-current text.
     specifically, not "a beat". Bare "a beat" runs ~50× book-wide as ordinary
     unmarked idiom (`practice-room:53` "let a beat go by", `dear:69` "let a
     beat pass") and is not under this ruling.
-    **Open question for the Volume One pass:** which 2–3 of the remaining
-    "a beat past" occurrences claim the keeper slots. `how-its-done` is now
-    out of the running.
+    **⚠ 2026-08-08:** this entry's closing "open question — which 2–3 of the
+    remaining occurrences claim the keeper slots; `how-its-done` is out of the
+    running" is **void with #2's quota**. There are no slots. The two fixes
+    above stand on their stated merits (the `fed:73` near-twin, the
+    `another-round:53` half-collision), which is why they survive the
+    retirement — but `how-its-done` is not disqualified from anything, because
+    there is nothing to be disqualified from.
 
 ## Batch 4 (ruled 2026-08-07, during the Fed review)
 
@@ -216,18 +283,25 @@ re-rule against their then-current text.
     standard, where the others name a goodbye, a friend, a dare, comfort), and
     its situation is owned better by `all-the-time:135`, the same beat (Randi
     at the curb, holding past the length) under far more pressure.
-    **Current Vol-1 slate, none yet ruled keepers:**
-    - `all-the-time:135` — "close, steady, a beat past what a goodbye needed"
-      — **presumptive keeper**, ruled at its review.
+    **⚠ 2026-08-08 — the scarcity framing in this entry is void** (see #2).
+    "Fed claims no keeper slot," "measured against the full remaining slate,"
+    and "out of the running" all presumed a budget the author never set. The
+    `fed:73` fix stands on the merit stated (its comparison term is the only
+    abstract one), not on losing a competition.
+    **Current Vol-1 inventory — no slots, no presumptions, each ruled on its
+    own merits at its chapter's review:**
+    - `all-the-time:135` — "close, steady, a beat past what a goodbye needed".
     - `one-bite:155` — "her mouth staying on Vee's a beat past what a friend's
-      would" — **presumptive keeper**, ruled at its review.
+      would". **Note: ch. 38's report finds this and `all-the-time:135` are
+      the same goodbye sentence written twice** — that is a real *duplication*
+      finding, independent of any count, and is the live question for chs. 34
+      and 38.
     - `another-round:53` — "a beat past what any look she'd ever been given in
       public would have dared".
     - `may-i-choose:107` — "The quiet held a beat past comfortable."
     - `water-wings:23` — "stayed until her lungs asked, and a beat past that":
       literal duration, arguably not the tic at all; editor may decline it.
     - `grace:29` — Volume Two, out of scope.
-    `how-its-done` (#20) and `fed` are both now out of the running.
 
 22. **"all over her / all over you" (the legible-face idiom) — PROTECT the
     construction, RATION the local density.** Same shape as ruling #5.
@@ -484,6 +558,13 @@ FIX-AT. Do not vary either occurrence before that count exists.
     echo. Before raising one, check (a) that the instances share a referent and
     a construction, and (b) that they are close enough for a reader to carry.
     Distance alone can retire a candidate.
+    **⚠ PROMOTED 2026-08-08.** This rule was written here and then not applied
+    to anything else — including #8 the following day, which is how the census
+    there hardened into a quota. It now lives in the ledger's preamble
+    (*"Governing rule — a count is not a finding"*) and outranks every numbered
+    entry. *Meta-lesson: a general rule recorded inside a specific entry does
+    not govern; if a ruling is meant to bind the whole ledger, it goes at the
+    top.*
 
     `gone:67` was nonetheless recast — **on its own merits, not as an echo**.
     "His hands slid up to cup the round of her" made the phrase the entire
