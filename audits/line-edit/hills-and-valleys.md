@@ -54,3 +54,17 @@ Distinctive phrasings from this chapter that may recur elsewhere in the book; fl
 - `:45` "and that was the whole of it" — chapter-closing summary tag; likely to recur as a cadence.
 - `:5` / `:45` "The cold sat in his fingers" / "the cold going out of the morning" — in-chapter frame, but check the cold-sat-in construction across the outdoor chapters.
 - `:43` "running the arithmetic anybody could run" — arithmetic-as-judgment figure.
+
+## Author rulings (2026-08-08)
+
+0. `:19` pre-ruled echo #8 (last Vol-1 slot) — **KEEPER GRANTED**, line stands. Ration #8 closed for Volume One. Ledger #49.
+1. `:21` "the look she got when she'd caught him out" — **cut** (option a). Ledger #50.
+2. `:31` "She'd do it, too." — **cut** (option a). "which was everything" kept on gpt-5.5's quotation.
+3. `:3` "She was small on the bike and fast on it, all of her folded down into the work," — **cut** (option a). Ledger #51.
+4. `:13` "and it had never once cost him anything" — **cut**, two-years clause kept (option b). Resolves the "never once" echo with `:3`. Ledger #52.
+5. `:27` "He marvelled at it, as ever," — **cut** (option a).
+6. `:1` "when the weather let them" → "most Saturdays" (option c).
+—. Finding 9 (`:45` "and that was the whole of it") — **dropped before presentation**: already left standing at the 2026-07-27 triage (gpt-5.6-sol praise). Rediscovery.
+—. Linter sweep — **ack all 12** (option a). 0 errors. `:13` hits were re-arms of the protected simile after item 4.
+
+**6 edits applied. 1 keeper granted. 1 finding dropped as settled.**

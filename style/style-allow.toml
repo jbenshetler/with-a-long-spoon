@@ -1600,6 +1600,34 @@ text = "It's the thing that makes all the rest of you read the way it does."
 note = "Pace's dialogue — his cataloguing cadence as he names her body; voice, not narrative telling. Do not sanitize."
 
 [[ok]]
+fp   = "307ec8bd8058"
+rule = "a-small"
+file = "scenes/hills-and-valleys.md"
+text = "Her bike was a small frame, not much bigger than a child's, and there was never as much of her as the work she got out of it: the whole small engine of her standing on the pedals and driving the grade, the bleached length of her ponytail swinging across her back with each pump of her legs."
+note = "Line-edit pass 2026-08-08, author sign-off. :13 the-way/weather = re-arm of the protected Sheri weather simile after the item-4 tail cut (triage 2026-07-27). :27 a-small/filter-verbs/there-was-were, :41 file-verb, :45 whole-of = all left standing in the 2026-07-27 cold-read triage, now acked. :19 filter-verbs and :25 there-was-were are inside the five-reader-praised 'Listen to you' beat; hearing-himself IS the content. x-not-y density modest, :29 is a keeper line."
+
+[[ok]]
+fp   = "4d59019320a9"
+rule = "file-verb"
+file = "scenes/hills-and-valleys.md"
+text = "She filed it somewhere."
+note = "Line-edit pass 2026-08-08, author sign-off. :13 the-way/weather = re-arm of the protected Sheri weather simile after the item-4 tail cut (triage 2026-07-27). :27 a-small/filter-verbs/there-was-were, :41 file-verb, :45 whole-of = all left standing in the 2026-07-27 cold-read triage, now acked. :19 filter-verbs and :25 there-was-were are inside the five-reader-praised 'Listen to you' beat; hearing-himself IS the content. x-not-y density modest, :29 is a keeper line."
+
+[[ok]]
+fp   = "15f58f7ee69f"
+rule = "filter-verbs"
+file = "scenes/hills-and-valleys.md"
+text = "Sheri put her head down and pulled away from him as she always did, and he watched her go."
+note = "Line-edit pass 2026-08-08, author sign-off. :13 the-way/weather = re-arm of the protected Sheri weather simile after the item-4 tail cut (triage 2026-07-27). :27 a-small/filter-verbs/there-was-were, :41 file-verb, :45 whole-of = all left standing in the 2026-07-27 cold-read triage, now acked. :19 filter-verbs and :25 there-was-were are inside the five-reader-praised 'Listen to you' beat; hearing-himself IS the content. x-not-y density modest, :29 is a keeper line."
+
+[[ok]]
+fp   = "74ceb3b52fdc"
+rule = "filter-verbs"
+file = "scenes/hills-and-valleys.md"
+text = "He heard himself going and didn't stop."
+note = "Line-edit pass 2026-08-08, author sign-off. :13 the-way/weather = re-arm of the protected Sheri weather simile after the item-4 tail cut (triage 2026-07-27). :27 a-small/filter-verbs/there-was-were, :41 file-verb, :45 whole-of = all left standing in the 2026-07-27 cold-read triage, now acked. :19 filter-verbs and :25 there-was-were are inside the five-reader-praised 'Listen to you' beat; hearing-himself IS the content. x-not-y density modest, :29 is a keeper line."
+
+[[ok]]
 fp   = "45277862c267"
 rule = "the-way"
 file = "scenes/hills-and-valleys.md"
@@ -1607,11 +1635,67 @@ text = "She remarked on women the way other people remarked on the weather, and 
 note = "cold-read pass 2026-07-27: 2 of 3 reviewers quote the line as Sheri's defining note; author keeps it"
 
 [[ok]]
+fp   = "d9bee8d92ae6"
+rule = "the-way"
+file = "scenes/hills-and-valleys.md"
+text = "She remarked on women the way other people remarked on the weather, and she'd been doing it across this handlebar for two years."
+note = "Line-edit pass 2026-08-08, author sign-off. :13 the-way/weather = re-arm of the protected Sheri weather simile after the item-4 tail cut (triage 2026-07-27). :27 a-small/filter-verbs/there-was-were, :41 file-verb, :45 whole-of = all left standing in the 2026-07-27 cold-read triage, now acked. :19 filter-verbs and :25 there-was-were are inside the five-reader-praised 'Listen to you' beat; hearing-himself IS the content. x-not-y density modest, :29 is a keeper line."
+
+[[ok]]
+fp   = "21ba77dd91b8"
+rule = "there-was-were"
+file = "scenes/hills-and-valleys.md"
+text = "Her bike was a small frame, not much bigger than a child's, and there was never as much of her as the work she got out of it: the whole small engine of her standing on the pedals and driving the grade, the bleached length of her ponytail swinging across her back with each pump of her legs."
+note = "Line-edit pass 2026-08-08, author sign-off. :13 the-way/weather = re-arm of the protected Sheri weather simile after the item-4 tail cut (triage 2026-07-27). :27 a-small/filter-verbs/there-was-were, :41 file-verb, :45 whole-of = all left standing in the 2026-07-27 cold-read triage, now acked. :19 filter-verbs and :25 there-was-were are inside the five-reader-praised 'Listen to you' beat; hearing-himself IS the content. x-not-y density modest, :29 is a keeper line."
+
+[[ok]]
+fp   = "f2acd23b69e0"
+rule = "there-was-were"
+file = "scenes/hills-and-valleys.md"
+text = "He didn't know what there was to listen to."
+note = "Line-edit pass 2026-08-08, author sign-off. :13 the-way/weather = re-arm of the protected Sheri weather simile after the item-4 tail cut (triage 2026-07-27). :27 a-small/filter-verbs/there-was-were, :41 file-verb, :45 whole-of = all left standing in the 2026-07-27 cold-read triage, now acked. :19 filter-verbs and :25 there-was-were are inside the five-reader-praised 'Listen to you' beat; hearing-himself IS the content. x-not-y density modest, :29 is a keeper line."
+
+[[ok]]
+fp   = "02f32340f736"
+rule = "weather"
+file = "scenes/hills-and-valleys.md"
+text = "She remarked on women the way other people remarked on the weather, and she'd been doing it across this handlebar for two years."
+note = "Line-edit pass 2026-08-08, author sign-off. :13 the-way/weather = re-arm of the protected Sheri weather simile after the item-4 tail cut (triage 2026-07-27). :27 a-small/filter-verbs/there-was-were, :41 file-verb, :45 whole-of = all left standing in the 2026-07-27 cold-read triage, now acked. :19 filter-verbs and :25 there-was-were are inside the five-reader-praised 'Listen to you' beat; hearing-himself IS the content. x-not-y density modest, :29 is a keeper line."
+
+[[ok]]
 fp   = "34d6138a0ede"
 rule = "weather"
 file = "scenes/hills-and-valleys.md"
 text = "She remarked on women the way other people remarked on the weather, and she'd been doing it across this handlebar for two years, and it had never once cost him anything."
 note = "cold-read pass 2026-07-27: literal-adjacent simile is Sheri's defining line; author keeps it"
+
+[[ok]]
+fp   = "2f45790e8e67"
+rule = "whole-of"
+file = "scenes/hills-and-valleys.md"
+text = "He caught her up, and they rode on side by side, the cold going out of the morning, and that was the whole of it."
+note = "Line-edit pass 2026-08-08, author sign-off. :13 the-way/weather = re-arm of the protected Sheri weather simile after the item-4 tail cut (triage 2026-07-27). :27 a-small/filter-verbs/there-was-were, :41 file-verb, :45 whole-of = all left standing in the 2026-07-27 cold-read triage, now acked. :19 filter-verbs and :25 there-was-were are inside the five-reader-praised 'Listen to you' beat; hearing-himself IS the content. x-not-y density modest, :29 is a keeper line."
+
+[[ok]]
+fp   = "439751bfd1b7"
+rule = "x-not-y"
+file = "scenes/hills-and-valleys.md"
+text = "She was waiting there, soft-pedaling, not as winded as would have suited either of them."
+note = "Line-edit pass 2026-08-08, author sign-off. :13 the-way/weather = re-arm of the protected Sheri weather simile after the item-4 tail cut (triage 2026-07-27). :27 a-small/filter-verbs/there-was-were, :41 file-verb, :45 whole-of = all left standing in the 2026-07-27 cold-read triage, now acked. :19 filter-verbs and :25 there-was-were are inside the five-reader-praised 'Listen to you' beat; hearing-himself IS the content. x-not-y density modest, :29 is a keeper line."
+
+[[ok]]
+fp   = "6a23d2cad3a7"
+rule = "x-not-y"
+file = "scenes/hills-and-valleys.md"
+text = "She shook her head, not at him, just running the arithmetic anybody could run."
+note = "Line-edit pass 2026-08-08, author sign-off. :13 the-way/weather = re-arm of the protected Sheri weather simile after the item-4 tail cut (triage 2026-07-27). :27 a-small/filter-verbs/there-was-were, :41 file-verb, :45 whole-of = all left standing in the 2026-07-27 cold-read triage, now acked. :19 filter-verbs and :25 there-was-were are inside the five-reader-praised 'Listen to you' beat; hearing-himself IS the content. x-not-y density modest, :29 is a keeper line."
+
+[[ok]]
+fp   = "b3c55321bc8e"
+rule = "x-not-y"
+file = "scenes/hills-and-valleys.md"
+text = "Her bike was a small frame, not much bigger than a child's, and there was never as much of her as the work she got out of it: the whole small engine of her standing on the pedals and driving the grade, the bleached length of her ponytail swinging across her back with each pump of her legs."
+note = "Line-edit pass 2026-08-08, author sign-off. :13 the-way/weather = re-arm of the protected Sheri weather simile after the item-4 tail cut (triage 2026-07-27). :27 a-small/filter-verbs/there-was-were, :41 file-verb, :45 whole-of = all left standing in the 2026-07-27 cold-read triage, now acked. :19 filter-verbs and :25 there-was-were are inside the five-reader-praised 'Listen to you' beat; hearing-himself IS the content. x-not-y density modest, :29 is a keeper line."
 
 [[ok]]
 fp   = "a97e41d7f77d"

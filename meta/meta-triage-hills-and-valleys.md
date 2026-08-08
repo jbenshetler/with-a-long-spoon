@@ -50,3 +50,109 @@ clean (dates vs. chronology, cross-scene continuity with {{Lesson}} and
 ## Housekeeping
 
 - Corrected stale date in `meta-condensed-hills-and-valleys.md`: now ~Sat Oct 24 (the Saturday after the Thu Oct 22 CW-Dance blowup, matching the chronology). An earlier version of this note said Oct 31 in error — corrected by the timeline sweep 2026-08-03.
+
+---
+
+# Triage — Hills and Valleys (line-edit pass, 2026-08-08)
+
+Source: `audits/line-edit/hills-and-valleys.md` (9 findings), reviewed with the
+author item by item. Cold-read enrichment: all five models
+(claude-fable-5, claude-opus-4-8, gpt-5.5, gpt-5.6-sol, gpt-5.6-terra).
+**8 items ruled, 6 edits applied, 1 finding dropped as already-settled, 1
+pre-ruled echo resolved as a keeper.**
+
+## Context worth keeping
+
+- **The chapter is the best-liked short piece in the pass so far.** No reader
+  found it long; claude-opus-4-8 wanted it *longer* ("I'd have ridden farther
+  with her"). All five read it as a deliberate exhale that widens the field and
+  builds dread. **Do not lengthen and do not trim for pace** — every edit this
+  pass was local overwork, none structural.
+- **Reader-protected lines (five-model consensus):** the `:19` gush (walnut
+  joint, thumb down the grain, the math book "not put it back like it had
+  burned her"), `:23` "Listen to you," `:25` "He didn't know what there was to
+  listen to" (opus: *"That's the tell — he can engineer a woman's whole night
+  but he can't hear himself falling"*), `:31` "She could turn it on a person
+  inside a breath and keep it burning for years," `:33` "She couldn't take your
+  heat" (fable-5: Pace protecting Vee from his own friend), `:39` "Randi.
+  That's not finished" (opus: *"the first time a sane bystander has looked at
+  the shape of this and said, flatly, this ends badly"*), and `:29` "not as
+  winded as would have suited either of them."
+- **gpt-5.6-terra is the only reader to have seen the final title** and found
+  it effective: literal terrain plus emotional terrain, *"does not spoil
+  anything; it makes the chapter's physical rhythm feel like a mood."* The
+  earlier four reviewed "Sheri — First Ride." The title question is closed.
+
+## Fixed (6 edits)
+
+- **`:1`** — "They rode Saturdays when the weather **let them**, out past his
+  place" → "They rode **most** Saturdays, out past his place." The first of two
+  "let them" eleven words apart; the second ("they talked where it let them")
+  is the chapter's governing idea and was being spent early. Side effect: the
+  chapter's only *figurative-adjacent* weather hit is gone, leaving the
+  protected simile as the sole use.
+- **`:3`** — cut "She was small on the bike and fast on it, all of her folded
+  down into the work," keeping "She had been faster than him on the climbs…"
+  `:27` renders the same observation with images (child's frame, standing legs,
+  ponytail); the assertion was pre-empting its own dramatisation, and "small"
+  ran three times across the two paragraphs. Echo ledger #51.
+- **`:13`** — cut "and it had never once cost him anything," keeping "and she'd
+  been doing it across this handlebar for two years." The protected weather
+  simile is untouched; what went is the narrator's reassurance tail, which is
+  where gpt-5.6-sol's over-explain reaction actually lived. Also resolves the
+  "never once" repeat with `:3` at no cost. Echo ledger #52.
+- **`:21`** — cut "the look she got when she'd caught him out," leaving "When
+  he ran down Sheri was looking at him sideways." The narration was diagnosing
+  the catch, then Sheri delivered it, then his blankness confirmed it — three
+  deliveries. All five readers quoted the exchange; none quoted the label.
+  Echo ledger #50.
+- **`:27`** — cut "He marvelled at it, as ever," leaving "He saved his breath
+  for the hill, and came up at the top a length behind." "Marvelled" named the
+  response the colon-clause had just produced — body-before-mind running
+  backwards. (The clause had been touched once before, in the 2026-07-27 tic
+  pass; that fix did not address the overwork.)
+- **`:31`** — cut "She'd do it, too." from "'You want me to not like her?' she
+  said. **She'd do it, too.** She could turn it on a person…" The verb repeated
+  inside four clauses ("She'd do it" / "he'd seen her do it"). The closing
+  gloss "which was everything" was **kept**: gpt-5.5 quoted the sentence
+  *including the tail* as the line that made them "both like and fear her."
+
+## Left standing — do not re-litigate
+
+- **`:19` "And then he was past the name before he'd decided to be"** —
+  **keeper granted** (author, 2026-08-08). This was the last of ration #8's six
+  Volume One slots and the default was to vary. Granted on claude-fable-5's
+  citation of the line by name as the moment Pace gushes — the same evidentiary
+  standard that protected `a-round:220`. **Ration #8 is now closed for Volume
+  One.** See echo ledger #49.
+- **`:45` "and that was the whole of it"** — the editor's finding 9 (ends one
+  beat late) was **dropped before presentation**: already ruled left standing
+  at the 2026-07-27 triage on gpt-5.6-sol's praise. Rediscovery, not new
+  evidence.
+- **`:31` "which was everything"** — see Fixed above; kept against the editor's
+  recommendation on gpt-5.5's direct quotation.
+- **The `x-not-y` cluster (`:27`, `:29`, `:43`)** — three info-level hits.
+  `:29` ("soft-pedaling, not as winded as would have suited either of them") is
+  a keeper line; the other two are structural. Density ruled acceptable.
+- **`:19` filter-verb "He heard himself going and didn't stop" and `:25`
+  "there was"** — both sit inside the five-reader-praised beat, and *hearing
+  himself* is literally the content of the moment. Not tics here.
+
+## Linter acks (author sign-off 2026-08-08)
+
+All 12 active hits acked; 0 errors. Nothing unruled among them:
+
+- `:13` **the-way** + **weather** were **re-arms**, not regressions — the
+  fingerprints re-fired when the item-4 edit reworded the protected simile's
+  sentence. Same protected line.
+- `:27` **a-small** / **filter-verbs** / **there-was-were**, `:41`
+  **file-verb**, `:45` **whole-of** were all left standing at the 2026-07-27
+  triage but never acked, which is why they kept nagging. Now suppressed.
+- `:19` **filter-verbs**, `:25` **there-was-were**, and the three **x-not-y**
+  hits per the left-standing entries above.
+
+## Housekeeping
+
+- The chronology entry (line 144) lists `present: Pace` — Sheri is the other
+  participant and is not listed. Flagged, not changed (chronology metadata is
+  the author's).

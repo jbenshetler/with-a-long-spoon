@@ -745,3 +745,72 @@ the drumroll is a likelier culprit than the line.*
   shoe with no occasion").
 - **"like a person raised right"** (`:27`) — Vee's self-deprecating class
   marker; check for siblings.
+
+---
+
+## Batch 12 — Hills and Valleys review (2026-08-08)
+
+49. **Ruling #8 CLOSED — `hills-and-valleys:19` KEEPER GRANTED.** "And then he
+    was past the name before he'd decided to be" stands. This was the sixth and
+    last Vol-1 slot and the default was vary; the author granted the keeper on
+    cold-read evidence — claude-fable-5 quotes the line by name as the moment
+    Pace *gushes*, the same standard that protected `a-round:220`. **Final
+    disposition of the six:** `the-bench:303` keeper; `a-round:58` and
+    `a-round:220` PROTECTED; `peekaboo:39`, `rock:197` varied;
+    `hills-and-valleys:19` keeper. **Ration #8 is now closed for Volume One** —
+    no slots remain, and any further instance found in Vol One is a fix, not a
+    request. Rule: *a ration exists to stop a construction becoming a
+    signature, not to hit a quota — once the policing has done its work, the
+    strongest surviving instance is the one to keep, and the reader evidence
+    decides which that is.*
+
+50. **The gloss before the line — cut the label, keep the look.** `:21` read
+    "Sheri was looking at him sideways, the look she got when she'd caught him
+    out," and then Sheri says "Listen to you," and then Pace doesn't know what
+    there is to listen to. Three deliveries of one beat. Ruled: cut the gloss;
+    the sideways look is the evidence and the dialogue is the news. **Reader
+    evidence was decisive in the finding's favour, not against it** — all five
+    readers quoted the *exchange*, none quoted the label (cf. #48: praise
+    attaches to what the readers named). Rule: *when narration diagnoses a
+    look and the next line of dialogue delivers the same diagnosis, the
+    narration is the one that goes — a character saying it beats the narrator
+    labelling it.*
+
+51. **Assert once or show once, not both — and the shown one wins.**
+    `hills-and-valleys:3` stated Sheri small-and-fast-and-folded-into-the-work;
+    `:27` showed it with the child's-frame bike, the standing legs, the
+    ponytail. Ruled: thin `:3` to the single fact the setup needs (she
+    outclimbs him and says so) and let `:27` do the seeing. Rule: *when a
+    chapter both asserts a trait early and dramatises it later, cut the
+    assertion to the bare fact the plot needs — the dramatisation is not a
+    payoff if the reader was already told.*
+
+52. **Reassurance hides in the tail clause, not the figure.**
+    `hills-and-valleys:13` — gpt-5.6-sol felt the Sheri weather simile
+    "supplied reassurance before I had much chance to form my own impression,"
+    a criticism ruled spent at the 2026-07-27 triage (two of three readers
+    named the simile a favourite). Revisiting the *scaffolding* per #48 found
+    the reassurance was never in the simile: it was in "and it had never once
+    cost him anything," a narrator's it's-fine note. Cut; the two-years clause
+    kept for its concrete fact. Rule: *when a reader calls a characterising
+    line over-reassuring and the line is otherwise loved, check the trailing
+    clauses before defending or cutting the figure — the thumb is usually in
+    the tail.* (Also resolved the "never once" echo with `:3` at no cost.)
+
+### Candidates raised at Hills and Valleys, UNRULED
+
+- `:19` **"He heard himself going and didn't stop."** — the heard-himself
+  construction, Pace's speech-betrayal family; possible relative of the
+  PROTECTED "it came out." Reader-praised in situ; logged, not varied.
+- `:45` **"and that was the whole of it"** — chapter-closing summary tag,
+  triage-protected here (gpt-5.6-sol). Likely to recur as a cadence; count it
+  book-wide before any sibling chapter's editor is allowed to flag one.
+- `:5` / `:45` **"The cold sat in his fingers" / "the cold going out of the
+  morning"** — deliberate in-chapter frame. Check the cold-sat-in construction
+  across the outdoor chapters.
+- `:45` **"she'd said her piece"** — idiom; check Sheri/Randi beats.
+- `:43` **"running the arithmetic anybody could run"** — arithmetic-as-judgment
+  figure.
+- `:41` **"She filed it somewhere"** — `file-verb` tic, triage-protected here
+  on gpt-5.6-sol's approval and its rhyme with the sorority-folder motif. Do
+  not vary; count siblings.
