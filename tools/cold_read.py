@@ -307,6 +307,11 @@ def main():
                     help="attempts per scene (default 3). A retry appends a FORMAT REMINDER, "
                     "which self-heals the occasional missing-section response.")
     ap.add_argument("--fresh", action="store_true", help="regenerate existing reviews (default: resume/skip)")
+    ap.add_argument(
+        "--legacy-resume",
+        action="store_true",
+        help="explicitly continue a pre-v2 review chain without injecting the new volume packet",
+    )
     ap.add_argument("--price-in", type=float, default=None, help="override API input price (USD/1M tokens)")
     ap.add_argument("--price-out", type=float, default=None, help="override API output price (USD/1M tokens)")
     ap.add_argument("--max-output-tokens", type=int, default=None,
@@ -422,6 +427,7 @@ def main():
             model_id=model_id,
             scenes=scenes,
             resume=not args.fresh,
+            allow_legacy_resume=args.legacy_resume,
             max_attempts=args.max_attempts,
             budget_usd=budget_usd,
             provider_label=(

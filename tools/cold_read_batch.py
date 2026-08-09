@@ -405,6 +405,7 @@ def run_batch(
     scenes=None,
     resume: bool = True,
     max_attempts: int = 5,
+    allow_legacy_resume: bool = False,
     label_prefix: str = "BlindBatch",
     budget_usd: float | None = None,
     provider_label: str = "OMP",
@@ -418,6 +419,8 @@ def run_batch(
     scene's actual cost exceeds it, or a call comes back marked `incomplete`
     (hit its output cap). Combined with the caller's per-call max_output_tokens
     cap and a low `max_attempts`, this bounds per-scene spend."""
+    def usable_review(path: Path) -> bool:
+        return has_valid_review(path) or (allow_legacy_resume and path.exists())
     scenes = list(scenes or FALL_SCENES)
     out_dir = Path("reviews/cold-read") / model_id
     out_dir.mkdir(parents=True, exist_ok=True)
@@ -437,7 +440,7 @@ def run_batch(
         if pos > 0:
             pred_slug = full_slugs[pos - 1]
             pred_file = out_dir / f"{pred_slug}.md"
-            if not has_valid_review(pred_file):
+            if not usable_review(pred_file):
                 raise RuntimeError(
                     f"cannot seed carry-forward for {scenes[0]['slug']}: predecessor "
                     f"'{pred_slug}' has no review in {out_dir}. Start the run from the "
@@ -451,13 +454,13 @@ def run_batch(
             carry = ""
             predecessor = None
         existing = out_dir / f"{scene['slug']}.md"
-        if existing.exists() and not has_valid_review(existing) and resume:
+        if existing.exists() and not usable_review(existing) and resume:
             raise RuntimeError(
                 f"review protocol mismatch for {scene['slug']} at {existing}; "
-                "choose a new --model-id or explicitly regenerate with "
-                "--fresh --allow-volume-one-rewrite."
+                "choose a new --model-id, explicitly regenerate with "
+                "--fresh --allow-volume-one-rewrite, or pass --legacy-resume."
             )
-        if resume and has_valid_review(existing):
+        if resume and usable_review(existing):
             carry = existing.read_text().split("## Carry-forward state", 1)[1].strip()
             predecessor = scene["slug"]
             rec = {
