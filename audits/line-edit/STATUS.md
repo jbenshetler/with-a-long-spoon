@@ -36,7 +36,7 @@ the echo shortlist with the author before per-chapter editing starts).
 | 28 | Hills and Valleys | hills-and-valleys | reviewed |
 | 29 | A Recognized Method | recognized-method | reviewed |
 | 30 | The Practice Room | practice-room | reviewed |
-| 31 | The Induction | the-induction | edited |
+| 31 | The Induction | the-induction | reviewed |
 | 32 | We Find Out | we-find-out | edited |
 | 33 | Made-Up | made-up | edited |
 | 34 | One Bite | one-bite | edited |

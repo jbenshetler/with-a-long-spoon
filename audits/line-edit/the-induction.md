@@ -54,3 +54,56 @@ Distinctive phrases worth a book-wide count:
 - **"her body agreeing" / "come up to meet the decision"** (`:25`, `:35`) — body-before-mind variants that break the `before s/he'd decided to` stem, so **not** counted against ruling #8's ration; logged for the family's end-of-pass inventory.
 - **"absurdly light for the weight of the walk"** (`:25`) — the light-object/heavy-meaning figure; verify unique.
 - **"the small choreography of"** (`:9`) — check against the "the small ___" family under unruled #3.
+
+## Author rulings (2026-08-09)
+
+Reviewed item by item. Filters applied before presentation: `meta-triage-the-induction.md`
+(2026-07-28 cold-read triage + 2026-08-02 line audit), the style linter, and a
+six-model cold-read mining pass (`claude-fable-5`, `claude-opus-4-8`, `gpt-5.5`,
+`gpt-5.6-sol`, `gpt-5.6-terra`, `kimi-k3`).
+
+- **Finding 1** (`:9`, "the small choreography…") — **dropped, not presented.** Already
+  ruled left-standing 2026-07-28; also reader-praised (kimi-k3).
+- **Finding 2** (`:11`, "resettled") — **applied**, variant (b): "stood there **and**
+  resettled".
+- **Finding 3** (`:11`, "the same highlight…") — **applied**, cut as recommended.
+- **Finding 4** (`:13`, "no performance in it") — **left standing.** Reader-praised
+  (kimi-k3: "landed sincere"); the supporting "sorry"-count was made stale by the
+  Finding 12 cut.
+- **Finding 5** (`:13`, "it was only a ___" twice) — **left standing.** Designed
+  asymmetry (refused / attempted-and-failed), not an accidental echo.
+- **Finding 6** (`:15`, the picture parenthetical) — **applied, and escalated.** Not a
+  rhythm problem: "up the mountain the day she named the dress" is a **continuity
+  error** (no slit, no ownership, no fantasy register at `leave-no-trace`, Sep 27; and
+  Pace deliberately did not make the dress she named there). Author chose to cut the
+  whole parenthetical rather than keep the correct Peekaboo citation.
+- **Finding 7 + 8** (`:23`, the room's comprehension) — presented as one item;
+  **applied**, option (c): the first rendering cut entire. Both spans were
+  reader-praised and the cut partially reverses the 2026-07-28 panel fix; the author
+  accepted the trade to avoid pre-spending the murmur, **pending a cold-read re-run.**
+- **Finding 9** (`:23`, "the give and take of her") — **applied**, cut as recommended.
+- **Finding 10** (`:25`, "because she'd handed it to them") — **applied and extended**:
+  clause cut, and "the leg" → "**her** leg" at the author's direction.
+- **Finding 11** (`:35`, third decision/body rendering) — **applied**, trimmed to the
+  bare deixis.
+- **Finding 12** (`:37`, the send over-prepared) — **applied**, option (a): motive clause
+  and frame inventory cut, "uncropped" kept.
+- **Finding 13** (`:41`, the danger clause) — **applied and redirected.** "about it" cut
+  as recommended; the opening clause was **not** cut but corrected —
+  "The **danger** of it" → "The **dread** of it" (author). See triage.
+- **Bonus** (`:37`, "the single thing he'd built it to do", from gpt-5.6-sol) —
+  **applied**: "single" dropped, attribution kept.
+
+### Pre-ruled item
+
+- **"stop the room"** — resolved. The phrase stays out permanently; the payoff is
+  enacted at `:23` and then **reported by Cassie** at `:33` ("You sure got their
+  attention"), a line added this pass. The report's setup count was wrong: two
+  Sorority instances, not four, and only one is a setup. Echo ledger #62.
+
+### Echo candidates
+
+Ruled: `#61` (the `a-round:198` dread rhyme, PROTECTED), `#62` (stop the room),
+`#63` (bare "a moment longer" → IGNORE, `held-past` linter rule narrowed book-wide;
+8 of 36 hits dropped). Remaining candidates from the list above are unruled and carry
+forward to the end-of-pass harvest.

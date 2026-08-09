@@ -1229,3 +1229,104 @@ register."* `grace:205` ↔ `practice-room:121` is a **designed rhyme** (same
 noun, same permission-clause shape, opposite reception) — do not vary either.
 *Proof* is now deliberately spent twice; a sixth instance of the family must
 rotate the noun.
+
+## Batch 15 — The Induction review (2026-08-09)
+
+**#61 — "the dread" at the pivot into power: PROTECTED as a designed rhyme
+(author, 2026-08-09).** `a-round:198` ("The dread drained out and something
+warmer and bolder rushed in to fill the space… someone who'd just found out
+she had a kind of power she'd never been issued") and `the-induction:41` ("The
+dread of it was behind her now — she could walk any way she pleased out to the
+car…"). Same noun, same sentence-job: the fear-state named **as it departs**,
+at the exact hinge into power. The rhyme is the point — `A Round` is where Vee
+*discovers* the power she was never issued, under one man's eye and not by her
+own choosing; `The Induction` is where she issues it to herself, in public,
+unsupervised. Do not vary either occurrence.
+
+Context for the ruling: the line read "The danger of it was behind her now"
+until this pass. "Danger" was a claim about the **room** — and the chapter has
+spent forty lines establishing that the room is warm, dull and kind, with no
+danger in it. What was behind her was her own state, not a circumstance. A
+lore check established that direct naming of Vee's exposure-fear has extensive
+precedent and is not a craft breach: `a-round:152`, `:166` (shame), `:168`
+("one fearful breath"), `:198` (dread); also `vee-on-the-bench:63`, `:107`,
+`:459`, `burn:159`, `:161`, `grace:189`, `fairytale:133`,
+`nothing-underneath:7`, `another-round:55`. The book names the emotion
+*alongside* the somatic rendering, not instead of it. "Terror" was considered
+and rejected as overshooting the chapter's managed register; "the careful"
+(an in-chapter callback to `the-induction:9`, `:19`) was the runner-up and
+remains available if the rhyme is ever retired.
+
+**#62 — "stop the room": the payoff is DELIVERED BY CASSIE, never in the
+phrase (author, 2026-08-09).** Supersedes the Batch 7 note that "the payoff
+belongs to {{The Induction}}."
+
+*Report correction first:* the line-edit report cited four Sorority setups
+(`:27`, `:55`, `:69`, `:99`). There are **two**. `sorority:27` and `:99` do
+not contain the phrase — the editor over-counted. And of the two, only one is
+a setup: `sorority:69` is Randi, about the dress ("A dress a man made *to* you
+doesn't want to go with everything. It wants to walk in late and stop the room
+cold"). `sorority:55` is **Vee pricing a tan clearance heel she does not buy**
+("It's not going to stop the room, but it works… It's the sensible one");
+Randi kills that shoe four lines later, and the phrase leaves the book with
+it. So the ledger position was one offhand line of dialogue, not a planted
+refrain.
+
+*The ruling.* {{The Induction}} does not use the phrase and must not. Vee never
+walks in late — the room is "warm and dull and kind, full of nobody's late
+entrance" — and she stops it anyway, from a folding chair, mid-ceremony, with
+one long step. Randi's script is **bettered, not fulfilled**, which is the
+Randi/Vee track working. Note the inversion: Randi promises *arrest* ("stop
+the room **cold**"); what Vee produces is "the sound a dull room makes when it
+**wakes up**" — cold arrest versus warm waking, the book's warmth-first
+argument in miniature.
+
+*What was added instead.* The author's call: the impact is stated by a **third
+party**, in close third, without the phrase. `the-induction:33`, Cassie
+answering Vee's "How did I look?" — "Like a movie star. **You sure got their
+attention.** Somebody had to document it." Three reasons this is the right
+instrument. (1) Vee was on the stage facing front; **she did not see the room
+turn.** Cassie was in the seats and did, so the line is new information, not a
+restatement of the murmur at `:23`. (2) **Cassie does not know how high the
+slit went**, so she names the *effect* and never the *cause* — which protects
+`:25` ("the room knew, and not a soul in it could have said so out loud").
+Cassie is not an exception to that line; she is proof of it, and on reread the
+charge is that the woman who took the photograph has no idea what she
+photographed. (3) It removes the need for Vee to appraise her own effect,
+which every alternative placement required.
+
+Considered and rejected: planting Randi's phrase in the `:15` daydream; a
+callback at `:23`–`:27` (scores the walk one line after the reader feels it);
+a self-appraisal beat at `:41` (superseded by the Cassie line — doing both
+would say it twice). A downstream Randi scene hearing the result remains
+available and is **not** ruled here.
+
+**#63 — the bare comparative ("a moment longer") is IGNORE; the `held-past`
+linter rule narrowed to match (author, 2026-08-09).** Five instances of
+"[X] looked … a moment longer" in Volume One — `long-way:11`,
+`may-i-choose:59`, `the-induction:37`, `we-find-out:73`, `outlier:87` — two of
+them in **consecutive chapters** (31 and 32), which is normally the carryable
+adjacency this ledger cares about. Ruled **not a finding anyway**: the bare
+comparative is idiom, ordinary English for a character pausing before acting,
+with no named function and nothing distinctive for a reader's ear. Decisive
+evidence: **six cold readers** working the full chapter chain flagged none of
+the five, while the same readers did catch real repetition in those chapters
+(opus on "didn't make herself small" and "the slit shut" in this very
+chapter). The tic the rule exists to catch is the **measured comparison** — a
+duration named against the function it exceeds ("longer than the errand
+needed", "a beat past what a goodbye needed"). This entry does **not** disturb
+#59/#60, which govern that figure.
+
+Implemented in `style/style-rules.toml`: `longer|more` after a duration now
+requires a `than` within 40 characters; the `too ___` and `past ___` forms are
+unchanged. Verified against `scenes/` — **8 of 36 book-wide hits dropped, all
+bare**, every function-comparison instance retained. `the-induction:15` ("no
+one watched them any longer than the walking took") still fires, is
+load-bearing, and was `--ack`ed: it measures the room's indifference in
+exactly the units Vee's walk then overturns.
+
+**Housekeeping flag (not a ruling).** The Practice Room block above
+(2026-08-09) was appended without a `## Batch` header and **restarted its
+numbering at #30**, colliding with the earlier #30–#33 in the Batch 1–2 range.
+Entries are unambiguous by date and content, but a future harvest that cites
+"#31" will be ambiguous. Left as-is pending an authorial call on renumbering.

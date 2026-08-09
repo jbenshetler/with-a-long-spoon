@@ -5184,6 +5184,13 @@ text = "Steely Dan was going low under it all, had been since before she came â€
 note = "Randi's music lane (Steely Dan, smooth/cool); the one load-bearing 'unhurried'; kept"
 
 [[ok]]
+fp   = "eed84bbdde6a"
+rule = "held-past"
+file = "scenes/the-induction.md"
+text = "But the actual room was warm and dull and kind, full of nobody's late entrance; the navy girls rose and crossed and came back with their hands full and no one watched them any longer than the walking took."
+note = "Author ruling 2026-08-09 (line-edit review): load-bearing. Measures the room's indifference in exactly the units Vee's walk later overturns â€” the navy girls hold no one longer than the walking takes; her long step does. The figure's sharpest use in the book."
+
+[[ok]]
 fp   = "21894f4b06de"
 rule = "the-way"
 file = "scenes/the-induction.md"

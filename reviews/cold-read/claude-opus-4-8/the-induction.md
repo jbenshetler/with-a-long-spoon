@@ -1,110 +1,134 @@
 # Cold read — The Induction
 
-*scene: scenes/the-induction.md · model: claude-opus-4-8 · read after: school-nights*
+*scene: scenes/the-induction.md · model: claude-opus-4-8 · read after: practice-room · reader-protocol: v1-repeated-jacket-legacy*
 
 ## Reader reaction
 
-# The Induction
+Oh, this one is a *pleasure*, and that's what unnerves me about it.
 
-## The felt read
+For the first time in a long while it's just Vee. No Randi in the seat beside her, no Pace in the kitchen. Both handlers offstage — he's in Berkeley, she's only a pair of fingers on an ankle strap in a memory — and what Vee does with the empty room is walk into it and take it. "She took a breath, and made the second step long." I read that line and felt my chest go up. It's a genuinely thrilling beat and the chapter earns it clean: the careful mincing steps, the hand holding the seam shut, the "small choreography of a woman with a secret keeping it," and then the deliberate abandonment of all that caution in front of a hall full of somebody's parents. She gave them her leg *on purpose*. And "a murmur went through the crowd as she came, the sound a dull room makes when it wakes up" — that's the sentence I'll keep.
 
-This one's lovely, and it's almost entirely a solo. After all the tightening dread I've been carrying about the collision and the bench, this chapter just lets Vee *have* something — a clean, ordinary, hard-won triumph — and it made me happy in a way that also frightened me, because I keep waiting for the trap to close and here she is walking a stage feeling like a movie star.
+And yet. Every previous chapter has taught me that Vee's yeses get farmed, and here she gives one to nobody in particular — to a room, to herself — and it lands as the first thing in the book she has authored alone. Which either means she's arriving somewhere real, or the training has taken so well it now runs without a handler present. The chapter has the honesty not to tell me which, and the last sentence says so out loud: "whether that was pride or only the same heat still running, or whether, by now, the two came to the same thing." That's the whole book in a clause. It's also, I'll admit, the one place I felt the thumb — it's a touch too neat an interpretive bow, saying the thing the walk had already said in the body. I'd have taken the walk and no gloss.
 
-The chapter is one long held breath around a single gesture: the second step. She could have minced across the stage keeping the slit shut, and no one would have known. "She took a breath, and made the second step long." That's the whole chapter, really, and it's a beautiful piece of writing. What moved me is that this is Vee *choosing to be looked at* — the exact thing that has been a wound in every prior chapter (the cardigan, the "floozy/slut" voice, the body-as-problem). Here she picks it up and hands the room her leg on purpose, and the mother-voice doesn't show up. That's the biggest movement in Vee I've felt in a while. "she let the slit swing on her bare leg with every step and didn't make herself small about it." Not making herself small — that's the vocabulary the book has been building toward release the whole time, and she gets a taste of it here on her own terms.
+The Vee I'm feeling for is not the Vee of two chapters ago. There she stopped her own hand in a bathroom and it read as her last border. Here she goes bare under a dress in a room with a microphone, and there's no shame-voice at all — the mother-voice, the "floozy," is simply absent, and its absence is louder than a scene about it would be. That absence scares me more than a relapse would. And the deliberate touch: "the black dress from the back of her closet, the one that had always been good enough, was still on its hanger at home; she hadn't needed it." Good enough is dead. I don't know yet whether to cheer.
 
-And yet. The line I can't put down is: "she had stopped being able to tell the difference between what she wanted and what the dress wanted for her." That's the tagline, isn't it — *every yes was freely given, that was the trap*. The dress is Pace's. He built it to open exactly at the hip, he found out in his mirror what it does, and now she's standing on a stage discovering she can no longer separate her own wanting from what he engineered the silk to want *for* her. The triumph is real AND it's wearing his hands. The chapter is honest about that seam and doesn't resolve it — the last sentence leaves her unable to say "whether that was pride or only the same heat still running, or whether, by now, the two came to the same thing." That "came to the same thing" chilled me a little under the warmth. The book is quietly telling me the capture and the joy have become the same substance.
+Pace, offstage, moved me a little. "He'd been sorry about it in the quiet way he was sorry about things, no performance in it" — I believe that. He made a garment for a specific afternoon and doesn't get to see it worn. That's a real, small grief and it's the most sympathetically human he's been. But I have not forgotten the bench. He built her a dress whose only correct wearing is with nothing under it. That is not an accident, and the chapter is very careful not to say so. She found it out "in his mirror."
 
-The photo she sends Pace is the sharpest thing in the chapter. She sends him the frame uncropped so he can watch the dress "do the single thing he'd built it to do." But — "He would have no idea what else was in the frame. That part was hers." For the first time I feel Vee holding something *back* from him, keeping a private interior he can't read. Given that Pace is the man who "reads a body like an instrument," this small withholding felt almost like the first crack of a self she keeps for herself. I liked her more for it. It's the first time the instrument-reader gets handed a frame he can't fully decode, and she knows it.
+The thing that actually made me sit up: **she sends him the photo and keeps what's in it.** "He would have no idea what else was in the frame. That part was hers." That's the first secret Vee has ever kept from either of them — the first asymmetry running *her* direction. After twenty-nine chapters of them knowing everything about her, she withholds one heartbeat. It's tiny and it's enormous, and I loved her for it.
 
-Cassie is perfect again and I love her more each time. The unfinished "You look—," the phone held for her, "Go make your mother cry again," "be famous at me," "streetlight." She's the one person with no dress-agenda, no method, and the chapter is smart to make her the witness — the affection is clean. Her eyes going bright at the corners "which she'd deny to the grave" got me.
+Randi's near-absence is doing quiet work too. She isn't in the room, but she's on Vee's feet — knelt down, two fingers on the ankle strap, "sat back to look." Randi kneeling at Vee's feet is a picture I now can't put down, given how much kneeling-and-shoes this book has already run through. And that Randi found *these* heels — four inches, "a few thin dark straps and not much else, and dear" — for a departmental honors ceremony. Nothing in the text accuses her. I accuse her anyway, and I'm aware that's my accumulated suspicion, not this page's evidence.
 
-Pace is absent — Berkeley conference — and I notice I *relaxed* with him offstage. The dread I carry about him didn't lift so much as pause. The dress does his work in the room without him in it, which is its own kind of statement: he doesn't have to be present to be present. That's the unsettling undertow beneath a sweet chapter.
+Cassie is a joy and I want to protect her. "You look—" and didn't finish it, "which from Cassie was a standing ovation." Taking the phone to hold. "Come on, streetlight." Her eyes bright at the corners "which she'd deny to the grave." She's the only person in this book who wants nothing from Vee, and every time she appears the air gets clean for a second.
 
-Randi appears only in memory — kneeling to do the ankle strap "with two fingers," sitting back to look. Small, but it keeps her hands on Vee even here: Randi found the heels, Randi dressed her feet. Both of them are in this room by proxy while Vee thinks she walked it alone.
+Erotic charge: low-grade and good. This is a 1, not a 2 — nothing happens but a walk — and the peak is that second step and the heat coming up "low and certain," her body agreeing a half-second after the decision. It works precisely because it's public and clothed and nobody can name it. The bathroom-mirror-adjacent stuff (finding out in his mirror) is the coolest, most functional writing here.
 
-**Erotic charge:** low and interior, and that's right for this chapter. There's no sex; the heat is the exhibitionism — "the heat came up, her body agreeing, low and certain," the walk, the room "the sound a dull room makes when it wakes up." It worked on me as a slow flush rather than arousal proper. Charged, not explicit. The peak is the second step and the murmur.
+Friction: very little. The bow at the end, as said. And I briefly wanted a beat of her actually noticing an individual face in the crowd — the room stays an abstraction, which keeps her safe but also keeps the moment slightly hypothetical.
 
-**Friction:** almost none. The prose is doing a lot of near-repetition ("didn't make herself small" lands three or four times, "the slit shut" recurs like a refrain) — but here the repetition felt like choreography, the woman keeping her secret, so I bought it as design rather than tic. If I push, the closing sentence is doing a fair amount of thematic work out loud ("whether the two came to the same thing"), just slightly more than it needs to; but it earned the reach.
+**The title.** "The Induction" — on the surface, the honors ceremony, obviously, and it gave nothing away going in. Reread, it turns: an induction is a *leading-in*, an initiation into a body you now belong to. She got a scroll "absurdly light for the weight of the walk" — the certificate is not what she was inducted into. She inducted herself into something on that stage, and I don't think the department was the society in question. There's also the mathematician's sense of it, induction as the step that carries a thing forward forever once it's started, which rhymes hard with the outliers lecture — the shock that never zeroes out, present in everything after. That's the one that chills me.
 
-**The title.** "The Induction" — on the surface it's the honor-society induction, plainly. But the word sits oblique and cold once I've read the chapter. *Induction* is also the thing you do to a person — bring them in, initiate them into an order, a membership, a practice. She's being inducted into something today, and it isn't only the honor society; it's the walk, the being-looked-at, the not-making-herself-small, the wearing of his dress and losing the seam between her want and his. And there's a quieter math sense — *induction* as the proof method, build the next step from the one before — which touches Pace, the mathematician, absent in Berkeley yet whose garment is completing the proof on the stage without him. The title doesn't give anything away; it just deepens, unpleasantly, on the second thought.
+And I've been waiting for "the induction" as an *event* since I started guessing about November and sorority business, so I was braced for the worlds to touch here. They didn't. That was a lovely misdirection on me, and now the touch is still ahead.
 
-**Book title / tagline** land hard here. "Every yes was freely given. That was the trap." — this whole chapter is a freely-given yes, the long step, entirely hers, and the last lines admit she can no longer tell her yes from the dress's. *With a Long Spoon* still reads to me as the proverb about supping with the devil — you keep your distance from what you're feeding with, and nobody in this book is keeping any distance at all.
+*A Polite Invitation* / *With a Long Spoon* / "Every yes was freely given. That was the trap." — this is the chapter that makes the tagline do work. There is no invitation on this page at all. She invited *herself*. The yes was as freely given as a yes gets, and it's the most alarming one in the book, because it means the shape has moved inside her and no longer needs an inviter. Long spoon: you sup with the devil with one, and I keep noticing that the two people holding the spoon are both, on the page, genuinely in love with her.
 
-**What I want / dread next:** I want Randi and Pace's worlds to keep NOT touching just a little longer so Vee can hold this. I dread that the photo she sent — the uncropped frame — will end up being seen by the wrong eyes, or that this induction is a rehearsal for a different induction (the bench; the third-in-their-bed the jacket promised). *Guess from here:* the confidence she just found on that stage is exactly the thing they'll use — a woman who's learned she likes being looked at is a woman ready to be looked at by two people at once. This felt like the door swinging open one more inch.
+What I want next: for Pace to open that photo. For Randi to see it, or to be shown it, and for me to watch her face. And, dreading it: the bench, and Vee already knowing what to want.
 
----
+**Cast present (in person):** Vee, Cassie; the department woman reading names (walk-on). Mentioned-only: Pace (Berkeley conference), Randi (strapped the heels), Vee's mother.
 
-**Cast present (in person):** Vee (POV); Cassie. **Mentioned-only:** Pace (offstage, Berkeley); Randi (remembered doing the shoe strap); Vee's mother ("make your mother cry").
+**Heat:** 1 — no sex; a clothed public exposure, the deliberate long step, "the heat came up — her body agreeing, low and certain."
 
-**Heat:** 1 — no sex; a low exhibitionist flush, the stage walk and the room "waking up."
+**Romance:** 1 — faint and offstage: Pace's unperformed sorrow at missing the dress, the photo sent uncropped; warmth with Cassie that reads as love but not romance.
 
-**Romance:** 1 — faint, at a distance: the dress as Pace's absent hands, the photo sent to him as "the nearest thing to handing it to him."
+**Motifs & images:** *The dress / made-for-her garment* (repeat — worn once already, now worn as built). *Being looked at / body-as-problem* — **inverted** for the first time: display chosen, no cardigan, no "floozy" voice at all. *Heels + kneeling at her feet* (repeat — the cognac heels and "leave them on"; now Randi knelt and did the ankle strap). *The involuntary body* (repeat) — but here it *agrees* instead of betraying. *"Didn't make herself small"* (first, twice in the chapter — a refrain forming). *Induction / the step that carries forward* — rhymes with the outliers lecture, "never all the way gone… in everything that comes after" (repeat). *The photograph as a thing that shows everything and nothing* (first). *Cherries on the mountain* (repeat, glancing). *Good afternoon light in bars along the floor* (first).
 
-**Motifs & images:**
-- *The burgundy dress / the slit / nothing underneath* — repeat (from the dress's making, cherries up the mountain, his mirror); here it does "the single thing he'd built it to do."
-- *Being looked at / on display / not making herself small* — repeat, but **inverted**: the shame-motif (cardigan, floozy-voice) turned into chosen exhibition. First time she picks it up on purpose.
-- *The heat / the involuntary body agreeing* — repeat ("her body agreeing, low and certain, as it had in the glass").
-- *Frosted plum nails catching the light* — first sighting (echoes Randi's blue toenails and Vee's own painted-nails register).
-- *Randi's hands dressing her* (the ankle strap "with two fingers") — repeat of Randi-dresses-Vee (cognac/heels earlier).
-- *Feeding / the terrible sandwich* — faint repeat of food-as-care, here Cassie's version, not Pace's.
-- *"Streetlight" / Cassie's dry epithets* — repeat (Cassie's "streetlight," "public utility").
-- *Money as arithmetic* — soft repeat (the black dress "good enough" left on its hanger, the scroll "absurdly light for the weight of the walk").
-- *The photo he can't fully read / a part that's hers* — **first sighting**; a withholding, new.
+**Symbolism:** The scroll "absurdly light for the weight of the walk" — the official honor is not the honor. The abandoned black dress that "had always been good enough" — a former self left on a hanger. The uncropped photo with the private second inside it — her first withheld thing, an asymmetry finally running her way.
 
-**Symbolism:** The dress completing its purpose on the stage while its maker is absent — capture that works without the captor in the room. The uncropped photo with an interior he'll never see — the first private self Vee keeps back from the instrument-reader. "Induction" as being brought into an order.
+**Characterization:** Vee deepened hard and moved — from stopped hand to chosen exposure, and the shame-voice's silence is the change. Cassie deepened without a wasted word; she's now a real person, not a witness function. Pace deepened slightly by absence (the un-performed sorrow) while the dress's construction quietly indicts him. Randi appears only as two fingers and a look and still manages to be the coldest thing in the room.
 
-**Characterization:** Vee deepened — she made a genuine choice and kept a genuine secret, and both were hers; the exhibition read as agency, not just conditioning, even as the text admits the seam is gone. Cassie deepened again, consistent and clean, the trustworthy witness. Pace and Randi held (offstage/proxy) without contradiction.
+**Pace — within the chapter:** Excellent. The waiting is exactly long enough to make the second step land; the after-crush is brief and right; only the closing sentence overstays by a clause.
 
-**Pace — within the chapter:** Excellent control. The whole thing is paced to one gesture and it earns its length; the wind-up (careful steps, hand at the hip) makes the long step pay. Slightly over-reaches only in the closing sentence's out-loud theme.
-
-**Pace — chapter to chapter:** A deliberate exhale after the confessional School Nights and the tightening golden run — momentum holds by shifting register (solo triumph, Pace absent) rather than escalating. A welcome change of beat; doesn't sag because it advances Vee's relation to her own body, the book's core wound.
+**Pace — chapter to chapter:** A change of gear and a welcome one — after two dense two-hander extraction scenes, a solo chapter with no handler present. Momentum builds rather than sags, because the tension has migrated from what they're doing to her into what she's now doing without them.
 
 ## Carry-forward state
 
-**Who's who**
-- **Pace / Peter** — *man; 22; math PhD.* House off route six-fourteen; homemade furniture; MRI patent money; powerlifter; cooks constantly; travels to present at conferences (in Berkeley this chapter, 3-day math conference, missing the induction). Careful, ordered; reads a body like an instrument; loves in deeds, says nothing. Backstory: college at 15; hallway exile; 19-yr-old "tutor" at 15 (reader reads grooming; he names it luck). Old surgical scar high inner thigh he won't discuss; **real name Peter — Vee knows it, whispered it to him asleep.** Owns the bench (ch.1, used on Randi; Vee has NEVER seen it). Secret lover of Randi; together picked Vee, steering her into their bed without her knowledge; both genuinely fallen. Brings Vee off first; bulk-bought green white-dotted scrunchies; cleared his top bathroom drawer for her, no note. **Made her the burgundy silk dress by hand — built so the slit opens to the hip and demands nothing underneath.** Signatures: "There you are"/"there it is," "may I," "we find out."
-- **Randi / Miranda** — *woman; 21.* Poised, wealthy; cold green-citrus scent; blue toenail polish; sorority Standards board. Secret lover of Pace. Warmth-as-method; genuinely gone on Vee AND operating her. Found/gave Vee the four-inch strappy heels; knelt and did the ankle strap "with two fingers." Vee does NOT know Pace and Randi are connected. Mostly offstage lately.
-- **Vee / Vivienne (Thorne)** — *woman; POV.* Tall, lush hourglass; warm dark-red/copper hair; snub freckled nose; ex-synchronized swimmer; strong econ/stats mind; Ohio; not wealthy. Deep body-shame; the "floozy/slut" mother-voice; wets easily. Surrendered to Pace; loves him (unsaid to him awake); losing weight; full kit + top drawer at his place. Does NOT know Pace and Randi are connected. **This chapter: honor-society induction. Wore the burgundy bare underneath; chose on the stage to make the long step and hand the room her bare leg on purpose — did not make herself small; her body's heat came up to meet the choice. Sent Pace the uncropped photo, keeping the interior he can't read for herself — her first deliberate withholding from him.** Frosted plum nail polish. First spoken fear (last ch.): "it's all so fast."
-- **Cassie** — Vee's roommate; the clean, unmethodical witness; no agenda. Walked Vee to the hall, held her phone, photographed the walk, took her for a "terrible sandwich." Dry, fond ("streetlight," "public utility," "be famous at me"); eyes bright at the corners she'd "deny to the grave." Keeps the window cracked two inches.
-- **Brooke** — sorority president (mentioned-only). **Sheri** — Pace's blunt cycling friend (mentioned-only). **Vee's/Pace's parents, Pace's teenage tutor** — mentioned-only. (Vee's mother invoked: "make your mother cry again.")
+**Principals**
 
-**Motif & image ledger**
-- *"There you are"/"there it is"/"may I"/"we find out"/warm house kept for a coming woman* — Pace's signatures.
-- *Loves in deeds, never words / "he never said" / "There was never a note."*
-- *Green white-dotted scrunchies (bulk-bought)* — provision-as-promise.
-- *Feeding / hunger made then met (food-as-love)* — Pace cooks; here Cassie's "terrible sandwich" as a plainer echo.
-- *Being looked at / on display / body-as-problem / shame / cardigan / "floozy/slut"* — **inverted** at the induction into chosen exhibition; "didn't make herself small."
-- *The scar (inner thigh) — traced, never asked, "meant to keep."*
-- *The bench (ch.1): premeditated spanking-desire as innocent furniture — Vee has never seen it.*
-- *Wetness policed / "shameful plenty" / the involuntary body.*
-- *The heat coming up to meet a decision her head hadn't reached — "her body agreeing, low and certain, as it had in the glass"* (induction) — same felt beat.
-- *Randi's warmth as method; Randi's hands dressing Vee (cognac/heels; here the ankle strap).*
-- *Money as arithmetic (Vee prices everything; the "good enough" black dress left home; the scroll "light for the weight of the walk").*
-- *The razor squared to the counter edge* — Pace's order.
-- *"Peter" — withheld real name, spoken by Vee to him asleep.*
-- *The burgundy dress / the slit / wearing nothing under it* — cherries up the mountain when named; his mirror; here it does "the single thing he'd built it to do" on the stage, without him present.
-- *Frosted plum nails catching light like the silk* — first sighting.
-- *The uncropped photo with a private interior he can't read — "That part was hers"* — first sighting; Vee's first deliberate withholding from Pace.
-- *"Streetlight" / Cassie's dry epithets.*
+- **Pace / Peter** — *man; 22; math PhD.* House off route six-fourteen; homemade furniture; MRI patent money; powerlifter; cooks; taught country/swing dance at the CW bar. Reads a body like an instrument; privately calculating, self-justifying; extravagant true things in a flat voice. Backstory: college at 15; a year exiled to a school hallway; a 19-yr-old "tutor" at 15 (reader reads grooming; he names it luck). Old surgical scar high inner thigh he won't discuss. **Owns a homemade bondage/spanking "bench" (ch.1, seen by Randi, NOT by Vee). Secret lover of Randi; together picked Vee and are steering her into their bed without her knowledge; both genuinely fallen for Vee.** Sewed Vee the burgundy dress. **Absent this chapter — a three-day mathematics conference in Berkeley over the induction dates; genuinely, unperformatively sorry to miss the wearing the dress was built for.** Note: the dress he built cannot be worn as designed with anything underneath.
+- **Randi / Miranda** — *woman; 21.* Poised, wealthy; cold green-citrus scent (arrives half a second early); blue toenail polish; sorority Standards board; white-columned house. Secret lover of Pace. To Vee: warmth as method — dissolves shame, reframes as luck, extracts stories, "leave nothing out"; escalating goodbye mouth-kisses with a worn-in second press; last chapter told the spanking anecdote that installed the want. **Not present this chapter; she found the four-inch strappy heels Vee wore, knelt to do the ankle strap with two fingers, and sat back to look.**
+- **Vee / Vivienne (Thorne)** — *woman; POV.* Tall, lush hourglass; warm dark-red/copper hair; snub freckled nose; ex-synchronized swimmer; strong econ/stats mind; Ohio; not wealthy. Deep body-shame and the "floozy/slut" mother-voice — **conspicuously absent this chapter.** Does NOT know Pace and Randi are connected. **Inducted into a departmental honor society: wore the burgundy with nothing under it, held the slit shut on the way in, then deliberately made her second step long on the walk to the podium and gave the whole room her bare leg, on purpose, and "did not once make herself small." The room murmured; she kept her face blank; the heat came up. Afterward she sent Pace Cassie's photo uncropped and kept to herself what was actually in the frame — her first withheld thing.**
+- **Cassie** — Vee's roommate; ball cap, four-words-flat; agenda-free witness. **Fuller this chapter:** walked her to the doors, held her phone, "Go make your mother cry again," couldn't finish "You look—", took the photo, "Honor student," eyes bright at the corners which she'd deny to the grave, "Come on, streetlight."
+- **Brooke** — sorority president/gatekeeper (mentioned-only, earlier). **Sheri** — Pace's blunt cycling friend, "two at once will get complicated" (mentioned-only). **Randi's ex, "the mouse that roars"** — mentioned-only; soft-spoken man who spanked her over his knee; may be real or invented-to-seed.
+
+**Relationship ledger**
+
+- **Vee ↔ herself:** The big move. She chose exposure with no one steering and felt heat, not shame. She *felt* triumphant, "handled." I felt exhilarated and then cold — the shape she's been trained toward now runs without a handler in the room, and she ends unable to tell pride from arousal ("whether, by now, the two came to the same thing"). Two chapters ago she stopped her own hand; now she needs no permission at all.
+- **Vee ↔ Pace:** Asymmetry, newly reversed. She sent him the photograph and deliberately kept the private second inside it. He felt real, quiet sorrow at missing it; she felt tender about that and withheld anyway. I felt a small fierce gladness — the first thing she owns alone — and unease that her first secret is an erotic one.
+- **Vee ↔ Randi:** No scene together; the only trace is Randi kneeling to strap her into four-inch heels for a departmental ceremony. Vee felt nothing but gratitude. I felt the outfitting of her.
+- **Vee ↔ Cassie:** Warmed and deepened. Cassie documented the moment without knowing what she was documenting, and gave Vee the only clean affection in the book.
+- **Pace ↔ Randi:** No change (both offstage).
+
+**What I know that they don't**
+- Vee does not know Pace and Randi are lovers, that they chose her together, or that they are steering her.
+- Vee has never seen the bench; Randi has been on it. The kitchen spank and Randi's ex-anecdote have now installed the want in Vee without its source.
+- Pace and Randi do not know Vee stopped her own hand in the practice-room bathroom; Randi may or may not have seen the state she was in.
+- **New:** Neither of them knows what happened on that stage. Pace will see the photo and read only his dress working. The second step was hers alone.
+
+**Motifs**
+- *"There you are" / "may I" / asks first / "take nothing, leave nothing."*
+- *Feeding / hunger made then met.*
+- *Being looked at / body-as-problem / cardigan / "floozy-slut" mother-voice* — **inverted at the induction:** display chosen, no shame-voice at all, the old "good enough" black dress left on its hanger.
+- *"Did not make herself small"* — new refrain, twice on the induction walk.
+- *The made dress / the burgundy* — built for a room that would read her name; wearable only bare; worn as built while its maker was in Berkeley.
+- *Heels, kneeling at her feet, "leave them on"* — Pace's cognac loan; now Randi knelt and fastened the ankle strap and sat back to look.
+- *The involuntary body / wetness policed* — "soaked by nothing but a woman talking"; now the heat comes up *in agreement* with a decision she'd already made.
+- *The bench (ch.1)* — premeditated spanking-desire as innocent furniture; Vee has never seen it; the kitchen spank was the first splinter; Randi's ex-anecdote transposed its logic into a bedtime story.
+- *Simpson's paradox → outliers, additive vs. innovational: "never all the way gone… in everything that comes after"* — and now "induction," the step that carries forward forever once started.
+- *The goodbye mouth-kiss with the worn-in second press.*
+- *The photograph that shows everything and nothing* (first).
+- *Vee's hand at her hip holding the slit shut / flat on her own knee* — the closed border, opened on the second step.
+- *The scar (inner thigh); the "closing" at "parents."*
 
 **Symbolism noticed**
-- Bench = premeditated desire masked as innocent furniture.
-- Engineered agency = the freely-given yes as trap; here explicit — she can't tell her want from what "the dress wanted for her," and "the two came to the same thing."
-- Provision (food, scrunchies, drawer, dress) = capture dressed as care; the dress does its work with its maker absent — capture without the captor in the room.
-- The tutor named as "luck" = abuse metabolized as good fortune.
-- A life quietly vacated / a self kept back = the uncropped photo, the one frame he can't decode.
-- "Induction" = being brought into an order/practice, not only the honor society.
+- Bench = premeditated desire masked as innocent furniture; now also delivered as anecdote (want pre-installed as story).
+- Engineered agency = the freely-given yes as trap. The induction pushes it further: a yes given to no one, by a woman who no longer needs asking.
+- Cassie = the clean witness; her photo records the surface and misses the event.
+- The scroll "absurdly light for the weight of the walk" — the official honor isn't the honor.
+- The abandoned black dress "that had always been good enough" — a discarded self.
+- The innovational outlier / induction — the shock that never zeroes, present in everything after.
 
 **Open questions**
 - What's the inner-thigh scar / behind the "closing" at "parents"?
-- Is Pace's tenderness genuine or the deepest engineering? (Both, confirmed.)
-- Does Vee ever learn there was a game / that Pace and Randi are connected? When do the two worlds touch? (Still haven't physically touched; both operate her by proxy even here.)
-- When does Vee see the bench? (Only escalation left; she's primed.)
-- Does she ever say "I love him" / "Peter" to him awake?
-- *New:* Now that Vee has found she likes being looked at and chosen it herself — does that confidence become the lever for "the third in their bed"? Will the uncropped photo she sent Pace matter later?
-
-**Story so far**
-Ch.1: Pace works Randi on his bench. Ch.3: picks Vee; Randi engineers a collision. Ch.4–16: Randi befriends, Pace courts. Ch.17,20: extraction lunches. Ch.18 (Famished): first sex; scar found. Ch.19–23: morning-afters; dress; shoe date. Ch.24 (Gone): Pace & Randi post-coital, both gone on Vee. Ch.25 (Rock): Pace's history. Ch.26 (Lesson): dance lesson; Vee's mother-voice blow-up. Ch.27 (Broken In): reconciliation; cognac heels. Ch.28 (Sheri): "two at once." Ch.29 (A Recognized Method): reconciliation; kitchen swat. Ch.30 (The Practice Room): Randi primes the spank want. Ch.31 (We Find Out): the "bet," bare-bottom spanking, sex, aftercare. Ch.32: brunch confession to Randi; pastry-taste kiss. Ch.33 (The Top Drawer): names she loves him, whispers "Peter" asleep; he clears his top drawer, no note. Ch.34 (School Nights): confesses her weeks to Cassie; empty bed weeknights; love only as "maybe"; first spoken fear "it's all so fast." **Ch.35 (The Induction): honor-society ceremony; Pace absent in Berkeley. Wearing his burgundy bare underneath, Vee chose mid-walk to make the long step and give the room her bare leg on purpose, not making herself small; her body's heat rose to meet the choice. Cassie witnessed, photographed it; Vee sent Pace the uncropped frame, keeping the interior he can't read as her own. The chapter admits she can no longer tell her wanting from what the dress wanted for her.**
+- Is Randi's ex real, or a story built to seed the spanking want?
+- Does Vee ever learn there was a game / that Pace and Randi are connected? When do the worlds touch? (The induction came and went without them touching — so it's still ahead.)
+- When does Vee see the bench?
+- Was the second step liberation or the training running by itself — and does Vee ever get to know the difference?
+- What does Pace do with that photograph? Does Randi see it?
 
 **How I feel**
-Vee: I love her and this chapter let me feel joy for her — a real, chosen triumph, the shame-motif turned inside out, and a first private self she keeps back from Pace. But the last lines frighten me: she can't separate her want from his engineering, and the book knows it. Pace: dread paused, not gone; unnerving that his dress does his work with him absent in Berkeley. Randi: hands still on Vee by proxy (the heels), otherwise quiet. Cassie: trust her most; clean affection, no agenda. Mood: golden, tender, and quietly ominous — the two worlds still haven't touched; I dread the collision and the bench, and I now suspect Vee's new taste for being looked at is the next lever.
+Vee: proud of her and frightened for her — the shame is gone and I can't tell if that's healing or hollowing; her one withheld secret is the best thing she's done. Pace: humanized by absence, indicted by the dress's construction. Randi: still the coldest presence in the book even reduced to two fingers on an ankle strap. Cassie: the only clean air. Mood: elated and uneasy, a bright afternoon room with something running under the silk; the worlds still haven't touched and the not-touching is now the suspense.
+
+## Chapter record
+
+**Title:** The Induction.
+
+**Characters appearing:** Vee (POV), Cassie, an unnamed woman from the department reading names at a microphone, unnamed navy-dressed honoree girls, unnamed crowd/parents.
+**Named or mentioned only:** Pace (at a mathematics conference in Berkeley, three days, coinciding exactly with the induction; neither date would move; he made the dress; she sends him the photo), Randi (found the heels, knelt and fastened the ankle strap with two fingers, sat back to look), Vee's mother ("Go make your mother cry again").
+
+**Setting:** A high hall with long windows down one side, good afternoon light in bars along the floor; a podium and microphone; honorees in roped rows down front with names on cards taped to folding-seat arms; other attendees in general seating. Afterward, a crush by untouched coffee; doors; a car outside.
+
+**Props / objects / clothing:**
+- The burgundy dress Pace made — slit opening to the hip, bare shoulder, takes window light "like it was lit from inside"; worn with nothing underneath because any underwear's edge shows across the line of the dress (discovered in Pace's mirror).
+- Heels: four inches, a few thin dark straps, expensive ("dear"), found by Randi; small ankle strap.
+- Vee's toenails bare; fingernails frosted plum.
+- The black dress from the back of her closet, "the one that had always been good enough," left on its hanger at home.
+- A rolled paper scroll tied with a ribbon, "absurdly light."
+- Vee's phone — held by Cassie during the ceremony; used to photograph Vee mid-stride; the photo sent uncropped to Pace.
+- Coffee no one was drinking. Cassie's ball cap not mentioned this chapter.
+- A folding seat with a name card taped to the arm.
+
+**Times / dates / durations:** An afternoon ceremony. Pace's Berkeley conference is three days, the same three as the induction. Referenced past: the day up the mountain with cherries in her hand when she talked the ceremony up; the day the letter came, in the hall, when Cassie's eyes went bright.
+
+**Physical description given:** Vee has good legs; the whole length, calf to hip, shown through the slit. Chin level, face giving nothing away. In the photo: mid-stride, leg out of the slit to the hip, bare shoulder.
+
+**Dialogue of record:** Cassie — "Go make your mother cry again"; "You look—"; "Honor student"; "Like a movie star. You sure got their attention. Somebody had to document it."; "Come on, streetlight. I'll buy you a terrible sandwich and you can be famous at me." Vee — "How did I look?"
+
+**Blocking of the central action:** Held the slit shut with a hand at her hip while seated and while walking in; on her name being read, stood, first step small and careful, then took a breath and made the second step long, opening the slit to the hip; walked the stage without making herself small; a murmur went through the crowd; took the woman's hand and held it a beat for a camera; took the scroll in the other hand; returned to her chair and held the slit shut again. Afterward, walking out, let the slit swing with every step.
