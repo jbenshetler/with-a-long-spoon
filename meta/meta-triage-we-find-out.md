@@ -309,3 +309,79 @@ Seven active hits at close, all acked (`style/style-allow.toml`). Six were
 **re-arms** of the 2026-07-28 acceptances, re-triggered because this pass edited
 those sentences — decisions unchanged, notes record the cause. The seventh is
 the `held-past` at `:9`, newly ruled not-the-figure (above). Chapter lints clean.
+
+## Cold-read verification of the line edit (2026-08-09)
+
+Full panel re-read **after** all 19 edits landed, to test whether the pass helped
+or hurt. Four models: `claude-opus-4-8` (blind-reader subagent, `tool_uses: 0`),
+`gpt-5.5`, `gpt-5.6-sol`, `gpt-5.6-terra` (`tools/cold_read.py --auth codex
+--legacy-resume`). `kimi-k3` skipped (slow and expensive, standing ruling);
+`claude-fable-5` skipped (retired). All four ran on the same
+`v1-repeated-jacket-legacy` protocol as their baselines, so the A/B is clean on
+that axis. Baselines recoverable from `a623f57`.
+
+**Verdict: keep everything as edited (author ruling). Nothing restored.**
+
+### Confirmed fixed
+
+- **`:81` "and both of them knew it" — the best-evidenced result in the set.**
+  Opus's pre-edit complaint ("the sentence explained a thing the image had done
+  better") is **gone**, and it now carries the beat approvingly under symbolism.
+  Sol, which ignored the paragraph entirely before, promotes it to a **co-peak**:
+  "the quiet preparation of the bed… That stillness is hotter than the explicit
+  penetration because the waiting makes her wanting impossible to outrun," with a
+  new reading of the turned-down bed as "an altar or place of payment."
+- **`:25` colon** — gpt-5.5 and sol both newly quote "she was faster than he was"
+  approvingly; neither did before.
+- **sol's hinge-sentence objection downgraded.** The logical half ("Pace is
+  present; he is witnessing her") is gone; only a register quibble remains. No
+  edit touched that sentence — consistent with the nearby narratorial glosses
+  (`:71`, `:79`, `:81`) being what made it read as a *pattern* of tidying.
+
+### The curry ending — the author's left-standing ruling vindicated
+
+Three models moved toward it. Opus **reversed outright**: "I liked being left
+there instead of on a beat of doom" (pre-edit: "a third dessert… it stops rather
+than ends"). Sol reversed: "deliberately cools the chapter without going slack"
+(pre-edit: "the vegetable inventory briefly slackens the ending"). gpt-5.5
+softened "abrupt but useful" to "brief but useful." **The 07-28 coda-length
+ruling and this pass's ending ruling both stand, now with post-edit evidence.**
+
+### Watch item — `:97`, the one edit a reader named
+
+Making "It had settled the matter hours ago and was only waiting for her to stop
+asking" a declarative sentence (it was a subordinate "as though" clause) drew a
+**new** opus complaint: "one restatement past the point. Two or three sentences
+in a row do the same 'her body knew before she did' beat." Pre-edit opus said
+nothing about this passage. Promoting the clause to an assertion may have raised
+its prominence — the opposite of the intent, which was to break the near-exact
+grammatical repeat of `:61`. **Left as edited (author, 2026-08-09); flagged for
+the Volume One end-of-pass re-read rather than churned on one run.**
+
+### Not attributable to the edits — recorded so it is not mistaken for one
+
+The diff pass flagged a "cross-model regression": terra reversed from "Pace
+**does stop** when she says 'Don't'" to "her 'Don't'… **not treated by Pace as a
+stopping point**," and gpt-5.5 moved the same way ("he continues unless she
+admits defeat"). **This does not hold as an edit effect.** The "Don't" exchange,
+the bet dialogue, and "slow enough that she could have stepped out of it the
+whole way and didn't" are **completely untouched prose**. A reader flipping on
+text that did not change is run variance. Terra's whole post-edit read is ~30%
+shorter and colder across beats no edit went near, and its Romance 3→2 travels
+with that, not with any specific sentence.
+
+Related and also weak: terra's new "he is also very practiced at making her
+surrender feel inevitable" arrives right after this pass cut "No routine to it,
+nothing practiced." A real coincidence, worth noticing — but one word, one
+model, one run, and opus still reads the aftercare as unplanned with "He hadn't
+planned any of what came next" carrying it alone. **Not restored.**
+
+### Method caveat
+
+One run per model per side. Run-to-run variance is confounded with edit effect
+throughout; only findings that repeat across models, or that land on an edited
+sentence, are treated as signal here. Several untouched marquee lines lost their
+quotes in one model's read while gaining them in another's ("Her body had decided
+without her", "the same ease that had been her humiliation was, here, only true")
+— which is the noise floor of this instrument, and a useful calibration for
+reading any single cold read.
