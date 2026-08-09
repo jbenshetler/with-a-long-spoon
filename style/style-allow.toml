@@ -2720,6 +2720,20 @@ text = "She watched him make himself do it."
 note = "watching him comply is the event, not a filter; author sign-off 2026-08-06"
 
 [[ok]]
+fp   = "aa97516b88fe"
+rule = "there-was-were"
+file = "scenes/made-up.md"
+text = "Ten steps in four-inch heels and nothing else, lamplight standing at the end of it, the house's warmth moving over every part of her at once so that there was no forgetting, anywhere, what she wasn't wearing."
+note = "existential kept; double-negative enacts the effortful all-over nakedness-awareness; ruled leave 2026-08-09 line edit (Item 6)"
+
+[[ok]]
+fp   = "e911c05acff7"
+rule = "warm"
+file = "scenes/made-up.md"
+text = "Ten steps in four-inch heels and nothing else, lamplight standing at the end of it, the house's warmth moving over every part of her at once so that there was no forgetting, anywhere, what she wasn't wearing."
+note = "load-bearing warm — warm-house motif on bare skin; ruled keep 2026-08-09 line edit"
+
+[[ok]]
 fp   = "31167d45cf02"
 rule = "filter-verbs"
 file = "scenes/may-i-choose.md"

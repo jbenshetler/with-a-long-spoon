@@ -87,3 +87,30 @@ Raised for the ledger, not applied here.
 - **"so it was silk or it was nothing, and she had wanted to wear the dress"** (`:37`) — near-verbatim callback to `the-induction.md:9` ("to wear the dress as it was built to be worn was to wear nothing under it, and she had wanted to wear the dress"). Reads as designed refrain; log so a later harvest does not present it as an accident.
 - **"the long line"** as the dress's effect (`:37`, `:65`) — a large book-wide family (`peekaboo:47`, `:49`; `the-induction:9`; `fairytale:77`; `grace:147`; `leave-no-trace:29`). Almost certainly a motif; wants one ruling rather than per-chapter flags.
 - **"Take your time"** (`:35`, and its echo in `:69`'s "taking his time") — `the-bench.md:405`, `leave-no-trace.md:157`, `gone.md:31`. Pace's (and once Randi's) instruction; count before varying any.
+
+---
+
+## Author rulings (2026-08-09)
+
+Reviewed item by item; durable ledger in `meta/meta-triage-made-up.md`.
+
+- **#1 `:11` geometry re-explain** — APPLIED (cut the restated positions).
+- **#2 `:11` "It was a good ___" frame** — APPLIED ("It was a good watching." → "The watching was good.").
+- **#3 `:15` "finished"** — LEFT STANDING (canonical heels-finish-the-line motif, `sorority:95`; not varied to "complete" to protect Pace's `:47`).
+- **#4 `:15` "under it"** — LEFT STANDING (idiom + arms the `:67` "what I had on under it" payoff).
+- **#5 `:25` "which with him was a physical event"** — APPLIED (cut the abstraction).
+- **#6 `:33` paragraph carries three movements** — APPLIED (break after "like something sleeping.").
+- **#7 `:33` "she loved that he didn't ask"** — APPLIED (→ "he didn't pry").
+- **#8 `:37` "down" twice** — APPLIED ("She brought it down over her head" → "over her head").
+- **#9 `:37` "the two of them"** — APPLIED (cut → "into the long line.").
+- **#10 `:43` "She watched him make himself do it"** — LEFT STANDING (reader-praised peak, sol; distinct beat from `:51`).
+- **#11 `:45`/`:69` viewing-stem** — APPLIED (`:45` "His eyes went down her" → "His eyes took her in"; `:69` kept).
+- **#12 `:49` "and to her it was louder"** — LEFT STANDING (paradox; private-over-public payoff).
+- **#13 `:57` "raise an objection"** — APPLIED (→ "say a word").
+- **#14 `:63` "He hadn't left the chair…"** — LEFT STANDING (realization-beat; reader-praised).
+- **#15 `:63` existential + negatives** — LEFT STANDING (double-negative enacts awareness; acked).
+- **#16 `:69` "taking his time about the taking"** — LEFT STANDING (reader-praised tell, kimi).
+- **#17 `:69`/`:77`/`:79` looking-density** — APPLIED (cut `:77` "He hadn't stopped looking.", merged dialogue).
+- **Bonus A `:73` sunrise/sunset** — LEFT STANDING (3-reader flag; ruled design — eyebrow puncture).
+- **Bonus B `:7` cleverness-peek** — LEFT STANDING (establishing beat; title/theme work).
+- **Bonus C lyricism cluster** — LEFT STANDING (the voice; `:17` body-before-mind protected; "clean and enormous" logged as cross-volume echo candidate).

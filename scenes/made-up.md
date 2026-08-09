@@ -8,7 +8,7 @@ No one was coming to the door. The road had no children on it, no second porch i
 
 Pace had the dishes — sleeves pushed up, the big pan under the tap, the window going black over the sink — because the kitchen was too small for two and the kitchen was his. Vee sat at the little table with the last of her wine and watched him work.
 
-It was a good watching. The dishes asked almost nothing of him, so the rest of him stayed with her, in and out of easy talk — talk she made to his back, because that was how the kitchen was built, him at the sink and her at the table, and neither of them had ever minded. It was a good back. She watched it work under his shirt, and his forearms bare out of the rolled sleeves, and his hands turning the pan under the water. His hands had made the dinner, and the table she sat at, and the chair that held her.
+The watching was good. The dishes asked almost nothing of him, so the rest of him stayed with her, in and out of easy talk — talk she made to his back, and neither of them had ever minded. It was a good back. She watched it work under his shirt, and his forearms bare out of the rolled sleeves, and his hands turning the pan under the water. His hands had made the dinner, and the table she sat at, and the chair that held her.
 
 And the dress that was in her car.
 
@@ -22,7 +22,7 @@ He looked back over his shoulder, hands still in the water. "Costumes?"
 
 "It's Halloween. Tonight they're costumes."
 
-He shut the tap off and dried his hands and gave her his whole attention, which with him was a physical event, like a door coming open. "Do I get to guess?"
+He shut the tap off and dried his hands and gave her his whole attention, like a door coming open. "Do I get to guess?"
 
 "No."
 
@@ -30,11 +30,13 @@ He shut the tap off and dried his hands and gave her his whole attention, which 
 
 "No. You have to pick which costume you like better." She was already at the front door. "Get your wine and go to the den. Wait for me in the recliner."
 
-She had to slide into his boots to go out, too large by half, and stood there for a second feeling like a child playing dress-up in a parent's closet. The cold outside was clean and enormous, the sky rinsed black over the field, and she clomped to the car, loud in all that quiet. She brought the bag in against her body like something sleeping. He was in the recliner when she came in, his wine within reach, the kitchen dark behind him, the lamp throwing its circle and leaving the book wall in shadow, something low on the speakers now, guitars under a woman's voice. He didn't ask, and she loved that he didn't ask — she carried the bag past him down the hall to the bathroom, and behind her he reached over and turned the lamp by its little switch, one click brighter.
+She had to slide into his boots to go out, too large by half, and stood there for a second feeling like a child playing dress-up in a parent's closet. The cold outside was clean and enormous, the sky rinsed black over the field, and she clomped to the car, loud in all that quiet. She brought the bag in against her body like something sleeping.
+
+He was in the recliner when she came in, his wine within reach, the kitchen dark behind him, the lamp throwing its circle and leaving the book wall in shadow, something low on the speakers now, guitars under a woman's voice. He didn't ask, and she loved that he didn't pry — she carried the bag past him down the hall to the bathroom, and behind her he reached over and turned the lamp by its little switch, one click brighter.
 
 "Take your time," he called, once, through the house. Then nothing. No footsteps in the hall, no voice at the door. The house went back to the music and let her alone with the mirror and the hook on the back of the door and the zipper's long tearing whisper.
 
-Her heels were already here. They'd been here since Friday night, sitting together by the bedroom wall where she'd finally been let out of them — after, and only after, her bet was paid — and she'd fetched them down the hall before her nerve could hear about it. She undressed to nothing, because she had to. The dress had settled that question a long time ago, in the mirror on his sun porch: the slit gave up the edge of anything, so it was silk or it was nothing, and she had wanted to wear the dress. She brought it down over her head and it came down her like it remembered her, cool for half a second and then hers, and she worked it settled with both hands and bent to the small buckles at her ankles and stood up four inches taller into the long line the two of them made.
+Her heels were already here. They'd been here since Friday night, sitting together by the bedroom wall where she'd finally been let out of them — after, and only after, her bet was paid — and she'd fetched them down the hall before her nerve could hear about it. She undressed to nothing, because she had to. The dress had settled that question a long time ago, in the mirror on his sun porch: the slit gave up the edge of anything, so it was silk or it was nothing, and she had wanted to wear the dress. She brought it over her head and it came down her like it remembered her, cool for half a second and then hers, and she worked it settled with both hands and bent to the small buckles at her ankles and stood up four inches taller into the long line.
 
 The woman in the mirror over the sink was cut off at the collarbone. Fine. A roomful of strangers had already been given the rest to guess at. This was the one viewing that mattered, and it was ten steps down a hall.
 
@@ -42,7 +44,7 @@ She opened the door.
 
 She came down the hall into the lamplight the careful way first — the small steps, the slit lying shut, the dress just a dress, deep red going bottomless where the light moved on it. He sat up at the sight of her. Then the dress landed on him: he started up out of the recliner, and she put out one hand, flat, and he sat back down. The wine stayed where he'd set it. She watched him make himself do it.
 
-He didn't say anything for a long moment. His eyes went down her and stopped at her feet and stayed there.
+He didn't say anything for a long moment. His eyes took her in and stopped at her feet and stayed there.
 
 "They complete it," he said.
 
@@ -54,7 +56,7 @@ He didn't touch her. His hand came partway up and he put it away again, and the 
 
 "There's a better one?"
 
-"Different. You decide if it's better." She was gone back down the hall before he could raise an objection.
+"Different. You decide if it's better." She was gone back down the hall before he could say a word.
 
 Behind the door she stepped out of the dress and hung it — properly, seams squared on the hanger, a thing somebody's hands were in — and did not let herself stand there breathing. The heels stayed on. That was all of it: the heels stayed on. Her face in the little mirror had gone pink down to where the mirror gave out, and the pink was not stopping there, and knowing that, and going anyway, was the entire costume.
 
@@ -74,6 +76,6 @@ He considered it. "That's like asking me to choose between sunrise and sunset."
 
 She gave him an eyebrow.
 
-"But if you're making me choose — this one." He hadn't stopped looking. "The other is for the world. This is just for me."
+"But if you're making me choose — this one. The other is for the world. This is just for me."
 
 She stood in his light and let him look, and the blush went down and down, and she did not cover one inch of it.

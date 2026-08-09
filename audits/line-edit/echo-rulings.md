@@ -1360,3 +1360,27 @@ never raise it again.
 scrunchie paragraph and none stumbled on "form." Opus read straight through it
 and glossed it correctly on the fly — "A form of them. He bought a *supply* of
 her future presence."
+
+---
+
+## Made-Up review (2026-08-09)
+
+No FIX-AT applied here — the chapter's repetition findings were in-chapter and
+ruled at review (see `meta/meta-triage-made-up.md`). One cross-volume candidate
+logged for a later keeper ruling:
+
+- **"clean and enormous" — UNRULED (cross-volume), do not vary yet.**
+  `made-up:33` ("the cold outside was clean and enormous, the sky rinsed black
+  over the field") is near-verbatim with `grace.md:103` ("the cold came up off
+  the water clean and enormous") — same sensation, same subject, exact
+  two-word string. **Grace is Volume Two, out of FIX-AT scope**, so neither is
+  touched now; the pair needs a keeper ruling before either is varied.
+  `made-up:33` was **reader-praised** (opus-4-8 called it "lovely" even while
+  flagging the scene's lyricism density), so it has a claim if a keeper is set.
+
+Confirmations logged (not new rulings): the **"finish"/"finishing the line"**
+family stands as a motif (`sorority:95` "the line of her finishing itself";
+`made-up:65` "the long line finishing itself"; `made-up:15` "the heels that
+finished it") — with Pace's spoken **"They complete it"** (`made-up:47`) kept
+distinct, so *complete* is his word and *finish* is the narration's. Do not
+vary `made-up:15`'s "finished" to "complete."

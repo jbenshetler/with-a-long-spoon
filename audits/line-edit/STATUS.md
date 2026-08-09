@@ -38,7 +38,7 @@ the echo shortlist with the author before per-chapter editing starts).
 | 30 | The Practice Room | practice-room | reviewed |
 | 31 | The Induction | the-induction | reviewed |
 | 32 | We Find Out | we-find-out | reviewed |
-| 33 | Made-Up | made-up | edited |
+| 33 | Made-Up | made-up | reviewed |
 | 34 | One Bite | one-bite | edited |
 | 35 | Above Him | above-him | edited |
 | 36 | School Nights | school-nights | edited |
