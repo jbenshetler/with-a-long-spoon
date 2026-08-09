@@ -10,23 +10,23 @@ Cassie was already there, of course, the seat on her left saved with a backpack 
 
 "Mm," Randi said, which was not agreement and not disagreement, only a thing she set down on the desk between them to pick up later.
 
-At the front the professor was doing the thing he did before every class, scrolling his slides forward and back, forward and back, a man making sure the road was still there. Then he started, in the flat voice of a man reading the back of a cereal box, and put a word up on the screen that Vee copied into her notebook without quite reading it.
+At the front the professor was doing the thing he did before every class, scrolling his slides forward and back, forward and back, a man making sure the road was still there. Then he started, in the flat voice of a man reading a course catalog aloud, and put a word up on the screen that Vee copied into her notebook without quite reading it.
 
 "Outliers," he said. "Two kinds. You'll want the difference."
 
 He put up two little plots, almost the same, a line of dots walking left to right with one dot flung up off the line. "The first kind sits on a single point. Something happened that day. A sensor failed, somebody fat-fingered the entry, a one-time shock. You mark it, you lift it out, and the line goes on like it was never there." He clicked. The second plot looked the same at the bad dot and wrong everywhere after it. "The second kind comes in through the part that carries forward. It doesn't sit still. It never quite gets to zero, and you don't lift it out. It's in everything that comes after."
 
-Vee wrote *outlier: additive vs. innovational*, and under it, because he said it twice, *never all the way gone*, and then her pen stopped, because Randi had shifted beside her and her knee had come to rest against Vee's knee under the little fold-out desk, and the warmth of it went up through her with no decent proportion to its cause. She was thinking about Sunday again, the kitchen, the wet light. She gave the board another honest minute. She did not think about herself at all.
+Vee wrote *outlier: additive vs. innovational*, and under it, because he said it twice, *never all the way gone*, and then her pen stopped, because Randi had shifted beside her and her knee had come to rest against Vee's knee under the little fold-out desk, and it rose in her with no decent proportion to its cause. She was thinking about Sunday again, the kitchen, the wet light. She gave the board another honest minute.
 
-The hour came apart the way it always did, sixty people deciding at once that it was over. Cassie was saying something about the reading, whether the problem set was the odd ones or all of them, and Vee answered her without hearing herself, already turned a few degrees the other way, already finding Randi's wrist with two fingers.
+The hour broke up the way it always did. Cassie was saying something about the reading, whether the problem set was the odd ones or all of them, and Vee answered her without hearing herself, already turned a few degrees the other way, already finding Randi's wrist with two fingers.
 
 "Walk me out?" she said. To Randi. Only to Randi.
 
-It was a small thing and she didn't notice she'd done it. For weeks it had gone the other way: Randi's hand at her elbow on the lawn, Randi saying *come here a second,* Randi cutting her gently out of the herd of an afternoon and into somewhere quieter. Now it was Vee's two fingers on Randi's wrist, and Cassie was gathering her granola bar and her wrong textbook and saying *see you in the room* to the side of Vee's head, and Vee was already moving, towing the most interesting person she knew toward the door.
+For weeks it had gone the other way: Randi's hand at her elbow on the lawn, Randi saying *come here a second,* Randi cutting her gently out of the herd of an afternoon and into somewhere quieter. Now it was Vee's two fingers on Randi's wrist, and Cassie was gathering her granola bar and her wrong textbook and saying *see you in the room* to the side of Vee's head, and Vee was already moving, towing the most interesting person she knew toward the door.
 
 In the stairwell she said she needed to tell her something, the whole thing, and Randi said she had forty-five minutes before she had to be back across campus and useful to people she didn't like, and that they were not having this conversation in a hallway. There was no time to go anywhere. It was Randi who thought of the practice rooms in the music building, two minutes away, empty at this hour, the little soundproof cells nobody used at lunch.
 
-"Those are where everybody used to…" Vee said, and didn't finish it, and felt the color come up her neck for no reason she'd have admitted to.
+"Those are where everybody used to…" Vee said, and didn't finish it, and felt her neck go hot for no reason she'd have admitted to.
 
 "Used to what?" Randi was already holding the door.
 
@@ -36,7 +36,7 @@ In the stairwell she said she needed to tell her something, the whole thing, and
 
 The room was the size of a closet: a battered upright against one wall, a music stand, two chairs, a square of carpet worn pale. When the door shut the building went away. Not muffled. Gone. The kind of quiet you could hear your own blood in.
 
-Randi took one of the chairs and turned it to face the other and sat with the whole bright weight of her attention coming on like a lamp. Vee had the shoes in her bag; she'd meant to give them back. She pulled them out now, the cognac heels, and held them a second without quite knowing what to do with them.
+Randi took one of the chairs and turned it to face the other and sat with her attention coming on like a lamp. Vee had the shoes in her bag; she'd meant to give them back. She pulled them out now, the cognac heels, and held them a second without quite knowing what to do with them.
 
 "Okay," Randi said. "The shoes. Tell me everything."
 
@@ -84,7 +84,7 @@ The room held still.
 
 Randi didn't say anything for a moment. When Vee made herself look up, Randi was watching her with an attention so complete it was nearly a pressure, nearly a hand, and whatever was on Vee's own face she couldn't have hidden if she'd tried, and she understood, in a hot slow drop, that she wasn't only telling it. She was doing it again. Here. Now. In a piano closet with Randi's eyes on her.
 
-"I bet he did," Randi said softly. That was all. She didn't say what she herself could see.
+"I bet he did," Randi said softly. That was all.
 
 And under the thin jersey of her top Vee felt her own body answer the memory the way it had answered the thing itself, her nipples drawing up tight and sudden to the point of aching, standing where anyone could see, where Randi could see, and she crossed her arms over herself in a motion she tried to make look like settling, like being a little cold, and couldn't for her life have said whether it worked.
 
@@ -92,7 +92,7 @@ And under the thin jersey of her top Vee felt her own body answer the memory the
 
 She couldn't find the end of it. The word she needed wasn't a word she owned yet.
 
-Randi let her hang there a moment, kindly, the way you let someone find their feet. Then she gave her the end of the sentence by answering the question Vee couldn't ask.
+Randi let her hang there a moment, kindly.
 
 "Oh, baby." She settled back, and her face did something fond and far away. "Sometimes it's the mouse that roars."
 
@@ -104,31 +104,31 @@ Vee held very still.
 
 "Randi."
 
-"And I had to count." She was enjoying it, watching Vee's face take each piece. "Out loud. Every one, while he turned me as red as he wanted. You know what that does to a person, counting your own. It was humiliating."
+"And I had to count." She was enjoying it, watching Vee's face take each piece. "Out loud. Every one, while he turned me as red as he wanted. It was humiliating."
 
 The color was high in Vee's face now and she knew it and couldn't get it down.
 
 "And God," Randi said, "it made me buck."
 
-"And always, toward the end, his hand would slip." Randi's mouth curved. "Mm-hm. Right between. I know how it sounds. It would have been a terrible thing, if I weren't already warm. But by then." One shoulder lifted and fell, the whole worldly weight of it in the gesture. "By then it's welcome. Believe me. Very welcome."
+"And always, toward the end, his hand would slip." Randi's mouth curved. "Mm-hm. Right between. I know how it sounds. It would have been a terrible thing, if I weren't already warm. But by then." One shoulder lifted and fell. "By then it's welcome. Believe me. Very welcome."
 
-And on the word *welcome* something turned over low in Vee's belly with a soft wet heaviness she had no vote in, and the thing her body had been building toward since the morning, the actual physical fact of it, warm and undeniable between her legs, and she stood up too fast.
+And on the word *welcome* something turned over low in Vee's belly with a soft wet heaviness she had no vote in, and the thing her body had been building toward since the morning arrived, the actual physical fact of it, warm and undeniable between her legs, and she stood up too fast.
 
 "I'll be right back," she said. "Two seconds. I just need."
 
 She didn't finish that one either.
 
-The hall bathroom was a single room with a bolt, and the bolt was loud, and she sat down without quite meaning to. Under the thin fluorescent light her body was still going, the story still running in it, and the proof of that was there before she wanted to know it, soaked through, made by nothing but a woman talking in a chair.
+The hall bathroom was a single room with a bolt, and the bolt was loud, and she sat down without quite meaning to. Under the thin fluorescent light her body was still going, the story still running in it, and the proof was there before she wanted to know it, soaked through, made by nothing but a woman talking in a chair.
 
 Her hand knew the way. It moved before she did. She caught it and put it flat against her own knee and held it there. Not here. Not over a story. To do that would be to say yes to it, and she would not say yes to it.
 
-She ran the cold tap and pressed her wrists under it and looked at the woman in the mirror, flushed to the throat, too bright in the eyes, not collected at all, and she stayed only as long as it took for the woman to pass for collected. She never did settle whether Randi had seen. There was no way to go back and look.
+She ran the cold tap and pressed her wrists under it and looked at the woman in the mirror, flushed to the throat, too bright in the eyes, not collected at all, and she stayed only as long as it took for the woman to pass for collected.
 
-When she came back Randi had her phone out and her bag already on her shoulder, and she looked up with the whole warm face turning on at once.
+When she came back Randi had her phone out and her bag already on her shoulder, and she looked up, so pleased to see her that Vee felt it land, warm all through.
 
 "All better?"
 
-"Yeah." It came out a beat too fast. "Sorry. Where were we."
+"Yeah." It came out too fast. "Sorry. Where were we."
 
 But Randi had already let it go, was already on her feet, saying something easy about the time, about the people across campus she had to go be useful to, warm as anything, as if she'd meant nothing in the world by it. And Vee couldn't tell whether she had.
 

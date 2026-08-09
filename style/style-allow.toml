@@ -3350,6 +3350,13 @@ text = "She didn't ask him to leave, and he didn't make anything of going — a 
 note = "':27 not far, never far' — reader-praised by gpt-5.6-terra ('keeps that familiar tension around him intact'); the stronger of the two not-far statements, the other cut at item 8. Line-edit 2026-08-07 group G."
 
 [[ok]]
+fp   = "890c98778a6b"
+rule = "catalog-verb"
+file = "scenes/practice-room.md"
+text = "Then he started, in the flat voice of a man reading a course catalog aloud, and put a word up on the screen that Vee copied into her notebook without quite reading it."
+note = "Noun use ('a course catalog'), not the verb tic. Rule lookbehind only excuses bare determiners, so an adjective in front defeats it. Author sign-off 2026-08-09."
+
+[[ok]]
 fp   = "43d320416eac"
 rule = "clock-verb"
 file = "scenes/practice-room.md"
@@ -3362,6 +3369,34 @@ rule = "filter-verbs"
 file = "scenes/practice-room.md"
 text = "A moment late, she realized what she'd just agreed to."
 note = "realization deliberately cognitive before the embodiment — author 2026-07-28"
+
+[[ok]]
+fp   = "5fa30e9ba3c0"
+rule = "filter-verbs"
+file = "scenes/practice-room.md"
+text = "She noticed it the way you notice a held note after the song has already moved on, and she let go."
+note = "False positive by design: 'noticing' IS the subject. The beat is the lag between her arms acting and her mind catching up; body-before-mind is satisfied one sentence earlier ('Vee's arms were slow coming down'). Author ruling 2026-08-09."
+
+[[ok]]
+fp   = "b741f0c8170a"
+rule = "the-way"
+file = "scenes/practice-room.md"
+text = "She noticed it the way you notice a held note after the song has already moved on, and she let go."
+note = "The chapter's closing figure and its most-cited line across five cold reads (fable-5 and sol quote it verbatim; sol lists the held note as a first-sighting motif and under Symbolism). Now the chapter's only second-person simile after the :95 recast. Author ruling 2026-08-09."
+
+[[ok]]
+fp   = "d16282e6f5a8"
+rule = "the-way"
+file = "scenes/practice-room.md"
+text = "She was still smiling, but something in her had gone very still and very interested, the way a cat goes still."
+note = "The cat-stillness simile: reader-protected (gpt-5.6-sol and gpt-5.6-terra both quoted it, both reported 'made my body tighten'). Parallelism of 'very still and very interested' is load-bearing — see meta-triage-practice-room.md. Author ruling 2026-08-09."
+
+[[ok]]
+fp   = "8e2448353630"
+rule = "there-was-were"
+file = "scenes/practice-room.md"
+text = "There was no time to go anywhere."
+note = "Free indirect — Randi's manufactured urgency carried in reported speech, not narratorial fact. See meta-plan-satc-tracks.md, 'Randi's register colonizes the narration'. Author ruling 2026-08-09."
 
 [[ok]]
 fp   = "27d77d5da499"

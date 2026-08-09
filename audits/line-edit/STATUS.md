@@ -35,7 +35,7 @@ the echo shortlist with the author before per-chapter editing starts).
 | 27 | Broken In | broken-in | reviewed |
 | 28 | Hills and Valleys | hills-and-valleys | reviewed |
 | 29 | A Recognized Method | recognized-method | reviewed |
-| 30 | The Practice Room | practice-room | edited |
+| 30 | The Practice Room | practice-room | reviewed |
 | 31 | The Induction | the-induction | edited |
 | 32 | We Find Out | we-find-out | edited |
 | 33 | Made-Up | made-up | edited |

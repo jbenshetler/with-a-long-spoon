@@ -109,3 +109,33 @@ Distinctive phrasings worth a book-wide check before this chapter's wording is l
 - **"the way you notice a held note after the song has already moved on"** (`:141`) — check against the "a held breath" family (ruling #6) and any other music-figure closings.
 - **"pass for collected"** (`:125`) — the surface-management idiom; check against Randi's "arranged smile" family (#17) and other Vee composure-repair beats.
 - **"people she didn't like" / "people across campus she had to go be useful to"** (`:27`, `:133`) — reads as a designed chapter bookend rather than an echo; logged so a later harvest does not present it as a finding.
+
+## Author rulings (2026-08-09)
+
+Durable ledger: `meta/meta-triage-practice-room.md` (line-edit section). This list is disposable.
+
+- `:13` cereal-box vehicle — APPLIED, varied to "a course catalog aloud" (dupe of `all-told:35`).
+- `:19` "She did not think about herself at all." — APPLIED, cut (nudge ban).
+- `:19` "the warmth of it went up through her" — APPLIED → "it rose in her".
+- `:21` "sixty people deciding at once that it was over" — APPLIED, cut (near-verbatim `dear:7`).
+- `:25` "It was a small thing and she didn't notice she'd done it." — APPLIED, cut.
+- `:27` "There was no time to go anywhere." — LEFT STANDING (free indirect; Randi's manufactured constraint). Acked.
+- `:29` "the color come up her neck" — APPLIED → "her neck go hot".
+- `:39` "the whole bright weight of her attention" — APPLIED, frame dropped; lamp kept. Closes echo #27 / #18 sub-note.
+- `:53` "very still and very interested" — LEFT STANDING (parallelism load-bearing; reader-protected).
+- `:75` "the warm wet weight of his hand" — NO FINDING (echo #5 polices the exact 3-word string; already varied).
+- `:87` "She didn't say what she herself could see." — APPLIED, cut.
+- `:95` "Then she gave her the end of the sentence…" — APPLIED, cut.
+- `:95` "the way you let someone find their feet" — APPLIED, cut (rehearsed `:141`; untrue to the beat).
+- `:107` "It was humiliating." — LEFT STANDING; preceding clause cut instead.
+- `:113` "the whole worldly weight of it in the gesture" — APPLIED, cut.
+- `:115` verbless middle clause — APPLIED, verb supplied ("arrived").
+- `:121` "the proof of that" — TIGHTENED to "the proof"; placeholder LEFT STANDING (finding withdrawn).
+- `:125` "She never did settle whether Randi had seen…" — APPLIED, both sentences cut.
+- `:127` warm-face turning on — APPLIED, recast per the author's hunger/warmth spec.
+- `:131` "a beat too fast" — APPLIED → "too fast".
+- `:141` held-note closing — LEFT STANDING (most-cited passage in the chapter).
+- `warm` density — one reflex use freed (`:19`); the other eight ruled load-bearing.
+- Bonus: sol "thesis-loud" — resolved by the `:19` cut. terra "almost too claustrophobic" — weighed at `:121`, no trim.
+
+Rules recorded book-wide from this review: `meta-plan-satc-tracks.md` ("Rendering Randi's hunger through Vee's POV"; "Randi's register colonizes the narration") and `meta-craft-vivienne.md` ("The evidentiary register").

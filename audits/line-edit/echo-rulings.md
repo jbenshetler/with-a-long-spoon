@@ -1184,3 +1184,48 @@ the drumroll is a likelier culprit than the line.*
     third pause-before-answering tag reaches for the same wording, vary it
     then. *Chasing these two would be the discipline failure the preamble
     exists to prevent.*
+
+**#30 — #27 and #18's sub-note are CLOSED (The Practice Room review,
+2026-08-09).** `practice-room:39` dropped the frame and kept the protected
+lamp: "…and sat with her attention coming on like a lamp." Two consequences.
+(a) **#27 is closed** — the `the whole ___ weight` frame has no surviving
+instance in the reviewed set. (b) **#18's sub-note is closed** — the
+`practice-room` / `all-told:21` lamp near-twinning is gone; `all-told:21`
+("turned the full warmth of her attention on, like a lamp finding you") and
+`practice-room:39` no longer share the frame, and #18's PROTECTED status on
+the lamp itself is untouched. `practice-room:113` ("the whole worldly weight
+of it in the gesture") was cut in the same pass.
+
+**#31 — the stats professor's class-dismissal sentence: FIX-AT applied
+(2026-08-09).** `dear:7` ("the room came apart on the words, sixty people
+deciding at once that the hour was over") and `practice-room:21` ("The hour
+came apart the way it always did, sixty people deciding at once that it was
+over") shared nine words, the same verb, the same count, and the same beat —
+the stats class letting out. `dear:7` is the keeper (the professor's dropped
+thread *causes* the collapse; "came apart on the words" is doing work).
+`practice-room:21` varied to "The hour broke up the way it always did." This
+is the same fault as `practice-room:13`'s cereal-box dupe and is governed by
+the same rule: `meta-note-stats-professor.md:25`, *the gesture recurs, the
+vehicle rotates.* **Scope note:** the professor's dismissal recurs across five
+chapters — a later harvest should check `see-you-later`, `all-told`, and
+`outlier` for further reuse of this sentence shape.
+
+**#32 — "turned a few degrees" (`all-told:43`, `practice-room:21`) — LEFT
+STANDING, logged (2026-08-09).** Same stats room, eight chapters apart, both
+describing Cassie. Different in function (Cassie's fixed attention on Vee vs.
+Vee turning away from Cassie toward Randi) and the second is arguably the
+first inverted. Not varied. Logged so a later harvest does not present it as
+a fresh finding.
+
+**#33 — the evidentiary placeholder ("the proof" / "the evidence" for Vee's
+wetness) — PROTECTED; rule recorded (2026-08-09).** `grace:205`,
+`famished:51`, `we-find-out:107`, `practice-room:121`, plus `believe-me:57`
+(tears, same construction). The abstract noun is **not** vagueness to be fixed
+into a concrete one — it *is* Vee's refusal to name the thing, the specific
+form "body before mind" takes on her most defended tell. A line editor
+flagged `practice-room:121` as mind-before-body on 2026-08-09 and the finding
+was withdrawn. Full rule at `meta-craft-vivienne.md`, *"The evidentiary
+register."* `grace:205` ↔ `practice-room:121` is a **designed rhyme** (same
+noun, same permission-clause shape, opposite reception) — do not vary either.
+*Proof* is now deliberately spent twice; a sixth instance of the family must
+rotate the noun.

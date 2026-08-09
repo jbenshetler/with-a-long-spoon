@@ -260,6 +260,47 @@ The devastating questions (*"Cold?"*, *"His hand was wet."*, *"Sticky fingers?"*
 
 On the page, frame the probe as the *smallest* part: anchor present → probe dropped light → Randi lets it sit (the tilt, the *"Hmm"*) → **Vee's body answers first** (flush, stillness, she *re-lives* it — never deduces) → her alibi is stripped (naming the tell is the next turn of the screw) → Randi's warmth holds and rewards. Let both readings stand; never gloss the double meaning.
 
+### Rendering Randi's hunger through Vee's POV (recurring; author ruling 2026-08-09)
+
+A standing rendering problem in every SATC scene, not a one-off: **Randi looks at Vee the way you look at a lover who has just been overcome with desire for you.** The smile is real, intense, and has appetite in it. Vee reads that intensity as *warmth* — not because Randi hides it, but because Vee **refuses to see it**. The scenes are Vee's POV, so the page renders warmth. On reread the reader perceives Vee's faulty POV.
+
+This is the Bible's reader-ahead clause exactly — *the reader reading her own observations better than she does, never the narrator reaching past her* — and it is also how the close-third guard is satisfied: the hunger stays in the observable surface, never asserted about Randi's interior.
+
+**The five constraints (worked out on `practice-room:127`, 2026-08-09):**
+
+1. **Render the percept, never the diagnosis.** The hunger must be physically on the page. If it lives only in subtext there is nothing for the reread to catch.
+2. **Vee supplies the label, flat and unhedged.** No *seemed*, no *she thought it was*, no *took it for*. Hedging spoils the first read and leaves the reread nothing to do. The label is asserted as true.
+3. **Prefer the label as a bodily effect on Vee over an adjective on Randi.** Body before mind — and it keeps the narrator out of Randi.
+4. **The datum must be genuinely bivalent.** One fact, two *complete* readings — full evidence for warmth, full evidence for hunger. Not a crack in the mask.
+5. **One flag per page, maximum.** Where the scene later opens the question explicitly (*"And Vee couldn't tell whether she had"*), the earlier beat must be clean data with no wink. Two signals over-signal.
+
+Worked example — `practice-room:127`, Randi looking up as Vee returns from the bathroom:
+
+> …and she looked up, so pleased to see her that Vee felt it land, warm all through.
+
+First read: Randi's delight is contagious. Reread: Randi is pleased *at the state Vee came back in*, and Vee is feeling appetite and calling it warmth. Note the misreading is sited in Vee's **body**, not her vocabulary.
+
+**Rotate the vehicle.** The look recurs across the track; the rendering of it must not. Same rule as the goodbye kiss at [The physical staircase](#the-physical-staircase--the-goodbye-kiss-and-its-cousins) and line 105 — a rung repeated in the same words reads as a callback and stops the read.
+
+### Randi's register colonizes the narration (free indirect; author ruling 2026-08-09)
+
+The companion vector to the above. There, **Vee's POV mislabels what she sees**; here, **Randi's voice tints the prose around her.** Both are ways the narration stops being neutral in Randi's vicinity — and both are deniable, because neither is ever asserted as narratorial fact.
+
+**Randi speaks in dramatic exaggeration**, and where a paragraph is already in reported speech, that exaggeration carries into the surrounding narration as free indirect discourse. Do not audit those sentences for literal accuracy — they are *her* assessment in the narrator's grammar, and their inaccuracy is characterization.
+
+Worked example — `practice-room:27`:
+
+> In the stairwell she said she needed to tell her something, the whole thing, and Randi said she had forty-five minutes… and that they were not having this conversation in a hallway. **There was no time to go anywhere.** It was Randi who thought of the practice rooms in the music building, two minutes away…
+
+Forty-five minutes is ample. The sentence is false as fact and true as Randi. And what it renders is **Randi manufacturing the constraint**: close the options, declare the emergency, then produce the destination you had already chosen — a soundproof room, two minutes away, that she has evidently thought of in advance. The urgency is fabricated; the extraction method in miniature.
+
+**Rules:**
+
+1. **Only inside or adjacent to reported speech.** Free indirect needs the tint already established. A bare narratorial exaggeration with no speech around it is just the narrator being unreliable, which this book does not do.
+2. **Never signal it.** No *or so she claimed*, no hedge. The sentence is stated flat; the reader corrects it themselves on reread — same unhedged-label rule as the section above.
+3. **The exaggeration must do work, not just flavor.** Randi's overstatements are load-bearing: they close a door, invent a deadline, or make a choice look like a necessity. If it's only colour, cut it.
+4. **Protect it from the line edit.** These read as flab or as small logic errors to any reviewer auditing prose for accuracy — `practice-room:27` was flagged as a logic wobble on 2026-08-09 and left standing on this ruling. Record such lines in the scene's triage doc with the free-indirect rationale so they are not stripped later.
+
 -----
 
 ## THE SATC CYCLE: TRANSGRESSION → REWARD → NEXT (and its rot)

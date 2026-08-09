@@ -81,6 +81,32 @@ Every key scene presses this nerve:
 
 When any scene touches Vee's involuntary responses, it is touching the live wire. Calibrate the regression, the deflection, and the shame-arousal loop accordingly.
 
+### The evidentiary register — how the involuntary tell is named on the page (author ruling 2026-08-09)
+
+**The rule.** Vee's wetness arrives before she acknowledges it, and when the prose reaches for it, it reaches for an **abstract evidentiary placeholder** — *the proof, the evidence* — before (or instead of) the concrete physical detail. **This is not vagueness and must never be "fixed" into a concrete noun.** The placeholder *is* the refusal: naming the thing would be acknowledging it, and her shame architecture will not. The concrete detail then arrives a half-beat later, from outside her, as an accusation she did not authorize.
+
+This is the specific form [Body before mind](#console-rules--read-these-first) (`meta-craft-vivienne.md:13`, `meta-arch-bible.md:344`) takes on the deepest tell. Cf. the "announcement idiom" — *she reports what her body does from the outside* (`meta-note-erotic-register.md:118`).
+
+**The instances (five, four chapters):**
+
+| source | the placeholder | the permission clause |
+|---|---|---|
+| `grace.md:205` | *the proof* | *"that came whether she let it or not"* |
+| `famished.md:51` | *the evidence* | *"that had been building since the kitchen"* |
+| `we-find-out.md:107` | *the sticky animal evidence of herself* | *"the way she always did"* |
+| `practice-room.md:121` | *the proof* | *"was there before she wanted to know it"* |
+| `believe-me.md:57` | *(the wet)* | *"before she knew she was crying"* — tears, not arousal; confirms the construction is structural to how she receives **any** involuntary response |
+
+**The permission clause is half the device.** Each instance pairs the placeholder with a clause about consent, wanting, or habit — the body acting without her vote. Placeholder + permission clause is the full move; a placeholder alone is just a vague noun.
+
+**The designed rhyme (protect).** `grace.md:205` and `practice-room.md:121` use the same noun *and* the same clause-shape, twenty chapters apart, with opposite receptions: at {{Grace}} Pace finds the proof *"in the full light, and was looking at it like treasure"*; at {{The Practice Room}} she finds it herself, alone, under thin fluorescent light, and it convicts her. Same word, opposite meaning — the book's argument in one repeated noun. Invisible first-pass, load-bearing on reread. (`practice-room:121` was tightened from *"the proof of that"* to bare *"the proof"* on 2026-08-09 to sharpen the echo.)
+
+**Rotate the noun otherwise.** *Proof* is now spent twice, deliberately. Further instances should reach for a different placeholder — the rotate-the-vehicle discipline that governs every other recurring figure in the book. A third *proof* would read as a tic, not a rhyme.
+
+**Fences.** The evidentiary register is **Pace's** where it names her body approvingly — his *"accurate evidence"* at {{We Find Out}} is a signature move. `meta-note-practice-room.md:43` accordingly requires Randi's hand-slip anecdote stay *roguish, never proof*. Randi does not get this vocabulary; Vee's own narration does.
+
+**Adjacent, same family:** the unslept bed as *"a tattletale in the cold morning light for anyone who cared to read it"* (`all-told.md:5`) — the evidentiary register displaced from her body onto her room.
+
 ---
 
 ## The Three Charge-Sources — And the One Guard
