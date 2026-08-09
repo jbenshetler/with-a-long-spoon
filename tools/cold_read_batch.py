@@ -84,6 +84,8 @@ def load_volume_packets() -> dict[int, dict]:
     data = tomllib.loads(VOLUME_PACKETS.read_text()).get("volumes", {})
     return {int(volume): packet for volume, packet in data.items()}
 
+READER_PROTOCOL = "v2-volume-entry-jacket"
+
 def clean_scene_text(slug: str) -> str:
     raw = Path(f"scenes/{slug}.md").read_text()
     lines = raw.splitlines()
@@ -198,6 +200,8 @@ def has_valid_review(path: Path) -> bool:
     if not path.exists():
         return False
     txt = path.read_text()
+    if f"reader-protocol: {READER_PROTOCOL}" not in txt:
+        return False
     if "## Carry-forward state" not in txt:
         return False
     return bool(txt.split("## Carry-forward state", 1)[1].strip())
@@ -385,7 +389,7 @@ def write_review(out_dir: Path, model_id: str, model_selector: str, scene, respo
     content = (
         f"# Cold read — {scene['title']}\n\n"
         f"*scene: scenes/{scene['slug']}.md · model: {model_id} ({provider_label}: {model_selector}) · "
-        f"read after: {predecessor_label}*\n\n"
+        f"read after: {predecessor_label} · reader-protocol: {READER_PROTOCOL}*\n\n"
         f"## Reader reaction\n\n{reader}\n\n"
         f"## Carry-forward state\n\n{carry}\n"
     )
