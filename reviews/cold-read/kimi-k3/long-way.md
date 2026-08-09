@@ -1,0 +1,90 @@
+# Cold read — The Long Way
+
+*scene: scenes/long-way.md · model: kimi-k3 (OpenRouter: moonshotai/kimi-k3) · read after: substitution*
+
+## Reader reaction
+
+The phone lit up *facedown where she'd left it*, twenty minutes later, and my stomach dropped with hers — "the drop of a stair missed in the dark." Last chapter she let herself want it to light up; the book answered immediately. That's the chapter in miniature: her wanting, rewarded at once, no friction. Even I felt the reward. That's what scares me.
+
+Vee's first move undid me: "Is he desperate? Texting this fast?" — "It was easier to go looking for the flaw than to sit in the wanting." There it is, her mother's grammar turned on herself, auditing joy for defects. And the terrible elegance of it: she'll audit the boy and find nothing, because the flaw isn't in the boy. It's in the design, which she isn't allowed to see.
+
+Randi *took the phone out of her hand*. I keep turning that over. Vee hands her world to Randi reflexively now, and Randi stands there reading her lover's first text to the girl, then delivers, grinning, "He looked like a man who wants you" — which she of all people knows exactly — and then the crude deflection, "He wants to see you naked," true thing said in a register Vee can laugh off. Then she dismantles the one protection Vee reaches for: "The rule's for boys you're not sure about. You're not unsure." Every sentence true, every sentence serving the hand-off. The cup trembled last chapter; this chapter the beam is flawless and I trust it less.
+
+Cassie, not looking up from her coffee: "As long as he doesn't make you roll a healer again." The chapter's quietly devastating line — a whole semester of Vee up until two a.m. keeping a business major alive in a video game. That's her history of love: support class, someone else's survival, her sleep the cost. Cassie remembers it and aims it, gently, at now. I don't think Cassie suspects *him* — but she sees the pattern in *Vee*, and she's the only one naming it.
+
+Then the date, and God, it worked on me. No touch, no kiss — the hottest thing in the chapter is a man waiting out the end of her sentences. "She wasn't used to being the thing a person waited on" — after the healer semester, that line landed like a hand on a bruise. And the mother-voice: "Usually she heard her mother before she'd finished, *that's plenty, that's enough now.* Today there was nothing." The silence of the internal judge — I felt glad and frightened in the same breath. He hasn't touched her and he's already quieter than the voice that polices her appetite. Her cup "got away from her — too much," the same construction as the laugh that got away from her, "the good kind." The book is rhyming appetite with laughter: the involuntary, hunted things.
+
+My one cold handhold: "he looked pleased in a contained way, as if he'd set something down exactly where he meant it to go." Even his delight is a placement. And "I've thought about most things," said without apology — charming, and the architect's creed. The final beat — "Your tart's holding up," and the whole stack of it, still standing — made my chest do the thing. He refused her "pretend I didn't," let the true thing have its space, and answered a confession of loneliness with proof of structure. Swoon and grief, fused again.
+
+The title: it's the walk — "the long way, not toward anything" — and it's also his whole method, the tutor's path instead of the mathematician's shortcut, the pencil handed back at the solvable line. And it's the trap's route: the scenic way, so she never sees where she's being taken. *They* walk not toward anything; the design walks toward everything. The book's title hums under the yeses this chapter — answer the text (yes), go (yes), let him pay (yes), say the embarrassing thing (yes) — every one free, every one warm.
+
+Next: I expect the debrief with Randi, and I dread how much I'll enjoy the second date. Guesses from here: the mother-voice returns with force precisely *because* it went silent; the house at the end of the long drive is the next venue change; and I still want — and fear — Randi's interiority on tonight.
+
+## Carry-forward state
+
+**Principals**
+- **Pace** (man; math PhD, "finishing… more or less"). Texted in twenty minutes — "a stranger's string of digits with a sentence under it, asking whether she liked frozen yogurt" (she never asked for his number; the channel runs one way, initiation his). On the date: studied flavor placards "with the same attention he'd given her calculus"; delivered his system — "Tart on the bottom holds up under the heavy ones. You put chocolate on tart and it's an argument the whole way down"; "I've thought about most things," without apology; pleasure "contained… as if he'd set something down exactly where he meant it to go." Weighed his cup; paid for both before she found her wallet; held the door with his back. Asked questions "the way her grandfather used to," the answer mattering, no wrong one; waited out every sentence. Refused her "pretend I didn't," gave the true thing its space, answered with "Your tart's holding up." Still no interiority — the exterior is seamless tenderness with placement-language showing through.
+- **Randi / Miranda** (woman, 21). Back to flawless beam. Took the phone out of Vee's hand to see his text for herself; ruled on it with authority she shouldn't visibly have: "He didn't look like a man who needs to be desperate… He looked like a man who wants you," then the crude grin-deflection, "He wants to see you naked." "You should go." Dismantled Vee's waiting rule — "The rule's for boys you're not sure about. You're not unsure" — every push toward him, every word true. No cup-tell this chapter; the phone-take was the tell: she needed to see it.
+- **Vivienne "Vee" Thorne** (woman; junior). The wanting rewarded instantly, and she knows her own defense now: "It was easier to go looking for the flaw than to sit in the wanting." Reached for the rule — "You wait a day. You don't answer the first one" — and let Randi talk her out of it. History surfaced: a semester up until two a.m. playing healer to a business major's video-game character. A grandfather who "used to ask things," answers mattering, no wrong ones — her template of good attention. On the date: built her cup too full, waited for the mother-voice ("that's plenty, that's enough now") and for the first time "there was nothing"; bit her lip, let it drip, didn't care. Said the embarrassing true thing — "This is the nicest a person has been to me in a really long time. And it's froyo" — with a built-in retraction he declined to use. Ended still standing: "the whole stack of it."
+- **Cassie** (woman; Vee's roommate). Two lines, both load-bearing. Didn't look up from her coffee; produced the healer memory as a joke that is a warning — she sees Vee's support-class pattern even where she sees no villain. Audit continues obliquely; immunity intact.
+- **Brooke** (woman; chapter president). Absent; thread dormant.
+- **Vee's mother** (woman; voice only). "That's plenty, that's enough now" — the appetite-police line, quoted from inside Vee's head — and then, pivotally, *absent*: "Today there was nothing." The judge went silent in his company. Load-bearing and now measurable by its absence.
+- **The grandfather** (new, memory only): the good-questioner; dead or gone ("used to"). The warm pole opposite the mother. Not yet a principal; noted in record.
+- Walk-ons (froyo shop crowd, the business major unnamed in memory): released to the record.
+
+**Relationship ledger**
+- **Pace & Vee:** the first date, and everything deepened by intimacy while asymmetry held at maximum. He gave: the twenty-minute text, the system, the paid cups, the held door, grandfather-style questions, waiting out her sentences, and the refusal of her retraction — "Your tart's holding up." She gave: the overflowing cup (appetite unhidden), the lip-bite and not-caring, and the embarrassing true thing handed over with an escape hatch he didn't take. She felt waited on, held, still standing. I felt the swoon land *and* watched the yeses stack: answer, go, accept, confess — all free.
+- **Randi & Pace:** no exchange. New texture: she read his opening text to Vee with her own eyes (phone taken from Vee's hand) and pronounced on his wanting from authority. Asymmetry: he doesn't know the room audits him after he leaves; she carries whatever it cost to say "He looked like a man who wants you" grinning. My read of her feeling: hunger and pain worn as locker-room patter. What I felt: pity, sharper.
+- **Randi & Vee:** advanced by trust-abuse. Randi overrode the waiting rule with true-sounding wisdom ("You're not unsure"), physically took the phone, pre-sexualized the date as a joke. Vee felt supported, known, cheered. I watched the friend who built the room also set the pace of the march through it.
+- **Vee & Cassie:** Cassie's healer line is care in her only register — memory as warning. Vee deflected lightly ("That was one semester"). No warmth moved between Cassie and Randi.
+- **Randi & Brooke:** no change (dormant; my worry, not the page's).
+- **Randi alone with herself:** no interiority again. The phone-take and the naked-joke are the whole entry: she needed to see his text, and she said the true thing crudely so it wouldn't cost her anything visible. I felt fear for her composure's invoice, still coming.
+- **Vee alone with herself:** the seams named themselves this time. Flaw-hunting as defense against wanting — she said it in words. The rule-book as received law, abandoned at Randi's word. The mother-voice *measured by its absence* — the first silence of the judge, in his presence. Appetite unpoliced and survived. She risked the true thing and was not dropped. She is learning that wanting gets answered. I ended glad and frightened in one breath.
+- **Pace alone with himself:** still exterior-only. "I've thought about most things" — design as identity, offered as charm. His pleasure remains a placement. Whether tonight cost or fed him, the page won't say; the jacket says he falls. I hold both.
+
+**What I know that they don't**
+- **Vee doesn't know: everything, still doubled.** Chosen, discussed, choreographed; the Wilson room built, the signal sent, the man sent; the coffee never the errand; the cheering friend the man's lover; Randi's cup trembled and her "boredom" was cost; and now: the twenty-minute text went out under her best friend's eyes, the rule she nearly used was dismantled by the person the trap runs through, and her own name-bit was performed on the man who shares her friend's bed. Largest entry, larger.
+- **Randi doesn't know:** the bench's seven-month head start; the depth of his study; that her wrapper is transparent to him; that Cassie is auditing her — cup seen, great-aunt differential named aloud after he left.
+- **Pace doesn't know:** the bathroom lock and the "not ever"; the cold Saturday; Brooke's questions; Sloane's truck-sightings; Cassie's running audit; Vee's rule and its dismantling; the healer semester and the grandfather — unless the seven months' study covered them, which the page won't confirm.
+- **Brooke doesn't know:** everything real — and there is a Vee.
+- **Jacket-loaded, in motion:** Vee is the third; both fall as hard as she does; every yes freely given, the trap. Tonight's yeses: the answer, the going, the paid cup, the confession.
+
+**Motifs (running shape)**
+- **The facedown phone** — arc completed a cycle: hiding (Randi's cold Saturday) → hoping (Vee's "let herself want it to light up") → *answered* ("the phone lit up facedown where she'd left it"). Wanting, rewarded at once. The book is teaching her that lesson on purpose.
+- **Appetite & feeding** — now the center. Her cup "got away from her — too much," rhyming exactly with the laugh that "got away from her, the good kind": appetite as the new unguarded laugh. The mother-voice's "that's plenty" absent for the first time. He weighed, paid, and walked out; she grabbed spoons — the series' long spoon, now plural, in her fist.
+- **Doors** — held again, with his back this time, so both go through with full hands. Doors keep delivering people on schedule.
+- **Decisions arriving as facts** — "You should go"; "You're not unsure": verdicts as weather, against his "May I" and his questions with no wrong answer. Two grammars of choice, both aimed at her.
+- **Setting down / placement** — migrated from her signature to his: "as if he'd set something down exactly where he meant it to go"; "letting the true thing have its space." Her setting-down was not-examining; his is design.
+- **Asking with room / being waited on** — "What's drawing you to it?" now grandfathered: "the answer mattered and there was no wrong one"; "She wasn't used to being the thing a person waited on" — the healer who waited on others, finally waited on herself.
+- **The wrapper/face** — quiet this chapter except the smallest: "pretend I didn't," the face-management reflex — which he declines to honor, letting the true thing stand.
+- **Games** — gained a past tense: one semester as healer, up until two, keeping a business major alive. Her training in support-class love. The jacket's game has a rehearsal.
+- **The rule** — first sighting: "You wait a day. You don't answer the first one." Courtship as received law, mother-adjacent; discarded at the trap's word.
+- **Watching/audits** — Cassie's coffee-cup cover continues ("didn't look up from her coffee"); Vee's flaw-hunt identified as the inward turn of the audit.
+
+**Symbolism noticed**
+The froyo architecture: a tart base holds the heavy ones; chocolate on tart is "an argument the whole way down" — structural compatibility as relationship theory, spoken by the designer. Her overflowing, dripping cup as appetite finally permitted. "Your tart's holding up" / "the whole stack of it, still standing": the vulnerable confession load-tested and bearing. "The long way, not toward anything": indirection as method and as the trap's scenic route. Lemon cleaner cutting through sugar, dusty plastic ivy — a thin antiseptic thread in the sweetness; maybe reaching, but the page put it there. The one-way channel: his number given, hers taken, initiation his — consent and control in the same shape again.
+
+**Open questions**
+- ~~Will he call, and when?~~ Answered — twenty minutes, frozen yogurt, same evening; first date public and chaste. The house at the end of the long drive remains unseen and open.
+- The cup question carries: will the book ever give Randi's interiority — tonight's text-reading included? (Guess: yes, and late.)
+- Randi's texting last chapter — him, coordinating? Still unconfirmed; tonight's text arrived with no phone in her hand on the page.
+- When does the mother-voice return, and what happens when it collides with the silence he made? (Guess: hard, and soon — a phone call.)
+- The grandfather — who was he, and is he dead?
+- The healer semester and the business major — is that the pattern Pace is breaking, or the one he's using?
+- "More or less" finishing; his age — still set down unopened.
+- Does Cassie's audit ever reach Vee — or Randi?
+- Still open: the cold Saturday's place in this timeline; the bench's seven months; the word behind his face; whether Brooke's warmth is ever real; Friday's stats seat.
+
+**How I feel**
+- Pace: attraction up, wariness steady — the attunement is exquisite and I keep falling for it while auditing; the placement-language is my one cold handhold.
+- Randi: suspicion total, pity sharpening; the phone-take hurt to watch.
+- Vee: aching love; her judge went quiet for him and I was glad and frightened at once.
+- Cassie: steady trust; the healer line is her truest yet.
+- Overall: warm dread. The swoon and the surveillance, in the same cup.
+
+### Chapter record
+
+- **Characters present:** Vee, Randi, Cassie (the Wilson coffee-shop table, continuing from the meeting); Pace (text, then the froyo shop and walk). **Named/memory only:** Vee's mother (internal voice, "that's plenty, that's enough now"); Vee's grandfather ("used to ask things," answers mattering, no wrong one); an unnamed business major (one semester, video game, Vee healing until 2 a.m.).
+- **Times/durations:** he texted twenty minutes after leaving the shop; "By evening" the froyo date; outside "gone blue and cool"; the walk "the long way, not toward anything." Same day as the Wilson meeting.
+- **Objects/props:** Vee's phone facedown, lighting up; an unknown number's string of digits; text asking whether she liked frozen yogurt (Vee never asked for his number). Cassie's coffee. Froyo shop: neon, too-bright, dusty plastic ivy along the wall top, humming machines, lemon-cleaner thread through sugar smell, flavor placards. Cups: Vee's overflowing cone (tart base, heavy toppings, leaning, dripping); Pace's weighed cup. Pace paid for both; Vee grabbed spoons and a fistful of napkins; Pace held the door with his back. Vee's wallet; her lower lip bitten.
+- **Key lines/verbatim:** "It was easier to go looking for the flaw than to sit in the wanting." / "He didn't look like a man who needs to be desperate… He looked like a man who wants you." / "He wants to see you naked." / "You should go." / "As long as he doesn't make you roll a healer again." / "That was one semester." / The rule: "You wait a day. You don't answer the first one." / "The rule's for boys you're not sure about… You're not unsure." / "There's a system… Tart on the bottom holds up under the heavy ones. You put chocolate on tart and it's an argument the whole way down." / "I've thought about most things." / "he looked pleased in a contained way, as if he'd set something down exactly where he meant it to go." / "She wasn't used to being the thing a person waited on." / "I'm going to say something embarrassing… and then we can both pretend I didn't." / "All right." / "This is the nicest a person has been to me in a really long time. And it's froyo." / "He didn't pretend… letting the true thing have its space." / "Your tart's holding up" — "the whole stack of it, still standing."

@@ -1,669 +1,605 @@
 # Cold read — A Recognized Method
 
-*scene: scenes/recognized-method.md · model: gpt-5.5 (OpenAI: gpt-5.5) · read after: sheri-first-ride*
+*scene: scenes/recognized-method.md · model: gpt-5.5 (Codex subscription: gpt-5.5) · read after: hills-and-valleys*
 
 ## Reader reaction
 
-This chapter hits me first in the chest, then lower, then in a softer domestic ache. I was braced for the apology, and I loved that the chapter didn’t let Vee hide inside a perfectly polished apology-object. The “HUMBLE PIE” is funny and unbearably young — not childish, exactly, but the kind of theatrical cleverness you make at three in the morning because the naked thing is too hard to carry by itself. By the time she is in his driveway, “it seemed like what it was, which was a joke,” and I felt that drop with her.
+This chapter is warm, disarming, and then suddenly sharp with erotic discovery. I felt Vee’s anxiety before I understood it: the borrowed heels, the scarf, the ridiculous “HUMBLE PIE” label, the practiced apology. She is trying so hard to arrive as the correct version of herself that the smallest accident, being taller than Pace, almost destroys her. That moment hit me in the body as embarrassment first: “the small wrongness of it went through her like a missed stair.”
 
-Vee is so exposed here, even before anything sexual happens. The borrowed heels undo her plan immediately, and that moment of suddenly being taller than Pace is a beautiful little social/body catastrophe. I felt her panic: she has come to apologize for humiliating him, and now she imagines she is literally “stand[ing] over him.” That felt very Vee — the moral scrupulousness, the shame reflex, the instant bodily correction as she starts bending to unbuckle them. And Pace’s response worked on me completely: “Beauty like yours made for the gods and loaned out — I’m not going to insult the loan by complaining I have to look up.” It is extravagant, yes, but by now I believe that he can say something like that in a plain voice. It’s why he is dangerous and why I like him.
+Pace wins me again here, and that makes the larger unease worse. He does not let her collapse into self-punishment. He takes the pie before she drops it, resets the scarf, and answers the height problem with that extravagant plainness: “Beauty like yours made for the gods and loaned out.” I believed her undoing at that. It is too much, but in his voice it lands as exactly what she needed and did not know how to receive.
 
-My feeling toward Pace moves warmer here. The way he receives the apology without rushing to “it’s fine” feels right. He lets her say the prepared thing, then asks the actual question: “But what happened?” That could have felt cornering, but it doesn’t to me, because the page makes him open and genuinely confused. He wants to understand the rupture, not punish her. And when she finally says the ugly truth — that the blonde handed her a lie and “some part of me was just standing there waiting for one” — he thanks her for telling him what was said. That restraint matters. It makes me trust his immediate care even more.
+The apology itself worked for me because it is not allowed to stay tidy. Vee’s prepared speech is good, but Pace asks the real question: “But what happened?” That is where the chapter becomes emotionally honest. Her confession that “She handed me a lie and I picked it up because some part of me was just standing there waiting for one” feels like a real turn. She is not just sorry she hurt him; she sees the shame and jealousy in herself that made the lie usable.
 
-At the same time, the bigger suspicion around him doesn’t vanish, because the book/title/tagline are still sitting over everything. Every yes here feels freely given. She chooses to come, chooses to confess, chooses to stay, chooses to kiss him after the kitchen slap. And that is exactly why the cover line keeps humming under the scene. This chapter is tender and sexy and healing on the surface; the trap feeling is not in any single coercive act here, but in how easily Vee’s whole self begins arranging around him and Randi — Randi’s shoes at Pace’s door, Pace’s shirt on Vee’s body, Pace’s shampoo replacing her own smell, Vee losing time and clothes and dorm-world continuity.
+The erotic charge peaks for me in the kitchen, not in the implied Saturday night. The whole soaking argument is funny and intimate, and then the tickling becomes a swat, and the swat becomes something neither of them had named yet. The line that caught me hardest was: “her body saying two or three things at once that she had not agreed to have it say.” That is exactly the kind of dangerous involuntary revelation this book keeps circling. It is hot because it is not staged as a scene yet; it happens in daylight, with dishes in the sink.
 
-Randi is not physically present, but she is all over the opening. The shoes, the instruction to go in “sure,” the posture of the apology, the idea that “a woman who came to the door knowing exactly what she'd done” left him only forgiveness — all of that is Randi’s hand on Vee’s back. I felt grateful for it and uneasy about it. The shoes genuinely steady Vee. But the apology begins as something Randi has partly staged. What saves it, for me, is that Pace asks the question Randi’s script did not include, and Vee answers from herself. The real apology begins where the “small clean machine” breaks.
+I did not feel much suspicion of Pace inside this chapter’s immediate behavior. He feels attentive and tender. But the title and the book’s frame keep pressure on every good thing he does. The chapter title, “A Recognized Method,” is funny first, because Vee is arguing for soaking dishes, but it recolors the chapter after the swat: leaving things to soak is also letting desire sit until it does the work. The book title, *A Polite Invitation*, and the tagline still make me uneasy because every door here is gentle, every yes feels real, and yet I know from the jacket that Vee is inside something she has not been told.
 
-Erotically, the chapter peaks for me in the kitchen, not the bed after the apology. The first sex is elided — “the way he took her to bed eventually” — which is fine, because the apology is the center there. But the kitchen scene has that shock of discovering a new wire in the body. Her sleepy argument about soaking dishes is warm and funny and married-feeling before they are anything like married. Then the tickle, the swat she gives him, his turning off the tap — that “kitchen went quiet” moment is hot because everything changes without a speech. The single slap lands with a “small” sound and a not-small sting, and her body’s response is immediate, involuntary, humiliating, thrilling: “Her nipples drew up tight, to aching points.” That worked on me. It’s explicit but not mechanical; it’s about discovery, about being seen before she can narrate herself.
+What I want next is almost painfully simple: I want Vee to be allowed to feel happy. What I dread is that the happiness is getting deeper faster than the truth can catch up. My guess from here is that the kitchen discovery will become another “method” between them, something Pace will recognize and Vee will both want and fear.
 
-The other erotic thing that works is how she tries to cover what he saw “with a thing she was choosing.” That feels exactly like this book’s territory: involuntary evidence followed by chosen escalation. She cannot control the first response, so she kisses him hard and goes for his jeans. That is sexy, but also psychologically sharp. She is trying to reclaim authorship over her own body’s confession.
+**Cast present (in person):** Vee/Vivienne; Pace/Peter. Mentioned only: Randi; the blonde girl from The Rusty Nail.
 
-The title, “A Recognized Method,” made me smile once I reached the soaking argument. On the surface it’s Vee’s comic legal brief for leaving the dishes: “Soaking is a recognized method.” But after reading, it points wider. Apology is a method. Randi’s styling is a method. Pace’s attention is a method. Letting things sit under water until they loosen is also what happens to the shame: Thursday’s hard crust softens only after time, warmth, and being held. It doesn’t feel like the title gave anything away; it clicked pleasantly and then deepened.
+**Heat:** 2 — explicit sexual activity is implied, and the kitchen spanking response is intensely erotic though brief.
 
-The book title, *With a Long Spoon*, still feels like hunger and caution to me — feeding, being fed, taking sweetness from something potentially dangerous. This chapter adds the pie, the dishes, the sink, the soaking pan, the cooked smell in the house. Domestic food objects keep becoming emotional instruments. The tagline — “Every yes was freely given. That was the trap.” — feels painfully active here because nothing in this chapter feels forced. That is exactly what makes me worry.
+**Romance:** 3 — the apology, forgiveness, overnight stay, folded shirt, and “You’re always beautiful” feel like a real bond deepening.
 
-My only real friction: the mythic compliment at the door is almost too perfect — “Beauty like yours made for the gods and loaned out” — but because Pace has already been established as someone who can speak mathematically/poetically without smirking, I accepted it. If anything snagged, it was the summary of the first night after the apology: “none of that belonged to the apology anymore.” I understood the choice to skip it, but a greedy part of me wanted one more concrete beat of how forgiveness became bed.
+**Motifs & images:** Borrowed Randi clothing repeats through the cognac heels and green-gold scarf; thresholds repeat at Pace’s door; pie and apple return food/appetite through “humble pie”; soaking is a first-sighting domestic/erotic image; Pace’s shirt and smell repeat trace and borrowed skins; hands repeat through pie-taking, scarf-setting, face-holding, tickling, swatting, and hair-gathering.
 
-What I want next: I want to know what happens when Vee returns to campus after two nights gone. Cassie is going to see something. Randi may see the shoes/scarf aftermath, and I very much want to know whether Pace recognizes them as Randi’s influence or already knows. I also dread Vee’s practical life catching up with her: class, clothes, no bag, dorm, money, shoes, garment bag, lies by omission. Guess from here: this two-night stay will feel blissful now and become evidence later.
+**Symbolism:** The humble pie symbolizes contrition made performable, then exposed as inadequate. Soaking symbolizes letting resistance soften without force. The borrowed heels symbolize steadiness but also Randi’s hand entering Pace’s house on Vee’s body.
 
-## Carry-forward state
+**Characterization:** Vee deepens: she can apologize, confess motive, play, desire, and panic over ordinary life. Pace deepens as tender and dangerous in his perceptiveness. Randi is absent but powerfully present through the outfit and instruction.
 
-**Cast present (in person):**  
-Vee / Vivienne Thorne; Pace / Peter.  
-**Mentioned-only:** Randi; the blonde CW woman indirectly through Vee’s retelling; “all us girls” from the blonde’s speech.
+**Pace — within the chapter:** Strong. The apology scene earns its length, then the domestic morning opens into erotic surprise without feeling rushed.
 
-**Heat:** 2.5 — explicit erotic discovery and sexual continuation, but not a sustained graphic sex scene; the kitchen slap/body-response is the charged center.
-
-**Romance:** 3 — the apology is received tenderly, she stays two nights, he leaves a clean shirt for her, washes dishes, tells her “You’re always beautiful.” This is a major intimacy deepening.
-
-**Motifs & images:**  
-- **Shoes as structure/completion — repeat:** Randi’s cognac heels from “Broken In” steady Vee again, now at Pace’s door; they also alter height and power unexpectedly.  
-- **Pie / food as emotional object — first/continuing food motif:** “HUMBLE PIE” turns contrition into something carried, labeled, offered, then removed from her hands.  
-- **Hands / lifted burden — repeat:** Pace takes the sliding pie as practical care, later takes her face in both hands; the final thought connects his lifting the emotional weight to lifting the pie.  
-- **Warm house / cold outside — repeat:** Pace’s house again becomes warm refuge after cold approach.  
-- **Door / threshold — repeat:** Vee arrives at Pace’s door to repair the CW rupture; the apology begins before she crosses fully into the renewed intimacy.  
-- **Randi’s styling / borrowed clothing — repeat:** Vee comes in Randi’s heels, pearls, dress plan; Randi’s absent hand shapes the scene.  
-- **Clean machine / structure — repeat with math/craft motifs:** Vee builds her apology “like a small clean machine,” echoing problem-solving, construction, and controlled emotional presentation.  
-- **Soaking / dishes / water — first as major domestic motif:** “Soaking is a recognized method” becomes comic and symbolic; the pan remains soaking while they leave for sex.  
-- **Tickling — repeat/echo:** Randi’s earlier Hermès/tickling story is recalled by the page through Pace tickling Vee; this time it becomes Vee’s own bodily discovery.  
-- **Spanking/slap — repeat/echo:** The bench scene involved Pace spanking Randi; here one open-handed slap to Vee’s backside in the kitchen causes a shock of arousal.  
-- **Washed shirt / borrowed male clothing — repeat:** Pace leaves a clean white undershirt folded for Vee; she wears it bare-legged, echoing the flannel/shirt totem.  
-- **Smell / traces — repeat:** By Sunday she smells of Pace “head to foot,” with “nothing of her own left anywhere on her skin.”  
-- **Hair / getting ready — repeat:** Monday morning panic centers on hair, time, no tools, no dorm access; Pace gathers it and kisses behind her ear.  
-- **Always beautiful — first phrase:** Pace’s “You’re always beautiful” lands as steadier than a situational compliment.
-
-**Symbolism:**  
-- **Humble pie:** contrition made safe by wit; Vee’s attempt to carry shame in a manageable form.  
-- **Randi’s heels at Pace’s door:** borrowed confidence that also alters the power geometry; Randi’s influence entering Pace’s house on Vee’s body.  
-- **The pie lifted from her hands:** Pace relieving Vee of both the literal prop and the emotional weight she over-prepared to carry.  
-- **Soaking dishes:** leaving difficulty to soften rather than scrubbing it raw; also comic domestic intimacy turning erotic.  
-- **The clean folded undershirt:** care prepared in advance; permission to inhabit his space/body-world after staying unexpectedly.  
-- **Smelling entirely of him:** comfort and possible loss of separateness.  
-- **Hair at Monday mirror:** ordinary life reasserting itself; the cost of staying past intention.
-
-**Characterization:**  
-Vee deepens: morally accountable, funny under pressure, shame-prone, increasingly able to tell the ugly truth, and bodily surprised by herself. Pace deepens as patient and tender in apology, but also as someone whose erotic attention can pivot very quickly from domestic play to charged discovery. Randi, though absent, remains powerful through instructions and objects; she does not flatten, because her influence is felt even offstage.
-
-**Pace — within the chapter:**  
-The chapter earns its length. The apology sequence is clean and tense; the skipped sex after apology keeps focus where it belongs. The Sunday domestic/kitchen section is the sensual heart. Monday arrives a little abruptly by design, like consequences catching up.
-
-**Pace — chapter to chapter:**  
-Momentum builds strongly from “Broken In” and “Sheri — First Ride.” The promised apology happens, but instead of closing the rupture neatly, it opens a deeper domestic/erotic attachment. The triangle tension holds because Randi’s objects are present while Pace receives Vee alone.
+**Pace — chapter to chapter:** Building. After the cycling chapter’s outside view of Pace’s feeling, this brings Vee and Pace into direct repair and deeper intimacy.
 
 ## Carry-forward state
 
-**Who’s who:**  
-Pace / Peter — man; seen in person. Young mathematician per jacket copy; Randi’s secret lover; twenty-two, nearly finished with his doctorate; powerlifter; disciplined writer; maker of furniture and clothing, including Vee’s tagless shirt and burgundy/plum silk gown. Patient, attentive, safety-conscious, erotically skilled, physically powerful. Has fed Vee, kissed her, hiked with her, fitted her, had sex with her, accepted her folded wet green panties as “Trade,” made her a gown precise to her body, and given her his real name, Peter. Has an old surgical scar high on his inner thigh/near hip/outside hip-thigh area; he first moved Vee’s hand away during sex, later in “Rock” covered her hand and said “Not tonight.” Mother stays home; father works in a chemical plant. Left home for college at fifteen after taking SAT at fourteen and doing extremely well; seventh-grade math teacher punished his advanced questions by moving him into the hall during math and giving long-division worksheets. College was first year he was not “in the hall.” First love was his nineteen-year-old female tutor when he was fifteen; it lasted two years; he frames it as lucky/not wrong, while Vee senses imbalance. Lifting began partly because he was fifteen in a dorm full of men and became a way of being fully present. In “Gone,” discussed Vee with Randi after sex, said he likes taking his time with Vee and wants her to “get there on her own.” In “Lesson,” taught Vee CW dancing privately, then took her publicly to CW where he is known warmly as a good lead and someone who gets drunk girls home safely without taking advantage; after Vee cruelly accused him, he answered plainly, set down untouched beers, and left without anger. In “Broken In,” absent but central: Vee tells Randi the CW story, regrets hurting him, and is preparing to apologize tomorrow night at his door. In “Sheri — First Ride,” rides bikes with Sheri on Saturday roads out past his place; hears that Sheri watched Vee after he left CW; cannot help talking about Vee noticing his walnut chair joint and math books; admits Randi is “not finished”; is warned by Sheri that “two of them at once” will be complicated. In “A Recognized Method,” receives Vee’s apology at his door, immediately notices Randi’s cognac heels have made her taller than him, refuses to let her take them off, takes the “HUMBLE PIE” from her hands, listens to her full explanation about the blonde, thanks her for telling him what was said, takes her to bed, leaves a clean folded undershirt for her when she wakes, washes dishes Sunday, tickles her, receives her playful swat, then gives one open-handed slap to her backside that exposes a new erotic response in her; later lets her stay through Sunday into Monday, reassures her over messy hair with “You’re always beautiful.”
+**Principals**
 
-Miranda / Randi — woman; seen in person. Poised, dazzling sorority woman; secretly Pace’s lover; selected Vee with Pace and staged first contact. Has charmed Vee socially and erotically, publicly claimed her as “my dear friend,” taken her to expensive lunch/brunch/shoe shopping, drawn out Vee’s accounts of Pace, reframed Vee’s shame as agency, kissed Vee on the mouth multiple times, and become “the person Vee gets to tell.” In “Gone,” after sex with Pace, admitted she did not expect to like Vee so much and that Vee “got past” her; expressed real delight, desire, and managerial concern that Vee was “not ready.” In “Broken In,” Randi listens to Vee’s CW story, calls the blonde a bitch, reframes jealousy as proof Vee is “in this,” delays the apology, and dresses/stages Vee for Pace with black dress, real earrings, cognac heels, and green-gold scarf; kisses Vee goodbye on the mouth. In “Sheri — First Ride,” mentioned by Sheri as “the pale sorority chick”; Pace says, “That’s not finished.” In “A Recognized Method,” absent physically but strongly present through her instructions and borrowed heels: Vee follows Randi’s advice to go in “sure,” wears Randi’s cognac heels, and carries Randi’s staging into Pace’s house.
+Randi: a twenty-one-year-old woman, also called Miranda by the jacket and Randi on the page. Poised, beautiful, socially polished, with black hair, pale skin, striking blue eyes, and a “slight perpetual surprise” in her resting expression. She is in a sorority and holds a board seat in Standards, which gives her a single room. She lies to Brooke about having a paper so she can go to Pace’s house, then lies again the next morning about where she worked. She has a guarded relationship to food shaped by her mother and sorority standards. She uses her face, beauty, and social performance as protection: “Nothing happened to her. That was what the face was for.” In bed with Pace, her body answers the idea of tasting another woman before she can think: she comes hard at the question, then later converts the wanting into the safer version of “Only in a threesome… With you.” On campus, she learns the pointing game quickly and gives a bare “Yes” when Pace points at the red-haired girl from the dining hall. She engineers a small collision with Vee, then follows through through stats, Chi Latte, study, texting, Smoothie Bird, lunch, brunch, shoe-shopping, and Vee’s post-Rusty Nail crisis, making Vee feel publicly chosen and privately understood. She has drawn out Vee’s stories of Pace’s fitting and their first sex, normalized Vee’s wanting, kissed Vee on the mouth repeatedly, and left Vee increasingly able to receive the kisses without denying them. Most recently, after Vee hurt Pace at The Rusty Nail, Randi brought Vee into her sorority room, interpreted the rupture as jealousy proving Vee was “in this,” told her not to go to Pace until tomorrow night, dressed the coming apology with cognac heels and a green-and-gold scarf, and kissed Vee goodbye on the mouth as something ordinary. This chapter, Randi is absent but materially present: Vee arrives at Pace’s in Randi’s cognac heels and green-gold scarf, following Randi’s instruction to go in “sure” rather than wringing her hands.
 
-Vivienne Thorne / Vee — woman; seen in person. Junior student chosen unknowingly by Pace/Randi; hungry for care, respect, bodily freedom, beauty, food, and being chosen. Has kissed Pace, hiked with him, exposed herself in his truck, accepted and worn a handmade burgundy/plum gown, undergone an erotic topless fitting, had sex with Pace, given him soaked green panties as “Trade,” told Cassie and Randi edited versions, accepted Randi’s kisses, bought expensive black heels on emergency credit for induction, and imagined public visibility in the gown. Learned Pace’s real name Peter, his math wound, early college, first love/tutor, lifting history, and touched his scar under boundary. In “Lesson,” learned to dance with Pace, experienced bodily trust in his lead, then became jealous at CW after a blonde’s needling, hurt Pace publicly, refused his safety, stayed at the bar, learned from bartender that women were jealous of her and Pace is genuinely decent, took costly cab home, wore Pace’s washed shirt, and realized she punished him for being good. In “Broken In,” goes to Randi after shame-night, confesses the rupture, accepts Randi’s reframing and timing, is dressed/staged in Randi’s shoes/scarf, kisses Randi back without bracing, and leaves planning tomorrow night’s apology to Pace. In “Sheri — First Ride,” absent but observed after CW by Sheri. In “A Recognized Method,” changes into Randi’s cognac heels in the car at Pace’s house, brings a supermarket apple “HUMBLE PIE” with a handmade label, panics when the heels make her taller than Pace, apologizes clearly for Thursday, then tells the deeper truth about the blonde and her own readiness to believe the worst. Stays with Pace Saturday night, wakes Sunday in his folded undershirt, coaxes him away from dishes with the “recognized method” of soaking, discovers intense arousal after one playful slap, initiates sex by kissing him and undoing his jeans, stays unexpectedly through Sunday and into Monday, smells entirely of Pace after using his soap/shampoo/clothes, panics about class/hair/no time, and is steadied by his “You’re always beautiful.”
+Pace / Peter: a man who lives alone in a warm house at the end of a long drive. He is a young mathematician according to the jacket and, on the page, a math PhD student who powerlifts, writes mathematics, builds furniture, sews, cooks, dances, teaches dancing, cycles most Saturdays, and has a patent connected to making MRI images faster through signal/noise work. His real name is Peter, though he goes by Pace. He is twenty-two. His mother stays home and his father works in a chemical plant. At fourteen he took the SAT for a summer program and did so well that scholarships and adult concern sent him to college at fifteen. In seventh grade he taught himself trigonometry to write a graphics program, asked questions his math teacher could not answer, and was moved into the hall during math class for the year to do long-division worksheets, making the thing he loved into punishment. College was the opposite: rooms full of people who found math beautiful. He describes math as the language the world is written in and says most people walk around inside the poem without reading a line. At fifteen he was assigned a nineteen-year-old tutor; the relationship lasted two years, ended when she turned twenty-one and he was seventeen, and he still defends it as the best two years he had had, not hearing the uglier word Vee holds back. He began lifting partly because he was fifteen in a dormitory full of men and wanted never to find out whether strength would be needed; lifting became freedom because a heavy squat leaves no future or past, only the lift. He has an old raised scar high on the inside of his thigh, longer than Vee’s hand; when she touches it, he covers her hand and says, “Not tonight,” leaving the question open for another time. He is patient, observant, physically confident, domestic, and skilled with erotic control. He initiates the idea of another woman during sex with Randi and designs “the pointing game” as a way for Randi to want under cover of play. With Vee, he gives careful math help, feeds her, hikes with her, tends her blister, gives her his dry flannel, invites her to his house, shows her private rooms, reveals the burgundy silk, measures and drapes her nearly naked in daylight, sees her arousal without shaming her, and chooses restraint while finishing the work. He later has sex with her, feeds her fra diavolo and Chianti afterward, and accepts her folded green satin panties as a “Trade.” He reveals the finished burgundy silk dress he has made for Vee, has added a full-length mirror and moved the pedestal for her, leaves her privacy to try it on, responds to her in the dress with stunned desire, has sex with her again, carefully hangs the dress in the middle of that urgency, then falls asleep beside her. With Vee under a quilt by the fire, he receives her family stories, tells her his real name and parts of his childhood, lets her see his love of math and the hurt around being young, and gives her a boundary around the scar without removing her hand. He takes Vee country dancing at The Rusty Nail, where regulars know and embrace him as a former dance teacher and a safe man who gets drunk girls home without taking advantage. When Vee spitefully accuses his “service” of including getting girls home safely, he answers plainly, loses his good mood, sets down his untouched beer, and leaves. Riding bikes on Saturday with Sheri, he learns Vee stayed alone after he left, danced with nobody, and left alone; when Sheri asks her name, he says “Vee,” then “Vivienne,” and spills into tender detail about Vee noticing his walnut chair joint and taking down a math book. This chapter, he receives Vee’s apology, asks what really happened, thanks her for telling him what the blonde said, lets her stay through Sunday and into Monday, gives her a clean folded undershirt to wake in, plays with her in the kitchen until a swat exposes a new erotic response, and tells her, over her panicked Monday-morning hair, “You’re always beautiful.”
 
-Sheri — woman; seen in person. New in “Sheri — First Ride.” Pace’s Saturday cycling companion for two years; small, fast, especially strong on climbs, rides close on his left and is comfortable with him. Blunt, funny, sexually frank about women, and fiercely loyal: Pace believes she can turn heat on a person instantly and keep it burning for years, and that loyalty is worth everything. Watched Vee after Pace left CW; reports Vee sat alone, glared at the floor, nursed one drink, danced with nobody, and left alone. Calls Vee’s backside impressive, asks whether Pace wants her not to like Vee, asks about “the pale sorority chick,” and warns that two women at once will be complicated. Absent in “A Recognized Method.”
+Vivienne Thorne / Vee: named in the jacket as Vivienne Thorne, the girl Randi and Pace picked out across the quad and decided would be the third in their bed without telling her. On the page she appears first as “Vee,” a tall, lush, red-haired woman. She is from Ohio. Her mother is a nurse and calls her Vivienne, proper and ladylike; her father works on jet engines for a major airline, calls her Vee except when she is in trouble, and taught her reverence for things done in the right order. She has one brother, three years older, in the Army; she loves him but does not know him very well. She grew up with church, casseroles, a Corolla, beige plentiful food, Cool Whip containers, and a spice rack whose saffron was never opened. At fifteen she had a trumpet-player boyfriend while she played clarinet; it lasted one marching season and she was heartbroken to four songs until her mother took the headphones away. She is susceptible to polish, status, and being chosen, but also observant about rooms, clothes, money, cars, and hierarchy. She has shame around appetite, class, her body, and “what kind of girl” she might be, shaped by her mother’s voice and her father’s money caution. Pace’s attention makes her feel listened to, helped, fed, seen, and allowed to want; Randi’s attention makes her feel admitted into a brighter life and given a language in which wanting is not shame. She has had sex with Pace, discovered shame and heat can run together without shame closing her, eaten afterward wrapped in his sheet, and given him the green panties as a trade. She has received the finished burgundy dress Pace made to her actual body, removed her underwear so the hip-high slit can run clean, had sex with him in and around its reveal, and imagined wearing it to induction without the room’s looking costing her anything. She showed Randi the dress, bought expensive black strapped heels with Randi’s guidance, and later learned Pace’s real name and private history by the fire. At The Rusty Nail she felt first chosen and then replaceable, lashed out cruelly at Pace’s public safety with women, learned from the bartender that the women were jealous of her chair, took an expensive cab home, and lay awake in Pace’s washed shirt understanding she punished him for being good. Afterward she went to Randi’s sorority house, received Randi’s interpretation and instructions, stood in Randi’s room in bra and skirt, wore Randi’s deep cognac heels and green-and-gold scarf, saw herself in the mirror as “nobody’s clown,” and left with marching orders, borrowed shoes, borrowed scarf, and a normalized mouth kiss from Randi. This chapter she changes into Randi’s heels in the car, carries a supermarket apple pie labeled “HUMBLE PIE,” nearly collapses when she realizes the heels make her taller than Pace, apologizes clearly, then confesses that the blonde’s insinuation worked because part of her was waiting for a lie. She stays with Pace Saturday night, Sunday, Sunday night, and into Monday, wakes in his folded undershirt, plays with him over the dishes, discovers an intense bodily response when he swats her, has sex with him again, spends Sunday in his clothes smelling entirely of him, and panics Monday morning over class, clothes, and hair before he steadies her with “You’re always beautiful.”
 
-Cassie — woman; seen in person. Vee’s dry, perceptive friend/roommate figure; safest witness so far. Notices seams but does not force them. Has read Vee’s grin, toenails, edited morning-after story, made/untouched bed, and absences. In “Lesson,” Vee considers calling Cassie for rescue from CW but does not because Cassie would come and ask questions. In “Broken In,” Cassie gets up at eight while Vee pretends sleep; she makes a low “Hrm” instead of a question after seeing Vee wound in Pace’s shirt, then leaves. Still safe, but Vee avoids her because Cassie would require harder honesty. Absent in “Sheri — First Ride” and “A Recognized Method,” but Monday’s coming class/dorm problem suggests Cassie may soon see evidence of Vee’s two-night absence.
+Cassie: Vee’s friend from stats. She is terse, observant, resistant to easy social rhythm, and protective without making a performance of protection. She has heard edited but significant versions of Vee’s Pace stories, including the hike, flannel, house, fitting, dinner night, finished dress, and now some facts around Vee not coming home before. She does not know the Randi/Pace plan, the full sexual middle, the green panties, Randi’s deepening role with Vee, the true cost and significance of the black heels, Pace’s firelit disclosures, The Rusty Nail rupture, or Randi’s post-Rusty Nail dressing of Vee for the apology. She recently woke for her first class at eight, noticed Vee apparently asleep in Pace’s shirt with a low “Hrm,” and left without asking. Vee pretended to sleep because Cassie’s questions would demand answers she cannot give. This chapter Cassie is absent, and Vee stays away from the dorm through Monday morning.
 
-Meg — woman; seen in person. Vee’s floor friend; calm witness; helped discuss Pace and what to wear. Absent.  
-Kayla — woman; seen in person. Vee’s lively friend; bright, nosy, teasing; helped anticipate Pace’s house invitation and clothing questions. Absent.  
-Theo — man; seen in person. Nice student who once asked Vee to a fall thing and accepted friendship gracefully. Absent.  
-Danny — man; mentioned-only. Meg’s boyfriend/reference point for “he’s different.” Absent.  
-Kayla’s boyfriend’s roommate — man; mentioned-only. Did something stupid in Meg’s prior dinner story. Absent.  
-Christine — woman; seen in person. Older woman at small restaurant who knows Pace warmly. Absent.  
-Brooke — woman; seen in person. Randi’s sorority president/sister; warm/socially powerful; witnessed Randi publicly claim Vee as “my dear friend.” In “Broken In,” opens sorority door one-handed with coffee, recognizes Vee as “the stats friend,” warmly invites her in, offers coffee/herbal tea/matcha, texts Randi instead of yelling because Randi hates being yelled for. Her warmth remains glossy and socially appraising; the house seems to have a “folder” on Vee. Absent.  
-Sloane — woman; seen in person. Sorority sister from “Standards.” Absent.  
-Kinsey — woman; seen in person. Sorority sister from “Standards.” Absent.  
-Unnamed older woman with Brooke — woman; seen in person. Silent appraising woman at Smoothie Bird. Absent.  
-Randi’s mother — woman; mentioned-only. Associated with Randi’s food/body restriction. Absent.  
-Vee’s mother — woman; mentioned-only. Nurse; associated with Vee’s shame around body, sexuality, food, class, proper “Vivienne,” ladylike behavior, and “floozy/floozie” language.  
-Vee’s father — man; mentioned-only. Works on jet engines for a major airline, reveres proper order, can hear engine problems like wrong notes, calls her Vee except when she is in trouble.  
-Vee’s brother — man; mentioned-only. Three years older, in the Army, not married; Vee loves him but does not know him well.  
-Vee’s grandfather — man; mentioned-only. Model of listening.  
-Randi’s dad — man; mentioned-only.  
-Pace’s mother — woman; mentioned-only. Stays home; what she calls him remains unanswered except Pace reveals real name Peter.  
-Pace’s father — man; mentioned-only. Works in chemical plant.  
-Pace’s seventh-grade math teacher — woman; mentioned-only. Could not answer Pace’s questions and moved his desk into hall during math for a year.  
-Pace’s former tutor / first love — woman; mentioned-only. Assigned when he entered college at fifteen; she was nineteen; relationship lasted two years.  
-Pace’s granddad — man; mentioned-only in “Lesson.” Listened to older country music; Pace uses a sparse old song from his granddad’s listening because it has a clearer beat.  
-Blonde CW woman — woman; seen in person in “Lesson.” About Vee’s age, country pretty, intentionally made up; told Vee she and Pace looked great together, said Pace knows “how to get a girl to do just what he wants,” said all the girls love him and that he gets girls home safe. Warm/needling; triggered Vee’s jealousy. In “Broken In,” Vee recounts her to Randi; Randi calls her “That bitch.” In “A Recognized Method,” Vee recounts her words directly to Pace and admits she knew what the blonde was doing but believed the worst anyway.  
-Older woman behind CW bar — woman; seen in person in “Lesson.” Longtime bar worker; gave Vee water, said Pace is a good guy, safely gets drunk girls home and leaves them at door, told Vee Pace does not bring dates and women were jealous of her. Mentioned in Vee’s retelling in “Broken In,” not directly in “A Recognized Method.”  
-Girl at CW till — woman/girl; seen in person in “Lesson.” Stamps hands and says “hey, Pace.”  
-CW regulars/dancers — mixed group; seen in person in “Lesson.” Know Pace warmly; women track Vee/Pace dancing.  
-Cab driver — man; seen in person in “Lesson.” Drives badly maintained cab, watches Vee in rearview, asks “Long night?”  
-Girl on another wing — woman/girl; mentioned-only/indirect lender in “Lesson.” Lent Vee boots.  
-Girl two doors down — woman/girl; mentioned-only/brief lender in “Lesson.” Lent Vee keyhole shirt after looking once at her chest.  
-Vee’s fifteen-year-old trumpet-player boyfriend — man; mentioned-only in “Rock.” Played trumpet while Vee played clarinet; lasted one marching season; left her for a girl from Methodist church.  
-Girl from Methodist church — woman/girl; mentioned-only in “Rock.” The trumpet-player boyfriend took up with her.  
-Unnamed stats professor — man; seen in person. Lectured on Simpson’s paradox in “All Told.”  
-Unnamed econ instructor/professor — gender not established; mentioned-only.  
-Unnamed business major — gender not established; mentioned-only.  
-Unnamed lifeguard — gender not established; seen in person.  
-Unnamed guys in bleachers — men/boys; seen/heard.  
-Unnamed professor Cassie complains about — gender not established; mentioned-only.  
-Unnamed girl down hall — woman; mentioned-only. Previously lent Vee shoes.  
-Unnamed boy at Smoothie Bird counter — man/boy; seen in person.  
-Unnamed campus cop / blue-and-white — gender not established; seen/functionally present in “Leave No Trace.”  
-Unnamed honor society / induction attendees — people; mentioned-only. Induction remains central because Pace made Vee’s burgundy silk gown and Vee bought black heels.  
-Two girls Vee half-knows — women/girls; seen in person in “How It’s Done.”  
-Restaurant host in “How It’s Done” — gender not specified; seen.  
-Restaurant waiter in “How It’s Done” — gender not specified; seen.  
-“Beautiful idiot” from Randi’s story — man; mentioned-only; supposedly tied Randi’s wrists to headboard with Hermès scarf, tickled her, then sexually brought her off. Truth uncertain. Echoed by Pace tickling Vee in “A Recognized Method,” though no direct connection is stated.  
-Randi’s old boyfriend from “Fed” — man; mentioned-only; beautiful old boyfriend Randi says was nervous, hurried, disappointing. Truth uncertain.  
-Chicago conference people — people; mentioned-only from Pace’s conference.  
-Unnamed waiter at “Fed” bistro — gender not specified; seen; brings mimosas.  
-Randi’s awful committee — people/context; mentioned-only.  
-Unnamed girl in the house from “Fed” — woman/girl; mentioned-only.  
-Unnamed movie neither Randi nor Vee would admit crying at — mentioned-only.  
-Simpson’s paradox baseball players — men; mentioned-only/example.  
-Unnamed students in stats — mixed/unspecified; classroom background.  
-Stevie Nicks — woman; mentioned-only via Vee’s *Bella Donna* poster.  
-Unnamed boutique saleswoman — woman; seen in “Sorority.”  
-Unnamed older couple in first shoe store — man and woman/couple; seen in “Sorority,” later retold by Randi.  
-Unnamed coat woman from Randi’s boutique story — woman; mentioned-only.  
-Newton — man; mentioned-only in “Rock.”  
-Edna Mode — woman fictional/cultural reference; mentioned-only in “Broken In.”  
-Unnamed sorority girls / composites — women; present as house history/background in “Broken In,” represented in framed composite portraits.  
-Unnamed maker of Randi’s green-gold scarf — not a character, only implied by Vee noting “someone had chosen on purpose.”  
-Unnamed athletic dorm diners / campus groups / Wilson patrons / froyo patrons / restaurant patrons / Smoothie Bird patrons / bistro patrons / shoe-store shoppers / boutique background / college professors and students around young Pace — background groups across chapters.
+Brooke: Randi’s sorority chapter president. She is polished, warm-voiced, socially authoritative, “buffed and expensively kept,” and does Saturday morning admin at the long table by the window with the chapter laptop and spreadsheet. She has questioned Randi about Pace and the paper lie and has seen Randi publicly call Vee “my dear friend.” She opened the sorority house door to Vee one-handed with coffee, looking to Vee like a shampoo-model beauty; Vee placed her as “Randi’s sister from the smoothie shop” and “the beautiful one who had somehow left her feeling small.” Brooke immediately identified Vee as “the stats friend,” offered coffee, herbal tea, or matcha, texted Randi rather than yelling for her, and functioned as the house’s warm gatekeeper. She is absent this chapter.
 
-**Motif & image ledger:**  
-Locked doors / locks / keys — Bench bathroom lock; sorority door; forbidden wanting as door; Pace’s house/bedroom doors; dorm lock sticks; dress hangs on bedroom door; scar’s “Not tonight” door; “Broken In” sorority door and Randi’s room door; “A Recognized Method” Pace’s door opens before Vee rings, threshold of apology crossed.  
-Warmth / cold — Pace’s warm house, mountain rain/cold, dorm warmth/cold, fitting warmth, fra diavolo heat, bistro sun, gold porch; “Rock” fire/quilt/glass; “Lesson” cold concrete pad/October vs warm CW; “Broken In” cold water, cracked window, bare legs in October, clear rinsed day; “Sheri — First Ride” cold fingers/breath; “A Recognized Method” cold outside/car/porch gives way to warm low-lit house, later cold floor under bare feet.  
-Music / sound / silence — Steely Dan/campus/pool/rain/siren/heater/silk/dorm/cereal/bistro/radio; Sade in “Gone”; fire quiet in “Rock”; “Lesson” country boom box and CW band; “Broken In” alarm glissando/morning sounds/doorbell; “Sheri” road silence; “A Recognized Method” engine ticking, water running, tap turned off, kitchen quiet, slap sound small but sting not.  
-Apple / permitted appetite — Randi apple/food restriction; Vee latte/froyo/dinner/rye/cherries/fra diavolo/mimosas; “Broken In” dorm apple; “A Recognized Method” supermarket apple pie labeled HUMBLE PIE.  
-Food policing / body control — maternal shame, Smoothie Bird discipline, free eating with Pace; “Lesson” floozies body shame; “Broken In” apple/skipped breakfast; “A Recognized Method” contrition turned into pie, domestic dishes from shared night.  
-Expensive surfaces / class reading — Randi polish/Mercedes/restaurants; Pace practical beauty; boutique costs; CW working room/cab fare; “Broken In” sorority/Randi closet/expensive borrowed shoes/scarf; “A Recognized Method” Vee knows Randi’s cognac heels are worth more than anything she owns.  
-Handmade furniture / hidden purpose — Pace’s bench/furniture/shirt/dress; “Lesson” repaired boom box; “Sheri” walnut chair joint; “A Recognized Method” not furniture, but Pace’s deliberate folded shirt and domestic order continue practical care.  
-Looking / being looked at — chosen/seen by Randi/Pace; truck exposure; fitting; induction fantasy; CW women watch; Randi circles Vee; Sheri watches Vee; “A Recognized Method” Pace looks up at Vee in heels, watches her face during apology and after slap.  
-Gloss / polish vs actual body — Randi polish/Vee wet body; CW blonde makeup; “Broken In” smeared mascara vs Randi freckles; “A Recognized Method” polished apology outfit gives way to messy hair, borrowed undershirt, bare legs.  
-“Hi” / “Hi” — repeated greetings; CW till girl “hey, Pace”; “A Recognized Method” Vee’s doorway “Hi” before apology.  
-Bench/table — Pace’s bench/riser; classroom tiers/desks; shoe benches; CW table/bar; Randi’s desk chair; “A Recognized Method” side table holds pie, kitchen sink/dishes become domestic stage.  
-Crying/leaking / not crying — Randi crying/not crying; Vee happy tears; “Broken In” smeared mascara/no crying; “A Recognized Method” Vee’s eyes go during apology, laughs wetly once; Monday eyes go hot over hair/time.  
-Breath-laugh / social laugh — Vee/Randi laughter; Pace quiet laugh; bartender huff; “Broken In” Edna Mode laughter; “A Recognized Method” Pace’s laugh goes through his back before heard; Vee shrieks/laughs from tickling.  
-The “word” / red — safeword Red; burgundy silk; floozy shame-word; Randi’s “slut”; “Broken In” shoe whore/Evil Queen; “A Recognized Method” “HUMBLE PIE” label and “recognized method” become comic language covers for vulnerability.  
-Blue eyes / blue polish / blue-and-white — “Broken In” Randi’s sky-blue toenails/sky; no new.  
-Fractions / delay / timing — delayed texts; stopping kisses; “ready”; dance timing; Randi delays apology; “A Recognized Method” delay works: Vee comes after time, but staying two nights disrupts Monday timing.  
-Standards / board authority — sorority Standards/social rules; induction; “Broken In” room inspection joke; no new except Randi’s staged rules carried into apology.  
-Pointing / game / choosing — secret choice; dance lead; Randi’s marching orders; “A Recognized Method” Vee’s planned apology breaks and becomes self-chosen truth.  
-Body as evidence / involuntary yes — wet satin, panties, soreness; dance body learns lead; Randi’s touch response; “A Recognized Method” slap produces involuntary nipple/face response before thought.  
-Names and social filing — Vivienne/Vee/Peter/Pace; Brooke knows “stats friend”; Sheri asks Vee/Vivienne; no new names.  
-Hair / wind / getting ready — Randi lifts hair; borrowed clothes; “Broken In” messy hair and styling; “Sheri” ponytail; “A Recognized Method” Monday panic over slept-on hair washed in Pace’s shampoo, Pace gathers it at nape and kisses behind ear.  
-Math/stats/econ/applied structure — Simpson, Pace math beauty, dance pattern, Randi arithmetic; “A Recognized Method” Vee makes pie label in stats lab instead of problem set; apology built like “a small clean machine”; “recognized method” sounds mock-academic.  
-Greek letters / sorority code — sorority house/composites; no new.  
-Cups / spoons / stirring — tea mugs, beers, bar water, Brooke coffee; “A Recognized Method” dishes, sink, soaking pan, pie.  
-Goodbye / see you later / love you — Cassie “Goodbye”; Randi “See you soon”; no goodbye here; Monday departure rushed after “You’re always beautiful.”  
-Pencils / writing tools — printer/good scissors used for pie label in stats lab.  
-Doors / bells / entry — CW entrance/Pace exits/dorm/sorority bell; “A Recognized Method” Pace opens before Vee rings.  
-Phone / notifications / lighting up — no new.  
-Games / play — pointing game/erotic play/dress-up/dance; “A Recognized Method” humble-pie joke, soaking argument, tickling, playful swat turning erotic.  
-Grandfather/listening — no new.  
-Water / swimming / underwater — cold sink water earlier; “A Recognized Method” running tap, soaking dishes, water turned off before erotic pivot.  
-Suits / clothing as exposure — swimsuit/flannel/satin/gown/lingerie/borrowed dance clothes/Randi shoes/scarf; “A Recognized Method” Randi’s heels, Vee’s apology dress/pearls, Pace’s undershirt, his sweatpants, no clean clothes.  
-Hands — ongoing; “A Recognized Method” Pace takes pie, steadies forearm, holds face, leaves shirt, washes dishes, tickles side, slaps backside, gathers hair.  
-Rules / exceptions — dating rule/exception; dance rules; Randi’s apology rules; “A Recognized Method” soaking as “recognized method,” and Vee’s plan breaks when real why is asked.  
-Roads / long drive / west of town — “A Recognized Method” Pace’s driveway, car, hill to his door, Monday commute problem from house twenty minutes outside town.  
-Hiking / trail / climbs — no new except “whole weight up the hill to his door.”  
-Dear / cost / public claim — Randi’s dear friend, costly shoes; “A Recognized Method” borrowed costly heels act as uniform.  
-Wrong size / shrinking — shared shoe size; “A Recognized Method” Randi’s shoes fit but height changes relation.  
-Leave no trace / traces — flannel/shirt trade; washed shirt; Sheri reports trace; “A Recognized Method” Vee smells entirely of Pace, has nothing of her own on skin.  
-Flannel / borrowed clothing — Pace flannel/shirt; Randi shoes/scarf; “A Recognized Method” Pace’s folded undershirt, sweatpants rolled three times, Vee’s bra saved for Monday.  
-Sirens / authority interruption — no new.  
-Russet/burgundy dress / ceremony clothing — apology dress is likely Randi’s planned little black dress; gown/induction still offstage.  
-Athletic dorm / borrowed belonging — borrowed boots/clothes/Randi shoes; “A Recognized Method” borrowed heels and Pace’s clothes.  
-What to wear / getting ready — major repeat: apology outfit succeeds but then Monday clothing crisis follows.  
-Two towels — no new.  
-Workshop / tools / outlines — no new.  
-Signal / noise / redundancy — Randi reads Vee; dance lead; “A Recognized Method” Pace asks for missing signal: “what happened?”  
-Tape / measurements — no new.  
-Pins / pinprick — no new.  
-Platform / pedestal / box — no new.  
-Wet satin / visible hope — no wet satin, but visible involuntary arousal after slap.  
-Dorm room as witness-space — absent but Monday return impending.  
-Mercedes / convertible — no new.  
-White-gold band — no new.  
-Velvet booth / alcove — no new.  
-French thing / kiss-kiss rationalization — Randi kisses normalized; no Randi kiss here.  
-Green — green satin lingerie; Randi scent/scarf; no new except possibly memory of scarf if worn, though scarf not foregrounded in chapter.  
-Plum polish / plum color — no new.  
-Apron — no new.  
-Scar — no new.  
-Trade — Pace shirt/totem; “A Recognized Method” clean undershirt continues exchange of clothing/intimacy.  
-Bistro / sun porch — no new.  
-Mimosas — no new.  
-Painting / tableau — Randi mirror; “A Recognized Method” Vee watches Pace doing dishes as “unbearable ordinary fact.”  
-Campaign — Randi’s campaign/apology staging; “A Recognized Method” campaign breaks into real confession.  
-Slit / peekaboo reveal — no new.  
-Full-length mirror — no new; bathroom mirror/hair panic.  
-Made bed / readable absence — Cassie’s made bed; “A Recognized Method” Vee absent two nights, likely readable soon.  
-Simpson’s paradox / short stretch vs whole — still hovering: every truthful yes here may lie against whole hidden arrangement.  
-Garment bag / closet — no new.  
-Shoes as completion — induction heels/dance boots/Randi apology shoes; “A Recognized Method” shoes steady Vee but make her taller than Pace.  
-Credit / debt / future cost — shoe debt/cab fare; “A Recognized Method” Randi’s borrowed shoes are worth more than anything Vee owns.  
-Cardigan / hiding — no cardigan; Randi’s anti-cardigan styling continues.  
-Lamp / room brightening — no direct lamp; low-lit warm house.  
-Sade / low playlist — no new.  
-Readiness / getting there — Randi said Vee not ready; “A Recognized Method” Vee is ready enough to apologize and then discovers new arousal.  
-Fire / glass / stars / ridge — no new.  
-Unopened spice rack / saffron — no new.  
-Hallway desk / long division — no new.  
-Coastline / infinite surface / Newton’s sentences — no new.  
-Weight bar / lift / heartbeat — Pace’s presence/lifting; “A Recognized Method” he lifts burden/pie; Vee gives him her whole drowsy weight.  
-Dance / lead / frame — Randi’s shoes as frame; Pace’s lead not explicit but his receiving/attention structures scene.  
-Sorority house / composites — no new.  
-Randi’s room / scent — Randi’s room/closet continue through shoes.  
-Scarf — Hermès story; Randi green-gold scarf lent; not emphasized in this chapter except outfit context/possibly worn.  
-Fairy tale / queens / stepsisters — no new.  
-Marching orders — Randi’s apology instructions enacted.  
-Cycling / bikes / rides — no new.  
-Heat as loyalty — Sheri motif not new.  
-Humble pie — first major: apology as labeled food prop, comic shield, then discarded/relieved.  
-Soaking — first major: domestic delay, recognized method, letting water do work; title motif.  
-Tickling — first direct Vee/Pace instance; echoes Randi’s earlier sexual story.  
-Spanking/slap — first direct Vee/Pace backside slap; echoes Randi bench scene, but here sudden, playful, revelatory.  
-Smelling of him — first strong total-body version; trace/possession/comfort.
+Sheri: Pace’s Saturday cycling friend, a woman who has ridden with him most Saturdays for two years, usually out past his place. She rides close to him on his left, is faster than he is on climbs and never lets him forget it, has a small bike frame, a small powerful body, and a bleached ponytail. She remarks on women bluntly and casually, notices Vee’s “hell of a backside,” and knows enough about Pace’s life to ask, “What happened to the pale sorority chick?” She can turn her heat on a person quickly and keep it burning for years; Pace has seen that severity and also knows that on the other side of it is “everything.” She reads Pace’s feeling for Vee from the way he talks, asks whether he wants her not to like Vee, accepts his “No,” and warns that “Two of them at once” will be complicated if it is not already. She is absent this chapter.
 
-**Symbolism noticed:**  
-The bench — hidden function under acceptable surface; consent and rupture.  
-Randi’s mirror/face — public self unable to return unchanged.  
-Bathroom lock — first new boundary from Pace.  
-Apple — permitted appetite as sensual play; in “Broken In,” Vee’s apple is enough because plan replaces breakfast.  
-Humble pie — contrition made edible, labeled, funny, and therefore less naked; in “A Recognized Method,” Pace taking it from her hands symbolizes relieving the burden.  
-Gloss/polish — curated desirability heated until actual body shows.  
-Warm room — care and control together.  
-Key turning in a lock — irreversible opening.  
-Sorority common room/house — social courtroom/museum/institution disguised as welcome.  
-Cold synthetic duvet — inadequate comfort.  
-“He’s hard to say no to” — troubling phrase around refusal.  
-Pointing game — desire made playable/deniable; Vee selected without knowledge.  
-Campus quad/daylight — public exposure of erotic fantasy.  
-Forbidden wanting as a door — Randi’s hidden desire opened by Pace.  
-Burning maple — desire/change in daylight.  
-Vee’s laugh — unselfconscious aliveness.  
-Staged collision — pursuit disguised as accident.  
-Latent variables — hidden causes driving visible outcomes.  
-Chi Latte/high table/window — initiation and display.  
-Vee’s cardigan — inherited shame/restraint; Randi bans it for apology.  
-Cassie’s “Goodbye” — possible warning/refusal.  
-Randi’s “See you later” / “See you soon” — promised continuity.  
-Substitution / Euler’s formula — transformation making impossible problem workable.  
-Pencil returned — seductive restraint and preserved agency.  
-Randi’s coffee cup — concealed agitation/management.  
-“May I call you?” — permission-language as safety/attraction.  
-Frozen yogurt cup — appetite allowed to overflow.  
-Walking the long way — patient intimacy.  
-Rec pool / underwater green — pre-shame privacy.  
-Bleachers — crude public appraisal.  
-Cassie’s splash — nonverbal care.  
-Water wings / floaties — mocked buoyancy and what keeps Vee afloat.  
-“May I choose?” — consensual surrender, darkly echoing secret prior choosing.  
-Unfamiliar menu words — unnamed pleasures behind closed doors.  
-Bread/dips/tea — being fed into older hunger.  
-Pace’s hand — care, appetite, touch condensed; dance lead information; in “A Recognized Method,” hand as tickle/slap/revelation.  
-Vee’s dating rule/exception — self-protection becoming chosen breach.  
-Cold line from Cassie’s window — protective clarity through romantic warmth.  
-Vee’s cramped-room spin — joy too large for usual container.  
-“Off six-fourteen” — private direction into Pace’s world.  
-Real shoes — equipment needed for new terrain; Randi’s heels now equipment for apology but also alter height/power.  
-Smoothie Bird — bright social performance space.  
-Randi’s bruise-colored smoothie — disciplined appetite.  
-“Dear friend” / “my girl” — public/private affection as claim.  
-Trail/climb — new terrain Vee agreed to before understanding it.  
-Wrong boots / moleskin — entering unequipped, then being cared for without shame.  
-Summit/valley/lake — beauty larger than desire.  
-Cherry pits / leave no trace — rule undercut by emotional/physical traces.  
-Shared water bottle — casual mouth-to-mouth intimacy.  
-Dry flannel — care, privacy, warmth, portable piece of Pace.  
-Truck cab — shelter, erotic chamber, interrupted threshold.  
-Wet shirt / sheer bra — shame transformed into chosen display.  
-Pace’s shaking hand — care costing his body too.  
-Campus cop lights/siren — outside authority cutting off private speech/kiss.  
-Russet/burgundy silk dress — beauty/recognition Vee wants but cannot afford.  
-Rye sandwich — appetite, effort, care, erotic afterglow translated into food.  
-Blister / sore legs — bodily proof and cost of going farther.  
-Cassie saying “Vee” softly — friendship handling fragile knowledge safely.  
-Athletic dorm dining hall — borrowed access/belonging.  
-Pace’s house invitation — open door and blank space.  
-“What to wear” — clothing as self-presentation before thresholds.  
-Two towels — ordinary domestic readiness for another body.  
-Pace’s house — warm, ordered, skilled interior life; hidden erotic home for Randi too; in “A Recognized Method,” becomes domestic overnight refuge.  
-Closed bedroom door — deferred sex/control, later opened by Vee’s request.  
-Shoe closet — use-specific competence.  
-Kitchen / used tools — care and appetite grounded in practice; in “A Recognized Method,” dishes/soaking become domestic intimacy and erotic threshold.  
-Handmade oak furniture — patience/material attention.  
-Workshop tool outlines — discipline/control visible.  
-Error-correcting codes — messages surviving damage/noise.  
-MRI patent / signal from noise — finding real image beneath interference.  
-Burgundy silk — Vee’s discarded wish returned matched to her actual self.  
-Measuring in good light — practical craft as erotic permission to be seen.  
-The measuring tape — Vee’s body converted into exact numbers.  
-The pad full of measurements — “the pad was full of her.”  
-Wet satin — involuntary desire as visible evidence; shame and hope impossible to hide.  
-Pace waiting for Vee’s eyes — choosing personhood over shame-evidence.  
-The low riser/platform/box/pedestal — display, vulnerability, elevation.  
-The pinprick and kiss — careful craft slipping into instinctive tenderness/erotic danger.  
-“Keep still” — boundary/line between dress and sex.  
-Vee rising onto her toes — shame rearranging into pride/power.  
-Turned-up heat — care, erotic preparation, emotional volume.  
-The handmade shirt on Vee’s pillow / closet hook — Pace’s intimacy in Vee’s private space; in “A Recognized Method,” his folded undershirt waits for her in his bed.  
-Cassie’s dorm room — safe witness-space for partial truth; Vee avoids Cassie when truth would be hard.  
-The Mercedes — Randi’s wealth/glamour/social power enclosing Vee.  
-Self-sealing window — expensive world quietly adjusting around Vee.  
-The velvet booth — public-private seduction/confession chamber.  
-Rombauer wine / tomato soup — class divide made edible/drinkable.  
-Randi’s white-gold band — fixed weight/control/unknown significance.  
-“You don’t have to tell me” — mercy/control/restraint.  
-Randi’s mouth kiss — direct erotic crossing from Randi to Vee.  
-Dorm windows — fear of social exposure after desire.  
-Green satin lingerie — Vee’s private chosen beauty/desire; absence proof of trade.  
-Frosted plum toenails hidden in flats — prepared erotic prettiness.  
-Paused dinner prep — Pace’s readiness/restraint.  
-Pace’s bedroom/plain white bed — private threshold where Vee enters act.  
-Pace’s scar — hidden bodily history, touched then closed.  
-Fra diavolo — hunger/heat after sex; desire returned to nourishment.  
-Folded wet panties / “Trade” — shame-object transformed into chosen erotic gift.  
-Edited story / lifted-out middle — Vee preserves private erotic truth by giving smooth partial versions.  
-Cassie’s cereal bowl — ordinary domestic morning-life pressed against extraordinary night.  
-Bistro sun porch — Randi-chosen bright chamber for confession.  
-Mimosa flute — temporary entry into adult/class ease.  
-“Campaign” — Randi’s reframing of preparations as active erotic agency.  
-“Fed” — emotional nourishment, erotic validation, and possible dangerous feeding by someone who picked table/girl.  
-The finished gown in gold light — private labor turned visible beauty.  
-The full-length mirror — Vee confronted with a version of herself shame cannot erase.  
-The hip-high slit — chosen exposure under Vee’s control.  
-Removing underwear for the line — Vee taking away apology/barrier and making herself clean line.  
-The dress hung carefully during sex — urgency tempered by reverence.  
-Imagined induction entrance — fantasy of public visibility without cost.  
-The made bed — domestic evidence that Vee did not come home; likely to matter again after two nights at Pace’s.  
-The garment bag — hidden public-self transformation.  
-Simpson’s paradox — total can reverse truth of every short stretch; echoes cover promise.  
-“Short stretches can lie against the whole” — Vee’s underlined note she does not apply to herself.  
-Shoes — needed to complete public transformation; in “A Recognized Method,” Randi’s heels steady Vee and destabilize her by making her taller than Pace.  
-The tan sensible heel — compromise as apology.  
-The boutique black heel — beauty that holds Vee up and binds her to future cost.  
-The emergency credit card — chosen present transformation with deferred hidden consequence.  
-Randi kneeling with Vee’s foot — erotic service/initiation/possession.  
-The shared shoe size — intimacy, mirroring, comic “marriage,” enabling Randi to lend shoes.  
-Vee clutching the shoe box — new beauty as fragile possession.  
-Sade low under the door — hidden sensual continuity in Pace/Randi’s private world.  
-Vee lighting the room — Vee’s aliveness seen by others before she believes it.  
-Randi’s “got past me” — game exceeding Randi’s defenses.  
-“She's not ready” / “She'll get there” — tender and covertly managerial timing.  
-“Gone” — Vee gone over Pace, Randi gone over Vee, original game gone into real feeling.  
-Fire/quilt/glass in “Rock” — intimacy as small made warmth with cold pressing close.  
-Unopened saffron — possibility, surprise, appetite sealed by family habit.  
-“Peter” — Pace’s hidden boy-self, plainer than “Pace.”  
-The hallway desk — exclusion/punishment disguised as education.  
-Math as poem — Pace’s access to beauty and his power to make Vee see differently.  
-The nineteen-year-old tutor — formative tenderness entangled with imbalance.  
-The squat bar — strength as survival and total presence.  
-Hands over the scar — boundary that still allows contact.  
-The concrete dance pad — private deliberate lesson before public visibility.  
-The dance frame — resistance/closeness that make movement possible.  
-The CW floor — Pace’s public sensual/social world, where Vee’s private exception is tested.  
-The blonde’s “great lead” — social tease that becomes threat.  
-Untouched beers — rupture with Pace made visible.  
-The bar water — unsentimental care after self-inflicted humiliation.  
-The cab — lonely, costly safety chosen instead of Pace/Cassie.  
-The washed shirt — intimacy emptied of scent but still clung to.  
-The sorority foyer/composites — desired belonging and institutional surveillance.  
-Randi’s room — private controlled intimacy.  
-Randi’s closet — curated taste/control, narrow perfection Vee longs to inhabit but cannot fit except through shoes.  
-The borrowed cognac heels — expensive structure that holds Vee steady without binding; in “A Recognized Method,” they also make Vee taller than Pace and bring Randi’s influence to the apology.  
-The green-gold scarf — style as tension/line; small discipline that changes identity.  
-“Dinner in Paris” — Randi’s power to make Vee feel worldly, glamorous, chosen.  
-“Broken In” — Vee broken down by shame, broken into borrowed shoes/confidence, possibly being trained into Randi’s pattern.  
-The Saturday ride — Pace’s established parallel intimacy with Sheri.  
-Sheri’s heat — loyal ferocity.  
-Two women arithmetic — Sheri’s blunt naming of the complication.  
-Soaking — in “A Recognized Method,” a comic domestic argument and symbol of letting hard things loosen by time/water rather than force.  
-The kitchen slap — a sudden new erotic discovery, echoing prior spanking but arriving in play and daylight.  
-“You’re always beautiful” — Pace’s statement of continuous beauty over situational mess; a deep reassurance Vee cannot afford to stand in long.
+Sloane: a sorority sister who appears in the common room with coffee and a laptop. She reads as part of the house’s social gaze. She is absent this chapter.
 
-**Open questions:**  
-What exactly is Randi going to “do about this”?  
-Does Pace understand how shaken Randi is after the bench, or is he mistaking rupture for successful intimacy?  
-Will Randi tell Pace the truth about bathroom/mirror experience?  
-How will the bench scene change Randi’s desire for Pace?  
-How will Randi and Pace move from first selection/contact to making Vivienne “the third,” as promised by jacket?  
-What does *With a Long Spoon* mean inside the story? Food, feeding, hunger, caution, pie, dishes, and soaking keep accumulating.  
-What is Randi’s relationship with Brooke and the sorority actually like?  
-What exactly happened in Randi’s history with her mother?  
-Why is Pace secret/unknown enough that Randi’s sorority sisters do not know his last name?  
-How much does Brooke suspect?  
-Will the sorority’s concern about Pace teaching/adjacent coursework become a real problem?  
-What were Randi’s two unread phone notifications?  
-Why did Randi want the single room for reasons not entirely about Standards work?  
-Was Pace’s Wilson coffee shop entrance arranged with Randi, or genuinely chance?  
-Was Randi texting Pace before he crossed the room?  
-What exactly is Randi feeling while Pace talks with Vee — jealousy, excitement, anxiety, pleasure, management?  
-Did Randi and Pace coordinate the fast froyo text/date, or is Pace acting alone?  
-How much does Pace report back to Randi about private time with Vee?  
-Will Vee tell Randi about hike/truck/flannel/wet-shirt moment?  
-Will Vee tell Randi about being measured topless and wetting through satin? Partly answered: topless yes; wet satin almost, but Randi stops her.  
-Will Vee tell Randi about first sex with Pace and wet panties trade? Partly answered: she tells sex/preparation, not trade.  
-Will Vee tell Randi about finished gown, slit, and sex in “Peekaboo”? Partly answered: Randi sees gown, not all sex/bare-under-slit details.  
-Will Vee tell Randi that she removed underwear for the dress’s line?  
-Will Vee tell Randi that she imagined walking into induction late on purpose?  
-Will Vee tell Cassie about completed gown/slit?  
-Will Vee tell Cassie about shoes and what they cost?  
-Will Cassie notice shoe expense/debt?  
-Will Vee tell Cassie she had sex with Pace again in the gown?  
-Will Vee tell Cassie the dress is meant to be worn bare/without visible underwear?  
-Will Vee tell Randi that “floozie” was present during mirror moment?  
-Will Vee tell Randi the same “floozies” word came back at CW?  
-Will Vee tell Randi about morning-after happiness and Cassie calling Pace boyfriend?  
-Will Vee tell Cassie about wet satin shame and Pace waiting for her eyes?  
-Will Vee tell Cassie about Randi’s mouth kiss and foot-touch?  
-Will Vee tell Cassie she had sex with Pace?  
-Will Vee tell Cassie about giving Pace panties?  
-Will Vee minimize/explain away Randi’s kisses, or recognize them as sexual/romantic? “Broken In” suggests the kisses are now normalized for her.  
-Did anyone see Randi kiss Vee in fire lane/dorm windows/sorority foyer?  
-Was Randi’s bondage/tickling story true, invented, or displaced from something with Pace/the bench? “A Recognized Method” echoes tickling with Pace and Vee, but does not answer.  
-Who was the “beautiful idiot” in Randi’s story, if real?  
-Is Randi’s “old boyfriend” story true, invented, or another sexual opener?  
-Why did Randi stop Vee from confessing wet satin after leading her almost to it?  
-Was Randi jealous when Vee described Pace making her feel fine topless?  
-How much did Randi already know about fitting before lunch?  
-Did Pace tell Randi details, or is Randi inferring?  
-What does Randi’s white-gold wrist band mean?  
-Will Randi kiss Vee again? Answer keeps being yes; what will Vee admit it means?  
-Will Vee’s attraction to Randi become conscious sexual desire?  
-What did Randi actually say during Chi Latte hour that Vee cannot remember?  
-Where did Randi go after saying she had a meeting, and was it real?  
-Does Pace know Vee’s interests from Randi, or discover them genuinely?  
-How much did Randi and Pace plan math-help opening?  
-What is Christine’s relationship to Pace?  
-How far will Vee’s relief at letting Pace choose/go first/lead go? Dance, shoes, apology, and kitchen discovery make this urgent.  
-Is Pace deliberately using “choice” and “lead” as routes into Vee’s surrender, or is this his natural mode of care?  
-Will Vee’s skipped meals/food self-monitoring become as important as Randi’s food shame?  
-Will Cassie’s practical caution sharpen if Vee keeps going farther into Pace’s/Randi’s private worlds?  
-Why did Randi pretend not to remember Pace’s name in “Dear”?  
-Was Randi’s disastrous Friday date story true, cover, or partly invented?  
-Who is unnamed older woman with Brooke?  
-What happened Thursday that Brooke says Randi missed?  
-What did Randi’s public “my dear friend” cost her socially, if anything?  
-What does Brooke make of Vee and Randi’s handholding/kissing/intimacy?  
-Will Vee tell Cassie about feeling picked by Randi at Smoothie Bird?  
-Did Cassie’s folded-away look mean hurt, concern, jealousy, or resignation?  
-Will Randi tell Pace what Vee said about stopping keeping track of herself?  
-Will Pace get in trouble with campus cop?  
-What was Vee about to say to Pace before siren cut her off?  
-Will Vee return Pace’s flannel/shirt? It became “hers now, after the trade”; in “Broken In,” she treats it as a folded totem.  
-What will Pace do with Vee’s folded wet green panties?  
-Will traded panties become known to Randi?  
-Will traded panties become known to Cassie?  
-Will Pace buy/help Vee get proper boots, or will boot care recur? Dance boots and Randi’s shoes continue equipment motif.  
-Will Randi be jealous, excited, hurt, or possessive about Pace and Vee having private erotic moments without her?  
-Does “leave no trace” become larger rule about hiding what happens between them? Vee now smells entirely of Pace after two nights; trace is intensifying.  
-Will Cassie’s acceptance of “keep the shirt” change if she learns more?  
-Does Randi know Pace invited Vee to his house Saturday at two?  
-Will Vee see the bench?  
-Where is hidden-purpose bench in Pace’s house during Vee’s visits?  
-Will Kayla actually come do Vee’s hair Saturday?  
-Will Meg’s gentle skepticism matter later?  
-Will Theo remain just nice background friend, or become contrast to Pace?  
-Who is Kayla more broadly in Vee’s life?  
-Does Pace sew often besides shirt/dress?  
-What is Pace’s patent history?  
-What happened with Pace’s parents?  
-Are two towels for ordinary use, Randi, Vee, or preparedness?  
-Will Vee recognize any trace of Randi in Pace’s house?  
-Does Randi have belongings/traces at Pace’s house that Vee has not seen?  
-Will Pace tell Vee about Randi before dress is worn publicly?  
-Will dress become part of eventual threesome/triangle with Randi?  
-Will Vee wear this dress to honor society induction, and who will know Pace made it?  
-Will Vee’s mother see dress, and how will that collide with shame-voice?  
-Will induction fantasy actually happen?  
-Will Pace’s exact measurements become another form of possession or care?  
-What will Vee do with knowledge that she can affect Pace?  
-Will Vee’s new posture/power last outside Pace’s house?  
-Will Cassie keep pressing contradictions around Pace?  
-Will Vee eventually tell Cassie withheld parts of “A Round”?  
-How will Cassie react if she learns Randi kissed Vee?  
-How will Cassie react if she learns Pace and Vee had sex?  
-How will Cassie react if she learns Vee gave Pace wet panties?  
-How will Pace react if he learns Randi kissed Vee?  
-How will Pace react if he learns Randi held/touched Vee’s foot in boutique and Vee reacted bodily?  
-Will Vee tell Pace about Randi’s shoe-shopping intimacy?  
-Will Randi describe lunch/brunch/kisses/shoe-shopping to Pace? Partly answered for shopping generally in “Gone,” not full details.  
-What does Randi want from Vee right now: friendship, desire, possession, recruitment into Pace, comfort, or all at once?  
-What is old surgical scar on Pace’s inner thigh/near hip from?  
-Will Pace tell scar story?  
-Why did Pace silently move Vee’s hand away from scar during sex?  
-What did Pace feel privately when he accepted panties?  
-Did Pace’s quiet week mean anything emotionally?  
-Will Vee’s “boyfriend” label stick socially, even though it is “wrong”?  
-What will Cassie infer from Vee’s accumulating edits, absences, new dress, shoes, distress, borrowed Randi scarf/shoes, and now two-night absence at Pace’s?  
-Will Vee tell Pace what Randi said in “Fed”?  
-Will Vee tell Pace that Randi kissed her again?  
-Will Randi tell Pace that Vee described him as patient, gentle, hungry, singular?  
-Will Randi tell Pace that Vee said, “I wanted it. And I took it”?  
-Will Randi’s role as “the person you get to tell” become even more intimate or dangerous than Pace’s lover role?  
-What will Cassie make of Randi’s “Don’t you dare tell me no”?  
-Will “short stretches can lie against the whole” become something Vee later understands about herself, Pace, and Randi?  
-Will Vee be able to pay off shoes?  
-Will credit-card choice become private shame, practical problem, or part of transformation?  
-Will Randi realize/care how financially risky shoes are for Vee?  
-Did Randi knowingly pressure Vee into spending beyond means, or assume Vee could/would choose?  
-Will Randi and Vee sharing shoe size matter again? Answer: yes in “Broken In” and “A Recognized Method” through borrowed cognac heels. Will it keep recurring?  
-Will Randi lend Vee more shoes/clothes or blur ownership further? Already yes with shoes/scarf.  
-Will Vee’s feeling that she has never had a friend like Randi make her less likely to question Randi?  
-What does Randi mean emotionally by “She got past me before I could help it”?  
-How much of Randi’s desire for Vee has Pace understood?  
-Will Randi admit to Vee directly that she wants her, or keep routing it through jokes, shopping, touch, Pace, and kisses?  
-What exactly does “ready” mean when Randi says Vee is not ready?  
-Does Pace’s “on her own” have honest meaning while Vee lacks central fact of Pace/Randi relationship?  
-Who besides Vee knows Pace’s real name is Peter? Does Randi know/use it?  
-Why does Pace use “Pace” instead of Peter?  
-What exactly happened between Pace/Peter and nineteen-year-old tutor?  
-Does Pace’s formative relationship with older tutor shape how he understands consent, rescue, age, attention, and “nothing wrong”?  
-Will Vee ever say the “clean ugly grown-up word” she suppresses about Pace’s first love?  
-What happened in Pace’s family/hometown that made leaving at fifteen less frightening than staying?  
-What did Pace mean by not being “a good fit” where he was?  
-Will Vee apologize to Pace directly, and how? Answered in “A Recognized Method”: she brings humble pie, apologizes clearly, then tells the real why.  
-Why does Vee choose Randi first to fix what happened with Pace? “Broken In” shows Randi as translator/handler; “A Recognized Method” shows Vee partly using Randi’s script, then exceeding it.  
-What will Randi do with Vee’s shame and jealousy about CW? Answered partly: reframes it, delays apology, dresses her. What else will she do after the apology succeeds?  
-Will Randi know about Pace’s CW dance life and women there? She seems unsurprised he can dance.  
-Will Randi be jealous of Vee being Pace’s rare public date? Not apparent yet.  
-Will Randi tell Pace that Vee came to her after CW rupture?  
-Will Pace accept Vee’s apology easily, or is something damaged? Answered partly: he receives it tenderly and they reconnect; but long-term damage unknown.  
-Will Vee tell Pace that blonde’s “gets a girl to do just what he wants” line hurt because it felt true? Partly answered: she repeats the line and explains it got to her, but not the full dance/surrender connection.  
-Will Vee connect dance lead to larger surrender to Pace?  
-Will bartender’s claim that Pace does not bring dates remain true, or is there hidden complication?  
-Was blonde simply jealous, warning Vee, flirting with cruelty, or all of those?  
-Will CW women recur?  
-Will Vee’s cab fare and shoe debt compound into real money trouble?  
-Will Vee wear Randi’s cognac shoes and green-gold scarf back to Pace, and what will Pace recognize/read in them? Answered partly: she wears the cognac heels; Pace notices them and responds to their beauty/loan, but whether he knows they are Randi’s is not stated.  
-Will Pace know the outfit is Randi’s doing? Still unclear.  
-Will Randi’s instruction to wait one day help Vee or manipulate the apology into performance? It seems to help the approach, but the real apology emerges when the script breaks.  
-Will Vee’s own apology survive Randi’s scripting? Answer: yes; her deepest confession is unscripted.  
-What does “Broken In” imply: shoes, confidence, training, or something more troubling?  
-Will Brooke mention Vee’s early-morning visit to anyone?  
-How common is it for Randi to bring girls upstairs/into her room, and will the house notice?  
-Will Vee ever enter Randi’s closet/world more literally after joking she could live there?  
-What is the “criminal” scarf Randi mentions, and is it the green-gold one?  
-Will “Evil Queen” become more than a joke?  
-Will Vee recognize that Randi’s kisses are now habitual and escalating?  
-Who exactly is Sheri to Pace besides cycling partner/friend?  
-Is Sheri a former lover, current confidante, CW friend, or something else?  
-How much does Sheri know about Pace and Randi’s secret arrangement?  
-How much does Sheri know about Vee beyond CW and Pace’s talk?  
-Why has Sheri ridden with Pace for two years, and how did they meet?  
-Will Sheri meet Vee directly?  
-Will Sheri like Vee, protect her, test her, or “turn heat” on her?  
-Will Sheri meet or confront Randi?  
-What does Sheri think “not finished” means about Randi?  
-Will Sheri’s warning that “two of them at once” will be complicated affect Pace’s choices?  
-Does Pace understand the complication as deeply as Sheri does?  
-Will Pace tell Randi that Sheri watched Vee after he left CW?  
-Will Pace tell Vee that Sheri saw her sitting alone after the rupture?  
-Will Vee’s new response to being slapped/taken by surprise become something Pace explores deliberately?  
-Will Vee connect Pace’s kitchen slap to Randi’s bench/spanking if she ever learns about it?  
-Will Pace tell Randi about Vee’s apology, the heels, the humble pie, and the slap?  
-Will Vee tell Randi that she stayed two nights?  
-Will Vee tell Randi that Pace saw and accepted the borrowed heels?  
-Will Randi react to Vee wearing her shoes into Pace’s house as intimacy, claim, success, jealousy, or all of these?  
-Will Vee return Randi’s shoes/scarf, and in what condition/conversation?  
-What happens when Vee returns to dorm Monday after two nights gone, rushed, in Saturday clothes or after emergency change?  
-Will Vee miss or be late to class?  
-Will Cassie see/smell/read that Vee spent the whole weekend at Pace’s?  
-Will Vee’s lack of her own belongings at Pace’s become practical pressure to keep things there?  
-Will smelling entirely of Pace comfort Vee or alarm her later?  
-Will the “always beautiful” reassurance change how Vee sees herself outside his house?
+Kinsey: a sorority sister who appears cross-legged on the rug with a bowl of cereal. She reads as part of the room’s judgment around Randi. She is absent this chapter.
 
-**Running memory — story so far:**  
-In “The Bench,” Pace receives Randi at his warm house after she lies to Brooke about having a paper. He feeds her thin honeycrisp slices, reveals the hidden-purpose bench he built, undresses and positions her, gives her “Red” as safeword, spanks and edges her, invokes Brooke and sorority exposure, brings her to raw begging and orgasm, cares for her afterward, while Randi privately fractures, cries, locks his bathroom door for first time, sees her own smile as a lie in mirror, and returns performing. Pace thinks night went extraordinarily well; Randi thinks she must figure out what to do.
+Meg: Vee’s calm, dark-haired friend. Vee borrowed Meg’s boots for the hike; Meg has followed the Pace situation in installments and knows some of the shirt and house-invitation story, but not what happened afterward. She later helped equip Vee for country dancing with Dana’s ropers and a black keyhole shirt. She is absent this chapter.
 
-In “Standards,” Randi returns to sorority in last night’s clothes and is warmly interrogated by Brooke, with Sloane and Kinsey present, about paper lie and Pace’s identity/status. She lies smoothly with tiny delays. In her single room she cannot function, lies down in clothes/shoes under cold duvet, hears “He’s hard to say no to” darker, and does not cry.
+Kayla: Vee’s round-faced blonde friend with bright, unstoppable speech. She has teased and encouraged Vee around Pace, especially before the house visit. She is absent this chapter.
 
-In “The Pointing Game,” earlier in Pace/Randi relationship, Pace asks during sex whether Randi would like to taste another woman, reads her body’s yes, lets her reframe it as threesome “with you,” then takes her to campus to choose. He points out women; Randi rejects most, sees Vee leaving dining hall with Meg, says “Yes.” Randi stages collision, learns Vee’s name/stats connection, returns glowing. Pace is proud and says they should go feed her.
+Theo: a man who once asked Vee to a fall event and took her friendship answer like a gentleman. He is not yet a principal.
 
-In “See You Later,” Vee’s viewpoint begins. In stats she waits for Randi, who enters from back, sits beside her, charms her, invites her and Cassie to Chi Latte. Cassie declines and says “Goodbye, Vee.” At Chi Latte, Randi opens a social world Vee watched from outside, orders lavender oat-milk latte, talks for an hour Vee cannot reconstruct, hugs her, says “Love you, girl” and “See you later.” Vee walks home warm, feeling chosen.
+**Relationship ledger**
 
-In “Substitution,” Vee, Randi, Cassie study at Wilson. Vee stuck on challenge problem. Pace appears, offers help, solves with her not for her, returns pencil, listens to econ thoughts, reveals he is finishing math PhD, asks “May I call you?”, gets her number, leaves without coffee. Randi encourages Vee to go out with him. Cassie notes how Pace looked at Vee and differently at Randi. Vee wants phone to light.
+Randi / Pace: no direct contact. Randi’s styling and instruction reach Pace’s door through Vee, and Pace notices the scarf and shoes without yet knowing Randi’s exact hand in them. Randi likely feels in control from offstage; I feel the hidden triangle pressing harder into the visible romance.
 
-In “The Long Way,” Pace texts after twenty minutes asking about frozen yogurt. Randi pushes Vee to answer, saying Pace wants her and wants to see her naked. Vee goes. Pace explains flavor system, pays, holds door, walks long way, listens deeply, gently receives Vee’s embarrassed confession that this is nicest anyone has been to her in a long time.
+Randi / Vivienne: advances indirectly. Vee obeys Randi’s timing, wears Randi’s heels and scarf, and uses Randi’s “sure, not sorry” framework to approach Pace. Vee feels steadied by Randi’s borrowed polish; I feel how much Randi is now inside Vee’s choices.
 
-In “Water Wings,” Vee and Cassie go to rec pool. Vee wears old synchronized-swimming suit, endures catcalls, goes underwater, finds green quiet where nobody can see/want anything. Reconnects with pre-shame body-self and grieves something unnamed. Cassie sees wrong face but does not ask; splashes Vee into play.
+Pace / Vivienne: advances strongly by repair, confession, erotic discovery, and domestic intimacy. Vee feels forgiven, desired, housed, and seen even in panic; Pace feels tender, curious, and deeply attentive. I feel moved and afraid because this is becoming emotionally real while still built over a withheld truth.
 
-In “May I Choose,” Pace texts Vee asking for Saturday dinner. Text does not demand immediate response, soothing Vee. Cassie notices Vee’s face and says Pace is not a boy but a man. Saturday Pace gets Vee at dorm lobby, walks her to small warm restaurant where Christine knows him. Vee is hungry and overwhelmed by menu. Pace asks, “May I choose?” Vee says yes. He orders deliberately; Vee eats unfamiliar bread/salad/dips/tea, stops monitoring herself, drifts into warmth/fullness. Afterward under moonlit tree, Vee says she does not kiss a man she has known a couple days. Pace accepts. Vee stops him and says, “But… I’m making an exception.”
+Pace / Sheri: no direct contact.
 
-In “Off Six-Fourteen,” Vee returns glowing. Tells Cassie Pace accepted her rule and she pulled him back/kissed him herself. Cassie asks how much he gave her to drink; Vee insists only tea. Vee spins with joy, says Pace asked her hiking. Cassie jokes but tells her borrow real shoes.
+Vivienne / Sheri: no direct contact.
 
-In “Dear,” after stats, Cassie leaves for practice when Randi claims Vee. Randi pretends to forget Pace’s name and takes Vee to Smoothie Bird. Vee tells Randi about Pace’s dinner, “May I choose?”, kiss. Randi frames kiss as “Because you couldn’t not. Because of him.” Brooke and unnamed older woman arrive; Randi publicly calls Vee “my dear friend” and takes her hand. Vee feels Randi has spent social cost on her.
+Randi / Sheri: no direct contact.
 
-In “Leave No Trace,” Pace takes Vee hiking. Meg’s borrowed boots blister Vee; Pace treats it. They summit, eat rye/horseradish sandwiches and cherries, share water, and Pace teaches leave-no-trace. Vee tells him about honor society induction and unaffordable russet silk dress. Rain catches them. At truck Pace gives dry flannel and stands in rain so she can change. Vee calls him in and deliberately exposes wet bra/body. Pace looks but does not touch. She discovers he is shaking with cold, warms his hand under flannel, and they drive back. Campus cop interrupts before she can say something important.
+Randi / Cassie: no direct contact.
 
-In “Rye,” Vee returns to Cassie wearing Pace’s oversized flannel. Cassie listens as Vee tells hike, blister care, summit, rye, cherries, rain, shirt, truck exposure. Vee says Pace looked like she handed him a gift, did not touch, was freezing, drove her home. She says she is keeping shirt. Cassie says, “Keep the shirt.”
+Vivienne / Cassie: advances by absence only. Vee stays away from the dorm through Monday morning, making the edited life Cassie sees even less complete. Vee feels too absorbed in Pace to manage ordinary accountability; I feel Cassie’s absence as a missing guardrail.
 
-In “What to Wear,” Vee eats at athletic dorm dining hall with Meg and Kayla. She explains Pace’s doctorate, age, lifting, writing routine, and tells shirt story including cop interruption. Pace texts inviting her to his house Saturday at two with no explanation. Meg/Kayla excitedly interrogate what she should wear.
+Randi / Brooke: no direct contact.
 
-In “Two Towels,” Vee drives to Pace’s house off six-fourteen. He tours warm house, practical kitchen, bathroom with two towels, office, closed bedroom, den with handmade oak furniture, books, workshop, glass porch. On porch is burgundy silk. Pace reveals he remembered summit wish and wants to make her a gown for honor society induction, matched to her rather than magazine. Vee realizes he made tagless shirt too. He asks to measure her “down to what you'd wear under it, in good light.” She says yes.
+Randi / Sloane: no change.
 
-In “A Round,” Pace begins fitting. Vee undresses; he explains bra must come off because it changes line. In pale satin panties, Vee remembers swimming/puberty/mother-shame. Pace measures carefully and admiringly. Vee notices satin visibly wet and panics. On platform, Pace builds dress on her body. As he kneels near wet evidence, she shuts eyes; when opens, he looks up at her face, waiting for her eyes. Her posture transforms. She plays, brushes breast to his cheek, he blushes, pricks her with pin, kisses wound, says “Keep still.” She ends knowing she nearly toppled him and was seen at most ashamed without being found wanting.
+Randi / Kinsey: no change.
 
-In “Turned Up,” Vee tells Cassie Pace is making burgundy silk dress, remembered from hike/cherries, made tagless shirt, warmed house, had her remove shirt/bra, measured her, knelt, made her feel “supposed to be there.” Cassie listens, teases, asks whether Pace might be gay because he keeps seeing Vee half-naked and choosing not sex. Vee insists not, admits she felt his “package” and was grinding on him. Omits wet satin, eye-waiting, pinprick/kiss, “Keep still.”
+Randi / Meg: no established relationship.
 
-In “How It’s Done,” Randi picks Vee up in dark green Mercedes convertible and takes her to dim expensive restaurant. Randi tells sexual story about being tied with Hermès scarf and tickled/sexually brought off. Vee feels heat imagining Randi helpless. Randi draws out clean version of Pace fitting/dress. Randi becomes still/tight briefly, then names Vee’s love of being looked at, asks what she wore, normalizes bra removal, compliments breasts, leads her toward confessing wet satin. Vee nearly says it, but Randi says, “You don’t have to tell me.” Vee pays. At dorm, Randi kisses her softly on mouth twice. Vee explains it as “French thing” and panics someone may have seen.
+Randi / Kayla: no established relationship.
 
-In “Famished,” after quiet week and Pace’s Chicago conference, Vee buys deep green satin lingerie and frosted plum polish. Friday she goes to Pace’s house. He cooks fra diavolo in apron. She says “Famished,” kisses him, asks him to show bedroom. They undress. He removes green lingerie and sees wetness. He asks if she would be bothered if he was too hard, making desire reciprocal. He goes down on her until she orgasms standing; then they have sex in plain white bed. Vee notices old surgical scar high on inner thigh/near hip; he silently moves her hand away. Afterward he cooks fra diavolo while she sits wrapped in sheet. Later she folds wet green panties and gives them to him: “Trade.” He takes them.
+Vivienne / Meg: no direct contact.
 
-In “Toenails,” Vee returns to dorm next morning glowing, no bag, wild hair, no makeup. Cassie reads her instantly and teases, “Was he worth painting your toenails?” Vee gives edited story centered on dinner/apron/garlic/pepper/chicken fra diavolo/Chianti/sweetness/kissing. Leaves out middle. Cassie calls Pace Vee’s “boyfriend,” marked wrong. Vee nearly undresses, remembers bare under skirt because panties given away, hides until Cassie leaves, showers and cannot stop smiling. She has never been so happy.
+Vivienne / Kayla: no direct contact.
 
-In “Fed,” Randi chooses bistro sun porch for brunch. Vee tells clean sex/dinner story and more after: Pace cooking while she sat in sheet. Randi calls it a painting, presses what Vee skipped, reframes Vee’s preparations — nails, toes, underwear — as “campaign.” Says, “You’re not caught, sweetheart. You’re lucky.” Vee realizes she knew how night would end and says, “I wanted it… And I took it. For once.” Randi says “Good,” holds hand, later kisses goodbye again with hand at jaw. Vee half-expects and meets it, does not look around, drives home lighter.
+Vivienne / Theo: no change.
 
-In “Peekaboo,” Pace invites Vee over midweek. She arrives humming with decision. After awkward “hello after,” they kiss. He takes her to sun porch where completed burgundy/plum silk gown hangs in gold light, with pedestal and newly hung mirror. Vee cries happy tears, tries it on alone, removes bra because dress built to be worn bare, sees herself as expensive/frank/old-film beautiful. “Floozy” flares, but she keeps looking. Slit reveals underwear, so she removes underwear too. Bare under slit, she goes to Pace in den, kisses him, hooks leg around him, and they have sex. They pause to hang dress carefully. Afterward Pace sleeps; Vee imagines entering induction late in gown, letting room look, and looking costing nothing.
+Pace / Cassie: no direct contact.
 
-In “All Told,” Vee leaves Pace’s at eight in bright mountain morning, returns to dorm only for teeth/clean shirt/book bag/hiding garment bag zipped in closet. Cassie gone, but her made bed and Vee’s untouched bed are readable evidence. Vee late to everything and doesn’t care, carrying finished dress/night toward stats, where she will have “both her girls.” Cassie and Randi leave seat between them. Cassie says, “Your bed’s made,” knows Vee did not come home. Randi delightedly demands everything. Vee starts to tell dress is finished, but professor begins Simpson’s paradox lecture. Vee pays brief attention, realizes Cassie watches her not lecture. Cassie asks, “Was it a good night?” Vee says yes twice; Cassie eases. Randi says, “You lucky slut,” landing low in Vee’s body. Vee admits no shoes right for gown. Randi turns that into Saturday shoe-shopping date: “Don’t you dare tell me no.” Cassie’s eyebrow rises and lowers. Professor explains short stretches can all run one way while whole runs opposite; total can reverse truth without lying. Vee writes “short stretches can lie against the whole,” underlines for exam, gives it no further thought. Leaves into bright cold noon between Cassie and Randi, happy/starving, dress unseen in garment bag.
+Pace / Brooke: no change.
 
-In “Sorority,” Randi comes early to Vee’s dorm, bringing gold glamour into cinderblock dim. Cassie absent, side made tight/square. Randi asks to see dress. Vee intends hanger but puts it on in bathroom and comes out bare-shouldered. Randi breathless, has her turn, touches silk, names charmeuse/good weight, says Pace made dress not “for” Vee but “to” her. Vee nearly cries. Randi imagines Vee stopping induction room and insists dress must come shopping. They drive in Randi’s Mercedes to Vee’s discount store; nothing works. Failed hunt turns playful. Vee teases Randi big feet; Randi counters; Vee makes Randi laugh. Older couple watches. Vee finds tan practical heel; Randi rejects it. Randi discovers shared shoe size, jokes “practically a marriage.” They go to expensive boutique. Randi calls Pace Vee’s “lover,” selects barely-there black heel, kneels, removes Vee’s flat, holds foot, notices plum polish, strokes big toenail, buckles shoe. Vee feels it through whole body. Standing, Vee feels held/completed. Uses emergency credit card though cannot cover debt. Randi buys loafers easily. On gold sidewalk, Vee clutches shoe box and thinks she has never had a friend like this.
+Pace / Sloane: no change.
 
-In “Gone,” scene returns to Pace’s warm house after Pace/Randi have sex. Randi lies astride him with Sade low. She admits she did not think she would like Vee this much and Vee “got past” her. Retells shoe-shopping with delight, calls Vee’s embarrassed bigfoot play cute/hot. Says Vee listens like no one else, makes her laugh, talked about Pace whole hour, has it bad, and Randi loves it. Says Vee is not ready and Pace should take time. Pace says he likes taking time and wants Vee to get there on her own. Randi wonders why Vee hides in cardigan; Pace says Vee is ashamed because someone taught her to be ashamed of body. Randi’s desire slips rawer: “God. What she keeps under there.” Pace recognizes Randi’s desire beneath threesome framing, does not force her to name it. Says Vee brightens room “like somebody found the lamp.” Randi goes still, deflects into renewed sex, riding Pace slowly in low lamplight.
+Pace / Kinsey: no change.
 
-In “Rock,” Vee and Pace/Peter sit after sex on cold glass porch with fire behind, wrapped in quilt. She wears robe over bare skin, tea goes cold, and they talk about food, Ohio, church-basement casseroles, mother’s unopened saffron, nurse mother, jet-engine father, distant Army brother, names. Pace says real name is Peter. Tells her about parents, leaving for college at fifteen, seventh-grade math punishment in hall, college as first year not in hall, mathematical beauty, Newton, stars, world as poem. Tells about nineteen-year-old female tutor/first love when he was fifteen; Vee privately senses troubling imbalance while saying only, “You were so young.” Explains lifting as survival/presence. Vee recognizes sexual/emotional focus like squat bar: this lift, this heartbeat. Her hand finds scar; he covers it and says “Not tonight,” letting hand stay. She says “Peter” into warm dark.
+Pace / Meg: no direct contact.
 
-In “Lesson,” Pace texts Tuesday asking if Vee wants CW dancing Thursday. She says cannot dance; he offers teach and tells her borrow boots. She borrows boots/keyhole shirt, dresses early, meets him in dorm common area. He is freshly shaved in polished boots/creased jeans/short-sleeved knit, carrying battered boom box. Instead of going straight in, he takes her to empty concrete pad near dark basketball gym and teaches three-step to low country music. Explains rhythm, shows parts, sets frame, tells her not to be “jelly,” makes her push back so lead travels through body. She struggles by softening, holding away, anticipating, thinking. He keeps correcting without comment. Eventually she stops guessing, feels lead through his body before feet, and moves. At CW, room warm/loud/crowded/alive. People know Pace; he introduces her as Vee. Woman says Pace taught class and is why half can dance. Vee dances well until self-conscious under women’s eyes, then trusts frame and floor returns. When Pace gets drinks, blonde tells Vee they look great together, Pace is great lead who knows how to get a girl to do what he wants, all girls love him, he gets girls home safe. Vee feels she mistook herself for exception but is just next. When Pace returns with beers, she venomously asks whether his “service” includes getting girls home safe from here too. He answers, “Yes. Sometimes. When it’s required.” She says she does not need him to get her home safely and walks away. He sets untouched beers down and leaves. Vee stays, watches women dance, thinks “Floozies,” imagines women he taught/took home, sits at bar until closing. Older bartender gives water, says Pace is good guy who gets drunk girls home and leaves them at door, tells Vee Pace does not bring dates and women were jealous of her. Vee calls cab instead of Cassie, pays too much, returns to dark dorm, puts on Pace’s washed shirt that no longer smells of him, lies awake realizing she punished him for being good. Under shame, she keeps bodily memory of his lead. By morning, decides she was wrong and will go to Randi’s to fix it.
+Pace / Kayla: no change.
 
-In “Broken In,” Cassie’s eight o’clock alarm wakes Vee after barely any sleep. Vee pretends to sleep while Cassie dresses and notices her wound in Pace’s shirt; Cassie makes a low “Hrm” instead of asking and leaves. Vee shuts the cold window, removes Pace’s shirt from her naked body, folds it like a totem back on pillow, washes her face with biting cold water, fixes smeared mascara from “crime scene” to “long night,” dresses in long skirt, bare legs, tan lace-up boots, warm coat, takes a dorm apple, and walks through clear cold day to Randi’s sorority house with a plan to fix things. Brooke opens door with coffee, recognizes her as “the stats friend,” warmly invites her in, and texts Randi. Vee enters foyer with composites and feels the house already has a file on her. Randi appears upstairs in robe, bare-faced with loose hair, reads Vee instantly, says “Oh, honey. Come up.” In Randi’s small ordered room, Vee tells the CW story: good dance, blonde’s hook, her cruel accusation, Pace’s decent answer and hurt face, bartender’s truth that women were jealous of Vee. Randi holds her hand, calls blonde “That bitch,” reframes Vee’s jealousy as proof she cares and is “in this,” says Pace took her to a room full of women who wanted her chair, and tells her they will get her ready. Vee wants to apologize that day; Randi instructs “Not today,” saying tomorrow night will read as chosen rather than panic, and that Pace will not text because he is leaving room. Randi then demands outfit details, forbids cardigan, makes Vee stand/top off, and they laugh hard over Vee’s Edna Mode joke. Vee stands in bra and long skirt while Randi circles and says Pace doesn’t stand a chance. Randi opens her perfectly ordered closet; Vee longs to live there but knows only shoes fit. They joke about Vee in nothing but Randi’s shoes, “shoe whore,” Standards, and a criminal scarf. Randi plans the little black dress with neckline down. She has Vee stand on a spot and fits several pairs of shoes under Vee’s long skirt; Vee cannot see, only feels cool hands, straps, Randi’s hand bracing thigh and pressing behind knee. A deep cognac pair holds Vee’s foot with architecture that steadies without binding; she knows they are very expensive. Randi waves off protest, jokes about Evil Queen, and adds a deep green/gold silk scarf, teaching Vee to tie it with tension so it holds shape. In the mirror, Vee sees herself transformed: bra, skirt, borrowed shoes, scarf, color and light in face, nobody’s clown. Randi gives instructions for tomorrow night: black dress, neckline, real earrings, these shoes, this scarf, walk in knowing she will make it right. Randi sends Vee home with shoes in drawstring bag and scarf folded on top, walks her down, hugs her under composites, and kisses her goodbye on mouth softly/unhurriedly. Vee kisses back without bracing and realizes it is simply what they do. Randi says “See you soon, gorgeous.” Vee leaves into blue light with marching orders and a whole day to prepare for Pace’s door.
+Pace / Theo: no established relationship.
 
-In “Sheri — First Ride,” Pace rides bicycles on Saturday with Sheri, as they apparently do when weather allows, out past his place. They talk on flats and descents and go quiet on climbs. Sheri is small, fast, and has long been faster than Pace uphill; she never lets him forget it. She tells him that after he left CW on Thursday she watched Vee: Vee sat alone, glared at the floor, nursed one drink, danced with nobody, and left alone. Sheri bluntly admires Vee’s backside. Pace corrects/names her as Vee, then Vivienne, and unexpectedly starts telling Sheri about Vee noticing the walnut chair joint he worked on and taking down a math book without fear. Sheri catches the tone and says, “Listen to you.” On a climb she pulls ahead; at the top she asks if Pace wants her not to like Vee. He says no, because Vee “couldn’t take your heat.” Sheri asks what happened to “the pale sorority chick.” Pace says, “That’s not finished.” Sheri observes that two women at once will become complicated if it is not already. Pace does not answer, and they ride on.
+Sheri / Cassie: no established relationship.
 
-In “A Recognized Method,” Vee arrives at Pace’s house to apologize, wearing Randi’s cognac heels and carrying a supermarket apple pie labeled HUMBLE PIE, a comic contrition-prop she made at the stats lab instead of doing her problem set. In the driveway she loses faith in the joke but goes to the door. Pace opens before she rings, apparently having heard or waited for the car. The heels make Vee taller than him, which panics her because she imagines it as another disrespect. She starts to remove them, but he takes the slipping pie from her hands, steadies her, tells her to leave them on, and says beauty like hers is “made for the gods and loaned out.” Inside the warm house, Vee gives her prepared apology: she was wrong, rude, worse than rude, and he did not deserve it. Pace accepts but asks what happened. Her Randi-shaped “clean machine” has no answer for why, so she tells him the real story: the blonde came up while he was gone, praised his lead, said he knows how to get a girl to do what he wants, that all the girls love him, that he gets girls home safe. Vee admits she knew the blonde was needling her and yet believed the worst because some part of her was waiting for the lie. Pace does not say it is fine; he takes her face and thanks her for telling him what the blonde said. The contrition turns into a long evening and he eventually takes her to bed; she stays though she did not pack a bag. She thinks before sleep that she carried the whole weight up the hill and he lifted it out of her hands like the pie.
+Sheri / Brooke: no established relationship.
 
-She wakes late Sunday, alone in his bed, with a clean folded white undershirt left at the foot for her. She puts it on, finds him washing dishes in the kitchen, and presses against his back, urging him to come back to bed and let the dishes soak. She argues that “soaking is a recognized method.” He laughs but keeps washing for “two minutes.” He tickles her side under the loose shirt; she shrieks and laughs, swats him across the seat of his jeans, and says “No. Tickling.” He turns off the tap; the room goes quiet and charged. She twists away to protect herself, and his wet open hand lands once across her backside where the shirt has ridden up. The sound is small but the sting is not. Vee has an instant, unnamed erotic response: nipples hard, mouth open, body speaking before thought. Pace sees it because he is watching her face. With no joke or prepared words, she kisses him hard and fumbles open his jeans, choosing escalation to cover what he saw. They leave the soaking pan in the sink and go.
+Sheri / Sloane: no established relationship.
 
-Vee stays through Sunday into Monday, wearing Pace’s rolled sweatpants and undershirts with nothing underneath, her one bra saved for Monday, washed with his soap and shampoo until she smells entirely of him. Monday morning, she wakes late with the practical world crashing back: class, drive, dorm, Saturday-night dress, no time, no way to manage her hair. In the bathroom she panics over her wild hair and lack of anything of her own. Pace comes, sees, gathers her hair back at her nape, kisses behind her ear, and says, “You’re always beautiful.” She stays inside that reassurance a few seconds longer than she can afford, then goes.
+Sheri / Kinsey: no established relationship.
 
-**Running memory — how I feel:**  
-Pace / Peter remains intensely attractive and increasingly tender in the immediate scene. His handling of Vee’s apology is excellent: he does not cheapen it with instant absolution, asks the real question, listens, and thanks her for telling him the source of the wound. His practical kindness — taking the pie, leaving the shirt, washing dishes, reassuring her over hair — feels deeply trustworthy. Erotically, the kitchen slap shows he can notice and pivot with frightening precision; it is hot, but it also adds another version of him as a man whose attention finds Vee’s hidden switches before she has names for them. The larger danger remains the secret arrangement with Randi and the fact that Vee still does not know she was chosen.
+Sheri / Meg: no established relationship.
 
-Randi is absent but powerfully present. My attraction/suspicion balance holds. Her advice and shoes help Vee get to the door; the “sure” posture gives Vee a frame. But the real moral moment happens when Pace asks what Randi’s script did not cover. Randi’s shoes entering Pace’s house on Vee’s body feel intimate and loaded: support, claim, and possibly a signal Pace may or may not read.
+Sheri / Kayla: no established relationship.
 
-Vee has my full sympathy and admiration here. She owns what she did without dodging, then goes deeper and admits the uglier truth: she was ready to believe the lie. She is funny, brave, susceptible to beauty and structure, and increasingly drawn into Pace’s domestic world. I worry about how quickly she loses practical boundaries — no bag, two nights gone, smelling entirely of him, Monday crisis — but emotionally I understand every yes she gives.
+Sheri / Theo: no established relationship.
 
-Sheri remains a vivid offstage pressure: she has already named the “two women” complication, and this chapter makes that warning sharper because Vee and Pace deepen while Randi’s shoes are literally in the room.
+Randi / herself: no direct access this chapter.
 
-Cassie remains the person I expect to register the aftermath. Vee’s two-night absence, rushed Monday return, borrowed/changed clothes, smell, and emotional brightness or disarray are all the kind of evidence Cassie notices.
+Vivienne / herself: advances. Vee owns the cruelty of what she did, sees that she was ready to believe a lie, discovers a new response to being struck, and lets herself inhabit Pace’s house and clothes for nearly two days. She feels ashamed, relieved, playful, aroused, and then panicked by Monday; I feel protective but also happy for the alive parts of her.
 
-Brooke and the sorority remain offstage but part of Randi’s surveillance/social world. No movement this chapter.
+Pace / himself: advances through tenderness and perception. He asks for the why rather than accepting the apology as performance, and he recognizes Vee’s beauty and panic without smoothing them away. I feel him very present and very powerful.
 
-Overall mood: tender reconciliation turning into domestic erotic discovery, with practical consequences waiting outside the warm house. The chapter feels like healing from Thursday, but because of the cover and the hidden Randi/Pace arrangement, the tenderness also feels like another tightening loop: Vee freely stays, freely wants, freely smells of him, freely goes under.
+Sheri / herself: no direct access.
+
+Brooke / Sloane: no change.
+
+Brooke / Kinsey: no change.
+
+Sloane / Kinsey: no change.
+
+Meg / Kayla: no change.
+
+**What I know that they don't**
+
+Randi knows, but Pace does not, that after the bench scene she experienced his tenderness as the thing that “could not happen,” retreated behind her face, and resolved that the self he found was “not coming out again.”
+
+Pace does not know that Randi’s “extraordinary evening” smile is a lie, or that her apparent post-scene quiet is not simple rest and trust.
+
+Pace does not know that Randi returned to the sorority house in last night’s clothes, was questioned by Brooke in front of Sloane and Kinsey, lied again about the paper, and afterward lay on her bed in her clothes and shoes unable to cry.
+
+Vivienne/Vee does not know anything about Randi and Pace’s plan from the jacket: that they have picked her as the third in their bed and told her nothing. She also does not know that Pace pointed her out to Randi as part of the campus game, that Randi’s interest was sexual before they met, or that Randi engineered their small collision.
+
+Vivienne/Vee does not know that Randi and Pace are already lovers.
+
+Vivienne/Vee does not know that Randi’s friendship, questions, mouth kisses, validation, Saturday shoe-shopping date, crisis counsel, private dressing of her, and private report back to Pace are happening inside the frame of Randi and Pace’s prior sexual selection of her.
+
+Vivienne/Vee does not know that Pace’s math help, meals, hike, dry flannel, house invitation, dressmaking, fitting, first sex, after-sex meal, acceptance of the green panties, finished burgundy dress, second sex, firelit personal disclosure, country-dance lesson, The Rusty Nail date, apology repair, weekend stay, kitchen spanking discovery, and “You’re always beautiful” all occur inside that larger hidden frame.
+
+Vee does not know Sheri kept an eye on her after Pace left The Rusty Nail, saw her sit alone, nurse one drink, dance with nobody, and leave alone.
+
+Vee does not know Pace told Sheri her full name was Vivienne and then talked warmly about her noticing his walnut chair joint and taking down a math book.
+
+Vee does not know Sheri knows there are two women, has asked what happened to Randi, and has warned Pace that “Two of them at once” will be complicated.
+
+Randi may not know that Sheri knows of her as “the pale sorority chick,” or that Pace told Sheri, “Randi. That’s not finished.”
+
+Randi now knows from Vee that Pace was patient, gentle, hungry for her, not in a hurry, and made her feel singular; that Vee sat in his kitchen near midnight wrapped in his sheet while he cooked; that Vee painted her toenails for him, bought new underwear for him, and knew how the night would end before she drove over. Randi now also knows Vee stayed at Pace’s until eight after picking up the finished dress, has seen the finished dress on Vee’s body, and has understood it as made “to” Vee. Randi still may not know that Vee gave Pace the green satin panties as a trade.
+
+Randi now knows Vee’s version of The Rusty Nail rupture: the dance was good, the blonde needled her, Vee accused Pace’s “services” of extending inside, Pace answered that sometimes they do when required, Vee hurt him, walked away, watched him set down the drinks and leave, and later learned from the bartender that the women had been jealous of her.
+
+Randi does not know, unless Pace or Vee tells her, that Pace hung the finished burgundy dress in the sun porch, added a mirror for Vee, watched Vee come to him in it with nothing under it, had sex with her again, and then slept while Vee imagined wearing it to induction.
+
+Randi does not know, unless Pace or Vee tells her, that Pace’s real name is Peter, that he went to college at fifteen after taking the SAT at fourteen, that he spent a year doing long-division worksheets in the hall because his math teacher could not answer his questions, that he had a two-year relationship with a nineteen-year-old tutor beginning when he was fifteen, that lifting began partly as protection in a dormitory full of men, or that his inner-thigh scar remains a “not tonight” story.
+
+Randi does not know, unless Vee tells her, exactly how the apology went: that Vee brought a labeled humble pie, confessed the blonde’s words and her own readiness to believe them, stayed two nights, discovered a strong response when Pace swatted her in the kitchen, and left Monday morning after he called her always beautiful.
+
+Cassie does not know the Randi/Pace plan. She knows Vee went to Pace’s for dinner and came home grinning, with an edited version of the sex; she knows Vee later did not come home, left Pace’s at eight, and had a very good night with the finished dress involved. She does not know Vee gave Pace her panties, told Randi more, received Randi’s kisses, returned midweek to try on the finished dress and have sex with Pace again, bought expensive black heels with Randi after putting them on a credit card, spent a later firelit night learning Pace’s real name and personal history, or went to The Rusty Nail with Pace and came home sleepless after hurting him.
+
+Cassie does not know Vee considered calling her from outside The Rusty Nail and chose not to because Cassie would come and there would be questions.
+
+Cassie now does not know Vee pretended to sleep through Cassie’s morning routine, then went to Randi’s sorority house for help, accepted Randi’s instruction not to go to Pace until tomorrow night, and came home with Randi’s shoes and scarf.
+
+Cassie does not know Vee then went to Pace in Randi’s shoes and scarf, apologized, stayed Saturday night, stayed through Sunday, and woke at Pace’s Monday morning with class and dorm logistics crashing down on her.
+
+Meg and Kayla do not know the Randi/Pace plan. They do not yet know what happened at Pace’s house, at Randi’s lunch, at Friday dinner, the morning after, Randi’s brunch, the finished-dress afternoon, Vee’s overnight stay, the Saturday shoe-shopping date, the firelit night with Pace, the emotional rupture at The Rusty Nail, Randi’s morning-after dressing of Vee for the apology, or the two-night apology stay at Pace’s.
+
+Brooke does not know Randi lied about the paper and went to Pace’s house, though she questions Randi closely enough that I suspect she may not fully believe the story. Brooke now knows Randi is publicly calling Vee her “dear friend” and holding her hand in Smoothie Bird. Brooke also now knows Vee came to the sorority house at nine in the morning asking for Randi, looking like she had had a long night, and that Randi brought her upstairs.
+
+Vee now knows Randi’s sorority house interior: white columns, foyer composites, coffee/herbal tea/matcha hospitality, and a warm gatekeeping system that already identifies her as “the stats friend.”
+
+Vee now knows Randi’s single room: small, close, entirely Randi’s, with an unmade bed, quiet order, bitter-orange green-edged scent, a precise closet, sky-blue toenails, and Randi without makeup showing sparse freckles across her nose.
+
+Vee now knows Randi can see the whole shape of her crisis almost at a glance and can make shame feel useful rather than final.
+
+Vee now knows Randi believes Pace will not text after being hurt because he leaves room rather than sulking, and that Vee should wait a whole day so the repair reads as chosen rather than panicked.
+
+Vee now knows Randi has expensive deep cognac heels that fit her, a green-and-gold silk scarf, and an exact vision for what Vee should wear to Pace tomorrow night: the little black dress with the lower neckline, real earrings, those shoes, and that scarf.
+
+Vee now knows standing in her bra before Randi can feel like dress-up until Randi looks; then the attention becomes bodily.
+
+Vee now knows Randi kneeling under her skirt to fit shoes, brace her thigh, press behind her knee, and teach a scarf knot can make her skin answer before she names what is happening.
+
+Vee now knows she no longer braces when Randi kisses her goodbye on the mouth.
+
+Vee now knows Pace can forgive without making the apology too easy, and that he wanted to know what happened rather than just what she had done.
+
+Vee now knows Pace’s house can hold her across unplanned days: his shirt folded for her, his clothes on her body, his soap and shampoo replacing her own smell, his dishes in the sink, his Monday morning order.
+
+Vee now knows a playful swat from Pace can produce an immediate, intense bodily response she has no name ready for.
+
+Vee now knows Pace will call her “always beautiful” when she feels visibly undone.
+
+Sheri knows Vee’s name, knows Randi’s name, knows there are “two of them at once,” and knows enough of Pace’s response to hear that he is emotionally engaged.
+
+**Motifs**
+
+Locks, doors, and thresholds: Randi’s locks and doors mark command, withdrawal, and private crisis; Vee’s invitations into Chi Latte, restaurants, Smoothie Bird, the trail, the truck cab, Pace’s house, and dorm entrances keep access tied to belonging, hunger, intimacy, and risk. Pace’s house became a sequence of thresholds: hidden driveway, stoop, door opened before Vee reaches it, one closed bedroom door, the riser, the bedroom later opened by Vee’s asking. The finished dress became a threshold into a more visible self. The boutique threshold was one Vee would never have crossed alone. Pace’s “Not tonight” over the scar is a gentler closed door. The Rusty Nail’s entrance opened Pace’s public world. The white-columned sorority house and Randi’s closed bedroom door became thresholds into Randi’s institutional and private power. Vee’s apology begins at Pace’s door, which opens before she rings, turning her rehearsed entry into another threshold Pace partly controls and warmly receives.
+
+Food, appetite, and portioning: Food keeps marking permission to want. Pace’s apple slices with Randi, Chi Latte drinks with Vee, frozen yogurt, dinner, Smoothie Bird, hike lunch, tea, fra diavolo, Chianti, mimosas, brunch, and the dorm apple all turn appetite into a test of shame and permission. Sex and appetite fused when Vee said she was “Famished,” had sex before dinner, and afterward ate until full. Vee’s “HUMBLE PIE” makes apology edible and performable, but she realizes a joke is too small for what she did.
+
+The face / blue eyes / being looked at: Randi’s face is armor and social light; Vee’s face gives away longing, joy, and grief; Pace’s gaze makes Vee feel chosen; Cassie sees Vee’s face when it opens or goes wrong. The full-length mirror made Vee look at herself in the burgundy dress; Pace and Randi have both looked at her into beauty. The Rusty Nail made being looked at public and painful. Vee repaired her “sad-clown” makeup into “long night,” Randi read the whole crisis off her face, and the mirror in Randi’s room gave Vee a woman who was “nobody’s clown.” This chapter Pace watches Vee’s face closely enough to see the unnamed erotic response cross it after the swat.
+
+Warmth, cold, sweat, salt, and aliveness: Warmth and cold keep separating social containment from bodily truth. Pace’s warm house, Vee’s swimming warmth, rain cold, dry flannel, truck heat, warmed fitting room, tea, sex, hot pepper, fire, glass, quilt, robe, stars, cold sink water, cold October air, and cycling breath made aliveness physical. This chapter Pace’s warm house closes the cold out again; Vee wakes sleep-warm, pads over cold floors, and the bright kitchen makes bodily discovery happen in ordinary daylight.
+
+Furniture and rooms with hidden purpose: Pace’s bench, Randi’s room, classrooms, coffee shops, restaurants, Smoothie Bird, the pool, the truck, dorm rooms, Pace’s bedroom, kitchen, workshop, den, and sun porch all become ordinary spaces with concealed emotional or erotic function. The sun porch was a fitting room and reveal room; the boutique became ritual completion; The Rusty Nail became Pace’s public classroom/history. Randi’s small ordered room became a confessional, dressing room, and command center for Vee’s next approach to Pace. Pace’s kitchen now becomes a domestic playroom where dishes, soaking, laughter, and a single swat open a new erotic register.
+
+“Hi”: Pace and Randi’s charged “Hi” once served as intimate reset; Vee’s “Hi” to Randi and Pace marked eagerness and vulnerability. At Pace’s doorway, “Hi” repeated before Vee’s kiss and “I missed you.” This chapter Vee’s “Hi” at the apology door is fragile and exposed, immediately complicated by the heels making her taller than him.
+
+“Please” and begging: Randi’s broken “please” exposed the self under performance; Vee’s polite “please” opens access to Pace’s help and authority; the fitting gave Vee an inward “please, please, just stop” aimed at her own arousal. Pace’s “If you want to, I’ll teach you” became a polite invitation. Randi’s post-Rusty Nail instructions made obedience feel like rescue. This chapter has no major “please.”
+
+“He’s hard to say no to”: The phrase carries flirtation, pressure, consent, and fear. Pace’s gentleness makes Vee’s yeses feel voluntary and almost inevitable; Randi makes disclosure and self-display feel similarly voluntary. The dance lead turned “hard to say no to” into bodily trust. Randi’s post-Rusty Nail certainty made Vee accept “Not today,” the outfit, the shoes, the scarf, and the timing as if obedience were choosing. This chapter Pace’s forgiveness, attention, folded shirt, and “always beautiful” make staying feel almost inevitable.
+
+Pointing, choosing, and permission: Pace’s pointing game let Randi choose Vee under cover of play; Vee experiences being picked by Randi and Pace as attention and permission. Vee has chosen underwear, toenails, Pace’s bedroom, panties as gift, the finished dress, no underwear under it, the black heels, and, after The Rusty Nail, Randi as crisis guide. Randi’s “Tomorrow night” converted Vee’s choice to apologize into a delayed, styled, and socially legible entrance. This chapter Vee chooses the apology and the confession, but the borrowed outfit and rehearsed manner show how much the choice has been shaped.
+
+Mirrors, types, and women as grammar: Randi, Vee, Cassie, Brooke, Sloane, Kinsey, Meg, Kayla, Vee’s mother’s voice, Pace’s nineteen-year-old tutor, The Rusty Nail women, and Sheri all create competing grammars of femininity, propriety, display, appetite, age, care, judgment, and shame. The mirror gave Vee a grammar of beauty without apology. Brooke’s house grammar classified Vee as “the stats friend,” while Randi’s closet and scarf lesson taught another grammar: shape, tension, Paris, and the difference between “nice” and effective. This chapter Vee brings Randi’s grammar of sure beauty into Pace’s domestic grammar and finds it both steadies her and creates new embarrassment.
+
+Goodbye / see you later: Cassie’s “Goodbye, Vee,” Randi’s “See you later,” Pace’s promised laters, and interrupted departures keep goodbyes charged. The Rusty Nail gave a painful non-goodbye. Randi’s “See you soon, gorgeous” followed a soft lingering mouth kiss that Vee received without bracing. This chapter postpones goodbye: Vee means to apologize and leave but stays two nights.
+
+Math, structure, and hidden causes: Vee’s way of reading structure under numbers echoes the book’s hidden causes: Randi’s texts, Pace’s arrivals, social signals, and partial information. Simpson’s paradox named the danger that local truths can betray the whole. The dance lead became literal information through the body, while The Rusty Nail women created social noise Vee misread. Randi performed social mathematics by recalculating Vee’s humiliation as proof of attachment and turning the timing of apology into a controlled signal. Sheri performed simpler arithmetic: “Two of them at once” equals complication. This chapter Vee builds her apology “like a small clean machine,” but Pace’s question breaks the machine open into motive.
+
+Hands, pencils, and agency: Pace’s hands feed, build, arrange, guide, restrain, measure, cut, sew, pin, taste, hold, and receive; Vee’s hands solve, swim, kiss, unbutton, reach, gift, remove, smooth, touch, and confess; Randi’s hands read, hold, touch, buckle, and claim. The dance frame made hands information. Randi’s hands took Vee’s hand in sympathy, fit shoes under her skirt, braced her thigh, pressed behind her knee, arranged silk at her throat, and guided Vee’s hands through the scarf knot. This chapter Pace’s hands take the slipping pie, right the scarf, hold Vee’s face, wash dishes, tickle her, swat her, and gather her hair away from her face; Vee’s hands hold, pull, slap, fumble his jeans, and cling.
+
+Rules, games, and exceptions: The pointing game, dating rules, pool rules, kissing exceptions, trail rules, dressmaking rules, social rules, dance rules, bar rules, cycling rhythm, and apology rules all make permission legible. The dance rules were erotic discipline: smaller steps, no looking at feet, give resistance, close the space, don’t think, feel the lead. Randi supplied new rules: do not go today, go tomorrow; do not go sorry, go sure; not the cardigan; black dress, real earrings, these shoes, this scarf. This chapter Vee follows Randi’s apology rules, then invents a joking domestic rule about soaking, only to discover another bodily rule she did not know.
+
+Water and breath: Pool water gave Vee bodily refuge; mountain rain exposed and chilled her; the fitting charged breath and skin; sex with Pace made wet bodily truth undeniable. Breath marks softened pauses and withheld confession. Cold sink water functioned like a verdict that ended Vee’s self-punishment, and Vee’s breath caught under Randi’s hidden touch behind her knee. Cycling breath went back over Pace and Sheri’s shoulders. This chapter dishwater, soaking, and the tap turning off mark the shift from play into sexual attention; the kitchen quiet leaves only breathing.
+
+Roads, distance, and partial maps: Pace’s world lies off six-fourteen, past gravel; Vee treats partial knowledge as safety while Cassie hears the gap. Randi’s Mercedes, Pace’s pickup, Vee’s Corolla, and the cab mark access and cost. Vee walked across the bright cold campus to the sorority house, throwing away class and letting the whole day point toward tomorrow night at Pace’s door. Pace and Sheri ride most Saturdays out past his place. This chapter Vee drives to Pace, changes shoes in the car, and by Monday discovers the distance back to dorm and class has practical consequences.
+
+Clothing, exposure, and borrowed skins: Randi’s clothes mark performance; Vee’s cardigans, swimsuits, dinner clothes, borrowed boots, wet shirt, Pace’s flannel, satin underwear, burgundy silk, green panties, plum toenails, black strapped heels, borrowed dance shirt, Pace’s washed shirt, and Randi’s new shoes/scarf mark visibility, shame, and chosen exposure. Vee moved from Pace’s washed shirt to long skirt and bare legs, then stood in Randi’s room in bra and skirt while Randi built tomorrow’s self out of a little black dress, cognac heels, real earrings, and a green-and-gold silk scarf. This chapter Vee arrives in Randi’s cognac heels and scarf, then shifts into Pace’s undershirt and sweatpants, with her one bra saved for Monday, smelling of him head to foot and with “nothing of her own left anywhere on her skin.”
+
+Light and gold: The athletic dining hall’s gold windows, Pace’s afternoon porch, the fitting’s full light, Randi’s late sun after the kiss, morning-after clarity, boutique light, firelight, starlight, and Pace’s image of Vee brightening a room all make visibility charged. The Rusty Nail’s closing lights exposed Vee’s self-deception. The day after was “bright, cold, so clear it looked rinsed,” and Vee left Randi’s white-columned house into rinsed blue light with a plan. This chapter the porch light is on for Vee, and late morning / early afternoon light fills Pace’s bedroom and kitchen, exposing tenderness and embarrassment without glamour.
+
+Two towels: Pace’s plain clean bathroom has two towels on the rod, a small domestic detail that quietly suggests space for another body in a house otherwise arranged around one man. This chapter does not add to the motif.
+
+Signal and noise: Pace explains error-correcting codes as saying something more than once so noise cannot kill the message, and his patent finds MRI pictures in noise. The dress is the clearest signal yet: Pace has translated Vee’s body into fit, line, and hidden structure. Simpson’s paradox complicates signal: every short stretch can seem true while the whole says something else. The dance lead made information literal; the bar women made social noise Vee misread. Randi clarified the Rusty Nail signal for Vee, but also introduced new noise by reframing apology as strategic presentation. Sheri became a clean receiver: she hears Pace talk and understands there is something to listen to. This chapter Vee finally names the blonde’s words as noise she knowingly accepted as signal.
+
+Risers, pedestals, and display: The low handmade platform raises Vee into the light and puts her body at Pace’s working height. The finished-dress mirror turned it into a stage for self-recognition; the boutique bench and Randi kneeling before Vee echoed it. The dance floor became a moving pedestal. Randi’s room floor became another display platform: Vee stood in bra and skirt while Randi circled, fit, and signed off. This chapter the borrowed heels make Vee physically higher than Pace, turning height into an accidental display and an unexpected source of shame.
+
+Pins, pricks, and small wounds: The pinprick on Vee’s ribs came from her own deliberate teasing disrupting Pace’s work; Pace kissed the tiny wound, turning accident into intimate care. The old scar enlarges bodily wound into withheld history. The Rusty Nail added an emotional wound Vee caused with words. Randi began dressing that wound for repair. This chapter Vee brings the wound to Pace directly, and he does not close it too quickly.
+
+Cars, class, and being carried: Pace’s white pickup, Vee’s Corolla, Randi’s dark green Mercedes, the cab, and the bikes mark different kinds of access, care, money, risk, and exertion. The black strapped heels and emergency credit card exposed beauty’s cost. Randi’s borrowed cognac heels were expensive enough that Vee stopped herself from finishing the math, giving her steadiness without immediate payment but increasing dependence. This chapter Vee changes shoes in her car in Pace’s driveway; by Monday, the distance from Pace’s house to dorm and class becomes a logistical panic.
+
+Perfume and trace: Pace’s flannel carries shelter and smell; Randi’s bright green scent marks charged kisses; Pace’s robe smells like him; Pace’s washed shirt keeps comfort after his smell is gone. Randi’s room had her scent in it: bitter orange, green at the edge, nothing sweet, and Vee set Pace’s washed shirt back on her pillow like a totem before going to Randi. This chapter Vee washes with Pace’s soap and shampoo and realizes she smells of him head to foot, “nothing of her own left anywhere on her skin,” which stills her rather than repels her.
+
+Toenails: First charged as Vee’s frosted-plum preparation for Pace, read by Cassie and then Randi as erotic intention. Randi saw the polish while holding Vee’s foot, touched the big toenail, and sent sensation through Vee. Randi’s own blue toenails were perfect as she rode Pace. Randi’s bare sky-blue toenails showed in her room, an intimate unarmored detail Vee noticed. This chapter does not add toenails.
+
+Music and private atmosphere: Randi’s playlist plays low in Pace’s front rooms after sex, Sade “smooth and slow”; Vee’s sad marching-season songs made music a container for feeling; Pace’s battered boom box and country songs created the dance lesson’s beat. Cassie’s alarm glissando sounded like a klaxon. This chapter has no major music.
+
+Names and naming: Vee/Vivienne carries the split between proper identity and intimate nickname; Pace/Peter carries public ease and private plainness. The Rusty Nail made “Pace” public property. Brooke named Vee as “the stats friend,” while Randi repeatedly called her “honey,” “gorgeous,” and implicitly treated her as someone under her care. Pace says “Vee,” then gives Sheri “Vivienne,” and the fuller name pulls him into talking about what he values in her. This chapter does not add major naming, but Vee’s title for the pie tries to name her apology before she can fully speak it.
+
+Scar and withheld history: The large scar high on the inside of Pace’s thigh was first noticed but unexplained. Vee touches more of it than she knew was there: old, raised, smooth, longer than her hand. Pace covers her hand with his, does not remove it, and says “Not tonight,” making the scar a closed story with a promised future rather than a refusal of intimacy. This chapter does not add to the scar.
+
+Dancing, lead, and frame: Pace teaches Vee the three-step by making her give him resistance, close the space, stop looking at her feet, and feel the lead. The frame feels too close and rule-bound until it becomes the thing that makes movement possible. Vee’s breakthrough is bodily: “The pattern came through his body before it arrived in her feet.” At The Rusty Nail, the same frame makes her good in public, but also exposes how many women Pace has taught, held, and made safe. Randi heard that the dance was good before jealousy took over. Sheri reports that after Pace left, Vee danced with nobody. This chapter does not add dancing, but the apology directly repairs the wound made on the dance floor.
+
+Cycling, hills, and exertion: Pace and Sheri ride most Saturdays out past his place. The road rolls; they talk on flats and long descents but go quiet on climbs because the climbs take breath. Sheri is faster than Pace uphill and makes sure he knows it. The ride becomes a place where emotional truth appears indirectly, through stamina, silence, and what can be said when the road allows. This chapter does not add cycling.
+
+Soaking: First major appearance. Vee’s joke that soaking is “a recognized method” begins as drowsy domestic teasing over dishes, then becomes an image for leaving things alone long enough for water, time, and desire to do their work. The sink full of soapy water remains behind while Vee and Pace leave the kitchen for sex.
+
+Spanking / striking: First major appearance. Vee swats Pace playfully after he tickles her; Pace answers with one open-handed swat across her underwear and bare curve. Her immediate arousal arrives before thought, exposing a desire she has no language for yet.
+
+**Symbolism noticed**
+
+The bench symbolizes concealed intention and structured exposure: a table until it is not, ordinary furniture until its hidden use is revealed, consented-to position until it opens into something Randi did not understand would happen inside her.
+
+Randi’s face symbolizes polish as defense: beauty, social ease, and being-looked-at as a surface that lets nothing reach the protected self.
+
+The apple symbolizes permitted appetite becoming erotic hunger. Thin slices are safe; eating from Pace’s hand and mouth becomes a way desire slips past rules. Vee’s dorm apple symbolizes stripped-down purpose: she rejects the dining hall, eats what she has, and walks toward repair.
+
+Locks and doors symbolize control over access. Vee’s invitations across doors, tables, roads, trails, truck doors, dorm thresholds, Pace’s house, Pace’s bedroom, the sun porch reveal, the zipped garment bag in the closet, the boutique door, Pace’s “Not tonight” over the scar, The Rusty Nail’s entrance, and the sorority house and Randi’s room keep turning consent and belonging into spaces one enters, protects, or postpones.
+
+The pointing game symbolizes permission disguised as play. Randi can want because Pace has made wanting into a game with rules, but the same game also lets him arrange the field in which her yes appears.
+
+Vee’s red hair and full-body laughter symbolize uncurated aliveness: a bodily freedom that arrests Randi because it does not fit the narrow standards she lives by.
+
+Chi Latte symbolizes social admission: a place Vee had stood outside, literally and socially, until Randi brings her under the sign.
+
+The returned pencil symbolizes agency under guidance. Pace controls the frame and supplies the key, but Vee experiences the solution as hers because he gives the pencil back.
+
+The overfilled frozen yogurt cup symbolizes Vee’s appetite exceeding inherited permission.
+
+The water symbolizes bodily refuge before shame and cold judgment that Vee chooses for herself so she can stop wallowing.
+
+The unfamiliar menu symbolizes a desire Vee cannot yet name. Pace’s “May I choose?” lets her surrender into pleasures she has no map for.
+
+“Off six-fourteen” symbolizes partial knowledge and approaching danger under the feeling of romance.
+
+The bruise-colored smoothie symbolizes Randi’s controlled appetite and the violence hidden inside polish.
+
+“Dear friend” symbolizes public admission and public claim.
+
+The summit symbolizes scale beyond social shame. Vee is made small by the valley, lake, sky, rock, and burning ridges, and the world’s indifference feels freeing rather than cruel.
+
+The moleskin symbolizes care that repairs without humiliating.
+
+The cherry pit symbolizes rules learned without shame. Vee leaves a trace, Pace corrects it gently, and then places his own pit beside hers so the lesson becomes shared practice rather than exposure.
+
+The russet dress symbolizes Vee’s dignified wanting: beauty, achievement, ceremony, and a version of herself she cannot afford but can still imagine.
+
+The flannel symbolizes shelter, permission, evidence, and hidden authorship. It is Pace’s only dry shirt, given without speech; it lets Vee warm herself, expose herself, return to the dorm carrying his smell and care on her body, and later becomes the fading proxy for Pace’s body that Vee sleeps in until she reaches the source in his bed.
+
+The campus cop’s lights symbolize public interruption of private intimacy. They do not undo what happened, but they make it visible, risky, and unfinished.
+
+The rye sandwich symbolizes earned appetite: plain, strong, bodily pleasure after effort, tied to Vee’s pride in having climbed the mountain herself.
+
+Pace’s house symbolizes the next threshold into private knowledge. For Vee it is romantic access and mystery; for me, because of the jacket and Randi, it is also the place where the hidden arrangement becomes harder to keep outside the room.
+
+The two o’clock invitation symbolizes desire without explanation. It is polite, spare, and formally voluntary, but its blankness lets Vee and her friends fill it with sex, clothes, and anticipation.
+
+The two towels symbolize domestic readiness and bodily intimacy without spectacle: a plain bathroom detail that makes Pace’s solitary house feel quietly prepared for another person.
+
+The closed bedroom door symbolizes restraint and control. Vee wants sexual access and has dressed for it; later Vee asks for the bedroom and the door opens.
+
+The burgundy silk symbolizes being seen accurately. The magazine red belonged to Vee’s fantasy; Pace’s deeper wine color belongs to her body, hair, and skin. The finished dress symbolizes that vision made whole, wearable, and socially dangerous.
+
+Error-correcting codes symbolize messages surviving damage, noise, and partial reception. Pace explains the principle plainly, but it also makes me think about how much of the situation Vee is receiving without the missing parts that would change the message.
+
+The riser symbolizes display, elevation, and chosen exposure. It makes Vee visible in the afternoon light, at Pace’s working height and then before the mirror, turning practical dressmaking into a pedestal she first endures and then inhabits.
+
+The wet satin symbolizes bodily truth and shame made visible. Vee’s arousal refuses to stay private or manageable, and Pace’s response turns the evidence from humiliation into an unexpected gift without erasing its danger.
+
+The pinprick symbolizes the cost of Vee’s new power. Her deliberate teasing breaks the smooth technical frame, draws a tiny wound, and Pace’s kiss makes care and desire briefly indistinguishable.
+
+The turned-up heat symbolizes anticipatory care as seduction. Pace warming the house before Vee arrived is practical, tender, and erotic because it shows he imagined her half-bare body in advance and prepared the room around it.
+
+The Mercedes symbolizes Randi’s world as a moving invitation: expensive, effortless, sealed around Vee, publicly visible, and controlled by Randi.
+
+The velvet booth symbolizes confession under luxury. It makes privacy feel soft and safe, while also letting Randi manage exactly what Vee says and does not say.
+
+The white-gold wrist band symbolizes something fixed under Randi’s changing polish. Vee notices it as the one thing Randi never seems to be without, but I do not yet know what it means.
+
+The mouth kiss symbolizes permission, claim, and deniability at once. It is intimate enough to change Vee’s body, public enough to frighten her, and socially ambiguous enough for her to explain away. The post-Rusty Nail goodbye kiss was more normalized: Vee did not brace, and her mouth simply met Randi’s because “it was only what they did.”
+
+The green satin panties symbolize chosen evidence. Vee buys them for beauty, wets them before Pace sees them, lets him see the proof, folds them carefully, gives them to him as a trade, and then returns home bare under her skirt, transforming shame into offering and then into a secret she cannot show Cassie.
+
+The fra diavolo symbolizes appetite after sexual permission: hot, bodily, prepared before desire interrupts it, then finished and eaten once Vee’s body is quiet.
+
+The frosted-plum toenails symbolize Vee’s chosen erotic preparation and her weakening obedience to shame.
+
+The mimosa symbolizes Vee trying on ease with pleasure and money. She prices the first one carefully, then has a second without pricing it at all.
+
+The bistro sun porch symbolizes Randi’s bright version of confession. Unlike the dark velvet booth, it makes disclosure feel clean, illuminated, and social, even as Randi is still managing how much of Vee’s desire comes into the open.
+
+The finished dress symbolizes Vee’s body translated without apology. It hides Pace’s labor so the result looks effortless, but for Vee the hidden labor is exactly what makes it intimate.
+
+The hip-high slit symbolizes reveal and conceal under Vee’s control. It gives her leg to the room and takes it back, and Vee’s removal of her underwear makes the exposure chosen rather than accidental.
+
+The mirror symbolizes self-recognition. Pace installs one so Vee can see the woman the dress makes visible; Randi’s mirror shows Vee another woman assembled from borrowed shoes, silk, and Randi’s gaze.
+
+The made bed symbolizes readable absence. Cassie can see Vee did not come home because the room itself tells on her.
+
+Simpson’s paradox symbolizes partial truths betraying the whole. “A thing can run one way across every short stretch you measure and the opposite way across the whole of it” names the danger of Vee’s happy local yeses inside the larger hidden arrangement.
+
+The missing shoes symbolizes the next cost of visibility. The dress has made Vee possible to herself, but entering the room in it requires another social and financial step that Randi immediately claims as hers to solve.
+
+The black strapped heels symbolize completed display at a cost. They make the dress’s line finish itself, but they also move Vee from sensible self-protection into debt and dependence on Randi’s grammar of beauty.
+
+The emergency credit card symbolizes a freely chosen yes whose consequences have not gone away. Vee knows the paying-it-back part is missing and signs anyway.
+
+Randi kneeling with Vee’s foot symbolizes service and possession together. It looks like care, but “I’ve got her” and the charged toe touch make the care feel like a claim. Randi repeats the kneeling and fitting with her own shoes under Vee’s skirt, intensifying the service/possession mixture.
+
+The low playlist symbolizes the private erotic world Randi and Pace already share: music continuing under the door while they speak about Vee, making concealment feel intimate and ordinary.
+
+Vee brightening a room symbolizes the aliveness both Randi and Pace desire in her, and the painful contrast with Randi’s more controlled, defended brightness.
+
+The unopened saffron symbolizes sealed possibility in Vee’s childhood: the exotic was present in name but never actually entered appetite or discovery.
+
+The glass with cold outside and fire behind symbolizes the fragile made warmth of Pace and Vee’s intimacy: small, enclosed, precious, and protected from a larger cold.
+
+Pace’s real name, Peter, symbolizes access to a plainer self beneath the chosen public name. Vee saying it softly turns naming into keeping rather than possession.
+
+Mathematics as poem symbolizes Pace’s deepest aliveness: not dry abstraction, but a way of reading the world’s hidden unity.
+
+The nineteen-year-old tutor symbolizes tenderness tangled with imbalance. Pace names it luck and love; Vee feels the darker grown-up word and keeps it back.
+
+The squat bar symbolizes chosen presentness. For Pace, the lift erases past and future; Vee recognizes the same total attention in how he is with her sexually.
+
+Pace’s scar symbolizes withheld pain and timed access. Vee can touch it, and he can keep her hand there, but the story remains behind a door marked “not tonight.”
+
+The dance frame symbolizes trust made physical. Vee must give resistance, close the space, stop guessing, and feel Pace’s lead; it is thrilling because it lets her move, and troubling because surrender becomes easiest when the next step is already arranged.
+
+The Rusty Nail symbolizes Pace’s public history with women. It reveals that his gentleness is not an act invented for Vee, but also that Vee’s feeling of exception exists inside a larger community of women who have felt some version of his care.
+
+The washed shirt symbolizes trace after loss. Vee has made Pace’s shirt hers by trade and use, but once his smell goes stale and is washed out, the comfort remains meaningful while the body it stood in for is gone.
+
+The cab symbolizes the cost of refusing care. Vee chooses independence in anger, and gets home, but the ride is unpleasant, expensive, and lonely.
+
+The bar lights coming up symbolize exposure after self-deception. Vee has to sit in the full light with the fact that the women were jealous of her and Pace was better than her accusation.
+
+The sorority composites symbolize institutional femininity and judgment: rows of bright faces arranged into history, making Vee feel admitted into a museum lobby that has not decided whether to let her see the paintings.
+
+Randi’s closet symbolizes disciplined beauty as a world Vee longs to enter. Its narrow perfection makes Randi’s polish visible as labor and selection.
+
+The cognac heels symbolize steadiness through surrender. They hold Vee’s foot so precisely that “being given no say” makes her surer, echoing the dangerous comfort of a perfect frame. This chapter they also make Vee taller than Pace, turning borrowed steadiness into accidental shame.
+
+The green-and-gold scarf symbolizes line, tension, and transformation. Randi teaches Vee that the small firm pull is the difference between “dorm mixer” and “dinner in Paris,” turning social polish into a physical knot Vee can learn. Pace noticing and resetting it confirms that the scarf is working.
+
+The bicycle ride symbolizes friendship under exertion and a kind of honesty paced by the body. Pace and Sheri can talk where the road lets them and fall silent where it demands breath, which makes emotional disclosure feel earned rather than staged.
+
+The hills and valleys symbolize emotional terrain: speech on the easier stretches, silence under strain, and a high place where Sheri can ask directly whether Pace wants her not to like Vee.
+
+The humble pie symbolizes apology made cute and carryable. It gives Vee’s hands somewhere to be and makes contrition visible, but in Pace’s driveway she understands that the real apology cannot be hidden inside a joke.
+
+Soaking symbolizes yielding without direct force. Vee argues that soaking is a recognized method for dishes, but the scene leaves the pan under water while she and Pace surrender to the thing that has softened between them.
+
+The swat symbolizes an unnamed erotic threshold. It begins inside play and ordinary domestic touch, but Vee’s body answers before she has consented to knowing that answer about herself.
+
+Pace’s folded undershirt symbolizes prepared tenderness. He leaves it for Vee to find after she wakes alone, giving her cover, comfort, and a way to move through his house as someone expected there.
+
+Pace’s soap and shampoo symbolize immersion into his life. Vee’s own scent disappears, and instead of feeling erased she feels stilled by smelling entirely of him.
+
+**Open questions**
+
+How will Randi and Pace explain knowing each other, if they ever have to explain it to Vee?
+
+Will Vee learn that she was selected through a sexual game before Randi met her?
+
+Will Vee learn that Pace and Randi are already lovers?
+
+Will Pace realize that Randi’s post-bench recovery was partly a performance?
+
+What exactly is Randi and Pace’s arrangement: lovers, boyfriend/girlfriend, secret affair, or something less named?
+
+Can Randi want Vee as herself, or only through Pace’s permission and the safer story of a gift to him?
+
+Will Cassie challenge Vee, Randi, or Pace more directly?
+
+Will Vee recognize her attraction to Randi as sexual, romantic, social, or some mixture she has no language for yet?
+
+How much of Randi’s warmth toward Vee is genuine, and how much is practiced social capture?
+
+Will Cassie’s protective way of knowing Vee matter when the hidden plan gets closer?
+
+What did it cost Randi to call Vee “my dear friend” in front of Brooke, if anything?
+
+Will Brooke’s awareness of Vee matter to Randi’s standing in the sorority?
+
+Will Pace tell Randi how intimate the fitting became, that he and Vee have had sex, that Vee gave him the green panties, that the finished dress led to sex again, and now that the apology led to a two-night stay?
+
+Will the dress become a private bond between Pace and Vee that Randi cannot easily share or control?
+
+What will Cassie do with the new knowledge she has, and what will she miss because Vee keeps editing?
+
+What happened to Pace around his parents, given the small closing in his face when Vee asks if they are rich?
+
+What does Randi’s white-gold wrist band mean, and why has Vee never seen her without it?
+
+Why does Randi stop Vee just before the fullest confession of what Pace saw?
+
+Did Randi kiss Vee because she wanted to, because she was rewarding disclosure, because she was claiming her, or some mixture?
+
+Will Vee tell Cassie, Meg, Kayla, or anyone that Randi kissed her?
+
+What will Pace do with the green satin panties Vee gave him?
+
+What does the large scar high on the inside of Pace’s thigh come from?
+
+Will Cassie realize Vee edited out the middle of the night?
+
+Will Vee eventually tell Cassie about giving Pace the green panties?
+
+Will Vee keep treating Pace as a boyfriend because Cassie named him that, or will the relationship resist that ordinary word?
+
+What will Randi do with Vee’s confession that she wanted sex with Pace and took it?
+
+Will Randi tell Pace that Vee is “that gone” on him?
+
+Will Vee’s willingness to meet Randi’s kisses make her admit to herself that this is not just a social habit?
+
+What will happen when Vee wears the finished burgundy dress to induction?
+
+Who will see Vee in the dress first: Cassie, Randi, Brooke, the sorority, or Pace again?
+
+What will happen now that Randi has seen Vee in the finished dress?
+
+Will Pace see the black heels, and will he understand what Randi added to the dress’s meaning?
+
+Will Vee regret putting the shoes on the emergency credit card?
+
+Will Randi’s “I’ve got her” become only boutique ease, or does it name something larger?
+
+Did Randi’s touch on Vee’s toenail tell Vee something she is not ready to know?
+
+Will Vee tell Cassie how much the shoes cost?
+
+Will Vee start depending on Randi to translate beauty, money, and social danger for her?
+
+Did Randi’s “You lucky slut” reveal more envy, desire, or possessiveness than she meant it to?
+
+Will Cassie’s raised eyebrow at the shoe date become a challenge later?
+
+What did Randi feel when Pace said Vee makes the room brighter?
+
+Is Pace’s “I want her to get there on her own” a real protection for Vee, or only the most elegant version of the trap?
+
+Will Vee ever hear how Randi and Pace talk about her when she is not there?
+
+Will Pace’s real name, Peter, matter to Randi, or is Vee the only one who has been given it on the page?
+
+What happened with Pace’s nineteen-year-old tutor, and does he understand it clearly?
+
+Will Vee connect Pace’s past with the tutor to her own situation with him and Randi?
+
+What story belongs to Pace’s inner-thigh scar, and why is it “not tonight”?
+
+Will Pace ever tell Vee more about his parents than the flat facts he gave here?
+
+Will Vee’s exact compassion for Pace make the eventual hidden truth harder for her to survive?
+
+Will Pace understand Vee’s accusation as jealousy, shame, or something deeper?
+
+Will the women at The Rusty Nail matter again, especially the blonde who needled Vee?
+
+Will Vee’s new knowledge of Pace as a public safe man make her trust him more or feel less singular?
+
+Will Vee tell Cassie she went to Randi after The Rusty Nail, or keep that hidden too?
+
+Will Vee return Randi’s shoes and scarf after tomorrow night, or will borrowed Randi become part of the encounter with Pace?
+
+Will Pace recognize Randi’s hand in Vee’s clothes?
+
+Will Randi tell Pace she counseled Vee and dressed her for him?
+
+Will Vee’s unbraced kiss with Randi force a new self-recognition, or will she keep treating it as “only what they did”?
+
+Will Sheri meet Vee directly, and will Vee be able to take Sheri’s heat?
+
+Will Sheri meet or matter to Randi?
+
+How much does Sheri know about Pace’s romantic or sexual life, and how often has she watched him get complicated?
+
+Will Sheri’s warning about “Two of them at once” affect Pace, or has he already decided the complication is worth it?
+
+Will Pace tell Vee that Sheri watched her after he left The Rusty Nail?
+
+Will Vee understand her response to being swatted as sexual, shameful, playful, frightening, or some mixture?
+
+Will Pace name the spanking response, repeat it, or wait for Vee to come to it herself?
+
+Will Vee tell Randi that the apology worked and became a two-night stay?
+
+Will Randi recognize her own shoes and scarf in whatever Pace says about Vee’s apology?
+
+How will Vee handle Cassie and class after waking late at Pace’s on Monday?
+
+**How I feel**
+
+Toward Randi: drawn, grateful on Vee’s behalf, and more alarmed. Her care feels real, but she now has Vee’s shame, timing, clothes, shoes, scarf, and mouth under her influence; the fact that Vee carries Randi’s styling into Pace’s house makes Randi present even when absent.
+
+Toward Pace / Peter: still intensely attracted, moved, and uneasy. This chapter makes him beautifully tender and responsive with Vee, but he is still holding two women in a hidden arrangement Vee cannot understand.
+
+Toward Vivienne/Vee: deeply protective and anxious, but happy for her too. Her apology is brave, her joy in Pace’s house is palpable, and her new erotic discovery feels both thrilling and vulnerable.
+
+Toward Cassie: very trusting, and increasingly missed. Her quiet attention remains the kind of witness Vee avoids because it would ask for truth.
+
+Toward Brooke: alert and wary. Her warmth at the door feels perfectly social and faintly administrative.
+
+Toward Sheri: interested, wary, and inclined to trust her bluntness. She feels like a fierce outside witness who can read Pace without being dazzled by him.
+
+Toward Sloane: mildly wary. She remains part of the sorority gaze.
+
+Toward Kinsey: lightly uncomfortable. She remains part of the room’s judgment around Randi.
+
+Toward Meg: warm but distant this chapter.
+
+Toward Kayla: fond but distant this chapter.
+
+Toward Theo: neutral and faintly fond.
+
+Overall mood: warm and worried. The Vee/Pace repair is emotionally satisfying, but the tenderness makes the hidden trap feel more consequential, not less.
+
+### Chapter record
+
+Characters appearing in person: Vivienne Thorne / Vee; Pace / Peter.
+
+Characters named or mentioned: Randi; the blonde girl from The Rusty Nail.
+
+Places and rooms: Vee’s car; Pace’s driveway; Pace’s porch/front step; Pace’s front hall / interior threshold; Pace’s warm low-lit house; Pace’s bedroom; Pace’s kitchen; Pace’s bathroom; the dorm; the stats lab; a lecture hall; a supermarket; The Rusty Nail by implication.
+
+Objects and props: Randi’s cognac heels; Vee’s flats; green-and-gold silk scarf belonging to Randi; pearls; dress; supermarket apple pie in a foil tin under a clear plastic dome; printed label reading “HUMBLE PIE” in a serif font; adhesive paper trimmed with good scissors; car engine; doorbell; porch light; side table; soft grey henley with sleeves pushed up; clean white undershirt folded at the end of Pace’s bed; jeans; dark shirt; dishes from the night before; sink; running water; plate; cloth; scrub brush; soapy water; pan soaking in the sink; Pace’s sweatpants rolled three times at the waist; Vee’s one bra folded over a chair; Pace’s soap; Pace’s shampoo.
+
+Clothing and appearance: Vee changes from flats into Randi’s cognac heels in the car. She wears Randi’s green-and-gold silk scarf tied and flung over one shoulder as Randi taught her, pearls, and a dress suitable for the apology. The heels make Vee an inch or two taller than Pace at the door. Pace wears a soft grey henley at the door, sleeves pushed up. Later he wears jeans and a dark shirt with sleeves shoved up his forearms. Vee wakes and puts on Pace’s clean white undershirt, which is enormous on her and comes halfway down her thighs; she is bare-legged, with disastrous slept-on hair. By Sunday evening she wears Pace’s sweatpants rolled three times at the waist and one of his big undershirts with nothing underneath. Her one bra is saved for Monday. By Monday her hair has been slept on for two nights, washed in Pace’s shampoo, and finger-combed.
+
+Times and durations: The pie label was made the day before in the stats lab when Vee should have been doing the problem set. At three in the morning the night before, the “HUMBLE PIE” idea still seemed right. The apology visit is after Thursday’s Rusty Nail incident. Vee stays Saturday night, all Sunday, Sunday night, and wakes late Monday morning. She has a nine o’clock class and usually a ten-minute walk from the dorm; Pace’s house is twenty minutes outside town. She wakes late Sunday in light too full for early, apparently early afternoon. Pace asks for “two minutes” to finish dishes.
+
+Actions and continuity details: Vee changes shoes in the car in Pace’s driveway and carries the labeled apple pie to the door. Pace opens the door before she rings, implying he heard the car or was near the window. Vee says “Hi,” realizes the heels make her taller than Pace, panics, and starts trying to remove them while the pie tips. Pace takes the pie from her hands, steadies her by the forearm, resets the scarf, tells her to leave the heels on, and says he will not complain about having to look up. He sets the pie on the side table. Vee gives a prepared apology for being rude and cruel at The Rusty Nail. Pace accepts gently but asks what happened. Vee describes the blonde girl’s insinuations and admits she believed a lie because part of her was waiting for one. Pace takes Vee’s face in both hands, tips it down because she is taller in the heels, and thanks her for telling him what the blonde said. Vee stays.
+
+On Sunday, Vee wakes late and alone in Pace’s bed; his side is cool. Pace has left a folded clean undershirt for her at the end of the bed. She puts it on and finds him in the kitchen washing dishes. She hugs him from behind and argues that the dishes should soak. Pace keeps washing, tickles her side under the loose shirt, and Vee laughs, twists away, and swats him across the seat of his jeans. Pace turns off the tap. He comes after her slowly; she twists to protect her backside and moves into his hand. He swats her once with his left hand, warm and wet from dishwater, across the curve of her backside where the shirt has ridden up and only cotton underwear covers her. Vee has an immediate intense arousal response: nipples harden against the thin undershirt, her face changes, and she is unable to speak. She kisses Pace hard, opens his jeans with some fumbling, and walks him backward out of the kitchen while the pan soaks in the sink.
+
+Vee remains through Sunday evening wearing Pace’s clothes and smelling of his soap and shampoo. Monday morning she wakes late, remembers class, the drive, the dorm, and the impossibility of attending class in her Saturday-night dress. In the bathroom she panics over her hair and lack of her own things. Pace comes to the doorway drying his hands, asks what is wrong, gathers her hair back at her nape, kisses her behind the ear, and tells her, “You’re always beautiful.”

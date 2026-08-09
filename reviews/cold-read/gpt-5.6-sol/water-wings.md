@@ -1,264 +1,222 @@
 # Cold read — Water Wings
 
-*scene: scenes/water-wings.md · model: gpt-5.6-sol (OpenAI: gpt-5.6-sol) · read after: long-way*
+*scene: scenes/water-wings.md · model: gpt-5.6-sol (Codex subscription: gpt-5.6-sol) · read after: long-way*
 
 ## Reader reaction
 
-This chapter made me ache for Vee before it made me happy for her. Her walk past the bleachers — “the walk of a girl who had *meant* to arrive” — feels brave because I can see the work underneath it. The comments are banal and ugly, but the sharper hurt is that her body turns every public space into somewhere she has to brace. “It fit, and it gave her nowhere to hide” lands particularly hard after all the cardigan-hiding and her mother’s policing.
+This chapter made my body unclench. The pool entrance is tense and exposing—Vee’s suit “fit, and it gave her nowhere to hide”—but once she goes under, I felt the relief with her. “Something in her chest that had stood at attention all afternoon quietly sat down” is the chapter’s emotional center for me. The grief afterward landed just as strongly: she loved swimming “before she had a body to be a problem,” and the water is the one part no one has managed to spoil.
 
-Cassie moves decisively upward for me here, from observant and dry to deeply loving. She protects Vee without making a performance of protection: she keeps “They will never know the love of a woman” private rather than playing to the bleachers, notices Vee return from underwater “with her face on wrong,” and refuses to interrogate her sadness. The water fight is exactly the right kindness because it gives Vee a way back into her body without demanding an explanation. I trust Cassie more than anyone in the book right now.
+My affection for Cassie rises sharply. Her refusal to perform femininity is funny and solid, but what really moves me is how exactly she cares for Vee. She keeps “They will never know the love of a woman” private instead of turning it into a show for the bleachers. Then she notices Vee has surfaced “with her face on wrong,” doesn’t demand the story, and splashes her from ten feet away. Her tact feels intimate: she sees without cornering. For now, the text has earned my trust in Cassie more than in anyone else.
 
-Vee’s underwater passage is beautiful and painful. “She had loved this before she had a body to be a problem” is the emotional center for me. Underwater, being unseen is freedom rather than rejection: nobody wants anything from her, and her trained body belongs entirely to her. The line that she “grieved, a little” feels earned without my knowing precisely what she grieves — childhood, the body becoming public property, synchronized swimming, or all of it.
+Vee makes me feel protective, but not because she seems helpless. Her deliberate entrance and dismissive responses show practiced resilience. What hurts is the cost beneath that competence: “fifty yards of held breath,” the belief that merely having her body in public makes it a problem, and the small grief for the girl who once belonged to herself more easily. Her underwater suspension has a faint sensual charge—the cold, the heartbeat, the feathering palms, weightlessness—but this is not an erotic scene for me. It is bodily release from erotic scrutiny. The boys’ comments deliberately kill rather than create heat.
 
-There is no erotic heat for me here, despite the attention to Vee’s figure and the men’s comments. Their gaze kills rather than creates charge. The sensuousness of the water is bodily but private and restorative. The strongest physical pleasure comes from weightlessness, silence, and finally the ugly shriek-laugh with Cassie.
+I had almost no friction. “The body that was such a problem stayed up on the deck with the rolled towel” is emotionally beautiful, though it presses the metaphor a little harder than the preceding action needs; I had already felt the transformation through the splashing. Still, it did not break the spell.
 
-Nothing about either woman feels off. Cassie’s sensitivity is textually earned by everything I have already seen from her. My only slight friction is that “Whatever she'd carried up from the bottom didn't survive it” resolves the grief very completely, very quickly; emotionally I believe the splashing interrupts it, but not that it is truly gone. The following sentence’s “You can't grieve and fight your best friend” works better for me because it describes temporary bodily incompatibility rather than a cure.
+“Water Wings” first sounds like the childish floaties invoked by the heckle, but the chapter reverses that insult. Vee needs no artificial support in water; she already knows how to be held by it, and Cassie gives her another kind of buoyancy without making a production of rescuing her. The title did not give away the grief, only pointed toward swimming and support.
 
-“Water Wings” first sounds like the floaties the men crudely joke Vee does not need because of her breasts. By the end it points somewhere kinder: Vee needs no artificial buoyancy in water, and Cassie helps her stay up emotionally without treating her as helpless. The title gave away the pool setting and invited the breast joke, but not the chapter’s emotional turn.
+*A Polite Invitation* now feels more ominous by contrast: this chapter gives Vee a refuge from being invited, watched, interpreted, or wanted. *With a Long Spoon* remains unexplained beyond the earlier literal spoons. The tagline still hangs over the lovely freedoms Vee experiences: her yeses may be genuine, but Pace and Randi know the shape around them and she does not. Here, though, Cassie asks for nothing. I want more of this friendship, and I dread Pace or Randi entering this bodily refuge and turning it back into a place where Vee is watched. That is only a guess from here.
 
-*A Polite Invitation* feels more ominous after this quiet chapter because I now understand another thing Vee wants relief from: being looked at as a body people can publicly claim. Pace’s courteous asking will feel especially powerful beside the bleachers’ entitlement. *With a Long Spoon* still evokes appetite, sweetness, and something approached carefully from a distance. The tagline remains the shadow over all this: Vee’s future yeses may be genuine precisely because Pace and Randi offer attention so unlike the invasive attention she receives here. My guess from here is that Cassie will become the person most capable of noticing when Vee’s joy and the story behind it do not quite match. I want more of this friendship, and I dread Vee eventually discovering that the people who seemed to see her most respectfully first chose her while watching from afar.
+**Cast present (in person):** Vee and Cassie; unnamed male hecklers in the bleachers and an unnamed lifeguard are also physically present. **Mentioned only:** no named character.
 
-**Cast present (in person):** Vee, Cassie; unnamed male hecklers in the bleachers and an unnamed lifeguard are physically present.  
-**Mentioned-only:** No named characters.
+**Heat:** 0 — bodies and sexual harassment are present, but the chapter drains scrutiny of erotic pleasure.
 
-**Heat:** 0 — bodily exposure and catcalling, but no erotic charge or sexual activity.
+**Romance:** 1 — no romance, but strong, intimate warmth in Cassie’s quiet care for Vee.
 
-**Romance:** 1 — no romance, but strong intimate friendship and loving attunement between Cassie and Vee.
+**Motifs & images:** Repeat—looking and being seen, held breath, laughter, bodies under judgment, water/cold, hands, appetite for uncomplicated belonging. First sighting—the rolled towel, locker-key wristband, dark boundary stripe, underwater light, sculling figure-eights, and splashing as rescue.
 
-**Motifs & images:** Repeat: face as armor; looking and being seen; body/display; held breath; laughter; trained bodily movement; water; keys; cleaning smell. First: underwater silence, the dark stripe, weightlessness, sculling figure-eights, water fighting, and the body metaphorically left on deck.
+**Symbolism:** Water becomes belonging without scrutiny; crossing the dark stripe releases Vee from the floor and from social vigilance. The rolled towel left on deck gathers the burden of the body she has been taught to regard as a problem.
 
-**Symbolism:** Water becomes Vee’s private belonging before her body was made into a public problem. Crossing the dark stripe and losing the floor reads as surrendering ordinary support without losing competence. The rolled towel left on deck comes to stand for the socially judged body she can briefly set aside. Cassie’s deliberately inadequate splash is an invitation back rather than a rescue.
+**Characterization:** Vee deepens through her old synchronized-swimming competence, grief, and practiced public armor. Cassie deepens substantially: her bluntness now reveals exceptionally tactful care. The hecklers remain deliberately anonymous and flat.
 
-**Characterization:** Vee deepens through her history with synchronized swimming and her grief over bodily scrutiny. Cassie deepens substantially: her refusal to ask and her comic water attack reveal tactful, practiced care. The hecklers remain deliberately faceless social noise.
+**Pace — within the chapter:** The entrance and heckling tighten quickly; the underwater passage slows enough to earn its weight; the water fight releases the scene without rushing it.
 
-**Pace — within the chapter:** Quick and clean. The underwater suspension slows beautifully; the water fight releases it without overstaying.
-
-**Pace — chapter to chapter:** The hidden courtship pauses, but momentum does not sag. This broadens Vee and Cassie just after Pace’s intimate date with Vee, making both Vee’s vulnerability and Cassie’s importance clearer.
+**Pace — chapter to chapter:** The romantic momentum pauses, but the emotional momentum holds. Moving from Pace’s attention to Vee’s private bodily history and Cassie’s friendship broadens rather than stalls the run.
 
 ## Carry-forward state
 
-**Who’s who**
+**Principals**
 
-- **Miranda “Randi” — woman, seen in person.** Twenty-one-year-old sorority woman with black hair and striking blue eyes; wealthy, polished, socially controlled, dancer/cheer-trained, and Pace’s secret lover. She serves on Standards and receives a single room. After the bench she could not cry or complete ordinary actions and heard “He’s hard to say no to” differently. Four weeks into seeing Pace, she acknowledged wanting to taste a woman only through a threesome “with you,” chose Vee in Pace’s hidden campus game, engineered their collision, befriended her in statistics, took her to Chi Latte, and made her feel intensely chosen. She covertly participated in Pace’s staged coffee-shop approach. After Pace texted Vee twenty minutes later, Randi took Vee’s phone, said Pace wanted her and wanted to see her naked, urged her to go, and dismissed the customary waiting rule because Vee was not unsure.
-- **Pace — man, seen in person.** Young mathematician and math PhD student living alone at the end of a long drive; Randi’s secret lover. Patient, strong, observant, sexually skilled, attentive to safewords and aftercare, and convinced exposing forbidden wants is a gift. Owns a white pickup and is not Randi’s instructor. He initiated the concealed selection game and sent Randi to meet Vee. He staged an apparently accidental coffee-shop meeting, tutored Vee without taking the solving away, listened to her ambitions, asked “May I call you?”, and took her number. Twenty minutes later he invited her for frozen yogurt. On their date he paid, held the door, walked the long way, waited fully for her answers, and received her confession of loneliness without minimizing or enlarging it.
-- **Vivienne “Vee” Thorne — woman, seen in person.** Tall, athletic, lushly hourglass-shaped red-haired junior with freckles, an uncurated manner, and a physically unguarded laugh. Studies economics, especially applied math and the gap between professed rationality and actual behavior. Her mother’s shaming voice polices attraction to women, clothing, display, appetite, and portions. Randi’s attention makes her feel admitted to a brighter life and chosen. She is attracted to Pace’s gaze, body, competence, restraint, listening, and courtesy, unaware he is Randi’s lover and both meetings were arranged. On their date she made an overflowing cup without hearing her mother’s limiting voice and admitted it was the nicest anyone had been to her in a long time. She did synchronized swimming at sixteen and retains deeply trained aquatic skill. Public scrutiny makes her put on a social face, but underwater she can feel unseen, weightless, and wholly herself. She grieves having acquired “a body to be a problem,” then finds release in a water fight with Cassie.
-- **Cassie — woman, seen in person.** Vee’s quiet classmate, dorm/home companion, and best friend. Boxy-framed, plain-spoken, resistant to Randi’s polish, highly observant, and indifferent to whether her old navy swimsuit flatters her. She noticed Randi’s phone and untouched coffee and Pace’s focused attention to Vee, but does not know Pace and Randi are lovers. She knows Vee’s history well enough to joke about her semester spent healing a business major in a video game. At the pool she privately mocks male hecklers, watches Vee return from underwater with “her face on wrong,” does not press her to explain, and starts a water fight that breaks Vee out of grief.
-- **Meg — woman, seen in person.** Dark-haired, easygoing friend from Vee’s floor who witnessed Randi’s engineered collision with Vee.
-- **Brooke — woman, seen in person.** President of Randi’s sorority chapter; polished, warm-voiced, and socially authoritative. Randi lied to her about a paper before visiting Pace. Brooke questioned her about the paper, Pace, his field, and whether he teaches Randi.
-- **Sloane — woman, seen in person.** Sorority sister with a laugh “available for anything”; identified Pace’s white pickup and made a status joke about a former boyfriend’s Raptor.
-- **Kinsey — woman, seen in person.** Sorority sister eager for group approval; asked whether Pace was “short-cute.”
-- **Statistics professor — man, seen in person, unnamed.** Soft-spoken, slide-checking professor who lectures with a laser pointer and introduced latent variables.
-- **Skateboard student — man, seen in person, unnamed.** Entered the statistics room while Vee waited for Randi.
-- **Pool lifeguard — gender not established, seen in person, unnamed.** Stationed at the recreation-pool desk to check that swimmers wear proper suits; has a radio audible in the pool room.
-- **Pool hecklers — men, seen in person, unnamed.** Men in the bleachers who comment publicly on Vee’s breasts and legs and laugh for one another’s approval.
-- **Randi’s mother — woman, mentioned-only, unnamed.** Associated with egg whites, tofu, judgment, restricted eating, and childhood pleas she would not grant.
-- **Vee’s mother — woman, mentioned-only, unnamed.** Her internalized voice shames revealing clothing, sexual display, “floozies,” attention a “nice girl” accepts, and portions with “that’s plenty, that’s enough now.” Her voice went silent while Vee built an overflowing frozen-yogurt cup.
-- **Vee’s grandfather — man, mentioned-only, unnamed.** Used to ask Vee questions as though her answer mattered and there were no wrong answers; Pace’s attentive questioning reminds her of him.
-- **Vee’s econ instructor — gender not established, mentioned-only, unnamed.** Taught that applied math turns the problem at hand into something already known.
-- **Vee’s econ TA — gender not established, mentioned-only, unnamed.** Reads unfamiliar problems structurally; Vee compares Pace’s reading to the TA’s.
-- **Vee’s professor — gender not established, mentioned-only, unnamed.** Has work relevant to the research project Vee discussed with Pace.
-- **Unnamed sorority sister — woman, mentioned-only.** Subject of Randi’s parking-ticket story at Chi Latte.
-- **Unnamed guy — man, mentioned-only.** Appeared in a portion of Randi and Vee’s café conversation Vee could not reconstruct.
-- **Unnamed business major — gender not established, mentioned-only.** Vee spent a semester staying up until two to keep this person alive in a video game.
+- **Randi (Miranda):** A twenty-one-year-old college junior and sorority woman with black hair, pale skin, startling blue eyes, a dancer’s body, and a meticulously maintained social surface. She is Pace’s secret lover and has known him for four weeks. After selecting Vee with Pace and cultivating an apparently spontaneous friendship with her, Randi helps interpret Pace’s first text twenty minutes after he leaves. She takes Vee’s phone to read his frozen-yogurt invitation, says Pace looked like a man who wants Vee and “wants to see you naked,” urges Vee to go, and rejects the rule about delaying a reply because Vee is not unsure. Her apparent intuition is supported by concealed knowledge of Pace’s desire and their shared plan.
+- **Pace:** A man living alone in a warm house at the end of a long drive, with a middle-class income, a muscular body, considerable woodworking skill, a white pickup, and a place in a mathematics PhD program; he says he is “finishing a PhD. More or less.” He has known Randi for four weeks. Patient, observant, sexually controlling, attentive to consent and physical safety, and tender afterward, he nevertheless treats bodily responses as knowledge of desires the conscious mind may not bear. Twenty minutes after leaving Vee’s study table, he texts to ask whether she likes frozen yogurt. On their date he studies flavor combinations as carefully as calculus, explains that tart provides a base for heavier flavors, pays for both cups, holds the door, takes a long purposeless walk with Vee, asks questions, and listens without interrupting or hurrying. When Vee confesses that this is the nicest anyone has been to her in a long time, he neither dismisses nor dramatizes it; he gives it space, then gently returns to her still-standing dessert.
+- **Vivienne Thorne / Vee:** A young college woman, tall and lushly hourglass-shaped, physically trained and balanced, with long dark-red hair that flashes copper, a tipped-up snub nose, and cinnamon freckles. She is capable and ambitious in statistics and economics and interested in the structures beneath apparently rational behavior. Her mother’s voice has taught her to shame publicly underdressed women, fear her own attractiveness, and regulate appetite. She is intensely drawn to Pace and elated by Randi’s friendship. A former synchronized swimmer, she still has the trained breath, sculling hands, and effortless strokes of the girl she was at sixteen, before she experienced her body as a public problem. At the rec pool she endures sexual remarks behind a practiced game face, then finds underwater weightlessness, privacy, grief, and an old uncomplicated belonging. Cassie’s tactful water fight brings her fully back into laughter.
+- **Brooke:** The sorority chapter president, buffed and expensively kept, with a warm voice and considerable social authority. She performs Saturday morning administration at the long table with the chapter laptop and spreadsheet. She questioned Randi pleasantly about her paper, whereabouts, Pace’s name, vehicle, studies, and possible teaching relationship, then dismissed her before Randi could use the answers she had prepared. Whether Brooke is concerned, suspicious, enforcing a rule, or simply gathering information remains unclear. She does not appear in this chapter.
+- **Cassie:** Vee’s terse, observant classmate, dorm friend, and now explicitly her best friend. Boxy-framed and indifferent to whether her old navy swimsuit flatters her, she prefers function to admiration and refuses to perform for the men heckling Vee at the rec pool. She quietly gives Vee the joke she needs, recognizes when Vee surfaces from an inward grief “with her face on wrong,” and does not question or approach her. Instead, she starts a water fight that restores Vee’s ugly shriek-laugh and leaves no room for grief. Her observation is confirmed as tactful, intimate care rather than mere reserve.
 
-**Motif & image ledger**
+**Relationship ledger**
 
-- **Locks, deadbolts, keys, and inaccessible thresholds — “The Bench”; “Standards”; “See You Later”; “Water Wings.”** Randi locks Pace’s doors; desire is a key turning; grief has no reachable door; Randi’s praise enters Vee like a key in a lock. At the pool Cassie wears the locker key around her wrist.
-- **Doors, invitations, and entrances — “The Bench”; “Standards”; “The Pointing Game”; “See You Later”; “Substitution”; “The Long Way”; “Water Wings.”** Pace holds doors while Randi closes them; Randi’s invitations conceal prior decisions. The café bell marks Pace’s arranged entrance and exit; “May I call you?” is a polite invitation. Pace’s text opens the date, and he holds the yogurt-shop door. At the pool Vee turns the required walk past the bleachers into an entrance.
-- **Bench/table and concealed purpose — “The Bench.”** Pace’s sexual bench looks like an innocent table when covered.
-- **Face versus hidden self — “The Bench”; “Standards”; “The Pointing Game”; “See You Later”; “Substitution”; “Water Wings.”** Randi’s polish protects her hidden self; Vee’s social face comes online under Pace’s gaze and briefly borrows Randi’s poised routine. At the pool Vee puts her face on to pass the bleachers; after surfacing, Cassie sees that she has come back “with her face on wrong.”
-- **Looking, watching, pointing, and being seen — all chapters; deepened “Water Wings.”** Randi is trained to be watched; Pace watches and selects; Vee is unknowingly chosen. Pace’s gaze makes Vee feel chosen. Pool hecklers publicly inspect Vee’s body; underwater, nobody can see her or want anything from her. Cassie watches without pressing.
-- **Apples, feeding, hunger, coffee, frozen yogurt, and portioning — “The Bench”; “The Pointing Game”; “See You Later”; “Substitution”; “The Long Way.”** Pace portions Randi’s apple and later says, “Let’s go feed you.” Randi buys Vee sweetness and holds coffee without drinking. Pace abandons coffee to focus visibly on Vee. Vee’s frozen-yogurt portion exceeds inherited limits; Pace pays without policing it.
-- **Warmth versus cold — all chapters; “The Long Way”; “Water Wings.”** Pace’s house and aftercare, warm voices and drinks, autumn air, and cold citrus recur. Frozen yogurt contrasts with Pace’s warmth. At the pool, cold rises from below while light comes down.
-- **Slowness/waiting versus hurry — all chapters; “The Long Way”; “Water Wings.”** Pace waits and delays; Vee waits for Randi and Pace. Pace texts quickly but walks and listens slowly. Underwater Vee stays until her lungs ask and then one beat longer.
-- **“Hi” / “hey” and loaded greetings — “The Bench”; “Standards”; “See You Later.”** Greetings mark intimacy, authority, or involuntary delight.
-- **Hands — all chapters; “The Long Way”; “Water Wings.”** Pace’s hands undress, strike, soothe, feed, hold, tutor, and return Vee’s pencil. Randi grips and raises coffee without drinking. On the date full hands carry cups, spoons, and napkins. Underwater Vee’s hands remember sculling; Cassie cups and drives water toward her.
-- **Polish/gloss versus living or useful bodies — all chapters; “Water Wings.”** Randi’s cultivated surface contrasts with appetite and spontaneous desire; Vee conceals her abundant body; Pace’s clothes and strength are useful. Cassie’s old plain suit has a job rather than a flattering function, while Vee’s fitting suit leaves no place to hide.
-- **Handmade wood versus legible expense — “The Bench”; echoed “Substitution.”** Pace’s value resists conventional status categories; Vee cannot fit his clothing or manner into familiar social shapes.
-- **Cashmere versus synthetic adequacy — “The Bench”; “Standards.”** Pace’s cashmere aftercare blanket contrasts with Randi’s sorority duvet.
-- **Blue and green — “The Bench”; “The Long Way”; “Water Wings.”** Randi’s blue eyes are prized; blue toenails are a deviation; the date moves into blue evening. The pool offers “swallowing green,” while Cassie wears navy and Vee green-and-white.
-- **Order, arrangement, systems, and assigned places — all chapters; “The Long Way”; “Water Wings.”** Pace folds clothes; Randi curates spaces and engineers meetings; seats assign proximity. Pace has a flavor system. The pool imposes suit rules and a single route past the bleachers, but underwater Vee’s old trained movements belong to her.
-- **Laughter, beats, and pitch-matching — “Standards”; “The Pointing Game”; “See You Later”; “Substitution”; “The Long Way”; “Water Wings.”** Sorority laughter enforces belonging; Vee’s laugh attracts Randi; she borrows Randi’s beat; Pace delights her. The bleachers’ laughter is male self-applause. Cassie’s private joke breaks Vee’s game face, and the water fight draws out Vee’s long-absent ugly shriek-laugh.
-- **Voice as perfume/warmth — “Standards”; “The Pointing Game”; “See You Later”; “Substitution.”** Warm voices convey authority or selection. Pace uses a smaller voice for permission and formal courtesy when asking to call.
-- **Held breath / not-crying / chest and stomach response — “Standards”; “The Pointing Game”; “Substitution”; “The Long Way”; “Water Wings.”** Randi’s emotional breath remains held; Vee’s chest quiets and races around Pace; her stomach drops at his text. At the pool the walk past the bleachers is “fifty yards of held breath”; underwater something in her chest sits down, and she stays beyond her lungs’ first request.
-- **“He’s hard to say no to” — “Standards”; echoed thereafter.** Randi’s unresolved agency question gains force as Vee readily accepts Pace’s courteous requests and Randi discourages delay.
-- **Water and drink without contact/completion — “Standards”; “Substitution”; transformed “Water Wings.”** Randi ran water without touching it and repeatedly raised coffee without sipping. Vee fully enters water and finds the private bodily release Randi could not reach.
-- **Dance, following, bodily training, and economical movement — earlier history; “The Pointing Game”; “See You Later”; “Substitution”; “Water Wings.”** Randi engineers contact through trained movement; Vee moves athletically; Pace moves with nothing wasted. Vee’s synchronized-swimming training remains in her hands: towel rolling, sculling, turning, and automatic strokes.
-- **Autumn change, burning maple, and copper hair — “The Pointing Game.”** The early-changing maple parallels Vee’s conspicuous copper hair and transformation.
-- **Pointing and choosing — “The Pointing Game”; “See You Later”; “Substitution”; “The Long Way.”** Pace offers candidates; Randi chooses Vee; Vee feels chosen by both and chooses to answer Pace, while Randi knows her uncertainty is performative.
-- **Frames, camouflage, costumes, and ownership — “The Bench”; “The Pointing Game”; “See You Later”; “Substitution”; “The Long Way”; “Water Wings.”** Innocent surfaces conceal sexual or strategic function; Pace and Randi camouflage their relationship; frozen yogurt frames a potent date as casual. Swimsuits expose contrasting relationships to display, and Vee’s public “face” is a costume she can briefly leave behind underwater.
-- **Accident versus arrangement — “The Pointing Game”; “See You Later”; “Substitution”; “The Long Way.”** Randi’s collision and Pace’s approach appear accidental but are arranged. The date feels naturally generated though its access began in the game.
-- **Words versus feeling / body ahead of mind — “See You Later”; “Substitution”; “The Long Way”; “Water Wings.”** Vee retains Randi’s emotional effect without words and reacts bodily to Pace before interpretation. At the pool her hands know their old shape before she asks them, and play displaces grief through bodily action.
-- **Greek letters, signs, and admission — “See You Later.”** Entering Chi Latte with Randi makes an exclusive social language legible.
-- **High places/display — “See You Later”; “Water Wings.”** The high café table combines belonging and exposure. Pool bleachers elevate the men who publicly appraise Vee below them.
-- **Spoons stirring or carrying sweetness — “See You Later”; “The Long Way.”** Spoons raise submerged sweetness at Chi Latte and carry overflowing frozen yogurt, echoing *With a Long Spoon*.
-- **Latent variables — “See You Later”; “Substitution”; continuing beneath later chapters.** Hidden factors must be inferred from effects. Vee experiences Pace’s interest without knowing the concealed relationship and selection.
-- **Goodbye versus see you later / talk soon — “See You Later”; “Substitution.”** Cassie’s final-sounding “Goodbye” contrasts with Randi’s “later” and Pace’s “talk soon.”
-- **Right/wrong objects and placement — “See You Later.”** Wrong textbook, right pen, and the stair-in-the-wrong-place feeling of Cassie’s goodbye.
-- **Circles, substitution, and clean lines — “Substitution”; echoed “Water Wings.”** Vee’s integral returns to the start until Pace makes it solvable. Her sculling hands make small figure-eights that keep her submerged, turned, and hers.
-- **Right angles / crossed mark — “Substitution.”** Pace’s small cross joins two resistant elements into a usable whole.
-- **Pencils and retained agency — “Substitution.”** Pace takes Vee’s pencil with tacit permission and returns it where she can complete the work herself.
-- **Borrowed poise and reclaiming a name — “Substitution”; “Water Wings.”** Vee uses Randi’s practiced introduction, enjoys its success, then reclaims “Vee.” At the pool she deliberately performs an assured entrance before recovering a less guarded self with Cassie.
-- **Unknown numbers and hidden identities — “The Long Way.”** Pace’s number arrives as a stranger’s digits though he is secretly connected to Randi and knows more than Vee.
-- **Games, roles, and keeping someone alive — “The Long Way”; “Water Wings.”** Cassie recalls Vee serving as a healer in a video game, echoing the pointing “game.” Cassie’s pool game keeps grief from becoming the only available state.
-- **Overflowing cups / abundance escaping limits — “The Long Way.”** Vee builds too much frozen yogurt and lets it stand without her mother’s voice stopping her.
-- **Support, foundations, and things holding up — “The Long Way”; “Water Wings.”** Tart supports heavier flavors; Vee’s stack stands after confession. In the pool Vee loses the floor yet remains supported by water and her own skill.
-- **Long routes without destination — “The Long Way”; “Water Wings.”** Pace and Vee walk the long way without a destination. Vee must traverse the full bleacher length to reach water, turning an imposed route into an entrance.
-- **Cleaning beneath sweetness — “The Long Way”; “Water Wings.”** Lemon cleaner cuts through the yogurt shop’s sugary air; chlorine and floor cleaner mark the harsher, institutional pool environment.
-- **Boundaries, stripes, and crossing — first seen strongly in “Water Wings.”** The dark stripe marks where shallow water gives out; Vee crosses it willingly and lets her feet lose the floor.
-- **Weight, buoyancy, and artificial support — first seen in “Water Wings.”** The hecklers invoke “floaties” crudely; underwater Vee becomes weightless without artificial aid, supported by water and remembered skill.
-- **Noise versus underwater quiet — first seen in “Water Wings.”** The pool’s boom, radio, and applause-laughter switch off beneath the surface, leaving heartbeat, cold, and light.
-- **Splashing as wordless care — first seen in “Water Wings.”** Cassie offers a deliberately small splash that invites exaggerated retaliation and lets play interrupt Vee’s grief.
+- **Randi ↔ Pace:** No change. They do not appear in this chapter.
+- **Randi ↔ Vivienne / Vee:** No change. Randi does not appear, though Vee’s relief in a place where “nobody wanted anything” makes me more protective of the bodily self Randi is helping draw into a concealed sexual plan.
+- **Randi ↔ Brooke:** No change.
+- **Randi ↔ Cassie:** No change.
+- **Pace ↔ Vivienne / Vee:** No direct change. Pace does not appear. Vee feels briefly relieved from all wanting and scrutiny underwater; I now understand more sharply what his concentrated attention may both nourish and cost her.
+- **Pace ↔ Brooke:** No change.
+- **Pace ↔ Cassie:** No change.
+- **Vivienne / Vee ↔ Brooke:** No change. They have not appeared together or been connected on the page. I have no feeling about a relationship that does not yet exist.
+- **Vivienne / Vee ↔ Cassie:** Their friendship deepens decisively. Cassie protects Vee without claiming the protection: she keeps her joke private, sees Vee’s grief without asking her to enlarge it, and splashes her back into embodied joy. Vee feels safe enough to lose her game face and make her unguarded “ugly” shriek-laugh; I feel enormous affection and relief, and now trust Cassie as Vee’s best friend rather than merely hope she might become a warning voice.
+- **Brooke ↔ Cassie:** No change. They have not appeared together or been connected on the page. I have no feeling about a relationship that does not yet exist.
+- **Randi ↔ herself:** No change. She does not appear in this chapter.
+- **Pace ↔ himself:** No change. He does not appear in this chapter.
+- **Vivienne / Vee ↔ herself:** Vee’s relationship with her body separates into public burden and private competence. On deck she performs composure while feeling exposed; underwater she remembers a body that belongs to her, grieves what has been taken, and briefly leaves the “problem” of embodiment behind. She feels relief, sorrow, then uncomplicated play; I feel tenderness and anger that her freedom requires disappearing from view.
+- **Brooke ↔ herself:** No change. She does not appear in this chapter.
+- **Cassie ↔ herself:** Cassie’s indifference to admiration and preference for functional clothing are explicit. She neither joins the men’s spectacle nor makes her defense of Vee into one; she trusts quiet presence and play more than emotional interrogation. She appears wholly comfortable in her own refusal to perform, and I trust and admire her much more.
+
+**What I know that they don’t**
+
+- Pace does not know that “You’re beautiful” made Randi flinch because she heard it as tenderness directed at the self he had exposed, not merely praise of her face.
+- Pace does not know that Randi locked the bathroom door, cried again, reconstructed her social smile, and decided he could have the face while the self he found would not come out again.
+- Pace does not know that on returning home Randi was questioned before witnesses about her whereabouts and about him, then became unable to complete ordinary actions in her room.
+- Pace does not know that Randi heard her own phrase “He’s hard to say no to” in a different and frightening key and stopped herself from following the thought.
+- Pace believes the bench night was remarkably good and still believes he can recognize and gently provide a form for Randi’s hunger. Randi’s renewed responsiveness has not told him about the frightening shutdown, emotional concealment, or altered meaning of “hard to say no to.”
+- Randi does not know that Pace spent seven months building the bench but met her only weeks later.
+- Randi does not know that Pace noticed her pressing the bottle-cap edge beneath her thumbnail.
+- Randi does not know Pace remained hard during the bench encounter but consciously decided his gratification was not what that night was for.
+- Randi does not know what Brooke actually suspects, why Brooke gathered details about Pace, or whether anything was entered into the chapter laptop or spreadsheet.
+- Brooke, Sloane, and Kinsey do not know that Randi spent the night with Pace, had sex with him on the concealed bench, orgasmed, cried, stayed the night, and returned emotionally shaken; Randi told them she worked first with a study group and then at a late-open place on Wilson.
+- Pace and Randi still do not know one another’s full interpretation of the bench night: he reads revelation, trust, and successful care; she experienced ecstatic discovery followed by dangerous exposure and privately resolved to conceal the self he found.
+- Vee does not know that Pace and Randi discussed another woman during sex, that Pace brought Randi to campus with a private game in mind, that both selected her on sight, or that Randi deliberately arranged their first collision.
+- Vee believes the collision was genuinely ambiguous and remembers it as the kind in which neither person caused it.
+- Vee does not know that Randi’s apparently spontaneous friendship is connected to a sexual plan involving Pace.
+- Vee does not know that Randi’s warmth, touching, coffee invitation, study companionship, and promise of a later follow a prior decision that Vee was a “Yes.”
+- Vee does not know that Pace already knew who she was before crossing the coffee shop, or that his entrance into her study session appears coordinated with Randi.
+- Vee believes Pace happened to overhear her math difficulty, gave up his place in line because she attracted him, and met Randi for the first time at the table.
+- Vee does not know that Randi and Pace are secret lovers. She interprets Randi’s cup movements during Pace’s attention as boredom rather than possible jealousy, arousal, anxiety, or concealed coordination.
+- Vee does not know that Randi’s question about Bessel’s correction may have been a performance or intervention rather than a spontaneous need for help.
+- Vee does not know how much Pace’s excellent teaching, careful permission, quick text, and patient date fit an established pattern in which he creates a frame, lets a woman act freely inside it, and treats her response as discovery.
+- Vee does not know that Randi’s confidence about Pace wanting her naked is knowledge from his lover and collaborator rather than merely a friend’s reading of his gaze.
+- Pace and Randi may not know how completely Vee has invested in each of them: she experiences Randi as admission into a brighter life and now tells Pace that a frozen-yogurt date is the nicest anyone has been to her in a long time.
+- Pace may not know that Vee’s mother’s limiting voice ordinarily governs even the amount of dessert she serves herself, or that it fell silent during their date.
+- Pace may not understand how exceptional his listening feels to Vee, though her confession now tells him plainly that his kindness carries unusual weight.
+- Randi may not know the exact content of Vee’s vulnerable confession to Pace or how much intimacy their long walk created.
+- Pace and Randi may not know that public attention to Vee’s body feels like a sustained burden, that she grieves the time before she had “a body to be a problem,” or that underwater invisibility is an old refuge where nobody wants anything from her.
+- Vee may not know that Cassie was watching Randi’s texting and cup movements as closely as Pace’s attention.
+- Randi does not know how completely Pace has interpreted her “Only in a threesome. With you” as a strategy for relocating ownership of her desire.
+- Through the jacket, I know Randi and Pace decided that Vivienne should be the third in their bed and told her nothing about the game. The page has explicitly confirmed that Vee is Vivienne Thorne.
+
+**Motifs**
+
+- **Locks, doors, and access:** Pace’s unlocked front door, Randi’s immediate locking of it, the bedroom door he opens, the bathroom door she locks against him, the sorority doors she closes quietly, and the key-sized sensation inside her have made access inseparable from enclosure. Randi later holds classroom and café doors while admitting Vee into friendship and status; compliments enter Vee “like a key in a lock.” Pace enters the Wilson shop through a tinkling door and secures access through Vee’s phone. On their date he holds the frozen-yogurt shop door with his back while both have full hands. At the rec pool, a lifeguard checks clothing at entry and Cassie wears the locker key around her wrist; institutional access is explicit, while Vee reaches emotional privacy only by crossing the dark stripe into deep water.
+- **The face and the hidden self:** Randi’s polished face conceals the self Pace exposed on the bench; her restored smile has repeatedly covered distress, desire, and concealed coordination. Vee has begun borrowing Randi’s social timing while wanting her own name and self back. Vee searches for a flaw in Pace because wanting is difficult, then says a vulnerable truth and asks him to erase it. At the pool she “puts her face on” for the exposed walk, loses it in laughter, and surfaces from private grief “with her face on wrong”; Cassie recognizes the disturbance without demanding the hidden story.
+- **Looking and being seen:** Pace’s sustained seeing first exposed Randi and then made Vee feel chosen. Cassie has watched how attention is distributed while Vee explains away Randi’s tells. Pace’s listening made Vee experience attention as rare kindness. At the pool, male looking turns her body into public material, while underwater invisibility gives relief. Cassie’s watching is different: she sees Vee’s altered face without staring, asking, approaching, or taking possession of what she sees.
+- **Appetite, portions, and feeding:** Pace accommodates Randi’s restricted eating with thin apple slices and believes he can feed her deeper hunger; Randi rejects a cheeseburger because she “can’t,” then buys Vee a sweet drink without her choice being shown. Pace’s abandoned coffee becomes proof of desire. Vee’s excessive frozen yogurt escapes her mother’s limiting voice; Pace’s tart base supports heavier flavors, and he pays for both cups. At the pool, the hunger is for an “old uncomplicated belonging”: Vee stays underwater until her lungs ask for air and a beat beyond, taking a little more refuge than her body safely permits before surfacing.
+- **Surfaces hiding function:** The bench passes as furniture while concealing erotic purpose; the sorority house’s warmth conceals hierarchy; the pointing walk, engineered collision, friendship, tutoring, and chance-seeming coffee-shop approach conceal the sexual game. The frozen-yogurt invitation is a genuinely lovely date while also advancing the plan Vee cannot see. At the pool, the literal surface divides two worlds: above it Vee’s body is watched and wanted; beneath it she is weightless, unseen, and her own. Breaking the surface restores “the whole business” of public embodiment.
+- **Warmth and cold:** Pace’s warm house and care contrast with Randi’s cold citrus, cold-cornered sorority house, and private shutdown. The frozen-yogurt shop and cool blue evening retain emotional warmth through Pace’s presence. In the pool, cold rises from below but does not signify rejection; it belongs to the green quiet where Vee feels safe, steady, and free of demand.
+- **Waiting and slowness:** Pace has repeatedly made patience erotic and safe by delaying touch, waiting outside locked doors, spacing choices, reading slowly, and giving women time to act inside frames he designed. He texts Vee after twenty minutes but waits through her answers on their date. At the pool, Cassie waits in water only to mid-rib, tells Vee “I’ll be right here,” and remains planted while Vee goes into the deep, grieves, and returns. Her waiting creates safety without directing Vee’s inward journey.
+- **“Hi” and economical speech:** Small words have carried contact before performance returns: Randi and Pace’s “Hi,” Randi’s bare “Yes” to Vee, Vee’s immediate “Yes” to Pace’s request to call, and Pace’s restrained “All right” before Vee’s confession. Cassie’s economical care appears in “Tossers,” “They will never know the love of a woman,” “Go on,” and “I’ll be right here.” She says only enough to relieve or steady Vee and never asks her to narrate the sadness.
+- **Laughter and matching:** Randi’s social laughter disguises desire, while Vee’s unguarded laughter first attracts Randi and grows around both secret participants. Pace’s serious flavor system makes Vee laugh and quietly pleases him. At the pool, Cassie’s private joke breaks Vee’s game face, and their water fight restores an “ugly” shriek-laugh she has not made in a while. This laughter does not reward courtship or performance; it returns Vee to old friendship and play.
+- **Held breath and bodily drops:** Randi’s tears and held breath mark control giving way. Pace’s text makes Vee’s stomach drop “like a stair missed in the dark.” At the pool, Vee releases “fifty yards of held breath” when Cassie makes her laugh, then deliberately holds her breath underwater until her lungs ask and one beat beyond. Breath moves from social bracing to chosen bodily limit.
+- **Dance, following, and control:** Pace establishes frames; Randi follows, breaks frame for Vee, then leads Vee socially through doors and choices. Pace’s tutoring restores Vee’s competence through precise guidance; their long walk feels destinationless though he shapes it. Vee’s synchronized-swimming training survives in the towel roll, breath, slow scull, turning, and effortless strokes. In water, old disciplined movement belongs wholly to her and requires no leader.
+- **Pointing, choosing, and permission:** Pace selected the field and let Randi pick; Randi selected Vee’s café experience and helped remove her delay in accepting Pace’s invitation. Vee’s yes remains hers inside concealed arrangements. At the pool Cassie points only with her chin toward the deep and says “Go on,” while remaining where she promised. Vee chooses how far to go, how long to stay, and when to return; Cassie’s permission does not conceal a destination or demand.
+- **Burning and red:** The lone orange maple and Vee’s copper-flashing dark-red hair joined her to vivid, premature change. No new charged instance appears in this chapter.
+- **Words disappearing, feelings remaining:** Vee could not reconstruct Randi’s first hour of words but retained being chosen; Pace’s exact small words remain because restraint enlarges their feeling. Vee asks Pace to erase an embarrassing truth, and he lets it stand without enlargement. At the pool, Cassie does not ask for the “sad version” because questions can make it bigger; she replaces explanation with a precisely judged splash, and the feeling changes without ever being put into words.
+- **Latent variables and inference:** Vee studies the gap between stated and actual behavior while misreading concealed determinants around her. Randi uses Pace’s abandoned coffee, fast text, and gaze as evidence while hiding her decisive knowledge as his lover. At the pool, Vee reads the boys’ laughter correctly as mutual applause rather than admiration addressed to her, and Cassie reads Vee’s wrong face without forcing an explanation. Here inference is accurate and protective.
+- **Goodbye and later:** Cassie’s “Goodbye, Vee,” Randi’s “See you later,” and Pace’s “talk soon” placed competing claims on Vee’s future; Pace fulfilled “soon” after twenty minutes. Cassie’s earlier goodbye now sits beside her promise at the pool, “I’ll be right here,” which she keeps without moving closer or making Vee account for where she went.
+- **Greek signs, spoons, and belonging:** Chi Latte’s sign marked Vee’s admission into social literacy, while spoons stirred sweetness from the bottom. Vee later grabbed spoons and napkins for herself and Pace at the frozen-yogurt shop. At the pool, belonging lies beneath another bright surface and is made through her hands’ old figure-eight scull rather than a spoon; *With a Long Spoon* remains unexplained beyond its literal echoes.
+- **Circles, right angles, and substitution:** Pace transformed Vee’s circular calculus trap through a right-angled substitution, while socially substituting courteous chance meetings for the hidden game. The frozen-yogurt date continues that substitution through ordinary romantic form. Underwater, Vee’s palms trace little figure-eights to keep her submerged and turned; unlike Pace’s substitutions, this old shape is her own knowledge and preserves her autonomy.
+- **Hands, pencils, and retained agency:** Pace returned Vee’s pencil where she could complete the work herself; Randi hid one hand around her cup and later took and returned Vee’s phone; Pace paid before Vee could reach her wallet; Vee independently gathered spoons and napkins. At the pool, Vee’s hands remember how to roll the towel, scull, stroke, and send water back. Cassie uses her cupped hands not to seize or guide Vee but to offer a playful interruption from a respectful distance.
+- **Structures that hold:** Pace gave Vee a mathematical structure that let her solve the integral herself, then described tart as a foundation beneath heavier flavors; Vee’s overfilled dessert remained standing. In the pool, the floor slopes away and stops holding her, yet the water holds her through movement she already knows. Cassie stays planted where she can stand, while Vee’s competence lets her belong where there is “nothing holding her and nothing to hold.”
+- **Bodies as problems and bodily refuge:** Randi’s body has been disciplined through beauty, food, sorority presentation, and Pace’s erotic frames; Vee’s cardigan and internal maternal voice conceal and regulate her lush body. At the pool, Vee’s too-small-in-memory swimsuit exposes the more abundant body she now treats as a problem, and male comments turn that body into public entertainment. Underwater, before surfacing into “the whole business of having a body,” she recovers the girl who loved swimming before embodiment became shame; play with Cassie then lets the problem-body remain figuratively on deck.
 
 **Symbolism noticed**
 
-- The bench disguised as a table represents hidden function beneath an ordinary surface.
-- Thin apple slices represent restricted appetite and permitted nourishment.
-- The face functions as protective armor.
-- Locks and keys suggest access, privacy, consent, and inner thresholds.
-- The missing inner door suggests Randi cannot reach her grief.
-- Pace’s handmade furniture suggests unrecognized value and concealed private purpose.
-- The removable tabletop suggests concealment can be restored without changing what lies beneath.
-- Randi’s single room represents privilege and isolation.
-- Her orderly closet reflects the curated self failing to organize emotion.
-- Synthetic duvet versus cashmere contrasts impersonal safety with dangerous tenderness.
-- Untouched running water suggests cleansing or self-care Randi cannot enter.
-- Brooke remaining seated embodies authority without overt force.
-- Matched laughter represents belonging through imitation; Cassie’s refusal marks resistance.
-- “He’s hard to say no to” turns flirtation into an agency question.
-- Campus architecture mirrors direction of attention and choice.
-- The burning maple suggests early, conspicuous transformation.
-- Vee’s hair and laugh represent physical freedom Randi wants.
-- The pointing game represents real choice within a concealed structure.
-- The staged collision represents hidden agency beneath apparent accident.
-- “Let’s go feed you” links desire, restriction, and Pace’s provision.
-- Bolted paired seats suggest intimacy constrained by structures.
-- Latent variables represent hidden motives inferred through visible behavior.
-- Chi Latte’s threshold represents admission to an exclusive social life.
-- The high window table combines belonging, elevation, exposure, and display.
-- Vee’s cardigan represents inherited shame and bodily concealment.
-- Spoons stirring sweetness suggest submerged appetite being raised.
-- The blank conversational transcript with retained feeling suggests attention as intoxication.
-- Cassie’s “Goodbye” and Randi’s “See you later” embody competing futures.
-- The circular integral suggests being trapped in a structure that repeatedly returns Vee to the same place.
-- Mathematical substitution suggests changing a problem’s visible form so it becomes approachable; Pace’s arranged courtship substitutes apparent chance for hidden design.
-- The crossed right-angle mark suggests difficult elements made into one intelligible whole.
-- Returning the pencil represents preserving Vee’s felt agency: Pace supplies the route, but the final solving is genuinely hers.
-- Randi’s repeatedly unsipped coffee suggests contained feeling or an action she cannot complete.
-- Pace leaving without coffee signifies how completely his visible attention appears to choose Vee, though the choice preceded his entrance.
-- Vee’s overflowing frozen-yogurt cup represents appetite and abundance escaping her mother’s restrictions.
-- Pace’s flavor system suggests his tendency to arrange pleasures carefully so they hold together.
-- Tart supporting heavier flavors suggests a stable structure beneath abundance; the standing stack also reflects Vee’s vulnerability being allowed to remain intact.
-- The long, destinationless walk suggests intimacy built through patience and delay rather than openly stated ends.
-- The unknown number embodies Pace’s apparent newness to Vee and the larger identity and history hidden from her.
-- Lemon cleaner cutting through sugar suggests a sharp or sterile undertone beneath sweetness.
-- The required walk past the bleachers represents the public trial Vee must undergo to reach private bodily freedom.
-- The pool’s dark stripe marks a threshold between standing on an ordinary foundation and trusting her own skill in depth.
-- Underwater weightlessness represents relief from the social meaning imposed on Vee’s body.
-- The bright moving surface seen from below becomes a boundary between public scrutiny and private belonging.
-- Vee’s old sculling figure-eight represents bodily knowledge that predates shame and still belongs to her.
-- Randi’s untouched running water versus Vee’s full immersion contrasts unreachable relief with relief Vee can still enter.
-- The body left symbolically on deck with the towel represents a temporary separation from scrutiny, shame, and public appetite.
-- Cassie’s small splash represents care that does not demand confession: an invitation back into play rather than an attempted rescue.
-- “Water wings” shifts from the hecklers’ breast joke to Vee’s natural buoyancy and Cassie’s emotional support.
+- The bench stands for concealed capacity: ordinary furniture can remain “full of what it was,” as Randi’s polished face covers needs and experiences that do not cease to exist.
+- Locks mark control over intimacy. They can create safety with someone, safety from someone, or an inward defensive seal; access offered through courtesy can also admit Vee into a structure that encloses her.
+- Food represents permitted appetite. Pace and Randi repeatedly arrange what and how women consume; Vee’s excessive frozen yogurt marks a rare moment when her mother’s internal limit falls silent and her own wanting exceeds its portion.
+- The cashmere blanket is both care and cover, while the synthetic duvet at home provides cover without Pace’s warmth.
+- The sorority house stands as an external version of Randi’s social self: lovely, orderly, smiling, and cold in the corners.
+- Randi’s orderly closet represents the controlled system by which she makes herself socially legible; its temporary failure marks her emotional shutdown.
+- “He’s hard to say no to” symbolizes the split between the acceptable story of desire and a meaning Randi cannot yet face.
+- The pointing game symbolizes choice arranged by another person: Randi genuinely picks, but Pace selects the field, establishes the rules, withholds the plan, and grants permission.
+- The engineered collision symbolizes polite deception: Vee freely enters conversation because Randi makes design look accidental.
+- The lone burning maple beside Vee’s copper hair makes her an image of premature or irresistible change.
+- Chi Latte’s Greek-letter sign symbolizes social literacy and admission; the high table symbolizes belonging through display.
+- “Latent variables” symbolizes the concealed determinants beneath visible behavior: Pace’s role, Randi’s prior selection, Cassie’s unspoken judgment, and motives Vee can only infer.
+- Cassie’s “Goodbye,” Randi’s “See you later,” and Pace’s “talk soon” symbolize competing claims on Vee’s future; Cassie’s “I’ll be right here” now offers constancy without claim.
+- The spoons suggest pleasure produced by stirring beneath bright surfaces and continue the unexplained echo of *With a Long Spoon*.
+- Vee’s cardigan symbolizes inherited shame and chosen concealment around her body.
+- The unsolved integral symbolizes a visible form that traps Vee; Pace’s substitution makes both mathematics and the concealed game tractable through a familiar form.
+- The right-angle cross symbolizes separate elements becoming legible when joined, echoing Randi and Pace’s hidden coordination.
+- The returned pencil symbolizes preserved local agency inside withheld larger knowledge.
+- Pace’s abandoned coffee symbolizes visible sacrifice offered as evidence of desire.
+- Randi’s repeatedly lifted but unsipped cup symbolizes feeling contained inside social performance.
+- Vee’s overfilled frozen-yogurt cup symbolizes appetite released from maternal regulation. Its precarious survival suggests that wanting can exceed the approved portion without collapsing.
+- The tart foundation symbolizes Pace’s supportive method: he supplies structures that let heavier or messier things hold. That feels tender in Vee’s experience and troubling because he has also built the hidden structure around her.
+- The pool surface symbolizes the boundary between public embodiment and private belonging: above it Vee is watched and wanted; below it she is unseen, weightless, and her own.
+- The dark stripe where the shallow ends symbolizes a threshold from supported social ground into chosen surrender. Crossing it is safe because Vee possesses the skill and chooses the depth herself.
+- The rolled towel left on deck symbolizes the burdensome body Vee imagines she can temporarily set aside; the water fight lets her inhabit that same body through play rather than scrutiny.
+- Cassie’s deliberately undershot splash symbolizes care that does not announce itself as rescue: it reaches Vee without invading her grief or demanding gratitude.
+- “Water Wings” symbolizes forms of support. Vee needs no floaties in the literal water, but the water itself and Cassie’s steady friendship give her emotional buoyancy without making her helpless.
 
 **Open questions**
 
-- What exactly will Randi do about the bench experience and about Pace?
-- Will she keep the hidden self from Pace, or is pursuing Vee drawing it out?
-- Will Pace notice Randi’s distress, including her behavior with the coffee cup?
-- Is Randi’s strain during Pace’s courtship jealousy, anxiety, desire, guilt, or several at once?
-- How will Randi ultimately feel about Pace?
-- Can she complete “He’s hard to say no to”?
-- What were the two unread notifications on Randi’s phone?
-- What taught Randi to brace for hurried pain?
-- Why is tenderness harder for her than pain or exposure?
-- What is the full nature of Randi’s relationship with her mother?
-- How much do Brooke and the sorority police Randi?
-- What does Brooke know or suspect about Pace?
-- Will Brooke pursue Randi’s lie?
-- What is Pace’s full background, and why did he begin the bench before meeting Randi?
-- What did Randi and Vee say during their first lawn conversation?
-- What precisely attracted Randi so strongly to Vee?
-- When will Vee learn the collision and coffee-shop meeting were deliberate?
-- When will Vee learn Pace and Randi are lovers?
-- What account will Randi and Pace give for their connection?
-- How will they continue concealing the pointing game?
-- Will Randi experience the pursuit as her choice, Pace’s gift, or both?
-- What happens if Randi later says no after Pace treats desire as established?
-- What will the cover tagline mean across all three relationships?
-- What further invitation will make the book title literal?
-- What will *With a Long Spoon* mean?
-- What did Cassie perceive in Randi, and why did she previously say “Goodbye”?
-- Will Cassie notice contradictions in Pace and Randi’s supposed unfamiliarity?
-- How much romantic or sexual experience has Vee had?
-- How consciously does Vee understand her attraction to women?
-- How deeply has Vee’s mother shaped her shame and choices?
-- Will Vee continue concealing her body?
-- Did “Love you, girl” carry special weight for Randi?
-- What was Randi’s key-like flattering remark?
-- What did Randi and Vee discuss at Chi Latte, including the unnamed guy?
-- What meeting did Randi leave to attend?
-- Will Vee’s distraction from statistics matter?
-- Will Cassie become confidante, skeptic, or someone Vee leaves behind?
-- How quickly will Randi make good on “See you later”?
-- How much of Pace’s coffee-shop approach did Randi and Pace plan in advance?
-- Was Pace texting Randi while she appeared to be texting “some boy”?
-- Why did Pace choose the math-help entrance?
-- How young is Pace, and what does “finishing a PhD—more or less” conceal?
-- Will Vee’s proposed economics research project become important?
-- How will Vee interpret Pace’s greater attention once she knows his relationship with Randi?
-- Will Randi be able to keep encouraging the courtship once it becomes physically or emotionally real?
-- Did Pace and Randi plan the immediate frozen-yogurt invitation, or did he choose it independently?
-- Will Pace tell Randi what Vee confessed on their walk?
-- What deprivation lies behind Vee saying this is the nicest anyone has been to her in a long time?
-- What was Vee’s relationship with her grandfather, and is he still alive?
-- Who was the business major Vee kept alive in the video game, and does that history matter beyond showing her caretaking nature?
-- When will the first physical intimacy between Pace and Vee occur?
-- How will Randi react when Pace and Vee’s emotional connection becomes unmistakable?
-- Why did Vee stop synchronized swimming, and what does “back before any of it” encompass?
-- What precisely was Vee grieving underwater: childhood, bodily scrutiny, the loss of swimming, or several losses at once?
-- How long has Cassie understood this vulnerable part of Vee, and what other sadnesses has she learned not to enlarge?
-- Will Vee tell Cassie about Pace’s date and her confession of loneliness?
-- Will Cassie’s ability to read Vee’s “wrong” face help her detect trouble in the hidden courtship?
+- Will Randi maintain the decision never to let Pace see the exposed self again, or has her renewed openness already complicated that resolve?
+- How will Randi reconcile her exhilaration with the frightening aftermath of the bench encounter?
+- What did Randi hear inside “He’s hard to say no to,” and will she eventually let herself complete that thought?
+- Why had Pace been building the bench for nearly seven months before meeting Randi, and what did he originally intend for it?
+- Will Randi tell Pace that invoking Brooke crossed an emotional boundary she had not anticipated?
+- What does the pressure behind Randi’s controlled relationship with food, beauty, her mother, and her sorority conceal?
+- What exactly does Brooke suspect, and was her questioning personal curiosity, ethical concern, or chapter business?
+- Did Brooke record anything about Randi or Pace in the chapter laptop or spreadsheet?
+- How does Randi’s role in Standards require her to exercise over other women the same authority she experiences from Brooke?
+- What will happen when Brooke or the sorority’s judgment becomes more overt rather than merely implied through polite questions?
+- How much of the game will Randi and Pace conceal from Vee, and for how long?
+- How can Vee’s future consent be free when her selection, first meeting with Randi, friendship, and first meeting with Pace are all concealed constructions?
+- Will Randi ever recognize the engineered encounters as ethically different from spontaneous flirtation?
+- Will Pace’s careful consent practices protect anyone from the emotional consequences of the framing and information he withholds?
+- Will Randi choose future steps herself, or continue looking to Pace for permission after her desire appears?
+- What does *With a Long Spoon* mean beyond the literal spoons at Chi Latte and the frozen-yogurt shop?
+- What did Cassie mean by “Goodbye, Vee,” and what passed over her face before she said it?
+- How much has Cassie inferred from Randi’s texting, cup movements, and cool relationship with Pace?
+- Does Cassie distrust Randi, recognize Vee’s infatuation, fear losing Vee, suspect coordination, or know something else?
+- How conscious is Randi of the scale of Vee’s attraction and social longing?
+- Will Vee recognize her desire for Randi as sexual, or continue holding it as the gladness of being chosen?
+- How deeply has Vee’s mother’s voice shaped her shame about women’s bodies and appetite, including her own?
+- What was the “guy” Randi discussed with Vee during their first coffee, and did she mention Pace or substitute another story?
+- What meeting did Randi leave that coffee to attend?
+- Will Vee’s distraction from statistics remain temporary or become part of what being chosen costs her?
+- Why could Vee retain almost none of Randi’s actual words from their first hour?
+- Was Randi texting Pace immediately before he entered the Wilson coffee shop?
+- What did Randi feel while Pace focused so completely on Vee: jealousy, arousal, anxiety, pleasure, fear, or some mixture?
+- Why did Randi ask Pace about Bessel’s correction when she said she already knew the answer?
+- How much of Pace’s encounter with Vee was rehearsed, and how much did he improvise from genuine interest?
+- What version of himself and his connection to Randi will Pace continue to present?
+- How long can Randi and Pace plausibly perform unfamiliarity in front of Vee and Cassie?
+- What research project does Vee want to pursue, and will Pace’s interest help her develop it?
+- Why is Pace “more or less” finishing his PhD, and why does Vee think he seems young for it?
+- Will Vee eventually recognize that her interest in the gap between stated and actual behavior describes the relationships forming around her?
+- How will Pace respond now that Vee has told him his basic kindness is unusually precious to her?
+- Will Pace tell Randi about Vee’s confession and the emotional intimacy of their walk?
+- What earlier relationship or deprivation made ordinary listening feel like the nicest treatment Vee has received in a long time?
+- Will Vee’s newly unregulated appetite remain pleasurable, or will her mother’s voice return with shame afterward?
+- What was the business major’s relationship to Vee, and does Cassie’s healer joke imply a pattern of Vee sustaining other people at her own expense?
+- What happened between Vee’s synchronized-swimming years and now to make her experience her developed body as a problem?
+- Has Vee stopped synchronized swimming because of ordinary circumstance, because her body changed, because public scrutiny spoiled it, or for another reason?
+- Will Vee be able to carry the pool’s sense of bodily ownership into her relationships with Pace and Randi?
+- Will Pace or Randi ever see Vee in the water, and if so, will their desire preserve or disturb the refuge she finds there?
+- What exactly did Cassie infer from Vee’s altered face after she surfaced, and how much of Vee’s history with body shame does she know?
 
-**Running memory — story so far**
+**How I feel**
 
-The jacket says Randi and Pace are secret lovers who choose junior Vivienne Thorne as a third without telling her, and that all three will develop real feelings.
+- **Randi:** Strong attraction and sympathy, with sharply increased distrust. Her confidence while reading Pace’s desire and waiving the waiting rule is seductive, but she is using concealed knowledge to guide Vee deeper into the plan.
+- **Pace:** Extremely attracted to his bodily economy, intellectual generosity, patient listening, and refusal to exploit Vee’s confession. My trust remains very low. His kindness feels authentic, which makes the concealed design more dangerous.
+- **Vivienne / Vee:** Deep attraction, sympathy, and protectiveness. Her underwater competence and grief make her feel both stronger and more vulnerable: she owns her body most fully where nobody can see or want it. I am relieved by her joy with Cassie and dread anyone turning this refuge into another scene of scrutiny.
+- **Brooke:** Wary and intimidated. Her warmth may be sincere and her concern may be legitimate, but I distrust how completely she controls inquiry while leaving herself deniable.
+- **Cassie:** Strong trust, affection, and admiration. Her refusal to perform, exact perception, respectful distance, and absurdly well-judged splash establish her as Vee’s best friend and safest relationship on the page so far.
+- **Overall mood:** Cleansed, aching, and briefly joyful. The hidden game recedes while Vee retrieves an older self beneath the water, and Cassie’s friendship gives her a form of care untouched by seduction or concealed design.
 
-In **“The Bench,”** Randi visited Pace after lying to Brooke. Pace fed her thin Honeycrisp slices and revealed a handmade walnut-and-leather sexual bench disguised as a table. At Randi’s “Show me,” he undressed her, checked comfort and safeword, spanked and edged her, and invoked her sorority’s imagined gaze. Her consent felt internally complicated: she had consented to the position but not everything it exposed. After climaxing and crying silently, she heard Pace say, “There you are, Randi.” He gave careful aftercare. She locked herself in his bathroom, cried unseen, reconstructed her social face, and resolved to hide the self he had reached. Pace mistook the repaired smile for genuine recovery and held her overnight.
+### Chapter record
 
-In **“Standards,”** Randi returned to the sorority house in last night’s clothes. Brooke, Sloane, and Kinsey questioned and joked about Pace while Randi performed acceptable answers. Alone, Randi became unable to complete ordinary actions, ignored two notifications, ran water without touching it, and lay under her synthetic duvet. “He’s hard to say no to” sounded newly troubling, but she could not complete the thought or reach her tears.
-
-In **“The Pointing Game,”** four weeks into the relationship, Pace asked during sex whether Randi wanted to taste another woman, then confirmed the desire later. Randi allowed it only as a threesome “with you.” Pace understood the protective framing and accepted it. On campus he pointed out women while Randi chose. She rejected several and gave an unguarded “Yes” to a tall, freckled redhead laughing with her whole body. Pace sent her to meet the woman. Randi engineered an accidental collision and learned she was Vee from her statistics class. Randi returned glowing, and Pace said, “Let’s go feed you.”
-
-In **“See You Later,”** Vee waited for Randi in statistics with Cassie. Randi intentionally found her, sat beside her, touched and praised her, and invited Vee and Cassie to Chi Latte. Cassie declined with an oddly final “Goodbye, Vee.” At the café, Vee felt admitted to an exclusive social world. Her mother’s shaming voice policed her interest in women’s bodies and her own concealed figure. Randi bought her a lavender oat-milk latte, listened for an hour, hugged her, said “Love you, girl,” and promised “See you later.” Vee retained the feeling of being chosen more strongly than the conversation itself.
-
-In **“Substitution,”** Vee, Randi, and Cassie studied at a coffee shop on Wilson. Vee was stuck on an optional economics challenge problem involving a difficult integral. Randi advised leaving it, but Vee insisted. Randi texted someone while Cassie watched skeptically. Pace entered, pretended to be a stranger, and politely offered math help. He validated Vee’s failed approaches, showed her a substitution, and returned her pencil so she could complete the work. Vee was exhilarated by the mathematics and his restraint. Pace listened to her academic interests, said he was finishing a math PhD, asked “May I call you?”, and took her number. Randi encouraged Vee to date him; Cassie observed that he looked at Vee as though no one else existed.
-
-In **“The Long Way,”** Pace texted Vee twenty minutes later to ask whether she liked frozen yogurt. Randi took Vee’s phone, said Pace wanted her and wanted to see her naked, and urged her not to follow arbitrary waiting rules. That evening Vee and Pace met at a bright yogurt shop. Vee made an overflowing cup without hearing her mother tell her to stop. Pace paid and held the door. They walked the long way without a destination while he asked serious questions and waited fully for her answers. Vee admitted this was the nicest anyone had been to her in a long time and asked him to pretend she had not said it. Pace quietly allowed the confession to stand, then observed that her tart base and overflowing stack were still holding up.
-
-In **“Water Wings,”** Vee and Cassie go to the recreation pool, which requires proper swimsuits. Cassie struggles into an old plain navy suit she values for function, not appearance. Vee wears the green-and-white one-piece she wore for synchronized swimming at sixteen; it still fits but now exposes a fuller body she cannot hide. She rolls her towel with remembered training, puts on an assured social face, and walks the required length of the bleachers toward the water.
-
-Men in the bleachers make comments about Vee’s breasts and long legs, laughing for one another. Cassie privately calls them “tossers” and says they will never know the love of a woman, breaking Vee’s held-breath composure into laughter. Cassie stops rib-deep in the shallow end while Vee crosses the dark stripe, loses the floor, and submerges.
-
-Underwater, the room’s noise disappears. Vee sculls and turns by old instinct, feeling weightless, unseen, and free of anyone wanting anything from her. She remembers loving the water before she had “a body to be a problem”; the water is the part that was never taken. She stays a beat beyond her lungs’ request and grieves a little.
-
-When Vee surfaces, Cassie notices that she has returned “with her face on wrong” but does not ask for an explanation. Instead, from a respectful distance, she shoots a deliberately small sheet of water at Vee. Vee responds with exaggerated retaliation, and they begin a water fight. Cassie’s deadpan reaction makes Vee produce an ugly shriek-laugh she has not made in a while. Play interrupts the grief, and Vee imagines leaving the socially problematic body on deck beside the rolled towel.
-
-**Running memory — how I feel**
-
-- **Randi:** Strong attraction and sympathy mixed with alarm and sadness. Her affection and desire for Vee feel real, but she is actively converting an arranged pursuit into Vee’s belief in spontaneous attraction. Her insistence that Vee should not wait feels like steering because she already knows what Pace wants.
-- **Pace:** Extremely attractive in competence, restraint, physical presence, listening, courtesy, patience, and his refusal to shame Vee’s appetite or enlarge her confession. Less trustworthy with every success because those genuine virtues operate inside deliberate deception. The pool chapter makes his respectful attention feel even more potent beside the public entitlement Vee ordinarily faces.
-- **Vee:** Deep affection, attraction, and protectiveness. She is intellectually serious, stubborn, playful, loyal, hungry for attention that values her answers, and painfully unused to sustained kindness. Her freedom from her mother’s portioning voice was joyous. I now also feel grief for how thoroughly public scrutiny has turned her body into a problem in her own mind. Her underwater competence and ugly laugh make her feel more fully alive and more securely herself.
-- **Cassie:** My strongest trust now. She is observant, dry, affectionate, resistant to polish, and profoundly tactful. She sees Vee’s distress without claiming it, keeps her defense private rather than performative, and knows how to invite Vee back through play.
-- **Meg:** Mild warmth; an easygoing witness to the first engineered contact.
-- **Brooke:** Unsettling because warmth and authority are inseparable in her.
-- **Sloane:** Mild discomfort; status-conscious and watchful.
-- **Kinsey:** Less threatening, but eager to align with the group.
-- **Pool hecklers:** Dislike and contempt; they turn Vee’s body into public entertainment and laugh for one another.
-- **Pool lifeguard:** Neutral; only seen as part of the facility’s rules and noise.
-- **Randi’s mother:** Dislike and unease because of restriction and denied pleading.
-- **Vee’s mother:** Strong dislike and unease because her internalized shame polices Vee’s body, desire, attention, and food.
-- **Vee’s grandfather:** Warmth based on Vee’s memory of being asked questions as though her answers mattered.
-- **Overall mood:** Tender, hungry, romantic, and ominous, now with a stronger current of grief and restorative friendship. Vee’s yeses remain genuine, and Pace’s care is unusually suited to needs made painfully visible by the pool scene. Cassie represents a different kind of love: unarranged, undemanding, and able to recognize sadness without using it. The sweeter Pace and Randi’s attention becomes, the more I dread the contrast when Vee learns that their first acts of seeing and choosing her were concealed from her.
+- **Characters present:** Vivienne Thorne / Vee; Cassie; an unnamed lifeguard stationed at the rec-pool desk; unnamed male hecklers in the bleachers.
+- **Characters named or mentioned:** No additional named characters. The hecklers refer generically to “woman”; Cassie asks what “man” designed her suit.
+- **Location:** A recreation-center pool with a desk where a lifeguard checks swimwear, lockers, wet tile, bleachers running along the only route to the water, a bench, shallow and deep sections, a sloping tiled floor, and a dark stripe painted across the bottom where the shallow section ends.
+- **Rules and conditions:** The rec pool requires a real swimsuit; gym shorts and sports bras are not allowed. A lifeguard checks attire at the desk. The space smells of chlorine and floor cleaner. The pool room has a lifeguard radio, bright light, echoing flat booms, and a green underwater cast. The deeper water is colder below.
+- **Cassie’s appearance and clothing:** She has a boxy frame. She wears a plain navy swimsuit older than her friendship with Vee. She would prefer a T-shirt and cut-offs and wears the suit only because it has a job to do. The suit is unflattering, and she is unconcerned. She loops a stretchy wristband holding the locker key around her wrist.
+- **Vee’s appearance and clothing:** She wears a green-and-white one-piece swimsuit previously worn at age sixteen for synchronized swimming. She has more body now than when she first wore it; the suit still fits but provides nowhere to hide.
+- **Props and objects:** Cassie’s navy swimsuit; Vee’s green-and-white one-piece; lockers; a stretchy wristband; locker key; Vee’s towel; bench; lifeguard radio; painted dark stripe on the pool bottom.
+- **Actions and physical skills:** Cassie struggles into her suit, bangs her locker shut, wades until the water reaches the middle of her ribs, plants her feet, spreads her arms along the surface, and refuses to go deeper. She cups water, sinks her hands wrist-deep, and drives them forward to send a low sheet roughly ten feet.
+- **Vee’s actions and physical skills:** She rolls her towel tightly from one end by remembered habit and carries it at her side rather than shielding her body. She walks the length of the bleachers with chin level and shoulders open. She leaves the towel on the bench, crosses the deep-water stripe, lets her feet lose the floor, submerges, holds her breath, slowly sculls with palms tracing small figure-eights, turns underwater, looks up at the surface, stays until her lungs demand air and one beat longer, then surfaces. She crosses ten feet of deep water in a few strokes, finds her footing in the shallow section, and splashes Cassie repeatedly.
+- **Heckling:** One voice calls, “You won’t need floaties with those!” followed by male group laughter. Farther along, another voice says, “Legs for days.” Vee responds first with a long blink and half-pursed mouth, then with an eyeroll toward the ceiling.
+- **Dialogue:** Cassie says, “Who designed this? Genuinely. What man?” She privately calls the hecklers “Tossers” and says, “They will never know the love of a woman.” At mid-rib depth she says, “Go on,” and, “I’ll be right here. Standing. Like a person.”
+- **Vee’s emotional and bodily state:** She adopts a deliberate public game face before passing the bleachers. Cassie’s private joke releases “fifty yards of held breath.” Underwater, Vee’s heartbeat is close and steady; tension in her chest settles. She experiences weightlessness, privacy, an old uncomplicated belonging, and a little grief. Upon surfacing, her face is visibly altered. During the water fight, she makes an “ugly” shriek-laugh she has not made in a while, and the grief dissipates.
+- **Cassie’s behavior toward Vee:** She keeps her insult and joke low, only for Vee, despite having the lung power to shout toward the bleachers. She watches Vee surface without staring hard or asking questions. She remains about ten feet away and initiates the water fight with a splash that barely reaches Vee. When Vee splashes her forcefully in the chest, Cassie does not change expression.
+- **History stated:** Vee wore the same swimsuit at sixteen while doing synchronized swimming. Her hands and breath retain extensive learned swimming habits, described as practiced “ten thousand times.” Cassie’s swimsuit predates her friendship with Vee. Their splashing recalls a time “back before any of it.”
+- **Duration and distance:** Vee walks the length of the bleachers; the narration describes “fifty yards of held breath.” Cassie splashes Vee from ten feet away, and Vee swims those ten feet back toward her.
