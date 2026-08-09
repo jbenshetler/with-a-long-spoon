@@ -221,6 +221,132 @@ text = "His mouth, and then the small heat of it staying half a second longer th
 note = "PROTECTED keeper for the held-past figure (echo #60, author 2026-08-08). Pace at :220: 'kissing-it-better needed to stay' names the pretext he is exceeding, which no other instance does; also protected under #8 on cold-read evidence for its 'before you think' half. The :238 collision was resolved by cutting the measure there, not here. :200 (degree family) and :226 (bare too-adj family) deliberately left UNACKED — both belong to adjacent families that are still unruled, and suppressing them would hide them from those rulings."
 
 [[ok]]
+fp   = "2a3df3a147cc"
+rule = "filter-verbs"
+file = "scenes/above-him.md"
+text = "She felt the warmth of him before the door, and then his arms came in under hers and crossed at her front and drew her back against his chest, and his mouth found the side of her neck, slow, no part of it asking for a thing."
+note = "Author 2026-08-09 (Above Him line edit): acked en bloc at chapter close-out, after item-by-item review. unhurried :19 = the rare load-bearing Pace beat the 2026-07-28 ruling carves out. 'She felt the warmth of him' :39 = triage-protected 2026-08-02 as deliberate compression (body registers him before ears do). 'She watched ... She watched' :41 = anaphora, not a tic — her holding still and tracking him is the paragraph's action. warm x4 = thematic (warm tomatoes, the second a deliberate callback in the list of six; the warm/warmth of him). there-was x2 = includes 'There was no note. There was never a note,' which five of six cold readers named the chapter's best line. learn :51 = precise and bleak, she is anticipating a lesson in her own diminished status."
+
+[[ok]]
+fp   = "4d74ec4db02e"
+rule = "filter-verbs"
+file = "scenes/above-him.md"
+text = "She watched them move, in the mirror, off her face and down to the counter, to the brush and the pins and the bottles and the spill of her, and hold there a second, taking it in."
+note = "Author 2026-08-09 (Above Him line edit): acked en bloc at chapter close-out, after item-by-item review. unhurried :19 = the rare load-bearing Pace beat the 2026-07-28 ruling carves out. 'She felt the warmth of him' :39 = triage-protected 2026-08-02 as deliberate compression (body registers him before ears do). 'She watched ... She watched' :41 = anaphora, not a tic — her holding still and tracking him is the paragraph's action. warm x4 = thematic (warm tomatoes, the second a deliberate callback in the list of six; the warm/warmth of him). there-was x2 = includes 'There was no note. There was never a note,' which five of six cold readers named the chapter's best line. learn :51 = precise and bleak, she is anticipating a lesson in her own diminished status."
+
+[[ok]]
+fp   = "828ea4c14364"
+rule = "filter-verbs"
+file = "scenes/above-him.md"
+text = "He felt it in everything he did and said it in nothing, and she found, tonight, that she could live clear inside the everything-he-did and not go hungry for the saying."
+note = "Author 2026-08-09 (Above Him line edit): rule misfire. 'He felt it in everything he did' is feel-as-emotion (he loves her), not feel-as-perception; no sensory event is being filtered. Reader-praised (kimi-k3, gpt-5.6-terra) and the clause it opens is triage-protected from the 2026-07-28 panel."
+
+[[ok]]
+fp   = "bb30e129b659"
+rule = "filter-verbs"
+file = "scenes/above-him.md"
+text = "He had her up under the arms and around, her feet swinging out, the porch light wheeling once behind his head, and she heard the sound that came out of her, a bright stupid sound she'd have died of anywhere else."
+note = "Author 2026-08-09 (Above Him line edit): 'she heard the sound that came out of her' STANDS. The filter is the point — she is a bystander to her own noise, which is what licenses 'a bright stupid sound she'd have died of anywhere else.' Removing it makes the sound hers and kills the estrangement. Reader-praised (kimi-k3 quoted the image)."
+
+[[ok]]
+fp   = "eac67921b544"
+rule = "filter-verbs"
+file = "scenes/above-him.md"
+text = "She watched his eyes open."
+note = "Author 2026-08-09 (Above Him line edit): acked en bloc at chapter close-out, after item-by-item review. unhurried :19 = the rare load-bearing Pace beat the 2026-07-28 ruling carves out. 'She felt the warmth of him' :39 = triage-protected 2026-08-02 as deliberate compression (body registers him before ears do). 'She watched ... She watched' :41 = anaphora, not a tic — her holding still and tracking him is the paragraph's action. warm x4 = thematic (warm tomatoes, the second a deliberate callback in the list of six; the warm/warmth of him). there-was x2 = includes 'There was no note. There was never a note,' which five of six cold readers named the chapter's best line. learn :51 = precise and bleak, she is anticipating a lesson in her own diminished status."
+
+[[ok]]
+fp   = "a5dc7b5e5651"
+rule = "learn"
+file = "scenes/above-him.md"
+text = "He'd minded after all, and quietly, the way he did everything, he'd gathered up her sprawl and put it somewhere out of his sight, and now she was going to have to learn where a guest's things went once the guest had been too much."
+note = "Author 2026-08-09 (Above Him line edit): acked en bloc at chapter close-out, after item-by-item review. unhurried :19 = the rare load-bearing Pace beat the 2026-07-28 ruling carves out. 'She felt the warmth of him' :39 = triage-protected 2026-08-02 as deliberate compression (body registers him before ears do). 'She watched ... She watched' :41 = anaphora, not a tic — her holding still and tracking him is the paragraph's action. warm x4 = thematic (warm tomatoes, the second a deliberate callback in the list of six; the warm/warmth of him). there-was x2 = includes 'There was no note. There was never a note,' which five of six cold readers named the chapter's best line. learn :51 = precise and bleak, she is anticipating a lesson in her own diminished status."
+
+[[ok]]
+fp   = "d151bff7b7a9"
+rule = "not-x-but-y"
+file = "scenes/above-him.md"
+text = "She'd said it, or not said it, but let it be true in her own chest where she couldn't take it back."
+note = "Author 2026-08-09 (Above Him line edit): 'or not said it, but let it be true' is Vee correcting herself mid-thought, not the antithesis tic. The new :35 line ('It wasn't for going out, but it would have to do') was checked at the same time and does not fire the rule, so there is no cluster."
+
+[[ok]]
+fp   = "71ed2650b340"
+rule = "register-verb"
+file = "scenes/above-him.md"
+text = "She had her hands up in her hair before it registered, reaching for the green by the tap out of pure habit, and her fingers closed on nothing."
+note = "Author 2026-08-09 (Above Him line edit): STANDS. Rule misfire — 'before it registered' is the intransitive idiom on Vee, not the transitive collector's sense the rule targets (rendering Pace/Randi as cold cataloguers). Redundancy with 'her fingers closed on nothing' was raised and declined; the pre-announcement is wanted."
+
+[[ok]]
+fp   = "b8c127de9952"
+rule = "the-way"
+file = "scenes/above-him.md"
+text = "He'd minded after all, and quietly, the way he did everything, he'd gathered up her sprawl and put it somewhere out of his sight, and now she was going to have to learn where a guest's things went once the guest had been too much."
+note = "Author 2026-08-09 (Above Him line edit): 'quietly, the way he did everything' STANDS — characterization, not filter; it pays off at the drawer two paragraphs later."
+
+[[ok]]
+fp   = "c2dc3c13042f"
+rule = "the-way"
+file = "scenes/above-him.md"
+text = "He'd cooked after, the way he near always did."
+note = "Author 2026-08-09 (Above Him line edit): 'He'd cooked after, the way he near always did' STANDS. Ruling #33's recast-to-'as' precedent declined here; 'as he near always did' is a lateral move to stiffer diction."
+
+[[ok]]
+fp   = "ca54c1d0b6ca"
+rule = "the-way"
+file = "scenes/above-him.md"
+text = "Some nights he started with his mouth, some with his hands, some he just put her where he wanted her and used the rest of himself, and she never knew which it would be, only that it always came around to her first, brought all the way over and usually more than once before he took a single thing for himself."
+note = "False positive: 'brought all the way over' is the idiom 'all the way', not the 'the way he...' construction the rule targets."
+
+[[ok]]
+fp   = "287a983cf6da"
+rule = "there-was-were"
+file = "scenes/above-him.md"
+text = "There was never a note."
+note = "Author 2026-08-09 (Above Him line edit): acked en bloc at chapter close-out, after item-by-item review. unhurried :19 = the rare load-bearing Pace beat the 2026-07-28 ruling carves out. 'She felt the warmth of him' :39 = triage-protected 2026-08-02 as deliberate compression (body registers him before ears do). 'She watched ... She watched' :41 = anaphora, not a tic — her holding still and tracking him is the paragraph's action. warm x4 = thematic (warm tomatoes, the second a deliberate callback in the list of six; the warm/warmth of him). there-was x2 = includes 'There was no note. There was never a note,' which five of six cold readers named the chapter's best line. learn :51 = precise and bleak, she is anticipating a lesson in her own diminished status."
+
+[[ok]]
+fp   = "8e940c151737"
+rule = "there-was-were"
+file = "scenes/above-him.md"
+text = "There was everything of his, the blades and the comb and the rest, pressed in and fitted too tight together, made to share the one drawer that had been built to hold half of it."
+note = "Author 2026-08-09 (Above Him line edit): acked en bloc at chapter close-out, after item-by-item review. unhurried :19 = the rare load-bearing Pace beat the 2026-07-28 ruling carves out. 'She felt the warmth of him' :39 = triage-protected 2026-08-02 as deliberate compression (body registers him before ears do). 'She watched ... She watched' :41 = anaphora, not a tic — her holding still and tracking him is the paragraph's action. warm x4 = thematic (warm tomatoes, the second a deliberate callback in the list of six; the warm/warmth of him). there-was x2 = includes 'There was no note. There was never a note,' which five of six cold readers named the chapter's best line. learn :51 = precise and bleak, she is anticipating a lesson in her own diminished status."
+
+[[ok]]
+fp   = "7ef412ba7513"
+rule = "unhurried"
+file = "scenes/above-him.md"
+text = "After they ate he'd taken her again, on the couch, unhurried, the wine still in both of them."
+note = "Author 2026-08-09 (Above Him line edit): acked en bloc at chapter close-out, after item-by-item review. unhurried :19 = the rare load-bearing Pace beat the 2026-07-28 ruling carves out. 'She felt the warmth of him' :39 = triage-protected 2026-08-02 as deliberate compression (body registers him before ears do). 'She watched ... She watched' :41 = anaphora, not a tic — her holding still and tracking him is the paragraph's action. warm x4 = thematic (warm tomatoes, the second a deliberate callback in the list of six; the warm/warmth of him). there-was x2 = includes 'There was no note. There was never a note,' which five of six cold readers named the chapter's best line. learn :51 = precise and bleak, she is anticipating a lesson in her own diminished status."
+
+[[ok]]
+fp   = "56302d8641f9"
+rule = "warm"
+file = "scenes/above-him.md"
+text = "Some nights it was a production, four pans going and a smell building she had no names for, and tonight it had been plain: salmon laid in a hot pan and turned once, a sauce gone pale green with dill, a salad with the tomatoes still warm off the sill and a mustard thing he'd whisked up in a glass that she'd wanted to drink straight."
+note = "Author 2026-08-09 (Above Him line edit): acked en bloc at chapter close-out, after item-by-item review. unhurried :19 = the rare load-bearing Pace beat the 2026-07-28 ruling carves out. 'She felt the warmth of him' :39 = triage-protected 2026-08-02 as deliberate compression (body registers him before ears do). 'She watched ... She watched' :41 = anaphora, not a tic — her holding still and tracking him is the paragraph's action. warm x4 = thematic (warm tomatoes, the second a deliberate callback in the list of six; the warm/warmth of him). there-was x2 = includes 'There was no note. There was never a note,' which five of six cold readers named the chapter's best line. learn :51 = precise and bleak, she is anticipating a lesson in her own diminished status."
+
+[[ok]]
+fp   = "60d42308edc6"
+rule = "warm"
+file = "scenes/above-him.md"
+text = "She loved him, and he had never once said it to her, and she lay there and counted all the ways he'd said it without saying it: the door, the spin, the slowness, the salmon, the warm tomatoes, the coming back to her."
+note = "Author 2026-08-09 (Above Him line edit): acked en bloc at chapter close-out, after item-by-item review. unhurried :19 = the rare load-bearing Pace beat the 2026-07-28 ruling carves out. 'She felt the warmth of him' :39 = triage-protected 2026-08-02 as deliberate compression (body registers him before ears do). 'She watched ... She watched' :41 = anaphora, not a tic — her holding still and tracking him is the paragraph's action. warm x4 = thematic (warm tomatoes, the second a deliberate callback in the list of six; the warm/warmth of him). there-was x2 = includes 'There was no note. There was never a note,' which five of six cold readers named the chapter's best line. learn :51 = precise and bleak, she is anticipating a lesson in her own diminished status."
+
+[[ok]]
+fp   = "9fd9661a0a75"
+rule = "warm"
+file = "scenes/above-him.md"
+text = "She felt the warmth of him before the door, and then his arms came in under hers and crossed at her front and drew her back against his chest, and his mouth found the side of her neck, slow, no part of it asking for a thing."
+note = "Author 2026-08-09 (Above Him line edit): acked en bloc at chapter close-out, after item-by-item review. unhurried :19 = the rare load-bearing Pace beat the 2026-07-28 ruling carves out. 'She felt the warmth of him' :39 = triage-protected 2026-08-02 as deliberate compression (body registers him before ears do). 'She watched ... She watched' :41 = anaphora, not a tic — her holding still and tracking him is the paragraph's action. warm x4 = thematic (warm tomatoes, the second a deliberate callback in the list of six; the warm/warmth of him). there-was x2 = includes 'There was no note. There was never a note,' which five of six cold readers named the chapter's best line. learn :51 = precise and bleak, she is anticipating a lesson in her own diminished status."
+
+[[ok]]
+fp   = "b1f46cb6d7cf"
+rule = "warm"
+file = "scenes/above-him.md"
+text = "She shut her eyes against the warm of him, and the day finished letting go of her, and she was under before she could think one more thing."
+note = "Author 2026-08-09 (Above Him line edit): acked en bloc at chapter close-out, after item-by-item review. unhurried :19 = the rare load-bearing Pace beat the 2026-07-28 ruling carves out. 'She felt the warmth of him' :39 = triage-protected 2026-08-02 as deliberate compression (body registers him before ears do). 'She watched ... She watched' :41 = anaphora, not a tic — her holding still and tracking him is the paragraph's action. warm x4 = thematic (warm tomatoes, the second a deliberate callback in the list of six; the warm/warmth of him). there-was x2 = includes 'There was no note. There was never a note,' which five of six cold readers named the chapter's best line. learn :51 = precise and bleak, she is anticipating a lesson in her own diminished status."
+
+[[ok]]
 fp   = "3c50215c6326"
 rule = "a-small"
 file = "scenes/all-the-time.md"

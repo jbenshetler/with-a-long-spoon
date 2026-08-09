@@ -54,3 +54,54 @@ The chapter is strongest wherever it trusts the object. **§i's** "They hadn't m
 - **"the bottom went out of her morning"** (:49) — near-relative of the floor/ground-moving shock figure rationed in #31; distinct enough to probably stand, but check for siblings.
 - **"like something a surgeon might step back from and judge would live"** (:33) — striking diction (rule #13); verify unique.
 - **"one of the dozens he'd bought her so she'd never be without"** (:33) — the abundance-as-care gesture; check against other Pace-buys-in-quantity renderings.
+
+---
+
+## Author rulings (2026-08-09)
+
+Panel: 6 cold reads mined (fable-5 **stale**, opus-4-8 regenerated this session,
+gpt-5.5, sol, terra, kimi-k3). Full rationale for every verdict below is in
+`meta/meta-triage-above-him.md`; echo rulings in `audits/line-edit/echo-rulings.md`.
+
+- **Dropped before review** (re-litigation of settled verdicts): #11
+  (`She felt the warmth of him` — 2026-08-02), #6's tail (`not go hungry for the
+  saying` — 2026-07-28), #3's "runs long" component (already cut 2026-07-28).
+- **#1** (:9 "in the order it had happened") — APPLIED in part; the method
+  announcement cut, "let it come back to her" kept as the recall signal.
+- **#2** (:11 logistics sentence) — APPLIED, restructured beyond the report's
+  recommendation: reasons moved before the door, new paragraph break, doubled
+  door-opening resolved. Author ruling: at least one reason must survive or the
+  week reads as coldness.
+- **#3** (:15 "the strange part was that") — APPLIED, cut.
+- **#4** (:13/:17 doubled interiority frame) — APPLIED; second frame cut, the
+  reader-praised tail preserved verbatim.
+- **#5** (:19 scar wording, echo #4 FIX-AT) — APPLIED; location dropped.
+- **#6** (:21 three sentences on one thought) — DECLINED. "He had to feel it" is
+  Vee arguing, not a restatement; tail is triage-protected.
+- **#7** (:27 "let…letting") — APPLIED; subject shifted to the day.
+- **#8** (razor ×3) — RESOLVED by #12's cut; no separate action.
+- **#9** (:35 "the bag" ×3) — APPLIED; collapsed to two. The clean/clean chime
+  raised and kept.
+- **#10** (:35/:41 "flung") — APPLIED; :35 varied to "out across".
+- **#11** (:37 "She felt the warmth of him") — DROPPED, see above.
+- **#12** (:41 four appositives) — APPLIED; cut to the ring figure + the sprawl.
+- **#13** (:43 "the small private one", echo #3) — RULED **PROTECTED**, recorded
+  as echo #65, with a ledger correction: the Pace-tell set is **two**, not three
+  (`ignition-scalding:49` is Randi).
+- **#14** (:43 worry let go then carried) — APPLIED; "mostly" cut.
+- **#15** (:53 "prepared and waiting") — DECLINED, with the report judged wrong:
+  the clause is the chapter's dread mechanism.
+- **#16** (:55 tightness ×3) — APPLIED in part; "crammed" and "plainly" cut, the
+  reader-praised "pressed in and fitted too tight" protected.
+- **#17** (:59 closing paragraph) — APPLIED, option (a): cut to the posture and
+  one clause. Reader-corroborated by the fresh opus read.
+- **Bonus A** (:33 surgeon simile — opus, "a touch cute"; the report had named it
+  a strongest passage) — REPLACED with author-supplied flat interiority: "It
+  wasn't for going out, but it would have to do." Two grounds: authorial dislike
+  of the darkness, and "surgeon" collides with `we-find-out:97`, which owns the
+  word for the scar.
+- **Bonus B** (doubled *heard*, surfaced by the lint after #2's restructure) —
+  APPLIED; "he must have heard the car" cut.
+- **Style** — 19 hits acked with per-hit rationales; chapter lints clean.
+
+**14 edits applied. 9 items left standing with rationale.**

@@ -1384,3 +1384,36 @@ family stands as a motif (`sorority:95` "the line of her finishing itself";
 finished it") — with Pace's spoken **"They complete it"** (`made-up:47`) kept
 distinct, so *complete* is his word and *finish* is the narration's. Do not
 vary `made-up:15`'s "finished" to "complete."
+
+---
+
+## Batch 17 — Above Him review (2026-08-09)
+
+**#65 — Pace's "small private smile" is PROTECTED; #3's Pace-tell set is TWO,
+not three (author, 2026-08-09).** The recurring gesture is his *tell* — the
+repeated rendering **is** the characterization, on the same logic that
+protected "randi pulled her into." Never flag it. Instances:
+`new-ordinary:31` ("pleased, the small private smile") and `above-him:43` ("he
+smiled, the small private one"). Two occurrences across ~137,700 words is one
+per ~69,000; there was never a density problem here. Per the governing rule
+(#36, "rule the shape, never the count"), **no quota and no trigger count** is
+attached — a third Pace instance, if one appears in Volume Two, is ruled on
+its merits then, not automatically flagged.
+
+*Ledger correction — the phantom third instance.* Entry #3 lists the Pace-tell
+as three occurrences, naming `ignition-scalding` alongside the two above.
+**`ignition-scalding:49` is Randi, not Pace**: "She was looking at the ceiling
+with the small private smile of a woman walking toward a fire she liked the
+heat of." A different character, a different beat, in a Pace-POV scene where
+he is the one observing. It never belonged to the set, and its presence is
+what made two instances look like a cluster worth varying. This is the same
+error class as the correction already recorded at #26, which pulled
+`all-told:37` (the stats professor) out of the same family. `seconds:51` ("in
+the small private way you remind yourself of evidence") is Vee, adverbial, and
+a different construction — also not in the set.
+
+*Why `above-him:43` in particular must not be varied.* It is the whole content
+of Pace's non-answer at the mirror — the thing Vee has to read *instead of*
+words, in the chapter whose refrain is "He hadn't said. He never said." and
+whose closing beat is "There was no note. There was never a note." Varying the
+smile there would swap the one legible signal in a scene built on illegibility.
