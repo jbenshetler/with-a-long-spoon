@@ -66,6 +66,6 @@ Up front, the professor reached his reversal. The little red dot settled on one 
 
 "Each year on its own, the first man is the better hitter. Put the two years together and the second man is. Same numbers. Nobody touched one of them." He let it sit. "A thing can run one way across every short stretch you measure and the opposite way across the whole of it."
 
-Vee wrote *short stretches can lie against the whole* because it had the ring of an exam question, underlined it, and gave it no further thought. The professor told them that was all, in the voice he told them everything in, and let them go.
+Vee wrote *short stretches can lie against the whole* and underlined it, because it had the ring of an exam question. The professor told them that was all, in the voice he told them everything in, and let them go.
 
 They came down the tiered steps in the loose knot of the emptying room, Vee in the middle of it, Cassie on one side with her bag hauled up onto both shoulders, Randi on the other already deep into Saturday, which was hers, a heel height Vee would need and hadn't known to need. And Vee walked out into the bright cold noon between the two of them, happy and starving and on time, now, for nothing, the dress three blocks back in a closet, zipped in its bag, still shown to not one living soul.

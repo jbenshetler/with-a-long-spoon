@@ -29,4 +29,33 @@ Vee reads the theory without seeing she's the case. The concepts that rhyme hard
 
 The signup plants in **{{All the Time}}** (drafted; `meta-note-all-the-time.md`, ~mid-to-late November — the SATC format-break about the general character of Vee and Pace's sex life), on the correct late-fall registration timing. **Vee invites Randi to sign up for spring anthropology with her** — the easy **Dr. Marsh** section, *"the easy A everyone claws for"* — late in the scene, **after the photo and before the goodbye kiss.** So the binding is seeded *before* the winter break and the Christmas fight, and {{Among Friends}} need only carry the class as established fact (they have anthro together this term). The invite is **Vee's** (she authors the trap); render it warm and offhand, the drift never named.
 
-**The professor is Dr. Marsh** — a faint water-name in the field of names around Vee (cf. Vawter Hall, where she lives), quietly on-motif with her wetness/fluid shame; almost named *Leaky/Leakey* but cut for being too on-the-nose *and* colliding with the famous anthropologist family. Keep the **easy-A** framing load-bearing: the girls half-attend and fade out on the lectures (exactly as they did the boring stats professor), so the mirror material seeps in **unexamined** — observation before cognition. Cassie's already-completed section was the oddball **Dr. Wardy** (contrast, one mention).
+**The professor is Dr. Marsh** — a faint water-name in the field of names around Vee (cf. Vawter Hall, where she lives), quietly on-motif with her wetness/fluid shame; almost named *Leaky/Leakey* but cut for being too on-the-nose *and* colliding with the famous anthropologist family. The **easy-A** framing stands (*"the easy A everyone claws for"*, `all-the-time:125`) — it reads *better* with a great lecturer: people claw for it because it's fun. Cassie's already-completed section was the oddball **Dr. Wardy** (contrast, one mention).
+
+## Dr. Marsh is engaging, not a boring clone (author ruling, 2026-08-09)
+
+**This reverses the earlier decision** (commit `f7a3502`), which made Marsh a flat easy-A vehicle who is half-attended and fades out, explicitly cloned from the fall stats prop. That is no longer the design. Marsh is **exciting and engaging** — a lecturer Vee is genuinely lit up by.
+
+**Why the reversal is worth its cost.** Marsh runs the summer two-site excavation (`meta-plan-summer.md:15–22`), where both women are diggers. With a boring Marsh, Vee signing up for a summer in the dirt is arbitrary and needs propping; with a Marsh who lit her up in February, it is *motivated* — and it becomes Vee choosing her own mind, which is precisely what the book is taking from her. No flat-vehicle version buys that.
+
+**What breaks, and must be replaced.** The old concealment was *half-attention* — the mirror seeped in because nobody was listening. An engaging professor cannot be tuned out, and **anthropology has no deniability budget**: stats had cover (numbers are about numbers), but Lévi-Strauss on the exchange of women is a plain-English description of this plot. So the concealment burden rises exactly as the old mechanism disappears.
+
+**The replacement — the irony inverts from passive to active.**
+
+| | Stats prop | Dr. Marsh |
+|---|---|---|
+| Irony is | **passive** — Vee doesn't notice | **active** — Vee notices, engages hard, and aims it at the wrong target |
+| Requires | a narrator nudge to land | nothing; the misfire *is* the demonstration |
+| Vee is | absent from her own coursework | brilliant at her coursework, on everyone but herself |
+
+This is the better instrument. It never needs the nudge (see the Bible's nudge ban, and `meta-note-stats-professor.md`), because the reader watches her apply Mauss beautifully to a sorority anecdote or to Cassie's family and never once to the friendship that is buying her. It upgrades the recorded rule *"Vee's misfiled transcription is the punchline"* (`meta-triage-outlier.md:52`) from a note into a scene.
+
+**Mechanics:**
+
+1. **Cases, never principles.** Marsh's engagingness is *anecdotal* — a named people, a concrete practice, a story. She never states the abstraction; the reader assembles it. (The stats prop stated abstractions — *"never all the way gone"* — which is exactly what makes them quotable as thesis.) This is the highest-leverage constraint and it preserves rule (1), *delivers method, never meaning*.
+2. **Vee raises her hand.** She is good at this. Her contribution is sharp, correct, and pointed away from herself.
+3. **Randi in the room inverts.** In stats, Randi pulls Vee *off* the material. Here Vee is pulled genuinely *toward* it, so Randi must compete — or, better, **Randi is fluent too, and good at it.** Deniable, chilling, free.
+4. **Spend the deniability budget deliberately.** The most on-the-nose subject (Lévi-Strauss, "the devastating one") gets the least stage time, arrives earliest — before the reader has the shape — or comes out of a clumsy *student's* mouth rather than Marsh's. Save Marsh's set-piece for the least self-evident material (participant observation; Douglas on dirt).
+5. **The tic set flips register but keeps its function.** The prop had rotating flat similes. A star needs a signature *move* — a question she opens with and won't answer; naming the ethnographer before the finding. Still rotating vehicles, still collectible on reread: the surface flips, the reread-charge mechanism does not.
+6. **Marsh never addresses Vee's life.** An engaging professor who engages Vee *personally* drifts into a Cassandra figure, which has its own rules and has already fired. Keep the mirror strictly inside the material.
+
+**Still open:** whether any spring lecture becomes a titled scene. The chronology currently carries the class as ambient tissue (the {{All the Time}} signup; established fact in {{Among Friends}}; an untitled late-spring anthro-finals beat at `meta-plan-chronology.md:405`) with no spring equivalent of {{See You Later}} or {{All Told}}. Mechanic 2 wants at least one room where Vee performs.

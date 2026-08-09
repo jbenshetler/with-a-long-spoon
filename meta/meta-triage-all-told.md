@@ -194,3 +194,52 @@ Chapter taken from 11 active hits to **0** (10 suppressed).
   repetition; "a thing she would never use" is the chapter's dramatic irony.
 - **H · `there-was-were` `:55`** (`#b848ce66fbf8`) — the existential is the
   turn: the day was gold until it wasn't.
+
+---
+
+# Triage — All Told (nudge-ban re-open, 2026-08-09)
+
+Not a line-edit pass. A **single-item re-open** of a `reviewed` chapter,
+arising from the stats-professor design ruling of the same date
+(`meta-note-stats-professor.md`; the abstracted rule is the Bible's Global
+Craft Rules entry **The coursework mirror**).
+
+## Fixed (1 edit)
+
+- **`:69`** — "Vee wrote *short stretches can lie against the whole* because it
+  had the ring of an exam question, underlined it, **and gave it no further
+  thought.**" → "Vee wrote *short stretches can lie against the whole* **and
+  underlined it, because it had the ring of an exam question.**"
+
+  **Why.** The nudge ban: the narration never remarks on Vee's failure to apply
+  the lecture to herself. Two of the four current cold readers named this exact
+  clause as the point the device becomes visible — gpt-5.5: *"'gave it no
+  further thought,' while I cannot not give it further thought… the author
+  putting a highlighter in my hand"*; gpt-5.6-sol: *"'gave it no further
+  thought' makes sure I cannot miss the irony."*
+
+  The clause was also redundant. **"Because it had the ring of an exam
+  question" already renders the misfiling** — in Vee's own frame of mind rather
+  than the narrator's — so the tail restated it from outside her. The reorder
+  lands the sentence on the motive, the most deniable note available: the
+  reader is handed a diligent student and nothing else.
+
+  Second benefit: it un-twins the figure. `see-you-later:61` ("the word sat
+  there in her notebook, underlined once, going nowhere") is the **sanctioned
+  single exception** to the nudge ban — image work rather than commentary. Both
+  chapters were running underline-plus-it-went-nowhere; `see-you-later` now
+  holds the pattern alone, which is what the exception is for.
+
+## Not re-litigated
+
+Everything else in this chapter's prior passes stands. The professor's own
+material is **protected** and must not be stripped by a later reviewer: `:35`
+("the flat unbothered voice of a man reading the back of a cereal box"), `:37`
+("the smile of a man who had laid the same trap a hundred times"), and `:65`
+(the little red dot) are the prop's signature, and the {{All Told}} walk-on
+principle — *a signature gesture spent on a walk-on is an argument for cutting
+it* — has a **recorded carve-out** for this character
+(`meta-note-stats-professor.md`, "Carve-out against the walk-on principle").
+The principle still governs any *Pace* vocabulary drifting onto him.
+
+`:67`'s `whole-of` ack (entry C above) is unaffected — the edit is in `:69`.
