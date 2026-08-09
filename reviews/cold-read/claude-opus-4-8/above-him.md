@@ -1,98 +1,100 @@
-# Cold read — The Top Drawer
+# Cold read — Above Him
 
-*scene: scenes/the-top-drawer.md · model: claude-opus-4-8 · read after: vee-tells-randi-we-find-out*
+*scene: scenes/above-him.md · model: claude-opus-4-8 · read after: one-bite · reader-protocol: v1-repeated-jacket-legacy*
 
 ## Reader reaction
 
-# Felt read
+This is the softest chapter in a long while and it made me ache, which I resent a little, because I know things Vee doesn't.
 
-This one's quiet and it wrecked me a little, which I wasn't braced for after the brunch-boil of last chapter. No bench, no collision, no Randi even in the room — just a week apart, a homecoming, salmon, and a drawer. And yet it might be the tenderest thing the book has handed me, and the fact that I *know* what she doesn't made every soft beat land with a second, colder weight.
+The whole thing is a love chapter. He has the door open before she reaches it; he picks her up under the arms and swings her; "a bright stupid sound she'd have died of anywhere else." Salmon turned once, dill sauce, tomatoes warm off the sill, the stony Greek wine. Then the couch, an hour later, "like she was something he'd been turning over the whole time the salmon cooked." I felt genuine warmth reading it — not tension, warmth — and that's the first time in a while the book has just *let* something be good.
 
-The homecoming got me in the body first. "the door swung wide and then she was off the ground... the porch light wheeling once behind his head, and she heard the sound that came out of her, a bright stupid sound she'd have died of anywhere else." That's the good stuff — the involuntary joy she'd normally be ashamed of, let loose because he's the one place she doesn't police herself. And "He didn't set her down so much as let her slide the front of him until her toes found the boards" — that's a beautifully physical, sexy little sentence. The heat here is real but folded down; it's mostly reported, not staged. The peak isn't a sex act, it's that slide down his body and the clothes "dropped where they stood." The actual sex is summary — "some he just put her where he wanted her" — and I didn't mind, because the chapter isn't after arousal this time, it's after *belonging*.
+And then the passage that actually got me: "He never went straight at his own finish... it always came around to her first... She hadn't known a man could do that. She hadn't known a man would want to." That's Vee's whole history in two sentences. It's devastating and it isn't complaining.
 
-Two things moved for me. First: **she said his name.** "Peter." Barely a breath, to the sleeping shape of him. That landed hard because I've been carrying "his real name is Peter" as a locked-away, withheld thing — and here she uses it, in the dark, when he can't hear. It felt like the most intimate act in the chapter, more than the sex. She's holding the private version of him. And it made me ache, because I know there are other private versions of him she's holding nothing of.
+The love. She doesn't say it to him awake; she says "Peter" into a sleeping ear, barely breath. Using the *other* name — the private one, not Pace — landed hard. And she's already built the defense: "he had never once said it to her, and she lay there and counted all the ways he'd said it without saying it." I read that as her learning to be content with a currency he chose, and I don't know yet whether that's maturity or the first fitted collar. She literally says she "could live clear inside the everything-he-did and not go hungry for the saying." Fine. But she's been trained not to go hungry, or rather to be fed exactly enough that she never notices who set the portions.
 
-Second: **she loves him, and she named it.** "She loved him, and he had never once said it to her, and she lay there and counted all the ways he'd said it without saying it: the door, the spin, the slowness, the salmon, the warm tomatoes, the coming back to her." That list is the "loves in deeds, never in words" motif, now weaponized against my composure — she has built a whole theology out of his silence, "she could live clear inside the everything-he-did and not go hungry for the saying." And here's where the jacket sits on my chest: *every yes was freely given, that was the trap.* She is reading his deeds as involuntary proof of feeling — "A man didn't do all of that for a girl he was only passing a season with. He had to feel it." — and I know those deeds are also, at least in part, *engineered*. The salmon, the scrunchies, the coming-back-an-hour-later: she reads them as love that can't help itself; I read them as love that is *also* a method. The horror of this chapter is that both are true and she can only see one.
+The drawer. God, the drawer. It's a beautiful gesture on its own terms — he crushed his whole ordered life into the bottom drawer and gave her "the easy one. The one your hand goes to first." And "There was no note. There was never a note." I felt the swell of it with her. But I also noticed, coldly, the *shape* of the week: she has a flicker of worry in the mirror, he says nothing, she carries "the smallest tail of it" for six days, and then the answer arrives as a wordless overwhelming gift. That's an anxiety induced and then relieved. He watched her face in the glass and read it, exactly like he reads bodies. Whether he engineered the delay or simply is who he is, the effect is identical: she now belongs to that drawer, gratefully. And there's still Randi, out there, receiving all of this — I kept waiting for Vee to think "I have to tell Randi," and she didn't, which almost felt like a held breath.
 
-The drawer. God. The three-part structure of it is so cleanly built — the sprawl across his one clean counter (her shame flaring small: "the wish not to be a trouble to him"), his non-answer in the mirror ("He did nothing... Not one word"), and then the reveal a week later. When the scrunchies are gone and "the bottom went out of her morning" — I felt her drop with her, certain he'd minded, that she'd been "too much." And then the top drawer, *his* drawer, cleared and given, and his whole ordered self "folded down into a single drawer" below. "The top one. The easy one. The one your hand goes to first." That's devastating and I felt it straight, no irony — until the last turn of the screw: this is *exactly* the language the book keeps using for capture-as-care. He makes her a *place*. He clears his life to fit her in. It's the scrunchies-in-bulk again — provision as promise, provision as claim. "laid out like something prepared and waiting" — that word *prepared* rang, because so much about this man is prepared, has been prepared since before she knew he existed.
+The weight-loss beat is a lovely small thing — she eats like a field hand and her bras ride higher — and the reason it's affecting is that she never asked for it and it's the *shame* body finally being allowed to be a body. Also the class detail again: a size up because "the racks had never once believed a build like hers." She's still pricing everything.
 
-**Trust vs. suspicion:** the text didn't earn any *new* suspicion of Pace this chapter — quite the opposite, it's all warmth, and that's the unnerving thing. My distrust is entirely carry-forward; the page itself gives me nothing to catch him on, which is precisely how it keeps working on me. The one hair of doubt is the vocabulary — *prepared*, *waiting*, *made her a place* — sitting a millimeter off from pure romance because I've been taught by earlier chapters to hear the second meaning. That's not the chapter telegraphing; that's me carrying a wound in.
+Trust: I have no new suspicion of Pace from *this page*. That's the trouble. The page gives me nothing but kindness. My distrust is entirely carried in — and the chapter is smart enough to let me feel how thin my evidence would look to her.
 
-**Friction:** almost none. The prose is controlled and I trusted it. If I reach: the bra-band / "losing weight since she met him" passage is a long re-litigation of the clothes-bought-a-size-up material I already hold thoroughly, and it slightly stalls the homecoming's momentum — "the racks had never once believed her" is lovely but I've been here before. It's the one spot the author's hand felt like it was re-establishing rather than advancing. Everything else earns its place.
+Erotic charge: deliberately low and diffuse. The sex is summarized, past-tense, remembered from the cooling sheet, and I think that's right — this is afterglow, not heat. The most sensual thing in it is his arms crossing under hers at the mirror, "no part of it asking for a thing." Warm rather than hot. Nothing went slack, but nothing spiked either.
 
-**The title.** "The Top Drawer" — I saw it before reading and it meant nothing; now it's the whole chapter, and on the reread of the phrase it's got the book's signature double-charge. Surface: the literal gift, the top drawer cleared for her, the tenderest thing he's done. Underneath: "top drawer" as *the best, first-class* — she's been promoted, installed, given the premium slot. And "the one your hand goes to first" — habit, reflex, the drawer you open without thinking. Which is exactly what she's becoming to him and he to her: reflex, no thought, no note, no *saying*. It's a gorgeous, sad title and it didn't give anything away — it only pays off once you've read the thing.
+Friction: very little. Maybe "It looked, in the glass, like something a surgeon might step back from and judge would live" — a touch cute for the moment. And the "she'd asked him a question last weekend without meaning to" line comes very close to explaining a gesture that was already perfectly legible; I'd have been fine finding it myself.
 
-**The book's title and tagline** feel very present here even with no game-machinery on the page. *With a Long Spoon* — I still don't have a fixed read on it, but "sup with the devil, use a long spoon" floats near it, the idea of eating at a dangerous table at a careful distance — and this chapter is *literally* her eating at his table, ravenous, all distance gone, "like a field hand." The long spoon is the caution she no longer has. And "every yes was freely given, that was the trap": this chapter is a yes with no question even asked. He didn't ask if he could clear the drawer; she didn't ask for it; the gift arrives and her only possible answer is the green scrunchy in her hair and going to find him. Consent with nothing to consent *to* — just a place already made.
+The title: "Above Him" first read as her propped on her side watching him sleep, and then, gorgeously, becomes the top drawer — she is placed *above him*, physically, in the furniture of his life, because he folded himself down to make room. And then a third turn: being put above someone is still being *put*. Nothing was given away in advance; it recolored twice. Best title in a while.
 
-**What I want / dread next:** I want the two worlds to keep not-touching for exactly one more beat and then I want it to shatter — I'm braced. I keep expecting Randi to walk into a room that has Pace in it. *Guess from here:* the drawer, the installed-ness, the "prepared and waiting" — I wonder if we're moving toward Vee essentially living there, and toward the moment she finds something in the house that isn't hers and isn't his — a thing of Randi's, or the bench. She still has never seen the bench, and this is a chapter about opening drawers to find what a careful man has stored. That rhymes ominously. I dread the bench worse after this, because now I've watched her open his most private drawer and find only love in it.
+*A Polite Invitation* / "Every yes was freely given. That was the trap." — this chapter is that tagline at its most benign and most alarming at once. Nobody asked her for anything. The drawer isn't even a request. And yet she leaves the room owning a green scrunchy and a place, and she chose all of it. *With a Long Spoon* keeps whispering that whoever is dining here should be keeping a distance nobody is keeping.
 
----
+What I want next: the collision. This chapter is the calm, and I don't trust calm here. Guess from here: the very softness is the setup — the bench, or Randi in that house, and it will arrive right when Vee is most sure of her happiness.
 
 **Cast present (in person):** Vee (POV), Pace/Peter.
-**Mentioned-only:** Randi (implicit as the world she'd narrate this to — not actually named this chapter; the scrunchies and method are Pace's here). No one else named.
-
-**Heat:** 2 — a homecoming that goes straight to the floor, the slide-down-his-body, sex twice, all rendered but mostly in warm summary rather than staged explicit; the charge is intimacy more than graphic.
-
-**Romance:** 3 — the peak of the bond so far. Unspoken "I love him," the whispered "Peter," and the top-drawer gift as a wordless declaration. A clear turn in devotion.
-
-**Motifs & images:**
-- *The green white-dotted scrunchies* (bulk-bought, ch. earlier / carry-forward) — **repeat**, now the physical seed of the drawer gift; "so she'd never be without."
-- *Loves in deeds, never words / "he never said"* (carry-forward) — **repeat**, made the explicit spine: her list of wordless love, "There was never a note."
-- *The razor squared to the counter edge* (carry-forward) — **repeat**, the emblem of his order, now contrasted against her sprawl.
-- *The scar, inner thigh, never asked, "meant to keep"* (carry-forward) — **repeat**, one line in the dark.
-- *Clothes bought a size up / the racks that never believed her body* (carry-forward) — **repeat**, extended; new note: she's quietly losing weight with him.
-- *Feeding / eating like a field hand at his table* (food-as-love, carry-forward) — **repeat**, the salmon, warm tomatoes.
-- *"Peter" — his real name* (carry-forward as a withheld fact) — **first time used by Vee**, whispered.
-- *The top drawer / "the one your hand goes to first"* — **first sighting**; provision-as-claim in a new object.
-- *"prepared and waiting"* — **first sighting** in this register; rhymes with "a house kept warm for a coming woman."
-
-**Symbolism:** The two drawers = the merger of their lives, and its cost — he folds "his whole ordered self down into a single drawer," compresses himself to make room, capture dressed as generosity. The cleared drawer as an *answer to a question she didn't know she asked* = his whole mode: acts, never says, installs her without asking. Provision (the place made, the drawer given) once again = claim.
-
-**Characterization:** Both deepen. Vee lands wholly consistent — the shame-flare over the messy counter, the arithmetic of clothes and budget, the theology built from his silence, the private courage of naming love and his name. Pace deepens by pure behavior, exactly as the book insists he must — not one word, the drawer says it. Nothing thin, nothing contradicted.
-
-**Pace — within the chapter:** Nearly ideal. Section i luxuriates and earns it (homecoming + the love-naming); the bra/weight passage is the one slack stretch. Sections ii–iii are tight and build the drawer reveal cleanly across a week. The chapter is short and knows it.
-
-**Pace — chapter to chapter:** A deliberate, welcome exhale after the brunch-edge of last chapter — pulls back from Randi and the machine entirely to sit alone in the Pace relationship at its warmest. Momentum is emotional, not plot: the bond peaks. Slight risk of the same warm beat repeating (another salmon, another wordless kindness), but the drawer gives it a genuine new turn, so it holds rather than sags.
+**Mentioned only:** none of note.
+**Heat:** 1 — sex recalled and summarized, tender rather than explicit; the mirror embrace is the live moment.
+**Romance:** 3 — she names the love to herself, whispers "Peter" to a sleeping man, and he answers a week later with a drawer.
+**Motifs & images:** the scar high on the inner thigh, still unasked (repeat — first found in the first-sex chapter); food-as-love, salmon/tomatoes/wine (repeat of feeding-then-meeting-hunger); the warm house with the door already open for her (repeat of Pace's signature); "Peter" vs. Pace, the private name (repeat, charged here); scrunchies bought by the dozen so she's never without (repeat, now a whole stocked drawer); money/sizing arithmetic (repeat); wordlessness — "There was never a note" (first sighting as a named pattern); the mirror/being looked at (repeat, but benign this time — she watches *him* look). Notably absent: any thought of telling Randi.
+**Symbolism:** the two drawers — his ordered life compressed into one so hers can sprawl in the better one; devotion and installation in the same object. The bare wiped counter with the squared razor as the state she's disrupting and is then licensed to disrupt.
+**Characterization:** Vee deepens — the loving-without-being-told bargain is new and self-aware and quietly sad. Pace deepens only in the register of tenderness; he's a warm blank here, which is itself consistent with a man who never says.
+**Pace — within the chapter:** three clean movements, none overstayed; the week's gap between ii and iii is exactly the right dead air.
+**Pace — chapter to chapter:** a deliberate exhale after the brunch's pressure. Momentum holds rather than builds; earned once, would sag if repeated.
 
 ## Carry-forward state
 
-**Who's who**
-- **Pace / Peter** — *man; 22; math PhD.* House off route six-fourteen; homemade furniture; MRI patent money; powerlifter (broad thick chest hidden under too-big shirts); cooks constantly; travels to present at conferences (a recent multi-day conference caused their longest gap — a week). A careful, ordered man (razor squared to the counter edge; his whole kit fits one drawer). Reads a body like an instrument; privately calculating, self-justifying; loves in deeds, says nothing ("he never said"). Backstory: college at 15; a year exiled to a school hallway; a 19-yr-old "tutor" at 15 (reader reads grooming; he names it luck). Old raised surgical scar high inner thigh he won't discuss; **his real name is Peter — Vee now knows it and whispered it to him asleep.** Owns a homemade bondage/spanking "bench" (ch.1, used on Randi; Vee has NEVER seen it). Secret lover of Randi; together they picked Vee and are steering her into their bed without her knowledge; both founders have genuinely fallen for Vee. Always brings Vee off first, more than once, before taking anything for himself; bought her dozens of green white-dotted scrunchies. **New: cleared his own top bathroom drawer and gave it to her — scrunchies, pins, cream, room to spare — folding all his own things into the drawer below; no note, never a note.** Signatures: "There you are"/"there it is," "may I," "we find out."
-- **Randi / Miranda** — *woman; 21.* Poised, wealthy; cold green-citrus scent; blue toenail polish; sorority Standards board. Secret lover of Pace. Warmth-as-method; genuinely gone on Vee AND operating her; Vee's instinct to narrate everything to Randi (the "pipeline"). Vee does NOT know Pace and Randi are connected. *(Not present this chapter.)*
-- **Vee / Vivienne (Thorne)** — *woman; POV.* Tall, lush hourglass; warm dark-red/copper hair; snub freckled nose; ex-synchronized swimmer; strong econ/stats mind; Ohio; NOT wealthy (clothes bought a size up; couldn't afford a tailor). Deep body-shame; the "floozy/slut" mother-voice; wets easily. Surrendered fully to Pace; discovered a spanking-response. **New: has privately admitted to herself she loves him; is quietly losing weight with him (bras loosening); has moved a full kit into his bathroom; now installed via the top drawer.** Does NOT know Pace and Randi are connected.
-- **Cassie** — Vee's roommate, clean witness. **Brooke** — sorority president. **Sheri** — Pace's blunt cycling friend. **Vee's/Pace's parents, Pace's teenage tutor** — mentioned-only.
+**Principals**
+- **Pace / Peter** — *man; 22; math PhD.* House off route six-fourteen; homemade furniture; MRI patent money; powerlifter; cooks. Reads a body like an instrument; privately calculating, self-justifying; extravagant true things in a flat plain voice. Backstory: college at 15; a year exiled to a school hallway; a 19-yr-old "tutor" at 15 (reader reads grooming; he names it luck). Old surgical scar high inner thigh he won't discuss. Owns a homemade bondage/spanking "bench" (Vee has NEVER seen it). Secret lover of Randi; together they picked Vee and steer her into their bed without her knowledge; both genuinely fallen for her. Signatures: "There you are"/"there it is," "may I," "we find out." *This chapter: a week apart (conference); lifts her off the ground at the door, always brings her over first, cooks, takes her again after. Sees her clutter on his one clean counter, says nothing, and a week later has emptied his top drawer for her and crushed his own things into the bottom one. Never says a note, never says he loves her.*
+- **Randi / Miranda** — *woman; 21.* Poised, wealthy (dark-green Mercedes); cold green-citrus scent; black hair, blue eyes. Secret lover of Pace. Warmth-as-method at full operational range: goads, extracts step-by-step ("Walk me"), primes with timed anecdotes, "Sticky fingers?", "best friend in the whole world," the goodbye mouth-kiss with the deliberate second press. Genuinely gone on Vee AND farming her. *Absent this chapter — and notably absent from Vee's thoughts too.*
+- **Vee / Vivienne (Thorne)** — *woman; POV.* Tall, lush hourglass; warm dark-red/copper hair; snub freckled nose; ex-synchronized swimmer; strong econ/stats mind; Ohio; not wealthy. Deep body-shame and the "floozy/slut" mother-voice, both quieter now. Does NOT know Pace and Randi are connected. *This chapter: knows she loves him; whispers "Peter" to him asleep; accepts that he says it in deeds and never in words and decides she can live inside that. Eating hugely and quietly losing weight. Has finally brought her whole kit to his house. Finds the drawer and takes a scrunchy that is hers.*
+- **Cassie** — Vee's roommate, clean agenda-free witness (offstage).
 
-**Motif & image ledger**
-- *"There you are"/"there it is"/"may I"/"we find out"/warm house kept for a coming woman* — Pace's signatures; "prepared and waiting" (the drawer, this ch.) rhymes with the kept-warm house.
-- *Loves in deeds, never words / "he never said" / "There was never a note"* — ch.-long spine of The Top Drawer.
-- *The green white-dotted scrunchies (bulk-bought)* — provision-as-promise; now the seed of the drawer gift.
-- *The top drawer / "the one your hand goes to first" / two drawers, his life folded small* — NEW (The Top Drawer): capture dressed as generosity.
-- *Feeding / hunger made then met (food-as-love)* — salmon, warm tomatoes, "ate like a field hand."
-- *Being looked at / on display / body-as-problem / shame / cardigan / "floozy/slut."*
-- *The scar (inner thigh) — traced, never asked, "meant to keep."*
-- *The bench (ch.1): premeditated spanking-desire disguised as innocent furniture — Vee has never seen it; the only unspent escalation.*
-- *Wetness policed / the "shameful plenty" / the involuntary body.*
-- *Randi's warmth as method; the goodbye mouth-kiss with a second press.*
-- *Money as arithmetic (Vee prices everything — clothes, racks, the tailor she can't afford).*
-- *The razor squared to the counter edge* — emblem of Pace's order, set against Vee's sprawl.
-- *"Peter" — his withheld real name, now spoken by Vee (to him asleep).*
+**Relationship ledger**
+- *Vee ↔ Pace:* advances by **intimacy**, hugely. She names love privately; he answers a week-old unspoken worry with the top drawer. She felt overwhelmed gratitude; I felt warmth and a chill at once — the anxiety was allowed to sit six days before the gift landed, and the gift installs her.
+- *Vee ↔ Randi:* **asymmetry, by absence.** For the first time Vee doesn't reach for Randi with a story. Randi still holds everything Vee has ever told her.
+- *Pace ↔ Randi:* no change on the page; the conspiracy runs offstage.
+- *Vee alone:* she has settled a bargain with herself — deeds instead of the words. Peaceful for her; ominous to me.
+
+**What I know that they don't**
+- Pace and Randi are secret lovers who chose Vee together and are steering her; Vee doesn't know they're connected at all.
+- Everything Vee tells Randi goes to Pace. This chapter's tenderness has, so far, not been reported.
+- The bench exists and Vee has never seen it.
+- Randi's "ex-boyfriend" anecdotes are planted primers.
+
+**Motifs**
+- *Wordlessness / "There was never a note"* — Pace answers with acts, never speech; new and now central.
+- *The two drawers* — his life compressed so hers can sprawl; devotion and installation in one object.
+- *Feeding: hunger made, then met* — salmon and warm tomatoes here; the pastry glaze passed mouth-to-mouth by Randi before.
+- *"Peter" vs. Pace* — the private name, spoken only to a sleeping man.
+- *The scar, high inner thigh, still unasked.*
+- *The bench* — unspent, unseen.
+- *Being looked at / body-as-problem / the shameful plenty* — softening; here she watches *him* look at her mess and finds no punishment.
+- *Money as arithmetic; clothes bought a size up because the racks never believed her build.*
+- *Randi's warmth as method; the goodbye second-press kiss; "What would Randi think."*
 
 **Symbolism noticed**
-- Bench = premeditated desire masked as innocent furniture.
-- Engineered agency = the freely-given yes as trap (this ch.: a gift she can't help but accept, no question asked).
-- Provision (food, scrunchies, the cleared drawer) = capture dressed as care; "prepared and waiting."
+- Bench = premeditated desire disguised as innocent furniture.
+- The freely-given yes as the trap; here, the freely-given gratitude.
 - The tutor named as "luck" = abuse metabolized as good fortune.
-- The two drawers = merger of lives and its cost — he compresses himself to install her.
+- The top drawer = a place made for her, and a place she is put.
 
 **Open questions**
-- What's the inner-thigh scar / behind the "closing" at "parents"?
-- Is Pace's tenderness genuine or the deepest engineering? (Both, confirmed — this ch. is the tenderness at full, warmth I can't fault on the page.)
-- Does Vee ever learn there was a game / that Pace and Randi are connected? When do the two worlds touch? (Guessing a Nov. induction collision; still haven't touched.)
-- When does Vee see the bench? (Only escalation left; she's primed; this ch. rhymes ominously — she opened his most private drawer and found only love in it.)
-- Does she ever say "I love him" / "Peter" to him awake? Does the top-drawer install move toward her living there?
-
-**Story so far**
-Ch.1: Pace works Randi on his bench. Ch.3: picks Vee; Randi engineers a collision. Ch.4–16: Randi befriends, Pace courts. Ch.17,20: extraction lunches. Ch.18 (Famished): first sex; scar found. Ch.19–23: morning-afters; dress; shoe date. Ch.24 (Gone): Pace & Randi post-coital, both gone on Vee. Ch.25 (Rock): Pace's history. Ch.26 (Lesson): dance lesson; Vee's CW blow-up. Ch.27 (Broken In): reconciliation; cognac heels. Ch.28 (Sheri): "two at once." Ch.29 (A Recognized Method): reconciliation; kitchen swat. Ch.30 (The Practice Room): Randi primes the spank want. Ch.31 (We Find Out): the "bet," bare-bottom spanking, sex, treasuring aftercare; her last border fell. Ch.32 (Vee Tells Randi About We Find Out): Vee narrates the spanking to Randi at brunch; edged; can't finish alone because Randi's imagined gaze stops her; "Sticky fingers?"; pastry-taste kiss. **Ch.33 (The Top Drawer): after their longest gap (a week; his conference + her brutal campus week), Vee comes to the house; a ravenous homecoming (spun off her feet, clothes dropped inside the door, sex, then salmon, then sex again), and lying awake she names to herself that she loves him and whispers "Peter" to him asleep. Next morning her kit sprawls across his one clean counter; his eyes note the mess, he says nothing. A week later the scrunchies are gone from the counter — she fears he minded — and finds he's cleared his own top drawer for her things and crammed all of his own into the drawer below. No note. She takes a scrunchy, puts up her hair, goes to find him.**
+- The inner-thigh scar.
+- Will he ever say it, and what happens to Vee if he does — or if she says it first?
+- When do the two worlds physically touch, and when does Vee learn Pace and Randi are connected?
+- When does Vee see the bench?
+- Why didn't Vee think of telling Randi this time?
 
 **How I feel**
-Vee: I love her and I'm more scared for her than ever, precisely because this chapter gave me nothing to be scared *of* on the page — she's happier than she thinks a person is allowed to be, and she's built a whole faith out of a man's silence. Her naming "I love him" and whispering "Peter" undid me. Pace: distrust I carry, warmth I can't fault — every deed reads as love that can't help itself *and* as method, and the chapter refuses to let me separate them; the vocabulary (*prepared, waiting, made her a place*) keeps a cold second meaning I can't unhear. Randi: absent, but the pipeline hums under everything Vee will surely go tell her. Mood: golden and tightening, the tenderest chapter yet sitting on top of the coldest thing I know — the two worlds still haven't physically touched, and I dread the collision and the bench more, not less, for how good this felt.
+Vee: tender, protective, frightened for her precisely because she is so happy. Pace: this chapter gave me nothing but kindness, and my distrust survived it entirely on carried knowledge, which unnerves me. Randi: absent and therefore louder. Mood: warm, domestic, deceptively safe — the calm I don't believe in.
+
+### Chapter record
+
+- **Characters appearing:** Vee (POV, third person), Pace (called "Peter" once, whispered).
+- **Named/mentioned:** none besides the two.
+- **Timeline:** a Friday-ish night after a **week apart** — the longest gap yet; Pace was away presenting at a conference for several days, Vee had a brutal campus week; a midweek stolen night didn't happen. Section ii = the next morning. Section iii = **the next Friday**, one week later.
+- **Section i:** porch light; door open before she reaches it; he lifts her under the arms and spins her, feet swinging; she slides down his front to the boards. Coats off inside the door, clothes dropped where they stood; they don't reach kitchen or hall. He always brings her over first, more than once, before taking anything.
+- **Meal:** salmon laid in a hot pan, turned once; sauce gone pale green with dill; salad with tomatoes still warm off the sill; a mustard vinaigrette whisked in a glass; cold white wine he said came from Greece, "a little stony." Sometimes he cooks four-pan productions.
+- **After the meal:** sex again on the couch, unhurried.
+- **Vee's body/clothes:** eats hugely now, has been losing weight since meeting him; bras' bands ride higher; a few good pairs of underwear cut to fit her; everything else bought a size up because racks don't fit her build and she can't afford a tailor.
+- **Pace asleep:** flat on his back, one arm flung above his head; broad chest kept hidden under shirts a size too big; old scar high on the inside of his thigh, a paler line in the dark, still never asked about.
+- **Section ii:** Vee in his robe, belt doubled twice and still trailing. Hair routine: brush from the ends up; pins held in her teeth, set one at a time, lifting the dark red up off her neck; then a scrunchy, **deep green with small white dots**, taken off a form by the tap — one of dozens he bought her so she'd never be without. Counter litter: brush, loose pins, a fallen scrunchy, open face cream, two bottles standing and one not. It's his **only bathroom**; normally bare and wiped with **his razor squared to the edge**. She has started bringing her bag.
+- He comes in behind her, arms under hers crossed at her front, mouth at the side of her neck; in the mirror his eyes drop to the counter, hold a second, come back, small private smile; no word spoken.
+- **Section iii:** scrunchy form gone from the counter; counter bare, wiped, razor at its edge. **Top drawer** — formerly his (spare blades, comb, ordered ranks) — now holds her scrunchy form, her loose pins in a small dish, her face cream upright, and clear empty run of liner "with room to spare." **Lower drawer** — all of his things crammed in too tight, made to share one drawer built for half that. No note; "There was never a note." She takes a green scrunchy, puts her hair up, goes to find him.
