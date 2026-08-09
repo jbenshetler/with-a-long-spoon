@@ -85,6 +85,7 @@ def load_volume_packets() -> dict[int, dict]:
     return {int(volume): packet for volume, packet in data.items()}
 
 READER_PROTOCOL = "v2-volume-entry-jacket"
+LEGACY_PROTOCOL = "v1-repeated-jacket-legacy"
 
 def clean_scene_text(slug: str) -> str:
     raw = Path(f"scenes/{slug}.md").read_text()
@@ -372,7 +373,7 @@ def check_retention(prior_carry: str, new_carry: str, principals=None):
     return problems
 
 
-def write_review(out_dir: Path, model_id: str, model_selector: str, scene, response_text, predecessor, provider_label: str = "OMP"):
+def write_review(out_dir: Path, model_id: str, model_selector: str, scene, response_text, predecessor, provider_label: str = "OMP", protocol: str = READER_PROTOCOL):
     reader, carry = split_reader(response_text)
     reader, carry, moved = relocate_structured_block(reader, carry)
     if moved:
@@ -389,7 +390,7 @@ def write_review(out_dir: Path, model_id: str, model_selector: str, scene, respo
     content = (
         f"# Cold read — {scene['title']}\n\n"
         f"*scene: scenes/{scene['slug']}.md · model: {model_id} ({provider_label}: {model_selector}) · "
-        f"read after: {predecessor_label} · reader-protocol: {READER_PROTOCOL}*\n\n"
+        f"read after: {predecessor_label} · reader-protocol: {protocol}*\n\n"
         f"## Reader reaction\n\n{reader}\n\n"
         f"## Carry-forward state\n\n{carry}\n"
     )
@@ -570,7 +571,8 @@ def run_batch(
                             flush=True,
                         )
                     path, carry = write_review(
-                        out_dir, model_id, model_selector, scene, response_text, predecessor, provider_label
+                        out_dir, model_id, model_selector, scene, response_text, predecessor,
+                        provider_label, LEGACY_PROTOCOL if allow_legacy_resume else READER_PROTOCOL,
                     )
                     predecessor = scene["slug"]
                     usage = result.get("usage") or extract_usage(result.get("id") or label)
