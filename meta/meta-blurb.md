@@ -1,6 +1,6 @@
 # Blurb / jacket copy
 
-External reader-facing copy for *With a Long Spoon* — marketing and positioning only, not part of the writing process. Two registers throughout: **explicit** (names the threesome plainly; self-selects the right reader) and **implication** (holds the literary tone and a thread of unease; lets the reader infer). Deployment (per the 2026-07 erotica positioning below): **explicit is primary** — genre retail copy names the configuration; erotica buyers need the premise legible in fifty words, and "third" on the page is a promise, not a spoiler (chapter 3 gives the reader more than the blurb does). Implication serves literary-facing uses — review submissions, prize copy, queries. Genre and craft discipline at the bottom.
+External reader-facing copy for *With a Long Spoon* — marketing and positioning only, not part of the writing process. Deployment: the book self-selects the erotica reader, so retail copy is **explicit** — the premise legible in fifty words, warmth-first, never coy. (A blind-LLM shelving test, 2026-08-09, placed the book in the **erotica section only**; a non-explicit / literary-facing register buys nothing and is no longer maintained here — regenerate one fresh if a query or prize submission ever needs it.) **The threesome is a Volume Three payoff, not a Volume One/Two event** (author ruling 2026-08-09): Vol. 1/2 copy foregrounds *the plan* — Randi and Pace choose Vee and draw her in — never a "third in the bed" this book has not yet delivered. Genre and craft discipline at the bottom.
 
 ---
 
@@ -8,59 +8,55 @@ External reader-facing copy for *With a Long Spoon* — marketing and positionin
 
 ### Short (~55 words)
 
-> Miranda has everything: the looks, the poise, and a lover no one knows about. What began between them as a game now wants a third in their bed — Vivienne — and no one's told her. What none of them planned on was love. Vivienne only knows that two people have come into her life, asked nothing she didn't want to give, and made her feel, for the first time, fully alive.
-
-### Medium (~120 words)
-
-> Miranda — poised, warm, certain of everything — picked her out across the quad: the girl with the curly red hair who laughed with her whole body. *That one.* Her lover agreed. It began as a game between them — a third for their bed — and neither told Vivienne she'd been chosen.
->
-> What Vivienne knows is this: a brilliant, watchful graduate student attends to her so closely she feels seen all the way down, tuned to her safety and her pleasure, opening doors he never pushes her through. And the most magnetic girl on campus lifts her into the in-crowd and listens like no one ever has, drawing her secrets out across long Sunday lunches and handing them back as gifts. Two intimacies, both tending exactly what she needs — and turning, along the way, as real for the two who started the game as for the girl who never knew there was one.
->
-> The reader sees the shape of it from the first page. Vivienne never does. *With a Long Spoon* is a novel about power, appetite, honesty, and a love no one meant to feel.
-
-### Long / jacket (~180 words)
-
-> It began as a game. Miranda — Randi, to everyone — poised, dazzling, certain of everything, and secretly the lover of a young mathematician who lives alone at the end of a long drive — picked Vivienne Thorne out across the quad and decided, with him, that she would be the third in their bed. They told her nothing. What none of them saw coming was how real it would get — as real for the two who started the game as for the girl who never knew there was one.
->
-> What Vivienne knows is that her junior year has cracked open. Pace attends to her with an attention that feels like being seen all the way down — tuned to her safety and her pleasure, opening doors and never once pushing her through, so that walking through feels like the freest thing she's ever chosen. Randi — frank, warm, impossible not to love — lifts her into a brighter life and listens like no one ever has, drawing out over long Sunday lunches the shames Vivienne was raised to bury and handing them back as gifts. Both of them make her feel chosen; both are falling as hard as she is.
->
-> *With a Long Spoon* hands the reader the whole design on the first page and makes them love it anyway: a year-long seduction that turns true on everyone who touched it, rendered at full heat and full tenderness. For readers of Mary Gaitskill, Raven Leilani, and Lilian Fishman’s *Acts of Service*.
-
----
-
-## Implication
-
-### Short (~55 words)
-
-> Miranda has everything: the looks, the poise, and a lover no one knows about. What began between them as a game has a name now, and it's Vivienne — though she's the last to know. She only knows that two people have come into her life, asked nothing she didn't want to give, and made her feel, for the first time, fully alive.
-
-### Medium (~120 words)
-
-> Miranda — poised, warm, certain of everything — picked her out across the quad: the girl with the curly red hair who laughed with her whole body. *That one.* Her lover agreed. It began as a game between them, and neither told Vivienne she'd been chosen for anything at all.
->
-> What Vivienne knows is this: a brilliant, watchful graduate student attends to her so closely she feels seen all the way down, tuned to her safety and her pleasure, opening doors he never pushes her through. And the most magnetic girl on campus lifts her into the in-crowd and listens like no one ever has, drawing her secrets out across long Sunday lunches and handing them back as gifts. Two intimacies, both tending exactly what she needs — and turning, along the way, as real for the two who started the game as for the girl who never knew there was one.
->
-> The reader sees the shape of it from the first page. Vivienne never does. *With a Long Spoon* is a novel about power, appetite, honesty, and a love no one meant to feel.
-
-### Long / jacket (~180 words)
-
-> It began as a game. Miranda — Randi, to everyone — poised, dazzling, certain of everything, and secretly the lover of a man no one has met, a young mathematician who lives alone at the end of a long drive — picked Vivienne Thorne out across the quad and decided, with him, that this was the girl. Neither of them told her. What none of them saw coming was how real it would get — as real for the two who started the game as for the girl who never knew there was one.
->
-> What Vivienne knows is that her junior year has cracked open. Pace attends to her with an attention that feels like being seen all the way down — tuned to her safety and her pleasure, opening doors and never once pushing her through, so that walking through feels like the freest thing she's ever chosen. Randi — frank, warm, impossible not to love — lifts her into a brighter life and listens like no one ever has, drawing out over long Sunday lunches the shames Vivienne was raised to bury and handing them back as gifts. Both of them make her feel chosen; both are falling as hard as she is.
->
-> *With a Long Spoon* hands the reader the whole design on the first page and makes them love it anyway: a year-long seduction that turns true on everyone who touched it, rendered at full heat and full tenderness — power, appetite, and the honesty the body tells without permission. For readers of Mary Gaitskill, Raven Leilani, and Lilian Fishman’s *Acts of Service*.
+> Miranda has everything: the looks, the poise, and a lover no one knows about — a young mathematician named Pace. What began between them as a game became a plan, and the plan is Vivienne: chosen, and never told. What none of them planned on was love. Vivienne only knows that two people have come into her life, asked nothing she didn't want to give, and made her feel, for the first time, fully alive.
 
 ---
 
 ## Test-epub blurb (Volume 1 · test readers · ~Aug 2026 · decided, not final)
 
-> It began as a game. Miranda — Randi, to everyone — poised, dazzling, certain of everything, and secretly the lover of a young mathematician who lives alone at the end of a long drive — picked Vivienne Thorne out across the quad and decided, with him, that she would be the third in their bed. They told her nothing. What none of them saw coming was how real it would get — as real for the two who started the game as for the girl who never knew there was one.
+> Two people have planned the best year of her life. She doesn't know there's a plan.
 >
-> What Vivienne knows is that her junior year has cracked open. Pace attends to her the way no one ever has — tuned to her safety and her pleasure, asking before he takes and taking only what she gives, drawing out of her a wanting she'd have been ashamed to name. Randi lifts her into a brighter life and listens like no one ever has, drawing out the shames she was raised to bury and handing them back as gifts. Her lover and her best friend both make her feel chosen. Both are falling as hard as she is.
+> Vivienne "Vee" Thorne is twenty-one, a college junior, and quietly starving. The men have been fine. The friendships have been fine. Fine has never once been enough. So when her glamorous new friend, Randi, steers her — lightly, laughing, as if by accident — into the path of a young mathematician named Pace, Vee walks toward him because everything in her has been waiting to.
 >
-> Every yes was freely given. That was the trap.
+> Pace is nothing like the boys she has known. He sees Vee completely, and under that gaze the shame she has carried since girlhood turns, impossibly, into heat. Courtly, exact, he asks before he takes and leaves her the room to choose, until choosing becomes the most erotic thing she has ever done. What grows between them is the best of her life, and every step of it she gives freely, gladly, with her whole body. Over lunches too intimate to name, she tells Randi everything — and Randi listens, and draws her further open, and loves her, and shapes her. And Vee never lets herself notice how much she grows to want Randi, too.
+>
+> What Vee cannot see is that the invitation reached her long before she knew there was one — that it began as a game between the two people now closest to her, a secret choice made about her. What none of them saw coming was how real it would get: as true for the two who started it as for the girl who never knew there was one. Nothing was taken from her that she did not hand over.
+>
+> Warm, wickedly explicit, and merciless in its tenderness, *A Polite Invitation* follows a young woman all the way inside an appetite that can only give her the best of herself by taking it — and lets the reader, ahead of her from the start, fall for it exactly as she does.
+>
+> Every yes was freely given. That was the problem.
 >
 > *Book One of* With a Long Spoon. *For readers of Anne Rice's* Beauty *trilogy — a seduction at full heat and full tenderness, where every open door is a temptation and every step is hers.*
+
+---
+
+## Blurb design goals — the yardstick (change only intentionally)
+
+*What the current Test-epub blurb (above) is built to do, recorded 2026-08-09 so any future change is a deliberate decision, not drift. Grade a revision against these before shipping it.*
+
+**Attract the right reader**
+- Sell the positive position: warm, sexy, character-driven, explicit, full-consent.
+- Perform (don't label) strong interiority and rich characterization — the literary claim and the retention promise ("it's actually *written*").
+- Signal shame as a psychological engine — the sex has stakes and meaning, not just mechanics.
+- Carry the appetite/hunger theme (food as metaphor; the title is an eating proverb).
+- Speak to the *Fifty Shades*-dissatisfied reader: consent *as* the eroticism (its inversion), and explicit-on-the-page (the word plus the *Beauty* comp). The jacket confirms this reader; ad/social copy — where *Fifty Shades* may be named — acquires them.
+
+**Repel the wrong reader (prevent 1-star mismatch reviews)**
+- Filter out pure-stroke seekers via interiority + literary voice, never a disclaimer.
+- Signal the girl-girl attraction reader-side (Vee doesn't see it), to warn the f/f-averse.
+- One clear dark cue; no HEA-shaped language. Residual risk is the erotic-romance crossover, handled by the dark cue + the *Beauty* comp — not by darkening the warmth (erotica and literary fiction both license the non-HEA ending; only romance punishes it).
+- Say "explicit" plainly.
+
+**Be legible to someone who knows nothing of the book**
+- Name the three principals unambiguously — **Vee** (protagonist), **Randi** (her glamorous new friend), **Pace** (the mathematician) — with no character carried on a bare pronoun. (This fixes the original blurb's mathematician confusion, the reason for the rewrite.)
+
+**Make no promise the book doesn't keep**
+- No threesome promise (Volume Three payoff); no school named; the deception is a game that turned real on all three (keeps Randi and Pace off the predator read); consent as her agency (the freely-given yes is the point).
+
+**Stay true to the book's structure**
+- Dramatic irony, not mystery — the reader is ahead of Vee from the start; reader complicity is the hook.
+- Warmth leads, the trap felt underneath; never cold or sinister.
+- Never disclose the ending; no thesis vocabulary a first-time reader can't decode; no heat overclaiming.
 
 ---
 
@@ -108,14 +104,14 @@ Deliberately absent: elevator pitch and unused taglines (query/ad material, not 
 
 ## Craft discipline (obey in every blurb)
 
-- **Foreground the configuration; protect the landing.** The plan — Randi and Pace are lovers, Randi selects Vee as their third — is open from chapter one. The book runs on dramatic irony (dread, not mystery); the reader stands ahead of Vee. Naming the configuration is the *hook*, not a spoiler. What recontextualizes is the *ending* — the inversion of who sees, the fused good/harm verdict, the orphaned wound. Never disclose how it lands.
+- **Foreground the plan; protect the landing.** The design — Randi and Pace are lovers, and they have chosen Vee and are drawing her in — is open from chapter one. The book runs on dramatic irony (dread, not mystery); the reader stands ahead of Vee. Naming *the plan* is the *hook*, not a spoiler — but the **consummated threesome is a Volume Three payoff, never promised on the Volume One/Two jacket** (author ruling 2026-08-09): foreground the choosing and the steering, not a "third in the bed" this volume does not deliver. What recontextualizes is the *ending* — the inversion of who sees, the fused good/harm verdict, the orphaned wound. Never disclose how it lands.
 - **Warmth leads; the trap is felt underneath.** The friendship, the love, the tenderness are the truest and strongest things in the book — lead with them. The configuration is the hook, but it must never read cold or sinister (the blurb obeys earn-the-dark too): the reader feels the warmth first and the trap beneath it, never gets sold the machine. "Two people run a con on a third" is the inverted, wrong blurb.
 - **Both seducers serve Vee's needs — and never push.** Pace opens doors and beckons; he never coerces — his attention serves her *safety and pleasure* and makes her feel **seen** ("seen" is Pace's word, never Randi's). Randi *elevates and listens* — she makes Vee feel *chosen*. Both make her feel special and chosen; the service is the seduction, not a softening of it. Never write Pace as acting without asking, and frame the deception as a *game* that turned real on all three — Randi and Pace trapped as surely as Vivienne (keeps them off the predator read).
 - **End on the tightening, not the consequence.** Close on the deepening/exposure; never on catastrophe, the threesome's aftermath, or who is destroyed.
 - **Never name the appetite.** Show aliveness (the girl who laughs with her whole body); don't explain it. The contained-girl-points-at-the-unguarded-one image carries the thesis silently. Naming it kills it — same earn-the-dark-by-being-light rule as the prose.
 - **Pace is older in bearing, not in years** (≈22–23 to Randi's 21). Render him as out of phase with campus — a math PhD candidate who started college at fifteen, living alone off the highway — never as a May-December "older lover."
-- **One dark cue per retail blurb; no HEA-shaped (happily-ever-after) language ever.** Every retail-length blurb carries one unmistakable this-does-not-end-well cue so romance-expectation readers self-select out before they can feel betrayed — a tagline does it ("Every yes was freely given. That was the trap."). Compatible with "end on the tightening": the cue is the tightening, never the consequence.
+- **One dark cue per retail blurb; no HEA-shaped (happily-ever-after) language ever.** Every retail-length blurb carries one unmistakable this-does-not-end-well cue so romance-expectation readers self-select out before they can feel betrayed — a tagline does it ("Every yes was freely given. That was the problem." — "trap" was retired 2026-08-09 for implying a malice the book refuses). Compatible with "end on the tightening": the cue is the tightening, never the consequence.
 - **The names are play and promise.** Formal names on the jacket (**Miranda**, **Vivienne Thorne**); filed-down names in the book (Randi, Vee). The nicknames wink (Randi, Vee) — never scrub or apologize: the book takes the wink seriously, and the gap between jacket name and page name *is* the promise — these are the opposite of porn characters. House move for doing the filing on the jacket itself: *"Miranda — Randi, to everyone —"*. (Bonus: a reader who meets Miranda on the jacket gets a small extra charge when the formal name surfaces on the paperwork in {{The Outlier}}.)
 - **The anti–Fifty Shades hook is gestured, never named on the product.** The consent lines ("asking before he takes and taking only what she gives"; "every open door is a temptation and every step is hers") are the signal — the readers it's for will clock it in one pass. Naming Fifty Shades is allowed only in ad/social copy, never on the jacket.
-- **Consent signals are phrased as her agency, never as his restraint — no negations.** "Every step is hers" outsells "not one is pushed": negative constructions (*not/no/never*) end the beat on a denial and read as disclaimers; positive constructions end on her choosing and read as promise. His verb up front (tempt, beckon — the canonical engine verb — or the door itself as actor), her agency at the close. Bonus when the lure verb is *temptation*: it shakes hands with the title's devil-proverb and the tagline's "trap."
+- **Consent signals are phrased as her agency, never as his restraint — no negations.** "Every step is hers" outsells "not one is pushed": negative constructions (*not/no/never*) end the beat on a denial and read as disclaimers; positive constructions end on her choosing and read as promise. His verb up front (tempt, beckon — the canonical engine verb — or the door itself as actor), her agency at the close. Bonus when the lure verb is *temptation*: it shakes hands with the title's devil-proverb.
 - **No heat overclaiming.** Chapter one delivers; the sample is the contract. "At full heat and full tenderness" is the ceiling of the claim — never "scorching from page one" language. The quiet jacket + loud chapter one is the anti–Fifty Shades experience in miniature.
