@@ -68,6 +68,14 @@ runs or to splice it onto a cheaper model from the ch. 8 seam, as fable was.
   scenes sequentially with a per-scene blindness tripwire (`tool_uses` must be 0), and
   writes into `reviews/cold-read/<id>/`. Non-Claude ids are refused with a pointer to
   the external harness.
+- **Use `--legacy-resume` (author ruling 2026-08-09).** Every review on disk predates
+  the `v2-volume-entry-jacket` protocol, so `has_valid_review()` does not recognize any
+  of them as a seedable predecessor and the harness refuses to start. Pass
+  `--legacy-resume` to seed from the existing chain; new files are stamped
+  `reader-protocol: v1-repeated-jacket-legacy`, which keeps them comparable with the
+  baselines already here. **This is the standing default until the panel is rebuilt
+  under v2** — a full-chain job across all four active models, not yet scheduled. Do
+  not silently start a v2 chain on top of legacy carry-forward.
 - **Non-Claude models** (gemini/gpt/grok/…): produced by a separate harness that
   **must follow `SPEC.md`** — same layout, same filenames, same two-section format,
   same carry-forward chaining and blindness rules — so its files line up exactly with
