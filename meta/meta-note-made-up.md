@@ -39,4 +39,4 @@ On the costume holiday she dresses up as **the woman the two of them built** —
 - Dress transport (author ruling 2026-08-06): Vee lives in a **dorm**, and she treasures the dress — Wednesday night she wore it home and zipped it into its bag in her closet before bed. Friday it rode out with her deliberately, laid across the back seat, while she packed **nothing else** — no toothbrush, no change of clothes. The cognitive dissonance strengthens rather than weakens: she brought it to show him before she had words for how; Halloween supplies the form, not the intention. Friday's arrival — wrap skirt, early hour — untouched.
 - Heels canon: Vee's own black boutique four-inch thin-strap heels from {{Sorority}}, bought on the card with nothing behind it.
 - The photo is Pace's only prior access to the outfit ({{The Induction}} candid); he has not seen the pairing live before tonight.
-- {{Another Round}} (Jan 30) has Sheri's scan of the heels in the taproom — consistent: Pace's private viewing precedes it by three months.
+- {{Another Round}} (Jan 23) has Sheri's scan of the heels in the taproom — consistent: Pace's private viewing precedes it by three months.

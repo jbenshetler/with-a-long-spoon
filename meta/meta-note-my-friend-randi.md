@@ -1,6 +1,6 @@
 # Note — My Friend Randi (the pivot of the reconciliation day)
 
-*Scene · Draft complete · ~Fri Jan 22, afternoon · Randi's single · Vee POV · SATC/confidante track · the first beat of the reconciliation day (**My Friend Randi** → {{Nothing Underneath}}; the December rupture at {{Believe Me}} is the setup). Umbrella for the day: `meta-note-first-weekend-back.md`. Track doc: `meta-plan-satc-tracks.md`.*
+*Scene · Draft complete · ~Fri Jan 15, afternoon · Randi's single · Vee POV · SATC/confidante track · the first beat of the reconciliation day (**My Friend Randi** → {{Nothing Underneath}}; the December rupture at {{Believe Me}} is the setup). Umbrella for the day: `meta-note-first-weekend-back.md`. Track doc: `meta-plan-satc-tracks.md`.*
 
 The title **is** the irony: the real other woman, called *friend* — the one Vee runs to, the one who sends her back. Sharpen it, never wink at it.
 
@@ -67,7 +67,7 @@ The goodbye-kiss staircase does **not** escalate here: the **usual settled kiss*
 
 ## Continuity guards
 
-- **Same day as {{Nothing Underneath}} (night)** — the afternoon pivot and the day's first beat; ~Fri Jan 22. The morning is the airport-drive grief that opens this scene (red-eye home to no word from Pace, the empty dorm), not a door-visit; the December rupture ({{Believe Me}}) is the wound she brings.
+- **Same day as {{Nothing Underneath}} (night)** — the afternoon pivot and the day's first beat; ~Fri Jan 15. The morning is the airport-drive grief that opens this scene (red-eye home to no word from Pace, the empty dorm), not a door-visit; the December rupture ({{Believe Me}}) is the wound she brings.
 - **The coat is Randi's idea** — the door-two costume traces here; the umbrella note records the fingerprint.
 - **Randi hasn't met Sheri** — she can't hold the fact; soothe emotionally only.
 - **Precedes {{Among Friends}} and {{Another Round}}** (both "soon after"): the confidante bond and the scent vector are already live when Randi crosses into Vee's world at {{Among Friends}} and when Vee crosses into Pace's at {{Another Round}}.

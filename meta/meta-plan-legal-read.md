@@ -62,9 +62,11 @@ surname; character names have symbolic antecedents, not real-person referents.
 *Rationale:* Directly links 'freshman' (typically 18) to sexual activity in the very room where the scene's erotic content then occurs; a hostile reader could read it as normalizing under-21 sex on campus, though no participant in the scene is a freshman.  
 *Proposed mitigation:* Change to 'People used to use these' or 'Back in the day' — drop the class-year label; the blush lands the same.
 
-### [2] All the Time — Dr. Marsh — named VT professor, 'easy A' course (institution)
+### [2] All the Time — Dr. Marsh — named VT professor, 'easy A' course (institution) — MITIGATED 2026-08-09
 
 > The Dr. Marsh one — the easy A everyone claws for
+
+**Resolved 2026-08-09 — the 'easy A' framing is cut from the prose.** `all-the-time:125` now reads *"The Dr. Marsh one — even her eight a.m. fills up."* The line no longer characterizes a named professor's course as a gut, only reports that students repeat it; the residual risk is name-sharing alone, which is never the test. Driven by a craft ruling (`meta-note-anthro.md` — star-mode Marsh), not by this item, but it closes it.
 
 *Location:* late scene, elective conversation  
 *Rationale:* A named professor at a real, named university (VT anthropology) characterized as running the easy-A class — a real Dr./Prof. Marsh at VT could read it as about them.  
@@ -436,7 +438,7 @@ Clean — no findings.
 
 | Risk | Category | Item | Quote | Location | Mitigation |
 |---|---|---|---|---|---|
-| 2 | institution | Dr. Marsh — named VT professor, 'easy A' course | The Dr. Marsh one — the easy A everyone claws for | late scene, elective conversation | Verify no real Marsh in VT anthro/humanities; if any collision, change surname or soften 'easy A' framing. |
+| 2 | institution | Dr. Marsh — named VT professor, 'easy A' course | ~~The Dr. Marsh one — the easy A everyone claws for~~ → *even her eight a.m. fills up* | late scene, elective conversation | **MITIGATED 2026-08-09** — 'easy A' framing cut from the prose; slot check already clear. |
 | 1 | lyrics | "I Left My Heart in San Francisco" — title-level echo | Tony Bennett somewhere up in the dark leaving his heart in San Francisco | para 4 (Vee crossing the restaurant floor) | No change likely needed — title-only use; confirm with lawyer it isn't read as a quoted line, or rephrase to 'singing about San Francisco'. |
 | 1 | real-person | Tony Bennett — recorded music playing in restaurant | Tony Bennett somewhere up in the dark | para 4 | No change needed — nominative use. |
 | 1 | trademark | 'Miss November' — Playboy centerfold allusion *(tier: mentioned)* | Okay, *Miss November.* | photo-sharing exchange, mid-late scene | No change needed — brand not named; note for lawyer only for completeness. |

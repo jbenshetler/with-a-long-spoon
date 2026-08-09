@@ -1,10 +1,10 @@
 # Note — First Weekend Back (Reconciliation — the lie)
 
-*Umbrella note for the **reconciliation day** — rendered as two linked scenes across one day (~Fri Jan 22), just after the long break, before {{The Reach}} · companion to meta-condensed-first-weekend-back.md*
+*Umbrella note for the **reconciliation day** — rendered as two linked scenes across one day (~Fri Jan 15), just after the long break, before {{The Reach}} · companion to meta-condensed-first-weekend-back.md*
 
 ## The reconciliation day — two linked scenes (one day)
 
-The old single scene is now **two beats across one day** (~Fri Jan 22), the compression carrying Vee's urgency — she can't let the breach sit. The thematic work is done for free by the **word-vs-body** contrast, now spanning the break rather than a single day: December's worded demand ruptured them ({{Believe Me}} — "words are cheap," she walked out), silence held through the break, and here the **wordless offering** mends it. The failed reach is the December fight; the offering that works is the night coat.
+The old single scene is now **two beats across one day** (~Fri Jan 15), the compression carrying Vee's urgency — she can't let the breach sit. The thematic work is done for free by the **word-vs-body** contrast, now spanning the break rather than a single day: December's worded demand ruptured them ({{Believe Me}} — "words are cheap," she walked out), silence held through the break, and here the **wordless offering** mends it. The failed reach is the December fight; the offering that works is the night coat.
 
 - **{{My Friend Randi}}** (afternoon) — the pivot, at Randi's single, and the day's first beat. Off a red-eye home to no word from Pace — the drive breaking her, the empty dorm (Cassie not back) worse — Vee does what she did after the CW Dance and goes to Randi; **the nothing-under-the-coat appeal is Randi's counsel.** The confidante track produces the act that saves the relationship. *Full craft in its own note: `meta-note-my-friend-randi.md` (SATC-track — kept separate to protect the register).*
 - **Nothing Underneath** (night) — the reunion. She executes Randi's counsel: the coat over nothing, the December demand set down, the body her whole reply. (Documented below.) **Volume One's close.**
@@ -25,7 +25,7 @@ Erotically this is **not a new riser** — every new threshold for the next two 
 
 The surrender is rendered across the **gap between the December rupture and the January reunion**, never narrated. We saw Vee-with-the-demand at {{Believe Me}} and we see Vee-without-it at the night door; the reader infers the trade in the white space (and in the afternoon visit to Randi that catalyzes it).
 
-- **The setup — the need still live (December, `Believe Me`).** She threw the demand to be *named* and he answered warm-but-wrong ("words are cheap"), folded his arms, and let her walk out. His cold is the **stress-tell** (below), not a verdict; the *what-are-we* stays open all year (the Cabin key soothes it, the peaches dinner reopens it). She holds the standoff through the break, silence on both sides — the wound she carries into Jan 22.
+- **The setup — the need still live (December, `Believe Me`).** She threw the demand to be *named* and he answered warm-but-wrong ("words are cheap"), folded his arms, and let her walk out. His cold is the **stress-tell** (below), not a verdict; the *what-are-we* stays open all year (the Cabin key soothes it, the peaches dinner reopens it). She holds the standoff through the break, silence on both sides — the wound she carries into Jan 15.
 
 - **The morning (airport-drive grief, now opening `My Friend Randi`).** Off the red-eye she drives home to no-Pace — no text all break, the town full of him and none of him hers — and it breaks her on the road; the empty dorm (Cassie not back) deepens it through the morning. This does the job the cut `The Stranger` used to do: delivers Vee wrecked to Randi. No door-visit, no reach — the grief is the silence and the December fight, not a fresh rejection.
 
@@ -94,7 +94,7 @@ The deepest wound is structural, and **neither character understands it yet.** T
 
 ## Beat sheet
 
-- **The setup ({{Believe Me}}, December):** the demand to be named, "words are cheap," folded arms, she walks out; silence holds through the break. The wound she carries into Jan 22.
+- **The setup ({{Believe Me}}, December):** the demand to be named, "words are cheap," folded arms, she walks out; silence holds through the break. The wound she carries into Jan 15.
 - **{{My Friend Randi}} — the pivot, afternoon (own note):** the morning airport-drive grief (red-eye home to no-Pace, the empty dorm) opens it and delivers her wrecked; she goes to Randi (the CW-Dance rhyme); vents the silence, the no-name wound, the **Sheri fear she won't put to Pace**; Randi coaches — **the coat is Randi's idea**; the big long hug (flicker too-long) + Randi's scent taken in like Pace's (reader-side only) + the usual settled kiss. Surrender catalyzed, never narrated. Full craft: `meta-note-my-friend-randi.md`.
 - **Nothing Underneath — the night reunion (the demand set down):** *put herself together* — long coat, heels, bare beneath; her steaming breath; Pace's one distancing line (courteous, after two silent weeks); she doesn't ask again for the word; she opens the coat, wordless. He sees it land (her willing transgression + that she came), takes her in.
 - **The sex:** within crossed thresholds at reunion-ferocity — starved, raw; flat-to-alive on the body; his being-undone and his appetite both, no seam.

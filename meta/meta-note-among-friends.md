@@ -1,6 +1,6 @@
 # Note — Among Friends (Pace enters Vee's world)
 
-*Scene · Architecture complete, prose not drafted · ~late January, a weeknight soon after First Weekend Back (mid-week — the venue choice fixes it; see Panel one) · around {{Forbidden Kiss}} / {{The Reach}} · Vee POV · companion to meta-condensed-among-friends.md · title provisional (alt: "Without Being Asked")*
+*Scene · Draft complete · **Wed Jan 20** — the first Wednesday after First Weekend Back, week 1 of spring (mid-week — the venue choice fixes it; see Panel one) · sits **between the two spring SATCs**, {{Covering}} (Tue Jan 19) → here → {{A Clean Plate}} (Thu Jan 21); Randi is present, so nothing here needs retelling, and the one thing it feeds the track runs the other way — Randi's read of Pace, delivered back to Vee at {{A Clean Plate}} · Vee POV · companion to meta-condensed-among-friends.md · title provisional (alt: "Without Being Asked")*
 
 ## What this scene is now
 

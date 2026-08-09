@@ -325,7 +325,40 @@ The ladder *trains Vee out of the management-gap* into the gapless, shame-fused 
 
 **Randi knows.** She knows the bathroom orgasms are happening (the *show me* instruction proves she's tracking and directing them) and she definitely knows when Vee comes in the chair. Her knowing is part of the charge and part of the control.
 
+**What each rung overcomes (author ruling 2026-08-09).** Location is the visible ladder; the real ladder is what Randi's imagined gaze is *doing* at each rung and what Vee gets past. Read the two together:
+
+| | Where | Randi's gaze | What's overcome |
+|---|---|---|---|
+| 1 | her room, alone, after | absent | nothing — the early state |
+| 2 | stall, **stops** | imagined, **prohibitive** — the kind eyes stop her | nothing; the brake holds *({{We Find Out}}; repeats at {{A Clean Plate}})* |
+| 3 | her room, same night | **escaped** | proximity — she needs distance and a Pace label *({{The Reach}})* |
+| 4 | stall, **completes** | imagined, **survivable** — she goes through it | the brake. Randi in mind, still filed as about Pace |
+| 5 | the table, Randi watching and directing | real, **instructing** | the last of it — gaze becomes permission |
+
+**Randi-in-mind is a Witness/response rung, not an object rung.** At rung 4 Vee is masturbating **past** Randi, not **to** her — she is getting through the kind eyes watching her, not wanting them. This is a step in Vee reframing Randi from *just a friend* toward *possibly more than a friend*, and it is nowhere near the top. **Conscious desire for Randi is the threshold and is not on this ladder** — object-migration falls last, by design (see the axis law above: *response precedes object*). Do not let a drafting session collapse rung 4 into object-migration; the mistake is easy and expensive.
+
 **(Unsettled — do not lock.)** Whether, at the late/chair stage, Vee comes *during* vs. *after* the extraction is not yet decided; to be worked out when the late SATC scenes are drafted. Orgasms are rendered — explicitly but in-register (interiority and social-charge, not mechanics; the chair-rung as much terror/exposure as pleasure).
+
+### The control-slip thread (committed 2026-08-09)
+
+A ladder of moments where **Vee sees something Randi did not mean to show.** Randi's opacity is the book's central magic trick, and a trick that never slips reads as authorial protection rather than as a person. Each slip is small, deniable, and immediately **covered** — Randi's recovery is as fast and as warm as the slip was involuntary — and each one is a coin the reveal spends: on reread they are the places the reader can see her being *had* by this, and the places Vee was handed the truth and set it down.
+
+**Rules:**
+
+1. **Involuntary, physiological, and small.** A flinch, a shiver, a beat of held breath, a hand that closes too hard. Never a statement, never an expression Randi could have chosen. If she could have decided to do it, it isn't a slip.
+2. **Randi always covers, and the cover is warm** — reassigned to cold hands, to being ticklish, to the drink. She never freezes and never goes cold; going cold *is* the tell, and it's the one she doesn't make.
+3. **Vee never files it** — until very late, and only where a scene explicitly says so. No wondering, no returning, no *huh*. She registers it the way you register a hiccup. Filing it early starts the Cassandra machinery out of sequence and cracks the opacity.
+4. **Never narrated as significant.** The nudge ban has no margin here: no *something crossed her face*, no *for just a second*. The slip is rendered as event and left.
+5. **The slips escalate in what they reveal**, not in size: first that Vee's touch lands on her at all → later that Randi wants something specific → latest that Randi is not in control of this.
+
+**Instances:**
+
+| | Scene | The slip | The cover |
+|---|---|---|---|
+| 1 | {{Covering}} (Tue Jan 19) | the neck — Vee's fingers find where she cried, *"Here?"*, and Randi flinches | reassigned, light, instant |
+| 2 | the Dressing Room | the nipple tweak (already treated as a slip in that scene's material) | — |
+
+Later instances to be assigned as spring/summer scenes draft. Rung 1 needs **no new seeding** — both the wet neck and Vee's face at that spot are already on the page at `my-friend-randi.md:19,21`.
 
 ### The goodbye hug and special kiss — counterfeit blanket-and-tea AND liminal-space exit
 

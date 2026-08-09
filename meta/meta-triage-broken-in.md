@@ -10,7 +10,7 @@ or an edit that re-opens the passage).
 - **":93 "half off the bed" → "half out of the chair"** — Vee was nodded into
   the desk chair at :49 and never migrates; Randi owns the bed. Also
   ladder-critical: Vee's first time *on* Randi's bed is {{My Friend Randi}}
-  (Jan 22, "knees touching"); the in-room escalation runs chair → bed →
+  (Jan 15, "knees touching"); the in-room escalation runs chair → bed →
   closet-as-wardrobe, and this line would have spent the January rung three
   months early.
 - **":197 "Four hours ago" → "A few hours ago"** — the scene's clock (8:00

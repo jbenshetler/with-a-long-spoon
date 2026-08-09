@@ -1,6 +1,6 @@
 # Condensed — Another Round
 
-*Compaction of the drafted scene (`another-round.md`); surface only — the unrendered craft/subtext lives in `meta-note-another-round.md`. Sat Jan 30, after {{Among Friends}}, before {{Grace}}; a taproom in town. Vee POV. Vee and Sheri's first meeting on the page.*
+*Compaction of the drafted scene (`another-round.md`); surface only — the unrendered craft/subtext lives in `meta-note-another-round.md`. Sat Jan 23, after {{Among Friends}}, before {{Grace}}; a taproom in town. Vee POV. Vee and Sheri's first meeting on the page.*
 
 - **The kitchen hinge (two nights after the roadhouse).** At his sink — Vee mining the party (Danny's tub of egg whites, Pace's fingerprints per Meg) — Pace says, to the window: *"There's somebody I'd like you to meet." "Sheri."* The name detonates the Christmas invention (gold hair, tan leg); the knowing (*I built her on the nights I felt stupid*) turns out to be a coat of paint — the cold arrives anyway. His facts, handed over like dried spoons: *"Small." "Loud." "We cycle." "She dances."* — the *we* and the blade both received in silence.
 - **The armor.** She dresses **for the woman her jealousy built, knowing it, doing it anyway**: Meg's keyhole shirt, a hall girl's short skirt, and — past the boots — the **induction heels** (four inches of thin strap, bought on a card with nothing behind it), buckled on against January. The production runs long; Pace waits in the lobby and says nothing about the time, then or after.

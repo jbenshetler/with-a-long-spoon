@@ -64,6 +64,13 @@ enforces these, and flags anything not yet ruled rather than inventing a rule.*
   text/artifacts**: a phone screen (11:52), a written note (*Come over Friday
   at 7.*), a slide (25%), a route number as signage-speak (out by 460), a year
   in dialogue-as-fact (2020). (Ruled 2026-08-02.)
+- **Clock times — `a.m.` / `p.m.` lowercase with periods** (Chicago; ruled
+  2026-08-09, first instance `all-the-time.md:125`). Prefer the book's
+  established *o'clock* / spelled-out forms in narration; reach for `a.m.`
+  only in dialogue, and only where a bare hour would be ambiguous (a student
+  naming a morning class in a scene that also names an evening one). **Never
+  pluralize the abbreviation** — recast to the singular (*her eight a.m.*,
+  not *her eight a.m.s*). Small-caps AM is not used.
 
 ### Italics
 

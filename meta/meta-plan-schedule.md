@@ -66,11 +66,12 @@ Each entry carries one **texture line** that records season + academic moment + 
 
 This block lives at the top of `meta-plan-chronology.md`, replacing the current single-line anchor.
 
-> **Calendar anchors** — *the only place hard dates live. All scene placement is relative to these. Revise here once; do not re-stamp individual scenes.* **Pinned internally to 2026–27 (hidden-year device — never on the page); dates below are the real 2026–27 calendar.**
+> **Calendar anchors** — *the only place hard dates live. All scene placement is relative to these. Revise here once; do not re-stamp individual scenes.* **Pinned internally to 2026–27 (hidden-year device — never on the page); weekday↔date mapping is the real 2026–27 calendar, but the semester boundaries are authored, not sourced — see the fall lock below.**
 >
-> **Fall semester (2026)** — classes begin ~Mon Aug 31. Week 1 = Aug 31. Midterms ~mid-Oct (weeks 7–8). Thanksgiving break ~Wed Nov 25–Sun Nov 29 (Thanksgiving Thu Nov 26). Reading period / finals ~Mon Dec 14–Fri Dec 18.
-> **Winter break** — ~Sat Dec 19 – Sun Jan 24. (Town empties; campus dead. Load-bearing for {{Fairytale}} — the emptiness is the content, not the date.)
-> **Spring semester (2027)** — classes begin ~Mon Jan 25. Spring break ~mid March. Midterms ~late Feb. Reading period / finals late Apr–early May. Commencement ~Sat May 15.
+> **Fall semester (2026) — LOCKED (author ruling 2026-08-09).** Classes begin Mon Aug 31. Week 1 = Aug 31. Midterms ~mid-Oct (weeks 7–8). Thanksgiving break Sat Nov 21–Sun Nov 29 (Thanksgiving Thu Nov 26 — the one sourced anchor, real VT). Reading period / finals Mon Dec 14–Fri Dec 18. **This runs one week later than the real VT calendar** (real: classes Aug 24, finals Dec 11–16). The divergence is deliberate and the fall is not to be re-dated — the drafted fall rests on it, and the year is never on the page.
+> **Winter break** — Sat Dec 19 – Mon Jan 18 (MLK Day closes it). A week shorter than the real break, because the locked fall ends a week late. (Town empties; campus dead. Load-bearing for {{Fairytale}} — the emptiness is the content, not the date.)
+> **Spring semester (2027)** — classes begin **Tue Jan 19**, the day after MLK Day (real VT date; shifted here from ~Mon Jan 25, author ruling 2026-08-09). Midterms ~late Feb. Spring break Sat Mar 6–Sun Mar 14. **End of term tentative** (real VT dates, provisionally adopted): last day of classes Wed May 5, reading day Thu May 6, finals Fri May 7–Wed May 12, commencement Wed May 12.
+> ⚠ **Open** — whether to extend the spring a week at the **end** (pushing the May landmarks out seven days). Independent of the start date, which is fixed at the real Tue Jan 19. Until ruled, the end-of-term dates above stand.
 > **Summer 2027** — the climax act (Volume Three). Vee and Randi stay for **Dr. Marsh's two-site anthropology fieldwork** (long days, separate sites, weekends only); Pace at his house outside town; Cassie away on a nursing internship. Hot, town half-empty, slow; the academic-pressure layer is replaced by fieldwork and heat. Full frame: `meta-plan-summer.md`.
 > **Early fall 2027** — the novel's coda: Vee returns to campus and tells Cassie (the final scene), a few weeks after the August reveal; the gap unrendered.
 >

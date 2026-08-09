@@ -122,7 +122,7 @@ They ate. The talk went easy and elsewhere for a while, the pressure bleeding of
 
 "God, no. It's sitting there judging me."
 
-"They just opened another section of Anthro. The Dr. Marsh one — the easy A everyone claws for. Sign up with me?" She heard how much she wanted it and didn't mind. "It'd be like stats, except we'd have picked it."
+"They just opened another section of Anthro. The Dr. Marsh one — even her eight a.m. fills up. Sign up with me?" She heard how much she wanted it and didn't mind. "Tuesdays and Thursdays, seven to eight-twenty. It'd be like stats, except we'd have picked it."
 
 "Done," Randi said, immediately, like it cost nothing. "Obviously." Then: "Is Cassie in?"
 
