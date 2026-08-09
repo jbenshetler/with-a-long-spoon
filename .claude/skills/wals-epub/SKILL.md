@@ -22,15 +22,16 @@ title, *A Polite Invitation* (Volume One of the *With a Long Spoon* trilogy;
 titles per `meta-blurb.md`). (The `build/` dir is gitignored — outputs are
 artifacts, never committed.)
 
-**The default filename is stamped, not plain.** A bare build writes
-`build/a-polite-invitation-<source-date>-<sha>.epub` (e.g.
-`a-polite-invitation-2026-08-08-4c15460.epub`) so many test builds sort and
-identify themselves. **`--plain-name` writes the plain
-`build/a-polite-invitation.epub`** — use it when the author wants *the* epub
-rather than a dated one, or when a downstream step expects a fixed path.
-The sha gains a **`-dirty` suffix when any build input is uncommitted**; if
-you see `-dirty` and didn't intend a scratch build, commit first and rebuild
-so the artifact carries a real commit stamp.
+**The default filename is plain** (author ruling 2026-08-09). The build stamp
+— `<source-date> · <sha>`, gaining **`+dirty` when any build input is
+uncommitted** — still identifies every copy, but it lives *inside* the file
+(copyright page + OPF metadata), not in the filename. If you see `+dirty` and
+didn't intend a scratch build, commit first and rebuild so the artifact
+carries a real commit stamp.
+
+**`--stamped-name`** appends `-<source-date>-<sha>` to the filename, for
+keeping builds of different drafts side by side. **`--reader`** names the file
+for its recipient (see below).
 
 Assembly order, per the "Test-epub assembly" spec in `meta/meta-blurb.md`:
 
@@ -51,9 +52,10 @@ byte-for-byte.
 
 ```
 tools/build_epub.py --list                                    # ALWAYS run first: roster preview + missing-prose check, no build
-tools/build_epub.py --author "Helen Rivers"                   # stamped:  build/a-polite-invitation-<date>-<sha>.epub
-tools/build_epub.py --author "Helen Rivers" --plain-name      # plain:    build/a-polite-invitation.epub
-tools/build_epub.py --author "Helen Rivers" -o build/custom-name.epub
+tools/build_epub.py                                           # build/a-polite-invitation.epub
+tools/build_epub.py --reader "Jane Doe <jane@example.com>"    # build/a-polite-invitation-jane-doe.epub
+tools/build_epub.py --stamped-name                            # build/a-polite-invitation-<date>-<sha>.epub
+tools/build_epub.py -o build/custom-name.epub
 ```
 
 - **Run `--list` before every build** — it prints the numbered chapter roster
@@ -61,10 +63,39 @@ tools/build_epub.py --author "Helen Rivers" -o build/custom-name.epub
 - A missing prose file **aborts the build by design** (a test reader must
   never receive a silently incomplete book). `--allow-missing` overrides;
   never use it without the author's explicit say-so.
-- **Never invent a pen name.** `--author` defaults to `Anonymous` (with a
-  warning). The recorded decision is **Helen Rivers**
-  (`meta/meta-plan-pen-name.md`, 2026-07-30) — use it unless the author says
-  otherwise, and never substitute a different name.
+- **Never invent a pen name.** `--author` now defaults to the recorded
+  decision, **Helen Rivers** (`meta/meta-plan-pen-name.md`, 2026-07-30) — use
+  it unless the author says otherwise, and never substitute a different name.
+
+## Per-reader copies (`--reader`)
+
+`--reader "Jane Doe <jane@example.com>"` — a bare email or a bare name also
+parses — stamps the recipient into the copy in four places:
+
+- the **copyright page**: "Prepared for Jane Doe (jane@example.com)."
+- the **note to test readers**: greets them by first name and closes with the
+  same identification, so the watermark sits where a reader actually reads
+- the **OPF metadata**: `wals:recipient`
+- the **filename**: `build/a-polite-invitation-jane-doe.epub`
+
+and appends a row to **`build/RECIPIENTS.tsv`** (built-at, name, email, build
+id, filename, package uuid), so a leaked copy maps back to a person. Each
+recipient's copy also gets a distinct package UUID, since the UUID is derived
+from content.
+
+**That ledger holds real names and email addresses.** It lives in `build/`
+because `build/` is gitignored — never commit it, never paste its contents
+into a session, and never read it into context to answer a question about who
+has a copy.
+
+Per-reader copies are the deliberate exception to determinism: two readers'
+copies of identical prose differ, which is the whole point. A rebuild for the
+*same* reader from the same inputs is still byte-identical.
+
+This is a deterrent, not forensics — the metadata and copyright lines are
+strippable by anyone who thinks to look. Per-copy invisible variation in the
+prose was considered and declined (2026-08-09): real attribution, but only
+worth it if a leak would actually be pursued.
 
 ## Inputs (defaults; override flags exist for each)
 
@@ -86,12 +117,11 @@ Apple Books bleed). Don't reintroduce one.
 
 After any edit to the chronology (chapter order/inventory), the Test-epub
 blurb section of `meta-blurb.md`, or Volume One scene prose. The
-note-to-test-readers text and copyright lines live **only in the script's
-constants** (`NOTE_TO_READERS`, `COPYRIGHT_NOTICE`, `DRAFT_NOTICE`) — changing
-them is a code edit to `tools/build_epub.py`, committed like any tool change.
+note-to-test-readers text and copyright lines live **only in the script**
+(`note_to_readers()`, `COPYRIGHT_NOTICE`, `DRAFT_NOTICE`) — changing them is a
+code edit to `tools/build_epub.py`, committed like any tool change.
 
 ## What this skill does NOT cover
 
-Watermarking and delivery are downstream, out of scope: the author builds
-per-reader watermarked copies from this epub with their own process and sends
-them directly to test readers.
+**Delivery.** The author sends the built copies to test readers directly; this
+skill stops at the file on disk.

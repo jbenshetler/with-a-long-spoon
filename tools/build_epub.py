@@ -25,12 +25,17 @@ parchment treatment dropped 2026-07-27.
 
 Deterministic: same inputs -> same output bytes (fixed zip timestamps; the
 package UUID is derived from the content; dcterms:modified comes from the
-newest input mtime), so rebuilds are diffable.
+newest input commit), so rebuilds are diffable. --reader is the deliberate
+exception: each recipient's copy is stamped with their name, so two readers'
+copies of identical prose differ by design. A rebuild for the *same* reader
+is still reproducible.
 
 Usage:
-    tools/build_epub.py --author "Pen Name"
+    tools/build_epub.py
     tools/build_epub.py --list          # preview the chapter roster, no build
-Defaults: cover images/cover.png, output build/ (created if absent).
+    tools/build_epub.py --reader "Jane Doe <jane@example.com>"
+Defaults: cover images/cover.png, output build/a-polite-invitation.epub
+(the date/sha build stamp lives on the copyright page, not in the filename).
 A Volume One chapter whose prose file is missing aborts the build (--allow-missing
 to override) — a test reader must never receive a silently incomplete book.
 """
@@ -62,18 +67,34 @@ CONTACT_EMAIL = "helen@helenriversbooks.com"
 # Back matter (spec: asks live here, never up front — first read unshaped,
 # reflection directed). Edit freely; this text lives nowhere else.
 NOTE_TO_READERS_TITLE = "A Note to Test Readers"
-NOTE_TO_READERS = [
-    "Thank you for reading. This is a test draft of Book One — you are "
-    "among its first readers, and what you noticed matters more to me than "
-    "what you think I want to hear.",
-    "Two questions I care about most:",
-    "• Did you keep falling for Pace — and enjoying the brunches — "
-    "even though you knew?",
-    "• Was there a point where the warmth curdled?",
-    "Beyond those: where you put the book down, what you skipped, what you "
-    "didn’t believe, and anything that pulled you out. All of it helps.",
-    f"Write to me at {CONTACT_EMAIL}. — Helen Rivers",
-]
+
+
+def note_to_readers(reader=None):
+    """The back-matter note, addressed to this copy's recipient if there is one.
+
+    Personalised deliberately: the greeting is warmer, and it puts the
+    identification somewhere a reader actually reads, rather than on a
+    copyright page they skip.
+    """
+    greeting = "Thank you for reading."
+    if reader and reader["first_name"]:
+        greeting = f"{reader['first_name']}, thank you for reading."
+    paras = [
+        f"{greeting} This is a test draft of Book One — you are "
+        "among its first readers, and what you noticed matters more to me than "
+        "what you think I want to hear.",
+        "Two questions I care about most:",
+        "• Did you keep falling for Pace — and enjoying the brunches — "
+        "even though you knew?",
+        "• Was there a point where the warmth curdled?",
+        "Beyond those: where you put the book down, what you skipped, what you "
+        "didn’t believe, and anything that pulled you out. All of it helps.",
+        f"Write to me at {CONTACT_EMAIL}. — Helen Rivers",
+    ]
+    if reader:
+        paras.append(f"This copy was prepared for {reader['label']}. "
+                     "Please don’t pass it on.")
+    return paras
 
 MIDDOT = "·"
 ENTRY_RE = re.compile(r"^###\s+\[(SCENE|VIGNETTE|EVENT)\]\s+(.*)$")
@@ -82,6 +103,41 @@ VOLUME_RE = re.compile(r"VOLUME\s+(\w+)\s*[—–-]")
 # the metadata line that isn't a meta-* planning doc.
 SCENE_MD_RE = re.compile(r"(?:scenes/)?([a-z0-9][a-z0-9-]*\.md)")
 HR_RE = re.compile(r"^([-*_])\1{2,}$")
+
+
+EMAIL_RE = re.compile(r"[^<>\s@]+@[^<>\s@]+\.[^<>\s@]+")
+
+
+def slugify(s: str) -> str:
+    s = re.sub(r"[^a-z0-9]+", "-", s.lower()).strip("-")
+    return s or "reader"
+
+
+def parse_reader(spec: str) -> dict:
+    """'Jane Doe <jane@ex.com>' | 'jane@ex.com' | 'Jane Doe' -> reader dict.
+
+    A reader build is per-recipient by design, so it is deliberately NOT
+    byte-identical to another reader's copy of the same prose — the whole
+    point is that the copies differ. Builds for the *same* reader from the
+    same inputs remain reproducible.
+    """
+    spec = spec.strip()
+    if not spec:
+        sys.exit("--reader was empty")
+    m = EMAIL_RE.search(spec)
+    email = m.group(0) if m else ""
+    name = (spec[:m.start()] + spec[m.end():] if m else spec)
+    name = name.replace("<", " ").replace(">", " ").strip(" ,;")
+    name = re.sub(r"\s+", " ", name).strip()
+    if not name and not email:
+        sys.exit(f"could not parse --reader {spec!r}")
+    if name and email:
+        label = f"{name} ({email})"
+    else:
+        label = name or email
+    return {"name": name, "email": email, "label": label,
+            "first_name": name.split(" ")[0] if name else "",
+            "slug": slugify(name) if name else slugify(email.split("@")[0])}
 
 
 def canonical_title(raw: str) -> str:
@@ -243,6 +299,7 @@ p.break { text-indent: 0; text-align: center; margin: 1.2em 0; }
 .copyright { margin-top: 60%; font-size: 0.85em; }
 .copyright p { text-align: center; text-indent: 0; margin: 0 0 0.8em; }
 .buildid { font-size: 0.8em; opacity: 0.7; }
+.prepared { font-style: italic; }
 .backmatter h1 { font-size: 1.2em; margin: 3em 0 1.5em; text-align: center; }
 """
 
@@ -254,7 +311,7 @@ def page(title: str, body: str, lang: str = LANGUAGE, bodyattr: str = "") -> str
 
 # --- epub assembly -------------------------------------------------------------
 def build(chapters, blurb, cover_path: Path, author: str, out_path: Path,
-          modified: str, build_id: str = ""):
+          modified: str, build_id: str = "", reader=None):
     body_paras, tagline, comp, description = blurb
     files = []  # (id, href, media-type, properties, content_bytes, in_spine)
 
@@ -307,6 +364,8 @@ def build(chapters, blurb, cover_path: Path, author: str, out_path: Path,
         f"<p>{esc(COPYRIGHT_NOTICE)}</p>"
         f"<p>{esc(WEBSITE)}</p>"
         f"<p>{esc(DRAFT_NOTICE)}</p>"
+        + (f'<p class="prepared">Prepared for {esc(reader["label"])}.</p>'
+           if reader else "")
         + (f'<p class="buildid">Draft {esc(build_id)}</p>' if build_id else "")
         + "</div>"))
 
@@ -321,7 +380,7 @@ def build(chapters, blurb, cover_path: Path, author: str, out_path: Path,
 
     note = ['<div class="backmatter">',
             f"<h1>{esc(NOTE_TO_READERS_TITLE)}</h1>"]
-    note += [f"<p>{inline(p)}</p>" for p in NOTE_TO_READERS]
+    note += [f"<p>{inline(p)}</p>" for p in note_to_readers(reader)]
     note.append("</div>")
     add("note", "note.xhtml", "application/xhtml+xml",
         page(NOTE_TO_READERS_TITLE, "\n".join(note)))
@@ -386,6 +445,7 @@ def build(chapters, blurb, cover_path: Path, author: str, out_path: Path,
 <meta name="calibre:series_index" content="{SERIES_INDEX}"/>
 <meta name="cover" content="cover-image"/>
 {f'<meta property="wals:build">{esc(build_id)}</meta>' if build_id else ""}
+{f'<meta property="wals:recipient">{esc(reader["label"])}</meta>' if reader else ""}
 </metadata>
 <manifest>
 {manifest}
@@ -459,6 +519,23 @@ def git_build_info(root: Path, inputs) -> dict:
             "modified": when.strftime("%Y-%m-%dT%H:%M:%SZ")}
 
 
+def record_recipient(root: Path, reader, build_id, out_path: Path, book_id):
+    """Append the copy to build/RECIPIENTS.tsv — which build went to whom.
+
+    Lives in build/ because build/ is gitignored: this file holds real names
+    and email addresses and must never reach the repo.
+    """
+    ledger = root / "build/RECIPIENTS.tsv"
+    new = not ledger.exists()
+    when = dt.datetime.now(tz=dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    with ledger.open("a", encoding="utf-8") as fh:
+        if new:
+            fh.write("built_at\tname\temail\tbuild\tfile\tuuid\n")
+        fh.write("\t".join([when, reader["name"], reader["email"], build_id,
+                            out_path.name, str(book_id)]) + "\n")
+    return ledger
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__.split("\n")[0])
     root = Path(__file__).resolve().parent.parent
@@ -475,12 +552,18 @@ def main():
                     help="cover image (default: images/cover.png, a symlink "
                          "pointing at the currently chosen cover asset)")
     ap.add_argument("-o", "--out", type=Path, default=None,
-                    help="output path (default: "
-                         "build/a-polite-invitation-<source-date>-<sha>.epub, "
-                         "so many test builds sort and identify themselves)")
-    ap.add_argument("--plain-name", action="store_true",
-                    help="write build/a-polite-invitation.epub instead of the "
-                         "stamped filename")
+                    help="output path (default: build/a-polite-invitation.epub, "
+                         "or -<reader-slug> with --reader; the build stamp "
+                         "lives inside the file either way)")
+    ap.add_argument("--reader", default=None, metavar="'Name <email>'",
+                    help="identify the test reader this copy is for: stamps "
+                         "the copyright page, the note to test readers, and "
+                         "the epub metadata, names the file, and records the "
+                         "copy in build/RECIPIENTS.tsv. Accepts "
+                         "'Jane Doe <jane@ex.com>', a bare email, or a name")
+    ap.add_argument("--stamped-name", action="store_true",
+                    help="append -<source-date>-<sha> to the filename, to keep "
+                         "several builds of different drafts side by side")
     ap.add_argument("--list", action="store_true",
                     help="print the chapter roster and exit without building")
     ap.add_argument("--allow-missing", action="store_true",
@@ -522,22 +605,29 @@ def main():
     build_id = (f"{info['source_date']} · {info['sha']}" if info["sha"]
                 else info["source_date"])
 
+    reader = parse_reader(args.reader) if args.reader else None
+
     out = args.out
     if out is None:
         stem = "a-polite-invitation"
-        if args.plain_name or not info["sha"]:
-            out = root / f"build/{stem}.epub"
-        else:
-            sha = info["sha"].replace("+", "-")
-            out = root / f"build/{stem}-{info['source_date']}-{sha}.epub"
+        if reader:
+            stem += f"-{reader['slug']}"
+        if args.stamped_name and info["sha"]:
+            stem += f"-{info['source_date']}-{info['sha'].replace('+', '-')}"
+        out = root / f"build/{stem}.epub"
     out.parent.mkdir(parents=True, exist_ok=True)
 
     book_id = build(chapters, blurb, args.cover, args.author, out,
-                    info["modified"], build_id)
+                    info["modified"], build_id, reader)
+    if reader:
+        record_recipient(root, reader, build_id, out, book_id)
     words = sum(len(p.read_text(encoding="utf-8").split())
                 for _, p in chapters)
     print(f"wrote {out}: {len(chapters)} chapters, ~{words:,} words, "
           f"build {build_id}, id urn:uuid:{book_id}", file=sys.stderr)
+    if reader:
+        print(f"  prepared for {reader['label']} "
+              "— recorded in build/RECIPIENTS.tsv", file=sys.stderr)
     if args.author == "Anonymous":
         print("  note: author defaulted to 'Anonymous' — pass --author "
               "\"Pen Name\"", file=sys.stderr)
