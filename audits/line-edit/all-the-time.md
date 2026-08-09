@@ -74,3 +74,28 @@ Flagged for the cross-chapter inventory; none varied here without a ruling.
 - **`:71` "With the body attached."** — unique; if a sibling formulation exists in the looked-at/desirability thread, this occurrence has the claim.
 - **`:103` "before the rest of her had voted"** — breaks the #8 stem, so not counted against that ration, but it belongs in the family's end-of-pass inventory.
 - **`:55` / `:57` "this is the best part" / "that's almost the best part"** — reads as designed (food, then the man who made it), and `broken-in:55` uses it in a third sense. Logged, not flagged.
+
+---
+
+## Staleness check — report ACCEPTED as current (2026-08-09)
+
+`scenes/all-the-time.md` was edited by `b6d9299` (2026-08-09) *after* this
+report was written (2026-08-07), which would normally stale it. **Verified and
+accepted: the report stands, no re-run needed.**
+
+The commit touched exactly one line of this chapter — the Anthro signup
+dialogue at `:125`:
+
+- was: "The Dr. Marsh one — the easy A everyone claws for. Sign up with me?"
+- now: "The Dr. Marsh one — even her eight a.m. fills up. Sign up with me?"
+  … "Tuesdays and Thursdays, seven to eight-twenty. It'd be like stats, except
+  we'd have picked it."
+
+That is continuity/legal work, not craft: the easy-A framing was retired
+(closing legal-read item [2]) and the class pinned to the TTh 7:00–8:20 PM slot
+the spring-week-one restructure fixed. **No finding in this report cites `:125`
+or any line in the 120s**, and no other line in the file moved, so every
+finding's line numbers and quoted text remain accurate.
+
+Chapter stays at state `edited` in `STATUS.md`; the foreground review can be run
+against this report as written.
