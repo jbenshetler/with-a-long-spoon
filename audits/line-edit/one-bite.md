@@ -61,3 +61,82 @@ The chapter is strong and mostly earns its own register. Its best passages are t
 - **`:9` "a mimosa was the cheapest yes on the card"** — the money-shame-rendered-as-menu move; check the other Randi-outing chapters for the same accounting.
 - **`:145` "a lit box she had climbed out of"** — the room-as-lit-box figure; check against other behind-glass renderings.
 - **`:3` "The morning had teeth in it"** — striking diction (ruling #13); verify "teeth in it" is spent only once book-wide.
+
+
+## Author rulings (2026-08-09)
+
+- **Pre-ruled #21 — `one-bite:155`, "a beat past what a friend's would":**
+  kept. It earns its deniable escalation here. This does not create a single
+  Volume One keeper slot; review each sibling instance for density and quality
+  with the author.
+- **Finding 1 — `something low` frame** (:101, :105): applied. :101 now uses
+  "Her body answered the phrase"; :105 is reduced to "Ugh." Retained :33 as
+  the strongest embodied instance.
+- **Finding 2 — repeated chest-hand gesture** (:27, :103): applied. :27 now
+  has Randi throwing both hands in the air; :103 retains the mock salute.
+- **Finding 3 — Randi's face "comes on" / "opens"** (:7, :151): kept as a
+  deliberate structural echo. The arrival line is reader-praised; the later
+  opening changes the emotional function.
+- **Finding 4 — Randi's "the way she always…" constancy frame** (:123, :155):
+  applied. Cut the phrase from :123; retained :155's protected goodbye-kiss
+  construction.
+- **Finding 5 — `the whole bright ___` frame** (:119, :127): applied. :127
+  now reads "the bright wanting"; retained the bright/low contrast and cut the
+  repeated `whole` frame.
+- **Finding 6 — involuntary-image `arrive` repetition** (:113): applied.
+  Revised to "The picture came into Vee entire. Her body…" and removed
+  "asked nothing of her," which echoed `made-up:11`.
+- **Finding 7 — `clean out` repetition** (:33, :145): applied. :33 now reads
+  "spun me right out of my wrap skirt"; :145 remains unchanged.
+- **Finding 8 — glass-turn business** (:15, :45, :95, :117): applied. Cut
+  "turned her glass" from :95; retained the designed mirror and no-curiosity
+  beats.
+- **Finding 9 — "bare honest skin" at :41:** dropped without review; the
+  existing triage records it as deliberate close-POV payoff and a left-standing
+  authorial verdict.
+- **Finding 10 — stall-stop pacing** (:127): kept. The stopped/held/still
+  sequence earns its arrested rhythm and protects the reader-praised return.
+- **Finding 11 — door/no-door lead-in at :141:** dropped without review; the
+  existing triage protects the full door/no-door line as a peak.
+- **Finding 12 — "the two would not hold in one body" at :125:** dropped
+  without review; the existing triage names the full key sentence as a
+  protected positive.
+- **Finding 13 — shame/heat fusion at :77:** kept. The fusion is a deliberate
+  motif; the recursive construction renders it rather than explaining it.
+- **Finding 14 — wanting triad at :123:** kept. "Variety" deliberately names
+  the widening field of Vee's appetite.
+- **Finding 15 — "briefly luminous" at :153:** kept. The cold/luminous
+  contrast earns the momentary glow; this is not a precision defect.
+- **Finding 16 — Randi's opening makeup joke at :11:** kept. The formal
+  "in order to" supports Vee's dry observation and preserves the mirrored
+  "gone to" joke.
+- **Finding 17 — "behind the morning" at :5:** kept. It renders Vee's slight
+  lag behind the room's social ease.
+- **Finding 18 — Vee's face response at :93:** kept intact. The paired
+  placeholders render self-evasion; "frank, open pleasure" is reader-praised.
+- **Finding 19 — "So frustrating" at :105:** superseded by Finding 1's applied
+  reduction of the line to "Ugh."
+- **Finding 20 — "The saying of it" at :33:** kept. The noun phrase makes the
+  telling physical before Randi's next question presses Vee to continue.
+- **Echo candidate — "best friend in the whole world" at :151:** PROTECTED.
+  The exact spoken declaration is unique in drafted Volume One; related
+  friendship-valuation phrases are thematic reinforcement.
+- **Echo candidate — pastry-glaze sweetness at :159:** PROTECTED. The unique
+  pastry/glaze mouth-residue realization debuts the taste-transfer thread;
+  sibling scenes use the broader mechanism in distinct registers.
+- **Echo candidate — mirror as verdict at :131:** PROTECTED. Mirrors are the
+  novel's space for characters' deepest introspection, not an accidental echo
+  or tic.
+- **Echo candidate — clinical/unforgiving light at :119:** IGNORE. The phrasing
+  is unique; related light scenes are tonal counterpoints or staging, not an
+  accidental echo.
+- **Echo candidate — `plain/main fact` pair at :61/:113:** IGNORE. The two
+  framings serve distinct escalation beats; no local-density defect.
+- **Echo candidate — menu-price logic at :9:** PROTECTED. Price-first and
+  safe-versus-allowed choices are intentional Vee characterization, not
+  accidental repetition.
+- **Echo candidate — room as lit enclosure at :145:** PROTECTED. This unique
+  social-enclosure inversion belongs to the deliberate sun-porch/glass-room
+  family.
+- **Echo candidate — atmospheric teeth at :3:** PROTECTED. This unique weather
+  rendering is not a tic; related teeth/bite language does different work.

@@ -1094,16 +1094,17 @@ the drumroll is a likelier culprit than the line.*
       measures the pause, not the pause. Render the hold; do not count it.**
     - **`all-the-time` — two in thirty lines** (`:105`, `:135`). Lands at its
       own review (ch. 38).
-    - **`one-bite:155` / `all-the-time:135` — breach of an explicit craft
-      rule.** Both render **Randi's goodbye kiss** in the **same
-      construction** ("a beat past what a friend's would" / "what a goodbye
-      needed"). `meta-plan-satc-tracks.md:105`: *"Render each rung in fresh
-      language. The signature is the structure… never reuse the same
-      description across scenes… identical phrasing scene to scene reads as
-      formula."* The track doc licenses **duration** as an escalation axis
-      (`:87`) but prescribes no phrase for rendering it. Vary one. This is the
-      same pair #21 flagged as one sentence written twice — now confirmed as a
-      rule breach, not a taste call.
+    - **`one-bite:155` / `all-the-time:135` — same construction, review each
+      for local density and line quality.** Both render **Randi's goodbye kiss**
+      in the measured-comparison shape ("a beat past what a friend's would" /
+      "what a goodbye needed"). `meta-plan-satc-tracks.md:105` requires each
+      rung in fresh language; the track licenses **duration** as an escalation
+      axis (`:87`) but prescribes no phrase for rendering it. On 2026-08-09,
+      the author kept `one-bite:155`: its comparison is the dramatic subject,
+      and the sentence carries this chapter's deniable escalation. That does
+      **not** create a single Volume One keeper or a quota. At each chapter's
+      review, assess the line in its local density and on its own quality with
+      the author; retain, vary, or cut only from that reading.
     - **`substitution:153` — PROTECT THE MOVE, vary the wording if it
       collides (author).** *Randi pausing over a cup or a drink is important
       characterization.* The behaviour is hers and stays; only the phrasing is
@@ -1417,3 +1418,46 @@ of Pace's non-answer at the mirror — the thing Vee has to read *instead of*
 words, in the chapter whose refrain is "He hadn't said. He never said." and
 whose closing beat is "There was no note. There was never a note." Varying the
 smile there would swap the one legible signal in a scene built on illegibility.
+
+## Batch 18 — One Bite review (2026-08-09)
+
+**#66 — "best friend in the whole world" at `one-bite:151` is PROTECTED.**
+The exact spoken declaration is unique in drafted Volume One and is the
+counterfeit reward closing the extraction cycle. Related friendship-valuation
+phrases in `among-friends`, `fairytale`, and `all-the-time` are thematic
+reinforcement, not accidental echo. Do not flag the exact line.
+
+**#67 — pastry-glaze sweetness at `one-bite:159` is PROTECTED.** The unique
+pastry/glaze mouth-residue realization debuts the taste-transfer thread.
+`the-bench`, `the-pointing-game`, and `on-her-floor` use the broader mechanism
+in distinct registers; do not flag this ending as an accidental echo.
+
+**#68 — mirrors are PROTECTED as the novel's deepest-introspection space
+(author, 2026-08-09).** Mirror/self-verdict beats—including `one-bite:131`
+"someone caught"—are intentional, not an accidental echo or tic. Do not flag
+the family for repetition; assess any future use only for whether it earns the
+character's deepest self-seeing.
+
+**#69 — clinical/unforgiving exposure light at `one-bite:119` is IGNORE.**
+The phrasing is unique; related light scenes are tonal counterpoints or
+functional staging, not an accidental echo. Do not re-flag this candidate.
+
+**#70 — the `one-bite` local `plain/main fact` pair (:61, :113) is IGNORE.**
+The two framings serve distinct escalation beats—Vee's body displacing the
+room, then the heat becoming unavoidable in the chair. No local-density defect;
+do not re-flag this pair.
+
+**#71 — menu-price logic is PROTECTED Vee characterization.** The singular
+`one-bite:9` "cheapest yes on the card" and the price-first/safe-versus-allowed
+choices in `fed` and `all-the-time` render class and money pressure. Do not
+flag the family as accidental repetition.
+
+**#72 — room-as-lit-enclosure is PROTECTED.** `one-bite:145`'s unique "lit
+box she had climbed out of" inverts the Pace-house sun porch / glass-room
+family: Vee exits the social enclosure to regain herself. Do not flag the
+family as accidental repetition.
+
+**#73 — "The morning had teeth in it" at `one-bite:3` is PROTECTED.** The
+atmospheric figure is unique in drafted Volume One; related teeth/bite language
+does different work in emotional, bodily-cold, food, and erotic registers. Do
+not flag it as a tic.

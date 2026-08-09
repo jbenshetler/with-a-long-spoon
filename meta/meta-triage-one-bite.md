@@ -113,3 +113,56 @@ reader cohort snagging on the same spot, or an edit that re-opens the passage).
   `meta-plan-satc-tracks.md`): the glaze-on-the-kiss, the pastry Vee never
   touched, and the kiss held at its current rung must all survive any edit.
 - The "He checked" confession ladder and Randi's "no curiosity" beat.
+
+
+## Author rulings (2026-08-09)
+
+- **Line edit — goodbye-kiss measured comparison** (:155): kept. "a beat past
+  what a friend's would" is the chapter's deniable escalation and its comparison
+  is the dramatic subject. This is not a Volume One keeper-slot ruling; evaluate
+  each sibling instance for density and quality with the author.
+- **Line edit — `something low` frame** (:101, :105): revised. At :101,
+  "Something low in Vee" → "Her body"; at :105, cut the narration and
+  "So frustrating," leaving Vee's "Ugh." The retained :33 instance carries the
+  embodied turn without adding a fourth `low` construction.
+- **Line edit — Randi's chest-hand gesture** (:27): revised to "throwing both
+  hands in the air." Retained :103's "hand flat to her chest in mock salute,"
+  where the gesture performs the story's theatrical emergency.
+- **Line edit — Randi's face at arrival and reassurance** (:7, :151): kept as
+  deliberate structural echo. The verb and emotional function change across the
+  two hinges; the arrival line is also reader-praised.
+- **Line edit — Randi's constancy frame** (:123, :155): cut "looking at her
+  the way she always did" from :123. Retained :155's protected goodbye-kiss
+  construction.
+- **Line edit — `the whole bright ___` frame** (:119, :127): revised :127 to
+  "the bright wanting." Retained `bright` because its intensity contrasts with
+  the low, ashamed turn; cut the repeated `whole` frame.
+- **Line edit — involuntary-image `arrive` / `asked nothing` wording** (:113):
+  revised to "The picture came into Vee entire. Her body…" This removes both
+  the chapter's repeated involuntary-image verb and the near-adjacent
+  `made-up:11` "asked almost nothing" echo.
+- **Line edit — `clean out` repetition** (:33, :145): revised :33 to "spun me
+  right out of my wrap skirt." Retained :145's "took her breath clean out."
+- **Line edit — glass-turn business** (:15, :45, :95, :117): cut "turned her
+  glass" from :95. Preserved the designed :15/:45 mirror and :117's
+  no-curiosity glass lift.
+- **Line edit — stall-stop pacing** (:127): kept. The stopped/held/still
+  sequence is an arrested rhythm; it preserves the reader-praised return,
+  cowed and un-come.
+- **Line edit — shame/heat fusion** (:77): kept. The merging of shame and heat
+  is a deliberate motif; the recursive sentence is its rendering, not
+  explanatory overwork.
+- **Line edit — wanting triad** (:123): kept. "Variety" names the widening
+  field of Vee's appetite; it is deliberately less bodily than its flanking
+  terms.
+- **Line edit — cold morning luminous** (:153): kept. The cold/luminous
+  contrast earns Vee's brief, unguarded glow at being chosen.
+- **Line edit — Randi's opening makeup joke** (:11): kept. The formal "in
+  order to" supports Vee's dry observation and preserves the mirrored "gone
+  to" joke.
+- **Line edit — entry image** (:5): kept. "A half-step behind the morning"
+  renders Vee's slight lag behind the room's social ease.
+- **Line edit — Vee's face response** (:93): kept intact. The paired
+  placeholders render self-evasion; "frank, open pleasure" is reader-praised.
+- **Line edit — "The saying of it"** (:33): kept. The nominalization makes the
+  telling physical before Randi's next question presses Vee to continue.

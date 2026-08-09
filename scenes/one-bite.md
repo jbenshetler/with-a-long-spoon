@@ -24,13 +24,13 @@ Randi's brows went up a half-degree. "The little love tap. You told me about tha
 
 "No, that was a swat, before." And then, because the sun was warm, the mimosa delicious, and Randi's face waiting for it: "He spanked me." A pause, to hold her there. "After I pantsed him."
 
-Randi shrieked, the real article, a hand flat to her chest, the next table glancing over, and Vee was laughing too, helpless. "You pantsed him? Your *romantic* man?"
+Randi shrieked, the real article, throwing both hands in the air, the next table glancing over, and Vee was laughing too, helpless. "You pantsed him? Your *romantic* man?"
 
 "Had his shorts off and gone before either of us knew I'd done it. He had nothing on underneath."
 
 "Oh, you *brat*."
 
-"I was crowing about it, too. And he got me by the waist and spun me clean out of my wrap skirt. One pull of the tie and it was gone. Like a top." The saying of it put his hands back on her, the whole quick helpless spin of it, and something low turned over once, lazily, and settled lower.
+"I was crowing about it, too. And he got me by the waist and spun me right out of my wrap skirt. One pull of the tie and it was gone. Like a top." The saying of it put his hands back on her, the whole quick helpless spin of it, and something low turned over once, lazily, and settled lower.
 
 "Some girls just can't wait." Randi propped her chin. "So he's in his shirt and not much else, you're in your underwear, and?"
 
@@ -92,17 +92,17 @@ Vee's eyes had gone past her, out into the burning glass. "He made me strip. Slo
 
 "He did." It was all Vee trusted herself to say, because the *how* of it was suddenly there too, the dark and the weight of him and the way she had gone all the way down into it without a single denial left, and her face did something she couldn't call back and Randi watched it do the thing with frank, open pleasure.
 
-"Some girls have all the luck." Randi sat back, turned her glass, and let her own night take the floor. "While you were being seen to by your romantic, definitely-not-vanilla man, I had my hands full. Went out to a mixer at Radford with some of the sisters, and there's this blond boy, a young Robert Redford, I swear it, and we just *caught*. And he could dance, actually dance, you have no idea how rare, and I was already down in my body by then. You know the feeling. The music's right, the dress is right, and your own skin is the whole party."
+"Some girls have all the luck." Randi sat back and let her own night take the floor. "While you were being seen to by your romantic, definitely-not-vanilla man, I had my hands full. Went out to a mixer at Radford with some of the sisters, and there's this blond boy, a young Robert Redford, I swear it, and we just *caught*. And he could dance, actually dance, you have no idea how rare, and I was already down in my body by then. You know the feeling. The music's right, the dress is right, and your own skin is the whole party."
 
 Vee knew the feeling. Her own skin was, just then, a good deal more party than she wanted it to be at eleven in the morning over a tablecloth.
 
 "We found a dark corner," Randi went on, "and he kissed like he meant it. Forceful, but he knew when to ease off and leave you the room to come after him, which is the entire art and almost nobody has it. So we take it upstairs. And he is just starting to find *my* dark corners—"
 
-Something low in Vee answered the phrase straight off, and she pressed the heel of her hand to her lap as if she were only settling her napkin.
+Her body answered the phrase straight off, and she pressed the heel of her hand to her lap as if she were only settling her napkin.
 
 "—and his phone goes. Dents the mood, but I'm well past minding, I am ready to *go*. Then it goes again, and he gets a face, and he says, 'I'd better take this.'" Randi laid a hand flat to her chest in mock salute. "An emergency, a friend in some trouble. He had to leave. And part of me respected it, honestly, a man who looks after his people. The other part of me is sitting on a stranger's bed with the engine running and nobody left to drive it. Forty minutes from home. A dark room in a Greek house."
 
-"Ugh." It came from somewhere low in her. "So frustrating."
+"Ugh."
 
 "It would have been," Randi said, "if I weren't perfectly willing to take care of myself."
 
@@ -110,7 +110,7 @@ Vee's mouth had gone dry. "In a strange bedroom? Anyone could have walked in."
 
 "And they'd have got an eyeful." Randi said it warm, amused, her clear eyes right on Vee's. "Dress up, panties to the side, knees wide, doing a private dance."
 
-The picture arrived in Vee entire and asked nothing of her, and her body, which had been climbing the whole morning one careful confession at a time, simply reached the top. The heat was no longer happening near her. It was the main fact in the chair, slick and insistent and wholly her own, and she could not stay in the bright glassed room, under all those people and Randi's untroubled gaze, and sit still around it for another minute.
+The picture came into Vee entire. Her body, which had been climbing the whole morning one careful confession at a time, simply reached the top. The heat was no longer happening near her. It was the main fact in the chair, slick and insistent and wholly her own, and she could not stay in the bright glassed room, under all those people and Randi's untroubled gaze, and sit still around it for another minute.
 
 She was on her feet before she had decided to stand. "Bathroom," she said, which was hardly a word and nothing like a sentence, and went, the napkin sliding off her lap behind her.
 
@@ -120,11 +120,11 @@ The bathroom was down a short hall and lit a hard clinical blue, a light that fo
 
 She sat. She worked her panties down to her knees. She put her fingers where the wanting was and found herself already soaked, of course, always, her body so far out ahead of her permission that it shamed her even here, alone, with no one to give the shame to.
 
-Using what was already there, she found the small needy knot of herself and circled it, slow, biting hard on her lip to keep any sound off the tile. The build came fast. It had been building an hour across a tablecloth and it wanted more than a fingertip, wanted variety, wanted filling, and she let her hand slide back and down and begin to press up into herself, and at the very first give of her own body opening to her own hand, Randi's face arrived behind her eyes. Clear, and fond, and near, looking at her the way she always did, as though Vee were the best thing in the room.
+Using what was already there, she found the small needy knot of herself and circled it, slow, biting hard on her lip to keep any sound off the tile. The build came fast. It had been building an hour across a tablecloth and it wanted more than a fingertip, wanted variety, wanted filling, and she let her hand slide back and down and begin to press up into herself, and at the very first give of her own body opening to her own hand, Randi's face arrived behind her eyes. Clear, and fond, and near, as though Vee were the best thing in the room.
 
 *What would Randi think.* But it was not the thinking, it was the looking. She could not be looked at like that and keep her hand where it was, and the two would not hold in one body.
 
-She stopped. She held there with herself barely breached and the peak one unfair inch off, and the whole bright wanting curdled into something low and ashamed and obedient. Frustrated and cowed in the same breath. For a moment she did not move at all.
+She stopped. She held there with herself barely breached and the peak one unfair inch off, and the bright wanting curdled into something low and ashamed and obedient. Frustrated and cowed in the same breath. For a moment she did not move at all.
 
 Then she drew her hand back. She tore off a length of dry paper and blotted herself as well as it would go, which was not well, and pulled her panties up over all of it, the ache still beating down there like a second pulse.
 
