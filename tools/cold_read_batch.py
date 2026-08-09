@@ -16,10 +16,11 @@ from __future__ import annotations
 import json
 import re
 import time
+import tomllib
 from pathlib import Path
 
 FALL_SCENES = [
-    {"title": "The Bench", "slug": "the-bench"},
+    {"title": "The Bench", "slug": "the-bench", "volume_start": 1},
     {"title": "Standards", "slug": "standards"},
     {"title": "The Pointing Game", "slug": "the-pointing-game"},
     {"title": "See You Later", "slug": "see-you-later"},
@@ -71,10 +72,17 @@ FALL_SCENES = [
     {"title": "Nothing Underneath", "slug": "nothing-underneath"},
     # Spring (Volume Two) drafted scenes — appended in story order so scoped runs
     # can reach them; the list name predates the volume split.
-    {"title": "Among Friends", "slug": "among-friends"},
+    {"title": "Among Friends", "slug": "among-friends", "volume_start": 2},
     {"title": "Another Round", "slug": "another-round"},
 ]
 
+
+VOLUME_PACKETS = Path("reviews/cold-read/volume-packets.toml")
+
+
+def load_volume_packets() -> dict[int, dict]:
+    data = tomllib.loads(VOLUME_PACKETS.read_text()).get("volumes", {})
+    return {int(volume): packet for volume, packet in data.items()}
 
 def clean_scene_text(slug: str) -> str:
     raw = Path(f"scenes/{slug}.md").read_text()
@@ -409,6 +417,7 @@ def run_batch(
     scenes = list(scenes or FALL_SCENES)
     out_dir = Path("reviews/cold-read") / model_id
     out_dir.mkdir(parents=True, exist_ok=True)
+    volume_packets = load_volume_packets()
 
     carry = ""
     predecessor = None
@@ -419,7 +428,7 @@ def run_batch(
     # otherwise read it cold as the opening. Load the predecessor's carry-forward
     # from its review on disk; refuse rather than fabricate an opening read.
     full_slugs = [s["slug"] for s in FALL_SCENES]
-    if scenes and scenes[0]["slug"] in full_slugs:
+    if scenes and scenes[0]["slug"] in full_slugs and "volume_start" not in scenes[0]:
         pos = full_slugs.index(scenes[0]["slug"])
         if pos > 0:
             pred_slug = full_slugs[pos - 1]
@@ -434,6 +443,9 @@ def run_batch(
             predecessor = pred_slug
 
     for idx, scene in enumerate(scenes, 1):
+        if "volume_start" in scene:
+            carry = ""
+            predecessor = None
         existing = out_dir / f"{scene['slug']}.md"
         if resume and has_valid_review(existing):
             carry = existing.read_text().split("## Carry-forward state", 1)[1].strip()
@@ -466,8 +478,19 @@ def run_batch(
         prior_block = carry if carry.strip() else "empty — opening chapter"
         if predecessor and not carry.strip():
             raise RuntimeError(f"empty prior carry before {scene['slug']}")
+        packet_block = ""
+        if "volume_start" in scene:
+            volume = scene["volume_start"]
+            packet = volume_packets.get(volume)
+            if not packet or packet.get("opening_slug") != scene["slug"]:
+                raise RuntimeError(
+                    f"missing public packet for Volume {volume} opening {scene['slug']}; "
+                    "refusing to substitute another volume's jacket."
+                )
+            packet_block = f"PUBLIC VOLUME-ENTRY PACKET (shown once at this volume's opening):\n{packet['packet']}\n\n"
         base_prompt = (
             f"TITLE:\n{scene['title']}\n\n"
+            f"{packet_block}"
             f"PRIOR READER-STATE (authoritative memory from every earlier chapter):\n{prior_block}\n\n"
             f"OUTPUT PRIORITY:\nKeep `### Reader reaction` concise. Always complete "
             f"`### Carry-forward state` in full; if space is tight, shorten the reaction, "

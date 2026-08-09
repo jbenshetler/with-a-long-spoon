@@ -97,6 +97,15 @@ Spawn a single lore-keeper subagent to return the scene manifest from
 
 This list is the only chronology data you hold. Everything downstream keys off it.
 
+### Volume-entry packet gate
+
+Read `reviews/cold-read/volume-packets.toml` only for public reader-facing copy.
+When spawning a reader for a packet's `opening_slug`, include that packet once in
+the reader prompt. For later chapters, include no jacket copy; it survives only if
+the prior reader-state retained it. Never substitute Volume One's packet for another
+volume. If a volume opening lacks its own packet, stop and report the missing public
+copy rather than starting that reader.
+
 ## Step 2 — Resolve the target set from the selector
 
 Build the ordered list of **slugs to review**, all drafted, in story order:
@@ -211,8 +220,10 @@ output**, so do NOT parallelize:
    prompt contains ONLY:
    - the **display title** (from the manifest);
    - the **cleaned chapter text**, verbatim, pasted in;
-   - the **prior carry-forward state** (or a note that this is the book's opening,
-     read cold).
+   - the **prior carry-forward state** (or a note that this is the volume opening,
+     read cold);
+   - the public volume-entry packet **only when this slug is that packet's
+     `opening_slug`**.
    Nothing else — no slug, no position, no planning material, no framing about what
    the scene "does," and no mention of which model it is.
 4. **Blindness tripwire — hard stop.** After the subagent returns, check its

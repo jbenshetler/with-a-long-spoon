@@ -1,0 +1,16 @@
+# Public reader-facing material only. A volume packet is supplied exactly once:
+# at that volume's opening chapter. Missing future-volume packets fail closed.
+
+[volumes."1"]
+opening_slug = "the-bench"
+packet = '''On the cover: the title **A POLITE INVITATION**, the series line *With a Long Spoon, Book 1*, and the tagline **"Every yes was freely given. That was the trap."**
+
+The jacket / listing blurb:
+
+> It began as a game. Miranda — Randi, to everyone — poised, dazzling, certain of everything, and secretly the lover of a young mathematician who lives alone at the end of a long drive — picked Vivienne Thorne out across the quad and decided, with him, that she would be the third in their bed. They told her nothing. What none of them saw coming was how real it would get — as real for the two who started the game as for the girl who never knew there was one.
+>
+> What Vivienne knows is that her junior year has cracked open. Pace attends to her the way no one ever has — tuned to her safety and her pleasure, asking before he takes and taking only what she gives, drawing out of her a wanting she'd have been ashamed to name. Randi lifts her into a brighter life and listens like no one ever has, drawing out the shames she was raised to bury and handing them back as gifts. Her lover and her best friend both make her feel chosen. Both are falling as hard as she is.
+>
+> Every yes was freely given. That was the trap.
+>
+> A Polite Invitation *is Book One of* With a Long Spoon. *For readers of Anne Rice's* Beauty *trilogy — a seduction at full heat and full tenderness, where every open door is a temptation and every step is hers.*'''
