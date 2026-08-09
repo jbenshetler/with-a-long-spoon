@@ -451,6 +451,12 @@ def run_batch(
             carry = ""
             predecessor = None
         existing = out_dir / f"{scene['slug']}.md"
+        if existing.exists() and not has_valid_review(existing) and resume:
+            raise RuntimeError(
+                f"review protocol mismatch for {scene['slug']} at {existing}; "
+                "choose a new --model-id or explicitly regenerate with "
+                "--fresh --allow-volume-one-rewrite."
+            )
         if resume and has_valid_review(existing):
             carry = existing.read_text().split("## Carry-forward state", 1)[1].strip()
             predecessor = scene["slug"]
