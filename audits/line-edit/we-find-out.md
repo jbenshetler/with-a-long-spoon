@@ -113,3 +113,52 @@ Distinctive phrasings from this chapter worth counting book-wide before anyone v
 - **"the small lit country of his bed"** (`:99`) — striking; verify unique.
 - **"He said it like a plain fact he wanted on the record"** (`:101`) — relative of the **"plain fact of"** FIX-AT (#7); count against that set.
 - **"a little animal under the gym"** (`:9`) / **"the sticky animal evidence of herself"** (`:107`) — the animal-word for bodily truth, twice in this chapter at opposite ends; reads as design, but worth a book-wide count before either is touched.
+
+---
+
+## Author rulings (2026-08-09)
+
+Panel refreshed before review: opus re-run (its 07-27 read predated the 08-02
+and 08-03 edits); fable set aside as stale (retired, replaced by terra).
+Working panel five current reads. Durable record: `meta/meta-triage-we-find-out.md`.
+
+1. `:95` scar framing — **applied (a)**: "at the top of his inner thigh".
+2. `:9` gym-smell doubling — **applied**: "the salt of the gym still on him" cut.
+3. `:9` undress inventory — **applied**: "and gym shorts" cut.
+4. `:7` opening doubling — **applied (a)**: em dash, "which she had never done" cut.
+5. `:11` door simile restatement — **applied (a)**.
+6. `:21` contrition pile-up — **applied**: "contrite, all apology" cut; "as if to
+   make it better" kept as Vee's own framing, "soft and sorry" kept as duration.
+7. `:23` "faster than she believed" — **declined the cut; idiom fixed** to
+   "she'd have believed". The clause pairs with `:25`'s ship figure.
+8. `:25` "which was that" — **applied (a)**: colon.
+9. `:25` astonishment triple — **applied (a)**: "and could not believe it was
+   her" cut, on reader evidence (two models quoted the sentence the report
+   offered as the alternative cut).
+10. `:25` long chase block — **applied (a)**: break before "It worked."
+11/12. `:67` — **split ruling.** "there and gone" cut; **"a small moist motion"
+    kept** — deliberate taste-thread word (see triage).
+13. `:61`/`:97` construction repeat — **applied (a)**: `:97` made declarative.
+14. `:63` — **declined the report's cut** (six readers praised the passage; one
+    quoted the trailing clause). Applied instead: "held up now in the soft
+    light" cut, removing the doubled hold-up and doubled light.
+15. `:71` "and that was the whole of his answer" — **applied (a)**.
+16. `:81` "and both of them knew it" — **applied (a)**; independently confirmed
+    by the fresh opus read.
+17. `:79`/`:85` "the worst of it" — **applied (b)**: frame cut at `:79`.
+18. `:101` "No routine to it, nothing practiced." — **applied (a)**.
+19. `:105` scrunchie "form" — **withdrawn; PROTECTED** (echo-rulings #64). It
+    is the cardboard the scrunchies are sold on, and load-bearing for a later
+    theft. Previously litigated.
+20. `:107` mirror monologue second sentence — **left standing**; the punch is
+    "we have", the register is Vee's not Cassie's, and "since that first night"
+    is a factual exclusion.
+21. `:107` "sticky" twice — **left standing (c)**.
+22. `:111` curry ending — **left standing**; the last sentence is a verbatim
+    rhyme with the bedroom ("the heat came up"), not description.
+
+**Bonus A** (cold read, `gpt-5.6-sol`) — "Shame wants a witness…" re-raised on
+new logical grounds. **Left standing (c)**; canonical line, lone objection.
+
+**Bonus B** (style linter) — `:9` `held-past`. **Ruled not the figure**;
+the doubling it sat in was cut (see item 3 above) and the hit acked.

@@ -1330,3 +1330,33 @@ exactly the units Vee's walk then overturns.
 numbering at #30**, colliding with the earlier #30–#33 in the Batch 1–2 range.
 Entries are unambiguous by date and content, but a future harvest that cites
 "#31" will be ambiguous. Left as-is pending an authorial call on renumbering.
+
+---
+
+## Batch 16 — We Find Out review (2026-08-09)
+
+**#64 — "form" (of scrunchies) is PROTECTED — it is an object, not a quantity
+word (author, 2026-08-09).** `we-find-out:107` ("she found the scrunchies, **a
+whole form of them**, deep green with small white dots"), `above-him:53` ("It
+held **her form of green scrunchies**"), `new-ordinary:7` ("the **cardboard
+form** of green scrunchies"). The *form* is the printed cardboard the
+scrunchies are sold on. It is load-bearing set dressing, not diction: because
+they stay on the form, a later theft from it is **semi-visible** — a gap in a
+counted row rather than an untraceable subtraction. Do not replace it with a
+mass noun ("a bag of them", "a heap of them"), do not cut the appositive, and
+do not treat it as one of the paragraph's statements of quantity.
+
+*Report correction.* The line-edit report flagged `:107` as word precision —
+"'form' reads as an error where a mass noun is wanted," with the aggravating
+charge that the paragraph "then says the quantity twice more." Both halves
+fail. "Form" names the packaging, so the paragraph states quantity **twice**,
+not three times ("more of them than a person could go through quickly, far
+more" and "the plenty of them") — and **both** of those were quoted
+approvingly by cold readers. Finding withdrawn. This has been litigated
+before; it is recorded here so per-chapter editors, who read this ledger,
+never raise it again.
+
+*Reader evidence.* Six cold readers on `we-find-out`; all six praised the
+scrunchie paragraph and none stumbled on "form." Opus read straight through it
+and glossed it correctly on the fly — "A form of them. He bought a *supply* of
+her future presence."

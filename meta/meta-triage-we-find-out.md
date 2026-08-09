@@ -139,3 +139,173 @@ inventory at once; "no Randi waiting to be told" is the ice-water line; the titl
 clicks shut on Pace's line without telegraphing. Heat 3 across the board; Romance
 3 (2.5 from 5.5). Three readers unprompted predicted the retelling to Randi as the
 next dread; two flagged the bench as "the only escalation left."
+
+---
+
+# Triage — We Find Out (line edit, 2026-08-09)
+
+Report: `audits/line-edit/we-find-out.md` (22 findings) plus two bonus items
+raised from the cold-read panel and the style linter. **19 applied, 6 left
+standing.**
+
+**Panel refreshed first.** Two of the six cold reads were stale —
+`claude-opus-4-8` (2026-07-27) and `claude-fable-5` (2026-07-28) both predate
+the 08-02 line audit and the 08-03 timeline sweep, so their criticisms were
+answers to prose that no longer exists. Opus was **re-run** (read after
+{{The Induction}}, blindness clean, `reader-protocol:
+v1-repeated-jacket-legacy`) and **both of its July objections are gone** — the
+07-28 fixes worked; it no longer flags the hinge sentence at all. Fable was
+**not** re-run: retired 2026-08-06, and its replacement `gpt-5.6-terra` already
+holds a current read of this chapter. Its 07-28 file is set aside as stale, not
+cited. Working panel for this pass: **five current reads** — opus, gpt-5.5,
+gpt-5.6-sol, gpt-5.6-terra, kimi-k3.
+
+## Left standing — do not re-litigate
+
+- **The scrunchie "form"** (report #19: "'form' reads as an error where a mass
+  noun is wanted") — **finding withdrawn; PROTECTED.** The *form* is the printed
+  cardboard the scrunchies are sold on, and it is plot infrastructure: because
+  they stay on it, a later theft is **semi-visible**. It also recurs as canon —
+  `above-him:53`, `new-ordinary:7` ("the cardboard form of green scrunchies").
+  The report's aggravating charge (the paragraph states quantity three times)
+  fails with it: "form" names packaging, so quantity is stated **twice**, and
+  both of those were quoted approvingly by cold readers. Full ruling and the
+  reader evidence: **echo-rulings #64**, where it is recorded so per-chapter
+  editors never raise it again. Previously litigated; this is the third time.
+- **"a small moist motion she felt more than made"** (report #12: "moist" is
+  the almost-right word, borrowing a charge that belongs to the finger) —
+  **deliberate (author, 2026-08-09).** Vee is unconsciously moving toward
+  tasting herself; the word is the taste thread, and the "borrowing" is the
+  transfer — the finger's charge landing in her mouth two paragraphs after she
+  watches him hold it up in the lamplight. Appetite, rendered in one word, body
+  before mind. Do not swap it for "wet" or cut the appositive. (The repeated
+  closer "there and gone" **was** cut from this sentence; see below.)
+- **The mirror monologue's second sentence** — *"Every time I've been here
+  since that first night, we have."* (report #20: runs grammatical and
+  evidentiary, as if she needed to convince someone) — **left standing
+  (author).** Three reasons, all correcting the finding. (1) The sentence lands
+  on **"we have"** — a flat two-word auxiliary confirming a long setup clause.
+  That deadpan verdict *is* the punch; any compression loses it. (2) Clipped
+  elliptical fragments are **Cassie's** register (four-words-flat), not Vee's;
+  Vee is verbally precise and slightly over-articulate even when undercutting
+  herself, which is why "My Victorian LARPing…" is funny in her mouth. (3) The
+  "as if she needed to convince someone" charge inverts: she does — herself, at
+  a mirror, losing a case she has been prosecuting for weeks. The evidentiary
+  shape is the content. Note also that **"since that first night" is an
+  exclusion, not padding** — Vee did **not** sleep with Pace on her first visit,
+  and the visit count is small (~5 arrivals), so any "every single time"
+  compression is factually wrong as well as tonally wrong.
+- **"sticky" twice in `:107`** (report #21) — left standing (author). Once in
+  shame at the washcloth, once in the comedy of the LARPing line; the doubling
+  is the vignette's arc, the same fact re-met in a different key.
+- **The curry chapter-ending** — *"The spice was pungent and the heat came up
+  late and caught her by surprise, and she was glad of the beer."* (report #22:
+  the chapter's button is "It tasted like none of them"; this sentence lowers
+  the volume on the last line) — **left standing (author): everything in the
+  kitchen echoes the bedroom, and this sentence is the rhyme, not filler.**
+  The echo is verbatim — the bedroom has "the slow heat blooming up from where
+  he'd touched her" and "where the heat still lived"; the last line has "the
+  **heat came up** late and caught her by surprise." Spice ← the spanking; the
+  beer he provides and she is glad of ← the juice he held to her mouth. The
+  **order** is the bedroom's order too: the act, the heat arriving after, then
+  the thing he hands her. Ending on "It tasted like none of them" would close on
+  a comparison to Ohio instead of on *him providing and her being glad*, which
+  is the chapter's real last note and the plant behind the later why-never-out
+  fight. Distinct from the 07-28 "coda length" ruling, which stands separately.
+- **"Shame wants a witness, and in the small lit country of his bed there was
+  no such thing as a witness"** — re-raised by `gpt-5.6-sol` on **new grounds**
+  (not opus's July over-explaining charge, which is resolved): *"Pace is
+  present; he is witnessing her. What changes is that his gaze does not shame
+  her."* **Left standing (author).** Lone objection among five current readers;
+  kimi quoted the same sentence and complicated it without objecting; opus's
+  fresh read no longer flags it and now carries it as a motif. The line is
+  canonical (07-28 ruling, preserved verbatim), and the fix sol implies is the
+  flatter, explaining version of what the line does compressed. The litany
+  immediately before it — no week, no stats, no mother's voice, no Sunday, no
+  Randi — establishes *witness* as the convicting eye by context; Pace is absent
+  from that list because he is the one present.
+- **`:9` "more than a Friday after stats called for" is not the `held-past`
+  figure** (author ruling 2026-08-09) — ordinary comparison naming the occasion,
+  not a duration measured against a function it exceeds. It calibrates the
+  Friday for the reader and does characterization (Vee reads social registers
+  precisely). Acked in `style/style-allow.toml`. Ledger #59/#60 governs: *rule
+  the shape, never the count.*
+
+## Applied
+
+Nineteen edits. Cuts unless noted.
+
+- `:9` — "the salt of the gym still on him" cut (pre-spent the better close-up
+  smell five sentences later, "a little animal under the gym").
+- `:9` — "his bare feet **and gym shorts**" → "his bare feet" (the same
+  two-item inventory of his undress, twice in one paragraph; the heels/bare-feet
+  opposition is the sharper contrast).
+- `:9` — the doubling "and against his bare feet **it felt like she'd tried too
+  hard**" → "and **his bare feet said so**". Same observation was made twice in
+  one sentence; the image now delivers the verdict instead of a narrator
+  adjective. (Author chose which half went; "it showed" was tried and rejected
+  as thin.)
+- `:7` — "She texted him after stats**, which she had never done,** had never
+  once been the one to reach first." → em dash, one clause. The ledger phrase
+  ("never once been the one to reach first") is the informative half and is
+  itself protected by the 08-02 triage.
+- `:11` — "It was like hitting a door," cut; the turn now attaches straight to
+  the simile ("…the way you hit a door that sticks, except the muscle gave a
+  little…").
+- `:21` — "contrite, all apology" cut. Five renderings of one attitude in four
+  lines; "as if to make it better" (Vee's own framing — the con in miniature)
+  and "soft and sorry" (the duration she has to hold) both do distinct work and
+  stay.
+- `:23` — "faster than she believed" → "faster than she'**d have** believed"
+  (idiom wanted the conditional). **The report's recommendation to cut the
+  clause was declined:** fast hands on a slow body is a designed pairing with
+  `:25`'s "all that mass of him had to gather and come around like a ship."
+- `:25` — "found out something she hadn't known**, which was that** she was
+  faster" → colon. A nominal hinge in a sentence about quickness.
+- `:25` — "and could not believe it was her" cut. Three consecutive sentences
+  saying she astonished herself; the reader evidence chose which went — fable
+  and kimi both quoted "She had never in her life done such a thing" verbatim,
+  and opus quoted "some small astonished part of her stood off and watched her
+  do it" and **stopped before** the cut clause.
+- `:25` — paragraph break inserted before "It worked. Something changed in his
+  face." The chase ran 20+ lines in one block.
+- `:67` — "there and gone" cut (second use of a distinctive three-word closer;
+  the load-bearing one is the flinch at `:11`, which three readers praised). The
+  sentence now ends on "she felt more than made" — the agency word, which is the
+  chapter's argument.
+- `:63` — "held up now in the soft light" cut. **The report's recommendation
+  (end the sentence at "even from herself") was declined** — fable quoted the
+  trailing clause approvingly and all six readers praised this passage. The real
+  flaw was re-staging: "He held it up" three sentences earlier, and "gleaming in
+  the lamplight" **in the same sentence**, then "held up now in the soft light."
+  Now: "…even from herself, **and now** they could both see exactly how much of
+  it there was."
+- `:71` — "and that was the whole of his answer." cut. Four clauses had just
+  shown a man answering by refusing to; the sentence now ends on "the finger
+  from where it was between them."
+- `:79` — "the worst of it was that" cut (same superlative frame six lines from
+  `:85`'s "That was the worst of it", which is the structurally necessary one —
+  the not-seeing is what the sequence turns on).
+- `:81` — "and both of them knew it" cut. **Independently confirmed by the
+  fresh opus read**, unprompted: *"I'd already understood that from the folded
+  blanket; the sentence explained a thing the image had done better."* It also
+  posited a witness four lines before the chapter argues there is none.
+- `:97` — "**as though** it had settled the matter hours ago" → declarative
+  ("…without a word of argument. **It had settled** the matter hours ago…").
+  Breaks a near-exact grammatical repeat of `:61` (took him + negation +
+  "as though it had … waiting") so the callback is recognized by sense. The
+  change is also a progression: at `:61` the body's readiness is hypothesized;
+  by `:97` it is flat fact.
+- `:95` — "the old scar **high on the inside of his thigh**" → "at the top of
+  his inner thigh" (pre-ruled FIX-AT, echo-rulings #4; `famished:77` is the
+  keeper, location is canon and unblurred).
+- `:101` — "No routine to it, nothing practiced." cut. Restated the sentence
+  before it; "and that was the thing that undid her" now runs straight into
+  "Juice." Opus quoted the first sentence and skipped the fragment.
+
+## Style
+
+Seven active hits at close, all acked (`style/style-allow.toml`). Six were
+**re-arms** of the 2026-07-28 acceptances, re-triggered because this pass edited
+those sentences — decisions unchanged, notes record the cause. The seventh is
+the `held-past` at `:9`, newly ruled not-the-figure (above). Chapter lints clean.
