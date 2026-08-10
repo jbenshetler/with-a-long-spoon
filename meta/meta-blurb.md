@@ -22,11 +22,11 @@ External reader-facing copy for *With a Long Spoon* — marketing and positionin
 >
 > What Vee cannot see is that the invitation reached her long before she knew there was one — that it began as a game between the two people now closest to her, a secret choice made about her. What none of them saw coming was how real it would get: as true for the two who started it as for the girl who never knew there was one. Nothing was taken from her that she did not hand over.
 >
-> Warm, wickedly explicit, and merciless in its tenderness, *A Polite Invitation* follows a young woman all the way inside an appetite that can only give her the best of herself by taking it — and lets the reader, ahead of her from the start, fall for it exactly as she does.
+> Warm, wickedly explicit, and psychologically merciless in its tenderness, *A Polite Invitation* follows a young woman all the way inside an appetite that can only give her the best of herself by taking it — and lets the reader, ahead of her from the start, fall for it exactly as she does.
 >
 > Every yes was freely given. That was the problem.
 >
-> *Book One of* With a Long Spoon. *For readers of Anne Rice's* Beauty *trilogy — a seduction at full heat and full tenderness, where every open door is a temptation and every step is hers.*
+> *Book One of* With a Long Spoon. *Literary erotica for readers of Anne Rice's* Beauty *trilogy who want it contemporary and psychologically exact — a seduction at full heat and full tenderness, a woman waking to a man and, without quite letting herself know it, wanting the woman beside her, where every open door is a temptation and every step is hers.*
 
 ---
 

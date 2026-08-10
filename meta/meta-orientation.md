@@ -84,3 +84,8 @@ Worked examples (all endorsed):
 **When proposing titles:** lead with oblique/ironic frames; for each candidate, state the innocuous surface vs. the reread charge and which goals it hits; explicitly flag any candidate that names the central object/act (telegraphs) so it can be ruled out fast.
 
 **Calibration:** not-telegraphing is the only disqualifier; the other goals (dual reading, detonate-on-reread, frame-not-the-act) are tradeoffs the author will knowingly spend for curiosity, playfulness, or charge. Present misses beyond the telegraph floor as tradeoffs, not grounds for a rename — recommend, then let the author weigh. Don't re-litigate retained titles (e.g. **The Pointing Game**, kept on purpose after review).
+
+
+## Comp shelf & register (moved from CLAUDE.md/AGENTS.md — kept out of the file blind subagents inherit)
+
+Comp shelf: Gaitskill, Duras's *The Lover*, Salter's *A Sport and a Pastime*, Rice/Roquelaure's *Beauty* trilogy (the jacket comp) — literary erotica where the structural argument and character interiority carry the load that plot mechanics carry in genre. *Story of O* is an influence, never a comp — emotionally cold where this book is warmth-first (author ruling 2026-07; see `meta/meta-blurb.md`).
