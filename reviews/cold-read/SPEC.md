@@ -214,12 +214,32 @@ The reader's **accumulated** memory (not a review — no craft critique here). I
 "compress with age"; that was disabled because it let hard facts — including a
 character's gender — drift by the end of a long book). Two kinds of content:
 
-**Durable ledger — append, don't compress** (carry every prior entry forward; only
-strike one when the book closes it):
+**Durable ledger — append/conserve-and-amend, don't compress** (carry every prior
+entry forward verbatim, amend only what the chapter moved; only strike one when the
+book closes it):
 - **Who's who** — every named character ever, one-line impression, **gender as
   established on the page**, tagged **in person** vs. **mentioned-only**. Never delete a
   character and never change an established identity — this anchor stops the cast from
   drifting as the book gets long.
+- **Relationship ledger — core relationships carried as a standing status** (not a
+  delta). For the protagonist's central bonds (in their pairs) and the protagonist with
+  herself, three conserved layers each: **(1) State** from a fixed vocabulary
+  (strangers · acquaintances · friendly · friends · antagonistic · estranged ·
+  attracted · involved [flag: consummated y/n] · fighting · broken up · reconciled; +
+  modifiers *secret*, *one-sided*), recorded **surface / true** with page-earned
+  transitions only, and milestones (e.g. a first consummation) held as **flags on the
+  state, never dropped**; **(2) four bipolar axes** — *warmth↔cold*,
+  *isolation↔belonging*, *cherished↔used*, *desire-worked-on-her↔desire-hers* — each
+  recording **both poles** where the chapter set them (the character's pole and the
+  reader's may diverge; that co-existing chord is the reading); **(3) this-chapter
+  delta.** Other pairs stay one-line delta. *(This standing status is the anti-forgetting
+  spine — a delta-only ledger silently sheds established facts like the consummation
+  over a long chain; the axes are the anti-bias texture — both poles present stops the
+  hand-off from propagating dread-only.)*
+- **What I know that they don't** — the reader's information advantage, **two-valence**:
+  what you know on the *caring* side (someone genuinely loves/protects her) recorded as
+  fully as the *using* side; never lose an entry, strike only when the protagonist
+  learns it; not, on its own, weightier than what is warm and true on the page.
 - **Motif & image ledger** — each recurring image/object/gesture/phrase with a short
   trail of where it has appeared. The spine of motif tracking.
 - **Symbolism noticed** — running list of what read as symbolic and its apparent meaning.
@@ -229,7 +249,9 @@ strike one when the book closes it):
 - **Story so far** — plain plot memory; recent chapters detailed, older ones kept as a
   clear, correct spine (who did what to whom, where things stand) — never blurred to
   losing a fact.
-- **How I feel** — current trust/attraction/unease per character; overall mood.
+- **How I feel — overall** — the mood carried, and where the reader stands with any
+  principal *not* held in a core standing status; allow the full range (warmth, trust,
+  tenderness, pull, wariness, unease) — don't default to the wary end.
 
 Fold the prior state in and update what changed, but **preserve everything** — the whole
 durable ledger and a faithful running memory. The next reader has ONLY this plus the

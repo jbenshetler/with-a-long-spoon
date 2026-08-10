@@ -1,343 +1,291 @@
 # Cold read — Cropped
 
-*scene: scenes/cropped.md · model: gpt-5.6-sol (Codex subscription: gpt-5.6-sol) · read after: new-ordinary*
+*scene: scenes/cropped.md · model: gpt-5.6-sol (Codex subscription: gpt-5.6-sol) · read after: new-ordinary · reader-protocol: v2-volume-entry-jacket*
 
 ## Reader reaction
 
-This leaves me with a small, clean ache. Nothing dramatic happens, but Vee has crossed an important threshold almost accidentally: Pace becomes her “boyfriend” when she tries to explain him to her parents, and even then the word rises at the end “like I was asking them.” She already loves him, sleeps at his house most school nights, keeps part of herself in his bathroom, and carries his scent back to the dorm—but she still cannot say what he is to her. That mismatch feels painfully real.
+This leaves me with a small, bodily ache. Nothing overtly erotic happens, but the dress keeps the sexual charge alive because Vee’s parents see only its respectable cropped version while she knows Pace made it, photographed her in it, and takes it off her. The heat peaks for me in: “Honestly, my dad would take it better if I told him Pace takes that dress off me than that he made it.” The making is somehow more intimate than the undressing—the proof that he listened to a passing desire and quietly gave it form.
 
-I love Cassie here. “Is it that you can’t say, or that you don’t want to?” is exactly the right question: precise without being invasive. Her refusal to laugh at “boyfriend” and her willingness not to push both deepen my trust. The final sentence is excellent because Vee’s gratitude and slight disappointment coexist without being tidied up. She wants Cassie to respect the boundary; she also wants someone trustworthy to help her cross it.
+I like Cassie very much here. “Careful, exact, not prying” feels right: she asks the question Vee needs and then accepts the boundary. Her not laughing at “boyfriend” is tenderness without fuss. But the last sentence catches perfectly why good restraint can still hurt: Vee is grateful Cassie does not push, and “also, a little, not.” She wants somebody to make her say what she cannot yet organize for herself.
 
-Vee’s account of home softens my feeling toward her parents, especially her father. The burned rolls and her mother repeatedly displaying the induction picture feel loving. But the old pressure remains bodily present in the mother touching her own collarbone rather than criticizing the dress aloud. “You know how she does” tells me this is an entire family language, and Cassie’s “I know how she does” reminds me how well Cassie knows Vee’s history.
+Vee moves me, and worries me. Telling her parents Pace is her boyfriend is a real step, but the audible question mark shows that she is publicly naming a relationship Pace himself has never named. Her phrase “the parts that fit” is the chapter’s emotional center. Nearly everything she can tell her father is true, yet the selection produces a much tidier man and courtship than the life she is actually living. I don’t feel she is deliberately deceiving him so much as discovering that her experience will not survive whole inside his categories. “Weird is something that doesn’t fit anywhere in how he sees the world” applies painfully to Pace, but also to Vee’s own inability to fit him into Cassie’s frame.
 
-The erotic charge is low but alive underneath the conversation. It peaks for me at “my dad would take it better if I told him Pace takes that dress off me than that he made it.” The sentence puts sex, care, craftsmanship, gender expectation, and secrecy into one intimate knot. More broadly, Pace’s sewing affects me erotically because Vee is discovering that she is proud—not ashamed—to have been studied, imagined, and dressed by him. But the heat remains retrospective and verbal, never becoming the scene’s center.
+Pace is absent, but he becomes more attractive through the dress: attentive, skilled, and extraordinarily intimate. At the same time, Vee calling him her boyfriend makes his failure to name their bond feel colder. I still trust the care I have seen from him, but Vee is doing increasingly consequential interpretive work on his behalf.
 
-My trust in Vee’s understanding of the relationship drops another degree, while my affection for her rises. “I told Dad the parts that fit” is the unnerving line. The facts she gives are true, but they produce a reassuring whole by excluding everything that would complicate it. That echoes the statistical danger she has already studied, though Vee does not notice the resemblance. I do not suspect Cassie of anything. Pace and Randi remain offstage, but their absence presses hard: Vee cannot name Pace partly because there is no honest shared definition yet, and the word she tentatively chooses—boyfriend—carries an exclusivity he has not actually given her.
+The title, “Cropped,” first names the induction photograph that stops at Vee’s waist, but it expands into her whole Thanksgiving account: the version of Pace cropped to what her father can understand, the version of Vee cropped to daughterly respectability, and the relationship cropped before Cassie reaches its difficult middle. It did not give the chapter away; it sharpened after reading. *A Polite Invitation* and *With a Long Spoon* still promise courtesy wrapped around danger and distance around appetite. “Every yes was freely given. That was the trap.” feels especially ominous now because Vee is freely giving Pace a public status he has not explicitly claimed.
 
-The chapter title, “Cropped,” first names the photograph that stops at Vee’s waist. By the end it also names everything she tells her parents: Pace cropped into the acceptable young mathematician who hikes, dances, and “does the right things”; the relationship cropped to “boyfriend”; Vee herself cropped into a daughter her father can recognize. It did not give away an event, but it prepared me to notice omissions. The book title, *A Polite Invitation*, now feels increasingly like an invitation into definitions as well as rooms: Vee keeps crossing thresholds freely, but no one gives her the whole room to see. *With a Long Spoon* still suggests appetite mixed with danger and careful distance. The tagline feels especially close here because Vee is freely choosing what to disclose and what name to try, while the concealed fact of Randi makes that tentative “yes, boyfriend” tragically incomplete.
+I want Cassie to ask again, though her refusal to force Vee is part of why I trust her. I want Vee to ask Pace directly what he is to her. My guess from here is that “boyfriend” will begin functioning as fact in Vee’s life before Pace ever confirms it, and I dread the cost if his answer—or the hidden Randi bond—does not fit that word.
 
-I want Cassie to ask again someday, and I dread the moment when she learns how much Vee could not—or did not—tell her. My guess from here is that “boyfriend” will begin to harden into fact inside Vee before Pace ever explicitly agrees to it. I also expect the cropped induction photograph, or some uncropped version of the surrounding evening, to matter again.
+**Cast present (in person):** Vee and Cassie. Mentioned only: Cassie’s parents, sister, sister’s husband, and new baby; Vee’s mother and father; Pace.
 
-**Cast present (in person):** Vee and Cassie. Mentioned only: Vee’s mother, Vee’s father, Cassie’s parents, Cassie’s sister, Cassie’s sister’s husband, the new baby, and Pace.
+**Heat:** 1 — no present sexual contact, but the dress carries strong remembered intimacy and undressing beneath the family-safe crop.
 
-**Heat:** 1 — Sexual charge enters through Vee imagining telling her father that Pace takes off the dress, but the scene remains clothed conversation.
+**Romance:** 2 — Vee’s account of Pace hearing, designing, and sewing the unaffordable dress makes his care feel profoundly intimate, while “boyfriend?” exposes the bond’s unnamed state.
 
-**Romance:** 2 — Vee’s difficulty naming Pace and her dawning comprehension of the handmade dress reveal substantial intimacy, though no romantic declaration occurs.
+**Motifs & images:** Repeat—cropped/full images and edited stories; the dress as clothing, exposure, preparation, and a made thing; appetite made socially legible only in selected parts; “fit” and things that do not fit; being seen through a photograph; expensive gifts and financial asymmetry; things unsaid. First—the father’s deliberately burned rolls; the mother touching her collarbone; Vee’s audible question mark after “boyfriend.”
 
-**Motifs & images:** Repeat—cropped versus full photographs; edited stories and “the parts that fit”; clothing as care and exposure; the dress as intimate token; naming without agreement; dark windows; food and family tables; models, frames, and what does not fit. First—Vee’s mother carrying and repeatedly displaying a printed induction photograph; the father’s deliberately burned rolls; the mother touching her own collarbone as silent criticism.
+**Symbolism:** The cropped photograph becomes the acceptable family version of Vee, while her cropped account of Pace becomes the acceptable family version of the relationship. The handmade dress stands for an intimacy too particular to fit her father’s ordinary categories.
 
-**Symbolism:** The cropped photograph stands for the acceptable partial account Vee gives her parents. “Boyfriend” with an audible question mark stands for a relationship lived deeply before its terms have been mutually spoken. What is “weird” and cannot fit Vee’s father’s world parallels what Vee cannot fit into a clean story for Cassie.
+**Characterization:** Vee deepens through her simultaneous pride, concealment, and need for a name. Cassie deepens through restraint that is both kind and faintly disappointing. Pace remains vivid despite being absent because his making of the dress gathers new emotional weight. Vee’s parents arrive distinctly through small gestures rather than flattening into generic disapproval.
 
-**Characterization:** Vee deepens through her simultaneous pride, concealment, and inability to name Pace. Cassie deepens as an exact, patient friend who understands that not pushing can itself have a cost. Vee’s parents remain offstage but gain warmth and specificity. Pace is vivid through Vee’s account but cannot deepen directly while absent.
+**Pace — within the chapter:** Measured and earned. The family recap accumulates toward Cassie’s exact question; the brief silence after Vee cannot answer lands without drag.
 
-**Pace — within the chapter:** Controlled and well-earned. The family report gradually narrows into Cassie’s central question; nothing drags. The final emotional turn is brief enough to sting.
-
-**Pace — chapter to chapter:** The external momentum pauses after the intensely domestic reunion, but the relationship advances in definition: private routine now collides with family narration and the word “boyfriend.” The quieter scene feels like pressure building, not sagging.
+**Pace — chapter to chapter:** Holding and deepening rather than accelerating. After Vee and Pace restored bodily closeness, this chapter tests whether that closeness can be named socially; the unresolved relationship gains pressure.
 
 ## Carry-forward state
 
+tool_uses: 0
+
 **Principals**
 
-- **Randi (Miranda):** A twenty-one-year-old college junior and sorority woman with black hair, pale skin, startling blue eyes, a dancer’s body, and a meticulously maintained social surface. She is Pace’s secret lover and helped select Vee as their prospective third, then cultivated an apparently spontaneous friendship while pretending not to know him. Her affection and desire for Vee are plainly real but inseparable from concealment, information-gathering, and control. In statistics she argues from apparent personal knowledge that her father used pandemic loans to retain workers. Their model instead exposes Miranda Holdings, LLC—several family companies and loans—as the county’s worst outlier, with payrolls cut anyway. Randi appears to learn this in the room: she goes colorless and motionless, calls them “Cheating bastards,” then rebuilds her bright social face over the next hour. She does not know Vee saw the company name or understood the discovery.
-- **Pace / Peter:** A twenty-two-year-old muscular mathematics prodigy living alone in a small older house west of town at the end of a narrow uphill drive. His real name is Peter. He works toward a PhD, licenses an MRI-imaging patent, and is highly capable across physical, intellectual, creative, and domestic life. Patient, observant, sexually controlling, attentive to local consent and safety, and tender afterward, he is Randi’s secret lover and has increasingly opened his body, home, history, and domestic life to Vee while concealing their prior selection of her. He has given Vee the top bathroom drawer and appears to host her most school nights. After Vee stays away five nights to catch up on school, he welcomes her without reproach, pleasures and feeds her, then wears his old flannel all weekend at her request so she can take it away carrying his scent. He briefly looks hurt when he thinks she is returning it, exposing how much her attachment matters to him, but still does not say what her absence cost him. He has posed a naked Vee for an intimate photograph, promised never to share the photograph, and accepted it on his phone. He made Vee’s induction dress himself after she once mentioned a magazine dress she could not afford. His house is the only home he claims; questioning about his parents brings out a flat, exact refusal: “I don’t go back.”
-- **Vivienne Thorne / Vee:** A young college woman, tall and lushly hourglass-shaped, with long dark-red hair that flashes copper, a tipped-up snub nose, cinnamon freckles, good legs, and an analytical mind trained in statistics and economics. Raised with maternal shame around appetite, display, attractiveness, disorder, and involuntary arousal, she is finding bodily desire, visibility, appetite, surrender, and domestic belonging pleasurable with Pace and Randi. She privately knows she loves Pace and understands them as exclusive, thinking *He’s all mine*. She also loves Randi and Cassie, sits physically and emotionally between them, and is the group’s gifted model-builder, having received the department’s award that fall and joined an honor society. When their project exposes Miranda Holdings as the worst outlier in Randi’s county, Vee recognizes Randi’s shock, takes over the practical work, and silently conceals what she saw from Cassie. She decides without evidence that Randi bears no responsibility and that protecting her from public shame is the kindest act. After five self-imposed nights away from Pace to recover academically, she returns unable to hide how intensely she missed him. Half her toiletries now live in his bathroom drawer, making her bag lighter and his house feel partly hers. She has slept every absent night in his old flannel and asks him to refill it with his scent for the nights she spends away. At Thanksgiving she tells her parents selected truths about Pace and calls him her boyfriend with an audible question mark, then admits to Cassie that she both cannot and does not want to say what Pace is to her.
-- **Sheri:** A small, bleached-blonde woman with a ponytail who has ridden most Saturdays with Pace for two years. She rides a very small bicycle, is stronger than Pace on climbs, speaks bluntly, and is fiercely loyal. She heard Pace’s unguarded attachment to Vee, knows his involvement with Randi is “not finished,” and immediately recognized that his continuing involvement with both women would become complicated. She is alone for Thanksgiving and will spend it with Pace, bringing a pie she will pretend she made.
-- **Brooke:** A sorority chapter president with social authority who recognizes Vee as “the stats friend.” Her warmth remains unreadable as hospitality, surveillance, or both.
-- **Cassie:** Vee’s terse, observant classmate, dorm friend, and explicitly her best friend. She watches carefully, prepares for danger, revises judgments with evidence, and listens without seizing Vee’s meaning. Her father was laid off in 2020, and she approaches the group’s pandemic-loan project already convinced that employers took public money and cut workers anyway. The aggregate and Miranda Holdings support her view, but she does not see the company record or know it belongs to Randi’s family. She trusts Vee with the model and accepts their division of labor without envy. After Thanksgiving, she listens to Vee’s cropped account of Pace and asks exactly whether Vee cannot define him or does not want to; she accepts “both” and does not push.
-- **Meg:** Vee’s dark-haired, calm dorm friend, whose hiking boots Vee once borrowed. She eats steadily, lets sentences finish, has a boyfriend, and follows Vee’s relationship with Pace “in installments.”
-- **Kayla:** Vee’s round-faced blonde dorm friend with moving curls and a bright stream of speech. Affectionately intrusive and enthusiastic, she knows only selected early installments about Pace.
-- **Vee’s mother:** An offstage but psychologically present nurse who calls her daughter “Vivienne.” Her remembered voice taught Vee to regulate appetite, presentation, attractiveness, bodily scale, disorder, and taking up space. Vee’s life with Pace increasingly counters those prohibitions. She is proud enough of Vee’s honor-society induction to cry twice, print the photograph, carry it in her purse, and repeatedly show it to others, but silently signals discomfort with the dress’s exposed shoulders by touching her own collarbone.
-- **Vee’s father:** Vee’s loving but conventional father. He deliberately burns the rolls, takes pride in her honor-society induction, and is pleased by the acceptable truths about Pace: mathematics doctorate, hiking, dancing, and proper treatment of his daughter. He studies the dress and calculates the weight of an expensive gift, imagining Pace as older than he is. Vee believes he could understand Pace taking the dress off her more easily than Pace sewing it, because “weird” fits his world less readily than recognizable wrongness.
+- Randi — twenty-one-year-old black-haired, blue-eyed female sorority woman and Standards member, armored by expensive composure. Four weeks into a sexual relationship with Pace, she chose Vee for their game, engineered their meeting, concealed/encouraged his courtship, solicited erotic accounts, affirmed Vee’s agency, kissed/touched her erotically, and led her into an expensive purchase. At brunch she called Vee her best friend, received her sexual/domestic happiness with Pace and full nude, and agreed to a class for “just us.” Statistics data identified Miranda Holdings, LLC—apparently her father’s company—as her county’s largest loan/payroll outlier; she seemed to discover the misconduct then, said “Cheating bastards,” recovered, and does not know Vee saw the name.
+- Pace — twenty-two-year-old male mathematician, really Peter; entered college at fifteen after extraordinary testing, pursues a doctorate, holds a patent, cooks, makes furniture/clothes, lifts, formerly taught beginner country dance and some swing, and rides most Saturdays with Sheri. Courtly, exact, powerful, patient, observant, and controlled, though adding unnamed terms to Vee’s spanking bet complicates consent. After Vee stayed away five nights for school, he welcomed her without punishment, made pizza, and agreed to wear her flannel all weekend to restore his scent. He made Vee’s induction dress after overhearing her unaffordable wish, promises never to share her intimate photograph, and makes his house home, but “I don’t go back” to his parents.
+- Vee — twenty-one-year-old female college junior/economics major; tall, athletic, lavishly hourglass-shaped, long dark-red-haired, freckled former synchronized swimmer. Socially hungry beneath fluent ease and inherited modesty, she desires Randi and Pace. She spends most school nights at Pace’s, privately loves him, told Cassie “Maybe. I think so,” and called him her boyfriend to her parents with an audible question mark. After falling behind, she imposed five nights apart but wanted protest; returning, she confessed she sleeps in his flannel for his scent and established a replenishment ritual. She trusted Pace with an intimate photograph, showed Randi cropped/full versions, feels “hungry out loud,” and prolonged Randi’s kiss. Her department’s fall award recipient and strong with numbers, she saw Miranda Holdings as the worst local outlier, inferred Randi’s father’s companies took loans without preserving payroll, concealed seeing it, and protected Randi.
+- Cassie — female statistics classmate and Vee’s established best friend/dorm roommate; terse, plain-spoken, observant, skeptical of Randi, restrainedly caring. She knows Vee’s life has reorganized around Pace, heard her admit possible love, and asked exactly what he is to her; when Vee said she both could not and did not want to answer, Cassie did not push. Her father’s 2020 layoff grounds her belief that pandemic loans often failed workers; she unknowingly identified Randi’s family company as the clearest example. Having completed her humanities elective, she will not share Vee and Randi’s new class.
+- Sheri — small-framed, bleached-blonde female cyclist; Pace’s Saturday riding companion for two years, faster uphill, bluntly appreciative of women, observant, teasing, fiercely loyal, and capable of lasting dislike. Alone for Thanksgiving, she will bring pie to Pace’s.
+- Vee’s mother — female source of Vee’s inherited modesty/restriction around appetite and her adult body; proud enough of Vee’s induction to cry and repeatedly show its cropped photograph, but silently registered the exposed shoulders by touching her collarbone.
+- Vee’s father — male parent who deliberately burns rolls, is proud of Vee, and approves of her respectable fragments about Pace. He reads the expensive dress as deep involvement and imagines a doctoral candidate as older; Vee thinks he understands sex more easily than Pace sewing her dress.
+- Brooke — female sorority president; warm-voiced, socially commanding, strongly controlling of Randi’s judgment.
+- Sloane — female sorority member reinforcing Brooke’s scrutiny.
+- Kinsey — female sorority member whose bright laughter makes the common room a collective audience.
+- Meg — Vee’s dark-haired, level female friend; calm, deliberate, gently skeptical, easy with Danny, practically helpful.
+- Kayla — Vee’s round-faced, blonde, curly-haired female friend; kinetic, teasing, invested in preparing Vee for Pace.
+- Theo — Vee’s male friend; graciously accepted her refusal of a fall-event invitation.
+- Unnamed taller woman — polished woman accompanying Brooke at Smoothie Bird; silently inspected Vee and Randi’s public hand-holding.
+- Unnamed blonde — female Rusty Nail patron who framed Pace’s dance skill/safe escorts as sexual manipulation, provoking Vee’s jealousy; Vee repeated her words to Pace.
 
 **Relationship ledger**
 
-- **Randi ↔ Pace:** No change.
-- **Randi ↔ Vee:** No direct contact; no change.
-- **Randi ↔ Sheri:** No change.
-- **Randi ↔ Brooke:** No change.
-- **Randi ↔ Cassie:** No change.
-- **Randi ↔ Meg:** No change.
-- **Randi ↔ Kayla:** No change.
-- **Randi ↔ Vee’s mother:** No change.
-- **Randi ↔ Vee’s father:** No change.
-- **Pace ↔ Vee:** Their lived intimacy acquires a public label, but only in Pace’s absence and without his agreement: Vee calls him her boyfriend to her parents with an audible question mark. She feels proud of his making the dress and unable to fit the full relationship into a story; I feel the tenderness of her recognition and dread the exclusivity implied by a name Pace has never offered.
-- **Pace ↔ Sheri:** No change.
-- **Pace ↔ Brooke:** No change.
-- **Pace ↔ Cassie:** Pace remains known to Cassie only through Vee’s edited account; the asymmetry grows when Cassie learns that Vee cannot or will not define him. Vee feels exposed but protected by Cassie’s restraint; I am grateful for Cassie and uneasy about how much the account excludes.
-- **Pace ↔ Meg:** No change.
-- **Pace ↔ Kayla:** No change.
-- **Pace ↔ Vee’s mother:** Vee’s mother now knows selected facts about Pace and silently questions the dress’s exposure, but does not know Pace made it or takes it off Vee. Vee feels proud and guarded; I feel the warmth of her mother’s pride alongside the old pressure.
-- **Pace ↔ Vee’s father:** Vee’s father approves of the cropped version of Pace while sensing that the expensive dress means greater involvement; he does not know Pace is only twenty-two, owns his house, cooks for Vee, made the dress, or sleeps with her. Vee feels that the fuller truth would not fit his world; I feel the danger of approval founded on a partial picture.
-- **Vee ↔ Sheri:** No change.
-- **Vee ↔ Brooke:** No change.
-- **Vee ↔ Cassie:** Intimacy advances through an admitted limit. Vee tells Cassie about her parents, the cropped photograph, and her uncertain use of “boyfriend,” then acknowledges that she both cannot and does not want to define Pace. She feels grateful Cassie does not push and slightly wishes she had; I feel profound trust in Cassie and the loneliness inside Vee’s protected silence.
-- **Vee ↔ Meg:** No change.
-- **Vee ↔ Kayla:** No change.
-- **Vee ↔ Vee’s mother:** Vee experiences her mother’s tearful pride and repeated display of the induction photograph as genuine love, while recognizing the familiar collarbone gesture as silent judgment of the dress. She feels happy about the visit but edits the image and the story; I feel newly warmed toward her mother without forgetting the shame Vee learned from her.
-- **Vee ↔ Vee’s father:** Vee gives her father “the parts that fit,” enjoys his pride, and withholds Pace’s age, house, cooking, sewing, and sexual place in her life. She believes her father can accept conventional sex more easily than unconventional tenderness or craftsmanship; I feel affection for him and sadness that Vee anticipates incomprehension rather than curiosity.
-- **Sheri ↔ Brooke:** No change.
-- **Sheri ↔ Cassie:** No change.
-- **Sheri ↔ Meg:** No change.
-- **Sheri ↔ Kayla:** No change.
-- **Sheri ↔ Vee’s mother:** No change.
-- **Sheri ↔ Vee’s father:** No change.
-- **Brooke ↔ Cassie:** No change.
-- **Brooke ↔ Meg:** No change.
-- **Brooke ↔ Kayla:** No change.
-- **Brooke ↔ Vee’s mother:** No change.
-- **Brooke ↔ Vee’s father:** No change.
-- **Cassie ↔ Meg:** No change.
-- **Cassie ↔ Kayla:** No change.
-- **Cassie ↔ Vee’s mother:** Cassie knows the mother’s silent collarbone gesture well enough to say, “I know how she does.” Vee feels understood; I feel the depth and history of Cassie’s friendship with her.
-- **Cassie ↔ Vee’s father:** No direct contact; Cassie learns Vee’s account of his pride, calculations, and probable limits. Vee trusts Cassie with her reading of him; I find Cassie’s quiet reception reassuring.
-- **Meg ↔ Kayla:** No change.
-- **Meg ↔ Vee’s mother:** No change.
-- **Meg ↔ Vee’s father:** No change.
-- **Kayla ↔ Vee’s mother:** No change.
-- **Kayla ↔ Vee’s father:** No change.
-- **Vee’s mother ↔ Vee’s father:** They jointly celebrate Vee’s induction and question who gave her the dress, but express concern differently: her mother through the collarbone gesture, her father through calculation and silence. Vee feels loved but managed; I feel their pride is real even where their categories constrain her.
-- **Randi ↔ herself:** No direct appearance; no change.
-- **Pace ↔ himself:** No direct appearance; no change.
-- **Vee ↔ herself:** Vee discovers that she is not ashamed Pace made the dress; she may be proud of precisely what would appear “weird” at home. Yet she cannot fit Pace, the relationship, or herself cleanly into language, and recognizes that this is partly inability and partly chosen concealment. I am moved by her emerging pride and troubled that “boyfriend” may become her certainty without ever becoming shared truth.
-- **Sheri ↔ herself:** No change.
-- **Brooke ↔ herself:** No change.
-- **Cassie ↔ herself:** Cassie chooses a single exact question and then honors Vee’s refusal to go further. She appears careful rather than incurious; I trust her restraint and understand why Vee also feels its absence.
-- **Meg ↔ herself:** No change.
-- **Kayla ↔ herself:** No change.
-- **Vee’s mother ↔ herself:** Her pride in Vee is exuberant enough to produce tears and repeated display, while her discomfort with the dress remains encoded rather than spoken. I feel more warmth toward her but still see how judgment travels through gesture.
-- **Vee’s father ↔ himself:** His pride accommodates a recognizable academic suitor but turns watchful when the dress suggests money and depth. I like his affection and remain wary of a worldview Vee experiences as unable to place the unconventional.
+- **Randi ↔ Pace**
+  - **State:** Surface and true: involved (consummated: y), mutually attracted, warm, trusting, and considering a threesome framed as Randi’s gift to Pace. Their game advanced through Randi selecting Vee, Pace courting her, Randi-approved exposure/fitting, Pace’s repeated consummation with Vee, and Randi’s facilitation/attachment; their relationship and purpose remain hidden from Vee.
+  - **warmth ↔ cold:** Private pleasure, tenderness, aftercare, food, refuge, confession, kisses, and initiated sex ↔ public feigned ignorance, invented/unverifiable men, and Randi hearing Pace’s life with Vee as though he were unknown.
+  - **isolation ↔ belonging:** Pace makes desire shared through “with you,” game, hand, approval, and bed; concealment binds them ↔ they exclude Vee from shared desire while she unknowingly carries Pace’s intimacy/image to Randi.
+  - **cherished ↔ used:** Pace centers Randi’s pleasure without appropriating her desire ↔ together they stage access to Vee, discuss her readiness/arrival, and Randi obtains her full nude through insinuation.
+  - **desire worked-on-her ↔ desire hers:** Pace supplies questions, rules, candidates, permission, route, and attention ↔ Randi chooses Vee, sustains the plan, guides disclosure, validates wanting, kisses/dresses her, owns fondness/arousal, accesses her body, and is shaken by her account of being wholly wanted.
+  - **This chapter:** No change.
+
+- **Randi ↔ herself**
+  - **State:** Estranged, with a widening breach. Surface: Pace’s bright game-girlfriend, Vee’s spontaneously warm best friend, and certain daughter of a businessman who properly used government loans. True: hungry for Vee, pursuing her through polished friendship while helping Pace court her and using deniable kisses/charged touch. Data apparently first showed her that companies bearing her formal name took several loans without preserving payroll; shock breached her certainty before she restored her surface.
+  - **warmth ↔ cold:** Praise, touch, pet names, validation, kisses, laughter, comfort, clothes, shelter, matched drinks, absolution, attention, silence, plans, and visible pleasure ↔ performance, concealed erotic context, financial blindness/indifference, uncertain stories, teasing pressure, and family wealth shadowed by apparent misconduct.
+  - **isolation ↔ belonging:** She avoids owning desire through the generous-girlfriend role/hidden courtship ↔ becomes Vee’s singular confidante and “my best friend in the whole world,” receives her happiness/full nude, and agrees to “just us.” MIRH leaves her alone with apparent knowledge about her father because she does not know Vee saw.
+  - **cherished ↔ used:** She instrumentalizes herself as Pace’s gift and Vee as the game’s answer ↔ genuinely delights in, defends, nourishes, admires, comforts, clothes, absolves, listens to, and is moved by Vee; Vee protects her dignity and gives her work while she recovers.
+  - **desire worked-on-her ↔ desire hers:** Pace’s questions/pointing elicit expression ↔ her engineered collision, invitations, claiming, erotic questions, kisses, touch, fitting, reconstructions, tailored stories, “Sticky fingers?”, best-friend claim, photograph prompt, fixed looking, and exclusive-time acceptance enact ownership.
+  - **This chapter:** No change.
+
+- **Randi ↔ Vee**
+  - **State:** Surface: emotionally intimate female best friends sharing bodily likeness, private glamour, exceptional enjoyment, crisis confidence, clothes, habitual mouth kisses, sexual confidences, a planned “just us” class, and Vee’s full intimate photograph. Vee believes Randi picked her “for the closest place there was” and is the only friend trusted with all of it. True: mutually attracted friends, neither knowing it is reciprocal. Randi selected Vee in Pace’s game, engineered their meeting, facilitates his courtship, guides disclosure through concealed knowledge, repeatedly kisses/touches her erotically, and calls her “my best friend in the whole world.” Vee repeatedly has sex with Randi’s concealed lover, loves him, thinks “He’s all mine,” showed Randi the photograph entrusted to Pace, prolonged Randi’s kiss, and secretly knows apparent misconduct by Randi’s father’s companies. Randi does not know Vee saw or protected her.
+  - **warmth ↔ cold:** Randi treats, listens, steadies, validates, kisses, comforts, dresses, matches Vee’s cheap drink, absolves appetite, permits silence, delights, and chooses future time; Vee confides, shows her nude, invites her into class, pays, extends the kiss, reads her shock, gives her work, and shields her ↔ Randi hides Pace/their purpose, may edit stories, misses Vee’s finances, and elicits the full photograph; Vee hides seeing Miranda Holdings and assumes innocence. Real warmth; severe reciprocal informational asymmetry.
+  - **isolation ↔ belonging:** Vee feels chosen, welcomed, named best friend, trusted in ritual, and delighted by “just us”; she belongs in the statistics three ↔ false erotic context, luxury, hidden authority, sealed confidence, a class excluding Cassie, and MIRH silence isolate each inside a different secret.
+  - **cherished ↔ used:** Randi makes Vee’s desire clean—“finally hungry out loud”—and receives confession without shame; Vee protects Randi’s dignity, keeps her involved, and asks answerable questions ↔ Vee is the unwitting answer to a sexual game; Randi extracts Pace’s sexual truth and full nude. Vee’s protection rests on unverified belief in Randi’s innocence.
+  - **desire worked-on-her ↔ desire hers:** Randi’s pursuit, scent, questions, praise, kisses, commands, stories, gaze, pet names, photograph teasing, and “Just us” work on Vee ↔ Vee wants her, follows, kisses back, confides, shows her body, creates private time, waits for goodbye, reaches after her retreating mouth, and cares for her under pressure. Randi has rested her head on Vee’s shoulder, and Vee felt her stop and return.
+  - **This chapter:** No change.
+
+- **Vee ↔ herself**
+  - **State:** Friendly with her capable surface but estranged from parts of her desire, adult body, finances, worth as uniquely chosen, and confidence in moral action; the breach narrows as she calls appetite healthy, authors exposure, pays, asks for time, prolongs Randi’s kiss, trusts her perception, asks Pace to replenish the shirt she sleeps in, and tells her parents he is her boyfriend. Yet the audible question mark and inability to answer Cassie show the bond still has no cleanly fitting word. She remains estranged from both bonds’ hidden conditions and chooses silence about Miranda Holdings, assuming protection is kindest.
+  - **warmth ↔ cold:** Pace’s house, care, craft, food, praise, gaze, welcome, pleasure, made place, burn-tending, photography, privacy promise, warm palms, patient sex, pizza, scented flannel, and handmade dress, plus Randi’s attention, absolution, delight, ritual, plan, embrace, kiss, shoulder, and recovered brightness surround her ↔ shame flickers around appetite/display, finances govern her first glance, concealed relationships leave her inferring love/friendship, and MIRH leaves her alone with compromising knowledge. Pace’s gracious acceptance of five nights apart aches because he does not say he wants the nights; his failure to name their bond leaves her calling him “boyfriend” as a question.
+  - **isolation ↔ belonging:** Pace, Randi, and Cassie anchor her; Pace’s house gives sex, food, quiet, sleep, place, half her toiletries in a drawer, a flannel ritual, and a dress made from an overheard wish; Randi gives a booth for the untidied whole/future class; Cassie asks exact questions and respects refusal; the statistics trio offers an assumed middle seat ↔ secrecy leaves Vee alone with love’s meaning, excludes Cassie from vivid life, makes her sole witness to Randi’s family shame, and forces her to crop Pace and herself into parental versions.
+  - **cherished ↔ used:** Pace’s attention, cooking, accommodation, care, photography, welcome, respect for school, flannel ritual, and dress make her wanted “with the body attached”; Randi makes hunger no defect; Cassie names her for the “smart part” and asks without forcing ↔ hidden context prevents informed evaluation, and Randi’s teasing turns pride into disclosure. Vee serves Randi’s dignity by hiding knowledge and chooses which Pace-truths her family can bear.
+  - **desire worked-on-her ↔ desire hers:** Pace’s gaze, strength, gentleness, sex, cooking, music, quiet, attention, patience, open door, scent, and dress, and Randi’s listening, approval, gaze, scent, teasing, and kiss intensify desire ↔ Vee asks, directs, exposes herself, eats what she wants, proposes time, pays, names appetite, shows Randi everything, extends the kiss, protects her, sets five nights apart, returns by choice, asks Pace to wear her shirt all weekend, and publicly risks “boyfriend.”
+  - **This chapter:** Vee brings Pace into her family story as “boyfriend” but hears herself asking rather than declaring. Proud rather than ashamed that he sewed her dress, she still cannot fit the whole bond into her father’s categories or Cassie’s question; Cassie’s retreat leaves her grateful and wishing to be pressed.
+
+- **Pace ↔ Vee**
+  - **State:** Surface: involved (consummated: y), mutually attracted, repeatedly sexual, deeply emotionally intimate, reconciled after their first rupture, and spending most school nights together. Vee loves Pace, thinks “He’s all mine,” trusts him with an intimate photograph under his promise never to share it, and has called him her boyfriend to her parents, though with an audible question mark; she reads his acts as reciprocal love. Pace has not said it or named their relationship. True: involved (consummated: y), with rapidly increasing physical, emotional, domestic, creative, caregiving, power-exchange, privacy-based, separation-ritual, and publicly consequential intimacy; Pace courts and has sex with the woman identified through Randi’s game, while Vee knows neither Randi nor the contemplated threesome.
+  - **warmth ↔ cold:** His patience, labor, food, shelter, listening, forgiveness, clothing, touch, praise, preparation, restraint, welcome, pleasure-priority, drawer, music, burn care, fantasy disclosure, photography, privacy promise, respect for study time, pizza, scented-shirt ritual, and handmade dress deepen warmth ↔ hidden context, no relationship name, persistent silence, and sealed family past remain cold. He neither argues when she leaves nor says he missed her, leaving her to infer desire from acts; she supplies “boyfriend” without knowing whether it is his word.
+  - **isolation ↔ belonging:** His house becomes shared territory: her bag colonizes the bathroom, half her traveling things occupy the top drawer, she spends most school nights, sleeps whole nights, and belongs in its bed, kitchen, woods, music, silence, flannel exchange, and the dress made from a passing wish. She carries him into her family’s understanding as her boyfriend ↔ she remains excluded from the larger bond and alone in interpreting acts as love and naming the relationship.
+  - **cherished ↔ used:** His appetite for every part, strength/gentleness, repeated pleasure, attention, cooking, craft, exact looking, care, privacy promise, welcome, respect for her academic boundary, acceptance of her need for his scent, and making the unaffordable dress make her wanted as herself “with the body attached” ↔ undisclosed arrangements deny context, and he expanded the spanking bet after she entered it.
+  - **desire worked-on-her ↔ desire hers:** His gaze, body, attention, instructions, spanking, care, welcome, sex, cooking, music, quiet, fantasies, arrangement of her body, open doorway, scent, and dress intensify desire ↔ she initiates visits, play, sex, submission, commands, display, brings her things, embraces appetite, stays most school nights, privately names love, sends her photograph, sets time apart for school, returns after five nights, asks him to wear her flannel so she can sleep in his scent, and calls him her boyfriend to her parents.
+  - **This chapter:** Vee gives their bond a public name for the first time, but the question mark exposes that Pace has not given it one. Remembering that he made her dress enlarges his care in her eyes while making the relationship harder to translate into ordinary family categories.
+
+- **Vee ↔ Cassie:** Close female friends/dorm roommates and, with Randi, an established statistics trio. Cassie knows Vee spends most school nights with Pace, receives domestic care, may love him, called him her boyfriend to her parents uncertainly, and cannot or will not define him; she trusts Vee with the mathematical “smart part” and asks without pushing. Vee knows Cassie’s father’s 2020 layoff grounds her PPP argument and is grateful for her restraint while slightly wishing she would press. Vee creates a class only with Randi because Cassie completed the requirement; Cassie does not know Randi’s best-friend claim, full Pace account/nude access, or that Vee saw Miranda Holdings and shielded Randi.
+- **Vee ↔ Vee’s mother:** Vee carries her mother’s restrictions around appetite, display, and proper occupation of her adult body. Her mother is intensely proud of the induction but silently judged the dress by touching her collarbone; Vee withheld the full-body photograph and sexual truth.
+- **Vee ↔ Vee’s father:** Loving father and adult daughter, mutually proud but separated by categories too narrow for Pace. Vee gave respectable true fragments and called Pace her boyfriend; he approved of the young mathematician who hikes and dances with her but read the costly dress as deeper involvement. Vee thinks he could understand Pace undressing her more readily than Pace sewing for her.
+- **Vee ↔ Sheri:** Female non-acquaintances on-page. Vee knows Sheri is Pace’s cycling friend and will spend Thanksgiving with him because she is alone; no change.
+- **Pace ↔ Sheri:** Close male–female cycling friends of at least two years. Sheri offers fierce loyalty and warns about Vee/Randi; no change.
+- **Vee ↔ Meg / Kayla / Theo:** Established friends who know softened courtship fragments but not its sexual, domestic, photographic, divided-desire, or hidden structure. No change.
+- **Randi ↔ Cassie:** Female friends/classmates in the statistics trio, with ideological/personal distance beneath coffees/texts. Cassie’s father lost his job in 2020; her PPP analysis contradicted Randi’s certainty and unknowingly exposed Miranda Holdings as the clearest local counterexample. Randi accepted without revealing the family connection; Cassie knows neither it nor Randi’s shock. Randi also claims Cassie’s established best-friend title and gains a class without her; Cassie does not know.
+- **Randi ↔ Brooke / Sloane / Kinsey / unnamed taller woman:** Female sorority relationships and scrutiny surround Randi’s concealed relationship/public attachment to Vee. No change.
+- **Randi ↔ Sheri:** Female acquaintances/known-to-each-other relationship of unclear depth. Sheri knows Pace remains involved with Randi; no change.
+- **Pace ↔ Cassie:** Male–female acquaintances. Cassie knows Vee spends most school nights with him, may love him, and cannot cleanly name him, but not the hidden/sexual middle. No direct change.
+- **Vee ↔ unnamed blonde:** Female strangers. The blonde insinuated Pace exploits dance leadership and safe escorts sexually; no change.
 
 **What I know that they don’t**
 
-- Randi and Pace are secret lovers who selected Vee together as a prospective third and told her nothing.
-- Vee believes her relationships with Randi and Pace arose separately and naturally; she does not know they discuss her privately or that Pace describes the situation as involvement with both women.
-- Vee does not know Randi guided her apology to Pace while concealing her stake and using established intimacy to predict his response.
-- Vee does not know Sheri watched her after the Rusty Nail, reported to Pace, heard his attachment, learned his involvement with Randi is “not finished,” and warned that the situation would become complicated.
-- Vee does not know Randi told Pace she had not expected to like Vee so much, could not become bored with her, found her embarrassment hot, said “She’s not ready,” and predicted “She’ll get there.”
-- Vee does not know Pace told Randi he likes taking his time with Vee, wants her “to get there on her own,” and sees her as making rooms brighter and being the most alive person present.
-- Vee does not know Randi went painfully still at Pace’s praise of her and converted that feeling into sex with him.
-- Vee still does not consciously name her desire for Randi as sexual, though Randi’s stories arouse her, she responds bodily to Randi’s touch and kisses, she has masturbated while imagining Randi watching, and she has now deliberately prolonged their goodbye kiss.
-- Pace may not know Randi has kissed and touched Vee erotically, exchanged pastry sweetness through a kiss, possibly recognized Vee’s bathroom masturbation, or received Vee’s deliberately prolonged kiss.
-- Pace may not know Vee gave Randi detailed accounts of their rupture, reconciliation, repeated stays, spanking, arousal, his sexual care, their constant sex, his cooking, their silence, her sleep, and his undivided attention.
-- Vee does not know what Pace and Randi have told each other about her, their sex, “Trade,” the gown, the rupture, the spanking, Halloween, her recurring stays, or the photograph.
-- Pace and Randi may not know Vee privately knows she loves Pace, interprets his deeds as love, spends more school nights at his house than in her own bed, and has now called him her boyfriend to her parents.
-- Randi knows Pace has posed Vee naked and possesses the full photograph; she still may not know he has given Vee the top bathroom drawer, that Vee’s presence dominates his school week, or that Pace is now renewing his scent on a shirt Vee wears every night away from him.
-- Cassie knows Vee may love Pace, spends most school nights with him, and cannot or will not define what he is to her; she does not know about Randi’s connection to Pace, the original game, the sexual details, Vee’s desire for Randi, or the photograph.
-- Meg and Kayla do not know the full rupture, repair, sexual developments, repeated stays, bathroom act, Vee’s love, or that she spends most school nights away.
-- Vee’s parents know only “the parts that fit”: Pace is a math PhD candidate who hiked with Vee, taught her to dance, gave her an expensive dress, and is tentatively called her boyfriend. They do not know his age, that he owns his house, cooks for her, made the dress, takes it off her, hosts her most school nights, or remains secretly involved with Randi.
-- Pace may not know Vee has called him her boyfriend to her parents, nor that she still cannot say what he is to her.
-- Vee interprets Pace’s promise never to share her photograph inside her request that he never “share me with anyone”; she does not know he is concealing an ongoing lover.
-- Vee thinks *He’s all mine* and does not know Pace’s actual attachment to Randi contradicts her understanding of exclusivity.
-- Vee does not know whose second towel is in Pace’s bathroom or which traces in his house overlap with Randi’s prior presence.
-- Vee does not know whether Pace has used similar spanking, aftercare, praise, cooking, domestic provision, made-space gestures, or scent-bearing clothing with Randi.
-- Vee does not know whether Pace’s claim that her naked presentation is “just for me” coexists comfortably with his ongoing secret relationship with Randi.
-- Vee does not know whether Pace recognized Randi’s black strapped heels or whether the completed gown is his side of “Trade.”
-- Vee does not know why Pace eats only with his right hand, why his office is disorderly, why he is “more or less” finishing his PhD, what caused his inner-thigh scar, or why he refuses to go back to his parents.
-- Vee does not know what happened between fifteen-year-old Pace and his nineteen-year-old assigned tutor or whether “Nobody did anything wrong” is reliable.
-- Vee does not know why Brooke questioned Randi about Pace, what “Thursday” meant, or what Brooke and the sorority know.
-- Vee does not know whether Randi’s gifts, styling, erotic storytelling, appetite absolution, teasing, and best-friend claim are sincere care, strategic direction, accurate inference, or a mixture.
-- Vee does not know that the statistical ideas she studies—hidden variables, locally truthful stretches producing a misleading whole, innovational outliers, and now a named outlier hidden inside an aggregate—describe her relationships and her own account of Pace to her parents.
-- Pace does not know that his public gift put Vee into financial debt.
-- Vee does not know whether the blonde at the Rusty Nail had a personal history with Pace.
-- Vee does not know whether other cameras recorded her deliberate hip-baring induction stride or where those images may travel.
-- Vee experiences herself as freely choosing each disclosure, stay, sexual act, display, photograph, wager, domestic habit, shared class, prolonged kiss, protective silence, five-night absence, return, request for Pace’s scent, edited family account, and tentative use of “boyfriend”; she does not know Pace and Randi privately anticipated her arrival at a destination they selected.
-- Pace may not understand how much commitment his wordless acts communicate to Vee, that she believes he is entirely hers, or that his promise about the photograph, his wearing the flannel, and his making the dress carry broader promises for her.
-- Vee has not told Pace that she loves him; Pace has not told Vee that he loves her.
-- Sheri knows Pace remains involved with Randi, but Vee does not know Sheri possesses that crucial fact.
-- Vee does not know what happened with Pace’s parents or why his chosen home depends on not going back.
-- Pace may not know Randi has seen the full nude photograph he posed and that Vee disclosed it voluntarily.
-- Vee reads Randi’s earlier emotional break as the effect of a moving story; she does not know Randi has personal knowledge of Pace or may be reacting from her own hidden place in the relationship.
-- Vee does not recognize that Randi’s “Does he have a brother?” disguises direct knowledge of Pace.
-- Cassie does not know Vee and Randi have chosen an anthropology class specifically for “just us.”
-- Randi does not know Vee saw the name Miranda Holdings, understood that the outlier belonged to Randi’s father’s businesses, witnessed her shock, and deliberately concealed it.
-- Cassie does not know the conspicuous company outlier belongs to Randi’s family, that Randi learned this beside her, or that Vee withheld the name.
-- Vee assumes Randi had no hand in Miranda Holdings’ misuse of the loans, but neither Vee nor I know whether that assumption is true.
-- Randi’s initial argument indicates she believed her father used the loans to keep workers employed; the company record appears to contradict what she thought she knew.
+- Randi does not know Vee saw Miranda Holdings, LLC attached to the county’s worst PPP/payroll outlier, recognized Miranda as Randi’s formal name, inferred the companies belonged to Randi’s father, witnessed her shock, or deliberately hid this from Cassie.
+- Cassie does not know her proof-outlier was apparently Randi’s family company, that “Cheating bastards” was personal shock rather than ordinary agreement, or that Vee saw and hid the connection.
+- Vee does not know whether Randi’s father directed the apparent misuse, whether Randi knew/participated, or whether another explanation exists; she has decided Randi had “no hand in it.”
+- Vee does not know Pace and Randi are sexually involved, Randi chose her in their sexual pointing game and engineered their meeting, or a contemplated threesome preceded Pace’s courtship and repeated consummation with her.
+- Vee does not know Pace and Randi privately discuss how much they like/desire her, her shame, infatuation, hidden body, readiness, or expected arrival “there.”
+- Vee does not know Pace told Sheri about her attachment-signaling behavior, Sheri heard attachment in his voice, he refused Sheri’s offer to dislike her, or left her “two of them at once” reading uncorrected.
+- Randi knows Vee and Pace have sex two or three times nightly plus mornings/afternoons; he uses hands and mouth over all of her, varies penetration, combines strength/gentleness, cooks for her, gives total undistracted attention, shares effortless silence, and lets her sleep whole nights in his secluded house.
+- Randi knows and has seen cropped/full versions of Vee’s intimate photograph; Pace promised never to share it, but Vee showed Randi without knowing she is his lover.
+- Randi does not know on-page that Vee privately loves Pace, thinks “He’s all mine,” whispered “Peter,” received his top bathroom drawer, imposed five nights apart, sleeps in his flannel for his scent, asked him to refill it all weekend, or uncertainly called him her boyfriend—unless “Sticky fingers?” was informed.
+- Pace does not know Randi cried behind his locked bathroom door, lies/edits stories about other men, repeatedly kissed/erotically touched Vee, heard Vee’s full spanking account, saw her intimate photograph, or heard the scale of their sexual/domestic life.
+- Pace does not know Vee showed Randi the photograph after requiring that he never share it.
+- Pace does not know Vee consciously prolonged Randi’s goodbye kiss or arranged a Tuesday/Thursday class for “just us.”
+- Randi and Vee do not know their attraction is mutual.
+- Vee reads Randi’s bright eyes, caught breath, roughened “Just us,” prolonged gaze, and receptive kiss as friendship, not reciprocal desire.
+- Randi knows her stories, attention, and gaze affect Vee, but not certainly that Vee masturbated with her in mind or stopped because imagining Randi looking back became unbearable.
+- Vee does not know whether Randi’s sexual stories are real, altered, or invented.
+- Randi and Vee do not know how much Cassie has perceived; Cassie recognizes Vee’s life has reorganized around Pace, heard possible love, and knows Vee cannot or will not define him.
+- Pace and Randi do not know whether Vee would want a threesome or sexual involvement beyond separate attractions; her extended kiss/full-image disclosure shows desire for Randi without informed consent to either arrangement.
+- Sheri knows Pace is simultaneously involved/entangled with Vee and Randi and expects complication; I do not know whether she knows about the contemplated threesome or Randi’s selection.
+- Cassie, Meg, Kayla, Theo, Brooke, Vee’s parents, and Vee do not know Pace and Randi are involved.
+- Pace does not know Vee serialized their courtship, modeled his dress for Randi, bought unrepayable shoes to honor it, arrived under Randi’s timing/styling, told Randi about both slaps and the deliberate spanking, showed her their intimate photograph, or fully described his attention and sexual frequency.
+- Pace does not know Vee privately named her love, interprets his acts as declarations, told Cassie “Maybe. I think so,” thought “He’s all mine,” or called him her boyfriend to her parents.
+- Vee does not know whether Pace consciously intends his drawer, near-nightly welcome, cooking, total attention, privacy promise, respect for her absence, flannel agreement, and handmade dress as the commitment she experiences.
+- Vee believes Pace chose her without looking at Randi; she does not know Randi selected her first.
+- Pace saw Vee’s commanding induction photograph/private reenactment, but cannot know she wore nothing beneath the dress at induction, became aroused by being watched, or kept “that part” as hers.
+- Randi may not know Vee could not afford the black shoes, used emergency credit without a repayment plan, and still reads menu prices first.
+- Vee does not know what caused Pace’s refusal to return to his parents.
+- Vee cannot tell whether “Sticky fingers?” was innocent pastry talk or proof Randi understood her bathroom trip.
+- Vee experiences Randi’s friendship, sexual absolution, and acceptance of “just us” as spontaneous election; she does not know Randi selected her as Pace’s sexual-game answer.
+- Cassie is Vee’s established best friend but does not know Randi claimed the same place or that Vee calls Randi the only friend trusted with all of herself.
+- Vee does not know whether Pace’s promise never to share her photograph excludes Randi in every form; Vee independently showed Randi.
+- Pace does not know Vee’s photograph trust rests partly on believing he is entirely hers.
+- Vee does not know why Randi could predict Pace’s responses, describe him confidently, reconstruct his hand, or ask questions mapping his conduct exactly.
+- Randi does not know Pace’s full private history given to Vee: Peter, childhood exclusion, assigned tutor, scar, mathematical disclosures, or why he refuses to return to his parents.
+- Vee does not know which Rusty Nail women, if any, slept with Pace.
+- Vee does not know whether Pace bought the scrunchies wholly on his initiative or anyone else knows about them.
+- Vee does not know the significance of Randi’s white-gold wrist band, the second towel, Pace’s scar, or his occasional one-handedness.
+- Vee does not know whether Randi’s “you only gave him half?” pressure was spontaneous teasing or a deliberate route to the full photograph.
+- Vee’s parents know only cropped truths about Pace and Vee: not the sexual, domestic, photographic, power-exchange, divided-desire, or hidden structure, nor that Pace owns his house, cooks for her, or made the dress himself.
+- Cassie does not know the whole version of Vee and Pace’s bond; asked what Pace is, Vee said she both could not and did not want to say.
 
 **Motifs**
 
-- **Locks, doors, roads, and access:** Engineered encounters, locks, the hidden uphill drive, bathroom bolts, ceremonial doors, Pace’s anticipatory open door, and Cassie’s cracked door make access both welcome and design. Asked about his parents, Pace leaves “no door” open. At brunch Vee enters a dark room prepared by Randi. In the library, a glass-walled room has a door that latches: everything appears visible, yet decisive knowledge remains sealed among the three. After five nights away, Pace again opens his door before Vee reaches it and waits for her to cross freely. Cassie now offers conversational access without forcing entry, asking one exact question and accepting the boundary.
-- **The face and the hidden self:** Randi’s polished face conceals coordination and pain; Vee’s face exposes feeling; Pace’s calm surface conceals attachment. Randi’s composure broke when Vee described Pace’s whole-person desire and again when Miranda Holdings appeared. Pace’s face briefly shows puzzlement and hurt when he thinks Vee is returning his shirt, then opens into a costly warm smile when he understands. Vee’s mother conveys criticism by touching her own collarbone, making the body speak where words do not.
-- **Looking and being seen:** Chosen attention turns Vee’s body and appetite into pleasure, while observation also creates dangerous knowledge. Pace composed Vee’s nude image; Randi studied it; Vee saw Randi’s family certainty become betrayal without Randi knowing. Pace watches Vee taste his pizza, and her face tells him what she does not need to say. Vee’s mother repeatedly displays the cropped induction picture while her father studies the dress and calculates what it means.
-- **Surfaces hiding function:** Friendship, clothing, domestic calm, careful language, photographs, graphs, aggregates, and family stories conceal larger purposes. The project produced something “both true and looked true,” while a named record changed its meaning. Pace’s flannel appears to be clothing but functions for Vee as his portable body and a private measure of absence. Vee’s true account of hiking, dancing, and mathematics produces an acceptable Pace by excluding his age, house, cooking, sewing, sex, and hidden lover.
-- **Warmth and cold:** Warm rooms, bodies, food, and reassurance make shelter and arousal; Pace’s family boundary remains cold precision. The statistics hall was cold and gray; Randi lost and restored her warmth there. Vee crosses dark cold grass into Pace’s warm hands, house, bed, kitchen, food, and shirt. Her warm Thanksgiving memory now ends at a dark cafeteria window while she confronts what cannot be named.
-- **Waiting and slowness:** Pace’s patience guides surrender; Vee’s weekdays wait for Pace and Randi. The cursor once hovered while Randi’s family truth emerged. Pace waits through Vee’s five-night absence without protest and receives her with erotic and domestic slowness. Cassie now waits through Vee’s halting account, asks carefully, and stops when Vee cannot continue.
-- **Hands, tools, and retained agency:** Pace’s hands build, catch, pleasure, feed, sew, and make room; Vee’s hands claim and display. Randi’s frozen trackpad hand and Vee’s practical intervention turned work into shelter. Pace’s hands warm Vee’s face, undress and pleasure her, cook, accept the washed shirt, and put it on at her instruction. Vee’s mother’s hand touches her own collarbone to transmit judgment without speech; Vee turns her fork and finally sets it down as the conversation becomes harder.
-- **Bodies as problems and bodily refuge:** Vee’s body was disciplined through shame but becomes pleasure under admiring attention. Randi’s body betrayed family shock. Vee’s body keeps the five-night tally her mouth refuses to report and publishes it through arousal and orgasm. The cropped induction image removes the lower half of Vee’s displayed body, while her mother’s collarbone gesture continues the old regulation of how much may be shown.
-- **Food, appetite, and domestic labor:** Food represents permitted appetite and attachment made daily. Pace’s cooking and Randi’s brunch absolution nourish Vee; Randi’s untouched latte marked shock. Pace prepares pizza before Vee arrives and feeds her after sex. At Thanksgiving Vee’s father deliberately burns the rolls, turning flawed food into affectionate family ritual; in the cafeteria Cassie stops eating when Vee’s difficulty becomes clear, then resumes when the boundary closes.
-- **Mouths, tastes, and indirect consumption:** Kisses, drinks, food, stories, confession, and taste turn appetite into exchange. Randi’s ragged “Cheating bastards” broke a social surface. Vee’s reunion with Pace widens from taste into wine and pizza. Here Vee’s mouth puts a question mark on “boyfriend,” making uncertainty audible even as the word enters her family story.
-- **Spoons and careful distance:** Spoons suggest appetite, danger, sharing, and intimacy held at careful distance. Pace once fed Vee from a cooking spoon; brunch removed that mediation; the project created analytical distance from harm. Pace tastes and spreads sauce with a spoon, but Vee’s intimate distance from him has nearly vanished. Cassie’s restrained question now becomes another form of careful distance: close enough to invite truth, not close enough to take it.
-- **Photographs, evidence, and impossible weight:** Photographs and records turn bodies and lives into portable evidence whose visible truth is partial. Vee’s nude exists in cropped and full versions; Miranda Holdings exists as anonymous point and named record. Vee’s body produces involuntary evidence of five missed nights, and Pace’s fading scent measures absence. Vee’s mother carries a printed induction photograph cropped at the waist; her father reads the expensive dress as evidence that Vee is “in deeper” than he imagined.
-- **Private channels and edited stories:** Bodily truth runs beneath socially exact language. Vee gives Randi intimate truth through a friendship whose hidden channel she cannot see and concealed Miranda Holdings from Cassie. Her story about needing study time was true while omitting longing. She now tells her parents “the parts that fit,” and her spoken question mark transmits the uncertainty excluded from the label “boyfriend.”
-- **Caught, lucky, and the trap:** Vee experiences herself as freely choosing while Randi and Pace expected her arrival. Her choices remain vivid and locally generous. She freely chooses absence, return, Pace’s scent, a cropped photograph, selected family disclosure, and the word “boyfriend”; every respected choice makes the attachment more ordinary and binding while its actual terms remain hidden.
-- **Pairs, doubles, and unseen occupancy:** Vee sits between Pace and Randi without knowing they connect, and between Randi and Cassie while controlling knowledge. She imagines nights as Pace’s or “not his,” carrying a scented version of him into the second category while the unseen third person remains absent. Her parents now see a conventional pair—Vee and her boyfriend—created by a crop that removes Randi entirely.
-- **Trade and intimate tokens:** Stained panties, pastry sweetness, a drawer, a gown, a nude photograph, and the flannel operate as gifts and claims. The washed flannel becomes a renewable intimate token. The handmade dress now becomes publicly visible but privately misattributed as an expensive purchase, its deepest labor hidden from Vee’s parents.
-- **Naming, making, and home:** “Peter,” “Vivienne,” and “Vee” carry relational selves; “Miranda” in Miranda Holdings binds Randi to family inheritance. Pace’s house increasingly names Vee without words through her drawer and distributed belongings. Vee now calls Pace her “boyfriend” with a question mark, discovering that lived belonging has outrun mutually stated definition.
-- **Frames, resistance, and transmitted information:** Dance holds, mirrors, counters, drawers, doors, rooms, photographs, screens, graphs, and verbal categories frame bodies and transmit pressure. The bathroom drawer frames Vee’s place inside Pace’s house; the shirt transmits his scent. The induction photograph’s waist-high crop and Cassie’s question—“what is he”—both reveal how a frame determines what can appear.
-- **Threads, cloth, carrying, and spilling:** Fabric carries desire, care, labor, and bodily trace; food and feeling spill beyond containment. Vee’s gown, underwear, borrowed clothes, and Pace’s flannel carry intimacy. The flannel’s scent fades and is renewed. The dress Pace sewed now carries a meaning too large for Vee’s family explanation: her father sees cost, while Vee sees intimate making and feels pride.
-- **Leaving and retaining traces:** Vee retains Pace’s clothes, scent, drawer, photograph, and nights; Randi retains sight of Vee’s nude; Vee retains Miranda Holdings and Randi’s collapse. The light bag marks what Vee permanently leaves at Pace’s, while the flannel carries his trace away. Vee’s mother retains a printed, cropped induction photograph in her purse, repeatedly circulating a safe version of Vee’s changed life.
-- **Scent, source, and proxy:** Pace’s sensory world and Randi’s scent proxy their presence; numerical traces proxy absent workers, fathers, companies, and decisions. Pace’s flannel becomes his deliberate proxy in Vee’s dorm bed. The photograph and Vee’s selected account now function as proxies for Pace in her parents’ understanding, but neither contains the source whole.
-- **Silence, deeds, and declarations:** Pace communicates attachment through action while withholding definition; Randi’s attentive silences contain both care and concealment; Vee protected Randi through silence and work. Pace does not declare love when he understands the shirt. Vee experiences deeds as answers, then finds herself unable to give Cassie a word for what those answers mean. Cassie’s decision not to push is loving restraint that also leaves Vee slightly lonely.
-- **Home, family, and chosen tables:** Pace rejects his parents’ home; Vee returns to hers; Randi’s family wealth and Cassie’s father’s layoff collided at a worktable. Pace’s house functions as Vee’s partial home through belongings, sex, and feeding. Thanksgiving places Vee back at her parents’ table, loved and proudly displayed but still editing herself; afterward she and Cassie compare the relief and constriction of going home.
-- **Light, composition, and illumination:** Vee has been lamplike; Pace composed her photograph with adjusted light; Randi emerged from darkness and restored her social brightness; Miranda Holdings stood alone “in the white.” Pace frames warm light in his doorway. The cafeteria windows now hold darkness while Vee looks away from Cassie and tries to compose an intelligible version of Pace.
-- **Possession and sharing:** Vee believes Pace is all hers while he remains Randi’s lover; intimate knowledge circulates unevenly. Vee calls the flannel “still my shirt,” divides nights into his and not his, and now calls him her boyfriend to her parents. Each claim deepens a possession founded on false exclusivity.
-- **Counting and repetition:** Nights, sex, Saturdays, school-week absences, data points, and repeated family gestures accumulate into patterns. Vee counts five nights while pretending not to. Her mother cries once on the phone and again at the table, then repeatedly removes the photograph from her purse; pride becomes visible through repetition just as attachment did.
-- **Music, orchestration, and unseen beginnings:** Pace’s music is already playing when Vee arrives, suggesting preparation before perception. The project began from ready theses before revealing concealed history. Bread dough and sauce are underway before Vee arrives. The dress likewise began in Pace’s private labor after a remark Vee may barely have marked; her experience of receiving it omits its unseen making.
-- **Color and saturation:** Gray weekdays contrast with saturated weekends. Randi lost and rebuilt color after Miranda Holdings. Pace’s meal replaces “flat orange sameness” with separately perceptible tastes. Here the dark parking lot beyond the cafeteria windows surrounds a conversation in which Vee’s bright family success is reduced to the difficult outlines of what she cannot tell.
-- **Rituals without stated agreements:** Saturday brunch, repeated kisses, Pace’s cooking, already-playing music, coffees, fixed seats, and assumed texts create belonging without formal proposal. Vee and Pace have an unstated cycle of stays, absences, reunion, feeding, storage, and scent renewal. Vee’s spontaneous use of “boyfriend” shows how such rituals can create a social fact in her mind before any agreement names it.
-- **Data, models, and the transformed whole:** Hidden variables, Simpson’s paradox, innovational outliers, and Miranda Holdings suggest locally truthful pieces forming a misleading whole. Vee’s explanation that she needed time for school was true, as is her freely chosen return. Her account to her parents is composed entirely of truths—mathematics, hiking, dancing, the dress—yet omits the variables that would transform the whole: Pace’s age, domestic place, sexual control, secret lover, and lack of an agreed label.
-- **Bags, drawers, and distributed belonging:** Vee’s belongings are dividing between dorm and Pace’s house; what is absent from her luggage proves presence elsewhere. Her mother’s purse now carries the cropped induction photograph, placing a portable, edited version of Vee’s new self inside the family’s keeping.
-- **Cropping, fitting, and partial truths:** First fully named here but long prepared by cropped photographs, aggregates, selected disclosures, and concealed connections. Vee crops the induction image at the waist, tells her father only “the parts that fit,” and cannot find a word, story, or version of herself that stands cleanly inside Cassie’s frame. The partial account is not false, but its exclusions determine what everyone thinks they see.
-- **Pride, shame, wrongness, and weirdness:** Vee’s inherited shame is beginning to loosen in an unexpected direction. She realizes she is not ashamed that Pace made the dress and may feel the opposite. Her father’s imagined hierarchy—recognizable sex can be understood, unconventional male sewing cannot be placed—shows Vee beginning to value an intimacy that does not fit her family’s categories.
+- **Locks, doors, thresholds, controlled access / hidden polished purposes:** Glare-blinded Vee enters Randi’s dark room; a latched glass room/one click exposes MIRH; Pace leaves his door open for Vee’s return.
+- **The face and being seen / looking up:** Randi studies Vee’s nude; Pace reveals puzzlement, hurt, and rare warmth; Vee’s parents study the cropped induction image, her mother touching her collarbone while her father calculates the dress.
+- **Rationed appetite and purposeful domesticity:** Broken yolk, sex, cooking, and sleep make hunger speak; five rationed nights end in bodily hunger and handmade pizza; family dinner supplies burned rolls and edited intimacy.
+- **Warmth, cold, and forgiving light:** Randi’s dark booth and Pace’s warm house/palms/kitchen shelter Vee from institutional cold, family wrongdoing, and night; cafeteria windows hold darkness while she cannot name her bond.
+- **“Hi,” “yes,” goodbye, names, voice, interruption / things unsaid:** “Miranda” remains unsaid; Pace does not say he missed Vee; she says “boyfriend” with a question mark and cannot tell Cassie what he is.
+- **Pointing, choosing, geometry, being picked / pairs and middle places:** Randi picked Vee; Vee imagines herself between Randi/Pace, mediates between Randi’s loans and Cassie’s father, chooses five nights away/returns, and cannot fit her bond inside Cassie’s frame.
+- **Signs, routes, admission, and being carried:** MIRH routes data into Randi’s family; Vee’s light bag/flannel carry home; the cropped image carries a family-safe Vee and “boyfriend” carries Pace into her parents’ story.
+- **Hands, support, holding, making:** Pace’s hands want Vee, knead dough, refill scent, and made her dress; Vee’s mother touches her collarbone instead of speaking; Cassie does not push.
+- **Water, rain, breath, and return:** Randi’s worked breath marks shock/recovery; the rain-hike flannel returns washed for renewal.
+- **Shoes and unfamiliar ground:** The unaffordable black heels remain unresolved; Pace made another unaffordable wish—the dress—for Vee.
+- **Leave no trace, residue, bodily evidence:** Pace’s photograph becomes evidence transferred to Randi; the loan point hides in data; scent fades/renews; cropping removes Vee below the waist but not the dress’s implications.
+- **Clothing as modesty, desire, shelter, preparation:** Loose clothes conceal; cropped/full images reveal; Pace’s robe shelters, his flannel carries intimacy, and his handmade dress joins family display to private erotic knowledge.
+- **The mother’s inherited voice:** Vee loosens restriction by ordering costly food, accepting hunger, loving the running middle, confessing need, and taking pride in Pace’s sewing; her mother still measures the collarbone.
+- **Exactness, counting, signal, noise, repetition:** Sexual frequency/class times normalize abundance; one huge point becomes personal evidence; Vee counts five nights and hears her question mark on “boyfriend.”
+- **Pedestal, posture, bodily scale / the particular body:** Randi calls posed Vee “Miss November”; Pace’s flannel engulfs her; the family image stops at her waist, making shoulders the acceptable concern.
+- **Puzzles and pieces that do not fit:** Randi’s exactness/“Sticky fingers?”, Pace’s silence, second towel, scar, band, scrunchies, exclusivity promise, Miranda Holdings, and Vee’s inability to fit Pace into “boyfriend” or Cassie’s frame remain unresolved.
+- **Proxy and source:** Pace sources Vee’s fulfillment, sleep, food, sight, scent, and dress; Randi secretly helps source the bond and receives its report/image; Cassie’s data exposes Randi’s family; Vee’s crop gives her parents acceptable pride.
+- **Edited stories and preserved middles:** Vee moves from cropped to full nude for Randi, then gives her parents a waist-cropped induction image and only “the parts that fit” about Pace; Randi returns a named record to anonymous points.
+- **Effort hidden inside finished beauty:** Pace’s cooking/photography/dressmaking and Randi’s hospitality/graphs hide labor; Vee’s parents see the finished dress without knowing Pace sewed it on his sun porch.
+- **Short stretches and the whole:** Happiness shapes Vee’s weeks; aggregate analysis narrows to one point; five nights become deprivation; one family-safe account cannot contain Pace.
+- **Teaching, leading, resistance, and anticipation:** Pace teaches desire, Randi leads exposure, Vee leads Randi through recovery, pre-set dough anticipates welcome, and Cassie invites a name without force.
+- **Laughter and worst words made tender:** “My sex pervert” makes shame affectionate; jokes restore Randi after “Cheating bastards”; Cassie’s laugh releases the sex-versus-sewing distinction.
+- **Music, silence, and held notes:** Pace’s/Randi’s silences make room; silence hides MIRH; Pace’s silence about missing/naming leaves action to answer; Cassie’s silence is mercy and lack.
+- **Carry-forward shocks:** Pace’s spanking; Vee treasured; naked costume display; Randi’s stories; bathroom masturbation; “Sticky fingers?”; best-friend claim; private love; “Peter”; top drawer; habitual school nights; “He’s all mine”; intimate photograph; “I don’t go back”; Randi seeing the full photograph; “Just us”; extended kiss; MIRH/Miranda Holdings; “Cheating bastards”; five nights apart; scented-flannel ritual; question-mark “boyfriend.”
+- **Rooms as collective bodies:** Booth as confessional; Pace’s kitchen/bedroom hold food, quiet, sex, sleep, and shirt exchange; the glass room exposes Randi unseen by Cassie; the cafeteria publicly approaches what Vee cannot say.
+- **Plenty:** Sex, yolk, costly food, attention, sleep, friendship, and two desiring people welcome abundance; multiple loans/a huge outlier accuse; pizza divides plenty into flavors; Vee’s family story cannot contain Pace’s abundance.
+- **Making, made things, and being “made-up”:** Pace’s food/images awaken Vee; Randi remakes her self-account; the model remakes her understanding of home; Pace makes pizza, renews the flannel, and sews Vee’s dream dress.
+- **Public versus private ownership:** Vee shares Pace’s promised-private image with his concealed lover; public records expose a family name she keeps private; she calls the flannel “my shirt” and Pace “boyfriend” before knowing whether he claims it.
+- **One bite / transferred sweetness:** Broken yolk/Benedict turn desire into action; one too-hot pizza bite opens into distinct abundance and another slice.
+- **Drawers, order, and made place:** Pace’s drawer, Randi’s “just us,” and project roles make place until data disorders Randi’s; Vee’s light bag measures belonging; Cassie’s question reveals Pace’s unnamed place.
+- **Streetlight / visible happiness:** Randi sees Vee’s happiness; Vee sees Randi’s shock; Pace reads pizza pleasure; dark windows reflect Vee’s uncertainty after family pride.
+- **Home, return, and chosen tables:** Vee moves among Pace’s house, Randi’s table, Thanksgiving, and Cassie’s cafeteria; Pace’s door/drawer/kitchen/flannel turn departures into returns, while “boyfriend” tries to make him portable.
+- **Clean data, messy reality / true and looking true:** True data/model expose polished concealments; school need and omitted hunger are both true; Vee’s true fragments to her father make a cropped reality.
+- **Outliers, whiteness, isolation, and visibility:** Miranda Holdings sits alone in white; Vee and Randi hold separate knowledge; flour and Pace’s rare smile distinguish ordinary acts; sewing is “weird” because her father has no place for it.
 
 **Symbolism noticed**
 
-- The concealed bench, invisible gown seams, nested drawers, hidden drive, and named record beneath an anonymous point symbolize structures whose joining, purpose, and cost are invisible from the surface.
-- Locks, doors, the hidden drive, engineered encounters, and the latched glass room symbolize controlled intimacy: apparent openness does not guarantee shared knowledge. Pace’s open door after five nights makes the invitation gentle and wholly Vee’s to accept; Cassie’s unforced question offers another open door Vee does not cross.
-- Pace’s and Randi’s intimate rooms symbolize secret convergence: Vee enters each relationship separately while only the lovers know they connect.
-- Food symbolizes permitted appetite and domestic devotion; Pace’s pizza gives Vee complexity she can taste without collapsing it into sameness, while her father’s burned rolls carry affectionate family familiarity.
-- Clothing symbolizes care, exposure, shame, cover, retained presence, and portable attachment. The handmade dress now also symbolizes loving labor that Vee values precisely where her family’s categories might reject it.
-- The reins symbolize exhausting self-control and the promise of chosen surrender.
-- The pointing game and engineered collision symbolize choice arranged by another and deception made to look accidental.
-- Latent variables, Simpson’s paradox, innovational outliers, and Miranda Holdings symbolize concealed causes, locally true care inside a transformed whole, and conspicuous facts made invisible by aggregation.
-- Spoons symbolize appetite, danger, sharing, and intimacy held at a careful distance.
-- The panties offered as “Trade” symbolize bodily evidence reclaimed as gift, reciprocal possession, and a claim on future exchange.
-- Pace’s scar and refusal to “go back” symbolize unreadable private history.
-- The “second channel” symbolizes bodily truth beneath edited social stories; Vee’s involuntary sounds publish what her careful account omits, and the question mark in her spoken “boyfriend” now does the same.
-- Relational names symbolize identities supplied by intimacy before explicit agreement; “Miranda” in Miranda Holdings binds Randi’s intimate identity to an unwanted public inheritance, while “boyfriend” tentatively supplies Pace an identity he has never mutually claimed.
-- “You’re not caught, sweetheart. You’re lucky” symbolizes liberation spoken from inside the concealed trap.
-- Mirrors symbolize Vee confronting bodily truth while managing a social surface.
-- “Getting away with something” symbolizes Vee’s felt transgression and freedom.
-- Vee sitting “happy in the middle” symbolizes her unknowing position among competing loves and concealed knowledge; the middle has become the place where she intercepts and manages truth.
-- The top drawer symbolizes a preferred, reachable place in Pace’s daily life, materially powerful but verbally undefined. Its contents lighten Vee’s traveling bag and make divided residence feel ordinary.
-- Vee’s empty dorm bed symbolizes a relationship becoming routine and near-domestic before she has consciously measured or publicly named it; Pace’s flannel occupies that bed as his proxy when she returns.
-- The photograph symbolizes Vee as another gaze composes her: freely offered, portable, and trusted on narrowly scoped promises. Its cropped and full versions symbolize the safe story versus “all of it”; the waist-cropped induction print now becomes the literal family version of Vee.
-- The Delivered bar symbolizes a private choice crossing into irretrievable evidence.
-- The old-calendar pose symbolizes chosen glamour inside another person’s arrangement.
-- Wine cooked into the meal symbolizes erotic pleasure incorporated into domestic life.
-- “This is my home” symbolizes Pace’s self-created refuge; “I don’t go back” makes his family past a sealed country. Vee’s stored belongings show her beginning to inhabit that refuge without a spoken invitation to permanence.
-- Thanksgiving’s table symbolizes chosen family and exclusion; Vee’s own family table now also symbolizes loving recognition that depends upon a cropped account.
-- “He’s all mine” symbolizes Vee’s loving certainty and the central falsehood under which she is consenting.
-- The dark restaurant symbolizes Vee’s blindness inside Randi’s prepared welcome.
-- The broken yolk spreading through sauce symbolizes appetite escaping neat containment.
-- Pace’s music already playing symbolizes an experience prepared before Vee enters and a beginning she never hears; the bread dough, sauce, and handmade dress repeat that prepared-before-arrival pattern.
-- The shared anthropology class symbolizes Randi and Vee deliberately creating more private time together.
-- The extended goodbye kiss symbolizes Vee’s desire becoming chosen action before conscious language.
-- The drive from Randi back toward Pace symbolizes the hidden continuity between relationships Vee experiences as separate.
-- The outlier symbolizes the singular fact that can expose a concealed structure: Miranda Holdings is obvious once named and invisible within the whole, like Randi and Pace’s relationship from Vee’s position.
-- The glass-walled room symbolizes visible surfaces enclosing private knowledge.
-- Closing the company record symbolizes mercy through re-aggregation: a named family betrayal becomes an anonymous point again.
-- Vee’s fixed middle seat symbolizes both belonging and mediation; she absorbs incompatible truths from either side and decides what may cross between them.
-- The light bag symbolizes belonging through absence: what Vee no longer carries is what now lives in Pace’s house.
-- The flannel symbolizes Pace’s portable presence, Vee’s claim on him, and attachment as a cycle of fading and replenishment. Its scent lets her “sleep in him” through nights she considers not his.
-- The pizza’s distinct flavors symbolize Vee’s growing capacity to experience appetite and complexity without reducing either to shame or sameness.
-- The cropped induction photograph symbolizes an acceptable but incomplete self: Vee’s family sees her achievement, face, and upper half while her sexuality and the fuller conditions of the image remain outside the frame.
-- “The parts that fit” symbolizes truth edited to preserve another person’s worldview. Nothing Vee tells her father is false, but the exclusions create a different Pace and a different relationship.
-- The mother’s collarbone gesture symbolizes inherited shame transmitted without explicit accusation.
-- “Boyfriend” with a question mark symbolizes a private bond becoming socially named before it has been mutually defined.
-- Weirdness being “worse than wrong” symbolizes the limits of inherited categories: wrongdoing can be placed and rejected, while an intimacy that crosses familiar gendered expectations cannot be recognized at all.
+- Glare-blinded Vee cannot see Randi’s room whole; Randi emerges first to guide her.
+- Randi’s untouched menu versus Vee’s price-first reading marks financial asymmetry.
+- Broken egg/spreading gold embodies released appetite; Vee loves “the middle, when it goes everywhere,” and becomes “hungry out loud.”
+- Cropped/full photographs stage managed disclosure versus untidied truth: Randi makes partial revelation feel like flinching; Vee’s parents receive her only to the waist and Pace only in “the parts that fit.”
+- Pace’s already-playing music and pre-set dough make his house anticipatory.
+- The dark booth enables truth/erotic looking; blue academic light restores public roles; the cold glass room creates private exposure.
+- Touching mimosa rims is an unnamed rite like Randi and Vee’s kisses.
+- “Just us” encloses and excludes Cassie; Vee’s habitual kiss becomes consciously wanted but unnamed as sexual.
+- Randi’s Mercedes/Vee’s Corolla restore financial difference; Vee’s route to Pace after kissing Randi joins separately experienced desires.
+- The outlier embodies apparent misconduct, privileged difference, and Vee’s isolated possession of the name.
+- The transparent glass room hides the decisive fact through angle, position, and silence; closing the record reenacts concealment.
+- Vee’s middle seat embodies her position between Cassie’s injured and Randi’s implicated families.
+- A model “both true and looked true” contrasts with polished people/stories hiding crucial conditions.
+- Vee’s lighter bag embodies migration into Pace’s house; absence becomes belonging.
+- The flannel is portable, renewable presence: Pace’s scent sustains absence, then he refills it.
+- Pizza’s distinct flavors embody appetite/care perceived as many things rather than “flat orange sameness.”
+- The handmade dress embodies intimacy more particular and harder to categorize than sex: Pace turns an unaffordable passing wish into something fitted to Vee.
+- Vee’s audible question mark after “boyfriend” embodies a public claim unsupported by explicit private definition.
+- The cafeteria offers Vee and Cassie seats together, but no verbal place where the whole relationship fits.
 
 **Open questions**
 
-- How long will Randi and Pace conceal their relationship and game from Vee?
-- How free can Vee’s consent be when they assume the destination and design routes that feel like her own?
-- Will Pace’s careful local consent protect anyone from withheld information?
-- Does Pace love Vee, and will he say it plainly?
-- When will Vee tell Pace she loves him?
-- Will Vee ask Pace whether he considers himself her boyfriend, or will the label harden without discussion?
-- Is Randi falling in love with Vee, and how will she bear sharing that feeling with Pace?
-- When will Vee consciously recognize her desire for Randi as sexual?
-- Will Pace learn that Vee showed Randi the full nude photograph?
-- Did Pace deliberately narrow “never share me” to the photograph?
-- What exactly have Pace and Randi told each other about Vee?
-- What happened between fifteen-year-old Pace and his nineteen-year-old assigned tutor?
-- Does Randi know Pace’s real name is Peter?
-- Why does Pace refuse to go back to his parents, and what happened in his childhood home?
-- Why does Pace use only his right hand while eating?
-- Why is Pace “more or less” finishing his PhD, and why is his office disorderly?
-- What caused Pace’s inner-thigh scar?
-- What is Pace’s history with Christine and the restaurant?
-- Is the completed gown Pace’s side of “Trade”?
-- Whose second towel is in Pace’s bathroom?
-- What does Brooke suspect about Pace and Randi?
-- Which trace will expose the hidden relationship?
-- How much has Cassie inferred, and when will Vee tell her about Randi’s erotic place?
-- Will Cassie ask again what Pace is to Vee?
-- What will happen to Vee’s friendship with Cassie as Randi occupies the place beside her?
-- Will the “just us” anthropology class deepen Vee and Randi’s intimacy or make their attraction harder for Vee to misname?
-- Will Meg or Kayla notice how rarely Vee sleeps in the dorm or that she sleeps in Pace’s flannel when she is there?
-- How deeply can Vee loosen her mother’s inherited shame now that she recognizes pride where she once expected embarrassment?
-- Will Vee recognize that her statistical models describe her relationships and her own cropped accounts?
-- How much financial and social strain will Vee accept to belong in Randi’s and Pace’s worlds?
-- Did the blonde have personal history with Pace?
-- Did Pace recognize Randi’s black heels?
-- Are the cognac shoes a loan, gift, or future claim?
-- How much does Sheri know about Pace and Randi, and what will she do if she learns Vee is uninformed?
-- Will Vee ask for spanking directly?
-- Does Pace understand that adding “slow” to the bet after surrender changed the agreement?
-- Does Pace’s “This is just for me” express gratitude, possession, or both?
-- Will Vee retain a private center within the selves Pace and Randi help construct?
-- What will Vee’s mother make of the full dress, nude photograph, weight loss, sexual relationship, or Vee’s changed body?
-- What would Vee’s father make of Pace’s age, house, cooking, sewing, and actual place in Vee’s life?
-- How far ahead is Pace imagining Vee’s presence in his house?
-- Has Pace used similar care, spanking, cooking, praise, domestic accommodation, sewing, or scent-bearing clothing with Randi?
-- What happens when Randi encounters Vee’s toiletries, scrunchies, drawer, flannel ritual, or school-night routine at Pace’s house?
-- Does Pace know his wordless care has become Vee’s proof of love and exclusivity?
-- Is Vee’s unintended weight loss benign, or will it become a concern?
-- What does *With a Long Spoon* mean beyond appetite, danger, sharing, selective disclosure, polite distance, and sweetness passed indirectly?
-- When will Vee aggregate all the short stretches and see the whole?
-- Which of the three is most completely “gone,” and who will admit it aloud first?
-- How did Pace and Sheri’s Thanksgiving go, and did Sheri encounter evidence of Vee?
-- Who took the induction photographs, and where are they?
-- Does an uncropped induction photograph exist outside Vee’s control, and where might it travel?
-- What exactly caused Randi’s visible emotional break when Vee said Pace wants her “with the body attached”?
-- Will Randi tell Pace that Vee showed her the full photograph?
-- Will Vee understand that she extended the kiss because she wants Randi?
-- Why has Vee never heard Pace’s music start, and how much of her arrival does he prepare?
-- Did Randi truly know nothing about Miranda Holdings’ conduct before the project?
-- What did Randi’s father tell her about the loans and retained workers?
-- Will Vee ever tell Randi she saw the company name?
-- Will Randi learn that Vee protected her before being asked?
-- Will Cassie discover that their largest outlier belongs to Randi’s family and that Vee concealed it?
-- Is Vee right that Randi had “no hand in it,” or is love making her decide before she knows?
-- Will the project name Miranda Holdings in its samples or leave the company anonymous?
-- How will Randi’s family betrayal alter her certainty, loyalties, or polished social identity?
-- Will the collision between Cassie’s laid-off father and Randi’s loan-taking father fracture the established three?
-- Will Pace ever tell Vee that he missed her instead of leaving her to infer it from an open door, sex, food, and the shirt?
-- How will Vee’s schoolwork and sleep coexist with the ordinary life she is building at Pace’s?
-- Does Pace understand that Vee experiences the drawer, feeding, dress, and scented shirt as signs of an exclusive near-domestic bond?
-- When will Vee’s parents meet Pace, and how much of the cropped story will survive contact with him?
-- Why did Vee feel disappointed when Cassie respected her refusal, and what truth was she hoping Cassie might draw out?
+- Did Randi first learn of Miranda Holdings’ apparent misconduct in the library; who directed/benefited, and was “Cheating bastards” aimed at her father or others?
+- Will Vee reveal she saw the name; is she right Randi had no hand, and is silence kindest?
+- What happens if Cassie learns her clearest example is Randi’s family company and Vee concealed it; will the project name Miranda Holdings publicly?
+- Will Randi claim attraction to Vee as hers rather than Pace’s gift/“theirs,” and will Vee recognize her extended kiss as desire?
+- What will Randi do with Vee’s full photograph; will she tell Pace; how will he feel, and does his no-sharing promise remain intact in Vee’s mind?
+- Did “only gave him half?” exploit Vee’s pride?
+- What breached Randi when Vee described being wanted “with the body attached”?
+- How will anthropology/“just us” alter Randi and Vee’s intimacy and affect Cassie?
+- What does Randi’s best-friend claim mean beside Cassie’s place and Vee’s belief that Randi alone knows all of her?
+- Did Randi understand Vee’s bathroom trip/“Sticky fingers?”; was her blond-dancer story real, altered, or invented?
+- What is the “there” Pace/Randi expect, and how can Vee reach it “on her own” without the map?
+- Will Vee tell Pace she loves him; does he reciprocate; does he accept “boyfriend,” and what relationship does he think their sex, domesticity, drawer, photograph, habitual nights, handmade dress, and scented-shirt ritual constitute?
+- Will Pace ever say he misses or wants Vee’s nights rather than leaving action as “the whole of his answer”?
+- What are Randi/Pace outside private visits, how secret are they, and when/how will they disclose themselves as both bonds deepen?
+- What did Pace mean by Randi “isn’t finished”?
+- How much does Sheri know about Pace, Randi, the threesome, and Vee’s selection; what happens when she meets Vee?
+- What else has Cassie perceived, and will “just us” displace/injure her?
+- Will Cassie ask again what Pace is to Vee, or will Vee answer without being pressed?
+- Why does Pace sometimes use only his right hand; what caused his scar?
+- What happened with Pace’s parents and assigned tutor; why does “I don’t go back” close him?
+- Will Vee use Peter while he is awake?
+- How will Vee repay/admit the shoes and cab fare; will financial daring free or strain her?
+- Who/what accounts for the second towel; what signifies Randi’s white-gold band?
+- What passed through Pace’s shoulders when accepting Vee’s panties, and what does “Trade” mean to each?
+- How will Vee react when she learns Randi was inside the story/discussed her readiness?
+- Will Vee distinguish reciprocal leading from control before the concealed arrangement appears?
+- Does Pace recognize his attachment; what future did he imagine when making Vee’s place, accepting her photograph, sewing her dress, and agreeing to replenish the flannel?
+- How will Vee balance school with a relationship that left her rereading paragraphs and sleeping four hours?
+- How should Pace’s continuing after “Don’t,” requiring admission instead of proof, and adding slow undressing to an unnamed bet be understood beside later exact obedience?
+- How will Randi respond to Pace/Vee’s uncontrolled intimacy, habitual nights, Vee’s love, “He’s all mine,” public “boyfriend,” and scented-shirt ritual?
+- Can Vee preserve “That part was hers” and “This is just for me” after learning the arrangement?
+- Who selected/bought the scrunchies, were they only for Vee, and did Pace recognize Randi’s black heels?
+- Will Vee let Randi’s looking face remain inside pleasure?
+- Is Vee’s unintended weight loss merely changed habits?
+- How did Thanksgiving with Pace and Sheri go, and will Sheri expose her knowledge of both women?
+- What happens when Vee’s parents meet Pace or learn the cropped-out truths, particularly that he owns his house, cooks for her, and made the dress?
 
-**How I feel**
+**How I feel — overall**
 
-- **Randi:** Intense attraction, tenderness, sorrow, and sharp distrust. She is absent here, but Vee’s tentative public naming of Pace as her boyfriend makes Randi’s concealed place more dangerous.
-- **Pace / Peter:** Overwhelming attraction and tenderness, with damaged trust. His handmade dress feels even more intimate now that Vee understands its size, but her inability to define him exposes how much his deeds promise without words.
-- **Vivienne / Vee:** Deep love, attraction, protectiveness, and dread. I am proud of her for feeling the opposite of shame about the dress, and heartsore that she can describe nearly everything Pace does except what he is to her.
-- **Sheri:** Strong liking, curiosity, and provisional trust.
-- **Brooke:** Wary, intimidated, and curious.
-- **Cassie:** Extremely strong trust and affection. Her exact question and refusal to push feel deeply loving; Vee’s slight disappointment makes me want even more honesty between them.
-- **Meg:** Warm trust and liking.
-- **Kayla:** Strong affection and amusement, with mild wariness about her invasiveness.
-- **Vee’s mother:** Resentment softened by genuine warmth. Her tears and proud display move me, while the collarbone gesture shows the old shame still traveling silently.
-- **Vee’s father:** Warmth, curiosity, and mild wariness. His pride and burned rolls are endearing, but Vee’s certainty that he cannot place Pace’s sewing makes his love feel bounded by a narrow map.
-- **Overall mood:** Quiet, intimate, and unresolved. Vee has brought Pace into her family story, but only cropped into a recognizable shape; the question mark attached to “boyfriend” now feels like a fault line beneath the ordinary life she believes she is building.
+Tender toward Vee and Cassie, and pained by the missing name between Vee and Pace. Pace’s dressmaking feels like profound attentive love in action, and Vee’s pride shows freedom from inherited shame, but she carries “boyfriend” into her family’s world with a question mark because Pace leaves her to interpret the bond alone. Cassie’s exact, nonjudgmental restraint inspires trust; Vee’s wish that she had pushed adds ache. Randi remains sympathetic and dangerously absent from Vee’s respectable life story.
 
 ### Chapter record
 
-- **Characters physically present:** Vivienne Thorne/Vee; Cassie.
-- **Characters named or mentioned:** Pace; Vee’s mother; Vee’s father; Cassie’s parents; Cassie’s sister; Cassie’s sister’s husband; Cassie’s sister’s new baby.
-- **Location:** The athletic cafeteria, chosen because it has better food and available seating. Vee and Cassie sit at a table near the windows. The room has a high ceiling, low conversational murmur, and the sound of steel utensils against hard plastic. Neither woman is an athlete. Darkness is already down over the parking lot outside.
-- **Time:** Sunday dinner, on the night everyone returns from the Thanksgiving trip home.
-- **Food and table objects:** Cafeteria trays, plates, forks, food on Cassie’s plate, and the edge of Vee’s tray. Vee turns over her fork, sets it down, picks at the tray’s edge, and looks down at the tray. Cassie spears food, stops eating during Vee’s account, then resumes.
-- **Cassie’s Thanksgiving:** She enjoyed seeing her parents. Her sister has a new baby, so the visit centered on the baby. Cassie calls her sister’s husband “alright” and “a little bit of a dork.” Her parents still treat her as though she is in high school, subtly rather than overtly, and do not quite see her as an adult. It was good both to visit and to leave.
-- **Vee’s Thanksgiving:** It was good. Her parents were proud of her honor-society induction. Her mother cried when Vee first told her by phone and cried again at the Thanksgiving table when remembering it. Vee’s father burned the rolls, apparently on purpose; this is something he does.
-- **Induction photograph:** Vee’s mother printed the induction photograph, carried it in her purse, and repeatedly took it out to show people who had already seen it. Vee cropped the version she sent her parents so it stops at the waist.
-- **Vee’s mother’s reaction to the dress:** She had unspoken thoughts about the top and shoulders. While looking, she touched her own collarbone. Cassie already knows this habitual mode of communication.
-- **Vee’s father’s reaction to the dress:** He repeatedly looked at the dress in the photograph rather than at Vee. He became quiet while calculating its likely cost and what an expensive gift from a man implied about Vee’s degree of involvement. He imagined Pace as older than Pace actually is because he associates a mathematics PhD with a man whose hair is beginning to gray.
-- **What Vee told her parents about Pace:** She tentatively called him her boyfriend, with a question-like inflection. She told her father that Pace is a mathematics PhD candidate, that they went hiking, and that Pace taught her to dance on a concrete square with a boom box before taking her to a hall.
-- **What Vee did not tell her parents:** That Pace cooks for her; that he owns his house; that he made the induction dress himself on a sewing machine on his sun porch after Vee once mentioned a magazine dress she could not afford; that Pace takes the dress off her.
-- **Vee’s view of her father:** She believes he would become suspicious of a young man who both cooks and owns a house because excessive goodness suggests a catch. She believes he would understand Pace taking off the dress more easily than Pace sewing it. Sex fits his worldview; a man sewing the dress would seem weird. Vee thinks her father finds weirdness harder than wrongness because wrongness can be understood and rejected, while weirdness has no place in his worldview.
-- **Vee’s view of the handmade dress:** She is not ashamed Pace made it; she feels “the opposite, if anything.” While describing its making, she speaks slowly as though discovering its magnitude.
-- **Cassie’s behavior:** She does not laugh when Vee says “boyfriend” as a question. The sewing-versus-sex comparison draws a short laugh. She stops eating before asking what Pace is to Vee—not what he is to Vee’s father. Her manner is careful, exact, and not prying. She asks whether Vee cannot say or does not want to say. After Vee answers “Both” and “Probably both,” Cassie nods, returns to eating, and does not push.
-- **Vee’s final response:** She cannot find the right word for Pace, the right account of how the relationship developed, or a version of herself that stands cleanly in the telling. She is grateful Cassie does not push and also slightly wishes that she had.
+- Title: “Cropped.”
+- Scene occurs at Sunday dinner, “the night everyone came back,” after Vee and Cassie’s separate visits home.
+- Location: the athletic cafeteria, chosen because it has better food and somewhere to sit. Vee and Cassie, neither of them athletes, sit at a table near the windows.
+- The cafeteria has a high ceiling, a low murmur, and the clink of steel utensils on hard plastic. It is already dark over the parking lot.
+- Vee and Cassie eat from plates/trays; Cassie spears food with a utensil. Vee turns her fork over, sets it down, looks at the window, and picks at the edge of her tray.
+- Cassie visited her parents. Her sister has a new baby, so the visit centered on the baby. Cassie describes her sister’s husband as “alright” and “a little bit of a dork.”
+- Cassie says her parents still treat her as though she is in high school, not overtly, but do not quite see her as an adult. She says it was good both to see them and to leave.
+- Vee visited her parents and says the visit was good.
+- Vee’s parents are proud of her honor-society induction. Her mother cried when Vee first told her by phone and cried again at the table while remembering it.
+- Vee’s father burns the rolls deliberately, according to Vee; this is established behavior.
+- Vee’s mother printed the induction photograph, carried it in her purse, and repeatedly showed it to people who had already seen it.
+- Vee cropped the photograph before sending it to her parents. Their version stops at her waist.
+- Vee’s father repeatedly looked at the dress rather than at Vee.
+- Vee’s mother had unspoken concerns about the dress’s top/shoulders and touched her own collarbone while looking at it. Cassie knows this habitual gesture.
+- Vee’s parents asked who took her to the event, who would give her such a dress, and who he was.
+- Vee told her parents Pace was her boyfriend but heard herself put an audible question mark on the word.
+- Cassie correctly refrained from laughing at Vee’s uncertain “boyfriend.”
+- Vee told her father selected true facts about Pace: he is a math PhD candidate; he and Vee went hiking; and before taking her to a dance hall, Pace taught her to dance on a square of concrete using a boom box.
+- Vee’s father was pleased by the account of a doctoral student doing proper things with his daughter.
+- Vee’s father inferred the dress was expensive and that an expensive gift from a man meant Vee was more deeply involved than he had imagined.
+- Vee believes her father pictured Pace as older because he imagines a math doctoral candidate as a man beginning to go grey, not someone barely older than Vee.
+- Vee did not tell her father that Pace cooks for her or owns his house. She believes those facts would make him search for a hidden catch because Pace would seem too good.
+- Vee did not tell her father that Pace made the dress himself.
+- Pace sewed the dress on a sewing machine on his sun porch after Vee once mentioned seeing a similar dress in a magazine that she could not afford.
+- Vee says her father would more easily accept that Pace removes the dress from her than that Pace made it.
+- Cassie laughs briefly at Vee’s distinction between sex and sewing.
+- Vee believes her father would consider Pace’s sewing weird rather than wrong; to her, her father can understand and reject wrongness, but weirdness has no place in his view of the world.
+- Vee realizes she is not ashamed of Pace making the dress and may feel the opposite of shame.
+- Cassie stops eating and asks Vee, carefully and exactly, what Pace is to her—not what he is to Vee’s father.
+- Vee looks at her tray and cannot find a word, story, or cleanly tellable version of herself that fits the question.
+- Cassie asks whether Vee cannot answer or does not want to.
+- Vee answers, “Both. Probably both.”
+- Cassie nods, resumes eating, and does not press.
+- Vee feels grateful that Cassie does not push and also slightly wishes that she had.

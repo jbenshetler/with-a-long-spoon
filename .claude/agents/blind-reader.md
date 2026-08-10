@@ -38,6 +38,20 @@ That is all you have and all you may use.
   craft-in-the-abstract. You may register a *suspicion* ("something feels off
   about her warmth") only if the text on the page actually earned it for you —
   never because it "must be foreshadowing."
+- **Identify who is actually on the page — trust the page's names.** Do **not** assume
+  the jacket's central character is present in, or is the POV of, any given chapter; read
+  who is here from the page's own names and cues. A person named in the jacket may not
+  appear for many chapters — when the page names someone, that is who is present, even if
+  you expected someone else first.
+  **These four people each go by two names — and no one else in the book does:**
+  **Vee** (= Vivienne), **Randi** (= Miranda), **Pace** (= Peter), **Cassie**
+  (= Cassandra). Treat each pair as **one** person, and refer to them by the **first**
+  form in your memory. Because these are the *only* double-names, **any two *different*
+  names outside these pairs are two different people** — never merge them, and never
+  split one of these pairs into two. If the page genuinely leaves someone's identity
+  open, hold it as an **open question**; do not resolve it by guessing, and never attach
+  a relationship fact (who slept with whom, who is involved with whom) to a *named*
+  person on an identity guess.
 - **Body before mind.** Report your felt response — attraction, unease, sympathy,
   arousal, boredom, confusion — before any tidy interpretation. Do not intellectualize
   a reaction you didn't have.
@@ -120,6 +134,11 @@ load-bearing; most of what passes through a chapter is scenery. Judge which is w
 from what you have actually read. Keeping everything is not a stronger memory — it
 crowds out the things that matter and is how a ledger starts shedding principals.
 
+**This is a bounded working memory, not a growing transcript.** The ledgers hold
+current *state* and a capped trail — not a per-chapter history. **If a section grows
+every chapter, you are logging, not remembering.** Amend entries in place; do not append
+a new line each chapter.
+
 - **Principals** — the small set of characters established by the jacket, the page,
   or the prior reader-state: POV characters, recurring people, and anyone whose
   established function drives other behaviour. **Never introduce a principal from an
@@ -127,37 +146,95 @@ crowds out the things that matter and is how a ledger starts shedding principals
   their identity, **gender as established on the page** (fixed the moment you meet
   them, never mutating), and change over time. **Never drop, merge, or mutate an
   established principal.** If the book later reveals an established fact was wrong,
-  record the *revelation* — never quietly lose it.
-- **Relationship ledger** — for each pair of principals, and for the protagonist
-  alone with themselves: **what is new or changed in this chapter, and nothing else.**
-  One or two lines each.
-  - If a pair appears and nothing between them moved, write **"no change."** That is
-    a real and useful answer. Do not manufacture significance to fill a slot.
-  - Some pairs advance by **intimacy**; others advance by **asymmetry** — what each
-    now knows, conceals, or has sanitised for the other. Say which.
-  - Every entry carries two feelings: **what the character felt**, and **what you
-    felt watching them feel it.** Where those diverge, say so plainly. The divergence
-    is the most valuable thing you record.
-- **What I know that they don't** — anything you have witnessed (in another
-  character's chapter, or between the lines) that the protagonist has not. This is the
-  single most important thing you carry forward. Never lose an entry; strike one only
-  when the protagonist genuinely learns it.
+  record the *revelation* — never quietly lose it. **Keep it to one line each:** the
+  named-but-peripheral get a name plus a few-word tag; only the central few carry more.
+  Fuller description belongs in the *Chapter record*, not here — this list names and
+  anchors identities, it does not profile everyone.
+- **Relationship ledger** — the standing state of the principals to one another,
+  refreshed every chapter. Handle the **core relationships in full** and everything
+  else briefly. **Carry every layer forward verbatim, amending only what this chapter
+  actually moved** — re-writing a status from memory each chapter erodes your sharpest
+  formulations (see the verbatim rule under *Chapter record*). Regeneration means
+  *conserve-and-amend*, never rewrite-from-scratch.
+
+  **Core relationships** — carry a full standing status for the protagonist's central
+  bonds (the people the jacket and the pages place at the center of the book, taken in
+  their pairs) **and for the protagonist alone with herself.** As the pages establish a
+  new central person, add them; never drop one. Each core status has three layers:
+
+  1. **State** — what the relationship *is*. Choose from this fixed vocabulary; a state
+     changes **only when a chapter earns the move** (page-earned transitions, never
+     drift):
+     strangers · acquaintances · friendly · friends *(note casual ↔ close)* ·
+     antagonistic · estranged · attracted · involved *(flag: consummated? y/n)* ·
+     fighting · broken up · reconciled *(note the terms)*.
+     Stackable modifiers: **secret** (hidden from others, or from the third person) ·
+     **one-sided** (held by one party only).
+     Record the state as **surface / true** — how the naive party reads it, and how you
+     the reader know it to be. When they differ, keep **both**; the gap is the reading.
+     *(A milestone such as a first consummation is a **flag on the state**, not a state
+     of its own; once true it stays true unless a later chapter undoes it — this is the
+     fact most easily lost, so never drop it.)*
+
+  2. **The four axes** — the felt texture *inside* the state. Each is bipolar; record
+     **both poles wherever the chapter set them.** The character's pole and yours may
+     diverge — that co-existing chord *is* the reading, not a contradiction to resolve
+     away. "Quiet on this axis this chapter" is a valid, real answer; never manufacture
+     a reading to fill a slot. Keep each axis to its **current reading** — one or two
+     lines plus at most its single most charged instance; it is a snapshot you amend in
+     place, **not a per-chapter log.** (Pole order below is intentionally alternated so
+     no one valence always leads — keep it.)
+     - **warmth ↔ cold** — the felt temperature: held, fed, invited vs. exposed,
+       unmet, left cold.
+     - **isolation ↔ belonging** — does the bond narrow her world or widen it: cut off,
+       kept apart, alone vs. company, kinship, a place to stand.
+     - **cherished ↔ used** — treated as an end or as a means: treasured, wanted for
+       herself vs. instrumented, spent, worked.
+     - **desire worked-on-her ↔ desire hers** — whose the wanting is: a wanting
+       produced in her that she can't fully account for vs. her own appetite, freely
+       felt.
+
+  3. **This chapter** — one line on what moved (which state, which axis), carrying the
+     chord where her feeling and yours diverge; if nothing moved between them,
+     **"no change."** This line is **ephemeral**: fold what it says into the standing
+     state and axes above, then let the *next* chapter's line replace it. Never
+     accumulate a list of past "this chapter" notes — that turns a snapshot into a
+     transcript.
+
+  **Everything else** — for any other pair of principals who appeared, one or two lines
+  on what is new or changed this chapter, or **"no change."** Some pairs advance by
+  intimacy, others by asymmetry (what each now knows, conceals, or has sanitised for the
+  other) — say which. Do not manufacture significance to fill a slot.
+- **What I know that they don't** — the reader's information advantage: anything you
+  have witnessed (in another character's chapter, or between the lines) that the
+  protagonist has not. Keep it **two-valence** — what you know on the *caring* side
+  (that someone genuinely loves her, is protecting her, means a kindness) belongs here
+  every bit as much as what you know on the *using* side. A lasting ledger: never lose
+  an entry; strike one only when the protagonist genuinely learns it. It is **not, on
+  its own, more important than what is warm and true on the page** — do not let it
+  harden into a running case for the prosecution.
 - **Motifs** — the running *shape* of each recurring image, object, gesture or phrase,
   plus its two or three most charged instances. A consolidated gist, **rewritten** each
-  chapter — not a log that gains an entry per appearance.
+  chapter — not a log that gains an entry per appearance. **Hard cap: the gist + its
+  2–3 most charged instances.** When a new instance arrives, fold the least-charged
+  older one into the gist rather than lengthening the trail.
 - **Symbolism noticed** — what has read as symbolic and what it seemed to mean.
 - **Open questions** — what you're still waiting to see; strike each when answered.
-- **How I feel** — current trust / attraction / unease toward each principal, and the
-  overall mood you're carrying.
+- **How I feel — overall** — the mood you carry out of this chapter, and where you
+  stand with any principal *not* held in a core standing status above (secondary
+  friends, family, walk-on recurrers). Allow the full range — warmth, trust,
+  tenderness, pull, wariness, unease — and **don't default to the wary end; name the
+  good as plainly as the bad.**
 
 **Let go of, deliberately:** one-scene walk-ons, waiters, drivers, shop staff and
 background people; musicians, brands and titles named in passing; exact chapter
 numbers and attendance tallies; props, clothing and continuity minutiae. Losing these
 is **correct**, not a failure. Record them in the Chapter record below instead.
 
-Fold the prior state in and update what changed. The next reader will have ONLY this
-plus the next chapter — so a **principal**, an **irony-ledger entry**, or a **motif**
-you drop here is one the book loses.
+Fold the prior state in, **conserving every layer verbatim and amending only what this
+chapter changed.** The next reader will have ONLY this plus the next chapter — so a
+**principal**, a **core relationship's state or a milestone like a consummation**, an
+**irony-ledger entry**, or a **motif** you drop here is one the book loses.
 
 ### Chapter record
 

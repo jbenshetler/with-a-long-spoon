@@ -30,7 +30,7 @@ REPO = Path(__file__).resolve().parent.parent
 os.chdir(REPO)  # so scenes/, reviews/, .claude/ resolve regardless of caller's cwd
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-from cold_read_batch import FALL_SCENES, has_valid_review, run_batch  # noqa: E402
+from cold_read_batch import FALL_SCENES, has_valid_review, run_batch, parse_response  # noqa: E402
 
 AGENT_DEF = REPO / ".claude/agents/blind-reader.md"
 PRICING_TOML = Path(__file__).resolve().parent / "cold_read_pricing.toml"
@@ -50,6 +50,57 @@ def load_system_prompt() -> str:
     if not body:
         raise SystemExit(f"empty system prompt from {AGENT_DEF}")
     return body
+
+
+COMPACTOR_DEF = REPO / ".claude/agents/blind-compactor.md"
+COMPJUDGE_DEF = REPO / ".claude/agents/blind-compaction-judge.md"
+
+
+def load_agent_prompt(path) -> str:
+    raw = Path(path).read_text()
+    if raw.startswith("---"):
+        end = raw.find("\n---", 3)
+        if end != -1:
+            raw = raw[end + 4 :]
+    body = raw.strip()
+    if not body:
+        raise SystemExit(f"empty prompt from {path}")
+    return body
+
+
+def build_compactor(compact_fn, judge_fn, model):
+    """A same-model compact -> judge -> (retry | fail-open) closure over a carry-forward.
+
+    Shrinks accretive memory (motif trails, principal impressions, older narrative) while
+    a same-model judge certifies nothing load-bearing was lost. On judge REJECT it retries
+    with the losses named; if it still can't produce an approved compaction it returns the
+    ORIGINAL unchanged (fail-open — bloat is recoverable, dropped memory is not).
+    """
+    def _text(res):
+        return parse_response(res.get("output") or res.get("text"))
+
+    def compactor(carry_text, slug):
+        note = ""
+        for attempt in range(1, 3):
+            comp = _text(compact_fn(prompt=carry_text + note, model=model,
+                                    label=f"compact_{slug}_{attempt}"))
+            if not comp or len(comp) >= len(carry_text):
+                note = ("\n\n(Your last attempt was not shorter. Compress motif trails, "
+                        "principal impressions, and older narrative harder — but keep every "
+                        "state, flag, principal, and 'what I know' entry.)")
+                continue
+            verdict = _text(judge_fn(
+                prompt=f"ORIGINAL:\n\n{carry_text}\n\n----- END ORIGINAL -----\n\n"
+                       f"COMPACTED:\n\n{comp}",
+                model=model, label=f"compjudge_{slug}_{attempt}"))
+            up = verdict.upper()
+            if "VERDICT: APPROVE" in up or ("APPROVE" in up and "REJECT" not in up):
+                return comp
+            note = ("\n\nA previous compaction was REJECTED for losing load-bearing "
+                    "memory:\n" + verdict + "\nRedo it, keeping everything named above "
+                    "verbatim.")
+        return carry_text  # fail-open: bloat beats drift
+    return compactor
 
 
 def load_pricing(model: str, price_in, price_out, max_output_tokens=None) -> dict | None:
@@ -78,9 +129,19 @@ def load_pricing(model: str, price_in, price_out, max_output_tokens=None) -> dic
 
 
 def resolve_scenes(scope: str):
-    """'fall' | <slug> | <a>..<b> | <a>.. | ..<b>  (over the Fall manifest)."""
+    """'fall' | <slug> | <a>..<b> | <a>.. | ..<b>  (over the Fall manifest).
+
+    'fall' = Volume One only: the manifest appends later-volume scenes (each marked
+    with a `volume_start`) so scoped `a..b` runs can reach them, but the bare volume
+    name must stop at the Volume One boundary — the first entry after the opening that
+    begins a new volume."""
     if scope == "fall":
-        return list(FALL_SCENES)
+        out = []
+        for i, s in enumerate(FALL_SCENES):
+            if i > 0 and "volume_start" in s:
+                break
+            out.append(s)
+        return out
     slugs = [s["slug"] for s in FALL_SCENES]
     if ".." in scope:
         a, _, b = scope.partition("..")
@@ -324,6 +385,12 @@ def main():
              "it. Without it, --fresh refuses if the scope would overwrite any review "
              "already on disk.",
     )
+    ap.add_argument(
+        "--compaction-threshold", type=int, default=18000,
+        help="when a chapter's carry-forward exceeds this many chars, run a same-model "
+             "compact->judge pass that shrinks accretive memory while preserving every "
+             "load-bearing item (codex auth only; 0 disables).",
+    )
     args = ap.parse_args()
     args.model = MODEL_ALIASES.get(args.model, args.model)
 
@@ -377,7 +444,8 @@ def main():
                 f"opt-in — pass --allow-volume-one-rewrite to proceed, or drop --fresh to "
                 f"resume/skip existing reviews instead."
             )
-    close = None
+    closes = []
+    compactor = None
     if args.auth == "api-key":
         agent_fn = make_api_agent_fn(
             system_prompt=system_prompt,
@@ -398,10 +466,18 @@ def main():
             api_key=api_key,
         )
     else:
-        agent_fn, close = make_codex_agent_fn(
+        agent_fn, _close = make_codex_agent_fn(
             system_prompt=system_prompt,
             effort=args.effort,
         )
+        closes.append(_close)
+        if args.compaction_threshold > 0:
+            compact_fn, _cc = make_codex_agent_fn(
+                system_prompt=load_agent_prompt(COMPACTOR_DEF), effort=args.effort)
+            judge_fn, _cj = make_codex_agent_fn(
+                system_prompt=load_agent_prompt(COMPJUDGE_DEF), effort=args.effort)
+            closes.extend([_cc, _cj])
+            compactor = build_compactor(compact_fn, judge_fn, args.model)
 
     print(
         f"[cold_read] auth={args.auth} model={args.model} id={model_id} "
@@ -430,6 +506,8 @@ def main():
             allow_legacy_resume=args.legacy_resume,
             max_attempts=args.max_attempts,
             budget_usd=budget_usd,
+            compactor=compactor,
+            compaction_threshold=args.compaction_threshold,
             provider_label=(
                 "OpenAI API" if args.auth == "api-key"
                 else "OpenRouter" if args.auth == "openrouter"
@@ -437,8 +515,9 @@ def main():
             ),
         )
     finally:
-        if close:
-            close()
+        for c in closes:
+            if c:
+                c()
 
 
 if __name__ == "__main__":

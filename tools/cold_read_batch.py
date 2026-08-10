@@ -409,6 +409,8 @@ def run_batch(
     allow_legacy_resume: bool = False,
     label_prefix: str = "BlindBatch",
     budget_usd: float | None = None,
+    compactor=None,
+    compaction_threshold: int = 18000,
     provider_label: str = "OMP",
 ):
     """agent_fn(prompt, model, label) -> result dict with output/text/id, and
@@ -570,6 +572,26 @@ def run_batch(
                             }),
                             flush=True,
                         )
+                    if compactor and len(parsed) > compaction_threshold:
+                        try:
+                            comp = compactor(parsed, scene["slug"])
+                            # Accept only if smaller AND the deterministic retention check
+                            # still passes (backstop behind the LLM compaction judge).
+                            if comp and len(comp) < len(parsed) and not check_retention(prior_carry_text, comp):
+                                print(json.dumps({"slug": scene["slug"], "status": "compacted",
+                                                  "from_chars": len(parsed), "to_chars": len(comp)}), flush=True)
+                                response_text = (
+                                    f"### Reader reaction\n\n{reader}\n\n"
+                                    f"### Carry-forward state\n\n{comp}"
+                                )
+                            else:
+                                print(json.dumps({"slug": scene["slug"], "status": "compaction-skipped",
+                                                  "reason": "not-smaller-or-failed-retention",
+                                                  "from_chars": len(parsed),
+                                                  "to_chars": (len(comp) if comp else 0)}), flush=True)
+                        except Exception as e:
+                            print(json.dumps({"slug": scene["slug"], "status": "compaction-error",
+                                              "error": f"{type(e).__name__}: {e}"}), flush=True)
                     path, carry = write_review(
                         out_dir, model_id, model_selector, scene, response_text, predecessor,
                         provider_label, LEGACY_PROTOCOL if allow_legacy_resume else READER_PROTOCOL,

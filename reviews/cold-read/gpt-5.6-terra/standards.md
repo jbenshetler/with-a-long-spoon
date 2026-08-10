@@ -1,107 +1,109 @@
 # Cold read — Standards
 
-*scene: scenes/standards.md · model: gpt-5.6-terra (Codex subscription: gpt-5.6-terra) · read after: the-bench*
+*scene: scenes/standards.md · model: gpt-5.6-terra (Codex subscription: gpt-5.6-terra) · read after: the-bench · reader-protocol: v2-volume-entry-jacket*
 
 ## Reader reaction
 
-This made my stomach tighten. Randi gets home already trying to disappear, and Brooke’s warmth is suddenly frightening because it is so practiced: every question is harmless enough to answer, every answer gets quietly filed. I feel for Randi intensely as she keeps smiling through it, especially when she has no need to look back to know the room has “moved on.” Nothing visibly catastrophic happens; that is what makes it feel so cold.
+This made me feel cold almost immediately. Randi’s careful, nearly invisible unraveling after four minutes of smiling is painful to sit with. Brooke is not openly cruel, which makes her worse to be around: every question is friendly, yet Randi clearly feels pinned. I distrust Brooke’s warmth now because the page earns that distrust through the stop-walking authority, the information-gathering, and especially “*Pace* … like she was filing it.”
 
-Brooke is the person I distrust most right now. The text earns it in the small machinery of her control: “The not-standing was the move,” the smooth switch from Randi’s paper to Pace, then the sudden clean dismissal. Sloane and Kinsey feel less menacing, but their little questions and laughs make them part of the pressure. Pace is absent, but Randi’s remembered “He’s hard to say no to” lands horribly differently after the night before. I do not think the page says he forced her; it says something more confusing and painful: she gave her yes, and now cannot bear the meaning of the wanting or the ease with which that phrase can turn against her.
+Randi has become even more sympathetic to me. At Pace’s she was frightened by being reached; here she cannot even settle into her own room. The image of her lying down fully dressed and shod under an “adequate” duvet lands hard. Pace’s warmth is suddenly missed, though I still feel uneasy about the pressure his care exerts on her. The erotic charge is absent on the surface, but the line “He’s hard to say no to” turns the prior intimacy sickeningly complicated; it is a strong emotional aftercharge rather than heat.
 
-There is no erotic charge here, only its aftermath in Randi’s body. The strongest feeling is numbness. The duvet being “light and synthetic and adequate” after Pace’s warmth is bleak; she cannot make herself cry, cannot even recognize the refusal to cry as a choice.
+“Standards” first means Randi’s board position and the scrutiny she knows how to enact and recognize. By the end it also feels like the rules she has built into her body: don’t cry, don’t need, don’t let anyone see. *A Polite Invitation* and “Every yes was freely given. That was the trap” feel more ominous now—not because her no was denied on this page, but because she has learned to turn herself into someone who cannot quite reach a no, or a feeling, in time. *With a Long Spoon* still means nothing definite to me, but I now associate it with distance and self-protection.
 
-“Standards” is an excellent, ugly title in this moment. Randi is on Standards, and the chapter shows the standards of the house as surveillance, polish, propriety, and the power to make a girl account for herself while smiling. It also makes me wonder what standard Randi is holding herself to that makes a freely chosen night feel unspeakable. *A Polite Invitation* now feels less like only Pace’s gentleness and more like Brooke’s polite interrogation; the tagline feels sharper and sadder, not because Randi’s consent is erased, but because consent has not protected her from shame or from other people’s reading of it. *With a Long Spoon* still means nothing definite to me.
+I want the next chapter badly, but I dread Randi becoming trapped between Brooke’s polite surveillance and Pace’s intimate attention. My guess from here: Brooke will keep quietly collecting facts about Pace, while Randi’s own version of the relationship becomes harder to maintain.
 
-I very much want the next chapter, but I dread Randi deciding that the safest thing is to cut Pace off or turn the whole night into a story she can survive telling. My guess from here: Brooke has not merely been making conversation, and Randi is going to have to manage what the house thinks it knows.
-
-**Cast present (in person):** Randi, Brooke, Sloane, Kinsey.  
-**Mentioned only:** Pace; “the girls”; an unnamed guy Sloane dated; an unnamed CEO.  
-**Heat:** 0 — aftermath and remembered sexual language, but no active erotic scene.  
-**Romance:** 0.5 — Pace’s absence and warmth are felt chiefly as loss and confusion.  
-**Motifs & images:** Repeat: doors/locks and controlled entry; Randi closes both house and bedroom doors unlike herself. Repeat: face/smile as protection; her smile “arranged” and held in place. Repeat: warmth/cold; Pace’s warm house contrasts with her cold room and merely adequate duvet. First: the held breath/not-going, a lifelong shutdown.  
-**Symbolism:** Standards and the chapter house read as a social system of judgment concealed by warmth; the cold duvet reads as protection without comfort.  
-**Characterization:** Randi deepens painfully as someone whose control survives even emotional collapse. Brooke deepens as socially expert and quietly authoritative. Sloane and Kinsey remain thinner but plausibly participate in the room’s pressure.  
-**Pace — within the chapter:** The common-room exchange is brisk, then Randi’s solitary paralysis deliberately slows; it earns the length.  
-**Pace — chapter to chapter:** Momentum builds from private aftermath into the social consequences Randi fears.
+**Cast present (in person):** Randi, Brooke, Sloane, Kinsey. Mentioned only: Pace.  
+**Heat:** 0 — no sexual activity; lingering charged discomfort around Pace’s name and Randi’s remembered line.  
+**Romance:** 0 — no intimacy on the page, only the absence of Pace’s warmth.  
+**Motifs & images:** Repeat: doors/locks and controlled closing; Randi’s arranged face/smile; warmth versus cold; being held versus the inadequate duvet. First: records, filing, spreadsheets, and polite questions as scrutiny.  
+**Symbolism:** Standards reads as both Randi’s formal office and the internal rules that prevent her from feeling. The duvet’s insufficiency stands against Pace’s enveloping warmth.  
+**Characterization:** Randi deepens sharply through bodily disorientation and automatic emotional refusal. Brooke deepens as socially polished, observant authority; Sloane and Kinsey mainly amplify the room’s pressure.  
+**Pace — within the chapter:** The common-room interrogation is taut; the bedroom aftermath slows deliberately and earns it.  
+**Pace — chapter to chapter:** Building—the aftermath makes the prior chapter more emotionally consequential.
 
 ## Carry-forward state
 
 **Principals**
 
-- **Randi (Miranda):** A twenty-one-year-old college junior and sorority member. She has black hair, pale skin, an oval face with a slightly surprised resting expression, and striking blue eyes. She presents as poised, expensive, controlled, and socially polished; she manages food and appearance tightly. She is sexually drawn to Pace and has begun seeking more initiative from him, but this chapter reveals that being deeply seen and emotionally exposed terrifies her. Back at the sorority house after her night with Pace, she is questioned politely about him by Brooke and cannot quite regain her usual command. Alone, she becomes immobilized, unable to cry or even recognize her own shutting-down as an act.
-- **Pace:** A young mathematician living alone in a warm house at the end of a long drive. He builds fine wooden furniture and built a bench that conceals a sexual purpose beneath a tabletop. He is physically attentive, patient, and observant of Randi’s habits and limits; he uses “Red” as her safe word. He believes he has helped her uncover a truer, hungrier self and feels quietly pleased by that belief.
-- **Brooke:** The sorority chapter president. She is finished with hair and face before ten on Saturday, buffed and expensively kept; Randi thinks she looks like a woman who will one day be some CEO’s third wife. Her distinctive warm voice precedes her into rooms and lingers after she leaves. She has more authority than Randi and uses it smoothly, making pointed questions sound friendly and ending the exchange when she chooses.
-- **Sloane:** A sorority sister who watches Randi’s exchange with Brooke “without watching it.” Her laugh means nothing on its own and is therefore available for anything. She asks about the white pickup behind Hahn and frames Randi’s indifference to cars as refreshing.
-- **Kinsey:** A sorority sister sitting cross-legged on the common-room rug with cereal. Her laughter is slightly above pitch; she asks whether Pace is “cute,” specifically “short-cute.”
+- **Randi (Miranda):** woman physically present in this chapter; a twenty-one-year-old college junior in a sorority, with black hair, pale skin, striking blue eyes, and a cultivated, “bright slightly surprised” face. She controls food, appearance, and access to herself; on Pace’s bench she experiences an overwhelming, unperformed need and orgasm, then decides to conceal the self he reached behind her practiced face. Back at the sorority house, Brooke’s friendly questioning leaves her shaken and unable to settle in her private room; she lies fully dressed, shoes on, refusing tears so automatically that it no longer feels like refusal.
+- **Pace (Peter):** man; Randi’s boyfriend by her own later cover story, a young mathematician according to the jacket. He keeps a warm house, builds fine wood furniture, closely observes Randi’s preferences and constraints, and built a convertible bench for her; attentive to consent and aftercare, he believes the evening brought her more fully into herself.
+- **Vee (Vivienne) Thorne:** woman named only in the volume packet; twenty-one, college junior, described there as the book’s advertised central figure. She has not appeared on this page.
+- **Brooke:** woman; Randi’s sorority chapter president. She conducts Saturday-morning chapter administration from the common room and warmly, quietly questions Randi about her claimed paper and Pace.
+- **Sloane:** woman; in the sorority common room, observes Randi’s exchange with Brooke and recognizes Pace’s white pickup.
+- **Kinsey:** woman; in the sorority common room, asks whether Pace is cute.
 
 **Relationship ledger**
 
-- **Randi ↔ Pace:** No direct contact this chapter. Randi’s old public line, “He’s hard to say no to,” returns in a different key as she lies numb in bed; she cannot let the thought go further. She feels confused and shut down rather than newly clear about him; I feel dread at how a phrase that once sounded flirtatious now catches against the previous night.
-- **Randi ↔ Brooke:** Brooke politely extracts and files Pace’s name, field, graduate status, and confirmation that he is not Randi’s instructor, then dismisses Randi. Randi feels Brooke’s authority and cannot use the prepared defenses gathering in her mouth; I feel Brooke’s warmth as coercive because the page shows how little room it leaves Randi.
-- **Randi ↔ Sloane:** Sloane joins the questioning through the pickup and a laugh, then compliments Randi for not caring about cars. Randi answers uncertainly and thanks her; I feel Sloane as part of the room’s pressure, though less deliberately controlling than Brooke.
-- **Randi ↔ Kinsey:** Kinsey asks whether Pace is cute; Randi’s laugh matches Kinsey’s pitch before she can choose it, and she agrees that he is. Randi feels pulled into the room’s expected tone; I feel sad at her automatic adaptation.
-- **Randi alone:** She realizes her beautiful, controlled “face” has protected a self she could let others desire without being reached. On the bench she feels intensely alive and seen, then decides that self must go back behind the face. She does not yet know what she will do about Pace or the new “hum” in her ribs. At home she cannot settle, shower, change, read her notifications, or cry. Her lifelong “not-going” toward feeling is so practiced it feels doorless, like a held breath no longer felt as held; I feel acute sympathy and alarm watching her disappear into it.
-- **Pace alone:** He believes the evening has been remarkably good and that Randi has met more of herself through his care. He sets aside his own arousal because he sees the night as being for her. I feel warmth at his restraint and care, but unease at his certainty that he understands what happened to her.
-- **Brooke alone:** Brooke treats Saturday chapter administration as her ordinary domain and controls the common-room conversation without standing up. She appears to be gathering information about Pace while preserving perfect friendliness; I feel wary of her.
-- **Sloane alone:** Sloane appears socially fluent and opportunistic in the conversation, using an apparently casual observation about the pickup to keep attention on Randi; I feel guarded around her.
-- **Kinsey alone:** Kinsey seems eager for the room to warm to her and joins in with a trivial question about Pace’s attractiveness; I feel little trust in the group dynamic she helps sustain.
+- **Randi ↔ Pace:** **involved (consummated: y) / involved (consummated: y).** They are physically intimate and comfortable enough for Randi to arrive with an overnight bag, initiate kissing, direct his hands, and stay overnight. Pace is tender, patient, and vigilant about physical limits; Randi is drawn to his seeing and care but, after the bench, resolves not to let him know the self he reached. Back in her cold room, the remembered warmth of his house and body becomes an absence she cannot replace with her duvet.
+  - **warmth ↔ cold:** warmth in their quiet greeting, his attentive care, water, blanket, and holding; cold enters when Randi locks herself in the bathroom and returns behind a smile he cannot read. In her sorority room, the physical cold and inadequate duvet sharpen the contrast with him.
+  - **isolation ↔ belonging:** she has a place in his house and against his body; internally she isolates herself, deciding the real part of her will go back behind the face. Her single room gives privacy but not belonging.
+  - **cherished ↔ used:** Pace treats her preferences, body, and recovery as important; his pleasure in having “taken her further” and his use of Brooke’s imagined judgment leave the reader uneasy about how fully he recognizes her fear.
+  - **desire worked-on-her ↔ desire hers:** her appetite is unmistakably hers—she asks to be shown, asks him not to stop, and begs to come; Pace deliberately shapes the conditions that bring it past her usual defenses.
+  - **This chapter:** absent from the scene, Pace becomes more troubling in Randi’s remembered phrase, “He’s hard to say no to”; she cannot let the thought reach a conclusion.
 
-**What I know that they don’t**
+- **Randi ↔ Randi:** **acquaintances / estranged from herself.** Her public face has protected her by keeping being wanted and touched from reaching her inwardly; the bench makes her feel more alive than she remembers, and she cannot yet bear the tenderness of being seen. At home, she cannot access the crying already present in her and reverts to a lifelong, nearly unconscious not-going toward feeling.
+  - **warmth ↔ cold:** she experiences warmth and aliveness under Pace’s gaze, then turns coldly protective toward the vulnerable self it exposed. Her cold room and merely “adequate” duvet make that withdrawal bodily.
+  - **isolation ↔ belonging:** she briefly feels reached and held; she decides to put that self back alone behind the face. Her coveted single room is now an isolating enclosure.
+  - **cherished ↔ used:** being called beautiful and held as herself affects her painfully; she is accustomed to letting the face receive attention in controlled amounts.
+  - **desire worked-on-her ↔ desire hers:** the begging and orgasm feel deeply hers, though she experiences their emergence as something Pace enabled and cannot yet understand.
+  - **This chapter:** confronted with questions about Pace, she performs smoothly, then collapses into stillness and cannot cross toward her own grief.
 
-- Randi privately decides, in the bathroom, that Pace may have the polished face but not the vulnerable self he believes he reached. She returns smiling and curls into him without telling him this.
-- Pace does not know that “You’re beautiful” makes Randi flinch, or that his tenderness after the scene is precisely what she feels unable to bear.
-- Randi does not know Pace’s full private satisfaction in having taken her “further” and his belief that he can answer her hunger again whenever she brings it to him.
-- Pace does not know that, after returning to the sorority house, Randi cannot stop hearing her old line “He’s hard to say no to” in a frightening new key and shuts down rather than cry.
-- Randi does not know whether Brooke’s questions were ordinary concern, social curiosity, or intentional information-gathering; Brooke’s manner lets her conceal that distinction.
+- **Randi ↔ Brooke:** **friendly / friendly with asymmetric scrutiny.** Brooke’s voice and manner remain warm, but she stops Randi, verifies the paper alibi, files Pace’s name and details, and tests whether he teaches Randi. Randi recognizes Brooke’s greater authority and gives a managed account.
+  - **This chapter:** Brooke becomes an active source of social pressure; Randi learns that the cover story must withstand close, polite attention.
+
+- **Pace ↔ Brooke:** no change; Brooke is present only in Pace’s question about what she would think of Randi on the bench.
+
+- **Randi ↔ Sloane:** Sloane recognizes Pace’s white pickup and praises Randi for supposedly not caring about status-car signals; Randi answers guardedly.
+- **Randi ↔ Kinsey:** Kinsey seeks a safe, cheerful detail about Pace being cute; Randi matches her laugh and supplies it.
+
+**What I know that they don't**
+
+- Pace does not know that Randi’s smiling return from the bathroom is a deliberate retreat: she has decided he may have the face, but not the self he found.
+- Randi does not yet know what she will do with her renewed hunger, or how she feels about Pace for exposing it.
+- Pace’s care appears genuine: he checks Randi’s safeword and physical comfort, removes her from the bench carefully, offers water and warmth, and does not intrude after she locks the bathroom door.
+- Pace also believes he has helped Randi meet more of herself, without recognizing that his tenderness has become frightening to her.
+- Brooke does not know the actual reason Randi spent the night with Pace, but the reader sees Brooke testing Randi’s paper story and gathering identifying details about him.
+- Randi does not let the remembered statement “He’s hard to say no to” develop into a thought; the reader feels its changed, troubling weight without knowing what conclusion Randi would reach.
 
 **Motifs**
 
-- **Locks and entry:** Randi locks the front door automatically on arrival; after the scene she locks the bathroom door for the first time in Pace’s house. A key turning in a lock becomes the final image for the new, unnamed pressure inside her. Now, entering the unlocked sorority house, she closes the door quietly rather than with her usual proprietary click, then closes her bedroom door without it; the motif has shifted from chosen control to an attempt to vanish.
-- **The face / eyes / being seen:** Randi’s blue eyes and polished face are the part of herself she has built a life around presenting. Pace’s attention feels to her like seeing past that surface; in the mirror she decides to restore it. At the house, her smile has to “arrange” and hold its position under Brooke’s questions, making the face a visible survival technique.
-- **Appetite and permission:** Thin apple slices are carefully prepared around Randi’s food rules. Pace reads her desire as hunger she has long portioned and kept contained; Randi’s begging makes that hunger feel both ecstatic and dangerous. “He’s hard to say no to” now echoes as a phrase that complicates rather than describes her freely given wanting.
-- **Warmth and touch:** Pace keeps the house warm and takes his time. His hands are repeatedly patient, attentive, and non-directing until the bench scene makes their authority more charged. Randi’s old sorority house is cold in its corners; her synthetic duvet is protective but inadequate, making Pace’s warmth newly difficult to separate from what frightens her.
-- **The bench/table:** A low table with a removable top conceals a bench Pace built for this night. It holds the experience Randi cannot comfortably integrate; tomorrow it will look like a table again.
-- **Held breath / not-going:** Randi’s inability to cry is not experienced as a decision or a door held shut, but as a lifelong practiced refusal to go toward feeling; it is like a held breath that has stopped feeling held.
+- **Locks and doors:** Randi locks the front door automatically; after the bench, she locks Pace out of the bathroom for the first time. The final inner movement is “the size of a key turning in a lock.” Returning home, she closes the unlocked house door quietly, unlike herself, and later closes her own door without her usual assured click; her single is both a privilege and an enclosure.
+- **The face and blue eyes:** Randi’s striking eyes and slightly surprised face are an image she has built her life around; at the mirror, the familiar face is revealed as a practiced protection and a liar. In the common room, her smile has to “arrange” and hold position through Brooke’s questions.
+- **Appetite and thin apple slices:** Pace slices a honeycrisp thin because Randi eats them that way; her food calculation, controlled body, and later overwhelming sexual hunger connect restraint with what she has not let herself have.
+- **Warmth and being held:** Pace’s evenly warm house, hands, blanket, shoulder, and aftercare offer comfort; Randi experiences that warmth as both profoundly alive and intolerably exposing. Her sorority room is cold, and its synthetic duvet is explicitly unable to substitute for that warmth.
+- **The bench/table:** Pace’s handmade bench is disguised as a low table when its top is on; revealed, it becomes the place where Randi’s composure fails and where it will continue waiting.
+- **Polite scrutiny and records:** Brooke’s warm voice, open spreadsheet, seated authority, and repeated “friendly” questions make social control feel like ordinary administration; Pace’s name is spoken “like she was filing it.”
 
 **Symbolism noticed**
 
-- The disguised bench suggests an ordinary surface concealing a more exposing reality.
-- Randi’s face and practiced smile suggest a self-protective role she can give others while keeping herself unreachable.
-- The mirror is where she recognizes the split between the familiar face and what has happened beneath it.
-- The apple suggests safe, managed desire versus a larger appetite.
-- Standards, as Randi’s board role and Brooke’s chapter authority, suggests a social system that turns judgment and surveillance into orderly friendliness.
-- The cold, adequate duvet suggests protection that cannot offer the warmth or safety Randi needs.
+- The bench/table reads as a hidden purpose beneath an ordinary surface: once Randi sees it, she cannot make it only a table again.
+- The mirror reflects the divide between Randi’s polished face and the self that begged.
+- The locks mark her movement from habitual self-protection toward a more deliberate sealing-off after being seen.
+- Standards, the board position that earns Randi a single room, reads as both external social regulation and the internal standards through which she has learned not to cry or need.
+- The duvet is an inadequate substitute for being held: practical cover without warmth, protection without comfort.
 
 **Open questions**
 
-- Will Randi withdraw from Pace, or return to him despite deciding to hide from him?
-- Will Pace notice that Randi’s returned smile is a defense rather than contentment?
-- Can Randi separate what she wanted from what frightened her in the bench scene?
-- What, if anything, does Randi tell Brooke or her sorority world about Pace and these visits?
-- What does the series title *With a Long Spoon* mean in this story?
-- What is Brooke doing with the information she has gathered about Pace, and how much does she already know?
-- Will Randi’s private re-hearing of “He’s hard to say no to” change how she understands the night with Pace?
+- Why does the jacket introduce Vee while the woman on this page is named Randi? Is this an identity fact, or is something else going on? The page does not yet answer.
+- Will Randi return to Pace, and if she does, can she keep the vulnerable self hidden?
+- Will Pace notice that Randi’s post-bathroom happiness is a performance?
+- What is the larger “plan” described in the jacket, and where does it involve Randi, Pace, and Vee?
+- Who is Randi to Vee, if they are both separate people as their names indicate?
+- What, if anything, will Brooke do with the facts she has collected about Pace and Randi’s claimed paper?
+- What does “He’s hard to say no to” mean to Randi now that she cannot let herself continue the thought?
 
-**How I feel**
+**How I feel — overall**
 
-- **Randi:** Strong sympathy, attraction to her vitality, and worry for the way shame immediately claims her pleasure. I now also feel frightened by the depth and automatic nature of her emotional shutdown.
-- **Pace:** Attraction to his composure, craftsmanship, and care; growing suspicion of his certainty, especially where he uses what he knows of Randi’s shame. His absence makes his warmth feel emotionally complicated rather than simply safe.
-- **Brooke:** Strong wariness. Her warmth and competence are attractive on the surface but feel like instruments of control in this chapter.
-- **Sloane:** Mild distrust; her casual social fluency helps make Randi’s interrogation feel communal.
-- **Kinsey:** Little personal feeling yet, but unease at how easily she joins the pressure.
-- **Overall mood:** Warm, sensual intimacy has become cold social exposure and private numbness.
+I am deeply pulled in and more afraid for Randi. Her hunger feels real, and so does her inability to reach the grief and fear it has uncovered. Pace still feels warm, observant, and dangerous in a way he may not understand himself; Brooke now feels like a more immediate danger because her surveillance is pleasant, ordinary, and socially legitimate. Sloane and Kinsey feel less malicious than instrumental to the pressure of the room.
 
 ### Chapter record
 
-- **Title:** “Standards.”
-- **Setting:** Saturday morning, before ten, at Randi’s sorority house. The front door is unlocked at this hour because sisters drift in and out for Pilates, coffee, or brunch. The foyer opens through an archway into the common room. Randi’s room is a second-floor single with an attached bathroom; the old, lovely house does not hold heat and its corners are cold.
-- **Randi / Miranda:** Twenty-one-year-old college junior and sorority member; sits on the chapter board in Standards. She returns in last night’s clothes on a Saturday, carrying a monogrammed overnight bag over one shoulder and a clutch in the hand holding the stair railing. Her cardigan is slightly wrinkled at the hem; a silk top shows briefly beneath it on the stairs. In her room, she keeps the cardigan buttoned and shoes on while lying under the duvet. She closes the front door quietly, unlike her usual “small unhurried click of a woman who knew the room was hers”; she closes her room door without that click. She says she worked at a study group and then at a quiet place on Wilson that stays open; says Pace is a math PhD, not connected to her course, and calls him cute. She receives two phone notifications but does not read them, placing her phone facedown.
-- **Brooke:** Chapter president. In the common room at the long table by the window every Saturday morning doing chapter administration, with a laptop, coffee, and spreadsheet open. Finished with hair and face before ten; described as buffed and expensively kept, and as a woman who would one day be some CEO’s third wife. Her voice is always warm and distinctive. She remains seated while stopping Randi, asks about Randi’s paper, where she worked, Pace’s name, whether he is the white-pickup owner, whether he is in grad school and engineering, then whether he teaches or is connected to Randi’s math course. Randi corrects engineering to math and says he is a PhD. Brooke says, “Good,” when Randi says he is not in her section, says she would have been scandalized, apologizes, then tells Randi to shower and “Go.”
-- **Sloane:** In the common room on the couch with coffee and a laptop. Watches the exchange without watching it; laughs, sets her coffee on the side table, asks whether Pace owns the white pickup she keeps seeing behind Hahn. Says she once dated someone with a huge Raptor who was five-foot-nine, and tells Randi it is refreshing that she does not care about cars.
-- **Kinsey:** In the common room, cross-legged on the rug with a bowl of cereal and spoon. Laughs slightly above pitch. Asks whether Pace is cute and guesses that he is “short-cute”; Randi says he is cute.
-- **Pace:** Mentioned by Brooke, Sloane, Kinsey, and Randi. His name is Pace, not Chase. He is a math PhD in grad school, does not teach Randi and is not connected to her course. He may own a white pickup parked behind Hahn. Randi says he is cute.
-- **Other named or referenced people:** “The sisters” are sorority-house residents; “the girls” previously asked Randi why she agreed to go on a date with Pace. An unnamed man Sloane dated last year drove a huge Raptor and was five-foot-nine. An unnamed future CEO is invoked in Brooke’s description.
-- **Common-room sequence:** Randi enters and tries to reach the stairs before anyone notices her. Brooke stops her; Sloane and Kinsey are present. The exchange takes less than four minutes and consists mostly of smiling. Randi climbs eight steps to the landing and another seven to the second floor.
-- **Randi’s room:** A single awarded by Standards as one of the few tangible perquisites of a board seat. The bed is made because she has not slept in it. The room contains a vanity, bed, closet, attached bathroom, duvet, clutch, overnight bag, phone, and clothing. The closet is narrow and orderly; everything earns its hanger, with a palette from bone to camel to oatmeal and one disciplined oxblood garment at the end.
-- **Randi’s actions alone:** She stands inside the closed door with a hand on its knob; walks between vanity, bed, closet, and bathroom without sitting; puts the overnight bag at the foot of the bed and clutch in its usual place on the vanity; opens the clutch, sees two phone notifications without reading them, and places the phone facedown. She opens and closes the closet without taking anything, runs the bathroom sink for about ten counts without putting her hands under the water, and lies on her back on the made bed in last night’s clothes and shoes. She pulls the light, synthetic, adequate duvet over herself and closes her eyes without crying.
-- **Stated remembered line:** Randi previously told the girls in the kitchen that Pace was “hard to say no to,” with a small laugh meaning “what could I do”; the girls laughed. In her room she hears the phrase “in a different key” and does not let the thought continue.
+- **Chapter title:** “Standards.”
+- **Setting and time:** Saturday morning before 10:00 a.m., in Randi’s sorority house. The common room lies through an archway from the foyer; Randi then goes up eight steps to a landing, seven more to the second floor, down the hall, and into her single room.
+- **Randi (Miranda):** enters the unlocked house after apparently spending Friday night away, wearing last night’s cardigan and silk top; the cardigan is slightly wrinkled at the hem, and she still wears her shoes when she lies on the bed. She carries a monogrammed overnight bag over one shoulder and a clutch in the hand holding the stair railing. She is on the sorority board as Standards and has a single room as a tangible perquisite of that position. Her room has a made bed, vanity, orderly closet, bathroom, and a duvet folded at the bed’s foot. Her closet palette runs bone to camel to oatmeal, with one disciplined oxblood item at the end. Her phone has two unread notifications.
+- **Brooke:** sorority chapter president; seated at the long table by the common-room window with the chapter laptop, coffee, and an open spreadsheet, performing Saturday-morning administrative work. Her hair and face are already finished before 10:00 a.m. She asks about Randi’s paper, where she worked, whether Pace is really his name, his pickup, his graduate-school field, and whether he teaches Randi. She ends the exchange by telling Randi to shower.
+- **Sloane:** seated on the couch with coffee and a laptop. She recognizes the white pickup she keeps seeing parked behind Hahn, compares it to a former boyfriend’s large Raptor, and says Randi’s supposed indifference to cars is refreshing.
+- **Kinsey:** cross-legged on the rug with a bowl of cereal and spoon. She asks whether Pace is “cute,” specifically guessing he is “short-cute.”
+- **Pace (Peter):** mentioned only. Randi confirms that Pace is his actual name, not Chase; he is in graduate school, pursuing a mathematics PhD, does not teach Randi, and drives a white pickup often parked behind Hahn. Randi remembers having told sorority sisters, when asked why she agreed to date him, “He’s hard to say no to.”
+- **Objects and rooms:** unlocked exterior house door; common-room couch, rug, long table, coffee, laptops, cereal bowl and spoon, open spreadsheet; stair railing; monogrammed overnight bag; clutch; bedroom door, bed, vanity, closet, bathroom sink, phone, hangers, duvet.
+- **Physical/environmental details:** the house is lovely and old but does not retain heat; its corners are always cold. Randi’s duvet is light, synthetic, and adequate. Randi lies beneath it on her back, cardigan buttoned, shoes on, and does not cry.
