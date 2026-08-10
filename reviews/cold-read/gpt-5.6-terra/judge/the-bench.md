@@ -1,25 +1,23 @@
 # Fidelity judgment — The Bench
 
-*scene: scenes/the-bench.md · reviewed-model: gpt-5.6-terra · judge-model: gpt-5.6-sol*
+*scene: scenes/the-bench.md · reviewed-model: gpt-5.6-terra · judge-model: gpt-5.5*
 
 tool_uses: 0
 
-## Distortions
-
-- “Every yes was freely given. That was the trap” misquotes the jacket, which says: “Every yes was freely given. That was the problem.” “Trap” adds a somewhat more coercive implication than the supplied framing establishes. [darker-than-page]
-
-## Omissions
-
+**Distortions**  
 None.
 
-## Accurate calls
+**Omissions**  
+The account underweights one central reveal: Pace “had begun building [the bench] seven months ago” though “he had met her three weeks ago.” That matters because it sharpens the jacket’s disclosed premeditation and makes the bench more than a symbol of exposure.
 
-The account faithfully tracks the chapter’s central movement from erotic attentiveness into emotional unease. It accurately identifies Pace’s patience, consent checks, edging, use of Brooke’s imagined gaze, Randi’s unperformed begging and orgasm, and her distressed withdrawal afterward.
+**Accurate calls**  
+The account is faithful about the chapter’s warmth and erotic escalation: apple slices, her initiating the deeper kiss, patient undressing, spanking, edging, orgasm, and aftercare.
 
-It also correctly holds Pace’s two-sided characterization: genuinely attentive and tender, yet pleased with having penetrated Randi’s defenses and unaware that she resolves to hide from him. The interpretations of the bench, mirror, locked bathroom, practiced face, appetite, and fear of tenderness are well grounded in the text.
+It also accurately holds the moral/emotional complication: Pace is attentive and careful in concrete ways, but his use of Brooke/social shame, his recognition of the “real” voice, and his “small warm pleasure” at taking her further all support unease.
 
-The uncertainty surrounding “There you are, Randi” is appropriately preserved rather than resolved. Claims about “first sightings” and the chapter’s position in the book are outside this assessment’s jurisdiction.
+The account is especially accurate about Randi’s bathroom retreat: the face, mirror, lock, concealment, and her inability to bear being tenderly known are all central on the page.
 
-VERDICT: minor drift
-SKEW: darker
-The account is highly faithful overall; its only material drift is replacing the jacket’s “problem” with the darker word “trap.”
+**Verdict**  
+VERDICT: faithful  
+SKEW: none  
+The account preserves the chapter’s doubleness: real consent, real care, real erotic force, and real emotional danger.

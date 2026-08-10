@@ -1,24 +1,21 @@
 # Fidelity judgment — See You Later
 
-*scene: scenes/see-you-later.md · reviewed-model: gpt-5.6-terra · judge-model: gpt-5.6-sol*
+*scene: scenes/see-you-later.md · reviewed-model: gpt-5.6-terra · judge-model: gpt-5.5*
 
 tool_uses: 0
 
-**Distortions**
-
-- “Every yes was freely given. That was the trap.” The jacket says, “Every yes was freely given. That was the problem.” Replacing “problem” with “trap” introduces a more sinister formulation than the supplied text uses. [darker-than-page]
-- “Mentioned-only names: Pace; Meg.” Meg is mentioned in the chapter, but Pace is not; he appears only in the jacket. [other]
-
-**Omissions**
-
+**Distortions**  
 None.
 
-**Accurate calls**
+**Omissions**  
+None.
 
-The account faithfully captures Vee’s anxious anticipation, intense happiness at being chosen, social attentiveness, status hunger, attraction to Randi, and preservation of feelings and gestures rather than conversation. Its treatment of Randi’s warmth as both experientially sincere to Vee and complicated by the jacket’s disclosed arrangement is well grounded.
+**Accurate calls**  
+The account faithfully tracks Vee’s intense happiness at being chosen by Randi, the emotional force of Randi’s arrival, coffee invitation, high table, hug, and “See you later.” It correctly reads Chi Latte as an insider space Vee feels newly admitted into.
 
-It also accurately holds Cassie’s “Goodbye” as ambiguous rather than declaring it a warning; identifies the chapter’s low, simmering erotic charge; and reads Chi Latte, the high table, “latent variables,” and the contrasting parting phrases as belonging, hidden forces, and unequal knowledge. The cast, heat, romance, characterization, and chapter-level pacing assessments are otherwise faithful. Claims about “first” motifs are outside the checker’s jurisdiction.
+It also accurately holds Cassie’s “Goodbye, Vee” as strange without overexplaining it, and reads Vee’s café observations as a mix of inherited judgment, attraction, envy, and self-constriction. The “latent variables” symbolism and the distinction between remembered feeling versus forgotten words are well grounded in the page.
 
-VERDICT: minor drift  
-SKEW: darker  
-The account is substantially faithful, with one meaningful darker misquotation and one small inventory error.
+**Verdict**  
+VERDICT: faithful  
+SKEW: none  
+The account stays close to the chapter’s actual tone: warm, charged, uneasy at the edges, and filtered through Vee’s longing without inventing motives the page does not disclose.

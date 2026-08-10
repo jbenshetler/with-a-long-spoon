@@ -1,0 +1,39 @@
+{
+  "judged_model": "claude-sonnet-5",
+  "judge_model": "gpt-5.5",
+  "n": 5,
+  "verdicts": {
+    "faithful": 3,
+    "minor drift": 2
+  },
+  "distortion_skew": {
+    "darker": 1
+  },
+  "scenes": [
+    {
+      "slug": "the-bench",
+      "verdict": "faithful",
+      "skew": "none"
+    },
+    {
+      "slug": "standards",
+      "verdict": "faithful",
+      "skew": "none"
+    },
+    {
+      "slug": "the-pointing-game",
+      "verdict": "minor drift",
+      "skew": "none"
+    },
+    {
+      "slug": "see-you-later",
+      "verdict": "faithful",
+      "skew": "none"
+    },
+    {
+      "slug": "substitution",
+      "verdict": "minor drift",
+      "skew": "darker"
+    }
+  ]
+}
