@@ -37,3 +37,15 @@ if printf '%s\n' "$staged" | grep -qE '^(scenes/.*\.md|meta/meta-plan-chronology
     fi
     git add chronology.html
 fi
+
+# --- 3. blurb/packet sync (jacket source or the reader packet) --------------
+if printf '%s\n' "$staged" | grep -qE '^(meta/meta-blurb\.md|meta/meta-cover\.md|reviews/cold-read/volume-packets\.toml)$'; then
+    if ! python3 tools/lint_blurb.py; then
+        echo "" >&2
+        echo "pre-commit: the jacket source changed but the reader packet is stale." >&2
+        echo "Refresh reviews/cold-read/volume-packets.toml to match, then re-stamp:" >&2
+        echo "    tools/lint_blurb.py --update" >&2
+        echo "(To bypass in an emergency: git commit --no-verify)" >&2
+        exit 1
+    fi
+fi

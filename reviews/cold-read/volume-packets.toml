@@ -7,6 +7,8 @@
 # "third in their bed" promise (threesome is a Volume Three payoff — Vol 1
 # copy foregrounds the plan); warmth-first, all three principals named.
 
+blurb_source_sha256 = "916e0a37160f1aa15d359cf3775f1ae5ae27062b8cb08bcacc401109e704e400"
+
 [volumes."1"]
 opening_slug = "the-bench"
 packet = '''On the cover: the series line **WITH A LONG SPOON · BOOK ONE**, the volume title **A POLITE INVITATION**, and the author **Helen Rivers**. (No tagline on the front — it is the blurb page's closing beat.)

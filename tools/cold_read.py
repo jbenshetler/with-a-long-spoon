@@ -391,8 +391,18 @@ def main():
              "compact->judge pass that shrinks accretive memory while preserving every "
              "load-bearing item (codex auth only; 0 disables).",
     )
+    ap.add_argument(
+        "--allow-kimi", action="store_true",
+        help="permit a Kimi/Moonshot model — smart but slow and expensive; off by default "
+             "so it can't run without explicit opt-in.",
+    )
     args = ap.parse_args()
     args.model = MODEL_ALIASES.get(args.model, args.model)
+    if ("kimi" in args.model.lower() or "moonshot" in args.model.lower()) and not args.allow_kimi:
+        raise SystemExit(
+            f"Refusing to run '{args.model}' by default: Kimi/Moonshot is slow and expensive. "
+            "Pass --allow-kimi to run it deliberately."
+        )
 
     if args.auth == "api-key":
         api_key = os.environ.get("OPENAI_API_KEY")
