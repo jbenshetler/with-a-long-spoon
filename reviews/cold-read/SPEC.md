@@ -112,7 +112,7 @@ First applied 2026-08-06: `gpt-5.6-terra` continues `claude-fable-5` from chapte
 ## The cover & jacket copy (what the reader knows going in)
 
 A real reader picks the book up already holding the **cover** (title **WITH A LONG
-SPOON**, *Book One*, and the tagline *"Every yes was freely given. That was the trap."*)
+SPOON**, *Book One*, and the tagline *"Every yes was freely given. That was the problem."*)
 and the **jacket/listing blurb**. The instrument gives the reader exactly that and
 nothing more of the design: the reader carries the cover + blurb the whole run as its
 only framing, and lets the chapters confirm, complicate, or exceed it. The blurb

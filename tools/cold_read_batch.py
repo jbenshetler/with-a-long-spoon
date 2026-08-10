@@ -398,6 +398,27 @@ def write_review(out_dir: Path, model_id: str, model_selector: str, scene, respo
     return path, forward_carry(carry)
 
 
+# Four relationship axes as (positive-pole, negative-pole). Rotated per chapter so no
+# axis sits permanently in the high-attention first slot and no valence always leads —
+# debiasing the carry-forward hand-off. The reader defers to this AXIS ORDER line.
+_AXES = [
+    ("warmth", "cold"),
+    ("belonging", "isolation"),
+    ("cherished", "used"),
+    ("desire hers", "desire worked-on-her"),
+]
+
+
+def axis_order_line(i: int) -> str:
+    order = _AXES[i % 4:] + _AXES[: i % 4]      # rotate which axis leads
+    flip = (i % 2) == 1                         # alternate which valence leads
+    parts = [f"{b} ↔ {a}" if flip else f"{a} ↔ {b}" for a, b in order]
+    return (
+        "AXIS ORDER FOR THIS CHAPTER (record the four relationship axes in exactly this "
+        "order, leading each with the pole named first): " + " · ".join(parts)
+    )
+
+
 def run_batch(
     *,
     agent_fn,
@@ -511,6 +532,7 @@ def run_batch(
             f"OUTPUT PRIORITY:\nKeep `### Reader reaction` concise. Always complete "
             f"`### Carry-forward state` in full; if space is tight, shorten the reaction, "
             f"never the carry-forward.\n\n"
+            f"{axis_order_line(idx)}\n\n"
             f"CHAPTER TEXT:\n{clean}\n"
         )
 

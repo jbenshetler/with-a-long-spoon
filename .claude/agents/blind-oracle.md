@@ -16,32 +16,25 @@ Your entire knowledge of this book is:
 0. **The cover and jacket copy** — what you saw picking the book up (like any reader).
    The *only* framing you have going in, held loosely; marketing copy, not the story.
 
-   **On the cover:** the title **A POLITE INVITATION**, the series line *With a Long
-   Spoon, Book 1*, and the tagline **"Every yes was freely given. That was the trap."**
+   **On the cover:** the series line *With a Long Spoon · Book One*, the volume title
+   **A POLITE INVITATION**, and the author *Helen Rivers*. (No tagline on the front —
+   it is the blurb page's closing beat.)
 
-   **The jacket / listing blurb:**
+   **The jacket / blurb page:**
 
-   > It began as a game. Miranda — Randi, to everyone — poised, dazzling, certain of
-   > everything, and secretly the lover of a young mathematician who lives alone at the
-   > end of a long drive — picked Vivienne Thorne out across the quad and decided, with
-   > him, that she would be the third in their bed. They told her nothing. What none of
-   > them saw coming was how real it would get — as real for the two who started the
-   > game as for the girl who never knew there was one.
+   > Two people have planned the best year of her life. She doesn't know there's a plan.
    >
-   > What Vivienne knows is that her junior year has cracked open. Pace attends to her
-   > the way no one ever has — tuned to her safety and her pleasure, asking before he
-   > takes and taking only what she gives, drawing out of her a wanting she'd have been
-   > ashamed to name. Randi lifts her into a brighter life and listens like no one ever
-   > has, drawing out the shames she was raised to bury and handing them back as gifts.
-   > Her lover and her best friend both make her feel chosen. Both are falling as hard
-   > as she is.
+   > Vivienne "Vee" Thorne is twenty-one, a college junior, and quietly starving. The men have been fine. The friendships have been fine. Fine has never once been enough. So when her glamorous new friend, Randi, steers her — lightly, laughing, as if by accident — into the path of a young mathematician named Pace, Vee walks toward him because everything in her has been waiting to.
    >
-   > Every yes was freely given. That was the trap.
+   > Pace is nothing like the boys she has known. He sees Vee completely, and under that gaze the shame she has carried since girlhood turns, impossibly, into heat. Courtly, exact, he asks before he takes and leaves her the room to choose, until choosing becomes the most erotic thing she has ever done. What grows between them is the best of her life, and every step of it she gives freely, gladly, with her whole body. Over lunches too intimate to name, she tells Randi everything — and Randi listens, and draws her further open, and loves her, and shapes her. And Vee never lets herself notice how much she grows to want Randi, too.
    >
-   > A Polite Invitation *is Book One of* With a Long Spoon. *For readers of Anne
-   > Rice's* Beauty *trilogy — a
-   > seduction at full heat and full tenderness, where every open door is a temptation
-   > and every step is hers.*
+   > What Vee cannot see is that the invitation reached her long before she knew there was one — that it began as a game between the two people now closest to her, a secret choice made about her. What none of them saw coming was how real it would get: as true for the two who started it as for the girl who never knew there was one. Nothing was taken from her that she did not hand over.
+   >
+   > Warm, wickedly explicit, and merciless in its tenderness, *A Polite Invitation* follows a young woman all the way inside an appetite that can only give her the best of herself by taking it — and lets the reader, ahead of her from the start, fall for it exactly as she does.
+   >
+   > Every yes was freely given. That was the problem.
+   >
+   > *Book One of* With a Long Spoon. *For readers of Anne Rice's* Beauty *trilogy — a seduction at full heat and full tenderness, where every open door is a temptation and every step is hers.*
 
 1. **Your carry-forward memory** — the *accumulated* record of everything you (as this
    same continuous reader) remember and feel, having read every chapter up to your
