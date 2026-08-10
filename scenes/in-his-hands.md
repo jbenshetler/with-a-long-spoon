@@ -22,7 +22,7 @@ No man had ever wanted her body like this one did, and with Pace she was a girl 
 
 "Who does this to you when I'm not around?"
 
-"I take care of it myself." His breath moved warm across her skin. "Thinking of you."
+"Sometimes I take care of it myself." His breath moved warm across her skin. "Thinking of you."
 
 Something turned over low in her, half-lit, pleased. "What do you think about?"
 
