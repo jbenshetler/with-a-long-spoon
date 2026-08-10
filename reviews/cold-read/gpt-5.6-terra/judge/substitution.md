@@ -4,18 +4,13 @@
 
 tool_uses: 0
 
-**Distortions**  
-None.
+**Distortions** — None.
 
-**Omissions**  
-None. The account catches the chapter’s main movement: Vee’s stalled problem, Pace’s intervention, the charged tutoring, the exchange of numbers, and the post-exit read from Randi and Cassie.
+**Omissions** — None. The account covers the chapter’s load-bearing events: Vee’s stalled math problem, Pace’s arrival, his tutoring style, Vee’s attraction, Randi’s contained response, Cassie’s perceptiveness, and Pace asking for Vee’s number.
 
-**Accurate calls**  
-The account is faithful about Vee’s frustration turning into intellectual and romantic excitement. Pace’s “asking with his eyes,” giving the pencil back, and choosing a tutoring path rather than simply solving the problem are all directly grounded in the page.
+**Accurate calls** — The account is faithful about Pace’s attention landing as powerful but not predatory on this page; his help is explicitly framed as careful and non-possessive, especially when he gives Vee “back the pencil.” It accurately catches Vee’s attraction through his cuffs, forearms, clothes, listening, and “May I call you?” It also fairly reads Randi as outwardly encouraging while bodily strained, supported by the coffee-cup motions and Cassie’s watchfulness. The larger unease is properly located in the jacket-disclosed arrangement, not in any bad behavior by Pace in this scene.
 
-It also accurately holds the scene’s ambiguity: Pace is courteous and gentle on the page, while the jacket makes the concealed arrangement with Randi legitimate context. Randi’s coffee-cup behavior, Cassie’s blunt observation, the low but real erotic charge, and the layered meaning of “Substitution” are all supported.
-
-**Verdict**  
-VERDICT: faithful  
-SKEW: none  
-The account reads the warmth and the concealed unease together without inventing cruelty, pressure, or certainty beyond what the page and jacket permit.
+**Verdict**
+VERDICT: faithful
+SKEW: none
+The account holds the chapter’s warmth, charge, and unease in the same balance the page and jacket authorize.

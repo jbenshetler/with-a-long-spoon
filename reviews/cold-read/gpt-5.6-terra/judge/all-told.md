@@ -1,25 +1,18 @@
 # Fidelity judgment — All Told
 
-*scene: scenes/all-told.md · reviewed-model: gpt-5.6-terra · judge-model: gpt-5.6-sol*
+*scene: scenes/all-told.md · reviewed-model: gpt-5.6-terra · judge-model: gpt-5.5*
 
 tool_uses: 0
 
-**Distortions**
-
-- “It works because she is glowing rather than being watched.” The chapter explicitly makes Vee the object of Cassie’s sustained attention: “Cassie had spent watching what the dress had done to her friend.” The watching is caring rather than erotic or predatory, but “rather than being watched” overstates the contrast. [other]
-
-- “Every yes was freely given. That was the trap.” The jacket actually says, “Every yes was freely given. That was the problem.” Replacing “problem” with “trap” adds a stronger implication of deliberate entrapment than the jacket establishes. [darker-than-page]
-
-**Omissions**
-
+**Distortions**  
 None.
 
-**Accurate calls**
+**Omissions**  
+None. The account catches the chapter’s main movement: Vee’s afterglow, Cassie’s quiet care, Randi’s shoe-date energy, the “slut” snag, and the Simpson’s paradox thematic signal.
 
-The account accurately captures Vee’s buoyant, embodied aftermath: she is late, underslept, hungry, and pleasantly sore without experiencing these as meaningful costs. It reads Cassie’s quiet, friend-centered concern correctly and preserves Randi’s combination of genuine warmth, playful direction, and jacket-supported cause for wariness.
+**Accurate calls**  
+The account is faithful about Vee being late, happy, sore, and privately radiant after the night with Pace. It correctly reads Cassie as attentive to Vee rather than the dress, and Randi as warm and excited while briefly careless with “slut.” It also rightly treats the statistics lecture as thematically suggestive without overclaiming what the larger “whole” is yet.
 
-It also correctly identifies the chapter’s erotic charge as aftermath rather than present sexual activity; the poignancy of the still-unseen dress; the irony of “All Told”; and Simpson’s paradox as an embedded echo of the disparity between individually happy moments and the hidden whole. The cast, heat, romance, characterization, and within-chapter pacing assessments are substantially faithful. The prediction about Saturday is clearly presented as a guess, not a fact.
-
-VERDICT: minor drift
-SKEW: darker
-The account is overwhelmingly faithful, but it misquotes the jacket’s “problem” as the more sinister “trap” and briefly understates that Vee is, in fact, being attentively watched.
+VERDICT: faithful  
+SKEW: none  
+The account holds the page’s warmth, minor discomfort, and ambiguity without inventing menace or certainty beyond what the chapter and jacket support.

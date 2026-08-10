@@ -4,18 +4,19 @@
 
 tool_uses: 0
 
-**Distortions**
-
-- “the way she ‘typed something’ after extracting each detail” — Brooke is shown typing only once, near the end: “Brooke looked at her laptop. She typed something. She looked back up.” The page does not establish a repeated administrative logging after each answer. [other]
-
-**Omissions**
-
+**Distortions**  
 None.
 
-**Accurate calls**
+**Omissions**  
+None. The account covers the chapter’s central movement: Randi’s managed entrance, Brooke’s warm interrogation, the watching room, and Randi’s shutdown alone upstairs.
 
-The account accurately catches Randi’s attempt to enter unnoticed, Brooke’s seated authority and socially warm pressure, the public nature of the questioning, and the way Sloane and Kinsey amplify the room without becoming fully legible. It also rightly identifies Randi’s later paralysis, her shoes-on stillness, the unavailable crying, the cold room/duvet contrast, and the title’s double force: sorority Standards and Randi’s own self-discipline.
+**Accurate calls**  
+The account accurately reads Randi as barely holding herself together through social performance: her delayed smile, repeated pauses, pitch-matching, and eventual collapse into stillness under the duvet all support that.
 
-VERDICT: minor drift  
+It also fairly characterizes Brooke’s power as friendly rather than overtly cruel. The page emphasizes her seated authority, warm voice, administrative position, and questions that can pass as ordinary while still pinning Randi in place.
+
+The account is careful about Pace: it notes the remembered line “He’s hard to say no to” darkening in Randi’s mind, but does not overclaim coercion. That restraint matches both this page and the jacket’s framing of consent, secrecy, and psychological complication.
+
+VERDICT: faithful  
 SKEW: none  
-The reading is broadly faithful and careful with ambiguity; the only real drift is a small overstatement of Brooke’s typing as a repeated tactic.
+The reading stays grounded in the chapter’s actual social pressure, emotional shutdown, and ambiguity without inventing menace or warmth beyond what the page and jacket support.

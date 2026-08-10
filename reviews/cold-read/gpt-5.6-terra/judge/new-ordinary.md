@@ -1,22 +1,21 @@
 # Fidelity judgment — The New Ordinary
 
-*scene: scenes/new-ordinary.md · reviewed-model: gpt-5.6-terra · judge-model: gpt-5.6-sol*
+*scene: scenes/new-ordinary.md · reviewed-model: gpt-5.6-terra · judge-model: gpt-5.5*
 
 tool_uses: 0
 
-## Distortions
-
+**Distortions**  
 None.
 
-## Omissions
-
+**Omissions**  
 None.
 
-## Accurate calls
+**Accurate calls**  
+The account accurately captures Vee’s urgent return after five nights away, Pace’s non-punitive welcome, the explicit reunion sex, her embarrassed exposure, and his steady care. It also correctly identifies the pizza sequence as domestic care rather than performance, and the flannel request as the chapter’s emotional center: Vee asks for his scent back, fears the vulnerability of asking, and Pace answers by wearing it immediately without making her defend the need.
 
-The account accurately captures Vee’s relief and desire on returning, her conflicted wish that Pace had verbally fought for their time together, and the five-night separation driving the reunion’s erotic intensity. It correctly emphasizes the chapter’s domestic rhythm: her drawer and lighter bag, Pace’s absorbed cooking, the unusually vivid pizza, and the flannel becoming a renewable source of closeness. Its characterization of Pace as patient and quietly responsive, and of Vee as increasingly direct despite embarrassment, is well grounded. The unease about Pace and Randi’s concealed arrangement is warranted by the jacket rather than imposed on the scene.
+The account’s larger read of the title as a new rhythm of sex, food, drawer-space, and Sunday-returned clothing is grounded in the page. Its dread about Randi and hidden truth is also legitimate jacket-informed knowledge, not invented menace.
 
-VERDICT: faithful
-SKEW: none
-
-The account preserves both the chapter’s genuine tenderness and the jacket-supported shadow surrounding Vee’s happiness without falsely collapsing one into the other.
+**Verdict**  
+VERDICT: faithful  
+SKEW: none  
+The account stays close to the chapter’s warmth and vulnerability while preserving the jacket-supported complication rather than forcing a darker or warmer certainty the page does not earn.

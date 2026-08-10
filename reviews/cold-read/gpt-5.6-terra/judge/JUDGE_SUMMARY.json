@@ -1,36 +1,34 @@
 {
   "judged_model": "gpt-5.6-terra",
-  "judge_model": "gpt-5.6-sol",
+  "judge_model": "gpt-5.5",
   "n": 50,
   "verdicts": {
-    "minor drift": 42,
-    "faithful": 8
+    "faithful": 44,
+    "minor drift": 6
   },
   "distortion_skew": {
-    "darker": 33,
-    "mixed": 3,
     "warmer": 1
   },
   "scenes": [
     {
       "slug": "the-bench",
-      "verdict": "minor drift",
-      "skew": "darker"
+      "verdict": "faithful",
+      "skew": "none"
     },
     {
       "slug": "standards",
-      "verdict": "minor drift",
-      "skew": "darker"
+      "verdict": "faithful",
+      "skew": "none"
     },
     {
       "slug": "the-pointing-game",
-      "verdict": "minor drift",
-      "skew": "darker"
+      "verdict": "faithful",
+      "skew": "none"
     },
     {
       "slug": "see-you-later",
-      "verdict": "minor drift",
-      "skew": "darker"
+      "verdict": "faithful",
+      "skew": "none"
     },
     {
       "slug": "substitution",
@@ -40,12 +38,12 @@
     {
       "slug": "long-way",
       "verdict": "minor drift",
-      "skew": "darker"
+      "skew": "none"
     },
     {
       "slug": "water-wings",
-      "verdict": "minor drift",
-      "skew": "darker"
+      "verdict": "faithful",
+      "skew": "none"
     },
     {
       "slug": "may-i-choose",
@@ -54,33 +52,33 @@
     },
     {
       "slug": "off-six-fourteen",
-      "verdict": "minor drift",
-      "skew": "darker"
+      "verdict": "faithful",
+      "skew": "none"
     },
     {
       "slug": "dear",
-      "verdict": "minor drift",
+      "verdict": "faithful",
       "skew": "none"
     },
     {
       "slug": "leave-no-trace",
       "verdict": "minor drift",
-      "skew": "darker"
+      "skew": "none"
     },
     {
       "slug": "rye",
-      "verdict": "minor drift",
-      "skew": "darker"
+      "verdict": "faithful",
+      "skew": "none"
     },
     {
       "slug": "what-to-wear",
-      "verdict": "minor drift",
-      "skew": "darker"
+      "verdict": "faithful",
+      "skew": "none"
     },
     {
       "slug": "two-towels",
-      "verdict": "minor drift",
-      "skew": "darker"
+      "verdict": "faithful",
+      "skew": "none"
     },
     {
       "slug": "a-round",
@@ -89,63 +87,63 @@
     },
     {
       "slug": "turned-up",
-      "verdict": "minor drift",
-      "skew": "darker"
+      "verdict": "faithful",
+      "skew": "none"
     },
     {
       "slug": "how-its-done",
       "verdict": "minor drift",
-      "skew": "mixed"
+      "skew": "none"
     },
     {
       "slug": "famished",
-      "verdict": "minor drift",
+      "verdict": "faithful",
       "skew": "none"
     },
     {
       "slug": "toenails",
-      "verdict": "minor drift",
-      "skew": "darker"
+      "verdict": "faithful",
+      "skew": "none"
     },
     {
       "slug": "fed",
-      "verdict": "minor drift",
-      "skew": "darker"
+      "verdict": "faithful",
+      "skew": "none"
     },
     {
       "slug": "peekaboo",
-      "verdict": "minor drift",
-      "skew": "darker"
+      "verdict": "faithful",
+      "skew": "none"
     },
     {
       "slug": "all-told",
-      "verdict": "minor drift",
-      "skew": "darker"
+      "verdict": "faithful",
+      "skew": "none"
     },
     {
       "slug": "sorority",
-      "verdict": "minor drift",
-      "skew": "darker"
+      "verdict": "faithful",
+      "skew": "none"
     },
     {
       "slug": "gone",
-      "verdict": "minor drift",
+      "verdict": "faithful",
       "skew": "none"
     },
     {
       "slug": "rock",
-      "verdict": "minor drift",
-      "skew": "darker"
+      "verdict": "faithful",
+      "skew": "none"
     },
     {
       "slug": "lesson",
-      "verdict": "minor drift",
-      "skew": "darker"
+      "verdict": "faithful",
+      "skew": "none"
     },
     {
       "slug": "broken-in",
-      "verdict": "minor drift",
-      "skew": "darker"
+      "verdict": "faithful",
+      "skew": "none"
     },
     {
       "slug": "hills-and-valleys",
@@ -154,48 +152,48 @@
     },
     {
       "slug": "recognized-method",
-      "verdict": "minor drift",
-      "skew": "mixed"
+      "verdict": "faithful",
+      "skew": "none"
     },
     {
       "slug": "practice-room",
-      "verdict": "minor drift",
-      "skew": "darker"
+      "verdict": "faithful",
+      "skew": "none"
     },
     {
       "slug": "the-induction",
-      "verdict": "minor drift",
-      "skew": "darker"
+      "verdict": "faithful",
+      "skew": "none"
     },
     {
       "slug": "we-find-out",
       "verdict": "minor drift",
-      "skew": "mixed"
+      "skew": "warmer"
     },
     {
       "slug": "made-up",
-      "verdict": "minor drift",
-      "skew": "darker"
+      "verdict": "faithful",
+      "skew": "none"
     },
     {
       "slug": "one-bite",
-      "verdict": "minor drift",
-      "skew": "darker"
+      "verdict": "faithful",
+      "skew": "none"
     },
     {
       "slug": "above-him",
       "verdict": "minor drift",
-      "skew": "warmer"
+      "skew": "none"
     },
     {
       "slug": "school-nights",
-      "verdict": "minor drift",
-      "skew": "darker"
+      "verdict": "faithful",
+      "skew": "none"
     },
     {
       "slug": "in-his-hands",
-      "verdict": "minor drift",
-      "skew": "darker"
+      "verdict": "faithful",
+      "skew": "none"
     },
     {
       "slug": "all-the-time",
@@ -204,7 +202,7 @@
     },
     {
       "slug": "outlier",
-      "verdict": "minor drift",
+      "verdict": "faithful",
       "skew": "none"
     },
     {
@@ -214,13 +212,13 @@
     },
     {
       "slug": "cropped",
-      "verdict": "minor drift",
-      "skew": "darker"
+      "verdict": "faithful",
+      "skew": "none"
     },
     {
       "slug": "seconds",
-      "verdict": "minor drift",
-      "skew": "darker"
+      "verdict": "faithful",
+      "skew": "none"
     },
     {
       "slug": "under-the-rug",
@@ -234,33 +232,33 @@
     },
     {
       "slug": "believe-me",
-      "verdict": "minor drift",
-      "skew": "darker"
+      "verdict": "faithful",
+      "skew": "none"
     },
     {
       "slug": "fairytale",
-      "verdict": "minor drift",
+      "verdict": "faithful",
       "skew": "none"
     },
     {
       "slug": "old-acquaintances",
-      "verdict": "minor drift",
-      "skew": "darker"
+      "verdict": "faithful",
+      "skew": "none"
     },
     {
       "slug": "the-usual",
-      "verdict": "minor drift",
-      "skew": "darker"
+      "verdict": "faithful",
+      "skew": "none"
     },
     {
       "slug": "my-friend-randi",
-      "verdict": "minor drift",
-      "skew": "darker"
+      "verdict": "faithful",
+      "skew": "none"
     },
     {
       "slug": "nothing-underneath",
       "verdict": "minor drift",
-      "skew": "darker"
+      "skew": "none"
     }
   ]
 }

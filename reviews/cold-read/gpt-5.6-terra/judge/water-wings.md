@@ -1,25 +1,21 @@
 # Fidelity judgment — Water Wings
 
-*scene: scenes/water-wings.md · reviewed-model: gpt-5.6-terra · judge-model: gpt-5.6-sol*
+*scene: scenes/water-wings.md · reviewed-model: gpt-5.6-terra · judge-model: gpt-5.5*
 
 tool_uses: 0
 
-## Distortions
-
-- “She has lost a place where her body was simply hers.” The page says the opposite about the water: it was “the one part of it that had never been taken.” She grieves the earlier ease she had “before she had a body to be a problem,” but the precise object of that grief remains unstated. [darker-than-page]
-
-- “Before her body became public property.” The chapter establishes unwanted scrutiny and Vee’s sense of her body as “a problem,” but not that it has become anyone else’s property. [darker-than-page]
-
-## Omissions
-
+**Distortions**  
 None.
 
-## Accurate calls
+**Omissions**  
+None.
 
-The account accurately captures Vee’s defensive composure through the bleachers’ sexual comments, Cassie’s deliberately private support, and the underwater sequence as relief from scrutiny and demand. It also correctly identifies Cassie’s non-interrogative attentiveness and splash attack as a tender, unsentimental restoration through play.
+**Accurate Calls**  
+The account accurately tracks Vee’s practiced composure under the bleacher comments, Cassie’s private joke as a non-invasive rescue, and the underwater passage as a return to bodily privacy and old competence. It also correctly reads the splash fight as bringing Vee back into laughter without forcing confession or analysis.
 
-The absence of erotic or romantic charge is faithful, as are the low heat rating, the emphasis on bodily competence, the title’s reclamation of the “floaties” taunt, and the jacket-informed wariness about Pace and Randi. The account also correctly recognizes the chapter as a self-contained friendship beat that does not advance the jacket’s concealed arrangement.
+The account’s “no erotic charge” claim is acceptable in context: the chapter contains public sexualized commentary on Vee’s body, but no erotic encounter or romantic charge between present characters.
 
-VERDICT: minor drift  
-SKEW: darker  
-The account is highly faithful overall, but twice turns Vee’s burden of bodily scrutiny into a stronger claim of dispossession that the page explicitly resists.
+**Verdict**  
+VERDICT: faithful  
+SKEW: none  
+The account stays close to the page’s emotional movement: exposure, underwater reprieve, grief, and Cassie’s warm, tactful friendship.

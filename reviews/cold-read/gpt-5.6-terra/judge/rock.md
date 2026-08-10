@@ -1,26 +1,16 @@
 # Fidelity judgment — Rock
 
-*scene: scenes/rock.md · reviewed-model: gpt-5.6-terra · judge-model: gpt-5.6-sol*
+*scene: scenes/rock.md · reviewed-model: gpt-5.6-terra · judge-model: gpt-5.5*
 
 tool_uses: 0
 
-**Distortions**
+**Distortions** — None.
 
-- “The tagline’s ‘trap’...” Neither the chapter nor jacket uses or establishes a “trap”; the disclosed framing is a secret plan and the troubling fact that every yes is freely given. Quotation marks make “trap” sound like actual jacket language. [darker-than-page]
+**Omissions** — None. The account covers the chapter’s central movements: physical closeness, Vee’s family/food history, Pace’s math and early isolation, the tutor story, lifting, the scar, and “Not tonight.”
 
-**Omissions**
+**Accurate calls** — The account is faithful about the chapter’s low, sustained intimacy rather than escalation; Pace’s careful listening; Vee’s pleasure in being received; the emotional weight of the tutor story without over-naming it; and the scar scene as a boundary that remains physically connected. It also accurately treats the title-symbolism as suggestive rather than settled.
 
-- The account badly underweights Pace revealing that his real name is Peter. Vee quietly repeats it, and the chapter closes with her saying it again as his hand closes around hers—one of the chapter’s central acts of intimacy.
-
-**Accurate calls**
-
-- Correctly identifies the chapter’s low, sustained erotic charge and stronger emphasis on attentive tenderness.
-- Accurately characterizes Vee’s responses to the hallway and tutor stories as perceptive, restrained, and compassionate.
-- Faithfully preserves the disturbing ambiguity of the tutor relationship: Pace sincerely calls it his best period, while Vee recognizes possible harm without imposing a definitive label.
-- Correctly reads “Not tonight” as a precise boundary that promises later openness rather than rejection.
-- The discussion of mathematics, lifting, warmth against cold, the scar as threshold, and the Vee–Pace bond is well grounded in the page.
-- The concern about Pace’s gentleness coexisting with concealed information is warranted by the jacket, and it is appropriately framed as a prediction rather than an established motive.
-
-VERDICT: minor drift  
-SKEW: darker  
-The account is overwhelmingly faithful, with one invented “trap” formulation and an underemphasis on the central Peter-name reveal.
+**Verdict**  
+VERDICT: faithful  
+SKEW: none  
+The account holds the page’s tenderness and unease in proportion, and it does not collapse the chapter’s ambiguities beyond what the text and jacket support.

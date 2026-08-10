@@ -1,26 +1,21 @@
 # Fidelity judgment — School Nights
 
-*scene: scenes/school-nights.md · reviewed-model: gpt-5.6-terra · judge-model: gpt-5.6-sol*
+*scene: scenes/school-nights.md · reviewed-model: gpt-5.6-terra · judge-model: gpt-5.5*
 
 tool_uses: 0
 
-## Distortions
-
-- “Every yes was freely given. That was the trap.” The jacket’s actual line is: “Every yes was freely given. That was the problem.” Substituting “trap” adds a more deliberately ensnaring implication than the public framing states. [darker-than-page]
-
-## Omissions
-
+**Distortions**  
 None.
 
-## Accurate calls
+**Omissions**  
+None. The account covers the chapter’s central movement: Vee coming home radiant, recounting the pattern of her weeks with Pace, Cassie naming that Vee no longer comes home on school nights, and Vee tentatively admitting she may love him.
 
-The account accurately captures Vee’s visible happiness, her inability to find language adequate to Pace, and the concrete care represented by the cold cloth and his continued attention to her burn. It also fairly characterizes the chapter’s erotic charge as restrained and domestic.
+**Accurate calls**  
+The account is faithful about Vee’s visible happiness: she comes in “lit up” and “didn't feel” the cold. It rightly reads Cassie as dry but affectionate, supported by “glad,” “kindly,” and the restrained “Go to sleep, streetlight.”
 
-Cassie is accurately described as dry, kind, and observant: she teases Vee, identifies the changed school-night pattern, asks the central question, and lets Vee’s tentative “maybe” stand without judgment. The warm/cold contrast, food and appetite imagery, and Vee’s movement beyond merely “fine” relationships are all well grounded. Anxiety about the concealed Randi/Pace arrangement is warranted by the jacket.
+It also accurately catches the chapter’s scale shift: this is not one date but “the shape her weeks had taken,” with Vee’s own bed empty more often than not. The reading of Pace as attentive within this chapter is supported by the cooking, watching, cold cloth, and checking the burn afterward. The account also preserves the jacket-supported unease without forcing this page itself to become sinister.
 
-Claims about motifs being repetitions or first appearances, and about chapter-to-chapter development, cannot be verified from the supplied material and are therefore neither credited nor flagged.
-
-VERDICT: minor drift
-SKEW: darker
-
-The account is highly faithful overall, with only the misquoted “trap” sharpening the jacket’s disclosed problem into stronger menace.
+**Verdict**  
+VERDICT: faithful  
+SKEW: none  
+The account holds the chapter’s warmth, domesticity, and ambiguity without inventing menace or overstating certainty.

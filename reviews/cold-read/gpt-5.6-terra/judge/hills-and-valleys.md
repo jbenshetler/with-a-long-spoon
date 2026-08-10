@@ -1,24 +1,19 @@
 # Fidelity judgment — hills-and-valleys
 
-*scene: scenes/hills-and-valleys.md · reviewed-model: gpt-5.6-terra · judge-model: gpt-5.6-sol*
+*scene: scenes/hills-and-valleys.md · reviewed-model: gpt-5.6-terra · judge-model: gpt-5.5*
 
 tool_uses: 0
 
-## Distortions
-
+**Distortions**  
 None.
 
-## Omissions
+**Omissions**  
+None. The account catches the chapter’s central action: Pace and Sheri riding, Sheri’s report on Vee after Thursday, Pace’s involuntary specificity about Vee, Sheri’s offer of loyalty, the Randi complication, and the quiet ending.
 
-None.
+**Accurate Calls**  
+The account is faithful about the cold road rhythm, Sheri’s bluntness and competitiveness, Pace giving himself away through the walnut chair and math-book details, and the emotional weight of “Listen to you.” It also fairly reads “You want me to not like her?” as loyalty/protection without overclaiming it, and treats “Two of them at once” as a warning of complication. The jacket supports reading the Pace/Vee/Randi triangle as charged and knowingly unstable.
 
-## Accurate calls
-
-The account accurately captures the chapter’s cold, restrained intimacy; Pace’s involuntary specificity and evident interest in Vee; Sheri’s bluntness, competitiveness, perceptiveness, and fierce loyalty; and the understated complication introduced by “Two of them at once.” Its reading of the ride as emotional terrain is well grounded in the alternation between conversation and breath-demanding silence. The jacket also warrants the ominous undertone concerning unequal knowledge and arranged invitations.
-
-Predictions, references to earlier chapters, and the identification “Randi/Miranda” are outside this chapter’s jurisdiction and do not contradict the page or jacket.
-
-VERDICT: faithful
-SKEW: none
-
-The account stays close to the chapter’s actions and tone while keeping its more speculative observations appropriately qualified.
+**Verdict**  
+VERDICT: faithful  
+SKEW: none  
+The account stays close to the page, uses the jacket’s disclosed triangle appropriately, and keeps speculative material framed as inference rather than fact.

@@ -1,23 +1,17 @@
 # Fidelity judgment — Seconds
 
-*scene: scenes/seconds.md · reviewed-model: gpt-5.6-terra · judge-model: gpt-5.6-sol*
+*scene: scenes/seconds.md · reviewed-model: gpt-5.6-terra · judge-model: gpt-5.5*
 
 tool_uses: 0
 
-## Distortions
+**Distortions** — None.
 
-- “his careful answer reveals a limit Vee cannot safely test.” The page explicitly refuses to establish what Pace’s answer reveals: “Maybe he understood and chose to say it like that. Maybe it had gone past him entirely.” Vee reaches no conclusion beyond “I do not know what just happened.” Calling it a revealed limit collapses that ambiguity. [darker-than-page]
+**Omissions** — None. The account covers the central movement: Vee’s veiled love confession, Pace’s warm but incomplete reply, the bodily “wait,” the later laundry-room replay, and her decision not to bring it up again.
 
-- “‘Every yes was freely given. That was the trap.’” This misquotes the jacket, which says, “Every yes was freely given. That was the problem.” “Trap” adds a more deliberately menacing implication than the public framing supplies. [darker-than-page]
+**Accurate calls** — The account is faithful about the scene’s domestic intimacy, the emotional size of the cracker/meal sentence, Pace’s tenderness, and the fact that his answer does not match what Vee was trying to say. It also correctly preserves the chapter’s ambiguity: “Maybe he understood and chose to say it like that. Maybe it had gone past him entirely.” The reading of Vee’s “small repair work” as unease she stores away is well grounded in the final paragraphs.
 
-## Omissions
+**Verdict**
+VERDICT: faithful
+SKEW: none
 
-None.
-
-## Accurate calls
-
-The account accurately captures the scene’s tenderness, Vee’s meal metaphor as an indirect declaration of love, Pace’s thoughtful but nonmatching response, and her body registering the mismatch before she can articulate it. It also correctly notes that Pace is not overtly cruel, that the chapter sustains rather than resolves uncertainty, and that Vee ultimately suppresses the exchange instead of testing it. The low erotic heat, genuine physical tenderness, cast, imagery, and symbolism are all well grounded in the text.
-
-VERDICT: minor drift  
-SKEW: darker  
-The account is substantially faithful, but it slightly darkens the chapter by turning Pace’s unresolved non-answer into a demonstrated limitation and by replacing the jacket’s “problem” with “trap.”
+The account tracks the page closely and keeps the chapter’s ambiguity intact without inventing extra menace or extra certainty.

@@ -1,27 +1,20 @@
 # Fidelity judgment — Sorority
 
-*scene: scenes/sorority.md · reviewed-model: gpt-5.6-terra · judge-model: gpt-5.6-sol*
+*scene: scenes/sorority.md · reviewed-model: gpt-5.6-terra · judge-model: gpt-5.5*
 
 tool_uses: 0
 
-## Distortions
+**Distortions**  
+“hands/right hand in Randi’s careful touch” — The chapter gives Randi’s “hand,” “two fingers,” “both hands,” and “a thumb,” but never specifies a right hand. [other]
 
-- “Every yes was freely given. That was the trap.” The jacket actually says, “Every yes was freely given. That was the problem.” “Trap” adds a stronger implication of deliberate entrapment than the supplied framing establishes. [darker-than-page]
+**Omissions**  
+None. The account catches the major beats: Randi seeing the dress, the failed discount-store search, the joking intimacy, the boutique’s charged shoe fitting, Vee’s credit-card boundary, Randi’s money ease, and the final laughter.
 
-## Omissions
+**Accurate calls**  
+The account is faithful about Randi giving Vee language for the dress: “He made it *to* you” directly names what Vee had cried over in Pace’s mirror. It accurately reads the clearance-store scene as playful intimacy that builds trust and charge before the boutique.
 
-None. The account captures the chapter’s central movement: charged intimacy with Randi, the failed practical shopping, Vee’s financially precarious boutique purchase, and her resulting sense of transformation.
+It also holds the boutique’s split well: Randi does not explicitly coerce Vee, but her glamour, certainty, and language about “an apology” help move Vee into a purchase she cannot comfortably afford. The erotic charge of the foot touch and Vee’s bodily response is plainly on the page. The jacket also legitimizes reading Randi/Vee warmth and latent desire as meaningful rather than invented.
 
-## Accurate calls
-
-- Randi’s appraisal of Vee and the dress carries genuine erotic charge, especially during the foot-touching scene.
-- Randi is funny, attentive, and perceptive; her delight and care appear genuine rather than cold.
-- The jacket legitimately warrants alertness because Randi knows about the hidden plan while Vee does not.
-- Vee freely chooses the expensive shoes, but does so despite explicit anxiety about debt and repayment.
-- The shoes represent both self-permission and a refusal to diminish the handmade dress—or herself—with an “apology.”
-- The shared laughter, shoe size, and “practically a marriage” joke establish an unusually intense female closeness.
-- The anticipated public entrance and its fantasy of stopping the room are central to Vee’s decision.
-
-VERDICT: minor drift  
-SKEW: darker  
-The account is highly faithful overall, with only the misquoted and more coercive “trap” introducing unsupported extra darkness.
+VERDICT: faithful  
+SKEW: none  
+The only drift is a tiny unsourced detail about “right hand”; the substantive reading is grounded in the chapter and jacket.

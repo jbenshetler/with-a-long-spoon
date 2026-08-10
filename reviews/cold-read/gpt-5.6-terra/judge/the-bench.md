@@ -4,20 +4,23 @@
 
 tool_uses: 0
 
-**Distortions**  
+**Distortions**
+
 None.
 
-**Omissions**  
-The account underweights one central reveal: Pace “had begun building [the bench] seven months ago” though “he had met her three weeks ago.” That matters because it sharpens the jacket’s disclosed premeditation and makes the bench more than a symbol of exposure.
+**Omissions**
 
-**Accurate calls**  
-The account is faithful about the chapter’s warmth and erotic escalation: apple slices, her initiating the deeper kiss, patient undressing, spanking, edging, orgasm, and aftercare.
+None. The account covers the chapter’s central movements: domestic warmth, the bench reveal, safeword/consent structure, the spanking and edging, Randi’s orgasm and crying, the bathroom interiority, her decision to hide herself again, and Pace’s sincere but incomplete understanding afterward.
 
-It also accurately holds the moral/emotional complication: Pace is attentive and careful in concrete ways, but his use of Brooke/social shame, his recognition of the “real” voice, and his “small warm pleasure” at taking her further all support unease.
+**Accurate calls**
 
-The account is especially accurate about Randi’s bathroom retreat: the face, mirror, lock, concealment, and her inability to bear being tenderly known are all central on the page.
+The account is faithful about the apple scene and controlled appetite, Randi’s active participation, Pace’s attentiveness and safeword checks, the bench as both literal object and psychological exposure, Brooke’s name as a charged social pressure point, and the mismatch between Pace’s tenderness and Randi’s concealed retreat.
 
-**Verdict**  
+It also correctly treats “There you are, Randi” as a jolt in light of the jacket’s Vee-centered framing, and accurately reads the final section as Randi trying to restore the polished face after being seen too deeply.
+
+**Verdict**
+
 VERDICT: faithful  
-SKEW: none  
-The account preserves the chapter’s doubleness: real consent, real care, real erotic force, and real emotional danger.
+SKEW: none
+
+The account holds the chapter’s warmth, danger, consent, tenderness, and unease without inventing motives or flattening the ambiguity.

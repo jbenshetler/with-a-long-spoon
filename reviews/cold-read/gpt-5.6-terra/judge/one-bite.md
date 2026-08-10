@@ -1,23 +1,20 @@
 # Fidelity judgment — One Bite
 
-*scene: scenes/one-bite.md · reviewed-model: gpt-5.6-terra · judge-model: gpt-5.6-sol*
+*scene: scenes/one-bite.md · reviewed-model: gpt-5.6-terra · judge-model: gpt-5.5*
 
 tool_uses: 0
 
-**Distortions**
-
-- “The tagline’s ‘trap’ feels increasingly close to Vee’s happiness…” Neither jacket nor chapter contains a tagline using “trap”; the jacket explicitly identifies its closing beat as “Every yes was freely given. That was the problem.” Turning that wording into an attributed “trap” imports darker language absent from the supplied text. [darker-than-page]
-
-**Omissions**
-
+**Distortions**  
 None.
 
-**Accurate calls**
+**Omissions**  
+None. The account does not dwell on Randi’s Radford story, but it does register its function in the erotic build toward the bathroom turn, so it is not a central omission.
 
-The account accurately captures Vee’s escalating arousal and shame, her interrupted masturbation when Randi’s imagined gaze becomes unbearable, and the deliberate ambiguity of “Do what you need to” and “Sticky fingers?” It also fairly characterizes Randi as warm, attentive, magnetic, and unreadable; the jacket’s disclosed secret plan fully warrants suspicion without resolving whether Randi knows what happened in the bathroom.
+**Accurate calls**  
+The account accurately tracks Vee’s early warmth at Randi’s welcome and shared mimosa order; the charged telling of the Pace spanking story; Vee’s desire, shame, and interruption in the bathroom; the ambiguity of “Sticky fingers?”; the tenderness and uncertainty of Randi’s “best friend” claim and kiss; and the final pastry-glaze trace as both beautiful and unsettling.
 
-The account correctly identifies the tenderness of the best-friend declaration and lingering kiss, the pastry-glaze transfer, the title’s connection to Randi’s single bite, and the chapter’s recurring imagery of appetite, exposure, glass, gaze, and double meanings. Its cast, heat, romance, symbolism, and within-chapter pacing summaries are accurate. The Halloween comparison and claims of motif firstness depend on unavailable earlier chapters and therefore receive neither credit nor criticism.
+It also fairly holds ambiguity rather than overclaiming Randi’s intent. The jacket supports reading Randi as warm, shaping, and possibly more knowing than Vee can consciously face.
 
-VERDICT: minor drift  
-SKEW: darker  
-The account is highly faithful overall, with the only clear distortion being its attribution of unsupported “trap” language to a tagline.
+VERDICT: faithful  
+SKEW: none  
+The account stays close to the page’s erotic charge, tenderness, and unresolved uncertainty without inventing either menace or safety beyond what the chapter and jacket allow.

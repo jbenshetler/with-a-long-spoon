@@ -1,12 +1,12 @@
 # Fidelity judgment — The Long Way
 
-*scene: scenes/long-way.md · reviewed-model: gpt-5.6-terra · judge-model: gpt-5.6-sol*
+*scene: scenes/long-way.md · reviewed-model: gpt-5.6-terra · judge-model: gpt-5.5*
 
 tool_uses: 0
 
 **Distortions**
 
-- “Every yes was freely given. That was the trap.” The jacket actually says, “Every yes was freely given. That was the problem.” Replacing “problem” with “trap” adds a stronger implication of deliberate entrapment than the page or jacket establishes. [darker-than-page]
+- “how quickly the call came” — the page has a text/message, not a call: “the phone lit up facedown… A number she didn’t know… with a sentence under it.” [other]
 
 **Omissions**
 
@@ -14,8 +14,11 @@ None.
 
 **Accurate calls**
 
-The account accurately captures Vee’s eager reaction, Randi’s jacket-supported steering, Pace’s considerate attention, and the tenderness of his response to Vee’s vulnerable admission. Its reading of appetite as lightly sexualized is warranted by both the scene and the jacket. The unease surrounding Pace and Randi’s concealed connection is also legitimate jacket knowledge, while the account correctly preserves Vee’s willing enthusiasm. The title reading and symbolism of the overfilled-but-stable yogurt are well grounded.
+The account is largely faithful: Vee’s immediate wanting, Randi’s anti-game-playing encouragement, Pace’s careful attention, the tender handling of Vee’s vulnerable “nicest a person” admission, and the froyo/appetite symbolism are all grounded in the chapter. The unease around Randi and the larger hidden situation is also warranted by the jacket, not invented from this page alone.
+
+**Verdict**
 
 VERDICT: minor drift  
-SKEW: darker  
-The account is substantially faithful, with one consequential darker misquotation of the jacket’s closing line.
+SKEW: none
+
+The only real issue is the small factual slip of calling the message a “call”; the emotional and interpretive reading otherwise tracks the page and jacket closely.

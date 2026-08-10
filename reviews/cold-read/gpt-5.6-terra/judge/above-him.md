@@ -1,23 +1,30 @@
 # Fidelity judgment — Above Him
 
-*scene: scenes/above-him.md · reviewed-model: gpt-5.6-terra · judge-model: gpt-5.6-sol*
+*scene: scenes/above-him.md · reviewed-model: gpt-5.6-terra · judge-model: gpt-5.5*
 
 tool_uses: 0
 
-## Distortions
+**Distortions**
 
-- “He notices her fear without making her explain it, and answers it by making room.” The page shows Pace noticing her belongings on the counter and later making room for them. Vee’s fear remains internal—“She held still and waited”—and the narration never establishes that he perceives it specifically. The drawer can fairly read as reassurance, but his awareness of her fear is asserted beyond the page. **[warmer-than-page]**
+- “The chapter title, ‘i.,’ means almost nothing to me on its own”
+  
+  The chapter title is **“Above Him.”** “i.” is the first section marker inside the chapter, followed by “ii.” and “iii.” [other]
 
-## Omissions
+**Omissions**
 
-None. The account captures the chapter’s central progression: reunion, Vee’s recognition of love, anxiety over her intrusion into Pace’s ordered space, and the drawer’s reassurance.
+None.
 
-## Accurate calls
+**Accurate calls**
 
-The account accurately identifies the chapter’s tender erotic aftermath, domestic intimacy, Pace’s care through actions rather than declarations, and Vee’s continuing uncertainty around his silence. It correctly emphasizes the upper drawer as a tangible place for her in his life and recognizes that the jacket’s disclosed arrangement complicates—but does not invalidate—her freely felt happiness. The title reading is presented as interpretation rather than fact and is plausibly grounded in the chapter.
+The account is faithful about Vee’s happiness, her private recognition that she loves Pace, and the way she reads his actions as love despite his not saying it aloud.
 
-The chapter-to-chapter claim involving “Halloween and brunch” cannot be assessed from the supplied material.
+It accurately tracks the chapter’s emotional structure: sexual hunger remembered in domestic aftermath, food and appetite tied to bodily ease, Vee’s anxiety over occupying space, and the drawer reveal as an unspoken act of accommodation.
+
+It also keeps the ambiguity around Pace’s silence in the right place: the page shows care through action, while his spoken feelings remain undisclosed.
+
+**Verdict**
 
 VERDICT: minor drift  
-SKEW: warmer  
-The account is highly faithful overall, with one small overreach in treating Pace’s recognition of Vee’s unspoken fear as established fact.
+SKEW: none
+
+The only clear error is mistaking a section marker for the chapter title; the rest of the account stays closely grounded in the page and jacket.

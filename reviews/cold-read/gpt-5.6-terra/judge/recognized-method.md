@@ -1,27 +1,22 @@
 # Fidelity judgment — A Recognized Method
 
-*scene: scenes/recognized-method.md · reviewed-model: gpt-5.6-terra · judge-model: gpt-5.6-sol*
+*scene: scenes/recognized-method.md · reviewed-model: gpt-5.6-terra · judge-model: gpt-5.5*
 
 tool_uses: 0
 
-## Distortions
+**Distortions**  
+None.
 
-- “The later domestic play—her argument for soaking dishes, his tickling—is warm and funny.” The soaking argument and tickling occur before the slap and Vee’s erotic reaction, not later. [other]
+**Omissions**  
+None. The account covers the apology, the heel/pie entrance, the kitchen play and erotic turn, the two-night stay, Monday panic, and the final hair/beauty beat.
 
-- “It is still Randi’s script.” Randi supplies the advice to arrive “sure,” along with the clothes and a theory of forgiveness, but the page says Vee herself “built the thing she would say like a small clean machine.” Calling the actual apology Randi’s script overstates her authorship. [other]
+**Accurate calls**  
+The account is faithful about Pace taking the pie and physically steadying Vee, the tenderness of “Leave them on,” and Vee’s apology naming that she chose to believe the worst of him. It also accurately reads Pace’s “Thank you for telling me what she said” as valuing honesty over a neat apology performance.
 
-- “Every yes was freely given. That was the trap.” This misquotes the jacket, which says, “Every yes was freely given. That was the problem.” “Trap” adds a more sinister implication than the authorized framing establishes. [darker-than-page]
+The kitchen scene is handled cleanly: playful soaking argument, tickling, Vee’s swat, Pace’s pause after her involuntary response, and Vee closing the distance by kissing him and reaching for his jeans. The account also fairly captures the domestic intimacy of his shirt, dishes, his clothes, his scent, and “You’re always beautiful.”
 
-## Omissions
+Its comments on Randi are supported by the page and jacket: her advice steadies Vee but is also directive and shaping. The title/symbol readings stay within plausible earned subtext.
 
-None. The account covers the apology and reconciliation, Vee’s unexpected response to the slap, the ensuing intimacy, the extended weekend, and Monday’s return pressure.
-
-## Accurate calls
-
-The account accurately identifies the confession’s crucial admission, Pace’s gentle response, and the credible warmth of their reconciliation. It correctly reads the kitchen encounter as driven by Vee’s startled bodily response followed by her active choice to kiss Pace.
-
-It also accurately characterizes Pace’s attentiveness, the comic domestic intimacy, Vee’s unease-producing immersion in his clothes and household, and Randi’s palpable influence through advice and borrowed presentation. The pie and soaking interpretations are reasonable, page-grounded symbolism. The jacket fully supports the observation that Vee’s freely chosen happiness exists inside a secret context she does not know.
-
-VERDICT: minor drift  
-SKEW: mixed  
-The account is substantially faithful, with one sequencing error, an overstatement of Randi’s authorship, and one darker misquotation of the jacket.
+VERDICT: faithful  
+SKEW: none  
+The account preserves the chapter’s warmth, erotic surprise, ambiguity of influence, and emphasis on Vee’s choice without inventing unsupported menace or extra comfort.

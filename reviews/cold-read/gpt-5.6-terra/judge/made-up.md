@@ -1,23 +1,21 @@
 # Fidelity judgment — Made-Up
 
-*scene: scenes/made-up.md · reviewed-model: gpt-5.6-terra · judge-model: gpt-5.6-sol*
+*scene: scenes/made-up.md · reviewed-model: gpt-5.6-terra · judge-model: gpt-5.5*
 
 tool_uses: 0
 
-## Distortions
-
-- “The tagline’s ‘trap’ remains a quiet pressure...” The jacket contains no tagline or wording about a “trap”; its closing beat is, “Every yes was freely given. That was the problem.” While unease about the concealed plan is warranted, attributing an explicit “trap” to the packet adds a more coercive framing than it provides. **[darker-than-page]**
-
-## Omissions
-
+**Distortions**  
 None.
 
-## Accurate calls
+**Omissions**  
+None. The account covers the chapter’s central movement: Halloween isolation, the dress retrieved from the car, Pace waiting as instructed, the two reveals, his restraint, and Vee’s chosen exposure.
 
-The account accurately captures Vee’s agency: she initiates the display, establishes the rules, directs Pace to remain seated, and knowingly proceeds despite her blush and nervousness. It also correctly identifies Pace’s immediate restraint and attentiveness without pretending that this cancels the jacket-disclosed secret involving him and Randi.
+**Accurate calls**  
+The account is faithful about Vee initiating the scene and setting its terms. It correctly reads Pace’s restraint as page-supported: he waits, does not pry, stays seated, and lets looking substitute for touch. It also accurately catches the public/private split between the dress “for the world” and the naked-with-heels version “just for me,” plus Randi’s trace through the black straps.
 
-The distinction between the public dress and the private naked display is firmly grounded in Pace’s “The other is for the world. This is just for me.” The heat, romance, cast, lack of sexual contact, and emphasis on looking rather than touching are all accurate. The reading of the dress as both Pace’s handiwork and Vee’s public presentation is likewise supported.
+The shame/desire reading is also warranted by the jacket and the page: Vee blushes, does not cover herself, and experiences the scene as chosen.
 
-VERDICT: minor drift  
-SKEW: darker  
-The account is highly faithful overall, with only its invented attribution of “trap” to the tagline adding unsupported darkness.
+**Verdict**  
+VERDICT: faithful  
+SKEW: none  
+The account preserves the chapter’s warmth, erotic charge, restraint, and agency without inventing menace or overstating certainty beyond page and jacket.

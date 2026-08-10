@@ -1,23 +1,21 @@
 # Fidelity judgment — Bare
 
-*scene: scenes/bare.md · reviewed-model: gpt-5.6-terra · judge-model: gpt-5.6-sol*
+*scene: scenes/bare.md · reviewed-model: gpt-5.6-terra · judge-model: gpt-5.5*
 
 tool_uses: 0
 
-**Distortions**
-
+**Distortions**  
 None.
 
-**Omissions**
+**Omissions**  
+None. The account covers the chapter’s main movement: sleeplessness, the unsent message, the shirt’s failed comfort, Vee taking it off, and the dawn without sleep.
 
-None.
+**Accurate calls**  
+The account is faithful about the chapter’s ache rather than erotic heat, the bodily intimacy of Pace’s shirt, and the way scent and remembered care fail to answer Vee’s need for a name or certainty.
 
-**Accurate calls**
+It also correctly keeps Pace ambiguous rather than inventing distrust: the page gives “The rooms he kept warm for her” and “The plate he set down,” but also “the one thing he wouldn’t say.” The reading of Cassie as nearby but unavailable fits the page’s “Cassie breathed on, slow and easy and asleep.” The title reading of *Bare* is well grounded in Vee removing both the hidden/respectable layer and then the shirt itself.
 
-The account accurately identifies Vee’s sleepless loneliness, her need to know what she is to Pace, and her recognition that “small and warm” messages cannot answer it. It correctly follows the shirt’s movement from intimate comfort to painful substitute, especially the turn where its warmth becomes “her own, given back.” It also accurately distinguishes Pace’s established care from his absence here, reads “Bare” through both literal nakedness and emotional exposure, and recognizes the jacket-supported gap between Vee’s consent and her knowledge.
-
-The account’s prediction and chapter-to-chapter claims are outside what this page and jacket can settle, but they are framed as speculation rather than fact and therefore are not distortions.
-
-VERDICT: faithful
-SKEW: none
-The account closely tracks the chapter’s events, tone, and earned implications without inventing either menace or reassurance.
+**Verdict**  
+VERDICT: faithful  
+SKEW: none  
+The account tracks the chapter’s emotional facts closely without inventing menace or false reassurance.

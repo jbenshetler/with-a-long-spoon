@@ -1,26 +1,21 @@
 # Fidelity judgment — The Outlier
 
-*scene: scenes/outlier.md · reviewed-model: gpt-5.6-terra · judge-model: gpt-5.6-sol*
+*scene: scenes/outlier.md · reviewed-model: gpt-5.6-terra · judge-model: gpt-5.5*
 
 tool_uses: 0
 
-## Distortions
-
-- “Every yes was freely given. That was the trap.” The jacket actually says, “Every yes was freely given. That was the problem.” The surrounding sense of precariousness is jacket-supported, but the quotation itself is inaccurate. **[other]**
-
-## Omissions
-
+**Distortions**  
 None.
 
-## Accurate calls
+**Omissions**  
+None. The account captures the chapter’s central movement: the statistics project, Cassie’s personal stake, Randi’s confident counterclaim, the Miranda Holdings discovery, Randi’s shock, Cassie’s partial misreading, and Vee’s protective handling of the moment.
 
-The account accurately captures Randi’s unguarded shock, the strong implication that she has discovered wrongdoing connected to her father’s businesses, and Vee’s tactful protection of her without forcing a confession. It also correctly avoids casting Cassie as cruel and recognizes how her father’s layoff grounds her certainty.
+**Accurate calls**  
+The account is faithful about the chapter’s non-erotic register, the emotional/social intensity, Cassie’s bluntness, Randi’s apparent sincerity before the reveal, and the force of “Cheating bastards” as shocked rather than practiced. It also accurately reads Vee’s response as tactful care: she notices what Cassie does not, does not expose Randi, and gives her useful work to hold.
 
-The chapter contains social and protective intimacy rather than erotic charge. The outlier symbolism, glass-room reading, deliberate-to-taut pacing, and characterization of Vee, Randi, and Cassie are all well grounded. The question of whether Vee’s silence protects Randi or creates distance appropriately preserves an ambiguity the chapter leaves open.
+The outlier symbolism is also grounded in the page: the point is literally isolated on the graph and figuratively isolates Randi from the family story she had believed. The jacket supports the reader’s mild awareness of intimacy and danger/distance around Vee and Randi without making this chapter itself erotic.
 
-Claims about repeated/first motifs and chapter-to-chapter movement cannot be assessed from the supplied material and are therefore neither credited nor flagged.
-
-VERDICT: minor drift
-SKEW: none
-
-The account is highly faithful overall, with only a concrete misquotation of the jacket’s closing line.
+**Verdict**  
+VERDICT: faithful  
+SKEW: none  
+The account holds the chapter’s emotional ambiguity and does not invent menace, warmth, or motive beyond what the page and jacket support.

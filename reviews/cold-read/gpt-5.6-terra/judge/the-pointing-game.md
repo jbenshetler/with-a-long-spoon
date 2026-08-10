@@ -4,22 +4,19 @@
 
 tool_uses: 0
 
-**Distortions**
-
-- “he also decides in advance to ask while she is sexually open” — The page says he “had decided this beforehand” about coming up over her and entering her before kissing her. The question itself is prompted by “The closeness made him want to know more of her,” not explicitly preplanned. The broader point that he asks while she is sexually open is true, but the “decides in advance to ask” part overstates the page. [other]
-
-**Omissions**
-
+**Distortions**  
 None.
 
-**Accurate calls**
+**Omissions**  
+None. The account covers the central movements: the charged sex, Pace’s question, Randi’s displacement of desire into “a threesome, with you,” the campus pointing game, Vee’s entrance, Randi’s bare “Yes,” and the staged collision/introduction.
 
-The account accurately tracks the chapter’s central movement: sex becoming the site where Randi’s desire for another woman first breaks through, Pace turning that discovery into a campus “pointing” game, Randi’s repeated reframing of desire into girlfriend-play, and Vee’s arrival as the first choice that stops her cold.
+**Accurate calls**  
+The account is faithful about Randi’s desire arriving before she can manage it: the page says she “did not look away,” that her looking becomes “pure helpless looking,” and that “Yes” comes out “alone.”
 
-It is also faithful about Pace’s doubleness on the page: attentive, tender, and pleased by Randi’s pleasure, while also guiding the conditions under which her desire becomes sayable. The reading of Vee as warm, abundant, unguarded, and still seen only from outside is well grounded.
+It is also accurate about Pace’s mixture of tenderness and control. The chapter explicitly says he wants her “free to weigh it and choose,” that “She deserved that gentleness,” while also giving him confident internal readings like “He could give her a shape to hold it in.”
 
-**Verdict**
+The account correctly characterizes the game as desire made speakable through sideways selection: “I point. You pick,” followed by Randi scanning ahead herself. Vee’s vividness, laughter, unpinned hair, and accidental cover are all strongly grounded in the page.
 
-VERDICT: minor drift  
+VERDICT: faithful  
 SKEW: none  
-The account is broadly faithful, with one small overstatement about Pace preplanning the question rather than the sexual move that precedes it.
+The account preserves the chapter’s warmth, erotic charge, ambiguity, and unease without inventing unsupported menace or sentimental certainty.

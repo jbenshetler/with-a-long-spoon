@@ -1,25 +1,23 @@
 # Fidelity judgment — My Friend Randi
 
-*scene: scenes/my-friend-randi.md · reviewed-model: gpt-5.6-terra · judge-model: gpt-5.6-sol*
+*scene: scenes/my-friend-randi.md · reviewed-model: gpt-5.6-terra · judge-model: gpt-5.5*
 
 tool_uses: 0
 
-## Distortions
-
-- “Every yes was freely given. That was the trap.” The jacket actually says, “Every yes was freely given. That was the problem.” Substituting “trap” adds a more explicitly sinister judgment than the public framing supplies. [darker-than-page]
-
-- “Vee barely has time to inhabit her own hurt.” The chapter gives Vee substantial space to experience and express that hurt: the crying drive, hours alone in bed, prolonged embrace, and detailed recounting to Randi. Randi does redirect her forcefully, but “barely has time” overstates the compression. [darker-than-page]
-
-## Omissions
-
+**Distortions**  
 None.
 
-## Accurate calls
+**Omissions**  
+None. The account covers the chapter’s central movement: Vee’s return and grief, Randi’s private comfort, the reframing of Pace’s silence, the naked-under-coat plan, Vee’s shame/desire response, Randi insisting she sleep and prepare first, and the New Year story with John.
 
-The account accurately captures Vee’s grief, imagined rival, and movement from collapse to determined action. It rightly identifies Randi’s genuine on-page warmth alongside her striking certainty and directive influence—an unease further warranted by the jacket’s disclosure that Randi “shapes” Vee.
+**Accurate calls**  
+The account is faithful about Vee crying on the drive because “every mile” leads toward Pace without giving her access to him. It accurately captures the dorm’s emptiness, Brooke’s kindness, and Randi getting Vee upstairs and away from public view.
 
-The erotic vulnerability of the coat plan, Vee’s shame/desire response, Randi’s sexual reframing, and the contrast between Pace’s refusal to name the relationship and John’s effortless fictional future are all well grounded. The cast, heat level, romance emphasis, and chapter pacing are also substantially accurate. The prediction about the doorstep is properly presented as speculation.
+It also tracks the emotional ambiguity well: Randi is genuinely warm and useful on the page, but also forceful. The concern that Randi turns uncertainty into certainty is grounded in “I know so,” her invented reading of Pace’s inner state, and her insistence that Vee should answer with her body because “Words are the whole war.”
 
-VERDICT: minor drift  
-SKEW: darker  
-The reading is overwhelmingly faithful, but the invented “trap” quotation and slight undercounting of the space given to Vee’s hurt darken the chapter beyond its exact wording.
+The reading of the coat plan is accurate: Vee supplies “And nothing under it,” feels shame, then desire, and is raw from crying, lack of sleep, and fear. The account also fairly reads the John story as a fairy-tale contrast to Pace’s refusal of words, while holding Randi’s bedroom disappointment and pause as incomplete rather than overclaiming.
+
+**Verdict**  
+VERDICT: faithful  
+SKEW: none  
+The account stays close to the page’s actual tenderness, erotic charge, ambiguity, and unease, while using the jacket-supported Randi/Vee undertow without inventing facts.

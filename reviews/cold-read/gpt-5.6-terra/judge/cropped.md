@@ -1,23 +1,21 @@
 # Fidelity judgment — Cropped
 
-*scene: scenes/cropped.md · reviewed-model: gpt-5.6-terra · judge-model: gpt-5.6-sol*
+*scene: scenes/cropped.md · reviewed-model: gpt-5.6-terra · judge-model: gpt-5.5*
 
 tool_uses: 0
 
-## Distortions
-
-- “Every yes was freely given. That was the trap” misquotes the jacket, which says, “Every yes was freely given. That was the problem.” “Trap” adds a more explicitly coercive implication, although the broader unease about the secret arrangement is supported by the jacket. [darker-than-page]
-
-## Omissions
-
+**Distortions**  
 None.
 
-## Accurate calls
+**Omissions**  
+None.
 
-The account accurately identifies Vee’s happiness about home, her discomfort under her parents’ scrutiny, and her uncertainty over calling Pace her “boyfriend.” It fairly reads Pace’s handmade dress as intimate and Vee’s lack of shame as sincere pride.
+**Accurate calls**  
+The account accurately catches the chapter’s movement from ordinary family warmth into Vee’s difficulty translating Pace into a family-approved story. It correctly reads the cropped photo as both literal and symbolic, notes that Vee is not ashamed of Pace making the dress, and treats “boyfriend” as meaningful but uncertain.
 
-Cassie’s careful questioning and refusal to press are accurately characterized as kind, while Vee’s being “a little, not” grateful supports the reading that she also wants fuller recognition. The interpretation of cropping as a metaphor for Vee’s partial accounts to her parents and Cassie is well grounded. The jacket explicitly supports the reader’s unease about Vee living within an incomplete story, despite the sincerity of her choices and feelings.
+It also gets Cassie right: attentive, careful, not pushing past what Vee can say. The final “grateful… also, a little, not” is fairly read as Vee partly wanting to be pressed further. The jacket also supports the reader’s awareness of Pace/Randi complications beyond what Vee can currently name.
 
-VERDICT: minor drift  
-SKEW: darker  
-The account is highly faithful overall; its only meaningful error is replacing the jacket’s “problem” with the more sinister “trap.”
+**Verdict**  
+VERDICT: faithful  
+SKEW: none  
+The account stays close to the page’s explicit emotional beats and uses the jacket’s disclosed setup without inventing unsupported menace or warmth.

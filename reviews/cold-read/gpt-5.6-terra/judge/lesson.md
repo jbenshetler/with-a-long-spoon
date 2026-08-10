@@ -1,23 +1,15 @@
 # Fidelity judgment — Lesson
 
-*scene: scenes/lesson.md · reviewed-model: gpt-5.6-terra · judge-model: gpt-5.6-sol*
+*scene: scenes/lesson.md · reviewed-model: gpt-5.6-terra · judge-model: gpt-5.5*
 
 tool_uses: 0
 
-**Distortions**
+**Distortions** — None.
 
-- “Every yes was freely given. That was the trap” misquotes the jacket, which reads: “Every yes was freely given. That was the problem.” “Trap” adds a somewhat more sinister implication than the supplied framing. [darker-than-page]
+**Omissions** — None. The account covers the dance lesson, the rupture at the Rusty Nail, the bartender’s corrective testimony, Vee’s shame afterward, and her morning decision to go to Randi.
 
-**Omissions**
+**Accurate calls** — The account is faithful about Pace’s teaching style, the erotic charge of the dance frame, Vee’s pride and jealousy, the blonde’s destabilizing comment, Vee’s knowingly cruel line, Pace’s hurt withdrawal, and the bartender reframing Pace as trusted rather than predatory. It also accurately holds the ambiguity: Pace’s skill can feel beautiful and unsettling through Vee’s eyes without the page saying he has done wrong.
 
-None.
-
-**Accurate calls**
-
-The account faithfully captures the lesson’s sensuality, Vee’s bodily discovery of the lead, and Pace’s patient instruction. It accurately follows her jealousy at the Rusty Nail, the venomous accusation, Pace’s straightforward response and departure, and the bartender’s revelation that Vee was the exceptional date rather than merely the next woman.
-
-It also correctly characterizes Vee’s overnight remorse, her simultaneous shame and physical memory of the dance, and her decision to seek Randi’s help. Reading that choice uneasily is warranted by the jacket’s disclosure of Randi and Pace’s concealed arrangement. The symbolism of the dance frame and washed shirt, along with the characterizations of Vee, Pace, Meg, and the bartender, is well grounded.
-
-VERDICT: minor drift  
-SKEW: darker  
-The account is highly faithful overall, with only the jacket’s “problem” being inaccurately sharpened into “trap.”
+VERDICT: faithful  
+SKEW: none  
+The account tracks the chapter’s emotional reversals closely and does not invent unsupported menace or unsupported warmth.

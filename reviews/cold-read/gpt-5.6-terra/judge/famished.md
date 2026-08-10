@@ -1,23 +1,23 @@
 # Fidelity judgment — Famished
 
-*scene: scenes/famished.md · reviewed-model: gpt-5.6-terra · judge-model: gpt-5.6-sol*
+*scene: scenes/famished.md · reviewed-model: gpt-5.6-terra · judge-model: gpt-5.5*
 
 tool_uses: 0
 
-## Distortions
-
-- “Every yes was freely given. That was the trap.” The jacket actually says, “Every yes was freely given. That was the problem.” The account’s interpretation of this as a trap is defensible, but presenting the altered wording as a quotation is inaccurate. **[other]**
-
-## Omissions
+**Distortions**
 
 None.
 
-## Accurate calls
+**Omissions**
 
-The account accurately identifies Vee’s hunger, deliberate preparation, and recurring shame; the fact that “floozie” fails to shut down her desire is indeed the chapter’s central emotional release. Pace’s attentiveness, pleasure in her visible wanting, their explicit first sexual encounter, and the warm, quiet meal afterward are all grounded in the page.
+None. The account covers the chapter’s central movement: anxious preparation, the dinner invitation, Vee initiating sex, the shame/heat braid, her release from self-monitoring, the quiet meal, and the charged “Trade.”
 
-The reading of scent as proxy versus presence closely follows the text’s own language. The “Trade” gesture plausibly transforms the evidence Vee feared into a chosen gift. The unease surrounding “used her well,” Pace’s private reaction, and the encounter’s hidden larger context is warranted by the jacket without negating the chapter’s genuine tenderness.
+**Accurate calls**
 
-VERDICT: minor drift
-SKEW: none
-The account is highly faithful, with only one materially inaccurate quotation.
+The account is faithful about Vee’s preparations and anxious desire, Pace’s paused cooking as a form of restraint/room-making, “Famished” as both literal and erotic, and Vee’s active consent and initiation.
+
+It also accurately catches the chapter’s emotional center: the inherited “floozie” shame does not vanish, but it stops closing her down. Pace is read from the page as attentive, desirous, and restrained rather than predatory. The aftermath is also well characterized: quiet, bodily, warm, and strange without overexplaining the panties exchange.
+
+VERDICT: faithful  
+SKEW: none  
+The account stays closely grounded in the page and jacket, preserving the chapter’s tenderness, erotic charge, and remaining ambiguity without inventing menace or extra warmth.

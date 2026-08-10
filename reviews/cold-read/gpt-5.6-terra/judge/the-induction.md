@@ -1,24 +1,23 @@
 # Fidelity judgment — The Induction
 
-*scene: scenes/the-induction.md · reviewed-model: gpt-5.6-terra · judge-model: gpt-5.6-sol*
+*scene: scenes/the-induction.md · reviewed-model: gpt-5.6-terra · judge-model: gpt-5.5*
 
 tool_uses: 0
 
-**Distortions**
-
-- “Every yes was freely given. That was the trap.” The jacket actually says, “Every yes was freely given. That was the problem.” Presenting “trap” as a quotation adds a somewhat stronger implication of entrapment than the supplied framing establishes. [darker-than-page]
-
-**Omissions**
-
+**Distortions**  
 None.
 
-**Accurate calls**
+**Omissions**  
+None.
 
-The account accurately identifies Vee’s deliberate shift from guarded movement to chosen exposure, her bodily arousal, and her refusal to make herself small. It correctly reads the return to decorum as sustaining rather than ending the charge.
+**Accurate calls**  
+The account accurately identifies Vee’s long second step as deliberate rather than accidental: the page says “She took a breath, and made the second step long,” and that she “gave the room her leg on purpose.” It also correctly reads the bodily response as erotic but not a full sex scene: “the heat came up — her body agreeing, low and certain.”
 
-Cassie’s dry affection, Pace’s concrete and regretful absence, the tenderness of sending him the photograph, and Vee’s retention of its private meaning are all well grounded. The interpretation of the induction as both official recognition and Vee’s entry into visible, self-claimed desire is also supported, especially by the closing uncertainty over whether she feels pride or heat.
+It is faithful about Pace’s absence and the dress: he “made the dress for exactly this,” misses the ceremony, and Vee sends him the uncropped photo while keeping “what else was in the frame” as “hers.” Cassie’s praise and dry affection are also represented accurately.
 
-VERDICT: minor drift
-SKEW: darker
+The account’s larger symbolic reading is supported: the chapter explicitly holds pride and heat together without resolving them, ending with Vee unable to say “whether that was pride or only the same heat still running, or whether, by now, the two came to the same thing.”
 
-The account is highly faithful overall; its only material drift is replacing the jacket’s “problem” with the darker, falsely quoted “trap.”
+**Verdict**  
+VERDICT: faithful  
+SKEW: none  
+The account stays close to the page and jacket, preserving the chapter’s ambiguity without inventing extra menace or warmth.

@@ -1,22 +1,19 @@
 # Fidelity judgment — Off Six-Fourteen
 
-*scene: scenes/off-six-fourteen.md · reviewed-model: gpt-5.6-terra · judge-model: gpt-5.6-sol*
+*scene: scenes/off-six-fourteen.md · reviewed-model: gpt-5.6-terra · judge-model: gpt-5.5*
 
 tool_uses: 0
 
-## Distortions
-
-- “Every yes was freely given. That was the trap.” The jacket says, “Every yes was freely given. That was the problem.” Replacing “problem” with “trap” adds a more overtly predatory implication than the supplied framing establishes. **[darker-than-page]**
-- “The dinner’s private turning point...” The chapter describes tea and later refers to Pace as “a man you met at a coffee shop”; it does not identify the outing as dinner. **[other]**
-
-## Omissions
-
+**Distortions**  
 None.
 
-## Accurate calls
+**Omissions**  
+None. The account covers the chapter’s central movement: Vee’s retelling of choosing the kiss, Cassie’s protective check, the hike invitation, and the comic/uneasy thinness of “off six-fourteen” as an address.
 
-The account accurately captures Vee’s physical joy, her emphatic ownership of the kiss, and Pace’s acceptance of her initial boundary before she stops him and initiates. It also gets Cassie’s dry but caring protectiveness, the uncertain “off six-fourteen” address, the hike as a concrete next meeting, and the chapter’s warmth-and-cold imagery right. Unease informed by the jacket’s disclosure of Pace and Randi’s secret arrangement is legitimate, and the account appropriately labels its expectation about the hike as a guess.
+**Accurate calls**  
+The account is faithful about Vee’s agency and pride: “Nobody did anything to me... I did it because I wanted to and I did it on purpose.” It accurately reads Cassie as dry, protective, and ultimately believing Vee. It also keeps the concern around Pace appropriately limited: the chapter supports caution about how little Vee knows, while also presenting Pace’s reported restraint as careful rather than threatening.
 
-VERDICT: minor drift  
-SKEW: darker  
-The account is substantially faithful, but its altered jacket quotation turns an intentionally complicated “problem” into the more unambiguously sinister “trap,” alongside one minor factual slip about dinner.
+**Verdict**  
+VERDICT: faithful  
+SKEW: none  
+The account holds the chapter’s warmth, humor, erotic charge, and slight practical caution without inventing extra menace or extra certainty.

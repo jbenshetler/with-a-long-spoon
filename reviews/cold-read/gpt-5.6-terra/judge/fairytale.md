@@ -1,25 +1,21 @@
 # Fidelity judgment — Fairytale
 
-*scene: scenes/fairytale.md · reviewed-model: gpt-5.6-terra · judge-model: gpt-5.6-sol*
+*scene: scenes/fairytale.md · reviewed-model: gpt-5.6-terra · judge-model: gpt-5.5*
 
 tool_uses: 0
 
-**Distortions**
-
-- “Every yes was freely given. That was the trap.” The jacket actually reads, “Every yes was freely given. That was the problem.” The substitution makes the quotation inaccurate, although the surrounding interpretation remains broadly supported. [other]
-
-**Omissions**
-
+**Distortions**  
 None.
 
-**Accurate calls**
+**Omissions**  
+None. The account does not dwell on John’s unasked assumption at the hotel door, but it does capture the larger contrast: John’s certainty versus Pace’s asking/lightness, and Randi’s temporary desire to rest inside that certainty.
 
-The account faithfully captures the breakfast performance, the exhilaration and social perfection of John’s courtship, Randi’s genuine attraction to his competence and decisiveness, and the emotional emptiness revealed after sex. It correctly preserves the contrast between John’s assumption and Pace’s careful asking while acknowledging that Randi welcomes John’s approach in the moment.
+**Accurate calls**  
+The account is faithful about the chapter’s structure: intoxicating ski-day/ball fairytale first, then emotionally hollow sex and aftermath. It correctly reads Randi’s breakfast performance as protective, not shallow; John as charming and competent but not inwardly intimate; Pace as the one who reaches further into her; and Vee as the emotional center Randi wants but is afraid to risk.
 
-It also accurately identifies the post-sex reckoning as the chapter’s emotional center: John provides pleasure and an approved future but never reaches Randi underneath. The reading of Randi’s message to Vee as simultaneously sincere and evasive is directly supported by “Every word of it true. None of it the thing.” Her love for Vee, fear of changing their friendship, and decision to conceal that love inside familiar language are all explicit. The cast, heat, romance, characterization, and principal symbolism are substantially accurate.
+The motif readings are also well grounded: cold/warmth, surface/makeup/eyes, the bracelet as constraint, the fairytale as both real glitter and bitterly inadequate story.
 
-**Verdict**
-
-VERDICT: minor drift  
+**Verdict**  
+VERDICT: faithful  
 SKEW: none  
-The account is highly faithful; its only clear error is changing the jacket’s quoted final word from “problem” to “trap.”
+The account tracks the page’s emotional movement without inventing menace or warmth beyond what the chapter and jacket support.

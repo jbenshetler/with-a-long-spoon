@@ -1,23 +1,20 @@
 # Fidelity judgment — Turned Up
 
-*scene: scenes/turned-up.md · reviewed-model: gpt-5.6-terra · judge-model: gpt-5.6-sol*
+*scene: scenes/turned-up.md · reviewed-model: gpt-5.6-terra · judge-model: gpt-5.5*
 
 tool_uses: 0
 
-**Distortions**
-
-- “Every yes was freely given. That was the trap.” The jacket says, “Every yes was freely given. That was the problem.” Substituting “trap” adds a more coercive implication than the supplied framing establishes. [darker-than-page]
-- “locks/doors” lists locks as a motif, but neither the chapter nor jacket mentions locks; only the metaphorical “door” is present. [other]
-- “holding up/hands (Cassie’s brief knee touch)” The knee touch supports tenderness, but “holding up” is not established as an image or action here. [other]
-
-**Omissions**
-
+**Distortions**  
 None.
 
-**Accurate calls**
+**Omissions**  
+None. The account covers the chapter’s central movements: Vee recounting the dress, the shirt, the warmed house, the fitting, Pace’s restraint, the kneeling/hem charge, Cassie’s teasing, and Vee’s final admission that she was grinding on him.
 
-The account accurately captures the chapter’s warmth, comedy, embarrassment, and erotic charge. It correctly identifies Cassie’s tact around Vee’s emotional realization; Pace’s attentive preparation and consent-like waiting; Vee’s nervous but unmistakable agency; and the importance of the gaze, riser, kneeling geometry, warmed house, handmade shirt, and final grinding admission. Its unease about Pace and Randi is warranted by the jacket, and it correctly distinguishes that knowledge from anything sinister occurring in the room. The title reading is also well grounded.
+**Accurate calls**  
+The account is faithful about the warmth of the Vee/Cassie scene, Cassie’s teasing-but-attentive role, and the way laughter lets Vee narrate the experience without shame. It accurately reads Pace as offstage but strongly present through Vee’s memory: the silk, the turned-up heat, the handmade shirt, the riser, the measuring, and the implicit consent in “he left me a door.”
 
-VERDICT: minor drift
-SKEW: darker
-The account is overwhelmingly faithful, but it meaningfully darkens the jacket’s exact closing line by changing “problem” to “trap,” alongside two small unsupported motif labels.
+It also correctly treats Cassie’s “Are you sure he’s not gay?” as comic disbelief rather than a serious accusation, and it is fair to connect the chapter’s “invitation” language to Pace leaving Vee a choice. The dread about the hidden Pace/Randi reality is warranted by the jacket.
+
+VERDICT: faithful  
+SKEW: none  
+The account holds the chapter’s warmth, erotic charge, consent dynamics, comedy, and jacket-supported unease without inventing menace or smoothing over the complication.
