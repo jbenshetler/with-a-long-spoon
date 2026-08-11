@@ -109,3 +109,40 @@ The chapter is at its best where it stays outside her head. The opening paragrap
 - **"take the thing apart on her tongue"** (`:79`) — `new-ordinary:29` "This came apart on her tongue into all its separate pieces". Almost certainly the designed taste-education motif; rule rather than assume.
 - **"made a helpless sound"** (`:83`) — `nothing-underneath:97` "the low helpless sounds he made".
 - **"her hair fallen forward around both their faces"** (`:7`) — `the-bench` sibling ("fallen forward around"); the-bench's is the earlier.
+
+## Author rulings (2026-08-10)
+
+Panel mined for line-level evidence: 6 cold reads (claude-fable-5,
+claude-opus-4-8, gpt-5.5, gpt-5.6-sol, gpt-5.6-terra, kimi-k3). Linter clean
+(21 suppressed). Triage doc checked — nothing here re-litigated a standing
+verdict; the cold-sane-thought over-explanation the panel flagged was already
+trimmed pre-pass.
+
+**Applied (9 edits)**
+
+- `:9` (#1) — cut "and could not have stopped it if she'd tried"; the
+  involuntary smile now lands only at `:11`, into *He's all mine*.
+- `:19` (#4b) — "heard how pleased she was to hear herself say it" →
+  "…to say it"; doubled verb.
+- `:27` (#3) — dropped "pleased" from "Something turned over low in her,
+  half-lit, pleased."
+- `:35` (#7) — cut the trailing "thinking"; the nail-tap is the thinking.
+- `:67` (#15) — "the cold filter pitcher" → "the filter pitcher".
+- `:69` (#15) — "a cold bottle from the fridge" → "a cold bottle".
+- `:85` (#16) — "she came up for air" → "she slowed"; author ruled `:67`'s
+  "without coming up for air" is the physically true one (thirst) and keeps it.
+- `:77` (#18) — banter broken out of the procedural sentence: full stop after
+  "a long unbothered glug of it."; wording unchanged.
+- `:107` (#19d) — closing trimmed to "She was glad he wouldn't spend the day
+  by himself, and she went back to her food."
+
+**Left standing (author-ruled)** — see `meta/meta-triage-in-his-hands.md`.
+
+**Dropped by the reviewer before ruling** — #2, #4a, #5, #11, #13, #19a, #19c.
+All seven were staged progressions or functional recurrences misread as
+redundancy: the editor counted semantic adjacency as duplication without
+checking what each term referenced. Rationale per item in the triage doc.
+
+**Deferred** — #6 (the `Something [verb]ed in [X]` frame) to the end-of-pass
+echo harvest, where the `gone:45` FIX-AT siblings get ruled together. The 9
+echo candidates below remain unruled.

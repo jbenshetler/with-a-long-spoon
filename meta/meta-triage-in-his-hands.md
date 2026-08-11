@@ -52,3 +52,61 @@ clean after edits.
 
 - `unhurried` at the posing beat (`#c2d66ee4e712`) — sanctioned Pace use, load-bearing.
 - Four `warm` hits (`#ef161b40658e`, `#b5a2fb73f16d`, `#0111b04e6de1`, `#55e354c87f1c`) — all judged load-bearing warmth.
+
+---
+
+# Triage — In His Hands
+
+*Line edit, 2026-08-10. Report: `audits/line-edit/in-his-hands.md` (19 findings;
+9 applied). Panel evidence: 6 cold reads. Items below are settled — do not
+re-litigate. Verdicts re-open on a text edit to the passage.*
+
+## Left standing — do not re-litigate
+
+- **`:47` "the wrecked, sated woman" (line edit, 2026-08-10).** Flagged as the
+  middle of a triple restatement. It is the antecedent, not a restatement:
+  Pace has just said "I like you exactly like this" (`:45`) of *that* woman,
+  and this sentence names precisely what she deletes — which is what makes
+  `:51`'s "No, not like that" land as him reaching back past her correction.
+  Three sentences, three functions: intent, erasure, product.
+- **`:47` "composed, arranged" (line edit, 2026-08-10).** Flagged as one
+  arrange-word too many against `:49`/`:53`. Kept: she arranges herself, he
+  rejects it and arranges her — the verbal rhyme is what makes `:53` an
+  overwrite rather than a preference. Two uses, deliberately chimed. (`:53`
+  is a paragraph of the action, not a third instance of the word.)
+- **`:59` "She looked, she thought, beautiful." (line edit, 2026-08-10).**
+  Flagged as the third of three appraisals. It is the only unhedged
+  first-person claim on her own beauty in the chapter — a woman built out of
+  body-shame saying it plainly — and the next sentence exists to take it away
+  from her. Cut the claim and the discount qualifies nothing; both registers
+  (he made her able to think it / she can't think it except through him) die
+  with it.
+- **`:53` "where he wanted her" / "where he wanted them" (line edit,
+  2026-08-10).** Flagged as an identical formula twice in one sentence. Cutting
+  the second is grammatically unsafe — "moved her legs together" reads as
+  closing them, prim against a pinup's line, because "together" stops being
+  appositive. A "where he liked them" variant was considered and declined;
+  the paragraph is reader-praised by four models as drafted.
+- **`:77` "hissed at him" / "hissed at him too" (line edit, 2026-08-10).**
+  Flagged as part of a four-instance pan-as-speaker figure. The figure's
+  recurrence is an author-directed fix (2026-07-29 pass: the pan's sound was
+  *assigned* the timekeeping when clock logistics were cut), and opus-4-8
+  praised two of the four instances. The "too" is the joke — the kitchen
+  answering him item by item.
+- **`:79` "She had used to just eat." (line edit, 2026-08-10).** Flagged as a
+  nonstandard construction stumbling in a sentence that wants to be flat. Kept:
+  the pluperfect seals that self off as *completed*, which is exactly what the
+  next clause claims ("no going back to the other") — the grammar enacts the
+  irreversibility. Praised by all six cold readers.
+- **`:9`–`:107` seven findings dropped pre-ruling (line edit, 2026-08-10)** —
+  #2 (`:17` "Which rather spoiled her theory": action / her pleasure / her
+  revised belief are three functions; fable-5 praised the construction), #4a
+  (`:19` "No man had ever wanted her body like this one did": kimi-k3 and
+  gpt-5.5 both praised it; the comparative grounds the inversion), #5
+  (`:19`/`:47` "a girl who had ___": the recurring frame makes `:47` a
+  *revision* of `:19`), #11 (`:53` the summarizing clause: it establishes that
+  the kissed places are the placed places), #13 (`:53`/`:59` calendar: the
+  repetition IS the match between what she wanted and what he made), #19a
+  (`:97` "She didn't ask.": reflex → choice → kindness, and the only short flat
+  sentence carrying the stop), #19c (`:101` "a man talking about a friend": the
+  pity-not-romance defusal, confirmed landing across the panel).

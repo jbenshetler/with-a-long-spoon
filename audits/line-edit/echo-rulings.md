@@ -1461,3 +1461,30 @@ family as accidental repetition.
 atmospheric figure is unique in drafted Volume One; related teeth/bite language
 does different work in emotional, bodily-cold, food, and erotic registers. Do
 not flag it as a tic.
+## Batch 19 — In His Hands review (2026-08-10)
+
+**#74 — "put her face back on" is PROTECTED (author, 2026-08-10).** Vee's
+armoring verb: the deliberate reassembly of a public self after being taken
+apart. The recurrence *is* the characterization — never flag it, and never
+vary an instance for density. Instances: `the-pointing-game:77` ("put her face
+back on", verbatim), `water-wings:13` ("put her face on"), `in-his-hands:47`
+("put her face back on, the eyes and the poppy-red mouth"). Per the governing
+rule (#36, rule the shape never the count), no quota and no trigger count is
+attached; a Volume Two instance is ruled on its merits, not automatically
+flagged.
+
+*Why `in-his-hands:47` in particular must not be varied.* It is the hinge of
+the photograph beat — she goes to the mirror to build "the version of herself
+she wanted him to keep," and Pace then refuses that version and poses her
+himself. The armoring verb is what makes his overwrite legible as an
+overwrite.
+
+**#75 — "take the thing apart on her tongue" is PROTECTED (author,
+2026-08-10).** The designed taste-education motif — Pace remaking her palate,
+tracked as an ability she acquires and cannot give back. Instances:
+`new-ordinary:29` ("This came apart on her tongue into all its separate
+pieces") and `in-his-hands:79` ("she could take the thing apart on her tongue
+and tell each piece of it from the next"). Never flag as repetition; the
+recurrence is the motif accruing. `in-his-hands:79` is additionally the
+chapter's most reader-praised sentence (all six cold reads) and is separately
+left standing in `meta/meta-triage-in-his-hands.md`.
