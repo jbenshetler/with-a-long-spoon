@@ -48,6 +48,16 @@ Author ruling after the 5-model panel: go further on the-bench, then re-run the 
 - **Item B applied — :403/:405 "wanted position" / "script was failing" over-decoding trimmed** (sol + opus flagged "told twice"). Collapsed the doubled "wanted position"; cut the flat "The script was failing. He could see that it was failing before she could." Grounded observation (hands worrying the grips) kept.
 - **Item C applied — :33 syllogism + :35 "missing inference" cut** (Item 2 R2 promoted to applied + the sonnet-flagged "watching-her-not-know" coldness). :33 now ends "…she had not gotten all the way to the rest."; :35 removed entirely.
 
+## Post-second-pass cold-read panel — 2026-08-11 (FULL PANEL, cut the-bench)
+
+**Result: second-pass cuts validated, 5/5. Nobody missed the sorority shame; Pace warmed further; no darkness overshoot.** Re-ran all five on the Brooke-cut version.
+- **Cutting the shame lost nothing.** No reader noted a gap or a rushed break. The collapse into real begging now runs on **being seen** — every reader hit it as the peak ("There you are, Randi" = "most intimate and most dangerous line" — sol; "being truly seen frightens her more than the spanking" — gpt-5.5). The kept vivid description → "I've never seen you like this. Until tonight." carries the bridge.
+- **Pace warmed further, exactly as predicted.** sonnet's V1 reservations (possessive-of-his-effectiveness; the furniture "watching-her-not-know" coldness) are **gone** in V2 after the Item C cut: "no smirking, no cruelty… no wariness toward Pace himself; my unease is entirely for what Randi is going to do to herself."
+- **Consent-line cut cost nothing, kept the payoff.** No "non-consent in ch.1" note; the tagline still lands "painfully exact" (terra/sol/gpt-5.5). "baby" cut unnoticed; name reveal still jolts all five.
+- **Coda holds warm.** gpt-5.5: "'a remarkably good evening' lands almost painfully after the bathroom" (baseline had "lands cold").
+- **Heat/Romance unchanged: 3 / 2 across all five, baseline→V1→V2.** Heat 3 = max, undented by warming. Romance 2 caps *by design* (tenderness offered, not met — the reseal denies a romantic peak); the *texture* of the 2 warmed (sinister→genuine-but-tragic).
+- **Residual micro-trim applied:** sol still lightly flagged the setup line "The surface had a script for this" as slightly over-told → collapsed :403 to "There was a script for it: …" (keeps the pout/heat-up content :405 pays off, and "wanted position"). Diminishing-returns; done.
+
 ## B1 — restore-reserve (cut, but may reinstate later)
 
 - **Consent-distinction line** (from `the-bench` former :437): "It was the sound of a woman in a position she had not consented to even though she had consented to the position." Tagline-defining ("Every yes was freely given. That was the problem"); readers loved how it "snaps the tagline into focus," but also flagged it as too-blunt, and author cut it from the *opener* to avoid establishing a non-consent note in chapter 1. **Candidate to restore in a later chapter** where the consent theme is earned across more pages.

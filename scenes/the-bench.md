@@ -400,7 +400,7 @@ She did not say anything for a long moment. The breathing he could hear from her
 
 "Take your time," he said.
 
-She took her time. He could see, in the small movements of her face which was at the low point and turned sideways now, that she was trying to find the surface she could not find. The surface had a script for this. The script said you turned the heat up, you pouted, you made him want you so badly he gave you what you wanted as proof of his desire. It was the script for the *wanted* position, and she had spent her whole adult life there. The bench was not there.
+She took her time. He could see, in the small movements of her face which was at the low point and turned sideways now, that she was trying to find the surface she could not find. There was a script for it: you turned the heat up, you pouted, you made him want you so badly he gave you what you wanted as proof of his desire. It was the script for the *wanted* position, and she had spent her whole adult life there. The bench was not there.
 
 She could not pout her way back. She could not turn the heat up; the heat was already at maximum, and the maximum was below her, where she was. Her hands had begun to worry the grips, a woman reaching for a handle that had always been there and not finding it.
 
