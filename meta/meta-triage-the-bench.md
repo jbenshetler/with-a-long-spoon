@@ -229,7 +229,8 @@ Claude readers. Findings and the author's rulings:
   The experiment's reads were discarded (working tree reverted to the
   committed baseline panel, which matches the restored text; the OpenAI batch
   cost history retains the runs). **Do not re-propose this cut without new
-  reader evidence.**
+  reader evidence.** — **SUPERSEDED 2026-08-11: the line is now CUT (Pace-warming
+  pass); the canon caveat below is retired with it. See the addendum.**
 
 ## Linter acks (2026-08-06)
 
@@ -243,3 +244,27 @@ Claude readers. Findings and the author's rulings:
   noticing-and-storing is **Vee's**, characterizing her; Pace's action is
   watching, and the sentence's payload is the second clause — that she never
   says anything.
+
+## Addendum — Pace-warming pass (2026-08-11, branch `pace-warming-the-bench`)
+
+- **Seven-months/three-weeks line (`:99`, "He had begun building it seven months
+  ago. He had met her three weeks ago.") — CUT, reversing the 2026-07-31 KEEP
+  above.** Author ruling during the interior-warming pass: *a great line, but bad
+  for the character.* It buys dread by making the bench predate Randi — Pace reads
+  as cold/premeditated, the opposite of the first-read-clean mandate the pass is
+  built on. Cut and committed (`cf83bf4`); excises clean (the throat-baring beat
+  joins to "She did not turn back to him.").
+  - **The prior KEEP's canon caveat is retired with the line.** The 2026-07-31
+    ruling kept it partly as "the only on-page carrier of *the plan predates the
+    woman*," its absence making "built for Randi" the read — then called that
+    *false to canon.* The author now **accepts built-for-Randi as the reading**: a
+    bench built for Randi and later used with Vee, rather than a standing
+    pre-existing fixture (workshop ruling: possibly *stronger*; Pace can survive
+    the end-of-Vol-2 darkness after ~700 pp of lovable-but-misguided). So the
+    on-page premise is no longer "the plan predates the woman."
+  - Full-panel cold reads post-warming (opus, sonnet-5, terra, sol, gpt-5.5)
+    confirm Pace warmed with **no darkness cost**; Heat 3 / Romance 2 held.
+  - **Do not re-flag the cut as a regression, and do not restore the line** unless
+    the warming is later judged insufficient (author's stated escape hatch).
+  - Open doc-trail: if "the plan/bench predates the woman" is asserted as canon in
+    the arch/plan docs, reconcile it there to match this cut.

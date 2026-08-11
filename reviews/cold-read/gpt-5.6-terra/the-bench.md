@@ -4,109 +4,101 @@
 
 ## Reader reaction
 
-I was pulled in hard by the warmth at first: the thin apple slices, Pace knowing how she eats them, Randi climbing into his lap and turning hunger into play. The heat works because she repeatedly chooses it—“Show me,” “Red,” “Please make me come”—and Pace checks her body and her safeword without making the care feel procedural.
+I was drawn in by the warmth before I was wary of anything: the unlocked door, the hello kiss, the apple sliced exactly as Randi likes it. Pace’s attention feels intensely tender and intensely consuming at once. The scene’s heat absolutely works—the apple-game escalation, his deliberate restraint, and Randi’s asking him to “show me” all pulled me forward. The bench scene is graphic, sustained, and consensual on the page: he checks in, gets her safeword, checks her body again, and she asks plainly to come.
 
-Then the bench changes the air. I felt Randi’s fear and need arrive together, especially when Brooke’s name breaks the last surface she can maintain. Her orgasm and the quiet crying afterward landed less as a triumphant surrender than as an exposure she cannot yet bear. Pace’s tenderness feels sincere to me; his final thought that it was “a remarkably good evening” is painful because we have just been allowed inside what Randi is hiding from him. I don’t distrust him, but I am uneasy with how little he sees of the cost.
+But the emotional peak hurt. Randi’s orgasm and crying feel like a real, frightening breakthrough rather than a simple triumph. The line “There you are, Randi” lands almost too perfectly against her later realization that he has reached the part of her she cannot bear to be tenderly known in. Her flinch at “You’re beautiful” is devastating. I feel sympathy for her, and also a complicated pull toward Pace: he is patient, observant, and apparently sincere, yet his private satisfaction in having “taken her further” leaves me uneasy precisely because she is already retreating while he thinks they have arrived somewhere together.
 
-The sudden confirmation that this woman is Randi—not Vee—was a genuine jolt. I had only the jacket’s promise in my head, and the page deliberately kept her unnamed until “There you are, Randi.” I’m now intensely curious about where Vee is, and about Randi’s role in the larger invitation.
+The one moment that snagged me is his internal reading of her: “But it was not the right *please* yet.” It makes the eventual begging erotic, but it also makes his desire for a particular version of her feel very exacting. The page earns that unease; it does not erase the tenderness or the fact that she consented.
 
-The erotic charge peaks in the long wait, the safeword, and Randi finally saying what she wants. It stays hot because her hunger is specific, but the repeated physical detail sometimes made me impatient for her interiority; once we reach the bathroom mirror, the chapter becomes far more piercing.
+“The Bench” is literal, but now it also feels like the place where Randi cannot keep treating herself as only a face. *A Polite Invitation* promises that every offered choice may open a door she cannot easily close; *With a Long Spoon* makes me think of closeness with something dangerous at its center. The jacket’s “Every yes was freely given. That was the problem.” is suddenly the signal I feel most strongly. I want to keep reading because Randi has chosen to stay the night while deciding, silently, to hide—and I dread what that concealment will do. My guess from here: Pace will read her return as trust, while Randi will use the same polished self he thinks he has seen past.
 
-“The Bench” is exact: it is furniture, a concealed object, and the place where Randi cannot keep herself safely on the surface. *A Polite Invitation* and *With a Long Spoon* now promise seduction with something dangerous held at a careful distance. The packet’s closing line—“Every yes was freely given. That was the problem.”—feels newly alive here. I want the next chapter badly, and my guess from here is that Randi will try to make this night disappear behind her polished face.
-
-**Cast present (in person):** Pace/Peter (man); Randi/Miranda (woman). Mentioned only: Brooke; Randi’s mother; an unnamed college admissions officer; Randi’s sorority sisters.  
-**Heat:** 3 — sustained, explicit consensual sexual scene centered on the bench.  
-**Romance:** 2 — real tenderness and aftercare, though Randi withdraws inwardly.  
-**Motifs & images:** First sightings: locks/deadbolts; the face and blue eyes; thin apple slices and controlled appetite; polished surfaces; the bench as disguised furniture; the mirror; warmth and tears.  
-**Symbolism:** The bench reads as an open, inescapable place beneath Randi’s managed image; the deadbolt and the key-turning hum suggest her need to close herself back up.  
-**Characterization:** Randi deepens sharply: polished, hungry, and terrified of being truly seen. Pace is attentive, patient, and genuinely warm, while remaining unable to perceive her retreat. Brooke is only a charged offstage measure of Randi’s social self.  
-**Pace — within the chapter:** The erotic build is intentionally prolonged; the bathroom interior turn earns the length and changes the meaning of the scene.  
-**Pace — chapter to chapter:** Opening chapter; momentum builds from domestic intimacy to a rupture Randi conceals.
+**Cast present (in person):** Pace; Randi. Mentioned-only: Brooke, Daphne, Randi’s mother, Randi’s sorority sisters, a college admissions officer, prior unnamed men.  
+**Heat:** 3 — sustained explicit spanking, edging, and orgasm are the chapter’s center.  
+**Romance:** 2 — careful tending and physical comfort are real, but Randi withdraws from being known.  
+**Motifs & images:** First sightings: thin apple slices; the face/smile and blue eyes; locks and doors; light left on; polished surfaces versus warm living skin; the bench disguised as a table.  
+**Symbolism:** The bench reads as a hidden function beneath an ordinary surface; the locked bathroom door and key-turning hum read as Randi closing herself away.  
+**Characterization:** Randi deepens sharply: socially polished, food-policed, hungry, and terrified by tenderness reaching her. Pace is attentive and patient, but his private pleasure in uncovering her complicates that care.  
+**Pace — within the chapter:** The long scene earns its duration through Randi’s changing internal state; the bathroom turn gives it its necessary consequence.  
+**Pace — chapter to chapter:** Opening chapter; momentum builds from domestic intimacy to rupture.
 
 ## Carry-forward state
 
 **Principals**
 
-- Vee/Vivienne Thorne — woman, twenty-one college junior; jacket-established as quietly starving for more than “fine,” drawn toward Pace and increasingly confiding in Randi; not yet on the page.
-- Randi/Miranda — woman; Pace’s current intimate partner, socially polished and protective of a carefully managed face. On the bench she begged and came with an unguarded intensity, then resolved to hide that self from him.
-- Pace/Peter — man, young mathematician per jacket; Randi’s attentive, sexually dominant but careful partner. He built the bench, checks her safeword and physical comfort, and believes the night opened her rather than drove her away.
-- Brooke — woman, president of Randi’s sorority chapter; Randi lied to her about having a paper before going to Pace’s house.
+- Randi (woman, twenty-one): black hair, pale oval face, striking blue eyes; uses a bright, slightly surprised, socially polished face and smile as protection. Her relationship to food and wanting is tightly policed; she was more alive on Pace’s bench than she can remember, then decided to put the self he found back behind that face.
+- Pace (man): young mathematician; lives alone in a warm house, builds furniture, and is precise, observant, patient, and sexually attentive. He respects Randi’s explicit limits and privacy, but privately takes warm pleasure in having brought her further than expected.
+- Daphne (woman): Pace’s past partner; he once crossed a closed emotional door with her and learned that a closed door is hers, not his.
+- Brooke (woman): Randi’s sorority sister.
 
 **Relationship ledger**
 
-- **Vee ↔ Pace:** attracted / true state not yet page-confirmed; consummated? unknown.  
-  **isolation ↔ belonging:** quiet; jacket promises Pace makes room for Vee to choose.  
-  **used ↔ cherished:** quiet; jacket presents his attention as exact and affirming.  
-  **desire worked-on-her ↔ desire hers:** quiet; jacket says Vee walks toward him because she has been waiting.  
-  **cold ↔ warmth:** quiet; jacket promises courtly warmth.  
-  **This chapter:** no change; Pace appears only with Randi.
+- **Randi ↔ Pace — state:** involved (consummated: y) / Randi reads him as a boyfriend who has seen too much of her; Pace reads their bond as deeply trusting and newly opened.
+  - **isolation ↔ belonging:** Randi finds bodily belonging and safety in his care, yet decides to isolate the newly exposed self from him; Pace believes he is giving her a place to rest and be known.
+  - **used ↔ cherished:** Pace feeds, watches over, checks on, covers, hydrates, and holds Randi with real tenderness; his erotic satisfaction is also bound up in bringing her to the point of raw begging.
+  - **desire worked-on-her ↔ desire hers:** Her desire is intensely hers—she initiates kisses, asks to be shown, says yes, uses “Red,” and begs to come—while his waiting, praise, and framing shape how she reaches it.
+  - **cold ↔ warmth:** His house, hands, blanket, kisses, and aftercare are warm; Randi’s locked bathroom door and settled smile introduce a private coldness.
+  - **This chapter:** Their sexual intimacy reaches a new, emotionally exposed peak; Pace thinks this is mutual opening, while Randi resolves not to let him know what it did to her.
 
-- **Vee ↔ Randi:** friendly / true state possibly more charged than Vee lets herself name; consummated? n/a.  
-  **isolation ↔ belonging:** Randi’s lunches and listening, per jacket, offer Vee intimacy and a place to confide.  
-  **used ↔ cherished:** both unresolved; jacket says Randi loves and shapes Vee.  
-  **desire worked-on-her ↔ desire hers:** Vee’s growing want for Randi is jacket-established as unacknowledged by Vee.  
-  **cold ↔ warmth:** warm on the jacket’s surface.  
-  **This chapter:** no direct contact; Randi’s own divided self is now vivid.
+- **Randi ↔ Randi — state:** estranged / newly, painfully acquainted with a self beneath the face.
+  - **isolation ↔ belonging:** She has briefly encountered an unguarded self, then chooses to conceal it again.
+  - **used ↔ cherished:** She has long used the face to let attention touch something that is “not her”; Pace’s tenderness toward the person beneath it feels unbearable.
+  - **desire worked-on-her ↔ desire hers:** She experiences desire and begging as startlingly real and her own, though she cannot yet name or accept it.
+  - **cold ↔ warmth:** She accepts Pace’s warmth physically while shutting the vulnerable self away.
+  - **This chapter:** On the bench and in the mirror, she realizes she cannot return wholly to the old safe performance, then decides to try.
 
-- **Vee ↔ herself:** isolated / true self still largely unexamined; consummated? n/a.  
-  **isolation ↔ belonging:** she is “quietly starving” amid men and friendships that have been merely fine.  
-  **used ↔ cherished:** she appears accustomed to being looked at rather than fully met.  
-  **desire worked-on-her ↔ desire hers:** her appetite is present but not yet squarely owned.  
-  **cold ↔ warmth:** hungry for fuller warmth and aliveness.  
-  **This chapter:** no direct change.
+- **Pace ↔ Daphne:** Past relationship; Pace’s regret over violating Daphne’s emotional boundary governs his refusal to intrude after Randi locks the bathroom door.
 
-- **Randi ↔ Pace:** involved / true involved; consummated? y.  
-  **isolation ↔ belonging:** surface belonging in their private warmth; true isolation now opens inside Randi as she decides to put her real self back behind the face.  
-  **used ↔ cherished:** Pace treats Randi with sustained attention, checks, care, and aftercare; she experiences being seen as ecstatic and unbearable rather than as simple safety.  
-  **desire worked-on-her ↔ desire hers:** Pace deliberately shapes and prolongs her arousal, but her final begging and orgasm feel unmistakably hers; afterward she fears what that self has handed over.  
-  **cold ↔ warmth:** his house, touch, and holding are warmly tender; she locks herself in the bathroom and returns with a practiced smile.  
-  **This chapter:** their explicit intimacy deepens, while Randi silently resolves not to let Pace know the self he reached.
+- **Randi ↔ Brooke:** Sorority sisters; Randi told Brooke she had a paper in order to leave chapter dinner early for Pace.
 
-- **Pace ↔ Brooke:** no change.
-- **Randi ↔ Brooke:** Randi hides this relationship and this night from Brooke, telling her she has a paper due Thursday.
+**What I know that they don’t**
 
-**What I know that they don't**
-
-- Randi has decided, silently, that Pace may have her polished face but not the self he reached on the bench; Pace thinks she is resting happily after a beautiful night.
-- Pace’s tenderness appears genuine: he checks Randi’s safeword and comfort, waits outside the locked bathroom without intruding, gives water and warmth, and consciously declines to make the night about his own arousal.
-- The jacket tells me that two people planned “the best year” of Vee’s life without her knowing. It strongly suggests Pace and Randi, but this chapter has not yet placed them together or confirmed their shared plan.
+- Randi has decided that Pace can have her polished face, but not the self he reached on the bench; Pace believes she has opened more fully to him and is quietly happy.
+- Pace’s restraint after Randi locks the bathroom derives from his past failure to respect Daphne’s closed door.
+- Randi genuinely feels more alive with Pace than she remembers feeling anywhere, alongside fear and withdrawal.
 
 **Motifs**
 
-- **Locks / doors:** Randi locks Pace’s front door on arrival; later, for the first time in his house, she locks the bathroom door to hide her distress; the chapter ends with a hum “the size of a key turning in a lock.”
-- **Face / eyes / polished surface:** Randi’s startling blue eyes and slightly surprised face are the image she has relied on; in the mirror she recognizes that the face can lie even after it begged.
-- **Appetite / food:** Pace’s precisely sliced apple makes hunger safe and visible; he later thinks of Randi as someone who has “portion[ed] herself” for years.
-- **Warmth:** Pace keeps the house warm, gives slow touch and a cashmere blanket, while Randi’s inward response turns that warmth difficult to receive.
-- **The bench:** disguised as a low table, then revealed as the place where Randi’s managed self gives way and where she later cannot look.
+- **Faces, eyes, and performance:** Randi’s blue eyes and slightly surprised face have been her public instrument; at the mirror, the practiced smile covers the face that begged, and she resolves to restore the disguise.
+- **Appetite and thin apple slices:** Pace notices and accommodates Randi’s restricted eating; the apple becomes foreplay and then his image for the hunger she has kept portioned.
+- **Doors, locks, and thresholds:** Randi locks Pace’s front door on arrival, later locks the bathroom door for the first time, and leaves it only after reassembling her public self; the final hum is “the size of a key turning in a lock.”
+- **Ordinary surface / hidden purpose:** The bench appears to be a table until its top comes off; it becomes the physical site of Randi’s exposure and will be disguised again tomorrow.
 
 **Symbolism noticed**
 
-- The bench seems to hold Randi in a position where her usual social performance fails.
-- The mirror shows her that the familiar face remains intact while something in her has crossed beyond it.
-- The apple and its thin slices read as permission and control around appetite.
+- The bench seems to stand for the hidden use and intensity beneath an acceptable surface.
+- The mirror shows Randi the conflict between her performed face and the self Pace has seen.
+- The locked bathroom door marks a boundary she needs Pace not to cross.
 
 **Open questions**
 
-- Where is Vee, and when will the page bring her into contact with Pace and Randi?
-- Does Pace know Randi beyond the face she has restored for him?
-- What will Randi do with the self she discovered on the bench?
-- Are Pace and Randi the two people behind the jacket’s hidden plan for Vee, and what does each of them want from it?
+- What will Randi do with the exposure and hunger she cannot yet name?
+- Will Pace notice that her return from the bathroom is a performance rather than ease?
+- Can their tenderness remain safe if he believes he has found her while she plans to hide?
+- Who is Randi beyond the social face she has relied on since girlhood?
 
 **How I feel — overall**
 
-I leave Randi with tenderness and alarm: she was profoundly alive, then immediately determined to make that aliveness inaccessible. I feel warmth toward Pace and trust his care on the page, while aching over the blindness between his satisfaction and her retreat. Brooke feels like the social audience Randi cannot bear to disappoint.
+I feel swept up by the warmth and explicit trust of Randi and Pace’s intimacy, then unsettled and sad for Randi when tenderness becomes the thing she cannot receive. Pace feels caring and genuinely moved by her, but I am wary of how confidently he interprets what he has uncovered. Daphne remains a painful, distant reminder of why he honors a closed door. Brooke is peripheral.
 
 ### Chapter record
 
-- **Title:** “The Bench.”
-- **Pace/Peter:** Man; Randi calls him Pace. Lives in a house with white laminate kitchen counters, a hand-built kitchen table and chairs, a glass-fronted quartersawn-oak cabinet, an office, bathroom, bedroom, closet, and a low bench/table in the bedroom. Wears a soft henley and jeans. Built the bench over seven months, before meeting Randi three weeks ago. Plays Steely Dan quietly. Keeps the house evenly warm. Leaves water at the bedside and has a cashmere blanket Randi brought after the second week.
-- **Randi/Miranda:** Woman; called Randi when Pace says, “There you are, Randi,” and in the bathroom narration. Black hair; pale, flat-oval face with a resting look of slight surprise; startling blue eyes; pale freckles on her upper chest; long dancer’s legs; trained line from dance; muscle from cheer; small, high breasts; cocoa-brown nipples; waxed pubic area; natural unpainted fingernails; toenails painted blue. Wears sharp citrus perfume with a colder undertone, a cream cashmere cardigan, thin blouse, dark skirt, pale matching bra and underwear, and blue-polished high heels. Carries a small leather overnight bag monogrammed in a sorority hand. Comes from chapter dinner after telling Brooke she has a paper, though it is not due until Thursday. Brings the cashmere blanket after the second week because she gets cold after sex.
-- **Brooke:** Woman; president of Randi’s sorority chapter. Randi tells her she has a paper and leaves chapter dinner early.
-- **Randi’s mother:** Unnamed woman; “lived on egg whites and tofu,” which Randi experiences as carrying criticism.
-- **Unnamed college admissions officer:** Asked thirteen-year-old Randi whether anything was wrong because of her resting expression.
-- **Sorority sisters:** Unnamed women; Randi fears what they, especially Brooke, would think of seeing her on the bench.
-- **House / kitchen objects:** Unlocked front door, deadbolt, chair by the door, refrigerator, small bowl, thinly sliced Honeycrisp apple, white laminate counters, hand-built table, two chairs, glass-fronted oak cabinet.
-- **Bedroom objects:** Lamps; bed; bedside table; water bottle; soft cashmere blanket; chair used for Randi’s folded clothes; closet with toy box at its bottom; a bench disguised by a removable wooden top, which leans against the wall during the scene.
-- **Bench details:** Dark walnut frame; leather working surfaces; face cradle; padded chest shelf; hand grips at shoulder width; open center below the torso; pelvis support; pivoting, adjustable leg supports angled outward and down; designed to hold a person facedown with head and legs lower than hips. Pace’s mechanisms are silent and well-oiled. Randi’s heels are removed while she is on it. The leather is faintly damp in two places by the end. Pace intends to replace the wooden top the next day so it again appears to be a low table of odd proportions.
-- **Consent / care details:** Pace asks whether Randi is okay; asks her safeword twice. Her word is “Red.” He asks about her back, hands, and shoulders; she says they are fine. He stops when she asks him not to stop only after telling her he is taking his time; he ultimately responds when she explicitly asks him to make her come. Afterward he helps her off the bench, wraps her in the blanket, gives her water, waits without knocking when she locks the bathroom, and asks her to stay the night.
-- **Sequence and duration:** Randi arrives early after chapter dinner. Pace says she left right after dinner; her paper is due Thursday. The bench scene begins after kitchen kissing and undressing. Pace estimates she has been on the bench about two minutes before noting the difficulty of waiting. After the orgasm and initial holding, Randi stirs after perhaps fifteen minutes. She says yes when Pace asks her to stay tonight.
+- Pace is at his house when Randi arrives early after chapter dinner. The front door is unlocked; Randi locks the deadbolt behind herself. Steely Dan plays quietly.
+- Randi carries a small leather overnight bag, monogrammed in a sorority-style hand. She wears a cream cashmere cardigan, thin blouse, thin dark skirt, pale expensive bra-and-underwear set, and blue-polished toenails in ankle-strap heels. Her natural fingernails are bare and unpainted.
+- Pace wears a soft henley and jeans.
+- Pace’s kitchen has white laminate counters, a table he built two winters earlier, two chairs, and a glass-fronted quartersawn-oak cabinet he built in his first year in the house.
+- Pace prepares thin, cut-side-up honeycrisp apple slices for Randi because she eats them more readily that way.
+- Randi tells Pace she left chapter dinner after telling Brooke she had a paper; the paper is not due until Thursday.
+- Randi’s mother lives on egg whites and tofu. Randi’s sorority is described as admitting only girls built to one scale.
+- Pace’s bedroom includes lamps, a chair for folded clothing, a bed with a bedside table, a soft cashmere blanket Randi brought after the second week, a water bottle, a toy box at the bottom of the closet, and a bench with a removable wooden top.
+- The bench has dark walnut, leather fittings, a face cradle, padded chest shelf, shoulder-width hand grips, an open center, a pelvis support, and adjustable outward-and-downward leg supports. Its top is leaned against the wall during the scene; Pace designed its silent, well-oiled mechanisms.
+- Pace removes and folds Randi’s cardigan, blouse, skirt, bra, and underwear onto the chair. She remains in heels until he removes them during the bench scene.
+- Randi tells Pace her safeword is “Red” and repeats it when he asks. Pace asks if she is okay, reminds her she can use the word anytime, later checks her back, hands, and shoulders.
+- Pace spanks Randi, edges her with his hand, asks her to say what she wants, and brings her to orgasm after she asks repeatedly and explicitly for him to make her come. Randi cries quietly afterward.
+- Pace says, “There you are, Randi,” while she cries after orgasm.
+- Pace wraps Randi in the cashmere blanket, holds her, strokes her hair, kisses her head, and gives her water. Randi presses the sharp inner edge of the bottle cap into her thumbnail before Pace takes the bottle and pulls her closer.
+- Pace says, “You’re beautiful.” Randi flinches, asks to use the bathroom, takes the blanket with her, and locks the bathroom door. Pace does not knock or enter.
+- Pace remembers Daphne: he once intruded on a closed emotional door because he thought loving her gave him permission, and he learned not to do that.
+- In the bathroom, Randi looks at herself in the mirror. She remembers having begged on the bench and realizes she felt more alive than she can remember, because Pace saw past the face she uses to receive attention safely. She decides he can have the face but not the self he found.
+- Randi washes and dries her face with Pace’s towel, rearranges her hair, returns with her bright, slightly surprised smile, curls into Pace, and says yes when he asks her to stay the night.
+- Pace believes the evening was remarkably good, thinks Randi has met more of herself, and chooses not to pursue his own remaining arousal.
+- The chapter ends with the bench’s leather faintly damp in two places; Pace plans to restore the wooden top tomorrow so it looks like a low table again.

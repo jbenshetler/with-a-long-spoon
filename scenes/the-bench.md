@@ -30,9 +30,7 @@ She turned away from him and moved through his kitchen as she did every time, wi
 
 She looked at the wood. She did not look at the wood the way she looked at her own things. She looked at it the way a person looks at something whose price tag she cannot read.
 
-He had told her, when she toured the house, that he had built the furniture. She had not really heard it. She had been raised to register cost by appearance, and the appearance of his furniture said *expensive* in a register her ear was tuned to, and she had not been able to get all the way to the fact that his middle-class income could not have bought the things she was looking at and that the things were therefore made by the man who lived in the house.
-
-He could see the missing inference every time she came in. He did not press it. The inference would arrive when it arrived, or it would not.
+He had told her, when she toured the house, that he had built the furniture. She had not really heard it. She had been raised to register cost by appearance, and the appearance of his furniture said *expensive* in a register her ear was tuned to, and she had not gotten all the way to the rest.
 
 He took the small bowl out of the refrigerator, the one he had sliced the apple into before she got there. The apple was a honeycrisp. He had sliced it thin because she would eat thin slices and would not eat thick ones, and he had laid the slices in the bowl with the cut sides up because he had noticed that she ate them faster when the cut sides showed.
 
@@ -74,7 +72,7 @@ She stopped pretending to eat. She put the last of the slice to his mouth, and h
 
 "What are we doing tonight," she said, her mouth still near his, the words gone breathy and impatient.
 
-It was not really a question. It was a request — part of how she handed the evening to him. It was the only zone of her life in which she did not choose, and he had begun to understand, slowly, that it might be the only zone she did not want to choose in.
+It was not really a question. It was a request — part of how she handed the evening to him.
 
 He looked up at her. He brushed a strand of black hair back behind her ear with one hand, slowly, and let his fingers stay at the side of her neck.
 
@@ -95,8 +93,6 @@ The lamps were on. The top was leaning against the wall. The bench, which she ha
 She started at the front, finding a face cradle first, a padded ring, the kind she'd rest her face into for a massage. Just past it, a shelf, shallow and padded, for the top of the chest. Familiar. The massage table again. Handholds she found next, out beyond the face cradle, at shoulder width. A massage table didn't have them. Holding those would stretch her long. Her hands closed on nothing. The open middle, where a surface should have been, where her body would go unsupported, where everything a surface usually covered would hang free.
 
 He knew what she was reading — he had built it. The frame peaked at the hips — head down, legs down — and the leg rests on their pivots, angled out and down. Open, everything open. Her head went back, toward the ceiling. Her throat bared, she exhaled shakily.
-
-He had begun building it seven months ago. He had met her three weeks ago.
 
 She did not turn back to him.
 
@@ -164,7 +160,7 @@ The first night she had asked him about the lights. She had asked it the way a s
 
 He looked at her, and took his time, and then he put his hands on her.
 
-Not to move her. To have her, and to look at her while he did. He started with the backs of his fingers, brushing down the long dancer's legs, hip to knee to ankle — the lamplight lay along her skin in a low sheen and slid as she shifted, and the muscle stood there under it even at rest, long and smooth and deliberately made. At the backs of her calves he found the fine pale hairs the razor never caught, that only his hands would find. The gloss on her that anyone could see, and the warmth under it that was his. She shifted her weight and did not step away.
+Not to move her. To take the feel of her, and to look at her while he did. He started with the backs of his fingers, brushing down the long dancer's legs, hip to knee to ankle — the lamplight lay along her skin in a low sheen and slid as she shifted, and the muscle stood there under it even at rest, long and smooth and deliberately made. At the backs of her calves he found the fine pale hairs the razor never caught, that only his hands would find. The gloss on her that anyone could see, and the warmth under it that no one else was given. She shifted her weight and did not step away.
 
 He brought his hands up the fronts of her thighs, and the pale skin went faintly gold where the lamp caught the rise of them, over the small rounded hip bones and the shallow hollow inside each, over the flat plane of her stomach and the soft give at its center, the very small rise of belly her tending permitted and no more. Her breath went uneven under his palm. She clasped her hands behind her back, to still them, he thought, the way she had not been able to still them all night, and the clasping drew her shoulders back and lifted her breasts and pulled the whole front of her long and taut, and the stilling of her hands became, without her deciding it, an offering — one he could see as plainly as feel.
 
@@ -226,7 +222,7 @@ At the base of her neck, where the hair began, he found the first dampness: a ho
 
 She had been on the bench for perhaps two minutes. He could feel, in the small movements of her body under his hand, that she was already starting to find this difficult — not the position, the position was easy, but the *waiting*, the slowness, the not knowing when. He could see it in her shoulders, which had climbed a quarter-inch toward her ears and were holding there. He could feel it in her back, the muscle under his palm not releasing between strokes as it had released earlier. He could hear it in her breathing, which had gone shallow — the small quick rise and fall, the held space between exhale and inhale where she was waiting for the strike.
 
-She had been in scenes before where the first strike came fast. He knew this because the first time he had taken her to bed she had braced before he had touched her, an invisible bracing in her shoulders that he had felt and let pass and not commented on. She braced because every man before him had been in a hurry. Hurry was what she had been trained to receive. He was not in a hurry. He was not going to be in a hurry tonight, and she had not yet figured out what to do with that.
+She had been in scenes before where the first strike came fast. He knew this because the first time he had taken her to bed she had braced before he had touched her, an invisible bracing in her shoulders that he had felt and let pass and not commented on. She braced because every man before him had been in a hurry. He was not in a hurry. He was not going to be in a hurry tonight, and she had not yet figured out what to do with that.
 
 "Breathe," he said, quietly. "Just breathe a minute."
 
@@ -404,39 +400,23 @@ She did not say anything for a long moment. The breathing he could hear from her
 
 "Take your time," he said.
 
-She took her time. He could see, in the small movements of her face which was at the low point and turned sideways now, that she was trying to find the surface she could not find. The surface had a script for this. The script said you turned the heat up, you pouted, you made him want you so badly he gave you what you wanted as proof of his desire. The script was for the *wanted* position. She was excellent at the wanted position. She had spent her whole adult life there. The bench was not there.
+She took her time. He could see, in the small movements of her face which was at the low point and turned sideways now, that she was trying to find the surface she could not find. There was a script for it: you turned the heat up, you pouted, you made him want you so badly he gave you what you wanted as proof of his desire. It was the script for the *wanted* position, and she had spent her whole adult life there. The bench was not there.
 
-She could not pout her way back. She could not turn the heat up; the heat was already at maximum, and the maximum was below her, where she was. The script was failing. He could see that it was failing before she could — her hands had begun to worry the grips, a woman reaching for a handle that had always been there and not finding it.
+She could not pout her way back. She could not turn the heat up; the heat was already at maximum, and the maximum was below her, where she was. Her hands had begun to worry the grips, a woman reaching for a handle that had always been there and not finding it.
 
 He waited.
 
 He bent and laid his palm against her cheek, where he could reach her at the bench's low point, and she leaned into it the way an animal leans into a comforting touch. The leaning was genuine. He kept his palm where it was.
 
-The script had one handhold left: the audience. The surface she kept was kept for them — for the house, for Brooke most of all; polished for them daily, defended against them nightly. He was not going to take it from her. He was going to bring it into the room, and let her feel which was stronger — the keeping of it, or the need.
-
-"I want to ask you something," he said, gently.
-
-She made a sound that meant yes.
-
-"What do you think your sorority sisters would think if they saw you right now?"
-
-She did not move.
-
 "Facedown on a bench in a man's house," he said, conversationally, his palm still at her cheek. "Ass in the air." He let his gaze travel down the long pale line of her. The cleft between her thighs was glossy with slick; it had gathered and was sliding. "Red from a spanking. Wet enough that I can see it from where I'm standing. Begging."
 
 She made a sound that was not a word.
 
-"They've never seen you like this," he said. "I've never seen you like this either. Until tonight."
+"I've never seen you like this," he said. "Until tonight."
 
 She did not answer.
 
-"Brooke," he said, "for instance. What would Brooke think."
-
-He felt the small jolt go through her body when he named the specific name. Brooke was the president of the chapter; Brooke was the one she had told the lie about a paper to before coming over. He stroked her cheek with his thumb. He did not stop looking at her, and she did not, he could see, want him to stop looking at her.
-
-"What would she think, baby," he said. The endearment was the first he had used with her all night.
-
-A sound came out of her that he had never heard before. It was small. It was raw. It was nothing like any sound she had ever made in his presence. It was the sound of a woman in a position she had not consented to even though she had consented to the position. He held very still. He kept his hand on her cheek. He waited.
+A sound came out of her that he had never heard before. It was small. It was raw. It was nothing like any sound she had ever made in his presence. He held very still. He kept his hand on her cheek. He waited.
 
 "I—" she said.
 
@@ -444,7 +424,7 @@ A sound came out of her that he had never heard before. It was small. It was raw
 
 "Please—"
 
-"Tell me what you want, baby."
+"Tell me what you want."
 
 "*Please*," she said. The *please* was different. The *please* came from below. The *please* was the *please* of a woman who needed something. "Please. Please, Pace. Please."
 
@@ -490,7 +470,7 @@ After a while he reached over to the bedside table and got the water bottle he h
 
 The crying tapered finally. She was very quiet against him, her face against the side of his neck, her hair against his collarbone, her body warm in the blanket. He could feel her breathing slow. She did not seem to want to talk. He did not push her to. He kissed the top of her head again. He stroked her hair.
 
-He looked at the wall opposite and felt the small warm pleasure of having taken her further than she had ever been taken — further, he thought, than she had known there was to go — and he sat with that, quietly, while she sat with whatever she was sitting with, and the two of them shared the silence in the warm room.
+He looked at the wall opposite and felt the small warm pleasure of having taken her further than he had thought she would go — and he sat with that, quietly, while she sat with whatever she was sitting with, and the two of them shared the silence in the warm room.
 
 After perhaps fifteen minutes she stirred. She lifted her head from his shoulder. She did not look at him. She looked at the floor.
 
@@ -512,7 +492,9 @@ He sat on the bed. He listened.
 
 He did not hear the toilet. He did not hear the tap. He heard, after a long pause, the very quiet sound of a woman crying again, briefly, then stopping. Then nothing. He waited.
 
-He did not knock. He did not call out. He had decided, when he heard the lock turn over, that whatever was happening in there was hers and he would not put a hand on it until she invited him to. He sat with his elbows on his knees and looked at the floor and waited.
+He did not knock. He did not call out. He had decided, when he heard the lock turn over, that whatever was happening in there was hers and he would not put a hand on it until she invited him to.
+
+Daphne had built a door, once, and he had not respected it. He had wanted to be inside her feelings — he had been young, and had thought that loving someone was a kind of permission — and he had gone in where he had not been asked, and it had cost him more than he had known, then, that anything could cost. He had learned. A closed door was hers, not his; you did not open it just because you could hear through it. That was long ago. He sat with his elbows on his knees and looked at the floor and waited.
 
 In the bathroom, Randi stood at the sink and looked at her face in the mirror.
 
@@ -548,7 +530,7 @@ She fixed her hair again, this time more deliberately, smoothing it into the sha
 
 She came to the bed and sat down beside him and curled into him and he wrapped his arm around her and pulled her close, and she put her head against his shoulder, in the same place it had been before she had gone to the bathroom, and he kissed the top of her head, and she closed her eyes.
 
-He held her. He thought that this had been a remarkably good evening. He had been right that she was showing him only a fraction of who she was, and tonight, with his help, she had met more of herself than he had imagined she would this early. He thought about the apple, the thin slices, the appetite she kept trimmed to almost nothing, and it moved him, a little — a girl who had been portioning herself for years, weighing every want before she let herself have it, and who tonight had finally let someone feed her. The hunger had been in her all along. All he had done was find it, and answer it. He would answer it again, as often as she wanted to bring it to him.
+He held her. He thought that this had been a remarkably good evening. She had shown him only a fraction of who she was, and tonight she had met more of herself than he had thought she would. He thought about the apple, the thin slices, the appetite she kept trimmed to almost nothing, and it moved him, a little — a girl who had been portioning herself, weighing every want before she let herself have it, and who tonight had finally let someone feed her. The hunger had been in her all along. All he had done was find it, and answer it. He would answer it again, as often as she wanted to bring it to him.
 
 He was aware, in the way a man is aware of something he has been quietly not-thinking-about, that he was still hard. He had been since she straddled him in the kitchen. The awareness arrived without urgency; he held it the way you hold a fact, considered it, and set it down. *That's not what this night was for.*
 
