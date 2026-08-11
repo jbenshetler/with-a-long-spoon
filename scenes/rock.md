@@ -204,7 +204,13 @@ She hadn't meant to stand him in a doorway, so she went first, to make it a trad
 
 "And yours?" She kept it light.
 
-He took a moment. "When I got there, they assigned me someone. A tutor." His mouth moved, dry. "Which was its own joke — there was nothing in the catalog I needed tutoring in. But that was the arrangement: an older student, to help the child find his feet." A beat he didn't fill. "She was nineteen."
+He took a moment. "Daphne," he said.
+
+Just the name, and then he let it stand there. She had given him a whole marching season.
+
+The flatness in it reminded her of how he'd sounded when she asked about his parents. "How did you know her?"
+
+"When I got there, they assigned me someone. A tutor." His mouth moved, dry. "Which was its own joke — there was nothing in the catalog I needed tutoring in. But that was the arrangement: an older student, to help the child find his feet." A beat he didn't fill. "She was nineteen."
 
 Vee went still. She didn't choose it. She simply stopped moving.
 
