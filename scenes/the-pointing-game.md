@@ -44,7 +44,7 @@ Then she came back. He admired it, a little, even as he saw through it: she gath
 
 "Only in a threesome," she said against his throat, smiling, all silk. "With you."
 
-And he understood what she had done, because it was beautiful. She had not taken back the wanting — she could not, her body had said it twice and she knew he'd heard. She had moved it. She had handed the appetite to him and made herself its generous instrument: not a woman who hungered for another woman, which was unsurvivable, but a girlfriend offering her man a gift, which was merely sexy. The same act. A different owner. She could live inside the second version. She could not live inside the first.
+And he understood what she had done, because it was beautiful. She had not taken back the wanting — she could not, her body had said it twice and she knew he'd heard. She had moved it. She had handed the appetite to him and made herself its generous instrument: not a woman who hungered for another woman, which was unsurvivable, but a girlfriend offering her man a gift, which was merely sexy. The same act. A different owner.
 
 The shape she gave it felt right because she had found a way to say yes without making the wanting stand naked between them. A threesome, with him. He would not have to find her a woman for her transgression. She would find a woman for *theirs*. She was plainly excited about this. He was glad of it.
 
@@ -64,7 +64,7 @@ It was the kind of afternoon that the valley produced only a handful of times a 
 
 They came up the brick walk from the lower lot with her hand in his. The wind found her hair as it went at everything on the quad — black and fine, drawn back into a sleek tail, a single scrunchie, the one flourish she'd allowed herself, the tail flirting with the wind when she turned her head and giving it nothing when she didn't. She had decided that morning how much of herself the day would get, and it would get exactly that, and not a strand more. The campus laid itself out as it had been built to — the long colonnade of the old academic row, the white pediments and the red brick, the columns throwing their afternoon shadows in even bars across the path, the whole thing composed two centuries ago by men who wanted the eye to travel exactly this way. Students moved through it in the loose Tuesday-afternoon current, alone and in pairs and in clusters, the ones with nowhere to be drifting and the ones with somewhere to be cutting across the grass against the diagonal. Somebody was throwing a frisbee. Somebody had a speaker going, low, two hundred feet off, the bass arriving a half-second behind the rest.
 
-Pace was entirely present to all of it and entirely inside the thing he had decided to do, and the two were not in tension. This was the pleasure — the day arranged itself around them, the light and the wind and the burning maple, and underneath the day the clean line of what he already knew about her, what her body had told him an hour ago in a register her mouth was still busy correcting. She wanted this. She could not yet hold that she wanted it. He could give her a shape to hold it in. The day was good for it. He had not planned the maple but he was glad of the maple.
+Pace was entirely present to all of it, and entirely inside the thing they were doing together. This was the pleasure — the day arranged itself around them, the light and the wind and the burning maple, and underneath the day the clean line of what he already knew about her, what her body had told him an hour ago in a register her mouth was still busy correcting. She wanted this. She had not let herself hold that she wanted it. The day was good for it. He had not planned the maple but he was glad of the maple.
 
 They passed a man alone at one of the quad tables with a tray from the grill — a cheeseburger in waxed paper, a paper boat of fries gone slightly translucent with grease, the smell of it carrying on the wind, beef and salt and hot oil, frank and uncomplicated and good.
 
@@ -84,7 +84,7 @@ Randi went still.
 
 He watched it work through her. For the first beat she was simply confused, and under the confusion something tightened: he was *pointing*, in daylight, at a girl on the path, the bald social wrongness of it, the exposure of being two people who pointed at a stranger and discussed her. He felt the small recoil of that in her hand, the propriety offended. Second beat, the confusion held — what about her *for what* — and he let it hold, let her hang in it, said nothing, did not help.
 
-Then the third beat, and he felt it arrive in her body before her face changed: the question resolved, the frame snapped into place, and she went hunting up the path after the swinging ponytail. That, and the hand in his — it was enough. He let the camouflage stand. It was the wrapper the wanting needed to come out in, and letting her keep it was the kindness.
+Then the third beat, and he felt it arrive in her body before her face changed: the question resolved, the frame snapped into place, and she went hunting up the path after the swinging ponytail. That, and the hand in his — it was enough. He let the camouflage stand. It was the wrapper the wanting needed to come out in.
 
 "No," Randi said. The propriety was gone out of her voice. Something else had come into it, lower, considering. "Too—" She watched the ponytail reach the shade of the colonnade and turn. "Too expected."
 
@@ -154,6 +154,6 @@ She was failing to hide the grin. It was all over her, the grin, breaking the ma
 
 "Her name is Vee." She arrived in front of him glowing. "And we've got a stats class together."
 
-Her feet did a thing on the brick, a half-second of happy footwork she didn't decide to do, there and gone. He nodded, slow, delighted for her. Randi's *yes* had a name now and a class schedule and a copper head he could still pick out, small, at the far edge of the lawn. The fact of her pleasure stayed bright in him.
+Her feet did a thing on the brick, a half-second of happy footwork she didn't decide to do, there and gone. Then she came in and got both hands into his hair, and — "*Yes*," she said, the word squeaking out of her, high and delighted — kissed him, quick and grinning. Drew back an inch. And then, lower, the grin gone out of it: "*Yes*," breathy this time, the register she only used in his bed and never in daylight — and she kissed him again and stayed in it, holding on. He wrapped her up and held her there while a couple of students went past on the walk. Randi's *yes* had a name now and a class schedule and a copper head he could still pick out, small, at the far edge of the lawn. The fact of her pleasure stayed bright in him.
 
 "Let's go feed you," he said.

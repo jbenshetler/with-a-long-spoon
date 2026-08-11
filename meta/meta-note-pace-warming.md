@@ -62,6 +62,24 @@ Author ruling after the 5-model panel: go further on the-bench, then re-run the 
 
 - **Consent-distinction line** (from `the-bench` former :437): "It was the sound of a woman in a position she had not consented to even though she had consented to the position." Tagline-defining ("Every yes was freely given. That was the problem"); readers loved how it "snaps the tagline into focus," but also flagged it as too-blunt, and author cut it from the *opener* to avoid establishing a non-consent note in chapter 1. **Candidate to restore in a later chapter** where the consent theme is earned across more pages.
 
+## the-pointing-game pass — 2026-08-11 (branch `pace-warming-the-bench`)
+
+Method mirrored the-bench: fresh baseline (terra+sol) → target only what the *current* draft's readers flag → apply → re-run. The stale on-disk pointing-game reviews turned out to predate edits (the worst predation lines — "It was not fair… He asked it anyway"; the "old architecture / a door he could not leave closed" self-portrait, which would have **contradicted the Daphne seed** — were already gone), so we cut off the fresh baseline, not the stale flags.
+
+**Applied (kept):**
+- **Certainty-cluster cuts** (fresh baseline's one residual theme — Pace's *totalizing certainty about the meaning/shape of her desire*): :47 tail cut ("She could live inside the second version. She could not live inside the first." — keep anchor "The same act. A different owner."); :87 "and letting her keep it was **the kindness**" cut (self-congratulation; keep "the wrapper the wanting needed to come out in"); :67 "He could give her a shape to hold it in" cut + "the thing he had decided to do, and the two were not in tension" reframed to "entirely inside the thing they were doing together."
+- **:67 further soften** ("She could not yet hold that she wanted it" → "She had **not let herself** hold that she wanted it") — the one interior line all three warm-tier readers still flagged as inference-converted-to-fact. Cleared the flag.
+- **ADD — grateful/joy hug at the close (:157)** (author): after the footwork, both hands in his hair, an excited squeaked "Yes" before the first kiss, a breathy "Yes" (bed-register-in-daylight) before the second, held. Warms the *bond* (first real Randi→Pace affection), firms Romance 2, ties the yes-motif to the tagline. **Full-panel result:** landed across all five; even the analytical pair got a beat where they "liked Pace best… no calculation in it."
+
+**Cut then RESTORED (author rule "if the regen doesn't warm significantly, restore these"):**
+- :9 "He had decided this beforehand" and :121 "He liked when he guessed right about her." Cut, then ran a **clean-chain regen** (warmed bench → standards → pointing-game) to test whether the Claude readers' darkness was stale-chain baggage. It was **not** — they stayed dark-but-ajar and simply hopped to the next premeditation tell (:31, which is KEEP-praised). Structural, not baggage. So the cuts didn't earn their keep → restored.
+
+**Left (author):** :43 "He admired it… even as he saw through it," :107 "She was shopping," :123 "the angle it gave on the doors" — single-reader flags, read as intended characterization/reread-charge.
+
+**Full-panel verdict (all 5, to disk):** Heat 3 / Romance 2 held (unchanged baseline→final). Warm tier (terra/sol/gpt-5.5): Pace tender, "substantially trustworthy," "I point. You pick" *melts* them. Analytical tier (opus/sonnet): sharp on the strategist/hunt read — but that's **structural and irreducible via interior cuts** (the chapter *is* reconnaissance on an unknowing Vee), and they hold him ajar, not convicted ("I don't think he means her harm"). **This split is the thesis working:** first-read-clean for the reader you're writing for; reread-structural for the one who looks. No darkness overshoot.
+
+**Superseded:** the earlier item-by-item plan (Items 11–17) was replaced by the fresh-baseline-driven certainty-cluster approach above. Item 12's :29 recast was decided but never applied and is now moot (no reader flags the taxonomy).
+
 ## Parked candidates (not yet items)
 
 - **`the-bench` :405–407 "The script was failing. / He could see that it was failing before she could"** (+ ":405 She was excellent at the wanted position" repeat) — **now corroborated by sol AND opus** as the clearest remaining authorial thumb ("decoded quite so completely," "told to me twice"). A **telling/over-decoding** issue like Item 2 (the read is *grounded* — he's watching her seduction-script fail in real time), **not** darkness/omniscience. If pursued: **R2**, a *reduce the decoding* trim (cut the flat "The script was failing" and one "wanted position" restatement), not a cut of the grounded read.

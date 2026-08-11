@@ -37,6 +37,8 @@ Read
 
 **Scene review:** `/wals-scene-review <slug>` runs a full craft/architecture/continuity review of a drafted scene — it fans out the lore-keeper prep in parallel, runs the style linter, and reports against a fixed rubric (rubric defined in that command file). Flags and advises; never rewrites prose. Defined in `.claude/commands/wals-scene-review.md`.
 
+**Cold-read panel + token rule (author ruling 2026-08-11).** The **full panel** = `claude-opus-4-8` (opus), `claude-sonnet-5` (sonnet-5), `gpt-5.6-terra` (terra), `gpt-5.6-sol` (sol), `gpt-5.5` — **all five, written to disk**. A **fast** probe = `terra` + `sonnet`, written to disk. **Never use API tokens (`--auth api-key`) without specific author authorization**: run the OpenAI-family readers (terra/sol/gpt-5.5) through **codex** subscription auth (`tools/cold_read.py --auth codex …`), and run the Claude readers (opus/sonnet) as **`blind-reader` subagents**, which consume no API tokens. The `blind-reader` has `tools: []` and cannot write, so its reads must be **persisted to disk by hand**; only the codex runs auto-write. For a non-opening chapter, seed each Claude subagent with the prior scene's carry-forward (the chain). Durable decisions live here or in `meta/` — **not** in machine-local memory, which does not travel across clones.
+
 ---
 
 ## How to behave

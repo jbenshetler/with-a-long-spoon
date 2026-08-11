@@ -1,211 +1,225 @@
 # Cold read — The Pointing Game
 
-*scene: scenes/the-pointing-game.md · model: gpt-5.5 (Codex subscription: gpt-5.5) · read after: standards*
+*scene: scenes/the-pointing-game.md · model: gpt-5.5 (Codex subscription: gpt-5.5) · read after: standards · reader-protocol: v2-volume-entry-jacket*
 
 ## Reader reaction
 
-This chapter is hot, but the heat is not simple. I felt caught by the opening immediately: Pace’s mouth on Randi, his certainty that “She had been performing, the first week. She was not performing now,” and then the question, “Would you like to taste another woman?” landing so hard she comes before she can protect herself from the answer. Erotically, that works. It peaks for me at the shock of her body answering before her story about herself can arrive. The danger is that Pace is so pleased with his own gentleness that I’m not sure I trust him at all.
+This chapter hit me hot and complicated in exactly the place the last one opened. I felt the erotic charge immediately, because the first scene is explicit and close, but what really worked on me was the way Randi’s body answers before she can edit herself. The moment Pace asks, “Would you like to taste another woman?” and she comes from the question itself is the chapter’s first real jolt: not just arousing, but exposing. It made me feel the force of a desire she has not let herself own.
 
-My feeling about Pace moved darker here. He is attentive, yes, and he repeatedly frames what he is doing as kindness: “He wanted her gathered back into herself when he asked, free to weigh it and choose.” But because the whole chapter is inside his confidence, I feel the pressure of his interpretation. He sees through Randi’s “Only in a threesome… With you” and understands how she has moved her desire into a safer shape, but he treats that as permission to build the game around her. He keeps saying, inwardly, that the choosing is hers. It may be. But the jacket’s “Every yes was freely given. That was the trap” is loud in my head now.
+Pace still feels tender to me, but this chapter also makes his control sharper. He is directing the game, framing the question, choosing the walk, choosing the daylight, pointing. The page keeps telling me he wants her free to choose, and I mostly believe that because he watches for her flinch, waits until she is “gathered back into herself,” and explicitly makes the choosing hers: “I point. You pick.” But there is still an edge in how much he knows before she does, and how much pleasure he takes in seeing her revealed. It is not a red flag exactly; it is the thrill and danger of being known by someone who knows how to move you.
 
-Randi breaks my heart and unnerves me at the same time. I’m aroused by her arousal, especially by the way she scans the campus once the rules clarify: “She was shopping.” But I also feel how much of herself she has to disguise before she can want. The chapter makes her desire for women feel real and bodily, not theoretical, but also makes her unable to own it directly. “Not a woman who hungered for another woman, which was unsurvivable, but a girlfriend offering her man a gift, which was merely sexy” is the line that locks the whole chapter for me. It is exact and sad.
+Randi moved me most. I felt protective of her when she tried to relocate the want into a “gift” for him: “Only in a threesome… With you.” That was such a precise piece of self-protection. She cannot yet say, I want a woman; she can say, I am the kind of girlfriend who gives my man this fantasy. Then the walking game undoes that cover by inches, and I loved watching her come alive despite herself. The “Maybe” on the library steps is delicious because it is the first real opening. But the “Yes” when Vee appears is the swoon: bare, helpless, and then almost immediately dressed back up as “Yeah. I like her.”
 
-Vee, who I assume is Vivienne from the jacket but only know here as “Vee,” lands beautifully. She is the first woman in the chapter who feels like a full presence instead of a type being judged: tall, lush, red-haired, freckled, laughing “like a person who had genuinely forgotten… that she could be seen.” I felt the book wake up when she came out of the dining hall. Randi’s bare “Yes” before the costume comes back is the chapter’s strongest erotic moment after the bed scene.
+Vee’s entrance absolutely lands. I know the packet named her, but this is the first time she is truly on the page, and the page makes me feel why she arrests Randi: abundance, ease, red hair in the wind, laughing “like a person who had genuinely forgotten… that she could be seen.” After so much controlled beauty, Vee feels like appetite with no apology. I do not know her yet, but I feel the pull.
 
-The friction for me is Pace’s interior certainty. Not badly written friction, but human friction: I kept resisting his calm. “He could give her a shape to hold it in” sounds tender to him and controlling to me. “The last thing she needed before she went was to see in his face that it was hers to take” also made me uneasy, because the permission still routes through him.
+The title, “The Pointing Game,” sounded almost childish before the chapter, but now it feels exact and a little dangerous: pointing as play, pointing as permission, pointing as exposing what Randi wants before she can say it. *A Polite Invitation* still feels like the book is using social grace as a cover for something intimate and risky. *With a Long Spoon* keeps promising proximity with caution: getting close, but not without distance, rules, tools, ceremony. No cover tagline is present in the prior state, so I cannot use one.
 
-The chapter title, “The Pointing Game,” is blunt and apt. It did not give away the whole chapter, but once the game began it named the mechanism exactly: Pace points, Randi picks. The book title, *A Polite Invitation*, now feels less like manners and more like a method. The series title *With a Long Spoon* still feels oblique, but it suggests distance from something dangerous or tempting. The tagline is no longer abstract; this chapter is full of yeses, and every one of them feels real, which is precisely why I’m nervous.
+What I want next is Vee on the page from closer range. I want to know what she felt in that “small collision,” whether Randi can approach her as herself or only through performance, and whether Pace can keep this as a gift without becoming the owner of Randi’s wanting. My guess from here is that Vee will not fit neatly into the role Randi and Pace think they are making for her.
 
-What I want next is Vee on the page in her own weight, not just as Randi’s chosen object. What I dread is that Randi and Pace will convert that bright campus accident into something Vee cannot possibly understand. My guess from here: Randi will approach Vee through the stats class, under the cover of ordinary friendliness, and the trap will be that nothing initially looks like a trap.
+**Cast present (in person):** Randi, Pace, Vee, Vee’s unnamed friend, multiple unnamed students/women on campus. Mentioned-only: Daphne, Brooke, Sloane, Kinsey do not appear or get named in this chapter.
 
-**Cast Present (In Person):** Randi, Pace, Vee/the red-haired girl, Vee’s unnamed friend, several unnamed women on campus, unnamed students on the quad, a man eating a cheeseburger. Mentioned-only: no separately named offstage people.
+**Heat:** 3 — explicit sex opens the chapter, and the erotic center continues through the public choosing game.
 
-**Heat:** 3 — explicit sex opens the chapter, and the erotic current continues through the public choosing game.
+**Romance:** 2 — Pace’s tenderness and Randi’s delighted return kiss feel intimate, but no declaration or settled romantic turn.
 
-**Romance:** 2 — Pace feels tenderness and delight, and Randi glows when she returns; intimacy is real, though uneasy.
+**Motifs & images:** The face / being seen repeats as Randi’s practiced warmth and “costume” fail around real want. Food/appetite repeats through her hunger, refusal of the cheeseburger, and Pace’s “Let’s go feed you.” Warmth/cold repeats in bed, afternoon sun, wind, and Pace’s pleasure at her pleasure. The game/permission is a first strong motif: pointing, picking, rules, daylight play.
 
-**Motifs & Images:** First/repeat: food and appetite return through Randi’s “I’m hungry” and “I can’t eat that,” then Pace’s “Let’s go feed you.” Repeat: the face/performance returns as Randi puts herself back together and makes desire into “a girlfriend offering her man a gift.” Repeat: being looked at becomes looking, as Randi scans and chooses. First: pointing as erotic permission and public impropriety. First: the burning maple and copper-red hair link change, autumn, and Vee’s arrival.
+**Symbolism:** Vee’s red hair and whole-body laugh read as uncurated appetite and freedom from Randi’s polished grammar. The campus walk turns desire into something public but still coded as play.
 
-**Symbolism:** The pointing game reads as desire disguised as play: Randi can choose because Pace has made choosing into a game. The campus women become a series of mirrors, refusals, and approaches until Vee breaks the grammar. The burning maple seems to mark sudden change before the rest of the world has caught up.
+**Characterization:** Randi deepens sharply: her desire for women is not abstract but embodied, selective, socially mediated, and frighteningly alive. Pace deepens as both careful and orchestrating. Vee arrives vividly but is still mostly seen through Randi and Pace’s gaze.
 
-**Characterization:** Pace deepens as both tender and dangerously self-assured. Randi deepens sharply: her desire is more specific, more alive, and more defended than before. Vee arrives vividly, though still mostly as seen by Pace watching Randi watch her.
+**Pace — within the chapter:** The chapter earns its length for me; the sequence of women could have dragged, but each choice teaches me Randi’s taste and defenses.
 
-**Pace — Within The Chapter:** The opening is intense, the campus walk is deliberately slow but mostly earns it by turning each pointed woman into a refinement of Randi’s desire. It risks overextended typology, but Vee’s entrance pays it off.
-
-**Pace — Chapter To Chapter:** Momentum builds. After the cold aftermath, this chapter moves the jacket’s promised triangle onto the page. It is not a reset; it carries the same unease into a brighter, more public key.
+**Pace — chapter to chapter:** Momentum builds. The last chapter showed Randi hiding what Pace opened; this one makes that hidden thing walk into daylight and acquire Vee’s name.
 
 ## Carry-forward state
 
+tool_uses: 0
+
 **Principals**
 
-Randi: a twenty-one-year-old woman, also called Miranda by the jacket and Randi on the page. Poised, beautiful, socially polished, with black hair, pale skin, striking blue eyes, and a “slight perpetual surprise” in her resting expression. She is in a sorority and holds a board seat in Standards, which gives her a single room. She lies to Brooke about having a paper so she can go to Pace’s house, then lies again the next morning about where she worked. She has a guarded relationship to food shaped by her mother and sorority standards. She uses her face, beauty, and social performance as protection: “Nothing happened to her. That was what the face was for.” After the bench scene, she feels more alive than she can remember, but also terrified by having been truly seen. She decides internally to retreat behind the face and not let the exposed self come out again. Returning to the sorority house in last night’s clothes, she is socially cornered by Brooke’s warm questions, performs well enough to escape, then lies on her made bed in last night’s clothes and shoes, under an inadequate duvet, unable or unwilling to cry. In this chapter, in bed with Pace, her body answers the idea of tasting another woman before she can think: she comes hard at the question, then later converts the wanting into the safer version of “Only in a threesome… With you.” On campus, she learns the pointing game quickly, moves from propriety to active scanning, rejects several women, says “maybe” to a warm girl on the library steps, and then gives a bare “Yes” when Pace points at the red-haired girl from the dining hall. She meets the girl by engineering a small collision and returns glowing, unable to hide her grin.
+Randi — female; also Miranda per name rule, carry as Randi. Twenty-one-ish sorority woman implied by college/chapter dinner context; glossy, wealthy-coded, controlled, blue-eyed, practiced at being looked at; Standards on sorority board with a single room as perquisite; secretly shaken by being truly seen by Pace; now visibly, helplessly drawn to Vee after Pace’s pointing game.
 
-Pace: a man who lives alone in a warm house at the end of a long drive, per the jacket. He is a young mathematician according to the jacket and, on the page, Randi tells Brooke he is a math PhD student and not in charge of her course section. He is patient, observant, physically confident, domestic, and skilled with erotic control. He builds furniture, including the kitchen table, cabinet, and the bench. He notices Randi’s food rules, body language, sexual responses, and aftercare needs. He respects safewords and checks her body, but he badly misreads the emotional aftermath: he thinks the evening was “remarkably good” while Randi is internally deciding to hide from what happened. His earlier description as “hard to say no to” returns to Randi in a darker key. In this chapter, his point of view shows him initiating the idea of another woman during sex, reading Randi’s bodily reaction as helplessly true, and then designing “the pointing game” as a way for her to want under cover of play. He believes he is being gentle by letting the wanting come out laughing rather than forcing her to name it. He is delighted when the game leads Randi to Vee, and he stays back while Randi meets her.
+Pace — male; also Peter per name rule, carry as Pace. Young mathematician per packet; careful, courtly, exact, sexually dominant with explicit consent and aftercare; built the bench and house furniture; believes he helped Randi meet herself; now gives her a daylight game to discover and choose her desire for a woman.
 
-Vivienne Thorne / Vee: named in the jacket as Vivienne Thorne, the girl Randi and Pace picked out across the quad and decided would be the third in their bed without telling her. In this chapter she appears on the page as “Vee,” a tall, lush, red-haired woman leaving the dining hall with a friend. She has warm dark red hair that sparks copper in the sun, cinnamon freckles, a tipped-up snub nose, full breasts, a deep waist, wide hips, and an athletic balance under her abundance. She laughs with her whole body, as if she has forgotten she can be seen. Randi is visibly arrested by her, says a bare “Yes,” engineers a small collision, touches her arm, talks with her for about two minutes, and learns that her name is Vee and that they share a stats class. I am treating Vee as very likely Vivienne from the jacket, but on the page Randi only reports the name “Vee.”
+Vee — female; also Vivienne per packet, carry as Vee. Jacket-established college junior, quietly starving, central future figure; first appears outside dining hall as tall, lush, athletic, red-haired, freckled, laughing with her whole body; has stats with Randi.
 
-Brooke: Randi’s sorority chapter president. She is polished, warm-voiced, socially authoritative, “buffed and expensively kept,” and does Saturday morning admin at the long table by the window with the chapter laptop and spreadsheet. Randi tells Brooke she has a paper as an excuse to leave after chapter dinner; Brooke questions her the next morning about the paper, Pace, his name, his truck, his field, and whether he teaches Randi. Pace previously invoked Brooke during the bench scene as the imagined witness whose judgment would pierce Randi’s polished social self. Brooke’s power is quiet and seated: she does not need to stand to stop Randi.
+Daphne — female; remembered by Pace as someone whose emotional boundary he once failed to respect; not present.
 
-Sloane: a sorority sister who appears in the common room with coffee and a laptop. She watches Randi and Brooke’s exchange without quite appearing to, recognizes the white pickup behind Hahn as probably Pace’s, jokes about a past boyfriend with a huge Raptor, and praises Randi for not caring about cars. She reads as part of the house’s social gaze.
+Brooke — female; sorority chapter president, warm-voiced, polished, socially authoritative; can stop Randi without standing.
 
-Kinsey: a sorority sister who appears cross-legged on the rug with a bowl of cereal. She watches the exchange, laughs slightly above pitch, asks whether Pace is “cute” and imagines him as “short-cute.” Randi matches Kinsey’s laugh quickly, showing how fast she adapts to the room.
+Sloane — female; sorority sister, socially watchful; uses laughter/teasing as pressure.
+
+Kinsey — female; sorority sister, eager to join warmth; asks if Pace is “short-cute.”
 
 **Relationship ledger**
 
-Randi / Pace: intimacy and asymmetry both advance. Randi feels aroused, exposed, and then pleased by the game once it gives her cover; I feel the erotic pull but also alarm that Pace keeps interpreting and arranging her desire while believing this is gentleness. Pace feels delighted, tender, and sure he is helping her choose; I feel his confidence as increasingly risky.
+Randi ↔ Pace  
+State — surface / true: involved, consummated? y / involved, consummated? y. Surface: tender, sexually open, playful; she stays close, accepts his game, chooses under his rules, and returns glowing to kiss him. True: Pace thinks he gives Randi a gentle way to own something true; Randi keeps making desire survivable by handing its ownership to him.
 
-Randi / Vivienne: first on-page contact. Randi is stopped by Vee on sight, says “Yes” before she can dress the desire, then approaches and meets her under cover of a small accidental collision. Randi feels lit up and hungry; I feel the thrill of first contact mixed with dread because Vee has no idea she has been selected into a sexual game.
+Desire worked-on-her ↔ desire hers: Both poles intense. Pace works desire through timing, questions, sex, public play, pointing, permission; Randi’s body answers before her mind can correct it, and her “Yes” for Vee is unmistakably hers.
 
-Pace / Vivienne: first on-page visual contact, though not direct interaction. Pace points Vee out to Randi, watches Randi choose her, and then watches from a distance while Randi meets her. Pace feels happy that Randi’s “yes” has a name and class schedule; I feel suspicion because Vee is being turned into “the gift” before she knows anything.
+Cold ↔ warmth: Warmth dominates: bed, kissing, handholding, Pace’s smile, his pleasure in her pleasure, “Let’s go feed you.” Cold remains in self-correction, flinching when the question becomes real, and costuming want as something offered to him.
 
-Randi / Brooke: no change.
+Isolation ↔ belonging: The game widens her world by making desire shareable with Pace and “hers to take,” but she remains isolated between what her body says and what daylight self can admit.
 
-Randi / Sloane: no change.
+Used ↔ cherished: Cherished dominates: Pace waits, watches, lets her choose, stays back, is happy for her pleasure. Used flickers because Randi converts appetite into being his “generous instrument,” and because his orchestration is powerful.
 
-Randi / Kinsey: no change.
+This chapter: Randi’s desire for a woman becomes explicit and attaches to Vee; Pace moves from private dominance into public permission-giving; Randi’s “yes” becomes both more hers and more dependent on his nod.
 
-Randi / herself: major change. Her desire for another woman becomes undeniable to her body, then she survives it by routing it through Pace and the idea of a threesome. On campus she moves from propriety to active appetite and returns glowing after meeting Vee. She feels excited and permitted; I feel that her pleasure is real, but her need for permission is painful.
+Randi ↔ herself  
+State — surface / true: friendly with herself as face / antagonistic and estranged from the self behind the face. Surface Randi can smile, be beautiful, be game, turn want into girlfriend performance, and execute social collision. Truly, her body betrays wants her mind cannot safely own, and Vee draws out a bare “Yes” before costume returns.
 
-Pace / himself: major clarification. He sees himself as patient, gentle, and attentive, someone giving Randi a shape in which to want. He feels successful and generous; I feel the danger of how little doubt he has about his own reading.
+Desire worked-on-her ↔ desire hers: Pace’s question/game work on her, but the desire is particular: not any woman, not expected mirrors or closed projects, but Vee. It is hers most clearly when she cannot look away.
 
-Brooke / Sloane: no change.
+Cold ↔ warmth: Cool polished control remains; warmth breaks through as arousal, laughter, cracked composure after “Maybe,” glowing grin after Vee, and bed-register “Yes” in daylight.
 
-Brooke / Kinsey: no change.
+Isolation ↔ belonging: She remains split between social survival-self and wanting self briefly belonging in Pace’s game. Meeting Vee opens a new possible belonging.
 
-Sloane / Kinsey: no change.
+Used ↔ cherished: She uses face/girlfriend role to manage danger, but is also cherished by being allowed to want. Live question: can she receive that without becoming someone else’s instrument?
+
+This chapter: Her concealed desire for women becomes visible to herself through the pointing game; Vee gives it a name, body, and class schedule.
+
+Vee ↔ Randi  
+State — surface / true: acquaintances through stats class / newly charged acquaintances, with Randi strongly attracted to Vee; Vee’s side unknown. Randi engineers collision, touches Vee’s arm, exchanges names, returns glowing.
+
+Desire worked-on-her ↔ desire hers: Randi’s desire is immediate and hers: “Yes” comes out before management. Vee’s desire unknown.
+
+Cold ↔ warmth: Warmth begins in Vee’s laughing openness and Randi’s glowing return; no cold from Vee shown.
+
+Isolation ↔ belonging: Vee appears outside Randi’s usual grammar, potentially widening Randi’s world. Shared stats gives future contact.
+
+Used ↔ cherished: Quiet on Vee’s side. Randi’s approach is staged through Pace’s game, risking Vee as object of their plan before she is known.
+
+This chapter: Vee enters on-page and becomes the first woman Randi openly selects, though Randi quickly softens the bareness.
+
+Vee ↔ Pace  
+State — surface / true: strangers from page evidence / Pace has now seen Vee at a distance and selected her as the woman who most fully lands for Randi; Vee does not appear to know Pace. No direct interaction yet.
+
+Desire worked-on-her ↔ desire hers: Pace’s desire routes mostly through Randi’s pleasure; Vee’s desire unknown.
+
+Cold ↔ warmth: Pace feels “deep warmth” watching Randi talk to Vee; Vee has no shown feeling toward him.
+
+Isolation ↔ belonging: Quiet, except Pace positions himself outside the meeting, “far enough back to be nobody.”
+
+Used ↔ cherished: Pace risks making Vee part of a gift for Randi before knowing her, but focuses on Randi’s chosen pleasure rather than possession.
+
+This chapter: Pace sees Vee, points her out, and steps back while Randi meets her.
+
+Vee ↔ herself  
+State — surface / true: not yet on page from inside / jacket says she is quietly starving and does not know there is a plan; first appearance is physically abundant, uncurated, athletic, publicly alive, laughing with her whole body.
+
+Desire worked-on-her ↔ desire hers: quiet on this axis this chapter.
+
+Cold ↔ warmth: Warmth radiates from red hair in wind, freckles, whole-body laughter, ease with friend.
+
+Isolation ↔ belonging: She appears socially accompanied and at ease; jacket’s “quietly starving” remains uneasy beside outward fullness.
+
+Used ↔ cherished: quiet on this axis this chapter.
+
+This chapter: Vee appears in person for the first time, seen from outside only.
+
+Pace ↔ Daphne  
+State — surface / true: remembered past bond, exact state unknown / Pace recalls having violated a closed emotional door because he thought love gave permission, and says it cost him deeply.
+
+This chapter: no change.
+
+Randi ↔ Brooke  
+State — surface / true: sorority board peers, friendly / hierarchical and watchful, Brooke higher authority. Brooke warmly questions Randi’s absence, Pace’s name/status, and whether he teaches her, then releases her.
+
+Randi ↔ Sloane  
+State — surface / true: sorority sisters, friendly / socially watchful. Sloane jokes about Pace’s white pickup and calls Randi’s indifference to cars “refreshing.”
+
+Randi ↔ Kinsey  
+State — surface / true: sorority sisters, friendly / minor social pressure. Kinsey asks if Pace is “short-cute”; Randi matches her laugh automatically.
+
+Brooke ↔ Sloane ↔ Kinsey  
+They make the common room a soft audience: coffee, laptop, cereal, laughter, and smiles become pressure on Randi.
 
 **What I know that they don't**
 
-Randi knows, but Pace does not, that after the bench scene she experienced his tenderness as the thing that “could not happen,” retreated behind her face, and resolved that the self he found was “not coming out again.”
+Randi knows something Pace does not: after the bench, she decides the self he found is going back behind the face and “not coming out again,” even while she curls into him and stays.
 
-Pace does not know that Randi’s “extraordinary evening” smile is a lie, or that her apparent post-scene quiet is not simple rest and trust.
+Pace knows something Randi’s sorority sisters apparently do not: she is seeing him, staying at his house, has begged him while exposed on the bench, and has now openly chosen Vee as the woman she wants.
 
-Pace does not know that Randi returned to the sorority house in last night’s clothes, was questioned by Brooke in front of Sloane and Kinsey, lied again about the paper, and afterward lay on her bed in her clothes and shoes unable to cry.
+Brooke, Sloane, and Kinsey know Pace’s name, that Randi came in Saturday morning in last night’s clothes, that he drives or is associated with a white pickup behind Hahn, and that he is a math PhD student, but not what happened between Randi and Pace or that Vee has now become charged between them.
 
-Vivienne/Vee does not know anything about Randi and Pace’s plan from the jacket: that they have picked her as the third in their bed and told her nothing. She also does not know that Pace pointed her out to Randi as part of the campus game, that Randi’s interest was sexual before they met, or that Randi engineered their small collision.
+From the packet, I know Vee does not know there is a plan around her, and that Randi and Pace are linked in that plan; this chapter shows the plan beginning to touch Vee without Vee knowing its full shape.
 
-Brooke does not know Randi lied about the paper and went to Pace’s house, though she questions Randi closely enough that I suspect she may not fully believe the story.
-
-Sloane and Kinsey do not know what actually happened between Randi and Pace the night before.
+Vee apparently does not know Pace is watching from a distance or that Randi’s meeting her has been prompted by Pace’s pointing game.
 
 **Motifs**
 
-Locks, doors, and thresholds: Randi locks Pace’s front door behind her as soon as she enters; later she locks the bathroom door for the first time in his house. The first lock feels like habit and safety; the second marks withdrawal and private crisis. The final image of the bench aftermath compares her inner decision to “a key turning in a lock.” She enters the sorority house through an unlocked door but closes it quietly, already wrong for her, then closes her bedroom door without her usual confident click. Doors keep marking whether Randi is in command of access or merely trying to get out of sight. In this chapter, Pace holds the door for her as they leave for campus, a small courteous threshold into the game he has not named.
+The face / being seen: Randi’s face is her shield: startling blue eyes, surprised expression, room-winning smile. Charged cracks: Pace seeing past it on the bench; bathroom reconstruction into a lying smile; common-room smile arranging late under Brooke; “Maybe,” “Yes,” and the hidden grin in the pointing game.
 
-Food, appetite, and portioning: Pace slices a honeycrisp apple thin because Randi will eat thin slices but not thick ones. Apples are “permitted” by her internal food rules. The apple game becomes erotic, and Pace later thinks of her as “a girl who had been portioning herself for years” whom someone finally fed. Food is tied to permission, desire, control, and being allowed to want. Food is displaced into the sorority morning around her: coffee, cereal, brunch routines, and the social normalcy Randi cannot rejoin. In this chapter, Randi says she is hungry but automatically refuses a cheeseburger because “I can’t eat that,” then after she meets Vee Pace says, “Let’s go feed you.” Appetite now includes both food and women, both still requiring permission.
+Food / appetite: Apples, thin slices, mother’s egg whites/tofu, sorority scale, and Pace “feeding” the girl who portions herself make appetite controlled. Sorority coffee/cereal/brunch re-socialize watched appetite. On campus, “I’m hungry” but “can’t” eat cheeseburger; after Vee, Pace: “Let’s go feed you.”
 
-The face / blue eyes / being looked at: Randi’s startling blue eyes are the first thing people notice and the thing she has built her adult life around being looked at for. In the bathroom she sees that the same face has begged, and the familiar smile no longer cleanly covers what happened. Her face is armor: it receives being wanted and prevents it from reaching “her.” The smile “arranged” itself, twice, a fraction late, and her laugh matches Kinsey’s before she has time to choose it. The face still works, but I can see the delay. In this chapter, Randi repeatedly dresses desire in performance: the warm lower register, the sex-kitten “You dirty boy,” the girlfriend offering a threesome “with you.” But her bare “Yes” at Vee breaks through before the costume returns.
+Doors / locks: Randi habitually locks Pace’s front door; Pace opens the bedroom door onto the bench; Randi locks the bathroom door for the first time in his house; final hum is “the size of a key turning in a lock.” Morning after: house door unlocked, Randi closes it quietly, then closes her bedroom door.
 
-Warmth, cold, sweat, salt, and aliveness: Pace’s house is deliberately warm. The erotic scene moves from perfume and polished surfaces into sweat, salt, damp hair, wetness, tears, and bodily heat. The movement is from social gloss to animal aliveness. Randi’s sorority house and room are cold, the corners do not hold heat, and the duvet is only “light and synthetic and adequate.” The cold reads as the return to containment after bodily warmth. In this chapter, heat returns through sex, Randi’s own taste on Pace’s mouth, and the bright outdoor afternoon. Vee’s red hair catching copper in the sun and the burning maple bring warmth into the public world.
+Warmth / cold: Pace’s warm house, bodies, blankets, skin, and aftercare make exposure possible. Sorority house is old/cold; Randi’s duvet is adequate, not holding. Pointing game carries bed-warmth into cool sunny daylight, Pace’s breath at her ear, and his deep warmth watching her glow.
 
-Furniture and rooms with hidden purpose: Pace’s handmade furniture looks expensive in a way Randi cannot price. The bench has been mistaken for a table, with its top removed to reveal face cradle, grips, open middle, leg rests, and exposed purpose. It can become a table again while remaining “full of what it was.” Randi’s single room is a Standards privilege and private refuge, but it also exposes her inability to resume herself: bed made because she did not sleep in it, closet orderly, clutch in its assigned place, nothing offering comfort. In this chapter, the public campus becomes another arranged space with hidden purpose: a walk that looks ordinary but is actually structured around Pace pointing and Randi choosing.
+The bench / table: Odd low table becomes purpose-built sexual bench; tomorrow it will be table again while remaining “full of what it was.”
 
-“Hi”: Pace and Randi exchange “Hi” at the door, upside down during the scene, and again after she returns from the bathroom. The word becomes an intimate reset, but by the last one it is also part of Randi’s restored mask. No new instance this chapter.
+Blue: Randi’s blue eyes are first-noticed and weaponized; blue toenails are a small, eye-colored deviation.
 
-“Please” and begging: Randi’s ordinary social “please” fails; Pace withholds orgasm until a different “please” arrives, lower and broken. The word becomes the marker of a self underneath performance, and afterward Randi is shaken by the fact that her face said “I’m begging” out loud. No new instance this chapter.
+Social smiling / warm voices: Randi’s smile wins rooms; Brooke’s warm voice carries perfume/authority; common-room interrogation uses smiles, pauses, friendly tones. In the game, Randi uses silk, sex-kitten play, social drift, apology, and touch to make desire look ordinary.
 
-“He’s hard to say no to”: Randi first says it in the kitchen to the girls as a perfect social line explaining why she agreed to go out with Pace. Later, she hears the same sentence alone in her room “in a different key” and cannot let the thought continue. The phrase now carries flirtation, pressure, consent, and fear at once. In this chapter, Pace’s game depends on Randi saying yes under conditions he frames as playful and free.
+Pointing / choosing / games: Pace turns unnamed desire into daylight game: “I point. You pick.” It starts as camouflage and becomes permission, teaching Randi the difference between being game for him and shopping for herself.
 
-Pointing, choosing, and permission: first major appearance. Pace creates “the pointing game” after Randi’s body reveals interest in tasting another woman. “I point. You pick” gives Randi cover to choose while keeping Pace as the person who defines the frame. Randi’s desire grows from recoil at public impropriety into active scanning and then a bare “Yes” at Vee. The gesture feels erotic because it gives permission, and troubling because the permission still comes through Pace.
-
-Mirrors, types, and women as grammar: first major appearance. Pace begins with women close to Randi’s own social grammar: polished, lean, Greek-coded, paired, closed, authoritative. Randi rejects the expected mirror, the inseparable pair, the project, and the room-running girl. She pauses at warmth and openness, then chooses Vee, who exceeds the grammar entirely: lush, uncurated, laughing, visible without seeming managed.
+Red / copper / burning: Orange maple burns before the quad changes; Vee’s red hair sparks copper in wind. Red/copper gathers around change arriving before the world admits it.
 
 **Symbolism noticed**
 
-The bench symbolizes concealed intention and structured exposure: a table until it is not, ordinary furniture until its hidden use is revealed, consented-to position until it opens into something Randi did not understand would happen inside her.
+The bench symbolizes hidden purpose: ordinary table as intimate apparatus.
 
-Randi’s face symbolizes polish as defense: beauty, social ease, and being-looked-at as a surface that lets nothing reach the protected self.
+Randi’s face symbolizes controlled availability: beauty that can receive desire without letting it reach her.
 
-The apple symbolizes permitted appetite becoming erotic hunger. Thin slices are safe; eating from Pace’s hand and mouth becomes a way desire slips past rules.
+The locked bathroom door symbolizes a boundary Pace respects and a concealment Randi chooses.
 
-Locks and doors symbolize control over access. Randi’s first lock secures Pace’s house behind her; the bathroom lock protects her from Pace’s tenderness; the final key image marks an internal closing; the quiet closing of the sorority house door and bedroom door shows her trying to pass unseen rather than command the room.
+The apple symbolizes permitted appetite, portioned want, and Pace’s attention to how Randi consumes.
 
-Randi’s single room symbolizes privacy without real refuge. It is hers alone because of Standards, but once she is inside it she cannot use it to recover; its order only shows how far she is from herself.
+The sorority common room symbolizes soft social standards: authority, class judgment, and sexual monitoring via warmth, laptops, coffee, smiles.
 
-The duvet symbolizes inadequate comfort. It covers Randi’s body in the cold room but is only “light and synthetic and adequate,” pointedly not the warmth or holding she cannot bear from Pace.
+The cold duvet symbolizes the poverty of Randi’s old comforts after Pace’s warmth: adequate cover, not holding.
 
-The pointing game symbolizes permission disguised as play. Randi can want because Pace has made wanting into a game with rules, but the same game also lets him arrange the field in which her yes appears.
+The pointing game symbolizes permission disguised as play: desire comes out laughing before it must stand naked.
 
-The burning maple symbolizes sudden visible change before the rest of the world has changed with it. It stands near the chapter’s movement from hidden desire to a public, glowing choice.
-
-Vee’s red hair and full-body laughter symbolize uncurated aliveness: a kind of bodily freedom that arrests Randi because it does not fit the narrow standards she lives by.
+Vee’s red hair and whole-body laugh symbolize uncurated appetite, abundance, and public aliveness Randi denies herself.
 
 **Open questions**
 
-When will Vivienne appear under the name Vivienne Thorne, and is Vee definitely Vivienne?
+How did Randi and Pace begin, and what exactly is the “plan” the packet says exists?
 
-How will Randi use the shared stats class to approach Vee again?
+What does Vee feel or notice about Randi, and what is Vee’s inner life beneath the vivid first impression?
 
-How will Randi and Pace move from this first contact toward the jacket’s plan to involve Vivienne/Vee as the third in their bed?
+What did Pace’s past with Daphne cost him, and how does it shape what he permits himself now?
 
-Will Vee learn that she was selected through a sexual game before Randi met her?
+Will Randi keep hiding the self Pace found, or will Vee make that impossible in a different way than Pace did?
 
-Will Pace realize that Randi’s post-bench recovery was partly a performance?
+Does Pace know Randi’s last name, social world, and sorority life fully, or is there more distance there than intimacy suggests?
 
-Will Randi tell Pace anything true about what the bench scene did to her, or will she keep the face in place?
+How much did Brooke infer from Randi’s Saturday-morning return, and will the sorority’s judgment matter beyond this scene?
 
-What exactly is Randi and Pace’s arrangement: lovers, boyfriend/girlfriend, secret affair, or something less named?
+Can Pace keep the game genuinely for Randi once Vee is a real person in it, not just a pointed-at possibility?
 
-How much does Randi understand about Pace’s power over her, and how much does Pace understand about the risk in his own certainty?
+**How I feel — overall**
 
-What role will Brooke and the sorority world play beyond social pressure and imagined judgment?
-
-Does Brooke actually suspect Randi is lying, or is her questioning simply ordinary Standards vigilance?
-
-What will Randi do with the thought “He’s hard to say no to” now that it has returned in a darker key?
-
-Can Randi want Vee as herself, or only through Pace’s permission and the safer story of a gift to him?
-
-**How I feel**
-
-Toward Randi: drawn to her, worried for her, protective, and now more aware of her desire as real and specific. She is not innocent in the jacket’s larger game, but on the page she feels wounded, hungry, socially trapped, and more frightened than she can admit.
-
-Toward Pace: strongly attracted to his patience and attention, but now deeply uneasy. His care is real, and so is his blindness; this chapter makes him feel even more dangerous because he is so convinced that his control is kindness.
-
-Toward Vivienne/Vee: newly captivated and concerned. Her arrival has warmth, body, humor, and ease; I want more of her, and I dread how little she knows about the frame already around her.
-
-Toward Brooke: alert and wary. She is warm and competent, not openly malicious, but her social authority is frightening because it barely has to show itself.
-
-Toward Sloane: mildly wary. She seems casual and funny, but her noticing adds to the feeling that Randi is always being read.
-
-Toward Kinsey: lightly uncomfortable. She feels less powerful than Brooke or Sloane, but her eagerness to join the room’s judgment still presses on Randi.
-
-Overall mood: bright, erotic, and ominous. The book has moved from private aftermath into public selection, and the thrill of Randi’s desire is inseparable from the dread that Vee is walking into a game she has not been told exists.
+I leave turned on, swept up, and newly nervous. Pace feels careful and tender but more openly powerful in how he frames Randi’s choices. Randi feels more alive and more vulnerable because wanting outruns the face. Vee’s radiance makes Randi’s yes instantly legible. The book now feels less like private erotic awakening and more like a triangle beginning before one person knows she has been invited.
 
 ### Chapter record
 
-Randi appears in bed with Pace, then walking on campus with him. She has black fine hair drawn back into a sleek tail with a single scrunchie. She showers, dresses, and puts her face back on before the campus walk. She says she is hungry but refuses a cheeseburger: “I can’t eat that.” During the pointing game she rejects multiple women, says “maybe” to a girl on the library steps, says “Yes” to the red-haired girl from the dining hall, then revises it into “Uh — yeah. Yeah. I like her.” She approaches the red-haired girl by arranging a small collision, touches her arm, talks with her for about two minutes, and returns grinning. She reports, “Her name is Vee. And we’ve got a stats class together.”
+Randi appears in bed with Pace, orgasms from his mouth, kisses him while his mouth is wet from her, has intercourse with him, answers yes to liking the taste of herself, comes again when he asks whether she would like to taste another woman, and later says she wants that “only in a threesome” with him. She showers, puts her face back on, dresses, walks campus hand-in-hand with Pace, rejects several women as possibilities, says she is hungry but cannot eat a cheeseburger, chooses Vee with a bare “Yes,” meets Vee through an engineered small collision, learns Vee’s name and that they have stats together, returns glowing, kisses Pace twice, and accepts being taken to eat.
 
-Pace appears in bed with Randi, performs oral sex on her, enters her while she is still coming down from orgasm, kisses her with his mouth still wet from her, asks whether she would like to taste another woman, later asks whether she actually wants to taste another woman, and then takes her for a walk on campus. He wears clothes after getting out of bed; specific clothing is not described. On campus he points out women for Randi to consider and says, “I point. You pick.” He points at Vee and says “Her.” He tells Randi, “Go meet her,” then stays back by a light pole at a comfortable angle to the lawn and watches from far enough away that he can see but not hear. After Randi returns, he says, “Let’s go feed you.”
+Pace appears in bed with Randi, gives her oral sex, has intercourse with her, asks whether she wants to taste another woman, waits to ask again after the heat leaves the room, recognizes Randi’s attempt to move the desire onto him, agrees easily, suggests a walk on campus, invents the pointing game, points out women for Randi to consider, tells her “I point. You pick,” points out Vee, tells Randi to go meet her, stays back by a light pole, watches the meeting, and says, “Let’s go feed you.”
 
-Vee appears leaving the dining hall with an unnamed friend. She is tall and lushly built, with full breasts, a deep waist, wide hips, athletic balance, warm dark red hair loose to the shoulder blades that sparks copper in the sun, a snub nose tipped up at the end, and cinnamon freckles across her nose and the tops of her cheeks. She wears a soft drapey thing in no particular color, a denim jacket, a canvas bag slung careless and crosswise, and soft boots. She is laughing with her whole body when first seen. She is walking with another girl, then collides lightly with Randi, apologizes visibly, laughs, exchanges names, talks briefly, and continues up the walk. Randi later says her name is Vee and that they have a stats class together.
+Vee appears outside the dining cafeteria with an unnamed female friend. She is tall, lush, athletic, full-breasted, deep-waisted, wide-hipped, balanced, and abundant; she wears a soft drapey thing in no particular color, a denim jacket, a canvas bag slung careless and crosswise, and soft boots. She has loose warm dark red hair to the shoulder blades, sparking copper in the wind, a snub nose tipped up at the end, and cinnamon freckles across her nose and cheeks. She laughs with her whole body, talks with her friend, collides with Randi, apologizes, laughs, exchanges names, and continues up the walk. Randi reports that her name is Vee and that they have a stats class together.
 
-Vee’s unnamed friend appears with Vee leaving the dining hall, talking while Vee listens with her head tipped. She laughs during the small collision conversation and continues with Vee afterward.
+Vee’s unnamed female friend appears walking with Vee from the dining hall, talking with her, laughing during the collision and brief conversation, then continuing up the walk.
 
-An unnamed man sits alone at one of the quad tables with a tray from the grill: a cheeseburger in waxed paper and a paper boat of fries gone slightly translucent with grease. The smell of beef, salt, and hot oil carries on the wind.
+Unnamed campus figures include a man eating a cheeseburger and fries at a quad table; a petite polished woman with dark hair in a high sleek ponytail, leggings, oversized Greek-pastel quarter-zip, canvas tote, clipped water bottle, and white trainers; two athletic-center women with gym bags, one in lavender and one in sage, blond hair up with oversized scrunchies, one harder-bodied with a sprinter’s build and sharp chin, one softer and rounder-faced; a tall closed girl in a camel coat with AirPods, structured bag, ash-brown blunt shoulder-length hair, narrow triangular face, and tidy chin; a girl on the library steps with round wire glasses, green knit beanie, honey-blond strand, soft snubbed nose, loose limbs, and a friend with whom she shares earbuds; a striking white-blond girl in a blazer with a wide confident face and a public smile; assorted students on the quad, near the dining hall, and passing Randi and Pace while they kiss.
 
-Unnamed campus woman one: petite, narrow through shoulder and hip, oval face, small straight nose, dark hair in a high sleek ponytail, wearing leggings, an oversized quarter-zip in Greek pastel, a canvas tote with a water bottle clipped to it, and box-fresh white trainers. She walks toward the colonnade with chin level and phone in hand but not looked at. Randi rejects her as “Too expected.”
+Objects and settings include Pace’s bed, clothes, a door Pace holds, campus lower lot, brick walk, old academic row, white pediments, red brick, colonnade, columns, quad, grass, maples, dogwoods, chapel, one orange sugar maple, frisbee, speaker, quad table, grill tray, cheeseburger in waxed paper, paper boat of fries, phone, Greek pastel quarter-zip, canvas tote, water bottle, white trainers, athletic center glass doors, gym bags, matched athleisure, chunky trainers, oversized scrunchies, practice fields, library steps, earbuds, green knit beanie, phone on the step, dining cafeteria, propped doors, trays, low retaining wall, lawn, light pole, Vee’s denim jacket, canvas bag, soft boots, and Randi’s scrunchie.
 
-Unnamed campus women two and three: two women coming out of the rec center through glass doors with gym bags, mid-laugh, wearing matched athleisure. One wears lavender and one sage; both have high-waisted cropped outfits, chunky trainers, oversized scrunchies, blond hair scraped off damp necks, bare bright faces shining from a workout. The one in sage has a harder sprinter’s body, a sharp little chin, and moves fast and sure. The lavender one is rounder in the face, softer, slower, trailing a half-step and laughing up at her friend. Randi rejects them because they go everywhere together: “You’d get both or neither.”
+Time and atmosphere: the chapter begins after sex in Pace’s house, then moves to a Tuesday afternoon on campus. The afternoon is cool, dry, sunny, and windy; the valley produces days like this only a few times a year. Summer-green grass remains, nights turned cold the week before, dogwoods have rust at the tips, and one sugar maple near the chapel has turned orange. The campus current is a Tuesday-afternoon flow, and the dining hall current thickens around four o’clock.
 
-Unnamed campus woman four: tall, walking fast, AirPods in, structured bag in crook of forearm, dressed older than her age in a camel coat too warm for the afternoon, long lean build, ash-brown hair blunt at the shoulder, narrow triangular face with tidy chin, handsome more than pretty, closed expression. Randi rejects her before Pace finishes pointing: “She’d be a project.”
-
-Unnamed campus woman five: on the library steps with a friend, in the four-o’clock sun, sharing a single pair of earbuds with the friend, phone lying faceup and ignored on the step. She has a round face, soft snubbed nose, round wire glasses she pushes up with one knuckle, a green knit beanie though it is not cold, a honey-blond strand escaping it, loose-limbed posture, back on elbows, legs stretched down the steps. Randi says “Maybe.”
-
-Unnamed friend of campus woman five: sits with her on the library steps, sharing earbuds. No further description.
-
-Unnamed campus woman six: striking girl mid-laugh in a knot of friends, wearing a blazer, with a white-blond blowout in loose curls that survives the wind, wide confident face, and a smile she already wears before anyone earns it. She has the authority of someone who chairs things and runs the room. Randi rejects her quickly: “God, no.”
-
-Unnamed friends of campus woman six: a knot of friends around the white-blond woman. No individual descriptions.
-
-Other unnamed students move through the quad alone, in pairs, and in clusters; some drift, some cut across the grass. Somebody throws a frisbee. Somebody has a speaker playing low about two hundred feet away, with bass arriving a half-second behind the rest.
-
-Locations and rooms: Pace’s bed/bedroom; the route from Pace’s house to campus is implied but not described; lower lot; brick walk; college quad; old academic row with long colonnade, white pediments, red brick, columns casting afternoon shadows; athletic center/rec center with glass doors; practice fields; library steps; chapel area; dining cafeteria/dining hall with broad doors and propped doors; low retaining wall near dining hall; light pole near the lawn.
-
-Landscape and weather: Tuesday afternoon. The valley has a rare good afternoon: cool enough for sun warmth to be welcome, dry moving air, wind from the ridge in long slow passes. Maples turn their leaf undersides pale in the wind. Grass is still summer-green and expected to stay green another month. Nights came in cold the week before. Dogwoods at the edge of the quad have started to rust at the tips. One sugar maple near the chapel has turned fully orange, “a single tree burning orange.”
-
-Objects and props: scrunchie in Randi’s hair; cheeseburger in waxed paper; paper boat of fries; tray from the grill; phones; canvas tote; clipped water bottle; white trainers; gym bags; chunky trainers; oversized scrunchies; AirPods; structured bag; camel coat; single pair of earbuds; phone on library step; round wire glasses; green knit beanie; blazer; canvas crossbody bag; soft boots; dining hall trays; light pole.
-
-Clothing: Randi’s exact outfit is not described beyond her sleek ponytail and scrunchie. Campus women wear leggings, oversized quarter-zip in Greek pastel, athleisure in lavender and sage, cropped workout clothing, chunky trainers, camel coat, green knit beanie, blazer, and Vee’s soft drapey clothing, denim jacket, canvas crossbody bag, and soft boots.
-
-Time and duration: The chapter begins after or during an afternoon sexual encounter, then moves to campus in the afternoon. The campus current is specifically Tuesday afternoon. The library scene is in the four-o’clock sun. Randi and Vee talk for about two minutes. The grass will remain green another month; nights became cold the week before.
+Physical details: Randi has black fine hair drawn back into a sleek tail with a single scrunchie. She is smaller and narrower than Vee. Pace is physically close enough to whisper at Randi’s ear, holds her hand, kisses her, and later leans against a light pole. Vee is about a half-head taller than Randi.
