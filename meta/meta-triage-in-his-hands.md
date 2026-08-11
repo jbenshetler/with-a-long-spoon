@@ -110,3 +110,21 @@ re-litigate. Verdicts re-open on a text edit to the passage.*
   (`:97` "She didn't ask.": reflex → choice → kindness, and the only short flat
   sentence carrying the stop), #19c (`:101` "a man talking about a friend": the
   pity-not-romance defusal, confirmed landing across the panel).
+
+## Load-bearing wording — do not trim
+
+- **`:25` "**Sometimes** I take care of it myself." (author, 2026-08-11).**
+  The adverb is **canon, not a hedge.** Without it the sentence reads as a
+  complete account of his outlet, which is false — he is sleeping with Randi.
+  "Sometimes" makes the answer *true and incomplete*, which is exactly the
+  register of "I'd never share your photograph" at `:41`: two technically
+  honest evasions in one exchange, the chapter's designed genie-bargain run
+  twice. It also sharpens rather than softens the beat kimi-k3 named as "the
+  first time his *words*, not his silences, have done the managing" — the
+  omission now works alone, with no falsehood to hide behind.
+
+  **Standing instruction to any line edit or copyedit:** this is the exact
+  shape those instruments flag as a weak qualifier softening a flat
+  declarative. Never propose cutting it, and never accept a proposal to. The
+  rationale is invisible from the page, so a reviewer who does not know about
+  Randi will read it as a tic.
