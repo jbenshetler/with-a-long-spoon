@@ -4,107 +4,108 @@
 
 ## Reader reaction
 
-# The Felt Read
+## The felt read
 
-So *this* is the game. Three chapters in and the jacket's abstract promise — "picked Vivienne Thorne out across the quad and decided, with him, that she would be the third in their bed" — becomes a literal afternoon on the quad, Pace pointing, Randi vetoing, until the redhead comes out of the dining hall and it's *her*. I have to hand it to the book: the walk is genuinely thrilling to read as a piece of choreography, and also it made my skin crawl in exactly the way it seems to want to. Both things at once.
+So there she is. Vee. Named on the last page, copper-headed and lush and laughing with her throat bare to the sky — and the whole chapter was a machine built to deliver me to exactly that sight. I've been waiting for her for two chapters and the book made me wait until the final beat and then gave her to me the way it gave her to Randi: all at once, undressed, drawing the eye as nothing else on the quad had.
 
-Let me start with the opening, because it's the most naked look I've had at Pace's *method*, and it moved my feeling about him — hardened it. He waits until she's mid-orgasm, "undefended," and slides the question in — "Would you like to taste another woman?" — and the narration is completely candid that this is a technique: "It was not fair to ask it now, and he knew it was not fair. He asked it anyway." The whole passage about the door — "A wanting she allowed herself was only a wanting. A wanting she'd forbidden was a door. And he was, by some old architecture, a man who could not leave a door like that closed once he'd seen it was there." That's the clearest self-portrait of him I've gotten, and it's chilling. He frames it as *giving her a gift she can't reach for herself*, and the prose lets him believe it — "what he was bringing her was good" — but I don't. I've now watched him extract a truth from her body while her mind was offline, twice, and then congratulate himself on the "kindness" of letting her keep the disguise. The tenderness is real and it is a tool, and the book refuses to let me separate those, which is the source of the dread.
+First, the body: the opening worked on me, plainly and hard. The taste-of-yourself sequence is some of the most effective erotic writing I've hit yet — not because it's graphic (though it is) but because of the *mechanism*: he asks "Would you like to taste another woman?" and **the question reaches her body before it reaches her** and she comes on it, "far too fast for anything his body was doing to account for it." Desire arriving as involuntary confession. That's exactly the interior-under-the-wanting thing I read for, and it's rendered with real heat, not clinically. The afterclench, the astonishment, "a desire too new and bright to have a name yet" — I felt swept up.
 
-And here's what genuinely unsettled me: the moment Randi *moves* the wanting — "Only in a threesome. With you." — and Pace recognizes it as beautiful and then thinks, "the frame she'd built to hide in was the exact frame he needed to proceed." Her defense mechanism is *load-bearing for his plan*. Her way of surviving the wanting is precisely the door he walks through. That's a nasty, elegant piece of writing and it deepened my sense that he is a predator who has convinced himself he's a benefactor.
+And then the chapter did something that recolored the swoon and I want to be honest that both things are true: **this is Pace's POV, and Pace is running a game.** All my open questions about whether his tenderness is what it looks like — answered, and the answer is the worst kind, the *both* kind. The tenderness is real. He kisses her "for no reason but that he wanted to." He wants her "gathered back into herself when he asked, free to weigh it and choose; that mattered more to him than the answer did." He genuinely wants her to have joy. AND every bit of it is instrumentation: "he wanted the game to give that wanting air in daylight," "the wrapper the wanting needed to come out in, and letting her keep it was the kindness." He is engineering her desire and calling the engineering kindness — and the horrifying thing is he might be *right* that it's kind. I don't get to dismiss him as a manipulator. He sees her more truly than anyone, and he's using what he sees to move her toward something. That's darker than cruelty.
 
-Now — Randi. My sympathy for her from the last two chapters complicated here in an interesting way, because for the first time she's not the hunted, she's the *hunter*. And she's magnificent at it, and she *lights up*. The pointing game turns her on — "She had stopped being a good sport a quarter mile back. She was shopping." The collision engineered so cleanly that Vee apologizes to *her* — "a decade of dance and three years of whatever sorority actually taught, all of it folded down into three seconds" — is a bravura beat. I felt her joy, the "half-second of happy footwork she didn't decide to do." And that's what curdles it: she's happiest, most alive, when she's deployed as Pace's instrument onto a third person. The hollowed-out girl from Chapter 2 is here shining, and the thing making her shine is being conscripted into hunting a stranger. I don't think she knows she's the tool and not the player. She thinks the choosing is hers because he *told* her "I point. You pick" — and she found it delicious. But he pointed at Vee. The last point was his.
+The single most chilling passage for me: after she moves the wanting — hands the appetite to him, makes herself "its generous instrument," a girlfriend offering a gift rather than a woman who hungers, "not a woman who hungered for another woman, which was unsurvivable" — he *understands exactly what she did and lets her keep the costume.* "She could live inside the second version. She could not live inside the first." He watches her save her own life with a lie and he approves of the lie because it serves the game. God. That's the carry-forward "face" motif operating now from the *outside*, seen by the one person it can't fool, who chooses not to break it because the intact face is more useful to him.
 
-The catalogue of rejected girls is doing real characterization work — I learned Randi's taste by watching her reject: not the mirror (too expected), not the sealed pairs, not the closed "project," not the one who "runs the room" (the strong, real *no* at the blazer girl who performs ease *at* people — that no felt personal, like Randi recognizing something she hates or fears in herself). What she says yes to is warmth, openness, a woman "glad to take up room" — and then Vee, who laughs "like a person who had genuinely forgotten, for the length of the laugh, that she could be seen." That line landed hard. Vee is defined, in her first appearance, by *un-self-consciousness* — the exact thing Randi and Pace both lack and police. Of course they want her. She has the thing they've each locked away.
+The pointing game itself is a gorgeous, dreadful set piece. The parade of women is doing double work — it's a portrait of Randi's taste (and therefore of Randi) drawn entirely through her verdicts. "Too expected." "You'd get both or neither." "She'd be a project." The camel-coat girl, the matched sage-and-lavender pair, the room-runner she rejects with real feeling ("God, no"). Not the mirrors, not the closed ones, not the performers. And I clocked the tell that Pace clocks: "She would have told him she was being a good sport about his game; she had stopped being a good sport a quarter mile back. She was shopping." Her own appetite surfacing through the cover of playing along. The follow gathering herself a half-beat before the lead moves — the dance metaphor is doing a lot and I bought all of it.
 
-**Vivienne.** Finally. And she's rendered as the anti-Randi at every axis: lush where Randi is "the proper scale," red where Randi is black, freckled-and-forgetful-of-being-watched where Randi is all managed surface. The detail that she moves "like an athlete despite all of it, or under all of it" — command and abundance in one frame — makes her more than a body; there's a self there. I feel protective of her already, and I've had one paragraph of her. Because I know what's coming for her and she doesn't. The jacket told me: "They told her nothing." That line is now horribly concrete. She apologized for a collision that was inflicted on her. Her name is Vee, they have a stats class, and she thinks she just met a friendly girl on the quad. I dread every step toward her.
+And Vee is built as the anti-grammar. Everything Randi's Standards-board eye is trained to grade — "the surface offered the grammar nothing." Lush where Randi is portioned, uncurated where Randi is disciplined, laughing "like a person who had genuinely forgotten, for the length of the laugh, that she could be seen." That last clause is the knife: Randi, who has *never once* forgotten she can be seen, who decides every morning how much of herself the day gets, pointed at the one woman on the quad who isn't managing her own visibility at all. Of course that's the "yes." Of course it comes out bare, "with nothing around it — the bare arrival of a thing already true before she got to it." I ached.
 
-**Erotic charge.** The opening sex is a 3 and it works on me — the taste-of-herself kiss, the third orgasm pulled out of a single sentence — but it's laced with unease the whole time because I can see the interrogation running under it. The quad walk is where the *real* heat is, and it's the sneakiest heat the book's done: clothed, ambling, and building through the vetoes to the kiss on the mouth after "Maybe" where "he knew the moment her own taste reached her." That's a genuinely erotic move. The charge peaks not at the sex but at the collision and the bare "Yes." The eroticism and the predation are the same current here, which is the book's whole unnerving proposition.
+The collision is the swoon and the dread fused. Randi's engineered "accident" — a decade of dance folded into three seconds so clean that *Vee* is the one who apologizes, hand flying to her own mouth. I found it genuinely thrilling to watch and genuinely sinister that it's a hunt dressed as chance. And then she comes back "failing to hide the grin," lit up, feet doing happy footwork she didn't decide to do — and I wanted her to have this, wanted it badly, at the exact moment I understood she's been walked to it on a leash she can't feel.
 
-**Friction.** Very little. The prose occasionally over-narrates Pace's mastery — I don't need to be told "the follow had felt the music and broken frame before the lead called the step" *and* "the follow gathering herself a half-beat before the lead moves" within the same chapter; the dance metaphor got run twice. And "He liked being right about her. He liked, even better, the places she surprised him" is a hair too pleased with itself, the narration adopting his self-satisfaction a little uncritically. But these are small. The one thing I'll flag is that we are now deep inside Pace's head admiring his own operation for a whole chapter, and it's seductive writing — I have to keep reminding myself to resist the frame it's offering me. Which may be the point.
+Where's my suspicion now? It's not suspicion anymore, it's knowledge: Pace is the operator. But — and this matters — the book refuses to let him be a simple villain. He is *happy for her*. "He felt a deep warmth in his body at the sight of it." The warmth reads as real. That's what unsettles me most and what I trust the book to keep complicated.
 
-**The titles.** "The Pointing Game" is exactly what it says — refreshingly literal for once — but the *game* word is doing the sinister work, tying straight back to the jacket's "It began as a game." Reading it, I kept hearing the tagline: "Every yes was freely given. That was the trap." Randi's every yes this chapter *was* freely given, gleefully given — and it was engineered out of her at the moment of least defense, then routed through the one disguise she needed. The trap isn't coercion; it's that the yes is real. And now I understand "the third in their bed" as the endpoint of a hunt Vee is walking into as prey who thinks she's just been befriended. *With a Long Spoon* — "he who sups with the devil needs a long spoon" — is finally legible: someone here is the devil, and I think the horror the series is building is that *nobody at the table brought a spoon*, least of all the two who set it.
+Trust in Randi: unchanged and deepened — she is more competent and more captured than ever, and she just did the most alive thing I've seen her do (the bare *yes*) in the middle of the most controlled operation I've seen her run. Toward Vee: instant, protective tenderness. She's the innocent here — pointed at, collided with, name harvested, a class schedule already logged ("we've got a stats class together"). She thinks she just met a nice girl. She has no idea she's the gift moving toward someone's hands.
 
-**What I want / dread next.** I want Vee's POV, badly — I want to be inside the girl who apologized, to feel the friendship land on her as warmth while I know its origin. *Guess from here:* the next chapters bring Randi and Vee together as "best friend" (the jacket's word), and the ache will be watching Vee be genuinely lifted and seen by someone hunting her. I also suspect — jacket again — that Randi and Pace's own "falling as hard as she is" starts to go off the rails of their own plan. My dread is specific now: it has a copper head and a snub nose and it forgot it could be seen.
+The titles. **"The Pointing Game"** is exactly literal and only reveals its full weight in retrospect — "I point. You pick." The mechanism named. **"A Polite Invitation"** just detonated for me: the whole afternoon *is* the invitation, extended so gently, dressed as a good idea and a walk on campus, that the invited party mistakes being steered for being asked. And **"With a Long Spoon"** — sup with the devil with a long spoon — Pace literally stands back at a light pole, "far enough back to be nobody," feeding the whole thing from a distance, never touching the collision he authored. The long spoon is his method. That image did real work.
 
----
+What I want and dread next: I want the stats class. I want to see Vee become a person and not stay a pointed-at object, because right now I love her and know nothing about her interior. I dread the shape of the jacket's promise (Randi steers Vee to Pace) becoming visible to Vee too late. I'm braced for a three-way apparatus in which two women are being run and only one man knows the game — and for the possibility that Randi's real, bare wanting for Vee becomes the thing that's actually cruelly used.
 
-**Cast present (in person):** Pace, Randi, Vivienne ("Vee") — first appearance, and her unnamed friend.
-**Mentioned-only:** Brooke, Sloane, Kinsey (from prior chapters; not here).
+*Guess from here:* the "threesome, with him" framing is the trap Randi built to survive her own desire, and the book is going to make her live inside version one after all.
 
-**Heat:** 3 — sustained explicit opening sex, then a clothed erotic build across the whole walk peaking at the taste-kiss and the collision.
+## Structured block
 
-**Romance:** 2 — real tenderness in the bed ("kissed her... for no reason but that he wanted to"), but it's inseparable from the operation, so it never reaches an uncomplicated peak.
+**Cast present (in person):** Pace, Randi; Vee (appears at the end — the collision, the exchange of names). Vee's unnamed friend (walk-on). *Mentioned/observed-only:* the parade of women on the quad (all anonymous — ponytail girl, sage/lavender pair, camel-coat girl, library-steps girl, blazered room-runner).
+
+**Heat:** 3 — sustained graphic opening (oral, penetration, three orgasms, the taste-of-yourself thread), then the whole walk runs charged; the erotic engine never fully cools.
+
+**Romance:** 2 — real tenderness on the page (the unprompted kiss, "she deserved that gentleness"), but every warmth is shown as instrument, so it reads as intimacy-in-service-of-something.
 
 **Motifs & images:**
-- *Doors / the forbidden* — REPEAT and transformed: last chapter "there being no door" (repression); here the wanting-she-forbade is "a door" he "could not leave closed." The motif flips from her having no exit to him finding an entrance.
-- *The face / the mask / the recovery* — REPEAT (mirror ch.1, lagging mask ch.2): here the recovery caught mid-work three times — the flinch, the bare "Yes," the grin she can't manage down.
-- *Appraise-by-cost / grammar of correctness* — REPEAT: Randi grading each girl by scale, shoe, type; "Randi's eye would find nothing in it to grade" (Vee defeats the grammar).
-- *Portioned appetite* — REPEAT (apple slices, egg whites): "I can't eat that," refusing the cheeseburger without a glance.
-- *Being seen vs. looked-at* — REPEAT: Vee "laughing like a person who had genuinely forgotten she could be seen" — the whole motif crystallized in the target.
-- *Warmth vs. cold* — REPEAT: she's "still warm from his bed"; Vee is warmth, openness.
-- *Dance / the follow* — FIRST as sustained image (danced together mentioned ch.1): Randi as the follow breaking frame before the step is called.
-- *The burning maple* — FIRST: the one tree gone orange in a field that hasn't decided to change; recurs as a bracket around the chapter's key beats.
-- *Red / copper hair* — FIRST: Vee's defining image, lifted by the wind "the whole time."
+- *The face / performed self* (repeat, ch.1–2): now seen from *outside* by Pace, who reads through it and lets her keep the costume — "she could live inside the second version." Charged: the moved wanting, "a different owner."
+- *Portioned appetite / discipline* (repeat): "I can't eat that" re the cheeseburger, no glance back; "she had decided that morning how much of herself the day would get." Vee is the anti-portion. Bookends with "Let's go feed you."
+- *Doors / holding the door* (repeat, recolored): ch.1–2 she closed doors wrong; here **he holds the door** for her, twice framed — the man managing the thresholds.
+- *Dance / follow-and-lead* (first sighting, major): "a follow gathering herself a half-beat before the lead moves"; "the follow had felt the music and broken frame before the lead called the step."
+- *Warmth/heat of the body* (repeat): his bed, the good afternoon, "still warm from the afternoon in his bed."
+- *Hair as the one allowed flourish* (repeat of ch.2's oxblood/scrunchie discipline): Randi's disciplined tail "giving it nothing when she didn't"; Vee's copper hair "nothing pinned and nothing trying to be" — the contrast is the whole character.
+- *Pointing / the light pole* (first sighting): he points; he watches from the pole "far enough back to be nobody."
 
-**Symbolism:** The pointing game = the seduction laid bare as a hunt Randi thinks she's authoring. The single burning maple in un-turned green = the one who's changed / been marked out among the unchanged (Vee, or Randi herself). The engineered collision where Vee apologizes = the whole book's mechanism in miniature — the victim thanking/apologizing to the trap. Vee's un-self-consciousness = the un-policed self both hunters have amputated in themselves.
+**Symbolism:** The pointing game = the apparatus (successor to the bench — the plan now in motion). The burning maple, "a single tree burning orange in a field of things that had not yet decided to change" = Randi/Vee's coming change against the unchanged crowd, page-invited. The light pole / watching at a remove = the "long spoon." Vee's forgotten-she-can-be-seen laugh = the unmanaged self Randi can't afford.
 
-**Characterization:** Pace deepened sharply and darkened — the "old architecture" self-account is the most revealing interiority yet, and it's the interiority of a man who mistakes appetite for benevolence. Randi deepened via her taste-in-rejection and via being shown, for the first time, as predator-and-instrument at once; the strong "no" to the room-runner is a real crack of self. Vee arrives vivid but necessarily thin — one paragraph, all surface-as-freedom; I trust the book to fill her.
+**Characterization:** Pace deepened enormously and darkened — POV reveals the operator under the maker, tenderness and calculation genuinely fused, not resolvable to either. Randi deepened — competence and captivity shown simultaneously; her survival-lie ("only in a threesome, with you") is the sharpest self-portrait yet. Vee arrives vivid on surface but interior still blank (correctly — we meet her as an object of others' attention).
 
-**Pace — within chapter:** Excellent control. The bed / the walk / the arrival, each earning its length; the catalogue of girls could have dragged and didn't because each veto taught something. The pole-watching collision is the peak and it's placed right.
+**Pace — within the chapter:** The bed sequence is tight and earns its length. The quad parade risks a touch of list, but each verdict pays off as characterization, so it holds; the escalation to Vee is well-timed. Nothing dragged.
 
-**Pace — chapter to chapter:** Big lift. After two Randi-alone-with-her-repression endings, this breaks outward hard — the plot the jacket promised finally moves, Vee is on the page, and the momentum is up sharply. The watchfulness I had about repetition is relieved.
+**Pace — chapter to chapter:** Major build. After ch.2's cold-room desolation, this is the ignition — POV flip, the game revealed, Vee delivered, the jacket's engine finally turning over. Momentum surged.
 
 ## Carry-forward state
 
-**Who's who**
-- **Pace** — man; grad-student mathematician (Math PhD). White pickup, secluded too-warm house, woodworker. Controlled, patient dominant. This chapter: seen running the "pointing game" — extracts Randi's forbidden wanting mid-orgasm, recognizes her disguise-frame as exactly what his plan needs, and steers her to pick Vee while letting her believe the choosing was hers. Self-account: "a man who could not leave a door like that closed once he'd seen it was there." Believes he's giving a gift; reads to me as a predator who's convinced himself he's a benefactor. Met Randi ~4 weeks ago now. *Seen in person.*
-- **Randi / Miranda** — woman, 21, junior; sorority, Standards board. Black hair (sleek tail, single scrunchie), pale freckled skin, blue eyes, dancer/cheer-trained. Manager of surfaces; repression revealed (ch.2) as structural. This chapter: hunter, not hunted — lights up doing the pointing game, engineers a flawless "accidental" collision with Vee, learns her name + shared stats class, comes back glowing. Moved her forbidden same-sex wanting onto Pace ("Only in a threesome. With you.") to survive it. Taste-in-rejection: not the expected, not sealed pairs, not closed "projects," strong personal *no* to the performer who "runs the room." *Seen in person.*
-- **Vivienne Thorne ("Vee")** — woman; the jacket's third, now ON PAGE. Tall, lush full hourglass, moves like a trained athlete; warm dark red hair to shoulder blades (copper in sun), snub upturned nose, cinnamon freckles. Un-self-conscious, warm, open — "laughing like a person who had genuinely forgotten she could be seen." Clothes defeat Randi's grading grammar. Shares a stats class with Randi. Apologized for the collision inflicted on her; knows nothing. *Seen in person.*
-- **Brooke** — woman. Chapter president; warm-voice interrogator (ch.2); Pace weaponized her name (ch.1). *Seen in person* (earlier).
-- **Sloane** — woman. Sorority sister; ID'd Pace's pickup (ch.2). *Seen in person* (earlier).
-- **Kinsey** — woman. Sorority sister; eager-to-please (ch.2). *Seen in person* (earlier).
-- **Randi's mother** — woman; egg whites/tofu, source of portioned appetite. *Mentioned only.*
-- **Vee's friend** — woman; unnamed, present at the collision. *Seen in person (this ch.).*
+**Principals**
+- **Pace** (= Peter): young mathematician; maker of expensive-eyed furniture; keeps his house warm; tender, exact, controlling. POV this chapter — revealed as a deliberate *operator*: runs a "pointing game," reads Randi's body past her words, engineers her desire and frames the engineering as kindness ("the wrapper the wanting needed"; lets her keep the costume). Watches from a remove, "far enough back to be nobody." Drives a white pickup.
+- **Randi** (= Miranda): 21, junior, sorority; Standards board. Black fine hair in a sleek scrunchie'd tail, pale skin, oval face, startling blue eyes; dancer's trained body, tightly portioned appetite ("I can't eat that"). Four weeks into secret involvement with Pace. Runs a flawless "face" — this chapter it fails at the seams three times (the bare *yes*, the dropped stride, the uncontrolled grin) around Vee.
+- **Vee** (= Vivienne): jacket protagonist, **now on the page.** Tall, lush ripe hourglass built on a lavish scale, moves like an athlete; warm dark-red-to-copper hair loose to the shoulder blades, snub upturned nose, cinnamon freckles. Laughs with her whole body, "forgot she could be seen." Uncurated — offers Randi's grading eye nothing. Shares a stats class with Randi. Does not know she was pointed at / collided with on purpose.
+- **Brooke**: sorority chapter president; warmth-as-instrument; has been probing Pace. Off-page this chapter.
+- **Sloane, Kinsey**: minor sisters (scenery). Off-page.
 
-**Motif & image ledger**
-- *Locks / doors / the forbidden* — locks (ch.1), "no door"/repression (ch.2), now inverted: forbidden wanting = "a door" Pace can't leave closed (ch.3).
-- *The face / mask / the recovery* — mirror (ch.1), lagging mask (ch.2), recovery caught mid-work: flinch, bare "Yes," ungovernable grin (ch.3).
-- *Appraise-by-cost / grammar of correctness* — apple slices, egg whites, furniture cost (ch.1), social ranking (ch.2), grading each girl by scale/shoe/type; Vee ungradeable (ch.3).
-- *Portioned appetite* — (ch.1, ch.2); "I can't eat that" / refused cheeseburger (ch.3).
-- *Being seen vs. looked-at* — blue eyes as currency (ch.1), appraising eyes (ch.2), Vee "forgotten she could be seen" (ch.3).
-- *Warmth vs. cold* — his warm house vs. her cold room (ch.1–2); "warm from his bed," Vee as warmth (ch.3).
-- *Cap under thumbnail* — self-harm tell (ch.1); not seen since.
-- *"Hi"/"Hey"* — minimal greetings (ch.1–2).
-- *Cashmere vs. duvet* — aftercare wrap vs. synthetic adequacy (ch.1–2).
-- *Not-crying / held breath* — (ch.2).
-- *The bench* — instrument disguised as furniture (ch.1).
-- *Dance / the follow* — danced together (ch.1); Randi as follow breaking frame before the step is called (ch.3).
-- *Red/copper hair, wind-lifted* — Vee's defining image (ch.3, first).
-- *The single burning maple* — one orange tree in un-turned green (ch.3, first).
+**Relationship ledger**
+
+*Core — Pace / Randi:* **involved, consummated (y); secret** (from the sorority). **Surface:** boyfriend/girlfriend; she plays "game girlfriend offering her man a gift." **True:** he is running a game to surface and steer her desire toward a woman; she has handed the wanting to him as a survival-costume ("only in a threesome, with you") and he knowingly lets the costume stand because the intact face serves the game. He sees her truly; he uses what he sees, tenderly.
+  - *desire worked-on-her ↔ desire hers:* the chapter's core chord — **both poles at maximum.** Her appetite is genuinely hers (body confessed it twice, ahead of her mind) AND wholly produced/steered by him (question timed, women pointed, meeting engineered). Charged: she comes on the mere question "Would you like to taste another woman?"
+  - *cold ↔ warmth:* **warm** — his bed, the good afternoon, unprompted tender kiss. But warmth shown as instrument.
+  - *isolation ↔ belonging:* surface **belonging** — a sealed two-person game, "something they could make together." Under it, isolating her into a wanting she can only own by giving it away.
+  - *used ↔ cherished:* **both** — genuinely delighted-in and cherished ("she deserved that gentleness"), and simultaneously the instrument of his plan, walked to the target on an unfelt leash.
+  - *This chapter:* no state change; POV reveal converts my prior suspicion to knowledge — his tenderness is real *and* fully instrumental, not resolvable to either.
+
+*Core — Randi with herself:* The "face" now shown failing at the seams under real desire (bare *yes*, dropped stride, involuntary footwork/grin) — the unmanaged self breaks through around Vee. Her defining move: relocating an unsurvivable wanting into a survivable costume ("a girlfriend offering a gift" not "a woman who hungered"). Competence (the dance-clean engineered collision) and captivity coexist.
+
+*Core — Randi / Vee:* **NEW — acquaintances, surface / attracted, one-sided (Randi), secret (from Vee).** First contact: an engineered "accidental" collision Randi executed on Pace's cue; exchanged names, discovered a shared stats class. Randi's helpless "yes" on sight is the realest thing she's shown. Vee experiences it as a friendly bump with a nice girl.
+
+*Core — Pace / Vee:* **NEW — Pace has selected/pointed at Vee; Vee unaware of his existence.** He now has her name, copper head, and (via Randi) a class schedule. He authored the meeting from the light pole and never touched it.
+
+**What I know that they don't**
+- (Vee doesn't know) she was pointed at, chosen, and the collision was a deliberately executed hunt; that she now exists as the target of Pace's game and the object of Randi's real desire.
+- (Randi doesn't fully know) she's being *steered*, not merely playing along — she thinks it's his game she's a good sport for; Pace knows she "stopped being a good sport a quarter mile back" and is shopping. She thinks the threesome-costume is her own clever move; he saw exactly what it protected and let it stand.
+- (Pace doesn't know — carry) she is giving him only the performed self *because* the founding night reached the real her; her self-sealing is now reflexive. (This chapter shows he reads her body past the performance — so the gap may be narrower than she thinks.)
+- (Sorority doesn't know) the truth of the founding night; and the house is probing Pace (Brooke filing his name).
+- (Re: the bench, carry) begun ~7 months ago, predates Randi; "For you. Tonight." Still unexplained; ominous re: the plan.
+- (Caring side) Pace's tenderness is genuinely felt in his body — his happiness at Randi's pleasure reads as real, not faked, even inside the game.
+
+**Motifs**
+- *The face / performed self:* now legible from outside; Pace reads through it and preserves it deliberately. Charged: the moved wanting "a different owner"; the three seam-breaks around Vee (bare *yes*, dropped stride, grin).
+- *Portioned appetite / discipline:* "I can't eat that," no glance back; bookended by "Let's go feed you." Vee = the anti-portion.
+- *Hair as the one allowed flourish:* Randi's disciplined tail "giving it nothing when she didn't" vs. Vee's copper hair "nothing pinned and nothing trying to be."
+- *Doors / thresholds:* recolored — Pace now *holds* the doors Randi used to close wrong.
+- *Dance — follow/lead:* "the follow felt the music and broke frame before the lead called the step."
+- *Cold ↔ warmth:* his warm bed/afternoon (contrast to ch.2's cold room, offstage here).
+- *Pointing / watching from a remove:* the light pole, "far enough back to be nobody" — the long-spoon method.
 
 **Symbolism noticed**
-- Bench = disguised seduction/trap.
-- Face/mirror = divided self.
-- Doors = repression (her) / entry-point (him) — the same image cutting both ways.
-- "Standards" board = surface-appraisal ethic, power and cage.
-- Duvet vs. cashmere = adequate synthetic self vs. disallowed warmth.
-- Pointing game = the hunt Randi believes she authors.
-- Burning maple = the one marked out among the unchanged.
-- Engineered collision, Vee apologizing = the trap's mechanism in miniature (victim apologizes to it).
-- Vee's un-self-consciousness = the un-policed self both hunters have amputated.
+- Pointing game = the apparatus in motion (successor to the waiting bench). Burning maple among undecided trees = the coming change against the unchanged. Light pole / watching at a remove = "with a long spoon." Vee's forgot-she-could-be-seen laugh = the unmanaged self Randi can't afford. Threesome-costume = the survivable owner for an unsurvivable wanting.
 
 **Open questions**
-- Who was the bench built for seven months ago, before Randi (met ~4 weeks ago)?
-- Is Pace's attentiveness love, craft, or predation — and does he know the difference? (Ch.3 leans hard toward predation-in-benefactor's-clothes.)
-- Does Brooke suspect Randi's lie? Will it recur?
-- Now that Vee is chosen: how does the "best friend" befriending (jacket) unfold from Randi's side, and when do we get Vee's POV?
-- The jacket says all three fall "as hard as she is" and it gets "real" — where does the game slip the hunters' control?
-- Does Randi understand she's Pace's instrument, not the game's author?
+- Now that Vee has a name and a shared stats class — how does the steering proceed, and does Vee ever become interior to me rather than a pointed-at object?
+- The jacket says Randi steers Vee *to Pace*; here Pace steered Randi *to Vee* — how do these two vectors resolve? Who is really being delivered to whom?
+- Who was the bench built for, 7 months ago (before Randi)? Is Vee somehow the older target?
+- Does Randi's threesome-costume hold, or does she get forced into "version one"?
+- Does Pace's genuine warmth survive contact with what the game costs, or curdle?
+- Is Brooke/the house still a threat to the secret?
 
-**Story so far**
-Ch.1: Randi drives to Pace's for a controlled BDSM session on a purpose-built bench; he breaks her by invoking her sorority/Brooke, makes her come and weep; in aftercare she flinches, locks herself in the bathroom, resolves at the mirror to retreat behind her "face" forever, rebuilds the mask, stays over. Pace oblivious and proud.
-Ch.2 ("Standards"): Randi comes home in last night's clothes; Brooke interrogates her (the paper lie, the study spot, Pace's name/car/grad school/Math PhD); Randi passes but her mask lags; upstairs, cold room, can't cry — repression revealed as involuntary ("no door").
-Ch.3 ("The Pointing Game"): In bed, Pace times a question — "Would you like to taste another woman?" — to Randi's orgasm, sees her forbidden wanting surface; she survives it by moving it onto him ("Only in a threesome. With you."), which is exactly the frame he needs. He takes her on "a walk on campus" and plays the pointing game — he points at women, she vetoes each by type (too expected / sealed pairs / a project / runs the room), lighting up as she hunts. Then Vee comes out of the dining hall; Randi's "Yes" arrives bare and unmanaged. Pace sends her to "go meet her"; Randi engineers a flawless accidental collision so Vee apologizes to *her*, gets her name and a shared stats class, returns glowing. Pace, at his pole, watches his plan work with contentment.
-
-**How I feel**
-Pace: wariness hardened toward real distrust — this chapter showed the machinery and the self-deception under the tenderness. Randi: sympathy complicated by watching her thrive as predator/instrument; she's most alive doing harm she thinks is play, and I don't think she sees the strings. Vee: instant protectiveness and dread — one radiant paragraph of a girl walking, unknowing, into a hunt. Brooke: residual distrust (offstage). Overall mood: seductive, expertly built menace — the book keeps offering me Pace's benevolent frame and I keep declining it. Strong pull forward, now aimed at Vee.
+**How I feel — overall**
+Swept up and disturbed in equal, deliberate measure — the book earned both. The erotic opening genuinely worked on me; the pointing game thrilled and sickened me at once; Vee's arrival made me ache with tenderness and dread at the same beat. My feeling about Pace *moved* hard: from "tender, possibly-calculating maker" to "operator whose tenderness is real *and* fully weaponized," which is scarier than a plain villain and exactly the complicated I read for. My protectiveness now spreads to Vee, the innocent walked into a collision she thinks was chance. Randi I love and fear for more than ever — most alive and most captured in the same afternoon. Braced for the stats class, and for the slow closing of a trap two women can't yet see.

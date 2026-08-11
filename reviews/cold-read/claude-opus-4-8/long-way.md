@@ -4,96 +4,159 @@
 
 ## Reader reaction
 
-## Felt read
+## The felt read
 
-This one is soft and I hate how much it worked on me.
+Oh, this one is quiet and it *got* me. After the two-hander con of the café, this is almost a relief in tone — just the two of them, walking the long way, and it's tender in a way that made my chest ache exactly because I know what I know. The chapter is short and soft and I felt myself relaxing into it the way Vee does, which is the trap of it.
 
-The froyo date should be nothing — it *is* nothing, it's frozen yogurt, and Vee even says so out loud twice, defending herself against her own wanting. But the chapter runs on the exact charm that scares me most about Pace, and it hit anyway. "Tart on the bottom holds up under the heavy ones. You put chocolate on tart and it's an argument the whole way down." That's a genuinely lovely line, playful and a little show-offy in a way that reads as a man having fun, and then the callback at the very end — "Your tart's holding up," and she looks down and the stack is still standing — is the kind of small, tender payoff that made my chest do something before my head caught up. That's the trap the jacket keeps promising: it doesn't feel like a trap, it feels like the nicest evening a lonely girl has had in a long time.
+The opening: the phone lighting up facedown, "Her stomach went before she did, the drop of a stair missed in the dark." That's the phone I've been waiting for since last chapter, and it came *fast* — twenty minutes. Vee reaches for the flaw first ("Is he desperate?") "because it was easier to go looking for the flaw than to sit in the wanting" — and I love that line for how exactly it names her. And then Randi is right there to disassemble the defense: "He didn't look like a man who needs to be desperate... He looked like a man who wants you." And cruder, grinning: "He wants to see you naked." Randi closing again, dismantling the one-day rule ("The rule's for boys you're not sure about. You're not unsure"). She's still steering, still building Vee's certainty for her, but so lightly it barely reads as pressure — it reads as a friend cheerleading. Which is the apparatus.
 
-And that's what's sick about it, because I *know* — from six chapters back — that this whole encounter is manufactured. He crossed a coffee shop on a signal. So when Vee says "This is the nicest a person has been to me in a really long time. And it's froyo," and winces, I wanted to reach into the book. She's handing him the exact information he engineered the whole thing to extract: that she's starved, that tenderness is scarce for her, that a small kindness lands enormous. And he does the perfect thing with it — "He didn't pretend. He didn't make it large either." He gives the true thing its space. God, he's good. That restraint is the weapon.
+Cassie's one line is pure gold and pure Cassie: "As long as he doesn't make you roll a healer again." Deadpan, off-axis, refusing the romance frame entirely — talking about some video game ex instead. She's the only one at the table not participating in the closing, and the contrast lands even in a throwaway. I clung to it.
 
-The froyo cup running over is the beat that got me most. "Usually she heard her mother before she'd finished, *that's plenty, that's enough now.* Today there was nothing." The policed-appetite thread from earlier chapters, and here for the first time the policing voice just... isn't there. She overfills the cup, it leans, it'll drip, and *she doesn't care.* On the page it's freedom, it's a girl finally allowed to want more than her portion. Underneath it, knowing what I know, it read as the first thing he's loosened in her — appetite un-cuffed in his presence. The "argument the whole way down" and the tart holding up literally become a metaphor for her *holding up under the heavier things being stacked on her,* and the last line reassures her she can take it. I don't trust that reassurance one bit, and I loved it as a line, which is exactly the double-bind I'm in with this book.
+Then the froyo shop, and Pace. God, he's good. "There's a system... Tart on the bottom holds up under the heavy ones. You put chocolate on tart and it's an argument the whole way down." He gives everything the same exact attention — the flavor placards get what her calculus got. "I've thought about most things," said "without apology." It's magnetic and it's *also* another method-named-aloud moment, isn't it — a system, a structure, holding up under weight. He can't stop describing his own method in the objects around him.
 
-Randi's beat is short and pure mechanism. She takes the phone out of Vee's hand — takes it, doesn't ask — reads the text herself, and delivers the verdict: "He looked like a man who wants you... He wants to see you naked." And then she demolishes the one protective instinct Vee has: the wait-a-day rule. "The rule's for boys you're not sure about. You're not unsure." That's Randi doing what she does — dismantling a girl's hesitation and calling it honesty. "Vee wasn't, and all three of them knew it, and that was the whole debate." That line is the cold one. The debate was over before it started; Randi just narrated the foregone conclusion.
+And here's the beat that actually undid me: Vee builds her cup and it gets away from her, too much, leaning — "Usually she heard her mother before she'd finished, *that's plenty, that's enough now.* Today there was nothing." The mother's shaming voice, installed, that's been in her since the start — and in his presence it goes silent, and she finds she doesn't care about the drip. That's a real gift he's giving her, or a real thing happening in her, and it's genuinely lovely. And it's *devastating* because the thing that quiets the voice of "that's enough, that's plenty" — the voice that polices her appetite — is the man who is hunting her appetite. He turned off the governor. She overfills the cup. The froyo *is* the wanting.
 
-Cassie's the one I keep clinging to, and this chapter she's quieter but still herself — "As long as he doesn't make you roll a healer again," and the healer bit is genuinely funny and does real work: it tells me Vee's a caretaker, the kind of girl who'll stay up until two keeping someone else alive, which is *exactly* the temperament these two are going to feed on. Cassie doesn't fight the froyo date. She doesn't look up. She's not sounding an alarm here — she's just present, the one person at the table not selling. I noticed she's gone a little passive, and that worried me: my tripwire isn't tripping.
+The walk: "He asked her things the way her grandfather used to ask things, as though the answer mattered and there was no wrong one, and then he waited through all of it." The waiting again — restraint-as-seduction, the non-performance. "She wasn't used to being the thing a person waited on." That's the whole hunger of her, met precisely. And her little confession — "This is the nicest a person has been to me in a really long time. And it's froyo" — and the wince, "Pretend." And he *doesn't* pretend, doesn't make it large either, just lets "the true thing have its space," and then: "Your tart's holding up." Callback to his own system, and it's charming and warm and it made me melt and it made me sick, both at once, because it's flawless. He never overplays. The tart holding up — she's still standing, still holding, the whole overfull stack of her — and he named it.
 
-No new suspicion earned this chapter — it's all confirmation of the dread I already carried in. Pace does nothing overtly wrong; that's the point and the horror. Every yes freely given.
+## Swoon and dread
 
-**The titles.** "The Long Way" — they literally walk the long way, "not toward anything." As a surface it's just a lovely aimless-evening detail. But *the long way* is also how everything in this book is being done to Vee: no grab, no rush, the scenic patient route to the same destination. Series title *With a Long Spoon* — sup with the devil, use a long spoon — sits right on top of a chapter where the devil is buying froyo and holding the door with his back. And the book title, *A Polite Invitation*: this whole chapter is one. The text he sends isn't a demand, it's "do you like frozen yogurt." The tagline — "Every yes was freely given. That was the trap" — is basically the plot of this chapter. She freely decides not to wait. She freely overfills her cup. Every door opens because she walks through it.
+This chapter swept me up more gently than the café did, and maybe more dangerously for it. There's no seam. The café had Randi's cup-signal, the two-hander, the theater I could point at. Here there's *nothing to point at* — it's just a kind man on a good date, and I fell for it exactly as Vee did, which is the horror of it. The mother's-voice-going-silent beat is the most tender and most damning thing in the book so far. He isn't performing tenderness at her here; the machinery is invisible even to me, and I only know it's machinery because of what I carry in. If I came in cold I'd call this a sweet first date. That gap is the whole experience.
 
-**What I want / dread:** I dread the froyo giving way to the house — the too-warm secluded house, the bench. I want more Cassie clarity and I'm scared she's being lulled like everyone else. *Guess from here:* the pace stays gentle for another chapter or two — real dates, real listening — precisely to make the eventual turn land as betrayal rather than assault. And I keep waiting for Randi and Pace to be in a room with Vee at the same time, because that's the "three" the jacket promised, and it hasn't happened yet.
+## Trust vs. suspicion
 
-## Structured block
+No *new* tell on the page — that's the point and the ache. My suspicion is entirely imported from prior chapters; this chapter itself gives me a clean, warm date. The only thing the text itself flags is the recurrence: Pace narrating a "system," attention deployed identically to everything, "I've thought about most things" — the operator's habit of describing his own method leaking into froyo. And the mother's voice going quiet in his presence: I read that as the appetite-governor being disabled by the very predator of the appetite, but the *page* just offers it as relief and I have to sit with both.
 
-**Cast present (in person):** Vee, Randi, Cassie (coffee-shop table); Vee and Pace (froyo shop / walk). Mentioned only: Vee's mother (the internal "that's plenty" voice).
+## Erotic charge
 
-**Heat:** 1 — clothed, no contact; charge is all in Randi's "he wants to see you naked" and the loosened-appetite froyo overflow.
+Low and warm, not explicit — a 1. The charge is the appetite/overfull-cup register: the mother's voice silenced, "she didn't care" about the drip, Randi's blunt "he wants to see you naked" hanging over the whole date. It's simmering under sweetness, not on the page. It works on me as *wanting*, not heat.
 
-**Romance:** 2 — real tenderness: the waited-out sentences, the grandfather comparison, "the nicest a person has been to me," the tart-holding-up callback. It lands as intimacy, which is the danger.
+## Friction
 
-**Motifs & images:** *Portioned/policed appetite* (repeat — ch.1–4; here first time the mother-voice is absent and the cup overflows). *The phone lighting up* (repeat — end of ch.6; here it actually lights). *Doors held* (repeat of locks/doors — Pace holds the door with his back). *Being waited on / listened to* (repeat — Randi listened in ch.4; now Pace does, grandfather-style). *Spoons* (repeat — ch.4, ch.6; Vee grabs spoons). *"May I"/politeness* → the text is itself a polite froyo invitation (repeat of ch.6). *The long way / not toward anything* (first sighting — chapter title). *Tart-on-the-bottom / argument the whole way down / holding up* (first sighting — froyo-as-metaphor). *Cassie's flat deflating humor* (repeat — the healer joke).
+Almost none. It's a very clean short chapter. If I reach: Randi's "You're not unsure" / "Vee wasn't, and all three of them knew it, and that was the whole debate" is efficient but a hair on-the-nose in summarizing the beat for me — the one place the prose steps back to tell me the score rather than let me keep it. Tiny. Everything else earned its place.
 
-**Symbolism:** Froyo architecture ("tart on the bottom holds up under the heavy ones") = Vee built to bear what's about to be stacked on her; the final "your tart's holding up" = false reassurance she can take it. The overflowing cup with no mother-voice = appetite unleashed in his presence, freedom that's actually the first loosening of a caught thing. "The long way, not toward anything" = the patient scenic route to a fixed destination.
+## The titles
 
-**Characterization:** Pace deepened — the froyo-system riff gives him play and self-amusement, not just menace; "I've thought about most things" without apology is chilling *and* attractive. Vee deepened — the healer detail (caretaker who stays up till two) and the froyo overflow both sharpen her. Randi consistent — pure closer, takes the phone, kills the wait-rule. Cassie held but went slightly passive — present, funny, not alarmed.
+"The Long Way" — they "walked the long way, not toward anything." On the surface, the sweet aimlessness of a good first date, no destination, time stretched out. On the reread-charge: *the long way* is the slow route, the patient route — his whole method is the long way, the restraint, the not-hurrying, the waiting-through. He's been taking the long way to her since a bench seven months ago. The long game. It recolors the tenderness into patience-as-strategy without ever saying so. Nicely oblique.
 
-**Pace — within the chapter:** Brisk and right-sized. The table debate is tight; the froyo walk breathes without dragging; the last line earns the length.
+*A Polite Invitation* / *With a Long Spoon* / and the tagline I don't have in front of me — the "may I call you," the froyo invitation, hospitality-as-bait keeps paying out. "With a long spoon" — you sup with the devil with a long spoon; here the spoon is literal, she "grabbed spoons," and the devil paid for both cups. That reading gets stronger every chapter. The froyo spoon *is* the long spoon.
 
-**Pace — chapter to chapter:** Holding, maybe a half-step gentler than ch.6 — less mechanism on display, more seduction landing. After the double-signal machinery of ch.6, this is the payoff beat: the date the trap bought. Momentum's steady, not sagging; the pull-forward is the dread of when the sweetness turns.
+## What I want and dread
+
+I want to see how far and fast this goes, and I dread it. Guesses from here: the date will end warmly, maybe a first kiss or a careful *not*-kiss (he'd take the long way there too); the phone/texting will accelerate; and somewhere Randi is going to keep steering until the geometry closes — the threesome the vectors point at. I'm watching for the first moment the invisible machinery becomes visible *to Vee*, and I suspect it's a long way off, because he takes the long way. I also want another Cassie beat — she's my one clear window and she barely got a line here.
+
+---
+
+**Cast present (in person):** Vee, Randi, Cassie (café table, opening); Vee and Pace (froyo shop and walk). Mentioned only: Vee's mother (installed voice), Vee's grandfather (simile), an unnamed business-major video-game ex (Cassie's jab).
+
+**Heat:** 1 — no explicit contact; the charge is appetite (overfull cup, silenced mother's voice) and Randi's "he wants to see you naked."
+
+**Romance:** 2 — clear tenderness on the date; the waiting-through, the confession met without pretense, "Your tart's holding up." Genuine intimacy, whatever authors it.
+
+**Motifs & images:**
+- *Method-named-aloud* (repeat, from latent variables/substitution/Euler ch.5–6): now the froyo "system" — "Tart on the bottom holds up under the heavy ones... an argument the whole way down"; "I've thought about most things." The operator describing his method in the dessert.
+- *The mother's voice / appetite-governor* (repeat, carried): "Usually she heard her mother... *that's plenty, that's enough now.* Today there was nothing." First time it goes *silent* — in Pace's presence.
+- *Restraint / waiting-as-seduction* (repeat): he waits through her whole sentence, "still there, still listening, in no hurry to take his own turn"; "letting the true thing have its space."
+- *Coffee/spoons & the left-behind cup* (repeat): she "grabbed spoons and a fistful of napkins"; he pays for both, holds the door with his back — hands-full choreography. The long spoon, literalized.
+- *Doors / thresholds* (repeat): "he held the door with his back."
+- *Randi's warm close* (repeat): dismantles the one-day rule, "You're not unsure."
+- *See-you-later vs. Goodbye* (quiet this chapter).
+- *The tart holding up* (first sighting): his system-line becomes the closing image — the overfull stack still standing = Vee still standing/holding.
+
+**Symbolism:**
+- The overfull froyo cup = Vee's ungoverned appetite; the mother's voice going silent = the governor disabled in the hunter's presence.
+- "The long way" = his patient method, the long game, restraint as route.
+- "Your tart's holding up" = she's still standing under the load; his method named as a compliment.
+- Spoons grabbed / long spoon = supping with the devil, literalized on a date he paid for.
+
+**Characterization:** Pace deepens without a single overt move — the tenderness is total and the method-habit leaks through it (the "system," "I've thought about most things"), consistent and chilling. Vee deepens: the flaw-seeking defense named ("easier to go looking for the flaw than to sit in the wanting"), the appetite let loose, the wince-confession — she's exactly herself, wide open. Randi holds — the warm closer, lighter touch. Cassie gets one line but it's perfectly her (off-frame, deadpan, unmoved). No one went thin.
+
+**Pace — within the chapter:** Brisk and right. The table beat is quick and functional; the date breathes exactly as long as it should and closes on the strongest image. Earned its short length.
+
+**Pace — chapter to chapter:** A deliberate cool-down from the café's two-hander tension into intimate two-person warmth — momentum holds by deepening rather than escalating. The phone lit fast (answering last chapter's open question immediately), then slowed to a walk. No repeated beat; a change of key that builds dread under sweetness.
+
+---
 
 ## Carry-forward state
 
-**Who's who**
-- **Pace** — man; grad-student mathematician (Math PhD). White pickup, secluded too-warm house, woodworker/bench-builder. Controlled patient dominant; predator convinced he's a benefactor. "Ordinary" face, economical body, work-soft clothes, thick steady hands. Ch.6: tutors Vee via Euler's, gives back the pencil, "May I call you," leaves without his coffee. Ch.7: texts fast ("do you like frozen yogurt"); on the froyo date shows playful self-amused charm ("tart on the bottom... an argument the whole way down"; "I've thought about most things"), holds the door with his back, listens grandfather-style waiting out her sentences, meets her "nicest thing" confession without pretending or inflating it, closes with "Your tart's holding up." *Seen in person* (ch.1,3,6,7).
-- **Randi / Miranda** — woman, 21, junior; sorority, Standards board. Black sleek ponytail, pale freckled, blue eyes, dancer/cheer-trained, cold-citrus scent. Manager of surfaces; Pace's instrument who believes she authored the choosing. Ch.6: engineered the coffee-shop "chance" meet via the un-sipped cup signal. Ch.7: takes the phone from Vee's hand to read Pace's text, verdicts "he wants to see you naked," demolishes the wait-a-day rule ("The rule's for boys you're not sure about. You're not unsure"). *Seen in person.*
-- **Vivienne Thorne ("Vee")** — woman; junior; the jacket's third; POV of ch.4, 6, 7. Tall, lush hourglass, athlete's ease; warm dark-red hair, snub nose, cinnamon freckles. Warm, brilliant at applied stats/econ ("the gap between what people say and what they're doing"). Mother-haunted body-shame. A caretaker (ch.7: kept a friend's game-healer alive till 2am a whole semester). Ch.7: goes on the froyo date; overfills her cup for the first time with the mother-voice absent and doesn't care; confesses "the nicest a person has been to me in a really long time. And it's froyo." Wants Pace, defends against the wanting by hunting for flaws. Knows nothing. *Seen in person.*
-- **Cassie** — woman; Vee's roommate/friend/stats seatmate. Terse, ballcap, headphones; the one unenchanted person. Ch.6: clocked Randi's cup-signal without reading it, named the "great-aunt look." Ch.7: dry healer joke (reveals Vee's caretaker streak), doesn't look up, doesn't oppose the date — present but passive, alarm not tripping. *Seen in person.*
-- **Meg** — woman; Vee's floor-mate; at the ch.3 collision. *Mentioned only.*
-- **Brooke** — woman; chapter president; warm-voice interrogator (ch.2). *Seen in person.*
-- **Sloane** — woman; sorority sister; ID'd Pace's pickup (ch.2). *Seen in person.*
-- **Kinsey** — woman; sorority sister; eager-to-please (ch.2). *Seen in person.*
-- **Randi's mother** — woman; egg whites/tofu, portioned appetite. *Mentioned only.*
-- **Vee's mother** — woman; voice policing Vee's body ("Floozies"; "that's plenty, that's enough now"). *Mentioned only.*
+**Principals**
+- **Pace** (= Peter): young math PhD ("finishing... more or less"); maker of expensive-eyed furniture; warm house; tender, exact, controlling operator who engineers desire as kindness. Ordinary pleasant face, light brown hair, thick-knuckled workman's hands; clothes too good for a workman; total economy of movement. White pickup. Ran the tutoring seduction; took Vee's number; texted within 20 minutes. On the froyo date: flawless, patient, never overplays; describes his own "system" in the dessert; "I've thought about most things."
+- **Randi** (= Miranda): 21, junior, sorority Standards board; black hair in a tail, blue eyes, dancer's body, portioned appetite, cold-citrus scent. Four+ weeks secretly involved with Pace. Runs a seamless warmth-apparatus (invisible to Vee); the closer — steers Vee toward Pace.
+- **Vee** (= Vivienne): jacket protagonist, POV. Tall lush hourglass, copper hair loose, snub freckled nose. Econ major who loves the gap between word and deed; socially fluent, hungry to be chosen, lonely, self-managing (mother's shaming appetite-voice installed). Reads Pace's engineered restraint as sincerity. Defends against wanting by seeking the flaw first.
+- **Cassie** (= Cassandra): Vee's roommate/friend, laconic, ball cap; the one person immune to Randi's warmth and the one clear eye — right about theater, blind to the real bond. Deadpan, off-frame.
+- **Brooke**: sorority president; warmth-as-instrument; probing Pace. Off-page.
+- **Sloane, Kinsey**: minor sisters (scenery). Off-page.
 
-**Motif & image ledger**
-- *Locks / doors / keys / bell* — ch.1–4; door-bell on Pace's arrival/exit (ch.6); Pace holds the froyo door with his back (ch.7).
-- *The face / mask / recovery* — ch.1–4; Vee's "social face came online" (ch.6).
-- *Appraise-by-cost / grading / reading clothes* — ch.1–4,6.
-- *Portioned appetite / policed body* — ch.1–4; **ch.7: mother-voice absent, cup overflows, Vee doesn't care — first release of this thread.**
-- *Being seen / listened to vs. looked-at* — ch.1–4,6; Pace waits out her sentences grandfather-style (ch.7).
-- *Warmth vs. cold* — ch.1–4,6.
-- *Cap under thumbnail* — self-harm tell (ch.1); not seen since.
-- *"Hi/Hey" minimal greetings* — ch.1,2,4; Randi's one-word "Randi" (ch.6).
-- *The phone lighting up* — Vee leaves it facedown wanting it (ch.6); it lights with Pace's froyo text (ch.7).
-- *Spoons ringing / stirring* — ch.4,6; Vee grabs spoons at froyo (ch.7).
-- *"Goodbye" vs. "See you later"* — Cassie's finished farewell vs. Randi's scheduled one (ch.4); Pace's "talk soon" (ch.6).
-- *Consent-as-craft / asking / giving back the pencil* — ch.3,6; the whole polite invitation continues (ch.7).
-- *"May I" / polite formality* — Pace's "May I call you" (ch.6); the froyo text as polite invitation (ch.7); rhymes with book title.
-- *Substitution / "turn it into what you already know"* — ch.6 (chapter title).
-- *The long way / not toward anything* — ch.7 (first; chapter title) — the patient scenic route to a fixed end.
-- *Froyo architecture — tart-on-bottom / "argument the whole way down" / "holding up"* — ch.7 (first) — being built to bear what's stacked on you.
-- *Vee's caretaker streak / keeping the healer alive* — ch.7 (first).
+**Relationship ledger**
+
+*Core — Pace / Randi:* **involved, consummated (y); secret.** Surface (to world/Vee): strangers. True: lovers running a coordinated con; under the game his tenderness for her is genuinely felt.
+  - *cherished ↔ used:* **both** — delighted-in AND instrument of his plan. (quiet)
+  - *desire hers ↔ worked-on-her:* both poles at max. (quiet)
+  - *warmth ↔ cold:* **warm** — warmth shown as instrument. (quiet)
+  - *belonging ↔ isolation:* surface belonging (sealed game); under it isolating. (quiet)
+  - *This chapter:* no change; both off-page except Randi at the café table.
+
+*Core — Randi with herself:* the "face" is armor over an unsurvivable wanting relocated to a survivable costume; seamless from outside. *This chapter:* no change.
+
+*Core — Vee with herself:* runs her own managed self (covers the shamed body on purpose, keeps feelings not facts); defends against wanting by hunting the flaw first ("easier to go looking for the flaw than to sit in the wanting"). *This chapter:* in Pace's presence the mother's appetite-voice goes **silent** for the first time — she overfills the froyo cup and doesn't care. Her governor disabled by the hunter of her appetite. Two poles still held: native want AND a want fed by unseen machinery; her econ eye still blind on Pace.
+
+*Core — Randi / Vee:* **acquaintances (surface to Vee) / attracted, one-sided as Vee knows — Randi's warmth instrumented; secret.** Randi is the active closer.
+  - *cherished ↔ used:* Vee feels cherished; I read used/worked.
+  - *desire hers ↔ worked-on-her:* both — native AND produced.
+  - *warmth ↔ cold:* **warm** at flood — the warmth is the instrument.
+  - *belonging ↔ isolation:* Vee feels belonging; I read bait narrowing toward the plan.
+  - *This chapter:* Randi dismantled Vee's one-day "rule" ("The rule's for boys you're not sure about. You're not unsure") and closed the debate — steering Vee onto the date.
+
+*Core — Pace / Vee:* **acquaintances → dating (surface) / the hunt's first solo date (true).** Consummated n. Surface: kind grad student who took her out for froyo. True: the engineered pursuit, restraint-as-seduction, the long game. Vee unaware of machinery.
+  - *cherished ↔ used:* Vee feels cherished (waited-on, listened-to, the true thing given space); I read used.
+  - *desire hers ↔ worked-on-her:* both at max — real pull AND wholly produced; her appetite let off its leash in his presence.
+  - *warmth ↔ cold:* **warm** — the warmth is his most refined instrument; no visible seam even to me this chapter.
+  - *belonging ↔ isolation:* Vee feels chosen/waited-on ("she wasn't used to being the thing a person waited on"); I read the singling-out as the hunt closing.
+  - *This chapter:* first solo date; he texted within 20 min; the mother's-voice-silenced beat and "Your tart's holding up" — deep tenderness executed flawlessly. Vector runs Pace↔Vee directly, warm and gaining.
+
+*Randi / Cassie:* no change (Cassie present at table, no interaction beat).
+
+*Vee / Cassie:* close, easy friends; Cassie offered one deadpan off-frame line (the "roll a healer" jab), unmoved by the closing. No change to bond.
+
+**What I know that they don't**
+- (Vee doesn't know) the café meeting was engineered — venue, seating, Pace's arrival on cue; Randi cup-signaled him; Randi and Pace are secret lovers running a con; she was pointed at and hunted; a man authored all of it.
+- (Vee doesn't know) she reads Pace's engineered restraint as sincerity; her econ instrument is blind to him.
+- (Vee doesn't know) the man who quiets her mother's appetite-voice is the one hunting her appetite.
+- (Randi doesn't fully know) she's being *steered* by Pace, not merely playing along; her threesome-costume is a shield he saw through and lets stand.
+- (Pace doesn't know — carry) Randi gives him only the performed self because the founding night reached the real her; he reads her body past the performance; the gap may be narrower than she thinks.
+- (Sorority doesn't know) the truth of the founding night; Brooke is probing Pace.
+- (Cassie sees but misreads) she clocks Randi as off and reads staging exactly, but reads Pace/Randi as strangers — right on theater, blind to the bond.
+- (Re: the bench, carry) begun ~7 months ago, predates Randi; "For you. Tonight." Unexplained; was Vee a substitute for an earlier target?
+- (Caring side) Pace's tenderness — toward Randi, and the attentiveness Vee felt — is really felt in his body, not faked, even inside the game.
+
+**Motifs**
+- *Method-named-aloud:* the trick spoken over the task — *latent variables*, *substitution*, *Euler's* (ch.5–6); now the froyo "system": tart holds up under the heavy ones, "an argument the whole way down"; "I've thought about most things." The plan/method described in the objects at hand.
+- *The mother's voice / appetite-governor:* installed shaming voice, *that's plenty, that's enough now.* Charged: it goes **silent** for the first time in Pace's presence — she overfills the cup and doesn't care.
+- *Restraint / waiting-as-seduction:* the pencil handed back at the exact solvable line (ch.6); now he waits through her whole sentence, "in no hurry to take his own turn"; "letting the true thing have its space." The non-performance is the performance.
+- *Warmth-as-instrument / the cup as signal:* Randi's warmth swings on cue; her café cup up twice with no sip as a signal (ch.6); here her warm close dismantles the one-day rule.
+- *Coffee/spoons & the long spoon:* Pace walked out of the café empty-handed, Randi weaponized the left cup as proof (ch.6); now literal — she "grabbed spoons," he pays for both, holds the door with his back. Supping with the devil.
+- *Doors / thresholds / the bell:* the café bell (ch.6); "he held the door with his back."
+- *The tart holding up (new):* his system-line returns as the closing image — the overfull stack still standing = Vee still standing under the load.
+- *See-you-later ↔ Goodbye:* scheduled "talk soon" vs. Cassie's finished flatness (ch.5). Quiet.
 
 **Symbolism noticed**
-- Bench = disguised seduction/trap (ch.1). Face/mirror = divided self. Doors/keys = repression / entry & admission. "Standards" board = surface-appraisal cage. Duvet vs. cashmere = adequate self vs. disallowed warmth. Pointing game/collision = engineered hunt Randi thinks she authors. Burning maple = the marked-out one (Vee). Latent variables = unseen cause inferred from effects (the game Vee can't measure). Spoons/cup = manufactured sweetness/signals. Euler's/substitution (ch.6) = predator made legible as helpful stranger. **New (ch.7):** overflowing froyo cup with the mother-voice gone = appetite unleashed in his presence, "freedom" that's the first loosening of a caught thing; froyo architecture / "your tart's holding up" = Vee built to bear the heavier things about to be stacked on her, and falsely reassured she can; "the long way, not toward anything" = the patient route to a fixed destination.
+- The overfull froyo cup = Vee's ungoverned appetite; mother's voice silenced = governor disabled in the hunter's presence.
+- "The long way" = Pace's patient method, the long game, restraint as route.
+- "Your tart's holding up" = Vee still standing under the load; his method named as a compliment.
+- Spoons / the long spoon = supping with the devil, literalized on the date he paid for.
+- Euler / substitution (carry) = the plan's geometry; the lurking person-substitution (Vee for the bench's original target).
+- Vee's econ eye failing on Pace = the perfect instrument blind where it's needed.
+- Cassie as seer = staging true, bond false.
 
 **Open questions**
-- Who was the bench built for seven months ago (pre-Randi)?
-- Is Pace's attentiveness love, craft, or predation — and does he know? (Leaning predation-in-benefactor's-clothes; his charm is genuinely working.)
-- Does Brooke suspect Randi's lie?
-- Does Randi understand she's Pace's instrument, not the author?
-- What does Cassie see — and will she ever warn Vee, or keep going passive/being used?
-- When does Vee learn there was ever a game — and how real has it gotten for the hunters by then?
-- When will Randi/Pace/Vee be together as three, and how does the seduction proceed from here (froyo → ?)?
+- How fast and how far does Pace move now (texted within 20 min; date went warm)? A first kiss, or a deliberate not-yet?
+- Does Cassie's off-read of Randi / clear eye become friction the plan routes around? (She barely engaged this chapter.)
+- Was Vee a *substitution* for the bench's original target (~7 months ago, before Randi)?
+- The vectors: Pace steered Randi→Vee; Randi steers Vee→Pace; Pace↔Vee now direct and warm. Toward what geometry (the threesome)?
+- Does Randi's threesome-costume hold, or does she get forced into "version one"?
+- Does Pace's genuine warmth survive what the game costs, or curdle?
+- Is Brooke/the house still a threat to the secret?
 
-**Story so far**
-Ch.1: Randi drives to Pace's for a controlled BDSM session on a purpose-built bench; he breaks her by invoking her sorority, makes her come and weep; in aftercare she flinches, locks in the bathroom, rebuilds her face, stays over.
-Ch.2 ("Standards"): Randi comes home in last night's clothes; Brooke interrogates her; she passes but her mask lags; upstairs she can't cry.
-Ch.3 ("The Pointing Game"): In bed Pace times "Would you like to taste another woman?" to her orgasm; she deflects it onto him ("Only in a threesome. With you."). On a campus walk he plays the pointing game; she vetoes by type until Vee emerges and her "Yes" comes bare. He sends her to meet Vee; Randi engineers a collision, gets Vee's name + shared stats class.
-Ch.4 ("See You Later"): Vee's POV. Dazzled, she waits for Randi in stats; Randi seats her by Cassie; Cassie won't warm, gives a wrong-sounding "Goodbye, Vee." Randi sweeps Vee to Chi Latte, buys her a lavender latte, seats her at the display high-table, dazzles her. First look at Vee's mother-policed body-shame.
-Ch.6 ("Substitution"): Vee's POV, coffee place on Wilson. Vee stuck on a calc challenge problem; Randi (texting) signals via her un-sipped cup; Cassie clocks the cup and alerts Vee the cute guy's looking. Pace crosses the room, tutors her through the integral via Euler's, gives back the pencil so she solves it, draws her out about econ, reveals he's a math PhD, "May I call you," takes her number, leaves without his coffee. Randi/Cassie close the sale. Vee leaves the phone facedown wanting it to light.
-Ch.7 ("The Long Way"): Vee's POV, same table twenty minutes later. Pace texts fast — "do you like frozen yogurt." Vee hunts for the flaw; Randi takes the phone, verdicts "he wants to see you naked," kills Vee's wait-a-day rule ("you're not unsure"); Cassie's dry healer joke. By evening Vee and Pace are at a bright froyo shop; he riffs a froyo "system," she overfills her cup for the first time without the mother-voice and doesn't care, he pays and holds the door with his back. They walk the long way "not toward anything"; he listens grandfather-style, waiting out her sentences. She confesses this is the nicest anyone's been to her in a long time "and it's froyo," winces; he doesn't pretend or inflate it, then: "Your tart's holding up" — and it is, the whole stack still standing.
+**How I feel — overall**
+Softened and unsettled in the same breath. This was the tenderest chapter yet and the one with the fewest visible seams — which made it the most dangerous, because I fell into it exactly as Vee did. The mother's-voice-going-silent beat is the loveliest and cruellest thing so far: the man hunting her appetite is the one who lets her fill the cup. I'm wide-open protective of Vee, who is completely undefended here, walking the long way with the operator and glad of it. Cassie got only a line but stays my clear window and my ally. Wary of Randi's frictionless close. Warm toward Pace against my will, which is the whole problem — the chapter did to me what he does to her.
 
-**How I feel**
-Pace: hardened distrust now fully entangled with real, working charm — the froyo playfulness and the perfect restraint (meeting her confession without inflating it) make him more dangerous, not less. Randi: cold dread of her mechanism; here she's the pure closer, taking the phone and dismantling Vee's one protective rule. Vee: deep protectiveness and active dread — a caretaker with an unpoliced-for-the-first-time appetite, handing over exactly the starved-for-tenderness intel the game was built to mine. Cassie: still trusted but she's gone passive and unalarmed, which worries me — my tripwire isn't tripping. Overall mood: sweet, tender, and sick underneath — the gentlest date I've read, and I dread it precisely because it worked. Strong pull forward, bracing for the turn from froyo toward the house.
+---

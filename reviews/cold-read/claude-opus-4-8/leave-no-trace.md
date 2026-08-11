@@ -4,148 +4,121 @@
 
 ## Reader reaction
 
-# Felt read
+So the hike finally came, and it wasn't the catastrophe I'd been dreading — it was worse than a catastrophe, because it was *lovely*, and I felt every inch of it work.
 
-This one worked on me, and it left me uneasy in exactly the way the jacket keeps promising. It's the first time in a while I've been *with* Vee inside a scene where something genuinely tender is happening and I couldn't quite talk myself out of the tenderness — and that's the disturbing part.
+Let me be honest about the swoon first, because it was real and I'm not going to pretend I was armored the whole way. The truck scene undid me. She's soaked and shivering and he gives her his only dry shirt — the one he packed for *himself*, because he "showered at the gym and had no house here to go to" — and then he climbs back out into the mountain rain and stands with his back to her, taking it full-on, so she can change in private without him even being a presence to change in front of. And she *watches him do it*, and it makes no sense to her for a second, and then it does. That's the moment I melted against my own better judgment. And then she calls him back, and strips for him on her knees on the bench, keeping his eyes the whole way — she authors all of it, "she gave it to him to see" — and he *doesn't move.* "He sat and looked at all of her and didn't move, and the gladness in him was the whole of the answer, and it was right." The restraint at its absolute apex. He doesn't need to reach for her; she does everything. And then the gut-punch: she reaches for his hand to kiss it and *it's shaking.* He's been freezing the whole time. He gave up his shirt and stood in the rain and his body is genuinely wrecked with cold — and she stops her own seduction to tuck his hand under the flannel against her belly and say "Pace. You're freezing. We should go. Please." The mark tending the operator. I ached.
 
-The hike opens sweet and plain and I let my guard down along with her. The boot fix is the best thing Pace has done on the page yet, and I mean that as praise and as alarm. He kneels, takes the wet sock off, finds the hot spot, moleskins it, re-laces the boot *differently* so it becomes "a different boot," and then — the part that got me — "Should've done that at the lot. I'm sorry. I didn't think to ask about the boots." He takes the fault. He always takes the fault. I've watched him do this since the staged collision made Vee apologize; here he does the inverse, apologizing *for* her discomfort, and it lands as pure care. And the cherry pit: "We take nothing and leave nothing." He teaches her a thing she didn't know — the class thing, the *no one taught you* thing her mother's voice pounces on — and he teaches it "and he hadn't made her small to give it to her." He lays his own pit beside hers without looking. That's the whole seduction in a gesture: he removes the shame she was braced for, over and over, until removing-her-shame *is* the intimacy. I noticed it. I couldn't stop it working.
+And that's exactly where the sickness lives, right up against the swoon. Because on my ledger — the one Vee doesn't have — this is the con operating at a level I hadn't seen it reach. Every single thing he does *takes nothing.* He fixes her boot without making her small. He lays his own cherry pit beside hers so she isn't the only one who didn't know the rule. He hears her want the russet dress, says only "That sounds like a beautiful dress," and — this is the thing I clocked hard — *doesn't pick it up again.* He files it. Brick-red silk, the exact red of her copper hair, the dress she pointed at like a dorm girl and then set back on the shelf. My dread-radar is screaming: that dress comes back, produced, a gift she never asked for. He left it lying on the rock on purpose so it lands later with no fingerprints on it.
 
-The russet dress. God. She points at the magazine — "*that one, I want that one*" — hears the wanting in her own voice, catches herself, puts it back on the shelf: "It'll be good enough." And Pace does the devastating thing, which is *nothing*. "That sounds like a beautiful dress." No weight on it. He doesn't buy it, doesn't offer, doesn't argue. He just refuses to let her erase the want, and leaves it "on the rock between them." I have a cold little guess from here that russet dress comes back — that he finds a way to put it on her later — but even if he doesn't, the move is: he *witnessed* her appetite without punishing it. That's the exact same technique Randi ran in the smoothie shop — draw out the shame, receive it, hand it back as gift, go no further. Same hands. I flagged that last chapter and this chapter confirms it hard, except now I'm watching *Pace* do the version I find most seductive rather than most sinister.
+Which is the title. **"Leave No Trace."** On the surface it's the hiking creed — the cherry pit he picks up off the rock, "We take nothing and leave nothing," gentle, teaching her. But the reread charge is vicious: *he leaves no trace.* He never touches her — literally no mark on her body, no evidence. The near-moment at her dorm gets swept clean by a cop's siren that "took the rest of her sentence with it." He is a man who does not leave a record. And "we take nothing" — in a book that is entirely about what was *taken* from her, the man promising to take nothing is the most frightening promise on the page. Restraint as the instrument, again, all the way down.
 
-Then the summit, which is the one place the book stepped fully outside the machinery and let the world be bigger than the game: "it did not care that she was standing on the edge of it... and that not-caring was somehow the most beautiful part of all of it." "The world swallowed his blue whole." For a page Pace shrinks to nothing against something indifferent and vast, and Vee's body comes back to her *after* the seeing — hunger, cold, tiredth, in that order. That's the truest interior she's had. It's also the only moment in the chapter where nobody's managing anybody.
+I notice, too, and want to hold it honestly: I *can't fully tell* if the shivering is genuine or the most exquisite move in the game, and the page keeps it ajar. He really did give up his shirt; his body really is cold; that's not performed. It might be pure selflessness. It might be selflessness that also works perfectly. This book always does both, and I'm not going to close it more than the page does.
 
-And the truck. The heat peaks here and it peaks *high* — a 3, the scene's center. What makes it land is the reversal: it's entirely Vee's. She raps the glass, crooks the finger, keeps his eyes, unbuttons with her hands that "knew the buttons," gives it to him "to see." Pace does the thing he does — he sits utterly still, "he didn't lean in, he didn't lift a hand," "asking before he takes and taking only what she gives," and here he takes *nothing*, just receives her with "gladness" that is "the whole of the answer." The mother's voice is roaring the whole time — *floozy, three dates, girls in trucks* — and her body answers each verdict with heat, "wanted to be the very thing the voice said." That braid of shame and arousal is the most honest erotic writing in the book so far; it didn't feel clinical or staged to me, it felt like her.
+Structurally I want to flag: **no Randi at all this chapter, no mention.** This is the direct Pace↔Vee vector, alone, on his ground, off her water. And it's *not* the house I've been dreading — the house stays unseen, he "had no house here to go to." So that standing dread is intact, undischarged. The summit has a lake in it, silver and flat as "a poured thing," but held down the drop, in view and untouchable — her element shown to her and withheld while she stands on his black rock. That's the isolation image doing quiet work.
 
-But here's what I can't unsee, and it's why the tagline is doing its work. The whole truck scene is *built* by Pace before she ever knocks. He gives her his only dry shirt — the flannel he packed for himself, "for after, because he showered at the gym and had no house here to go to" — and then he *gets out of the warm truck and stands in the rain with his back to her.* He engineers a visible, wordless sacrifice: his shirt, and the truck, both, given up, his back turned so she has to *summon* him. That is the manufactured cost from the smoothie shop, in the male key — generate the appearance of a price paid so a gift reads as devotion, and here, so that when she calls him in and strips for him, it feels like *her* freely-given move rather than the thing he set up. Every yes was freely given. And it *was* hers — the finger-crook, the buttons, all hers. That's the trap the cover keeps naming, and this chapter is the cleanest demonstration of it yet: I watched him build the conditions under which her free choice could only bend one way, and then stand out in the cold so his hands would look empty.
+Heat: high and it worked on me. The strip is the center of the scene, sustained, her body rendered in cold wet detail with the mother's voice fused *into* the arousal — "the voice was the heat and the heat was the voice" — her wanting to be the very thing the voice forbids, and wanting him watching her be it. No touch, no sex, and it was still the most charged scene in the book so far. That fusion of shame and heat is the real thing this book does that most erotica won't.
 
-And yet — the shiver. When she reaches for his hand to bring it to her mouth and finds it *shaking*, and stops, and pulls it to her belly instead — "You're freezing" — that's the crack in my whole reading. He'd been out in that rain long enough to actually be cold. He'd been "a long way from the question of whether he was cold." Either that's a body betraying a man who's more invested than his own strategy, or it's the most patient con imaginable. I genuinely can't tell, and I love that I can't. It's the first time I've wondered whether Pace is being run by the thing he's running. The jacket did tell me "both are falling as hard as she is," and this is the first chapter where I half-believe it about him.
+Friction: almost none, this is beautifully controlled. The one line that's Vee naming the mechanism — "The hike had made her hungry first. That was the trick of it. That was what it was for." — flirts with telegraphing, but it's contained to the food and reads as her own sharpness, so it held. The cop ending is a hair contrived, but it serves "leave no trace" so cleanly I took it as a deliberate sweep, not clumsiness.
 
-**Trust/suspicion:** unchanged in shape, deepened in force. I don't trust the architecture — the shirt-in-the-rain is too perfectly built to be innocent. But the shiver put a real question mark on whether Pace still owns the architecture or has fallen into it. Randi is entirely absent and I didn't miss her; I did feel her, in Pace's technique.
+The book title **A Polite Invitation** lands hard here in reverse: the invitation this time issues from *her* — she crooks a finger at the window, *Come in.* The polite invitation now comes from the target. That's the con's whole success in one gesture. And **With a Long Spoon** — sup with the devil, use a long spoon — she has no spoon at all; she strips herself and reaches to kiss his knuckles. (No tagline in my packet to work from.)
 
-**Friction:** almost none. The horseradish sandwich went a beat long on the sensory inventory — "climbing, a vapor with a heat in it that found the back of her nose before she'd taken a bite" and then the whole re-run of the taste — but it earned itself by being about *hunger made first, then fed*, which is this book's whole thesis about appetite, so I forgave it. The cop at the end is a slightly convenient scissors to cut a scene that didn't know how to end tenderly — the siren literally "took the rest of her sentence with it." Bit of a thumb, but a light one, and it left her standing alone in his flannel, which is the right last image.
-
-**This chapter's title — "Leave No Trace":** on the surface it's the cherry pit, the folded wax paper, the crumpled sandwich paper pocketed away, the hiker's ethic he teaches her: take nothing, leave nothing. On reread it curdles. *He* leaves no trace — no fingerprints on her surrender. He builds the whole truck scene and stands in the rain so that when it happens there's nothing on the record but her free choice. Leave no trace is what a careful hunter does. And there's a third turn: the one trace left is *on her* — she walks in wearing his flannel that "smelled of soap and of a man and of the inside of a gym bag," carrying the mark she can't see is a mark. He leaves no trace; she's covered in one.
-
-**The book's title and tagline** feel more precisely fulfilled here than anywhere. "Every yes was freely given. That was the trap." — this chapter *is* that sentence dramatized. Her yes to the hike, out "before she'd weighed it." Her yes in the truck, wholly authored by her, down to the crooked finger. Both free. Both built. The long spoon (sup with the devil, use a long spoon) sits over the whole thing: she's supping, delightedly, and there's no spoon at all — she brought her own bare hands to the table and called it hers.
-
-**What I want / dread next:** I want inside Pace or Randi again, badly, and now specifically to learn what that shiver *was*. I want the russet dress to come back and I'm braced for it to be the gift that finally shows Vee the shape of what's happening — *guess from here.* I dread the induction dinner, where her mother's coming down and her two worlds (Cassie, the old black dress, the read-out name) might collide with the bright new one. And I keep waiting for Cassie, edged out last chapter, to say the true thing out loud.
-
----
-
-**Cast present (in person):** Pace, Vee. Mentioned-only: Meg (whose boots), Vee's mother (the voice + coming to the dinner), Vee's father (not coming), Cassie (screamed in the hall), the campus cop (appears at the very end but as a light/siren, no words).
-
-**Heat:** 3 — the truck striptease is graphic, sustained, and the scene's emotional center; Vee-initiated, shame-and-arousal braided.
-
-**Romance:** 3 — the shirt-in-the-rain, the "You're freezing" reversal, the gladness-as-whole-answer; a real turn in the bond, and the first time Pace's own body reads as involuntarily invested (the shiver).
-
-**Motifs & images:**
-- *"May I" / asking / taking only what's given* — repeat: "I'll set a pace, tell me if it's wrong"; sits still and takes nothing in the truck.
-- *Appetite policed vs. permitted; hunger made then fed* — repeat (ch.5,6,8,9,10): "The hike had made her hungry first. That was the trick of it. That was what it was for."
-- *The mother's shaming voice* — repeat: "*what kind of girl lets a man*," *floozy*, "three dates," roaring under the arousal.
-- *No one taught you / class shame removed without making her small* — repeat of the "dear"-shape: the cherry pit lesson, laid beside hers, no look.
-- *Blue shirt / bright thing swallowed by the world* — first sighting: cobalt against brown/gray, then "the world swallowed his blue whole."
-- *Set up on a shelf / feet not reaching / exposed* — repeat (bleachers ch.7, high window chair ch.10): sits up on the boulder, "her feet didn't reach the ground."
-- *The manufactured cost / visible sacrifice* — repeat of ch.10 "dear friend" cost, now male key: his only dry shirt + standing in the rain, back turned.
-- *Hands / initiated touch / public-vs-private hold* — repeat: she keeps his eyes, reaches for his hand, finds it shaking, pulls it to her belly.
-- *Water / cold / weightlessness* — repeat: the summit lake "flat as a poured thing"; the rain; the pool-trained legs that "had never asked them for this."
-- *Real / borrowed shoes* — payoff from ch.9: Meg's half-size-big boots cause the hot spot.
-- *Off six-fourteen / gravel lot / long drive* — repeat: the trail comes out of the gravel lot; still hasn't seen the house.
-- *The russet dress* — first sighting: the wanted thing set back on the shelf, witnessed and left standing.
-- *Leave no trace / wax paper / pocketed refuse* — first sighting: the chapter's spine.
-- *Cold citrus (Randi)* — absent; instead the flannel's "soap and a man and gym bag."
-
-**Symbolism noticed:**
-- The summit's indifference = the one thing in the book bigger than the game; Vee's body returning *after* the seeing = an un-managed interior surfacing.
-- Shirt-in-the-rain = manufactured cost / visible sacrifice engineering a "free" surrender — same mechanism as Randi's "dear friend."
-- "Leave no trace" = the hunter who leaves no fingerprints on the yes; the trace lands only on her (his flannel = a mark she can't read).
-- The russet dress = witnessed appetite, deliberately not-taken, planted (I suspect for later).
-- The shiver = possible crack in the seducer's control; body outrunning strategy.
-
-**Characterization:** Vee deepened most — the shame/arousal braid and the summit interior are her fullest yet, and initiating the truck scene is a real move toward the appetite she was raised to bury. Pace deepened in the one place I'd stopped expecting: the involuntary shiver complicates the pure-strategist read. Consistent otherwise — the fault-taking, the stillness, the no-push are all of a piece with ch.1/5/8.
-
-**Pace — within the chapter:** mostly earned. Boot-fix, summit, cherries, truck all breathe. The sandwich tasting over-lingered; the cop ending was a fast, slightly convenient cut.
-
-**Pace — chapter to chapter:** building, and a welcome change of key — after the social claustrophobia of ch.10, this is two people alone with weather and altitude, and the heat finally goes to 3 with Vee driving. Momentum up.
+What I want and dread next: that russet dress, produced. The induction dinner — her name read at the front, her mother coming, her father not. The house, still unseen, still waiting. And Randi, absent here — where she re-enters, and what it costs that Vee is now this deep with Pace directly. *Guess from here:* the dress arrives as a gift, and it's the most tender-looking hook yet.
 
 ## Carry-forward state
 
-**Who's who**
-- **Pace** — *man; seen in person (ch.1, POV ch.3, ch.5, ch.6, ch.8, ch.11), offstage ch.7, ch.9, ch.10.* Young math PhD; lives alone off six-fourteen past the gravel (Vee still hasn't seen the house — the trail comes out of the gravel lot). Old white pickup (called gray earlier — now "old white," dulled in wet; **note the discrepancy**), bench seat, no house in town so he showers at the gym. Built his own furniture. Attentive, fault-taking, removes Vee's shame without making her small; sits utterly still and takes only what's given. **Ch.11: runs the hike — sets a slow pace, fixes her boot (moleskin, re-lace, "I'm sorry, I didn't think to ask about the boots"), teaches "we take nothing and leave nothing" via the cherry pit laid beside hers, witnesses the russet-dress want and leaves it standing ("That sounds like a beautiful dress"), gives Vee his only dry flannel and stands out in the rain back-turned so she must summon him; receives her truck striptease motionless with "gladness"; his hand is found *shaking* with cold — the first sign his body may be outrunning his strategy.**
-- **Randi / Miranda** — *woman; seen/POV ch.2, present ch.3–6, ch.10; absent ch.7–9, ch.11.* 21, poised, disordered eating (bruise-colored beet/egg-white/wheatgrass "usual"). Co-architect of the game while believing it's hers. Runs Pace's exact technique (draw out shame, receive tenderly, hand back as gift, go no further) — ch.10 smoothie debrief, "dear friend" public hand-hold, cold-citrus hug, "Love you, girl."
-- **Vee / Vivienne (Thorne)** — *woman; POV ch.4–8, ch.10, ch.11; present ch.9; unknowing.* Tall, lush, warm dark-red/copper hair, freckles. Sharp econ major; over-gives; raised in shame about appetite (mother's voice). Being inducted into an honor society (weeks off — certificate, dinner, name read at the front; mother coming, father not; wants a russet silk dress she can't afford, will wear the old black one). **Ch.11: hikes with Pace in borrowed half-size-big boots (Meg's) that raise a hot spot; overwhelmed by the summit; eats with full hunger; sets the russet dress back on the shelf; in the rain-soaked truck initiates a striptease for Pace, eyes on his, shame-voice and arousal braided; stops when she finds his hand shaking with cold, warms it against her belly, sends them home; walks into her dorm alone in his flannel, "picked" again but this time by her own move.**
-- **Cassie** — *woman; seen ch.4–10; mentioned ch.11.* Vee's roommate; athlete, lab, clear-eyed, never pries; screamed in the hall over Vee's induction letter. Being edged out of Vee's bright life (ch.10) and appears to half-know it.
-- **Brooke** — *woman; seen ch.2, ch.10.* Sorority chapter president; warm-but-appraising.
-- **The silent taller woman** — *woman; seen ch.10, unnamed.* Assessor at the smoothie shop. Possibly Sloane/Kinsey.
-- **Christine** — *woman; seen ch.8; mentioned ch.9.* Runs the Levantine restaurant; knows Pace.
-- **Meg** — *woman; mentioned-only (ch.9, ch.11).* Vee's floormate; lent the too-big boots.
-- **Sloane / Kinsey** — *women; seen ch.2.* Sorority sisters.
-- **Randi's mother** — *woman; mentioned-only.* Policed food.
-- **Vee's mother** — *woman; mentioned-only.* Shame-voice ("floozy," "what kind of girl"); coming to the induction dinner.
-- **Vee's father** — *man; mentioned-only (ch.11).* Not coming to the dinner, work.
-- **The stats professor** — *man; seen ch.4, ch.10, unnamed.*
-- **Vee's grandfather** — *man; mentioned-only ch.6.*
-- **The bleacher boys** — *men; ch.7, unnamed.*
-- **Randi's disaster date** — *man; mentioned-only ch.10.* The foil.
-- **The campus cop** — *unseen/ungendered; ch.11.* Pulls Pace over for stopping in the fire lane at the dorm; cuts the goodbye short, takes Pace away.
+**Principals**
+- **Pace** (= Peter): young math PhD; maker of expensive-eyed furniture; warm house (still unseen by Vee — "no house here to go to," showers at the gym). Tender, exact, controlling operator who engineers desire as kindness and *takes nothing*. Ordinary pleasant face, light brown hair, thick-knuckled hands; economy of movement. White pickup. Keeps a private rule (always his right hand). Lives west of town off six-fourteen past the gravel. Known by name to Christine. This chapter: alone with Vee on the hike; fixed her boot, fed her, gave up his only dry shirt and stood in the rain, sat still while she stripped for him, was genuinely freezing, filed the russet dress without picking it up.
+- **Randi** (= Miranda): 21, junior, sorority Standards board; black hair in a tail, blue eyes, dancer's body, cold-citrus scent. Secretly involved with Pace, the closer steering Vee. Off-page this chapter (no mention).
+- **Vee** (= Vivienne): jacket protagonist, POV. Tall lush hourglass, copper hair, snub freckled nose. Econ major; hungry to be chosen, lonely, self-managing (mother's appetite-voice installed). Reads engineered care as sincerity. Loves the water. This chapter: on the hike she authored her own exposure past the voice, fused shame with heat and went at the forbidden thing wanting to be watched being it; then broke off her own seduction to tend Pace's cold. Named her want for the russet dress aloud, then set it back on the shelf. Up for honor-society induction (weeks off), name read at the front, mother coming.
+- **Cassie** (= Cassandra): Vee's roommate/friend, the seam-free bond (now with a fold). Boxy frame, loves without naming. Screamed in the hall over Vee's induction letter. Off-page this chapter.
+- **Brooke**: sorority president; warmth-as-instrument. Saw the "dear friend" claim and did not change. Off-page.
+- **Christine**: older woman who runs the small Middle Eastern restaurant; knows Pace warmly. Off-page.
+- **The silent taller woman** (unnamed): watched Vee in a slow circuit, never spoke. Open identity — appraiser or walk-on.
 
-**Motif & image ledger**
-- *Doors / bell / holding open* — Bench; ch.4–6; ch.8; ch.10; **ch.11: Pace opens the truck door for her.**
-- *"There you are" / recognition / "may I"* — Bench; ch.4–5; ch.8; ch.10; **ch.11: "I'll set a pace, tell me if it's wrong"; takes only what's given.**
-- *"Yes" / bare freely-given yes* — Bench; ch.4–6; ch.8–10; **ch.11: the hike-yes "out before she'd weighed it," "There had been no wall of trees in the yes. There had been him"; the truck initiated wholly by her.**
-- *Food/drink as tell; hunger made first, then fed* — ch.5–6,8,9,10; **ch.11: horseradish sandwich, cherries, "The hike had made her hungry first. That was the trick of it. That was what it was for."**
-- *Rationed self-deviation / self-monitoring* — ch.5,7,8,10; **ch.11: she eats without watching; then in the truck deliberately gives her body "to see."**
-- *No hurry / patience / goes no further* — ch.1,5–6,8–10; **ch.11: Pace slow-paces the climb; sits motionless in the truck, takes nothing.**
-- *Hands / initiated touch / the shaking hand* — ch.5–10; **ch.11: she keeps his eyes, reaches for his hand, finds it shaking, warms it on her belly.**
-- *Spoons / sweetness / long spoon* — Chi Latte; ch.5,8,9.
-- *Water / cold / weightlessness / deep water* — ch.7,8,10; **ch.11: summit lake "flat as a poured thing," the mountain rain, pool-trained legs unready for the climb.**
-- *Cold citrus (Randi's scent)* — ch.4,10; **ch.11 absent — replaced by the flannel's "soap and a man and gym bag."**
-- *Hot-to-hold vessels / heat through a cage* — ch.8,9.
-- *Cold window / cold she doesn't feel* — ch.9.
-- *Real / borrowed shoes* — ch.9; **ch.11 payoff: Meg's oversize boots cause the hot spot; the moleskin holds to the end.**
-- *Off six-fourteen / gravel / long drive / unseen house* — ch.9; **ch.11: trail out of the gravel lot; house still unseen.**
-- *Set up on a shelf / exposed / feet not reaching* — ch.7,10; **ch.11: sits up on the boulder, feet don't reach.**
-- *"Dear friend" / being picked out loud* — ch.10.
-- *Manufactured cost / visible sacrifice* — ch.10 ("dear friend"); **ch.11 (male key): his only dry shirt + standing back-turned in the rain.**
-- *Underdressed / apology-clothing* — ch.10.
-- *Blue shirt swallowed by the world* — **first sighting ch.11.**
-- *The russet dress (wanted, set back, witnessed, left standing)* — **first sighting ch.11.**
-- *Leave no trace / wax paper / pocketed refuse* — **first sighting ch.11 (title).**
+**Relationship ledger**
+
+*Core — Pace / Randi:* **involved, consummated (y); secret.** Surface (to world/Vee): strangers. True: lovers running a coordinated con; under the game his tenderness for her is genuinely felt.
+  - *desire worked-on-her ↔ desire hers:* both poles at max. (quiet)
+  - *cold ↔ warmth:* **warm** — warmth shown as instrument. (quiet)
+  - *isolation ↔ belonging:* surface belonging (sealed game); under it isolating. (quiet)
+  - *used ↔ cherished:* **both** — delighted-in AND instrument of his plan. (quiet)
+  - *This chapter:* no change; Randi off-page entirely.
+
+*Core — Randi with herself:* the "face" is armor over an unsurvivable wanting relocated to a survivable costume; seamless from outside. *This chapter:* no change (off-page).
+
+*Core — Vee with herself:* runs a managed self (covers the shamed body, keeps feelings not facts); defends against wanting by hunting the flaw first; the governor can be set down *by him* or in Randi's warmth. *This chapter:* moved hard — she set the governor down **by her own hand in front of him**, authoring her own exposure past the voice; the mother's shame-voice fused *into* the arousal ("the voice was the heat and the heat was the voice"), and she wanted to be the very thing the voice forbids and wanted him watching. She named a want (the dress) aloud, then re-shelved it herself.
+  - *This chapter:* the self-management now runs *toward* self-exposure for him — she engineers her own yes with no prompt.
+
+*Core — Randi / Vee:* **friendly→claimed (surface to Vee, "dear friend") / attracted, one-sided as Vee knows — Randi's warmth instrumented; the active closing.** Consummated n.
+  - *desire worked-on-her ↔ desire hers:* both — native pull AND produced.
+  - *cold ↔ warmth:* **warm at flood** — hand, hug, "love you, girl."
+  - *isolation ↔ belonging:* Vee feels a place "next to Randi," bought at the cost of Cassie; I read the belonging as the isolating mechanism.
+  - *used ↔ cherished:* Vee feels cherished/chosen out loud; I read used — the "dear friend"/held hand a claim before a witness.
+  - *This chapter:* no change (off-page).
+
+*Core — Pace / Vee:* **dating (surface) / the hunt closing — deep self-exposure reached on his ground, consummation deferred again by restraint (true).** Consummated n. Surface: kind, careful man courting her properly, who takes nothing. True: engineered pursuit, restraint-as-seduction; on this hike the invitation *issued from her*.
+  - *desire worked-on-her ↔ desire hers:* both at max — she authors the strip entirely (reads wholly hers), which is precisely the achievement of the work (produced so it feels native). Peak: she crooks a finger at the window, *Come in.*
+  - *cold ↔ warmth:* **warm, no seam** — his only dry shirt given up, standing in the rain, the genuinely shivering hand; she ends by tending *him.*
+  - *isolation ↔ belonging:* Vee feels seen/chosen ("he let her catch him" watching her face, not the valley); I read isolation — off her water, on his black rock, the lake held untouchable down the drop, no Cassie, house still withheld.
+  - *used ↔ cherished:* Vee feels cherished; I read used — but the chapter complicates it hard: his cold is *real*, he suffers, and she ends up cherishing him. The chord is at its most intense.
+  - *This chapter:* moved deep — first sustained erotic scene, self-exposure at her own initiative, near-consummation deferred; he filed the russet dress (unpicked-up); the cop swept the parting clean.
+
+*Vee / Cassie:* close, easy — first seam carried from before (Vee excluding her, calling it health; Cassie's folded-away look). Off-page here, but the hike is another outing with no Cassie in it. Induction letter: Cassie screamed with joy in the hall (unengineered warmth intact).
+
+*Randi / Cassie:* no change (not in contact).
+
+*Brooke / Vee:* no change (one meeting: warmth-as-instrument, empty "dinner sometime," saw the claim and didn't change).
+
+**What I know that they don't**
+- (Vee doesn't know) the café meeting was engineered; Randi and Pace are secret lovers running a con; she was pointed at and hunted; a man authored it.
+- (Vee doesn't know) she reads Pace's engineered restraint/care as sincerity; her econ eye is blind to him.
+- (Vee doesn't know) the man who quiets her appetite-voice is the one hunting her appetite.
+- (Vee doesn't know) she now authors her own yes unprompted — the con's success is that the invitation issues from her.
+- (Vee doesn't know) he filed the russet dress on purpose, leaving it unpicked-up so it can return as a gift with no fingerprints.
+- (Vee doesn't know) Randi's "dear friend"/public hand is a claim before a witness; the belonging offered is the mechanism isolating her from Cassie.
+- (Vee doesn't know) she's excluding Cassie by her own hand and calling it health.
+- (Cassie doesn't know) her protective reflex was aimed wrong; she's unknowingly endorsed Pace twice.
+- (Randi doesn't fully know) she's being steered by Pace; her threesome-costume is a shield he saw through and lets stand.
+- (Pace doesn't know — carry) Randi gives him only the performed self; he reads her body past the performance; the gap may be narrower than she thinks.
+- (Sorority doesn't know) the truth of the founding night; Brooke probing Pace.
+- (Cassie sees but misreads) reads staging exactly but reads Pace/Randi as strangers.
+- (Re: the bench, carry) begun ~7 months ago, predates Randi; "For you. Tonight." Was Vee a substitute for an earlier target?
+- (Caring side) Pace's tenderness — toward Randi and toward Vee — is really felt in his body; his cold on the hike was genuine, not faked, even inside the game. Held ajar: whether the discovered shiver is pure selflessness or a move that also works.
+- (Caring side) Cassie's love for Vee is wholly unengineered and true — the one warmth with no seam, though it now carries a hidden fold.
+
+**Motifs**
+- *Restraint / taking-nothing as seduction:* the not-yet that makes her author the yes; at apex here — he gives up his shirt, sits still while she strips, doesn't touch her; "We take nothing and leave nothing" made his explicit creed.
+- *"May I" / the polite invitation:* the polite formula as instrument; this chapter *reversed* — the invitation comes from Vee ("crooked a finger… Come in").
+- *The hand:* Pace's right (private rule); here his hand found *shaking/freezing* under the flannel against her belly — the instrument revealed as a cold, suffering thing she tends.
+- *The mother's voice / appetite-governor:* installed shaming voice; this chapter fused *into* the arousal — the voice was the heat; she went at the forbidden thing wanting to be it, watched. Also set down over the cherry pit (he laid his own beside hers).
+- *Water / weightlessness as uncontaminated belonging:* the lake at the summit held silver and flat "as a poured thing," in view down the drop but untouchable — her element shown and withheld while she stands on his rock.
+- *Food / hunger / the long spoon:* loud this chapter — horseradish sandwich (heat that ambushes), cherries, the shared water bottle "where her mouth had been"; "the hike had made her hungry first… that was what it was for." She is fed by his hand; hunger produced then satisfied.
+- *The covered/ashamed body ↔ exposed body:* inverted here — she *uncovers* herself deliberately, then pulls on his dry flannel (warmth from him, not a body).
+- *On display / being seen:* "he let her catch him" watching her face, not the valley; the self-exposure she authors is the thing she wanted ("I want him to see me").
+- *The russet dress (new):* brick-red silk matching her hair, wanted aloud and re-shelved by her; filed by him, unpicked-up. Watch for its return.
+- *Leave no trace (new):* the cherry pit onto wax paper; he touches nothing, leaves no mark on her; the cop's siren sweeps the parting clean.
 
 **Symbolism noticed**
-- Bench = premeditated desire as innocent furniture.
-- Forbidden-wanting-as-door = the trap.
-- Staged collision/apology = victim self-blames toward hunter.
-- Recognition/permission register = handed-down hunter phrasing; surrender feels like relief.
-- Euler substitution / returned pencil = Vee substituted into the couple; false agency.
-- Water/underwater = un-taken interior; deep-water = a wariness that lingers.
-- The meal = interior reached and filled.
-- Book title = "sup with the devil, use a long spoon."
-- Freely-given yes as triumph = tagline delivered by the victim.
-- Un-felt cold = happiness insulating Vee from danger.
-- "Dear"/manufactured cost = affection priced and paid in public/visible sacrifice so a cheap or built gift reads as devotion; **ch.11 shows Pace runs it too (shirt-in-rain) — same hands as Randi.**
-- **Summit's indifference (ch.11) = the one thing bigger than the game; Vee's body returning after the seeing = un-managed interior.**
-- **"Leave no trace" (ch.11) = the hunter leaves no fingerprints on the yes; the only trace lands on her (his flannel).**
-- **The russet dress (ch.11) = witnessed, un-taken appetite, planted — likely returns.**
-- **Pace's shiver (ch.11) = possible crack in his control; body outrunning strategy — first evidence the founders may be falling in too.**
+- The water = the self before the body became a problem; here the untouchable lake down the drop = her element shown and withheld on his ground.
+- "May I" / "Come in" = the polite invitation as instrument; this chapter the invitation issues from the target — the con's success.
+- "We take nothing and leave nothing" / touching her not at all = he leaves no trace; the creed of the operator, chilling in a book about what was taken.
+- The russet dress set back on the shelf = a named want re-suppressed, filed to be returned as an unasked gift.
+- The shivering hand under the flannel = the instrument revealed as a genuinely cold, suffering thing — and the mark tending the operator.
+- The right hand / kept rule = his invisible governing system.
+- Euler / substitution = the plan's geometry; lurking person-substitution.
 
 **Open questions**
-- Is Randi's warmth genuine or instrument? (Ch.10 tilted hard to instrument.)
-- Did "dear friend" actually cost Randi anything, or is it manufactured? — **ch.11 strengthens the "manufactured cost" pattern by showing Pace do the same (shirt-in-rain).**
-- Is Cassie being deliberately edged out, and does she know? (Dread; ch.10 yes.)
-- **NEW: What was Pace's shiver — involuntary investment, or the most patient con? Is he starting to fall in?**
-- **NEW: Does the russet dress come back — and is it the gift that reveals the shape of the game to Vee?**
-- What happens at the induction dinner (mother coming, old black dress, worlds colliding)?
-- Who is the silent taller woman? Possibly Sloane/Kinsey.
-- What was the "Thursday" Vee wasn't part of? (minor)
-- Do the founders crack / does the "cost" become a fault line? — **now live, via Pace's shiver.**
-- How/when does Vee learn there was a game?
-- Is Pace rich? (planted ch.9; russet-dress moment left it untouched.)
-- Truck color discrepancy: earlier "gray pickup," ch.11 "old white pickup" — which? (minor continuity note.)
-- What was Vee grieving underwater (ch.7)? Still open.
-- Buried history behind Randi's flinch-at-praise?
+- The russet dress — does he produce it? (New standing dread/guess.)
+- The house: still unseen, off six-fourteen past the gravel — this hike was *not* it. Standing dread intact.
+- What did Cassie fold away — hurt, her clear eye clocking Randi, or both?
+- Who is the silent taller woman — appraiser or walk-on?
+- Where and how does Randi re-enter after this direct Pace↔Vee deepening?
+- The induction dinner (weeks off) — name read at the front, mother coming, father not — as a set piece.
+- Was the shiver pure selflessness or a move that also works? (Held ajar.)
+- What was "taken"? The sixteen-year-old grief under the dive.
+- Was Vee a substitution for the bench's original target (~7 months ago, pre-Randi)?
+- Is Brooke/the house still a threat to the secret?
+- Does Cassie's clear eye become friction the plan routes around?
 
-**Story so far**
-Ch.1–10 as before: Pace & Randi (lovers; she a poised sorority woman, he a young mathematician off six-fourteen) decide, mid-encounter, to make Vee — a shame-raised, over-giving econ major Randi picked across the quad — the third in their bed, telling her nothing. Randi befriends and seduces Vee socially (stats, Chi Latte, froyo, the ch.10 smoothie-shop "dear friend" claim); Pace seduces her by withholding-then-giving (tutoring, the Levantine dinner where he ordered for her and didn't push the first kiss, which she then initiated). Cassie, Vee's clear-eyed roommate, sees the asymmetry and is being edged out. Both seducers use the same technique: draw out Vee's shame, receive it tenderly, hand it back as a gift, go no further. **Ch.11 (Leave No Trace): Pace takes Vee hiking a steep trail off the gravel lot near his still-unseen house. He fixes the hot spot from her borrowed boots, teaches her "we take nothing and leave nothing," feeds her at the indifferent summit, and witnesses without pouncing her want for an unaffordable russet dress for her upcoming honor-society induction. Caught in sudden mountain rain, he gives her his only dry flannel and stands out in the rain, back turned, until she raps the glass and crooks a finger — then, in the truck, she initiates a striptease for him, her mother's shaming voice braided into her arousal, and he receives her motionless and glad, taking nothing. She reaches for his hand and finds it shaking with cold, stops, warms it against her belly, and sends them home. A campus cop pulls Pace over for stopping in the dorm fire lane, cutting their goodbye short; Vee walks in alone in his flannel, "picked" — but this time by her own move.**
-
-**How I feel**
-This chapter got past my defenses in a way the others hadn't, and that's the frightening part. I watched Pace build every condition of Vee's "free" surrender — the shirt, the rain, the turned back — and still felt the pull of his tenderness, because the boot-fix and the russet-dress witnessing are genuinely, movingly the removal of her shame. The tagline finally landed on me in the body: her yeses are wholly hers and wholly engineered at once. The one new thing that unsettles my whole read is the shiver — Pace's hand shaking with real cold, "a long way from the question of whether he was cold." Either his body is outrunning his strategy (the jacket's "both are falling as hard as she is" starting to come true for him) or it's the coldest patience yet, and I can't tell, and I want inside him or Randi badly to find out. Tender and increasingly worried for Vee, alarmed for Cassie, distrustful of the architecture, newly curious about whether Pace is caught in his own trap. Heat spiked to 3 (Vee-driven), romance at a real peak, dread holding high and now pointed at the induction dinner and the russet dress.
+**How I feel — overall**
+Wrecked in the tender direction this time. The chapter didn't attack me with dread — it seduced me, and I let it, and the seduction *is* the horror. Every kindness takes nothing, leaves no trace, and issues the invitation from her own mouth. The strip scene is the most charged thing in the book and it fused her shame straight into her arousal without a seam; the shirt-in-the-rain and the discovered shivering hand are genuinely, bodily tender and I ached at them, even holding open whether the shiver is pure or perfect. My shadow stays mine — nothing on the page tells Vee to doubt him — but this chapter handed me two new stones I clocked cold: the filed russet dress, and the title's creed made literal (*he* leaves no trace). Protective of Vee to the point of dread; the house still waiting; Randi's absence a held breath; warm and sick in the same breath, and this time the warmth won the scene and that's what frightened me.
