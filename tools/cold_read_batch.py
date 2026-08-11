@@ -19,6 +19,19 @@ import time
 import tomllib
 from pathlib import Path
 
+MIN_PROSE_CHARS = 500
+PROSE_PLACEHOLDERS = ("verbatim stdout", "command output above", "the command output above")
+REFUSAL_MARKERS = (
+    "no chapter text",
+    "cannot review this chapter",
+    "can't review this chapter",
+    "no page here",
+    "chapter text missing",
+    "chapter text was missing",
+    "chapter text not provided",
+    "re-run with the actual chapter",
+)
+
 FALL_SCENES = [
     {"title": "The Bench", "slug": "the-bench", "volume_start": 1},
     {"title": "Standards", "slug": "standards"},
@@ -512,6 +525,14 @@ def run_batch(
             continue
 
         clean = clean_scene_text(scene["slug"])
+        clean_lower = clean.strip().lower()
+        if len(clean.strip()) < MIN_PROSE_CHARS or any(
+            ph in clean_lower for ph in PROSE_PLACEHOLDERS
+        ):
+            raise RuntimeError(
+                f"prose guard: {scene['slug']} yielded empty/placeholder chapter text "
+                f"({len(clean.strip())} chars) — refusing to feed it to the reader."
+            )
         prior_block = carry if carry.strip() else "empty — opening chapter"
         if predecessor and not carry.strip():
             raise RuntimeError(f"empty prior carry before {scene['slug']}")
@@ -570,7 +591,21 @@ def run_batch(
                 wall = time.time() - t0
                 response_text = parse_response(result.get("output") or result.get("text"))
                 reader, parsed = split_reader(response_text)
-                if reader and parsed:
+                refusal = bool(reader) and any(
+                    marker in reader.lower() for marker in REFUSAL_MARKERS
+                )
+                if refusal:
+                    print(
+                        json.dumps(
+                            {
+                                "slug": scene["slug"],
+                                "status": "refusal_detected",
+                                "attempt": attempt,
+                            }
+                        ),
+                        flush=True,
+                    )
+                elif reader and parsed:
                     last_problems = check_retention(prior_carry_text, parsed)
                     if last_problems and attempt < max_attempts:
                         print(
@@ -659,11 +694,12 @@ def run_batch(
                     )
                     ok = True
                     break
-                print(
-                    f"invalid sections {scene['slug']} attempt={attempt} "
-                    f"reader={len(reader)} carry={len(parsed)}",
-                    flush=True,
-                )
+                else:
+                    print(
+                        f"invalid sections {scene['slug']} attempt={attempt} "
+                        f"reader={len(reader)} carry={len(parsed)}",
+                        flush=True,
+                    )
             except Exception as e:
                 print(
                     f"exception {scene['slug']} attempt={attempt}: {type(e).__name__}: {e}",

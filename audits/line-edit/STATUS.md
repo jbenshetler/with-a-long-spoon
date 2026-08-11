@@ -42,7 +42,7 @@ the echo shortlist with the author before per-chapter editing starts).
 | 34 | One Bite | one-bite | reviewed |
 | 35 | Above Him | above-him | reviewed |
 | 36 | School Nights | school-nights | edited |
-| 37 | In His Hands | in-his-hands | edited |
+| 37 | In His Hands | in-his-hands | reviewed |
 | 38 | All the Time | all-the-time | edited |
 | 39 | The Outlier | outlier | edited |
 | 40 | The New Ordinary | new-ordinary | edited |

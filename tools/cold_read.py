@@ -141,6 +141,22 @@ def resolve_scenes(scope: str):
             if i > 0 and "volume_start" in s:
                 break
             out.append(s)
+        # Defense-in-depth: FALL_SCENES is hand-maintained and can drift. Assert
+        # the resolved set exactly matches the chronology-derived Volume One
+        # drafted inventory (same slugs, same order) before returning it.
+        sys.path.insert(0, str(Path(__file__).resolve().parent))
+        import volume_scenes  # noqa: E402
+
+        got = [s["slug"] for s in out]
+        want = volume_scenes.volume_one_slugs(drafted_only=True)
+        if got != want:
+            extra = [s for s in got if s not in want]
+            missing = [s for s in want if s not in got]
+            raise SystemExit(
+                "fall scope boundary check failed: resolved scene set does not "
+                "match the chronology's Volume One drafted inventory "
+                f"(tools/volume_scenes.py). extra={extra} missing={missing}"
+            )
         return out
     slugs = [s["slug"] for s in FALL_SCENES]
     if ".." in scope:

@@ -4,106 +4,125 @@
 
 ## Reader reaction
 
-# Felt read
+This one is a held breath. Short, all interior, no scene really — Vee awake at 3am in the bunk, Cassie asleep below, and the entire chapter is her failing to sleep inside his shirt. After the previous chapter's noise and heat, this is the after-silence, and it landed on me harder than the sex did.
 
-This is a small, held-breath chapter — one girl in a bunk who cannot sleep, and almost nothing "happens." But it landed hard on me, because it's the exact ache I've been dreading watching her sit in without a hand to reach for.
+The shirt is doing everything here, and the chapter earns it slowly and beautifully. First it's a costume for other people — "worn like that for the hall, for the walk to the bathroom," so Cassie will read "a girl too far gone in a boy" without a word said. That detail is quietly devastating on a reread of my own notes: the relationship still has no name, so she performs it *as* a look, lets the borrowed shirt say the thing she can't. "It hid what it was." She's still curating even in the dark, even for the one unengineered person in her life.
 
-The flannel does its whole arc here in miniature. I've carried that shirt for a long time now — she re-scents it, wears it to sleep, it's *him*. And here she takes it apart. First it's a cover, a thing worn over her own shirt "for the hall," so Cassie won't have to say anything — "a girl too far gone in a boy, the look enough on its own." Then she strips down and puts it on bare, the way she wears it when no one can see. And for a while it works — "It always worked." She breathes him off her own shoulder and can name every part of him, "the plate he set down once he'd built the hunger in her." That's the food-as-love motif folded right in.
+Then the phone. She holds her thumb over the empty message field "and waited for the words. There weren't any." This is the previous chapter's ending turned into a physical act — the no-name, the no-word, now she literally cannot type it. "You couldn't send a message and get out of a person the shape of what you were to them." God. And she already knows any small thing she sends "would be answered small and warm, and would leave her exactly here." She knows the mechanism now. She knows he'll answer warm and it won't reach the center. That's new — she's *naming the trap* even as she can't escape it.
 
-And then the line that gutted me: **"it was warm because she was warm... the heat in the shirt was her own, given back. He wasn't in it."** That's the whole trap said plainly, and this time *she's* the one saying it, not me over her shoulder. She's finally naming — not what he is to her, she still can't do that — but the *emptiness at the center*. "She had everything he did and not the one thing he wouldn't say... only every breath of him now and the silence at the center where the word should be." The withheld name, the rule that he says it first, all of it collapses into one cold hour in a bunk.
+And then the turn that got me: the shirt stops working. "It was warm because she was warm." She figures out that the heat she's been comforting herself with is her own body's heat given back — "He wasn't in it. He was across town in his own bed, gone down easy as a man with nothing grinding in him, and she was here holding a smell in the dark." That's the loneliest sentence in the book so far. The asymmetry laid bare: she can't sleep, he sleeps easy, "nothing grinding in him." The image of her breathing him off her own shoulder and it telling her nothing — "the silence at the center where the word should be" — this is the withheld-word motif made into a felt absence in the body, not an argument.
 
-The phone beat earned itself completely. She holds her thumb over the empty field and waits for words that don't exist — "no text that made it come clear; the ones she thought of were all small, and would be answered small and warm, and would leave her exactly here." I've watched him give her the warm non-answer on the porch, at Chili's. She now *knows* the shape of what she'd get back. That's growth, and it's bleak growth — she's learned his gentleness well enough to predict its walls.
+The ending is brutal and I loved it for being brutal. She takes the shirt off, "the cold of the room came down on her bare skin all at once, and it was worse. It was so much worse, and she did not put it back on." She *chooses* the cold. She chooses the bare truth of being alone over the warm lie of the borrowed smell. That's the title — "Bare" — and it's the first time I've watched her refuse the comfort instead of wearing it. In the last chapter she wore "forgiven" like a coat to cross the room; here she strips the coat off and stays cold on purpose. It reads almost like the first honest thing she's done. The shirt left "not folded, not set back on the pillow, down in a heap where a dropped thing lands." She didn't sweep this one under the rug. She left it where it fell. After all those chapters of sealing and smoothing, she let a thing lie ugly where it landed.
 
-And the ending — taking the shirt off entirely, the cold coming down "worse than the shirt," and *staying in it*. Not putting it back on. Leaving it "down in a heap where a dropped thing lands." That refusal is the most agency I've felt from her in a while, and it's awful, because the honest cold is worse than the warm lie and she chooses it anyway. Meanwhile Cassie breathes on, slow and easy, asleep — the trusted witness who sleeps through the thing she can't say aloud, the cracked window doing its two inches of honest draft above them both.
+**Trust/suspicion:** Nothing new on the con machinery — nobody's working her in this chapter, it's just her and her own skin. But that's exactly what makes it land. When I strip away my reader-knowledge of the con, what's left is a real girl genuinely alone with a real emptiness, and the emptiness is *accurate* — she really doesn't have the thing she wants, and the chapter doesn't lie to her about it. The cruelest read is that even her one moment of clear-eyed refusal changes nothing structural; she's still going to wear the shirt in the hall tomorrow. But I don't feel the author's thumb here at all. This is the cleanest, least-engineered the prose has felt — because she's alone.
 
-**Trust vs. suspicion:** Nothing new to distrust — Pace and Randi aren't on the page. What this chapter does is let Vee arrive, on her own and unassisted, at the edge of the thing I've been afraid of. She hasn't figured out the *game* (she still doesn't know Randi and Pace are connected), but she's figured out the *hollowness*, the "he wasn't in it." That's the closest she's come to the truth without anyone handing it to her. He's "across town in his own bed, gone down easy... a man with nothing grinding in him" — she's got his own tell now (he sleeps easy, nothing grinds) and she's turned it against him in the dark. Good.
+**Erotic charge:** Zero, and correctly. This is the anti-heat chapter — the body present only to register cold and absence.
 
-**Erotic charge:** Almost none, and rightly — this isn't a heat chapter. There's the small, aching physicality of stripping bare under a low ceiling, the cloth "straight onto her," but it's loneliness, not arousal. The one sensual thing (his smell, his warmth) is precisely what curdles. Heat that turns out to be her own is the anti-erotic engine of the whole scene.
+**Swoon:** Not swoon — ache, pure. But there's something I almost want to call admiration in it. She got to the true thing on her own, in the dark, with no one steering. "He wasn't in it." She said it to herself. Nobody made her.
 
-**Friction:** Very little. If anything the prose leans hard on repetition — "worse... so much worse... worse than the shirt" — and the piling of "not the big one and not the small one," "not folded, not set back on the pillow, down in a heap." It's incantatory and mostly works, but there's a hair's-breadth where I felt the author making very sure I caught the ache. The heap-of-a-dropped-thing got told to me twice. Minor. The spell held.
+**Friction:** None. It's four pages and every line pulls. If anything the risk is monotony — one note, held — but at this length it's a held note, not a stuck one.
 
-# The titles
+**The title:** "Bare" is exact and does something the earlier titles did by misdirection — this one is just *true*. Bare skin, bare truth, bare of the borrowed warmth, bare of a name. The one small charge on reread: she strips *bare* precisely by refusing the thing that hid what it was ("It hid what it was" — the shirt). To be bare is to stop hiding. First time a title named her getting *closer* to the truth rather than further under the rug.
 
-**"Bare"** — earns itself cleanly. Literal: she ends the chapter naked in a cold room, the shirt off. Figurative: stripped of the illusion, down to the bare fact — the warmth was her own, there's no one in the shirt, there's a silence where the word should be. And "bare" as in nothing between her and the cold truth. It doesn't give anything away before the read; it opens up *after*, which is the good kind of title. On second thought it also rhymes bitterly with "chosen exhibition" — every other time she's been bare it's been *seen*, chosen, on display, warmed by his attention; here she's bare with no one looking, and it's just cold.
+**Book title / series / tagline:** *A Polite Invitation*, *With a Long Spoon* — the spoon proverb (sup with the devil, use a long spoon) sits right under this: she's reaching for warmth and getting only her own heat back, barely touching, and tonight she pulls the spoon back entirely and sits with the cold. I wasn't given a fresh tagline in this packet, so I'll leave that.
 
-**With a Long Spoon** / "Every yes was freely given. That was the trap." — this chapter is the trap felt from the inside without the trap being visible. Nobody did anything to her tonight. She freely wore the shirt, freely took it off. And she's alone with a warmth that was never his to give — she's supping with something at a very long spoon and only now feeling how long the spoon is, how far off the other end sits. "He was across town... she was here holding a smell in the dark." That distance is the spoon.
+**What I want / dread next:** I want to know if this clear-eyed cold survives the morning, or if the shirt goes back on for the hall and the whole refusal dissolves into the ordinary. *Guess from here:* it dissolves — she wears it tomorrow, and this night becomes another thing under the rug. But the fact that she left the shirt in a heap and not folded snags in me. That's not a swept gesture. I dread her going back to Randi with this ache and getting it "helped." I want, badly, for Cassie to be awake for one of these nights.
 
-**What I want / dread next:** I want — and dread — the moment she stops burying this under the rug. Tonight she didn't bury it; she left the shirt in a heap and lay in the cold. That's new. *Guess from here:* this is the crack that starts the walk toward the collision. She's learned to predict his warmth, she's felt the hollow — the next pull is toward wanting the real thing hard enough to go looking, and looking is where the two worlds finally touch. I still dread the bench and I still dread the day Randi and Pace stop being two secrets she holds separately. Mostly I want someone to be awake in that room with her.
+## Carry-forward state
 
----
+**Principals**
+- **Pace** (= Peter): young math PhD; powerlifter; furniture-maker; MRI patent. Ordinary pleasant face, light brown hair, thick calloused hands. White pickup; small post-war house in the trees off six-fourteen. Real name Peter; engineered "tutor" at 15–17 called "the best two years." Lifting as self-erasure. Sewed Vee a dress. Devotion in acts, never words — the un-said *I love you* the loaded center. Loud-room limitation (real and/or isolation-cover). Interior warmth genuine AND the method AND a possible real sensory limitation — all three stand, unresolved. **Not on-page this chapter; present only as absence** — "across town in his own bed, gone down easy as a man with nothing grinding in him." The asymmetry named: he sleeps, she doesn't.
+- **Randi** (= Miranda): 21, junior, sorority Standards; black hair, blue eyes, dancer's body, cold-green/citrus scent; plain white-gold band. Marketing major. Virtuoso extractor; dark-green Mercedes. Secretly Pace's lover and Vee's closer. Father defrauded PPP loans — Miranda Holdings the county's worst outlier; Vee holds this secret unused, out of love. Mask cracked twice (desire; inherited shame). Not present, not mentioned this chapter.
+- **Vee** (= Vivienne): protagonist. Tall lush hourglass, copper/dark-red hair, snub freckled nose. Econ major; Ohio; hungry to be chosen, the careful one, prices-first. **This chapter: alone in the dark, sleepless. Wears his shirt as a costume of belonging for Cassie's benefit ("It hid what it was"). Holds thumb over empty message field, no words. Realizes the shirt's warmth is her own heat given back, not him. Names the asymmetry and the absence to herself, unaided. Strips bare into the cold ON PURPOSE, refuses the comforting smell, leaves the shirt in a heap unfolded, and stays cold till the window greys.** First clear-eyed refusal of the comforting lie — did NOT sweep this one under the rug.
+- **Cassie** (= Cassandra): Vee's roommate/friend; clever, warm, dry, loves-by-holding; truest, unengineered bond; pre-nursing; dad laid off 2020. **On-page as sleeping presence only** — breathes slow and easy below, keeps the window cracked two inches. The person Vee costumes the shirt for. Does not wake.
+- **Sheri**: Pace's cycling partner; child-sized, bleached ponytail; reads queer; "alone," fed by Pace at Thanksgiving. Not mentioned. Open: poisoning blonde?
+- **Meg**, **Brooke** (Randi's sister), **Kayla**, **Christine**, **Theo**, **the silent taller woman** (unnamed, open), **the older bartender** — off-page.
 
-**Cast present (in person):** Vee (POV, awake in the bunk); Cassie (asleep, present in the room). Mentioned-only: Pace ("across town in his own bed").
+**Relationship ledger**
 
-**Heat:** 0 — bare skin, but it's cold and lonely; the sensory pull of his smell is deployed to hollow her out, not arouse.
+*Core — Pace / Vee:* **involved, consummated (y); reconciled; easy/domestic on the surface — the seam pried open and voiced, now felt as pure absence.** Surface (Vee): the man who wants all of her, holds/feeds/makes-for/listens-to her. True (reader): the con's payoff AND a tenderness that reads real AND a possible real limitation — and a withholding of the word/name. **This chapter she reaches the seam alone: everything he does is in the shirt "and none of it told her what she was to him"; the warmth is her own body's, not his.**
+  - *warmth ↔ cold:* **coldest yet, and self-chosen** — she strips off his warmth because it's a lie (her heat, not his) and lies bare in the cold on purpose. "It was so much worse, and she did not put it back on." The comfort exposed as her own, given back.
+  - *isolation ↔ belonging:* **deepest isolation** — he's across town sleeping easy "with nothing grinding in him"; she's "holding a smell in the dark." The shirt performs belonging *for Cassie's eyes* while she's utterly alone inside it. No message she can send reaches the center.
+  - *cherished ↔ used:* quiet this chapter as event, but the asymmetry loads *used* — she cannot sleep, he sleeps easy; she holds all his acts and not the one thing; the warmth she treasures turns out to be her own, spent back on herself.
+  - *desire worked-on-her ↔ desire hers:* her longing wholly her own here, and for the first time turned into *clear sight* rather than appetite — she wants the name, doesn't get it, and names the lack herself without anyone steering.
+  - *This chapter:* no state change. She reaches the true reading alone and refuses the anesthetic — the first un-swept night. Whether it survives morning is open.
 
-**Romance:** 1 — and inverted. The tenderness of the flannel is present only as the thing that fails; the warmth turns out to be her own. A love chapter photographed as absence.
+*Core — Randi / Vee:* **intimate front / instrumented steering — closer harvesting the mark; consummated n. Two-directional secrecy live.** Not on-page this chapter. No change.
+  - all axes: no change; not on-page.
 
-**Motifs & images:**
-- *The flannel he gave her* (repeat — she re-scents it weekly, wears it to sleep) — here fully anatomized and then *removed*; its magic explicitly debunked ("the heat in the shirt was her own").
-- *The cracked window, two inches, Cassie's habit* (repeat) — present again, the honest cold draft; and the cold is what she chooses at the end.
-- *He sleeps easy / "a man with nothing grinding in him"* (repeat — his tell) — turned against him: he sleeps, she doesn't.
-- *Feeding / the plate set down once he'd built the hunger* (repeat) — named inside the shirt-inventory.
-- *The withheld name — "not the big one and not the small one"* (repeat, verbatim register) — the silence "at the center where the word should be."
-- *Loves in deeds / the one thing he wouldn't say* (repeat) — "everything he did and not the one thing he wouldn't say."
-- *The pile / where a dropped thing lands* (repeat of the pile/under-the-rug motif, now literal) — she leaves the shirt in a heap, un-set-back, un-buried.
-- *The phone with his name near the top* (first sighting as its own beat) — the empty text field, thumb hovering, no words that come back as the thing she needs.
+*Core — Pace / Randi:* **involved, consummated (y); secret; coordinated con.** Off-page, unmentioned. Full uncropped nude Vee sent Pace also seen by Randi. Randi's leaking want for Vee + exposed inherited shame live fault lines. White-gold band still loaded. No change.
 
-**Symbolism:** The shirt-warmth-as-her-own-heat is the cleanest statement yet of provision-as-capture turned to ash — the care she's been kept by, revealed as a mirror giving her back her own longing. Being bare with no one watching inverts the "chosen exhibition" motif: display without an audience is just cold. The heap on the floor (a thing not put back, not buried) is the first time she leaves something *unresolved and visible* instead of under the rug.
+*Core — Randi with herself:* the "face" as armor over relocated wanting — cracked twice (desire, inherited shame). No change (off-page).
 
-**Characterization:** Vee deepens, quietly and importantly — she reaches the hollowness herself, unassisted, and for once refuses the comfort (leaves the shirt off, stays in the worse cold). That's the most self-possessed despair she's shown; it reads consistent and like a real step. Cassie functions as presence-in-absence (asleep), no new shading. Pace only as a remembered sleeping body.
+*Core — Vee with herself:* runs a managed self, prices-first, caution keeps giving; a chronic sweeper. **This chapter reverses the sweep for one night:** she reaches the true, ugly reading alone ("He wasn't in it"), refuses the comforting lie, and leaves the shirt "in a heap where a dropped thing lands" — unfolded, un-smoothed, un-swept. First honest solitary act. Fragile; unwitnessed; may not survive daylight.
 
-**Pace — within the chapter:** Slow by design and mostly earned; a single sustained interior with almost no event. The one place it pushed was the triple "worse" and the doubled heap-image near the end — a touch of over-insistence in a chapter that had already made its point. Otherwise the length fits the sleeplessness.
+*Core — Vee / Cassie:* **close, easy — truest, unengineered bond.** On-page only as sleeping presence; Vee costumes the shirt for Cassie's morning glance rather than confide in her. The pile stays private even from the truth-teller — Cassie sleeps through the one honest night. No state change.
 
-**Pace — chapter to chapter:** A deliberate down-shift after the porch/Chili's friction — an interior held-note. It doesn't sag because it *advances* her understanding (she names the hollow, she refuses the shirt), but it is the second inward, unresolved-longing beat in a row. I'm ready for the two worlds to move toward each other; another pure interior after this would start to feel like the same note struck twice.
+*Pace / Sheri:* friendly, plain fondness; not mentioned. Open: poisoning blonde?
 
----
+**What I know that they don't**
+- (Vee doesn't know) the café was engineered; Randi and Pace are secret lovers running a coordinated con; the reunion was Randi-architected.
+- (Vee doesn't know) the blonde at the bar told her the *truth* about Pace; the reunion converted it into guilt; Pace extracted its content.
+- (Vee doesn't know) Randi cultivated the spanking-appetite; consummated by Pace; the confidante she runs to is her trainer, harvesting live.
+- (Vee doesn't know) the bet was a structure with no refusal — consent extracted and relabeled.
+- (Vee doesn't know) she was deliberately edged at brunch; a closing kiss once passed a glaze she never touched into her mouth.
+- (Vee doesn't know) she sent Pace a nude framed as her own courage; his promise was narrower. She has since shown that full uncropped nude to Randi — the leverage-image is in the runners' knowledge by her own hand.
+- (Vee doesn't know) the warmth she pours is the material the con converts — matured into daily dependency; her pride in being sewn-for is more of the same material.
+- (Vee doesn't fully register) her palate has been permanently remade — the ordinary food she once enjoyed is dead in her mouth, "ruined."
+- **(Vee now HALF-registers, this chapter, alone) — the shirt's warmth is her own heat given back, not him; his acts tell her nothing of what she is to him; he sleeps easy while she can't; there is no message that reaches the center. She got near the true reading unaided — but only in the dark, and it may not survive morning.**
+- (Reader, held ajar) keeping her out of every public room — his stated loud-room reason reads plausibly real AND is perfect isolation-architecture. She feels the resulting namelessness as her own failure. Chord unresolved.
+- (Vee half-registers) there is a *rule*/wall around the word; a *pile* of things that don't add up she keeps sweeping; she has no name at all for the relationship, big or small.
+- **(Vee DOES know, Randi does NOT know she knows) — Randi's father defrauded the PPP loans; Miranda Holdings the county's worst outlier; Vee watched Randi's mask crack and chose to shield her. Two-directional secrecy, out of love.**
+- (Reader, caring/complicating side) Randi's want for Vee real enough to break her control; her inherited shame real, unengineered.
+- (Reader open) the men in Randi's stories do NOT match Pace.
+- (Reader open) whether the poisoning blonde was Sheri.
+- (Reader, both true) Pace's interior warmth real AND he runs the method AND a possible real sensory limitation — chord unresolved; the withheld word/name the fulcrum.
+- (Reader, caring side) Cassie's love wholly unengineered; right about the data; can't see she's describing Randi; asked the right question and was cropped out. Sleeps through Vee's honest night.
+- (Reader open) white-gold band — marriage, to whom.
+- (Reader open) Pace's scar / closed parents-door — "I don't go back"; content withheld.
+- (Reader open) what "after the dance" holds — both treat it as shared true weight; I have only the outline.
+- (Between runners) Randi jealous of Pace's regard for Vee AND wants Vee herself.
+- (Reader irony) what was done to young Pace ("luck") is the shape of what's being done to Vee; "luck"/unearned attaches to Randi too.
+- (Reader, loose) the family money Randi grew up inside dressed harm as care — the shape of the con.
+- (Reader open) whether Cassie ever catches Vee's wrist.
 
-### Carry-forward state
-
-**Who's who**
-- **Pace / Peter** — *man; 22; math PhD candidate.* House off route six-fourteen, deep in trees; homemade furniture; owns his house; MRI patent money; powerlifter; cooks from scratch (builds hunger, then sets the plate down). Careful, ordered; sawdust-and-salt smell from his work. Reads a body like an instrument; loves in deeds, withholds the word; rule is HE says it first. Backstory: college at 15; a year exiled to a school hallway; a 19-yr-old "tutor" at 15 (reader reads grooming; he calls it luck). Old inner-thigh surgical scar he won't discuss; seals the door at "parents." **Real name Peter — Vee knows it, whispered it to him asleep.** Owns the homemade bench (ch.1; Vee has NEVER seen it). Secret lover of Randi; together picked Vee; both fallen for her. Gave her his flannel. Sleeps easy, "a man with nothing grinding in him." Signatures: "There you are," "may I," "we find out," "I'm listening now." Mentioned-only this chapter (across town, asleep).
-- **Randi / Miranda** — *woman; 21.* Poised, wealthy; green-citrus scent; blue toenails; sorority Standards board; green Mercedes. Secret lover of Pace; warmth-as-method; genuinely gone on Vee AND operating her. Father took multiple PPP loans (Miranda Holdings, LLC), cut workers — shame Vee saw graphed and buried. Vee does NOT know Pace and Randi are connected. Not present this chapter.
-- **Vee / Vivienne (Thorne)** — *woman; POV.* Tall, lush hourglass; warm dark-red/copper hair; ex-synchronized swimmer; econ major; Ohio; not wealthy. Deep body-shame ("floozy/slut" mother-voice) inverting into chosen exhibition; palate/body woken by Pace's cooking. Loves Pace, has NEVER said it awake — whispered "Peter" only to him asleep; can't name what he is (not the big word, not the small one). Full kit + top drawer at his place. **New this chapter:** alone in her bunk, sleepless; took his flannel apart in her mind and named the trap herself — the warmth in it "was her own, given back; he wasn't in it"; can now predict his warm non-answer, so a text is useless; stripped the shirt off, chose the honest cold over the false warmth, left it in a heap, did not sleep. Does NOT know Pace and Randi are connected.
-- **Cassie** — Vee's roommate; the clean, unmethodical witness; keeps the window cracked two inches; the one Vee trusts most. Present this chapter, asleep. **Sheri** — Pace's blunt cycling friend (mentioned-only overall). **Brooke** — sorority president (mentioned-only). **Vee's/Pace's parents, Randi's father** — mentioned-only.
-
-**Motif & image ledger**
-- *"There you are"/"may I"/"we find out"/"I'm listening now"/warm house* — Pace's signatures.
-- *Loves in deeds, never words / "he never said" / rule that he says it first / withheld name* — this ch.: "everything he did and not the one thing he wouldn't say... the silence at the center where the word should be."
-- *Green white-dotted scrunchies / the top drawer* — provision-as-capture.
-- *Feeding / hunger made then met / the plate set down once he'd built the hunger* — named again inside the shirt-inventory (Bare ch.).
-- *Being looked at / on display / body-as-problem / shame / "floozy/slut"* — inverted into chosen exhibition; inverted AGAIN in Bare: bare with no one watching = just cold.
-- *The scar (inner thigh) / the sealed door at "parents."*
-- *The bench (ch.1) — Vee has never seen it; only unspent escalation.*
-- *The flannel he gave her, worn to sleep / re-scented weekly* — Bare ch.: fully anatomized, its magic debunked ("warm because she was warm"), then removed and left in a heap.
-- *Randi's warmth as method.*
-- *The cracked window (two inches, Cassie's habit)* — Bare ch.: present; the honest cold Vee finally chooses.
-- *Money as arithmetic (Vee prices everything).*
-- *"Peter" — withheld real name; can't name what he is / "not the big one and not the small one."*
-- *The pile / under the rug / heap where a dropped thing lands* — Bare ch.: literalized — she leaves the shirt in a heap, unresolved and visible, not buried.
-- *He sleeps easy / "a man with nothing grinding in him"* — his tell; Bare ch.: turned against him (he sleeps, she doesn't).
-- *Orgasm drowns the confession.*
-- *The phone, his name near the top, the empty text field* — first sighting (Bare ch.): no words that come back as the thing she needs.
+**Motifs**
+- *The shirt / his scent as costume and lie* (repeat, PEAK): the quilt/flannel presence turns to its cost tonight. Worn "for the hall… so a girl too far gone in a boy" reads on Cassie — "It hid what it was." Then the reversal: "It was warm because she was warm… He wasn't in it." Stripped off into the cold on purpose. The comfort exposed as her own heat given back.
+- *The withheld word / no name* (repeat, peak): "waited for the words. There weren't any"; "the silence at the center where the word should be"; "not the big one and not the small one." Now she can't even type it into a phone.
+- *Under the rug / the pile* (repeat — INVERTED this chapter): she leaves the shirt "not folded, not set back on the pillow, down in a heap where a dropped thing lands." First time she does NOT smooth/seal/sweep — leaves the ugly thing where it fell.
+- *Bare / stripping the comfort* (NEW): choosing cold bare skin over the warm lie; "it was so much worse, and she did not put it back on." Title-named. First clear-eyed refusal of the anesthetic.
+- *The remade palate / no going back* (carry, not re-touched this chapter): the ordinary can no longer feed her; alteration as subtraction.
+- *Love said in acts, never words* (repeat, at cost): "every last thing he did… and none of it told her what she was to him."
+- *The asymmetry — he sleeps easy, she doesn't* (NEW): "gone down easy as a man with nothing grinding in him"; Cassie "breathed on, slow and easy and asleep"; Vee alone did not sleep till the window greyed. She is the only one awake, the only one grinding.
+- *The window cracked two inches / the cold room* (NEW, quiet): Cassie's window; the cold she lets down on herself; the grey dawn.
+- *Two sealed doors* (carry): "I don't go back" (Pace) — but this chapter Vee *un*seals one thing, leaves it lying open.
+- *"Luck" / the long spoon* (carry, quiet): reaching for warmth, getting her own heat back, barely touched — tonight she pulls the spoon back and sits in the cold.
+- Carry (quiet): the goodbye kiss; Randi's man-who-leaves stories; the mirror-noticing; the outlier point; cropped/parts-that-fit.
 
 **Symbolism noticed**
-- Bench = premeditated desire masked as innocent furniture.
-- Engineered agency = the freely-given yes as trap.
-- Provision (food, scrunchies, drawer, dress, photo, flannel) = capture dressed as care — Bare ch.: the flannel's warmth exposed as her own heat mirrored back, care revealed as hollow.
-- The tutor named "luck" = abuse metabolized as good fortune.
-- The withheld name = the relationship that exists only in the dark and stops at its edges.
-- Bare-with-no-audience = display without being chosen is just cold (inversion of chosen exhibition).
-- The un-buried heap = the first thing she leaves unresolved and visible instead of under the rug.
+- **Bare** = stripping off the borrowed warmth to sit in the true cold; refusing the anesthetic; being without a name, without a cover, without the lie that "hid what it was." First title that names her moving *toward* truth, not under the rug.
+- **The shirt's warmth as her own heat given back** = the whole relationship in one image — she pours warmth in and gets only her own warmth returned, mistaking it for him. The con and the loneliness rendered as thermodynamics.
+- **The empty message field** = the missing name made into a blank she physically cannot fill; no text gets "the shape of what you were to them."
+- **The shirt left in a heap, unfolded** = the un-swept thing; the one gesture she doesn't smooth over.
+- **He sleeps easy, she doesn't** = the asymmetry of who has "nothing grinding in him" — the con costs the mark her sleep and costs him nothing.
+- Carry: under the rug; the unnameable relationship; the loud room he can't hear her in; the climax that drowns the name; the un-said "I love you"; the remade palate as loss; the crop; PPP fraud as money dressed as care.
 
 **Open questions**
-- What's behind the sealed door at "parents" / the inner-thigh scar?
-- Where does the nude photograph live now — does "never share" hold?
-- Does Vee ever learn there was a game / that Pace and Randi are connected? When do the two worlds touch? (Still haven't physically touched; I dread the collision. She's now reached the hollowness on her own — the crack.)
-- When does Vee see the bench? (Only escalation left; fully primed.)
-- Does she ever say it awake — the big word, or even the small one?
-- WHY won't Pace say it back? (Reader suspects: Randi.)
-- Now that she's named the hollow and chosen the cold — does she go looking for the real thing? Is this the start of the walk toward the collision?
+- Does tonight's clear-eyed cold survive the morning, or does the shirt go back on for the hall and the refusal dissolve into the ordinary/the pile?
+- Does she take this ache to Randi and get it "helped" (harvested)?
+- Does Cassie ever wake for one of these nights — ever catch Vee's wrist?
+- Does the withheld word/name become the con's central lever — and does Randi ever get engineered to say it?
+- Does the *pile under the rug* ever get looked at in daylight?
+- What did happen "after the dance" — and who really went cold?
+- Is Pace's loud-room limitation real, cover, or both?
+- Does the uncropped nude in the runners' hands surface?
+- Does Vee's kept secret about Randi's father's fraud ever surface?
+- Does Randi ever learn she was seen and shielded?
+- Does Randi's inherited shame connect to *why* she runs cons?
+- Was the poisoning blonde Sheri?
+- Where does Vee's own emerging wanting toward Randi go?
+- White-gold band — marriage, to whom?
+- Pace's scar/parents-door — does the question ever get asked?
 
-**Story so far**
-Pace and Randi are secret lovers who together picked Vee and steered her into their bed without her knowledge; both genuinely fell for her. Vee loves Pace (unsaid awake), adores Randi, doesn't know the two are connected. Through fall into winter: first sex and the found scar; the homemade dress; Pace's history; the spanking arc; confessions to Randi and Cassie; whispering "Peter" to sleeping Pace; the induction; the nude photo she sent then showed Randi; Randi's father's PPP fraud surfacing as a stats outlier she silently buried; Thanksgiving; on the porch she offered a built love-confession and got a warm non-answer, retired the attempt; at Chili's / after, she demanded to be seen in public, picked a fight, forgave him, lay awake with no name for what he is. **Now (Bare):** another sleepless night in her bunk, Cassie asleep below. She holds her phone over an empty text field to him and knows no message can get out of him the shape of what she is to him. She takes off his flannel and puts it back on bare; it works for a while — his smell, all his deeds in the cloth — until she realizes the warmth is her own, given back, and he isn't in it. She strips it off entirely, chooses the colder honest air over the false warm, leaves the shirt in a heap on the floor, and does not sleep.
-
-**How I feel**
-Vee: I love her and I'm scared for her, but this chapter I also *respected* her — she reached the hollow herself and refused the comfort. Bleak, self-possessed despair; the closest she's come to the truth unassisted. Pace: distrust I carry, warmth I can't fault; his easy sleep now reads almost cruel against her wakefulness — the withheld name still reads deliberate and Randi-shaped. Randi: genuinely gone AND operating; offstage. Cassie: trust her most; she sleeps through the thing Vee can't say. Mood: the golden warmth has fully curdled to cold; the two worlds still haven't physically touched; I dread the collision and the bench, and I'm sensing this cold night is the first step toward one of them.
+**How I feel — overall**
+Quietly wrecked, and — oddly — a little proud of her. This is the loneliest chapter and also the most honest one: no one steering, no con machinery in the room, just Vee alone with a borrowed smell that stops working when she figures out the warmth is her own. "He wasn't in it" is the truest sentence she's reached, and she reached it herself, in the dark, unaided. The ending refuses the comfort — strips bare into the cold on purpose, leaves the shirt in a heap where she'd normally have folded and swept it — and that snag of un-sweptness is the first crack in her survival mechanism I've believed in. I don't trust it to last the morning (my guess: it doesn't), but tonight it happened. No new warmth or wariness toward anyone else — Cassie's asleep, the runners off-page — so it's all Vee, all interior, all ache. The hopefulness in me is very small and very stubborn: she left a thing lying honest on the bed, and things left lying get seen.

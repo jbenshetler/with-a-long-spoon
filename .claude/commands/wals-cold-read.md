@@ -118,6 +118,16 @@ Build the ordered list of **slugs to review**, all drafted, in story order:
 - **`<slug-a>..<slug-b>`** → inclusive; drafted scenes in that span, in order.
 - **`<slug>..`** → that scene forward through the last drafted scene (cascade form).
 
+  **Volume boundary invariant (hard).** The Volume One target set is
+  **authoritative from `tools/volume_scenes.py`** (parsed directly from the
+  chronology's `◆ VOLUME` markers) — never re-derive the scene list by hand in
+  this workflow. A `fall` run is EXACTLY the drafted Volume One slugs, it MUST
+  stop at `nothing-underneath`, and it MUST NOT include any scene under
+  `◆ VOLUME TWO/THREE` (e.g. `on-her-floor`). Before spawning any reader,
+  assert every target's volume (per `tools/volume_scenes.py`) equals the
+  requested volume; if any target fails that check, refuse and stop rather
+  than running a leaked scope.
+
 If a requested slug isn't in the manifest, or a range endpoint is `planned`, say so
 and stop rather than guessing.
 
@@ -216,6 +226,13 @@ output**, so do NOT parallelize:
    - any **`[AI]` / `[AI?]` craft notes**, embedded author annotations, or trailing
      **craft-notes / revision-notes blocks** — they are scaffolding, not text.
    - Keep the prose otherwise verbatim, including `---` section breaks.
+
+   **Pre-spawn prose guard (hard stop).** Before spawning, assert the cleaned
+   chapter text is non-empty, at least ~500 characters, and contains none of
+   the placeholder strings ("verbatim stdout", "command output above", "the
+   command output above"). If it fails, **HALT that chapter and do not
+   spawn** — this is exactly the failure mode that once produced a no-read
+   review (`fed`). Report which chapter failed the guard and stop.
 3. Spawn a `blind-reader` subagent — **passing `model: <tier>` from Step 0** — whose
    prompt contains ONLY:
    - the **display title** (from the manifest);
@@ -232,6 +249,14 @@ output**, so do NOT parallelize:
    next scene.** Halt the entire run, report which scene tripped it and the
    `tool_uses` count, and let the author decide. A clean run is `tool_uses: 0` on
    every scene.
+
+   **Post-return refusal guard (hard stop).** Also check the reader's
+   `### Reader reaction` text for a refusal signature — "no chapter text",
+   "can't review this chapter" / "cannot review this chapter", "no page
+   here", "re-run with the actual chapter", or similar. If found, **do NOT
+   write the review and do NOT advance the carry-forward chain** — halt,
+   re-fetch the chapter text (re-run the pre-spawn prose guard above), and
+   re-spawn rather than let a refusal be recorded as a review.
 5. **Retention gate — hard retry.** Before writing the review, compare the candidate
    carry-forward with the prior carry-forward using the same rule as
    `tools/cold_read_batch.py::check_retention`: only principals already established in

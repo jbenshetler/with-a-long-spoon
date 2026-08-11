@@ -1,107 +1,137 @@
 # Cold read — The New Ordinary
 
-*scene: scenes/new-ordinary.md · model: claude-opus-4-8 · read after: the-induction*
+*scene: scenes/new-ordinary.md · model: claude-opus-4-8 · read after: outlier*
 
 ## Reader reaction
 
-# The New Ordinary
+After two heavy chapters at the table with Randi, this drops me straight back into Pace's house and the warm bath of it, and I'll be honest: it worked on me almost completely. This is the softest, most swoon-heavy chapter I've read, and the ache underneath is only there because of what I carry in from outside it.
 
-## The felt read
+The scene is Vee coming back after five nights away — nights she called herself, for school, falling behind. That detail lands hard: "some unreasonable corner of her had wanted him to fight, to want the nights badly enough to say so out loud. He never said so." That's the whole worked-on-desire engine in one line — the not-fighting costs her more than a fight would, and it makes her come back on night five. He opens the door and waits on the far side. She lasted five.
 
-This is a quiet one, and it undid me a little more than the loud ones do. No new information, no lurch — just a Friday, a homecoming, sex, a pizza, and a shirt. And yet by the end of the shirt business I had that tight throat feeling I get when something is too tender to be safe.
+The sex is graphic and sustained and it's warm, not clinical — her body "having just published the number she'd gone to such trouble to keep private," coming "shamefully fast," five nights coming out of her in one undignified rush. I felt it. The tell is her own throat betraying the careful story. And then he feeds her, "he almost always did," and the cooking scene is where the chapter quietly does its real work on me: "He'd have made the pizza exactly like this for an empty house. The care was only the shape his attention took when it came down on a thing." That's the most disarming defense of Pace the book has offered — his tenderness reads as constitutional, not performed. Which is exactly what makes the chord unresolved for me: it's real AND it's the method, and here they're indistinguishable.
 
-The whole chapter is the jacket's word *chosen* rendered in slow motion. She comes back after five nights she imposed herself, and the thing that "still sat wrong in her" is that he didn't fight for the nights. "Some unreasonable corner of her had wanted him to fight, to want the nights badly enough to say so out loud. He never said so. He only opened the door and waited on the far side of it for her to come back through." That's the whole book compressed into a doorway. His non-insistence reads as grace and is also, I can't stop noticing, the perfect lock — she left of her own will and came back on her own will after five nights, having "lasted five." He didn't have to do anything. The drawer did it. The door did it. The shirt did it. He just waited.
+The palate beat — "She could taste all of it" — is the remade-palate motif brought fully into the open, and staged as pure gift: the pizza coming apart into separate flavors, cotton candy versus cut strawberries. On the page it's a woman discovering she can taste. In my ledger it's the permanent alteration framed as pleasure, and this chapter framed it so beautifully I almost forgot to flinch. Almost.
 
-Vee I love and I'm scared for, same as before, only now the fear is domesticated — she's *arranging her life around him*, laundering a flannel to keep his smell on tap through the nights she has to sleep alone. The shirt scene is extraordinary and it's the most exposed she's ever been on the page, more than any sex. She confesses she wore it every night, that it "went to nothing," that she needs him to re-scent it and hand it back Sunday. That's an addict describing a supply. And the fact that she's the one who had to wash it, and nearly lost the nerve to admit why — the wanting is all coming from her side of the ledger now, out loud, while his answer is, as ever, a deed: he pulls the flannel on over the shirt he's already wearing and stands in his own kitchen in two shirts. "That was the whole of his answer, as it always was." God. It's beautiful and it's a leash made of longing she braided herself.
+Then the shirt. God, the shirt. She washed it because it "stopped smelling like you… one day last week it didn't smell like anything at all." She wore it every night she wasn't here. She hands it back not to return it but to have him re-scent it — "I need you to wear it for me. The whole weekend." And he pulls it on over the shirt he already wears and stands there in two shirts in his own kitchen because she told him to, "and that was the whole of his answer, as it always was." That's love-in-acts, his signature move, and it undid me. The "foolish hot prick of tears" is hers and it was nearly mine. This is a genuine romantic peak.
 
-Pace. I keep trying to catch him and the chapter won't let me — that's the discomfort. There isn't a single false note. The pizza is the tell for me, though, and it cuts both ways. "He wasn't performing any of it for her... He'd have made the pizza exactly like this for an empty house." That's offered as the reassuring thing — the care is genuine, not staged. But it also means the care is *impersonal* at its root, "only the shape his attention took when it came down on a thing," and she literally can't tell whether she or the dough got the larger share of it, "and found she didn't mind." That should chill me and it half does. He attends to her the way he squares his razor to the counter. She's a thing done well.
+And that's the dread, sitting quiet under all of it: this is titled **The New Ordinary**, and that's precisely what frightens me. The drawer of her things "set down in a clean man's house," the shirt she sleeps in every night away, the dependency gone so smooth it's become routine — the narrowing has stopped being an event and become her weather. The chapter isn't a seduction anymore; it's a life. She's not being pulled in; she lives here now. What I know that she doesn't — that the warmth she pours out is exactly the material the con converts — has never felt heavier than in a chapter where the con is invisible and the warmth is total. Nothing "off" happened on the page. That's the point. The book's series title, *With a Long Spoon*, keeps whispering that supping this warmly with this much devotion is the danger, not the safety.
 
-The taste passage got flagged in my head — "She could taste all of it... every flavor in it, separately, laid out for her to walk down one at a time," cotton candy versus cut strawberries. On its face it's just her palate waking up, of a piece with the losing-weight, the coming-alive-in-the-body arc. And his little pleased private smile "as if her face had just told him something he'd wanted to know" is sweet. But I've learned to distrust his pleased-that-my-instrument-registered smiles, so a small part of me filed the new sensitivity as *another dial he's turned up in her.*
+No Randi, no Cassie, no fraud, no table — this is a chamber piece, two people, and it earns its small scale. My only faint friction is that after the seismic Randi chapter this feels like a held breath, a consolidation rather than an advance; but I think that's deliberate — it's showing me the ordinary the con has purchased, and it's meant to feel like nothing is wrong.
 
-Erotic charge: present but deliberately gentle — a 2, not a 3. The sex is early in the chapter and it's about the five-night hunger publishing itself: "the exact sound of a woman who had told herself a careful story about needing time to study and was being shown now, by her own throat, just how true the story had been." That "publishing the number" motif is back and it's doing its usual thing — her body narrating what her mouth would deny. The heat is real but it's not the peak of the chapter. The peak is a laundered shirt. That's the tell of where this book lives.
+What I want next: back to the seam. Randi's crack, the secret Vee holds, the coordination. This chapter refilled my tenderness so I'd have more to lose.
 
-Trust/suspicion: no new evidence, but the ambient hum of my distrust for Pace is exactly as loud as ever, precisely *because* nothing was off. A chapter this frictionless, this well-provisioned, makes me nervous the way a too-calm sea does. Randi is entirely absent again — five chapters now she's been a ghost, and the jacket keeps promising me she's half the trap. The two worlds still haven't touched. I keep waiting for the phone to ring in the middle of a scene like this one.
+**Cast present (in person):** Vee, Pace. Mentioned-only: none really — even the shirt's origin (the rain, the hike) is recalled, not present.
 
-Friction as a reader: almost none. If I'm honest the cotton-candy/strawberries simile is the one place I felt the author reach a little — it's lovely but it's *explaining* the epiphany a beat past where I'd gotten it. Tiny thing. Otherwise the restraint is the achievement.
+**Heat:** 3 — graphic, sustained sex opening the chapter; two orgasms, present and central to the first third.
 
-The title. "The New Ordinary" — this is the routine now, the settled shape: the drawer that means she never fully packs, the flannel rotation, the Friday return, the pizza. It names the thing I find most ominous, which is that the extraordinary has become *ordinary*, that capture has finished setting and is now just her life. On reread I think the title is a little sad and a little sinister at once — "ordinary" is what you stop questioning. The book title, *With a Long Spoon* — I still don't have the proverb consciously but I feel its shape: you sup with the devil with a long spoon, keep your distance from the thing that will consume you. Nobody here is using a long spoon. Vee is spooning the pizza right off his palm. And "every yes was freely given, that was the trap" — this chapter is the purest illustration yet. She *chose* the five nights away. She *chose* to come back. She *chose* to launder and re-request the shirt. Every step hers, and every one tightens the same knot.
+**Romance:** 3 — the shirt exchange is a devotion peak; love enacted, tears held down, "the whole of his answer."
 
-What I want next: I want Randi back on the page, badly, because her absence is starting to feel like a held breath. I dread the collision more with every gentle chapter — the tenderer this gets, the worse the floor will be when it drops. *Guess from here:* the shirt, the re-scenting, the "she'll carry it back full of him" — that's a thread being laid down to be pulled. And I still haven't seen the bench. She's more primed than ever and more trusting than ever. That's the last door.
+**Motifs & images:** *The drawer / her made place* (repeat) — now "a whole drawer of her set down in a clean man's house." *The remade palate* (repeat, foregrounded) — "She could taste all of it," cotton candy vs cut strawberries. *Love said in acts, never words* (repeat) — he wears two shirts as his entire answer. *The unasked / the shut door* (repeat, turned warm) — "He was good at not asking things," here a kindness, not a seal. *Feeding as attention* (repeat) — the pizza built slow, care as the shape his attention takes. *The shirt* (NEW object) — scent as presence, washed to nothing, given back to be refilled. *Wanting him to fight* (NEW) — the not-fighting that costs her more.
 
----
+**Symbolism:** The shirt = his presence made portable and self-renewing — she carries him into every night away, a dependency she now maintains as ritual. The re-scenting is her asking to stay held while absent. The palate coming apart into countable flavors = the remaking, offered and received as a gift she has "no frame for." "The New Ordinary" itself = the con matured into ordinary life.
 
-**Cast present (in person):** Pace, Vee.
-**Mentioned-only:** none named (Cassie/Randi/the dorm implied but unnamed here).
+**Characterization:** Vee deepens — her self-betraying honesty (the shirt confession "shoved out all at once"), her need braided with shame at needing. Pace holds utterly consistent: the constitutional care, the not-asking, the wordless devotion — and the reader's unresolved chord (real warmth / running method) is held exactly, neither confirmed nor dissolved. Neither flattened.
 
-**Heat:** 2 — homecoming sex, tender and quick; her hunger publishes itself, but it's the opening movement, not the chapter's center.
+**Pace — within the chapter:** Well-judged. The sex, the cooking, the shirt build in a clean rising line; the cooking passage runs long but earns it as the emotional groundwork for the shirt. Nothing rushed.
 
-**Romance:** 3 — the shirt exchange is a devotion peak: her most naked confession of need, answered by his silent deed (two shirts in the kitchen).
-
-**Motifs & images:**
-- *The top drawer / her life folded into his house* (repeat, ch.33) — now the bag "goes light around the absence of it."
-- *The flannel from the rain* (repeat, hike) — escalated into a scent-supply ritual she launders and re-requests.
-- *Feeding / food-as-love, he cooks for the show of her eating* (repeat) — the pizza; watching her taste.
-- *Body publishing the number she'd keep private* (repeat, We Find Out / Induction) — her throat betraying the five nights.
-- *He brings her off first, always, before taking* (repeat) — stated again as law.
-- *Loves in deeds, never words / "he never said"* (repeat) — the whole shirt answer.
-- *The green scrunchies* (repeat) — in the drawer.
-- *Taste coming apart into separate flavors* (first sighting) — cotton candy vs. cut strawberries; her palate waking.
-- *He waits on the far side of the door* (first as phrased) — the non-insistence as lock.
-
-**Symbolism:** The laundered shirt = the supply she keeps herself, capture she now maintains with her own hands, absent captor included. The pizza he'd make "for an empty house" = care that is genuine and impersonal at once — she's a thing attended-to as well as the dough. "The New Ordinary" itself = capture finished setting, no longer questioned.
-
-**Characterization:** Vee deepened — her wanting is now fully voiced and self-managed; the shame-body is quieter, the need louder. Pace held steady and consistent (no contradiction; the pizza reasserts "genuine AND impersonal" cleanly). No one went thin; Randi simply absent.
-
-**Pace — within the chapter:** Earns its length. The homecoming and sex move quickly; the pizza dilates and could feel indulgent but the sensory build pays off into the taste epiphany; the shirt lands the whole thing. Only the strawberries simile overstays by a hair.
-
-**Pace — chapter to chapter:** A deliberate quiet after the Induction's charged solo turn. Momentum holds rather than builds — this is a "settling" beat, and it's the fourth or fifth tender/domestic register in a row with Randi offstage. Lovely, but I'm starting to feel the held breath; I need the plot to move soon.
+**Pace — chapter to chapter:** A deliberate held breath after the seismic Randi table — consolidating, not advancing plot. Momentum quiet; emotional stakes refilled. Risk of sag if the next also idles, but as a single beat it's a purposeful exhale.
 
 ## Carry-forward state
 
-**Who's who**
-- **Pace / Peter** — *man; 22; math PhD.* House off route six-fourteen; homemade furniture; MRI patent money; powerlifter (broad thick chest, too-big soft shirts); cooks constantly (bread machine, pizza stone, wooden peel); travels to conferences (Berkeley). Careful, ordered (razor squared to counter; kit fits one drawer). Reads a body like an instrument; privately calculating, self-justifying; loves in deeds, says nothing ("he never said"). Backstory: college at 15; a year exiled to a school hallway; a 19-yr-old "tutor" at 15 (reader reads grooming; he names it luck). Old surgical scar high inner thigh he won't discuss. **Real name Peter — Vee knows it, whispered it to him asleep.** Owns homemade bondage/spanking "bench" (ch.1, used on Randi; Vee has NEVER seen it). Secret lover of Randi; together picked Vee, steering her into their bed without her knowledge; both genuinely fallen for Vee. Always brings Vee off first, more than once, before taking for himself; bulk-bought green white-dotted scrunchies; cleared his top bathroom drawer for her, no note; made her a burgundy silk dress; gave her his enormous no-tag flannel in the rain, never asked it back. This chapter: waited out her five self-imposed nights away without a word of protest; wore the laundered flannel over his own shirt on her request to re-scent it. Signatures: "There you are"/"there it is," "may I," "we find out." **Seen in person.**
-- **Randi / Miranda** — *woman; 21.* Poised, wealthy; cold green-citrus scent; blue toenail polish; sorority Standards board. Secret lover of Pace. Warmth-as-method; genuinely gone on Vee AND operating her. Vee does NOT know Pace and Randi are connected. **Offstage now ~5 chapters running.** Seen in person (earlier).
-- **Vee / Vivienne (Thorne)** — *woman; POV.* Tall, lush hourglass; warm dark-red/copper hair; snub freckled nose; ex-synchronized swimmer; strong econ/stats mind; Ohio; not wealthy. Deep body-shame; the "floozy/slut" mother-voice; wets easily. Surrendered fully to Pace; a spanking-response; loves him (whispered "Peter" asleep); quietly losing weight; full kit + top drawer at his place; chose to be looked at at the induction. This chapter: took five nights away for school on her own call and broke after five; laundered his flannel and confessed wearing it every night, asked him to re-scent it weekly; palate waking (tastes flavors separately). Does NOT know Pace and Randi are connected. **Seen in person (POV).**
-- **Cassie** — Vee's roommate; clean, unmethodical witness; dry, fond. Seen in person (earlier).
-- **Brooke** — sorority president; mentioned-only. **Sheri** — Pace's blunt cycling friend; seen in person (earlier). **Vee's/Pace's parents, Pace's teenage tutor** — mentioned-only.
+**Principals**
+- **Pace** (= Peter): young math PhD; powerlifter; furniture-maker; MRI patent. Ordinary pleasant face, light brown hair, thick calloused hands. White pickup; small post-war house in the trees off six-fourteen. Real name Peter; engineered "tutor" at 15–17 called "the best two years." Lifting as self-erasure. Scar high inside thigh / paler chest line she keeps unasked; "I don't go back" (sealed interior). Devotion enacted in acts, never words. Interior warmth genuine and unrecognized; also runs the method — chord unresolved. **This chapter, on-page: didn't fight her five-night absence, "take the time you need, I'll be here"; the not-fighting costs her more. Cooks the pizza from scratch with total absorption "for an empty house" — care as constitutional, not performed. "Good at not asking things." Wears the flannel over his own shirt all weekend, wordlessly, to re-scent it for her — his entire answer.**
+- **Randi** (= Miranda): 21, junior, sorority Standards; black hair, blue eyes, dancer's body, cold-green/citrus scent; plain white-gold band. Marketing major. Virtuoso extractor; dark-green Mercedes. Secretly Pace's lover and Vee's closer. Grew up rich, "inside the thing they graph"; father took multiple PPP loans across several businesses and defrauded them — Miranda Holdings, LLC the county's worst outlier. Mask cracked for real over inherited shame — "Cheating bastards" ragged, first-time; recovered inside the hour, never knew Vee saw. Genuine unengineered vulnerability. **Not present, not mentioned this chapter.**
+- **Vee** (= Vivienne): protagonist. Tall lush hourglass, copper/dark-red hair, snub freckled nose. Econ major — department award this fall, "the one at the table numbers came easy to"; Ohio; hungry to be chosen, the careful one, prices-first. Holds Randi's father's fraud secret, unused, out of love. **This chapter: back at Pace's after five self-called nights away for school; her own body publishes how much she wanted him. Keeps a drawer of her things in his house, sleeps every night away in his flannel; washed it when it went scentless and hands it back to be re-worn/re-scented — need braided with shame. Can now taste every separate flavor of the pizza ("no frame for" it). Wanted him to fight her absence; he never does.**
+- **Cassie** (= Cassandra): Vee's roommate/friend; clever, warm, dry, loves-by-holding; truest, unengineered bond. Pre-nursing. Dad laid off in 2020. Drove the PPP subject with flat certainty, right the whole way, boxed out of the screen's sightline; named Randi as "the one that's easy to see" without knowing it was Randi. **Not present this chapter.**
+- **Sheri**: Pace's cycling partner; child-sized, bleached ponytail; reads queer; "alone," fed by Pace at Thanksgiving. Not mentioned. Open: poisoning blonde?
+- **Meg**, **Brooke** (Randi's sister), **Kayla**, **Christine**, **Theo**, **the silent taller woman** (unnamed, open), **the older bartender** — off-page.
 
-**Motif & image ledger**
-- *"There you are"/"may I"/"we find out"/warm house kept for a coming woman / he waits on the far side of the door* — Pace's signatures; the door-and-wait rephrased in this ch.
-- *Loves in deeds, never words / "he never said" / "There was never a note" / "the whole of his answer, as it always was."*
-- *Green white-dotted scrunchies / the top drawer / life folded small* — provision-as-capture; the bag "light around the absence."
-- *Feeding / hunger made then met (food-as-love)* — the pizza; watching her eat/taste.
-- *Being looked at / body-as-problem / shame / "floozy/slut"* — inverted at the induction.
-- *The scar (inner thigh) — traced, never asked, "meant to keep."*
-- *The bench (ch.1): premeditated spanking-desire as innocent furniture — Vee still has never seen it.*
-- *Body publishing the number she'd keep private / involuntary body* — her throat betraying the five nights (this ch.).
-- *He brings her off first, always, before taking.*
-- *Randi's warmth as method; goodbye mouth-kiss w/ second press; Randi dressing Vee.*
-- *Money as arithmetic (Vee prices everything).*
-- *The razor squared to the counter edge* — Pace's order.
-- *"Peter" — withheld real name, spoken by Vee asleep.*
-- *The burgundy dress / the slit; the flannel* — the flannel now a laundered scent-supply ritual (this ch.).
-- *Taste coming apart into separate flavors — cotton candy vs. cut strawberries* (first, this ch.) — her palate/body waking.
+**Relationship ledger**
+
+*Core — Pace / Vee:* **involved, consummated (y); reconciled; easy/domestic, deepening — now hardened into her ordinary life.** Surface (Vee): the man who wants all of her, holds her, feeds her, lets her come home. True (reader): the con's payoff AND a tenderness that reads real; the dependency is now routine, load-bearing, self-maintained (she keeps his shirt scented to survive the nights away).
+  - *desire worked-on-her ↔ desire hers:* **both live this chapter** — her runaway appetite (hers, on the page) AND the worked-on pole surfacing: the not-fighting that pulls her back on night five; the remade palate now openly a gift she "has no frame for." Her wanting him to fight = the engine visible.
+  - *warmth ↔ cold:* **warm, near-total** — built-slow sex, cooking-as-attention, the shirt worn wordlessly. Cold only what the reader carries. Peak: two shirts in his kitchen "because she'd told him to."
+  - *cherished ↔ used:* **cherished** on the page, fully; reader holds *used* pole loaded (the warmth she pours is the con's raw material). Quietly at its widest gap.
+  - *isolation ↔ belonging:* **belonging felt as home**, now ordinary; reader sees the narrowing gone routine — the drawer, the shirt, the five-night limit she can't hold.
+  - *This chapter:* deepened toward domestic permanence; worked-on and hers poles both lit; no state change.
+
+*Core — Randi / Vee:* **intimate front / instrumented steering — closer harvesting the mark; consummated n. Two-directional secrecy now live.** Surface (Vee): truest friend, the one she shielded in her worst moment. True (reader): the extraction ritual, but Vee holds real unused knowledge of Randi's father's fraud, kept out of love. Not on-page this chapter.
+  - *desire worked-on-her ↔ desire hers:* quiet this chapter.
+  - *warmth ↔ cold:* warm both ways; one-sided-warm in Vee's favor (her unseen protective silence). No change.
+  - *cherished ↔ used:* inverted last chapter (mark cherished the closer); stands. No change.
+  - *isolation ↔ belonging:* belonging-of-the-narrowing-kind; stands.
+  - *This chapter:* no change; not on-page.
+
+*Core — Pace / Randi:* **involved, consummated (y); secret; coordinated con.** Off-page, unmentioned. Full nude Vee sent Pace also seen by Randi. Randi's leaking want for Vee + exposed inherited shame are live fault lines. White-gold band still loaded. No change this chapter.
+
+*Core — Randi with herself:* the "face" as armor over relocated wanting — cracked twice now (desire, then inherited shame/father's fraud). Real armor over real wounds; the person under the closer filling in. No change this chapter (off-page).
+
+*Core — Vee with herself:* runs a managed self, prices-first, but caution keeps giving. This chapter: her honesty betrays her (the shirt confession shoved out to be done with it); she needs and is ashamed of needing; wants him to fight and he won't. Names her competence elsewhere (the math, the award). Her decency and her need are both her exposure.
+
+*Core — Vee / Cassie:* **close, easy — truest, unengineered bond.** Off-page this chapter. Cassie already out of the "just us" evenings; geometry keeps clearing her from what she'd catch. No change.
+
+*Pace / Sheri:* friendly, plain fondness; not mentioned. Open: poisoning blonde?
+
+**What I know that they don't**
+- (Vee doesn't know) the café was engineered; Randi and Pace are secret lovers running a coordinated con; the reunion was Randi-architected.
+- (Vee doesn't know) the blonde at the bar told her the *truth* about Pace; the reunion converted it into guilt; Pace extracted its content.
+- (Vee doesn't know) Randi cultivated the spanking-appetite; it was consummated by Pace; the confidante she runs to is her trainer, harvesting live.
+- (Vee doesn't know) the bet was a structure with no refusal — consent extracted and relabeled.
+- (Vee doesn't know) she was deliberately edged at brunch; a closing kiss once passed a glaze she never touched into her mouth.
+- (Vee doesn't know) she sent Pace a nude framed as her own courage; his promise was the narrower "I'd never share your photograph." She has since shown that full uncropped nude, freely, to Randi — the leverage-image is in the runners' knowledge by her own hand.
+- (Vee doesn't know) the warmth she pours out is exactly the material the con converts — and this chapter that warmth has matured into a self-maintained daily dependency (the re-scented shirt, the drawer, the five-night limit she can't hold).
+- (Vee doesn't fully register) her palate has been permanently remade; she experiences it as a gift she has "no frame for."
+- **(Vee DOES know, Randi does NOT know she knows) — Randi's father defrauded the PPP loans; Miranda Holdings the county's worst outlier; Vee watched Randi's mask crack and chose to shield her, saying nothing. Two-directional secrecy: Vee holds this over Randi, unused, out of love.**
+- (Reader, caring/complicating side) Randi's want for Vee is real enough to break her control; her inherited shame over her father is real, unengineered. The closer has a genuine interior.
+- (Reader open) the men in Randi's stories do NOT match Pace.
+- (Reader open) whether the poisoning blonde was Sheri.
+- (Reader, both true) Pace's interior warmth is real AND he runs the method — chord unresolved; this chapter widened the case for the warmth being constitutional ("for an empty house").
+- (Reader, caring side) Cassie's love wholly unengineered; right about the data; can't see she's describing Randi.
+- (Reader open) white-gold band — marriage, to whom.
+- (Reader open) the scar / the closed parents-door — "I don't go back"; content withheld.
+- (Between runners) Randi jealous of Pace's regard for Vee AND wants Vee herself — double seam.
+- (Reader irony) what was done to young Pace ("luck") is the shape of what's being done to Vee — and "luck" now attaches to Randi too (daughter of fraud, unearned).
+- (Reader, loose) the family money Randi grew up inside was itself a lie dressing harm as care — the shape of the con she runs.
+- (Reader open) whether Cassie ever catches Vee's wrist — scheduled away from Vee's Randi-time, geometrically boxed.
+
+**Motifs**
+- *The remade palate / no going back* (repeat, foregrounded here): "She could taste all of it… no frame for" — the pizza coming apart into countable flavors, cotton candy vs cut strawberries. Permanent alteration received as pure gift. Trail: earlier the glaze/implanted appetite; here the tasting-everything.
+- *Love said in acts, never in words* (repeat, peak): Pace wearing two shirts in his kitchen "because she'd told him to… the whole of his answer, as it always was." Carried also as Vee's silence (shielding Randi).
+- *The drawer / her made place* (repeat): "a whole drawer of her set down in a clean man's house," the bag gone light around the absence.
+- *The shirt / scent as presence* (NEW): his no-tag flannel she sleeps in every night away; washed when it went scentless; handed back to be re-worn and returned Sunday "smelling like you." Presence made portable, self-renewing, a dependency she maintains as ritual.
+- *The unasked / the shut door* (repeat, turned warm): "He was good at not asking things" — here a mercy, not a seal; the sealed "I don't go back" still stands beneath.
+- *Feeding as attention* (repeat): the pizza built slow, care as "the shape his attention took when it came down on a thing."
+- *Wanting him to fight* (NEW): she wanted him to want the nights badly enough to say so; the not-fighting costs her more and pulls her back.
+- *The outlier / the point off by itself* (repeat, absent this chapter): Randi as the point that won't sit on the line; stands.
+- *The watched who doesn't know they're watched* (repeat, INVERTED last chapter): Vee watched Randi's worst moment and shielded it; stands, not on-page.
+- *The photograph* (repeat, quiet): full uncropped nude in the runners' knowledge by Vee's own hand; stands.
+- *"Luck" / the long spoon* (repeat, quiet): unearned inheritance attaches to both Pace and Randi; stands.
+- *The narrowing / school nights* (repeat): here shown as the five-night ceiling Vee can't hold — the narrowing as her own gravity.
+- *The goodbye kiss* (carry, quiet): stands.
+- Carry (quiet): Randi's man-who-leaves stories; the mirror-noticing.
 
 **Symbolism noticed**
-- Bench = premeditated desire masked as innocent furniture.
-- Engineered agency = the freely-given yes as trap; underlined here (she chose the nights away, chose to return, chose the shirt ritual).
-- Provision (food, scrunchies, drawer, dress, the door left open) = capture dressed as care, working with the captor passive/absent.
-- The pizza "made for an empty house" = his care genuine AND impersonal — she's attended-to like a thing done well.
-- The laundered/re-scented shirt = the supply she now maintains herself.
-- "The New Ordinary" = capture finished setting, no longer questioned.
-- The tutor named "luck" = abuse metabolized as good fortune.
+- **The shirt / re-scenting** = his presence made portable and self-renewing; she carries him into every night away and returns the shirt to be refilled — dependency matured into maintenance ritual.
+- **The remade palate** = permanent alteration framed and received as gift; "no frame for" it = she can't see it as done *to* her.
+- **"The New Ordinary"** = the con grown into ordinary life; nothing wrong on the page because the wrongness has become her weather.
+- **The outlier point** = Randi, the one that won't fit the clean story; stands (off-page).
+- **The reversed gaze** = Vee holding the closer in her sightline unseen and choosing mercy; stands.
+- **Cassie can't see the screen** = the truth-teller structurally boxed from the proof; stands.
+- Carry: PPP fraud (money dressed as care that kept no one whole) as possible mirror of the con / Randi's formation, held loosely; photograph freely shown = con no longer needs to steal.
 
 **Open questions**
-- What's the inner-thigh scar / the "closing" behind "parents"?
-- Is Pace's tenderness genuine or the deepest engineering? (Both — reconfirmed via the pizza.)
-- Does Vee learn there was a game / that Pace and Randi are connected? When do the two worlds touch? (Still haven't physically touched; Randi offstage 5 ch. now — the held breath.)
-- When does Vee see the bench? (Only escalation left; she's fully primed and fully trusting.)
-- Does she ever say "I love him"/"Peter" to him awake?
-- Does her new taste for being looked at / her waking body become the lever for "the third in their bed"?
-- *(New)* Is the waking palate just her coming alive, or another dial Pace has turned?
+- Does Vee's kept secret about Randi's father's fraud ever surface — leverage, confession, or the thing Randi learns she was spared?
+- Does Randi ever learn she was seen and shielded, and what does it do to her and the con?
+- Does Randi's inherited shame connect to *why* she runs cons — is the family money the origin?
+- Does Randi's crack (want for Vee + shame) break the coordination with Pace, or deepen the embed?
+- Now that Randi has seen the full nude, does it become leverage — and does her own want make her hoard it?
+- Was the poisoning blonde Sheri?
+- Where does Vee's own emerging wanting toward Randi go?
+- Does Cassie ever catch Vee's wrist — despite geometry?
+- Are Randi's man-stories real, fabricated, or arousal-props?
+- White-gold band — marriage, to whom?
+- The closed interior (Pace's scar/parents-door) — does the question ever get asked?
+- When does the con's cost surface for Vee — and will she notice she can't hold five nights away?
 
-**Story so far**
-Ch.1: Pace works Randi on his bench. Ch.3: picks Vee; Randi engineers a collision. Ch.4–16: Randi befriends, Pace courts. Ch.17,20: extraction lunches. Ch.18 (Famished): first sex; scar found. Ch.19–23: morning-afters; dress; shoe date. Ch.24 (Gone): Pace & Randi post-coital, both gone on Vee. Ch.25 (Rock): Pace's history. Ch.26 (Lesson): dance lesson; mother-voice blow-up. Ch.27 (Broken In): reconciliation; cognac heels. Ch.28 (Sheri): "two at once." Ch.29 (A Recognized Method): kitchen swat. Ch.30 (The Practice Room): Randi primes the spank want. Ch.31 (We Find Out): the "bet," bare-bottom spanking, sex, aftercare. Ch.32: brunch confession to Randi; pastry-taste kiss. Ch.33 (The Top Drawer): names she loves him, whispers "Peter" asleep; he clears his top drawer, no note. Ch.34 (School Nights): confesses to Cassie; empty weeknights; first spoken fear. Ch.35 (The Induction): honor ceremony, Pace in Berkeley; she gave the room her bare leg on purpose; kept the interior for herself. Ch.36 (The New Ordinary): after five self-imposed study-nights away, she returns; homecoming sex where her body betrays the count; he cooks a from-scratch pizza and she tastes it flavor-by-flavor; she gives back his laundered flannel and confesses she wore it every night till it went scentless, asking him to re-wear and re-scent it weekly — he pulls it on over his own shirt.
-
-**How I feel**
-Vee: love and fear, the fear now domestic — she's building her life's furniture out of him (the shirt ritual), all the wanting voiced from her side. Pace: distrust carried, warmth I still can't fault; the pizza reconfirmed both — genuine care AND impersonal attention. Randi: her absence is now itself a tension; the jacket promises she's half the trap and she's been a ghost. Cassie: still trust her most. Mood: golden, tender, tightening; frictionless in a way that makes me brace; the two worlds still haven't touched, the bench still unseen. I dread how far the floor is going to fall precisely because these chapters keep being this gentle.
+**How I feel — overall**
+Wrapped up and undone in equal measure. This is the warmest, most swoon-heavy chapter yet — the sex generous, the cooking disarming, and the shirt scene genuinely moving; the tears she blinks down were nearly mine. And it's frightening for exactly that reason: nothing is wrong on the page, and the wrongness has simply become her ordinary life. She keeps a drawer in his house, sleeps every night away inside his scent, can't hold five nights, wants him to fight for her and is met with a grace that costs her more than a fight — and I carry the knowledge that all of it is the con's raw material. The chord on Pace widened: "for an empty house" is the strongest case yet that his care is constitutional, and that only deepens the unresolved dread rather than dissolving it. A held breath after the Randi earthquake — consolidation, not advance — but it refilled my tenderness precisely so I'd have more to lose. My warmth for these two on the page has never been higher; my grief for what's underneath has never been quieter or heavier.

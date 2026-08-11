@@ -4,83 +4,105 @@
 
 ## Reader reaction
 
-# Felt read
+This is the payoff chapter, and God help me it worked on me almost completely — which is exactly what unsettles me about it.
 
-So the fuse lit last chapter, and this whole chapter is the burn down to the door — and I have to be honest, it worked on me almost completely. This is the most sustained heat the book has given me, and it earned it by being about *nerve* before it was about sex. The long solo stretch in the dorm room is the best thing here: Vee doing her face slowly "because a woman lining her eyes has to hold still and be reasonable," talking herself into it in Randi's voice and then testing whether it holds "in her own less certain voice" — that's the psychology carrying the erotics, exactly. The bit where her hands reach for the good black everyday bra out of pure habit, then correct to the pretty lace *for Pace*, before she catches up and realizes Pace is getting neither — "the first time all day the plan had had to overrule her own hands and win" — that's a genuinely lovely beat. The comedy of it (finished dressing before she started) and the dread of it sit in the same breath.
+The mirror scene is where I first went under. Vee dressing by putting her shoes on first ("last thing, only thing"), the drawer of everything-not-invited sliding shut, and then standing herself up naked in a lit room "on purpose" — the whole thing is built on *her* decision, her right mind, and that's what makes it hot instead of pitiable. The self-touching, the edging, and then the choice to *stop*: "It was not hers to finish... She wanted him to be the one." Carrying it unspent out into the cold. That's a beautiful, greedy, generous piece of erotic logic and it landed. The heat is real and it is *hers* — her appetite, freely felt, for once fully on the page as her own.
 
-The mirror scene is where the heat peaks for me and it's real heat, not clinical — the deliberate edging, taking herself close and then *stopping* on purpose, "denied by no one but herself," carrying it out into the cold "wound exactly this tight" so *he* can be the one to finish it. That's a strong erotic idea and it pays off structurally: she edges in the mirror, edges again in the car, gets scared off by the cop, and arrives at the door at maximum tension. I bought the escalation.
+The drive is reckless and thrilling — touching herself at speed on the county road, the blue-and-red lights, "caught," the whole shame-terror spiking and then the cruiser blowing past after someone else. The stain bloomed into the coat lining "she would never be able to explain to a soul" — and the reframe, "it only told her she meant it," is the shame-into-want circuit turned all the way over into sincerity. I felt every bit of that.
 
-Two friction points where the thumb pressed. First, the volume of self-narration about the body — "a stripper's body if she let the word be said," "every bit she had spent so long apologizing for, and finally use it for the one thing it had always been for." I've heard this exact aria before (the stripper's body, the mother's shame-voice inverted into display), and getting it again at length felt like the book re-explaining Vee to me rather than trusting the image. The nipples/breasts inventory ran a touch long and catalog-ish before the touching started. Second — the cop. As a beat of nerve-and-adrenaline it's effective, and the "caught" spiral is well done, but the timing (masturbating at speed on the county road, lights come up, they blow right past her after something else) is the one place the machinery showed — a little too neatly engineered a scare, "could not have made her stop for anything short of God" and then God more or less shows up flashing.
+And then the doorstep. She opens the coat, and Pace — finally, actually on the page with her — the wall "simply gone, taken down all at once," and "he looked at her like a starving man, and he looked at her like a man just told he is forgiven, and the two were one look." That gutted me a little. The sex is graceless and desperate and warm, three hobbling steps toward a bed they never reach, and I was rooting for both of them like a fool. Then the aftercare — his head on her breasts asking for nothing, "Vee," the name landing, the pancakes at midnight, "those stay on," and "I missed you so much" and his voice cracking and not coming back. That's the swoon delivered whole. Cassie's eyebrow and "Hmm" at the end is the perfect wordless warm button.
 
-The doorstep itself: I felt the wall come down. "It's late. Is everything alright?" — that formal courtesy is exactly the December wall she named, and her answer being *no words at all*, just the buttons and the coat opening, is the right move and it landed. "He looked at her like a starving man, and he looked at her like a man just told he is forgiven, and the two were one look" — that's the line that got me. The sex is graphic and sustained and mostly kept its feet (the failed three-step carry to the bed, "hard and fast and graceless, which was the truth of them tonight," is honest and unglamorous in a good way).
+So why am I uneasy? Two things, both quiet, both real.
 
-And then — the name. He says "Vee," muffled against her breast, and it detonates because I *remember*: that's the same name he said behind her in December as she walked out, "the one that hadn't been the word she'd come for then." The chapter is quietly precise that he *still* hasn't said the word. He said her name. He said "I missed you so much" and his voice cracked. He did not say it. She's so full she doesn't notice she didn't get it — "there was no room in her for wanting anything he hadn't given" — but *I* noticed, and that's the ache under all the warmth. The pancakes at midnight, made-not-poured, the "those stay on," the man on his knee with his face cracked open — it's the provision-as-love engine running at full tenderness, and it's genuinely moving even while I don't trust the frame it sits inside.
+First — the title. *Nothing Underneath.* Literal: nothing under the coat. But by the end it rings the other way. She came out for a word and got his body and his name instead — she *decided* the name would have to be enough, "there was no room in her for wanting anything he hadn't given." She stopped asking the man behind the wall to come out and answer her; she "brought something the wall could not refuse." Which means the whole reconciliation runs, again, on the terms of the very thing that's wrong: acts, not the word. "I missed you so much" is enormous, and it cracked his voice — but it still isn't the word, and I noticed that she's stopped needing it. So "nothing underneath" starts to feel like it points at the reconciliation itself: everything warm on top, and under it the same unsaid thing. I don't think the chapter is telling me the warmth is fake. I think it's telling me the warmth is real *and* there's nothing named holding it up.
 
-**Trust vs. suspicion:** Nothing new made me distrust *Pace* here — if anything he read as unguarded, wrecked, glad, the most defenseless I've seen him. But I can't unknow what she doesn't know: this reunion was engineered by Randi, his other secret lover, and everything sweet in this room is happening on rails Vee can't see. So the suspicion isn't of anyone *in* the room — it's the dramatic irony sitting over the whole chapter. He still didn't say the word. That's the tell the chapter deliberately preserved.
+Second — Randi. She's offstage, but her voice threads the whole first half ("you've got the goods, gorgeous girl"), the plan is hers, and her heels are literally on Vee's feet through the sex, the pancakes, the drive home, into the dorm. "Those stay on." The closer's touch stayed on Vee the entire time she reconciled with the man they share, and Vee wore them home as the only shoes she had. I know what Vee doesn't: this beautiful night is the board being kept arranged. And the tell that Vee's suspicion is aimed at the wrong woman is right there — at the door she imagines "the blonde, tan and laughing in his kitchen," Sheri, and dismisses her because "no man put on music like that for a woman." She's relieved by evidence that clears the harmless one while the real one dressed her for this.
 
-**Titles:** "Nothing Underneath" — on the surface it's literal and playful: naked under the coat, nothing but heels. On the reread-charge it's colder: nothing underneath the *plan*, either — no smaller card behind the one she staked, "everything she had staked on the one card with nothing smaller behind it." And maybe, darkest, nothing underneath the reconciliation but a game she can't see. The book title *With a Long Spoon* still hums in the background — you sup with the devil with a long spoon — and this is the warmest, closest supping yet, no spoon at all, her whole body handed over. "Every yes was freely given. That was the trap" — this chapter is that tagline made flesh: every step tonight was *hers*, chosen standing up in her right mind, and that's exactly what makes it a trap rather than a seduction.
+But I want to be honest: the con did not *perform* this chapter the way it did last time. This chapter mostly just let Vee have her happiness, and it was earned and gorgeous. The dread is mine to carry, sitting underneath, not something the page rubbed my face in.
 
-**What I want / dread next:** I want to see Randi get the report — because Vee will surely tell her best friend, and I dread watching the architect receive news of her own success. *Guess from here:* the closer this reunion "works," the tighter the box; and the word Pace still hasn't said is the seam where it eventually tears. Cassie's raised eyebrow and "Hmm" is the one clean outside eye, and I trust it.
+Erotic charge: 3, peaking twice — the mirror and the doorstep — sustained and warm, never clinical. No friction to speak of; the Kayla-at-the-laundry beat is a nice comic squirm, not padding.
 
----
-
-**Cast present (in person):** Vee; Pace (doorstep on). Kayla (dorm hallway, laundry). Cassie (bookend, "Hmm"). *Mentioned-only:* Randi (voice in Vee's head, the heels), the passing cop.
-
-**Heat:** 3 — sustained and graphic, mirror edging through the doorstep sex; the whole chapter is arousal architecture.
-
-**Romance:** 3 — the wall falls, the cracked "I missed you so much," midnight pancakes, "those stay on"; a clear turn in the bond, shadowed only by the still-unsaid word.
-
-**Motifs & images:** *The coat, naked underneath* (repeat — the plan from My Friend Randi, now executed) with the new *dark bloom soaked into the lining* — "it only told her she meant it." *Randi's black heels / dressing her for thresholds* (repeat — induction, My Friend Randi; now "those stay on"). *Randi's voice in her head* — "you've got the goods, gorgeous girl" (repeat of the coded "gorgeous"). *Mother's shame-word finding nothing to hold to* (repeat, inverted). *Provision as love — cooking with full attention* (repeat — the pancakes "made and not poured," "like nothing off a diner griddle"; echoes the diner/griddle line and his food-philosophy). *He says her name, not the word* (repeat — December's "Vee" behind her). *Kneeling* — Pace goes to his knees twice (mouth, then face under hers). First sighting: the *edge held on purpose / carried unspent to him*.
-
-**Symbolism:** The coat as the free yes made flesh — worn now, "no longer a thing she could turn over in her head." The bloom on the lining = the body testifying she meant it. "One card with nothing smaller behind it" = all-or-nothing staked on a man who still won't name it. The name-not-the-word = the reunion is real *and* incomplete, the seam preserved.
-
-**Characterization:** Vee deepened — the habit-vs-plan bra beat and the deliberate edging show her interior with new precision. Pace deepened by *undefending* — the wall genuinely gone, wrecked and glad — yet the withheld word keeps him consistent, not softened into someone else. Cassie: one perfect economical note.
-
-**Pace — within the chapter:** The dorm/mirror stretch earned its length (mostly); the body-inventory aria and the cop beat are the two spots that ran rich. Doorstep-to-couch moved fast and right. The two short codas (pancakes; Sunday return) land the warmth without overstaying.
-
-**Pace — chapter to chapter:** Big payoff after the slow-build of My Friend Randi — the fuse reaching the charge. Momentum surged; no sag. This is the release the last three break-chapters were winding toward.
+The book's signals — *A Polite Invitation*, *With a Long Spoon* — feel very present tonight: she brought the politest possible invitation (a buttoned church coat, decent to the knee) with nothing under it, and "sup with a long spoon" keeps whispering that the people at this warm table are not all what they seem. She got everything she drove out to get. I believe her when she says so. I just don't believe it's the whole story.
 
 ## Carry-forward state
 
-**Who's who**
-- **Pace / Peter** — *man; 22; math PhD.* House off route six-fourteen; homemade furniture (the bench, ch.1 — Vee still never seen it); cooks from scratch; powerlifter; MRI patent money. Loves in deeds, withholds the word (rule: HE says it first). Secret lover of Randi; together picked Vee. *Nothing Underneath:* opened his door to a naked-under-a-coat Vee, wall gone instantly; went to his knees for her on the freezing doorstep, carried her (failed) toward the bed, took her on the den couch; after, knelt again, made her midnight pancakes; "You sure know how to make an entrance. Vee"; "I missed you so much" (voice cracked); "those stay on." **Still did not say the word** — said her *name*, as in December.
-- **Randi / Miranda** — *woman; 21.* Secret lover of Pace; architect of tonight's reunion. Present only as the voice in Vee's head ("you've got the goods, gorgeous girl") and as the giver of the black heels. (All prior: poised, wealthy, green eyes, citrus-bitter-orange scent, locked white-gold bracelet; warmth-as-method; loves Vee and manages her; Fairytale — loves Vee, decided to keep her in the dark.)
-- **Vee / Vivienne (Thorne)** — *woman; POV.* Executed the plan: showered, made up brave, dressed in nothing but the coat and heels; edged herself in the mirror and again driving, denying herself so Pace could finish it; a cop scare on the county road; opened the coat at his door without a word; reunion sex; midnight pancakes; wept when he said her name. Left a stain of herself on the coat lining — "it only told her she meant it." Returned to the dorm Sunday in his sweats and Randi's heels, too happy to explain to Cassie. Still doesn't know Pace and Randi are connected; still didn't get the word and didn't notice.
-- **Sheri** — *woman; ~24; gay; knows Pace two years; estranged from family; broke up with Paige.* The one person Pace can't manage; Feb Brooks & Dunn dance pending. Vee has a false blonde-model image of her. (Not present.)
-- **Cassie** — Vee's roommate; back from the weekend away; read the whole story off Vee's outfit — "Hmm" — and let it lie.
-- **Kayla** — dorm girl two doors down; talks endlessly; caught Vee in the hall en route ("Going to see Pace?"), never guessed the truth.
-- **Brooke** — sorority president; weaponized warmth (My Friend Randi). *Mentioned-prior:* Paige (Sheri's ex); John (Randi's Gstaad foil); Vee's parents (mother's shame-voice); Randi's parents.
+**Principals**
+- **Vee** (= Vivienne): protagonist. Tall lush hourglass, copper/dark-red hair, snub freckled nose; a body she's hidden since fourteen. Econ major; working-class Ohio. **This chapter:** drove out naked under the church coat and reconciled with Pace on the doorstep; edged herself twice (mirror, driving) and carried it unspent to give him; **decided his name, not the word, is enough** ("no room in her for wanting anything he hadn't given"). Shame-into-want recast as *sincerity* (the stain "told her she meant it"). Owns the decision fully — "in her right mind."
+- **Pace** (= Peter): young math PhD; powerlifter; furniture-maker. **First real on-page presence with Vee.** At her coat opening, the wall "simply gone"; looked at her "like a starving man" and "like a man just told he is forgiven." Went to his knees; carried her; made her midnight pancakes ("made and not poured"); "those stay on" (the heels). **"I missed you so much," voice cracked and didn't come back — but still did not say the word; said her name.** Was home alone with sad horn music (no other woman there that night).
+- **Randi** (= Miranda): 21, junior; plain white-gold band LOCKED, hidden; **the closer.** Offstage this chapter but her voice ran through Vee's prep ("you've got the goods, gorgeous girl"); the plan and the heels are hers. Loves Vee un-currency AND is the other woman keeping the board arranged.
+- **Cassie** (= Cassandra): Vee's roommate; truest unengineered bond. **On-page (brief):** took in the coat/man's-sweats/heels in one pass, cocked an eyebrow, "Hmm," back to her book — wordless, warm, no explanation needed.
+- **Sheri:** small country blonde, Pace's no-currency friend; queer; harmless. **Still the misidentified rival in Vee's head** — Vee conjured her at the door and dismissed her. Strongly indicated = the "blonde at the bar" from Vee's past.
+- **Kayla** (walk-on): down-the-hall talker, laundry-basket, "Going to see Pace?" — comic near-miss; the least mysterious guess. Minor.
+- **John** (mentioned earlier): the empty Gstaad fairytale man. Not present.
+- **Brooke, Paige** (mentioned earlier only). Minor.
 
-**Motif & image ledger**
-- *The withheld name / can't say "love"* — Pace says "Vee," never the word, in Dec AND now (Nothing Underneath: the name lands, the word still absent).
-- *The coat, naked underneath* — the plan (My Friend Randi) → executed (Nothing Underneath); now marked with the *stain/bloom on the lining* = proof she meant it.
-- *Randi's heels / dressing Vee for thresholds* — induction heel-buckle; pressed on her (My Friend Randi); worn to the door and kept on ("those stay on").
-- *"gorgeous" — Randi's coded love-word* — recurs as her in-head voice.
-- *Provision as love — cooking with full attention* — the midnight pancakes "made and not poured," vs. box/diner griddle.
-- *Mother's shame-word inverted into display* — "found nothing to hold to."
-- *The edge held on purpose / carried unspent to him* — new; edging in mirror + car.
-- *Kneeling* — Pace on his knees (mouth; then face under hers) — new register of the provision motif.
-- *Inside-the-door warmth vs. out-there* — the open door banging, cold pouring in, neither moving to shut it.
-- Older: the bench (unseen); "Peter"; the refused hand / December rupture; the fairytale that stops at the bedroom door; Sheri's brunette/redhead misread; body-as-problem; engineered agency / freely-given yes as trap.
+**Relationship ledger**
+
+*Core — Vee / Pace:* **involved, consummated (y); RECONCILED — but wordlessly, on the terms of the disease.** Surface (Vee): she got everything she drove out for; his name and "I missed you" are enough. True (reader): the reconciliation has no *word* under it — she stopped asking for it and "brought something the wall could not refuse" (her body); and it's built on Randi's erasure of herself as the rival.
+  - *warmth ↔ cold:* saturating warmth — the wall down, midnight pancakes, aftercare mouth "asking for nothing"; she is fed and held.
+  - *isolation ↔ belonging:* the rupture ended; belonging restored — back inside his care.
+  - *cherished ↔ used:* she feels wholly cherished (kneeling, the crack in his voice); the concealed second woman still stands under it.
+  - *desire worked-on-her ↔ desire hers:* her appetite plainly and fully hers this chapter — but routed, staged, and shod by Randi.
+  - *This chapter:* huge move — reconciliation consummated. Note the terms: his *name* not the word; she decided the name is enough.
+
+*Core — Vee / Randi:* **intimate front / love-and-active-concealment — the closer whose staging just paid off.** Surface (Vee): my friend who dressed me and gave me the nerve. True (reader): the rival engineered the reconciliation and her heels stayed on Vee through the sex, the pancakes, and the drive home ("those stay on"). Offstage this chapter but present as the internalized coaching voice.
+  - *warmth ↔ cold:* warm on surface; reader reads the warmth as the mechanism.
+  - *isolation ↔ belonging:* Randi is still Vee's one place; the belonging is the trap.
+  - *cherished ↔ used:* Vee feels cherished/helped; reader sees her sent and dressed toward a board kept arranged.
+  - *desire worked-on-her ↔ desire hers:* Vee's want is hers, but walked into the decision by Randi's plan.
+  - *This chapter:* no on-page contact; the con delivered its payoff off Randi's staging. Randi's heels literally worn through it and home.
+
+*Core — Pace / Randi:* **involved, consummated (y); secret.** No on-page contact this chapter, but the outcome — Vee back in the bed they share — is the board Randi arranged. *Why* Randi wants this remains open.
+
+*Core — Pace with himself:* pays out feeling without letting the cost show; **still cannot say the word even at the peak** — "I missed you so much," voice cracked, name said, word withheld. Consistent, deepened.
+
+*Core — Randi with herself:* carries her own cold; the John-bedroom emptiness (the one true crack) stands from before. Offstage. No change.
+
+*Core — Vee with herself:* **deepened** — full ownership of a decision she was walked to; her nerve rendered from inside; the shame-into-want circuit turned to *sincerity* ("it only told her she meant it"); decided to make the brave girl in the glass and herself "the same thing."
+
+*Core — Vee / Cassie:* **close, easy — truest, unengineered bond.** On-page brief; wordless read-and-accept ("Hmm"). No change to the bond; warmly reaffirmed.
+
+*Pace / Sheri:* **close, no-currency friendship.** Off-page. No change — Sheri still the misidentified rival in Vee's head.
+
+**What I know that they don't**
+- (Vee doesn't know) **the reconciliation she just won was staged by the rival — Randi engineered it, dressed her, gave her the nerve.** *(Con side.)*
+- (Vee doesn't know) **her jealousy is misaimed at Sheri (harmless) — she even conjured Sheri at the door and dismissed her — while the real rival is Randi.** The misdirection holds.
+- (Vee doesn't know, though it's now more visible on his face) **Pace genuinely misses/wants her, ranks her first, but cannot say the word.** *(Caring side, strengthened this chapter.)*
+- (Vee doesn't know) Randi genuinely loves her un-currency and hides it. *(Caring.)*
+- (Vee doesn't know) Randi felt nothing in the John fairytale she envies. *(Caring.)*
+- (Reader, strongly indicated) Sheri is the "blonde at the bar" from Vee's past; content still off-page.
+- (Reader, ajar) Pace held something in reserve that could "bring Sheri down," chose not to.
+- (Reader, central & open) **why does Randi want Vee back with Pace?**
+- (Vee doesn't know) she sent Pace the uncropped nude framed as her own courage; showed the same photo to Randi. Randi has twice framed Vee's self-exposure as bravery.
+- (Vee DOES know, Randi doesn't know she knows) Randi's father defrauded PPP loans; Vee shielded her and never said.
+- (Reader open) the uncropped nude in the runners' hands.
+
+**Motifs**
+- *Acts not the word / the word withheld* (repeat, PEAK): the reconciliation delivered entirely on the body's terms — she "brought something the wall could not refuse"; he says her *name*, cracks with "I missed you," never the word; **she decides the name is enough.** The disease's terms won the reunion.
+- *Nothing underneath* (NEW, title): literal (bare under the coat) and figural (a reconciliation with no named thing under the warmth).
+- *Shame recast as sincerity/offering* (repeat, deepened): the stain in the coat lining — once mortifying — now "told her she meant it"; the coat "closed over her like a door" and opened on nothing.
+- *Randi's heels — "those stay on"* (repeat/deepened): the closer's shoes worn through the sex, the pancakes, and the drive home; only shoes she brought.
+- *Food-as-love* (repeat): midnight pancakes "made and not poured," his full attention — what she most missed.
+- *The blonde fantasy gets no grip* (repeat): she imagines Sheri at the door, dismisses her ("no man put on music like that for a woman") — misdirection reconfirmed.
+- *Cold road / warm room* (repeat): drove out bare on the cold seat through the black county miles (December's crying-drive in reverse) into his warm house.
+- *The name said* (repeat, from December's doorway): "Vee" — before it wasn't enough; now she makes it be.
+- Carry (quiet): the white-gold locked band; the divided/uncropped photo; PPP fraud as care; "luck"/the long spoon; the frozen childhood room; the shame-into-want circuit; the refuge with a door that shuts.
 
 **Symbolism noticed**
-- The coat = the free yes made flesh; the stain = the body testifying she meant it.
-- "One card, nothing smaller behind it" = all-or-nothing on a man who won't name it.
-- Name-not-word = reunion real but incomplete; the seam left open on purpose.
-- Provision (pancakes, "those stay on") = care as capture, the communion inside it real.
-- The reunion "working" = possibly the trap closing (jacket: every yes freely given).
+- **The coat opening on nothing** = the politest invitation with nothing under it; the wordless offering the wall can't refuse.
+- **Nothing underneath** = the reconciliation with no named thing beneath its warmth — real heat, no word holding it up.
+- **Randi's heels kept on** = the rival's touch present through the whole reunion and carried home.
+- Carry: *"the usual"* / the yes without a declaration; Americana under amber glass = frozen home; the locked band.
 
 **Open questions**
-- WHY won't Pace say it? (Still unsaid even at full defenselessness — sharpened.)
-- Does Vee notice she got the name and not the word?
-- Will Vee report the reunion to Randi — and how does the architect take her success?
-- The bench / the sealed parents' door / the scar / his grief.
-- Whose white-gold bracelet, what it marks.
-- Does Vee ever learn there was a game / that Pace and Randi are connected? (Sheri's Feb dance a candidate.)
-- Is a working reunion the trap closing?
+- **Why does Randi want Vee back with Pace?** (central)
+- Does the un-said word ever matter again now that Vee has decided the name is enough — or is that peace hollow ("nothing underneath")?
+- Does Randi know the real Sheri, or just "the other woman is me"?
+- Why *can't* Pace say the word — the sealed door / *"I don't go back."*
+- What did Pace carry in that could "bring Sheri down"?
+- Is Sheri the "blonde at the bar," and what once passed between her and Vee?
+- Does Vee's kept secret about Randi's father surface? Does the uncropped nude surface?
+- Does the arrangement hold as real love tangled with harvest, or tip to one?
 
-**Story so far**
-Pace and Randi, secret lovers, together picked Vee and steered her into their bed unknowing; both fell for her. Vee loves Pace (unsaid awake), adores Randi, doesn't know they're connected. Fall→winter: first sex, found scar, homemade dress, spanking arc, confessions to Randi and Cassie, "Peter" whispered to sleeping Pace, the induction (Randi buckled her heel), Thanksgiving, the Chili's fight/forgiveness, then the December rupture — "words are cheap," refused hand, she walks into the cold, he says her name behind her. Break triptych: Fairytale (Randi in Gstaad, decides to keep Vee in the dark); Old Acquaintances (Vee in Ohio invents a blonde rival, reaches toward Randi); The Usual (Pace with Sheri — "I want Vee. I miss her"; "I can't"; Sheri: "pretty shitty"). My Friend Randi: wrecked Vee runs to Randi, who dismantles the invented rival and engineers the reunion — tonight, naked under the coat and Randi's heels. **Nothing Underneath:** Vee carries out the plan — mirror edging, the drive, a cop scare, the coat opened at his door without a word; his wall falls, doorstep-then-couch reunion, midnight pancakes; he says her name, cracks on "I missed you so much," still never says the word; she's too full to notice. Returns to the dorm Sunday in his sweats and Randi's heels; Cassie reads it all and lets it lie.
-
-**How I feel**
-Vee: tenderness at its warmest and my dread at its quietest — she got everything she drove out for, and I can't stop hearing the word she didn't get. Pace: most defenseless I've seen him, genuinely wrecked-glad; I trust the feeling and distrust the frame it sits in (Randi's rails). Randi: absent but authoring; dread held in reserve for when she hears it "worked." Cassie: the one clean outside eye. Sheri: still the unmanaged mirror, offstage. Mood: warm afterglow with a cold seam — the reunion real, the word withheld, the game unseen. Moved, sated, still braced.
+**How I feel — overall**
+Warm and quietly frightened. This chapter mostly just let Vee win, and the winning was gorgeous and earned — the mirror, the drive, the coat opening on a man who went to his knees, the pancakes, the crack in his voice, Cassie's eyebrow. I was swept up and I'm glad she got her night. But the title and the unsaid word left a cold seam under all that warmth: she got everything except the one thing she originally drove out for, and she talked herself into not needing it. And I carry what she can't see — that the rival staged this, and her shoes rode home on Vee's feet. My dread didn't spike; it settled, patient, underneath. I love Vee, I ache for Pace (who so plainly loves her and so plainly can't say it), I still trust Sheri, and toward Randi I'm colder and more compelled than ever, waiting to find out what she's for.
