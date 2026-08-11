@@ -1,279 +1,283 @@
 # Cold read — May I Choose
 
-*scene: scenes/may-i-choose.md · model: gpt-5.5 (Codex subscription: gpt-5.5) · read after: water-wings*
+*scene: scenes/may-i-choose.md · model: gpt-5.5 (Codex subscription: gpt-5.5) · read after: water-wings · reader-protocol: v2-volume-entry-jacket*
 
 ## Reader reaction
 
-This chapter is very seductive to me, and almost all of the seduction is in restraint. The text on Friday already works because Pace gives Vee time: “Saturday. Dinner.” Not a demand, not a performance, not a needy little trap she has to answer immediately. I felt her relief in that very physically. The line that catches it best is, “He just left it with me. Like it could keep.” That made me trust him in the moment, even though the jacket and the prior pages make that trust feel dangerous.
+This chapter made me feel almost embarrassingly soft for Vee. The erotic charge is not explicit sex, but it is absolutely there: hunger, hands, food, warmth, being allowed not to manage herself. The peak for me is not even the almost-kiss; it is earlier, when she watches Pace tear bread and then eat from his hand, and “She lost the thread of what he was saying.” That lands as desire before she can name it, and it works because it is so bodily.
 
-Vee is so open here it hurts. Not foolish-open; hungry-open. She has been waiting for the cost of kindness to arrive, and this dinner lets that vigilance fall away. Watching her eat without watching herself eat is maybe the most intimate thing in the chapter before the hand-holding. The erotic charge peaks for me in the food and hands: him tearing bread, the steam, the drip on his hand, her losing the thread because she is watching his mouth. It is not explicit, but it is very bodily. “She lost the thread of what he was saying” is hotter than a more direct move would have been.
+Pace is almost painfully attractive here. The care of him having showered and shaved “for this,” the good boots, the street-side walking, the way he asks “May I choose?” and then treats the choice as a responsibility instead of a chance to show off: all of that swept me up. I trust him in the immediate scene, because the page gives me no coercion here. He gives her space, listens, feeds her without making her feel watched, and when she says she does not kiss a man she has known a couple of days, he accepts it instantly. That matters. The unease comes only from what I already know: Vee does not know he is involved with Randi or that this approach began inside a game. So the scene is warm and consent-forward on its own surface, but the larger truth still has a hidden wrongness under it.
 
-Pace is hard for me. On the page, in this chapter alone, he is almost immaculate: patient, tasteful, careful without making a show of care. He asks “May I choose?” and then really does choose with attention. He does not punish her rule about kissing; he accepts it. That makes him intensely attractive. But because I carry the jacket and everything already known, the title lands with a little chill. “May I Choose” is sweet at the table, but it also names the larger unease: he chooses food for her, and elsewhere he and Randi have already chosen her. The chapter title did give me a warning before I read it; after reading, it feels both tender and ominous.
+Vee deepens beautifully. Her hunger is literal and not literal at once: she has not eaten since breakfast, but the food goes into “something that had been empty a lot longer than since noon.” I felt that. I also felt the old self-surveillance falling away at the table, and it made me want that ease for her. Cassie is only there at the start, but I loved her again for knowing when not to tease. “That’s not a boy,” she says, and it is funny, but also protective; she recognizes what is different about this for Vee.
 
-Cassie’s small presence at the start keeps grounding me. She teases, then knows when not to. “That’s not a boy. That’s a man.” I believe she means it as praise, and I felt the little thrill of it too. But it also names the asymmetry: Vee is reacting to him as something larger than the boys she knows.
+The chapter title, “May I Choose,” is almost too perfectly placed. Before the food, it might sound like surrender. After the chapter, it feels double: Pace asks to choose the meal, but the whole chapter is about Vee discovering that being offered care can help her choose too. By the end, she is the one making the exception. The book title, *A Polite Invitation*, still feels exact: invitation, manners, permission, danger hidden inside courtesy. The series title *With a Long Spoon* keeps pointing me toward intimacy with something risky at the table. I do not have a cover tagline in the carried state, so I cannot use one.
 
-I do not have suspicion from Pace’s behavior inside this date, exactly. The date itself earns trust. My suspicion comes from what I already know: Vee does not know he is Randi’s lover, does not know she was selected, and so every beautiful courtesy is double-lit. When he takes her hand “no ceremony, no question in it,” I felt both swoony and uneasy. It is lovely because it feels settled; it is troubling because she experiences “settled” before she knows the actual situation.
+What I want next is the kiss, plainly. I want it badly. My guess from here is that it will be warm and restrained and devastating for Vee. What I dread is the delayed cost: the longer Pace feels this careful and good with her, the more painful the undisclosed Randi truth becomes.
 
-The book title, *A Polite Invitation*, feels more pointed now. This is all politeness: asking, waiting, choosing with care, accepting a no. The tagline keeps darkening it: every yes really does feel freely given, especially Vee’s “Yes. Please.” That is the trap. *With a Long Spoon* still feels like distance from something dangerous; I do not know exactly what yet, but the title makes me feel I should not eat too trustingly from any offered dish.
+**Cast present (in person):** Vee, Cassie, Pace, Christine. Mentioned-only: professor.
 
-What I want next is the kiss, plainly. What I dread is that Vee will keep stepping forward because every single step feels like hers, while the larger shape has already been made around her.
+**Heat:** 1.5 — no sexual activity, but sustained sensual charge through hands, food, hunger, being chosen, and the held almost-kiss.
 
-**Cast present (in person):** Vee, Cassie, Pace, Christine. Mentioned-only: unnamed professor, unnamed girl down the hall, unnamed boys in Vee’s building.
+**Romance:** 2 — clear tenderness and intimacy; hand-holding and the exception feel like a turn in Vee’s bond with Pace.
 
-**Heat:** 1.5 — no explicit sex, but the food, hands, hunger, voice, and almost-kiss are strongly charged.
+**Motifs & images:** Food/appetite repeats and intensifies through hummus, baba ghanoush, tabbouleh, bread, hunger, fullness, and tea. Hands/pencil repeats as Pace’s right hand becomes central through bread, food, and hand-holding. The long way/waiting repeats as he leaves her room to answer and walks her back without rushing. Warmth repeats through phone, restaurant, food, tea, and his hand. Doors/thresholds repeat with elevator doors, lobby door, restaurant doorway, and the near-kiss threshold.
 
-**Romance:** 2 — the dinner has real tenderness and the hand-holding/exception feels like a clear turn in Vee’s bond to Pace.
+**Symbolism:** The meal stands for permitted appetite and surrender without humiliation. The brass tea glass reads as warmth made bearable by a structure that lets her hold it. The hand-holding feels like belonging arriving before Vee can rationally justify it.
 
-**Motifs & images:** Food/appetite returns strongly through dinner, hunger, bread, dips, tea. Hands return through Pace tearing bread, eating from his hand, and taking Vee’s hand. “Hi” returns as an intimate reset. Doors/thresholds recur through the elevator, restaurant door, warm interior, and return into cold. Rules/games recur through Vee’s kissing rule and her chosen exception. First/repeat: the “right hand” pattern feels like a first sighting of a specific bodily rule.
+**Characterization:** Vee deepens: her want, hunger, self-policing, and capacity to let go all become more embodied. Pace deepens as patient and deliberate, though the hidden setup keeps him morally unresolved. Cassie remains consistent: blunt, funny, and careful when it matters. Christine is brief but makes Pace feel known in a wider adult world.
 
-**Symbolism:** The unfamiliar menu and Pace’s “May I choose?” stand for surrender into his taste and judgment. The mint tea feels like surfacing from enchantment. The hand-holding symbolizes a bond Vee experiences as already true before it is actually known.
+**Pace — within the chapter:** Slow in a good way; the dinner earns its length because Vee’s easing-open is the action.
 
-**Characterization:** Vee deepens: her hunger, vigilance, and capacity to surrender become more vivid. Pace deepens as socially rooted and known somewhere outside campus, through Christine. Cassie remains consistent and sharp. Christine is brief but gives Pace local history and warmth.
-
-**Pace — within the chapter:** Slow, but earned. The dinner’s softness needs the lingering. The food sequence risks being luxuriant, but for me it carries Vee’s surrender rather than stalling.
-
-**Pace — chapter to chapter:** Building. After the pool’s refuge from being wanted, this chapter makes wantedness feel delicious again, which sharpens the tension.
+**Pace — chapter to chapter:** Building. The pool chapter returned Vee to herself; this one lets Pace enter that softened, more bodily self and become much harder to dismiss.
 
 ## Carry-forward state
 
+tool_uses: 0
+
 **Principals**
 
-Randi: a twenty-one-year-old woman, also called Miranda by the jacket and Randi on the page. Poised, beautiful, socially polished, with black hair, pale skin, striking blue eyes, and a “slight perpetual surprise” in her resting expression. She is in a sorority and holds a board seat in Standards, which gives her a single room. She lies to Brooke about having a paper so she can go to Pace’s house, then lies again the next morning about where she worked. She has a guarded relationship to food shaped by her mother and sorority standards. She uses her face, beauty, and social performance as protection: “Nothing happened to her. That was what the face was for.” After the bench scene, she feels more alive than she can remember, but also terrified by having been truly seen. She decides internally to retreat behind the face and not let the exposed self come out again. Returning to the sorority house in last night’s clothes, she is socially cornered by Brooke’s warm questions, performs well enough to escape, then lies on her made bed in last night’s clothes and shoes, under an inadequate duvet, unable or unwilling to cry. In bed with Pace, her body answers the idea of tasting another woman before she can think: she comes hard at the question, then later converts the wanting into the safer version of “Only in a threesome… With you.” On campus, she learns the pointing game quickly, moves from propriety to active scanning, rejects several women, says “maybe” to a warm girl on the library steps, and then gives a bare “Yes” when Pace points at the red-haired girl from the dining hall. She meets Vee by engineering a small collision and returns glowing, unable to hide her grin. Seen through Vee, she follows through on “we should sit together,” sits beside Vee in stats, makes Vee feel found with “There you are,” warmly includes Cassie without breaking stride, invites both girls to Chi Latte, buys Vee an oat-milk lavender latte, chooses the high table, talks for an hour in a way Vee remembers mostly as radiance rather than words, hugs Vee, says “Love you, girl,” and leaves her with “See you later.” She studies with Vee and Cassie at a coffee shop on Wilson, suggests Vee take a break from a hard problem, texts privately, gives Pace her name as the single bare word “Randi,” asks him a stats question about sample standard deviation and Bessel’s correction, watches Vee and Pace with her hand repeatedly busy around her coffee cup, then tells Vee he was cute and that she should go out with him. She takes Vee’s phone to inspect Pace’s fast text, says he did not look desperate but like “a man who wants you,” jokes that he wants to see Vee naked, and pushes Vee to answer because “The rule’s for boys you’re not sure about. You’re not unsure.”
+Randi (= Miranda): woman; twenty-one-ish sorority woman with black hair, startling blue eyes, pale polished beauty, expensive things, controlled “face,” guarded appetite; sexually involved with Pace; forced to see her desire for a woman is real; now drawing Vee close through warmth, touch, and social invitation.
 
-Pace: a man who lives alone in a warm house at the end of a long drive, per the jacket. He is a young mathematician according to the jacket and, on the page, Randi tells Brooke he is a math PhD student and not in charge of her course section. He is patient, observant, physically confident, domestic, and skilled with erotic control. He builds furniture, including the kitchen table, cabinet, and the bench. He notices Randi’s food rules, body language, sexual responses, and aftercare needs. He respects safewords and checks her body, but he badly misreads the emotional aftermath: he thinks the evening was “remarkably good” while Randi is internally deciding to hide from what happened. His earlier description as “hard to say no to” returns to Randi in a darker key. He initiates the idea of another woman during sex, reads Randi’s bodily reaction as helplessly true, and then designs “the pointing game” as a way for her to want under cover of play. He believes he is being gentle by letting the wanting come out laughing rather than forcing her to name it. He is delighted when the game leads Randi to Vee, and he stays back while Randi meets her. He appears directly to Vee at the Wilson coffee shop, giving up his place in line and leaving without coffee after hearing she is stuck on math. He introduces himself as Pace, helps her solve a hard calculus/integral problem by showing her a useful substitution through Euler’s rather than solving it for her, returns the pencil so the solution remains hers, answers Randi’s stats question briefly, listens closely to Vee talk about economics and applied math, says he is finishing a math PhD “more or less,” asks “May I call you?”, takes her number, and leaves her wanting the phone to light up. He texts within twenty minutes to ask whether Vee likes frozen yogurt, takes her to a too-bright frozen yogurt shop, studies the flavor placards seriously, explains his system for tart holding up heavier flavors, pays for both cups, holds the door with his back while their hands are full, walks the long way with her, listens without hurry, and answers her vulnerable confession by letting it have space and lightly noting that her tart is holding up. He texts Vee on Friday evening asking for Saturday dinner without requiring an immediate answer. He comes to get her at her building, freshly showered, shaved, and dressed in cared-for real things: pressed broadcloth shirt and polished worn boots. He takes her to a small warm restaurant where Christine knows him, asks “May I choose?” when Vee has no map for the menu, orders attentively after asking if there is anything she will not eat, lets her eat without making her self-conscious, pays or settles with Christine, takes Vee’s hand afterward, accepts her rule about not kissing a man she has known a couple of days without argument, and waits when she stops him to make an exception.
+Pace (= Peter): man; young mathematician named in the packet; careful, courtly, observant, good with his hands; built his furniture and the bench; sexually involved with Randi; began the pointing game that led Randi to Vee; now courting Vee through math help, texts, frozen yogurt, dinner, hand-holding, and a near-kiss he accepted when she first refused.
 
-Vivienne Thorne / Vee: named in the jacket as Vivienne Thorne, the girl Randi and Pace picked out across the quad and decided would be the third in their bed without telling her. On the page she appears first as “Vee,” a tall, lush, red-haired woman leaving the dining hall with a friend. She has warm dark red hair that sparks copper in the sun, cinnamon freckles, a tipped-up snub nose, full breasts, a deep waist, wide hips, and an athletic balance under her abundance. She laughs with her whole body, as if she has forgotten she can be seen. Randi is visibly arrested by her, says a bare “Yes,” engineers a small collision, touches her arm, talks with her for about two minutes, and learns that her name is Vee and that they share a stats class. Vee becomes an interior presence: she is early to stats, usually good at the “structure under the numbers,” friends with Cassie and Meg, and intensely anxious over whether Randi meant “we should sit together.” She wants Randi’s attention as admission into “a brighter life.” She is susceptible to polish, status, and being chosen, but also observant about rooms, clothes, and social hierarchy. At Chi Latte she compares herself to the exposed, fit girls there, thinks she could wear what they wear and have “more than they had,” then shuts that thought down under her mother’s voice about “nice girls.” She wears a cardigan over a better shirt on purpose most mornings. She experiences Randi’s hour of attention as the best hour she has had in months, though she cannot later reconstruct most of what Randi actually said. She gives Pace her full name, Vivienne Thorne, confirming Vee is Vivienne from the jacket. She is stuck on a challenge problem, dislikes the messy failed look of the page, and wants to solve it because she wants to, not because she has to. She is charmed by Pace’s attention, notices his ordinary face but impressive whole presence, his rolled cuffs, forearms, steady hands, and clothing that does not fit her usual categories. She understands the generosity of his tutoring: he chooses a tutor’s path, does not show off, gives her back the pencil, and lets the solution stay hers. She talks to him about economics, rational behavior, gaps between what people say and do, and applied math as finding structure in real situations. She gives him her number after hearing “May I call you?” and lets herself want his call. Pace’s fast text makes her stomach drop with wanting; she tries to defend herself by calling him desperate and considering the rule about waiting a day. She goes for frozen yogurt with him, overfills her cup without hearing her mother’s “that’s plenty,” lets him pay, walks the long way with him, feels listened to in a way she associates with her grandfather, and admits, embarrassed, that this is the nicest anyone has been to her in a long time. She goes to the rec pool with Cassie in a green-and-white one-piece from synchronized swimming when she was sixteen. The suit fits but gives her “nowhere to hide.” She handles crude comments from boys in the bleachers with a practiced face, then enters the water and remembers a bodily belonging from before her body became “a problem.” Underwater, no one can see her or want anything from her; she grieves a little, then resurfaces and is pulled back into laughter by Cassie’s splash fight. On Friday evening she receives Pace’s Saturday dinner text while still tired and chlorine-warmed from the pool. She likes that he leaves room for her answer instead of demanding it immediately. On Saturday she dresses with Cassie’s help, forgets to eat after breakfast, sees Pace waiting in her building lobby, and is moved by the visible care of his showering, shaving, shirt, and boots. At dinner she surrenders the menu to him with “Yes. Please,” eats unfamiliar food without self-monitoring, loses the thread of his talk while watching his hand and mouth, lets him carry the evening, drinks mint tea from a glass in a brass holder, walks home hand in hand, states her old rule that she does not kiss a man she has known a couple of days, then chooses to make an exception.
+Vee (= Vivienne): woman; named in the packet as the college junior the volume centers on; tall, lush, red-haired, freckled, athletic, socially fluent but hungry for entry, warmth, and being chosen; shares stats with Randi; lit up by Randi and Pace’s attention; former synchronized swimmer who feels underwater as old belonging before her body became a problem; now softened by Pace’s patient dinner and her own choice to make an exception.
 
-Cassie: Vee’s friend from stats, physically present beside her in lecture and later studying near Vee and Randi. She is terse, observant, and resistant to easy social rhythm. She notices Vee looking for Randi without looking up, gives Randi only “Cassie” instead of taking Randi’s playful opening, declines coffee because she has “a thing,” wears shorts, yesterday’s shirt, and a ball cap with the brim low, and says the oddly final “Goodbye, Vee.” She seems to see or feel something about Randi’s invitation that Vee smooths over. She studies at the next table over with headphones in, sometimes hearing and laughing at things two tables away. She watches Randi text, gives Randi a flat patient look Vee reads as skepticism toward sorority polish, alerts Vee that the cute guy in line is looking at her, introduces herself to Pace with a wave, watches Randi’s coffee cup without watching it, and later bluntly says Pace looked at Vee like he had forgotten anyone else was in the room and looked at Randi like “somebody’s great-aunt.” She remains at the coffee table after Pace leaves, jokes that Vee should go as long as Pace does not make her “roll a healer again,” and reveals Vee once spent a semester staying up until two to keep a business major alive in a video game. She fights her way into an old navy rec-pool suit, plainly does not care whether it flatters her boxy frame, calls the boys in the bleachers “Tossers,” keeps the joke low for Vee rather than making a scene, stays planted chest-deep in the pool because that is as far as she goes, sees Vee come up from underwater with “her face on wrong,” does not ask, and instead starts a splash fight to bring Vee back. On Friday evening she is folded on the bottom bunk with her knees to her chest, narrating a professor’s crimes, notices Vee’s face after Pace texts, teases her lightly, then does not tease when Vee explains that Pace left the answer with her “like it could keep.” She says, “That’s not a boy. That’s a man.” On Saturday she sits cross-legged on her bunk delivering verdicts while Vee tries on dresses and borrows shoes.
+Cassie (= Cassandra): woman; Vee’s roommate or close floor/home person; terse, plainspoken, shorts/yesterday’s shirt/ball cap in ordinary life; boxy-framed, blunt, dryly funny, in stats with Vee; wary when Randi draws Vee away; trusted pool companion who protects through jokes and play; sees Vee’s date-face and does not tease where Vee is tender.
 
-Brooke: Randi’s sorority chapter president. She is polished, warm-voiced, socially authoritative, “buffed and expensively kept,” and does Saturday morning admin at the long table by the window with the chapter laptop and spreadsheet. Randi tells Brooke she has a paper as an excuse to leave after chapter dinner; Brooke questions her the next morning about the paper, Pace, his name, his truck, his field, and whether he teaches Randi. Pace previously invoked Brooke during the bench scene as the imagined witness whose judgment would pierce Randi’s polished social self. Brooke’s power is quiet and seated: she does not need to stand to stop Randi.
+Vee’s mother: woman; offstage voice in Vee’s self-policing around appetite, “that’s plenty,” taking up space, eating, and having a body.
 
-Sloane: a sorority sister who appears in the common room with coffee and a laptop. She watches Randi and Brooke’s exchange without quite appearing to, recognizes the white pickup behind Hahn as probably Pace’s, jokes about a past boyfriend with a huge Raptor, and praises Randi for not caring about cars. She reads as part of the house’s social gaze.
+Brooke: woman; Randi’s sorority chapter president, warm and authoritative, able to stop Randi without standing; knows Pace’s name and that he is a math PhD not teaching Randi’s section.
 
-Kinsey: a sorority sister who appears cross-legged on the rug with a bowl of cereal. She watches the exchange, laughs slightly above pitch, asks whether Pace is “cute” and imagines him as “short-cute.” Randi matches Kinsey’s laugh quickly, showing how fast she adapts to the room.
+Sloane: woman; sorority sister, socially observant, jokes about Pace’s white pickup and “short-cute” men.
+
+Kinsey: woman; sorority sister, eager to join the room’s warmth, asks whether Pace is “short-cute.”
+
+Meg: woman; Vee’s floor friend, dark-haired and easygoing, present when Randi first collided with Vee outside the dining hall.
+
+Christine: woman; older restaurant worker or owner who knows Pace warmly and greets him by name.
 
 **Relationship ledger**
 
-Randi / Pace: no direct contact this chapter, so no change.
+Randi / Pace  
+State: surface: involved (consummated? y) / true: involved (consummated? y), with a dangerous knowledge gap after the bench scene, the pointing game, and Pace’s direct entrance into Vee’s life.  
+warmth ↔ cold: house, food, blankets, kissing, aftercare, campus sun, and his delight are warm; cold returns when tenderness reaches behind the face, in the locked bathroom/duvet, and in Randi’s controlled coffee-shop stillness.  
+belonging ↔ isolation: his house/game give private warmth and shared language; after the bench she retreats behind the face and returns exposed/alone; in the coffee shop he and Randi share hidden context Vee cannot read.  
+cherished ↔ used: he uses bench, spanking, edging, Brooke’s imagined gaze, public game, and staged-feeling coffee crossing to expose wanting; he also gives food, water, warmth, aftercare, tenderness, choice, and joy in her pleasure finding Vee.  
+desire hers ↔ desire worked-on-her: her body wants him, asks “Show me,” begs to come, and answers the thought of tasting a woman; he designs the night/game, presses desire she did not know how to choose, then gives her “I point. You pick.”  
+This chapter: no change.
 
-Randi / Vivienne: no direct contact this chapter. My unease grows because Vee’s “May I choose?” yes to Pace shows how deeply pleasurable surrender can be for her when it feels freely given.
+Randi / herself  
+State: surface: polished self-command / true: estranged from the hidden self Pace found, now more openly divided around wanting a woman and watching Pace choose Vee’s attention.  
+warmth ↔ cold: self-protective cold returns after warmth breaks through; with Vee, warmth appears as an unhidden grin and social glow; at coffee, cup-holding and one-word name show containment.  
+belonging ↔ isolation: isolation deepens because the found self must be hidden; the pointing game makes wanting playable; she folds Vee into class/coffee belonging while alone knowing the hidden frame.  
+cherished ↔ used: she treats the face as safely giveable; being cherished as herself frightens her; she recasts desire for women as a girlfriend’s gift to Pace while offering Vee warmth that may be genuine and instrumental at once.  
+desire hers ↔ desire worked-on-her: bench aliveness is hers yet seems not from her; “He’s hard to say no to” returns; her body wants the next point before Pace gives it, and her bare “Yes” to Vee comes before safety.  
+This chapter: no change.
 
-Pace / Vivienne: intimacy deepens sharply. Vee feels considered, fed, unrushed, and almost safely carried; I feel seduced by his care and worried by how perfectly it fits her hunger. The movement is both intimacy and asymmetry: he knows his connection to Randi and the prior plan; Vee does not.
+Vee / Randi  
+State: surface: friendly new classmates / true: attracted and unequal, with Vee powerfully drawn in while Randi knows the meeting began in a staged game Vee does not know about.  
+warmth ↔ cold: Randi floods Vee with warmth — “There you are,” touch, coffee, hug, “Love you, girl,” “See you later”; cold remains in the hidden setup and withheld cup-hand stillness.  
+belonging ↔ isolation: Randi admits Vee into class intimacy, Chi Latte, the high table, the sign’s joke, and brighter social life; that belonging isolates her from Cassie’s caution; Pace’s arrival shifts attention while Randi remains at the table.  
+cherished ↔ used: Vee feels chosen “by exactly the person she’d have chosen to be chosen by”; she is still being used by a game before fully known, though Randi’s warmth is not reducible to that; Randi encouraging Pace may be generosity, strategy, or both.  
+desire hers ↔ desire worked-on-her: Vee’s desire is bodily and real, but Randi’s practiced warmth works on her intensely; Vee’s desire is now pulled toward Pace while Randi encourages it.  
+This chapter: no change.
 
-Randi / Cassie: no change.
+Vee / Pace  
+State: surface: attracted acquaintances moving into first romantic intimacy / true: attracted acquaintances moving into first romantic intimacy, secretly framed by Pace and Randi’s prior game; Pace selected and pointed Vee out as the woman who answers Randi’s desire, made direct contact, helped her solve a problem, asked for her number, texted quickly, took her for frozen yogurt, invited her to dinner, chose a meal for her, held her hand, and accepted her stated no before she chose to make an exception.  
+warmth ↔ cold: warmth dominates: his smile chooses her, tutoring respects her, listening is spacious, “may” lands as courtly heat, frozen-yogurt walk lets her feel waited on, and dinner lets her stop bracing; cold is hidden in the setup and undisclosed Randi relationship.  
+belonging ↔ isolation: Pace singles Vee out, lets the solution stay hers, makes her feel waited on, shows her a part of her city she has never seen, and gives her a table where she can rest; the isolation is that she does not know he is already connected to Randi and the game around her.  
+cherished ↔ used: Vee feels cherished by his attention, restraint, listening, “May I call you?”, quick text, paying, door-holding, dinner choice, boundary-respect, and space for her true thing; the reader knows she may also be used in Pace and Randi’s design.  
+desire hers ↔ desire worked-on-her: Vee’s response is bodily and immediate — quiet chest, wanting the look to continue, noticing forearms/hands, wanting the phone to light up, overfilled frozen yogurt, losing the thread at his hand and voice, and stepping back toward the kiss; Pace’s courtesy, listening, waiting, food choice, and hand-holding strongly work on her.  
+This chapter: Vee/Pace moves from first date to near-kiss/first romantic intimacy; the warmth and consent feel real on the page, while the hidden Randi frame keeps the cherished/used axis unresolved.
 
-Vivienne / Cassie: no major movement, but the existing trust holds. Vee feels safe enough for Cassie to see her ridiculous grin; I feel warmed by Cassie knowing when teasing should stop.
+Vee / herself  
+State: surface: ordinary student with good notes, cardigans, and a close terse friend / true: hungry, self-divided, drawn to women’s beauty and status, susceptible to being chosen into warmth, responsive to Pace’s competence and patient listening, still able to find an older self underwater where nobody wants anything from her, and now discovering that appetite and exception can be hers.  
+warmth ↔ cold: warmth blooms through Randi’s choosing, Pace’s capable attention, Cassie’s unsentimental care, the pool’s green quiet, and the dinner’s food/tea/hand; cold lives in self-policing, her mother’s voice, public comments on her body, the exposed bleacher walk, and the old no-kissing-after-two-days rule.  
+belonging ↔ isolation: she longs to belong to rooms like Chi Latte and feels admitted under Randi’s sign/high table; she still measures herself; with Pace she feels chosen and recognized inside her work; with Cassie and water she has older, less performative belonging; at dinner she finds belonging in being across from Pace and not keeping up.  
+cherished ↔ used: she feels cherished by Randi and Pace and does not yet feel used; the reader knows the setup makes that precarious; Cassie’s care asks nothing; Pace’s dinner carries choice without taking over her yes.  
+desire hers ↔ desire worked-on-her: want for Randi is bodily and glad but arrives through Randi’s social power; desire for Pace is sparked by being looked at, his hands, “May I call you?”, quick text, the way he waits, chosen food, and the hand that feels like it belongs around hers; underwater, desire quiets into a body that belongs to itself.  
+This chapter: Vee’s self-state deepens around appetite and consent: she lets Pace choose dinner, lets herself stop watching herself eat, says a real no, and then actively chooses the exception.
 
-Randi / Brooke: no change.
+Pace / Vee / Randi triangle  
+State: surface: active but innocent to Vee as a cute stranger meeting her during a study session and then asking her out / true: active between Pace and Randi; the packet says Pace and Randi have planned something involving Vee before Vee knows, the pages show the game beginning with Pace pointing and Randi choosing Vee, and now Pace has entered Vee’s life directly in Randi’s presence and is courting her privately.  
+This chapter: Pace’s bond with Vee advances without Randi onstage; that makes the hidden triangle feel more dangerous, because the date itself is tender and Vee’s attachment is becoming real.
 
-Randi / Sloane: no change.
+Vee / Cassie  
+State: surface: close friends or roommates / true: close enough for Cassie to read Vee watching the door, be part of Vee’s home rhythm, register details Vee smooths over, know how to help Vee without making her sadness bigger, and recognize when Pace’s behavior matters to Vee.  
+warmth ↔ cold: Cassie’s warmth is dry and unsentimental; “Goodbye, Vee,” cute-guy notice, healer joke, great-aunt line, “They will never know the love of a woman,” splash instead of questions, and “That’s not a boy. That’s a man” feel protective without softness.  
+belonging ↔ isolation: Cassie is Vee’s ordinary belonging; Randi and Pace pull Vee into charged situations Cassie watches from the side; the pool shows Cassie standing nearby while Vee goes under and comes back; the bunk-room moment shows Cassie as the person Vee can grin in front of.  
+cherished ↔ used: Cassie does not use Vee; she declines cleanly, lets Vee go, names Pace’s attention plainly, jokes from ordinary familiarity, turns Vee’s grief into play without taking possession of it, and knows when not to tease.  
+desire hers ↔ desire worked-on-her: quiet on Cassie’s desire; she witnesses Vee being worked on by Randi’s and Pace’s attention, helps Vee move from public comments back into her own play, and here names Pace’s difference without pushing Vee.  
+This chapter: Cassie’s bond with Vee stays clean and trustworthy; she sees the date-face and protects the tenderness by not mocking it.
 
-Randi / Kinsey: no change.
+Randi / Brooke  
+State: surface: friendly sorority authority / true: friendly sorority authority with scrutiny underneath.  
+This chapter: no change.
 
-Randi / herself: no interior access this chapter, so no change.
+**What I know that they don’t**
 
-Vivienne / herself: deepening. Vee lets herself be hungry, lets herself stop self-monitoring, and then revises one of her own rules by making an exception; I feel the thrill of her choosing and the danger of how quickly her rules yield to Pace’s gentleness.
+From the packet, I know Vee will not initially know there is a plan involving her, and that Randi and Pace are the two people closest to her who began it as a game.
 
-Pace / himself: no interior access this chapter, so no change.
+Randi does not know, or cannot admit, what she will do with what happened on the bench; Pace does not know that she has resolved to hide the found self from him “not ever.”
 
-Brooke / Sloane: no change.
+Pace believes the night was “remarkably good” and that he answered Randi’s hunger; I know she is both awakened and frightened enough to lie with her face.
 
-Brooke / Kinsey: no change.
+Brooke, Sloane, and Kinsey do not know what happened with Pace; they see only Randi coming in before ten on Saturday in last night’s clothes, and Randi’s lies about the paper and studying.
 
-Sloane / Kinsey: no change.
+Vee does not know that Randi’s meeting with her was engineered through Pace’s pointing game, or that Randi had already chosen her with a bare “Yes” before approaching.
 
-**What I know that they don't**
+Vee does not know Pace exists in this context before he approaches the coffee-shop table; she experiences Randi’s class visit, coffee invitation, hug, “Love you, girl,” “See you later,” and Pace’s math help, “May I call you?”, quick text, frozen-yogurt date, dinner invitation, chosen meal, hand-holding, and near-kiss as spontaneous personal choosing.
 
-Randi knows, but Pace does not, that after the bench scene she experienced his tenderness as the thing that “could not happen,” retreated behind her face, and resolved that the self he found was “not coming out again.”
+Cassie may have noticed something off about Randi’s sudden attention or Vee’s response, but Vee smooths over Cassie’s strange “Goodbye” and goes with Randi.
 
-Pace does not know that Randi’s “extraordinary evening” smile is a lie, or that her apparent post-scene quiet is not simple rest and trust.
+Vee does not know that Pace and Randi are sexually involved; she sees them as a stranger and a friend sharing only a brief polite exchange.
 
-Pace does not know that Randi returned to the sorority house in last night’s clothes, was questioned by Brooke in front of Sloane and Kinsey, lied again about the paper, and afterward lay on her bed in her clothes and shoes unable to cry.
+Vee does not know whether Pace’s arrival at the coffee shop was chance or arranged; I have strong reason to doubt it was simple chance because of the prior pointing game and Randi’s presence.
 
-Vivienne/Vee does not know anything about Randi and Pace’s plan from the jacket: that they have picked her as the third in their bed and told her nothing. She also does not know that Pace pointed her out to Randi as part of the campus game, that Randi’s interest was sexual before they met, or that Randi engineered their small collision.
+Vee does not know what Randi feels or intends when she encourages Vee to go out with Pace.
 
-Vivienne/Vee does not know that Randi’s “we should sit together,” Chi Latte invitation, touch, hug, “Love you, girl,” and “See you later” are happening inside the frame of Randi and Pace’s prior sexual selection of her.
+Cassie does not know the hidden Pace/Randi sexual involvement or the pointing game around Vee, though she may be alert to Vee being pulled away.
 
-Vivienne/Vee does not know whether Pace’s arrival at the Wilson coffee shop was chance, arranged, or prompted by Randi’s texting; she experiences it as a man hearing she needs help and choosing her.
-
-Vivienne/Vee does not know that Pace and Randi are already lovers, though Randi’s behavior around Pace reads to me as managed rather than innocent.
-
-Vivienne/Vee does not know that Randi’s encouragement to answer Pace quickly and go out for frozen yogurt comes from someone already involved with him and with the plan around Vee.
-
-Vivienne/Vee does not know that Pace’s Saturday dinner invitation, his choice of restaurant, his “May I choose?”, and his acceptance of her kissing rule all occur inside the larger hidden frame that began before he met her.
-
-Cassie does not know the Randi/Pace plan, but she may sense something off about Randi’s sudden attention to Vee and Pace’s sudden appearance.
-
-Brooke does not know Randi lied about the paper and went to Pace’s house, though she questions Randi closely enough that I suspect she may not fully believe the story.
-
-Sloane and Kinsey do not know what actually happened between Randi and Pace the night before.
+Vee does not know what Pace will tell Randi about their frozen-yogurt date, dinner, hand-holding, or the near-kiss.
 
 **Motifs**
 
-Locks, doors, and thresholds: Randi locks Pace’s front door behind her as soon as she enters; later she locks the bathroom door for the first time in his house. The first lock feels like habit and safety; the second marks withdrawal and private crisis. The final image of the bench aftermath compares her inner decision to “a key turning in a lock.” She enters the sorority house through an unlocked door but closes it quietly, already wrong for her, then closes her bedroom door without her usual confident click. Doors keep marking whether Randi is in command of access or merely trying to get out of sight. Pace holds the door for Randi as they leave for campus, a small courteous threshold into the game he has not named. Randi’s invitation lets Vee pass under the Chi Latte sign and into a place she had felt excluded from; belonging itself becomes a threshold. Randi’s flattering remark goes into Vee “like a key in a lock,” turning the earlier lock image toward access rather than retreat. The coffee shop doorbell marks Pace’s entrance and exit; he crosses the threshold into Vee’s afternoon and leaves her waiting for the next opening, the phone call. Pace holds the frozen yogurt shop door with his back because both their hands are full, making courtesy and shared burden part of the threshold into the date. The dark stripe where the shallow gives out is another threshold: Vee crosses from being seen on the deck into the private green quiet of the deep. This chapter adds the elevator doors almost closing on Vee as she stares at Pace, the warm restaurant doorway pulling hunger out of her, and the passage from warm restaurant to cold street before Pace takes her hand.
+The face / blue eyes: Randi’s beauty is social instrument and lying surface; Vee’s public face manages her body; Cassie can read Vee’s “face on wrong” after the pool and “whole face” when Pace texts.
 
-Food, appetite, and portioning: Pace slices a honeycrisp apple thin because Randi will eat thin slices but not thick ones. Apples are “permitted” by her internal food rules. The apple game becomes erotic, and Pace later thinks of her as “a girl who had been portioning herself for years” whom someone finally fed. Food is tied to permission, desire, control, and being allowed to want. Food is displaced into the sorority morning around her: coffee, cereal, brunch routines, and the social normalcy Randi cannot rejoin. Randi says she is hungry but automatically refuses a cheeseburger because “I can’t eat that,” then after she meets Vee Pace says, “Let’s go feed you.” Appetite now includes both food and women, both still requiring permission. Vee enters Randi’s world through coffee: granola bar in lecture, oat-milk lavender latte, chocolate and coffee smells, spoons stirring sweetness at the bottom of cups. The drink is social permission as much as appetite. Pace abandons his own coffee to come to Vee; desire is measured by what he forgets to consume because he is focused on her. Frozen yogurt lets Vee exceed her mother’s “that’s plenty” and discover that wanting too much does not immediately shame or ruin her. This chapter makes food central again: Vee forgets to eat after breakfast while preparing for dinner, arrives enormously hungry, lets Pace choose unfamiliar dishes, eats bread, bright salad, smoky dip, and mint tea without watching herself, and finds that the hunger “had been empty a lot longer than since noon.”
+Warmth: comfort, sex, authority, danger, social admission, and care: Pace’s house/aftercare/dinner, Brooke’s control, Randi’s touch/coffee/hug/later, Pace’s courtly attention, and Cassie’s dry protection.
 
-The face / blue eyes / being looked at: Randi’s startling blue eyes are the first thing people notice and the thing she has built her adult life around being looked at for. In the bathroom she sees that the same face has begged, and the familiar smile no longer cleanly covers what happened. Her face is armor: it receives being wanted and prevents it from reaching “her.” The smile “arranged” itself, twice, a fraction late, and her laugh matches Kinsey’s before she has time to choose it. The face still works, but I can see the delay. Randi repeatedly dresses desire in performance: the warm lower register, the sex-kitten “You dirty boy,” the girlfriend offering a threesome “with you.” But her bare “Yes” at Vee breaks through before the costume returns. Vee experiences Randi’s face as a whole lit surface turned on her: “There you are,” the warm smile, the social light that makes Vee feel chosen. Pace’s gaze gives Vee another version of being chosen: he looks at her face all the way across the room, not at Randi, and she does not want the looking to stop. The phone lighting up becomes a new version of being looked for: Pace’s attention reaches her when he is no longer in the room. Vee puts her face on to walk past the bleachers in her swimsuit, then comes up from underwater with “her face on wrong,” and Cassie sees it without making her explain. This chapter begins with Cassie reading Vee’s post-text face instantly: “That’s a face. That’s a whole face.”
+Locks / doors / keys: secrecy and thresholds: bathroom lock, Vee entered by flattery “like a key in a lock,” Chi Latte sign, coffee bell, yogurt-shop door, Cassie’s locker key, elevator doors, and restaurant doorway.
 
-Warmth, cold, sweat, salt, and aliveness: Pace’s house is deliberately warm. The erotic scene moves from perfume and polished surfaces into sweat, salt, damp hair, wetness, tears, and bodily heat. The movement is from social gloss to animal aliveness. Randi’s sorority house and room are cold, the corners do not hold heat, and the duvet is only “light and synthetic and adequate.” The cold reads as the return to containment after bodily warmth. Heat returns through sex, Randi’s own taste on Pace’s mouth, and the bright outdoor afternoon. Vee’s red hair catching copper in the sun and the burning maple bring warmth into the public world. Warmth becomes social and sensory: Randi’s citrus presence, her hand on Vee’s arm and back, the chocolate-coffee smell, the sweet yellow room, and Vee walking home “warm the whole way there.” Pace’s smile, mouth, laugh, and listening are all described through warmth; the room itself seems to settle around him. The evening outside has gone “blue and cool,” but the frozen yogurt date stays warm through sugar, shared walking, and Pace’s attention. The pool is cold from below, green and chlorine-clean, and aliveness comes through breath, buoyancy, and the body remembering how to move before shame catches up. This chapter moves from chlorine warmth in Vee’s body to the warm yellow restaurant, hot bread, brass-held mint tea, then cold pavement and quiet blue campus, with Pace’s hand carrying warmth back into the night.
+The bench/table: ordinary furniture/surfaces hide purpose: Pace’s bench, stats/coffee/study tables, pencil mark, pool deck towel, and dinner table where Vee stops bracing.
 
-Furniture and rooms with hidden purpose: Pace’s handmade furniture looks expensive in a way Randi cannot price. The bench has been mistaken for a table, with its top removed to reveal face cradle, grips, open middle, leg rests, and exposed purpose. It can become a table again while remaining “full of what it was.” Randi’s single room is a Standards privilege and private refuge, but it also exposes her inability to resume herself: bed made because she did not sleep in it, closet orderly, clutch in its assigned place, nothing offering comfort. The public campus becomes another arranged space with hidden purpose: a walk that looks ordinary but is actually structured around Pace pointing and Randi choosing. The stats lecture hall and Chi Latte both look ordinary but become charged by hidden purpose: Randi’s chosen seat beside Vee and the high table where Vee is displayed and admitted. The Wilson coffee shop becomes another ordinary room with a hidden purpose: a study session that becomes the site of Pace’s entrance, Vee’s solved problem, and the exchange of her number. The too-bright frozen yogurt shop, with dusty plastic ivy and humming machines, looks ordinary and unromantic, but becomes the place where Vee’s appetite and vulnerability are gently exposed. The rec pool is an institutional room with rules and spectators, but under the surface it becomes a private room where Vee can belong to herself. This chapter adds the small restaurant as a room Pace knows and can open for Vee: ordinary, warm, locally rooted through Christine, and full of choices whose meanings Vee cannot read but agrees to receive.
+Food / appetite: hunger, desire, and restraint: apple slices/“feed you,” portioning, sorority food, refused cheeseburger, Chi Latte sweetness, frozen yogurt past “that’s plenty,” and dinner where hunger opens into trust.
 
-“Hi”: Pace and Randi exchange “Hi” at the door, upside down during the scene, and again after she returns from the bathroom. The word becomes an intimate reset, but by the last one it is also part of Randi’s restored mask. Vee’s “Hi” to Randi comes out “a half-step too bright,” marking her own inability to hide eagerness. This chapter gives Vee and Pace another “Hi” in the lobby, hers smaller than planned and his unpressing, letting the smallness stand without demand.
+Polish / gloss: Randi’s curated bag/cashmere/lingerie/nails/body/face and Brooke’s “hair and face”; Vee’s abundance contrasts with curated women; Pace’s practical, cared-for clothes resist status; Cassie’s plain navy suit rejects admiration.
 
-“Please” and begging: Randi’s ordinary social “please” fails; Pace withholds orgasm until a different “please” arrives, lower and broken. The word becomes the marker of a self underneath performance, and afterward Randi is shaken by the fact that her face said “I’m begging” out loud. Vee says “Yes. Please. Thank you” when Pace offers help and “Please” when he asks if he may look at the page; the word is polite and ordinary, but it again opens access to Pace’s control. This chapter Vee says “Yes. Please.” when Pace asks “May I choose?”, making “please” a willing surrender into his taste and authority rather than an erotic break, though it vibrates near one.
+Pointing / choosing: Pace’s pointing makes Randi’s wanting playable and lands on Vee with Randi’s bare “Yes”; Vee feels chosen by Randi’s class/coffee/high table/later and Pace’s crossing, text, long-way walk, dinner invitation, “May I choose?”, and hand; Cassie chooses private protection.
 
-“He’s hard to say no to”: Randi first says it in the kitchen to the girls as a perfect social line explaining why she agreed to go out with Pace. Later, she hears the same sentence alone in her room “in a different key” and cannot let the thought continue. The phrase now carries flirtation, pressure, consent, and fear at once. Pace’s game depends on Randi saying yes under conditions he frames as playful and free. Vee’s yes to Randi’s coffee invitation feels freely and eagerly given, but the invitation comes wrapped in glamour, status, and Randi’s chosen warmth. Pace asks rather than presses — “Let me try?”, “May I call you?” — and Vee’s yes feels fully voluntary while also almost inevitable. Randi makes not saying yes seem artificial: “The rule’s for boys you’re not sure about. You’re not unsure.” This chapter sharpens the pattern: Pace asks “May I choose?”, then does not argue when Vee says she does not kiss a man she has known a couple of days; his ease with her no makes her own exception feel even more freely given, and even harder to resist.
+Red hair / unpinned aliveness: Vee’s dark red hair, freckles, abundance, balance, whole-body laughter, and ugly pool shriek-laugh are uncurated selves that pull Randi out of management and let Vee return to herself.
 
-Pointing, choosing, and permission: Pace creates “the pointing game” after Randi’s body reveals interest in tasting another woman. “I point. You pick” gives Randi cover to choose while keeping Pace as the person who defines the frame. Randi’s desire grows from recoil at public impropriety into active scanning and then a bare “Yes” at Vee. The gesture feels erotic because it gives permission, and troubling because the permission still comes through Pace. The chosen person experiences the other side of the gesture: Vee feels picked out by Randi, given a seat, a drink, a table, a hug, and a “later,” without knowing she was already selected. Pace chooses Vee with his gaze from across the coffee shop, comes to her table, asks permission at every step, and leaves with her number. Vee chooses to answer and go, but Randi’s certainty and Pace’s promptness narrow the space around that choice. The bleachers choose Vee’s body as a target without permission, which makes chosen attention feel less simple. This chapter’s title phrase, “May I choose?”, makes choosing explicit: Vee hands him the dinner choices and experiences the surrender as relief, while I cannot forget that Pace and Randi have already chosen her in a larger, hidden way.
+Goodbye / see you later / call: Cassie’s too-final “Goodbye, Vee,” Randi’s “See you later,” Pace’s “talk soon,” facedown phone, quick text, frozen-yogurt invitation, Friday dinner text, and Vee’s delayed answer turn waiting into contact.
 
-Mirrors, types, and women as grammar: Pace begins with women close to Randi’s own social grammar: polished, lean, Greek-coded, paired, closed, authoritative. Randi rejects the expected mirror, the inseparable pair, the project, and the room-running girl. She pauses at warmth and openness, then chooses Vee, who exceeds the grammar entirely: lush, uncurated, laughing, visible without seeming managed. Vee reads the women in Chi Latte as types: uniformed pretty girls, deliberately underdressed girls, girls who belong. She sees herself as both more abundant than the room’s ideal and more covered than anyone, then sees Randi as outside the whole competition. Vee tries to read Pace as a type and fails: not ordinary boy, not showy student, not exactly workman, not exactly anything she has. Randi gives Vee a simpler category for Pace: not desperate, but “a man who wants you.” Cassie refuses the feminine display grammar almost completely: her navy suit does not flatter her, she knows it, and “it didn’t bother her one bit.” This chapter contrasts Pace with “boys”: the boys in Vee’s building with fake-lived shoes and the other boys who make girls answer immediately, while Cassie names Pace as “not a boy” but “a man.”
+Hands / pencil: Pace’s hands signify sex, furniture, care, competence, and restraint through cuffs/forearms/fingers/pencil/cups/door; pool hands become old skill and wordless care; Pace’s right hand tearing bread, lifting food, licking away a drip, and holding Vee’s hand centers the dinner’s heat.
 
-Goodbye / see you later: Cassie says “Goodbye, Vee” in a way that feels too final for coffee and wrong enough that Vee notices, then smooths it away. Randi later says “See you later,” and Vee receives it as certainty that there will be a later and she will be included in it. The two phrases pull against each other: warning or ending on one side, promise and continuation on the other. Pace’s “talk soon” gives Vee another promised later, tied to the phone she wants to light up. The phone does light up within twenty minutes, making the promised later arrive almost before Vee can defend herself from wanting it. This chapter turns “later” into “tomorrow”: Pace texts Friday for Saturday dinner, giving Vee enough space to carry the invitation before answering.
+Math / hidden structure: latent variables, Euler’s formula, and right-angle substitution link desire, intellect, and the triangle as hidden structures whose old unused truth becomes necessary.
 
-Math, structure, and hidden causes: Vee is good at seeing “the structure under the numbers,” and latent variables make her think about hidden causes inferred through visible signs. The challenge problem circles until Pace supplies the substitution that turns it into something she already knows. Math becomes the language of seduction: the elegant method, the right angle, the thing already known but unused, and the gap between what people say they are doing and what they are actually doing. Pace applies the same seriousness to frozen yogurt flavors: “There’s a system,” and pleasure itself becomes something structured, balanced, and understood. This chapter shifts structure into dinner: Pace orders deliberately and builds the meal as a sequence Vee cannot name but can feel.
+The long way / waiting: Pace’s patience makes desire unrushed; he waits through Vee’s sentences, walks “not toward anything,” gives her truth space, leaves his dinner invitation overnight, and walks her back the long way; underwater, Vee waits until her lungs ask and past it.
 
-Hands, pencils, and agency: Pace’s hands have already mattered erotically with Randi: feeding her apple slices, arranging her body, checking her, building furniture, and controlling when she may come. Vee notices his hands as competent and physical before anything sexual happens. The charged gesture is that he picks up her pencil after asking with his eyes, writes only enough to open the method, then sets the pencil back in her hand so she solves the problem herself. Hands are full of frozen yogurt and napkins, and Pace holds the door with his back, making his care practical rather than showy. Vee’s hands remember the old sculling shape underwater before she asks them to; her body’s agency predates Pace’s guidance and Randi’s choosing. This chapter makes Pace’s right hand a pattern Vee watches: tearing hot bread, lifting food to his mouth, catching a drip, and then holding her hand after dinner.
-
-Rules, games, and exceptions: Pace turns Randi’s desire into the pointing game, where rules create permission and make wanting playable. Vee and Cassie have a joking history around a video game, including Vee “keeping a business major alive” by playing a healer for a semester. Vee invokes dating rules — wait a day, do not answer the first text — and Randi reframes the rule as irrelevant because Vee already knows she wants him. The rec pool has rules about real suits and a lifeguard checking them, while Cassie and Vee’s splash fight becomes another game that lets feeling move without being named. This chapter brings Vee’s kissing rule into the open: she does not kiss a man she has known a couple of days, but when Pace accepts the rule without pressure, she chooses to make an exception.
-
-Water and breath: first major emergence as a motif. The rec pool smells of chlorine and floor cleaner and requires regulation suits, but underwater it becomes Vee’s private place outside being seen. She crosses the dark stripe where the shallow gives out, loses the floor, sculls by old memory, and finds “old uncomplicated belonging.” Breath matters as held social composure on the walk past the bleachers, then actual breath underwater, then the release into laughter during the splash fight. This chapter carries water forward as residue rather than scene: chlorine remains in Vee’s hair and the good heavy tiredness of swimming remains in her arms when Pace’s dinner text arrives.
+Water / swimming: water is Vee’s old belonging before her body became public problem; underwater nobody sees or wants anything, splashing with Cassie lets grief lose to play, and the Friday text arrives while chlorine and good heavy tiredness remain.
 
 **Symbolism noticed**
 
-The bench symbolizes concealed intention and structured exposure: a table until it is not, ordinary furniture until its hidden use is revealed, consented-to position until it opens into something Randi did not understand would happen inside her.
+The bench: ordinary surface with hidden purpose; Randi’s hidden self under the social face.
 
-Randi’s face symbolizes polish as defense: beauty, social ease, and being-looked-at as a surface that lets nothing reach the protected self.
+The face: protective false self; for Vee, public body-management and involuntary happiness Cassie can read when Pace texts.
 
-The apple symbolizes permitted appetite becoming erotic hunger. Thin slices are safe; eating from Pace’s hand and mouth becomes a way desire slips past rules.
+The apple / food: permitted appetite becoming erotic appetite; overfilled frozen yogurt pushes past old limits; dinner spreads appetite into trust, fullness, and older hunger.
 
-Locks and doors symbolize control over access. Randi’s first lock secures Pace’s house behind her; the bathroom lock protects her from Pace’s tenderness; the final key image marks an internal closing; the quiet closing of the sorority house door and bedroom door shows her trying to pass unseen rather than command the room. Vee’s “key in a lock” feeling makes Randi’s flattery feel like access into a closed place inside her. Pace holding doors for Randi and then Vee makes courtesy itself feel like an invitation across a threshold. The pool’s dark stripe extends the threshold image into Vee’s body: beyond it, she can stop performing visibility. This chapter’s elevator, restaurant door, and warm-to-cold exit keep thresholds tied to invitation, hunger, and contact.
+The bathroom lock, cold room, and inadequate duvet: Randi reclaiming secrecy after being seen too fully, losing Pace’s dangerous warmth, and finding ordinary protections insufficient.
 
-Randi’s single room symbolizes privacy without real refuge. It is hers alone because of Standards, but once she is inside it she cannot use it to recover; its order only shows how far she is from herself.
+Standards: Randi’s sorority office, social code, and internal code against crying or following the thought where it leads.
 
-The duvet symbolizes inadequate comfort. It covers Randi’s body in the cold room but is only “light and synthetic and adequate,” pointedly not the warmth or holding she cannot bear from Pace.
+The pointing game: framed permission; Randi can want because Pace has made wanting look like play.
 
-The pointing game symbolizes permission disguised as play. Randi can want because Pace has made wanting into a game with rules, but the same game also lets him arrange the field in which her yes appears.
+Vee’s loose red hair and whole-body laugh: uncurated freedom Randi’s polished grammar cannot grade or contain.
 
-The burning maple symbolizes sudden visible change before the rest of the world has changed with it. It stands near the chapter’s movement from hidden desire to a public, glowing choice.
+Latent variables / crossed Euler mark: hidden desire, hidden motives, and a conversion where two hard things held at right angles become one solvable thing; an old unused truth becomes necessary.
 
-Vee’s red hair and full-body laughter symbolize uncurated aliveness: a kind of bodily freedom that arrests Randi because it does not fit the narrow standards she lives by.
+Chi Latte’s Greek sign and high table: entry into a social code Vee had stood outside, plus visible belonging as exposure.
 
-Chi Latte symbolizes social admission: a place Vee had stood outside, literally and socially, until Randi brings her under the sign, explains the joke by making it audible, and seats her in the window.
+The returned pencil: Pace can solve the problem himself, but makes the solving remain Vee’s.
 
-The high table symbolizes display as belonging. Vee is lifted into visibility, anxious about being seen and thrilled to be where belonging is performed.
+The abandoned coffee: Pace leaving behind the ordinary pretext of entering the shop because Vee has become his real focus.
 
-Latent variables symbolize hidden causes inferred through visible signs: Vee cannot directly measure what Randi means, so she reads timing, touch, warmth, phrases, and invitations.
+The long way: unrushed intimacy; letting Vee become someone worth waiting on.
 
-The substitution in the math problem symbolizes a hidden route through resistance: what looks impossible by direct effort becomes easy when joined to the right prior knowledge. It also shadows the social scene, where Pace enters as the missing method that changes Vee’s afternoon.
+The pool water: a private element where Vee can be weightless, unseen, and hers before returning to having a body.
 
-The returned pencil symbolizes agency under guidance. Pace controls the frame and supplies the key, but Vee experiences the solution as hers because he gives the pencil back at the exact moment she can act.
+The dark stripe: threshold between managed public self and the deep place where Vee’s old self can return.
 
-The abandoned coffee symbolizes attention as appetite displaced. Pace came in for coffee but leaves without it because Vee has become the thing he came toward.
+The splash fight: Cassie turning grief back into embodied play without demanding confession.
 
-The overfilled frozen yogurt cup symbolizes Vee’s appetite exceeding inherited permission. Her mother’s “that’s plenty” does not arrive in time to stop her, and the cup holds anyway.
+The brass tea glass: heat made holdable; warmth given structure so Vee can keep it in her hands.
 
-The tart holding up symbolizes Vee’s fear of too-muchness being gently contradicted. What she built too high, what she confessed too plainly, does not collapse.
-
-The water symbolizes bodily refuge before shame: Vee can be weightless, unseen, and unwanted there, returned to a self from before her body became a public problem.
-
-The splash fight symbolizes friendship as rescue without confession. Cassie does not ask Vee to narrate her grief; she gives her a physical game that lets the grief break apart.
-
-The unfamiliar menu symbolizes a desire Vee cannot yet name. Pace’s “May I choose?” lets her surrender into pleasures she has no map for, which is both tender and ominous.
-
-The mint tea symbolizes surfacing from enchantment. It wakes Vee by degrees after she has gone soft and lost track of the room.
-
-The handclasp symbolizes a bond Vee experiences as already settled. It feels less like a beginning than a resolving, which is romantic and worrying because she does not yet know the hidden shape around her.
+The right hand: Pace’s care, competence, appetite, and claim gather into the hand Vee watches all night and then feels around hers.
 
 **Open questions**
 
-How will Randi and Pace explain knowing each other, if they ever have to explain it to Vee?
+How long have Pace and Randi been involved, and what exactly is the “game” involving Vee?
 
-Was Pace’s arrival at the Wilson coffee shop arranged by Randi’s texting, or was it chance within the page?
+What will Randi do with the self Pace found on the bench, and will Pace recognize she is hiding behind the face?
 
-How will Randi use the shared stats class to approach Vee again?
+What does Randi really want from Pace now: more, distance, control, revenge, tenderness, or some unresolved mix?
 
-How will Randi and Pace move from this first contact toward the jacket’s plan to involve Vivienne/Vee as the third in their bed?
+Was Brooke’s questioning ordinary chapter-president vigilance, or has she noticed something more specific about Randi and Pace?
 
-Will Vee learn that she was selected through a sexual game before Randi met her?
+What did the two phone notifications say, and why does Randi leave them unread?
 
-Will Vee learn that Pace and Randi are already lovers?
+What will Randi do now that Vee has a name, a stats class with her, coffee, Pace’s direct interest, and a Pace/Vee frozen-yogurt date?
 
-Will Pace realize that Randi’s post-bench recovery was partly a performance?
+Who is Meg beyond the friend from Vee’s floor who was present at the collision?
 
-Will Randi tell Pace anything true about what the bench scene did to her, or will she keep the face in place?
+What did Cassie notice, and why did she say “Goodbye, Vee” instead of an ordinary goodbye?
 
-What exactly is Randi and Pace’s arrangement: lovers, boyfriend/girlfriend, secret affair, or something less named?
+How much of Pace’s “gift” to Randi will stay gentle, and how much will become control?
 
-How much does Randi understand about Pace’s power over her, and how much does Pace understand about the risk in his own certainty?
+Does Randi’s warmth toward Vee come from real attraction, practiced social power, the game with Pace, or an unresolved mix?
 
-What role will Brooke and the sorority world play beyond social pressure and imagined judgment?
+Was Pace’s arrival at the coffee shop planned with Randi, opportunistic after spotting Vee, or chance?
 
-Does Brooke actually suspect Randi is lying, or is her questioning simply ordinary Standards vigilance?
+What will Pace tell Randi about taking Vee for frozen yogurt, dinner, hand-holding, and the near-kiss, if anything?
 
-What will Randi do with the thought “He’s hard to say no to” now that it has returned in a darker key?
+What did Randi feel while Pace and Vee talked: pleasure, jealousy, arousal, loss of control, generosity, or some unresolved mix?
 
-Can Randi want Vee as herself, or only through Pace’s permission and the safer story of a gift to him?
+How much does Cassie understand about the Randi/Pace/Vee dynamic already?
 
-What did Cassie see or feel when she declined Chi Latte and said “Goodbye, Vee”?
+Will Vee learn that Pace and Randi are involved before she is more deeply emotionally attached?
 
-Will Cassie challenge Vee, Randi, or Pace more directly?
+How much can Cassie keep anchoring Vee if Randi and Pace keep pulling Vee into warmer, more charged rooms?
 
-Will Vee recognize her attraction to Randi as sexual, romantic, social, or some mixture she has no language for yet?
+What happened in Vee’s synchronized-swimming past, and when did her body become “a problem” to her?
 
-How much of Randi’s warmth toward Vee is genuine, and how much is practiced social capture?
+Will Vee and Pace actually kiss after she says she is making an exception?
 
-What kind of invitation will Pace make after frozen yogurt?
+Does Pace’s consistent right-hand use mean anything, or is it simply part of his embodied particularity?
 
-Will Vee’s new willingness to exceed “that’s plenty” extend beyond food?
+Who is Christine to Pace, and what does her warmth toward him show about his life beyond campus?
 
-How much of Vee’s old swimming self can survive the new attention from Randi and Pace?
+**How I feel — overall**
 
-Will Cassie’s protective way of knowing Vee matter when the hidden plan gets closer?
-
-Will Vee kiss Pace under the tree, and what will that exception do to her sense of her own rules?
-
-Why does Pace consistently use his right hand, and is Vee noticing something merely bodily or something meaningful?
-
-Who is Christine to Pace beyond a familiar restaurant owner or worker, and what part of his life did Vee just glimpse?
-
-**How I feel**
-
-Toward Randi: drawn to her, worried for her, and more wary than ever. From Vee’s eyes she is almost unbearably attractive: warm, funny, polished, generous, and socially magical. But I know enough to distrust the ease of it. Her encouragement of Pace’s text is friendly on its face and chilling underneath. After seeing Vee’s need to be unwatched in the water, I am even more uneasy about Randi’s beautiful attention.
-
-Toward Pace: intensely attracted and deeply uneasy. This chapter shows him at his most seductive: patient, tasteful, gentle with a no, careful with appetite, and able to make Vee feel carried without being crowded. That makes the hidden plan more frightening, not less, because his care feels real and still serves a situation Vee does not understand.
-
-Toward Vivienne/Vee: deeply protective and newly attached. Her longing to be chosen is sweet, embarrassing, erotic, and dangerous. She is not foolish; she is hungry, observant, and carrying shame she has learned not to look at directly. This chapter lets her eat, drift, be held by attention, and make an exception, and I want that freedom for her even as I fear where it is leading.
-
-Toward Cassie: more trusting than ever. Her flatness feels like integrity, and her humor is precise care. She knows when not to ask and when not to tease.
-
-Toward Brooke: alert and wary. She is warm and competent, not openly malicious, but her social authority is frightening because it barely has to show itself.
-
-Toward Sloane: mildly wary. She seems casual and funny, but her noticing adds to the feeling that Randi is always being read.
-
-Toward Kinsey: lightly uncomfortable. She feels less powerful than Brooke or Sloane, but her eagerness to join the room’s judgment still presses on Randi.
-
-Overall mood: lush, hungry, and ominous. The chapter makes surrender feel beautiful, which makes the cover promise feel sharper: the yes is free, and that is exactly why I am afraid.
+Vee feels more open and vulnerable: her hunger makes her luminous and makes the hidden setup dangerous. Cassie still feels like clean trust. Pace is deeply seductive in the moment, while the undisclosed Randi bond keeps unease alive. Randi is absent but not gone; her absence makes the date more private for Vee and more precarious for me.
 
 ### Chapter record
 
-Title: “May I Choose”
+The chapter opens Friday evening in Vee and Cassie’s room after Vee has spent the afternoon in the water. Vee has chlorine in her hair and a good heavy tiredness in her arms. Cassie is folded on the bottom bunk with her knees to her chest, narrating a professor’s crimes. Vee’s phone lights on the desk with a text from Pace: “Saturday,” dinner, with no place named and no demand for an answer that night.
 
-Characters appearing in person: Vee / Vivienne Thorne; Cassie; Pace; Christine.
+Vee reads the text three times. She presses the phone to her chest, grins at the dark screen, and sets it screen-down on the blanket. She tells Cassie they are getting dinner Saturday. Vee says other boys always made her answer immediately so they would know where they stood, but Pace left the invitation with her “Like it could keep.” Cassie notices Vee’s face, asks what Vee has on him, then says, “That’s not a boy. That’s a man.”
 
-Characters named or mentioned: an unnamed professor whose “crimes” Cassie narrates; unnamed “other ones” who made Vee answer immediately; unnamed boys in Vee’s building; an unnamed girl down the hall whose shoes Vee borrows.
+On Saturday evening, Pace comes to get Vee for the first time. Vee takes the elevator down to the lobby. The lobby has polished concrete, squat hard-used couches, and smells of bodies, stale smoke in someone’s coat, and cheap perfume. Pace is already there, standing and not yet looking her way. Vee notices damp-dark hair, a freshly shaved jaw faintly blushing from the razor, a clean pressed broadcloth shirt, and good worn polished boots. She thinks his clothes are cared-for real things rather than new things bought to impress.
 
-Times, dates, durations: Friday evening, after Vee’s afternoon in the water; Pace texts asking for Saturday dinner. The froyo date was yesterday. Saturday evening is the dinner date. Vee has lived ten minutes away from the restaurant’s street for two years without turning down it. Vee has not eaten since breakfast; noon passed while she was preparing. The restaurant gets late while they sit there, and the room is half emptied around them.
+The elevator doors begin to close while Vee is distracted looking at him. She throws out a hand and steps into the lobby. She says “Hi” in a smaller voice than intended. Pace says “Hi,” does not press her about it, asks if she minds walking, holds the door, and does not tell her where they are going. Vee decides not to ask because she is learning she can trust where he is taking her.
 
-Places and rooms: Vee and Cassie’s dorm room with Cassie folded on the bottom bunk and Vee’s phone on the desk; Vee’s building lobby with polished concrete, squat hard-used couches, and a smell of bodies, stale smoke in somebody’s coat, and cheap perfume; elevator with doors that clank and start to slide shut; streets near campus, including a split block a few streets back from campus; small warm restaurant with eight or nine tables, half full when they enter, warm yellow light spilling onto pavement, a counter, a kitchen behind Vee, and a table by the wall; quiet cold street outside after dinner; campus gone quiet and blue; path past the quad with a tree shadow across it in moonlight.
+They walk a few streets back from campus to a small restaurant on a split block Vee has never turned down despite living ten minutes away for two years. Pace keeps to the street side. The storefront has warm yellow light spilling onto the pavement. Vee has not eaten since breakfast because the afternoon went to choosing dresses, Cassie’s verdicts, and shoes borrowed from a girl down the hall. The doorway smells of food and makes her suddenly hungry.
 
-Props and objects: Vee’s phone; blanket; bottom bunk; Pace’s text message; dresses Vee tries on; shoes borrowed from a girl down the hall; elevator doors; menus, single-page and dog-eared; table; little dishes; bread, blistered and steaming; hummus named as the one familiar item; baba ghanoush; tabbouleh; bright green-and-white salad; smoke-dark dip with red-brown spice and tiny pale nuts; mint tea; small glasses set into worked brass cages with handles; Vee’s coat; pavement; tree shadow.
+The restaurant is small, with eight or nine tables, about half full. It smells of garlic, char, and something bright. An older woman with gray coming in and a face worn soft by long days comes from around the counter to seat them. She knows Pace, eases when she sees him, and he calls her “Christine” warmly. She seats them at a table by the wall and leaves two menus.
 
-Clothing and appearance: Vee has chlorine in her hair and heavy tiredness in her arms after swimming. For dinner, she has gone through “the dress and then the other dress” and borrowed shoes because nothing of hers was right. Pace has showered; his hair has a damp-dark edge; his jaw is faintly blushing from the razor. He wears a clean, pressed broadcloth shirt and good worn boots that are polished and cared for. His clothes and boots are not new or bought to impress; they are real things he already looks after. Boys in Vee’s building are described as buying new shoes to look as though they have lived.
+The menu is a single dog-eared page with many words Vee does not know. Vee recognizes hummus and jokes that after that the menu is “beautiful nonsense” and she has no map. Pace does not explain until she needs help; he asks, “May I choose?” Vee says yes, please. Pace asks only if there is anything she will not eat. Vee shakes her head. Pace orders unhurriedly and deliberately. Vee catches names including baba ghanoush and tabbouleh, hearing them as soft rounded words she cannot read or understand.
 
-Food and drink details: Vee recognizes hummus on the menu but not most of the other words. Pace asks whether there is anything she will not eat; Vee shakes her head. He orders unhurriedly and deliberately. Food arrives in little dishes, then hot bread. Vee eats the bright green-and-white salad with bread; it tastes sharp, green, sour, bright, lemony, cold and clean underneath, with bitterness. She eats the smoky dark dip with red-brown spice and pale nuts; it is cool, smoke-dark, and soft. A drip of the smoky dip slips off Pace’s bread and catches the side of his hand; he brings it to his mouth without pausing. Tea smells of mint, sharp, green, clean; it is served hot in small glasses held by brass cages.
+Food arrives in little dishes, followed by blistered steaming bread straight from the oven. Vee notices a bright green dish and a smoke-dark dish with spice. Pace tears bread carefully because it is hot, folds it around green-and-white salad, and eats. Vee copies him. The food tastes sharp, green, sour, bright, lemony, cold, clean, and a little bitter; it wakes her mouth and opens her hunger wider. She eats without watching herself eat. Pace does not seem to notice anything unusual.
 
-Gestures and actions: Vee reads Pace’s text multiple times, presses the phone to her chest, grins at a dark screen, and sets the phone screen-down on the blanket. Cassie lifts her chin from her knees and notices Vee’s face. Pace is already waiting in the lobby before he notices Vee. Vee nearly fails to get off the elevator, throws out a hand to stop the doors, and steps into the lobby. Pace asks if she minds walking and holds the door. He keeps to the street side while they walk. Christine eases when she sees Pace, and Pace says “Christine” warmly. Pace sets his menu down and asks “May I choose?” Vee says “Yes. Please.” Pace tears bread carefully because of the heat, folds it around salad, and eats; Vee copies him. Vee watches Pace’s hands before eating. Pace uses his right hand consistently. Vee stops waiting for the evening to go wrong. Vee loses the thread of Pace’s talk after watching him lick food from his hand. Vee lets Pace carry the evening and stops self-monitoring. Christine says something to Pace at the door that makes him duck his head. Pace takes Vee’s hand after they leave. Under the tree shadow, Pace slows, stops, and turns to her. Vee says, “I don’t kiss a man I’ve known a couple of days.” Pace does not argue, lean in, charm, or wait for her to change her mind; he smiles, accepts it, and starts them back along the path while holding her hand. Vee does not go; her feet and hand stop him. Pace turns back and waits. Vee says, “But,” closes the distance, and says, “I’m making an exception.”
+Pace moves to the dark dip with red-brown spice and tiny pale nuts. Vee tastes it as cool, smoky, dark, and soft, imagining he chose the bright thing and dark thing to go together. She notices he consistently uses his right hand. A drip of smoky dip slips onto the side of Pace’s hand; he brings it to his mouth without pausing in his speech and continues talking. Vee loses the thread of what he is saying and lets it go. Pace keeps talking low and easy. Vee feels she does not need to follow every word to remain inside the warmth of his voice.
 
-Dialogue and wording to keep consistent: Pace’s text is summarized as “Saturday. Dinner.” Vee says, “He just left it with me. Like it could keep.” Cassie says, “That’s a face. That’s a whole face.” Cassie says, “What’ve you got on this man?” Cassie says, “That’s not a boy. That’s a man.” Vee says, “Hi,” small in the lobby; Pace says, “Hi.” Vee says of the menu, “Okay. Hummus. I’m solid on hummus.” She says, “After that it’s just — beautiful nonsense. I have no map.” Pace says, “May I choose?” Vee says, “Yes. Please.” Vee says, “I don’t kiss a man I’ve known a couple of days.” Vee says, “But,” and “I’m making an exception.”
+The evening softens. Vee cannot later track what they discussed or how long they sat. Food continues arriving and slowing inside her. She stops doing the things she normally does to keep up and lets Pace carry the evening.
+
+Tea arrives late and wakes Vee back up. It smells of mint, sharp, green, and clean. The restaurant is half-empty, with low clatter, a chair somewhere, and the door audible again. The tea comes in small glasses set inside worked brass cages with handles, so they can be held while hot. Vee holds the brass cage, feels the bearable heat, drinks, and feels the mint wake her by degrees. The warmth remains in her hands after she sets the glass down.
+
+Pace settles the bill with Christine while Vee finds her coat. Christine says something to Pace at the door that makes him duck his head. Vee and Pace leave into the cold, quiet street, with the restaurant’s warm yellow light falling behind them.
+
+Pace takes Vee’s hand without ceremony or question. It is their first time holding hands. Vee thinks it is too much for “only a hand,” especially because it is the same hand she has watched tear bread and lift food all night. It feels less like beginning than resolving, as if her hand had been wrong all its life for want of his.
+
+Pace walks Vee back the long way. Campus is quiet and blue. Past the quad, under a tree shadow in moonlight, Pace slows, stops, and turns to her. Vee understands he is about to kiss her. She says, “I don’t kiss a man I’ve known a couple of days.” She recognizes it as an old rule and half means it. Pace does not argue, lean in, charm her, or wait for her to change her mind. He smiles as if she has told him something true and fine about herself, lets the moment close, and starts gently back along the path with her hand in his.
+
+Vee does not go. Her feet stay where they are, and her hand pulls taut between them, stopping him. Pace turns back, attentive rather than puzzled or hopeful. The quiet holds past comfort. Vee lets it. She says, “But,” lets the thread go, closes the distance he had already given up, and says, “I’m making an exception.”
