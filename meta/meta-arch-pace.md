@@ -172,9 +172,23 @@ It is strictly domain-limited. Where the stake *is* sex or love the deference va
 
 ---
 
+## The Tutor — Daphne — the single wound
+
+The one wound. **Named on the page at {{Rock}}** (`rock.md:207` — *"Daphne,"* given bare then guarded; Vee has to ask to get the rest), seeded unnamed a scene earlier at the bench (`the-bench.md`, the closed-bathroom-door memory). **Gift-source and wound-source at once** — the same two years produced the cultivation epistemology (the grammar of his hands: women learned slowly, one deep subject, one teacher) *and* the injuries the rest of the architecture rests on. There is exactly one wound: the father and mother are the *soil*, Daphne is the *event*, and adding a second would tip him past injured into broken (author discipline, `meta-note-pace-warming.md`).
+
+She produced three things, never on one page together:
+
+- **The gift** — his patience, attention, a body read slowly over time; he learned women the way he learns everything, one subject, deep (`meta-note-first-love.md`).
+- **The silence-vow** — her ordinary leaving (the age-gates, no betrayal) read by a boy as *the one time I said the dangerous thing, I was proven right to fear it*: an n=1 statistics error, invisible to the man whose patent extracts clean signal from noise. Feeds **The Vow** below; breaks open at {{Excavations}} (*"Once."*).
+- **The door-restraint** (bench seed, warming pass 2026-08-11) — *Daphne built a door, and young Pace did not respect it.* He wanted inside her feelings, thought "loving someone was a kind of permission," went in unasked, and it cost him; he learned that a closed door is hers, not his. This recolors his on-page restraint from **saintly to earned/scarred** — the man who will not put a hand on a locked bathroom door (`the-bench.md`) is paying an old debt, not performing virtue. Everything but the fact of the lesson is withheld; the violation itself stays mystery.
+
+**The disclosure thread (register-graded — never collapse the treads):** bench seed, unnamed, pure-mystery (restraint) → {{Rock}}, named and factual, contained (the ages, the two years, the ordinary leaving; Vee does the arithmetic and holds it) → {{Excavations}}, the break (the declaration layer and the feeling arrive; *"Once."*). Each pass gives one register deeper. (`meta-note-rock.md`, `meta-note-excavations.md`, `meta-note-first-love.md`.)
+
+---
+
 ## The Vow Against Premature Declaration
 
-Separate from the chivalric grammar; operating below it; older. The mother supplied the materials; the first love supplied the seal — he overrode the caution once, said the words, heard them back, and it still broke (`meta-note-first-love.md`).
+Separate from the chivalric grammar; operating below it; older. The mother supplied the materials; **Daphne** supplied the seal (the section above) — he overrode the caution once, said the words, heard them back, and it still broke (`meta-note-first-love.md`).
 
 *I will not declare love until I am certain, because to declare what I cannot guarantee is to break what declaration is for.*
 
