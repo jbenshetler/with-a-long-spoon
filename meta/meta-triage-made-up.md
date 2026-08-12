@@ -8,6 +8,17 @@ or a genuinely new failure mode).
 
 ## Left standing — do not re-litigate
 
+- **`:53` "the putting-away cost him something she could see" — stands (line
+  edit, cost-vague, 2026-08-11).** Raised in the book-wide `cost-vague` back-sweep
+  (vague "cost something/nothing/anything"; the linter rule and author ruling live
+  in `style/style-rules.toml`). Kept: unlike the backward-running cuts elsewhere
+  (see-you-later, school-nights, how-its-done), the sense here is *right* and
+  directional — his restraint genuinely costs him — and the vagueness is
+  load-bearing: the "something" is filtered through Vee's perception; she reads a
+  cost on him she can't name. "She could see" anchors it to his body, so it isn't
+  a floating abstraction. Concretizing would give her a precision the moment
+  denies her. This is also the middle of the protected restraint cluster (`:43`
+  `:51`, reader-praised by sol as "the peaks").
 - **`:73` "That's like asking me to choose between sunrise and sunset" — stands.**
   Flagged as too-polished by three of five cold readers (sol, kimi, opus:
   "composed for quotation"). Ruled design, not flaw: it is Pace performing a

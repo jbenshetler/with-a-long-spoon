@@ -40,7 +40,7 @@ It did not go well. The trouble wasn't that the place had nothing sexy. The rack
 
 It started when Randi wedged herself into something strappy that plainly was not going to happen and blamed the shoe. "It's cut small," she said, and Vee said it was not cut small, and that some people just needed to make peace with their feet. Randi gave her a wounded look and went back to the racks. A minute later Vee came back from the end wall with a single shoe the size of a canoe, a sole like a snow tire, and set it down in front of her without a word. "Found your size. Do yetis shop here?"
 
-Randi laughed, and went to top it. Vee lost sight of her in the sale racks; when she looked up Randi was already coming back down the aisle toward her, gone a full head taller and taking it like it cost her nothing: six-inch platforms bedazzled toe to ankle in pink rhinestones, her own heels hooked off two fingers. She stopped in front of Vee, grave and strained, a woman at serious work, turned a foot to the light to weigh it honestly, and asked, "Do these go with burgundy?"
+Randi laughed, and went to top it. Vee lost sight of her in the sale racks; when she looked up Randi was already coming back down the aisle toward her, gone a full head taller and taking it as her usual altitude: six-inch platforms bedazzled toe to ankle in pink rhinestones, her own heels hooked off two fingers. She stopped in front of Vee, grave and strained, a woman at serious work, turned a foot to the light to weigh it honestly, and asked, "Do these go with burgundy?"
 
 Vee lost it — laughed till her legs quit and plopped onto the try-on bench.
 

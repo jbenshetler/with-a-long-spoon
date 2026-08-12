@@ -1558,3 +1558,22 @@ left standing in `meta/meta-triage-in-his-hands.md`.
   `meta-note-vee-reads-randi.md` is **still unspent.** The two small face-tells
   added here are Vee *catching* a tell, not Vee *studying* the face; the set
   piece remains available for its planned scene.
+
+## Batch 21 — School Nights cost-vague back-sweep (2026-08-11)
+
+**#76 — "reached her" (15×) and "landed" (32×): UNRULED harvest candidates,
+not findings.** Surfaced during the `cost-vague` back-sweep from ad-hoc counts
+(not a harvester regen). Volume-One raw counts: **"reached her" 15×** (~1 per
+9k words), **"landed" 32×** (~1 per 4.3k words). Per the governing rule above,
+a count is not an echo — recorded here only so the numbers aren't lost, NOT
+ruled. Before any ruling, run the split-by-sense + density test:
+- **"reached her"** is dominated by the sensory-arrival idiom ("the smell /
+  words / question reached her"); a distinct *negated imperviousness* sense
+  ("never reached her") does not exist in Volume One. Assess whether the
+  sensory-arrival cluster is a genuine tic or connective tissue.
+- **"landed"** almost certainly splits across referents (a look/blow landing,
+  an object set down, "how it landed" = how a remark went over). Split by sense
+  before counting.
+No per-chapter editor should treat these as flags until ruled at the next echo
+harvest. (Trigger: the `how-its-done:17` cost-vague fix nearly reused "reached
+her"; checking the count exposed both verbs.)

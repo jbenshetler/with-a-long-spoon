@@ -106,6 +106,17 @@ authorial decisions — do not re-flag these without new evidence.**
 
 ## Fixed
 
+- **`:57`** — (line edit, cost-vague, 2026-08-11) cut "**costing her nothing,**"
+  from "the better thing was right here at her elbow, **costing her nothing,**
+  smelling like cold citrus, occasionally touching her arm" → "…right here at her
+  elbow, smelling like cold citrus, occasionally touching her arm". Book-wide
+  `cost-vague` back-sweep (rule + author ruling in `style/style-rules.toml`). The
+  vague phrase ran **backward**: Randi's persona *demands* attention — Vee can't
+  keep her mind off her — so "costing her nothing" mis-rendered the pull as
+  effortless-nothing when the sensory details (cold citrus, the arm-touch) already
+  carry Randi as the attention-commanding better thing. Cut; the details do the
+  work. (Second of two places in the sweep where the construction was literally
+  backward from the meaning — cf. `school-nights:13`.)
 - **Seating contradiction** (audit item 1) — Vee "on the aisle" vs. Randi
   taking "the seat on Vee's other side, the aisle side." Fixed by dropping
   Vee's position: "took her usual two-thirds of the way back, with Cassie

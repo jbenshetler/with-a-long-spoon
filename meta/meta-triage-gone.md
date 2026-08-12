@@ -36,6 +36,15 @@ criticism is answered; do not re-open it against the surviving text.
 
 ## Fixed
 
+- **`:59`** — (line edit, cost-vague, 2026-08-11) "A different one, the kind that
+  **costs something to hold**. Then something gathered under it" → "A different one,
+  the kind that **takes holding**. Then something gathered under it". Book-wide
+  `cost-vague` back-sweep (rule + author ruling in `style/style-rules.toml`). The
+  recast drops the vague "costs something" AND clears the doubled "something…
+  something" in consecutive sentences, while keeping the craft-randi containment
+  tell — she holds still (the different stillness, not the loose after-stillness)
+  while jealousy + attraction over Vee churn into heat. "takes holding" renders the
+  effortful stillness without the idiom.
 - **`:7`** — "folded down onto his chest" → "down onto his chest" (the fold
   figure belongs to concealment, not body position; see echo ledger #34).
 - **`:7`** — "loose in the way she only went afterward" → "loose as she only

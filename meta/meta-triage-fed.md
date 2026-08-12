@@ -158,6 +158,18 @@ density with zero reader corroboration, and were thinned conservatively.
 
 ## Left standing — do not re-litigate
 
+- **`:13` "everything that had cost her into a story that had cost her nothing"
+  — stands (line edit, cost-vague, 2026-08-11).** Raised in the book-wide
+  `cost-vague` back-sweep (vague "cost something/nothing/anything"; rule + author
+  ruling in `style/style-rules.toml`). This is the closest of the protected cases
+  to the peekaboo one that WAS recast — Randi takes real pain (that cost her) and
+  performs it as costless — but it stands because both poles are *in the sentence*:
+  the antithesis is stated, not left as a bare "cost nothing." "everything that had
+  cost her" immediately undercuts "a story that had cost her nothing," so the
+  costlessness reads explicitly as the performance, which is the point (Randi's
+  alchemy — turning real cost into costless story). The stated contrast is what
+  licenses the idiom here; a lone "cost nothing" would not survive. Do not
+  re-raise.
 - **Randi covers Vee's hand twice (`:51`, `:67`) — finding declined, not
   merely left standing.** gpt-5.6-sol *counted* the repetition ("Randi covers
   Vee's painted hand twice") and logged it as charged and effective;

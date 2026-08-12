@@ -165,6 +165,14 @@ severity = "warn"
 why      = "'the whole of her / the whole of it' — the totality/absorption tic, overused. Cut to 'all of', or recast to a concrete image. Keep only rarely, with the author's direction."
 
 [[rule]]
+id       = "cost-vague"
+kind     = "regex"
+pattern  = '(?i)\bcost(?:s|ing)?\s+(?:(?:him|her|them|me|us|you|it)\s+)?(?:nothing|anything|something)\b'
+severity = "info"
+scope    = "scenes"
+why      = "The figurative 'cost her nothing / cost him something / cost anything' construction — cost-as-measure-of-feeling with the price named but LEFT VAGUE. Author ruling 2026-08-11 (School Nights line edit): it's specifically the vagueness of 'something / nothing / anything' that snags — the construction names a price and then refuses to say what, and the reader can't tell which price is meant. NARROWED to that family on the author's call: the QUANTIFIED figurative costs ('cost more', 'cost less', 'cost everything', 'cost dearly', bare 'cost him') are NOT flagged — they name a magnitude and read clean. The MEANING is thesis-load-bearing (cost = the measurement of love; meta-condensed-dear.md, satc-tracks.md:123) — the CANONICAL protected instance is dear.md:97 ('it had cost something … spent it on her without appearing to count it'), where the vagueness IS the beat (Vee can't name the cost because it's the measure of Randi choosing her out loud) and stays where it earns it — this rule polices the vague WORDING, not the theme: read the density, keep the load-bearing, vary or cut the reflex ones. Note Randi's effortless-power 'cost her nothing' (sorority:49 the-costs-her-something-to-give real laugh, all-the-time), the-bench:517's the-face dissociation ('given away all day and cost nothing'), and fed:13's antithesis ('everything that had cost her into a story that had cost her nothing') are DESIGNED — protect the move, vary only if it clusters. COUNTEREXAMPLE (author ruling 2026-08-11): peekaboo:19's 'looked like it had cost him nothing' was NOT protected — even framed as appearance ('looked like'), saying a high-effort thing cost nothing snags; recast to 'looked like no trouble at all' (rides the sentence's own trouble/trouble/trouble figure). The 'looked like' framing does not license the vague idiom. Scoped to scenes; the meta/ docs discuss the motif legitimately."
+
+[[rule]]
 id       = "unhurried"
 kind     = "phrase"
 phrase   = "unhurried"

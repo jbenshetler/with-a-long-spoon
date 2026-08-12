@@ -46,6 +46,15 @@ evidence** (line-edit verdicts re-open on a text edit to the passage).
 
 ## Fixed
 
+- `:17` — (line edit, cost-vague, 2026-08-11) "Randi appeared not to **register**
+  the girls at all, **or if she did they cost her nothing**, and she drove them off
+  campus one-handed" → "Randi appeared not to **notice** the girls at all, and she
+  drove them off campus one-handed". Book-wide `cost-vague` back-sweep (rule +
+  author ruling in `style/style-rules.toml`). Cut the hedge clause outright — it
+  did triple duty as a tic: register-verb ("register"), vague cost ("cost her
+  nothing"), and overwork (the hedge weakened the sovereign imperviousness).
+  "appeared not to notice the girls at all" is the stronger, undivided version of
+  Randi's impassivity; the "or if she did" concession undercut it.
 - `:5` — cut the second "at the curb" (the sentence already knows where the
   car is).
 - `:13` — cut the hair/wind trailing clause ("a torrid affair with the

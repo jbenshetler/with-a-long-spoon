@@ -53,6 +53,19 @@ was the one who'd taken the edge away" (quoted verbatim by four of five).
 
 ## Fixed
 
+- `:19` — (line edit, cost-vague, 2026-08-11) "the part that looked like **it
+  had cost him nothing**" → "the part that looked like **no trouble at all**".
+  Book-wide `cost-vague` back-sweep (vague "cost something/nothing/anything"; rule
+  + author ruling in `style/style-rules.toml`). Initially flagged for *protect*
+  as the constructed-illusion beat, but the author ruled it a counterexample:
+  even framed as appearance ("looked like"), saying a high-effort thing cost
+  nothing snags, and the paragraph already earns the effortlessness concretely
+  ("no seam of effort showing on it anywhere," "like it had been bought that
+  way"). The recast rides the sentence's own trouble/trouble/trouble figure and
+  buttons it by inversion (took the trouble → hid the trouble → shows no trouble),
+  keeping the concealed-effort meaning without the idiom. The rule's `why` now
+  cites this as the standing counterexample; "looked like" does not license the
+  vague construction.
 - `:15` — cut "He was grinning at the dress now like he still couldn't quite
   believe it had come out right." Same gesture and same characterization as
   `:9`'s kid-with-a-surprise grin three paragraphs earlier; a rerun, not an

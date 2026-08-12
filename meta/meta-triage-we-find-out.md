@@ -235,6 +235,13 @@ gpt-5.6-sol, gpt-5.6-terra, kimi-k3.
 
 Nineteen edits. Cuts unless noted.
 
+- `:9` — (line edit, cost-vague, 2026-08-11) "it cost him **something** to stand
+  there not put together" → "it cost him to stand there not put together".
+  Book-wide `cost-vague` back-sweep (vague "cost something/nothing/anything"; rule
+  + author ruling in `style/style-rules.toml`). The infinitive already names what
+  costs him, so "something" was filler in front of it — unlike `made-up:53`, where
+  the "something" is Vee's unnameable reading and stays. Cutting it sharpens the
+  chapter's opening chink-in-the-wall (Vee learning she can land things on him).
 - `:9` — "the salt of the gym still on him" cut (pre-spent the better close-up
   smell five sentences later, "a little animal under the gym").
 - `:9` — "his bare feet **and gym shorts**" → "his bare feet" (the same

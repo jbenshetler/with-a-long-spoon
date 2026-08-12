@@ -47,6 +47,20 @@ authorial decisions — do not re-flag without new evidence.**
 
 ### Left standing — do not re-litigate
 
+- **`:97` "that it had cost something … spent it on her without appearing to
+  count it" — the canonical protected `cost-vague` instance (line edit,
+  2026-08-11).** Raised in the book-wide `cost-vague` back-sweep (vague "cost
+  something/nothing/anything"; rule + author ruling in `style/style-rules.toml`).
+  This is the reference example the rule's "designed uses" carve-out exists *for*
+  — the antithesis of the backward-running phrases cut elsewhere
+  (see-you-later, school-nights, how-its-done, we-find-out). The unquantifiability
+  is the beat: Vee cannot name the cost precisely because it is the measure of
+  Randi choosing her out loud, and it opens an extended cost/economy figure
+  ("cost Randi," "cost something," "spent it on her," "without appearing to count
+  it") that is the thesis rendering of *cost = measure of love* + Randi's power
+  register (spends without letting it show; cf. `meta-craft-randi.md:45`,
+  `meta-condensed-dear.md`). Concretizing "something" would put a number on the
+  one cost the scene must leave uncounted. **Do not re-raise.**
 - **F7: the happened-to refrain** — ":33 like a person things happened to"
   (gpt-5.5-protected) and ":75 the kind of life that happened to people" are a
   designed refrain; the person→whole-life escalation is the build.

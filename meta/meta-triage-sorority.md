@@ -51,6 +51,14 @@ quoted.
 
 ## Fixed
 
+- **`:43`** — (line edit, cost-vague, 2026-08-11) "gone a full head taller and
+  **taking it like it cost her nothing**:" → "…and **taking it as her usual
+  altitude**:". Book-wide `cost-vague` back-sweep (rule + author ruling in
+  `style/style-rules.toml`). "altitude" is unique in `scenes/` and double-reads —
+  literal height (the added inches) and Randi's social elevation — complementing
+  the next beat ("grave and strained, a woman at serious work"). Drops the vague
+  cost idiom for a concrete image that also does characterization. (Distinct from
+  `:49`, the protected "costs her something to give" — see Left standing.)
 - **`:5`** — the opening sentence split; the object inventory and its
   re-seeing become their own sentence, and "she'd brought in with her"
   became "Randi had brought in with her" to preserve the 2026-08-01
@@ -99,6 +107,19 @@ quoted.
 
 ## Left standing — do not re-litigate
 
+- **`:49` "the real laugh, the one that costs her something to give" — stands
+  (line edit, cost-vague, 2026-08-11).** Raised in the book-wide `cost-vague`
+  back-sweep (vague "cost something/nothing/anything"; rule + author ruling in
+  `style/style-rules.toml`). Investigated, not reflexively protected: the phrase
+  is **unique** in Volume One (no echo); "something" is the **direct object** (the
+  unnamed vulnerability spent), not the droppable filler it was at `we-find-out:9`
+  (there the infinitive named the cost); and the sense is right and directional —
+  the cost-as-realness thesis in miniature (`dear:97` at small scale). The scene
+  shows the involuntary force ("got her all the way, folded her over the bench"),
+  but only this clause tells you such a laugh is rare and costly for guarded Randi.
+  The strongest "cost something" case in the sweep. Do not re-raise.
+  (`real laugh` also at `a-round:78` for Pace — a designed cross-character rhyme,
+  the guarded one's genuine laugh breaking control, not an accidental echo.)
 - **`:93` "felt the floor of her tip, a small swing of the room"** — the
   editor recommended varying this instance of the twice-used floor figure.
   **Inverted:** at `:93` the moving floor is load-bearing (it is what her hand

@@ -55,6 +55,16 @@ for," "lovely/pleasantly" thinned, doubled walk-order cut). Durable rulings:
 
 ## Left standing — do not re-litigate
 
+- **`:517` "what was not her could be given away all day and cost nothing" —
+  stands (line edit, cost-vague, 2026-08-11).** Raised in the book-wide
+  `cost-vague` back-sweep (vague "cost something/nothing/anything"; rule + author
+  ruling in `style/style-rules.toml`). Not the backward "high-effort thing dressed
+  as effortless" snag that got peekaboo recast — the opposite structure: it's the
+  the-face dissociation mechanism. The face takes the being-looked-at/wanted/
+  touched and none of it reaches her, so it costs *her* nothing *because the face
+  is not her*. Within that psychology the "nothing" is literally true — nothing is
+  spent because she isn't behind it. Load-bearing for the-face architecture; do
+  not re-raise.
 - **Mid-section strike/soothe/kiss/withdraw cycle "a touch long"** (Opus + 5.5,
   both self-forgave in the same breath) — intentional. The patience *is* Pace's
   characterization; 5.4-mini and 5.6-sol cited exactly this stretch as where the
