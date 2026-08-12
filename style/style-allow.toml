@@ -4176,6 +4176,13 @@ text = "And how the house stayed warm as a held breath now, because he'd worked 
 note = "warmth load-bearing by design: 'warm as a held breath' is the scene's central image; panel confirmed earned"
 
 [[ok]]
+fp   = "905ef93cfb3a"
+rule = "warm"
+file = "scenes/school-nights.md"
+text = "And how the house stayed warm now, warm enough that she never once thought about how much she had on."
+note = "warm-house line: load-bearing warmth-as-permission (bareness); sanctioned in triage. Re-ack 2026-08-12 (re-armed by the earlier held-breath -> warm now edit)."
+
+[[ok]]
 fp   = "9b58983a5b75"
 rule = "warm"
 file = "scenes/school-nights.md"
