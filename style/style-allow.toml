@@ -3070,6 +3070,20 @@ text = "\"The kind you tell your daughter about,\" Vee said, quiet now, and look
 note = "Author-approved: 'file' = the sorority-folder image (canon callback to broken-in); dialogue and realization filter verbs; retained 'whole of it'; info-level existentials."
 
 [[ok]]
+fp   = "0aac37e89bdc"
+rule = "cost-vague"
+file = "scenes/new-ordinary.md"
+text = "His face had come open, the puzzlement gone and the hurt gone, and in their place the warm slow smile she only ever got a few of, the one that seemed to cost him something, that he didn't hand around."
+note = "Author 2026-08-12 (line edit): kept. The smile that literally costs him; reader-praised (kimi-k3 quoted the full sentence). Best claim of the three 'cost him something' renderings; made-up:51 and we-find-out:9 logged for the end-of-pass count."
+
+[[ok]]
+fp   = "4ee19964daec"
+rule = "the-way"
+file = "scenes/new-ordinary.md"
+text = "He got all the way down her back with one hand, flat, taking his time about it."
+note = "Author 2026-08-12 (line edit): literal spatial idiom ('all the way down her back'), not the filtered 'the way he…' construction the rule polices. False positive."
+
+[[ok]]
 fp   = "ce800c924767"
 rule = "unhurried"
 file = "scenes/new-ordinary.md"

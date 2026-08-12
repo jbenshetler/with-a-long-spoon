@@ -1577,3 +1577,78 @@ ruled. Before any ruling, run the split-by-sense + density test:
 No per-chapter editor should treat these as flags until ruled at the next echo
 harvest. (Trigger: the `how-its-done:17` cost-vague fix nearly reused "reached
 her"; checking the count exposed both verbs.)
+
+## Batch 22 — The New Ordinary review (2026-08-12)
+
+**#77 — the make-it-to-the-room construction is PROTECTED (author,
+2026-08-12).** `above-him:15` ("They hadn't made the kitchen. They hadn't made
+the hall.") and `new-ordinary` ("They made the bed. Barely."). Same
+construction in the same paragraph slot five chapters apart, and the rhyme is
+the point: ch. 35 they don't make it anywhere; ch. 40 they make it the whole
+way, barely, having been stopped at every door on the route. The new ordinary
+stated in the grammar. Never flag either instance.
+
+**#78 — the wanting-coming-out figure: FIX-AT `above-him`, deferred to the
+Volume One end-of-pass harvest (author, 2026-08-12).** `above-him:15` ("a week
+of wanting **coming out of them at once**") vs. `new-ordinary` ("five nights
+**coming out of her in one long undignified rush**"). Same figure, same
+paragraph slot; the unit of measure differs only in scale. No design found,
+unlike #77. `new-ordinary`'s instance is **reader-praised** (opus and kimi-k3
+both quoted "shamefully fast … one long undignified rush") and stands.
+`above-him` is already `reviewed` in STATUS, so the variation is **not** applied
+now — it is logged for the end-of-pass harvest so a closed chapter isn't
+re-opened mid-pass.
+
+**#79 — "cost him something": `new-ordinary:71` KEPT and acked; the other two
+logged for the end-of-pass count (author, 2026-08-12).** Three renderings of
+the Pace-visible-effort idiom: `new-ordinary:71` ("the warm slow smile she only
+ever got a few of, the one that seemed to **cost him something**"),
+`made-up:51` ("the putting-away **cost him something** she could see"),
+`we-find-out:9` ("she could tell it **cost him something**"). Live `cost-vague`
+linter hit; the rule polices the vague *something/nothing/anything* family.
+`new-ordinary:71` has the best claim — a smile that literally costs — and is
+reader-praised (kimi-k3 quoted the full sentence, "I believed all of it"). Acked
+in `style/style-allow.toml`. `made-up` and `we-find-out` are ruled on their
+merits at the harvest, not automatically flagged.
+
+**#80 — "unhurried hands" is RESOLVED at `new-ordinary` (author, 2026-08-12).**
+The report flagged `new-ordinary:15` ("the unhurried hands he brought to
+everything") as a tight collision with `vee-on-the-bench:81` ("only his
+unhurried hands and her own climbing need") — the exact two-word pairing, not
+merely the register (*unhurried* is Pace's word, author ruling 2026-07-28). The
+author cut the modifier at `new-ordinary` ("the hands he brought to
+everything"), which is the stronger sentence anyway: the sameness of the hands
+is the claim, and "no fumble in them" supplies the concrete quality the
+adjective was pre-labelling. **`vee-on-the-bench:81` is now the sole owner of
+the pairing.** Note this reverses the 2026-07-29 ruling that kept `:15` as the
+load-bearing `unhurried`; the stale entry in `style/style-allow.toml` is
+superseded.
+
+**#81 — "no dignity anywhere in": both instances stand (author, 2026-08-12).**
+`new-ordinary:31` ("there was no dignity anywhere in any of it") and
+`still-life:103` ("a sound tore out of her that had no dignity anywhere in
+it"). The continuity check proposed varying `new-ordinary` as "the later text";
+that is backwards — **`still-life` is late January, Volume Two** (chronology:298,
+partial draft), so `new-ordinary` is the earlier occurrence in read order. Author
+ruled: keep as written here, and leave Volume Two alone. Also note the
+intra-chapter pair with `new-ordinary`'s "one long undignified rush" ten lines
+later — raised at this review and ruled a keep on the same call.
+
+### Ledger-only from this review (no action; recorded so later passes don't re-raise)
+
+- `new-ordinary:63` "something moved across his face" — counts toward the
+  `Something [verb]ed` end-of-pass harvest (#32 family). Near-twin of `gone:39`
+  ("Something crossed her face and was gone").
+- `new-ordinary:61` "before she could think any better of it" — body-before-mind
+  family (#8 / #8b). Breaks the `before s/he'd decided to` stem, so **not**
+  counted against the #8 ration.
+- The taste-taking-apart figure (`new-ordinary` / `in-his-hands:79`) — already
+  **PROTECTED** at #75; re-confirmed, do not re-raise.
+- Pace's "small private smile" (`new-ordinary` / `above-him:43`) — already
+  **PROTECTED** at #65; re-confirmed, do not re-raise.
+- Verified unique in `scenes/` on this pass: "walking backward", "unwinding like
+  something off a spool", "burned the house down", "the proof of her", "the
+  enemy now", "he just came slowly", "burned her nights down to the wick",
+  "her body having just published the number", "the flat orange sameness",
+  "cotton candy and a bowl of cut strawberries", "a sound like a handful of
+  sand".

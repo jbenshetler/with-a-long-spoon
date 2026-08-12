@@ -80,3 +80,47 @@ Distinctive phrasings in this chapter that may recur elsewhere. Not rulings; rai
 5. **"something moved across his face"** (`:37`) — the `Something [verb]ed …` frame under ruling #32 / the logged end-of-pass harvest, and a near-twin of `gone:39` ("Something crossed her face and was gone"). Note this chapter then repeats "something" inside the same sentence ("under the puzzlement something she'd put there"). Counts toward the harvest.
 6. **"before she could think any better of it"** (`:35`) — body-before-mind family (#8 / #8b). Breaks the `before s/he'd decided to` stem, so **not** counted against the #8 ration; logged for the family's end-of-pass inventory.
 7. **Striking diction, verify unique:** "burned her nights down to the wick" (`:9`), "her body having just published the number" (`:15`), "the flat orange sameness" (`:29`), "cotton candy and a bowl of cut strawberries" (`:29`), "a sound like a handful of sand" (`:23`). No siblings found in `scenes/` on a first sweep.
+
+---
+
+## Author rulings (2026-08-12)
+
+Reviewed item by item. Cold-read enrichment: all seven panel reads mined.
+Durable record: `meta/meta-triage-new-ordinary.md`; echo rulings #77–#81.
+
+- **P1 (Pace smile)** — DEAD. Superseded by echo ruling #65: the smile is
+  PROTECTED, the Pace-tell set is two not three (`ignition-scalding` is Randi).
+- **1** `:7` bag lightness — APPLIED (A): cut the trailing clause.
+- **2** "foolish" ×2 — APPLIED (A): cut from `:7`.
+- **3** four/four numerals — APPLIED: second → "three times".
+- **4** `the warm of ___` ×2 — APPLIED (A2): "the house lit behind him".
+- **5** "just how true the story had been" — LEFT STANDING (A).
+- **6** "He was in no more hurry there than anywhere." — APPLIED: cut. Author
+  additionally cut "unhurried" from the paragraph's opening (his call, stronger
+  than the report's proposal; see #80).
+- **7 [c]** "caught out again" — APPLIED (A): cut.
+- **[b]** "He always came around to her first…" — APPLIED (B2): replaced with
+  "Tonight he barely had to work at it." Echo candidate 1 resolved.
+- **8** "He moved slow even then." — APPLIED (A): cut.
+- **9** "the only time the control ever left him." — APPLIED (A): cut.
+- **10** cooking pairs — APPLIED (a/a): cut the dough's clause; "tasting it as
+  he went".
+- **11** attention ×3 — APPLIED (A): cut "his attention helplessly down on it".
+- **12** two contrasts in the taste paragraph — LEFT STANDING (A).
+- **13** appositive stack — APPLIED (A): cut "pleased,". Smile PROTECTED (#65).
+- **14** "every single night she wasn't here" — LEFT STANDING (C).
+- **15** confession dialogue shape — LEFT STANDING (A).
+- **16** the "All weekend" beat — APPLIED (C): tears moved to their own
+  paragraph; "big soft flannel" → "the flannel".
+- **17** chapter close — APPLIED (A): cut "There was no need to." The final
+  clause was not offered (kept + acked 2026-07-29, named by three readers).
+- **NEW (editor-raised)** *dignity* twice in ten lines — LEFT STANDING (#81).
+- **NEW (linter)** `filter-verbs` `:33` — APPLIED (b): cut "he watched her do it
+  and". `the-way` `:19` — ACKED as a false positive.
+- **Echo candidates** — 1 resolved via [b]; 2 PROTECTED (#75); 3 resolved by the
+  `unhurried` cut (#80); 4 acked + logged (#79); 5, 6 ledger-only; 7 verified
+  unique.
+
+**Out of scope of the report, and the session's largest change:** the author
+workshopped and applied a new **hall strip sequence** replacing the old
+summarised undressing. Design record in `meta/meta-triage-new-ordinary.md`.
