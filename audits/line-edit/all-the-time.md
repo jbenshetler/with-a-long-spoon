@@ -99,3 +99,112 @@ finding's line numbers and quoted text remain accurate.
 
 Chapter stays at state `edited` in `STATUS.md`; the foreground review can be run
 against this report as written.
+
+---
+
+## Author rulings (2026-08-12)
+
+Reviewed item by item with the author; 7 cold reads mined for line-level
+evidence (fable-5, opus-4-8, sonnet-5, gpt-5.5, sol, terra, kimi-k3).
+
+**Applied**
+
+1. `#16` — `:135` hug clause recast: "the whole warm length of her, that bright
+   green scent Vee had stopped trying to name folding around them both" → "her
+   face in Randi's fine hair and the bitter orange of her close in." Resolves
+   the near-verbatim duplication of `one-bite:155` (kept as written 2026-08-09).
+   *Fine hair* and *painted mouth* newly canon; bitter orange is the canonical
+   Diptyque Eau des Sens rendering already on the page at `broken-in:47` /
+   `my-friend-randi:19`.
+2. `#9`/`#20` — `:135` "She did it before she'd thought." cut; `:95` recast to
+   "And Vee's phone was already in her hand." + "turned the screen to face
+   Randi." Breaks the `:95`/`:103` phone collision; body-before-mind down to
+   three well-spaced instances.
+3. `#10` — `:101` "slid the phone back across" → "back to Vee's side of the
+   cloth." The two "back across" in consecutive paragraphs are gone.
+4. `#13` (ledger #30) — *delighted* cut at `:25`, `:85`, `:115`; kept `:117`
+   (predicate adjective on both women, not a narrator label on Randi's speech).
+   `:85` also lost its "warm."
+5. `#12` — `:81` "like a room light" cut; the protected beam stands. Fixes the
+   four-part duplication of `how-its-done:45` (lean back / full beam / like a
+   room light / repeats Vee's phrase + gift simile).
+6. `#11` — `:93` "Randi turned her glass once" → "ran a nail down through the
+   beading on her glass." Protects the designed pause-over-a-drink move while
+   varying the wording; `:63` is now the chapter's only glass-turn. Pays off
+   `:17`'s "pale gold and beading."
+7. `#14` — `:107`'s two grins replaced by two face-tells: "Her sculpted brows
+   lifted." / "the painted mouth forming each word slowly." Grin count 5 → 4,
+   same-paragraph doubling gone, and Vee reads Randi's face twice — attraction
+   rendered without interiority. Possessive on the first, article on the second,
+   so the stylized grammar lands once rather than twice.
+8. `#1` — `:7` cut "the whole room gone to dark" (a claim about a room Vee
+   cannot see — POV discipline), keeping "could make out almost nothing" as the
+   experience. Cause → experience → effect preserved.
+9. `#6` — `:13` "that Randi had even thought to make joining her easy like this"
+   → "that Randi had been thinking about her." Unknots the nominalization and
+   renders Vee's *inference* rather than the arrangement; true in a second sense
+   on reread.
+10. `#2` — `:15` "The smell reached her" → "had her." Possession, not arrival;
+    clears the doubled *reached* and keeps the "before the booth did / before
+    the eyes" architecture.
+11. `#4` — `:19` third statement of the tug-of-war cut.
+12. `#3` — `:17` "each waiting for its mistress" (kimi's lone diction flag) and
+    the because-clause both cut; `:21` "some small rite" → "some private rite",
+    "no words to it" cut.
+13. `#5` — `:23` "she was finding" cut, "a little easier each time" kept (it
+    carries the recurrence the scene otherwise lacks); "felt the old caution
+    give" → "the old caution giving."
+14. `#17` — `:75` "never seen it reach that far in" cut.
+15. `#18` — `:43` "the best friend she'd ever had" tag cut.
+16. `#19` — `:117` ends "There was no one else she could have shown." Author
+    ruled the *other* cut than the report proposed: the trust sentence went, the
+    showing sentence stayed, because it ends the paragraph on the photograph
+    rather than an abstraction and thins "all of it" (3× → 2×). "anywhere" also
+    cut.
+17. `#22` — *small* thinned 8 → 5: cut at `:21`, `:23`, `:109`. Kept `:19`,
+    `:41`, `:75`, `:91`, `:131`.
+18. `#24` — `:57` two of the three attention statements cut, leaving "and it's —
+    it's for me." `:71` now arrives unspent.
+19. `#21` — `:139` "public" cut; "blue academic lighting" stands (the blue is a
+    deliberate contrast with the dark green booth, and it is the house model for
+    rendering light quality rather than fixture).
+20. Reader-raised — `:55` first of three *golds* cut. Two readers found the
+    Benedict paragraph a beat long; both self-retracted, and the likelier cause
+    was the color said three times in four lines. No length cut.
+
+**Left standing**
+
+- `#4` — `:19` "That was the luck of it. She still couldn't get over being the
+  one Randi picked." The report wanted the second sentence cut as a doubled
+  closer. Opus quotes the pair as "the long-spoon irony named from inside the
+  mark's gratitude." Stands.
+- `#15` — `:105` / `:135` "past what a verdict needed" / "a beat past what a
+  goodbye needed." **PROTECTED as a designed intra-chapter rhyme**, not a tic:
+  `meta-triage-all-the-time.md` (2026-07-29) records `:135` being recast
+  *specifically* to echo the photo beat, and `:105` is reader-praised (fable-5).
+  Both linter hits acked.
+- `#7` — `:37` / `:45` "It's the opposite of that" / "It's the opposite."
+  Author ruled it stands.
+- `#25` — `:91` "forward and back." Not over-specification: a side-to-side rock
+  reads ambivalent, forward-and-back reads wanting and holding back. The
+  direction is the content.
+- `#23` — *warm*. Resolved incidentally (6 → 4) by other cuts; the survivors are
+  ordinary. No action.
+- `#8` (ledger #8b) — `:55` "before she'd decided anything" keeps the stem.
+
+**Linter** — 9 hits acked, 0 active at close. Includes a re-ack of `:97`
+"clocking" (settled 2026-07-29, re-armed by an unrelated edit) and `:43`
+"the way" (settled 2026-07-29, re-armed by the tag cut).
+
+**Out-of-chapter work triggered by this pass**
+
+- `practice-room:121` "thin fluorescent light" → "the hard white light"
+  (anachronism: modern campus buildings read LED). `:135`'s fluorescent hum
+  kept. New `fluorescent-site` rule (info) added to `style/style-rules.toml` —
+  a site check, not a ban.
+- `CLAUDE.md` Style checking: new severity workflow (error → fix; warn →
+  author judges; info → show the author the draft before changing, never
+  self-ack), after I re-acked two info hits without sign-off.
+- Logged for a cleanup sweep: `how-its-done:45` "Randi repeated, delighted" is
+  an adverbial-label *delighted* that ledger #30 would cut; that chapter was
+  reviewed 2026-08-06, one day before #30 was ruled.

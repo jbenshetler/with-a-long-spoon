@@ -1488,3 +1488,73 @@ and tell each piece of it from the next"). Never flag as repetition; the
 recurrence is the motif accruing. `in-his-hands:79` is additionally the
 chapter's most reader-praised sentence (all six cold reads) and is separately
 left standing in `meta/meta-triage-in-his-hands.md`.
+
+## Batch 20 — All the Time review (2026-08-12)
+
+64. **`one-bite:155` / `all-the-time:135` — the goodbye sentence written twice.
+    RESOLVED at `all-the-time`.** The pair ledger #21 flagged as "the same
+    goodbye sentence written twice" (whole warm length of her + bright green
+    scent Vee had [never been able to / stopped trying to] name, each followed by
+    a measured comparison). `one-bite:155` was kept as written on 2026-08-09, so
+    the variation landed here: `all-the-time:135` → "her face in Randi's fine
+    hair and the bitter orange of her close in." **`one-bite:155` is now the sole
+    owner of the "whole warm length of her" figure.** Note the corpus fact that
+    settled the wording: "bright green scent" occurred exactly twice in
+    `scenes/` — in those two lines — while the *canonical* rendering of Randi's
+    perfume (Diptyque Eau des Sens) is "bitter orange, green at the edge,
+    nothing sweet" at `broken-in:47` and `my-friend-randi:19`. Do not reuse that
+    full triad a third time; the bare bitter-orange note is the variation.
+65. **`all-the-time:105` / `:135` — "past what a verdict needed" / "a beat past
+    what a goodbye needed." PROTECTED.** Ledger #21 listed this chapter as a
+    two-in-thirty-lines density hotspot for the held-past figure and deferred the
+    ruling to ch. 38's review. **Ruled: designed intra-chapter rhyme, not a tic.**
+    `meta-triage-all-the-time.md` (2026-07-29) records `:135` being recast into
+    this shape *specifically* to echo the photo beat; `:105` is reader-praised
+    (fable-5). Randi looking past the function twice — at the photograph, then at
+    Vee's face — is the chapter's central tell. Both linter hits acked. This does
+    not soften the rule elsewhere: it is a ruling about one designed pair, not a
+    licence for clusters.
+66. **The room-light recovery beat — FIX-AT applied at `all-the-time:81`.**
+    Bigger than the four-word simile the report caught: `how-its-done:45` and
+    `all-the-time:81` share **four elements in the same order** — Randi
+    leans/sits back → the *full beam* → *like a room light* → she *repeats* Vee's
+    phrase → a gift simile ("like Vee had handed her a present" / "set a jewel on
+    the table"). `:81`'s "like a room light" cut; the beam stands (protected
+    under #18, attention-as-lamp). The repeat + gift-simile half was left, as the
+    fainter echo — **revisit if a third instance surfaces.** Note the earlier
+    `meta-triage-all-the-time.md` entry leaving the "warm as a bath / room light"
+    pairing standing answered a *different* complaint (two warmth figures inside
+    this chapter) and did not consider the `how-its-done` duplication.
+67. **The turned-glass beat-marker — varied at `all-the-time:93`, move
+    protected.** `:63` and `:93` rendered the same gesture (a hand-motion holding
+    a silence open) thirty lines apart in near-identical syntax. Per the
+    `held-past` rule's own instruction — *"Randi pausing over a cup or a drink is
+    DESIGNED characterization — protect the move, vary the wording"* — `:93`
+    became "ran a nail down through the beading on her glass," which also pays
+    off `:17`'s "pale gold and beading." `:63` is now the chapter's only
+    glass-turn. **`among-friends:5` ("Vee turned her glass a half-turn") remains
+    UNRULED** — the marker crosses characters; count the full set at the
+    end-of-pass harvest before varying it.
+68. **"delighted" (#30) — a stray outside the ruled set.** `how-its-done:45`
+    ("Randi repeated, delighted, like Vee had handed her a present") is an
+    adverbial-label *delighted* that #30's test cuts. That chapter was reviewed
+    **2026-08-06, one day before #30 was ruled 2026-08-07**, so it was never
+    tested. **Logged for a cleanup sweep, not applied** — re-opening a closed
+    chapter is the author's call. Worth checking the other pre-2026-08-07
+    chapters for the same gap.
+69. **`all-the-time:139` "This was the thing itself" — UNRULED, logged.** Third
+    book-wide occurrence with `practice-room:89` ("answered the thing itself")
+    and `barely-stings:17` ("He asked for the thing itself, clean"). Three
+    chapters, three senses — likely a motif rather than a tic (test #40), but it
+    should be ruled at the end-of-pass harvest rather than assumed either way.
+
+### New canon established at this review (not echoes — recorded so later chapters inherit it)
+
+- **Randi: fine hair, sculpted brows, painted mouth** (`all-the-time:135`,
+  `:107`). Her brows were already on the page at `one-bite:23` ("Randi's brows
+  went up a half-degree") — **avoid "went up" when using them again**, that
+  rendering is spent.
+- The **full lipstick/cat-eye/foundation face-catalogue** banked in
+  `meta-note-vee-reads-randi.md` is **still unspent.** The two small face-tells
+  added here are Vee *catching* a tell, not Vee *studying* the face; the set
+  piece remains available for its planned scene.

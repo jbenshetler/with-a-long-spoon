@@ -203,3 +203,31 @@ Vee's POV."* Short form: render the percept never the diagnosis; Vee supplies
 the label flat and **unhedged**; prefer the label as a bodily effect on Vee over
 an adjective on Randi; the datum must be genuinely bivalent; one flag per page
 (`:133` already opens the question, so `:127` stays clean data with no wink).
+
+---
+
+# Triage — The Practice Room (anachronism sweep, 2026-08-12)
+
+Raised during the {{All the Time}} line edit; chapter re-opened for one word.
+
+## Fixed
+
+- **`:121` "Under the thin fluorescent light" → "Under the hard white light"** —
+  author ruling: fluorescent tubes are an anachronism in the new/renovated
+  buildings of a modern, well-funded university; a current-day campus interior
+  reads LED. House style is to render the light's *quality*, never the fixture.
+  **The designed rhyme with `grace:205` survives** (`meta-craft-vivienne.md:102`
+  — same noun *proof*, same clause-shape, opposite reception): the contrast is
+  full-light-as-treasure vs. cold-light-as-conviction, and "hard white light"
+  keeps the light harsh and institutional.
+
+## Left standing
+
+- **`:135` "the bad fluorescent hum"** — kept. The hum is the sentence's sound
+  detail in a clause that is *about* ambient building noise, and LEDs do not
+  hum. Ruled a legitimate older/cheaper fixture in that corridor.
+
+See the `fluorescent-site` rule in `style/style-rules.toml` — an info-level
+**site check, not a ban** (`rock:127`'s high-school gymnasium and
+`under-the-rug:43`'s cheap bright restaurant were both kept for the same
+reason).

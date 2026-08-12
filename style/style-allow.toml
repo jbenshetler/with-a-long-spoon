@@ -354,6 +354,13 @@ text = "\"Just us,\" Randi said — and it came out softer than the plan called 
 note = "Author accepted 2026-07-29: 'a small roughness under it' stands — the just-us voice tell, cold-reader feedback pass"
 
 [[ok]]
+fp   = "5f9bab3ae092"
+rule = "a-small"
+file = "scenes/all-the-time.md"
+text = "And when he actually—\" she made a small hopeless gesture \"—he changes it up the whole time, fast then slow then some way I don't have a word for, and he's *strong*, he can hold me anywhere he wants me, and then a minute later he's so gentle I could cry."
+note = "Kept: Vee's dialogue beat; the gesture is minor by design (she can't find the word). Chapter thinned from 8 'small' to 5, four of them load-bearing tells. Author ruling, line edit 2026-08-12."
+
+[[ok]]
 fp   = "a6eb90d053d6"
 rule = "a-small"
 file = "scenes/all-the-time.md"
@@ -368,11 +375,25 @@ text = "And then Randi's mouth, the greeting they did now, easy, only what they 
 note = "All the Time finalized: fixable tics recast; remainder are authorial keeps (the-way 4/5, file motif, Vee fumbles, there-was anaphora, in-voice antithesis)"
 
 [[ok]]
+fp   = "c6e8122e8339"
+rule = "began-to"
+file = "scenes/all-the-time.md"
+text = "And then Randi's mouth, easy, only what they did — except that this time, when it should have ended, Vee was the one who wouldn't let it, leaning up the last half-inch after Randi as she started to draw back, taking a second of it for herself, not ready to give the morning up."
+note = "Author ruling, line edit 2026-08-12 — see meta-triage-all-the-time.md (line edit section)."
+
+[[ok]]
 fp   = "07669ecf5ccf"
 rule = "clock-verb"
 file = "scenes/all-the-time.md"
 text = "\"Okay, these are *dusty,*\" Randi said, thumbing back through, clocking the dates as she went."
 note = "Author accepted 2026-07-29: 'clocking the dates' stands — cold-reader feedback pass, deniable in context"
+
+[[ok]]
+fp   = "c755edbb0bd8"
+rule = "clock-verb"
+file = "scenes/all-the-time.md"
+text = "\"Okay, these are *dusty*,\" Randi said, thumbing back through, clocking the dates as she went."
+note = "Re-ack: settled 2026-07-29 (meta-triage-all-the-time.md) — deniable in context, and the dialogue that follows proves the noticing anyway. Re-armed on an unrelated edit. Author ruling, line edit 2026-08-12."
 
 [[ok]]
 fp   = "4adb67799abe"
@@ -396,6 +417,20 @@ text = "She heard how much she wanted it and didn't mind."
 note = "All the Time finalized: fixable tics recast; remainder are authorial keeps (the-way 4/5, file motif, Vee fumbles, there-was anaphora, in-voice antithesis)"
 
 [[ok]]
+fp   = "2f43e83286c7"
+rule = "held-past"
+file = "scenes/all-the-time.md"
+text = "Randi went quiet over it, and looked, and kept looking — past a glance, past what a verdict needed — and Vee let herself be looked at and waited to hear what she'd say."
+note = "PROTECTED: designed intra-chapter rhyme with :135 'a beat past what a goodbye needed' — Randi looking past the function twice (photo, then face) is the chapter's central tell. Recast recorded in meta-triage-all-the-time.md 2026-07-29; reader-praised (fable-5). Author ruling, line edit 2026-08-12."
+
+[[ok]]
+fp   = "68668d57813c"
+rule = "held-past"
+file = "scenes/all-the-time.md"
+text = "Randi drew back just far enough to break the kiss, and looked right into her eyes from there — close, steady, a beat past what a goodbye needed — until Vee had almost begun to feel it as strange, and then the smile came."
+note = "PROTECTED: pair with :105 'past what a verdict needed' — see that ack. Author ruling, line edit 2026-08-12."
+
+[[ok]]
 fp   = "25a05747c02a"
 rule = "the-way"
 file = "scenes/all-the-time.md"
@@ -417,11 +452,25 @@ text = "And here was the thing Vee had not planned for, driving over: that there
 note = "All the Time finalized: fixable tics recast; remainder are authorial keeps (the-way 4/5, file motif, Vee fumbles, there-was anaphora, in-voice antithesis)"
 
 [[ok]]
+fp   = "9152f2ef1e1e"
+rule = "the-way"
+file = "scenes/all-the-time.md"
+text = "Randi listened the way she listened, which was total, her glass forgotten, her eyes going to Vee's mouth when she talked and her hands when they moved, and Vee felt herself open under it like she always did."
+note = "Author ruling, line edit 2026-08-12 — see meta-triage-all-the-time.md (line edit section)."
+
+[[ok]]
 fp   = "c296019e8fd3"
 rule = "the-way"
 file = "scenes/all-the-time.md"
 text = "Randi listened the way she listened, which was total, her wine forgotten, her eyes going to Vee's mouth when she talked and her hands when they moved, and Vee felt herself open under it like she always did, the best listener she'd ever had."
 note = "All the Time finalized: fixable tics recast; remainder are authorial keeps (the-way 4/5, file motif, Vee fumbles, there-was anaphora, in-voice antithesis)"
+
+[[ok]]
+fp   = "11d75bf2422c"
+rule = "there-was-were"
+file = "scenes/all-the-time.md"
+text = "There was no one else she could have shown."
+note = "Author ruling, line edit 2026-08-12 — see meta-triage-all-the-time.md (line edit section)."
 
 [[ok]]
 fp   = "1ddc1789ee7b"
@@ -480,6 +529,13 @@ text = "The smell reached her before the booth did: coffee and warm bread and so
 note = "Author accepted 2026-07-29: 'warm bread' — sensory, load-bearing"
 
 [[ok]]
+fp   = "20334aac5f94"
+rule = "warm"
+file = "scenes/all-the-time.md"
+text = "The smell had her before the booth did: coffee and warm bread and something roasting far back in the kitchen, a smell that reached the stomach before the eyes."
+note = "Re-armed by adjacent line-edit changes; warm count already thinned 6->4 this pass, both remaining uses ordinary. Author ruling, line edit 2026-08-12."
+
+[[ok]]
 fp   = "3b7a15314954"
 rule = "warm"
 file = "scenes/all-the-time.md"
@@ -492,6 +548,13 @@ rule = "warm"
 file = "scenes/all-the-time.md"
 text = "The hug first, long, the whole warm length of her, that bright green scent Vee had stopped trying to name folding around them both."
 note = "Author accepted 2026-07-29: 'warm length of her' — goodbye hug, load-bearing"
+
+[[ok]]
+fp   = "c47625089f5a"
+rule = "warm"
+file = "scenes/all-the-time.md"
+text = "Vee nodded — and warmed, a little, that Randi had been thinking about her — and the hostess turned and took her back into the dark."
+note = "Re-armed by adjacent line-edit changes; warm count already thinned 6->4 this pass, both remaining uses ordinary. Author ruling, line edit 2026-08-12."
 
 [[ok]]
 fp   = "c4c292c69350"
@@ -541,6 +604,20 @@ rule = "x-not-y"
 file = "scenes/all-the-time.md"
 text = "\"It's on me the whole time I'm there, not just — I mean even with my clothes on, which, ha, isn't a lot of the weekend—\" Randi's laugh, low \"—even then."
 note = "All the Time finalized: fixable tics recast; remainder are authorial keeps (the-way 4/5, file motif, Vee fumbles, there-was anaphora, in-voice antithesis)"
+
+[[ok]]
+fp   = "bb9c3eb162c5"
+rule = "x-not-y"
+file = "scenes/all-the-time.md"
+text = "Not creepy-looked-at, not like a guy at a bar."
+note = "Author ruling, line edit 2026-08-12 — see meta-triage-all-the-time.md (line edit section)."
+
+[[ok]]
+fp   = "bd5b5a1e6335"
+rule = "x-not-y"
+file = "scenes/all-the-time.md"
+text = "And then Randi's mouth, easy, only what they did — except that this time, when it should have ended, Vee was the one who wouldn't let it, leaning up the last half-inch after Randi as she started to draw back, taking a second of it for herself, not ready to give the morning up."
+note = "Author ruling, line edit 2026-08-12 — see meta-triage-all-the-time.md (line edit section)."
 
 [[ok]]
 fp   = "ce1b0995c665"
@@ -3516,6 +3593,13 @@ rule = "filter-verbs"
 file = "scenes/practice-room.md"
 text = "She noticed it the way you notice a held note after the song has already moved on, and she let go."
 note = "False positive by design: 'noticing' IS the subject. The beat is the lag between her arms acting and her mind catching up; body-before-mind is satisfied one sentence earlier ('Vee's arms were slow coming down'). Author ruling 2026-08-09."
+
+[[ok]]
+fp   = "7a835a9715a4"
+rule = "fluorescent-site"
+file = "scenes/practice-room.md"
+text = "They went out into the ordinary noise of the building, the bad fluorescent hum and somebody two doors down running scales, and at the top of the stairs Randi pulled her into the goodbye the way she always did, the long hug, the kiss easy on her mouth, then the lighter second touch after it, so worn-in now that Vee barely clocked it."
+note = "Author ruling 2026-08-12: KEEP. The hum is the sentence's sound detail in a clause about ambient building noise, and LEDs do not hum — ruled a legitimate older/cheaper fixture in that corridor. See meta-triage-practice-room.md."
 
 [[ok]]
 fp   = "b741f0c8170a"

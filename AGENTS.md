@@ -114,6 +114,14 @@ Anything durable is recorded in the versioned repo, never in a machine-local mem
 `tools/novel-assistant/na.py style` is a prose linter that flags style tics — literal phrases (`the way`) and structures (`X, not Y`) — plus hard canon breaches. It is **recall-first: it flags, it never fixes**, and it over-flags on purpose. Use it as a review aid on drafted prose; the judgment stays with you and the author. It needs no index and no Ollama.
 
 - **Run it** on a drafted scene or a fresh draft: `tools/novel-assistant/na.py style scenes/<slug>.md` — an explicit path works even before the scene is indexed. No path → all of `scenes/`; `--all` adds `meta/`. A natural moment is right after drafting/revising a scene.
+- **Act by severity (author ruling 2026-08-12).** `error` = a canon breach: fix it
+  before showing the author. `warn` = surface it with options and let the author
+  judge. `info` = **show the author the draft as it stands before changing
+  anything** — never silently recast an `info` hit, and never `--ack` one on your
+  own. Most `info` rules police *overuse*, and sometimes the overused word is
+  simply the best fit for that sentence; only the author can weigh that. This
+  applies equally to hits that **re-arm because of an edit made earlier in the
+  same session** — our own edit is not the author's sign-off.
 - **Read, don't obey.** Each hit is a *candidate*. Surface what's worth the author's eye — especially **clusters** (the density is the signal, not the lone hit) — and, exactly as with continuity, **never rewrite the author's prose off a hit unless asked.** The author decides.
 - **`never-name` (severity `error`) is not a tic — it's a canon breach.** Pace's temperament must never be labeled on the page — it lives only in behavior, never as a diagnosis (details in `meta-orientation.md` / the Bible). Treat any `error` hit as a real violation to flag, not a style nicety.
 - **Accepting a hit (suppression).** When you and the author agree a flagged line should stand, suppress it so it stops nagging: `na.py style <path> --ack` (all hits in scope) or `--ack --fp <hash>` (one hit; the hash is the `[#…]` tag in the output), with `--note "why"`. Suppressed hits hide by default; `--show-suppressed` re-shows them (`✓`); `--unack --fp <hash>` / `--rule <id>` reverses. **Only run `--ack` once the author has signed off** — it records an authorial decision into the repo.

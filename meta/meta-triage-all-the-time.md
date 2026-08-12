@@ -1,3 +1,60 @@
+# Triage — All the Time (line edit, 2026-08-12)
+
+Full report + applied changes: `audits/line-edit/all-the-time.md`
+(`## Author rulings (2026-08-12)`). Only the **left-standing** verdicts are
+recorded here — these are settled; do not re-flag without new evidence (a new
+reader cohort snagging on the same spot, or an edit that re-opens the passage).
+
+## Left standing — do not re-litigate
+
+- **`:19` "That was the luck of it. She still couldn't get over being the one
+  Randi picked."** — the line edit read these as two consecutive closers for one
+  thought and wanted the second cut. Opus quotes the pair as "the long-spoon
+  irony named from inside the mark's gratitude" — the book's title figure
+  landing in Vee's own voice, with her gratitude as the delivery mechanism.
+  Stands. (The *third* statement of the tug-of-war earlier in the paragraph was
+  cut; that half of the finding was accepted.)
+- **`:105` / `:135` — "past what a verdict needed" / "a beat past what a goodbye
+  needed"** — **PROTECTED as a designed intra-chapter rhyme.** The echo ledger
+  (#21/#2) flags this chapter as a two-in-thirty-lines density hotspot for the
+  held-past figure and defers the ruling here; the ruling is that it is
+  architecture, not tic. The 2026-07-29 cold-read triage records `:135` being
+  recast into this shape *specifically* to echo the photo beat, and `:105` is
+  reader-praised (fable-5: "the charge of transgression Vee doesn't know she's
+  committing"). Randi looking past the function twice — once at the photograph,
+  once at Vee's face — is the chapter's central tell. Both linter hits acked.
+- **`:37` / `:45` — "It's the opposite of that." / "It's the opposite."** — the
+  identical reversal-formula eight lines apart in Vee's speech. Author ruling:
+  stands. Proposed variants for `:45` ("Backwards." / "Not at all.") were
+  weighed and declined; "It doesn't" was rejected outright as it would collide
+  with Randi's "It doesn't" at `:77`, the chapter's emotional peak.
+- **`:91` — "forward and back."** — flagged as over-specification (the verb
+  *rock* already contains the motion). It is not: **a side-to-side rock reads
+  ambivalent; forward-and-back reads wanting and holding back.** The direction is
+  the content of the tell, and the tell is the whole reason the beat was added
+  in the 2026-07-29 pass.
+- **`:139` "blue academic lighting"** — flagged as an abstraction where a
+  concrete (fluorescents) was available. Declined: the blue is a deliberate
+  color contrast with the dark green booth, and rendering the light's *quality*
+  rather than the fixture is now house style and anachronism-proof (see the
+  `fluorescent-site` rule in `style/style-rules.toml`, ruled the same day).
+- **`:55` "before she'd decided anything"** — keeps the stem (echo ledger #8b's
+  inherited slot, re-affirmed on its own merits here).
+- **`:47` "warm as a bath"** — unchanged; already left standing 2026-07-29.
+
+## Also of record
+
+- *Fine hair*, *sculpted brows*, and *painted mouth* are now canon for Randi
+  (established at `:135` and `:107`). Bitter orange at `:135` brings the goodbye
+  into line with the canonical scent rendering at `broken-in:47` /
+  `my-friend-randi:19` (Diptyque Eau des Sens).
+- The Benedict paragraph was flagged as a beat long by two cold readers
+  (fable-5, kimi-k3), both self-retracting. **No length cut** — it is the
+  food-eros set piece the chapter is built toward. One of three *golds* cut
+  instead.
+
+---
+
 # Triage — All the Time (timeline sweep, 2026-08-03)
 
 ## Fixed

@@ -118,7 +118,7 @@ And on the word *welcome* something turned over low in Vee's belly with a soft w
 
 She didn't finish that one either.
 
-The hall bathroom was a single room with a bolt, and the bolt was loud, and she sat down without quite meaning to. Under the thin fluorescent light her body was still going, the story still running in it, and the proof was there before she wanted to know it, soaked through, made by nothing but a woman talking in a chair.
+The hall bathroom was a single room with a bolt, and the bolt was loud, and she sat down without quite meaning to. Under the hard white light her body was still going, the story still running in it, and the proof was there before she wanted to know it, soaked through, made by nothing but a woman talking in a chair.
 
 Her hand knew the way. It moved before she did. She caught it and put it flat against her own knee and held it there. Not here. Not over a story. To do that would be to say yes to it, and she would not say yes to it.
 

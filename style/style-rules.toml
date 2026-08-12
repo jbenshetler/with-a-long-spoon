@@ -229,6 +229,16 @@ severity = "error"
 scope    = "scenes"
 why      = "AUTHOR RULING (2026-08-06): anachronism — there is no record player in Pace's house; he controls music from his phone (playlists; stereo/speakers are only the output — see the {{In Her Place}} music note). Period music hardware reads like wax cylinders on a college campus. Render room-music phone-driven and unremarked. ('turntable'/'vinyl' deliberately not matched: the diner's display turntable and vinyl siding/seats are legitimate.)"
 
+[[rule]]
+id       = "fluorescent-site"
+kind     = "regex"
+pattern  = '(?i)\bfluorescent\w*\b'
+severity = "info"
+scope    = "scenes"
+why      = '''AUTHOR RULING (2026-08-12): not a ban — a site check. Fluorescent tubes are an anachronism in the NEW/renovated buildings of a modern, well-funded university; a current-day campus interior reads LED. They remain correct in older or cheaper sites. Ruled at the All the Time line edit: `practice-room:121` changed ("thin fluorescent light" -> "the hard white light") because it is a modern campus building; `practice-room:135` KEPT (the bad fluorescent hum — the hum is the sentence's sound detail and LEDs do not hum); `rock:127` KEPT (high-school gymnasium, ~5 years earlier — period-correct, and the badness of the light is the point); `under-the-rug:43` KEPT (a cheap bright restaurant, not a campus building; the harshness works against the dark-booth chapters).
+
+WHEN THIS FIRES: do not auto-change it. Identify the SITE, decide whether that site would plausibly still have tubes, and DISCUSS with the author. House style for modern interiors is to render the light's QUALITY, never the fixture — cf. all-the-time:139 "blue academic lighting" and practice-room:121 "the hard white light", both anachronism-proof.'''
+
 # ---- Hard canon rules (never name, never explain) ---------------------------
 
 [[rule]]

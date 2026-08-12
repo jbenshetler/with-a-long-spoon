@@ -43,7 +43,7 @@ the echo shortlist with the author before per-chapter editing starts).
 | 35 | Above Him | above-him | reviewed |
 | 36 | School Nights | school-nights | edited |
 | 37 | In His Hands | in-his-hands | reviewed |
-| 38 | All the Time | all-the-time | edited |
+| 38 | All the Time | all-the-time | reviewed |
 | 39 | The Outlier | outlier | edited |
 | 40 | The New Ordinary | new-ordinary | edited |
 | 41 | Cropped | cropped | edited |
