@@ -396,6 +396,13 @@ text = "\"Okay, these are *dusty*,\" Randi said, thumbing back through, clocking
 note = "Re-ack: settled 2026-07-29 (meta-triage-all-the-time.md) — deniable in context, and the dialogue that follows proves the noticing anyway. Re-armed on an unrelated edit. Author ruling, line edit 2026-08-12."
 
 [[ok]]
+fp   = "487451578fc5"
+rule = "cost-vague"
+file = "scenes/all-the-time.md"
+text = "\"Done,\" Randi said, immediately, like it cost nothing."
+note = "PROTECTED per the cost-vague rule's own text: Randi's effortless-power register ('Done,' immediately, like it cost nothing) is DESIGNED — the whole point is that the thing Vee had to work up to costs Randi nothing. One instance, no cluster. Author ruling 2026-08-12."
+
+[[ok]]
 fp   = "4adb67799abe"
 rule = "file-verb"
 file = "scenes/all-the-time.md"

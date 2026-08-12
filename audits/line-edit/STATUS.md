@@ -41,7 +41,7 @@ the echo shortlist with the author before per-chapter editing starts).
 | 33 | Made-Up | made-up | reviewed |
 | 34 | One Bite | one-bite | reviewed |
 | 35 | Above Him | above-him | reviewed |
-| 36 | School Nights | school-nights | edited |
+| 36 | School Nights | school-nights | reviewed |
 | 37 | In His Hands | in-his-hands | reviewed |
 | 38 | All the Time | all-the-time | reviewed |
 | 39 | The Outlier | outlier | edited |
