@@ -234,6 +234,7 @@ class Entry:
         self.season = None      # "Fall"/"Spring"/"Summer"/"Other" (VOLUME bucket)
         self.words = 0          # prose word count of the scene file (0 if none)
         self.git_date = None    # ISO date of last commit touching the prose file
+        self.git_instant = None # Unix ts of that commit (for review-staleness cmp)
         self.file_slug = None   # `slug:` segment — the on-disk scene/file slug
         self.ratings = None     # {heat, romance, n, per} from cold reads, or None
 
@@ -452,18 +453,35 @@ def _norm_slug(s: str) -> str:
     return re.sub(r"^(?:the|a|an)-", "", s)
 
 
-def scene_ratings(slug: str, reviews_root):
-    """Average Heat/Romance for a scene slug across model reviews, or None."""
+def scene_ratings(slug: str, reviews_root, scene_stamp=None):
+    """Average Heat/Romance for a scene slug across model reviews, or None.
+
+    A cold read reflects the *version of the prose it read*, so a review that
+    predates the chapter's current commit rated an earlier draft. When
+    `scene_stamp` (the chapter's last-commit Unix timestamp, int seconds) is
+    given, only reviews committed strictly after that instant count. We compare
+    full timestamps, not calendar dates, on purpose: a review and the prose it
+    read commonly land on the same day, and day-granularity would wrongly
+    discard a review committed hours after the final prose. (Epoch seconds are
+    timezone-independent and compare as plain integers.) Reviews with no git
+    timestamp, or when the chapter has none, are kept — we can't prove them
+    stale.
+    """
     if not slug or reviews_root is None or not reviews_root.is_dir():
         return None
     key = _norm_slug(slug)
-    heats, roms, per = [], [], []
+    heats, roms, per, dropped = [], [], [], 0
     for model_dir in sorted(reviews_root.iterdir()):
         if not model_dir.is_dir():
             continue
         for f in sorted(model_dir.glob("*.md")):
             if _norm_slug(f.stem) != key:
                 continue
+            if scene_stamp:
+                rstamp = git_last_instant(reviews_root, f"{model_dir.name}/{f.name}")
+                if rstamp and rstamp <= scene_stamp:
+                    dropped += 1
+                    continue
             t = f.read_text(encoding="utf-8")
             hm, rm = HEAT_RE.search(t), ROMANCE_RE.search(t)
             hv = min(3.0, float(hm.group(1))) if hm else None
@@ -480,7 +498,8 @@ def scene_ratings(slug: str, reviews_root):
     def _avg(xs):
         return round((sum(xs) / len(xs)) * 2) / 2 if xs else None  # nearest ½
 
-    return {"heat": _avg(heats), "romance": _avg(roms), "n": len(per), "per": per}
+    return {"heat": _avg(heats), "romance": _avg(roms),
+            "n": len(per), "per": per, "dropped": dropped}
 
 
 # Monochrome glyph paths (24×24), fillable via CSS — a flame (Material
@@ -525,7 +544,11 @@ def rating_pills(e) -> str:
     r = e.ratings
     tip = " · ".join(f'{m}: H{h if h is not None else "–"}/R{ro if ro is not None else "–"}'
                      for m, h, ro in r["per"])
-    label = f"cold-read avg across {r['n']} model{'s' if r['n'] != 1 else ''} — {tip}"
+    stale = r.get("dropped", 0)
+    stale_note = (f" ({stale} pre-revision review{'s' if stale != 1 else ''} excluded)"
+                  if stale else "")
+    label = (f"cold-read avg across {r['n']} model{'s' if r['n'] != 1 else ''}"
+             f"{stale_note} — {tip}")
     return (f'<span class="ratings" title="{html.escape(label, quote=True)}">'
             f'{rating_pill("heat", r["heat"])}{rating_pill("romance", r["romance"])}</span>')
 
@@ -600,6 +623,23 @@ def git_last_date(repo: Path, rel: str):
         return None
     d = out.stdout.strip()
     return d or None
+
+
+def git_last_instant(repo: Path, rel: str):
+    """Unix timestamp (int seconds) of the last commit touching `rel`, or None.
+
+    %ct is git's committer date as epoch seconds — timezone-independent and
+    directly comparable as integers, which is what the review-staleness filter
+    in `scene_ratings` needs to order commits within the same calendar day.
+    """
+    try:
+        out = subprocess.run(
+            ["git", "-C", str(repo), "log", "-1", "--format=%ct", "--", rel],
+            capture_output=True, text=True, timeout=5, check=False)
+    except (OSError, subprocess.SubprocessError):
+        return None
+    d = out.stdout.strip()
+    return int(d) if d.isdigit() else None
 
 
 # Row order for the summary table: the three seasonal volumes, then the
@@ -750,10 +790,12 @@ def build_html(entries, flags_raw, source_name, scene_dir=None, reviews_dir=None
                 text = (scene_dir / fn).read_text(encoding="utf-8")
                 e.words = prose_word_count(text)
                 e.git_date = git_last_date(scene_dir, fn)
+                e.git_instant = git_last_instant(scene_dir, fn)
                 if e.status["cls"] == "done":
                     e.scene_md = text
         if e.etype in ("SCENE", "VIGNETTE"):
-            e.ratings = scene_ratings(e.file_slug or slugify(e.title), reviews_dir)
+            e.ratings = scene_ratings(e.file_slug or slugify(e.title),
+                                      reviews_dir, scene_stamp=e.git_instant)
     # hidden raw-markdown sources the reader renders on demand; html.escape keeps
     # arbitrary prose inert, and .textContent decodes it back verbatim in JS.
     scene_srcs = "\n".join(
