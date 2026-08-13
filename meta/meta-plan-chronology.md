@@ -221,7 +221,7 @@ A triptych across three rooms — bedroom, restaurant, bedroom — in which a di
 Vee alone, tossing and turning in his shirt. The shapelessness of what they are has been building since the porch — and was not released by {{Under the Rug}}'s false resolution; in the dark it becomes unbearable; she takes the shirt off. No witness, no resolution. Second of the three displacements — wordless, alone.
 
 ### [SCENE] Believe Me
-*Fri Dec 11 · evening · the weekend before finals week · pre-Christmas-break* · Draft complete · `believe-me.md` · Pace/Vee · Vee POV · [detail](meta-condensed-believe-me.md) · slug: believe-me · present: Vee, Pace · reviewed: 2026-07-30
+*Fri Dec 11 · evening · the weekend before finals week · pre-Christmas-break* · Draft complete · `believe-me.md` · Pace/Vee · Vee POV · [detail](meta-condensed-believe-me.md) · slug: believe-me · present: Vee, Pace · reviewed: 2026-07-30, 2026-08-13
 Vee brings her mother's Thanksgiving question to Pace — the one she couldn't answer then and can't answer now: what are you to me? She conflates monogamy and *I love you.* *"Do any of your friends have a relationship you'd rather have?"* — genuine within his grammar, insufficient within hers. **No reunion — the pattern breaks here:** where {{Under the Rug}} dissolved into makeup sex, this fight won't dissolve. She throws the gauntlet (the demand to be named); he answers warm-but-wrong and won't chase; they go silent — she won't retract, he doesn't sulk — straight through finals and the break to First Weekend Back, where she finally sets the demand down. Last of the three displacements — the want finally named and mismatched; the one that ruptures instead of papering over.
 
 ### [EVENT] Christmas Break
