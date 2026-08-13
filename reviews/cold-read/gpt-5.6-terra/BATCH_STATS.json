@@ -5,24 +5,24 @@
   "generated": 1,
   "skipped": 0,
   "total_cost": null,
-  "total_input": 28023,
-  "total_output": 6797,
-  "total_tokens": 34820,
+  "total_input": 25366,
+  "total_output": 6734,
+  "total_tokens": 32100,
   "per_chapter": [
     {
-      "slug": "rock",
-      "title": "Rock",
+      "slug": "believe-me",
+      "title": "Believe Me",
       "status": "generated",
       "cost": null,
-      "input": 28023,
-      "output": 6797,
-      "totalTokens": 34820,
-      "promptTokens": 28023,
-      "reasoningTokens": 73,
+      "input": 25366,
+      "output": 6734,
+      "totalTokens": 32100,
+      "promptTokens": 25366,
+      "reasoningTokens": 72,
       "cacheRead": 9984,
-      "duration_s": 124.8,
-      "wall_s": 125.0,
-      "path": "reviews/cold-read/gpt-5.6-terra/rock.md"
+      "duration_s": 123.8,
+      "wall_s": 124.0,
+      "path": "reviews/cold-read/gpt-5.6-terra/believe-me.md"
     }
   ]
 }

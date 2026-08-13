@@ -78,4 +78,9 @@ report file is overwritten on re-run). 9 applied, 3 left standing.
 
 Uncounted note, `:55` *and*-chain — **applied** (author's own wording): recast to asyndeton. Comma splices deliberate; do not restore conjunctions in copyedit.
 
+**Bonus item (post-panel), `:33`** — "because she had it now and **it was rising**
+and she wasn't going to lose it" — **applied as (b)**: cut only "and it was
+rising." Raised by opus-4-8's post-edit cold read, not by this report; it became
+visible once the surrounding overwork was removed. Rationale in the triage doc.
+
 Also ruled here: **a summary sentence consolidating the ritual markers was considered and rejected** — it asserts the pattern instead of enacting it, and `:7` already does that job through Vee's deduction.

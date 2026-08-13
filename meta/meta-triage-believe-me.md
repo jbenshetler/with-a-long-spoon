@@ -43,8 +43,17 @@ complaint. **9 applied, 3 left standing.** Style linter was clean going in.
 - **`:59`** — cut "That was the one thing she could not take from him now"; the
   protected line "Not the hand in place of the word" now lands two beats sooner,
   off the reaching hand rather than off a gloss of it.
+- **`:33`** — cut "and it was rising" from "because she had it now and it was
+  rising and she wasn't going to lose it." Added **after** the post-edit panel, on
+  opus-4-8's only friction item ("I'd already felt the rise; being told was a
+  half-beat of over-help"). "He drew breath to answer and she went on over him"
+  already dramatizes the rise; talking over a man mid-breath *is* the momentum.
+  The outer two clauses stand — "she had it now" marks the direct question finally
+  arriving after a relationship of indirect ones, and "she wasn't going to lose it"
+  is nerve being held, neither visible in the blocking. **Not in the original 12** —
+  it surfaced only because the overwork around it was removed.
 
-### Ritual-marker thinning (author ruling 2026-08-13) — under cold-read test
+### Ritual-marker thinning (author ruling 2026-08-13) — cold-read test PASSED
 
 Four "every time / the way it always did" markers fired in the chapter's first
 nine lines. Author ruling: **repetition at that density makes the ritual ambient
@@ -67,6 +76,71 @@ makes what follows worse, not cleaner," which is the earn-the-dark tripwire
 working. Cutting by subtraction rather than adding a new sentence keeps the test
 clean: **if the next cold-read panel loses the gladness reading, revert `:15`**,
 because nothing else was introduced that could account for it.
+
+### Cold-read result (2026-08-13) — no revert
+
+Full panel re-run post-edit (opus-4-8, sonnet-5, gpt-5.6-terra, gpt-5.6-sol,
+gpt-5.5), compared line-by-line against the pre-edit reads at commit `965b214`.
+
+**The tripwire held on 5/5.** Every reader still refuses the simple-unmasking
+reading; none acquired suspicion that Pace's care is fake. `:15` **stands**.
+
+But the *evidence* rotated, unanimously and worth recording:
+
+- **All five previously cited his face opening as the proof. None cite it now.**
+  Note the event was **never cut** — "His face opened when he saw her" is still on
+  the page. What was cut is its status as **evidence**: "the way it opened every
+  time" converted a momentary beat into a *pattern claim*, and a pattern claim is
+  what a cold reader reaches for when arguing his care is real. One door-opening
+  proves nothing; a habit does. The gladness is no longer independently quotable,
+  so it stopped being quoted. (The ritual itself did not leave the sentence —
+  "the kiss he always gave her at the door" still carries habit two clauses later,
+  just not attached to his gladness.)
+- **Replacements, per reader:** opus → the heat brought up hours early; sonnet →
+  the reaching hand; terra → unlocked door, warm house, consistency with the man
+  she's known; sol → the declaration plus his softening at her tears; gpt-5.5 →
+  the prepared evening plus, newly, "silence costs him too."
+- Both mechanisms ran at once: **demoted here, promoted there.** `:7`'s heat
+  marker now lands as its paragraph's payoff instead of the second of three, which
+  is exactly the split the thinning was designed around.
+
+**Pace hardened toward *decision* — 4 of 5**, without any reader crossing into
+"he was faking." terra: "plainly his sincere conviction" → "exactly the refuge he
+uses… unable—or unwilling," and **attributes the shift directly to the `:29`
+attribution cut** (with the author's warrant gone, the reader weighs the line as
+possible strategy). sol: hedged three ways → "a line he has consciously chosen not
+to cross." gpt-5.5: "his language fails" → "his verbal refusal is now
+unmistakable," offset by a new credit that the silence costs him. opus: "a man
+under a rule — whether the rule is Randi's or his own I don't know." **sonnet is
+the lone dissenter**, softening to "he genuinely doesn't have the word." Two
+readers now ask *whose rule*, unprompted — the earn-the-dark seeding strengthened
+while staying inside the band.
+
+**The `:13` bag reorder is the unambiguous win — 4 of 5.** terra promoted it from
+unmentioned prop to a named opening motif ("the uncarried bag marks that she has
+not come to stay"); sol gave it its own praise beat and motif line, neither of
+which it had; opus: "a whole argument made with luggage." gpt-5.5 alone still does
+not mention it.
+
+**Two losses, recorded so a later pass doesn't rediscover them as new:**
+
+1. **gpt-5.5 lost "Not the hand in place of the word."** It was that reader's
+   designated peak pre-edit; post-edit it survives only as generic paraphrase.
+   Ironic, since the `:59` cut was meant to bring it *closer* to the gesture.
+   opus and sonnet still call it the chapter's best short line and sol keeps the
+   beat — one reader of five, but it is a protected line and it moved the wrong
+   way. **First smoke that subtraction is nearing erosion in this chapter.**
+2. **terra lost the stillness** — "the still of a man holding a line at cost"
+   dropped out of its reaction entirely; the `:55` asyndeton did not register.
+   gpt-5.5 ran the opposite way and quoted "line at cost" for the first time ever
+   off that same recast. Net a wash.
+
+Scores held flat across the board (opus 1/3, terra 1/3, sol 1/3, gpt-5.5 1/2,
+sonnet 0/2). No reader reported the chapter as thinner, colder, or more abrupt.
+
+**Standing caution for future passes on this chapter: ten overwork cuts have
+landed. The chapter is at or past its economy ceiling — treat further subtraction
+as suspect absent multi-reader evidence.**
 
 ## Left standing — do not re-litigate
 
@@ -91,6 +165,16 @@ because nothing else was introduced that could account for it.
   all failed. A single clean question reads composed; she is not composed. **The
   redundancy is the frustration.** Prose economy is the wrong instrument on a line
   whose job is to sound unedited.
+- **Pace's counter-question** ("Do any of your friends have a relationship you'd
+  rather have than this one?"). **New post-edit friction from gpt-5.6-sol only**:
+  "it feels so oblique that I nearly share her disbelief." **Left standing.** The
+  line was **not touched** in this pass — and the same reader read the same beat as
+  a *strength* pre-edit ("I admire that she refuses to let his true counterquestion
+  displace hers"). A lone reader inverting on an unedited line is taste, not signal;
+  four of five readers raise nothing here, and the obliqueness is the character
+  (his grammar is plans and acts, not names). Consistent with the 2026-07-30 ruling
+  that Pace's literalism at "I thought we'd have the evening" is rescued by the
+  page. Re-open only on multi-reader corroboration.
 - **`:35`'s "such care" / "this precious thing"** — the two abstract phrases in an
   otherwise concrete speech; "precious thing" flagged as greeting-card diction.
   **Author ruling: both stand**, on the same principle as the questions above —

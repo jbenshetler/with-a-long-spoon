@@ -30,7 +30,7 @@ A small pause while he turned the words over and got nothing different out of th
 
 "But what am I?"
 
-He drew breath to answer and she went on over him, because she had it now and it was rising and she wasn't going to lose it.
+He drew breath to answer and she went on over him, because she had it now and she wasn't going to lose it.
 
 "You take me into your warm house every weekend," she said. "You put the whole evening up before I ever get here, the heat and the wine and the food, all of it standing ready for me. You cook for me, you feed me things I didn't know food could be. You touch me with such care, treat me like this precious thing. We have sex, so much of it, and it's the best of my life, and I am not complaining, I need you to hear that, I'm not complaining about one minute of it. The way you look at me… You want me and there's never anything dirty in it. Like my body comes with me attached. Like it's just fine as it is. Nobody ever made me feel that." Her voice went thin and she drove through it. "All of that. All of that is in here. Inside this house, with the door shut."
 
