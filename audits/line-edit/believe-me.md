@@ -55,3 +55,27 @@ Also noted, not counted as a finding: `:55`'s "He stepped back, and his arms cam
 - **"his face opened" (`:15`)** — Pace's greeting tell; worth counting against the "small private smile" cluster under #3's unruled split.
 - **"the door was unlocked, the way he left it for her" (`:13`)** — arrival-ritual phrasing; check against other Pace-house arrivals for a near-twin.
 - **"Words are cheap" (`:51`, `:53`)** — within-chapter by design and reader-confirmed as the peak; logged only so no future pass reads the doubling as a tic.
+
+---
+
+## Author rulings (2026-08-13)
+
+Full rationale in `meta/meta-triage-believe-me.md` (the durable ledger — this
+report file is overwritten on re-run). 9 applied, 3 left standing.
+
+1. `:13` "on the nights she stayed" ×2 — **applied, modified**: cut the tag from the music line but kept "the kind he played," so the music stays his rather than ambient.
+2. `:13` paragraph past its landing — **applied as (b)**: reordered so the paragraph ends on the bag rather than cutting the closer.
+3. `:11` "thin and metal" — **applied**, cut.
+4. `:15` "the way it opened every time" — **applied**, cut, as part of the ritual-marker thinning (author ruling); **reader-praised by opus-4-8, under cold-read test with an explicit revert condition** — see triage.
+5. `:15` wine readiness stack — **applied**: cut "waiting."
+6. `:21` "He offered it plainly, the whole good evening laid out for her to take" — **left standing**, no cuts anywhere in `:21`. The offer is Pace's thesis as an itinerary; the porch is his outdoors still attached to his house; the restatement closes the offer.
+7. `:29` "He said it simply, with certainty" — **applied**, attribution cut entirely.
+8. `:35` "such care" / "this precious thing" — **left standing**; her voice under pressure.
+9. `:39` doubled "came out" — **applied as (b)**: "left her mouth," repetition fixed without touching the thematic clause.
+10. `:39` three closing questions — **left standing**; it's speech, and the redundancy is the frustration.
+11. `:47` "saying nothing" — **applied as (b)**: trimmed to "Pace stood looking at her."
+12. `:59` two restatements before the protected line — **applied as (a)**: cut "That was the one thing she could not take from him now."
+
+Uncounted note, `:55` *and*-chain — **applied** (author's own wording): recast to asyndeton. Comma splices deliberate; do not restore conjunctions in copyedit.
+
+Also ruled here: **a summary sentence consolidating the ritual markers was considered and rejected** — it asserts the pattern instead of enacting it, and `:7` already does that job through Vee's deduction.

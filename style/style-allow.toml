@@ -970,6 +970,13 @@ text = "She kept her hands in her pockets and let him arrive at the fact of it, 
 note = "Author-approved: intentional register ('the way' incl. the de-shaming gaze), close-third perception (filter verbs incl. the body-before-mind 'felt the wet'), and accepted single tics."
 
 [[ok]]
+fp   = "74d4c4888313"
+rule = "filter-verbs"
+file = "scenes/believe-me.md"
+text = "His face opened when he saw her, and he crossed to her with unhurried certainty, for the kiss he always gave her at the door."
+note = "re-arm after line-edit pass 2026-08-13; all four previously acked, flagged phrases untouched by the edits"
+
+[[ok]]
 fp   = "f2e0f0a1b05f"
 rule = "filter-verbs"
 file = "scenes/believe-me.md"
@@ -1033,6 +1040,20 @@ text = "There was a taste in her mouth like a coin held under the tongue, thin a
 note = "Author-approved: intentional register ('the way' incl. the de-shaming gaze), close-third perception (filter verbs incl. the body-before-mind 'felt the wet'), and accepted single tics."
 
 [[ok]]
+fp   = "e292baa09c6c"
+rule = "there-was-were"
+file = "scenes/believe-me.md"
+text = "There was a taste in her mouth like a coin held under the tongue."
+note = "re-arm after line-edit pass 2026-08-13; all four previously acked, flagged phrases untouched by the edits"
+
+[[ok]]
+fp   = "06a753c49025"
+rule = "unhurried"
+file = "scenes/believe-me.md"
+text = "His face opened when he saw her, and he crossed to her with unhurried certainty, for the kiss he always gave her at the door."
+note = "re-arm after line-edit pass 2026-08-13; all four previously acked, flagged phrases untouched by the edits"
+
+[[ok]]
 fp   = "845cc5838f02"
 rule = "unhurried"
 file = "scenes/believe-me.md"
@@ -1094,6 +1115,13 @@ rule = "whole-of"
 file = "scenes/believe-me.md"
 text = "It came out ugly and she let it, because that was the whole of it, that with no name on it the best thing in her life came out of her mouth sounding like that."
 note = "Author-approved: intentional register ('the way' incl. the de-shaming gaze), close-third perception (filter verbs incl. the body-before-mind 'felt the wet'), and accepted single tics."
+
+[[ok]]
+fp   = "935c2552fef0"
+rule = "whole-of"
+file = "scenes/believe-me.md"
+text = "It came out ugly and she let it, because that was the whole of it, that with no name on it the best thing in her life left her mouth sounding like that."
+note = "re-arm after line-edit pass 2026-08-13; all four previously acked, flagged phrases untouched by the edits"
 
 [[ok]]
 fp   = "4f02af9f4f3b"

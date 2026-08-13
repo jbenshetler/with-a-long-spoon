@@ -50,7 +50,7 @@ the echo shortlist with the author before per-chapter editing starts).
 | 42 | Seconds | seconds | reviewed |
 | 43 | Under the Rug | under-the-rug | reviewed |
 | 44 | Bare | bare | edited |
-| 45 | Believe Me | believe-me | edited |
+| 45 | Believe Me | believe-me | reviewed |
 | 46 | Fairytale | fairytale | edited |
 | 47 | Old Acquaintances | old-acquaintances | edited |
 | 48 | The Usual | the-usual | edited |
