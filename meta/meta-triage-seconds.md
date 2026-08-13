@@ -63,3 +63,51 @@ Panel: claude-fable-5, claude-opus-4-8, gpt-5.5, gpt-5.6-sol (read after {{Cropp
 - **Same-day sequencing with {{Cropped}} is intentional** — first reunion after Thanksgiving, Vee full of missing him and the who-are-we questions the break raised.
 - **Moon rises over the mountains** (behind the nearer ridge) — line 17 aligned.
 - **Coda re-grounded (author-directed):** the "would"-heavy flash-forward landed as a lived scene in the dorm **laundry room** (bus cut — on-campus resident, container ruled: physically inside, physically quiet); one prophetic *would* retained at the close. Pile now already-not-empty (canon: smaller porch-register moments precede this one, `meta-craft-pace.md`). Flannel deliberately kept out of the load.
+
+---
+
+# Triage — Seconds (line edit, 2026-08-13)
+
+True line-edit pass (report in chat; no report file — single-chapter mode).
+10 candidates surfaced: 7 applied, 2 left standing, 1 dropped as already-settled.
+
+## Applied (see commit)
+
+- Para 39 warmth-pile: the four-"warmth" / received-received-knew / "let the
+  warmth do what warmth does" tail rewritten (author's own recast) →
+  "She had come to expect his warmth these mornings, and her body knew what to
+  do with it. She leaned her cheek against his shoulder and closed her eyes."
+- Para 43: cut the "when the quilt is warm and the man is holding you and the
+  sun has begun to come up" over-explaining tail — kept "where small *waits* go"
+  (fable-5 praised the clause as "the book's method"); tail also recapped 47/51.
+- Para 39: cut repeated "small specific" modifier (kept the para 35 instance).
+- Paras 31 / 43 / 43: thinned three reflex "small"s (intentional press; slow way;
+  the first of "small adjustment … small *wait*"). The **"small *wait*"** kept —
+  fable-5-praised and load-bearing for the "small *waits* go" echo.
+- Para 23: cut the middle "require her to find the words again" clause and the
+  trailing "She did not have to search" (kept the find→found reversal).
+- Para 5: cut the quilt-provenance tail ("because it had been on his bed before
+  he had put it out here for the cooler months").
+- Para 29: cut "after the first" (redundant with "a second breath"; the
+  two-breaths beat itself is kimi-k3/terra/sol-praised and untouched).
+
+## Left standing — do not re-litigate (re-open only on a text edit)
+
+- **Para 41 layered "underneath"** ("underneath the warmth — underneath what her
+  body was doing with the warmth — something else was beginning to move").
+  Reads as intentional two-step descent, and the para-39 thin removed the
+  warmth-pile it used to sit against; the second appositive now has a clean
+  referent in 39's "her body knew what to do with it." (opus flagged the
+  *sternum-wait/warmth doubleness* elsewhere — already left-standing above.)
+- **"did not have a name" twice** (para 55 "a small thing it did not have a name
+  for" / para 61 "The shape did not have a name"). Ruled the through-line, not a
+  reach: the feeling has no name at the first flinch and still none at its final
+  placement; the persistence of namelessness is the point. Para 55's residual
+  `a-small` hit ("a small thing") therefore stands by design.
+
+## Dropped — already settled by prior triage
+
+- **Coda "triple-close"** (para 61 verdict / 63 scene-out / 65 recap). The
+  coda structure, the single retained prophetic *would*, and specifically
+  ":65 sun coming up" are all ruled left-standing above (line audit 2026-08-03
+  + cold-read pass 2026-07-30). Not re-litigated.
