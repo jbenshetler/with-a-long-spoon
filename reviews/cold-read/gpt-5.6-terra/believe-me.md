@@ -4,29 +4,24 @@
 
 ## Reader reaction
 
-This hurt. I was rooting for Vee before Pace even appeared: she has finally made herself say the whole thing plainly, without pretending the warmth, food, sex, and care mean less than they do. The line that got me was, “Like my body comes with me attached.” That is such a full, grateful account of being wanted without being reduced, and it makes her demand for a name feel not only fair but necessary.
+I felt sick for Vee almost from the truck in the drive: the low lamps, the raised heat, the wine already poured, all the things that have made me melt before are suddenly unbearable because she knows exactly how much they mean to her and still cannot tell whether they mean the same thing to him. Her standing on the mat with no bag is devastating. She comes prepared not to be absorbed by the house again.
 
-Pace’s first answer—“You’re the most important person in my life”—made me catch for a second. But every answer after that narrows the room. “Believe what I do” is true to the man Vee has known, and I believe his care is real; it is also exactly the refuge he uses when she asks him to meet her in words. “Words are cheap, and you still won't spend them on me” landed hard. I feel sad for him when something “shut” across his face, but not enough to make Vee’s exit feel wrong. Her refusing his comforting hand is a fierce, painful boundary: she does not want care substituted for the answer.
+Pace’s face opening for the usual kiss got me too. I still believe the welcome is real. I believe he loves having her there; I believe he has made the evening around her with care. And then he simply cannot meet the question she is asking. “You’re the most important person in my life” should be enormous, but Vee is right that it is not an answer to *what am I to you?* His “Words are cheap. Believe what I do” lands cold, especially after she has already spent the whole chapter naming what he does. The line that broke me was: “Words are cheap, and you still won’t spend them on me.”
 
-The erotic charge is not sexual here, but the remembered sex and bodily care make the confrontation intensely intimate. It peaks in Vee naming “the best of my life” and then insisting that it cannot stay sealed “inside this house, with the door shut.” I have no new suspicion that Pace’s tenderness has been fake. I do have a new, earned fear that he may be unable—or unwilling—to give Vee a relationship she can speak aloud.
+There is no erotic action here, but the erotic charge is painfully alive in Vee’s plain account of their sex: “the best of my life,” and the fact that he makes her feel her body comes with her attached. That is exactly why the rupture hurts; she is not rejecting sex or his care. She is asking whether that private tenderness can exist in the world.
 
-“Believe Me” is bitterly exact now: Pace asks her to believe his actions, while Vee needs him to believe that words matter. *A Polite Invitation* feels less polite than ever; invitations into warmth can still leave someone outside the name of what they have entered. *With a Long Spoon* still feels ominously distant to me. I have no cover tagline in memory to react to. I desperately want Vee to be met somewhere beyond that doorway, but from here my guess is that the cold after this exit will not be easily repaired.
+I do not suddenly think Pace is false or merely using her. The text earns something more painful: he seems to offer the truest answer he can reach, then closes when words cost him something. His hand rising to soothe her is loving, and Vee refusing it is right. She has had enough of a hand standing in for speech. I am fiercely with her when she leaves.
 
-**Cast present (in person):** Vee and Pace. Mentioned only: Cassie, Vee’s father, Vee’s mother.
+“Believe Me” now sounds like Pace’s defense—believe his acts—and also like Vee’s demand to be believed when she says those acts are not enough without a name. *A Polite Invitation* and *With a Long Spoon* still feel ominous beside this: invitation and warmth may be real, but they do not automatically make a place one can claim. I want Vee to stay gone long enough for this not to be smoothed over. My guess from here is that Pace will have to choose words, not just another beautiful evening, if he wants her back.
 
-**Heat:** 1 — no sexual activity, but the remembered sex and his intimate domestic preparation charge every word.
-
-**Romance:** 3 — a central bond reaches a painful naming crisis.
-
-**Motifs & images:** Repeat: low lamplight, heat, food, sawdust-and-salt scent, unlocked door, porch, cold outside, and the house as welcome/refuge. Repeat: words withheld versus actions offered. First: coin taste under Vee’s tongue; the uncarried bag marks that she has not come to stay.
-
-**Symbolism:** The unlocked door and warm house read as Pace’s real welcome, but Vee’s exit makes them inadequate without a name. His lifted hand becomes care that cannot replace speech.
-
-**Characterization:** Vee deepens through directness and refusal to let gratitude erase her need. Pace remains consistent in his careful preparation and physical tenderness, but his inability to answer exposes a limit rather than resolving him.
-
-**Pace — within the chapter:** The scene holds its length; Vee’s repeated question gains force rather than dragging.
-
-**Pace — chapter to chapter:** A sharp escalation from private sleeplessness into confrontation.
+**Cast present (in person):** Vee and Pace. Mentioned only: Cassie; Vee’s father and mother.  
+**Heat:** 1 — strong remembered sexual intimacy, no sexual activity.  
+**Romance:** 2 — deeply intimate care is named, but the scene breaks on an unmet need for recognition.  
+**Motifs & images:** Repeat: low lamplight/house warmth, unlocked door, food, sawdust-and-salt scent, water-like piano, door/threshold, cold outside versus warmth inside, words retained/lost, hands as care that can also evade speech.  
+**Symbolism:** The prepared house is private devotion that Vee cannot carry into public language; the threshold becomes her refusal to let comfort replace an answer.  
+**Characterization:** Vee deepens through unusually direct, precise speech. Pace remains consistent in his practical care and difficulty with naming, but his folding inward makes that limitation newly consequential.  
+**Pace — within the chapter:** The pauses earn themselves; Vee’s speech gathers force without dragging.  
+**Pace — chapter to chapter:** A sharp escalation from private sleeplessness to confrontation; the unresolved naming problem finally breaks open.
 
 ## Carry-forward state
 
@@ -34,10 +29,10 @@ tool_uses: 0
 
 **Principals**
 
-- Vee — woman, 21, college junior; tall, athletic, dark-red-haired/freckled ex-synchronized swimmer restored by water. Drawn to Randi, visibility, and Pace; chose kiss/no-kiss exception, truck exposure, sex, “Trade” panties, repair, induction/Halloween display, early return, and altered explicit Pace story to Randi. Privately certain she loves Pace; Cassie heard “Maybe… I think so.” Sent Pace an erotic photo after his promise never to share; showed Randi the full version. Flying home for Thanksgiving. In stats with Randi/Cassie, quietly protects Randi after recognizing her father’s company as extreme PPP/payroll outlier. Returned to Pace after five school nights away; asked him to scent her washed flannel all weekend. Told parents Pace is her question-marked boyfriend; proud but cannot tell them he made her induction dress. Offered: “I had been eating crackers my whole life… And you fed me a meal”; got tenderness, not the sentence back. After public dinner/sex and a sleepless night in his shirt, realizes its warmth is only her own heat returned. At Pace’s house she demands what she is to him “out there,” rejects actions over words, and leaves crying rather than accept soothing touch.
-- Randi — woman, 21; Pace’s current intimate partner, polished Standards-board member with a single. Desired Vee, encouraged Pace’s approach, validates Vee’s agency, calls her dear/best friend, kisses her, and receives Vee’s Pace confession/photo intensely. Joins Vee’s Tue/Thu anthropology. In stats, apparent father-owned Miranda Holdings took PPP while cutting payroll: “Cheating bastards.”
-- Pace — man, 22, young mathematician; Randi’s attentive, sexually dominant but careful partner; Vee’s tutor/date/lover. Cooks, feeds, makes clothes/furniture, gives Vee drawer space, holds her entrusted photo, and cares without demanding speech. Does not return to parents; will feed Sheri at Thanksgiving. Receives Vee’s return without reproach, has explicit sex, makes pizza, restores flannel scent, and made her unaffordable-looking induction dress. Responds to Vee’s meal/crackers declaration: “I love how good we are together” / “I never had this either,” tenderly but without saying love. Public restaurants overwhelm him; elsewhere: “I can. And I do. I’m listening now.” When Vee asks for a public name, calls her the most important person in his life, says “Words are cheap,” asks her to believe actions, and reaches to comfort her as she leaves.
-- Cassie — woman; Vee’s quiet stats companion/apparent housemate, dry/protective. Notes absences; gently asks whether Vee loves Pace. Father was laid off in 2020; PPP data suggests employer loans rose as jobs fell. Hears Vee’s partial Thanksgiving account and carefully asks what Pace is to her. Sleeps below Vee during Vee’s cold, sleepless night.
+- Vee — woman, 21, college junior; tall, athletic, dark-red-haired/freckled ex-synchronized swimmer restored by water. Drawn to Randi, visibility, and Pace; chooses exposure, sex, repair, display, return, and speech. Privately certain she loves Pace; Cassie heard “Maybe… I think so.” Sent Pace an erotic photo after his promise never to share; showed Randi the full version. In stats with Randi/Cassie, protects Randi after recognizing her father’s company as extreme PPP/payroll outlier. Told parents Pace is her question-marked boyfriend but not that he made her induction dress. Offered Pace love through “crackers”/“meal,” received tenderness but no “love.” Alone after public dinner/sex, realizes his shirt’s warmth is only her own heat; confronts Pace for a public, speakable name and leaves crying when he cannot give one.
+- Randi — woman, 21; Pace’s current intimate partner, polished Standards-board member with a single. Desired Vee, encouraged Pace’s approach, validates Vee’s agency, calls her dear/best friend, and kisses her. Receives Vee’s Pace confession/photo intensely. Joins Vee’s Tue/Thu anthropology. In stats identifies apparent father-owned Miranda Holdings’ PPP/payroll pattern: “Cheating bastards.”
+- Pace — man, 22, young mathematician; Randi’s attentive, sexually dominant but careful partner; Vee’s tutor/date/lover. Cooks, makes clothes/furniture, gives Vee drawer space, holds her photo, and does not return to parents; will feed Sheri at Thanksgiving. Made Vee’s induction dress. Answers Vee’s veiled love with “I love how good we are together” and “I never had this either,” not “I love you.” Public restaurant noise/light/crowds overwhelm him; he says elsewhere, “I can. And I do. I’m listening now.” To Vee’s direct question, says she is “the most important person in my life,” then “Words are cheap. Believe what I do,” and cannot name them.
+- Cassie — woman; Vee’s quiet stats companion/apparent housemate, dry/protective. Notices absences, asks gently about loving Pace and what he is to Vee. Her father was laid off in 2020; PPP data suggests loans rose as jobs fell. Sleeps below Vee during Vee’s cold sleepless night.
 - Sheri — woman; Pace’s longtime cycling companion, bluntly loyal, wary of Vee/Randi complications. Alone for Thanksgiving; coming to Pace’s with pie she will “pretend she made.”
 - Meg — woman; Vee’s warm friend, Danny’s girlfriend.
 - Kayla — woman; Vee’s enthusiastic friend.
@@ -49,32 +44,32 @@ tool_uses: 0
 
 **Relationship ledger**
 
-- **Vee ↔ Pace:** involved / true mutually attracted and involved; consummated? y. Vee privately loves him; he has not said love aloud. Pace has Vee’s private erotic photograph after explicitly promising never to share it; Vee shows it to Randi by choice. Vee told parents he is her boyfriend, with audible uncertainty; cannot tell them the full story or his dressmaking. She asks what she is beyond his private house and for a public name. He calls her “the most important person in my life” but says “Words are cheap. Believe what I do”; she leaves rather than accept touch for speech.  
-  **isolation ↔ belonging:** drawer, home, light bag, flannel, partial parental disclosure, morning choreography, and his listening suggest shared life ↔ guesthood/family-story fears, uncertainty over his response, and leaving his unlocked warm house because welcome does not say who she is publicly.  
-  **used ↔ cherished:** feeding, room, bodily care, photo protection, scent, handmade dress, serious public request, and prepared evening ↔ he offers physical comfort but not the needed word; she refuses his hand.  
-  **desire worked-on-her ↔ desire hers:** arousal precedes speech; Pace used response against denial, and her body registers mismatch ↔ Vee chooses text, display, sex, costumes, speech, return, photo/sending/sharing, scent, public-life question, and anger/tears over a beautiful evening.  
-  **cold ↔ warmth:** “He hadn't said. He never said”; restaurant overload, non-answer, and shirt’s self-returned warmth ↔ reunion, care, food, drawer, flannel, dress, tenderness, “I’m listening now,” and warmed house. “Words are cheap” makes warmth insufficient.  
-  **This chapter:** Vee demands the name she has been unable to ask for; Pace offers importance and actions, not the word. She leaves into the cold, refusing his habitual care as an answer.
+- **Vee ↔ Pace:** involved, now fighting / true mutually attracted and involved; consummated? y. Vee privately loves him; he has not said love aloud. Pace has Vee’s private erotic photograph after promising never to share; Vee showed Randi by choice. Vee told parents he is her uncertain “boyfriend.” Her meal/crackers declaration received warmth, not reciprocal words. She asks whether they are just sex and whether they will be seen publicly; he takes her out, explains overload rather than shame, then cannot give their relationship a name.  
+  **isolation ↔ belonging:** drawer, home, flannel, parents’ partial disclosure, shared routines, and his listening offer shared life ↔ she fears guesthood, cannot fit him into family story, and leaves the welcoming house because private belonging has no speakable place outside it.  
+  **used ↔ cherished:** Bet/consent trouble and her fear shadow intimacy ↔ he feeds, makes room/clothes, tends her, protects photo, restores scent, makes the dress, hears her public request, prepares home, and calls her most important; his hand rises to soothe rather than answer.  
+  **desire worked-on-her ↔ desire hers:** arousal precedes speech and Pace used response against denial ↔ Vee chooses sex, visibility, photo, return, scent, public life, direct speech, and departure rather than touch instead of an answer.  
+  **cold ↔ warmth:** “He hadn't said. He never said”; restaurant overload, shirt’s self-returned heat, and “Words are cheap” make warmth unreliable ↔ reunion, food, sleep, dress, flannel, tenderness, “I’m listening now,” and his heated home remain real.  
+  **This chapter:** State shifts to fighting: Vee asks for a public, speakable name; Pace offers devotion and acts but not the word, folds inward, and she leaves rather than let his soothing hand replace it.
 
 - **Vee ↔ Randi:** friendly / true mutually attracted; consummated? n/a.  
-  **warmth ↔ cold:** Bright/unfixed eyes, then reassembled grin ↔ hostessing, mimosas, laughter, class, long kiss.  
+  **warmth ↔ cold:** bright/unfixed eyes, reassembled grin ↔ hosting, class, laughter, long kiss.  
   **belonging ↔ isolation:** Vee cannot name her limit; Randi hides desire/tension and Vee does not know her Pace bond ↔ private Saturdays/elective make “just us.”  
-  **cherished ↔ used:** Hidden credit/directives/desire work on Vee; “and you only gave him *half*?” moves her toward more ↔ Randi selects, praises, listens, reassures hunger, receives story/photo, agrees to class.  
-  **desire hers ↔ desire worked-on-her:** Vee takes wrist, asks her out, stops before unchosen arousal, shares photo, extends goodbye kiss ↔ Randi’s story, gaze, kiss, encouragement stir Vee beyond naming.  
+  **cherished ↔ used:** hidden credit/directives/desire work on Vee ↔ Randi selects, praises, listens, receives story/photo, agrees to class.  
+  **desire hers ↔ desire worked-on-her:** Vee initiates, stops, shares photo, extends kiss ↔ Randi’s gaze/story/kiss encourage desire beyond naming.  
   **This chapter:** no change.
 
 - **Vee ↔ herself:** isolated / true self largely unexamined, newly embodied and less able to deny appetite; consummated? n/a.  
-  **isolation ↔ belonging:** Pace’s home/bed/kitchen, Cassie, Randi’s place/plan, parents’ pride, porch, and Pace’s arm ↔ guesthood/rejection, inability to explain Pace or self, and refusal of nameless belonging.  
-  **used ↔ cherished:** fed, pleased, held, tended, room/photo trust, hunger reframed, scent accepted, pride in dress, “meal” ↔ fear of payment/excess and “forgiven” hide need; his cheap-word refusal feels like taking too much without public claim.  
-  **desire worked-on-her ↔ desire hers:** body precedes decision/speech; shame/desire and unanswered mismatch blur ↔ she reaches, dresses, plays, flashes, admits, displays, touches herself, names love, chooses sex/photo/sending/sharing/kiss/return, asks about sex/publicity, and speaks hurt plainly.  
-  **cold ↔ warmth:** care, drawer, trust, hungry-out-loud joy, parents’ pride, listening, and pleasure ↔ shame/photo fear, unanswered love, inability to name Pace, shirt’s false warmth, and choosing cold at his door.  
-  **This chapter:** Vee names the whole scale of her need and holds ground when the answer fails; she leaves hurt, no longer behind a question mark.
+  **warmth ↔ cold:** care, hunger, parents’ pride, sex, porch/listening ↔ shame, unreturned love, inability to name Pace, and choosing cold over false shirt-comfort or wordless soothing.  
+  **belonging ↔ isolation:** Pace’s home, Cassie, Randi, parents, shared routines ↔ guesthood fear, five nights alone, and no clean way to name Pace or herself.  
+  **cherished ↔ used:** fed, held, tended, housed, trusted, proud of dress, “meal” names his care ↔ payment/excess fear and his refusal to spend words make her feel she gives all without receiving what she needs.  
+  **desire hers ↔ desire worked-on-her:** she reaches, dresses, plays, names love, chooses sex/photo/sharing/return/public questions ↔ body answers before speech and recognizes mismatch before mind names it.  
+  **This chapter:** Vee names the mismatch: private care and sex cannot tell her who she is in the world. She refuses to let desire or warmth overrule that knowledge.
 
 - **Randi ↔ Pace:** involved / true involved; consummated? y.  
-  **warmth ↔ cold:** Containment/stillness after Vee-praise ↔ care, sex, kissing, hair stroking.  
+  **warmth ↔ cold:** containment/stillness after Vee-praise ↔ care, sex, kissing, hair stroking.  
   **belonging ↔ isolation:** Pace/Vee costs Randi alone ↔ private game/bed share unsayable feeling.  
-  **cherished ↔ used:** He directs desire’s circumstances and Vee-tenderness costs Randi ↔ checks, cares, waits, wants joy.  
-  **desire hers ↔ desire worked-on-her:** his shaping coexists with her begging, orgasm, initiation, setting pace ↔ Vee-desire remains entangled with his opening.  
+  **cherished ↔ used:** he directs desire’s circumstances and Vee-tenderness costs Randi ↔ checks, cares, waits, wants joy.  
+  **desire hers ↔ desire worked-on-her:** his shaping coexists with her begging, orgasm, initiation, pacing ↔ Vee-desire remains entangled with his opening.  
   **This chapter:** no change.
 
 - **Vee ↔ Cassie:** friends, apparently casual / true Cassie quietly watchful; consummated? n/a. Cassie receives Vee’s Pace account, notes absences, leaves love admission unpressured.  
@@ -95,11 +90,11 @@ tool_uses: 0
 **What I know that they don't**
 
 - Randi decided Pace may have polished face but not bench-self; Pace thinks she rests happily after a beautiful night.
-- Pace’s tenderness appears genuine: checks Randi’s safeword/comfort; protects Vee’s dignity, waits for choices, feeds her, makes clothes, accepts belongings, tends burn, leaves Nail rather than retaliate, takes her request to go out seriously, explains overload without blame, prepares a warm evening. Yet he treated Vee’s physical response as proof against verbal resistance and adds unannounced “bet” terms; asked for a name, he substitutes actions and touch.
+- Pace’s tenderness appears genuine: he checks Randi’s safeword/comfort; protects Vee’s dignity, waits for choices, feeds/makes/tends her, leaves Nail rather than retaliate, takes public request seriously, and explains overload. Yet he treated Vee’s physical response as proof against verbal resistance and adds unannounced “bet” terms.
 - Jacket says two people planned “the best year” of Vee’s life without her knowing; strongly suggests Pace/Randi. Prepared arrival, invitation, pre-bought silk support it; no shared plan confirmed.
 - Vee does not know Pace/Randi are intimate partners, Randi encouraged his approach after desiring Vee, or Randi’s warmth contains tension.
-- Vee does not know Randi privately loves Vee’s devotion to Pace and finds her embarrassment/body hot; brunch’s unsteady attention to account/full photo confirms active desire.
-- Randi does not know Vee’s repair with Pace became full reconciliation, she stayed through Sunday night, she has recognized love, that Vee returned to Pace after five nights away, or that Vee has now left his house after he would not name their bond.
+- Vee does not know Randi privately loves Vee’s devotion to Pace and finds her embarrassment/body hot; brunch’s attention to account/full photo confirms active desire.
+- Randi does not know Vee’s repair with Pace became full reconciliation, she stayed through Sunday night, she has recognized love, or that Vee returned to Pace after five nights away.
 - Pace will not know, unless Vee says, that drawer makes her read his care as wordless love.
 - Vee cannot tell whether Randi understood bathroom response or whether “Sticky fingers?” only meant pastries.
 - Pace does not know Cassie heard Vee say she thinks she loves him.
@@ -108,22 +103,22 @@ tool_uses: 0
 - Cassie does not know Miranda Holdings, the largest PPP/payroll outlier, appears to belong to Randi’s father. Randi does not know Vee recognized it; Vee does not know whether Randi will tell Cassie or act on it.
 - Vee’s parents know only the cropped induction photograph and Vee’s partial, question-marked “boyfriend” account of Pace; they do not know he made the dress, owns a house, cooks for her, or the sexual/intimate fuller reality.
 - Pace does not know that Vee now carries his response to her veiled declaration as an unanswered question; Vee does not know whether he understood the declaration and chose different words, or missed its meaning.
-- Pace does not know that Vee’s question is no longer only about going out, but about whether his tenderness, desire, and life are reciprocal enough to name; he now knows she needs a public answer but may not understand how fully his refusal to name it has wounded her.
+- Pace does not know that Vee’s question is no longer only about going out, but about whether his tenderness, desire, and life are reciprocal enough to name.
 - Pace does not know that Vee spends a sleepless night unable to use his shirt’s scent as a substitute for his answer; Vee still does not know whether he understands the name she needs.
-- Vee does not know whether Pace’s closing silence means he cannot name their relationship, will not, or needs time; she leaves before learning anything more.
+- Vee does not know that Pace’s “most important person” is the fullest naming he offers before he shuts down; Pace does not know that “Believe what I do” confirms for her that his care cannot stand in for the public, speakable relationship she needs.
 
 **Motifs**
 
-- **Locks / doors:** private welcome and withheld truth: Pace’s door/drawer versus closed past/family accounts; unlocked door proves welcome cannot supply a public word.
-- **Face / eyes / polished surface:** managed debt/desire, cropped family image, Randi’s unfixed face; Pace strains to return attention in public, then shuts at Vee’s request for words.
-- **Appetite / warmth:** food, touch, shelter, dress, flannel and “crackers”/“meal” oppose cold, fear, and absence; shirt warmth is self-returned, while heated house cannot answer her.
-- **Held breath / not-going:** closed past; Randi’s stillness; Vee’s restraint, indirect love sentence, and sharper question; she leaves without entering or taking the evening.
-- **Pointing / choosing:** Pace/Randi choose Vee; Vee chooses visibility, desire, disclosure, return, public dinner, cold honesty, and departure when unnamed.
-- **Wind / pinned versus loose hair:** Randi’s control versus Vee’s joy/exposure.
-- **Words retained versus lost:** “Maybe… I think so,” “Never. I’d never share your photograph,” “This is my home,” “I don’t go back,” “He hadn't said. He never said,” “finally hungry out loud,” “with the body attached,” “Just us,” “Cheating bastards,” “All weekend,” “Smelling like me,” “I told them he was my boyfriend. I think I put a question mark on it,” “Both,” “I had been eating crackers my whole life,” “I love how good we are together,” “Is this what we are now?,” “I’m listening now,” “You’re the most important person in my life,” “Words are cheap,” “Believe what I do,” “Who am I to you?” and “you still won't spend them on me.”
-- **Water / hands:** water frees/polices Vee; hands mark care, restraint and choice. Pace’s bodily care gives release but cannot name them; his lifted hand becomes refused comfort.
-- **Leave no trace / making / carrying forward:** drawer/photo, flannel, handmade dress, and domestic making make care legible; Vee cannot carry shirt or prepared-house life beyond the silence.
-- **Lamp / hills / outliers:** Miranda, dawn porch, and bright/noisy restaurant make visibility overwhelming; dorm greyness and low lamplight frame unanswered private warmth.
+- **Locks / doors:** Pace’s door/drawer welcome Vee while past/family truth stay closed; Randi offers private space. The unlocked door and Vee’s exit make private welcome versus a name beyond the threshold.
+- **Face / eyes / polished surface:** managed debt/desire, bare Cassie, Randi’s unstable face, cropped family image; Pace’s restaurant gaze strains away and back, then his face shuts under demand for words.
+- **Appetite / warmth:** food, touch, home, dress, flannel, and “crackers”/“meal” measure care against cold, shame, and absence. Shirt heat proves only self-returned warmth; heated house/food/wine are insufficient without a name.
+- **Held breath / not-going:** Pace’s closed past; Randi’s stillness; Vee’s restraint, meal declaration, unsent text, and direct question. She drives away crying and does not return.
+- **Pointing / choosing:** Pace/Randi choose Vee; Vee chooses visibility, refusal/speech, photo, kiss/class, return, uncertain “boyfriend,” public dinner, cold honesty, direct question, and exit.
+- **Wind / pinned versus loose hair:** Randi’s control versus Vee’s joy/exposure: scrunchy, swept-back photo hair, Pace’s hand.
+- **Words retained versus lost:** “Maybe… I think so,” “Never. I’d never share your photograph,” “This is my home,” “I don’t go back,” “He hadn't said. He never said,” “finally hungry out loud,” “with the body attached,” “Just us,” “Cheating bastards,” “All weekend,” “Smelling like me,” “I told them he was my boyfriend. I think I put a question mark on it,” “Both,” “I had been eating crackers my whole life,” “I love how good we are together,” “Is this what we are now?,” “I’m listening now,” “You’re the most important person in my life,” “Words are cheap,” and “Believe what I do.” Her empty text field and his answer leave naming unresolved.
+- **Water / hands:** water frees/polices Vee; hands mark care, restraint, consent, making, and choice. Pace’s bodily care and raised hand cannot name the relationship; Vee refuses touch instead of a word.
+- **Leave no trace / making / carrying forward:** drawer/photo, domestic making, flannel, dress, and carried repair oppose bare counters and family/data surfaces. The shirt and bag left in car refuse a usual carried-forward weekend life.
+- **Lamp / hills / outliers:** Miranda is literal/emotional outlier; dawn porch briefly opens intimacy. Restaurant glare/noise and phone/window grey show unanswered visibility; Pace’s lamplight/porch remain private beauty Vee cannot accept as enough.
 
 **Symbolism noticed**
 
@@ -132,15 +127,15 @@ tool_uses: 0
 - Froyo/pool/deep water; tea cage/cracked window; Six-Fourteen/flannel/truck door/two towels: freed body, contained heat, shelter/concealed intimacy.
 - Burgundy silk/riser/tape/heat/gown/mirror; fra diavolo/plain sheets/panties/“Trade”/plum toes/mimosas: magnificence, hunger met, chosen readiness/desire.
 - Simpson’s paradox/zipped garment bag; black heels/credit card: reversed truths; visibility’s private cost.
-- Lamp/fire/quilt against black glass; scar/“Not tonight”; dance frame: warmth against cold, deferred trust, closeness/resistance enabling movement.
+- Lamp/fire/quilt against black glass; scar/“Not tonight”; dance frame: warmth against cold, deferred trust, closeness/resistance.
 - Cold water/sad-clown mirror/borrowed shoes and silk; bet/bare heels/prepared bed: self-punishment to possession; tenderness/coercive pressure inseparable.
-- Green scrunchies/curry/top drawer; bistro glass/bathroom light/pastry glaze; Vee’s photograph; Pace’s home/“I don’t go back”: domestic place, ambiguous exposure/knowledge, transferable trust, refuge.
-- Running yolk/hollandaise; isolated PPP point/glass-walled room; washed flannel/renewed scent: abundance, visible sheltered family fact, renewable attachment.
+- Green scrunchies/curry/top drawer; bistro glass/bathroom light/pastry glaze; Vee’s photograph; Pace’s home/“I don’t go back”: domestic plenty, public exposure/ambiguous knowledge, transferable trust, refuge.
+- Running yolk/hollandaise; isolated PPP point/glass-walled room; washed flannel/renewed scent: permitted abundance, sheltered family fact, renewable attachment.
 - Cropped induction picture/question-marked boyfriend: family-approved surface cannot contain handmade, sexual, wordless relationship.
 - Crackers/meal; moon into dawn; stopped dryer: care as indirect love declaration and unequal exchange.
-- Chili’s nachos versus Pace’s composed food; loud screens/music versus quiet listening: public excess against private attention; care without a name may not become visible life.
-- Shirt smell/returned body heat: care inadequate once Vee warms herself alone.
-- Unlocked door, dinner, wine, untouched porch: genuine welcome cannot make her place speakable.
+- Chili’s nachos versus Pace’s composed food; loud screens/music versus quiet listening: public excess versus private attention; care without a name may not become visible life.
+- Shirt smell/returned heat: material care inadequate when she warms herself alone.
+- Unlocked door/prepared heat/poured wine/empty-handed exit: genuine invitation cannot substitute for a name beyond the threshold.
 
 **Open questions**
 
@@ -160,22 +155,26 @@ tool_uses: 0
 - How will Thanksgiving with Sheri change Vee’s view of Pace’s history?
 - What will “just us” in anthropology bring out?
 - Will Randi tell anyone Miranda Holdings appears to be her father’s, and how will project knowledge change what the three women can say?
-- Can Vee find a word for Pace that she can say to Cassie, her parents, and eventually Pace himself—and what would change if she did?
-- Did Pace understand Vee’s meal/crackers sentence as love, and if he did, why could he not answer it directly? How long can Vee protect their warmth by refusing to ask?
-- Does Pace understand that Vee’s question is no longer only about going out, but about whether his tenderness, desire, and life are reciprocal enough to name?
-- Will Vee tell Pace that his shirt no longer comforts her when it has to stand in for an answer?
-- Will Pace follow Vee after she leaves, and can he answer her without retreating into care instead of words?
+- Can Vee find a word for Pace she can say to Cassie, parents, and Pace—and what changes if she does?
+- Did Pace understand meal/crackers as love; if so, why no direct answer? How long can Vee protect warmth by not asking?
+- Does Pace understand Vee now asks whether tenderness, desire, and life are reciprocal enough to name?
+- Will Vee tell Pace his shirt no longer comforts her when it replaces an answer?
+- Will Pace come after Vee, and can he offer a word rather than another act of care?
+- What does “most important person in my life” mean to Pace if he cannot name Vee otherwise?
 
 **How I feel — overall**
 
-I am cold with Vee at the threshold. Pace’s care still feels sincere and profoundly tender, but his refusal or inability to name her has made that tenderness unbearable rather than reassuring.
+The warmth remains real but bruised: Vee asks the question she carried, Pace cannot answer in the needed form, and she is cold outside the unlocked door.
 
 ### Chapter record
 
+- **Title:** “Believe Me.”
 - **Characters appearing:** Vee and Pace.
-- **Characters named only:** Cassie; Vee’s father; Vee’s mother.
-- **Setting:** Pace’s house and driveway at night, with trees around the drive. The house has low lamplight rather than overhead light; it is heated warmly. The kitchen is visible beyond the entry; a porch is planned for later because the night is clear.
-- **Vehicle:** Pace’s pale truck is in the driveway. Vee arrives in her own car; its engine ticks down after she parks.
-- **Objects/clothing:** Vee wears a coat buttoned to her throat and keeps her hands in its pockets. Her bag remains in her car rather than going to the chair by the door where she usually puts it on overnight stays. Pace has a towel over one shoulder. Two glasses of wine are already poured on the kitchen counter. Chicken, rich and spiced, is cooking low on the stove.
-- **Sensory details:** The cold takes Vee’s breath outside. Inside, the house is too warm for Pace and warmed beforehand for Vee. It smells of Pace—clean warmth, sawdust, and salt—and food. Quiet, slow piano music “moved like water.” Vee tastes something like a coin held beneath her tongue.
-- **Action:** Pace approaches Vee for his usual door kiss, but she does not reciprocate. She asks what they are doing and what she is to him; he offers the planned evening, says she is “the most important person in my life,” asks whether any of her friends have a relationship she would rather have, says “Words are cheap,” and tells her to believe what he does. Vee cries, turns toward the door, refuses his lifted hand, opens the door, and leaves into the cold after he says her name once.
+- **Characters named/mentioned:** Cassie; Vee’s father; Vee’s mother.
+- **Setting:** Pace’s house and driveway at night. His pale truck is in the drive against the trees. The house windows hold low lamplight rather than overhead light. It is cold outside and very warm inside.
+- **Arrival:** Vee pulls in, remains in her car while the engine ticks down, then leaves her bag in the car. Her shoulders are raised toward her ears, jaw set; she wears a coat buttoned to the throat. The front door is unlocked.
+- **House details:** Pace has raised the heat hours earlier. A chair by the door is where Vee’s bag goes on nights she stays. The house smells of Pace—clean warmth, sawdust, and salt—and rich spiced food low on the stove. Quiet, slow piano music is playing.
+- **Pace’s preparation:** Pace comes from the kitchen with a towel over one shoulder. Two glasses of wine are poured on the counter, one for Vee. He has chicken cooking and proposes dinner followed by sitting on the clear porch to see everything.
+- **Action/dialogue:** Pace approaches for his usual door kiss; Vee keeps her hands in her pockets and does not meet it. She asks, “What are we doing?” then asks what she is to him. She says he takes her into his warm house every weekend, prepares heat/wine/food, cooks and feeds her, touches her carefully, and that their sex is the best of her life. She says he makes her feel her body comes with her attached and asks what their relationship is “out there,” including what she can tell Cassie and her parents.
+- **Pace’s answers:** Pace says, “You’re the most important person in my life.” When Vee asks what that makes her, he asks whether any of her friends have a relationship she would rather have. Later he says, “Words are cheap. Believe what I do.”
+- **Ending:** Vee cries, turns toward the door, and opens it. Pace unfolds his arms and lifts a hand toward her; he says “Vee” once. She leaves into the cold and does not return inside.

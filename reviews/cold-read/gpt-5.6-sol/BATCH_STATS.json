@@ -5,23 +5,23 @@
   "generated": 1,
   "skipped": 0,
   "total_cost": null,
-  "total_input": 27795,
-  "total_output": 10359,
-  "total_tokens": 38154,
+  "total_input": 27796,
+  "total_output": 9021,
+  "total_tokens": 36817,
   "per_chapter": [
     {
       "slug": "believe-me",
       "title": "Believe Me",
       "status": "generated",
       "cost": null,
-      "input": 27795,
-      "output": 10359,
-      "totalTokens": 38154,
-      "promptTokens": 27795,
-      "reasoningTokens": 146,
+      "input": 27796,
+      "output": 9021,
+      "totalTokens": 36817,
+      "promptTokens": 27796,
+      "reasoningTokens": 166,
       "cacheRead": 9984,
-      "duration_s": 189.7,
-      "wall_s": 189.9,
+      "duration_s": 164.9,
+      "wall_s": 165.0,
       "path": "reviews/cold-read/gpt-5.6-sol/believe-me.md"
     }
   ]

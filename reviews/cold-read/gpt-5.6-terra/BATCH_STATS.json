@@ -5,23 +5,23 @@
   "generated": 1,
   "skipped": 0,
   "total_cost": null,
-  "total_input": 25366,
-  "total_output": 6734,
-  "total_tokens": 32100,
+  "total_input": 25371,
+  "total_output": 7033,
+  "total_tokens": 32404,
   "per_chapter": [
     {
       "slug": "believe-me",
       "title": "Believe Me",
       "status": "generated",
       "cost": null,
-      "input": 25366,
-      "output": 6734,
-      "totalTokens": 32100,
-      "promptTokens": 25366,
-      "reasoningTokens": 72,
+      "input": 25371,
+      "output": 7033,
+      "totalTokens": 32404,
+      "promptTokens": 25371,
+      "reasoningTokens": 58,
       "cacheRead": 9984,
-      "duration_s": 123.8,
-      "wall_s": 124.0,
+      "duration_s": 129.0,
+      "wall_s": 129.2,
       "path": "reviews/cold-read/gpt-5.6-terra/believe-me.md"
     }
   ]

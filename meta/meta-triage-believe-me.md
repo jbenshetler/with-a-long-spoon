@@ -87,15 +87,65 @@ reading; none acquired suspicion that Pace's care is fake. `:15` **stands**.
 
 But the *evidence* rotated, unanimously and worth recording:
 
-- **All five previously cited his face opening as the proof. None cite it now.**
-  Note the event was **never cut** — "His face opened when he saw her" is still on
-  the page. What was cut is its status as **evidence**: "the way it opened every
-  time" converted a momentary beat into a *pattern claim*, and a pattern claim is
-  what a cold reader reaches for when arguing his care is real. One door-opening
-  proves nothing; a habit does. The gladness is no longer independently quotable,
-  so it stopped being quoted. (The ritual itself did not leave the sentence —
-  "the kiss he always gave her at the door" still carries habit two clauses later,
-  just not attached to his gladness.)
+- **The face motif went from two-sided to one-sided — the real cost of the pass.**
+  Pre-edit, four of five cited the opening as belief-evidence: opus ("I believe
+  that opening"), terra ("I believe his face opening at the door"), sol ("his face
+  opening at her arrival. I melted at all of that"), gpt-5.5 ("The heat, the
+  preparation, his face opening… all feel real"). **Post-edit, every surviving
+  mention of his face is the *shutting*** — opus "the shut face," terra "something
+  'shut' across his face," sol "when something in his face shuts" — and sonnet and
+  gpt-5.5 do not use the word "face" at all (sonnet 3→0, gpt-5.5 2→0; panel-wide,
+  *open* fell everywhere and *shut* rose).
+- The event was **never cut** — "His face opened when he saw her" stayed on the
+  page. What was cut was its status as **evidence**: "the way it opened every time"
+  converted a momentary beat into a *pattern claim*, and a pattern claim is what a
+  cold reader reaches for when arguing his care is real. One door-opening proves
+  nothing; a habit does.
+- **But the deeper damage is structural.** The face is the chapter's own
+  before/after instrument — it opens at the door, it shuts at the question. Losing
+  the opening's weight **broke the pair**: the shut at `:55` no longer has a
+  counterpart to reverse, so readers register it as a standalone event rather than
+  a turn. This is the likeliest driver of the Pace-hardens-toward-decision shift
+  below — *the only thing his face does now is close.*
+### The face fix — two attempts, and the ruling (2026-08-13)
+
+**Attempt 1 — a period for a comma, no new words.** "His face opened when he saw
+her**.** He crossed to her…" Theory: give the beat its own stop and restore
+prominence without restoring marker density. **FAILED.** Re-ran terra + sol: terra
+still cited only the shut; sol did not use the word "face" at all. Scores dipped
+(terra Romance 3→2, sol Heat 1→0, Romance 3→2). **Lesson: the cut clause was not
+supplying emphasis, it was supplying the *claim*. Punctuation cannot manufacture a
+pattern claim.** Reverted.
+
+**Attempt 2 — restore "the way it opened every time" verbatim. ADOPTED.** `:15`
+now reads as it did pre-edit *except* that "waiting" stays cut, so the face clause
+is the sole delta. Re-ran terra + sol:
+
+- **terra:** "Pace's face opening for the usual kiss got me too. I still believe
+  the welcome is real."
+- **sol:** "the waiting wine, Pace's face opening at the sight of her—all the
+  things that usually make me melt now press directly on the bruise. I still
+  believe his welcome is real."
+- **The two-sided motif is back in one reaction** (sol, `face 2 / open 4 / shut 2`,
+  up from `0/3/1`): "His face shutting and his folded arms are the first moments
+  here that make me recoil from him. I do not know whether he cannot find the word,
+  rejects the available words, or refuses something they imply. The page leaves that
+  open. What is no longer open is that, when she asks directly, he withholds."
+  **The best Pace formulation any reader produced across four runs** — the *whether*
+  stays open, the *that* is settled — and the recoil is stronger than in any earlier
+  read *because the opening preceded it*. A shut needs an open.
+- sol's scores recovered to pre-edit (Heat 1, Romance 3).
+
+**Standing ruling: `:15`'s "the way it opened every time" is now PROTECTED.** It
+was cut once on a density argument and the cut cost the chapter its before/after
+instrument; three ritual markers in nine lines is the working number, four was
+ambient. Do not re-flag it as repetition. The other three thinning cuts stand.
+
+**Method note for future experiments:** across four runs of near-identical prose,
+single-reader *shadings* (terra's Pace reading occupied three different positions;
+Romance drifted 3/3/2/2 on identical glosses) proved unreliable, while
+**presence/absence facts** — is this line in the reader's evidence list at all —
+held consistently across readers and runs. Weight the latter; discount the former.
 - **Replacements, per reader:** opus → the heat brought up hours early; sonnet →
   the reaching hand; terra → unlocked door, warm house, consistency with the man
   she's known; sol → the declaration plus his softening at her tears; gpt-5.5 →
@@ -104,7 +154,10 @@ But the *evidence* rotated, unanimously and worth recording:
   marker now lands as its paragraph's payoff instead of the second of three, which
   is exactly the split the thinning was designed around.
 
-**Pace hardened toward *decision* — 4 of 5**, without any reader crossing into
+**Pace hardened toward *decision* — 4 of 5** *(recorded as observed, but see the
+method note below: later runs showed this class of shading is unstable run-to-run,
+and both codex readers reverted toward the hedge on re-read. Treat as suggestive,
+not established.)*, without any reader crossing into
 "he was faking." terra: "plainly his sincere conviction" → "exactly the refuge he
 uses… unable—or unwilling," and **attributes the shift directly to the `:29`
 attribution cut** (with the author's warrant gone, the reader weighs the line as
@@ -172,9 +225,16 @@ as suspect absent multi-reader evidence.**
   a *strength* pre-edit ("I admire that she refuses to let his true counterquestion
   displace hers"). A lone reader inverting on an unedited line is taste, not signal;
   four of five readers raise nothing here, and the obliqueness is the character
-  (his grammar is plans and acts, not names). Consistent with the 2026-07-30 ruling
-  that Pace's literalism at "I thought we'd have the evening" is rescued by the
-  page. Re-open only on multi-reader corroboration.
+  (his grammar is plans and acts, not names). By the final run sol had integrated it
+  approvingly — "it is true, intimate, and still an evasion… pulled against me
+  exactly as it pulls against Vee." Re-open only on multi-reader corroboration.
+- **Pace's "I thought we'd have the evening"** — the 2026-07-30 left-standing item,
+  which **recurred as sol's sole friction in two consecutive later runs**. Still
+  **left standing**: sol self-resolves it both times ("his literal answer fits what
+  I know of him, and the text lets Vee see him turn the words over rather than
+  making him coy"). Logged because it is now a *recurring* sol item rather than a
+  one-off — a persistent soft spot for one reader, self-rescued by the page each
+  time, and never raised by any other reader.
 - **`:35`'s "such care" / "this precious thing"** — the two abstract phrases in an
   otherwise concrete speech; "precious thing" flagged as greeting-card diction.
   **Author ruling: both stand**, on the same principle as the questions above —
