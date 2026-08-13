@@ -1480,6 +1480,13 @@ rule (#36, rule the shape never the count), no quota and no trigger count is
 attached; a Volume Two instance is ruled on its merits, not automatically
 flagged.
 
+*Ruled-on-merits instance — `fairytale:125` ("began to put **the face** back on")
+is a SANCTIONED Randi/Vee mirror (author, 2026-08-13, Fairytale line edit).* Not
+dilution: the article ("the face," not "her face") marks it as the applied,
+not-hers surface, and Fairytale is the chapter where Randi's surface/depth split
+is the subject — she and Vee both rebuild a public self. Do not flag it as
+signature-verb dilution.
+
 *Why `in-his-hands:47` in particular must not be varied.* It is the hinge of
 the photograph beat — she goes to the mirror to build "the version of herself
 she wanted him to keep," and Pace then refuses that version and poses her
@@ -1688,7 +1695,11 @@ later — raised at this review and ruled a keep on the same call.
   Cross-chapter payoff the per-chapter editor cannot see — **do not re-raise.**
 - **"the room roared"** (`under-the-rug:43`) vs `fairytale:101` ("the room
   roared around them") — near-twins at opposite valences (accusation vs.
-  exhilaration). Not ruled; carry to Fairytale's review, which owns the pair.
+  exhilaration). **Ruled (author, 2026-08-13, Fairytale line edit): `under-the-rug:43`
+  keeps "roared"; Fairytale varied** to "the room erupted around them and silver
+  came down out of the dark of the ceiling" (the erupt + falling-silver leans into
+  the NYE/Gstaad fairytale and cashes the `:89` white-and-silver palette on the
+  reread). Pair resolved — do not re-raise.
 - **"like a light turned up"** (`under-the-rug:53`) — checked against Randi's
   attention-as-lamp family (PROTECTED #18). Different character, different
   sense (Pace's ease returning); **not** in that family.

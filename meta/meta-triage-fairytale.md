@@ -1,3 +1,65 @@
+# Triage — Fairytale (line edit, 2026-08-13)
+
+True line edit (`/wals-line-edit fairytale`). 12 findings + 1 minor; 10 applied,
+3 left standing. Reconciled against this triage doc, the style suppressions, the
+`echo-rulings.md` ledger, and all 7 cold reads. The chapter's spine (Pace
+comparison, sandwich, mirror, Vee turn, "Every word of it true. None of it the
+thing") was untouched — findings sat in connective tissue.
+
+## Applied
+
+- **:15** — cut "delightedly" (adverbial delight-label; echo-ruling #30 applied,
+  book-wide FIX-AT for Randi).
+- **:101** — "the room roared around them" → "the room erupted around them and
+  silver came down out of the dark of the ceiling." Resolves the echo pair with
+  `under-the-rug:43` (which keeps "roared"); the erupt + falling-silver leans
+  into the NYE/Gstaad fairytale and cashes the `:89` white-and-silver palette on
+  reread. Recorded in `echo-rulings.md`.
+- **:125** — cut the trailing "and it had touched the surface of her and gone no
+  deeper." Surface/depth was stated in adjacent paragraphs (:125 tail and :127);
+  **:127 is the stronger occurrence and was kept** — the redundancy was trimmed
+  from the weaker instance. Protected line ("the best the acceptable world could
+  do… a faultless man asleep in a faultless room, everything done to her and done
+  well") untouched.
+- **:107** — "never once asked" → "never asked" (thinned "never once" ×3 →
+  reserved for :133 "never once belong" and :139 "never once before said").
+- **:137** — cut "and turned it over" ("turned it over" appeared at :97 and :137;
+  :97's crisper occurrence kept).
+- **:97** — "the white-gold band moved down her wrist and caught on the heel of
+  her hand, unable to be slid off" → "the tight white-gold band caught on the heel
+  of her hand." Killed the inert passive; "tight" carries the locked-on point
+  (motif planted :7 "locked on her wrist", :79 "never came off").
+- **:77** — "left her shoulders bare and gave the room her back" → "left her
+  shoulders and back bare." Removed the repeated "gave X to the room" construction
+  (fired twice in one ¶; the eyes keep the sole "gave them to the room") while
+  folding in the bare-back detail.
+- **:7** — "Her father ate heartily" → "Her father enjoyed a rare steak and eggs."
+  Fixed hearty/hearty and eat/eating echoes; concrete rich/masculine plate against
+  the women's austere ones; "enjoyed" plays against "eating her revulsion."
+- **:7** — cut "on the right" (redundant with "across from her mother").
+- **:91** — cut "on purpose" (redundant with "made herself"; the sentence itself
+  remains triage-retained from 2026-07-30).
+
+## Left standing — do not re-litigate
+
+- **:127 surface/depth "drumbeat."** The surface/depth claim recurs (:117 sandwich,
+  :121 "remained unmoved", :127 "never found her underneath") as designed hammering
+  so the mirror lands as a trapdoor. Only the weaker :125 restatement was trimmed;
+  :127 stands. Do not re-flag :127's "never found her underneath / He was safe."
+- **:71 / :81 forward-projection doubling** ("She could see the whole thing from
+  here" / "ran the whole night through, how it would go"). Designed characterization
+  — Randi lives everything as a pre-written story; the payoff is :145 (giving Vee
+  "the fairytale"). opus flagged the adjacent "daughter she didn't have yet" double
+  and allowed it. Stands.
+- **:7 "exchanging affections."** The arch abstraction is deliberate — affection as
+  transaction, shown-not-labeled; the surrounding paragraph already dramatizes the
+  performance. "performing affections" rejected as on-the-nose (narrator labeling
+  what the scene proves). Stands.
+
+Line-edit verdicts re-open on a text edit to the named passage.
+
+---
+
 # Triage — Fairytale (timeline sweep, 2026-08-03)
 
 ## Left standing — do not re-litigate
