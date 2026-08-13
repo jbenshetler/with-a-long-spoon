@@ -67,3 +67,24 @@ Any later edit must not damage these:
 - **MIRH → Miranda Holdings "a little neat"** (gpt-5.5, lone, and they bought it). Working as designed: MIRH is Randi's own labeling convention — her name rendered as the villain-tag by her own visualization (`meta-note-outlier.md` § MIRH).
 - **Closing image leans "a half-inch" toward telling the moral** (fable-5, lone, "but it earned it"). Working as designed: the closing outlier-image deliberately carries the reader-ahead instead of the narrator (`meta-note-outlier.md` § register).
 - **"Worst point in the county" pushes slightly hard** (gpt-5.5, lone, self-dismissed). Taste; not actionable.
+
+---
+
+# Triage — The Outlier (line edit, 2026-08-12)
+
+True line-edit pass (`audits/line-edit/outlier.md`), cold-read-enriched (7-model panel mined for line-level praise/criticism). 19 craft findings + 1 reader-bonus. Fifteen applied, four left standing. Full ruling list in the report's `## Author rulings` section.
+
+## Applied (summary)
+
+Near-all one fault — an exact beat, then the same beat a degree less exactly. Cuts: the closing hundred-thousand image reprise at :83 (kept only at :95); the second stillness simile ("stops breathing") at :55; the triple "watched" collapsed to one lens at :83; the four-"know" pile at :63 (+ "before she **understood** she was reading it"); the "handed/hand" collision at :93 (handed→**dealt**); Vee's three-appositive CV at :31 (kept "economics major"); Randi's redundant "the proof" at :45; the panel-one button trimmed to "and drank nothing" at :33; the middle slide-click at :11; "the coffees after" at :17; "and complex" at :11; the professor's "flat, weatherless"→**"rote"** at :11 (freeing "flat" for Cassie's reader-praised voice-print); the doubled "Randi thought" at :25; "thin," from :29; "glass" from the middle glass-room at :39; the doubled gloat-denial at :41.
+
+## Left standing — do not re-litigate
+
+- **Doubled "checking" in the tire simile (:11)** — *"checking the deck like a man checking the pressure in a tire."* The repeated verb is the simile's hinge (checking X like a man checking Y), not a slip; opus quoted it approvingly. Register, kept.
+- **The professor-callback clause at :49** — *"the kind of point the professor had named at the front of the cold hall."* It reads as pre-explaining the diptych plant, but it is the **grammatical spine** of the fragment (the noun "up and to the right, alone in the white" describes); cutting it leaves modifiers with no landing. Kept whole. (`Well off` = *far off*, off :47 "off on its own" — noted the faint *well-off/wealthy* ghost; left.)
+- **"something a person could ___" ×3 (:63 / :75 / :89)** — the frame recurs, but each instance is anchored: :63 is the **ruled name-origin wording** (See You Later fix), :75 is inside the **reader-praised two-words anatomy**, :89 extends the **reader-praised hands motif** (:87 "somewhere to put her hands"). Loose connective phrasing, not a distinctive image; kept all three.
+- **"There could be no other Miranda." (:65)** — gpt-5.6-sol (lone, soft): over-confirms a link the scene just closed. Kept: it is the **verdict beat** of the designed Miranda toll (:59 entity → :63 remembered name → :65 verdict, `meta-note-outlier.md`), carrying Vee's certainty + the "Randi as one of one" register, not the information (which lands at :63). Prose gives *thin* prior setup — "Miranda" appears nowhere before this scene (only the implicit See You Later pun bit, :39) — so :65 is not redundant with earlier chapters.
+
+## Style-linter (three hits `--ack`'d, prose unchanged)
+
+Edits re-fingerprinted two previously-accepted hits; all left standing, prose intact: `held-past` :71 ("a beat too long/too level" — pre-ruled IGNORE #61b, reader-praised); `there-was-were` :83; `x-not-y` :93 (the kept hedge). Notes in `style/style-allow.toml`.

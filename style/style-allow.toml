@@ -3357,6 +3357,13 @@ text = "She knew the name Miranda — everyone who knew Randi knew it, the long 
 note = "Filing-down = abrasion image, canonical Miranda/Randi motif, not the paperwork tic; author sign-off 2026-07-29"
 
 [[ok]]
+fp   = "019914a868ea"
+rule = "held-past"
+file = "scenes/outlier.md"
+text = "She took a breath a beat too long and too level, a breath with work in it, and did not look away from the page."
+note = "held-past 'a beat too long/too level' — pre-ruled IGNORE per echo-ledger #61b (bare too-adj family); reader-praised stillness beat (opus). line-edit 2026-08-12"
+
+[[ok]]
 fp   = "b7e970b9e73e"
 rule = "look-at-her"
 file = "scenes/outlier.md"
@@ -3406,6 +3413,13 @@ text = "County after county, the loans landed and the payrolls fell anyway, and 
 note = "Re-ack after 2026-07-29 negative-correlation edit in same sentence; the sanctioned clause ('she didn't gloat, there was no gloat in her' — deliberate flat repetition) is unchanged"
 
 [[ok]]
+fp   = "c2c08af5b9ab"
+rule = "there-was-were"
+file = "scenes/outlier.md"
+text = "Vee watched her take it — give Cassie's certainty a nod, because there was nothing else to give it, and close the record with one keystroke."
+note = "'there was nothing else to give it' — previously accepted; re-armed by line-edit fingerprint shift (removed surrounding 'watched'x2), flagged span unchanged. 2026-08-12"
+
+[[ok]]
 fp   = "7f3375170b62"
 rule = "whole-of"
 file = "scenes/outlier.md"
@@ -3418,6 +3432,13 @@ rule = "whole-of"
 file = "scenes/outlier.md"
 text = "Randi's face was doing very little, and the very little was the whole of it."
 note = "Keeper line — 'the very little was the whole of it'; author sign-off 2026-07-29"
+
+[[ok]]
+fp   = "298962f7fe66"
+rule = "x-not-y"
+file = "scenes/outlier.md"
+text = "Vee walked out between her two friends into the gray and thought, not that she let herself think about it much, that Randi had been dealt a rotten thing by a man she'd had the luck to be the daughter of — no hand in it, none of it earned — and that the kindest thing a friend could do was not make her carry it in front of anyone."
+note = "'thought, not that she let herself think about it much' — deliberately kept hedge (characterizing, reader-noted); re-armed by handed->dealt edit downstream. 2026-08-12"
 
 [[ok]]
 fp   = "81a5501797c1"

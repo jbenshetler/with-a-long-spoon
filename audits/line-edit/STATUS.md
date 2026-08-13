@@ -44,7 +44,7 @@ the echo shortlist with the author before per-chapter editing starts).
 | 36 | School Nights | school-nights | reviewed |
 | 37 | In His Hands | in-his-hands | reviewed |
 | 38 | All the Time | all-the-time | reviewed |
-| 39 | The Outlier | outlier | edited |
+| 39 | The Outlier | outlier | reviewed |
 | 40 | The New Ordinary | new-ordinary | reviewed |
 | 41 | Cropped | cropped | reviewed |
 | 42 | Seconds | seconds | edited |
