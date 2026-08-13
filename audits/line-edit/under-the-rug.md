@@ -83,3 +83,49 @@ The chapter is strong and the panel is right about where. The Chili's sequence (
 - **"the part with teeth in it" / "the part with the ache in it"** (`:9`, `:45`) — the self-annotating "the part with ___ in it" frame; verify it is unique to this chapter before choosing which to keep in #10.
 - **"reading her for what she wanted so he could give it to her"** (`:55`) — Pace's attunement rendered as reading. Unique as phrased, but the read-her-and-supply-it move is likely to have siblings; log for the harvest.
 - **"swept clean through"** (`:83`) — unique in `scenes/` at present; striking diction (ruling #13), worth protecting from reuse.
+
+---
+
+## Author rulings (2026-08-13)
+
+Reviewed item by item, enriched with the seven-model cold-read panel. Durable
+record: `meta/meta-triage-under-the-rug.md`. 18 applied, 3 left standing.
+
+1. `:7` overwork — **APPLIED**, em-dash gloss cut.
+2. `:15`/`:19` handspan — **APPLIED**, `:19` → "a man lying that close".
+3. `:19` rhythm — **APPLIED**, paragraph ends at "not having whispered."
+4. `:25` overwork — **APPLIED**, "with no defense built into it" cut.
+5. `:29` overwork — **APPLIED**, trailing clause cut.
+6. `:33`/`:37` repetition — **APPLIED**, `:37`'s clause cut.
+7. `:41` *genuinely* — **APPLIED**, cut.
+8. `:43` evidence clause — **LEFT STANDING**; the redundancy is the psychology.
+9. `:45` billboard — **LEFT STANDING** on reader evidence (6 of 7 praised it).
+10. `:9`/`:45` "the part with ___ in it" — **APPLIED**, `:9`'s em-dash clause cut
+    whole (author's variant, better than the recast: it reconnects "couldn't
+    tell" to "whether" and clears the three-*Whether* anaphora). Author further
+    split "…the facts hadn't earned." into its own sentence.
+11. `:53` ease/easy — **APPLIED**, "easy again" → "settled again".
+12. `:55` *suddenly* — **APPLIED**, cut ("most unbearable thing in the room"
+    kept — her hyperbole, in voice).
+13. `:65`/`:71`/`:81` "went out of" — **APPLIED**, thinned to one; `:81` kept
+    (reader-praised). `:65` → "collapsed", `:71` → "left her" (both author's).
+14. `:71` FIX-AT #6 — **APPLIED**, simile cut outright.
+15. `:75` paragraph break — **APPLIED** after "to feed him more of it."
+16. `:75` hurry family — **PARTLY APPLIED**, but *not* as recommended: the
+    author ruled "in no hurry to be anywhere lower" is **showing the pace** and
+    kept it; cut "without hurry" and *unhurried* instead, reversing an earlier
+    ack. See triage.
+17. `:81` "over her" — **APPLIED** on the *first* occurrence, not the second as
+    recommended: the second is reader-praised and "almost in one motion" needs
+    both motions to collapse.
+18. `:83` *yet again* — **APPLIED**, cut.
+19. `:87` cooling — **APPLIED**, ends on "still set there."
+20. `:89` climax recall — **APPLIED**, but option B not A: the physical
+    restaging was cut and the psychological clause kept, since `:81` owns the
+    body.
+21. `:91`/`:93` coda rhythm — **LEFT STANDING** on reader evidence.
+
+**Linter (beyond the report):** `:25` recast to clear a filter verb and the
+*in her chest* locus; `:15` *warm* cut; eleven hits acked with notes (four
+re-armed by today's edits, one false positive, the six-use *warm* temperature
+system, and the `fluorescent-site` standing ruling). Scene is now clean.

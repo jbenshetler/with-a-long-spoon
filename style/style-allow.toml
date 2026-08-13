@@ -6080,11 +6080,25 @@ text = "She filed it under the small mysteries of him and let it go, the way you
 note = "canonical wrapped-box line; tics earn their place (the dress is the wrapped gift she walks past)"
 
 [[ok]]
+fp   = "54b664295e3d"
+rule = "filter-verbs"
+file = "scenes/under-the-rug.md"
+text = "She couldn't tell whether what she felt was true, or just what a man could do to a woman when he was this good at it."
+note = "Line edit 2026-08-13: false positive - her feelings are the literal subject, not a filter verb"
+
+[[ok]]
 fp   = "f26911aa0b02"
 rule = "filter-verbs"
 file = "scenes/under-the-rug.md"
 text = "Back at the house he watched her, careful and close, reading her for what she wanted so he could give it to her."
 note = "Load-bearing filter: Vee registering Pace's attentiveness from inside her POV; locked prose."
+
+[[ok]]
+fp   = "c5ff9bf044d5"
+rule = "fluorescent-site"
+file = "scenes/under-the-rug.md"
+text = "The just-sex of it, proven in fluorescent light."
+note = "Line edit 2026-08-13: author ruling 2026-08-12 KEPT (cheap bright restaurant, not campus)"
 
 [[ok]]
 fp   = "64123c7364b4"
@@ -6099,6 +6113,13 @@ rule = "out-ahead"
 file = "scenes/under-the-rug.md"
 text = "That was the thing the dark kept handing her lately, after, once the best of him wore down enough to let her think: that her feelings had gotten out ahead of her."
 note = "author 2026-07-29: deliberate doubled rhetoric, sanctioned"
+
+[[ok]]
+fp   = "5605f677ec81"
+rule = "the-way"
+file = "scenes/under-the-rug.md"
+text = "He cupped one in his hand, the soft full weight of it, his thumb going slow across the nipple until it stood up for him, and brought his mouth to the other — his tongue first, circling, then his lips closing and drawing, a long pull that went all the way down through her."
+note = "Line edit 2026-08-13: literal-directional; re-armed by cutting 'unhurried'"
 
 [[ok]]
 fp   = "6a4a2ccf7b02"
@@ -6129,6 +6150,13 @@ text = "She came a second time with him driving into her, and felt herself go, a
 note = "author 2026-07-29: 'shaking, undone, hers' is the climax payload line, quoted approvingly by two cold readers — sanctioned use"
 
 [[ok]]
+fp   = "3f0d71c581da"
+rule = "unhurried"
+file = "scenes/under-the-rug.md"
+text = "Level, unhurried, with nothing in it to push against."
+note = "Line edit 2026-08-13: load-bearing on Pace; re-armed by same-sentence edit"
+
+[[ok]]
 fp   = "68f871d19c7e"
 rule = "unhurried"
 file = "scenes/under-the-rug.md"
@@ -6143,6 +6171,48 @@ text = "Level, unhurried, with no defense built into it and nothing in it to pus
 note = "author 2026-07-29: Pace's word, load-bearing beat — his level answer to her attack"
 
 [[ok]]
+fp   = "01747fef991b"
+rule = "warm"
+file = "scenes/under-the-rug.md"
+text = "It sat well in her — *forgiven*, warm and large and easy to wear."
+note = "Line edit 2026-08-13: chapter's warm/cold temperature system - author-ruled keep"
+
+[[ok]]
+fp   = "103fbe702e1e"
+rule = "warm"
+file = "scenes/under-the-rug.md"
+text = "She was warm all through and the word was right there, simple, wanting out."
+note = "Line edit 2026-08-13: chapter's warm/cold temperature system - author-ruled keep"
+
+[[ok]]
+fp   = "945187f3f67f"
+rule = "warm"
+file = "scenes/under-the-rug.md"
+text = "She had no name for the best thing in her life, not the big one he wouldn't give her and not the small one she couldn't find, and she lay still in his warm and certain arms while the not-knowing ground in her and would not quiet."
+note = "Line edit 2026-08-13: chapter's warm/cold temperature system - author-ruled keep"
+
+[[ok]]
+fp   = "d1571445da3d"
+rule = "warm"
+file = "scenes/under-the-rug.md"
+text = "You only warm to me when you've got your way.\""
+note = "Line edit 2026-08-13: chapter's warm/cold temperature system - author-ruled keep"
+
+[[ok]]
+fp   = "deb101f33a09"
+rule = "warm"
+file = "scenes/under-the-rug.md"
+text = "And she could feel him low inside her still, his spend, the wet warmth of it, his."
+note = "Line edit 2026-08-13: chapter's warm/cold temperature system - author-ruled keep"
+
+[[ok]]
+fp   = "fc89f2e65e13"
+rule = "warm"
+file = "scenes/under-the-rug.md"
+text = "She'd had everything from him tonight a girl could have — he'd listened to her, and answered her, and explained himself, and taken her apart with his hands and his mouth and put her back together warm."
+note = "Line edit 2026-08-13: chapter's warm/cold temperature system - author-ruled keep"
+
+[[ok]]
 fp   = "4a6a65633a0c"
 rule = "whole-of"
 file = "scenes/under-the-rug.md"
@@ -6155,6 +6225,13 @@ rule = "whole-of"
 file = "scenes/under-the-rug.md"
 text = "He had the whole of her, and what she had of him she could not have held up to anyone, could not have proved."
 note = "author 2026-07-29: kept as the one load-bearing 'whole of' in the coda; the other two varied per cold-reader-feedback pass"
+
+[[ok]]
+fp   = "197939331939"
+rule = "x-not-y"
+file = "scenes/under-the-rug.md"
+text = "The song overhead gave way to a louder one, and something crossed his face that she had never seen there — not in all these months, not once — a flicker of plain irritation, there and gone, and he dropped his eyes to the table when it came, as if he didn't want her to have it."
+note = "Line edit 2026-08-13: re-armed by cutting 'genuinely'; the appositive is the point"
 
 [[ok]]
 fp   = "be2d044dc766"

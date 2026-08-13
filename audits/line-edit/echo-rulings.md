@@ -428,8 +428,15 @@ FIX-AT. Do not vary either occurrence before that count exists.
     than being stood up by one") rather than merely to dodge the echo —
     **the general form: when a FIX-AT forces a rewrite, prefer a replacement
     that earns something twelve lines later over a like-for-like swap.**
-    Remaining Vol-1 occurrences to vary: `school-nights:17`, `under-the-rug:71`.
+    Remaining Vol-1 occurrences to vary: `school-nights:17`.
     Keeper unchanged: `standards.md:141`.
+    **`under-the-rug:71` satisfied 2026-08-13** (Under the Rug line edit) — by
+    **subtraction, not substitution**: the simile was cut outright ("the fight
+    left her all at once."), because the next sentence's "The fear that had
+    stood on her chest… stepped off" was already the better breath-adjacent
+    image and the simile stood in front of it. A second general form alongside
+    #29's: when the passage already owns a stronger neighbouring figure, the
+    FIX-AT is discharged by deleting the echo rather than replacing it.
 30. **"delighted" as a narrator label for Randi — FIX-AT, ruled twice now.**
     {{All Told}} (2026-08-07) kept `:51` and cut `:29`/`:57`; {{Sorority}}
     (same day) cut `:7` and `:65` and kept `:61`'s "Something delighted broke
@@ -1652,3 +1659,45 @@ later — raised at this review and ruled a keep on the same call.
   "her body having just published the number", "the flat orange sameness",
   "cotton candy and a bowl of cut strawberries", "a sound like a handful of
   sand".
+
+## Batch (ruled 2026-08-13, during the Under the Rug review)
+
+- **#6 "a held breath"** — `under-the-rug:71` discharged; see the note appended
+  to ruling #29 above.
+- **"went out of her / went out of him"** — the collapse/exhalation verb, 9+
+  occurrences book-wide (`above-him`, `peekaboo`, `in-her-place`, `a-round`,
+  `vee-on-the-bench`, `burn`, `grace`, `nothing-underneath`). **FIX-AT
+  candidate for the end-of-pass harvest — not to be varied in bulk per
+  chapter.** Under the Rug carried three in seventeen lines and was thinned to
+  one: `:65` "Whatever had been holding her up went out of her" → **collapsed**
+  (the support image and the verb now agree); `:71` "the fight went out of her"
+  → **left her** (chosen to leave the stage clear for "stepped off" in the next
+  sentence); `:81` "the patience went out of him" **KEPT** — reader-praised
+  (gpt-5.5: "it landed") and the payoff the sex scene is built toward.
+- **"the part with ___ in it"** — verified by `rg` to appear **only** in
+  `under-the-rug` (`:9` "teeth", `:45` "the ache"). Not an echo; ruled as
+  within-chapter density and resolved by cutting `:9`'s em-dash clause whole.
+  **IGNORE** for the harvest unless a sibling appears.
+
+### Ledger-only from this review (no action; recorded so later passes don't re-raise)
+
+- **"It was to food what a billboard is to a painting"** (`under-the-rug:45`) —
+  flagged by the editor as pre-empting the palette figure; **left standing on
+  reader evidence** (6 of 7 cold readers praised it; fable-5 identifies it as
+  the payoff of the taste thread running since *eating with the sound off*).
+  Cross-chapter payoff the per-chapter editor cannot see — **do not re-raise.**
+- **"the room roared"** (`under-the-rug:43`) vs `fairytale:101` ("the room
+  roared around them") — near-twins at opposite valences (accusation vs.
+  exhilaration). Not ruled; carry to Fairytale's review, which owns the pair.
+- **"like a light turned up"** (`under-the-rug:53`) — checked against Randi's
+  attention-as-lamp family (PROTECTED #18). Different character, different
+  sense (Pace's ease returning); **not** in that family.
+- **"his weight settling into her like a man come home"** (`under-the-rug:75`)
+  — the coming-home figure; `old-acquaintances:13` uses it literally for Vee's
+  childhood room. Different register, no conflict; log for the harvest before
+  the metaphorical use is spent on Pace again.
+- **"reading her for what she wanted so he could give it to her"**
+  (`under-the-rug:55`) — unique as phrased; the read-her-and-supply-it move
+  likely has siblings. Logged for the harvest.
+- Verified unique in `scenes/` on this pass: "swept clean through", "the part
+  with teeth in it", "the part with the ache in it".

@@ -1,3 +1,82 @@
+# Triage — Under the Rug (line edit, 2026-08-13)
+
+Craft-level line edit (`audits/line-edit/under-the-rug.md`, 21 findings) reviewed
+item by item with the author, enriched with the **seven**-model cold-read panel
+(fable-5, opus-4-8, sonnet-5, gpt-5.5, sol, terra, kimi-k3 — a larger panel than
+the 2026-07-29/30 triage below, which saw four). 18 applied, 3 left standing.
+
+**Panel note for later passes:** no line in this chapter drew sentence-level
+criticism from more than one reader. Findings here are editor-found, not
+reader-corroborated.
+
+## Left standing — do not re-litigate
+
+- **The coda's "It had no name. He'd given her all of it and not the name."**
+  (penultimate paragraph) — the editor read it as pre-stating the final
+  paragraph's subject and costing that paragraph its arrival, and recommended
+  ending at "could not take a bit of it in." **Stands.** It is the chapter's
+  most-praised sentence (5 of 7 readers; fable-5: "the chapter's cruelest
+  math"), and the shape is statement-then-cost, not redundancy: the last
+  paragraph is the *proof* — *boyfriend*, the mother, the father.
+- **"It was to food what a billboard is to a painting"** (`:45`) — editor
+  flagged it as announcing the art comparison the palette figure then makes
+  concretely. **Stands.** 6 of 7 readers praised it; only opus-4-8 hedged ("a
+  hair essayistic") and self-reversed. Fable-5 identifies it as the payoff of
+  the taste thread running since *eating with the sound off* — cross-chapter
+  work a per-chapter editor cannot see.
+- **"and he couldn't hold his eyes on her face for the length of one sentence"**
+  (`:43`) — editor flagged it as re-reporting evidence already dramatized at
+  `:37`, flattening a paragraph whose power is that it is her *inference*.
+  **Stands:** the clause is her marshalling proof to herself, which is what
+  someone does while talking themselves into something — the redundancy is the
+  psychology. (Adjacent to, but distinct from, the 2026-07-29/30 verdict
+  defending the conclusion itself.)
+
+## Reversals of earlier verdicts
+
+- **`:75` "his tongue first, unhurried, circling" — ack reversed, word cut.**
+  The 2026-07-29/30 pass acked both *unhurried*s as load-bearing on Pace. At
+  this review the author ruled that the sequence (*first / then / circling / a
+  long pull*) already renders the deliberateness and the adjective merely
+  asserts it. **`"in no hurry to be anywhere lower"` (`:75`) is the clause that
+  earns the pace and is now the paragraph's only hurry-word** — author ruling:
+  "that's showing the pace." *"undressed her without hurry"* also cut as
+  redundant with the same sentence's "took the kind of time with her he always
+  took." The other acked *unhurried* ("Level, unhurried") is untouched.
+
+## Applied (summary)
+
+Rhythm: paragraph ended at "listened to herself not having whispered"; the
+300-word bedroom block split after "to feed him more of it"; "Her heart was
+going at a speed the facts hadn't earned." promoted to its own sentence,
+clearing a stem for the three-*Whether* anaphora.
+Repetition thinned: *handspan* (`:19` → "that close"), *gotten what she wanted*
+(`:37` cut), *went out of her* (see echo-rulings), *the part with ___ in it*
+(`:9`'s em-dash clause cut whole), *cooling* (`:87` ends on "still set there"),
+*over her* (`:81`'s throwaway first use cut — the reader-praised "got over her
+and into her almost in one motion" kept **whole**, since "almost in one motion"
+needs both motions to collapse), the hurry family (above).
+Overwork trimmed at `:7` (the em-dash gloss), `:25`, `:29`, and `:89` (the
+climax recall compressed to the psychological clause; `:81` owns the body).
+Precision: *genuinely*, *suddenly*, *yet again* cut; "easy again" → **settled
+again** (picks up "his shoulders came down" at the front of the sentence).
+Linter: `:25` recast to kill a filter verb and the *in her chest* locus in one
+("The thing she'd been winding up swung out…"); `:15` *warm* handspan cut.
+
+## The warm cluster — ruled, do not re-thin
+
+**This chapter has a temperature system** — *he'd been cold*, *you went cold on
+me*, *which of them had gone cold*, *you thaw right out* — and *warm* is what
+Vee measures against it. Six uses kept deliberately and acked: `:61` (the
+accusation verb), `:73` (*forgiven, warm and large and easy to wear*, praised by
+four readers), `:93` (*put her back together warm*, the answer to *cold*), `:7`
+and `:95` (the opening/closing frame; *warm* is the almost-word standing where
+*love* won't go), `:89` (*the wet warmth of it* — pure sensation). Only `:15`'s
+purely thermal *warm handspan* was cut. **A raw `warm` count in this chapter
+overstates the reflex; the system is deliberate.**
+
+---
+
 # Triage — Under the Rug (line audit, 2026-08-03)
 
 Sentence-by-sentence consistency/logic audit (`audits/line-audit/under-the-rug.md`).

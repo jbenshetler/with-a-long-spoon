@@ -48,7 +48,7 @@ the echo shortlist with the author before per-chapter editing starts).
 | 40 | The New Ordinary | new-ordinary | reviewed |
 | 41 | Cropped | cropped | reviewed |
 | 42 | Seconds | seconds | edited |
-| 43 | Under the Rug | under-the-rug | edited |
+| 43 | Under the Rug | under-the-rug | reviewed |
 | 44 | Bare | bare | edited |
 | 45 | Believe Me | believe-me | edited |
 | 46 | Fairytale | fairytale | edited |
