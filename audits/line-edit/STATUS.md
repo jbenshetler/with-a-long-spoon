@@ -46,7 +46,7 @@ the echo shortlist with the author before per-chapter editing starts).
 | 38 | All the Time | all-the-time | reviewed |
 | 39 | The Outlier | outlier | edited |
 | 40 | The New Ordinary | new-ordinary | reviewed |
-| 41 | Cropped | cropped | edited |
+| 41 | Cropped | cropped | reviewed |
 | 42 | Seconds | seconds | edited |
 | 43 | Under the Rug | under-the-rug | edited |
 | 44 | Bare | bare | edited |

@@ -40,3 +40,21 @@ The chapter is close to finished. Its best work is the crop mechanism itself —
 - **"stops at the waist"** (`cropped:13`) — the crop as biography. Unique in `scenes/`. If any later chapter reaches for a cropped/framed-image figure, this chapter is the keeper by title.
 - **"He taught me to dance on a square of concrete with a boom box"** (`cropped:25`) — a compressed callback to `lesson`. Verify at the harvest that no third chapter re-summarizes the boom-box lesson in the same shorthand; two renderings is the recall, three is recycling.
 - **"a man with grey coming in"** (`cropped:29`) — striking diction, rare-word check (ruling #13); confirm spent once.
+
+## Author rulings (2026-08-12)
+
+1. **Opening sentence** — APPLIED (option a): split after the reason; "The two of them at a table near the windows, neither an athlete."
+2. **"syncopated"** — APPLIED (option a): → "punctuated by the clink of steel on hard plastic."
+3. **Cassie's high-school beat** — LEFT STANDING. Her only self-disclosure; the setup that lets Vee go second.
+4. **"A little bit of a dork."** — LEFT STANDING. The looseness is characterization; it makes her later compression register as a shift.
+5. **"which was the right call"** — APPLIED: clause cut; "Cassie didn't laugh."
+6. **Tray three times** — APPLIED (option a): the free spacer beat cut entirely; two remain, and :39 is now the second, not the third.
+7. **Five "And" openers** — APPLIED (option c): :21 and :27 unhooked to "Then…"; three remain (:17, :31, :35) reading as escalation.
+8. **"doing the math" / "math PhD"** — APPLIED (option a): → "He was pricing it."
+9. **"really" ×2** — APPLIED: both cut.
+10. **cooks/owns re-list** — APPLIED (option a): verbatim re-list cut; "My father would start looking for the catch."
+11. **"In some ways"** — LEFT STANDING. Hedge keeps her thinking rather than pronouncing; the line was reader-quoted in this exact form.
+12. **"And the strange thing is,"** — APPLIED (option a): signpost cut; "She stopped." carries it.
+13. **"fit" ×3** — LEFT STANDING, as recommended; logged so a later pass does not re-raise it.
+
+Style linter after the pass: 0 error, 0 warn, 5 info (`x-not-y`), all in already-ruled material; nothing re-armed by these edits.
