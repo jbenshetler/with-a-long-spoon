@@ -5,24 +5,24 @@
   "generated": 1,
   "skipped": 0,
   "total_cost": null,
-  "total_input": 27587,
-  "total_output": 8357,
-  "total_tokens": 35944,
+  "total_input": 35690,
+  "total_output": 15938,
+  "total_tokens": 51628,
   "per_chapter": [
     {
-      "slug": "new-ordinary",
-      "title": "The New Ordinary",
+      "slug": "rock",
+      "title": "Rock",
       "status": "generated",
       "cost": null,
-      "input": 27587,
-      "output": 8357,
-      "totalTokens": 35944,
-      "promptTokens": 27587,
-      "reasoningTokens": 31,
-      "cacheRead": 27008,
-      "duration_s": 275.8,
-      "wall_s": 275.9,
-      "path": "reviews/cold-read/gpt-5.5/new-ordinary.md"
+      "input": 35690,
+      "output": 15938,
+      "totalTokens": 51628,
+      "promptTokens": 35690,
+      "reasoningTokens": 82,
+      "cacheRead": 1408,
+      "duration_s": 289.9,
+      "wall_s": 290.0,
+      "path": "reviews/cold-read/gpt-5.5/rock.md"
     }
   ]
 }
