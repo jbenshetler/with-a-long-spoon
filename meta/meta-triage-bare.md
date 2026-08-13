@@ -1,3 +1,22 @@
+# Triage — Bare (line edit, 2026-08-13)
+
+Line-edit pass (`audits/line-edit/bare.md`). Four small fixes applied, three left standing.
+
+## Fixed (line edit)
+
+- **Doubled "Cassie"** (`:7`) — "and below her Cassie slept" → "and below her she slept." Name no longer doubled inside the opening clause.
+- **"the look enough on its own"** (`:9`) — cut; the sentence lands on its fresh appositive, "a girl too far gone in a boy," which had been restated by the coda.
+- **"held off her skin over the other one"** (`:15`) → **"held just off her skin by the other one."** Kills the "held off" garden-path ("just off" reads spatial) and keeps the *almost-there-not-enough* distance that rhymes with the doing-not-saying gap; "close" deliberately reserved for the `:19` reversal.
+- **"the thing she needed"** (`:13`) → **"what she needed."** One placeholder "thing" killed. Concrete nouns rejected — answer/shape/word are all spoken-for nearby; `:19`'s load-bearing "thing"s left intact.
+
+## Left standing — do not re-litigate (line edit)
+
+- **"and it was all of him"** (`:17`) — editor flagged the totalizing claim as doubled (opens and closes the scent paragraph). Author ruled: stands. Designed bracketing — claim → enumerate the totality → reclaim-and-negate ("none of it told her what she was to him"); the frame is load-bearing, no reader flagged it.
+- **"there was no text that made it come clear"** (`:13`) — editor called the middle of the impossibility triad the flattest/most dilutive. Author ruled: stands. **Reader-praised** (sonnet-5: "the whole ledger's central ache in one line, and it's devastating because she knows it") — the flat beat is the ache said bare, the three-part build is the 2 a.m. mind circling one wall.
+- **"the silence at the center where the word should be"** (`:19`) — editor called it late abstraction explaining the "big one / small one" figure after it landed. Author ruled: stands. **Strongly reader-praised** — opus, gpt-5.5, kimi all received it as the withheld-word motif made a *felt absence in the body*; the highest-praise line of the pass.
+
+---
+
 # Triage — Bare (line audit, 2026-08-03)
 
 Sentence-by-sentence consistency/logic audit (`audits/line-audit/bare.md`).

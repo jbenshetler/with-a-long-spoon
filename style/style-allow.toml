@@ -858,6 +858,13 @@ text = "She sat up in the low space under the ceiling and pulled them both off t
 note = "private-version contrast; 'the way she wore it when no one could see' kept deliberately"
 
 [[ok]]
+fp   = "3ab5d7c67f33"
+rule = "there-was-were"
+file = "scenes/bare.md"
+text = "There was nothing she could put in there that would come back as what she needed, nothing she could ask him that had an answer he could type."
+note = "there-was-were existential previously acked; re-fingerprinted by 2026-08-13 line-edit b-i change 'the thing she needed'→'what she needed'. Author re-acked."
+
+[[ok]]
 fp   = "88195e46c5dd"
 rule = "there-was-were"
 file = "scenes/bare.md"
