@@ -49,10 +49,10 @@ the echo shortlist with the author before per-chapter editing starts).
 | 41 | Cropped | cropped | reviewed |
 | 42 | Seconds | seconds | reviewed |
 | 43 | Under the Rug | under-the-rug | reviewed |
-| 44 | Bare | bare | edited |
+| 44 | Bare | bare | reviewed |
 | 45 | Believe Me | believe-me | reviewed |
 | 46 | Fairytale | fairytale | reviewed |
-| 47 | Old Acquaintances | old-acquaintances | edited |
+| 47 | Old Acquaintances | old-acquaintances | reviewed |
 | 48 | The Usual | the-usual | reviewed |
 | 49 | My Friend Randi | my-friend-randi | edited |
 | 50 | Nothing Underneath | nothing-underneath | edited |
