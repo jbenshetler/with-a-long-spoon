@@ -53,6 +53,6 @@ the echo shortlist with the author before per-chapter editing starts).
 | 45 | Believe Me | believe-me | reviewed |
 | 46 | Fairytale | fairytale | edited |
 | 47 | Old Acquaintances | old-acquaintances | edited |
-| 48 | The Usual | the-usual | edited |
+| 48 | The Usual | the-usual | reviewed |
 | 49 | My Friend Randi | my-friend-randi | edited |
 | 50 | Nothing Underneath | nothing-underneath | edited |

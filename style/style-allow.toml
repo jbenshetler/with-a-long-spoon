@@ -5863,6 +5863,13 @@ text = "Now, after — not before, not to be told what to want, but after the wa
 note = "reviewed in style pass — accepted to stand"
 
 [[ok]]
+fp   = "39240c20392e"
+rule = "a-small"
+file = "scenes/the-usual.md"
+text = "She was a small thing, five feet of her and every inch in motion even standing still, a round face gone a little sallow under makeup."
+note = "Author-approved (re-ack 2026-08-13, line edit): 'a small thing' lead-in; vivid specifics follow immediately. Re-armed by the item-8 sentence split; same rationale."
+
+[[ok]]
 fp   = "6575b073d974"
 rule = "a-small"
 file = "scenes/the-usual.md"

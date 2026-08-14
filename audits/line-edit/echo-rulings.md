@@ -1715,3 +1715,44 @@ later — raised at this review and ruled a keep on the same call.
   likely has siblings. Logged for the harvest.
 - Verified unique in `scenes/` on this pass: "swept clean through", "the part
   with teeth in it", "the part with the ache in it".
+
+### From the Usual line edit (2026-08-13)
+
+- **"in no hurry"** — the Pace-patience formula; eight chapters (`the-bench` ×2,
+  `dear`, `long-way`, `famished`, `among-friends`, `nothing-underneath`,
+  `see-you-later`, `the-usual`). The Usual carried **two in ten lines** and was
+  thinned to zero: `:27` "He was in no hurry" **cut** (told patience sitting
+  beside shown patience — "before he'd so much as picked his up" already does
+  it), `:37` "He was in no more hurry with the question than with the food"
+  **varied** to "He took the question no faster than the food." Still a
+  **FIX-AT candidate for the end-of-pass harvest** across the remaining seven
+  chapters — not to be varied in bulk per chapter.
+- **"just a flat fact"** (`the-usual:73`, `see-you-later`) — **pair resolved by
+  attrition.** The Usual's instance was cut to "just a fact" as part of a
+  within-chapter "flat" ×4 thinning, not to settle the echo. `see-you-later`
+  now holds it uncontested; **do not vary it there** on echo grounds.
+- **"held his eyes"** (`the-usual:81`, `ignition-scalding`, `believe-me`,
+  `leave-no-trace`) — four book-wide, ruled **IGNORE** (furniture, not a tic) at
+  this density. The Usual's instance survives in varied form ("She held his
+  eyes, didn't soften a thing, until he looked down"). Recount at the harvest
+  only if a fifth appears.
+- **"Pace chuckled"** — not an echo item, but logged: cutting it leaves The
+  Usual with **no laugh before `:117`'s "the first full one of the night."**
+  Any later edit restoring a laugh, chuckle, or grin to this chapter before
+  `:117` breaks that scarcity.
+
+### Ledger-only from this review (no action; recorded so later passes don't re-raise)
+
+- **"business" ×2 in one paragraph** (`the-usual:5`) — **left standing, ruled.**
+  No concrete substitute (store / storefront / shop) is wide enough to include
+  the restaurant the scene is set in, and the "every business in three counties
+  … here there was only the griddle" contrast requires the diner to count among
+  them. Do not re-raise.
+- **The Americana-under-glass tableau** (`the-usual:11`) — flagged as
+  length-to-payoff by opus-4-8 and fable-5; **left standing** (payoff line
+  reader-praised; the young Elvis is the setup `:29`'s jukebox Elvis pays off).
+  Cross-paragraph payoff the per-chapter editor can see only half of — do not
+  re-raise.
+- **"the grave confidence of arithmetic"**, **"looking for the true shape of
+  it"**, **"closing the folder"**, **"gone on a girl"** — verified unique in
+  `scenes/` on this pass; logged as The Usual's claim if siblings appear later.

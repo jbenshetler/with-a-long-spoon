@@ -42,3 +42,23 @@ The chapter is in strong command of its own register. Its best passages are the 
 - **"no ceremony and no apology"** (`:27`) — "no ceremony" also in `lesson`, `may-i-choose` ×2. Check whether the eating/undressing-without-ceremony figure is one motif.
 - **"the wreckage of two cheeseburgers"** (`:117`) — "wreckage of" also in `recognized-method`, `famished`, `sorority`. Striking enough (ruling #13) that a reader feels it twice; count before any is varied.
 - **"the grave confidence of arithmetic"** (`:25`), **"looking for the true shape of it"** (`:101`), **"closing the folder"** (`:87`), **"gone on a girl"** (`:95`) — unique in `scenes/`; logged as this chapter's claim if siblings appear later.
+
+## Author rulings (2026-08-13)
+
+1. `:93` verbatim "He didn't answer that" — **APPLIED**, varied to "He said nothing to that."
+2. `:45` three-part restraint — **APPLIED**, cut "It sat on the table between them and" (first cut attempt on the opening sentence created a pronoun collision with "Isn't it."; reverted and recut).
+3. `:83` — **APPLIED, inverted on reader evidence**: cut "He didn't argue.", kept the reader-praised "There was nothing in it to argue with."
+4. `:81` — **APPLIED** as "She held his eyes, didn't soften a thing, until he looked down." Duration kept in one sentence (the beat is the length); "looked down" = caught, not evading.
+5. "flat" ×4 — **APPLIED at `:39` and `:73`**; `:43` "killed it flat" kept (destination, not descriptor).
+6. `:27`/`:37` "in no hurry" — **APPLIED both**: `:27` cut, `:37` varied to "He took the question no faster than the food."
+7. `:5` — **PARTIAL**: first "only" cut; "business" ×2 **left standing** (no concrete noun is wide enough to include the diner itself).
+8. `:7` — **APPLIED**, split at the second em dash; hedges kept.
+9. `:15` — **APPLIED**, cut "a woman in her forties" (option c, two details retained).
+10. `:91` — **APPLIED as (c)**: "the quip she'd been saving up finally spent." Author ruling: the premeditation is characterization, not gloss; only "just so" was the problem.
+11. `:99` — **PARTIAL**: cut "for saying it"; "and pleased with herself" kept (disambiguates from careless/cruel).
+12. `:27` — **PARTIAL**: cut "and that was all"; **"Sheri wanted none of it." left standing** (extraction hinge, not an announcing sentence).
+13. `:25` "Pace chuckled" — **APPLIED, author's variant**: cut entirely and stitched with "then" rather than replaced.
+
+**Bonus (reader-sourced, opus-4-8 + fable-5): `:11` Americana-under-glass runs long — LEFT STANDING.**
+
+Style: `a-small` at `:7` re-armed by finding 8's split; **re-acked** with the original rationale.

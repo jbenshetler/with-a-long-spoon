@@ -1,3 +1,80 @@
+# Triage — The Usual (line edit, 2026-08-13)
+
+True line edit (`audits/line-edit/the-usual.md`), 13 findings + 1 reader-sourced
+bonus. 11 applied, 2 left standing. Cold-read enrichment: all 7 panel reads
+mined (fable-5, opus-4-8, sonnet-5, gpt-5.5, sol, terra, kimi-k3).
+
+## Applied
+
+- **`:93`** "He didn't answer that" (verbatim twin of `:67`) → "He said nothing
+  to that." Four refusal constructions in forty-two lines; `:67` is the designed
+  one.
+- **`:45`** three-part restraint thinned — cut "It sat on the table between
+  them and"; kept the announcing sentence and the grain image.
+- **`:83`** cut "He didn't argue." — inverted the report's recommendation on
+  reader evidence: fable-5 and kimi-k3 both quoted the *second* sentence
+  ("There was nothing in it to argue with") as a standout, so the announcing
+  sentence went instead. Also drops one more "He didn't ___".
+- **`:81`** "held his eyes and didn't let go of them" → "held his eyes,
+  didn't soften a thing, **until he looked down**." Author ruling: the beat IS
+  the length, so the duration stays in one sentence; "looked down" over
+  "looked away"/"blinked" because he knows he's wrong and she's calling him out
+  (shame, not evasion, and not the staring-contest idiom).
+- **"flat" ×4 → ×2.** Cut at `:39` ("Then, flat:" → "Then:") and `:73` ("just a
+  flat fact" → "just a fact"). **Kept** `:43` "killed it flat" — there "flat" is
+  the destination of the sing-song, not a descriptor, and "killed it" alone reads
+  for half a second as the modern slang sense. `:73`'s cut does not undo the
+  2026-07-30 repair, which was about the figurative-weather simile.
+- **`:27`/`:37`** "in no hurry" doubling — cut `:27` ("He was in no hurry", told
+  patience beside shown patience) and varied `:37` to "He took the question no
+  faster than the food."
+- **`:5`** cut the first "only" ("lived only by being the sole one" → "lived by
+  being the sole one"; "sole" carries it).
+- **`:7`** split at the second em dash so the makeup gets its own beat and the
+  dare lands as the punch. Hedges kept — Pace's carefulness about a friend.
+- **`:15`** waitress thinned by one appositive (cut "a woman in her forties");
+  the title line arrives sooner and the praised tail ("yes like people saying
+  yes to their own names", 3 of 7 readers) is less delayed.
+- **`:91`** "her prepared quip landing just so" → "the quip she'd been saving up
+  finally spent." Author ruling: the premeditation is *characterization*, not
+  explanation — Sheri carrying a line around for him is the friendship — so the
+  disclosure stays and becomes the clause's subject; only "just so" is lost.
+- **`:99`** cut "for saying it" only. Author ruling: "Around the straw" alone
+  could read careless or cruel, so the tone marker is load-bearing; it's the
+  clause pointing back at the joke that was the gloss.
+- **`:27`** cut "and that was all" — the next sentence ("He'd come in tonight
+  needing it more than he'd have said") is the paragraph's real close.
+- **`:25`** cut "Pace chuckled" entirely (author's call, better than the
+  proposed replacement beat) and stitched: "Sheri scowled at the single, **then**
+  slid the plates back to true…". The beat is Sheri's hands start to finish;
+  his amusement is implied by how fondly it's observed; and nothing now
+  competes with `:117`'s "the first full one of the night."
+- **Style re-ack:** `a-small` at `:7` re-armed by the sentence split; re-acked
+  with the original rationale unchanged.
+
+## Left standing — do not re-litigate
+
+- **`:27` "Sheri wanted none of it."** The editor called it an announcing
+  sentence the triad then proves. It is not: it is the hinge that turns
+  "everyone he knew wanted something off him" into its exception, and it carries
+  a meaning the triad does not — she doesn't *draw on him*, where the triad is
+  about attraction, status, and candor. Cutting it would delete the paragraph's
+  thesis and the audible *wanted/wanted* pivot. (sonnet-5 quoted the triad; no
+  reader touched the hinge.)
+- **`:11` the Americana-under-glass tableau.** opus-4-8 and fable-5 both called
+  it "a touch long before it pays off." Kept whole: fable-5 also quoted the
+  payoff line ("Vee would either love this place or never see it at all") as a
+  standout, 5 of 7 readers didn't flag it, and the young Elvis under the glass
+  is what makes `:29`'s jukebox Elvis a return rather than a coincidence. The
+  family-of-four is the only warm-family image in a chapter about two people
+  estranged from theirs.
+- **`:5` "business" twice.** The editor wanted the second varied to a concrete
+  noun. Author ruling: none of the concrete candidates (store, storefront, shop)
+  is wide enough to include the restaurant they are sitting in, and the contrast
+  only works if the diner counts among "every business in three counties."
+
+---
+
 # Triage — The Usual (line audit, 2026-08-03)
 
 Sentence-by-sentence consistency/logic audit (`audits/line-audit/the-usual.md`).
