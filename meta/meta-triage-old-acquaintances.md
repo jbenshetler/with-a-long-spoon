@@ -43,3 +43,29 @@ Cold-read feedback pass, 2026-07-30. Panel: claude-fable-5, claude-opus-4-8, gpt
 ## Confirmed positives — protect in any future edit
 
 All four readers, independently: the **diptych with {{Fairytale}}** — both New Year's texts now seen from both sides ("the dramatic irony is almost unbearable, and the book never nudges me once"; "two women alone in the dark, each performing okayness at the other"); the **room that doesn't know her** frame ("the room kept all of it dusted and had no idea who was in the bed" — fable-5's pick for best writing in the chapter); the **First Night hijack** as the emotional peak ("a devastatingly true picture of jealousy eating a person from inside"); the **self-cropped photo** ("she was the one who had divided it" — the division internalized); the **"he leaves you the room" inversion** ("appreciated once, and hated now" — retro-poisons the tender line); the **ending's scheduling asymmetry** (Randi penciled in, Pace a blank); the **title** — innocuous surface, widened on reread, gave nothing away.
+
+---
+
+# Triage — Old Acquaintances (line edit, 2026-08-13)
+
+True line-edit pass (`audits/line-edit/old-acquaintances.md`), enriched with the 7-model cold-read line-mining. 14 findings + 1 cold-read bonus. **12 applied, 2 left standing.** All applied fixes were subtraction or in-voice recast; the most-praised lines (room-museum frame, "he leaves you the room," fra diavolo braid, "she could not keep her own night," the close) were untouched.
+
+## Applied (this pass)
+
+- **`:47` scheduling asymmetry delivered twice** — cut `:47`'s closing "The year would come in with Randi already penciled into it…" sentence; `:51` now owns the Randi-penciled/Pace-a-blank payoff unopposed.
+- **`:49` "She had no one to turn to."** — cut; the abstract summary the next sentence enacts. Poppers hand straight to "She lay still with her feet at the footboard."
+- **`:19` "which had never happened before"** — cut; "for once" two words earlier already carries it.
+- **`:25` "Nothing came back."** — cut the opening; "The minutes went by and nothing came…" opens the paragraph, killing the doubled verb phrase.
+- **`:45` "There was nothing under the thought at all."** — cut; three renderings of unsupportedness reduced to two, ending on the bare "The floor was gone."
+- **`:33` "Vee thought about how fun her brunches with Randi were."** — replaced with **"Randi, the year's gift she had literally stumbled into."** (author line). Vetted canon-safe: faithful to Vee's POV of {{The Pointing Game}} (she believes she stumbled into Randi); the engineered-collision truth and reversed "gift" direction are a reread charge, not a breach. Fixes the "…write back to Vee. Vee thought…" name-collision and gives a "Randi, … / Randi, …" anaphora.
+- **`:7` opening** — was "…careful with money and at night you burrowed…" (doubled "at night," and the money-reason repeats `:9`'s "furnace went into savings mode"). Recast to "Vee's bedroom chilled at night, and you burrowed under the blankets against it." — `:9` now carries the money-reason concretely. (Note: the chill→burrow causal chain is real, corroborated by `:9`; the flaw was the doubling, not the logic.)
+- **`:9`/`:11` clock** — moved "the year had forty minutes left, each one creeping by her" off the overloaded house-going-down chain to open `:11`, beside the wakefulness/countdown material; clean antecedent for "each one."
+- **`:19` "In the picture she had every part of it handled —"** — cut (author call). Removes the "handled" half of the handed/handled homophone and one totalizer at once; "Her body come up to meet the moment —" promoted to a standalone fragment.
+- **`:27` "in front of everyone"** cut; **"behind his door" → "out of sight"** — clears the pre-statement of the designed closer ("Randi lived where everyone could see. Vee kept the best of hers behind a shut door.") and the door/door echo; "out of sight" now sets a sight-antithesis with "where everyone could see."
+- **`:21` "another country and dressed like another world"** → **"another country, and wealth dressed it as another world."** — author wanted the *ladder* kept (literal foreign country → wealth elevating further); recast names wealth as the climbing agent. Canon-safe (Vee already knows whose money it is).
+- **`:39` "cold and alone on the one night you're not supposed to be"** → **". Cold. Alone. On the one night you're not supposed to be."** (cold-read bonus; fable-5 flagged the clause as narrating the weather). Author reframed as Vee sinking into self-pity; full-stop fragments now *enact* the descent (matches the `:23` fragment device) rather than summarizing it.
+
+## Left standing — do not re-litigate
+
+- **`:13` "come home to a place that no longer fit her" + "fit" ×3 (`:13`/`:15`)** — **reader-praised** (opus-4-8: "exactly rendering the childhood-room homesickness"). Author ruled: stands. The "fit" recurrence reads as a designed belonging-motif (room doesn't fit her / no answer that fits anywhere), not a tic; the praised line does real work.
+- **`:49` "the strong warm weight of them"** (echo #5 "warm weight of") — already ruled load-bearing warmth in the 2026-07-30 triage; re-confirmed here. The doubled modifier "strong warm" is the conjured bodily heaviness, not decoration. Echo-ruling #5 updated: `old-acquaintances` ruled to stand on its own merits, no quota. Author ruled: stands.

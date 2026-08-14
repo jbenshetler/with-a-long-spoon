@@ -114,7 +114,10 @@ survives; arithmetic is not.
    or cut" was a budget of one derived from the count (7 → one per ~20,000
    words). The *identical three-word string* is still the thing to watch, but
    `old-acquaintances` is ruled on its own merits at its review, not because a
-   slot is taken. `all-told:21` (varied 2026-08-07, #27) stands.
+   slot is taken. `all-told:21` (varied 2026-08-07, #27) stands. **`old-acquaintances:49`
+   ("the strong warm weight of them") ruled to STAND at its line-edit review 2026-08-13**
+   — triage (2026-07-30) already names it load-bearing warmth; the doubled modifier
+   "strong warm" is the conjured bodily heaviness, not decoration. No further action.
 6. **"a held breath" (6 found / 6 ch) — FIX-AT on the merits; NO QUOTA.**
    `standards.md:141` was ruled the Vol-1 keeper 2026-08-04 (the chapter close
    — the breath as subject, not decoration) and remains the strongest instance.
