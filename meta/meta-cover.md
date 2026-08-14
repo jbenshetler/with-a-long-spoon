@@ -87,11 +87,38 @@ Retail title field (metadata, not art): *A Polite Invitation (With a Long Spoon,
 
 ---
 
-## Generation prompt of record (Gemini Nano Banana 3 Pro, saved 2026-08-02)
+## Production build — human-generated (in progress)
 
-The closest-yet prompt for the AI-generated cover comps. Produced
+The AI comp (Generation prompt of record, below) is **proof-of-concept only.**
+The shipping cover is built by hand:
+
+- **Blender** — the machined-brass triangle and the three bas-relief medallions
+  (the metal, the objects, the specular glint). All the 3D/metal work.
+- **Illustrator** — typography and any line art.
+- **Photoshop** — compositing (medallion renders + type + velvet ground into the
+  final layout).
+
+Consequences:
+
+- **AI-disclosure is now moot** — a hand-built cover needs no KDP AI-content
+  disclosure, and the art regains normal copyright protection (purely
+  AI-generated images get little to none).
+- **Master-file note:** with the triangle and medallions now Blender renders, the
+  earlier "SVG is the master" rule (Production) no longer holds as-is — the master
+  is the **layered source** (Blender scene + Illustrator vector + Photoshop
+  composite). Keep the type/line-art vector and re-export per target size (1:1.6
+  Amazon, 2:3 Kobo/Apple); never scale the flattened raster. The thumbnail-ladder
+  and grayscale/e-ink tests in Production still apply to the human render.
+
+---
+
+## Generation prompt of record — AI PoC only (Gemini Nano Banana 3 Pro, saved 2026-08-02)
+
+**Proof-of-concept only — superseded by the human-generated build above.
+Retained for reference; this AI comp is not the shipping cover.** The closest-yet
+prompt for the AI-generated cover comps. Produced
 `images/a-polite-invitation-cover-purple-3.png` (the current `images/cover.png`
-target). Known deviations after ~20 attempts: the generator refuses to render
+PoC target). Known deviations after ~20 attempts: the generator refuses to render
 the necklace as a true solitaire while retaining the small hollow separator
 circles — the pendant reads as an ornate locket with a sparkle (accepted for
 the test epub); a stray gold four-pointed sparkle artifact appears right of
