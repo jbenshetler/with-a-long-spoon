@@ -12,10 +12,12 @@ below against those. Companions: `meta-plan-free-sample.md` (discovery funnel),
 
 - **The novel is self-published; a trad-novel deal is declined on creative-control
   grounds.** The book's length is the *mechanism*, not padding: the explicit detail
-  is characterization (her interiority carries it inside the sex; Pace's is
-  recapitulated in the following cooking scene because he is opaque during the sex),
-  so both the sex and the paired cooking scenes are load-bearing structure, not heat
-  (canon: bible/thesis/`meta-craft-vivienne.md`). Trad acquires and sells by
+  is characterization — her interiority carries it inside the sex, and because the
+  sex is POV-locked to Vee, Pace's character is read in the *paired cooking beat
+  within the same scene* (food and sex as parallel vehicles — "the same hands giving
+  her the same pleasure"), so both the sex and the cooking are load-bearing
+  structure, not heat (canon: bible §Food / `meta-craft-pace.md` /
+  `meta-craft-vivienne.md`). Trad acquires and sells by
   category, so it would (a) force a no-comp book into an established channel and
   (b) cut length — and this book's structure is *quiet*, so a market-driven editor
   reads the cooking scenes and the shame-as-characterization sex as digression to
@@ -87,16 +89,41 @@ below against those. Companions: `meta-plan-free-sample.md` (discovery funnel),
   maturity without losing the heat, and who don't want prestige's coldness. She lives
   in the largest, most reachable reader ecosystem (romance BookTok/Bookstagram,
   KU-romance readers, romance cross-promo), not the tiny literary-erotica niche.
-- **Register — the non-negotiable correction (thesis-owned; the marketing must carry
-  it faithfully):** **no one in the book is a villain or a predator — if anyone can be
-  classified as a villain, the book has failed.** Pace and Randi are loving, generous,
-  complex people; the originating wrong is *a game and a single lie* / a bad choice
-  Pace can't back out of, not a scheme. Everyone is devastated, not only Vee. **Vee
-  ends hurt but ascendant** — the loss is her coming-into-power, not her ruin. Thesis
-  touchstone: the Cassie beat — told the whole truth, she still says *"the best lover
-  of your life, the best friend of your life, all for a full year — where do I sign
-  up?"* The reader is meant to end agreeing with Cassie. (Canon owned by
-  `meta-thesis.md` / `meta-arch-bible.md`; reconcile wording there.)
+- **Register — the non-negotiable core (thesis/bible-owned; the marketing must carry
+  it faithfully; reconcile every phrasing against `meta-thesis.md` /
+  `meta-arch-bible.md` / `meta-craft-vivienne.md`):**
+  - **No one is a villain or a predator** — "if anyone can be classified as a villain,
+    the book has failed." Pace and Randi are loving, generous, complex people.
+    No-villain does *not* dissolve culpability: Pace is genuinely answerable for the
+    betrayal (he had honorable exits and took none — "do not protect Pace from this"),
+    but the answerability is held *without* a bad actor. Randi's love is **real and
+    instrumental at once, never resolved** — she hunts (early) *and* genuinely loves
+    Vee; the manipulation is real, the love is real, neither cancels.
+  - **The originating wrong is a sustained withholding, not a scheme.** The
+    configuration predates Vee by *hours* (hatched at the pointing game); Randi hunts
+    only in the first few encounters, then both quickly fall for Vee. The year-long
+    non-disclosure persists **from love and the fear the truth would end it** — Pace
+    subjectively cannot take the exits because he loves Vee and believes disclosure
+    means losing her. Culpable, but from love, not predation.
+  - **Vee ends ascendant *and* hungry** — permanently, inseparably ("the hunger does
+    not falsify the ascent; the ascent does not soften the hunger"). The loss is her
+    coming-into-power; the no is the equipment working, not trauma. Not "hurt but
+    ascendant."
+  - **Devastation is asymmetric in kind:** Randi — hollow victory, exile, can't even
+    feel her loss cleanly; Pace — reckons at the reveal but his *future* is an
+    unperceived attenuation he never names ("the fine is the cost"), not grief; Vee —
+    ascendant and hungry. Don't flatten to "everyone devastated."
+  - **The reader starts as Cassie and is moved, across all three books, to Vee.**
+    Cassie's *"the best lover of your life, the best friend of your life, all for a
+    full year — where do I sign up?"* is the appetite the reader walks in carrying —
+    honest and right *within the available frame, because she hasn't paid the cost.* By
+    the end the reader stands beside Vee, one frame ahead of Cassie, having lived the
+    loss Cassie only heard. **Marketing use:** Cassie's line is the come-on (the entry
+    appetite); the promise is the migration.
+  - **The failure mode isn't only "villain" — it's *arm's-length.*** Any reader who can
+    file Pace/Randi/Vee as "a kind of person I am not" breaks the thesis, "because the
+    argument is that these appetites are the reader's own." The marketing must
+    **implicate** the reader, not reassure them.
 - **Consequences for positioning:**
   - **Further from dark romance than from anything** — dark romance is built on the
     dangerous/morally-gray man; no-villain is its structural opposite. Do **not** court
@@ -112,12 +139,18 @@ below against those. Companions: `meta-plan-free-sample.md` (discovery funnel),
   - **Positioning language generalizes `meta-blurb.md`'s anti-*Fifty Shades* move:**
     speak to romance's own dissatisfaction — "outgrown the tropes but won't give up
     the heat."
-- **Packaging must inoculate against the con-misreading.** The premise's *shape* (a
-  game, a lie, dramatic irony she's inside of) pattern-matches to "con/predator" for a
-  skimming browser or a hostile reviewer — a jump even a fully-briefed reader can make.
-  Copy and the opening surface must pre-frame *complicated love, not a con*. (The
-  Cassie beat and the ascendant ending are the on-page mechanisms; the copy must carry
-  the same load for people who haven't read yet.)
+- **Packaging must inoculate against the con-misreading — and the exposure is
+  concentrated in the opening.** The premise's *shape* (a game, a lie, dramatic irony
+  she's inside of) pattern-matches to "con/predator" for a skimming browser or hostile
+  reviewer. Read cold, the opening movement — `{{The Bench}}` (a man works a woman on a
+  bench) → `{{The Pointing Game}}` (a man teaches his girlfriend to "point" at women
+  and selects Vee, closing "let's go feed you") — is legible as *predator hunts prey*;
+  the warmth that redeems it accretes only over later chapters. This is exactly the
+  free-sample stretch (`meta-plan-free-sample.md` runs the sample through
+  `{{The Pointing Game}}`), so **the hook chapters are also the maximum con-misread
+  exposure** — the jacket copy and any framing must work hardest precisely there,
+  pre-framing *complicated love, not a con*. The Cassie beat and the ascendant ending
+  are the on-page correctives, but they land far too late to protect a sampler.
 - **CW-as-marketing:** `meta-blurb.md` ruled no content-warning list for the test round
   (it telegraphs). Revisit for wide — calibrated to the consent-forward, no-villain
   content, as an *invitation* to the reader, not *Haunting Adeline*–style thrill-bait
