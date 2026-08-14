@@ -54,5 +54,5 @@ the echo shortlist with the author before per-chapter editing starts).
 | 46 | Fairytale | fairytale | reviewed |
 | 47 | Old Acquaintances | old-acquaintances | reviewed |
 | 48 | The Usual | the-usual | reviewed |
-| 49 | My Friend Randi | my-friend-randi | edited |
+| 49 | My Friend Randi | my-friend-randi | reviewed |
 | 50 | Nothing Underneath | nothing-underneath | reviewed |
