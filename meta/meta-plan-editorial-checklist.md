@@ -16,9 +16,10 @@ mark items done with dates as they complete.*
 
 ## To do
 
-- [ ] **True line edit** — rhythm, cross-chapter repetition and unintentional
+- [x] **True line edit** — rhythm, cross-chapter repetition and unintentional
   echoes, pet constructions the linter doesn't yet know, paragraph pacing.
-  Systematic front-to-back, distinct from the continuity audit.
+  Systematic front-to-back, distinct from the continuity audit. Complete
+  2026-08-14: all 50 chapters reviewed (`audits/line-edit/STATUS.md`).
 - [x] **Copyedit against a style sheet** — build the style sheet as the pass
   runs: names/spellings, places, hyphenation rulings, numerals, italics
   conventions (interiority italics applied consistently?), dash/ellipsis
