@@ -1,102 +1,105 @@
 # Cold read — In His Hands
 
-*scene: scenes/in-his-hands.md · model: claude-sonnet-5 · read after: school-nights*
+*scene: scenes/in-his-hands.md · prose-blob bfd0356064f69bbe17cc6f56aefdcf99d269ffc3 · model: claude-sonnet-5 · read after: school-nights · 2026-08-13*
+<!-- freshness: prose-blob = `git hash-object scenes/in-his-hands.md` at read time; if it differs from the live file's hash, this review is stale. -->
 
 ## Reader reaction
 
-Body first: this one runs hot and unhurried, and I felt it — the opening paragraph, the hair like a red curtain, the "shaking and stupid and full of him," landed exactly where erotica like this should land, with heat that's actually earned by the buildup rather than announced. And I love that it doesn't stop at the sex — it keeps going into the photograph, into the cooking, into the dinner-table quiet, so the chapter has a whole arc of intimacy rather than one scene doing all the work.
+Well — that's the most explicit this book has been with me, and it works, mostly. The opening had real heat: the hair like a red curtain, the "winded," the soreness she'll be "aware of tomorrow and glad of" — that's honest, unashamed pleasure-writing, not coy. I felt the tenderness of him rolling to lay his cheek on her breast, the small kisses that aren't about sex, and I liked that she catches herself in a theory ("not just about sex for him") and is happy to be wrong about it.
 
-How I feel about Pace: warmer than ever through the tending — the water first, the unhurried arranging of her body "like a woman in an old calendar," the way he takes the photo of her and not for himself first ("That's the one," said to himself, then the grin at her). This is the same "devotion rendered through action" pattern I've been tracking, but here it gets a rare piece of speech to go with it — "Remembering you is a pale thing next to you being here" — which is about as close to a declaration as he's come. Genuinely moved by that line.
+The photo sequence is where it gets interesting and a little uneasy for me — not in a bad way, in a *真* way. She wants pinup, glamour, "a girl on a calendar," goes and puts her face back on before he can see her wrecked and sated — that's a small, sharp detail about self-presentation even inside total intimacy. And then: "she believed him, and believing him was the brave part." That line landed hard. It's not suspicion exactly, but it names the risk plainly — a picture like that, sent on trust, "under the wanting to keep it, the cold sane thought any girl had." I don't distrust Pace here (he promises never to share it, the request came from her), but the text itself flags the vulnerability without melodrama, and I appreciate that it doesn't pretend the risk isn't there.
 
-Then the Thanksgiving exchange turns him a half-shade colder and more guarded than I've seen him. "I don't go back." No elaboration, a level voice, a door shut clean. It's not alarming exactly — plenty of people have exactly this response to family questions — but it's the first time the text has shown me Pace with an edge he won't let her near, and it recolors the warmth around it slightly: he gives so freely with his hands and so little with his history. I don't distrust him, but I notice the asymmetry now in a way I hadn't before — she's just told her best friend "maybe I think so" about loving him, and he in turn won't say a plain sentence about his own parents. Two different kinds of withholding sitting side by side.
+The kitchen scene is where my heart actually went soft — the whole cooking sequence, the "she found... that she could take the thing apart on her tongue... and she knew exactly whose doing that was" — that's such a lovely image of him having changed her palate, her attention, permanently. Domestic and sensual at once, and I trust it completely as tenderness, not control.
 
-Vee: still glowing, funny and alive ("You've used me terribly... promise to use me again soon"), and I like her more for the specific pettiness of the flicker over Sheri — a half-second of jealousy she doesn't indulge, catches herself, lets go of cleanly when she learns Sheri's "alone." That felt human and unpolished in a good way, not manufactured drama.
+Then the Thanksgiving question. "I don't go back." The ease draining out of his face, the level and exact voice — that's the first real crack I've seen in him on the page, not filtered through Vee's retelling to Cassie but live, in the room. It's small, it's contained, he recovers, but I clocked it hard. It rhymes with the standing "scar still unexplained" thread and gives it new weight. And then Sheri — "she's alone" — with Vee's small private flicker of jealousy before she talks herself out of it. That flicker felt very true and unmanufactured; it's the first hint of a live triangle-adjacent unease *from Vee's own body*, not planted by narration.
 
-Swoon/pull: the whole first two-thirds, genuinely. The photograph moment especially — her fear under the wanting-to-keep-it ("the cold sane thought any girl had about a picture like this"), and her choosing to trust him anyway ("believing him was the brave part") is exactly the kind of interior-under-the-desire beat I read for. That's not just heat, that's a real small risk she takes and names to herself.
+Erotic charge: peaks early (the picture, "reached over and closed her hand around him") and eases into something warmer and more domestic by the kitchen — I don't mind the shift, it reads as the arc of an evening, not a loss of nerve.
 
-Erotic charge: peaks in the opening paragraph and again in the posing/photo sequence — there's a charge specifically in his unhurried control of her body ("He did it unhurried and sure... a kiss to the point of her shoulder") that's tender rather than domineering, consent legible throughout (her offering, "How do you want me," his correcting gently, "You'll have to wait"). Goes properly domestic and lower-key at the cooking table, which is fine — it earns the shift by giving me the food-as-intimacy motif again, richer than before.
+Titles: "In His Hands" — after this chapter it's doing double work: literally (he poses her, hands her the phone, feeds her by hand) and as a slightly ominous undertone about how much of herself she's placing in his keeping — the photo, the trust, the "I don't go back" wall she doesn't push past. I don't think it's a warning exactly, more an accurate description that could cut either way.
 
-Friction: none that snagged me. The pacing of the cooking sequence is long but I didn't mind it — it's doing motif work (taste as something Pace taught her) I recognize from before.
-
-Sheri — brand new name, first appearance, no romantic flag attached, just a friend/cycling partner who's "alone" at holidays. Filed as new, not merged with anyone.
-
-The title, "In His Hands": lands very literally and very well — his hands arranging her body, holding the phone, holding her wrist just to say something rather than to stop her, holding her hand at the counter. A tender title, not a sinister one on this read — though "in his hands" also quietly touches the trust question the chapter raises with "I don't go back." I don't feel it as ominous, just doubled.
-
-Book title/tagline: no new pressure from *A Polite Invitation* here — this chapter is inside the relationship, not about an invitation into anything new.
-
-What I want next: to see whether "I don't go back" gets any air later, and whether Vee ever asks again. Not dreading anything, just curious — first real texture of something withheld in him.
-
-**Cast present (in person):** Vee, Pace. **Mentioned only:** Cassie, Randi (neither appears — carried only in prior state, not referenced this chapter), Sheri (new name, Pace's friend, described as alone at holidays, brings a pie and "pretends she made it").
-
-**Heat:** 3 — sustained, explicit, central to the chapter's first half (the initial encounter, the photo sequence, "again" twice).
-
-**Romance:** 3 — the tending, the unhurried posing, "Remembering you is a pale thing next to you being here," the domestic cooking-together stretch; a real peak in tenderness even amid the heat.
-
-**Motifs & images:** Made-by-his-hands/quiet devotion (repeat — this chapter's central image, most vivid instance yet: arranging her body piece by piece, kissing each place he sets her). Taste/food as intimacy (repeat — tasting off the spoon, "she could take the thing apart on her tongue... she knew exactly whose doing that was" — directly continues the soup-burn-adjacent thread from last chapter, now shown rather than recounted). New: the photograph as a token of trust/vulnerability — "she didn't want to give the phone back," "believing him was the brave part."
-
-**Symbolism:** The photo functions as a small trust-test/gift — her fear and her choice to send it anyway reads as a miniature of her larger struggle to hand herself over to him. "I don't go back" reads as the first crack of opacity in a man otherwise rendered wholly through open, generous action.
-
-**Characterization:** Pace deepens — first hint of a guarded interior beneath the constant tending (the parents subject), plus a rare moment of him speaking his feeling almost directly. Vee deepens too — her jealousy-and-release over Sheri, her fear-then-bravery over the photo, both feel true and unforced.
-
-**Pace within chapter:** unhurried by design; the cooking sequence runs long but earns it via the taste motif.
-
-**Pace chapter-to-chapter:** big escalation in intimacy/heat after the quieter, retrospective "In His Hands"-adjacent chapter before it (Cassie/streetlight chapter) — feels like a deliberate alternation between reflection and immersion rather than repetition.
+I want to know what "I don't go back" is guarding, and whether Vee will ever ask again — or whether, like the unnamed word for what Pace is to her, this becomes another circled-but-unlanded thing between them.
 
 ## Carry-forward state
 
-**Principals:**
-- Vee (= Vivienne) — protagonist. This chapter: full sensory immersion in an evening with Pace — sex, a photograph she chooses to send him despite fear, a long cooked dinner, a small jealous flicker over his friend Sheri that she lets go of cleanly.
-- Pace (= Peter) — devotion still primarily action (tending her body, cooking, the photo), but this chapter gives him rare direct speech ("Remembering you is a pale thing next to you being here") and also a first guarded edge: "I don't go back" when asked about his parents, voice gone "careful," door shut, no elaboration.
-- Randi (= Miranda) — absent this chapter; standing status unchanged.
-- Cassie (= Cassandra) — absent this chapter; standing status unchanged (close, low-drama friend, asked Vee directly "Do you love him" last chapter, didn't push the hedged answer).
-- Sheri — new name, first appearance (mentioned only, not present): Pace's cycling friend, brings a pie for Thanksgiving and "pretends she made it," is "alone" (no family to go home to). No romantic charge indicated; Vee's jealous flicker resolves into sympathy once she learns Sheri's alone.
+**Principals**
+- **Pace** (= Peter) — man, controlled, patient, courtly, deeply attentive lover and cook. This chapter: first live crack in his composure on the page — asked about going home for Thanksgiving/parents, his face goes "level and exact," voice careful, and he says only "I don't go back," then closes the subject; Vee doesn't push. Warm, fond, unguarded about Sheri as a friend ("She's alone" — said with plain gladness to be able to feed her). Takes an explicit nude/glamour photo of Vee at her request, on her phone, promises never to share it. Scar still unexplained; "I don't go back" is a new, adjacent unexplained wound.
+- **Vee** (= Vivienne) — woman, living with Pace most school nights (standing). This chapter: full sexual/domestic scene at his house — orgasms described as overtaking her without warning; afterward performs self-composure (fixes hair/makeup) before letting him photograph her, wanting "pinup, glamour" rather than the wrecked truth of herself; sends the photo trusting him, aware of and naming the risk ("believing him was the brave part"). Notices her own palate has been permanently changed by him ("no going back... she knew exactly whose doing that was"). Asks him about Thanksgiving/parents, gets rebuffed gently but firmly, doesn't press. Feels a small private flare of jealousy about Sheri joining him for Thanksgiving, then talks herself out of it.
+- **Randi** (= Miranda) — not on page; standing as previously established.
+- **Cassie** (= Cassandra) — not on page; standing as previously established (Vee's close, dry, perceptive roommate).
+- **Sheri** — mentioned only: Pace's cycling friend, coming over for Thanksgiving, will bring a pie "and pretend she made it," is alone (no family to go to). Fond, easy mention by Pace.
+- **Brooke, Meg** — not on page; standing unchanged.
 
-**Relationship ledger:**
+**Relationship ledger**
 
-*Vee & Pace (core):*
-- **State:** involved (flag: consummated — y, ongoing). Surface: warm, playful, deeply intimate evening — sex, cooking, a shared photograph. True: unchanged in substance, but this chapter shows a first asymmetric edge — Pace, otherwise open in action, closes a door hard around his parents/going home, a small held-back place that contrasts with how freely he gives everything else.
-- Isolation ↔ belonging — belonging dominant and vivid: the whole evening reads as two people fully inside each other's company, culminating at the kitchen table, hands held, "saying nothing at all." A new note of isolation appears specifically around Pace's family — "I don't go back" — a door she's not invited past.
-- Used ↔ cherished — cherished, powerfully reinforced: the unhurried posing, the kiss to each place he touches her, feeding her tastes off the spoon, watching her eat with the same look he'd described. Vee's own joking "you've used me terribly" is affectionate, not literal — no real used-current here.
-- Desire worked-on-her ↔ desire hers — desire hers, strongly: she reaches for him again ("Again," not a question), she chooses to send the photo past her own fear, she directs "How do you want me" (though he redirects her toward what he wants — a light, consensual back-and-forth, not one-sided).
-- Cold ↔ warmth — overwhelmingly warmth: the whole chapter, until the one cold, careful beat over his parents — his face going "level and exact," his voice "careful," a rare and notable cold pocket inside an otherwise warm evening.
-- **This chapter:** Pace shows, for the first time, a guarded/withheld place (his family) inside an otherwise wholly open, generous evening — the relationship's warmth is intact and even deepened (his rare spoken tenderness), but a new asymmetry is now visible: he still won't hand her everything.
+*Pace ↔ Vee* — Core. State: involved (consummated: YES, standing), reconciled — deepening. This chapter is entirely their scene: extended lovemaking, tender aftercare (his mouth resting at her breast, "not about sex for him"), the photo request/exchange, and a full domestic cooking sequence. New texture: the first on-page crack in Pace's composure — asked about going home for Thanksgiving, he goes still and careful and says only "I don't go back," shutting the door before she can step through; she reads it correctly as a boundary and respects it. Also new: Vee's private, quickly-suppressed flicker of jealousy over Sheri joining him for the holiday.
+  - Warmth ↔ cold: warm and physically saturated — held, fed (literally, by hand, off a spoon), watched with open desire — but touched by one cold moment: the sudden formality/distance when parents come up.
+  - Isolation ↔ belonging: belonging, strongly — "this is my home," shared wine, shared cooking, her palate permanently altered by him; but his own isolation ("I don't go back," Sheri "alone" too) is newly visible as a shape neither fully shares with the other yet.
+  - Cherished ↔ used: cherished — his attentiveness (posing her with kisses at each place he sets her, watching her eat, promising never to share the photo) reads as devotional, not extractive; her own line "you've used me terribly... promise to use me again" is played as affectionate hyperbole, not real complaint.
+  - Desire worked-on-her ↔ desire hers: her desire reads as fully hers and freely spent (initiating "again," reaching for him); the one asymmetry is presentational — she edits her appearance before being seen/photographed, wanting to control how his eyes have her rather than simply being seen as she is.
+  - This chapter: first live glimpse of a wall in Pace (parents/"I don't go back"); the photo exchange as a real trust-risk named plainly on the page; Vee's small jealous flicker toward Sheri, suppressed.
 
-*Vee & Randi (core):* No appearance — carrying forward verbatim.
-- **State:** friends (close) · newly flagged **attracted**, with a **secret** modifier on Vee's side at minimum (she cannot admit even to herself what happened in the bathroom, let alone to Randi) — surface reads as ordinary best-friend intimacy to an outside eye; true is charged and unresolved, and I genuinely don't know if it's mutual, one-sided, or something Randi half-knows and is playing with. Not consummated in any form; the kiss is on the border of ordinary and more.
-- Warmth ↔ cold — warmth throughout the meal (mimosas, laughter, the kiss), but the bathroom scene and the "clinical blue" light bring a private cold/shame current underneath it that the warm surface never touches.
-- Belonging ↔ isolation — belonging, powerfully — "best friend in the whole world" — but paired with a new private isolation: Vee alone in the stall, alone in not knowing what Randi meant, unable to ask.
-- Cherished ↔ used — cherished on the surface (Randi's warmth reads sincere), but a live undercurrent of something closer to used/performed-for keeps surfacing in the ambiguity of "sticky fingers?" and the pastry-taste ending — unresolved.
-- Desire hers ↔ desire worked-on-her — worked-on-her, strongly: Vee's arousal in the bathroom explicitly produced by imagining Randi's gaze — the most vivid worked-on-her instance in the book so far.
-- **This chapter:** no change — Randi did not appear.
+*Pace ↔ Randi* — Core. State: involved (consummated: yes, ongoing), complicated by unglossed "not finished." Not on page or mentioned this chapter. No change.
 
-*Vee & Cassie:* No appearance this chapter — carrying forward verbatim. Established as genuinely close, low-drama, no-agenda friendship. Cassie knows Vee is barely home, gently needles her, asks the one direct question ("Do you love him") no one else in the book has asked, and doesn't push past the hedged answer. Asymmetry: Vee gives Cassie the fullest, most voluble account of her happiness with Pace given to anyone on the page so far — more than she's given Pace himself in words.
+*Randi ↔ Vee* — Core. State: friends (close), the charged/ambiguous read from the brunch chapter stands entirely untouched here (Randi not on page, not mentioned). No change.
 
-*Vee & Sheri:* New, minor — no direct interaction (Sheri hasn't appeared on the page, only discussed). Vee's first reaction is a private, unspoken flicker of jealousy at the thought of another woman at Pace's Thanksgiving table, resolved into sympathy/warmth on learning Sheri has no family to go to.
+*Vee ↔ Cassie* — Core. State: friends (close), warm, trusted, unguarded (standing from prior chapter — Cassie as confidante, the unanswered "do you love him"). Not on page this chapter. No change.
 
-*Vee alone:* This chapter shows her overcoming a small private fear (sending the intimate photo) as a deliberate act of trust — "believing him was the brave part" — a rare moment where she names her own courage rather than only her hesitation.
+**Everything else** — no new pairs.
 
-**What I know that they don't:** Unchanged from before — genuine uncertainty about whether Randi noticed/engineered the bathroom moment or is simply warm and oblivious; more certain of Pace's depth of feeling for Vee than his own words usually state, though this chapter partly closes that gap with his own words. New: I now know Pace has a hard, guarded no-go zone around his parents/"going back" that Vee has touched once and backed off from — she doesn't push, and neither the text nor Vee explains why he won't go back.
+**What I know that they don't**
+- Vee has been selected/approached under possibly false pretenses by Pace (engineered "collision" via Randi) — untouched this chapter; Vee has no idea.
+- Randi is actively, skillfully extracting details of and steering Vee's path, while also genuinely, privately fond of her — standing, untouched here.
+- Randi's private resolve never to let Pace see her fully unarmored self again — standing, unaddressed.
+- Pace's real tenderness with Vee — further corroborated live on the page this chapter (the posing, the aftercare, the cooking).
+- Pace's history with Daphne — untouched, standing; newly resonant with "I don't go back" — does this refusal connect to Daphne, to his parents, to something else entirely? Open.
+- The scar — not mentioned this chapter; standing open question, now joined by a second, adjacent unexplained wound ("I don't go back" from parents).
+- Cassie's unreadable look toward Randi — standing, unaddressed.
+- Randi's kiss with Vee, the lingering goodbye — standing, untouched.
+- Vee's credit-card debt / money anxiety — standing motif, not on page this chapter.
+- Pace told Sheri his situation with Randi is "not finished" — untouched, standing; Vee has no idea, and this chapter has Vee unknowingly jealous of Sheri's platonic proximity to Pace while the real romantic entanglement (Randi) stays invisible to her.
+- Randi's story of an ex/husband who spanked her ritually — untouched, standing open question.
+- The pastry glaze on Vee's lips from the brunch chapter — untouched, standing unresolved.
+- The whispered "Peter," unheard — untouched, standing.
+- The drawer he clears for her — untouched, standing.
+- Vee's gap between fluent narration and plain declaration ("maybe... I think so") — untouched this chapter (Cassie not present), still open.
+- **New:** the photo now exists — sent to Pace's phone, currently only in his and her possession per his promise. A concrete new object of trust/risk in the relationship.
+- **New:** Pace's flat refusal to discuss going home to his parents — the first time his composure visibly breaks and re-seals on the page, unmediated by anyone else's retelling.
 
-**Motifs:**
-- Made-by-his-hands/quiet devotion — dress, table, chair, cooking, the drawer, the soup-burn cold-cloth tending (all prior). This chapter's most vivid instance yet: unhurried, deliberate posing of her body for the photograph, a kiss to each place he arranges — "He did it unhurried and sure, and at each place his hands set her he put his mouth there after."
-- Taste/food as intimacy — reinforced strongly again: feeding her off the spoon during cooking, her ability to "take the thing apart on her tongue," explicitly credited to him — "she knew exactly whose doing that was." Directly continues the food-as-intimacy thread building since the soup-burn retelling.
-- The streetlight (Cassie's image, prior chapter) — dormant this chapter, no direct reference, but arguably continues into this one as the glow itself, shown rather than named.
-- Desire hers vs. worked-on-her — desire hers, vivid this chapter (reaching for him again, choosing to send the photo); last worked-on-her instance remains the Randi bathroom scene.
-- New: the photograph as trust-token — sent past her own fear, "the cold sane thought any girl had about a picture like this," and "believing him was the brave part." Worth tracking if it recurs or resurfaces as a vulnerability later.
-- The heels — dormant, no mention this chapter.
-- Her body / self quietly reshaped around him — echoed again via the taste motif ("she could take the thing apart on her tongue... there was no going back to the other") — same shape as the earlier "reshaped around him" thread, now specifically about taste/palate rather than clothes or space.
+**Motifs**
+- **Naming as intimacy/control** — standing ("Peter" whispered/unheard; Vee's unlanded "I love him"); this chapter's closest echo is Pace's refusal to name anything about his parents — a different direction on the same motif, something withheld rather than something not-yet-findable.
+- **His clothes/making as intimacy object** — standing (the burgundy dress, the drawer, the burn-tending); this chapter's cooking sequence (chicken, lemon, garlic, wine reduction, feeding her off the spoon) is the fullest instance yet — his total absorption in the small task, her palate permanently changed by him ("no going back to the other").
+- **The dance/lead-and-frame as trust** — standing, echoed strongly here: he physically arranges her body for the photo, unhurried and sure, kissing each place he sets her — same shape as the dance-frame trust motif, now in a sexual/aesthetic register.
+- **Randi dressing/handling Vee's body** — standing, not on page.
+- **The spank/body-answers-before-mouth motif** — standing; this chapter: her nipple rising "with no say from her" under his mouth is a clean instance — body answering before her conscious will engages.
+- **The outlier/involuntary-heat motif** — standing, echoed by the above.
+- **The two-costume/public-vs-private-self structure** — standing; this chapter gives a sharp new instance: she goes to the bathroom after sex to "put her face back on... the version of herself she wanted him to keep" before letting him photograph her composed rather than wrecked — self-presentation even inside total intimacy.
+- **The bathroom-mirror/blue-light self-confrontation** — standing; this chapter's bathroom moment ("worked at herself in his mirror until she'd found the version of herself she wanted him to keep") is a direct, charged new instance of this motif — first fold into the gist.
+- **The pastry/taste-transfer image** — standing, unresolved, untouched.
+- **The two-drawers motif** — standing, untouched.
+- **"No note, there was never a note"** — standing, untouched.
+- **"Fine" as the old bar, unnamed as the new one** — standing, untouched this chapter (not mentioned).
+- **New — "I don't go back"** — Pace's flat refusal about parents/home, delivered in a voice gone "careful, each word set down clean and apart from the last." A new withheld-word instance to track alongside the scar.
+- **New — the photograph as trust object** — she requests it, he poses her with devotion, she names the risk plainly to herself ("believing him was the brave part") and sends it anyway. A concrete artifact now exists in the world of the story.
+- Managed step vs. deliberate long step — standing, untouched.
+- Shame/witness motif, total-presence/lifting motif, mother's formality — standing, untouched this chapter.
+- The tomato/burn story — standing from prior chapter, untouched here, still the compressed emblem of appetite-outrunning-care met by his outsized tenderness.
 
-**Symbolism:** The photo as miniature of her larger surrender-of-trust to him; "I don't go back," said about his parents, reads as the book's first visible crack in Pace's otherwise fully legible, action-based devotion — an interior he keeps closed even as he opens everything else to her.
+**Symbolism**
+- The shoes — standing, untouched.
+- The mirror scene — now doubly instanced (prior chapters + this chapter's bathroom "putting her face back on") — reads as her ongoing negotiation between the self she is and the self she wants seen.
+- The dress's slit, the practice room, the outlier lecture, the scroll/certificate, the scar — standing, untouched.
+- The pastry glaze — standing, untouched, unresolved.
+- The two drawers — standing, untouched.
+- The burn — standing, untouched this chapter.
+- **New — the photograph** — reads as a symbol of total, risked trust: she gives him an image of herself curated by his gaze, on the strength of a promise, naming the danger to herself even as she does it.
+- **New — "I don't go back"** — reads as a locked door standing next to the unexplained scar; both now legible as the same shape — something in Pace's past he will not let her (or perhaps anyone) approach.
+- Dance frame as trust, Simpson's paradox/"two years," shared shoe size with Randi, Randi's stillness, Pace's math monologue as self-description, the ride/climbs — all standing, untouched.
 
-**Open questions:**
-- What happened in "Randi's story" — still never shown.
-- Whether Vee ever tells Randi or Cassie anything true about the ambiguous charge with Randi specifically — still open.
-- The unexplained surgical scar on Pace's inner thigh — still unaddressed.
-- What did "sticky fingers?" actually mean — unresolved.
-- The pastry-taste at the end of the Randi chapter — literal or figurative — unresolved.
-- Is Vee's attraction to Randi something she'll act on, suppress, or never fully name to herself — still open.
-- Will Vee ever say "I love you" to Pace while he's awake, and will he ever say it back — still open.
-- New: why won't Pace "go back" to his parents? What's behind the level, careful voice? Nothing more is given than the refusal itself.
-- New: who is Sheri, really, to Pace — friend only, as stated, or something the text will complicate later?
+**Open questions**
+- All prior open questions stand: the triangle's endpoint; whether Vee learns she was targeted; Randi's resolve holding; the Daphne parallel; Randi's self-concealment's cause; Cassie's suspicion of Pace/Randi; Randi's motive for extraction; the never-discussed kiss and toenail-touch; the scar's meaning and "some night"; whether Vee's own age relative to Pace echoes Daphne; the meaning of "you always get bored"; what Randi's stillness is about; whether Vee's story-editing habit catches up with her; the credit-card debt's consequences; whether Vee's induction-night self-possession persists under Randi's gaze; what "Randi. That's not finished" means precisely; will "Peter" ever surface for him to hear; will the Randi/Vee kiss ever be named; is Randi's total control wisdom, management, or both; who is the man in Randi's spanking story; does Randi know/intend the effect her disclosure has on Vee; will Vee's self-authored desire persist under Randi's gaze; what is the pastry glaze; will Vee actually keep the overnight-bag arrangement (further corroborated, standing); will Vee ever say "I love him" plainly.
+- **New:** what is behind "I don't go back" — parents, a specific rupture, something connected to the scar or to Daphne? Fully open.
+- **New:** what will become of the photograph — will it ever surface as a risk realized, or stay simply a private, trusted thing between them?
+- **New:** will Vee's small jealous flicker toward Sheri (or, unknowingly, toward the real rival Randi) ever sharpen into something she has to reckon with?
 
-**How I feel — overall:** Warm and a little swept away — this chapter gave me the fullest, most satisfying stretch of tenderness-plus-heat in the book so far, and I trust Pace and Vee together more than ever on the surface. But it also handed me my first real textured unease about Pace specifically — not suspicion of bad intent, just the first sense that there's a locked room in him that Vee has touched once, briefly, and been shut out of gently but firmly. It doesn't sour the warmth; it just sits alongside it, a small cold note in an otherwise very warm chapter.
+**How I feel — overall**
+Warmed and turned on by the opening, moved by the kitchen sequence, and then quietly unsettled — in a good, earned way — by the "I don't go back" moment, which is the first time I've felt Pace's composure genuinely cost him something on the page rather than just being described as steady from outside. I don't distrust him; if anything my sympathy for him deepened (a man who "doesn't go back," whose only Thanksgiving guest is another person who's "alone"). But I'm newly alert to how much is still locked away in him, right alongside how much he gives Vee physically and domestically. Vee herself felt very human here — her instinct to curate herself even in intimacy, her small unexamined jealousy, her trust in sending the photo — none of it flattens her, all of it deepens her. Cassie and Randi absent but not forgotten; I carry the "maybe, I think so" thread forward waiting to see if it ever resolves into a plain "I love him."

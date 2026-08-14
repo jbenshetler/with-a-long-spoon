@@ -1,89 +1,91 @@
 # Cold read — All Told
 
-*scene: scenes/all-told.md · model: claude-sonnet-5 · read after: peekaboo*
+*scene: scenes/all-told.md · prose-blob 50af8384c613a80d9b0dcc1cc84e0d930ea2b14d · model: claude-sonnet-5 · read after: peekaboo · 2026-08-13*
+<!-- freshness: prose-blob = `git hash-object scenes/all-told.md` at read time; if it differs from the live file's hash, this review is stale. -->
 
 ## Reader reaction
 
-I loved this one — smaller-scaled than "All Told" implies from the title alone, but it lands warm and specific in a way that made me grin. The whole classroom scene is doing something I hadn't gotten from the book yet: showing Vee's two friendships side by side, in the same room, at the same time, so the difference between them isn't told to me, it's blocked. Randi is a lamp finding you, Cassie is a made bed read correctly from across a room. I felt the exact temperature difference between "Was it a good night?" and "Tell me everything, leave nothing out" — Cassie's question is spare and lands harder for it ("Oh, yes" — Vee gives her more than she meant to, unprompted, because it's Cassie).
+This one's lighter on its feet than the last, and I liked it that way — a morning-after chapter that trusts the glow to carry itself instead of re-litigating the night. Vee floating in on "late to everything and it didn't bother her a whit" is such a good, specific texture of happiness — I felt it in my own chest a little.
 
-The Simpson's paradox lecture is the chapter's real spine and it worked on me more than I expected from a stats digression. "A thing can run one way across every short stretch you measure and the opposite way across the whole of it" — I felt that land as a thesis-shaped sentence the moment I read it, and Vee even writes it down "because it had the ring of an exam question," which is a lovely bit of dramatic irony — she's taking it as exam prep, not as a description of her own life, her own friendships, maybe her own read on Pace. I don't know yet what it's pointing at specifically, but I felt the chapter's thumb settle there without being told to feel it.
+**Cassie** is the real gift of this chapter. I already had her as warm and trusted, but the beat where she doesn't even pretend to follow the professor — "she had spent watching what the dress had done to her friend, because the friend was the only part of any of it Cassie had ever been able to see" — that's devotion rendered without a word of sentiment. And her question, "Was it a good night?", plain and unadorned, gets the realest answer in the chapter: "Yes. Oh, yes." I trust Cassie completely and this chapter only deepened that. No agenda in her at all, just attention.
 
-Body before mind: the soreness detail — "a good soreness no gym had ever given her, down low, and up the inside of both thighs" — is the chapter's one moment of real heat, brief and physical and honest, and "slut" landing lower than Randi meant it to (because Vee's body is still keeping the account) is a nice small psychological hit, shame's echo showing up in a joke.
+**Randi** is exactly as charming and exactly as unsettling as before, and this chapter sharpened both at once. The performance of scandal ("Vivienne Thorne. It is a Friday") is genuinely fun, genuinely warm-sounding — and then "You lucky slut" lands with a small ugly thud against Vee's actual tender, private, sore body, and I felt that mismatch before Vee named it. Randi's not doing anything villainous here, just being a little careless with a word in a moment that wasn't hers to be careless in — but knowing what I know about her extraction habit, I can't watch her "already turning the dress over in her hands without a hand on it" and not feel the gears turning, even over something as innocent as shoes. The shoe-shopping date is sweet and I want it for its own sake, and also I clocked it as another appointment where Randi gets Vee alone and talking.
 
-Swoon/pull: Randi grabbing Vee's wrist over the shoes — "That's not a problem, that's a date... Don't you dare tell me no" — "it went through her warm, and she didn't [tell her no]." That's charming and also, given the standing ledger, a little loaded — Randi's warmth and Randi's steering have always come bundled together for me, and this is such a small, generous-seeming instance of the pattern (deciding Vee's Saturday for her, gently, irresistibly) that I can't tell if I should read anything into it or if it's simply Randi being a good friend. I'm holding it loosely.
+**Pace** isn't on the page but sits under everything — the dress "still shown to not one living soul" at the very end lands with a strange, protective ache. She's guarding it now, the way he guarded the trouble he took making it.
 
-Trust vs. suspicion: nothing new against anyone. Cassie continues to read as the steadiest, most quietly perceptive person in the book — she doesn't even pretend to care about the numbers on the board, she's watching Vee the whole time, and that reads as devotion, not surveillance. If anything this chapter warms me toward Cassie specifically, more than any prior chapter has.
+**Swoon/pull**: the whole first half — the made bed, "a tattletale in the cold morning light," her body's private ledger of soreness — genuinely swept me. The Simpson's paradox lecture running underneath as an unforced little irony (numbers that lie by stretch, truth only visible zoomed out) is a nice bit of structure I noticed without it feeling planted — "short stretches can lie against the whole" is a line I'll be turning over given everything else this book is quietly asking me to hold in suspension about Pace and Randi.
 
-Friction: none really — it's a tight, controlled scene, the paradox lecture doing a lot of thematic lifting without ever announcing itself as a metaphor (nobody in the room says "this is like your life, Vee"), which I appreciated.
+**Friction**: none really — this is a confident, controlled chapter, nothing over-explained.
 
-Titles: "All Told" — I like this a lot on reflection. It plays two ways: the classroom scene where Vee is literally telling (partially) — the dress "finished," not what happened in it — and "all told" as in "when everything's added up," which chimes directly with the Simpson's-paradox content (short stretches vs. the whole). It's a title that rewards the read rather than spoiling it; I didn't see the pun coming, and now I can't unsee it.
+**Titles**: "All Told" — after that lecture, I can't not read it as "when you add it all up" — the short-stretch/whole-stretch idea made literal in the title. Feels pointed rather than accidental, though pointed at what exactly (Vee's happiness? the eventual reckoning of everyone's hidden math?) I can't say yet.
 
-What I want next: I want to know what "short stretches vs. the whole" ends up meaning for Vee's actual life — is this the book quietly warning me that the run of warm chapters (Pace's tenderness, Randi's generosity) reads one way close-up and might read differently added up? Pure guess from here, nothing on the page insists on it, but the lecture is placed too precisely not to wonder.
-
-**Cast present:** Vee, Randi, Cassie (all on page, in the stats classroom). Pace mentioned only, not present.
-
-**Heat:** 1 — one physical paragraph, the post-sex soreness recalled in class; charged but brief, not the scene's center.
-
-**Romance:** 1 — faint warmth threaded through friendship, not romantic-couple material this chapter (Pace/Vee offstage).
-
-**Motifs & images:** The made bed as a "tattletale" — first sighting, a nice compressed image for Vee's own awareness of being read by Cassie without a word said. Simpson's paradox / "short stretches can lie against the whole" — first sighting, thesis-adjacent, likely to recur or resonate. The dress — repeat motif (from prior chapter's carry-forward), here withheld rather than shown: "the dress three blocks back in a closet, zipped in its bag, still shown to not one living soul" — a new instance of the motif, this time about what's *not* shown.
-
-**Symbolism:** Simpson's paradox as an image for accumulated truth vs. moment-to-moment truth — the chapter doesn't force the connection to Vee's life, but places it adjacent enough that I feel invited to hold it against the standing open questions about Pace/Randi/the whole shape of things.
-
-**Characterization:** Cassie deepens nicely — steady, unshowy perceptiveness, genuine indifference to surface (shoes, dress) contrasted directly with genuine care for Vee's interior state. Randi stays consistent with her established warmth/steering pattern — nothing new, but a small fresh instance (the shoe-date) that fits the existing groove exactly. Vee lands as a young woman full and a little smug with happiness, self-aware enough to clock the difference between her friends without judging either.
-
-**Pace — within chapter:** Brisk and controlled; the lecture digression could have dragged but earns its space by being short and thematically loaded rather than padded.
-
-**Pace — chapter to chapter:** A cooldown/breather after the prior chapter's big consummation scene — moves us out of the bedroom and into daylight, friendship, ordinary time. Feels like a needed change of register rather than a lull.
+I want the shoe date and I'm wary of it in the same breath — that's where this chapter leaves me.
 
 ## Carry-forward state
 
-**Principals:**
-- Pace — man, controlled/exacting, woodworker's hands, broad-shouldered/deep-chested, scar on inner thigh (unexplained). Cooks from scratch. Absent this chapter (mentioned only — Vee left his place at 8am). No new development.
-- Vee — woman, tall, dark red hair. This chapter: spent the night with Pace, arrived late and happy to every class, sat between Randi and Cassie in stats and told them (an edited version — the dress, not the sex) that the dress was finished and worn. Physically marked by the night (soreness) she register privately, not shared. Made an unplanned, more-charged-than-intended admission to Cassie specifically ("Oh, yes"). Accepted Randi's plan for a Saturday shoe-shopping trip without resistance ("it went through her warm, and she didn't [say no]"). Dress remains unshown to anyone, zipped in its closet.
-- Randi (= Miranda) — on page this chapter: warm, performative, delighted, immediately reframes Vee's shoe problem into a claimed Saturday together ("That's not a problem, that's a date... Don't you dare tell me no"), takes Vee by the wrist. Habitually early (sorority habit, "never being the one they waited on"). No new suspicion raised this chapter, but the pattern of warmly steering/deciding for Vee continues.
-- Cassie (= Cassandra) — on page this chapter: quiet, doesn't perform interest in the dress or in class content, watches Vee instead of the professor the entire lecture, asks one spare, well-aimed question ("Was it a good night?"), gets an answer with more feeling in it than Vee planned. Doesn't care about shoes or fashion (same fleece two winters running). Reads bed-making/absence correctly and instantly, without judgment. Deepened this chapter as the steadiest, most perceptive of the three.
-- Kayla / Meg, Theo, Brooke, unnamed taller woman (Smoothie Bird) — absent, no change.
+**Principals**
+- **Pace** (= Peter) — man, controlled, patient, courtly; not on page this chapter, only referenced (dress-maker, the night stayed in her body). Involved with Randi (consummated, ongoing); involved with Vee (consummated: yes). Standing details (silk dress made for Vee, unexplained scar) unchanged, unmentioned this chapter.
+- **Vee** (= Vivienne) — present, central, POV. Morning-after glow carrying her through the day; recounts the dress and the night to Cassie and Randi (withholding nothing overtly, but the dress itself stays "shown to not one living soul" — a private image she's not yet displayed). Body keeping "the night's account" — soreness as private, treasured evidence. Flustered/exposed by Randi's "slut," privately proud rather than shamed. Agrees to a shoe-shopping date with Randi for Saturday, for shoes to go with the dress (destination: the imagined induction).
+- **Randi** (= Miranda) — present. In full charming/performing mode — mock-scandalized, delighted, warm, quick to solve Vee's "problem" (no matching shoes) by claiming Saturday for herself. Says "You lucky slut," landing awkwardly against Vee's private tenderness. Immediately pivots to imagining/handling the dress ("already turning the dress over in her hands without a hand on it") — reads as her habitual acquisitive curiosity about Vee's happiness, consistent with prior extraction pattern, though nothing overtly manipulative on the page this chapter.
+- **Cassie** (= Cassandra) — present. Reads Vee instantly and correctly off the made bed before a word is said ("Your bed's made" / "You didn't come home"). Doesn't feign interest in class or in dress/shoe talk — her whole attention stays on Vee's happiness itself, not its trappings. Asks "Was it a good night?" plainly; visibly eases at Vee's answer. The eyebrow "in reserve" motif continues — raised once at the shoe-date enthusiasm, brought back down.
+- Unnamed **stats professor** — one-scene, delivers a Simpson's paradox lecture (baseball hitting stats, two players, aggregated vs. year-by-year reversal); not a principal.
+- **Meg, Kayla, Theo, Danny, Brooke, unnamed taller woman, Christine, Daphne, Sloane, Kinsey** — not present or mentioned; no fresh detail.
 
-**Relationship ledger** (axis order: cherished ↔ used · desire hers ↔ desire worked-on-her · warmth ↔ cold · belonging ↔ isolation):
+**Relationship ledger**
 
-Pace & Vee — Core. Absent this chapter (Vee's night with him is referenced/aftermath only, not shown). State unchanged: **involved (consummated: y)**.
-- cherished ↔ used: cherished stands from last chapter (the dress, the unhurried reveal); unrefreshed this chapter — nothing added or contradicted.
-- desire hers ↔ desire worked-on-her: hers stands from last chapter (her own claiming at the mirror, her initiation); unrefreshed this chapter, though the physical residue (soreness) is registered as hers to feel and half-conceal, not performed for anyone.
-- warmth ↔ cold: warm, standing; the whole day (Vee's mood, her body) is aftermath-glow of the prior chapter's warmth.
-- belonging ↔ isolation: belonging stands from last chapter (the warm house, "the only one awake").
-- This chapter: no change directly (Pace offstage) — but Vee's happiness/soreness function as the visible residue of the relationship, carried into a scene about her *other* relationships.
+*Pace ↔ Vee* — Core. State: involved (consummated: YES, standing). Not on page this chapter, but referenced throughout as the source of Vee's glow — the finished dress, the night, her body's soreness held privately as treasured evidence rather than shame. New detail: she has told her friends the dress is finished and the night was wonderful, but has not shown the dress itself to anyone — she is guarding the object itself even while sharing the fact of her happiness.
+  - Warmth ↔ cold: unchanged, standing warm (last chapter's peak); not tested on page this chapter.
+  - Isolation ↔ belonging: her happiness is now social — shared aloud with her two closest friends for the first time — but the dress itself stays private, not yet unveiled to anyone. A held-back layer under the shared one.
+  - Cherished ↔ used: unchanged, standing warm; nothing new this chapter to complicate it.
+  - Desire worked-on-her ↔ desire hers: unchanged, standing as hers; her body's soreness read by her as private pride, not imposed.
+  - This chapter: no direct scene; her happiness carried into daylight and shared partially with friends, but the dress kept hidden — a small, telling asymmetry (tells the story, withholds the object).
 
-Pace & Randi — Core. Absent, no change. State: involved (consummated: y). Surface: a game between lovers, hers to choose within. True: engineered, premeditated (standing). Axes unrefreshed: cherished/used both true; desire worked-on-her/hers both true, unresolved; warm surface/cold calculation underneath; belonging/isolation unrefreshed.
+*Pace ↔ Randi* — Core. State: involved (consummated: yes, ongoing). Not on page, no change this chapter.
 
-Randi & Vee — Core. On page together this chapter, friendly and warm.
-- cherished ↔ used: both still true and unresolved — Randi's delight in Vee's news reads as genuine care, but her instant claiming of Saturday ("Don't you dare tell me no") is also Randi deciding the terms, gently but totally, of Vee's time — a small fresh instance of the standing pattern, not a new severity.
-- desire hers ↔ desire worked-on-her: worked-on-her still dominant in the sense that Randi steers the frame ("You lucky slut," turning the dress into an outfit-plan before Vee's said a word) — but nothing crosses into anything sexual or extractive this chapter; register stays light, playful.
-- warmth ↔ cold: warm, sustained — "the full warmth of her attention... like a lamp finding you."
-- belonging ↔ isolation: belonging — Vee "happy in the middle" of both friends.
-- This chapter: no new severity, but a small fresh instance of Randi's warmth-and-steering pattern (the shoe "date," claimed instantly and unrefusably).
+*Randi ↔ Vee* — Core. State: friends (close), surface — true state reads as actively asymmetrical (Randi as skilled extractor, Vee as unknowing confider). This chapter: warm, performative, delighted interaction; Randi's "slut" briefly stings Vee privately (unspoken); Randi immediately claims Saturday to shop for shoes with Vee, framed as generous but also another instance of Randi drawing close to Vee's private happiness and handling it ("turning the dress over in her hands without a hand on it").
+  - Warmth ↔ cold: high surface warmth, genuine-seeming delight; one small cold note where "slut" lands wrong against Vee's private tenderness.
+  - Isolation ↔ belonging: Randi actively pulls Vee into planned intimacy (the shoe date) — reads as belonging on the surface, though the reader-level unease about *why* Randi wants close access persists.
+  - Cherished ↔ used: ambiguous — nothing overtly instrumental on the page, but the reader's standing knowledge of Randi's extraction habit colors even a kind gesture (the shoe date) with faint unease.
+  - Desire worked-on-her ↔ desire hers: n/a this chapter (not a desire-axis scene between them).
+  - This chapter: warm surface interaction; Randi claims Saturday (shoe shopping) — new planned scene on the horizon; small sting from "slut"; standing asymmetry/extraction-pattern unease untouched but freshly relevant given the new one-on-one time being arranged.
 
-Vee & Cassie — Core. On page together this chapter, quietly deepened.
-- cherished ↔ used: cherished, clearly — Cassie's attention is on Vee, not the dress, not the lecture, not performance; nothing instrumental in it.
-- desire hers ↔ desire worked-on-her: n/a this chapter (not a desire-axis moment, more a knowing/trust one) — Vee's unplanned, fuller "Oh, yes" is hers, freely given, not drawn out by technique the way Randi's coaxing worked in an earlier chapter.
-- warmth ↔ cold: warm, understated — no drama, just steady presence and correct reading of Vee without a word needing to be said.
-- belonging ↔ isolation: belonging — Cassie is the one who reads Vee most accurately of anyone this chapter.
-- This chapter: deepened — Cassie's perceptiveness and unshowy devotion the clearest they've been on page; the standing "edited version" crack (Vee tells Cassie less than she tells Randi) is present in that Vee only shares the dress, not the sex — but it reads here as protective/private rather than a lie, since Cassie doesn't ask and doesn't seem to want the details, only the feeling.
+*Vee ↔ Cassie* — Core. State: friends (close), warm, trusted — reaffirmed and deepened this chapter. Cassie reads Vee instantly and accurately (the made bed), doesn't perform interest she doesn't have, and cares only about Vee's actual happiness, not its details (dress, shoes). Her plain question "Was it a good night?" and visible relief at Vee's answer is the clearest evidence yet of Cassie's steady, undemanding devotion.
+  - Warmth ↔ cold: warm, unguarded, no performance — the most straightforwardly trustworthy relationship in the book so far.
+  - Isolation ↔ belonging: Cassie is a place Vee can simply be seen and be fine — belonging without cost.
+  - Cherished ↔ used: purely cherished — Cassie wants nothing from Vee but Vee's own wellbeing.
+  - Desire worked-on-her ↔ desire hers: n/a, not a desire-axis relationship.
+  - This chapter: deepened — Cassie's incuriosity about surface details (dress, shoes) contrasted pointedly against Randi's eager interest in exactly those details, sharpening the difference between the two friendships.
 
-**Everything else:** No other pairs on page.
+**Everything else**
+- Randi ↔ Cassie: no direct interaction this chapter beyond sitting near each other in class; no change.
 
-**What I know that they don't:** The Pace/Randi consummated history and the standing engineering-suspicion around how Vee came to Pace — untouched again this chapter, both people offstage or unaddressed. Randi's coaxing-technique pattern from an earlier chapter (comfort and extraction intertwined) — not directly reenacted this chapter, but the shoe-date scene rhymes with it faintly (Randi again setting the terms of something for Vee, warmly, totally). On the caring side: Cassie's read of Vee this chapter is the clearest evidence yet that at least one relationship in Vee's life has no angle in it at all — worth holding as plainly as the suspicions.
+**What I know that they don't**
+- Vee has been selected/approached under possibly false pretenses by Pace (engineered "collision" via Randi) — untouched this chapter.
+- Randi is actively, skillfully extracting the details of Vee's night(s) with Pace under cover of friendship — this chapter offers a fresh mild instance (turning the dress over "without a hand on it," claiming exclusive access via the shoe date) though nothing damning on its own.
+- Randi's private resolve never to let Pace see her fully unarmored self again — untouched.
+- Pace's real tenderness (the dress, the reveal) — reaffirmed by Vee's private happiness this chapter, not directly shown.
+- Cassie's unreadable look toward Randi — still standing, unaddressed.
+- The scar on Pace's inner thigh — still unexplained, unmentioned this chapter.
+- Randi's kiss with Vee, escalated two chapters ago, still never named or discussed — untouched this chapter.
 
-**Motifs:**
-- The dress — gist: finished, revealed, worn; now (this chapter) explicitly *unshown* to anyone else, "zipped in its bag, still shown to not one living soul," with the shoe-problem as its next open thread (Randi's claimed Saturday). Most charged prior instances: "he'd taken all that trouble and then taken the further trouble to hide the trouble"; the mid-sex pause to hang it "like something alive"; Vee's closing daydream of wearing it into the induction, "what she was for."
-- The made bed — first sighting, this chapter: Vee's own bed made from the night before, read correctly and wordlessly by Cassie as evidence Vee didn't come home — "a tattletale in the cold morning light for anyone who cared to read it."
-- Simpson's paradox / "short stretches can lie against the whole" — first sighting, this chapter: a stats-lecture digression (two ballplayers, reversing rankings depending on whether you look year-by-year or in total) that Vee takes as exam prep but that the chapter places suggestively near her own relationships and self-understanding; not yet resolved into meaning, held as a live thematic thread.
-- The underwear/"Trade"/being-seen thread — quiet this chapter, standing from before.
-- The ladle/soup self-editing motif — quiet this chapter, but faintly present in what Vee does and doesn't tell Cassie vs. Randi (dress shared with both; sex shared with neither, though hinted stronger to Cassie via tone).
-- Shame-to-desire turn — quiet this chapter, standing from before.
+**Motifs**
+- **Mother's internalized voice / self-policing** ("Floozy") — dormant this chapter; last major defeat was the mirror scene. Watch for recurrence.
+- **The ladle / editing the story** — light instance this chapter: Vee tells Cassie and Randi about the dress and the night but visibly withholds/edits — the dress itself stays unshown ("still shown to not one living soul") even as the fact of it is shared. A new, subtler variant: withholding the object while sharing the emotion.
+- **The dress** — realized in full last chapter; this chapter it becomes a social fact (spoken of) but stays a private object (unseen by anyone but Pace and Vee) — the gap between telling and showing is now explicit on the page.
+- **New/echoing: "short stretches can lie against the whole"** — the Simpson's paradox lecture, delivered as classroom content but landing as thematic commentary: the same numbers/facts read as opposite truths depending on whether you look close or step back. Directly resonant with the entire Pace/Randi/Vee situation — worth watching for return.
+- **The eyebrow held in reserve (Cassie)** — recurs: raised once at Randi's shoe-date enthusiasm, brought back down; a small tell for Cassie's characteristic restraint.
+- **Toenails / small chosen adornments as tells** — not referenced this chapter; standing from before.
+- **Extraction-by-warmth (Randi's technique)** — light instance this chapter (handling the dress conceptually, claiming Saturday), consistent with the established pattern but not heavy-handed.
+- **Hiding the trouble / making it look effortless (Pace)** — not on page this chapter, standing from last.
 
-**Symbolism:** Simpson's paradox as a possible frame for reading the whole book so far — a thing (Pace's tenderness? a friendship?) that looks one way up close, scene to scene, and might read differently "put together." The text doesn't force this reading onto Vee's life, but the placement invites it. The dress continues to stand for being individually seen/made-for, still in unresolved tension with the standing suspicion about how Vee came to Pace.
+**Symbolism**
+- The dress as symbol (bespoke, cut to fit her exactly, "a gift that is also a script") — standing; this chapter adds a layer: it is now also a *secret kept even from her closest friends*, an object she's not ready to make public though she's ready to speak its existence aloud.
+- Simpson's paradox / "put the two years together" — new: the aggregate view reversing the year-by-year view reads as a live metaphor for the book's larger unease (is Vee's happiness, "each year on its own," different from what it will look like "all told"?). Title of this chapter ("All Told") points directly at this.
 
-**Open questions:** Will Vee ever learn how/why she was actually selected and delivered to Pace? Is Randi's headboard-tickling story about Pace or someone else — unresolved. What did the Randi/Vee kiss mean — not on page this chapter, still unnamed. What is the scar on Pace's inner thigh from? Is Pace's tenderness genuine alongside control, or is control the whole of it — unaddressed again this chapter, standing trust intact. What did Pace give Vee in the "Trade"? Will Cassie ever sense or learn what Vee left out — this chapter suggests Cassie may already sense more than she asks, given how accurately she reads Vee without needing details. What's behind the shut bedroom door in Pace's house? What happened with the almost-mentioned parents? Will Vee actually wear the dress to the induction as daydreamed? Is Randi's warmth toward Vee self-interested, simply how Randi loves, or both — unrefreshed, though the shoe-date scene is a small fresh (light-toned) data point for the pattern. New: what does "short stretches can lie against the whole" end up meaning for Vee's own story — a live thematic thread, not yet resolved.
+**Open questions**
+- All prior open questions stand unchanged (the triangle's endpoint; whether Vee learns she was targeted; Randi's resolve holding; Daphne parallel; Randi's self-concealment's cause; recurrence of minor characters; Cassie's suspicion of Pace/Randi; Randi's motive for extraction — self-interest vs. reporting to Pace; the never-discussed kiss; the "beautiful idiot"; Pace's family/scar; "keep still"; the induction/dress scene's eventual staging and whether it matches Vee's daydream; whether Vee's story-editing habit catches up with her; Randi's technique's true purpose).
+- New: does "All Told," via the Simpson's paradox lecture, signal that the book means to eventually total up everything Vee currently reads only in short, happy stretches — and reveal a different aggregate truth?
+- New: will the Saturday shoe-shopping date be where Randi extracts more, or simply a warm scene between friends — held open.
 
-**How I feel — overall:** Warm and a little delighted — this is a lighter, breather chapter after the big consummation scene, and it worked on me by shifting register entirely: sunlight, classroom, friendship, no bedroom at all, and yet it deepened two relationships (Vee/Cassie especially) more than the last chapter's heat did. I trust Cassie more now than I did — she reads as the one person in the book with nothing to gain from Vee. I hold Randi exactly where I left her: genuinely warm, genuinely a little steering, both true at once, unresolved and not pushed further this chapter. Pace is offstage but present as glow. The Simpson's paradox lecture has planted something in me I can't name yet — a faint readiness to distrust the sum of things even while I'm enjoying every individual part.
+**How I feel — overall**
+Buoyant and a little wary at once — this was the happiest, lightest chapter yet, Vee radiant and unashamed and looked after by both her friends in their different registers, and I loved watching Cassie's plain devotion get room to show. But the classroom lecture sitting right in the middle of all this warmth, insisting that short stretches can lie against the whole, planted a small cold seed under the glow that I can't shake, and Randi's "slut" and her instant hunger for the dress's details kept my low-grade wariness about her alive even inside a scene that was otherwise pure charm. I come out of this chapter loving Cassie without reservation, warmer than ever toward Vee, unchanged in my patient trust of Pace (absent but present in effect), and watching Randi exactly as closely as before — no more, no less.

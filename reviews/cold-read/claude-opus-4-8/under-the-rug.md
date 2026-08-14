@@ -1,139 +1,147 @@
 # Cold read — Under the Rug
 
-*scene: scenes/under-the-rug.md · model: claude-opus-4-8 · read after: seconds*
+*scene: scenes/under-the-rug.md · prose-blob c4feaced3222ef4cb26763befd08cefdf7b80a1e · model: claude-opus-4-8 · read after: seconds · 2026-08-13*
+<!-- freshness: prose-blob = `git hash-object scenes/under-the-rug.md` at read time; if it differs from the live file's hash, this review is stale. -->
 
 ## Reader reaction
 
-This is the chapter where she finally *says the thing* — badly, at the wrong volume, "Is this what we are now?" thrown into a room built for murmuring — and I felt the whole clumsy courage of it. She'd been holding the word in the dark, afraid of "the distance it would have to cross to reach him, and of the chance it came back empty," and instead of the word out comes the ugly loud version: *if we're just sex, I'd like to know*. And then the thing that gutted me — he doesn't defend, doesn't flinch, he goes into that woodworker's stillness and *actually thinks about it* and hands her back "Okay. Where do you want to go tonight?" A plain question with nothing to catch on. "There was nothing to do with a plain question but answer it." He disarms her by taking her seriously. Which is either the tenderest thing on the page or the most efficient way to make a fight evaporate without conceding a single inch — and I could not tell you which, which is exactly right.
+This one hurt in a slower, uglier way than the last. Where the cracker-and-meal chapter was the morning-after of the heart, this is Vee catching herself *being unfair* and doing it anyway — and the ache is that I watched her build a false story out loud, brick by brick, because she needed the shape of it to lean on.
 
-Chili's wrecked me in a small quiet way. The nachos she *wanted*, dead in her mouth. "He had ruined it for her, was the thing. Not just this." That's the crackers/meal motif coming back with its teeth out — the remade palate isn't a gift here, it's a subtraction; she can't have a *fine* night out anymore because fine's been taken from her. "It was to food what a billboard is to a painting" is a hair essayistic but it's her aesthetic-econ register so I let it pass.
+The opening is the truest thing she's said to herself yet: "her feelings had gotten out ahead of her... Her heart was going at a speed the facts hadn't earned." And then the devastating question underneath — "whether all that steady, astonishing attention to her body was showing her the truth or keeping her from it." That's the whole book in one line, and she's finally close to looking at it. But she can't hold it. What comes out instead is the loud wrong-sized "Is this what we are now?" — and I felt the whole chapter tip on that. She wanted the word (*love*), couldn't cross the distance, and threw a fight at him instead of a feeling.
 
-The new texture on Pace: the fork-squaring, the eyes slipping past her head to the screen, the flicker of "plain irritation… there and gone" that he drops his eyes to hide. And then his explanation — "places like it — they're too loud… In a room like that I listen as hard as I know how and I still can't hear you." That reads like a *real limitation* in him, something almost involuntary, not method — and simultaneously it is the perfect airtight reason to keep her out of every room where the world could witness them. The page holds both. I genuinely don't know if the man can't tolerate the noise or if the con needs her unwitnessed, and I love that I don't.
+Pace, on the page, kept doing the thing that both moves me and unsettles me: he *took* the ugly thing she threw, set it down carefully, handed her back "Where do you want to go tonight?" Level, unhurried, nothing to push against. As a reader I swooned a little — that's real generosity — and simultaneously my neck prickled, because "nothing to catch on" is exactly how he always wins: he never gives her a wall to hit, so the fight has nowhere to go and she ends up with nowhere to stand but his terms.
 
-What I trust *least* is Vee's own narration of herself, and that's the chapter's real payload. "You went cold on me after the Rusty Nail." *It wasn't true.* "Some back room of her knew which of them had gone cold that night, knew who'd carried a pie up whose porch steps after — and she said it anyway, because she needed the line of it to hold." She lies to keep her grievance load-bearing. And then "forgiven — warm and large and easy to wear," a shape she puts on so she can cross the room to him. That's her sweeping it *under the rug* in real time, and the title names the gesture exactly. She does to the truth precisely what she accuses him of doing to her.
+The Chili's scene is quietly brutal and I bought every second. His eyes slipping to the screen, the fork squaring to the table edge, the flicker of *irritation* she'd never seen — and then she builds the entire indictment out of it: "just-sex, proven in fluorescent light." And the nachos going dead in her mouth — "It was to food what a billboard is to a painting" — is the watched-palate motif turned into grief: "He had ruined it for her, was the thing. Not just this." That line landed hard. He's remade her so thoroughly that a fine cheap night out is now unbearable to her, and she reads that loss as intimacy.
 
-The sex worked on me, flatly. The whole arc of her *begging his control to break* — "wanted, with a sharpness that startled her, for his control to give" — and then it does, "he got over her and into her almost in one motion… like a man who'd run clean out of the strength to wait." That's a real erotic shape, the patience-then-rupture, and it swept me. But it's built over an ache I couldn't put down: right at the top of her first climax "the name for what they were… pushing for the surface — and her body broke over the edge and took it back down, drowned it clean." The orgasm as the thing that keeps her from finishing the sentence. Her own body is complicit in the not-knowing.
+Then the accusation I *knew* was false as she said it — "You went cold on me after the Rusty Nail." The text told me flat out: "Some back room of her knew which of them had gone cold that night, knew who'd carried a pie up whose porch steps." She lies to him, knowingly, "because she needed the line of it to hold." This is new and it's important: the repair-work has curdled into active self-deception she's aware of in real time. And his answer — "You know what happened after the dance" — sets the true thing down and doesn't argue, and it collapses her, and she's *ashamed*. He wins by being right, quietly, again.
 
-And the ending is the loneliest she's been. She has his body, his lost control, his spend low inside her, marked all over with where he's been — and *still* no word, and now no *name at all*: she can't say "boyfriend" to her mother without it going "small and wrong," can't lay him out for her father, "had no name for the best thing in her life, not the big one he wouldn't give her and not the small one she couldn't find." The isolation isn't metaphor anymore — the relationship literally cannot be spoken aloud to the people who'd witness it. "It lived only here, in the dark, in this bed, and stopped at its edges." That's the whole con's architecture rendered as heartbreak she experiences as her own private failure to find a word.
+And then "I'm listening now." Not the word, never the word, but "near enough to it that the fight left her all at once." Here's where I felt the thumb *almost* on the scale but the prose stayed honest: it named exactly what she did with it — "she told herself the thing that let her go: that she had forgiven him." *Forgiven*, "warm and large and easy to wear." She invents a wrong she can forgive so she has somewhere clean to rest. That's the pile, operating live.
 
-**The titles.** "Under the Rug" is the cleanest title-to-chapter fit yet — it's the wrong note "she'd have had to stop and turn over to hear properly, and she didn't stop," it's *forgiven* worn over the doubt, it's everything filed onto the pile she won't inspect. It doesn't give anything away so much as *name her method*: she is a woman who sweeps. *A Polite Invitation* / *With a Long Spoon* — the spoon proverb sits very close to the surface again: she's supping with something and hasn't got the length of spoon, and the "luck" of it keeps almost-burning her. The politeness is his — the plain question, the two true things set down gently — and I keep feeling how the *courtesy itself* is the instrument.
+The sex is a 3 and it worked on me — genuinely hot, the long unhurried mouth-work, and then the turn where his control finally breaks and it catches her up "with no say from her in it." But the writing keeps the reading right underneath the heat: she *begs* for his control to give, wants him rough, wants "the want in him to get the better of him" — and even when it does, even undone and spending in her, "he hadn't said it." The post-coital passage is the best in the chapter and maybe the saddest stretch in the book: "She belonged to him... But did he belong to her?" She has his body, his control, everything — "every last thing but the one." And the final turn is quietly annihilating: she reaches for even the *small* name — boyfriend — and it goes "small and wrong before she'd finished the thought," can't say it to her mother, can't lay it out for her father. "She had no name for the best thing in her life, not the big one he wouldn't give her and not the small one she couldn't find."
 
-What I want next: the pile to get *looked at*. It's fuller now — the lie she told, the wrong note, the dead nachos, the unnamed thing. And I want to know what "you know what happened after the dance" actually holds, because both of them treat it as a shared true weight and I only have the outline.
+No suspicion is *newly* earned about Pace here — he was patient, honest, generous on the page. What deepened is the tragedy of her machinery: she now lies to keep the picture up, and calls it forgiveness. I trust the prose completely; it never told me he manipulated her tonight, it just let me watch her manipulate herself and hand him the win.
 
-**Cast present (in person):** Vee, Pace. **Mentioned only:** her mother, her father (in her thoughts); a student of Pace's; the hostess (walk-on).
+**Titles.** "Under the Rug" — this is what she does with the mismatch: sweeps it under. The false accusation, the flicker of his irritation she over-read, the name she can't find — all of it goes under. It recolors the whole chapter as one long act of not-looking. *A Polite Invitation* and *With a Long Spoon* — "he that sups with the devil needs a long spoon" keeps ringing louder; the politeness, the generosity, the careful listening are the long handle, and she keeps setting hers down and leaning in.
 
-**Heat:** 3 — a sustained, graphic scene anchors the back half; the begged-for rupture of his control is the center.
-
-**Romance:** 2 — real intimacy and the near-word ("I'm listening now"), but the whole thing is organized around the declaration being *refused*, so it aches more than it peaks.
-
-**Motifs & images:** *Under the rug / the pile* (repeat, now active suppression not passive filing — the "small wrong note she'd have had to stop and turn over, and she didn't"; "forgiven" as a wearable shape). *The remade palate* (repeat, now its cost — dead nachos, "he had ruined it for her"). *The withheld word* (repeat, peak — even fully undone he doesn't say it). *Two true things set down gently* ("you know what happened after the dance"; "I'm listening now" — his method of disarming). *The orgasm that drowns the name* (NEW — her body takes the word back down at the edge). *The fork squared to the table edge / eyes caught on screens* (NEW — his loud-room undoing). *The quilt/scent, the shut door* (carry, quiet).
-
-**Symbolism:** The rug/sweeping = her survival mechanism made literal, the con living in the un-turned-over note. The unnameable relationship (can't say it to mother or father) = isolation rendered as a missing word. The loud room he can't hear her in = ambiguous — real limitation or the perfect reason to keep her unwitnessed. The climax that drowns the name = her own pleasure conscripted against her knowing.
-
-**Characterization:** Vee deepened hard — the lie-to-hold-the-line and the "forgiven" she puts on are her most self-deceiving, most human read yet. Pace gained a *new* texture (a possible real sensory/attention limitation) that sits ambiguously over the method — he neither flattened nor resolved. Both consistent and deepening.
-
-**Pace — within the chapter:** Excellent build: bedroom outburst → the disarming question → the failed dinner → the accusation and the two true things → the long sex → the sleepless naming. The sex ran long but earned it by paying off the begged-for rupture. Nothing dragged.
-
-**Pace — chapter to chapter:** Building strongly — the prior chapter planted the seam quietly; this one pries it open, gives it voice, and closes it *wider* than it opened. Best forward momentum in a while.
-
----
+**Want next:** I want her to look at the pile she now knows is there. I dread that "I'm listening now" is exactly the kind of near-word that keeps her in place for another season. Guess from here: the debt, or Randi, is the thing that finally makes her look.
 
 ## Carry-forward state
 
 **Principals**
-- **Pace** (= Peter): young math PhD; powerlifter; furniture-maker; MRI patent. Ordinary pleasant face, light brown hair, thick calloused hands. White pickup; small post-war house in the trees off six-fourteen. Real name Peter; engineered "tutor" at 15–17 called "the best two years." Lifting as self-erasure. Sewed Vee a dress. Devotion in acts, never words — the un-said *I love you* the loaded center. **This chapter: disarms her fight by taking it seriously ("Okay. Where do you want to go tonight?"); in loud rooms visibly can't attend — fork squared to the edge, eyes caught on screens, a flicker of hidden irritation; explains it as a real limitation ("I still can't hear you… I'm listening now"); sets true things down quietly without argument; in sex loses his control at her begging — and still, fully undone, does not say the word.** Interior warmth genuine AND the method AND now a possible real sensory limitation — all three stand, unresolved. On-page this chapter.
-- **Randi** (= Miranda): 21, junior, sorority Standards; black hair, blue eyes, dancer's body, cold-green/citrus scent; plain white-gold band. Marketing major. Virtuoso extractor; dark-green Mercedes. Secretly Pace's lover and Vee's closer. Father defrauded PPP loans — Miranda Holdings the county's worst outlier; Vee holds this secret unused, out of love. Mask cracked twice (desire; inherited shame). Not present, not mentioned this chapter.
-- **Vee** (= Vivienne): protagonist. Tall lush hourglass, copper/dark-red hair, snub freckled nose. Econ major; Ohio; hungry to be chosen, the careful one, prices-first. **This chapter: voices the fear directly ("Is this what we are now?" / "if we're just sex, I'd like to know"), too loud, at wrong size; drags him to Chili's, can't taste the food he's "ruined" for her; accuses him of punishing her and LIES to hold her line ("You went cold on me after the Rusty Nail" — knowing it was she who went cold); disarmed by his two true things; wears "forgiven" as a shape she can rest in; in sex begs his control to break, comes twice, her climax drowning the name each time; lies awake unable to name him to mother or father — "no name for the best thing in her life."**
-- **Cassie** (= Cassandra): Vee's roommate/friend; clever, warm, dry, loves-by-holding; truest, unengineered bond; pre-nursing; dad laid off 2020. Not present this chapter.
-- **Sheri**: Pace's cycling partner; child-sized, bleached ponytail; reads queer; "alone," fed by Pace at Thanksgiving. Not mentioned. Open: poisoning blonde?
-- **Meg**, **Brooke** (Randi's sister), **Kayla**, **Christine**, **Theo**, **the silent taller woman** (unnamed, open), **the older bartender** — off-page.
+- **Pace** (= Peter) — male, 22. Math PhD near done, powerlifter, builds furniture; sewed Vee's induction dress; runs meticulous-consent scenes; engineered Randi's attraction and the staged collision; running Vee and Randi at once. Large scar high on inner thigh — untold; closed room around his parents ("I don't go back"). Holds Vee's posed nude. Cooks for her; owns his house. **This chapter:** took Vee's picked fight without pushing back ("Where do you want to go tonight?"); at the loud restaurant his attention slipped to a screen — a flicker of real irritation, first ever seen; back home set the true thing down quietly ("You know what happened after the dance"); gave her "I'm listening now" — near the word, never the word; broke his control in bed at last, undone, and still never said it.
+- **Randi** (= Miranda, Miranda Holdings family) — female, 21. Sorority Standards; disordered eating, hidden self-harm; curated face; the closer running Pace's method. Green Mercedes. Genuinely wealthy — Miranda Holdings took PPP loans, kept money, cut jobs; the county outlier. Broke unperformed over it in front of Vee, unaware she was seen. **Absent this chapter.**
+- **Vee** (= Vivienne Thorne) — female, 21, junior. Jacket protagonist. POV. Tall, lush, warm dark-red hair, snub nose, cinnamon freckles; Corolla. Econ; sharp room-reader; body-shame easing; broke, hidden card debt. **This chapter:** named to herself that her feelings "got out ahead of the facts"; couldn't say *love*, threw a loud fight instead; over-read his restaurant distraction as proof of "just sex"; his cooking has ruined cheap food for her ("He had ruined it for her"); knowingly told him a false accusation (Rusty Nail) "because she needed the line of it to hold"; invented a forgiveness to rest inside; after the best sex still could find no name for him — not "the big one he wouldn't give her" nor the small one (*boyfriend*) that goes "small and wrong."
+- **Cassie** (= Cassandra) — female. Vee's roommate/friend; pre-nursing; clean love, clear eye; soccer; laid-off dad (2020). Openly aware Vee is withholding something and declines to push. **Absent.**
+- **Sheri** — female. Pace's cycling friend ~2 years; reads him better than himself; warned two-at-once complicated. Absent. *(Open: possibly = "older bartender.")*
+- **Brooke** — Randi's sorority sister; house has a folder on Vee. Absent.
+- **Daphne** — Pace's first, assigned older tutor: she 19, he 15. Mentioned-only; harm ajar. Absent.
+- **The blonde girl** — at the bar; said Pace "knows how to get a girl to do just what he wants." Absent.
+- **The older bartender** — corrected the record. Absent. *(Open: may = Sheri.)*
 
 **Relationship ledger**
 
-*Core — Pace / Vee:* **involved, consummated (y); reconciled; easy/domestic on the surface — the seam now pried open and voiced.** Surface (Vee): the man who wants all of her, holds/feeds/makes-for/listens-to her; near-enough tonight to quiet the fear. True (reader): the con's payoff AND a tenderness that reads real AND a possible real limitation — and a withholding of the word/name that could be love-shyness, a real sensory-attention thing, or the leash.
-  - *warmth ↔ cold:* **warm on the skin and in the ear ("I'm listening now"), cold at the one place she asked** — everything delivered but the name. Widest yet: he can lose all his control and still not spend the word.
-  - *isolation ↔ belonging:* **moved hard toward isolation** — the relationship has no public name; she can't say it to her mother or father; "it lived only here, in the dark, in this bed, and stopped at its edges." His stated reason (loud rooms he can't hear her in) reads plausibly real AND functions as isolation-maintenance. Belonging felt only in the bed.
-  - *cherished ↔ used:* **cherished in total attention, unnamed in the world** — he took her fight seriously, explained himself, took her apart and put her back warm; withheld the one thing (name) that would let her hold him up to anyone. Reader's *used* pole loaded; her *cherished* pole genuinely fed tonight.
-  - *desire worked-on-her ↔ desire hers:* she begged his control to break — *her own* sharp wanting — and it broke; her climax "drowned" the name back down "as she let it." Her appetite fully hers tonight; the drowning of the word an involuntary complicity the con benefits from. Both poles live.
-  - *This chapter:* no state change; the seam is now spoken, half-resolved by his near-word, and re-opened wider at chapter's end (no name at all — not the big word, not even "boyfriend"). She swept the wrong note under the rug ("forgiven") to get across the room.
+*Core — Pace & Vee:*
+- **State:** involved (consummated: y — many times). secret, one-sided (Vee unaware of engineering). Vee privately loves him; made her fullest coded attempt earlier and he did not match; the rule (he says it first) holds. He has never said it. Care real and costly *and* serves a built apparatus. Reconciled. Standing objects: Vee's posed nude in his keeping; the flannel he made; the induction dress he sewed. **New standing fact: Vee now picks fights she knows are false to have a shape to lean on — and he defuses them by conceding the true thing quietly, which wins.**
+- **warmth ↔ cold:** warm surface, real generosity (took her fight, explained, "I'm listening now"), but the love-axis stays unanswered; "It wasn't the word. It would never be the word." He holds, he doesn't pull, still.
+- **isolation ↔ belonging:** belonging deep but confined to "the dark, in this bed," stops at its edges; she cannot name him to her mother or father; even the *small* name won't come. Public exposure (the restaurant) is where the bond visibly strains — he can't attend to her in a loud room; she reads that as shame/just-sex.
+- **cherished ↔ used:** cherished pole loud in bed; but she now audits it aloud ("did he belong to her?"). She has his body and control and everything "but the one." Reader-shadow: her palate remade so far she grieves the cheap plate she once loved — "He had ruined it for her."
+- **desire worked-on-her ↔ desire hers:** she begged for his control to break, wanted him rough; when it broke it "caught her up... with no say from her in it" — her own climax pulled from her by his loss of control. The wanting he withholds "pooled in her as her own." Strong instance of desire produced in her.
+- **This chapter:** no state change. warmth: warm/held but love-axis cold. cherished: cherished in body / privately weighed and found short of the name. New: she now lies to him knowingly to keep her picture up, and calls the sweep-up *forgiveness*.
 
-*Core — Randi / Vee:* **intimate front / instrumented steering — closer harvesting the mark; consummated n. Two-directional secrecy live.** Surface (Vee): truest friend, the one she shielded. True (reader): the extraction ritual; Vee holds unused knowledge of Randi's father's fraud, kept out of love. Not on-page this chapter. No change.
-  - all axes: no change; not on-page.
+*Core — Vee with herself:*
+- **State:** managed surface over unlooked-at want; body-shame easing; won't ask about scar/parents; hasn't done the debt math. Knows a *pile* of repair-work exists and chooses not to look. **This chapter:** the not-looking turned active — she told a lie she knew was a lie ("because she needed the line of it to hold"), and manufactured a "forgiveness" (for a coldness that was hers, not his) as a clean shape to rest inside. Came closest yet to the real question ("attention showing her the truth or keeping her from it") and flinched off it.
+- **This chapter:** self-deception now operates in real time and she half-knows it; the pile is being actively fed, not just avoided.
 
-*Core — Pace / Randi:* **involved, consummated (y); secret; coordinated con.** Off-page, unmentioned. Full uncropped nude Vee sent Pace also seen by Randi. Randi's leaking want for Vee + exposed inherited shame live fault lines. White-gold band still loaded. No change.
+*Core — Randi & Vee:* attracted → closer-work at full operation. Surface (Vee): closest friend. True: closer running Pace's method. Reversal holds: Vee saw Randi's family shame, understood it, Randi doesn't know; Vee spends the advantage protecting Randi. Extended-kiss claim stands; Vee's want between women, aimed at Randi, stands. **No change (absent).**
 
-*Core — Randi with herself:* the "face" as armor over relocated wanting — cracked twice (desire, inherited shame). Real armor over real wounds. No change (off-page).
+*Core — Randi with herself:* at war; face vs. person; makeup "so finely done it passed for skin." Face slipped twice under unwilled exposure of family shame — truest, least-performed thing she's done. Privilege real; its source shames her. **No change (absent).**
 
-*Core — Vee with herself:* runs a managed self, prices-first, caution keeps giving. **This chapter: the most self-deceiving read yet — lies to herself and aloud to hold a grievance ("you went cold"), knowing the "back room" truth; wears "forgiven" as a wearable shape to permit crossing the room; refuses to turn over "some small wrong note"; lets her own orgasm drown the name. She sweeps in real time — the title's gesture is hers.**
+*Core — Pace & Randi:* involved (consummated: y), secret from her sorority world; he directs her desire toward Vee. "That's not finished." **No change (absent).**
 
-*Core — Vee / Cassie:* **close, easy — truest, unengineered bond.** Not on-page this chapter. No change; the pile stays private even from the truth-teller.
+*Vee & Cassie:* Clean, central. Cassie now openly aware Vee is withholding a shape she can't name, and chose not to push. **No change (absent).**
 
-*Pace / Sheri:* friendly, plain fondness; not mentioned. Open: poisoning blonde?
+*Vee & Brooke:* Asymmetry — sorority knows Vee (dossier); Vee knows nothing. No change.
 
 **What I know that they don't**
-- (Vee doesn't know) the café was engineered; Randi and Pace are secret lovers running a coordinated con; the reunion was Randi-architected.
-- (Vee doesn't know) the blonde at the bar told her the *truth* about Pace; the reunion converted it into guilt; Pace extracted its content.
-- (Vee doesn't know) Randi cultivated the spanking-appetite; consummated by Pace; the confidante she runs to is her trainer, harvesting live.
-- (Vee doesn't know) the bet was a structure with no refusal — consent extracted and relabeled.
-- (Vee doesn't know) she was deliberately edged at brunch; a closing kiss once passed a glaze she never touched into her mouth.
-- (Vee doesn't know) she sent Pace a nude framed as her own courage; his promise was narrower. She has since shown that full uncropped nude to Randi — the leverage-image is in the runners' knowledge by her own hand.
-- (Vee doesn't know) the warmth she pours is the material the con converts — matured into daily dependency; her pride in being sewn-for is more of the same material.
-- (Vee doesn't fully register) her palate has been permanently remade — **this chapter its cost lands concretely: the ordinary food she once enjoyed is dead in her mouth, "ruined."**
-- **(Reader, held ajar) keeping her out of every public room — his stated reason (loud rooms he genuinely can't hear her in) reads plausibly real AND is the perfect architecture of isolation. She experiences the resulting namelessness as her own failure to find a word. Chord unresolved.**
-- **(Vee half-registers) — there is a *rule*/wall around the word; there is a *pile* of things that don't add up she keeps sweeping under; she now has no name at all for the relationship, big or small. The reader's case lives, mostly unlooked-at, inside her.**
-- **(Vee DOES know, Randi does NOT know she knows) — Randi's father defrauded the PPP loans; Miranda Holdings the county's worst outlier; Vee watched Randi's mask crack and chose to shield her. Two-directional secrecy, out of love.**
-- (Reader, caring/complicating side) Randi's want for Vee real enough to break her control; her inherited shame real, unengineered.
-- (Reader open) the men in Randi's stories do NOT match Pace.
-- (Reader open) whether the poisoning blonde was Sheri.
-- (Reader, both true) Pace's interior warmth real AND he runs the method AND a possible real sensory limitation — chord unresolved; the withheld word/name the loaded fulcrum.
-- (Reader, caring side) Cassie's love wholly unengineered; right about the data; can't see she's describing Randi; asked the right question and was cropped out.
-- (Reader open) white-gold band — marriage, to whom.
-- (Reader open) Pace's scar / closed parents-door — "I don't go back"; content withheld; now mirrored by Vee sealing/sweeping.
-- **(Reader open) what "what happened after the dance" actually holds — both treat it as a shared true weight; I have only the outline (a fight, she apologized, someone went cold).**
-- (Between runners) Randi jealous of Pace's regard for Vee AND wants Vee herself.
-- (Reader irony) what was done to young Pace ("luck") is the shape of what's being done to Vee; "luck"/unearned attaches to Randi too.
-- (Reader, loose) the family money Randi grew up inside dressed harm as care — the shape of the con.
-- (Reader open) whether Cassie ever catches Vee's wrist — despite geometry AND Vee's own cropping.
+- (Caring) Pace genuinely moved by Vee — weekend tenderness real; drawer given wordlessly; fed her; wore the flannel; sewed her induction dress. His double breath at her declaration read genuinely affected. **This chapter: he took her false picked fight without retaliating, explained himself honestly, and gave "I'm listening now" — real, patient care on the page.**
+- (Caring) The Rusty Nail confirms Pace safe/good — gets drunk girls home, leaves them at the door.
+- (Caring) Pace genuinely moved by Randi — holds her, lets her set pace.
+- (Caring) Pace's cold/shirt-sacrifice on the hike were real, unseen by Vee.
+- (Caring) The MRI patent is real, aimed at helping frightened sick people.
+- (Caring) Cassie's love for Vee is clean; senses the shape, lacks the fact; declines to push.
+- (Caring) Vee's love for Randi shows as real, unbought kindness — protected Randi's shame unwatched.
+- (Caring/ajar → strengthened) Randi's feeling/personhood reads at least partly real; her break was unperformed exposure.
+- (Caring/ajar) Sheri is alone; Pace glad to feed her — genuine friendship, the one honest voice.
+- (Reader-held) Pace harmed young by Daphne (she 19, he 15), names it luck; builds asymmetries and calls them consent.
+- (Using) Pace engineered Randi's attraction/"choice"; may have targeted Vee — ajar.
+- (Using) Pace & Randi run Vee as a coordinated operation.
+- (Using) Randi works Vee with extract-arouse-produce-deny; controls the discharge; the private nude now in Randi's hand.
+- (Using) The goodbye kiss is a deliberate mark; Vee led its extension.
+- (Using) Randi's Radford story likely built; "father kept people on" false — Miranda Holdings took loans and cut jobs.
+- (Using) Randi engineered Vee into unpayable compounding card debt; Vee won't do the math; paid the check unread.
+- (Using) The sorority house holds a folder on Vee.
+- (Using) Vee apologized to Pace for correctly reading his method; disowned it — but recently trusted and used that perception freely.
+- (Using — soft) Pace's gifts double as arrangement; belonging as a made place; school-nights narrowing; flannel ties her sleep to his smell. The belonging is untellable — she crops him out of every frame; it is undeclarable from the inside; **now it also cannot be even *named* — not the big word he won't give, not the small word (boyfriend) she can't find.**
+- (Using) Vee has given Pace a posed nude she can't retrieve, and shown it full to Randi.
+- (Using — soft) Randi threading into Vee's weekday hours; Cassie sidelined.
+- (reader-only) Vee losing weight unasked under Pace; reads it as happiness; palate remade, credited to him. **Now: the remaking grieves her — she can no longer enjoy the cheap food she once loved ("He had ruined it for her").**
+- (Reader + Vee, hidden from Randi) Vee saw and understood Randi's family is the county PPP outlier and that Randi's break was genuine; Randi doesn't know; Vee won't tell.
+- (ajar) Pace's "Thank you for telling me what she said" — clean gratitude vs. reconnaissance.
+- (open) The blonde at the bar told Vee the literal truth about how Pace operates.
+- Pace knowingly runs two women at once and doesn't feel the coming collision Sheri named.
+- Randi holds everything Vee withheld; extracts and withdraws as method; self-harms/eats disordered, unlooked-at.
+- Vee has been selected/pursued and doesn't know it; names it free agency.
+- The flannel Vee treasures was made by Pace; the house runs too warm; two towels in a one-man house.
+- Vee's want between women is live, aimed at Randi — she claimed the extended kiss.
+- (Struck-partial) Vee knows the scar exists, rough length, clean surgeon's line; not its cause; chose not to ask.
+- Pace has a closed room around his parents — "I don't go back."
+- (Structural, reader-only) Simpson's paradox: short stretches lie against the whole; one buried outlier the family shame.
+- (reader-only) The outlier lecture named Vee's condition, then Randi's.
+- (reader-only) Vee's spanking retold in daylight matched Pace's real gentleness — contradicting Randi's harsher "story."
+- (reader-only) Vee privately loves Pace; he's never said it; made and retired her best coded attempt; the rule (he says it first) holds. **Now she has confirmed even undone and spent, past every wall, he still won't say it.**
+- (reader + Vee, half-buried → active) There is a *pile* of repair-work; Vee now knows it exists and not only avoids it but actively *feeds* it — this chapter she told a knowing lie and manufactured a "forgiveness" to keep the picture up.
 
 **Motifs**
-- *Under the rug / the pile* (repeat, now ACTIVE suppression): the "small wrong note she'd have had to stop and turn over, and she didn't"; "forgiven" worn "warm and large and easy to wear" as a shape to rest inside; the reader's case swept, not merely filed. Title-named.
-- *The withheld word / no name* (repeat, peak): even fully undone in sex he doesn't say it; her climax "drowned it clean… as she let it"; ends unable to name him even to herself — "not the big one he wouldn't give her and not the small one she couldn't find."
-- *The remade palate / no going back* (repeat, now its cost): the nachos she wanted "lay there, dead"; "he had ruined it for her, was the thing. Not just this." The alteration as subtraction, not gift.
-- *Two true things set down gently* (NEW): "Okay. Where do you want to go tonight?"; "You know what happened after the dance"; "I'm listening now." His method — disarming by taking her seriously and refusing to argue.
-- *Love said in acts, never words* (repeat, inverted to cost): listening, explaining, taking-apart, all given; the word never.
-- *Two sealed doors* (repeat): "I don't go back" (Pace) and Vee's sweeping/"forgiven" — she mirrors his sealing.
-- *The loud room / fork squared / eyes caught on screens* (NEW): his visible undoing in public spaces — plausibly real limitation and/or cover for keeping her unwitnessed.
-- *The quilt / his scent as presence* (carry, quiet).
-- *"Luck" / the long spoon* (carry): the reach without the spoon, barely burned — proverb near the surface.
-- Carry (quiet): the goodbye kiss; Randi's man-who-leaves stories; the mirror-noticing; the outlier point; the watched-who-doesn't-know; cropped/parts-that-fit.
+- **The cracker vs. the meal / cooking as love** — his cooking gives each thing its own voice; the Chili's nachos are the reverse — "every color squeezed out and stirred together... one muddy brown." "It was to food what a billboard is to a painting." Her remade palate now costs her the pleasure she used to have. The coded love-sentence itself is retired ("would not return to her speech").
+- **The rule / he says it first** — foregrounded; confirmed again: even helpless and spent he doesn't say it. "It wasn't the word. It would never be the word."
+- **The name she cannot find** — *new/sharpened:* not just the big word (love) he won't give, but the *small* word (boyfriend) she can't find — "gone small and wrong before she'd finished the thought"; can't say it to her mother, can't lay it out for her father. "No name for the best thing in her life."
+- **The pile / sweeping under / not-looking** — *active this chapter:* she tells a lie she knows is false ("because she needed the line of it to hold"), invents a "forgiveness, warm and large and easy to wear" for a coldness that was hers. Title: "Under the Rug."
+- **He holds, he doesn't pull** — he takes her thrown fight and "set it down, carefully," hands back a plain question with "nothing to catch on"; wins by conceding the true thing quietly. Strong instance.
+- **The cropped/edited frame** — she can't name him to family; keeps the true shape out of every frame; sweeps the mismatch under.
+- **The made garment** — flannel + the sewn dress; tenderness whose origin she hides. Quiet.
+- **Desire produced in her** — she begs his control to break; when it does her own climax is pulled "with no say from her in it"; the want he withholds "pooled in her as her own." Strong.
+- **Hunger / palate / waking up** — reactivated: the ruined cheap plate; sex-appetite fused with food.
+- **The made place / drawer / weekday-gray vs. weekend-saturated** — belonging confined to the bed, "stopped at its edges." Quiet.
+- **The photograph / herself given to keep** — surrendered to Pace, shown full to Randi. Quiet.
+- **The re-scented shirt / the wall kept unasked (scar + parents) / the outlier / Randi's slipping face** — all quiet this chapter.
 
 **Symbolism noticed**
-- **Under the rug** = Vee's survival mechanism made literal — the con lives in the un-turned-over note, in "forgiven" worn as a costume.
-- **The unnameable relationship** (can't say it to mother/father, "boyfriend" goes "small and wrong") = isolation rendered as a missing word; the whole architecture felt by her as personal failure.
-- **The loud room he can't hear her in** = ambiguous — real limitation or perfect isolation-cover; the page holds both.
-- **The climax that drowns the name** = her own pleasure conscripted against her knowing.
-- **The un-said "I love you"** = the leash/love-shyness/limitation fulcrum, unresolved.
-- **The remade palate** (now) = permanent alteration as loss — she can no longer be fed by the ordinary.
-- Carry: the crop; the re-scented flannel/quilt; "The New Ordinary"; PPP fraud as money dressed as care.
+- **The muddy-brown nachos vs. his cooking** = the remade palate; intimacy measured as the loss of every plainer pleasure — "He had ruined it for her."
+- **The manufactured forgiveness** = sweeping the real question under the rug; she invents a clean wrong she can forgive because she can't face the true, nameless one.
+- **The knowing lie ("you went cold after the Rusty Nail")** = the pile now actively fed, not just avoided.
+- **"I'm listening now"** = the near-word that holds her in place; generosity that is also the long handle of the spoon.
+- **No name — not the big one, not the small one** = belonging that cannot survive being spoken at any size.
+- **His control breaking / her helpless second climax** = desire worked on her; even his loss of control is a gift given on his terms.
 
 **Open questions**
-- Does the withheld word/name become the con's central lever — and does Randi ever get engineered to be the one who says it?
-- Does the *pile under the rug* ever get looked at — and what surfaces when it does?
-- What did happen "after the dance" — and who really went cold?
-- Is Pace's loud-room limitation real, cover, or both — and does it ever break the isolation?
-- Does the uncropped nude in the runners' hands surface?
-- Does Vee's kept secret about Randi's father's fraud ever surface — leverage, confession, or the thing Randi learns she was spared?
-- Does Randi ever learn she was seen and shielded, and what does it do to her and the con?
-- Does Randi's inherited shame connect to *why* she runs cons? Does her crack break coordination or deepen the embed?
-- Does Randi's own want make her hoard the nude?
-- Was the poisoning blonde Sheri?
-- Where does Vee's own emerging wanting toward Randi go?
-- Does Cassie ever catch Vee's wrist?
-- Are Randi's man-stories real, fabricated, or arousal-props?
-- White-gold band — marriage, to whom?
-- Pace's scar/parents-door — does the question ever get asked?
+- Does Vee ever look at the pile — now that she's actively feeding it with knowing lies?
+- Did her earlier coded sentence go past him, or did he answer around it? *(open)*
+- What does Vee's secret advantage over Randi do?
+- Was Randi's break real shame? *(reads strongly genuine.)*
+- What is Miranda Holdings, and does the money's shameful source explain Randi?
+- Is Randi's feeling for Vee real, or closer-work? *(both ways.)*
+- What does Pace do with the photograph now Randi has seen it?
+- Will Pace ever say the love back? Why can Vee name it alone but never aloud, even the small word?
+- What is behind "I don't go back" — tie to Daphne/the scar?
+- Was the blonde at the bar planted or a buried warning?
+- What does the sorority "folder" on Vee mean? Who assembled it, why Brooke?
+- What is the scar high on Pace's inner thigh — will Vee ever ask?
+- Does the Daphne asymmetry drive Pace's consent-engineering?
+- What does the compounding unpayable debt cost Vee — and when does it surface?
+- Where/when does the riser/mirror gown-context get used, and who else is in that room?
+- Will Cassie's clean read ever reach the true shape?
+- Who is the silent taller woman? Did Pace target Vee by name? Endpoint of the operation?
+- With Vee claiming her want for Randi, where does that desire go — and who steers it?
 
 **How I feel — overall**
-Ached and pulled at once. This is the chapter where her wanting finally breaks the surface as *speech* and gets everything answered but the one thing — and the cruelty of it is how *near* he comes ("I'm listening now") and how completely she talks herself into calling that enough, wearing "forgiven" like a coat so she can cross the room. The sex swept me — the begged-for rupture of his control genuinely worked, hot and undoing — but it's stitched to the loneliest ending she's had: marked all over with him, spend still warm inside her, and no name for any of it, unable to say the smallest word to her own parents. The reader's case grew (the lie she tells to hold her line, the note she won't turn over, the palate now a *loss*), and it's all under the rug, which is the title's whole point. I hold Pace's chord even more open than before — the loud-room limitation reads plausibly real and I can't dismiss it — and that's what keeps this from being a simple indictment. Warm toward no one new (Cassie absent). Heaviest yet about Vee, and quietly hopeful only because the rug now has a great deal under it, and rugs get lifted.
-
----
+Wrung out and a little frightened for her. This chapter she stopped merely *not looking* at the pile and started *feeding* it — telling him a lie she knew was a lie, inventing a forgiveness for a wrong that was hers, all to keep a shape she can rest inside. The scariest part is how honest the prose stays: no new fact of harm, Pace was patient and generous and truthful on the page, and that's exactly what closes the trap — he defuses every fight by conceding the true thing quietly, and she has nowhere to stand but his terms. Two lines I'll carry: "He had ruined it for her, was the thing. Not just this," and the ending — she has "no name for the best thing in her life," not the big word he won't give nor the small word she can't find. I trust the book completely. I ache for her, and I badly want her to turn and look.

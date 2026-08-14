@@ -1,94 +1,104 @@
 # Cold read — Water Wings
 
-*scene: scenes/water-wings.md · model: claude-sonnet-5 · read after: long-way*
+*scene: scenes/water-wings.md · prose-blob 77cb4819aaec6dc66856014c120e005ceca55f75 · model: claude-sonnet-5 · read after: long-way · 2026-08-13*
+<!-- freshness: prose-blob = `git hash-object scenes/water-wings.md` at read time; if it differs from the live file's hash, this review is stale. -->
 
 ## Reader reaction
 
-**How I feel about each character right now.** This chapter is a Vee-and-Cassie chapter through and through, no Pace, no Randi, and it lands like coming up for air (fittingly). My feeling toward Vee softened and deepened — I've been watching her through the lens of what's being engineered around her, but here she's just a body in the world, a girl who used to swim competitively, self-conscious about how she fills a suit now, catcalled crossing a pool deck. The line "There was more of her now. That was the trouble with Vee's suit: it fit, and it gave her nowhere to hide" hit me with real tenderness — that's a body-shame register I haven't seen from her directly before, only inferred through the cardigan-as-modesty-costume motif. Cassie continues to be the one unimpeachably good thing in this book. Her suit-fighting rant, her low "Tossers... They will never know the love of a woman," the water-shot trick she keeps in reserve just for Vee — every beat of her deepens rather than flattens her. She reads as someone who loves fiercely and sideways, never head-on, never asking.
+This one caught me off guard — no Pace, no Randi, just Vee and Cassie at a pool, and I found myself grateful for the breather even before I understood why the chapter needed it.
 
-**Swoon / pull.** Not romantic swoon here — a different kind of pull, toward friendship and toward Vee's interior. The underwater passage is the chapter's center of gravity for me: "The room switched off... Something in her chest that had stood at attention all afternoon quietly sat down." That's gorgeous and it's not decorative — it's doing real work, showing me a Vee who is exhausted by being watched, by "arriving," by holding her face right, and who has exactly one place that doesn't ask anything of her. "Nobody up there could see her. Nobody down here wanted anything." Given everything I know about how much Vee actually is being watched and read and engineered by people she trusts, this line about the water being the one place free of all that ripped at me a little — she doesn't know how right she is to crave it. And then the splash fight resolving the grief without either of them naming it — "You can't grieve and fight your best friend for a mouthful of pool at the same time; the splashing won" — that's the chapter's warmest, truest beat.
+The catcalling opening stung in a way that felt true rather than gratuitous — "You won't need floaties with *those*!" landing on Vee mid-entrance, after she'd deliberately put her face on and walked it like an arrival. That's a small devastating detail: she *prepared* for this walk, armored herself, and got mocked anyway. Cassie's low "Tossers... They will never know the love of a woman" is exactly the right medicine, and Vee's laugh — "more than the joke had earned, fifty yards of held breath going out at once" — told me how much she'd been carrying that I hadn't been shown directly until now.
 
-**Trust vs. suspicion.** No suspicion of Cassie whatsoever, and this chapter earns that trust further rather than complicating it — she's shown as purely, competently loving, reading Vee's mood from ten feet without a word. No suspicion warranted of Vee either; she's just a person here, off the chessboard for once. The chapter doesn't touch Pace or Randi at all, so nothing moves on that front — but its absence is its own kind of relief, a chapter where Vee gets to exist without being someone's project.
+Then the underwater passage is the real heart of the chapter, and it moved me more than I expected. "Something in her chest that had stood at attention all afternoon quietly sat down." The water as the one place her body isn't a problem, isn't being looked at, isn't being managed by anyone — "Nobody up there could see her. Nobody down here wanted anything." That's a gorgeous, quiet grief: "she had loved this before she had a body to be a problem." I felt the loss under it — not dramatic, just old and settled, a girl who used to be smaller and freer in this exact water.
 
-**Erotic charge.** None, and rightly so — this isn't that kind of chapter. If anything there's a quiet echo of the book's desire-language repurposed for something non-sexual: "she had loved this before she had a body to be a problem," which rhymes distantly with how desire gets talked about elsewhere in this book (bodies as sites of trouble, of being read), but here it's about self-possession in water, not anyone's gaze but her own relief from gaze.
+Cassie is wonderful here — the detail of *not* asking, of reading Vee's face coming up wrong and responding with a splash instead of a question, because "asking was for people who wanted the sad version to get bigger." That's real, specific, hard-won friendship craft, and it earns the ending completely: you can't grieve and play-fight at the same time, and the play-fight wins, the way it always has.
 
-**Friction as a reader.** None really — the prose is controlled and specific (the "dark stripe painted across the bottom where the shallow gave out," the dude-bros' catcalls rendered with exact cruelty-comedy calibration) and nothing felt over-explained. If anything I wanted a beat more before the wrap — the ending is quick, but it's the right kind of quick, comedy cutting off sentiment before it curdles.
+**Trust vs. suspicion:** none earned here — this chapter has nothing to do with the triangle at all, and I don't think it's meant to. It reads as pure character grounding, no thumb on any scale.
 
-**Titles.** "Water Wings" — I don't have a strong resolution for it yet. Water wings are a child's aid for staying afloat, something added from outside; this chapter is almost the opposite, Vee needing nothing added, competent and un-aided in the water, the one place she doesn't need help. So maybe it's ironic — the title naming the thing she's grown past, or the title pointing at what Cassie is for her on land (a floatation device she doesn't admit she needs). Or it could gesture toward something upcoming — held loosely. Doesn't feel like a giveaway, just a small puzzle.
+**Erotic charge:** none, and rightly so — this is a friendship/body-image chapter, tender in a completely different register than the Pace chapters.
 
-**What I want / expect / dread next.** I want to sit in this Vee-and-Cassie warmth a little longer honestly, but I know the book will pull back toward Pace and the engineered courtship. I'm curious whether this pool chapter recontextualizes anything about Vee's body/self-consciousness for how Pace reads her later — the "nowhere to hide" line in particular feels like it could matter again. No plot guesses, just a hope that Cassie stays this solid.
+**Titles:** "Water Wings" — points at childhood, at being held up, at the safety of something that used to make you buoyant before you had to learn to hold yourself up alone. It lands retroactively as about the pool being the place Vee doesn't need to hold herself up at all — she can just sink and be weightless. Quietly perfect, not spoilery, just resonant after the fact.
 
----
-
-**Cast present (in person):** Vee, Cassie. Mentioned only: unnamed catcalling guys at the bleachers (not named or developed).
-
-**Heat:** 0 — no sexual content, no romantic charge; entirely friendship and interior/physical self-possession.
-
-**Romance:** 1 — not romantic in the couple sense, but Cassie's care reads as its own kind of tenderness/intimacy peak within a friendship register (a form of devotion, held loosely as "romance" scale doesn't quite fit but the warmth is real and high).
-
-**Motifs & images:** Water/swimming as the one place free of being watched — new, strongly drawn, distinct from and possibly in dialogue with the earlier "chosen"/being-watched motif (here it's the *relief* from being watched, an inversion). Cardigan-as-modesty-costume (earlier carry-forward) resonates with this chapter's suit-as-exposure beat — first direct instance of Vee's body self-consciousness on the page rather than inferred. Cassie's plainspoken, unasking care (established) — deepened via the water-shot trick, a wordless read-and-respond gesture, new concrete instance.
-
-**Symbolism:** The painted dark stripe marking where the shallow gives out reads as a small threshold image — the line past which the floor no longer holds you and you're weightless — resonant with the book's recurring interest in what holds a person up (the froyo "tart holding structure" from last chapter) but here it's a threshold Vee crosses gladly and alone, unaided, the inverse of being propped up by someone else's system.
-
-**Characterization:** Cassie deepens substantially — this is the fullest, most three-dimensional she's been, funny and physically specific (the locker-key wristband, the fence-leaning stance) while remaining the plainspoken, unperforming presence established earlier. Vee deepens too — first real interior access to her body-shame and to swimming as an old, embodied selfhood predating her current self-consciousness, which recontextualizes her carefulness elsewhere in the book as effortful rather than natural.
-
-**Pace — within chapter:** Unhurried, exactly earning its length — the underwater passage slows time appropriately, the splash fight speeds back up appropriately; nothing dragged.
-
-**Pace — chapter to chapter:** A genuine tonal break from the Pace/Randi/Vee courtship chapters — no advancement of that plot at all, functioning as a breather/deepening chapter. After several chapters of escalating unease under warmth, this is warmth without the double-charge, which makes it land as relief rather than sag.
-
----
+No forward pull toward Pace/Randi here, but it deepened my attachment to Vee and Cassie considerably — I trust this friendship more now, and I ache a little more for Vee going into whatever's next.
 
 ## Carry-forward state
 
-**Principals:**
-- Pace — man, controlled/exacting/attentive; established engineer of desire (Randi and now Vee), premeditated even while tender. Grad student finishing a PhD in math. Involved with Randi (consummated, secret from Vee). Not present this chapter.
-- Randi (= Miranda) — woman, ~21, sorority. Involved with Pace (consummated, secret from Vee). Not present this chapter.
-- Vee — woman, tall build, dark red hair, econ major. This chapter: at the rec pool with Cassie. Self-conscious about her body filling out her old teenage swim one-piece ("nowhere to hide"), endures two catcalls from guys on the bleachers with practiced composure that cracks only into a private laugh with Cassie. Underwater, alone, sheds the effort of being watched — old competitive-swimmer instincts return unbidden (the sculling scull), and she surfaces having "grieved, a little" without the text specifying over what, then lets a splash fight with Cassie dissolve it. A former synchronized swimmer (age sixteen, "when there'd been less of her to fill it").
-- Cassie (= Cassandra) — Vee's close friend, terse, plainspoken, unasking. This chapter: fights her way into an unflattering, purely functional swimsuit with comic indignation; delivers a low, private "Tossers... They will never know the love of a woman" to shield Vee from the catcallers; stays planted at chest-depth (doesn't go into the deep herself); reads Vee's changed mood on resurfacing without asking, and responds with a wordless water-shot trick to break the tension, then a full splash fight. Physically: boxy frame, doesn't dress to be admired, strong lungs from rec season.
-- Brooke — sorority chapter president, not present recently.
-- Sloane, Kinsey — minor sorority sisters, not present recently.
+**Principals**
+- **Pace** (= Peter) — man, controlled, attentive, courtly, patient to an unnerving degree; involved with Randi. Orchestrated Randi's engineered "chance" meeting with Vee ("pointing game"), then took over direct pursuit himself — texted Vee from an unfamiliar number, took her to frozen yogurt, was patient/attentive/listened fully, paid before she could, held the door, closing tenderness "Your tart's holding up." Not present this chapter.
+- **Randi** (= Miranda) — woman, black hair (ponytail), oval face, blue eyes, disciplined about food, twenty-one-ish. Involved with Pace (consummated, ongoing). Has been performing warm best-friend energy toward Vee, steering her fast toward Pace ("You're not unsure"). Not present this chapter.
+- **Vee** (= Vivienne) — tall, built on a lush, unapologetic scale, warm dark red hair, cinnamon freckles, snub nose, moves like an athlete. Lives with Cassie. This chapter: at the rec pool with Cassie, wears her old teenage one-piece (fit differently at sixteen, "more of her now"), takes catcalling from guys in the bleachers, goes underwater and finds an old wordless belonging/freedom she's lost access to on land, grieves quietly, then play-fights with Cassie until it passes. New texture: she was a synchronized swimmer at sixteen; the water is established as a place her body isn't "a problem."
+- **Cassie** (= Cassandra) — Vee's close friend/housemate, terse, dry, affectionate. This chapter: at the pool, hates her own swimsuit but wears it without vanity, defends Vee against catcallers with a quiet cutting line, stays in the shallow/middle depth (doesn't swim out with Vee), reads Vee's face on resurfacing without asking, and deploys a splash-attack instead of a question — established as her core caretaking method: never ask, act instead. Deepened significantly this chapter.
+- **Daphne** — mentioned in an earlier chapter only, offstage, an ex of Pace's whose privacy he once violated; shaped his current restraint. Not mentioned this chapter.
+- **Brooke, Sloane, Kinsey** — sorority sisters from an earlier chapter's house scene; not present, no new information.
+- **Meg** — minor, established once as Vee's dorm-floor friend from the original collision memory; not present, no new information.
 
-**Relationship ledger** (axis order for prior chapters remains as previously recorded; this chapter concerns only Vee & Cassie, using this chapter's specified order: desire worked-on-her ↔ desire hers · cold ↔ warmth · isolation ↔ belonging · used ↔ cherished):
+**Relationship ledger**
 
-Pace & Randi — Core. No change this chapter (off-page).
-- State: involved (consummated: y). Surface: a game between lovers, playful, hers to choose within. True: Pace is engineering and testing her desire deliberately, premeditated, reading her body's answers before her mind consents.
-- cherished ↔ used: both live at once — genuine delight in her pleasure bound up with satisfaction at his own successful engineering; she is instrument and cherished object simultaneously.
-- desire hers ↔ desire worked-on-her: her body's want reads as genuinely hers underneath, but sharply shaped/elicited/tested by him — both true, unresolved.
-- warmth ↔ cold: warm on the surface — his hands, his patience — but a coldness underneath in the calculation, the watching from a distance.
-- belonging ↔ isolation: she is led toward apparent belonging manufactured by Pace, not found unassisted; true intimacy sits between him and his read of her rather than between her and the world she's being handed.
-- This chapter: no change, off-page.
+*Pace ↔ Randi* — **Core.**
+- State: involved (consummated: yes, ongoing). Surface: playful, game-loving couple. True: Pace orchestrated Randi's engineered meeting with Vee; that meeting has converted into Pace's own direct pursuit of Vee, with Randi actively pushing Vee toward saying yes fast. No scene between them this or last chapter — no change to standing read.
+- Warmth ↔ cold: no change — standing read holds: warm surface, colder current of orchestration underneath.
+- Isolation ↔ belonging: no change — no scene together.
+- Cherished ↔ used: no change — unresolved, held open.
+- Desire worked-on-her ↔ desire hers: no change — not on page.
+- This chapter: no change, not present.
 
-Randi & Vee — developing. No change this chapter (off-page).
-- Surface (Vee's read): real, chosen friendship, generous.
-- True (reader-known, Vee doesn't know): the "collision" with Pace was engineered by Pace and Randi together, Vee selected as a target; last shown chapter Randi pushed Vee toward the date with seamless composure, no visible tell (contrast to the chapter before that's untouched-coffee crack) — open question whether that means steadied or simply unshown, still unresolved.
-- This chapter: no change, off-page.
+*Pace ↔ Vee* — **Core.**
+- State: attracted (secret, asymmetrical — Vee doesn't know the meeting was engineered). Consummated: no. Surface (Vee's read): a genuinely kind, unusually attentive man. True: continuation of the engineered "pointing game," now run by Pace in person.
+- Warmth ↔ cold: strongly warm from the prior chapter — patient listening, "Your tart's holding up."
+- Isolation ↔ belonging: belonging, sharply — Vee felt chosen/attended-to, named it as rare.
+- Cherished ↔ used: held open deliberately — no cynicism shown on page, but the reader knows the origin.
+- Desire worked-on-her ↔ desire hers: her internal censor (mother's voice) went silent in his company — worth watching whether that recurs as genuinely hers or produced by his attentiveness.
+- This chapter: no change, not present — Pace does not appear.
 
-Vee & Cassie — close friend pair. Significant deepening this chapter.
-- State: friends, close.
-- desire worked-on-her ↔ desire hers: not applicable in a sexual sense; but reframed here as *self* — the swimming is Vee's own old appetite/instinct returning unbidden, entirely hers, nothing worked on her by anyone. The one relationship/space in the book so far untouched by anyone else's engineering.
-- cold ↔ warmth: warm throughout — Cassie's private joke, the water-shot trick, the splash fight; the underwater interlude itself is neither warm nor cold but a kind of neutral, blessed absence of temperature ("nothing holding her and nothing to hold").
-- isolation ↔ belonging: paradox at the center of the chapter — Vee's most complete solitude (underwater, unseen, wanted by nothing) reads as a *relief into belonging with herself*, the "old uncomplicated belonging" of swimming; on the surface, belonging is with Cassie, wordless and total.
-- used ↔ cherished: purely cherished — Cassie asks nothing of Vee, offers exactly the right small thing (the splash) without being asked, at the right distance (ten feet, not closing in).
-- This chapter: major deepening — first direct access to Vee's body self-consciousness and to swimming as an old embodied self predating her current careful, watched self; Cassie shown as reliably, wordlessly attuned. No other relationship touched.
+*Randi ↔ Vee* — **Core.** Surface (Vee's read): fast, warm new friendship, rooting for her date. True: Randi steers Vee toward Pace, undercutting her own instinct to wait. Asymmetry: Randi knows the game; Vee doesn't. This chapter: no change, not present.
 
-Pace & Vee — new pair, developing. No change this chapter (off-page).
-- Surface: warm, courteous, attentive courtship — froyo date established last chapter.
-- True (reader-known): originated in the engineered "collision," Vee unaware.
-- This chapter: no change, off-page — but this chapter's reveal of Vee's body-shame and her hunger for a space where "nobody wanted anything" adds retrospective texture to how much effort her composure around Pace likely costs her, though the text doesn't connect these explicitly.
+*Vee ↔ Cassie* — **Core.** Surface and true converge here — no hidden layer, no game, just real friendship. This chapter is the deepest, warmest beat yet for this pair: Cassie defends Vee against catcallers with quiet precision, doesn't ask about Vee's underwater grief, reads her face and responds with action (the splash) rather than words. Vee's laugter is described as more than the joke earned — relief breaking loose. Established method: Cassie never asks, she acts. No ominous note here at all — pure warmth, deepened trust. The prior chapter's "Goodbye" wrongness and unnamed look remain an open question, entirely unaddressed and untouched by this chapter's warmth (they coexist, not contradict).
+- Warmth ↔ cold: strongly warm, deepened — the splash-game as an act of love that lets grief pass without being spoken.
+- Isolation ↔ belonging: belonging — Cassie's presence (even not swimming out with her) is enough; Vee is never truly alone even underwater, because Cassie is on the deck.
+- Cherished ↔ used: purely cherished — no ambiguity in this pairing.
+- Desire worked-on-her ↔ desire hers: not applicable/not romantic — pure platonic care.
+- This chapter: significant warmth deepening; new backstory (Vee as teenage synchronized swimmer, the water as pre-body-image sanctuary) and new demonstrated caretaking mechanism (splash instead of question).
 
-**Everything else:** No other pairs on the page this chapter. Unnamed catcalling men at the pool — one-scene walk-ons, not principals.
+**Everything else**
+- No new information on Brooke/Sloane/Kinsey, Meg, or Daphne this chapter.
+- New minor detail: unnamed men in the bleachers at the rec pool catcall Vee ("floaties," "legs for days") — walk-on, not named, unlikely to recur but notable as an instance of the world's casual sexualizing gaze on Vee's body, contrasted against the safety of the water and of Cassie.
 
-**What I know that they don't:** The Pace/Randi "collision" plan has been executed on Vee exactly as designed; Vee experiences it all as chance and mutual liking, unaware she was selected and delivered. Randi's private resolve never to let Pace see her unperformed self again stands, unknown to Pace. Pace's clinical, deliberate method — read the person as structure, withhold to the line that lets them complete it themselves — confirmed repeatedly as his real operating mode toward Vee, layered under real-seeming tenderness. Cassie's flat, factual reads of situations have so far always turned out true; this chapter adds no new factual insight from her but reinforces her reliability as a *caretaking* instinct, distinct from her oracle-function. Randi's untouched-coffee tell remains unexplained and unrepeated, still open. This chapter is a Vee-interiority window unconnected to any of the Pace/Randi machinery — the reader now knows Vee has a private self-possession (swimming) that no one in the courtship plot has touched or has access to, which nobody else in the book currently knows about her at this depth.
+**What I know that they don't**
+- Vee has been selected and approached under false pretenses by Pace (engineered "collision" via Randi, now a direct in-person courtship) without any awareness the meeting has an origin at all.
+- Randi's active steering of Vee toward saying yes fast reads as best-friend advice to Vee but, given the pointing game, reads to me as continued management of the target's pace.
+- Randi's private resolve never to let Pace see her fully unarmored self again, and that her desire for women broke through that resolve involuntarily and honestly in a prior scene — untested this chapter.
+- Pace's real tenderness, seen directly toward Randi and now toward Vee — the strongest instance yet of genuine warmth from him on the page, making both the cynical and sincere readings hard to fully settle.
+- Cassie may sense or suspect something about Pace/the situation (unconfirmed, from an earlier chapter's unnamed look and flat "Goodbye") — this chapter shows Cassie's caretaking instincts at their warmest and most attentive, which makes me trust more that if she does sense wrongness, she'll act on it rather than just watch.
 
-**Motifs:**
-- "Chosen"/being chosen — gist: the central emotional currency, someone making a person feel singled out of a crowd. Most recent charged instance: Pace's contained pleasure at the froyo date, "as if he'd set something down exactly where he meant it to go." This chapter offers an inversion rather than an instance: underwater, Vee is chosen by no one and wants it that way — "Nobody up there could see her. Nobody down here wanted anything" — worth holding as the motif's shadow-image.
-- Costume/performance under social pressure — gist: characters managing face and presentation to survive being watched (Randi's sorority face-switching; Vee's cardigan-as-modesty-costume; Vee's "game face" on the pool deck, "the walk of a girl who had meant to arrive"). This chapter's charged instance: Vee's practiced composure absorbing two catcalls, cracking only into private laughter with Cassie — and the swimsuit itself as an item that "gave her nowhere to hide," a costume that fails to costume.
-- Engineering/system as courtship method — gist: Pace's repeatable pattern of reading a person as solvable structure, most recently the froyo "system" ("tart holding up... an argument the whole way down"), paying off in "Your tart's holding up." Not present this chapter (off-page).
-- Waiting — Pace's patience as method, most recent instance: waiting through Vee's sentences at the froyo date, "in no hurry to take his own turn." Not present this chapter.
-- Water/swimming as a place of relief from being watched — new this chapter, strongly established: the underwater passage where "the room switched off" and Vee finds an "old uncomplicated belonging" that predates her body being "a problem"; paired with the surface-world splash fight that dissolves unnamed grief through play rather than words.
+**Motifs**
+- **Mother's internalized voice / self-policing** — established (cardigan; "that's plenty, that's enough now," building the froyo cup). Not present this chapter, but resonant: the pool is a place where a *different*, older kind of self-consciousness (about her body being "a problem") also goes quiet — "she had loved this before she had a body to be a problem." Water joins froyo-with-Pace as a second place the self-policing lifts, but here it's self-generated/old, not produced by anyone's attention.
+- **Doors / control of admission** — established (classroom door; Pace holding the froyo shop door). Not present this chapter.
+- **The body as public property / catcalling and gaze** — new, first sighting this chapter: bleacher catcalls ("floaties," "legs for days") landing on Vee mid-entrance, contrasted with the water below where "nobody down here wanted anything." Doubles the appetite/attention motif from a new angle — attention as intrusion rather than tenderness, a counter-note to Pace's attentiveness.
+- **Water/submersion as sanctuary and old belonging** — new, first sighting, central to this chapter: the underwater passage where "the room switched off," weightlessness, the old scull movement her hands remember, quiet grief for a smaller/freer past self. Strongest, most lyrical image of the chapter.
+- **Cassie's care-without-asking** — new, first sighting explicit as a named principle: "asking was for people who wanted the sad version to get bigger" — she acts (the splash) instead. Folds into and deepens the established "partings and greetings as tells" motif (Cassie's flat "Goodbye") — a throughline of Cassie reading Vee accurately and responding sideways rather than directly.
+- **Pointing/choosing** — established mechanism, not present this chapter.
+- **Food/appetite as control** — established (apple/closet, cheeseburger line, froyo cup/tart speech). Not present this chapter — a different chapter's register entirely.
+- **The maple burning orange** — established, single tree "gone over all at once." Not present this chapter, still standing.
+- **The long way / walking toward nothing** — established last chapter's title image ("They walked the long way, not toward anything"). Not present this chapter.
 
-**Symbolism:** The froyo "system" (tart holding structure, chocolate-on-tart as "an argument the whole way down") stands for Pace's method of managing people and desire — layering, structural holding, avoiding collapse. Not present this chapter. New this chapter: the painted dark stripe marking where the pool's shallow gives out — a threshold Vee crosses willingly and alone into weightlessness, the inverse of being propped up by someone else's system; reads as a small counter-image to all the "held up by structure" language used elsewhere for how Pace manages desire.
+**Symbolism**
+- The "pointing game" as mechanism — established, not touched this chapter.
+- The froyo tart/system speech as managed sweetness — established, not touched this chapter.
+- **New this chapter:** the water as the one part of Vee's body/life "that had never been taken" — read as symbolic of an unclaimed, pre-sexualized selfhood she can only access by submersion, contrasted against the surface world (bleachers, catcalls, "the whole business of having a body in a place where people were").
 
-**Open questions:** Will Vee ever learn how/why she was actually selected and delivered to Pace? What did Randi's untouched-coffee tell mean, and does its absence in the froyo-date chapter mean resolution or suppression — still live. Does Randi's desire for women exist independent of Pace's framing, or only inside the shape he built — still open. Is Pace's tenderness toward Vee genuine warmth alongside control, or is control the whole of it — still open. What is Randi and Pace's actual history — still unstated. What did Cassie's earlier flat "Goodbye, Vee" and troubled expression mean — still unresolved, not touched this chapter. Will Randi's role in engineering the relationship ever surface for Vee — still live. New this chapter: what did Vee "grieve, a little" over, underwater — the text doesn't say; held open.
+**Open questions**
+- How far does the Vee/Randi/Pace triangle go, and toward what end? No movement this chapter (Pace/Randi absent).
+- Will Vee learn she was selected/targeted, and how would she react? No movement, gap still open.
+- Will Randi's resolve to hide her true self from Pace hold? Not tested this chapter.
+- What happened with Daphne, and does it rhyme with Vee's situation? Still open.
+- Is Randi's self-concealment traceable to a specific cause, or baseline? Still open.
+- Will Brooke, Sloane, or Kinsey recur? Still open.
+- Has Randi genuinely desired/fixated on Vee specifically, or would any sufficiently open woman produce the same effect? Still open.
+- What does Cassie know or suspect (from the earlier "Goodbye" and unnamed look)? Not advanced this chapter, but her demonstrated protectiveness/attentiveness this chapter makes me more confident she'd act on it if she does know or sense something.
+- Was "we should sit together" (Randi's earlier line) sincere or performance? Still open.
+- Is Pace's attentiveness toward Vee genuine on its own terms, or purely instrumental? No movement this chapter (absent).
+- Was the in-person café meeting between Pace and Vee (implied before the froyo chapter) shown or skipped? Still an open inference, unresolved.
+- **New:** Is Vee's underwater grief specifically about her body/self-image, about something narrower (aging out of synchronized swimming, being looked at differently now), or something else entirely? The text stays close and physical without naming the grief's full shape — held open deliberately, I think, and I won't resolve it further than the page did.
 
-**How I feel — overall:** This chapter gave me a breath of clean air after several chapters of watching Vee be worked on without her knowledge — a chapter with no double charge, no engineering, just two young women being genuinely, uncomplicatedly good to each other in a pool. It moved me more than I expected for something with zero plot advancement on the courtship front; I came out of it loving Cassie more and aching for Vee a little differently — not "what's being done to her" but "what she's carrying that no one sees," the body-shame, the old grief in the water. It sharpens my worry for her going forward, because now I know she has a real self underneath the composure, one that gets relief only alone, underwater, unwatched — and everything else in this book is about being watched.
+**How I feel — overall**
+Tender and a little wrung out, in the best way — this chapter didn't touch the triangle at all and I didn't miss it; it gave me something I needed, which was uncomplicated proof that Vee is loved well by at least one person, fully, without agenda. Cassie moved from "warm side character" to someone I trust completely — her method of care (act, don't ask) is now one of my favorite things in the book. The underwater passage is the most purely moving writing I've read here so far — quiet, physical, ungoverned by anyone else's gaze — and it recontextualizes Vee's body-consciousness as older and deeper than anything Pace or Randi have touched yet. I go into the next chapter with more affection for Vee and Cassie both, and the triangle's dread is still there but held at a slight distance, which felt like a mercy.

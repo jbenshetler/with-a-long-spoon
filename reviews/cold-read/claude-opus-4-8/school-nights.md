@@ -1,127 +1,136 @@
 # Cold read — School Nights
 
-*scene: scenes/school-nights.md · model: claude-opus-4-8 · read after: above-him*
+*scene: scenes/school-nights.md · prose-blob 15f3152b288f1b5fddb04116f48ca5ccbc2d126a · model: claude-opus-4-8 · read after: above-him · 2026-08-13*
+<!-- freshness: prose-blob = `git hash-object scenes/school-nights.md` at read time; if it differs from the live file's hash, this review is stale. -->
 
 ## Reader reaction
 
-After the drawer chapter, this lands like a held breath let out slowly. It's the first time I've actually watched Cassie on the page instead of holding her in reserve, and she's exactly who my carry-forward promised — she loves by holding the door open and then getting out of the way. "You're doing the streetlight thing again. You're a public utility." I laughed, and then I ached, because the whole scene is Vee lit up from inside and Cassie being the one person allowed to see it plain.
+A short, warm chapter — a breather, and a good one. Vee comes home "lit up," a public utility, a streetlight, and Cassie holds the door open for her to spill. I loved Cassie here: no face on at all, letting Vee talk herself out, the dry "You're doing the streetlight thing again." She's the clean mirror the book keeps giving me, and she's used sparingly enough that I trust her completely.
 
-What I felt most is how right the two of them are together. Cassie "listened with no face on at all and let Vee run herself out." That's love as a kind of clearing — she opens the door "because there was no holding it once Cassie opened the door," and Vee spins the chair around backward and pours. This is the truest, most unengineered bond in the book and the chapter confirms it without a single false note. My warmth for Cassie is total.
+The tender detail that landed: the burn on the side of her breast, and Cassie's wry "There's only one way *that* burn happens. Not enough on." So Vee's been cooking with him half-dressed or bare, and the house is warm enough now that "she never once thought about how much she had on." That's the body-shame lifting, shown sideways — and it moved me more than a stated version would. The whole of him "turned on her until the rest of the room went dark around her" is the swoon of the chapter, and it's real.
 
-But Cassie's also the outside instrument I've been waiting for, and this chapter she does the thing gently: "You don't come home school nights." Not a question. And Vee has to go back over "the week she hadn't counted" — the careful one, the one who counts pennies, hadn't counted this — and finds "her own bed had sat empty more nights than it hadn't." That's the first outside voice registering the erosion, and it's landed by the one person who'd notice without an agenda. Then "You've had boyfriends. You never went like this over one." Cassie is measuring the *size* of this against Vee's whole history and finding it doesn't scale. I the reader know why it doesn't scale, and it made my stomach drop a little under the sweetness.
+But the chapter also softens last chapter's private declaration in a way I noticed. Alone in his mirror she'd named it flatly — she loves him. Here, asked straight by Cassie — "Do you love him" — she goes small: "Maybe. I think so. It's all so fast." That gap interests me. The love she can hold in silence she can't quite say aloud even to Cassie. And Cassie, tellingly, "let the maybe stand. She didn't say a thing against it, and she didn't say I know." That withholding is Cassie sensing the shape without the fact — exactly her established position. No new suspicion pressed; the page just keeps her clear eye trained and quiet.
 
-The thing that got me most: when Cassie asks flat out "Do you love him," Vee — who last chapter named it privately, "she loved him," whispered "Peter" to his sleeping shape — goes *small*. "Maybe. I think so." And then, "It's all so fast." She rations even the admission. The private certainty and the spoken hedge diverge, and the hedge she reaches for is exactly the thing I know is engineered: the *speed*. She feels the fastness as the mystery. I feel it as the design.
+No heat here, no engineering visible — a genuine rest. My dread is entirely carried-in, not page-pressed. What I want: for someone to eventually ask Vee the harder question Cassie is too kind to ask.
 
-And Cassie "let the maybe stand. She didn't say a thing against it, and she didn't say I know." That "didn't say I know" is the seam of the chapter. I can't tell if Cassie knows something specific or just knows Vee's in past "maybe" — I'm holding it ajar, which is where the page leaves it. She declines to push. This chapter she opens the door and watches; she does not catch the wrist. Whether she becomes that friend is still open, but she's now positioned to be.
-
-Erotic charge is low and that's right — this is recounting, afterglow at one remove. The one spark is the soup-burn: "With not enough on," Cassie said, pleasant — a tease that also registers the intensity, Vee "already past it" before she catches the double meaning. It's warm, not hot.
-
-No fresh suspicion earned. The dread is all carried-in, sitting where it always sits, just under the warmth. If anything the chapter's quiet made me protective — it's the everyday texture the con is quietly displacing.
-
-**Title.** "School Nights" is Cassie's line, and it's the whole chapter in two words: the ordinary weeknight life — her own bed, her class, her friend — that the relationship is swallowing without Vee counting the cost. Innocuous on the surface (student stuff), it recolors into the narrowing: belonging that's also a world getting smaller. The one person outside the machine naming the erosion by its plainest name. The book's *A Polite Invitation* and *With a Long Spoon* still point where they've pointed — the sweetest course taken with no spoon — and this chapter is the ordinary life that's being quietly folded down to make room.
-
-I want to see whether Cassie pushes, and whether this glowing recounting is itself the kind of thing that travels. But mostly I wanted this scene to just be two friends and a bean bag, and it mostly was, and I'm grateful for it.
-
-**Cast present (in person):** Vee, Cassie. Mentioned only: Pace (as "he"/"Peter," offstage).
-
-**Heat:** 0 — recounted domestic warmth; one faint innuendo ("with not enough on"), nothing enacted.
-
-**Romance:** 2 — Vee glowing past words about Pace; the tenderness of the Cassie/Vee holding-space bond throughout.
-
-**Motifs & images:** *The word Vee doesn't own* (repeat) — "fine" for the ones before, no word at all for Pace, "put both hands up at the size of it." *Love said in acts* (repeat) — the cooking, the cold cloth on the burn "before she'd got the first swear out," "he noticed things before she did." *The narrowing/school nights* (NEW) — empty bed more nights than not, life displaced. *Class-longing/making-do* (repeat, inverted) — "warm enough that she never once thought about how much she had on." *Love by holding* (Cassie, first sustained on-page) — opens the door, lets the maybe stand, "didn't say I know."
-
-**Symbolism:** "School nights" = the ordinary separate life the bond is folding down — belonging read as erosion. Cassie's cracked window / the cold Vee "didn't feel" = insulated inside the glow, the outside chill not registering.
-
-**Characterization:** Cassie deepens and lands fully — dry, warm, declining to push, the truest witness. Vee consistent and deepening: the careful one who "hadn't counted," ration turned on her own admission (private "loved him" → spoken "maybe"). No one went thin.
-
-**Pace — within the chapter:** Short and clean; a genuine breather that earns its brevity. No drag.
-
-**Pace — chapter to chapter:** Holds; a deliberate quiet after the drawer's peak, shifting the outside witness into view. Restful rather than sagging — the right beat to follow the previous.
-
----
+**Titles.** "School Nights" — Cassie's line, "You don't come home school nights," lands soft but names the drift plainly: Vee's own bed sitting empty more nights than not, her life quietly relocating to his house. Innocuous on the surface, but it's the measure of how far she's already moved. *A Polite Invitation* / *With a Long Spoon* — still the sup-with-the-devil warning under the courtesy; this chapter is the courtesy's warm side.
 
 ## Carry-forward state
 
 **Principals**
-- **Pace** (= Peter): young math PhD; powerlifter; furniture-maker; MRI patent. Ordinary pleasant face, light brown hair, thick calloused hands. White pickup; small post-war house off six-fourteen, one bathroom. Real name Peter; engineered "tutor" at 15–17 called "the best two years"/luck; lifting as self-erasure. Scar high inside thigh / a paler line on his chest she keeps unasked. Interior warmth for Vee genuine and unrecognized; also runs intelligence. Says love only in acts (drawer, cooking, coming-back). **Off-page this chapter — present only as Vee's glowing account (cooks, watches her eat, cold cloth on her burn, "noticed things before she did").**
-- **Randi** (= Miranda): 21, junior, sorority Standards; black hair, blue eyes, dancer's body, cold-citrus scent; plain white-gold band. Virtuoso extractor; dark-green Mercedes. Secretly Pace's lover and Vee's closer; cultivated the spanking-appetite; harvests Vee's confidences live. Off-page this chapter.
-- **Vee** (= Vivienne): protagonist. Tall lush hourglass, copper/dark-red hair, snub freckled nose. Econ major; Ohio; hungry to be chosen, the careful one; counting pennies. Losing weight without asking her body to. **This chapter: glowing home past eleven, pours her weeks to Cassie; the careful one who "hadn't counted" and finds her own bed empty more nights than not; can't find a word bigger than "fine" for the men before; asked outright if she loves him, goes small — "Maybe. I think so. It's all so fast."**
-- **Cassie** (= Cassandra): Vee's roommate/friend; clever, warm, dry, loves-by-holding; least-engineered, wholly true bond. **On-page, sustained, for the first time: keeps the window cracked, lets Vee run herself out, gently names the erosion ("You don't come home school nights"), asks if she loves him, lets the maybe stand — "didn't say a thing against it, and she didn't say I know." Opens the door; declines to push.**
-- **Sheri**: Pace's Saturday riding partner; child-sized frame, bleached ponytail; reads queer. Off-page. Open: was she the poisoning blonde?
-- **Meg**, **Brooke** (Randi's sister), **Kayla**, **Christine**, **Theo**, **the silent taller woman** (unnamed, open), **the older bartender** — off-page.
+- **Pace** (= Peter) — male, 22. Math PhD near done, powerlifter, builds furniture; runs meticulous-consent scenes; engineered Randi's attraction and the staged collision. Running Vee and Randi at once; "Randi. That's not finished." Large scar high on inner thigh — untold. **Absent this chapter (reported only):** cooks with intent every time, watches her eat, fussed over her burn for days, keeps the house warm.
+- **Randi** (= Miranda) — female, 21. Sorority Standards. Disordered eating, hidden self-harm; curated face; the closer — extract, arouse, produce want, deny discharge, reassure, mark. Runs Pace's method. Drives a Mercedes. **Absent.**
+- **Vee** (= Vivienne Thorne) — female, 21, junior. **Jacket protagonist. POV.** Tall, lush, warm dark-red hair, snub nose, cinnamon freckles. Econ; sharp room-reader turned self-doubting; lifelong body-shame; broke, hidden card debt. **This chapter:** home late, "lit up," spilling to Cassie; body-shame visibly lifting (cooked half-bare, no longer counting how much she has on); asked outright if she loves him, goes small — "Maybe. I think so. It's all so fast."
+- **Cassie** (= Cassandra) — female. Vee's roommate/friend; clean love, immune clear eye; soccer. **Present:** holds the door for Vee to spill, no face on, names the drift ("You don't come home school nights"), asks "Do you love him," lets the "maybe" stand without arguing or claiming to know.
+- **Sheri** — female. Pace's cycling friend ~2 years; reads him better than he reads himself; warned two-at-once complicated. The one honest voice. Absent. *(Open: possibly = "older bartender.")*
+- **Brooke** — Randi's sorority sister; the house has a folder on Vee. Absent.
+- **Daphne** — Pace's first, assigned older tutor: she 19, he 15. Mentioned-only; harm ajar. Absent.
+- **The blonde girl** — at the bar Thursday; told Vee Pace "knows how to get a girl to do just what he wants." Named-only, unidentified. *(Open: planted?)* Absent.
+- **Meg** — dorm friend; sourced dance clothes. Peripheral, absent.
+- **The older bartender** — corrected the record. Absent. *(Open: may = Sheri.)*
 
 **Relationship ledger**
 
-*Core — Pace / Vee:* **involved, consummated (y); appetite consummated on-page prior; reconciled; easy/domestic, deepening.** Surface (Vee): the man who is not "fine" like the others, too big for a word, who has made her a place; privately she loves him but out loud says "maybe / so fast." True (reader): the con's payoff — this exact intimacy is the harvestable material — AND a tenderness that reads wholly real. Chord unresolved by design.
-  - *desire worked-on-her ↔ desire hers:* **hers** (from prior), quiet this chapter — recounted glow, not enacted.
-  - *warmth ↔ cold:* **warm** — the cooking, the watched burn, the house "warm as a held breath." Cold only what I carry in.
-  - *cherished ↔ used:* **cherished** on the page (the whole of him "turned on her"); reader holds *used* pole in reserve (this glowing account is exactly what the con converts), untouched by the page.
-  - *isolation ↔ belonging:* **belonging felt as home — but the narrowing surfaced this chapter through Cassie:** empty bed more nights than not, the separate life folding down. First outside naming of the erosion.
-  - *This chapter:* moved on the isolation↔belonging axis — the narrowing named from outside (Cassie's "school nights") while Vee reads it as warmth; and a new gap between private certainty ("she loved him") and spoken hedge ("maybe... so fast"). Milestone flags stand.
+*Core — Pace & Vee:*
+- **State:** involved (consummated: y — many times). secret, one-sided (Vee unaware of engineering). Vee privately loves him (internal declaration last chapter); **this chapter she can't fully say it aloud — "Maybe. I think so. It's all so fast."** He has never said it to her. Care real and costly *and* serves a built apparatus. Reconciled.
+- **warmth ↔ cold:** warm on both surfaces, at its warmest — the cooking-with-intent, watching her eat, days of fuss over a small burn, house kept warm. Reader keeps pattern-words ticking underneath.
+- **isolation ↔ belonging:** belonging deepening — her own bed sits empty more nights than not; her life relocating to his house ("You don't come home school nights"). Belonging as the deepest hook.
+- **cherished ↔ used:** cherished pole loud and genuine. Reader-shadow: her world quietly narrowing onto his house.
+- **desire worked-on-her ↔ desire hers:** her want feels wholly hers; body-shame lifting under his warmth reads as her own ease. Reader notes the ongoing body-change she never asked for.
+- **This chapter:** warm; belonging deepened (the school-nights drift); the private love softened to "maybe" when spoken aloud to Cassie.
 
-*Core — Randi / Vee:* **intimate front / instrumented steering — closer harvesting the mark. Consummated n (closing kiss escalating toward physical).** Off-page this chapter — no change. Surface: chosen best friend. True: the closer running her. Axes stand: desire hard to worked-on-her; warm-over-cold; used-under-cherished; belonging-of-the-narrowing-kind.
+*Core — Vee with herself:*
+- **State:** managed surface over unlooked-at want, but at rest and happy; body-shame easing (no longer counting what she has on). Won't ask about the scar; hasn't done the debt math. Can hold love in silence but not quite name it aloud.
+- **This chapter:** contentment intact; ran clean out of words, "which Vee never did"; the size of the feeling outruns her vocabulary.
 
-*Core — Pace / Randi:* **involved, consummated (y); secret; coordinated con.** Off-page; no direct change. The glowing account Vee just gave Cassie is exactly the material their partnership converts. White-gold band and jealousy-seam still loaded.
+*Core — Randi & Vee:*
+- **State:** attracted → closer-work at full operation, effectively controlling. Surface (Vee): closest friend, "best friend in the whole world," the one who chose her. True: the closer running Pace's method — extract, arouse, produce, deny, reassure, mark. Flag stands and hardens.
+- **warmth ↔ cold:** blazing warm on Vee's surface; reader-cold underneath — the warmth is the instrument.
+- **isolation ↔ belonging:** Randi offers belonging as the hook, narrowing Vee onto her line.
+- **cherished ↔ used:** Vee feels chosen; reader sees used — worked to the edge, denied, marked with the transferred bite.
+- **desire worked-on-her ↔ desire hers:** worked-on-her, most explicit to date; Randi can arouse then leash her.
+- **This chapter:** no change (Randi absent).
 
-*Core — Randi with herself:* the "face" as armor over relocated wanting; sincerity toward Vee held genuinely ajar. No change.
+*Core — Pace & Randi:* involved (consummated: y), secret from her sorority world; he directs her desire toward Vee. "That's not finished." No change (both offstage).
 
-*Core — Vee with herself:* runs a managed self; the careful one who "hadn't counted"; rations even her own admission of love — privately certain, publicly "maybe... so fast." Still lacks the word bigger than "fine." **This chapter: happy, un-colonized, but for the first time confronted (gently) with the cost of the erosion and unable to answer for it.**
+*Core — Randi with herself:* at war; face vs. person; makeup "so finely done it passed for skin." Sets it down only in his bed. No change (absent).
 
-*Core — Vee / Cassie:* **close, easy — the truest, unengineered bond; now on-page.** Cassie loves by holding: opens the door, lets Vee run out, names the erosion once and lets it drop, lets the maybe stand. She is now positioned as the possible outside witness/wrist-catcher but this chapter chose not to push. The "didn't say I know" seam: ambiguous whether Cassie senses something specific — held ajar.
+*Pace & Sheri:* Two-year cycling friendship; blunt; reads him better than he reads himself; warned two-at-once complicated. The one honest voice. No change (absent).
 
-*Pace / Sheri:* no change. Open: poisoning blonde?
+*Vee & Cassie:* Clean, central, recovered and accepted. **This chapter reaffirmed:** Cassie the door Vee spills through; senses the shape ("You never went like this over one"), asks straight, lets the "maybe" stand without arguing or claiming to know — clean love holding without the fact. Warm.
+
+*Vee & Brooke:* Asymmetry — sorority knows Vee (dossier); Vee knows nothing. No change.
 
 **What I know that they don't**
-- (Vee doesn't know) the café was engineered; Randi and Pace are secret lovers running a coordinated con; the reunion was Randi-architected.
-- (Vee doesn't know) the blonde at the bar told her the *truth* about Pace; the reunion converted it into guilt; Pace extracted its content.
-- (Vee doesn't know) Randi cultivated the spanking-appetite; it was consummated by Pace; the confidante she runs to is her trainer, who harvested the full account live.
-- (Vee doesn't know) the bet was a structure with no refusal — consent extracted and relabeled.
-- (Vee doesn't know) she was deliberately edged at brunch; "Sticky fingers?" was Randi naming what she'd engineered, then covering it; the closing kiss passed a glaze she never touched into her mouth.
-- (Vee doesn't know) the warmth she just poured out to Cassie is exactly the kind of material the con converts to intelligence; whether it travels is not shown.
-- (Reader open) the men in Randi's stories do NOT match Pace — real past lovers, fabrications, or arousal-props.
-- (Reader open) whether the poisoning blonde was Sheri.
-- (Reader, both true) Pace's interior warmth is real AND he runs the method — the chord unresolved.
-- (Reader, caring side) Cassie's love wholly unengineered; whether any of Randi's warmth for Vee is real is left genuinely ajar.
-- (Reader open) white-gold band — marriage, to whom.
-- (Reader open) the scar — Vee keeps it unasked, deliberately.
-- (Between runners) Randi jealous of Pace's regard for Vee AND wants Vee herself — double seam.
-- (Reader irony) what was done to young Pace ("luck") is the shape of what's being done to Vee; the tenderness he gives may be the tenderness once given him.
-- (Reader, new/ajar) Cassie may sense something is off ("didn't say I know") — unresolved.
+- (Caring) Pace genuinely moved by Vee — weekend tenderness real and involuntary; first-always in bed; the drawer given wordlessly; his real spanking hand gentle; days of fuss over a small burn.
+- (Caring) The Rusty Nail confirms Pace safe/good — gets drunk girls home, leaves them at the door.
+- (Caring) Pace genuinely moved by Randi — holds her, lets her set pace.
+- (Caring) Pace's cold/shirt-sacrifice on the hike were real, unseen by Vee.
+- (Caring) The MRI patent is real, aimed at helping frightened sick people.
+- (Caring) Cassie's love for Vee is clean, senses the shape, lacks the fact — reaffirmed this chapter.
+- (Caring/ajar) Randi's feeling for Vee reads at least partly real — but the working closer has been foregrounded so fully that the caring read is at its thinnest.
+- (Reader-held) Pace harmed young by Daphne (she 19, he 15), names it luck; builds asymmetries and calls them consent.
+- (Using) Pace engineered Randi's attraction/"choice," harvesting involuntary response as consent; may have targeted Vee — ajar.
+- (Using) Pace & Randi run Vee as a coordinated operation — Randi the closer, Pace clearing the standard.
+- (Using) Randi works Vee with extract-arouse-produce-deny; controls the discharge.
+- (Using) The goodbye kiss is a deliberate mark — Randi's single bite transferred to Vee's lip.
+- (Using) Randi's Radford story likely built, not confided.
+- (Using) Randi engineered Vee into unpayable compounding card debt for boutique shoes; Vee won't do the math.
+- (Using) The sorority house holds a folder on Vee.
+- (Using) Vee apologized to Pace for correctly reading his method; disowned her one accurate perception.
+- (Using — soft) Pace's gifts double as arrangement — scrunchies "so she'd never be without," the drawer "prepared and waiting" — belonging as a made place, narrowing her onto his line; now the school-nights drift confirms the narrowing.
+- (reader-only) Vee is losing weight *unasked* under Pace; reads it as happiness; now body-shame lifting too.
+- (ajar) Pace's "Thank you for telling me what she said" — clean gratitude vs. reconnaissance.
+- (open) The blonde at the bar told Vee the literal truth about how Pace operates.
+- Pace is knowingly running two women at once and doesn't feel the coming collision Sheri named.
+- The gown is built to Vee's exact stripped shape; worn at induction; riser/mirror context still unused for its planned purpose.
+- Randi holds everything Vee withheld; extracts and withdraws as method; self-harms/eats disordered, unlooked-at.
+- Vee has been selected/pursued and doesn't know it; names it free agency.
+- The flannel shirt Vee treasures was made by Pace. House too warm; two towels in a one-man house.
+- Vee's want between women is live, aimed at Randi — produced by Randi, including controlled denial of release.
+- (Struck-partial) Vee knows the scar exists, its rough length, that it's a clean surgeon's line; not its cause. She consciously chose not to ask.
+- (Structural, reader-only) Simpson's paradox: short stretches can lie against the whole.
+- (reader-only) The outlier lecture named Vee's own condition to her face — "innovational" outlier that "carries forward," "never all the way gone."
+- (reader-only) Vee's spanking retold in daylight matched Pace's real gentleness — contradicting Randi's harsher "story."
+- (reader-only) Vee's sovereign desire holds fully in Pace's room but collapses near Randi.
+- (reader-only) Vee privately loves Pace; he has never said it and she's made peace with never hearing it — but can't yet say it aloud to Cassie.
 
 **Motifs**
-- *The word Vee doesn't own* (repeat, foregrounded): "fine" for every man before, no word at all for Pace — "put both hands up at the size of it." Private "she loved him" vs. spoken "maybe... it's all so fast."
-- *Love said in acts, never in words:* here recounted — cooking "like it cost him nothing," the cold cloth on the burn "before she'd got the first swear out," "he noticed things before she did." Prior: door, spin, salmon, coming-back, the drawer.
-- *The place made / the drawer* (title-adjacent, quiet this chapter): the top drawer, "he'd gone and made her a place."
-- *The narrowing / school nights* (NEW): the separate life folding down — empty bed "more nights than it hadn't," class, her own home displaced. Cassie names it. Belonging read as erosion.
-- *Love by holding* (Cassie, now on-page): opens the door, lets Vee run out, lets the maybe stand, "didn't say I know."
-- *Class-longing / making-do* (repeat, inverted): "warm enough that she never once thought about how much she had on."
-- *The body deciding / ahead of permission:* quiet this chapter; warm-face version stands (burning down weekends of him unasked).
-- *The scar unasked:* stands, quiet.
-- *"Luck" / the long spoon:* quiet, live.
-- Carry (quiet): the pastry/glaze she never touched; report-as-harvest / gift-as-leash; Randi's man-who-leaves story; Halloween/costume; the maker's hands as tenderness-and-enclosure; the mirror-noticing / cataloguing attention.
+- **The made place / the drawer / the drift** — Pace gives Vee the top bathroom drawer, folds his own order below "prepared and waiting," no note; now extended — her own bed sits empty more nights than not, life relocating to his house. Belonging offered wordlessly, tender and narrowing at once.
+- **The scrunchies / plenty-as-message** — "by the dozens so she'd never be without"; abundance as claim.
+- **The one bite / the mark left behind** — Randi takes one taste, discards the rest, transfers the glaze to Vee's lip; one-bite eating fused with seduction-as-claim. (Quiet — absent.)
+- **Being watched / being seen** — inverted forms: sovereign in Pace's mirror; unmade by Randi's gaze; here, "he watched her eat it like that was the show" reads warm, cherishing.
+- **Body changing unasked / body-shame lifting** — losing weight unasked; now the shame itself easing — cooked half-bare, the burn on her breast, "never once thought about how much she had on." His warmth altering her relation to her own body.
+- **The scar kept unasked** — "still meant to keep." Choosing the person over the truth. (Quiet.)
+- **Warmth / the too-warm house** — recurs: the house "stayed warm now… never once thought about how much she had on"; heat that undoes the body-shame (and, reader-side, keeps her undressed/comfortable on his terms).
+- **The mother's voice — floozy / slut** — silent; morning untroubled.
+- **Money / the flinch she won't show; the uncropped photo; soaking; the lifted weight; juice; outliers; the flinch/wall** — quiet this chapter.
 
 **Symbolism noticed**
-- **"School nights" / the empty bed** = the ordinary separate life folded down — belonging as erosion, named from outside by the one true witness.
-- **Cassie's cracked window / the cold Vee "didn't feel"** = insulated inside the glow, the chill not registering.
-- **The word she can't find** = the size of the thing exceeding her rationed vocabulary; also her refusal to spend the admission out loud.
-- Carry: the drawer / made place = love as arrangement (and possibly an embed dressed as home); the glaze she never touched = implanted appetite; "Sticky fingers?" + pastry = the closer's deniability; the bra / clothes a size up = a body and class the world never believed.
+- **The school-nights drift** = belonging deepening into relocation — her own life quietly emptying into his house.
+- **The warm house / cooking half-bare** = his influence dissolving her body-shame — read by her as ease, reader-noted as her body on his terms.
+- **The "maybe" that can't be said aloud** = a love held whole in silence but shrinking when spoken — the gap between what she knows alone and what she'll claim to Cassie.
+- **Weight lost unasked** = his influence altering her body without consent, read as happiness.
+- **The scar she decides to keep unasked** = choosing the person over the truth about him.
 
 **Open questions**
-- Does Cassie know or sense something? ("didn't say I know" — held ajar.)
-- Does Cassie become the friend who catches Vee's wrist? (This chapter: opened the door, didn't push.)
-- Does the glowing account — or the drawer, the "Peter," the intimacy — get carried to Randi and harvested?
-- When does the con's cost surface for Vee?
-- Is the drawer the truest thing in the book or the deepest embed — or both?
-- Are Randi's man-stories real, fabricated, or arousal-props?
-- Was the poisoning blonde Sheri?
-- Where is the consummated/relocated appetite pointed — Pace, Randi, or both?
-- What is the word Vee doesn't own yet?
-- Is any of Randi's warmth for Vee real?
-- Does Randi's jealousy-AND-wanting-Vee crack the con?
-- White-gold band — marriage, to whom?
-- The scar / the shut door — does the unasked question ever get asked?
+- Is Randi's feeling for Vee real, or manufactured closer-work? *(top pull; still ajar.)*
+- Will Pace ever say the love back — and what happens when/if he doesn't? *(live.)*
+- Why can Vee name the love alone but only say "maybe" to Cassie? *(new.)*
+- Was the "Sticky fingers?" a door offered or proof there was never one?
+- Was Randi's Radford story confided or built? *(reads built.)*
+- Was the blonde at the bar planted or a buried genuine warning?
+- Was Pace's "thank you" clean gratitude or reconnaissance?
+- How does running "two at once" collide, and does Pace see it first? *(Sheri-flagged.)*
+- Is Sheri the same person as "the older bartender"? Is she the blonde?
+- What does the sorority "folder" on Vee mean? Who assembled it, why Brooke?
+- What is the scar high on Pace's inner thigh — and will Vee ever ask? *(kept-unasked.)*
+- Does the Daphne asymmetry drive Pace's consent-engineering? *(live.)*
+- What does the compounding unpayable debt cost Vee — and when does it surface?
+- Where/when does the gown-with-riser get its planned use, and who else is in that room? Two towels — the second body?
+- Will Cassie's clean read ever reach the true shape? *(she senses more each time.)*
+- Who is the silent taller woman? Did Pace target Vee by name? Endpoint of the operation?
+- Is Vee's drift costing her clear eye and her ability to own her own desire? *(Split: intact with Pace, collapses near Randi.)*
 
 **How I feel — overall**
-Grateful and quietly braced. This was a small, true breather and I loved it for being exactly that — two friends, a bean bag, a cracked window, Vee lit up like a public utility and Cassie letting her burn. My warmth for Cassie is total; she's the one clean instrument in the book, and having her finally on the page steadied me. But she's also the one who can count what Vee won't, and she counted it: "You don't come home school nights." That's the first outside hand on the erosion, laid down gently and then lifted. And the thing that stayed with me is Vee going small on "do you love him" — privately she'd already said it, out loud she can only manage "maybe... it's all so fast," reaching for speed as the mystery when I know speed is the design. The dread is all carried-in, level and low, under a scene I couldn't fault. I keep wanting Cassie to be the door out, and this chapter she was only the door held open — which is its own kind of love, and maybe not enough.
-
----
+A gentle, warm rest of a chapter, and I let it be one — the shadow here is entirely carried-in, not page-pressed. Cassie is the clean warmth I trust most: she opens the door, lets Vee spill, senses the shape without the fact, asks the straight question and lets the "maybe" stand. The burn on the breast and "never once thought about how much she had on" moved me — his warmth is dissolving the body-shame that's shadowed Vee from the start, and that's a real, good thing on the page even as I clock the house is warm on his terms. What I'll be watching: the small "maybe," the love she can hold alone but not quite claim aloud, and the drift Cassie named without judging — the bed sitting empty, the life quietly relocating. I ache for her and half-want her to just have this.

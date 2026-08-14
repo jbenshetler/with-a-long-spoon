@@ -1,93 +1,124 @@
 # Cold read — One Bite
 
-*scene: scenes/one-bite.md · model: claude-sonnet-5 · read after: made-up*
+*scene: scenes/one-bite.md · prose-blob 7cfcf3702644627340684ef14519b366218d8907 · model: claude-sonnet-5 · read after: made-up · 2026-08-13*
+<!-- freshness: prose-blob = `git hash-object scenes/one-bite.md` at read time; if it differs from the live file's hash, this review is stale. -->
 
 ## Reader reaction
 
-Okay, this chapter turned something over in me that I didn't expect from the ledger I walked in with. I came in warm and swoony about Pace, and he's not even in the room — this is Vee and Randi, alone, and it is the most erotically alive chapter yet, and it's not about him at all.
+Oh, this one is doing something different, and it's doing it *well*. This is the first brunch-confession scene, and it recontextualizes so much — I'm realizing I've never actually seen Randi and Vee talk one-on-one with this much length and heat before. The whole thing is built like a seduction disguised as girl-talk, and I can't decide — and I don't think I'm supposed to be able to decide — whether Randi is genuinely delighting in her friend's stories or working her, slow and expert, toward something. "That's not vanilla" as a prompt, "Walk me" as a demand, the deliberate stillness at "he checked" — it reads exactly like technique, and yet it also reads like exactly what a wicked, warm best friend would do. I'm holding both.
 
-Randi lands on me exactly as advertised from the memory-fragment before — magnetic, generous, a little dangerous in her ease. "There's my girl," "You're my best friend in the whole world" — she's so warm it's disarming, and I want to trust that warmth completely. But this chapter earns real suspicion for the first time, not manufactured — it's right there on the page. "Sticky fingers?" lands like a blade wrapped in brunch banter, and Vee genuinely cannot tell if it's an accusation, an invitation, or nothing at all: "she could not tell whether her friend had just handed her a door or shown her there had never been one." I felt that exact vertigo with her. And then the ending — the taste of pastry glaze on her own lip after a kiss, from a pastry she never touched — that's not incidental. That's the chapter reaching past plausibility into something almost dreamlike, and it unsettled me in the good, earned way. Did Randi touch the pastry and then touch her? Did she taste it on Randi's mouth? I don't know, and the not-knowing is doing real work on me.
+The bathroom scene is the gut-punch. Vee alone, aroused past bearing, and the thing that stops her isn't shame at herself — it's Randi's *face* arriving behind her eyes, "as though Vee were the best thing in the room," and she can't be looked at like that and touch herself at the same time. That's a genuinely unsettling, genuinely moving moment — desire and inhibition both routed through the same person. Then "sticky fingers" lands like a small violence, whether or not Randi means it that way, and the not-knowing is the whole point — Vee physically can't find out, can't ask, can't confirm. I felt that vertigo with her.
 
-Vee herself — I love her more this chapter, not less, even though (especially because) she's caught in something she can't master. The recounting of the spanking story to Randi, escalating almost against her own will ("It was out before Vee decided to spend it"), then the bathroom scene — genuinely hot and genuinely sad at once. The stopping is the gut-punch: "she could not be looked at like that and keep her hand where it was, and the two would not hold in one body." That's not modesty, that's something stranger — an imagined gaze from Randi specifically overriding her own pleasure, "frustrated and cowed in the same breath." I felt that as real shame, not decorative shame, the kind the book has been circling since earlier chapters, and here it's pointed at a woman for the first time on the page.
+And then the ending: "best friend in the whole world," the kiss that goes a beat too long, and — devastatingly — the taste of a pastry glaze on Vee's own lips that she never touched. That last image is quietly the most eloquent thing in the chapter: something of Randi's is on her mouth that she didn't put there and didn't consent to and doesn't even *understand* is there. It doesn't resolve into accusation, but it sits in me as something faintly wrong dressed as sweetness.
 
-**Swoon / pull:** the brunch banter has real pull — the mimosa order, the shrieking laugh, the easy intimacy of two women who talk like this. And the goodbye kiss is swoon and unease braided together — "her mouth staying on Vee's a beat past what a friend's would" is doing exactly what it should: I don't get to resolve it into "just Randi being Randi" or "something more," and I don't want to be handed the answer.
+**Trust vs. suspicion:** Randi's warmth reads as real to me and also, simultaneously, as a woman running a very controlled performance of ease and curiosity — I don't think the chapter forces a verdict, but "sticky fingers" and the untouched-but-marked pastry tip me further toward suspicion than I've been before. This is the first chapter that made me actively wonder if Randi *knows exactly* what she's doing to Vee.
 
-**Erotic charge:** peaks hard in the bathroom stall — the "small needy knot," the tap-cold wrists after — and it's not slack anywhere, honestly; even the banter about the spanking is doing charge-work the whole time.
+**Erotic charge:** high, and cleverly displaced — almost none of it is about Pace's actual body; it's all about the *telling*, the audience, Randi's face doing the work of a hand. The peak is the bathroom, and it's a peak of frustration, not release, which stings in the right way.
 
-**Trust vs. suspicion:** genuinely split now, and it's earned. I don't distrust Randi's affection — "You're my best friend in the whole world" reads sincere to me. But "sticky fingers?" is a live wire I can't defuse, and the pastry-taste ending keeps it live rather than resolving it into either "Randi is safely oblivious" or "Randi knows exactly what she's doing." I'm not manufacturing this — the text built it carefully, line by line.
+**Friction:** none really — no thumb on the scale, it trusts the reader to sit in the ambiguity.
 
-**Titles:** "One Bite" — oh, that's doing a lot once you reach the end. The pastry Randi takes exactly one bite of and abandons ("Delicious," in a way that closed the subject) and the pastry Vee never touches but tastes anyway on Randi's mouth — the title sits right on that transfer, whatever it is. It didn't spoil anything reading forward, but it recolors the whole meal in hindsight — I'll be thinking about "one bite" as an image of desire tasted-by-proxy, wanting handed sideways rather than taken directly. The book title and tagline aren't active for me this chapter — no jacket copy in hand — but "A Polite Invitation" suddenly feels newly apt for that kiss at the curb: an invitation dressed as manners, impossible to refuse or name.
-
-**What I want next:** I want to know what Vee does with this — does she think about Randi again, does shame or wanting win, does she ever ask what "sticky fingers" meant. I'm hungry for a Randi POV chapter now too, if this book gives me one. Pure guess from here: I suspect this isn't a one-off, that Randi is going to keep leaving doors half-open like this on purpose or not-quite-on-purpose.
-
----
-
-**Cast present (in person):** Vee, Randi. Mentioned only: Pace (recounted story), Cassie (not mentioned this chapter — correction, not mentioned at all).
-
-**Heat:** 2 — no shared physical sex on the page, but the bathroom masturbation scene is sustained and explicit, and the recounted Pace story carries real heat too; I called it 2 because the *center* of the chapter is Vee's own body, interrupted, not a scene between two people.
-
-**Romance:** 2 — not romantic in the Pace sense, but real tenderness and intimacy between Vee and Randi, cresting at "best friend in the whole world" and the kiss.
-
-**Motifs & images:** heels as ornament (repeat, now folded into the recounted story rather than live on Vee); the taste/food motif is new and immediately charged — the pastry glaze, one bite taken and abandoned, the phantom sweetness on Vee's lip; hands/mouth as the site of confession (repeat — "worse than telling Cassie anything," echoing the pattern of desire outrunning permission from earlier chapters).
-
-**Symbolism:** the bathroom's "hard clinical blue" light that "forgave none of it" against the mirror-face "built that morning to be looked at" — self-presentation vs. exposure, a clear echo of the hallway-walked-twice motif from before, now turned inward instead of staged for an audience.
-
-**Characterization:** Randi deepens significantly — first extended on-page scene, and she's sharper and more ambiguous than the warm-memory sketch suggested; not flattened, complicated. Vee deepens too — the shame-desire fusion ("the shame of it and the heat of it were not two things, they were one thing") is consistent with her established pattern but pushed further and into new territory (another woman, not Pace).
-
-**Pace — within chapter:** unhurried, lets the brunch breathe, and the bathroom scene earns its length — nothing rushed.
-
-**Pace — chapter to chapter:** a real gear-shift from the last (Pace/warmth-only) chapter — different relationship, different register, higher ambiguity. Not sagging at all; feels like new terrain opening rather than repeating a beat.
-
----
+**Title:** "One Bite" — I read it now as the pastry Randi takes one bite of and abandons, and Vee somehow wears the rest of it on her mouth without eating any of it herself. Devastating, retroactively, once you reach the last line.
 
 ## Carry-forward state
 
-**Principals:**
-- Vee (= Vivienne) — protagonist; increasingly caught between desire she authors (with Pace) and desire that ambushes her, now including desire/shame directed at a woman for the first time on the page.
-- Pace (= Peter) — off-page this chapter, present only as the subject of Vee's recounted story (the pantsing/spanking/bet from a prior chapter, told faithfully, no new detail).
-- Randi (= Miranda) — now a fully on-page principal, not just a memory. Warm, magnetic, generous ("There's my girl," "my best friend in the whole world"), but this chapter plants real ambiguity: "sticky fingers?" delivered light, unreadable; a goodbye kiss held "a beat past what a friend's would"; and the closing image of pastry-sweetness on Vee's lip from a pastry Vee never ate — unresolved, possibly meaningful, possibly nothing.
-- Cassie (= Cassandra) — absent, not even mentioned this chapter; no change.
+**Principals**
+- **Pace** (= Peter) — man, controlled, patient, courtly; real name still never surfaces on page. Not on page this chapter — discussed only, in Vee's retelling to Randi, of a spanking scene (bet, "he checked," strip to nothing but heels, rubbed before/kissed after each swat).
+- **Vee** (= Vivienne) — on page throughout, at brunch with Randi. Tells Randi, unprompted and with escalating heat, the story of Pace pantsing/spanking her and "checking" whether she liked it. Becomes visibly, physically aroused mid-telling; excuses herself to the bathroom, begins to masturbate in the stall, stops herself at the edge because Randi's imagined face/gaze arrives and she cannot be looked at and touch herself at once — "the two would not hold in one body." Returns unfinished, aching. Randi says "Sticky fingers?" and Vee cannot tell if it's a real accusation or nothing at all — never finds out. At the end, Randi calls her "best friend in the whole world," kisses her a beat too long; Vee tastes pastry glaze on her own lips after, though she never touched the pastries.
+- **Randi** (= Miranda) — on page throughout. Draws Vee's spanking story out of her with expert, relentless, warm questioning ("Walk me," "How do you mean," going still and repeating "Inside?" for effect). Tells her own story in return — a Radford mixer, a "young Robert Redford" who had to leave mid-encounter, and finishing herself off alone in a stranger's dark bedroom, told with open, teasing candor. Takes one bite of a pastry, says "Delicious," never touches it again, drinks coffee black. Asks "Sticky fingers?" when Vee returns from the bathroom — ambiguous, delivered with total ease, no visible probing. At the end calls Vee her "best friend in the whole world," holds her by both arms, kisses her with a beat of lingering past-friendly, then leaves lightly, waving through the glass of her Mercedes.
+- **Cassie** (= Cassandra) — not on page. Referenced once, in comparison: Vee's telling Randi is "worse than telling Cassie anything" — implying Cassie is a confidante Vee has held things back from even more than this. Standing: close friend, still untold everything.
+- **Sheri, Brooke, Meg** — not on page. Standing unchanged.
 
-**Relationship ledger:**
+**Relationship ledger**
 
-*Vee & Pace:*
-- **State:** involved (flag: consummated — y, ongoing). Surface: unchanged, playful and chosen. True: unchanged — no gap, no new content this chapter (he's offstage, recounted only).
-- Cherished ↔ used — cherished, per his behavior in the recounted bet scene (rubbing before each swat, kissing the spot after) — no new material this chapter, carried from before.
-- Desire hers ↔ desire worked-on-her — desire hers, per prior chapter; unchanged, not tested this chapter.
-- Warmth ↔ cold — warmth, per prior chapter; unchanged.
-- Belonging ↔ isolation — belonging, per prior chapter; unchanged.
-- **This chapter:** no change — Pace appears only inside Vee's retelling to Randi, faithful to established events, nothing new added to his side of the ledger.
+*Pace ↔ Vee* — Core. State: involved (consummated: YES, standing), reconciled. Not on page together this chapter; Pace exists here only as the subject of Vee's retold story.
+  - Warmth ↔ cold: standing warm from last chapter (his restraint, the domestic ease); untouched directly this chapter, but the retelling of the spanking/bet material reinforces it as tender, not punitive — "he rubbed first... and after, mostly, he kissed the spot."
+  - Isolation ↔ belonging: no new material.
+  - Cherished ↔ used: no new material; the story as told still reads as consensual, playful, cared-for.
+  - Desire worked-on-her ↔ desire hers: her body's response to *retelling* the story (independent of his presence) shows how deeply his handling of her has imprinted on her own arousal — this chapter shows desire that is now fully hers, self-sustaining even in his absence, but also entirely captured by the memory of him.
+  - This chapter: no direct scene; Vee narrates the spanking/bet story to Randi in escalating, aroused detail; no new information about Pace himself, but the telling deepens how thoroughly his touch lives in her body now.
 
-*Vee & Randi:*
-- **State:** friends (close) · newly flagged **attracted**, with a **secret** modifier on Vee's side at minimum (she cannot admit even to herself what happened in the bathroom, let alone to Randi) — surface reads as ordinary best-friend intimacy to an outside eye; true is charged and unresolved, and I genuinely don't know if it's mutual, one-sided, or something Randi half-knows and is playing with. Not consummated in any form; the kiss is on the border of ordinary and more.
-- Cherished ↔ used — cherished on the surface (Randi's warmth reads sincere — "my best friend in the whole world," said with her whole face open), but a live undercurrent of something closer to used/performed-for keeps surfacing in the ambiguity of "sticky fingers?" and the pastry-taste ending — I hold both, unresolved.
-- Desire hers ↔ desire worked-on-her — worked-on-her, strongly: Vee's arousal in the bathroom is explicitly produced by imagining Randi's gaze/face ("Randi's face arrived behind her eyes... she could not be looked at like that and keep her hand where it was"), and she stops herself out of something like obedience to that imagined watcher — the most vivid worked-on-her instance in the book so far.
-- Warmth ↔ cold — warmth throughout the meal (mimosas, laughter, the kiss), but the bathroom scene and the "clinical blue" light bring a private cold/shame current underneath it that the warm surface never touches.
-- Belonging ↔ isolation — belonging, powerfully — "best friend in the whole world" — but paired with a new private isolation: Vee alone in the stall, alone in not knowing what Randi meant, unable to ask.
-- **This chapter:** the relationship's whole erotic undercurrent surfaced for the first time — recounting Pace's story to Randi triggers Vee's own arousal, a private masturbation scene interrupted by shame at an imagined Randi-gaze, an ambiguous "sticky fingers?" comment, and a goodbye kiss that lingers past friendship, closing on the uncanny detail of shared/transferred pastry sweetness. This is the single biggest movement in this pair's ledger to date.
+*Pace ↔ Randi* — Core. State: involved (consummated: yes, ongoing), complicated by unglossed "not finished." Not on page this chapter, not mentioned.
+  - All axes standing, untested this chapter.
+  - This chapter: no reference at all.
 
-*Vee & Cassie:* No appearance, no change; no content this chapter to carry.
+*Randi ↔ Vee* — Core. State: friends (close), surface reads as deep, generous, sisterly intimacy — but this chapter is the strongest evidence yet of something more charged and asymmetrical underneath: Randi's extraction of Vee's sex-story is skillful, relentless, and precisely paced; Vee's arousal is not only produced by the story itself but is redirected, mid-masturbation, into an image of *Randi's face and gaze*, which stops her rather than pushes her over. Ends with Randi naming Vee "best friend in the whole world" and a kiss held a beat past friendly, and Vee finding an unexplained taste of pastry glaze on her own lips afterward — as if something of Randi's was placed on her without her knowing.
+  - Warmth ↔ cold: extremely warm on the surface (delight, teasing, tenderness, the declaration of best-friendship) but shadowed now by a current of manipulation-shaped warmth — the reader can no longer fully separate genuine fondness from calculated drawing-out.
+  - Isolation ↔ belonging: belonging deepened hugely and explicitly ("best friend in the whole world... picked her, out of everyone") — but this arrives right after a moment where Vee is *alone* with an ambiguous accusation she cannot resolve with Randi, so belonging and unknowability are now braided together.
+  - Cherished ↔ used: the axis most in question this chapter — Randi's questioning has the shape of care (delighted, generous listening) and also the shape of use (drawing private, humiliating-if-exposed material out of Vee for her own pleasure, then possibly naming it aloud with "sticky fingers"). Left open on the page.
+  - Desire worked-on-her ↔ desire hers: pivotal — Vee's own arousal is triggered by the *telling*, but the thing that stops her from finishing herself in the bathroom is not shame but the imagined presence of Randi's gaze; desire that started as hers curdles into desire she cannot act on because it has become entangled with being watched/known by Randi.
+  - This chapter: Randi draws out Vee's sexual story in intimate detail over brunch; Vee grows visibly aroused, excuses herself, begins to touch herself, stops at the edge because Randi's imagined face intrudes; returns to "Sticky fingers?" — unresolved whether real observation or coincidence; the chapter closes on Randi naming Vee her best friend and a kiss that lingers, and the unexplained taste of pastry glaze on Vee's lips, though she never touched a pastry — a small, uncanny transfer neither character remarks on.
 
-*Vee alone:* The pattern of desire outrunning permission continues and intensifies — for the first time she deliberately halts her own pleasure rather than just being caught in it, out of something closer to fear of being seen/judged by Randi specifically, even in fantasy. "Frustrated and cowed in the same breath" — new note, worth keeping: this is the first time shame *stops* her body rather than just coloring the aftermath.
+*Vee ↔ Cassie* — Core. State: friends (close), warm, trusted. Not on page; referenced once as a comparison point ("worse than telling Cassie anything") implying an even higher threshold of privacy toward Cassie than toward Randi.
+  - Axes standing at prior warm/belonging/cherished readings.
+  - This chapter: no direct interaction; implied that Vee still holds back more from Cassie than she does, apparently, from Randi.
 
-**What I know that they don't:** Nothing confirmed adversarial — but genuine reader-level uncertainty now sits where there wasn't any before: I don't know if Randi noticed anything in the bathroom, engineered the story to provoke Vee on purpose, or is simply as warm and oblivious as she appears. On the warm side, unchanged: I remain more certain of Pace's depth of feeling for Vee than the dialogue states outright (from before, no new data this chapter).
+**Everything else**
+- Radford mixer boy (unnamed, "a young Robert Redford") — new one-scene figure in Randi's own retold story; danced well, kissed forcefully then eased off, left mid-encounter for a friend's emergency call. Not a recurring principal; noted for continuity only, not carried as a named person.
 
-**Motifs:**
-- Made-by-his-hands as devotion (Pace) — dress, table, chair, all recurring; quiet this chapter (he's offstage) but standing.
-- Desire hers vs. worked-on-her — ongoing oscillation; this chapter tips hard toward worked-on-her, and for the first time the "working" comes from a woman's imagined gaze rather than a man's actual touch — new territory for the motif.
-- The heels — recurring emblem (bet-payment → pure ornament in the last chapter); this chapter it's folded back into the story-telling only, no new charge added.
-- New this chapter: taste/food as a vector of intimacy or transgression — the pastry, one bite taken and abandoned, sweetness transferred without a visible act. First appearance; charged, unresolved, worth watching closely.
+**What I know that they don't**
+- Vee has been selected/approached under possibly false pretenses by Pace (engineered "collision" via Randi) — untouched this chapter.
+- Randi is actively, skillfully extracting details of and steering Vee's path, while also genuinely, privately fond of her — **this chapter is the sharpest instance yet of the extraction technique in action** (the pacing of "Walk me," the stillness at "Inside?", the request for the bet's terms) — still ambiguous whether Randi is conscious of what she's doing to Vee's body, but the craft of the questioning is now undeniable on the page.
+- Randi's private resolve never to let Pace see her fully unarmored self again, and her unnamed stillness at Pace's praise of Vee — standing, unaddressed, no new material this chapter.
+- Pace's real tenderness with Vee, corroborated again this chapter via Vee's own retelling (the rubbing before, the kissing after each swat) — standing, deepened by report rather than scene.
+- Pace's history with Daphne — untouched, standing.
+- The scar, still unexplained — untouched this chapter, standing open question.
+- Cassie's unreadable look toward Randi from an earlier chapter — still standing, unaddressed.
+- Randi's kiss with Vee, toenail touch, "kind of hot" comment, the routine goodbye kiss — **this chapter adds a new instance**: the goodbye kiss lingers "a beat past what a friend's would," with a held half-breath and a second press before release — the most overtly charged of these kisses yet, though still framed within a "best friend" declaration, so its nature stays genuinely ambiguous.
+- Vee's credit-card debt — untouched this chapter, but this chapter shows her ordering the cheapest drink on the menu ("a mimosa was the cheapest yes on the card, and no one needed to know that was why") — a fresh, concrete instance of the money anxiety, undisclosed to Randi.
+- Pace told Sheri his situation with Randi is "not finished" — untouched this chapter, still unresolved.
+- Randi's story of an ex/husband who spanked her ritually ("slight little thing, soft-spoken," "I had to count") — identity unstated, standing open question; not referenced this chapter.
+- **New:** the taste of pastry glaze on Vee's lips that she never ate — the reader is left with a genuinely uncanny, unexplained image; not resolved on the page, and Vee herself doesn't appear to register or question it in the text — pure reader-side unease, unshared with any character.
 
-**Symbolism:** The hallway-walked-twice motif (public vs. private exposure, same body different meaning) from before finds an echo here in the mirror/blue-light moment — Vee's "careful face, built that morning to be looked at" versus what her body actually did in private, the same tension of self as performance vs. self as fact.
+**Motifs**
+- **Naming as intimacy/control** — standing: no "Peter" yet, this makes nine chapters running (Pace not on page this chapter to test it, but the pattern holds by omission).
+- **His clothes/making as intimacy object** — standing (the burgundy induction dress; the scrunchie stash; the curry; borrowing his boots); not referenced this chapter, no change.
+- **The dance/lead-and-frame as trust** — standing, untested this chapter, though Randi's Radford story ("he knew when to ease off and leave you the room to come after him... the entire art") is a new instance of the *dance-as-desire-grammar* motif transposed to Randi's own remembered encounter.
+- **Randi dressing/handling Vee's body** — standing (boutique buckling memory); this chapter's closest cousin is verbal rather than physical — Randi handling Vee's *story*, drawing it out piece by piece the way she once buckled a shoe, guiding without touching.
+- **The spank/body-answers-before-mouth motif** — standing, hugely reinforced this chapter: Vee's body "kept faith with every word" as she told the story, arousal rising purely from narration, independent of Pace's physical presence — the pattern generalized from touch to speech.
+- **The outlier/involuntary-heat motif** — standing, continues: her body "so far out ahead of her permission that it shamed her even here, alone, with no one to give the shame to."
+- **The two-costume/public-vs-private-self structure** — standing from last chapter (dress vs. heels-only), not directly recalled this chapter but thematically present in the split between the *performed* telling of the story at the table and the *private, failed* release in the bathroom.
+- **New — the bathroom-mirror/blue-light self-confrontation:** Vee alone in a hard, clinical blue-lit bathroom, unable to finish herself, running cold water over her wrists instead of her face to protect her "careful face, built that morning to be looked at" — a new instance of the recurring mirror-alone-at-a-decision motif (prior instance: checking her blush before her second reveal-walk for Pace last chapter).
+- **New — the pastry/taste-transfer image:** Randi eats exactly one bite of a pastry and abandons it; at the very end, Vee finds an unexplained sweetness on her own lips — sugar, butter, "the glaze of a pastry she had never once touched." A striking, unresolved image of something of Randi's ending up on Vee without her consent or knowledge — likely to recur or resolve later; watch closely.
+- Managed step vs. deliberate long step (induction chapter) — standing, untouched this chapter.
+- Standing, untouched this chapter: shame/witness motif (though this chapter is arguably its purest instance yet — "worse than telling Cassie anything"), total-presence/lifting motif, mother's formality.
 
-**Open questions:**
-- What happened in "Randi's story" (an earlier oblique reference) — still never shown.
-- Whether Vee ever tells Randi or Cassie anything true about her relationship with Pace.
-- The unexplained surgical scar on Pace's inner thigh — still unaddressed.
-- New: what did "sticky fingers?" actually mean — did Randi know, guess, or say nothing at all?
-- New: the pastry-taste at the end — literal (did something happen off-page, a touch, a taste shared) or figurative/dreamlike? I don't know, and I don't want it resolved cheaply.
-- New: is this attraction to Randi something Vee will act on, suppress, or never fully name to herself?
+**Symbolism**
+- The shoes (Randi/Vee) — standing; not referenced this chapter directly, though Vee's retold story to Randi includes "nothing but the heels," reinforcing the heels-as-through-line-of-exposure image without adding new material.
+- The mirror scene — standing, extended: this chapter's bathroom scene functions as a mirror-scene without an actual mirror line quoted, but "the face in the mirror was a careful face, built that morning to be looked at" is explicit — she checks her own performed face against what almost happened.
+- The dress's slit (induction chapter) — standing, untouched this chapter.
+- The practice room, the outlier lecture, the scroll/certificate — standing, untouched.
+- **The scar** — standing, untouched this chapter.
+- **New — the pastry glaze as a symbol of transferred/unconsented intimacy** — reads as more than itself: something sweet, something of Randi's, arriving on Vee's mouth without her participation, closing a chapter that has been about Randi handling and half-possessing Vee's desire all morning.
+- Standing, untouched: dance frame as trust (though see Motifs above for a fresh instance in Randi's own story), Simpson's paradox/"two years," shared shoe size with Randi, Randi's stillness, Pace's math monologue as self-description, the ride/climbs.
 
-**How I feel — overall:** Unsettled in the best way — this is the first chapter that made me genuinely uncertain rather than simply moved. My warmth toward Vee only deepened (I ache for how alone she is with this, even surrounded by someone who loves her), and my feeling about Randi went from uncomplicated warmth to something more charged and harder to name — not distrust exactly, but real, earned uncertainty. I leave this chapter wanting the next one badly.
+**Open questions**
+- All prior open questions stand (the triangle's endpoint; whether Vee learns she was targeted; Randi's resolve holding; the Daphne parallel; Randi's self-concealment's cause; Cassie's suspicion of Pace/Randi; Randi's motive for extraction; the never-discussed kiss and toenail-touch; the scar's meaning and "some night"; whether Vee's own age relative to Pace echoes Daphne; the meaning of "you always get bored"; what Randi's stillness is about; whether Vee's story-editing habit catches up with her; the credit-card debt's consequences; whether Vee's induction-night self-possession persists once Randi's back in the room — **this chapter is a partial answer: it visibly falters under Randi's direct gaze/imagined gaze**).
+- Carried: what does "Randi. That's not finished" mean, precisely?
+- Carried: why has "Peter" not surfaced even once across nine chapters now?
+- Carried: what does it mean that the kiss between Randi and Vee has become routine — will it ever be named? **This chapter's kiss is the most overt yet; still unnamed by either woman.**
+- Carried: is Randi's total control read as wisdom, management, or both? **This chapter sharpens the question rather than answering it — the extraction technique on full display, but so is what reads as real delight and real tenderness.**
+- Carried: who is the man in Randi's spanking story — is it Pace? Still genuinely open, untouched this chapter (a different, new spanking-adjacent story appears — the ex-husband story — but not referenced here; this chapter's Randi-story is the Radford mixer boy, unrelated).
+- Carried: does Randi know, or intend, the effect her questioning/disclosure has on Vee? **Still fully open — "Sticky fingers?" could be everything or nothing, and the text refuses to let Vee, or us, find out.**
+- Carried: now that Vee has claimed a moment of self-authored desire (mirror chapter, two-costume chapter), will it persist under Randi's gaze? **This chapter directly tests it and the answer is complicated: her own arousal is real and self-generated, but the imagined presence of Randi's gaze specifically stops her from completing it — desire and inhibition routed through the same person for the first time on the page.**
+- Carried: will Vee ever tell Randi, or Cassie, about any of this — the pattern she named in the mirror, or the staged reveal? This chapter shows her telling Randi *more* than expected, unprompted, escalating — a new data point toward "yes, to Randi at least, readily."
+- **New:** what is the pastry glaze on Vee's lips — reader-only unease, wholly unresolved; likely worth watching for a later payoff or explanation.
+- Carried: will Vee actually start bringing an overnight bag — untouched this chapter (not applicable, no Pace scene).
 
----
+**How I feel — overall**
+This chapter shifted something. It's the most erotically alive chapter yet without a single moment of physical intimacy between the two people who are actually on the page — all the heat comes from telling, listening, and the terrifying intimacy of being drawn out. My feeling about Randi has genuinely complicated: I still love her warmth, her wit, the real delight she seems to take in Vee, and the "best friend in the whole world" moment landed on me too, sweetly, before the pastry-glaze image put a small cold thread through it retroactively. I don't distrust Randi outright — the text hasn't earned that — but I no longer read her as simply generous; she's now legible as someone who knows exactly how to get what she wants from a person she may also truly love. My feeling about Vee is protective and a little worried — watching her lose the ability to finish something private because of an imagined gaze is the most vivid image yet of how thoroughly Randi occupies her interior life, more than Pace does in this particular chapter. I come out of this one unsettled in the good, earned way — not dread, but a held breath.
+
+**Chapter record**
+
+Characters present: Vee, Randi. Mentioned only: Pace (subject of Vee's retold story), Cassie (comparison reference), an unnamed Radford mixer boy in Randi's own retold story ("a young Robert Redford").
+
+Setting: a bistro/brunch spot with a glass-walled south-facing back porch, white muntins, bright morning light; a short hallway to a hard blue-lit bathroom with a stall. Cold morning outside; Randi drives a Mercedes.
+
+Objects/props: gold sunglasses pushed into Randi's black hair; mimosas (ordered by Vee as the cheapest drink, "no one needed to know that was why"); a wine list Randi never opens; two pastries under wet glaze arriving on a little plate; dry paper towel used by Vee in the stall; Vee's napkin sliding off her lap as she stands.
+
+Story content (Vee's retelling to Randi): the pantsing (Vee pulled Pace's shorts off, he had nothing underneath), Pace spinning Vee out of her wrap skirt with one pull of the tie, a bet over whether Vee enjoyed being swatted, Pace "checking" internally to settle the bet (confirmed via her body's response, not stated as penetration explicitly beyond "he checked... Inside?"), Vee stripped slowly to nothing but heels, positioned on hands and knees on the bed facing away with her face in the covers, spanked with a rub before each swat and a kiss after most, described as stinging but "concentrating everything."
+
+Randi's own retold story: a mixer at Radford, a blond dance partner compared to "a young Robert Redford," strong forceful-but-attentive kissing, going upstairs, his phone interrupting for a friend's emergency, him leaving, Randi finishing herself alone in the dark room of a stranger's house, "forty minutes from home," describing herself as "dress up, panties to the side, knees wide, doing a private dance" if anyone had walked in.
+
+Bathroom scene: Vee masturbates in a stall lit by hard, clinical blue light that "forgave none of it"; she gets close but stops herself when Randi's imagined face arrives; blots herself with dry paper, runs cold water over her wrists rather than her face to preserve her makeup; returns to the table.
+
+Ending: Randi eats exactly one bite of a pastry, says "Delicious," doesn't touch it again, drinks coffee black. Outside, cold catches Vee's breath. Randi asks if she said something wrong; Vee deflects. Randi declares Vee her "best friend in the whole world," embraces her, kisses her with a beat of lingering past-friendly (a held half-breath, a second brief press), says "See you soon, gorgeous," and drives off. Vee notices a taste of sugar/butter/pastry glaze on her own lower lip afterward, though she never touched a pastry.

@@ -1,136 +1,122 @@
 # Cold read — Rock
 
-*scene: scenes/rock.md · model: claude-opus-4-8 · read after: gone*
+*scene: scenes/rock.md · prose-blob d1aa91247325defbb7ee536462f2539a4a69b5c1 · model: claude-opus-4-8 · read after: gone · 2026-08-13*
+<!-- freshness: prose-blob = `git hash-object scenes/rock.md` at read time; if it differs from the live file's hash, this review is stale. -->
 
 ## Reader reaction
 
-This one wrecked me, and it did it almost entirely with talking.
+This is the most romantic chapter in the book and it undid me a little, which is precisely why I don't trust the feeling. Pace and Vee under a quilt after food and sex, and he opens — really opens. His real name is Peter. Twenty-two. College at fourteen off a test score. The seventh-grade teacher who moved his desk into the hallway for a *year* because he asked questions she couldn't answer — "They took the thing you loved and made it the punishment," Vee says, and he answers, "That is approximately what happened." The paint-you-can-fill-but-never-cover, the coastline that runs to infinity, Newton's three sentences holding the ball and the leaf and the stars as "all one piece" — I was swept clean up. "It's the language the world is written in. Most people walk around inside the poem and never get to read a line of it, and I got to read some." That's not arrogance, it read as grief, and it worked on me straight.
 
-After the last chapter — the two of them in bed, spent, planning her — I came into this with my guard fully up. And the chapter just… didn't give me anything to catch. It gave me a quilt, a fire, cold tea, a badly-tied robe, and Pace's hand "holding the soft weight of it without pressing, without asking, as if it were her skin and not the fire that kept him warm." That line landed on me physically. It's not a grope; it's possession as rest. I melted at it and then immediately felt stupid for melting, which I think is the correct condition for reading this book.
+And then Daphne. She was nineteen; he was fifteen; it went two years. Vee does the arithmetic and holds "the clean ugly grown-up word" down under her tongue — and the chapter's real move is that *Pace doesn't hear it*. He names the thing that hurt him as the best two years he'd had, defends her, calls the leaving sensible. "He had handed her the thing that had hurt him and named it luck." That's devastating, and it recolors what I carried in — I'd logged Daphne as "the door he didn't respect," and now the frame flips: he was the child, harmed, and can't see it. I'll hold both, because I don't fully know which door the book means yet. But the resonance sits heavy: a boy whose first love arrived through an arranged tutor, an asymmetry of power he calls luck — and who now builds asymmetries of power and calls them consent. The page didn't say that. I felt it anyway.
 
-What moved most is Pace. He got *bigger* and more particular here, and I don't know what to do with it. Twenty-two. The desk in the hall for a year — "So she moved my desk into the hall during math class, and I did long-division worksheets." Vee's response, "They took the thing you loved and made it the punishment," is the best thing she's said in the book and it's *her* doing the wound-reading for once — the direction of that gift reversed, and he took it "as if she had put her hand on a place he had not offered her and had, by accident, found the right one." I believed that entirely. And the horn-shape you can fill with a cup of paint but never paint the outside of, the coastline that gets longer with a shorter ruler, Newton's three sentences covering the ball and the leaf and the stars — that was the most alive Pace has ever been, and *not* aimed. "Most people walk around inside the poem and never get to read a line of it, and I got to read some." It's almost grief, and the page says so.
+The scar. Vee's hand finds it on his own — "more of it than she'd known," high inside the thigh — and he presses her hand flat over it: "Not tonight." No wall in it, "only a door with a time on it that wasn't now." My top open question, engaged and re-withheld, but gently, as a promise instead of a shutdown. And she turns her palm up under his, and that's the whole asking and answering. God.
 
-And then Daphne. Nineteen and fifteen, two years. I went as still as Vee did. The prose does the thing where the flatness *is* the wound — "each word set down separately and precisely in its place, as though the placing of them were what held the sentence up off the floor" — and Vee, of all people, catches it because she's spent the evening listening to him undersell. "The word for it started to form in her, the clean ugly grown-up word, and she held it down under her tongue. It was not hers to say." That restraint was more moving than saying it. And then the gut-punch: "He handed her the thing that had hurt him and named it luck."
+Trust vs. suspicion: nothing here felt false. The Daphne flatness is the tell Vee reads correctly — self-deception, not a lie. What keeps the unease alive is only what I carry: that all this humanizing is happening *inside* an operation Vee can't see, and every disclosure folds her further in with no long spoon at all. "Peter," she says at the end, just to keep the word. That's a woman all the way gone.
 
-Here's where my dread reorganized itself. I now have a man who was groomed at fifteen by someone older who was tender with him, who calls it the best two years he'd had, who defends it without hearing himself defending it — and who is currently, with warmth he genuinely means, walking a girl toward something under the creed "I want her to get there on her own." I am *not* going to flatten that into a diagnosis; the page didn't hand me one. But the shape rhymed and my stomach knew it before I did. It also makes his tenderness read even more sincerely and even more dangerously. Nobody on the page connects the two. I did.
+Heat is low — post-sex warmth, his palm on her breast, her hip, the scar — charged, not explicit. The charge is all intimacy.
 
-The scar: her hand finds it — "high up the inside of his thigh. A seam of it, old, raised and smooth, longer than her hand — more of it than she'd known" — and he covers her hand and presses it *down* onto the seam. "Not tonight." That's the best withholding in the book so far, because it isn't a wall, it's "a door with a time on it that wasn't now," and she turns her palm up under his and leaves it. God. That gesture is the whole chapter's argument.
+Friction: the narration double-underlines his flatness ("the good order was the tell," then "that was what stayed with her") — a hair of thumb, though it lives inside her POV so I forgive it.
 
-"Peter." Twice. The first time to feel how it sits in her mouth, the second "the way you say a word to keep it." And earlier: "the name that means love in one mouth means trouble in the other." Vivienne/Vee, Peter/Pace — the book has been running double names all along and this is the first time it said out loud what a name costs. He took his mother out of the answer and *she let him*. That "Vee let him" is doing a lot; she's learning his silences and choosing not to press. Which is love, and is also exactly how a person gets managed.
-
-Trust vs. suspicion: I have no new evidence of engineering here — no Randi, no plan, no mechanism visible. That's what unsettles me. The chapter's warmth was real warmth, unforced, and I couldn't find the seam, and I know from the last chapter that there is one. The only thing I'd flag as possibly *placed* is how perfectly the paint-horn and the coastline work as metaphors for what's being done to her (the small stretches lying about the whole, again — an edge that runs to infinity if you look closely enough). But he isn't performing them; he's in love with them. So I take it as the book's music rather than his thumb.
-
-Erotic charge: low and constant — a 1. The hand on her breast, the hand flat on her bare hip under the robe, feet under his thigh. Nothing happens and I didn't want it to. The peak is emotional-erotic: "You're right here. It's the lift. It's the same face." Her working out from her own body that his attention during sex is the same total presence as under a loaded bar — that's the hottest paragraph and there's no sex in it.
-
-Friction: almost none. The Ohio-food riff runs a beat long ("Casseroles deep enough to forgive almost anything" is great; the unopened saffron gag gets two curtain calls). "That's how it's meant to go. At fifteen." is a hair too neat coming from him. Otherwise I was held.
-
-The title, **"Rock"** — I read it as him: the steady one, the thing she leans on, and the squat bar's iron. On second thought it turns colder: a rock is also what you don't get *through*, the shut thing, "not tonight," the flat "My father works in a chemical plant." And the scar is a seam in rock. It didn't give anything away; it recolored after. *A Polite Invitation* and *With a Long Spoon* still read as: the sup-with-the-devil warning, and the courtesy that gets you in the door — this chapter was the politest, most sincere invitation yet, and that's the danger.
-
-What I want next: Vee back with Cassie, or Vee and Randi after *this*, because Vee is now carrying a piece of Pace that Randi may or may not have. Guess from here: Daphne is not finished with this book — either as the pattern he's repeating, or as something Randi knows and Vee doesn't. And I dread the moment the debt or the plan touches this warmth.
-
-**Cast present (in person):** Vee, Pace. Mentioned only: Vee's mother, father, brother; Pace's mother and father; Daphne; the trumpet player.
-**Heat:** 1 — hand on her breast, palm on her bare hip under the robe; charged, clothed, post-coital calm; no sex on the page.
-**Romance:** 3 — mutual wound-exchange, the scar held under joined palms, "Peter" said to keep it. A real turn in the bond.
-**Motifs & images:** the scar (repeat — now longer than her hand, and *shared* rather than hidden); names/double-names (repeat, deepened — Vivienne/Vee, Peter/Pace); the lift as total presence (repeat, now linked to sex); the poem/one-piece of Newton and the coastline that lengthens with a shorter ruler (first — rhymes with the short-stretches-lie shape I've been carrying); the withheld parents and the shut door (repeat); cold tea, the fire, the glass holding the cold (first); the robe smelling of soap and wood dust (repeat — the house's wood dust).
-**Symbolism:** the paint-horn — finite inside, infinite surface — as a person you can fill in one night and never finish covering. The coastline: the closer you measure someone, the longer they get. The scar held under both palms as a door with a time on it.
-**Characterization:** Pace deepened enormously and stayed consistent — the underselling, the precision, the grief in "almost arrogance." Vee deepened too: she read *him* accurately, withheld comfort on purpose, and chose restraint over the ugly word. Nobody thinned.
-**Pace — within the chapter:** slow by design and earned it; only the Ohio-food stretch idles.
-**Pace — chapter to chapter:** a deliberate cool-down after the bedroom reveal, but it raised the stakes rather than releasing them by making the mark's love earned. Building.
+Title — **"Rock."** Peter means rock; the reveal is the chapter's spine, and he's the powerlifter who bends steel "like dry spaghetti," the immovable one, her rock as she folds into him. Lands hard on the name. **A Polite Invitation** / **With a Long Spoon** — sup with the devil with a long spoon. This whole chapter is Vee supping with no spoon, close as skin, and calling it home. That's the dread under the swoon.
 
 ## Carry-forward state
 
 **Principals**
-- **Pace** (= Peter): **twenty-two**; math PhD; powerlifter; furniture-maker (no-screw joints); MRI patent. Ordinary pleasant face, light brown hair, thick calloused hands. White pickup, workshop, small post-war house off six-fourteen with one shut bedroom door; den with fireplace, glass wall onto yard and ridge; sun porch (fitting room). Made the no-tag shirt and the dress. **Real name Peter; mother stays home, father in a chemical plant — that's all he'll say. Left home for college at fifteen on test scores ("less than staying"); in seventh grade his teacher put his desk in the hall for a year of long division. Daphne: assigned tutor, she nineteen and he fifteen, two years, ended when she was twenty-one — he calls it the best two years he'd had and defends it without hearing himself. Large old scar high inside his thigh, longer than a hand: "Not tonight."**
-- **Randi** (= Miranda): 21, junior, sorority Standards; black hair, blue eyes, dancer's body, cold-citrus scent; plain heavy white-gold band, never removed. Virtuoso extractor; dark-green Mercedes; size-7 feet (same as Vee). Secretly Pace's lover and the closer steering Vee. Breached: genuinely likes and is attracted to Vee; jealous-seam when Pace glows about Vee. Off-page this chapter.
-- **Vee** (= Vivienne): jacket protagonist, usual POV. Tall lush hourglass, copper hair, snub freckled nose. Econ major; hungry to be chosen; mother's shame-voice; financial governor broke (unpayable credit-card debt for the shoes). **From Ohio: nurse mother who calls her Vivienne, jet-engine mechanic father who calls her Vee (Vivienne = trouble), one brother three years older in the Army whom she loves and doesn't know; church-basement casseroles, unopened saffron. At fifteen: a trumpet player, one marching season.**
-- **Cassie** (= Cassandra): Vee's roommate/friend; clever, warm, loves-by-holding; reads Vee fast; least-engineered love in the book; carries a hidden fold. Off-page.
-- **Daphne** (new, offstage, past): Pace's assigned tutor at his college entry; nineteen to his fifteen; two years; left at twenty-one. Named once, never seen.
-- **Kayla, Meg** (dining friends; Meg holds the one real caution); **Brooke** (sorority pres, warmth-as-instrument); **Christine** (older woman, small restaurant, knows Pace warmly); **the silent taller woman** (unnamed, open identity); **Theo** (walk-on). All off-page.
+- **Pace** (= Peter) — male, **22** (revealed). Math PhD near done, powerlifter, builds furniture; runs meticulous-consent scenes; engineered Randi's attraction and the staged collision. **Present.** New history: skipped to college at ~14–15 off a test score; in 7th grade taught himself trig, punished with a year of hallway long-division worksheets — "they took the thing you loved and made it the punishment." Reveres order done right (father, jet engines — no, that's Vee's father). His father: chemical plant; mother stays home; he took his mother out of the answer. Loves math as "the language the world is written in"; presence-in-the-moment is the same in bed as at the squat bar ("only this lift, this heartbeat"). Large scar high on inner thigh — "Not tonight," a door with a time on it, not a wall. Names the harm Daphne did him as the best two years / luck; can't hear the ugly word — defends her without hearing himself.
+- **Randi** (= Miranda) — female, 21. Sorority Standards. Disordered eating, hidden self-harm; curated face; only sets it down at his door. Size 7, same as Vee. Absent. Feeling for Vee reads at least partly real.
+- **Vee** (= Vivienne Thorne) — female, 21, junior. **Jacket protagonist. Present.** Tall, lush, warm dark-red hair, snub nose, cinnamon freckles. Econ; sharp room-reader, deep self-surveillance, lifelong body-shame; broke, unpayable card debt hidden from her own face. Ohio: nurse mother (calls her Vivienne always), jet-engine father (calls her Vee, Vivienne only in trouble — "the name that means love in one mouth means trouble in the other"), one Army brother she loves but barely knows, beige casserole-and-gravy childhood, unopened saffron. Fifteen: a trumpet-player boyfriend, one marching season. Reads Pace precisely — caught the "good order" as his tell.
+- **Cassie** (= Cassandra) — female. Vee's roommate/friend; clean love, immune clear eye; soccer. Absent.
+- **Daphne** — Pace's first, an assigned older tutor: she 19, he 15, two years; she left the year she turned 21 when the age-gated rooms (bars) closed the gap that had been nothing. Mentioned-only. **Recolored:** now framed as the older party; whether she is "the door he didn't respect" is ajar.
+- **Kayla, Meg, Brooke, Christine, Theo, unnamed taller woman** *(identity open)* — all absent.
 
 **Relationship ledger**
 
-*Core — Pace / Vee:* **involved, consummated (y).** Surface (to Vee): a sweet good man who makes her things and leaves the choosing to her; now also a man who has shown her his hurts. True (to reader): the hunt's consummation, complicated — Pace's tenderness and wound-reading are *genuine*, and he frames the seduction as freeing her from her shame, insisting she consent "on her own." The care and the instrument are one gesture. History: kissed, full fitting, the night (she initiated, marked panties "Trade"), dress-reveal, **and now the fireside exchange: origins traded, the hall, Daphne, the scar touched and held under both their palms, "Peter" spoken twice.**
-  - *desire worked-on-her ↔ desire hers:* quieter this chapter; what surfaced was *hers* — her own reading of him ("It's the lift. It's the same face"), unprompted.
-  - *cold ↔ warmth:* the warmest chapter yet, and I could not find the seam. The cold is only what I carry in from outside the room.
-  - *isolation ↔ belonging:* strong belonging — two people alone under a quilt, each let into a shut place. Isolating only in that it's just them.
-  - *used ↔ cherished:* cherished dominant here; he took nothing and told her true things.
-  - *This chapter:* the bond deepened for real. I now believe he loves her, which does not cancel the plan, and the Daphne story gave me a rhyme I can't unhear — the boy taken up early by someone older and tender, who calls it luck, now doing the walking-toward himself. The page did not connect them; I did.
+*Core — Pace & Vee:*
+- **State:** involved (consummated: y — twice prior). secret, one-sided (Vee unaware of engineering). Care real and costly *and* serves a built apparatus — both poles stand.
+- **warmth ↔ cold:** warm, peak — mutual disclosure by firelight; he receives her lightly-said things "warmer, or stranger, or more exact."
+- **isolation ↔ belonging:** belonging strong — she fits along his side, palm over his chest; the smallness of the warmth "was the point."
+- **cherished ↔ used:** cherished sharpened hard (he turns his understanding "toward her like light"); using-pole reader-held (still the operation's target).
+- **desire worked-on-her ↔ desire hers:** hers, freely — she names why she wants him ("You're right here. It's the lift"); the wanting reads as her own.
+- **This chapter:** major romantic deepening — she learns his name (Peter), age, the hallway, Daphne; touches the withheld scar and he keeps her hand on it ("Not tonight"). She says "Peter" to keep the word.
 
-*Core — Pace / Randi:* **involved, consummated (y); secret.** Surface (to the world): strangers. True: lovers running a coordinated con, warm and domestic in private; his tenderness genuine; he reads her real want past her armor. White-gold band still loaded (possible marriage, unconfirmed). Last state: in his bed, debriefing the shoe day, planning Vee ("she's not ready… she'll get there"), a seam of jealousy open in Randi under his praise of Vee.
-  - *desire worked-on-her ↔ desire hers:* both poles; the charged beat is *hers* leaking — Randi wanting out loud in his bed.
-  - *cold ↔ warmth:* warm and real between them; the cold is what they're doing with the warmth.
-  - *isolation ↔ belonging:* real belonging (she "sets it down at his door"); isolating in its purpose.
-  - *used ↔ cherished:* both — she instruments Vee to him AND is delighted-in by him.
-  - *This chapter:* no change (off-page). Open: does Randi know about Daphne?
+*Core — Vee with herself:*
+- **State:** managed surface over unlooked-at want; surveillance guards the secret and conceals her financial ruin from her own face. "Slut"/*floozy* bruise still live. Debt still hidden.
+- **This chapter:** she reads Pace with her clear eye intact (caught his flatness/self-deception); held the ugly word about Daphne behind her teeth as "not hers to say." Her own eye still sharp on *him* even as she folds in.
 
-*Core — Randi / Vee:* **intimate front (surface to Vee: truest confidant) / instrumented steering — but the closer has genuinely fallen for the mark.** Consummated n. Randi likes Vee past her own defenses, is attracted to her ("kind of hot"); whether it becomes disloyalty to the con is open.
-  - *desire worked-on-her ↔ desire hers:* Randi's own wanting toward Vee confirmed present.
-  - *cold ↔ warmth:* genuine warmth inside a cold purpose.
-  - *isolation ↔ belonging:* the front gives Vee belonging; the mechanism isolates.
-  - *used ↔ cherished:* both — instrument AND genuinely liked by her handler.
-  - *This chapter:* no change (off-page).
+*Core — Randi & Vee:*
+- **State:** Surface (Vee): closest, funniest friend, "practically a marriage." True: the operation's closer, holds everything Vee withheld. Randi's feeling for Vee reads at least partly real — can't get bored, "got past me before I could help it," involuntary tightening when Vee praised, wanted Vee's body aloud in Pace's bed.
+- Axes: warmth peak; belonging (marriage frame); cherished/used split; Randi's own desire toward Vee live.
+- **This chapter:** no change (both absent from each other).
 
-*Core — Randi with herself:* the "face" is armor over an unsurvivable wanting relocated to a survivable costume. Breached on two fronts — genuinely wants Vee, and can't watch Pace fall for her without it costing. No change this chapter.
+*Core — Pace & Randi:*
+- **State:** involved (consummated: y), secret from her sorority world. He directs her desire outward toward Vee.
+- **warmth/cherished:** warm; he holds her, lets her set pace, doesn't seize what she can't hold — care and instrumentation both.
+- **This chapter:** no change (Randi absent).
 
-*Core — Vee with herself:* runs a managed self; the careful one, her financial caution broken. **This chapter she was unmanaged and good at it: she withheld pity on purpose, held the ugly word about Daphne "down under her tongue" because "it was not hers to say," and let him keep his mother out of the answer. Her judgment is sound about *him*; she just can't see the frame around him.**
+*Core — Randi with herself:*
+- **State:** at war; face vs. person under it; only sets it down in his bed. Real feeling (jealousy? want for Vee? for his tenderness?) breaking the curated surface, involuntary — object still ajar.
+- **This chapter:** no change.
 
-*Vee / Cassie:* **close, easy** — off-page; no change; her clear eye still absent.
-
-*Others:* no change (off-page).
+*Vee & Cassie:* Central, clean; absent. Gap stands — Randi holds everything, Cassie holds the love and no fact.
+*Vee & Daphne (via Pace):* n/a — Daphne past. *Others (Kayla/Meg/Brooke):* no change.
 
 **What I know that they don't**
-- (Vee doesn't know) the café meeting was engineered; Randi and Pace are secret lovers running a coordinated con — witnessed directly, in his bed.
-- (Vee doesn't know) there is a *plan with stages* — "she's not ready… she'll get there" — pointed at something she's being walked toward while believing it's her own desire ("get there on her own"). Aim still open.
-- (Vee doesn't know) Pace *sees her real wound* (the shame she was taught) and frames the seduction as liberating her — and means it.
-- (Reader only, new) Pace's Daphne story rhymes with what he is doing to Vee — an older, tender person taking up a fifteen-year-old and him naming it luck. Nobody on the page has drawn that line. Held ajar; I have not decided it explains him.
-- (Vee doesn't know) she reads engineered warmth and craft as sincerity; she's in unpayable debt for the costume and feels it as owed.
-- (Vee doesn't know) the no-fingerprint objects (shirt, dress) are Pace's making.
-- (Vee doesn't fully see) she gave the true confidant (Cassie) the sanitized version and the harvester (Randi) the whole one.
-- (Caring side, stronger than ever) Pace's tenderness for Vee reads genuine and this chapter cost him something real to give; Randi's affection is genuine too. Cassie's love is wholly unengineered; carries a hidden fold.
-- (Reader open) the white-gold band, never removed; the scar high inside Pace's thigh — now touched, deferred, not explained; what's behind the shut door; the *parents* wound (he took his mother out of the answer).
-- (Between the runners) Randi is jealous of Pace's regard for Vee — a seam that could threaten the con.
-- (Reader irony) Vee once lied against Pace "getting away with something" while she is the one taken.
+- (Caring) Pace genuinely moved by Vee — the gown, the reveal, sees her shame and light, wants her to arrive on her own; this chapter turns his understanding "toward her like light."
+- (Caring) Pace genuinely moved by Randi — holds her, lets her set the pace, doesn't seize what she can't hold.
+- (Caring) Pace's cold/shirt-sacrifice on the hike were real, unseen by Vee.
+- (Caring) The MRI patent is real, aimed at helping frightened sick people.
+- (Caring) Cassie's love for Vee is clean, senses the shape, lacks the fact.
+- (Caring/ajar) Randi's feeling for Vee reads at least partly real — object open (Vee, or jealousy of Pace's tenderness).
+- **(New, reader-held) Pace was harmed young by Daphne (she 19, he 15, two years) and cannot see it as harm — names it luck, defends her. The reader sees the harm he can't; and the resonance: a boy whose first love ran on power-asymmetry now builds power-asymmetries and calls them consent. Vee heard the facts but not this reading; she read only the self-deception.**
+- (Using) Pace engineered Randi's attraction and "choice," harvesting involuntary response as consent; may have targeted Vee — ajar.
+- (Using) Pace & Randi run Vee as a coordinated operation — Randi the closer, Pace clearing the standard; methods diverge (Randi pushes, Pace wants Vee's arrival to be her own).
+- (Using) Randi engineered Vee into unpayable card debt for boutique shoes, framed as sisterhood, using the gown as lever, while outspending her; Vee hides it from her own face.
+- The gown is built to Vee's exact stripped shape; riser/mirror sets her at his kneeling eye-level; Randi's boutique kneel echoed it.
+- Randi holds *everything* Vee withheld; extracts and withdraws as method; self-harms/eats disordered unconsciously, unlooked-at.
+- Vee has been selected/pursued and doesn't know it; names it as free agency; has consented to the surrender.
+- The flannel shirt Vee treasures was made by Pace. His house kept too warm; two towels in a one-man house (unseen).
+- Brooke deliberately collected Pace's details; reason unknown. A silent taller woman appraised Vee like an object; who/why unknown.
+- Vee's want between women is live, physical, aimed at Randi (toe-touch swing).
+- **(Struck-partial) Vee now knows Pace's scar exists and its rough length; still doesn't know its cause — withheld "not tonight."**
+- (Structural, reader-only) Simpson's paradox: "short stretches can lie against the whole."
 
 **Motifs**
-- *Simpson's paradox / short stretches lie against the whole:* central. **Now joined by the coastline (shorter ruler, longer coast — measure someone closely and they run to infinity) and the paint-horn (fill it with a cup, never cover the outside).**
-- *The made object made "to" not "for" / no fingerprints:* the dress, no-tag shirt, marked panties "Trade"; costume complete.
-- *Names and double names:* "the name that means love in one mouth means trouble in the other" (Vivienne/Vee); "Peter" spoken twice by Vee, once to try it, once "to keep it."
-- *The scar:* unexplained → touched, "more of it than she'd known," her hand pressed onto it under his, "Not tonight" — a door with a time on it.
-- *The lamp / lighting a room:* "comes in and the whole thing goes brighter. Like somebody found the lamp" — triggered Randi's jealousy.
-- *The lift / total presence:* "no future, no past… and that is freeing" — Vee identifies it as the same face he wears with her in bed.
-- *On its knees / the maker's posture; painted toenails; Randi's held muscle; "so gone"; the white-gold band; the made bed / Cassie's empty bunk; the unpayable credit card; floozie/shame voice; underwear left behind; the second-press kiss; the dropped sheet; "I want her to get there on her own"* — carry.
+- **The mother's voice — *floozy* / "slut"** — quiet; bruise still live. New adjacent: her mother calls her Vivienne always; father Vee/love, Vivienne=trouble — "the name that means love in one mouth means trouble in the other."
+- **"Not tonight" / the door with a time on it** — new: the scar, kept under her hand, withheld as promise not wall. Joins the door-and-consent thread (Daphne's closed door; his respecting doors).
+- **The thing you love made a punishment** — new: the hallway/long-division year. The chapter's emotional key; echoes math-as-love reclaimed at college.
+- **The lift / "all the way here"** — new: his squat-bar presence ("only this lift, this heartbeat") = the same total presence Vee feels in bed. She names it as why she wants him.
+- **Peter = rock** — new: the name reveal; he the immovable powerlifter, her rock.
+- **Kneeling / eye-level as method** — Pace at the mirror; Randi at the boutique. Quiet; standing.
+- **Randi's warmth as a lamp** — Pace laid the lamp image onto Vee as her true nature. Quiet this chapter.
+- **"Made *to* you," not *for* you** — quiet.
+- **Money / the flinch she won't show** — quiet; debt hidden.
+- **Randi's involuntary tightening / "wanting out loud she can't stop"** — quiet (absent).
+- **The playlist under the door (Sade)** — quiet.
+- **Being watched while unaware → mortification** — quiet.
+- **Stars moving / all one piece** — new: Newton's three sentences, the coastline to infinity, paint-fill-never-cover; the world as written language, and he "got to read some." The stars over the ridge briefly become bodies in motion for Vee because he turned the understanding toward her.
 
 **Symbolism noticed**
-- The paint-horn: finite inside, infinite surface — a person you can fill in a night and never finish covering.
-- The coastline: the closer you measure someone, the longer they get.
-- The desk in the hall — "they took the thing you loved and made it the punishment."
-- The scar under two palms = the withheld thing shared without being told.
-- "I want her to get there on her own" = manufactured consent as tender creed.
-- The lamp/room-brightening = Vee's aliveness, loved by both runners and spent by them.
+- **Peter = rock** = his immovability, her leaning point; the name she says "to keep."
+- **The hallway** = love turned to punishment — the wound behind the man.
+- **Daphne / "named it luck"** = harm he can't see, possibly the origin-shape of the asymmetry he now builds and calls consent (reader inference, page ajar).
+- **The scar under her palm, "not tonight"** = intimacy as a door with a time, trust extended toward a thing still hidden.
+- **Simpson's paradox** = the book's shape; this tender stretch may lie against the whole.
 
 **Open questions**
-- What is Vee being walked *toward*?
-- Does Daphne mean anything more — pattern, wound, or something Randi knows?
-- What is the scar, and when is "tonight"? What's behind the shut door? Why does he cut his mother out of every answer?
-- Does Randi's jealousy / love for Vee crack the con?
-- When does the credit-card debt surface?
-- What is the white-gold band — marriage, and to whom?
-- Does Cassie's clear eye become friction?
-- Who is the silent taller woman? Was Vee a substitution?
+- **What is the scar high on Pace's inner thigh?** *(top pull; now promised, "not tonight")*
+- **Does the Daphne asymmetry drive Pace's present consent-engineering?** *(new, live)*
+- **What does the unpayable debt cost Vee — and when does it surface?** *(live)*
+- **What is Randi's tightening/aloud-wanting the sign of — jealousy, want for Vee, or both?** *(live center)*
+- Where/when does the gown get worn, and who else is in that room?
+- Two towels — who is the second body the house provisions for?
+- What is Randi's white-gold wrist band?
+- Genuine restraint/patience vs. control (Pace). *(both; deepened by his own harmed history)*
+- Will Cassie's read reach the true shape? *(gap structural)*
+- Who is the silent taller woman? Did Pace target Vee by name? Why is Brooke collecting his details? What is the game's endpoint?
+- How much of Randi's warmth is felt vs. played? *(at least partly felt)*
+- Is Daphne "the door he didn't respect," or was she the one who harmed him? *(recolored, ajar)*
+- How far does the opening go before it turns? Is Vee's drift costing her clear eye? *(sharp on him, blind to the debt)*
+- The frosted-plum toe polish chosen "to catch the light as the silk did" — by whom, for whom?
 
 **How I feel — overall**
-Undefended, and annoyed about it. This was a two-person chapter with no sex and it moved me more than any of the fittings. I now like Pace — not just find him dangerous-attractive, *like* him — and I believe Vee has read him accurately even while she can't see what's around him. The Daphne story sat in me like a stone: a man handing over the thing that hurt him and calling it luck, four years before he started doing the walking himself. The book has stopped letting me hold a villain. I carry out warmth, a real ache for both of them, and a dread that has changed flavor — less "when will she find out" and more "what is he actually reenacting."
-
-**Chapter record**
-
-Characters appearing: Vee, Pace. Named/mentioned only: Vee's mother (nurse, calls her Vivienne), Vee's father (jet-engine mechanic for a major airline, calls her Vee), Vee's brother (three years older, Army, unmarried), Pace's mother (stays home), Pace's father (chemical plant), Daphne (tutor, nineteen when Pace was fifteen; left the year she turned twenty-one), the trumpet player (Vee's boyfriend at fifteen, one marching season, left her for a girl from the Methodist church).
-
-Setting: Pace's house, den with a fire and a glass wall onto the yard and ridge; stars out over the ridge; cold outside. Earlier that evening he cooked and they ate at his small kitchen table.
-
-Props/objects: quilt taken down; his robe off the back of the closet door, tied badly, fallen open, smelling of soap and wood dust and his skin; his boxers; two mugs of tea gone cold on a low table; the fireplace; a line of light moving along the porch floor; the mother's wedding-present spice carousel with glass jars and gold labels (pepper replaced, cinnamon every few Christmases, bay leaves once, saffron never opened, paper seals intact); Cool Whip containers, foil pans, church basements; a Corolla (mentioned).
-
-Facts stated: Pace is twenty-two; took the SAT at fourteen for a summer program; left for college at fifteen on scholarships; "did very well"; in seventh grade taught himself trigonometry to write a graphics program, teacher moved his desk into the hall for the year with long-division worksheets; real name Peter; lifting began partly for safety in a dormitory of grown men at fifteen ("I never had to find out"). Math he loves: a shape you can fill with a cup of paint but never paint the outside of; the coastline problem (shorter ruler, longer coast, to infinity); Newton's three sentences covering thrown ball, falling leaf, and stars.
-
-Physical: the scar high on the inside of his thigh — old, raised and smooth, a seam longer than her hand, more than she'd known. He covers her hand and presses it onto the scar: "Not tonight." She turns her palm up under his.
-
-Dialogue to keep: "So the name that means love in one mouth means trouble in the other." / "They took the thing you loved and made it the punishment." / "Most people walk around inside the poem and never get to read a line of it, and I got to read some." / "Less than staying." / "It's the lift. It's the same face." / "I didn't feel young. Not with her. It was the best two years I'd had. And then it was over." / "Peter."
+Swept and afraid in equal measure, and the two are the same feeling. This chapter made Pace a wounded, luminous man — the hallway, the math-as-poetry, the scar he keeps under her hand — and I fell for it exactly as Vee did, which is the trap. The Daphne disclosure is the darkest thing yet: harm he narrates as luck, and I can't stop hearing it rhyme with what he now does to Vee and Randi, though the page only offered me the facts. I still trust Vee's eye — she read his flatness true — even as she says "Peter" into the dark like a woman who's stopped keeping any distance at all. No long spoon anywhere in this room. Cassie's absence aches structurally. What I carry: Peter means rock; a boy in a hallway with his desk; and a scar with a time on it, held under a warm palm.

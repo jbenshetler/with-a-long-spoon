@@ -1,125 +1,132 @@
 # Cold read — Rye
 
-*scene: scenes/rye.md · model: kimi-k3 (OpenRouter: moonshotai/kimi-k3) · read after: leave-no-trace*
+*scene: scenes/rye.md · model: kimi-k3 (OpenRouter: moonshotai/kimi-k3) · read after: leave-no-trace · reader-protocol: v2-volume-entry-jacket*
 
 ## Reader reaction
 
-This one felt like sitting on the dorm-room floor with them. After the hike chapter wrung me out, this was the warm compress — and it worked on me completely even as some back-brain part of me kept quietly counting doors.
+This is the first time Vee has told anyone the true account, and it undid me. Cassie — the one person with no design on her — gets the whole day, in order, unvarnished: the trees, the blister, the lake, the sandwich, the rain, the strip. And Vee tells it *well*, glowing, funny ("I think there's a whole situation under there"), unembarrassed. The chapter is one long exhale, and I exhaled with it.
 
-Cassie first: I've never liked her more. The audit is still running but it's gone tender — "I had questions." / "You had a whole witness statement ready." / "I had your blood type." And then she just… listens. Goes "rapt," goes "still," and at the end gives Vee not *Oh, Vee* but "Vee," soft, "like setting something down where it wouldn't break." That distinction the narration draws — not pity, not alarm, just her name handled carefully — gutted me a little. I couldn't fully tell whether I was watching a friend bless the fall or watch it and choose not to catch. "Borrow real boots next time" is her only caution left. The skeptic has nothing left to object to on evidence, and from where I sit with the jacket in my hand, that's the most quietly frightening sentence in the chapter — because the evidence is all real. I checked Vee's telling against what I saw with my own eyes last chapter: the kit, the moleskin, his back in the rain, the shaking, no touching, the heat on, the drive home. She inflates nothing, edits nothing. Her reliability as a witness is itself a kind of evidence — for *him*.
+The swoon is in the retelling — how she says "and then we ate" the way other girls say *and then we kissed.* That line tells me everything about what this book thinks appetite is. And Cassie going "still," then "rapt," then just "Vee. Soft. Not *Oh, Vee.* Just her name, like setting something down where it wouldn't break" — that's the tenderest beat in the book so far, and it's between two friends. Cassie doesn't warn her. She doesn't pull out the file. She says "Borrow real boots next time" and "Keep the shirt." I noticed, though — *I* noticed, the way you notice a held breath — that the file didn't come out. Vee has now given her the full day and the file stays folded. Cassie revised it ("like she was revising a file") and apparently the revision came out clean: he brought her back, with her shoes on.
 
-Vee: open-faced the whole chapter, "her whole face open" inside his enormous shirt, and she *lets Cassie look* at the top — the display impulse from the cab, now brought home to the one safe witness. And the desire, spoken aloud to another person for the first time: "His hands, though. And he's got these forearms… I think there's a whole situation under there." I laughed out loud at "I'm reporting what I observed." But the line that actually broke me was "I have never gotten anywhere on my own legs in my life and I got up a mountain" — and Cassie's "Look at you," meant. That's the whole transformation, said plain, in the room where it can be kept.
+What moved: my trust in this thing, a little. Not because the design is gone — it isn't; I still know what Vee doesn't — but because the day survived audit. Told plainly to the book's only honest witness, it still sounds like the best day of a life. That's the chord the book keeps striking and I keep letting it strike: the care is real *and* it was aimed. Cassie hearing it and choosing not to break it is the closest thing to a blessing anyone can give, and it frightened me a little that I wanted her to give it.
 
-Notable for absence: Randi, two chapters running, unnamed again — and now the cab story exists in a *full* version, in Cassie's keeping, authorship intact: "On purpose. Me." Which means any version that later reaches the bright room can be measured against this one. Also absent: the mother's voice — in the retelling of the exact story that voice exists to damn, she's silent, and the silence felt borrowed. And the one thing Vee does *not* tell Cassie: the sentence the siren took. Even here, in the safest room she has, the biggest thing stays hers alone. I noticed that. I think it's the truest thing she owns.
+Heat: none on the page, but the strip retold ("he looked at me like I'd handed him something") carries the residue of last chapter's charge — warmth rather than heat. The title "Rye" — the sandwich, of course, the thing she ate with her whole body; naming a chapter after bread is the book saying the feeding *is* the event. And rye is also the grain, the plain thing — no sweetness performed. It sits lovely and plain. No friction, no drag; the chapter is the length it should be. What I want next: Randi's side of this debrief — because I know it's coming, and Vee just rehearsed, for the wrong audience first, the exact telling Randi will elicit.
 
-Erotic charge: low-watt but real — all in the retelling and the forearms bit; the cab keeps its heat at one remove, which suited the room. No friction except one tiny wobble: "as she'd slowed at the tree the other night" — a callback I can't place, a bell that didn't ring for me. Minor.
+**Cast present (in person):** Vee, Cassie. Mentioned only: Pace (as "he"), Meg implicitly (the boots).
 
-The title: **"Rye"** gave nothing away, then bloomed at "And then we ate. She said it the way other girls said *and then we kissed.*" The book titled the chapter after the *bread* — the plainest, brownest object in it, the meal carrying the kiss's weight. It's Pace's whole palette against the bright room's: rye and horseradish versus oat milk and bruise-colored drinks. *A Polite Invitation* still points at the induction dinner somewhere ahead; *With a Long Spoon* and the tagline hang over scenes exactly like this one — a yes, freely retold, in a warm room, with nobody harvesting it. Yet.
+**Heat:** 1 — the strip retold in her own words; charge carried over, nothing on-page.
 
-What I want next: the Randi scene, and I dread it specifically now — whether Vee tells her, which version, whether the framing takes this act too. Or the sharper dread: that Vee *doesn't* tell her, and the withholding becomes the first secret kept *from* Randi. Also open: how the next Pace meeting even gets arranged now that the shirt is declared kept ("I'm keeping the shirt." / "Keep the shirt."), and the dinner, weeks off, getting closer.
+**Romance:** 2 — no romantic contact, but the retelling is a love story told to a friend, and the friendship itself hits tenderness.
 
-**Cast present (in person):** Vee, Cassie. Mentioned/referred to only: Pace (as "he/him" throughout, never named); the boots' owner implied but unnamed; no Randi, no mother, no Brooke.
+**Motifs & images:** the flannel, now publicly worn (repeat — his body given in his absence, now a claim she wears in front of Cassie); the file (repeat — Cassie's vetting, "revising a file," and this time it stays closed); food as event ("and then we ate" like *and then we kissed* — repeat of the appetite inversion); feet/boots (repeat — the blister "like a second toe," "borrow real boots"); the open face (repeat — "her whole face open").
 
-**Heat:** 1 — nothing enacted; charge lives in the retold cab and "a whole situation under there."
+**Symbolism:** the shirt kept without asking on either side — a gift neither will name; the closed file as provisional clearance.
 
-**Romance:** 2 — the on-page tenderness is friendship (the soft "Vee," "Keep the shirt"); the romance itself is narrated, not staged.
+**Characterization:** Cassie deepens beautifully — dry, funny, rapt, capable of setting things down gently. Vee consistent and opened.
 
-**Motifs & images:** the flannel *seen and read* (repeat — now witnessed, ratified); audit/file language turned joke-form (repeat: "revising a file," "witness statement," "blood type," "With your shoes on"); "he didn't make it weird" — the no-shame pedagogy retold (repeat); the body keeping the event (new: blister "like a second toe," ruined legs, lowering "like a much older woman"); the window cracked two inches to the cold (repeat — the truth-telling room's standing detail); hair "dried every direction" (repeat — the thing of hers that escapes); the self revised per listener (repeat, inverted: Cassie gets the fullest version; the holdback is now the feeling, not the framing).
+**Pace — within:** perfect; a single room, a single telling, no wasted beat.
 
-**Symbolism:** the kept shirt set against her own retold "We didn't leave a crumb. We didn't leave a pit" — the one thing she took from the mountain is his. Cassie setting the name down "where it wouldn't break": the story as fragile object, the friendship as the shelf that doesn't make you put it back. The closed audit: every external check clears him, and the jacket says the danger was never the kind an audit finds.
-
-**Characterization:** Cassie deepens — auditor to keeper-of-the-story, dryness intact, reverence new. Vee consistent and deepening; her account matching what I witnessed quietly establishes her as a reliable narrator. Pace consistent in absentia. Randi, Brooke thin only by offstage-ness.
-
-**Pace — within:** single scene, short, earns every line; the slow-down before the rain-story mirrors the cab's own hush.
-
-**Pace — chapter to chapter:** a deliberate low-heat debrief after the book's highest peak; event→debrief is now the book's heartbeat. Holding, not sagging — but the Randi counterweight keeps being deferred, and the pressure is building.
+**Pace — chapter to chapter:** a deliberate downshift after the mountain — a processing chamber, and it earns its stillness.
 
 ## Carry-forward state
 
 **Principals**
-- **Pace** (man; math PhD). Absent in person, present only through Vee's retelling — which matched the witnessed events detail for detail (kit, moleskin, back to the rain, shaking, no touch, heat on, drove her home), inflating nothing. No new data; trust reconfirmed by proxy. Holds unchanged: the induction (weeks off; dinner; name read; mother yes, father no), the russet dress and its price-impossibility, the sight she gave him in the cab, her care returned, the shivering self-forgetting ("a long way from the question of whether he was cold"). Zero interiority still.
-- **Randi / Miranda** (woman, 21). Absent and unnamed two chapters running. The debrief went to Cassie first again — and in full. Prior holdings stand: the first-harvest surrender-cut (menu-surrender, "handed it over," "stopped keeping track," the kiss, "because of him"); the public claiming ("dear friend," held hand, "Love you, girl"); the first cost-hint. Interiority still zero. The next bright-room scene is now maximally loaded.
-- **Vivienne "Vee" Thorne** (woman; junior). Told Cassie the hike and cab *in full*, unedited, authorship intact — "On purpose. Me." — including spoken lust for his body for the first time ("a whole situation under there" / "I'm reporting what I observed"). Withheld only the near-declaration the siren took. Declared the shirt permanent: "I'm keeping the shirt." Let Cassie read the flannel without flinching; whole face open; body carries the mountain (blister "like a second toe," ruined legs). Said the summit-plain truth: "I have never gotten anywhere on my own legs in my life and I got up a mountain."
-- **Cassie** (woman; roommate). Read the flannel instantly. Audit language now joke-form ("No windowless van… With your shoes on," "I had your blood type," "revising a file") — the investigation effectively closed, cleared again. Listened rapt; answered with the soft "Vee… like setting something down where it wouldn't break" — explicitly *not* "Oh, Vee." Only caution: "Borrow real boots next time." Ratified the keeping: "Keep the shirt." Now holds the complete hike/cab account. The folded look at Randi stands, still folded, unshared. Offered no warning — whether from trust or surrender is open.
-- **Brooke** (woman; chapter president). Absent, dormant. Holds only: Vee exists, is Randi's publicly claimed "dear friend."
-- **Vee's mother** (voice only). Unmentioned this chapter — notable silence during the retelling of the exact story her condemnations exist to damn. Standing: the voice-heat fusion lives in Vee ("the voice was the heat and the heat was the voice"); she proud-cried about the induction and is coming to the dinner.
-- **The grandfather** (memory only). Not mentioned.
+- **Randi (= Miranda)** — sorority junior; black hair, startling blue eyes, a "face" she has built her life around; food-policing (the bruise-colored beet/wheatgrass/egg-white order, "her usual"); lover of Pace, co-runner of the pointing game. Absent two chapters running now — the hike and its retelling both happened entirely outside her frame, and that absence feels loud.
+- **Pace (= Peter)** — Randi's lover; math PhD; consent-careful designer of the pointing game. Off-page but everywhere: the whole chapter is his day retold. "Had no house here to go to" — showers at the gym.
+- **Vee (= Vivienne)** — POV principal. Tall, lavish hourglass; copper-dark-red hair, freckles. This chapter: came home in his flannel, ruined legs, face open, and gave Cassie the true account of the whole day — including the strip — with no shame in it. Keeping the shirt; neither of them asked.
+- **Cassie (= Cassandra)** — Vee's roommate/friend; boxy, small; brown shag; the book's only undesigned care. This chapter: heard the full true account, went rapt, revised her file *silently* — blood-type jokes, "no windowless van," "with your shoes on" — and chose not to warn, only "Vee," soft, "like setting something down where it wouldn't break." Still holds the thin file: Pace's name + "off six-fourteen."
+- **Christine** — runs the restaurant; knows Pace; warm character-witness.
+- **Brooke** — chapter president; beautiful, finished, measuring; warm-voiced vetter; revealed Randi's Thursday life.
+- **Tall unnamed woman with coffee** — Brooke's silent shadow; inventoried Vee once.
+- **Sloane** — sister; spotted Pace's truck. **Kinsey** — sister; "short-cute."
+- **Daphne** — named only; Pace's past love whose closed door he crossed; it "cost him."
+- **Meg** — from Vee's floor; lent the too-big boots that caused the hot spot.
 
 **Relationship ledger**
-- **Pace & Vee:** No contact; he exists only in her telling. New: his behavior now has a witness-by-proxy — Cassie holds the full account, and it matches what I saw. Her declared keeping of the shirt ("He didn't ask for it back"). Advanced by intimacy-through-retelling: the relationship now lives in the dorm room too. Divergence stands absolute — her "it was right" against my jacket-knowledge.
-- **Vee & Cassie:** Advanced hard — the fullest disclosure Vee has given anyone: lust spoken, the cab confessed with authorship, the shirt's provenance told. Received with reverence, not judgment. The debrief-first-to-Cassie pattern confirmed (second time). What Cassie felt: rapt, then soft gravity — something set down carefully. What I felt: relief that someone true holds the whole story; unease that even the best witness said nothing cautionary.
-- **Vee & Randi:** No on-page contact; Randi unnamed two chapters. New pressure: the cab story now exists in a full Cassie-version, so any Randi-version can be measured for edits — "Because of him" has a control sample this time. Dread doubled.
-- **Cassie & Randi:** No change. Proximity established, no contact; the two best-positioned protectors remain unmet.
-- **Randi & Pace:** No on-page contact; nothing shown of whether any harvest reaches him. Unchanged.
-- **Vee alone with herself:** The retelling itself experienced as pleasure; edits nothing for Cassie except her own biggest feeling. The near-declaration is now the one thing she keeps from everyone.
-- **Cassie alone with herself:** Her protectiveness shifted register — investigation to guardianship-of-the-moment. She chose not to caution. Trust or surrender: open.
-- **Vee & her mother (internal):** No new movement; the voice silent during the telling.
+
+*Randi ↔ Pace (core)* — **State: involved — consummated: y** — shared project: the pointing game, his design, her enthusiastic participation, now extended to delivering Vee to him. Surface / true: surface — a couple playing a sexy game widening to include a third; true — he designed it to air her desire for women without making her name it, and she is co-executing the approach on Vee.
+- **warmth ↔ cold:** warm end to end between them; the only cold note hers alone (policed appetite, the bruise-colored usual).
+- **belonging ↔ isolation:** belonging, widening — a team running a public play together; the isolation is Vee's coming one.
+- **cherished ↔ used:** he cherishes her — his pleasure last, wanting her every joy — and each is the other's instrument; cherished and used in the same gesture, both sincerely felt.
+- **desire hers ↔ desire worked-on-her:** both, fused and confused — her desire undeniably hers, deliberately worked on her; she believes the game is spontaneous fun, he believes he's freeing her wanting.
+- **This chapter:** no change between them — but the mark has now told the day aloud to a third party and it held up as the best day of her life.
+
+*Randi alone with herself (core)* — **State: estranged**, with a crack of daylight: the real wanting has arrived ahead of the face three times and the costume closed over it each time. The composure is now indistinguishable from the design, and I no longer know whether she does either. The catastrophe story is a set piece "told before and would tell again"; the oat-milk/bruise-drink discipline is "her usual"; "dear friend" cost her something in front of Brooke — the face has a public to answer to, and she spent standing on Vee.
+- **This chapter:** no change — absent.
+
+*Vee alone with herself (core)* — **State: estranged — quiet, high-functioning — thawed through, and now integrating.** Last chapter she acted on desire in full knowledge of the verdict and experienced it as rightness; this chapter she narrated it — to a witness, in her own voice, with humor and no shame ("I'm reporting what I observed"). The mother-voice did not surface once. The wanting is becoming something she can say.
+- **This chapter:** moved — from doing-desire to telling-desire; self-surveillance fully converted into self-narration, face open the whole time.
+
+*Randi ↔ Vee (core)* — **State: attracted (one-sided on Vee's side, secret) — publicly claimed: "my dear friend."** Surface / true: surface — a sparkling friendship ratified before the sorority world; true — every beat pointed, the debrief an elicitation, the claiming an anchor.
+- **warmth ↔ cold:** near-total warmth between them; the cold all around it, making Randi's warmth the only shelter.
+- **belonging ↔ isolation:** belonging, loudly — a public place conferred; quietly, the world narrowing toward the couple.
+- **cherished ↔ used:** Vee feels cherished beyond anything — chosen out loud, hand held. Used stays my pole: the claiming fixed her place "next to Randi."
+- **desire hers ↔ desire worked-on-her:** Vee's warmth is hers — the attraction was already there — and worked with exquisite skill; her own framings get gently replaced.
+- **This chapter:** no change on-page — but Vee just rehearsed the day's telling to Cassie; the version Randi elicits will be the second performance, and I now know exactly how it sounds.
+
+*Pace ↔ Vee (core)* — **State: involved (dating; consummated: n — milestone stands: she stripped to her wet bra for him by choice, eyes on his; he did not touch her; she held his shaking hand to her belly; she kept his flannel, unasked on both sides) — mutual on the surface; secret-design underneath.** Surface / true: surface — the best day of her life, now ratified aloud to her closest friend; true — the day executed every finding of the debrief on unwitnessed ground and left no trace.
+- **warmth ↔ cold:** the flannel is now daily wear in a cold room — his warmth literally on her body at home; the cold hand on the warm belly stands.
+- **belonging ↔ isolation:** belonging consolidated — she has made the day part of her story to her person; isolation stands in fact — no address, no house, and now even Cassie has let the file stay folded.
+- **cherished ↔ used:** cherished, and now *witnessed* as cherished — Cassie heard the whole account and found nothing to break. Used stays my pole only as knowledge.
+- **desire hers ↔ desire worked-on-her:** hers at full volume and now spoken aloud — "I took my wet shirt off in front of him. On purpose. Me." — and it remains exactly the wanting the design courted. Both, fused.
+- **This chapter:** moved — the intimacy survived third-party audit; the shirt kept without negotiation is a new, quiet permanence.
+
+*Everything else:* Vee–Cassie: deepened — the full true account given and received without judgment; the small Smoothie Bird debt now overlaid by this trust; Cassie's blessing ("Keep the shirt") given instead of a warning. Randi–Cassie: no contact. Pace–Cassie: still unmet; her file unchanged but silently revised downward in threat. Brooke–Randi: warm, performative, Thursday life off Vee's page. Brooke–Vee: met once; measured. Christine: unchanged. Vee–her mother: the proud cry and the *I never* cry on the phone; her voice quiet this chapter. Father: won't come to the induction, work.
 
 **What I know that they don't**
-- **Vee doesn't know (all standing):** she was chosen across the quad; the third-in-the-bed game; the friend is the man's lover; the study; the design (jacket-loaded; the page has confirmed nothing). "Paul?" was a mask — Randi knew the name. Her kiss-story was edited in the telling to Randi (Cassie heard "I did it. Me."). Cassie folded a look at Randi and Vee didn't watch her go. She doesn't know what the campus cop's appearance meant, if anything (neither do I). New this chapter: nothing — she was present for all of it.
-- **Cassie holds (updated):** NEW — the entire hike/cab account: the kit and boot-fix with the hands/forearms detail and Vee's spoken lust ("a whole situation under there"); the summit and "I got up a mountain"; the rye meal, horseradish, cherries, passed bottle; the freezing rain; the shirt-gift and his back in the rain; the full cab confession ("On purpose. Me.… He was shaking, he was so cold, and he just looked… didn't touch… put the heat on and drove me home"); the declared-keeping of the shirt. PLUS standing: Pace's name + road; the audit that cleared him; the state-troopers joke; the folded look at Randi, unshared; the induction letter (she screamed in the hall). Doesn't know: the design, the study, Randi's role; the russet dress (never told); the near-declaration the siren took; the mother's voice-heat fusion (Vee-internal, never told); the cop's meaning.
-- **Randi holds (standing):** the first harvest (menu-surrender, "handed it over," "stopped keeping track," the kiss, "because of him"); the public claiming. Doesn't know (standing): Cassie got the first debrief; Cassie holds name + road; an audit ran and cleared Pace; the "I did it. Me." version exists; Cassie folded a look at her. NEW doesn't-know: the hike/cab entire; that the full account now lives with Cassie — so any future edited version Vee gives her is checkable against it; that Vee's lust is now spoken aloud; that the flannel is declared kept. Her only sources remain Vee and Pace; the page shows nothing reaching her.
-- **Pace holds (standing):** the induction details; the russet dress and its price-impossibility; the sight she gave him; her care returned; his own shivering self-forgetting. Doesn't know (standing): that any retelling happened — now two full tellings exist (the kiss debriefs; this hike/cab account) and he knows of none; Cassie exists and holds his name and road; the state-troopers joke; the fold; the near-declaration at the curb. Also: the shirt is declared permanently kept — he didn't ask for it back, she didn't ask.
-- **Brooke:** holds only the claiming. Dormant.
-- **Jacket-loaded, in motion:** Vee falling for both — the Pace-fall now lust-spoken to a witness, though the love-word stays withheld even from Cassie; the Randi-fall dormant two chapters (no new data). "As real for the two who started the game": Pace's shivering self-forgetting remains the only page-evidence; nothing new this chapter. Whether Randi is falling: cost-hint only, no new data.
+- I know Randi's bathroom resolve — never to let the seen-self out again — while Pace believes the bench night was a breakthrough.
+- I know the "paper"/"study group" lies to the sisters.
+- I know the game is Pace's design: the question, the walk, the pointing — all chosen. Randi does not know. Vee does not know she was pointed at, picked, and collided with on purpose — and Cassie, the only vetting Vee gets, has now heard the full day and let the file stay folded.
+- I know Randi's warmth, however sincerely felt, is also execution; Vee experienced it as election.
+- I know Pace is Randi's lover; Vee has now stripped for him, held his hand to her belly, and is wearing his flannel at home believing Randi a delighted third party — when Randi is debriefing her own lover's mark.
+- I know the hike happened on his ground, address still unknown, and "he had no house here to go to" — the day's perfection left nothing anyone could verify or find.
+- I know Randi has a Thursday life and a public (Brooke, the tall woman) that Vee knows nothing about — and that claiming Vee in front of it cost her something.
+- Caring side: Pace's tenderness is genuine and proven under cost — he declines his arousal, takes his pleasure last, gives his only dry shirt and stands shivering with his back turned. The care and the design are the same acts, and the care is real — and this chapter Cassie, hearing all of it, effectively agreed. Cassie's care remains the only care in the book with no design behind it.
 
 **Motifs**
-- *The self revised per listener:* pattern confirmed and inverted — Cassie now holds the *fullest* version of the second event, as of the first ("I did it. Me." vs. Randi's "Because of him."). New turn: the one holdback is no longer framing — it's the unsaid big thing; the truest fragment lives in Vee alone.
-- *Traces / kept things:* the flannel seen, named, ratified ("I'm keeping the shirt." / "Keep the shirt.") — a kept trace now witnessed and blessed, set against her own retold "We didn't leave a crumb. We didn't leave a pit." Earlier trail: the empty pink cup carried home.
-- *The audit:* investigation language gone joke-form — "revising a file," "witness statement," "I had your blood type," "No van… With your shoes on." Trail: the real audit that cleared Pace, name + road, the state-troopers joke. Effectively closed; cleared on evidence, again.
-- *Food as erotic milestone (title-born):* "And then we ate. She said it the way other girls said *and then we kissed.*" Rye, horseradish, cherries, the passed bottle — the meal given the kiss's weight; "I think you have to almost die on a mountain first."
-- *The brace / vigilance → the mother's voice:* silent this chapter — conspicuously, during the telling of the story that should summon her loudest. Trail stands: the deck-body vigilance; "warm and did not feel it"; the three filings; full sentences ("Girls who do this. Girls in trucks"; "floozy"); "the voice was the heat and the heat was the voice."
-- *Placement / display:* migrated to the safe witness — "She let Cassie look." Trail: the deck-body, the high white window table, the truck cab where Vee built the display herself, his slow "came up to her face… when a woman has called them."
-- *Didn't make her small:* retold as "he didn't make it weird. Didn't make me feel like I'd wrecked the day." Trail: the pit-lesson without shame; "He didn't make her feel slow"; against the mother's shame-teaching.
-- *The body keeps the event (new):* blister "like a second toe," legs filing a complaint, lowering "like a much older woman" — the hike carried in muscle beside the flannel carried on skin.
-- *Cost / spend:* quiet this chapter; trail stands — Randi's claiming "cost something"; Pace's uncounted warmth and dryness; the class-spend cluster (pilled cardigan, bruise-colored drink, oat milk, the russet dress set back down).
-- *Water / weather:* the silver lake and freezing rain retold; provision (the dry shirt) retold. Trail: the lake "flat as a poured thing"; the world's not-caring as the beautiful part; "he drank from it where her mouth had been"; Brooke's deep water; Cassie's mid-ribs wading.
-- *The truth-telling room:* the cool dorm, the window cracked its two inches to the cold — the recurring set where true things get said.
-- *Sobriety (structural):* still chemically pristine — and this scene adds no food or drink at all; the trap needs no leverage, the telling needs no wine.
-- *Hair:* "dried every direction" — the thing of hers that escapes control, now witnessed. Trail: wind "found her hair, always her hair"; the wet curl tucked and loose again.
+- **The face vs. the person** — the costume vs. desire arriving early. Most charged: Randi performing matchmaker about her own lover; Cassie's "That's a whole face"; Vee's face giving her away ("you have had a look on your face for fifty minutes"); Pace reading her face at the trailhead and not making anything of it. Now: Vee's "whole face open" in her own room, and something moving across it "that she didn't bother to hide."
+- **The game / disguised design** — purpose under play. "I point. You pick."; the staged collision; the smoothie debrief; the hike as its harvest. Now: the harvest audited — the day retold to an outsider and still reading as pure gift.
+- **Warmth vs. cold** — warm rooms against refused food; then literal: rain, wet cotton, dry flannel, warm belly. Now domesticated: the cool room, the two-inch-cracked window, and Vee warm inside his flannel.
+- **Apples / portioned appetite** — "I can't eat that" against feeding every other hunger. Inversion complete: "and then we ate," said like *and then we kissed*; hunger as the story's love scene.
+- **Dance / follow and lead** — he led the trail at her speed; she led the cab. Now: she leads the telling; Cassie follows and stays still.
+- **Parting words** — Cassie's "Goodbye, Vee," "Love you, girl"; the sentence the siren ate. Now: "Keep the shirt" — a parting word that is a permission.
+- **Desire ahead of the mind** — stomach first, thighs pressing "on their own." Quiet this chapter; the desire is now fully minded, even narrated.
+- **Water / the held body** — the green quiet; the lake holding the sky; rain on skin. Recalled in the telling — the silver lake below black rock.
+- **Being looked at / the shelf** — the looking inverted on the mountain: *I want him to see me*. Now extended: she lets Cassie look ("She let Cassie look") — being seen, second witness.
+- **Feet / shoes** — "real shoes" issued as instruction; Meg's too-big boots; the moleskin "still holding." Now: "a blister like a second toe," and Cassie's "Borrow real boots next time" — the instruction reissued, kindly.
+- **The file** (consolidating) — Cassie's thin vetting: name + "off six-fourteen"; "like she was revising a file"; "I had your blood type"; and this chapter the file revised and left unopened.
 
 **Symbolism noticed**
-- "Rye": the plain bread as the chapter's erotic center — sustenance over display; Pace's palette (rye, horseradish, cherries) against the bright room's (oat milk, bruise-colored drinks).
-- The kept shirt against the carry-out ethic: the one thing taken from the mountain is his.
-- Cassie setting the name down "where it wouldn't break": the story as fragile object; the friendship as the shelf that doesn't make you put it back (against the russet-dress shelf discipline).
-- The closed audit: every external safeguard clears him; the jacket insists the danger was never the kind an audit finds.
-- Standing: the fire lane / red-painted curb (no legitimate place to park this); the siren as the world's "move along"; the flannel as his skin by proxy; the lake as the anti-mother witness; Meg's boots adapted not replaced; "off six-fourteen" and "past where it goes to gravel" as knowledge-edges still uncrossed.
+The burning sugar maple as Vee; the staged collision as the design in miniature; "latent variables" as method; the dark stripe where the shallow gives out; "off six-fourteen" as an address-shaped blank; the long spoon turning literal; the high chair as the pointing game's furniture; the empty pink cup; the wall of woods with a path scratched up it; leave-no-trace as both wilderness ethics and the operation itself; the flannel as his body given in his absence — now also a garment claimed, worn at home, kept without asking: a silent vow neither party spoke. New: rye as the title — the plain grain, the feeding as the chapter's namesake event; the closed file as provisional clearance.
 
 **Open questions**
-- Does Vee tell Randi about the cab — and which version, now that a full control-version lives with Cassie? Or does she keep it from Randi entirely — the first secret kept *from* her? (dreaded, near)
-- The house, the long drive, the gravel's end — still pending; he dropped her at the dorm.
-- What was the unsaid "Pace—" the siren took? (standing)
-- How does the next Pace-meeting get arranged, now that the shirt is declared kept and no return-pretext exists? (revised — the flannel-return question is resolved: there is no return)
-- The russet dress: does it return, and from whose hand — Pace's or Randi's? Will Cassie ever hear of it? (standing; guess from here: it returns)
-- The induction dinner (weeks off) — who comes, what happens when her name is read; her mother attends. (standing)
-- The campus cop — one-off interruption or a thread? (standing, small)
-- Does the harvest reach Pace on the page — a Randi-and-Pace scene? (standing, cargo now doubled)
-- Cassie's folded-away look — does it ever unfold, now that she's seen everything and said nothing? (standing, heavier)
-- Does Cassie's non-caution hold — trust, or surrender? (new)
-- "The tree the other night" — a reference I can't place; small memory-gap. (new, small)
-- What did "dear friend" actually cost Randi? (standing)
-- Was the catastrophe-date real, or cover? (standing, small)
-- Brooke's nothing-invitation — does it return as a something? (standing)
-- The study's scope; the somewhere-in-himself; the right-hand rule; Christine's door-remark; Cassie's depth-limit (all standing, all open)
-- ~~Whose shoes does she borrow?~~ — struck: Meg's boots.
-- ~~The kiss~~ — struck; its authorship already revised once, and the cab-act's authorship now stands beside it with a control version on record.
-- ~~The flannel's return~~ — struck: she keeps it; Cassie blessed it.
+- Was the froyo date — and the dinner, and the hike — part of the play all along? (Reads as: yes, and perfectly executed — and it survived Cassie's audit.)
+- When and how does Vee learn Pace is Randi's lover — and what detonates?
+- Does the threesome frame survive contact with two real, falling people?
+- Will Vee ever learn the collision was staged?
+- Does Randi discover the game was designed — love or violation?
+- What was the sentence the siren cut off — and does she get to say it?
+- "He had no house here to go to" — then what was "his ground"? Where does he actually live?
+- Vee's mother-voice ran *with* her desire, then went quiet while she told the story — what does that become?
+- Why did Cassie let the file stay folded — trust, or a judgment call she'll revisit?
+- What did "dear friend" cost Randi with Brooke's world — and what is Thursday?
+- Who is the tall silent woman, and what was she inventorying?
+- Who was Daphne, and what did crossing her door cost?
+- What were the two unread notifications?
+- What is the right-hand rule — custom, faith, habit?
+- The russet dress, set down on the rock and not picked up — does it come back? (Guess from here: it comes back, and it will undo me either way.)
+- New: what will Randi's elicited version of this telling sound like — and will Vee give her the strip?
 
-**How I feel**
-- Pace: steady-high — his absence didn't cool anything; her accurate retelling re-certified him. On-page trust near-total; dread all jacket.
-- Randi: absent two chapters, and the absence now reads as a held breath; my dread of the next bright-room scene is specific and near — the harvest of the cab, or the first withholding.
-- Vee: pride and ache — her most open hour in the safest room, and I keep counting what it would cost her if the wrong ears held it.
-- Cassie: warmest yet; she deepened from auditor to keeper-of-the-story; the ache is that she offered no caution, and I can't tell if that's the best thing or the worst.
-- Brooke: dormant; cool wariness held.
-- The mother: silent during the exact story she exists to damn; the silence feels borrowed.
-- Overall mood: afterglow with a clock on it — the story is out in one safe room; the book keeps ending warm, and each warmth carries more freight than the last.
+**How I feel — overall**
+Warm, settled, and tenderly uneasy. This chapter was pure afterglow with no sex in it — two friends in a cold room, one of them wrapped in a man's shirt, telling the truth. I love Cassie more than anyone on the page; her not-warning felt like grace and like a door closing at the same time. The design is still there — I haven't forgotten a thing — but the book just made me watch the mark's best friend hear the whole operation and call it good. That is either the story absolving Pace or raising the stakes past where I can see. I turned the page fast.
 
 ### Chapter record
 
-- **Characters present:** Vee, Cassie. **Referred to, not present:** Pace — only as "he/him," never named in this chapter. The borrowed boots' owner implied ("Borrow real boots next time"), never named. No mention of Randi, the mother, Brooke, or the grandfather.
-- **Room/props:** the dorm room, cool as always, window cracked its two inches to the cold; Vee's desk chair; Cassie's chair (she swivels it around); Cassie in sweats, brown shag untangled; the flannel — "three sizes too big, not Vee's," worn anyway; Vee's hair "dried every direction."
-- **Retold objects (from the hike, recounted in dialogue):** the kit with moleskin and little scissors; the boots that didn't fit; rye bread, horseradish, cherries; one water bottle passed back and forth; the silver lake far below; the near-black rock at the summit; the tunnel of trees; the freezing rain; the dry shirt from his bag (the flannel); the truck cab, glass knocked on, heat turned on.
-- **Stated times:** the hike was "on a Sunday"; a reference to "the tree the other night" (event unspecified); no other dates or times.
-- **Physical/medical:** blister "like a second toe"; legs sore enough to "file a complaint"; Vee lowers herself "like a much older woman," both hands bracing, a small wounded sound; laughing hurts.
-- **Key spoken lines (verbatim):** "You're alive." / "I'm alive."; "No windowless van." / "No van."; "brought you back. With your shoes on."; "I had your blood type."; "he just had a kit, of course he had a kit"; "he didn't make it weird. Didn't make me feel like I'd wrecked the day."; "His hands, though. And he's got these forearms… I think there's a whole situation under there."; "I'm reporting what I observed."; "I have never gotten anywhere on my own legs in my life and I got up a mountain."; "Look at you"; "She said it the way other girls said *and then we kissed.*"; "You carry out what you carried in."; "getting soaked on purpose so I wouldn't have anybody looking at me."; "On purpose. Me."; "He was shaking, he was so cold, and he just looked"; "I kept the shirt. I didn't ask. He didn't ask for it back."; "Vee" — "like setting something down where it wouldn't break," explicitly not "Oh, Vee"; "Borrow real boots next time."; "I'm keeping the shirt."; "Keep the shirt."
-- **Not disclosed to Cassie in the telling:** the russet dress; the near-declaration at the curb; the mother's voice; the campus cop; Pace's name (he is never named in this scene).
+- **Characters on-page:** Vee, Cassie. **Mentioned:** Pace ("he" throughout); boots implied as Meg's.
+- **Setting:** Vee & Cassie's dorm room; evening after the hike (same day, Sunday implied); room cool "as always," window cracked its two inches to the cold.
+- **Props/clothing:** Pace's flannel shirt — three sizes too big, worn by Vee, kept without asking on either side; Vee's hair "dried every direction"; Cassie in sweats, brown shag untangled; Vee's desk chair; Cassie's swivel chair.
+- **Physical/injury:** Vee's legs wrecked (lowers herself "like a much older woman"); one blister "like a second toe"; moleskin referenced as having been applied on-trail.
+- **Retold hike details (continuity):** tree-tunnel ascent; ill-fitting boots; Pace's trail kit with moleskin and small scissors; kneeling to fix the blister; silver lake below near-black summit rock; miles of view; packed lunch of rye bread with horseradish, shared water bottle, cherries; leave-no-trace ("We didn't leave a crumb. We didn't leave a pit."); sudden freezing rain on descent; both wet through at the truck; Pace's one dry shirt given to Vee; Pace standing in the rain with his back to the cab; Vee knocking on the glass, calling him in, removing her wet shirt on purpose; Pace shaking with cold, looking "like I'd handed him something," not touching her; heat turned on; he drove her home.
+- **Cassie's file references:** "No windowless van," "with your shoes on," "I had your blood type," "like she was revising a file."
+- **Key dialogue:** "Look at you," Cassie said, and meant it. / "Vee," soft — "like setting something down where it wouldn't break." / "Borrow real boots next time." / "I'm keeping the shirt." / "Keep the shirt."
+- **Notable phrasings:** "and then we ate" — "the way other girls said *and then we kissed*"; "I think there's a whole situation under there"; "her whole face open."

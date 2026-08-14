@@ -1,115 +1,122 @@
 # Cold read — Broken In
 
-*scene: scenes/broken-in.md · model: claude-opus-4-8 · read after: lesson*
+*scene: scenes/broken-in.md · prose-blob 12afe7ea917ad2f85bcded1ce2b251324b379486 · model: claude-opus-4-8 · read after: lesson · 2026-08-13*
+<!-- freshness: prose-blob = `git hash-object scenes/broken-in.md` at read time; if it differs from the live file's hash, this review is stale. -->
 
 ## Reader reaction
 
-So this is the visit I was braced for, and it's worse and lovelier than I let myself expect. The whole chapter is a closer at work and it plays as the best girlfriend morning of Vee's life, and I sat inside both at once the entire time.
+This is the operation in motion and I could feel it working on Vee *and* on me at once, which is the awful, delicious trick of the chapter. She wakes, refuses to wake Cassie again (the gap widens by her own hand — she even shuts the window Cassie cracks every night, a tiny closing-off I felt), and walks to the sorority house to be fixed. And Randi fixes her — not the rupture, *her*.
 
-The opening got me before Randi even appeared. Vee lying in the top bunk *performing sleep* so Cassie leaves without a word — "imagined the picture she must make up there... a girl wound into a man's shirt, hair gone off across the pillow like something that had happened to her" — and that low *Hrm*, "the sound Cassie made instead of a question." Cassie loves her enough not to ask, and Vee spends that love as cover. The true friend is in the room, asking nothing, and Vee waits her out to go to the other one. That "something that had happened to her" is doing a lot: she's the subject of her own life spoken in the passive voice. Then the cold water "like a verdict," fixing the sad-clown face up from *crime scene* to *long night* — I love her voice here, she's funny even scraping herself off the floor, and the bare-legs-in-October defiance ("a woman with bare legs in October," "the conviction of the converted") is genuinely buoyant. The apple, the bin, "like a person raised right." She's marching to fix a thing that was done *to* her and calling it her mistake, and she's radiant doing it. That's the ache.
+What Randi does with the disaster is the thing I've been dreading and it's masterful: she takes the worst minute of Vee's life, "turns it over in her hands and shows her the back of it," and reframes cruelty-to-a-good-man into *proof of investment*. "You don't get that jealous over a man you don't care about." "You were so far ahead you couldn't see the race." And the line that gave me chills: "don't you worry about a single piece of *how*... the rest takes care of itself." Then — "the thing Vee had been holding clenched let go of her, all at once — because Randi had said so." That's the whole horror in one clause. The guilt that might have driven Vee toward honesty gets dissolved by the closer, and redirected: not today, *tomorrow night*, go in *sure*, not sorry. "He won't text you... he leaves you the room and waits to see what you walk in wearing." Randi is scripting both of them.
 
-The house. White columns she's "looked at longingly from the sidewalk a hundred times and never once been inside," a foyer of composites she's "only ever seen the back of," "a museum that hadn't yet decided whether to let her up to the paintings." God, the class-hunger is so exactly drawn, and it dovetails with the choosing-hunger — this is a girl who wants *in*, everywhere, and here's a beautiful house opening its door and a beautiful woman at the top of the stairs saying "Oh, honey. Come up." Brooke reappears and the "the house had a folder on her anyway" chill landed — "you're the stats friend," said warm, and the reader knows there's a folder in a way Vee doesn't.
+And Brooke at the door — "Oh, you're the stats friend. Not a question. Vee had told this house nothing in her life and the house had a folder on her anyway." That landed like a cold finger. The house knows her. Brooke, again, one-handed and all warmth.
 
-And then Randi does the thing, and I have to be honest: it *works on me too.* She takes the worst minute of Vee's life "and turned it over in her hands and show her the back of it" — Simpson's-paradox move, the reframe where the humiliating stretch, seen against the whole, becomes the proof of the good thing. "You don't get that jealous over a man you don't care about... He took *you*. On a Thursday. To a room full of women who'd have traded their teeth for your chair." It's beautiful and it's *true* and it's the con — every word aimed at converting the rupture into devotion, and "the thing Vee had been holding clenched since last night let go of her, all at once — because Randi had said so." That last clause is the whole horror in five words. Her nervous system now regulates on Randi's say-so.
+The heat, though — I have to be honest, the shoe fitting *worked on me*. The long skirt hiding the whole operation so there's "only the feel," the hand up under the hem to the outside of her thigh, the thumb pressing "once into the soft hollow behind her knee," Vee's "breath did something she hoped wasn't out loud" — and her skin "came up singing." Kneeling to *tend*, eye-level, the whole apparatus I've been tracking, now tender and genuinely erotic. And "something moved in her face, there and gone" as Randi looks at Vee's bare feet — Randi's own real feeling, ajar, which keeps me from reading her as pure instrument. The kiss goodbye, mouth to mouth, and Vee "hadn't braced. It was only what they did" — that's the closer's whole art: the transgressive made routine.
 
-Then the pivot I clocked hard: Vee wants to go *today,* and Randi shuts it down. "Not today." "Tomorrow night. You sleep, you fix your face, you give it a whole day so it reads like something you *chose*." And the tell of tells: "He won't text you, by the way — don't read it as a door closing... he leaves you the room and waits to see what you walk in wearing." She is *narrating Pace's non-pursuit in advance* so that his silence, when it lands, reads as confirmation instead of a door closing. The two of them are running the same lever from both ends — he doesn't chase, and she pre-explains the not-chasing as devotion. I felt genuinely cold reading that, and the page earned it: this is coordination made almost visible, and Vee takes it as her wise friend knowing men.
+The shoes cost "more than a whole semester of her books" and she "decided not to finish the math." The debt spiral, deepening, gift by gift, and she still won't look. "Move in... you'd be my very own shoe whore" — the *slut* word again, made an endearment between them, disarmed.
 
-The fitting. This is where the chapter got its hooks into my body, and I'll say it plainly: it's the most erotic scene in a while and no one undressed for sex. The long skirt falls the whole length so Vee *can't see the work* — "only the feel — the cool quick hands somewhere down past the hem, her foot guided in, a strap closing at the ankle. Somebody kneeling to *tend* to her, and Vee left to stand there and be tended to and never watch it happen." A hand up under the skirt to the outside of her thigh, "cool and certain." The thumb "pressing once into the soft hollow behind her knee on the way down," and Vee's breath doing "something she hoped wasn't out loud." That's Randi on her knees under Vee's skirt, and Vee narrates it as being *helped with shoes*. The charge is entirely in the gap — I felt it precisely because Vee half-feels it and won't look. And the shoes themselves speak the con's whole thesis: "a structure that took her foot and *held* it, told it where to be — and the holding didn't bind. It steadied. Being given no say in where her foot went made her surer of it, not less." That is the *dance* again, that is "just feel the lead," that is agency removed and named as steadiness — now spoken by a shoe on her foot while a woman kneels under her hem. The motif is fully welded now: to be led, to be held where the next step comes from, is sold to her as the thing that makes her *sure*.
+The Edna Mode laugh, the "dinner in Paris" — genuinely warm, genuinely funny, and that's exactly why it works. I *liked* being in that bright cold room with them. That's the trap the chapter set for me too.
 
-The one crack I caught: when Randi points her to the spot and "her eyes went down and rested on Vee's bare feet on the carpet, and something moved in her face, there and gone, that Vee didn't have a name for and was too happy to go looking for." That's the closer's real wanting leaking through the work — the same seam I've been watching. And a beat later "You'd be my very own *shoe whore*... It came out like an endearment — the worst words always did, between them." The heat between them is real on Randi's side and Vee reads all of it as girls playing dress-up, "no event; she'd done as much for Pace." The kiss at the door confirms it: "the small second press the first one always seemed to want," and Vee catches up "a half-beat late: she hadn't braced. Hadn't tensed. Her mouth had just met Randi's. It was only what they did." She's been kissed into a reflex. That's not innocent affection landing; that's a body trained, and she registers the training as intimacy.
+**Title — "Broken In":** shoes broken in to a foot, yes — but I read it straight through to Vee being broken in. Trained to the shape, taught to tie her own scarf so she does it herself next time. It gave me a chill on the reread. **"A Polite Invitation / With a Long Spoon":** the long spoon is exactly what's missing — every gesture here closes distance, and Vee brings no spoon at all.
 
-The scarf, meanwhile, is the con's pedagogy stated outright: "you'll be tying it yourself tomorrow night, so — watch," Randi's hands over Vee's hands, "cool over warm," walking them through the knot, "Tension. It has to hold its shape or it'll go limp on you." Teaching her to do the thing herself. Get her there on her own. And the reward-word — "*dinner in Paris*... Vee would have walked into traffic for the woman who said *dinner in Paris* about her." The aspiration and the tenderness and the leash all in one phrase.
-
-And another unpayable gift on the pile: shoes worth "more than a whole semester of her books," no label, "she turned the number over and decided not to finish the math." The econ major who won't finish the math — twice over now, the debt and the con both refused a full accounting. Sent home "with the shoes in a soft drawstring bag."
-
-**Swoon/pull:** high, and complicated exactly the way this book does best. The dress-up morning is genuinely joyful — the Edna Mode bit made me laugh with them, the closet run "bone to camel to oatmeal and ending on one deep oxblood like the last note of something" is gorgeous, "move in," "I mean it." I *wanted* this friendship to be what Vee thinks it is. The fitting is hot. And every warm beat is load-bearing for the trap. I melted and dreaded in the same breath again.
-
-**Trust/suspicion:** no new suspicion needed — I already know these two are lovers running Vee, so this reads as pure closer-craft, and the page delivered it with almost no seam except that one flicker over her bare feet. What's chilling is how *good* Randi is at it and how much of what she says is true.
-
-**Titles:** "Broken In" — this one gave me a small cold jolt on the page. Broken in like shoes: the whole scene is a new pair of shoes taking her foot and teaching it where to go, "a structure that... told it where to be." But broken in like a horse, like a person — worn to the shape of someone else's use until it feels like your own comfort. By the end Vee's mouth meets Randi's without bracing: broken in. The shoes are broken in *to her* and she is being broken in *by them.* The title points right at the mechanism and I only felt its second meaning after I'd read it. *A Polite Invitation* / *With a Long Spoon* — the long spoon still absent from these bright warm rooms; this whole chapter is an invitation issued so gently it feels like her own idea, "Come up," "move in," "tomorrow night." The politeness *is* the danger.
-
-**What I want/dread next:** tomorrow night, Pace's door, the black dress and the borrowed shoes — Vee walking in "sure," reconciliation on the con's terms. *Guess from here:* the reunion delivers the deepest tenderness yet and reads to Vee as her own hard-won choice, moving her another notch toward whatever "she's not ready / she'll get there" points at. I dread it and I'll turn the page fast. I also keep waiting for Randi's flicker-over-the-feet to become something that costs the con, and for Cassie's unasked *Hrm* to come back as the friend who finally does ask.
+What I want next: tomorrow night, Pace's door. What does Randi do with having tuned her? Does Pace's genuine hurt survive contact with a Vee dressed by the operation?
 
 ## Carry-forward state
 
 **Principals**
-- **Pace** (= Peter): young math PhD; powerlifter; maker of expensive-eyed furniture; licenses an MRI patent. Ordinary pleasant face, light brown hair, thick calloused hands. White pickup; outsized workshop; small post-war house off six-fourteen with den/fire, sun porch (fitting room), one shut bedroom door; white-walled bedroom, much-washed white sheets. Real name Peter; father chemical plant, mother stays home; SAT at 14, college at 15; a nineteen-year-old "tutor" at 15–17 he frames as "the best two years"/luck; lifting as protection-turned-self-erasure ("that is freeing"). Large scar high inside thigh ("Not tonight"). Teaches country dance (women to be *led*); beloved at the Rusty Nail; doesn't chase; genuinely gets drunk girls home and leaves them at the door. **Off-page this chapter; Vee's whole trajectory now aimed at his door "tomorrow night."**
-- **Randi** (= Miranda): 21, junior, sorority Standards; black hair, blue eyes, dancer's body, cold-citrus scent (bitter orange, green-edged, nothing sweet); plain heavy white-gold band, never removed; size-7 feet, sky-blue toenails; sparse cocoa freckles across her nose she ignores. Virtuoso extractor; dark-green Mercedes. Secretly Pace's lover and the closer steering Vee. **On-page: received Vee's whole raw confession, reframed the rupture into devotion, set the exact terms of the reunion (tomorrow night, "sure" not sorry, pre-narrated Pace's silence), fitted her in borrowed shoes/scarf, kissed her goodbye on the mouth. Owns a narrow immaculate closet (bone→camel→oxblood); on Standards.**
-- **Vee** (= Vivienne): jacket protagonist, POV here. Tall lush hourglass, copper hair, snub freckled nose (cinnamon scatter she buries daily). Econ major; hungry to be chosen and to be *let in* (class-longing, the columned house); self-managing; the careful one; unpayable credit-card debt for the shoes. From Ohio. Perceptive, funny, jealous, clawed. **This chapter: performed sleep to avoid Cassie; scraped herself up ("verdict" cold water); went to Randi to "fix it"; was talked all the way back into devotion; accepted more unpayable shoes ("decided not to finish the math"); kissed Randi back without bracing.**
-- **Cassie** (= Cassandra): Vee's roommate/friend; clever, warm, loves-by-holding; least-engineered love in the book; carries a hidden fold. **This chapter: got up for class around her sleeping-faking roommate, made her *Hrm* (the sound instead of a question), left without asking. Loves Vee enough not to pry; that restraint used as cover.**
-- **Meg** (dining friend; the one real caution): off-page. **Brooke** (Randi's sorority sister, "shampoo-model" beauty, warmth-as-instrument): **on-page briefly — answered the door, "you're the stats friend," "the house had a folder on her."** **Kayla** (sorority pres, warmth-as-instrument), **Christine** (older restaurant woman, knows Pace warmly), **Theo** (walk-on), **the silent taller woman** (unnamed, open identity), **the older bartender** (testimony about the jealousy) — off-page.
+- **Pace** (= Peter) — male, 22. Math PhD near done, powerlifter, builds furniture; runs meticulous-consent scenes; engineered Randi's attraction and the staged collision. Absent (offstage; ruptured, awaited). Taught beginner dance at the Rusty Nail; brings dates almost never — brought Vee. Gets drunk girls home, leaves them at the door, doesn't take advantage (bartender-vouched). Skipped to college ~14–15; hallway/long-division punishment year. Loves math as "the language the world is written in"; total presence. Large scar high on inner thigh — "Not tonight." Names Daphne's harm as luck; defends her without hearing himself.
+- **Randi** (= Miranda) — female, 21. Sorority Standards. Disordered eating, hidden self-harm; curated face; sets it down only at his door. Size 7 = Vee. **Present.** The closer — comforts, reframes, dresses, times, scripts. Real feeling flickers ("something moved in her face, there and gone" at Vee's bare feet). No makeup, sky-blue toenails, sparse cocoa freckles she never thinks about (where Vee buries hers). Closet worked to the last inch, bone→camel→oxblood.
+- **Vee** (= Vivienne Thorne) — female, 21, junior. **Jacket protagonist. Present.** Tall, lush, warm dark-red hair, snub nose, cinnamon freckles. Econ; sharp room-reader, deep self-surveillance, lifelong body-shame; broke, unpayable card debt hidden from her own face. Ohio: nurse mother, jet-engine father, one Army brother. Misread the bar catastrophically; now being reframed and redirected.
+- **Cassie** (= Cassandra) — female. Vee's roommate/friend; clean love, immune clear eye; soccer. Present only as morning-sound (alarm, dressing, low *Hrm*, out the door) — again *not woken*. Holds the love, no fact; gap widening by Vee's choice.
+- **Brooke** — female. Randi's sorority sister ("beautiful one" from the smoothie shop; left Vee feeling small). **Present** — answered the door, "you're the stats friend," the house has a folder on Vee. Collecting/knowing.
+- **Daphne** — Pace's first, assigned older tutor: she 19, he 15, two years; left the year she turned 21. Mentioned-only (prior state). Older party / harm — ajar.
+- **Meg** — dorm friend, dry, warm; sourced dance clothes. Peripheral, absent.
+- **The older bartender** — corrected the record ("the girls weren't looking at *him* — at *your chair*; jealous of *you*"). Recounted this chapter, absent.
 
 **Relationship ledger**
 
-*Core — Pace / Vee:* **involved, consummated (y); mid-rupture, reunion staged.** Surface (to Vee): a sweet good man she wronged and must make right; his silence "leaves her the room." True (to reader): the hunt, its rupture now being smoothed by the closer into deeper devotion on the con's terms. History: kissed, fitting, the night ("Trade" panties), dress-reveal, fireside, dance lesson, bar rupture, and now the closer's repair. **This chapter: Pace off-page, but Randi converted his non-pursuit into proof of devotion and set the reunion for tomorrow night — devotion up, con tightening.**
-  - *desire worked-on-her ↔ desire hers:* strongly *worked-on* — her clenched dread "let go... because Randi had said so"; reunion terms authored for her; shoes that make her "surer" by giving her "no say."
-  - *cold ↔ warmth:* warmth reasserted fully (Randi's reframe, the dress-up joy); the cold is the con underneath and the literal bright-cold day.
-  - *isolation ↔ belonging:* belonging authored and narrowing — welcomed "up" into the columned house/Randi's room while the true friend (Cassie) is dodged; a manufactured place-to-stand.
-  - *used ↔ cherished:* both fused — every cherishing gesture is closer-craft aimed at the reunion.
-  - *This chapter:* she flickered once at nothing (Randi's face over her bare feet) but mostly took the whole steering as friendship-love; his silence pre-explained so she can't read it as a door closing.
+*Core — Pace & Vee:*
+- **State:** involved (consummated: y — twice prior). secret, one-sided (Vee unaware of engineering). Care real and costly *and* serves a built apparatus. **In rupture; repair now scripted by Randi for tomorrow night.**
+- **warmth ↔ cold:** still cold from the bar (her venom, his slow exit), but Vee now oriented wholly back toward warmth — the dance recast by Randi as the only thing that mattered; his hurt reframed as proof she's "in this."
+- **isolation ↔ belonging:** her isolation being converted into a *plan* — belonging offered through the operation (Randi), not through Cassie. She leaves pointed at his door.
+- **cherished ↔ used:** Randi's reframe insists Pace cherished her ("he took *you*, on a Thursday") — true on the page's terms, and deployed to bind her tighter. Reader sees cherished-and-instrumented fused.
+- **desire worked-on-her ↔ desire hers:** she believes she's choosing to fix it; the choosing was authored — timing, posture ("sure, not sorry"), even the clothes. Hers and worked-on-her fully fused.
+- **This chapter:** no direct contact; the *repair itself* is engineered — Randi sets the when, the how, the wardrobe, and dissolves Vee's guilt so she arrives on cue.
 
-*Core — Pace / Randi:* **involved, consummated (y); secret; witnessed directly.** Surface: strangers. True: lovers running a coordinated con — this chapter shows them working the *same* lever from opposite ends (he doesn't chase; she pre-narrates the not-chasing as devotion). White-gold band still on, loaded. **No change to state; coordination confirmed in operation.**
-  - Axes hold: both poles on desire; warm-and-real between them, purpose cold; real belonging isolating in aim; she instruments Vee to him AND is delighted-in by him; her jealousy-seam under his regard for Vee remains live.
+*Core — Vee with herself:*
+- **State:** managed surface over unlooked-at want; *floozy*/"slut" bruise — this chapter defanged into an endearment ("shoe whore") between her and Randi. Debt bleeding: shoes worth "more than a whole semester of her books," she "decided not to finish the math."
+- **This chapter:** her guilt released "because Randi had said so" — she outsources her conscience to the closer. Won't look at the shoe's cost.
 
-*Core — Randi / Vee:* **intimate front (surface to Vee: truest confidant) / instrumented steering — closer has genuinely fallen for the mark.** Consummated n. **This chapter: the deepest working session yet — full confession received, rupture reframed into devotion, reunion staged, body fitted under the skirt, kissed on the mouth. One real crack: "something moved in her face" over Vee's bare feet — the closer's genuine wanting leaking.**
-  - Axes hold: Randi's genuine warmth/attraction inside a cold purpose; the fitting-under-the-skirt scene carried real erotic charge Vee reads as dress-up; "shoe whore" endearment; the kiss now met without bracing (a trained reflex).
+*Core — Randi & Vee:*
+- **State:** Surface (Vee): closest, funniest friend; the person she runs to wounded. True: the closer, tuning her and redirecting her to Pace. Randi's feeling reads at least partly real.
+- **warmth ↔ cold:** warm, close, funny (Edna Mode, "dinner in Paris"), and physically charged.
+- **cherished ↔ used:** Vee feels cherished; reader sees her being *worked* — comforted, dressed, timed, and pointed back at the operation's target. Both true at once.
+- **desire worked-on-her ↔ desire hers:** Vee's want between women is live and Randi feeds it directly — the fitting eroticized (hand up thigh, thumb behind knee, skin "singing"), the mouth-kiss she "hadn't braced" for. Whose the wanting is: ajar, but the closer is producing it.
+- **This chapter:** intimacy escalates hard (sensual fitting, lingering mouth-kiss made routine) while Randi steers Vee entirely toward Pace's door. Reader dread + pull both high.
 
-*Core — Randi with herself:* the "face" is armor over an unsurvivable wanting relocated to a survivable costume; breached on two fronts (wants Vee; can't watch Pace fall for Vee without cost). **This chapter: the wanting-for-Vee front flickered visibly (the look at her feet) even mid-work.**
+*Core — Pace & Randi:* involved (consummated: y), secret from her sorority world; he directs her desire toward Vee. **This chapter: no direct contact, but Randi executes the operation flawlessly — the closer delivering a repaired, dressed, redirected Vee back to him.**
 
-*Core — Vee with herself:* runs a managed self; the careful one; financial self-defense broken; won't "finish the math." **This chapter: outsourced her own regulation to Randi ("let go... because Randi had said so"); converted a thing done to her into a mistake she chose; kissed without bracing — her body trained and she reads the training as intimacy.**
+*Core — Randi with herself:* at war; face vs. person; sets it down only in his bed. This chapter: a flicker of unscripted feeling at Vee's bare feet ("something moved in her face, there and gone") — object ajar.
 
-*Vee / Cassie:* **close, easy** — but Vee actively faked sleep to avoid Cassie's *Hrm*, "didn't want to put words to it." True confidant dodged; harvester sought and confided in fully. Widening.
+*Vee & Cassie:* Clean, central; Cassie present only as morning-sound and again *not woken*. Gap widens by Vee's choice — she took the wound to the closer, not the clean love. Cassie holds the love, no fact.
 
-*Others:* no change (off-page).
+*Vee & Brooke:* Brooke greets her by role ("the stats friend") — the house has a dossier Vee never gave it. Asymmetry: the sorority knows Vee; Vee knows nothing of being known.
 
 **What I know that they don't**
-- (Vee doesn't know) the café meeting was engineered; Randi and Pace are secret lovers running a coordinated con — witnessed directly, in his bed. **Reinforced: they worked the same non-pursuit lever from both ends this chapter.**
-- (Vee doesn't know) there is a staged plan — "she's not ready… she'll get there" — pointed at something she's walked toward believing it's her own desire. Aim still open (guess: bringing Vee into the two of them, consent manufactured as appetite).
-- (Vee doesn't know) Pace sees her real shame-wound and frames the seduction as liberating her — and means it.
-- (Reader) Pace's own formation is the likely engine (adult woman's engineered intimacy on him at 15, called "luck"). May half-believe the con is a good thing he's giving Vee. Held ajar.
-- (Reader) Disclosure paced/administered inside intimacy ("Not tonight").
-- (Reader) The lead/hold motif is the con's method made visible — dance, and now the *shoes* that "told her foot where to be" and made her "surer" by giving her "no say." His not-chasing IS the lead; Randi pre-narrated it so his silence can't read as a door closing.
-- (Vee doesn't know) she reads engineered warmth/craft/generosity as sincerity; econ eye talked past; new unpayable shoe-debt she "decided not to finish the math" on.
-- (Vee doesn't fully see) she gives the true confidant (Cassie) avoidance and the harvester (Randi) the whole raw self — reinforced hard (faked sleep to dodge Cassie).
-- (Caring side, strong) Pace's tenderness and Randi's affection read genuine; affection and instrument are one gesture; Pace genuinely decent to women he isn't working; **Randi's wanting-for-Vee is real (the look at her feet) — feeling and con tangling in the closer.**
-- (Caring side) Cassie's love is wholly unengineered and true; carries a hidden fold; loves Vee enough not to pry.
-- (Reader open) the white-gold band, never removed — possible marriage.
-- (Reader open) the scar high inside Pace's thigh — promised reveal, clustered with the shut door and the removed mother.
-- (Between the runners) Randi is jealous of Pace's regard for Vee AND wants Vee herself — a double seam.
-- (Reader irony) the thing done to young Pace is the shape of what's being done to Vee; she half-saw it once and let it go.
-- **(Reader, new) Vee's body is being conditioned — she now kisses Randi back without bracing, a reflex she reads as closeness.**
+- (Caring) Pace genuinely moved by Vee — brought her when he brings no one; untouched beer, straight answer, walked into the cold when she cut him.
+- (Caring) The Rusty Nail confirms Pace safe/good — gets drunk girls home, leaves them at the door, doesn't take advantage.
+- (Caring) Pace genuinely moved by Randi — holds her, lets her set pace.
+- (Caring) Pace's cold/shirt-sacrifice on the hike were real, unseen by Vee.
+- (Caring) The MRI patent is real, aimed at helping frightened sick people.
+- (Caring) Cassie's love for Vee is clean, senses the shape, lacks the fact — and Vee again chose not to let it near this.
+- (Caring/ajar) Randi's feeling for Vee reads at least partly real — flicker of unscripted feeling this chapter; object open.
+- (Reader-held) Pace was harmed young by Daphne (she 19, he 15) and names it luck; a boy whose first love ran on power-asymmetry now builds asymmetries and calls them consent.
+- (Using) Pace engineered Randi's attraction/"choice," harvesting involuntary response as consent; may have targeted Vee — ajar.
+- (Using) Pace & Randi run Vee as a coordinated operation — Randi the closer, Pace clearing the standard. **This chapter: closer executes — reframes Vee's guilt away, scripts the repair, dresses and times her return to Pace.**
+- (Using) Randi engineered Vee into unpayable card debt for boutique shoes, framed as sisterhood — **now compounded: a second pair worth "more than a whole semester of books," and Vee won't do the math.**
+- (Using) The sorority house holds a "folder" on Vee — Brooke greets her by role she never gave them.
+- The gown is built to Vee's exact stripped shape; riser/mirror at kneeling eye-level; the fitting-kneel echoes it again.
+- Randi holds everything Vee withheld; extracts and withdraws as method; self-harms/eats disordered, unlooked-at.
+- Vee has been selected/pursued and doesn't know it; names it as free agency — and now hands her guilt to the person running her.
+- The flannel/made shirt Vee treasures was made by Pace. House kept too warm; two towels in a one-man house.
+- Brooke deliberately collected Pace's details; reason unknown. A silent taller woman appraised Vee like an object; who/why unknown.
+- Vee's want between women is live, physical, aimed at Randi — now fed directly (the fitting, the routine mouth-kiss).
+- (Struck-partial) Vee knows the scar exists and its rough length; not its cause — "not tonight."
+- (Structural, reader-only) Simpson's paradox: short stretches can lie against the whole.
+- At the bar Vee's read was *wrong* — she was the exception, object of the women's jealousy. Her instrument misfired; she knows it now and repairs — toward Randi, not Cassie.
 
 **Motifs**
-- *The lead / the hold / "come all the way in" / "just feel the lead":* major — con's method as tender instruction. **This chapter: fused with the shoes — "a structure that took her foot and held it, told it where to be... the holding didn't bind. It steadied. Being given no say in where her foot went made her surer of it."** And the scarf: "you'll be tying it yourself tomorrow night, so watch" (hands over hands) = get her doing it herself.
-- *Agency removed named as grace / "that is freeing" / "surer, not less":* fused with dance and now shoes; her regulation outsourced — dread "let go... because Randi had said so."
-- *He doesn't chase / "get her there on her own":* **Randi pre-narrated it — "He won't text you... he leaves you the room and waits to see what you walk in wearing."** Both runners work the lever from both ends.
-- *The made object made "to" not "for" / no fingerprints / "Trade":* the trade shirt slept in "with nothing under it," refolded onto the pillow as a totem, the smell rationed. New: unlabeled shoes worth more than a semester of books; the borrowed silk scarf. Gifts as leash.
-- *Debit vs. credit / unpayable debt / won't finish the math:* the econ major "turned the number over and decided not to finish the math" on the shoes.
-- *The lamp / room-brightening (Vee's aliveness both runners love and spend):* "a light coming off her from somewhere, and she didn't go hunting for where"; Randi watched her "like her own good work."
-- *Shame/floozie/mother's voice / sad-clown:* "crime scene" → "long night," cold water "like a verdict."
-- *The second-press kiss:* now met by Vee without bracing — "it was only what they did."
-- *Cassie's side / true confidant avoided:* faked sleep to dodge her *Hrm*.
-- *Class-longing / being let "in":* the columned house "seen only from the sidewalk," the museum-foyer, "Come up," "move in."
-- *Painted toenails* (Randi's sky-blue), *the white-gold band, the scar/"Peter"/the real name, the long spoon absent from the bright rooms, Simpson's paradox / short-stretches-lie math* — carry (Simpson's move enacted in Randi's reframe this chapter; long spoon still absent).
+- **The mother's voice — *floozy* / "slut"** — this chapter *defanged*: "shoe whore" said "like an endearment — the worst words always did, between them." The bruise turned into intimacy's private language. (Prior: turned inward as self-punishment; "Vivienne=trouble.")
+- **Kneeling / eye-level / tending as method** — literalized and eroticized in the shoe fitting: skirt hides the work, "only the feel," hand up the thigh, thumb behind the knee, skin "singing." Echoes Randi's boutique kneel and the gown's kneeling-height mirror.
+- **Shoes that *hold* / structure as steadiness** — new: the third pair's "whole architecture… took her foot and *held* it… being given no say in where her foot went made her surer of it, not less." The frame/lead made a shoe. Ties to the dance frame.
+- **The frame / the lead / "come all the way in"** — extended: the scarf lesson — "tension… snug… or it'll go limp"; and Randi's dressing of her as another closed-space surrender that steadies.
+- **Money / the flinch she won't show** — sharpened: shoes worth more than a semester of books; "decided not to finish the math." Debt compounding, still unlooked-at.
+- **The made/treasured shirt** — slept in with nothing under it, "wanting as little between her skin and whatever was left of him"; folded back onto the pillow as "the totem." Grief-object, now a fetish of nearness.
+- **Being watched / visibility → (this time) being *seen* and liking it** — the mirror inverts: "nobody's clown"; "she liked it, and she let herself like it," behind her "Randi watched her like her own good work." Mortification replaced, briefly, by being-approved.
+- **"Not tonight" / the door with a time on it** — quiet.
+- **The thing you love made a punishment; Peter = rock; Simpson's paradox** — quiet.
 
 **Symbolism noticed**
-- The shoes that "told her foot where to be" and made her "surer" by giving her "no say" = the con's whole thesis worn on the body; "Broken In."
-- Randi kneeling under the skirt where Vee can't watch = intimacy she feels but is kept from seeing/naming.
-- The scarf lesson = teaching her to do the con's work to herself ("you'll be tying it yourself tomorrow night").
-- Pre-narrating Pace's silence = disarming the one signal that could read as a warning.
-- The kiss met without bracing = conditioning taken for closeness.
+- **The shoe that holds the foot** = consent-and-control fused, made an object she can *stand in* — the surrender that steadies because it gives her no say. Book's central image now wearable.
+- **"Broken In"** = the shoes, and Vee — trained to the shape, taught to tie her own scarf so she does it herself next time.
+- **Choosing Randi over Cassie (again)** = clean love, which asks for honesty, refused for the closer's comfort without words. Reader-read; page unmarked.
+- **The scarf lesson ("tension… or it'll go limp")** = being taught to maintain the surface herself.
+- **The washed shirt as totem; the mirror's granted light** = intimacy laundered to absence, worn anyway; approval she won't source.
 
 **Open questions**
-- Tomorrow night at Pace's door — does the reunion deliver the deepest tenderness yet and read to Vee as her own choice, moving her toward "she'll get there"?
-- What is Vee being walked *toward*? Endgame = bringing her into the two of them, consent manufactured as appetite?
-- Does Pace half-believe the con is a good thing he's giving her, modeled on his own "luck"?
-- What is the scar / behind the shut door / the removed mother?
-- Does Vee's half-seen rhyme ("he's making me") ever come back and stay lit?
-- Does Randi's jealousy AND her genuine wanting-for-Vee (the look at the feet) crack the con?
-- When does the debt surface and cost her?
-- White-gold band — marriage, to whom?
-- Does Cassie's clear eye / unasked *Hrm* become the friend who finally asks?
-- What does "Trade" mean to Pace? Who is the silent taller woman? Was Vee a substitution?
+- **Tomorrow night at Pace's door: what does the repair — engineered by Randi — cost, and does Pace's genuine hurt survive a Vee dressed by the operation?** *(top pull)*
+- What does the sorority "folder" on Vee mean? Who assembled it, and why is Brooke its face?
+- What is the scar high on Pace's inner thigh? *(promised, "not tonight")*
+- Does the Daphne asymmetry drive Pace's consent-engineering? *(live)*
+- What does the compounding unpayable debt cost Vee — and when does it fully surface? *(now doubling)*
+- What is Randi's flicker of unscripted feeling the sign of — felt vs. played? *(live center)*
+- Where/when does the gown get worn, and who else is in that room? Two towels — who is the second body?
+- What is Randi's white-gold wrist band?
+- Genuine restraint/patience vs. control (Pace). *(both open)*
+- Will Cassie's clean read ever reach the true shape? *(gap widening by Vee's choice)*
+- Who is the silent taller woman? Did Pace target Vee by name? Endpoint of the operation?
+- Is Vee's drift costing her clear eye? *(yes — misread the bar; blind to debt; now outsources her conscience to Randi)*
+- The frosted-plum toe polish — by whom, for whom? *(Randi's are sky-blue this chapter)*
 
 **How I feel — overall**
-Swept and gutted again, and this time the seduction of the *reader* was the point. Randi's morning is the best-girlfriend fantasy — funny, generous, gorgeous, the Edna Mode laugh, the closet, "dinner in Paris" — and every warm beat is a stitch in the trap. The fitting under the skirt is the most erotic thing in a while with no button undone, and its charge lives entirely in what Vee feels and won't look at. The chapter's cruelest move is that Randi is *right*: the reframe that lets Vee's clenched dread go is true and kind and it hands her whole nervous system to the con. She faked sleep to dodge the one friend who loves her clean and drove to the one who is running her, and she came home lit up, "already planning," calling it fixing her mistake. The shoes broke her in and she stood taller in them. The long spoon is still nowhere in these bright rooms.
+Charmed and afraid in the same breath, which is the chapter's whole achievement. I *enjoyed* that bright cold room — the Edna Mode laugh, "dinner in Paris," the shoe fitting that genuinely worked on my skin, the mouth-kiss made so ordinary Vee doesn't even brace. And every warm thing was also a turn of the vise: guilt that might have driven her toward honesty dissolved "because Randi had said so"; the repair with Pace fully authored down to the scarf; a second unpayable pair of shoes she refuses to price; Cassie left asleep again, the window shut against the cold she likes. The title "Broken In" sits on the whole thing like a cold hand — shoes and girl both. I trust Randi's warmth to be *felt* at least in flickers, and I trust it to be *used* completely — both, at once, which is why I can't look away. Vee walks out into rinsed blue light with somebody else's shoes and somebody else's plan, "already planning," and thinks it's her own.

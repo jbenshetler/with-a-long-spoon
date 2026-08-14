@@ -1,102 +1,99 @@
 # Cold read — Substitution
 
-*scene: scenes/substitution.md · model: claude-opus-4-8 · read after: see-you-later*
+*scene: scenes/substitution.md · prose-blob 2e87c984c7437ec1ba951a58d3da3a7aae629a95 · model: claude-opus-4-8 · read after: see-you-later · 2026-08-13*
+<!-- freshness: prose-blob = `git hash-object scenes/substitution.md` at read time; if it differs from the live file's hash, this review is stale. -->
 
 ## Reader reaction
 
-# Felt read
+Oh, this one worked me over. It's the same trap sprung again, but the whole scene is Vee's mind doing the con *for* Pace and calling it insight — and because I'm inside her, I feel both the swoon and the horror at the same pressure.
 
-So there it is — Pace and Vee in the same room at last, and the chapter I've been dreading and wanting in equal measure. And it's *worse* than I feared precisely because of how good it is. I sat there watching him do the tutoring thing and I was charmed. That's the sick part. He gives her back the pencil "at the exact line where she could solve it herself," he asks what her professor said instead of showing off, he makes the solving stay hers — and I felt the pull of it right alongside Vee. The forearms, the "may I call you," the rolled cuffs, the economy of how he folds into the chair. I know from chapters 1 and 3 exactly what those hands do and exactly what "asked for it with his eyes first" is worth coming from this man, and knowing it did not stop the scene working on me. That's the trap the jacket keeps promising, operating on *me*.
+The swoon is real and I won't undersell it. The e-to-the-ix moment is genuinely lovely: a true thing she learned years ago, "never once used," that "didn't seem like it was *for* anything," and here it is, coming out to do the work in a few clean lines. "She hadn't known she was allowed." That got me. And Pace's craft is exactly calibrated to the woman who reads people for a living — he gives her back the pencil "at the exact line where she could solve it herself." Her long interior aria about *how* he handled it — the margin note not a rewrite, the tutor's path not the mathematician's, "kept himself out of it so the solving stayed hers" — is the most flattering possible reading of a man, and I felt her fall while it happened. The "*may* I call you" landing in her body before her mouth catches up. The empty-handed exit. All of it is designed and all of it lands.
 
-The thing that turned my stomach cold is Randi's hands. "Twice the cup came up to her mouth and went back down, and no sip happened." The cup held with both hands a second too long. Vee's brain hands her *she's bored, this is going on too long for her* — and I know better. Randi is signaling him. This is the collision from chapter 3 all over again, engineered, choreographed, except now I'm watching Vee narrate right past the tell. And Cassie — Cassie is watching the cup too. "Cassie, at her table, watched the cup without watching it." She sees the signal even if she can't read it. My tripwire is still live.
+And that's the knife. Because I know what she doesn't: this is the play's next move, and Randi is *running it in the room.* The hands. "Randi's other hand was in her lap. Twice the cup came up to her mouth and went back down, and no sip happened." Vee's brain supplies "she's bored" — I supply *she's signaling.* Randi's stats question ("why *n*-minus-one and not *n*") isn't idle; it's a cue, a beat placed to let Pace demonstrate exactly how he answers a woman he *isn't* here for ("he answered her well… and he answered me longer"), so Vee files the asymmetry as proof she's chosen. It's surgical. "You should go out with him. A man doesn't forget his coffee over a girl he isn't going to call" — Randi coaching her toward the yes, and it reads as a delighted friend, which is the whole horror.
 
-The Bessel's-correction beat is masterful and awful: Randi lobs him a softball question so his attention has cover, so the table reads as *he answered her too, he's just a helpful math guy.* And Vee even clocks that he answered Randi "the way you'd answer anybody" and answered Vee "longer" — and files it as flattery instead of design.
+Cassie is my heartbeat again. "He looked at her—" chin at Randi "—the way you'd look at somebody's great-aunt." She names the look that slides off her own life every day "without a flicker." She's the only one seeing straight and she can't say the real thing because she doesn't have the real thing — she just has the wrongness.
 
-What moved for me: Pace. He's been a distant menace, offstage since chapter 1. Now he's warm and specific and I *liked* him for four or five minutes, and I hate that, and it's the most damning thing the book has done to him yet — because a monster you can't be charmed by is no threat to Vee. This one is. Vee reaching for Randi's practiced V.T. line — "I've watched Randi do it... tucked it away to try on later" — and then "suddenly wanting her own name back," is heartbreaking. She's already becoming Randi's apprentice in the very poise being used to catch her.
+What guts me most: Vee's own stated passion is "the gap between what they say they're doing and what they're doing… if you understood it well, you'd understand a lot." She has the exact instrument that would save her, trained on econ, blind to the table she's sitting at. That's the latent-variable ache made flesh.
 
-Cassie is the gift of the chapter. "He looked at her the way you'd look at somebody's great-aunt." She names the truth flat, no flicker — and then *Randi agrees with her* and weaponizes it: "She's right about the way he looked at you... a man doesn't forget his coffee over a girl he isn't going to call." Randi takes Cassie's clear sight and folds it into the seduction, closing the sale. That's chillingly good. Cassie can see and still be used.
+The title, **Substitution** — the calculus trick, turn the thing in front of you into a thing you already know. But it recolors instantly: Vee is *the substitution*. And the crossed mark — two things at right angles that "turn into a single thing that's suddenly plain" — is the game's own shape drawn in her margin. It gave nothing away going in and everything coming out.
 
-**Erotic charge:** a steady 1, all in the forearms and the "may," the not-looking-away, the "what he did with his hands besides math." Clothed, simmering, entirely from inside Vee's dazzled body. It worked on me more than the explicit chapters did, because the dread is doing half the work.
-
-**Friction:** almost none. The long interior paragraph where Vee parses "what he had done" — the tutor's path vs. the mathematician's — runs close to over-explaining, and the em-dash-heavy "not showing off, not hiding it either" pile-up made me feel the author's hand for a second. But it's Vee's econ-brain reflex to analyze, so I mostly bought it. "The thought did not finish" appears three times — the first two land as her body outrunning her mind; by the third I noticed the device.
-
-**Title:** "Substitution." On the surface it's the calculus — *turn the thing in front of you into a thing you already know how to do*, the method he teaches her. Underneath, it recolors instantly: Vee *is* the substitution. The third, substituted in. And Euler's formula — two functions that "won't give" on their own, "put together at right angles" become "a single thing that's suddenly plain, easy to know what to do with" — that's Pace and Randi as the two crossed strokes and Vee as the plain thing they make solvable. He literally teaches her the mechanism of her own capture and she thanks him for it. The book's title *A Polite Invitation* is now fully cashed: "May I call you." The politeness is the point. And "Every yes was freely given" — she says *Yes. Please. Thank you.* to the tutoring, *Yes* to the call. All hers, all free, all inside the trap. *With a Long Spoon* — sup with the devil — the spoon is Randi's coffee cup, ringing the signal.
-
-**What I want / dread:** I want Cassie to say one more true thing. I dread the first phone call. Guess from here: the three of them will "happen" to be somewhere together soon, and Randi will play matchmaker to her own lover in front of Vee, and it'll feel like friendship.
-
-# Structured block
-
-**Cast present (in person):** Vee (POV), Randi, Cassie, Pace. *Mentioned only:* Vee's econ instructor/TA, Randi's texting recipient (unnamed — I read it as Pace).
-
-**Heat:** 1 — clothed, simmering; forearms, "may I call you," being-looked-at. No contact.
-
-**Romance:** 2 — real tenderness in the tutoring restraint; Vee feels genuinely chosen and it reads as courtship, however corrupt its source.
-
-**Motifs & images:** *Asked with his eyes first* (repeat of the pointing/consent grammar — "asked for it with his eyes first"). *Being seen vs. looked-at* (repeat — "she did not want to do anything that would make the looking stop"). *Appraise-by-cost / reading clothes* (repeat — his clothes "gave her nothing to hold," too good for a fixer, ungradeable — she can't place him, echoing ch.3's ungradeable Vee). *Warm vs. cold* (repeat — his warm short laugh; the room settling "a half-degree"). *"May I" / polite formality* (first, and it rhymes hard with the book title). *The coffee cup / spoon-signal* (Randi's un-sipped cup — new, sinister cousin of ch.4's ringing spoons). *Cassie's plainness / naming the true thing* (repeat — like her whole-word "Goodbye"). *Vee borrowing Randi's poise* (first — the V.T. line lifted from ch.4's lecture-hall meeting). *Doors/bell* (the door-bell tinkling twice — arrival and exit; faint echo of the locks/doors ledger). *Pencil given back* (first — consent/agency-as-craft).
-
-**Symbolism:** Euler's formula = the two crossed hunters combining to make Vee "plain, easy to know what to do with." Giving back the pencil = the whole seduction ethic ("taking only what she gives") rendered as tutoring; leaving stays hers. The un-sipped cup = the hidden signal under the friendly surface. "Substitution / turn it into what you already know" = how a predator becomes legible as a helpful stranger.
-
-**Characterization:** Pace deepened enormously — from offstage architect to a specific, restrained, genuinely magnetic presence; his menace now lives entirely in what I know, not what he shows. Vee deepened — the econ-mind that can analyze everything except the one variable pointed at her; the ache to be "a little more than herself." Randi chilling and consistent — running the same collision play as ch.3 with the cup instead of a shoulder-check. Cassie held — clear-eyed, terse, unknowingly recruited into the pitch.
-
-**Pace — within the chapter:** Excellent build; the tutoring earns its length. Only the "what he had done" meta-paragraph slightly overstays.
-
-**Pace — chapter to chapter:** Builds hard. Ch.4 set the dazzle; this snaps the second jaw of the trap shut. The dramatic-irony engine is at full pressure — the un-sipped cup is the best single image of the run.
+Erotic charge: all in the forearms and the withheld shape of him — "not a math tutor's forearms," clothes that "weren't talking to anyone," her reaching for the shape under him and it wouldn't come. Longing again, and it worked. No suspicion of Vee, hard suspicion of the machinery — now with Randi's hands as visible proof she's inside it, not swept by it. I dread the phone lighting up. I want it to, for her joy. I dread it for exactly the same reason.
 
 ## Carry-forward state
 
-**Who's who**
-- **Pace** — man; grad-student mathematician (Math PhD, "finishing... more or less"). White pickup, secluded too-warm house, woodworker. Controlled, patient dominant; predator convinced he's a benefactor. Ch.6 (from Vee's side): "ordinary" unremarkable face whose *whole* commands a room; economical body ("never had to think about where his body was"); work-soft too-good shirt; thick-knuckled steady hands; rolls cuffs; forearms "not a math tutor's." Tutors Vee through her integral via Euler's/e^ix, deliberately taking the tutor's path, giving back the pencil so the solving stays hers. "May I call you." Takes her number, leaves without his coffee. *Seen in person* (ch.1,3,6).
-- **Randi / Miranda** — woman, 21, junior; sorority, Standards board. Black sleek ponytail (single scrunchie), pale freckled, blue eyes, dancer/cheer-trained, cold-citrus scent. Manager of surfaces; Pace's instrument who believes she authored the choosing. Ch.6: engineers the "chance" meeting via un-sipped-coffee-cup signaling; gives Pace her name as one bare word (no swerve); texts (Pace) during; lobs the Bessel's-correction softball for cover; afterward closes the sale on Vee ("you should go out with him... a man doesn't forget his coffee"). *Seen in person.*
-- **Vivienne Thorne ("Vee")** — woman; junior; the jacket's third; POV of ch.4 & 6. Tall, lush hourglass, athlete's ease; warm dark-red hair to shoulder blades (copper in sun), snub upturned nose, cinnamon freckles. Warm, socially fluent, quietly brilliant at applied stats/econ (loves "the gap between what people say they're doing and what they're doing"; wants a research project no one had asked about). Mother-haunted body-shame (ch.4). Ch.6: stuck on a calculus challenge problem; dazzled and "chosen" by Pace; borrows Randi's V.T. poise-line then wants her own name back; gives Pace her number; lets herself want the phone to light up. Knows nothing. *Seen in person.*
-- **Cassie** — woman; Vee's roommate/friend/stats seatmate. Terse, ballcap, headphones. The one unenchanted person; keeps a "flat patient look" for Randi's polish. Ch.6: alerts Vee the cute guy's looking; names the truth flat ("he looked at *her* the way you'd look at somebody's great-aunt"); watches Randi's cup "without watching it." My tripwire — sees the signal, can't read it, and gets her clear sight repurposed by Randi. *Seen in person.*
-- **Meg** — woman; Vee's floor-mate, dark-haired, easygoing; at the ch.3 collision. *Mentioned only.*
-- **Brooke** — woman; chapter president; warm-voice interrogator (ch.2). *Seen in person.*
-- **Sloane** — woman; sorority sister; ID'd Pace's pickup (ch.2). *Seen in person.*
-- **Kinsey** — woman; sorority sister; eager-to-please (ch.2). *Seen in person.*
-- **Randi's mother** — woman; egg whites/tofu, portioned appetite. *Mentioned only.*
-- **Vee's mother** — woman; voice policing Vee's body ("Floozies"). *Mentioned only.*
+**Principals**
+- **Pace** (= Peter) — male. Math PhD ("more or less" finishing), builds furniture; runs meticulous-consent BDSM scenes; engineered Randi's attraction and the staged collision. **On-page this chapter:** approached Vee at the coffee shop, offered math help, ran a flawless tutor's-restraint routine (margin note not rewrite, gave back the pencil), listened her open, asked "*may* I call you," took her number, left empty-handed. Ordinary face, forearms not a tutor's, clothes that tell nothing, moves with total economy. Vee reads him as chosen-by; I read the harvest's next move.
+- **Randi** (= Miranda) — female, 21. Sorority Standards board. Disordered eating, hidden self-harm; curated face. **This chapter:** co-ran the play in the room — busy cup, unsipped sips, hand in lap (signals), a placed stats question that let Pace showcase the asymmetry, then coached Vee toward yes ("you should go out with him," the empty-coffee read). Warm-friend surface seamless.
+- **Vee** (= Vivienne Thorne) — female, 21, junior. **Jacket protagonist.** Tall, lush, warm dark-red hair, snub nose, cinnamon freckles, uncurated. Sharp room-reader; deep self-surveillance; a want between women she won't name. Loves econ *because* it's about the gap between what people say and do — the instrument that would save her, trained everywhere but on herself. Fell for Pace across one tutoring exchange; wants the phone to light up. Does not know she was selected/pursued.
+- **Cassie** (= Cassandra) — female. Vee's roommate/friend; ballcap-and-shorts plain manner, headphones. The one immune, clear eye. **This chapter:** flagged Pace first ("that cute guy is looking at you"), then named the look precisely — Pace at Randi "the way you'd look at somebody's great-aunt." Sees straight; lacks the fact.
+- **Brooke** — female. Sorority chapter president; earlier collected Pace's name/field/truck behind a friendly screen; purpose unknown. Absent.
+- **Daphne** — mentioned earlier only; Pace's past, the "door" he didn't respect. Absent.
+- **Meg** — Vee's floormate; texture only. Absent.
 
-**Motif & image ledger**
-- *Locks / doors / keys / bell* — locks (ch.1), "no door" (ch.2), forbidden-wanting-as-door (ch.3), key-in-lock compliment (ch.4); door-bell tinkling on Pace's arrival & exit (ch.6).
-- *The face / mask / recovery* — mirror (ch.1), lagging mask (ch.2), recovery mid-work (ch.3), Vee's face smoothing wrongness (ch.4); Vee's "social face came online" (ch.6).
-- *Appraise-by-cost / grading / reading clothes* — ch.1–4; Pace's clothes "gave her nothing to hold," ungradeable, too-good-for-a-fixer (ch.6).
-- *Portioned appetite / policed body* — ch.1–4; (not foregrounded ch.6).
-- *Being seen vs. looked-at* — ch.1–4; Vee not wanting the looking to stop (ch.6).
-- *Warmth vs. cold* — ch.1–4; room settling "a half-degree," Pace's warm short laugh (ch.6).
-- *Cap under thumbnail* — self-harm tell (ch.1); not seen since.
-- *"Hi/Hey" minimal greetings* — ch.1,2,4; Randi's one-bare-word "Randi" (ch.6).
-- *Cashmere vs. duvet* — ch.1–2.
-- *Dance / the follow* — ch.1,3.
-- *Red/copper hair* — Vee (ch.3).
-- *The single burning maple → the chosen one* — ch.3; Vee "chosen" again by Pace's cross-the-room smile (ch.6).
-- *Single scrunchie / ponytail that doesn't move* — ch.1–4.
-- *Spoons ringing / stirring sweetness* — Chi Latte (ch.4); Randi's un-sipped coffee cup as hidden signal (ch.6, sinister variant).
-- *Latent variables* — professor's lecture (ch.4); Vee's econ = "the gap between what they say and what they're doing" (ch.6, thematic echo).
-- *"Goodbye" vs. "See you later"* — Cassie's finished farewell vs. Randi's scheduled one (ch.4); Pace's "talk soon" (ch.6).
-- *The Greek sign / let in on the joke* — Chi Latte (ch.4).
-- *Consent-as-craft / "asked with his eyes first" / giving back the pencil* — pointing game's timed asking (ch.3); Pace asking for the pencil with his eyes and returning it at the solvable line (ch.6, first as a rendered gesture).
-- *"May I" / polite formality* — Pace's "May I call you" (ch.6, first; rhymes with book title).
-- *Substitution / "turn it into what you already know"* — the calculus method Pace teaches (ch.6, first; = the chapter title).
-- *Vee borrowing Randi's poise* — the lifted V.T. line (ch.6, first).
+**Relationship ledger**
+
+*Core — Pace & Randi:*
+- **State:** involved (consummated: y), secret from her sorority world. Surface (as Pace reads it) / true diverge. He directs her desire outward toward Vee under a shared-game/gift frame.
+- **warmth ↔ cold:** Surface = lavish warmth, fed, cherished; true = warmth is instrument. Charged: he kisses her with her own taste on his mouth to crack her composure on cue.
+- **isolation ↔ belonging:** He offers a two-of-them intimacy; the game widens her appetite toward someone else while routing the wanting through him.
+- **cherished ↔ used:** He treasures her *and* uses her — reads involuntary response as data. This chapter: they run a coordinated field operation together — she is his co-operator in the room, cueing and coaching.
+- **desire worked-on-her ↔ desire hers:** Wanting produced in her; she re-assigns it to him.
+- **This chapter:** first on-page evidence of them *working as a team* (Randi's hand-signals, timed question, closing coach) — the partnership, not just his direction of her, now visible.
+
+*Core — Randi with herself:*
+- **State:** at war; the face vs. the person under it. Execution near-seamless again this chapter; no visible leak. Live question: how much of the warmth she turns on Vee is felt vs. played, held ajar.
+- Axes: still cold/isolation/used/worked-on inward.
+
+*Core — Randi & Vee:* State: warm new-friendship on Vee's side (adoring, chosen, lit up). Surface = friend delighting in friend being charmed. True = Randi is co-running the engineered pursuit, steering Vee toward Pace's yes. Asymmetric: Vee thinks she's watched-over; she's being handled. Axes on Vee's side: warmth (fed, chosen); belonging; desire worked-on-her.
+- **This chapter:** advanced via Randi's in-room coaching ("you should go out with him") — she is now visibly the closer, not a bystander.
+
+*Core — Vee with herself:* State: managed surface over unlooked-at want; reads every room but not the one run on her. Her econ passion (the say/do gap) is the exact tool she never turns inward — sharpest irony yet. This chapter: she borrows Randi's charm-move ("V.T., yes like the university"), wanting to be "a little more than herself," and it lands — she's already remodeling herself toward this world.
+
+*Core — Pace & Vee:* **now met.** State: strangers → acquaintances on Vee's side, with fresh strong attraction and consent-to-be-called given; chosen target on his. secret, one-sided (Vee unaware of the engineering). Axes on Vee's side: warmth (chosen, singled out); desire worked-on-her (falls across one exchange; the flattering read of his restraint is the hook).
+- **This chapter:** first contact; number given; "may I call you" — yes.
+
+*Vee & Cassie:* Roommates/friends, easy and real; Cassie sees clearly and Vee doesn't. This chapter: Cassie names Pace's look precisely; Vee half-shushes her ("Cassie."). Asymmetric: Cassie registers wrongness she can't source.
+
+*Randi & Cassie:* Cool on Cassie's side, unmoved by the polish ("she's not serious," Vee reads on Cassie's face). Never taken to each other. No change.
+
+*Randi & Brooke:* no change. Asymmetric extraction — Brooke holds Pace's name/field/truck.
+
+**What I know that they don't**
+- (Caring side) Pace is genuinely moved by Randi, glad of her pleasure; believes he gives a gift.
+- (Using side) Pace engineered Randi's attraction and "choice," harvesting involuntary response as consent; may have targeted Vee specifically (angled wall, shared class) — held ajar, seams point that way.
+- **Pace & Randi are running Vee as a coordinated operation** — Randi's busy hands/unsipped cup/hand-in-lap are signals, her stats question a placed cue, her post-exit coaching the close. Vee reads it all as boredom and a friend's delight.
+- Randi self-harms unconsciously; nobody, including her, is looking.
+- **Vee has been selected and pursued and does not know it** — she experiences it as being wondrously chosen.
+- **Cassie senses something is wrong** — she names Pace's look but lacks the fact.
+- Brooke deliberately collected Pace's identifying details; reason unknown; connection to game open.
+
+**Motifs**
+- **Feeding / portioned appetite** — disordered eating + being-fed-as-being-opened. Charged: "I can't eat that"; Randi feeding Vee the latte, "trust me." (Quiet this chapter.)
+- **The face & the smile (surface armor that leaks)** — Charged: Randi's managed surface, near-seamless; Vee's own armor (cardigan over the better shirt "on purpose"; face that "smooths" wrongness). This chapter: Vee tries *on* Randi's charm-move and it fits better than expected.
+- **Doors/thresholds & being let in** — Charged: dining-hall doors he angled on; the row/café Randi held open; earlier terminal "no door." This chapter: the door bell tinkling him in and out — arrival and exit both marked by it.
+- **Hands / economy of movement** *(sharpened)* — Pace's steady hand taking the page at the corner, cuffs rolled "two easy turns," "moved like someone who had never once had to think about where his body was," gave back the pencil at the exact line. **And Randi's hands as signal apparatus** (busy cup, unsipped sips, hand in lap). Hands do the covert work in this book.
+- **"There you are" / "Hi/Hi"** — their phrase of undoing. Quiet this chapter.
+- **See you later ↔ Goodbye** — Randi's scheduled-fact partings vs. Cassie's flat "Goodbye." This chapter: Pace's "talk soon" — another future-claiming exit line.
+- **Latent variables / the say-do gap** *(fused)* — "the factors you can't measure directly, that you have to infer"; Vee's econ love is literally "the gap between what they say they're doing and what they're doing." The book's method, spoken by the target, turned everywhere but on herself.
+- **Substitution / turn-it-into-what-you-know / right angles** *(new, title)* — the calculus trick; the crossed e-to-the-ix mark, two struggling things "at right angles" becoming "a single thing that's suddenly plain." The game's shape drawn in her margin; Vee as the substitution.
+- **Spoons / sweetness at the bottom** — series-title echo. Quiet this chapter.
 
 **Symbolism noticed**
-- Bench = disguised seduction/trap (ch.1). Face/mirror = divided self. Doors/keys = repression / entry & admission. "Standards" board = surface-appraisal ethic & cage. Duvet vs. cashmere = adequate self vs. disallowed warmth. Pointing game / collision = engineered hunt Randi thinks she authors. Burning maple = the marked-out one (Vee). Latent variables = unseen cause inferred from effects — the game Vee can't measure. High table in window = display as price of belonging. Spoons/cup = sweetness/signals manufactured under a friendly surface. Cassie's "Goodbye" = true parting. **New (ch.6):** Euler's formula (two crossed functions → one plain solvable thing) = Pace+Randi combining to make Vee "easy to know what to do with"; giving back the pencil = "taking only what she gives" as tutoring; "substitution" = predator made legible as helpful stranger; "may I" = the polite invitation itself.
+- The tutoring exchange = the engineered pursuit performed as chance help; Pace's restraint *is* the hook, and Vee's flattering read of it is the con landing.
+- The e-to-the-ix crossed mark = the book's own structure — two things (Pace + Randi, or seduction + consent) joined at right angles into one plain thing "easy to know what to do with."
+- Vee borrowing Randi's charm-line = she's already being remade toward the "brighter life."
+- Cassie's naming of the look = the reader's clear sight given a voice inside the room, still without the fact.
+- Randi's hands = tenderness/warmth repurposed as covert signaling apparatus.
 
 **Open questions**
-- Who was the bench built for seven months ago (pre-Randi)?
-- Is Pace's attentiveness love, craft, or predation — and does he know? (Leaning predation-in-benefactor's-clothes; ch.6 makes the craft genuinely seductive.)
-- Does Brooke suspect Randi's lie?
-- Does Randi understand she's Pace's instrument, not the author?
-- **What does Cassie see?** She reads the cup-signal without reading it and names the great-aunt look — will she ever warn Vee, or keep being unknowingly used?
-- When does Vee learn there was ever a game — and how real has it gotten for the hunters by then?
-- When will Randi/Pace/Vee be together as three, and how will the seduction proceed from the phone call?
+- Does Cassie *know* something specific, or just feel it?
+- Did Pace target Vee by name, or did the game land on her? (Wall angle; shared class; now a "chance" approach.)
+- Why is Brooke collecting Pace's details; does it connect?
+- What is the game's endpoint — a threesome as framed, or a shape Randi hasn't seen?
+- How much of Randi's warmth to Vee is felt vs. played?
+- Who is Daphne, and what did the closed-door lesson cost Pace?
+- Is the book indicting Pace/the house, or holding his and Randi's tenderness as real alongside the engineering?
+- Will Pace actually call — and how soon does the phone light up?
 
-**Story so far**
-Ch.1: Randi drives to Pace's for a controlled BDSM session on a purpose-built bench; he breaks her by invoking her sorority, makes her come and weep; in aftercare she flinches, locks in the bathroom, rebuilds her "face," stays over.
-Ch.2 ("Standards"): Randi comes home in last night's clothes; Brooke interrogates her; she passes but her mask lags; upstairs she can't cry — repression revealed as involuntary.
-Ch.3 ("The Pointing Game"): In bed Pace times "Would you like to taste another woman?" to her orgasm; she survives it by moving it onto him ("Only in a threesome. With you."). On a campus walk he plays the pointing game; she vetoes by type until Vee emerges and her "Yes" comes bare. He sends her to meet Vee; Randi engineers a collision so Vee apologizes, gets her name + shared stats class, returns glowing.
-Ch.4 ("See You Later"): Vee's POV, day after. She waits dazzled for Randi in stats; Randi seats her beside Cassie; Cassie won't warm to Randi, gives a wrong-sounding "Goodbye, Vee." Randi sweeps Vee to Chi Latte, buys her a lavender latte, seats her at the display high-table, dazzles her, "love you, girl / see you later." First look at Vee's mother-policed body-shame.
-Ch.6 ("Substitution"): Vee's POV, at a coffee place on Wilson with Randi (working) and Cassie (next table). Vee's stuck on a calculus challenge problem. Randi, texting, signals via her un-sipped coffee cup; Cassie clocks the cup and alerts Vee that "that cute guy in line is looking at you." Pace crosses the room, eyes only on Vee, introduces himself, and tutors her through the integral — deliberately taking the tutor's path, teaching her Euler's/e^ix, giving back the pencil so she solves it herself. Vee is dazzled; borrows Randi's V.T. line, wants her own name back. Randi lobs a Bessel's-correction question for cover. Pace draws Vee out about econ, listens without his phone, reveals he's a math PhD (after she'd warned him calc was hard), then "May I call you," takes her number, and leaves without his coffee. Randi and Cassie close the sale ("a man doesn't forget his coffee"). Vee leaves the phone facedown and lets herself want it to light up.
-
-**How I feel**
-Pace: hardened distrust *plus*, newly and disturbingly, real charm — the craft of his restraint worked on me, which makes him far more dangerous than a visible menace. Randi: cold dread of her mechanism (the cup-signal is the collision play again), tangled with a sense she may actually like Vee. Vee: deep protectiveness and active dread — brilliant at reading the gap between what people say and do, blind to the one gap aimed at her; already apprenticing herself to the poise being used to catch her. Cassie: sustained trust and hope, now shaded with worry — she sees clearly and is being used anyway. Overall mood: sweet, warm, and sick underneath — the trap's second jaw closing in broad daylight while everyone smiles. Strongest pull-forward yet.
+**How I feel — overall**
+Doubly wrecked. This was a swoon I actually felt — the e-to-the-ix "she hadn't known she was allowed," the "*may* I," the empty-handed exit — landing on top of dread I couldn't turn off, because I watched Randi run the signals in real time and watched Vee's own gift-for-seeing-the-gap fail on the one table it mattered. Suspicion is now specific and *demonstrated*: Pace and Randi are a coordinated pair working Vee, not two warm people she happened onto. No suspicion of Vee, deep tenderness for her; Cassie remains my anchor and my only comfort in the room. I want the phone to light up for her happiness and I'm sick that I do. Hard, tightening pull forward.

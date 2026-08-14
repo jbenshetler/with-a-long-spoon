@@ -1,102 +1,131 @@
 # Cold read — Made-Up
 
-*scene: scenes/made-up.md · model: claude-opus-4-8 · read after: we-find-out*
+*scene: scenes/made-up.md · prose-blob e141a398f36b0775b7abedf05d5cee67fbcc4d34 · model: claude-opus-4-8 · read after: we-find-out · 2026-08-13*
+<!-- freshness: prose-blob = `git hash-object scenes/made-up.md` at read time; if it differs from the live file's hash, this review is stale. -->
 
 ## Reader reaction
 
-After the vertigo of the last chapter, this one is a held breath let out slow — and it's a *swoon*, cleanly. Vee driving the whole thing: two costumes, the dress and then the dress gone. She reaches first again, she puts him in the chair with a flat hand and he *stays*, and the entire erotic engine of the scene is her walking a lamplit hall while he doesn't move. "She watched him make himself do it." I loved that. The heat here is all restraint — his hand that "came partway up and he put it away again, and the putting-away cost him something she could see." That's the charge for me, more than any touch would have been.
+This one is almost pure swoon, and I let it be. No Randi, no bet, no method visible on the surface — just Vee getting ahead of her own half-plan ("her body on its feet while the rest of it was still arriving"), driving out in his too-big boots to fetch the dress she brought without letting herself admit she brought it. That detail undid me a little: she packed no overnight bag "for a night she wasn't letting herself plan on — and she'd brought the dress." The pretending she named at the mirror last chapter is still running, and she's still lovable inside it.
 
-And the dress. She brought only the dress — "no overnight bag, nothing for a night she wasn't letting herself plan on — and she'd brought the dress." That got me twice: the tenderness of wanting its maker to finally see the finished thing ("The finished thing had crossed a stage for everyone but its maker"), and the quiet dread underneath it, because I remember whose hands made it and what plenty-as-gift has meant every time before. But the page isn't playing that as menace tonight, so I won't force it. Tonight it plays as her offering, freely, and it landed on me as offering.
+The two-costume structure is a lovely piece of control-reversal. *She* puts him in the chair, *she* holds up the flat hand and watches him make himself sit back down, *she* runs the walk "the room got" and then strips it to nothing and walks it again. All week her body has arrived before her head; here she authors the whole thing and gets to watch *him* be the one who can't keep still — his hand that "came partway up and he put it away again, and the putting-away cost him something she could see." That's the flinch-wall again, in a gentler key: she's found she can move him. I rooted for her the whole way.
 
-The reveal itself — the "careful way first," small steps, slit shut, then the induction stride "given and taken back and given" — and then the second costume, just the heels, "the heels stayed on. That was all of it." "The pink was not stopping there, and knowing that, and going anyway, was the entire costume." That's the best single line of agency Vee's had: the *going anyway* is the erotic act, not the nakedness. She doesn't cover one inch. After a chapter where her body decided without her, here she decides *with* it, out loud, in advance. That's a real move, and it warmed me toward her enormously.
+His line landed clean: "That's like asking me to choose between sunrise and sunset… The other is for the world. This is just for me." It's exactly the register that's kept me both melting and wary all book — the perfect thing, said perfectly. Tonight I mostly just melted. The finished dress "had crossed a stage for everyone but its maker," and the whole chapter is her correcting that, giving the maker the private viewing. Sweet, and earned.
 
-Pace: "That's like asking me to choose between sunrise and sunset. […] The other is for the world. This is just for me." Swoony on the surface — and this is where my two feelings sit right on top of each other. "This is just for me" is exactly the enclosed-country note: the one place she can be this unashamed is his house, his terms, no witness. But the line is also just *tender*, and he stays put through the whole thing, and I believe the wanting. The book keeps making me hold both, and tonight it tilts warm.
+Trust vs. suspicion: the machinery is entirely offstage this chapter, and I didn't manufacture a shadow. The only faint cold current is structural memory — that "just for me" is the same claim of a sealed private country the bed made last chapter, and I know that sealing cuts both ways. But the page didn't push it, so I won't. The heat is a 1, all charged clothed-then-unclothed tension, the blush "going down and down" and her not covering an inch — restrained on purpose, and it works better for it.
 
-Trust vs. suspicion: nothing on this page earned new suspicion. Randi is entirely absent — not even invoked as a template this time — and I noticed that. This is the most Vee-alone-with-Pace the book has felt, no trainer in the frame at all. That's either the con relaxing its grip because she's fully caught, or a genuine pocket of the real thing. I can't tell, and the page doesn't tell me. The gift-heels (Randi knelt to buckle them) are the only thread of the outside world touching this room.
-
-The title, "Made-Up": Halloween, costumes, made-up faces — literal. But it rings three ways for me: her face gone pink "down to where the mirror gave out," made up with blush she can't stop; *made up* as reconciled, two people easy with each other; and *made-up* as invented, fabricated — the costume, the pretend, "everyone out being somebody else on the one night a year nobody had to explain it." That last one is the quiet needle: on the one night everyone gets to be someone else, she takes the costume *off* to be seen. That's the reversal the title's pointing at, and I found it lovely rather than sinister.
-
-*A Polite Invitation* / *With a Long Spoon* / the tagline — I still don't carry a tagline in my state, so I'll leave that. The long spoon stays absent again; this is a close-quarters chapter with no long-handled distance in it at all, which is almost the opposite of the series image, and I notice its absence as its own kind of warning.
-
-What I want next: I want this to have been *hers*. I want to know whether tonight gets carried back to Randi or stays the one thing Vee keeps — that open question is still open and this chapter didn't touch it. *Guess from here:* the warmth is being banked so its withdrawal, when it comes, lands harder. But tonight I just let it be good.
+Title: "Made-Up" — costume/Halloween on the surface (the one night nobody has to explain being somebody else), but it points straight at her, the girl who's been *making up* a story that she's not going to sleep with him, LARPing a modesty she's shedding. And "made up" as in invented, as in the pretense she's finally dropping by walking that hall in nothing. Sits right on the chapter without giving anything away.
 
 ## Carry-forward state
 
 **Principals**
-- **Pace** (= Peter): young math PhD; powerlifter; furniture-maker; MRI patent. Ordinary pleasant face, light brown hair, thick calloused hands. White pickup; small post-war house off six-fourteen. Real name Peter; engineered "tutor" at 15–17 called "the best two years"/luck; lifting as self-erasure. Gets drunk girls home, leaves them at the door, doesn't chase. Scar high inside thigh, surgeon's line. Interior warmth for Vee genuine and unrecognized; also runs intelligence. **This chapter (on-page): the receiver — put in the recliner by Vee's flat hand and stayed put through both reveals; didn't touch, didn't pry, let looking be the touch; "sunrise and sunset," "This is just for me." The one who made the dress, finally seeing it finished.** NOTE: Randi's "slight little thing, soft-spoken" lover does NOT match Pace physically — do not merge.
-- **Randi** (= Miranda): 21, junior, sorority Standards; black hair, blue eyes, dancer's body, cold-citrus scent; plain white-gold band never removed. Virtuoso extractor; dark-green Mercedes. Secretly Pace's lover and Vee's closer; cultivating Vee's spanking-appetite. **Fully off-page this chapter — present only as the hands that knelt to buckle the heels Pace has never seen under the dress. Not even invoked as template. Her total absence noted.**
-- **Vee** (= Vivienne): jacket protagonist. Tall lush hourglass, copper hair, snub freckled nose. Econ major; from Ohio; hungry to be chosen and let in; the careful one. **This chapter (her POV): the mover — planned and ran a two-costume Halloween reveal, all her agency. Reached first again; brought only the dress (no overnight bag); walked the induction stride for its maker, then walked the hall in only the heels, "going anyway" as the whole costume; did not cover one inch. Decided *with* her body, out loud, in advance — the counter-note to last chapter's body-deciding-without-her.**
-- **Cassie** (= Cassandra): Vee's roommate/friend; clever, warm, loves-by-holding; least-engineered, wholly true bond. Off-page.
-- **Sheri**: Pace's Saturday riding partner; small child-sized frame, bleached ponytail; reads queer, can turn cold. Off-page. Open thread: was she the poisoning "blonde girl"?
-- **Meg**, **Brooke** (Randi's sister), **Kayla**, **Christine**, **Theo**, **the silent taller woman** (unnamed, open), **the older bartender** — off-page.
+- **Pace** (= Peter) — male, 22. Math PhD near done, powerlifter, builds furniture (the dinner, the table, the chair, the dress); runs meticulous-consent scenes; engineered Randi's attraction and the staged collision. Unguarded, smitten warmth about Vee. Running Vee and Randi at once; "Randi. That's not finished." Gets drunk girls home, leaves them at the door. Skipped to college ~14–15. Large scar high on inner thigh — still untold. Names Daphne's harm as luck. This chapter: **held to the chair by Vee** — his hand rose to touch and he put it away, visibly costing him; let the looking be the touch; gave her the sunrise/sunset line and "this is just for me."
+- **Randi** (= Miranda) — female, 21. Sorority Standards. Disordered eating, hidden self-harm; curated face; sets it down only at his door. The closer — comforts, reframes, dresses, times, scripts; ran Pace's method on Vee live. Buckled Vee's heels in the boutique (the heels that stay on tonight). **Absent this chapter.**
+- **Vee** (= Vivienne Thorne) — female, 21, junior. **Jacket protagonist. POV.** Tall, lush, warm dark-red hair, snub nose, cinnamon freckles. Econ; sharp room-reader turned self-doubting; lifelong body-shame; broke, hidden card debt. This chapter: **authored the scene** — brought the induction dress unadmitted, performed two costumes, put Pace in the chair and kept him there, walked the dress and then nothing, blush "down and down" and covered nothing; the pretending she named last chapter still quietly running underneath ("a night she wasn't letting herself plan on").
+- **Cassie** (= Cassandra) — female. Vee's roommate/friend; clean love, immune clear eye; soccer. Absent. Bond restored and clean.
+- **Sheri** — female. Pace's cycling friend ~2 years; reads him better than he reads himself; warned two-at-once "will be" complicated. The one honest voice. Absent. *(Open: possibly = "older bartender.")*
+- **Brooke** — Randi's sorority sister; the house has a folder on Vee. Absent.
+- **Daphne** — Pace's first, assigned older tutor: she 19, he 15. Mentioned-only; harm ajar. Absent.
+- **The blonde girl** — at the bar Thursday; told Vee Pace "knows how to get a girl to do just what he wants." Named-only, unidentified. *(Open: planted?)* Absent.
+- **Meg** — dorm friend; sourced dance clothes. Peripheral, absent.
+- **The older bartender** — corrected the record. Absent. *(Open: may = Sheri.)*
 
 **Relationship ledger**
 
-*Core — Pace / Vee:* **involved, consummated (y); spanking-appetite consummated on-page prior; reconciled; easy and domestic.** Surface (Vee): a sweet good man who receives the shamed part of her as good and treasures her; tonight, one she can strip fully bare in front of and not cover. True (reader): the con's payoff — but this chapter reads almost wholly as her freely-chosen offering, the darkness backgrounded to the gift-heels alone. *This chapter:* she led entirely; he received in stillness. Axes: **desire hers** — this chapter tilts hard to her *own* appetite, decided in advance, no engineering in frame; **warmth** felt-real, quiet and domestic (dishes, wine, music); **belonging** lit (his lamp, his chair) AND still his enclosed country ("just for me"); **cherished** held from last chapter, quieter here — received in stillness rather than named.
-- *no state change; the milestone flags from prior (consummated y; appetite acted; cherished lit) all stand.*
+*Core — Pace & Vee:*
+- **State:** involved (consummated: y — five+ times). secret, one-sided (Vee unaware of engineering). Care real and costly *and* serves a built apparatus. Reconciled.
+- **warmth ↔ cold:** fully warm on both surfaces; tonight domestic and playful — dishes, wine, "just for me." Reader-cold underneath the apparatus, but the machinery was entirely offstage this chapter; nothing pushed it.
+- **isolation ↔ belonging:** the sealed private country again — "the other is for the world. This is just for me"; the viewing "that mattered… ten steps down a hall." Belonging as narrowing to a room of two; the page kept it warm.
+- **cherished ↔ used:** cherished pole held strong; she gives the maker his private debut, he takes his time "about the taking." No instrumenting visible this chapter.
+- **desire worked-on-her ↔ desire hers:** **hers, most sovereign yet** — she plans, drives, directs, holds him in the chair, watches *him* fail to keep still. Body still gets ahead of head ("her body on its feet while the rest of it was still arriving"; "her hip cocked out on its own"), but this time in the service of her own authored act.
+- **This chapter:** big move toward *her* desire and her authorship; she is the one doing the reaching and he the one being held. Warmth up on both surfaces; machinery quiet, not gone.
 
-*Core — Pace / Randi:* **involved, consummated (y); secret; coordinated con.** No on-page interaction; Randi wholly absent. White-gold band still loaded; jealousy-seam over his regard for Vee unaddressed. *This chapter:* no change; the con entirely out of frame for once.
+*Core — Vee with herself:*
+- **State:** managed surface over unlooked-at want; the disowning still loosening — she brought the dress while telling herself she wasn't planning the night. Names less this chapter but *acts* the dropped pretense: walks the hall in nothing, "going anyway… the entire costume." Still won't ask about the scar; still won't do the debt math.
+- **This chapter:** the "Victorian LARPing" she named last chapter enacted as its own undoing — she stages her own exposure and doesn't cover an inch.
 
-*Core — Randi / Vee:* **intimate front / instrumented steering — closer who has genuinely fallen for the mark. Consummated n.** *This chapter:* Randi off-page and un-invoked; the bed/this night again kept from her — no template borrowed tonight, the scene wholly Vee-and-Pace.
-  - *desire worked-on-her ↔ desire hers:* this chapter **hers** — decided in advance, out loud; no engineering visible.
-  - *warmth ↔ cold:* quiet (Randi off-page).
-  - *cherished ↔ used:* quiet — no instrumentation visible on this page; only the gift-heels tether persists.
-  - *isolation ↔ belonging:* "just for me" = the enclosed country persists as belonging-that-narrows.
+*Core — Randi & Vee:*
+- **State:** attracted → effectively consummated-in-charge (Vee aroused to soaking by Randi in person; no touch beyond the worn-in kiss). Surface (Vee): closest, funniest friend. True: the closer, running Pace's method. Flag stands.
+- **axes:** unchanged — quiet (Randi absent). Faint present trace: Randi buckled the heels that stay on tonight.
+- **This chapter:** no change.
 
-*Core — Randi with herself:* the "face" as armor over relocated wanting; breached and widening. No new data (off-page). Carry forward.
+*Core — Pace & Randi:* involved (consummated: y), secret from her sorority world; he directs her desire toward Vee. "That's not finished." No change (Randi offstage).
 
-*Core — Vee with herself:* runs a managed self; the careful one. **This chapter, the counter-beat: she decides *with* her body and ahead of it — planned the reveal, walked the hall naked "going anyway," did not cover one inch, "was not stopping there... and going anyway, was the entire costume." Where last chapter the guard came down and she called surrender relief, here she chooses the exposure in advance and owns it. Still lacks the word for what she is.**
+*Core — Randi with herself:* at war; face vs. person; sets it down only in his bed. Flicker of unscripted feeling — ajar. No change (absent).
 
-*Pace / Sheri:* no change. Open: was the poisoning blonde her?
+*Pace & Sheri:* Two-year cycling friendship; blunt; reads him better than he reads himself; warned two-at-once complicated. The one honest voice. No change (absent).
 
-*Vee / Cassie:* **close, easy — the truest, unengineered bond.** Off-page; held.
+*Vee & Cassie:* Clean, central, recovered and accepted. No change (absent).
+
+*Vee & Brooke:* Asymmetry — sorority knows Vee (dossier); Vee knows nothing. No change.
 
 **What I know that they don't**
-- (Vee doesn't know) the café was engineered; Randi and Pace are secret lovers running a coordinated con; the reunion was Randi-architected.
-- (Vee doesn't know) the blonde at the bar told her the *truth* about Pace; the reunion converted it into Vee's guilt; Pace extracted its content.
-- (Vee doesn't know) Randi cultivated the spanking-appetite; it was consummated by Pace; the confidante she runs to is her trainer.
-- (Vee doesn't know) the bet was a structure with no refusal — consent extracted and relabeled "finding out."
-- (Reader open) the man in Randi's "Mine" story does NOT match Pace physically — real past lover or fabrication.
-- (Reader open) whether the poisoning blonde was Sheri.
-- (Reader, both true) Pace's interior warmth AND the method — this chapter reads almost purely as warmth, the method entirely offstage.
-- (Reader, caring side) Cassie's love wholly unengineered; Randi's wanting-for-Vee partly real.
-- (Reader open) white-gold band — possible marriage, to whom.
-- (Reader open) the scar / shut door / removed mother — Vee has chosen to keep the scar unasked.
-- (Between runners) Randi jealous of Pace's regard for Vee AND wants Vee herself — double seam, widening.
-- (Reader irony) what was done to young Pace ("luck") is the shape of what's being done to Vee.
-- (Reader) the bed/night as the one place kept even from Randi — reinforced tonight (Randi wholly absent, un-invoked); still unresolved whether it gets reported back.
-- (Reader) the dress and heels are both gifts from the runners (Pace made the dress; Randi buckled the heels); tonight Vee turns them toward Pace as her own offering — the leash worn as her own choice.
+- (Caring) Pace genuinely moved by Vee — the weekend tenderness real and involuntary; the unplanned aftercare and the whole form of scrunchies; tonight, held in the chair, his hand rising and put away at cost.
+- (Caring) The Rusty Nail confirms Pace safe/good — gets drunk girls home, leaves them at the door.
+- (Caring) Pace genuinely moved by Randi — holds her, lets her set pace.
+- (Caring) Pace's cold/shirt-sacrifice on the hike were real, unseen by Vee.
+- (Caring) The MRI patent is real, aimed at helping frightened sick people.
+- (Caring) Cassie's love for Vee is clean, senses the shape, lacks the fact.
+- (Caring/ajar) Randi's feeling for Vee reads at least partly real — but foregrounded as the working closer; hard to trust. Her spanking "story" did not match Pace's actual gentleness.
+- (Reader-held) Pace harmed young by Daphne (she 19, he 15), names it luck; builds asymmetries and calls them consent.
+- (Using) Pace engineered Randi's attraction/"choice," harvesting involuntary response as consent; may have targeted Vee — ajar.
+- (Using) Pace & Randi run Vee as a coordinated operation — Randi the closer, Pace clearing the standard.
+- (Using — strong) Randi works Vee with the same method Pace uses; the "bet" last chapter was Pace running that same extract-arouse-let-the-body-confess structure live.
+- (Using) Randi engineered Vee into unpayable compounding card debt for boutique shoes; Vee won't do the math.
+- (Using) The sorority house holds a folder on Vee.
+- (Using) Vee apologized to Pace for correctly reading his method; disowned her one accurate perception.
+- (ajar) Pace's "Thank you for telling me what she said" — clean gratitude vs. reconnaissance.
+- (open) The blonde at the bar told Vee the literal truth about how Pace operates.
+- Pace is knowingly running two women at once and doesn't feel the coming collision Sheri named.
+- The gown is built to Vee's exact stripped shape; worn at the induction; riser/mirror-at-kneeling-eye-level context still unused (tonight the gown gets its private viewing for its maker — Vee's own use, not the planned one).
+- Randi holds everything Vee withheld; extracts and withdraws as method; self-harms/eats disordered, unlooked-at.
+- Vee has been selected/pursued and doesn't know it; names it free agency.
+- The flannel shirt Vee treasures was made by Pace. House too warm; two towels in a one-man house.
+- Vee's want between women is live, aimed at Randi — shown being produced by Randi.
+- (Struck-partial) Vee knows the scar exists, its rough length, that it's a clean surgeon's line; not its cause. She consciously chose not to ask — "a thing about a person you've decided to keep."
+- (Structural, reader-only) Simpson's paradox: short stretches can lie against the whole.
+- (reader-only) The outlier lecture named Vee's own condition to her face — the "innovational" outlier that "carries forward," "never all the way gone."
+- (reader-only) Even Vee's self-authored acts arrive in the worked-in grammar (body before head); tonight the authorship is hers, yet still her feet, her hip move first.
+- (reader-only) The wall flinched — Pace has a spot (scarred thigh) where Vee's touch lands past his composure; tonight, a gentler version: she can hold him in a chair and watch his hand fail him.
+- (reader-only) Pace's real seduction hand is *gentler* than Randi's "story" of it — script and practice diverge, Vee-invisible.
 
 **Motifs**
-- *The body deciding / heat leading the will:* the through-line — this chapter **inverted toward agency**: she decides *with* and *ahead of* her body ("going anyway, was the entire costume"; hip "cocked out on its own"), the counter-note to last chapter's body-deciding-without-her. Charged prior: the finger taken without a question; "was not ashamed."
-- *Gift-as-leash / plenty-as-message:* recurs, re-aimed — the dress Pace made and the heels Randi buckled, both worn tonight *for* him by her own plan; the leash turned into an offering. Prior: green scrunchies "a long while yet"; the dress "for exactly this."
-- *The kept fold — interiority withheld/held:* recurs — the scar still unasked, deliberately kept; tonight she instead *reveals* fully (uncovers the body) while keeping the scar-secret.
-- *"Just for me" / the enclosed country:* recurs (from "no witness anywhere") — "The other is for the world. This is just for me." The unashamed nakedness only exists inside his house.
-- *Costume / being someone else vs. being seen:* NEW — Halloween as the night "nobody had to explain it," everyone "being somebody else"; Vee takes the costume *off* to be seen. Title-load.
-- *Kept shoes ("the heels stayed on"):* recurs — the heels here since Friday (paid-bet residue), fetched "before her nerve could hear about it"; "the heels stayed on. That was all of it."
-- *The maker's hands:* recurs, foregrounded warmly — "His hands had made the dinner, and the table she sat at, and the chair that held her. And the dress that was in her car." The finished dress "crossed a stage for everyone but its maker."
-- *He doesn't chase / stays put:* recurs, re-lit — she puts him in the chair with a flat hand and he stays; the stillness is the devotion.
-- Carry (quiet): "not making herself small"; Outliers/innovational outlier; Simpson's paradox; the long spoon (**absent again** — a close-quarters chapter with no distance in it); debt/"she the payment" (backgrounded); class-longing/being let "in"; white-gold band (absent).
+- **The lifted weight / "like the pie"** — his manner of taking things out of her hands; seduction as burden-relief. Quiet this chapter (roles briefly inverted — she's the one doing).
+- **The costume / borrowed things as uniform** — extends and turns: the whole chapter is "costumes"; the induction dress worn again for its maker; then *the heels stay on and are all of it* — "the heels stayed on. That was all of it." Halloween as the night to be somebody else / drop the pretense. Also: his too-large boots she wears to fetch the dress.
+- **Being watched / being *seen*** — tonight *she* stages the viewing and controls it; "let the looking be the touch"; the blush "went down and down, and she did not cover one inch." She is seen on her own terms for once.
+- **The hand that knows the way / the involuntary answer** — inverted: *his* hand comes "partway up and he put it away again"; her hip "cocked out on its own." Body-before-head persists on both of them.
+- **Soaking / recognized method** — quiet this chapter.
+- **The worn-in kiss / gradual intimacy** — quiet.
+- **The mother's voice — *floozy* / "slut"** — silent; she walks the hall naked and no voice comes.
+- **Money / the flinch she won't show** — quiet; debt unlooked-at.
+- **The uncropped photo / the withheld interior** — the mirror "cut off at the collarbone," "a roomful of strangers had already been given the rest to guess at" — the deliberate crop again, now given whole to the one viewer.
+- **The scrunchies / plenty-as-message** — quiet this chapter.
+- **The flinch / the wall that can be reached** — softened recurrence: she holds him in the chair and watches his hand fail him.
+- **Juice / plain aftercare as fact** — quiet.
+- **Outliers / two kinds; Hills and valleys** — quiet.
 
 **Symbolism noticed**
-- **Halloween / costumes** = the one night to be someone else; Vee's move is to *undress* the costume and be seen — reversal the title turns on.
-- **"This is just for me"** = the enclosed country; her unashamed self exists only inside his house, on his terms.
-- **The maker's hands (dinner, table, chair, dress)** = everything holding her tonight is a thing he made — tenderness and enclosure in one image.
-- **The heels kept on / worn for the maker** = the runners' gifts turned into her own offering; the leash chosen.
-- Carry: the innovational outlier = the con, never all the way gone; the bet/debt = consent extracted; the wet finger's plenty = shame-beneath-shame received as good.
+- **The innovational outlier** = a wound that entered early and carries forward — the shape of Vee (maybe Pace, Randi).
+- **The scar she decides to keep unasked** = choosing the person over the truth about him.
+- **The kept heels** = the costume-item that stays on to make the nakedness louder; tonight promoted to the *whole* costume — the last borrowed thing, all that's left when everything else is dropped.
+- **The plenty (scrunchies, towels) with no note** = a future declared in surplus rather than words.
+- **The bed / the sealed private country** = "this is just for me… the other is for the world" — the room of two, warm here, but the same sealing that makes the practice room a cell.
+- **The private debut for the maker** = correcting "crossed a stage for everyone but its maker" — giving the withheld interior whole to one person; her surrender enacted as authorship.
 
 **Open questions**
-- Does tonight get reported back to Randi, or stay the one thing Vee keeps? (Randi's total absence tonight sharpens this.)
-- Now that the appetite is consummated and tonight is Vee's own free offering, when and how does the con's cost surface?
-- Is Randi's "Mine" lover real, or a fabrication?
-- Was the poisoning blonde at the bar Sheri?
-- Where is the consummated appetite pointed — Pace, Randi, or both?
-- What is the word Vee doesn't own yet, and when does she own it?
-- Does Cassie become the friend who finally catches Vee's wrist?
-- What is Vee being walked toward?
-- Does Pace's warmth ever cost him the con? (Tonight it's pure warmth, no method visible — banked?)
-- Does Randi's jealousy-AND-wanting-for-Vee crack the con?
-- White-gold band — marriage, to whom? The removed mother? "Trade"? The silent taller woman? Was Vee a substitution?
+- Is Randi's feeling for Vee real, or manufactured closer-work? *(top pull)* — sharpened: spanking "story" vs. Pace's real hand.
+- Was the blonde planted — stress-test — or a buried genuine warning?
+- Was Pace's "thank you" clean gratitude or reconnaissance?
+- How does running "two at once" collide, and does Pace see it first? *(Sheri-flagged)*
+- Is Sheri the same person as "the older bartender"? Is she the blonde?
+- What does the sorority "folder" on Vee mean? Who assembled it, why Brooke?
+- What is the scar high on Pace's inner thigh — and will Vee ever ask, having chosen not to? *(promised, "not tonight")*
+- Does the Daphne asymmetry drive Pace's consent-engineering? *(live)*
+- What does the compounding unpayable debt cost Vee — and when does it surface?
+- Where/when does the gown-with-riser get its *planned* use, and who else is in that room? Two towels — the second body?
+- Will Cassie's clean read ever reach the true shape?
+- Who is the silent taller woman? Did Pace target Vee by name? Endpoint of the operation?
+- Is Vee's drift costing her clear eye and her ability to own her own desire? — and what did the flinch mean?
+- Does "bringing a bag" mean she's becoming a fixture in his house? (Tonight she brought the dress but *no* bag — the pretense literalized.)
 
 **How I feel — overall**
-Warmed, and let down easy after last chapter's vertigo. This is the swooniest the book has been in the simplest way: Vee runs the whole scene, decides her own exposure in advance, walks a hall in nothing but heels and "does not cover one inch," and the eroticism is entirely in his stillness and her nerve. I believed it as *hers* — the counter-note the book needed, agency where last time there was surrender. The shadow is only two threads thick tonight: the gift-heels/gift-dress (everything she wears and sits on he or Randi provided), and "this is just for me" as the enclosed country. Randi's total absence — not even a template borrowed — is the loudest quiet thing in the chapter; I don't know if it means the con has relaxed because she's caught, or if this is a genuine unengineered pocket. The page tilts warm and I let it. But I carry out the sense of warmth being *banked*, and a small dread underneath the pleasure that this is the good part before the bill.
+Warm and disarmed, and grateful for a chapter that let Vee drive. The machinery stayed entirely offstage and I didn't summon it back — tonight was her authoring her own exposure, holding him still, giving the maker the private viewing the world already got, and walking a hall in nothing without a mother's voice to stop her. His "just for me" melted me even as I remember, at the edge, that a sealed room of two is exactly the shape this book has taught me to watch. But the page earned only the sweetness this time, so that's mostly what I carry: her sovereignty, his held hand, and a tenderness I'm still choosing to believe.

@@ -1,135 +1,135 @@
 # Cold read — Famished
 
-*scene: scenes/famished.md · model: claude-opus-4-8 · read after: how-its-done*
+*scene: scenes/famished.md · prose-blob 428fe9ea40354273053fdf377bc10ac188189ab2 · model: claude-opus-4-8 · read after: how-its-done · 2026-08-13*
+<!-- freshness: prose-blob = `git hash-object scenes/famished.md` at read time; if it differs from the live file's hash, this review is stale. -->
 
 ## Reader reaction
 
-So the deferral broke — and the thing I did not see coming is that *Vee* broke it. Not Pace, not Randi steering, not the plan reaching its scheduled climax. She bought the green set for the color, painted her toes frosted plum, dressed against trying-too-hard, drove out telling herself none of it meant anything — and then she set the wine down, said "I never thanked you for the shirt," and kissed him "before he could answer." She took the apron strap and pulled. She asked to see the bedroom. She was "already moving." Every initiation in this chapter is hers. After a whole book of him taking nothing and her being harvested for her restraint, the consummation is her walking through the door she keeps thinking he left open — except here it reads like she kicked it in herself. That genuinely reoriented me.
+So this is the first time, and it's Vee's whole night, all the way through, and I have to be honest: it swept me even while I kept waiting for the booth-view to spoil it — and it mostly didn't. Pace is offstage as a schemer here and fully present as a body and a pair of hands, and the writing gives him to me the way it gives him to her: "the calluses of the workbench and the bar," "the hands that had built the platform and turned the hem of her dress and held her ankle in cold air on the mountain." That inventory is doing double work — it's tender *and* it's the ledger of everything he's made and staged — but on the page, in her body, it landed as heat. The oral sequence is graphic and sustained and it worked on me plainly. The peak that "broke over her standing up," his palm taking her weight — I was there.
 
-And it worked on me. This is the heat the book has been loading, and it paid all the way out. The prep-done-and-stopped kitchen — garlic minced, pepper measured, pan dry and clean, "He'd done all the preparation and stopped" — is the turned-up-radiator motif rebuilt as a whole meal held at the threshold, and I felt the erotic patience of it before anyone touched anyone. Then the standing orgasm with his hand taking her weight, "the round of her filling his palm," and the line that actually caught in my chest: "the shame ran the whole length of it and never closed her." That's the surrender sermon paying off — the scarf story, "somebody takes the reins" — landing not as something done *to* her but as something she finally let happen. "It was the first time that had been true." I believe her interior turn completely. The heat is a clean 3 and the shame-on-the-same-wire-as-the-heat is exactly the interior life I read for; there's no seam and she's stopped looking for one.
+The thing that actually moved me, though, is the shame. All chapter the mother's word — *floozie* — fires "a beat behind the shame," "quick and flat," on the same wire as the heat "because there was no seam." And then the turn: "The shame was still running and she was burning through it… and she was not watching herself do any of it." Her self-surveillance, the clear eye I've watched get overridden by desire — here it just *stops*, and for once the stopping reads as relief instead of danger. "It was the first time that had been true." I felt that as a genuine gift to her, whatever else is true.
 
-His question — "Would you be bothered if I was too hard?" — is the fitting scaled up, "her body producing proof that she wanted him, and that being the good thing." It's the same instrument as ever: her evidence made into his tenderness. But absent Randi, absent any wink to the con, it played almost entirely as intimacy this time, and I let it.
+But two things put ice under it. One: **the scar.** "A scar, large, high on the inside of his thigh." Her hand stops on it, he draws her arms up before she can look — a door closing, softly, at the exact instant she reaches. That's *his* withdrawal now, on his own body, and I don't know what it is, and it's the first crack I've seen in *him* the man rather than him the operator. Two: **the trade.** She goes back for the panties, folds them one-handed "in thirds, the spot centered," lets the sheet drop and doesn't stop, finishes the fold "the spot exactly where she'd put it," and holds them out: "Trade." She is now *offering her own arousal as proof, as gift* — the exact frame he built at the fitting, "your body producing proof that you wanted him, and that being the good thing" — except now she's doing it herself, unprompted, presenting the evidence centered and displayed. That's the apparatus finished from the inside. She's not being shown how it's done anymore. She's doing it. "Something in his shoulders was private and she let it be private" — she extends him the same withheld-look he gave the scar. Two people trading privacies over a folded stain, and I couldn't tell if it was the most intimate thing yet or the moment she became fluent in his language.
 
-What kept the cold in the room, faintly: the **scar, large, high on the inside of his thigh** — new, unexplained, and her hand *stopped* on it. That's a body with a history I don't have, and it sits right next to the shut bedroom door and the *parents* closing as another thing withheld. And the ending — the **panties trade**. She goes back for them, folds them one-handed with the spot centered and deliberate, drops the sheet and doesn't pick it up, holds them out: "Trade." The whole book she's been receiving made objects with no fingerprints — the shirt, the dress. Here she *makes one*, marks it, and hands it to him. That's a reversal I don't fully understand and I want to leave it that way: is it her reclaiming the exchange, giving herself as a trophy on purpose, matching his tokens with one of her own? "Something in his shoulders was private and she let it be private" — he cracked again, moved by it, and she granted him the privacy she's never once been granted. That last beat is tender and slightly vertiginous both at once.
+No Randi at all, no window-scan dread carried in — this is a sealed, warm, dangerous little world for one night. The green set she bought *herself*, unprompted, "so exactly her color that it seemed to have been set out and waiting" — that phrase gave me a small chill (set out by whom?), but she chose it freely and I have to let that be hers.
 
-Trust vs. suspicion: the chapter gave the con almost nothing to stand on — no Randi, no clue-she-explains-away, no seam. So my dread went quiet, which is itself worth noticing: this is the most undefended, un-instrumented the book has let a scene be, and either that's the point where she's most captured or it's a genuine stretch of real feeling. I can't tell, and I don't want to force it.
+**Title:** *Famished* — she says it, "and heard it a beat after he did." Her appetite, named out loud and owned, the whole chapter's engine. It's her hunger for once, not produced — or the most produced thing of all, I genuinely can't call it, and I like that it's ajar. The book title *A Polite Invitation*: *Dinner Friday?* is the politest invitation yet and it went exactly where invitations go.
 
-The title — **"Famished"** — is her word, said a beat behind him hearing it. Hunger owned, out loud, no management left in it; it's the appetite the whole book has been teaching her to stop apologizing for, spoken at the threshold of her own undoing. Gorgeous and a little grim, because I know what the hunger is walking toward. Against **A Polite Invitation** and the **long spoon** — she just supped without one, closed the arm's length she'd kept, and the person who'd have needed the long spoon was never in the room tonight.
-
-What I want next: Randi. Where was she, does the extraction feed back, and now that Vee broke the deferral herself — does that break something in the *plan*, or is it exactly on schedule? And that scar.
-
-**Cast present (in person):** Vee (POV), Pace. Mentioned only: the mother's voice ("floozie"); the girl down the hall (borrowed heels). Randi does not appear or get named.
-
-**Heat:** 3 — the consummation is the scene's center, explicit and sustained, the shame/heat wire fully worked.
-
-**Romance:** 2 — deep intimacy and a real interior turn ("the first time that had been true"), but it's Vee's solo threshold-crossing more than a mutual declaration; tender, deepening.
-
-**Motifs & images:** *Prep done and stopped* (repeat of turned-up-heat) — the fra diavolo held at the threshold. *The made object with no fingerprints* — **inverted**: she makes and marks one *for* him (folded panties, spot centered, "Trade"). *Floozie / the shame voice* (repeat) — runs the whole scene, never closes her, the surrender-sermon paying off. *Leave no trace* — **inverted**: she leaves a deliberate trace. *The scent behind the proxy* (repeat) — the flannel gone thin, then "the source" in the real sheets. *Him on his knees looking up / pedestal* (repeat) — scaled up. *The scar* (first sighting) — high inside his thigh, unexplained. *The dropped sheet neither looks at* (first) — closing image.
-
-**Symbolism:** The prep-done-and-stopped meal = the whole seduction held one beat from consummation, then finished. The shame that never closes her = the reins set down, by her own hand. The marked panties / "Trade" = the harvested-object reversed — she instruments *him* now, or gives herself as token; held ajar. The scar = another withheld history beside the shut door.
-
-**Characterization:** Vee deepened hard — she drives every beat, breaks her own deferral, and burns through the shame instead of being closed by it; the agency is new and consistent with the appetite she's been owning. Pace held and cracked once more (private shoulders, the scar). No one thin.
-
-**Pace — within the chapter:** patient in the front half, unhurried through the sex earning its length, the coda (meal, panties, dropped sheet) quiet and exact. No drag.
-
-**Pace — chapter to chapter:** the held breath finally released — the consummation the book deferred for chapters. Momentum crested; the surprise is that Vee, not the plan, released it.
+I want to know what the scar is. That's my new top pull, right beside the gown.
 
 ## Carry-forward state
 
 **Principals**
-- **Pace** (= Peter): young math PhD; powerlifter; maker of expensive-eyed furniture (no-screw joints, own stain/shellac); licenses an MRI-imaging patent. Ordinary pleasant face, light brown hair, thick calloused hands, economy of movement. White pickup; outsized workshop; small post-war house off six-fourteen, one shut bedroom door. Private rule (right hand); genuine wound (the "small closing" at *parents*). Makes the no-tag shirt and the burgundy/russet dress. Restraint visibly costing him. **This chapter: on page, cooks fra diavolo, consummates with Vee at her initiation; new physical detail — a large scar high on the inside of his thigh, unexplained; cracked again (private shoulders at the panties-trade).** His white-walled bedroom: large low bed, plain white much-washed cotton sheets, undecorated.
-- **Randi** (= Miranda): 21, junior, sorority Standards board; black hair, blue eyes, dancer's body, cold-citrus/bright-green scent. Secretly involved with Pace, the closer steering Vee. Virtuoso extractor; loaded kiss with a second press; plain heavy white-gold band, no stone, never removed; two on-page cracks. **Off-page and unmentioned this chapter.**
-- **Vee** (= Vivienne): jacket protagonist, POV. Tall lush hourglass, copper hair, snub freckled nose, good legs (her one undoubted feature). Econ major; hungry to be chosen; self-managing (mother's appetite/shame-voice, "floozie"). Reads the right side of the menu; pays her own way. Owns her appetite. **This chapter: drove and broke the deferral herself — initiated the kiss, the bedroom, the sex; burned through the shame without it closing her for the first time; bought a green satin bra/panties set and frosted-plum polish for tonight; made and handed Pace a deliberately marked token ("Trade").**
-- **Cassie** (= Cassandra): Vee's roommate/friend; clever, warm, loves-by-holding; reaches the safe wrong answer; held out of the fitting secret Vee nearly gave Randi. Off-page.
-- **Kayla, Meg**: dining-circle friends, unknowing (Meg holds the one real caution). Off-page.
-- **Brooke**: sorority president; warmth-as-instrument; probing Pace. Off-page.
-- **Christine**: older woman, small restaurant; knows Pace warmly. Off-page.
-- **The silent taller woman** (unnamed): watched Vee once. Open identity. Off-page.
-- **Theo** (walk-on): asked Vee to a fall event; she said friends. Peripheral.
+- **Pace** (= Peter) — male. Math PhD near done, powerlifter, builds furniture; runs meticulous-consent scenes; engineered Randi's attraction and the staged collision; unhurried, constructs. **Present, active — first time with Vee on-page.** Cooked fra diavolo, stopped mid-prep to wait; canvas apron over dark henley. **New: a large scar high on the inside of his thigh, which he closes off from her look.** Still making Vee the burgundy gown ("He'll call me when it's ready").
+- **Randi** (= Miranda) — female, 21. Sorority Standards. Disordered eating, hidden self-harm; curated face. Drives a dark-green Mercedes convertible; plain heavy white-gold band at her wrist she's never without; two smiles. Absent this chapter.
+- **Vee** (= Vivienne Thorne) — female, 21, junior. **Jacket protagonist.** Tall, lush, warm dark-red hair, snub nose, cinnamon freckles. Econ major; sharp room-reader, deep self-surveillance, lifelong body-shame; broke. This chapter: initiated the first time with Pace; her shame ran the whole length and for the first time did not close her; ended by trading him her folded, deliberately-stained panties.
+- **Cassie** (= Cassandra) — female. Vee's roommate/friend; clean love, immune clear eye. Absent. Doesn't know the arousal secret — Randi does.
+- **Kayla** — female; bright amplifier. Absent.
+- **Meg** — female, calm/level; gave the soft warning. Absent.
+- **Brooke** — sorority president; deliberately collected Pace's details; clocked the Vee/Randi display. Absent.
+- **Unnamed taller woman** *(identity open)* — appraised Vee like merchandise. Absent; held open.
+- **Christine** — runs the small restaurant, knows Pace. Absent.
+- **Daphne** — Pace's past, the "door" he didn't respect. Absent.
+- **Theo** — asked Vee out in September; she said friends. Texture only.
 
 **Relationship ledger**
 
-*Core — Pace / Vee:* **involved, consummated (y) — the deferral broke this chapter, at Vee's initiative.** Surface: a kind careful man who finally, tenderly, took her. True (to reader): the hunt's consummation — but the con was wholly absent from the room tonight, so how much was instrument and how much real is left unusually open. Physical history now: kissed, the full fitting, and tonight — she initiated, he went to his knees, standing orgasm, first intercourse; she left him a marked token.
-  - *cherished ↔ used:* **both** at max — she felt wholly wanted-as-she-is ("nothing... wanted her to be any less than she was"); the reader still holds the harvest read, but it stayed quiet tonight.
-  - *desire hers ↔ desire worked-on-her:* **hers**, emphatically — she drove every beat; the produced-arousal pole quiet because the con wasn't visibly running.
-  - *warmth ↔ cold:* warm, near-seamless; the only cold is the withheld — the scar, his private shoulders.
-  - *belonging ↔ isolation:* she's fully inside, the shame no longer exiling her; reader's isolating-mechanism read went quiet this chapter.
-  - *This chapter:* state moved strangers→consummated; she broke her own deferral; the surrender-sermon paid off (shame never closed her).
+*Core — Pace & Randi:*
+- **State:** involved (consummated: y), secret from her sorority world. Surface/true diverge. He directs her desire outward toward Vee under a shared-game/gift frame.
+- **warmth ↔ cold:** lavish warmth as instrument.
+- **isolation ↔ belonging:** two-of-them intimacy; game routes wanting through him.
+- **cherished ↔ used:** treasures her *and* uses her — reads involuntary response as data.
+- **desire worked-on-her ↔ desire hers:** wanting produced in her; she re-assigns it to him.
+- **This chapter:** both absent from each other's frame; no change. (Ajar still: Randi's tightness last chapter — real feeling straying past the assignment?)
 
-*Core — Pace / Randi:* **involved, consummated (y); secret.** Surface: strangers. True: lovers running a coordinated con; his tenderness for her genuinely felt. The white-gold band may bear on this — possible marriage, unconfirmed. Axes quiet (both dynamics off-page tonight).
-  - *cherished ↔ used:* **both** — instrument AND delighted-in. (quiet)
-  - *desire hers ↔ desire worked-on-her:* both poles at max. (quiet)
-  - *warmth ↔ cold:* warm — warmth as instrument. (quiet)
-  - *belonging ↔ isolation:* surface belonging; under it isolating. (quiet)
-  - *This chapter:* no movement (off-page); the open question of the extraction's feedback, and whether Vee breaking the deferral herself disrupts the plan, now live.
+*Core — Randi with herself:*
+- **State:** at war; the face vs. the person under it. Execution seamless. Live: how much warmth toward Vee is felt vs. played, ajar; one data point *for* real feeling.
+- Axes: cold/isolation/used/worked-on inward. **This chapter:** absent; no change.
 
-*Core — Randi / Vee:* **intimate front opened (surface to Vee: adored dear friend, kissed) / attracted with Randi's own wanting leaking, instrumented closing running.** Consummated n. The extraction drew out (nearly all) the fitting secret; the loaded kiss crossed a line the plan likely didn't draw.
-  - *cherished ↔ used:* both at max; Randi's cracks give "wanted-for-herself" open weight.
-  - *desire hers ↔ desire worked-on-her:* both on Vee's side; the kiss was Randi's own initiative.
-  - *warmth ↔ cold:* warm at flood in Vee's telling; the cold beats are Randi's (tight muscle, daylight withdrawal).
-  - *belonging ↔ isolation:* Vee feels total belonging; reader reads it as the isolating mechanism; the withheld laugh = belonging denied at the secret's threshold.
-  - *This chapter:* no movement (off-page).
+*Core — Randi & Vee:*
+- **State:** Surface (Vee): adored friend, kiss on the mouth she filed as "French," confused/warmed. True: closer escalating an operation — holds Vee's platform-arousal secret, deployed extraction-then-withdrawal, made a physical advance. Asymmetric, widening. Vee's queer want is live heat aimed at Randi (the tied/helpless picture).
+- Axes on Vee's side: warmth (fed, chosen); belonging; cherished; **desire hers ↔ worked-on-her** — genuine AND steered; both true.
+- **This chapter:** absent; no change. (Note: tonight's first time with Pace deepens the man's claim; Randi's assignment side of the triangle untouched on-page.)
 
-*Core — Randi with herself:* the "face" is armor over an unsurvivable wanting relocated to a survivable costume; the seam showed twice last chapter (held muscle; the kiss's extra press). Held ajar. *This chapter:* no movement.
+*Core — Vee with herself:*
+- **State:** managed surface over unlooked-at want; reads every room but not the one run on her. **This chapter, a real shift:** during sex her self-surveillance *stopped* — "she was not watching herself do any of it," "the first time that had been true." The mother's word *floozie* ran the whole length and for the first time did not close her; she burned through it. But the fluency cuts both ways: she *finished the frame herself* — folded the stained panties "spot centered," offered them as "Trade." The clear eye didn't fire tonight; it went quiet, and out of the quiet came a woman speaking his language unprompted.
+- **This chapter:** shame-that-doesn't-close = liberation and internalization at once; both true.
 
-*Core — Vee with herself:* runs a managed self; defends against wanting by hunting the flaw then explaining every clue away; the governor could be set down *by him* — **and this chapter she set it down herself.** For the first time the shame ran the whole length and never closed her; she drove her own undoing and owned the hunger out loud ("Famished"). New: she now *makes and marks* a token rather than only receiving them.
-  - *This chapter:* big inward move — she crossed her own threshold, agency and appetite fully hers, shame survived rather than obeyed.
+*Core — Pace & Vee:*
+- **State:** **involved (consummated: y — this chapter, first time).** secret, one-sided (Vee unaware of engineering). Care real and costly *and* serves a built apparatus — both poles stand. She initiated ("Will you show me your bedroom?"), drove the pace; he asked "Would you be bothered if I was too hard?" — proof-of-wanting reframed as the good thing, scaled up from the fitting. New: his scar, and his private shoulders at the trade — first cracks in *him* she's let stay closed.
+- Axes on Vee's side: warmth (peak); belonging (his actual scent, source behind the flannel proxy); cherished; desire experienced as hers — and this time genuinely un-narrated, hardest yet for me to call produced. Both poles still stand but her-side desire got its strongest real reading here.
+- **This chapter:** consummated; milestone flag now TRUE. She offered her arousal as displayed proof of her own accord — the apparatus completed from inside her.
 
-*Vee / Cassie:* **close, easy** — but Cassie is held out of the fitting secret Vee nearly gave Randi; the isolating asymmetry stands. *This chapter:* no change (off-page).
+*Vee & Cassie:* **Core-adjacent, central.** Roommates/friends, clean love. Cassie does NOT hold the platform-arousal secret — Randi extracted it. Warmest room in the book; asymmetry stands. Absent.
 
-*Vee / Kayla, Vee / Meg; Randi / Cassie; Brooke / Vee:* no change (off-page).
+*Vee & Kayla / Vee & Meg:* Easy, warm; Kayla amplifier, Meg calm warner. Absent.
+
+*Randi & Brooke / Randi & Cassie:* no change.
 
 **What I know that they don't**
-- (Vee doesn't know) the café meeting was engineered; Randi and Pace are secret lovers running a con; she was pointed at and hunted; a man authored it.
-- (Vee doesn't know) she reads engineered restraint/care (his) and warmth (Randi's) as sincerity; her econ eye sees clues and won't land the shape.
-- (Vee doesn't know) the lunch was an extraction; the surrender-sermon primed her to want to let go — and this chapter it worked.
-- (Vee doesn't know) Randi's kiss carried a second press that isn't the plan's; who steers whom (Pace/Randi) is genuinely re-opened.
-- (Vee doesn't know) the no-fingerprint objects (shirt, dress) are made by Pace.
-- (Vee doesn't know) she's handing intimacy to Randi she withholds from Cassie.
-- (Reader open) the white-gold band, never removed — possible marriage, to whom unknown.
-- (Reader open, new) the scar high inside Pace's thigh — unexplained history, sits beside the shut door and the *parents* wound.
-- (Reader note, new) Vee, not the plan, broke the deferral — whether that disrupts or serves the con is unknown.
-- (Randi doesn't fully carry) she's being steered by Pace; her own wanting may be leaking past the con.
-- (Pace doesn't know — carry) Randi gives him the performed self; he reads her body past it; the gap may be narrower than she thinks.
-- (Caring side) Pace's tenderness is really felt; the MRI delight, the *parents* closing, his private-shoulders crack tonight all read as genuine. Held ajar.
-- (Caring side) Cassie's love for Vee is wholly unengineered and true; carries a hidden fold.
-- (Genuinely open) Meg's "sometimes they even are"; Randi's two cracks — whether any warmth for Vee is real.
+- (Caring) Pace is genuinely moved by Randi, glad of her pleasure; believes he gives a gift.
+- (Caring) Pace's cold/shirt-sacrifice on the hike were real and unseen by Vee.
+- (Caring) The MRI patent is real, aimed at helping frightened sick people — a true generosity.
+- (Caring) Cassie's love for Vee is clean, reads her well, senses the shape, lacks the fact.
+- (Caring) In the fitting Pace never looked down while she was mortified, honored her exposure, chose restraint at cost — genuine tenderness and want; tonight he stayed in her shame and "was glad of it," wanted her no less than she was.
+- (Caring, ajar) Something in Randi went involuntarily tight when Vee glowed about Pace looking at her — possibly real feeling straying past the assignment.
+- (Using) Pace engineered Randi's attraction and "choice," harvesting involuntary response as consent; may have targeted Vee — ajar.
+- Pace & Randi run Vee as a coordinated operation — Randi the closer, Pace clearing the standard.
+- **Randi now holds Vee's platform-arousal secret** — Vee has told no one else, not even Cassie.
+- **Randi extracts and withdraws as method** — mirrors Pace's rhythm.
+- **The kiss (Randi's) was intentional** — deliberate second press; Vee filed it as "French."
+- Randi self-harms / eats disordered unconsciously; nobody, including her, is looking.
+- Vee has been selected and pursued and does not know it; experiences it as free agency.
+- The flannel shirt Vee treasures was made by Pace; tonight she met the *source* scent behind the week-old proxy.
+- His house kept "too warm," heat up hours early; **two towels** in a one-man house (unseen).
+- The gown is built on her stripped body; the riser sets her at his kneeling eye-level as method. She read it innocently.
+- Brooke deliberately collected Pace's details; reason unknown.
+- A silent taller woman appraised Vee like an object; who/why unknown.
+- Vee's want between women is now live heat aimed at Randi (the tied/helpless picture).
+- Even Cassie could not reach the true shape — the seams hold.
+- **(New) Pace has a large scar high on his inner thigh he closes off from her look — a private wound of his own, unexplained. First crack in the operator as a person.**
+- **(New) Vee now produces the proof-of-wanting frame herself, unprompted (the folded, spot-centered panties as "Trade") — she's become fluent in his language.**
 
 **Motifs**
-- *The made object with no fingerprints:* russet dress; no-tag shirt (flannel, scent going thin as she wears it). **Inverted this chapter** — Vee makes and marks a token *for* Pace: the green panties folded with the wet spot centered and handed over, "Trade." Gift-as-vector reversed into her own claim/offering.
-- *Turned-up heat / prep done and stopped:* the radiator; re-told to Randi; now the fra diavolo fully prepped and held on a dry clean pan until after. Care and staging in one gesture; tonight also the deferral made physical.
-- *Floozie / the shame voice:* the mother's flat word runs the whole consummation on the same wire as the heat — and for the first time never closes her.
-- *Leave no trace / the scent behind the proxy:* the flannel's stored, week-old approximation vs. "the source" in his real sheets; **and inverted** — she deliberately leaves a marked trace.
-- *Being looked at / body as proof:* "Would you be bothered if I was too hard?" — her evidence made his tenderness, the fitting scaled up.
-- *Him on his knees looking up / pedestal:* re-enacted, "the sun porch again."
-- *Class markers / reading the right side of the menu:* quiet this chapter.
-- *The white-gold band:* Randi's, never removed — "the one fixed thing," possible vow. Off-page this chapter.
-- *The scar (new):* large, high inside his thigh, her hand stopped on it — withheld history.
-- *The dropped sheet neither looks at (new):* closing image of the exposure she no longer scrambles to cover.
+- **Turned-up heat / provision for a second body** — two towels stand unseen; the house's warmth. Care and lever the same act.
+- **Being looked at → "May I look" / proof-of-wanting** — "Would you be bothered if I was too hard?" scales the fitting up: her body's response as *the good thing*. Culminates in Vee's own "Trade" — she now offers the proof herself, centered and displayed.
+- **The withdrawal / the closing door** — recurs, now on *both*: Randi's "you don't have to tell me"; tonight **Pace's scar**, drawn out of her reach the instant she touches it, and his "private" shoulders she lets stay closed. The step-away as the charged thing.
+- **The flannel/handmade shirt → the source scent** — the proxy she slept in all week met the real thing in his bed; "She'd thought she knew it." Manufactured trace vs. the man.
+- **Made-by-hand / craft as care** *(central)* — the burgundy gown still being built; tonight the built bed, the cooked meal stopped mid-prep and resumed. Real gift and bespoke apparatus.
+- **Doors/thresholds & being let in** — "Will you show me your bedroom?" — she opens the door herself this time.
+- **Randi's two smiles** — quiet (absent).
+- **The white-gold wrist band** — quiet (absent).
+- **Money / the column** — quiet; she *bought the silk set herself* — a rare unbudgeted indulgence, chosen freely.
+- **The satin / shame-as-heat → shame that doesn't close** *(major shift)* — *floozie* runs the whole length and for the first time fails to shut her down; she burns through it. The green satin she chose herself; the crystal strings "obvious and excessive," seen and met, not hidden.
+- **The mother's voice — *floozie*** *(new/named)* — quick, flat, arriving a beat behind the heat all night; the internal accuser she finally outruns.
+- **Spoons / sweetness at the bottom** *(series-title)* — quiet.
+- **Posture/rising · Counting days · Chosen/picked** — "the color set out and waiting"; days "closed to a point." Quiet-ish.
 
 **Symbolism noticed**
-- The prep-done-and-stopped meal = the whole seduction held one beat from consummation, then finished — deferral made edible.
-- The shame that never closes her = the reins set down, by her own hand; the sermon landing.
-- The marked panties / "Trade" = the harvested-object reversed; she instruments him, or gives herself as token — held ajar.
-- The scar = another withheld history beside the shut door and the *parents* closing.
-- The white-gold band = a fixed vow beneath a changeable surface; possible marriage. (carry)
-- The riser/pedestal, the turned-up radiator, water/swimming (the self before the body was a problem) — carry.
-- Long spoon = tonight she supped with no spoon at all, and the one who'd have needed it wasn't in the room.
+- **"Trade"** = the apparatus completed from inside her. She folds her arousal into evidence, spot centered, and offers it — the fitting's proof-frame, now self-administered as a love-gift. Intimacy and fluency-in-his-language are the same gesture; I can't separate them, and that's the point.
+- **The scar / the closed look** = the operator has a wound too; his withdrawal turned on his own body. First sign there's something under Pace he won't let *her* read either.
+- **Shame that doesn't close** = either genuine liberation (the book's warmest possibility for her) or the last defense dissolving so the wanting runs unchecked. Both live.
+- **"Famished," heard a beat after he did** = her appetite named and owned — or produced and then owned. Ajar.
 
 **Open questions**
-- Did Vee breaking the deferral herself serve the plan or disrupt it? Was the lunch extraction fed back to Pace?
-- What is the scar high inside Pace's thigh?
-- What is the white-gold band — marriage, and to whom? Does it connect to the shut door / the *parents* closing?
-- Is this Pace's hunt alone, does Randi want Vee for herself, or both? (Randi absent tonight leaves it hanging.)
-- What was the tight muscle behind Randi's smile last chapter?
-- What is behind the one shut bedroom door (which was *not* the white-walled bedroom they used)?
-- What does the panties-trade mean to Pace — his private shoulders?
-- Two towels — for whom?
-- What did Cassie fold away; does her clear eye become friction?
+- **What is the large scar high on Pace's inner thigh?** *(new top pull)*
+- Where/when does the finished gown get worn — and who else is in that room? *("He'll call me when it's ready.")*
+- **Two towels** — who is the second body the house keeps provision for?
+- What is Randi's white-gold wrist band?
+- Was Randi's tightness real feeling straying past the assignment? *(leaning: a genuine crack)*
+- Genuine restraint/patience vs. control — the withholding. *(Leaning: both.)*
+- What closed in Pace's face at "your parents"?
+- Will Cassie's puzzle-frown ever reach the true shape?
 - Who is the silent taller woman?
-- The induction dinner (weeks off), the dress bound to it.
-- Was Vee a substitution for the bench's original target?
-- Is Brooke/the house still a threat to the secret?
+- Did Pace target Vee by name, or did the game land on her?
+- Why is Brooke collecting Pace's details?
+- What is the game's endpoint — the threesome as framed, or a shape Randi hasn't seen?
+- How much of Randi's warmth to Vee is felt vs. played?
+- Who is Daphne, and what did the closed-door lesson cost Pace?
+- How far does the opening go before it turns? *(the kiss turned it; now consummation with Pace)*
+- Is Vee's drift costing her her clear eye? *(tonight it went quiet — relief or last defense down)*
+- **Is the shame-that-doesn't-close a real freeing, or the last check dissolving?** *(new)*
+- The "power" Vee found — real leverage, or being *let* to feel powerful?
 
 **How I feel — overall**
-Swept up, and quietly reoriented. This is the chapter the whole book was holding its breath for, and it delivered as heat — explicit, warm, the shame-and-want on one wire — but the thing that actually moved me is that *Vee* broke the deferral. Not Pace's restraint failing, not Randi closing: Vee set the wine down, kissed him first, pulled the apron strap, and walked herself through the door. "The first time that had been true" — the shame ran the whole length and never closed her. I felt that as a real threshold crossed, and because Randi and the con were entirely absent from the room, my dread went unusually quiet; either this is where she's most captured or it's a genuine stretch of real feeling, and I honestly can't tell, which is its own kind of ache. The panties-trade unsettled me in the best way — she's stopped receiving marked objects and started making one, and I don't know if that's power or surrender or both. The scar and his private shoulders are the only cold in an otherwise warm room, small withheld histories I now want opened. I ache for her spending this much realness, this fully owned, on a man an unseen plan pointed at her — but tonight the page let the realness stand almost undefended, and I let it stand too.
+Warmer than last chapter and more torn for it. This was a real first time, generous and hot and — for the first time — a place where Vee's self-watching stopped and her shame failed to close her, which I felt as a genuine gift even knowing whose house it happened in. The oral scene and the un-narrated, face-in-his-neck consummation swept me clean. But the two quiet gestures at the end keep me from settling: the scar he won't let her look at (his own closed door — the first hint the operator carries a wound), and the panties she folds and offers as "Trade," proof-of-wanting produced by her own hand now, the apparatus completed from inside her. I can't tell if she's freer or more fluent in a language he taught her, and the chapter won't tell me either. No Randi, no dread carried in — just a sealed warm night with a cold seam running under it, and a new hunger to know what that scar is.

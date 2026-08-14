@@ -1,113 +1,109 @@
 # Cold read — The New Ordinary
 
-*scene: scenes/new-ordinary.md · model: claude-sonnet-5 · read after: outlier*
+*scene: scenes/new-ordinary.md · prose-blob 2112ea157745a43043010afd9354bedf15f1045d · model: claude-sonnet-5 · read after: outlier · 2026-08-13*
+<!-- freshness: prose-blob = `git hash-object scenes/new-ordinary.md` at read time; if it differs from the live file's hash, this review is stale. -->
 
 ## Reader reaction
 
-Pace, first, and God — this chapter just makes me love him more. Nothing coy about the wanting here, nothing withheld, and none of it reads as performance for the reader; it reads as two people who actually know each other's bodies now. The doorway kiss, the slow deliberate unhurriedness while she's frantic with the zipper — "As though there were no hurry to any of it, as though five nights were nothing" — that contrast between his patience and her urgency is doing real work, not just heat for heat's sake. And then the shirt scene at the end undid me completely. That's not a sex scene, that's the most intimate moment in the chapter — her confession that she wore his shirt every night until it stopped smelling like him, the almost-hurt on his face when he thinks she's returning it, and then him understanding instantly and putting it on over his own shirt. "He had heard exactly how many of her nights had been spent breathing a dying shirt, and not one part of it embarrassed him on her behalf." I felt that ache right alongside her.
+**Characters, moving parts.** Pace and Vee, alone, and it's the tenderest I've felt about them yet. This isn't the courtly-attentive-lover register I got secondhand last chapter — I'm inside it now, and it's better than the report. The doorway kiss, the not-arguing about the five nights, the way he "opened the door and waited on the far side of it" — that's a man who has decided not to weaponize his own want, and it costs him something to do it, which the text tells me plainly: "the plain grace of that had cost her more than a fight would have." I love that inversion. I trust him more for it.
 
-Vee herself — I like her more for the vulnerability she lets show here. The chapter's honest about what her body does versus what her mouth is willing to say: "her body having just published the number she'd gone to such trouble to keep private." That's the throughline from the last chapter's silences continuing into her own desire now, not just other people's secrets — she can't help what her body tells on her even when she wants to keep composure.
+**Swoon / pull.** This whole chapter is swoon, structured almost musically — desperate undressing in the hall, then a long unhurried cooking sequence, then the shirt. The shirt is the chapter's real center for me, more than the sex. "It stopped smelling like you... one day last week it didn't smell like anything at all, so I washed it" wrecked me a little — that's a specific, un-cute, entirely believable grief-object logic, and her shame at needing it ("It came out small and she couldn't help it") makes it land instead of being twee. And his response — no teasing, no making her defend it, just putting it on over his other shirt in his own kitchen — is exactly the kind of unglamorous devotion this book has earned with him before.
 
-Swoon/pull: enormous, unapologetic swoon this chapter. The pizza-making section shouldn't have moved me as much as it did but it's gorgeous — his total absorption in the cooking, not performing for her, "he'd have made the pizza exactly like this for an empty house," and her realization that she can't tell which of them, her or the dough, got more of his attention, and that she doesn't mind. That's such a mature, unguarded piece of contentment for her to land on.
+**Erotic charge.** Works well, front-loaded — the hallway striptease has real heat and real comedy ("there was no dignity anywhere in any of it and she'd have burned the house down for him"), and the line about her body "publishing the number she'd gone to such trouble to keep private" is sharp, embarrassed-honest in the way this book does well. It goes warm-domestic rather than slack after, which felt like the right move, not a fade.
 
-Erotic charge: strong, peaks early in the hallway (the half-undressing, the thong throw, "she'd have burned the house down for him") and through the bed scene, then intentionally goes slack and warm rather than clinical once they're at the food — the chapter knows when to change temperature and does it well.
+**Trust vs. suspicion.** None earned here — this reads like an unguarded chapter, no machinery visible. If anything it deepens my trust in Pace specifically; the carry-forward's open questions (Daphne, "not finished," the scar) sit quietly under this without the chapter poking at them, which I appreciate rather than resent.
 
-Friction: none really. If anything the mozzarella/wine detail runs a touch long compared to the pace of what came before, but it's earning its slowness the way his cooking earns his attention — deliberate, not padding.
+**Friction.** Very little. The pizza-making is maybe a beat long, though I didn't mind it — "the difference... between cotton candy and a bowl of cut strawberries" earns its length by paying off in the sensory description that follows.
 
-Title: "The New Ordinary" lands warm — the drawer full of her things, the flannel ritual, five nights apart being unbearable now when it used to be normal. It's pointing at domesticity settling into permanence, not a warning, at least as far as I can read it. The book's tagline isn't in my carry-forward so I can't react to it, but "A Polite Invitation" and "With a Long Spoon" both still sit outside this chapter's mood entirely — nothing here felt like an invitation with an edge, it felt like safety being built.
+**Titles.** "The New Ordinary" — I feel it land on the drawer of her things in his bathroom, the water-buffalo cheese aside, the routine of him cooking for her "exactly like this for an empty house." It's about domestic life becoming unremarkable, which is its own kind of intimacy milestone. Doesn't recolor anything, just names what I was already feeling.
 
-What I want next: I want to see whether Randi comes back into the story now that I know something's shifted in how Vee holds her secret, and whether Pace's "no-go zone" ever gets touched. This chapter didn't move those threads, but it deepened my trust in Pace considerably — enough that the open question about the photo shown to Randi is starting to feel like a real fault line waiting under all this good will, not just an abstract loose end.
+**What I want next.** More of this — but also braced for it: I still haven't forgotten Randi, or "not finished," or that this ease is Vee's whole world narrowing toward one man. No dread yet, just holding the other threads in mind while this one gets to be sweet.
 
-**Cast present (in person):** Vee, Pace. No one else appears or is named.
+---
 
-**Heat:** 3 — sustained, explicit, the scene's center for roughly the first half (undressing in the hall, oral, penetrative sex), rendered with real specificity and mutual desire throughout.
+**Cast present (in person):** Pace, Vee. No one else on page or mentioned.
 
-**Romance:** 3 — the shirt exchange is a genuine romantic peak: a small domestic ritual turned into a full declaration without either of them saying "I love you."
+**Heat:** 2 — explicit, sustained sexual activity (the undressing-through-sex sequence), though it shares the chapter with an equally long domestic/cooking sequence.
 
-**Motifs & images:**
-- Made-by-his-hands/quiet devotion (Pace) — first-listed motif, now vividly active: the pizza-making sequence is this motif's fullest expression yet — total absorption, care as "the shape his attention took when it came down on a thing." Repeat, escalated from prior scattered instances (dress, chair, tending her).
-- Taste/food as intimacy — repeat, strongest instance yet: her describing tasting "all of it… separately, laid out for her to walk down one at a time," the strawberries/cotton-candy comparison. This is the clearest single elaboration of this motif so far.
-- The shirt as a token of presence/absence — new, and immediately load-bearing: the flannel he gave her on a hike, worn every night she's away until it stops smelling like him, washed and handed back for him to "recharge." A new object-motif, first appearance, feels destined to recur.
-- Drawer/space in his house — new small image: "half of what she used to drag back and forth lived in the top drawer of his bathroom now," her having a physical foothold in his house.
+**Romance:** 3 — a clear romantic peak, specifically in the shirt exchange: an unguarded declaration-by-object and his unhesitating, ungrudging response.
 
-**Symbolism:** The shirt reads as standing in for presence itself — his smell as proof he's real and close even in absence — and the exchange (wash it, give it, get it back "smelling like you") as a small closed loop of devotion, a domestic ritual invented between just the two of them.
+**Motifs & images:** His clothes as intimacy object — major new instance: the flannel shirt, worn nightly by Vee in his absence until it "went to nothing" and had to be washed, then handed back for him to re-wear so it "smells like him" again — deepens the standing motif (previously his kitchen/robe, the drawer he clears for her) into something almost ritual. **The drawer** — first physically shown here (top drawer of his bathroom, her brush/soap/scrunchies/pins), confirming and grounding the standing "drawer he clears for her" open motif. Food-as-care/attention — new instance, the pizza made with total unshowy focus ("He'd have made the pizza exactly like this for an empty house"), rhymes with the standing pastry/eggs-Benedict appetite family. Doorway/threshold imagery — new: him waiting "on the far side of it," her walking "into him without a word."
 
-**Characterization:** Both deepen. Pace's patience and total unshowy devotion (the not-performing of the cooking) is consistent with the standing account of him. Vee's honesty about her own body outrunning her composure, and her admission of loneliness rendered through an object rather than a confession, is a lovely new register for her — vulnerable in a different key than the last chapter's watchfulness.
+**Symbolism:** The shirt as a stand-in for presence/absence and the ache of the nights apart — carrying her scent of him through her exile and back; the washing as an admission she didn't want to make out loud. The two shirts he wears at the end (his own plus hers-that's-his) as a small, plain image of him carrying her want visibly, without complaint.
 
-**Pace — within the chapter:** The sex moves fast and urgent, appropriately; the cooking sequence is slow and lingered-over deliberately, mirroring his temperament — earns its length.
+**Characterization:** Pace deepens — his patience is now shown, not told, and costed explicitly ("cost her more than a fight would have" implies restraint on his side too, though the text keeps that interior to her guess). Vee deepens — her shame/pride/desperation register (the hurry, the shirt confession) reads as fully consistent with the woman we've watched self-edit and protect others; here she's finally unedited with him.
 
-**Pace — chapter to chapter:** A hard swing from the last chapter's ensemble/secret-holding beat into a two-hander domestic/erotic chapter — feels like a breather and a deepening of the central relationship rather than a stall; welcome after the tension of the previous chapter.
+**Pace (within chapter):** Sex scene doesn't rush but earns its length through specific mishaps (the jeans, the bra); cooking sequence is the one place I felt time slow almost too much, but it pays off.
+
+**Pace (chapter to chapter):** A clean tonal reset after the heavier "New Ordinary"-adjacent weight of the stats-class chapter — pure Pace/Vee intimacy, no other characters, no plot business. Feels like a deliberate held breath after the last chapter's ache.
 
 ## Carry-forward state
 
-**Principals:**
-- Vee (= Vivienne) — protagonist. This chapter: came to Pace's house after five nights apart (her own choice, to catch up on schoolwork), had eager, needy reunion sex with him, was undone by how fast/loud she came the first time, watched him cook a full pizza from scratch, then gave him back a flannel shirt of his she'd been sleeping in and asked him to re-wear it over the weekend so it would smell like him again for her.
-- Pace (= Peter) — present this chapter, fully embodied for the first time in a while: patient, unhurried, plainly delighted by her, an excellent unshowy cook (bread machine, hand-stretched dough, slow-cooked tomato sauce with cream, buffalo mozzarella, wood-fired stone), immediately understood and honored her shirt request without making her explain herself twice.
-- Randi (= Miranda) — absent, not mentioned this chapter. Standing per prior state: friends (close) with Vee, attracted/secret/possibly one-sided; carries a private family shame (Miranda Holdings, the worst PPP-loan outlier in the class project) that Vee witnessed and kept silent about.
-- Cassie (= Cassandra) — absent, not mentioned this chapter. Standing per prior state: pre-nursing, certain and unsentimental, drove the class project's thesis against PPP loans, doesn't know Randi's family is her own proof case.
+**Principals**
+- **Pace** (= Peter) — man, controlled, patient, courtly, deeply attentive lover and cook; this chapter shown directly for the first time in a while: waits out her absences without argument or coldness, makes elaborate honest food with total unshowy focus, wears her washed-and-returned shirt over his own without hesitation or teasing. "I don't go back," the scar, Daphne, "not finished" with Randi — all untouched, standing open.
+- **Vee** (= Vivienne) — woman, living with Pace most school nights (standing); had pulled back to five nights apart for school and it cost her more than she let show. This chapter: gives herself over completely and unguardedly to him — desperate reunion, then the confession about sleeping in his unwashed shirt until it "went to nothing." Her habitual self-editing/protective-of-others instinct (seen with Randi last chapter) is absent here — this is the one place she doesn't manage herself.
+- **Randi** (= Miranda) — not on page this chapter. Standing: close friend to Vee, unresolved charged undercurrent from the brunch chapter; discovered her father's company (Miranda Holdings/"MIRH") as the worst PPP outlier, had a rare total loss of composure Vee alone witnessed and never named, recomposed within the hour.
+- **Cassie** (= Cassandra) — not on page. Standing: blunt, minimal, close friend to Vee, argued PPP loans were misused; unaware of the personal cost to Randi.
+- **Sheri, Brooke, Meg** — not on page; standing unchanged.
+- **Miranda Holdings, LLC / "MIRH"** — Randi's father's company, largest PPP outlier in the class dataset; standing, untouched this chapter.
 
-**Relationship ledger:**
+**Relationship ledger**
 
-*Vee & Pace (core):*
-- **State:** involved (flag: consummated — y, ongoing). Surface: warm, playful, deeply intimate, now visibly deepening into domestic permanence (her things living in his drawer, the shirt ritual). One guarded no-go zone remains (his parents, "I don't go back") — not touched this chapter.
-- Desire worked-on-her ↔ desire hers — this chapter tilts strongly toward hers: an urgent, chasing, self-admitted appetite ("she'd have burned the house down for him"), though her body still outran her intent (coming "too loud and far too soon" and being embarrassed by it) — a small residual of desire feeling produced/involuntary rather than fully owned, worth holding as the chord.
-- Cold ↔ warmth — total warmth this chapter, the warmest chapter yet: the doorway kiss, the drawer, the pizza, the shirt. No cold notes surfaced.
-- Isolation ↔ belonging — belonging deepened concretely: "her space," a drawer of her things in his house; the shirt ritual as an invented private practice between just them, closing the isolation of nights apart.
-- Used ↔ cherished — cherished totally and vividly: his unhurried attention in bed, his total absorption while cooking for her (and how she couldn't tell whether she or the dough got the larger share of his care, and didn't mind), and above all his instant graceful reception of her shirt confession, refusing to let her feel foolish for it.
-- **This chapter:** Big warm advance — the shirt exchange is a real romantic peak, a wordless declaration; belonging and cherished both moved up; the five-nights-apart tension (her own doing, cause unstated as guilt but implied) got folded fully back into closeness with no friction remaining between them over it.
+*Pace ↔ Vee* — Core. State: involved (consummated: YES, standing), reconciled — deepening, now visibly at its warmest and most secure point shown yet.
+  - Warmth ↔ cold: warm, peak so far — the doorway kiss, the pizza made with total attention, the shirt exchange; nothing withheld from either side on this page.
+  - Isolation ↔ belonging: belonging — her space in his house made literal (the drawer), her body "her space" language; deepest sense yet of a shared household.
+  - Cherished ↔ used: cherished — he waited without demanding, fed her, took her confession about the shirt without embarrassing her; nothing extractive.
+  - Desire worked-on-her ↔ desire hers: hers, fully — her own hunger after five nights apart, her own initiation of the reunion, her own (not manipulated) shame at how visibly her body "published the number she'd gone to such trouble to keep private."
+  - This chapter: the relationship's tenderest and most secure beat shown yet — the shirt confession as a small unguarded declaration, met without hesitation; her self-editing instinct, present with everyone else, is absent here.
 
-*Vee & Randi (core):* No appearance this chapter — carrying forward verbatim.
-- **State:** friends (close) · attracted, **secret** (at least on Vee's side, still unnamed by her) · possibly one-sided, possibly mutual — genuinely unresolved. Not consummated in any form. Standing escalation: an extended goodbye kiss, initiated by Vee, held a beat past ordinary by Randi.
-- Desire worked-on-her ↔ desire hers — quiet, no appearance.
-- Cold ↔ warmth — a held warmth-through-discretion from the outlier chapter (Vee's silent protection of Randi's shame) stands; quiet this chapter.
-- Isolation ↔ belonging — belonging via loyalty-in-action stands; new asymmetry of knowledge (Vee holds something about Randi that Randi doesn't know she holds) stands. Quiet this chapter.
-- Used ↔ cherished — pure cherishing from the last appearance stands. Quiet this chapter.
-- **This chapter:** no change — Randi entirely offstage.
+*Randi ↔ Vee* — Core. State: friends (close), unresolved charged undercurrent from the brunch chapter (standing, untouched); plus the new layer from last chapter — Vee silently protecting Randi's private devastation over her father, never told to Randi. No change this chapter (not on page).
+  - All four axes stand exactly as previously logged (warm/protective, belonging deepened on Vee's side, cherished, desire axis quiet) — untouched this chapter.
 
-*Vee & Cassie:* No appearance this chapter — carrying forward verbatim: deepened last chapter into an easy, unglamorous, non-romantic friendship, Cassie assigning Vee "the smart part" without envy. No change to core status (not a core pair).
+*Pace ↔ Randi* — Core. State: involved (consummated: yes, ongoing), complicated by unglossed "not finished." Not on page or mentioned this chapter. No change.
 
-*Randi & Cassie:* No appearance this chapter — carrying forward verbatim: political/ideological disagreement over PPP loans handled maturely by both, but Cassie unknowingly used Randi's own family as her thesis's proof case, and Randi let it stand.
+*Vee ↔ Cassie* — Core. State: friends (close), warm, trusted. Not on page this chapter. No change.
 
-*Vee alone:* No appearance of the reflective/watchful mode this chapter; instead this chapter shows a different Vee — appetite chasing itself, then caught out by her own body's honesty, then finding a way to say something true (the shirt) without having to say it in so many words. Consistent with the established pattern that her deepest truths get said through objects/actions rather than direct confession.
+**Everything else**
+- Cassie ↔ Randi — standing from last chapter: intellectually opposed on PPP, resolved in Cassie's favor by data, Cassie unaware of personal cost. Not on page this chapter, no change.
 
-**What I know that they don't:** Standing, unchanged this chapter (no new evidence either way) — genuine uncertainty about whether Randi's warmth toward Vee is friendship, attraction, or something Randi hasn't sorted. Standing — I know the nude photo Vee sent Pace has been shown to Randi; Vee doesn't register it as a breach; Pace doesn't know. Standing — I know Randi's family company is the class project's worst outlier and that Randi recognized it, was shaken, and hid it from Cassie; Cassie doesn't know she's arguing in front of the daughter of the exact case she's using as her thesis's proof; Randi doesn't know Vee saw her see it.
+**What I know that they don't**
+- (All prior entries stand, verbatim:)
+- Vee has been selected/approached under possibly false pretenses by Pace (engineered "collision" via Randi) — untouched, standing; Vee has no idea.
+- Randi is actively, skillfully extracting details of and steering Vee's path, while also genuinely, privately fond of her — standing.
+- Randi's private resolve never to let Pace see her fully unarmored self again — standing.
+- Pace's real tenderness with Vee — standing, and this chapter is the strongest direct confirmation of it yet (waiting without demand, the shirt).
+- Pace's history with Daphne — untouched, standing.
+- The scar — standing open question, untouched this chapter.
+- Cassie's unreadable look toward Randi — standing, unaddressed.
+- Randi's kiss with Vee, the lingering goodbye, "Just us" — standing, untouched this chapter.
+- Vee's credit-card debt / money anxiety — standing, untouched this chapter.
+- Pace told Sheri his situation with Randi is "not finished" — untouched, standing; sits uneasily now under this chapter's picture of Pace's devotion to Vee — open question whether that devotion is exclusive or if Randi is a live unresolved thread running parallel.
+- Randi's story of an ex/husband who spanked her ritually — untouched, standing open question.
+- The pastry glaze on Vee's lips — untouched, standing unresolved.
+- The whispered "Peter," unheard — untouched, standing.
+- The drawer he clears for her — now confirmed on page this chapter (top drawer of his bathroom, her brush/soap/scrunchies/pins) — standing, no longer purely a motif-in-waiting but an established fact.
+- The photo (nude) shown to Randi, widening circulation beyond Pace — standing, untouched this chapter.
+- Randi's visibly moved, unsteady reaction to Vee's account of being desired "with the body attached" — standing, untouched this chapter.
+- Randi's father — implicated in PPP loan fraud via Miranda Holdings, LLC ("MIRH"); Vee alone knows what Randi felt in that moment and never told her she noticed. Standing, untouched this chapter.
+- Vee's private read on Randi's family situation — standing, untouched this chapter.
 
-**Motifs:**
-- Made-by-his-hands/quiet devotion (Pace) — dress, table, chair, cooking, tending her when hurt, unhurried attention; now escalated to its fullest form yet in the pizza-making sequence, care as "the shape his attention took when it came down on a thing," performed identically whether or not she was watching. Most charged instance: "He'd have made the pizza exactly like this for an empty house."
-- Taste/food as intimacy — strongest recurring motif in the book; new most-charged instance this chapter — her tasting each separate flavor of the pizza laid out distinctly, the cotton-candy/cut-strawberries comparison for what real attention (his) versus the ordinary version tastes like.
-- The shirt as token of presence/absence — new this chapter, likely to recur: his flannel, worn every night apart until it "went to nothing," washed and returned to him with instructions to re-wear it so it will smell like him again. A closed private ritual between just the two of them.
-- The photograph as trust-token — the nude sent to Pace, then shown to Randi (cropped, then full) as performance — unresolved question of whether Pace ever learns. Dormant this chapter.
-- The extended/lingering kiss (Vee/Randi) — dormant this chapter, standing as previously described.
-- The outlier (Randi's family shame) — dormant this chapter, standing as previously described: "Not a motion — the withdrawal of motion" as Randi goes still on seeing her own name; her choice to close the record and let Cassie's certainty stand.
+**Motifs**
+- **His clothes as intimacy object** — was standing/latent; now major and explicit: the flannel shirt from the hike, worn nightly by Vee through her five nights away until it "went to nothing" (lost his scent), washed, returned to him with instructions to wear it all weekend so it re-absorbs him before she takes it back. Most charged instance yet of this motif; fold prior latent mentions into this.
+- **The drawer** — now literalized on page (bathroom drawer, her toiletries/pins); standing motif confirmed as fact.
+- **Randi's stillness** — standing from last chapter (composure as armor, most direct instance yet in the PPP-shock scene); untouched this chapter (not on page).
+- **Naming as intimacy/control** — standing (the "Peter" whisper, Vee's unlanded "I love him," Pace's "I don't go back," the "Miranda" PPP exposure instance); untouched this chapter.
+- **Protective silence** — standing (Vee curating what she shows/protects others from seeing, most recently Randi's PPP shock); untouched this chapter — though notable this chapter shows the *opposite*, Vee fully unguarded with Pace, a useful contrast.
+- **Food/cooking as care and attention** — standing family (pastry glaze, eggs Benedict); major new instance this chapter — the pizza made with total unshowy focus, "He'd have made the pizza exactly like this for an empty house," and Vee's sensory description of tasting "every flavor... separately" as a kind of intimacy itself.
+- **The two-drawers motif, "No note, there was never a note," "Fine" as the old bar, "I don't go back," the rim-touch ritual, the dance/lead-and-frame motif, the spank/body-answers motif, the outlier/involuntary-heat motif** — all standing, untouched this chapter.
 
-**Symbolism:** The photo still reads as symbolizing two different transactions — trust given to Pace, performance given to Randi — Vee doesn't seem to notice the difference. The outlier data point still symbolizes Randi's inherited, unchosen family shame, closed back into anonymity by her own hand rather than owned aloud. New this chapter: the shirt symbolizes presence itself, his smell as proof of nearness even in absence, and the wash-wear-return loop as a small ritual of devotion invented by the two of them alone.
+**Symbolism**
+- The shirt: presence/absence, longing carried in scent, an admission of need routed through an object rather than words directly — new, strongest instance.
+- The outlier point on the graph (Randi/her family's hidden shame) — standing, untouched this chapter.
+- The shoes, mirror scene, dress's slit, practice room, scroll/certificate, scar, pastry glaze, two drawers, burn, photograph, "I don't go back," mimosa rim-touch, dance frame, Simpson's paradox/"two years," shared shoe size, Randi's stillness, Pace's math monologue as self-description, the ride/climbs — all standing, untouched.
 
-**Open questions:**
-- What happened in "Randi's story" — still never shown.
-- Whether Vee ever tells Randi or Cassie anything true about the charge between her and Randi — still open, more urgent given the extended kiss.
-- The unexplained surgical scar on Pace's inner thigh — still unaddressed.
-- What did "sticky fingers?" actually mean — unresolved.
-- Is Vee's attraction to Randi something she'll act on, suppress, or never fully name — still open.
-- Will Vee ever say "I love you" to Pace while he's awake, and will he ever say it back — still open; this chapter came close in feeling (the shirt) without the words.
-- Why won't Pace "go back" to his parents — still nothing beyond the refusal itself.
-- Who is Sheri, really, to Pace — still only a name, not seen on the page.
-- What does Randi's earlier "It doesn't" mean — still unresolved.
-- Does Pace ever learn the nude photo was shown to Randi — still open.
-- Does Vee ever tell Randi what she saw about Miranda Holdings — or does this join the pile of things unspoken between them — still open.
-- Does Randi's family situation ever surface again, with Cassie or with Vee, openly — still open.
+**Open questions**
+- All prior open questions stand (the triangle's endpoint; whether Vee learns she was targeted; Randi's resolve holding; the Daphne parallel; Randi's self-concealment's cause; Cassie's suspicion of Pace/Randi; Randi's motive for extraction; the never-discussed kiss and toenail-touch; the scar's meaning and "some night"; Vee's age relative to Pace echoing Daphne; "you always get bored"; the credit-card debt's consequences; Vee's self-possession under Randi's gaze; "Randi. That's not finished"; will "Peter" surface for him to hear; will the Randi/Vee kiss be named; is Randi's control wisdom, management, or both; who is the man in Randi's spanking story; does Randi know/intend her effect on Vee; will Vee's self-authored desire persist under Randi's gaze; the pastry glaze's meaning; will Vee say "I love him"; "I don't go back"'s backstory; the photograph's future; Vee's jealous flicker toward Sheri/a rival; will Randi ever learn Vee witnessed her father's exposure and said nothing; does Randi's family history connect to why she guards herself so fiercely — including from Pace; will Cassie ever learn what her PPP argument cost Randi).
+- **New:** how does this chapter's picture of Pace's total, patient devotion to Vee sit against "Randi. That's not finished" — is Randi a closed chapter he's protecting Vee from knowing about, or a live thread that will eventually collide with this?
 
-**How I feel — overall:** Full, warm, a little wistful. This chapter is the happiest, most unguarded the book has been — no secrets between Vee and Pace, no shadow on the page, just two people who fit together being tender and hungry with each other in turn. I trust Pace completely at this point; he keeps proving himself gentle with exactly the things that could embarrass her. I came out of this chapter glad for them, and slightly more aware, because of how good this felt, of how much is still sitting unspoken elsewhere in Vee's life — the photo, Randi, the family shame — like this chapter was a held breath of pure good before the book turns back to what's still hidden.
-
-**Chapter record**
-
-**Characters:** Vee (Vivienne), driving a Corolla, arrives at Pace's house at night; Pace (Peter), described in "one of the big soft shirts," cooks throughout.
-
-**Setting/props:** Pace's house — front door (no porch light this visit), front hall, an "office" door mentioned in passing (a room in his house), his bedroom with a "low table of odd proportions" in the middle, his bathroom with a top drawer that holds Vee's toiletries (brush, face soap, green scrunchies, loose pins). Kitchen: a bread machine, floured white laminate counter, a stone inside his oven, a wooden peel (paddle) for the pizza, a back burner where a tomato sauce (romas, yellow onion, garlic, wine, a little cream) had been simmering "since before she'd come." Buffalo mozzarella ("From water buffalo," his line), sliced button mushrooms, sliced yellow onion. Wine served: a Nebbiolo, described as dark, dried-cherry, tarry.
-
-**Clothing:** Vee wears a green satin bra/thong set and white cotton socks under her coat, sweater, and jeans; the coat comes off inside the door, sweater over her head, jeans fought off one-legged in the hall, bra unwound by Pace holding the back of it while she turns out of it, thong thrown and lands on the low bedroom table. Afterward she wears his robe with her hair "shoved up anyhow." Pace wears an unspecified shirt with buttons (partially undone by Vee) under/with "one of the big soft shirts"; at the end he puts the returned flannel on over the shirt he's already wearing.
-
-**The shirt:** Described as his flannel, "the enormous no-tag one," originally given to her in the rain on a hike, never asked back; she'd slept in it every night she wasn't at his house; she washed it after realizing it had stopped smelling like him ("one day last week it didn't smell like anything at all"); she returns it to him at the end of this chapter, asking him to wear it the whole weekend and give it back Sunday so it smells like him again. He agrees immediately and puts it on.
-
-**Timing:** "Five nights" apart is stated explicitly, her own choice, framed as needing time to catch up on schoolwork after falling behind.
-
-**Other:** No other characters named or appear. No dialogue from anyone but Vee and Pace ("You're not helping" / "I'm helping"; "Here" / the shirt exchange dialogue; "From water buffalo").
+**How I feel — overall**
+Warm, a little melted, glad for the breather. This chapter didn't advance any of the darker threads and I didn't need it to — it gave me the tenderest, most secure version of Pace and Vee I've seen, and I believe it completely: the shirt confession especially felt like real, specific, embarrassed love rather than a scripted romantic beat. I'm still holding all the unresolved weight from before (Randi's family, "not finished," the scar, Daphne) but this chapter let me set it down for a moment and just be glad for these two, which itself feels earned rather than like the book protecting me from consequence.

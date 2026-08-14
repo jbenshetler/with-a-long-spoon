@@ -1,107 +1,83 @@
 # Cold read — Believe Me
 
-*scene: scenes/believe-me.md · model: claude-sonnet-5 · read after: bare*
+*scene: scenes/believe-me.md · prose-blob acbe26f1ec3e14accbd94656c7f4bc564fa37053 · model: claude-sonnet-5 · read after: bare · 2026-08-13*
+<!-- freshness: prose-blob = `git hash-object scenes/believe-me.md` at read time; if it differs from the live file's hash, this review is stale. -->
 
 ## Reader reaction
 
-This one landed like a held breath finally let out. I've been waiting since the shirt chapter for Vee to say something out loud, and here she does — she drives to his house, refuses the kiss, and just asks it plainly: "What are we doing?" My whole body went tight reading it. This is the confrontation the last chapter was building toward without announcing it, and it's exactly as hard and unglamorous as it should be — no dramatic staging, just a woman standing on a doormat with her coat still buttoned to the throat, refusing to cross into the warmth until she gets an answer.
+This is the confrontation the whole book has been building toward, and it lands like a gut-punch precisely because it's so plain. No pile of doubts this time, no cropped photos or unheard whispers — she just asks him, out loud, in words, and he still can't answer.
 
-Pace breaks my heart a little here, and not in the way I expected. He's not cruel, not evasive in a calculating way — he genuinely doesn't have the word, and you can feel him reaching for it and coming up with the truest thing he has, which is devastatingly beside the point: "Do any of your friends have a relationship you'd rather have than this one?" That's such a real answer from a man who thinks proof of quality should stand in for a name. And when she calls it — "Words are cheap, and you still won't spend them on me" — I felt that line in my teeth. It's the whole chapter in one sentence.
+**Vee** — I am so proud of her and so wrecked for her at once. "I want to know what we are. What am I to you?" is the cleanest, bravest thing she's done in this whole run — no hedging, no forgiving in advance. And her catalogue of everything good he gives her — the heat, the food, the touch, being wanted "with the body attached" — followed immediately by "All of that is in here. Inside this house, with the door shut" is devastating structurally. She's not denying the goodness; she's naming its boundary. That takes real clarity, and it's the payoff of the bare-and-cold chapter — she already chose honesty over illusion alone in the dark, and now she's doing it to his face.
 
-Swoon/pull: there isn't much swoon here, and that's right — this chapter earns its ache instead. The one moment that got me was the small, telling detail of the wine already poured, the chicken going, the whole evening staged for her without her ever asking for it — the domestic tenderness that's real and also somehow the trap. That's the tragedy of this relationship in miniature: he gives everything except the one thing.
+**Pace** — my sympathy for him took a real hit here, though not a simple one. "Do any of your friends have a relationship you'd rather have than this one?" is a genuinely painful non-answer — logically true, emotionally a dodge, and she calls it instantly: "That's not what I asked." Then "Words are cheap. Believe what I do" — I feel the appeal of that line and I distrust it in the same breath, because she names the trap exactly: "you still won't spend them." The reach of his hand at the end, stopped and reconsidered — "Not the hand in place of the word" — is the most honest single beat he's had; he *knows* what she needs and still can't give it, and for once he doesn't try to paper over the gap with his body. That's almost worse than if he had.
 
-The turn at the end nearly undid me — "Not the hand in place of the word." That's such a precise, devastating sentence. He reaches for her the way he always does, to fix it with touch, and for once it isn't enough, and the narration names exactly why. And then "Vee," he said behind her, once. Just her name, and her name was not the word she'd come for" — brutal, quiet, perfect. I don't need him to be a villain for this to hurt; I don't think he is one. He's just a man who has one language and she needs another.
+**Swoon/pull** — none, deliberately. This chapter refuses swoon and I respect it for that. The house's warmth, the wine poured, the piano — all of it is staged as exactly the illusion she rejected in the previous chapter, offered again, and this time she won't take it standing in the doorway.
 
-Trust vs suspicion: no new suspicion of Pace — if anything this deepens my sense that he's sincere but limited, not withholding out of cruelty. I don't distrust him; I ache for both of them.
+**Erotic charge** — zero, correctly. This is the relationship's structure laid bare with no bedroom to soften it.
 
-Erotic charge: none here, correctly — this is the chapter where the relationship's currency isn't bodies, it's words, and their total absence.
+**Friction** — none really; the dialogue does the work without over-explaining. "It came out ugly and she let it" — I trust that self-awareness, it doesn't feel like the author flinching for her.
 
-Friction: none — this reads clean and controlled, no thumb on the scale.
+**Title** — "Believe Me" is quietly savage once you finish: it's his line, "believe what I do," turned into the chapter's name, and it reads like an indictment — believe him, and see what that costs her.
 
-Titles: "Believe Me" — his line, "Believe what I do," recast as the chapter's title, and it stings on reflection because that's exactly the ask she's rejecting: don't make me infer, tell me. The title holds his logic up to the light and lets us watch it fail her.
-
-I want to know what happens next — does she leave for good, does he chase the words down eventually, does this crack the whole thing open. I'm bracing, not hoping for reassurance.
-
-**Cast present (in person):** Vee, Pace. (Mentioned only: Cassie, her father, her mother.)
-
-**Heat:** 0 — no erotic content; the chapter is entirely about the absence of language, not bodies.
-
-**Romance:** 2 — real intimacy and devotion visible throughout (the poured wine, the kiss ritual, "the most important person in my life"), but it peaks in rupture, not union — a turn in the bond toward crisis rather than tenderness.
-
-**Motifs & images:** The unbuttoned/buttoned coat as refusal — first instance, she "kept her coat buttoned to the throat," a literal closing-off that mirrors the emotional one. The bag left in the car — new, sharp image: she has "carried nothing in," signaling she doesn't plan to stay, without saying so. "Words are cheap" repeated back at him — first appearance, likely to recur. The unspoken-rule motif (he must say it first) is now finally spoken aloud by her, directly, for the first time on the page. The warm-house-made-for-her motif (standing, heat brought up before she arrives) recurs and is explicitly named by her as evidence and as insufficient.
-
-**Symbolism:** The threshold itself — she stops on the mat and goes no further into the room, physically enacting the refusal to be absorbed into the warmth until named. The door left unlocked "the way he left it for her" reads now as one more form of provision without commitment.
-
-**Characterization:** Vee deepens significantly — this is her most direct, least self-deceiving moment in the whole run; she names the exact shape of her want ("What am I to you?") without softening it. Pace also deepens, sympathetically — his answer isn't a dodge, it's a genuine account of how he understands love (demonstrated, not declared), which makes the impasse feel structural rather than a failure of character on either side.
-
-**Pace — within chapter:** Taut and economical, builds to the confrontation quickly and doesn't over-linger once there; the ending is appropriately abrupt — she leaves before it resolves.
-
-**Pace — chapter to chapter:** Direct escalation from the last chapter's private rupture to this chapter's spoken one — strong momentum, the most decisive chapter in a while after several quieter, interior ones.
+**What I want next** — Does this rupture hold, or does the next chapter fold it back into "forgave without it holding"? I badly want it to hold. I'm bracing for either a real reckoning or a slow slide back to the old bar.
 
 ## Carry-forward state
 
-**Principals:**
-- Vee (= Vivienne) — protagonist. This chapter: drives to Pace's house and, for the first time, directly confronts him at the door, refusing the ritual kiss and demanding to know what they are to each other. Cries, and hides it from him, then leaves without going further into the house or unpacking anything from the car.
-- Pace (= Peter) — present, warm and unhurried on arrival (wine poured, dinner cooking, porch evening planned), genuinely thrown by her refusal of the kiss. Answers her question sincerely but sideways — "Do any of your friends have a relationship you'd rather have than this one?" and "Words are cheap. Believe what I do." When she cries, his anger/held-line dissolves instantly and he reaches to comfort her physically rather than answer in words; she is already leaving. Says her name once as she goes.
-- Randi (= Miranda) — absent, not mentioned this chapter. Standing status carries forward verbatim.
-- Cassie (= Cassandra) — mentioned only, as someone Vee doesn't know how to explain the relationship to ("What do I tell my mother... How do I say what this is to Cassie?").
+**Principals**
+- **Pace** (= Peter) — man, controlled, patient, courtly lover and cook. This chapter: on page, at his house, offers her the full staged evening (heat, wine, chicken, piano, porch) and cannot answer her direct question of what she is to him; deflects with "Do any of your friends have a relationship you'd rather have than this one?"; falls back on "Words are cheap. Believe what I do"; goes still and silent, arms folded, "the still of a man holding a line at cost," when pressed further; only breaks when she cries — reaches for her, stops himself, says only "Vee" once as she leaves. Does not follow her out.
+- **Vee** (= Vivienne) — woman. This chapter: arrives at his house, does not bring her bag in, refuses the hello kiss, confronts him directly and articulately — names everything good he gives her, then names its limit ("Inside this house, with the door shut"), demands to know what she is to him "out there," rejects his non-answers, cries despite not wanting to, leaves. Does not go back in.
+- **Randi** (= Miranda) — not on page. Standing unchanged.
+- **Cassie** (= Cassandra) — not on page, named only in Vee's question ("How do I say what this is to Cassie?"). Standing unchanged.
+- **Sheri, Brooke, Meg** — not on page; standing unchanged.
+- **Miranda Holdings, LLC / "MIRH"** — not on page; standing unchanged.
+- **Vee's parents** — not on page; named only rhetorically ("What do I tell my mother"). Standing unchanged.
 
-**Relationship ledger:**
+**Relationship ledger**
 
-*Vee & Pace (core):*
-- **State:** involved (flag: consummated — y) → now openly **fighting/confronting**, first time this has surfaced as direct spoken conflict rather than private endurance. Surface: still unnamed — the confrontation ends without resolution, not with a naming. True: the asymmetry is now fully exposed to both of them, no longer only known to her privately.
-- **Warmth ↔ cold:** Sharp juxtaposition — the house is "too warm for him and made that way for her," every physical provision at its peak, and she stands in it refusing to be warmed, coat buttoned to the throat, and then walks back out into literal cold air rather than take the offered warmth. The scene stages warmth-as-substitute-for-word explicitly.
-- **Belonging ↔ isolation:** She names the isolation herself for the first time — inside the house she has everything, "out there" she has no shape at all, can't explain the relationship to anyone in her life. The confrontation itself is an act of refusing continued isolation-within-intimacy.
-- **Cherished ↔ used:** She explicitly separates these — "I'm not complaining about one minute of it" — the physical/domestic care is real and cherishing, but she distinguishes being adored from being *claimed*, and finds the first insufficient without the second.
-- **Desire hers ↔ desire worked-on-her:** Not erotic desire this chapter — the "wanting" is for language, for a name, entirely her own and explicitly articulated as such, no ambiguity.
-- **This chapter:** Major escalation — first direct verbal confrontation in the whole relationship. She asks the unspoken-rule question aloud ("What am I to you?") and he answers with devotion-as-proof rather than a name; she rejects that substitution explicitly ("Words are cheap, and you still won't spend them on me") and leaves without resolution, crying, refusing his comfort-by-touch.
+*Pace ↔ Vee* — Core. State: involved (consummated: YES, standing); **ruptured this chapter** — the "reconciled but under open strain" status breaks open into direct confrontation and an unresolved walkout. Surface/true: previously the surface was a warm, ongoing relationship with private strain on her side only; now the strain is out loud, spoken to him directly, and he has heard it and still not answered it. This is the first time the asymmetry has been named aloud rather than carried silently.
+  - Warmth ↔ cold: literal and total in this chapter — his house's engineered warmth (heat raised before she arrives, wine poured, so she is "never once cold under his roof") set directly against her walking back out into the cold by choice. The warmth is real and it is also, now explicitly, insufficient.
+  - Isolation ↔ belonging: she names the isolation precisely — everything good is "in here, with the door shut"; outside the house, with anyone else in her life, the relationship has no name and no place to stand. Belonging exists only inside four walls.
+  - Cherished ↔ used: she affirms she is cherished physically and sensually, without hesitation or complaint ("it's the best of my life... not complaining about one minute of it") — but names that being cherished in bed is not the same as being claimed in the world.
+  - Desire worked-on-her ↔ desire hers: this chapter is not primarily about desire but about naming — her own voice, her own question, asked plainly and not swallowed. A shift toward agency: for the first time she pushes rather than absorbs.
+  - This chapter: major turn. She confronts him directly for the first time; he cannot give her the word; she cries, he reaches and stops himself ("Not the hand in place of the word"), says her name once; she leaves without resolution. The relationship stands at an open, unresolved rupture — first time it has broken the surface into speech.
 
-*Vee & Randi (core):* No appearance — carrying forward verbatim.
-- **State:** friends (close) · attracted, **secret** (at least on Vee's side, still unnamed by her) · possibly one-sided, possibly mutual — genuinely unresolved. Not consummated in any form. Standing escalation: an extended goodbye kiss, initiated by Vee, held a beat past ordinary by Randi. Most recent development: Vee witnessed Randi's private shame (her family's company as the worst outlier in a class data project) and chose protective silence rather than comfort spoken aloud or disclosure to Cassie.
+*Randi ↔ Vee* — Core. Standing unchanged, not on page.
 
-*Vee & Cassie (core-adjacent):*
-- **State:** friends (close), warm, easy — deepened when Cassie asked Vee directly what Pace is to her and let the unanswerable question stand without pressing.
-- **This chapter:** No interaction — named only as a marker of the unnameable-relationship problem ("How do I say what this is to Cassie?").
+*Pace ↔ Randi* — Core. Standing unchanged, not on page/mentioned.
 
-*Vee alone:* The pattern of silent self-honesty from the prior chapter (taking the shirt off, refusing the comforting fiction) has now become spoken confrontation — the first time her private reckoning has crossed into direct action toward Pace himself, rather than staying inward.
+*Vee ↔ Cassie* — Core. State: friends (close), warm, trusted. Not on page this chapter; named only in Vee's rhetorical question about how she'd explain the relationship to Cassie — underscoring that even her closest friend has never been told what this is. No direct interaction, no change to axes.
 
-**What I know that they don't:** Standing, unchanged — genuine uncertainty about whether Randi's warmth toward Vee is friendship, attraction, or something Randi hasn't sorted. I know the nude photo Vee sent Pace has been shown to Randi; Vee doesn't register it as a breach; Pace doesn't know. I know Randi's family company is the class project's worst PPP-loan outlier and that Randi recognized it, was shaken, and hid it from Cassie; Cassie doesn't know she's arguing in front of the daughter of the exact case her thesis rests on; Randi doesn't know Vee saw her see it. I watched Pace's one visible flash of irritation in public at Chili's, which he hid from her — she never learns she saw it accurately; she talked herself into a kinder reading, and that "forgiveness" already failed by the next chapter, and now this chapter shows the confrontation that reading was suppressing finally breaking the surface. Also: I know her self-soothing ritual (his shirt) failed her for the first time in the prior chapter, and this chapter is the direct consequence — she didn't bury it, she brought it straight to him.
+**Everything else**
+- Cassie ↔ Randi — standing unchanged, not on page.
 
-**Motifs:**
-- The unspoken rule that he must say "I love you" first — now finally spoken aloud directly, in full, for the first time: "I want to know what we are. What am I to you?" No answer given. This is the motif's most charged instance yet, superseding all prior indirect references.
-- "Words are cheap" — his line, thrown back at him as accusation; likely to recur.
-- Provision-without-declaration — gist: heat brought up before she arrives, wine poured, dinner cooking, dress sewn, quilt, drawer — all standing evidence of devotion Vee now explicitly separates from being named/claimed. Most charged instance: "You take me into your warm house every weekend... All of that is in here. Inside this house, with the door shut... Out there, what are we?"
-- The shirt ritual (from prior chapter) — dormant this chapter, not referenced directly, but its rupture is the clear precondition for this confrontation.
-- Threshold/coat-buttoned-to-the-throat — new, first instance: she stops on the mat, refuses to cross further into the room, keeps her coat closed; physical enactment of refusing to be absorbed into the relationship's comfort until it's named.
-- "Not the hand in place of the word" — new, sharp authorial-adjacent line marking the moment his usual mode of repair (touch) fails to substitute for what she's asking.
+**What I know that they don't**
+- (All prior entries stand, verbatim, untouched this chapter:) Vee has been selected/approached under possibly false pretenses by Pace (engineered "collision" via Randi); Randi is actively, skillfully extracting details of and steering Vee's path, while also genuinely, privately fond of her; Randi's private resolve never to let Pace see her fully unarmored self again; Pace's real tenderness with Vee, standing alongside his repeated failure/reluctance to name the relationship or be visibly public with her; Pace's history with Daphne; the scar; Cassie's unreadable look toward Randi; Randi's kiss with Vee, "Just us"; Vee's credit-card debt/money anxiety; Pace told Sheri his situation with Randi is "not finished"; Randi's ex/husband spanking story; the pastry glaze on Vee's lips; the whispered "Peter," unheard; the drawer he clears for her; the nude photo shown to Randi and the uncropped induction photo sent home cropped, reason unstated; Randi's visibly moved reaction to Vee's account of being desired "with the body attached"; Randi's father implicated in PPP fraud via Miranda Holdings/MIRH, known only to Vee, never told to Randi; Vee's private read on Randi's family situation; Vee cannot name what Pace is to her, even to herself, "not the big one he wouldn't give her and not the small one she couldn't find"; Vee's private "pile" of doubts requiring repair work to function within; Vee's private nighttime act of stripping off his shirt and choosing bare cold over false borrowed warmth, unwitnessed by anyone.
+- **New this chapter:** Vee has now confronted Pace directly and articulately, in words, for the first time — this is no longer a private grievance she manages alone but a spoken demand he has heard and failed to meet. He knows now, explicitly, that she needs the word and that "believe what I do" is not enough for her — this was previously something only the reader (and her privately) knew; now it is mutual knowledge between them, even though nothing is resolved. The reader also now knows Pace recognizes the inadequacy of a physical gesture in this moment ("Not the hand in place of the word") — a flicker of real self-awareness in him that he still doesn't act past.
 
-**Symbolism:** The house's warmth as the relationship's whole argument made physical — total comfort, total care, offered instead of a name; she stands in the doorway refusing to let warmth answer the question. The unpacked bag left in the car reads as a quiet, unstated sign she came not to stay but to have this exact conversation.
+**Motifs**
+- **His clothes / his handmade things as intimacy object** — standing family (flannel shirt, induction dress, shared quilt, the shirt-as-false-warmth from last chapter); untouched this chapter, but the house-as-warmth-object functions as a structural cousin here — engineered heat and wine and food, standing for everything he gives her that isn't the word.
+- **The drawer** — standing established fact; untouched this chapter.
+- **Randi's stillness** — standing; not on page. Note: Pace himself goes still this chapter ("the still of a man holding a line at cost") — a new instance of stillness-as-defense, echoing Randi's established pattern but now attributed to him.
+- **Naming as intimacy/control** — major escalation: from the empty text-message field (prior chapter) to a direct spoken demand — "What am I to you?" — asked twice, refused twice, in different forms ("You're the most important person in my life" / "Do any of your friends have a relationship you'd rather have than this one?" / "Words are cheap. Believe what I do"). This is the central motif's loudest instance yet.
+- **Protective silence / cropping** — standing family; this chapter's version is Vee turning her face away to hide her crying — "She did not want him to have it, the crying, on top of everything else he had of her and would not name" — concealment even at the point of maximum exposure.
+- **Food/cooking as care and attention** — standing (Chili's nachos, prior chapters); new instance — chicken cooking, wine poured, staged as part of the evening she refuses to enter.
+- **The two-drawers motif, "No note, there was never a note," "Fine" as the old bar, "I don't go back," the rim-touch ritual, the dance/lead-and-frame motif, the spank/body-answers motif, the outlier/involuntary-heat motif, his control breaking (from prior chapter), "the Rusty Nail"/after-the-dance reference** — all standing, untouched this chapter.
+- **New — "Words are cheap. Believe what I do."** — Pace's central self-justifying line, now a named motif; the chapter's title quotes/inverts it. Likely to recur as the fault line of the whole relationship.
+- **New — the unlocked door / the threshold not crossed:** Vee stops on the mat, level with the chair where her bag usually goes, and goes no further into the room; she never brings her bag in from the car. A spatial enactment of refusing to fully enter the relationship's terms tonight.
+- **New — "Not the hand in place of the word":** Pace's arrested gesture, reaching for her and stopping — the clearest image yet of the gap between what he can give physically and what he withholds verbally.
 
-**Open questions:**
-- Does this rupture change anything going forward, or does the relationship reset to its old shape by the next time they meet?
-- Will Pace ever find or offer the word she's asking for, or is he constitutionally limited to demonstrating rather than declaring?
-- Does Vee tell anyone (Cassie, Randi) what happened tonight?
-- Was the restaurant discomfort purely sensory/social (as he claims) or something more — still open.
-- What happened in "Randi's story" (earlier reference) — still never shown.
-- Whether Vee ever tells Randi or Cassie anything true about the charge between her and Randi — still open.
-- The unexplained surgical scar on Pace's inner thigh — still unaddressed.
-- What did "sticky fingers?" mean (earlier chapter) — unresolved.
-- Is Vee's attraction to Randi something she'll act on, suppress, or never fully name — still open.
-- Why won't Pace "go back" to his parents — still nothing beyond the refusal itself.
-- Who is Sheri, really, to Pace — still only a name.
-- What does Randi's earlier "It doesn't" mean — still unresolved.
-- Does Pace ever learn the nude photo was shown to Randi — still open.
-- Does Vee ever tell Randi what she saw about Miranda Holdings — still open.
-- Does Randi's family situation ever surface again, with Cassie or with Vee, openly — still open.
+**Symbolism**
+- The cracker/meal sentence: standing, untouched.
+- The nachos at Chili's: standing, untouched.
+- "Under the Rug": standing.
+- The shirt as false intimacy / bareness as chosen honesty (prior chapter): stands now confirmed and extended — this chapter is the daylight (well, night) enactment of the same refusal, done aloud, to his face, instead of alone.
+- **New — the house's warmth as the whole relationship's structure:** everything good, entirely contained "in here, with the door shut" — a direct visual/spatial symbol for a love that exists only in private, never named publicly.
+- **New — the unbrought bag / untaken kiss:** small refusals that stand in for the larger refusal — she withholds the small yeses (kiss, bag, entering the room) because he won't give her the big one (the word).
+- The quilt, cropped photo, dress, outlier graph point, shoes, mirror scene, dress's slit, practice room, scroll/certificate, scar, pastry glaze, two drawers, burn, photograph, "I don't go back," mimosa rim-touch, dance frame, Simpson's paradox/"two years," shared shoe size, Randi's stillness, Pace's math monologue, the ride/climbs — all standing, untouched.
 
-**How I feel — overall:** Shaken, in the good/hard way — this feels like the chapter the whole relationship has been walking toward since the first scene of Pace's careful, wordless devotion. I don't feel betrayed by either of them; I feel for both, which is the harder and more honest place to be left. My sympathy for Vee has sharpened into something like pride — she finally said it plainly, out loud, at real cost — and my read on Pace hasn't curdled into distrust, just into a clearer sense of his limits. I'm genuinely unsure what happens next, which is exactly where I want to be.
+**Open questions**
+- All prior open questions stand, verbatim, untouched: the triangle's endpoint; whether Vee learns she was targeted; Randi's resolve holding; the Daphne parallel; Randi's self-concealment's cause; Cassie's suspicion of Pace/Randi; Randi's motive for extraction; the never-discussed kiss and toenail-touch; the scar's meaning and "some night"; Vee's age relative to Pace echoing Daphne; "you always get bored"; the credit-card debt's consequences; Vee's self-possession under Randi's gaze; "Randi. That's not finished"; will "Peter" surface for him to hear; will the Randi/Vee kiss be named; is Randi's control wisdom, management, or both; who is the man in Randi's spanking story; does Randi know/intend her effect on Vee; will Vee's self-authored desire persist under Randi's gaze; the pastry glaze's meaning; will Vee say "I love him"; "I don't go back"'s backstory; the photograph's future; Vee's jealous flicker toward Sheri/a rival; will Randi ever learn Vee witnessed her father's exposure and said nothing; does Randi's family history connect to why she guards herself so fiercely; will Cassie ever learn what her PPP argument cost Randi; how does Pace's total devotion sit against "Randi. That's not finished"; what does the uncropped induction photo actually show; will Vee ever find/use a word for what Pace is to her; was Vee's restraint toward Cassie a wish to be pushed further; what happened at "the Rusty Nail" and after the dance; is Pace's stated reason for restaurant discomfort the whole truth or also/instead discomfort at being seen publicly with Vee; will Pace's control ever break again outside of sex.
+- **New:** Will this rupture hold — does Vee actually stay away, or does she come back and let it fold into the old pattern of forgiving without it holding? Will Pace do anything to close the gap she named, or only wait her out? Does Cassie find out what happened tonight? Is this the end of "Believe what I do" as sufficient, or will he simply wait for her to accept it again?
 
-**Chapter record**
-
-Characters appearing: Vee (drove up, engine ticking down, coat buttoned to throat, stopped on the doormat, cried and turned face away, left without going further into the house). Pace (came from the kitchen with a towel over one shoulder, crossed to her for the usual kiss, wine already poured — two glasses on the counter — chicken cooking on the stove, piano music playing quietly, offered a porch evening, answered her question with "Do any of your friends have a relationship you'd rather have than this one?" and "Words are cheap. Believe what I do," went still with arms folded when she pushed back, then reached for her when she cried, said "Vee" once as she left).
-
-Mentioned only: Cassie (Vee references not knowing how to explain the relationship to her), Vee's father and mother (referenced the same way).
-
-Setting: Pace's house — a truck in the drive, house with low lamplight in the windows (not overhead light), unlocked door, chair by the door where Vee's bag usually goes (bag stayed in the car this time), kitchen with stove going, counter with two poured wine glasses, piano music playing (described as "quiet, something slow that moved like water").
-
-Details for continuity: Vee's bag was left in the car — she carried nothing in. The house is kept warm ahead of her arrival, established as his standing habit ("He would have brought the heat up hours ago... before she came, every time"). Vee had not slept for two nights prior to this chapter ("kept her up two nights running, holding a smell in the dark that told her nothing" — references the prior chapter's shirt scene). Weather: cold outside, clear night implied by Pace's mention ("It's clear tonight, you can see everything"). Weather: cold outside, clear night.
+**How I feel — overall**
+Shaken and rooting hard for Vee. This is the strongest, clearest thing she's done in the whole run — she asked the actual question, out loud, and refused to let him dodge it twice. My sympathy for Pace didn't vanish but it thinned considerably; "believe what I do" is a real answer from inside his own logic and a genuine failure from inside hers, and the chapter doesn't let him off the hook for it even as it lets him be a person who almost reaches for her and stops. I badly want this rupture to be real and to matter, not to dissolve by the next chapter into another private forgiveness that doesn't hold.

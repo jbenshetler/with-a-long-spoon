@@ -1,149 +1,128 @@
 # Cold read — Peekaboo
 
-*scene: scenes/peekaboo.md · model: claude-opus-4-8 · read after: fed*
+*scene: scenes/peekaboo.md · prose-blob 906092c84f35e28589bf292aa15ce46cda494fd9 · model: claude-opus-4-8 · read after: fed · 2026-08-13*
+<!-- freshness: prose-blob = `git hash-object scenes/peekaboo.md` at read time; if it differs from the live file's hash, this review is stale. -->
 
 ## Reader reaction
 
-## The felt read
+This one just worked on me, and I let it. After a run of chapters where every warm gesture was the mechanism, this was the closest the book has come to letting me simply melt — and I did. The dress hung in the window "lit from inside itself," the pedestal moved to a newly hung mirror with "the screw heads still bright" — that detail undid me the way it undid her. And her read of *why* it undid her is the whole book in miniature: "he'd taken all that trouble and then taken the further trouble to hide the trouble." The concealed labor. She names it exactly.
 
-Oh, this one worked on me. After a run of chapters where Pace lived only as "the man" in Vee's retelling and Randi's harvest, here he is fully on the page, and the scene is almost unbearably tender. The dress. He made the dress — the burgundy/russet one from the fitting — finished it in the small hours while she slept across town, and hung it in the window so the fall sun came through the silk "lit from inside itself," and set up a mirror and moved the pedestal, the whole staging, so she'd walk in and *see*. And the thing that undid me the way it undid her: "he'd taken all that trouble and then taken the further trouble to hide the trouble, so the only thing left for her to see was the part that looked like it had cost him nothing." That's a gorgeous, aching line about how love shows itself by concealing its own labor.
+The undressing sequence is the erotic peak of everything so far, and it's hers — she strips the underwear off not for him but because "she was the one who'd taken the edge away," shame crossing into wanting "almost before it was shame at all." That's the *floozy* voice getting overwritten in real time — "somewhere behind her ribs the looking stopped being shame." Real heat, real interior, and the striptease reads as her authorship. The walk to him, "given and taken back and given" — genuinely swept me up.
 
-And then — the chill went straight up my back, because I have read that exact sentence before, only it was about *Randi's face.* The seamless surface with no seam of effort showing. The ladle that leaves no hole in the soup. He hides the trouble; she hides the wanting; both of them make things with **no fingerprints.** The page didn't tell me to think that. It just handed me Pace's craft in the identical shape as the con's craft, and I flinched inside the swoon. That's the whole book in one image: the dress is a genuine act of love *and* it is the instrument — a costume, cut "to the actual shape of her, and to no one else's," and she immediately daydreams walking into the induction in it and letting the room turn. The dress-and-induction thread that's been open finally surfaces, and it surfaces as *her* fantasy of triumph, which is exactly how the plan would want it to feel.
+And yet. I carry what she doesn't. The gown was built on her stripped body at his kneeling eye-level; the mirror is *newly hung* for this; the lining is set "into the only parts of her the dress had decided not to give away" — he decided where she gives herself away and where she doesn't. The daydream ending — walking into the induction late, in this, letting the room turn, "it just felt like what she was for" — is the tenderest thing and also the apparatus doing exactly what it built her to feel. "Getting away with something" is the last line, and I don't think she's the one getting away with it.
 
-But — and this is why I can't convict him — the tenderness reads *real*. "Yes," he said, "and didn't make it smaller." A man proud of his making, not deflecting. The two-handed care hanging the dress mid-embrace, the "wait, the dress." The up-all-night labor she intuits and he never claims. If this is performance it is performance indistinguishable from love, and the page keeps that door propped exactly as wide as it's kept it all along. I'm grateful for it.
+But I want to be honest: the page did not raise a seam this time. Pace's care here is not visibly instrumented on the page — he's asleep "gone down hard," up the night before finishing it, "the only one awake in the warm house" is *her*, watching *him*. If anything the vulnerability ran his direction. My dread is entirely imported from prior chapters, not earned fresh here. This chapter, on its own terms, is a woman being made to feel like a lot of woman who knows how much she is, by a man who thought about nothing else. That it's also true is the ache.
 
-The erotic charge is high and it's *hers* — the peekaboo of the title is the slit opening on her bare leg, calf to hip, "given and taken back and given," and the moment I loved: she sees her underwear cutting the clean line, her first thought is small steps so it won't show, and "the second came up hot behind the first and didn't care what showed." She strips it off, on purpose, to be looked at, and the shame goes through her hot and "crossed into wanting almost before it was shame at all, and she let it come." Then she *strides* to him. That's Vee's growth made physical — the floozy word flares, her face goes hot, and "the looking stopped being shame." The act itself fades to black ("nothing left for either of them to decide"), so the heat is in the build, not the graphic center, and that's the right call — the charge is her taking the edge away herself.
+**Title — "Peekaboo":** the slit opening on her bare leg, "calf to hip, and fell shut when her feet came together" — the flash and cover, given and taken back. Innocent word, child's game (the grin "the way a kid can't keep a surprise in his mouth"), and underneath it: reveal as the whole erotic engine of the scene, exposure she chooses. Lands lightly, charges on the reread when I set it against how much of her he's arranged to have revealed. **A Polite Invitation / With a Long Spoon** — the long spoon (sup with the devil) sits under his sleeping care here more quietly than ever; the "invitation" is his afternoon left entirely to her choosing, which is the shape of the whole seduction.
 
-The last line is the dramatic-irony dagger, quiet and perfect: she lies against him "happy... getting away with something." I know who's getting away with what. She thinks she's the thief.
-
-**Trust vs. suspicion:** the *page* is nearly all warmth — the only new unease it genuinely earned is that rhyme between his hidden labor and the con's seamlessness, and it earned it hard by using the same language. Everything else darkening the scene is what I carry in, not what the text pushed.
-
-**Friction:** almost none. If I reach, the dress trying-on runs a touch long in its loving inventory of cloth-on-skin — but it earned the length because the dress is the point, the made thing that reveals and conceals. No thumb on the scale.
-
-**Title:** "Peekaboo" — the slit that gives her leg and takes it back; the underwear peeking then gone; Pace "like a kid can't keep a surprise," grinning, the child's game of hidden-then-revealed. And under it, the reader's own peek — I see through the dress to the instrument while Vee sees only the gift. It illuminates without giving anything away; the charge is the double sense of what's shown and what's hidden. *A Polite Invitation / With a Long Spoon* — the long spoon is nowhere in this bright warm room, which is exactly the point: she sups happily, no devil visible, fed by a made thing with no fingerprints on it.
-
-**What I want next:** to know if she wears it to the induction, and what that room is *for.* The dress being cut to her and no one else, bound to the induction in her own fantasy — that's the plan surfacing as her joy, and I dread the moment the two readings collide.
-
-## Structured block
-
-**Cast present (in person):** Pace, Vee. **Mentioned/imagined only:** the induction, "the other girls."
-
-**Heat:** 2 — high erotic build (the stripping, the striding, the slit), but the act itself fades to black.
-
-**Romance:** 3 — a devotion peak: the made dress, the night's labor hidden, the mid-act "wait, the dress" hung with two-handed care. The bond deepens hard.
-
-**Motifs & images:**
-- *The made object with no fingerprints* (repeat, prior: russet dress/no-tag shirt) — now the dress **revealed and gifted**, "no seam of effort... hide the trouble so it looks like it cost nothing." Fused explicitly with —
-- *The seamless surface / ladle that leaves no hole* (repeat, prior: Randi's face, the sanitized version) — his hidden labor written in the identical shape as the con's seamlessness. First time the two rhyme on the page.
-- *The slit / peekaboo* (first sighting) — given and taken back; the underwear peeking then removed.
-- *Underwear left behind* (repeat, prior: green panties "Trade") — softer here, stepped out of and left with her clothes, unmarked.
-- *Floozy / shame voice* (repeat) — flares, and "the looking stopped being shame." Overcome again.
-- *The dress bound to the induction* (repeat, prior open question) — surfaces as **her** daydream of walking in late, letting the room turn.
-- *Pausing to preserve mid-passion* (repeat, prior: Chianti opened to breathe) — stopping mid-act to hang the dress "with the care you'd give something alive."
-- *"Getting away with something"* (first sighting) — dramatic-irony closer.
-
-**Symbolism:** The dress that arrives "store-finished," trouble hidden = love showing itself by concealing its labor — and, chillingly, the same craft as the con. The lining "a soft wall set into the only parts of her the dress had decided not to give away" = reveal-and-protect, mirroring both Vee's self-editing and Pace's withheld. Peekaboo = what's shown vs. hidden, including the reader's own privileged peek. "Getting away with something" = she thinks she's the thief.
-
-**Characterization:** Pace **deepens** — on-page and vivid for the first time in a while: proud maker ("didn't make it smaller"), kid-delighted then "quieter, harder to look at," genuine labor. His warmth reads real without closing the con question. Vee **deepens** — her growth made bodily: she takes the edge away herself, strides instead of hiding.
-
-**Pace — within the chapter:** the dress try-on lingers lovingly; earned, because the dress *is* the scene. Otherwise taut.
-
-**Pace — chapter to chapter:** a shift from the harvest-brunch's cold undertow to a warm two-hander — momentum holds by changing register; welcome after two sealed-and-fed chapters. The con advances only by inference (the dress-as-instrument, the induction daydream), which keeps the dread banked rather than loud.
+**What I want next:** the finished gown *worn* into the induction room — she's already daydreamed it, so it's coming, and I dread who else is in that room. And still: **the scar.**
 
 ## Carry-forward state
 
 **Principals**
-- **Pace** (= Peter): young math PhD; powerlifter; maker of expensive-eyed furniture (no-screw joints, own stain/shellac); licenses an MRI patent. Ordinary pleasant face, light brown hair, thick calloused hands. White pickup; outsized workshop; small post-war house off six-fourteen, one shut bedroom door; white-walled bedroom, plain white much-washed sheets. Sun porch of windows (the fitting room). Private rule (right hand); the "small closing" at *parents*. Makes the no-tag shirt and the burgundy/russet dress. Large unexplained scar high inside his thigh. **This chapter: fully on page — grinning, helpless with his surprise; made the dress and finished it overnight; hung/staged it with a mirror for her reveal; "Yes... and didn't make it smaller"; hung it mid-act "with the care you'd give something alive"; went down asleep hard and fast, arm flung up. Tenderness reads genuine; his hidden labor written in the con's own seamless shape.**
-- **Randi** (= Miranda): 21, junior, sorority Standards board; black hair, blue eyes, dancer's body, cold-citrus/bright-green scent. Secretly involved with Pace, the closer steering Vee. Virtuoso extractor; loaded second-press kiss; plain heavy white-gold band, no stone, never removed; two on-page cracks. **Off-page this chapter.**
-- **Vee** (= Vivienne): jacket protagonist, POV. Tall lush hourglass, copper hair, snub freckled nose, good legs. Econ major; hungry to be chosen; self-managing (mother's appetite/shame-voice); owns her appetite. **This chapter: second visit to Pace (a midweek afternoon after the night); undone by the made dress and cried the happy kind; tried it on bare, stripped her underwear off on purpose to be looked at, strode to him — shame crossing into owned wanting. Floozy word flared and lost. After: watched him sleep, daydreamed wearing the dress into the induction and letting the room turn "like what she was for"; lay against him "getting away with something."**
-- **Cassie** (= Cassandra): Vee's roommate/friend; clever, warm, loves-by-holding; reads Vee fast; got the edited "he cooked" version. Carries a hidden fold. **Off-page this chapter.**
-- **Kayla, Meg**: dining-circle friends, unknowing (Meg holds the one real caution). Off-page.
-- **Brooke**: sorority president; warmth-as-instrument; probing Pace. Off-page.
-- **Christine**: older woman, small restaurant; knows Pace warmly. Off-page.
-- **The silent taller woman** (unnamed): watched Vee once. Open identity. Off-page.
-- **Theo** (walk-on): asked Vee to a fall event; she said friends. Peripheral.
+- **Pace** (= Peter) — male. Math PhD near done, powerlifter, builds furniture; runs meticulous-consent scenes; engineered Randi's attraction and the staged collision. Large scar high on inner thigh he closed off from Vee's look. **Present.** Finished the burgundy silk gown overnight, staged its reveal (moved pedestal to a newly hung full-length mirror), left the afternoon's choosing to her; consummation with Vee in the dress. Went down asleep hard after, up the prior night finishing it.
+- **Randi** (= Miranda) — female, 21. Sorority Standards. Disordered eating, hidden self-harm; curated face; dark-green Mercedes; plain white-gold band at wrist; two smiles. Absent this chapter.
+- **Vee** (= Vivienne Thorne) — female, 21, junior. **Jacket protagonist.** Tall, lush, warm dark-red hair, snub nose, cinnamon freckles. Econ major; sharp room-reader, deep self-surveillance, lifelong body-shame; broke. **Present.** Tried on the finished gown; stripped her underwear to clear the line on purpose; strode to him and initiated; cried the happy kind twice. Daydreamed wearing it into the sorority induction.
+- **Cassie** (= Cassandra) — female. Vee's roommate/friend; clean love, immune clear eye; soccer. Absent.
+- **Kayla** — female; bright amplifier. Absent.
+- **Meg** — female, calm/level; gave the soft warning. Absent.
+- **Brooke** — sorority president; deliberately collected Pace's details. Absent.
+- **Unnamed taller woman** *(identity open)* — appraised Vee like merchandise. Absent; held open.
+- **Christine** — runs the small restaurant, knows Pace. Absent.
+- **Daphne** — Pace's past, the "door" he didn't respect. Absent.
+- **Theo** — asked Vee out in September; friends. Texture only.
 
 **Relationship ledger**
 
-*Core — Pace / Vee:* **involved, consummated (y).** Surface (to Vee): a sweet good man who makes her things and takes her tenderly; a man who leaves the choosing to her. True (to reader): the hunt's consummation, the made dress as both love-token and instrument; how much each, still unusually open. History: kissed, the full fitting, the night (she initiated, he to his knees, standing orgasm, first intercourse, she left him the marked panties "Trade"); now the dress-reveal afternoon (she strode to him bare, second consummation, act faded to black).
-  - *desire worked-on-her ↔ desire hers:* **hers** — she takes the edge away herself, strides to be looked at.
-  - *cold ↔ warmth:* warm at flood; the only cold remains the withheld (scar, private shoulders).
-  - *isolation ↔ belonging:* inside it and happy; belonging routed private, and now the dress ties her joy to the induction — a purpose she can't see.
-  - *used ↔ cherished:* **cherished** as she holds it (the overnight labor, the staging); reader's instrument-read active (the fingerprintless dress, the induction daydream).
-  - *This chapter:* deepened toward devotion; his hidden labor rhymes with the con's seamlessness — a genuine new chill inside the warmth.
+*Core — Pace & Vee:*
+- **State:** involved (consummated: y — now a second time, in the gown). secret, one-sided (Vee unaware of engineering). Care real and costly *and* serves a built apparatus — both poles stand; this chapter the care ran vivid and un-instrumented on the page (he slept vulnerable while she watched).
+- **warmth ↔ cold:** peak warmth; "the further trouble to hide the trouble" — labor concealed as gift.
+- **isolation ↔ belonging:** the week bends around him; the daydream routes her belonging (the induction room turning to her) through what he made.
+- **cherished ↔ used:** treasured intensely on the page this chapter; the reader's using-pole is imported, not shown — the gown fitted to "the actual shape of her, and to no one else's," lining set exactly where he decided she doesn't give herself away.
+- **desire worked-on-her ↔ desire hers:** strongest *her*-side reading yet — she strips herself bare "on purpose to be looked at," authors the reveal, initiates; the shame-to-wanting crossing is hers. Worked-on pole survives only as reader memory of who built the mirror.
+- **This chapter:** major — a second consummation she initiated in the dress; his care shown tender and defenseless; the daydream converts the gown into her future public self ("what she was for"). No state change; intimacy deepened, her agency at its most vivid, my dread wholly carried-in.
 
-*Core — Pace / Randi:* **involved, consummated (y); secret.** Surface: strangers. True: lovers running a coordinated con; his tenderness genuine. White-gold band may bear on this — possible marriage, unconfirmed. **Off-page together this chapter; con advances only by inference (dress-as-instrument, induction daydream surfacing).**
-  - *desire worked-on-her ↔ desire hers:* both poles at max. (quiet)
-  - *cold ↔ warmth:* warm — warmth as instrument. (quiet)
-  - *isolation ↔ belonging:* surface belonging; under it isolating. (quiet)
-  - *used ↔ cherished:* both — instrument AND delighted-in. (quiet)
-  - *This chapter:* no direct movement.
+*Core — Vee with herself:*
+- **State:** managed surface over unlooked-at want; surveillance now guards the secret rather than punishing. The clear eye sees the surrender and consents. This chapter the *floozy* voice flared at the mirror and she "stayed anyway, made herself look," and "the looking stopped being shame" — the eye overwrote the mother's voice in real time, then closed on "getting away with something."
+- **This chapter:** shame-to-agency turned at the mirror and again stripping bare on purpose; she claimed the exposure as hers. Liberation and surrender both still true; this chapter liberation led.
 
-*Core — Randi / Vee:* **intimate front deepened (surface to Vee: the truest confidant she's ever had, kissed) / attracted with Randi's own wanting possibly leaking, instrumented extraction running.** Consummated n. **Off-page this chapter.**
-  - *desire worked-on-her ↔ desire hers:* both on Vee's side; the second-press kiss Randi's own initiative, met. (quiet this chapter)
-  - *cold ↔ warmth:* warm at flood in Vee's experience; the coldness is the extraction underneath. (quiet)
-  - *isolation ↔ belonging:* Vee feels total belonging; reader reads the isolating mechanism (true confidant edited, instrument fed whole).
-  - *used ↔ cherished:* both at max; "That's a painting, keep that one" read as meant. (quiet)
-  - *This chapter:* no change.
+*Core — Randi & Vee:*
+- **State:** Surface (Vee): the friend she can tell anything, who names her feelings and hands them back clean; goodbye kiss met. True: the operation's closer holding the whole withheld first-night "middle" plus every intimate detail and the platform secret — asymmetric, near-total. Vee's queer want live toward Randi.
+- Axes: warmth (peak), belonging (friend wanted at fifteen), cherished, desire-worked-on/hers both sharpened.
+- **This chapter:** no change (Randi absent). Note: this second night in the gown is new material Vee has not yet handed to anyone — the next extraction target.
 
-*Core — Randi with herself:* the "face" is armor over an unsurvivable wanting relocated to a survivable costume; the seam showed twice (held muscle; the kiss's extra press); whether the warmth she "meant" is a third seam is held ajar. *This chapter:* no movement (off-page).
+*Core — Pace & Randi:*
+- **State:** involved (consummated: y), secret from her sorority world. Surface/true diverge. He directs her desire outward toward Vee under a shared-game/gift frame.
+- warmth: lavish warmth as instrument. isolation/belonging: two-of-them; game routes wanting through him. cherished/used: treasures *and* uses her. desire: worked-on-her, she re-assigns to him.
+- **This chapter:** no change (Randi absent, Pace on-page only with Vee).
 
-*Core — Vee with herself:* runs a managed self; defends against wanting by hunting the flaw then explaining clues away; set the governor down herself. **This chapter: the growth turns bodily — she strips herself bare to be looked at *on purpose* and lets the shame cross into owned wanting; the floozy voice flares and loses; she stands in her own beauty in the mirror and doesn't apologize. And she binds that new confidence to the induction daydream — her triumph fantasy is exactly the plan's shape, unseen.**
-  - *This chapter:* self-ownership deepened into the body; simultaneously her joy is fastened to a costume with a purpose she can't read.
+*Core — Randi with herself:*
+- **State:** at war; the face vs. the person under it; execution seamless. Live/ajar: how much warmth toward Vee is felt vs. played; one un-refreshed data point *for* real feeling (the earlier involuntary tightness).
+- **This chapter:** no change (absent).
 
-*Vee / Cassie:* **close, easy** — asymmetry doubled (clean "he cooked" to Cassie, whole night to Randi). *No change this chapter (off-page).*
+*Vee & Cassie:* Core-adjacent, central. Roommates/friends, clean love; warmest room in the book. Cassie does NOT hold the platform-arousal secret; Vee gave her the clean version and let the door close where Cassie closed it, gave Randi the withheld middle. **This chapter:** no change (absent); the gap stands structural.
 
-*Vee / Kayla, Vee / Meg; Randi / Cassie; Brooke / Vee:* no change (off-page).
+*Vee & Kayla / Vee & Meg:* Easy, warm; absent. *Randi & Brooke / Randi & Cassie:* no change.
 
 **What I know that they don't**
-- (Vee doesn't know) the café meeting was engineered; Randi and Pace are secret lovers running a con; she was pointed at and hunted; a man authored it.
-- (Vee doesn't know) she reads engineered warmth (Randi's) and restraint/craft (Pace's) as sincerity; her econ eye sees clues and won't land the shape.
-- (Vee doesn't know) the made dress is both a genuine labor of love AND the fingerprintless instrument — cut to her and no one else, tied to the induction; her fantasy of wearing it in is the plan's purpose felt as her own joy.
-- (Vee doesn't know) the no-fingerprint objects (shirt, dress) are made by Pace.
-- (Vee doesn't fully see) she gives the true confidant (Cassie) the edited story and the harvester (Randi) the whole one.
-- (Reader open) the white-gold band, never removed — possible marriage, to whom unknown.
-- (Reader open) the scar high inside Pace's thigh — unexplained, beside the shut door and the *parents* wound.
-- (Reader note) Vee, not the plan, broke the deferral; the harvest continued regardless.
-- (Randi doesn't fully carry) she's being steered by Pace; her own wanting may be leaking.
-- (Pace doesn't know) Randi gives him the performed self; he reads her body past it; the gap may be narrower than she thinks.
-- (Caring side) Pace's tenderness reads genuine (the overnight dress-labor, "didn't make it smaller," the MRI delight, *parents* closing, private shoulders). Held ajar.
-- (Caring side) Cassie's love for Vee is wholly unengineered and true; carries a hidden fold.
-- (Genuinely open) Meg's "sometimes they even are"; Randi's cracks and her "meant it"; whether Pace's making is love or bait — the page keeps both.
-- (Reader irony) Vee lies against him "getting away with something" while she is the one being taken.
+- (Caring) Pace is genuinely moved by Vee here — up all night finishing the gown, staged the reveal, slept defenseless while she watched; the care on this page reads real and unguarded.
+- (Caring) Pace is genuinely moved by Randi, glad of her pleasure; believes he gives a gift.
+- (Caring) Pace's cold/shirt-sacrifice on the hike were real and unseen by Vee.
+- (Caring) The MRI patent is real, aimed at helping frightened sick people — a true generosity.
+- (Caring) Cassie's love for Vee is clean, reads her well, senses the shape, lacks the fact; chose kindness over pressing.
+- (Caring, ajar) Something in Randi went involuntarily tight when Vee glowed about Pace — possibly real feeling past the assignment. Un-refreshed.
+- (Using) Pace engineered Randi's attraction and "choice," harvesting involuntary response as consent; may have targeted Vee — ajar.
+- Pace & Randi run Vee as a coordinated operation — Randi the closer, Pace clearing the standard.
+- The gown is built to the exact shape of Vee's stripped body, lined only where he decided she doesn't give herself away; the mirror was newly hung for the reveal; the riser/pedestal sets her at his kneeling eye-level as method.
+- Vee has just given the gown-night to no one yet — fresh material for Randi's next extraction.
+- Randi holds Vee's whole withheld first-night "middle" plus every intimate detail (toes-for-him, the bought-underwear "campaign," plum polish, "I wanted it and took it") and the platform-arousal secret.
+- Randi extracts and withdraws (or anti-withdraws) as method; the goodbye kiss is deliberate.
+- Randi self-harms / eats disordered unconsciously; nobody, including her, is looking.
+- Vee has been selected and pursued and does not know it; experiences it as free agency — and has named the surrender and consented to it.
+- The flannel shirt Vee treasures was made by Pace.
+- His house kept too warm; **two towels** in a one-man house (unseen).
+- Brooke deliberately collected Pace's details; reason unknown.
+- A silent taller woman appraised Vee like an object; who/why unknown.
+- Vee's want between women is live heat aimed at Randi.
+- **Pace has a large scar high on his inner thigh he closes off from her look — unexplained.**
+- **Vee produces the proof-of-wanting frame herself and it reshapes her body's availability** — this chapter she strips bare on purpose to be looked at and claims it as hers.
 
 **Motifs**
-- *The made object with no fingerprints:* russet/burgundy dress, no-tag shirt, the marked panties "Trade." **This chapter the dress is revealed and gifted — "store-finished," "no seam of effort," "hide the trouble so it looks like it cost nothing"** — fused now with the seamless-editing motif: his hidden labor written in the con's own shape.
-- *Editing / the seamless surface (ladle leaves no hole):* the clean "he cooked" to Cassie vs. the whole night to Randi; Randi's seamless face; **now Pace's dress that hides its own trouble** — the same craft in the maker and the closer.
-- *Feeding / being fed:* fed emotionally while feeding intel; the meal that nourishes and takes. (quiet this chapter)
-- *Floozie / the shame voice:* ran the consummation, never closed her; a day later she didn't mind the word; **this chapter it flares in the mirror and "the looking stopped being shame."** Overcome again.
-- *Frosted-plum toenails / the trace on her body:* the polish chosen to wake the plum in his light. Carry (not on-page this chapter).
-- *The slit / peekaboo (first sighting, titular):* the dress's slit gives her leg calf-to-hip and takes it back, "given and taken back and given"; she removes her underwear so nothing crosses the line — she takes the edge away herself.
-- *Underwear left behind:* green panties "Trade"; **this chapter stepped out of and left on the chair, unmarked** — softer echo.
-- *The second-press goodbye kiss:* Randi's hand at the jaw's hinge, the extra press, met without scanning for witnesses. Carry.
-- *Pausing to preserve mid-passion:* the Chianti opened to breathe; **this chapter they stop mid-act to hang the dress "with the care you'd give something alive."**
-- *The dress bound to the induction:* surfaces as Vee's daydream of walking in late in it, letting the room turn "like what she was for."
-- *"Getting away with something":* her closing feeling — dramatic-irony reversal of who is taking whom.
-- *Him on his knees; the white-gold band; the scar; the dropped sheet neither looks at* — carry.
+- **Peekaboo / the slit** *(new, load-bearing)* — the slit opening "calf to hip" and falling "shut when her feet came together"; the flash and cover, "given and taken back and given"; reveal as erotic engine, exposure she authors.
+- **Concealed labor / made-by-hand as care** — sharpened: "he'd taken all that trouble and then taken the further trouble to hide the trouble"; the gown that "didn't look like a thing a person made," "no seam of effort showing." The dress hung with "care you'd give something alive."
+- **The mother's voice — *floozy*** — flared "automatic" at the mirror and she "stayed anyway"; overwritten in real time — "the looking stopped being shame."
+- **Being looked at → proof-of-wanting / what she was for** — the induction daydream: "she stood in the middle of the light and let them look… It just felt like what she was for."
+- **The ladle / keeping the middle** — quiet; the gown-night is now the newest un-surrendered middle.
+- **The trade / given-away underwear** — recurs literally: she slides the underwear off to clear the line, "left it on the chair with everything else she'd walked in wearing."
+- **Light without asking / exposure as warmth** — "the whole gold afternoon," the gown "lit from inside itself"; she lets the light and the room's looking not cost her.
+- **The second-press kiss / Randi's two smiles / white-gold wrist band / spoons / posture-rising · counting days · chosen-picked** — quiet (Randi absent).
+- **Getting away with something** — the closing note, her felt read; the reader hears it against who arranged the scene.
 
 **Symbolism noticed**
-- The dress that arrives "store-finished," trouble hidden = love showing by concealing its labor — and, chillingly, the identical craft as the con's seamlessness. The maker and the closer make things with no fingerprints.
-- The lining, "a soft wall set into the only parts of her the dress had decided not to give away" = reveal-and-protect; mirrors Vee's self-editing and Pace's withheld (scar).
-- Peekaboo / the slit = what is shown vs. hidden; the reader's own privileged peek; Pace's kid-delight in the surprise.
-- The dress cut to her and no one else, tied to the induction = a costume whose purpose she feels as her own triumph.
-- "Getting away with something" = she thinks she's the thief; the reader knows otherwise.
-- The marked panties / "Trade"; the scar; the white-gold band; the long spoon absent from the bright room — carry.
+- **The gown fitted to "no one else's" shape, lined where he decided she doesn't give away** = the apparatus deciding the terms of her exposure while she experiences it as her own beauty finally fitted.
+- **The newly hung mirror (screw heads bright)** = the reveal engineered; she meets herself in a glass he installed for this.
+- **"Peekaboo" / the slit given and taken back** = exposure she authors, the choosing left to her — the invitation's shape.
+- **The hung dress / stopping for it mid-passion** = the made thing given the care "you'd give something alive"; the craft treated as a third body in the room.
+- **"What she was for"** = the daydream that converts made beauty into public purpose — tender and the trap at once.
 
 **Open questions**
-- Does she wear the dress to the induction, and what is that room *for*? (the dress-purpose surfacing as her joy tightens this)
-- Does Randi feed the brunch harvest back to Pace, and how does it read to him?
-- Was Randi's "sad little story" fabricated as a tool, or a real crack she chose to spend?
-- What is the scar high inside Pace's thigh?
-- What is the white-gold band — marriage, and to whom? Does it connect to the shut door / the *parents* closing?
-- Is this Pace's hunt alone, does Randi want Vee for herself, or both?
-- Does Cassie's clear eye become friction, now that she holds only the surface?
-- What is behind the one shut bedroom door (not the white-walled one they use)?
-- What does the panties-trade mean to Pace? The two towels — for whom?
-- Who is the silent taller woman? Was Vee a substitution for an original target? Is Brooke/the house still a threat?
+- **What is the large scar high on Pace's inner thigh?** *(top pull)*
+- Where/when does the finished silk gown get worn — the induction daydream flags it — and who else is in that room?
+- **Two towels** — who is the second body the house provisions for?
+- What is Randi's white-gold wrist band?
+- Was Randi's tightness real feeling past the assignment? *(un-refreshed; still leaning: a genuine crack)*
+- Genuine restraint/patience vs. control. *(both)*
+- Will Cassie's read ever reach — or be let to reach — the true shape? *(gap structural)*
+- Who is the silent taller woman?
+- Did Pace target Vee by name, or did the game land on her?
+- Why is Brooke collecting Pace's details?
+- What is the game's endpoint — the threesome as framed, or a shape Randi hasn't seen?
+- How much of Randi's warmth to Vee is felt vs. played?
+- Who is Daphne, and what did the closed-door lesson cost Pace?
+- How far does the opening go before it turns?
+- Is Vee's drift costing her her clear eye? *(now: the eye sees the surrender and consents — this chapter it overwrote the *floozy* voice by choosing to look)*
+- Is the shame-that-doesn't-close a real freeing, or the last check dissolving?
+- The "power" Vee found — real leverage, or being *let* to feel powerful?
 
 **How I feel — overall**
-Swept up, and uneasy about how swept up I was. This is the warmest chapter yet and it earned every degree of it — Pace making the dress overnight and hiding the labor, Vee stripping bare *on purpose* and striding to be looked at, the shame turning to owned wanting, the happy tears. I rooted for them the whole time. And then the page slid a cold blade in without a word: it wrote his loving craft in the exact language it once used for the con's seamlessness — the trouble hidden so nothing looks like it cost anything — and the dress she loves is cut to her and no one else and fastened, in her own daydream, to the induction. Her growth is real and lovely; it is also being fitted to a purpose she can't see, and she ends the chapter thinking *she's* the one getting away with something. I still can't convict Pace — his tenderness reads true, and the book keeps that door exactly as wide as before. I'm warm toward Vee, protective of Cassie at a distance, and carrying the specific dread of a beautiful dress with somewhere to be.
+Swept up, and I let myself be — this was the warmest, most straightforwardly erotic chapter yet, and its heat is *hers*: she strips herself bare on purpose, strides to him, authors the reveal. The gown reveal landed with a real ache — the concealed labor, the tears, the mirror. On the page here Pace is tender and defenseless, up all night, asleep while she watches; no seam showed, and my dread is entirely imported from the machinery I remember, not earned fresh in this scene. That doubleness is the whole read: a woman being made to feel like "a lot of woman who knew exactly how much she was," inside an apparatus that fitted her to no one's shape but the one it built. "Getting away with something" is the last line, and the tenderness of it and the trap of it are the same sentence. Warm toward both of them here; the chill is mine, carried in.

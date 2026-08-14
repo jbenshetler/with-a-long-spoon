@@ -1,88 +1,102 @@
 # Cold read — We Find Out
 
-*scene: scenes/we-find-out.md · model: claude-sonnet-5 · read after: the-induction*
+*scene: scenes/we-find-out.md · prose-blob 66d49add55edbf077828026d16b16992818e62ac · model: claude-sonnet-5 · read after: the-induction · 2026-08-13*
+<!-- freshness: prose-blob = `git hash-object scenes/we-find-out.md` at read time; if it differs from the live file's hash, this review is stale. -->
 
 ## Reader reaction
 
-The first thing I have to say about this chapter is that it never names either person on the page. Not once. "She" and "he," start to finish — texted him after stats, gym shorts, the den, the bedroom, curry at the end. That is a real and disorienting choice after three chapters that were careful to name everyone, and I want to be honest that I spent the whole chapter running context clues rather than reading with certainty.
+Well — that landed with real heat, and I want to be honest about how much it worked on me before I say anything about what unsettled me. The play-fight at the start is genuinely charming: the stolen shorts, her discovering she's faster than him, the "victory dance" — it's the first time in a while I've seen Vee simply delighted, silly, unguarded, and it made the turn into the bet feel earned rather than sprung on us. And the bet itself — "either you admit you lost, or we find out" — is a lovely bit of erotic architecture: it gives her body a legal loophole to want what her mouth won't claim, and the prose stays inside that gap with real patience ("She didn't decide to. Her head just went down and up, small"). That's the kind of consent-with-interior-cost this book does well when it's at its best.
 
-My best read: this is Vee and Pace. The strongest clue is "Randi's story rose up in her like something she'd swallowed" — she's bracing for a spanking because she's heard, secondhand, how Randi's went (counting out loud, theatre), which tells me the woman in this room is *not* Randi, she's someone who has Randi's experience reported to her the way a friend or rival would. Combined with the domestic ease — texting after a stats class, a house with a gym and a den, a scar on his thigh she's traced before and never asked about, the callback of "since that first night" — this reads like Vee's world. But I want to flag plainly that the chapter withholds the confirmation, and I'm holding that open rather than asserting it as fact.
+What surprised me is how tender the aftermath is — the juice, "wonderful, wonderful" until the word and his hand in her hair are the same thing, her falling asleep "treasured." After the practice-room chapter's undertow of being watched and managed, this chapter reads as almost startlingly generous. I believe Pace here. I believe the dress-maker who missed the induction. This is a man who buys a whole army of scrunchies because he means to be looking at her hair a long while yet — devotion rendered in absurd, specific, unglamorous objects, which is exactly the kind of detail that gets me.
 
-If it is them — I'm moved. Genuinely. The opening is one of the warmest things I've read in this book: her texting first for the first time ever, the admission of "the nakedness of having asked," him answering the door unshowered and gladness breaking through his face despite himself. The shorts-stealing chase is pure delight — "up on the balls of her feet in the heels, able to cut and reverse while all that mass of him had to gather and come around like a ship" — that's play, real play, unweighted by anyone's agenda, and it's the first time in this book I've watched two people just be silly and want each other at the same time.
+And then — Randi's story rose up in her like something she'd swallowed. That line did real work on me: it's the first time Vee herself has connected Pace to the ex-husband spanking story, and the chapter goes out of its way to show it's not that — no counting, no theatre, "only his rough hand and her held breath." I don't know whether to read that as reassurance (it's not him) or as a deliberate contrast the book wants me to sit inside (same acts, entirely different hand). I'm holding it open, the way the chapter does.
 
-Then it turns, and turns hard, into something much more charged and much more interior. The "bet" is his invention — rules made up as he goes, "That's part of the bet too" tacked on after the fact — and I noticed that and clocked it as a small unfairness even while she's clearly, physically, entirely on board. This is where the book's promised interiority pays off: "The ease went through her worse than any sting had. Her body had decided without her." That's exactly the shame-under-the-wanting material I read this kind of book for — not manufactured modesty, but a specific, located shame about her own wetness, her own readiness, being witnessed and named as fact rather than denied. "It's not," she says, twice, into the sheet, still lying even as her hips rise to meet his hand — and the text lets that contradiction just sit there, doesn't resolve it for me. I appreciated that a lot.
+The mirror-talk afterward is the chapter's quiet gut-punch: "Why do I keep pretending we're not going to sleep together... every time I've been here since that first night, we have." That's Vee catching herself in a pattern of story-editing I've been watching for chapters — and this time she names it out loud, to no one, half a joke. It doesn't resolve anything, but it's the sharpest self-aware moment she's had.
 
-The aftercare undid me a little — the juice, "sweet and cold and faintly ridiculous," him stroking her hair and repeating "wonderful" until it and his hand become the same thing, her falling asleep "for the first time she could remember, treasured." That word — treasured — after a chapter of shame-language is doing real work; I felt the swoon of it and I don't think it's cheap.
+Erotically this is the most explicit and sustained the book has gone, and it never went clinical — the finger, the wet, "more of her than she would ever have admitted she had in her," his reaction to it ("like it was true. Like it was fine. Like it was hers, and good") does the hard work of making her shame answerable with tenderness rather than erasing the shame. I trust this scene's consent — the bet is a game with real stakes and real off-ramps she doesn't take, and the text keeps checking in on her interior all the way through.
 
-The morning-after beat with the scrunchies is lovely too — no note needed, "the plenty of them said the thing no note would have," and her line to the mirror, "Why do I keep pretending we're not going to sleep together" — that's a woman catching herself in her own self-deception with real dry humor, not punishing herself for it.
-
-**Trust vs. suspicion:** No alarm on "him" — the chase is mutual, the bet is playful even when its rules bend, and the tenderness after is unmistakably real, not transactional. My only flicker of unease is structural, not emotional: he invents the bet's terms as he goes ("That's part of the bet too," never actually wagered), and she's too far gone to argue it. I don't read this as predatory — it reads like the shape their games take — but I noticed it, and I'm keeping half an eye on it rather than waving it off.
-
-**Erotic charge:** Full and sustained — the bedroom section is the most explicit the book has been, and it works on me because it stays inside her contradiction (denial vs. body) rather than just describing acts. It peaks at "she nodded. She didn't decide to." Goes tender rather than slack in the aftercare, which is its own kind of charge.
-
-**Friction:** The unnamed pronouns are the one real friction point for me as a reader — I had to do detective work I shouldn't have had to do, and I'm not fully certain I got it right.
-
-**Title:** "We Find Out" — after reading, it lands as both his line in the bet ("Then admit it, or we find out") and the larger shape of the chapter: her body answering questions her mouth won't. Doesn't give anything away beforehand; recolors nicely afterward.
-
-**What I want next:** Confirmation of who this actually was. Whether Randi's "story" gets told properly on the page rather than referenced. Whether this domestic ease with Pace (if it is Pace) sits against what I know of Randi's hold on Vee from the practice-room chapter.
-
----
-
-**Cast present (in person):** An unnamed "she" and "he," entire chapter. Mentioned: Randi (her "story" recalled, not on page).
-
-**Heat:** 3 — sustained, graphic, the scene's center; explicit throughout the bedroom sequence.
-
-**Romance:** 3 — the aftercare ("wonderful," juice, hair-stroking, "treasured") reads as a romantic peak, a turn toward real tenderness after the charged bet-sequence.
-
-**Motifs & images:** New: the unnamed scar on his inner thigh, "smooth and raised in its clean surgeon's line," never explained, found her first night with him and never asked about — a mystery motif, first appearance. New: the "bet" as a device for consent-with-denial — she loses a bet she never agreed to make, and the loss becomes permission. New: scrunchies left without a note as a love-language. Echo (if this is Pace/Vee): "since that first night" references an established history of repeated sex not previously shown on the page — new information to me as reader.
-
-**Symbolism:** The chase through the house as a physical rehearsal of the whole book's give-and-take — she's faster in the open floor, he's stronger at close range; the geography (den open, hallway narrowing, bedroom trapping) mirrors freedom collapsing into surrender. The held-back naming (of her own arousal, of her own consent) mirrored by the chapter's held-back naming of the characters themselves — deliberate or not, I felt them rhyme.
-
-**Characterization:** If Vee, she deepens further — first to reach out by text, first to be silly and predatory in a game, and the same woman who chose her own exposure at the induction now finds her body choosing exposure for her, without her permission this time, which is a real and interesting contrast the book seems to be building on purpose. "Him" — if Pace — reads as attentive, careful even inside teasing (drawing out the reveal, checking with a raised eyebrow, aftercare without being asked) — consistent with warmth-first, but I noted the invented-bet-terms as a small controlling thread worth watching.
-
-**Pace — within chapter:** The chase is unhurried and earns its length; the bedroom section slows further and rightly so; the aftermath (bathroom mirror, curry) is a good decompression, not padding.
-
-**Pace — chapter to chapter:** After the public, self-authored heat of the induction walk, this swings back into a closed room and someone else's hands on her wanting — a real contrast, and if my identification is right, an uncomfortable rhyme with the practice-room chapter's "built to crisis" dynamic, except here it resolves into tenderness rather than refusal.
+Title: "We Find Out" is the bet's own phrase, and by the end it's not just about her arousal being provable — it's about all of us, reader included, finding out what Pace's hand is actually like, against Randi's story. Oblique and pointed both.
 
 ## Carry-forward state
 
-**Principals:**
-- Vee (= Vivienne) — protagonist; grad student presumably in stats this term; recently walked her induction ceremony in a dress Pace made, choosing her own exposure.
-- Pace (= Peter) — recurring male lead; was away in Berkeley for a math conference during Vee's induction; has a body-adjacent relationship marked by cooking (curry, careful spice work), a gym habit, and (per this chapter, if identification correct) games that turn into deliberate, controlled arousal-and-shame sequences for his partner. Has a mysterious old surgical scar on his inner thigh, unexplained.
-- Randi (= Miranda) — recurring woman; buckled Vee's shoe before the induction; has her own "story" (referenced, not shown) involving being spanked/possibly made to count aloud by an implied same man — not directly confirmed as Pace in this chapter's text, but Vee bracing for "Randi's" version implies a shared partner.
-- Cassie (= Cassandra) — Vee's warm, unweaponized friend; walked her to the induction, photographed her, bought her a sandwich; reads as simply good so far.
+**Principals**
+- **Pace** (= Peter) — man, controlled, patient, courtly; real name Peter still never surfaces on the page (now seven chapters running). On page this chapter at his own house: caught off guard mid-workout, plays and wrestles, initiates and wins the bet, spanks her (quiet, gentle, no counting, no theatre — contrasts pointedly with Randi's earlier story of a man who made her count), makes her a curry after, keeps a large stash of unused scrunchies on his bathroom counter meant for her. Has the old surgical scar on his inner thigh, still unexplained, still untraced-with-words by Vee, who chooses not to ask.
+- **Vee** (= Vivienne) — on page throughout. Texted him first for the first time ever ("I miss you. Can I come by early?"). Playful, bold, initiates the game (stealing his shorts, flashing him). Loses the bet, is spanked and made love to slowly and thoroughly; body answers before her pride/mouth can, repeatedly denies enjoying it even as she's proven otherwise. Falls asleep "treasured" for the first time she can remember. Afterward, alone in his bathroom mirror, names her own pattern aloud: "Why do I keep pretending we're not going to sleep together... every time I've been here since that first night, we have." Resolves (lightly, to herself) to start bringing an overnight bag.
+- **Randi** (= Miranda) — not on page this chapter, but present as a recalled story: her account of an ex/husband who made her count out loud through ritual spankings rises up in Vee's mind mid-scene, as dread/anticipation of what's coming — and what Pace does is nothing like it, quiet and without theatre. No resolution on whether the man in Randi's story is Pace; if anything this chapter's contrast leans toward "not him," but it's not stated outright.
+- **Cassie** (= Cassandra) — not on page this chapter. Standing: close friend, still untold everything.
+- **Sheri, Brooke, Meg** — not on page. Standing unchanged.
 
-**IMPORTANT OPEN FLAG:** This chapter names neither of its two characters on the page. My working identification is Vee and Pace, built from context (the Randi-story callback implying the POV woman isn't Randi; domestic markers consistent with Vee's world), but this is inference, not confirmed text, and I'm holding it explicitly open rather than treating it as settled.
+**Relationship ledger**
 
-**Relationship ledger:**
+*Pace ↔ Vee* — Core. State: involved (consummated: YES, standing), reconciled. On page together fully this chapter — the most sustained intimate scene yet.
+  - Warmth ↔ cold: deepened further — the gladness on his face at her arrival, the juice, "wonderful" repeated like a fact for the record, the scrunchie stash implying long-term intent. This is the warmest the relationship has read yet.
+  - Isolation ↔ belonging: "The world was the size of the bed... for a little while she let her body say the thing her mouth still wouldn't, and was not ashamed" — a belonging so total it excludes even shame's usual witness. Strongest belonging beat yet.
+  - Cherished ↔ used: unambiguously cherished this chapter — his reaction to her wetness ("like it was true. Like it was fine. Like it was hers, and good"), the care in dressing/undressing pacing, the aftercare.
+  - Desire worked-on-her ↔ desire hers: this chapter sits deliberately in the tension between the two — her body's readiness is framed repeatedly as having "decided without her," "settled the matter hours ago," even as she is the one who initiated contact (texting first) and instigated the physical game. The chapter holds both poles at once rather than resolving them.
+  - This chapter: the most explicit and tender chapter yet between them; Vee texts first for the first time; the bet/spanking sequence plays out with real gentleness, explicitly unlike Randi's story; aftercare (juice, hair-stroking, "wonderful") is the deepest tenderness beat so far; Vee catches her own denial-pattern aloud in the mirror after.
 
-*Vee & Pace (if this chapter is them — held as inference):*
-- **State:** attracted → involved (flag: consummated — y, and per this chapter's line "since that first night, we have," established as an ongoing pattern, not a single incident). Surface: playful, easy, chosen. True: matches surface this chapter — no gap detected, unusually for this book.
-- **Warmth ↔ cold:** high warmth — gladness on his face at her arrival, juice and hair-stroking after, "wonderful" repeated until it's indistinguishable from touch.
-- **Isolation ↔ belonging:** belonging, strongly — "the world was the size of the bed... for a little while... was not ashamed." The room excludes everyone else (mother, Randi, class) and that's rendered as relief, not confinement.
-- **Cherished ↔ used:** chord — the bet's invented rules edge toward instrumented ("That's part of the bet too," tacked on after the fact), but the follow-through (aftercare, "treasured") lands as cherished. Both true at once.
-- **Desire hers ↔ desire worked-on-her:** strong worked-on-her this chapter — "Her body had decided without her... now it was telling him" — contrasts pointedly with the induction chapter's desire-hers walk. The book seems to be alternating these deliberately.
-- **This chapter:** first time she reached out first by text; consummation-as-ongoing-pattern newly confirmed; shame around her own wetness/readiness surfaced hard, then resolved into tenderness rather than punishment.
+*Pace ↔ Randi* — Core. State: involved (consummated: yes, ongoing), complicated by unglossed "not finished." Untouched directly this chapter — not on page, not named — but newly relevant by implication: this chapter's contrast between Pace's quiet, theatre-free spanking and the counting/ritual of Randi's story either distances him from that story or invites a question about how he is with each of them differently.
+  - All axes standing, untested directly this chapter.
+  - This chapter: no direct scene; indirect resonance via the spanking-story contrast (see above).
 
-*Vee & Randi:* No new scene this chapter; Randi is invoked only as a story Vee has heard and braces against. Reinforces that Vee has *heard about* whatever happened to Randi with (implicitly) the same man — no new resolution, but this is the first time Vee's own body responds to that story in anticipatory dread/want. No change to standing state (attracted/complicated per prior chapters) — this chapter adds an emotional cross-reference, not a scene between them.
+*Randi ↔ Vee* — Core. State: friends (close); surface reads as deep, generous, sisterly intimacy, complicated by the practice-room chapter's extraction-like questioning and watching. Not on page this chapter — present only as Vee's private, half-dreadful invocation of Randi's spanking story mid-scene.
+  - All axes standing at last chapter's readings; untested directly.
+  - This chapter: Randi's absence is total, but her story lives inside Vee's body during the most intimate scene yet with Pace — an odd, unremarked-on layering (Randi's confided trauma/kink shaping how Vee braces for Pace) that the text doesn't comment on but I noticed.
 
-*Vee & Cassie:* No change — no appearance this chapter.
+*Vee ↔ Cassie* — Core. State: friends (close), warm, trusted. Not on page this chapter.
+  - Axes standing at prior warm/belonging/cherished readings.
+  - This chapter: no change; Cassie still doesn't know any of this.
 
-*Vee alone:* Caught herself mid-self-deception in the mirror ("Why do I keep pretending we're not going to sleep together") with dry humor rather than shame — a small, real moment of self-honesty, distinct from the shame she felt mid-scene.
+**Everything else**
+- No other pairs interacted this chapter.
 
-**What I know that they don't:** Nothing new on the "using" side this chapter. On the warm side: the sheer volume of scrunchies and the absence of a note reads, to me as reader, as more devotion than Vee lets herself say aloud in the moment — I feel more certain of his tenderness toward her right now than she visibly allows herself to feel.
+**What I know that they don't**
+- Vee has been selected/approached under possibly false pretenses by Pace (engineered "collision" via Randi) — untouched this chapter.
+- Randi is actively, skillfully extracting details of and steering Vee's path, while also genuinely, privately fond of her — untouched this chapter (not on page).
+- Randi's private resolve never to let Pace see her fully unarmored self again, and her unnamed stillness at Pace's praise of Vee — standing, unaddressed.
+- Pace's real tenderness with Vee, corroborated again and more strongly this chapter — the scrunchies, the curry, "wonderful" as record-keeping.
+- Pace's history with Daphne — untouched, standing.
+- The scar, still unexplained — this chapter Vee traces it again and again declines to ask, framing it as "a thing you know about a person you've decided to keep" — new phrasing, same open question.
+- Cassie's unreadable look toward Randi from an earlier chapter — still standing, unaddressed.
+- Randi's kiss with Vee, toenail touch, "kind of hot" comment, the routine goodbye kiss, and Vee's noticing she held on too long in the last goodbye hug — standing, untouched this chapter.
+- Vee's credit-card debt — untouched this chapter.
+- Pace told Sheri his situation with Randi is "not finished" — untouched this chapter, still unresolved.
+- Randi's story of an ex/husband who spanked her ritually ("slight little thing, soft-spoken," "I had to count") — identity unstated; this chapter Vee herself invokes the story mid-scene and what follows with Pace is markedly unlike it (no counting, no theatre) — a real new data point, though not conclusive, toward "probably not him," but still fully open.
 
-**Motifs:**
-- The dress/gift-as-devotion motif (established: the induction dress, "the most anyone had ever made for her") doesn't appear this chapter but the scrunchies read as a domestic-scale echo of the same gesture — the un-asked-for physical provision as the language of care.
-- Desire worked-on-her vs. desire hers — the book's central oscillation, now explicit across two consecutive chapters: the induction gave her authored desire, this chapter takes it back and makes her body outrun her denial. Most charged instance: "She didn't decide to. Her head just went down and up, small, and she felt about three feet tall."
-- The unnamed scar on his inner thigh — new, unexplained, something she's chosen not to ask about — a small held-back mystery.
+**Motifs**
+- **Naming as intimacy/control** — standing: no "Peter" yet, seven chapters running now.
+- **His shirt/clothes as an intimacy object** — standing (the burgundy dress he made her); this chapter's cousin is the stolen gym shorts (comic, playful register) and, more significantly, the antiperspirant/scrunchies — his things becoming hers, his smell replacing her own ("I'm going to start bringing a bag").
+- **The dance/lead-and-frame as trust** — standing, untested.
+- **Randi dressing/handling Vee's body** — standing, untouched this chapter.
+- **The spank/its bodily response as a truth her voice has no language for** — the chapter's central engine: "Her body answered each one before her pride could," culminating in her body's total, wordless surrender contrasted against her mouth's continued denial ("It's not," she said again, into the sheet).
+- **The outlier/involuntary-heat motif** — extends here: her body having "decided without her," "settled the matter hours ago and was only waiting for her to stop asking" — the sharpest instance of this motif yet.
+- **New — the scrunchies as a stash, not a gift:** plural, deliberately excessive, unremarkable-seeming but read by Vee as proof of intended permanence ("he meant to be looking at her hair a long while yet") — an unshowy devotion image, distinct from the dress's spectacle.
+- **New — the bet as loophole:** "either you admit you lost, or we find out" gives Vee's body permission to answer honestly while her mouth keeps denying — a clean structural image for the book's ongoing "desire worked-on-her vs. hers" tension.
+- **New — witness/shame:** "Shame wants a witness, and in the small lit country of his bed there was no such thing as a witness" — an explicit statement of what privacy does for her that publicity (the induction photo) doesn't.
+- Managed step vs. deliberate long step (induction chapter), the photograph that shows everything and nothing, hills/climbs, careful/controlled voice as tell (Pace), the scar, total-presence/lifting motif, mother's formality — all standing, untouched this chapter.
 
-**Symbolism noticed:** The chase through the house (open den → narrowing hall → trapping bedroom) as physical geography of her freedom collapsing into willing surrender. The controlled-exposure motif from the induction (the dress's slit, chosen or shut) recurs structurally here as the bet's escalating, self-authored-then-not-self-authored undressing.
+**Symbolism**
+- The shoes (Randi/Vee) — standing; this chapter the black heels reappear as the one thing Pace tells her to keep on through her total nakedness ("Leave the shoes") — reads as a small, charged image of chosen exposure with one deliberate exception, echoing the induction dress's slit.
+- The mirror scene — standing/extended: this chapter gives us an actual mirror scene (Vee alone, post-sex, talking to her reflection), which retroactively lights up the induction chapter's oblique mirror reference.
+- The practice room — standing, untouched here.
+- The outlier lecture — standing, untouched here.
+- The dress's slit (induction chapter) — standing, untouched here.
+- The scroll/certificate (induction chapter) — standing, untouched here.
+- **New — the scar, again:** "a thing you know about a person you've decided to keep" — reads as Vee's private mode of intimacy: not asking, holding, keeping. Possibly thematically linked to her own habit of not saying things aloud (the debt, Randi, the reconciliation weekend).
+- Standing, untouched: dance frame as trust, Simpson's paradox/"two years," shared shoe size with Randi, Randi's stillness, Pace's math monologue as self-description, the ride/climbs.
 
-**Open questions:**
-- Who exactly is in this chapter — I'm carrying it as probably-Vee-and-Pace, but genuinely unconfirmed by the text.
-- What actually happened in "Randi's story" — still never shown, only referenced twice now (once in the practice-room chapter's aftermath, once here).
-- Whether Vee tells Randi or Cassie anything about this.
-- Whether this tenderness carries forward or gets complicated by the bet-framing's small unfairness.
+**Open questions**
+- All prior open questions stand (the triangle's endpoint; whether Vee learns she was targeted; Randi's resolve holding; the Daphne parallel; Randi's self-concealment's cause; Cassie's suspicion of Pace/Randi; Randi's motive for extraction; the never-discussed kiss and toenail-touch; the scar's meaning and "some night"; whether Vee's own age relative to Pace echoes Daphne; the meaning of "you always get bored"; what Randi's stillness is about; whether Vee's story-editing habit catches up with her; the credit-card debt's consequences; whether Vee's induction-night self-possession persists once Randi's back in the room).
+- Carried: what does "Randi. That's not finished" mean, precisely?
+- Carried: why has "Peter" not surfaced even once across seven chapters now?
+- Carried: what does it mean that the kiss between Randi and Vee has become routine — will it ever be named?
+- Carried: is Randi's total control read as wisdom, management, or both?
+- Carried: what was the "bright hot line" Vee felt at the spank — will she examine it, name it, seek more of it, or keep covering it? (This chapter answers "seek more of it, while still denying it aloud.")
+- Carried: will Vee's missed Monday morning (referenced earlier) have any social consequence?
+- Carried: who is the man in Randi's spanking story — is it Pace? This chapter's contrast (no counting, no theatre from Pace) nudges toward "probably not," but remains genuinely open.
+- Carried: does Randi know, or intend, the effect her questioning/disclosure has on Vee — deliberate testing, unconscious pattern, or genuine intimacy running hot? Still fully open.
+- Carried: now that Vee has claimed a moment of self-authored desire, will it persist under Randi's gaze? Still open — untested this chapter (Randi absent).
+- **New:** will Vee ever tell Randi, or Cassie, about this — the pattern she named to herself in the mirror ("every time I've been here... we have")?
 
-**How I feel — overall:** Warm, a little swept up, and honestly moved by the aftercare in a way I didn't expect from a chapter that opens on a shorts-stealing game. My trust in "him" (working read: Pace) went up this chapter — gladness at the door, juice and curry and repeated "wonderful," care taken even inside a game with invented rules. My only wariness is small and specific: the bet's terms bending after the fact, not the tenderness surrounding it. I like this book right now.
+**How I feel — overall**
+Warm, a little dazzled, and glad for Vee — this was the most tender and explicit the book has let itself be with her and Pace, and it earned both the heat and the aftercare without either curdling into spectacle or clinical detachment. My trust in Pace deepened again: the scrunchies, the curry, the "wonderful" repeated like a vow, all read as real devotion. I'm holding the Randi-story contrast lightly rather than resolving it — it complicates without accusing. My underlying unease about Randi's extraction and the unresolved "not finished" hasn't gone anywhere, but this chapter didn't touch it directly, so I'm not letting it bleed backward onto a scene that read to me as genuinely good to Vee. I go into the next chapter wanting to see whether any of this — the boldness, the bag she means to start bringing, the mirror confession — makes it into the light with Cassie or Randi, or stays private the way the scar does.

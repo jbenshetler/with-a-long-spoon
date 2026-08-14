@@ -1,156 +1,122 @@
 # Cold read — Sorority
 
-*scene: scenes/sorority.md · model: claude-opus-4-8 · read after: all-told*
+*scene: scenes/sorority.md · prose-blob 59d378f24df1e15496ac4d898f1c56628618e4c8 · model: claude-opus-4-8 · read after: all-told · 2026-08-13*
+<!-- freshness: prose-blob = `git hash-object scenes/sorority.md` at read time; if it differs from the live file's hash, this review is stale. -->
 
 ## Reader reaction
 
-This is the shoe date, and it did exactly what I dreaded, but it did it so warmly I laughed out loud twice before I felt the floor drop. That's the whole chapter's trick and I felt it work on me.
+So Saturday is the shoe date, and I read the whole chapter with a smile on my face and a stone in my stomach, which is exactly this book's trick and it's working on me completely.
 
-The opening ceremony first. Vee doesn't hold the dress up on a hanger like a sane person — "the wanting got there before the plan, the wanting to be *seen* in it as she'd been seen in his mirror" — she *puts it on* and comes out and stands in the middle of the room and lets Randi look. And Randi's line — "He didn't make this *for* you. He made it *to* you" — genuinely undid me a little, because it names the thing Vee cried over in the sun porch without a word for it. That "to" is beautiful and it's also, I notice, Randi handing Vee the exact frame that will bind her to the object: not a gift, a thing *built onto her*, which means she owes it. The line does tenderness and instrument in one breath and I couldn't separate them and I don't think I'm meant to.
+The dress finally gets *shown* — and not to Cassie, not to anyone else, but to Randi, first and only. And Vee doesn't hold it up on a hanger like a sane person; "the wanting got there before the plan," she puts it *on*, comes out bare-shouldered, "let Randi look." That's the last withheld thing from last chapter surrendered, and it went straight to the closer. Randi reads the cut like a professional — "Charmeuse," "a good weight," verdicts Vee "would never have reached for" — and then lands the line that gutted me: **"He didn't make this *for* you. He made it *to* you."** Vee feels the *to* name the thing she'd cried over without a word. It's true and it's beautiful and it's Randi handing Vee the exact frame that binds her tighter to the gown, to the man, to the debt about to happen.
 
-The cheap-store stretch is the warmest, funniest thing in this book so far. The canoe shoe, "Do yetis shop here?", the pink-rhinestone platforms — "Do these go with burgundy?" — the loose flat "one brisk walk from becoming a sandal" that folds Randi over the bench "the real laugh, the one that costs her something to give." I was completely swept up. Two girls being idiots over shoes, an old couple watching, Vee "the funniest woman in Virginia." I believed every second of it. And *that* is what scares me, because the belief is the mechanism: I trust the friendship now the way Vee does.
+The shoe store is genuinely lovely — the yeti canoe-shoe, the pink rhinestone platforms, "one brisk walk from becoming a sandal," Randi folded over the bench in the real laugh "that costs her something to give." I laughed. I wanted them to have each other. And that's the swoon the book keeps earning honestly so the rest can do its work.
 
-Then the pivot, and I watched it happen frame by frame. Vee finds the sensible tan heel — a height she can stand all night in, "a price that didn't make the debit flinch," goes with everything, *she'll actually wear it again.* This is Vee's whole intelligence, the TJMaxx math, the girl who only spends what's behind the card. And Randi says nothing about the shoe — asks her size, discovers it's *her* size ("practically a marriage"), and then, warm and low and conspiratorial: "A dress a man made *to* you doesn't want to go with everything. It wants to walk in late and stop the room cold." She talks Vee off the shoe Vee can afford and onto the idea that the sensible shoe is "an apology." I could see the redirect and I still felt its pull.
+Then the turn, and it's cold. Randi discovers they're the same size — "practically a marriage" — and uses it to pull Vee off the sensible tan heel ("the one that would have gone with everything") toward the boutique with no prices. And the boutique is where the chapter shows its teeth: Vee runs "the TJMaxx math, the most-I-could math," and the number "started beyond where her most ended and kept on going." She *can't say it* — can't tell Randi she can't afford to be inside the door — and Randi's beside her before the quiet can set: "A dress your *lover* made you? It goes on these."
 
-The boutique is where the dread paid out. The price written small on the sole, past where Vee's "most" ends "and kept on going." She "could not say it" — could not tell Randi, who belongs everywhere, that she can't afford to be inside the door. And Randi is beside her before the quiet can set: "A dress your *lover* made you?" — a word bigger than any Vee's let herself use, and Pace "rearranged in her own chest into something adult and lit." Then the fitting. Randi down on one knee on the pale floor — and I clocked it: *Pace on his knees* is a motif, and here's Randi in the same posture. She holds Vee's foot, looks at the frosted-plum polish — the polish "chosen to catch the light as the silk did" — and a thumb goes once across the nail of the big toe and Vee "felt it go all the way up the length of her, felt the floor of her tip," her hand shooting out to Randi's shoulder to stop the room swinging. That's the most erotically charged single moment in the chapter, and it's *not* necessary for selling a shoe. Randi looked up and smiled and said nothing. Her own wanting leaking, or the closer's touch — held ajar again, and it's the second time I've felt that seam and I can't close it.
+The kneeling floored me. Randi goes **down onto one knee** on the pale floor to put the shoe on — the exact posture Pace took at the mirror, method to set her at his eye level — and holds Vee's bare foot, thumbs once across the plum-polished toenail, and Vee "felt it go all the way up the length of her," hand shooting out to grab Randi's shoulder for the swing. That's the erotic peak and it's a single deliberate touch, clothed, and it landed harder than most explicit scenes because of who's kneeling and what it's for.
 
-And then the money. The thing I'll carry out of this chapter above everything: Vee reaches for the debit — "the one that only ever spent what was already behind it" — and puts it back, and lays down the credit card, "the one she kept for emergencies and gas," knowing "there was nothing under it," knowing "she did not have the next part, the paying-it-back part, that it would be sitting there next month." She signs and lets none of it reach her face "because the one thing she would not do in this room was flinch." That's the trap closing with a signature. Beside her Randi buys loafers "with no occasion because every day of her life was its occasion," a card out "without her seeming to choose it," the number "a multiple of Vee's" and "several times that again," and "never once looked at it." That side-by-side is the whole con in a single counter: the world where money is nothing, staged so the girl who counts every dollar is ashamed to count. Vee carries her box "against her chest with both arms," afraid to trust the world with it. She went into debt she can't cover to complete a costume, and she experiences it as being *owed* by a beautiful thing. "The shoes were not a want she had to own as a want. They were what the dress was owed." God.
+And then the money. Vee puts down the debit — "the card she paid her own way with" — feels "the last careful thing in her give way," and uses the credit card "with nothing under it," knowing "she did not have the next part, the paying-it-back part." She goes into unpayable debt for shoes, and "let none of it reach her face, because the one thing she would not do in this room was flinch." Meanwhile Randi casually buys loafers at "a multiple" of Vee's price "and then several times that again," never looking, wearing them out. That asymmetry, run side by side at the counter, is the chapter's quietest cruelty. Randi engineered Vee into debt and framed it as sisterhood, and Vee walks out clutching the box "like it might get up and leave her," thinking she's never had a friend like this.
 
-**Trust vs. suspicion.** The text earned real suspicion here, more than the last chapter did — not from a crack in Randi (there is none, she's flawless) but from the *shape*: the redirect off the affordable shoe, the price-world staged to shame the flinch, Vee ending the day in unpayable debt for the induction costume. I can *see* the provisioning now, not just infer it. And yet I still can't convict, because the friendship in the cheap store was not faked-feeling to me. That co-existence is the book's whole knife.
+**Trust/suspicion:** no new crack in Randi — seamless again, warm and funny and *effective*. But the financial engineering is the most concrete harm I've watched land on Vee yet, and it's dressed entirely as love. I don't distrust the laughter; I distrust the ledger.
 
-**Erotic charge.** One clean spike — the toe, the thumb, the floor tipping. Brief, sensual, and doubled by the kneeling posture. Otherwise the charge is all in the money and the melting, not the body.
+**Titles:** "Sorority" — sisterhood, "practically a marriage," the belonging Vee's aching toward. It's also Randi's world, Standards. It reads warm and means bind. *A Polite Invitation* / *With a Long Spoon* / sup-with-the-devil: the long spoon is exactly the distance Randi isn't keeping — she kneels, she touches the toe, she gets closer while Vee spends herself.
 
-**Friction.** Almost none. If anything the boutique's symbolism (the shoe "an apology she'd been about to make to no one," the tan one that "would have gone with everything") is laid on a hair thick — but it's Vee's own rationalizing voice, so I bought it as her talking herself into it. No thumb on the scale I resented.
-
-**The title — "Sorority."** Sisterhood. It points two ways and both cut: the sorority Vee's being inducted into (the dress's destination), and the false sisterhood Randi performs all afternoon — "practically a marriage," "same feet, baby, same everything," "we can share." The chapter is Randi *being the sister*, weaving herself into Vee by shared shoe size while walking her into debt. Sorority as the warmest word for the con. And the white-gold band flickered under "practically a marriage" — Randi joking about a marriage of feet, wearing an actual ring she never removes.
-
-**Book title / series.** *A Polite Invitation* — the invitation is to the induction the dress is for, extended so warmly Vee's paying to attend. *With a Long Spoon* — you sup with the devil with a long spoon; there was no long spoon in this bright store either, only Randi's hand on Vee's foot and Vee handing her card across a counter with nothing behind it. The spoon's absence is the point every time.
-
-**What I want / dread next.** The induction — the room the whole costume is built for. I want to see what that room is *for*, and I dread it now with a number attached: Vee walks in owing money she can't repay, in shoes that stop the room, in a dress made *to* her. *Guess from here:* the induction is where the costume does its work, whatever the work is — and the credit card is a wound that will surface later, next month, when the afterglow's gone. I also want Cassie back on the page; she was "nobody home" this chapter, her tight-made bunk standing in for her, and the one clear eye in the book was absent for the day the trap tightened.
-
----
-
-**Cast present (in person):** Vee, Randi. **Mentioned only / off-page:** Cassie (her empty made bunk, "nobody home"); Pace (the maker, the dress); an older couple / a boutique saleswoman (walk-ons).
-
-**Heat:** 1 — one real spike (the toe-touch fitting, "felt it go all the way up the length of her"), otherwise charge lives in money and melting, not the body.
-
-**Romance:** 2 — high warmth, the kneeling, the shared-feet "marriage," "never once in her life had a friend like this"; front-tenderness at flood.
-
-**Motifs & images:**
-- *On its knees* (repeat — was Pace's posture): Randi goes down on one knee on the pale floor to fit the shoe — the closer in the maker's posture.
-- *Frosted-plum toenails* (repeat, from the fitting/night): the polish "chosen to catch the light as the silk did"; Randi's thumb crosses the nail — the costume detail becomes the erotic spike.
-- *The costume completing* (repeat): the shoes provisioned — but Randi walks Vee *off* the affordable shoe onto the room-stopping one; the dress "wants to walk in late and stop the room cold."
-- *The made object made "to" not "for"* (new sharpening of the dress motif): "He made it *to* you" — the frame that makes Vee owe it.
-- *The white-gold band / marriage* (repeat): "same size, same everything… practically a marriage"; "we can share."
-- *The debit vs. the credit card* (new, major): Vee puts back the card that "only ever spent what was already behind it" and signs for what "would be sitting there next month" — the trap closing with a signature.
-- *Money as a staged world* (new): Randi buys a multiple "and several times that again" without looking; the con world where flinching is the shame.
-- *The made bed / tattletale surface* (repeat): Cassie's bunk "made tight and square… nobody home" stands in for absent Cassie.
-- *"Never once had a friend like this"* (repeat of the pull): closes the chapter — the warmth that is the instrument.
-
-**Symbolism:** The tan sensible shoe = Vee's own intelligence and self-sufficiency, talked into looking like "an apology"; the costume requires she abandon it. The credit card = the trap's first material cost, self-inflicted, felt as being *owed*. Randi kneeling to fit the shoe = the closer in the maker's posture, the touch that isn't for the sale. "Sorority" / "practically a marriage" = false sisterhood as the con's warmest face.
-
-**Characterization:** Randi deepened without a single crack — pure warm competence, the redirect and the price-staging seamless, plus a possibly-leaking sensual beat (the toe). Vee deepened hard and painfully: her whole careful financial self shown *then broken*, undefended, owning the debt as a thing the dress is owed. Both landed as consistent, deepening people. Cassie present only as an absence (deliberate).
-
-**Pace — within the chapter:** Well-shaped. The cheap-store comedy earns its length (it builds the trust the boutique spends), the pivot is clean, the boutique tightens, the credit-card beat is the payoff and lands. No drag.
-
-**Pace — chapter to chapter:** Building. This is the induction machinery advancing materially (money, costume completed) where the last chapter advanced it verbally. Warmest-and-coldest chord sustained; not a repeat of the same beat — the last chapter harvested, this one provisions and *costs*.
+**What I want/dread next:** the debt "sitting there next month." I dread what it costs. I want to know if the frosted-plum polish "chosen to catch the light as the silk did" means Vee prepared herself for this — and for whom.
 
 ## Carry-forward state
 
 **Principals**
-- **Pace** (= Peter): young math PhD; powerlifter; maker of expensive-eyed furniture (no-screw joints, own stain/shellac); licenses an MRI patent. Ordinary pleasant face, light brown hair, thick calloused hands. White pickup; outsized workshop; small post-war house off six-fourteen, one shut bedroom door; white-walled bedroom, plain white much-washed sheets. Sun porch (the fitting room). Private rule (right hand); "small closing" at *parents*. Made the no-tag shirt and burgundy/russet-over-plum dress; hid the overnight labor. Large unexplained scar high inside his thigh. **Off-page this chapter (only the dress present, "made *to* her").**
-- **Randi** (= Miranda): 21, junior, sorority Standards board; black hair, blue eyes, dancer's body, cold-citrus/bright-green scent. Secretly involved with Pace, the closer steering Vee. Virtuoso extractor; plain heavy white-gold band, no stone, never removed; two prior on-page cracks. Drives a dark-green Mercedes; size-7 feet (same as Vee); belongs in expensive rooms, spends multiples without looking. **This chapter: on page all afternoon — pure smooth warmth, no crack. Names the dress "made *to* you"; redirects Vee off the affordable tan shoe onto the unaffordable one; kneels to fit it; a thumb across Vee's plum-polished toenail spikes Vee's whole body (Randi looks up, smiles, says nothing — possible leak); stages the price-world (buys loafers a multiple over, never looks) so Vee is ashamed to flinch; "same feet… practically a marriage."**
-- **Vee** (= Vivienne): jacket protagonist, POV. Tall lush hourglass, copper hair, snub freckled nose, good legs. Econ major; hungry to be chosen; self-managing (mother's appetite/shame-voice); owns her appetite; the careful one who only spends what's behind the card. **This chapter: puts the dress on to be *seen*; laughs undefended in the cheap store; is walked off her own good sense onto the room-stopping shoe; melts at Randi's kneeling touch; signs a credit card with "nothing under it" for the shoes, knowing next month has no answer, and experiences the debt as what the dress is *owed*; "never once in her life had a friend like this."**
-- **Cassie** (= Cassandra): Vee's roommate/friend; clever, warm, loves-by-holding; reads Vee fast; makes her bunk tight and square; wears the same fleece through two winters; watches the friend, never the dress; least-engineered love in the book; carries a hidden fold. **This chapter: off-page — present only as her empty tight-made bunk, "nobody home"; absent for the day the trap tightened.**
-- **Kayla, Meg**: dining-circle friends, unknowing (Meg holds the one real caution). Off-page.
-- **Brooke**: sorority president; warmth-as-instrument; probing Pace. Off-page.
-- **Christine**: older woman, small restaurant; knows Pace warmly. Off-page.
-- **The silent taller woman** (unnamed): watched Vee once. Open identity. Off-page.
-- **Theo** (walk-on): asked Vee to a fall event; she said friends. Peripheral.
+- **Pace** (= Peter) — male. Math PhD near done, powerlifter, builds furniture; runs meticulous-consent scenes; engineered Randi's attraction and the staged collision. Large scar high on inner thigh he closed off from Vee's look. Made the burgundy gown fitted to her stripped shape ("made it *to* her"). Absent this chapter; called "lover" by Randi — the word "rearranged in her own chest into something adult and lit."
+- **Randi** (= Miranda) — female, 21. Sorority Standards. Disordered eating, hidden self-harm; curated face; dark-green Mercedes; plain white-gold band at wrist; two smiles; always early. **Present.** Wealth casual and vast (bought loafers at several multiples of Vee's price without looking). Reads garment construction expertly. Size 7 — same as Vee.
+- **Vee** (= Vivienne Thorne) — female, 21, junior. **Jacket protagonist.** Tall, lush, warm dark-red hair, snub nose, cinnamon freckles. Econ major; sharp room-reader, deep self-surveillance, lifelong body-shame; broke. **Present.** Just put unpayable shoe purchase on emergency credit card ("nothing under it").
+- **Cassie** (= Cassandra) — female. Vee's roommate/friend; clean love, immune clear eye; soccer. Absent this chapter (bunk made tight and square, "nobody home").
+- **Kayla** — female; bright amplifier. Absent. **Meg** — female, calm; soft warning. Absent. **Brooke** — sorority president; deliberately collected Pace's details. Absent. **Unnamed taller woman** *(identity open)* — appraised Vee like merchandise. Absent; held open. **Christine** — runs restaurant, knows Pace. Absent. **Daphne** — Pace's past, the "door" he didn't respect. Absent. **Theo** — asked Vee out in September; friends. Texture.
 
 **Relationship ledger**
 
-*Core — Pace / Vee:* **involved, consummated (y).** Surface (to Vee): a sweet good man who makes her things and takes her tenderly, leaving the choosing to her; this chapter he becomes her "*lover*" in her own chest, and the dress is a thing "made *to* her" that she now *owes*. True (to reader): the hunt's consummation; the made dress as love-token AND instrument, framed so she'll pay to complete its costume. History: kissed, full fitting, the night (she initiated, first intercourse, marked panties "Trade"), the dress-reveal (bare stride, second consummation). **Off-page this chapter; his object provisions itself through Randi.**
-  - *desire worked-on-her ↔ desire hers:* **hers** — she takes the edge away herself. (quiet)
-  - *cold ↔ warmth:* warm at flood; the only cold is the withheld (scar, private shoulders). (quiet)
-  - *isolation ↔ belonging:* inside it and happy; the dress ties her joy to the induction, and now to unpayable debt — a purpose and a cost she can't see.
-  - *used ↔ cherished:* **cherished** as she holds it; reader's instrument-read active (fingerprintless dress, induction daydream, now the costume completed at her own expense).
-  - *This chapter:* the frame tightened — "made *to* you" makes the dress a debt she owes; she names him "lover."
+*Core — Pace & Vee:*
+- **State:** involved (consummated: y — twice, second in the gown). secret, one-sided (Vee unaware of engineering). Care real and costly *and* serves a built apparatus — both poles stand.
+- **warmth ↔ cold:** warm; "lover" now, adult and lit in her chest.
+- **isolation ↔ belonging:** the gown ("made *to* her") routes the whole day back to him even absent.
+- **cherished ↔ used:** quiet; treasured on the page, using-pole reader-held (the gown is now the lever Randi uses to spend her).
+- **desire worked-on-her ↔ desire hers:** her-side; the ache is hers.
+- **This chapter:** no direct change; the gown, his made thing, became the instrument that took Vee into debt.
 
-*Core — Pace / Randi:* **involved, consummated (y); secret.** Surface: strangers. True: lovers running a coordinated con; his tenderness genuine. White-gold band may bear on this — possible marriage, unconfirmed. **Off-page together this chapter; con advances by inference — Randi completes the costume and walks Vee into debt for it.**
-  - *desire worked-on-her ↔ desire hers:* both poles at max. (quiet)
-  - *cold ↔ warmth:* warm — warmth as instrument. (quiet)
-  - *isolation ↔ belonging:* surface belonging; under it isolating. (quiet)
-  - *used ↔ cherished:* both — instrument AND delighted-in. (quiet)
-  - *This chapter:* no direct movement.
+*Core — Vee with herself:*
+- **State:** managed surface over unlooked-at want; surveillance now guards the secret. Clear eye consents to surrender. "Slut"/*floozy* bruise still live under affectionate use. **New:** she spent money she does not have and "let none of it reach her face" — the surveillance now conceals the ruin, "the one thing she would not do in this room was flinch." Justified via "the shoes were what the dress was owed" — a not-a-want reframed as obligation.
+- **This chapter:** the last careful thing (paying her own way, the debit card) gave way; happy, but now financially exposed and hiding it from her own face.
 
-*Core — Randi / Vee:* **intimate front deepened (surface to Vee: truest confidant, kissed, "never had a friend like this") / attracted with Randi's own wanting possibly leaking, instrumented steering running.** Consummated n. **This chapter: on page all afternoon — genuine warm comedy in the cheap store, then the redirect onto the unaffordable shoe, the kneeling fitting, the toe-touch spike (possible leak), the staged price-world, "practically a marriage." Front seamless, no crack; reader reads the costume completed at Vee's cost.**
-  - *desire worked-on-her ↔ desire hers:* both on Vee's side; the toe-touch a new charged beat, Randi's own initiative, met (Vee's hand to her shoulder). The leak-question re-opened.
-  - *cold ↔ warmth:* warm at flood in Vee's experience (the real laugh in the cheap store); the coldness is the steering-into-debt underneath.
-  - *isolation ↔ belonging:* Vee feels total belonging ("a friend like this"); reader reads the isolating mechanism (staged shame, unpayable debt, absent Cassie).
-  - *used ↔ cherished:* both at max — cherished in the laughing, used in the signature.
-  - *This chapter:* front holds and warms; the instrument advances materially (costume complete, Vee in debt).
+*Core — Randi & Vee:*
+- **State:** Surface (Vee): the funniest, closest friend she's ever had — lamps warmth, reads her, delights in her, "practically a marriage." True: the operation's closer; **this chapter she extracted the two remaining un-surrendered things** — got the finished gown *shown* (Vee put it on for her, first and only viewer) and steered Vee into unpayable debt on boutique shoes, framing it as sisterhood while casually outspending her many times over.
+- Axes: warmth (peak, seamless); belonging (marriage/sisterhood frame); cherished/used sharpened hard (the kneeling, the toe-touch = cherished-feeling; the debt-engineering = used); desire-worked-on-her sharpened — the physical toe-thumb produced a bodily swing Vee grabbed her shoulder to stop.
+- **This chapter:** Randi knelt to shoe her (echoing Pace's method-kneel at the mirror), touched the polished toe, ran the "made *to* you" frame, and closed the money hook. Access and hold near-total; nothing left withheld by Vee.
 
-*Core — Randi with herself:* the "face" is armor over an unsurvivable wanting relocated to a survivable costume; the seam showed twice earlier (held muscle; the kiss's extra press). *This chapter:* a possible third seam — the toe-touch and the still, wordless look up, more sensual than the sale needed; held ajar. Otherwise pure smooth surface.
+*Core — Pace & Randi:* involved (consummated: y), secret from her sorority world. He directs her desire outward toward Vee under a shared-game/gift frame. **This chapter:** no change (Pace absent). Note: Randi wielded the gown he made as the tool of the day.
 
-*Core — Vee with herself:* runs a managed self; the careful one who spends only what's behind the card; defends against wanting by hunting the flaw then explaining clues away. **This chapter: her financial governor — the one self-defense she'd kept — is talked down and broken; she signs unpayable debt and re-frames it as owed, not wanted; undefended and happy, blind to the cost as she was blind to the con's shape.**
-  - *This chapter:* the last careful thing in her gives way at the counter; she "would not flinch."
+*Core — Randi with herself:* at war; face vs. person under it; execution seamless. Live/ajar: how much warmth is felt vs. played; one un-refreshed data point *for* real feeling (the involuntary tightness last chapter). **This chapter:** no change — seamless again; the real laugh "that costs her something to give" surfaced, but it reads as of a piece with the warmth she deploys.
 
-*Vee / Cassie:* **close, easy** — Cassie off-page this chapter, present only as her empty tight bunk; her clear eye absent on the day the trap tightened. No change to the bond; a felt absence.
+*Vee & Cassie:* Central, clean. Absent this chapter but pointedly so — the empty made bed opens the scene, and it is Randi, not Cassie, who receives the dress-showing. The gap stands: Cassie loves the friend, holds no fact; Randi now holds everything including the showing.
 
-*Vee / Kayla, Vee / Meg; Randi / Cassie; Brooke / Vee:* no change (off-page or silent).
+*Vee & Kayla / Vee & Meg:* Easy, warm; absent. *Randi & Brooke / Randi & Cassie:* no change.
 
 **What I know that they don't**
-- (Vee doesn't know) the café meeting was engineered; Randi and Pace are secret lovers running a con; she was pointed at and hunted; a man authored it.
-- (Vee doesn't know) she reads engineered warmth (Randi's) and restraint/craft (Pace's) as sincerity; her econ eye and her financial caution both get talked past.
-- (Vee doesn't know) the made dress is both genuine labor of love AND the fingerprintless instrument, cut to her, tied to the induction; the costume is now complete and she went into unpayable debt to complete it — her joy and her ruin both the plan's purpose felt as her own.
-- (Vee doesn't know) the no-fingerprint objects (shirt, dress) are made by Pace.
-- (Vee doesn't fully see) she gives the true confidant (Cassie) the read-off-the-bed version and the harvester (Randi) the whole one; and Cassie was absent when she was steered into debt.
-- (Reader open) the white-gold band, never removed — possible marriage; "practically a marriage" flickered against it this chapter.
-- (Reader open) the scar high inside Pace's thigh — unexplained, beside the shut door and the *parents* wound.
-- (Reader note) Randi kneels to fit the shoe in the maker's own posture (Pace on his knees); the touch (toe/nail) wasn't for the sale.
-- (Reader note) the price-world was *staged* — Randi's careless multiple-over spend to shame Vee's flinch.
-- (Randi doesn't fully carry) she's being steered by Pace; her own wanting may be leaking (the toe-touch a fresh instance).
-- (Pace doesn't know) Randi gives him the performed self; he reads her body past it; the gap may be narrower than she thinks.
-- (Caring side) Pace's tenderness reads genuine (overnight labor, "didn't make it smaller," "made it *to* you"). Held ajar.
-- (Caring side) Cassie's love for Vee is wholly unengineered and true; absent this chapter, felt as a loss. Carries a hidden fold.
-- (Genuinely open) Meg's "sometimes they even are"; Randi's cracks and her "meant it"; whether Pace's making is love or bait; whether the toe-touch is leak or lure — the page keeps both.
-- (Reader irony) Vee once lied against him "getting away with something" while she is the one being taken; this chapter she signs away money she doesn't have and feels it as being owed.
+- (Caring) Pace genuinely moved by Vee — up all night on the gown, staged the reveal, slept defenseless.
+- (Caring) Pace genuinely moved by Randi, believes he gives a gift.
+- (Caring) Pace's cold/shirt-sacrifice on the hike were real, unseen by Vee.
+- (Caring) The MRI patent is real, aimed at helping frightened sick people.
+- (Caring) Cassie's love for Vee is clean, reads her well, senses the shape, lacks the fact; chose kindness over pressing.
+- (Caring, ajar) Something in Randi went involuntarily tight when Vee glowed about Pace — possibly real feeling. Un-refreshed.
+- (Using) Pace engineered Randi's attraction and "choice," harvesting involuntary response as consent; may have targeted Vee — ajar.
+- (Using) Pace & Randi run Vee as a coordinated operation — Randi the closer, Pace clearing the standard.
+- **(Using, new) Randi engineered Vee into unpayable credit-card debt for boutique shoes, framed as friendship/marriage, using the gown ("made *to* you") as the lever — while casually outspending her many times over without looking. Vee knows there's nothing behind the card; she is hiding it from her own face.**
+- The gown is built to the exact shape of Vee's stripped body; mirror newly hung; riser sets her at his kneeling eye-level as method. **Randi's kneel to shoe Vee physically echoed that method-posture.**
+- Randi now holds *everything* Vee had withheld: the whole first-night middle, every intimate detail, the platform-arousal secret, and now the dress-showing itself.
+- Randi extracts and withdraws as method; goodbye kiss, wrist-grab date, and now the shoe-day were deliberate.
+- Randi self-harms / eats disordered unconsciously; nobody, including her, is looking.
+- Vee has been selected and pursued and does not know it; experiences it as free agency — and has named the surrender and consented.
+- The flannel shirt Vee treasures was made by Pace.
+- His house kept too warm; **two towels** in a one-man house (unseen).
+- Brooke deliberately collected Pace's details; reason unknown.
+- A silent taller woman appraised Vee like an object; who/why unknown.
+- Vee's want between women is live heat aimed at Randi — refreshed physically this chapter (the toe-touch swing).
+- Pace has a large scar high on his inner thigh he closes off from her look — unexplained.
+- **(Structural signal, reader-only) The Simpson's-paradox lecture states the operation's shape: "short stretches can lie against the whole." This warm shoe-date is exactly such a short stretch.**
 
 **Motifs**
-- *Simpson's paradox / short stretches lie against the whole:* central. The con's shape spoken as math; Vee copied it blind last chapter. Fuses with "getting away with something." (Not on-page this chapter, but the whole shoe date *is* it — a warm true afternoon running toward her ruin.)
-- *The made object made "to" not "for" / no fingerprints / somewhere to be:* russet-burgundy-over-plum dress, no-tag shirt, marked panties "Trade." **This chapter: "He made it *to* you" — the frame that makes the dress a debt she owes; the dress stays "the one real color," still saving itself for the induction; the costume now completed.**
-- *On its knees:* Pace on his knees earlier; **this chapter Randi kneels on the pale floor to fit the shoe** — the closer in the maker's posture, plus the touch that isn't for the sale.
-- *Frosted-plum toenails:* **this chapter the erotic spike** — polish "chosen to catch the light as the silk did," Randi's thumb crossing the nail, Vee's body swinging.
-- *The white-gold band / marriage:* "same feet… practically a marriage"; "we can share." Loaded against the ring she never removes.
-- *The debit vs. the credit card (new, major):* Vee puts back the card that spends only what's behind it and signs for what "would be sitting there next month" — the trap closing with a signature; the first material cost.
-- *Money as a staged world (new):* Randi spends a multiple "several times over," never looking; the world where flinching is the shame.
-- *The made bed / tattletale surface:* Cassie's empty bunk "made tight and square… nobody home" stands in for absent Cassie.
-- *"Never once had a friend like this":* recurs as the pull that is the instrument.
-- *Floozie/shame voice; the slit/peekaboo; underwear left behind; the second-press goodbye kiss; pausing to preserve; "getting away with something"; the scar; the dropped sheet* — carry (not on-page this chapter).
+- **The mother's voice — *floozy* / "slut"** — quiet this chapter; the shame-word bruise still live under affectionate use.
+- **The ladle / keeping the middle** — *resolved this chapter*: the dress, "still shown to not one living soul," was shown — put ON — for Randi, first and only. The last kept-middle thing surrendered to the closer.
+- **Kneeling at eye-level as method** — Pace knelt at the mirror to set her at his eye-line; **Randi now kneels on the boutique floor to shoe her and touches the polished toe** — the method-posture crosses from Pace to Randi. First cross-over.
+- **Randi's warmth as a lamp / by the wrist / by the hands** — she solves-your-problem-with-her-hands, reads the cut, kneels, buckles the shoe; charm as instrument, now with money as its edge.
+- **"Made *to* you," not *for* you** — Randi names the gown as built onto Vee's body; the frame that binds and then justifies the spend. First naming (charged).
+- **Money / the flinch she won't show** — Vee runs "the TJMaxx math," puts down the debit for the credit card with "nothing under it," and refuses to let it reach her face. First full sighting; ties to lifelong broke + body-shame surveillance now guarding debt.
+- **The made bed as tattletale** — inverted: Cassie's bed "made tight and square, nobody home" opens the scene on her absence.
+- **Same size / sharing / "practically a marriage"** — size-7 sisterhood as the hook that pulls her off the sensible shoe. First sighting.
+- **Peekaboo/slit; being-looked-at → what she was for; two smiles; white-gold wrist band; spoons; second-press kiss; getting away with something** — quiet.
 
 **Symbolism noticed**
-- Simpson's paradox = the book naming its own engine; the shoe date is that math lived — a true warm afternoon running toward her cost.
-- The tan sensible shoe = Vee's own intelligence and solvency, reframed by Randi as "an apology"; the costume requires she abandon it.
-- The credit card / unpayable debt = the trap's first material cost, self-inflicted, felt as being *owed*.
-- Randi kneeling to fit the shoe = the closer in the maker's posture; the toe-touch = the touch that isn't for the sale.
-- "Sorority" / "practically a marriage" = false sisterhood as the con's warmest face; the ring flickering under it.
-- The dress "made *to* her" = love showing by building itself onto her AND the instrument that makes her owe it.
-- The marked panties/"Trade"; the scar; the white-gold band; the long spoon absent from the bright rooms — carry.
+- **The tan "sensible" shoe (goes with everything) vs. the boutique heel** = self-supporting independence vs. the beautiful thing that "walks in late and stops the room" — Randi frames the sensible one as "an apology she'd been about to make to no one," and Vee abandons paying-her-own-way for debt.
+- **The shoe that *holds* her ("being stood up by one")** = the surrender that carries her weight instead of only balancing it — feels like support, is dependency.
+- **Simpson's paradox** = the book's shape; this warm day is a short stretch lying against the whole.
+- **Kneeling** = method dressed as devotion, now performed by Randi as it was by Pace.
 
 **Open questions**
-- Does she wear the completed costume (dress + room-stopping shoes) to the induction, and what is that room *for*? Tightening hard.
-- When does the credit-card debt surface, and what does it cost her? (New, opened this chapter.)
-- Was the toe-touch Randi's own wanting leaking, or the closer's touch? Re-opened.
-- Does Randi feed the harvest back to Pace, and how does it read to him?
-- Was Randi's "sad little story" fabricated as a tool, or a real crack she chose to spend?
-- What is the scar high inside Pace's thigh?
-- What is the white-gold band — marriage, and to whom? Connect to the shut door / the *parents* closing?
-- Is this Pace's hunt alone, does Randi want Vee for herself, or both?
-- Does Cassie's clear eye become friction, now that she holds only the surface — and what does her absence today set up?
-- What is behind the one shut bedroom door (not the white-walled one)?
-- What does the panties-trade mean to Pace? The two towels — for whom?
-- Who is the silent taller woman? Was Vee a substitution? Is Brooke/the house still a threat?
+- **What is the large scar high on Pace's inner thigh?** *(top pull)*
+- **What does the unpayable debt cost Vee — and when does it surface?** *(new, live)*
+- Where/when does the gown get worn, and who else is in that room?
+- **Two towels** — who is the second body the house provisions for?
+- What is Randi's white-gold wrist band?
+- Was Randi's tightness real feeling past the assignment? *(un-refreshed; still leaning: a genuine crack)*
+- Genuine restraint/patience vs. control. *(both)*
+- Will Cassie's read reach the true shape? *(gap structural)*
+- Who is the silent taller woman?
+- Did Pace target Vee by name, or did the game land on her?
+- Why is Brooke collecting Pace's details?
+- What is the game's endpoint?
+- How much of Randi's warmth is felt vs. played? *(seamless again)*
+- Who is Daphne, and what did the closed-door lesson cost Pace?
+- How far does the opening go before it turns?
+- Is Vee's drift costing her her clear eye? *(it now conceals her own ruin from her)*
+- The frosted-plum toe polish "chosen to catch the light as the silk did" — chosen by whom, for whom? *(new)*
 
 **How I feel — overall**
-Swept up and scared in the same breath, which is this book's signature. The cheap-store comedy is the warmest, funniest thing yet and I believed all of it — and that belief is the trap, because I now trust the friendship the way Vee does. Then Randi walked her off her own good sense, knelt in the maker's posture, spiked her with a thumb across a painted toenail, and staged a world where Vee's caution reads as shame — and Vee signed a credit card with nothing behind it for shoes the dress was "owed," knowing next month has no answer, and felt it as devotion. That signature is the first real cost the book has charged her, self-inflicted, and it landed cold under all the gold. I still can't convict Pace; the door stays open. But the costume is complete now, the induction is the only place left to go, and Vee walks toward it in debt she can't pay, in a dress made *to* her, in shoes that will stop the room. I carry out warmth for her, a fresh ache for absent Cassie who wasn't there to catch this, real suspicion earned by the price-staging, and the reopened, unresolved question of whether Randi's kneeling touch was lure or leak. "Sorority" — the false sisterhood was never warmer, and it just cost Vee money she doesn't have.
+Charmed and uneasy in the same breath — the book's confirmed mode, and this is the most concrete harm I've watched land: Vee in unpayable debt, hiding it from her own face, walking out clutching the box like it might leave her, thinking she's never had a friend like this. The laughter over the canoe-shoe and the rhinestone platforms is real and I loved it; that's the machinery — the warmth has to be true so the extraction reads as love. Two things crossed a line this chapter: the last withheld thing (the gown, shown, worn) went to Randi, and Randi took the kneeling posture that was Pace's method. The toe-touch swing told me Vee's want toward Randi is live and physical, not just wistful. I trust Cassie absolutely and felt her absence as the whole point — she'd have watched Vee's account, not the shoes. Randi I distrust more than ever and still can't catch cracking. I carry out a gold sidewalk and a stone: the short stretch and the whole running opposite, and now the whole has Vee's money in it.

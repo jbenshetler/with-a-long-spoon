@@ -1,100 +1,105 @@
 # Cold read — What to Wear
 
-*scene: scenes/what-to-wear.md · model: claude-sonnet-5 · read after: rye*
+*scene: scenes/what-to-wear.md · prose-blob b17c9b0c29c635234b5919e3c32e29a826dcd32f · model: claude-sonnet-5 · read after: rye · 2026-08-13*
+<!-- freshness: prose-blob = `git hash-object scenes/what-to-wear.md` at read time; if it differs from the live file's hash, this review is stale. -->
 
 ## Reader reaction
 
-Oh, this one's a pure delight to sit inside — a totally different register from the last two chapters, and I loved the change of air. New people! Kayla and Meg, neither of whom I've met before, and they land instantly — Kayla's the bright unstoppable stream of chatter, Meg's the level one who lets a sentence finish, and between them Vee gets to be loud and easy and *happy* in a way I haven't quite seen her be yet. "Laughing with her whole body, loud and easy, the kind that made the next table look over and then want in" — that's such a warm, specific image of a person at ease, and it made me like Vee more, actually, seeing her in her ordinary element instead of always performing composure or bracing for judgment.
+New names, new room, and I'm having to reorient — Meg reappears (previously only mentioned, now on the page and warm, dark-haired, steady), and Kayla is a brand-new principal, all bright motion and appetite for gossip. No Cassie here at all, which surprised me — this feels like a different circle of friends entirely, dorm-mates rather than the intimate Cassie register. I like Kayla immediately; she's funny and protective in a nosier, louder key than Cassie's quieter tenderness. Meg lands as the calm ballast of the table.
 
-The retelling of the hike here is the same story I already know but recut for an audience, and it's fascinating watching what she keeps and what she still leaves out. She tells the shirt story again — kept, unreturned, "he didn't ask for it back" — with the same pride as with Cassie. But this time she *does* mention the siren! "One bark of the siren... So he moves us along... That was the end of that." So it wasn't suppression after all, or wasn't only suppression — she told Cassie the story minus the ending and told Kayla and Meg the ending too, just recast, flattened into a punchline about bad timing rather than an unfinished sentence. Notice: no "Pace—" here, no unfinished words on either side. She's smoothed the whole moment into "we almost kissed twice and got interrupted," which is true but drops the specific charge of that half-said name. I don't think that's calculated deception, more like the natural thing a person does turning a private ache into dinner-table material — but I'm still holding the gap, because the reader knows there was a *word* that got swallowed and Vee, in both retellings now, keeps not saying it out loud to anyone.
+The retelling of the hike here is looser and slightly *different* in shading than what she told Cassie — more polished, more performed for an audience that wants romance-novel beats ("That's not a message, that's a ransom note"). It's the same story but she's getting better at telling it, which is its own small, interesting thing — I noticed it without the text underlining it.
 
-The count of "once" — one kiss in the whole time, twelve days ago, against a tree, and everything else is starving. That lands as genuinely erotic to me in the best way this book does it — not through explicit content but through withholding rendered as ache. "It's making me lose my mind, is what it is... And I can't even explain why, that's the worst part." That's the real charge of the chapter: not what's happened but the gap between how little has happened and how much she wants.
+The Theo exchange did real work for me — a tiny, unforced contrast: a genuinely nice, un-mysterious boy she waved off without a second thought, right before diving back into Pace. It sharpens what she's choosing and what she's not.
 
-Meg's line stopped me cold, though, in a good unsettling way rather than a bad one: "He's different. I said it about Danny. Word for word, I think." That's the first outside voice in the whole book gently naming the pattern — every girl thinks her guy is the exception. It doesn't feel like the narrative undercutting Vee cruelly, more like ordinary friend-wisdom landing near something the reader already has more reason than Vee to worry about. Vee "let it go by. It didn't catch on anything" — and I felt the little chill of that, because I *do* have reason to think it might catch on something, later.
+The invitation itself is the chapter's real charge. "Would you come to my house Saturday. Two o'clock." No stated purpose, no dress code — and Vee naming her own reaction plainly ("her heart was doing something quick and light and stupid, and she let it") is exactly the kind of honest desire-ownership I've come to want from her. No shame, no hedging. The line that got me was the quiet aside under all the table noise — "She'd had every piece of him she'd been handed, and never once been through his door, and now there was a door" — that's a genuinely good image, a threshold she hasn't crossed dressed up as domestic small talk about hair and outfits.
 
-The ending — the invitation to his house, Saturday, two o'clock, no information at all — is a lovely cliffhanger of pure anticipation. "It's the least information a human being has ever sent me and I have read it a thousand times." I felt her heart-lift with her. And Kayla's read — "He's not asking you over to eat... He wants you for the afternoon" — put a genuinely swoony, slightly nervous thrill in me. I want to go to that house with her.
+Meg's "Everybody's different at the start... Sometimes they even are" landed with a little chill for me — not sinister, just the first line all chapter that gestures, gently, at the possibility this doesn't end well, and Vee explicitly lets it "go by. It didn't catch on anything." That's a small, deliberate-feeling beat — the warning that doesn't take.
 
-**Swoon / pull:** high — the ordinary-life texture (dining hall light, Kayla's fries, "we're doing hair Saturday") makes the romance feel real and lived-in rather than hermetic, and the anticipation of the invitation is genuinely delicious.
+I don't have new suspicion of Pace from this chapter — if anything the retelling reaffirms restraint (he waited for her to initiate the one kiss, he stopped the truck moment out of care for his own cold, not pushiness). But "his house" as an unstated, unexplained invitation, arriving with zero context after two months of never once being invited there, does sit slightly oddly against the earlier open question of where he actually lives and what his situation is — that thread just got a lot more pointed.
 
-**Trust/suspicion:** nothing new against Pace; Meg's "he's different" line is the first bit of outside skepticism voiced, but it reads as ordinary friend-realism, not an alarm the text is ringing.
+**Title:** "What to Wear" is doing double duty — literally Kayla's demand, and also the chapter's whole comic surface (what do you wear to an unstated occasion) sitting over the real question underneath (what do you bring of yourself through that door). Light, not ominous, but pointed once you sit with it.
 
-**Erotic charge:** simmering, not explicit — carried entirely by scarcity and anticipation ("once, the whole time"), which worked on me more than a love scene might have.
+I want the next chapter badly — I want to be in that house.
 
-**Friction:** none really — this is confident, warm writing that trusts its own charm.
-
-**Title:** "What to Wear" is Kayla's literal question but obviously points past clothes — toward what Vee doesn't know she's walking into, what she should brace herself with. Feels playful on the surface, faintly loaded underneath, in the way this book's titles tend to be.
-
-**Cast present (in person):** Vee, Kayla, Meg. Mentioned only: Pace, Theo, Danny (Meg's boyfriend), Meg's boyfriend's unnamed roommate.
-
-**Heat:** 1 — the "once, the whole time" ache and the invitation's blank suggestiveness, nothing explicit.
-
-**Romance:** 2 — genuine tenderness carried through retelling plus the swoony pull of the invitation.
-
-**Motifs:** the kept shirt (repeat, now told a third time — worn again as her own claimed object); the siren/interruption (repeat from carry-forward, but *this* time actually spoken aloud, recast as comic-tragic timing rather than left as a private unfinished thing — a new wrinkle on that motif); asking-what-she-wants (repeat — "he asks me first... waits for the real answer" mirrors the froyo/dinner-order pattern); Theo waving (first appearance, minor, establishes Vee has other suitors she's gently declined).
-
-**Symbolism:** the blank invitation itself — "the least information a human being has ever sent" — reads as a stand-in for the whole relationship's structure: total trust demanded on total information-scarcity.
-
-**Characterization:** Vee deepens nicely — we see her social, funny, at ease among friends who aren't Cassie, which widens her rather than repeating a note. Kayla and Meg are quick, distinct sketches (not sure yet if they're recurring or one-scene). Pace stays offstage and unchanged.
-
-**Pace within chapter:** brisk and confident, the dinner-scene chatter earns its length by characterizing Kayla/Meg fast and cleanly; ends right on the anticipation beat.
-
-**Pace chapter-to-chapter:** a welcome tonal shift after two intimate/interior chapters — opens the world outward, raises stakes toward a new scene (the house) rather than repeating the last beat.
-
----
+**Cast present:** Vee, Meg, Kayla. Mentioned only: Theo, Pace (via text/retelling), Danny (Meg's boyfriend).
+**Heat:** 1 — retold, not enacted; the tree-kiss and truck scene recalled, plus anticipatory charge around the invitation.
+**Romance:** 2 — the invitation itself is a real turn; Vee's unguarded interior admission of her own racing want.
+**Motifs & images:** the shirt (repeat, now "folded on her pillow at this exact hour" — a lovely new image of it as a fixed presence in her room); "leave no trace" not present this chapter; the door/threshold (first sighting — house as literal unopened door, echoing the shirt/truck's giving-of-self motif); food as social glue but downgraded to backdrop this time, not intimacy-marker.
+**Symbolism:** the closed door of his house — first appearance, reads as the next threshold after the truck.
+**Characterization:** Vee consistent — proud, funny, self-aware about her own want, no shame register. Meg and Kayla newly introduced and distinct from Cassie's register — landing as fun, plausible dorm-friend types, not yet deep.
+**Pace within chapter:** brisk, dialogue-driven, earns its length via specificity (fry-stealing, exact days counted) rather than dragging.
+**Pace chapter-to-chapter:** a tonal breather/transition after two intense chapters — building anticipation rather than escalating heat directly; good momentum toward "the house."
 
 ## Carry-forward state
 
-**Principals:**
-- Pace — man, controlled/exacting/attentive; established engineer of desire (Randi and now Vee), premeditated even while tender. Grad student finishing math PhD, powerlifter, disciplined routine (lifts first thing, writes six hours, stops). Involved with Randi (consummated, secret from Vee). Absent this chapter — only referenced in Vee's retelling and a text message inviting her to his house Saturday at 2pm, no stated reason.
-- Randi (= Miranda) — woman, ~21, sorority. Involved with Pace (consummated, secret from Vee). Absent this chapter.
-- Vee — woman, tall build, dark red hair, econ major. This chapter: seen relaxed and social with dorm friends Kayla and Meg, retells the hike (kept shirt, siren interruption — recast comically as bad timing, no unfinished "Pace—" mentioned even now) and reveals only one kiss with Pace total (twelve days ago, against a tree). Receives a text from Pace inviting her to his house Saturday 2pm, no further detail — thrilled and unsettled by the blankness of it.
-- Cassie (= Cassandra) — Vee's close friend, terse, plainspoken, established last chapter as warm/tender under dryness. Absent this chapter.
-- Kayla — new this chapter: Vee's dorm friend, blonde, curly-haired, talkative, teases relentlessly, reads Pace's invitation as clearly sexual/adult ("He wants you for the afternoon"), declares she's doing Vee's hair Saturday.
-- Meg — new this chapter: Vee's dorm friend, dark-haired, calm, level, follows the Pace story like a show; drops the one faintly ominous outside note of the chapter ("He's different. I said it about Danny. Word for word, I think.").
-- Theo — mentioned only: a guy who asked Vee to a fall dance, was let down easy, remains friendly, waves at her in the dining hall.
-- Brooke — sorority chapter president. Absent, no change.
-- Unnamed taller woman (from Smoothie Bird) — absent, identity still unknown/open.
+**Principals**
+- **Pace** (= Peter) — man, controlled, attentive, courtly, patient to an unnerving degree; involved with Randi. Orchestrated Randi's engineered "chance" meeting with Vee ("pointing game"), then took over direct pursuit himself. Not on page this chapter — present only via text message and Vee's retelling. New fact confirmed via Vee's retelling: getting his doctorate in math, nearly finished; lifts first thing every morning ("clears his head"), then writes for six hours and stops ("My writing's no good after that"). Actual powerlifter. Has now, for the first time in two months of dating, invited Vee to his house — Saturday, 2:00pm, no stated purpose, no dress instructions.
+- **Randi** (= Miranda) — woman, black hair, twenty-one-ish, involved with Pace (consummated, ongoing). Not present or mentioned this chapter.
+- **Vee** (= Vivienne) — present and central. In the athletic dorm dining hall with dorm friends Meg and Kayla, retelling the hike/shirt/truck story (now polished in the telling, slightly different emphasis than the Cassie version — omits nothing new here, just performs it). Turned down Theo (asked her to a fall dance in September; they're now just friends) without hesitation. States plainly that she's "losing her mind" over how little Pace pushes and how much he asks what she wants first. Receives a text from Pace mid-meal inviting her to his house Saturday at 2pm — no explanation given. Reacts with unguarded excitement, explicitly narrated as her own wanting, no shame.
+- **Cassie** (= Cassandra) — not present or mentioned this chapter. All prior notes stand: close friend, warm, protective, was the one Vee told the fuller/rawer version of the hike story to; her line "Vee... like setting something down where it wouldn't break" and her approval of keeping the shirt stand unchanged.
+- **Meg** — NEW as an on-page principal (previously mentioned only, re: ill-fitting boots on the hike). Dark-haired, level, calm; eats unhurried, lets sentences finish. Has a boyfriend named Danny. Follows the "Pace situation" like a show, in installments. Says: "Everybody's different at the start. I said it about Danny... Sometimes they even are" — a mild, unpursued note of caution that Vee lets pass without engaging.
+- **Kayla** — NEW principal. Round-faced, blonde, curly hair, always in motion, fast unbroken speech. Protective, nosy, funny; escalates every detail ("That's not a message, that's a ransom note"). Declares she's coming over Saturday to do Vee's hair before the visit; insists 2pm isn't a meal time and Pace "wants her for the afternoon."
+- Theo — new minor name, on page briefly: nice, waved at Vee, asked her to a September dance, accepted "let's be friends" gracefully, now just waves.
+- Danny — mentioned only, Meg's boyfriend.
+- Brooke, unnamed taller woman, Christine, Daphne, Sloane, Kinsey — not present, not mentioned this chapter; all prior notes stand as previously recorded.
 
-**Relationship ledger** (axis order: isolation ↔ belonging · used ↔ cherished · desire worked-on-her ↔ desire hers · cold ↔ warmth):
+**Relationship ledger**
 
-Pace & Vee — Core. Absent from the page together; Vee's retelling to new friends plus a new invitation text drives the chapter.
-- State: attracted, moving toward involved (not yet consummated — only one kiss total, twelve days ago).
-- isolation ↔ belonging: this chapter tips toward belonging on Vee's side — she's folding the Pace story into her wider social world (a second friend-group beyond Cassie), no longer just a private thing held close.
-- used ↔ cherished: standing cherished per Vee's account (shirt, boot repair, asking what she wants first) — no new counter-evidence, held ambiguity for the reader unchanged.
-- desire worked-on-her ↔ desire hers: strongly toward hers this chapter — her own account of being unable to think straight, "climbing the walls" over small kindnesses, reads as her own hunger, freely (if helplessly) felt; no sense of manipulation from her side, though the reader still holds background knowledge that some of this was engineered.
-- cold ↔ warmth: standing very warm; the shirt still worn/kept, the retelling proud and glowing, and a brand-new warm beat — the blank invitation to his house, which Vee and her friends read as a real escalation.
-- This chapter: the invitation (Saturday, 2pm, no stated purpose) is the chapter's central move — anticipation spikes; also notable, Vee now tells the siren-interruption to friends (unlike with Cassie) but still recasts it as comic bad timing, omitting the specific unfinished "Pace—" / his unspoken reply.
+*Pace ↔ Randi* — Core. State: involved (consummated: yes, ongoing). Not on page this chapter; no change to standing read (surface: playful couple; true: Pace's pursuit of Vee is his own escalating project, origin concealed from Vee).
 
-Pace & Randi — Core. No page-time, unrefreshed. State: involved (consummated: y). Surface: a game between lovers, playful, hers to choose within. True: Pace is engineering and testing her desire deliberately, premeditated.
-- isolation ↔ belonging: unrefreshed.
-- used ↔ cherished: unrefreshed, standing — both live at once.
-- desire worked-on-her ↔ desire hers: unrefreshed, standing — both true, unresolved.
-- cold ↔ warmth: unrefreshed — warm surface, cold calculation underneath.
-- This chapter: no change (absent).
+*Pace ↔ Vee* — Core. State: attracted → involved (secret from Vee re: origin; consummated: no — furthest point remains the truck scene, unrepeated/unresolved). New development: after two months and only one kiss (twelve days ago, initiated by Vee), Pace has for the first time invited her to his house, Saturday 2pm, no stated purpose. Surface (Vee's read): thrilled, unguarded, explicitly owns her own racing want — "she let it." True/reader-held-open: still unresolved whether his restraint is decency or technique; the invitation, arriving with zero context after such total silence about his home/living situation until now, sharpens rather than resolves that open question.
+- Warmth ↔ cold: warm, reaffirmed through retelling; the invitation itself reads as a new offering of access/warmth.
+- Isolation ↔ belonging: the house is a literal threshold not yet crossed — belonging escalating but incomplete; she's never been let in before.
+- Cherished ↔ used: still reads as cherished; no new evidence either way, though the unexplained nature of the invite is a small unresolved data point.
+- Desire worked-on-her ↔ desire hers: strongly hers — she names her own quickened heart and lets it, explicitly, on the page, no external validation needed this time.
+- This chapter: real movement — first invitation to his house, first time in the relationship she'll cross that threshold; excitement and ownership of her own desire notably plain and unshadowed by any mother's-voice.
 
-Randi & Vee — Core. Absent this chapter; no new movement. Standing: friends, warming fast, asymmetrical in knowledge.
-- This chapter: no change (absent).
+*Randi ↔ Vee* — Core. Not on page this chapter. Standing state fully intact: friends (close), fast and warm; true: asymmetry persists (Randi knows the origin of the Pace meeting, Vee doesn't). No change this chapter.
 
-Vee & Cassie — friends, close, established last chapter with real depth under Cassie's dryness. Absent this chapter.
-- This chapter: no change (absent).
+*Vee ↔ Cassie* — Core. Not on page this chapter. Standing state fully intact: friends (close), warm and easy, deep tenderness demonstrated last chapter. No change.
 
-Vee & Kayla / Vee & Meg — new this chapter. Warm, easy, established dorm friendship; both track Vee's Pace story closely and react with real investment (excitement, teasing, one note of worldly caution from Meg). Not yet core relationships — noting here in case they recur.
+**Everything else**
+- Vee ↔ Meg: newly established as a friendly, established dynamic — Meg follows Vee's Pace story with real interest, offers a small note of caution ("everybody's different at the start") that Vee doesn't engage with. Warm, no tension.
+- Vee ↔ Kayla: newly established as fast, funny, deeply invested friend dynamic — Kayla protective and excitable, planning to "do hair" for the Saturday visit. Warm.
+- Vee ↔ Theo: settled non-romantic friendship; he asked her out once (September), she declined, no lingering awkwardness.
 
-**Everything else:** No other pairs on the page this chapter.
+**What I know that they don't**
+- Vee has been selected and approached under false pretenses by Pace (engineered "collision" via Randi) without any awareness the meeting has an origin at all — untouched this chapter, and now made stranger by contrast: she still knows almost nothing concrete about his life (where he lives, his situation) despite two months of dating, and is about to see his house for the first time with zero context given.
+- Randi's active steering of Vee's narrative about Pace (prior chapter) — untested here, Randi absent.
+- Randi's private resolve never to let Pace see her fully unarmored self again — untested here; contrast with Vee's total unguardedness continues to widen.
+- Pace's real tenderness, demonstrated at high stakes in the hike chapter — still genuinely unresolved (decency vs. technique); the sudden, unexplained house invitation after such prolonged restraint is new fuel for that open question without tipping it either way.
+- Cassie's unreadable look toward Randi, folded away before Vee could read it — still standing, unaddressed, and not touched on this chapter (Cassie wasn't present).
+- Vee's thin underlying knowledge of Pace (no idea if he's wealthy, hasn't seen the house until now, doesn't know much beyond the road name; "he had no house here to go to," showers at a gym) — directly activated this chapter: the house invite is the first concrete step toward closing this gap, but the text still gives zero information about what she'll find there.
 
-**What I know that they don't:** The Pace/Randi "collision" plan has been executed on Vee exactly as designed; Vee experiences it all as chance and mutual liking, unaware she was selected and delivered. Randi's private resolve never to let Pace see her unperformed self again stands, unmentioned. Cassie's earlier flickering look toward Randi stands, unresolved. Vee has now told two different audiences (Cassie; Kayla and Meg) two different versions of the hike's ending — Cassie got no siren at all, Kayla and Meg got the siren but not the unfinished "Pace—" — a small but real inconsistency in what Vee is willing to say aloud to whom, still unexplained.
+**Motifs**
+- **Mother's internalized voice / self-policing** — established (cardigan; froyo verdicts; boots/manners shame; braided into arousal in the truck scene). Absent again this chapter — Vee's want is stated plainly and without self-correction, continuing the trend from the Cassie chapter.
+- **Body as public property / gaze vs. chosen exposure** — established; quiet this chapter, no new instance.
+- **Giving something of his own to cover/protect her** — established (the shirt, standing in the rain; kept without asking, he didn't ask for it back; Cassie's blessing). New image this chapter: the shirt "folded on her pillow at this exact hour" — a fixed, tender presence in her daily life now, not just a kept object.
+- **"Leave no trace"** — established (cherry pits ethic, repeated near-verbatim to Cassie). Not present this chapter.
+- **Food/appetite as intimacy** — established (froyo, apple/closet, dinner, sandwich/cherries). Present but downgraded this chapter — cheese, fries stolen off a tray — functioning as ordinary social texture, not a marker of intimacy with Pace specifically.
+- **The threshold / unopened door** — NEW first sighting: "She'd had every piece of him she'd been handed, and never once been through his door, and now there was a door" — the house as the next physical/emotional threshold after the truck, worth tracking closely into the next chapter.
+- **Setting something down gently / naming without judgment** — established (Cassie's "Vee," softly). Not present this chapter (Cassie absent).
 
-**Motifs:**
-- The kept shirt — Pace's dry shirt, given mid-storm, kept and worn since; told for a third time this chapter with the same pride ("he didn't ask for it back"). Central claimed object standing for the whole relationship so far.
-- The siren/interrupted moment — now told twice with two different shapes: omitted entirely to Cassie, included but flattened into comedy for Kayla/Meg ("One bark of the siren... that was the end of that"), still never including the specific unfinished "Pace—" to anyone. The gap between what happened and what she says happened is now the sharpest instance of this motif.
-- Asking what she wants first — established via froyo/dinner-order/boot-kit pattern; this chapter's version: "He asks me first... waits for the real answer, and then that's exactly what happens." Still charming to Vee, still faintly systemic to the reader.
-- Blank invitation as escalation — new instance: "would you come to my house Saturday. Two o'clock," no other detail — read by Vee and friends as clearly meaningful/adult, deliberately unglossed by Pace.
-- Chosen/being chosen — dormant this chapter, no direct instance, though the invitation is implicitly another act of Pace choosing terms and Vee accepting them sight-unseen.
+**Symbolism**
+- The valley view / lake — established, not present this chapter.
+- The cherry pits / wax paper — established, not present this chapter.
+- His shirt / the truck — established; new detail this chapter (kept on her pillow, a fixed talisman).
+- The siren (interruption) — established as an open, uninterpreted image from the hike chapter, notably omitted when Vee retold the story to Cassie. Not mentioned again this chapter either — her retelling to Meg and Kayla also stops at the siren/traffic stop and the drive home, without dwelling on the unfinished moment. Consistent omission now across two retellings.
+- The unopened door of his house — NEW, first appearance this chapter as literal and figurative threshold.
 
-**Symbolism:** The blank invitation text reads as symbol of the relationship's whole structure so far — total trust asked on minimal information, and Vee readily supplying it. The kept shirt remains the central claimed-object symbol — something she does not put back, unlike the earlier-established dress motif (dormant this chapter).
+**Open questions**
+- How far does the Vee/Randi/Pace triangle go, and toward what end? Untouched this chapter.
+- Will Vee learn she was selected/targeted, and how would she react? Still open, stakes rising with the house visit.
+- Will Randi's resolve to hide her true self from Pace hold? Still untested.
+- What happened with Daphne, and does it rhyme with Vee's situation? Still open.
+- Is Randi's self-concealment traceable to a specific cause, or baseline? Still open.
+- Will Brooke, Sloane, or Kinsey, or the unnamed taller woman recur, and who was she? Still open.
+- What does Cassie know or suspect (toward Pace, and now possibly toward Randi)? Still open, untouched this chapter (Cassie absent).
+- Is Pace's attentiveness toward Vee genuine on its own terms, or purely instrumental? Still held open; the abrupt, unexplained house invitation is new material for this question but doesn't resolve it.
+- What was Pace about to say to her when the siren cut them off? Still open — now consistently omitted across two separate retellings (to Cassie, and now to Meg/Kayla), which reads more and more like Vee has settled on a "clean" version of the story that leaves that moment out.
+- Where does Pace actually live / what is his situation locally? NEWLY ACTIVATED — she's about to find out Saturday; this is now the immediate live question heading into the next chapter.
+- Will the truck-scene moment be picked back up, or was it a one-time high point cut off by circumstance? Still open — notable that in two months there's been only one kiss since, which the text itself flags as surprising ("Once... that's insane").
+- What is the Saturday visit actually for? Brand new question this chapter — no stated purpose given in the invitation itself; Kayla speculates ("He's not asking you over to eat... He wants you for the afternoon") but this is friend-speculation, not confirmed.
 
-**Open questions:** Will Vee ever learn how/why she was actually selected and delivered to Pace? What did Randi's untouched-coffee tell mean — still live, unaddressed. Does Randi's desire for women exist independent of Pace's framing — still open. Is Pace's tenderness toward Vee genuine warmth alongside control, or is control the whole of it — unresolved, unrefreshed. What is Randi and Pace's actual history — still unstated. What did Cassie's earlier flat "Goodbye, Vee" and folded-away look toward Randi mean — still unresolved. Will Randi's role in engineering the relationship ever surface for Vee — still live. Who is the unnamed taller woman with Brooke — still open. What was Vee about to say to Pace before the siren ("Pace—")? What was he starting to say back? — still fully open; now doubly notable that even in a *more* complete retelling (to Kayla/Meg) she still skips the specific unfinished words, folding them into a generic "almost kissed twice" beat. What does it mean that Pace was shivering with cold and said nothing — still omitted from every retelling, still unresolved. New: what is Saturday actually for, at Pace's house, with no stated purpose — open, header for the next chapter.
-
-**How I feel — overall:** Buoyant and fond leaving this one — it's the lightest, most purely enjoyable chapter yet, full of real friend-warmth and the delicious ache of anticipation. My affection for Vee deepened seeing her easy and funny among people who aren't carrying any of the book's heavier freight. New warmth toward Kayla and Meg, especially Meg's quiet worldliness. No new movement on the underlying unease about Pace — it's simply not in the room this chapter — but I'm carrying forward, lightly, the small oddity of Vee telling two different partial versions of the same story to two different friends, and I'm eager, not dreading, to find out what's behind that door on Saturday.
-
----
+**How I feel — overall**
+Light, buoyant, a little breathless on Vee's behalf — this was a fun, low-stakes social chapter that let me enjoy her friend group and her own unguarded excitement without any weight pressing down on it. Meg and Kayla are a warm new addition, distinct in flavor from Cassie's quieter intimacy — comic, protective, entirely on Vee's side. My trust in Pace hasn't shifted, but the invitation to his house, arriving out of nowhere with no explanation after two months of near-total opacity about his life, has sharpened my curiosity into something closer to real anticipation — I want to know what's behind that door as much as Vee does, and I noticed, without alarm, that she's now told this story twice and left the same piece out both times.

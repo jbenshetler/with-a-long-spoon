@@ -1,90 +1,90 @@
 # Cold read — Rye
 
-*scene: scenes/rye.md · model: claude-sonnet-5 · read after: leave-no-trace*
+*scene: scenes/rye.md · prose-blob d9d483c5846820275a72a97dd48be01225b689bb · model: claude-sonnet-5 · read after: leave-no-trace · 2026-08-13*
+<!-- freshness: prose-blob = `git hash-object scenes/rye.md` at read time; if it differs from the live file's hash, this review is stale. -->
 
 ## Reader reaction
 
-This is a lovely, quieter beat after that huge hiking chapter — a debrief, not a new event, and it works on me differently: I'm watching Vee *narrate* her own desire back to someone else, watching her decide what to keep and what to leave out (nothing, as far as I can tell — she tells Cassie everything, even the undressing). That's its own kind of intimacy, and it moved me almost as much as the original scene did.
+This one's a breather chapter, and I loved it as that — the whole thing is Vee retelling last chapter to Cassie, and getting to hear her own words for it is almost more affecting than watching it live. "He looked at me like I'd handed him something" is such a good line — she's found her own language for what happened, and it's tender, not defensive.
 
-Cassie is exactly who I remembered — terse, dry, plainspoken, running her "witness statement" bit ("I had your blood type") right up until Vee gets to the part that actually matters, and then she just stops performing and listens. "Cassie, who had been doing the dry thing, the file-revising thing, went still and stayed that way." That shift is the best moment in the chapter for me — it tells me Cassie's flippancy is a register she can drop, and that underneath it she's genuinely rapt and glad for her friend. I like Cassie a lot in this chapter; her final "Vee." — "Soft. Not *Oh, Vee.* Just her name, like setting something down where it wouldn't break" — is tender in a completely different key from the Pace/Vee tenderness, and it lands.
+Cassie is wonderful here. The banter ("I had your blood type," "No van. He took you up a mountain nobody can see from the road... I had questions") is warm, protective, funny — a friend who checks first and melts second. Her going "still and stayed that way" as Vee tells the truck part, and then just saying "Vee" — "Not *Oh, Vee.* Just her name, like setting something down where it wouldn't break" — that's the whole chapter's emotional peak for me. It reads like recognition, not alarm. I don't get suspicion off Cassie here, just love and maybe faint wonder at how far gone her friend is.
 
-Vee herself is glowing here, and I mean that as description not gush — "And I got up there. Me. I have never gotten anywhere on my own legs in my life and I got up a mountain" hits the accomplishment note as hard as the romance note, maybe harder, and I liked that the chapter doesn't let the hike collapse into only being about Pace. But then: "And then we ate. She said it the way other girls said *and then we kissed.*" That line is doing a lot of quiet work — it tells me exactly how far outside her own experience this whole day sits for her, that a sandwich registers on the same emotional frequency as a kiss would for someone more practiced.
+My feeling about Pace holds where the last chapter left it — softened, moved by the retelling almost more than the original telling, since Vee's own narration strips away any residual worry I might project and just presents pure gratitude. No new information about him, but the repetition through her voice deepens the warmth.
 
-Where it lands hardest on me is the retelling of the undressing — "And he looked at me like I'd handed him something. And he didn't touch me." Hearing her tell it to Cassie, proud and a little disbelieving of her own nerve, made me feel the original scene's heat again, but refracted through her own pride in having done it. That's a good trick and it worked on me without my noticing it as a trick until after.
+Erotic charge is low here — this is aftermath, not heat — but there's a real charge in the *retelling itself*, the way she says "he looked at me like I'd handed him something" with her face going "whole... open." That's intimacy of a different kind, and it worked on me.
 
-No suspicion of anyone new here — this chapter didn't touch the Randi/Pace question at all, so my held unease about the "engineered" origin sits exactly where I left it, untouched by anything on the page. Nothing here confirms or denies it; it's just absent, which is its own kind of relief and its own kind of held breath.
+The title "Rye" is small and lovely — just the bread from the sandwich, plain and specific, standing in for the whole day the way a scent can. It doesn't unlock anything new; it just tags the chapter with its most content, unguarded image.
 
-One small thing that nagged slightly: this chapter doesn't mention the siren, the cop, or the interrupted "Pace—" at all — Vee's retelling ends with him driving her home and keeping the shirt, full stop. That's a real gap for me as a reader; either she didn't tell Cassie about it, or the chapter is simply choosing not to touch it yet, and I don't know which. I'll carry that as an open thread rather than assume anything.
-
-The title, "Rye" — it's the bread. Small, physical, unglamorous, and exactly the kind of detail Vee reaches for to try to make the reader (via Cassie) feel how enormous the day was: "I think you have to almost die on a mountain first." I like that the title doesn't reach for the big swoony image (the lake, the shirt, the undressing) and instead picks the plainest, most domestic thing in the whole account — it fits this chapter's mode, which is Vee turning spectacle into something she can hold in her hands and describe.
-
-I want the next chapter to pick the siren thread back up — I'm still hungry to know what Pace was about to say, and now also curious whether Vee will ever tell Cassie about that part, or whether she's already, quietly, editing her own story.
-
-**Cast present (in person):** Vee, Cassie. (Mentioned only: Pace — recounted, not on the page.)
-
-**Heat:** 1 — no scene-heat directly rendered, but the retelling of the truck scene carries real erotic charge secondhand ("he looked at me like I'd handed him something").
-
-**Romance:** 2 — tenderness in the retelling plus a strong beat of platonic tenderness between Vee and Cassie; no new romantic movement between Vee and Pace since they're both absent-from-the-room here.
-
-**Motifs & images:** Leave no trace (repeat, from hiking chapter — "we didn't leave a pit... you carry out what you carried in," now doubled by being spoken aloud as retrospective praise). The flannel shirt (repeat — now an object Vee keeps and wears into this scene, "I kept the shirt... I'm keeping the shirt"). "And then we ate," said "the way other girls said *and then we kissed*" — first instance, a striking simile for how far outside ordinary experience the day sits for Vee. Cassie's dry-humor-as-armor dropping into stillness — first instance of this particular beat, though consistent with her established terse/plainspoken character.
-
-**Symbolism:** The shirt as a kept token — she "didn't ask, he didn't ask for it back" — reads as a small, quiet claim staked on both sides, understated compared to the dress motif from last chapter but clearly related (something wanted, this time not put back).
-
-**Characterization:** Cassie deepens nicely — the reader gets to see the gap between her performed dryness and her real warmth, which enriches without contradicting what we already knew of her. Vee is consistent and glowing, proud of her own nerve in a way that tracks with the agency she found in the previous chapter. Pace is offstage, described only through Vee's grateful retelling — no new direct characterization, but nothing contradicts the tenderness of last chapter either.
-
-**Pace — within chapter:** Brisk and well-judged; this is a short scene and it doesn't overstay, moving cleanly from the banter opening through the emotional center to the quiet landing.
-
-**Pace — chapter to chapter:** A cooling-down beat after a big chapter — makes sense as rhythm, gives the reader (and Vee) a moment to process rather than rushing into new plot. Momentum holds rather than builds, but doesn't sag — the retelling itself has its own small arc.
+No new unease, no shift in the open questions. I'm just glad to sit in the glow with her a beat longer before whatever's next.
 
 ## Carry-forward state
 
-**Principals:**
-- Pace — man, controlled/exacting/attentive; established engineer of desire (Randi and now Vee), premeditated even while tender. Grad student finishing a PhD in math. Involved with Randi (consummated, secret from Vee). Absent this chapter — referenced only in Vee's retelling to Cassie, nothing new added beyond what was already known from the hike.
-- Randi (= Miranda) — woman, ~21, sorority. Involved with Pace (consummated, secret from Vee). Absent this chapter.
-- Vee — woman, tall build, dark red hair, econ major. This chapter: recounts the hike to Cassie in full physical and emotional detail (blister, the boot repair, the summit, the sandwich, the rain, the shirt, the undressing) — but does not mention the siren/interrupted "Pace—" moment from the end of the last chapter, a gap the reader notices. Keeps Pace's flannel shirt as a kept token.
-- Cassie (= Cassandra) — Vee's close friend, terse, plainspoken. This chapter: opens in dry "witness statement" mode, teasing Vee about a "windowless van," then drops the performance entirely once Vee reaches the emotional core of the story, going still and rapt; closes with a soft, simple "Vee" that lands as real tenderness rather than irony.
-- Brooke — sorority chapter president. Absent, no change.
-- Unnamed taller woman (from Smoothie Bird) — absent, identity still unknown/open.
+**Principals**
+- **Pace** (= Peter) — man, controlled, attentive, courtly, patient to an unnerving degree; involved with Randi. Orchestrated Randi's engineered "chance" meeting with Vee ("pointing game"), then took over direct pursuit himself. Not on page this chapter — discussed only in Vee's retelling to Cassie, which confirms and deepens everything from the hike chapter: fixed her blister without shaming her, gave her his only dry shirt and stood shivering in the rain rather than sit with her uninvited, watched her undress without touching, was visibly moved ("looked at me like I'd handed him something"), didn't ask for the shirt back.
+- **Randi** (= Miranda) — woman, black hair, twenty-one-ish, involved with Pace (consummated, ongoing). Not present or mentioned this chapter.
+- **Vee** (= Vivienne) — present and central, retelling the hike to Cassie. Sore, exhilarated, wearing Pace's flannel (three sizes too big) and keeping it without asking permission. Reports a blister "like a second toe," describes the summit and the lake, the sandwich (rye bread, horseradish, cherries — "we didn't leave a pit"), and the truck scene in full, unguarded and proud rather than ashamed. Sits "with her ruined legs and her whole face open."
+- **Cassie** (= Cassandra) — present, in her dorm room, warm and dry in sweats, brown hair ("shag") untangled. Opens sharp and funny (interrogating Vee like a witness — "No windowless van," "I had your blood type"), then goes rapt and still as Vee describes the truck, and finally just says her name softly — "Vee... Not *Oh, Vee.* Just her name, like setting something down where it wouldn't break." Tells her to borrow real boots next time; approves of keeping the shirt.
+- Meg — mentioned only (ill-fitting boots, unchanged).
+- Brooke, unnamed taller woman, Christine, Daphne, Sloane, Kinsey — not present, not mentioned this chapter; all prior notes stand as previously recorded.
 
-**Relationship ledger** (axis order: warmth ↔ cold · belonging ↔ isolation · cherished ↔ used · desire hers ↔ desire worked-on-her):
+**Relationship ledger**
 
-Pace & Vee — Core. Absent from the page together this chapter (Vee recounts, Pace not present) — no new direct interaction, but the retelling reconfirms and deepens the reader's warmth toward the prior chapter's beats.
-- State: attracted, moving toward involved (not yet consummated).
-- warmth ↔ cold: standing very warm — this chapter adds no new gesture but has Vee re-affirm and treasure every one of last chapter's warm gestures (boot repair, the sandwich, the shirt, standing in the rain) via her retelling; nothing colors it differently.
-- belonging ↔ isolation: standing — last chapter's private, two-person isolation (his home turf, no witnesses) unrefreshed; this chapter is Vee reintegrating that isolated day back into her ordinary world (her dorm room, her friend) — a small counter-motion toward belonging on her side.
-- cherished ↔ used: standing very cherished, per Vee's own account — "he looked at me like I'd handed him something" — no new information for/against the reader's held ambiguity about Pace's method vs. feeling.
-- desire hers ↔ desire worked-on-her: standing — last chapter's movement toward "hers" (she initiated the undressing) is retold with clear ownership and pride ("And I took my wet shirt off in front of him. On purpose. Me.") — reconfirmed, not advanced further.
-- This chapter: no new interaction between them; the retelling reconfirms last chapter's warmth and her sense of agency, but notably omits the siren/interrupted-sentence ending — an open gap for the reader (did she leave it out of the telling, or does the story just not go there yet?).
+*Pace ↔ Randi* — Core. State: involved (consummated: yes, ongoing). Not on page this chapter; no change to standing read (surface: playful couple; true: Pace's pursuit of Vee is his own escalating project, origin concealed from Vee).
 
-Pace & Randi — Core. No page-time this chapter, unrefreshed.
-- State: involved (consummated: y). Surface: a game between lovers, playful, hers to choose within. True: Pace is engineering and testing her desire deliberately, premeditated.
-- warmth ↔ cold: unrefreshed, standing — warm surface, cold calculation underneath.
-- belonging ↔ isolation: unrefreshed.
-- cherished ↔ used: unrefreshed, standing — both live at once.
-- desire hers ↔ desire worked-on-her: unrefreshed, standing — both true, unresolved.
-- This chapter: no change (absent).
+*Pace ↔ Vee* — Core. State: attracted → involved (secret from Vee re: origin; consummated: no — furthest point remains the truck scene from the prior chapter, unrepeated/unresolved here). Surface (Vee's read, now explicitly self-narrated): a man who cares for her completely, wants her, shows it through stillness and self-sacrifice, never demand — she is proud of this, not conflicted, when telling Cassie. True/reader-held-open: still unresolved whether this is pure decency or refined technique; this chapter adds nothing new to that question, only lets it settle further into "genuine" via the warmth of her retelling.
+- Warmth ↔ cold: retold with full warmth; no new material, but the retelling itself reads as consolidating the day into something cherished rather than merely experienced.
+- Isolation ↔ belonging: unchanged — the day drew her out; here she shares it fully with Cassie rather than guarding it, which if anything strengthens belonging (to Cassie, and by extension to the version of herself she's becoming).
+- Cherished ↔ used: reads as cherished, unchanged; no new evidence either way.
+- Desire worked-on-her ↔ desire hers: unchanged high point — she owns the truck moment fully in retelling ("I called him back in... on purpose. Me."), no shame, no undercutting mother's-voice audible this chapter.
+- This chapter: no new development between them directly — a retelling chapter. Nothing moved in the standing state; the axes are simply reaffirmed through Vee's own account.
 
-Randi & Vee — Core. Absent this chapter; no new movement. Standing: friends, warming fast, asymmetrical in knowledge (Randi's public "dear friend" claim, the pointed warmth in drawing out Vee's Pace story).
-- This chapter: no change (absent).
+*Randi ↔ Vee* — Core. Not on page this chapter. Standing state fully intact from last chapter: friends (close), fast and warm; true: asymmetry persists (Randi knows the origin of the Pace meeting, Vee doesn't; Randi has been shaping how Vee narrates her own surrender to Pace). No change this chapter.
 
-Vee & Cassie — friends, close. This chapter: strong deepening — Cassie's performed dryness gives way to real, undefended warmth once Vee's story turns emotionally serious; Cassie's closing "Vee" reads as genuine tenderness, not irony. Vee tells Cassie everything about the hike (the physical feat, the tenderness, the undressing) but appears to omit the siren/interrupted-ending beat — an asymmetry the reader notices even if it isn't clear whether it's deliberate.
+*Vee ↔ Cassie* — Core. On page and central this chapter. State: friends (close), warm and easy — banter first, then real tenderness. New texture: Cassie's reaction to hearing the full truck story is not alarm or judgment but stillness and quiet recognition ("Vee... Just her name, like setting something down where it wouldn't break") — this reads as pure care, no new unease. The prior chapter's noted crack (Cassie's folded-away look toward Randi) is not addressed or reopened here; standing as previously recorded, untouched.
+- Warmth ↔ cold: peak warmth — protective banter giving way to tenderness.
+- Isolation ↔ belonging: strong belonging — Vee shares everything, holds nothing back, and is met with acceptance, not judgment.
+- Cherished ↔ used: purely cherished; Cassie wants nothing from Vee but her wellbeing.
+- Desire worked-on-her ↔ desire hers: n/a to this pairing directly, but Cassie's response validates Vee's own account of her desire as hers, without correction or concern.
+- This chapter: deepened — first full extended scene of the two of them alone together since early chapters; Cassie's warmth and quiet at the climax of the story is new and strong.
 
-**Everything else:** No other pairs on the page this chapter.
+**Everything else** — no other pairs on page this chapter.
 
-**What I know that they don't:** The Pace/Randi "collision" plan has been executed on Vee exactly as designed; Vee experiences it all as chance and mutual liking, unaware she was selected and delivered. Nothing this chapter adds to or resolves that — Vee's joyful retelling to Cassie is unclouded by any of it. Randi's private resolve never to let Pace see her unperformed self again stands, unmentioned. Cassie's earlier flickering look toward Randi (folded away) stands, unresolved — notably, Cassie shows no sign in this chapter of any reservation about Pace; her reaction to Vee's story is pure warmth, which sits oddly (not suspiciously, just as an open thread) next to that earlier unexplained look. New: Vee did not mention the siren/police-car interruption or the unfinished "Pace—" to Cassie at all in her retelling — the reader holds this gap; unclear whether it's simple omission-for-brevity or something Vee is quietly not ready to say aloud yet.
+**What I know that they don't**
+- Vee has been selected and approached under false pretenses by Pace (engineered "collision" via Randi) without any awareness the meeting has an origin at all — untouched this chapter; she's now retelling the day with full trust and no suspicion, which makes the concealed origin sit stranger by contrast, not settled.
+- Randi's active steering of Vee's narrative about Pace (prior chapter) — untested here since Randi is absent.
+- Randi's private resolve never to let Pace see her fully unarmored self again — untested here; still a notable contrast with Vee's total unguardedness, now doubled by Vee also being fully open with Cassie.
+- Pace's real tenderness, demonstrated at high stakes last chapter and now reaffirmed through Vee's retelling — still genuinely unresolved for me whether decency or technique, but nothing here pushes it either way; it simply sits, warmly, unexamined.
+- Cassie's unreadable look toward Randi, folded away before Vee could read it — still standing, unaddressed.
+- Vee's thin underlying knowledge of Pace (no idea if he's wealthy, hasn't seen the house, doesn't know much beyond the road name; "he had no house here to go to," showers at a gym) — untouched and unmentioned this chapter, but still an open thread.
 
-**Motifs:**
-- Chosen/being chosen — central emotional currency; prior instances: "May I choose?" (the dinner), Randi's public "dear friend" claim, Vee's self-directed choosing in the truck. This chapter adds no new instance directly but the whole retelling is Vee claiming ownership over having chosen.
-- The internalized mother-voice / shame-voice — established last chapter ("floozy," "your mother would never"); absent this chapter, not mentioned in the retelling — Vee tells the undressing story to Cassie with pride, not shame, suggesting (not confirmed) that she won that internal argument decisively enough to carry the pride forward.
-- Costume/performance under social pressure — established motif; this chapter's version is verbal rather than visual — Vee performs the story for Cassie with total unguardedness, the opposite of her guarded performance around Brooke.
-- Engineering/system as courtship method — Pace's repeatable pattern (froyo order, dinner order, boot-repair kit, cherry-pit etiquette); referenced again in retelling ("of course he had a kit") — deepened in charm, not resolved in ambiguity.
-- Leave no trace — literal hiking ethic (cherry pits carried out); this chapter has Vee repeat and elevate the phrase almost as a motto for the whole day ("You carry out what you carried in") — now doubly resonant given her selective retelling (carrying some things out of the day, leaving the siren behind).
-- The flannel shirt — Pace's dry shirt given to her mid-storm; this chapter shows her still wearing it the next day and explicitly keeping it ("I kept the shirt... I'm keeping the shirt. / Keep the shirt.") — a small claimed object, the chapter's clearest through-line.
-- Water/rain — established as a site of vulnerability/revelation (private and shared); referenced again in retelling, no new instance.
-- Sizing-up / social smallness — dormant, not present this chapter.
+**Motifs**
+- **Mother's internalized voice / self-policing** — established (cardigan; froyo verdicts; boots/manners shame; braided into arousal in the truck scene). Quiet this chapter — Vee's retelling carries none of that voice; she is unguarded and unashamed throughout, a notable absence/contrast worth watching.
+- **Body as public property / gaze vs. chosen exposure** — established; last chapter inverted it into chosen exposure. This chapter: Cassie's gaze on the flannel/Vee's disheveled state at the start ("She let Cassie look") is a small, safe echo of being looked at — friendly, not appraising.
+- **Water as sanctuary/threat** — established as literal rain last chapter, transmuted into flannel-warmth. Referenced here only in retelling, no new instance.
+- **Giving something of his own to cover/protect her** — established (the shirt, standing in the rain). This chapter confirms it stuck: "I kept the shirt. I didn't ask. He didn't ask for it back" — and Cassie's blessing ("Keep the shirt") turns it into something sanctioned by the friendship, not just between Vee and Pace.
+- **"Leave no trace"** — established last chapter (cherry pits, ethic). Recurs here in retelling: "We didn't leave a crumb. We didn't leave a pit. You carry out what you carried in" — repeated almost verbatim, reinforcing it as a phrase Vee has taken to heart, not just witnessed.
+- **Pointing/choosing** — not present this chapter; no new instance.
+- **Food/appetite as intimacy** — established (froyo, apple/closet, dinner, sandwich/cherries). This chapter: retold with relish ("Cass, that sandwich. I think you have to almost die on a mountain first"), reinforcing hunger met plainly as a marker of intimacy with Pace.
+- **Setting something down gently / naming without judgment** — first sighting: Cassie saying "Vee" softly, "not *Oh, Vee*... like setting something down where it wouldn't break" — a new small motif of restraint-as-care, worth watching if it recurs.
 
-**Symbolism:** The dress (russet silk wanted, then put back) as symbol of desire rationed against what she believes she's allowed — dormant this chapter but implicitly answered by the shirt: unlike the dress, this is something she does *not* put back — "he didn't ask for it back," and she keeps it. The shaking hand (his composure cracking, her tending him) — not mentioned in this retelling, an omission alongside the siren. The kept shirt as the chapter's central symbol: a small, unglamorous, claimed thing, standing for the whole day and for her decision to hold onto what she wants rather than return it to the shelf.
+**Symbolism**
+- The valley view / lake — established, not present this chapter except in brief retelling ("this whole silver lake way down").
+- The cherry pits / wax paper — established, reinforced verbally this chapter as the ethic Vee now quotes back nearly word for word.
+- His shirt / the truck (warmth given at his own expense) — established; this chapter confirms its afterlife — she's still wearing it, keeping it, and Cassie ratifies the keeping.
+- The siren (interruption) — established last chapter as an open, uninterpreted image; not referenced this chapter at all — the retelling of the truck scene stops at "he put the heat on and drove me home," not mentioning the siren or the unfinished sentences. Notable: Vee's account to Cassie skips that part entirely.
 
-**Open questions:** Will Vee ever learn how/why she was actually selected and delivered to Pace? What did Randi's untouched-coffee tell mean, from an earlier chapter — still live, unaddressed. Does Randi's desire for women exist independent of Pace's framing, or only inside the shape he built — still open. Is Pace's tenderness toward Vee genuine warmth alongside control, or is control the whole of it — unresolved by design, unrefreshed this chapter. What is Randi and Pace's actual history — still unstated. What did Cassie's earlier flat "Goodbye, Vee" and folded-away look toward Randi mean — still unresolved, and now slightly more curious given how uncomplicatedly warm Cassie is toward Vee's Pace-story here. Will Randi's role in engineering the relationship ever surface for Vee — still live. Who is the unnamed taller woman with Brooke — still open. What was Vee about to say to Pace before the siren ("Pace—")? What was he starting to say back? — still fully open, and now sharpened: Vee didn't mention it to Cassie at all, so the reader doesn't even know if she's processed it yet. What does it mean that Pace was shivering with cold and said nothing — also omitted from her retelling, still unresolved.
+**Open questions**
+- How far does the Vee/Randi/Pace triangle go, and toward what end? Untouched this chapter.
+- Will Vee learn she was selected/targeted, and how would she react? Still open, higher stakes given how far things have gone and how fully she's now trusting/retelling it as pure good fortune.
+- Will Randi's resolve to hide her true self from Pace hold? Still untested.
+- What happened with Daphne, and does it rhyme with Vee's situation? Still open.
+- Is Randi's self-concealment traceable to a specific cause, or baseline? Still open.
+- Will Brooke, Sloane, or Kinsey, or the unnamed taller woman recur, and who was she? Still open.
+- What does Cassie know or suspect (toward Pace, and now possibly toward Randi)? Still open — this chapter shows Cassie fully warm and unsuspicious toward Pace specifically, no sign of the earlier crack reopening.
+- Is Pace's attentiveness toward Vee genuine on its own terms, or purely instrumental? Still held open; unmoved this chapter.
+- What was Pace about to say to her when the siren cut them off? Still open — notably, Vee's retelling to Cassie *omits the siren entirely*, ending the story at "he put the heat on and drove me home." New wrinkle: does she not remember it as significant, or is she leaving it out on purpose?
+- Where does Pace actually live / what is his situation locally? Still open, untouched this chapter.
+- Will the truck-scene moment be picked back up, or was it a one-time high point cut off by circumstance? Still open.
 
-**How I feel — overall:** Soft and glad leaving this chapter — it's a small, warm coda that let me feel Vee's joy at one remove, through someone who loves her and is genuinely happy for her. My feeling toward Cassie went up a notch — I trust her more now, having seen the real tenderness under her dryness. No new movement on Pace, Randi, or the larger unease; my open questions from last chapter (the siren, the shaking hand, what he was about to say) sit completely untouched, and the fact that Vee's own retelling skips them entirely is now itself something I'm quietly holding onto, without treating it as ominous — just as unfinished.
+**How I feel — overall**
+Warm and unhurried leaving this chapter — it's a soft landing after the intensity of the hike, and it let me sit with Cassie and Vee's friendship, which is genuinely lovely on its own terms: funny, protective, safe. Cassie continues to read as pure warmth to me, no suspicion earned by the text. My trust in Pace holds exactly where it was — high, still quietly asterisked by the unaddressed origin-deception. The one thing that snagged my attention was small but real: Vee's retelling skips the siren and the interrupted words entirely, ending the story on comfort and warmth. That's not unease, just a detail I'm holding onto — whether it means nothing or means she's already smoothing the day into a cleaner shape than it was.

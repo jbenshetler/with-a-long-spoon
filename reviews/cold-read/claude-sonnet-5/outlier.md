@@ -1,99 +1,102 @@
 # Cold read — The Outlier
 
-*scene: scenes/outlier.md · model: claude-sonnet-5 · read after: all-the-time*
+*scene: scenes/outlier.md · prose-blob 74a0359b97766a9cd214d8537446fbbbcc1f6935 · model: claude-sonnet-5 · read after: all-the-time · 2026-08-13*
+<!-- freshness: prose-blob = `git hash-object scenes/outlier.md` at read time; if it differs from the live file's hash, this review is stale. -->
 
 ## Reader reaction
 
-This one caught me completely off guard, and I mean that as praise. After two chapters that were all Pace and Randi and the slow-building charge between Vee and Randi, suddenly here's Cassie — sharp, dry, dealt-with-in-a-sentence Cassie — and a school project, and I settled in for what looked like a texture chapter, maybe a breather. And then the point on the graph turns out to be Randi's own father's company, and the ground tilted.
+This one knocked the wind out of me in a completely different way than the last chapter — no bedroom, no brunch, just a cold lecture hall and then a glass-walled library room, and it landed harder than either of those did.
 
-What got me first was how *ordinary* the setup was — the cold lecture hall, the professor's flat tire-pressure voice, "exploratory data analysis." I actually relaxed into the mundanity, which I think is exactly what let the gut-punch land when it came. That's craft I felt rather than noticed at the time.
+**Cassie**, finally on page instead of just reported, is terrific and exactly as advertised: "nothing in her hands at all, because Cassie didn't carry things into rooms she meant to walk out of." Blunt, unsentimental, correct — and devastatingly, unknowingly correct in the worst possible way when her flat certainty about PPP fraud turns out to be aimed straight at her friend's father's company. I like her a lot. She's not cruel, she's just building an argument with data, the way she was told to. That she never even sees the screen, never learns what she actually did to Randi in that room, is its own quiet gut-punch.
 
-Cassie is a genuine new pleasure here — I like her instantly. "She didn't carry things into rooms she meant to walk out of" is a perfect single-sentence character sketch, and "You do the smart part" lands with real affection under the flatness. Her dad-laid-off-in-2020 line, delivered "like a fact she'd looked up," is quietly devastating precisely because she refuses to make it a plea. I trust Cassie completely — she reads as solid, unglamorous, decent.
+**Randi** — oh, this recolors everything. Last chapter I was watching her be moved almost to tears by hearing Vee describe being desired, and wondering what that meant. This chapter shows me a woman whose stillness is a *learned* defense mechanism, deployed in real time: "Not a motion — the withdrawal of motion." Watching her open that record, disbelieve it, reread it hoping for a line that "took it back," and then say "Cheating bastards" in a voice with "nothing practiced in it" — that's the first time I've seen her unguarded and not performing for anyone, including Vee. It reframes her polish everywhere else as something hard-won, something she's built over the wreckage of moments like this one.
 
-Randi is where this chapter did real work on me. I've been watching her as a woman with appetite, someone whose warmth toward Vee might not be simple — and this chapter gave me a wholly different register of vulnerability: not seductive, not charged, but *humiliated*, caught out in front of her own friends by data she can't argue with. "Not a motion — the withdrawal of motion" is the line that got me; I felt that stillness in my own chest. And "Cheating bastards" — two words, no object, said to the screen — broke something open in her I hadn't seen yet: that Randi has her own shame to manage, her own inheritance she didn't choose and can't disown. That she then closes the record with one keystroke and buries the point back among a hundred thousand others, letting Cassie's political certainty stand unchallenged rather than say *that's my family* — that's a person choosing silence over truth in real time, and it recolors her a little. Not badly. Just — she has a private fault line too, same as Vee does with Randi.
+**Vee** is at her absolute best here — the watching-not-the-screen, the instinct to give Randi "somewhere to put her hands," the choice never to say the name or tell her what she saw. That's real love, distinct from and quieter than the erotic warmth of the brunch chapter. "The kindest thing a friend could do was not make her carry it in front of anyone" — I believe that completely, and it makes me trust Vee more, not less.
 
-And Vee's response is the thing I want to sit with. "She said nothing." Not "and did not tell Randi, then or after, what she'd seen" — she protects Randi's dignity by pretending she saw nothing, gives her the busywork to hold onto, keeps her in the group. That's real tenderness, real friendship-craft, and it moved me. But it's also — is it not? — a mirror of exactly the pattern I've been uneasy about with the nude photo: something private, seen, held, not spoken of. Except here it's protective rather than performative, and Vee is the one holding the secret rather than handing it out. I don't think the text is nudging me toward that parallel deliberately, but I noticed it myself and it feels earned rather than manufactured — the chapter is legitimately about *what gets kept behind glass* between people who love each other.
+**Swoon/pull**: none, and rightly — this chapter isn't reaching for heat, it's reaching for ache, and it gets it. The line "invisible if you didn't [know to look for it]" as the closing image of the point on the graph is quietly devastating — Randi's whole private catastrophe reduced to a dot nobody else will ever notice.
 
-Swoon: none, and that's fine — this isn't that kind of chapter. What it gave me instead was ache, real ache, for Randi and for the unfairness of "no hand in it, none of it earned." Vee's closing thought is generous and exactly right for her character as I've come to know her.
+**Erotic charge**: zero, deliberately. This is the interior-life chapter I was hoping this book had room for.
 
-Friction: none I can point to. The professor's monologue ran a beat long for me but it's clearly load-bearing (outliers, "you could set those aside if you could account for them" — that line is doing quiet double duty by the end, since Randi *can't* set her outlier aside and neither, really, can she account for it).
+**Friction**: none — every beat is earned, nothing over-explained. The dialogue is spare and does the work.
 
-Title: "The Outlier" is doing exactly what a good title should — it means nothing going in, and by the end it's the whole chapter, both the statistical term and Randi herself, the point sitting off the line, "the biggest one... easy to see if you knew to look for it, invisible if you didn't." That last line of the chapter is the title fully cashed in. Very satisfying, not showy.
+**Title**: "The Outlier" is doing real, un-showy double duty — the statistics term and Randi herself, the point "off on its own in the white," the family fact she can't fold into the clean story she wants to tell about her father. It illuminates rather than gives anything away.
 
-I want to know if Vee ever tells Randi she saw the name — or if this joins the pile of unspoken things between them. I also find myself newly curious about Cassie now that she's a real presence, and a little tender toward Randi in a new key: not "what does she want from Vee" but "what is she carrying that she can't put down."
-
-**Cast present (in person):** Vee, Randi, Cassie — all three physically present and interacting throughout (lecture hall, then library group-project room).
-
-**Heat:** 0 — no erotic content this chapter at all; a plot/character chapter.
-
-**Romance:** 0 — no romantic beat between Vee and Randi or Vee and Pace; the emotional charge here is platonic/protective, not romantic.
-
-**Motifs & images:** New this chapter — "the outlier" as literal statistical concept and as Randi herself, set up by the professor early ("there was usually the main body of the thing and then there were the points that sat off by themselves") and paid off at the close. New: the closed laptop / hidden record as an image of a kept secret — echoes (loosely, by function not imagery) the earlier photo-as-private-thing-now-shared motif from prior chapters, though here it inverts: Vee is the one who *doesn't* share what she's seen.
-
-**Symbolism:** The outlier point itself reads as clearly symbolic — literally Randi's family data point, sitting alone "up and to the right," and figuratively Randi's whole situation: inherited, unchosen, impossible to explain away or fold into anyone else's clean story. "You could set those aside if you could account for them" — Randi can't set hers aside and can't fully account for it either.
-
-**Characterization:** Cassie deepens enormously — from a mentioned-only name to a fully realized person: dry, certain, unsentimental, carrying her own family wound without asking anyone to carry it for her. Randi deepens in a new direction — not the charged/needling Randi of the brunch chapter, but someone with her own inherited shame and a reflex to bury it rather than name it. Vee's protectiveness and quick loyalty land as consistent with what I already know of her — attentive to the people she loves, quick to shield them — though I note (without the text nudging me to) that "seeing something private and saying nothing" is becoming a pattern across her relationships.
-
-**Pace — within chapter:** The opening classroom stretch runs a little long but earns it by setting up "outlier" as vocabulary before it becomes personal; the library scene is exactly the right length, no rushing, the stillness given room to actually land.
-
-**Pace — chapter to chapter:** A real gear-change from the last two chapters (brunch, the photo, the kiss) — different register entirely, different relationship in focus. Feels like a widening of the book's world rather than a stall; introduces Cassie as more than a name and gives Randi a dimension unconnected to Vee/Pace, which I welcome.
+**What I want next**: does Randi ever find out Vee saw and understood, and chose silence? Does this feed the "not finished" thread with Pace, or Randi's private resolve never to be unarmored again? I'm hungry to see how this new knowledge about her father sits under everything else I already know about her.
 
 ## Carry-forward state
 
-**Principals:**
-- Vee (= Vivienne) — protagonist. This chapter: in a stats class group project with Randi and Cassie, saw (unbeknownst to Randi) that the worst outlier data point in their PPP-loan analysis was her own family's company (Miranda Holdings, LLC); said nothing, gave Randi busywork to hold onto, told no one what she'd seen.
-- Pace (= Peter) — absent, not mentioned this chapter. Standing: devoted, attentive, unhurried; one guarded no-go zone (his parents, "I don't go back").
-- Randi (= Miranda) — present. New this chapter: her family's business, Miranda Holdings LLC, turned out to be the single worst outlier in their class project's PPP-loan data — took large loans, cut jobs anyway. She recognized it in real time, went visibly still and pale, said "Cheating bastards" to the screen — low, ragged, aimed at no one — then closed the record and let Cassie's political certainty stand unchallenged, never naming it as her own family. Recovered within the hour, brightened back up; Vee never told her she'd seen it.
-- Cassie (= Cassandra) — present and newly fleshed out: pre-nursing or similar (does "the grunt," per her own words), certain and unsentimental, father laid off in 2020, believes PPP loans widely failed workers; drove the class project's thesis. Doesn't carry things into rooms she means to leave (character note). Earlier mention of finishing a humanities elective with someone named "Wardy" still stands, unexplained.
+**Principals**
+- **Pace** (= Peter) — man; not on page this chapter. Standing: controlled, patient, courtly, deeply attentive lover and cook (per Vee's account last chapter); "I don't go back," the scar, unaddressed.
+- **Vee** (= Vivienne) — woman, living with Pace most school nights (standing). This chapter: in a stats class group with Randi and Cassie; watches Randi's private shock over the PPP data without letting on, protects her silently by redirecting to logistics and never naming what she saw, then or after.
+- **Randi** (= Miranda) — This chapter: in a stats-class group project (PPP/data), defends her father's use of PPP loans against Cassie's thesis that the money wasn't used for workers — then discovers, live, that her own father's company (Miranda Holdings, LLC, tag "MIRH") is the single worst outlier in the whole dataset, exactly proving Cassie's point. Reacts with a controlled but visibly total shock — stillness, color draining, "Cheating bastards" said raggedly — then recomposes within the hour, brighter than before by the time they pack up, never telling either friend what happened or that Vee saw.
+- **Cassie** (= Cassandra) — On page for the first time directly (previously mentioned only). Blunt, minimal, carries nothing into rooms she means to leave; her father was laid off in 2020; she argues PPP loans didn't go to workers, with flat unsentimental certainty. Never sees Randi's screen; never learns the company she's condemning is Randi's father's. Not cruel — just correct and unaware.
+- **Sheri** — not on page; standing (Pace's cycling friend).
+- **Brooke, Meg** — not on page; standing unchanged.
+- **New name — Miranda Holdings, LLC / "MIRH"** — Randi's father's company (or one of several his money runs through), the single largest outlier in the PPP dataset, took multiple loans, didn't keep the money with workers per the data. New, load-bearing fact about Randi's family.
+- **"Wardy"** — from last chapter, associated only with Cassie's completed humanities elective; not mentioned this chapter, no new information.
 
-**Relationship ledger:**
+**Relationship ledger**
 
-*Vee & Pace (core):* No appearance this chapter — carrying forward verbatim.
-- **State:** involved (flag: consummated — y, ongoing). Surface: warm, playful, deeply intimate; a first guarded edge appeared around his parents ("I don't go back"), otherwise fully open in action if not always in words.
-- Desire worked-on-her ↔ desire hers — both live in her account from the prior chapter: her own wanting is vivid and growing, but she also frames some of it as produced in her, beyond her control ("I've got sex brain… I don't know how one person is both"). Genuinely mixed, not resolved. Quiet this chapter — no appearance.
-- Cold ↔ warmth — warmth total in her account of him; the single cold note (his parents) not revisited. Quiet this chapter.
-- Isolation ↔ belonging — belonging, deeply: sleeping whole nights at his house, feeling entirely inside his attention. Quiet this chapter.
-- Used ↔ cherished — cherished, powerfully and consistently, per her account: unhurried attention, "there's not a part of me he doesn't want." Quiet this chapter.
-- **This chapter:** no change — Pace entirely offstage.
+*Pace ↔ Vee* — Core. State: involved (consummated: YES, standing), reconciled — deepening. Not on page this chapter; no change.
+  - Warmth/isolation/cherished/desire axes: all standing as previously logged, no new information this chapter.
 
-*Vee & Randi (core):*
-- **State:** friends (close) · attracted, **secret** (at least on Vee's side, still unnamed by her) · possibly one-sided, possibly mutual — genuinely unresolved. Not consummated in any form. Standing escalation from prior chapter: an extended goodbye kiss, initiated by Vee, held a beat past ordinary by Randi.
-- Desire worked-on-her ↔ desire hers — quiet on this axis this chapter; no romantic/erotic beat present. The chapter's charge is a different kind entirely — protective, not desirous.
-- Cold ↔ warmth — a new cold beat: Randi's private shame, glimpsed by Vee and met with silence rather than comfort spoken aloud; but the silence itself is warmly meant — Vee gives her cover, not distance. A held warmth-through-discretion, not a rupture.
-- Isolation ↔ belonging — belonging reaffirmed in a new key: Vee's protectiveness ("the kindest thing a friend could do was not make her carry it in front of anyone") is loyalty in action, not just affection in words. But there's a new asymmetry of knowledge — Vee now holds something about Randi that Randi doesn't know she holds, a private isolation-within-belonging.
-- Used ↔ cherished — Vee's care here reads as pure, uncomplicated cherishing of Randi, no using in either direction this chapter — a contrast to the used-adjacent needling of the previous chapter.
-- **This chapter:** New axis of the friendship opened — not sexual/romantic charge but a secret kept *for* Randi's sake by Vee, mirroring (by function, not romance) the pattern of things unspoken between them. Vee sees Randi humiliated and vulnerable in an entirely different register than before, and respects it by silence.
+*Randi ↔ Vee* — Core. State: friends (close), with the unresolved charged undercurrent from last chapter (Randi's visibly moved reaction to Vee's account of being desired, the lingering kiss, "Just us") still standing and unaddressed by either woman. This chapter adds a different register entirely: Vee as protector, quietly shielding Randi's private devastation from Cassie and from Randi's own awareness that she was seen. Surface: an ordinary group project, then Randi's recovery reads to Cassie (and would read to anyone not watching as closely as Vee) as just moving on. True: Vee witnessed something Randi has never let anyone see and chose, unprompted, to bury it rather than name it.
+  - Warmth ↔ cold: warm — Vee's protectiveness here is one of the warmest things she's done, wordless and unclaimed ("she didn't tell Randi, then or after, what she'd seen").
+  - Isolation ↔ belonging: belonging deepens on Vee's side — she's now carrying something for Randi that no one else in the room even perceived happened.
+  - Cherished ↔ used: cherished — nothing extractive in this chapter; Vee gives, asks nothing back.
+  - Desire worked-on-her ↔ desire hers: quiet this chapter — the erotic-charge axis from last chapter isn't active on this page; this is a different kind of intimacy (protective, not desirous), though it sits on top of, and arguably deepens, the same underlying bond.
+  - This chapter: Vee witnesses Randi's raw, unguarded shock over her father's company and PPP fraud, and chooses, unasked, to protect her from Cassie's and her own later awareness of having been seen — a new layer of tenderness and secrecy between them, distinct from and possibly related to the charged current from the brunch chapter.
 
-*Vee & Cassie:* Deepened substantially this chapter — first real characterization of Cassie. No romantic/erotic layer; a solid, easy, unglamorous friendship. Cassie assigns Vee "the smart part" (the modeling/math) without envy or friction; total ease between them. No change to core-relationship status (not a core pair) but worth noting as warm and stable.
+*Pace ↔ Randi* — Core. State: involved (consummated: yes, ongoing), complicated by unglossed "not finished." Not on page or mentioned this chapter. No change.
 
-*Randi & Cassie:* New this chapter — political/ideological disagreement handled with maturity by both (Cassie thinks PPP broadly failed workers; Randi thinks her father's use of it, and use like it, was the point of the money) — but the data sides with Cassie, and Randi, on discovering her own family is the worst offender in their sample, chooses not to correct or complicate Cassie's certainty. Cassie has no idea what she's just been agreed with over.
+*Vee ↔ Cassie* — Core. State: friends (close), warm, trusted (standing). This chapter: on page together for the first time (with Randi) in a stats-class trio; Cassie reads as blunt, ungiving of unnecessary detail, generous in her own way ("You do the smart part," to Vee), completely unaware of the personal wound her PPP argument lands on Randi. No romantic/erotic charge; a straightforward, trusted working friendship. Vee's protectiveness of Randi is exercised partly *by* managing what Cassie doesn't need to know.
 
-*Vee alone:* This chapter shows a different flavor of Vee's habit of silence — not shaping her own desire to please (as with the photo), but *protecting someone else* by not naming what she's seen. Loyalty-driven rather than desire-driven, but the throughline of "sees something, says nothing" now spans both her romantic/erotic life and her friendships.
+**Everything else**
+- Cassie ↔ Randi — new: intellectually opposed on PPP (Cassie thinks the loans were misused broadly; Randi initially defended her father's use of them specifically), resolved in Cassie's favor by the data, though Cassie never learns the personal stakes. No animosity shown — Cassie states her view "not rudely," Randi concedes the point to Cassie without revealing why it costs her so much.
 
-**What I know that they don't:** Standing — genuine uncertainty about whether Randi's warmth toward Vee is friendship, attraction, or something Randi hasn't sorted (unchanged this chapter, no new evidence either way). Standing — I know the nude photo Vee sent Pace has been shown to Randi; Vee doesn't register it as a breach; Pace doesn't know. New this chapter — I know Randi's family company is the class project's worst outlier and that Randi recognized it, was shaken, and hid it from Cassie; Cassie doesn't know she's arguing in front of the daughter of the exact case she's using as her thesis's proof; Randi doesn't know Vee saw her see it.
+**What I know that they don't**
+- (All prior entries stand, verbatim, carried forward in full:)
+- Vee has been selected/approached under possibly false pretenses by Pace (engineered "collision" via Randi) — untouched, standing; Vee has no idea.
+- Randi is actively, skillfully extracting details of and steering Vee's path, while also genuinely, privately fond of her — standing.
+- Randi's private resolve never to let Pace see her fully unarmored self again — standing; this chapter shows Randi *can* go fully unarmored, briefly, under a different kind of blow — but only Vee sees it, not Pace, and Randi doesn't know even Vee saw it fully.
+- Pace's real tenderness with Vee — standing.
+- Pace's history with Daphne — untouched, standing.
+- The scar — standing open question, untouched this chapter.
+- Cassie's unreadable look toward Randi — standing, unaddressed.
+- Randi's kiss with Vee, the lingering goodbye, "Just us" — standing from last chapter, untouched this chapter (no romantic beat here).
+- Vee's credit-card debt / money anxiety — standing, untouched this chapter.
+- Pace told Sheri his situation with Randi is "not finished" — untouched, standing; deepened in resonance now that we know Randi's family carries its own hidden fault line (financial fraud, a father who let her down) — an open question whether this connects to why she guards herself.
+- Randi's story of an ex/husband who spanked her ritually — untouched, standing open question.
+- The pastry glaze on Vee's lips — untouched, standing unresolved.
+- The whispered "Peter," unheard — untouched, standing.
+- The drawer he clears for her — untouched, standing.
+- The photo (nude) shown to Randi, widening circulation beyond Pace — standing, untouched this chapter.
+- Randi's visibly moved, unsteady reaction to Vee's account of being desired "with the body attached" — standing, untouched/unresolved this chapter.
+- **New:** Randi's father — implicated in PPP loan fraud via Miranda Holdings, LLC ("MIRH"), the largest outlier in the class dataset; Randi discovered this live, in front of Vee, and reacted with total, uncharacteristic loss of composure before recomposing within the hour. Vee alone knows what Randi saw and felt; she never told Randi she noticed, and never will unless asked. This is now a load-bearing fact about Randi's family and possibly about why she guards herself so completely — genuinely open which direction (shame at her father, protectiveness of him, grief, some mix) this cuts.
+- **New:** Vee's private read on Randi's family situation — "Randi had been dealt a rotten thing by a man she'd had the luck to be the daughter of — no hand in it, none of it earned" — Vee's own private, generous, unspoken verdict, held for herself, never voiced to Randi.
 
-**Motifs:**
-- Made-by-his-hands/quiet devotion (Pace) — dress, table, chair, cooking, tending her when hurt, unhurried attention. Dormant this chapter, no appearance.
-- Taste/food as intimacy — strongest recurring motif in the book (egg yolk at brunch, Pace's cooking "like my mouth had been asleep since I was born"). Dormant this chapter — no food imagery present.
-- The photograph as trust-token — the nude sent to Pace as an act of trust, then shown to Randi (cropped, then full) as performance — unresolved question of whether Pace ever learns. Dormant this chapter, standing as previously described.
-- The extended/lingering kiss — hinted early (bathroom scene), made concrete at the brunch chapter (Vee-initiated, Randi held it a beat too long). Dormant this chapter.
-- The outlier — new, strong motif this chapter: the statistical concept (a point off the main body, "you could set those aside if you could account for them") becomes literal — Randi's family's company, the worst data point in their sample, discovered by Randi in front of her friends and hidden by her in real time. Most charged instance: "Not a motion — the withdrawal of motion" as Randi goes still on seeing her own name.
-- Secrets-kept-for-someone / seen-and-unspoken — an emerging pattern across the book: Vee saw the photo shared without full weight registered by her; now Vee sees Randi's family exposure and chooses protective silence. Not yet a "motif" with imagery, but a recurring shape worth tracking.
+**Motifs**
+- **Randi's stillness** — previously an open question ("what Randi's stillness is about"); this chapter gives the clearest instance yet and a possible answer: stillness as a defense reflex under blows she can't control, "the withdrawal of motion, the sudden absence of all the small unconscious movements a person makes just by sitting in a chair." Rhymes with the standing "Randi's stillness" open question from prior chapters — fold together as one motif: her composure as armor built over specific, real wounds, of which this is the first the reader has been shown directly.
+- **Naming as intimacy/control** — standing (the "Peter" whisper, Vee's unlanded "I love him," Pace's "I don't go back"). New instance this chapter: the name "Miranda" surfacing in cold government print, over data that indicts her father, is itself a naming-as-exposure moment — Randi's own name turned into evidence against her family, unbidden and unwanted, the inverse of the intimate-naming motif elsewhere.
+- **Protective silence** — new but resonant instance of a standing shape (Vee's habit of curating/editing what she shows others, previously the "two-costume" motif): this chapter shows Vee curating not her own image but Randi's, silently deciding not to name what she saw, "then or after." Fold as a new, other-directed instance of the same family.
+- **His clothes/making as intimacy object, the dance/lead-and-frame motif, the spank/body-answers motif, the outlier/involuntary-heat motif** — all standing, untouched this chapter (though "outlier" now carries a second, literal meaning from the chapter's title/content — see Symbolism).
+- **The pastry/taste-transfer/appetite-as-desire family** (pastry glaze, eggs Benedict) — standing, untouched this chapter.
+- **The two-drawers motif, "No note, there was never a note," "Fine" as the old bar** — all standing, untouched.
+- **"I don't go back"** — standing, untouched.
+- **The rim-touch ritual** — standing from last chapter, untouched this chapter (no brunch scene).
 
-**Symbolism:** The photo reads as symbolizing two different transactions — trust given to Pace, performance given to Randi — Vee doesn't seem to notice the difference. New this chapter: the outlier data point symbolizes Randi's inherited, unchosen family shame — sitting alone, "easy to see if you knew to look for it, invisible if you didn't," closed back into anonymity by Randi's own hand rather than owned aloud.
+**Symbolism**
+- **New — the outlier point on the graph**: literal statistical outlier standing in for Randi herself and for her family's hidden shame — "up and to the right, alone in the white" — closing image: "invisible if you didn't [know to look for it]," a strong symbol for how much of Randi is hidden in plain sight, visible only to someone (Vee) paying the right kind of attention.
+- The shoes, the mirror scene, the dress's slit, the practice room, the outlier lecture (now literalized), the scroll/certificate, the scar, the pastry glaze, the two drawers, the burn, the photograph, "I don't go back," the mimosa rim-touch, the dance frame, Simpson's paradox/"two years," shared shoe size, Randi's stillness (now deepened, see Motifs), Pace's math monologue as self-description, the ride/climbs — all standing, untouched or as noted above.
 
-**Open questions:**
-- What happened in "Randi's story" (an earlier, still-unshown reference) — still never shown.
-- Whether Vee ever tells Randi or Cassie anything true about the charge between her and Randi — still open, more urgent given the extended kiss.
-- The unexplained surgical scar on Pace's inner thigh — still unaddressed.
-- What did "sticky fingers?" actually mean (earlier chapter) — unresolved.
-- Is Vee's attraction to Randi something she'll act on, suppress, or never fully name — still open.
-- Will Vee ever say "I love you" to Pace while he's awake, and will he ever say it back — still open.
-- Why won't Pace "go back" to his parents — still nothing beyond the refusal itself.
-- Who is Sheri, really, to Pace — still only a name, not seen on the page.
-- What does Randi's earlier "It doesn't" (brunch chapter) mean — still unresolved, though this chapter's revelation of her family shame might color a reader's guess (not confirmed on the page).
-- Does Pace ever learn the nude photo was shown to Randi — still open.
-- New: does Vee ever tell Randi what she saw about Miranda Holdings — or does this join the pile of things unspoken between them?
-- New: does Randi's family situation (wealth, business, a father whose company cut jobs despite loans) ever surface again, with Cassie or with Vee, openly?
+**Open questions**
+- All prior open questions stand (the triangle's endpoint; whether Vee learns she was targeted; Randi's resolve holding; the Daphne parallel; Randi's self-concealment's cause; Cassie's suspicion of Pace/Randi; Randi's motive for extraction; the never-discussed kiss and toenail-touch; the scar's meaning and "some night"; Vee's age relative to Pace echoing Daphne; "you always get bored"; the credit-card debt's consequences; Vee's self-possession under Randi's gaze; "Randi. That's not finished"; will "Peter" surface for him to hear; will the Randi/Vee kiss be named; is Randi's control wisdom, management, or both; who is the man in Randi's spanking story; does Randi know/intend her effect on Vee; will Vee's self-authored desire persist under Randi's gaze; the pastry glaze's meaning; the overnight-bag arrangement; will Vee say "I love him"; "I don't go back"'s backstory; the photograph's future; Vee's jealous flicker toward Sheri/a rival).
+- What moved Randi so visibly hearing about being wanted "with the body attached" — still fully open.
+- Will the extra kiss beat / "Just us" ever be named — still fully open.
+- Does Randi's seen-photo create future risk — still fully open.
+- **New:** will Randi ever learn Vee witnessed her father's exposure and said nothing — and if so, how will she take it (gratitude? shame? anger at being seen)?
+- **New:** does Randi's family history (a father whose company likely misused PPP funds, whom she instinctively defended before the data proved otherwise) connect to why she guards her own unarmored self so fiercely — including from Pace?
+- **New:** will Cassie ever learn what her PPP argument actually cost Randi in that room?
 
-**How I feel — overall:** Moved and a little rearranged. This chapter widened the book unexpectedly — gave me a real, likable new presence in Cassie, and gave Randi a private wound that has nothing to do with Vee or Pace or desire at all, which makes her feel more like a whole person and less like a function of the charge she carries with Vee. I feel tender toward Randi in a new way — protective, the way Vee herself was — and I trust Vee's instinct to shield her completely; that was lovely, unambiguous loyalty. No unease about anyone's motives here, just the accumulating sense that this book's people keep seeing things about each other they don't say out loud, and I'm starting to wonder what happens the day one of those silences breaks.
+**How I feel — overall**
+Moved and quietly wrung out. This chapter didn't ask me to swoon and I didn't — instead it asked me to watch someone I've come to like a great deal (Randi) get blindsided by an ugly fact about her own family in front of her friends, and to watch another someone I love (Vee) respond with a kind of love that has nothing to do with desire and everything to do with tact and mercy. Cassie, new to the page, is instantly likable in her plainness and her total innocence of the damage her correctness does. My affection for all three women is intact and, if anything, deepened — this felt like the book trusting me with real interior weight rather than just heat, exactly the kind of chapter I read for.
