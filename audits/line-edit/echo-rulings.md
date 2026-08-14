@@ -1756,3 +1756,36 @@ later — raised at this review and ruled a keep on the same call.
 - **"the grave confidence of arithmetic"**, **"looking for the true shape of
   it"**, **"closing the folder"**, **"gone on a girl"** — verified unique in
   `scenes/` on this pass; logged as The Usual's claim if siblings appear later.
+
+### From the Nothing Underneath line edit (2026-08-14)
+
+- **The intrusive-thing-fails-to-grip figure** (`nothing-underneath:21` "Her
+  mother's word came up out of old habit and **found nothing to hold to**" /
+  `:57` "The blonde arrived, tan and laughing in his kitchen, and **could get no
+  grip**") — **PROTECTED.** Thirty-six lines apart, and the pair is the
+  chapter's method: the two old fears (shame, jealousy) arrive in Vee's head on
+  the same night and each fails to take purchase. Author ruling 2026-08-14:
+  keep both, do not vary either on repeated-construction grounds. The known
+  half-beat of subject ambiguity at `:57` (*get a grip* reads reflexively for a
+  clause, pulling toward Vee before resolving to the blonde) was weighed and
+  **accepted** — the tail "because no man put on music like that for a woman"
+  resolves it, and kimi-k3 praised the beat's "quiet efficiency." Do not
+  re-raise.
+- **"bare under a coat"** (`my-friend-randi:85` sets it up verbatim →
+  `nothing-underneath:57` pays it off) — **PROTECTED at `:57`, exactly as
+  written.** The chapter's own pre-spend at `:43` was **varied** on this pass
+  ("the heels and the coat and nothing else on an empty road"); `:41`'s "bare
+  under the wool" **stands** (author ruling 2026-08-14 — "the lining moving
+  against her skin" needs the bare skin named in the same breath).
+- **"[X]-able patience"** for Pace (`nothing-underneath:31` unbearable, mirror /
+  `:81` damnable, doorstep) — **PROTECTED.** Fifty lines apart and structural:
+  she borrows his patience on herself at the mirror, he spends it on her at the
+  door. Do not collapse. (`:81`'s adjacent "patient," was cut as a local
+  redundancy, not an echo fix.)
+- **"the charge of it"** (`nothing-underneath:35`, `:43`) — **pair resolved by
+  attrition.** `:35`'s "and the knowing was the whole charge of it" was cut as
+  an overwork tail; `:43` now holds it uncontested. No further action.
+- **"by degrees"** — three in this chapter (`:11`, `:99`, `:101`) and present
+  across eleven Vol-1/Vol-2 chapters. Still an open **FIX-AT candidate for the
+  end-of-pass harvest**; reads as the book's default transition adverbial. Not
+  varied in bulk here.

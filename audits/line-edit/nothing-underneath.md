@@ -95,3 +95,44 @@ Distinctive phrases from this chapter that may recur elsewhere; flagged for the 
 - **"dying by inches"** (`:41`), **"shamed her to the roots"** (`:53`), **"his big heart slamming"** (`:99`) — currently unique; rare-word register, worth confirming at harvest.
 - **"you sure know how to make an entrance"** (`:103`) — Pace's only joke in the chapter and currently unique; if a sibling exists in the Vol-2 arrival scenes, this one has the claim.
 - **`[adjective]-able patience`** (`:31` unbearable, `:81` damnable) — see finding 11; check whether the frame recurs for Pace elsewhere before choosing which to vary.
+
+## Author rulings (2026-08-14)
+
+Reviewed 30 items (report's 34 minus 3 dropped as settled, minus 1 merged).
+**19 applied, 11 left standing.** Durable ledger: `meta/meta-triage-nothing-underneath.md`.
+
+- **#1** `:7` "Knowing now what she had to do," — **applied** (cut).
+- **#2** `:13` "still running on habit," — **applied** (cut).
+- **#3** `:13` causal tail — **dropped**, protected positive.
+- **#4** `:13` four garment names — **applied** (cut "good" from the everyday bra; *good* reserved for the coat).
+- **#5** `:17` two laughs — **left standing**; two-stage loosening, "didn't try to stop" needs its antecedent. Residual "at how tidily the two arrived at the same spot tonight" **cut**.
+- **#6** `:17` "they sent a thrill" — **dropped**, settled 2026-07-30.
+- **#7** `:21` second "standing up," — **applied** (cut).
+- **#8** `:25`–`:31` as-he density — **applied**; thinned two attitude-only borrowings at `:29`.
+- **#9** `:25` comfort clause — **left standing**; only the label "comforted" **cut**.
+- **#10** `:27`–`:29` unhurriedness ×4 — **applied**; one cut at `:29` (via #8), "without hurry" **cut** at `:27`.
+- **#11** `:31`/`:81` patience frame — **left standing** as designed; `:81`'s adjacent "patient," **cut**.
+- **#12** `:33` "It was not hers to finish." — **dropped**, protected positive.
+- **#13** `:33`/`:45` "unfinished" ×4 — **applied**; two **cut**, "unfinished on purpose" kept as the argument-bearing one.
+- **#14** `:35` two theme tails — **applied**; both **cut**.
+- **#15** `:41` "and into the car" — **applied** (cut).
+- **#16** `:43` overwork — **applied narrowly**: "the sheer enormous fact of what she was doing" **cut**; the reader-praised "because the words had failed her and this would not" **protected** against the report's fuller cut.
+- **#17** `:43`/`:57` "bare under a coat" — **applied**; `:43` **varied** ("the heels and the coat and nothing else"), `:57` protected as the `my-friend-randi:85` payoff. `:41` "bare under the wool" **left standing** (author).
+- **#18** `:37`/`:89` "wound as she was" — **applied**; `:37` **cut**, plus the adjacent intensifier "worse now," at `:51`.
+- **#19** `:57` three endings — **applied**; "She made herself stand in it." and "into the cold" **cut**; the card image and the December conditional kept.
+- **#20** `:57` "could get no grip" — **left standing**; rhymes with `:21`, logged PROTECTED in the echo ledger.
+- **#21** `:61` "behind him" ×2 — **applied**; second **cut**, plus the horn's "still".
+- **#22** `:61`/`:65` courtesy — **applied**; "the careful courtesy," and "She was not going to ask him again." **cut**; the reader-praised turn and the protected "holding a line at cost" kept.
+- **#23** `:73` "and she could not have pulled them apart" — **applied** (cut). All four readers who quoted the sentence stopped at "the two were one look."
+- **#24** `:75` breath ×4 — **applied**; "going out of him" **cut**.
+- **#25** `:77`/`:87`/`:93` hands — **left standing** as three distinct actions; `:87`'s duplicated "His arms came around her waist" **cut** instead.
+- **#26** `:79` hedge — **left standing** (cruelty guard, author ruling); only "maybe," and its commas **cut**.
+- **#27** `:85` plot recap — **applied narrowly**; the itemized recap **cut**, "he had gone to the ground for her" kept.
+- **#28** `:97` "finished" ×2 — **applied**; closing clause **cut**.
+- **#29** `:11`/`:99`/`:101` "by degrees" — **applied**; `:101`'s **cut**. Remaining two deferred to the end-of-pass harvest.
+- **#30** `:101` "It was the sweetest thing, sensual and" — **applied**; graded half **cut**, "It asked for nothing" kept.
+- **#32** `:109` "After a while," — **applied** (cut).
+- **#33** `:119` "his hands knowing it cold." — **applied** (cut); *cold* collided with the chapter's ~20 literal colds inside its warmest paragraph.
+- **#34** `:121` "precisely" + FIX-AT "the plain fact of" — **applied**; both **cut**. Also clears the `:129` "the plain relief of" pairing.
+
+Style linter after the pass: 0 error, 2 warn (both the author-ruled `unhurried`s), 20 info.

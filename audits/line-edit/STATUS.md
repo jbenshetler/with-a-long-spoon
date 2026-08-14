@@ -55,4 +55,4 @@ the echo shortlist with the author before per-chapter editing starts).
 | 47 | Old Acquaintances | old-acquaintances | reviewed |
 | 48 | The Usual | the-usual | reviewed |
 | 49 | My Friend Randi | my-friend-randi | edited |
-| 50 | Nothing Underneath | nothing-underneath | edited |
+| 50 | Nothing Underneath | nothing-underneath | reviewed |

@@ -203,3 +203,86 @@ rationale**, so later passes don't re-litigate.
 - Kayla's laundry monologue ("not one stitch of the underwear Kayla was
   mourning") and Cassie's closing "Hmm."
 - The stain on the lining — "it only told her she meant it."
+
+---
+
+# Triage — {{Nothing Underneath}} line edit (2026-08-14)
+
+True line edit (`audits/line-edit/nothing-underneath.md`, 30 items reviewed).
+**19 applied, 11 left standing.** Three report findings were dropped before
+review as already settled (see below). Line-edit verdicts re-open on a text
+edit to the passage.
+
+## Dropped before review — already settled, not re-litigated
+
+- **`:17` "they sent a thrill through her"** — report wanted the clause cut.
+  Author ruling 2026-07-30 *chose* this wording (`a small thrill` → `they sent
+  a thrill`; body-before-mind, and *small* undersells the beat). Settled.
+- **`:33` "It was not hers to finish."** — report wanted it cut. **Protected
+  positive**, and the single most-praised line in the chapter (all seven cold
+  readers). Dead on arrival.
+- **`:13` "because it was the first time all day the plan had had to overrule
+  her own hands, and won"** — report wanted the causal tail cut. **Protected
+  positive**; sonnet-5 praised the drawer beat as "genuinely funny and
+  genuinely poignant at once."
+
+## Left standing — do not re-litigate
+
+- **The two laughs in `:17`** (report: same beat rendered twice). **Author
+  ruling 2026-08-14: both stand.** Not a repetition but a two-stage loosening —
+  *laughed once, quietly* (contained) → *a real giggle she didn't try to stop*
+  (released), closing on "the nerves loosening into something almost like fun."
+  Decisive: "**she didn't try to stop**" is comparative language and requires an
+  earlier laugh she *did* control; cut the first and the second loses its
+  antecedent. The report counted laughs instead of reading them. (Only the
+  joke-explaining clause "at how tidily the two arrived at the same spot
+  tonight" was cut, as a residual.)
+- **`:79` "faster than he'd have taken it in his own warm bed"** (report:
+  hedged three-way comparison, cut the middle clause). **Author ruling
+  2026-08-14: the concession is load-bearing for character and stays.** He is
+  dressed, she is naked on a freezing porch — without the clause conceding he
+  is faster than he'd otherwise be, "unhurried even here in the cold … slow
+  enough to make her feel every stop" renders him *cruel*, which is not the
+  man the book is building. Only "maybe," and its fencing commas were cut (the
+  narration hedging its own hedge was the actual wobble). Do not cut the
+  concession.
+- **`:41` "bare under the wool"** (proposed as redundant with the Kayla joke in
+  the same sentence). **Author ruling 2026-08-14: stands** — "the lining moving
+  against her skin" needs the bare skin named in the same breath.
+- **The `[X]-able patience` frame** (`:31` unbearable, mirror / `:81` damnable,
+  doorstep). Left standing as **designed**, fifty lines apart: she borrows his
+  patience on herself at the mirror, he spends it on her at the door. Logged
+  PROTECTED in `audits/line-edit/echo-rulings.md`. (`:81`'s adjacent "patient,"
+  cut as local redundancy, not as an echo fix.)
+- **The three hands stagings** (`:77` lift at the door / `:87` hold while
+  kneeling / `:93` lift off the floor). Report called it one gesture three
+  times and wanted `:87` reduced; **left standing** — three different actions,
+  and `:87` is load-bearing (her knees have gone; something has to hold her
+  up). Only the *grammar* was fixed: `:87`'s "His arms came around her waist"
+  duplicated `:75` verbatim and was cut, which also removed the third
+  consecutive "his hands" subject.
+- **`:25` "where Pace took his comfort like it was needed and freely given
+  both."** Report called it a restatement and wanted it cut; **left standing** —
+  the first clause is his behavior, this one is the *terms* (needed and freely
+  given), a real proposition the book returns to. Cutting it would also be
+  exactly the compression the 2026-07-30 "catalog-ish" ruling rejected. Only
+  the duplicated label "comforted" was cut.
+- **`:57` "could get no grip."** Report flagged the idiom as almost-right and
+  briefly mis-parsing (*get a grip* reads reflexively for a clause, pulling
+  toward Vee before resolving to the blonde). **Left standing** — it rhymes
+  with `:21` "found nothing to hold to", the two old fears (shame, jealousy)
+  each failing to take purchase on the same night; kimi-k3 praised the beat's
+  "quiet efficiency." Pair logged PROTECTED in the echo ledger. The `:57`
+  "arrived" ambiguity (a real woman in the house, for an instant) is
+  **deliberate** — it is Vee's spike of fear.
+- **"by degrees"** — two remain (`:11`, `:99`) after `:101`'s was cut. Left
+  standing pending the **end-of-pass harvest**; the phrase runs across eleven
+  Vol-1/Vol-2 chapters and wants a book-wide sweep, not a per-chapter fix.
+- **"doubling" / "doubled"** (`:83`, `:97`) — left standing; the doubling
+  recurring is the physical truth of the scene.
+- **"still" ×2 in `:61`** — left standing; eleven words apart and doing
+  different jobs (temporal-persistent vs. continuous). Only the second "behind
+  him" and the horn's "still" were cut.
+- **Both `unhurried` warns** (`:79`, `:101`) — the pair author-ruled 2026-07-30
+  (Pace's word, both load-bearing). `:79`'s suppression re-armed because this
+  pass edited its sentence; that is correct linter behavior, not a regression.
