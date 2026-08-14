@@ -121,3 +121,22 @@ don't re-litigate.
 - The coat proposal by pointing-without-saying (stopping at "that good long coat"
   and waiting for Vee to find it).
 - The title's recolor-on-finish.
+
+---
+
+# Line edit (2026-08-13)
+
+Craft line-edit pass (`/wals-line-edit my-friend-randi`), cold-read enrichment run over the 7-model panel. What was **left standing** and the one **design change**, so later passes don't re-open them.
+
+## Applied (text changed)
+Beat-marker tic (25 → "let the quiet sit a **moment**"); "delighted" cut (111); "gray/middle" → "drab, colorless day" (11); "felt herself get smaller" → "**shrank**" (15); double eye-scan resolved via the Brooke rewrite (13/15); "mortified" doubling cut (93); heated-house thinned 4×→3× (cut the :73 clause); doorway retelling compressed at 23 (the beat is re-covered in Randi's coaching, 37–41); "holding still" → "**dug in**" (45).
+
+## Left standing — do not re-litigate
+- **Held-hug triad (19)** — "past where a hug stops, the beat longer and the beat after that." Flagged as overwork; **kept.** Reader-praised (claude-opus-4-8: "want leaking off Randi"). The accretion *is* the wanting.
+- **"behind" concealment figure ×3** (39 *behind his face* / 45 *behind a wall* / 123 *behind the door*) — flagged as echo; **kept as designed.** 39/45 diagnose Pace; 123 turns the same figure on Randi herself — the concealment she names in Pace is the one she practices. Deliberate mirror.
+
+## Design change — Brooke's warmth relocated (author ruling 2026-08-13)
+The front-hall filing ("the house note her and file her, the stats friend") **moved from Brooke's greeting (:15) to Randi's extraction (:17).** Brooke's greeting now reads pure-warm; the institutional cold lands as Randi carries Vee off past the eyes. **This intentionally revises the settled two-layer design** (Brooke's personal warm-pricing at :15). Rationale: **humanize Brooke and locate her animosity on Randi, not Vee** — Brooke opposes Randi; Vee isn't an axis Brooke competes on. New Brooke interior recorded in Bible §BROOKE. The "before Brooke could ask again" handoff and the two protected `warm`s are preserved (re-`--ack`ed after the edit re-armed their fingerprints).
+
+## Continuity — Gstaad in Vee's POV (author ruling 2026-08-13)
+Line 21 now reads "**dresses from Gstaad**" in Vee's close-third. Vee **knows the destination in advance** (Randi told her before break she was skiing in Gstaad for Christmas — best-friend baseline, below the threshold of what must be rendered). NOT a POV leak. `meta-note-fairytale.md` corrected to match. Do not re-flag "Gstaad" in Vee's POV here.

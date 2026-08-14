@@ -3028,6 +3028,13 @@ text = "He looked at the page a moment longer, not because he needed it but to w
 note = "deliberate reread beat: not reading the menu, curating it for her"
 
 [[ok]]
+fp   = "b79fda63532a"
+rule = "file-verb"
+file = "scenes/my-friend-randi.md"
+text = "And she got her out of the front hall and away from the eyes, and Vee felt them file her as she went, the stats friend, and let herself be moved, wanting nothing but to be somewhere with a door that shut."
+note = "Deliberate house-label filing image (echoes broken-in 'you're the stats friend'); relocated 15->17 in 2026-08-13 line edit. Author-sanctioned."
+
+[[ok]]
 fp   = "d7ca7af7b560"
 rule = "file-verb"
 file = "scenes/my-friend-randi.md"
@@ -3096,6 +3103,20 @@ rule = "there-was-were"
 file = "scenes/my-friend-randi.md"
 text = "That was what a certain kind of girl did, turned up on a doorstep bare under a coat like something ordered in, and there was a word for that girl and it was already in her mouth."
 note = "Author-approved: 'file' = the sorority-folder image (canon callback to broken-in); dialogue and realization filter verbs; retained 'whole of it'; info-level existentials."
+
+[[ok]]
+fp   = "1c176c1bfc71"
+rule = "warm"
+file = "scenes/my-friend-randi.md"
+text = "The warmth arrived ahead of the chapter president."
+note = "Protected warm (triage 2026-07-30); fingerprint re-armed by 2026-08-13 Brooke-warming edit."
+
+[[ok]]
+fp   = "a787c52671ca"
+rule = "warm"
+file = "scenes/my-friend-randi.md"
+text = "Brooke saw the crying and the plane-creased clothes and gave back nothing but more warmth."
+note = "Protected warm (triage 2026-07-30, opus 'weaponized warmth'); fingerprint re-armed by 2026-08-13 edit."
 
 [[ok]]
 fp   = "aedbb8295f96"
