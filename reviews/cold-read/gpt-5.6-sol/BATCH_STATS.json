@@ -5,24 +5,24 @@
   "generated": 1,
   "skipped": 0,
   "total_cost": null,
-  "total_input": 29345,
-  "total_output": 10287,
-  "total_tokens": 39632,
+  "total_input": 33530,
+  "total_output": 11676,
+  "total_tokens": 45206,
   "per_chapter": [
     {
-      "slug": "seconds",
-      "title": "Seconds",
+      "slug": "nothing-underneath",
+      "title": "Nothing Underneath",
       "status": "generated",
       "cost": null,
-      "input": 29345,
-      "output": 10287,
-      "totalTokens": 39632,
-      "promptTokens": 29345,
-      "reasoningTokens": 67,
+      "input": 33530,
+      "output": 11676,
+      "totalTokens": 45206,
+      "promptTokens": 33530,
+      "reasoningTokens": 153,
       "cacheRead": 9984,
-      "duration_s": 203.7,
-      "wall_s": 203.9,
-      "path": "reviews/cold-read/gpt-5.6-sol/seconds.md"
+      "duration_s": 213.2,
+      "wall_s": 213.4,
+      "path": "reviews/cold-read/gpt-5.6-sol/nothing-underneath.md"
     }
   ]
 }

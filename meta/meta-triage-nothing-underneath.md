@@ -304,3 +304,62 @@ edit to the passage.
   chapter. Praise cited as confirming a left-standing ruling (the two laughs at
   `:17`, "could get no grip" at `:57`, stopping at "one look" at `:73`) is valid
   only because that text is unchanged.
+
+## Post-edit cold-read verification (2026-08-14, full panel)
+
+The panel that vetoed the `sensual` cut had read the **pre**-line-edit text, so
+it could veto but not ratify (see above). To close that gap the **full six-model
+panel was re-run against the edited chapter** — `claude-opus-4-8`,
+`claude-sonnet-5`, `gpt-5.6-terra`, `gpt-5.6-sol`, `gpt-5.5`, `kimi-k3`, each
+chained off its own `my-friend-randi` carry-forward — and each model's new
+reaction was diffed against its archived one, hunting for **praise that
+disappeared**. Result: **no rating moved on any reader** (Heat/Romance: gpt-5.5
+3/2 → 3/2; kimi 3/3 → 3/3; terra 3/3 → 3/3; sol 3/3 → 3/3; opus 3/3; sonnet
+ungraded, "the most purely swooning chapter of the book"). The most heavily cut
+passage in the chapter — the drawer / heels / giggle getting-ready sequence — is
+the single largest source of *new* praise across the panel.
+
+Left standing, with rationale:
+
+- **`:105` "Then the name landed."** — **left standing (author ruling
+  2026-08-14).** Opus flagged the beat as "explained a half-step more than it
+  needed, given how well the muffled 'Vee' did the work by itself," and called
+  it **"Minor."** Against it, gpt-5.6-sol independently produced a *new*
+  positive reading off the same restructure — "the reversed December drive makes
+  her return a bodily retracing of her departure" — which is precisely the
+  payoff the split was designed to un-bury. One minor thumb against one gained
+  payoff is not a mandate; reverting would surrender sol's reading to fix a
+  complaint sol did not have. Considered and rejected: cutting the three words
+  "Then the name landed."
+- **The driving-masturbation passage (`:45`)** — **left standing.** Terra
+  ("the only moment that pulled me out; I was more tense for the road than
+  turned on") and sol (demoted from charge-peak to "the one place her arousal
+  became genuinely reckless") converged on demoting it. The proposed cause — that
+  cutting `swollen and unfinished` → `swollen` severed the tie back to the
+  mirror's denial — **was checked and does not hold**: `unfinished` survives at
+  `:33` and `:35`, and `:45` still carries the link explicitly in "the same slow
+  circles she'd denied herself barely fifteen minutes before," which is more
+  concrete than the cut adjective. Both objections are to the *recklessness*,
+  not the prose — a content reaction to a danger the chapter stages on purpose
+  and punishes one paragraph later with the cruiser. Note also both codex reads
+  ran ~25% shorter than their predecessors while the other four ran longer, so
+  mention-attrition explains part of it.
+- **The mirror body-inspection (`:21`–`:23`)** — **left standing.** gpt-5.5 newly
+  flagged that it "gets close to cataloguing," and answered itself in the same
+  sentence: "but because it is tied to fourteen years of hiding, it mostly
+  holds." No other reader of six raised it.
+- **`the knowing was the whole charge of it` (cut at `:35`)** — **stays cut.**
+  The one unambiguous loss in the comparison: kimi-k3 had quoted it verbatim as
+  the phrase carrying the coat's concealment-revelation motif. In the new read
+  that motif still lands, now carried by "It closed over her like a door."
+  Motif intact on a different line; not worth restoring a phrase the pass
+  removed as overwork.
+
+Cuts affirmatively vindicated by the new reads: **`She was not going to ask him
+again.`** — sonnet reconstructed the sense unprompted ("asked for nothing verbal
+in return"), i.e. the cut removed a statement the reader now infers, which was
+the telegraphing charge; and **`going out of him`** — sonnet quoted the shortened
+"all those weeks of it in one breath" approvingly. Both codex readers also
+**dropped the pre-existing "the title gives away the premise" complaint**, sol
+retracting it explicitly ("the title sharpened the anticipation rather than
+spoiling it").
