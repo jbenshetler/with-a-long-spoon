@@ -235,6 +235,7 @@ class Entry:
         self.words = 0          # prose word count of the scene file (0 if none)
         self.git_date = None    # ISO date of last commit touching the prose file
         self.git_instant = None # Unix ts of that commit (for review-staleness cmp)
+        self.git_commit = None  # hash of that commit (same-commit review exemption)
         self.file_slug = None   # `slug:` segment — the on-disk scene/file slug
         self.ratings = None     # {heat, romance, n, per} from cold reads, or None
 
@@ -453,7 +454,7 @@ def _norm_slug(s: str) -> str:
     return re.sub(r"^(?:the|a|an)-", "", s)
 
 
-def scene_ratings(slug: str, reviews_root, scene_stamp=None):
+def scene_ratings(slug: str, reviews_root, scene_stamp=None, scene_commit=None):
     """Average Heat/Romance for a scene slug across model reviews, or None.
 
     A cold read reflects the *version of the prose it read*, so a review that
@@ -466,6 +467,15 @@ def scene_ratings(slug: str, reviews_root, scene_stamp=None):
     timezone-independent and compare as plain integers.) Reviews with no git
     timestamp, or when the chapter has none, are kept — we can't prove them
     stale.
+
+    **Ancestry beats the clock.** Committer timestamps tie: landing a chapter's
+    re-read right after the prose fix that prompted it puts both commits in the
+    same second, and `rstamp <= scene_stamp` then discards exactly the reviews
+    that are most current (this silently blanked the pills on four chapters).
+    So when `scene_commit` is given we ask git the real question — is the
+    review's commit the scene's commit, or a descendant of it? — and keep it if
+    so. The timestamp test survives only as the fallback for when ancestry is
+    undecidable (no git, unrelated histories, an uncommitted file).
     """
     if not slug or reviews_root is None or not reviews_root.is_dir():
         return None
@@ -477,11 +487,17 @@ def scene_ratings(slug: str, reviews_root, scene_stamp=None):
         for f in sorted(model_dir.glob("*.md")):
             if _norm_slug(f.stem) != key:
                 continue
-            if scene_stamp:
-                rstamp = git_last_instant(reviews_root, f"{model_dir.name}/{f.name}")
-                if rstamp and rstamp <= scene_stamp:
-                    dropped += 1
-                    continue
+            rel = f"{model_dir.name}/{f.name}"
+            fresh = None
+            if scene_commit:
+                fresh = git_is_ancestor(reviews_root, scene_commit,
+                                        git_last_commit(reviews_root, rel))
+            if fresh is None and scene_stamp:      # fall back to the clock
+                rstamp = git_last_instant(reviews_root, rel)
+                fresh = not (rstamp and rstamp <= scene_stamp)
+            if fresh is False:
+                dropped += 1
+                continue
             t = f.read_text(encoding="utf-8")
             hm, rm = HEAT_RE.search(t), ROMANCE_RE.search(t)
             hv = min(3.0, float(hm.group(1))) if hm else None
@@ -642,6 +658,40 @@ def git_last_instant(repo: Path, rel: str):
     return int(d) if d.isdigit() else None
 
 
+def git_is_ancestor(repo: Path, older: str, newer: str):
+    """True if `older` is `newer` or an ancestor of it; None if undecidable.
+
+    History order, not clock order — see `scene_ratings`. Returns None (rather
+    than False) when git is unavailable or errors, so callers can fall back
+    instead of treating "don't know" as "stale".
+    """
+    if not older or not newer:
+        return None
+    try:
+        out = subprocess.run(
+            ["git", "-C", str(repo), "merge-base", "--is-ancestor", older, newer],
+            capture_output=True, text=True, timeout=5, check=False)
+    except (OSError, subprocess.SubprocessError):
+        return None
+    return out.returncode == 0 if out.returncode in (0, 1) else None
+
+
+def git_last_commit(repo: Path, rel: str):
+    """Full hash of the last commit touching `rel`, or None.
+
+    Used by the review-staleness filter to order a review against the prose it
+    read by *history* rather than by clock — see `scene_ratings`.
+    """
+    try:
+        out = subprocess.run(
+            ["git", "-C", str(repo), "log", "-1", "--format=%H", "--", rel],
+            capture_output=True, text=True, timeout=5, check=False)
+    except (OSError, subprocess.SubprocessError):
+        return None
+    d = out.stdout.strip()
+    return d or None
+
+
 # Row order for the summary table: the three seasonal volumes, then the
 # out-of-volume "Other" bucket, then the grand total.
 STATS_SEASONS = ["Fall", "Spring", "Summer", "Other"]
@@ -791,11 +841,13 @@ def build_html(entries, flags_raw, source_name, scene_dir=None, reviews_dir=None
                 e.words = prose_word_count(text)
                 e.git_date = git_last_date(scene_dir, fn)
                 e.git_instant = git_last_instant(scene_dir, fn)
+                e.git_commit = git_last_commit(scene_dir, fn)
                 if e.status["cls"] == "done":
                     e.scene_md = text
         if e.etype in ("SCENE", "VIGNETTE"):
             e.ratings = scene_ratings(e.file_slug or slugify(e.title),
-                                      reviews_dir, scene_stamp=e.git_instant)
+                                      reviews_dir, scene_stamp=e.git_instant,
+                                      scene_commit=getattr(e, "git_commit", None))
     # hidden raw-markdown sources the reader renders on demand; html.escape keeps
     # arbitrary prose inert, and .textContent decodes it back verbatim in JS.
     scene_srcs = "\n".join(
