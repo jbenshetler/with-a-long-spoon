@@ -98,7 +98,7 @@ She had never really finished coming off his mouth, and now it surged back up, d
 
 Their breathing came down slowly, the two of them still tangled on the couch, and she lay under him and felt his big heart slamming through his chest into hers, out of time at first and then, by degrees, closer to together. Then he rolled off her and slid out of her in one motion, and went down onto his knees on the floor beside the couch, and laid his head on her breasts.
 
-He kissed them, slow and unhurried, and drew a nipple into his mouth and mouthed it soft, not to start anything back up, only to keep her gently lit, the feeling held just short of settling out of her. It asked for nothing, easing her down out of the frenzy, and she lay there and let him, a hand in his hair, gone soft and glad all through.
+He kissed them, slow and unhurried, and drew a nipple into his mouth and mouthed it soft, not to start anything back up, only to keep her gently lit, the feeling held just short of settling out of her. It was sensual and asked for nothing, easing her down out of the frenzy, and she lay there and let him, a hand in his hair, gone soft and glad all through.
 
 "You sure know how to make an entrance," he said, muffled and half-strange against her breast, her nipple still at his lips. "Vee."
 

@@ -286,3 +286,21 @@ edit to the passage.
 - **Both `unhurried` warns** (`:79`, `:101`) — the pair author-ruled 2026-07-30
   (Pace's word, both load-bearing). `:79`'s suppression re-armed because this
   pass edited its sentence; that is correct linter behavior, not a regression.
+
+## Amended on reader evidence (2026-08-14, same session)
+
+- **`:101` "sensual"** — **restored.** The line edit cut "It was the sweetest
+  thing, sensual and asking for nothing" to "It asked for nothing" as narration
+  grading its own scene. A freshly regenerated cold-read panel (commit
+  `558d8ea`) landed mid-session, after the ruling, and **gpt-5.6-sol quoted
+  "sensual and asking for nothing" verbatim** as the phrase carrying the
+  aftercare. Author ruling 2026-08-14: restore *sensual*, keep the cut of "It
+  was the sweetest thing," which no reader quoted. Now reads "It was sensual
+  and asked for nothing, easing her down out of the frenzy."
+- **Standing of that panel's evidence.** Verified `scenes/nothing-underneath.md`
+  was byte-identical between session start (`707e651`) and the reviews commit,
+  so the six readers saw the pre-line-edit text. That makes the panel able to
+  **veto** a cut (as above) but **not to ratify** one — it never saw the edited
+  chapter. Praise cited as confirming a left-standing ruling (the two laughs at
+  `:17`, "could get no grip" at `:57`, stopping at "one look" at `:73`) is valid
+  only because that text is unchanged.

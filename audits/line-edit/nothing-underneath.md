@@ -130,7 +130,7 @@ Reviewed 30 items (report's 34 minus 3 dropped as settled, minus 1 merged).
 - **#27** `:85` plot recap — **applied narrowly**; the itemized recap **cut**, "he had gone to the ground for her" kept.
 - **#28** `:97` "finished" ×2 — **applied**; closing clause **cut**.
 - **#29** `:11`/`:99`/`:101` "by degrees" — **applied**; `:101`'s **cut**. Remaining two deferred to the end-of-pass harvest.
-- **#30** `:101` "It was the sweetest thing, sensual and" — **applied**; graded half **cut**, "It asked for nothing" kept.
+- **#30** `:101` "It was the sweetest thing, sensual and" — **applied, then partially reverted on reader evidence.** Graded opener "It was the sweetest thing," **cut**; *sensual* **restored** ("It was sensual and asked for nothing") after the 2026-08-14 cold-read panel landed mid-session and gpt-5.6-sol quoted "sensual and asking for nothing" verbatim as the aftercare's working phrase. Author ruling 2026-08-14.
 - **#32** `:109` "After a while," — **applied** (cut).
 - **#33** `:119` "his hands knowing it cold." — **applied** (cut); *cold* collided with the chapter's ~20 literal colds inside its warmest paragraph.
 - **#34** `:121` "precisely" + FIX-AT "the plain fact of" — **applied**; both **cut**. Also clears the `:129` "the plain relief of" pairing.
