@@ -6,6 +6,14 @@
 # (author ruling 2026-08-09): tagline ends on "problem" not "trap"; no
 # "third in their bed" promise (threesome is a Volume Three payoff — Vol 1
 # copy foregrounds the plan); warmth-first, all three principals named.
+#
+# Editing note: the `packet` string below is a HAND-MAINTAINED copy of the blurb,
+# not auto-generated. When the copy changes, update BOTH meta/meta-blurb.md AND
+# the inline blurb below, THEN run `tools/lint_blurb.py --update` to re-stamp
+# blurb_source_sha256. The stamp guards a stale *source* (it flags when
+# meta-blurb.md / meta-cover.md changed since the last stamp) — it does NOT
+# refresh this inline copy. Stamp before syncing the text and the packet will
+# serve stale copy while reporting "in sync."
 
 blurb_source_sha256 = "5cec04f4d1e0357615e8b9292ee3201a08f4bb31c14e13c032741420aa006cb2"
 
