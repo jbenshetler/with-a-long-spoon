@@ -161,90 +161,26 @@ def build_prompt(model_id: str, n: int, decade: int) -> str:
 
 
 PACKET_BASE = REPO / "reviews" / "cold-read" / ".packets"
+# The packet MCP tool truncates a single result above ~30KB (49KB confirmed
+# truncated, 22KB confirmed whole). Chunk every packet file well under that so a
+# sandboxed subagent always receives the FULL text — a partial read silently
+# corrupts the checkpoint/reaction (observed: a 50KB bundle part came through as a
+# 2KB preview). Split on line boundaries; the reader concatenates parts in order.
+PACKET_MAX_CHARS = 22000
 
 
-def emit_packet(model_id: str, n: int, decade: int) -> tuple[str, Path, list[str]]:
-    """Write chapter n's reading packet as small clean files under an unguessable
-    token dir, for the sandboxed packet MCP server. Returns (token, dir, ordered
-    file names). Each file is well under the Read/tool output cap; one window
-    scene per file, so nothing needs paginating.
-
-    Files are numbered so a plain filename sort is the intended read order:
-      00-README   · 10-jacket · 20-checkpoint · 30..-recent-NN · 90-this-chapter
-    """
+def _write_chunked_packet(text: str, readme_head: str, readme_tail: str) -> tuple[str, Path, list[str]]:
+    """Split `text` into <=PACKET_MAX_CHARS line-boundary parts and write them (plus a
+    README) under a fresh unguessable token dir. Returns (token, dir, ordered names)."""
     import secrets
-    slugs = vol1_slugs()
-    slug = slugs[n - 1]
-    title = checkpoint_bundle.display_title(slug)
-    b = boundary(n, decade)
     token = secrets.token_hex(16)
-    d = (PACKET_BASE / token)
+    d = PACKET_BASE / token
     d.mkdir(parents=True, exist_ok=True)
 
-    names: list[str] = []
-
-    def put(name: str, body: str) -> None:
-        (d / name).write_text(body.rstrip() + "\n", encoding="utf-8")
-        names.append(name)
-
-    packet = checkpoint_bundle.jacket_packet()
-    if packet:
-        put("10-jacket.md",
-            "PUBLIC VOLUME-ENTRY PACKET (the cover + jacket you have held since you "
-            "opened this volume — marketing, not story; hold it loosely):\n\n" + packet)
-    checkpoint = load_checkpoint(model_id, b)
-    if checkpoint:
-        put("20-checkpoint.md",
-            "GROUNDED MEMORY CHECKPOINT (your faithful memory of every earlier chapter "
-            "you have read but cannot re-read — treat it as your own recollection):\n\n"
-            + checkpoint)
-    if b + 1 <= n - 1:
-        for j, i in enumerate(range(b + 1, n), start=1):
-            wslug = slugs[i - 1]
-            put(f"30-recent-{j:02d}.md",
-                f"RECENT CHAPTER (read in order; real prose, still fresh in your mind — "
-                f"the lead-in to this chapter):\n\n===== {checkpoint_bundle.display_title(wslug)} "
-                f"=====\n\n" + checkpoint_bundle.clean_scene_text(wslug))
-    if not checkpoint and not names:
-        put("05-opening.md",
-            "You are opening the book cold: there is no prior memory. Read this first "
-            "chapter knowing only the jacket (if present) and the page.")
-    put("90-this-chapter.md",
-        f"THIS CHAPTER (the one you are reading now):\n\n===== {title} =====\n\n"
-        + checkpoint_bundle.clean_scene_text(slug))
-
-    ordered = sorted(names)
-    readme = (
-        "This is your reading packet. Read EVERY file below, in THIS ORDER, using your "
-        "packet tool — call list_packet then read_packet for each. They are all small.\n\n"
-        + "\n".join(f"  {i+1}. {nm}" for i, nm in enumerate(ordered))
-        + "\n\nThe files are, in order: your jacket, your grounded memory checkpoint, the "
-        "recent chapters (oldest to newest), and finally THIS CHAPTER (the last file). "
-        "After reading them all, write ONLY your Reader reaction per your instructions.\n"
-    )
-    (d / "00-README.md").write_text(readme, encoding="utf-8")
-    return token, d, ["00-README.md"] + ordered
-
-
-def emit_bundle_packet(to_b: int, max_chars: int = 50000) -> tuple[str, Path, list[str]]:
-    """Write the clean prose bundle for chapters 1..to_b as sub-cap chunk files under
-    an unguessable token dir, for a SANDBOXED blind-extractor subagent to mint a
-    grounded checkpoint (no general Read anywhere in the pipeline). Returns (token,
-    dir, ordered file names). Splits on chapter/line boundaries so no part exceeds the
-    tool output cap; the extractor reads every part in order and consolidates."""
-    import secrets
-    bundle = checkpoint_bundle.build_bundle(1, to_b, jacket=True)
-    token = secrets.token_hex(16)
-    d = (PACKET_BASE / token)
-    d.mkdir(parents=True, exist_ok=True)
-
-    # Greedy line-boundary packing into <= max_chars parts (prefer splitting at the
-    # `===== CHAPTER` delimiters, else at any line).
-    lines = bundle.split("\n")
     parts: list[list[str]] = [[]]
     size = 0
-    for ln in lines:
-        if size + len(ln) + 1 > max_chars and parts[-1]:
+    for ln in text.split("\n"):
+        if size + len(ln) + 1 > PACKET_MAX_CHARS and parts[-1]:
             parts.append([])
             size = 0
         parts[-1].append(ln)
@@ -255,21 +191,47 @@ def emit_bundle_packet(to_b: int, max_chars: int = 50000) -> tuple[str, Path, li
     for i, chunk in enumerate(parts, start=1):
         name = f"{i:02d}-part.md"
         (d / name).write_text(
-            f"[bundle part {i} of {n} — read in order, this is one continuous document]\n\n"
+            f"[part {i} of {n} — read in order; this is one continuous document]\n\n"
             + "\n".join(chunk).strip() + "\n", encoding="utf-8")
         names.append(name)
 
     readme = (
-        "This is a reading packet holding ONE continuous document — the book's jacket "
-        "followed by the clean text of the chapters to consolidate — split across the "
-        f"{n} part files below. Read EVERY part, IN THIS ORDER, using your packet tool "
-        "(list_packet then read_packet for each), before you write anything:\n\n"
-        + "\n".join(f"  {i+1}. {nm}" for i, nm in enumerate(names))
-        + "\n\nThey are consecutive slices of the same document; concatenate them in "
-        "order. Then produce your checkpoint exactly as your instructions specify.\n"
+        readme_head
+        + "\n".join(f"  {i + 1}. {nm}" for i, nm in enumerate(names))
+        + "\n\n" + readme_tail
     )
     (d / "00-README.md").write_text(readme, encoding="utf-8")
     return token, d, ["00-README.md"] + names
+
+
+def emit_packet(model_id: str, n: int, decade: int) -> tuple[str, Path, list[str]]:
+    """Write chapter n's reading packet (the assembled grounded read prompt — jacket +
+    checkpoint + window + this chapter) as sub-cap chunk files under a token dir, for a
+    sandboxed blind-reader-grounded subagent. Returns (token, dir, ordered names)."""
+    text = build_prompt(model_id, n, decade)
+    head = ("This is your reading packet — ONE continuous document (your jacket, your "
+            "grounded memory checkpoint, the recent chapters oldest→newest, and finally "
+            "THIS CHAPTER) split across the numbered parts below. Read EVERY part, IN "
+            "ORDER, with your packet tool (list_packet, then read_packet for each), "
+            "before you write anything:\n\n")
+    tail = ("Concatenate the parts in order — the section headers inside them tell you "
+            "which is the checkpoint, the recent chapters, and THIS CHAPTER. Then write "
+            "ONLY your Reader reaction per your instructions.\n")
+    return _write_chunked_packet(text, head, tail)
+
+
+def emit_bundle_packet(to_b: int) -> tuple[str, Path, list[str]]:
+    """Write the clean prose bundle for chapters 1..to_b as sub-cap chunk files under a
+    token dir, for a sandboxed blind-extractor subagent to mint ck-ch{to_b}. Returns
+    (token, dir, ordered names)."""
+    text = checkpoint_bundle.build_bundle(1, to_b, jacket=True)
+    head = ("This is a reading packet holding ONE continuous document — the book's jacket "
+            "followed by the clean text of the chapters to consolidate — split across the "
+            "numbered parts below. Read EVERY part, IN ORDER, with your packet tool "
+            "(list_packet, then read_packet for each), before you write anything:\n\n")
+    tail = ("They are consecutive slices of the same document; concatenate them in order. "
+            "Then produce your checkpoint exactly as your instructions specify.\n")
+    return _write_chunked_packet(text, head, tail)
 
 
 def strip_leading_heading(text: str) -> str:
