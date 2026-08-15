@@ -1,0 +1,14 @@
+# Oracle (grounded) — arms-length · neutral
+
+*model: claude-sonnet-5 · probe: arms-length · tier: neutral · stage: end (whole book) · battery: oracle-battery.json*
+
+**Question asked (verbatim):** As you read, did you feel like someone watching these people from the outside, or like someone being drawn in with them? Was there anyone you kept at a distance the whole way?
+
+---
+
+Honestly, both at once, and the book seemed built for that doubleness rather than one or the other. From the very first chapter — the reveal that the woman on the bench was Randi, not Vee — I was placed structurally outside the story, ahead of Vee, holding information she didn't have. That never went away. Every tender scene between Pace and Vee, I was reading twice: once as pure immersion (the apple slices, the froyo date, the dress, the hike) and once with the cold, watchful awareness that I'd seen the pointing game, that I knew "May I choose" was a line he'd already used, that I knew Randi's warmth had a history of extraction behind it. That's a very deliberate kind of outsider-ness — dramatic irony as the whole engine of the book — and it kept me from ever fully losing myself the way Vee did.
+
+But the pull-in was just as real, and it came from different places at different times. I got swept into Vee's body completely — the froyo cup she doesn't correct, the underwater relief in "Water Wings," the shoulders-straightening moment in "A Round," the walk at the induction — those scenes worked on me with no irony filter at all; I wanted her joy uncomplicatedly. And Randi pulled me all the way in too, especially by "The Outlier" and "Fairytale," where I stopped watching her from outside and started aching from inside her loneliness — the bathroom mirror in chapter one, the "cheating bastards" flinch, the hollow verdict on herself after John. By the end I was about as drawn into Randi as into Vee, maybe more, because her chapters gave me things Vee's never could: the cost of the performance from the performer's own side.
+
+Cassie is the one person I never once kept at a distance, and also the only person the book never asked me to. She has no seam, no double meaning under her warmth, nothing I had to hold at arm's length — "Goodbye, Vee," "You had a whole witness statement ready," the flat "Do you love him." I trusted her completely from her first line to her last, and I noticed I was using her almost as an instrument — checking my own worry level against how worried she seemed. If I kept anyone at a permanent, unresolved distance, it was Pace — not because I disliked him, but because I was never able to fully close the gap between "this tenderness is real" and "this tenderness is also a method he's run before," right through to the final chapters where even his relief at the door came with the withheld word sitting under it like a stone I couldn't stop feeling.</text>
+</invoke>
