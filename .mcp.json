@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "packet": {
+      "command": "uv",
+      "args": ["run", "--script", "tools/packet_reader_mcp.py"]
+    }
+  }
+}

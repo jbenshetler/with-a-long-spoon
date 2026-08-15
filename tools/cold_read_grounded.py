@@ -160,6 +160,72 @@ def build_prompt(model_id: str, n: int, decade: int) -> str:
     return "\n".join(parts)
 
 
+PACKET_BASE = REPO / "reviews" / "cold-read" / ".packets"
+
+
+def emit_packet(model_id: str, n: int, decade: int) -> tuple[str, Path, list[str]]:
+    """Write chapter n's reading packet as small clean files under an unguessable
+    token dir, for the sandboxed packet MCP server. Returns (token, dir, ordered
+    file names). Each file is well under the Read/tool output cap; one window
+    scene per file, so nothing needs paginating.
+
+    Files are numbered so a plain filename sort is the intended read order:
+      00-README   · 10-jacket · 20-checkpoint · 30..-recent-NN · 90-this-chapter
+    """
+    import secrets
+    slugs = vol1_slugs()
+    slug = slugs[n - 1]
+    title = checkpoint_bundle.display_title(slug)
+    b = boundary(n, decade)
+    token = secrets.token_hex(16)
+    d = (PACKET_BASE / token)
+    d.mkdir(parents=True, exist_ok=True)
+
+    names: list[str] = []
+
+    def put(name: str, body: str) -> None:
+        (d / name).write_text(body.rstrip() + "\n", encoding="utf-8")
+        names.append(name)
+
+    packet = checkpoint_bundle.jacket_packet()
+    if packet:
+        put("10-jacket.md",
+            "PUBLIC VOLUME-ENTRY PACKET (the cover + jacket you have held since you "
+            "opened this volume — marketing, not story; hold it loosely):\n\n" + packet)
+    checkpoint = load_checkpoint(model_id, b)
+    if checkpoint:
+        put("20-checkpoint.md",
+            "GROUNDED MEMORY CHECKPOINT (your faithful memory of every earlier chapter "
+            "you have read but cannot re-read — treat it as your own recollection):\n\n"
+            + checkpoint)
+    if b + 1 <= n - 1:
+        for j, i in enumerate(range(b + 1, n), start=1):
+            wslug = slugs[i - 1]
+            put(f"30-recent-{j:02d}.md",
+                f"RECENT CHAPTER (read in order; real prose, still fresh in your mind — "
+                f"the lead-in to this chapter):\n\n===== {checkpoint_bundle.display_title(wslug)} "
+                f"=====\n\n" + checkpoint_bundle.clean_scene_text(wslug))
+    if not checkpoint and not names:
+        put("05-opening.md",
+            "You are opening the book cold: there is no prior memory. Read this first "
+            "chapter knowing only the jacket (if present) and the page.")
+    put("90-this-chapter.md",
+        f"THIS CHAPTER (the one you are reading now):\n\n===== {title} =====\n\n"
+        + checkpoint_bundle.clean_scene_text(slug))
+
+    ordered = sorted(names)
+    readme = (
+        "This is your reading packet. Read EVERY file below, in THIS ORDER, using your "
+        "packet tool — call list_packet then read_packet for each. They are all small.\n\n"
+        + "\n".join(f"  {i+1}. {nm}" for i, nm in enumerate(ordered))
+        + "\n\nThe files are, in order: your jacket, your grounded memory checkpoint, the "
+        "recent chapters (oldest to newest), and finally THIS CHAPTER (the last file). "
+        "After reading them all, write ONLY your Reader reaction per your instructions.\n"
+    )
+    (d / "00-README.md").write_text(readme, encoding="utf-8")
+    return token, d, ["00-README.md"] + ordered
+
+
 def strip_leading_heading(text: str) -> str:
     """Drop a leading `tool_uses:` echo or a `### Reader reaction` heading if present."""
     t = text.strip()
@@ -262,6 +328,10 @@ def main() -> None:
                     "minting is a distinct, more expensive job.")
     ap.add_argument("--emit-prompt", type=int, default=None, metavar="N",
                     help="print chapter N's assembled prompt to stdout and exit (no model call)")
+    ap.add_argument("--emit-packet", type=int, default=None, metavar="N",
+                    help="write chapter N's reading packet as small clean files under an "
+                    "unguessable token dir (for the sandboxed packet MCP server / free "
+                    "Claude-subagent reads); print the token + files and exit (no model call)")
     ap.add_argument("--check", action="store_true",
                     help="list the checkpoints the requested range needs (present/missing) and exit")
     args = ap.parse_args()
@@ -272,6 +342,15 @@ def main() -> None:
             sys.stdout.write(build_prompt(model_id, args.emit_prompt, args.decade))
         except BrokenPipeError:
             pass  # downstream closed the pipe (e.g. `| head`)
+        return
+
+    if args.emit_packet is not None:
+        token, d, ordered = emit_packet(model_id, args.emit_packet, args.decade)
+        print(f"packet_id: {token}")
+        print(f"dir: {d.relative_to(REPO)}")
+        print("files (read in this order):")
+        for nm in ordered:
+            print(f"  {nm}")
         return
 
     chapters = resolve_range(args)

@@ -14,10 +14,15 @@
       "Write(meta/**)",
       "Read(/tmp/**)",
       "Edit(/tmp/**)",
-      "Write(/tmp/**)"
+      "Write(/tmp/**)",
+      "mcp__packet__list_packet",
+      "mcp__packet__read_packet"
     ],
     "additionalDirectories": [
       "/tmp"
+    ],
+    "enabledMcpjsonServers": [
+      "packet"
     ]
   }
 }
