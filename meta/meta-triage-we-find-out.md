@@ -392,3 +392,128 @@ quotes in one model's read while gaining them in another's ("Her body had decide
 without her", "the same ease that had been her humiliation was, here, only true")
 — which is the noise floor of this instrument, and a useful calibration for
 reading any single cold read.
+
+---
+
+# Triage — We Find Out (consent-beat revision + Phase-1 re-read, 2026-08-15)
+
+**Reopens the 2026-07-28 "do not soften" ruling on the "Don't" node — on new
+evidence, which that ruling's own reopen clause permits** (§ cold-read panel
+2026-07-28: re-flag allowed on "a new reader cohort snagging on the same spot").
+The grounded end-of-book oracle (each model's full 50-chapter reactions, all
+five models) put **two** readers on the beat, not the lone sol of July: sol
+("the first moment with Pace that I cannot simply trust… he had already been
+told to stop… I felt my trust in him move") and terra ("the closest the scene
+gets to making me wish he had checked in more plainly… I felt the edge of it").
+Two independent readers reading *force* where the design intends *architecture*
+is the cohort signal. This also retroactively explains the 08-09 "Not
+attributable to the edits" terra/gpt-5.5 flip (§ line-edit verification): that
+flip landed on unchanged prose and was correctly called run variance then — but
+it was pointing at a real latent fragility in the untouched line, now confirmed
+and fixed.
+
+## The fix — a re-seating, not a softening
+
+The crack was localized to **one line**: *"His hand kept going,"* landing
+immediately after *"Don't."* The out (the wager) was named earlier, and the
+door-language ("slow enough that she could have stepped out… and didn't") sat
+eight lines *below* the override — so the beat read as continue-past-the-word
+before it read as door-held-open. Per `meta-craft-pace.md:126` (Consent by
+Reading, not Clearance) and the console catch-and-set-down rule (`:16`), the
+honest fix makes the out *enacted at the word*, not merely available downstream
+— without an explicit verbal ask (which the same rule says kills the heat) and
+without breaking the denial (`meta-note-we-find-out.md:17`, "No 'yes'").
+
+Applied (`scenes/we-find-out.md`, the "Don't"→proof beat):
+
+- **"Don't" now stops his hand** — *"The hand stopped. He didn't take it away."*
+  He honors the word (stops, doesn't retract, doesn't push on).
+- **"Then admit it, or we find out." → "We find out."** — the coercive
+  "admit it, **or**" (leverage re-issued *after* "Don't") cut; the stop was
+  already on the table from his earlier line, so no ultimatum is needed.
+  Statement, not question — a "?" would tip him into the tentative/"may I?"
+  register the craft rule forbids.
+- **An interval carries time-to-reconsider** — *"He left it where it was, warm
+  on her thigh, and watched her, and let the quiet run on, a slow second and
+  then another."*
+- **The involuntary nod is now the consent-gate** — *"Surprising her, her own
+  head went up and down, small. She dreaded it, and some part of her wanted him
+  to know anyway."* The nod is **consent to the test, not admission of the
+  answer**: she still won't say she lost (denial intact, `:17`), and the want is
+  disowned ("some part of her") and about being *known*, not *confessing*. His
+  hand resumes **on the nod**, not on his own read.
+- **The proof re-seated in her body** — was his sensation (*"he… felt the damp
+  heat of her come through it"*); now hers (*"his fingers pressed flat, and the
+  wet satin slid against her, confirming her fears. He smiled, and her own
+  breath went ragged."*). Filter verb "she felt" dropped (linter + embodiment);
+  his smile made *causal* ("He smiled, and…") so his seeing triggers her
+  undoing — the being-seen-responding charge (`meta-craft-pace.md:126`).
+- The out-not-taken door beat kept **once**, in the resume, with a paragraph
+  break before it for time.
+
+This keeps the architecture the 07-28 ruling protected — the wager as disguised
+consent-gate, the un-taken out, the indictment living in the conditions and not
+in force — and removes only the sentence that made readers misread force. **Not
+a softening; a re-seating of the same design so it reads as designed.**
+
+## The "Slow" node — still stands (author ruling 2026-08-15)
+
+*"No. Slow. That's part of the bet too"* (narrator flags: *"It hadn't been part
+of any bet he'd named"*) **left standing, unchanged.** Same rule-invention
+device as "admit it, or," but at different stakes: "admit it, or" invented a
+term that gated *whether the act happened*; "Slow" shapes the *manner* of a
+strip Vee is already performing after her nod. Only the first is coercive. The
+readers who flagged "Slow" were pattern-matching off the goalpost-moving that
+"admit it, or" set up two beats earlier — remove that node and "Slow" reads as
+tender-diagnostic drawing-out, not force. Confirmed in the Phase-1 re-read: sol
+still names "Slow" but now explicitly *"I do not read that as a violation… the
+page earned that flicker of unease."* The designed landing
+(`meta-note-we-find-out.md:11`).
+
+## Phase-1 re-read (2026-08-15) — the crack is closed
+
+Isolated A/B: **only ch32 re-read**, all five models, against the **existing
+ck-030** (held constant, so the professor edits in ch22/ch30 are not a variable
+here) and the unchanged ch31 window. Codex trio (terra/sol/gpt-5.5) via
+`uv run --script tools/cold_read_grounded.py --scope we-find-out --fresh`
+(subscription auth, no API tokens); opus/sonnet via `blind-reader-grounded`
+packet subagents (no API tokens). Baselines parked in `/tmp/wfo-baseline/` at
+capture; recoverable from the pre-edit commit.
+
+- **sol — reversed.** Baseline "I cannot simply trust… he had already been told
+  to stop… my trust in him move[d]" → *"When Vee says 'Don't,' Pace stops
+  immediately and does not resume until she nods… That sequence is why the
+  authority feels hot rather than careless."* Residual unease confined to
+  "Slow," explicitly not-a-violation.
+- **terra — went silent** on the consent edge (no friction line; reads the beat
+  as the theme, "why the exact shape of a yes matters").
+- **gpt-5.5 — sharpened**: "his hand stops; he asks whether she admits she lost;
+  she nods before he goes on… the difference between coercion and being held to
+  a truth she is aroused by."
+- **sonnet — "Friction: none that felt like the author's thumb on the scale"**;
+  choreography legible ("the 'don't,' the pause, the renewed nod").
+- **opus — no regression** (it never flagged the crack); now reads the
+  door/nod/step as the intended horror ("Every door left open, every step
+  hers").
+
+No new complaint introduced by the edit.
+
+**Superseding note.** For the *"Don't"/override* reading, this section governs.
+The 07-28 "Left standing — do not re-litigate" bullet on "the bet / 'Don't' /
+rules invented mid-game" is **retained for its architecture rationale** (the
+wager-as-gate, indictment-in-architecture) but its *"do not soften"* conclusion
+is **superseded** as to the override line, which is now fixed. The **"Slow"**
+half of that bullet stands (see above).
+
+## Style
+
+`the-way` at `:65` ("the hand went the rest of the way") acked as a false
+positive — literal physical distance, not the "the way he…" telling construction
+(`style/style-allow.toml`, note 2026-08-15).
+
+## Deferred to Phase-2
+
+This isolated pass held ck-030 constant. The **fuller Phase-2** re-validation
+(professor thread + this consent edit + the other oracle-flagged items) will
+re-mint ck-030/ck-040 — which now contain the edited ch22/ch30 — and re-read the
+downstream, catching any interaction. Tracked with the professor Phase-2.

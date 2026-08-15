@@ -52,13 +52,19 @@ He didn't move it for a moment, just let it rest there, warm and hard, the palm 
 
 "Don't," she said.
 
+The hand stopped. He didn't take it away.
+
 "Do you admit you lost?"
 
 "No."
 
-"Then admit it, or we find out."
+"We find out." He left it where it was, warm on her thigh, and watched her, and let the quiet run on, a slow second and then another.
 
-His hand kept going, slow enough that she could have stepped out of it the whole way and didn't, and when it reached the gusset of her underwear he pressed the flat of two fingers there and felt the damp heat of her come through it, and he smiled, and she heard her own breath go ragged, and she nodded. She didn't decide to. Her head just went down and up, small, and she felt about three feet tall.
+Surprising her, her own head went up and down, small. She dreaded it, and some part of her wanted him to know anyway.
+
+And then the hand went the rest of the way, slow enough that she could have stepped out of it the whole distance and didn't.
+
+When it reached the gusset of her underwear his fingers pressed flat, and the wet satin slid against her, confirming her fears. He smiled, and her own breath went ragged.
 
 He drew the satin aside, and there was his finger, and she braced somewhere low for it to be difficult, for there to be at least the dignity of a threshold to cross. There was none. He slid into her and her body took him without a question, smooth and hot and already given, as though it had been waiting all afternoon to be asked and was relieved, finally, to answer. Too easy. The ease went through her worse than any sting had. Her body had decided without her. It had decided every night this week in the dark and hadn't thought to tell her, and now it was telling him.
 

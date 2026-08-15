@@ -6486,6 +6486,13 @@ text = "She'd worn the black strappy heels and the wrap skirt for him, more than
 note = "Not the held-past figure (author ruling 2026-08-09, line edit). Ordinary comparison naming the occasion, not a duration measured against a function it exceeds; it calibrates the Friday for the reader and does characterization. The doubling it used to sit in ('it felt like she'd tried too hard') was cut in the same pass. Ledger #59/#60: rule the shape, never the count."
 
 [[ok]]
+fp   = "0614a61703d6"
+rule = "the-way"
+file = "scenes/we-find-out.md"
+text = "And then the hand went the rest of the way, slow enough that she could have stepped out of it the whole distance and didn't."
+note = "Literal physical distance (the hand's travel up her thigh), not the 'the way he…' telling construction. Author-approved 2026-08-15."
+
+[[ok]]
 fp   = "06c02a6b218b"
 rule = "the-way"
 file = "scenes/we-find-out.md"
