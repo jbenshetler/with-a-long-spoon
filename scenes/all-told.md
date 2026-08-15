@@ -36,7 +36,7 @@ The professor chose that moment to begin.
 
 Somebody gave the obvious answer. He smiled the smile of a man who had laid the same trap a hundred times. "Now put the two years together."
 
-Vee made herself pull her eyes to the front, the good student coming up for air from her own life to learn a thing she would never use. She gave it a good forty seconds, honest attention, her pen even moving.
+Vee made herself pull her eyes to the front, the good student coming up for air from her own life. She gave it a good forty seconds, honest attention, her pen even moving.
 
 It was when she came back up out of the numbers that she understood Cassie had never gone down into them at all.
 
