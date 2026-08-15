@@ -265,6 +265,56 @@ def emit_bundle_packet(to_b: int, model_id: str) -> tuple[str, Path, list[str]]:
     return token, d, ordered
 
 
+ORACLE_BATTERY = REPO / "reviews" / "cold-read" / "oracle-battery.json"
+
+
+def _reaction_body(model_id: str, slug: str) -> str:
+    """A grounded read file's reaction (its metadata header stripped)."""
+    t = (REPO / f"reviews/cold-read/{model_id}/grounded/{slug}.md").read_text(encoding="utf-8")
+    i = t.find("## Reader reaction")
+    return t[i:] if i >= 0 else t
+
+
+def emit_oracle_packet(model_id: str, probe: str, tier: str) -> tuple[str, Path, list[str]]:
+    """Mint an oracle interview packet for (model, probe, tier): the jacket + this model's
+    own 50 chapter reactions (its whole reading record) + the probe's tier question, chunked
+    for the sandboxed blind-oracle-grounded subagent. .dest routes its answer to
+    reviews/cold-read/<model>/oracle/<probe>--<tier>.md. Returns (token, dir, names)."""
+    import json
+    battery = json.loads(ORACLE_BATTERY.read_text(encoding="utf-8"))
+    if probe not in battery["probes"]:
+        raise SystemExit(f"unknown probe '{probe}'. Known: {', '.join(sorted(battery['probes']))}")
+    if tier not in ("neutral", "pointed"):
+        raise SystemExit("tier must be 'neutral' or 'pointed'")
+    question = battery["probes"][probe][tier]
+
+    slugs = vol1_slugs()
+    parts = []
+    packet = checkpoint_bundle.jacket_packet()
+    if packet:
+        parts.append("===== THE JACKET YOU HAD GOING IN (marketing, not story) =====\n\n" + packet)
+    for slug in slugs:
+        parts.append(f"\n\n===== YOUR READING — {checkpoint_bundle.display_title(slug)} =====\n")
+        parts.append(_reaction_body(model_id, slug))
+    parts.append("\n\n===== THE INTERVIEW QUESTION (answer from your reading above) =====\n\n" + question)
+    text = "\n".join(parts)
+
+    head = ("This is your reading record and one interview question, ONE continuous document "
+            "split across the numbered parts below (the jacket, your own chapter-by-chapter "
+            "reactions across the whole book, and finally the question). Read EVERY part, IN "
+            "ORDER, with your packet tool (list_packet, then read_packet for each), before you "
+            "answer:\n\n")
+    tail = ("The last part holds the interview question. Answer it from your reading record above, "
+            "then save your answer with write_output.\n")
+    token, d, ordered = _write_chunked_packet(text, head, tail)
+    header = (f"# Oracle (grounded) — {probe} · {tier}\n\n"
+              f"*model: {model_id} · probe: {probe} · tier: {tier} · stage: end (whole book) · "
+              f"battery: oracle-battery.json*\n\n"
+              f"**Question asked (verbatim):** {question}\n\n---\n\n")
+    _set_destination(d, f"reviews/cold-read/{model_id}/oracle/{probe}--{tier}.md", header)
+    return token, d, ordered
+
+
 def strip_leading_heading(text: str) -> str:
     """Drop a leading `tool_uses:` echo or a `### Reader reaction` heading if present."""
     t = text.strip()
@@ -375,6 +425,10 @@ def main() -> None:
                     help="write the clean prose bundle for chapters 1..B as sub-cap chunk "
                     "files under a token dir, for a sandboxed blind-extractor subagent to "
                     "mint ck-ch{B}; print the token + files and exit (no model call)")
+    ap.add_argument("--emit-oracle-packet", nargs=2, default=None, metavar=("PROBE", "TIER"),
+                    help="write an oracle interview packet (this model's 50 reactions + the "
+                    "battery probe's tier question) for a sandboxed blind-oracle-grounded "
+                    "subagent; print the token and exit (no model call)")
     ap.add_argument("--check", action="store_true",
                     help="list the checkpoints the requested range needs (present/missing) and exit")
     args = ap.parse_args()
@@ -398,6 +452,14 @@ def main() -> None:
 
     if args.emit_bundle_packet is not None:
         token, d, ordered = emit_bundle_packet(args.emit_bundle_packet, model_id)
+        print(f"packet_id: {token}")
+        print(f"dir: {d.relative_to(REPO)}")
+        print(f"parts: {len(ordered) - 1}")
+        return
+
+    if args.emit_oracle_packet is not None:
+        probe, tier = args.emit_oracle_packet
+        token, d, ordered = emit_oracle_packet(model_id, probe, tier)
         print(f"packet_id: {token}")
         print(f"dir: {d.relative_to(REPO)}")
         print(f"parts: {len(ordered) - 1}")

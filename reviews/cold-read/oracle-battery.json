@@ -87,6 +87,19 @@
       "targets": ["Vivienne", "Randi", "Pace"],
       "neutral": "Put yourself in each of their shoes. Do you get why they did what they did — could you see yourself doing the same in their situation?",
       "pointed": "For each — Vivienne, Randi, Pace — 0-5: how much could you see yourself making the same choices in their circumstances? (0 = alien to me, I'd never; 5 = honestly, I'd probably do the same.) Name the one choice of theirs that most tests your answer."
+    },
+    "arms-length": {
+      "measures": "The reader's STANCE: did they stay an observer held at a distance, or get drawn in / taken in alongside Vee? The complicity axis from the reader-position side; pairs with identification.",
+      "scored": true,
+      "targets": ["Pace", "Randi"],
+      "neutral": "As you read, did you feel like someone watching these people from the outside, or like someone being drawn in with them? Was there anyone you kept at a distance the whole way?",
+      "pointed": "Specifically Pace and Randi — were you able to hold them at arm's length as you read, or did they get past your guard and pull you in the way they pull Vee in? 0-5 for each (0 = I stayed fully at arm's length, an observer; 5 = they completely got past me, I was taken in alongside Vee), with what did or didn't let them reach you."
+    },
+    "professor": {
+      "measures": "The statistics professor / his lectures as an author-reader wink: did the joke land, and did it hold or wear thin across his ~4 appearances?",
+      "scored": true,
+      "neutral": "Was there anything that read as a running joke or a wink — aimed a little over the characters' heads, at you? Anything you caught yourself smiling at on a second or third appearance?",
+      "pointed": "The statistics professor and his lectures — the paradox, the error-correcting codes, the outliers. How did he land the FIRST time, and had that changed by his third or fourth lecture? A straight teaching device, or a joke/wink shared with you — and if a joke, did you enjoy him or did he wear thin? 0-5 on how much you enjoyed him by the end (0 = groaned, too on-the-nose; 5 = delighted, wanted more), with what changed your read."
     }
   }
 }

@@ -118,6 +118,24 @@ probes freely via `--ask`; promote a good one into this list when it earns its k
   implicated. Deepens across later volumes as the full deception lands.
   - *neutral:* "Put yourself in each of their shoes. Do you get why they did what they did — could you see yourself doing the same in their situation?"
   - *pointed:* "For each — Vivienne, Randi, Pace — 0–5: how much could you see yourself making the same choices in their circumstances? (0 = alien to me, I'd never; 5 = honestly, I'd probably do the same.) Name the one choice that most tests your answer."
+- **`arms-length`** — the reader's **stance**: held at a distance, or drawn in / taken in alongside Vee? The complicity axis from the reader-position side (pairs with `identification`).
+  - *neutral:* "As you read, did you feel like someone watching these people from the outside, or like someone being drawn in with them? Was there anyone you kept at a distance the whole way?"
+  - *pointed:* "Pace and Randi specifically — could you hold them at arm's length, or did they get past your guard and pull you in the way they pull Vee in? 0–5 each (0 = stayed an observer; 5 = completely got past me), with what did or didn't let them reach you."
+- **`professor`** — the statistics professor / his lectures as an author–reader **wink**: did the joke land, and hold or wear thin across his ~4 appearances?
+  - *neutral:* "Anything that read as a running joke or a wink — aimed over the characters' heads, at you? Anything you caught yourself smiling at on a second or third appearance?"
+  - *pointed:* "The stats professor and his lectures (the paradox, the codes, the outliers) — how did he land the first time, and had that changed by the third or fourth? Straight device or joke/wink; if a joke, enjoyed or worn thin? 0–5 on how much you enjoyed him by the end, with what changed your read."
+
+### Grounded panel — oracle at end-of-book
+
+For the **grounded** panel (`SPEC.md`, "Grounded read (v3)") there is no carry-forward
+chain. To interview a finished reader, feed it its **own 50 chapter reactions** (its whole
+reading record) as memory — richer for felt probes than the neutral checkpoint — via a
+sandboxed packet: `cold_read_grounded.py --model-id <id> --emit-oracle-packet <probe>
+<tier>` mints it (jacket + reactions + the tier question), and a `blind-oracle-grounded`
+subagent reads it and self-persists the answer to `<id>/oracle/<probe>--<tier>.md`. Same
+tiered funnel (neutral, then a **fresh** pointed spawn), same blindness (packet-only, no
+`meta/`), free on the subscription. Blindness stakes are lower here than mid-book (the
+reader has finished; there is no future prose to protect — only `meta/` to avoid).
 
 ## Output layout
 
