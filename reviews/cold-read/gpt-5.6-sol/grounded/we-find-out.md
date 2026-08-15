@@ -1,0 +1,42 @@
+# Cold read (grounded) — We Find Out
+
+*scene: scenes/we-find-out.md · model: gpt-5.6-sol · memory: ck-ch030 + raw ch031..ch031 · reader-protocol: v3-grounded-checkpoint*
+
+## Reader reaction
+
+I was swept up by the play before I was unsettled by the turn. Vee arriving early, dressed too beautifully for an ordinary Friday, and breathing in Pace’s unwashed, “warm and dark and a little animal” smell made me feel how badly she has missed him. Their chase is joyous and hot: her discovery that she can outmaneuver his strength, the shorts waved “like a flag over a taken field,” the reckless flash that astonishes even her. I loved her being quick, mischievous, and drunk on her own body instead of apologizing for it. Pace’s unhidden gladness when she appears moved me too. He still feels genuinely delighted by her, not merely entitled to her arrival.
+
+But the erotic peak also contains the first moment with Pace that I cannot simply trust. She says, “Don’t,” and his hand continues upward while he makes admission the price of stopping: “Then admit it, or we find out.” Her body is willing—emphatically, lavishly willing—but bodily arousal does not turn “don’t” into permission. The narration stresses that she could have stepped away and did not, yet he had already been told to stop. That distinction matters to me precisely because the book has made his asking and her choosing so erotic until now. I felt the heat, but I also felt my trust in him move.
+
+The wager itself is slippery. “You let me spank you properly” is a choice she appears to accept by refusing to concede, but then he adds terms afterward: bare bottom, complete undressing, slowly, shoes left on. The page itself catches him at it—“It hadn’t been part of any bet he’d named”—so my unease is earned, not imported. Vee descends into the “warm dim place” and complies; she actively offers her hips to his hand, and once the spanking begins the scene becomes intensely responsive and tender. Still, I wanted Pace to ask again once play became formal and her verbal denials continued. “Her body had decided without her” is powerfully erotic as Vee’s experience of discovering desire, but it is not enough by itself to settle what Pace may do.
+
+And yet much of this absolutely worked on me. The spanking is hottest not when it is hard but when it is attentive: his palm resting, soothing, kissing the newly warm skin, the first tap “a question.” Her sensitized bottom reading “every separate thread” of the sheet is vivid and bodily without becoming clinical. The line “She was being offered up to her own wanting” lands exactly on the chapter’s deepest pull: Vee is aroused by being made unable to maintain the lie she tells about herself. Her shame turning, briefly, into something merely true is beautiful.
+
+The aftermath made me melt more cleanly than the sex. Pace’s unplanned glass of juice, her head in his lap, his hand moving through her hair, and “wonderful” repeated until word and touch become indistinguishable all feel like real cherishing. “Sated and safe and, for the first time she could remember, treasured” is a romantic peak for me, though the absoluteness of “first time” pressed slightly hard given the care Cassie, Randi, and Pace have already shown her. The scrunchies deepen the swoon: their abundance says he expects her continued presence without demanding a promise from her. Vee deciding, “I’m going to start bringing a bag,” feels domestic, funny, and enormous.
+
+Her use of his antiperspirant and pleasure in carrying his smell continue the sense that she is beginning to inhabit his house rather than merely visit it. Then she emerges ravenous and he feeds her curry full of color, spice, and unfamiliar heat. That final movement feels wonderfully right: appetite admitted in one room is answered in another. I remain very attracted to Pace’s care, competence, and tenderness, but I no longer trust his sexual judgment without reservation. Vee’s desire is unmistakable; his treatment of that desire as proof overriding her words is the problem.
+
+Randi’s absence is conspicuous because her story supplies Vee’s expectation of what spanking should look like. “No Randi to be told” also struck me: Vee experiences the bed as a private country outside the pattern of reporting everything to Randi. That privacy feels precious, though I know Randi and Pace already share knowledge Vee believes compartmentalized. Vee touching Pace’s scar “the way you know a thing about a person you’ve decided to keep” gave me an ache; she is claiming continuity with him without pressing open what he has kept closed.
+
+“We Find Out” names the wager, but it also tells me in advance that the chapter will produce proof. What they find out is that Vee wants the spanking, that her body has been wanting it all week, and that she is ready to make a more settled place in Pace’s life. More troublingly, they find it out through a method that treats wetness as verdict. The title did not spoil the exact event, but it made the coming test feel inevitable.
+
+*A Polite Invitation* now feels newly strained. This invitation is erotic, but not entirely polite: Pace leaves exits in theory while pressing past a spoken “don’t,” then enlarges the terms after she is already yielding. *With a Long Spoon* still suggests being fed while also keeping some distance from something dangerous; the curry makes the feeding image literal here, while the concealed arrangement remains the danger I cannot forget. The exact closing beat, “Every yes was freely given. That was the problem,” feels almost provocatively unstable after this chapter, because Vee’s bodily yes is clear but her spoken words are “Don’t,” “No,” and “I don’t.” I need the book to remain honest about that difference.
+
+I want Vee to bring the bag. I want the scrunchies, meals, play, and treasure of being wanted to become ordinary for her. But I also want her to discover that she can say plainly, while fully awake to herself, “Yes, spank me,” and have Pace wait for those words rather than proving her desire against her denial. My guess from here is that she will tell Randi about this, and Randi will help her name the wanting—but I dread how much private knowledge Randi will then carry back to Pace without Vee’s consent.
+
+**Cast present (in person):** Vee, Pace.  
+Mentioned only: Randi.
+
+**Heat:** 3 — graphic, sustained spanking, penetration, intercourse, exposure, and bodily response form the chapter’s center.
+
+**Romance:** 3 — the juice, repeated “wonderful,” hair-stroking, abundant scrunchies, and Vee’s planned overnight bag mark a major turn toward treasured domestic intimacy.
+
+**Motifs & images:** Repeat—food and hunger: Vee wakes “ravenous,” and Pace answers with abundant curry. Repeat—warmth and cold: warm hands, bed, washcloth, spice, and food make his home sheltering. Repeat—clothes and shoes: her elaborate outfit becomes staged undressing, with only Randi’s black heels retained. Repeat—scars and marks: Pace’s thigh scar and Vee’s awakened, pink skin. Repeat—scent: she breathes in his musk, then deliberately wears his antiperspirant. Repeat—looking and bodily evidence: her wetness is displayed as visible truth. First—scrunchies as plentiful provision and an implied future.
+
+**Symbolism:** The scrunchies stand for anticipated continuity: Pace has made room for Vee’s unruly hair, and therefore for Vee, in quantities meant to last. The curry carries her widening appetite—colorful, abundant, unfamiliar, and hotter than it first appears.
+
+**Characterization:** Vee deepens vividly: playful, physically confident, ashamed, aroused, self-denying, and increasingly domestic all coexist. Pace deepens as spontaneous caretaker, but his insistence on proving desire past “don’t” complicates rather than merely confirms his established attentiveness. Randi remains influential despite being absent, through the erotic script Vee remembers.
+
+**Pace — within the chapter:** The chase moves quickly, the spanking and sex slow into sustained attention, and the quiet aftermath earns its space. The curry ending is brief but satisfying rather than abrupt.
+
+**Pace — chapter to chapter:** Building strongly. The induction’s public, self-chosen display turns into private exposure and then domestic belonging. The erotic momentum intensifies, but so does the question of whether Vee’s body is being allowed to speak alongside her words or instead of them.
