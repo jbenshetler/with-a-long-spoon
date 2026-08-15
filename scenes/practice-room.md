@@ -14,9 +14,9 @@ At the front the professor was doing the thing he did before every class, scroll
 
 "Outliers," he said. "Two kinds. You'll want the difference."
 
-He put up two little plots, almost the same, a line of dots walking left to right with one dot flung up off the line. "The first kind sits on a single point. Something happened that day. A sensor failed, somebody fat-fingered the entry, a one-time shock. You mark it, you lift it out, and the line goes on like it was never there." He clicked. The second plot looked the same at the bad dot and wrong everywhere after it. "The second kind comes in through the part that carries forward. It doesn't sit still. It never quite gets to zero, and you don't lift it out. It's in everything that comes after."
+He put up two little plots, almost the same, a line of dots walking left to right with one dot flung up off the line. "The first kind sits on a single point. A sensor failed, somebody fat-fingered the entry, a one-time shock. You mark it, you lift it out, and the line goes on like it was never there." He clicked. The second plot looked the same at the bad dot and wrong everywhere after it. "The second kind comes in through the part that carries forward. It's in everything that comes after."
 
-Vee wrote *outlier: additive vs. innovational*, and under it, because he said it twice, *never all the way gone*, and then her pen stopped, because Randi had shifted beside her and her knee had come to rest against Vee's knee under the little fold-out desk, and it rose in her with no decent proportion to its cause. She was thinking about Sunday again, the kitchen, the wet light. She gave the board another honest minute.
+Then Randi shifted beside her, and her knee came to rest against Vee's knee under the little fold-out desk, and it rose in her with no decent proportion to its cause. She was thinking about Sunday again, the kitchen, the wet light. She gave the board another honest minute.
 
 The hour broke up the way it always did. Cassie was saying something about the reading, whether the problem set was the odd ones or all of them, and Vee answered her without hearing herself, already turned a few degrees the other way, already finding Randi's wrist with two fingers.
 

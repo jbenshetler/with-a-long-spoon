@@ -36,7 +36,7 @@ The professor chose that moment to begin.
 
 Somebody gave the obvious answer. He smiled the smile of a man who had laid the same trap a hundred times. "Now put the two years together."
 
-Vee made herself pull her eyes to the front, the good student coming up for air from her own life to learn a thing she would never use. And she did learn it, for a while. She followed the two columns up the screen, the numbers refusing to add the way numbers were supposed to. She gave it a good forty seconds, honest attention, her pen even moving.
+Vee made herself pull her eyes to the front, the good student coming up for air from her own life to learn a thing she would never use. She gave it a good forty seconds, honest attention, her pen even moving.
 
 It was when she came back up out of the numbers that she understood Cassie had never gone down into them at all.
 
@@ -64,8 +64,8 @@ And that was Vee for the length of the lecture, turned between the two of them, 
 
 Up front, the professor reached his reversal. The little red dot settled on one number at the foot of a column.
 
-"Each year on its own, the first man is the better hitter. Put the two years together and the second man is. Same numbers. Nobody touched one of them." He let it sit. "A thing can run one way across every short stretch you measure and the opposite way across the whole of it."
+"Each year on its own, the first man is the better hitter. Put the two years together and the second man is. Same numbers. Nobody touched one of them." He let it sit.
 
-Vee wrote *short stretches can lie against the whole* and underlined it, because it had the ring of an exam question. The professor told them that was all, in the voice he told them everything in, and let them go.
+The professor told them that was all, in the voice he told them everything in, and let them go.
 
 They came down the tiered steps in the loose knot of the emptying room, Vee in the middle of it, Cassie on one side with her bag hauled up onto both shoulders, Randi on the other already deep into Saturday, which was hers, a heel height Vee would need and hadn't known to need. And Vee walked out into the bright cold noon between the two of them, happy and starving and on time, now, for nothing, the dress three blocks back in a closet, zipped in its bag, still shown to not one living soul.
