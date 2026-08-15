@@ -16,7 +16,8 @@
       "Edit(/tmp/**)",
       "Write(/tmp/**)",
       "mcp__packet__list_packet",
-      "mcp__packet__read_packet"
+      "mcp__packet__read_packet",
+      "mcp__packet__write_output"
     ],
     "additionalDirectories": [
       "/tmp"

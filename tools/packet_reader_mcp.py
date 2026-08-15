@@ -35,6 +35,7 @@ from mcp.server import MCPServer
 
 REPO = Path(__file__).resolve().parent.parent
 BASE = (REPO / "reviews" / "cold-read" / ".packets").resolve()
+REVIEWS_ROOT = (REPO / "reviews" / "cold-read").resolve()
 
 _TOKEN_RE = re.compile(r"^[0-9a-f]{32}$")
 _NAME_RE = re.compile(r"^[A-Za-z0-9][A-Za-z0-9._-]*$")
@@ -58,7 +59,8 @@ def _packet_dir(packet_id: str) -> Path:
 )
 def list_packet(packet_id: str) -> str:
     d = _packet_dir(packet_id)
-    names = sorted(p.name for p in d.iterdir() if p.is_file())
+    # Dotfiles (.dest/.header) are internal routing markers — never listed or readable.
+    names = sorted(p.name for p in d.iterdir() if p.is_file() and not p.name.startswith("."))
     return "\n".join(names)
 
 
@@ -74,6 +76,33 @@ def read_packet(packet_id: str, name: str) -> str:
     if f.parent != d or not f.is_file():
         raise ValueError("no such file in this packet")
     return f.read_text(encoding="utf-8")
+
+
+@mcp.tool(
+    description="Save your finished output (your Reader reaction, or your checkpoint) to "
+    "your packet's pre-assigned destination. Call this ONCE, at the very end, with your "
+    "complete output text as `text` and nothing else — no preamble, no headings you were "
+    "not asked for. Returns a confirmation."
+)
+def write_output(packet_id: str, text: str) -> str:
+    d = _packet_dir(packet_id)
+    dest_file = d / ".dest"
+    if not dest_file.is_file():
+        raise ValueError("this packet has no output destination")
+    rel = dest_file.read_text(encoding="utf-8").strip()
+    header = (d / ".header").read_text(encoding="utf-8") if (d / ".header").is_file() else ""
+    dest = (REPO / rel).resolve()
+    # Jail: writes are permitted ONLY under reviews/cold-read/, and only to a .md file.
+    if REVIEWS_ROOT not in dest.parents or dest.suffix != ".md":
+        raise ValueError("destination not permitted")
+    body = (text or "").strip()
+    if body.lower().startswith("tool_uses:"):
+        body = body.split("\n", 1)[1].lstrip() if "\n" in body else ""
+    if len(body) < 200:
+        raise ValueError("output too short to save")
+    dest.parent.mkdir(parents=True, exist_ok=True)
+    dest.write_text(header + body + "\n", encoding="utf-8")
+    return f"saved {len(body)} chars to {rel}"
 
 
 if __name__ == "__main__":

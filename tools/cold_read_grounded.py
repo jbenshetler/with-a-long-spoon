@@ -80,6 +80,18 @@ def boundary(n: int, decade: int) -> int:
     return ((n - 1) // decade) * decade
 
 
+def memory_line(n: int, decade: int) -> str:
+    """Human-readable description of chapter n's grounded memory, for the review header."""
+    b = boundary(n, decade)
+    if b > 0 and b < n - 1:
+        return f"ck-ch{b:03d} + raw ch{b + 1:03d}..ch{n - 1:03d}"
+    if b > 0:
+        return f"ck-ch{b:03d} (no window)"
+    if n > 1:
+        return f"raw ch001..ch{n - 1:03d} (pre-first-checkpoint)"
+    return "— (opening, cold)"
+
+
 def checkpoint_path(model_id: str, b: int) -> Path:
     return REPO / f"reviews/cold-read/{model_id}/checkpoints/ck-ch{b:03d}.md"
 
@@ -204,10 +216,19 @@ def _write_chunked_packet(text: str, readme_head: str, readme_tail: str) -> tupl
     return token, d, ["00-README.md"] + names
 
 
+def _set_destination(d: Path, dest_rel: str, header: str) -> None:
+    """Record where write_output should persist this packet's result (routing markers the
+    MCP server reads; never listed or readable by the subagent)."""
+    (d / ".dest").write_text(dest_rel + "\n", encoding="utf-8")
+    (d / ".header").write_text(header, encoding="utf-8")
+
+
 def emit_packet(model_id: str, n: int, decade: int) -> tuple[str, Path, list[str]]:
     """Write chapter n's reading packet (the assembled grounded read prompt — jacket +
     checkpoint + window + this chapter) as sub-cap chunk files under a token dir, for a
     sandboxed blind-reader-grounded subagent. Returns (token, dir, ordered names)."""
+    slug = vol1_slugs()[n - 1]
+    title = checkpoint_bundle.display_title(slug)
     text = build_prompt(model_id, n, decade)
     head = ("This is your reading packet — ONE continuous document (your jacket, your "
             "grounded memory checkpoint, the recent chapters oldest→newest, and finally "
@@ -216,11 +237,16 @@ def emit_packet(model_id: str, n: int, decade: int) -> tuple[str, Path, list[str
             "before you write anything:\n\n")
     tail = ("Concatenate the parts in order — the section headers inside them tell you "
             "which is the checkpoint, the recent chapters, and THIS CHAPTER. Then write "
-            "ONLY your Reader reaction per your instructions.\n")
-    return _write_chunked_packet(text, head, tail)
+            "your Reader reaction and save it with write_output.\n")
+    token, d, ordered = _write_chunked_packet(text, head, tail)
+    header = (f"# Cold read (grounded) — {title}\n\n"
+              f"*scene: scenes/{slug}.md · model: {model_id} · memory: {memory_line(n, decade)} · "
+              f"reader-protocol: {READER_PROTOCOL}*\n\n## Reader reaction\n\n")
+    _set_destination(d, f"reviews/cold-read/{model_id}/grounded/{slug}.md", header)
+    return token, d, ordered
 
 
-def emit_bundle_packet(to_b: int) -> tuple[str, Path, list[str]]:
+def emit_bundle_packet(to_b: int, model_id: str) -> tuple[str, Path, list[str]]:
     """Write the clean prose bundle for chapters 1..to_b as sub-cap chunk files under a
     token dir, for a sandboxed blind-extractor subagent to mint ck-ch{to_b}. Returns
     (token, dir, ordered names)."""
@@ -230,8 +256,13 @@ def emit_bundle_packet(to_b: int) -> tuple[str, Path, list[str]]:
             "numbered parts below. Read EVERY part, IN ORDER, with your packet tool "
             "(list_packet, then read_packet for each), before you write anything:\n\n")
     tail = ("They are consecutive slices of the same document; concatenate them in order. "
-            "Then produce your checkpoint exactly as your instructions specify.\n")
-    return _write_chunked_packet(text, head, tail)
+            "Then produce your checkpoint and save it with write_output.\n")
+    token, d, ordered = _write_chunked_packet(text, head, tail)
+    header = (f"# Checkpoint — through Chapter {to_b} (grounded, single pass)\n\n"
+              f"*model: {model_id} · span: ch001–ch{to_b:03d} · grounded "
+              f"(full clean prose, sandboxed packet read, no chaining)*\n\n---\n\n")
+    _set_destination(d, f"reviews/cold-read/{model_id}/checkpoints/ck-ch{to_b:03d}.md", header)
+    return token, d, ordered
 
 
 def strip_leading_heading(text: str) -> str:
@@ -366,7 +397,7 @@ def main() -> None:
         return
 
     if args.emit_bundle_packet is not None:
-        token, d, ordered = emit_bundle_packet(args.emit_bundle_packet)
+        token, d, ordered = emit_bundle_packet(args.emit_bundle_packet, model_id)
         print(f"packet_id: {token}")
         print(f"dir: {d.relative_to(REPO)}")
         print(f"parts: {len(ordered) - 1}")
