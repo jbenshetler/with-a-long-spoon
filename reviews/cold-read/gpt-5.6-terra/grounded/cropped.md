@@ -4,30 +4,29 @@
 
 ## Reader reaction
 
-This made me ache for Vee a little. The weekend was good; her parents’ pride is real, and the burned rolls are such a warm little fact. But the cropped photo is painful precisely because it lets them celebrate a version of her that has been made safer for them. Her mother’s hand at her own collarbone felt like a whole judgment delivered without words. I felt Vee doing that familiar work of translating herself into something her parents could bear.
+This made me feel tender and a little lonely for Vee. She is trying so hard to tell the truth without exposing the parts of her life that still don’t have safe names, and Cassie’s question—“So what is he… To you.”—lands exactly where Vee cannot answer. I love that Cassie does not make a spectacle of it. Her restraint is care. But Vee’s being “also, a little, not” grateful that Cassie stops feels painfully true: she wants both protection and to be known.
 
-Cassie is wonderful here. She doesn’t rush to reassure Vee or make Pace into a problem just because Vee can’t give him a neat name. “Is it that you can’t say, or that you don’t want to?” lands hard because it is exact, and because Vee’s “Both” is so honest. I trust Cassie more after this, if anything. And the final beat—Vee grateful Cassie does not push, but “also, a little, not”—is lonely in a very recognizable way. She wants to be respected and she wants someone to insist she can be known.
+I feel warmer toward Cassie here. She is not dazzled by Pace’s accomplishments or the expensive dress; she hears Vee’s uncertainty and asks one precise question. Vee also deepens for me. Her claim that she is “not ashamed” of Pace making the dress—“The opposite, if anything”—feels like a real, hard-won piece of her. Yet she still cannot make Pace and her own desire legible to her father, or quite to herself. I ache for her at the thought that her father would understand sex better than sewing: that care, attention, and craft are what cannot fit his world.
 
-Pace pulls in two directions for me. Vee’s pride that he made the dress is lovely; she is not ashamed of being cared for with that much attention, even if her father could not understand it. Yet this chapter makes clearer how impossible it is for her to tell the whole truth of what he is to her. That is not proof that the relationship is false—far from it—but it leaves me feeling the gap around her. Randi isn’t present, but I felt her absence: Vee has someone she tells so much to, and still cannot say the central thing cleanly to Cassie.
+There is no erotic action, but the chapter keeps its charge through the dress and the cropped photograph. The dress remains hot because it holds all that private seeing between Vee and Pace, while the family photo cuts her off at the waist, making her publicly acceptable. “Cropped” is an exact title: Vee literally cropped the picture, but she is also offering cropped versions of Pace and herself to her parents—and now, in a different way, to Cassie. That lands as sad rather than deceptive. She is not lying about what she feels; she just cannot yet give it a shape.
 
-There is no erotic heat in the immediate scene, but the dress remains charged. “Pace takes that dress off me” gives the private life just beyond this dinner table a pulse. The stronger pull, though, is emotional: I wanted Vee to be able to speak without having to crop herself down first.
+I have no new suspicion of Cassie at all. If anything, she is the person I trust most here. My existing unease around Pace is not sharpened by this chapter; Vee’s father’s instinct that “too good is its own kind of suspicious” is understandable, but the page has shown me care from Pace as well as secrecy. The unease is that Vee has so much real happiness and so little language she can safely use for it.
 
-“Cropped” is exact and a little devastating. It is literally the induction photograph cut at the waist, but it also feels like the version of Vee she offers her parents, and maybe the version she can offer Cassie. The book title, *A Polite Invitation*, still promises entry—into Pace’s house, Randi’s world, desire—but here I feel the cost of crossing those doors: the old rooms of her life may not have language for who she becomes. *With a Long Spoon* still feels ominous to me, especially because the tenderness is so convincing. The jacket’s “Every yes was freely given. That was the problem” sits heavily here: Vee is choosing, but the truths around her remain cropped out.
+The chapter did not drag. It is quiet, but every turn of the conversation reveals a different boundary around Vee’s life. The line that caught me most was: “She had nothing that fit in Cassie’s frame.” It makes me want the next chapter to let Vee be more fully known—though from here, I worry that telling the whole truth could hurt her badly. The book title, *A Polite Invitation*, still feels like it promises doors opened gently, with choices that are real but not uncomplicated. *With a Long Spoon* still carries a faint warning I can’t yet place. The jacket’s closing beat, “Every yes was freely given. That was the problem,” feels especially close here: Vee is choosing this life, but cannot yet say plainly what it is.
 
-I want to keep reading because this feels like a quiet pressure point, not a pause. My guess from here is that Vee’s inability to name Pace to Cassie will matter—not because Cassie is suspicious on the page, but because Vee is beginning to feel the limits of the story she can tell.
+**Cast present (in person):** Vee and Cassie.  
+**Mentioned-only:** Vee’s parents, Vee’s sister and brother-in-law, their baby, Pace.
 
-**Cast present (in person):** Vee and Cassie. Mentioned only: Vee’s parents, Vee’s sister, her sister’s husband and baby, Pace.
+**Heat:** 1 — no sex, but the burgundy dress carries private erotic history into the conversation.
 
-**Heat:** 0 — only a brief remembered implication around the dress.
+**Romance:** 1 — Vee speaks with proud, inarticulate feeling about Pace; Cassie and Vee’s friendship is quietly intimate.
 
-**Romance:** 1 — Vee’s pride in Pace’s making the dress carries quiet intimacy.
+**Motifs & images:** Repeat: the burgundy dress; being looked at; clothes as concealment/display; the cropped image echoes Vee’s careful self-presentation. First: cropping as an explicit image of partial truth.
 
-**Motifs & images:** Repeat: the burgundy dress, now literally cropped in the photograph; clothing as both display and concealment. Repeat: food and being fed, here made domestic through dinner and Dad’s burned rolls. First/stronger turn: cropping as self-editing.
+**Symbolism:** The waist-cropped photograph reads as the socially acceptable version of Vee—her body, desire, and the dress’s private meaning removed from view.
 
-**Symbolism:** The cropped photograph plainly stands for the partial, parent-acceptable Vee; the collarbone gesture becomes judgment without speech.
+**Characterization:** Vee deepens through her pride, uncertainty, and hunger to be both protected and pressed toward honesty. Cassie remains consistent and gains dimension through her exact, non-demanding care. Pace is only described, but Vee’s sense of his strangeness and generosity comes through clearly.
 
-**Characterization:** Vee deepens through the difference between what she can say, cannot say, and is proud of. Cassie remains sharply, compassionately herself. Pace is deepened through Vee’s pride in his sewing, while still difficult for her to place in ordinary language.
+**Pace — within the chapter:** Measured and earned; the conversation has room for silence.
 
-**Pace — within the chapter:** Quiet and earned; the conversation moves naturally from family warmth into the painful question beneath it.
-
-**Pace — chapter to chapter:** Holding rather than accelerating, but it adds real pressure to Vee’s divided life.
+**Pace — chapter to chapter:** Holding rather than surging, but usefully: after the project’s discovery, this returns to Vee’s private difficulty of naming her life.

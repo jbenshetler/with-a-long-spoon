@@ -4,31 +4,30 @@
 
 ## Reader reaction
 
-This made me ache for Vee. The shirt had been such a soft, private proof of how much she could carry Pace with her, and watching it turn unbearable in her hands felt cruelly intimate. “It hid what it was” got me immediately: she is trying to make her attachment look ordinary even to herself, and then she cannot bear the ordinary version either. When she puts it directly on her bare skin, I felt the relief of it with her. Of course it works. Of course she knows his scent down to “the sawdust and the salt of the work.” And then the turn — “the heat in the shirt was her own, given back” — landed like cold water.
+This hurt. Vee stripping off the shirt because even its comfort becomes unbearable feels painfully true: she wants its warmth, then realizes she is borrowing that warmth from herself. “It had promised him close and there was no one close.” That landed hard. I feel fierce sympathy for her, and some anger on her behalf—not because Pace has been cruel, but because his tenderness has become the place where she cannot stop needing an answer he has not given.
 
-I still believe Pace’s care for her is real; nothing here makes me suddenly think he has been false. But Vee’s need is real too, and he has not given her a way to know the thing she most needs to know. That’s a painful place to leave her: stripped bare not in some hot, freeing way but because she cannot stand the counterfeit closeness of the shirt and cannot stand the cold without it. Cassie breathing below makes the loneliness sharper. There is someone who loves Vee steadily, in the room, but Vee cannot wake her for this particular hurt.
+Cassie sleeping below makes the loneliness sharper. She is right there, steady as ever, but Vee cannot bring this particular ache down from the top bunk. The shirt’s little public disguise—over her own shirt, so it can be “just a thing she wore”—also gets me. She is hiding the evidence of how far gone she is even from the person most likely to see her gently.
 
-The erotic charge is low but very alive in the bodily detail: bare skin, his shirt, her breathing in the places it touched. It is tenderness turned raw rather than a sex scene, and it worked on me because it comes directly out of all the warmth between them. I did not feel manipulated by it. The chapter is almost painfully simple, and the last image earns that simplicity.
+I still feel the pull of Vee and Pace; the care in that shirt is real, and the accumulated details Vee names—his warm rooms, food, work—make it impossible to dismiss their connection as empty. But this chapter lets the absence sit bare. Pace may sleep easily for reasons Vee cannot know, yet from inside her experience, the imbalance is agonizing: she has all these physical proofs and no language she can safely stand on. I don’t mistrust his care itself. I do feel newly uneasy about how much Vee has to do alone to make its meaning cohere.
 
-“Bare” means her body in the cold, obviously, but more than that it is the removal of every layer she has used to make the relationship feel safe: the shirt over her own shirt, the scent, the evidence of his rooms and meals and hands. What remains is the question she cannot ask. The title gives away the physical undressing a little, but not the emotional bareness of it.
+There is no erotic charge here in the sexual sense, but there is a raw bodily intimacy in her putting his shirt directly on her skin, breathing it in, then choosing the cold instead. It is the opposite of swoon: the object that has soothed her becomes proof of distance.
 
-*A Polite Invitation* still feels like a promise of being welcomed into warmth, desire, and a life larger than “fine”; from here, I feel the cost inside that welcome more sharply. *With a Long Spoon* makes me think of closeness that may require caution, though I do not yet know how to hold that against the tenderness I have actually read. And the blurb’s closing beat — “Every yes was freely given. That was the problem.” — feels more frightening now, because Vee is not being deprived of choice; she is being left to choose inside an uncertainty she cannot name.
+“Bare” is exact. Vee is literally bare in a cold room, but more importantly she has no protective story left—not “boyfriend,” not “love,” not even the shirt. The title gave away the chapter’s emotional exposure a little, but not its particular devastation. *A Polite Invitation* still feels like a promise of open doors and welcomed wanting; here, the invitation’s gentleness has a loneliness inside it. *With a Long Spoon* continues to make me think of closeness held at a dangerous distance. The packet’s closing beat, “Every yes was freely given. That was the problem,” feels especially cruelly alive now: Vee has freely given so much, and cannot make that gift answer the question she needs answered.
 
-I desperately want her to ask him, or to let Cassie see that she is not okay, but I also understand why she won’t. My guess from here is that this silence will not stay contained just because she puts it “under the rug”; it already has too much body in it.
+I want someone—Pace, ideally—to meet her where she is. But from here, my guess is that Vee will keep trying to turn evidence into certainty rather than asking the question outright, because asking feels more dangerous than cold.
 
-**Cast present (in person):** Vee; Cassie is physically present below, asleep.  
-**Mentioned-only:** Pace.
+**Cast present (in person):** Vee and Cassie. Mentioned-only: Pace.
 
-**Heat:** 1 — sensual closeness through Pace’s shirt against Vee’s bare skin, but no sexual activity.
+**Heat:** 0 — no sexual activity; intimate bodily longing around Pace’s shirt.
 
-**Romance:** 1 — intense longing and remembered tenderness, made painful by the missing words.
+**Romance:** 1 — love and attachment are intensely present, but as ache rather than shared tenderness.
 
-**Motifs & images:** Repeat: cold dorm versus Pace’s warm house; the flannel/shirt as his portable presence; clothing concealing and revealing; hunger and being fed in her inventory of what he gives her; the unnamed word. First: the shirt discarded in a heap as rejected comfort.
+**Motifs & images:** Repeat: cold dorm versus Pace’s warm house; the flannel shirt as comfort and scent; hunger and being fed in Vee’s inventory of him; naming/not naming; warmth that means being allowed to stay. First: the shirt discarded in a heap.
 
-**Symbolism:** The shirt becomes closeness that cannot answer her; its warmth being her own makes the absence impossible to evade.
+**Symbolism:** The shirt becomes a failed substitute for presence and certainty; the bare cold is Vee refusing the comfort that can no longer answer her.
 
-**Characterization:** Vee deepens: she is not merely anxious but exact about the difference between being cared for and being named. Cassie’s sleeping presence remains quietly steady.
+**Characterization:** Vee deepens sharply—she is not melodramatic, just trapped in a question she cannot voice. Cassie’s sleeping presence quietly preserves her role as dependable home. Pace is felt through Vee’s memories rather than newly revealed.
 
-**Pace — within the chapter:** Deliberate, quiet, and earned; it stays with one feeling until it hurts.
+**Pace — within the chapter:** Quiet, compressed, and earned; the repetition of the shirt’s comfort turning unbearable works.
 
-**Pace — chapter to chapter:** Building. After the failed exchange over love and the restaurant fight, this is not a repeat so much as the private consequence.
+**Pace — chapter to chapter:** Building. After the unresolved exchange and fight in the prior chapters, this takes the same wound inward rather than repeating the argument.

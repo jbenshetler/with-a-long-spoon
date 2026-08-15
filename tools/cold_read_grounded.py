@@ -208,6 +208,39 @@ def resolve_range(args) -> list[int]:
     return list(range(start, end + 1))
 
 
+def mint_checkpoints(model_id: str, boundaries: list[int], args, jobs: int = 1) -> None:
+    """Wave 1 of the DAG: mint the missing decade checkpoints in parallel.
+
+    Each checkpoint is grounded independently (from raw prose 1..B, one pass) with
+    no dependency on any other checkpoint, so they fan out freely. Minting is a
+    separate, higher-effort job than reading, so it always runs the extractor at
+    high effort regardless of the reader's --effort. Runs checkpoint_extract.py as
+    subprocesses (independent codex sessions) capped at `jobs`.
+    """
+    import subprocess
+    from concurrent.futures import ThreadPoolExecutor, as_completed
+    extract = str(REPO / "tools" / "checkpoint_extract.py")
+    n = max(1, min(jobs, len(boundaries)))
+    print(f"[wave1] minting {len(boundaries)} checkpoint(s) {boundaries} · jobs={n} · effort=high",
+          file=sys.stderr)
+
+    def mint(b: int):
+        out = checkpoint_path(model_id, b)
+        cmd = [extract, "--model", args.model, "--from", "1", "--to", str(b),
+               "--effort", "high", "--out", str(out)]
+        t0 = time.time()
+        r = subprocess.run(cmd, capture_output=True, text=True)
+        if r.returncode != 0 or not out.exists():
+            raise RuntimeError(f"checkpoint mint failed for ck-ch{b:03d}:\n{r.stderr.strip()[-800:]}")
+        return b, time.time() - t0
+
+    with ThreadPoolExecutor(max_workers=n) as ex:
+        futs = {ex.submit(mint, b): b for b in boundaries}
+        for fut in as_completed(futs):
+            b, dt = fut.result()
+            print(f"[wave1] ck-ch{b:03d} minted  {dt:.0f}s", file=sys.stderr)
+
+
 def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--model", default="gpt-5.6-terra", help="codex model id")
@@ -219,6 +252,14 @@ def main() -> None:
     ap.add_argument("--effort", default="low", choices=["none", "low", "medium", "high"],
                     help="reader reasoning effort (default low; high turns the reader into a critic)")
     ap.add_argument("--fresh", action="store_true", help="regenerate existing grounded reviews")
+    ap.add_argument("--jobs", "-j", type=int, default=1, metavar="N",
+                    help="parallel reads (default 1). Reads are independent (grounded, no "
+                    "chain), so wave 2 fans out to N concurrent codex sessions. On a slow "
+                    "model this is the difference between ~8h serial and ~8h/N.")
+    ap.add_argument("--auto-mint", action="store_true",
+                    help="wave 1: mint any missing decade checkpoints first (in parallel, "
+                    "capped by --jobs, at high effort) instead of refusing. Off by default — "
+                    "minting is a distinct, more expensive job.")
     ap.add_argument("--emit-prompt", type=int, default=None, metavar="N",
                     help="print chapter N's assembled prompt to stdout and exit (no model call)")
     ap.add_argument("--check", action="store_true",
@@ -244,37 +285,81 @@ def main() -> None:
             print("no checkpoints needed for this range (all chapters ≤ first boundary)")
         return
 
-    # Fail fast if any needed checkpoint is missing, before spending a single call.
-    for b in sorted({boundary(n, args.decade) for n in chapters} - {0}):
-        load_checkpoint(model_id, b)
+    needed = sorted({boundary(n, args.decade) for n in chapters} - {0})
+    missing = [b for b in needed if not checkpoint_path(model_id, b).exists()]
+    if missing:
+        if not args.auto_mint:
+            # Fail fast, naming every gap, before spending a single read call.
+            for b in missing:
+                load_checkpoint(model_id, b)  # raises with the mint command for the first
+        mint_checkpoints(model_id, missing, args, jobs=args.jobs)
+
+    slugs = vol1_slugs()
+    todo = [n for n in chapters
+            if args.fresh or not (REPO / f"reviews/cold-read/{model_id}/grounded/{slugs[n-1]}.md").exists()]
+    skipped = [n for n in chapters if n not in todo]
+    for n in skipped:
+        print(f"[skip] ch{n:03d} {slugs[n-1]} (exists)", file=sys.stderr)
+    if not todo:
+        print("nothing to do (all requested chapters already read; use --fresh to regenerate)",
+              file=sys.stderr)
+        return
 
     import cold_read  # noqa: E402  (make_codex_agent_fn — imports tomllib, py3.11+)
     system_prompt = load_agent_prompt(AGENT_DEF)
-    agent_fn, close = cold_read.make_codex_agent_fn(system_prompt=system_prompt, effort=args.effort)
-    slugs = vol1_slugs()
-    try:
-        for n in chapters:
-            slug = slugs[n - 1]
-            out = REPO / f"reviews/cold-read/{model_id}/grounded/{slug}.md"
-            if out.exists() and not args.fresh:
-                print(f"[skip] ch{n:03d} {slug} (exists)", file=sys.stderr)
-                continue
-            prompt = build_prompt(model_id, n, args.decade)
-            approx = int(len(prompt.split()) * 1.35)
-            b = boundary(n, args.decade)
-            print(f"[run] ch{n:03d} {slug}  memory=ck{b:03d}+win  ~{approx:,} tok  "
-                  f"effort={args.effort} …", file=sys.stderr)
+    jobs = max(1, min(args.jobs, len(todo)))
+
+    # A bounded pool of pre-built codex sessions: created serially (so token refresh
+    # never races), reused across tasks, and handed out one-per-in-flight-read via a
+    # queue. This caps concurrency at `jobs` and reuses sessions rather than spinning
+    # up one per chapter.
+    from queue import Queue
+    from concurrent.futures import ThreadPoolExecutor, as_completed
+    pool: "Queue" = Queue()
+    closes = []
+    for _ in range(jobs):
+        fn, close = cold_read.make_codex_agent_fn(system_prompt=system_prompt, effort=args.effort)
+        closes.append(close)
+        pool.put(fn)
+
+    def read_one(n: int):
+        slug = slugs[n - 1]
+        b = boundary(n, args.decade)
+        prompt = build_prompt(model_id, n, args.decade)
+        fn = pool.get()
+        try:
             t0 = time.time()
-            result = agent_fn(prompt=prompt, model=args.model, label=f"grounded-{slug}")
-            reaction = strip_leading_heading(result.get("output") or "")
-            if len(reaction) < 200:
-                raise SystemExit(f"suspiciously short reaction for {slug} ({len(reaction)} chars)")
-            path = write_review(model_id, n, args.decade, reaction)
-            u = result.get("usage") or {}
-            print(f"[done] {path.relative_to(REPO)}  in={u.get('input')} out={u.get('output')} "
-                  f"{time.time() - t0:.0f}s", file=sys.stderr)
+            result = fn(prompt=prompt, model=args.model, label=f"grounded-{slug}")
+        finally:
+            pool.put(fn)
+        reaction = strip_leading_heading(result.get("output") or "")
+        if len(reaction) < 200:
+            raise RuntimeError(f"suspiciously short reaction for {slug} ({len(reaction)} chars)")
+        path = write_review(model_id, n, args.decade, reaction)
+        u = result.get("usage") or {}
+        return n, slug, b, path, u, time.time() - t0
+
+    print(f"[wave2] {len(todo)} reads · jobs={jobs} · effort={args.effort}", file=sys.stderr)
+    errors = []
+    try:
+        with ThreadPoolExecutor(max_workers=jobs) as ex:
+            futs = {ex.submit(read_one, n): n for n in todo}
+            for i, fut in enumerate(as_completed(futs), 1):
+                n = futs[fut]
+                try:
+                    n, slug, b, path, u, dt = fut.result()
+                    print(f"[done {i}/{len(todo)}] ch{n:03d} {slug}  memory=ck{b:03d}+win  "
+                          f"in={u.get('input')} out={u.get('output')} {dt:.0f}s", file=sys.stderr)
+                except Exception as e:
+                    errors.append((n, e))
+                    print(f"[FAIL {i}/{len(todo)}] ch{n:03d} {slugs[n-1]}: {type(e).__name__}: {e}",
+                          file=sys.stderr)
     finally:
-        close()
+        for c in closes:
+            c()
+    if errors:
+        raise SystemExit(f"{len(errors)} read(s) failed: "
+                         + ", ".join(f"ch{n:03d}" for n, _ in sorted(errors)))
 
 
 if __name__ == "__main__":
