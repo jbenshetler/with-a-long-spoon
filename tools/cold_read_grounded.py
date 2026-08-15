@@ -226,6 +226,52 @@ def emit_packet(model_id: str, n: int, decade: int) -> tuple[str, Path, list[str
     return token, d, ["00-README.md"] + ordered
 
 
+def emit_bundle_packet(to_b: int, max_chars: int = 50000) -> tuple[str, Path, list[str]]:
+    """Write the clean prose bundle for chapters 1..to_b as sub-cap chunk files under
+    an unguessable token dir, for a SANDBOXED blind-extractor subagent to mint a
+    grounded checkpoint (no general Read anywhere in the pipeline). Returns (token,
+    dir, ordered file names). Splits on chapter/line boundaries so no part exceeds the
+    tool output cap; the extractor reads every part in order and consolidates."""
+    import secrets
+    bundle = checkpoint_bundle.build_bundle(1, to_b, jacket=True)
+    token = secrets.token_hex(16)
+    d = (PACKET_BASE / token)
+    d.mkdir(parents=True, exist_ok=True)
+
+    # Greedy line-boundary packing into <= max_chars parts (prefer splitting at the
+    # `===== CHAPTER` delimiters, else at any line).
+    lines = bundle.split("\n")
+    parts: list[list[str]] = [[]]
+    size = 0
+    for ln in lines:
+        if size + len(ln) + 1 > max_chars and parts[-1]:
+            parts.append([])
+            size = 0
+        parts[-1].append(ln)
+        size += len(ln) + 1
+
+    names: list[str] = []
+    n = len(parts)
+    for i, chunk in enumerate(parts, start=1):
+        name = f"{i:02d}-part.md"
+        (d / name).write_text(
+            f"[bundle part {i} of {n} — read in order, this is one continuous document]\n\n"
+            + "\n".join(chunk).strip() + "\n", encoding="utf-8")
+        names.append(name)
+
+    readme = (
+        "This is a reading packet holding ONE continuous document — the book's jacket "
+        "followed by the clean text of the chapters to consolidate — split across the "
+        f"{n} part files below. Read EVERY part, IN THIS ORDER, using your packet tool "
+        "(list_packet then read_packet for each), before you write anything:\n\n"
+        + "\n".join(f"  {i+1}. {nm}" for i, nm in enumerate(names))
+        + "\n\nThey are consecutive slices of the same document; concatenate them in "
+        "order. Then produce your checkpoint exactly as your instructions specify.\n"
+    )
+    (d / "00-README.md").write_text(readme, encoding="utf-8")
+    return token, d, ["00-README.md"] + names
+
+
 def strip_leading_heading(text: str) -> str:
     """Drop a leading `tool_uses:` echo or a `### Reader reaction` heading if present."""
     t = text.strip()
@@ -332,6 +378,10 @@ def main() -> None:
                     help="write chapter N's reading packet as small clean files under an "
                     "unguessable token dir (for the sandboxed packet MCP server / free "
                     "Claude-subagent reads); print the token + files and exit (no model call)")
+    ap.add_argument("--emit-bundle-packet", type=int, default=None, metavar="B",
+                    help="write the clean prose bundle for chapters 1..B as sub-cap chunk "
+                    "files under a token dir, for a sandboxed blind-extractor subagent to "
+                    "mint ck-ch{B}; print the token + files and exit (no model call)")
     ap.add_argument("--check", action="store_true",
                     help="list the checkpoints the requested range needs (present/missing) and exit")
     args = ap.parse_args()
@@ -351,6 +401,13 @@ def main() -> None:
         print("files (read in this order):")
         for nm in ordered:
             print(f"  {nm}")
+        return
+
+    if args.emit_bundle_packet is not None:
+        token, d, ordered = emit_bundle_packet(args.emit_bundle_packet)
+        print(f"packet_id: {token}")
+        print(f"dir: {d.relative_to(REPO)}")
+        print(f"parts: {len(ordered) - 1}")
         return
 
     chapters = resolve_range(args)
