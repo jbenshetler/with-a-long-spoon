@@ -170,9 +170,13 @@ Menu by job (flagship first):
 | `{{The New Ordinary}}` (the washed shirt) | devastating tenderness; "smelling like you" | low — pure emotional clip |
 | `{{Rock}}` (math is beautiful) | "he's deep, not just hot" — the interiority sell | none — character bait |
 | `{{Two Towels}}` (the patent) | power *pointed at mercy* — the anti-dark-romance green flag | none — character bait |
+| `{{May I Choose}}` ("may I choose?") | the safest power-dynamics clip — D/s at a dinner table | none — con-misread-safe |
+| `{{Leave No Trace}}` (the truck) | power dynamics with **Vee in command** | coded (excise the unbuttoning) |
+| `{{Sorority}}` ("never had a friend like this") | the Vee/Randi friendship — "not just the couple" | low — the Randi axis |
 | `{{All the Time}}` (the brunch) | "finally hungry out loud" — friendship/glamour warmth | low — the Randi axis |
 
-Note the division of labor: `{{A Round}}` is *also* the prestige short (with
+The **locked posting rotation** (which of these leads, in what order, with card copy) is
+in §8a. Note the division of labor: `{{A Round}}` is *also* the prestige short (with
 `{{Two Towels}}`, per `meta-plan-free-sample.md`); the retail free *sample* is still
 `{{The Bench}}`→`{{The Pointing Game}}`. Social bait, prestige short, and retail sample
 are three different jobs — one chapter can serve more than one.
@@ -255,11 +259,60 @@ Four worked clips, each a different job (b-roll + text overlay, no bodies — §
    Caption: *not flowers. not jewelry. she asked him to re-wear her shirt so it'd smell
    like him again 🥲 #slowburn #booktok* — door: **slow burn** + soft **worship**.
 
-**Ranking for a first post:** the **math/paint** clip leads (the differentiator-proof no
-clone can copy), the **patent** beat close behind as the best *anti-dark-romance* clip
-(§5 hook made literal), then **long-division** as the characterization follow-up.
-Borrowed-testimony rule still applies: the cleanest way to say "beautifully written" is
-to let an ARC reviewer say it in the caption (§4) — your own copy can't assert quality
+### The locked rotation (author sign-off 2026-08-15)
+
+Four tiers, scouted from drafted prose; every quoted line confirmed **CLEAN** (no
+explicit anatomy/act on the page) unless noted. Post teaser-heavy, with the flagship and
+depth clips interleaved. The four worked clips above (math/paint, long-division, patent,
+shirt) are the Tier-3 core.
+
+**First post — `{{May I Choose}}` (the safest cold hook).** Claims `#powerdynamics`
+without a graphic word: a dinner table, nothing closer than bread, the D/s grammar
+visible to anyone who knows to look and invisible to anyone who doesn't — impossible to
+misfile as dark romance (§7). Punchy multi-card:
+> **1.** *Because she'd asked for rescue without quite asking, he set his own menu down.* "May I choose?"
+> **2.** *Three words, and the relief of handing the choice across the table went through her — more than she'd have guessed such a surrender would.*
+> **3.** "Yes," she said. "Please."
+
+Caption: *he asked "may I choose?" and I have not recovered. the power-dynamics book for
+people who don't want a villain. #powerdynamics #slowburn #literaryromance* — door:
+**power dynamics** + slow burn.
+
+**Tier 1 · Flagship — `{{A Round}}`, "found wanting."** The "what the book feels like"
+piece: worship curing shame, wholly interior, con-misread-safe. Passage or multi-card,
+ending on the last line of the scene:
+> "Keep still," he said. … She kept still.
+> She had spent the entire afternoon being seen at her most ashamed and had not, once,
+> been found wanting.
+
+Door: **slow burn** + **worship**. Companion clean beats in the same scene if we want
+variants: "he didn't ogle — he *admired*"; the withdrawal that left the place "ringing";
+"plausible deniability."
+
+**Tier 2 · Teasers (compression; claim `#powerdynamics` safely).** Ultra-short
+scroll-stoppers, the highest-frequency posts — each foregrounding **her agency or his
+worship**, never the hardest command beats (those tilt toward the dark-romance misread,
+§7):
+- `{{Vee on the Bench}}` — *"Wear a skirt."* (it "did more across two days than most men had managed with their hands") — the compression king.
+- `{{Grace}}` — *"The bows at your hips. I want you to undo them. Not me. You."* — he instructs her to give it; consent-forward by construction.
+- `{{Nothing Underneath}}` — *"Those stay on."* — three-word command, immaculate.
+
+**Tier 3 · Depth (Vee/Pace) — the click-in layer.** The four worked clips above, plus:
+- `{{Famished}}` — *"Are you hungry?" — "Famished," she said, and heard it a beat after he did.* (Vee POV, the first night — a **central-couple** beat, not a Randi one; drop the single graphic aftermath line.)
+- `{{Leave No Trace}}` (the truck) — *she crooked a finger. "Come in." … His face went to the full attention, no part of him anywhere else.* **Vee in command** — claims power dynamics with her driving, so the misread risk is low. Excise the unbuttoning inventory (graphic); the summoning and the shivering reversal are clean.
+
+**Tier 4 · Range (Vee/Randi) — "not just the couple."** `{{Sorority}}` — *"It's not going
+to spoil," she said … she had never once in her life had a friend like this.* The
+friendship thesis, clean, caption writes itself. Alternate: the "letting go" speech
+(`{{How It's Done}}`). Door: female-friendship / "finally hungry out loud."
+
+**Hold — the Vee/Randi charge clips.** `{{One Bite}}` "Sticky fingers?" + the goodbye
+kiss/glaze, and the `{{How It's Done}}` "French thing" kiss, are magnetic but
+**pre-spend the why-choose / "the third" payoff reserved for Volume Three** (§5). Bank
+them; do not lead with the ambiguity.
+
+**Borrowed-testimony rule** still applies: the cleanest way to say "beautifully written"
+is to let an ARC reviewer say it in the caption (§4) — your own copy can't assert quality
 credibly, a reader's can.
 
 ## 9. Method (learning it as a newcomer)
