@@ -257,6 +257,108 @@ Fold the prior state in and update what changed, but **preserve everything** —
 durable ledger and a faithful running memory. The next reader has ONLY this plus the
 next chapter — a fact dropped here is a fact the book loses.
 
+## Grounded read (v3) — the chain-free variant
+
+The sections above describe the **chained** instrument: chapter *N* is fed the
+carry-forward of chapter *N−1*, a paraphrase-of-a-paraphrase up to ~50 hops deep. Across
+that chain hard facts decay — whether Vee and Pace have slept together, who "the
+brunette" is — no matter how much retention machinery (standing-state flags, code-level
+retention checks, compact/judge passes) is bolted on, because the decay is *the chain
+itself*, not a missing instruction. The **grounded** variant removes the chain entirely.
+It is **additive** — the chained path (`cold_read.py`, `blind-reader.md`, the per-model
+`<slug>.md` files) is unchanged — so a clone can adopt it without disturbing existing
+runs.
+
+### The grounded contract
+
+Each chapter is read with **grounded memory** reconstructed from ground truth, not
+handed forward by the previous reader:
+
+```
+boundary  B = ((N-1)//decade)*decade          # last decade checkpoint strictly < N (decade=10)
+memory      = grounded checkpoint ck-ch{B}     # minted from the raw clean prose of ch 1..B, ONE pass
+            + raw clean prose of chapters B+1..N-1   # the window since the boundary (real prose, not summary)
+this        = chapter N (clean prose)
+```
+
+For N ≤ 10 there is no checkpoint (B = 0); the reader gets only the raw window of the
+chapters so far (ch 1 opens the book cold). **Zero paraphrase hops** at any depth: the
+checkpoint is grounded (see below) and the window is verbatim prose. Because chapter *N*'s
+memory no longer depends on reader *N−1*, the reads are **mutually independent** — they
+fan out.
+
+### The grounded checkpoint (the memory)
+
+Minted by the **`blind-extractor`** subagent (`.claude/agents/blind-extractor.md`): a
+spec-blind *memory consolidator* (not a reader/critic) that folds the full clean prose of
+ch 1..B into one cumulative checkpoint in a single grounded pass — who's-who (+gender),
+relationship state (with consummation flags), the dramatic-irony ledger, motifs,
+symbolism, open questions, a short impression. It reads only the prose it is given
+(blindness enforced exactly as for the reader). Tooling:
+
+- **`tools/checkpoint_bundle.py`** — emits the clean prose bundle (jacket + chapters,
+  same cleaner as `clean_scene_text`).
+- **`tools/checkpoint_extract.py`** — feeds that bundle to a big-context model in one
+  pass and writes `reviews/cold-read/<model-id>/checkpoints/ck-ch{B:03d}.md`. Runs the
+  extractor at **high effort**. Default model `gpt-5.6-terra` via codex subscription auth
+  (no API tokens); the Claude readers are run as `blind-extractor` subagents and their
+  output persisted by hand (they cannot write). The ch-050 checkpoint per model doubles
+  as the **Volume 1 → Volume 2 feedforward**.
+
+### The grounded reader & harness
+
+- **Reader:** `.claude/agents/blind-reader-grounded.md` — the same blind first-reader as
+  `blind-reader.md`, but its memory is the supplied checkpoint + raw window, and it emits
+  **only a `## Reader reaction`** (felt read + structured block). It writes **no
+  carry-forward** — there is no chain to feed — which removes the entire
+  retention/compaction apparatus from this path.
+- **Harness:** `tools/cold_read_grounded.py` — assembles the prompt per chapter (packet +
+  checkpoint + window + chapter), runs the reader at **low effort** (high turns a reader
+  into a critic), and writes `reviews/cold-read/<model-id>/grounded/<slug>.md`. It refuses
+  rather than mint a missing checkpoint implicitly (`--check` lists what a range needs;
+  minting is a separate, higher-effort job). `--emit-prompt N` prints a chapter's
+  fully-assembled prompt to stdout, so a Claude `blind-reader-grounded` subagent (which
+  consumes no API tokens) can be driven by hand for the same chapter.
+
+### Grounded file format
+
+```
+# Cold read (grounded) — <Display Title>
+
+*scene: scenes/<slug>.md · model: <model-id> · memory: ck-ch<NNN> + raw ch<a>..ch<b> · reader-protocol: v3-grounded-checkpoint*
+
+## Reader reaction
+
+<verbatim reader reaction — felt read, then structured block>
+```
+
+One `##` section only (no `## Carry-forward state`). `na.py` indexes `## Reader reaction`,
+so grounded reviews remain searchable via the reviews lane.
+
+### The packet is injected every chapter
+
+A real reader carries the cover + blurb the whole run. With no chain to carry it, the
+grounded harness prepends the volume packet to **every** chapter's prompt (not just the
+opening). Relying on the checkpoint to re-surface it silently dropped the tagline on late
+chapters (observed at ch 50).
+
+### Minor position leak (accepted)
+
+The grounded checkpoint states it covers "through chapter B" and cites chapter numbers in
+its ledger, so a grounded reader knows roughly how deep it is — a mild position signal the
+chained reader lacks. The window and this-chapter delimiters are **title-only** (no
+numbers) to keep the leak to the checkpoint's own memory, where it is inherent and
+harmless.
+
+### Parallelism the design enables (two waves)
+
+Because checkpoints are grounded (each from raw prose 1..B, no dependency on any other
+checkpoint) and reads are independent, a full grounded run is two fan-out waves, not a
+50-deep serial chain: **(1)** mint ck-010/020/030/040 in parallel; **(2)** fan out all 50
+reads in parallel. `cold_read_grounded.py` runs them sequentially today (correctness
+first — order does not affect any read's result); the independence is what makes a
+parallel orchestration safe to add.
+
 ## Synthesis
 
 One `SYNTHESIS.md` per model (in its subdir), for multi-scene runs: the arc-level

@@ -81,7 +81,27 @@ runs or to splice it onto a cheaper model from the ch. 8 seam, as fable was.
   same carry-forward chaining and blindness rules — so its files line up exactly with
   the Claude runs.
 
-Each file holds two parts: **`## Reader reaction`** (the deliverable — a felt read
+## Grounded read (v3) — the chain-free reader
+
+The chained instrument above forgets: chapter *N* reads the carry-forward of chapter
+*N−1*, a paraphrase-of-a-paraphrase up to ~50 hops deep, and hard facts (the
+consummation, who "the brunette" is) decay across the chain no matter how much retention
+machinery is added. The **grounded** variant fixes this at the root by removing the
+chain. Each chapter is read with memory reconstructed from ground truth: the **grounded
+checkpoint** at the last decade boundary (minted from the raw prose 1..B in one pass) plus
+the **raw prose of the chapters since** that boundary — zero paraphrase hops. The reader
+emits only a `## Reader reaction` (memory is external now), and files land in
+`<model-id>/grounded/<slug>.md`, leaving the chained files untouched.
+
+- **Produce it:** `tools/checkpoint_extract.py --model <id> --to <B>` to mint each decade
+  checkpoint (they're independent — parallelizable), then `tools/cold_read_grounded.py
+  --model <id> [--from N --to M | --scope <slug>]` for the reads. `--check` lists the
+  checkpoints a range needs; `--emit-prompt N` prints a chapter's assembled prompt so a
+  Claude `blind-reader-grounded` subagent (no API tokens) can be driven by hand.
+- **Contract, format, and the parallel two-wave design:** see `SPEC.md`, "Grounded read
+  (v3)."
+
+Each chained file holds two parts: **`## Reader reaction`** (the deliverable — a felt read
 followed by a structured block: cast present in person, Heat/Romance 0–3, motifs &
 symbolism, characterization, and pace within- and between-chapters) and
 **`## Carry-forward state`** (plumbing — the *accumulated* reader-memory fed to the
