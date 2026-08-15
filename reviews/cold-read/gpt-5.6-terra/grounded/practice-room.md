@@ -4,32 +4,30 @@
 
 ## Reader reaction
 
-This hit me as hot and a little dizzying, then left a real ache under the heat. Vee pulling Randi out of class—“Only to Randi”—feels like a quiet reversal with so much charge in it. She is reaching now, not merely being led. And the practice room itself, this sealed little closet where the building “went away,” makes the intimacy feel immediate before either of them has said anything sexual.
+I came out of this chapter buzzing and uneasy in the very particular way Vee is buzzing and uneasy: Randi has made a private little room around her again, and Vee walks straight into it because she wants to be there. I felt the pull of that hard. The practice room is such a charged setting precisely because it begins as a place to tell Randi about Pace and turns into a place where Vee’s body is answering Randi before she has language for what she wants.
 
-I felt for Vee most in the way she keeps trying to make her body’s responses into accidents or leftovers from Pace: she is “still so full of him,” so surely that explains why she cannot stop watching Randi, why she has to flee to the bathroom. But the chapter earns the fact that it is not only Pace. Randi’s attention, the story, the word “welcome”—all of it reaches her directly. Vee stopping her own hand is wrenching precisely because it is a boundary she chooses: “Not here. Not over a story.” She does not yet have language for what is happening, but she does have a no, and I trusted that.
+Vee breaks my heart a little when she draws the line in the bathroom: “Not here. Not over a story.” That is an actual choice, and I’m proud of her for making it even while I can feel how much it costs. But I don’t think she is merely full of Pace by the end. Her insistence that it’s just the weekend feels like the kind of explanation she needs in order not to look directly at Randi.
 
-Randi is nearly unbearable here: seductive, warm, and very deliberately skilled at making Vee say more than she had planned to say. The questions about whether Vee “deserved” Pace’s swat, then the insistence on the wet hand, feel targeted. I can feel the pull of her—her story is sexy, her gaze is sexy, her pleasure in Vee’s embarrassment is sexy—but I also cannot forget what I know about her and Pace. That makes her ease afterward, the way she drops the whole subject and kisses Vee goodbye as though nothing happened, unsettling. The page earns that uncertainty in Vee’s final “she had,” rather than making it a certainty.
+Randi is intoxicating here. I believe her delight in Vee; “so pleased to see her” lands warmly. But the way she extracts the story, isolates the detail of Pace’s wet hand, then gives Vee her own escalating story makes me deeply suspicious. The text earns it: she watches Vee “like a cat,” waits for the reaction, and then seems able to discard the whole thing as harmless conversation. I want Vee to recognize that she was being led somewhere—though I also don’t want to flatten their intimacy into a trick, because Vee is actively drawn toward her.
 
-Pace is absent, but Vee’s account of him still warms me. His response to the heels remains swoony: he sees her panic, keeps her upright, notices the scarf, and gives her back a grander version of herself. Yet Randi reframes the kitchen play into punishment and deservedness, and I felt protective of Vee there. The original moment had mutual silliness and then a startling bodily response; Randi’s words give it a sharper, more loaded shape.
+The erotic charge works most strongly in the slow pivot from Vee’s account to Randi’s attention: “I wasn’t only telling it. I was doing it again. Here. Now.” That is hot because it names the shared act of telling and being watched, not just the remembered touch. The bathroom interruption cools it sharply, in a good way; it restores Vee’s uncertainty and agency.
 
-The erotic charge is very strong, especially in the slow turn from Vee’s remembered slap to her body answering Randi in real time. It peaks for me at Randi’s quiet “I bet he did,” followed by Vee realizing she is exposed under Randi’s eyes. The bathroom scene is less swoony than raw: Vee is flooded and trying to regain herself. It does not go clinical; it keeps its emotional stakes.
+“The Practice Room” is exact: an enclosed place ostensibly for rehearsal, but also a room where desire is tested, narrated, almost acted out. It feels less innocent after reading it. *A Polite Invitation* keeps sounding like permission that is also pressure; *With a Long Spoon* still suggests danger held at a supposedly safe distance. The jacket’s “Every yes was freely given. That was the problem” feels newly alive here, because Vee has not said yes—but she is starting to understand what a yes might mean.
 
-“The Practice Room” works beautifully for me: ostensibly a music room, but also a private place where Vee practices telling the truth of her appetite without yet being able to name it. The actual scales outside when they leave make that title linger. *A Polite Invitation* still promises doors that look harmless until Vee walks through them; here, she initiates the invitation, and it leads somewhere she cannot quite admit. *With a Long Spoon* feels darker beside this chapter because Randi and Pace know how much fire they are playing with. The packet’s closing line, “Every yes was freely given. That was the problem,” feels newly close: Vee’s no in the bathroom matters, but so does the unspoken wanting that has begun to move her.
+I want the next chapter badly. My guess from here is that Vee will keep explaining Randi away until she can’t, and that Randi’s warmth will become harder to separate from what she is deliberately drawing out of Vee.
 
-I very much want the next meeting between Vee and Randi, and I dread how long Vee may keep explaining this away. My guess from here is that she will keep reaching for Randi while insisting, sincerely, that it is only friendship or only an aftereffect of Pace.
+**Cast present (in person):** Vee, Randi, Cassie. The professor is present but unnamed. Mentioned-only: Pace.
 
-**Cast present (in person):** Vee, Randi, Cassie, and the stats professor. Mentioned-only: Pace.
+**Heat:** 2 — no sexual contact, but explicit remembered touch and Randi’s story bring Vee to undeniable arousal.
 
-**Heat:** 2 — no completed sexual act, but sustained explicit confession, arousal, and Vee’s physical response.
+**Romance:** 1 — genuine warmth in Vee and Randi’s familiar hug/kiss, but the scene’s force is more erotic and unsettled.
 
-**Romance:** 1.5 — Vee’s intentional pull toward Randi and their habitual kiss carry real intimacy, though its meaning remains unspoken.
+**Motifs & images:** Repeat: being seen/looking, shoes as Randi’s gift and influence, warmth/cold water, choice and asking. First: the soundproof practice room; it makes privacy feel almost total.
 
-**Motifs & images:** Repeat: being seen/looking, especially Randi’s lamp-like attention; shoes as Randi’s intimate loan and Vee’s changed footing; warmth/cold through the wet hand and cold tap; doors/invitations in the soundproof room and bathroom bolt; “see you soon.” First: music/practice and the held note, echoing Vee’s arms lingering after Randi has moved on.
+**Symbolism:** The two kinds of outlier land ominously beside Vee’s weekend: one event can be removed; another “comes in through the part that carries forward.”
 
-**Symbolism:** The practice room reads as a sealed place for Vee to try out a desire she cannot yet state; the music scales outside restore the ordinary world after.
+**Characterization:** Vee deepens through the bathroom refusal and her inability to name what she wants. Randi remains vivid, affectionate, and newly alarming in her precision.
 
-**Characterization:** Vee deepens through both her active choice to seek Randi and her firm, frightened self-restraint. Randi stays compellingly affectionate and alarming: she knows exactly where to press, then makes her pressure disappear.
+**Pace — within the chapter:** Taut and quick; the bathroom break gives the escalation a necessary stop.
 
-**Pace — within the chapter:** The classroom opening moves briskly into the private scene; the bathroom pause earns its length because it gives Vee’s boundary real weight.
-
-**Pace — chapter to chapter:** Building. After the weekend’s repair and domestic closeness with Pace, this opens a more direct and dangerous current between Vee and Randi.
+**Pace — chapter to chapter:** Building. The book has moved from Vee/Pace’s intimacy into a sharper, more immediate Randi/Vee charge.

@@ -4,28 +4,29 @@
 
 ## Reader reaction
 
-I came out of this smiling for Vee. She is so gloriously full of herself here—underslept, sore, late, unable to care because she has a finished dress and a night she loved. “Oh, yes” to Cassie’s question is lovely precisely because it comes out before she can make it smaller. Cassie gets me most in this chapter: she does not fuss over the dress or pry for details; she watches Vee, asks the one question that matters, and relaxes when Vee’s answer is genuinely happy.
+I came out of this one smiling, with that fizzy, almost painful happiness Vee is carrying, because she gets to sit between Cassie and Randi and have the night be real in two different ways. Cassie’s “Was it a good night?” got me more than the teasing did. She has no interest in the dress as an object; she is looking straight at Vee, and the second “Oh, yes” feels like Vee answering from her whole body. I trust Cassie completely here. Her restraint is love.
 
-Randi is irresistible in the immediate sense. “You lucky slut,” the instant appointment for shoe-shopping, the certainty that of course Vee needs the right shoes: I felt the pull of being gathered into her attention. And because I know what I know, that warmth still catches. The word “slut” hits Vee’s shame exactly where she is most tender, even if Randi says it delightedly, and then Randi is the one who gets to solve the wound by making the shoes into “a date.” It works on me because it works on Vee. I want that Saturday with them; I also cannot forget that Randi knows more than Vee does.
+Randi is still intoxicating. “You lucky slut” has genuine delight in it, and I felt the heat of Vee’s secret soreness answering the word before it caught on the old shame underneath. The chapter doesn’t make Randi cruel for it; she means it playfully, and she immediately converts Vee’s snag about shoes into an afternoon together. Still, because I know Randi knows so much Vee doesn’t, that quick ability to find the exact tender place in her leaves a little ache. Vee’s warm surrender to “Saturday. We are not quitting until the shoes are as right as the dress” absolutely works on me, though. I want that outing with them. I want Vee to get the shoes and walk into that room feeling as magnificent as she did alone in Pace’s mirror.
 
-The erotic charge is mostly aftermath, but it is real: Vee’s “good soreness,” her thighs, her nipples against her bra, the sense that her body is carrying a private record through a classroom. It makes the ordinary stats lecture feel almost deliciously unbearable. The image that gets me is the dress still zipped away, “still shown to not one living soul.” Vee has seen herself in it and Pace has seen her in it, but her friends have not—not yet. There is such bright, held-back anticipation in that.
+Pace is absent but all over Vee’s body and day: the made bed, the undersleep, the “good soreness,” the garment bag safely zipped away. The heat is only remembered, but it has a lovely afterglow rather than feeling like the chapter is trying to force a sexy beat. What’s most moving is that Vee cannot yet name the word for herself in the glass. She can tell them the dress is finished; she cannot quite hand over what it made possible in her.
 
-The Simpson’s paradox lecture lands a little too cleanly for me. “A thing can run one way across every short stretch you measure and the opposite way across the whole of it” is undeniably a good line, and Vee’s note—“short stretches can lie against the whole”—makes me sit up because I am already aware of a larger picture she cannot see. But it is close to announcing itself. Still, the chapter doesn’t make Vee turn it into a revelation, which I appreciate; for her, it is an exam note amid a very happy day.
+The title, “All Told,” lands first in Randi’s “Tell me everything. Leave nothing out,” and then becomes gently ironic: Vee tells them plenty, but not the dress’s full truth, not the sex’s full truth, perhaps not even fully to herself. Cassie seems to hear what matters without requiring the account. Simpson’s paradox sits a little obliquely at first, but the professor’s “Same numbers. Nobody touched one of them” leaves me thinking about how the same facts can become something different when gathered together. I don’t yet know what it points toward beyond that; it feels like a quiet unease under a very happy chapter, rather than a revelation.
 
-“All Told” is knowingly funny and a little aching: Vee arrives ready to tell Cassie and Randi everything, but she tells them only part of it—not the dress’s bare-leg revelation, not the sex’s full center, not the secret already shared by Randi and Pace. The chapter title makes that incompleteness glow. *A Polite Invitation* still promises doors Vee gets to walk through gladly, while *With a Long Spoon* feels darker beside this classroom lesson about the whole changing what every separate piece seemed to mean. The jacket’s closing beat, “Every yes was freely given. That was the problem,” feels especially alive here: Vee is happy, and that happiness is not fake. I want the shoe date next, desperately; my guess from here is that the dress will bring Vee further into being seen by Randi as well as by Pace, and I dread how much is still being withheld from her.
+*A Polite Invitation* still promises open doors that are genuinely chosen, and this chapter makes Vee’s choice feel buoyant and social: she is no longer alone with the dress or Pace, even if she is not all told. *With a Long Spoon* means nothing more definite to me yet. The jacket’s closing beat, “Every yes was freely given. That was the problem,” is still humming under this happiness. My guess from here is that Saturday’s shoe date will make the Vee–Randi pull harder to evade, because Randi is about to help dress Vee into the self Pace has already seen.
 
-**Cast present (in person):** Vee, Cassie, Randi, and the unnamed professor. Mentioned only: Pace.
+**Cast present (in person):** Vee, Cassie, Randi, and the unnamed professor.  
+**Mentioned only:** Pace.
 
-**Heat:** 1 — lingering bodily aftermath and charged intimacy, but no sexual activity on the page.
+**Heat:** 1 — Vee’s remembered sexual soreness and the charged dress/shoe talk keep the body in the room.
 
-**Romance:** 2 — Vee’s open happiness about Pace, plus Cassie’s quiet, loving relief.
+**Romance:** 2 — Cassie’s careful concern and Randi’s excited Saturday claim make Vee feel held on both sides.
 
-**Motifs & images:** Repeat: clothes/dress as armor and invitation; being seen, especially Vee’s private knowledge of herself in the burgundy dress; hunger (“happy and starving”); the made bed as evidence; math/hidden structure via Simpson’s paradox. Repeat: Randi’s attention as something lamp-like and enveloping.
+**Motifs & images:** Repeat: the burgundy dress, being seen, clothes as invitation/armor, hunger (“happy and starving”), and the made bed as evidence. First: Simpson’s paradox and the red dot settling on a number.
 
-**Symbolism:** The paradox clearly invites a sense that a whole can reverse the meaning of its visible pieces. The zipped garment bag holds Vee’s new self in private, not yet offered to the world.
+**Symbolism:** The dress remains a private transformation, zipped in its bag and “shown to not one living soul.” Simpson’s paradox suggests that a changed grouping can change what the same facts appear to say.
 
-**Characterization:** Vee deepens in her unguarded joy and still-touchy shame. Cassie feels exceptionally consistent and tender in her restraint. Randi remains warm, magnetic, and unsettlingly adept at finding Vee’s vulnerable places.
+**Characterization:** Cassie deepens beautifully as Vee’s attentive witness; Randi remains warm, thrilling, and complicated by how precisely she touches Vee’s shame. Vee feels vividly alive rather than reduced to either sex or clothes.
 
-**Pace — within the chapter:** Brisk and buoyant; the lecture pause earns its space because the women’s different kinds of attention sharpen the scene.
+**Pace — within the chapter:** Clean, quick, and earned; the lecture’s forty seconds create a nice pause before Cassie’s question.
 
-**Pace — chapter to chapter:** Building. After the intimate high of the dress chapter, this opens the circle outward to Cassie and Randi without draining Vee’s glow.
+**Pace — chapter to chapter:** Building. After the private peak of “Peekaboo,” this widens Vee’s happiness into the relationships around her without losing the charged undercurrent.
