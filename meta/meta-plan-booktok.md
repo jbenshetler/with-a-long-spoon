@@ -169,12 +169,98 @@ Menu by job (flagship first):
 | `{{A Round}}` | worship + shame-into-worth; the whole book in one scene | high, restraint-coded (clippable) |
 | `{{The New Ordinary}}` (the washed shirt) | devastating tenderness; "smelling like you" | low — pure emotional clip |
 | `{{Rock}}` (math is beautiful) | "he's deep, not just hot" — the interiority sell | none — character bait |
+| `{{Two Towels}}` (the patent) | power *pointed at mercy* — the anti-dark-romance green flag | none — character bait |
 | `{{All the Time}}` (the brunch) | "finally hungry out loud" — friendship/glamour warmth | low — the Randi axis |
 
 Note the division of labor: `{{A Round}}` is *also* the prestige short (with
 `{{Two Towels}}`, per `meta-plan-free-sample.md`); the retail free *sample* is still
 `{{The Bench}}`→`{{The Pointing Game}}`. Social bait, prestige short, and retail sample
 are three different jobs — one chapter can serve more than one.
+
+## 8a. Show the depth, never name it (worked clip copy)
+
+The differentiators are **interiority, characterization, and detail density** — but
+those are the three words you must never use. They're unfalsifiable virtue-nouns
+("richly drawn characters," "immersive world"); every mediocre book claims them, so the
+depth-hungry reader (§1) has learned they carry no signal. **Naming the quality is the
+tell that you don't have it** — the marketing version of the book's own rule (don't
+editorialize, don't telegraph). Instead, put on screen the concrete thing that can only
+exist if the quality is present, and let the reader infer it. Depth as **payoff, never
+as pitch:** the trope tag is the *door* she searches for; the excerpt is the depth
+*behind* it, proven the instant she clicks, never announced before.
+
+**Sell interiority through Vee, characterization through a Pace specific.** They're two
+different ads. Reader-implication only fires through the POV consciousness: if the charge
+sits on Pace ("look how impressive this man is") the reader *admires a character* —
+arm's-length, the failure mode §7 and `meta-plan-distribution.md` §4 warn against. If it
+sits in Vee's *unlabeled* interior, the narration doesn't name the feeling, so the
+reader **supplies it herself — and discovers she has it.** The prose already keeps these
+separate: in every beat below Pace is rendered from the *outside* (dialogue, bearing)
+and the charge detonates in Vee's interior. The clips must keep them separate too.
+
+Two on-screen formats to choose per beat: **punchy multi-card** (2–4 cards, ~a
+sentence each, read while the audio plays) for a scroll-stopping hook; **passage** (one
+*held* screen of styled prose — a "screenshot of the page" look — that viewers
+pause/rewind to finish) when the beat's power is in *exposure* or in full sentences you
+don't want to compress. A clip that ends on a question or an unanswered ask **hangs** —
+land it on a resolution.
+
+Four worked clips, each a different job (b-roll + text overlay, no bodies — §3):
+
+1. **Interiority — the math that makes her swoon (`{{Rock}}`).** The strongest clip
+   because it *induces* the swoon instead of describing it: the reader hits the paint
+   paradox, feels a flicker of what Vee feels, then lands her interior line.
+   > "There's a shape you can fill with paint but never paint the outside of."
+   > "There isn't enough paint in the world for the outside of a thing you just filled
+   > with a cup. Somebody proved it, and it stays proved."
+   > "The world shifted very slightly around her — not because she understood the
+   > mathematics, but because *he* did, and he had turned it toward her like light."
+
+   Card 3 locates the charge in Vee, unlabeled ("shifted very slightly"), so the reader
+   supplies the feeling. Names no abstraction; proves all three differentiators in eight
+   seconds. Zero on-page heat → clips clean past the explicit-content throttle.
+
+2. **Characterization + emotional maturity — the long-division beat (`{{Rock}}`).**
+   Sells *both* characters at once (his wound, her perceptiveness) and carries the most
+   universally quotable single line — it lands with zero context.
+   > "'They moved my desk into the hall during math class. I did long-division
+   > worksheets. For the year.'"
+   > "'They took the thing you loved,' she said, 'and made it the punishment.'"
+
+3. **Anti-dark-romance green flag — the patent beat (`{{Two Towels}}`).** The cleanest
+   refutation of the dangerous-man template: his power is real (a patent that pays for
+   the house) and it's **spent on a frightened child** — and he shrugs off the mercy as
+   not even the part he means to brag about. The green flag isn't the patent; it's where
+   he points it.
+   > "'You have a *patent.* What's it do?' And he lit up like a six-year-old who'd just
+   > found out everything there was to know about dinosaurs."
+   > "'A kid who can't lie still, somebody sick, somebody scared — they get the same
+   > picture and they're out of the tube in a fraction of the time.'"
+   > "'It does other things. That's the part I like.' She stood there and for a second
+   > didn't know what to do with her whole chest."
+
+4. **Tenderness / warmth — the washed shirt (`{{The New Ordinary}}`), passage format.**
+   The warmth axis that most separates the book from dark romance; zero heat, clips
+   clean. Use the **passage format** (one held screen), *not* punchy multi-cards — the
+   power is in her **exposure**: it costs her to ask, and the tidy version loses that
+   (eyes on the shirt, not on him; the ask comes out "small and she couldn't help it").
+   Ends on his agreement so the beat **resolves** instead of hanging on her request.
+   > She kept her eyes on the shirt and not on him. "It stopped smelling like you. I
+   > wore it every night I wasn't here and it went to nothing, so I washed it." It came
+   > out small and she couldn't help it. "I need you to wear it for me. The whole
+   > weekend. And give it back Sunday so it smells like you again."
+   > "All weekend," he said. He pulled it on right then, over the shirt he already wore.
+   > "You'll have it back Sunday."
+
+   Caption: *not flowers. not jewelry. she asked him to re-wear her shirt so it'd smell
+   like him again 🥲 #slowburn #booktok* — door: **slow burn** + soft **worship**.
+
+**Ranking for a first post:** the **math/paint** clip leads (the differentiator-proof no
+clone can copy), the **patent** beat close behind as the best *anti-dark-romance* clip
+(§5 hook made literal), then **long-division** as the characterization follow-up.
+Borrowed-testimony rule still applies: the cleanest way to say "beautifully written" is
+to let an ARC reviewer say it in the caption (§4) — your own copy can't assert quality
+credibly, a reader's can.
 
 ## 9. Method (learning it as a newcomer)
 
