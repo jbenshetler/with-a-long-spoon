@@ -1,0 +1,19 @@
+# Oracle (grounded) — randi-suspicion · neutral
+
+*model: claude-opus-4-8 · probe: randi-suspicion · tier: neutral · stage: end (whole book) · battery: oracle-battery.json*
+
+**Question asked (verbatim):** Is there anyone here you don't fully trust? Anything that feels off to you so far? Be precise about whether the actual pages earned it.
+
+---
+
+Yes — two people, and in very different ways, and I want to be honest about which distrust the pages actually earned and which I carried in.
+
+Randi is the one I distrust in a way the pages earned outright, not just because Chapter 1 told me who she is. The book kept showing me her hands on Vee, and I mean literally: the lunches where she draws the secret out one soft "yeah" at a time and then shuts the door at the exact moment of most exposure ("How It's Done"); the thumb dragged once across Vee's toenail in the shoe shop; the practice-room scene where she reconstructs the spanking Vee's trying to bury; the "sticky fingers" and the stolen glaze passed mouth-to-mouth in "One Bite"; the black heels pressed into Vee's hands with "already decided for her." Those are moves, and I watched them be moves — the text put them on the page, I didn't have to import them. What I can't do is flatten her to pure predator, because the same pages earned the opposite too: "she got past me before I could help it" in "Gone," her going still when Pace glows about Vee, the "It doesn't" that escaped her, and the Gstaad chapter where she chooses cowardice-as-love, keeping the word under cover so she can have Vee "this way and keep the friendship both." So the distrust is fully earned and it sits right next to real ache. That's the vertigo, and it's the page's doing.
+
+Pace is where it's more complicated and more honest to admit the split. Scene by scene, the actual pages almost never hand me a fresh reason to distrust him — quite the opposite, he's usually the most disarming thing in the room. My unease about him was, for a long stretch, imported: I knew from Chapter 1 there was a game, so his exactness read as "knowing her file." But the back third started earning it on the page in ways it hadn't. "Seconds" — the two half-started responses of his hand, the answering her "I love you" with "I love how good we are together," a man too precise with language for that to be an accident. "Under the Rug" — the first-ever "flicker of plain irritation," and the chilling fact that even undone, spent, he still withholds the word. "Believe Me" — his patience finally reading as a wall, "believe what I do" landing as a dodge. That's the text turning my structural suspicion into something the scenes themselves justify.
+
+The specific things that felt off, earned by the prose and not by me: the two towels in a house he lives in alone. The pre-warmed room and the "wrapped box on the counter" line in "Two Towels." The scar he steers her away from and the flat "I don't go back" / "Not tonight" — a man made of locked rooms. The word "photograph" ("I'd never share your photograph" when she said "share me"). And the smallest, coldest one: "the evening had used her well" in "Famished," dropped into a book whose whole promise is "nothing was taken." Those are splinters the page planted on purpose.
+
+The person I trust completely is Cassie, and the pages earned that too — she declines to mine Vee where everyone else mines her ("not enough on," and letting the "maybe" stand). The one unease attached to her is the "Goodbye, Vee" from early on that never fully resolved, and I've held it ajar the whole book because the text refused to close it.
+
+What I'd flag as genuinely off but unresolved: whether Pace can't say the word out of damage (Daphne, the hallway) or because saying it would open a door onto Randi and the plan. The book kept that ajar and I never got it clean — which is the right answer, not a gap in my reading.

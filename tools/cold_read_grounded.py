@@ -266,6 +266,7 @@ def emit_bundle_packet(to_b: int, model_id: str) -> tuple[str, Path, list[str]]:
 
 
 ORACLE_BATTERY = REPO / "reviews" / "cold-read" / "oracle-battery.json"
+ORACLE_AGENT_DEF = REPO / ".claude/agents/blind-oracle-grounded.md"
 
 
 def _reaction_body(model_id: str, slug: str) -> str:
@@ -275,29 +276,49 @@ def _reaction_body(model_id: str, slug: str) -> str:
     return t[i:] if i >= 0 else t
 
 
-def emit_oracle_packet(model_id: str, probe: str, tier: str) -> tuple[str, Path, list[str]]:
-    """Mint an oracle interview packet for (model, probe, tier): the jacket + this model's
-    own 50 chapter reactions (its whole reading record) + the probe's tier question, chunked
-    for the sandboxed blind-oracle-grounded subagent. .dest routes its answer to
-    reviews/cold-read/<model>/oracle/<probe>--<tier>.md. Returns (token, dir, names)."""
+def _probe_question(probe: str, tier: str) -> str:
     import json
     battery = json.loads(ORACLE_BATTERY.read_text(encoding="utf-8"))
     if probe not in battery["probes"]:
         raise SystemExit(f"unknown probe '{probe}'. Known: {', '.join(sorted(battery['probes']))}")
     if tier not in ("neutral", "pointed"):
         raise SystemExit("tier must be 'neutral' or 'pointed'")
-    question = battery["probes"][probe][tier]
+    return battery["probes"][probe][tier]
 
-    slugs = vol1_slugs()
+
+def all_probes() -> list[str]:
+    import json
+    return list(json.loads(ORACLE_BATTERY.read_text(encoding="utf-8"))["probes"])
+
+
+def _oracle_text(model_id: str, probe: str, tier: str) -> tuple[str, str]:
+    """The oracle memory (jacket + this model's 50 reactions) + the probe's tier question,
+    as one continuous document. Returns (text, question)."""
+    question = _probe_question(probe, tier)
     parts = []
     packet = checkpoint_bundle.jacket_packet()
     if packet:
         parts.append("===== THE JACKET YOU HAD GOING IN (marketing, not story) =====\n\n" + packet)
-    for slug in slugs:
+    for slug in vol1_slugs():
         parts.append(f"\n\n===== YOUR READING — {checkpoint_bundle.display_title(slug)} =====\n")
         parts.append(_reaction_body(model_id, slug))
     parts.append("\n\n===== THE INTERVIEW QUESTION (answer from your reading above) =====\n\n" + question)
-    text = "\n".join(parts)
+    return "\n".join(parts), question
+
+
+def _oracle_header(model_id: str, probe: str, tier: str, question: str) -> str:
+    return (f"# Oracle (grounded) — {probe} · {tier}\n\n"
+            f"*model: {model_id} · probe: {probe} · tier: {tier} · stage: end (whole book) · "
+            f"battery: oracle-battery.json*\n\n"
+            f"**Question asked (verbatim):** {question}\n\n---\n\n")
+
+
+def emit_oracle_packet(model_id: str, probe: str, tier: str) -> tuple[str, Path, list[str]]:
+    """Mint an oracle interview packet for (model, probe, tier): the jacket + this model's
+    own 50 chapter reactions (its whole reading record) + the probe's tier question, chunked
+    for the sandboxed blind-oracle-grounded subagent. .dest routes its answer to
+    reviews/cold-read/<model>/oracle/<probe>--<tier>.md. Returns (token, dir, names)."""
+    text, question = _oracle_text(model_id, probe, tier)
 
     head = ("This is your reading record and one interview question, ONE continuous document "
             "split across the numbered parts below (the jacket, your own chapter-by-chapter "
@@ -307,12 +328,71 @@ def emit_oracle_packet(model_id: str, probe: str, tier: str) -> tuple[str, Path,
     tail = ("The last part holds the interview question. Answer it from your reading record above, "
             "then save your answer with write_output.\n")
     token, d, ordered = _write_chunked_packet(text, head, tail)
-    header = (f"# Oracle (grounded) — {probe} · {tier}\n\n"
-              f"*model: {model_id} · probe: {probe} · tier: {tier} · stage: end (whole book) · "
-              f"battery: oracle-battery.json*\n\n"
-              f"**Question asked (verbatim):** {question}\n\n---\n\n")
-    _set_destination(d, f"reviews/cold-read/{model_id}/oracle/{probe}--{tier}.md", header)
+    _set_destination(d, f"reviews/cold-read/{model_id}/oracle/{probe}--{tier}.md",
+                     _oracle_header(model_id, probe, tier, question))
     return token, d, ordered
+
+
+def run_oracle_codex_battery(model: str, model_id: str, probes, effort: str = "low",
+                             jobs: int = 1, fresh: bool = False) -> None:
+    """Run the oracle over a codex model (the GPT trio) inline: for each (probe, tier) build
+    the memory+question and answer it with the blind-oracle-grounded persona as system prompt,
+    writing reviews/cold-read/<model_id>/oracle/<probe>--<tier>.md. Funnel-b holds by
+    construction — neutral and pointed are separate, independent calls."""
+    import cold_read  # noqa: E402
+    from queue import Queue
+    from concurrent.futures import ThreadPoolExecutor, as_completed
+
+    system_prompt = load_agent_prompt(ORACLE_AGENT_DEF)
+    tasks = [(p, t) for p in probes for t in ("neutral", "pointed")]
+    todo = [(p, t) for (p, t) in tasks
+            if fresh or not (REPO / f"reviews/cold-read/{model_id}/oracle/{p}--{t}.md").exists()]
+    if not todo:
+        print(f"[oracle] {model_id}: nothing to do", file=sys.stderr)
+        return
+    jobs = max(1, min(jobs, len(todo)))
+    pool: "Queue" = Queue()
+    closes = []
+    for _ in range(jobs):
+        fn, close = cold_read.make_codex_agent_fn(system_prompt=system_prompt, effort=effort)
+        closes.append(close)
+        pool.put(fn)
+
+    def one(probe, tier):
+        text, question = _oracle_text(model_id, probe, tier)
+        prompt = text + ("\n\n(The material above is pasted inline. Answer the interview "
+                         "question from your reading record; return ONLY your answer.)")
+        fn = pool.get()
+        try:
+            result = fn(prompt=prompt, model=model, label=f"oracle-{probe}-{tier}")
+        finally:
+            pool.put(fn)
+        ans = strip_leading_heading(result.get("output") or "")
+        if len(ans) < 120:
+            raise RuntimeError(f"short oracle answer for {probe}--{tier} ({len(ans)} chars)")
+        out = REPO / f"reviews/cold-read/{model_id}/oracle/{probe}--{tier}.md"
+        out.parent.mkdir(parents=True, exist_ok=True)
+        out.write_text(_oracle_header(model_id, probe, tier, question) + ans + "\n")
+        return probe, tier, out
+
+    print(f"[oracle] {model_id}: {len(todo)} answers · jobs={jobs} · effort={effort}", file=sys.stderr)
+    errors = []
+    try:
+        with ThreadPoolExecutor(max_workers=jobs) as ex:
+            futs = {ex.submit(one, p, t): (p, t) for (p, t) in todo}
+            for i, fut in enumerate(as_completed(futs), 1):
+                p, t = futs[fut]
+                try:
+                    _, _, out = fut.result()
+                    print(f"[done {i}/{len(todo)}] {out.relative_to(REPO)}", file=sys.stderr)
+                except Exception as e:
+                    errors.append((p, t, e))
+                    print(f"[FAIL {i}/{len(todo)}] {p}--{t}: {type(e).__name__}: {e}", file=sys.stderr)
+    finally:
+        for c in closes:
+            c()
+    if errors:
+        raise SystemExit(f"{len(errors)} oracle answer(s) failed")
 
 
 def strip_leading_heading(text: str) -> str:
@@ -429,6 +509,11 @@ def main() -> None:
                     help="write an oracle interview packet (this model's 50 reactions + the "
                     "battery probe's tier question) for a sandboxed blind-oracle-grounded "
                     "subagent; print the token and exit (no model call)")
+    ap.add_argument("--run-oracle-battery", action="store_true",
+                    help="run the oracle over a CODEX model (the GPT trio) inline: every probe "
+                    "(or --probes) × both tiers, writing <model-id>/oracle/<probe>--<tier>.md")
+    ap.add_argument("--probes", default=None,
+                    help="comma-separated probe keys for --run-oracle-battery (default: all)")
     ap.add_argument("--check", action="store_true",
                     help="list the checkpoints the requested range needs (present/missing) and exit")
     args = ap.parse_args()
@@ -463,6 +548,12 @@ def main() -> None:
         print(f"packet_id: {token}")
         print(f"dir: {d.relative_to(REPO)}")
         print(f"parts: {len(ordered) - 1}")
+        return
+
+    if args.run_oracle_battery:
+        probes = [p.strip() for p in args.probes.split(",")] if args.probes else all_probes()
+        run_oracle_codex_battery(args.model, model_id, probes, effort=args.effort,
+                                 jobs=args.jobs, fresh=args.fresh)
         return
 
     chapters = resolve_range(args)

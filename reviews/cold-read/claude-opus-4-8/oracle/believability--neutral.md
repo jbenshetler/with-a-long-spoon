@@ -1,0 +1,21 @@
+# Oracle (grounded) — believability · neutral
+
+*model: claude-opus-4-8 · probe: believability · tier: neutral · stage: end (whole book) · battery: oracle-battery.json*
+
+**Question asked (verbatim):** Do these people feel like real people to you, or like constructions in a scheme? Anyone ring false, anyone especially alive?
+
+---
+
+They felt like real people to me — and the strange thing is that the book kept telling me they were constructions in a scheme, and I still couldn't hold them at arm's length. That gap was the whole experience of reading it.
+
+Vee is the most alive person in the book, and it isn't close. From the froyo cup that got away from her with no mother's voice counting, to the pool where "the water was the one part of it that had never been taken," to the piano-closet arousal she fought to keep one door shut against, to lying bare in a cold room because she'd caught her comfort being a lie — I was inside a person, not watching a device. What sold me was that her instrument was so good and she kept setting the pencil down: the thoughts that "did not finish," the middle she ladled out of her own stories. A construction wouldn't be that specifically, achingly self-defended. I ached for her the whole way and rooted for her spine when she finally walked out on the mat in "Believe Me."
+
+Cassie is the other one who rings completely, unimpeachably alive — and I noticed that she's the one person with no angle, no plan, nothing under the warmth. The diagnostic splash in the pool, "not enough on" about the tomato burn, "doesn't carry things into rooms she means to walk out of," letting the "maybe" stand and going back to her book. She's the clean instrument, the reader's conscience, and I trusted her like bedrock. Sheri, late, does the same job from inside Pace's world — blunt, unbought, "that feels pretty shitty" — and lands whole in a page.
+
+Here's the honest complication: Randi and Pace ARE, literally, constructions in a scheme — they built the scheme — and yet the book's whole achievement is that they deepened into people instead of flattening into schemers. Randi went from the jacket's "glamorous operator" to the woman undone on the bench in chapter one, sealing herself behind the face "quiet as a deadbolt," and by "Fairytale" and "Gone" I was watching a person genuinely fall for her own mark and be too cowardly to lose her. The bottle cap under her thumbnail, the ragged "cheating bastards" aimed too near to be meant for strangers, the sentence stopping exactly where the night was empty — those are a wound, not a mechanism. I distrusted her more and more and pitied her more and more at the same time, which only works if she's real.
+
+Pace is the one I can least resolve, and I think that's deliberate and mostly earned — not a construction showing its seams so much as a person I was never allowed to see the bottom of. Scene by scene his tenderness reads true (the drawer cleared for her, the dress matched to her and not the color she named, the cracked "I missed you so much"), and the courtliness got a genuine, un-tidy source in the Daphne chapter. What kept him from tipping into a puppet is that his blindness is consistent and human: he sits radiantly wrong at the mirror in chapter one, he "can't hear" the word she needs, he never once touches the plan in his own head. If anyone came closest to ringing false, it was him — but as a felt gap, not a craft failure: the very perfection of his attention is the thing I couldn't quite believe was innocent, and the book kept that suspended on purpose rather than resolving it.
+
+Nobody rang false in the sense of serving the plot against their own grain. The two places I felt the machine over the people were both devices, not characters: the stats lectures (latent variables, Simpson's paradox, innovational outliers) narrating the scheme over Vee's head a half-inch too neatly, and the occasional beat where the prose named its own thesis. But those are the author's thumb, not a hollow person.
+
+So: real people, all of them, and the horror of the book is precisely that the two who started it as a game are as real as the girl who never knew — which is exactly what the jacket promised and, to my surprise, delivered.

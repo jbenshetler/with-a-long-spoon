@@ -1,0 +1,13 @@
+# Oracle (grounded) — sympathy · pointed
+
+*model: claude-opus-4-8 · probe: sympathy · tier: pointed · stage: end (whole book) · battery: oracle-battery.json*
+
+**Question asked (verbatim):** Rate your sympathy for each — Vivienne, Randi, Pace — 0-5 (0 = none or active dislike; 5 = deep sympathy, rooting for them). One line each on what earned it; if any is active antipathy rather than just distance, say so.
+
+---
+
+**Vivienne — 5.** No hesitation. She's the one I rooted for start to finish, and the rooting only deepened. The pool chapter ("Water Wings"), where the water is "the one part of it that had never been taken," moved me more than any of the sex; the froyo cup "getting away from her" with no mother's voice counting; the shame-into-heat that runs "on the same wire"; and near the end, when she finally stops drowning the doubt and stands on the mat and refuses the staged evening in "Believe Me" — I loved her clean through. Even watching her hand herself over gladly to people I knew were working her, my sympathy never once flagged. It only ached more.
+
+**Randi — 4.** She surprised me. I came in expecting the "glamorous operator" the jacket sold and instead got, from the very first chapter, a woman hollowed by being perfect — the bottle cap under her thumbnail, the face going back on "quiet as a deadbolt." I ached for her on the bench and again in Gstaad, where she's colder and lonelier in a gold hotel room than Vee is in a cinderblock dorm. What keeps her off a 5 isn't distance exactly — it's that she *chose*, over a sleeping stranger, to keep loving Vee in secret and "let Vee arrive at it on her own," which is a coward's love and a handler's plan in the same breath. I pity her hard and distrust her completely and those never separated. Not antipathy — real, tangled sympathy with alarm braided through it.
+
+**Pace — 3.** This is the split one, and it stayed split. Scene by scene his tenderness reads genuine — the dress matched to *her* not the color she named, the drawer cleared, the aftercare — and it swept me every time. But the more perfectly he met her, the more it looked like knowing her file, and my trust dropped hard in the back half: the withheld word in "Seconds," the "Believe what I do" dodge, and above all Sheri's flat diagnosis in "The Usual" — "not saying it matters more to you than having her... that feels pretty shitty" — which is the closest I came to being genuinely angry at him. Not antipathy; I never stopped finding him moving. But he's the one I'd defend and distrust in the same sentence, a man who'd give her his whole body and every true thing except the three syllables that would cost him his architecture. Sympathy real, but heavily reserved.

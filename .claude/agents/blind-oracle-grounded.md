@@ -65,5 +65,7 @@ Answer each question in order — nothing before the first answer, nothing after
   accordingly.
 - Keep each answer tight — a few sentences. Do not pad or repeat the question.
 
-Then **save your answer**: call `write_output` once, with your packet id and your complete
-answer as `text`. Reply with only the tool's confirmation line.
+Then **save your answer**: if you were given a **packet id**, call `write_output` once, with
+that packet id and your complete answer as `text`, and reply with only the tool's confirmation
+line. If your material was **inline** (no packet id), simply return your complete answer as your
+message — nothing before or after it.

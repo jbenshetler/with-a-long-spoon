@@ -1,0 +1,17 @@
+# Oracle (grounded) — pace-suspicion · pointed
+
+*model: claude-sonnet-5 · probe: pace-suspicion · tier: pointed · stage: end (whole book) · battery: oracle-battery.json*
+
+**Question asked (verbatim):** Does Pace feel to you like he's calculating or managing Vee, rather than simply loving her? 0-5, with what earned it.
+
+---
+
+3 out of 5 — present and real, but never resolved into either pure calculation or pure love; the book keeps both true at once, and that doubling is exactly what it did to me the whole way through.
+
+Here's the arc as I actually experienced it. Early on ("The Pointing Game," "Substitution," "The Long Way," "May I Choose") my unease about Pace was almost entirely structural — I knew he'd run an "experiment" on Randi's desire and then pointed Vee out on a quad like an item on a menu, so every tender, exact thing he did afterward (the apple slices, "may I call you," ordering food he'd chosen for her) landed twice: once as genuine swoon, once as a technique I'd watched him deploy on someone else first. That's dramatic irony doing its job, not the page itself convicting him — I said so explicitly, chapter after chapter, that "nothing here reads as manipulative on its face," that my suspicion was "inherited," "carried weight," not new evidence.
+
+Then the middle of the book actively pulled me toward trusting him more, and it worked: the hike where he stands shivering in the rain so she can change in privacy, the genuine unrehearsed laugh at "I don't know, I've never thought about it" during the fitting, the Daphne/scar disclosure in "Rock" where he's suddenly young and hurt rather than composed, the flinch Vee lands on him for the first time in "We Find Out." Those felt like real cracks in a performance, evidence he was inside the relationship, not managing it from outside.
+
+But two things kept reintroducing calculation as a live possibility rather than settled paranoia. First, "hills-and-valleys" — hearing him tell Sheri flatly, mid-rhapsody about Vee's hands on wood grain, that Randi is "not finished," present tense, no hesitation — made the double life feel administrative rather than tragic, an item he was managing alongside real feeling. Second, and more damningly, the late run of "Seconds," "Under the Rug," "Bare," and especially "Believe Me": three-plus chapters of a real, textual (not inherited) pattern where Vee offers something whole and he answers with something adjacent — praise of the relationship's effects rather than of her, and finally "Words are cheap. Believe what I do" as an explicit argument against ever having to name it. Sheri's own diagnosis in "The Usual" — "not saying it matters more to you than having her... that feels pretty shitty," plus "he had long practice at deciding a thing could keep" — is the closest the book comes to an outside verdict, and it reads as earned rather than planted.
+
+So by the end I don't experience him as a schemer running Vee — the tenderness is too consistently costly to him (standing in the rain, the shirt, the sleepless labor on the dress) to read as pure performance. But I also can't call the withholding innocent; it's protective in a way that happens to also keep his arrangement with Randi intact, whether or not the text wants me to draw that line. It reads to me as a man capable of real love who has also built, out of old damage, a very convenient permanent excuse not to fully commit to naming anyone — which nets out, for me, right in the middle: management and love braided together, neither one canceling the other.

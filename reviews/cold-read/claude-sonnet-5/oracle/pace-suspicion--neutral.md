@@ -1,0 +1,17 @@
+# Oracle (grounded) — pace-suspicion · neutral
+
+*model: claude-sonnet-5 · probe: pace-suspicion · tier: neutral · stage: end (whole book) · battery: oracle-battery.json*
+
+**Question asked (verbatim):** How do you feel about Pace right now — do you trust him with her?
+
+---
+
+Honestly? No — not cleanly, and I don't think the book wants me to.
+
+My feeling about Pace has been a slow erosion rather than one big betrayal, and it's worth tracing because the shape of it matters. In "The Bench" I trusted his technique completely — the apple sliced thin, the checking-in, the door metaphor — but I already noticed something colder under the tenderness, a satisfaction that read like cataloguing a conquest even while being gentle about it. Then "The Pointing Game" turned that unease structural: he ran an actual experiment on Randi's desire and called the running of it love, and pointed Vee out on a quad like an item on a menu before she ever knew him. Every warm thing he did with Vee afterward — the apple echo at the froyo shop, ordering for her, "may I choose," the handmade shirt, the dress built to match *her*, not the magazine — I read twice: once as real tenderness, once as the same calibrated instrument I'd already watched him deploy on Randi first.
+
+"Rock" complicated it in the other direction — Peter, the hallway, Daphne, the scar — and for a while I actually felt sorrier for him than suspicious of him, wondering if his careful "may I" ethic was assembled out of his own harm rather than out of strategy. That's real, and I don't want to erase it. But "hills-and-valleys" undid a lot of that sympathy in one flat line: overhearing him tell Sheri, mid-rhapsody about Vee's thumb on his woodwork, that Randi is "not finished" — present tense, no hesitation — made the double life feel administrative rather than tragic. He can hold both women in the same breath without apparent strain, and "Gone" showed me exactly what that costs Vee without her knowledge: her most private, blushing, ashamed self recounted as pillow talk in a bed she doesn't know exists.
+
+The back half of the book is where my trust really cracked, and it cracked on the page, not just from memory — "Seconds," "Under the Rug," "Bare," "Believe Me": three-plus chapters of Vee handing him something enormous (crackers vs. a meal, the demand for a name) and getting back competence, warmth, even physical surrender, but never the word. "Words are cheap. Believe what I do" is, on inspection, a virtue turned into a wall, and it was Sheri — the one person with no angle — who said the thing I'd been circling for chapters: "not saying it matters more to you than having her... that feels pretty shitty." I believed her more than I believed him in that moment.
+
+So where do I land: I trust that his tenderness toward Vee, moment to moment, is real — the shirt, the drawer he cleared out, the flinch at her poke, the "always beautiful" correction. I don't trust the container it's happening in. He is capable of exactly this kind of exact, devoted attention and capable of running her selection like a game with Randi's blessing, and capable of a controlled, practiced refusal to give her the one thing that would make the relationship legible to the outside world — which not coincidentally also keeps his secret intact. I don't think he's cruel. I think he's a man who believes he's only ever giving people what they already wanted, which the jacket flagged from the start as the whole moral hinge of the book. I wouldn't call it trust. I'd call it a held breath.
