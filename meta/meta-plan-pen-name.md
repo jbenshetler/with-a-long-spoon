@@ -4,6 +4,9 @@
 default for the test epub and platform setup; final on registration of the
 domain/email). This is the gating item named in `meta-plan-free-sample.md`.
 
+> **Author bio** (candidates + the "villain-free is a book claim, not a byline
+> promise" ruling) lives in `meta-plan-distribution.md` §5 → *Author bio*.
+
 ## The net of the decision (2026-07-30 discussion)
 
 - **Firewall, not garment.** The name is fully compartmentalized from the

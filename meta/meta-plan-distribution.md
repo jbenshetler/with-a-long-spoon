@@ -190,6 +190,44 @@ below against those. Companions: `meta-plan-free-sample.md` (discovery funnel),
   (Meta/Amazon/Google and most promo newsletters exclude explicit). This suits a long
   series: each volume grows the list that sells the next.
 
+### Author bio (candidates — not yet final)
+
+Workshopped 2026-08-14; **not yet locked** — the author has not selected a final
+version. Design constraints, from this section and `meta-plan-pen-name.md`:
+
+- **Woman's voice, no falsifiable biography.** "Written by a woman" is the POV promise
+  (keep it); everything else stays thin/unfalsifiable per the Persona bullet above. The
+  author's instinct of a specific age (30s) and city (Boston) was set aside: **express
+  30s as *maturity of sensibility*, not a number** (it also sells the emotional-maturity
+  differentiator), and **keep a city out of the public bio** — geography is the most
+  checkable firewall snag (posting times, weather, timezone) and must be maintained for
+  the life of the trilogy. Region ("New England") is the ceiling if any geography is
+  wanted; the recommendation is to source warmth from *taste*, not place.
+- **Ruling — villain-free is a *book/series* claim, never a byline-level author-brand
+  promise.** Let the hook, blurb, and BookTok clips carry "no villain" (true of this
+  trilogy, the sharpest selling point). Keep it out of the *bio*, which is career
+  infrastructure (`helenriversbooks.com` "outlives the trilogy," `meta-cover.md`) — a
+  byline "no villain" would lock out a future antagonist-driven book. The bio's durable
+  through-line is instead: **adults making mistakes with their eyes open, desire taken
+  seriously, heat and depth in one book** — all of which survive a book *with* an
+  antagonist.
+
+Candidates:
+
+- **A · Retailer "About the Author":** "Helen Rivers writes literary erotica for readers
+  who want the heat and the depth in the same book. Her novels are about grown people
+  making beautiful mistakes with their eyes open — the slow burn, the worship, and the
+  cost, with the feeling taken as seriously as the sex. *With a Long Spoon* is her debut
+  trilogy. Come find the next book at helenriversbooks.com."
+- **B · One-line byline:** "Helen Rivers writes grown people making beautiful mistakes
+  with their eyes open."
+- **C · First-person (newsletter / faceless-social):** "Hi — I'm Helen. I write the book
+  I could never find on the shelf: as explicit as I actually wanted, as tender as I
+  actually am, full of grown people making beautiful mistakes with their eyes open. I
+  take desire seriously — where it comes from, what it costs, who it makes us. If you
+  want the heat and the depth in the same book, I wrote this for you." (The
+  career-durable hook "outgrown the tropes but won't give up the heat" can fold in here.)
+
 ## 6. Open items / next steps
 
 - **Choose the discovery-labor investment:** romance-community + faceless-social vs.
