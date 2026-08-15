@@ -42,10 +42,14 @@ mark items done with dates as they complete.*
   Counsel sourcing/briefing: `meta-plan-lawyer.md`; per-volume findings sheet:
   `meta-plan-legal-read.md` (Vol 1).
 - [ ] **Front/back matter completeness** — dedication and acknowledgments
-  decisions; Helen Rivers bio (a positioning artifact — write deliberately,
-  see `meta-plan-pen-name.md`); series page pointing at Volume Two; the
-  call-to-action / mailing-list page (the funnel's conversion point —
-  required for the indie lane, see `meta-plan-free-sample.md`).
+  decisions; Helen Rivers bio (**copy locked 2026-08-15**, three surfaces in
+  `meta-plan-distribution.md` §5 → *Author bio*; use surface 1, the
+  About-the-Author, which already ends on the newsletter CTA — remaining work
+  is wiring it into `build_epub.py`, not writing it); series page pointing at
+  Volume Two; the call-to-action / mailing-list page (the funnel's conversion
+  point — required for the indie lane, see `meta-plan-free-sample.md`). All
+  three are **wide-release** back matter, deliberately absent from the test
+  epub.
 - [ ] **Beta/test-reader synthesis structure** — fixed question set per
   reader so responses aggregate (test-reader plan: `meta-blurb.md` /
   distribution docs).
