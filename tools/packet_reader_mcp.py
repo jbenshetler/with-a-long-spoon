@@ -98,6 +98,8 @@ def write_output(packet_id: str, text: str) -> str:
     body = (text or "").strip()
     if body.lower().startswith("tool_uses:"):
         body = body.split("\n", 1)[1].lstrip() if "\n" in body else ""
+    # Drop a reader-emitted section heading; the destination header already has one.
+    body = re.sub(r"(?is)^\s*#{1,3}\s*(?:reader reaction|checkpoint)\b[^\n]*\n+", "", body, count=1).strip()
     if len(body) < 200:
         raise ValueError("output too short to save")
     dest.parent.mkdir(parents=True, exist_ok=True)
