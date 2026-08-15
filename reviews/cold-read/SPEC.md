@@ -355,9 +355,11 @@ harmless.
 Because checkpoints are grounded (each from raw prose 1..B, no dependency on any other
 checkpoint) and reads are independent, a full grounded run is two fan-out waves, not a
 50-deep serial chain: **(1)** mint ck-010/020/030/040 in parallel; **(2)** fan out all 50
-reads in parallel. `cold_read_grounded.py` runs them sequentially today (correctness
-first — order does not affect any read's result); the independence is what makes a
-parallel orchestration safe to add.
+reads in parallel. `cold_read_grounded.py` implements both: `--jobs N` runs wave 2 as N
+concurrent reads (bounded pool of reused codex sessions — measured 3.1× at N=4 on terra),
+and `--auto-mint` runs wave 1 as parallel checkpoint mints first. The whole DAG in one
+command: `tools/cold_read_grounded.py --model <id> --to 50 --auto-mint --jobs 8`. Order
+never affects a read's result, so concurrency is free correctness-wise.
 
 ## Synthesis
 
