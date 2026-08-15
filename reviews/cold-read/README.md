@@ -100,6 +100,11 @@ emits only a `## Reader reaction` (memory is external now), and files land in
   Claude `blind-reader-grounded` subagent (no API tokens) can be driven by hand.
 - **Contract, format, and the parallel two-wave design:** see `SPEC.md`, "Grounded read
   (v3)."
+- **QA it:** `tools/checkpoint_qa.py` (`--target checkpoints|reads`) runs a consensus
+  battery and flags minority outliers (re-run candidates) vs. whole-panel fails
+  (mis-calibrated checks). Triaged-and-kept failures live in `QA-NOTES.md` + the tool's
+  `ACCEPTED` list. Recovery policy (edit checkpoints, annotate reads, no chain to lose):
+  `SPEC.md`, "Panel QA & recovery."
 
 Each chained file holds two parts: **`## Reader reaction`** (the deliverable — a felt read
 followed by a structured block: cast present in person, Heat/Romance 0–3, motifs &

@@ -361,6 +361,43 @@ and `--auto-mint` runs wave 1 as parallel checkpoint mints first. The whole DAG 
 command: `tools/cold_read_grounded.py --model <id> --to 50 --auto-mint --jobs 8`. Order
 never affects a read's result, so concurrency is free correctness-wise.
 
+### Panel QA & recovery
+
+**`tools/checkpoint_qa.py`** runs a fixed ~20-check battery over the panel's decade
+checkpoints (default) or per-chapter reads (`--target reads`), scoring every model at
+each story point. The checks encode facts the panel agrees on — identity discipline
+(e.g. `randi-not-redhead`, the ch48 failure mode), consummation flags, the secret pair,
+dramatic irony, gender, blindness/leak, checkpoint structure — each gated by an
+`activates_at` chapter. Two signals, deliberately separated:
+
+- a **minority** model failing a **critical** check its peers pass (≥`TRIGGER_MIN_PEERS`
+  peers) → a **re-run candidate** (that one artifact);
+- a check the **whole panel** fails → a **mis-calibrated check**, not a model error
+  (reported as LOW-CONSENSUS; fix the check). Calibrating against the live panel this
+  way caught three check bugs before they triggered spurious re-runs.
+
+Triaged-and-kept failures go in the `ACCEPTED` list (and `reviews/cold-read/QA-NOTES.md`)
+so they report as ACCEPTED, not fresh candidates — the reads-equivalent of the style
+linter's `--ack`. Re-run against the whole panel next time the prose or a checkpoint
+changes.
+
+**Recovery — nothing cascades.** Because reads are independent and checkpoints are each
+grounded from raw prose (not chained), every failure is confined, and a model is never
+"lost" the way a broken chain lost it:
+
+- **A bad read (reaction)** contaminates no later chapter. It is the instrument's
+  *measurement*, so it is **never hand-edited**; re-run once (blind), and if it
+  reproduces, **annotate** it (QA-NOTES + `ACCEPTED`) and keep it. Impact: one chapter.
+- **A bad checkpoint (memory)** affects only its own decade's reads (later decades are
+  independent re-derivations). Repair it **in place** by correcting the wrong fact toward
+  what is on the page in that span — **never** adding future/planning knowledge — with a
+  provenance line in QA-NOTES; or re-mint it if broadly wrong. Then re-run the reads in
+  that decade. Editing memory is legitimate (it is a factual substrate); editing a
+  reaction is not.
+- **Model substitution** needs no "splice seam" (unlike the chained instrument): a
+  failing/retired model can be swapped per-chapter, since each read stands alone. Keep
+  one model per column only for clean cross-model comparison.
+
 ## Synthesis
 
 One `SYNTHESIS.md` per model (in its subdir), for multi-scene runs: the arc-level

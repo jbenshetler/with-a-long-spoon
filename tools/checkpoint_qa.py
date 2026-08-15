@@ -42,6 +42,24 @@ import volume_scenes  # noqa: E402
 # critical fact is the signal; a check the whole panel fails is a check problem.
 TRIGGER_MIN_PEERS = 2
 
+# Accepted flags — a failure the author has triaged and chosen to keep (the
+# "note it and proceed" path). Matching flags are reported as ACCEPTED, not as
+# re-run candidates. This is the reads-equivalent of the style linter's --ack:
+# annotate a recorded reader slip so a later panel run doesn't re-litigate it.
+# (Checkpoints are repaired in place instead — see reviews/cold-read/QA-NOTES.md.)
+ACCEPTED = [
+    {"model": "claude-sonnet-5", "target": "read", "chapter": 48, "check": "randi-not-redhead",
+     "note": "read-to-read variance; sanctioned re-run reproduced the merge; sonnet's own "
+             "checkpoint has redhead=Vee, so memory is correct — an isolated ch48 reaction slip"},
+]
+
+
+def _accepted(model: str, chapter: int, cid: str, target: str):
+    for a in ACCEPTED:
+        if a["model"] == model and a["chapter"] == chapter and a["check"] == cid and a["target"] == target:
+            return a
+    return None
+
 # targets: which artifacts a check is meaningful for. Fact-presence ("require")
 # checks are checkpoint-only — a per-chapter reader need not restate every fact.
 # Error-absence ("forbid") checks apply to both.
@@ -194,7 +212,8 @@ def main() -> None:
                     pt.setdefault(c["id"], {})[model] = check_passes(text, c)
 
     by_id = {c["id"]: c for c in checks}
-    flags = []           # (model, label, check_id, sev)
+    flags = []           # (model, label, check_id, sev)  — live re-run candidates
+    accepted = []        # (model, label, check_id, note) — triaged, kept
     low_consensus = []   # (chapter, check_id, pass_n, total)
 
     for chapter in sorted(results):
@@ -220,7 +239,11 @@ def main() -> None:
                     if not row.get(m):
                         peers_pass = sum(1 for x in present if x != m and row.get(x))
                         if peers_pass >= TRIGGER_MIN_PEERS:
-                            flags.append((m, labels[(chapter, m)], cid, sev))
+                            acc = _accepted(m, chapter, cid, target)
+                            if acc:
+                                accepted.append((m, labels[(chapter, m)], cid, acc["note"]))
+                            else:
+                                flags.append((m, labels[(chapter, m)], cid, sev))
 
     print("\n" + "=" * 70)
     print(f"RE-RUN CANDIDATES (critical, minority-outlier, >={TRIGGER_MIN_PEERS} peers pass):")
@@ -229,6 +252,10 @@ def main() -> None:
             print(f"  {model:18} {label:22} FAILS {cid}  ({by_id[cid]['desc']})")
     else:
         print("  none")
+    if accepted:
+        print("\nACCEPTED (triaged, kept — not re-run; see reviews/cold-read/QA-NOTES.md):")
+        for model, label, cid, note in accepted:
+            print(f"  {model:18} {label:22} {cid}  — {note}")
     if low_consensus:
         print("\nLOW-CONSENSUS CHECKS (panel-wide fail — inspect the CHECK, not the models):")
         seen = set()
