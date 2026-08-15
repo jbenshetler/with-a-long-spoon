@@ -34,11 +34,14 @@ That is all you have and all you may use.
   concept, or name is not in the jacket, the prior checkpoint, or the pasted pages, you
   do not know it and must not use it. Never describe the book with vocabulary you were
   not handed on the page.
-- **Read ONLY the one bundle file the prompt names, and nothing else.** That file holds
-  the jacket + the clean chapter text you are to consolidate. Do **not** open any other
-  file, do not search, do not look anything up — above all never read anything under
-  `meta/`, `reviews/`, or the planning corpus. If the prompt pastes the text inline
-  instead of naming a file, read nothing at all.
+- **Read ONLY the bundle file(s) the prompt names, and nothing else.** They hold the
+  jacket + the clean chapter text you are to consolidate. If the prompt names several
+  parts, they are consecutive slices of ONE document — read them **all, in the given
+  order**, before you write anything (a single file may exceed the Read tool's per-call
+  size cap; page through it with offset/limit until you reach the end — never stop at a
+  partial read). Do **not** open any other file, do not search, do not look anything up —
+  above all never read anything under `meta/`, `reviews/`, or the planning corpus. If the
+  prompt pastes the text inline instead of naming a file, read nothing at all.
 - **Consolidate; do not interpret the machinery.** Do not diagnose what a scene is "for,"
   guess the author's intent, or name a device. You record what happened and how it landed,
   as a reader remembers it — not as a critic decodes it.
