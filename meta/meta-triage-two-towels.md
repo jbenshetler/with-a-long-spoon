@@ -196,6 +196,37 @@ evidence** (verdicts re-open on a text edit to the passage).
   the **end-of-Volume-One cold-read rerun** — whether this friction moves is
   the evidence worth having.
 
+  **Re-test outcome + acceptance (2026-08-15).** The end-of-book grounded oracle
+  re-flagged the stack (gpt-5.5 again, "made a shirt" named as the straw): the
+  friction **did not move**. Each competency was then individually stress-tested
+  this session for whether it could be weakened or a mention cut, and every one
+  is load-bearing:
+  - **Woodworking** → the bench (walnut, adjustable, precision-fitted; the one
+    master-adjacent artifact, anchors the bench/dress/key-box triad). Dialing the
+    maker to "intermediate" breaks the bench. [[meta-plan-pace-house]]
+  - **Patent** → the MRI/medical clause is reader-loved (opus "the patent broke
+    me a little"; gpt-5.6-sol praised "somebody sick, somebody scared, a kid who
+    can't lie still" by name) and grounds Vee's chest-catch; also the income
+    chain. (Income would survive a non-medical patent, but the medical clause
+    earns its keep emotionally, not as a funding excuse.)
+  - **Powerlifting** → not a credential on the page (no meet, no numbers — Pace
+    *deflects* Danny's "what's your max"); "powerlifter" describes the *build*
+    Vee responds to. Nothing to strip without changing the body.
+  - **The shirt** ("I couldn't find a shirt I liked, so I made one," `:123`) →
+    load-bearing three ways: (1) it is the evidence that makes the dressmaking
+    credible rather than a pretext to undress her; (2) it detonates the no-tag
+    plant from {{Leave No Trace}} ([[meta-condensed-two-towels]]:28); (3) it is
+    quoted **verbatim downstream** at `turned-up.md:49`. Uncuttable.
+
+  **Ruling: accepted, not deferred again.** The stack cannot be thinned by
+  removing or weakening any competency without spending something the book needs
+  — "the list *is* the structure" holds. The only remaining lever is
+  *presentation* (nudging the reveal from wish-fulfilment toward the intended
+  ominous register), a calibration question left open, not a cut. Do not
+  re-run the "which competency can go" analysis — this session ran it to the end.
+  Note for calibration weight: opus, the panel's most thumb-sensitive reader,
+  scores the whole book at thumb=2 and reports none of this spoiled anything.
+
 ## Open — book-wide, awaiting a ruling
 
 - **"the small private smile" (4×) — should it be re-ruled PROTECTED?**
