@@ -1,4 +1,4 @@
-# Condensed — Vee Tells Pace About the Kiss (the threesome plant)
+# Condensed — Boyfriend (the threesome plant)
 
 *Scene · Unwritten · late January · that same Saturday night → into Sunday, immediately after {{On Her Floor}} · Vee POV*
 

@@ -179,7 +179,7 @@ Workshop session that **committed** the threesome end-game mechanics and **desig
 Planning note: `meta-note-spring-satc-bridge.md`. It locks the clothing-loan thread, the Vee-reads-Randi spring planting, the revised Spring SATC grid, and the major ordering decisions. The bridge now runs **{{First Taste}} → {{First Taste}} aftermath → Pointing-Game variation → threesome agreement** — *partially relaxed 2026-08-03: First Taste → Agreement is now applied on the date-master (Agreement moved to ~mid July), but the Pointing-Game variation's position relative to the Agreement is re-opened (before = Randi helping convince Vee; after = Randi exciting Vee — author undecided). The variation itself remains unplaced.* Pace does not supply or select a stranger for Vee; Pace and Randi already have a pre-existing understanding, and the first time Vee encounters the woman is during the threesome.
 
 - **Randi runs a Pointing-Game variation with Vee** (the centerpiece, new scene, not in any doc) — Randi "helps" Vee decide what kind of woman she wants, looking around, Vee giving feedback; Randi *is* the type. Reread: she auditions herself, hears Vee want her by proxy. Hosts Vee's suppressed-Randi cracks; feeds the night-cluster "material has become Randi" beat. Vee will masturbate after these sessions.
-- **Germination / agreement split** *(RESOLVED — see chronology):* the single Introduction is dissolved into the plant (*{{Vee Tells Pace About the Kiss}},* ~early Feb), the conversion (*{{A Threesome, With You}},* ~late Feb), spring germination, and the **agreement** (the yes + blindfold/surprise terms, early summer, Vol III). The fully-interactive escalation (*Pace in the room → Pace with the woman*) is **Randi-steered** — mechanism in `meta-note-threesome-reveal.md`; per-brunch staircase steps remain TBD at spring SATC drafting.
+- **Germination / agreement split** *(RESOLVED — see chronology):* the single Introduction is dissolved into the plant (*{{Boyfriend}},* ~early Feb), the conversion (*{{A Threesome, With You}},* ~late Feb), spring germination, and the **agreement** (the yes + blindfold/surprise terms, early summer, Vol III). The fully-interactive escalation (*Pace in the room → Pace with the woman*) is **Randi-steered** — mechanism in `meta-note-threesome-reveal.md`; per-brunch staircase steps remain TBD at spring SATC drafting.
 - **Pace's arrangement = omission**: he never tells Vee the woman is Randi or that the understanding pre-exists Vee's agreement. From Vee's position, Pace handles the unknown third; in reality, Randi is already the woman.
 - **Lay the 16-week spring timeline** so the ramp distributes across spring and thins the crowded late-May→summer run. Discharges chronology Flags 16 & 19.
 
@@ -215,7 +215,7 @@ A research sub-agent auto-wrote `spring-satc-gap.md` into the project memory dir
 
 Committed this session: because the Randi mixer-kiss is **not cheating** (`meta-condensed-on-her-floor.md` beat 9), Vee can bring it to Pace. NEW Pace/Vee beat — Vee tells Pace about the kiss; it turns hot, and Pace asks whether she's ever thought about being with another woman. This **motivates the {{Forbidden Kiss}} coated-kiss test** (taste-thread step 1), and the just-happened Randi kiss gives Vee's *"I'm not gay"* door-slam a concrete referent. Thematically powerful: the two tracks collide through Pace.
 
-Resolved (see chronology + `meta-condensed-vee-tells-pace-about-the-kiss.md`):
+Resolved (see chronology + `meta-condensed-boyfriend.md`):
 - **Placement** — **that same Saturday night → Sunday, immediately after {{On Her Floor}}** (weekend compression, see item 27), and **before {{The Jar}}**, so Randi's control of the Pace-channel leaks.
 - **Merge vs. separate** — its own beat that motivates a still-**unannounced** {{Forbidden Kiss}} (coated kiss stays deniable per `meta-note-taste-thread.md` step 1 / `meta-note-forbidden-kiss.md`).
 - **What Pace reveals/conceals when Vee names Randi (was open):** he **defends himself** — *"You're the one telling me you want Randi"* — the tell being that *he has never defended himself before*. Hairline crack; first-read warmth holds. Full staging in the condensed.
@@ -229,13 +229,13 @@ The restructure moved {{Barely Stings}} / {{Still Life}} / {{Gesso}} to spring a
 
 ## 27. Spring cluster placement — RESOLVED (2026-08-16): weekend compression
 
-Authorial ruling — {{Barely Stings}} / {{Still Life}} / {{On Her Floor}} / {{Vee Tells Pace About the Kiss}} compress into **one late-January weekend**, to keep the wax-smoothness brand-new and stack "Vee just had sex with Pace" (the sex-brain):
+Authorial ruling — {{Barely Stings}} / {{Still Life}} / {{On Her Floor}} / {{Boyfriend}} compress into **one late-January weekend**, to keep the wax-smoothness brand-new and stack "Vee just had sex with Pace" (the sex-brain):
 
 - **{{Barely Stings}}** = **Friday** (wax appointment).
 - Friday night + Saturday morning with Pace (light new canon — already half-implied by On Her Floor's *"He gets me Friday"* + the {{All the Time}} morning-sex pattern).
 - **{{Still Life}}** = **Saturday afternoon** (Pace receives the smoothness), hours before the mixer.
 - **{{On Her Floor}}** = **Saturday night** (prose-pinned).
-- **{{Vee Tells Pace About the Kiss}}** = that same night → Sunday (*"he gets me Sunday"*).
+- **{{Boyfriend}}** = that same night → Sunday (*"he gets me Sunday"*).
 - **{{Gesso}}** moves to **after** the kiss (~early Feb, a few days on) — the kiss becomes a present, unspoken weight in that brunch. Redesigning Gesso against the new charge is **deferred** (author to try it later).
 
 **Settled (author ruling 2026-08-16):** {{On Her Floor}}'s Chi Latte invite + dress-picking (`on-her-floor.md:3–38`, "the edge of the afternoon," then a scene-break before Vee dresses Saturday evening) happens **earlier in the week**, not the mixer weekend — it would be terribly rude of Randi to invite Vee same-day. No exact day is pinned (none is needed); only that it's *not this weekend*, which leaves Saturday afternoon free for {{Still Life}}. The scene-break absorbs the gap; no prose change required.
@@ -330,12 +330,12 @@ ends on her peeling it away — "she had to peel it away from herself… the coo
 weight of it in her fist" — and closing on *"not, even now, anywhere near done."*
 
 Revise so the thong **stays on** (dried, stuck, stained, worn to bed). Reason:
-the next scene, {{Vee Tells Pace About the Kiss}}, opens on Vee driving to Pace's
+the next scene, {{Boyfriend}}, opens on Vee driving to Pace's
 still wearing it — and there's an **ick-factor difference** between a thong that
 was *never taken off* and one *taken off and put back on*. The draft of the next
 scene already assumes the never-off version.
 
 Also decide: the line **"not, even now, anywhere near done"** currently ends On
-Her Floor, and the drafted {{Vee Tells Pace About the Kiss}} now ends on the same
+Her Floor, and the drafted {{Boyfriend}} now ends on the same
 beat. Don't let it close two back-to-back scenes — pick which scene owns it (the
 confession is arguably the stronger home) and vary or cut the other.
