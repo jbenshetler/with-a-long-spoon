@@ -216,11 +216,10 @@ A research sub-agent auto-wrote `spring-satc-gap.md` into the project memory dir
 Committed this session: because the Randi mixer-kiss is **not cheating** (`meta-condensed-on-her-floor.md` beat 9), Vee can bring it to Pace. NEW Pace/Vee beat — Vee tells Pace about the kiss; it turns hot, and Pace asks whether she's ever thought about being with another woman. This **motivates the {{Forbidden Kiss}} coated-kiss test** (taste-thread step 1), and the just-happened Randi kiss gives Vee's *"I'm not gay"* door-slam a concrete referent. Thematically powerful: the two tracks collide through Pace.
 
 Resolved (see chronology + `meta-condensed-vee-tells-pace-about-the-kiss.md`):
-- **Placement** — ~early Feb, right after {{On Her Floor}} and **before {{The Jar}}**, so Randi's control of the Pace-channel leaks.
+- **Placement** — **that same Saturday night → Sunday, immediately after {{On Her Floor}}** (weekend compression, see item 27), and **before {{The Jar}}**, so Randi's control of the Pace-channel leaks.
 - **Merge vs. separate** — its own beat that motivates a still-**unannounced** {{Forbidden Kiss}} (coated kiss stays deniable per `meta-note-taste-thread.md` step 1 / `meta-note-forbidden-kiss.md`).
-
-Still open:
-- **Pace knows Randi intimately** (they're sleeping together). When Vee names *Randi* as the girl she kissed, what does Pace reveal/conceal? Charged; unstaged.
+- **What Pace reveals/conceals when Vee names Randi (was open):** he **defends himself** — *"You're the one telling me you want Randi"* — the tell being that *he has never defended himself before*. Hairline crack; first-read warmth holds. Full staging in the condensed.
+- **Vee's Vol-2 moral-agent turn** — she also **lies** to Pace (*"anything else about you and Randi?"* — conceals that it affected her) and joins the word-withholding triangle, graying her grievance about his unsaid *"I love you."*
 
 -----
 
@@ -228,9 +227,18 @@ Still open:
 
 The restructure moved {{Barely Stings}} / {{Still Life}} / {{Gesso}} to spring and added two new November scenes ({{In His Hands}}, {{All the Time}}). The "adventure" coinage is now homed in {{Still Life}}'s afterglow, single-sourced (`meta-note-still-life.md`). Remaining:
 
-## 27. Spring cluster placement — late-January vs. February risers (DISCUSS)
+## 27. Spring cluster placement — RESOLVED (2026-08-16): weekend compression
 
-{{Barely Stings}} / {{Still Life}} / {{Gesso}} currently sit ~late January. Open whether to keep them there or shift into February among the {{On Top}} / {{Restrained}} risers. Authorial call; affects the spring ramp's density.
+Authorial ruling — {{Barely Stings}} / {{Still Life}} / {{On Her Floor}} / {{Vee Tells Pace About the Kiss}} compress into **one late-January weekend**, to keep the wax-smoothness brand-new and stack "Vee just had sex with Pace" (the sex-brain):
+
+- **{{Barely Stings}}** = **Friday** (wax appointment).
+- Friday night + Saturday morning with Pace (light new canon — already half-implied by On Her Floor's *"He gets me Friday"* + the {{All the Time}} morning-sex pattern).
+- **{{Still Life}}** = **Saturday afternoon** (Pace receives the smoothness), hours before the mixer.
+- **{{On Her Floor}}** = **Saturday night** (prose-pinned).
+- **{{Vee Tells Pace About the Kiss}}** = that same night → Sunday (*"he gets me Sunday"*).
+- **{{Gesso}}** moves to **after** the kiss (~early Feb, a few days on) — the kiss becomes a present, unspoken weight in that brunch. Redesigning Gesso against the new charge is **deferred** (author to try it later).
+
+**Continuity flag for drafters (open):** {{On Her Floor}}'s Chi Latte invite + dress-picking is written as an *afternoon* (`on-her-floor.md:3–38`, "the edge of the afternoon," then a scene-break before Vee dresses Saturday evening). That afternoon **must read as an earlier-in-the-week day**, not the mixer Saturday — otherwise it collides with a Saturday-afternoon {{Still Life}}. No hard prose pin forces the collision (the scene-break absorbs the gap), but keep it explicit when drafting Still Life / re-reading On Her Floor.
 
 ## 28. Drafting queue — the two new November scenes + Still Life completion (DRAFT)
 
