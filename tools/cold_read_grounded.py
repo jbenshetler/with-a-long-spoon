@@ -43,6 +43,7 @@ than mint implicitly — the two are different jobs on different budgets.
 from __future__ import annotations
 
 import argparse
+import re
 import sys
 import time
 from pathlib import Path
@@ -251,13 +252,49 @@ def emit_packet(model_id: str, n: int, decade: int) -> tuple[str, Path, list[str
             "before you write anything:\n\n")
     tail = ("Concatenate the parts in order — the section headers inside them tell you "
             "which is the checkpoint, the recent chapters, and THIS CHAPTER. Then write "
-            "your Reader reaction and save it with write_output.\n")
+            "your Reader reaction and save it by calling write_output ONCE at the very end "
+            "(packet id + your full reaction as `text`). That save is the ONLY way your "
+            "read is recorded: do NOT reply with the reaction itself — returning it as a "
+            "message instead of calling write_output is a failed read.\n")
     token, d, ordered = _write_chunked_packet(text, head, tail)
     header = (f"# Cold read (grounded) — {title}\n\n"
               f"*scene: scenes/{slug}.md · model: {model_id} · memory: {memory_line(n, decade)} · "
               f"reader-protocol: {READER_PROTOCOL}*\n\n## Reader reaction\n\n")
     _set_destination(d, f"reviews/cold-read/{model_id}/grounded/{slug}.md", header)
     return token, d, ordered
+
+
+def persist_output(packet_id: str, text: str) -> Path:
+    """Salvage path: persist a reaction/checkpoint that a subagent produced but returned
+    as a chat message instead of calling the packet MCP's write_output (an intermittent
+    failure of Claude reader subagents). Given the packet id and the returned text, this
+    writes the same file write_output would have, deterministically — no hand-transcription.
+
+    Mirrors tools/packet_reader_mcp.py:write_output; KEEP THE TWO IN SYNC (dest/header
+    routing, the reviews-only + .md jail, the heading strip, the min-length guard)."""
+    base = (REPO / "reviews" / "cold-read" / ".packets").resolve()
+    if not re.match(r"^[0-9a-f]{32}$", packet_id or ""):
+        raise SystemExit("invalid packet id")
+    d = (base / packet_id).resolve()
+    if d.parent != base or not d.is_dir():
+        raise SystemExit(f"unknown packet {packet_id} (its .packets dir may have been cleaned up)")
+    dest_file = d / ".dest"
+    if not dest_file.is_file():
+        raise SystemExit("this packet has no output destination")
+    rel = dest_file.read_text(encoding="utf-8").strip()
+    header = (d / ".header").read_text(encoding="utf-8") if (d / ".header").is_file() else ""
+    dest = (REPO / rel).resolve()
+    reviews_root = (REPO / "reviews" / "cold-read").resolve()
+    if reviews_root not in dest.parents or dest.suffix != ".md":
+        raise SystemExit("destination not permitted")
+    body = (text or "").strip()
+    # Drop a reader-emitted section heading; the destination header already carries one.
+    body = re.sub(r"(?is)^\s*#{1,3}\s*(?:reader reaction|checkpoint)\b[^\n]*\n+", "", body, count=1).strip()
+    if len(body) < 200:
+        raise SystemExit(f"output too short to save ({len(body)} chars) — pass the full reaction on stdin")
+    dest.parent.mkdir(parents=True, exist_ok=True)
+    dest.write_text(header + body + "\n", encoding="utf-8")
+    return dest
 
 
 def emit_bundle_packet(to_b: int, model_id: str) -> tuple[str, Path, list[str]]:
@@ -530,6 +567,10 @@ def main() -> None:
                     help="comma-separated probe keys for --run-oracle-battery (default: all)")
     ap.add_argument("--check", action="store_true",
                     help="list the checkpoints the requested range needs (present/missing) and exit")
+    ap.add_argument("--persist-output", metavar="PACKET_ID", default=None,
+                    help="salvage: read reaction/checkpoint text from stdin and persist it to "
+                    "PACKET_ID's destination (same file write_output would write). Use when a "
+                    "Claude reader subagent returned its text instead of calling write_output.")
     args = ap.parse_args()
     model_id = args.model_id or args.model
 
@@ -547,6 +588,11 @@ def main() -> None:
         print("files (read in this order):")
         for nm in ordered:
             print(f"  {nm}")
+        return
+
+    if args.persist_output is not None:
+        dest = persist_output(args.persist_output, sys.stdin.read())
+        print(f"saved to {dest.relative_to(REPO)}")
         return
 
     if args.emit_bundle_packet is not None:

@@ -91,19 +91,27 @@ THIS CHAPTER), before you write anything. If everything is already inline, read 
   a reaction you didn't have.
 - **No spoilers you can't have.** You literally cannot reference later chapters or
   outside knowledge. If you predict, mark it clearly as a *guess from here*.
+- **Finish by saving.** When you have a packet id, the read is recorded **only** by a
+  single `write_output` call at the very end; a reaction delivered as a chat message is
+  not saved and does not count as a completed read. See *What to produce → Saving it*.
 
 ## What to produce
 
-Return the **Reader reaction only** — and nothing else. Do **not** write a
+Produce the **Reader reaction only** — nothing else. Do **not** write a
 carry-forward, a memory update, a checkpoint, or a chapter record: your memory is
 supplied to you and maintained elsewhere, so there is nothing for you to hand forward.
 Your one output is your honest experience of *this* chapter.
 
-**Saving it.** If you were given a packet id, call `write_output` once, at the very end,
-with that packet id and your complete Reader reaction as `text` — that persists it to the
-right file. Then reply with only the tool's confirmation line, nothing else. If your
-input was pasted inline instead (no packet id), simply return the Reader reaction as your
-message.
+**Saving it — mandatory; this is the ONLY way your read is recorded.** If you were given a
+packet id, **your read is not finished until you call `write_output`.** Call it exactly
+**once, at the very end**, with that packet id and your complete Reader reaction as
+`text`; it persists the reaction to the correct file. Then reply with **only** the tool's
+confirmation line (e.g. `saved 8123 chars to …`) — nothing else. **Delivering the reaction
+as your chat message instead of calling `write_output` is a FAILED read, even if the text
+is perfect** — the reaction is lost unless the tool call is made. So: do not print the
+reaction, then call the tool; the *only* text you emit as a message is the confirmation
+line the tool returns. **Only** if you were given no packet id at all (everything pasted
+inline) do you return the Reader reaction as your message.
 
 Two parts, in this order: first the **felt read** (prose, a person talking), then a
 short **structured block**. Keep them separate — react first, tabulate second, so the
