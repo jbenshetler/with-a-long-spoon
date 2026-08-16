@@ -75,6 +75,20 @@ def vol1_slugs() -> list[str]:
     return checkpoint_bundle.volume_scenes.volume_one_slugs(drafted_only=True)
 
 
+def reader_slugs() -> list[str]:
+    """The grounded reader's chapter sequence: Vol 1 drafted (1..50) followed by
+    Vol 2 drafted, in chronology order. Vol 1 is exactly 50 drafted scenes, so
+    appending Vol 2 never shifts a Vol 1 index — a Vol 1 read (n<=50) is byte-for-byte
+    what it was before Vol 2 existed. Vol 2 drafts become 51, 52, ... and read from
+    ck-ch050 (end of Vol 1) plus the raw prose of any earlier drafted Vol 2 chapters.
+    NOTE: only chapters flagged 'Draft complete' in the chronology are included, so
+    planning-only chapters between Vol 2 drafts are (unavoidably) skipped — the reader
+    will see narrative gaps where unwritten chapters belong. The oracle battery
+    deliberately stays on vol1_slugs()."""
+    vol2 = checkpoint_bundle.volume_scenes.scenes_for_volume(2, drafted_only=True)
+    return vol1_slugs() + [s["slug"] for s in vol2]
+
+
 def boundary(n: int, decade: int) -> int:
     """Last decade checkpoint strictly before chapter n (0 = none / opening cold)."""
     return ((n - 1) // decade) * decade
@@ -117,7 +131,7 @@ def build_window(b1: int, b2: int) -> str:
     the reader is never told this chapter's index). Empty when b1 > b2."""
     if b1 > b2:
         return ""
-    slugs = vol1_slugs()
+    slugs = reader_slugs()
     parts: list[str] = []
     for i in range(b1, b2 + 1):
         slug = slugs[i - 1]
@@ -128,7 +142,7 @@ def build_window(b1: int, b2: int) -> str:
 
 def build_prompt(model_id: str, n: int, decade: int) -> str:
     """Assemble the grounded reader prompt for chapter n (1-based)."""
-    slugs = vol1_slugs()
+    slugs = reader_slugs()
     slug = slugs[n - 1]
     title = checkpoint_bundle.display_title(slug)
     b = boundary(n, decade)
@@ -227,7 +241,7 @@ def emit_packet(model_id: str, n: int, decade: int) -> tuple[str, Path, list[str
     """Write chapter n's reading packet (the assembled grounded read prompt — jacket +
     checkpoint + window + this chapter) as sub-cap chunk files under a token dir, for a
     sandboxed blind-reader-grounded subagent. Returns (token, dir, ordered names)."""
-    slug = vol1_slugs()[n - 1]
+    slug = reader_slugs()[n - 1]
     title = checkpoint_bundle.display_title(slug)
     text = build_prompt(model_id, n, decade)
     head = ("This is your reading packet — ONE continuous document (your jacket, your "
@@ -406,7 +420,7 @@ def strip_leading_heading(text: str) -> str:
 
 
 def write_review(model_id: str, n: int, decade: int, reaction: str) -> Path:
-    slugs = vol1_slugs()
+    slugs = reader_slugs()
     slug = slugs[n - 1]
     title = checkpoint_bundle.display_title(slug)
     b = boundary(n, decade)
@@ -431,7 +445,7 @@ def write_review(model_id: str, n: int, decade: int, reaction: str) -> Path:
 
 
 def resolve_range(args) -> list[int]:
-    slugs = vol1_slugs()
+    slugs = reader_slugs()
     if args.scope:
         if args.scope not in slugs:
             raise SystemExit(f"unknown slug: {args.scope}")
@@ -576,7 +590,7 @@ def main() -> None:
                 load_checkpoint(model_id, b)  # raises with the mint command for the first
         mint_checkpoints(model_id, missing, args, jobs=args.jobs)
 
-    slugs = vol1_slugs()
+    slugs = reader_slugs()
     todo = [n for n in chapters
             if args.fresh or not (REPO / f"reviews/cold-read/{model_id}/grounded/{slugs[n-1]}.md").exists()]
     skipped = [n for n in chapters if n not in todo]
