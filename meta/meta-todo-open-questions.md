@@ -219,7 +219,7 @@ Resolved (see chronology + `meta-condensed-vee-tells-pace-about-the-kiss.md`):
 - **Placement** — **that same Saturday night → Sunday, immediately after {{On Her Floor}}** (weekend compression, see item 27), and **before {{The Jar}}**, so Randi's control of the Pace-channel leaks.
 - **Merge vs. separate** — its own beat that motivates a still-**unannounced** {{Forbidden Kiss}} (coated kiss stays deniable per `meta-note-taste-thread.md` step 1 / `meta-note-forbidden-kiss.md`).
 - **What Pace reveals/conceals when Vee names Randi (was open):** he **defends himself** — *"You're the one telling me you want Randi"* — the tell being that *he has never defended himself before*. Hairline crack; first-read warmth holds. Full staging in the condensed.
-- **Vee's Vol-2 moral-agent turn** — she also **lies** to Pace (*"anything else about you and Randi?"* — conceals that it affected her) and joins the word-withholding triangle, graying her grievance about his unsaid *"I love you."*
+- **Vee's Vol-2 moral-agent turn** — she also **lies** to Pace (denies wanting a woman when he asks; his probe generalized off Randi's name, per her friendship emphasis) and joins the word-withholding triangle, graying her grievance about his unsaid *"I love you."*
 
 -----
 
