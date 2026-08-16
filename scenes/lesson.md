@@ -154,13 +154,11 @@ But the music was loud and he was an effortless lead and she let it go.
 
 ---
 
-He went to the bar for drinks. She stood near the wall with her arms at her sides, warm, her pulse going in her neck.
+He went to the bar for drinks, and she stayed by the wall, warm from the floor and her pulse still going in her neck, and watched him go — and watched a blonde come off the end of the rail and reach him before the bartender did. Vee was too far to hear any of it. A pretty thing, lit up, a hand landing light on his forearm, her face turned up to his like a woman who already knew the shape of him. Pace said something back, easy, no different than he'd have been with anyone, and turned to give the bar his order. The blonde's hand came away slow, and she came off the bar and crossed the floor to Vee.
 
-"Y'all look great together."
+"Y'all look great together." Warm — and up close the makeup was doing a lot of work, the kind that held up in the dark and would be too much by daylight, the smile fully up and something under it that wasn't. "He's such a great lead, isn't he? Knows how to get a girl to do just what he wants her to." A sip of her drink, her eyes on Vee over the rim. "All us girls love him. He's so good about getting a girl home safe at the end of the night."
 
-She turned. A blonde about her own age, country pretty in the standard issue — hair done, makeup with no apology for being makeup, the kind that worked in the dark and would be too much by daylight. She said it warm, and kept going. "He's such a great lead, isn't he? Knows how to get a girl to do just what he wants her to." A sip of her drink, her eyes on Vee over the rim. "All us girls love him. He's so good about getting a girl home safe at the end of the night."
-
-And she moved off, pleased with herself, before Vee could find anything to say back.
+And she went back into the noise before Vee could find anything to say.
 
 Vee stood there. *The girls.* All the bright smiles and shiny eyes and big hugs for Pace. She'd let herself feel like an exception. She was looking at the rule.
 
@@ -200,25 +198,31 @@ She knew what she was doing, and she did it anyway. She'd thought she was specia
 
 She gave up the wall for a stool at the end of the bar. She nursed one drink and made it last. Men came by the way they do for a woman sitting alone — she turned each of them down without quite looking at them, until they quit coming. The band packed up. The floor thinned out. She stayed until the lights began to come up.
 
-The woman behind the bar was older, and moved with the economy of someone who'd worked this room a long time. She set a glass of water in front of Vee without being asked.
+The woman behind the bar was older, and moved with the economy of someone who'd worked this room a long time. She cleared the empties from around Vee without a word, and would have gone on down the bar.
 
-"I hear you tore into Pace tonight."
+"Do you know Pace?" Vee said.
 
-"Yeah." Vee didn't look up. "So?"
+The woman looked at her. "Everybody here knows Pace."
 
-"He's a good guy."
+"Does he—" The blonde came up in her own mouth, and she made herself say it anyway. "Does he give girls rides home?"
 
-"I don't need a man who *gets all the girls home safely*."
+"Not tonight, he doesn't." She racked a glass. "Pace left a while ago. Word is he had a fight with his date."
 
-The woman huffed, not quite a laugh, and went on with what she was doing — glasses up out of the rack, rag over the taps.
+Vee looked at the bar top. "I was his date."
 
-Vee watched her a while. Then, despite herself: "Why do you like him?"
+"Huh." The woman took her in again, the once-over she hadn't bothered with the first time. "You're the one the girls were all talking about."
 
-"When a girl's had too much, Pace gets her home." She didn't look up from the glasses. "Leaves her at the door. Doesn't take advantage — I'd have heard otherwise. Not that plenty haven't tried, hoping he would."
+Something in Vee wanted up off the stool and out the door, and she stayed, because she'd started it now and she needed the rest of it.
+
+"Somebody told me he gets all the girls home safe," she said. "Like it's a thing he runs."
+
+The woman huffed, not quite a laugh, and went back to the glasses. For a while Vee thought that was all she'd get.
+
+"When a girl's had too much, Pace gets her home." She didn't look up from the rack. "Leaves her at the door. Doesn't take advantage — I'd have heard otherwise. Not that plenty haven't tried, hoping he would."
 
 Vee looked at her hands on the bar.
 
-"Pace don't bring dates. Tonight he brought one, on a Thursday, when folks come here to dance." She set the last glass up and looked at Vee. "Wasn't him they were jealous of, honey."
+"And he don't bring dates, as a rule." The woman set the last glass up and looked at her, flat, done being asked for things. "Tonight he brought one, on a Thursday, when folks come here to dance." A beat. "Wasn't him they were jealous of, honey."
 
 She moved off down the bar. The lights came up the rest of the way, and Vee sat there in it.
 

@@ -1,3 +1,74 @@
+# Triage — Lesson (bartender/blonde revision + Phase-1 re-read, 2026-08-15)
+
+Reopens the grounded end-of-book oracle's **"author's thumb"** finding on this
+chapter's fight-night vindication (`reviews/cold-read/*/oracle/thumb--pointed.md`,
+2026-08-15 battery). New reader cohort, new evidence — so the 2026-07-27 "blonde
+is functional/thin = correct POV behavior" ruling is *augmented*, not contradicted.
+
+## The flag
+- **sonnet (oracle):** the apology arc "resolved Vee's guilt a little too cleanly
+  in Pace's favor — the blonde cast as pure villain, the bartender's vindication
+  doing the same work twice." (The oracle mis-located the beat to the apology
+  chapter {{A Recognized Method}}; the blonde + bartender both live here.)
+- On the grounded panel, two of three codex readers independently snagged on the
+  **blonde** as a convenient device: sol "more a blade than a person… engineered
+  to hit every insecurity at once"; gpt-5.5 "almost too perfectly barbed."
+
+## The fix — two edits, re-seating not softening
+1. **Bartender (`:203`–`:225`): Vee pulls the vindication instead of receiving it.**
+   The bartender no longer volunteers "He's a good guy"; Vee opens ("Do you know
+   Pace?") and works down through three questions. "Pace don't bring dates" →
+   **"he don't bring dates, as a rule"** (author ruling: "rarely" is more plausible
+   than "doesn't," and it protects the {{The Usual}} detonation, below). The
+   doesn't-take-advantage content and the "wasn't him they were jealous of, honey"
+   specialness plant are preserved — now earned, not handed over.
+2. **Blonde (`:157`–`:161`): motivated by an on-page cause.** Vee now *watches*
+   the blonde go to Pace at the bar and bounce off (out of earshot) before crossing
+   to her — a woman who got the courteous nothing, salting the girl he brought (and
+   a live instance of the bartender's later "plenty haven't tried, hoping he would").
+   One humanizing tell: "the smile fully up and something under it that wasn't."
+   Vee misreads the bounce-off as intimacy; the reader catches the rebuff. Staged
+   ambiguous in Vee's POV by design — a clean rejection would kill her motive.
+
+## Phase-1 re-read (two runs, 5 models, isolated window: ck-ch020 + raw peekaboo→rock + this chapter; $0 API — codex trio via uv, opus/sonnet via sandboxed subagents)
+- **Run 1 (bartender fix only):** sonnet's flag resolved 5/5 — vindication reads as
+  earned payoff, nobody flagged the bartender as thumb (terra: "supports rather than
+  magically proves him"; sonnet: the reframe is the chapter's "gut-punch… cleanly
+  and devastatingly," with no wish for Pace to be complicated). "As a rule" read as
+  intended (sol: "not usually… Vee really was the exception she feared she wasn't").
+  New residual surfaced: the **blonde** (sol/gpt-5.5/opus).
+- **Run 2 (+ blonde restage):** blonde signal cleared for everyone who raised it —
+  sol "arranges true facts to hurt" (reads the tell); gpt-5.5 "earned Vee's spiral,"
+  no friction; opus "the theatricality as *hers*… **not the author's thumb**. I
+  bought it"; sonnet "not a plot contrivance"; terra "plausible in the moment."
+
+## Left standing — do not re-litigate
+- **Residual bartender "too clean" note (opus, sol, sonnet — all three forgave).**
+  With the blonde no longer the seam, a faint thumb relocated onto the bartender's
+  reversal being "almost too clean / conveniently has the exact info." All let it go
+  ("earned its keep," "didn't feel cheap"). **By design:** that slight over-cleanness
+  *is* the manufactured-specialness "wasn't him they were jealous of" — the false
+  comfort **Sheri detonates in {{The Usual}}** (`the-usual.md:87`, "that brunette
+  you brought dancing before Thanksgiving"). Softening it would blunt the payoff; the
+  "as a rule" change was verified against that detonation and *tightens* it (no false
+  absolute for Sheri to contradict).
+- The 2026-07-27 "blonde is functional/thin = correct POV behavior" ruling stands;
+  the restage added *motivation*, not interiority — she remains a barb Vee experiences
+  as a barb.
+
+## Deferred to Phase-2
+- This edit changes ch26, so `ck-030`/`ck-040` still hold the pre-edit Lesson prose.
+  Re-mint + downstream re-read folds into the Phase-2 pass (with {{We Find Out}} and
+  the professor thread), not now.
+
+## Linter
+- New prose introduced a `held-past` tic ("a second past what the moment held") and a
+  `the-way` hit ("all the way up"); both recast before the readers saw it. Two residual
+  `warm` infos trace to the original wording and the 2026-08-07 ack rationale
+  (`:157`/`:161`, different senses) — left standing.
+
+---
+
 # Triage — Lesson (timeline sweep, 2026-08-03)
 
 ## Fixed
