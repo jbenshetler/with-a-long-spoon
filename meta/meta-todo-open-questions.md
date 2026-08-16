@@ -238,7 +238,7 @@ Authorial ruling — {{Barely Stings}} / {{Still Life}} / {{On Her Floor}} / {{V
 - **{{Vee Tells Pace About the Kiss}}** = that same night → Sunday (*"he gets me Sunday"*).
 - **{{Gesso}}** moves to **after** the kiss (~early Feb, a few days on) — the kiss becomes a present, unspoken weight in that brunch. Redesigning Gesso against the new charge is **deferred** (author to try it later).
 
-**Continuity flag for drafters (open):** {{On Her Floor}}'s Chi Latte invite + dress-picking is written as an *afternoon* (`on-her-floor.md:3–38`, "the edge of the afternoon," then a scene-break before Vee dresses Saturday evening). That afternoon **must read as an earlier-in-the-week day**, not the mixer Saturday — otherwise it collides with a Saturday-afternoon {{Still Life}}. No hard prose pin forces the collision (the scene-break absorbs the gap), but keep it explicit when drafting Still Life / re-reading On Her Floor.
+**Settled (author ruling 2026-08-16):** {{On Her Floor}}'s Chi Latte invite + dress-picking (`on-her-floor.md:3–38`, "the edge of the afternoon," then a scene-break before Vee dresses Saturday evening) happens **earlier in the week**, not the mixer weekend — it would be terribly rude of Randi to invite Vee same-day. No exact day is pinned (none is needed); only that it's *not this weekend*, which leaves Saturday afternoon free for {{Still Life}}. The scene-break absorbs the gap; no prose change required.
 
 ## 28. Drafting queue — the two new November scenes + Still Life completion (DRAFT)
 
