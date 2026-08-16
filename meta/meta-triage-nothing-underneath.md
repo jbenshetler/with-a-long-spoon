@@ -1,3 +1,26 @@
+# Triage — Nothing Underneath (reveal-telegraph trim, 2026-08-15)
+
+Closes the grounded end-of-book oracle's one-reader "author's thumb" note
+(terra, `oracle/thumb--pointed.md`: "'Nothing Underneath' also telegraphed Vee's
+coat reveal a little"). Untriaged until now.
+
+- **The seam:** `:23`'s pre-visualization scripted the payoff, *including his
+  reaction* — "What his face would do first. What he would do after, with all of
+  her offered up and no fight left anywhere in it" — which `:69`–`:73` then
+  deliver (the coat opening; the wall gone; him to his knees).
+- **Fix (surgical):** cut those two sentences only. Vee's rehearsal of her own
+  gesture stays (the hands, the buttons, "the coat sweeping open on nothing at all
+  underneath… handed to him at once," the movie-reveal image) — she is still
+  psyching herself up, which is character, not telegraph — but *his* response is
+  withheld, so the doorstep reveal lands as an event rather than a fulfilled stage
+  direction. The rehearsal itself is load-bearing (the nothing-under-the-coat
+  appeal is Randi's idea; the reveal is the act that repairs the relationship).
+- **Not re-run:** one-reader, low-heat flag; a two-sentence cut touching no payoff
+  line and no reader-protected phrase — full-panel re-read judged unnecessary
+  (available on request).
+
+---
+
 # Triage — Nothing Underneath (line audit, 2026-08-03)
 
 Sentence-by-sentence consistency/logic audit (`audits/line-audit/nothing-underneath.md`).
