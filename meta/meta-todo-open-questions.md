@@ -319,3 +319,23 @@ units), and bring proposed edits to the author per beat. Facts and reread
 structure stay untouched — the manipulation lives in the facts, never the tone.
 Identify the Pace-POV subset from the chronology's `present:`/POV metadata at
 audit time (e.g. `a-round.md`, `vee-on-the-bench.md`); `the-bench.md` is done.
+
+-----
+
+## 33. On Her Floor coda — leave the thong ON (thong-stays-on for the next scene) — added 2026-08-16
+
+Author ruling (2026-08-16): change {{On Her Floor}}'s coda so Vee does **not** peel
+the green thong off. Currently the coda (`scenes/on-her-floor.md` ~lines 183–185)
+ends on her peeling it away — "she had to peel it away from herself… the cooling
+weight of it in her fist" — and closing on *"not, even now, anywhere near done."*
+
+Revise so the thong **stays on** (dried, stuck, stained, worn to bed). Reason:
+the next scene, {{Vee Tells Pace About the Kiss}}, opens on Vee driving to Pace's
+still wearing it — and there's an **ick-factor difference** between a thong that
+was *never taken off* and one *taken off and put back on*. The draft of the next
+scene already assumes the never-off version.
+
+Also decide: the line **"not, even now, anywhere near done"** currently ends On
+Her Floor, and the drafted {{Vee Tells Pace About the Kiss}} now ends on the same
+beat. Don't let it close two back-to-back scenes — pick which scene owns it (the
+confession is arguably the stronger home) and vary or cut the other.
