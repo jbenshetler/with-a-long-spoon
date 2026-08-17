@@ -46,7 +46,7 @@ He held still under her after, still inside her, one hand open on her back, not 
 
 "That." A beat. "That wasn't you wound up — I know that one. That was angry, Vee." His hand stayed open on her back, not moving. "Did something happen at the mixer?"
 
-She didn't answer right away. She kept her face in his neck. He already knew — not *what,* but that there was a what; he'd felt it in how she'd used him, and there was no folding that back up. And under the being-caught, worse than it, was the other thing: some part of her was already reaching for this, dying to set the whole weight of it down in front of somebody at last. She cared, terribly, who the somebody was. There was one person in the world she told her secrets to, one she'd have carried this to warm, before it had even finished happening — and that was the one person on earth it could never go to, because it *was* her. So it had gone nowhere, all night, only built; and now here was Pace, who'd felt it in the dark and asked, holding open the one door there was. The caught part of her and the dying-to-tell part reached for it together.
+She didn't answer right away. She kept her face in his neck. He already knew — not *what,* but that there was a what; he'd felt it in how she'd used him, and there was no folding that back up. And under the being-caught, worse than it, was the other thing: some part of her was already reaching for this, dying to set the whole weight of it down in front of somebody. She cared, terribly, who the somebody was. There was one person in the world she told her secrets to, one she'd have carried this to — and that was the one person on earth it could never go to, because it *was* her. So it had gone nowhere, all night, only built; and now here was Pace, who'd felt it in the dark and asked, holding open the one door there was. The caught part of her and the dying-to-tell part reached for it together.
 
 The other one would sooner have gone in the ground with it. *This does not get said,* it said, flat, from behind a shut door. *Not this. Not ever.*
 
@@ -84,7 +84,7 @@ It took her a second to catch the shape of it: that he meant to make her buy it 
 
 She'd meant it flat — it was only the word for the thing, a plus-one, a favor. But he let her down an inch for it, one exact inch, and the inch made her hear the word again, hear it the way he'd just heard it: that she had gone on a *date.* With Randi. It came back warmer and worse than she'd said it, and she slowed on him, feeling it, feeling him feel it.
 
-"There's a mixer every fall. She gets a plus-one, and she spent it on me." It came easier once it was moving. "She could've asked anyone. She said guys you have to manage all night, and me she just gets to *have.*"
+"There's a mixer every spring. She gets a plus-one, and she spent it on me." It came easier once it was moving. "She could've asked anyone. She said guys you have to manage all night, and me she just gets to *have.*"
 
 He pushed her all the way down onto him for that, slow, the whole length, till she was seated and full and breathing around it — and it happened again, worse: she heard what she'd just said, what it meant that Randi just got to *have* her, and the heat climbed, and she could not have told you how much of it was the thought and how much was him buried to the root in her. Then he drew her back up, emptying her out for the next answer.
 
@@ -188,6 +188,10 @@ He had her at the top again and held her there, and she understood at last what 
 
 He drove her over. All of him at once, nothing kept back, and she came apart on him, gone where he'd sent her. He went a beat after, up into her, and gathered her whole weight in against him.
 
+She came back to herself in pieces, from a long way off. His mouth first — they were kissing, still or again, she couldn't have said when it had started, slow and open and unfinished. Then his heart, hammering into her breast where they were crushed chest to chest, going like it had somewhere to be. Then the sweat, hers and his run into one, slick everywhere they touched, stinging where it had gotten into her eyes. She was trembling and couldn't have said for how long. When he softened and slipped out of her she felt herself open and run, warm, everything the two of them had just made sliding down the inside of her thigh and onto him, hers and his together — and she let it, and didn't move.
+
+For a little while there was nothing in the room but the two of them, and the third one she'd carried in on her mouth. Salt and lime — she could still taste her, under everything, past the coming; it had not washed out. Her whole weight was down on him now, the man, solid and hers, and the woman was still in her mouth, and she could not have told, even now, which of them she'd been chasing at the end.
+
 ---
 
 After, the pressure was gone and the fear came in where it had been.
@@ -202,25 +206,33 @@ After, the pressure was gone and the fear came in where it had been.
 
 She wanted him to say more of that. She wanted a wall of it built around her.
 
-Because that was the rule, the one she'd lived by so long she'd never once had to say it out loud: it wasn't the doing that made you a cheat, it was the keeping of it — the lie in the dark, the phone turned face-down, the thing carried around behind your teeth where no one could reach it. And she didn't do that. She was here, wasn't she, at one in the morning, handing him every piece of it. She never kept anything from him. The thought went by clean and warm and did not stop to count the hundred goodbye kisses, or what her own hand had been doing two hours ago in the dark, or whose name it had been doing it to.
-
 He was quiet a moment, and his hand found her hair and pushed it back off her face, and when he spoke it was in the flat plain voice he used for the true things, the one with no push in it at all.
 
-"Is there anything else you want to tell me?" he said. And then, before she could get her feet under her, easy, idle, like a man squaring a small thing off a list: "Do you want to be with a woman, Vee?"
+"Anything else you want to tell me?" he said. "About Randi."
+
+She had her answer before he'd finished the question, and it came up out of the rule she'd lived by so long she'd never once had to say it out loud: it wasn't the doing that made you a cheat, it was the keeping of it — the lie in the dark, the phone turned face-down, the thing carried around behind your teeth where no one could reach it. And she didn't do that. She was here, wasn't she, at one in the morning, handing him every piece of it. She never kept anything from him.
+
+And yet there they were: the goodbye kisses, the hundred of them, the way they'd drifted months back from the cheek to the mouth to open and stopped being anything she noticed; and her own hand, earlier, in the dark of her room, on the new bare of her, and the name that had been in her head while it moved. But the kisses were just Randi, just how the two of them were, everyone knew they were like that; and the other was hers, a thing a body did alone, to itself, nothing to do with anyone. It sorted itself before it reached her mouth, and her mouth was already moving. "No," she said. "Nothing." No pause in front of it, no catch — level as a countertop.
+
+"Okay," he said. And then, easy, idle, before she could get her feet back under her, like a man clearing the last small thing off a table: "Do you want to sleep with a woman, Vee?"
 
 Not Randi. He didn't say Randi. She'd just told him whose the friendship was, and he'd stepped around the name like a gentleman stepping around a puddle, and she was so grateful for the room he'd left her that she walked straight into it.
 
-"No," she said. "God, no. I'm not — it was a *joke.*" The word came up small and young and too fast, the way the truest lies do, and she felt it leave her and could not call it back. "I'm not gay."
+"No—" Fast, reflexive, out before the question had finished landing. "I—" And then nothing. The reflex gave out and left her over open air, a half-second with no next word in it she was willing to say, and she felt the drop and got a floor down over it the only way she knew, talking. "It's not like that, Pace. I was so keyed up, all night, that's all. Saturday's mine with you, it always is, and my body just missed you."
 
-"I didn't say gay."
+"It was a stupid joke that got away from me. It was the drinks. We have so much of this, you and me, and I love it, I do — and it's not that it isn't enough, it's that—" too far in to stop it "—however much we get, I just want more." She heard how that could be taken, and reached for the hardest wall she had.
 
-"You know what I mean." And because the ground under her was giving, she did the thing she always did, she grabbed the nearest thing that would hold her weight and swung the whole matter off herself and onto him. "You're the one who's — you're enjoying this. You want to hear it. You want me to want—" and it was out before she could stop it, the name she'd just so carefully put away, "—you want Randi."
+"I'm not gay."
 
-Something moved in his face. Not much. But she had known that face across a lot of dark rooms now, had watched it stay level through things that would have broken another man's open, and she had never once seen it reach for a defense — and it reached now, just barely, just for the length of a breath.
+"I didn't say gay," he said.
 
-"You're the one telling me you want Randi," he said.
+"You know what I mean." And because the ground was giving under her now, she did the thing she always did — grabbed the nearest thing that would take her weight and swung the whole matter off herself and onto him. "You're the one who wants this," she said. "You want to hear it. You want me to want—" and the name was out before she could stop it, the one she'd just so carefully folded away, "—you want Randi."
 
-It was fair. It was completely fair; she'd walked in the door and put it in his mouth herself. She heard it as fair. A boyfriend, batting away a jealous thing she'd thrown at him because she had nowhere else to throw it. She let it land as that, and she let him gather her back in, and she did not — could not — see the other thing, the small strange fact of it, that Pace, who never once defended himself, had just defended himself, and only when she'd said that one name.
+Something crossed his face — a flicker, the smallest thing — and then he answered her.
+
+"You keep saying her name, Vee." Gentle, no edge in it anywhere. "Not me." He drew her in, his mouth at her hair. "It's all right. I don't mind."
+
+He'd defended himself. He never defended himself — in every argument they'd ever had he left her the whole of the room, let her say the unfair thing and the true thing both without once reaching to cover himself, so her anger found nothing to push on and spent itself and passed. He left her the space; it was one of the truest things about him. And this once, over this, he hadn't. The weight of it — that she'd stood here and accused him of wanting her best friend — had opened him enough to do the one thing he never did. He explained himself. He needed her to know she had it wrong, and it mattered to him that much. It was the sweetest thing she had ever seen him do, and it settled over her like a warm blanket.
 
 ---
 
