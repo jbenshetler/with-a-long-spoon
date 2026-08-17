@@ -108,7 +108,53 @@ Three words. He didn't give her the inch back. His hands stayed where they were,
 
 "What does *danced bigger* mean, Vee?"
 
-The kiss she gave him twice. Once the plain shape of it — a bit, a show, two girls being silly for a boy, Randi's hand taking a slow theatrical handful of her backside for the joke of it. And then the true shape, because she couldn't keep it back, the way Randi's other hand had gone into her hair and closed and drawn her down, and how it had started like the goodbye kiss they'd done a hundred times and then had simply not stopped where goodbye stopped. How it opened. How Vee's mouth had opened to it before the question got anywhere near her, months of something she'd been keeping folded small all coming up at once. She told him about the tongue of it — *not a demand,* she said, *a please* — and her own breasts crushed to Randi's, and her own hand going up into Randi's hair without asking and pulling her deeper, wanting her mouth lower, wanting her somewhere they could never be in that room. She was riding him hard now and the two things were one thing, the man under her and the woman in her mouth, and she could not have said, in that minute, whose body she was chasing.
+"It just got — looser. She moved me around."
+
+She'd tidied it, and he heard the tidying. He didn't stall her so much as simply stop — held her where she was, a hand's breadth off him, and waited; and the stopping was worse than any question, because it turned her back to look at the thing she'd smoothed over. *She moved me around.* That wasn't it. That wasn't what had happened.
+
+She tried to move on him anyway, to steal the friction off his hands, and they didn't allow it.
+
+"She got behind me and put her hands on my hips," she said, quieter, truer, "and moved them herself. Wider than I ever — an arc I'd never have let myself. She made me bigger than I'd dance."
+
+He gave her that — more than an inch, a slow inch and then another, a reward with a slope to it, more for the truer thing. She heard herself breathe out.
+
+"And the skirt rode up some."
+
+Stopped again. Held. And in the held moment she heard the word the way he'd heard it — *some* — and had to look at how much some had really been.
+
+She pushed at his hands, got nowhere, gave it up. "She took my hands and ran them up my sides and lifted them over my head and held them there, so I couldn't hold the skirt down, and my thighs were — open. To all of them. And I didn't—" the reconsidering caught her mid-word, the thing the stall had turned her around to see, "—I didn't try that hard to get my hands back."
+
+That one cost her and it bought her more than the others. He drew her down a long slow way onto him for it, and she took him with a sound she didn't recognize as hers, and now she could hear things she hadn't — her own breathing gone ragged, and the wet sound of him moving in her, and she could not have told, could not for anything have said, how much of that wet sound was his and how much was hers.
+
+"She was against my back the whole time." The parts about Randi's body came easier than the parts about her own; she gave the easy half. "Damp — the silk of her, the heat coming through it."
+
+A hard inch for that, quick and deep — and then he waited, right at the edge where she always cut them off: herself.
+
+She pushed at his hands, got nothing, let them win. "And I wanted it." There it was, out — and once it was out the rest came with it. She'd had a thong on and nothing else under the skirt, and every time Randi swung her wide the whole room got her bare ass, and the front of the skirt was so little she didn't know — didn't want to know — how much of the rest of her it gave up. "They could see all of me. And I wanted it."
+
+He gave her a couple of strokes for that, slow and full, and she rode them with her eyes shut.
+
+"Were you wet?"
+
+The question walked straight into the shame of it and stood there.
+
+"I don't know." He gave her nothing for that, held her exactly where she was.
+
+"...Probably. I think so." Still nothing, and the nothing was unbearable, and the truth came up to end it. "There's no way I wasn't."
+
+He gave her three strokes for it — one, and a second, and a third, deep and unhurried — and they landed right in the middle of her trying to say the rest, so that "the room seeing me like that, her hands making me—" came apart in her mouth, broken over what he was doing to her, and she lost the room for a whole second, lost everything but the two facts of him moving in her and the thing he was drawing it out of.
+
+And then — with her open and ready and the last of it right there to give — he stopped. Held her still. Wouldn't let her finish it, or move, or come. She should have hated that too, and instead the wanting doubled on the denial, on how completely he had her, and the disappointed sound that got out of her had something else all the way through it.
+
+"Then Harrison." Back to the exits — the joke, the show, the safe shape of it — and she felt his hands settle, ready to stop her the instant she tidied. "She said, let's put on a show, make him wish he were me. And she turned me around and took a — a handful. Of me. Grinning right at him. A bit. A punchline."
+
+"A handful where?" he said.
+
+She tried to move down onto him and couldn't, and the wanting of it made her reckless. "My ass. She took a handful of my ass."
+
+He gave her most of a stroke for it — most, not all, because he could hear there was another shape under this one and meant to have that too. It left her short, aching for the last of him, and she caught his face in her hands and kissed him, fierce and open, trying to take him deeper through the kiss itself, trying to drop onto him while his mouth was busy — and got nowhere, his hands holding her exactly where he wanted her.
+
+"And then?" he said, against her mouth.
 
 She rode it out and gave the last of herself over, and he went with her, and for a little while there was nothing in the room but the two of them and the third one she'd carried in on her mouth.
 
