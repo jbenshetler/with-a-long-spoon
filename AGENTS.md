@@ -21,6 +21,12 @@ Read
     - meta/meta-arch-randi.md
     - meta/meta-rules.md
 
+When **drafting a chapter**, after the meta docs above are in context, load the
+prior-chapter context per `meta/meta-authoring-context.md` — the procedure for pulling
+the decade memory checkpoint + recent chapters in via `tools/checkpoint_context.py`. It
+lives in a referenced file, not inlined here, so the tool-less cold-read subagents that
+inherit this file never receive it; and it loads *after* meta so canon colors first.
+
 > **`CLAUDE.md` is auto-injected into every custom subagent** (only the built-in
 > Explore/Plan agents skip it). To keep the novel's design out of the `blind-reader`
 > cold-read instrument, the **structural engine, the non-negotiable craft rules, and
