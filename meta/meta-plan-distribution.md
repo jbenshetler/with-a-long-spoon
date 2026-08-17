@@ -179,6 +179,15 @@ below against those. Companions: `meta-plan-free-sample.md` (discovery funnel),
   - **Author cross-promo** — BookFunnel/StoryOrigin (platforms allow adult; build an
     adult-friendly, *sensibility-matched* partner network; newsletter swaps). The
     concrete substitute for the ad channels that are closed.
+  - **Test-reader pipeline (distinct from the cross-promo above; 2026-08-15)** — the
+    same adult-friendly infrastructure runs the pre-launch beta read, but the anonymous
+    serialization funnels (Literotica/AO3) can't supply *identifiable* readers, so the
+    pipeline is its own thing: **recruit** target readers via **BookSprout / BookSirens**
+    (erotica-open reviewer marketplaces); **collect** structured chapter-by-chapter
+    feedback via **StoryOrigin Beta Copies**; **deliver** the firewalled unpublished
+    manuscript securely via **BookFunnel** (per-reader email watermark + restricted
+    in-app reading). Confirm each platform's mature-content ToS before committing. Full
+    plan — screener, recruit copy, question set: `meta-plan-test-readers.md`.
   - **Suppression-routing** genre promo newsletters + review networks that screen for
     dungeoned titles.
   - **The book's own word-of-mouth** — a starved taste-audience evangelizes hard — and

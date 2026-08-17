@@ -50,6 +50,10 @@ mark items done with dates as they complete.*
   point — required for the indie lane, see `meta-plan-free-sample.md`). All
   three are **wide-release** back matter, deliberately absent from the test
   epub.
-- [ ] **Beta/test-reader synthesis structure** — fixed question set per
-  reader so responses aggregate (test-reader plan: `meta-blurb.md` /
-  distribution docs).
+- [ ] **Beta/test-reader pipeline** — full plan in `meta-plan-test-readers.md`
+  (recruit → collect → deliver channel layers, intake screener, Helen Rivers
+  recruit copy, behavioral-first question set). Value at *this* stage is
+  affective / arousal / reader-implication / drop-off + target-market fit +
+  social proof — **not** line/continuity fixes (those passes are done, 2026-08).
+  Recruit via BookSprout/BookSirens; collect via StoryOrigin Beta Copies;
+  deliver via BookFunnel. Confirm each platform's adult-content ToS first.

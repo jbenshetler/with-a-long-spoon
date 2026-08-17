@@ -31,6 +31,11 @@ legal on Literotica/SOL, NOT on AO3** — see per-platform notes.
   is functional stroke fiction but a real literary sub-audience exists
   (Novels & Novellas). Self-promo tolerated in author bios — the pointer is
   legal here. Volume 1's opening chapters outclass the shelf there.
+  **Caveat (2026-08-15): funnel, not a test-reader source.** Literotica
+  converts *strangers into list subscribers via pen-name search*; its
+  commenters are overwhelmingly anonymous, so you cannot recruit
+  identifiable, contactable test readers from the comments. Named test
+  readers come from the ARC platforms — see `meta-plan-test-readers.md`.
   Category is single-choice per submission: post in **Novels & Novellas**
   (arc-and-prose self-selection), never the BDSM category. Tags: category
   sets the contract, tags do discovery — prefer established high-traffic
