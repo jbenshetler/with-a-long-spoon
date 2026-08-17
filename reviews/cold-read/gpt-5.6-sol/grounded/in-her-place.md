@@ -1,0 +1,46 @@
+# Cold read (grounded) — In Her Place
+
+*scene: scenes/in-her-place.md · model: gpt-5.6-sol · memory: ck-ch050 + raw ch051..ch056 · reader-protocol: v3-grounded-checkpoint*
+
+## Reader reaction
+
+My body was in this chapter before my judgment caught up: Randi spread naked on Vee’s green sheets is an immediate, potent image, and the punishment works on me for a long stretch. The clamps, Pace leading her by the chain, the precisely judged spanking, the way her taunts break down into sound—all of that is hot because he remains attentive to her body and repeatedly preserves her exit. “You can stop this. And you know how.” Then he checks again: “Still here?” Her “Don’t you dare stop” lands as an unmistakable, hungry yes. The erotic peak for me is the return of blood after the clamps come off, followed immediately by his hand between her legs: cruelly timed, intensely embodied, and completely legible as what she came seeking.
+
+But beneath the heat I feel sick almost from the first sight of Randi on the green bed. The sheets matter. Pace has deliberately removed Randi from the bed and remade it in “Vee’s color and no one else’s,” only for Randi to install herself there. That makes the sex feel like an occupation of Vee’s place, not merely a meeting between continuing lovers. The blue toenails against Vee’s dark green sheets are gorgeous and poisonous.
+
+Randi moves me more deeply here than I expected. Her demand—“Tell me she’s better than me”—makes the whole intrusion suddenly ache. She wants to be punished, but she also wants Vee brought into the sex; she can get off only when Pace names Vee’s perfection “for your first woman.” Her sobbing afterward feels genuinely exposed, not staged. I ache for the need under all her control: she wants Vee, wants Pace, wants to be displaced by Vee and included through that displacement, and seems unable to ask for any of it without turning the entire afternoon into a trap. I do not feel able to settle exactly what her crying means, and the chapter does not settle it either.
+
+Pace’s physical care still works on me. He reads Randi’s limits, checks consent, avoids injury, restores circulation, tends her shoulders, and holds her through the sobbing even while the clock frightens him. His “I’m here. With you. Now” is tender and honest. I believe he cherishes both women.
+
+My trust in him nevertheless drops sharply. Once Randi reveals that Vee is not coming, he recognizes that he has been managed and simply “set[s] it down, because she was warm on him.” Worse, he is charmed by Randi reporting Vee’s intimate brunch disclosures: “his two girls, best friends,” as though Vee’s ignorance and privacy are adorable parts of his possession. He never pauses over the fact that Randi got Vee drunk enough to lose memory, put her to bed, then used the information and the cleared afternoon to take her place. The tenderness of his behavior toward the person present does not excuse his betrayal of the person absent.
+
+Randi frightens me now in a way the page has fully earned. Four mimosas may not have been forced on Vee, but Randi knew exactly how incapacitated she was, drove her home, tucked her safely into bed, and then exploited that vulnerability. Her care was real—Vee’s gratitude on the phone makes that painfully clear—and so was the calculated betrayal immediately following it. That doubleness is much darker than ordinary sexual secrecy. Randi is not merely withholding her relationship with Pace; she is using the trust of the woman she loves as logistical cover.
+
+The morning phone call is the chapter’s most devastating passage. Randi smiling tenderly when she hears Vee, then sliding under the green sheets to clean herself off Pace while Vee says, “I don’t know what I’d do without her,” is erotically charged and morally awful at exactly the same time. It works on my body—the abasement, the substitution, Pace lying between both women’s attentions—but it also makes me want Vee nowhere near that house. Vee’s loving praise becomes part of Randi’s pleasure without Vee knowing she is participating. That is not a consent problem in the immediate act between Randi and Pace; it is a profound violation of Vee’s intimacy.
+
+Pace washing the green sheets at the end chills me more than the sex. Earlier, laundering the white sheets seemed like compartmentalization. Now “Speed Wash” is active concealment. The final phrase—“nothing left in the house for Vee at all”—lands with a terrible double meaning: no trace left for Vee to discover, but also no honest place preserved for her. The acts of care that have always spoken for Pace are being used to erase evidence. I can no longer take cleanliness, preparation, or a warm room as uncomplicated proof of love.
+
+My main reader friction is Pace’s certainty that he can perfectly interpret Randi’s motive: “The punishment was the first, and she’d built the whole afternoon to earn it.” The later scene supports that reading, but the narration makes his interpretation feel more settled than Randi’s own exposed need ultimately does. Her jealousy, desire to occupy Vee’s place, wish to be beneath Vee, and need to break open all seem braided together. I want that left as complicated as her crying leaves it.
+
+“In Her Place” means several things at once now: Randi literally lies in Vee’s green bed; she engineers herself into the afternoon intended for Vee; she asks Pace to rank her beneath Vee; and in the morning she cleans herself away to return Pace to Vee. She wants Vee’s place, wants to know her own place relative to Vee, and erotically puts herself “under” Vee—all without allowing Vee to know there is a placement happening.
+
+*A Polite Invitation* has become more sinister. Pace still asks beautifully inside the sexual scene, and Randi’s safeword and repeated yes are real. But Vee has not been invited into the structure governing her own life; she is being prepared a clean bed after the evidence has been removed. The blurb-page closing beat, “Every yes was freely given. That was the problem,” now hurts differently: Vee freely tells Randi everything, freely trusts her care, and freely comes back to Pace, while neither gives her the information that would make those choices whole. *With a Long Spoon* still suggests appetite carefully fed over distance, but now the spoon also feels like a tool for handling someone without letting her touch the source.
+
+I desperately want Vee’s planned surprise to collide with some surviving trace, though the chapter has been ruthless about removing every one. I dread watching her walk into the clean house and experience Pace’s attention as proof that the space is hers. My guess from here is that Randi will keep turning her displacement by Vee into erotic fuel, while Pace keeps treating the triangle as emotionally true enough to excuse the secrecy. I want to keep reading because the heat remains powerful, but now I am reading with genuine dread: not about whether these three desire one another, but about how completely love is being made to serve concealment.
+
+**Cast present (in person):** Pace and Randi.  
+**Mentioned/offstage:** Vee, physically absent; present only by texts and phone call.
+
+**Heat:** 3 — graphic, sustained BDSM and intercourse form the chapter’s center, followed by explicitly sexual concealment the next morning.
+
+**Romance:** 2 — genuine familiarity, aftercare, emotional exposure, and tenderness between Pace and Randi, poisoned by what they are doing to Vee.
+
+**Motifs & images:** Doors and locks repeat, now used by Randi to stage secrecy. Green sheets repeat as Vee’s claimed color and become the site of Randi’s occupation. White/green bedding and washing repeat the cropped-versus-whole pattern through concealment. Seeing and reading bodies recur in Pace’s exact attention. Clamps echo the recent balm scene’s braid of pain, fear, and pleasure. Food and drink turn dark through the four mimosas that remove Vee from her own planned afternoon. “His two girls” repeats the language of belonging with a newly possessive edge. Blue toenails recur from earlier Randi imagery; green belongs to Vee.
+
+**Symbolism:** The green sheets are Vee’s supposed place in Pace’s house, invaded and then scrubbed clean. The clock is artificial urgency manufactured by Randi, making Pace’s care operate inside a false reality. Speed Wash turns domestic care into erasure.
+
+**Characterization:** Randi deepens dramatically: loving, jealous, sexually exposed, controlling, and capable of calculated betrayal at once. Pace remains physically meticulous and emotionally perceptive, but his easy acceptance of manipulation and active concealment darken him substantially. Vee is absent yet heartbreakingly vivid through her trust, gratitude, and voice.
+
+**Pace — within the chapter:** The long punishment scene earns its length through escalating consent, pain, and emotional revelation. The morning call is brief and devastating. Nothing dragged.
+
+**Pace — chapter to chapter:** Momentum surges. The recent chapters built Vee’s sense of belonging and brought her desire for Randi into consciousness; this chapter turns both developments against her without her knowledge. The story has crossed into markedly darker territory.
