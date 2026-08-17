@@ -44,11 +44,19 @@ The four models run against new chapters going forward:
 | `gpt-5.5` | active |
 | `gpt-5.6-sol` | active |
 | `gpt-5.6-terra` | active — **replaces `claude-fable-5`** (2026-08-06) |
-| `claude-fable-5` | **retired** — resources exhausted; do not start new runs |
+| `claude-fable-5` | **chained: retired** (API resources exhausted) · **grounded: active** — see note |
 
-`claude-fable-5`'s existing reviews (54 chapters) **remain valid evidence** and
-are still mined during line-edit review — it is retired, not repudiated. But it
-is stalled one chapter behind the other actives and will not advance, so:
+**Fable is active on the grounded lane** (`tools/cold_read_grounded.py`): grounded
+Claude reads run as `blind-reader-grounded` subagents (`model: fable`) and consume
+**zero API tokens**, so the API-resource exhaustion that retired fable from the
+chained panel never bound the grounded instrument. Include `claude-fable-5` when
+running the grounded panel on a new chapter. Its chained reviews below are frozen;
+its grounded reads continue.
+
+`claude-fable-5`'s existing chained reviews (54 chapters) **remain valid evidence**
+and are still mined during line-edit review — it is retired from the *chained* lane,
+not repudiated. On the chained panel it is stalled one chapter behind the other
+actives and will not advance, so:
 
 - **Do not expect a fable read on recently-drafted chapters**, and do not treat
   its absence as a missing file.
