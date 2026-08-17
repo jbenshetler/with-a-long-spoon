@@ -12,9 +12,9 @@ She stopped. She took the hand back and held it against her own breastbone like 
 
 *I have a boyfriend,* she told the dark, and it was such a strange new word to reach for, *boyfriend,* a word for a girl who had one and only one, a plain straight fact of a word, and she reached for it the way you reach for the rail on a stair. She didn't need to do this herself. It was silly to do it herself. She had somebody who was better at it than she would ever be, who was twenty minutes down a county road and would open the door.
 
-That was the reasoning. She was already reaching for the skirt again.
+She was already reaching for the skirt again.
 
-She stepped back into it — Randi's, the stretchy iridescent knit, off the back of the chair — and drew it up, and it settled on her the way it had all night, close and bright and not enough. *He'd want to see me in this,* she thought, and did not look at the thought too hard, at how it was Randi's skirt she was carrying to him, Randi's whole afternoon of it still sheened into the knit. She left the thong where it was, stuck to her, never got the rest of the way off — she could have been out of it in a second and she wasn't, and she wanted it there and wouldn't ask herself why, and that was the closest she came all night to knowing anything.
+She stepped back into it — Randi's, the stretchy iridescent knit, off the back of the chair — and drew it up, and it settled on her the way it had all night, close and bright and not enough. *He'd want to see me in this,* she thought, and did not look at the thought too hard. She left the thong where it was, stuck to her, never got the rest of the way off — she could have been out of it in a second and she wasn't, and she wanted it there and wouldn't ask herself why.
 
 She got her coat and her keys, quiet, and Cassie never stirred, and Vee let herself out into the furnace hall and pulled the door soft behind her.
 
