@@ -84,7 +84,7 @@ It took her a second to catch the shape of it: that he meant to make her buy it 
 
 She'd meant it flat — it was only the word for the thing, a plus-one, a favor. But he let her down an inch for it, one exact inch, and the inch made her hear the word again, hear it the way he'd just heard it: that she had gone on a *date.* With Randi. It came back warmer and worse than she'd said it, and she slowed on him, feeling it, feeling him feel it.
 
-"There's a mixer every spring. She gets a plus-one, and she spent it on me." It came easier once it was moving. "She could've asked anyone. She said guys you have to manage all night, and me she just gets to *have.*"
+"It's the mixer that kicks off spring semester. She gets a plus-one, and she spent it on me." It came easier once it was moving. "She could've asked anyone. She said guys you have to manage all night, and me she just gets to *have.*"
 
 He pushed her all the way down onto him for that, slow, the whole length, till she was seated and full and breathing around it — and it happened again, worse: she heard what she'd just said, what it meant that Randi just got to *have* her, and the heat climbed, and she could not have told you how much of it was the thought and how much was him buried to the root in her. Then he drew her back up, emptying her out for the next answer.
 
@@ -164,7 +164,7 @@ That wasn't what happened. His hands slid to where she needed them and his hips 
 
 He ran her right to the edge and stopped. Held her there shaking, over the drop, and would not tip her. And waited.
 
-So she talked. "She put her hand in my hair," she said, the words coming apart. "And it started like the goodbye — we had a goodbye, the little one, end of every brunch, a hundred of them — and then it just didn't stop where the goodbye stops."
+So she talked. "She put her hand in my hair," she said, the words coming apart. "And it started like the goodbye — we had a goodbye, the little one, end of every brunch, dozens of them — and then it just didn't stop where the goodbye stops."
 
 He held her at the brink and gave her nothing, and the need of it drove the next of it out of her.
 
@@ -212,7 +212,7 @@ He was quiet a moment, and his hand found her hair and pushed it back off her fa
 
 She had her answer before he'd finished the question, and it came up out of the rule she'd lived by so long she'd never once had to say it out loud: it wasn't the doing that made you a cheat, it was the keeping of it — the lie in the dark, the phone turned face-down, the thing carried around behind your teeth where no one could reach it. And she didn't do that. She was here, wasn't she, at one in the morning, handing him every piece of it. She never kept anything from him.
 
-And yet there they were: the goodbye kisses, the hundred of them, the way they'd drifted months back from the cheek to the mouth to open and stopped being anything she noticed; and her own hand, earlier, in the dark of her room, on the new bare of her, and the name that had been in her head while it moved. But the kisses were just Randi, just how the two of them were, everyone knew they were like that; and the other was hers, a thing a body did alone, to itself, nothing to do with anyone. It sorted itself before it reached her mouth, and her mouth was already moving. "No," she said. "Nothing." No pause in front of it, no catch — level as a countertop.
+And yet there they were: the goodbye kisses, dozens of them, the way they'd drifted months back from the cheek to the mouth to open and stopped being anything she noticed; and her own hand, earlier, in the dark of her room, on the new bare of her, and the name that had been in her head while it moved. But the kisses were just Randi, just how the two of them were, everyone knew they were like that; and the other was hers, a thing a body did alone, to itself, nothing to do with anyone. It sorted itself before it reached her mouth, and her mouth was already moving. "No," she said. "Nothing." No pause in front of it, no catch — level as a countertop.
 
 "Okay," he said. And then, easy, idle, before she could get her feet back under her, like a man clearing the last small thing off a table: "Do you want to sleep with a woman, Vee?"
 
@@ -248,4 +248,4 @@ Pace's chest rose and fell against her cheek, slow, asleep, or near it. Her boyf
 
 *What is wrong with me,* she thought.
 
-She did not have an answer. She lay there a long time in the dark not having one, and outside the trees the cold went on being kept out, and she was not, even now, anywhere near done.
+She did not have an answer. She lay there a long time in the dark not having one, and outside the trees the cold went on being kept out, and it was not, even now, anywhere near done with her.
