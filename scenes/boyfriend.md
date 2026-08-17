@@ -64,11 +64,49 @@ And it landed wrong the instant he had it — a boy's name in her own mouth, at 
 
 ---
 
-She should have stopped there. That was the thing she'd come back to, after — that she'd had the whole of it in four words, *it didn't stay a joke,* and could have left it at that and let the rest go under. Instead she came up onto her elbow over him in the lamplight and started to tell him how, and somewhere in the telling she stopped narrating and started to be back in it.
+He hadn't slipped out of her, not once — and somewhere in the *it didn't stay a joke* he'd gone hard again, and gone still, and she could feel the whole of him up inside her. She should have been annoyed. He'd gone hard off her shame, off the worst thing she had. But she wasn't annoyed, she was glad — glad in some low, steadying way that grounded her, put her back down into her own body and made it hers again. That part still worked, then. She was a girl on top of her boyfriend at one in the morning, and it was simple and it was *straight,* and she could stand on it to say the rest.
 
-The skirt, she said. How it rode. How Randi ran the whole dance and did it a little wrong, technique where he had instinct, and how Vee's body had known the difference and not cared. How Randi had taken her hands and put them wide, wider than Vee would ever have dared herself, so the dancing got bigger and the skirt got braver in the exact same measure, until her thighs were open to the whole room and there was nothing she could do about it because Randi had her hands.
+She lifted her face out of his neck and looked at him.
 
-She was moving on him as she told it — had come up astride him without deciding to, slow, and he was hard again under her and had been for a while, and she folded him back into her and kept talking, low, the words going less careful as the pressure climbed. And it went through him as she gave him the detail: a catch, a tightening under her, his hands coming up hard onto her hips before they gentled. She took it for the story doing its work, the picture landing where any man's picture of two girls would land, the ordinary greed of that — and did not let herself wonder why it was the *name* that moved him, and not the shape of the thing.
+"How did this happen?" he said.
+
+Not a scold. Not *how could you.* He asked it easy, almost curious. There was a current under it she felt through where they were joined, low and steady, and it was only a man who'd heard *two girls* and wanted the rest — the ordinary greed of that, nothing she couldn't handle. So she handed him the ordinary version, the one with the exits built in. "It was the joke, I told you — the Harrison thing, it was a *bit,* we were just—"
+
+He slid her up the length of him. He'd done it a hundred times, his hands moving her, helping her work herself on him, and she loved it in the moment, the long slow friction of the drag up and the drag back. So she took the lift for what it always was and rode it up, easy. And then at the top he stalled her. Held her there, off all but the head of him, his strong hands cupping her ass, not letting her back down. She pressed against them to sink onto him again and couldn't, and a sound came out of her, disappointed, before she'd thought about it. That was new.
+
+"Tell me" — his voice easy — "the real story, and I'll give you what you want."
+
+It took her a second to catch the shape of it: that he meant to make her buy it back, inch by inch, pay for her own pleasure in the one coin she had. A laugh got out of her, nervous, high. "That's *cheating,*" she said, thick, nowhere near offended.
+
+"A little." He wasn't sorry at all — the warmth of him with a new thing folded in, a hunger he wasn't troubling to hide — and it only turned the screw tighter. Something in her put its whole weight on the rule and leaned.
+
+"*Fine.*" She rolled her hips against the hold, testing it, and gave him something true to see what it bought. "I went as her date."
+
+She'd meant it flat — it was only the word for the thing, a plus-one, a favor. But he let her down an inch for it, one exact inch, and the inch made her hear the word again, hear it the way he'd just heard it: that she had gone on a *date.* With Randi. It came back warmer and worse than she'd said it, and she slowed on him, feeling it, feeling him feel it.
+
+"There's a mixer every fall. She gets a plus-one, and she spent it on me." It came easier once it was moving. "She could've asked anyone. She said guys you have to manage all night, and me she just gets to *have.*"
+
+He pushed her all the way down onto him for that, slow, the whole length, till she was seated and full and breathing around it — and it happened again, worse: she heard what she'd just said, what it meant that Randi just got to *have* her, and the heat climbed, and she could not have told you how much of it was the thought and how much was him buried to the root in her. Then he drew her back up, emptying her out for the next answer.
+
+"And the skirt?" he said. "That scrap you had on tonight — that's what you wore to it?"
+
+"It's hers." She got a degree of him back for it. "She pulled it off her own rail and put it in my hands and said it'd look better on me anyway." The pride came up in her even now, even here, dumb and warm. "Legs like yours, she said. And that ass."
+
+"I agree." And he stroked up into her, one long deliberate pass on the word *ass,* so the compliment and the fact of him landed together and she made a sound she hadn't planned to make. And his hands, cupping, spreading her that last bit down onto him, tipped her into the wet heat of herself where he could feel exactly what the telling was doing to her. He had her pleasure in his two hands now, doling it out — and underlining, with a stroke, with a degree of depth, the parts that ran the hottest. Or the most shameful.
+
+"And then?"
+
+"We danced." The floor went out from under the true answer and she snatched at the short one. "I kept the skirt down all night, one hand on the hem. Until — there's a song. The whole room waits for it. It came on." She stopped there.
+
+He heard the middle go missing. He slid her up off him, all the way up to nothing, taking back everything the last few answers had earned her.
+
+"What happened with the song?"
+
+"We danced bigger."
+
+Three words. He didn't give her the inch back. His hands stayed where they were, holding her just off him, and he waited, and being held there empty was a question of its own.
+
+"What does *danced bigger* mean, Vee?"
 
 The kiss she gave him twice. Once the plain shape of it — a bit, a show, two girls being silly for a boy, Randi's hand taking a slow theatrical handful of her backside for the joke of it. And then the true shape, because she couldn't keep it back, the way Randi's other hand had gone into her hair and closed and drawn her down, and how it had started like the goodbye kiss they'd done a hundred times and then had simply not stopped where goodbye stopped. How it opened. How Vee's mouth had opened to it before the question got anywhere near her, months of something she'd been keeping folded small all coming up at once. She told him about the tongue of it — *not a demand,* she said, *a please* — and her own breasts crushed to Randi's, and her own hand going up into Randi's hair without asking and pulling her deeper, wanting her mouth lower, wanting her somewhere they could never be in that room. She was riding him hard now and the two things were one thing, the man under her and the woman in her mouth, and she could not have said, in that minute, whose body she was chasing.
 
