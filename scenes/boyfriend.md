@@ -156,7 +156,37 @@ He gave her most of a stroke for it — most, not all, because he could hear the
 
 "And then?" he said, against her mouth.
 
-She rode it out and gave the last of herself over, and he went with her, and for a little while there was nothing in the room but the two of them and the third one she'd carried in on her mouth.
+"And then she kissed me."
+
+She gave him the plain shape one more time, the last of her cowardice, and braced for the toll — for his hands to stall her, hold her off him until she paid in the truer version.
+
+That wasn't what happened. His hands slid to where she needed them and his hips came up under her, slow and deep and dead-on, and the pleasure climbed so fast and so clean that she lost the thread of the room reaching after it. This wasn't the game. He wasn't trading her inches for truths anymore. He was taking her somewhere, and taking her fast — and she thought, *he's going to let me have it,* and let herself go up toward it.
+
+He ran her right to the edge and stopped. Held her there shaking, over the drop, and would not tip her. And waited.
+
+So she talked. "She put her hand in my hair," she said, the words coming apart. "And it started like the goodbye — we had a goodbye, the little one, end of every brunch, a hundred of them — and then it just didn't stop where the goodbye stops."
+
+He held her at the brink and gave her nothing, and the need of it drove the next of it out of her.
+
+"My mouth opened before I decided anything. Her tongue — it wasn't a demand, it was a *please.*"
+
+He gave her a little for that, a few deep strokes, right when she was already at the edge, so she climbed straight to the top and hung there and made a sound — needy, asking, a question.
+
+"You finish when you've finished," he said, and began a slow, shallow rocking inside her.
+
+She should have felt something about that — him rationing her like this, doling her own pleasure back to her a coin at a time; annoyance, at the least. She didn't. It felt right. It only made her body needier, greedier, more his.
+
+So she gave him the rest, because there was nowhere else to put the need. "The taste of her. Salt and lime and under it just her. Her chest against mine—" the words were coming in pieces now, timed to the shallow rock of him "—the little hard points of her, through the two thin nothings we had on—"
+
+He drove up into her once, full and hard and all the way, and it pushed the air out of her in a sound. Then back to the shallow rock, slow, patient, holding her under the edge — and his breath, she heard now, had gone ragged too.
+
+"My own hand went into her hair," she managed, "and pulled her down. I wanted her mouth lower. I wanted her somewhere we could never—"
+
+He had her at the top again and held her there, and she understood at last what the last coin was. Not the kiss. What the kiss had been to her.
+
+"I wanted it," she said, wrecked, done, past all of it. "I wanted the kiss. I wanted her mouth on me. It was so hot, Pace, it was so — I've never—"
+
+He drove her over. All of him at once, nothing kept back, and she came apart on him, gone where he'd sent her. He went a beat after, up into her, and gathered her whole weight in against him.
 
 ---
 
