@@ -322,7 +322,14 @@ audit time (e.g. `a-round.md`, `vee-on-the-bench.md`); `the-bench.md` is done.
 
 -----
 
-## 33. On Her Floor coda — leave the thong ON (thong-stays-on for the next scene) — added 2026-08-16
+## 33. On Her Floor coda — leave the thong ON (thong-stays-on for the next scene) — added 2026-08-16 (DONE — see bb4054a)
+
+**Resolved 2026-08-16 (commit bb4054a).** {{On Her Floor}} now ends on the party
+(`:179`); its homecoming coda moved into {{Boyfriend}}'s opening, where the thong is
+**loosened, never removed** (finger under the side seam, drawn down over the fresh
+wax — "stuck to her," no "dried"), so it stays on through the flight to Pace's.
+The **"not, even now, anywhere near done"** line now closes {{Boyfriend}} alone
+(the confession owns it); {{On Her Floor}} no longer carries it.
 
 Author ruling (2026-08-16): change {{On Her Floor}}'s coda so Vee does **not** peel
 the green thong off. Currently the coda (`scenes/on-her-floor.md` ~lines 183–185)
