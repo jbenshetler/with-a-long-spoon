@@ -248,4 +248,4 @@ Pace's chest rose and fell against her cheek, slow, asleep, or near it. Her boyf
 
 *What is wrong with me,* she thought.
 
-She did not have an answer. She lay there a long time in the dark not having one, and outside the trees the cold went on being kept out, and it was not, even now, anywhere near done with her.
+She did not have an answer. She lay there a long time in the dark not having one, and outside the trees the cold went on being kept out. And whatever had hold of her was not, even now, anywhere near done.
