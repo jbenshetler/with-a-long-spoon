@@ -92,7 +92,7 @@ He pushed her all the way down onto him for that, slow, the whole length, till s
 
 "It's hers." She got a degree of him back for it. "She pulled it off her own rail and put it in my hands and said it'd look better on me anyway." The pride came up in her even now, even here, dumb and warm. "Legs like yours, she said. And that ass."
 
-"I agree." And he stroked up into her, one long deliberate pass on the word *ass,* so the compliment and the fact of him landed together and she made a sound she hadn't planned to make. And his hands, cupping, spreading her that last bit down onto him, tipped her into the wet heat of herself where he could feel exactly what the telling was doing to her. He had her pleasure in his two hands now, doling it out — and underlining, with a stroke, with a degree of depth, the parts that ran the hottest. Or the most shameful.
+"I agree." And he stroked up into her, one long deliberate pass on the word *ass,* so the compliment and the fact of him landed together and she made a sound she hadn't planned to make. And his hands, cupping, spreading her that last bit down onto him, tipped her into the wet heat of herself where he could feel exactly what the telling was doing to her. He had her pleasure in his two hands now, portioning it out — and underlining, with a stroke, with a degree of depth, the parts that ran the hottest. Or the most shameful.
 
 "And then?"
 
@@ -104,7 +104,7 @@ He heard the middle go missing. He slid her up off him, all the way up to nothin
 
 "We danced bigger."
 
-Three words. He didn't give her the inch back. His hands stayed where they were, holding her just off him, and he waited, and being held there empty was a question of its own.
+Three words. He didn't give her the inch back. His hands stayed where they were, holding her just off him, and he waited; and being held there — open around just the head of him, the whole rest of her empty and clenching on nothing — was a question of its own.
 
 "What does *danced bigger* mean, Vee?"
 
@@ -234,7 +234,7 @@ Something crossed his face — a flicker, the smallest thing — and then he ans
 
 "You keep saying her name, Vee." Gentle, no edge in it anywhere. "Not me." He drew her in, his mouth at her hair. "It's all right. I don't mind."
 
-He'd defended himself. He never defended himself — in every argument they'd ever had he left her the whole of the room, let her say the unfair thing and the true thing both without once reaching to cover himself, so her anger found nothing to push on and spent itself and passed. He left her the space; it was one of the truest things about him. And this once, over this, he hadn't. The weight of it — that she'd stood here and accused him of wanting her best friend — had opened him enough to do the one thing he never did. He explained himself. He needed her to know she had it wrong, and it mattered to him that much. It was the sweetest thing she had ever seen him do, and it settled over her like a warm blanket.
+He'd defended himself. In every argument they'd ever had he left her the whole of the room — let her say the unfair thing and the true thing both without once reaching to cover himself, so her anger found nothing to push on and spent itself and passed. It was one of the truest things about him. And this once, over this, he hadn't: he'd explained himself, needed her to know she had it wrong, and it mattered to him that much. It was the sweetest thing she had ever seen him do, and it settled over her like a warm blanket.
 
 ---
 
