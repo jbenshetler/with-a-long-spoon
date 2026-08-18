@@ -4,7 +4,7 @@ The bistro had a sun porch along its south side, a long room of glass and white-
 
 Randi was already at a table against the glass, sunglasses pushed up into her hair, and she did the thing where she saw Vee and her whole face opened, as if Vee arriving were the good news she'd been waiting on all weekend. "There's my girl," she said. "God, you're glowing. Sit, sit."
 
-The menu was a single heavy card, and Vee opened hers and read the right side first, the way she read a road in fog, looking for what was passable. The egg things were not low and the not-low was real. But there, near the top, under the heading that said the porch did this on weekends, the mimosa had a number beside it she could hold. She did the small arithmetic, the kind that ended in Thursday, and found that Thursday would survive it.
+The menu was a single heavy card, and Vee opened hers and read the right side first, the prices, as she always did. The egg things were not low and the not-low was real. But there, near the top, under the heading that said the porch did this on weekends, the mimosa had a number beside it she could hold. She did the small arithmetic, the kind that ended in Thursday, and found that Thursday would survive it.
 
 The waiter came and Randi ordered a mimosa without looking at the card at all, and Vee closed her menu and said she'd have the same. It came out easy. It felt, saying it, like stepping into a current that was already moving, like being, for the length of a sentence, a woman who has a mimosa at brunch and thinks nothing of it. The flute arrived cold and beading and she touched the stem and did not think about the number again.
 
