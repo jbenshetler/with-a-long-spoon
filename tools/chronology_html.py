@@ -725,10 +725,23 @@ def compute_stats(entries):
 def render_stats(entries) -> str:
     buckets, total = compute_stats(entries)
 
-    def row(label, d, cls=""):
+    # First chapter (SCENE/VIGNETTE) per season bucket, so the season label can
+    # link to it. Same bucketing as compute_stats (unknown season -> "Other").
+    firsts: dict[str, str] = {}
+    for e in entries:
+        if e.etype not in ("SCENE", "VIGNETTE"):
+            continue
+        s = e.season if e.season in STATS_SEASONS else "Other"
+        firsts.setdefault(s, e.slug)
+
+    def row(label, d, cls="", href=None):
         w, rw = d["words"], d["rev_words"]
+        cell = html.escape(label)
+        if href:
+            cell = (f'<a href="{html.escape(href)}" '
+                    f'title="jump to the first chapter of {html.escape(label)}">{cell}</a>')
         return (
-            f'<tr class="{cls}"><th scope="row">{html.escape(label)}</th>'
+            f'<tr class="{cls}"><th scope="row">{cell}</th>'
             f'<td>{d["chapters"]}</td>'
             f'<td>{w:,}</td>'
             f'<td>{_pages(w)}</td>'
@@ -737,8 +750,9 @@ def render_stats(entries) -> str:
             f'<td>{_pages(rw)}</td></tr>'
         )
 
-    body_rows = "".join(row(s, buckets[s]) for s in STATS_SEASONS
-                        if buckets[s]["chapters"])
+    body_rows = "".join(
+        row(s, buckets[s], href=(f"#beat-{firsts[s]}" if firsts.get(s) else None))
+        for s in STATS_SEASONS if buckets[s]["chapters"])
     total_row = row("Total", total, cls="stat-total")
     return (
         '<div class="panel statspanel"><table class="stats">'
@@ -1169,6 +1183,9 @@ PAGE = """<!doctype html>
     text-transform:uppercase; letter-spacing:.04em; border-bottom:1px solid var(--line); }}
   table.stats thead th.rev {{ color:#9fd3ff; }}
   table.stats th[scope="row"] {{ text-align:left; color:var(--ink); font-weight:600; }}
+  table.stats th[scope="row"] a {{ color:inherit; text-decoration:none;
+    border-bottom:1px dotted var(--mut); cursor:pointer; }}
+  table.stats th[scope="row"] a:hover {{ border-bottom-color:var(--ink); }}
   table.stats tbody td {{ color:var(--ink); font-variant-numeric:tabular-nums; }}
   table.stats tbody tr:hover {{ background:#1d2733; }}
   table.stats tfoot th, table.stats tfoot td {{ border-top:2px solid var(--line);
