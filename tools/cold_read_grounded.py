@@ -157,15 +157,19 @@ def build_prompt(model_id: str, n: int, decade: int) -> str:
     window = build_window(b + 1, n - 1)
 
     parts = [f"TITLE:\n{title}\n"]
-    # The packet is injected on EVERY chapter, not just the opening: a real reader
-    # carries the cover + blurb the whole run as their going-in framing (SPEC). The
-    # grounded reader has no chain to carry it, so relying on the checkpoint to
-    # re-surface it silently dropped the tagline on late chapters (observed ch50).
-    packet = checkpoint_bundle.jacket_packet()
-    if packet:
+    # Jacket policy (author ruling 2026-08-18): the volume packet is injected ONLY at
+    # its opening chapter — never re-injected, whole or thinned, on later chapters.
+    # Re-injecting it every chapter kept the dark "game" framing at full weight and
+    # over-anchored the reader's suspicion against the accumulating warm evidence (see
+    # meta/meta-note-bounded-reader.md). On non-opening chapters the reader carries the
+    # framing via the grounded checkpoint, exactly as a real reader carries a gist.
+    volume = checkpoint_bundle.volume_scenes.volume_of(slug)
+    opening_slug, packet = checkpoint_bundle.volume_packet(volume)
+    is_volume_entry = bool(opening_slug) and slug == opening_slug
+    if is_volume_entry and packet:
         parts.append(
-            "PUBLIC VOLUME-ENTRY PACKET (the cover + jacket you have held since you opened "
-            "this volume — marketing, not story; hold it loosely):\n" + packet + "\n"
+            "PUBLIC VOLUME-ENTRY PACKET (the cover + jacket for the volume you are opening "
+            "now — marketing, not story; hold it loosely):\n" + packet + "\n"
         )
     if checkpoint:
         parts.append(
@@ -190,7 +194,50 @@ def build_prompt(model_id: str, n: int, decade: int) -> str:
         "memory is supplied above and maintained elsewhere.\n"
     )
     parts.append(f"THIS CHAPTER:\n\n===== {title} =====\n{checkpoint_bundle.clean_scene_text(slug)}\n")
-    return "\n".join(parts)
+    prompt = "\n".join(parts)
+    assert_jacket_policy(slug, is_volume_entry, prompt)
+    return prompt
+
+
+def _jacket_probes(packet: str) -> list[str]:
+    """Distinctive long lines of a jacket packet, used as re-injection tripwires. Blurb
+    copy is marketing prose that never appears in scene text or a spec-blind checkpoint,
+    so a match anywhere on a non-entry chapter means the jacket leaked back in. Long
+    lines survive thinning/truncation as long as any one full sentence is kept."""
+    out = []
+    for ln in packet.splitlines():
+        s = ln.strip().lstrip(">").strip().lstrip("*").strip()
+        if len(s) >= 60:
+            out.append(s)
+    return out
+
+
+def assert_jacket_policy(slug: str, is_volume_entry: bool, prompt: str) -> None:
+    """Guardrail (author ruling 2026-08-18): the volume packet appears in a reader's
+    prompt/packet ONLY at the volume's opening chapter, and never re-injected — whole or
+    thinned — anywhere else. Checks the assembled packet text (the same string chunked
+    into the .packets files) against every volume packet's signature lines. Raises rather
+    than let a violating read reach a model."""
+    for vol in (1, 2, 3):
+        _, packet = checkpoint_bundle.volume_packet(vol)
+        if not packet:
+            continue
+        probes = _jacket_probes(packet)
+        present = any(pr in prompt for pr in probes)
+        slug_vol = checkpoint_bundle.volume_scenes.volume_of(slug)
+        if is_volume_entry:
+            # the entry chapter must carry its own volume's packet; other volumes' must not appear
+            own = slug_vol == vol
+            if own and probes and not present:
+                raise SystemExit(f"[jacket guardrail] {slug}: volume-entry chapter is missing its jacket packet")
+            if not own and present:
+                raise SystemExit(f"[jacket guardrail] {slug}: vol{vol} jacket text leaked into a vol{slug_vol} entry chapter")
+        elif present:
+            raise SystemExit(
+                f"[jacket guardrail] {slug}: jacket text found on a NON-opening chapter. The "
+                f"volume packet is injected exactly once, at its opening chapter; it must never "
+                f"be re-injected (whole or thinned). Check build_prompt and the checkpoint."
+            )
 
 
 PACKET_BASE = REPO / "reviews" / "_harness" / ".packets"
@@ -202,10 +249,31 @@ PACKET_BASE = REPO / "reviews" / "_harness" / ".packets"
 PACKET_MAX_CHARS = 22000
 
 
+def gc_packets(max_age_hours: float = 24.0) -> int:
+    """Remove packet dirs older than `max_age_hours` so .packets can't accumulate. A
+    packet is a short-lived scratch dir consumed once by a reader subagent; anything
+    this old is a leftover from a finished or abandoned run. Returns the count removed.
+    mtime-based and best-effort — a packet still being written is far younger than 24h."""
+    import shutil
+    if not PACKET_BASE.is_dir():
+        return 0
+    cutoff = time.time() - max_age_hours * 3600
+    removed = 0
+    for p in PACKET_BASE.iterdir():
+        try:
+            if p.is_dir() and p.stat().st_mtime < cutoff:
+                shutil.rmtree(p, ignore_errors=True)
+                removed += 1
+        except OSError:
+            pass
+    return removed
+
+
 def _write_chunked_packet(text: str, readme_head: str, readme_tail: str) -> tuple[str, Path, list[str]]:
     """Split `text` into <=PACKET_MAX_CHARS line-boundary parts and write them (plus a
     README) under a fresh unguessable token dir. Returns (token, dir, ordered names)."""
     import secrets
+    gc_packets()                      # sweep stale packets before minting a new one
     token = secrets.token_hex(16)
     d = PACKET_BASE / token
     d.mkdir(parents=True, exist_ok=True)

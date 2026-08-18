@@ -89,13 +89,18 @@ def volume_dir(slug: str) -> str:
     volume-split lanes (grounded-cold-read, judge). Raises KeyError if the slug
     is not in the chronology — callers writing a brand-new scene's review must
     add its chronology entry first."""
+    return f"vol{volume_of(slug)}"
+
+
+def volume_of(slug: str) -> int:
+    """Volume number (1, 2, ...) for a scene slug, from the chronology."""
     global _SLUG_VOLUME
     if _SLUG_VOLUME is None:
         _SLUG_VOLUME = {s["slug"]: s["volume"] for s in all_scenes()}
     vol = _SLUG_VOLUME.get(slug)
     if vol is None:
         raise KeyError(f"slug {slug!r} not found in chronology; add its entry before writing a review")
-    return f"vol{vol}"
+    return vol
 
 
 def _parse_fall_scenes_slugs(path: Path):
