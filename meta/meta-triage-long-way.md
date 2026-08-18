@@ -2,7 +2,7 @@
 
 Source: `audits/line-edit/long-way.md` (3 findings + linter slate), reviewed
 item-by-item with the author, with cold-read enrichment (all four
-`reviews/cold-read/*/long-way.md` reactions mined before ruling).
+`reviews/_archive/cold-read/*/long-way.md` reactions mined before ruling).
 
 ## Fixed (line edit)
 

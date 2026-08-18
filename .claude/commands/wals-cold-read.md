@@ -1,7 +1,16 @@
 ---
-description: Blind first-reader panel — sequential, meta-free reader reactions per chapter, per model
+description: "[RETIRED] Chained blind first-reader panel — superseded by the grounded cold read"
 argument-hint: "--model <id> [none | fall | spring | summer | <slug> | <slug-a>..<slug-b> | <slug>..] [--fresh]"
 ---
+
+> **⚠️ RETIRED INSTRUMENT (2026-08-18).** This chained cold read is no longer the
+> reader instrument. Its summary-of-a-summary carry-forward lost load-bearing facts
+> (who "the brunette" is; that Vee and Pace slept together), producing *false* lull
+> readings — see `meta/meta-note-bounded-reader.md`. It is superseded by the
+> **grounded cold read** (`tools/cold_read_grounded.py` + `blind-reader-grounded`),
+> which lands in `reviews/grounded-cold-read/<model>/<volN>/<slug>.md`. This command
+> and its output paths (`reviews/_archive/cold-read/…`) are kept for provenance only;
+> do not run it to advance the panel. The text below is preserved as-is.
 
 Run a **cold read**: walk the drafted chapters in story order and, for each, spawn
 a `blind-reader` subagent that has seen no planning material — only the chapter's
@@ -12,7 +21,7 @@ stay *unearned* until the pattern earns it?
 
 Every run is scoped to **one model**, and its output lands in a **model-specific
 subdirectory** so the same book can be read by many models and the results compared
-side by side. See `reviews/cold-read/SPEC.md` for the shared layout/file contract
+side by side. See `reviews/_harness/SPEC.md` for the shared layout/file contract
 that external harnesses (for non-Claude models) must also follow.
 
 **You (the orchestrator) may consult the chronology for order and status; the
@@ -63,7 +72,7 @@ actives and will not advance, so:
 - **`gpt-5.6-terra` is catching up** (19 chapters as of 2026-08-06), so on older
   chapters the panel may be fable-without-terra and on newer ones
   terra-without-fable. **Count the reviews on disk before assuming a panel size**
-  — `ls reviews/cold-read/*/<slug>.md`.
+  — `ls reviews/_archive/cold-read/*/<slug>.md`.
 
 ## Step 0 — Resolve the model (required) and its output directory
 
@@ -72,7 +81,7 @@ as the output subdirectory name — it must match the convention every harness u
 (see SPEC.md). Use **versioned model ids**, e.g. `claude-opus-4-8`, `claude-fable-5`,
 `gemini-2.5-pro`, `gpt-5`, `grok-4`.
 
-- **All output paths in this command are `reviews/cold-read/<id>/…`** (per-scene
+- **All output paths in this command are `reviews/_archive/cold-read/<id>/…`** (per-scene
   files and this model's `SYNTHESIS.md`). Create the directory if missing.
 - **Map the id to a spawnable Claude tier** (the `blind-reader` is a Claude Code
   subagent; only Claude models can be spawned here):
@@ -83,7 +92,7 @@ as the output subdirectory name — it must match the convention every harness u
 - **If `<id>` is not a `claude-*` id** (e.g. `gemini-2.5-pro`, `gpt-5`, `grok-4`, or
   anything unrecognized): **stop.** This harness can only spawn Claude models. Tell
   the author to run that model in the external harness, which must write to
-  `reviews/cold-read/<id>/` following `reviews/cold-read/SPEC.md`. Do not attempt it.
+  `reviews/_archive/cold-read/<id>/` following `reviews/_harness/SPEC.md`. Do not attempt it.
   - **Provider models** (`gpt-*`, OpenRouter model slugs, …) have a built-in external
     harness: use **`/wals-cold-read-provider`**, which calls `tools/cold_read.py`.
 - If `--model` is missing entirely: **stop** and ask for it (e.g.
@@ -107,7 +116,7 @@ This list is the only chronology data you hold. Everything downstream keys off i
 
 ### Volume-entry packet gate
 
-Read `reviews/cold-read/volume-packets.toml` only for public reader-facing copy.
+Read `reviews/_harness/volume-packets.toml` only for public reader-facing copy.
 When spawning a reader for a packet's `opening_slug`, include that packet once in
 the reader prompt. For later chapters, include no jacket copy; it survives only if
 the prior reader-state retained it. Never substitute Volume One's packet for another
@@ -151,11 +160,11 @@ skip-as-done on a resume).
 **Use git, not filesystem mtime.** mtime is reset to checkout time on every fresh
 clone (the author works across multiple clones), so an mtime comparison is
 meaningless. Compare commit history instead. For each `<slug>` that has a review under
-`reviews/cold-read/<id>/`:
+`reviews/_archive/cold-read/<id>/`:
 
 ```
 scene_ct=$(git log -1 --format=%ct -- scenes/<slug>.md)
-review_ct=$(git log -1 --format=%ct -- reviews/cold-read/<id>/<slug>.md)
+review_ct=$(git log -1 --format=%ct -- reviews/_archive/cold-read/<id>/<slug>.md)
 ```
 
 A review is **scene-stale** if either:
@@ -173,7 +182,7 @@ Using the story order from the Step 1 manifest, walk this model's reviews in ord
 compare each to its immediate predecessor's review commit time:
 
 ```
-pred_ct=$(git log -1 --format=%ct -- reviews/cold-read/<id>/<predecessor-slug>.md)
+pred_ct=$(git log -1 --format=%ct -- reviews/_archive/cold-read/<id>/<predecessor-slug>.md)
 ```
 
 A review is **chain-stale** if `pred_ct > review_ct` — its predecessor is newer, so
@@ -210,12 +219,12 @@ carry-forward across models.**
 - The **very first drafted scene of the book** (The Bench) has no predecessor →
   input is empty (opening the book cold).
 - Otherwise, load the predecessor's carry-forward from
-  `reviews/cold-read/<id>/<predecessor-slug>.md`.
+  `reviews/_archive/cold-read/<id>/<predecessor-slug>.md`.
 - **If the predecessor has no review file for this model** (targeted/volume/range run
   reaching back before what this model has cold-read): stop and tell the author — the
   reader-state can't be fabricated. Suggest either a full run for this model, or
   starting the range at the earliest scene that does have a review file under
-  `reviews/cold-read/<id>/`.
+  `reviews/_archive/cold-read/<id>/`.
 - **Resume:** on a full/volume run without `--fresh`, if a target already has a review
   file **in this model's subdir**, skip it and use its stored carry-forward as the
   next input. `--fresh` regenerates every target in scope.
@@ -277,11 +286,11 @@ output**, so do NOT parallelize:
 6. On a clean return, the subagent gives two sections: `### Reader reaction` and
    `### Carry-forward state`. **If the target review file already exists** (a
    `--fresh` regeneration), don't Read it just to satisfy an overwrite — check
-   `git status --porcelain -- reviews/cold-read/<id>/<slug>.md`: if the file is
+   `git status --porcelain -- reviews/_archive/cold-read/<id>/<slug>.md`: if the file is
    tracked and clean (empty output), `rm` it via Bash and Write the new review
    as a fresh file (the old content is recoverable from git). If it is untracked
    or has uncommitted modifications, fall back to Read-then-Write so nothing
-   unrecoverable is destroyed. Write `reviews/cold-read/<id>/<slug>.md` as:
+   unrecoverable is destroyed. Write `reviews/_archive/cold-read/<id>/<slug>.md` as:
 
    ```
    # Cold read — <Display Title>
@@ -302,7 +311,7 @@ output**, so do NOT parallelize:
 
 After a run covering more than one scene, synthesize (from the reactions you just
 wrote — your call whether to spawn a final pass) and write
-`reviews/cold-read/<id>/SYNTHESIS.md`: the **arc-level trajectory** across the scenes
+`reviews/_archive/cold-read/<id>/SYNTHESIS.md`: the **arc-level trajectory** across the scenes
 reviewed, for this model —
 
 - how trust / attraction / sympathy / suspicion move per character across the run;
@@ -325,7 +334,7 @@ One SYNTHESIS per model, in that model's subdir. Skip it for a single-scene run.
 
 Tell the author, briefly:
 
-- the **model** the run used and its output dir (`reviews/cold-read/<id>/`);
+- the **model** the run used and its output dir (`reviews/_archive/cold-read/<id>/`);
 - which scenes were reviewed (and any skipped-as-already-done on a resume);
 - where a full run stopped (the first undrafted gap);
 - **Staleness findings (Step 2.5)** — any reviews flagged **scene-stale** (scene edited
@@ -338,6 +347,6 @@ Tell the author, briefly:
   files **in this model's subdir**: their carry-forward input is now stale. Give the
   cascade command, e.g. `/wals-cold-read --model <id> <first-reviewed-slug>..`
 
-Non-destructive: writes only under `reviews/cold-read/<id>/`. Never touch `scenes/`
+Non-destructive: writes only under `reviews/_archive/cold-read/<id>/`. Never touch `scenes/`
 or `meta/`, and never write into another model's subdir. These are reader reactions,
 not canon — flag, never rewrite the author's prose.

@@ -95,7 +95,7 @@ Also: Cassie not present (Vee/Randi only) — `present:` already correct.
 
 # Triage — All the Time (cold-read panel, 2026-07-29)
 
-Panel: claude-fable-5, claude-opus-4-8, gpt-5.5, gpt-5.6-sol · `reviews/cold-read/*/all-the-time.md`
+Panel: claude-fable-5, claude-opus-4-8, gpt-5.5, gpt-5.6-sol · `reviews/_archive/cold-read/*/all-the-time.md`
 
 Verdicts on the friction items derived from the panel. **The "Left standing" section
 records authorial decisions — do not re-flag these without new evidence** (a new

@@ -48,7 +48,7 @@ evidence** (audit verdicts re-open on a text edit to the passage).
 # Triage — A Round (line-edit pass, 2026-08-06)
 
 Source: `audits/line-edit/a-round.md`, reviewed with the author item by item,
-enriched with the cold-read reactions (`reviews/cold-read/*/a-round.md`) per
+enriched with the cold-read reactions (`reviews/_archive/cold-read/*/a-round.md`) per
 the 2026-08-05 ruling. **All 13 report findings and 3 reader-sourced bonus
 items were ruled and applied — nothing was left standing.** Recorded below are
 the rulings whose *reasoning* is non-obvious, so a later pass doesn't undo

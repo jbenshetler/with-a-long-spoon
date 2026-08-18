@@ -41,18 +41,27 @@ Two observations, one diagnosis.
    *prior* artificially fresh while the *facts* rotted — precisely inverted from a
    human, who retains the facts and lets an early blurb recede.
 
-2. **Grounded, which feeds the jacket only once at t0, still doesn't
-   counterbalance.** Author's lived experience of the grounded reads: a softened
-   one-time reveal that Pace and Randi are running a game on Vee is **not**
-   outweighed even by ~35 chapters of Pace being extremely good to Vee — not to the
-   degree a human reader would weigh it.
+2. **Grounded doesn't counterbalance either.** Author's lived experience of the
+   grounded reads: a softened reveal that Pace and Randi are running a game on Vee is
+   **not** outweighed even by ~35 chapters of Pace being extremely good to Vee — not
+   to the degree a human reader would weigh it.
 
-Diagnosis: grounded remembers everything perfectly but **integrates evidence
-poorly.** It anchors on the jacket's dark prior and does not let a mountain of
-accumulated counter-evidence move the posterior the way lived time moves a human's.
-Perfect recall ≠ human belief dynamics. A human's *affect* — suspicion, affection —
-is recency- and volume-weighted; an early framing fades in salience as lived
-chapters accumulate. Grounded holds the prior at full, undecayed weight forever.
+**Correction (found while restructuring the harness, 2026-08-18):** grounded does
+**not** feed the jacket once. `cold_read_grounded.py:160` (`build_prompt`) injects
+the full jacket packet into *every* chapter read — deliberately, on the rationale
+that "a real reader carries the cover + blurb the whole run" (it's marked *hold it
+loosely*). So grounded's over-weighting of the dark prior is, at least in part, the
+**same re-injection amplification** as the chain — not a subtle belief-integration
+failure but a concrete, fixable prompt behavior. Each independent grounded chapter
+re-reads the "game" framing at full strength with no decay, then weighs ~one chapter
+of lived counter-evidence against it. No wonder the dark prior dominates.
+
+Diagnosis, revised: two compounding causes. (a) **Re-injection** — the jacket is
+re-fed at full weight every chapter; (b) **no belief dynamics** — even setting the
+jacket aside, a perfect-recall reader has no recency/volume weighting, so an early
+framing never fades in salience the way it does for a human living through 35
+chapters. A human's *affect* (suspicion, affection) is recency- and volume-weighted;
+grounded holds every input at flat, undecayed weight.
 
 ## The "heavy hand" problem — and the resolution
 
@@ -79,12 +88,15 @@ Three principles resolve it:
    decay curve applied to dark and light alike — the thumb comes off the scale
    because nothing is selected for deletion.
 
-3. **The jacket is a prior, not evidence.** Fed once, at t0, as a *discountable*
-   prior whose influence decays as lived evidence accrues — the way a blurb read
-   three weeks ago recedes against the book you're living in. The chain's bug was
-   re-injecting it every chapter; grounded's bug is holding it undecayed. The fix is
-   a decay schedule on the prior's salience, symmetric with how lived evidence
-   accumulates.
+3. **The jacket is a prior, not evidence.** It should be a *discountable* prior
+   whose influence decays as lived evidence accrues — the way a blurb read three
+   weeks ago recedes against the book you're living in. **Both** current instruments
+   get this wrong the same way: the chain re-injects it every hop, and grounded
+   re-injects it every chapter (`build_prompt`, confirmed above) — neither decays it.
+   The fix is a decay schedule on the prior's salience, symmetric with how lived
+   evidence accumulates. **This is the single cheapest lever to test first** (see
+   below): grounded already re-feeds the jacket at full weight, so simply tapering or
+   dropping the packet on later chapters is a one-function change.
 
 The structural insight: the chain collapsed because it forced *everything* — facts
 and feelings — through one lossy summary channel. **Split the channels.** Grounded,
@@ -107,9 +119,11 @@ Likely **not** a new harness. Grounded already supplies the lossless fact base; 
 delta is an **affect-integration protocol** layered onto the grounded reader
 (`.claude/agents/blind-reader-grounded.md` + `tools/cold_read_grounded.py`):
 
-- Feed the jacket once, marked as a decaying prior, with an explicit instruction that
-  its weight declines as chapters accumulate (not re-fed per chapter — that was the
-  chain's error).
+- **Test the jacket lever first — it's nearly free.** `build_prompt` currently
+  appends the full jacket packet on every chapter. Taper its weight (or drop it past
+  an early chapter, or mark it explicitly stale) as chapters accumulate, and re-run a
+  late-book grounded read. If the dark-prior over-weighting eases, re-injection was
+  the dominant cause and the rest of this may be unnecessary.
 - Carry a small bounded affect state chapter-to-chapter (suspicion / affection /
   open questions), grounded facts still reconstructed fresh each chapter.
 - Instruct recency-weighting explicitly: recent lived chapters outweigh early

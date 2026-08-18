@@ -46,7 +46,7 @@ girls share anthro in spring).
 
 # Triage — Broken In (cold-read feedback pass, 2026-07-27)
 
-Panel: claude-opus-4-8, gpt-5.5, gpt-5.6-sol (`reviews/cold-read/*/broken-in.md`).
+Panel: claude-opus-4-8, gpt-5.5, gpt-5.6-sol (`reviews/_archive/cold-read/*/broken-in.md`).
 No prose changes came out of this pass — every flagged item was left standing by
 authorial decision. Do not re-litigate the items below unless the flagged passage
 has since been edited or a genuinely new failure mode (not the same criticism

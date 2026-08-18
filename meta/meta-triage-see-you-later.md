@@ -3,7 +3,7 @@
 Source: `audits/line-edit/see-you-later.md`, reviewed item-by-item with the
 author; 14 findings + 1 pre-ruled FIX-AT + 2 bonus items (1 reader-flagged,
 1 linter), with the cold-read enrichment step (all four
-`reviews/cold-read/*/see-you-later.md` reactions mined before ruling).
+`reviews/_archive/cold-read/*/see-you-later.md` reactions mined before ruling).
 
 ## Fixed (line edit)
 

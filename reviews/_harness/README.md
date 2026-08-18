@@ -1,23 +1,31 @@
 # Cold Read — first-reader panel
 
-Blind, sequential reader reactions to each drafted chapter, **one run per model**, so
-the same book can be read by many models and compared. Each `<model-id>/<slug>.md` is
-written by a reader that saw **only** the chapter's title, its clean prose, and a
-carry-forward summary of the reader's experience through the previous chapters — never
-the planning corpus, thesis, or character bible. It is the instrument for the book's
-central craft rule ("earn the dark by being light"): a first-time reader should fall
-for Pace and should *not* suspect Randi until the pattern earns it.
+> **⚠️ Restructured 2026-08-18, and the chained cold read is RETIRED.** This dir is
+> now `reviews/_harness/` — shared config/state only. The chained cold read described
+> below lost load-bearing facts through its summary-of-a-summary carry-forward and is
+> retired to `reviews/_archive/cold-read/`; the **live** reader instrument is the
+> **grounded cold read** at `reviews/grounded-cold-read/<model>/<volN>/<slug>.md` (see
+> `SPEC.md` and `meta/meta-note-bounded-reader.md`). Much of the prose below describes
+> the retired instrument and is kept for context.
 
-## Layout
+Blind, sequential reader reactions to each drafted chapter, **one run per model**, so
+the same book can be read by many models and compared. It is the instrument for the
+book's central craft rule ("earn the dark by being light"): a first-time reader should
+fall for Pace and should *not* suspect Randi until the pattern earns it.
+
+## Layout (current)
 
 ```
-reviews/cold-read/
-  README.md            ← this file
-  SPEC.md              ← the shared file/harness contract (read this to add a model)
-  <model-id>/          ← one dir per model, e.g. claude-opus-4-8, gemini-2.5-pro
-    <slug>.md          ← per-scene review (Reader reaction + Carry-forward state)
-    SYNTHESIS.md       ← that model's arc-level synthesis
-    README.md          ← ONLY if the run has a seam (see "Spliced runs")
+reviews/
+  grounded-cold-read/<model-id>/<volN>/<slug>.md   ← LIVE reader instrument (grounded)
+  judge/<model-id>/<volN>/<slug>.md                ← spec-blind fidelity judge
+  oracle/<model-id>/<probe>--<tier>.md             ← end-of-volume oracle battery (flat)
+  _archive/cold-read/<model-id>/<slug>.md          ← RETIRED chained cold read
+  _harness/                                        ← this dir: shared config/state
+    README.md  SPEC.md  ORACLE.md  QA-NOTES.md
+    oracle-persona.md  oracle-battery.json  principals.toml  volume-packets.toml
+    oracle-runs/  .packets/
+checkpoints/<model-id>/ck-chNNN.md                 ← grounded memory (shared w/ authoring)
 ```
 
 Model dirs are named by **versioned id** (`claude-opus-4-8`, `claude-fable-5`,
@@ -66,7 +74,7 @@ runs or to splice it onto a cheaper model from the ch. 8 seam, as fable was.
 - **Claude tiers** (opus/fable/sonnet/haiku): `/wals-cold-read --model <id> [target]` in
   this repo. The command spawns a tool-starved `blind-reader` subagent, runs the
   scenes sequentially with a per-scene blindness tripwire (`tool_uses` must be 0), and
-  writes into `reviews/cold-read/<id>/`. Non-Claude ids are refused with a pointer to
+  writes into `reviews/_archive/cold-read/<id>/`. Non-Claude ids are refused with a pointer to
   the external harness.
 - **Use `--legacy-resume` (author ruling 2026-08-09).** Every review on disk predates
   the `v2-volume-entry-jacket` protocol, so `has_valid_review()` does not recognize any

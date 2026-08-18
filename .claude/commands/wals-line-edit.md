@@ -55,7 +55,7 @@ review the first `edited` chapter with the author.
    - Run `tools/novel-assistant/na.py style scenes/<slug>.md` and drop any
      finding that duplicates an accepted (suppressed) style hit.
    - **Cold-read enrichment (author ruling 2026-08-05):** first `git pull`, then
-     **`ls reviews/cold-read/*/<slug>.md` and count the files** — pass that count
+     **`ls reviews/grounded-cold-read/*/*/<slug>.md` and count the files** — pass that count
      to the lore-keeper and check its answer covers every model. Do not dispatch
      the mining in the same message as the pull: on 2026-08-06 the Turned Up
      mining raced a review the pull was still fetching and the chapter was very
@@ -63,7 +63,7 @@ review the first `edited` chapter with the author.
      the roster in `/wals-cold-read` (`claude-fable-5` retired, `gpt-5.6-terra`
      still backfilling), so older and newer chapters legitimately have different
      panels. Then have a lore-keeper
-     mine the chapter's `reviews/cold-read/*/<slug>.md` `## Reader reaction`
+     mine the chapter's `reviews/grounded-cold-read/*/*/<slug>.md` `## Reader reaction`
      sections for line-level praise and criticism (this per-chapter prep is
      the sanctioned reviews-lane use). Mark any finding that touches a
      reader-quoted line as **reader-praised** — praise doesn't veto a finding,

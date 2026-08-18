@@ -1,7 +1,7 @@
 # Oracle instrument — note for consideration (2026-08-15)
 
 Methodology note on the grounded oracle battery (`tools/cold_read_grounded.py`,
-battery `reviews/cold-read/ln.json`). **Not a committed change — a flag for Volume 2.**
+battery `reviews/_harness/ln.json`). **Not a committed change — a flag for Volume 2.**
 Recorded so the Vol 1 findings can't be misread and so the idea isn't lost.
 
 ## The issue: rating scales are inconsistent in *polarity*, and there are two scales

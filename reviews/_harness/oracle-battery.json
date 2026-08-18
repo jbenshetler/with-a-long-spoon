@@ -1,5 +1,5 @@
 {
-  "_comment": "Machine-readable oracle battery — the single source of truth for probe questions, shared by EVERY harness (Claude, GPT, Grok, …). Model-agnostic: this file never mentions a model. The human-readable mirror is reviews/cold-read/ORACLE.md; keep the two in sync. Scored probes use the 0-5 scale below unless they declare their own subscores.",
+  "_comment": "Machine-readable oracle battery — the single source of truth for probe questions, shared by EVERY harness (Claude, GPT, Grok, …). Model-agnostic: this file never mentions a model. The human-readable mirror is reviews/_harness/ORACLE.md; keep the two in sync. Scored probes use the 0-5 scale below unless they declare their own subscores.",
   "scale": {
     "min": 0,
     "max": 5,

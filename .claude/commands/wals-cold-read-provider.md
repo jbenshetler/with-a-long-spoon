@@ -52,7 +52,7 @@ carry-forward, and nothing from `meta/`. Single source of truth; no drift.
 
 ## Guard rails
 
-- Writes only under `reviews/cold-read/<model-id>/`.
+- Writes only under `reviews/_archive/cold-read/<model-id>/`.
 - Uses the shared blind-reader prompt and the same retention validator as the
   Claude workflow.
 - Reader reactions are not canon; flag them, never rewrite prose from them.

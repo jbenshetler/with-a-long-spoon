@@ -10,7 +10,7 @@ cohort snagging on the same spot, or an edit that re-opens the passage).
 Source: `audits/line-edit/the-pointing-game.md`, reviewed item-by-item with the
 author; 12 findings plus one reader-flagged bonus item; 10 edits applied. This
 pass also piloted the **cold-read enrichment step**: the chapter's four
-`reviews/cold-read/*/the-pointing-game.md` reader reactions were mined for
+`reviews/_archive/cold-read/*/the-pointing-game.md` reader reactions were mined for
 line-level praise/criticism before ruling, and reader evidence decided several
 items (now standard prep — see the command doc).
 

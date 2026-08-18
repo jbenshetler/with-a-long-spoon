@@ -1,10 +1,21 @@
 # Cold read — file & harness contract
 
+> **⚠️ Restructured 2026-08-18.** Reviews are now organized **instrument → model →
+> volume**. The **chained** cold read this section describes (accumulated
+> carry-forward) is **retired** — it lost load-bearing facts across its
+> summary-of-a-summary chain (see `meta/meta-note-bounded-reader.md`) and now lives in
+> `reviews/_archive/cold-read/`. The **live** instrument is the **grounded cold read**
+> (`tools/cold_read_grounded.py`), which reconstructs memory from decade checkpoints +
+> raw prose (no chain) and writes to
+> `reviews/grounded-cold-read/<model-id>/<volN>/<slug>.md`. The file format below still
+> applies to the grounded read's `## Reader reaction` (it emits no carry-forward).
+
 The shared spec every harness follows so the same book, read by different models,
 produces **drop-in-compatible, directly comparable** files. The Claude tiers
-(`claude-opus-*`, `claude-fable-*`, …) are produced by the `/wals-cold-read` command in
-this repo (`.claude/commands/wals-cold-read.md`); non-Claude models (`gemini-*`, `gpt-*`,
-`grok-*`, …) are produced by an external harness that MUST conform to this spec.
+(`claude-opus-*`, `claude-fable-*`, …) are produced as `blind-reader-grounded`
+subagents driven by `tools/cold_read_grounded.py --emit-prompt`; non-Claude models
+(`gemini-*`, `gpt-*`, `grok-*`, …) are produced by an external harness that MUST
+conform to this spec.
 
 ## What a cold read is
 
@@ -20,20 +31,23 @@ knows/feels) that feeds the next chapter. The instrument measures whether the bo
 ## Directory layout
 
 ```
-reviews/cold-read/
-  README.md                     ← human overview (shared)
-  SPEC.md                       ← this file (shared)
-  <model-id>/                   ← one dir per model, named by its versioned id
-    <slug>.md                   ← one per scene reviewed
-    SYNTHESIS.md                ← that model's arc-level synthesis (multi-scene runs)
+reviews/
+  grounded-cold-read/           ← LIVE reader lane (this contract)
+    <model-id>/<volN>/<slug>.md ← one per scene reviewed, under its volume subdir
+  _harness/
+    README.md                   ← human overview (shared)
+    SPEC.md                     ← this file (shared)
 ```
 
 - **`<model-id>` = versioned model id**, verbatim as the folder name. Examples:
   `claude-opus-4-8`, `claude-fable-5`, `gemini-2.5-pro`, `gpt-5`, `grok-4`.
   Use the version so a later model upgrade lands in a new sibling dir instead of
   overwriting. Every harness must agree on the exact string.
+- **`<volN>`** = the scene's volume subdir (`vol1`, `vol2`, …), from the chronology
+  (`tools/volume_scenes.py volume_dir(slug)`). Story order = the chronology, not the
+  filesystem; `tools/reading_order.py` is the reading-order view.
 - `<slug>` = the scene's on-disk slug (the `scenes/<slug>.md` filename without `.md`).
-- No model's run ever writes outside its own `<model-id>/` dir.
+- No model's run ever writes outside its own `<model-id>/<volN>/` dir.
 
 ## Per-scene file format
 
@@ -299,7 +313,7 @@ symbolism, open questions, a short impression. It reads only the prose it is giv
 - **`tools/checkpoint_bundle.py`** — emits the clean prose bundle (jacket + chapters,
   same cleaner as `clean_scene_text`).
 - **`tools/checkpoint_extract.py`** — feeds that bundle to a big-context model in one
-  pass and writes `reviews/cold-read/<model-id>/checkpoints/ck-ch{B:03d}.md`. Runs the
+  pass and writes `checkpoints/<model-id>/ck-ch{B:03d}.md`. Runs the
   extractor at **high effort**. Default model `gpt-5.6-terra` via codex subscription auth
   (no API tokens); the Claude readers are run as `blind-extractor` subagents and their
   output persisted by hand (they cannot write). The ch-050 checkpoint per model doubles
@@ -314,7 +328,7 @@ symbolism, open questions, a short impression. It reads only the prose it is giv
   retention/compaction apparatus from this path.
 - **Harness:** `tools/cold_read_grounded.py` — assembles the prompt per chapter (packet +
   checkpoint + window + chapter), runs the reader at **low effort** (high turns a reader
-  into a critic), and writes `reviews/cold-read/<model-id>/grounded/<slug>.md`. It refuses
+  into a critic), and writes `reviews/grounded-cold-read/<model-id>/<volN>/<slug>.md`. It refuses
   rather than mint a missing checkpoint implicitly (`--check` lists what a range needs;
   minting is a separate, higher-effort job). `--emit-prompt N` prints a chapter's
   fully-assembled prompt to stdout, so a Claude `blind-reader-grounded` subagent (which
@@ -376,7 +390,7 @@ dramatic irony, gender, blindness/leak, checkpoint structure — each gated by a
   (reported as LOW-CONSENSUS; fix the check). Calibrating against the live panel this
   way caught three check bugs before they triggered spurious re-runs.
 
-Triaged-and-kept failures go in the `ACCEPTED` list (and `reviews/cold-read/QA-NOTES.md`)
+Triaged-and-kept failures go in the `ACCEPTED` list (and `reviews/_harness/QA-NOTES.md`)
 so they report as ACCEPTED, not fresh candidates — the reads-equivalent of the style
 linter's `--ack`. Re-run against the whole panel next time the prose or a checkpoint
 changes.

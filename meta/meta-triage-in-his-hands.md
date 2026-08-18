@@ -29,7 +29,7 @@ clean after edits.
 
 # Triage — In His Hands
 
-*Cold-read feedback pass, 2026-07-29. Panel: claude-fable-5, claude-opus-4-8, gpt-5.5, gpt-5.6-sol (`reviews/cold-read/*/in-his-hands.md`). Each item: what was flagged, who raised it, verdict.*
+*Cold-read feedback pass, 2026-07-29. Panel: claude-fable-5, claude-opus-4-8, gpt-5.5, gpt-5.6-sol (`reviews/_archive/cold-read/*/in-his-hands.md`). Each item: what was flagged, who raised it, verdict.*
 
 ## Fixed
 

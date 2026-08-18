@@ -35,7 +35,7 @@ or an edit that re-opens the passage).
 # Triage — The Practice Room (`practice-room.md`)
 
 Cold-read feedback pass, 2026-07-28. Panel: claude-opus-4-8, gpt-5.5, gpt-5.6-sol
-(`reviews/cold-read/*/practice-room.md`). Author-decided verdicts; later review
+(`reviews/_archive/cold-read/*/practice-room.md`). Author-decided verdicts; later review
 passes should not re-litigate the "left standing" items unless the flagged
 passage has since been edited or a genuinely new failure mode surfaces.
 

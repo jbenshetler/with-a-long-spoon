@@ -24,7 +24,7 @@ exception.)
 # Triage — Gone (line-edit pass, 2026-08-07)
 
 Source: `audits/line-edit/gone.md` (13 findings) plus a cold-read enrichment
-pass over all five `reviews/cold-read/*/gone.md` reactions, reviewed with the
+pass over all five `reviews/_archive/cold-read/*/gone.md` reactions, reviewed with the
 author item by item. Nine edits applied; four items left standing.
 
 **Context worth keeping.** Three of the five cold readers independently flagged

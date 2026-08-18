@@ -107,7 +107,7 @@ Sentence-by-sentence consistency/logic audit (`audits/line-audit/the-usual.md`).
 
 # Triage — The Usual (cold-read feedback pass, 2026-07-30)
 
-Panel: claude-fable-5, claude-opus-4-8, gpt-5.5, gpt-5.6-sol (`reviews/cold-read/*/the-usual.md`).
+Panel: claude-fable-5, claude-opus-4-8, gpt-5.5, gpt-5.6-sol (`reviews/_archive/cold-read/*/the-usual.md`).
 Verdict overall: near-unanimously positive. Sheri, the "I can't" exchange, the
 "pretty shitty" verdict, the philosophy-of-food ending, and the title's tender/indicting
 double read all landed as designed across all four models.

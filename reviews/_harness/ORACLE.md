@@ -15,7 +15,7 @@ re-interrogate.
 
 To interrogate the reader "after chapter X," feed the `blind-oracle` agent the
 `## Carry-forward state` from **that scene's own file** —
-`reviews/cold-read/<model>/<X-slug>.md` — because that state *is* the reader's whole
+`reviews/_archive/cold-read/<model>/<X-slug>.md` — because that state *is* the reader's whole
 accumulated memory *after* reading X. (Contrast the cold-read chain, where scene X's
 *input* is X−1's carry-forward.) Chains are **per model**; never cross carry-forward
 between models. The jacket is baked into `.claude/agents/blind-oracle.md`, identical
@@ -143,7 +143,7 @@ All oracle output lives under the model's own subdir, in an `oracle/` folder, ne
 touching the cold-read chain files:
 
 ```
-reviews/cold-read/<model>/oracle/
+reviews/oracle/<model>/
   <stage-slug>--<probe-key>.md        ← single-stage probe
   <probe-key>--checkpoints.md         ← a few key stages, one table
   <probe-key>--sweep.md               ← every stage, the full curve
@@ -165,8 +165,8 @@ never per-model:
 - `oracle-runs/<runid>.json` — a reproducible run manifest.
 
 Only two things are keyed by model, via `{model}` templating: the **input**
-(`reviews/cold-read/{model}/{stage}.md` → its `## Carry-forward state`) and the **output**
-(`reviews/cold-read/{model}/oracle/…`). Model ids are the **versioned `<model-id>`** from
+(`reviews/_archive/cold-read/{model}/{stage}.md` → its `## Carry-forward state`) and the **output**
+(`reviews/oracle/{model}/…`). Model ids are the **versioned `<model-id>`** from
 SPEC.md (`claude-opus-4-8`, `gpt-5.5`, `grok-4.5`, …) — the same string names the chain
 dir, the oracle dir, and the entry in a run's `models` list.
 
@@ -179,7 +179,7 @@ call), and writes `{stage}--{probe}.md` under `{model}/oracle/`. Because filenam
 format are identical, results across models are **drop-in comparable** — set the opus,
 gpt-5.5, and grok-4.5 files for a probe side by side and read the spread. A model whose
 chain isn't finished yet (e.g. grok mid-run) is simply `pending` in the manifest until
-`reviews/cold-read/{model}/{stage}.md` exists.
+`reviews/_archive/cold-read/{model}/{stage}.md` exists.
 
 ## Contract
 

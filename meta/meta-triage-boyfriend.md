@@ -7,7 +7,7 @@ later pass doesn't re-litigate settled ground. Authorial decisions; not canon.
 Instrument: **grounded** cold-read panel (six models — `claude-opus-4-8`,
 `claude-sonnet-5`, `claude-fable-5`, `gpt-5.6-terra`, `gpt-5.6-sol`, `gpt-5.5`),
 re-run after the craft pass below. Reviews live under
-`reviews/cold-read/<model>/grounded/boyfriend.md`.
+`reviews/grounded-cold-read/<model>/vol2/boyfriend.md`.
 
 ## Craft pass applied (author-directed, this session)
 

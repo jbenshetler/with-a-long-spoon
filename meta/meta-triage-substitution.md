@@ -2,7 +2,7 @@
 
 Source: `audits/line-edit/substitution.md`, reviewed item-by-item with the
 author; 15 findings + a bonus linter slate, with the cold-read enrichment step
-(all four `reviews/cold-read/*/substitution.md` reactions mined before ruling —
+(all four `reviews/_archive/cold-read/*/substitution.md` reactions mined before ruling —
 unanimous friction point: the :137 "The way he had…" litany runs a hair long,
 saved by "The thought did not finish").
 

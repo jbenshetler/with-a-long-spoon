@@ -1,6 +1,6 @@
 # Triage — Fed (cold-read panel + SATC axis audit, 2026-07-29)
 
-Panel: claude-opus-4-8, gpt-5.5, gpt-5.6-sol · `reviews/cold-read/*/fed.md`
+Panel: claude-opus-4-8, gpt-5.5, gpt-5.6-sol · `reviews/_archive/cold-read/*/fed.md`
 
 Verdicts on the friction items derived from the panel. **The "Left standing" section
 records authorial decisions — do not re-flag these without new evidence** (a new

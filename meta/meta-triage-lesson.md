@@ -1,7 +1,7 @@
 # Triage — Lesson (bartender/blonde revision + Phase-1 re-read, 2026-08-15)
 
 Reopens the grounded end-of-book oracle's **"author's thumb"** finding on this
-chapter's fight-night vindication (`reviews/cold-read/*/oracle/thumb--pointed.md`,
+chapter's fight-night vindication (`reviews/oracle/*/thumb--pointed.md`,
 2026-08-15 battery). New reader cohort, new evidence — so the 2026-07-27 "blonde
 is functional/thin = correct POV behavior" ruling is *augmented*, not contradicted.
 
@@ -126,7 +126,7 @@ these without new evidence.**
 
 # Triage — Lesson (cold-read panel, 2026-07-27)
 
-Panel: claude-opus-4-8, gpt-5.5, gpt-5.6-sol · `reviews/cold-read/*/lesson.md`
+Panel: claude-opus-4-8, gpt-5.5, gpt-5.6-sol · `reviews/_archive/cold-read/*/lesson.md`
 
 Verdicts on the friction items derived from the panel. **The "Left standing" section
 records authorial decisions — do not re-flag these without new evidence** (a new

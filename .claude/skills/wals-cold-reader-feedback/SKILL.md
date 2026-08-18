@@ -1,11 +1,11 @@
 ---
 name: wals-cold-reader-feedback
 description: >-
-  Turn the cold readers' reviews of a drafted scene into an actionable revision
-  plan: pull every model's cold-read review of the scene, synthesize the
-  cross-model feedback (net of triage verdicts already settled), plan concrete
-  changes, and walk them past the author for approval before touching any
-  prose. Use when the author asks to act on / triage / apply the cold-read
+  Turn the grounded cold readers' reviews of a drafted scene into an actionable
+  revision plan: pull every model's grounded cold-read review of the scene,
+  synthesize the cross-model feedback (net of triage verdicts already settled),
+  plan concrete changes, and walk them past the author for approval before touching
+  any prose. Use when the author asks to act on / triage / apply the cold-read
   feedback for a scene. Flags and proposes; applies only what the author
   approves.
 ---
@@ -24,10 +24,11 @@ against canon via the lore-keeper before treating it as real.
 
 In parallel:
 
-- Read every `reviews/cold-read/*/<slug>.md` that exists — the
-  `## Reader reaction` section is the payload (skip `## Carry-forward state`).
-  Note which models reviewed the scene; if none exist, stop and say so
-  (suggest running `/wals-cold-read` first).
+- Read every `reviews/grounded-cold-read/*/*/<slug>.md` that exists (the glob spans
+  each model's `vol1/`, `vol2/`, … subdir) — the `## Reader reaction` section is the
+  payload (grounded reads carry no carry-forward). Note which models reviewed the
+  scene; if none exist, stop and say so (suggest running the grounded cold read,
+  `tools/cold_read_grounded.py`, first).
 - Read `meta/meta-triage-<slug>.md` if it exists. Its **"left standing —
   do not re-litigate"** verdicts are authorial decisions: drop any review
   criticism they cover unless the flagged passage has since been edited or a

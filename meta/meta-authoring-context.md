@@ -14,7 +14,7 @@ When drafting chapter **N**, you need what has come before — not as a fact you
 one at a time (that stays the `lore-keeper`'s job), but as **standing reader-memory**:
 who's who, the relationship states and milestone flags, the dramatic-irony ledger, the
 live motifs, the open questions the reader is holding. That memory already exists as the
-spec-blind decade **checkpoints** under `reviews/cold-read/<model>/checkpoints/`.
+spec-blind decade **checkpoints** under `checkpoints/<model>/`.
 
 `tools/checkpoint_context.py` assembles the authoring view of it:
 
@@ -71,7 +71,7 @@ On the author's yes:
   `tools/checkpoint_bundle.py --to B`), spawn a **`blind-extractor` subagent** (no API
   tokens; `.claude/agents/blind-extractor.md` as system prompt, the bundle as the message,
   consolidate cold), save its output to
-  `reviews/cold-read/<model>/checkpoints/ck-ch<B>.md` with the standard header, then re-run.
+  `checkpoints/<model>/ck-ch<B>.md` with the standard header, then re-run.
 - **codex / OpenAI-family (terra/sol/gpt-5.5)** — re-run with `--mint`; it mints directly
   via `checkpoint_extract.py` (reads prose `1..B` at high effort) and then emits the context.
 

@@ -1,5 +1,5 @@
 {
-  "_comment": "A reproducible oracle run, shared across harnesses. Model-agnostic by design: `models` is a LIST; each harness runs only the ids it can spawn (Claude runs claude-*, external harnesses run their own) and writes drop-in-comparable files. Path templates use {model}/{stage}/{probe}. Model ids MUST match the reviews/cold-read/<model-id>/ dir convention in SPEC.md.",
+  "_comment": "A reproducible oracle run, shared across harnesses. Model-agnostic by design: `models` is a LIST; each harness runs only the ids it can spawn (Claude runs claude-*, external harnesses run their own) and writes drop-in-comparable files. Path templates use {model}/{stage}/{probe}. Model ids MUST match the reviews/_archive/cold-read/<model-id>/ dir convention in SPEC.md.",
   "runid": "vol1-end-4probe",
   "description": "The four worry-probes at the close of Volume One, across every model with a full chain.",
   "models": ["claude-opus-4-8", "gpt-5.5", "grok-4.5"],
@@ -8,14 +8,14 @@
   "probes": ["pace-backstory", "sympathy", "randi-love", "randi-suspicion"],
   "funnel": "tiered",
   "tool_free": true,
-  "battery": "reviews/cold-read/oracle-battery.json",
-  "persona": "reviews/cold-read/oracle-persona.md",
-  "carryforward": "reviews/cold-read/{model}/{stage}.md",
+  "battery": "reviews/_harness/oracle-battery.json",
+  "persona": "reviews/_harness/oracle-persona.md",
+  "carryforward": "reviews/_archive/cold-read/{model}/{stage}.md",
   "carryforward_section": "## Carry-forward state",
-  "out": "reviews/cold-read/{model}/oracle/{stage}--{probe}.md",
+  "out": "reviews/oracle/{model}/{stage}--{probe}.md",
   "status": {
     "claude-opus-4-8": "done",
     "gpt-5.5": "pending",
-    "grok-4.5": "pending — blind-reader chain still running; oracle can run once reviews/cold-read/grok-4.5/{stage}.md exists"
+    "grok-4.5": "pending — blind-reader chain still running; oracle can run once reviews/_archive/cold-read/grok-4.5/{stage}.md exists"
   }
 }

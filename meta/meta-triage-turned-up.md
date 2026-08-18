@@ -51,7 +51,7 @@ evidence** (audit verdicts re-open on a text edit to the passage).
 
 Source: `audits/line-edit/turned-up.md` (12 findings), reviewed with the author
 item by item, enriched with the cold-read reactions
-(`reviews/cold-read/*/turned-up.md` — **five models**; gpt-5.6-terra landed
+(`reviews/_archive/cold-read/*/turned-up.md` — **five models**; gpt-5.6-terra landed
 mid-review at `20a6c3d` and was mined after the rulings, changing none of
 them) per the 2026-08-05 ruling. **Ten applied,
 two left standing; three reader-sourced bonus items, all three left standing.**

@@ -38,7 +38,7 @@ style hits on the edited lines.
 
 # Triage — One Bite (cold-read panel, 2026-07-28)
 
-Panel: claude-fable-5, claude-opus-4-8, gpt-5.5, gpt-5.6-sol · `reviews/cold-read/*/one-bite.md`
+Panel: claude-fable-5, claude-opus-4-8, gpt-5.5, gpt-5.6-sol · `reviews/_archive/cold-read/*/one-bite.md`
 
 Note: all four reviews predate the rename — they review the scene under its old
 title *"Vee Tells Randi About We Find Out"* (old slug `vee-tells-randi-we-find-out`).

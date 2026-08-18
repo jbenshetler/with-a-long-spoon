@@ -5,12 +5,12 @@ argument-hint: "--model <id> (--probe <key[,key...]> | --ask \"<neutral> || <poi
 
 Run the **cold-read oracle**: pause a model's blind first-reader at one or more stages
 and ask it questions, to measure what a genuine reader *knows and feels* there without
-leaking design. Read `reviews/cold-read/ORACLE.md` first — it defines the reader-at-stage-N
+leaking design. Read `reviews/_harness/ORACLE.md` first — it defines the reader-at-stage-N
 rule, the **tiered funnel**, the delta interpretation, the scale, and the fixed battery.
 
 This is **read-only and off the chain**: it never advances a carry-forward, never writes
 to `scenes/`, `meta/`, or the cold-read chain files — only under
-`reviews/cold-read/<id>/oracle/`. The `blind-oracle` reader sees only the jacket (baked
+`reviews/oracle/<id>/`. The `blind-oracle` reader sees only the jacket (baked
 into its agent) + a frozen carry-forward; never the prose, never `meta/`.
 
 `$ARGUMENTS` carries a **required `--model <id>`**, a **probe source** (`--probe` battery
@@ -29,12 +29,12 @@ Parse `--model <id>` (**required**, verbatim, versioned — e.g. `claude-opus-4-
   in the external harness (conforming to `ORACLE.md`). Do not substitute a Claude reader
   over another model's carry-forward — that mixes readers and is invalid.
 - Missing `--model`: **stop** and ask for it.
-- Output dir: `reviews/cold-read/<id>/oracle/` (create if missing).
+- Output dir: `reviews/oracle/<id>/` (create if missing).
 
 ## Step 1 — Resolve the probe set (and its two tiers)
 
 - **`--probe <key[,key...]>`** → load each key's **neutral** and **pointed** questions
-  and scale from the battery in `reviews/cold-read/ORACLE.md`. Unknown key → stop and
+  and scale from the battery in `reviews/_harness/ORACLE.md`. Unknown key → stop and
   list the valid keys.
 - **`--ask "<neutral> || <pointed>"`** → an ad-hoc probe; the `||` separates the two
   tiers. If only one clause is given, ask it as the neutral tier and derive a tight
@@ -61,7 +61,7 @@ never character facts) if you need it to expand ranges/checkpoints.
   where to place a scene).
 
 For each resolved stage, the carry-forward source is
-`reviews/cold-read/<id>/<stage-slug>.md` → its `## Carry-forward state`. **If that file
+`reviews/_archive/cold-read/<id>/<stage-slug>.md` → its `## Carry-forward state`. **If that file
 is missing for this model, stop** and say so — the reader-state can't be fabricated;
 suggest running `/wals-cold-read --model <id>` to that stage first.
 
@@ -88,7 +88,7 @@ each probe's neutral and pointed strictly on separate spawns.
 
 ## Step 4 — Record
 
-Write under `reviews/cold-read/<id>/oracle/` per the `ORACLE.md` layout
+Write under `reviews/oracle/<id>/` per the `ORACLE.md` layout
 (`<stage>--<probe>.md` single · `<probe>--checkpoints.md` · `<probe>--sweep.md` ·
 `<stage>--adhoc-<slug>.md`). Every file records, verbatim: the **exact neutral and
 pointed questions asked**, the stage(s), the model, both answers, and — for
@@ -117,5 +117,5 @@ does. That crossing point is the answer to "when does the reader get it?" — th
 the author can't feel from inside. Flag any stage where an earn-the-dark probe spikes
 early.
 
-Non-destructive: writes only under `reviews/cold-read/<id>/oracle/`. Reactions, not
+Non-destructive: writes only under `reviews/oracle/<id>/`. Reactions, not
 canon — never rewrite the author's prose.

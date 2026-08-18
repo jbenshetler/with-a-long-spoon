@@ -59,7 +59,7 @@ evidence** (verdicts re-open on a text edit to the passage).
   here than I have anywhere, which is precisely why I'm scared"*). Judged to be
   a response to the paragraph rather than that sentence; the inventory survives
   intact. Not re-testable cheaply — opus's chain is stale at ch.8 (see
-  `reviews/cold-read/README.md`, "Chain currency").
+  `reviews/_archive/cold-read/README.md`, "Chain currency").
   **Evidence strength, recorded honestly:** sol flagged this in both runs;
   gpt-5.5 in neither. One model, not a consensus.
 - **"the expensive kind — " cut** (item 6) — doubled "kind" inside one

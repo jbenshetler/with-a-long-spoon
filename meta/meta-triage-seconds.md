@@ -32,7 +32,7 @@ Sentence-by-sentence consistency/logic audit (`audits/line-audit/seconds.md`).
 
 # Triage — Seconds (cold-read feedback pass, 2026-07-29/30)
 
-Panel: claude-fable-5, claude-opus-4-8, gpt-5.5, gpt-5.6-sol (read after {{Cropped}}, under the placeholder title "The Porch Scene"). Review files: `reviews/cold-read/*/seconds.md`.
+Panel: claude-fable-5, claude-opus-4-8, gpt-5.5, gpt-5.6-sol (read after {{Cropped}}, under the placeholder title "The Porch Scene"). Review files: `reviews/_archive/cold-read/*/seconds.md`.
 
 ## Fixed (commits `9b4c9f1`, `fc4dbbf`)
 

@@ -8,7 +8,7 @@
 
 ## Why this scene exists (the Vol-1-end oracle)
 
-The cold-read oracle at Volume One's close floored Randi on every reader-axis — **sympathy 2, identification 1, believability 3** — and the reader named the cause each time: *her interior is almost entirely withheld, so she reads as a mechanism, not a woman.* Her only humanity-crack in the whole fall is {{Fairytale}} (very late). This scene surfaces her warm interior **early**, so the reader banks her humanity across the volume instead of in one late beat. It lifts **both** leads: Randi (de-mechanized) and Pace (his sincerity and his falling shown warmly). (Results: `reviews/cold-read/claude-opus-4-8/oracle/`.)
+The cold-read oracle at Volume One's close floored Randi on every reader-axis — **sympathy 2, identification 1, believability 3** — and the reader named the cause each time: *her interior is almost entirely withheld, so she reads as a mechanism, not a woman.* Her only humanity-crack in the whole fall is {{Fairytale}} (very late). This scene surfaces her warm interior **early**, so the reader banks her humanity across the volume instead of in one late beat. It lifts **both** leads: Randi (de-mechanized) and Pace (his sincerity and his falling shown warmly). (Results: `reviews/oracle/claude-opus-4-8/`.)
 
 ## What the scene is
 
@@ -63,4 +63,4 @@ Adding a scene shifts the cold-read carry-forward downstream. Once drafted: re-r
 - `meta-arch-randi.md` — *The Villain-Guard — Let the Warm Love Surface*; 🔒 The Need Engine (the laundering); Vee's Friendship from Randi's Side.
 - `meta-note-threesome-reveal.md` — what Pace knows of Randi's interior; the sanitization.
 - `meta-arch-pace.md` — embodied-presence (hot, not cool); the benefactor story.
-- `reviews/cold-read/claude-opus-4-8/oracle/` — the Vol-1-end results that motivated this.
+- `reviews/oracle/claude-opus-4-8/` — the Vol-1-end results that motivated this.

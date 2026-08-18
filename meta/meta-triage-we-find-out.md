@@ -60,7 +60,7 @@ already correct.
 
 # Triage — We Find Out (cold-read panel, 2026-07-28)
 
-Panel: claude-fable-5, claude-opus-4-8, gpt-5.5, gpt-5.6-sol · `reviews/cold-read/*/we-find-out.md`
+Panel: claude-fable-5, claude-opus-4-8, gpt-5.5, gpt-5.6-sol · `reviews/_archive/cold-read/*/we-find-out.md`
 
 Verdicts on the friction items derived from the panel. **The "Left standing" section
 records authorial decisions — do not re-flag these without new evidence** (a new

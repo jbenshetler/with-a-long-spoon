@@ -1,6 +1,6 @@
 # Triage — The Bench (cold-read panel, 2026-07-27; claude-fable-5 addendum 2026-07-30)
 
-Panel: claude-opus-4-8, gpt-5.4-mini, gpt-5.5, gpt-5.6-sol · `reviews/cold-read/*/the-bench.md`
+Panel: claude-opus-4-8, gpt-5.4-mini, gpt-5.5, gpt-5.6-sol · `reviews/_archive/cold-read/*/the-bench.md`
 
 Verdicts on the friction items derived from the panel. **The "Left standing" section
 records authorial decisions — do not re-flag these without new evidence** (a new

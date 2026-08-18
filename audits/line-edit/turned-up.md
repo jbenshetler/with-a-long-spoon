@@ -88,7 +88,7 @@ re-`--ack` it**; no `--ack` pass has been run on this chapter otherwise.
 
 ### Fifth cold read, mined post-ruling (gpt-5.6-terra)
 
-`reviews/cold-read/gpt-5.6-terra/turned-up.md` landed at `20a6c3d` while this
+`reviews/_archive/cold-read/gpt-5.6-terra/turned-up.md` landed at `20a6c3d` while this
 review was in progress and was missed by the initial mining. Mined afterward
 against every ruling above. **No ruling changed.** The reader states outright
 "I did not feel friction here," raises **no** intra-chapter repetition
@@ -112,5 +112,5 @@ tagline." Not a craft complaint and no edit proposed.
 
 **Process note:** the initial reviews mining was dispatched in parallel with
 the session's `git pull` and raced a review file that the pull was fetching.
-Mine `reviews/cold-read/*/<slug>.md` **after** the pull completes, or list the
+Mine `reviews/grounded-cold-read/*/*/<slug>.md` **after** the pull completes, or list the
 directory first to confirm the model count.
