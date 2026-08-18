@@ -4,31 +4,27 @@
 
 ## Reader reaction
 
-I felt the warmth first—the real ease of Randi lying loose on Pace after sex, saying what she usually keeps armored. And then the chapter made that warmth hurt. Randi’s delight in Vee is genuinely intoxicating: the Bigfoot story is affectionate, vivid, and very funny, and “Nobody does both. She does both” catches the exact quality Vee has begun to bring out in people. I believe Randi loves being with her. When she says, “I love it,” about Vee being so gone on Pace, I felt both the fondness and the sting beneath it.
+This made my stomach drop, not because the sex itself felt wrong—it’s hot, and the slow return of them to each other after that conversation has real pull—but because I am suddenly sitting inside the secret with Randi and Pace while Vee is out there glowing, trusting both of them. Randi’s pleasure in Vee is so alive here. Her laughing over Vee’s bigfoot performance, the fondness in “She got past me before I could help it,” the startled tenderness of “Nobody does both. She does both”—I felt myself soften for her all over again. She genuinely likes Vee. Maybe loves her. And that makes her withholding hurt more, not less.
 
-Pace is tender here, too. His answer about taking time—“I want her to get there on her own”—is precisely what makes him so difficult to dismiss as merely manipulative. He sees Vee’s shame cleanly, and he seems to want her free of it. But I cannot relax into that care, because he and Randi are lying together afterward, discussing Vee’s body and readiness while Vee has no idea they share this intimacy. The chapter earns the unease; it is not a shadow I’m imposing. Randi’s “She’ll get there” lands especially hard. Get where? I don’t know, but they are both holding knowledge Vee has not been offered.
+Pace’s answer about wanting Vee “to get there on her own” is exactly the kind of thing that has made me trust him: he sees shame plainly and doesn’t want to substitute his own desire for her discovery. But it sits terribly beside what I know about the beginning of this connection. I don’t suddenly stop believing in his care; I just can’t let the care make the secret disappear. Randi’s “God, you two” and that flash of something held in her stillness made me ache. The page doesn’t tell me what she felt there, and I don’t want to pin it down. But she seems struck by the particular way Pace sees Vee—and then turns the feeling back into sex.
 
-The strongest pull is still that these two see Vee so vividly. Pace calling her “the most alive person standing there” made me ache for her; it is exactly the opposite of the way she has been taught to make herself small. And Randi’s silence after that felt charged. I don’t want to overname it, but the praise seems to touch something tender or difficult in her, not simply pass by.
+The erotic charge works because it grows directly out of talk: Randi openly wanting Vee’s body, Pace refusing to turn that into a picture he can use, then telling her how Vee brightens a room. The peak for me is not the final riding, though it’s sensuous and clear; it is Randi asking, “Tell me,” and Pace answering with that image of the lamp. That is intimate in a way that makes the subsequent sex feel charged with more than bodies. Still, I feel a little sick with the intimacy of the two people who know Vee best sharing her between them while she does not know they share anything at all.
 
-The erotic charge is high and works for me, especially because it rises out of Randi’s wanting rather than arriving as a separate performance. Her voice going “low and hoarse,” her saying what Vee “keeps under there,” and then Pace refusing to turn Vee into a shared verbal object—the line “that was hers to hold”—kept the scene intimate between them even as Vee is the subject pressing at its edges. The ending, with Randi setting the pace, is hot and controlled. Still, it leaves me uneasy rather than swooning cleanly: their intimacy is real, and so is the secret arranged around Vee.
-
-“Gone” feels like it names Vee’s being gone over Pace, which Randi says outright, but it also catches Randi herself: she says Vee “got past me before I could help it.” She may be more gone than she can admit. And it catches the larger danger of being carried away while not seeing the full room. *A Polite Invitation* remains ominous in the most seductive way—everything on this page is soft, wanted, even loving, while the invitation’s hidden terms still sit outside Vee’s knowledge. *With a Long Spoon* feels even more pointed now: Pace and Randi are close enough to share a bed and a private language about Vee, but I’m waiting for the cost of reaching into that arrangement. The blurb’s closing beat, “Every yes was freely given. That was the problem,” is growing more painful, not less.
-
-I want to keep reading badly. My guess from here is that Randi’s feelings for Vee will become harder for her to keep inside the polished version of herself—but that is only a guess. What I dread is Vee discovering not just that they are connected, but that moments she experienced as spontaneous had a shape before she knew it.
+“Gone” lands hard. Vee is “so gone over” Pace, Randi says, and Randi herself has been caught—gone past her defenses—by Vee. The title also makes me feel the danger of Vee being absent from this room: she is gone, physically and in knowledge, while her body and her feelings are being discussed. *A Polite Invitation* now feels increasingly double-edged to me: all the gentleness and asking have been real, yet there is still an invitation whose terms Vee has not been allowed to see. I don’t have a cover tagline here, so I can’t react to one. I want the next chapter badly, and my guess from here is that whatever Randi is holding down about Vee will become harder to keep folded away.
 
 **Cast present (in person):** Pace and Randi.  
-**Mentioned-only:** Vee.
+**Mentioned only:** Vee.
 
-**Heat:** 3 — sustained explicit sex frames and closes the chapter.
+**Heat:** 3 — explicit, sustained sex frames and closes the chapter, with charged talk about Vee between.
 
-**Romance:** 2 — genuine post-sex softness, admiration, and tenderness between Pace and Randi, complicated by what they conceal.
+**Romance:** 1.5 — genuine tenderness and familiarity between Pace and Randi, but it is complicated by their shared secrecy about Vee.
 
-**Motifs & images:** Repeat: warmth/cold; low lamplight and being seen; Randi’s polished self loosening in Pace’s bed; Vee brightening a room like “somebody found the lamp”; blue toenails, echoing deliberate clothes/body display. First: Bigfoot/yeti shoe jokes as Vee’s uninhibited comic self.
+**Motifs & images:** Repeat: warmth, low light, hands, being seen, hidden selves, and Vee as brightness/lamp. Repeat: Randi’s blue toenails/polish echo Vee’s deliberate frosted-plum toes. First: Randi’s “bigfoot” story lets Vee’s shame at being watched become something fondly remembered.
 
-**Symbolism:** The lamp image plainly makes Vee’s unrecognized aliveness feel like illumination. Randi’s looseness “afterward” again suggests Pace’s house as a place where her public face slips.
+**Symbolism:** The lamp image feels plainly larger than a compliment: Vee’s presence brings light while she believes she is too much. Randi’s sudden stillness makes that light feel as if it reaches somewhere tender or defended in her too.
 
-**Characterization:** Randi deepens most: funny, fond, sexually hungry, and briefly unguarded, yet still able to reduce Vee’s devotion to “a little pathetic.” Pace remains consistently attentive, including in what he declines to say—but the secrecy keeps that consistency morally unsettled.
+**Characterization:** Randi deepens most: funny, hungry, affectionate, jealous or pained in some still-unfixed way, and unable to keep Vee at the level of a game. Pace remains recognizably patient and attentive, though the secret makes that steadiness harder to rest in.
 
-**Pace — within the chapter:** It moves smoothly from afterglow to confession to sex; the small silence after Pace praises Vee is the chapter’s sharpest pause.
+**Pace — within the chapter:** It moves smoothly from post-sex quiet into confession, then back into sex; the brief conversation earns the scene’s length.
 
-**Pace — chapter to chapter:** Building. After the buoyant shoe-shopping chapter, this private counter-scene changes the emotional pressure without repeating the same beat.
+**Pace — chapter to chapter:** Building. After Vee and Randi’s buoyant shopping day, this private reversal adds real pressure without undoing the warmth of what I just read.

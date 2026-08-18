@@ -4,27 +4,28 @@
 
 ## Reader reaction
 
-I melted at this. Vee’s private admission—“She loved him. There.”—feels simple and enormous after all the ways she has been learning to let herself want. Pace’s care lands most strongly here not in the sex, but in the salmon, the hair things, and then that drawer: he doesn’t soothe her worry with a speech; he changes the shape of his life to make room for her. The top drawer made my chest hurt.
+This made me melt. Vee lying beside him and finally letting herself think, plainly, *I love him* landed softly but hard: not a revelation manufactured by a grand gesture, just the accumulated fact of being wanted, fed, welcomed, and returned to. “Peter,” breathed to his sleeping self, is unbearably tender. She is so happy here that I’m happy for her.
 
-I’m happy for Vee, and I trust the tenderness on the page. But I felt a small unease at her clothes becoming loose and her weight loss being treated as an unasked-for side effect of these intense weekends; it is not made into a crisis here, just a detail that caught in me. The larger ache is that she has decided she can live without hearing “I love you” because she reads it in everything he does. I believe she is loved in this moment; I also want her not to have to make herself content with silence forever.
+Pace’s making room for her in the bathroom got me even more. First he sees her things covering his perfect counter and does not make her feel messy or presumptuous; then the next week, without announcement, he has made her the first drawer. He has compressed his own neat possessions to make her a place that is easy to reach. That is such a particular, domestic kind of devotion that it makes her conclusion feel earned. I trust the warmth of that action completely.
 
-The erotic charge is mostly afterglow, and it works because it is so thoroughly entwined with being welcomed. The peak for me is honestly the bathroom: her disorder across his immaculate counter, then his arms around her, then his refusal to make her feel like a mess. The drawer is even hotter, in its own quiet way, than the recalled sex—he has made her presence ordinary and permanent enough to organize around.
+Vee remains painfully vulnerable to silence, though. “Had he minded. She couldn't tell. He hadn't said. He never said.” I felt the little sting of that, especially beside her decision that she can live on everything he does without the words. I believe he cares deeply for her; I also feel the gap she is carefully deciding not to need. The chapter doesn’t make that gap ominous on its own, but it leaves it real.
 
-“Above Him” first made me think of Vee lying over Pace, held up by his body and care; by the end it feels like her things placed above his in the drawer. Not dominance exactly—more the startling dignity of being given the first, easiest place. *A Polite Invitation* still promises an opening Vee keeps choosing to enter, while *With a Long Spoon* and “Every yes was freely given. That was the problem.” leave a faint chill beneath how beautiful this is. From here, I want her to keep finding places in his life—and I dread what it will cost when the things she does not know can no longer stay unspoken.
+The erotic charge is mostly afterglow here rather than a new sex scene, and it works because it is threaded through ordinary abundance: the week of missing each other, salmon and warm tomatoes, the possibility of an after, his arms around her in the bathroom. The peak for me was not graphic—it was her recognition that he comes back to her, and then the drawer. Desire and being accommodated become part of the same tenderness.
 
-**Cast present (in person):** Vee, Pace.  
-**Mentioned-only:** none.
+“Above Him” first reads as Vee lying against Pace, watching him sleep, emotionally full above his sleeping body; by the end, it also feels like the top drawer he yields to her. She is being given the place above his own things, the one “your hand goes to first.” That is almost too lovely. I don’t know what *A Polite Invitation*, *With a Long Spoon*, or any cover tagline promise here, because none was supplied in this reading material. From this page alone, I want to stay with the sweetness—and dread, only as a guess from here, what happens when Vee’s private certainty runs up against what Pace still has not said and what she still does not know.
 
-**Heat:** 2 — explicit activity is recalled, but the chapter’s center is intimate aftermath and domestic belonging.
+**Cast present (in person):** Vee and Pace. Mentioned-only: none.
 
-**Romance:** 3 — Vee privately names love; Pace gives her a permanent, first-reach place in his bathroom.
+**Heat:** 2 — sex is recalled rather than shown in full, but the reunion and afterglow are strongly erotic.
 
-**Motifs & images:** Repeat: warmth/cold sheets and his body; food as answered hunger (salmon, tomatoes); hair and green scrunchies; the scar; things left unsaid; space made for Vee. Repeat: being held up, now through the “easy” top drawer.  
+**Romance:** 3 — Vee privately recognizes love; Pace silently makes her a permanent-feeling space in his life.
 
-**Symbolism:** The top drawer reads as Vee being made a place in Pace’s ordered life—available, ordinary, and above his own conveniences.
+**Motifs & images:** Repeat: warmth/cold sheets and his warm body; food as care (salmon, tomatoes, wine); scrunchies and hair care; order versus Vee’s “sprawl”; the recurring absence of notes, answered instead by acts. Repeat: the scar she does not ask about.
 
-**Characterization:** Vee deepens in her ability to name love privately while still worrying she is too much. Pace remains consistent: quiet, practical, attentive, and difficult to read because he lets actions speak.
+**Symbolism:** The top bathroom drawer plainly reads as a place made for Vee in Pace’s daily life—access, welcome, and room for more—while he quietly makes himself fit around it.
 
-**Pace — within the chapter:** Gentle and earned; the three movements build beautifully from afterglow, to worry, to the drawer’s answer.
+**Characterization:** Vee deepens in her mixture of genuine joy and reflexive fear of being too much. Pace deepens through a precise, wordless domestic gesture; his restraint with words remains a live limitation rather than a contradiction.
 
-**Pace — chapter to chapter:** Building quietly after the charged brunch chapter; it gives the relationship a fuller domestic weight rather than repeating the same erotic beat.
+**Pace — within the chapter:** Quiet and beautifully paced. The delayed reveal of the drawer earns the short chapter’s emotional turn.
+
+**Pace — chapter to chapter:** After the high voltage of brunch, this is a warm, intimate settling beat that still advances Vee’s emotional attachment.

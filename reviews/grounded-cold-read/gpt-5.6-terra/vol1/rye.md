@@ -4,31 +4,31 @@
 
 ## Reader reaction
 
-This made me glow. Vee comes back through that door so visibly changed—not rescued, not talked into anything, just lit from the inside by what she did and what she discovered she could do. I loved that she tells Cassie the whole crucial shape of it: the ache of climbing, the summit, the food, the shirt, and especially, “I took my wet shirt off in front of him. On purpose. Me.” She gets to say it plainly, and Cassie lets it be plain.
+I melted a little at Cassie letting Vee tell it all without snatching the feeling away from her. “Look at you,” after Vee says she got up a mountain on her own legs: that lands cleanly. Cassie has her jokes—the van, the blood type, the whole “file” she is revising—but she hears exactly when Vee needs to be taken seriously. By the end, “Keep the shirt” feels like a small, solid blessing. I trust Cassie more than ever.
 
-Cassie feels even safer to me here. Her first jokes—“No windowless van,” “I had your blood type”—are funny because the worry underneath is real, but she listens the moment Vee needs listening. “Vee,” and then “Keep the shirt,” is exactly right: no scolding, no falsely easy celebration, no taking the moment away from her. I feel tender toward both of them.
+Vee is incandescent here. She has come back sore, rumpled, swallowed by Pace’s flannel, and she is not minimizing what happened—not quite. The way she says “And then we ate” as if it carries the excitement of a kiss is lovely and particular; the sandwich, the shared water, the cherries, reaching the top under her own power: all of it has become proof that she was alive in her body and allowed to want things. And then she tells Cassie she undressed before him on purpose. I felt her pride and her shock at herself in every short sentence: “On purpose. Me.” I’m rooting for that ownership fiercely.
 
-Pace remains extremely attractive in Vee’s telling. The blister kit, the lunch, the deliberate privacy, the fact that he looked but did not presume—Vee’s account makes the day feel intensely attentive. The line “he looked at me like I’d handed him something” landed hard. That is the swoon of it: she wanted to be seen, chose to be seen, and felt her offering received. Yet I cannot forget what I know about the arrangement behind their meeting, so the warmth is real to me and the unease is real too. Nothing in this chapter makes Pace act “off” on the surface; the suspicion comes from the secret I am already carrying, not from Cassie’s room.
+Pace’s restraint remains extremely attractive to me. The chapter makes his care feel warmer because Vee gets to narrate it in her own language: he fixes the blister without making her feel she has “wrecked the day”; he gives her privacy; he looks at what she offers him and does not take more than she gives. The erotic charge of that truck scene is still hot in the retelling, especially “he looked at me like I’d handed him something.” It is a beautiful description of being received rather than consumed.
 
-The erotic charge is mostly in Vee’s pride and breathless recollection rather than in fresh action. It peaks at her admitting that she called him back and undressed deliberately. The chapter wisely lets the aftermath be the heat: she is amazed by herself.
+But I can’t fully give him my trust, because I still know the arrangement Vee does not. Nothing newly off happens here; if I felt a shadow, it is the existing one. Hearing Vee make a sincere, glowing account of a day whose beginning was engineered hurts. Randi is absent, and I miss her slightly—not because Vee needs her validation, but because I want to know what Randi would feel hearing Vee claim this desire so openly.
 
-“Rye” at first feels almost comically small for a chapter that contains a mountain and that confession, but it works for me by the end. Rye is the sandwich she remembers with the force of a kiss—the hunger, the care, the day becoming something she can carry home and tell. It makes the flannel feel connected to that whole excursion: an ordinary object made charged because it holds the day. *A Polite Invitation* still promises an opening Vee is accepting freely, while *With a Long Spoon* remains more ominous and distant to me. The jacket’s “Every yes was freely given. That was the problem.” presses harder here, because Vee is so clearly proud that this yes was hers.
+“Rye” is a wonderfully modest title for a chapter about Vee returning transformed. It points first to the sandwich, but now it holds the whole summit: the food that let hunger be uncomplicated, the shared water, the care that made the climb feel possible. It recolors the chapter as something remembered through taste. *A Polite Invitation* still feels very apt to Pace’s permission and restraint, though the title also keeps its unease for me: invitations can be generous, and they can conceal who arranged the room. *With a Long Spoon* still means little to me from the pages so far. No cover tagline was supplied here, so I have no reaction to one.
 
-I want the next chapter badly. My guess from here is that the shirt will become a private talisman for Vee—and that I’ll feel both happy for her and sick with the fact that the people around her know more than she does.
+I want the next meeting between Vee and Pace badly; I want her to get to keep making choices that feel this much like hers. My guess from here is that the kept flannel will become a private, charged object for her. I also dread, more sharply after this chapter, the eventual moment when she learns that the people making her feel so carefully chosen had chosen her before she knew them.
 
 **Cast present (in person):** Vee and Cassie.  
-**Mentioned only:** Pace; Meg (through the borrowed boots).
+**Mentioned-only:** Pace; Meg.
 
-**Heat:** 1 — Vee’s deliberate undressing is recounted with vivid, chosen heat.
+**Heat:** 1 — no sexual action in the room, but Vee’s frank retelling of undressing for Pace is charged and works.
 
-**Romance:** 2 — Vee’s tenderness toward Pace is clear; Cassie’s care is quietly intimate friendship.
+**Romance:** 2 — Vee’s tenderness toward Pace is clear, while Cassie’s final permission to keep the shirt is intimate friendship.
 
-**Motifs & images:** Repeat: hunger/food (the rye sandwich, cherries); being seen; choosing; the flannel as a threshold object; the moleskin still holding. Repeat: “goodbye”/separation is replaced here by Cassie’s steady permission to “Keep the shirt.”
+**Motifs & images:** Repeat: food and hunger—rye, horseradish, cherries, shared water; boots/blister and Pace’s practical care; the flannel as warmth, shelter, and a retained trace of him; Vee arriving at a height she once would not have imagined reaching. First as a named focus: rye.
 
-**Symbolism:** The oversized flannel feels like evidence of both Pace’s care and Vee’s new willingness to inhabit something that came from desire rather than shame.
+**Symbolism:** The oversized flannel reads as Vee literally wearing the day’s care and desire, too large for her old sense of herself but something she refuses to return.
 
-**Characterization:** Vee deepens through her delighted ownership of her choice. Cassie deepens through restraint: protective without claiming authority over Vee’s body or story. Pace is filtered through Vee’s glow, but consistently lands as attentive.
+**Characterization:** Vee deepens through the unabashed way she recounts her own wanting and accomplishment. Cassie remains sharply funny, protective, and emotionally exact. Pace deepens only through Vee’s memory, but consistently.
 
-**Pace — within the chapter:** Brisk and earned; the recap selects the emotional landmarks without dragging.
+**Pace — within the chapter:** Brisk, exactly the right length: Vee gets to replay the important beats, and Cassie’s pauses give them weight.
 
-**Pace — chapter to chapter:** Building. The hike’s charged ending gets a needed emotional landing, and Vee’s telling makes its consequence feel larger.
+**Pace — chapter to chapter:** Building. After the charged isolation of the truck, this gives the experience a human witness and makes Vee’s happiness feel more real.

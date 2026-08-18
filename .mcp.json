@@ -1,8 +1,9 @@
 {
   "mcpServers": {
     "packet": {
-      "command": "uv",
-      "args": ["run", "--script", "tools/packet_reader_mcp.py"]
+      "type": "stdio",
+      "command": "sh",
+      "args": ["-c", "exec uv run --script \"$CLAUDE_PROJECT_DIR/tools/packet_reader_mcp.py\""]
     }
   }
 }

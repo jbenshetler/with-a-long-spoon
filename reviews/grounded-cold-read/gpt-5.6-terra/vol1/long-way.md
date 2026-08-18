@@ -4,28 +4,30 @@
 
 ## Reader reaction
 
-This made me soft all over. Vee’s immediate tumble into wanting him—then trying to protect herself with “Is he desperate?”—feels painfully familiar and sweet. Randi saying, “He looked like a man who wants you,” lands as exactly the reassurance Vee is starving for. I still feel the pull of Randi’s warmth; she makes Vee’s desire feel permissible, even when she gives it a teasing sexual frame.
+That ending got me. It is so small—frozen yogurt, a walk, “Your tart’s holding up”—and it made my chest ache. Vee is letting herself have the too-tall cup, letting a man answer her without making her feel foolish for the answer, and then she risks saying the lonely thing aloud. Pace doesn’t swoop in to turn it into a revelation about himself. He lets it be true, then gives her a gentle, almost absurdly practical answer. I melted a little.
 
-Pace is almost absurdly attentive, but this chapter earns my swoon rather than making me distrust him. The frozen-yogurt system, his contained pleasure when she laughs, holding the door while they’re both carrying cups: it is all so small and so specifically observant. Most of all, he listens. “Like the sentence had been worth waiting out” got me. Vee’s embarrassment at calling this the nicest anyone has been to her, when the date is only froyo, is sad in a quiet, bodily way. His answer—“Your tart’s holding up”—is lovely because he neither dismisses her confession nor turns it into something she has to manage.
+I feel very tender toward Vee. She’s so primed to treat wanting as evidence against herself: “Is he desperate?” is not really about him; it is a way to get ahead of the hope before it can embarrass her. And then she follows the rule about waiting a day because that is the available script, while Randi simply tells her the important thing: she isn’t unsure. Vee’s immediate yes to the date, and the fact that she gets too much froyo “without thinking,” feel like a real loosening. Nothing has magically healed, but she has a brief evening in which her mother’s voice doesn’t arrive in time to close the door.
 
-There is no erotic activity here, but the charge is real: Vee making a cup that is “too much” and discovering she does not care; him paying; the blue evening; the long walk with no destination. The heat is in being indulged and attended to, which is working on me. I want to protect Vee from whatever hurts have taught her that ordinary gentleness is extraordinary, while also wanting her to keep taking this pleasure.
+Pace is still landing as unusually attentive, and this chapter makes his attentiveness feel genuinely sweet rather than intrusive. He pays close attention—to calculus, flavors, the fact that Vee has said something vulnerable—but he doesn’t make a performance out of knowing her. “I’ve thought about most things” is charming because he says it so plainly. I don’t have a present suspicion of him from this chapter. I do carry some unease from what I know of his connection to Randi, but the date itself earns my trust: Vee has agency all over it, and he seems to enjoy her as a person rather than simply as an outcome.
 
-I don’t have a page-earned suspicion of Pace in this chapter. Randi’s steering is visible to me from the jacket and the chapters I’ve read, so her eager push is not neutral, but on the page she is also genuinely delighted by Vee’s delight. The ache is that Vee is being welcomed into something she does not understand yet, while this date itself feels uncomplicatedly good.
+Randi is warm here in a way that works on me. “The rule’s for boys you’re not sure about” is exactly the right push, and it makes me want to believe in her friendship with Vee even while I remember the private machinery around their meeting. Cassie’s healer joke is a lovely little grounding note; she is the person in the room who makes Vee’s history feel real and ordinary, not merely a prelude to being chosen.
 
-“The Long Way” is almost embarrassingly perfect in the best way: they literally walk the long way after froyo, but it also feels like Vee is taking the long route toward believing she can be wanted, fed, listened to, and allowed more than “enough.” *A Polite Invitation* still promises an opening Vee can enter freely; *With a Long Spoon* remains more ominous and unclear to me, a signal that something warm may also require distance or caution. The packet’s closing beat—“Every yes was freely given. That was the problem.”—keeps a faint pressure under this sweetness. From here, my guess is that I want more of this easy tenderness, and dread the moment Vee has to see what has been arranged around it.
+There is no erotic charge beyond the early spark of a first date and Randi’s blunt “He wants to see you naked.” The charge is romantic instead: the strange intimacy of being listened to without being rushed, and the tenderness of a person not pretending he didn’t hear the sad thing you just said.
 
-**Cast present (in person):** Vee, Randi, Cassie, Pace. Mentioned-only: Vee’s mother, grandfather.
+“The Long Way” means the literal purposeless walk, but it also feels like Vee taking the longer route toward a life where she can want openly and be met there. The final image of the precarious tart tower makes that feel almost comically physical: she is trying something that could topple, and for now it holds. I want the next chapter badly. My guess from here is that Vee will fall fast—not because Pace has overwhelmed her, but because simple consideration has reached a hunger she has had to keep denying.
 
-**Heat:** 1 — no sex, but appetite, attention, and the long blue-hour walk are charged.
+**Cast present (in person):** Vee, Pace, Randi, Cassie. Mentioned-only: Vee’s mother and grandfather.
 
-**Romance:** 2 — clear tenderness in Pace’s listening and his gentle response to Vee’s confession.
+**Heat:** 1 — first-date attraction and blunt sexual joking, but no sexual activity.
 
-**Motifs & images:** Repeat: food and permission around it—apple slices and hunger before, now an overfull froyo cup she lets herself have; repeat: Pace’s patient attention. First: tart as a tiny comic emblem of Vee holding herself together.
+**Romance:** 2 — the whole date is quiet, attentive intimacy; Vee’s confession and Pace’s response land as a meaningful turn.
 
-**Symbolism:** The leaning cup and “Your tart’s holding up” feel like Vee’s precarious, newly permitted appetite and composure.
+**Motifs & images:** Repeat: food and appetite—Vee permits herself an overfull cup, echoing the earlier food-policing around burgers and clothes. Repeat: listening/being seen, now gentler and more mutual. First: the tart froyo holding up, an image of precarious pleasure sustained.
 
-**Characterization:** Vee deepens in her reflex to hunt for a flaw and her hunger for kindness. Pace stays consistent as unusually careful and attentive. Randi remains warm, teasing, and actively encouraging; Cassie’s healer joke keeps her dry, observant presence intact.
+**Symbolism:** The leaning froyo cup reads as Vee allowing herself “too much,” and its holding becomes a small answer to her fear that wanting will collapse or shame her.
 
-**Pace — within the chapter:** Gentle and well judged; the brief date earns its smallness.
+**Characterization:** Vee deepens through her reflexive self-protection and her brave admission. Pace remains consistent in his patient attention. Randi and Cassie both sharpen the social texture around Vee.
 
-**Pace — chapter to chapter:** Building softly after the charged introduction: a welcome ordinary-date beat that makes the attraction feel lived in.
+**Pace — within the chapter:** Clean and unhurried; the walk earns its quietness.
+
+**Pace — chapter to chapter:** Building in a new register. After the charged setup and coffee-shop meeting, this slower date feels like forward movement rather than a pause.

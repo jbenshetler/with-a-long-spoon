@@ -4,44 +4,35 @@
 
 ## Reader reaction
 
-I felt this one as a threshold chapter more than a sex chapter, though the erotic charge is everywhere because the whole house feels like Pace’s body before Vee ever touches him again: warm, exact, made, private, waiting. The title primed me for the bathroom at first, those “two towels on the rod,” and that detail landed oddly hard because it says welcome without saying welcome. Not a bachelor house, not a place where she is an accident. A towel already there for another body. Maybe hers, maybe not, and because I know Randi has been here, that warmth has a second edge.
+I felt this chapter as a deepening more than a detonation. The heat is there, but it is braided through being known. Vee arrives already keyed up from the unfinished truck moment, and the first kiss lands because it is finally the thing interrupted by rain and police lights: “the plain satisfaction of a thing waited-for finally arriving.” I melted at that, and then even more at Pace stopping first. That stopping mattered to me. It did not cool the scene; it made the want safer, sharper, more adult.
 
-Vee is so open here it hurts. I loved her missing the driveway and naming herself “the hard part,” because it keeps her funny and self-conscious even as she’s walking into something huge. Her first kiss at the door got me immediately: “I missed you,” then taking what the cop lights interrupted. And then he stops it. That was one of the strongest consent/heat moments in the chapter for me, because it flips her expectation: stopping is not only her job here. He wants her, clearly, but he can hold the want without making her manage it.
+Pace’s house works on me hard because it answers the question of who he is without him performing. The shoes “paired and squared,” the used kitchen, the office full of paper, the handmade oak, the workshop with tools outlined on the wall: all of it makes him feel precise, capable, contained. I was drawn to him here, maybe more than before, because his competence is not flashy. He lights up over the MRI patent, but not to impress her; he lights up because he loves the thing. That made my trust in his tenderness rise.
 
-Pace is almost dangerously appealing in this chapter. The house shows him better than any explanation could: the squared shoes, the purposeful kitchen, the chaotic mathematical office, the furniture he made, the workshop, the porch. I swooned hardest at the patent explanation, unexpectedly. “Say it more than once so the noise can’t kill it” is such a beautiful way to explain something technical, and then it echoes the whole way he treats Vee: he listens once and acts as if what she said survived the noise. The dress is almost too much, but emotionally it worked on me. He didn’t just buy her the magazine fantasy; he altered it to her. “He hadn’t matched the dress she’d described. He’d matched her.” That made my chest go.
+But my suspicion does not go away, because I still know what Vee does not. The closed bedroom door made my whole body notice. Vee has dressed for that door, and he leaves it shut. On the page, that is beautifully controlled and consensual: he is not rushing her into sex. But because I remember Randi and the bench behind another bedroom door, the closedness hums. I do not know whether to trust the restraint fully, even though Vee experiences it as charged and frustrating rather than ominous.
 
-And still, I’m uneasy because I’m supposed to be, not because this scene itself is cold. The warmth is real on the page. His attention is real. But the secret makes every act of care double. The silk dress is breathtakingly tender, and it is also a situation where she must undress or be measured “down to what you’d wear under it, in good light.” He leaves it open, and her yes feels genuinely hers, immediate and wanted. But he has prepared the room, the cloth, the heat, maybe the towels. The house is an invitation she did not know she was already inside.
+The dress absolutely swept me. The silk is where the chapter’s romance peaks for me. He heard one half-buried wish on a mountain and quietly built a whole future action around it. Not buying the dress, not offering money, but making it: that is almost unbearable in its intimacy. The burgundy not matching the magazine but matching her is the line that undid me. “He hadn’t matched the dress she’d described. He’d matched her.” That is romantic, erotic, and dangerous all at once, because being seen is exactly what Vee wants and exactly what this book has taught me can undo someone.
 
-The erotic peak for me is not the kiss, though the kiss is hot. It’s the closed bedroom door. She has dressed “with a door just like this one in mind,” wearing satin under everything, and he does not open it. Her disappointment drops, and then the chapter redirects that undressing impulse toward the dress. That is very charged: not sex yet, but being seen, measured, fitted, made for. The body is everywhere before it is naked.
+The erotic charge peaks at the measuring proposal. It is not explicit yet, but the charge is clean and bright: “down to what you’d wear under it, in good light.” Vee understands the bargain immediately. The dress requires her body. Her yes feels real, warm, immediate, and hers. Still, the chapter title “Two Towels” makes me uneasy in retrospect because the bathroom detail plants it early: “two towels on the rod.” It suggests the house may already be arranged for someone else, or at least for more than solitary bachelor life. Given what I know about Randi, I cannot unknow that. The title gives something away for me, not mechanically, but emotionally: it makes the domestic space feel occupied by a hidden second presence.
 
-Randi is absent but very present in my mind. The two towels, the house’s warmth, the old “Hi,” the closed bedroom, the knowledge that Vee is not the first woman inside this private world: all of that keeps Randi in the room for me even though she is not physically here. I don’t know whether Vee is about to step into a tenderness that is fully hers or one already shaped by someone else’s hidden appetite. Probably both, and that both is the ache.
+I have no suspicion that Pace is faking his care. I do suspect the omissions. His little closing at “parents” is earned, but I do not know what it means yet. The much larger withheld thing is Randi. Every beautiful act toward Vee is happening inside that unspoken triangle, and that keeps a shadow under my swoon.
 
-Friction: I almost resisted the dress because the man who does math, lifts, cooks, hikes, builds fine furniture, licenses an MRI patent, and sews custom silk gowns risks becoming impossibly complete. But Vee’s awe is so specifically grounded in objects and gestures that I mostly went with it. The closest line to too-much was “I couldn't find a shirt I liked, so I made one,” because it stacks another talent on the pile. Still, his sheepishness and the used, practical house keep it from going glossy.
+The book title, *A Polite Invitation*, feels louder now. This is an invitation, unmistakably: to his house, into his rooms, toward being measured, toward being looked at. “Polite” is Pace’s whole mode: exact directions, stopped kiss, open choice, “If you want it.” The series title *With a Long Spoon* keeps warning me about distance from something dangerous or complicated. I do not have a cover tagline in this prompt, so I cannot react to it exactly.
 
-The chapter title, “Two Towels,” now feels like a quiet omen. On the surface it is just the bathroom: plain, clean, prepared. But it points to provision, pairing, and a body expected beside his. It also pricks me because I know another woman has belonged here in ways Vee does not know. *A Polite Invitation* feels more literal than ever: everything is offered beautifully, with room to say yes, and yet the invitation began before Vee could see the card. *With a Long Spoon* still feels like desire taken at a careful distance from danger, or danger served elegantly enough that you lean closer. There is no front tagline; the blurb’s closing beat, “Every open door is a temptation and every step is hers,” feels exactly alive here, especially because the bedroom door stays closed and the next “open door” is the measuring.
+What I want next is the measuring scene, plainly. I want the heat of it, and I want Vee’s yes to stay as clear as it is here. What I dread is the second towel becoming a person on the page, or Vee discovering too late that this intimate invitation was never only hers.
 
-What I want next is the measuring scene, plainly. I want the heat of it. I want her in the good light, choosing to be seen. I dread how much I am rooting for it while knowing Pace and Randi are still holding back the truth. My guess from here is that the dress fitting will become erotic without needing to become intercourse immediately, and that the care of it will pull Vee deeper than a direct seduction would.
+**Cast Present (In Person):** Vee, Pace.  
+Mentioned only: Randi by memory/context only, Cassie by memory/context only, his parents, Meg indirectly through the boots/shirt memory.
 
-**Cast Present (In Person):**  
-Vee, Pace.  
-Mentioned-only: Randi by implication/memory only, Cassie, Meg, Kayla, Vee’s parents, Daphne not mentioned here.
+**Heat:** 1.5 — clothed kiss and strong erotic anticipation around the bedroom door and measuring, but no explicit sexual activity.
 
-**Heat:** 1.5 — charged kiss, closed bedroom door, satin underclothes, measuring premise; no explicit sexual activity yet.
+**Romance:** 3 — the handmade dress offer is a major romantic turn, intimate because he remembered and acted.
 
-**Romance:** 3 — the custom silk dress is a romantic peak of being heard and answered.
+**Motifs & Images:** Repeat: doors/closed bedroom door; “Hi”; being seen; handmade objects/bench echo through furniture; food/kitchen as appetite and care; clothing/shirts now becoming dress; two towels as first-sighting domestic clue with possible hidden-life charge.
 
-**Motifs & Images:**  
-Repeat: doors/closed bedroom; “Hi”; food/hunger becomes kitchen/cookbooks; hands making and measuring; being seen in good light; off 614/gravel.  
-First/stronger here: shoes for each purpose, the two towels, workshop outlines, error-correcting codes, burgundy silk.
+**Symbolism:** The burgundy silk stands for Vee being seen more accurately than she sees her own wish. The two towels suggest a hidden second place in his private life.
 
-**Symbolism:**  
-The two towels read as prepared intimacy. Error-correcting codes feel like a symbol for Pace’s attention: messages surviving noise. The dress stands for Vee’s discarded want returned to her as real.
+**Characterization:** Vee deepens: wanting, alert, vulnerable, still choosing. Pace deepens through house, work, craft, and restraint. No one feels thin here.
 
-**Characterization:**  
-Vee deepens: funny, desiring, overwhelmed, willing. Pace deepens almost extravagantly: maker, mathematician, cook, host, careful seducer. He risks feeling too capable, but still lands human.
+**Pace — Within The Chapter:** Slow but earned; the house tour builds steadily toward the silk.
 
-**Pace — Within The Chapter:**  
-Slow tour, but it earned the length because each room changed my sense of him and raised the stakes of the final offer.
-
-**Pace — Chapter To Chapter:**  
-Building strongly. The mountain and shirt led naturally into the house; this chapter turns romantic tension into a more intimate, more dangerous invitation.
+**Pace — Chapter To Chapter:** Building. The hike, shirt, friend retellings, and house invitation all gather into this yes.

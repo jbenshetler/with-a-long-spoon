@@ -4,31 +4,32 @@
 
 ## Reader reaction
 
-This felt like being fed in a way that finally let Vee stop monitoring herself. I melted at the dinner: the unfamiliar menu, Pace asking “May I choose?” and then actually taking care with what that choice meant. Vee’s hunger landing so suddenly, then becoming something she could simply follow, got me much more than a grand gesture would have. The food is erotic without becoming sex: bright, smoky, hot, eaten with the hands; she watches him lick the drip from his hand and loses the thread of his words. It works.
+I am completely gone on this date. The food, first — Vee getting to be hungry without watching herself, then realizing the hunger went farther back than missing lunch — landed in me almost as strongly as the hand-holding and the kiss. “She didn't seem to notice either, or to think there was anything to notice” is such a tender relief. Pace’s choosing doesn’t feel like a trick in this chapter; he asks, waits, considers what he is ordering for her, and the whole meal lets Vee rest. I felt that rest in my own body.
 
-I’m very taken with Pace here. The text keeps earning Vee’s trust in small ways: he leaves time for her reply, doesn’t make her explain the menu, asks what she won’t eat, doesn’t press when she says she doesn’t kiss men she’s just met. That last moment is the real swoon for me. He accepts the rule immediately—and because he does, she gets to make the exception herself. “I’m making an exception” is tremendously hot precisely because it is so plainly hers.
+Vee is especially open here, which makes me fiercely protective of her. I love that she can recognize the grace in his text: he has invited her and left her time to answer. Cassie’s “That’s not a boy. That’s a man” made me grin, though Vee’s hunger for the care itself has me a little achy. She is so ready to be carried by someone kind that every good thing feels huge: unfamiliar food, a hand, a kiss. The chapter earns that huge feeling.
 
-Vee makes me ache. She is so hungry, not only for dinner or for him, but for relief from being the person who has to keep track of every bite, every conversation, every rule. Her realization that she can let the thread of his talking go and still be safe with him is tender. I also felt a flicker at the line about her hand belonging in his “all its life maybe”: it’s beautifully overwhelming, but it’s an enormous feeling for such a new connection. I don’t distrust him from this chapter; I just feel how ready she is to pour herself into the safety he offers.
+Pace remains deeply attractive to me in this scene. His consideration is specific rather than showy — he knows a place, is warmly known there, lets Vee meet the menu on her own terms, asks “May I choose?” and genuinely treats the yes as something to handle carefully. When she says she does not kiss a man she has known only days, he immediately accepts it. That is the moment that makes her exception feel hot rather than pressured. He gives her the room to choose him, and she does.
 
-Cassie lands warmly in the opening. “That’s not a boy. That’s a man” is teasing, but she hears what Vee means and doesn’t cheapen it. Christine’s quick ease with Pace also gives him a little life beyond Vee’s gaze.
+The erotic charge is all anticipation, and it works beautifully. Her body responding to the thought of his hand around hers, the pause under the tree, then “I’m making an exception” — that final line is a real swoon. No explicit sex is needed for the chapter to feel intensely intimate.
 
-“May I Choose” is almost comically perfect as a title, but not in a way that spoiled it. First Pace chooses dinner for her; then, much more importantly, he gives up the kiss when she says no, and Vee chooses it. *A Polite Invitation* still promises that same intoxicating courtesy—doors held, room left open—but the blurb’s closing line, “Every yes was freely given. That was the problem,” hangs at the edge of how intensely Vee experiences this freedom. *With a Long Spoon* means nothing definite to me yet, though the food and feeding imagery makes it feel less random than it did before.
+I don’t have suspicion of Pace from this chapter’s page. I do have unease about how much Vee has already attached to the feeling of safety and being chosen, because the page makes that dependence visible, not because he acts wrongly here. Randi is absent, but I can’t forget the sharpness around her in the recent chapters; Vee being so happy and unguarded with Pace makes me want to know how those currents will meet.
 
-I want the kiss, obviously. I also want to see whether Vee can keep wanting this without having to turn it into a rule-breaking emergency in her own mind. My guess from here is that the tenderness will keep making her braver—and that bravery may not feel uncomplicated to her.
+“May I Choose” illuminates the chapter cleanly: Pace asks to choose the meal, but the deeper choice stays Vee’s — whether to eat, let herself be cared for, take his hand, break her own kissing rule. It is a lovely title because it begins as his question and ends as hers. I wasn’t given a jacket packet or tagline, so I have no grounded feeling yet for the larger book or series titles beyond their names.
 
-**Cast present (in person):** Vee, Pace, Christine.  
-Mentioned only: Cassie.
+I want the kiss next, obviously. More than that, I want Vee to keep having this kind of ease without losing herself inside someone else’s attention. My guess from here is that her willingness to choose will be tested soon — but right now I just want to stay in the warmth of her stepping toward him.
 
-**Heat:** 1 — no sex, but hunger, hand-to-mouth attention, hand-holding, and the chosen almost-kiss are strongly charged.
+**Cast present (in person):** Vee, Pace, Cassie, and Christine. Mentioned-only: Vee’s professor.
 
-**Romance:** 2 — a deeply attentive date, first hand-holding, and Vee’s freely made exception.
+**Heat:** 1 — no sexual contact beyond hand-holding and an imminent kiss, but the anticipation is strong.
 
-**Motifs & images:** Repeat: food/appetite, from Pace’s thin apple slices and Vee’s guarded eating; here she gets to be “enormously hungry.” Repeat: choosing/permission—“May I choose?” echoes Pace’s careful asking elsewhere. Repeat: walking the long way, now through the quiet night. First: the bright and smoky dishes paired together.
+**Romance:** 3 — a genuinely intimate date, first hand-holding, and Vee actively chooses the kiss.
 
-**Symbolism:** The meal feels like more than dinner: Vee accepts what she cannot name, finds it nourishing, and stops policing her own appetite.
+**Motifs & images:** Repeat: food and hunger, now openly answered rather than portioned; hands, especially Pace’s right hand; choosing/permission (“May I choose?”, “I’m making an exception”); warmth against cold. First: mint tea in brass holders, the warm restaurant as a pocket of safety.
 
-**Characterization:** Vee deepens sharply through her bodily relief and old rule returning at the kiss. Pace remains consistent in his restraint. Cassie is brief but caring; Christine makes Pace feel grounded in a wider life.
+**Symbolism:** The meal reads as more than dinner: Vee accepts nourishment she cannot control or name, and discovers she can be satisfied. The unfamiliar dishes become a gentle version of stepping beyond her usual rules.
 
-**Pace — within the chapter:** Lovely, unhurried progression; the dinner’s softness earns the charged stop under the tree.
+**Characterization:** Vee deepens sharply through her hunger, her relief at not having to perform, and her final choice. Pace is consistent in his attentiveness and restraint. Cassie’s care is quiet and exact.
 
-**Pace — chapter to chapter:** Building. After the water’s private freedom, Vee is now finding a version of it with Pace.
+**Pace — within the chapter:** Soft and unhurried; the long meal earns its dreamy drift, then the walk gives it a clean, breath-catching turn.
+
+**Pace — chapter to chapter:** Building. After the froyo’s bright beginning and the pool’s private release, this feels like a more consequential deepening of Vee and Pace’s bond.

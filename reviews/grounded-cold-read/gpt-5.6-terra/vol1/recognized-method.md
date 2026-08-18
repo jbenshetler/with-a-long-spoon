@@ -4,31 +4,32 @@
 
 ## Reader reaction
 
-I went in braced with Vee, and then the porch scene melted me almost immediately. Pace seeing the borrowed heels, setting her scarf straight, and refusing her shame—“Leave them on”—is devastatingly effective on me. It lets her arrive as she is instead of scrambling to make herself smaller. His line about beauty “made for the gods and loaned out” is extravagant, yes, but it lands because he says it as simple fact.
+I went into this braced for Vee to have to crawl over broken glass for forgiveness, and instead Pace makes room for the truth without making her perform suffering. That “Thank you for telling me what she said” got me. It is such an unexpectedly generous answer: he does not erase what she did, but he does not leave her alone with the shame either. I felt her relief as physical when he takes the pie from her hands, then again when she realizes he has lifted the whole weight she carried there.
 
-Vee’s apology also moved me. She does not dodge the ugliest part: she knew the blonde was needling her and still chose to believe the worst. “She handed me a lie and I picked it up” feels painfully honest. Pace thanking her for telling him what was said is exactly the kind of response that makes me trust the tenderness between them. I still cannot forget what I know about him and Randi, so the warmth is never uncomplicated—but this chapter earns the swoon. Vee gets to be silly, needy, ticklish, horny, late, and loved without being punished for any of it.
+Vee is especially dear to me here because her apology is sincere but still partly armored. The labeled pie, the planned speech, Randi’s instructions about looking “sure”: she is trying so hard to make herself manageable even in contrition. Then Pace asks the one question her little machine cannot answer, and she tells him the ugly truth—that she was ready to believe the worst because she feared she was not special. That is painful, but it feels like the real repair.
 
-The kitchen scene is where the heat really catches: the sleepy argument about soaking, the tickling, then that sudden slap and Vee’s stunned bodily response. It works because her surprise is the center of it, and Pace goes still to read her face rather than pressing onward. Her answer—kissing him and reaching for his jeans—is hers. The charge is bright, funny, and then abruptly intense.
+Pace continues to sweep me up. The line about looking up at beauty “made for the gods and loaned out” is almost absurdly extravagant, but he says it with such calm certainty that it lands. And the Sunday kitchen scene is warm, funny, then suddenly startlingly hot. Her argument about soaking dishes made me laugh; the tickling is playful and mutual; the slap changes the air. The erotic charge peaks in Vee’s immediate, bewildered body-response and her decision to close the space and kiss him. I like that the chapter lets her be surprised by herself without turning that surprise into shame.
 
-I like Vee more here for letting herself stay. Two nights at his house, in his oversized clothes, smelling like his soap, becoming upset over her hair because Monday has arrived too fast: it is ordinary intimacy, and it makes her feel young in a way the earlier glamour often didn’t. Pace’s “You’re always beautiful” could have been too much, but after he actually sees her panicking over something small and does not dismiss it, it lands warm.
+I trust Pace’s care in this chapter. He watches Vee closely enough to stop when her response changes the moment, and he does not make her explain it. The larger unease has not disappeared, though: I cannot forget what I know about Randi and Pace while Vee is wearing Randi’s shoes, scarf, and following Randi’s counsel into Pace’s house. The borrowed things feel intimate and a little dangerous now—Randi is not physically there, but she is all over Vee’s entrance.
 
-I have no new suspicion from the page itself. Pace is consistently attentive here; Randi’s advice is useful, though it still makes me uneasy that Vee is acting on guidance from someone who knows so much more than she does. The chapter makes me want Vee to have this soft domestic happiness while making the secret behind it hurt more.
+Randi’s warmth toward Vee is still intoxicating to me, but “a woman who came to the door… left him nothing to do but forgive her” catches slightly. It is exactly the kind of polished certainty Vee craves, yet it turns forgiveness into something Vee can stage correctly. Pace’s question breaks that staging open, thankfully.
 
-“A Recognized Method” first makes me laugh—Vee’s absurdly serious case for letting dishes soak—but then it opens wider: she has been trying to scrub away the whole mess of Thursday through a perfectly engineered apology. Instead, she lets herself tell the truth and lets the feeling sit long enough to become something else. *A Polite Invitation* still feels apt in Pace’s continual making-room-for-her choices, while *With a Long Spoon* keeps a faintly ominous taste beside all this sweetness. There was no cover tagline; the blurb’s closing beat, “Every yes was freely given. That was the problem,” feels sharper than ever now. My guess from here is that this newly easy, home-like belonging is going to make whatever Vee does not know much harder to survive.
+“A Recognized Method” is funny on its face—Vee’s mock-serious case for soaking the dishes—but it opens wider into the chapter’s tenderness. Leaving something in warm water, letting time do work rather than attacking it: that feels like the repair between them, and like Pace’s patience with Vee. It is also a lovely little title for a chapter that moves from a rehearsed apology into the unruly knowledge of her body. I have not been given the volume-entry material or tagline, so I do not have an honest fresh reaction to *A Polite Invitation*, *With a Long Spoon*, or the cover promise here.
 
-**Cast present (in person):** Vee, Pace.  
-Mentioned-only: Randi; an unnamed blonde woman.
+I want the next chapter badly. Vee has crossed from a planned one-night apology into living in Pace’s clothes and losing track of time in his house; that domestic pull is gorgeous. My guess from here is that the sweetness cannot stay private forever—especially with Randi threaded through it—but I do not yet know what shape that will take.
 
-**Heat:** 2 — strong, consent-forward sexual escalation in the kitchen, though the chapter also lingers in domestic intimacy.
+**Cast present (in person):** Vee and Pace. **Mentioned-only:** Randi; the blonde woman from the Rusty Nail.
 
-**Romance:** 2 — apology, forgiveness, shared sleep, borrowed clothes, and Pace’s care deepen their bond.
+**Heat:** 2 — explicit sexual momentum, especially the kitchen turn, but the chapter’s center is reconciliation and lingering intimacy.
 
-**Motifs & images:** Repeat: borrowed shoes/scarf as Randi’s glamour and Vee’s new confidence; warmth inside Pace’s house against the cold; hands tending, steadying, and asking through touch; food/feeding in the humble pie and soaking dishes; doors/thresholds as Vee enters to repair a rupture. First: the oversized undershirt and sweatpants make Pace’s care feel domestic and lived-in.
+**Romance:** 3 — the apology is met with real emotional attention, and the borrowed shirt, back-hug, and “You’re always beautiful” feel like a deepening bond.
 
-**Symbolism:** The “humble pie” is Vee trying to package contrition into something manageable; soaking becomes a small image of letting a problem rest instead of forcibly cleaning it away.
+**Motifs & images:** Repeat: borrowed clothes and underwear; warmth against cold; hands taking, steadying, and caring; food/hunger in the pie and soaking dishes; thresholds and invitations at Pace’s door; being seen. Repeat: Randi’s shoes and silk physically carry her presence into Pace’s house. First: “humble pie” as Vee’s attempt to make shame presentable.
 
-**Characterization:** Vee deepens through her honest jealousy and her capacity for play. Pace remains convincingly attentive and quietly funny. Randi’s influence remains potent even off-page.
+**Symbolism:** The soaking dishes lightly echo the relationship: leave something in warmth and let time work rather than scrubbing at it. The pie is Vee trying to package remorse into a manageable joke.
 
-**Pace — within the chapter:** The front-hall confession takes the time it needs, then the chapter loosens pleasantly into a sensual weekend; it never dragged for me.
+**Characterization:** Vee deepens through the difference between her prepared apology and the vulnerable truth underneath it. Pace remains consistent in his attentiveness, though his unseen secret with Randi still complicates every tenderness. Randi’s influence feels loving, charged, and controlling in the same breath.
 
-**Pace — chapter to chapter:** Building. After the rupture at the dance, this feels like real repair and a more intimate turn in Vee and Pace’s life together.
+**Pace — within the chapter:** It earns its long, soft aftermath; the movement from doorway repair to domestic play to Monday panic feels natural.
+
+**Pace — chapter to chapter:** Building. After the rupture at the dance, this gives the relationship a fuller emotional and domestic texture rather than simply resetting it.

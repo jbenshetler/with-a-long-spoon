@@ -4,28 +4,27 @@
 
 ## Reader reaction
 
-I came out of this smiling. Vee’s joy is so physical here—she can barely keep it in the room—and it got me. The quiet way she says, “He was already walking away and I pulled him back and I did it. Me,” is the real peak for me, even more than the kiss itself. She is proud of wanting, proud that it was her choice, and I want to let her have that uncomplicatedly. Cassie does: she asks the necessary practical question, then believes Vee, and her “Look at you” lands as real affection rather than caution dressed up as concern.
+Vee’s happiness got me right in the chest. I loved how unguarded she is with Cassie here: she isn’t trying to make the night look cool or strategic; she is almost amazed by herself. “He was already walking away and I pulled him back and I did it. Me.” That lands because we just watched her make that exception, but from her side it becomes even more precious: not merely that Pace kissed her, but that she chose the kiss after he accepted her no.
 
-Cassie is especially dear to me here. Her humor gives Vee somewhere safe to spill all this brightness without turning it into a solemn confession. “How much did he give you to drink?” is a sharp question, but she takes Vee’s answer seriously. Then she moves straight into the boringly caring details—name, road, shoes, troopers—and “Borrow good ones” is almost tender in its Cassie way.
+Cassie is wonderful in this scene. Her first response—“How much did he give you to drink?”—makes me laugh, but it also gives Vee the exact opening to say what matters: “Nobody did anything to me. I wasn't talked into it. I did it because I wanted to and I did it on purpose.” I believe Vee’s joy. I’m glad Cassie believes her too, while still being the friend practical enough to ask for the man’s name and location. “Borrow good ones” is such a dry, loving little landing.
 
-I’m still pulled toward Pace from what Vee has told us: he stopped when she named her rule, and Vee chose to close the distance herself. Nothing in this chapter gives me cause to doubt that particular yes. The jacket’s knowledge keeps a low unease around the edges, of course, but on the page Vee’s happiness feels earned and alive, not false. I do feel a small pinch when she calls “off six-fourteen” enough to know about him; it is sweet that she wants proof she has a real thing, but it is also plainly not much of a dossier. Cassie sees that without spoiling the moment.
+The heat here is residual rather than sexual, but it absolutely works: Vee’s quieter account of stopping him, then the spin and “Look at me,” has all the charge of someone newly thrilled by her own desire and agency. I’m swept up by it. Pace feels good to me after the walk because he did not press when she stated her rule; this chapter makes the significance of that gentleness plain without having to make him saintly.
 
-The erotic charge is only a warm afterglow here, but it works because the chapter is about agency rather than replaying the kiss. Vee’s “Nobody did anything to me. I wasn't talked into it. I did it because I wanted to and I did it on purpose” is intensely charged precisely because she needs to say it aloud. I believe her happiness. I also feel how important it is to her that Cassie believe it.
+“Off Six-Fourteen” initially sounds remote and faintly ominous—Cassie rightly hears how little of an address it is—but by the end it is also a bright private coordinate in Vee’s new life: somewhere unknown that she is eager to go. I share the tiny flicker of caution at the isolation, earned only by Cassie’s joking state-trooper question and Vee’s incomplete knowledge, not by any distrust of Pace so far. Mostly I want the hike, the house, and the next stretch of Vee learning what she wants. My guess from here: being brought into Pace’s world will feel thrilling precisely because she has so little vocabulary for it yet.
 
-“Off Six-Fourteen” is a lovely, slightly funny title for this small room scene: an address becoming a talisman, Vee’s scrap of concrete knowledge about a man she is already thrillingly interested in. It points toward the hike and his house, but it doesn’t give anything away beyond that. *A Polite Invitation* still feels exactly like the invitation Vee is receiving and accepting, while *With a Long Spoon* remains ominous and oblique to me. The packet gave no cover tagline, so there’s none for me to react to. From here, I want the hike—and I want Vee to keep getting to discover what she wants in daylight, not only in the glow of being wanted. That’s a guess from here, not a dread of anything the chapter has shown me.
+**Cast present (in person):** Vee, Cassie.  
+**Mentioned-only:** Pace.
 
-**Cast present (in person):** Vee and Cassie. Mentioned only: Pace.
+**Heat:** 1 — no sexual activity, but Vee’s retelling of choosing the kiss is warmly charged.
 
-**Heat:** 1 — no sex on-page; Vee’s retelling of choosing the kiss carries a bright, intimate charge.
+**Romance:** 2 — Vee is glowing with new affection and pride in having actively chosen Pace.
 
-**Romance:** 2 — Vee’s joy over initiating the kiss and agreeing to hike makes the connection feel newly mutual to her.
+**Motifs & images:** Repeat: cold air/window against warmth, echoing Vee’s loosened warmth after dinner; choosing and being allowed to choose; food/drink as care, here recast in the tea Vee excitedly recounts. First: “off six-fourteen,” an unfamiliar route toward Pace’s home and trail.
 
-**Motifs & images:** Repeat: cold air through the cracked window against Vee’s inner warmth; choosing/saying yes, carried from the date. First: “off six-fourteen” as a cherished scrap of location; borrowed “real shoes.”
+**Symbolism:** The cracked window’s thin cold line feels like Cassie’s practical clarity beside Vee’s warmth; the too-small room barely containing Vee’s spin makes her joy feel physically bigger than her usual containment.
 
-**Symbolism:** The thin cold line from the window versus Vee lying warm in the bean bag feels like her new happiness insulating her from ordinary caution.
+**Characterization:** Vee deepens through her astonishment at her own deliberate wanting. Cassie remains sharply funny, protective, and non-intrusive. Pace is only reported, but Vee’s account reinforces his responsiveness.
 
-**Characterization:** Vee deepens through her fierce insistence that the kiss was her deliberate choice. Cassie remains dry, observant, and quietly protective without flattening into a warning voice. Pace is only reported, but Vee’s account keeps him warmly present.
+**Pace — within the chapter:** Light and earned; the scene gives Vee’s choice room to become hers.
 
-**Pace — within the chapter:** Quick and buoyant; the small scene earns its length by letting Vee’s excitement unfold and giving Cassie room to meet it.
-
-**Pace — chapter to chapter:** Building gently after the date: this is a satisfying breath of friendship and aftermath, not a stall.
+**Pace — chapter to chapter:** Building nicely after the date’s climax, shifting the momentum into friendship, anticipation, and a new setting.

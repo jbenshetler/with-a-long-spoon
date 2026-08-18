@@ -4,29 +4,29 @@
 
 ## Reader reaction
 
-It startled me a little to leave Vee so immediately after she walked away from Randi’s door with all that bright resolve and land here instead, with Pace on a bike beside a woman I’ve never met. But I liked the cold, spare opening almost at once—the road taking their breath on the climbs, the easy history in Sheri being faster and refusing to let him forget it. She feels real in very few strokes: blunt, sharp-eyed, capable of affection with teeth.
+This one made me sit up a little. Pace’s world has felt so sealed around Vee and Randi that Sheri arriving in it — not as a threat exactly, but as someone who plainly knows him well and can say what she sees — gives the air a sharper edge. I like her immediately. She is brisk, funny, and not remotely intimidated by him; “She couldn’t take your heat” is affectionate, but it also tells me he knows precisely how formidable she can be.
 
-I feel protective of Vee hearing Sheri call her “hell of a backside,” though the page makes it clear that’s simply Sheri’s register, not a threat. Pace correcting her with “Vee” lands warmly for me. And then he starts talking: the walnut chair, the math book, the details he has kept. It gives me a small, pleased ache. He is gone on her in his quiet Pace way, even if he does not seem to recognize what Sheri hears in him. “Listen to you” is exactly right.
+The strongest pull here is Pace talking about Vee before he means to. He starts with her name and then spills into the walnut chair, the joint, the math book. That lands warmly: not just that he desires Vee, but that he is lit up by the particular ways she notices his work and reaches toward his mind. Sheri’s “Listen to you” catches him in the act, and I felt a small, pleased swoon at it.
 
-Sheri earns a little trust from me because she watched Vee after Pace left and tells him plainly that Vee did not dance with anyone or go home with anyone. Her observation that Randi is “not finished,” and then the blunt arithmetic—“Two of them at once”—makes the situation feel newly exposed from outside. I don’t take that as proof that Pace has done anything more than the page says, but it does make my unease sharpen. Vee is walking toward him tomorrow convinced she is going to repair what she broke, while he is here acknowledging, however minimally, that Randi remains unresolved. The tenderness I feel for him is still there; so is the secret he is keeping.
+I do feel unease, but it is earned by what I already know, not by Sheri herself. “Two of them at once” makes the secret structure suddenly plain in an ordinary outside voice. Pace’s “That’s not finished” about Randi is especially unsettling. It sounds neither dismissive nor resolved. I can’t tell whether he means the relationship, her feelings, or something still unspoken between them; the chapter leaves that ajar, and I want it left there for now.
 
-There’s no erotic scene here, but there is a faint charge in the way Pace talks about Vee’s hands on his work, and in Sheri catching him out. The chapter works as a cool breath after so much heat and emotional claustrophobia. I didn’t feel it dragging. It leaves me wanting to get back to Vee badly, especially because her next move feels so vulnerable.
+There is no erotic scene, but there is charge in the compactness of it: Sheri’s offhand appraisal of Vee’s body, Pace’s attention sharpening around Vee’s name, and the fact that Randi is named as unfinished. It is a cool, contained kind of heat rather than something bodily immediate.
 
-“Hills-and-valleys” is literal first—the climbs and descents of their ride—but it also fits the little rise and fall of this conversation: Pace’s warmth about Vee, Sheri’s teasing, then the hard fact of Randi. It doesn’t give anything away. *A Polite Invitation* still feels increasingly dangerous because politeness and room-to-choose keep existing alongside knowledge Vee does not have. *With a Long Spoon* sounds, from where I sit, like a warning about getting close to something complicated without being untouched by it. The jacket’s closing beat—“Every yes was freely given. That was the problem.”—keeps pressing harder now. My guess from here: Vee will go to Pace tomorrow as Randi instructed, and the emotional stakes of that meeting will be much bigger than she knows.
+“Hills-and-valleys” fits the ride literally, but it also colors the conversation: the easy flat stretches, the breathless climbs, the little crests where something becomes visible. Pace and Sheri’s friendship has that terrain, too — teasing, frankness, then silence. The book title, *A Polite Invitation*, still feels almost dangerously gentle beside all these private arrangements and admissions. *With a Long Spoon* makes me think of getting close to something complicated while trying to preserve a safe distance; nobody here seems fully able to do that. I want the next chapter badly, especially to see Vee walk into Pace’s door after Thursday — and I dread how much she still cannot know.
 
 **Cast present (in person):** Pace and Sheri.  
-**Mentioned only:** Vee, Randi.
+**Mentioned only:** Vee; Randi.
 
-**Heat:** 0 — no sexual action; only a low residual charge around Pace’s attention to Vee.
+**Heat:** 1 — no sexual activity, but Vee’s body and Pace’s involuntary fondness carry a low charge.
 
-**Romance:** 1 — Pace’s unguarded affection in describing Vee is quietly moving.
+**Romance:** 1 — Pace’s unguarded description of Vee deepens the tenderness I feel from him toward her.
 
-**Motifs & images:** Repeat: cold/warmth; looking and being seen (“Listen to you”); Pace’s handmade walnut chair and math books. First: cycling hills and descents as the chapter’s governing physical image.
+**Motifs & images:** Repeat: hills/climbs and breath echo the book’s physical effort and Vee’s movement toward taking what she wants; looking/being seen returns when Sheri catches Pace talking himself open. First sighting: bicycles and the cold road.
 
-**Symbolism:** The rolling road lightly reads as the uneven emotional ground around Vee, Pace, and Randi, but it stays mostly concrete.
+**Symbolism:** The rolling road reads naturally as the uneven emotional ground around Pace, Vee, and Randi: effort, brief visibility, and stretches where nobody says what matters.
 
-**Characterization:** Pace deepens through what slips out when he talks about Vee. Sheri arrives vividly—fast, blunt, observant, and protective in her own hard-edged way.
+**Characterization:** Pace deepens through his obvious but unperformed delight in Vee. Sheri lands vividly and economically as a longtime friend who will speak plainly. Randi’s unresolved place gains weight from only a few words.
 
-**Pace — within the chapter:** Brief and clean; the conversation earns its smallness.
+**Pace — within the chapter:** Very quick, but it earns its brevity; the conversation has one clean turn after another.
 
-**Pace — chapter to chapter:** A deliberate pause after Vee’s long night and Randi’s intervention; it holds momentum by showing what Pace says when Vee is absent.
+**Pace — chapter to chapter:** Building. After Vee’s long preparation to repair Thursday’s rupture, this side view raises the stakes without repeating the same emotional beat.

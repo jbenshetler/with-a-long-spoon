@@ -4,53 +4,41 @@
 
 ## Reader reaction
 
-I came into this chapter already lit from the fitting and that impossible lunch with Randi, and this one felt like the stored heat finally finding a body. The title landed immediately and kept deepening: Vee is not just hungry for sex, though she very much is; she is hungry to be met without being diminished, hungry to stop translating her own desire into shame before anyone else can see it. “Famished” is almost too plain, but by the end it feels earned.
+I came into this chapter already wound up by the fitting and by Randi’s kiss, and this one felt like the book finally let Vee’s wanting stop circling itself and arrive. It is explicit, yes, but what landed hardest on me was not just the sex. It was the way shame stayed in the room and somehow did not get to be the final authority. The repeated “floozie” should have felt blunt, maybe too on-the-nose, but for me it worked because the chapter makes it bodily: the word comes, her body answers, and eventually the word has nothing stronger left to do.
 
-With Vee, I felt a huge tenderness and a real erotic rush. The green set, the frosted plum toenails hidden in flats, the bed full of discarded outfits — all of that made her wanting feel specific and vulnerable before she ever gets to his door. I loved that she keeps telling herself “none of this meant anything in particular” when every object on the page says it means everything. The flannel has become almost unbearably intimate: “the smell of him gone thin after a week of her wearing it, fainter than the night before, so that she had to chase it.” That got me. It is needy, yes, but not pathetic; it is the body admitting what the mind keeps trying to demote.
+Vee is so open here that I feel protective and thrilled for her at once. The green set, the plum toenails, the little fight over shoes and skirt and blouse: all of that felt like her dressing for a threshold while pretending it is just dinner. “Famished” is such a perfect first word between them because it is food and sex and the whole shape of Vee right now. She is hungry to be wanted without being made small by it.
 
-Pace is very seductive here, and my trust in him, within this scene, went up emotionally even while the larger secret still sits there like a buried charge. He has planned dinner, stopped the preparation, opened the wine, and left the pan clean and waiting. That “He’d done all the preparation and stopped” is such a Pace gesture: readiness without forcing the next step. And then when she says “Famished,” he hears the whole thing. The sex works because he does not treat her wetness as embarrassing evidence against her. His question — “Would you be bothered if I was too hard?” — is strange and perfect. It gives her a way to understand her own obvious arousal as reciprocal rather than humiliating. It is consent, but it is also erotic mercy.
+Pace still works on me. I trust his attention in the scene: he stops prepping dinner and waits, he registers when she breaks the kiss, his hands have “the question already in” them. His line, “Would you be bothered if I was too hard?” is strange and tender and erotic all at once. It lets her wetness be answered by his body, not judged. That said, the larger secret around him and Randi has not gone away for me. In this chapter itself, I have no suspicion of how he treats Vee in bed. In the book so far, I absolutely still feel the danger of what he has not told her.
 
-The erotic charge is very high for me. It peaks first when his hands go under her blouse and the shame-word arrives at the exact same time as her nipples tightening. The chapter refuses to separate shame from heat, and that is what makes it feel so intimate. Then it peaks harder when he discovers how wet she is through the satin before he even bares her. That could have been played as exposure only, but because of the fitting, because of his smile then, because of the question now, it becomes the moment where her worst fear turns into something desired. The line “*Floozie,* said the voice. That was the worst it had” felt like a little victory, not because the shame is gone, but because it no longer has authority.
+Erotically, this worked very strongly for me. The peak is not only his mouth on her, though that is graphic and sustained; it is the moment before it, when “the crystal strings came with it” and he sees exactly how wet she is, and her shame expects punishment but receives welcome. The sex feels hot because it is specific to Vee’s interior life. “The shame ran the whole length of it and never closed her” is the chapter’s heart for me. That line made the orgasm mean something beyond release.
 
-I also felt the swoon in the plainness after. The sex itself is hot, but the kitchen afterward almost got me more: she is wrapped in the sheet, leaking, tired, hungry, and he simply cooks. “The evening had used her well” is a sentence I trusted because the scene made “used” feel bodily and chosen, not careless. Fra diavolo after sex is exactly right: pepper, garlic, tomatoes, wine that has waited. Food and sex finally stop being metaphors for each other and become one continuous appetite.
+The scar on Pace’s thigh startled me. The chapter does not explain it, and I do not know what to do with it yet. It is just there, large and high, seen in the rush before she is pulled onward. I am leaving it ajar.
 
-There is still unease, but not because this page made Pace feel false. On this page, he feels attentive, intensely present, and very much wanted. The unease comes from what I know Vee does not: Randi and Pace, the selection, the hidden invitation. That secret is not in the room during the sex exactly, but it is outside the bedroom door. The scar high on Pace’s thigh also snagged me because it appears and is immediately passed over: “her hand stopped — a scar, large, high on the inside of his thigh. Then he drew her arms up around his neck, and she went.” I do not know what it means, but the page made me notice it.
+I also felt a little ache after, in the kitchen. The quiet dinner could have felt anticlimactic, but instead it gave the sex somewhere human to land: garlic, pepper, tomatoes, Chianti, hunger after being “used well.” The final trade undid me more than I expected. The panties are no longer only evidence of shame. She folds them, centers the spot, and gives them to him. That is bold, but not performative. It feels like her choosing to let the proof remain proof.
 
-Randi is not present, but she is still in the chapter’s bloodstream. The green lingerie, the plum polish “like the silk he’d held to her face,” the permission Vee got from Randi about “how it’s done,” even the way Vee can now tell herself less and feel more — Randi helped open that door. That makes me ache and worry, because Vee’s first time with Pace is real and hers, but Randi has helped teach her how to walk toward it while hiding so much from her.
+The title “Famished” gave something away in the right way. Before the chapter, it made me expect hunger; after, it means appetite admitted on every level: food, scent, sex, being seen, being known. The book title, *A Polite Invitation*, feels sharper now because Vee is being invited so courteously into things she does not fully understand. The series title, *With a Long Spoon*, still makes me wary: intimacy with distance, or eating beside danger. I do not have a tagline in the supplied packet, so I cannot react to one exactly.
 
-The friction for me is very small. I did slightly notice the repeated “floozie” as a strong drumbeat, but I think the chapter needs it because the point is that the word keeps arriving and losing power. The only line that made me pause was “And then he wasn’t careful.” I understood it as her pulling him in and wanting him not to hold back, but because the book is so consent-exact, that sentence hit hard for a second before the surrounding context steadied it.
-
-The chapter title gave something away only in the best way: it told me to read the appetite everywhere, not just at dinner. The book title, *A Polite Invitation*, feels more dangerous now because the politeness is so erotic and so effective. The series title *With a Long Spoon* keeps promising intimacy with something risky, something you approach while pretending distance is possible. There was no front-cover tagline; the blurb’s closing beat, “Every yes was freely given. That was the problem,” feels more and more like the book’s blade. Vee’s yes here is fully hers. That is why it is beautiful. That is also why the hidden plan hurts more.
-
-What I want next is impossible: I want Vee to have this, to keep being this alive in her body, and I dread the moment the secret touches it. My guess from here is that the panties are going to matter, because “Trade” feels like a private ritual beginning, not a throwaway. I also want to know about the scar, though I do not need the chapter to answer it yet.
+What I want next is Vee with the dress finished, Vee changed by this, Vee having to carry this new bodily permission back into ordinary daylight. What I dread is Randi. Not because I think desire between them is wrong; I felt the pull of Randi hard last chapter. I dread the secrecy. My guess from here is that Vee’s new openness will make her even more vulnerable to Randi’s attention, and that Pace’s tenderness will make the eventual revelation hurt worse.
 
 **Cast Present (In Person):**  
 Vee, Pace.  
-Mentioned only: Vee’s mother, Randi by implication through recent memory/objects, Chicago conference context.
+Mentioned-only: Randi, Vee’s mother.
 
-**Heat:** 3 — graphic, sustained, and centered on Vee’s arousal, shame, and first sex with Pace.
+**Heat:** 3 — graphic, sustained sex is the center, with explicit oral sex, orgasm, penetration, and aftermath.
 
-**Romance:** 2 — not a declaration, but deeply intimate: the shirt, dinner, careful preparation, cooking afterward, and the “trade.”
+**Romance:** 2 — not a declaration, but deeply intimate: the shirt, the bed scent, the meal, the final “Trade.”
 
 **Motifs & Images:**  
-Food/hunger: repeat, now literal and sexual through “Famished,” fra diavolo, wine, garlic, pepper.  
-Clothing: repeat, especially Pace’s flannel and chosen lingerie; clothing as desire made visible.  
-Being seen: repeat from fitting and earlier Pace scenes; her wetness is seen and accepted.  
-Hands: repeat; his workbench/bar calluses carry the whole history of him.  
-Green/cold citrus/Randi-adjacent glamour: first strong green lingerie image, but it echoes Randi’s sensual polish.  
-Doors/bedroom: repeat; the once-closed bedroom door opens because Vee asks.
+Food/hunger repeats strongly: “Famished,” fra diavolo, Chianti, garlic, eating after sex. Clothing repeats: flannel, green satin, blouse/skirt, panties as proof. Being seen repeats from the fitting and truck. Shame-words repeat from Vee’s mother. Doors/bedroom finally opens after being held shut in “Two Towels.”
 
 **Symbolism:**  
-The green panties become proof of chosen wanting: bought privately, worn deliberately, marked by desire, then offered back as “Trade.”  
-The meal stands for appetite completed rather than merely awakened.
+The green panties become more than lingerie: chosen hope, visible desire, shame transformed into an offering. The meal after sex makes appetite feel ordinary and permitted.
 
 **Characterization:**  
-Vee deepens sharply: not just innocent or swept away, but actively choosing, arranging, offering.  
-Pace remains consistent: prepared, exact, careful, but more visibly hungry.  
-Randi is absent but still influential, which keeps her from flattening even offstage.
+Vee deepens beautifully: less guarded, still ashamed, but newly able to move through shame. Pace remains consistent: controlled, attentive, intensely physical, careful without being cold. No one feels thin here.
 
 **Pace — Within The Chapter:**  
-It earns its length. The quiet week, dressing, kitchen, bedroom, and meal all tighten around the same appetite.
+It earns its length. The dressing and dinner prep build pressure; the sex releases it; the quiet meal lets it settle.
 
 **Pace — Chapter To Chapter:**  
-Building. The fitting and Randi lunch made this feel inevitable, and this chapter pays that pressure off without ending the larger dread.
+Momentum is building fast. The fitting, Randi’s lunch, and now this first time feel like successive thresholds, not repetition.

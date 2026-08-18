@@ -4,41 +4,42 @@
 
 ## Reader reaction
 
-I felt this chapter as a small, quiet landing after all the blaze. It is not a sex scene, but Vee comes into the room carrying sex all over her anyway: “the night still on her,” “lit up,” “the streetlight thing.” I loved that Cassie sees it immediately and doesn’t mock it cruelly. She is dry, but she is glad. That “dry look held a beat and then gave over, glad” made me trust her all over again.
+I felt this chapter as a quiet re-entry into Cassie’s room, and into Cassie’s kind of love. After all the heat and dazzle of Pace’s house, this is colder, plainer, funny, and steady. Vee comes in “lit up” and Cassie names it immediately: “You’re doing the streetlight thing again.” That made me fond of both of them. Vee is so incandescent she can’t hide it; Cassie is dry enough to keep the room grounded, but not cold enough to dim her.
 
-Vee feels almost unbearably bright here. She is not recounting one event so much as confessing a new life pattern: the meals, the warm house, the noticing, the way Pace “watched her eat it like that was the show.” The baked tomato burn is funny and intimate, and the way her hand goes unconsciously to “the side of her breast” makes the erotic charge flicker through the ordinary. Pace is mostly offstage, but he lands as tender through her memory: the cold cloth, the fussing over a small hurt, the house kept warm enough that she never has to think about clothes. That last detail is so seductive because it is practical care turned erotic without having to announce itself.
+What landed most on me is that Vee is finally telling Cassie the shape of it, not the explicit middle. She still leaves out the sex, the spanking, the bathroom-level truth of herself, but she tells the domestic intoxication: the food, the care, the watching, the warm house, the way Pace notices before she does. That feels important because Cassie has been losing access to the charged center of Vee’s life, and here she gets at least the outline. I liked that the baked tomato burn becomes almost erotic by implication without Vee meaning to reveal it: “Her hand went to the spot as she told it, the side of her breast.” Cassie catches the practical truth instantly: “There’s only one way *that* burn happens. Not enough on.” It is funny, intimate, and a little exposing.
 
-Cassie is the grounding weight. Her line, “You don’t come home school nights,” hit me harder than if she had made a speech. She is not accusing Vee exactly, but she is marking the shape of the change. I felt a little pang there, because Vee has been so absorbed in Pace and Randi that Cassie’s room, Cassie’s window cracked two inches, Cassie’s ordinary student life suddenly looks like the place Vee is drifting away from.
+Pace is not present, but he is everywhere in Vee’s body and speech. I still feel the pull of him strongly through the details Vee chooses: not grand gestures, but cooking “with intent,” watching her eat, fussing over a little burn for days, keeping the house warm enough that she does not have to monitor her own skin. That warmth works on me. It is sexy because it is care, and care because it is attentive to the body she has been ashamed of.
 
-The chapter’s emotional peak for me is “Do you love him.” Cassie asks it flat, which makes it cleaner, almost merciless. And Vee’s “Maybe… I think so” feels true because it does not overstate itself. She already let herself know it in the previous chapter, but saying it to Cassie is different. The little retreat into “It’s all so fast” feels like the honest tremor under the happiness.
+Cassie deepened for me here. She does not interrogate Vee for details, but she sees the pattern Vee has not counted: “You don’t come home school nights.” That line has weight. It is not accusation exactly, but it is a hand on the table. Cassie is the one person who can say the ordinary logistical fact that punctures Vee’s glow: your bed is empty, your life has changed, this is not occasional anymore. I trust her completely in this scene. She is watchful without trying to own Vee.
 
-I don’t feel suspicion of Cassie at all. She is wary in the best way: not controlling, not jealous, just awake. I do feel the standing unease around Pace only because I know what Vee doesn’t know about him and Randi, but nothing in this chapter makes him feel false in the immediate care Vee describes. The care works on me. That is the uncomfortable part: I believe the warmth.
+The erotic charge here is low but real, a warm afterglow rather than an active scene. It peaks for me around the burn and the house staying warm: the sense that Vee’s nakedness, appetite, and safety have become ordinary at Pace’s. The chapter is not coy so much as indirect; it lets prior explicitness hum underneath a roommate conversation.
 
-Erotically, this is a 1, but a strong 1. No explicit act happens on-page, yet Vee’s body-memory is everywhere: not enough clothes, breast burn, warm house, being watched while eating. The charge peaks in the baked tomato anecdote because it lets domestic appetite, nakedness, and being tended collapse into one image.
+I don’t feel new suspicion from the page here. The unease is the old structural one: Cassie still does not know the middle, and Vee is describing a happiness built partly inside secrets she does not know exist. But the chapter itself earns tenderness more than dread. Cassie asking “Do you love him” felt clean, not manipulative. Vee’s “Maybe. I think so” felt honest because it does not overstate itself. She knows the feeling is huge, but “It’s all so fast” keeps the door open exactly where it should be.
 
-The title, “School Nights,” feels plain and sharp after reading. It points to the practical boundary Vee is crossing: she is not just having intense weekends anymore; Pace’s house is invading the school week, the ordinary structure of her life. It also makes Cassie’s role matter, because she is the one still living by class, sleep, shared-room reality. *A Polite Invitation* still feels like a title about open doors that are never quite neutral. *With a Long Spoon* keeps promising intimacy with something dangerous or morally hot to handle. The tagline “Every yes was freely given. That was the problem.” feels louder here because Vee’s yes is becoming habitual, life-shaping, and maybe too fast for her to see whole.
+The title, “School Nights,” points at the boundary Vee is crossing. These are not weekend visits or special occasions anymore; Pace’s house is entering the week, the routine, the part of life where consequences live. It also makes the chapter feel young and ordinary in a good way: a college roommate noticing who is not sleeping in her own bed.
 
-What I want next is Cassie pressing a little more, though I dread what happens if Vee starts choosing Randi and Pace as the only people allowed to name her life. My guess from here is that “school nights” is the beginning of Pace’s house becoming a second home before Vee has admitted how much she has moved in emotionally.
+The book title, *A Polite Invitation*, still feels like it is widening. Vee keeps accepting invitations into rooms, bodies, meals, versions of herself; the politeness is real on the surface and not the whole truth underneath. *With a Long Spoon* keeps making me think of wanting something dangerous at a distance, though Vee is very much closing that distance now. I don’t have a cover tagline in this packet, so I can’t react to one exactly.
+
+What I want next is for Cassie to stay near enough to matter. I dread Vee becoming so absorbed in Pace and Randi that Cassie only gets the safe summary. My guess from here is that “school nights” means the affair is becoming daily life, not an exception, and that makes the eventual secret feel less survivable.
 
 **Cast Present (In Person):**  
-Vee, Cassie.  
-Mentioned-only: Pace.
+Vee, Cassie. Mentioned-only: Pace.
 
-**Heat:** 1 — clothed, remembered, domestic-erotic charge; no explicit activity on-page.
+**Heat:** 1 — no explicit activity on page, but the burn, warmth, clothing implication, and Vee’s afterglow carry charge.
 
-**Romance:** 2 — Vee is openly circling love, and Pace’s care comes through as intimate devotion in her telling.
+**Romance:** 2 — Vee’s “Maybe. I think so” and her inability to describe Pace beyond “fine” make the feeling clear and tender.
 
 **Motifs & Images:**  
-Repeat: cold window vs warm house; food/hunger/being fed; being watched while eating; small bodily marks/touch; Cassie’s “streetlight” image for Vee’s glow. First/strong specific: baked tomato burn on the side of her breast.
+Food/hunger repeats through baked tomatoes and Pace watching her eat. Warmth/cold repeats in Cassie’s cracked window versus Pace’s warm house. Being looked at repeats in “How he watched her eat it like that was the show.” The streetlight image repeats Cassie’s nickname for Vee’s glow.
 
 **Symbolism:**  
-The empty bed on school nights reads as more than logistics: Vee’s ordinary life is being vacated. The warm house is becoming permission, shelter, and temptation at once.
+The empty bed on school nights stands for Vee’s life shifting from occasional romance into a new center of gravity.
 
 **Characterization:**  
-Vee deepens through the gap between nonstop radiance and the small “Maybe.” Cassie deepens by showing care without grabbing control. Pace stays offstage but consistent through remembered care.
+Vee deepens in her wordlessness; for once she cannot narrate her way around the size of what she feels. Cassie deepens as quiet witness and reality-check. Pace stays vivid offstage through care.
 
 **Pace — Within The Chapter:**  
-Brief and earned. It does not drag; the quietness is the point.
+Brief and earned. It does one small thing: lets Cassie name the pattern and Vee name love only halfway.
 
 **Pace — Chapter To Chapter:**  
-Holding, with a tightening thread. After the sexual and domestic peaks, this chapter pauses to show consequence: Vee’s weeks have changed shape.
+Holding but tightening. After the sexual and domestic escalation, this chapter brings the consequences back to the dorm room and makes the relationship feel more real because it is disrupting ordinary life.

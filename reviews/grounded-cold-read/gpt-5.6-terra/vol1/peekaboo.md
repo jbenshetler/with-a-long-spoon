@@ -4,31 +4,29 @@
 
 ## Reader reaction
 
-This got me in the chest. Pace’s surprise is so precisely hers: not merely a beautiful dress, but a dress made around the fact of her actual body. “Everything she'd ever worn had been cut for no one in particular. This one had been cut to the actual shape of her” is devastatingly romantic to me. I melted at her tears, at his simple “Yes,” and especially at him leaving without making her ask. He knows when to stay and when to give her the room.
+I melted. The hello turning instantly into that hungry, almost clumsy kissing felt earned by how badly Vee has wanted a next time, but the turn toward the sun porch got me even harder: Pace’s surprise is not sex as a reward or a test. It is the dress, and the whole room remade so she can see herself in it. “He’d set the whole thing up for her” landed with enormous tenderness. Vee crying before she can decide to cry did too.
 
-Vee feels braver here than she has before. I love that the first instinct to hide the underwear is immediately answered by the hotter instinct that refuses to minimize herself. Her taking it off is not something Pace pressures her into; she makes the decision alone in the mirror, then walks to him to show him. That made the erotic turn land hard: the dress lets her see herself as lavish and wanted, and then she acts from that seeing. “She looked like a lot of woman who knew exactly how much she was” is the chapter’s swoon for me.
+I feel fiercely happy for her here. She is not merely being told she is beautiful; she has evidence shaped exactly to her body. The dress’s refusal of the generic — “cut to the actual shape of her, and to no one else’s” — goes straight into the old wound of being too much, badly fitted, apologetic. When *“Floozy”* appears and she keeps looking, I wanted to cheer. “She looked like a lot of woman who knew exactly how much she was” is the chapter’s swoon for me. It doesn’t erase her shame; it lets her stay in the mirror long enough for something else to happen.
 
-Pace is almost unbearably appealing here: his handmade care, the mirror newly hung, the late-night labor she only pieces together afterward, and the fact that they stop to save the dress in the middle of wanting each other. That last detail is funny and tender instead of precious. I trust the immediate encounter completely on the page; it is mutual, hungry, and Vee drives it forward. The larger knowledge from the jacket and what I remember still leaves a low ache beneath all this happiness—Vee is “getting away with something,” and she does not know all the conditions surrounding this beautiful thing—but this chapter itself does not make Pace’s gift feel false. It feels genuinely made for her.
+The erotic charge peaks in her decision to take off her underwear and then walk to him without shrinking her stride. That is hot because it is hers. Pace’s look matters, but the real current is that Vee makes the choice, sees its effect, and goes to show him. I trust the consent on the page: he leaves when she needs privacy, waits in the next room, and her return is unmistakably active. The skipped-over sex works for me here; the dress and Vee’s self-recognition are the center, and the afterward’s absurdly tender interruption — *“wait, the dress”* — makes me laugh and ache.
 
-The heat peaks at the mirror and her stride down the hall: the slit opening, her choosing bare skin, then the sudden quietness in Pace’s face. The fade-out works for me because the chapter has already made the erotic charge about her looking at herself and choosing to be seen; I don’t need the sex spelled out again to feel it.
+Pace remains very easy to want in this chapter: delighted, reverent without making her into a fragile object, and proud of what he has made. Yet I cannot entirely relax around him because I remember what Vee does not about Randi. Nothing in this chapter newly makes him feel false; on the page, his care is beautiful. The unease comes from the secret already lodged behind it, not from a wrong note in this scene. Vee is becoming more thrilling to me precisely because she is beginning to choose display and appetite for herself, even while she calls it “getting away with something.” That last phrase leaves a small ache: she is happy, but still frames pleasure as a transgression.
 
-“Peekaboo” first made me expect playfulness, but now it feels like the dress revealing and concealing her leg—and Vee revealing herself to herself in flashes. It also catches Pace’s irrepressible surprise: he cannot keep it hidden one second longer. *A Polite Invitation* still promises choice offered with exquisite care, though the title has an unsettling double edge because we know there is an invitation Vee has not been told about. *With a Long Spoon* remains ominous to me; this chapter gives me no clearer handle on it yet. The packet’s closing beat, “Every yes was freely given. That was the problem,” presses painfully against how genuinely lovely Vee’s yes is here.
-
-I want the induction now. I want her to enter in that dress and survive being looked at without retreating. My guess from here is that the dress will become a real public threshold for her—not because it will magically fix shame, but because she has already practiced standing in the light.
+“Peekaboo” first made me expect concealment or play, and it fits the dress’s slit — the leg given, hidden, and given again — but also Vee revealing herself to herself and then to Pace. It is light, teasing, and a little daring rather than ominous here. *A Polite Invitation* still feels apt in Pace’s initial open-ended ask, but the chapter enlarges it into an invitation to be seen without apology. *With a Long Spoon* remains more oblique to me; the secrecy I remember keeps it at the edge of this warmth. I have no cover tagline to react to. I want the induction scene desperately now, both for Vee’s entrance and for whether she can hold onto this feeling outside Pace’s warm house. My guess from here: the dress will make being looked at feel newly possible—and therefore make any later fracture around who has been looking, and why, hurt sharply.
 
 **Cast present (in person):** Vee and Pace.  
-**Mentioned-only names:** None.
+**Mentioned-only:** none.
 
-**Heat:** 2 — explicit mutual sex is present but fades out; the mirror, slit, and Vee’s deliberate approach carry the strongest charge.
+**Heat:** 2 — sex is elided, but Vee’s undressing, deliberate bareness, and approach to Pace are intensely charged.
 
-**Romance:** 3 — the made-to-measure dress, his restraint outside the room, and his sleeping arm settling around her make this a romantic peak.
+**Romance:** 3 — the handmade dress, prepared room, tears, and his sleeping arm around her create a genuine romantic peak.
 
-**Motifs & images:** Repeat: the burgundy dress, riser/pedestal, being seen, warmth, handmade care, clothes/underwear as armor and surrender, doors. Repeat: height/platforms as Vee learns to stand exposed without shrinking. First: the mirror makes her look at herself rather than only endure another’s gaze.
+**Motifs & images:** Repeat: warmth/light; being seen and looking; clothes/underwear; the fitted dress and riser; hands/making; hunger becoming desire. The slit’s reveal/concealment is a vivid new variation on exposure.
 
-**Symbolism:** The dress is care made tangible again, but more specifically a body-shaped refusal of Vee’s lifelong “no one in particular” clothes. The slit’s opening and closing feels like controlled revelation: she chooses what to give the room.
+**Symbolism:** The dress is care made tangible and a body-specific answer to Vee’s lifelong apology. The mirror becomes a place where shame changes, however briefly, into self-possession.
 
-**Characterization:** Vee deepens beautifully—still ashamed, but able to let wanting overtake it. Pace remains consistent: intensely desirous, painstakingly attentive, and quietly proud of what he made for her.
+**Characterization:** Vee deepens most: she initiates, looks, removes the barrier, and walks to him. Pace remains consistent in his attentive, makerly tenderness. No one feels thin.
 
-**Pace — within the chapter:** Excellent, unhurried progression from doorway kiss to surprise, self-recognition, sex, and soft aftermath. Nothing dragged.
+**Pace — within the chapter:** It moves beautifully from anticipation to reveal to quiet aftermath; the extended mirror moment earns its length.
 
-**Pace — chapter to chapter:** Building. After their first night together, this feels like a new register rather than the same beat repeated: Vee’s desire has become more visibly her own.
+**Pace — chapter to chapter:** Building. After their first night, this gives their connection a different kind of intimacy rather than simply repeating the same sexual beat.

@@ -4,28 +4,31 @@
 
 ## Reader reaction
 
-I’m grinning with Vee, honestly. The little domestic comedy of Cassie clocking the October toenails and Vee trying to tell a neat, acceptable version of the night while it keeps glowing under every sentence is so sweet—and hot precisely because Vee is still carrying the private knowledge of what she chose. “The green was given away” landed hard for me: not because it makes me doubt her happiness, but because it is such an intimate, deliberate little aftermath. She gave Pace something she had been ashamed of, then drove home bare under her skirt, and she is not sorry.
+I came out of this chapter almost grinning with Vee, which makes the little pinch in it hurt more. She is incandescent. The fact that she wakes up unprepared, bare-faced, hair wild, with nothing to change into—and still keeps catching herself smiling at red lights—makes last night feel less like a plot point than a bodily fact she cannot put down. “She had never in her life been so happy” lands cleanly on me. I believe it.
 
-I feel tender toward Vee and protective of her. Her happiness is enormous and real: “She had never in her life been so happy.” I believe it. The fact that she cannot pack an overnight bag because it would mean admitting what she wanted, and then cannot undress in front of Cassie because the missing underwear would say too much, makes her feel wonderfully exposed without having to explain herself. She is not ready to share the middle; I don’t read that as dishonesty so much as her needing to keep a new, startling part of herself close.
+Vee’s joy is especially moving because she does not turn it into a performance for Cassie. She wants to tell her, but she keeps “the middle,” and I felt both the privacy of that and the self-protection. Calling the edit “a kindness” feels a little fragile to me—not false, exactly, but like a story she needs in order to keep something new and huge from being touched too soon. Cassie doesn’t force it, which makes me love her again. Her “your boyfriend” is affectionate and ordinary, even though I have the cold knowledge that ordinary is not the whole truth of this situation.
 
-Cassie remains so good. She sees the grin, lets Vee tell what she can, and doesn’t pry. Her “your boyfriend” is affectionate and plausible from where she stands, even if I felt a small ache at how much of Vee’s experience it doesn’t contain. I have no new suspicion of Cassie here. Pace is absent, but his care is everywhere in the remembered dinner; Vee’s joy makes him feel more beloved to me, though the secret behind their meeting still keeps me from relaxing fully into trust.
+The sharpest moment is Vee stopping with the zipper half down. It is not shame returning exactly; she seems freer of her mother’s word than she has ever been. It is the concrete problem of being exposed before Cassie in a way she has not chosen to explain: “the next thing she took off would not be a story she was editing.” That got me. The missing green underwear are both funny and startlingly intimate evidence. Vee gave them to Pace without flinching, but cannot yet let Cassie see the consequence. That gap feels real and tender, rather than deceptive in a way that makes me turn against her.
 
-The erotic charge is aftermath rather than action, but it absolutely works: the bare fact of Vee having nothing beneath her skirt, the zipper stopping halfway, the exact private meaning of “Trade.” It is the kind of heat that makes a body feel secretive and pleased. The chapter’s title, “Toenails,” initially sounds almost comic, and then it becomes perfect: the plum polish is Vee’s small, hidden declaration of intent, the thing Cassie notices before she knows why. It points to Vee’s desire becoming visible in details she thought she could keep casual.
+The erotic charge is mostly afterglow here, but it works strongly: the painted toenails, driving home bare beneath her skirt, the memory of “his hands” and “the white sheets,” the smile that will not come down. The chapter wisely doesn’t try to replay the sex. It lets the charge live in what Vee cannot stop carrying from it.
 
-*A Polite Invitation* still promises the exhilaration and danger of Vee walking willingly through open doors she doesn’t fully understand; *With a Long Spoon* keeps its faintly ominous distance in my mind. The closing beat—“Every yes was freely given. That was the problem.”—feels especially alive here, because Vee is radiant in a yes she can barely yet say aloud. I want to see what happens when she tells someone the middle, especially Randi; that is only a guess from here, but I’m pulled forward hard.
+I trust Cassie completely in this scene. I feel happy for Vee and deeply pulled toward her happiness; she has claimed wanting, acted on it, and found pleasure instead of collapse. The unease is not earned by anything Cassie does or by Vee’s sex itself. It comes from what I already know Pace and Randi have withheld, and from the way Vee’s radiant “boyfriend” story is necessarily incomplete. That knowledge makes her happiness feel precious and precarious at once.
 
-**Cast present (in person):** Vee and Cassie. Mentioned-only: Pace.
+“Toenails” seemed almost comic before the chapter—an absurdly small, girlish detail—and now it names Vee’s preparation for desire, the plum polish she chose before she would admit why, and the evidence Cassie read immediately. It is a lovely title because it keeps the chapter grounded in the tiny visible choice beneath the much bigger night. *A Polite Invitation* still promises desire offered through permission and care, but it is beginning to feel unsettled by all that is not being openly invited or explained. *With a Long Spoon* remains more ominous and oblique to me. No cover tagline was supplied here, so I have no tagline to react to. I want the next chapter because Vee is so happy I want to stay with that feeling—but I dread the cost when the parts she is carefully keeping private, and the larger things being kept from her, can no longer stay separate.
 
-**Heat:** 1 — no on-page sex, but charged aftermath and the missing green panties carry real erotic warmth.
+**Cast present (in person):** Vee and Cassie.  
+**Mentioned-only:** Pace.
 
-**Romance:** 2 — Vee’s private elation and Cassie’s gentle reception make the new bond feel tender.
+**Heat:** 1 — no sexual action on-page, but vivid, happy afterglow and the charged absence of Vee’s underwear.
 
-**Motifs & images:** Repeat: doors/locks (the dorm door sticks); hunger/food (Cassie’s cereal; Vee recounting dinner); clothing and being seen (the skirt, missing panties). Repeat: the frosted-plum toenails, first painted in “Famished,” now a visible clue to Vee’s wanting.
+**Romance:** 2 — Vee’s unguarded happiness and the domestic aftermath make her bond with Pace feel newly real to her.
 
-**Symbolism:** The missing underwear feels like Vee’s unshareable evidence: a private gift and a line crossed by her own choosing.
+**Motifs & images:** Repeat: doors/locks (“The lock stuck”), clothes and what is given or withheld, appetite/food (Cassie’s cereal; Vee’s account of dinner), being seen and chosen. First/foregrounded: frosted-plum toenails as a small outward sign of Vee’s private anticipation.
 
-**Characterization:** Vee deepens in her delighted secrecy; Cassie stays perceptive, warm, and nonintrusive.
+**Symbolism:** The missing green underwear make the private night physically undeniable; the half-open zipper becomes the boundary between Vee’s edited account and what she cannot yet share.
 
-**Pace — within the chapter:** Brief, clean aftermath; it earns its smallness.
+**Characterization:** Vee deepens through her buoyant privacy and her choice to protect the new experience without denying it to herself. Cassie stays wonderfully consistent: observant, teasing, and non-invasive.
 
-**Pace — chapter to chapter:** Building—the first sexual encounter is allowed to echo rather than being immediately replaced by another big event.
+**Pace — within the chapter:** Brisk and exact; the skipped middle is the point, and the final line earns the shortness.
+
+**Pace — chapter to chapter:** Building emotionally after the first night together, while holding the larger unease underneath Vee’s joy.

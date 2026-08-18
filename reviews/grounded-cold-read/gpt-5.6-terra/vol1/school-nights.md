@@ -4,29 +4,32 @@
 
 ## Reader reaction
 
-This made me happy for Vee before it made me uneasy. She comes in “lit up,” and Cassie’s dry affection gives her somewhere safe to spill over. I loved the ordinary intimacy of Vee trying to explain Pace through food, a burn, the house’s warmth, his attention—she cannot make a neat case because the point is that he has made her life feel bigger than “fine.” That lands. Her “both hands up at all of it” is sweet, funny, and very recognizably overwhelmed.
+This one made me smile first. Vee coming in “with the night still on her” and Cassie clocking the streetlight thing again feels so tenderly ordinary: she is happy enough that it follows her home. I love that Cassie doesn’t mock the happiness out of her. She makes the joke, looks at Vee, sees it is real, and says, “Go on, then.” That is such a generous opening of space.
 
-Cassie remains the person I trust most. She doesn’t sneer at Vee’s happiness or turn it into a confession she has to perform; she just notices the practical fact that Vee is barely coming home. “You don't come home school nights” has a little weight because it is so plain. I feel the first real pinch of concern there—not that Pace has done anything wrong on this page, but because Vee’s whole world is narrowing so quickly around him. Still, Cassie earns my trust by letting “maybe” stand. She gives Vee room.
+Vee is almost comically full of Pace here, but it works on me because she isn’t reciting an ideal boyfriend résumé. It is the baked tomato, the cold cloth before she can swear, the way he watches her eat. Those details make the feeling bodily and specific. The line about the house staying warm enough that she stops thinking about how much she has on lands with a real little glow; it is not only sexual ease, though it has that charge. It is her being warm enough, safe enough, wanted enough, not to be constantly arranging herself against the world.
 
-Vee saying “Maybe… I think so” moved me. We know she has admitted love privately, but hearing the question from Cassie makes it suddenly vulnerable and real. The speed scares Vee a little too; she is not blindly declaring anything. I’m rooting for her happiness, and I’m also feeling how completely Pace has become the measure against which all her old “fine” relationships disappear.
+Cassie’s question changes the air without making it grim: “You don’t come home school nights.” I feel her concern, but not suspicion of Pace exactly. She sees Vee rearranging her actual life around him, and she knows this is unlike her. Still, Cassie lets Vee make the discovery herself rather than prosecuting her. That restraint makes me trust Cassie even more. “I don’t get it” is kind, not dismissive; she is asking how this became so large.
 
-The erotic charge is low but alive under everything: the hand going unconsciously to the burn at her breast, Cassie immediately understanding it, the warmth of Pace’s house becoming shorthand for Vee feeling free in her body. It works because the chapter doesn’t lean on it. This is a post-heat chapter about glow, habit, and attachment.
+And Vee’s answer hurts a little in the best way: the previous boyfriends were “fine.” She has no word big enough for what Pace is giving her, so she throws up her hands. I feel swept up by that, honestly. She is letting herself acknowledge that her standards of what love—or being cared for—could feel like have changed. When Cassie asks whether she loves him, Vee’s “Maybe… I think so” is exactly right for where she is: not a tidy declaration, but already too true to deny. “It’s all so fast” keeps the sweetness from feeling weightless. It is fast. The chapter earns that fact simply by counting the empty nights in Vee’s bed.
 
-“School Nights” means the quiet evidence of a relationship becoming a life pattern: not grand weekends or special dates, but the ordinary nights Vee is no longer spending in her own room. It gently points toward consequence. *A Polite Invitation* still feels like a promise of being welcomed somewhere Vee has long wanted to enter; *With a Long Spoon* still carries a faintly ominous edge I cannot yet place from this chapter alone. The packet’s closing beat—“Every yes was freely given. That was the problem.”—hangs more heavily now, because Vee is plainly choosing this and glowing in it. I want to keep reading for what she does with the love she is only beginning to name, and I dread, as a guess from here, the moment this intense new routine collides with something she has not been told.
+My unease is quiet and comes from what I already know but Vee does not: she is falling this hard into a relationship whose hidden shape she cannot see. On the page itself, though, Pace’s care remains deeply convincing, and this chapter gives me no new reason to doubt his tenderness. The ache is that Vee is building a home in his house, in his warmth, in the top bathroom drawer, while something fundamental remains unspoken.
 
-**Cast present (in person):** Vee and Cassie.  
-**Mentioned-only names:** Pace.
+There is no explicit scene here, but the erotic charge hums in the side-of-the-breast burn, Cassie’s “Not enough on,” and Vee’s relaxed admission that she no longer thinks about clothing in his warm house. It is a low, lived-in heat, less about a peak than about sex having become part of how she inhabits her days.
 
-**Heat:** 1 — residual sensual warmth in Vee’s stories and bodily glow, but no sexual scene.
+“School Nights” makes me think of the supposedly ordinary nights that reveal the relationship has crossed into something larger: not dates or weekends one can write off as special, but weekday sleepovers, missed dorm beds, the quiet rearrangement of routine. It is a very simple title, and that simplicity makes the shift feel more consequential. *A Polite Invitation* still feels like it is keeping its promise of being drawn into a private world by warmth, attention, and permission—though “polite” has an increasingly sharp edge for me, given what Vee was never invited to know. *With a Long Spoon* remains ominously meaningful without resolving into anything definite. I want to keep reading because Vee has finally said, even if only to herself and Cassie, something close to love; I dread the cost when the hidden parts of this arrangement meet that love. That is only a guess from here.
 
-**Romance:** 2 — Vee’s emerging admission that she may love Pace gives the chapter real tenderness.
+**Cast present (in person):** Vee and Cassie. Mentioned-only: Pace.
 
-**Motifs & images:** Repeat: warmth/cold at the cracked window and Pace’s warm house; food as care and hunger answered; being watched while eating; “streetlight” as Cassie’s affectionate name for Vee’s visible happiness. First: the tomato burn as a small bodily mark of domestic closeness.
+**Heat:** 1 — no sexual activity, but domestic warmth and Vee’s ease in Pace’s house carry a soft, intimate charge.
 
-**Symbolism:** The empty bed on school nights reads as Vee’s life shifting its center of gravity.
+**Romance:** 2 — Vee recognizes that Pace is not merely “fine” and tentatively admits she may love him.
 
-**Characterization:** Vee deepens through her inability to call this feeling “fine” or explain it away. Cassie stays wonderfully consistent: observant, protective, and non-coercive.
+**Motifs & images:** Repeat: warmth/cold in the cracked window and Pace’s warm house; food as answered hunger in the baked tomatoes; doors/invitations in Cassie letting Vee “go on”; being looked at in Pace watching her eat; the streetlight image returns.
 
-**Pace — within the chapter:** Brief and clean; Vee’s rush of talking earns the compact scene.
+**Symbolism:** Vee’s empty bed on school nights reads as her life quietly shifting its center from the dorm toward Pace’s house.
 
-**Pace — chapter to chapter:** Building. After the heightened erotic and emotionally charged recent chapters, this quieter consequence feels like forward movement rather than repetition.
+**Characterization:** Vee deepens through her wordlessness and honest fear that it is fast. Cassie remains sharply, lovingly consistent: observant without being invasive.
+
+**Pace — within the chapter:** Gentle, compact, and earned; it moves naturally from Vee’s happy overflow to Cassie’s quiet question.
+
+**Pace — chapter to chapter:** Building. After Vee’s private recognition of love, this gives that feeling a witness and shows its everyday consequences.

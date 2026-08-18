@@ -4,30 +4,30 @@
 
 ## Reader reaction
 
-I was smiling through almost all of this. Vee getting to tell the whole shape of her happiness—not the clean, edited story, but the hungry, chosen part of it—to Randi feels intensely good. The line that caught me hardest was, “I wanted it… And I took it. For once.” That is the chapter’s real heat for me: not just that Pace was gentle and hungry, but Vee finally claiming that she planned, wanted, and acted.
+This chapter made me feel warm almost immediately. Vee walking into that porch and feeling “chosen, which was lit, which was a half-second behind” still gets me; Randi knows exactly how to make attention feel like a room you can enter. And I melted at Vee’s account of the aftermath with Pace—not even the sex itself, but her in the sheet at midnight, wine finally in hand, watching him cook. “Nothing missing” is the line that got me. It feels like she has found a kind of peace she has never expected to be allowed.
 
-Randi is almost impossibly easy to want here. Her hand over Vee’s, her refusal to let Vee turn being “that gone” into a shameful trap, her pleasure in Vee’s planning—it all lands as tenderness. And the goodbye kiss is no longer something Vee panics over or explains away; she expects it and meets it. I felt a real swoon there.
+I’m happy for Vee in a real, body-level way when she says, “I wanted it. And I took it. For once.” That lands because we have watched her fight herself every step of the way. Randi is right to insist that Vee not narrate herself as merely passive in her own desire. The toenails, the green set, choosing to go over there: they were all choices. Vee needed someone to say that without making her feel cheap for it.
 
-But I can’t forget what I know about Randi and Pace’s secret arrangement. It makes Randi’s beautiful affirmations ache. They are genuinely apt to Vee, and Randi really does seem moved by her; yet Randi is also drawing more of Vee’s private desire out into the open while still keeping the foundational truth from her. Nothing on this page makes Randi feel cruel. It makes her feel dangerously good at making Vee feel safe.
+And yet Randi is the unease of the chapter, even while she is also intoxicating. I believe she means the tenderness when she tells Vee she is lucky, and I believe she genuinely likes hearing Vee come into herself. But the exact ease with which she gets Vee to disclose—first teasing, then naming, then soothing—feels powerful. “You’re not caught, sweetheart. You’re lucky” is beautiful and almost frightening, because it is exactly what Vee most needs to hear. The page earns my suspicion through that precision, not because I suddenly doubt every warm thing Randi does. I’m still pulled toward her. The goodbye kiss works on me: Vee expects it, meets it, and does not panic afterward. That is a genuine movement.
 
-The erotic charge is mostly in language and permission rather than new sex: Randi naming the toenails, the new underwear, the “campaign,” and then giving Vee back the words “I wanted it” without shame. It works because Vee comes alive under it. The repeated kiss has a quiet, unmistakable charge too.
+The erotic charge is lower-temperature than “Famished,” but it is strong in the conversation: Randi making Vee admit the toenails were for Pace; Vee’s blush over the underwear; the fact that Vee came here wanting to tell Randi. It peaks for me in Randi’s recognition of Vee’s preparation as desire rather than shame. It does not feel clinical. It feels like Vee being coaxed into claiming herself—though the coaxing has enough force behind it that I cannot forget who is doing it.
 
-“Fed” is exactly right: Vee is literally brunching and drinking, but more deeply she is being fed by Randi’s attention and interpretation. Randi is the person who tells her what her own wanting means. That feels nourishing—and, because I know the secret, unsettlingly consequential. The book title still feels like a promise of doors opened courteously until Vee is somewhere she never realized she had been led. *With a Long Spoon* still reads ominously to me, though this chapter itself is warm enough that I don’t feel dread winning over the pleasure.
+“Fed” means more than brunch. Vee is fed by the mimosas and by Randi’s attention, but more importantly by having her desire received without flinching or condemnation. Pace fed her literally after sex; Randi feeds a different hunger, the hunger to be understood, praised, and given language for herself. That makes the title feel tender, but not uncomplicated. The book title, *A Polite Invitation*, keeps feeling increasingly loaded: invitations into meals, bedrooms, cars, confidences, and kisses are all warm here, but they are also openings Vee does not fully understand. *With a Long Spoon* still means little to me directly from this chapter, though the food imagery makes it hover at the edge. No cover tagline was supplied here, so I have none to react to.
 
-I want to keep reading badly. My guess from here is that Vee’s growing ease with Randi—especially the kisses and the relief of being understood by her—will become harder for Vee to explain as mere friendship.
+I want to keep reading because Vee is flying now—lighter, singing with the radio on, no longer scanning the street after Randi kisses her—and that happiness is lovely enough that I want to stay inside it. But my guess from here is that the very things feeding her will make any truth about Pace and Randi hurt more sharply. I also want to know whether Vee will eventually be able to tell the whole truth of what she wants without needing Randi to draw it out.
 
-**Cast present (in person):** Vee and Randi. Mentioned-only: Pace; Randi’s old boyfriend; Cassie.
+**Cast present (in person):** Vee and Randi. Mentioned only: Pace; Randi’s old boyfriend; Cassie.
 
-**Heat:** 1 — charged confession, sexual recollection, and a lingering mouth kiss; no present sexual activity.
+**Heat:** 1 — no present sexual activity, but frank, charged talk about Vee’s first night with Pace and Randi’s intimate kiss goodbye.
 
-**Romance:** 2 — Vee’s devotion to Pace is clear, and her intimacy with Randi is becoming emotionally and physically tender.
+**Romance:** 2 — Vee’s memory of Pace cooking for her is deeply intimate, while her kiss with Randi becomes more deliberately mutual.
 
-**Motifs & images:** Repeat: hunger/food and drink; Vee reading prices first; being chosen; being seen; doors/openings; the burgundy/plum color from the silk dress; the hinge of Vee’s jaw and Randi’s second goodbye kiss. Repeat: “See you soon.” First: mimosa as Vee briefly inhabiting ease and abundance.
+**Motifs & images:** Repeat: food/hunger becomes being “fed”; tables and meals as sites of permission and disclosure; Vee reading prices first; the burgundy/plum color connection; doors closing around private desire; Randi’s hand at Vee’s jaw and the two-part kiss repeat from their last goodbye. First: the sun porch’s bright, exposed glass.
 
-**Symbolism:** “Fed” makes Randi’s attention feel like sustenance. The second mimosa, unpriced, reads like Vee letting herself receive without immediately calculating the cost.
+**Symbolism:** The second mimosa Vee “did not price at all” feels like her giving herself permission to receive without immediately reducing it to cost. The sheet-memory turns Pace’s bed into shelter rather than evidence against her.
 
-**Characterization:** Vee deepens through her plain claim of agency. Randi remains magnetic and sincerely affectionate, while the secret behind her closeness keeps her warmth complicated.
+**Characterization:** Vee deepens beautifully: she can name both fear and wanting, then claim the latter. Randi remains magnetic and attentive, with her generosity complicated by how expertly she guides Vee toward revelation. Pace is vivid in Vee’s memory as patient, hungry, and domestic.
 
-**Pace — within the chapter:** Smooth, intimate, and earned; the hour after the confession gives their connection room to breathe.
+**Pace — within the chapter:** It moves easily, beginning with confession and widening into a long, relaxed afternoon; the hour after the central disclosure feels earned.
 
-**Pace — chapter to chapter:** Building. The chapter advances Vee’s bond with Randi after the major turn with Pace, rather than repeating the same beat.
+**Pace — chapter to chapter:** Building. This follows Vee’s first sexual night by showing what it changes in her self-understanding, while increasing the emotional charge of her bond with Randi.
