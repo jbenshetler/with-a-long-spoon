@@ -2,7 +2,7 @@
 """Detect when the jacket source changed but the derived reader packet wasn't refreshed.
 
 The cover/blurb has ONE downstream copy the cold-read reader is actually fed:
-`reviews/cold-read/volume-packets.toml`. Its source of truth is `meta/meta-blurb.md`
+`reviews/_harness/volume-packets.toml`. Its source of truth is `meta/meta-blurb.md`
 (+ `meta/meta-cover.md`). When the source changes and the packet isn't regenerated, the
 reader gets stale copy (this is how the retired "trap" tagline lingered). This lint pins
 a checksum of the source into the packet so that drift fails the pre-commit hook until
@@ -19,7 +19,7 @@ from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
 SOURCES = [REPO / "meta/meta-blurb.md", REPO / "meta/meta-cover.md"]
-PACKET = REPO / "reviews/cold-read/volume-packets.toml"
+PACKET = REPO / "reviews/_harness/volume-packets.toml"
 KEY = "blurb_source_sha256"
 
 

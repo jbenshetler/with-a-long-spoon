@@ -90,7 +90,7 @@ FALL_SCENES = [
 ]
 
 
-VOLUME_PACKETS = Path("reviews/cold-read/volume-packets.toml")
+VOLUME_PACKETS = Path("reviews/_harness/volume-packets.toml")
 
 
 def load_volume_packets() -> dict[int, dict]:
@@ -330,13 +330,13 @@ def _is_legacy_carry(carry: str) -> bool:
 
 
 def _load_principals(path=None):
-    """Never-drop names from reviews/cold-read/principals.toml (canonical + aliases).
+    """Never-drop names from reviews/_harness/principals.toml (canonical + aliases).
 
     The blind-reader never sees this file; its prompt states the rule
     functionally. Only the harness, which is not blind, knows the names.
     """
     import tomllib
-    p = Path(path) if path else Path(__file__).resolve().parents[1] / "reviews" / "cold-read" / "principals.toml"
+    p = Path(path) if path else Path(__file__).resolve().parents[1] / "reviews" / "_harness" / "principals.toml"
     if not p.exists():
         return {}
     data = tomllib.loads(p.read_text(encoding="utf-8"))
@@ -459,7 +459,7 @@ def run_batch(
     def usable_review(path: Path) -> bool:
         return has_valid_review(path) or (allow_legacy_resume and path.exists())
     scenes = list(scenes or FALL_SCENES)
-    out_dir = Path("reviews/cold-read") / model_id
+    out_dir = Path("reviews/_archive/cold-read") / model_id
     out_dir.mkdir(parents=True, exist_ok=True)
     volume_packets = load_volume_packets()
 

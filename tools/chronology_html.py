@@ -484,10 +484,10 @@ def scene_ratings(slug: str, reviews_root, scene_stamp=None, scene_commit=None):
     for model_dir in sorted(reviews_root.iterdir()):
         if not model_dir.is_dir():
             continue
-        for f in sorted(model_dir.glob("*.md")):
+        for f in sorted(model_dir.glob("*/*.md")):   # <model>/<volN>/<slug>.md
             if _norm_slug(f.stem) != key:
                 continue
-            rel = f"{model_dir.name}/{f.name}"
+            rel = f.relative_to(reviews_root).as_posix()
             fresh = None
             if scene_commit:
                 fresh = git_is_ancestor(reviews_root, scene_commit,
@@ -1323,9 +1323,9 @@ def main():
     scene_dir = src.resolve().parent.parent / "scenes"
     if not scene_dir.is_dir():
         scene_dir = Path("scenes")
-    reviews_dir = src.resolve().parent.parent / "reviews" / "cold-read"
+    reviews_dir = src.resolve().parent.parent / "reviews" / "grounded-cold-read"
     if not reviews_dir.is_dir():
-        reviews_dir = Path("reviews") / "cold-read"
+        reviews_dir = Path("reviews") / "grounded-cold-read"
     entries, flags_raw = parse(src.read_text(encoding="utf-8"))
     htmlout = build_html(entries, flags_raw, src.name, scene_dir=scene_dir,
                          reviews_dir=reviews_dir)

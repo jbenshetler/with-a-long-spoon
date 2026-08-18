@@ -23,7 +23,7 @@ than from reader N-1, the reads are mutually independent and can fan out.
 
 The reader (.claude/agents/blind-reader-grounded.md) emits ONLY a Reader
 reaction — no carry-forward — since memory is external now. Output lands under
-reviews/cold-read/<model-id>/grounded/<slug>.md, leaving the chained reviews
+reviews/grounded-cold-read/<model-id>/<volN>/<slug>.md, leaving the retired chained reviews
 (and cold_read.py / blind-reader.md) untouched.
 
 Usage:
@@ -108,7 +108,13 @@ def memory_line(n: int, decade: int) -> str:
 
 
 def checkpoint_path(model_id: str, b: int) -> Path:
-    return REPO / f"reviews/cold-read/{model_id}/checkpoints/ck-ch{b:03d}.md"
+    return REPO / f"checkpoints/{model_id}/ck-ch{b:03d}.md"
+
+
+def grounded_rel(model_id: str, slug: str) -> str:
+    """Repo-relative path of a grounded read, volume-split per the chronology."""
+    vd = checkpoint_bundle.volume_scenes.volume_dir(slug)
+    return f"reviews/grounded-cold-read/{model_id}/{vd}/{slug}.md"
 
 
 def load_checkpoint(model_id: str, b: int) -> str:
@@ -187,7 +193,7 @@ def build_prompt(model_id: str, n: int, decade: int) -> str:
     return "\n".join(parts)
 
 
-PACKET_BASE = REPO / "reviews" / "cold-read" / ".packets"
+PACKET_BASE = REPO / "reviews" / "_harness" / ".packets"
 # The packet MCP tool truncates a single result above ~30KB (49KB confirmed
 # truncated, 22KB confirmed whole). Chunk every packet file well under that so a
 # sandboxed subagent always receives the FULL text — a partial read silently
@@ -260,7 +266,7 @@ def emit_packet(model_id: str, n: int, decade: int) -> tuple[str, Path, list[str
     header = (f"# Cold read (grounded) — {title}\n\n"
               f"*scene: scenes/{slug}.md · model: {model_id} · memory: {memory_line(n, decade)} · "
               f"reader-protocol: {READER_PROTOCOL}*\n\n## Reader reaction\n\n")
-    _set_destination(d, f"reviews/cold-read/{model_id}/grounded/{slug}.md", header)
+    _set_destination(d, grounded_rel(model_id, slug), header)
     return token, d, ordered
 
 
@@ -271,8 +277,8 @@ def persist_output(packet_id: str, text: str) -> Path:
     writes the same file write_output would have, deterministically — no hand-transcription.
 
     Mirrors tools/packet_reader_mcp.py:write_output; KEEP THE TWO IN SYNC (dest/header
-    routing, the reviews-only + .md jail, the heading strip, the min-length guard)."""
-    base = (REPO / "reviews" / "cold-read" / ".packets").resolve()
+    routing, the reviews/+checkpoints/ + .md jail, the heading strip, the min-length guard)."""
+    base = (REPO / "reviews" / "_harness" / ".packets").resolve()
     if not re.match(r"^[0-9a-f]{32}$", packet_id or ""):
         raise SystemExit("invalid packet id")
     d = (base / packet_id).resolve()
@@ -284,8 +290,8 @@ def persist_output(packet_id: str, text: str) -> Path:
     rel = dest_file.read_text(encoding="utf-8").strip()
     header = (d / ".header").read_text(encoding="utf-8") if (d / ".header").is_file() else ""
     dest = (REPO / rel).resolve()
-    reviews_root = (REPO / "reviews" / "cold-read").resolve()
-    if reviews_root not in dest.parents or dest.suffix != ".md":
+    write_roots = ((REPO / "reviews").resolve(), (REPO / "checkpoints").resolve())
+    if not any(root in dest.parents for root in write_roots) or dest.suffix != ".md":
         raise SystemExit("destination not permitted")
     body = (text or "").strip()
     # Drop a reader-emitted section heading; the destination header already carries one.
@@ -312,17 +318,17 @@ def emit_bundle_packet(to_b: int, model_id: str) -> tuple[str, Path, list[str]]:
     header = (f"# Checkpoint — through Chapter {to_b} (grounded, single pass)\n\n"
               f"*model: {model_id} · span: ch001–ch{to_b:03d} · grounded "
               f"(full clean prose, sandboxed packet read, no chaining)*\n\n---\n\n")
-    _set_destination(d, f"reviews/cold-read/{model_id}/checkpoints/ck-ch{to_b:03d}.md", header)
+    _set_destination(d, f"checkpoints/{model_id}/ck-ch{to_b:03d}.md", header)
     return token, d, ordered
 
 
-ORACLE_BATTERY = REPO / "reviews" / "cold-read" / "oracle-battery.json"
+ORACLE_BATTERY = REPO / "reviews" / "_harness" / "oracle-battery.json"
 ORACLE_AGENT_DEF = REPO / ".claude/agents/blind-oracle-grounded.md"
 
 
 def _reaction_body(model_id: str, slug: str) -> str:
     """A grounded read file's reaction (its metadata header stripped)."""
-    t = (REPO / f"reviews/cold-read/{model_id}/grounded/{slug}.md").read_text(encoding="utf-8")
+    t = (REPO / grounded_rel(model_id, slug)).read_text(encoding="utf-8")
     i = t.find("## Reader reaction")
     return t[i:] if i >= 0 else t
 
@@ -368,7 +374,7 @@ def emit_oracle_packet(model_id: str, probe: str, tier: str) -> tuple[str, Path,
     """Mint an oracle interview packet for (model, probe, tier): the jacket + this model's
     own 50 chapter reactions (its whole reading record) + the probe's tier question, chunked
     for the sandboxed blind-oracle-grounded subagent. .dest routes its answer to
-    reviews/cold-read/<model>/oracle/<probe>--<tier>.md. Returns (token, dir, names)."""
+    reviews/oracle/<model>/<probe>--<tier>.md. Returns (token, dir, names)."""
     text, question = _oracle_text(model_id, probe, tier)
 
     head = ("This is your reading record and one interview question, ONE continuous document "
@@ -379,7 +385,7 @@ def emit_oracle_packet(model_id: str, probe: str, tier: str) -> tuple[str, Path,
     tail = ("The last part holds the interview question. Answer it from your reading record above, "
             "then save your answer with write_output.\n")
     token, d, ordered = _write_chunked_packet(text, head, tail)
-    _set_destination(d, f"reviews/cold-read/{model_id}/oracle/{probe}--{tier}.md",
+    _set_destination(d, f"reviews/oracle/{model_id}/{probe}--{tier}.md",
                      _oracle_header(model_id, probe, tier, question))
     return token, d, ordered
 
@@ -388,7 +394,7 @@ def run_oracle_codex_battery(model: str, model_id: str, probes, effort: str = "l
                              jobs: int = 1, fresh: bool = False) -> None:
     """Run the oracle over a codex model (the GPT trio) inline: for each (probe, tier) build
     the memory+question and answer it with the blind-oracle-grounded persona as system prompt,
-    writing reviews/cold-read/<model_id>/oracle/<probe>--<tier>.md. Funnel-b holds by
+    writing reviews/oracle/<model_id>/<probe>--<tier>.md. Funnel-b holds by
     construction — neutral and pointed are separate, independent calls."""
     import cold_read  # noqa: E402
     from queue import Queue
@@ -397,7 +403,7 @@ def run_oracle_codex_battery(model: str, model_id: str, probes, effort: str = "l
     system_prompt = load_agent_prompt(ORACLE_AGENT_DEF)
     tasks = [(p, t) for p in probes for t in ("neutral", "pointed")]
     todo = [(p, t) for (p, t) in tasks
-            if fresh or not (REPO / f"reviews/cold-read/{model_id}/oracle/{p}--{t}.md").exists()]
+            if fresh or not (REPO / f"reviews/oracle/{model_id}/{p}--{t}.md").exists()]
     if not todo:
         print(f"[oracle] {model_id}: nothing to do", file=sys.stderr)
         return
@@ -421,7 +427,7 @@ def run_oracle_codex_battery(model: str, model_id: str, probes, effort: str = "l
         ans = strip_leading_heading(result.get("output") or "")
         if len(ans) < 120:
             raise RuntimeError(f"short oracle answer for {probe}--{tier} ({len(ans)} chars)")
-        out = REPO / f"reviews/cold-read/{model_id}/oracle/{probe}--{tier}.md"
+        out = REPO / f"reviews/oracle/{model_id}/{probe}--{tier}.md"
         out.parent.mkdir(parents=True, exist_ok=True)
         out.write_text(_oracle_header(model_id, probe, tier, question) + ans + "\n")
         return probe, tier, out
@@ -469,7 +475,7 @@ def write_review(model_id: str, n: int, decade: int, reaction: str) -> Path:
         memory = f"raw ch001..ch{n - 1:03d} (pre-first-checkpoint)"
     else:
         memory = "— (opening, cold)"
-    out = REPO / f"reviews/cold-read/{model_id}/grounded/{slug}.md"
+    out = REPO / grounded_rel(model_id, slug)
     out.parent.mkdir(parents=True, exist_ok=True)
     content = (
         f"# Cold read (grounded) — {title}\n\n"
@@ -638,7 +644,7 @@ def main() -> None:
 
     slugs = reader_slugs()
     todo = [n for n in chapters
-            if args.fresh or not (REPO / f"reviews/cold-read/{model_id}/grounded/{slugs[n-1]}.md").exists()]
+            if args.fresh or not (REPO / grounded_rel(model_id, slugs[n-1])).exists()]
     skipped = [n for n in chapters if n not in todo]
     for n in skipped:
         print(f"[skip] ch{n:03d} {slugs[n-1]} (exists)", file=sys.stderr)

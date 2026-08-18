@@ -80,6 +80,24 @@ def volume_one_slugs(drafted_only: bool = True) -> list[str]:
     return [s["slug"] for s in scenes_for_volume(1, drafted_only=drafted_only)]
 
 
+_SLUG_VOLUME: dict[str, int] | None = None
+
+
+def volume_dir(slug: str) -> str:
+    """Volume subdir name ('vol1', 'vol2', ...) for a scene slug, from the
+    chronology (source of truth). Used to place per-scene review files in the
+    volume-split lanes (grounded-cold-read, judge). Raises KeyError if the slug
+    is not in the chronology — callers writing a brand-new scene's review must
+    add its chronology entry first."""
+    global _SLUG_VOLUME
+    if _SLUG_VOLUME is None:
+        _SLUG_VOLUME = {s["slug"]: s["volume"] for s in all_scenes()}
+    vol = _SLUG_VOLUME.get(slug)
+    if vol is None:
+        raise KeyError(f"slug {slug!r} not found in chronology; add its entry before writing a review")
+    return f"vol{vol}"
+
+
 def _parse_fall_scenes_slugs(path: Path):
     """Textually extract the ordered Volume One slug prefix from
     `cold_read_batch.py`'s `FALL_SCENES` list literal, without importing it

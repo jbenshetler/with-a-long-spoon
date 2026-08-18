@@ -16,4 +16,4 @@ __pycache__/
 build/
 .env
 .wrangler/
-reviews/cold-read/.packets/
+reviews/_harness/.packets/

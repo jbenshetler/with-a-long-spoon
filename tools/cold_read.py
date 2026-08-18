@@ -369,7 +369,7 @@ def main():
         help="authentication backend (default: api-key)",
     )
     ap.add_argument("--model", required=True, help="model id accepted by the selected backend")
-    ap.add_argument("--model-id", default=None, help="output dir under reviews/cold-read/ (default: --model)")
+    ap.add_argument("--model-id", default=None, help="output dir under reviews/_archive/cold-read/ (retired chain; default: --model)")
     ap.add_argument("--scope", default="fall", help="'fall' | <slug> | <a>..<b> | <a>.. | ..<b>")
     ap.add_argument(
         "--budget-usd",
@@ -461,7 +461,7 @@ def main():
     scenes = resolve_scenes(args.scope)
 
     if args.fresh and not args.allow_volume_one_rewrite:
-        out_dir = Path("reviews/cold-read") / model_id
+        out_dir = Path("reviews/_archive/cold-read") / model_id
         existing = [s["slug"] for s in scenes if has_valid_review(out_dir / f"{s['slug']}.md")]
         if existing:
             raise SystemExit(

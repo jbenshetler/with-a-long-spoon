@@ -17,7 +17,7 @@ Usage:
   tools/checkpoint_extract.py                       # ck through ch50 (all of Vol 1), terra
   tools/checkpoint_extract.py --to 20               # ck through ch20
   tools/checkpoint_extract.py --model gpt-5.6-sol --to 50
-Output: reviews/cold-read/<model-id>/checkpoints/ck-ch<NNN>.md
+Output: checkpoints/<model-id>/ck-ch<NNN>.md
 """
 from __future__ import annotations
 
@@ -78,7 +78,7 @@ def main() -> None:
         raise SystemExit("empty checkpoint returned")
 
     out_path = Path(args.out) if args.out else (
-        REPO / f"reviews/cold-read/{args.model}/checkpoints/ck-ch{end:03d}.md")
+        REPO / f"checkpoints/{args.model}/ck-ch{end:03d}.md")
     out_path.parent.mkdir(parents=True, exist_ok=True)
     header = (
         f"# Checkpoint — through Chapter {end} (grounded, single pass)\n\n"

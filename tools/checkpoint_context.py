@@ -78,7 +78,7 @@ def boundary(n: int) -> int:
 
 
 def ck_path(model: str, b: int) -> Path:
-    return REPO / f"reviews/cold-read/{model}/checkpoints/ck-ch{b:03d}.md"
+    return REPO / f"checkpoints/{model}/ck-ch{b:03d}.md"
 
 
 def is_claude(model: str) -> bool:

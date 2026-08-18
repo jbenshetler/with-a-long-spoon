@@ -11,7 +11,7 @@ open files **only** inside a per-read reading-packet directory, so blindness is
 enforced by the tool itself, not by instruction or a post-hoc audit:
 
   base jail   — every path is resolved and asserted to live under
-                <repo>/reviews/cold-read/.packets/ ; anything else is refused.
+                <repo>/reviews/_harness/.packets/ ; anything else is refused.
   capability  — a packet is addressed by an unguessable 32-hex-char token
                 (secrets.token_hex(16)); there is NO "list all packets" tool, so
                 a reader that was handed one token cannot enumerate or reach any
@@ -34,8 +34,10 @@ from pathlib import Path
 from mcp.server import MCPServer
 
 REPO = Path(__file__).resolve().parent.parent
-BASE = (REPO / "reviews" / "cold-read" / ".packets").resolve()
-REVIEWS_ROOT = (REPO / "reviews" / "cold-read").resolve()
+BASE = (REPO / "reviews" / "_harness" / ".packets").resolve()
+# Write-jail roots: reader reactions land under reviews/ (grounded-cold-read/,
+# oracle/, ...) and grounded memory checkpoints land under top-level checkpoints/.
+WRITE_ROOTS = ((REPO / "reviews").resolve(), (REPO / "checkpoints").resolve())
 
 _TOKEN_RE = re.compile(r"^[0-9a-f]{32}$")
 _NAME_RE = re.compile(r"^[A-Za-z0-9][A-Za-z0-9._-]*$")
@@ -92,8 +94,8 @@ def write_output(packet_id: str, text: str) -> str:
     rel = dest_file.read_text(encoding="utf-8").strip()
     header = (d / ".header").read_text(encoding="utf-8") if (d / ".header").is_file() else ""
     dest = (REPO / rel).resolve()
-    # Jail: writes are permitted ONLY under reviews/cold-read/, and only to a .md file.
-    if REVIEWS_ROOT not in dest.parents or dest.suffix != ".md":
+    # Jail: writes are permitted ONLY under reviews/ or checkpoints/, and only to a .md file.
+    if not any(root in dest.parents for root in WRITE_ROOTS) or dest.suffix != ".md":
         raise ValueError("destination not permitted")
     body = (text or "").strip()
     if body.lower().startswith("tool_uses:"):

@@ -35,6 +35,7 @@ REPO = Path(__file__).resolve().parent.parent
 os.chdir(REPO)
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
+import volume_scenes  # noqa: E402  (volume_dir: judge output is volume-split)
 from cold_read_batch import clean_scene_text, load_volume_packets  # noqa: E402
 from cold_read import (  # noqa: E402
     MODEL_ALIASES,
@@ -121,7 +122,7 @@ def parse_footer(text: str) -> tuple[str | None, str | None]:
 def main() -> None:
     ap = argparse.ArgumentParser(description="Spec-blind fidelity judge for cold-read reviews.")
     ap.add_argument("--judge-of", required=True,
-                    help="model-id whose reviews are judged (dir under reviews/cold-read/)")
+                    help="model-id whose reads are judged (archived chain under reviews/_archive/cold-read/)")
     ap.add_argument("--auth", choices=["api-key", "codex", "openrouter"], default="codex")
     ap.add_argument("--model", required=True, help="the JUDGE model id (use a different model than --judge-of)")
     ap.add_argument("--scope", default="fall", help="'fall' | <slug> | <a>..<b> | <a>.. | ..<b>")
@@ -141,9 +142,12 @@ def main() -> None:
     # The reader holds the volume's public jacket packet; give the judge the same so it
     # judges against what the reader legitimately knows, not this page in isolation.
     packet = (load_volume_packets().get(1) or {}).get("packet", "")
-    reviews_dir = Path("reviews/cold-read") / args.judge_of
-    out_dir = reviews_dir / "judge"
-    out_dir.mkdir(parents=True, exist_ok=True)
+    # Input = the reviewed model's reads. The judge was built against the chained
+    # cold read, now retired and archived; keep reading from there so the instrument
+    # stays reproducible. (Future: repoint to reviews/grounded-cold-read/ to judge the
+    # live instrument — a semantic change, not done in the reviews restructure.)
+    reviews_dir = Path("reviews/_archive/cold-read") / args.judge_of
+    out_root = Path("reviews/judge") / args.judge_of      # per-scene file is volume-split below
 
     close = None
     if args.auth == "api-key":
@@ -177,7 +181,8 @@ def main() -> None:
     try:
         for i, scene in enumerate(scenes, 1):
             slug = scene["slug"]
-            out_path = out_dir / f"{slug}.md"
+            out_path = out_root / volume_scenes.volume_dir(slug) / f"{slug}.md"
+            out_path.parent.mkdir(parents=True, exist_ok=True)
             if out_path.exists() and not args.fresh:
                 print(json.dumps({"n": i, "slug": slug, "status": "skipped"}), flush=True)
                 continue
@@ -210,12 +215,13 @@ def main() -> None:
             counts[r["verdict"] or "unparsed"] = counts.get(r["verdict"] or "unparsed", 0) + 1
             if r["skew"] and r["skew"] != "none":
                 skews[r["skew"]] = skews.get(r["skew"], 0) + 1
-        (out_dir / "JUDGE_SUMMARY.json").write_text(
+        out_root.mkdir(parents=True, exist_ok=True)
+        (out_root / "JUDGE_SUMMARY.json").write_text(
             json.dumps({"judged_model": args.judge_of, "judge_model": args.model,
                         "n": len(summary), "verdicts": counts, "distortion_skew": skews,
                         "scenes": summary}, indent=2)
         )
-        print(json.dumps({"summary": str(out_dir / "JUDGE_SUMMARY.json"),
+        print(json.dumps({"summary": str(out_root / "JUDGE_SUMMARY.json"),
                           "verdicts": counts, "distortion_skew": skews}, indent=2), flush=True)
 
 

@@ -60,7 +60,7 @@ def clean_scene_text(slug: str) -> str:
 
 def jacket_packet() -> str:
     """Volume One packet string, regex-extracted from volume-packets.toml."""
-    toml = (REPO / "reviews/cold-read/volume-packets.toml").read_text()
+    toml = (REPO / "reviews/_harness/volume-packets.toml").read_text()
     m = re.search(r"packet\s*=\s*'''(.*?)'''", toml, re.DOTALL)
     return m.group(1).strip() if m else ""
 

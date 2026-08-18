@@ -108,7 +108,7 @@ def present_from_reviews(slug, reviews_root):
     for model_dir in sorted(reviews_root.iterdir()):
         if not model_dir.is_dir():
             continue
-        for f in model_dir.glob("*.md"):
+        for f in model_dir.glob("*/*.md"):   # <model>/<volN>/<slug>.md
             if norm_slug(f.stem) == key:
                 files.append(f)
     if not files:
@@ -159,7 +159,7 @@ def main():
         sys.exit(f"input not found: {src}")
     root = src.resolve().parent.parent
     scenes_dir = root / "scenes"
-    reviews_root = root / "reviews" / "cold-read"
+    reviews_root = root / "reviews" / "grounded-cold-read"
 
     lines = src.read_text(encoding="utf-8").splitlines()
     changes, flags = [], []

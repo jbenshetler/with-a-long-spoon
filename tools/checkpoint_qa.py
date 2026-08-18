@@ -46,7 +46,7 @@ TRIGGER_MIN_PEERS = 2
 # "note it and proceed" path). Matching flags are reported as ACCEPTED, not as
 # re-run candidates. This is the reads-equivalent of the style linter's --ack:
 # annotate a recorded reader slip so a later panel run doesn't re-litigate it.
-# (Checkpoints are repaired in place instead — see reviews/cold-read/QA-NOTES.md.)
+# (Checkpoints are repaired in place instead — see reviews/_harness/QA-NOTES.md.)
 ACCEPTED = [
     {"model": "claude-sonnet-5", "target": "read", "chapter": 48, "check": "randi-not-redhead",
      "note": "read-to-read variance; sanctioned re-run reproduced the merge; sonnet's own "
@@ -154,16 +154,20 @@ def check_passes(text: str, check: dict) -> bool:
 
 
 def discover_models(only: str | None) -> list[str]:
-    root = REPO / "reviews" / "cold-read"
-    models = sorted(d.name for d in root.iterdir()
-                    if d.is_dir() and not d.name.startswith(".")
-                    and (d / "checkpoints").is_dir() or (d / "grounded").is_dir())
+    # Models are the dirs that carry checkpoints (top-level checkpoints/) or
+    # grounded reads (reviews/grounded-cold-read/).
+    names: set[str] = set()
+    for root in (REPO / "checkpoints", REPO / "reviews" / "grounded-cold-read"):
+        if root.is_dir():
+            names.update(d.name for d in root.iterdir()
+                         if d.is_dir() and not d.name.startswith("."))
+    models = sorted(names)
     return [m for m in models if not only or m == only]
 
 
 def checkpoint_units(model: str):
     """Yield (label, chapter, text) for each decade checkpoint of a model."""
-    d = REPO / "reviews" / "cold-read" / model / "checkpoints"
+    d = REPO / "checkpoints" / model
     if not d.is_dir():
         return
     for f in sorted(d.glob("ck-ch*.md")):
@@ -175,11 +179,11 @@ def checkpoint_units(model: str):
 
 def read_units(model: str):
     """Yield (label, chapter, text) for each per-chapter grounded read of a model."""
-    d = REPO / "reviews" / "cold-read" / model / "grounded"
+    d = REPO / "reviews" / "grounded-cold-read" / model
     if not d.is_dir():
         return
-    order = {slug: i + 1 for i, slug in enumerate(volume_scenes.volume_one_slugs(True))}
-    for f in sorted(d.glob("*.md")):
+    order = {s["slug"]: i + 1 for i, s in enumerate(volume_scenes.all_scenes())}
+    for f in sorted(d.glob("*/*.md")):        # vol1/<slug>.md, vol2/<slug>.md, ...
         slug = f.stem
         if slug in order:
             n = order[slug]
@@ -197,7 +201,7 @@ def main() -> None:
     checks = [c for c in CHECKS if target in c["targets"]]
     models = discover_models(args.model)
     if not models:
-        raise SystemExit("no models found under reviews/cold-read/")
+        raise SystemExit("no models found under checkpoints/ or reviews/grounded-cold-read/")
     unit_fn = checkpoint_units if target == "checkpoint" else read_units
 
     # results[point][check_id][model] = bool ; point keyed by chapter for consensus
@@ -253,7 +257,7 @@ def main() -> None:
     else:
         print("  none")
     if accepted:
-        print("\nACCEPTED (triaged, kept — not re-run; see reviews/cold-read/QA-NOTES.md):")
+        print("\nACCEPTED (triaged, kept — not re-run; see reviews/_harness/QA-NOTES.md):")
         for model, label, cid, note in accepted:
             print(f"  {model:18} {label:22} {cid}  — {note}")
     if low_consensus:

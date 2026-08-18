@@ -4,21 +4,21 @@
 # ///
 """Direct-OpenAI cold-read ORACLE harness (Responses API).
 
-Interrogates a FROZEN cold-read reader (the oracle, per reviews/cold-read/ORACLE.md):
+Interrogates a FROZEN cold-read reader (the oracle, per reviews/_harness/ORACLE.md):
 it pauses the reader at a stage and asks the fixed battery, tiered funnel
 (neutral, then a FRESH pointed call), to measure what a genuine first reader knows
 and feels there — without leaking design.
 
-PARITY: system prompt is reviews/cold-read/oracle-persona.md (the model-agnostic
+PARITY: system prompt is reviews/_harness/oracle-persona.md (the model-agnostic
 persona + jacket every harness must send verbatim), followed by the stage's frozen
 `## Carry-forward state` and one probe/tier per call. Questions come verbatim from the
-shared battery reviews/cold-read/oracle-battery.json. So output is drop-in comparable
+shared battery reviews/_harness/oracle-battery.json. So output is drop-in comparable
 with the Claude oracle and any other external harness.
 
 BLINDNESS: the Responses call passes NO tools, so the reader can reach nothing beyond
 the prompt — the tool-free guarantee ORACLE.md requires (equivalent to the Claude
 harness's tool_uses:0 tripwire). Read-only: writes ONLY under
-reviews/cold-read/<model>/oracle/, never scenes/, meta/, or the cold-read chain files.
+reviews/oracle/<model>/, never scenes/, meta/, or the archived cold-read chain files.
 
 COST SAFETY: --budget-usd is PER CALL, converted to a hard max_output_tokens cap
 (output+reasoning billed together), so a call cannot exceed budget. A model with no
@@ -41,8 +41,8 @@ from pathlib import Path
 REPO = Path(__file__).resolve().parent.parent
 os.chdir(REPO)
 
-PERSONA = REPO / "reviews/cold-read/oracle-persona.md"
-BATTERY = REPO / "reviews/cold-read/oracle-battery.json"
+PERSONA = REPO / "reviews/_harness/oracle-persona.md"
+BATTERY = REPO / "reviews/_harness/oracle-battery.json"
 PRICING_TOML = Path(__file__).resolve().parent / "cold_read_pricing.toml"
 
 
@@ -76,7 +76,7 @@ def load_pricing(model, price_in, price_out) -> dict:
 
 
 def load_carryforward(model_id: str, stage: str) -> str:
-    f = REPO / "reviews/cold-read" / model_id / f"{stage}.md"
+    f = REPO / "reviews/_archive/cold-read" / model_id / f"{stage}.md"
     if not f.exists():
         raise SystemExit(
             f"no cold-read file for stage '{stage}' in {f.parent} — the reader-state "
@@ -131,7 +131,7 @@ def make_call_fn(*, persona, pricing, effort, budget_usd, timeout, model):
 
 
 def write_probe(model_id, stage, probe, defn, neutral, pointed):
-    out_dir = REPO / "reviews/cold-read" / model_id / "oracle"
+    out_dir = REPO / "reviews/oracle" / model_id
     out_dir.mkdir(parents=True, exist_ok=True)
     path = out_dir / f"{stage}--{probe}.md"
     body = (
@@ -152,7 +152,7 @@ def write_probe(model_id, stage, probe, defn, neutral, pointed):
 def main():
     ap = argparse.ArgumentParser(description="Direct-OpenAI cold-read oracle (Responses API).")
     ap.add_argument("--model", required=True, help="OpenAI API model id, e.g. gpt-5.6-sol")
-    ap.add_argument("--model-id", default=None, help="dir under reviews/cold-read/ (default: --model)")
+    ap.add_argument("--model-id", default=None, help="model-id dir shared across review lanes (default: --model)")
     ap.add_argument("--stage", required=True, help="stage slug (the reader after that scene)")
     ap.add_argument("--probe", required=True, help="comma-separated battery probe keys")
     ap.add_argument("--budget-usd", type=float, default=0.75, help="hard per-call budget (default $0.75)")
