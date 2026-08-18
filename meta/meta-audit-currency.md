@@ -345,7 +345,7 @@ _status: checked 2026-07-20 — 2 findings (low 2)_
 
 ### meta-note-forbidden-kiss.md
 _status: checked 2026-07-20 — 1 finding (low 1)_
-- **[low/med]** `:44,46-48` — states placement/downstream but omits the *committed* motivation (Vee tells Pace she kissed Randi at the mixer → motivates the coated kiss + gives "I'm not gay" its referent). **Correct:** `meta-note-taste-thread.md:47`; `chronology:271`. **Fix:** add a one-line motivation cross-ref (open-Q #26). Kiss-logic/neuro: clean (in lane).
+- **[resolved 2026-08-18]** the former finding here (FK "omits the mixer motivation") is void: {{Forbidden Kiss}} is now **self-motivated** and precedes {{Boyfriend}}; there is no mixer-motivation to cross-ref, and FK does not carry *"I'm not gay."* No edit to `meta-note-forbidden-kiss.md` is owed for this.
 
 ### meta-note-anthro.md
 _status: checked 2026-07-20 — 2 findings (low 2)_

@@ -36,7 +36,7 @@ A quiet peak before the threesome pressure begins — the relationship at fulles
 
 ### First Taste (the self-taste gate falls)
 
-The self-taste crossing — the ivory chemise and the tasting-herself sequence — is the domino that tips Vee from *thinking about it* to proceeding. It belongs to the year-long self-taste thread (the conflation *female wetness = lesbian = wrong*, routed through her own body first so the step to another woman loses its tallest riser), and is owned in full by **`meta-note-taste-thread.md`** — beat-spine, planting discipline, and the First Taste scene mechanics. The reveal-reconstruction below runs back through it.
+The self-taste crossing — the ivory chemise and the tasting-herself sequence — is the domino that tips Vee from *thinking about it* to proceeding. It belongs to the year-long self-taste thread (the **self-applied** conflation — her own wetness in her mouth tripping the anti-LGBT judgment she was raised with, turned inward, alongside her body-shame at her own wetness; routed through her own body first so the step to another woman loses its tallest riser), and is owned in full by **`meta-note-taste-thread.md`** — beat-spine, planting discipline, and the First Taste scene mechanics. The reveal-reconstruction below runs back through it.
 
 ### The peaches scene (moved LATER — now post-cabin; functions as the second fight)
 

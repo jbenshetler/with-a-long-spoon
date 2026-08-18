@@ -211,15 +211,11 @@ A research sub-agent auto-wrote `spring-satc-gap.md` into the project memory dir
 
 # On Her Floor — Aftermath & Pace-Telling (pull-back session)
 
-## 26. Vee-tells-Pace beat + the Forbidden-Kiss motivation (PLACED — see chronology; one craft point open)
+## 26. Vee-tells-Pace beat = {{Boyfriend}} (RESOLVED — see chronology)
 
-Committed this session: because the Randi mixer-kiss is **not cheating** (`meta-condensed-on-her-floor.md` beat 9), Vee can bring it to Pace. NEW Pace/Vee beat — Vee tells Pace about the kiss; it turns hot, and Pace asks whether she's ever thought about being with another woman. This **motivates the {{Forbidden Kiss}} coated-kiss test** (taste-thread step 1), and the just-happened Randi kiss gives Vee's *"I'm not gay"* door-slam a concrete referent. Thematically powerful: the two tracks collide through Pace.
+The Vee-tells-Pace beat is **{{Boyfriend}}** (drafted; the small hours after {{On Her Floor}}). Because the Randi mixer-kiss **isn't** cheating (`meta-condensed-on-her-floor.md`), Vee can bring it to him; it turns hot, and — *afterward*, cooled — Pace asks whether she's thought about being with a woman. Vee's *"I'm not gay"* door-slam takes the **just-happened Randi kiss** as its concrete referent; she lies (denies wanting a woman) and accuses him (*you want Randi*) — her Vol-2 moral-agent turn — and Pace **defends himself** for the first time in the book (hairline crack, warmth holds). Full staging: `meta-condensed-boyfriend.md`.
 
-Resolved (see chronology + `meta-condensed-boyfriend.md`):
-- **Placement** — **that same Saturday night → Sunday, immediately after {{On Her Floor}}** (weekend compression, see item 27), and **before {{The Jar}}**, so Randi's control of the Pace-channel leaks.
-- **Merge vs. separate** — its own beat that motivates a still-**unannounced** {{Forbidden Kiss}} (coated kiss stays deniable per `meta-note-taste-thread.md` step 1 / `meta-note-forbidden-kiss.md`).
-- **What Pace reveals/conceals when Vee names Randi (was open):** he **defends himself** — *"You're the one telling me you want Randi"* — the tell being that *he has never defended himself before*. Hairline crack; first-read warmth holds. Full staging in the condensed.
-- **Vee's Vol-2 moral-agent turn** — she also **lies** to Pace (denies wanting a woman when he asks; his probe generalized off Randi's name, per her friendship emphasis) and joins the word-withholding triangle, graying her grievance about his unsaid *"I love you."*
+**Canon order (do not re-invert):** {{Forbidden Kiss}} is **self-motivated** and **precedes** {{Boyfriend}} by two weeks (FK is the reconciliation-weekend opener; the mixer weekend falls two weeks later). {{Forbidden Kiss}} does **not** carry *"I'm not gay,"* and {{Boyfriend}} does **not** motivate its coated kiss — the two door-slams are an **escalation, not an echo** ({{Forbidden Kiss}} = bodily *"gross"*; {{Boyfriend}} = verbal *"I'm not gay"*). The chronology owns placement.
 
 -----
 
@@ -236,7 +232,7 @@ Authorial ruling — {{Barely Stings}} / {{Still Life}} / {{On Her Floor}} / {{B
 - **{{Still Life}}** = **Saturday afternoon** (Pace receives the smoothness), hours before the mixer.
 - **{{On Her Floor}}** = **Saturday night** (prose-pinned).
 - **{{Boyfriend}}** = that same night → Sunday (*"he gets me Sunday"*).
-- **{{Gesso}}** moves to **after** the kiss (~early Feb, a few days on) — the kiss becomes a present, unspoken weight in that brunch. Redesigning Gesso against the new charge is **deferred** (author to try it later).
+- **{{Gesso}}** moves to **after** the kiss (~early Feb, a few days on) — the kiss becomes a present, unspoken weight in that brunch, and Gesso now carries the **second spring taste-reframe** (re {{Still Life}}; see `meta-condensed-gesso.md` and `meta-note-taste-thread.md`).
 
 **Settled (author ruling 2026-08-16):** {{On Her Floor}}'s Chi Latte invite + dress-picking (`on-her-floor.md:3–38`, "the edge of the afternoon," then a scene-break before Vee dresses Saturday evening) happens **earlier in the week**, not the mixer weekend — it would be terribly rude of Randi to invite Vee same-day. No exact day is pinned (none is needed); only that it's *not this weekend*, which leaves Saturday afternoon free for {{Still Life}}. The scene-break absorbs the gap; no prose change required.
 

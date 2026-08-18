@@ -29,6 +29,15 @@ Still Life is the taste thread's **externalized wondering** rung, one step past 
 
 His painting-with-her-fluids is also a major **His-Relish** beat — his appetite for her taste, shown not named, which is what makes her wonder. (`meta-note-taste-thread.md`.)
 
+## The telling miss (both readings — keep both)
+
+He gives her a taste for each region as he paints it — but for the mons, painted in her own fluids, he gives her **nothing to taste.** The no-taste-for-the-fluids is:
+
+- **A staircase guard** — it preserves {{First Taste}}: she must not taste herself yet (the thread's crossing is held for its own scene).
+- **Pace's characterizing omission** — he gives her every taste *but the one gate she refused.* The working-around is the deniable aimed-ness (care contracting to the deniable minimum on the gate he most needs down), tying Still Life's miss back to {{Forbidden Kiss}}'s first grain.
+
+Both readings coexist on the page; render neither as analysis. (The thread's home: `meta-note-taste-thread.md`.)
+
 > **Whiskey and Wine — uncharted scene, parked here.** The *ask* rung — where Vee finally voices the question this scene only lets her wonder — is its own scene, **Whiskey and Wine**, which does **not** yet have a chronology entry. Placement constraint: it must land **shortly after {{Forbidden Kiss}}** (the gate that opens the conscious wondering) and before {{First Taste}}, establishing the whiskey/white-wine frame Vee later turns on herself at {{First Taste}}. Ties into `meta-note-taste-thread.md` (Reach → Still Life → Whiskey and Wine → The Almost → First Taste). Charter it its own chronology entry when the spring sequence firms up. *(Left unbraced deliberately — it isn't a canonical chapter yet, so a brace-wrap would dangle until it's chartered.)*
 
 ## The coinage — *adventure* (seed here)
