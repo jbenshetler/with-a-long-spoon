@@ -64,7 +64,7 @@ And it landed wrong the instant he had it — a boy's name in her own mouth, at 
 
 ---
 
-He hadn't slipped out of her, not once — and somewhere in the *it didn't stay a joke* he'd gone hard again, and gone still, and she could feel the whole of him up inside her. She should have been annoyed. He'd gone hard off her shame, off the worst thing she had. But she wasn't annoyed, she was glad — glad in some low, steadying way that grounded her, put her back down into her own body and made it hers again. That part still worked, then. She was a girl on top of her boyfriend at one in the morning, and it was simple and it was *straight,* and she could stand on it to say the rest.
+He hadn't slipped out of her, not once — and somewhere in the *it didn't stay a joke* he'd gone hard again, and gone still, and she could feel the whole of him up inside her. She should have been annoyed. He'd gone hard off her shame, off the worst thing she had. But she wasn't. She was glad — glad in some low, steadying way that grounded her, put her back down into her own body and made it hers again. That part still worked, then. She was a girl on top of her boyfriend at one in the morning, and it was simple and it was *straight,* and she could stand on it to say the rest.
 
 She lifted her face out of his neck and looked at him.
 
@@ -72,13 +72,13 @@ She lifted her face out of his neck and looked at him.
 
 Not a scold. Not *how could you.* He asked it easy, almost curious. There was a current under it she felt through where they were joined, low and steady, and it was only a man who'd heard *two girls* and wanted the rest — the ordinary greed of that, nothing she couldn't handle. So she handed him the ordinary version, the one with the exits built in. "It was the joke, I told you — the Harrison thing, it was a *bit,* we were just—"
 
-He slid her up the length of him. He'd done it a hundred times, his hands moving her, helping her work herself on him, and she loved it in the moment, the long slow friction of the drag up and the drag back. So she took the lift for what it always was and rode it up, easy. And then at the top he stalled her. Held her there, off all but the head of him, his strong hands cupping her ass, not letting her back down. She pressed against them to sink onto him again and couldn't, and a sound came out of her, disappointed, before she'd thought about it. That was new.
+He slid her up the length of him. He'd done it a hundred times, his hands moving her, helping her work herself on him, and she loved it in the moment, the long slow friction of the drag up and the drag back. So she took the lift for what it always was and rode it up, easy. And then at the top he stalled her. Held her there, off all but the head of him, his strong hands cupping her ass, not letting her back down. That was new. She pressed against them to sink onto him again and couldn't, and a sound came out of her, disappointed, before she'd thought about it.
 
 "Tell me" — his voice easy — "the real story, and I'll give you what you want."
 
 It took her a second to catch the shape of it: that he meant to make her buy it back, inch by inch, pay for her own pleasure in the one coin she had. A laugh got out of her, nervous, high. "That's *cheating,*" she said, thick, nowhere near offended.
 
-"A little." He wasn't sorry at all — the warmth of him with a new thing folded in, a hunger he wasn't troubling to hide — and it only turned the screw tighter. Something in her put its whole weight on the rule and leaned.
+"A little." He wasn't sorry at all — the warmth of him with a new thing folded in, a hunger he wasn't troubling to hide — and it only turned the screw tighter. Something in her leaned its whole weight on the rule he'd set — and it held.
 
 "*Fine.*" She rolled her hips against the hold, testing it, and gave him something true to see what it bought. "I went as her date."
 
@@ -86,9 +86,9 @@ She'd meant it flat — it was only the word for the thing, a plus-one, a favor.
 
 "It's the mixer that kicks off spring semester. She gets a plus-one, and she spent it on me." It came easier once it was moving. "She could've asked anyone. She said guys you have to manage all night, and me she just gets to *have.*"
 
-He pushed her all the way down onto him for that, slow, the whole length, till she was seated and full and breathing around it — and it happened again, worse: she heard what she'd just said, what it meant that Randi just got to *have* her, and the heat climbed, and she could not have told you how much of it was the thought and how much was him buried to the root in her. Then he drew her back up, emptying her out for the next answer.
+He pushed her all the way down onto him for that, slow, the whole length, till she was seated and full and breathing around it. Above her, his face took plain pleasure in it — another game, running just as he liked. And it happened again, worse: she heard what she'd just said, what it meant that Randi just got to *have* her, and the heat climbed, and she could not have told you how much of it was the thought and how much was him buried to the root in her. Then he drew her back up, emptying her out for the next answer.
 
-"And the skirt?" he said. "That scrap you had on tonight — that's what you wore to it?"
+"And the skirt?" He leaned to one side and let his eyes go the length of her, with appetite, then came back up. "That scrap you had on tonight — that's what you wore to it?"
 
 "It's hers." She got a degree of him back for it. "She pulled it off her own rail and put it in my hands and said it'd look better on me anyway." The pride came up in her even now, even here, dumb and warm. "Legs like yours, she said. And that ass."
 
@@ -124,7 +124,7 @@ Stopped again. Held. And in the held moment she heard the word the way he'd hear
 
 She pushed at his hands, got nowhere, gave it up. "She took my hands and ran them up my sides and lifted them over my head and held them there, so I couldn't hold the skirt down, and my thighs were — open. To all of them. And I didn't—" the reconsidering caught her mid-word, the thing the stall had turned her around to see, "—I didn't try that hard to get my hands back."
 
-That one cost her and it bought her more than the others. He drew her down a long slow way onto him for it, and she took him with a sound she didn't recognize as hers, and now she could hear things she hadn't — her own breathing gone ragged, and the wet sound of him moving in her, and she could not have told, could not for anything have said, how much of that wet sound was his and how much was hers.
+That one cost her and it bought her more than the others. He drew her down a long slow way onto him for it, and she took him with a sound she didn't recognize as hers — and felt the flex of him inside her, once, needful, a tightness crossing his face to go with it. And now she could hear things she hadn't — her own breathing gone ragged, and the wet sound of him moving in her, and she could not have told, could not for anything have said, how much of that wet sound was his and how much was Randi's.
 
 "She was against my back the whole time." The parts about Randi's body came easier than the parts about her own; she gave the easy half. "Damp — the silk of her, the heat coming through it."
 
@@ -144,15 +144,17 @@ The question walked straight into the shame of it and stood there.
 
 He gave her three strokes for it — one, and a second, and a third, deep and unhurried — and they landed right in the middle of her trying to say the rest, so that "the room seeing me like that, her hands making me—" came apart in her mouth, broken over what he was doing to her, and she lost the room for a whole second, lost everything but the two facts of him moving in her and the thing he was drawing it out of.
 
-And then — with her open and ready and the last of it right there to give — he stopped. Held her still. Wouldn't let her finish it, or move, or come. She should have hated that too, and instead the wanting doubled on the denial, on how completely he had her, and the disappointed sound that got out of her had something else all the way through it.
+And then — with her open and ready and the last of it right there to give — he stopped. Held her still. The denial doubled the wanting: how completely he had her, how he'd taken the whole tangle and narrowed it to this — difficult, but at least clear.
+
+He wouldn't let her finish it, or move, or come. The disappointed sound that got out of her had something else all the way through it.
 
 "Then Harrison." Back to the exits — the joke, the show, the safe shape of it — and she felt his hands settle, ready to stop her the instant she tidied. "She said, let's put on a show, make him wish he were me. And she turned me around and took a — a handful. Of me. Grinning right at him. A bit. A punchline."
 
-"A handful where?" he said.
+"A handful where?" he said — the tease plain on him now, grinning, because he knew, and wanted it in her own mouth anyway.
 
 She tried to move down onto him and couldn't, and the wanting of it made her reckless. "My ass. She took a handful of my ass."
 
-He gave her most of a stroke for it — most, not all, because he could hear there was another shape under this one and meant to have that too. It left her short, aching for the last of him, and she caught his face in her hands and kissed him, fierce and open, trying to take him deeper through the kiss itself, trying to drop onto him while his mouth was busy — and got nowhere, his hands holding her exactly where he wanted her.
+He gave her most of a stroke for it — most, not all, because he could hear there was another shape under this one and meant to have that too. It left her short, aching for the last of him, and she caught his face in her hands and kissed him, fierce and open, trying to take him deeper through the kiss itself, trying to drop onto him while his mouth was busy — and got nowhere, his hands holding her exactly where he wanted her — except his fingers had drifted, she felt it, closer to her seam than the holding called for, pulled toward the heat of her.
 
 "And then?" he said, against her mouth.
 
