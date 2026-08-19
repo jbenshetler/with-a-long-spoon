@@ -207,3 +207,9 @@ Dance, mathematics, kink, the chivalric quest, dressmaking — these are his ret
 ## The 95% Rule
 
 He operates his consent-architecture and chivalric grammar at a level rare, recognizable, near-impossible — and not perfect. The remaining 5% is where small ordinary lapses live, in registers the architecture does not monitor. Render lapses without signaling them as failures. The reader who sees small lapses is right they are there; the novel's contestation is not of the perception but of the conclusion that the lapses make the goodness fraudulent.
+
+---
+
+## "Unhurried" — his word, and only for him (author ruling 2026-08-18)
+
+*Unhurried* is reserved for **Pace himself and his actions** — never narration about his sphere (his house, days spent there, a routine), and never any other character, even in Vee's free-indirect voice. On him, thin it drastically; anywhere else it is a register leak (the linter warns; this is the placement rule behind the warning). For Vee's luxuriating register reach instead for *languid, indolent, easy, slow*.

@@ -91,7 +91,7 @@ Front door (left unlocked for the expected guest; Randi bolts it behind her). A
 **chair by the door** where she drops her overnight bag.
 
 ### Kitchen `[PAGE]` + `[PLAN]`
-`[PAGE]` **white-laminate**-topped **counter** (plain white, no pattern, the shine worn off, still good to work on); **kettle**/burner; two mugs; the **green tea** she likes, kept on hand; a **bread machine**; a **baking stone** that lives in the oven, with its **wooden peel**; a **cold-water filter pitcher** in the fridge; an old **white KitchenAid stand mixer**, bought secondhand, the wear showing. **No stools.** The **kitchen is small**, too small for two to work in at once; a small **table with chairs** sits in it, where meals happen and where she watches him cook (he sits people down to eat, never feeds them standing at the counter). `[PLAN]` A few good **knives** and a few good **pans and skillets** (**not the full set**); the small tools a serious cook keeps (microplane, peeler, hand juicer, and the like), assumed present and not inventoried; a small bench of guest wines. He cooks here.
+`[PAGE]` **white-laminate**-topped **counter** (plain white, no pattern, the shine worn off, still good to work on); **kettle**/burner; two mugs; the **green tea** she likes, kept on hand; a **coffee pot** (drip) and good beans — he has **opinions about beans** and pulls a pained, entirely-for-show face at how sweet Vee takes hers, and keeps the sugar full for her anyway ({{Forbidden Kiss}}); **real cream** in the fridge; a small **dish of sea salt** kept by the stove; a **bread machine**; a **baking stone** that lives in the oven, with its **wooden peel**; a **cold-water filter pitcher** in the fridge; an old **white KitchenAid stand mixer**, bought secondhand, the wear showing. **No stools.** The **kitchen is small**, too small for two to work in at once; a small **table with chairs** sits in it, where meals happen and where she watches him cook (he sits people down to eat, never feeds them standing at the counter). `[PLAN]` A few good **knives** and a few good **pans and skillets** (**not the full set**); the small tools a serious cook keeps (microplane, peeler, hand juicer, and the like), assumed present and not inventoried; a small bench of guest wines. He cooks here.
 
 **Sightline (committed to the page, {{Believe Me}}):** the **counter is visible from the
 entry mat through the kitchen doorway** — standing at the front door looking right, past
@@ -225,6 +225,14 @@ two people move through without calling out to each other.
 - **Cashmere blanket** `[PAGE]` at the foot of the bed — **Randi brought it**, after
   the second week, when she registered that she got cold after sex even in his
   too-warm house (`the-bench.md`; the chill is Randi's trait, not Vee's).
+  **Vee's history with it:** before her first night ({{Famished}}) Pace had it
+  **dry-cleaned to remove Randi's smell** — so it was absent that night (confirmed:
+  no blanket appears in `famished.md`) and reappeared after she'd started staying
+  over. **Vee therefore believes he bought it for her**; he never said so (he
+  doesn't give notes) and never corrected her. Dramatic-irony fixture: in
+  {{Forbidden Kiss}} she spreads it as the stage for the pointing ladder and lies
+  wrapped in it afterward planning to tell Randi — Randi's blanket both times,
+  unknowing.
 - **Water bottle** `[PAGE]` pre-staged on the bedside table for aftercare.
 
 ## Settled spatial facts
