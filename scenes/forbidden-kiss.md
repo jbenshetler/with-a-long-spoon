@@ -84,7 +84,7 @@ He didn't turn — but he watched her sidelong, curious, as she came up beside h
 
 He glanced at it and shook his head — nothing. She pointed again, and this time kept her finger on the phantom spot. He bent down to find it. And she leaned in — slow, exact — and brushed the curve of her breast along his cheek.
 
-She had done it once before, last fall, up on the riser with pins in play, and he had held so still against it that she'd wondered for a week what he was made of. The dress had come first, that day. There was no dress today.
+She had done it once before, last fall, up on the riser with pins in play, and he had held so still against it that she'd wondered for a week what he was made of. The dress had come first, that day. Today there was only the scrunchie.
 
 His hands came out from under the stream and around her, wet and warm and clean, closing on the flare of her waist —
 
@@ -98,7 +98,7 @@ She loved it. She loved every single step.
 
 In the bedroom he caught up to her — and she turned and put up one hand, palm out, and he stopped as though the hand had touched him.
 
-The cashmere lay where she had spread it, cream and waiting, and she settled herself onto the middle of the soft field of it on her back, taking her time about it, arranging herself as a woman arranges flowers: arms laid open wide, one knee eased outward, everything on offer and nothing yet granted. He stood at the foot of the bed in his apron and watched her do it, and she let him watch until she was entirely comfortable. Then she raised one arm and pointed, with one finger, at the inside of her own wrist.
+The cashmere lay where she had spread it, cream and waiting, and she settled herself onto the middle of the soft field of it on her back — and then, while he stood at the foot of the bed in his apron and waited, she reached up and worked the scrunchie free, the last thing she had on, and shook her hair out loose over the cream, dark red poured across pale, and took her time getting it right. Then she arranged the rest of herself as a woman arranges flowers: arms laid open wide, one knee eased outward, everything on offer and nothing yet granted. She let him watch until she was entirely comfortable. Then she raised one arm and pointed, with one finger, at the inside of her own wrist.
 
 He pulled the apron over his head and dropped it, and his shirt went after it. And he came and bent over her and put his lips to the inside of her wrist, exactly where the finger had said, and stayed there, his breath and the soft pull of his mouth warm on the thin skin over her pulse.
 
