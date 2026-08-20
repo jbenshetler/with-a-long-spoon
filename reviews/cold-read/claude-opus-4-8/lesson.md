@@ -1,121 +1,55 @@
-# Cold read — Lesson
+# Cold read (grounded) — Lesson
 
-*scene: scenes/lesson.md · prose-blob b71915ad2d67cc476ae8d46931be3ca29653c89b · model: claude-opus-4-8 · read after: rock · 2026-08-13*
-<!-- freshness: prose-blob = `git hash-object scenes/lesson.md` at read time; if it differs from the live file's hash, this review is stale. -->
+*scene: scenes/lesson.md · model: claude-opus-4-8 · memory: ck-ch020 + raw ch021..ch025 · reader-protocol: v3-grounded-checkpoint*
 
 ## Reader reaction
 
-This one worked on me as pure ache, and it's the smartest kind of ache because the trap does its work through Vee's own eye — the eye I've trusted all along.
+### The felt read
 
-The dance is the whole chapter and it's beautifully literal about consent and lead. "Give me something to push back against. Otherwise you cannot feel my lead." "Being jelly doesn't work." And the killer: "That's what gets you stepped on. The space you're keeping. Close it — come all the way in — and my feet can't land anywhere but past yours." I felt the swoon and the warning in the same sentence. The frame she fought as "too close, too fixed, too much rule" turning out to be the thing "doing it now... nothing to do but take it" — that is either the most generous account of surrender or the most precise account of how control feels like grace from inside. The page holds both and I let it.
+This one got its hooks in me and then twisted, and I mean that as praise. It's the first chapter in a while that let Vee be *wrong* — not wronged, wrong — and watching her do it to a man she has every reason to trust was excruciating in the good way, the way where you want to put your hand through the page and stop her.
 
-Then the sabotage. The blonde's poison — "Knows how to get a girl to do just what he wants her to... All us girls love him. He's so good about getting a girl home safe" — and Vee, whose whole life is reading rooms, misreads this one catastrophically. She hears the rule where she'd let herself feel the exception, and she draws blood: "Does your *service* include getting the girls home safe from here, too?" I winced. And the *floozy* bruise turns inward and vicious — "she'd spread her legs like a slut." The mother's voice, now in her own mouth, aimed at herself.
+Let me start with where it swept me up, because it did, hard. The dance lesson on the concrete pad is one of my favorite Pace-and-Vee stretches in the whole book so far. It's the courtship rendered as literal instruction: "You have a job here. Give me something to push back against. Otherwise you cannot feel my lead. Push on my shoulder — firm, not hard." I felt that in my chest before I clocked what it was doing. Being jelly doesn't work. She has to bring her own weight or the whole thing is dead — that's the least passive lesson in seduction I could imagine, and it's the opposite of the shame that's run her whole life. And then the *space* she keeps: "That's what gets you stepped on. The space you're keeping. Close it — come all the way in — and my feet can't land anywhere but past yours." I know it's about dancing and I know it's about everything, and the page trusted me to hold both without underlining it. When the frame finally takes her — "The pattern came through his body before it arrived in her feet. Her feet landed where they were supposed to land. ... 'There it is,' he said, quiet" — I actually grinned. That's Pace's phrase, that "there it is / there you are" thing, the surfacing-of-the-true-self note, and here it lands clean and earned and joyful. The heat wasn't in a bed; it was in a hand at a shoulder blade and a woman finally stopping her guessing. I was fully rooting.
 
-The bartender is the correction I didn't know I was waiting for. "Wasn't him they were jealous of, honey." That landed hard and warm. He brought a date on a Thursday dance night, untouched beer, walked out into the cold. The jealousy was of *her.* She was the exception. And she torched it.
+Which is exactly why the turn hurts. The Rusty Nail undoes her, and the beautiful cruelty is that it's *her own machinery* that does it, not a lie anyone tells. The women love him. They hug him longer, "with more of themselves." He taught the class — "He's the reason half of us can dance." None of that is a betrayal; every bit of it is more evidence he's good. But the mother's-voice count starts up in her — "she had a count going she hadn't meant to start" — and I felt the dread pool, because I know that voice, I've watched it a beat behind her heat all book, and here it finally gets a whole room of fuel.
 
-What guts me: the resolution. She wakes cool, "cool embarrassment was just information," she's going to fix it — by going to **Randi's.** She turns, wounded and ashamed, straight to the person I know is the closer. She could have called Cassie — she stood outside with the phone and *didn't*, because Cassie would want words for what she'd done. So the clean love gets refused precisely because it's clean, and she walks toward the operation for comfort. That's the darkest quiet turn in the book so far, and the page doesn't flag it at all.
+The blonde is the accelerant, and I want to be careful about how the page played her, because it played her well. "He's such a great lead, isn't he? Knows how to get a girl to do just what he wants her to. ... He's so good about getting a girl home safe at the end of the night." Read cold, that is a slick, poisoned little speech, and the page even tells me the makeup's "doing a lot of work" and there's "something under it that wasn't" warmth — so the text is signaling *jealousy dressed as kindness*, a woman salting the new girl's night. And Vee, primed, drinks it straight. What wrecked me is that she then aims it at the one person who didn't earn it: "Does your *service* include getting the girls home safe from here, too?" — "The venom was right there in it. She heard it the way you hear a glass go past the point where you can still catch it." That line is perfect. The glass is already falling. And Pace, God, Pace answers *straight* — "Yes. Sometimes. When it's required." — no defense, no scramble, and it wouldn't have mattered what he said, because "she was already angry, and some part of her wanted to stay that way." That's the honest, ugly interior I read for. She wanted the anger. It was easier than the exposure.
 
-The shirt breaks my heart — washed until it smelled "of fabric softener and no one," worn anyway. And the cab fare "more than she'd guessed, and the money had been meant for other things" — the debt, brushing the surface, still not looked at.
+Then he leaves. Quietly. Sets the untouched beer down, shakes off the regulars, goes. And I sat there as unsettled as Vee, because I couldn't fully read *his* leaving either — hurt? respect for her space? the "door with a time on it" patience he showed with the scar? The page held it ajar and I'm leaving it ajar.
 
-Trust/suspicion: Pace comes off *genuinely* well here — the untouched beer, the straight answer ("Yes. Sometimes. When it's required"), the leaving. The bartender vouches. And yet everything I know keeps the frame lesson ringing. Both poles, unresolved, exactly where I like this book.
+The bartender is the chapter's spine straightening. "When a girl's had too much, Pace gets her home. Leaves her at the door. Doesn't take advantage — I'd have heard otherwise. Not that plenty haven't tried, hoping he would." And the closer — "Wasn't him they were jealous of, honey." That reframe landed like a slap and a gift at once: the girls weren't circling *him* to warn her off; they were jealous of *her*, the one date he broke his own rule to bring on a dance night. So the blonde's poison was exactly what I suspected — envy — and Vee mistook the rule for the exception and the exception for the rule ("She'd thought she was special. She was just next." — and she was dead wrong, she *was* special). The whole chapter is a Simpson's paradox of the heart, honestly — same facts, and depending on how you aggregate them they say the opposite thing. The recent stats lecture is still ringing under this.
 
-Erotic charge: not sexual, but the dance is charged all the way through — the hand at the shoulder blade, "come all the way in." Heat lives in the lead.
+Now — here's where my *reader* knowledge sits heavy and complicated. I know what Vee doesn't: that Pace is genuinely, hiddenly involved with Randi, that Vee was *selected as a game*. So when she flails "she'd let herself be played," I have this vertiginous double vision — she is being played, in a way she can't see, but she has just accused the man of the one specific con he is *not* running. He is not a floor-Casanova. The irony is that her instinct that something's rigged is *correct*, and she has pointed it at exactly the wrong rig. That made her self-flagellation at the end — "She'd punished him for being the man she wanted him to be. She'd done it to a good man." — hit me in two places at once: I ached for her sincerity, and I flinched, because "good man" is doing a lot of load-bearing work that only I can see the crack in. I don't think the page is asking me to endorse it. I think it's letting her be right about the small thing (he didn't cheat tonight) and I'm left holding the big thing alone. That's the trust-vs-suspicion engine of this whole book and this chapter cranked it hard.
 
-**Titles:** "Lesson" — the dance lesson on the surface; underneath, the lesson *she* takes (she was the exception, she wronged a good man) and the lesson in *how a lead works* that rhymes with everything being done to her. It points cleanly. *A Polite Invitation* / *With a Long Spoon* — she keeps closing the space instead of keeping the spoon's length; tonight she reached for it once, in anger, then threw it away and turned toward Randi.
+The ending points her straight back to Randi — "go to Randi's ... She'd been wrong. She was going to fix it." And *that* is the quiet horror of the close for me. She's running the shame off to the one confidante who is mining her, who will "listen, and draw her further open." The floozie-voice got loud tonight, and Vee's cure for it is to open a vein to Randi. I dread that lunch. I want to warn her and I can't.
 
-Next: I dread the Randi visit — the wounded girl walking into the closer's arms to be "helped." I want to see what Randi does with this gift.
+On the erotic charge: this chapter's heat is almost entirely in the dance — clothed, tension, the physics of the frame — and it worked on me more than some of the bed scenes have, because it was *about* her learning to bring her weight. Once we hit the bar it goes cold on purpose, and the cold is right. No slack, no clinical patch. The keyhole shirt at the top ("The keyhole had stopped suggesting") is a nice small note of her body being more than the cut was built for — the same too-much she's ashamed of and the dress just taught her to love, here reasserting itself right before a night that will shame her again.
 
-## Carry-forward state
+Friction? Very little. The blonde's speech is *almost* too on-the-nose a villain-beat — "Knows how to get a girl to do just what he wants her to" is a hair theatrical — but the page immediately frames her as unreliable (the makeup, the something-under-it), so I read the theatricality as *hers*, a catty performance, not the author's thumb. I bought it. The bartender delivering the corrective is a slight convenience of craft — the wise older woman who has the exact truth to hand — but she's flinty and unsentimental ("flat, done being asked for things") and the "honey" reframe earned its keep, so I forgave it. Nothing pulled me out.
 
-**Principals**
-- **Pace** (= Peter) — male, 22. Math PhD near done, powerlifter, builds furniture; runs meticulous-consent scenes; engineered Randi's attraction and the staged collision. **Present.** Taught two semesters of beginner country/swing dancing; widely, warmly known at the Rusty Nail; brings dates almost never — brought Vee on a dance night. Gets drunk girls home, leaves them at the door, doesn't take advantage (bartender-vouched). Skipped to college ~14–15; the hallway/long-division punishment year — "they took the thing you loved and made it the punishment." Loves math as "the language the world is written in"; total presence in bed = at the squat bar. Large scar high on inner thigh — "Not tonight." Names Daphne's harm as luck/best two years; defends her without hearing himself.
-- **Randi** (= Miranda) — female, 21. Sorority Standards. Disordered eating, hidden self-harm; curated face; only sets it down at his door. Size 7, same as Vee. Absent (but Vee resolves to go to her). Feeling for Vee reads at least partly real.
-- **Vee** (= Vivienne Thorne) — female, 21, junior. **Jacket protagonist. Present.** Tall, lush, warm dark-red hair, snub nose, cinnamon freckles. Econ; sharp room-reader, deep self-surveillance, lifelong body-shame; broke, unpayable card debt hidden from her own face. Ohio: nurse mother (Vivienne always), jet-engine father (Vee=love, Vivienne=trouble), one Army brother. Reads Pace precisely — but **misread the room at the bar catastrophically**, drawing the wrong rule.
-- **Cassie** (= Cassandra) — female. Vee's roommate/friend; clean love, immune clear eye; soccer. **Present (asleep) — and pointedly not called.** Vee refused to wake her because Cassie would want words for what she'd done.
-- **Daphne** — Pace's first, assigned older tutor: she 19, he 15, two years; left the year she turned 21. Mentioned-only this chapter (via prior state). Framed as older party; whether "the door he didn't respect" or the one who harmed him — ajar.
-- **Meg** — female, dorm friend two doors down; sourced Vee's dance clothes (borrowed boots via Dana, black keyhole shirt). Present, warm, dry. Peripheral.
-- **Kayla, Brooke, Christine, Theo, unnamed taller woman, the blonde at the bar, the older bartender** *(various)* — the blonde planted the poison; the bartender corrected the record ("wasn't him they were jealous of"). Both walk-ons, absent hereafter.
+**Feelings that moved:** Vee — I love her no less but she's *bigger* to me now, because she got to be petty and self-sabotaging and cruel and I still can't leave her; the shame-voice finally cost someone else and not just her, and that deepens her. Pace — his leaving without a word, untouched beer, moved him a notch *toward* me even as I keep the reader-shadow over him; whatever else is true, tonight he did nothing but teach a woman to dance and get accused for it. My unease about him didn't shrink, but it relocated: I trust his conduct-in-the-room more than ever, and the hidden-game dread is now *separate* from any doubt about his character on a dance floor. Randi isn't on the page but she looms at the end like a trap-door, and my distrust of her sharpened simply because Vee is about to run into her arms.
 
-**Relationship ledger**
+### Structured block
 
-*Core — Pace & Vee:*
-- **State:** involved (consummated: y — twice prior). secret, one-sided (Vee unaware of engineering). Care real and costly *and* serves a built apparatus. **Now: first real rupture — Vee wounded him publicly, he left; she resolves to repair.**
-- **warmth ↔ cold:** swung hard to cold at the bar — her venom, his mood draining to "still and plain," the untouched beer, the door letting in cold. But the warmth she torched was real (the dance, the frame, "there it is").
-- **isolation ↔ belonging:** the dance-floor belonging (his hand three-quarters of what she needed) collapsed into her isolation at the wall/stool. She stood *outside* both loves — refused Cassie, missed him.
-- **cherished ↔ used:** he treated her as the exception (brought her when he brings no one); she convinced herself she was "just next" — the misread. Reader sees cherished; she felt used and was wrong on the page's own terms.
-- **desire worked-on-her ↔ desire hers:** the lead literalized — "He's making me" / "I'm doing well" side by side; the frame "doing it now... nothing to do but take it." Hers and worked-on-her fused into one sensation she can't parse.
-- **This chapter:** rupture and resolve-to-repair. She wronged a man the page (and the bartender) vouch for; underneath the shame, the sensation of his lead keeps returning. She chooses to fix it *through Randi.*
+**Cast present (in person):** Vee; Pace; Meg (dorm room, boots/shirt scene); the blonde at the Rusty Nail; the older bartender; unnamed dancers/regulars who greet Pace. **Mentioned only:** Cassie (asleep, not interacted with); Randi (the destination, offstage); Dana on Third (boot source); Daphne (not named here, but the scar/history hovers under him).
 
-*Core — Vee with herself:*
-- **State:** managed surface over unlooked-at want; *floozy*/"slut" bruise now turned inward as self-punishment ("spread her legs like a slut"). Debt still hidden — and now bleeding (cab fare "meant for other things").
-- **This chapter:** her clear eye *failed* her at the bar — she read a rule that wasn't there. Cool morning reframes it as "information," but the failure stands: the surveillance that guards her can also lie to her.
+**Heat:** 2 — no sex on the page, but the dance-lesson frame (hand at the shoulder blade, "close it — come all the way in," the moment the lead takes her) is charged and sustained and did more to me than clothed tension usually does. The bar half is deliberately cold.
 
-*Core — Randi & Vee:*
-- **State:** Surface (Vee): closest, funniest friend, "practically a marriage." True: the operation's closer. Randi's feeling reads at least partly real.
-- **This chapter:** Vee turns *toward* Randi in her wound — chooses the closer over Cassie's clean love. No contact yet, but the vector is set. Reader dread high.
+**Romance:** 2 — the pad is real tenderness and mutual attunement ("There it is," quiet); then the chapter spends its second half rupturing the bond, and closes on remorse and resolve rather than repair. Warmth peaked early, then the ache.
 
-*Core — Pace & Randi:* involved (consummated: y), secret from her sorority world; he directs her desire toward Vee. **This chapter: no change (Randi absent), but the rupture Vee will bring to Randi may feed the operation.**
+**Motifs & images:** *The lead / frame / "give me something to push back against"* (first sighting as dance, but rhymes with all his "asking before taking" and leaving-the-choice-to-her — courtship as a thing she must bring weight to). *"There it is"* (repeat of his "there you are" surfacing-phrase, ch1/ch3). *The floozie/slut mother's-voice* (repeat, ch5/11/15/18 — here it detonates: "spread her legs like a slut," "Floozies. She watched them"). *Space kept vs. closed* (new — "the space you're keeping" is what gets you stepped on). *His shirt* (repeat — the traded/worn shirt, ch11/18; here poignantly washed to "fabric softener and no one," worn anyway). *Getting a girl home safe / doors* (the bartender's "leaves her at the door" rhymes with all the thresholds and Daphne's "door"). *Hunger/count* — she starts "a count" of the women, appetite turned to jealousy. *Cold on the wrong side of the glass* — inverted from "Rock": here the cold gets in.
 
-*Core — Randi with herself:* at war; face vs. person; sets it down only in his bed; real feeling breaking the surface — object ajar. **No change.**
+**Symbolism:** The **frame/lead** as consent and agency made physical — she can only be led if she brings her own resistance; passivity ("being jelly") fails. The whole chapter is a **Simpson's paradox** of evidence (recent lecture): identical facts about Pace read as devotion or as a racket depending on how she aggregates them, and she picks the ruinous aggregation. The **washed shirt** — intimacy laundered into anonymity, and reclaimed anyway — read as more than itself and earned it.
 
-*Vee & Cassie:* Central, clean; present but asleep and deliberately *not woken.* The gap widens by Vee's own choice — she refused the love that would ask for honesty. Cassie holds the love and, now more than ever, no fact.
+**Characterization:** Vee deepened most — allowed to be actively, unlikably wrong, and the interior stayed honest ("some part of her wanted to stay that way"). Pace deepened by restraint: the straight answer, the untouched beer, the wordless exit — consistent with the man who put a time on the scar-door. Meg is thin but functional (efficient dresser-of-friends). The blonde is a sketch, but a purposeful one. The bartender is a device with enough grit to pass.
 
-**What I know that they don't**
-- (Caring) Pace genuinely moved by Vee — brought her when he brings no one; **untouched beer, straight answer, walked out into the cold when she cut him.**
-- (Caring) The Rusty Nail confirms Pace as safe/good — gets drunk girls home, leaves them at the door, doesn't take advantage though many hoped he would.
-- (Caring) Pace genuinely moved by Randi — holds her, lets her set pace, doesn't seize what she can't hold.
-- (Caring) Pace's cold/shirt-sacrifice on the hike were real, unseen by Vee.
-- (Caring) The MRI patent is real, aimed at helping frightened sick people.
-- (Caring) Cassie's love for Vee is clean, senses the shape, lacks the fact — **and Vee just chose not to let it near this.**
-- (Caring/ajar) Randi's feeling for Vee reads at least partly real — object open.
-- (Reader-held) Pace was harmed young by Daphne (she 19, he 15) and names it luck; the reader sees the harm he can't; a boy whose first love ran on power-asymmetry now builds asymmetries and calls them consent.
-- (Using) Pace engineered Randi's attraction/"choice," harvesting involuntary response as consent; may have targeted Vee — ajar.
-- (Using) Pace & Randi run Vee as a coordinated operation — Randi the closer, Pace clearing the standard.
-- (Using) Randi engineered Vee into unpayable card debt for boutique shoes, framed as sisterhood; Vee hides it from her own face — **and it's now leaking (cab fare "meant for other things").**
-- The gown is built to Vee's exact stripped shape; riser/mirror at kneeling eye-level; Randi's boutique kneel echoed it.
-- Randi holds *everything* Vee withheld; extracts and withdraws as method; self-harms/eats disordered, unlooked-at.
-- Vee has been selected/pursued and doesn't know it; names it as free agency.
-- The flannel shirt Vee treasures was made by Pace. House kept too warm; two towels in a one-man house.
-- Brooke deliberately collected Pace's details; reason unknown. A silent taller woman appraised Vee like an object; who/why unknown.
-- Vee's want between women is live, physical, aimed at Randi.
-- (Struck-partial) Vee knows the scar exists and its rough length; not its cause — "not tonight."
-- (Structural, reader-only) Simpson's paradox: "short stretches can lie against the whole."
-- **(New, this chapter) At the bar, Vee's read of the room was *wrong* — she was the exception, the object of the women's jealousy, not "just next." Her sharpest instrument misfired. She now knows this (via the bartender) and moves to repair — but toward Randi, not Cassie.**
+**Pace — within the chapter:** Excellent internal shape. The lesson earns its length; the bar builds; the post-exit wall-watching and bartender exchange could feel like marking time but the "wasn't him they were jealous of" turn justifies the dwell. The taxi/room coda is quiet and right, not indulgent.
 
-**Motifs**
-- **The mother's voice — *floozy* / "slut"** — turned inward this chapter as self-punishment after three dates; the floozies on the dance floor she watches to flagellate herself. Bruise now a weapon she uses on herself. Adjacent: "Vee=love / Vivienne=trouble."
-- **The frame / the lead / "come all the way in"** — new, central: dancing as consent-and-control literalized. "Give me something to push back against." "The space you're keeping" gets you stepped on; the frame she fought as too-fixed becomes "nothing to do but take it." "I'm doing well / He's making me."
-- **"Not tonight" / the door with a time on it** — quiet (scar under her palm from prior). Doubled by his leaving through the cold door.
-- **The thing you love made a punishment** — quiet (hallway/long-division).
-- **The lift / total presence** — extends to the dance lead; the same immovable presence.
-- **Peter = rock** — quiet.
-- **The made shirt** — sharpened: washed to "fabric softener and no one," worn anyway; the smell rationed then lost. Grief-object.
-- **Money / the flinch she won't show** — cab fare "more than she'd guessed... meant for other things." Debt brushing the surface.
-- **Being watched / visibility → mortification** — "She was going to be visible"; the women tracking the couple; watching herself dance and losing it the moment she does.
-- **Kneeling / eye-level as method; Randi's warmth as a lamp; "made *to* you"; Randi's involuntary tightening; Sade under the door** — all quiet.
+**Pace — chapter to chapter:** A strong swing after the warm, low-conflict run of "Peekaboo"/"All Told"/"Sorority" and the tender "Rock." First real *rupture* between Vee and Pace, and it lands because those warm chapters banked the credit. Momentum building — and pointing, ominously, straight at Randi.
 
-**Symbolism noticed**
-- **The dance frame** = consent-and-control fused; surrender that works *because* the space is closed. The book's central image now made physical.
-- **Choosing Randi over Cassie** = turning from clean love (which asks for honesty) toward the operation (which offers comfort without words). Reader-read; page unmarked.
-- **The washed shirt = "no one"** = intimacy laundered out; she wears absence.
-- **Peter = rock; the hallway; Daphne/"named it luck"; Simpson's paradox** = standing.
+### The titles
 
-**Open questions**
-- **What does Vee's repair-through-Randi cost her? What does Randi do with a wounded, ashamed Vee?** *(new, top pull)*
-- What is the scar high on Pace's inner thigh? *(promised, "not tonight")*
-- Does the Daphne asymmetry drive Pace's consent-engineering? *(live)*
-- What does the unpayable debt cost Vee — and when does it fully surface? *(now leaking)*
-- What is Randi's tightening/aloud-wanting the sign of? *(live center)*
-- Where/when does the gown get worn, and who else is in that room?
-- Two towels — who is the second body?
-- What is Randi's white-gold wrist band?
-- Genuine restraint/patience vs. control (Pace). *(both; the bar strongly reinforced the genuine pole)*
-- Will Cassie's read reach the true shape? *(gap widening by Vee's choice)*
-- Who is the silent taller woman? Did Pace target Vee by name? Why is Brooke collecting his details? Endpoint?
-- How much of Randi's warmth is felt vs. played?
-- Is Daphne "the door he didn't respect" or the one who harmed him? *(ajar)*
-- Is Vee's drift costing her clear eye? *(YES this chapter — she misread the whole bar; blind to debt)*
-- The frosted-plum toe polish — by whom, for whom?
+"**Lesson**" reads innocent on the surface — the dance lesson, obviously. But by the end it's the harder second meaning: Vee gets a lesson, all right, and it isn't the three-step. It's about the frame, about bringing your weight, about what the shame-voice will cost you if you let it aim your mouth. It didn't give anything away going in; it recolored on the way out, which is the good kind of title.
 
-**How I feel — overall**
-Wrung out and moved. This chapter made Pace look *good* in a way the page and a neutral witness both vouch for — the untouched beer, the walking out — and made Vee wrong, cruelly wrong, to a good man; and the awful part is her being wrong is the most human she's been. Her instrument, the room-reading eye I trusted, failed her exactly when she needed it, and she turned the *floozy* wound on herself. Then the quiet gut-punch: she refuses Cassie's clean love because it would ask for words, and resolves to be comforted by the closer instead. The page doesn't mark that turn at all — which is why I feel it so much. No long spoon; she keeps closing the space. What I carry: a hand at a shoulder blade and a lead arriving before the feet know; a beer left on the bar; a shirt that smells of no one, worn anyway; and a girl deciding, in cool morning light, to walk toward the wrong door to make things right.
+**A Polite Invitation** and **With a Long Spoon**: the spoon phrase (sup with the devil, use a long spoon) keeps promising that closeness here is dangerous — and tonight closeness *is* the whole lesson ("come all the way in"), which makes the spoon's warning sit right against the dance's instruction in a way I find genuinely unsettling. The **tagline** on my jacket is "*Every yes was freely given. That was the problem.*" — and this chapter is the first where a *no*, freely given (her walking off, refusing the ride she didn't need), is the thing that wrecks her, which flips the tagline over interestingly: her freely-chosen anger was as much hers as any yes. The jacket's promise that she'd "want the woman beside her" hums under the final line, because the woman she's running to is Randi.
+
+**What I want / dread next:** I want the repair with Pace and I'm braced for it to be crooked. I *dread* the Randi scene — Vee carrying this fresh wound to exactly the person positioned to use it. Guess from here, marked as a guess: Randi "comforts" her about the dance-hall women in a way that draws her further open (and possibly further toward Randi herself), and the reconciliation with Pace gets routed *through* Randi's counsel — tightening the trap while it feels like rescue. I'll keep reading fast.

@@ -157,7 +157,7 @@ def discover_models(only: str | None) -> list[str]:
     root = REPO / "reviews" / "cold-read"
     models = sorted(d.name for d in root.iterdir()
                     if d.is_dir() and not d.name.startswith(".")
-                    and (d / "checkpoints").is_dir() or (d / "grounded").is_dir())
+                    and (d / "checkpoints").is_dir())
     return [m for m in models if not only or m == only]
 
 
@@ -175,7 +175,7 @@ def checkpoint_units(model: str):
 
 def read_units(model: str):
     """Yield (label, chapter, text) for each per-chapter grounded read of a model."""
-    d = REPO / "reviews" / "cold-read" / model / "grounded"
+    d = REPO / "reviews" / "cold-read" / model
     if not d.is_dir():
         return
     order = {slug: i + 1 for i, slug in enumerate(volume_scenes.volume_one_slugs(True))}

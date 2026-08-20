@@ -1,119 +1,43 @@
-# Cold read — Turned Up
+# Cold read (grounded) — Turned Up
 
-*scene: scenes/turned-up.md · prose-blob 0cb6dd4dd06d4e8571afd4ea67d5a82362c7baf3 · model: claude-sonnet-5 · read after: a-round · 2026-08-13*
-<!-- freshness: prose-blob = `git hash-object scenes/turned-up.md` at read time; if it differs from the live file's hash, this review is stale. -->
+*scene: scenes/turned-up.md · model: claude-sonnet-5 · memory: ck-ch010 + raw ch011..ch015 · reader-protocol: v3-grounded-checkpoint*
 
 ## Reader reaction
 
-This is such a lovely gear-shift after the fitting chapter — instead of staying inside the heat, we get Vee retelling it to Cassie, and it turns out the retelling is its own kind of intimacy, and its own kind of pleasure. I loved being back in Cassie's room for this. Cassie is doing everything right as a friend here — the stillness "in the way she got when she was paying attention," letting Vee pivot away from the heavy stuff when she needs to, catching pillows, not saying anything at the exact right moments ("Cassie said nothing, which was the right thing"). Their friendship continues to be one of the most trustworthy things in this book.
+Felt read
 
-The shirt reveal got me — Cassie clocking it immediately ("You've been sleeping in that shirt all week") and Vee's realization landing in real time, that she'd had the answer in her hands the whole week and just filed it under "weird things about him" rather than look at it. That's such a true, specific way to dramatize how she's been managing her own noticing — not lying to herself exactly, just declining to finish the thought. Nice callback too, tightening the "made not bought" motif without restating it as an idea — it just becomes a shirt on a pillow.
+Okay, this one lands soft and warm and funny in a way the earlier chapters didn't quite let themselves be, and I noticed the shift right away. After the truck, after the fitting — both of which had me holding my breath — "Turned Up" is Vee coming home and just... telling Cassie about it, and it's the most purely enjoyable stretch of reading in the book so far because it's Cassie. I love Cassie. I have loved her every chapter she's shown up in, and here she gets to be exactly what the checkpoint promised: "the one steady, unimplicated point of trust." She catches every thread (the shirt, the heat, the measuring, the kneeling) and instead of being alarmed she's delighted, teasing, protective in the low-key way that never curdles into policing Vee's joy. "You keep taking your shirt off in front of this guy and not getting any?" is such a good line — it's funny, and it's also doing real work, because it names out loud what the reader has been feeling: how strange and drawn-out this courtship is, how much restraint Pace is running, how much heat there is with almost no release.
 
-And then the tonal turn near the end is terrific — the chapter earns real warmth and vulnerability (the heated house detail, "Oh, Vee," the knee-touch, "like I was supposed to be there") and then Cassie breaks it wide open with comedy: "Are you sure he's not gay?" I laughed out loud at that, and at Vee's deadpan escalation of evidence, culminating in the ass-pat "diagram" gesture. It's a genuinely funny beat that doesn't puncture the tenderness — it sits right alongside it, the way friends actually talk.
+And then the reveal that Vee was the one grinding on him — "I was grinding on him" — is such a lovely, unguarded beat. It flips the whole fitting scene (which I read as him working very hard to hold a line) into something more mutual and funnier than I'd given it credit for in the moment. It made me warm toward Vee in a new way — not just aching for her, but genuinely charmed by her, delighted with her, laughing with her. She's not just the object of the plan here; she's got agency and mischief and a body she's finally starting to enjoy rather than apologize for. That's the biggest movement in this chapter for me: Vee visibly stepping into some ownership of her own wanting, joking about it instead of being ashamed of it, which is a real turn from the shame-voiced interiority of the fitting scene just before.
 
-The new information — Vee grinding on *him*, not the reverse — recasts something I'd read in the prior chapter's carry-forward with a slightly different valence. I had it as a "brush," deliberate but almost accidental-on-purpose with her breast to his jaw; here she confesses to something more overtly her own, more bodily, "a little" and delighted about it. It doesn't contradict anything, it just deepens the picture of her as an active agent in that scene rather than someone reacting to being seen. That felt earned, not retconned — this is exactly the kind of thing you'd confess to your best friend that you wouldn't narrate to yourself in the moment.
+Where does my feeling about Pace sit right now? Complicated, same as it's been, but this chapter doesn't add new dread about him — if anything it deepens the tenderness reading. The dress is an enormous, specific act of attention: he remembered an offhand, embarrassed thing she said and let go of, and built weeks of work around giving it back to her, unasked. The shirt-with-no-tag reveal is a lovely small mystery paying off — "he said it like it was nothing" — and it's the kind of detail that makes him feel real and generous rather than performative. I still carry the checkpoint's knowledge that his interest in Vee started as a game with Randi, and that shadow doesn't vanish, but this particular chapter, being once removed from him (all reported by Vee, filtered through her giddy retelling to Cassie), doesn't push me to reassess him — it just lets me enjoy watching Vee be happy for a minute.
 
-Trust and suspicion: no new suspicion of anyone on the page. Cassie remains completely trustworthy, warm, funny, perceptive. My reader-only unease about the "engineered collision" origin sits untouched, unmentioned — this chapter doesn't go near it, which is fine, it's not that kind of chapter.
+Swoon / pull: mostly here, honestly. The "house was warm because he turned the heat up for me" beat, revisited from the previous chapter and now understood, gets me — it's such a small, specific, non-showy kindness and Vee catching herself understanding it later is genuinely moving ("Oh, Vee," Cassie says, and I felt that too). And the whole scene of two girls collapsed on a dorm bed laughing about a boy is just warm, unguarded, good — friendship as its own kind of intimacy, comfortable in a way nothing with Randi has been.
 
-Erotic charge: low-key here by design — this is afterglow-and-retelling, not a scene itself, mostly heat in memory ("He was on his knees... I was up on the box looking down... I kept waiting to feel wrong about it. I didn't"). The one moment that actually charged the room was the confession about grinding, partly because of how reluctantly/gleefully she gets to it.
+Trust vs. suspicion: nothing new to distrust here — this chapter is Cassie-and-Vee only, no Randi, no Pace on the page. If anything my baseline suspicion (about the engineered origin of the courtship) goes quiet for a chapter because it's simply not in the room. I don't manufacture unease onto a scene that's just two friends laughing on a bed.
 
-Title: "Turned Up" — points cleanly at the heat detail (he turned the heat up before she arrived) but also, slyly, at the tonal register of the whole chapter — things intensifying, being dialed up, including her own daring. A nice double-use, not spoilery, satisfying in hindsight rather than giving anything away.
+Erotic charge: low-key here by design — this is the debrief chapter, not the scene itself, so the heat is retold rather than experienced, filtered through Vee's embarrassed, delighted narration and Cassie's teasing. It works as charge-by-relay: I feel the afterglow of the fitting scene refracted through comedy, which is a nice tonal register change rather than a letdown.
 
-What I want next: to see the finished dress, the call, whatever happens at or around the induction — and I'm newly curious whether Cassie's noticing (the shirt, the pattern of Vee taking her shirt off around this guy) will turn into her voicing real worry, since so far she's mostly delighted rather than wary.
+Friction: none really — the "are you sure he's not gay" bit toes right up to a joke that could feel like a cheap gag, but Vee's deadpan comeback about his "package" and the reveal that follows redeem it into something that's actually about Vee's own desire rather than about Pace, so it didn't bother me.
 
-**Cast present (in person):** Vee, Cassie
-**Mentioned only:** Pace (extensively, recounted)
+Titles: "Turned Up" is doing nice double work — the dress "turned up" (a hem term, and also just showing up/appearing), the heat "turned up" in the house, and Vee herself turned up — flushed, aroused, showing herself. It's a title that only fully clicks once you've read the chapter, which I liked; it wasn't spoiling anything, it was a little pun waiting to be earned.
 
-**Heat:** 1 — retold/remembered heat (the fitting recounted, the grinding confession), no scene-present sexual activity.
+What I want next: I want to see the dress finished and worn — that feels inevitable and I'm looking forward to it as a payoff moment. I'm also aware Randi has been entirely offstage for a few chapters now while Vee and Pace deepen, and I'm curious/a little wary about when she reenters and what that does to the temperature of things, given what I know and Vee doesn't.
 
-**Romance:** 2 — warmth throughout, Cassie's tenderness toward Vee's vulnerability, the "Oh, Vee" moment; not a peak/declaration but sustained clear intimacy (between the two women's friendship, and refracted from Vee/Pace).
+Structured block
 
-**Motifs & images:** The shirt (first raised in prior chapters as an unresolved mystery; here explicitly resolved — no tag, hand-sewn, the softest thing she owns — folded on her pillow by chapter's end, a new charged instance). The heat/warmth motif (he turned the heat up before she arrived) — echoes "tea and blanket" caretaking from last chapter, now explicitly named and dwelt on by Vee herself as a realization. "He left me a door" — new phrasing for consent-as-invitation, resonant with prior "he left it open" framing of his restraint. The riser/platform — repeated from last chapter, now narrated with self-aware comedy ("For me to stand on").
+Cast present (in person): Vee, Cassie. (Pace is present only via Vee's retelling, not on the page in this chapter; Randi, Randi's own POV, and the sorority world are absent entirely.)
 
-**Symbolism:** The shirt as literal evidence of care she didn't want to examine too closely — reads as the chapter's central symbol, the thing hidden in plain sight (on her body, in her bed) that she chose not to solve.
+Heat: 1 — no scene of sexual activity here, but the retelling carries real charge (the bra reveal, the grinding admission, the kneeling); it's warm/comic-charged rather than graphic.
 
-**Characterization:** Cassie deepens — her comic timing, her perceptiveness, her restraint (letting Vee pivot, saying nothing at the right moment) all consistent with and adding to her established warmth. Vee deepens too — the retelling shows her processing shame and pleasure by narrating it to someone safe, and reveals a boldness (the confession about grinding) she hadn't let herself name even internally in the last chapter. No characters flattened.
+Romance: 2 — clear tenderness, mostly refracted (Vee narrating Pace's care to Cassie), plus a strong beat of platonic intimacy/warmth between Vee and Cassie that reads as its own kind of romance-adjacent devotion.
 
-**Pace — within chapter:** Well-judged — comic beats and tender beats alternate without either overstaying; nothing dragged.
+Motifs & images: the shirt with no tag (first raised in "Two Towels," paid off here as Pace-made — repeat/payoff); the turned-up heat (repeat from "A Round," now explicitly understood by Vee as an act of care — repeat/payoff); the dress/burgundy silk (continuing from "Two Towels" and "A Round"); the box/riser (repeat); "May I—" motif echoed obliquely in "it was like his eyes asked, May I look" (repeat of the series' verbal signature, restated as an image rather than dialogue); pillow-throwing between Vee and Cassie (echoes the pool pillow-throw noted in the checkpoint as their mutual-comfort gesture — repeat).
 
-**Pace — chapter to chapter:** A deliberate cool-down/processing beat after the intensity of the fitting — good structural rhythm, not repetitive; different register (comedic, retrospective, dialogue-driven vs. the previous chapter's sustained sensory immersion).
+Symbolism: the shirt-with-no-tag as a small mystery of unearned, uncredited care — its solving here ("he said it like it was nothing") reads as symbolic of how much of his attention to her has been happening invisibly, before she had the frame to see it.
 
----
+Characterization: Cassie deepens beautifully here — funny, exact, protective without being a killjoy, catching every implication without moralizing. Vee also deepens in a good direction: this is the first chapter where her interiority is mostly delight and ownership rather than shame-managed hunger, a real and earned turn given the fitting scene right before it. Pace stays consistent (offstage, described only through Vee's admiring retelling) — no new information, no flattening.
 
-## Carry-forward state
+Pace — within chapter: unhurried in the best way; it's basically one long scene of two friends talking and it earns its length through the specificity of the back-and-forth (the comic beats land, the quiet beats land, nothing drags).
 
-**Principals**
-- **Pace** (= Peter) — man, controlled, patient, courtly; involved with Randi (offstage this chapter, mentioned-only via retelling). Lives alone, small vinyl-sided house, woodshop garage, doctorate in math, MRI patent income, builds his own furniture, made the shirt Vee's worn since the hike (confirmed by Vee this chapter — no tag, hand-sewn, softest thing she owns). This chapter (not present, recounted by Vee to Cassie): fitting session recapped — turned the heat up hours in advance so she wouldn't be cold, measured her fully undressed on a riser he built, asked without quite asking ("the bra changes the line" — left the door open), knelt to do the hem, never made her feel wrong for it, looked at her "like he'd decided I was worth it."
-- **Vee** (= Vivienne) — present, central, POV. This chapter: recounts the prior fitting chapter to Cassie in her dorm room, processing it aloud — names for the first time that the shirt he made has no tag and is the softest thing she owns; realizes she'd filed the shirt-mystery away rather than look at it; describes the fitting's intimacy and vulnerability (the heat, the "left me a door," being seen and not feeling wrong about it — "like I was supposed to be there"); confesses, laughing and delighted, that during the fitting *she* initiated grinding against him at the back seam ("A little... I leaned — I sort of —"), a new specific admitted by her own account, not previously stated on the page. Ends the chapter lying on Cassie's bed laughing, warm and light.
-- **Randi** (= Miranda) — woman, black hair, twenty-one-ish, involved with Pace (consummated, ongoing). Not present or mentioned this chapter.
-- **Cassie** (= Cassandra) — present. Roommate/close friend, on her bed with textbook and highlighter at chapter start. This chapter: draws the shirt-connection out of Vee immediately; listens with focused attention, lets Vee pivot when needed, says nothing at the emotionally heaviest moments (right response), touches Vee's knee once wordlessly at "like I was supposed to be there," then pivots the whole chapter into comedy — repeatedly, pointedly asks "Are you sure he's not gay?" building a joke-case (sewing, tape measure, no reaction to nudity) that Vee rebuts, culminating in mutual hysterical laughter over Vee's confession. Screamed in the hall when Vee's induction letter came (recalled detail, new).
-- **Meg** — not present or mentioned this chapter. Prior notes stand: dark-haired, level, calm, dating Danny.
-- **Kayla** — not present or mentioned this chapter.
-- Theo, Danny — mentioned-only previously; not present or mentioned this chapter.
-- Brooke, unnamed taller woman, Christine, Daphne, Sloane, Kinsey — not present, not mentioned this chapter; prior notes stand.
-
-**Relationship ledger**
-
-*Pace ↔ Randi* — Core. State: involved (consummated: yes, ongoing). Not on page this chapter; no change to standing read.
-
-*Pace ↔ Vee* — Core. State: attracted → involved (secret from Vee re: origin; consummated: no — furthest point still unrepeated).
-  - Warmth ↔ cold: still at its warmest yet, reaffirmed and dwelt on by Vee in the retelling — the heat turned up specifically for her arrival is now something *she* has consciously named and marveled at ("He thought of it then"), not just something the reader noticed.
-  - Isolation ↔ belonging: belonging deepened further — Vee telling Cassie everything, unguarded, and finding comedy and warmth rather than shame in the retelling, shows the fitting's effect persisting past the moment itself.
-  - Cherished ↔ used: still reads overwhelmingly cherished from Vee's side; no complicating note this chapter (Pace absent, only recounted).
-  - Desire worked-on-her ↔ desire hers: tips further toward hers — the new admission that *she* initiated the grinding (not just the deliberate breast-brush already known) is Vee's own account of her own active desire, confessed with delight rather than shame.
-  - This chapter: no new events between them (Pace absent) — this is Vee processing/recounting last chapter to Cassie; the "this chapter" note is about Vee's own relationship to what happened, not a new movement in the Pace/Vee bond itself. New concrete fact added to the record: Vee ground against him during the fitting, by her own account.
-
-*Randi ↔ Vee* — Core. Not on page this chapter. Standing state fully intact: friends (close). No change.
-
-*Vee ↔ Cassie* — Core. On page, warm and central this chapter. State: friends (close) — reaffirmed and textured: Cassie's attentive listening, well-timed silence, physical comfort (knee touch), and comic deflation of tension (the "is he gay" bit) all read as a close, trusted, easy friendship. No axis shift, just confirmation/deepening of belonging and warmth already established.
-  - This chapter: Vee tells Cassie everything about the fitting; Cassie receives it with warmth then humor; new specific shared between them (the shirt's origin, the grinding confession) that deepens intimacy of disclosure between the two women.
-
-**Everything else**
-- Vee ↔ Meg, Vee ↔ Kayla, Vee ↔ Theo — no change, not on page.
-
-**What I know that they don't**
-- Vee has been selected/approached under false pretenses by Pace (engineered "collision" via Randi) — untouched this chapter; sits underneath the whole warm, funny retelling with unaddressed weight.
-- Randi's active steering of Vee's narrative about Pace (prior chapter) — untested here, Randi absent.
-- Randi's private resolve never to let Pace see her fully unarmored self again — untested here; the contrast with Vee's total unguardedness (now doubled by Vee happily narrating it to Cassie) sharpens the question further.
-- Pace's real tenderness — reaffirmed via Vee's retelling; no new information about him directly (he's absent), but Vee's own account continues to tip hard toward genuine.
-- Cassie's unreadable look toward Randi — still standing, unaddressed.
-- Vee's thin underlying knowledge of Pace's family/background — untouched this chapter; the "are your parents rich?" flinch from an earlier chapter remains the sharpest unanswered thread about him.
-
-**Motifs**
-- **Mother's internalized voice / self-policing** — established, sharply present last chapter ("stripper," "floozie," "can he tell"); not directly voiced this chapter, though the whole retelling implicitly continues to process and undercut that shame with laughter and comfort instead.
-- **Body as public property / gaze vs. chosen exposure** — carried forward via retelling; Vee narrates the fitting's exposure now with pride and humor rather than dread, a marked shift in her relationship to the memory itself.
-- **Giving something of his own to cover/protect her** — the shirt motif resolves explicitly this chapter: no tag, handmade, softest thing she owns, now folded on her pillow — the clearest, most concrete instance yet of "made not bought, hands doing the work."
-- **Made-not-bought, hands doing the work** — gist: Pace's love expressed as craft, patience, attention. Most charged instances retained: "*he'd been right about the color the way he was right about everything he went all the way into*" (fitting chapter) and now the shirt confirmed as his handiwork, discovered by Cassie mid-conversation.
-- **"He left me a door" / consent as invitation without the word** — new phrasing this chapter for how Vee frames Pace's way of asking ("The bra changes the line... he left it open. He left me a door"); resonant with prior "the smile of a man who had just received an unexpected gift" framing of consent and restraint.
-- **The riser/platform** — carried from last chapter; now narrated by Vee with self-deprecating comedy ("For me to stand on. ... For me to stand on.").
-- **"Leave no trace"** — established, not present this chapter.
-- **Food/appetite as intimacy** — not present this chapter.
-- **The threshold / unopened door** — not present this chapter; carries forward unresolved.
-- **Two towels** — not present this chapter; still an unresolved title-flagged image, watching for recurrence.
-
-**Symbolism**
-- The valley view / lake, the glassed porch — established, not present this chapter (mentioned once as "his sun porch," where the silk was laid out).
-- The cherry pits / wax paper — established, not present this chapter (referenced once: "on the hike, up on the rocks with the cherries," confirming where Vee first told him about the dress/color).
-- His shirt / the truck — established; this chapter fully resolves the shirt's origin as his handiwork, no tag, made because "he couldn't find one he liked."
-- The siren (interruption) — established as open, uninterpreted; not mentioned this chapter.
-- The shut bedroom door — carried from earlier chapter, untouched this chapter.
-- The stain on the satin — established as last chapter's central symbolic object; not directly referenced this chapter, though the whole retelling processes its aftermath.
-- The riser/platform — see Motifs above.
-
-**Open questions**
-- How far does the Vee/Randi/Pace triangle go, and toward what end? Untouched this chapter.
-- Will Vee learn she was selected/targeted, and how would she react? Still open.
-- Will Randi's resolve to hide her true self from Pace hold? Still untested; sharpened further by this chapter's doubled unguardedness (Vee to Pace, and now Vee to Cassie about Pace).
-- What happened with Daphne, and does it rhyme with Vee's situation? Still open.
-- Is Randi's self-concealment traceable to a specific cause, or baseline? Still open.
-- Will Brooke, Sloane, Kinsey, or the unnamed taller woman recur, and who was she? Still open.
-- What does Cassie know or suspect (toward Pace, and now possibly toward Randi)? Still open, untouched — though this chapter shows Cassie is sharply observant (the shirt) and not shy about pressing Vee, which raises the stakes on what she might eventually notice or ask about Randi.
-- Is Pace's attentiveness toward Vee genuine on its own terms, or purely instrumental? Continues to tip hard toward genuine via Vee's own retelling; the origin-of-collision fact (known to reader, not Vee) remains the unresolved shadow.
-- What was Pace about to say to her when the siren cut them off? Still open, not referenced this chapter.
-- What's behind the closed bedroom door, and will it stay closed? Still open, untouched this chapter.
-- What is Pace's family background, and why did "are your parents rich?" produce a visible flinch? Still open, untouched this chapter.
-- How will "keep still" — his choice to hold back rather than take what she offered — play out? Will the restraint hold next time, or was that chapter the last time he stops it? Still open, untouched this chapter (not directly recounted, though the general restraint/consent theme is echoed via "he left me a door").
-- Will the dress itself (finished, worn) become a scene in its own right — the induction night? Reaffirmed as anticipated — "He's not done... He'll call me when it's ready," explicitly flagged by Vee as still to come.
-
-**How I feel — overall**
-Warm, delighted, a little giddy along with Vee and Cassie — this was a lovely, funny, tender breather chapter that let the previous chapter's intensity settle and be metabolized through friendship rather than just left to sit raw. My trust in Cassie as a genuinely good friend to Vee is fully reaffirmed and specific now (the listening, the well-timed silence, the humor that doesn't puncture anything real). My read on Pace continues to deepen toward genuine tenderness, filtered now through Vee's own retelling rather than direct scene — which if anything makes it more convincing, since it's clearly how *she's* processing it, not just how the prose frames it. The reader-only unease about the engineered origin remains exactly where it was — untouched, unraised, quietly waiting — but this chapter didn't add to it, it just let the good thing be good for a while.
+Pace — chapter to chapter: this is a deliberate exhale after two very intense, slow-build sensory chapters ("Leave No Trace"/"Rye" and "Two Towels"/"A Round"). It functions as a release valve — comic, warm, lower stakes — before (I'd guess) something ratchets again. Good rhythm; doesn't feel like sagging, feels like a held breath let out.

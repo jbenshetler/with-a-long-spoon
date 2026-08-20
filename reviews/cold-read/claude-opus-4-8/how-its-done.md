@@ -1,136 +1,53 @@
-# Cold read — How It's Done
+# Cold read (grounded) — How It's Done
 
-*scene: scenes/how-its-done.md · prose-blob 8edccfc1089d7695c47e789f32ab292bd6077c3f · model: claude-opus-4-8 · read after: turned-up · 2026-08-13*
-<!-- freshness: prose-blob = `git hash-object scenes/how-its-done.md` at read time; if it differs from the live file's hash, this review is stale. -->
+*scene: scenes/how-its-done.md · model: claude-opus-4-8 · memory: ck-ch010 + raw ch011..ch016 · reader-protocol: v3-grounded-checkpoint*
 
 ## Reader reaction
 
-So this is the one where I finally watch Randi *work*, up close, for a whole chapter — and it is the coldest, most beautifully executed thing in the book so far, and it chilled me right through the swoon I kept trying to feel.
+FELT READ
 
-The whole lunch is an extraction dressed as girl-talk. Randi walks Vee down the exact staircase, one soft *yeah* at a time — "all the best ones start at the left hip," which "meant nothing at all and landed like a benediction." She disarms the shame first (the bra: "it's not a *thing*, it's just how it's done," the salad-fork voice), because you can't get a confession out of someone who's still ashamed. Then she springs the hook — "*challenges*?" — and Vee's flat "It was cold in the house" hands her everything. "Cold. Hmm." She *got* it. She now holds the one thing Vee has never told Cassie or anyone — the arousal on the platform — and she pried it loose in twenty minutes over tomato soup. That's the closer's craft and I felt the temperature drop watching it.
+Oh, this one worked on me and then turned the knife, and it did both so smoothly I didn't feel the second thing coming until it had already happened — which, I think, is exactly the point, because it's also exactly what happens to Vee.
 
-And then the move that actually frightened me: at the very peak, when Vee's mouth is opening to give up the deepest thing, wanting to *set it down and be forgiven* — Randi closes the door. "You don't have to tell me." Gentle, kind, "a door closing very softly." She denies Vee the release. That's Pace's rhythm exactly — close, and then not close, step away — now in Randi's hands. She took the confirmation and withheld the absolution, and left the secret "half out of her with nowhere to go." The withdrawal is the charged thing, same as him. They really are running the same instrument.
+Let me start with where I melted, because I did. Not at Randi — at the memory of Pace still ringing through Vee. But the swoon in *this* chapter belongs to Randi, and it's a nastier kind of swoon, the swoon of being courted. That car. The window that drops half an inch to meet the door and seals itself back up "like the car was tucking itself in around her" — I felt Vee's whole body go soft into the leather, felt her become "a person who rode in cars like this with people like Randi," and I wanted it for her the way she wanted it, the pure animal pleasure of being folded into something expensive and cared-for. The green velvet booth, the Sinatra, the bread smell arriving "in the body before the mind." Helen Rivers is very good at plenty, at the physical seduction of comfort, and I was in it.
 
-The scarf-and-tickling story is the thesis planted for Vee to swallow: "a little helpless can be a very good thing. Done right." "Somebody takes them, and you *can't* hold them even if you wanted to." She's teaching surrender across a booth, and the picture — Randi tied and helpless and laughing, "that finished surface finally cracked all the way open" — lands real heat low in Vee that she has "no shelf for." That heat is genuinely Vee's, and it's aimed at Randi now, not filed as gratitude anymore.
+And the smile. The chapter opens by telling me Randi's smile is *different* today — "the performance gone out of it," slower, quieter, "a thing spent rather than handed around." And here's where my checkpoint memory did its dark work on me. Because I know what Vee doesn't: I know Randi is the woman on the bench, I know this whole friendship is engineered, I know Vee is a chosen target. So when the text hands me a *softer, less-performed Randi*, I don't get to relax into it the way Vee does. I sat there the entire lunch with a low dread, watching a professional at work. And the genius, the cruelty of the writing, is that the softness might be *real* — the blurb warned me it got real for the planners too — so I can't even cleanly call it a con. I'm suspended exactly where I'm meant to be: is this a woman falling, or a woman fishing? Both. Probably both.
 
-The crack that keeps it from being pure machine: when Vee glows *he looked at me and I was fine*, "something had gone tight behind" Randi's smile, her thumb working the water glass. Vee reads it two ways and picks the kind one; I couldn't pick. Jealousy of Pace? Of the attention? Something actually stirred toward Vee she didn't plan? The page leaves it ajar and I'm leaving it ajar — but it's the first sign Randi might not be all instrument.
+The lunch itself is a masterpiece of extraction and I watched it as a horror scene wearing the clothes of a girls'-lunch scene. The title — "How It's Done" — lands like a slap once you've read it. It's the exact phrase Randi uses to disarm Vee's shame: "Nobody measures over a bra... it's just how it's done." She reaches into the one moment where Vee felt exposed and *normalizes* it, tells her everybody knows this, there's nothing to be ashamed of — and the instant the shame lets go, the door swings open and Vee gives up the next piece. "The bra too," Vee says. And I felt the trap close, because I'd watched Randi build it: make the girl feel safe, make the shameful thing ordinary, and she'll hand you the rest. "How it's done" is also, coldly, *how you do this to a person.* The title is the method.
 
-Then the kiss. Not the cheek-thing — "a small drawing-back, the barest pause, and then back again with a little more, a second press that had something in it the first one hadn't." First physical advance, and it's soft and predatory at once. Vee explains it away before her mouth is her own — "*French*, it's a French thing" — and *then* the cold scan of the dark windows, the fear of being seen. Her clear eye is still firing (she clocked the tightness, knew she was "caught"), but the wanting overrides every read now. The drift is starting to cost her the thing that made her Vee.
+The scarf story wrecked me a little, for what it revealed. Randi telling the tickling-then-off-like-a-rocket story — tied to a headboard, helpless, control gone — and I *know* that's her own bench displaced onto some "beautiful idiot," her real thing dressed up as a fun anecdote. "You spend your whole life holding the reins so tight your hands cramp. And then somebody takes them." That's her, on the bench, weeping, that's the exact thing Pace did to her and she fled from. She's handing Vee her own deepest fracture as a party favor — and using it as a soft on-ramp to make helplessness sound delicious. I felt the double floor under it and ached for her even as I watched her weaponize it.
 
-The title, **"How It's Done,"** is nasty on the second thought — it's Randi's own disarming line about the bra, and it's the demonstration of how the work gets done, both at once. It gave nothing away going in and turned to ice going out. The band at Randi's wrist — white gold, plain, heavy, "the one fixed thing," never without it — snagged me; it's worn like a vow. I don't know what it is and now I want to.
+And the heat Vee couldn't look at: "not the man, the man was nobody, but Randi, Randi naked and helpless and laughing... the heat the picture put low in Vee." There it is, finally on the page — Vee's pull toward Randi, the thing the blurb promised she'd never let herself notice. And she doesn't notice; she heads it off with a joke, "you're banned from my whole bedroom," and lets the warmth cover it. The book is being honest with me and dishonest with her at the same time, and I find that erotically and emotionally alive. It's working.
 
-**Heat:** 2 — the scarf story, the extraction, the kiss all carry real charge; nothing explicit. **Swoon** and dread fused tighter than ever: the car, the singing, "the best one of my life" genuinely lifted me, and every warm beat was also a lever.
+The place where the chapter caught *me* off guard: the "cold" beat. "It was cold in the house." — flat, defensive, too fast, over the one detail (the arousal) she'd never say. And Randi just sets the word down: "Cold. Hmm." And Vee cracks and gives it up — "actually it was really *hot*" — and the two laughs go up together. I laughed with them, genuinely, and *then* felt sick, because I'd just watched Vee surrender the last-but-one thing under nothing more than warmth and a raised eyebrow. The scene taught me its own mechanism and then ran it on me.
 
-## Carry-forward state
+And then the turn I did not see coming, and think is the best-made thing in the chapter: Randi *stops*. Vee is dreamy, on the pedestal in memory, the deepest folded thing rising — "the wanting to *give* it, finally" — her mouth opening — and Randi says, "You don't have to tell me." Gentle. Kind. "A door closing very softly." And the laugh doesn't come. My first read was tenderness — she spared her. My second, colder read: she left the secret *half out with nowhere to go*, which is a far more binding thing than taking it. She's taught Vee's body that this booth is where the secret wants out, and then denied it the release, so the wanting stays live, owed, pointed at Randi. That's either mercy or the most sophisticated move in the whole seduction, and the page genuinely leaves it ajar — "her secret was still half out of her with nowhere to go" — so I'm leaving it ajar too. But my skin says: that was technique.
 
-**Principals**
-- **Pace** (= Peter) — male. Math PhD near done, powerlifter, builds furniture; runs meticulous-consent scenes; engineered Randi's attraction and the staged collision; unhurried, constructs. Absent this chapter (the fitting recounted). Making Vee the burgundy silk gown by hand; "He'll call me when it's ready."
-- **Randi** (= Miranda) — female, 21. Sorority Standards. Disordered eating, hidden self-harm; curated face. **Present, active, first full on-page chapter.** Drives a dark-green Mercedes convertible; wears a plain heavy white-gold band at her wrist she's never without. Ran the lunch as an extraction disguised as girl-talk; pried loose Vee's never-told arousal-on-the-platform; deployed the withdrawal (closed the door at the peak); kissed Vee on the mouth with intent. One tell of something real: tightness behind her smile when Vee glowed about Pace looking at her.
-- **Vee** (= Vivienne Thorne) — female, 21, junior. **Jacket protagonist.** Tall, lush, warm dark-red hair, snub nose, cinnamon freckles. Econ major; sharp room-reader, deep self-surveillance; lifelong body-shame. Broke (debit card, counts the column, feels lunch on Thursday). This chapter: led down into confessing the fitting's heat; clocked Randi's tightness and her own caught-ness but explained it all away; kissed and rationalized it as "French"; then scanned the dark windows in fear of being seen.
-- **Cassie** (= Cassandra) — female. Vee's roommate/friend; clean love, immune clear eye. Absent this chapter. Doesn't know the arousal secret — Randi now does.
-- **Kayla** — female; bright amplifier. Absent.
-- **Meg** — female, calm/level; gave the soft warning that slid off. Absent.
-- **Brooke** — sorority president; deliberately collected Pace's details; clocked the Vee/Randi display. Absent.
-- **Unnamed taller woman** *(identity open)* — appraised Vee like merchandise. Absent; held open.
-- **Christine** — runs the small restaurant, knows Pace. Absent.
-- **Daphne** — Pace's past, the "door" he didn't respect. Absent.
-- **Theo** — asked Vee out in September; she said friends. Texture only.
+Trust and suspicion: I have no *new* reason to trust Randi and every reason not to, but the chapter refuses to let me hate her, because the tight muscle behind the smile, the thumb working the water glass while Vee says "he looked at me and I was fine" — that read to me as *real distress*, jealousy or grief or both, not performance. Something in Randi hurts when Vee describes being seen by Pace. That's the blurb's "how real it would get" bleeding through, and it's the most human she's been since the bench. So my feeling about her *moved* — not toward trust, but toward a sharper pity braided with sharper alarm. She's dangerous and she's bleeding.
 
-**Relationship ledger**
+The final kiss. Not the cheek. "A second press that had something in it the first one hadn't." And Vee explaining it away — "*French*... that's just how women like her say goodbye" — with the exact reflex she uses on everything (the too-warm house, the tagless shirt, the softer smile). She has a whole apparatus for not-knowing, and I watched it engage in real time. And then the cold thought: *had anyone seen?* Scanning the dark windows. That's the thing that unsettled me most cleanly, because it's Vee's own body telling her this was *not nothing*, not a French goodbye — you don't scan windows over a peck. Her shame-radar knows what her narration won't say. The green scent "there and then gone." I ended the chapter with her standing on the curb, fingers to her mouth, and I felt the ground she doesn't know is gone.
 
-*Core — Pace & Randi:*
-- **State:** involved (consummated: y), secret from her sorority world. Surface/true diverge. He directs her desire outward toward Vee under a shared-game/gift frame.
-- **warmth ↔ cold:** lavish warmth as instrument.
-- **isolation ↔ belonging:** two-of-them intimacy; game routes wanting through him.
-- **cherished ↔ used:** treasures her *and* uses her — reads involuntary response as data.
-- **desire worked-on-her ↔ desire hers:** wanting produced in her; she re-assigns it to him.
-- **This chapter:** offstage, but Randi executed the closer-work flawlessly and *live* — the operation is running exactly as framed. The one crack (her tightness when Vee praised Pace's looking) raises, ajar, whether Randi's investment in Vee is straying past the assignment.
+Erotic charge: high and specifically strange — it's the charge of a seduction Vee isn't consenting to because she doesn't know it's happening, which sits uneasily against everything the book has taught me to love about Pace's *asking*. Here nobody asks. Randi extracts, steers, kisses without the "may I." That contrast is doing real work; the heat came with a genuine chill under it. It peaked for me at the scarf story (the displaced bench) and the kiss.
 
-*Core — Randi with herself:*
-- **State:** at war; the face vs. the person under it. Execution seamless — I watched it this chapter and it was airtight. Live: how much warmth toward Vee is felt vs. played, ajar — with one new data point *for* real feeling (the involuntary tightness she folded away in a second).
-- Axes: cold/isolation/used/worked-on inward. **This chapter:** the seam nearly showed once, then closed.
+Friction: almost none. The one place I felt a faint thumb was Vee's double-take reading of the tight smile — "she thinks I'm awful"/"maybe she's moved" — where the narration walks her through both interpretations a touch fully; but it also *is* how Vee reaches for the kind reading, so I forgive it. Otherwise the prose is controlled and the dialogue crackles.
 
-*Core — Randi & Vee:*
-- **State:** moved this chapter. Surface (Vee): adored friend, now with a kiss on the mouth she's confused and warmed by. True: closer escalating the operation — extracted Vee's deepest hidden arousal, deployed the withdrawal, made a physical advance. Asymmetric and widening hard: Randi now *knows the platform-arousal secret Vee has told no one*; Vee thinks glamorous-friend-who's-glad-for-her. Vee's queer want, formerly filed as gratitude, is now live heat aimed at Randi (the tied/helpless picture).
-- Axes on Vee's side: warmth (fed, chosen, peak); belonging (rode-in-the-car lift); cherished; **desire hers ↔ worked-on-her** — her arousal at Randi is genuinely felt AND being steered/extracted; both true.
-- **This chapter:** first physical advance — a real kiss with a deliberate second press; plus the extraction. Big move on the true axis; Vee explained the kiss away as "French."
+The book's title and series line: "A Polite Invitation" — this chapter *is* an invitation, issued so politely Vee thanks her for it and pays the check. "With a Long Spoon" — you sup with the devil with a long spoon. Randi came in close over the table, brought Vee "in with her," and I kept thinking: this is the long spoon reversed — the girl who has no spoon at all, leaning all the way in. The tagline, "Every yes was freely given. That was the problem." — I felt the full weight of it here. Every step of this lunch Vee gave freely, gladly; nobody made her; and that's precisely the horror.
 
-*Core — Vee with herself:*
-- **State:** managed surface over unlooked-at want; reads every room, still not the one run on her. This chapter her surveillance *fired* (caught Randi's tightness, knew she was "caught," felt the ground shift) but the wanting overrode every read and she explained the kiss and the tightness away in real time. The freed/joy self from last chapter met a colder undertow here: caught-ness, fear of being seen at the window. The clear eye is being overridden by desire — the drift beginning to cost her.
-- **This chapter:** confessed the hidden fitting-heat aloud under Randi's leading; her secret was taken and the absolution withheld; she scanned the dark windows afraid.
+What I want next: I want Pace and Vee, honestly, because that thread has warmth I can rest in — but I dread the collision of the two seductions, the moment these two operations meet on Vee's actual body. I want to know what that green scent and that second press mean for Randi — whether she's running the play or losing to it. Guess from here, marked as a guess: the induction and the burgundy dress are the appointment everything is walking toward, and Randi will be there, watching Vee be seen, and I don't think she'll be able to stand it.
 
-*Core — Pace & Vee:*
-- **State:** involved-adjacent, intensifying on Vee's side; **still not consummated (consummated: n).** secret, one-sided (Vee unaware of engineering). Care real and costly *and* serves a built apparatus — both poles stand. This chapter Vee re-narrated the fitting (heat-up, top off, "I was fine") as the most romantic thing anyone's done; the gown is being made, not finished.
-- Axes on Vee's side: warmth (peak); belonging; cherished (peak); desire experienced as hers, read by me as largely produced. Both true.
-- **This chapter:** no new advance; the retelling to Randi handed the operation its confirmation.
+STRUCTURED BLOCK
 
-*Vee & Cassie:* **Core-adjacent, central.** Roommates/friends, clean love. Cassie does NOT have the platform-arousal secret — Randi extracted it instead. Warmest room in the book; asymmetry stands.
+Cast present (in person): Vee, Randi. Mentioned only: Pace (the whole lunch orbits him), Cassie, Brooke, Meg/Kayla-era friends implied, the "beautiful idiot" of Randi's story, Vee's father (the Corolla voice).
 
-*Vee & Kayla / Vee & Meg:* Easy, warm; Kayla the amplifier, Meg the calm warner. Absent.
+Heat: 2 — no sex on the page, but sustained erotic charge: Vee's unnamed arousal at the image of Randi bound and helpless, the extraction of her own arousal memory, and a real, lingering mouth-kiss to close. Charged throughout, explicit only in recalled/verbal register.
 
-*Randi & Brooke / Randi & Cassie:* no change.
+Romance: 2 — clear, if sinister, intimacy: the softened smile, "God, I love you," "come here," the kiss and "see you soon, gorgeous." Tenderness that reads as courtship — I can't tell whose romance it is, which is the point.
 
-**What I know that they don't**
-- (Caring) Pace is genuinely moved by Randi, glad of her pleasure; believes he gives a gift.
-- (Caring) Pace's cold/shirt-sacrifice on the hike were real and unseen by Vee.
-- (Caring) The MRI patent is real, aimed at helping frightened sick people — a true generosity.
-- (Caring) Cassie's love for Vee is clean, reads her well, senses the shape, lacks the fact.
-- (Caring) In the fitting Pace never looked down while she was mortified, honored her exposure, chose restraint at cost, kissed the pin-hurt — genuine tenderness and want.
-- (Caring, ajar) Something in Randi went involuntarily tight when Vee glowed about Pace looking at her — possibly real feeling straying past the assignment.
-- (Using) Pace engineered Randi's attraction and "choice," harvesting involuntary response as consent; may have targeted Vee — ajar.
-- Pace & Randi run Vee as a coordinated operation — Randi the closer, Pace clearing the standard.
-- **Randi now holds Vee's platform-arousal secret** — pried loose over lunch; Vee has told no one else, not even Cassie.
-- **Randi extracts and withdraws as method** — she disarmed Vee's shame ("just how it's done"), got the confirmation, then closed the door at the peak and denied the release; the withdrawal is technique, mirroring Pace's rhythm.
-- **The kiss was intentional** — the second press "had something in it the first one hadn't"; Vee filed it as "French."
-- Randi self-harms / eats disordered unconsciously; nobody, including her, is looking.
-- Vee has been selected and pursued and does not know it; experiences it as free agency.
-- The flannel shirt Vee treasures was made by Pace; she knows he made it, not what it means; slept in it all week.
-- His house kept "too warm," heat turned up hours early so she'd shed the bra; **two towels** in a one-man house (unseen).
-- The gown is built on her stripped body; the riser sets her at his kneeling eye-level as method. She read it innocently.
-- Brooke deliberately collected Pace's details; reason unknown.
-- A silent taller woman appraised Vee like an object; who/why unknown.
-- Vee's want between women is now live heat aimed at Randi (the tied/helpless picture), not just gratitude.
-- Even Cassie, the clearest outside eye, could not reach the true shape — the seams hold.
+Motifs & images: The green scent, "cold not sweet" per my checkpoint — now "bright and green," on the kiss (repeat, and escalated from hug to mouth). The white-gold band Vee's never seen off Randi's wrist (first noted here — flagged in my mind). Reading the right side of the menu / prices first, the Corolla vs. the Mercedes, tipping well so as not to be "the broke girl" (repeat of the class/hunger motif — the trimmed self, money as the new food). "The bra too" verbatim (repeat from the fitting, now confessed and normalized). Being looked at / the pedestal — Randi names it: "They put you up on a literal pedestal" (repeat of the display/high-table motif, now spoken aloud by the seducer). The fire lane (repeat — Pace stopped there in the rain with the cop; Randi stops there "like fire lanes happened to other people"). "You don't have to tell me" as a soft-closing door (echo of the closed-doors / locking motif — a door shut on purpose). Explaining-it-away reflex (the warm house, the tagless shirt, now "it's a French thing").
 
-**Motifs**
-- **Turned-up heat / provision for a second body** — Vee offers it again to Randi as pure tenderness ("so I wouldn't be cold"); two towels stand unseen. Care and lever the same act.
-- **Being looked at → "May I look"** — recurs hard: "you *love* being looked at"; "*He looked at me and I was fine*" said back in Vee's own voice; and by the crosswalk she no longer minds it. Exposure reframed as her gift.
-- **The withdrawal / the rhythm** — now on Randi: "You don't have to tell me," a door closing softly at the confession's peak — close then not-close, the step-away as the charged, controlling thing. Mirrors Pace.
-- **The flannel/handmade shirt** — made by Pace, slept in all week, "the softest thing I own"; the tell Cassie caught. Treasured trace, manufactured. (Quiet this chapter.)
-- **Made-by-hand / craft as care** *(central)* — the burgundy silk gown he "went and *found*," building on her; both real gift and bespoke apparatus.
-- **Doors/thresholds & being let in** — the fitting's "door" recalled; and Randi opens a door ("what were you wearing") then closes one ("you don't have to tell me"). The un-asked ask / the withheld release.
-- **Randi's two smiles** *(new)* — the bright even room-taking performance vs. the slower, quieter, spent one turned only on Vee; Vee reads the second as chosen-ness.
-- **The white-gold wrist band** *(new)* — plain, heavy, no stone, "the one fixed thing" Randi is never without; worn like a vow, unexplained.
-- **The kiss / her scent** *(new)* — soft, unhurried, a deliberate second press; "something bright and green" caught in Vee's hair; Vee's two fingers to her mouth; explained away as "French."
-- **Money / the column** — Vee reads the right side of the menu first, finds the bottom; pays her own way "so she wouldn't be the broke girl"; the wine cost more than all she ate. Class gap made physical against Randi's left-side-only reading and the Mercedes.
-- **The satin / shame-as-heat** — the platform arousal, finally spoken aloud here ("actually it was really *hot*") under Randi's leading; the deepest layer stayed unspoken, denied its release.
-- **Spoons / sweetness at the bottom** *(series-title)* — quiet; the sweetness-and-poison sat in the same cup this chapter.
-- **Posture/rising · Counting days · Chosen/picked** — quiet.
+Symbolism: The self-sealing car window "tucking itself in around her" — being enclosed, comfortably, by something that decides for you. The scarf story as a mirror of the bench — helplessness sold as gift. The half-confessed secret "with nowhere to go" — the withheld release as a binding, not a mercy. The title "How It's Done" = the method of extraction itself.
 
-**Symbolism noticed**
-- **"How It's Done"** = both Randi's disarming line (the bra removal as ordinary) and the demonstration of the closer's craft — the trap that reads as intimacy from inside. Ordinary going in, ice going out.
-- The extraction-then-withdrawal = Randi wields Pace's exact rhythm; the two of them are one instrument, and Vee is being taught to surrender ("a little helpless can be a very good thing. Done right").
-- The riser/pedestal reframed by Randi as delight — her elevation is still his provisioning, now retold as glamour.
-- The dark-window scan = the first time Vee's newfound love of being looked at flips into fear of being seen — the joy and the exposure are the same coin turning over.
+Characterization: Randi deepened hard — the tight muscle behind the smile, the worked water glass, the displaced bench-story, the soft-closed door all give her interior stakes and cost; she is both more skilled and more wounded than before. Vee deepened in her self-deception apparatus — we watch, in real time, the machinery by which she reaches for the kind reading and files the alarming one; and her pull toward Randi finally surfaced (and got suppressed). Nobody went thin.
 
-**Open questions**
-- Where/when does the finished gown get worn — and who else is in that room? *(top dread; "He'll call me when it's ready.")*
-- **Two towels** — who is the second body the house keeps provision for?
-- What is Randi's white-gold wrist band — the one thing she's never without? *(new)*
-- Was the tightness behind Randi's smile real feeling straying past the assignment, or read wrong? *(new; leaning: a genuine crack)*
-- Genuine restraint/patience vs. control — why Pace and now Randi keep declining/withholding the yes. (Leaning: both, they control the pace.)
-- What closed in Pace's face at "your parents"?
-- Will Cassie's puzzle-frown ever reach the true shape, or stay one answer short?
-- Who is the silent taller woman?
-- Did Pace target Vee by name, or did the game land on her?
-- Why is Brooke collecting Pace's details?
-- What is the game's endpoint — the threesome as framed, or a shape Randi hasn't seen?
-- How much of Randi's warmth to Vee is felt vs. played? *(one point toward "some is real" this chapter)*
-- Who is Daphne, and what did the closed-door lesson cost Pace?
-- How far does the opening go before it turns? *(it's turning — the kiss)*
-- Is Vee's drift costing her her clear eye? *(yes, starting — she caught the tells and overrode them all)*
-- Does Vee's want toward Randi grow; does Randi feel it or only use it? *(want grew to live heat; Randi both used it and maybe felt something)*
-- The "power" Vee found — real leverage, or was being *let* to feel powerful the deepest move? *(this chapter tilts toward the latter — she was led one* yeah *at a time)*
+Pace — within the chapter: excellent. It earns its length; the lunch is one long slow extraction and every beat advances the pressure. The car frame and the drive-home coda bracket it well. No drag.
 
-**How I feel — overall**
-Colder and more gripped than I've been. Last chapter was joy; this is the joy turned into a lever while I watch. I still got swept — the car, the wind, the singing, "the best one of my life," the kiss soft enough to melt into — but every warm beat was also a move, and this time I could *see* the move, because I was in the booth watching the closer work. Randi pried out the one secret Vee had told no one, then shut the door on Vee's release at the exact instant she reached for it — the same withdrawal Pace uses, so now I know they're one instrument playing her from both sides. And the small chill under all of it: Vee's clear eye actually *fired* — she felt the ground shift, knew she was caught — and desire overrode every reading and she explained the kiss away before her mouth was hers. That's the drift I was afraid of, arriving. The one thing that keeps me from pure dread is the tightness behind Randi's smile — maybe there's a real person in there getting caught in her own snare. I'm carried, I'm uneasy, and I ended the chapter where Vee did: on the curb, two fingers to my mouth, scanning the dark windows.
+Pace — chapter to chapter: building, and turning. After a run of Pace-warmth chapters (the hike, the dress fitting, the Cassie debriefs), this pivots the seduction back to Randi and raises the stakes by making the friendship's mechanism visible and by putting a real kiss on the page. Momentum up, and the two threads (Pace / Randi) now feel aimed at a collision. Not repetitive — a deliberate shift of register from courtly-asking to smooth-extracting, which recolors everything behind it.

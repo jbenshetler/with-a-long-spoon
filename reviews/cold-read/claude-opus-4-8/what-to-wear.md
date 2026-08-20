@@ -1,130 +1,45 @@
-# Cold read — What to Wear
+# Cold read (grounded) — What to Wear
 
-*scene: scenes/what-to-wear.md · prose-blob b17c9b0c29c635234b5919e3c32e29a826dcd32f · model: claude-opus-4-8 · read after: rye · 2026-08-13*
-<!-- freshness: prose-blob = `git hash-object scenes/what-to-wear.md` at read time; if it differs from the live file's hash, this review is stale. -->
+*scene: scenes/what-to-wear.md · model: claude-opus-4-8 · memory: ck-ch010 + raw ch011..ch012 · reader-protocol: v3-grounded-checkpoint*
 
 ## Reader reaction
 
-A lighter, brighter chapter — Vee at the good dining hall with two friends, retelling the shirt, then the text lands. It worked on me as breeziness: the gold room, the girls climbing onto each other's sentences, Vee "laughing with her whole body." Kayla and Meg are new-to-me as *present* company (Meg I knew only as the boot-lender — nice to see her land as a person, "the calm one" who "let a sentence finish"). I liked them. This is Vee's easy social world doing exactly what it does well: she's the one the next table wants in with.
+FELT READ
 
-The swoon: the shirt retelling still lands even third-hand — "He didn't ask for it back." And the detail that undid me quietly is "the shirt, folded on her pillow at this exact hour." She keeps it in view. Twelve days counted without counting. The heart "quick and light and stupid, and she let it." I'm still swept.
+After the mountain and the truck — which flattened me, honestly, that whole slow strip-in-the-cab with him standing out in the rain taking it on the back so she could change — this chapter is a breather, and I felt it as one. It's Vee at a gold-lit dinner table telling the shirt story to two girlfriends, and the pleasure of it is watching her be *happy* in company, loud and easy, "laughing with her whole body, the kind that made the next table look over and then want in." That line got me. After ten-plus chapters of Vee covering herself with a cardigan like an apology, here she is unpoliced and radiant among friends, and nobody's working her. It's a relief to sit in.
 
-But this is the chapter where the door opens. "Would you come to my house Saturday. Two o'clock." The house off six-fourteen — the thing I've dreaded longest — is finally invited, and the girls do my worry *for* me without knowing it: "That's not a message, that's a ransom note." "What did he say to wear? He didn't say." "There's no meal at two... He wants you for the afternoon. Bring a change of clothes." Kayla clocks the missing dress code as strange, and she's right to — every prior gift came with his care attached, and this comes with *nothing* attached, "the least information a human being has ever sent me." That absence is the charge. He's stopped supplying instructions right at the threshold.
+Kayla and Meg are new to me as a pair (Meg I half-remember as the floor-mate at the "collision," and it's her boots Vee wore up the mountain — that tracks). I liked them immediately and without suspicion. Kayla is the bright unbroken stream, Meg the calm one who "let a sentence finish before she picked it up," who "followed the Pace situation in installments like her shows." They're drawn with real economy and they feel like actual college girls, not instruments. That's the thing I want to flag to myself: *these two feel safe in a way Randi never has.* Nobody at this table has a plan. The warmth is just warmth. And that's exactly what makes the contrast land — I've spent the whole book braced around Randi's engineered affection, and here's the genuine article for comparison, and it reads completely different on the page. The book knows the difference even if Vee doesn't.
 
-The one line that pricked cleanly: Meg's "Everybody's different at the start. I said it about Danny... Sometimes they even are." — and "Vee let it go by. It didn't catch on anything." That's the surveillance quiet again: the warning slides right off her. I heard it; she didn't.
+Theo — new, a boy who waved, who asked her to a fall thing in September and got a friendly no and took it "like a gentleman." He's a throwaway but a meaningful one: he's the "nice" that has never once been enough, the fine Vee keeps declining. Kayla names it better than she knows — "They're all nice until you don't want them and then they're wonderful." That's the whole ache of the book's premise sitting in a one-liner.
 
-Trust/suspicion: nothing *new* on the machinery — Pace and Randi both absent. The unease is entirely structural: the invitation with no terms, to the one place I've never been let see. No thumb on the scale; the girls' noise stays in-register.
+The swoon here is secondhand and I let it work on me anyway. Vee retelling the shirt — "he gets out. Out. Back into the cold rain. So I can change" — and Kayla going "Stop," and Meg gone quiet with her chin in her hand: it's the pleasure of a good thing told to people who deserve to hear it. And then the honesty underneath, when the noise drops: "It's making me lose my mind... He asks me first. The small things. What I want to order, and he waits for the real answer, and then that's exactly what happens, the way I said it." She can hear it sounding like nothing. She says "He's different. I know how that sounds." And Meg gives the perfect, gentle, true reply — "Everybody's different at the start. I said it about Danny. Word for word... Sometimes they even are." And then the line that snagged me hardest: "Vee let it go by. It didn't catch on anything." That's the author declining to let Vee take the warning. It's placed so lightly I almost missed the chill in it. Meg hands her the exact caution a friend should hand her, and it slides right off, because being asked what she wants for dinner has undone her. I felt the tenderness and the dread in the same beat there.
 
-**Titles:** "What to Wear" — innocuous on the surface (the eternal date question), but it points straight at the thing he *didn't* say. All the prior scenes he told her what she wanted and gave it; here he gives her a door and a time and no guidance, and the girls fill the vacuum with hair and a change of clothes. The not-telling is the tell. *A Polite Invitation* — this is the invitation, and it is exactly, chillingly polite: seven words, no pressure, no "for what."
+Then the text. "Would you come to my house Saturday. Two o'clock." And here's where my reader-knowledge did its cold work under the bright surface. Kayla, comic and right: "That's not a message, that's a ransom note... He's not asking you over to eat... He wants you for the afternoon. Bring a change of clothes." Two in the afternoon, no meal, no word about what it's for. I know his house. I know what's in his house — the bench, reassembled and waiting, "full of what it is." The girls are giddy and I was not, quite. Not because the page pushed me — it didn't, it played it as pure delight, "her heart was doing something quick and light and stupid, and she let it" — but because I'm carrying ch1 and they aren't. The invitation is the one in the title. *A Polite Invitation.* This is it arriving on her phone, and it is genuinely polite, genuinely leaves her the choice, and I know it's also the mouth of the trap. That doubleness is the whole book working exactly as designed on me.
 
-What I want/dread: Saturday, the house, at last. I dread it and I want it. Guess from here: this is the scene the book has been walking toward.
+TRUST VS. SUSPICION: No new suspicion, and importantly the two new characters register as *clean* — I have no reason to doubt Kayla or Meg, and their warmth actually recalibrates me: it shows me what un-engineered affection looks like, which sharpens (not softens) my wariness about Randi. My unease this chapter isn't aimed at anyone on the page. It's aimed at what I know is behind Saturday's door.
 
-**Cast present:** Vee, Kayla, Meg. Mentioned: Pace (texts, absent), Theo (waved), Danny (Meg's boyfriend).
-**Heat:** 1 — the shirt retold, "climbing the walls," the quick stupid heart; charged, clothed.
-**Romance:** 2 — real tenderness in the retelling; the invitation as ache.
-**Motifs:** The flannel shirt (repeat — "folded on her pillow at this exact hour," kept, un-asked-for); Doors/thresholds & being let in (repeat, escalated — the house off 614 finally *invited*, "there was a door, and Saturday behind it"); What to wear / no instructions (first, new — the absent dress code); counting days (twelve, "she hadn't even had to count"); Real shoes (light echo — Meg present, the boot-lender).
-**Symbolism:** The polite invitation with no terms = his method arriving at the threshold — every gift till now came with his care attached; this comes bare. "He wants you for the afternoon."
-**Characterization:** Vee deepens by consistency — glowing, self-narrating, warning-deaf ("It didn't catch on anything"). Kayla/Meg land as real, distinct textures, not filler.
-**Pace within:** Right length, no drag; the buzz lands late and the room "went orange and then thin" is a clean close.
-**Pace chapter-to-chapter:** Building — a breath that ends on the threshold I've dreaded. Two retelling chapters in a row, but this one turns the plot by opening the door.
+EROTIC CHARGE: Low and secondhand by design — this is a retelling, not a scene. The charge lives in memory (the cab) and in anticipation (the invitation). "The shirt, folded on her pillow at this exact hour" is the one small live erotic thread — she sleeps next to his shirt now. Fine that the heat is banked here; the chapter's job is warmth and set-up, and it earns its length without dragging.
 
-## Carry-forward state
+FRICTION: Almost none. One tiny seam — a "Kayla said" attribution on the "So what's Pace do, then?" line reads slightly like it should've been Meg or been its own beat, a hair of who's-talking blur — but nothing that pulled me out. The chapter is confident and light and knows exactly how long to stay.
 
-**Principals**
-- **Pace** (= Peter) — male. Math PhD near done, powerlifter (lifts first thing, writes six hours then stops), builds furniture; runs meticulous-consent BDSM scenes; engineered Randi's attraction and the staged collision; unhurried, constructs. Hike: flawless care that visibly cost him — moleskin, feeding, gave his only dry shirt and stood in cold rain, held still during her strip, vanished at a campus-cop stop. Lives out of a gym bag; house off 614 still unseen. **This chapter:** absent — but texts Vee a seven-word invitation to his house, Saturday 2 o'clock, no other detail.
-- **Randi** (= Miranda) — female, 21. Sorority Standards. Disordered eating, hidden self-harm; curated face. Visible closer on Vee. Absent.
-- **Vee** (= Vivienne Thorne) — female, 21, junior. **Jacket protagonist.** Tall, lush, warm dark-red hair, snub nose, cinnamon freckles, uncurated. Sharp room-reader, deep self-surveillance. **This chapter present:** dinner with Kayla and Meg, glowing retelling of the shirt; kept it folded on her pillow; turned down Theo in September; made out with Pace once (twelve days ago, "backed him into a tree"). Receives the house invitation, heart "quick and light and stupid, and she let it"; lets Meg's gentle warning slide off unremarked.
-- **Cassie** (= Cassandra) — female. Vee's roommate/friend; the clean love, immune clear eye. Now feels the shape of something and withholds naming it. Absent this chapter.
-- **Kayla** — female, blonde curls, round-faced, talks in an unbroken bright stream; Vee's friend, follows the Pace saga; drives the "what to wear"/"he wants you for the afternoon" read. **First present.**
-- **Meg** — female, dark-haired, calm and level; lent Vee the too-big boots earlier; has a boyfriend Danny; follows "the Pace situation in installments." Delivers the quiet warning ("Everybody's different at the start... Sometimes they even are"). **First substantial appearance.**
-- **Brooke** — sorority president; collected Pace's name/field/truck. Absent.
-- **Unnamed taller woman** *(identity open)* — appraised Vee like merchandise at Brooke's side. Absent; held open.
-- **Christine** — runs the small restaurant, knows Pace. Absent.
-- **Daphne** — Pace's past, the "door" he didn't respect. Absent.
-- **Theo** — asked Vee to a fall event in September; she said friends; he waves. Texture only.
+TITLES: "What to Wear" — on the surface it's Kayla's panic, "What do you wear? What did he say to wear?" But it lands heavier than that, because dressing has been Vee's whole armor: the cardigan over the better shirt, the black dress "good enough for every dinner," the russet silk she set back on the shelf on the mountain because wanting it was too much. And now an invitation that comes with no dress code at all — "the least information a human being has ever sent me" — which means the question isn't really what to wear, it's what to be, undefended, behind a door. Read against ch1 it goes colder: what you wear to a place where the point is to be undressed. The title sits sweet on the surface and turns on the reread, which is the pattern I've come to expect. It didn't give anything away — it just quietly means more than the girls think it does. Series title *With a Long Spoon* still points me at the proverb — you need a long spoon to sup with the devil — the caution about intimacy with something dangerous, and this chapter is Vee cheerfully accepting the dinner invitation. The tagline as given on my jacket, "Every yes was freely given. That was the problem," is exactly what this chapter dramatizes: every piece of this is her wanting it, freely, gladly, and that's precisely what makes it work.
 
-**Relationship ledger**
+WHAT I WANT / DREAD NEXT: I want to go through the door with her, and I dread it in equal measure — a guess from here, but everything points at Saturday being the chapter where the house, and what's in it, meets Vee. I want to know if Randi's anywhere near this, or if Pace is moving on his own now. And I want Cassie and these new friends to keep being the clean air, because I suspect the story's about to get thinner on clean air.
 
-*Core — Pace & Randi:*
-- **State:** involved (consummated: y), secret from her sorority world. Surface / true diverge. He directs her desire outward toward Vee under a shared-game/gift frame.
-- **warmth ↔ cold:** Surface = lavish warmth, cherished; true = warmth is instrument. Charged: kisses her with her own taste on his mouth to crack her composure.
-- **isolation ↔ belonging:** offers a two-of-them intimacy; the game widens her appetite toward someone else while routing wanting through him.
-- **cherished ↔ used:** treasures her *and* uses her — reads involuntary response as data.
-- **desire worked-on-her ↔ desire hers:** wanting produced in her; she re-assigns it to him.
-- **This chapter:** no change (both absent).
+STRUCTURED BLOCK
 
-*Core — Randi with herself:*
-- **State:** at war; the face vs. the person under it. Execution seamless. Live: how much warmth toward Vee is felt vs. played, held ajar.
-- Axes: cold/isolation/used/worked-on inward. **This chapter:** no change (absent).
+Cast present (in person): Vee, Kayla, Meg. Mentioned-only: Pace (texts, discussed), Theo (waves across the room — barely present, essentially a mentioned beat), Danny (Meg's boyfriend, referenced), Cassie (not here), Vee's mother (implied by absence — notably the policing voice is quiet this chapter).
 
-*Core — Randi & Vee:*
-- **State:** warm friendship on Vee's side (adoring, chosen, "picked"). True = Randi co-runs the engineered pursuit as visible closer, mirrors Vee's want back and spends public warmth to bind her. Asymmetric: Vee thinks watched-over; she's handled. Vee's queer want has stirred toward Randi, filed as gratitude.
-- Axes on Vee's side: warmth (fed, chosen); belonging; cherished-feeling; desire worked-on-her.
-- **This chapter:** no change (Randi absent).
+Heat: 1 — no on-page sex; a warm simmer in the retold cab scene and in "the shirt, folded on her pillow at this exact hour," plus the charged anticipation of the invitation.
 
-*Core — Vee with herself:*
-- **State:** managed surface over unlooked-at want; reads every room but not the one run on her. **This chapter:** narrates her own glow to friends, warning-deaf — Meg's "everybody's different at the start" slides off, "It didn't catch on anything." Reads the seven-word text a thousand times and can't read what's absent from it. Experiences it all as wholly hers (I hold the engineered pole). Mother-voice/shame-as-heat stands.
+Romance: 2 — clear tenderness, all in Vee's telling: the shirt, "he asks me first... waits for the real answer," her helpless "he's different." Warmth radiating, no declaration.
 
-*Core — Pace & Vee:*
-- **State:** involved-adjacent, intensifying hard on Vee's side. One kiss (twelve days ago); hike third date, she initiated undressing intimacy, **he did not touch her** (consummated: n). secret, one-sided (Vee unaware of engineering). Care real and costly *and* clears a pre-built standard — both poles stand. **This chapter:** he issues the first invitation to his house — Saturday 2pm, no instructions, no stated purpose. The threshold I've dreaded is now opening.
-- Axes on Vee's side: warmth (tended, chosen); belonging; cherished-feeling (peak); **desire hers ↔ worked-on-her** — reads strongly as *hers*, worked-on layer known only to me.
-- **This chapter:** the invitation with no terms — every prior gift came with his care attached; this comes bare. New note: he's stopped supplying instructions right at the door.
+Motifs & images: The shirt/flannel (repeat, from Leave No Trace and Rye — now "folded on her pillow," a kept token). "May I / asks me first / waits for the real answer" (repeat — Pace's consent-first pattern, restated in Vee's own words). Feeding/dining (repeat — the gold dining hall, stealing fries, though here eating is easy and unwatched, a healthy note). What to wear / dressing as armor (repeat — the russet dress, the cardigan; now the no-dress-code invitation). "Two o'clock, no meal" (first sighting — the invitation itself, the title's polite invitation arriving). Gold/forgiving light (first sighting here — "the whole room went gold and forgiving," and closing "orange and then thin"). "He's different" / "everybody's different at the start" (first sighting — the friend's declined warning).
 
-*Vee & Cassie:* Roommates/friends, easy and real; Cassie the clean love, lacks the Pace/Randi fact but now *feels the shape* of something and withholds it (set Vee's name down "where it wouldn't break"). Absent this chapter; asymmetry stands.
+Symbolism: The invitation as threshold — "there was a door, and Saturday behind it, and not one word about what it was for" — the closed door motif inverted, now an open one she's invited through, which reads as more than logistics given ch1's locked doors. The gold "forgiving" light over a scene of undefended happiness reads faintly elegiac to me, like a last easy evening — page invited it lightly ("none of them got up to go").
 
-*Vee & Kayla / Vee & Meg:* Easy, warm friendships — the athletic-dorm crowd, followers of the Pace saga. Kayla the excited amplifier; Meg the calm one who slips a real warning past Vee unnoticed. Both cheer the invitation.
+Characterization: Vee deepened — we see her happy and social, self-aware about how her wonder "sounds," able to name her own giddiness before the girls can. Consistent and warm. Kayla and Meg land as distinct, credible, clean-hearted friends on their first real outing (Meg especially, the calm one who delivers the unheeded warning). Pace, offstage, is characterized entirely through Vee's admiration and his four-word text — consistent with the courtly, exact man I know. Nobody flattened.
 
-*Randi & Brooke / Randi & Cassie:* no change.
+Pace — within the chapter: Well-judged. A talky retelling that could have sagged instead builds cleanly to the phone buzzing, and the buzz reorganizes the whole table. Earns its length as a breather and a hinge.
 
-**What I know that they don't**
-- (Caring) Pace is genuinely moved by Randi, glad of her pleasure; believes he gives a gift.
-- (Caring) Pace's cold/shivering/shirt-sacrifice on the hike were real and unseen by Vee — the tenderness cost him.
-- (Caring) Cassie's love for Vee is clean and asks nothing; reads Vee as well as the handlers do; now feels something off and withholds it to protect her.
-- (Using) Pace engineered Randi's attraction and "choice," harvesting involuntary response as consent; may have targeted Vee specifically — held ajar.
-- Pace & Randi run Vee as a coordinated operation — Randi the closer, Pace clearing the pre-built standard.
-- Randi self-harms / eats disordered unconsciously; nobody, including her, is looking.
-- Vee has been selected and pursued and does not know it; experiences it as her own free agency.
-- Brooke deliberately collected Pace's details; reason unknown; clocked the Vee/Randi display.
-- A silent taller woman appraised Vee like an object; who and why unknown.
-- Vee's want between women stirred toward Randi and got filed as gratitude.
-- Vee is beginning to trade her old orbit for Randi's world and calls it healthy. (Countered lately — she brought the day to Cassie, and here to Kayla/Meg, unguarded.)
-- The house off 614 remains unseen; now Vee's been *invited* Saturday 2pm, with no stated purpose and no dress code — the vacuum where his instructions used to be.
-
-**Motifs**
-- **The flannel shirt** — his only dry shirt, given, kept un-asked. Charged: "I kept it / He didn't ask for it back"; now "the shirt, folded on her pillow at this exact hour" — the one trace of him she holds and keeps in sight.
-- **Doors/thresholds & being let in** — she crooked a finger, "Come in"; the house off 614 unentered — now *invited*: "there was a door, and Saturday behind it, and not one word about what it was for."
-- **What to wear / no instructions** *(new)* — he told her what she wanted at dinners and gave it; the invitation carries no dress code, no purpose. Kayla: "He didn't say what to wear... he's not even telling you what to put on." The absence of his usual instruction is the charge.
-- **Feeding / portioned appetite** — un-portioned appetite as gift and mechanism; horseradish sandwich; "And then we ate" as her erotic peak. Quiet this chapter (2pm is "no meal," Kayla: "He's not asking you over to eat").
-- **Leave no trace** — "We take nothing and leave nothing"; his pit beside hers; vanishes at the cop stop. His ethic recited by Vee innocently as shared virtue.
-- **The mother-voice / shame-as-heat** — shame converts to arousal; wants to *be* the shamed thing, watched. Quiet here.
-- **Hands / economy of movement** — moleskin warmed with his thumb; the shaking hand she warmed; forearms. Quiet here.
-- **Counting days** — twelve days since the one kiss, "hadn't even had to count."
-- **Real shoes** — owned none, borrowed Meg's too-big boots → the blister he fixed. Meg present again; footing on unfamiliar ground.
-- **Chosen / picked** — at the summit he watched "her face in front of the valley."
-- **The russet dress** — silk she wants and can't afford, "set back on the shelf." Quiet.
-- **Spoons / sweetness at the bottom** *(series-title)* — cherries, sweet-then-bitter-skin. Quiet.
-
-**Symbolism noticed**
-- The polite invitation with no terms = his method at the threshold; every gift till now came with his care attached, this comes bare — the not-telling is the tell. Ties to book title *A Polite Invitation*.
-- "Leave No Trace" = Pace's ethic recast dark, spoken warmly by Vee as shared virtue while I hear the vanishing.
-- The kept shirt "folded on her pillow" = the one trace of him she holds; he leaves nothing, she keeps this, in sight.
-- Cassie setting Vee's name down "where it wouldn't break" = the clean eye feeling danger, choosing for love not to name it.
-
-**Open questions**
-- What is at the house off 614 — now Saturday 2pm, invited, no stated purpose. (The one I most dread; about to be answered.)
-- Why no instructions / no dress code this time, when he always told her what she wanted before? (New, sharp.)
-- What did Cassie feel and set down — how much does the clean eye sense; specific or just felt?
-- Does the genuine cost of his care mean the tenderness is real *as well as* instrumental? (Ajar.)
-- Who is the silent taller woman, and why did she appraise Vee?
-- Did Pace target Vee by name, or did the game land on her?
-- Why is Brooke collecting Pace's details; does it connect?
-- What is the game's endpoint — a threesome as framed, or a shape Randi hasn't seen?
-- How much of Randi's warmth to Vee is felt vs. played?
-- Who is Daphne, and what did the closed-door lesson cost Pace?
-- How far does the opening/un-portioning go before it turns?
-- Is Vee's drift going to cost her her clear eye? (Countered lately.)
-- Does Vee's want toward Randi grow, and does Randi feel it or only use it?
-- Was the russet dress noted for a reason?
-
-**How I feel — overall**
-Bright on top, tightening underneath. This was a happy chapter — Vee glowing among warm friends, the shirt story still landing, a real girl-world I liked being in. But it ends on the invitation to the house I've dreaded, and it arrives exactly as *A Polite Invitation* promised: seven words, no pressure, no "for what," and — the thing that pricked me — no instructions, when instructions and his careful supplying of her wants have been the whole tenderness so far. The vacuum is new. Kayla and Meg do my worrying aloud without knowing it ("that's a ransom note," "he wants you for the afternoon"), and Meg's soft "sometimes they even are" slides right off Vee. I'm still swept by the wanting and I trust the girls and I trust the warmth — but the door is open now, Saturday's behind it, and I'm walking toward it wanting and afraid.
+Pace — chapter to chapter: A deliberate exhale after the two intense trail/truck chapters and the Rye debrief, and it holds momentum by pointing hard at Saturday. Slight risk of one-too-many "Vee retells the shirt to a friend" beats (Rye did the same debrief), but the new cast and the invitation twist keep it from feeling repeated. Building — this is the wind-up before the pitch.

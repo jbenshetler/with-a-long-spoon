@@ -8,14 +8,16 @@ this repo (`.claude/commands/wals-cold-read.md`); non-Claude models (`gemini-*`,
 
 ## What a cold read is
 
-A **blind, sequential first reader.** For each drafted chapter, in story order, a
-model reads *only*: the chapter's display title, its clean prose, and the
-**accumulated** carry-forward of the reader's experience through *all* previous
-chapters (not just the last one). It has seen no planning material, no future
-chapters, no author intent. It returns a **reader reaction** (how the chapter lands,
-to this point) and an updated **carry-forward state** (what this continuous reader now
-knows/feels) that feeds the next chapter. The instrument measures whether the book
-"earns the dark by being light."
+A **blind first reader with grounded memory** (author ruling 2026-08-19: the grounded
+variant IS the cold-read instrument; the chained variant is retired — it forgets too
+badly — and its files are archived under `<model-id>/chained/`). For each drafted
+chapter, a model reads *only*: the volume packet (jacket copy), a **grounded memory
+checkpoint** (`ck-ch<B>`, minted in one pass from the raw prose of ch 1..B), the **raw
+clean prose** of the chapters since that boundary, and the chapter's display title +
+clean prose. It has seen no planning material, no future chapters, no author intent.
+It returns a **reader reaction** only — there is no carry-forward chain. The
+instrument measures whether the book "earns the dark by being light." Full mechanics:
+**Grounded read (v3)** below.
 
 ## Directory layout
 
@@ -23,9 +25,14 @@ knows/feels) that feeds the next chapter. The instrument measures whether the bo
 reviews/cold-read/
   README.md                     ← human overview (shared)
   SPEC.md                       ← this file (shared)
+  volume-packets.toml           ← public reader-facing volume copy (jacket)
+  .packets/                     ← ephemeral packet-MCP token dirs (blinding transport)
   <model-id>/                   ← one dir per model, named by its versioned id
-    <slug>.md                   ← one per scene reviewed
-    SYNTHESIS.md                ← that model's arc-level synthesis (multi-scene runs)
+    <slug>.md                   ← one grounded read per scene reviewed
+    checkpoints/ck-ch<NNN>.md   ← grounded decade memory checkpoints
+    oracle/                     ← oracle-interview transcripts (optional)
+    chained/                    ← ARCHIVE: the retired chained lane's reviews +
+                                  SYNTHESIS.md, frozen as historical evidence
 ```
 
 - **`<model-id>` = versioned model id**, verbatim as the folder name. Examples:
@@ -38,20 +45,22 @@ reviews/cold-read/
 ## Per-scene file format
 
 ```
-# Cold read — <Display Title>
+# Cold read (grounded) — <Display Title>
 
-*scene: scenes/<slug>.md · model: <model-id> · read after: <predecessor-slug or "— (opening, cold)">*
+*scene: scenes/<slug>.md · model: <model-id> · memory: ck-ch<NNN> + raw ch<a>..ch<b> · reader-protocol: v3-grounded-checkpoint*
 
 ## Reader reaction
 
-<verbatim reader reaction>
-
-## Carry-forward state
-
-<verbatim carry-forward state>
+<verbatim reader reaction — felt read, then structured block>
 ```
 
-Both `##` sections are required, in this order, with these exact headings.
+One `##` section (no `## Carry-forward state` — there is no chain). `na.py` indexes
+`## Reader reaction`, so grounded reads are searchable via the reviews lane.
+
+> **The chained format (retired).** Files under `<model-id>/chained/` follow the old
+> two-section format (`## Reader reaction` + `## Carry-forward state`, header
+> `*… · read after: <predecessor>*`). The chained sections below are kept for reading
+> that archive; do not produce new files in that format.
 
 ## Story order & scope
 
@@ -264,10 +273,10 @@ carry-forward of chapter *N−1*, a paraphrase-of-a-paraphrase up to ~50 hops de
 that chain hard facts decay — whether Vee and Pace have slept together, who "the
 brunette" is — no matter how much retention machinery (standing-state flags, code-level
 retention checks, compact/judge passes) is bolted on, because the decay is *the chain
-itself*, not a missing instruction. The **grounded** variant removes the chain entirely.
-It is **additive** — the chained path (`cold_read.py`, `blind-reader.md`, the per-model
-`<slug>.md` files) is unchanged — so a clone can adopt it without disturbing existing
-runs.
+itself*, not a missing instruction. The **grounded** variant removes the chain entirely
+and **is now the only live lane** (author ruling 2026-08-19): the chained scripts
+(`cold_read.py` chained mode, `blind-reader.md`) are frozen, and every model's chained
+reviews are archived under `<model-id>/chained/`.
 
 ### The grounded contract
 
@@ -314,7 +323,7 @@ symbolism, open questions, a short impression. It reads only the prose it is giv
   retention/compaction apparatus from this path.
 - **Harness:** `tools/cold_read_grounded.py` — assembles the prompt per chapter (packet +
   checkpoint + window + chapter), runs the reader at **low effort** (high turns a reader
-  into a critic), and writes `reviews/cold-read/<model-id>/grounded/<slug>.md`. It refuses
+  into a critic), and writes `reviews/cold-read/<model-id>/<slug>.md`. It refuses
   rather than mint a missing checkpoint implicitly (`--check` lists what a range needs;
   minting is a separate, higher-effort job). `--emit-prompt N` prints a chapter's
   fully-assembled prompt to stdout, so a Claude `blind-reader-grounded` subagent (which

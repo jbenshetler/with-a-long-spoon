@@ -1,96 +1,57 @@
-# Cold read — Two Towels
+# Cold read (grounded) — Two Towels
 
-*scene: scenes/two-towels.md · prose-blob c9fc0c7342682d58113f309f59cbc92967bc0a20 · model: claude-sonnet-5 · read after: what-to-wear · 2026-08-13*
-<!-- freshness: prose-blob = `git hash-object scenes/two-towels.md` at read time; if it differs from the live file's hash, this review is stale. -->
+*scene: scenes/two-towels.md · model: claude-sonnet-5 · memory: ck-ch010 + raw ch011..ch013 · reader-protocol: v3-grounded-checkpoint*
 
 ## Reader reaction
 
-Oh, this chapter is a swoon and a half — and then it does something more careful and stranger underneath the swoon, which is exactly what I want.
+**Felt read**
 
-**Pace** deepens enormously here, and every new fact lands as *character*, not exposition dump: the shoes squared by purpose, the kitchen that "had a purpose," the office gone to chaos while everything else stays ordered, the MRI patent explained with a kid stuck in a tube as the stakes instead of the money. I felt myself falling for him right alongside Vee — "he lit up like a six-year-old who'd just found out everything there was to know about dinosaurs" is such a good, unguarded image, and it does real work: this is a man who gets genuinely happy about *usefulness*, not about being admired. His stopping the kiss again, unasked, unexplained, registers exactly the way it should — she notices it as a data point about herself ("no boy she'd ever been with had once been the one to stop") without narrating it as either red flag or reassurance. I trust that restraint more than I distrust it, but the closed bedroom door — the one door in the house — paired with her own "she'd worn it out here on purpose" is a small ache the text lets sit unresolved. Good.
+This one landed on me exactly the way it's built to — as a house tour that's actually an X-ray. I walked in half-charmed by the flannel-shirt hangover from the mountain chapter, still glowing at Vee, and by the end of it I was sitting with something closer to vertigo, because the chapter is doing two things at once with total control: it's giving me the sweetest, most competent, most *seen* courtship beat in the whole book so far, and it's quietly handing me proof that Pace's attentiveness is not incidental noticing — it's engineering, done with real hands, real weeks, real intention, on a girl who doesn't know she's being built a life to walk into.
 
-**Vee** is wonderful this chapter — greedy in the best way, reading his shelves, his tools, his shoes, wanting to *know* him with her hands and eyes, not just be wanted by him. The dress reveal wrecked me a little. The magazine red versus the burgundy that's actually "mixed for exactly her" — that's the whole chapter in miniature: he isn't giving her what she said she wanted, he's giving her what he actually saw. And the shirt realization — the tagless shirt she'd puzzled over and let go, suddenly explained — landed as a genuine gut-drop for me too, the pieces clicking the way they clicked for her.
+Pace, in this chapter, is genuinely dazzling to be near. The shoe closet ("depends how many things he does"), the kitchen that "looked like it had a purpose," the furniture he built with joints cut to lock instead of screwed — I felt the same thing Vee felt, that low hum of *oh, this is a real person, not a performance of one.* And then the shirt. I actually sat back from the page at "You made the shirt." That detail retroactively recolors the flannel from the last chapter — a shirt she's worn "into the ground," soft, no tag, fitting a story she told herself (counterfeit, off-brand) rather than the true one. It's such a good reveal because it isn't announced; it's assembled the way Vee assembles it, piece by piece, and I felt the same lag she did before the shape clicked.
 
-**Swoon/pull**: the dress, unambiguously. Also the furniture joint under her fingers, the wordless pride he takes that isn't performance. **Trust vs. suspicion**: still open, still earned-open rather than manufactured — his silence on the bedroom, the flicker at "are your parents rich," a door "two rooms away" closing on the word *parents* — these are real, text-placed hesitations, not me hunting for shadows. I don't distrust him; I'm just aware there's more house than he's showing her, literally and otherwise.
+Then the dress. This is where the chapter really got me — and also where the unease I've been carrying since the checkpoint sharpened into something almost physical. He remembered a color she named once, offhand, at the top of a mountain, in a moment she'd already filed as something she'd let go of — and he didn't just remember it, he went and *matched her*, not the magazine. "He hadn't matched the dress she'd described. He'd matched her." That's a genuinely swoony line and I felt the swoon — the wanting-to-be-wanted-that-precisely feeling — arrive in me the same second the checkpoint's whole architecture of "this is a plan" rose up underneath it and made the swoon uncomfortable to hold. I don't get to have the swoon clean anymore. That's new for me in this book, and it's the chapter doing its job.
 
-**Erotic charge**: peaks early in that kiss ("everything the cold, wet minute on the mountain hadn't been let to be") then deliberately cools into something else — tenderness, awe, craft — which felt like a real choice, not a slack patch.
+**Swoon / pull**
 
-**Title**: "Two Towels" — plain domestic detail in the plain bathroom, easy to walk past, but it's clearly doing quiet work: two towels in a house he's lived in alone, a small mundane fact that could mean nothing or could be worth noticing later. I clocked it as I read past it and I'm still turning it over.
+The kiss at the door — "the kiss she'd been wanting since the mountain" — is lovely and earned, and then he's the one who stops it, and Vee clocks that as remarkable ("no boy she'd ever been with had once been the one to stop"). That's a real character beat, not just restraint-as-seduction-technique; it tells me something true about every relationship she's had before him. I wanted to trust that moment completely and mostly did.
 
-**What I want next**: to know what's behind that shut door, and whether the measuring session — "what you'd wear under it, in good light" — is the next scene. I want it and I'm a little nervous of it, which feels correct.
+The whole house tour is a slow-build ache — I found myself as curious as Vee about every room, genuinely charmed by the MRI patent explanation (the "somebody sick, somebody scared, a kid who can't lie still" line got me — it's the first time I've seen Pace's competence pointed outward at strangers' suffering rather than at the two women in his life, and it made him feel, briefly, like a whole person rather than a device in someone else's game).
 
-## Carry-forward state
+**Trust vs. suspicion**
 
-**Principals**
-- **Pace** (= Peter) — man, controlled, patient, courtly; involved with Randi (offstage this chapter). Lives alone in a small post-war vinyl-sided house on a gravel road twenty minutes past town, with a two-car garage converted to a woodshop. Getting his doctorate in math; has a licensed MRI-signal patent that funds his life ("licenses a patent... pays a little" — described modestly, does real work: finds the diagnostic signal faster, less time in the tube). Builds his own furniture (oak, hand-cut joints, mixes his own stain/shellac) and made the shirt Vee has worn since the hike — confirmed on page this chapter. His bedroom is the one closed door in the house; he named it plainly and didn't open it, didn't explain, didn't offer. Something closed briefly in his face at "are your parents rich?" — the only visible flinch of the chapter. Has offered, unprompted, to make Vee a burgundy silk gown for her induction — cloth chosen not to match the shade she described but to match her coloring — requiring he measure her "down to what you'd wear under it, in good light." Reads his own shelves as: cracked fantasy paperbacks low down, worn cookbooks, dense math texts up high. Stopped their kiss himself, again — second time in the relationship this has been narrated as his choice, not hers.
-- **Randi** (= Miranda) — woman, black hair, twenty-one-ish, involved with Pace (consummated, ongoing). Not present or mentioned this chapter.
-- **Vee** (= Vivienne) — present, central, POV. Drove out to Pace's house Saturday 2pm, got lost once on the gravel. Kissed him first at the door, deep and long-wanted; noticed and filed away that he was the one to stop it. Toured the whole house: foyer/coat closet (shoes paired by purpose), kitchen (worn, used, purposeful), his office (chaotic, papers in dense math notation she can't read, one serious dark workstation), the shut bedroom door she leaned toward without deciding to (wearing satin underneath "on purpose," never offered a look), the den (his handmade oak furniture, wall of books), the garage workshop, and finally a glassed-in porch with mountain views where he showed her the burgundy silk and asked to make her the induction gown. Wore something under her clothes chosen in anticipation of a bedroom she never saw. Realized mid-chapter that the tagless shirt she's worn since the hike was handmade by him. Said yes to the dress — "warm and immediate, no hedge in it." Asked bluntly "are your parents rich?" — first slightly probing/personal question of the relationship on page.
-- **Cassie** (= Cassandra) — not present or mentioned this chapter. All prior notes stand.
-- **Meg** — not present or mentioned this chapter. All prior notes stand: dark-haired, level, calm, dating Danny, offered the "everybody's different at the start" caution last chapter.
-- **Kayla** — not present or mentioned this chapter (was supposed to do Vee's hair before this visit — not depicted, may have happened offscreen or the plan changed; unaddressed).
-- Theo, Danny — mentioned-only previously; not present or mentioned this chapter.
-- Brooke, unnamed taller woman, Christine, Daphne, Sloane, Kinsey — not present, not mentioned this chapter; prior notes stand.
+The shut bedroom door earned real suspicion from me — not creepy suspicion, but the good kind, the kind the book has trained me to feel. Vee leans toward it "before she'd decided whether to let him see her do it," dressed for it, and he just... doesn't open it. Given everything I know from the checkpoint (locked doors, Daphne, the plan), that closed door reads to me as consistent restraint from a man who's learned not to force anything — but I can't unhear that it's also a door I don't get to see behind either, as a reader, and that bothers me pleasurably. I don't think the text wants me fully at ease about him; it wants me exactly where I am, halfway in love and halfway keeping count.
 
-**Relationship ledger**
+**Erotic charge**
 
-*Pace ↔ Randi* — Core. State: involved (consummated: yes, ongoing). Not on page this chapter; no change to standing read.
+Low-key by design here — heat 1 at most. The kiss at the door is the only explicitly physical beat, and it's tender/interrupted rather than consummated. The real charge in this chapter is sensory-domestic — hands on wood joints, the smell of shellac, cloth held up to a face in a mirror — which works on me almost as much as sex scenes have in earlier chapters, because it's all still about being *seen* and *known*, which is this book's whole erotic register.
 
-*Pace ↔ Vee* — Core. State: attracted → involved (secret from Vee re: origin; consummated: no — furthest point remains unrepeated). Major chapter: first visit to his house, first full unhurried kiss since the truck (he stopped it again, his choice both times), and — the peak — his unprompted offer to hand-make her a silk induction gown, matched to her coloring rather than the shade she'd asked for, revealing in the same beat that he'd also made the shirt she's worn all along. She said an unhedged yes.
-  - Warmth ↔ cold: very warm — the whole house read as an offering of himself, room by room, ending in the dress. One cold data point: the shut bedroom door, offered no explanation, no invitation.
-  - Isolation ↔ belonging: major escalation — first time inside his home at all; she was walked through nearly everything he has, "the whole thing," at her own request. Belonging widened sharply, short of the one closed door.
-  - Cherished ↔ used: strongly cherished — the dress is the clearest evidence yet in the book that he listens and keeps what she says even when she's let it go herself ("she'd forgotten she'd even said it. He hadn't.").
-  - Desire worked-on-her ↔ desire hers: still hers — she dressed with intent, kissed him first, asked to see everything; but for the first time she also registered a flicker of *not getting* what she reached for (the shut door), and let it show nothing on her face — the first small instance of her managing her expression around him rather than being fully unguarded.
-  - This chapter: the house, the shirt's origin revealed, the dress offer and her yes — the single largest positive escalation of the relationship on the page so far, shadowed only by the closed bedroom door and the flinch at "parents."
+**Friction as a reader**
 
-*Randi ↔ Vee* — Core. Not on page this chapter. Standing state fully intact: friends (close). No change.
+None that felt like a thumb on the scale — the reveal of the shirt and the dress both build with real patience, no over-explaining. If anything the only friction was mine, not the prose's: I wanted Vee to ask one more question about the shut door than she did, and the text withheld that from me too, which I register as intentional rather than a miss.
 
-*Vee ↔ Cassie* — Core. Not on page this chapter. Standing state fully intact: friends (close). No change.
+**Titles**
 
-**Everything else**
-- Vee ↔ Meg, Vee ↔ Kayla, Vee ↔ Theo — no change, not on page.
+"Two Towels" is doing something small and devastating in hindsight — two towels on the rod in an otherwise single-occupant house, noted in passing with zero comment, the kind of detail a reader files the way Vee files things and doesn't think about again until it nags. I didn't clock it as a story-figure while reading — it slid by as set dressing — but writing this out, it's needling me now: who's the second towel for? It might be nothing (a spare, a guest towel), but the checkpoint has trained me hard enough that I don't trust "nothing" from this book. It's the kind of title that gives nothing away up front and then, a few minutes later, quietly takes something back. *A Polite Invitation* and *With a Long Spoon* both feel closer than ever this chapter — the long spoon of feeding someone precisely what they want, at a very long remove of planning, is right there in the tailored dress and the made-to-fit shirt.
 
-**What I know that they don't**
-- Vee has been selected/approached under false pretenses by Pace (engineered "collision" via Randi) — untouched this chapter, and now sharpened: she's just seen his entire concrete life (house, work, patent, craft) for the first time, closing much of the "who is he" gap, but the *origin* of how they met remains completely unknown to her.
-- Randi's active steering of Vee's narrative about Pace (prior chapter) — untested here, Randi absent.
-- Randi's private resolve never to let Pace see her fully unarmored self again — untested here; contrast with Vee's total unguardedness continues, though Vee showed her first flicker of self-management this chapter (blanking her face at the shut door).
-- Pace's real tenderness — now given enormous new positive weight (the dress, the shirt) but still not fully resolved as decency vs. technique; the shut bedroom door and the "parents" flinch are the two places the chapter withholds something, deliberately or not.
-- Cassie's unreadable look toward Randi — still standing, unaddressed.
-- Vee's thin underlying knowledge of Pace — largely closed this chapter (house, work, craft, patent all now known), but two specific gaps remain live: what's behind the bedroom door, and what closed in his face at "parents" — the family/background question is now the sharpest unanswered thread about him.
+**What I want / expect / dread next**
 
-**Motifs**
-- **Mother's internalized voice / self-policing** — established (cardigan; froyo verdicts; boots/manners shame; braided into arousal in the truck scene). Absent again this chapter — no self-correction even in a charged, exposing scene (choosing satin "on purpose," blanking her face at disappointment).
-- **Body as public property / gaze vs. chosen exposure** — established; newly activated and complicated this chapter: she dressed for a bedroom that stayed shut, and the dress-fitting to come will require being measured "down to what you'd wear under it, in good light" — an explicit future instance of chosen exposure on his terms and schedule.
-- **Giving something of his own to cover/protect her** — established (the shirt; kept without asking, Cassie's blessing; folded on her pillow). Major new instance: the shirt's origin revealed (he made it himself), and the dress offer is the same gesture at a much larger scale — making something with his hands to cover/adorn her, matched to her, not to what she asked for.
-- **"Leave no trace"** — established, not present this chapter.
-- **Food/appetite as intimacy** — established, not present this chapter (no meal shared).
-- **The threshold / unopened door** — carried from last chapter ("never once been through his door, and now there was a door") and directly paid off and complicated: she went through the front door and nearly everywhere, but the *bedroom* door stayed shut, unexplained, no weight put on it by him — a threshold within the threshold, now the sharper open image.
-- **Setting something down gently / naming without judgment** — established (Cassie's "Vee," softly). Not present this chapter.
-- **Made-not-bought, hands doing the work** — NEW gist, drawn together this chapter from several instances: the furniture joints cut to lock with no screws, the mixed-himself stain and shellac, the shirt, the dress offer — a running image of Pace's love expressed as craft, patience, and attention rather than money or words. Most charged instance: "He'd matched *her*."
+I want the measuring scene — I'm curious and a little nervous about what "in good light... down to what you'd wear under it" does to the dynamic, given how carefully consent has been staged throughout. Guess from here: the shut bedroom door will open eventually, and probably not casually. I also keep waiting, with real dread, for the moment Vee's mind actually catches up all the way — not just to "he made the shirt" but to "he has been building toward me before I knew I existed to him" — and I don't think this chapter is that moment yet, but it's closer than any before it.
 
-**Symbolism**
-- The valley view / lake — established, not present this chapter; echoed by the new glassed porch view of the mountains, which read as another version of the same "earned vista" image, arrived at only after being let all the way through the house.
-- The cherry pits / wax paper — established, not present this chapter, but referenced directly: the dress conversation happened "at the summit, days ago... Cherries in her hand" — this chapter retroactively reveals that offhand cherry-summit remark as the seed of the dress.
-- His shirt / the truck — established; paid off this chapter (he made the shirt himself — confirmed, not guessed).
-- The siren (interruption) — established as open, uninterpreted; not mentioned this chapter.
-- The shut bedroom door — carries forward from "the unopened door of his house" as the sharper, narrower version of that image now that the rest of the house has been opened.
-- Two towels (chapter title) — a plain domestic detail in the otherwise-described bathroom ("a bathroom, plain, clean, two towels on the rod") — noted by the reader as a title-flagged image without an obvious meaning yet; worth watching.
+---
 
-**Open questions**
-- How far does the Vee/Randi/Pace triangle go, and toward what end? Untouched this chapter.
-- Will Vee learn she was selected/targeted, and how would she react? Still open.
-- Will Randi's resolve to hide her true self from Pace hold? Still untested.
-- What happened with Daphne, and does it rhyme with Vee's situation? Still open.
-- Is Randi's self-concealment traceable to a specific cause, or baseline? Still open.
-- Will Brooke, Sloane, Kinsey, or the unnamed taller woman recur, and who was she? Still open.
-- What does Cassie know or suspect (toward Pace, and now possibly toward Randi)? Still open, untouched.
-- Is Pace's attentiveness toward Vee genuine on its own terms, or purely instrumental? Still held open — this chapter tips heavily toward genuine (the dress, the shirt) but the shut door and the parents-flinch keep a thread of reserve alive.
-- What was Pace about to say to her when the siren cut them off? Still open, not referenced this chapter.
-- Where does Pace actually live / what is his situation locally? ANSWERED — house, work, craft, patent all now shown on page. New sub-question replacing it: what's behind the bedroom door, and what is his family situation ("are your parents rich?" — flinch, no answer given beyond "No").
-- Will the truck-scene moment be picked back up? Partially answered — a real, unhurried kiss happened this chapter, again ended by him, not her.
-- What is the Saturday visit actually for? ANSWERED in part — the house tour and the dress offer; but the measuring session ("in good light," "what you'd wear under it") is a new specific future event now on the horizon.
-- NEW: What's behind the closed bedroom door, and will it stay closed?
-- NEW: What is Pace's family background, and why did "are your parents rich?" produce a visible flinch?
-- NEW: How will the dress-measuring session go — what will it ask of Vee, and how will she handle being looked at that closely, that deliberately?
+**Cast present (in person):** Vee, Pace. (Mentioned only: Cassie, Meg, Kayla, Theo, Randi's absence is notable — not named this chapter at all.)
 
-**How I feel — overall**
-Full and warm and a little undone — this was the most purely swooning chapter yet, Pace's whole interior life opening up room by room and ending in a gesture (the dress, the shirt's revealed origin) that felt genuinely moving rather than merely charming. My trust in him is at its highest point so far. But I'm carrying two small, real unresolved notes out of the chapter with me — the shut door and the flinch at "parents" — not as suspicion exactly, more as the two rooms of him I still haven't been let into, which the house itself made literal. I like that the text let those sit without resolving them itself.
+**Heat:** 1 — one long, sure kiss at the door, otherwise entirely non-sexual, but charged throughout with anticipation (the leaned-toward door, the satin worn "on purpose").
+
+**Romance:** 3 — the dress reveal is a genuine romantic peak: he remembered an offhand, half-embarrassed wish and built weeks of labor around it. Swoon and unease arrive in the same breath.
+
+**Motifs & images:** The shirt motif closes a loop (flannel from "Leave No Trace"/"Rye" → revealed here as handmade, no tag) — repeat, now paid off. The closed door recurs (Randi's bathroom door in the checkpoint, Daphne's boundary) — this is a new instance of the same image, first time on Pace's own house. The russet/brick-red dress from the summit scene in "Leave No Trace" — repeat, paid off and complicated (he matched her, not the described color). "Leave no trace"/carry-out-what-you-carried-in ethic from the hike quietly echoes in the shop's swept concrete floor and the tools each "inside a painted outline of itself" — same discipline, different room.
+
+**Symbolism:** The whole house reads as a body of evidence — every room a fact about him offered up for reading, except the one room withheld (the bedroom), which the text makes pointed by contrast. The dress-matching (his color vs. her described color) works as a small but real symbol for the book's whole tension: being known so precisely it overrides even what you asked for.
+
+**Characterization:** Pace deepens real texture here — the patent/MRI explanation, lit up "like a six-year-old," gives him an interior life pointed at something other than the two women, which the book hasn't shown me before. Vee stays consistent and legible — hungry to be known, quick to shame herself ("I can't sew," "a girl who'd had the shade fixed for weeks"), and her arc of catching up to the shirt's meaning is nicely paced. No Randi on the page at all this chapter, which I noticed as an absence — a held breath before whatever's coming with her.
+
+**Pace — within chapter:** The house tour risks dragging (room by room by room) but each room earns its beat with a specific reveal, so it never went slack for me; it builds rather than repeats.
+
+**Pace — chapter to chapter:** After two chapters of hiking/domestic warmth ("Leave No Trace," "Rye," "What to Wear"), this is the same register turned up one more notch toward reveal — momentum is building steadily, not sagging, and the dress lands as the biggest single beat since the kiss at the tree.

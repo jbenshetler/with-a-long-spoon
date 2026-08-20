@@ -1,124 +1,47 @@
-# Cold read — Gone
+# Cold read (grounded) — Gone
 
-*scene: scenes/gone.md · prose-blob b72f4d562e288de5ab76c8322dacd6b2066156e5 · model: claude-opus-4-8 · read after: sorority · 2026-08-13*
-<!-- freshness: prose-blob = `git hash-object scenes/gone.md` at read time; if it differs from the live file's hash, this review is stale. -->
+*scene: scenes/gone.md · model: claude-opus-4-8 · memory: ck-ch020 + raw ch021..ch023 · reader-protocol: v3-grounded-checkpoint*
 
 ## Reader reaction
 
-This is the first time I've been in his house with the two of them, in bed, after — and it does a lot of quiet work on me. The chapter opens warm and post-coital, Sade under the door, Randi "loose as she only went afterward," and I felt the pull of it before I felt the dread. That's the machinery I've learned to expect from this book: the warmth has to be true.
+FELT READ
 
-The thing that landed hardest: Randi tightening. Again. "She's the most alive person standing there, and it never once occurs to her" — and Randi goes still, "the kind that takes holding," then "something gathered under it, the faintest tightening." That's the third time now this exact involuntary thing has happened when Vee is glowed-about, and this time it's *un-ignorable*. My open question about whether that tightness was real feeling — I'm now leaning hard toward yes. But I still can't fully tell its object: is she jealous of Pace's tenderness toward Vee, or wanting Vee herself and unable to hold it? The "It's *criminal*, Pace" moment — dragging her own body down his to *show* him what Vee has — reads as real appetite for Vee bleeding through the assignment. And tellingly, Pace clocks it: "not the picture of Vee she'd handed him, but Randi... wanting something out loud in his bed and not able to stop it." He notices the crack. That's the reader's data point, witnessed by the one person who could use it.
+After three chapters lived entirely inside Vee's warm, giddy present — the dress, the mirror, the shoes, the laughing — this one dropped me back through the trapdoor, and I felt the floor go. We're in Pace's warm house again, lamp low, Randi astride him, spent, Sade running low down the hall. And it's the two of them talking about Vee. That's the whole chapter, and it's devastating precisely because it isn't cruel. That's what got me.
 
-Pace moved for me too, and complicatedly. "I want her to get there on her own." That's not the line of a man who thinks he's simply running a con — he wants Vee to *arrive*, not be delivered. It sits uneasily against everything I know about the engineering, and it's exactly the ajar-ness the book keeps: real tenderness and a built apparatus, both true. "Somebody taught her to be ashamed of her body" — said "low, certain, without heat" — he sees her clearly, and Randi turns even that into fuel: "That's why she's so gone over you."
+Because here's the thing I braced for and didn't get: I expected the scheming-lovers debrief, the cold post-mortem, Randi reporting intel like a handler. And it's not that. The first thing out of her mouth is "I didn't think I'd like her this much." "I keep waiting to get bored of her — you always get bored — and it doesn't come. She got past me before I could help it." That's the jacket's promise landing right on the page — how real it would get, as true for the two who started it. Randi is confessing, half against her will, that the mark became a person to her. And I believe it. The Saturday retelling — the canoe shoe, the full bigfoot, the older couple, Vee going red — is told with real delight, and I've just read that scene from Vee's side, so I get the strange double exposure of watching a genuinely lovely afternoon get repeated in bed as pillow talk between the two people who engineered the whole thing. The tenderness and the trap are the same object here. I couldn't pull them apart, and I don't think I'm supposed to.
 
-The erotic charge worked on me, low and smooth, especially Randi's undefended looseness — but the heat here is doubled-edged: her wanting-Vee-out-loud is the hottest and most exposed thing in the scene, and it's the crack.
+And then: "She was so embarrassed." Softer. "That was kind of hot." That's where my stomach turned, quietly. Vee's shame — the exact shame Pace supposedly exists to heal her of — is a thing Randi finds erotic. The chapter sets those two facts side by side without comment: Pace says "Somebody taught her to be ashamed of her body" with real conviction, and Randi, who was aroused by that shame twenty lines earlier, agrees that he's showing her she doesn't have to be. Nobody in the room notices the contradiction. I noticed it. It sat cold in me.
 
-Title — **"Gone."** Randi says Vee's "got it *bad*... She's so *gone* over you." So "gone" is Vee's helpless falling. But on the page it recolors: Randi is the one who can't get *bored*, can't help it, went tight and undefended — she may be the one who's gone. I read it both ways and I think it means both.
+Pace. God, Pace. The most unsettling thing in the chapter is how much I still find him moving even here, seeing him from outside for once. "She comes in and the whole thing goes brighter. Like somebody found the lamp. And she has no idea she does it. She spends the entire time sure she's too much, and she's the most alive person standing there." That's real. That's not a con man's line — he's not performing it for Randi, he's "seeing it," not looking at anything. He loves what Vee is. And that's the horror of him, sharper than ever: the seeing is genuine and the whole apparatus around it is a rigged game. "I want her to get there on her own" — he says it about pacing Vee's seduction, and it's the same courtliness that melted me in the fitting, now shown as strategy discussed over a lover's chest. The "May I / leave the choosing to her" that reads as reverence from inside Vee's POV reads, from here, as method. Same numbers, opposite direction across the whole of it — the professor's Simpson's paradox from last chapter is basically the reading instruction for this one. Short stretches can lie against the whole.
 
-What I dread: that Randi's real feeling doesn't save Vee — it just makes the extraction more intimate. What I want: to know what that tightness *is*.
+The moment that actually moved me most, though, wasn't about Vee at all. It's when Pace turns his lamp-finding gaze off Vee and onto Randi — "not the picture of Vee she'd handed him, but Randi, who kept a hand on every ounce of herself out in the world, wanting something out loud in his bed and not able to stop it." From my checkpoint I carry Randi's terror of being seen, her resolve to give him only the face. And here she slips — she wants out loud, she confesses liking Vee "before I could help it," she goes undefended for a second ("Pace this, Pace that... I love it"). Then the tell I'll be chewing on: when Pace describes Vee as "the most alive person standing there," Randi goes still. "Not the loose stillness of after. A different one, the kind that takes holding." Something tightens. "Yeah," she says, "when she'd been quiet a beat too long." And then she reaches down, finds him hard, and turns it into sex — closes the door on whatever just moved in her. I read that as jealousy, plain and quiet: he lit up describing Vee the way Randi has built her whole life around being lit up for, and it landed somewhere she doesn't want him to see. The chapter leaves it exactly ajar — it names the stillness and the tightening and lets her cover it, and I want to leave it there too. It could be jealousy of Vee, or fear that Pace is going somewhere real without her, or her own guilt at how gone she is over Vee herself. The page holds all three open. I love that it doesn't resolve it.
 
-## Carry-forward state
+Swoon and heat: the erotic charge here is lower-key than Vee's chapters and different in kind — it's intimacy between two people who are genuinely at ease with each other, which is its own heat. Randi loose in a way "she only went afterward," setting down out in the world at his door. The moment she drags her breasts down the length of him to show him with her own body what Vee keeps "under there" — "It's criminal, Pace" — is the erotic peak, and it's doubled and strange: she's using her body to describe Vee's, wanting Vee out loud while riding the man they share. That's hot and slightly vertiginous at once. The closing sex is brief, tender, low-lit, "he let her set the pace of it," and it works as warmth more than as graphic charge — a 2, not a 3. What unsettles rather than swoons is stronger than the swoon this time, and honestly that felt right; I don't want to be swept up by these two the way I get swept up by Vee, and the chapter didn't ask me to be.
 
-**Principals**
-- **Pace** (= Peter) — male. Math PhD near done, powerlifter, builds furniture; runs meticulous-consent scenes; engineered Randi's attraction and the staged collision. Large scar high on inner thigh he closed off from Vee's look. Made the burgundy gown fitted to Vee's stripped shape. **Present.** Keeps the house warm "the way he kept it when she was there." Sees Vee clearly — "Somebody taught her to be ashamed of her body" — and says "I want her to get there on her own." Noticed Randi's undefended wanting and her tightening, and chose not to take up what she set down ("that was hers to hold").
-- **Randi** (= Miranda) — female, 21. Sorority Standards. Disordered eating, hidden self-harm; curated face; the only place she "sets it down" is his door — talks less, goes loose. Size 7, same as Vee. **Present.** Playlist (Sade). "The whole hour" of the shoe-date, Vee talked about Pace.
-- **Vee** (= Vivienne Thorne) — female, 21, junior. **Jacket protagonist.** Tall, lush, warm dark-red hair, snub nose, cinnamon freckles. Econ; sharp room-reader, deep self-surveillance, lifelong body-shame; broke, now in unpayable card debt she hides from her own face. **Absent** (talked about throughout). Hides in a cardigan; did the "full bigfoot" canoe-shoe walk, mortified when an older couple watched.
-- **Cassie** (= Cassandra) — female. Vee's roommate/friend; clean love, immune clear eye; soccer. Absent.
-- **Kayla** — bright amplifier. **Meg** — calm, soft warning. **Brooke** — sorority president; collected Pace's details. **Unnamed taller woman** *(identity open)* — appraised Vee like merchandise; held open. **Christine** — runs restaurant, knows Pace. **Daphne** — Pace's past, the "door" he didn't respect. **Theo** — asked Vee out in September; friends. All absent.
+Trust vs. suspicion: no new suspicion needed — the whole architecture is confirmed, not hinted. What moved is my read of the temperature inside the conspiracy. It's warmer and more genuinely tangled than I'd feared, which somehow makes it worse for Vee, not better. If Randi were only cold I'd know how this ends. Instead Randi likes her, maybe wants her, and is jealous of her, and is still going to do whatever the plan is. That's the merciless tenderness the jacket named. The one thing I'll flag as my own guess-from-here: Randi's stillness when Pace glows about Vee reads to me like the first crack in the two schemers' alignment — I suspect the danger in this book may end up being as much between Randi and Pace as it is toward Vee.
 
-**Relationship ledger**
+Friction: almost none. "you always get bored" does a small bit of retroactive character-painting — telling me Pace has a pattern of tiring of people — and it's efficient rather than heavy-handed, but it's the one line where I felt the author reaching to characterize him. Otherwise the restraint is total: nobody names the cruelty, nobody twirls a mustache, the contradiction about Vee's shame is left for me to find. That trust in the reader is the chapter's whole method and it worked on me.
 
-*Core — Pace & Vee:*
-- **State:** involved (consummated: y — twice, second in the gown). secret, one-sided (Vee unaware of engineering). Care real and costly *and* serves a built apparatus — both poles stand.
-- **warmth ↔ cold:** warm; he sees her precisely and without heat, wants her to "get there on her own."
-- **isolation ↔ belonging:** the gown routes the day back to him; here he holds her clearly in his mind absent.
-- **cherished ↔ used:** cherished sharpened on the page (he wants her to arrive freely); using-pole reader-held (still the target of a run operation).
-- **desire worked-on-her ↔ desire hers:** he explicitly wants her want to be *hers* — "on her own." Refreshes both poles at once.
-- **This chapter:** he named the tenderness aloud — sees her shame, her light, wants her free arrival; the engineering unspoken beside it.
+The title — "Gone." Beautiful and it cuts three ways at once, and I only feel the third one after reading. Vee is "gone over" Pace — Randi says it twice, "She's got it bad," "That's why she's so gone over you." That's the surface. But the last word of the previous chapter's world and the drift of these three chapters is Vee being carried further out — gone, as in past the point of coming back, in over her head, the credit card with nothing under it. And then the quiet third reading, the one that recolors it: Randi. "She got past me before I could help it." Randi is gone too — gone over Vee, gone somewhere she didn't plan, and maybe gone from Pace a little in that stilled beat. The person the title finally seems to point at might be the one running the game. That's the charge the book's titles keep having on reread, and this one earned it clean without giving anything away up front.
 
-*Core — Vee with herself:*
-- **State:** managed surface over unlooked-at want; surveillance guards the secret and now conceals her financial ruin from her own face. "Slut"/*floozy* bruise still live. Justifies debt as obligation ("the shoes were what the dress was owed").
-- **This chapter:** no direct change (absent); the mortification-under-watching pattern re-shown (bigfoot walk) — Randi found it "hot."
+The book's title, A Polite Invitation, and the tagline "Every yes was freely given. That was the problem." — this chapter is almost a thesis statement for them without ever saying so. "I want her to get there on her own." Every step Vee takes she takes; and I've just watched, from the other side of the bed, the two people arranging the room she'll walk into. With a Long Spoon — sup with the devil, use a long spoon — and here are the devils, warm and spent and fond, and the spoon is courtesy, patience, the choosing left to her. The series title feels more exact to me now than it ever has.
 
-*Core — Randi & Vee:*
-- **State:** Surface (Vee): closest, funniest friend, "practically a marriage." True: the operation's closer, holds everything Vee withheld. **New this chapter (reader-side):** Randi can't get bored of her, "she got past me before I could help it" — and her want for Vee's body surfaced out loud in Pace's bed ("It's *criminal*, Pace"), dragging her own body to show it. Feeling for Vee now reads at least partly real, not only played.
-- Axes: warmth (peak); belonging (marriage frame); cherished/used still split (real delight + running operation); desire-worked-on-her/hers — Randi's *own* desire toward Vee refreshed and hard to dismiss.
-- **This chapter:** the un-refreshed "real crack" data point got refreshed — Randi tightened when Pace called Vee "the most alive person standing there," and wanted Vee's body aloud. Both point to genuine feeling under the assignment.
+What I want next: to get back to Vee and feel the drop of the contrast — to hold what I now know against her happiness. And I dread it, in the good way. I want to know what "she's not ready, though — she'll get there" is pointing at; the plan has a next stage and they just discussed its pacing over my head, the way they discuss everything over Vee's. Guess from here: the "getting there on her own" is Vee arriving at wanting Randi, or wanting them both, and being led to believe it was entirely her own idea — the jacket's threesome, reached so gradually she'll never see the hand on the tiller. And I'll be watching Randi's stillness, because I think that's where the real thing cracks open.
 
-*Core — Pace & Randi:*
-- **State:** involved (consummated: y — on the page this chapter), secret from her sorority world. He directs her desire outward toward Vee under a shared-game/gift frame.
-- **warmth ↔ cold:** warm, intimate; his house kept warm for her, she goes undefended only here.
-- **cherished ↔ used:** he holds her, lets her set the pace, doesn't take up what she can't hold — reads as care; she is also his instrument on Vee.
-- **This chapter:** first direct texture of *their* bond — tender, sexual, real. He noticed her tightening/undefended wanting and let it stay hers. She banked delight into "careful": "She's not ready... you'll want to take your time," and he answered he wants Vee's arrival to be her own — a small daylight between them on method.
+STRUCTURED BLOCK
 
-*Core — Randi with herself:*
-- **State:** at war; face vs. person under it; the only place she sets it down is his bed. **New:** the tightening + the aloud-wanting of Vee are involuntary, un-hold-able — her own feeling breaking the curated surface, witnessed by Pace.
-- **This chapter:** the strongest evidence yet that real feeling (jealousy? want for Vee? for Pace's tenderness?) is running under the execution — object still ajar.
+Cast present (in person): Pace, Randi (in his bed, after sex). Mentioned-only: Vee (the whole subject of the conversation), the older couple at the shoe store (recalled), Cassie (not named but implied in the retold Saturday — actually not present).
 
-*Vee & Cassie:* Central, clean; absent. Gap stands — Randi holds everything, Cassie holds the love and no fact.
+Heat: 2 — spent-and-tender intimacy throughout, an erotic peak when Randi drags her body down his to describe Vee, a brief low-lit sex scene to close; warmth over graphic charge.
 
-*Vee & Kayla / Vee & Meg:* Easy, warm; absent. *Randi & Brooke / Randi & Cassie:* no change.
+Romance: 2 — real, easy tenderness between Pace and Randi (her going loose "as she only went afterward," his hand in her hair), plus a confession of feeling; but shadowed, and the peak here is unease as much as bond, so short of a 3.
 
-**What I know that they don't**
-- (Caring) Pace genuinely moved by Vee — the gown, the reveal, sees her shame and light precisely, wants her to arrive on her own.
-- (Caring) Pace genuinely moved by Randi — holds her, lets her set the pace, doesn't seize what she can't hold.
-- (Caring) Pace's cold/shirt-sacrifice on the hike were real, unseen by Vee.
-- (Caring) The MRI patent is real, aimed at helping frightened sick people.
-- (Caring) Cassie's love for Vee is clean, senses the shape, lacks the fact; chose kindness over pressing.
-- **(Caring/ajar, refreshed & strengthened) Randi's feeling for Vee reads at least partly real: can't get bored, "got past me before I could help it," tightened involuntarily when Pace praised Vee, wanted Vee's body aloud in bed. Object of the feeling still open (Vee, or jealousy of Pace's tenderness).**
-- (Using) Pace engineered Randi's attraction and "choice," harvesting involuntary response as consent; may have targeted Vee — ajar.
-- (Using) Pace & Randi run Vee as a coordinated operation — Randi the closer, Pace clearing the standard. **But their methods diverge slightly: Randi pushes ("she'll get there"), Pace wants Vee's arrival to be her own.**
-- (Using) Randi engineered Vee into unpayable card debt for boutique shoes, framed as sisterhood, using the gown as lever, while outspending her many times over; Vee hides it from her own face.
-- The gown is built to Vee's exact stripped shape; riser/mirror sets her at his kneeling eye-level as method; Randi's boutique kneel echoed that posture.
-- Randi now holds *everything* Vee withheld, including the dress-showing.
-- Randi extracts and withdraws as method; deliberate goodbyes/grabs/dates.
-- Randi self-harms / eats disordered unconsciously; nobody, including her, is looking.
-- Vee has been selected and pursued and does not know it; names it as free agency; has consented to the surrender.
-- The flannel shirt Vee treasures was made by Pace.
-- His house kept too warm; **two towels** in a one-man house (unseen).
-- Brooke deliberately collected Pace's details; reason unknown.
-- A silent taller woman appraised Vee like an object; who/why unknown.
-- Vee's want between women is live, physical, aimed at Randi (toe-touch swing).
-- Pace has a large scar high on his inner thigh he closes off from her look — unexplained.
-- **(Structural signal, reader-only) Simpson's paradox: "short stretches can lie against the whole."**
+Motifs & images: Warmth/the kept-warm house (repeat — "warm the way he kept it when she was there," echoes the heat turned up early in ch14, "Peekaboo"'s warm house). Being seen / "found the lamp" (repeat of the lights-on/"there you are"/being-looked-at motif — now Pace describing Vee as the lamp, and Randi built to be looked at going still under it). Hunger/appetite implicit in "you always get bored" (repeat, the boredom-as-satiety note). Shame as the thing under the cardigan (repeat — the mother's-voice/floozy shame, now spoken by Pace as diagnosis and by Randi as arousal). The choosing left to her / "get there on her own" (repeat of the "May I"/leave-it-to-her courtliness, now shown as method). The retold shoe-store Saturday (repeat of the immediately-prior chapter, seen from the other side). Sade/the playlist "under the door" (first sighting — music, and the recurring door/threshold motif carrying it). Randi's stillness "that takes holding" (first sighting — a new tell for her hidden interior, kin to the bottle-cap self-soothing from the checkpoint).
 
-**Motifs**
-- **The mother's voice — *floozy* / "slut"** — quiet; bruise still live.
-- **Kneeling / eye-level as method** — Pace at the mirror; Randi at the boutique. Not this chapter, still standing.
-- **Randi's warmth as a lamp / by the hands** — inverted here: *Pace* uses the lamp image for Vee ("Like somebody found the lamp"), the same figure Randi is built to embody. First cross of the lamp image onto Vee.
-- **"Made *to* you," not *for* you** — the binding frame; quiet this chapter.
-- **Money / the flinch she won't show** — quiet; debt still hidden.
-- **The made bed as tattletale** — quiet.
-- **Same size / "practically a marriage"** — quiet; the size-7 sisterhood still the hook.
-- **Randi's involuntary tightening / going still "the kind that takes holding"** — recurs and strengthens: happens when Vee is praised or glowed-about. Now witnessed by Pace. Most charged: this chapter's stillness at "the most alive person standing there."
-- **Wanting-out-loud she can't stop** — new: Randi in bed, undefended, "wanting something out loud... and not able to stop it." First naming; the crack in the curated face.
-- **The playlist under the door (Sade)** — new; frames both the after and the second time; low, warm, "the warmth folded under it" the cool voice.
-- **Being watched while unaware → mortification** — the older couple watching the bigfoot walk; Vee going red, wanting the floor to take her; Randi found it "hot." Recurs (Vee's being-looked-at → shame pattern).
+Symbolism: Simpson's paradox from the prior chapter functions retroactively as the lens on this one — the same facts (Vee's happiness, Pace's real seeing) run opposite across the whole when you add the hidden column. The lamp ("somebody found the lamp") — Vee as unwitting light source, and Randi, who has organized her life around being the one looked at, going still in the dark beside it. The playlist under the door — warmth folded under a cool voice (said of Sade, true of Randi), and the closed door as the threshold Vee is being drawn toward.
 
-**Symbolism noticed**
-- **The lamp** = the aliveness Randi is deployed to perform, here named by Pace as *Vee's* native quality — the real thing the instrument imitates.
-- **"Get there on her own"** = the fiction of free arrival the whole operation is built to produce; Pace seems to half-believe it and want it true.
-- **Simpson's paradox** = the book's shape; this tender bedroom stretch may lie against the whole.
-- **Randi setting it down at his door** = his bed as the only place her surface drops — where the real feeling leaks.
+Characterization: Both deepened. Randi is the chapter's real event — the schemer shown genuinely taken with her mark, confessing it against her own control, then jealous/stilled when her partner glows about the same girl, then covering it with sex; her terror-of-being-seen from the checkpoint now leaks the other way, as a want she can't keep in. Pace deepened uneasily: his seeing of Vee is confirmed sincere from outside her POV, which makes the engineered frame around it colder, not warmer; "I want her to get there on her own" fuses his tenderness and his method into one line. Nobody went thin. The "you always get bored" is the only slightly convenient stroke.
 
-**Open questions**
-- **What is the large scar high on Pace's inner thigh?** *(top pull)*
-- **What does the unpayable debt cost Vee — and when does it surface?** *(live)*
-- **What is Randi's tightening/aloud-wanting the sign of — jealousy of Pace, want for Vee, or both?** *(refreshed hard; now the live center)*
-- Where/when does the gown get worn, and who else is in that room?
-- **Two towels** — who is the second body the house provisions for?
-- What is Randi's white-gold wrist band?
-- Genuine restraint/patience vs. control (Pace). *(both; "get there on her own" deepens it)*
-- Will Cassie's read reach the true shape? *(gap structural)*
-- Who is the silent taller woman?
-- Did Pace target Vee by name, or did the game land on her?
-- Why is Brooke collecting Pace's details?
-- What is the game's endpoint?
-- How much of Randi's warmth is felt vs. played? *(now clearly at least partly felt)*
-- Who is Daphne, and what did the closed-door lesson cost Pace?
-- How far does the opening go before it turns?
-- Is Vee's drift costing her her clear eye? *(it now conceals her own ruin)*
-- The frosted-plum toe polish "chosen to catch the light as the silk did" — chosen by whom, for whom?
+Pace — within the chapter: Excellent. A single unbroken post-coital scene, mostly dialogue, that earns its length by doing continuous work — every exchange either confirms the architecture, reveals feeling, or turns the screw. The stillness beat is perfectly placed and the close doesn't overstay.
 
-**How I feel — overall**
-Uneasy and moved together, but the balance shifted: this chapter made both Pace and Randi *more* human, not less, and that's worse, not better, for Vee. Pace wanting her to "get there on her own" is tender and self-deceived at once. Randi's tightening — now three times, now witnessed — I no longer read as pure play; something real is loose in her, and I want its name. The Sade-lit intimacy worked on me straight, and I resent a little how well. I trust Cassie absolutely and feel her absence structurally. What I carry out: the lamp image, born as Randi's instrument, laid by Pace onto Vee as her true nature — and Randi going still under it.
+Pace — chapter to chapter: A deliberate, welcome gear-change. After three Vee chapters of accumulating sweetness (dress, lecture, shoes), this cut back to the frame re-supplies the dread the run had let drift pleasantly out of view, and reframes the whole shoe-store afternoon I just read. Momentum building — not in plot events but in tension between what I know and what Vee feels, and in the new fault line opening between the two conspirators.

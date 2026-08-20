@@ -61,7 +61,7 @@ never character facts) if you need it to expand ranges/checkpoints.
   where to place a scene).
 
 For each resolved stage, the carry-forward source is
-`reviews/cold-read/<id>/<stage-slug>.md` → its `## Carry-forward state`. **If that file
+`reviews/cold-read/<id>/chained/<stage-slug>.md (the archived chained lane)` → its `## Carry-forward state`. **If that file
 is missing for this model, stop** and say so — the reader-state can't be fabricated;
 suggest running `/wals-cold-read --model <id>` to that stage first.
 

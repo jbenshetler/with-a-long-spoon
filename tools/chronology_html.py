@@ -445,8 +445,8 @@ def scene_filename(meta_raw: str):
 # half-point like 1.5 or written "2.5/3"). We average those across whatever
 # models reviewed a scene and render flame/heart pills. Purely a reader-signal
 # overlay; nothing here feeds canon recall.
-HEAT_RE = re.compile(r"Heat:\*\*\s*([0-9]+(?:\.[0-9]+)?)")
-ROMANCE_RE = re.compile(r"Romance:\*\*\s*([0-9]+(?:\.[0-9]+)?)")
+HEAT_RE = re.compile(r"Heat:\*{0,2}\s*([0-9]+(?:\.[0-9]+)?)")
+ROMANCE_RE = re.compile(r"Romance:\*{0,2}\s*([0-9]+(?:\.[0-9]+)?)")
 
 
 def _norm_slug(s: str) -> str:

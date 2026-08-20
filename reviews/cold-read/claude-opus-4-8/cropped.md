@@ -1,148 +1,43 @@
-# Cold read — Cropped
+# Cold read (grounded) — Cropped
 
-*scene: scenes/cropped.md · prose-blob aacd362a185b199bb126e45fb855a77036a660ad · model: claude-opus-4-8 · read after: new-ordinary · 2026-08-13*
-<!-- freshness: prose-blob = `git hash-object scenes/cropped.md` at read time; if it differs from the live file's hash, this review is stale. -->
+*scene: scenes/cropped.md · model: claude-opus-4-8 · memory: ck-ch040 (no window) · reader-protocol: v3-grounded-checkpoint*
 
 ## Reader reaction
 
-A small, careful chapter — two friends at dinner, no heat, and yet it did something. This is Vee trying to fit Pace into the frames she has: her father's, her mother's, Cassie's — and finding he doesn't fit any of them.
+FELT READ
 
-The title landed before I read it, and then earned itself twice. **"Cropped"** — she cropped the induction photo "before I sent it. The version they have stops at the waist." My first read: modesty, the dress showed too much shoulder. But sitting with it, it's the same gesture as everything she does — she edits the frame so the true shape stays out of view. Her parents get the waist-up version; Cassie gets "the parts that fit"; her father gets "a math PhD candidate" and "we went hiking" and *not* that he cooks, owns his house, sewed the dress. She crops Pace the same way she cropped the picture. And the thing she keeps cutting out is the same thing I keep watching: how *made* all of it is.
+After the heat and domesticity of the last stretch — the pizza, the flannel handed back to be re-scented, the nude photo — this is a deliberate cooling, a plain cafeteria table on a Sunday, and it works on me exactly because it's so quiet. It's a talking chapter, a debrief, and I found myself leaning in the whole way through because it's the first time in a while I've watched Vee try to translate what she has into a language that isn't Pace's or Randi's. The translation keeps failing, and that failure is the chapter.
 
-The dress. That's the payload. **Pace sewed it himself, on a machine on his sun porch, because she mentioned once she'd seen one in a magazine she couldn't afford.** So the gown built to her exact stripped shape — the one I've been holding as an open question — she *wore it*, to her induction, and it came from his hands. It reads on the page as pure tenderness, and from her side it is; "I'm not ashamed of it. The opposite, if anything." But I felt the cold draft under it: he made the thing she stood up in to be honored, cut to her body, and she can't tell anyone where it came from. Her own line — "my dad would take it better if I told him Pace takes that dress off me than that he made it" — is doing more than she means. The making is the part that doesn't fit anywhere.
+The best thing here is Cassie. I already trust her more than anyone in the book, and this chapter earned that trust again without a single dramatic gesture — she just eats, waits, and asks two clean questions at the exact right moments. "So what is he. Not to your dad. To you." And then the one that actually landed on me: "Is it that you can't say, or that you don't want to?" That's a friend who sees the whole shape of the thing and declines to force it open. When Vee says "Both. Probably both," I felt the floor tilt a little — because I know what she can't say (the sewing, the spanking, the drawer, the being-photographed) and I know what she won't say (that she's in deeper than a girl telling her father "boyfriend?" with a question mark can admit). The chapter lets that "both" sit without resolving it, and I loved that it didn't tidy it.
 
-What moved me most is Cassie's clean, exact question: "So what is he. Not to your dad. To you." And Vee has *nothing*. "not the right word for what he was, not the right story for how it had gone, not the version of herself that stood up cleanly in the telling." That's the truest self-sight she's had — she can't narrate him because there's no honest version that survives being said aloud. And then Cassie, gently: "Is it that you can't say, or that you don't want to?" "Both." That landed hard. She's up against the edge of her own not-looking and she names the edge without crossing it.
+The father material is where the writing is quietly excellent. Vee reasoning that her dad would take it better if Pace took the dress off her than if he'd made it — "Sex he understands. The sewing he never would." — is funny and true and also does something sneaky: it flags that the genuinely strange thing about Pace, the thing that doesn't fit any frame, is the making. The care. The competence turned entirely toward her. And "Too good is its own kind of suspicious" gave me a small cold drop, because I'm the reader who knows there IS a catch, and here's Vee's own father's instinct — the correct instinct — being narrated and then set aside. That's the chapter's one deliberate touch of dread, and it earned it; it isn't the author elbowing me, it's Vee affectionately dismissing exactly the alarm I'm carrying.
 
-The last line is quietly devastating in the friendship key: "Vee was grateful. She was also, a little, not." She wants Cassie to push, and is relieved she doesn't — the same wanting-him-to-fight-for-it she named last chapter, now aimed at Cassie: wanting to be made to say the thing she can't make herself say.
+The title, "Cropped." I braced a little because I remembered she cropped the nude for Randi last chapter. Here it's a gentler crop — the induction photo she sent her parents "stops at the waist," and the detail of her mother printing it, carrying it in her purse, taking it out to show people who'd already seen it, her father looking not at her but at the dress, pricing it. The word does a lot: everything Vee sends home is cropped, edited, "the parts that fit." The whole chapter is about the frame she has to cut herself down to for the people who knew her before. And "the version of herself that stood up cleanly in the telling" — she doesn't have one. That's the ache. The title didn't give anything away; it deepened on arrival, which is what I want a title to do.
 
-No suspicion added, nothing new to indict — this is character, not plot. But the dress reveal tightens the whole apparatus by one turn: the honor, the parents' pride, the boyfriend-with-a-question-mark, all of it sits on a garment he cut to her body and she has to keep off the record.
+No swoon here, and I didn't want one — this is the morning-after-the-morning-after, the reckoning-in-miniature. The erotic charge is at zero and rightly so; the only heat is referential (the dress, the taking-off). What's working instead is a low, sad intimacy: two women who love each other, one of whom is quietly disappearing behind an edited version of her own life. "She was grateful. She was also, a little, not." That last line is the whole thing — Vee wishing, just slightly, that Cassie WOULD push, because being un-pushed means staying alone inside it. That landed harder on me than any of the sex has in a few chapters.
 
-Erotic charge: none, and rightly. This is the cool, clear-eyed morning-after of the mind.
+Trust vs. suspicion: no new suspicion, but the chapter sharpened the existing one by handing it to the father's gut and to Cassie's careful non-questions. Nobody on the page feels "off" — the off-ness is structural, the thing Vee can't fit into any frame, and both Cassie and (offstage) her dad are the sane instruments registering it. I remain worried for Vee in a way this chapter only tightened, precisely because it's so tender and so honest about what she's leaving out.
 
-Series titles keep confirming: **A Polite Invitation**, **With a Long Spoon** ("he who sups with the devil needs a long spoon") — and here she's the one holding the short spoon, unable to say what she's supping with.
+Friction: almost none. It's a short scene and doesn't overstay. If anything I could have used one more beat of Cassie — she recedes a touch fast at the end — but the recession is the point (she chooses not to push), so I won't fault it. Nothing here felt like the author's thumb; the closest is "Too good is its own kind of suspicious," which is a hair aphoristic, but it's Vee narrating her father's mind, so it reads as character, not authorial nudge.
 
-## Carry-forward state
+Book/series titles: "A Polite Invitation," "With a Long Spoon," and the closing tagline "Every yes was freely given. That was the problem." This chapter is a small, sharp illustration of that tagline — every choice Vee's made is hers, and the trouble surfacing here is that she can't tell the story of those choices to the people who love her without cropping it down to nothing. "With a Long Spoon" (sup with the devil) keeps getting quietly more ominous the warmer and more real things get; here it's not the devil at the table, it's the girl unable to say what she's supping on.
 
-**Principals**
-- **Pace** (= Peter) — male, 22. Math PhD near done, powerlifter, builds furniture (built the flannel; the low table of odd proportions). Runs meticulous-consent scenes; engineered Randi's attraction and the staged collision. Running Vee and Randi at once; "Randi. That's not finished." Large scar high on inner thigh — untold; closed room around his parents ("I don't go back"). Holds Vee's posed nude. **This chapter (mentioned-only):** revealed to have **sewn Vee's induction dress himself** on a machine on his sun porch, because she once mentioned a magazine dress she couldn't afford; taught her to dance on concrete with a boom box before any hall; owns his house; cooks for her.
-- **Randi** (= Miranda = Miranda Holdings family) — female, 21. Sorority Standards. Disordered eating, hidden self-harm; curated face; the closer running Pace's method. Green Mercedes. Genuinely wealthy — Miranda Holdings, LLC took PPP loans, kept money, cut jobs; the county outlier. Broke *unperformed* over it in front of Vee, unaware she was seen. **Absent this chapter.**
-- **Vee** (= Vivienne Thorne) — female, 21, junior. **Jacket protagonist. POV.** Tall, lush, warm dark-red hair, snub nose, cinnamon freckles; drives a Corolla. Econ; sharp room-reader; lifelong body-shame easing; broke, hidden card debt. Inducted into an honor society (parents proud, mother cried). **This chapter:** cropped her induction photo at the waist before sending it home; told her father only "the parts that fit"; couldn't name what Pace is to her, to Cassie — "Both. Probably both."
-- **Cassie** (= Cassandra) — female. Vee's roommate/friend; pre-nursing; clean love, clear eye; soccer; laid-off dad (2020). **This chapter:** on the page — home for Thanksgiving (sister's new baby, dork brother-in-law, parents still treat her like high-schooler); asks Vee the exact, unpushing question "what is he… to you," accepts "both," doesn't push.
-- **Sheri** — female. Pace's cycling friend ~2 years; reads him better than himself; warned two-at-once complicated; alone, his Thanksgiving. Absent. *(Open: possibly = "older bartender.")*
-- **Brooke** — Randi's sorority sister; house has a folder on Vee. Absent.
-- **Daphne** — Pace's first, assigned older tutor: she 19, he 15. Mentioned-only; harm ajar. Absent.
-- **The blonde girl** — at the bar; said Pace "knows how to get a girl to do just what he wants." Named-only. Absent.
-- **The older bartender** — corrected the record. Absent. *(Open: may = Sheri.)*
+What I want next: I want to know if Cassie's "a little, not" grateful goes anywhere — whether the un-pushed thing festers or whether Cassie eventually pushes. And I want to see Vee back with Randi or Pace after this, carrying the residue of having had to crop herself for home, because I suspect (guess from here) that the ease of telling Randi everything — versus the impossibility of telling her parents anything — is going to be the exact lever that tips Vee further into Randi's world. This chapter felt like it was quietly loading that.
 
-**Relationship ledger**
+STRUCTURED BLOCK
 
-*Core — Pace & Vee:*
-- **State:** involved (consummated: y — many times). secret, one-sided (Vee unaware of engineering). Vee privately loves him; said "Maybe. I think so" aloud. He has never said it. Care real and costly *and* serves a built apparatus. Reconciled. Standing objects: Vee's posed nude in his keeping; the flannel he made, now a re-scenting ritual; **the induction dress he sewed himself to a magazine picture she couldn't afford, cut to her body — worn in public to be honored, its maker unspeakable to her family.**
-- **warmth ↔ cold:** warm on both surfaces. Reader keeps pattern-words ticking: he never fights for the nights; the made dress reads as pure tenderness on her side, with a cold draft under it (a garment cut to her stripped shape, its origin she must hide).
-- **isolation ↔ belonging:** belonging deep; a drawer of her in his house; gray Mon–Thu vs. saturated weekend. **New pressure:** the belonging cannot be *told* — no frame in her family or her friendship holds him; she crops him out to make the story survive.
-- **cherished ↔ used:** cherished pole loud — the dress made "because I mentioned once." Reader-shadow: the same dress is one more thing built to her exact body and kept off the record; "he'd think it was weird… weird is worse than wrong."
-- **desire worked-on-her ↔ desire hers:** her want feels wholly hers. Quiet this chapter; the shape now shows in *speech* — she has no honest version of herself that "stood up cleanly in the telling."
-- **This chapter:** no state change; the sewn dress surfaces as a new standing object and deepens the cherished/used chord; belonging revealed as untellable.
+Cast present (in person): Vee, Cassie. Mentioned only: Pace, Vee's mother, Vee's father, Cassie's parents/sister/brother-in-law/new baby.
 
-*Core — Vee with herself:*
-- **State:** managed surface over unlooked-at want; body-shame easing; won't ask about the scar/parents; hasn't done the debt math; pays without looking. **This chapter:** her sharpest self-sight yet — faced with Cassie's plain question, she finds she has *no word, no story, no clean version of herself*; admits she both *can't* and *doesn't want* to say what he is; and registers she's "a little" ungrateful that Cassie didn't push (the same wanting-to-be-made-to-say that she aimed at Pace's non-fighting). Names the edge of her not-looking without crossing it.
-- **This chapter:** recognition deepened, still unacted.
+Heat: 0 — no sexual activity; the only eroticism is referenced (the dress being made, taken off). A cooling, reflective chapter by design.
 
-*Core — Randi & Vee:*
-- **State:** attracted → closer-work at full operation. Surface (Vee): closest friend. True: the closer running Pace's method. Flag stands. Reversal holds: Vee saw Randi's family shame, understood it, Randi doesn't know she was seen; Vee spends the advantage protecting Randi.
-- **warmth ↔ cold:** blazing warm on Vee's surface; genuinely warm on reader's side in Vee's direction; closer-cold holds on Randi's side; Randi's unperformed break stands as the strongest crack in the pure-instrument read.
-- **isolation ↔ belonging / cherished ↔ used / desire:** quiet (Randi absent). Extended-kiss claim stands; Vee's want between women, aimed at Randi, stands.
-- **This chapter:** no change (absent).
+Romance: 1 — faint, and it's the friendship-love between Vee and Cassie more than the romance; the Pace romance appears only as something Vee can't translate. Warmth present, tender, but muted and edged with unease.
 
-*Core — Randi with herself:*
-- **State:** at war; face vs. person; makeup "so finely done it passed for skin." The face slipped a second time under genuine unwilled exposure of family shame ("cheating bastards," color gone) — the truest, least-performed thing she's done. Privilege real; its source shames her, maybe not fully known to her. No change (absent).
+Motifs & images: The burgundy/plum dress (repeat — the induction dress, here the object her father "prices" and her mother eyes at the shoulders). The induction photo (repeat, Ch 31/37 — here cropped "at the waist" for her parents, echoing the cropped nude she sent Randi in Ch 38). The mother's collarbone touch / "you know how she does" — the inherited-shame gesture in a new key (repeat of the "floozie"/mother's-voice motif, now silent and physical). Pace's sewing/the sun-porch machine (repeat — reframed as the un-tellable thing, "weird worse than wrong"). Food/the shared table (repeat, ongoing) — but here it's institutional cafeteria food, deliberately un-fed, the opposite of Pace's table. "The parts that fit" / cropping / editing — first sighting as an explicit theme-word, tied to the title.
 
-*Core — Pace & Randi:* involved (consummated: y), secret from her sorority world; he directs her desire toward Vee. "That's not finished." No change (absent).
+Symbolism: The crop itself — every version of her life she sends outward stops at a safe waist; the photo that "stops at the waist" stands for the whole edited self she can offer the people who knew her before. "Weird is worse than wrong" — the making/care as the genuinely uncategorizable thing, the real catch her father's instinct circles ("too good is its own kind of suspicious"). Cafeteria food vs. Pace's cooking as an unspoken measure of what she now has and can't name.
 
-*Vee & Cassie:* Clean, central. Cassie home for the holiday; returns and asks the one exact question that reaches for the true shape without prying — "what is he… to you." Vee can't answer; Cassie accepts "both" and lets it lie. A third thing now kept from Cassie (the sewn dress, the un-nameable "what he is") — but Cassie is now openly *aware there is something Vee can't say*, and chose not to push. Asymmetry softening toward Cassie knowing there's a withheld shape, without the fact.
+Characterization: Vee deepened — we see her metabolizing her double life through the frame of home, articulate and self-aware about exactly what she can't and won't say, ending honestly at "both." Cassie deepened — restraint as love; two precise questions and a decision not to push; her own small grievance (parents who don't see her as an adult) quietly mirroring Vee's. Neither flattened; nobody served the plot. The offstage father is sketched with real economy and lands as a person.
 
-*Vee & Brooke:* Asymmetry — sorority knows Vee (dossier); Vee knows nothing. No change.
+Pace — within the chapter: Tight and right. A short scene that earns its length; no drag, maybe a hair abrupt at the close, but the abruptness reads as Cassie choosing not to press.
 
-**What I know that they don't**
-- (Caring) Pace genuinely moved by Vee — weekend tenderness real; drawer given wordlessly; fed her; wore the flannel because she asked; **sewed her induction dress to a picture she couldn't afford.** Her account corroborates.
-- (Caring) The Rusty Nail confirms Pace safe/good — gets drunk girls home, leaves them at the door.
-- (Caring) Pace genuinely moved by Randi — holds her, lets her set pace.
-- (Caring) Pace's cold/shirt-sacrifice on the hike were real, unseen by Vee.
-- (Caring) The MRI patent is real, aimed at helping frightened sick people.
-- (Caring) Cassie's love for Vee is clean, senses the shape, lacks the fact; now openly aware Vee is withholding something and declines to push.
-- (Caring) Vee's love for Randi shows as real, unbought kindness — protected Randi's shame with no one watching.
-- (Caring/ajar → strengthened) Randi's feeling/personhood reads at least partly real; her break was unperformed exposure.
-- (Caring/ajar) Sheri is alone; Pace glad to feed her — genuine friendship, the one honest voice.
-- (Reader-held) Pace harmed young by Daphne (she 19, he 15), names it luck; builds asymmetries and calls them consent.
-- (Using) Pace engineered Randi's attraction/"choice"; may have targeted Vee — ajar.
-- (Using) Pace & Randi run Vee as a coordinated operation.
-- (Using) Randi works Vee with extract-arouse-produce-deny; controls the discharge; the private nude now in Randi's hand.
-- (Using) The goodbye kiss is a deliberate mark; Vee led its extension.
-- (Using) Randi's Radford story likely built; "father kept people on" proven false — Miranda Holdings took loans and cut jobs.
-- (Using) Randi engineered Vee into unpayable compounding card debt; Vee won't do the math; paid the check unread.
-- (Using) The sorority house holds a folder on Vee.
-- (Using) Vee apologized to Pace for correctly reading his method; disowned it — but recently trusted and used that perception freely.
-- (Using — soft) Pace's gifts double as arrangement; belonging as a made place; school-nights narrowing. Reinforced: her self-imposed study-nights collapsed at five; his never-fighting keeps her returning; the flannel ties her sleep to his smell. **Now:** the belonging is *untellable* — she crops the photo and crops him out of every frame; the dress he made is the thing she can least say.
-- (Using) Vee has given Pace a posed nude she can't retrieve, and has shown it full to Randi.
-- (Using — soft) Randi threading into Vee's weekday hours via shared classes; Cassie sidelined.
-- (reader-only) Vee losing weight unasked under Pace; reads it as happiness; palate remade, credited to him.
-- (Reader + Vee, hidden from Randi) Vee saw and understood Randi's family is the county PPP outlier, and that Randi's break was genuine; Randi doesn't know; Vee won't tell.
-- (ajar) Pace's "Thank you for telling me what she said" — clean gratitude vs. reconnaissance.
-- (open) The blonde at the bar told Vee the literal truth about how Pace operates.
-- Pace knowingly runs two women at once and doesn't feel the coming collision Sheri named.
-- **The gown/dress built to Vee's exact stripped shape was sewn by Pace and worn to her honor-society induction; riser/mirror context still unused.**
-- Randi holds everything Vee withheld; extracts and withdraws as method; self-harms/eats disordered, unlooked-at.
-- Vee has been selected/pursued and doesn't know it; names it free agency.
-- The flannel Vee treasures was made by Pace; the house runs too warm; two towels in a one-man house.
-- Vee's want between women is live, aimed at Randi — she claimed the extended kiss.
-- (Struck-partial) Vee knows the scar exists, rough length, clean surgeon's line; not its cause; chose not to ask.
-- Pace has a closed room around his parents — "I don't go back."
-- (Structural, reader-only) Simpson's paradox: short stretches lie against the whole; aggregate told the truth, one buried outlier the family shame.
-- (reader-only) The outlier lecture named Vee's condition, then Randi's.
-- (reader-only) Vee's spanking retold in daylight matched Pace's real gentleness — contradicting Randi's harsher "story."
-- (reader-only) Vee privately loves Pace; he's never said it; she said only "maybe" aloud.
-
-**Motifs**
-- **The cropped/edited frame** — **new/foregrounded:** Vee crops the induction photo "at the waist" before sending home; tells her father "the parts that fit"; can't name Pace to Cassie. The recurring gesture of editing the frame so the true shape stays out of view — the visual twin of "he holds, he doesn't pull."
-- **The photograph / herself given to keep** — surrendered to Pace, shown full to Randi ("Miss November"); now the *induction* photo she crops before her parents see it. Herself, controlled at the frame's edge — by others when given away, by herself when sent home.
-- **The made garment** — the flannel he built (re-scenting ritual) and now **the dress he sewed to a magazine picture** worn to be honored; tenderness whose origin she must hide ("weird is worse than wrong"). Belonging cut to her body, unspeakable.
-- **Hunger / palate / waking up** — weight lost unasked; sex-appetite fused with food; clearest instance the pizza in separated layers, credited to him. Quiet this chapter.
-- **The made place / the drawer / the drift** — belonging given wordlessly; gray weekdays, saturated weekend; her weekday-hours-for-school reclaim collapsed at five nights. Now: the made place is also *untellable*.
-- **The wall kept unasked** — scar + his parents; Vee's reflex to take her hand off anything shut; mirrored onto Randi. Quiet.
-- **The goodbye kiss / the mark** — rite on the brick sidewalk; Vee led the extension. Quiet.
-- **The re-scented shirt** — she washed the flannel, asks him to wear it all weekend and return it "smelling like me." Quiet this chapter.
-- **He holds, he doesn't pull** — the bra "off a spool," the wall-lean, waiting on the far side of the door — she does the coming-toward. **Now echoed in speech:** she wants Cassie to push, is "a little" not-grateful Cassie doesn't — wanting to be made to say what she can't say herself.
-- **The outlier / the point off on its own** — lecture's object; Vee's then Randi's. Quiet.
-- **Randi's curated face slipping / the built story exposed** — cracked under confession, then under genuine exposure; self-presentation proven false against data. Quiet (absent).
-
-**Symbolism noticed**
-- **Cropping / editing the frame** = Vee keeps the true shape out of view — of her parents, of Cassie, of herself; the same consent-that-feels-hers logic turned on her own narrative.
-- **The sewn dress** = tenderness whose making is the thing she can least say; belonging cut to her exact body and kept off the record; "he'd take it better if I told him Pace takes that dress off me than that he made it."
-- **The re-scented shirt** = belonging that decays without him and must be refilled from his person.
-- **"He holds, he doesn't pull"** = his method rendered as tenderness — she comes toward, always by her own motion.
-- **The watched palate** = taste she credits to him is change worked on her.
-- **The outlier point** = Randi's hidden source of self, held open.
-
-**Open questions**
-- What does Vee's secret advantage over Randi do — does she ever use it?
-- Was Randi's break real shame surfacing? *(Reads strongly genuine.)* Does knowing it change how Vee holds the friendship?
-- What is Miranda Holdings, and does the family money's shameful source explain Randi?
-- Is Randi's feeling for Vee real, or manufactured closer-work? *(both ways.)*
-- What does Pace do with the photograph — and now that Randi has seen it, does it feed the operation?
-- Will Pace ever say the love back? Why can Vee name it alone but only say "maybe" aloud?
-- What is behind "I don't go back" — tie to Daphne/the scar?
-- Was the blonde at the bar planted or a buried warning?
-- How does running "two at once" collide, and does Pace see it first? *(Sheri-flagged.)*
-- Is Sheri the same as "the older bartender"? Is she the blonde?
-- What does the sorority "folder" on Vee mean? Who assembled it, why Brooke?
-- What is the scar high on Pace's inner thigh — will Vee ever ask?
-- Does the Daphne asymmetry drive Pace's consent-engineering?
-- What does the compounding unpayable debt cost Vee — and when does it surface?
-- Where/when does the riser/mirror gown-context get used, and who else is in that room?
-- Will Cassie's clean read ever reach the true shape — now openly aware Vee is withholding something?
-- Who is the silent taller woman? Did Pace target Vee by name? Endpoint of the operation?
-- With Vee claiming her want for Randi, where does that desire go — and who steers it?
-- Now that Vee *names* she both can't and doesn't want to say what Pace is, will she ever look at it squarely — or does naming the edge just deepen the drift?
-
-**How I feel — overall**
-Quiet, clear-eyed, a little heartsore. No heat and no new indictment — this was character, the morning-after of the mind. What it gave me: the dress reveal (Pace sewed it, to her body, to a picture she couldn't afford, worn to her induction and unspeakable to her family) tightens the whole apparatus by one turn without a single new fact of harm — the tenderness and the trap are the same object. And Vee's own dawning: faced with Cassie's plain, kind "what is he to you," she finds she has no word, no clean story, no version of herself that stands up in the telling — and admits she both can't and won't say. That's the closest she's come to seeing her own not-looking. I trust Cassie completely and love that she didn't push; and I felt the small cruelty in Vee being "a little" not-grateful for that — she wants to be made to say the thing she keeps cutting out of the frame. The title, "Cropped," is the whole chapter: she edits every frame so the true shape stays just out of view.
+Pace — chapter to chapter: A deliberate down-beat after the domestic/erotic peak of Ch 40 — momentum holds rather than builds, and that's the correct move; it's a breath and a reckoning, not a sag. Refreshing to sit with Cassie again after a long run inside the Pace/Randi orbit; it recalibrates the stakes without repeating a beat.

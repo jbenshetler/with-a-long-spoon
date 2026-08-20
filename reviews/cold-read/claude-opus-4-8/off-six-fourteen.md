@@ -1,103 +1,43 @@
-# Cold read — Off Six-Fourteen
+# Cold read (grounded) — Off Six-Fourteen
 
-*scene: scenes/off-six-fourteen.md · prose-blob 411721ed564ea4402ddfb4b4a6281bf8a36b350e · model: claude-opus-4-8 · read after: may-i-choose · 2026-08-13*
-<!-- freshness: prose-blob = `git hash-object scenes/off-six-fourteen.md` at read time; if it differs from the live file's hash, this review is stale. -->
+*scene: scenes/off-six-fourteen.md · model: claude-opus-4-8 · memory: raw ch001..ch008 (pre-first-checkpoint) · reader-protocol: v3-grounded-checkpoint*
 
 ## Reader reaction
 
-This is a short breath of a chapter, all afterglow, and it worked on me warmly and made me ache at the same time — the ache mostly because of the last two words: *off six-fourteen*, which the title already handed me before I read a line.
+FELT READ
 
-The swoon is real. Vee's spin — "the room too small to hold what she had to do with it" — and the certainty in "I did it because I wanted to and I did it on purpose" landed clean and glad on me. The thing she most wants Cassie to have is exactly the thing I know is the mechanism: *nobody did anything to me, I wasn't talked into it.* She keeps insisting on her own agency, and every time she does it tolls in me, because I've watched him build the conditions under which she'd feel this un-worked-on. The most autonomous she has ever felt is the deepest the harvest has reached. That's the whole chapter's chord and it's brutal.
+This is the softest, gladdest chapter I've had in a while, and I let it land as gladness because it earned it. After the froyo and the Mediterranean dinner and that beautiful "I'm making an exception" last beat, this is the girl coming home to spill it — and the whole chapter is Vee telling Cassie, out loud, in a small cold dorm room, with her whole body. It's a debrief scene, structurally slight, and I didn't mind at all, because what it's doing is letting Vee say the thing that matters most to her out loud: *I did it because I wanted to and I did it on purpose. Nobody did anything to me.* That's the line I circled. She needs Cassie to have that — needs it more than she needs to relay the tea or the tree — and watching her reach for it, "the whole of it, came up plain and certain," went straight through me. I'm rooting for her happiness so plainly it almost embarrassed me.
 
-And then Cassie. Cassie is the alarm system, and I watched her half-arm and then stand down twice. "How much did he give you to drink?" — the flat dry floor doing exactly its job, checking for the tampering, and Vee's honest *nothing, we had tea* satisfies her, and she believes it, and she's right to, because he didn't use wine, he used restraint. Her instrument can't read the actual tampering. Then the harder one: "What's his name, so I know what to tell the state troopers when you go missing on a mountain." Cassie says it as a joke, and I did not take it as a joke. "Off six-fourteen. Past where it goes to gravel." "That's the whole address." "Is he rich?" — Cassie circling the exact hole, that Vee is about to go somewhere remote, alone, with a man whose house she's never seen, whose money and life are a blank, and can't name a single fact but a road. And Vee counting her ignorance off "like a dossier, like plenty" — that "like plenty" is where my stomach dropped. She's mistaking the empty pile for a full one, and calling not-knowing the best pile there is.
+The swoon here isn't Pace at all — he's offstage, a name and a story. The warmth is Vee and Cassie. The spin that "nearly took out the closet door and was over before it was really a dance at all — the room too small to hold what she had to do with it" — I felt that. It's joy that outgrows the space it's in. And Cassie is just wonderful: the dry floor under the gladness, "How much did he give you to drink?", the pillow taken on the shoulder without unfolding, "what to tell the state troopers." That's love rendered as needling. She's the one person who checks — who asks the sober question — and when Vee says *nobody talked me into it,* the okay "had her believing it." Cassie believes her, and blesses it, and that felt like the truest tenderness in the chapter.
 
-So the dread is fully earned this time, and the page barely lifts a finger to do it — it lets Cassie ask the safety question we all ask when a friend meets someone, and it lets the answers be nothing. Hiking. Remote. Real shoes — "that's the one thing he said." Even his one instruction is about footing on ground she's never walked.
+Now — trust vs. suspicion, and here's where I can't be fully innocent, because I'm not reading this chapter cold. I'm carrying what I know. I know Pace and Randi. I know the bench, I know "there you are, Randi," I know the pointing game on the quad — I *watched* Pace pick Vee out of the whole afternoon and send Randi to collide with her on purpose. So when Vee stands in this room glowing, insisting *I did it on purpose, nobody did anything to me,* the chapter is quietly unbearable, and it knows it. The gladness is real AND the thing she's most proud of — her own agency, her own uncoerced yes — is the exact thing that was engineered. That's not me manufacturing a shadow; the recent chapters put it in my hands. Every "I chose this, me" lands double. The froth of her joy sits on top of a game she can't see, the way Randi's smile sat on top of the face that had begged.
 
-Trust/suspicion: nothing new is *off* about Pace on the page — he's still flawless, absent here — but this is the first chapter that let the ordinary machinery of concern (a roommate, a name, an address) come up and find nothing to hold. That's more frightening than a seam.
+And Cassie. Oh, Cassie. She keeps asking the right questions and doesn't know it. "Is he rich? Rich people hike." — and Vee finds she doesn't have the answer, and *it doesn't trouble her,* it goes "into the pile of things she'd get to find out, which was the best pile there was." That not-knowing, reframed as delicious, is the whole trap in a sentence. Cassie's suspicion is a joke ("state troopers," "a man you met at a coffee shop") — but it's the only suspicion in the room, and it's aimed at exactly the right man for exactly the wrong reason (stranger danger, not the actual design). I felt the chill of that under the warmth. The chapter didn't tell me to; it just let the cold line off the sill keep coming in.
 
-Title: "Off Six-Fourteen" gave it away before I started, in the way the state-trooper joke makes explicit — it's the not-address, the road past where it goes to gravel, the place with no witnesses. The book's title and the spoon of the series sit quiet, but "you go missing on a mountain with a man you met at a coffee shop" is the darkest the series has spoken aloud, even in play.
+Erotic charge: essentially none, and rightly — this is afterglow, not heat, and the intimacy is between the two women, unromantic, sisterly. No slack from it; the chapter isn't trying for heat.
 
-I want to see that hike. I dread it. Guess from here: the house off six-fourteen is where the frame changes.
+Friction: almost none. It's short and it's a single note held. If I reach, the closest thing to a thumb on the scale is how neatly the address-comedy doubles as foreshadow-freight — "Off six-fourteen," repeated four times, "that's the whole address" — the chapter clearly wants that phrase to sit in me, and it's also the title, so it's a little underlined. But it's underlined *by Cassie,* in character, as a bit, so I forgave it. It plays as comedy first and only rings odd on the second thought.
 
-## Carry-forward state
+The title. "Off Six-Fourteen" — before I read it, it meant nothing; after, it's the address Vee offers Cassie *as proof she's safe* — "I know where he lives and everything," counted off "like a dossier, like plenty." Except it's the opposite of a dossier: it's an unmapped road past where it goes to gravel, a house she hasn't even seen. The title takes the thing she brandishes as knowledge and quietly names it as the edge of what she doesn't know. It points *outward and westward* — toward that house, that trail, the next chapter's hike. It's where she's going, into gravel, in borrowed shoes. That's ominous in the gentlest possible packaging, and I like that the chapter trusts me to feel it without saying it.
 
-**Principals**
-- **Pace** (= Peter) — male. Math PhD ("more or less" finishing), builds furniture; runs meticulous-consent BDSM scenes; engineered Randi's attraction and the staged collision; ran froyo, total economy, unhurried, constructs. Two dates, first kiss (she initiated). Lives west of town off route 614, past where it goes to gravel; house unseen by Vee; possibly rich (Cassie's read). **This chapter:** absent; asked her hiking on a remote trail out by his place, one instruction — "real shoes."
-- **Randi** (= Miranda) — female, 21. Sorority Standards board. Disordered eating, hidden self-harm; curated face. The visible closer on Vee. Absent.
-- **Vee** (= Vivienne Thorne) — female, 21, junior. **Jacket protagonist.** Tall, lush, warm dark-red hair, snub nose, cinnamon freckles, uncurated. Sharp room-reader; deep self-surveillance; a want between women she won't name. **This chapter:** home glowing from the Pace date; told Cassie the whole thing; insisted repeatedly nobody did anything to her, she kissed him on purpose because she wanted to; said yes to hiking "so fast"; owns no real shoes, will borrow; knows nothing about him but a road and holds the not-knowing as "the best pile there was."
-- **Cassie** (= Cassandra) — female. Vee's roommate/friend; plain manner, boxy frame, headphones, keeps the window cracked for cold. The one immune, clear eye; the clean love. **This chapter:** pulled to her feet by Vee's good news, all the way glad; then the "flat dry floor" checks — "How much did he give you to drink?" (satisfied by *nothing*), the state-trooper joke about the vague address, "Is he rich?" Ended standing down: "Borrow good ones." Her safety instinct fired and found nothing to hold.
-- **Brooke** — female. Sorority chapter president; collected Pace's name/field/truck behind a friendly screen; purpose unknown. Absent.
-- **Christine** — older woman; owns/runs the small restaurant, knows Pace warmly. Walk-on character-witness. Absent.
-- **Daphne** — mentioned earlier only; Pace's past, the "door" he didn't respect. Absent.
-- **Meg** — Vee's floormate; texture only. Absent.
+The book's titles, held against this chapter: *A Polite Invitation* — this whole scene is the invitation being gladly, unknowingly accepted; she thinks she did the inviting ("I made *him* stop"). *With a Long Spoon* — I still hear "he who sups with the devil needs a long spoon," and this is the sup being set, the girl reaching for the food with no spoon at all, delighted by every course she can't name. The tagline "Every yes was freely given. That was the problem." — this chapter is that tagline dramatized in a dorm room: Vee's whole speech is *the yes was mine, freely, on purpose,* and I already know that's precisely what makes it work as a trap. The jacket promised I'd be "ahead of her from the start, fall for it exactly as she does," and that's exactly the doubled feeling I've got — falling for her joy while sick about where it points.
 
-**Relationship ledger**
+What I want / dread next: the hike, out past the gravel, to the house she hasn't seen. I want more Cassie — she's the reader's conscience and I'm afraid the book is going to walk Vee away from her (that flat "Goodbye, Vee" two chapters back is still in my ear, and "borrow good ones" here has the same faint valedictory weather). Guess from here: the next chapter takes Vee out to Pace's house — the same warm too-hot house from the bench chapter — and the reader gets to watch her walk into the set knowing what's in the bedroom while she knows nothing. I dread that and I'm going to read it immediately.
 
-*Core — Pace & Randi:*
-- **State:** involved (consummated: y), secret from her sorority world. Surface (as Pace reads it) / true diverge. He directs her desire outward toward Vee under a shared-game/gift frame.
-- **warmth ↔ cold:** Surface = lavish warmth, fed, cherished; true = warmth is instrument. Charged: he kisses her with her own taste on his mouth to crack her composure on cue.
-- **isolation ↔ belonging:** He offers a two-of-them intimacy; the game widens her appetite toward someone else while routing the wanting through him.
-- **cherished ↔ used:** He treasures her *and* uses her — reads involuntary response as data. Coordinated field operations together.
-- **desire worked-on-her ↔ desire hers:** Wanting produced in her; she re-assigns it to him.
-- **This chapter:** no change (Randi absent).
+STRUCTURED BLOCK
 
-*Core — Randi with herself:*
-- **State:** at war; the face vs. the person under it. Execution seamless; no visible leak. Live question: how much warmth toward Vee is felt vs. played, held ajar.
-- Axes: cold/isolation/used/worked-on inward. This chapter: no change.
+Cast present (in person): Vee, Cassie — in the dorm room, the whole scene. Mentioned only: Pace (the date being recounted), Christine and the restaurant by implication.
 
-*Core — Randi & Vee:* State: warm new-friendship on Vee's side (adoring, chosen, lit up). Surface = friend delighting in friend's romance. True = Randi co-runs the engineered pursuit, the visible closer. Asymmetric: Vee thinks she's watched-over; she's handled. Axes on Vee's side: warmth (fed, chosen); belonging; desire worked-on-her.
-- **This chapter:** no change (Randi absent).
+Heat: 0 — pure afterglow, no sexual activity; the intimacy is sisterly, not erotic.
 
-*Core — Vee with herself:* State: managed surface over unlooked-at want; reads every room but not the one run on her. Econ passion (say/do gap) the tool she never turns inward. **This chapter:** the self-surveillance stayed down after the date — she narrates the kiss as pure autonomy ("I did it because I wanted to and I did it on purpose"), insists nobody did anything to her. The one place her sharp reading fails her: she holds knowing nothing about him as "the best pile there was," treating her ignorance as abundance. The being-opened now reads to her as her own unworked freedom.
+Romance: 2 — no romantic partners on the page, but the chapter is saturated with Vee's tenderness toward Pace-at-a-remove and, more, the warm friendship-love between Vee and Cassie; "Look at me," the spin, the pillow, "borrow good ones."
 
-*Core — Pace & Vee:* State: acquaintances → **involved-adjacent** on Vee's side — two dates, first hand-hold, first kiss (she initiated); a hiking date set at his remote place. Chosen target on his. secret, one-sided (Vee unaware of engineering). Axes on Vee's side: warmth (chosen, waited-on, singled out); cherished-feeling; desire worked-on-her (his restraint as hook; the un-watching of herself felt as rest and now as her own agency).
-- **This chapter:** no direct contact (he's absent) but the bond advanced by her retelling — she has fully claimed the kiss as her own free act, and accepted an invitation to a remote trail off six-fourteen, house unseen, knowing nothing about him and content not to.
+Motifs & images: the cracked window and its "cold thin line" bracketing the scene (first sighting, Cassie's habit) — warmth she doesn't feel because she's lit from inside. Real shoes / borrowed shoes (first, and pointed — she owns nothing right for where she's going). "Off six-fourteen / past where it goes to gravel" (first, and the title). Food-she-can't-name carried over from the dinner (brass tea cages recur from the prior chapter). The recurring structure of Vee reciting proof of safety that is actually proof of not-knowing — rhymes with her froyo/dinner surrenders. Cassie's flat dry undercut echoes her "Goodbye, Vee" and her pool-deck deadpan.
 
-*Vee & Cassie:* Roommates/friends, easy and real; Cassie the un-angled voice, the clean love — reads Vee sharply, spends it only on giving, but lacks the fact about Pace/Randi. **This chapter:** all the way glad for Vee, then ran the ordinary safety checks (sober? name? address? rich?) and found nothing actionable; stood down with "Borrow good ones." Her alarm fired and the tampering was invisible to it.
+Symbolism: the address-as-dossier — "I know where he lives and everything" — invited as symbol by Cassie's needling; knowledge that's really its absence. The too-small room that can't hold her joy. Gravel: where the paved, mapped part of her life ends.
 
-*Randi & Cassie:* Cool on Cassie's side, unmoved by the polish. No change.
-*Randi & Brooke:* no change. Asymmetric extraction — Brooke holds Pace's name/field/truck.
+Characterization: Vee deepens — we see her *choosing to narrate her own agency,* the pride in "me, on purpose," which is the whole engine of her and now poignant given what I know. Cassie deepens beautifully: the sober checker, love expressed as suspicion and teasing, the one who asks "were you drunk / is he rich / who do I tell." Nobody flattened; Pace stays offstage and undiscussed, which is fine.
 
-**What I know that they don't**
-- (Caring side) Pace is genuinely moved by Randi, glad of her pleasure; believes he gives a gift.
-- (Caring side) **Cassie's love for Vee is clean and asks nothing** — she reads her as well as the handlers do and uses it only to give; this chapter she ran the safety checks a good friend runs.
-- (Using side) Pace engineered Randi's attraction and "choice," harvesting involuntary response as consent; may have targeted Vee specifically — held ajar, seams point that way.
-- **Pace & Randi run Vee as a coordinated operation** — Randi the closer; Pace the date. Vee reads it as a friend's delight.
-- Randi self-harms unconsciously; nobody, including her, is looking.
-- **Vee has been selected and pursued and does not know it** — she experiences being wondrously chosen, and now as her own free agency (she insists nobody did anything to her; the un-worked feeling is the harvest at depth).
-- **Cassie's safety instinct cannot read the tampering** — she checked for wine and found tea; she can't see the mechanism, so she blessed the man and told Vee to borrow good shoes.
-- Brooke deliberately collected Pace's identifying details; reason unknown.
-- **Vee is about to go alone to a remote place (off route 614, past gravel, house unseen) with a man she can name almost nothing about** — and holds her not-knowing as abundance. The state-trooper joke names the real exposure the page won't.
+Pace — within the chapter: earns its short length; it's one sustained beat (the telling) and doesn't overstay. Maybe a hair repetitive on "off six-fourteen," but that's the joke doing its work.
 
-**Motifs**
-- **Feeding / portioned appetite** — disordered eating + being-opened. Charged: the un-portioning at the date felt as rest = the harvest; "he'd chosen them to go together... one to wake you and one to fold you under." This chapter quiet.
-- **The face & the smile (armor that leaks)** — Charged: "That's a whole face" (Cassie reading her grin); "Cassie's whole face was open with it." The game-face dissolving. This chapter: Vee's own face wide open, no armor at all at home.
-- **Hands / economy of movement** — Pace's right hand *always*; she pulled him back and kissed him ("Me"); prior the hand-hold "resolving, not beginning." This chapter: her own arms flung up in the spin, hands the site of both the kiss and the telling ("looking at her hands").
-- **Water / going under** — the untaken place, recast as the pleasant dissolve of his care. Quiet this chapter.
-- **Doors/thresholds & being let in** — he holds doors; food-names as "closed doors." This chapter: the *unseen* threshold — his house she's never crossed, off six-fourteen, "I haven't been out there yet."
-- **The wait-rule / making you answer** — prior handlers "always made you answer"; he left it "with her, like it could keep." This chapter: Cassie *does* make her answer ("what's his name") — and being able to answer is Vee's "small proof of something," even when the answer is nearly nothing.
-- **"Hi/Hi"** — their small phrase. Quiet this chapter.
-- **Spoons / sweetness at the bottom** *(series-title)* — quiet.
-- **The remote address / "off six-fourteen"** *(new, loud)* — the not-address, past where the road goes to gravel, house unseen. Charged: "That's the whole address. Off six-fourteen." / the state-trooper joke / "you go missing on a mountain with a man you met at a coffee shop." The place with no witnesses; the title.
-- **Real shoes** *(new)* — his one instruction; she owns none, will borrow. Footing on unfamiliar ground; the one condition he set.
-
-**Symbolism noticed**
-- "I did it because I wanted to and I did it on purpose" = the produced feeling of autonomy at its peak, ironic against the engineering — the most worked-on she's been is the freest she feels.
-- "The best pile there was" (things she'll get to find out about him) = ignorance mistaken for abundance; her sharp reading turned off exactly where it should be on.
-- Off six-fourteen / past the gravel / real shoes = the remote, witness-less ground she's being led onto, named by the page only as a joke.
-- Cassie checking for wine and finding tea = the alarm that can only detect the crude tampering, not the real one.
-
-**Open questions**
-- Does Cassie know something specific, or just feel it? (This and last chapter she found nothing to hold and stood down.)
-- Did Pace target Vee by name, or did the game land on her?
-- Why is Brooke collecting Pace's details; does it connect?
-- What is the game's endpoint — a threesome as framed, or a shape Randi hasn't seen?
-- How much of Randi's warmth to Vee is felt vs. played?
-- Who is Daphne, and what did the closed-door lesson cost Pace?
-- How far does the opening/un-portioning go before it turns?
-- What is the significance of the right-hand-only rule?
-- **What is at the house off six-fourteen, and does the hike change the frame?** (New, and the one I most dread.)
-- Now that she's kissed him: how does Randi-the-closer re-enter, and does Vee's want between women resurface with Randi still framed as the friend?
-
-**How I feel — overall**
-Swept up and more scared than before, and this time the fear is fully page-earned rather than dread I'm importing. The chapter is pure joy on its surface — Vee spinning, glad, claiming her own kiss — and the joy is exactly the problem, because the thing she's proudest of (I wasn't talked into it, nobody did anything to me) is the mechanism working at its deepest. The new alarm is soft and terrible: Cassie, my one reliable clear eye, asks all the right safety questions — sober? name? address? rich? — and gets nothing to hold, and blesses the borrowed shoes. Nobody in this room can see it, and the page names the danger only inside a joke about state troopers and a missing girl. I want the hike and I dread the house off six-fourteen.
+Pace — chapter to chapter: a deliberate, welcome exhale after the long escalating date. Momentum holds rather than builds — it's a landing, not a launch — but it plants the hike/house hook cleanly, so I don't feel it sag. It's the quiet before I get taken somewhere.

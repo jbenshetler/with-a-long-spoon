@@ -23,8 +23,9 @@ than from reader N-1, the reads are mutually independent and can fan out.
 
 The reader (.claude/agents/blind-reader-grounded.md) emits ONLY a Reader
 reaction — no carry-forward — since memory is external now. Output lands under
-reviews/cold-read/<model-id>/grounded/<slug>.md, leaving the chained reviews
-(and cold_read.py / blind-reader.md) untouched.
+reviews/cold-read/<model-id>/<slug>.md (the model root). The retired chained
+reviews are archived under <model-id>/chained/ (cold_read.py / blind-reader.md
+untouched, frozen).
 
 Usage:
   tools/cold_read_grounded.py --to 50                     # all Vol 1, terra
@@ -260,7 +261,7 @@ def emit_packet(model_id: str, n: int, decade: int) -> tuple[str, Path, list[str
     header = (f"# Cold read (grounded) — {title}\n\n"
               f"*scene: scenes/{slug}.md · model: {model_id} · memory: {memory_line(n, decade)} · "
               f"reader-protocol: {READER_PROTOCOL}*\n\n## Reader reaction\n\n")
-    _set_destination(d, f"reviews/cold-read/{model_id}/grounded/{slug}.md", header)
+    _set_destination(d, f"reviews/cold-read/{model_id}/{slug}.md", header)
     return token, d, ordered
 
 
@@ -322,7 +323,7 @@ ORACLE_AGENT_DEF = REPO / ".claude/agents/blind-oracle-grounded.md"
 
 def _reaction_body(model_id: str, slug: str) -> str:
     """A grounded read file's reaction (its metadata header stripped)."""
-    t = (REPO / f"reviews/cold-read/{model_id}/grounded/{slug}.md").read_text(encoding="utf-8")
+    t = (REPO / f"reviews/cold-read/{model_id}/{slug}.md").read_text(encoding="utf-8")
     i = t.find("## Reader reaction")
     return t[i:] if i >= 0 else t
 
@@ -469,7 +470,7 @@ def write_review(model_id: str, n: int, decade: int, reaction: str) -> Path:
         memory = f"raw ch001..ch{n - 1:03d} (pre-first-checkpoint)"
     else:
         memory = "— (opening, cold)"
-    out = REPO / f"reviews/cold-read/{model_id}/grounded/{slug}.md"
+    out = REPO / f"reviews/cold-read/{model_id}/{slug}.md"
     out.parent.mkdir(parents=True, exist_ok=True)
     content = (
         f"# Cold read (grounded) — {title}\n\n"
@@ -638,7 +639,7 @@ def main() -> None:
 
     slugs = reader_slugs()
     todo = [n for n in chapters
-            if args.fresh or not (REPO / f"reviews/cold-read/{model_id}/grounded/{slugs[n-1]}.md").exists()]
+            if args.fresh or not (REPO / f"reviews/cold-read/{model_id}/{slugs[n-1]}.md").exists()]
     skipped = [n for n in chapters if n not in todo]
     for n in skipped:
         print(f"[skip] ch{n:03d} {slugs[n-1]} (exists)", file=sys.stderr)

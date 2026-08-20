@@ -1,122 +1,45 @@
-# Cold read — All Told
+# Cold read (grounded) — All Told
 
-*scene: scenes/all-told.md · prose-blob 50af8384c613a80d9b0dcc1cc84e0d930ea2b14d · model: claude-opus-4-8 · read after: peekaboo · 2026-08-13*
-<!-- freshness: prose-blob = `git hash-object scenes/all-told.md` at read time; if it differs from the live file's hash, this review is stale. -->
+*scene: scenes/all-told.md · model: claude-opus-4-8 · memory: ck-ch020 + raw ch021..ch021 · reader-protocol: v3-grounded-checkpoint*
 
 ## Reader reaction
 
-A quiet chapter after the gown, and I loved it — the lecture is the whole book handed to me in a baseball metaphor. "A thing can run one way across every short stretch you measure and the opposite way across the whole of it." *"Short stretches can lie against the whole."* That's not subtle and I don't care — it named the exact doubleness I've been carrying: every warm chapter reads one way in isolation, and I keep believing the whole runs the other. The page just told me my imported dread isn't paranoia, it's the correct read of aggregated data. Simpson's paradox as the shape of the operation. That's the closest the book has come to confirming me, and it did it through a professor reading a cereal box.
+FELT READ
 
-The heat is low and clothed — Vee's body "keeping the night's account since eight, a good soreness no gym had ever given her, down low, and up the inside of both thighs" — carried-over ache, lovely and private. Charge is at 1, all afterglow.
+After the heat of "Peekaboo," this chapter reads like the long slow exhale after — and I loved it exactly for being cool where the last one was molten. It's Vee arriving underslept and overfull into the one room where she has "both her girls," and the whole thing is the choreography of a woman sitting between two people who love her differently. It's a small chapter and it knows it, and it lands its one blade so gently I almost missed it going in.
 
-The real thing here is Cassie versus Randi, staged side by side, and it's devastating in miniature. Cassie never looks at the professor once — she watches *the friend*, "the only part of any of it Cassie had ever been able to see," and when Vee says "Oh, yes," something eases in her face and she picks the highlighter back up. That's clean love: she wanted to know Vee was okay, got it, let it go. Randi does the opposite — "You lucky slut," then instantly, "I'll bet you've had the whole outfit planned," already turning the dress over, and the second Vee flinches on shoes, Randi has her *by the wrist*: "That's not a problem, that's a *date*. You and me, Saturday… Don't you dare tell me no." I felt the warmth of it go through Vee, and I felt the closer securing the next window of access. The eyebrow Cassie keeps in reserve going up at the shoe-date — "Cassie had never once in her life cared what was on anyone's feet" — is the book letting Cassie's clean eye register the difference without naming it. That contrast is the sharpest it's been.
+Vee I'm just plain fond of here. That opening — late to everything and it didn't bother her a whit, "underslept and overfull," beating the professor to the front of the room "fit to burst" — I felt her buoyancy in my own chest. The best of it is her body keeping the account without her permission: "a good soreness no gym had ever given her, down low, and up the inside of both thighs, and in her nipples where they sat against her bra." That's the erotic residue of the whole night carried into a fluorescent classroom, and it worked on me more than a lot of on-page sex does, because it's private and involuntary and hers. I love that the night is still living in her skin while she tries to be a good student for forty honest seconds.
 
-And the last line: the dress "still shown to not one living soul." She told them it was finished, told them what the glass did to her — but the thing itself stays unseen, and the gown-night stays un-surrendered. The middle is still hers. For now.
+The moment that got me — genuinely got me — is Cassie. "It landed on Vee then, plain as the made bed: Cassie did not care about the dress." The whole small revelation that Cassie has been turned a few degrees in her seat the entire time, never once looking at the professor, watching "what the dress had done to her friend, because the friend was the only part of any of it Cassie had ever been able to see." That undid me a little. And then the exchange: "Was it a good night?" — "Yes." — "Oh, yes." That second yes "with more in it than the word usually carried," and "Something eased in Cassie's face, and she picked her highlighter back up." That is love, plainly, with no agenda under it, and it's the cleanest thing in this book. Cassie is my sightline and she stayed clean here — she cracked the made-bed mystery hours ago and let Randi have the reveal anyway, generous and dry. I trust her completely and the chapter made me trust her more.
 
-"Slut" / "lucky slut" landing "lower than Randi meant it to" — sits right against the mother's *floozy*. Randi's affectionate version glances off the same bruise.
+Which is exactly what makes the Simpson's paradox scaffolding land the way it does. I don't need the meta-doc to feel it: two players, one out-hits the other every single year, "and in 'ninety-six. Two years running. So. Who is the better hitter." And then — "Put the two years together and the second man is. Same numbers. Nobody touched one of them." He's telling me, flat as a cereal box, that the local truth and the aggregate truth can be opposite and both real. Every moment of Vee's happiness in this chapter is true. She had a good night, she is loved, the dress is real, the soreness is real. And I already know the frame those true moments sit inside reverses their meaning entirely. "Nobody touched one of them" — nobody had to lie to Vee for the whole to mean the opposite of the parts. That's the chill this chapter runs under its warmth, and it earned it without a single line of editorializing. I noticed the professor's number settling on "one number at the foot of a column," the red dot — the same red that's haunted this book. Whether that's my pattern-hunger or a real echo I can't be sure, but it sat there.
 
-No suspicion earned fresh; the chapter is warm on its face. But the paradox lecture is the loudest structural wink yet, and it works because it never touches the plot — just leaves the numbers refusing to add the way numbers are supposed to.
+Randi. This is where the swoon curdles for me, on purpose I think. "You lucky slut," "you lucky slut" landing "lower than Randi meant it to" — and then instantly I doubt whether Randi didn't mean it exactly that low, because Randi is the one person in this room who knows what account Vee's body is keeping. She "reached in and found" the one snag — the shoes — before Vee had finished naming it, and turned it into a claim: "You and me, Saturday. We are not quitting until the shoes are as right as the dress. Don't you dare tell me no." I felt the warmth of it go through Vee — "It went through her warm, and she didn't" — and I felt the cold of it as a reader in the same beat. Randi solving a problem "already solved in her hands" is the tell. She is closing another appointment. Cassie's eyebrow going up and coming back down — "Cassie had never once in her life cared what was on anyone's feet" — is the chapter quietly setting the two women's love side by side and letting me feel which one asks for nothing. That contrast is doing a lot and doing it without a thumb on the scale.
 
-**Title, "All Told":** told as in the telling — she tells her girls the night. And "all told" as in the sum, the aggregate, the whole run of it — which is exactly the paradox: what the total says against what each stretch says. Both meanings load the same two words. And a needle under it: she tells them, but *not all* — the dress shown to no one, the middle kept. "All told" and everything withheld in one breath. Sharp title.
+Trust vs. suspicion: no movement in my read of Randi — she is exactly what I already knew, and the chapter lets her be charming and instrumental in the same gesture, which is the most honest thing it could do. My suspicion is old, not new, and the text isn't manufacturing fresh alarm; it's just letting me sit in dramatic irony while Vee sits happy in the middle. The ache is that Vee is on time now "for nothing," and the last line — "the dress three blocks back in a closet, zipped in its bag, still shown to not one living soul" — is lovely and a little sad. The thing made for her to be seen in is still hidden, and she is still the only one of the three who can't see the shape she's in.
 
-## Carry-forward state
+Erotic charge: low and deliberately so — a 1. There's no sex here, but the somatic afterglow (the soreness, the nipples against the bra, the flush that the room might read off her) is genuinely charged, more effective for being smuggled into a stats lecture. It goes slack nowhere because it never tries to be hot; it's a warmth chapter.
 
-**Principals**
-- **Pace** (= Peter) — male. Math PhD near done, powerlifter, builds furniture; runs meticulous-consent scenes; engineered Randi's attraction and the staged collision. Large scar high on inner thigh he closed off from Vee's look. Made the burgundy gown fitted to her stripped shape. Absent this chapter (mentioned; Vee left his at 8am).
-- **Randi** (= Miranda) — female, 21. Sorority Standards. Disordered eating, hidden self-harm; curated face; dark-green Mercedes; plain white-gold band at wrist; two smiles. **Present.** Always early ("four years of never being the one they waited on"); turned "the full warmth of her attention on, like a lamp"; secured Saturday shoe-shopping date by Vee's wrist.
-- **Vee** (= Vivienne Thorne) — female, 21, junior. **Jacket protagonist.** Tall, lush, warm dark-red hair, snub nose, cinnamon freckles. Econ major; sharp room-reader, deep self-surveillance, lifelong body-shame; broke. **Present.** Late to everything, "underslept and overfull," happy; told the girls the dress is finished but showed it to no one.
-- **Cassie** (= Cassandra) — female. Vee's roommate/friend; clean love, immune clear eye; soccer. **Present.** Cracked the unslept-in bed instantly, watched Vee not the lecture, eased when told the night was good, let it go.
-- **Kayla** — female; bright amplifier. Absent.
-- **Meg** — female, calm/level; gave the soft warning. Absent.
-- **Brooke** — sorority president; deliberately collected Pace's details. Absent.
-- **Unnamed taller woman** *(identity open)* — appraised Vee like merchandise. Absent; held open.
-- **Christine** — runs the small restaurant, knows Pace. Absent.
-- **Daphne** — Pace's past, the "door" he didn't respect. Absent.
-- **Theo** — asked Vee out in September; friends. Texture only.
+Friction: almost none. The Simpson's paradox device could have been heavy-handed and mostly wasn't — the professor's flat cereal-box register keeps it from tipping into a lecture-as-lesson. If I'm honest, "in the flat unbothered voice of a man reading the back of a cereal box" and "the smile of a man who had laid the same trap a hundred times" are doing a hair too much winking at me about traps — I felt the author's eyebrow twitch there, just slightly, the way Cassie's stays "in reserve." But it's a small thing and the chapter is short enough that it never overstays.
 
-**Relationship ledger**
+Titles: "All Told" is the sharpest thing in the packet. On the surface it's Vee telling her girls everything, spilling the night — "Tell me everything. Leave nothing out." But sat next to Simpson's paradox it turns cold: all told, when you put the whole together, the sum reads opposite to every true part. And the third meaning — she is not, in fact, telling all; she keeps the dress from being about the dress with Cassie, keeps the deepest middle out, and Randi is the one collecting what's told. "All told" as a reckoning that hasn't come yet. It's the kind of title that recolors the chapter the second you finish it. The book title, *A Polite Invitation*, and the series *With a Long Spoon*, still point where they've pointed — the long spoon is the thing you sup with the devil with, keeping your distance while you eat, and everyone here is eating. The tagline I was given is the jacket's closing beat, "Every yes was freely given. That was the problem," and this chapter is that sentence dramatized: every yes in it — the good night, the Saturday date, the second "oh, yes" — is freely given, gladly, and that's precisely the horror sitting under the gold.
 
-*Core — Pace & Vee:*
-- **State:** involved (consummated: y — twice, second in the gown). secret, one-sided (Vee unaware of engineering). Care real and costly *and* serves a built apparatus — both poles stand.
-- **warmth ↔ cold:** peak warmth carried in her body; "a good soreness no gym had ever given her."
-- **isolation ↔ belonging:** the morning still bends around him; she carries the night into every class.
-- **cherished ↔ used:** quiet this chapter; treasured on the page, using-pole reader-held.
-- **desire worked-on-her ↔ desire hers:** her-side; the ache is hers, kept as private account.
-- **This chapter:** no change; afterglow carried. He is offstage but the whole day routes back to 8am at his.
+What I want / dread next: I want the Saturday shoe date, and I dread it — Randi one-on-one with Vee, closing another appointment, is where this book does its most seductive and most predatory work at once. Guess from here: the shoe shopping is another escalation, and I half-expect a kiss or more, or the first crack of Vee's own unnamed wanting toward Randi that the jacket keeps promising. And I keep waiting for Cassie — the one clean set of eyes — to say the thing out loud. The made bed was a tattletale "for anyone who cared to read it"; Cassie reads everything. I dread the chapter where she reads the part Vee can't.
 
-*Core — Vee with herself:*
-- **State:** managed surface over unlooked-at want; surveillance now guards the secret rather than punishing; the clear eye consents to the surrender. "Slut" landed "lower than Randi meant it to" — the *floozy* bruise still live under affectionate use.
-- **This chapter:** no change; happy, un-self-punishing, "happy in the middle."
+STRUCTURED BLOCK
 
-*Core — Randi & Vee:*
-- **State:** Surface (Vee): the friend who lamps warmth on her, delights in her happiness, solves her problems, secures time with her. True: the operation's closer holding the whole withheld first-night middle plus every intimate detail and the platform secret — asymmetric, near-total. Vee's queer want live toward Randi.
-- Axes: warmth (peak — "like a lamp finding you"); belonging (wanted in the middle); cherished/used and desire-worked-on/hers both sharpened.
-- **This chapter:** Randi immediately converted Vee's shoe-anxiety into a Saturday date, by the wrist, "Don't you dare tell me no" — secured next access. Note: the gown-night and the finished dress remain un-surrendered by Vee to anyone — still the next extraction target, and now Saturday is booked one-on-one.
+Cast present (in person): Vee, Cassie, Randi, the stats professor (unnamed, functional). Mentioned-only: Pace.
 
-*Core — Pace & Randi:* involved (consummated: y), secret from her sorority world. He directs her desire outward toward Vee under a shared-game/gift frame. **This chapter:** no change (Pace absent; Randi on-page only with Vee/Cassie).
+Heat: 1 — no sex on the page, but the morning-after soreness carried into class (thighs, nipples, the flush the room might read) is genuinely, privately charged.
 
-*Core — Randi with herself:* at war; face vs. person under it; execution seamless. Live/ajar: how much warmth toward Vee is felt vs. played; one un-refreshed data point *for* real feeling. **This chapter:** no change; her warmth ran seamless and instrumental-looking, no crack shown.
+Romance: 2 — the tenderness peak is Cassie, not a lover: the wordless "Was it a good night? / Oh, yes," and Cassie watching the friend and not the dress. Warm Vee/Randi pull too, but shadowed.
 
-*Vee & Cassie:* Core-adjacent, central. Roommates/friends, clean love; warmest, clearest room in the book. This chapter set Cassie's love beside Randi's method in the same lecture: Cassie watched only the friend, needed only to know the night was good, then released it; her reserved eyebrow rose at the shoe-date and came back down. She does NOT hold the platform secret; the gap stands structural, and she still sees the *shape*, not the fact.
+Motifs & images: hunger/appetite — "overfull," "happy and starving," the lunch she's on time for (repeat, the book's spine). Doors/thresholds and things that betray — the made bed as "a tattletale" anyone could read (repeat of the door/lock/evidence motif). Being seen / display — the dress "still shown to not one living soul," the whole chapter about who can see whom (repeat of "There you are"/lights-on). The mother's voice — absent here, notably; the shame didn't fire. The color red — the professor's little red dot on the one number (first sighting in this register; echoes "red" the safeword and the burgundy). Shoes — new, and immediately Randi's to solve.
 
-*Vee & Kayla / Vee & Meg:* Easy, warm; absent. *Randi & Brooke / Randi & Cassie:* no change.
+Symbolism: Simpson's paradox, named and enacted — local truth and aggregate truth reversing on the same untouched numbers; "nobody touched one of them" as the exact mechanism of Vee's engineered happiness. This is the ch4 latent-variables lecture's sibling and clearly of a piece with it.
 
-**What I know that they don't**
-- (Caring) Pace genuinely moved by Vee — up all night on the gown, staged the reveal, slept defenseless.
-- (Caring) Pace genuinely moved by Randi, believes he gives a gift.
-- (Caring) Pace's cold/shirt-sacrifice on the hike were real, unseen by Vee.
-- (Caring) The MRI patent is real, aimed at helping frightened sick people.
-- (Caring) Cassie's love for Vee is clean, reads her well, senses the shape, lacks the fact; chose kindness over pressing — again this chapter, released the night the moment she knew it was good.
-- (Caring, ajar) Something in Randi went involuntarily tight when Vee glowed about Pace — possibly real feeling. Un-refreshed.
-- (Using) Pace engineered Randi's attraction and "choice," harvesting involuntary response as consent; may have targeted Vee — ajar.
-- Pace & Randi run Vee as a coordinated operation — Randi the closer, Pace clearing the standard. Randi just booked Saturday one-on-one off Vee's shoe-anxiety.
-- The gown is built to the exact shape of Vee's stripped body, lined only where he decided she doesn't give herself away; the mirror was newly hung; the riser sets her at his kneeling eye-level as method.
-- Vee has still shown the finished gown / the gown-night to no one — fresh un-surrendered material.
-- Randi holds Vee's whole withheld first-night middle plus every intimate detail and the platform-arousal secret.
-- Randi extracts and withdraws (or anti-withdraws) as method; the goodbye kiss and now the wrist-grab date are deliberate.
-- Randi self-harms / eats disordered unconsciously; nobody, including her, is looking.
-- Vee has been selected and pursued and does not know it; experiences it as free agency — and has named the surrender and consented.
-- The flannel shirt Vee treasures was made by Pace.
-- His house kept too warm; **two towels** in a one-man house (unseen).
-- Brooke deliberately collected Pace's details; reason unknown.
-- A silent taller woman appraised Vee like an object; who/why unknown.
-- Vee's want between women is live heat aimed at Randi.
-- Pace has a large scar high on his inner thigh he closes off from her look — unexplained.
-- Vee produces the proof-of-wanting frame herself and it reshapes her body's availability.
-- **(Structural signal, reader-only) The Simpson's-paradox lecture states the operation's shape aloud: "short stretches can lie against the whole" — each warm chapter can read the opposite of the aggregate. Vee copies it as an exam line, missing it about her own life.**
+Characterization: Cassie deepened the most — from "wary roommate" to the one who can only ever see the friend, the love with no agenda; the fleece-through-two-winters detail lands her. Vee consistent and glowing, her body now an honest narrator. Randi consistent, not thin — warm and acquisitive in one motion, the "already solved in her hands" tell doing quiet work. The professor is a device but a well-tuned one.
 
-**Motifs**
-- **The mother's voice — *floozy* / "slut"** — Randi's affectionate "You lucky slut" / "lucky slut" "landed lower than Randi meant it to," glancing off the same bruise the mirror *floozy* flared at; the shame-word keeps arriving as love.
-- **The ladle / keeping the middle** — sharpened: she *told* the girls but the dress is "still shown to not one living soul," the gown-night un-surrendered; "all told" and everything withheld together.
-- **Being looked at / the friend as the only visible part** — inverted here: Cassie looks only at Vee, never the lecture, because "the friend was the only part of any of it Cassie had ever been able to see" — the clean version of being watched, wanting nothing off it.
-- **Randi's warmth as a lamp / by the wrist** — "the full warmth of her attention on, like a lamp finding you"; solves-your-problem-with-her-hands, secures time; charm as instrument.
-- **The made bed as tattletale** — Vee's unslept-in bed reads the night to anyone; Cassie read it hours ago.
-- **Peekaboo / the slit; concealed labor; being-looked-at → what she was for; the trade/given-away underwear; light without asking; second-press kiss; two smiles; white-gold wrist band; spoons; counting days; getting away with something** — quiet this chapter.
+Pace — within the chapter: right length, earns it; a short warmth-and-turn chapter that never drags. The one slightly over-cranked beat is the professor's "laid the same trap a hundred times" wink.
 
-**Symbolism noticed**
-- **Simpson's paradox** = the book's own shape named — the local truth (each warm scene) reverses under aggregation; "same numbers, nobody touched one of them." The reader is handed the reading; Vee files it as trivia.
-- **The dress shown to no one** = the kept middle intact; the telling is not the showing.
-- **Cassie watching the friend, not the numbers** = love that wants only her wellbeing, set against Randi's love that wants the details and the access.
-
-**Open questions**
-- **What is the large scar high on Pace's inner thigh?** *(top pull)*
-- Where/when does the gown get worn, and who else is in that room?
-- **Two towels** — who is the second body the house provisions for?
-- What is Randi's white-gold wrist band?
-- Was Randi's tightness real feeling past the assignment? *(un-refreshed; still leaning: a genuine crack)*
-- Genuine restraint/patience vs. control. *(both)*
-- Will Cassie's read reach the true shape? *(gap structural; her eyebrow keeps rising and coming back down)*
-- Who is the silent taller woman?
-- Did Pace target Vee by name, or did the game land on her?
-- Why is Brooke collecting Pace's details?
-- What is the game's endpoint?
-- How much of Randi's warmth is felt vs. played? *(seamless again this chapter)*
-- Who is Daphne, and what did the closed-door lesson cost Pace?
-- How far does the opening go before it turns?
-- Is Vee's drift costing her her clear eye?
-- Is the shame-that-doesn't-close a real freeing or the last check dissolving?
-- The "power" Vee found — real leverage, or being *let* to feel powerful?
-- **What happens on Saturday's one-on-one shoe date — the next extraction window?** *(new)*
-
-**How I feel — overall**
-Warm on its face, and quietly chilling underneath — which is now the book's confirmed mode, because this is the chapter where it said so out loud. The Simpson's-paradox lecture is the loudest structural signal yet and it landed hard *because* it never touched the plot: just numbers refusing to add the way they're supposed to, and Vee copying the line as an exam answer. Cassie is the warmest, cleanest presence in the book and this chapter set her beside Randi to show me the difference — Cassie wants only that Vee is okay and lets it go; Randi wants the details and the calendar. I trust Cassie completely and I ache that her eyebrow keeps rising and coming back down. Randi charmed seamlessly and booked Saturday by the wrist, and I felt both the warmth of it and the closer working. Vee is happy in the middle, on time for nothing, the dress shown to no one — and I carry out of here more sure than ever that the short stretch and the whole are running opposite ways.
+Pace — chapter to chapter: a deliberate cool-down after "Peekaboo"'s peak — holding, not sagging. It resets the triangle in one room, plants the Saturday hook, and reasserts the dramatic irony without repeating the seduction beat. Momentum feels banked rather than spent.

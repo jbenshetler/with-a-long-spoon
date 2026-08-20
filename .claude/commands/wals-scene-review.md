@@ -18,6 +18,19 @@ Run both, in parallel:
 Read the style hits as *candidates*, not verdicts — surface clusters and any
 `never-name` (severity `error`) canon breaches; ignore accepted suppressions.
 
+## Step 1.5 — Ground the story-so-far (fed, not fetched)
+
+Resolve the chapter's number N in reading order (`tools/volume_scenes.py` /
+the chronology), then run `tools/checkpoint_context.py --to N` and **read its
+output into context**: the decade memory checkpoint `ck-ch<B>` (verbatim,
+panel-QA'd) + the full clean prose of chapters B+1..N−1. This is the same
+grounded memory the cold readers get — it means the review holds the *actual*
+story-to-date facts (who knows what, what's been consummated, which images are
+already spent) instead of hoping a lookup surfaces them. Continuity and
+echo/repetition judgments in Step 3 must be made against this record, not from
+general memory. (This grounds the *story*; the meta lookups below still ground
+the *design*.)
+
 ## Step 2 — Read the scene, then fan out the prep lookups
 
 Read `scenes/$1.md` in full. Also read `meta/meta-triage-$1.md` if it exists —
