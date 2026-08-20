@@ -47,6 +47,8 @@ So the arc is real liberation **and** the engineered precondition for the threes
 
 The escalation logic of 2 → 3 → 4: solo (no frame) → he gives her the words → she gets closer (frame-driven) → she verifies. His description is the thing that pushes her body past the stall.
 
+**Vineyard follow-on (author note 2026-08-19, unplaced):** after Whiskey and Wine, Vee — somewhat transparently — arranges a vineyard wine-tasting outing, possibly with Randi: her new connoisseurship reaching for occasions of its own. Placement and scene TBD.
+
 **Motivation for step 1 — self-motivated.** {{Forbidden Kiss}} stands on the taste-refusal alone and **precedes** the mixer weekend — {{On Her Floor}} and {{Boyfriend}} fall two weeks later — so it references no Randi kiss (there isn't one yet). No telling-conversation sets it up and no test is declared; the coated kiss is unannounced and deniable. (The mixer confession and Pace's *have-you-thought-about-being-with-a-woman* probe belong to {{Boyfriend}}, where Vee's *"I'm not gay"* door-slam takes the just-happened Randi kiss as its referent — a separate, later door-slam that *escalates* {{Forbidden Kiss}}'s bodily *"gross,"* not an echo of it.)
 
 -----

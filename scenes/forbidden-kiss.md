@@ -8,7 +8,7 @@ Her eyes opened on the cold of it. His side lay smoothed flat in the thin mornin
 
 The bed itself was an argument for staying. A king, wider than any bed had business being for a man who slept alone — who had slept alone; she corrected the tense with her whole body, stretching into the acreage of it — dressed in plain white cotton gone soft as an old shirt from years of washing, and heavy quilting over that, and the deep give of a good mattress under everything.
 
-Six weeks she had spent in the bed of her girlhood, a narrow thing with covers cut for the child she'd been, so that all December she had slept curled and rationed, pulling the short blankets up to her chin and surrendering her feet, in a house her father kept cold at night on principle.
+A month she had spent in the bed of her girlhood, a narrow thing with covers cut for the child she'd been, so that all break she had slept curled and rationed, pulling the short blankets up to her chin and surrendering her feet, in a house her father kept cold at night on principle.
 
 This house went cold at night too — she'd hear the furnace resting, the windows ticking — but here the cold had never once reached her. Here the cold was a thing on the far side of the glass that existed to make the rest of it better: the fire he'd build in the den, the tea going orange-dark in the pot, the quilt on the porch couch and the two of them under it looking up through the tall black windows at stars laid out hard and close over the ridge, and later the length of him at her back, his heat and his solidity, a wall between her and every cold thing there had ever been. She had lain against him last night doing the arithmetic of it and getting happiness for an answer every time.
 
@@ -30,7 +30,7 @@ Then, somewhere between the bathroom and the kitchen, the thought turned itself 
 
 She stopped in the hallway, bare as the day she was born, sugaring with laughter. Some slave. If anyone in this house was a pleasure slave, it was not her; she — and she gave a little shimmy on the thought, and her breasts went along with it, and she giggled — she was a pleasure princess. Not the kind of woman who is kept for a man's pleasure. The kind a man keeps *in* pleasure. Given it, morning to night, hand and mouth and stove. The distinction landed low in her, wicked and happy at once, and she carried it the rest of the way to the kitchen like something warm she'd stolen.
 
-The coffee was made, still hot in the pot. There was real cream in the fridge, because he was the kind of man who kept real cream in the fridge, and she poured a mug and clouded it pale and then spooned in more sugar than the coffee had any right to take, and drank it at the counter in nothing but her scrunchie, entirely pleased with herself.
+The coffee was made, still hot in the pot. There was real cream in the fridge, because he was the kind of man who kept real cream in the fridge, and she poured a mug and clouded it pale and then spooned in more sugar than the coffee had any right to take, smiling at the face he pulled every time he watched her do it — pained, long-suffering, entirely for show; it was his sugar bowl, and he kept it full — and drank it at the counter in nothing but her scrunchie, entirely pleased with herself.
 
 Between the pot and the bottom of the mug she made one trip back down the hall, and spread the cream cashmere square and smooth over the foot of the bed, and stood back and looked at her work. A throne room wants preparing. Then she went back to her coffee, entirely composed.
 
@@ -54,7 +54,7 @@ He looked at her for a moment longer, and something moved through his face that 
 
 "Feed me first."
 
-He looked at her a moment. Then he hung the coat on its peg, washed his hands, and took the apron down off its hook and tied it on — the canvas apron, the one whose strap she'd once hooked a finger behind and pulled, the first night he ever cooked for her, and everything that had followed the pulling — and if he noticed where her eyes went, or what her mouth did, he gave no sign. He turned to the counter and went to work.
+He looked at her a moment. Then he hung the coat on its peg, washed his hands, and took the apron down off its hook and tied it on — the canvas apron, the one whose strap she'd once hooked a finger behind and pulled, the first night he ever cooked for her, and everything that had followed the pulling — and if he noticed where her eyes went, or what her mouth did, he gave no sign. He thumbed the music going from his phone — "Sara," low, Stevie Nicks singing to a kitchen with a naked woman in it — and turned to the counter and went to work.
 
 She took her chair at the little table, coffee in both hands, and watched, because watching him cook was one of the oldest pleasures she had in this house and six weeks had not made it smaller. He tipped the loaf out of the breadmaker, tall and brown and knocking hollow, and set it on the wire rack. She asked why not slice it hot, and he said, "It needs to develop a crust," in the tone he kept for facts, and put it in its patch of morning light like a thing enthroned.
 
