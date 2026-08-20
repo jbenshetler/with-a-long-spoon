@@ -7,6 +7,44 @@ heat-3; fable and opus called it the strongest sex in the book), plus the
 round (the cleaned kiss, tongue-search #1, warmed afterglow, gladiator recast, tea
 change, paragraph breaks) — where a fix supersedes what a reviewer saw, that's noted.*
 
+*Re-run 2026-08-20: full 6-model fresh panel after the post-panel edit round (cleaned
+kiss, coffee-scowl memory, "Sara" from his phone, month-not-six-weeks, legs restaged —
+wave descent / toe ceremony / single pause behind the knee / tiling-as-answer).
+Scores held: Heat 3 unanimous, Romance 2 unanimous (devotion in acts, no declaration).
+Validations and residuals below.*
+
+## Panel-validated (2026-08-20 re-run)
+
+- **The cleaned kiss fixed the consent confusion.** Zero sulk/punishment readings
+  (vs. panel-wide confusion on 08-19). Sol: "consent rendered at a very fine grain…
+  safer and hotter, not less intense"; terra: "does not make her embarrassment into a
+  punishment"; fable: "the consent this book promised on the jacket, rendered where
+  it's hardest: mid-act, mid-shame."
+- **Tongue-hunt + afterglow:** all six hold the sour-and-salt exactly as ajar as the
+  page ("Or found nothing"), flinch at the forgot-to-wipe alibi, and dread the Tuesday
+  pivot. Opus: "a needle sliding in under all the honey."
+- **The restaged legs read as heat, not itinerary** — fable: "some of the hottest
+  sustained writing in the book"; the feet detour singled out by terra and gpt-5.5;
+  fable's lone trim-candidate ("the leg-tiling descent") self-retracted ("and I
+  wouldn't trade it").
+- **"Sara" from the phone** landed naturally (fable, sol); no music confusion.
+- **Earn-the-dark held:** zero manipulator-readings of Pace across six, even with
+  every reader holding the structural dread.
+
+## Residuals from the re-run (all singleton or settled — no action)
+
+- Fable still blinks at the gladiator riff ("a shade purple… a small thing") — weaker
+  re-raise of the settled royal-conceit item; recast stands.
+- Opus + sol re-raise the coronation-language repetition mildly, both self-waiving —
+  the settled "royal conceit's weight" item; stands.
+- Sonnet (singleton): the final push to the second orgasm "slightly more
+  mechanical/checklist than the slow-built stuff." Uncorroborated; recorded, not acted.
+- Opus (singleton): "That's the plan" noticed as a light authorial wink ("I'll allow
+  it").
+- Sol/terra: the title telegraphs that a kiss-boundary is coming — both then praise
+  the misdirect (the forbidden thing is the installed voice, not a person). The title
+  trap working at its known cost.
+
 ## Fixed (with commits)
 
 - **Wet-kiss clarity** (terra/sonnet shaded his withheld mouth toward sulk/withdrawal;
