@@ -123,6 +123,27 @@ needs." The arc rungs (coronation, kingdom-proof, hallway picture, gladiator,
   sense experience) is written deep into Volume One and reread-darkness there is
   accepted depth. FK's beats are compliant as drafted; do not re-flag them.
 
+## Signal test — taste→orgasm seed (2026-08-20)
+
+- **Baseline ("on the reach," adjacency only):** 0/6 readers decoded the taste as the
+  climax trigger; fable alone sensed the missed-kissing alibi as false without finding
+  the cause.
+- **Variant (c) (find→clench→over, retraction deferred):** fable decoded fully in its
+  written review ("her body voting yes on the very thing her mouth called gross");
+  panel-wide, sharp-and-salt became every reader's named needle. **Interview probe**
+  (resumed fable/opus/sonnet subagents, 5-question funnel): all three had fully decoded
+  the mechanism ("the salt was the detonator"; "the finding was the trigger"; "keyed to
+  tasting something on him that isn't only her") and all three attributed their written
+  understatement to the hold-ajar instruction — deliberate calibration, NOT instrument
+  failure. Salt readings split by design: sonnet/opus lean dark (a trace), fable rejects
+  it on page evidence (farmers market) and lands on wipe-as-curation rhymed with "She's
+  not ready." All three: her alibi is "false-as-mechanism, true-as-feeling."
+- **Method note:** written reviews under-report deniable seeds; the resume-and-interview
+  probe is the right instrument for penetration testing.
+- **Author ruling:** (c) proves the seed lands but may over-signal for human readers;
+  stepped back to variant (b) (clench as trigger, hedge and retraction restored in
+  place). This seeds the volume's arc.
+
 ## Confirmed positives (load-bearing — protect)
 
 - The gate mechanics as drafted: retrospective-only render of the coating; the
