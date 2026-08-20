@@ -447,6 +447,52 @@ def run_oracle_codex_battery(model: str, model_id: str, probes, effort: str = "l
         raise SystemExit(f"{len(errors)} oracle answer(s) failed")
 
 
+def run_interview_codex(model: str, model_id: str, n: int, decade: int,
+                        questions: str, label: str, effort: str = "low") -> Path:
+    """Interview a codex reader about ONE chapter it has just read (the codex twin of
+    resuming a Claude blind-reader subagent with follow-up questions). Codex runs are
+    stateless, so the reader's state is reconstructed exactly: the same grounded read
+    prompt (jacket + checkpoint + window + chapter), then its own saved written
+    reaction, then the questions — answered under the blind-reader-grounded persona,
+    page-only rules. Writes reviews/cold-read/<model_id>/interviews/<slug>--<label>.md."""
+    import cold_read  # noqa: E402
+    slugs = reader_slugs()
+    slug = slugs[n - 1]
+    reaction = _reaction_body(model_id, slug)
+    prompt = (
+        build_prompt(model_id, n, decade)
+        + "\n\n===== YOUR WRITTEN REACTION (you have already read the chapter above "
+        "and saved this reaction) =====\n\n"
+        + reaction
+        + "\n\n===== FOLLOW-UP INTERVIEW =====\n\n"
+        "This is a follow-up interview about the chapter you just read; the OUTPUT "
+        "instruction above no longer applies. Answer from your experience of the page "
+        "only — the same rules as your read apply (nothing you weren't given). Answer "
+        "each question in order, separately, as specifically as you can; quote the "
+        "page where it helps. Return ONLY your numbered answers.\n\n"
+        + questions.strip() + "\n"
+    )
+    system_prompt = load_agent_prompt(AGENT_DEF)
+    fn, close = cold_read.make_codex_agent_fn(system_prompt=system_prompt, effort=effort)
+    try:
+        result = fn(prompt=prompt, model=model, label=f"interview-{slug}")
+    finally:
+        close()
+    ans = strip_leading_heading(result.get("output") or "")
+    if len(ans) < 200:
+        raise RuntimeError(f"suspiciously short interview answer for {slug} ({len(ans)} chars)")
+    out = REPO / f"reviews/cold-read/{model_id}/interviews/{slug}--{label}.md"
+    out.parent.mkdir(parents=True, exist_ok=True)
+    out.write_text(
+        f"# Interview (grounded) — {slug} · {label}\n\n"
+        f"*model: {model_id} · chapter: {slug} (ch {n}) · memory: "
+        f"ck-ch{boundary(n, decade):03d}+window · reader-protocol: v3-grounded-checkpoint "
+        f"(follow-up interview; context rebuilt, own reaction re-supplied)*\n\n"
+        f"## Questions (verbatim)\n\n{questions.strip()}\n\n---\n\n## Answers\n\n{ans}\n",
+        encoding="utf-8")
+    return out
+
+
 def strip_leading_heading(text: str) -> str:
     """Drop a leading `tool_uses:` echo or a `### Reader reaction` heading if present."""
     t = text.strip()
@@ -566,6 +612,15 @@ def main() -> None:
                     "(or --probes) × both tiers, writing <model-id>/oracle/<probe>--<tier>.md")
     ap.add_argument("--probes", default=None,
                     help="comma-separated probe keys for --run-oracle-battery (default: all)")
+    ap.add_argument("--interview", type=int, default=None, metavar="N",
+                    help="interview this codex model about chapter N it has already read: "
+                         "rebuilds the read context + its saved reaction, asks the questions "
+                         "from --questions (or stdin), writes "
+                         "reviews/cold-read/<model-id>/interviews/<slug>--<label>.md")
+    ap.add_argument("--questions", default=None, metavar="FILE",
+                    help="questions file for --interview (default: read stdin)")
+    ap.add_argument("--label", default="interview",
+                    help="output filename suffix for --interview (default: interview)")
     ap.add_argument("--check", action="store_true",
                     help="list the checkpoints the requested range needs (present/missing) and exit")
     ap.add_argument("--persist-output", metavar="PACKET_ID", default=None,
@@ -609,6 +664,16 @@ def main() -> None:
         print(f"packet_id: {token}")
         print(f"dir: {d.relative_to(REPO)}")
         print(f"parts: {len(ordered) - 1}")
+        return
+
+    if args.interview is not None:
+        q = (Path(args.questions).read_text(encoding="utf-8") if args.questions
+             else sys.stdin.read())
+        if not q.strip():
+            raise SystemExit("no questions supplied (use --questions FILE or pipe stdin)")
+        out = run_interview_codex(args.model, model_id, args.interview, args.decade,
+                                  q, args.label, effort=args.effort)
+        print(f"saved {out.relative_to(REPO)}")
         return
 
     if args.run_oracle_battery:

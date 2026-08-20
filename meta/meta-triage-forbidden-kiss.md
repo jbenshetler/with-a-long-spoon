@@ -143,6 +143,19 @@ needs." The arc rungs (coronation, kingdom-proof, hallway picture, gladiator,
 - **Author ruling:** (c) proves the seed lands but may over-signal for human readers;
   stepped back to variant (b) (clench as trigger, hedge and retraction restored in
   place). This seeds the volume's arc.
+- **Variant (b) full-panel result (final): 0/6 surface broadcast, 6/6 recoverable.**
+  Fresh 6-model panel on (b): no written review names the taste as trigger (sol
+  closest); Heat 3 unanimous. Full-panel interview (Claude trio resumed; codex trio
+  via the new `cold_read_grounded.py --interview`): all six reconstruct the causal
+  chain from the syntax when made to slow down — fable live during the read,
+  opus/sonnet only on re-walk (opus first accepted her alibi, "startled the syntax
+  says otherwise"), sol/gpt-5.5 full decode, terra partial-plus. All six: her alibi is
+  true-as-feeling, not the mechanism. Spread as designed: self-taste primary 6/6;
+  wipe-as-curation question surfaced by 4/6; Randi-trace suspicion carried by
+  sonnet/opus only, marked as checkpoint-driven. Interview files:
+  `reviews/cold-read/<model>/interviews/forbidden-kiss--taste-signal.md` (all six).
+  **(b) is the calibration of record — subliminal on first read, recoverable on
+  reread. Do not re-escalate without a new ruling.**
 
 ## Confirmed positives (load-bearing — protect)
 
