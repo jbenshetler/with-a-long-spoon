@@ -4,34 +4,31 @@
 
 ## Reader reaction
 
-I felt this one in my chest more than in my nerves. After the heat and manipulation and swoon of the recent chapters, this is such a clean little pocket of Vee and Cassie, and it made me love Cassie hard. She is so plain-spoken, so bodily unglamorous, so unthreatened by not being admired, and that makes her feel almost medicinal beside Vee’s constant awareness of being looked at. The line about the swimsuit having “a job to do” is perfect Cassie: no performance, no fuss, no lie.
+I felt my shoulders unclench in this chapter. After the intensity and social maneuvering of the recent chapters, this one gave me Vee with Cassie, and the relief of that was immediate: no one is steering her, no one is testing her, no one is turning her want into a game. Cassie is so good here. Not polished, not seductive, not socially glittering, but steady and dry and absolutely hers. “They will never know the love of a woman” made me laugh with Vee because it is exactly the kind of joke that saves you without announcing itself as rescue.
 
-Vee hurt me here. The green-and-white one-piece from synchronized swimming is such a small, brutal object: it “fit, and it gave her nowhere to hide.” That is the whole chapter’s ache. She knows how to make an entrance, how to put her face on, how to survive being watched. The comments from the bleachers are gross, but the chapter doesn’t linger on them as danger so much as weather she already knows how to walk through. What got me was that laugh after Cassie says, “They will never know the love of a woman.” It’s funny, but it’s also relief. Cassie keeps the joke private, and that privacy feels like care.
+Vee hurts me here in a quieter way. The swimsuit line is so simple and so loaded: “it fit, and it gave her nowhere to hide.” I felt the whole history of being looked at snap into place before the boys even say anything. The comments from the bleachers are gross, but the chapter does not linger in them for cheap threat; it gives Vee her practiced face, the “walk of a girl who had meant to arrive,” and then lets me feel how much effort that costs.
 
-The swoon here is not romantic exactly, but it is intimate. Vee going under the water landed beautifully: “Nobody up there could see her. Nobody down here wanted anything.” After so many scenes where being seen is erotic, dangerous, intoxicating, or socially loaded, this is the opposite kind of mercy. The water is where she existed before her body became an object, before the body became something to manage. “She had loved this before she had a body to be a problem” made me ache. That grief felt earned, and it stayed gentle rather than overexplained.
+The underwater passage is the swoon for me, not romantic but deeply bodily. “The room switched off” landed beautifully. I could feel the silence, the green, the reprieve from having a body that people read and appraise. The line that really got me was: “She had loved this before she had a body to be a problem, and the water was the one part of it that had never been taken.” That made the chapter ache. It also made the title click: “Water Wings” sounds childish, like flotation and learning to swim, but here the water is the old support, the thing that holds her without wanting her to perform.
 
-I don’t feel suspicion in this chapter. Cassie feels trustworthy to me, maybe more than almost anyone. She sees Vee’s face come back “wrong,” and instead of prying, she shoots water at her. That is exactly right. It lets Vee come back into her body without having to explain the sadness. The erotic charge is basically absent, despite the swimsuit comments and the attention to Vee’s body; what’s charged is the relief from erotic/social visibility. The chapter made the body feel both exposed and recoverable.
+No suspicion of Cassie. If anything, my trust in her deepened. She sees Vee come back “with her face on wrong” and does not ask for an explanation. She plays. That feels like love in Cassie’s exact language. Vee’s friendship with Cassie now feels newly precious against Randi’s radiance and Pace’s attention, because Cassie is not trying to open Vee. She just knows when to splash her.
 
-The title, “Water Wings,” feels tender and a little ironic. Vee doesn’t need floaties; the boys’ crude joke already puts that in the air. But emotionally, Cassie is the water wings here. Or the pool is. Something keeps Vee afloat without making a big speech about saving her. The book title, *A Polite Invitation*, and *With a Long Spoon* still feel like they’re pulling me toward seduction with distance, etiquette, and danger inside manners. The blurb’s closing beat, “Every yes was freely given. That was the problem,” feels more ominous after the recent chapters, but this chapter reminds me Vee has a self before and outside the invitation. I want more of that self. I dread watching it get used.
+Erotically, this is not a hot chapter for me in the usual sense, but the body is charged all over it. The boys looking at Vee, the suit giving her nowhere to hide, her awareness of display, all of that has a bodily current. But the chapter’s deepest charge is anti-erotic, almost: water as a place where nobody wants anything from her body. That contrast makes it feel intimate anyway.
 
-**Cast Present (In Person):**  
-Vee, Cassie. Mentioned only: the lifeguard, the guys in the bleachers.
+The book title, *A Polite Invitation*, still feels like it is pulling me toward the social and erotic invitation Vee does not yet understand she is inside. The series title *With a Long Spoon* keeps feeling like a warning about intimacy with something dangerous: close enough to taste, far enough to pretend safety. The jacket’s closing beat, “Every yes was freely given. That was the problem,” feels sharper after a chapter like this, because Vee’s ordinary freedom here is so fragile and so precious. I want more of Cassie in the room. I dread how little chance this kind of uncomplicated belonging may have once Randi and Pace’s orbit tightens around Vee.
 
-**Heat:** 0.5/3 — Vee’s body is looked at and commented on, but the scene’s center is exposure, relief, and friendship, not sex.
+**Cast present (in person):** Vee, Cassie, unnamed boys in the bleachers, lifeguard at the desk.  
+Mentioned-only: none by name.
 
-**Romance:** 1/3 — not romantic, but deeply affectionate; Cassie’s private joke and splash are real intimacy.
+**Heat:** 1 — bodily attention and exposure simmer at the edges, but the scene turns toward relief rather than wanting.
 
-**Motifs & Images:**  
-Repeat: being seen / looked at, Vee’s body as a problem, water as privacy, the “face” she puts on. First or sharpened here: the old synchronized swimming suit, the dark stripe where shallow becomes deep, Cassie as steady shallow-water presence.
+**Romance:** 1 — not romantic courtship, but Cassie’s quiet care has real tenderness.
 
-**Symbolism:**  
-The pool reads as a place before performance: underwater, Vee is unlooked-at and unclaimed. The dark stripe feels like a threshold into a self she can still access.
+**Motifs & images:** water as refuge, repeated body-as-problem from Vee’s Chi Latte self-consciousness; looking/being looked at repeats from Pace and Randi chapters, but here it is public and crude; Cassie’s plainness and steadiness repeat from class and coffee shop.
 
-**Characterization:**  
-Vee deepens: her shame around her body gets tied to an older, freer self. Cassie deepens beautifully: blunt, observant, protective without sentimentality. No one feels thin.
+**Symbolism:** the water clearly stands for a self before shame and display, a place where Vee can be held without being consumed.
 
-**Pace — Within The Chapter:**  
-Short and clean. The underwater passage slows exactly where it should, then Cassie’s splash breaks it at the right moment.
+**Characterization:** Vee deepens through the grief under her competence; Cassie deepens beautifully through action instead of explanation. The boys stay intentionally faceless.
 
-**Pace — Chapter To Chapter:**  
-This feels like a necessary breath after the escalating seduction. Momentum holds because it gives Vee interior ground, not because it advances the plot loudly.
+**Pace — within the chapter:** clean and earned; the underwater stillness slows without dragging, then the splash fight releases it.
+
+**Pace — chapter to chapter:** a pause, but a useful one. Momentum holds by giving Vee an inner baseline before the seduction continues.

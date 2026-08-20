@@ -4,46 +4,33 @@
 
 ## Reader reaction
 
-I felt this chapter all over my skin before I knew what I thought about it. It has that same Pace rhythm I’ve been falling for and worrying over: the exactness, the patience, the way he turns attention into a kind of touch before touch even happens. And for Vee, that is almost devastating. She is so ready to be ashamed, so trained to expect the bad verdict on her body, that every time he simply sees her and stays kind, something in her opens further.
+I came out of this chapter flushed and a little shaken, in the best way. The erotic charge is not just that Vee is nearly naked in front of Pace; it is that the whole chapter turns being measured into being received. I felt her panic first in my own body: the jeans coming off awkwardly, the bra becoming the next unavoidable threshold, the horrible clarity of “him there with his shirt buttoned and her here.” That asymmetry should feel dangerous, and for a moment it does. But the room keeps making room for her yes: the warmed house, the plainness of “It changes the line. It’ll lie to me,” the way he looks at her with want at the edges but not as the center.
 
-The undressing landed hard because it was not immediately sex, and somehow that made it more intimate. Jeans first, then shirt, then the bra: the chapter makes me feel every practical, awkward step of becoming exposed. Her trying to “call it a swimsuit” hurt. The whole memory of swimming, her body changing out from under the clean line the sport wanted, her mother’s rules about bikinis, all of that made her standing in bra and panties feel like a much bigger crossing than mere nudity. When he says, “The bra too… It changes the line. It’ll lie to me,” I believed both things at once: the real tailoring reason and the erotic force of being asked to remove it.
+Pace landed on me with enormous pull here. I still know what I know about the secret, and I don’t trust the whole arrangement around Vee. But in this room, in this chapter, his care feels real and devastatingly effective. The line that got me was him waiting on his knees, face tipped up, while she thinks he must be looking at the wetness she’s ashamed of. “He hadn’t looked down. The whole time she’d been dying he hadn’t looked down once.” That undid me. It is so tender, and so hot, because it doesn’t erase the erotic fact of what is happening. He wants her. He notices her. But he chooses her face first.
 
-The heat absolutely works for me. It peaks in layers rather than one flash: his fingers along her arm, his breath at her waist, the under-bust measurement, the tape across her nipples, the inside seam. But the chapter’s strongest erotic charge is not just that he touches her. It is the repeated “closeness, two touches, withdrawal, the pencil” rhythm. The withdrawal is cruel in the best way, because it leaves her alone with how much she wants him back in her space. The measuring becomes a slow engine.
+Vee deepened for me hard here. Her shame is not abstract; it has a vocabulary, a mother’s voice, a whole bodily training. “Stripper,” “floozie,” “girls like that” — those words hit because they arrive exactly where desire should be allowed to be simple. And then the chapter lets her desire become active. The shift after she realizes he has not humiliated her is thrilling: she straightens, rises onto her toes, starts “spending” the power she has found. I loved that it becomes playful without becoming coy. Pressing her breast to his cheek and saying “Oops. Sorry.” is the first time in the chapter I felt her not only surviving being seen, but using being seen.
 
-And then the wet satin. That could have tipped into humiliation in a way I would not trust, but the chapter earns its tenderness there. Vee’s panic is so specific and so awful: not just that she is aroused, but that her body has made evidence, and that the “hope” she dressed herself in is now visible. I felt sick for her when she realizes it is “big and dark and stupid.” That is the reader-ache of the chapter for me: she is not afraid he will know she wants him; she is afraid the wanting makes her contemptible.
+The heat absolutely worked on me. It peaks in two places: first, the measurement rhythm — touch, withdrawal, pencil, look — because the pauses are as charged as the contact; second, the moment after she teases him and he almost breaks. “Keep still,” coming “low” and “a beat too late,” is scorching because the restraint is visible as restraint. The dress matters, the doing-it-right matters, and that makes the wanting hotter, not cooler.
 
-The moment that made me melt was him not looking down. His face is right there, “right at the height of the worst of it,” and he has craned his neck up to meet her eyes. That undid me. Not because it erases the eroticism, but because it lets the eroticism stay without making her the joke. He is delighted by her, but not at her expense. Her body rearranging itself afterward, the stoop coming undone, her chin coming up, even rising onto her toes — that felt like the chapter’s whole emotional turn in miniature.
+My trust is divided in the exact way the book keeps making me hold. I trust Pace’s behavior on the page here. I trust his hands, his patience, his attention to her face. I do not trust the larger secret he and Randi are keeping from Vee. This chapter did not erase that unease; it made it more complicated, because Vee’s experience is genuinely beautiful. Nothing here felt careless with her consent. The problem is still outside the room, waiting.
 
-I still have suspicion, but it is not suspicion of this scene’s consent on its own terms. On the page, Vee is choosing, and he is holding back more than pushing. The larger unease is the same one I carried in: Pace and Randi have a secret architecture around Vee that she does not know about. That secret makes every beautiful thing a little dangerous in retrospect, even when the immediate moment feels careful and real. So I trust his hands here, and I do not fully trust the situation he has helped create.
+The title, “A Round,” first feels like measurements: the tape going around neck, waist, bust, hip, the repeated circuit of his hands and his attention. By the end it also feels like a round of a game or a turn in a dance: Vee has a turn, then Pace has one, then she discovers she can move him. The book title, *A Polite Invitation*, feels more charged than ever now: this is an invitation so exquisitely polite that the politeness itself becomes erotic. *With a Long Spoon* still makes me think of danger approached with manners and distance. The closing blurb beat, “Every yes was freely given. That was the problem,” is glowing over this chapter for me, because her yes is so clearly hers — and that is exactly why the hidden frame around it worries me.
 
-My feeling about Pace moved warmer and warier at the same time. Warmer because the dress is not a trick in the crude sense; he really is making something for her, and he keeps choosing the dress, the promise, the doing-it-right, even when she offers him heat. Warier because this level of mastery is almost too powerful. He has a whole room set up for her exposure: warm house, good light, riser, tea, blanket, silk. It is beautiful, but it is also prepared.
+What I want next is to stay in this room and see what happens when the dress comes off, or when the next invitation is made plainly. What I dread is Vee learning later that this beautiful attention has been part of something already discussed without her. My guess from here is that the dress will become one of the book’s central charged objects: not just clothing, but proof that Pace saw something she wanted and made it real.
 
-Vee deepened for me enormously. Her shame is not generic; it has a whole history and vocabulary. “Stripper,” “floozy,” the mother’s voice, the fear that her body’s response is some moral failure. And then she becomes bold, spending this new power before she can think better of it. The “Oops. Sorry.” with her breast against his cheek made me grin because it is so young and real and reckless. She is not suddenly healed. She is just, for a minute, not apologizing.
+**Cast Present (In Person):** Vee, Pace.  
+Mentioned-only: Randi, Vee’s mother.
 
-The chapter title, “A Round,” feels oblique but apt after reading. It points to measurements around the body — around the waist, under the bust, across the bustline — but also to a round of attention, a circuit Pace makes around her, especially that terrifying movement around the riser toward the front. It also has the faint feeling of a contest round, a turn taken: Vee discovers she can affect him too. The book title, *A Polite Invitation*, keeps darkening and heating at once. This chapter is an invitation conducted with exquisite manners, but the invitation is into being seen more completely than she knows how to survive. *With a Long Spoon* still feels like a warning about desire approached with distance or caution, though this chapter makes the distance feel erotic rather than merely defensive. The packet had no front-cover tagline; the blurb’s closing beat, “Every yes was freely given. That was the problem,” feels painfully alive here.
+**Heat:** 3 — sustained, bodily, almost unbearable; the measuring and restraint burn hotter than overt sex would have.
 
-What I want next is for this dress to become real, because the idea of Vee wearing something made exactly for her body feels almost unbearably tender. What I dread is how much she is going to trust the people who know more than she does. My guess from here is that the dress, the induction, and Randi’s gaze on Vee in that dress are going to matter. I also expect Vee’s boldness with Pace to keep growing, because this chapter gives her proof that wanting can make her powerful, not just exposed.
+**Romance:** 2 — the tenderness is clear and intimate, especially his waiting for her eyes, though no declaration lands.
 
-**Cast Present (In Person):**  
-Vee, Pace.  
-Mentioned only: Randi, Vee’s mother.
+**Motifs & Images:** Repeat: doors/thresholds from the closed bedroom door into this deeper undressing; food/hunger becomes fabric/wanting, another appetite Pace noticed and answered; being seen returns with full force; hands become the whole language. First/stronger here: measuring tape, riser, pins, burgundy silk, the pad “full of her.”
 
-**Heat:** 2.5 — no sex, but sustained erotic undressing, measuring, arousal, and charged touch are the center of the scene.
+**Symbolism:** The dress is already more than a dress: it is Vee’s discarded want made material, and now her body being fitted into a version of herself she has been ashamed to inhabit.
 
-**Romance:** 2 — the dress, the color chosen for her, the care, tea, blanket, and his refusal to shame her all feel deeply intimate.
+**Characterization:** Vee deepens beautifully: ashamed, witty, brave, aroused, playful, all at once. Pace deepens as maker and restrainer, though the secret still shadows him. No one feels thin here.
 
-**Motifs & Images:**  
-Repeat: clothes and being dressed/undressed; doors/opening into Pace’s house; hands; food/warmth/being cared for through tea; being seen; mother’s shame-voice; the body as problem and gift.  
-First/strong: the measuring tape, riser, burgundy silk, pins, the pad “full of her.”
+**Pace — Within The Chapter:** Slow in the right way. The repeated measuring rhythm earns its length because each return changes Vee’s state.
 
-**Symbolism:**  
-The dress stands for being made visible without being diminished. The measurements turn her body into numbers, but not coldly; they become a record of attention. The wet satin is shame made visible, then transformed by Pace’s refusal to make it shameful.
-
-**Characterization:**  
-Vee deepens sharply: shame, desire, humor, boldness, and vulnerability all coexist. Pace stays consistent: controlled, attentive, exact, but his restraint shows strain now, which makes him feel more human.
-
-**Pace — Within The Chapter:**  
-Slow, but earned. The repetition of touch-withdraw-write could have dragged, but it builds pressure beautifully.
-
-**Pace — Chapter To Chapter:**  
-Building. The hike, the shirt, the house, and now the measuring all feel like one intensifying movement toward Vee being seen more completely.
+**Pace — Chapter To Chapter:** Building. The mountain, the shirt, the house, and now the dress feel like one continuous escalation of being cared for, exposed, and chosen.

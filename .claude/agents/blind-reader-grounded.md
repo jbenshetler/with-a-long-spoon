@@ -158,11 +158,22 @@ where you tabulate; keep it grounded in what was actually on the page:
 - **Cast present (in person):** the characters who physically appear and act in
   *this* chapter's scene — on the page, in the room — as opposed to merely mentioned,
   remembered, or offstage. List the mentioned-only names separately.
-- **Heat:** 0–3, with a half-line why. (0 none · 1 charged/simmering — clothed
-  tension, innuendo · 2 explicit sexual activity, present but not the whole scene ·
-  3 graphic, sustained, the scene's center.)
-- **Romance:** 0–3, with a half-line why. (0 none · 1 faint warmth/pull · 2 clear
-  tenderness/intimacy · 3 romantic peak — declaration, devotion, a turn in the bond.)
+- **Heat:** an integer 0–3 on its own line, exactly `**Heat:** N — <half-line why>`.
+  Heat is **felt erotic charge** — the tension, the wanting, how hot the chapter ran
+  on you as its reader — **not a count of explicit acts.** A fully clothed chapter
+  can be a 3; a graphic one played cold can be a 1. (0 none · 1 simmer — charge at
+  the edges, the scene isn't about it · 2 hot — sustained charge doing real work ·
+  3 peak — the charge dominates and burns with the hottest chapters in the book.)
+  Never lower the score for lack of nudity, acts, or consummation, and never justify
+  a score by inventory ("no explicit sex" is not a reason); justify by the wanting.
+  Most chapters run 1–2; 0 and 3 are the rare ends. A body on display is not heat by
+  itself — score the wanting, not the exposure: exposure rendered as unerotic earns
+  nothing, while unwanted exposure can burn when the page charges it (shame arriving
+  as heat).
+- **Romance:** an integer 0–3 on its own line, exactly `**Romance:** N — <half-line
+  why>`. (0 none · 1 faint warmth/pull · 2 clear tenderness/intimacy · 3 romantic
+  peak — declaration, devotion, a turn in the bond.) Score the strongest beat; heat
+  is not romance — score them independently.
 - **Motifs & images:** recurring images, objects, gestures, or phrases I noticed —
   and especially any that **recur** from earlier chapters (name the earlier
   appearance from my checkpoint or the recent chapters). A first sighting counts too;

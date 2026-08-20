@@ -4,30 +4,33 @@
 
 ## Reader reaction
 
-I felt Vee’s happiness in my chest almost before I could get any distance from it. The suspense of her refusing to look at the door, then Randi appearing from the back with “*There* you are,” is so small and so enormous at once. Vee has made herself need so little—just proof that Randi meant what she said—and Randi gives it to her in the exact form she could most want.
+I felt Vee’s whole body lift into this chapter before she could admit what was happening. The right pen, Randi finding her in the “cave,” the seat beside her, the citrus at her elbow—none of it is large on its own, but Vee receives each small choice like an opening in the world. I was swept up by it. Randi’s warmth works on me, too; her “*There* you are” lands exactly where it lands on Vee, as though she has been expected. And Vee at the high table, trying not to show how much it means to her, made me ache for her.
 
-I like Vee very much here. Her social alertness is tender and a little painful: the way “the right pen” warms her like hard-won praise, the way she understands Chi Latte as a place she had been standing outside of, even when she was physically walking past it. Her delight isn’t shallow to me. It’s hunger meeting generosity, and I wanted her to take the latte, the stool, the hour, all of it. The high-table scene really swept me up. “She was a girl at the high table at Chi Latte” is such a simple private triumph.
+Vee deepens here. Her wanting is so naked in the way she refuses to name it: she judges the girls at the bar as “*Floozies*,” then keeps looking; she can imagine wearing their clothes, then hears the prohibition inside herself and closes the picture. But Randi quiets all that accounting. The feeling Vee has for her is not merely that she wants access to a brighter social world. It feels flatter and more helpless than that: “*here, this, with her.*” The page earns the charge without Vee yet letting herself look directly at what kind of charge it is.
 
-Randi is intoxicating on the page. Her warmth with Vee is vivid enough that I understand why Vee can’t retain the conversation itself—she is being carried by the feeling of being chosen. I felt the pull of Randi’s attention, too: the arm squeeze, “I’m not asking, I’ve decided,” the hug, “*Love you, girl.*” Nothing here makes me distrust her in the moment. The chapter earns Vee’s elation. The only unease I felt was very light and comes from Cassie’s strange, final “Goodbye, Vee,” especially because she doesn’t soften or explain it. It makes the title ring differently: Randi’s “See you later” feels like a promise; Cassie’s goodbye feels like she sees a separation Vee doesn’t.
+Randi is incredibly compelling in person. I feel the pull of her fluency—the way she takes Cassie’s flat response and makes room for it rather than punishing it, the way she makes Vee feel competent and funny and wanted. I don’t have a clean suspicion of her from this chapter alone; everything she does on the page is warm, and Vee’s pleasure is real. But I do feel uneasy in the specific gap between how total the hour is for Vee and how little of its actual conversation she can retain. “The transcript was blank” is chilling precisely because it arrives inside such happiness. It makes the feeling seem almost too complete to examine.
 
-The erotic charge is low but absolutely alive beneath the coffee date. Vee’s long look at the women in Chi Latte, the thought that she could wear their clothes, and then her “flat helpless want” for Randi all have heat. It is not explicit, but it is intimate and bodily. The strongest charge is Vee looking at Randi and having “nowhere to put” that want except being with her.
+Cassie caught at me. Her refusal is plain and unresentful, but “*Goodbye, Vee*” has weight. I don’t know what she sees, if anything; I only know Vee feels that it lands wrong and smooths it over. I trust Cassie’s plainness more after that. She is the only person in the chapter who does not turn the moment into a brighter version of itself.
 
-The title is lovely and unnerving after the chapter. “See You Later” is Randi’s casual certainty that there will be another time; it makes Vee feel included in a future. Cassie’s “Goodbye” sets against it like a wrong note. *A Polite Invitation* increasingly feels like entry into a dazzling social world where every welcome matters intensely. *With a Long Spoon* still means little to me from this chapter alone. The jacket’s “Every yes was freely given. That was the problem.” stays in my mind because Vee’s yes to coffee is so eager and so freely hers—and so tied to wanting to be let in.
+The erotic charge is not bodily in the earlier chapter’s way, but it is very alive. It peaks for me in Vee’s extended look at the women at the bar, and then in her helpless attention to Randi: the cold-citrus smell, knees nearly touching, Randi’s hand between her shoulder blades, “*Love you, girl.*” That hug has more voltage because Vee has no language ready for how much she wants to be held inside Randi’s world.
 
-I want to follow Vee into the “later.” My guess from here is that the friendship will become important very quickly, and that Cassie may be watching Vee drift somewhere she cannot yet name.
+“See You Later” feels tender on the surface and a little ominous after Cassie’s “Goodbye.” Randi’s phrase is the version Vee needs: not a vague promise, but a future stated as fact. The book title, *A Polite Invitation*, feels very present in the Chi Latte door, the high table, and the invitation Randi makes sound like a decision already shared. *With a Long Spoon* still means little to me emotionally beyond its strange, faintly cautionary atmosphere. The jacket’s closing beat—“Every yes was freely given. That was the problem.”—is getting sharper: Vee says yes gladly here, but the intensity of needing to be chosen makes that gladness feel complicated rather than simple.
 
-**Cast present (in person):** Vee, Randi, Cassie, the stats professor; unnamed students and café patrons. Mentioned only: Meg.
+I want the next meeting between Vee and Randi badly. My guess from here is that Vee will keep treating this as friendship and social luck because that is the safest available story, while her body keeps making the other story harder to ignore. I also want to know whether Cassie’s goodbye becomes anything, though the page has not told me enough to decide that it will.
 
-**Heat:** 1 — no sexual activity, but Vee’s attraction to Randi and her looking at other women simmer clearly.
+**Cast present (in person):** Vee, Cassie, Randi, the professor, unnamed classmates and café patrons.  
+**Mentioned only:** Meg.
 
-**Romance:** 1 — a charged new intimacy and Vee’s intense feeling of being chosen, though no romantic claim is made.
+**Heat:** 2 — sustained, unacknowledged attraction runs under Vee’s looking, the high table, and Randi’s touch.
 
-**Motifs & images:** Repeat: cold citrus, touch on Vee’s arm/back, warmth as social and physical invitation. First: the doorway/sign, the high table, spoons stirring sweetness, “latent variables.”
+**Romance:** 1 — intense warmth and choosing, but no established mutual romantic language.
 
-**Symbolism:** “Latent variables” lands as a neat image for forces that can’t be measured directly but are inferred; Vee’s want feels like one. The Chi Latte sign becomes an entrance into belonging.
+**Motifs & images:** Repeat: Vee’s black hair/blue-eyed polished self and the restrictive cardigan; Randi’s cold citrus scent; being looked at and chosen. First: the gold Chi Latte sign, the high table/window display, spoons ringing in sweet drinks, *latent variables*.
 
-**Characterization:** Vee deepens beautifully through her self-policing and genuine joy. Randi lands as effortlessly warm and socially commanding. Cassie is spare but newly intriguing in that one oddly final goodbye.
+**Symbolism:** “Latent variables” strongly reads as the unmeasured wants Vee is already revealing through what she looks at and reaches toward. The café door and high table feel like admission into a life she has watched from outside.
 
-**Pace — within the chapter:** Smooth and absorbing; the lecture’s slow drift gives the café invitation a satisfying lift.
+**Characterization:** Vee deepens sharply through the gap between her judgments, her self-policing, and her desire. Randi is vivid and socially magnetic. Cassie remains spare but gains force through her plain goodbye.
 
-**Pace — chapter to chapter:** Building. After the prior charged discovery of Vee, this is the first direct, vivid contact between Vee and Randi, and it has real momentum.
+**Pace — within the chapter:** It earns its gradual build from classroom anticipation to the ecstatic coffee hour; the lost transcript gives the ending an unsettling aftertaste.
+
+**Pace — chapter to chapter:** Building — after the last chapter’s private breakthrough, this opens a new, brightly public current without repeating the same beat.

@@ -4,31 +4,31 @@
 
 ## Reader reaction
 
-I was grinning through this. Vee is so openly lit up here—laughing loudly, taking fries, unable to stop telling the shirt story—that her happiness lands before my unease does. I feel protective of her because she’s telling the truth as she knows it: Pace’s asking, waiting, and exactness have made wanting feel safe enough to become unbearable. “It’s making me lose my mind” is funny, but it also feels very sincere.
+I’m grinning through this one. It takes the private, shivering intensity of the truck and lets Vee have the fun of saying it aloud to friends—not diminished, not made ridiculous, but brightened by being able to boast a little. Kayla and Meg make a lovely little chorus: Kayla’s delighted outrage, Meg’s dry steadiness. Vee laughing “with her whole body” feels like a real change from the girl who used to swallow every want before it could be seen.
 
-Pace gets more attractive through Vee’s account, especially in that simple account of him doing exactly what she says she wants. The restraint is the charge. But I can’t give him uncomplicated trust because I remember what Vee doesn’t: the invitation to his house isn’t innocent in the broad sense her friends assume. Still, nothing in this chapter makes his text itself feel coercive; it is starkly minimal, and Vee is free to answer it. Randi and Cassie aren’t here, and I miss Cassie a little—Kayla and Meg are fun, but Cassie’s steadiness would make this news feel different.
+I’m still completely taken by Pace’s restraint as Vee describes it: the shirt, standing in the rain, the siren cutting off what might have happened. The fact that she is losing her mind not because he pushes but because he asks, waits, and then follows what she says she wants is extremely hot to me. “It sounds like nothing,” she says—and it doesn’t. It lands as precisely the opposite of nothing, because she has so little practice believing a preference can shape the world around her.
 
-The heat is mostly anticipation, and it works. The shirt story has become Vee’s private treasure turned public mythology; “I kept it” is a terrific little flare of desire. The peak, though, is the bare text: “would you come to my house Saturday. Two o’clock.” Because Vee has never crossed that door, it makes the unknown feel huge. Kayla’s “He wants you for the afternoon” is exactly the kind of teasing that would make me blush along with Vee, even as I know there is more behind that door than any of them realizes.
+I like Meg, too, for not puncturing Vee’s happiness. “Sometimes they even are” is sensible without being a scold. Kayla is less grounded but affectionate, hilariously ready to make this a collective emergency. Neither friend knows what I know about Pace and Randi, so their uncomplicated excitement gives me both buoyancy and a faint ache. Vee is being so freely, vividly happy; the secret still makes it hard to relax all the way into rooting for Pace, even when every visible action here earns my swoon.
 
-I have no new suspicion of Meg or Kayla. They read as affectionate friends enjoying Vee’s crush, not pushing her into anything. Kayla’s certainty about what two o’clock means is funny rather than authoritative; Vee’s “It’s probably dinner” is almost sweet in how she tries to make the invitation legible.
+The house invitation hits exactly where it should. She has had pieces of him—his food, truck, shirt, hands, attention—but “never once been through his door.” I feel her nervousness physically, that bright quick heart around the bare message. I want Saturday immediately. And I dread it a little, not because the invitation itself feels unsafe—nothing on this page makes it feel unsafe—but because a door is never just a door in this book, and because I know more of the shape around Vee than she does.
 
-“What to Wear” lands perfectly as Vee’s actual problem: not merely clothes, but how to enter a new private space without knowing what version of herself will be wanted there. It doesn’t give anything away; it lets the invitation stay tantalizingly blank. *A Polite Invitation* now feels more ominous and more seductive in tandem—this is another door Vee wants to walk through. *With a Long Spoon* remains strange to me as a series title; I don’t yet know what it means. The packet’s closing beat, “Every yes was freely given. That was the problem,” presses on this chapter hard: Vee’s excitement is plainly hers, which makes my wanting to protect her complicated rather than simple.
+The erotic charge is mostly anticipation, but it works. It peaks in her frank admission that once in twelve days is “making me lose my mind,” then gathers again around “He wants you for the afternoon.” This isn’t a sex scene; it is a room full of women letting Vee’s desire become speakable, and that makes it genuinely warm.
 
-I absolutely want Saturday next. My guess from here is that the question of clothes will become a way for Vee to confront how much she wants to be seen—and perhaps to decide what she wants before Pace asks.
+“What to Wear” is both a practical question and Vee’s old fear of presenting the wrong self at an important threshold. It brings back the russet dress she wanted for the induction: wanting the right thing, fearing she cannot have it, settling for “good enough.” Here Kayla refuses the settling on her behalf. The book title, *A Polite Invitation*, feels sharper now: Pace’s spare, perfectly courteous text is an invitation Vee can freely accept, but I cannot forget the earlier invitation she never knew she received. *With a Long Spoon* still feels ominous and distant to me. The jacket’s “Every yes was freely given. That was the problem” is increasingly painful because Vee’s yes is so palpably alive.
 
 **Cast present (in person):** Vee, Meg, Kayla, Theo.  
 **Mentioned-only:** Pace, Danny.
 
-**Heat:** 1 — strong erotic anticipation around the shirt, the single kiss, and the house invitation.
+**Heat:** 2 — Sustained anticipation and Vee’s frank, increasingly unguarded wanting make the whole conversation hum.
 
-**Romance:** 2 — Vee’s delighted retelling makes Pace’s care feel intimate and cherished.
+**Romance:** 2 — The friends’ affection is warm, and Vee’s account of Pace’s care gives the invitation real tenderness.
 
-**Motifs & images:** Repeat: doors/invitations (“never once been through his door”); food and hunger in the dining hall; Pace’s shirt, now folded on Vee’s pillow. Repeat: choosing/asking, in Vee’s account of him waiting for what she really wants. First: clothes as the immediate form of Vee’s uncertainty.
+**Motifs & images:** Repeat: doors/invitations—the house door and Saturday behind it; hunger/food—the superior dining hall, fries, cheese, and the recalled sandwich; choosing/permission—Pace asking what she wants and honoring the answer; the shirt, now “folded on her pillow.” Repeat: the russet dress problem becomes the title’s question of what Vee can allow herself to wear and want.
 
-**Symbolism:** The unspecified house invitation feels like a literal open door into an unknown intimacy; the missing dress code makes Vee’s uncertainty visible.
+**Symbolism:** The unspecified house invitation feels like a threshold: Vee knows the address of the desire, but not what waits beyond its door.
 
-**Characterization:** Vee deepens as funny, unabashedly hungry, and still tenderly self-conscious. Meg and Kayla arrive distinctly—Meg measured and wry, Kayla exuberant and meddling in a welcome way. Pace is deepened through Vee’s loving account, though only at a distance.
+**Characterization:** Vee deepens wonderfully through how easily she tells the truth when she is happy. Meg and Kayla are distinct immediately—Meg quietly grounded, Kayla exuberantly mobilizing—and both feel like real friends rather than obstacles.
 
-**Pace — within the chapter:** Brisk and buoyant; the text message arrives at exactly the right moment.
+**Pace — within the chapter:** Brisk and buoyant; the friends’ back-and-forth earns the time because it lets the invitation expand in Vee’s mind.
 
-**Pace — chapter to chapter:** Building. After the hike’s charged almost-moment, this gives that desire a new, very concrete place to go.
+**Pace — chapter to chapter:** Building. After the hike and its interrupted intimacy, this turns the held charge into a clear next step.

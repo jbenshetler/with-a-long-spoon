@@ -199,11 +199,22 @@ body-response before tidy interpretation; don't pad sections with nothing to say
 **Structured block** (a few tight lines per bold label, grounded in the page):
 - **Cast present (in person):** characters who physically appear and act in this
   chapter's scene, vs. mentioned-only names (list those separately).
-- **Heat:** 0–3 + half-line why. **0** none · **1** charged/simmering (clothed
-  tension, innuendo) · **2** explicit sexual activity, present but not the whole scene ·
-  **3** graphic, sustained, the scene's center.
-- **Romance:** 0–3 + half-line why. **0** none · **1** faint warmth/pull · **2** clear
-  tenderness/intimacy · **3** romantic peak (declaration, devotion, a turn in the bond).
+- **Heat:** an integer 0–3 on its own line (`**Heat:** N — <half-line why>`). Heat is
+  **felt erotic charge** — tension and wanting, how hot the chapter ran on the reader —
+  **not a count of explicit acts**; a clothed chapter can be a 3. **0** none · **1**
+  simmer (charge at the edges; the scene isn't about it) · **2** hot (sustained charge
+  doing real work) · **3** peak (the charge dominates; with the hottest chapters in the
+  book). Never lowered for lack of nudity/acts; never justified by inventory. Most
+  chapters run 1–2; 0 and 3 are the rare ends. A body on display is not heat by
+  itself — the score follows the wanting, not the exposure: exposure rendered as
+  unerotic earns nothing; unwanted exposure can burn when the page charges it.
+  *(Calibration ruling 2026-08-20 — author. Earlier anchors scored tier by explicitness;
+  scores minted before this date sit on the old scale — mind the seam when comparing
+  Heat curves across dates.)*
+- **Romance:** an integer 0–3 on its own line (`**Romance:** N — <half-line why>`).
+  **0** none · **1** faint warmth/pull · **2** clear tenderness/intimacy · **3** romantic
+  peak (declaration, devotion, a turn in the bond). Scored on the strongest beat,
+  independently of Heat.
 - **Motifs & images:** recurring images/objects/gestures/phrases noticed — flag any
   that **recur** from earlier chapters (name the earlier appearance) and mark first vs.
   repeat.

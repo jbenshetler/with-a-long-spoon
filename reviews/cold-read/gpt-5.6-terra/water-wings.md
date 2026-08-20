@@ -4,28 +4,29 @@
 
 ## Reader reaction
 
-This felt like such a relief after the tight, watched feeling around Vee lately. I felt her unclench underwater. “Something in her chest that had stood at attention all afternoon quietly sat down” got me immediately; the pool is the first place in a while where she isn’t being chosen, assessed, desired, or asked to make herself into a particular version of herself. The old synchronized-swimming suit is painful because it still fits and because she can’t disappear inside it, but underwater she gets to be simply skilled and at home.
+This felt like a breath I didn’t know Vee had been holding. I loved the underwater passage most: “Nobody down here wanted anything.” That landed hard after so much of her being watched, assessed, invited, and made newly visible. The water gives her a private, bodily belonging that isn’t about display or appetite or being chosen. Her little grief there felt earned and clean.
 
-Cassie made me love her here. She sees the boys’ comments for what they are, but her real care is in not making Vee’s discomfort into a scene, and then in that perfectly calibrated splash. “They will never know the love of a woman” is funny, but the gentleness of keeping it low is warmer still. Her not asking when Vee surfaces sad feels knowing rather than neglectful. Then the water fight gets Vee all the way back into her own ugly shriek-laugh. I melted at that.
+Cassie is such a relief. She sees the catcalls, calls the men “tossers,” and—more importantly—doesn’t turn Vee’s sadness into a conversation Vee has to manage. The splash is exactly right: affectionate, ridiculous, and merciful. “The shriek-laugh, the ugly one” made me love their friendship. It’s the opposite of the careful face Vee is usually trying to keep intact.
 
-There’s no erotic charge here, really, beyond Vee’s awareness of being exposed and the men making her body public without permission. It’s more bodily than sexual: the freedom of having that body vanish into water, then the physical joy of using it without self-surveillance. The chapter makes the crude “floaties” line sting, but it doesn’t linger there. Cassie and the pool win.
+There’s no erotic charge here, but there is real tenderness, especially in Cassie saving her from being alone with that grief. I don’t distrust Cassie at all; this chapter made me trust her more. The only unease is the ordinary ugliness of the men in the bleachers, and Vee’s practiced little responses show how familiar that ugliness is.
 
-I have no new suspicion of Cassie at all. If anything, she feels like the person most reliably on Vee’s side. The chapter title, “Water Wings,” lands first as the boys’ stupid floaties joke, then as something gentler: the water itself and Cassie’s friendship both helping Vee stay afloat without making her admit she needs help. *A Polite Invitation* still makes me wary because Vee is so hungry to be welcomed into Randi’s world, while *With a Long Spoon* and “Every yes was freely given. That was the problem.” keep their darker promise hovering at the edge. But this chapter gave me a pocket of safety I badly wanted for her.
+“Water Wings” means the old competence and freedom Vee has in water—the way she can hold herself up without anyone’s help. It’s sweet, but it also makes the ending sting: she can set the body-problem aside only temporarily, on the deck. *A Polite Invitation* still feels like a promise of access and being let into a desired world; this chapter reminds me that Vee had a self and a refuge before anyone invited her anywhere. *With a Long Spoon* remains oblique to me. The jacket’s closing tagline, “Every yes was freely given. That was the problem,” feels sharper now because this chapter is quietly about what it costs her simply to be visible.
 
-I want Vee to keep this part of herself—the part that can go quiet underwater and laugh ugly with Cassie—close as things with Randi and Pace intensify.
+I want the next chapter partly because I’m eager for Vee and Randi’s new friendship, but I also want Cassie to remain a real counterweight—someone who can make Vee laugh without asking her to become anything.
 
-**Cast present (in person):** Vee and Cassie. Mentioned-only: unnamed men in the bleachers; an unnamed lifeguard.
+**Cast present (in person):** Vee, Cassie.  
+**Mentioned-only names:** None.
 
-**Heat:** 0 — exposure and catcalling, but no erotic exchange.
+**Heat:** 0 — no erotic pull; the chapter’s bodily charge is exposure, relief, and play.
 
-**Romance:** 1 — not romance, but real affection and protective intimacy between friends.
+**Romance:** 1 — not romantic, but Cassie’s quiet care carries genuine warmth.
 
-**Motifs & images:** Repeat: Vee’s body as something judged or managed; water as an earlier, uncomplicated self. First: the rolled towel left on deck as the body-problem waiting outside the water.
+**Motifs & images:** Repeat: Vee’s body as something watched and managed; water as an older, freer bodily knowledge. First sighting: the rolled towel and the pool’s green quiet.
 
-**Symbolism:** The water reads as a brief refuge from being seen; the splash fight turns that refuge into shared, childish joy rather than solitude.
+**Symbolism:** The water reads as a refuge where Vee is unobserved and weightless; the “water wings” are her own learned capacity to stay afloat.
 
-**Characterization:** Vee deepens through her grief and physical competence. Cassie lands beautifully: blunt, observant, and quietly tender.
+**Characterization:** Vee deepens through the contrast between her deck-side performance and underwater relief. Cassie deepens beautifully as perceptive without being invasive.
 
-**Pace — within the chapter:** Quick and clean; it earns the underwater stillness, then breaks it at exactly the right moment.
+**Pace — within the chapter:** Quick and perfectly judged; the underwater pause earns its space, then the splash breaks it at exactly the right moment.
 
-**Pace — chapter to chapter:** A welcome release from the mounting social and romantic pressure, without feeling like filler.
+**Pace — chapter to chapter:** A welcome softening after the charged recent run. It builds Vee’s interior life rather than stalling momentum.

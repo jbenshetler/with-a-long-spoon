@@ -1,43 +1,37 @@
 # Cold read (grounded) — On Her Floor
 
-*scene: scenes/on-her-floor.md · model: gpt-5.5 · memory: ck-ch050 + raw ch051..ch053 · reader-protocol: v3-grounded-checkpoint*
+*scene: scenes/on-her-floor.md · model: gpt-5.5 · memory: ck-ch050 + raw ch051..ch055 · reader-protocol: v3-grounded-checkpoint*
 
 ## Reader reaction
 
-I felt this chapter in my throat and low in my body before I had anything neat to say about it. It is the first time Vee’s desire for Randi stops being a flicker she can explain away and becomes a fact on the page. Not a theory, not “girls being girls,” not friendship with a little glitter on it. Randi kisses her, and Vee wants her.
+I came out of this chapter flushed and unsteady in exactly the way Vee does. The whole first half has that lovely social warmth: Chi Latte full of girls, Randi asking “Wanna go to a party with me?”, Vee’s yes coming “with no floor under it.” I felt the pull of being chosen by Randi before I felt any danger in it. Vee is so happy to be her plus-one, so ready to let Randi decide the country she’s walking into.
 
-Vee feels so open here, and so heartbreakingly willing to be led. The first yes lands exactly like so many of her yeses: fast, eager, “a yes with no floor under it.” That line got me because it is joyful and dangerous at once. She wants to go with Randi. She wants to be chosen by Randi. She wants the party, the room, the glamour, the borrowed skirt, the whole permission structure Randi gives her. And because the invitation comes through Randi, Vee can wear the too-short skirt and want to be looked at without having to own the wanting yet. “Tonight the skirt was Randi’s. Randi dressed like this and walked into rooms as if she’d built them; in Randi’s skirt the wanting wasn’t hers to answer for.” That is gorgeous and devastating. She is borrowing not just clothes, but nerve.
+Randi is dazzling here, and I absolutely felt why Vee can’t look away. The aqua dress, the French braid “like something machined,” the cool jewelry, the Love bracelet that takes tools to remove — it all makes her feel polished, locked, committed, untouchable. And then she keeps touching Vee. Running Vee’s hair through her fingers “like money,” putting a hand at the small of her back, answering the boy for her: “She’s here with me.” That line landed hard. It is protective, possessive, thrilling, and not innocent, all at once.
 
-Randi is intoxicating in this chapter. I understand exactly why Vee follows her. She is beautiful, exact, socially fluent, generous with attention, and she makes Vee feel like the most vivid thing in any room. Her line, “I’m going to stand next to you all night and live off what spills,” made me swoon hard. It is flattering, hungry, and so Randi: she can make possession sound like admiration. But this is also where my suspicion of her sharpens. The kiss begins with the cover of a joke for Harrison, and Randi uses that cover to take something real. Then afterward she folds it back up into the joke: “You really did a great job putting on a show. I almost believed it.” That line hurt. It gives Vee nowhere to put the truth of what just happened. It lets Randi have the kiss and deny the kiss in the same breath.
+Cassie stays quietly sharp for me. “That’s an outfit” and the raised eyebrow at “Tonight I’m Randi’s date” are so small, but they feel like the cleanest reality check in the room. She doesn’t moralize; she just sees the practical and emotional problem before Vee is ready to.
 
-The erotic charge works intensely for me. The chapter peaks at the kiss, especially the suspended inch before it. “The held inch became its own long event” is exactly how it felt: the whole room narrowing down to Randi’s mouth, scent, breath, and Vee’s wanting. It is explicit without becoming mechanical. The heat is in Vee realizing, too late to defend herself, that she wants Randi’s hands under the skirt, Randi’s mouth lower, Randi away from the room. That is the point where the old brunch kisses and the almosts from earlier chapters all cash out. Her body has been telling the truth longer than her mind has.
+The erotic charge works best when Vee is trying to call it something else. The skirt climbing while she dances, Randi’s hands moving her hips bigger, then lifting her arms so Vee can’t keep covering herself — that made me tense and hot together. It’s not simple comfort. Vee is exposed before she has fully chosen the exposure, but the scene does show her staying because she wants the brightness and the room and Randi’s hands more than she wants to retreat. The shame after “Your panties… are showing” is sharp, and the line “found out twice over: once to the room, and once, worse, to herself” is the hinge for me.
 
-I also felt a real ache in the aftermath. Vee has no language for this, and Randi refuses to give her any. Vee can say “god, his face” because that is the script Randi hands her, but her body is still ringing with a different story. The final image of the green thong is so bluntly intimate and lonely: no music, no show, no one to hand it to. Just evidence. It reminded me of the panties she once gave Pace, except here there is no exchange, no recognition, no recipient. The proof remains with Vee.
+The kiss is the peak. It starts as a joke for Harrison, but the page lets the joke fall away: “the held inch became its own long event.” That is where I melted and also got scared for her. Vee’s wanting is so plainly real: the smell of Randi “turned in Vee like a key,” and then “there was no floor.” I believed the kiss completely. I believed her arousal completely. I believed that she wants Randi’s hands under the skirt and Randi’s mouth lower. The chapter finally lets Vee know the thing her body has been saying for chapters.
 
-Cassie is brief but clean as ever. Her eyebrow at “Tonight I’m Randi’s date” felt like the chapter quietly acknowledging what Vee will not. Cassie does not force the point, but she sees enough. Pace is absent in person but present as a comparison and a permission: “He gets me Friday. He gets me Sunday.” Vee thinks she is neatly splitting the weekend between lover and friend, but the chapter makes that arrangement wobble.
+My suspicion is not that the kiss is fake. It’s almost the opposite: it is too real for the container Randi immediately shoves it back into. “You really did a great job putting on a show. I almost believed it.” That line made my stomach drop. Maybe Randi needs the excuse as badly as Vee does, and the little “blinking” pause before the grin leaves that ajar. But from Vee’s side it feels cruel, even if not meant as cruelty, because Randi hands her back a lie when Vee’s body is still telling the truth.
 
-The title, “On Her Floor,” is wonderfully double. It is literally Randi’s social floor, her sorority mixer, her dance floor, her territory. But emotionally, Vee is on Randi’s floor too: under Randi’s rules, in Randi’s borrowed skirt, inside Randi’s explanation of what the kiss was allowed to mean. The book title, *A Polite Invitation*, feels louder now. This is another invitation that arrives as manners, friendship, a plus-one, a party, a bit. The series title *With a Long Spoon* keeps feeling like a warning about dining with danger while still eating. And the tagline, “Every yes was freely given. That was the problem,” is painfully alive here: Vee says yes, and means yes, and that does not make the situation simple.
+The chapter title, “On Her Floor,” feels literal and emotional now: the sorority floor, the dance floor, Randi’s social floor, and Vee losing the floor under herself. *A Polite Invitation* feels increasingly pointed: this is another invitation made to look casual, friendly, even playful, while opening onto something much larger. *With a Long Spoon* keeps promising intimacy with something dangerous at the table. The closing beat from the blurb, “Every yes was freely given. That was the problem,” feels especially active here, because Vee’s yeses are real, but Randi keeps framing the meaning for her.
 
-What I want next is for Vee to tell someone the truth, but I dread that she will tell Randi and be gently laughed back into uncertainty. My guess from here is that this kiss will not stay contained. Vee’s body has crossed a line her mind cannot uncross, and Randi knows it, even if she pretends she only “almost believed it.”
+What I want next is impossible and obvious: I want Vee to ask. I want Randi to stop pretending. I dread Vee taking this to brunch or Pace or herself and having it folded into another joke before she can name it. My guess from here is that Vee will try to make the kiss socially safe, but her body won’t let it become small again.
 
-**Cast Present (In Person):**  
-Vee, Randi, Cassie, Brooke, Harrison, unnamed sorority sisters/party guests, unnamed boy with beer. Mentioned-only: Pace.
+**Cast present (in person):** Vee, Randi, Cassie, Brooke, Harrison, unnamed sorority sisters/partygoers, unnamed boy with beer. Mentioned only: Pace.
 
-**Heat:** 2.5 — no sex, but the kiss is sustained, bodily, and explicitly arousing; the thong at the end confirms the charge.
+**Heat:** 3 — the wanting dominates the chapter, especially once Randi turns the “show” into a real kiss.
 
-**Romance:** 2 — real tenderness and longing between Vee and Randi, but Randi immediately disguises it as performance.
+**Romance:** 2 — Randi’s “plus-one,” “she’s here with me,” and the kiss carry real intimacy, though Randi’s retreat keeps it from feeling secure.
 
-**Motifs & Images:**  
-Borrowed clothing repeats: Randi’s shoes/scarf/dresses before, now Randi’s skirt shaping Vee’s public erotic self. Looking/being looked at repeats from the induction, Pace’s gaze, and the roadhouse. Green underwear repeats the earlier green satin/panties with Pace, but here the evidence belongs to Randi’s effect. Doors/warm rooms repeat as Vee enters another charged invitation-space.
+**Motifs & images:** Clothing as reveal repeats through Randi’s skirt, Vee’s black wrap top, the too-short hem, and Randi’s aqua dress. Shoes repeat as borrowed confidence. Being looked at repeats from the induction, the Rusty Nail, and the roadhouse, now turned toward Vee’s panties showing. Doors/warmth repeat as the party door opens from cold into heat. The Love bracelet is a first-sighting object with obvious weight.
 
-**Symbolism:**  
-The skirt stands for borrowed permission and borrowed danger: Vee can expose herself because she tells herself it belongs to Randi’s world. The Love bracelet is a pointed little object: beautiful, locked on, requiring tools to remove.
+**Symbolism:** The Love bracelet reads as Randi’s beautiful locked commitment: glamorous, expensive, called Love, and removable only with tools. The skirt is permission-by-proxy: Vee can wear daring because it is Randi’s.
 
-**Characterization:**  
-Vee deepens sharply: her want for Randi becomes undeniable but still unnamed. Randi deepens and darkens: magnetic, loving, and evasive. Cassie stays consistent: observant, dry, careful. Brooke remains socially powerful but warm.
+**Characterization:** Vee deepens: her desire for Randi becomes bodily undeniable. Randi deepens and darkens: she is tender, electric, and evasive. Cassie remains consistent and grounded. Brooke lands warmer than frightening here.
 
-**Pace — Within The Chapter:**  
-The chapter earns its length. The slow dressing, arrival, dancing, exposure, and kiss all build pressure. Nothing dragged for me.
+**Pace — within the chapter:** The chapter earns its length; the slow dressing/social entry makes the kiss feel like an arrival, not a sudden twist.
 
-**Pace — Chapter To Chapter:**  
-Momentum is building. After Pace entered Vee’s social world and Sheri became real, this shifts the pressure hard onto Randi/Vee. It feels like a threshold chapter, not a repeat.
+**Pace — chapter to chapter:** Momentum is building hard. After Pace publicly named Vee and Sheri turned from rival into friend, this shifts the pressure toward Randi, and it does not feel like repetition.
