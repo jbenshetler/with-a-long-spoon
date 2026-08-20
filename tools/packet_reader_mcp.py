@@ -40,6 +40,25 @@ REVIEWS_ROOT = (REPO / "reviews" / "cold-read").resolve()
 _TOKEN_RE = re.compile(r"^[0-9a-f]{32}$")
 _NAME_RE = re.compile(r"^[A-Za-z0-9][A-Za-z0-9._-]*$")
 
+# Reader-review format contract (reader reactions only — never checkpoints/oracle
+# answers, which route to deeper paths). Enforced with in-context retries: a
+# rejection costs the reader one short re-emit turn, not a re-read, so the cap is
+# cheap. After _MAX_FORMAT_RETRIES rejections the write is accepted with a warning
+# marker rather than discarded — the prose reaction is the expensive part.
+_MAX_FORMAT_RETRIES = 2
+_REQUIRED_BLOCK = (
+    ("**Heat:** N", re.compile(r"\*\*Heat:\*\*\s*[0-3]\b")),
+    ("**Romance:** N", re.compile(r"\*\*Romance:\*\*\s*[0-3]\b")),
+    ("**Cast present**", re.compile(r"\*\*Cast present", re.IGNORECASE)),
+)
+
+
+def _is_reader_review(dest: Path) -> bool:
+    """True only for reviews/cold-read/<model-id>/<slug>.md — the reader-reaction
+    lane. Checkpoints (<model>/checkpoints/ck-*.md) and oracle outputs live deeper
+    and carry no structured block."""
+    return dest.parent.parent == REVIEWS_ROOT and not dest.name.startswith("ck-")
+
 mcp = MCPServer(name="packet", version="1.0")
 
 
@@ -102,6 +121,30 @@ def write_output(packet_id: str, text: str) -> str:
     body = re.sub(r"(?is)^\s*#{1,3}\s*(?:reader reaction|checkpoint)\b[^\n]*\n+", "", body, count=1).strip()
     if len(body) < 200:
         raise ValueError("output too short to save")
+    if _is_reader_review(dest):
+        missing = [label for label, rx in _REQUIRED_BLOCK if not rx.search(body)]
+        if missing:
+            attempts_f = d / ".attempts"
+            try:
+                attempts = int(attempts_f.read_text(encoding="utf-8"))
+            except (FileNotFoundError, ValueError):
+                attempts = 0
+            attempts += 1
+            attempts_f.write_text(str(attempts), encoding="utf-8")
+            if attempts <= _MAX_FORMAT_RETRIES:
+                raise ValueError(
+                    "output rejected — missing required structured-block lines: "
+                    + ", ".join(missing)
+                    + ". Re-send your COMPLETE output (do not shorten the Reader "
+                    "reaction) ending with the full structured block: Cast present, "
+                    "Heat, Romance, Motifs & images, Symbolism, Characterization, "
+                    "Pace — with Heat and Romance as integers 0-3."
+                )
+            body += (
+                "\n\n<!-- format-warning: accepted after "
+                f"{_MAX_FORMAT_RETRIES} format retries; still missing: "
+                + ", ".join(missing) + " -->"
+            )
     dest.parent.mkdir(parents=True, exist_ok=True)
     dest.write_text(header + body + "\n", encoding="utf-8")
     return f"saved {len(body)} chars to {rel}"
