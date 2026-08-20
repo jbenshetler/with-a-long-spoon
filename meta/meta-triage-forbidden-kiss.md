@@ -127,8 +127,11 @@ needs." The arc rungs (coronation, kingdom-proof, hallway picture, gladiator,
 
 - The gate mechanics as drafted: retrospective-only render of the coating; the
   involuntary clench (pointing-game:21 tell redistributed); legs-clamp "Don't you dare
-  stop"; back-of-hand wipe; "Okay" against her jaw; climax after the kiss dissolves,
-  "made of nothing but him."
+  stop"; back-of-hand wipe; "Okay" against her jaw. *(Superseded by author redesign
+  2026-08-20: the "made of nothing but him" clean-peak was replaced — the second climax
+  now arrives on the tongue-hunt's reach (sharp-and-salt, hedged "or found nothing"),
+  timing only, no narration of cause; her afterglow alibi "she had missed kissing him"
+  pairs with the forgot-to-wipe alibi as the chapter's two tidy answers.)*
 - The recoil's mind-over-body inversion (tongue-yes → mind → installed voice → gesture
   → "gross"/"wrong" small) — the book's engine in miniature, rendered per the note's
   critical exception.
