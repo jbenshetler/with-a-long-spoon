@@ -32,7 +32,7 @@ She stopped in the hallway, bare as the day she was born, sugaring with laughter
 
 The coffee was made, still hot in the pot. There was real cream in the fridge, because he was the kind of man who kept real cream in the fridge, and she poured a mug and clouded it pale and then spooned in more sugar than the coffee had any right to take, smiling at the face he pulled every time he watched her do it — pained, long-suffering, entirely for show; it was his sugar bowl, and he kept it full — and drank it at the counter in nothing but her scrunchie, entirely pleased with herself.
 
-Between the pot and the bottom of the mug she made one trip back down the hall, and spread the cream cashmere square and smooth over the foot of the bed, and stood back and looked at her work. A throne room wants preparing. Then she went back to her coffee, entirely composed.
+Between the pot and the bottom of the mug she made one trip back down the hall, and spread the cream cashmere square and smooth over the foot of the bed, and stood back and looked at her work. Then she went back to her coffee, entirely composed.
 
 The truck came up the gravel while the mug was still half full.
 
@@ -56,7 +56,7 @@ He looked at her for a moment longer, and something moved through his face that 
 
 He looked at her a moment. Then he hung the coat on its peg, washed his hands, and took the apron down off its hook and tied it on — the canvas apron, the one whose strap she'd once hooked a finger behind and pulled, the first night he ever cooked for her, and everything that had followed the pulling — and if he noticed where her eyes went, or what her mouth did, he gave no sign. He thumbed the music going from his phone — "Sara," low, Stevie Nicks singing to a kitchen with a naked woman in it — and turned to the counter and went to work.
 
-She took her chair at the little table, coffee in both hands, and watched, because watching him cook was one of the oldest pleasures she had in this house and six weeks had not made it smaller. He tipped the loaf out of the breadmaker, tall and brown and knocking hollow, and set it on the wire rack. She asked why not slice it hot, and he said, "It needs to develop a crust," in the tone he kept for facts, and put it in its patch of morning light like a thing enthroned.
+She took her chair at the little table, coffee in both hands, and watched, because watching him cook was one of the oldest pleasures she had in this house and six weeks had not made it smaller. He tipped the loaf out of the breadmaker, tall and brown and knocking hollow, and set it on the wire rack. She asked why not slice it hot, and he said, "It needs to develop a crust," in the tone he kept for facts, and put it in its patch of morning light.
 
 The blood oranges he did the way he did everything. Top and bottom off in two strokes, the fruit stood flat, and then the chef's knife rode down the curve of it in long paring passes, rind and pith falling away in strips until nothing white was left, only the wet dark flesh shining. Then over a bowl, the blade slid along each membrane and freed the segments whole, one by one, luscious and startling, a red with no argument in it, and the emptied husk of membranes wrung out in his fist at the end like a rag. Nothing between anybody and the fruit. It was, she thought, watching him lay the segments out, the most him thing she had ever seen done to food. The persimmons he simply sliced, thin amber rounds with their dark star at the center, and fanned beside the orange on the plates, and she saw the plating happen, the care of it, breakfast being built in layers like a case being made.
 
@@ -130,7 +130,7 @@ And the hurry died at her skin. He crawled to her and bent over her and put his 
 
 Languid, she pointed at her nipple. It had been ready for some time — long past hard, standing in the cool of the room — and his lips left her armpit and climbed the slope of her breast with a slowness that ought to have been illegal, circling in, ringing her areola around and around until the groan came up out of her chest without asking, and only then did his mouth close warm over her nipple and draw, and her spine answered before she did. *No greater pleasure,* she thought, or something like it; the sentence had lost its verbs. *Anywhere. Ever.*
 
-She pointed at the other breast. Fair was fair; a princess keeps order in her realm. He obeyed to the letter, the same crawl, the same circling, the same slow drawing heat, thorough as an honest tradesman, and she lay under it and reigned, barely.
+She pointed at the other breast. Her other breast had needs. He obeyed to the letter, the same crawl, the same circling, the same slow drawing heat, thorough as an honest tradesman, and she lay under it and reigned, barely.
 
 Then she pointed lower.
 

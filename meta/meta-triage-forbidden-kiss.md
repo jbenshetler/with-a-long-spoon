@@ -33,6 +33,20 @@ Validations and residuals below.*
 
 ## Residuals from the re-run (all singleton or settled — no action)
 
+*Author ruling 2026-08-20: items 1–3 below (sonnet's climax-mechanics note, opus's
+"That's the plan" wink, fable's gladiator blink) are accepted **as long as each stays
+confined to its same model(s)** — if any widens to additional readers on a future
+panel, reconsider. The title-telegraph item is closed as the title working: fable and
+opus explicitly braced for Randi and praised the misdirect, sonnet forgot the title
+until it landed, and sol/terra praised the destination after feeling the wait — the
+Randi-shaped expectation is itself the plant.*
+
+*Also 2026-08-20: royal-register thinned per the coronation-repetition note — "A
+throne room wants preparing" (:35) and "like a thing enthroned" (:59) cut; :133's
+"Fair was fair; a princess keeps order in her realm" recast to "Her other breast had
+needs." The arc rungs (coronation, kingdom-proof, hallway picture, gladiator,
+"reigned, barely" → decay) all stand.*
+
 - Fable still blinks at the gladiator riff ("a shade purple… a small thing") — weaker
   re-raise of the settled royal-conceit item; recast stands.
 - Opus + sol re-raise the coronation-language repetition mildly, both self-waiving —
