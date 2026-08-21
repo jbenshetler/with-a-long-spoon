@@ -2,7 +2,7 @@
 
 # Unpacking
 
-The radiators were back on for the semester and overdoing it, the whole floor smelling of hot dust and somebody's microwave popcorn, and Cassie's window stood open its two inches — defended territory, all winter, every winter — so the thin line of cold off the sill found Vee as she came in from the showers in her robe with her hair up in a towel, and she stood in it a second on purpose, clean and boiled pink. She'd missed it. That was the strange sweetness of the night, that she had missed a draft.
+The radiators were back on for the semester and overdoing it, the whole floor smelling of hot dust and somebody's microwave popcorn, and Cassie's window stood open its two inches — defended territory, all winter, every winter — so the thin line of cold off the sill found Vee as she came in from the suite bathroom in her robe with her hair up in a towel, and she stood in it a second on purpose, clean and boiled pink. She'd missed it. That was the strange sweetness of the night, that she had missed a draft.
 
 Cassie's duffel sat on the lower bunk half-emptied, white athletic socks in one stack and graphic tees in another, the unpacking suspended somewhere in the middle in favor of the desk chair and the book. She'd driven the last leg through the afternoon, she'd said, and been in the room an hour when Vee came home, and now the room had both of them in it again, both lamps going, and it felt like a thing switched back on at the wall.
 
@@ -16,7 +16,7 @@ Cassie set the highlighter down. She turned the chair around, the whole chair, a
 
 "Okay," Cassie said, soft, and waited, which was the question.
 
-"And then I just — stayed. The whole weekend." Vee pulled the towel off and shook her hair down, damp, and hugged her knees up. "He'd set the bread machine going before it was even light. The whole house smelled like a bakery. And he was already gone to the farmers market when I got up — Saturday, the farmers market, in January — and he comes back in with a bag in each arm and stands there in the door and says, 'I got mushrooms.' Like a man reporting from the front."
+"And then I just — stayed. The whole weekend." Vee pulled the towel off and shook her hair down, damp on her shoulders. "He'd set the bread machine going before it was even light. The whole house smelled like a bakery. And he was already gone to the farmers market when I got up — Saturday, the farmers market, in January — and he comes back in with a bag in each arm and stands there in the door and says, 'I got mushrooms.' Like a man reporting from the front."
 
 "Mushrooms."
 
@@ -58,7 +58,7 @@ A silence about the length of a held breath. Then Cassie laughed — put her hea
 
 "Scratched the floors from the door to the kitchen. My sister made him take them off, and he stood there holding them like she'd towed his car." A dry pause. "It was all baby otherwise. The baby is fine. The baby is a baby."
 
-Vee laughed into the collar of her robe. Under the laugh she could feel the weekend still on her like sun she'd been out in, and the room going on around it, ordinary, in no hurry, asking nothing — the stacks of white socks, the ticking heat, the tea rings on the desk that had been there since September. She was reaching for the towel where it had slid when Cassie said, in the same register the snowshoes had gotten, not looking over:
+Vee laughed into the collar of her robe. Under the laugh she could feel the weekend still on her like sun she'd been out in — a house where the water came down like it meant it, where the mornings smelled of bread and she had moved through the rooms like a dream she was having on purpose. The shower she shared with Cassie and the two girls next door had run its polite trickle tonight, three kinds of conditioner crowding the little ledge and Cassie's shampoo-and-conditioner-in-one, a suitemate's towel on the hook and the toilet an arm's reach past the curtain, and she'd stood in it under water that was simply less — less pressure, less private, less hers — and been happy in it anyway, happy the whole time. The room went on around her the same, ordinary, in no hurry, asking nothing — the stacks of white socks, the ticking heat, the old tea rings on the desk. She was reaching for the towel where it had slid when Cassie said, in the same register the snowshoes had gotten, not looking over:
 
 "My mother says thank you for the card."
 
