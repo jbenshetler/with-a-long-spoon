@@ -1,6 +1,6 @@
 # Spring — Plan (Volume Two frame)
 
-*The arc and engine for Volume Two (spring 2027 — the middle act: the apparatus at full extraction, the bloom before the souring). Companion to `meta-plan-chronology.md` (which owns the spring scene order and dates — this frame carries none), `meta-note-taste-thread.md` (the self-taste staircase), `meta-plan-satc-tracks.md` (the Randi track), `meta-note-grace.md` (the pincer), `meta-note-unpacking.md` / `meta-arch-cassie.md` (the Cassie line), and `meta-plan-summer.md` (the act this volume hands off to). The scenes arise in drafting; here is the arc they sit in. Volume title not decided — leading candidate* ***A Place Setting*** *(`meta-blurb.md`).*
+*The arc and engine for Volume Two (spring 2027 — the middle act: the apparatus at full extraction, the bloom before the souring). Companion to `meta-plan-chronology.md` (which owns the spring scene order and dates — this frame carries none), `meta-note-taste-thread.md` (the self-taste staircase), `meta-plan-satc-tracks.md` (the Randi track), `meta-note-grace.md` (the pincer), `meta-note-unpacking.md` / `meta-arch-cassie.md` (the Cassie line), and `meta-plan-summer.md` (the act this volume hands off to). The scenes arise in drafting; here is the arc they sit in. Volume title:* ***A Warm Reception*** *(decided; `meta-blurb.md`).*
 
 ---
 
@@ -9,7 +9,7 @@
 Volume Two is the middle rung of one arc, not a self-contained story:
 
 - **Fall / *A Polite Invitation* — the body.** Vee claims her body, through Pace's acceptance.
-- **Spring / *A Place Setting* — the appetite.** Vee accepts her *wanting* — the taste, and the attraction to women — through Randi's reframe and Pace's engineering. **Feeling, not acting.** The bloom is real, and it is being grown for the cutting.
+- **Spring / *A Warm Reception* — the appetite.** Vee accepts her *wanting* — the taste, and the attraction to women — through Randi's reframe and Pace's engineering. **Feeling, not acting.** The bloom is real, and it is being grown for the cutting.
 - **Summer — the act.** Vee decides to consummate: the Agreement, the threesome, the reveal (`meta-plan-summer.md`).
 
 The load-bearing boundary is **Spring / Summer = attraction / consummation.** Feeling sexually drawn to women (spring) is a different gate from deciding to have a woman (summer). Spring carries Vee all the way to accepting the want without her having chosen the deed — which is why the Agreement belongs at the **top of Volume Three**, not in this curtain.
@@ -91,7 +91,7 @@ All of the above are decisions, and decisions revise; these are the ones activel
 - **The Spring Break beat** — the photo-beside-Pace displaced-sex-with-honesty (working default, as the instigator) vs. a re-triggered {{Boyfriend}}-style edging (may run as a *separate* beat rather than the instigator).
 - **The crisis's jaw configuration** — Vee's displaced jealousy and / or Randi's submerged jealousy (working model: both).
 - **Homes for the un-charted self-taste gates** — *Whiskey and Wine* and *The Almost* need spring placement (owned by the chronology once set); the **wine tasting** (Vee takes Pace, well separated from *Whiskey and Wine*, the taste-rhyme **studiously ignored** by both) needs a slot.
-- **Volume title** — *A Place Setting* leading, not decided (`meta-blurb.md`).
+- **Volume title** — *A Warm Reception* (decided; Vol 3 working *A Hot Meal*, alt *A Proper Serving*) (`meta-blurb.md`).
 
 ## Guards
 

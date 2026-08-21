@@ -252,7 +252,7 @@ The night reunion, on Randi's counsel. She *puts herself together* (long coat, h
 
 **◆ VOLUME TWO — Spring**  ·  *the Middle — the apparatus at full extraction; the bloom before the souring*
 
-## Spring (Book 2 — A Place Setting)
+## Spring (Book 2 — A Warm Reception)
 
 ### [SCENE] Forbidden Kiss
 *Sat Jan 16 · the first full day (Saturday) of the reconciliation weekend · before {{A Clean Plate}} and {{The Reach}}* · Draft complete · `forbidden-kiss.md` · Vee POV · [detail](meta-condensed-forbidden-kiss.md) · [craft](meta-note-forbidden-kiss.md) · slug: forbidden-kiss · present: Vee, Pace
@@ -460,7 +460,7 @@ The bench returns (opening payoff), now under Vee — *used on only two women, R
 
 *Summer 2027. Vee and Randi stay for Dr. Marsh's two-site fieldwork (separate sites, long days, weekends only); Cassie is away on a nursing internship; Vee splits scarce free time between Pace's house and Randi. Weekend-scarcity and isolation are the engine — full frame: [summer plan](meta-plan-summer.md).*
 
-## Summer (Book 3 — Title TBD)
+## Summer (Book 3 — A Hot Meal, working)
 
 ### [SCENE] The Sheer Dress Brunch + The Dressing Room (Format Break)
 *~early June* · Unwritten · FB · [detail](meta-condensed-sheer-dress-brunch.md) · slug: sheer-dress-brunch-the-dressing-room · present: ?
