@@ -80,6 +80,20 @@ def volume_one_slugs(drafted_only: bool = True) -> list[str]:
     return [s["slug"] for s in scenes_for_volume(1, drafted_only=drafted_only)]
 
 
+_SLUG_VOLUME: dict[str, int] | None = None
+
+
+def volume_of(slug: str) -> int:
+    """Volume number (1, 2, ...) for a scene slug, from the chronology."""
+    global _SLUG_VOLUME
+    if _SLUG_VOLUME is None:
+        _SLUG_VOLUME = {s["slug"]: s["volume"] for s in all_scenes()}
+    vol = _SLUG_VOLUME.get(slug)
+    if vol is None:
+        raise KeyError(f"slug {slug!r} not found in chronology; add its entry before writing a review")
+    return vol
+
+
 def _parse_fall_scenes_slugs(path: Path):
     """Textually extract the ordered Volume One slug prefix from
     `cold_read_batch.py`'s `FALL_SCENES` list literal, without importing it

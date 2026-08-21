@@ -65,6 +65,21 @@ def jacket_packet() -> str:
     return m.group(1).strip() if m else ""
 
 
+def volume_packet(volume: int) -> tuple[str, str]:
+    """(opening_slug, packet) for a volume from volume-packets.toml, or ('', '') if
+    that volume has no packet yet (fail closed — no jacket for it). Regex-parsed, so it
+    stays tomllib-free for the bare-python --check / --emit-prompt path. A volume packet
+    is injected EXACTLY ONCE, at its opening_slug chapter (the toml's own contract)."""
+    toml = (REPO / "reviews/cold-read/volume-packets.toml").read_text()
+    sec = re.search(rf'\[volumes\."{volume}"\](.*?)(?=\n\[|\Z)', toml, re.DOTALL)
+    if not sec:
+        return "", ""
+    body = sec.group(1)
+    om = re.search(r"""opening_slug\s*=\s*["']([^"']+)["']""", body)
+    pm = re.search(r"packet\s*=\s*'''(.*?)'''", body, re.DOTALL)
+    return (om.group(1) if om else "", pm.group(1).strip() if pm else "")
+
+
 def display_title(slug: str) -> str:
     first = (REPO / f"scenes/{slug}.md").read_text().splitlines()[0]
     return first[2:].strip() if first.startswith("# ") else slug

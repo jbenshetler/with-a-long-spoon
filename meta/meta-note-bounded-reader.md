@@ -20,8 +20,8 @@ Neither of the two we have does.
   A chain that "doesn't suspect" **because it forgot who the brunette is** is not a
   fooled reader — it's a broken one. So its lull readings are false signal, not a
   soft version of the truth. Disqualifying; retired. (Migration: the live lane is
-  now `reviews/grounded-cold-read/`; the chain is archived under
-  `reviews/_archive/cold-read/`.)
+  `reviews/cold-read/<model>/<slug>.md`; the retired chain is archived under
+  `reviews/cold-read/<model>/chained/`.)
 
 - **Grounded cold read (current, valid, but harsh).** Reconstructs memory from
   ground truth every chapter — a grounded decade checkpoint plus the raw prose
@@ -107,9 +107,15 @@ Likely **not** a new harness. Grounded already supplies the lossless fact base; 
 delta is an **affect-integration protocol** layered onto the grounded reader
 (`.claude/agents/blind-reader-grounded.md` + `tools/cold_read_grounded.py`):
 
-- Feed the jacket once, marked as a decaying prior, with an explicit instruction that
-  its weight declines as chapters accumulate (not re-fed per chapter — that was the
-  chain's error).
+- **The jacket lever has been pulled (author ruling 2026-08-18) — measure it next.**
+  `build_prompt` no longer re-injects the jacket. The volume packet is now supplied
+  **exactly once, at its opening chapter** (`opening_slug` in `volume-packets.toml`),
+  never re-injected whole or thinned, enforced by an `assert_jacket_policy` guardrail
+  that fails any read whose packet carries jacket text off the opening chapter. The
+  **existing on-disk grounded reads predate this** — they were generated under
+  every-chapter injection, so a fresh late-book grounded read is needed to tell whether
+  removing re-injection eases the dark-prior over-weighting. If it does, re-injection
+  was the dominant cause and the belief-dynamics work below may be unnecessary.
 - Carry a small bounded affect state chapter-to-chapter (suspicion / affection /
   open questions), grounded facts still reconstructed fresh each chapter.
 - Instruct recency-weighting explicitly: recent lived chapters outweigh early
