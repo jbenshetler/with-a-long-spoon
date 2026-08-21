@@ -1,6 +1,6 @@
 ---
 description: Grounded cold read — run the full 6-model blind panel on a chapter (or range)
-argument-hint: <scene-slug | N | A..B> [--models <id,...>] [--fresh]
+argument-hint: <scene-slug | volN | N | A..B> [--models <id,...>] [--fresh]
 ---
 
 Run a **grounded cold read**: for each target chapter, each panel model reads
@@ -36,9 +36,11 @@ consume no API tokens.
 
 ## Step 1 — Resolve targets and preconditions
 
-1. Targets: a slug, a chapter number, or `A..B` (numbers or slugs). Resolve
-   slug ↔ number via the harness's reading order (Vol 1 drafted + Vol 2 drafted
-   in chronology order). The chapter's chronology entry must say
+1. Targets: a slug, a chapter number, `A..B` (numbers or slugs), or a whole
+   volume as `vol1`/`vol2`/`vol3` (the harness expands `--scope volN` to that
+   volume's drafted chapters; the jacket still injects only at the volume's
+   opening chapter). Resolve slug ↔ number via the harness's reading order
+   (Vol 1 drafted + Vol 2 drafted in chronology order). The chapter's chronology entry must say
    **`Draft complete`** — the harness fails closed otherwise; fix the status
    only if the chapter truly is drafted end to end.
 2. `tools/cold_read_grounded.py --check --scope <slug>` (or `--from/--to`) —

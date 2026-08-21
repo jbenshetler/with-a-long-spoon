@@ -31,6 +31,7 @@ Usage:
   tools/cold_read_grounded.py --to 50                     # all Vol 1, terra
   tools/cold_read_grounded.py --from 41 --to 50           # chapters 41..50
   tools/cold_read_grounded.py --scope nothing-underneath  # one chapter by slug
+  tools/cold_read_grounded.py --scope vol2                # a whole volume by volN
   tools/cold_read_grounded.py --model gpt-5.6-sol --to 50
   tools/cold_read_grounded.py --emit-prompt 50            # print chapter 50's
       # fully-assembled prompt to stdout (to drive a Claude blind-reader-grounded
@@ -599,6 +600,14 @@ def write_review(model_id: str, n: int, decade: int, reaction: str) -> Path:
 def resolve_range(args) -> list[int]:
     slugs = reader_slugs()
     if args.scope:
+        m = re.fullmatch(r"vol([123])", args.scope.strip().lower())
+        if m:
+            vol = int(m.group(1))
+            idxs = [i + 1 for i, s in enumerate(slugs)
+                    if checkpoint_bundle.volume_scenes.volume_of(s) == vol]
+            if not idxs:
+                raise SystemExit(f"no drafted chapters for vol{vol} in the reader set")
+            return idxs
         if args.scope not in slugs:
             raise SystemExit(f"unknown slug: {args.scope}")
         return [slugs.index(args.scope) + 1]
@@ -646,7 +655,7 @@ def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--model", default="gpt-5.6-terra", help="codex model id")
     ap.add_argument("--model-id", default=None, help="output dir (default: --model)")
-    ap.add_argument("--scope", default=None, help="a single chapter by slug")
+    ap.add_argument("--scope", default=None, help="a single chapter by slug, or a whole volume by 'vol1'/'vol2'/'vol3'")
     ap.add_argument("--from", dest="start", type=int, default=None, help="first chapter (1-based)")
     ap.add_argument("--to", dest="end", type=int, default=None, help="last chapter (1-based)")
     ap.add_argument("--decade", type=int, default=10, help="checkpoint boundary size (default 10)")
