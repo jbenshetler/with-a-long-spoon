@@ -15,7 +15,7 @@
 # refresh this inline copy. Stamp before syncing the text and the packet will
 # serve stale copy while reporting "in sync."
 
-blurb_source_sha256 = "d90b25dd062932a8d5c462c8fbb36ff5415af77a79752b67d4431468147603a0"
+blurb_source_sha256 = "f704f864519b75ff2f5343e88fe4da192bee987f3ebcf9a88801894297de8948"
 
 [volumes."1"]
 opening_slug = "the-bench"
@@ -36,3 +36,23 @@ The jacket / blurb page:
 > Every yes was freely given. That was the problem.
 >
 > *Book One of* With a Long Spoon. *Literary erotica for readers of Anne Rice's* Beauty *trilogy who want it contemporary and psychologically exact — a seduction at full heat and full tenderness, a woman waking to a man and, without quite letting herself know it, wanting the woman beside her, where every open door is a temptation and every step is hers.*'''
+
+[volumes."2"]
+opening_slug = "forbidden-kiss"
+packet = '''On the cover: the series line **WITH A LONG SPOON · BOOK TWO**, the volume title **A WARM RECEPTION**, and the author **Helen Rivers**. (No tagline on the front — it is the blurb page's closing beat.)
+
+The jacket / blurb page:
+
+> Two people set the table for Vivienne "Vee" Thorne's spring. She believes she pulled out the chair herself.
+>
+> She is twenty-one, a college junior, and she came to them already starving — starving since girlhood, long before either of them — and this spring she learns her appetite runs in more directions than one. Its steady center is Pace, a mathematician, courtly and exact, whose unhurried attention has made a home of the hours behind his door. Under it she crosses thresholds the Vee of last autumn would never have dared, one after another, each on her own nerve, until the daring itself becomes the thing she craves — and she is glad of it, every time she reaches for more.
+>
+> The long lunches are dinners now, and Randi is across the table for every one. She listens as no one ever has, leaning close, drawing the next thing and the next out of Vee until she is laughing more than she meant to and coloring at what she cannot explain. What surfaced without a name last fall has one this spring, and she can no longer keep from knowing it: she wants the woman across the table as surely as she wants the man behind the door. That reaching is hers, too.
+>
+> What Vee cannot see is that Randi and Pace chose her together, once, before she was anything to either of them. What none of them counted on was how far it would carry them: she has moved the two who arranged her spring as surely as they have opened her. Nothing is taken from Vee that she does not hand over, gladly.
+>
+> Warmer and more explicit than the book before it, and more tender the harder it looks at her, *A Warm Reception* sets before a young woman the whole of an appetite that was always hers — the man, the woman beside her, one more door raised and not yet opened — and lets the reader, seated at the table since the first course, hunger right alongside her.
+>
+> Vee is a willing player in two games. She doesn't know there are three.
+>
+> *Book Two of* With a Long Spoon. *Literary erotica for readers of Anne Rice's* Beauty *trilogy who want it contemporary and psychologically exact — full heat and full tenderness, a woman coming awake to a man and to the woman beside her, every open door her own to walk through.*'''

@@ -30,6 +30,58 @@ External reader-facing copy for *With a Long Spoon* — marketing and positionin
 
 ---
 
+## Volume 2 blurb (*A Warm Reception* · decided 2026-08-21)
+
+*Accepted 2026-08-21 from a 5→3 generate/critique tournament: the "table conceit" finalist (Pace-first, tightest Vol-1 structural match, cleanest hook mirror), with the author's tagline swapped in. Grade any revision against the **Blurb design goals** and **Craft discipline** below, exactly as for Vol 1. Names follow the Vol 1 Test-epub blurb (**Randi/Vee**) — note the open jacket-name question flagged under Craft discipline (the "formal names on the jacket / Miranda" bullet vs. the decided Vol 1 blurb's Randi). The two runner-up finalists are saved below the accepted copy — distinct angles worth keeping (the f/f-forward lead is the strongest include/warn filter; the second-person version is the biggest reward for Vol 1 finishers).*
+
+> Two people set the table for Vivienne "Vee" Thorne's spring. She believes she pulled out the chair herself.
+>
+> She is twenty-one, a college junior, and she came to them already starving — starving since girlhood, long before either of them — and this spring she learns her appetite runs in more directions than one. Its steady center is Pace, a mathematician, courtly and exact, whose unhurried attention has made a home of the hours behind his door. Under it she crosses thresholds the Vee of last autumn would never have dared, one after another, each on her own nerve, until the daring itself becomes the thing she craves — and she is glad of it, every time she reaches for more.
+>
+> The long lunches are dinners now, and Randi is across the table for every one. She listens as no one ever has, leaning close, drawing the next thing and the next out of Vee until she is laughing more than she meant to and coloring at what she cannot explain. What surfaced without a name last fall has one this spring, and she can no longer keep from knowing it: she wants the woman across the table as surely as she wants the man behind the door. That reaching is hers, too.
+>
+> What Vee cannot see is that Randi and Pace chose her together, once, before she was anything to either of them. What none of them counted on was how far it would carry them: she has moved the two who arranged her spring as surely as they have opened her. Nothing is taken from Vee that she does not hand over, gladly.
+>
+> Warmer and more explicit than the book before it, and more tender the harder it looks at her, *A Warm Reception* sets before a young woman the whole of an appetite that was always hers — the man, the woman beside her, one more door raised and not yet opened — and lets the reader, seated at the table since the first course, hunger right alongside her.
+>
+> Vee is a willing player in two games. She doesn't know there are three.
+>
+> *Book Two of* With a Long Spoon. *Literary erotica for readers of Anne Rice's* Beauty *trilogy who want it contemporary and psychologically exact — full heat and full tenderness, a woman coming awake to a man and to the woman beside her, every open door her own to walk through.*
+
+### Alternate — f/f-forward (Randi-first; strongest include/warn filter, but buries Pace)
+
+> Vivienne "Vee" Thorne is sure she found Randi. Randi found her first — and did not do it alone.
+>
+> Randi listens like a held breath, close enough to feel, and the room falls away around the two of them. Vee came to her already starving — hungry long before she met either of them — and here at last was someone who really listened, as no one in Vee's life ever had; but the lunches became dinners, and the dinners became confession, and somewhere in all that leaning close the thing Vee has never let herself know comes fully awake. She wants the woman across the table — the taste of it and the pull of it — as much as she has ever wanted any man, and this is the season she can no longer keep from knowing it. The reaching is hers. So is the gladness.
+>
+> Pace is the other center, and no less of one. A mathematician, courtly and exact, he holds a door Vee now has half the run of, and under attention that unhurried and that complete she walks past limit after limit the girl of last fall had set for herself — and never just the one, but always the next past it too, because the nerve each step costs has become the thing she wants most. She is glad of every threshold. She goes looking for the one after it. Her hunger, she learns this spring, was never only for men.
+>
+> What Vee cannot see is that Randi and Pace chose her together, before she was anything to either of them, and meant this spring to be theirs to open. What none of them counted on was how far it would carry them: the woman drawing Vee open has been moved as far as the girl she draws out. Nothing is taken from Vee that she does not hand over, gladly.
+>
+> Warmer and more explicit than *A Polite Invitation*, as tender as it is unsparing, *A Warm Reception* follows a young woman coming into the whole of her hunger — the man, the woman beside her, one more door raised and not yet opened — and lets the reader, a step ahead of her since the first book, feel every degree of the heat come up.
+>
+> They welcomed her warmly. A warm reception is also what you call walking into fire.
+>
+> *Book Two of* With a Long Spoon. *Literary erotica for readers of Anne Rice's* Beauty *trilogy who want it contemporary and psychologically exact — full heat and full tenderness, a woman waking to a man and, at last and openly, to the woman beside her, every step of it her own.*
+
+### Alternate — complicity / second person (maximum reward for Vol 1 finishers)
+
+> Two people arranged the best spring of Vivienne "Vee" Thorne's life. She thinks they stumbled into it too.
+>
+> Vee is twenty-one and starving still — carrying the hunger since girlhood — though no one looking would guess it. At the center of her spring is Pace — a mathematician, courtly and exact — whose patience is a room she keeps returning to, until she has half moved in. Under it she does things the girl of last autumn would have colored to imagine, and then the next, and the next, reaching each time for the further dare because the daring has become the taste she can no longer do without. Every step is hers. She takes them faster than anyone ever taught her to.
+>
+> Then there is Randi, across a table that used to hold lunch and holds dinner now. She listens as no one in Vee's life ever has, leaning in, drawing out the next confession and the one beneath it, until Vee is laughing past her own guard and warm in the face at what she cannot account for. What rose in her without a name last fall has one now, and she has stopped being able to unknow it: she wants the woman across the table as plainly as she wants the man behind the door. The reaching toward her is Vee's own.
+>
+> What Vee cannot see is that Randi and Pace chose her together, once, before she was anything to either of them, and meant this spring to be theirs to open. What none of them saw coming was how far it would carry them: the two who moved her have moved every bit as far. Nothing is taken from Vee that she does not hand over, gladly.
+>
+> Warmer and more explicit than *A Polite Invitation*, and gentler exactly where it presses hardest, *A Warm Reception* keeps you a step ahead of Vee the whole way — complicit in every door she opens, the heat climbing, one more door raised and not yet opened — until you understand you are not watching her fall for it so much as falling a second time yourself, eyes wide open.
+>
+> You had the warmest of welcomes too. You are still inside it.
+>
+> *Book Two of* With a Long Spoon. *Literary erotica for readers of Anne Rice's* Beauty *trilogy who want it contemporary and psychologically exact — full heat and full tenderness, dramatic irony with a dark undertow, a woman waking to a man and to the woman beside her, every step of it her own.*
+
+---
+
 ## Blurb design goals — the yardstick (change only intentionally)
 
 *What the current Test-epub blurb (above) is built to do, recorded 2026-08-09 so any future change is a deliberate decision, not drift. Grade a revision against these before shipping it.*
