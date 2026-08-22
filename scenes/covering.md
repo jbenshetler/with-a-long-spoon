@@ -90,9 +90,13 @@ Randi looked at her for a second. Then she laughed — one note lower than her u
 
 Vee's hand had come up over her mouth. "No."
 
-"The maid did the beds every second day," Randi said. "Except she didn't, that day, because it was her short day, which I'd have known if I'd ever once looked at the little schedule on the refrigerator. So they were in there. In the good bed. My parents' bed. For my parents." She said it lightly, brightly, and drank, and the shape of the story stood there for a second, ready to be laughed at.
+"The maid did the beds every second day," Randi said. "Except she didn't, that day, because it was her short day, which I'd have known if I'd ever once looked at the little schedule on the refrigerator. So they were in there. In the good bed. My parents' bed." She said it lightly, brightly, and drank, and the shape of the story stood there for a second, ready to be laughed at.
 
-And Vee was already wincing for her, half laughing, and what came out of her was not *did they find them* — she was aghast past that, aghast on her behalf, the parents, the bed —
+Vee was wincing for her, half laughing, both hands still around her glass. "Did they find them?"
+
+"They found them."
+
+Two words, still bright — but the fun had gone out of the brightness somewhere, and Vee heard it go. She wasn't laughing anymore; she was aghast, aghast on her behalf, the parents, the bed —
 
 "How did they *tell* you they'd found them?"
 
