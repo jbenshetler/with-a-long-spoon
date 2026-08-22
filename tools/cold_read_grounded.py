@@ -45,6 +45,7 @@ than mint implicitly — the two are different jobs on different budgets.
 from __future__ import annotations
 
 import argparse
+import os
 import re
 import sys
 import time
@@ -152,7 +153,14 @@ def build_prompt(model_id: str, n: int, decade: int) -> str:
     checkpoint = load_checkpoint(model_id, b)
     window = build_window(b + 1, n - 1)
 
-    parts = [f"TITLE:\n{title}\n"]
+    parts = []
+    card = volume_title_card(checkpoint_bundle.volume_scenes.volume_of(slug))
+    if card:
+        # Title card (author ruling 2026-08-22): the reader always knows which book is
+        # in their hands — series + volume title, cover-board fact, NOT jacket copy.
+        # The blurb itself still injects exactly once, at the volume's opening chapter.
+        parts.append(f"THE BOOK IN YOUR HANDS (cover board): {card}\n")
+    parts.append(f"TITLE:\n{title}\n")
     # Jacket policy (author ruling 2026-08-18): the volume packet is injected ONLY at
     # its opening chapter — never re-injected, whole or thinned, on later chapters.
     # Re-injecting it every chapter kept the dark "game" framing at full weight and
@@ -193,6 +201,26 @@ def build_prompt(model_id: str, n: int, decade: int) -> str:
     prompt = "\n".join(parts)
     assert_jacket_policy(slug, is_volume_entry, prompt)
     return prompt
+
+
+def volume_title_card(volume: int) -> str:
+    """Series + volume title for the packet header, parsed from the volume packet's own
+    cover line so it can never drift from the toml. Empty when the volume has no packet
+    or the cover line doesn't match the house format. Guarded: the card must never
+    contain jacket copy (any probe line of any volume) — the blurb injects exactly
+    once, at the opening chapter, and the card is cover-board fact only."""
+    _, packet = checkpoint_bundle.volume_packet(volume)
+    if not packet:
+        return ""
+    m = re.search(r"the series line \*\*(.+?)\*\*, the volume title \*\*(.+?)\*\*", packet)
+    if not m:
+        return ""
+    card = f"{m.group(1)} — {m.group(2)}"
+    for vol in (1, 2, 3):
+        _, pk = checkpoint_bundle.volume_packet(vol)
+        if pk and any(pr in card for pr in _jacket_probes(pk)):
+            raise SystemExit("[jacket guardrail] title card contains jacket copy — refusing")
+    return card
 
 
 def _jacket_probes(packet: str) -> list[str]:
@@ -597,6 +625,36 @@ def write_review(model_id: str, n: int, decade: int, reaction: str) -> Path:
     return out
 
 
+def run_claude_headless(model: str, model_id: str, n: int, decade: int,
+                        system_prompt: str) -> Path:
+    """Clean-lane Claude read via headless `claude -p` (author ruling 2026-08-22):
+    subscription OAuth (never an API key — ANTHROPIC_API_KEY is scrubbed so billing
+    can't silently switch to pay-per-token), agent def as the ENTIRE system prompt
+    (--exclude-dynamic-system-prompt-sections), run from a throwaway non-repo cwd so
+    no project CLAUDE.md/AGENTS.md, git snapshot, or memory index can leak into the
+    reader. Mirrors the codex lane: packet on stdin, reaction on stdout, harness
+    writes the review file."""
+    import subprocess as sp
+    import tempfile
+    prompt = build_prompt(model_id, n, decade)
+    env = dict(os.environ)
+    env.pop("ANTHROPIC_API_KEY", None)  # subscription auth only, per the token rule
+    with tempfile.TemporaryDirectory(prefix="coldread-") as td:
+        spf = Path(td) / "system-prompt.md"
+        spf.write_text(system_prompt, encoding="utf-8")
+        cmd = ["claude", "-p", "--model", model,
+               "--system-prompt-file", str(spf),
+               "--exclude-dynamic-system-prompt-sections"]
+        r = sp.run(cmd, input=prompt, capture_output=True, text=True,
+                   env=env, cwd=td, timeout=2400)
+    if r.returncode != 0:
+        raise RuntimeError(f"claude -p failed for ch{n}: {r.stderr.strip()[-600:]}")
+    reaction = strip_leading_heading(r.stdout)
+    if len(reaction) < 200:
+        raise RuntimeError(f"suspiciously short reaction for ch{n} ({len(reaction)} chars)")
+    return write_review(model_id, n, decade, reaction)
+
+
 def resolve_range(args) -> list[int]:
     slugs = reader_slugs()
     if args.scope:
@@ -788,6 +846,28 @@ def main() -> None:
     if not todo:
         print("nothing to do (all requested chapters already read; use --fresh to regenerate)",
               file=sys.stderr)
+        return
+
+    if args.model.startswith("claude-"):
+        # Headless clean lane for the Claude trio (author ruling 2026-08-22).
+        from concurrent.futures import ThreadPoolExecutor, as_completed
+        system_prompt = load_agent_prompt(AGENT_DEF)
+        jobs = max(1, min(args.jobs, len(todo)))
+        print(f"[wave2/claude-headless] {len(todo)} reads · jobs={jobs}", file=sys.stderr)
+        failures = []
+        with ThreadPoolExecutor(max_workers=jobs) as ex:
+            futs = {ex.submit(run_claude_headless, args.model, model_id, n,
+                              args.decade, system_prompt): n for n in todo}
+            for fut in as_completed(futs):
+                n = futs[fut]
+                try:
+                    path = fut.result()
+                    print(f"[done] ch{n:03d} → {path.relative_to(REPO)}", file=sys.stderr)
+                except Exception as e:
+                    failures.append(n)
+                    print(f"[FAIL] ch{n:03d}: {e}", file=sys.stderr)
+        if failures:
+            raise SystemExit(f"{len(failures)} headless read(s) failed: {failures}")
         return
 
     import cold_read  # noqa: E402  (make_codex_agent_fn — imports tomllib, py3.11+)

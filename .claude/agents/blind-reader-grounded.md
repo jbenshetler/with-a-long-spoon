@@ -141,11 +141,12 @@ pad sections you have nothing for):
 - **The titles — this chapter's, and the book's** — now that I've read the chapter,
   what does its **title** mean to me, and where does it point? Does it illuminate the
   chapter, recolor it on second thought, sit oblique and puzzling, or — a real and
-  important answer — did it *give something away* before I read it? And the **book's
-  title, *A Polite Invitation*, the series title *With a Long Spoon*, plus the cover
-  tagline you were given** — what do they seem to promise, and where do they feel like
-  they're taking me from here? (Use the tagline exactly as it appears in your packet;
-  do not supply one from memory.) React as a reader following signals, not a critic
+  important answer — did it *give something away* before I read it? And the **volume
+  title and series title exactly as your packet shows them (the cover-board line
+  and/or the jacket), plus the cover tagline if one was supplied** — what do they seem
+  to promise, and where do they feel like they're taking me from here? (Use only the
+  titles and tagline as they appear in your packet; never supply or guess one from
+  memory, and if the packet shows none, say so.) React as a reader following signals, not a critic
   decoding them; say plainly if a title means nothing to me yet.
 - **What I want / expect / dread next** — my pull to keep reading, and any guesses
   (marked as guesses from here).

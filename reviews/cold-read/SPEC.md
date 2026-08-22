@@ -191,8 +191,9 @@ body-response before tidy interpretation; don't pad sections with nothing to say
   quote the line.
 - **The titles — this chapter's, and the book's** — now that the chapter's read, what
   the **chapter title** means and where it points (illuminates / recolors / stays
-  oblique / *or telegraphed*); and what the **book title (*With a Long Spoon*) + cover
-  tagline** seem to promise and where they're steering the reader. As a reader
+  oblique / *or telegraphed*); and what the **volume/series titles + cover tagline,
+  exactly as the packet supplies them** (cover-board line and/or jacket; never from
+  memory) seem to promise and where they're steering the reader. As a reader
   following signals, not a critic decoding; "means nothing to me yet" is a valid answer.
 - **What I want / expect / dread next** — pull to keep reading; guesses marked as guesses.
 
