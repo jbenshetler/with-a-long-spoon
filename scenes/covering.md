@@ -38,7 +38,7 @@ Vee laughed, delighted, turning.
 
 Randi was in oatmeal cashmere worn open over cream lace, her everyday studs, the green and gold riding above it all in her black hair, and it took no thought at all to see that everything on her was quietly, seriously good, the same as ever — new, maybe, some of it, from wherever her break had been, and none of it asking to be noticed. Randi ordered a bottle of red for the table — the conversation would need it, she said — without looking at the price. The wine came, and the glasses were filled, and Randi folded her arms on the table and leaned in with the look of a woman owed a story.
 
-"The text was not nearly enough," she said. "Start at the door."
+"The text only whet my appetite," she said. "Tell me about your triumph."
 
 So Vee started at the door. The county road and the dark, the porch light. His face when he opened it — she did his voice, the *"It's late. Is everything alright,"* the courtesy over him like a wall — and Randi nodded once, slow, because the wall was in the plan; they had talked about the wall. And then the buttons. Her own cold fingers on them, top to bottom, no words anywhere in her, and the coat opened into the January air.
 
