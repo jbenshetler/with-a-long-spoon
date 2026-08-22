@@ -20,9 +20,9 @@ for a new review; the chained archive lives frozen under
 
 | Model id | Lane | How |
 |---|---|---|
-| `claude-fable-5` | subagent | `blind-reader-grounded`, `model: fable` |
-| `claude-opus-4-8` | subagent | `blind-reader-grounded`, `model: opus` |
-| `claude-sonnet-5` | subagent | `blind-reader-grounded`, `model: sonnet` |
+| `claude-fable-5` | headless | `cold_read_grounded.py --model claude-fable-5` |
+| `claude-opus-4-8` | headless | `cold_read_grounded.py --model claude-opus-4-8` |
+| `claude-sonnet-5` | headless | `cold_read_grounded.py --model claude-sonnet-5` |
 | `gpt-5.6-terra` | codex | `cold_read_grounded.py --model gpt-5.6-terra` |
 | `gpt-5.6-sol` | codex | `cold_read_grounded.py --model gpt-5.6-sol` |
 | `gpt-5.5` | codex | `cold_read_grounded.py --model gpt-5.5` |
@@ -31,8 +31,9 @@ A run with no `--models` is the **full panel**. `--models terra,sonnet` (any
 comma list of ids or shorthands) scopes it; the **fast probe** is
 `terra,sonnet`. **Token rule (standing):** never `--auth api-key` without
 specific author authorization — the codex trio runs on **codex subscription
-auth** (the harness default), and the Claude trio runs as **subagents**, which
-consume no API tokens.
+auth** (the harness default), and the Claude trio runs headless on **Claude
+subscription OAuth** (the harness scrubs `ANTHROPIC_API_KEY`, so pay-per-token
+billing is impossible by construction).
 
 ## Step 1 — Resolve targets and preconditions
 
@@ -70,32 +71,31 @@ The harness assembles the prompt, runs the reader at **low effort** (high
 turns a reader into a critic), and writes
 `reviews/cold-read/<model-id>/<slug>.md` itself.
 
-## Step 3 — Claude trio (fable, opus, sonnet): packet-MCP subagents
+## Step 3 — Claude trio (fable, opus, sonnet): headless clean lane
 
-The Claude readers are **`blind-reader-grounded` subagents** blinded through
-the packet MCP server — never paste prose into their prompts and never hand
-them repo paths.
+**(Author ruling 2026-08-22, superseding the packet-MCP subagent lane.)** The
+Claude readers run exactly like the codex trio — background harness
+invocations, one per model:
 
-For each (model × chapter):
+```
+tools/cold_read_grounded.py --model claude-fable-5   --scope <slug> [--fresh]
+tools/cold_read_grounded.py --model claude-opus-4-8  --scope <slug> [--fresh]
+tools/cold_read_grounded.py --model claude-sonnet-5  --scope <slug> [--fresh]
+```
 
-1. `tools/cold_read_grounded.py --model-id <model-id> --emit-packet <N>` —
-   mints a token dir under `reviews/cold-read/.packets/` holding the packet
-   files + a `.dest` routing the output to
-   `reviews/cold-read/<model-id>/<slug>.md`. **One packet per model per
-   chapter** (the `.dest` differs).
-2. Spawn a `blind-reader-grounded` subagent with `model:` fable/opus/sonnet,
-   passing ONLY the packet id. It reads via `list_packet`/`read_packet` and
-   persists its reaction via `write_output`. All (model × chapter) subagents
-   can go in one message — the reads are independent.
-3. Verify the output file landed. If a subagent returned its reaction as text
-   instead of calling `write_output`, salvage it:
-   `tools/cold_read_grounded.py --persist-output <PACKET_ID>` with the text on
-   stdin. Never retype/paraphrase a reaction by hand.
+The harness spawns `claude -p` on subscription OAuth with the
+`blind-reader-grounded` agent def as the **entire** system prompt
+(`--exclude-dynamic-system-prompt-sections`), from a throwaway non-repo cwd,
+env scrubbed of `ANTHROPIC_API_KEY` — so no `CLAUDE.md`/`AGENTS.md`, git
+commit snapshot, or memory index can reach the reader (all three were
+probe-confirmed leaks in the in-session subagent lane, 2026-08-22). The
+harness writes `reviews/cold-read/<model-id>/<slug>.md` itself.
 
-**Blindness invariants:** the subagent prompt contains no slug, no chapter
-number beyond what the packet shows, no planning material, no framing about
-what the scene "does." `CLAUDE.md` is inherited by subagents — spoiler-grade
-material must stay out of it (it lives in `meta/meta-orientation.md`).
+**Never spawn in-session `blind-reader-grounded` subagents for panel reads** —
+they inherit ambient session context. The packet-MCP path (`--emit-packet` +
+subagent, salvage via `--persist-output`) remains only as a documented
+fallback if the headless lane is unavailable, and its reads should be treated
+as potentially contaminated.
 
 ## Step 4 — Verify and report
 

@@ -35,6 +35,7 @@ A little Italian place **just off campus**, making the most of its space: **base
 9. **The goodnight (the neck beat).** The goodbye kiss lands exactly as always — then, still hugging, Randi giggles. *"What?"* *"When you came to my room after Christmas, you made my neck wet — here"* — pointing awkwardly inside the hug. Vee — full of gratitude for the help that got Pace back, the charged telling, Randi's soul-baring, a glass of wine or two — *"I'm sorry for making a mess,"* and a light kiss where Randi points, without thinking. **Randi flinches** (the control-slip, first instance; the hard guard in the chronology entry — Vee must not file it — stands). This opens the new goodbye rung (see Rung clarification above).
 10. On the way home, the guilt seed: she notices the clock gave her an out — and that she was relieved to take it. Her mind stays on the untold half; the flinch belongs to the reader alone.
 
+- **They split the check — Randi does not pay (author ruling 2026-08-22).** Randi-paying-for-Vee is held for a later scene where Randi buys Vee a sheer designer dress; paying here would discharge it.
 - **No callback to the lecture at the table.** The hau resonances (the coat; the laundered panties coming home) are never drawn; the reader's memory does the work.
 
 ## Open (still workshopping)
