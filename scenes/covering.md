@@ -144,7 +144,57 @@ Randi sat up. "You *didn't* wear your man's clothes all weekend."
 
 "Oh, *now*." Randi leaned in, and her eyes had their wickedness back. "You gave me the after-school-special version. Back up and tell me what really happened. And don't start at his door. That's not where a night like that starts."
 
-So Vee told her Saturday. And it was easy to tell, was the strange thing, easier than it had any business being — the empty bed and the house full of the smell of bread, the sweats folded at the foot of the bed that she had looked at and left there. Padding down his hallway with nothing on and her chin up, and the thought that had carried her the first few steps — *a woman kept naked in a man's house, his for the taking, a pleasure slave* — and then the arithmetic that had turned it inside out somewhere between the bathroom and the kitchen, and she counted it for Randi on her fingers exactly as she'd counted it for herself: he brings her off first, always; he rises in the dark to set bread going; he cooks, he cleans, he was out in the January cold that very minute buying food to feed her.
+So Vee went back — all the way back, to her dorm room at seven o'clock — and told it the way it had actually gone.
+
+"I had the underwear drawer open," she said. "And a hand on the black everyday bra, and I caught myself — no. Pace deserves the pretty one. So I picked up the good lace instead. And then I stood there holding it and started laughing, because he wasn't getting that one either. He wasn't getting any of them." She turned her glass by the stem. "I put it back and I shut the drawer on all of it. Every neat little row of everything that wasn't invited."
+
+"Oh, I *like* you," Randi said.
+
+"And that was getting dressed. I was done before I'd started. So I sat down on the bed to do the shoes, and I thought — a girl puts her shoes on last. Always. Last thing, at the door, keys in your hand. And there I am, zipping them on first." She held up one finger. "First. And only."
+
+"Which shoes."
+
+"Your shoes."
+
+Randi put both hands flat on the table, quietly triumphant, and said nothing at all.
+
+"And then the coat over — nothing. Buttoned to the collar. Decent to the knee. It's the coat I wear to church, Randi. I've worn it to meet my mother."
+
+"Stop, I'm dying. The drive."
+
+"Forty minutes of county road, in the dark, in January, in a coat and two shoes." Vee looked at her wine and then did not drink any. "And I was — very ready to see Pace."
+
+Randi went still. Not the brightness going out of her — the other stillness, the listening one.
+
+"There's a mark on the lining," Vee said. "That nobody will ever be able to explain to a soul." And then, because saying it was doing something to her and she wanted it done: "It's hanging behind you. I hung it lining-in."
+
+Randi didn't turn around. "And you told me anyway," she said, low.
+
+"And somewhere past the last of the lights," Vee said, "there were lights. Behind me. Blue and red — the whole ceiling of the car going blue and red — and one whoop of the siren."
+
+"*No.*"
+
+"And every thought in my head was one word. Caught. Nothing under the coat, forty minutes of — very ready — all over me, and a man with a flashlight about to want my license and registration."
+
+"*God.*" Randi had Vee's wrist across the table without seeming to have reached for it. "What did he—"
+
+"He went past. He was never for me. Over a rise and gone." She let a breath out, the same one she'd let out on the gravel that night. "I pulled over anyway. Sat there shaking with both hands on the wheel. And the scare didn't take one thing off it. It wound it tighter."
+
+Randi said nothing for a moment. Then she tipped her glass an inch toward her. "And then his door."
+
+"Then his door. The porch light was off. Nobody was expecting me. There was music going somewhere back in the house — low, this slow sad horn — and for one second I thought *someone's there*, and then I knew better. That's just what the house sounds like when I'm not in it."
+
+"And he gave you the polite voice."
+
+"That part was true. *'It's late. Is everything alright?'* And I didn't answer him. I took the two edges of the coat—" her hands did it in the air, small, "—and I opened it. January, on his porch. All of me."
+
+"And the wall came down."
+
+"You could watch it go." Vee's chin was up; under the table her knees had pressed themselves together. "He looked at me like a starving man who'd just been told he's forgiven. And then we didn't make it inside for a while. And when we did—" she picked up the wine now and had some, "—we didn't make it past the couch."
+
+Randi topped up both glasses, unhurried, like a woman banking a fire. "Now the morning," she said. "You woke up where?"
+
+"Alone." So Vee told her Saturday. And it was easy to tell, was the strange thing, easier than it had any business being — the empty bed and the house full of the smell of bread, the sweats folded at the foot of the bed that she had looked at and left there. Padding down his hallway with nothing on and her chin up, and the thought that had carried her the first few steps — *a woman kept naked in a man's house, his for the taking, a pleasure slave* — and then the arithmetic that had turned it inside out somewhere between the bathroom and the kitchen, and she counted it for Randi on her fingers exactly as she'd counted it for herself: he brings her off first, always; he rises in the dark to set bread going; he cooks, he cleans, he was out in the January cold that very minute buying food to feed her.
 
 "So I stopped, in the hallway. Bare as the day I was born. And I thought: some slave. If anybody in that house is a pleasure slave, it is not me. I'm—" and she gave the little shimmy, right there in the booth, and it did what it had done in the hallway, and Randi barked a laugh, "—a pleasure *princess.* Not a woman kept for a man's pleasure. A woman a man keeps *in* pleasure."
 
