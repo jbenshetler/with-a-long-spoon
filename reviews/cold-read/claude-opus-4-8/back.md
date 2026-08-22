@@ -1,0 +1,45 @@
+# Cold read (grounded) — Back
+
+*scene: scenes/back.md · model: claude-opus-4-8 · memory: ck-ch050 + raw ch051..ch051 · reader-protocol: v3-grounded-checkpoint*
+
+## Reader reaction
+
+FELT READ
+
+This is a quiet chapter and it worked on me anyway — but sideways, in a way that left me more uneasy than warmed, and I want to be honest that the unease is mostly mine, carried in from everything I know that Vee doesn't.
+
+On its own terms it's lovely. Vee naked on the lacquered chair with the last of her wine, talking at his back while he washes up — I love that she's stopped pretending she minds being pointed at the little table, love "His back was a good listener." And then the turn: he wants to meet her people. And the thing the chapter does, patiently, is prove he has been listening all fall — not the resting-face kind, the real kind. Meg's boots a half size big, her heel coming up when she pushed off. Kayla who could "talk the wall's paint into telling her things," handed back in his flat certain voice. That undid me a little on Vee's behalf: "He had been listening. Not the polite kind... All of it. He'd kept it." After the December fracture — after "Words are cheap, believe what I do" — this is him doing exactly that, showing the receipts of attention instead of saying the word. And it explicitly answers the Chili's-nachos wound: the picture that surfaces, him squaring his fork to the table edge, *I listen as hard as I know how and I still can't hear you.* He heard everything. That's a real, earned tenderness and I felt it.
+
+But here's where I couldn't stay swept up. The first name that arrives is Randi. "You could meet Randi. Properly." And I know — have known since page one — that Pace does not need to meet Randi. He's known her body and her armor and her real face for longer than Vee's been alive to him. So when Vee glows gold at the idea of her two favorite people finally finding out about each other at one small table, I went cold. There is a version of this dinner that is Pace and Randi performing strangers across their own trap, in front of the girl they both love and both engineered. The chapter doesn't touch that. It lets Vee build her happy roster while the floor is out from under it. That's the dramatic irony running so hard it's almost unbearable, and it's the source of every bit of my dread here.
+
+And there's a second reading I can't shake, quieter and worse: what if "I want to meet your people" isn't only sweet? It's the man who runs things asking to be brought into her whole world — Cassie (the one wary of Randi), Meg, Kayla, Theo. "Bring Theo," at the mention of a boy who once asked her out — no jealousy, no question, just absorbing him too. On the surface that's security, generosity, a man with nothing to prove. Under it, with the game in mind, it read to me like the circle widening to include everyone, all her worlds pulled into one room he picks. "Let me handle it." I don't think the page fully earned alarm — Pace has been nothing but careful — but the phrase "Let me handle it," last line, sat on me. He handles things. That's the whole worry about him in four words.
+
+The Cassie beat is the one honest snag in Vee herself, and it's beautifully done. She can't find the restaurant to put the dinner in — can't picture Randi's hands on a menu at Cassie's kind of place, can't build a table one of her people has to be "a good sport" at. "She'd watched somebody be fine about it before. She wasn't going to look at when." That's the shame-machine and the class wound and her own buried knowledge all at once, and the refusal to look — *she wasn't going to look at when* — is exactly the interior evasion I read this book for. She's protecting herself from a memory (herself, being fine about it, on the outside of Randi's world). Pace's solution — no dinner, no table, tables have ends, somebody ends up at one — is genuinely wise and genuinely kind, and also, God help me, it's a man dissolving the very structure that would seat his two women at opposite ends where the truth might show. I don't think Vee could survive a formal dinner with Randi and Pace both acting; his instinct to make it a loose crowd is either pure grace or pure stagecraft, and the chapter leaves it exactly that ajar. I'm leaving it ajar.
+
+Trust vs. suspicion: no new tell was planted here, honestly. Pace does nothing off. My suspicion is entirely structural — it's the situation, not a crack in his surface. If anything he's more sympathetic here than he's been in chapters, because he's finally *doing* the thing she needed. That's what makes it eerie: the more perfectly he loves her, the more I remember it started as a game the trappers fell into.
+
+Erotic charge: near zero, and rightly — this is afterglow-adjacent domestic warmth, the naked-on-the-chair detail more tender than hot. The heat lives entirely in the previous chapter (which, my God — "Forbidden Kiss" was a peak, that whole descent by pointing finger, and the taste of Randi carried up into the kiss that Vee's tongue went hunting for and her installed voice shut down). "Back" is the cool-down, and it's doing plot and character, not heat.
+
+The title. "Back" — I turned it over several ways. Back as in his back, the good listener she talks at all evening. Back as in Pace's refusal elsewhere, "I don't go back" (his parents) — and here he's the opposite, wanting *forward*, into her world. Back as in her coming back to him after December, this whole reconciled ordinary. And, coldest: bringing everyone *back* to one room — the circle closing. It sits oblique and a little sinister to me after the fact; the innocent surface is "his back / she's back," the charge underneath is that everything is being gathered, brought back in. It didn't give anything away, but it recolored on the second thought.
+
+Book title / series: *A Polite Invitation* — this chapter is practically the invitation being drafted, Vee assembling the guest list to her own life, not knowing the invitation to *her* was issued long ago. "With a long spoon" — sup with the devil, use a long spoon. That proverb keeps its cold hand on this exact scene: she is supping, delighted, with no spoon at all, no distance, everything absorbed. That's the promise I feel it keeping me toward — the reckoning where she finds out the length of the spoon she never held.
+
+What I want / dread next: the Tuesday hook from last chapter is still live — she's going to tell Randi everything (nearly everything) about the coat, and now also, presumably, that Pace wants to meet her "properly." *Guess from here:* Randi hearing that Pace wants to be introduced to her, across a little table, is going to be its own quiet horror — she'll have to perform being a stranger to the plan she built. I dread the dinner/gathering itself, and I dread the small thing Vee's tongue went hunting for last chapter meeting the person it was hunting for. I want to keep reading badly.
+
+STRUCTURED BLOCK
+
+**Cast present (in person):** Vee, Pace. Mentioned only: Randi, Cassie, Meg, Meg's Danny, Kayla, Theo.
+
+**Heat:** 0 — naked at the table but this is tender domestic aftermath; the charge is all in the prior chapter, not here.
+
+**Romance:** 3 — the wound from December answered by proof of deep listening, and him wanting into her whole world; a real turn in the bond, whatever lies under it.
+
+**Motifs & images:** the little table / sitting people down to eat (recurs, his grammar of care); Vee naked and at home in his house (repeat from Forbidden Kiss); the too-warm kitchen and the sink he washes at with sleeves rolled (repeat); the Chili's/game-on-the-walls nachos picture, "I still can't hear you" (direct callback to the ch 43 fracture — now inverted); "Let me handle it" (first sighting as a phrase, but rhymes with his whole handling); the flannel/boots trail detail (Meg's boots, ch 11 hike).
+
+**Symbolism:** "Tables have ends. Somebody ends up at one." — reads as more than seating: hierarchy, exclusion, someone left outside, the very thing Vee can't do to her people; also, slyly, a table where two people can't sit opposite without the truth showing. The unbuildable dinner = her worlds that can't yet occupy one room without someone performing.
+
+**Characterization:** Vee deepened — the "wasn't going to look at when" evasion and the Cassie-loyalty snag are her at her most real, generous and self-protecting at once. Pace deepened as the near-perfect listener, which paradoxically sharpens the dread; he's consistent to the millimeter, and the consistency is the unease.
+
+**Pace — within the chapter:** right length, unhurried, earns its quiet; the roster building slightly luxuriates but that's the point — it's her happiness we're watching accumulate before the drop.
+
+**Pace — chapter to chapter:** a deliberate, welcome exhale after the three-times-over heat of Forbidden Kiss; momentum holds rather than builds, but it plants a live wire (the gathering, the Randi introduction) that pulls hard forward. Not too much of the same beat — it's a tonal turn, cooler and more foreboding.
