@@ -54,7 +54,7 @@ Randi reached over and laid her hand flat on Vee — high on her chest, that mid
 
 "This did it," she said, warm as a verdict — and on the way back her fingers set the crossing edge of the wrap a quarter-inch truer, and were gone.
 
-The talking went easy after that, the way it went when the two of them had a table and nowhere to be — although tonight there was somewhere they had already been, which was new, and twice a week now there would be this, class letting them out into the cold at 8:20 with the evening legitimate and paid for. Vee didn't linger on the fight or the month of silence; Randi had had all five weeks of that already, had held her through the worst hour of it, and there was no bringing that to this table. What she wanted to give her was midnight.
+Vee didn't linger on the fight or the month of silence — Randi had had all five weeks of that already, had held her through the worst hour of it, and there was no bringing that to this table. What she wanted to give her was midnight.
 
 "And at midnight he made me pancakes. From scratch — flour and the whisk, butter going glassy on top of the stack, tea he'd made me without my asking. At midnight." She was two sips into the second glass and the kitchen was arriving whole. "And I sat there and ate them wearing—" she lifted one hand and turned it over, showing the nothing in it, "—the blanket. And the heels. He said the heels stayed on."
 
@@ -65,6 +65,8 @@ Saying it lit her face from underneath; she felt the heat arrive and kept going 
 "On his knee," she said. "On the floor."
 
 "On the floor."
+
+The talking went easy after that, the way it went when the two of them had a table and nowhere to be — and twice a week now there would be this, class letting them out into the cold at 8:20 with the evening legitimate and paid for.
 
 "You're going to be insufferable all spring." It came out fond, entirely fond, and she set the glass down and topped up Vee's without asking. "Well. Since we're doing kitchens and underwear." She settled back into the corner of the booth with her wine, and the story arrived the way Randi's stories did, already in motion. "Did I ever tell you I got caught? Properly caught. The full catastrophe."
 
