@@ -28,7 +28,7 @@ The restaurant was new that fall — modern Italian, three blocks off campus, st
 
 "Up," Randi said to the girl at the front, and they went up, and got the corner booth in the loft with the whole warm room below them.
 
-They shed their coats. Vee hung hers on the hook at the end of the booth and turned it lining-to-the-wall as she did — there was a dark bloom on the pale satin, Friday's — the good olive coat, buttoned all the way down tonight, over the cream wrap. The wrap crossed low, the neckline went further south than any note-taking required, and the loose knot at her hip was the only thing on her tonight doing any controlling.
+They shed their coats. Vee hung hers on the hook at the end of the booth and turned it, carefully, lining-to-the-wall as she did — the good olive coat, buttoned all the way down tonight, over the cream wrap. The wrap crossed low, the neckline went further south than any note-taking required, and the loose knot at her hip was the only thing on her tonight doing any controlling.
 
 Randi took one look and put her hand to her heart.
 
@@ -142,15 +142,15 @@ Randi sat up. "You *didn't* wear your man's clothes all weekend."
 
 "Not a stitch."
 
-"Oh, *now*." Randi leaned in, and her eyes had their wickedness back. "You gave me the after-school-special version. Back up and tell me what really happened. And don't start at his door. That's not where a night like that starts."
+"Oh, *now*." Randi leaned in, and her eyes had their wickedness back. "You gave me the after-school-special version. Back up and tell me what really happened. And don't start at his door. That's not where a night like that starts." She reached for the bottle and poured for them both, and settled in.
 
 So Vee went back — all the way back, to her dorm room at seven o'clock — and told it the way it had actually gone.
 
-"I had the underwear drawer open," she said. "And a hand on the black everyday bra, and I caught myself — no. Pace deserves the pretty one. So I picked up the good lace instead. And then I stood there holding it and started laughing, because he wasn't getting that one either. He wasn't getting any of them." She turned her glass by the stem. "I put it back and I shut the drawer on all of it. Every neat little row of everything that wasn't invited."
+"I'm getting ready," she said. "I've got the underwear drawer open, and a hand on the black everyday bra, and I catch myself — no. Pace deserves the pretty one. So I pick up the good lace instead. And then I'm standing there holding it, and I start laughing, because he isn't getting that one either. He isn't getting any of them." She turned her glass by the stem. "I put it back and I shut the drawer on all of it. Every neat little row of everything that wasn't invited."
 
 "Oh, I *like* you," Randi said.
 
-"And that was getting dressed. I was done before I'd started. So I sat down on the bed to do the shoes, and I thought — a girl puts her shoes on last. Always. Last thing, at the door, keys in your hand. And there I am, zipping them on first." She held up one finger. "First. And only."
+"And that's getting dressed. I'm done before I've started. So I sit down on the bed to do the shoes, and I think — a girl puts her shoes on last. Always. Last thing, at the door, keys in your hand. And there I am, zipping them on first." She held up one finger. "First. And only."
 
 "Which shoes."
 
@@ -162,19 +162,21 @@ Randi put both hands flat on the table, quietly triumphant, and said nothing at 
 
 "Stop, I'm dying. The drive."
 
-"Forty minutes of county road, in the dark, in January, in a coat and two shoes." Vee looked at her wine and then did not drink any. "And I was — very ready to see Pace."
+"Twenty minutes of county road, in the dark, in January, in a coat and two shoes that mean business. And I was very ready to meet Pace."
 
-Randi went still. Not the brightness going out of her — the other stillness, the listening one.
+Vee looked down at her lap. She took a big drink of her wine, and a breath — and then she reached back and turned the coat around on its hook — the dark bloom on the pale satin, Friday's, held out into the light — and showed Randi the lining.
 
-"There's a mark on the lining," Vee said. "That nobody will ever be able to explain to a soul." And then, because saying it was doing something to her and she wanted it done: "It's hanging behind you. I hung it lining-in."
+"Very. Ready."
 
-Randi didn't turn around. "And you told me anyway," she said, low.
+Randi's eyes were very dark and liquid, staring. Vee could hear her breathing.
 
-"And somewhere past the last of the lights," Vee said, "there were lights. Behind me. Blue and red — the whole ceiling of the car going blue and red — and one whoop of the siren."
+"Wow," Randi said finally, hoarse and low. And kept staring.
+
+"And…" Vee said, letting the coat go, "…and somewhere past the last of the lights, there were lights. Behind me. Blue and red — the whole ceiling of the car going blue and red — and one whoop of the siren."
 
 "*No.*"
 
-"And every thought in my head was one word. Caught. Nothing under the coat, forty minutes of — very ready — all over me, and a man with a flashlight about to want my license and registration."
+"And every thought in my head was one word. Caught. Nothing under the coat, twenty minutes of — very ready — all over me, and a man with a flashlight about to want my license and registration."
 
 "*God.*" Randi had Vee's wrist across the table without seeming to have reached for it. "What did he—"
 
