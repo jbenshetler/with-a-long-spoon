@@ -40,25 +40,25 @@ Randi was in oatmeal cashmere worn open over cream lace, her everyday studs, the
 
 "The text only whet my appetite," she said. "Tell me about your triumph."
 
-So Vee started at the door. The county road and the dark, the porch light. His face when he opened it — she did his voice, the *"It's late. Is everything alright,"* the courtesy over him like a wall — and Randi nodded once, slow, because the wall was in the plan; they had talked about the wall. And then the buttons. Her own cold fingers on them, top to bottom, no words anywhere in her, and the coat opened into the January air.
+So Vee started at the door — at the door itself, standing in the cold on his dark porch, none of the rest of it, because the rest of it was not the story she was telling. "He opened it and gave me the polite voice. *'It's late. Is everything alright?'*" — and Randi nodded once, slow, because the wall was in the plan; they had talked about the wall. "And I didn't say one word. I showed him."
 
-"And the wall came down," Vee said. "All of it. All at once. You could watch it go."
+"Hmm," Randi said.
 
-Randi didn't whoop and she didn't laugh. She reached over and laid her hand flat on the olive coat where it hung at the end of the booth — high on the front of it, that middle ground between collarbone and breast — and patted it once, the whole palm.
+"And the wall came down. All of it, all at once — you could watch it go. And he took me inside."
 
-"This did it," she said, warm as a verdict.
+"Hmm."
 
-"He carried me in," Vee said. "Eventually."
+Randi reached over and laid her hand flat on Vee — high on her chest, that middle ground between collarbone and breast, the whole palm warm through the new silk.
 
-"Eventually." Randi's mouth curved and she picked her glass back up. "Good girl. Both of you."
+"This did it," she said, warm as a verdict — and on the way back her fingers set the crossing edge of the wrap a quarter-inch truer, and were gone.
 
-The talking went easy after that, the way it went when the two of them had a table and nowhere to be — although tonight there was somewhere they had already been, which was new, and twice a week now there would be this, class letting them out into the cold at 8:20 with the evening legitimate and paid for. Vee gave her the weekend in its broad shape and didn't linger on the fight or the month of silence; Randi had had all five weeks of that already, had held her through the worst hour of it, and there was no bringing that to this table. What Randi hadn't had was Friday. So Vee gave her Friday: the porch, and the couch they'd made it to instead of the bed, and then — she was two sips into the second glass — midnight, and the kitchen, and the blanket.
+The talking went easy after that, the way it went when the two of them had a table and nowhere to be — although tonight there was somewhere they had already been, which was new, and twice a week now there would be this, class letting them out into the cold at 8:20 with the evening legitimate and paid for. Vee didn't linger on the fight or the month of silence; Randi had had all five weeks of that already, had held her through the worst hour of it, and there was no bringing that to this table. What she wanted to give her was midnight.
 
-"He made pancakes. From scratch, at midnight. And I sat there and ate them wearing—" she lifted one hand and turned it over, showing the nothing in it, "—the blanket. And the heels. He said the heels stayed on."
+"And at midnight he made me pancakes. From scratch — flour and the whisk, butter going glassy on top of the stack, tea he'd made me without my asking. At midnight." She was two sips into the second glass and the kitchen was arriving whole. "And I sat there and ate them wearing—" she lifted one hand and turned it over, showing the nothing in it, "—the blanket. And the heels. He said the heels stayed on."
 
 Saying it lit her face from underneath; she felt the heat arrive and kept going anyway. "And then he came around the counter and got down on one knee, next to my chair, while my mouth was still full, and said he'd missed me. And his voice—" She stopped and had some ice water. "His voice didn't make it all the way through the sentence."
 
-Randi was smiling at Vee over the top of her wine glass. One fingernail was working the edge of it, the rim's thin edge under the nail, back and forth.
+"Midnight pancakes," Randi said, soft, a hand coming to her heart, and she meant it. "I'm so happy for you, girl." She was smiling at Vee over the top of her wine glass. One fingernail was working the edge of it, the rim's thin edge under the nail, back and forth.
 
 "On his knee," she said. "On the floor."
 
