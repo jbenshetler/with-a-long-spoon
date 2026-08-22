@@ -192,7 +192,21 @@ Randi said nothing for a moment. Then she tipped her glass an inch toward her. "
 
 "And the wall came down."
 
-"You could watch it go." Vee's chin was up; under the table her knees had pressed themselves together. "He looked at me like a starving man who'd just been told he's forgiven. And then we didn't make it inside for a while. And when we did—" she picked up the wine now and had some, "—we didn't make it past the couch."
+"The wall didn't just come down. It *crumbled*." Vee's chin was up; under the table her knees had pressed themselves together. "He looked at me like a starving man who'd just been told he's forgiven. And then he was kissing me. And then he was kissing lower."
+
+"Outside? In January?"
+
+"He took me over right there." Vee's voice had gone quiet. "With his mouth."
+
+"This is *so good*," Randi said, to nobody in particular.
+
+"And then he was inside me. On the porch. He carried me in like that."
+
+"While you were—"
+
+"Yes." There was no apology anywhere in it. "We didn't make it past the couch."
+
+"You'd make Mae West blush."
 
 Randi topped up both glasses, unhurried, like a woman banking a fire. "Now the morning," she said. "You woke up where?"
 
