@@ -80,7 +80,7 @@ The talking went easy after that, the way it went when the two of them had a tab
 
 "The boardwalk fair. We rode the merry-go-round. He won me a teddy bear — which I'm sure cost him three times what the bear cost — and he was unbelievably sweet, and it worked on me. Completely."
 
-"Oh! That's so sweet." Vee had both hands around her glass. "I see why you went out with him. What happened with him?"
+"Oh, I love him already." Vee had both hands around her glass. "I see why you went out with him. What happened with him?"
 
 Randi looked at her for a second. Then she laughed — one note lower than her usual laugh — and this time she topped up her own glass.
 
