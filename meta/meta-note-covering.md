@@ -12,6 +12,10 @@ The chronology entry's "verbal/confessional rung held flat by design so Thursday
 - They sit in the **back third** — the stats position, resumed without discussion (day-one seat; the forward migration is a later-weeks pattern — see `meta-note-anthro.md`).
 - Marsh is **engrossing, unlike the stats prop**: her entrance and the **hau opener rendered in full** — the approved Māori lines per `meta-note-anthro.md` (the gift carrying the giver's spirit; the grandmother's sweater; the wedding ring; *something is riding inside the object*; "by the end of this semester you'll be able to tell me what it is"). **Vee does not raise her hand** tonight. The rest of the class is elided.
 
+## The venue (ruled 2026-08-22)
+
+A little Italian place **just off campus**, making the most of its space: **basement, ground floor, and loft seating**. At the entrance, a **chrome-and-black jukebox** with clear pipes curving up its sides — water inside, a little stream of bubbles lit by a green inner light. The girls sit in a **booth in the loft**. This is the place the twice-weekly ritual installs itself in. Wine at the table is fine — Vee and Randi are both 21 at novel-open (`meta-arch-bible.md`, Peer Configuration guard).
+
 ## The table — beat order (ruled 2026-08-21)
 
 1. The first *scheduled* SATC — the twice-a-week ritual installing itself without anyone deciding.
