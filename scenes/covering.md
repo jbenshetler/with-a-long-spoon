@@ -120,13 +120,29 @@ The loft went on being warm around them, plates somewhere below, the accordion f
 
 "And he sat there," Randi said. "Through the whole rest of dinner. This boy who'd gone down on one knee in the grass — he sat across from my mother and he barely ate. Pushed things around. Answered when spoken to." She turned her glass by the stem, once. "He quit that week. Found other lawns, I suppose. I never saw him again."
 
-Then she blinked, and came back from wherever the dining room was, and the brightness came back up over her all at once like a light with a switch. She flicked the whole summer away with two fingers, and leaned in, and her eyes had their wickedness back, aimed. "Speaking of not lasting. You went in Friday with nothing under the coat. How long before Pace let you put clothes on again?"
+The server appeared at the top of the loft stairs and asked about dessert. "We're going to need a while," Randi said, and smiled him back down — and by the time she turned around the memory was gone and something warmer had come up in its place, aimed at Vee.
 
-And she winked.
+"How late did you sit there?" she said. "Wrapped in the blanket, your man down on his knees because he's too happy that you're back to talk. How late?"
 
-The blush got Vee before any answer could — because the true answer was Sunday, the true answer was that she had driven out too nervous to pack so much as a bag, and there had been nothing to put on all weekend and no reason on earth to put it on — and Randi watched the blush arrive with open satisfaction and pointed at her.
+Hearing it said in Randi's voice brought it back whole — she had cried that night, happy tears, the pride and the happiness all one thing — and her throat closed on it now, one beat, without her permission. Then she smiled. "I was a bit stuck."
 
-"That long. I knew it. Tell me the morning. All of it, I want the whole morning."
+"What do you mean? Did something go wrong?"
+
+"Not exactly. More like a mistake went right."
+
+"Do tell."
+
+"I was so nervous driving out that I forgot to bring an overnight bag."
+
+"Wearing your man's clothes can be sexy."
+
+Vee's eyes went sideways as she smiled.
+
+Randi sat up. "You *didn't* wear your man's clothes all weekend."
+
+"Not a stitch."
+
+"Oh, *now*." Randi leaned in, and her eyes had their wickedness back. "You gave me the after-school-special version. Back up and tell me what really happened. And don't start at his door. That's not where a night like that starts."
 
 So Vee told her Saturday. And it was easy to tell, was the strange thing, easier than it had any business being — the empty bed and the house full of the smell of bread, the sweats folded at the foot of the bed that she had looked at and left there. Padding down his hallway with nothing on and her chin up, and the thought that had carried her the first few steps — *a woman kept naked in a man's house, his for the taking, a pleasure slave* — and then the arithmetic that had turned it inside out somewhere between the bathroom and the kitchen, and she counted it for Randi on her fingers exactly as she'd counted it for herself: he brings her off first, always; he rises in the dark to set bread going; he cooks, he cleans, he was out in the January cold that very minute buying food to feed her.
 
