@@ -48,6 +48,8 @@ So Vee started at the door — at the door itself, standing in the cold on his d
 
 "Hmm."
 
+That was the line she'd saved — she'd said it to the windshield twice on the drive, *you could watch it go* — and it bought her a Hmm. Vee's smile stayed up. It just stopped being attached to anything.
+
 Randi reached over and laid her hand flat on Vee — high on her chest, that middle ground between collarbone and breast, the whole palm warm through the new silk.
 
 "This did it," she said, warm as a verdict — and on the way back her fingers set the crossing edge of the wrap a quarter-inch truer, and were gone.
