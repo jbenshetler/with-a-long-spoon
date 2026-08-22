@@ -2,7 +2,7 @@
 
 The kitchen was too small for two people to be useful in. She'd tried, the first weeks, standing to dry while he washed, and they'd bumped hips and elbows until he took the towel out of her hand and pointed her at the little table, and that was the arrangement now and she'd stopped pretending she minded. He cooked, they ate at the table because he sat people down to eat, and then he stood at the sink with his sleeves rolled and she sat naked on the lacquered seat of a chair he'd made, with what was left of her wine, and talked at his back. His back was a good listener. All of him was, but the back made it easy, made her run on longer than she meant to, and tonight she'd been running on about Randi for a while.
 
-"—so there's no receipt, obviously, there was never going to be a receipt, and the guy at the counter is looking at her over the sweater like he's already said no. And she doesn't argue. That's the thing. She just keeps on being delighted with him. Like he's the best part of her whole errand. And I watched him fold." Vee turned her glass a half-turn. "Store credit and a bag. She let him feel like it was his idea."
+"—so there's no receipt, obviously, there was never going to be a receipt, and the guy at the counter is looking at her over the sweater like he's already said no. And she doesn't argue. That's the thing. She just keeps on being delighted with him. Like he's the best part of her whole errand. And I watched him fold." Vee pushed a crumb across the table with one finger. "Store credit and a bag. She let him feel like it was his idea."
 
 "Mm." He set a pan in the rack.
 
