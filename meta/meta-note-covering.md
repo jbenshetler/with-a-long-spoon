@@ -16,6 +16,10 @@ The chronology entry's "verbal/confessional rung held flat by design so Thursday
 
 A little Italian place **just off campus**, making the most of its space: **basement, ground floor, and loft seating**. At the entrance, a **chrome-and-black jukebox** with clear pipes curving up its sides — water inside, a little stream of bubbles lit by a green inner light. The girls sit in a **booth in the loft**. This is the place the twice-weekly ritual installs itself in. Wine at the table is fine — Vee and Randi are both 21 at novel-open (`meta-arch-bible.md`, Peer Configuration guard).
 
+## Wardrobe (ruled 2026-08-22)
+
+**Render what both girls are wearing — fashion matters to them both.** Both have new clothes from the holidays (wardrobe variation opportunity; Randi's can draw on the Gstaad boutiques, `meta-note-fairytale.md`). The register is triple: class clothes + trying-to-impress-your-girlfriend clothes + going-out-to-dinner-after clothes. **Vee tries a bit too hard — some tell in what she's wearing**, deniable on the surface (happy to be back, dinner out), charged on reread: it seeds the desire current that {{On Her Floor}} renders on the page for both girls. Calibration guard: late January is still *faint undercurrent* (`meta-plan-satc-tracks.md` dosage rule) — the hint lives in the wardrobe and the body, never in cognition.
+
 ## The table — beat order (ruled 2026-08-21)
 
 1. The first *scheduled* SATC — the twice-a-week ritual installing itself without anyone deciding.
