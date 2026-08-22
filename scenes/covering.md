@@ -102,7 +102,11 @@ Two words, still bright — but the fun had gone out of the brightness somewhere
 
 Randi's glass stopped an inch off the table.
 
-"They didn't," she said. "Tell me." And then, after a beat that had nothing bright in it, she went on, and her voice had come down out of the story's key without her seeming to decide it. "The boy got invited to Sunday dinner. Which I took as a good sign. We're at the table, all four of us, and it's fine, he's doing fine, and my mother goes out to the kitchen and comes back in and sets them down next to my plate. Laundered. Folded. Robin's-egg blue." The color was climbing her neck, up out of the oatmeal cashmere, and she wasn't performing anything now, she was only looking at a point just past Vee's shoulder where a dining room evidently stood. "And she says, 'They're not mine. They're your color.'"
+"They didn't," she said. "Tell me." And then, after a beat that had nothing bright in it, she went on, and her voice had come down out of the story's key without her seeming to decide it. "The boy got invited to Sunday dinner. Which I took as a good sign. We're at the table, all four of us, and it's fine, he's doing fine, and my mother goes out to the kitchen and comes back in and sets them down next to my plate."
+
+The glass was still in her hand. She was pushing the rim's thin edge in under her fingernail, slow, not looking at it.
+
+"Laundered. Folded. Robin's-egg blue." The color was climbing her neck, up out of the oatmeal cashmere, and she wasn't performing anything now, she was only looking at a point just past Vee's shoulder where a dining room evidently stood. "And she says, 'They're not mine. They're your color.'"
 
 "Randi."
 
