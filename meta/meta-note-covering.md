@@ -8,7 +8,7 @@ The chronology entry's "verbal/confessional rung held flat by design so Thursday
 
 ## The classroom (Tue, first class, 7:00–8:20 PM)
 
-- Vee arrives early and waits outside the room; goes in just before 7:00 to find Randi already there — arrived earlier still, a seat held. First contact since {{My Friend Randi}}: a happy "Good to see you, girl" handhold, brief — all they have time for, because Dr. Marsh is entering.
+- Vee arrives early and waits outside the room (running on a **hug-deficit** from the break — paid against once at {{My Friend Randi}}, cried through), planning to walk in with Randi and **choose their semester seat together — the first-day seat convention is planted here** (its violation is the later migration, `meta-note-anthro.md`); she goes in just before 7:00 to find Randi already there — arrived earlier still, the semester seat chosen alone. First contact since {{My Friend Randi}}: a happy "Good to see you, girl" handhold, brief — all they have time for, because Dr. Marsh is entering. The hug-deficit carries to the goodbye hug.
 - They sit in the **back third** — the stats position, resumed without discussion (day-one seat; the forward migration is a later-weeks pattern — see `meta-note-anthro.md`).
 - Marsh is **engrossing, unlike the stats prop**: her entrance and the **hau opener rendered in full** — the approved Māori lines per `meta-note-anthro.md` (the gift carrying the giver's spirit; the grandmother's sweater; the wedding ring; *something is riding inside the object*; "by the end of this semester you'll be able to tell me what it is"). **Vee does not raise her hand** tonight. The rest of the class is elided.
 
