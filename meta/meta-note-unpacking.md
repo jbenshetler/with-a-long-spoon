@@ -1,6 +1,6 @@
 # Note — Unpacking (the Cassie cool-down)
 
-*Scene (Cassie-short) · **Sun Jan 17, night** — the dorm room, after the {{Nothing Underneath}} return coda · Unwritten · Vee POV · sits {{Back}} (Sun afternoon) → here → {{Across}} (Mon) · beats workshopped 2026-08-20*
+*Scene (Cassie-short) · **Sun Jan 17, night** — the dorm room, after the {{Nothing Underneath}} return coda · Draft complete · Vee POV · sits {{Back}} (Sun afternoon) → here → {{Across}} (Mon) · beats workshopped 2026-08-20*
 
 ## What this scene is
 

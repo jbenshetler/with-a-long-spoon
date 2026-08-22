@@ -189,6 +189,14 @@ scope    = "scenes"
 why      = "'warm / warmth' — the default-reach warmth word, heavily overused (~500 across scenes). Thematic, so much is load-bearing (Vee's analog warmth, the porch as the warm room, Randi's warmth-under-gloss). Worked a scene at a time: read the paragraph density, keep the load-bearing, vary or cut the reflex ones — then --ack the sanctioned uses so the scene goes quiet."
 
 [[rule]]
+id       = "hand-shoulder-blades-simile"
+kind     = "regex"
+pattern  = '(?i)\b(?:like|as\s+if|as\s+though)\b[^.!?]{0,30}\bhand\b[^.!?]{0,30}\bshoulder\s*blades?\b'
+severity = "warn"
+scope    = "scenes"
+why      = "A SIMILE of 'a hand [flat/set/laid] between [her] shoulder blades' — borrowing the touch as a figure of speech rather than staging it. That literal gesture is Randi's live signature (dear.md, see-you-later.md — the quick hug-in-passing) and must stay RARE as a simile: at most once per volume, and never diluting Randi's ownership of the real touch. Flag every figurative hit for author sign-off; recast if it borrows Randi's gesture for someone else's warmth (e.g. unpacking.md originally used the simile for Cassie's mother — recast to a different image). Literal/live touches (an actual hand landing on an actual back, Pace's dance-lead in lesson.md) are NOT the target and should not fire."
+
+[[rule]]
 id       = "vivienne"
 kind     = "phrase"
 phrase   = "Vivienne"
