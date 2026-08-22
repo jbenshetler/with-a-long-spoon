@@ -40,6 +40,8 @@ The reader inhabits her. Her interior should be felt *with* her, not observed fr
 
 **The mother in dialogue:** audible ONLY as prim displaced judgment of other women's sexual laxity (*floozy* and kin — anachronistic, inherited). The self-directed verdict stays interior. Never have Vee reach up for armor under threat; the wound strips fluency, it does not summon it.
 
+**"God" belongs to Randi (author ruling 2026-08-22).** God/Lord exclamations and "God's-X" intensifiers are Randi's bright register; in Vee's mouth or interiority only rarely — reserved for moments that genuinely knock her flat, never as a reach-intensifier.
+
 ---
 
 ## Behavioral Signatures

@@ -28,15 +28,15 @@ The restaurant was new that fall — modern Italian, three blocks off campus, st
 
 "Up," Randi said to the girl at the front, and they went up, and got the corner booth in the loft with the whole warm room below them.
 
-They shed their coats. Vee hung hers on the hook at the end of the booth and turned it lining-to-the-wall as she did — there was a dark bloom on the pale satin, Friday's, that nobody had been told about yet — the good olive coat, buttoned all the way down tonight, over the cream wrap. The wrap crossed low, the neckline went further south than any note-taking required, and the loose knot at her hip was the only thing on her tonight doing any controlling.
+They shed their coats. Vee hung hers on the hook at the end of the booth and turned it lining-to-the-wall as she did — there was a dark bloom on the pale satin, Friday's — the good olive coat, buttoned all the way down tonight, over the cream wrap. The wrap crossed low, the neckline went further south than any note-taking required, and the loose knot at her hip was the only thing on her tonight doing any controlling.
 
 Randi took one look and put her hand to her heart.
 
-"Okay. *That.* " Her eyes went down it and came back up, frank and delighted. "That's new. That's a neckline with somewhere to be. Turn — no, sit, let me just be proud of you."
+"Okay. *That.*" Her eyes went down it and came back up, frank and delighted. "That's new. That's a neckline with somewhere to be. Turn—" the little finger-twirl, "—just let me stare at your hotness."
 
-"It was on sale," Vee said, and heard herself say it, and laughed, and sat.
+Vee laughed, delighted, turning.
 
-Randi was in oatmeal cashmere worn open over cream lace, her everyday studs, the green and gold riding above it all in her black hair, and it took no thought at all to see that everything on her was quietly, seriously good, the same as ever — new, maybe, some of it, from wherever her break had been, and none of it asking to be noticed. She ordered a bottle of red without reading the pronunciation off the card, and the wine came, and the glasses were filled, and Randi folded her arms on the table and leaned in with the look of a woman owed a story.
+Randi was in oatmeal cashmere worn open over cream lace, her everyday studs, the green and gold riding above it all in her black hair, and it took no thought at all to see that everything on her was quietly, seriously good, the same as ever — new, maybe, some of it, from wherever her break had been, and none of it asking to be noticed. Randi ordered a bottle of red for the table — the conversation would need it, she said — without looking at the price. The wine came, and the glasses were filled, and Randi folded her arms on the table and leaned in with the look of a woman owed a story.
 
 "The text was not nearly enough," she said. "Start at the door."
 
@@ -94,7 +94,7 @@ The loft went on being warm around them, plates somewhere below, the accordion f
 
 And she winked.
 
-The blush got Vee before any answer could — because the true answer was Sunday, the true answer was that she had driven out too nervous to pack so much as a bag, and there had been nothing to put on all weekend and no reason on God's earth to put it on — and Randi watched the blush arrive with open satisfaction and pointed at her.
+The blush got Vee before any answer could — because the true answer was Sunday, the true answer was that she had driven out too nervous to pack so much as a bag, and there had been nothing to put on all weekend and no reason on earth to put it on — and Randi watched the blush arrive with open satisfaction and pointed at her.
 
 "That long. I knew it. Tell me the morning. All of it, I want the whole morning."
 
