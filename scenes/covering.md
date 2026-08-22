@@ -24,9 +24,9 @@ She put one canvas bag on the desk, did not open it, and faced the room.
 
 She did not tell them. She picked up the chalk and wrote her office hours instead, and Vee, who had come in braced for a syllabus voice, sat forward without noticing she'd done it and stayed that way for an hour and twenty minutes. Beside her Randi's pen moved and stopped and moved. Neither of them raised a hand, and it was ten past eight before Vee looked at the clock the first time.
 
-The restaurant was Randi's find, three blocks off campus, a narrow old building that had made the most of itself: tables in the basement, tables on the ground floor, and a loft up a steep little stair, under the rafters. Just inside the door stood a jukebox, chrome and black, with clear pipes curving up both sides — water in the pipes, a thin stream of bubbles climbing through them, lit green from within. It was playing something with an accordion in it, quietly, to nobody.
+The restaurant was new that fall — modern Italian, three blocks off campus, stretching itself a little above student budgets — Pace's suggestion, offered the moment Vee asked; he knew restaurants. Where the newness could have felt off-putting, it felt instead ready. The narrow old building made the most of itself: tables in the basement, tables on the ground floor, and a loft up a steep little stair, under the rafters. Just inside the door stood a jukebox, chrome and black, with clear pipes curving up both sides — water in the pipes, a thin stream of bubbles climbing through them, lit green from within. It was playing something with an accordion in it, quietly, to nobody.
 
-"Up," Randi said to the girl at the front, who knew her, and they went up, and got the corner booth in the loft with the whole warm room below them.
+"Up," Randi said to the girl at the front, and they went up, and got the corner booth in the loft with the whole warm room below them.
 
 They shed their coats. Vee got hers onto the hook at the end of the booth — the good olive coat, buttoned all the way down tonight, over the cream wrap. The wrap crossed low, the neckline went further south than any note-taking required, and the loose knot at her hip was the only thing on her tonight doing any controlling.
 
