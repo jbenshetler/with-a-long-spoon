@@ -16,7 +16,7 @@ The campus behind them had that refilled, unstarted feeling, everybody's cars ba
 
 Kayla wanted to know if they had waffles. They had waffles.
 
-The place had a sun porch along its south side, a long room of glass and white-painted muntins, and the late morning came through it and lay over the cloths and the people and the coffee cups, and the whole room was warm and loud and smelled of butter. The girl at the front took one look at the three of them and got three menus off the stack, and led them back into the light, and Kayla talked the entire length of the room — to Vee, to Meg, to the room itself, *look at this, oh my God, look at it* — and they got a table against the glass, and the sun came onto the cloth and sat down with them.
+The place had a sun porch along its south side, a long room of glass and white-painted muntins where the late-morning light came in and lay on everything without asking — the cloths, the people, the coffee cups — and the whole room was warm and loud and smelled of butter. The girl at the front took one look at the three of them and got three menus off the stack, and led them back into the light, and Kayla talked the entire length of the room — to Vee, to Meg, to the room itself, *look at this, oh my God, look at it* — and they got a table against the glass, and the sun came onto the cloth and sat down with them.
 
 Meg settled into her chair, looked down the porch one whole slow time, and delivered her verdict. "Okay. This is a place."
 
@@ -32,35 +32,37 @@ The menu was a single heavy card. Vee knew what things cost here, and read the r
 
 "So?" Kayla's whole face was open, delighted in advance. "Tell it. All of it. Start with the shoes."
 
-So Vee told it. They'd had a fight over break, she and Pace — a bad one, a phone one — and she'd decided she wasn't doing that anymore, any of it, and Friday night she'd driven out to his house without telling him she was coming. She laid it out with her hands: the county road, the dark, the porch light coming on. And him opening the door — and she gave them his voice, flat and level, the courtesy in it. "'It's late. Is everything alright?'"
+So Vee told it. They'd had a fight before break, she and Pace — a bad one, and then a month of not talking — and she'd decided she wasn't doing that anymore, any of it, and Friday night she'd driven out to his house without telling him she was coming. She laid it out with her hands: the county road, the dark, the porch light coming on. And him opening the door — and she gave them his voice, flat and level, the courtesy in it. "'It's late. Is everything alright?'"
 
 "Stop," Kayla said. "In the doorway. What did you say."
 
-"Nothing." Vee took a slow sip of her mimosa and set the flute down. "I flashed my boyfriend on his front porch."
+"Nothing." Vee took a slow sip of her mimosa and set the flute down. "I flashed him on his front porch."
 
 The porch took the noise fine; it was a loud room. Kayla's shriek turned three heads and she didn't notice, both hands up, actually rising an inch off her chair — "You did *not*. In *January* — Vee. VEE. In front of *God* — no wonder you had the coat buttoned up to your — you were standing there *talking to me about my socks*—" and she was off, three sentences downstream and going, doing the scene from her own side now, the laundry basket, the socks, herself narrating underwear to a woman on her way to commit a crime, and Vee laughed along and let her run, and never had to say one word about the drive.
 
-Meg waited for the stream to pass. Then she set her cup down.
+Then Kayla came down off it, leaned in over her flute, and asked the real one, lower. "And did he...?"
 
-"And it worked."
+Vee smiled hugely, and nodded. "Yeah..."
 
-"It worked," Vee said. "We talked all night. It's — we're good. We're better than we were." Which was the size of it she'd brought, and it sat on the table looking exactly true.
+Meg waited for that to settle. Then she lifted her flute. "And it worked."
+
+"It worked," Vee said, and the three flutes came together over the middle of the table, Kayla's orange juice in with the rest. "We talked all night. It's — we're good. We're better than we were." Which was the size of it she'd brought, and it sat on the table looking exactly true.
 
 Meg nodded slowly, level as ever. "That's a big apology."
 
 "It was a big fight."
 
-"No, I respect it. I do." She had a sip of her mimosa. "In October I had the worst period of my life and I was a hag to Danny for five days. Like, hall of fame. He brought me a heating pad and I told him the cord was stupid." A pause for that to be appreciated; it was. "And he was sweet the whole time. Never once took the bait. So when it was over I got him the maple bacon ones from that place he likes, a whole dozen, and sat through all the Matrix movies with him. All of them. Again." She picked her cup back up. "So I get it. Sometimes you have to make it right in their language."
+"No, I respect it. I do." She had a sip of her mimosa. "In October I had the worst period of my life and I was a hag to Danny for five days. Like, hall of fame. He brought me a heating pad and I told him the cord was stupid." A pause for that to be appreciated; it was. "And he was sweet the whole time. Never once took the bait. So when it was over I got him his favorite — maple bacon, from that place he likes, a whole dozen — and sat through all the Matrix movies with him. All of them. Again." She picked her cup back up. "So I get it. Sometimes you have to make it right in their language."
 
-"Meg," said Kayla, "that is not the same—"
+"Danny would have rather you borrowed Vee's high heels," Kayla said, to giggles all around, Meg's included.
 
-"The donuts were a gesture."
+"The maple bacon was a gesture."
 
 The waffles came, then, and the egg things, and for a while the talk went where it wanted — classes tomorrow, whose schedule was a war crime, whether the bookstore line would be worse today or Wednesday — and the light lay across the table and moved, and Vee sat in the middle of it eating her eggs, her people on either side loud and easy, the last morning of break turning out to have been rescued after all.
 
 She waited for a lull, and didn't get one, and told them anyway, over the top of one.
 
-"So — Wednesday night. He's taking us all to dinner. Everybody. You two, Cassie, Theo maybe. He wants to meet you."
+"So — Wednesday night. He's taking us all to dinner. Everybody. You two, Cassie, and Randi, Theo maybe. He wants to meet you."
 
 The fork stopped halfway to Kayla's mouth.
 
@@ -72,6 +74,6 @@ The fork stopped halfway to Kayla's mouth.
 
 "Meet the boyfriend," Meg said, and let herself smile. "Wednesday works."
 
-Kayla had already left Wednesday and was somewhere out ahead of it, planning in the unbroken stream, and the two of them let her run and finished the coffee, and when the check came the three of them went over it heads-together like a group project, worked out to the dollar who had what, counted out the tip in bills, all of it out loud, nobody letting anybody cover anybody — and it came out even, and they were proud of it, and the girl at the front told them to come back.
+Kayla had already left Wednesday and was somewhere out ahead of it, planning in the unbroken stream, and the two of them let her run and finished the coffee, and when the check came Vee asked for it split three ways, and the server brought the little terminal around the table and they tapped their phones to it one after another, deliberating the tip buttons out loud, nobody letting anybody cover anybody, and the girl at the front told them to come back.
 
 Then they were out on the sidewalk in the cold, the three of them squinting, the porch behind them a long lit box of glass with its light and its people and its butter smell shut up warm inside it, and Kayla was still going — Tuesday, hair, what does one wear to meet a man who owns a *house* — and they walked to the car through the bright empty holiday morning, and the cold wasn't anything, and tomorrow the semester would start, and Wednesday was two days off, and Vee had the middle of it all the whole time.
