@@ -8,7 +8,7 @@ She had skipped the dining hall without thinking twice — confident, without an
 
 She posted herself outside the classroom door with eight minutes in hand — floor wax and radiators, full dark already on the Drillfield behind her — and watched the corridor for Randi. She was running on a deficit of their hugs, the loss accumulated over the small weeks of break that had dripped by — paid against just once, and she'd cried through that one — and there was gossip besides that wouldn't keep until dinner, and then they'd walk in and pick their spot together. First day was when you chose your seat for the semester and held it; that was the convention, and if Dr. Marsh was anything like her reputation, the right seats would matter. Students funneled past her in ones and twos, chins still down from the cold. No Randi. At two minutes to seven she gave up the door and went in — and Randi was already there.
 
-Back third of the room, aisle seat, her coat folded over the chair beside her like a reserved sign, a pen already out. She'd beaten Vee by who knew how long. She looked up and found her at once — she always found her at once — and the smile that came was the one that came before anything was arranged on it.
+Back third of the room, aisle seat, her coat folded over the chair beside her like a reserved sign, a pen already out. Her ponytail was tied off tonight in the green-and-gold silk scarf — *the* scarf, the one Randi had looped at Vee's bare throat in October and taught her the knot of, the one that had gone along to say sorry and had worked — and Vee was absurdly glad at the sight of it, without asking herself why. Randi had beaten her by who knew how long. She looked up and found her at once — she always found her at once — and the smile that came was the one that came before anything was arranged on it.
 
 "Good to see you, girl." Randi's hand caught hers as she dropped into the held seat and squeezed, once, warm, and Vee squeezed back, and there was time for exactly that much, because the door at the front opened and the professor walked in.
 
@@ -36,9 +36,9 @@ Randi took one look and put her hand to her heart.
 
 "It was on sale," Vee said, and heard herself say it, and laughed, and sat.
 
-Randi was in slate-grey cashmere and her everyday studs, her hair in its smooth ponytail, and it took no thought at all to see that everything on her was quietly, seriously good, the same as ever — new, maybe, some of it, from wherever her break had been, and none of it asking to be noticed. She ordered a bottle of red without reading the pronunciation off the card, and the wine came, and the glasses were filled, and Randi folded her arms on the table and leaned in with the look of a woman owed a story.
+Randi was in oatmeal cashmere worn open over cream lace, her everyday studs, the green and gold riding above it all in her black hair, and it took no thought at all to see that everything on her was quietly, seriously good, the same as ever — new, maybe, some of it, from wherever her break had been, and none of it asking to be noticed. She ordered a bottle of red without reading the pronunciation off the card, and the wine came, and the glasses were filled, and Randi folded her arms on the table and leaned in with the look of a woman owed a story.
 
-"Friday," she said. "Start at the door."
+"The text was not nearly enough," she said. "Start at the door."
 
 So Vee started at the door. The county road and the dark, the porch light. His face when he opened it — she did his voice, the *"It's late. Is everything alright,"* the courtesy over him like a wall — and Randi nodded once, slow, because the wall was in the plan; they had talked about the wall. And then the buttons. Her own cold fingers on them, top to bottom, no words anywhere in her, and the coat opened into the January air.
 
