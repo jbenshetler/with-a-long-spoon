@@ -66,13 +66,27 @@ Saying it lit her face from underneath; she felt the heat arrive and kept going 
 
 "On the floor."
 
+"You're going to be insufferable all spring." It came out fond, entirely fond, and she set the glass down and topped up Vee's without asking.
+
 The talking went easy after that, the way it went when the two of them had a table and nowhere to be — and twice a week now there would be this, class letting them out into the cold at 8:20 with the evening legitimate and paid for.
 
-"You're going to be insufferable all spring." It came out fond, entirely fond, and she set the glass down and topped up Vee's without asking. "Well. Since we're doing kitchens and underwear." She settled back into the corner of the booth with her wine, and the story arrived the way Randi's stories did, already in motion. "Did I ever tell you I got caught? Properly caught. The full catastrophe."
+"A boy went down on one knee for me once," Randi said. "It's cheating. It ought to be illegal."
 
-"No."
+"Tell me."
 
-"Because it's the best worst thing that ever happened to me, and you've earned it." She took a sip. "So. Younger me. My parents had rented a house at the shore for the summer — this was the era of renting, we were trying the whole thing on — and the house came with a maid, which my mother adored, and I had a boyfriend, because it was summer and there was a boy and that is simply arithmetic. And one gorgeous afternoon the parents are out — gone, hours — and my room had a bed I'd have had to fold him in half to use. And down the hall is the good bedroom. Ocean view. A bed the size of a customs declaration." She was doing it with her hands now, laying out the house in the air. "So we used it. Obviously. And afterward I showered and I dressed and I floated around the rest of the day being extremely seventeen kinds of pleased with myself, and at no point — at *no point* — did I count my underwear."
+"Summer. My parents had rented a house at the shore — this was the era of renting, we were trying the whole thing on; it came with a maid, which my mother adored — and there was a boy who did the lawns. And we'd been looking at each other for weeks. Chatting over the hedge, very costume drama. And finally he asked me out, and I was charmed, and I was enjoying being asked — taking my time with it, you understand — and while I'm standing there enjoying it, he goes down on one knee. On the grass. And asks me again from down there." She spread her hands: *what is a girl supposed to do.* "You can't say no to that. It isn't physically possible."
+
+"Where did he take you?"
+
+"The boardwalk fair. We rode the merry-go-round. He won me a teddy bear — which I'm sure cost him three times what the bear cost — and he was unbelievably sweet, and it worked on me. Completely."
+
+"Oh! That's so sweet." Vee had both hands around her glass. "I see why you went out with him. What happened with him?"
+
+Randi looked at her for a second. Then she laughed — one note lower than her usual laugh — and this time she topped up her own glass.
+
+"Well," she said. "Since you ask."
+
+"A few weeks in, my parents were out for the day — gone, hours — and my room had a bed I'd have had to fold him in half to use. And down the hall was the good bedroom. Ocean view. A bed with guest parking." She was doing it with her hands now, laying out the house in the air. "So we used it. Obviously. First time — first time as an *us*, I mean. And afterward I showered and I dressed and I floated around the rest of the day being extremely pleased with myself, and at no point — at *no point* — did I count my underwear."
 
 Vee's hand had come up over her mouth. "No."
 
@@ -84,7 +98,7 @@ And Vee was already wincing for her, half laughing, and what came out of her was
 
 Randi's glass stopped an inch off the table.
 
-"They didn't," she said. "Tell me." And then, after a beat that had nothing bright in it, she went on, and her voice had come down out of the story's key without her seeming to decide it. "The boy got invited to Sunday dinner. Which I took as a good sign. We're at the table, all four of us, and it's fine, he's doing fine, and my mother goes out to the kitchen and comes back in and sets them down next to my plate. Laundered. Folded. Robin's-egg blue." The color was climbing her neck, up out of the grey cashmere, and she wasn't performing anything now, she was only looking at a point just past Vee's shoulder where a dining room evidently stood. "And she says, 'They're not mine. They're your color.'"
+"They didn't," she said. "Tell me." And then, after a beat that had nothing bright in it, she went on, and her voice had come down out of the story's key without her seeming to decide it. "The boy got invited to Sunday dinner. Which I took as a good sign. We're at the table, all four of us, and it's fine, he's doing fine, and my mother goes out to the kitchen and comes back in and sets them down next to my plate. Laundered. Folded. Robin's-egg blue." The color was climbing her neck, up out of the oatmeal cashmere, and she wasn't performing anything now, she was only looking at a point just past Vee's shoulder where a dining room evidently stood. "And she says, 'They're not mine. They're your color.'"
 
 "Randi."
 
@@ -94,7 +108,11 @@ The loft went on being warm around them, plates somewhere below, the accordion f
 
 "What did you say?" Vee said, soft.
 
-"Nothing." One word, flat as a dropped card. Then Randi blinked, and came back from wherever the dining room was, and the brightness came back up over her all at once like a light with a switch. "Anyway. He apologized. To *them* — he apologized to *them*, which tells you everything about him, and no, we did not last." She flicked the whole summer away with two fingers, and leaned in, and her eyes had their wickedness back, aimed. "Speaking of not lasting. You went in Friday with nothing under the coat. How long before Pace let you put clothes on again?"
+"Nothing." One word, flat as a dropped card.
+
+"And he sat there," Randi said. "Through the whole rest of dinner. This boy who'd gone down on one knee in the grass — he sat across from my mother and he barely ate. Pushed things around. Answered when spoken to." She turned her glass by the stem, once. "He quit that week. Found other lawns, I suppose. I never saw him again."
+
+Then she blinked, and came back from wherever the dining room was, and the brightness came back up over her all at once like a light with a switch. She flicked the whole summer away with two fingers, and leaned in, and her eyes had their wickedness back, aimed. "Speaking of not lasting. You went in Friday with nothing under the coat. How long before Pace let you put clothes on again?"
 
 And she winked.
 
