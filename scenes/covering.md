@@ -114,17 +114,31 @@ Randi put her head back against the booth and laughed the real laugh, the one th
 
 "You were a public hazard."
 
-"I offered to put the sweats on. He said no so fast he stepped on the end of my sentence." Vee was flushed and laughing and a long way from campus, and the breakfast was nearly eaten, the tea steaming by her elbow in the telling, the morning's whole education assembling itself again in the retelling, and there was more morning after that, there was the part after breakfast, it was next, it was already arriving —
+"I offered to put the sweats on. He said no so fast he stepped on the end of my sentence." Vee was flushed and laughing and a long way from campus, the tea steaming by her elbow in the telling, the morning's whole education assembling itself again in the retelling.
 
-Below them, across the loft rail, the lights over the basement stair went off.
+"Go back," Randi said. Her chin was in her hand. "The foot on the chair. You checked your toes — with the man right there at the stove?" Her eyes had their wickedness in them, patient. "Paint it for me. What exactly was he not looking at?"
 
-Vee looked, and the room below had gone half empty without her noticing it do so. A boy in an apron was setting chairs seat-down onto tables along the far wall, quietly, with the practiced apology of a place that would like to go home. The girl from the front was at the top of the stair with the check in its little tray, not hurrying them, hurrying them.
+So Vee painted it: the heel set on the chair edge, the knee up, bending over her own bare leg to study the frosted plum like a woman with nothing else on her mind anywhere, the skillet going quiet behind her — and somewhere in the painting the heat stopped being remembered and was simply there, low and insistent under the silk, and the part after breakfast was next, already arriving, and she needed a minute before she could say any of it.
 
-"No," Randi said to the room at large, betrayed. "What time even is it."
+"Hold that thought," she said, and went down the little stair with her pulse in odd places.
+
+The stall had a proper latch. Her hand knew the way, and this time nobody caught it. She was quick about it, quiet, one palm flat against the cold partition — the weekend under her hand, the porch, the chair, his back refusing to turn — and when Randi's face arrived behind her eyes, the kind eyes that had stopped her cold once in the fall, she shut her own tighter and went on through them, because this was about Pace, obviously, it was all about Pace — and she went over hard, teeth set, the cry swallowed down to a breath, and stood still after, letting her ears clear. The third restroom she'd touched herself in — she counted the practice room; of course she counted the practice room. At the sink she put herself back together and promised the girl in the mirror that next time she would control herself.
+
+The loft had changed while she was gone. The lights over the basement stair were off, the room below half empty, a boy in an apron setting chairs seat-down onto tables along the far wall with the practiced apology of a place that would like to go home, and the check was already on the table in its little tray. Randi was pouring the last of the wine into Vee's glass.
+
+"Things were really heated," Randi said. "It's a good thing you got relief."
+
+Vee's whole face stopped.
+
+"After driving out to see Pace." Randi held her eyes, pleasant as a hostess. "He took care of you, but good. Tell me I'm wrong."
+
+"You're not wrong," Vee said, and drank the wine.
 
 It was ten o'clock. They had shut the place down on a school night, on the first school night there was. They split the check at the little terminal, and went down the steep stair with their coats on and out past the jukebox, its green water still climbing its pipes for nobody, into cold that took the breath and gave it back sharpened.
 
 The sidewalk was empty. Streetlight, their breath in it. Tuesday and Thursday, this, all spring — neither of them said it, and it stood there between them anyway, settled, a done thing nobody had ever decided.
+
+"Tomorrow," Randi said, like a present she was allowed to shake. "I can't wait to properly meet Pace. You're gone for that boy." Vee glowed, and didn't argue it. "After all you've told me, I want to see him again."
 
 "Come here," Randi said, "I'm proud of you," and kissed her goodbye — unremarkable now, only what they did, the small second press at the end of it — and then didn't quite let go, and the hug went on inside both their coats, warm in the cold, the bitter-orange of her rising off her collar. And against Vee's ear Randi giggled.
 
