@@ -28,7 +28,7 @@ The restaurant was new that fall — modern Italian, three blocks off campus, st
 
 "Up," Randi said to the girl at the front, and they went up, and got the corner booth in the loft with the whole warm room below them.
 
-They shed their coats. Vee got hers onto the hook at the end of the booth — the good olive coat, buttoned all the way down tonight, over the cream wrap. The wrap crossed low, the neckline went further south than any note-taking required, and the loose knot at her hip was the only thing on her tonight doing any controlling.
+They shed their coats. Vee hung hers on the hook at the end of the booth and turned it lining-to-the-wall as she did — there was a dark bloom on the pale satin, Friday's, that nobody had been told about yet — the good olive coat, buttoned all the way down tonight, over the cream wrap. The wrap crossed low, the neckline went further south than any note-taking required, and the loose knot at her hip was the only thing on her tonight doing any controlling.
 
 Randi took one look and put her hand to her heart.
 
