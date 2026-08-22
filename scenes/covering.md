@@ -2,9 +2,11 @@
 
 # Covering
 
-Vee got to the anthropology building twenty minutes early, which had been the plan: be there first, hold two seats, be the one waving when Randi came through the door. The corridor outside the room was warm and empty and smelled of floor wax and radiators, and she stood at the window with her bag on her shoulder and watched the last of the daylight go out of the Drillfield, the lamps coming up one by one in the blue cold, students crossing it with their chins down. First day of the semester and already full dark before class even started. She liked it. A night class had a conspiracy in it somewhere, everyone electing to be indoors together while the rest of campus went home.
+Her body swayed dangerously at the little burst of speed, and Vee made herself slow down. The new bra was doing a better job of showing her breasts off than of controlling them — pretty rather than practical, like everything from the after-Christmas sales, and she had known it when she hooked it on. She wasn't late. The opposite: she was early, only not as early as she'd meant to be, because she had spent more time dressing and redressing than any first day of class could justify. The cream wrap blouse had won in the end — the one with the blue flowers gone soft at their edges, as if someone had painted them wet — and she had tied and retied the sash until the knot sat right at her hip, tails hanging loose. Randi was always glamorous, always beautiful, and Vee was not going to sit across from that in her Tuesday clothes.
 
-At two minutes to seven she gave up on the corridor and went in, and Randi was already there.
+She had skipped the dining hall without thinking twice — confident, without any discussion, that there would be dinner after, that Randi would hear her stories over a table somewhere. Randi always made time for Vee.
+
+The plan had been twenty minutes early: be there first, hold two seats, be the one waving when Randi came through the door. What was left of the plan got her to the corridor with eight minutes in hand — floor wax and radiators, full dark already on the Drillfield behind her, first day of the semester and night down before class even started. She liked it anyway. A night class had a conspiracy in it somewhere, everyone electing to be indoors together while the rest of campus went home. At two minutes to seven she went in, and Randi was already there.
 
 Back third of the room, aisle seat, her coat folded over the chair beside her like a reserved sign, a pen already out. She'd beaten Vee by who knew how long. She looked up and found her at once — she always found her at once — and the smile that came was the one that came before anything was arranged on it.
 
@@ -26,7 +28,7 @@ The restaurant was Randi's find, three blocks off campus, a narrow old building 
 
 "Up," Randi said to the girl at the front, who knew her, and they went up, and got the corner booth in the loft with the whole warm room below them.
 
-They shed their coats. Vee got hers onto the hook at the end of the booth — the good olive coat, buttoned all the way down tonight, over the new top she'd had no sensible reason to wear to a lecture. Deep green, wrap-cut, tied at the waist, and the neckline went further south than any note-taking required. It had been on sale after Christmas and her Christmas money had been in her purse. That was the whole of the reasoning, and she'd done it in front of her mirror at six o'clock, and redone the tie twice.
+They shed their coats. Vee got hers onto the hook at the end of the booth — the good olive coat, buttoned all the way down tonight, over the cream wrap. The wrap crossed low, the neckline went further south than any note-taking required, and the loose knot at her hip was the only thing on her tonight doing any controlling.
 
 Randi took one look and put her hand to her heart.
 
