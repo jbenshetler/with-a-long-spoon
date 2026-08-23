@@ -294,10 +294,14 @@ The sidewalk was empty. Streetlight, their breath in it. Tuesday and Thursday, t
 
 Randi flinched.
 
-"—*tickles*," she said, laughing, a hand coming up to the spot and rubbing it, "I'm ticklish, girl, don't you dare weaponize that. Go home before we freeze," and she squeezed Vee's arm through the coat sleeve and turned her loose, and she went, the two of them peeling apart under the streetlight, *Thursday* thrown over shoulders in both directions.
+"—*tickles*," she said, laughing, a hand coming up to the spot and rubbing it, "I'm ticklish, girl, don't you dare weaponize that. Go home before we freeze," and she squeezed Vee's arm through the coat sleeve and turned her loose.
+
+"Thursday," Vee said.
+
+"It's a date."
 
 The walk back was six minutes with the wind behind her. Vee kept her hands in her pockets and the collar of the good coat up and went along through the lamplight with the evening loose and warm in her still, the wine, the loft, Randi's face at *he could see you were ready* — and, arriving in its own time, the small flat fact that the closing had gotten her out of it. The part after breakfast had been next. It had been in her mouth. And the chairs had gone up on the tables and it had not happened, and somewhere under her breastbone was a little unweighable stone of relief at that, which made no sense, because it was nothing, it was a funny story about a kiss that had gone sideways, she'd have told it in thirty seconds. She'd tell it Thursday.
 
 She had told Randi everything since October. She would tell her this too, obviously. Thursday.
 
-The dorm swallowed her into its dry heat, and she climbed to her floor with her cold lips and her too-good neckline under the buttoned coat, carrying the one thing she hadn't handed over, the way you carry something small in a full pocket — hardly there, mostly forgettable, all the way home.
+Vee knew it was going to be a very good semester.
