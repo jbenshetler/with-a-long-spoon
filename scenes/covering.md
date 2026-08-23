@@ -270,7 +270,11 @@ The loft had changed while she was gone. The lights over the basement stair were
 
 Vee's whole face stopped.
 
+The heat fell out of it all at once, everywhere, and the loft tilted a degree and stayed there. *She knows.* It arrived the way the blue lights had — whole, certain, out of nowhere: quick hadn't mattered, quiet hadn't mattered, she had come back up the little stair put together and glossy-eyed into a woman who could read her through a floor, and Randi had just said it out loud. At a table. In a restaurant. With a boy stacking chairs twenty feet below.
+
 "After driving out to see Pace." Randi held her eyes, pleasant as a hostess. "He took care of you, but good. Tell me I'm wrong."
+
+The floor came back under her one board at a time.
 
 "You're not wrong," Vee said, and drank the wine.
 
