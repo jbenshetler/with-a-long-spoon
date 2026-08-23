@@ -254,7 +254,15 @@ A breath.
 
 "Hold that thought," she said, and went down the little stair with her pulse in odd places.
 
-The stall had a proper latch. Her hand knew the way, and this time nobody caught it. She was quick about it, quiet, one palm flat against the cold partition — the weekend under her hand, the porch, the chair, his back refusing to turn — and when Randi's face arrived behind her eyes, the kind eyes that had stopped her cold once in the fall, she shut her own tighter and went on through them, because this was about Pace, obviously, it was all about Pace — and she went over hard, teeth set, the cry swallowed down to a breath, and stood still after, letting her ears clear. The third restroom she'd touched herself in — she counted the practice room; of course she counted the practice room. At the sink she put herself back together and promised the girl in the mirror that next time she would control herself.
+The stall had a proper latch, and she threw it.
+
+The light down here was the same hard blue as every restroom light, a light that found everything and forgave none of it, and she had stopped caring somewhere on the stairs. She didn't sit. She set one palm flat against the cold partition and slid the other in past her waistband, down, and found herself soaked — of course, always, her body a full course ahead of her permission — and there was nothing to do about the shame of that but use it.
+
+She found the small needy knot of herself and circled it, slow once, and then not slow. The weekend came with her hand: the porch and the cold and the two edges of the coat going open; the chair edge under her heel and the skillet going quiet behind her; the build came fast and mean, a whole hour of tablecloth underneath it. Her breath went to pieces against the partition. And at the top, right where the drop began, Randi's face arrived behind her eyes — the tonight face, eyes dark and liquid, asking *how much could he see* — and the question changed as it asked itself, stopped being a question at all: *He could see you were ready. There's no way he couldn't.* Her hand ran on. The face said it again — *there's no way he couldn't* — and Vee went over hard, teeth set, knees dipping, the cry swallowed down to one long breath through her nose, her whole body clenching and pulsing around nothing, her palm sliding half an inch down the cold laminate.
+
+She stood still after, hand stilled, forehead nearly to the partition, letting her ears clear, the last pulses walking themselves out under her fingers. Because that had been about Pace, obviously. All of it. About Pace.
+
+The third restroom she'd touched herself in — she counted the practice room; of course she counted the practice room. At the sink she ran the tap cold and held her wrists under it, and put herself back together, and promised the girl in the mirror — who was flushed, and glossy-eyed, and did not look the least bit sorry — that next time she would control herself.
 
 The loft had changed while she was gone. The lights over the basement stair were off, the room below half empty, a boy in an apron setting chairs seat-down onto tables along the far wall with the practiced apology of a place that would like to go home, and the check was already on the table in its little tray. Randi was pouring the last of the wine into Vee's glass.
 
