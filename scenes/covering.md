@@ -220,7 +220,7 @@ Randi topped up both glasses, unhurried, like a woman banking a fire. "Now the m
 
 Vee preened. Randi squealed and thumped both hands on the table, and somewhere below them heads turned, and neither of them cared.
 
-"That's going on your crest."
+"That's going on your crown."
 
 "And then he came home from the market and I was arranged at his counter wearing a scrunchie," Vee said, "and he stood in the door with a bag in each arm and went — " she did the level voice — " 'I got mushrooms.'"
 
@@ -232,11 +232,25 @@ Randi put her head back against the booth and laughed the real laugh, the one th
 
 "You were a public hazard."
 
-"I offered to put the sweats on. He said no so fast he stepped on the end of my sentence." Vee was flushed and laughing and a long way from campus, the tea steaming by her elbow in the telling, the morning's whole education assembling itself again in the retelling.
+"I offered to put the sweats on. He said no so fast he stepped on the end of my sentence." Vee was flushed and laughing and a long way from campus, the morning's whole education assembling itself again in the retelling.
 
 "Go back," Randi said. Her chin was in her hand. "The foot on the chair. You checked your toes — with the man right there at the stove?" Her eyes had their wickedness in them, patient. "Paint it for me. What exactly was he not looking at?"
 
-So Vee painted it: the heel set on the chair edge, the knee up, bending over her own bare leg to study the frosted plum like a woman with nothing else on her mind anywhere, the skillet going quiet behind her — and somewhere in the painting the heat stopped being remembered and was simply there, low and insistent under the silk, and the part after breakfast was next, already arriving, and she needed a minute before she could say any of it.
+"So I set my heel up on the chair edge," Vee said. "Knee up. And I bend over my own bare leg and I study the frosted plum like there is nothing else on my mind anywhere in the world. Toes pointed. Taking my time over every one of them. And behind me the skillet goes quiet."
+
+Somewhere in the painting the heat had stopped being remembered and was simply there, low and insistent under the silk.
+
+Randi reached across the table and took her hand.
+
+"How much could he see?"
+
+"Everything."
+
+"Could he see you were ready?"
+
+A breath.
+
+"Yes," Vee said, quietly — and the part after breakfast was next, already arriving, and she needed a minute before she could say any of it.
 
 "Hold that thought," she said, and went down the little stair with her pulse in odd places.
 
