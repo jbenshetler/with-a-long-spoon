@@ -210,11 +210,17 @@ Randi said nothing for a moment. Then she tipped her glass an inch toward her. "
 
 Randi topped up both glasses, unhurried, like a woman banking a fire. "Now the morning," she said. "You woke up where?"
 
-"Alone." So Vee told her Saturday. And it was easy to tell, was the strange thing, easier than it had any business being — the empty bed and the house full of the smell of bread, the sweats folded at the foot of the bed that she had looked at and left there. Padding down his hallway with nothing on and her chin up, and the thought that had carried her the first few steps — *a woman kept naked in a man's house, his for the taking, a pleasure slave* — and then the arithmetic that had turned it inside out somewhere between the bathroom and the kitchen, and she counted it for Randi on her fingers exactly as she'd counted it for herself: he brings her off first, always; he rises in the dark to set bread going; he cooks, he cleans, he was out in the January cold that very minute buying food to feed her.
+"Alone." So Vee told her Saturday. And it was easy to tell, was the strange thing, easier than it had any business being — the empty bed and the house full of the smell of bread, the sweats folded at the foot of the bed that she had looked at and left there.
 
-"So I stopped, in the hallway. Bare as the day I was born. And I thought: some slave. If anybody in that house is a pleasure slave, it is not me. I'm—" and she gave the little shimmy, right there in the booth, and it did what it had done in the hallway, and Randi barked a laugh, "—a pleasure *princess.* Not a woman kept for a man's pleasure. A woman a man keeps *in* pleasure."
+"I took a hot shower. He keeps that house toasty warm when I'm there — I'm pretty sure it's so I'll wear less. Well." She turned a palm up: exhibit A. "This time it worked better than ever. I'm standing in his house naked, waiting for him to come home, and I think — *a woman kept naked in a man's house, his for the taking. A pleasure slave.*"
 
-"Oh, that's *good*," Randi said. "That's going on your crest."
+"Vee, the pleasure slave." Randi giggled. "It has a ring to it."
+
+"That's what I thought. For about four steps. And then I start counting." And she counted it off on her fingers, for Randi to see, exactly as she'd counted it that morning. "He brings me off first — always. He gets up in the dark to set bread going. He cooks. He cleans. He was out in the January cold that very minute buying food to feed me. So I stop, in the middle of his hallway, bare as the day I was born, and I think: *some slave.* If anybody in that house is a pleasure slave, it is not me. I'm—" and she gave the little shimmy, right there in the booth, and it did what it had done in the hallway, "—a pleasure *princess.* Not a woman kept for a man's pleasure. A woman a man keeps *in* pleasure."
+
+Vee preened. Randi squealed and thumped both hands on the table, and somewhere below them heads turned, and neither of them cared.
+
+"That's going on your crest."
 
 "And then he came home from the market and I was arranged at his counter wearing a scrunchie," Vee said, "and he stood in the door with a bag in each arm and went — " she did the level voice — " 'I got mushrooms.'"
 
