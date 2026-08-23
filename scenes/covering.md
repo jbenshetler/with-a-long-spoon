@@ -284,19 +284,19 @@ The sidewalk was empty. Streetlight, their breath in it. Tuesday and Thursday, t
 
 "Tomorrow," Randi said, like a present she was allowed to shake. "I can't wait to properly meet Pace. You're gone for that boy." Vee glowed, and didn't argue it. "After all you've told me, I want to see him again."
 
-"Come here," Randi said, "I'm proud of you," and kissed her goodbye — unremarkable now, only what they did, the small second press at the end of it — and then didn't quite let go, and the hug went on inside both their coats, warm in the cold, the bitter-orange of her rising off her collar. And against Vee's ear Randi giggled.
+"Come here," Randi said. "I'm proud of you. You got what you wanted." And she kissed her goodbye, as they did — the mouth, soft, in no hurry, the small drawing-back and then the second press with its little more in it — and then didn't quite let go, and the hug went on inside both their coats, warm in the cold, the bitter-orange of her rising off her collar. And against Vee's ear Randi giggled.
 
 "What?"
 
 "When you came to my room after Christmas," Randi said, "you cried so much you made my neck wet. Right—" she brought a hand up between them and pointed, awkward, elbow pinned by the hug, at the side of her own neck, "—here."
 
-"I'm sorry for making a mess," Vee said, and without any thought at all she bent and put a light kiss where Randi pointed.
+"I'm sorry for making a mess," Vee said, and without any thought at all she bent and put a light kiss on the soft, warm skin where Randi pointed.
 
 Randi flinched.
 
 "—*tickles*," she said, laughing, a hand coming up to the spot and rubbing it, "I'm ticklish, girl, don't you dare weaponize that. Go home before we freeze," and she squeezed Vee's arm through the coat sleeve and turned her loose, and she went, the two of them peeling apart under the streetlight, *Thursday* thrown over shoulders in both directions.
 
-The walk back was six minutes with the wind behind her. Vee kept her hands in her pockets and the collar of the good coat up and went along through the lamplight with the evening loose and warm in her still, the wine, the loft, Randi's face at *I got mushrooms* — and, arriving in its own time, the small flat fact that the closing had gotten her out of it. The part after breakfast had been next. It had been in her mouth. And the chairs had gone up on the tables and it had not happened, and somewhere under her breastbone was a little unweighable stone of relief at that, which made no sense, because it was nothing, it was a funny story about a kiss that had gone sideways, she'd have told it in thirty seconds. She'd tell it Thursday.
+The walk back was six minutes with the wind behind her. Vee kept her hands in her pockets and the collar of the good coat up and went along through the lamplight with the evening loose and warm in her still, the wine, the loft, Randi's face at *he could see you were ready* — and, arriving in its own time, the small flat fact that the closing had gotten her out of it. The part after breakfast had been next. It had been in her mouth. And the chairs had gone up on the tables and it had not happened, and somewhere under her breastbone was a little unweighable stone of relief at that, which made no sense, because it was nothing, it was a funny story about a kiss that had gone sideways, she'd have told it in thirty seconds. She'd tell it Thursday.
 
 She had told Randi everything since October. She would tell her this too, obviously. Thursday.
 
