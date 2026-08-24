@@ -2,6 +2,8 @@
 
 *Scene (Cassie-short) · **Sun Jan 17, night** — the dorm room, after the {{Nothing Underneath}} return coda · Draft complete · Vee POV · sits {{Back}} (Sun afternoon) → here → {{Across}} (Mon) · beats workshopped 2026-08-20*
 
+> **⚠ FALSE RECORD ON THE PAGE — read before citing this chapter as fact.** The laundry story Vee tells Cassie is a **lie**: there was no bag, **no cranberry sweater, no good pants** — none of it ever existed; she drove out with nothing and was naked all weekend (author ruling 2026-08-22; beat 4 below). The lie stands uncorrected on the page **by design** — Cassie sees through it and lets it stand ("the record stood exactly where Vee had left it"). Do not treat the sweater, the pants, the ruined laundry, or the "left it in the car" bag as events anywhere in the corpus — no replacement sweater, no callback to a garment that never was. (This trap has already caught one drafting session, 2026-08-23.)
+
 ## What this scene is
 
 The cool-down and the grounding — Volume Two's first beat back in Vee's own world after {{Forbidden Kiss}} and {{Back}}. The happy reunion with Cassie, both freshly returned (Cassie "not due back till the weekend," `my-friend-randi.md:11` — her duffel half-emptied; **both of them unpacking**, the title's innocuous surface; the second read is the weekend unpacked minus one item). Picks up *after* the "Hmm" — the return itself stays Volume One's closing image and is never re-shown. Vee showered, night clothes and robe, back in her own skin (the wardrobe arc's landing: bare Saturday → bare Sunday → his sweats to leave → **her own robe here** → her own clothes Monday).
