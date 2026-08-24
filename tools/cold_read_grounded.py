@@ -88,9 +88,16 @@ def reader_slugs() -> list[str]:
     NOTE: only chapters flagged 'Draft complete' in the chronology are included, so
     planning-only chapters between Vol 2 drafts are (unavoidably) skipped — the reader
     will see narrative gaps where unwritten chapters belong. The oracle battery
-    deliberately stays on vol1_slugs()."""
+    deliberately stays on vol1_slugs().
+
+    Drafted Vol 3 chapters are appended after Vol 2 (author ruling 2026-08-23) so they
+    are cold-readable before the Vol 3 checkpoint machinery exists. Appending never
+    shifts a Vol 1 or Vol 2 index. There is no ck past ck-ch050 yet, so a Vol 3 read
+    must run with --decade 50 (boundary stays at ck-ch050 + the full raw Vol 2 window);
+    the default decade 10 would demand a nonexistent ck-ch060."""
     vol2 = checkpoint_bundle.volume_scenes.scenes_for_volume(2, drafted_only=True)
-    return vol1_slugs() + [s["slug"] for s in vol2]
+    vol3 = checkpoint_bundle.volume_scenes.scenes_for_volume(3, drafted_only=True)
+    return vol1_slugs() + [s["slug"] for s in vol2] + [s["slug"] for s in vol3]
 
 
 def boundary(n: int, decade: int) -> int:

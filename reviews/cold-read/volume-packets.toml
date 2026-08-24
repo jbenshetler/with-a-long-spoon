@@ -56,3 +56,13 @@ The jacket / blurb page:
 > Vee is a willing player in two games. She doesn't know there are three.
 >
 > *Book Two of* With a Long Spoon. *Literary erotica for readers of Anne Rice's* Beauty *trilogy who want it contemporary and psychologically exact — full heat and full tenderness, a woman coming awake to a man and to the woman beside her, every open door her own to walk through.*'''
+
+# Volume 3: TITLE-ONLY card (author ruling 2026-08-23). No jacket/blurb/tagline has
+# been drafted for Volume 3, and the volume title is still a working title (A Hot Meal;
+# alternate A Proper Serving — meta/meta-blurb.md line 143). The reader gets cover-board
+# fact only — series + working volume title — so a Vol 3 chapter can be cold-read as the
+# Vol 3 chapter it is (not mis-framed as Vol 2) while carrying no marketing copy. Replace
+# with the full jacket once the Vol 3 blurb exists and the title is decided.
+[volumes."3"]
+opening_slug = "ignition-scalding"
+packet = '''On the cover: the series line **WITH A LONG SPOON · BOOK THREE**, the volume title **A HOT MEAL**, and the author **Helen Rivers**. (No tagline on the front — it is the blurb page's closing beat.)'''

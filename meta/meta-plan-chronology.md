@@ -463,13 +463,13 @@ The bench returns (opening payoff), now under Vee — *used on only two women, R
 
 ## Summer (Book 3 — A Hot Meal, working)
 
+### [SCENE] Scalding Jealousy Ignition
+*~June* · Draft complete · `ignition-scalding.md` · Pace POV · [craft](meta-note-ignition-scalding.md) · slug: ignition-scalding · present: Pace, Randi, Vee
+Diptych, Pace's POV — the first drafted Volume Three chapter, hard on the heels of {{Vee on the Bench}}. Sunday: Randi post-coital with Pace, negotiating back time she ceded to Vee, accidentally says *"I can't wait to taste her"* — the subordinate position she didn't know she was requesting; Pace gives her Tuesday without a fight. Tuesday: Vee leaves at eleven, comforted; Randi arrives at midnight in full seduction and smells Vee on Pace — the transgression she came for. She drops to her knees for the taste of *him* and finds Vee's instead — unwashed, kept on him on purpose. The recognition breaks (not his → a woman → Vee) into shame and arousal at once, and she proceeds anyway; Pace, who left Vee on himself as a surprise gift, watches it land. Ends blank-faced and wrecked (the aftermath's open, un-closing hand). **Ignition-1** — Randi's scalding jealousy breaks here — and the canonical containers *Scalding model* (the camera honestly inherits Pace's blindness). Design: `meta-note-ignition-scalding.md`.
+
 ### [SCENE] The Sheer Dress Brunch + The Dressing Room (Format Break)
 *~early June* · Unwritten · FB · [detail](meta-condensed-sheer-dress-brunch.md) · slug: sheer-dress-brunch-the-dressing-room · present: ?
 Randi braless in sheer fabric; explicit story (never resolved); first crack where the writing-off needs effort. Dressing room: Randi offers to *buy her one* — money as power. The nipple tweak = control-slip. Drive-home reckoning. **Volume Three / the rupture opens here** — hot, and the first crack in writing Randi off.
-
-### [SCENE] Scalding Jealousy Ignition
-*~June* · Draft complete · `ignition-scalding.md` · slug: ignition-scalding · present: Pace, Randi
-Diptych. Sunday: Randi post-coital with Pace, negotiating more time, accidentally says *"I can't wait to taste her"* — the subordinate position she didn't know she was requesting. Pace gives her Tuesday without a fight; she registers she's been heard deeper than she aimed. Tuesday midnight: Vee leaves; Randi arrives in full seduction and smells Vee on Pace. She drops to her knees and removes every trace of Vee from him. The pleasure is involuntary — her body votes ahead of her decision. Ends blank-faced and wrecked. Pace's POV throughout. *(Internal timeline references to "October" need reconciliation at final draft.)*
 
 ### [SCENE] Vee Tells Randi About the Bench
 *~late June · post-Ignition · SATC · Vee POV* · [detail](meta-condensed-vee-tells-randi-bench.md) · slug: vee-tells-randi-about-the-bench · present: ?
