@@ -1866,6 +1866,27 @@ text = "It's the thing that makes all the rest of you read the way it does."
 note = "Pace's dialogue — his cataloguing cadence as he names her body; voice, not narrative telling. Do not sanitize."
 
 [[ok]]
+fp   = "9ec123f2fb75"
+rule = "filter-verbs"
+file = "scenes/hangover.md"
+text = "She saw the campus empty around him one Thanksgiving, just for a second, and then set the image down before it could become something he'd have hated her for feeling."
+note = "Filter verb load-bearing: marks Vee conjuring the holiday image then setting it down (the coda's restraint move). Author-approved 2026-08-23."
+
+[[ok]]
+fp   = "b3d04e68ded8"
+rule = "there-was-were"
+file = "scenes/hangover.md"
+text = "Not the lecture hall — a seminar of eight, and him the youngest in the room by a decade, a patent already paying and a house already his off a gravel road, teaching himself to cook because there was no dining hall and no one to eat with."
+note = "Natural existential in Vee's inference. Author-approved 2026-08-23."
+
+[[ok]]
+fp   = "53799b72e22d"
+rule = "x-not-y"
+file = "scenes/hangover.md"
+text = "He would not have sat in a single class with one person his own age — not one room, not one hour of that whole shared, starting year."
+note = "Deliberate anaphora ('not one room, not one hour') — intended emphasis, not tic. Author-approved 2026-08-23."
+
+[[ok]]
 fp   = "307ec8bd8058"
 rule = "a-small"
 file = "scenes/hills-and-valleys.md"
