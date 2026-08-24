@@ -144,9 +144,9 @@ The question walked straight into the shame of it and stood there.
 
 He gave her three strokes for it — one, and a second, and a third, deep and unhurried — and they landed right in the middle of her trying to say the rest, so that "the room seeing me like that, her hands making me—" came apart in her mouth, broken over what he was doing to her, and she lost the room for a whole second, lost everything but the two facts of him moving in her and the thing he was drawing it out of.
 
-And then — with her open and ready and the last of it right there to give — he stopped. Held her still. The denial doubled the wanting: how completely he had her, how he'd taken the whole tangle and narrowed it to this — difficult, but at least clear.
+And then — with her open and ready and the last of it right there to give — he stopped. He wouldn't let her finish it, or move, or come. The disappointed sound that got out of her had something else all the way through it.
 
-He wouldn't let her finish it, or move, or come. The disappointed sound that got out of her had something else all the way through it.
+The denial doubled the wanting: how completely he had her, how he'd taken the whole tangle and narrowed it to this — difficult, but at least clear.
 
 "Then Harrison." Back to the exits — the joke, the show, the safe shape of it — and she felt his hands settle, ready to stop her the instant she tidied. "She said, let's put on a show, make him wish he were me. And she turned me around and took a — a handful. Of me. Grinning right at him. A bit. A punchline."
 
