@@ -1873,6 +1873,13 @@ text = "She saw the campus empty around him one Thanksgiving, just for a second,
 note = "Filter verb load-bearing: marks Vee conjuring the holiday image then setting it down (the coda's restraint move). Author-approved 2026-08-23."
 
 [[ok]]
+fp   = "250667e636cd"
+rule = "there-was-were"
+file = "scenes/hangover.md"
+text = "Not the lecture hall — a seminar of eight, and him the youngest in the room by years, teaching himself to cook because there was no dining hall and no one to eat with."
+note = "Natural existential in Vee's inference; re-armed only because a seam-cut reworded the sentence. Author-approved 2026-08-24 (re-ack of prior b3d04e68ded8)."
+
+[[ok]]
 fp   = "b3d04e68ded8"
 rule = "there-was-were"
 file = "scenes/hangover.md"

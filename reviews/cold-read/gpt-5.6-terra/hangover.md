@@ -4,29 +4,31 @@
 
 ## Reader reaction
 
-I came into this with the soft, funny expectation of Vee waking cared for after a messy night, and that part absolutely got me: the water on the paper towel, the undershirt, the robe, cinnamon-raisin bread, Pace saying, “You need to eat before you decide how you feel.” It is such a complete little world of care. I felt warm toward him immediately, and Vee’s dazed appreciation made me laugh.
+This one left me quiet. I came in still warm from Sheri—how completely Vee’s jealousy collapsed into relief and genuine liking—and the first pages gave me that particular ache of Pace’s care: the water placed exactly where she’ll find it, the paper towel protecting the wood, the pills, his shirt swallowing her to the knees, bread quietly made while she sleeps. It’s almost absurdly tender that her hangover is something he has already anticipated and handled. “You need to eat before you decide how you feel” made me melt. He knows her body well enough to give it time before asking anything of her mind.
 
-Then it turns. Pace having only Sheri is lonely in a way I had not fully let myself feel before. His explanation is so flat and practical that it hurts more: “That door’s on a timer”; “It isn’t tragic. It’s just a door that didn’t open.” I believe he believes that. Vee’s recognition that he had been given a grown life before he had the ordinary scaffolding for one landed hard. I felt fiercely tender toward him there, without suddenly treating him as solved.
+I liked Vee’s easy admission that Sheri’s look had pleased her, and Pace’s calm “That way too.” It feels unusually unguarded between them—no shame imposed, no teasing made cruel. Sheri is warmer to me now than ever: she appears only in Vee’s remembering here, but she has opened a door Vee genuinely wanted open.
 
-Vee is especially good in this chapter because she doesn’t make his disclosure into a performance of comfort. She comes around the counter and holds him. That restraint felt true. The final image—both of them quiet, bread cooling, the bright wrong snow-light—is beautiful and sad without forcing either emotion.
+Then Pace saying Sheri is his one friend landed like a floor dropping out. I believe him because he doesn’t make it dramatic; that is what makes it hurt. His theory that friendship has a timed window feels too absolute, and yet the page earns why he has come to believe it. The questions he names—Christmas, parents, bringing someone home—are such ordinary social currency, and the “gap under” each one suddenly makes his isolation feel painfully practical rather than abstract.
 
-The title “Hangover” is literal, but it also feels like the chapter’s emotional aftermath: the delayed realization of what last night, and all the earlier fragments about Pace, have been carrying. It does not give anything away; it initially made me expect a lighter recovery chapter, then deepened wonderfully. The cover-board line, *WITH A LONG SPOON · BOOK TWO — A WARM RECEPTION*, still promises warmth and hospitality, and this chapter makes that warmth feel more complicated: Pace can build a refuge with remarkable care while having almost nowhere else to take himself. No tagline was supplied.
+Vee’s thinking about Daphne is the chapter’s hardest, most honest stretch for me. She tries to honor what Pace says those years meant to him without losing sight of the wrongness she cannot yet name. I’m glad the page lets both truths stay difficult instead of tidying them into either “it was all bad” or “it was luck.” I feel more protective of Pace, but not in a way that excuses the harm implied there. And I feel wary of what it means that Vee is now seeing herself as someone who might fill every empty place in him. Her hug is exactly right because she doesn’t make him perform pain for her or rush to repair it with words.
 
-I want to keep reading because I want Vee to understand what she has just learned without deciding she must become Pace’s whole world. I also dread, as a guess from here, the pressure that could put on their newly named relationship.
+“Hangover” is literal—the late light, the gravel voice, water and eggs—but it also feels like the morning-after reckoning for the whole bright sequence: Vee meets Sheri, sees Pace welcomed by her friends, and wakes into the cost of how alone he has been. The volume title, *WITH A LONG SPOON · BOOK TWO — A WARM RECEPTION*, still promises hospitality, food, warmth, and entry into each other’s worlds. This chapter makes that welcome feel more charged: Vee has brought Pace into her circle, but he may not know how to belong to one.
 
-**Cast present (in person):** Vee; Pace.  
-**Mentioned only:** Sheri; Daphne; Randi; Cassie; Meg; Kayla; Theo.
+I want to keep reading because I want this new knowledge to change something—not by turning Vee into Pace’s sole shelter, but by letting him be known more fully. My guess from here is that his isolation will matter more than either of them can comfortably admit.
 
-**Heat:** 1 — the charge is mostly residual, in Vee remembering Sheri’s appreciative look and Pace calmly acknowledging it.
+**Cast present (in person):** Vee, Pace.  
+**Mentioned-only:** Sheri, Daphne, Meg, Kayla, Cassie, Randi, Theo.
 
-**Romance:** 2 — Pace’s practical morning care and Vee’s silent, full-body hug are deeply intimate.
+**Heat:** 0 — the charge is domestic tenderness and emotional exposure, not erotic wanting.
 
-**Motifs & images:** Repeat: food and being fed (water, tea, eggs, bread); warmth/cold (cold side of the bed, robe, wrong winter light); hands and care; friendship as shelter. Repeat: the quarter-turn of a glass/mug, now attached to what Pace cannot say.
+**Romance:** 2 — water, bread, food, and the long wordless embrace make the intimacy unmistakable.
 
-**Symbolism:** The counter begins as necessary distance for Vee’s hangover, then becomes the boundary she crosses to hold him. The bread cooling while they stand together feels like care continuing without needing to be announced.
+**Motifs & images:** Repeat: food and being fed (hangover bread, tea, eggs); warmth/cold (his bed and robe against wrong late-morning light); the kitchen and his back at the sink; friendship as belonging; the missing “home” questions. First: melted ice water and the “gap” beneath ordinary social questions.
 
-**Characterization:** Pace deepens sharply: socially capable but profoundly isolated, and practiced at making that isolation sound ordinary. Vee deepens through her attention; she sees the shape of his life without claiming to fix it.
+**Symbolism:** The bread and water feel like Pace’s version of care made tangible; the counter initially holds distance, then Vee walks around it to embrace him.
 
-**Pace — within the chapter:** It earns its slow movement from domestic comedy into quiet hurt; the long explanation never felt overextended.
+**Characterization:** Pace deepens sharply: attentive, socially capable, and profoundly isolated without apparently seeing himself as tragic. Vee deepens in the restraint of her response; she understands more without claiming she can solve it.
 
-**Pace — chapter to chapter:** Building. After the public naming of “boyfriend” and the warm group dinner, this gives that happiness a vulnerable underside.
+**Pace — within the chapter:** Deliberate and still, but the slow accumulation earns the final silence.
+
+**Pace — chapter to chapter:** Building—the joyful meeting-with-friends run now opens into the loneliness beneath Pace’s ease.
