@@ -64,7 +64,7 @@ He stopped at the corner.
 
 Up close he was nothing her eye would have caught in a crowd — a pleasant, ordinary face, light brown hair cut short and easy, not one feature in it that asked for a second look. No individual part of him was particularly impressive but the whole of him was, and she could not say how. She only felt the room settle a half-degree around where he stood. Then he smiled at her, and it was only at her — a smile that seemed to have picked her out of the whole day and decided she was the reason it had come across the room. She felt, absurdly, chosen.
 
-Beside her, Randi's hand moved to her coffee cup. Vee did not see the movement. Vee was looking at the man who was looking at her.
+Beside her, Randi's hand moved to her coffee cup. Then Vee looked at the man who was looking at her.
 
 "Pardon me," he said. "It sounds like you're having trouble with math. Can I help?"
 
@@ -146,11 +146,9 @@ The thought did not finish. She was already smiling at him. He was already sayin
 
 "Sure."
 
-He turned back to Vee. Vee filed it without filing it: *he answered her well, the way you'd answer anybody, and he answered me longer. He is here for the math help. He is also—*
+He turned back to Vee. Beside her, Randi's hand went to her coffee cup, held it with both hands a second longer than the sip required, then set it down. Vee filed it without filing it: *he answered her well, the way you'd answer anybody, and he answered me longer. He is here for the math help. He is also—*
 
 The thought did not finish that one either.
-
-Randi picked up her coffee and took a small sip. She held the cup with both hands for a second longer than the sip required, then set it down. Cassie, at her table, watched the cup without watching it.
 
 "What are you studying?" Pace said. "Apart from stats."
 
