@@ -81,9 +81,15 @@ below against those. Companions: `meta-plan-free-sample.md` (discovery funnel),
   maturity** (more than erotic romance gives), **warmth** (not prestige's
   cold/cruel/detached register). Every adjacent lane maxes two and drops the third —
   erotic romance (explicit + warm, shallow); prestige literary (explicit + interior,
-  cold); upmarket/Rooney/*Acts of Service* (interior + warm-ish, under-explicit: *cold
-  + smart − explicit*). The book is the sole occupant of the corner high on all three.
-  Comp shelf owned by `meta-blurb.md`.
+  cold). **Upmarket/Rooney/*Acts of Service* reclassified (2026-08-23):** not a filled
+  corner after all — author reread-judgment finds Fishman clinical rather than warm,
+  plotless, and argument-less (see `meta-blurb.md`'s comp shelf), so it's an anti-comp,
+  not an occupant; the interior+warm/under-explicit corner was never actually filled.
+  **Antonia Angress's *Sirens and Muses* (recorded 2026-08-23, provisional) is the
+  closest thing found to it** — warm, textured, less explicit — and doubles as a
+  second reader vector: college-novel/art-world/book-club lit-fic BookTok and
+  Bookstagram, a different lane than romance-up (see below). The book remains the sole
+  occupant of the corner high on all three axes. Comp shelf owned by `meta-blurb.md`.
 - **Primary reader vector: up from erotic/dark romance, not down from literary.**
   Primarily women who've read widely in spicy romance and want depth and emotional
   maturity without losing the heat, and who don't want prestige's coldness. She lives

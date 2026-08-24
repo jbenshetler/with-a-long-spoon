@@ -15,7 +15,7 @@
 # refresh this inline copy. Stamp before syncing the text and the packet will
 # serve stale copy while reporting "in sync."
 
-blurb_source_sha256 = "f704f864519b75ff2f5343e88fe4da192bee987f3ebcf9a88801894297de8948"
+blurb_source_sha256 = "2cadac935566bad0751fee369b24756167ebd867dd100e8dfe3a2da0067012f9"
 
 [volumes."1"]
 opening_slug = "the-bench"
