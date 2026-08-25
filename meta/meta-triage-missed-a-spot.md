@@ -1,6 +1,6 @@
-# Triage — Forbidden Kiss (cold-read panel + scene review)
+# Triage — Missed a Spot (cold-read panel + scene review)
 
-*Scene: `forbidden-kiss.md` (ch 51, Volume Two opener, Sat Jan 16). Sources: the full
+*Scene: `missed-a-spot.md` (ch 51, Volume Two opener, Sat Jan 16). Sources: the full
 6-model grounded panel of 2026-08-19 (fable, opus, sonnet, gpt-5.5, sol, terra — all
 heat-3; fable and opus called it the strongest sex in the book), plus the
 `/wals-scene-review` pass of 2026-08-19. Panel reviews predate the post-panel line-edit
@@ -12,6 +12,33 @@ kiss, coffee-scowl memory, "Sara" from his phone, month-not-six-weeks, legs rest
 wave descent / toe ceremony / single pause behind the knee / tiling-as-answer).
 Scores held: Heat 3 unanimous, Romance 2 unanimous (devotion in acts, no declaration).
 Validations and residuals below.*
+
+## Title (author ruling 2026-08-24 — supersedes the 2026-08-20 retention)
+
+Renamed **"Forbidden Kiss" → "Missed a Spot."** The former title was retained on
+2026-08-20 for its validated Randi-shaped misdirect (see the title-telegraph items in
+Residuals and Confirmed positives below — those pertain to the **former** title and are
+kept as the record that justified holding it). Reweighed against the title engine: by
+the engine "Forbidden Kiss" names the central act + its quality (the anti-pattern), and
+was carried only by a misdirect the chapter *body* already delivers on its own (the
+closing Randi pivot under Randi's blanket — a Confirmed positive). "Missed a Spot"
+clears the telegraph floor cleanly — it names the sink-pretext *frame* (Vee's dishwashing
+line, `:97`), not the hinge — and detonates in three layers on reread: the gate she
+pointed at and swerved from, the spot *he* missed wiping off his lip (the Leak's seed),
+and the untasted feminine pole of the breakfast parallel. It reaches the chapter's final
+image (her probing for a spot she can't confirm) and opens a productive domestic-idiom
+staircase into {{A Clean Plate}} ("the spot left undone" → "the plate she's made to
+finish"). Cost knowingly spent: the Randi-shaped expectation the old title planted, now
+carried by the body alone; and it is a dialogue-quotation title (minority form —
+cf. {{The Usual}}, {{Barely Stings}}). *Echo-check ruled out "Wakes the Fruit": it names
+the withheld feminine pole (telegraph), reads symbolically on first pass, pre-echoes
+{{The Peaches}}, and thickens an already food-heavy January title run.*
+
+**Reviews kept at the old slug (deliberate).** The 6-model panel + interview files under
+`reviews/cold-read/**/forbidden-kiss*.md` are historical reactions to the scene *as
+titled "Forbidden Kiss"* — left unrenamed so the record (and the triage citations that
+lean on it) stays truthful; a future panel on "Missed a Spot" writes fresh files under
+the new slug.
 
 ## Panel-validated (2026-08-20 re-run)
 
@@ -36,7 +63,8 @@ Validations and residuals below.*
 *Author ruling 2026-08-20: items 1–3 below (sonnet's climax-mechanics note, opus's
 "That's the plan" wink, fable's gladiator blink) are accepted **as long as each stays
 confined to its same model(s)** — if any widens to additional readers on a future
-panel, reconsider. The title-telegraph item is closed as the title working: fable and
+panel, reconsider. The title-telegraph item [former title "Forbidden Kiss"; title since
+superseded — see Title, top] is closed as the title working: fable and
 opus explicitly braced for Randi and praised the misdirect, sonnet forgot the title
 until it landed, and sol/terra praised the destination after feeling the wait — the
 Randi-shaped expectation is itself the plant.*
@@ -57,7 +85,7 @@ needs." The arc rungs (coronation, kingdom-proof, hallway picture, gladiator,
   it").
 - Sol/terra: the title telegraphs that a kiss-boundary is coming — both then praise
   the misdirect (the forbidden thing is the installed voice, not a person). The title
-  trap working at its known cost.
+  trap working at its known cost. *(Former title "Forbidden Kiss" — superseded 2026-08-24.)*
 
 ## Fixed (with commits)
 
@@ -177,3 +205,5 @@ needs." The arc rungs (coronation, kingdom-proof, hallway picture, gladiator,
 - The pointing ladder's control gradient (definite → seeming → incomplete) — sol: "her
   authority includes being overwhelmed."
 - The title's trap and the pointing-game echo clocked on reader memory, unforced.
+  *(Title-trap finding pertains to the former title "Forbidden Kiss"; renamed to "Missed
+  a Spot" 2026-08-24 — see Title, top.)*

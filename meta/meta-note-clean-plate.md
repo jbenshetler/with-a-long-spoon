@@ -22,7 +22,7 @@ Two nights after {{Covering}} (the withheld half, the mirror promise, "You're no
 
 ## Guards
 
-- **Movement two carries the surface event only** — the post-coital wondering stays private to {{Forbidden Kiss}}; the conflation is never analyzed; every question and answer stays on the *taste*, never on what kissing-him-after means.
+- **Movement two carries the surface event only** — the post-coital wondering stays private to {{Missed a Spot}}; the conflation is never analyzed; every question and answer stays on the *taste*, never on what kissing-him-after means.
 - **Randi volunteers nothing anywhere in the scene** — verdict at Vee's asking; disclosures only as answers; one question back ("How does he act?"); no summation, no return. Her one unforced move of the evening is the lean-away in beat 7.
 - **The trailing excuse must never attach syntactically to the kiss** — no narrated causation ("kissed her there, for the advice"); sequence and a breath only; the reader supplies the manufacture. The thanks names the evening, not the kiss.
 - **The spot is the side of the neck where the crying wet it** — wording must match `my-friend-randi.md:19,21` and {{Covering}}'s "the side of her own neck"; the spot's identity is the rung's meaning. Do not drift to a new location word.
@@ -39,7 +39,7 @@ Two nights after {{Covering}} (the withheld half, the mirror promise, "You're no
 
 ## Drafting-time lookups
 
-- {{Forbidden Kiss}} scene + note: the resumed story must match the drafted Saturday morning event-for-event on its surface.
+- {{Missed a Spot}} scene + note: the resumed story must match the drafted Saturday morning event-for-event on its surface.
 - Randi's fall taste-framings: the interrogation's testimony should be recognizably her known song (cadence or a key phrase), not a new move.
 - Post-compression {{Among Friends}}: invent the enhanced Kayla/Meg details *after* the author's edit lands, so the two scenes split the material cleanly.
 - Adjacency to keep in view: {{Grace}}'s tell-me protocol (Pace) — not in this scene, but the taste/object terrain this dinner opens is where that protocol will later bite.

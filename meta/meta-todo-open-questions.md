@@ -215,7 +215,7 @@ A research sub-agent auto-wrote `spring-satc-gap.md` into the project memory dir
 
 The Vee-tells-Pace beat is **{{Boyfriend}}** (drafted; the small hours after {{On Her Floor}}). Because the Randi mixer-kiss **isn't** cheating (`meta-condensed-on-her-floor.md`), Vee can bring it to him; it turns hot, and — *afterward*, cooled — Pace asks whether she's thought about being with a woman. Vee's *"I'm not gay"* door-slam takes the **just-happened Randi kiss** as its concrete referent; she lies (denies wanting a woman) and accuses him (*you want Randi*) — her Vol-2 moral-agent turn — and Pace **defends himself** for the first time in the book (hairline crack, warmth holds). Full staging: `meta-condensed-boyfriend.md`.
 
-**Canon order (do not re-invert):** {{Forbidden Kiss}} is **self-motivated** and **precedes** {{Boyfriend}} by two weeks (FK is the reconciliation-weekend opener; the mixer weekend falls two weeks later). {{Forbidden Kiss}} does **not** carry *"I'm not gay,"* and {{Boyfriend}} does **not** motivate its coated kiss — the two door-slams are an **escalation, not an echo** ({{Forbidden Kiss}} = bodily *"gross"*; {{Boyfriend}} = verbal *"I'm not gay"*). The chronology owns placement.
+**Canon order (do not re-invert):** {{Missed a Spot}} is **self-motivated** and **precedes** {{Boyfriend}} by two weeks (FK is the reconciliation-weekend opener; the mixer weekend falls two weeks later). {{Missed a Spot}} does **not** carry *"I'm not gay,"* and {{Boyfriend}} does **not** motivate its coated kiss — the two door-slams are an **escalation, not an echo** ({{Missed a Spot}} = bodily *"gross"*; {{Boyfriend}} = verbal *"I'm not gay"*). The chronology owns placement.
 
 -----
 

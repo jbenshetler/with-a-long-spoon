@@ -1,6 +1,6 @@
 # Note — Back (the kitchen panel, promoted)
 
-*Scene · **Sun Jan 17** — afternoon/early evening, the reconciliation weekend's last day, Pace's kitchen · promoted from {{Among Friends}}'s opening panel (moved 2026-08-19; prose extracted from `among-friends.md:1–68` → `back.md`) · before the {{Nothing Underneath}} Sunday dorm-return coda, which stays Volume One's closing image and is never re-shown · Vee POV · sits between {{Forbidden Kiss}} (Sat) and {{Unpacking}} (Sun night) → {{Across}} (Mon)*
+*Scene · **Sun Jan 17** — afternoon/early evening, the reconciliation weekend's last day, Pace's kitchen · promoted from {{Among Friends}}'s opening panel (moved 2026-08-19; prose extracted from `among-friends.md:1–68` → `back.md`) · before the {{Nothing Underneath}} Sunday dorm-return coda, which stays Volume One's closing image and is never re-shown · Vee POV · sits between {{Missed a Spot}} (Sat) and {{Unpacking}} (Sun night) → {{Across}} (Mon)*
 
 ## What this scene is
 
@@ -8,7 +8,7 @@ The planning machine for {{Among Friends}}, now its own chapter inside the recon
 
 ## The Sunday staging (rulings 2026-08-19)
 
-- **She is naked — named once, never commented on.** The Saturday declined-sweats choice ({{Forbidden Kiss}}: the folded sweats declined, bare by choice) still standing on Sunday. One plain naming, a coy smile at most as acknowledgment, and the prose never returns to it — the domestic-ordinary register *includes* her bareness, uncommented; that is what colors the weekend. Never editorialize, never let the narration glance back at it.
+- **She is naked — named once, never commented on.** The Saturday declined-sweats choice ({{Missed a Spot}}: the folded sweats declined, bare by choice) still standing on Sunday. One plain naming, a coy smile at most as acknowledgment, and the prose never returns to it — the domestic-ordinary register *includes* her bareness, uncommented; that is what colors the weekend. Never editorialize, never let the narration glance back at it.
 - **The sweats appear only at the leaving edge.** She dresses in his sweats to go — the canon return outfit ({{Nothing Underneath}} coda: coat, his sweats, heels) — at or past the chapter's edge, offstage or as the last gesture. The weekend's arc told in wardrobe, never narrated: bare Saturday → bare Sunday → his sweats to leave → her own robe that night ({{Unpacking}}) → her own clothes Monday ({{Across}}).
 - **Ends at Pace's.** The dorm return stays Volume One's close.
 - **Register guard.** The kitchen was chosen over the bedroom because the bedroom is the wrong register — the panel wants the planning machine legible as domestic, not erotic. The nakedness must not tilt it: forward-leaning planning-energy, a couple planning a thing, her body simply the weather of the weekend. If the prose starts working the skin, it's wrong.
@@ -35,6 +35,6 @@ Not the bedroom (wrong register), not the sun porch (that's where the quiet, wei
 
 ## Threads & seeds
 
-- **Taste thread: carry nothing.** {{Forbidden Kiss}} (the day before) hosts gate #1; this scene stays clean.
-- **Weekend continuity in:** the declined sweats and the pleasure-princess register from {{Forbidden Kiss}}; the plan-to-tell-Randi is already lit in Vee (post-coital, Saturday) — it may color her Randi-fullness here but is never staged.
+- **Taste thread: carry nothing.** {{Missed a Spot}} (the day before) hosts gate #1; this scene stays clean.
+- **Weekend continuity in:** the declined sweats and the pleasure-princess register from {{Missed a Spot}}; the plan-to-tell-Randi is already lit in Vee (post-coital, Saturday) — it may color her Randi-fullness here but is never staged.
 - **Out:** {{Unpacking}} (Sun night — the edited account to Cassie; the dinner Cassie's been conscripted into, not yet raised); {{Across}} (Mon — the Meg/Kayla invitations); {{Among Friends}} (Wed — the roadhouse).

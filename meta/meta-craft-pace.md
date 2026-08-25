@@ -125,7 +125,7 @@ Pace is not solemn about sex. He has a genuine sense of humor and a light, good-
 
 ## Consent by Reading, Not by Clearance
 
-Pace mostly asks without asking: the question is in the act, the answer in her body. Low on the staircase he states a fact and leaves a door (*"the bra changes the line,"* then waits); higher up he acts on a confident read of an embodied yes already given (the unwiped kiss at {{Forbidden Kiss}}) — never on verbal pre-clearance. Always asking *"may I?"* makes him tentative, and tentative kills the heat; the charge is his *knowing* — reading her response ahead of her voiced permission (the *being seen responding* that is her excitement), not his overriding.
+Pace mostly asks without asking: the question is in the act, the answer in her body. Low on the staircase he states a fact and leaves a door (*"the bra changes the line,"* then waits); higher up he acts on a confident read of an embodied yes already given (the unwiped kiss at {{Missed a Spot}}) — never on verbal pre-clearance. Always asking *"may I?"* makes him tentative, and tentative kills the heat; the charge is his *knowing* — reading her response ahead of her voiced permission (the *being seen responding* that is her excitement), not his overriding.
 
 **White-side only when all four hold:** a real body-yes first (he extends what her response already shows, never acts against a legible no); a real door (a beat where she could pull back and he'd stop — leading, not trapping); staircase-calibrated (one riser up from what she's shown she wants, never a cold jump); and it is *her* rule she breaks, of her own free will (the appetite's exact operation). Any one failing tips it gray→black.
 

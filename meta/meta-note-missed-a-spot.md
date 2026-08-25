@@ -1,6 +1,8 @@
-# Notes — Forbidden Kiss
+# Notes — Missed a Spot
 
-*Companion to the planned scene and its condensed (`meta-condensed-forbidden-kiss.md`). Holds the craft intent deliberately not on the page. This scene is **taste-thread gate #1** — read it alongside `meta-note-taste-thread.md`, which governs the whole arc and its tone.*
+*Companion to the planned scene and its condensed (`meta-condensed-missed-a-spot.md`). Holds the craft intent deliberately not on the page. This scene is **taste-thread gate #1** — read it alongside `meta-note-taste-thread.md`, which governs the whole arc and its tone.*
+
+*Title (renamed 2026-08-24, was "Forbidden Kiss"). Surface: Vee's dishwashing pretext at the sink (`:97`), a domestic inspection. Charge (reread): the "spot" is the taste-crossing she pointed at and swerved from all morning; the spot **he** missed wiping off his lip (the Leak's seed); the untasted feminine pole of the breakfast parallel — and, at the last, the trace she probes for and can't confirm. Names the frame, not the hinge; clears the telegraph floor the old title only cleared via a spent Randi-misdirect (which the chapter body carries on its own). Staircases into {{A Clean Plate}}. Full rationale + the superseded ruling: `meta-triage-missed-a-spot.md`, Title.*
 
 ---
 
@@ -10,7 +12,7 @@ The Refusal, on the page: the first gate where the self-taste taboo trips and th
 
 ## Self-motivated
 
-Forbidden Kiss stands on the taste-refusal alone. It **precedes** the mixer weekend — {{On Her Floor}} and {{Boyfriend}} fall two weeks later — so it cannot and does not reference a Randi kiss that hasn't happened yet. No telling-conversation sets it up; no test is declared. The coated kiss is deniable and unannounced.
+Missed a Spot stands on the taste-refusal alone. It **precedes** the mixer weekend — {{On Her Floor}} and {{Boyfriend}} fall two weeks later — so it cannot and does not reference a Randi kiss that hasn't happened yet. No telling-conversation sets it up; no test is declared. The coated kiss is deniable and unannounced.
 
 ## The disgust — self-directed, on two wires
 
@@ -34,7 +36,7 @@ The disgust is **imposed by the taught mind on a body that had already begun** �
 
 ## The tip-of-the-tongue — a recurring tell (seed it here)
 
-The tip-of-the-tongue is its own **recurring body-tell**, not a one-off. It **originates at {{We Find Out}}'s lip-lick** (taste-thread gate 0, the Oct 30 gracenote) and **recurs across the spring** — her tongue giving her away a beat before the mind, the same idea each time, **phrasing varied every instance** (recurring-ritual rule), and varied from the {{We Find Out}} phrasing. Forbidden Kiss is one instance — the tongue-tip the superego overrules. It is **distinct from the Leak** (below): the Leak is *his* residual reaching her; the tongue-tip is *her own* involuntary yes. (Registry: `meta-note-taste-thread.md`.)
+The tip-of-the-tongue is its own **recurring body-tell**, not a one-off. It **originates at {{We Find Out}}'s lip-lick** (taste-thread gate 0, the Oct 30 gracenote) and **recurs across the spring** — her tongue giving her away a beat before the mind, the same idea each time, **phrasing varied every instance** (recurring-ritual rule), and varied from the {{We Find Out}} phrasing. Missed a Spot is one instance — the tongue-tip the superego overrules. It is **distinct from the Leak** (below): the Leak is *his* residual reaching her; the tongue-tip is *her own* involuntary yes. (Registry: `meta-note-taste-thread.md`.)
 
 ## Structure — one Saturday, warmth-first (wake → naked morning → breakfast → the pointing ladder → bed)
 
@@ -84,7 +86,7 @@ Together these **light the idea** — the taste-question goes conscious from her
 
 ## The wipe becomes a known boundary; the Leak after
 
-Before this the incomplete wipe is subliminal. Forbidden Kiss is where it becomes a **deliberate, mutually-known** protocol — he wipes now *because* she drew the line — and clean in the scene itself. But the wipe is imperfect, and she is primed now: from here the Leak runs as **recurring wiped-but-residual gracenotes**, not a single scene. She **catches faint hints when he kisses her after oral even though he wipes** — iterative, subordinate, deniable, spread across the spring sex scenes (discipline: `meta-note-taste-thread.md`).
+Before this the incomplete wipe is subliminal. Missed a Spot is where it becomes a **deliberate, mutually-known** protocol — he wipes now *because* she drew the line — and clean in the scene itself. But the wipe is imperfect, and she is primed now: from here the Leak runs as **recurring wiped-but-residual gracenotes**, not a single scene. She **catches faint hints when he kisses her after oral even though he wipes** — iterative, subordinate, deniable, spread across the spring sex scenes (discipline: `meta-note-taste-thread.md`).
 
 ## The Pointing Game irony (use it, don't point at it)
 
@@ -98,7 +100,7 @@ She **wakes late and alone** — common: he rises early, she sleeps in. Direct c
 
 **The first full day of the reconciliation weekend — its Saturday** (they're not together before {{Nothing Underneath}}, so this can't sit earlier), and **before {{A Clean Plate}} and {{The Reach}}** (gate #2). **Volume Two's opener** — the transgressive open echoing {{The Bench}} opening Volume One; chronologically the day *before* Volume One's closing image (the Sunday dorm-return coda), a deliberate rewind across the break. Dates live in `meta-plan-chronology.md`; the sequence Refusal → Reach → … → {{First Taste}} is the fixed thing. Oral is long established (First Night onward), so the post-oral kiss has a valid history behind it.
 
-**Continuity — pre-wax (render guard).** The Brazilian wax is the *mixer-weekend* event — {{Barely Stings}}, two weeks on — so at Forbidden Kiss Vee is **not yet waxed.** Render her body accordingly (the waxed body first appears downstream, at {{Barely Stings}}/{{Still Life}}). This is the single home for the note; it also falls out of the two-week ordering the chronology owns.
+**Continuity — pre-wax (render guard).** The Brazilian wax is the *mixer-weekend* event — {{Barely Stings}}, two weeks on — so at Missed a Spot Vee is **not yet waxed.** Render her body accordingly (the waxed body first appears downstream, at {{Barely Stings}}/{{Still Life}}). This is the single home for the note; it also falls out of the two-week ordering the chronology owns.
 
 ## Downstream
 

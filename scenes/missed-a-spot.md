@@ -1,6 +1,6 @@
 *Vee POV — Pace's house, the morning after the coat. Vee and Pace; no one else.*
 
-# Forbidden Kiss
+# Missed a Spot
 
 Her hand went out before she was anyone, across the wide of the bed to where the heat of him belonged, and found cotton. Smooth, and cold.
 

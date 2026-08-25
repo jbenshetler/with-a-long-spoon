@@ -343,9 +343,9 @@ _status: checked 2026-07-20 — 2 findings (low 2)_
 - **[low/high]** `:39,43` — "Ignition-Scalding" bare/hyphenated vs braced siblings; canonical `{{Ignition Scalding}}` (`chronology:409` "Scalding Jealousy Ignition"). **Fix:** brace. (slug `ignition-scalding.md` at :21 is fine.)
 - **[low/med]** `:45` — "~mid-Nov SATC brunch"; {{All the Time}} is "~mid-to-late November" (`chronology:180`). **Fix:** align. Music beats/neuro: clean.
 
-### meta-note-forbidden-kiss.md
+### meta-note-missed-a-spot.md
 _status: checked 2026-07-20 — 1 finding (low 1)_
-- **[resolved 2026-08-18]** the former finding here (FK "omits the mixer motivation") is void: {{Forbidden Kiss}} is now **self-motivated** and precedes {{Boyfriend}}; there is no mixer-motivation to cross-ref, and FK does not carry *"I'm not gay."* No edit to `meta-note-forbidden-kiss.md` is owed for this.
+- **[resolved 2026-08-18]** the former finding here (FK "omits the mixer motivation") is void: {{Missed a Spot}} is now **self-motivated** and precedes {{Boyfriend}}; there is no mixer-motivation to cross-ref, and FK does not carry *"I'm not gay."* No edit to `meta-note-missed-a-spot.md` is owed for this.
 
 ### meta-note-anthro.md
 _status: checked 2026-07-20 — 2 findings (low 2)_

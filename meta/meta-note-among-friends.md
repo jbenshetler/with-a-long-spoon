@@ -4,7 +4,7 @@
 
 ## What this scene is now
 
-The **first of the paired world-openings.** This scene brings Pace into *Vee's* world — a gathering of her friends at a bar or restaurant; {{Another Round}} (~late January) then **reciprocates**, bringing Vee into *Pace's* (his people, Sheri). It is **Volume Two's social bloom** ("the bloom before the souring" — the volume *opens* at {{Forbidden Kiss}}, the transgressive echo of {{The Bench}}), promoted out of what was the bomber-jacket coda tucked at the end of First Weekend Back. First Weekend Back proper now ends on the reconciliation; this scene carries the public echo.
+The **first of the paired world-openings.** This scene brings Pace into *Vee's* world — a gathering of her friends at a bar or restaurant; {{Another Round}} (~late January) then **reciprocates**, bringing Vee into *Pace's* (his people, Sheri). It is **Volume Two's social bloom** ("the bloom before the souring" — the volume *opens* at {{Missed a Spot}}, the transgressive echo of {{The Bench}}), promoted out of what was the bomber-jacket coda tucked at the end of First Weekend Back. First Weekend Back proper now ends on the reconciliation; this scene carries the public echo.
 
 Its engine is **Pace's deed-answer to the *{{Under the Rug}}* visibility wound.** In *{{Under the Rug}}* (~mid-December) Vee asked, in the dark, *"Is this what we are now? … will we ever be seen in public again?"* — and the Chili's disaster left it unanswered (the loud room defeating him, misread as rejection of *being seen with her*). Pace metabolizes that over the break, and this is his response, given in the grammar he trusts — **deed, not word.** He comes into her world and lets himself be seen *with* her, among her people, without her having to ask. The wound answered by an act, never a declaration (the vow holds all year).
 
@@ -129,7 +129,7 @@ When Pace meets the group he introduces himself not as *Pace* but as **"Vee's bo
 
 ## Threads & seeds
 
-- **Taste thread: carry nothing.** Not a sex scene; the next gate ({{Forbidden Kiss}}) hosts elsewhere.
+- **Taste thread: carry nothing.** Not a sex scene; the next gate ({{Missed a Spot}}) hosts elsewhere.
 - **Goodbye-kiss staircase:** the ritual fires here **in company, witnessed by Pace** — "Love you, gorgeous." with the kiss, where he can see (see The goodbye, above). Not a staircase *rung* (no dyad debrief, no escalation of the kiss itself) but the ritual's first on-page instance in front of Pace; plants Vee's wondering-what-Pace-thinks for {{Boyfriend}}.
 - **Visibility thread — partial answer only.** This answers the "seen with me in public / in her world" axis. It must NOT discharge the whole thread: the *sealed-room* axis (Vee admitted to *his* world/people) stays open for {{Another Round}} (~late January) and beyond, and the enclosure must persist to the threesome. Don't let the walls read as down.
 - **Dorm-friends seed (flag 22):** required precondition; see the flag for pool/count/vehicle and the thinning payoff.

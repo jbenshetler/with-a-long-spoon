@@ -28,7 +28,7 @@ The truth gets sized to each relationship, and the fullest version goes to the m
 
 ## Kayla's held fire
 
-Kayla has her own data: she saw Vee leave Friday night — the hall-and-laundry beat (`nothing-underneath.md:37`; recalled in `forbidden-kiss.md:19`, "buttoned to the collar, dying by inches in front of Kayla's laundry basket"), where she clocked the going-out shoes and guessed Pace. She's been sitting on *Friday, the coat, the shoes* for three days and opens fire the moment they're seated. Vee's flash-story is partly an answer to a witness — which is exactly why she pre-shrinks it.
+Kayla has her own data: she saw Vee leave Friday night — the hall-and-laundry beat (`nothing-underneath.md:37`; recalled in `missed-a-spot.md:19`, "buttoned to the collar, dying by inches in front of Kayla's laundry basket"), where she clocked the going-out shoes and guessed Pace. She's been sitting on *Friday, the coat, the shoes* for three days and opens fire the moment they're seated. Vee's flash-story is partly an answer to a witness — which is exactly why she pre-shrinks it.
 
 ## Beats (workshopped to drafting resolution 2026-08-21)
 
