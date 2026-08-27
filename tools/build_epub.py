@@ -51,12 +51,41 @@ import uuid
 import zipfile
 from pathlib import Path
 
-VOLUME_TITLE = "A Polite Invitation"
-BOOK_TITLE = "A Polite Invitation (With a Long Spoon, Book 1)"
 SERIES_NAME = "With a Long Spoon"
-SERIES_INDEX = "1"
 LANGUAGE = "en-US"
 COPYRIGHT_YEAR = "2026"
+
+# Per-volume packaging. Volume One is the default; --volume TWO builds the
+# drafted-so-far Volume Two reader copy (A Warm Reception, decided 2026-08-21).
+# Vol 2 has no cover asset of its own yet — it reuses images/cover.png (the
+# Vol 1 cover) as a flagged placeholder; the title page and metadata carry the
+# correct Vol 2 title. Blurb source: Vol 1 = "## Test-epub blurb"; Vol 2 =
+# "## Volume 2 blurb" (accepted copy only — runner-up alternates under ###
+# headings are trimmed).
+VOLUMES = {
+    "ONE": {
+        "name": "ONE",
+        "title": "A Polite Invitation",
+        "book_title": "A Polite Invitation (With a Long Spoon, Book 1)",
+        "series_label": "BOOK ONE",
+        "book_word": "Book One",
+        "series_index": "1",
+        "blurb_heading": "## Test-epub blurb",
+        "stem": "a-polite-invitation",
+        "description_from_short": True,
+    },
+    "TWO": {
+        "name": "TWO",
+        "title": "A Warm Reception",
+        "book_title": "A Warm Reception (With a Long Spoon, Book 2)",
+        "series_label": "BOOK TWO",
+        "book_word": "Book Two",
+        "series_index": "2",
+        "blurb_heading": "## Volume 2 blurb",
+        "stem": "a-warm-reception",
+        "description_from_short": False,
+    },
+}
 # One line only on the copyright page besides boilerplate (spec: no itemized
 # content-warning list for the test round; the blurb self-selects).
 COPYRIGHT_NOTICE = "An erotic novel, for adult readers."
@@ -69,7 +98,7 @@ CONTACT_EMAIL = "helen@helenriversbooks.com"
 NOTE_TO_READERS_TITLE = "A Note to Test Readers"
 
 
-def note_to_readers(reader=None):
+def note_to_readers(reader=None, book_word="Book One"):
     """The back-matter note, addressed to this copy's recipient if there is one.
 
     Personalised deliberately: the greeting is warmer, and it puts the
@@ -80,7 +109,7 @@ def note_to_readers(reader=None):
     if reader and reader["first_name"]:
         greeting = f"{reader['first_name']}, thank you for reading."
     paras = [
-        f"{greeting} This is a test draft of Book One — you are "
+        f"{greeting} This is a test draft of {book_word} — you are "
         "among its first readers, and what you noticed matters more to me than "
         "what you think I want to hear.",
         "Two questions I care about most:",
@@ -145,11 +174,22 @@ def canonical_title(raw: str) -> str:
     return re.sub(r"\s*\([^)]*\)\s*$", "", raw).strip()
 
 
-def parse_volume_one(md: str):
-    """Return [(title, scene_filename_or_None), ...] in story order."""
+SLUG_RE = re.compile(r"\bslug:\s*([a-z0-9][a-z0-9-]*)")
+
+
+def parse_volume(md: str, volume_name: str = "ONE"):
+    """Return [(title, slug_filename, cited_filename), ...] in story order.
+
+    Two candidate prose filenames per entry: `<slug>.md` from the entry's
+    `slug:` field (the canonical on-disk pointer), and the first non-meta
+    `*.md` cited in the metadata line. main() prefers the slug file when it
+    exists — the citation is often a cross-reference to another scene (a
+    venue's origin chapter, a diptych partner) that must not be mistaken for
+    this entry's own prose.
+    """
     chapters = []
     volume = None
-    pending = None  # (title,) awaiting its metadata line
+    pending = None  # title awaiting its metadata line
     for line in md.splitlines():
         v = VOLUME_RE.search(line)
         if v:
@@ -159,16 +199,18 @@ def parse_volume_one(md: str):
         m = ENTRY_RE.match(line)
         if m:
             pending = None
-            if volume == "ONE" and m.group(1) in ("SCENE", "VIGNETTE"):
+            if volume == volume_name and m.group(1) in ("SCENE", "VIGNETTE"):
                 pending = canonical_title(m.group(2))
             continue
         if pending and line.strip().startswith("*") and MIDDOT in line:
-            fn = None
+            cited = None
             for fm in SCENE_MD_RE.finditer(line):
                 if not fm.group(1).startswith("meta"):
-                    fn = fm.group(1)
+                    cited = fm.group(1)
                     break
-            chapters.append((pending, fn))
+            sm = SLUG_RE.search(line)
+            slug_fn = f"{sm.group(1)}.md" if sm else None
+            chapters.append((pending, slug_fn, cited))
             pending = None
     return chapters
 
@@ -207,19 +249,42 @@ def strip_emphasis(text: str) -> str:
     return text
 
 
-def load_blurb(blurb_path: Path):
+def _cut_at_subheading(section: str) -> str:
+    """Trim a section at its first ### subheading.
+
+    The Volume 2 blurb section keeps runner-up alternates under ### headings
+    below the accepted copy; we want only the accepted copy's blockquotes.
+    No-op for Vol 1 (its blurb section has no ### subsections).
+    """
+    out = []
+    for line in section.splitlines():
+        if re.match(r"^###\s", line):
+            break
+        out.append(line)
+    return "\n".join(out)
+
+
+def load_blurb(blurb_path: Path, vol: dict):
     """-> (body_paragraphs, tagline, comp_line, metadata_description)."""
     md = blurb_path.read_text(encoding="utf-8")
-    paras = blockquote_paragraphs(_section(md, "## Test-epub blurb"))
+    section = _cut_at_subheading(_section(md, vol["blurb_heading"]))
+    paras = blockquote_paragraphs(section)
     if len(paras) < 4:
-        sys.exit(f"could not parse the Test-epub blurb section of {blurb_path} "
-                 f"(expected >=4 blockquote paragraphs, got {len(paras)})")
+        sys.exit(f"could not parse the {vol['blurb_heading']} section of "
+                 f"{blurb_path} (expected >=4 blockquote paragraphs, got "
+                 f"{len(paras)})")
     body, tagline, comp = paras[:-2], paras[-2], paras[-1]
-    short = blockquote_paragraphs(_section(_section(md, "## Explicit"),
-                                           "### Short"))
-    if not short:
-        sys.exit(f"could not parse the Explicit/Short blurb in {blurb_path}")
-    return body, tagline, comp, strip_emphasis(" ".join(short))
+    if vol["description_from_short"]:
+        short = blockquote_paragraphs(_section(_section(md, "## Explicit"),
+                                               "### Short"))
+        if not short:
+            sys.exit(f"could not parse the Explicit/Short blurb in {blurb_path}")
+        description = strip_emphasis(" ".join(short))
+    else:
+        # No volume-specific Explicit/Short; use the blurb body as the
+        # metadata description.
+        description = strip_emphasis(" ".join(body))
+    return body, tagline, comp, description
 
 
 # --- markdown -> xhtml --------------------------------------------------------
@@ -311,7 +376,7 @@ def page(title: str, body: str, lang: str = LANGUAGE, bodyattr: str = "") -> str
 
 # --- epub assembly -------------------------------------------------------------
 def build(chapters, blurb, cover_path: Path, author: str, out_path: Path,
-          modified: str, build_id: str = "", reader=None):
+          modified: str, vol: dict, build_id: str = "", reader=None):
     body_paras, tagline, comp, description = blurb
     files = []  # (id, href, media-type, properties, content_bytes, in_spine)
 
@@ -333,7 +398,7 @@ def build(chapters, blurb, cover_path: Path, author: str, out_path: Path,
     add("cover", "cover.xhtml", "application/xhtml+xml", page(
         "Cover",
         f'<div class="cover"><img src="cover.{cover_ext}" '
-        f'alt="{esc(BOOK_TITLE)}"/></div>'))
+        f'alt="{esc(vol["book_title"])}"/></div>'))
 
     # Blurb page — before the title page (simulates the retail listing).
     blurb_html = ['<div class="blurb frontmatter">']
@@ -345,10 +410,10 @@ def build(chapters, blurb, cover_path: Path, author: str, out_path: Path,
         page("About This Book", "\n".join(blurb_html)))
 
     add("titlepage", "titlepage.xhtml", "application/xhtml+xml", page(
-        BOOK_TITLE,
+        vol["book_title"],
         '<div class="titlepage frontmatter">'
-        f'<p class="series">{esc(SERIES_NAME.upper())} · BOOK ONE</p>'
-        f"<h1>{esc(VOLUME_TITLE)}</h1>"
+        f'<p class="series">{esc(SERIES_NAME.upper())} · {esc(vol["series_label"])}</p>'
+        f"<h1>{esc(vol['title'])}</h1>"
         f'<p class="author">{esc(author)}</p></div>'))
 
     add("copyright", "copyright.xhtml", "application/xhtml+xml", page(
@@ -380,7 +445,7 @@ def build(chapters, blurb, cover_path: Path, author: str, out_path: Path,
 
     note = ['<div class="backmatter">',
             f"<h1>{esc(NOTE_TO_READERS_TITLE)}</h1>"]
-    note += [f"<p>{inline(p)}</p>" for p in note_to_readers(reader)]
+    note += [f"<p>{inline(p)}</p>" for p in note_to_readers(reader, vol["book_word"])]
     note.append("</div>")
     add("note", "note.xhtml", "application/xhtml+xml",
         page(NOTE_TO_READERS_TITLE, "\n".join(note)))
@@ -415,7 +480,7 @@ def build(chapters, blurb, cover_path: Path, author: str, out_path: Path,
     ncx = f"""<?xml version="1.0" encoding="utf-8"?>
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
 <head><meta name="dtb:uid" content="urn:uuid:{book_id}"/></head>
-<docTitle><text>{esc(BOOK_TITLE)}</text></docTitle>
+<docTitle><text>{esc(vol["book_title"])}</text></docTitle>
 <navMap>
 {nav_points}
 </navMap></ncx>
@@ -433,16 +498,16 @@ def build(chapters, blurb, cover_path: Path, author: str, out_path: Path,
          unique-identifier="bookid">
 <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 <dc:identifier id="bookid">urn:uuid:{book_id}</dc:identifier>
-<dc:title>{esc(BOOK_TITLE)}</dc:title>
+<dc:title>{esc(vol["book_title"])}</dc:title>
 <dc:creator id="creator">{esc(author)}</dc:creator>
 <dc:language>{LANGUAGE}</dc:language>
 <dc:description>{esc(description)}</dc:description>
 <meta property="dcterms:modified">{modified}</meta>
 <meta property="belongs-to-collection" id="series">{esc(SERIES_NAME)}</meta>
 <meta refines="#series" property="collection-type">series</meta>
-<meta refines="#series" property="group-position">{SERIES_INDEX}</meta>
+<meta refines="#series" property="group-position">{vol["series_index"]}</meta>
 <meta name="calibre:series" content="{esc(SERIES_NAME)}"/>
-<meta name="calibre:series_index" content="{SERIES_INDEX}"/>
+<meta name="calibre:series_index" content="{vol["series_index"]}"/>
 <meta name="cover" content="cover-image"/>
 {f'<meta property="wals:build">{esc(build_id)}</meta>' if build_id else ""}
 {f'<meta property="wals:recipient">{esc(reader["label"])}</meta>' if reader else ""}
@@ -564,27 +629,44 @@ def main():
     ap.add_argument("--stamped-name", action="store_true",
                     help="append -<source-date>-<sha> to the filename, to keep "
                          "several builds of different drafts side by side")
+    ap.add_argument("--volume", default="ONE",
+                    help="which volume to build: ONE (default, A Polite "
+                         "Invitation) or TWO (A Warm Reception, drafted-so-far "
+                         "— reuses the Vol 1 cover as a placeholder and "
+                         "typically needs --allow-missing)")
     ap.add_argument("--list", action="store_true",
                     help="print the chapter roster and exit without building")
     ap.add_argument("--allow-missing", action="store_true",
-                    help="build even if Volume One chapters lack prose files")
+                    help="build even if chapters in the volume lack prose files")
     args = ap.parse_args()
+
+    volkey = {"1": "ONE", "2": "TWO", "ONE": "ONE", "TWO": "TWO"}.get(
+        str(args.volume).upper())
+    if not volkey:
+        sys.exit(f"unknown --volume {args.volume!r} (use ONE or TWO)")
+    vol = VOLUMES[volkey]
 
     for p in (args.chronology, args.blurb, args.cover):
         if not p.exists():
             sys.exit(f"missing input: {p}")
 
-    entries = parse_volume_one(args.chronology.read_text(encoding="utf-8"))
+    entries = parse_volume(args.chronology.read_text(encoding="utf-8"),
+                           vol["name"])
     if not entries:
-        sys.exit("no Volume One chapters found in the chronology")
+        sys.exit(f"no Volume {vol['name']} chapters found in the chronology")
 
     chapters, missing = [], []
-    for title, fn in entries:
-        path = args.scenes / fn if fn else None
-        if path is not None and path.exists():
+    for title, slug_fn, cited in entries:
+        path = None
+        for cand in (slug_fn, cited):
+            if cand and (args.scenes / cand).exists():
+                path = args.scenes / cand
+                break
+        if path is not None:
             chapters.append((title, path))
         else:
-            missing.append(f"{title}" + (f"  (cited: {fn})" if fn
+            cite = slug_fn or cited
+            missing.append(f"{title}" + (f"  (cited: {cite})" if cite
                                          else "  (no scene file cited)"))
 
     if args.list:
@@ -595,11 +677,11 @@ def main():
         return
 
     if missing and not args.allow_missing:
-        sys.exit("Volume One chapters without prose files "
+        sys.exit(f"Volume {vol['name']} chapters without prose files "
                  f"({len(missing)}):\n  " + "\n  ".join(missing)
                  + "\nUse --allow-missing to build without them.")
 
-    blurb = load_blurb(args.blurb)
+    blurb = load_blurb(args.blurb, vol)
     inputs = [args.chronology, args.blurb, args.cover] + [p for _, p in chapters]
     info = git_build_info(root, inputs)
     build_id = (f"{info['source_date']} · {info['sha']}" if info["sha"]
@@ -609,7 +691,7 @@ def main():
 
     out = args.out
     if out is None:
-        stem = "a-polite-invitation"
+        stem = vol["stem"]
         if reader:
             stem += f"-{reader['slug']}"
         if args.stamped_name and info["sha"]:
@@ -618,7 +700,7 @@ def main():
     out.parent.mkdir(parents=True, exist_ok=True)
 
     book_id = build(chapters, blurb, args.cover, args.author, out,
-                    info["modified"], build_id, reader)
+                    info["modified"], vol, build_id, reader)
     if reader:
         record_recipient(root, reader, build_id, out, book_id)
     words = sum(len(p.read_text(encoding="utf-8").split())
