@@ -72,6 +72,7 @@ VOLUMES = {
         "series_index": "1",
         "blurb_heading": "## Test-epub blurb",
         "stem": "a-polite-invitation",
+        "cover": "images/cover.png",
         "description_from_short": True,
     },
     "TWO": {
@@ -83,6 +84,7 @@ VOLUMES = {
         "series_index": "2",
         "blurb_heading": "## Volume 2 blurb",
         "stem": "a-warm-reception",
+        "cover": "images/a-warm-reception-cover-placeholder.png",
         "description_from_short": False,
     },
 }
@@ -612,10 +614,11 @@ def main():
                     default=root / "meta/meta-plan-chronology.md")
     ap.add_argument("--blurb", type=Path, default=root / "meta/meta-blurb.md")
     ap.add_argument("--scenes", type=Path, default=root / "scenes")
-    ap.add_argument("--cover", type=Path,
-                    default=root / "images/cover.png",
-                    help="cover image (default: images/cover.png, a symlink "
-                         "pointing at the currently chosen cover asset)")
+    ap.add_argument("--cover", type=Path, default=None,
+                    help="cover image (default: the volume's cover — "
+                         "images/cover.png for Vol 1, the Vol 2 placeholder "
+                         "for Vol 2; falls back to images/cover.png if the "
+                         "volume's cover is absent)")
     ap.add_argument("-o", "--out", type=Path, default=None,
                     help="output path (default: build/a-polite-invitation.epub, "
                          "or -<reader-slug> with --reader; the build stamp "
@@ -645,6 +648,10 @@ def main():
     if not volkey:
         sys.exit(f"unknown --volume {args.volume!r} (use ONE or TWO)")
     vol = VOLUMES[volkey]
+
+    if args.cover is None:
+        cand = root / vol["cover"]
+        args.cover = cand if cand.exists() else root / "images/cover.png"
 
     for p in (args.chronology, args.blurb, args.cover):
         if not p.exists():
