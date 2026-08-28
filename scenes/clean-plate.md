@@ -88,7 +88,11 @@ They pulled up short and stood a second, both flushed, both a little unstrung, a
 
 Inside, the jukebox was playing strings tonight, something slow with a violin walking through it, the green water still climbing its clear pipes for no one. The girl at the front took two menus off the stack at the sight of them, and didn't ask.
 
-The corner booth in the loft had waited. They shed coats — Vee turned hers lining-to-the-wall on the hook, an old habit two dinners old — and they did it fast, both of them, like people with somewhere to be, because the somewhere was the story, still standing open back on the sidewalk where the door had cut it off. Then Randi got a look at her and put her hand to her heart, and the look went down and came back up, frank as an appraisal and twice as happy.
+The corner booth in the loft had waited. They shed coats fast, both of them, like people with somewhere to be — the somewhere was the story, still standing open back on the sidewalk where the door had cut it off — and Vee reached to turn hers lining-to-the-wall on the hook, the old habit two dinners old, and was in too much of a hurry to land it. The coat swung open on the way, pale satin out, and for a second before she caught it, there it was under the loft light: the dark bloom of herself, soaked into the good coat and never coming out — the body telling on her before she'd said a word.
+
+She turned it to the wall, fast, and Randi — down over her own coat, then coming up bright — hadn't seen. Only Vee had. The coat had remembered, and shown her, and she'd shut it away against the wall like a drawer closing on a photograph, and her face was warm before Randi had said the first thing.
+
+Then Randi got a look at her and put her hand to her heart, and the look went down and came back up, frank as an appraisal and twice as happy.
 
 "*Girl.* It's criminal what you've been hiding from the rest of us." And she set her hands on Vee's waist, both of them, warm through the fine knit, and held her there at arm's length a second, the way you hold a thing up to the light to see it properly.
 
