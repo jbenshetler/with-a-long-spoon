@@ -76,7 +76,7 @@ And her voice went down on the last of it, dropping under the wind into the regi
 
 "Across the *seat,*" Randi said, low, delighted.
 
-"Got his belt undone with my hands not even steady and I did not care, and I took him in my mouth right there in the cab, in the lot, with the roadhouse lit up forty feet off. And he made this sound like a man setting something heavy down—" her breath came quick, cold and wanting run together "—and his hand came into my hair and just held on, not pushing me, not steering, only holding, like he'd found the one thing to hang onto, and I was in no hurry, Randi, I wanted to feel the whole of it go out of—"
+"Got his belt undone with my hands not even steady, and I did not care, and I leaned down and—"
 
 —and the restaurant was there. Warm windows, the jukebox's green water climbing behind the glass, the door breathing heat onto the walk. It came up on them like a hand laid over her mouth mid-word.
 
@@ -104,21 +104,37 @@ They settled into the booth, and the girl who'd brought them up asked what they 
 
 "The special," Vee said, a half-beat behind, with no idea on earth what it was, and the girl looked from one of them to the other and went back down, and neither of them had thought to ask.
 
-Randi settled back into her corner with her glass. "He really was *so* good with—"
+Randi settled back with her glass, and she had not forgotten where the sidewalk had cut Vee off. "You'd leaned down," she said, easy, holding the place open like a thumb in a book. "In the lot. The roadhouse lit up. Go on."
 
-"And after the blowjob—" Vee didn't interrupt so much as fail to hear it, already back across that bench seat.
+And Vee went on — in the version she could tell across a white cloth, the edges sanded off. "And he — Randi, he *came apart.* This big steady man. His hand came into my hair and forgot it was there, and I felt the whole of him just go. It was—" she reached for the clean word "—it was a lot."
 
-"You'd taken it all and didn't spill a drop." Randi said it low, and hoarse.
+Randi let that sit, and set one finger down on it. "Did you take it all?"
 
-And Vee shivered — because she hadn't heard, until it came back to her in Randi's voice, how hungry she'd sounded, how *slutty* — and it went through her warm, and she picked the sentence back up. "I sat up and wiped my mouth and told him to take me to bed. He said *yes ma'am* and started the truck." Her chin came up, sly. "Only I couldn't wait that long."
+And the question put her body back in the cab — leaning over the bench in the dark, her bra still shoved up above her breasts and her nipples singing where his hands had left them, the soap and musk of him in her nose, the hard fact of him in her mouth. "Yeah." Half of her was still down there; the word came from the other half.
+
+"Didn't spill a drop?"
+
+And that dropped her into the end of it — the pulse and the flood, the taste of him gone flat and hot across her tongue, and how she'd swallowed every bit of it *proud,* proud to have undone a man that steady. Her mouth went dry, actually dry, and the wine was no help for it, and she shifted in her seat before she could stop the shift. It was true — every word of it true, and she'd done it in a parking lot and not cared who saw — and she could not make her mouth say it back across the cloth.
+
+"You *did* it," Randi said, low, delighted and tender and without a scrap of mercy. "And you can't even say it."
+
+And that went through Vee hotter than saying it ever would have, the doing and the not-saying set side by side where she had to look at both. She laughed, caught, color climbing, and still didn't say it, and drank, and it didn't help.
+
+Then, quieter, from behind the glass, the part she could stand to give: "I told him to take me to bed. He said *yes ma'am,* and started the truck." The sly came back with the ground under it. "Only I couldn't wait that long."
 
 "That's my girl."
 
-"I took his hand off the wheel." Doling it out now. "Just lifted it off, and he let me — drove the whole county road home on the one wrist and never said a word — and I put it up under my sweater first, and then I got my own jeans open right there on the bench, worked them down like a girl who'd lost her mind, and I took his hand and put it exactly where I wanted it."
+"So he drove me home." The sanded version again, her eyes going soft on it. "One wrist on the wheel the whole county road, never a word. And I couldn't wait. I put his hand where I needed it."
 
-Randi said nothing at all. She was listening the way she listened, every light aimed.
+"Where you needed it." Randi turned her glass a slow quarter. "Over your jeans."
 
-"Over them first, slow, till I couldn't stand it. And it was *me* that moved them aside — my own hand, holding myself open for his and choosing it over and over the whole way — and his fingers came onto me and he knew *exactly,* no hunting, no asking, the same slow—" she caught half a step, the sentence about to turn down some other dark road she hadn't meant to take "—he just knew. And I went off on that county road with my boots braced on the floor and the mile markers going by, and I did not care who was out there. Loud. In the truck."
+"…I'd gotten them open." Barely out.
+
+"You'd gotten them open. In a moving truck." She wasn't going to let her round it. "And then?"
+
+And Vee, pinned again, gave it — but small, close, the way you hand over the true thing. "It was *me* that moved them aside. My own hand. I held myself open for his the whole way, kept holding." She heard herself and pushed on before she could stop. "And he knew exactly, no hunting, no asking — and I went off on that county road with my boots braced on the floor and the mile markers going by, and I did not care who was out there." The last word barely made it out. "Loud."
+
+Randi let a breath go that wasn't quite steady.
 
 The food came up the stair then, two plates of the special, whatever it turned out to be — a dark braise over soft polenta — and Vee, who'd swum a mile and gone cold through and eaten nothing since noon, fell on it and ate like she meant it. It was good; she said so, once, and let it go. A student place's braise, hot and gone. Her whole mind was still up the county road. Randi took one small, exact bite of her own, set the fork down, and left it.
 
