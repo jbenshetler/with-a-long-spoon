@@ -296,13 +296,21 @@ The sidewalk had them to itself. Streetlight, breath.
 
 "It's a deal."
 
-And Randi kissed her goodbye, as they did — the mouth, soft, the little pause, the second one after it — and then the hug, and the hug was a good one tonight, long, coats crushed together, Vee's cheek against Randi's cool cheek, the bitter orange finding her, green at its edge, and Vee had no plans about any of it.
+"You picked well, you know." Randi said it easily, apropos of nothing, the way you finally name a thing you've meant to say for weeks. "I don't think I ever told you that. You picked well."
 
-Randi's head leaned away from her, making room, settling the hug in deeper, and the lean laid her neck along Vee's mouth — the side of it, the soft place where a whole December's crying had once soaked in — and Vee kissed it. Just did. Her mouth knew the spot as a hand knows a light switch, and the kiss was landed before any of her had convened on the question.
+And Vee glowed and took it, and only the smallest part of her went to the one word that wasn't quite true — she hadn't picked Pace so much as looked up from her books one afternoon, Randi across the table and Cassie one over, to find him already halfway across the floor at her, the whole thing decided before she'd known there was a thing to decide. A good day he'd walked in and made a great one. But you didn't hand a compliment back on a technicality.
+
+And then Randi kissed her goodbye, as they did — the mouth, soft, the little pause, the second one after it — and drew her into the hug, a good one tonight, long, coats crushed together, Vee's cheek against Randi's cool cheek, the bitter orange finding her, green at its edge.
+
+And Vee was already looking at the neck. She was smiling before she'd decided to, remembering last time — Randi pointing to the very spot where a whole December's crying had once soaked in, the kiss she'd set there without thinking, the flinch, *don't you dare weaponize that.* And Randi, who must have forgotten, tipped her head to settle the hug deeper and laid the whole of it open — the hollow where the neck turns down into the shoulder, warm straight out of the cold — and her hair, lifted on the breeze, brushed Vee's cheek. And Vee kissed it. Just did. Vee's mouth found the way again on the memory of Tuesday, and the kiss was landed before any of her had convened on the question.
+
+Up close it was all small things: Randi's breath uneven, close over her ear; the skin soft and warm against her lips. And under her mouth Randi's whole body did a small quick thing, a catch and then a rise, and the rise went on a beat too long —
+
+"*Ticklish,*" Randi said, light, laughing it off, her shoulder coming up to take the spot back. And Vee, pleased with herself, let her have it.
 
 "Thank you," she said, into the cold, a beat behind her own mouth. "For the good advice."
 
-"Anytime, gorgeous." Randi's arms tightened once, a full-stop of a squeeze, and let her go. "Every time. Now walk fast, it's arctic."
+"Only for you, gorgeous." Randi's arms tightened once, a full-stop of a squeeze, and let her go. "Now walk fast, it's arctic."
 
 "Tuesday."
 
