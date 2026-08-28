@@ -268,9 +268,11 @@ Randi picked up her wine, considering, the lamplight on the deco lines of her, a
 
 "It was powerful," she said. "It turned me on."
 
-The words sat there. Randi drank, put the glass down, and reached for the last of the bread as though the subject were bread.
+And that dropped Vee back into the bed — sheened in sweat, pulsing, the pulse going and not stopping, him just slid inside and opening her slow, and his mouth, barely up off her sex, coming down on hers. She felt the wet of his kiss all over again, and clenched hard to it, right there in the booth, before she could stop herself. Her body remembered the whole of it, and had no complaint.
 
-"But it's gross," Vee said, and heard it come out a size too loud for the booth, a size too loud for a settled thing, and couldn't take the volume back.
+Randi looked at Vee, her eyes listening.
+
+"But it's gross," Vee said, too loud — too loud for a settled thing, too loud for how little Randi had spent saying the opposite — and she couldn't take the volume back.
 
 Randi looked at her, pleasant as a hostess, and asked her only question.
 
