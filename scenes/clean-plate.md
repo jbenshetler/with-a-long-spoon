@@ -12,7 +12,7 @@ The real washing she saved for the little bathroom off her room — the water ca
 
 And then the part of the day she'd quietly built the rest of it around. She took her time at the closet.
 
-*It's a date,* Randi had said Tuesday on the sidewalk — meaning, she was sure, only the standing table, Tuesdays and Thursdays all spring. But a table like that still earned deciding what Randi would see across it, and she stood in front of her clothes with the same keyed-up gladness she used to save for dressing for a boy, and didn't stop to wonder why a dinner with her friend had it running.
+*It's a date,* Randi had said Tuesday on the sidewalk. Only the second table, Vee told herself — the dinner after class, nothing she'd let herself make more of. But a table like that still earned deciding what Randi would see across it, and she stood in front of her clothes with the same keyed-up gladness she saved for getting dressed for Pace.
 
 Because tonight she finally had the whole weekend to hand across — all of it, the best of it, saved up two days and gone nowhere — and Randi was the one person alive built to take a story like that at full value. Tuesday they'd almost gotten there; she'd told it as far as Saturday's breakfast before the place stacked the chairs on the best of it and sent the rest home in her pocket.
 
