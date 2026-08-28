@@ -4,11 +4,27 @@
 
 At four she swam.
 
-The pool was half empty, the water its winter blue, and for an hour and change there was nothing in the world but the black line and her own breath. It was the one stretch of any day her head went quiet — her body doing work it had known since she was twelve, needing no opinion from her about itself. She climbed out loose and clear-headed. Then the old drill, fast and automatic: cap off, a rinse in the pool showers to sluice the chlorine before it set into her hair or the suit, sweats over damp skin, and home. The real washing she saved for the little bathroom off her room — the water came out of that showerhead like an apology, but the door locked, the three bottles on the ledge were hers, and the only people who ever came through were Cassie and the two girls next door. The gym showers were for surviving, and tonight was not that kind of night.
+The pool was half empty, the water its winter blue, and for an hour and change there was nothing in the world but the black line and her own breath. It was the one stretch of any day her head went quiet — her body doing work it had known since she was twelve, needing no opinion from her about itself.
 
-And then the part of the day she'd quietly built the rest of it around. She took her time at the closet. *It's a date,* Randi had said Tuesday on the sidewalk — meaning, she was sure, only the standing table, Tuesdays and Thursdays all spring. But a table like that still earned deciding what Randi would see across it, and she stood in front of her clothes with the same keyed-up gladness she used to save for dressing for a boy, and didn't stop to wonder why a dinner with her friend had it running. Because tonight she finally had the whole weekend to hand across — all of it, the best of it, saved up two days and gone nowhere — and Randi was the one person alive built to take a story like that at full value. Tuesday they'd almost gotten there; she'd told it as far as Saturday's breakfast before the place stacked the chairs on the best of it and sent the rest home in her pocket. She'd been turning that ending over ever since, polishing the parts, the way you carry a thing you can't wait to give away. There was one small wrinkle near the finish she couldn't quite call herself — a strange little thing, everything gone sideways for a second in the middle of everything good — but that was a footnote, one question for the one friend who'd know the answer. The rest she was dying to tell.
+She climbed out loose and clear-headed. Then the old drill, fast and automatic: cap off, a rinse in the pool showers to sluice the chlorine before it set into her hair or the suit, sweats over damp skin, and home.
 
-Not the wrap again; Tuesday's verdict on that was in. The bias-cut skirt, then — the January find, a dark floral with a green thread run through it, thirty-one dollars on its second markdown and no plan to confess it across a white cloth — and the toffee sweater from the same afternoon, fine-gauge, with a good stretch to it, which was the point. The arithmetic had run one way since high school: anything that fit her chest drowned her waist, so she'd bought for the chest and lived in the tent and called the tent her size. Stretch changed the math. She'd carried the smaller size to the register on the strength of it and declined to total the rest — you shopped with your eye and not your budget, and nobody across a table could tell which one had done the choosing. She turned once at the mirror, the knit going everywhere it was sent, and decided she was pleased and left the deciding there. Her face she did in the good light.
+The real washing she saved for the little bathroom off her room — the water came out of that showerhead like an apology, but the door locked, and among the suite's crowd of bottles her own two waited: the clarifying shampoo that pulled the chlorine, the heavy conditioner it took to talk her hair back down after. The gym showers were for surviving, and tonight was not that kind of night.
+
+And then the part of the day she'd quietly built the rest of it around. She took her time at the closet.
+
+*It's a date,* Randi had said Tuesday on the sidewalk — meaning, she was sure, only the standing table, Tuesdays and Thursdays all spring. But a table like that still earned deciding what Randi would see across it, and she stood in front of her clothes with the same keyed-up gladness she used to save for dressing for a boy, and didn't stop to wonder why a dinner with her friend had it running.
+
+Because tonight she finally had the whole weekend to hand across — all of it, the best of it, saved up two days and gone nowhere — and Randi was the one person alive built to take a story like that at full value. Tuesday they'd almost gotten there; she'd told it as far as Saturday's breakfast before the place stacked the chairs on the best of it and sent the rest home in her pocket.
+
+She'd been turning that ending over ever since, polishing the parts, the way you carry a thing you can't wait to give away. There was one small wrinkle near the finish she couldn't quite call herself — a strange little thing, everything gone sideways for a second in the middle of everything good — but that was a footnote, one question for the one friend who'd know the answer. The rest she was dying to tell.
+
+Not the wrap again; Tuesday's verdict on that was in. The bias-cut skirt, then — the January find, a dark floral with a green thread run through it, thirty-one dollars on its second markdown and no plan to confess it across a white cloth — and the toffee sweater from the same afternoon, fine-gauge, with a good stretch to it, which was the point.
+
+The arithmetic had run one way since high school: anything that fit her chest drowned her waist, so she'd bought for the chest and lived in the tent and called the tent her size.
+
+Stretch changed the math. She'd carried the smaller size to the register on the strength of it and declined to total the rest — you shopped with your eye and not your budget, and nobody across a table could tell which one had done the choosing.
+
+She turned once at the mirror, the knit going everywhere it was sent, and decided she was pleased and left the deciding there. Her face she did in the good light.
 
 No dinner first — that had answered itself before she thought to ask. Thursday was a class and then a table with Randi at it, and a girl didn't eat before a table like that. She crossed the Drillfield with the good olive coat buttoned to the collar and the cold coming clean off the open dark, hungry in the pleasant, banked way of a woman who knows exactly when and how well she's going to be fed.
 
@@ -32,7 +48,9 @@ What came out was small. She held it up between two fingers so the lecture hall 
 
 She picked up the chalk and wrote the reading on the board, and did not answer her own question, and the comb went hand to hand up the rows behind it like a slow rumor. Vee watched it travel — each pair of fingers taking it carefully, keeping it a little while, giving it up — and somewhere around the middle of the room it stopped traveling, absorbed into some row that couldn't bear to part with it yet, and Marsh lectured on over the top of it and never once asked for it back.
 
-The rest of the hour was cleaner fish — the little wrasse that pick the parasites off bigger fish that could swallow them whole and never do, a whole reef economy of trust and cheating and who comes back — and it was riveting enough to keep her mostly out of her own head, where the whole good evening sat banked and waiting to be spent. Halfway through it Vee worked the roll of Lifesavers out of her coat pocket — it lived there all winter, wintergreen, gone soft at the foil — and thumbed one loose and tapped it against Randi's wrist. Randi's hand turned over. The candy went into the palm and the palm closed and neither of them looked away from the front, and for a while the faint cool of wintergreen came off them both, one lecture, one flavor.
+The rest of the hour was cleaner fish — the little wrasse that pick the parasites off bigger fish that could swallow them whole and never do, a whole reef economy of trust and cheating and who comes back — and it was riveting enough to keep her mostly out of her own head, where the whole good evening sat banked and waiting to be spent.
+
+Halfway through it Vee worked the roll of Lifesavers out of her coat pocket — it lived there all winter, wintergreen, gone soft at the foil — and thumbed one loose and tapped it against Randi's wrist. Randi's hand turned over. The candy went into the palm and the palm closed and neither of them looked away from the front, and for a while the faint cool of wintergreen came off them both, one lecture, one flavor.
 
 At 8:20 the hall let them out into the dark. The comb, as far as Vee ever knew, was still somewhere in the middle rows.
 
@@ -74,7 +92,11 @@ The corner booth in the loft had waited. They shed coats — Vee turned hers lin
 
 "*Girl.* It's criminal what you've been hiding from the rest of us." And she set her hands on Vee's waist, both of them, warm through the fine knit, and held her there at arm's length a second, the way you hold a thing up to the light to see it properly.
 
-And Vee stood there in the loft's lamplight being held and looked at, and the heat that came up her face arrived already converted, pleasure the whole distance — and Randi's hands through the sweater wound her tighter still, the whole held story pulled up hard against the touch, everything in her brimming at once with nowhere yet to put it. And brimming up with all the rest of it, no quieter for being tender: *hiding.* Randi always knew when she was doing it — hiding, or tidying a thing up smaller than it had been — and she'd ask for the real version instead, the harder one, and Vee always came out of it feeling better than she'd gone in. That was the part she still couldn't get over: glamorous Randi, adventurous and wise and able to give the kind of advice that actually helped, found Vee's life *interesting.* It was the friendship she'd dreamed up at fifteen and never once gotten — more fun, more intimate than she'd ever known a real one could be.
+And Vee stood there in the loft's lamplight being held and looked at, and the heat that came up her face arrived already converted, pleasure the whole distance — and Randi's hands through the sweater wound her tighter still, the whole held story pulled up hard against the touch, everything in her brimming at once with nowhere yet to put it.
+
+And brimming up with all the rest of it, no quieter for being tender: *hiding.* Randi always knew when she was doing it — hiding, or tidying a thing up smaller than it had been — and she'd ask for the real version instead, the harder one, and Vee always came out of it feeling better than she'd gone in.
+
+That was the part she still couldn't get over: glamorous Randi, adventurous and wise and able to give the kind of advice that actually helped, found Vee's life *interesting.* It was the friendship she'd dreamed up at fifteen and never once gotten — more fun, more intimate than she'd ever known a real one could be.
 
 They settled into the booth, and the girl who'd brought them up asked what they wanted to drink, and Randi ordered the red without opening the list, the same as Tuesday. She came back with it and poured them each a glass and asked after their food, and neither of them had so much as touched a menu.
 
@@ -178,7 +200,9 @@ Randi was very still, arms folded, all her lights aimed.
 
 Randi didn't say anything. Her fingernail rode the rim of her glass, one slow pass along the thin edge, and came away.
 
-"And then his mouth just — traveled. Up the arm. Places nobody kisses, the crook of the elbow, higher — I pointed once more, at my breast, and even then he made me feel it coming from about a mile out — and after that I stopped pointing, mostly. It stopped being a thing I was directing and started being a thing I was surviving. He went down the wrong side of everything on purpose. I aimed him one place and he'd detour — the hip, the leg, the backs of my knees. He kissed my *toes*, Randi. Individually. Each toe got its own kiss like it had done something. The frosted plum, all ten. A sound came out of me I'm not reprinting."
+"And then his mouth just — traveled. Up the arm. Places nobody kisses, the crook of the elbow, higher — I pointed once more, at my breast, and even then he made me feel it coming from about a mile out — and after that I stopped pointing, mostly. It stopped being a thing I was directing and started being a thing I was surviving. He went down the wrong side of everything on purpose. I aimed him one place and he'd detour — the hip, the leg, the backs of my knees.
+
+"He kissed my *toes*, Randi. Individually. Each toe got its own kiss like it had done something. The frosted plum, all ten. A sound came out of me I'm not reprinting."
 
 "Reprint it."
 
@@ -200,7 +224,9 @@ And Vee's face did the thing she couldn't call back, because the real one was ri
 
 "As he should."
 
-"With his mouth *wet.*" Vee's hands came up, presenting it, the whole absurdity. "With — me. All over it. I'm kissing him back before I know anything, and then it arrives, the taste of — it's me, I'm tasting *myself*, Randi, off my own boyfriend's mouth, in the middle of the — and my entire body did a thing I can only call a full-system objection. I turned my face. I put the back of my hand over my mouth like a Victorian." She did it, hand up, the gesture rerun for the loft as farce. "And I told him — this man, mid — I told him, '*Ugh — gross.*' And then, because apparently I wasn't done, '*That's — no. Wrong.*'"
+"With his mouth *wet.*" Vee's hands came up, presenting it, the whole absurdity. "With — me. All over it. I'm kissing him back before I know anything, and then it arrives, the taste of — it's me, I'm tasting *myself*, Randi, off my own boyfriend's mouth, in the middle of the — and my entire body did a thing I can only call a full-system objection. I turned my face. I put the back of my hand over my mouth like a Victorian."
+
+She did it, hand up, the gesture rerun for the loft as farce. "And I told him — this man, mid — I told him, '*Ugh — gross.*' And then, because apparently I wasn't done, '*That's — no. Wrong.*'"
 
 She had it all delivered now, the whole shape, her own outrage arranged on the table like a party trick, and she went for the closer.
 
@@ -236,7 +262,9 @@ Randi looked at her, pleasant as a hostess, and asked her only question.
 
 And that was all. No verdict, no lecture, no little bow on it. The server came up the stair for the plates, and Vee looked down at hers as it went — polished clean, the fennel thing gone entire, the chop reduced to its bone; she had eaten all of it without noticing she was doing it — and Randi asked the server what the violin piece downstairs had been, and nobody at the table thought anything else worth saying about Saturday morning, apparently, ever again.
 
-The talk went on being easy. Class Tuesday, the reading, whether Marsh assigned like a woman who'd forgotten students took other courses. It was fine. It was lovely. And under it, at the bottom of her glass, Vee kept arriving at a slightly wrong feeling, the specific feeling of a joke that had worked — the laugh had come, hadn't it, she'd built the thing and landed it — except that the case it closed didn't seem to be staying closed. The folder wouldn't sit flat in the drawer. There was no reason for that. She had another sip of wine and put the feeling where she put things, and it went, mostly.
+The talk went on being easy. Class Tuesday, the reading, whether Marsh assigned like a woman who'd forgotten students took other courses. It was fine. It was lovely.
+
+And under it, at the bottom of her glass, Vee kept arriving at a slightly wrong feeling, the specific feeling of a joke that had worked — the laugh had come, hadn't it, she'd built the thing and landed it — except that the case it closed didn't seem to be staying closed. The folder wouldn't sit flat in the drawer. There was no reason for that. She had another sip of wine and put the feeling where she put things, and it went, mostly.
 
 They split the check at the little terminal. Ten o'clock again — they'd done it again, shut the place down on a school night, and the boy downstairs was stacking chairs with his practiced apology, and they went down the steep stair with their coats on and out past the jukebox and its climbing green water into cold that had teeth in it now, the real end-of-January kind.
 
@@ -246,7 +274,9 @@ The sidewalk had them to itself. Streetlight, breath.
 
 "It's a deal."
 
-And Randi kissed her goodbye, as they did — the mouth, soft, the little pause, the second one after it — and then the hug, and the hug was a good one tonight, long, coats crushed together, Vee's cheek against Randi's cool cheek, the bitter orange finding her, green at its edge, and Vee had no plans about any of it. Randi's head leaned away from her, making room, settling the hug in deeper, and the lean laid her neck along Vee's mouth — the side of it, the soft place where a whole December's crying had once soaked in — and Vee kissed it. Just did. Her mouth knew the spot as a hand knows a light switch, and the kiss was landed before any of her had convened on the question.
+And Randi kissed her goodbye, as they did — the mouth, soft, the little pause, the second one after it — and then the hug, and the hug was a good one tonight, long, coats crushed together, Vee's cheek against Randi's cool cheek, the bitter orange finding her, green at its edge, and Vee had no plans about any of it.
+
+Randi's head leaned away from her, making room, settling the hug in deeper, and the lean laid her neck along Vee's mouth — the side of it, the soft place where a whole December's crying had once soaked in — and Vee kissed it. Just did. Her mouth knew the spot as a hand knows a light switch, and the kiss was landed before any of her had convened on the question.
 
 "Thank you," she said, into the cold, a beat behind her own mouth. "For the good advice."
 
@@ -256,7 +286,9 @@ And Randi kissed her goodbye, as they did — the mouth, soft, the little pause,
 
 "Tuesday."
 
-The walk back was six minutes with the wind coming at her this time, so she put her chin into her collar and leaned on it. The evening rode along inside her coat where the cold couldn't get at it — the comb, the verdict, *you picked well*, the court and its whole warm session — and with it, keeping pace, having apparently walked out of the restaurant with her, came one sentence in her own voice, arriving again at its own intervals, like a song that gets in.
+The walk back was six minutes with the wind coming at her this time, so she put her chin into her collar and leaned on it.
+
+The evening rode along inside her coat where the cold couldn't get at it — the comb, the verdict, *you picked well*, the court and its whole warm session — and with it, keeping pace, having apparently walked out of the restaurant with her, came one sentence in her own voice, arriving again at its own intervals, like a song that gets in.
 
 *He likes it. Actually — he's enthusiastic.*
 
