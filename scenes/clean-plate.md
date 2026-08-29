@@ -244,7 +244,11 @@ And Vee's face did the thing she couldn't call back, because the real one was ri
 
 "As he should."
 
-"With his mouth *wet.*" Vee's hands came up, presenting it, the whole absurdity. "With — me. All over it. I'm kissing him back before I know anything, and then it arrives, the taste of — it's me, I'm tasting *myself*, Randi, off my own boyfriend's mouth, in the middle of the — and my entire body did a thing I can only call a full-system objection. I turned my face. I put the back of my hand over my mouth like a Victorian."
+"With his mouth *wet.*" Vee's hands came up, presenting it, the whole absurdity. "With — me. All over it. I'm kissing him back before I know anything, and then it arrives, the taste of—"
+
+—and it arrived now, in the booth, saying it: the wet of it back on her own tongue before she could stop it, present-tense and real, and the bit fell out of her hands. She sat a second with her mouth a little open, nothing funny in her face at all.
+
+Then she got hold of it again, fast. "—it's *me,* is the thing. I'm tasting *myself,* Randi, off my own boyfriend's mouth, in the middle of the — and my whole body did what I can only call a full-system objection. I turned my face. I put the back of my hand over my mouth like a Victorian."
 
 She did it, hand up, the gesture rerun for the loft as farce. "And I told him — this man, mid — I told him, '*Ugh — gross.*' And then, because apparently I wasn't done, '*That's — no. Wrong.*'"
 
