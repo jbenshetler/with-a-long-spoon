@@ -96,11 +96,7 @@ Then Randi got a look at her and put her hand to her heart, and the look went do
 
 "*Girl.* It's criminal what you've been hiding from the rest of us." And she set her hands on Vee's waist, both of them, warm through the fine knit, and held her there at arm's length a second, the way you hold a thing up to the light to see it properly.
 
-And Vee stood there in the loft's lamplight being held and looked at, and the heat that came up her face arrived already converted, pleasure the whole distance — and Randi's hands through the sweater wound her tighter still, the whole held story pulled up hard against the touch, everything in her brimming at once with nowhere yet to put it.
-
-And brimming up with all the rest of it, no quieter for being tender: *hiding.* Randi always knew when she was doing it — hiding, or tidying a thing up smaller than it had been — and she'd ask for the real version instead, the harder one, and Vee always came out of it feeling better than she'd gone in.
-
-That was the part she still couldn't get over: glamorous Randi, adventurous and wise and able to give the kind of advice that actually helped, found Vee's life *interesting.* It was the friendship she'd dreamed up at fifteen and never once gotten — more fun, more intimate than she'd ever known a real one could be.
+And Vee stood there being held and looked at, Randi's hands warm on her waist through the fine knit, and a warmth climbed her face and turned into a smile — pleasure, the whole distance of it.
 
 They settled into the booth, and the girl who'd brought them up asked what they wanted to drink, and Randi ordered the red without opening the list, the same as Tuesday. She came back with it and poured them each a glass and asked after their food, and neither of them had so much as touched a menu.
 
@@ -110,7 +106,9 @@ They settled into the booth, and the girl who'd brought them up asked what they 
 
 Randi settled back with her glass, and she had not forgotten where the sidewalk had cut Vee off. "You'd leaned down," she said, easy, holding the place open like a thumb in a book. "In the lot. The roadhouse lit up. Go on."
 
-And Vee went on — in the version she could tell across a white cloth, the edges sanded off. "And he — Randi, he *came apart.* This big steady man. His hand came into my hair and forgot it was there, and I felt the whole of him just go. It was—" she reached for the clean word "—it was a lot."
+And Vee gave the version that crossed a white cloth clean. "My head went to his lap," she said, light, "and he *came apart.* This big steady man — his hand came into my hair and forgot it was there, and I felt the whole of him just go." She reached for the clean word: "It was a lot."
+
+And even saying it she felt how small she'd made it — the true thing folded down to something you could set on a cloth — and felt, without looking up, that Randi had the size of exactly what was missing.
 
 Randi let that sit, and set one finger down on it. "Did you take it all?"
 
@@ -122,7 +120,7 @@ And that dropped her into the end of it — the pulse and the flood, the taste o
 
 "You *did* it," Randi said, low, delighted and tender and without a scrap of mercy. "And you can't even say it."
 
-And that went through Vee hotter than saying it ever would have, the doing and the not-saying set side by side where she had to look at both. She laughed, caught, color climbing, and still didn't say it, and drank, and it didn't help.
+She went to laugh and it didn't come out as one — a breath with a shake through it, her hand not steady bringing the glass up. She drank, and still didn't say it, and it didn't help.
 
 Then, quieter, from behind the glass, the part she could stand to give: "I told him to take me to bed. He said *yes ma'am,* and started the truck." The sly came back with the ground under it. "Only I couldn't wait that long."
 
