@@ -212,11 +212,11 @@ Randi was very still, arms folded, all her lights aimed.
 
 "Quickest I've ever seen a man get out of an apron. It went over his head in one move like a bird leaving." The loft's lamplight had her flushed now, or the wine did, or the story did, all three drawing on the same account. "And then I pointed at what I wanted."
 
-"Pointed."
+"Pointed." The bawdy had gone out of Randi's voice. She'd set the court down and gone still, watching Vee's face, and she didn't say anything else.
 
 "Here first." She touched the inside of her wrist, the white part, where the veins run. "And he crossed the room and put his mouth on the inside of my wrist and *stayed there.* Randi, who stays? Everything I know about men says the wrist is a toll booth — you pay it and drive on. He parked."
 
-Randi didn't say anything. Her fingernail rode the rim of her glass, one slow pass along the thin edge, and came away.
+Randi didn't say anything. Her fingernail found the rim of her glass and rode it once, slow, the thin edge singing almost too low to hear, and she drew her hand back into her lap.
 
 "And then his mouth just — traveled. Up the arm. Places nobody kisses, the crook of the elbow, higher — I pointed once more, at my breast, and even then he made me feel it coming from about a mile out — and after that I stopped pointing, mostly. It stopped being a thing I was directing and started being a thing I was surviving. He went down the wrong side of everything on purpose. I aimed him one place and he'd detour — the hip, the leg, the backs of my knees.
 
@@ -226,7 +226,9 @@ Randi didn't say anything. Her fingernail rode the rim of her glass, one slow pa
 
 "A trill. Like a phone from the nineties." She had both hands around her glass and wasn't drinking from it. "And by the time his mouth actually arrived anywhere, I'd been arriving for half an hour. And he — you remember the oranges. The blood oranges, the peel off in strips, every section lifted out of its skin, no white left anywhere, all that patience just to get at the — that's what he did. That's what it was like. He opened me like the orange."
 
-Somewhere below them the room made its noise and left the booth alone.
+She heard herself land it — *like the orange* — and her body was way out ahead of her: pulse up in her throat, the flush gone down past her collar, everything in her pulled tight and humming, and she was holding her face still over the top of it.
+
+Somewhere below them the room made its noise and left the booth alone. Randi didn't laugh, didn't hand anything back — she held still, her eyes staying on Vee, and let the quiet sit.
 
 She reached for her wine, and heard herself start to fold it up small, tuck it back to a size she could sit behind. "And then — you can fill in the—"
 
