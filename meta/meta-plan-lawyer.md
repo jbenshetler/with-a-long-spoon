@@ -15,10 +15,24 @@ matters; the work is federal/NY-flavored and remote.
 
 Sources, in order of efficiency:
 
-1. **The Authors Guild** (authorsguild.org) — membership (~$135/yr; a completed
-   manuscript qualifies) includes free legal consultations with staff attorneys
-   who do pre-pub review daily and refer out for full vetting reads. Cheapest
-   credible first pass over the pre-sheet.
+1. **The Authors Guild** (authorsguild.org) — **NOT available pre-launch for
+   legal (corrected 2026-08-30, verified on the live site).** Legal services
+   (contract review, copyright advice, dispute intervention) exist only in the
+   **Regular** and **Associate** tiers ($149/yr each). A self-published debut with
+   no prior book income qualifies only for **Emerging Writer ($100/yr)**, which the
+   site states explicitly "does not include legal help at this time." The
+   legal-bearing tiers are income-gated: **Regular** needs $5,000+ self-pub income
+   in the past 18 mo; **Associate** needs $500+ self-pub/freelance income (past 18
+   mo) *or* a trad-publisher contract offer *or* an agent representation offer — none
+   met before this book publishes. Two further caveats: (a) even at Regular/Associate
+   the legal-services page advertises *contract review / copyright / disputes*, **not
+   pre-publication manuscript review** for defamation/right-of-publicity/trademark —
+   the earlier "staff attorneys do pre-pub review daily" claim is **unconfirmed**;
+   confirm by email before relying on it; (b) the fee is **$149**, not ~$135.
+   **Verdict:** the Guild is a good *post-launch* membership — upgrade to **Associate
+   the moment cumulative sales clear $500** — but it does **not** solve the
+   *pre-publication* legal read. Use a paid pre-pub media attorney (source 3/4 below)
+   for that.
 2. **Alliance of Independent Authors (ALLi)** (allianceindependentauthors.org) —
    the self-publishing/KDP angle: vetted partner directory + advice center;
    their people know Amazon's erotica-category moderation in practice.
@@ -39,6 +53,18 @@ organizations (ALLi) and veteran erotica publishers. So the realistic team:
   Witchcraft paraphrase.
 - **ALLi-grade platform guidance** — the platform items: age-signal wording,
   category/keyword strategy, erotica-channel moderation.
+
+**ALLi Author membership carries its own legal benefits** (per the live ALLi site,
+recorded 2026-08-30): the **Author** tier — for authors who've published one+ book
+*or are just about to upload their first* (a completed 50k+ manuscript qualifies) —
+includes **Contract vetting** and **General legal advice** among its member benefits
+(alongside the advisory team, Approved Services directory, forum, etc.). This
+**complements but does not replace** the pre-pub attorney: *general* legal advice and
+*contract* vetting are not a formal **publication-clearance read** of the nine risk
+items (defamation/right-of-publicity/trademark clearance on named real people, places,
+and marks). So ALLi covers platform guidance **and** general/contract legal questions;
+the paid pre-pub media attorney still owns the targeted clearance read off the
+pre-sheet.
 
 ## Vetting questions for the attorney
 
@@ -92,7 +118,13 @@ For the lawyer to confirm/correct; rationale behind the pre-sheet's risk grades.
 
 ## Status
 
-- [ ] Choose counsel (Authors Guild first pass recommended)
+- [ ] Choose counsel — **paid pre-pub media attorney or VLA-Virginia, NOT the
+  Authors Guild** (Guild legal is income-gated and unavailable pre-launch; see the
+  2026-08-30 correction under Sources). ALLi's General legal advice + Contract vetting
+  cover general questions but not the clearance read.
+- [ ] Post-launch: join Authors Guild **Associate ($149)** once cumulative sales clear
+  $500; email the Guild first to confirm whether staff attorneys do *fiction pre-pub
+  review* (defamation/publicity/trademark) or only contract/copyright.
 - [x] Run the dated Dr. Marsh directory/archive check — run 2026-08-02, slot not occupied (see meta-plan-legal-read.md item [2]); Wayback leg blocked, review-site proxy used — re-run archive leg at publication
 - [ ] Run the Miranda Holdings, LLC entity search (VA registry + PPP data)
 - [ ] Consult on the 9 risk ≥ 2 items in `meta-plan-legal-read.md`

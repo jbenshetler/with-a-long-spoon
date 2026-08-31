@@ -1,6 +1,6 @@
 # Cover design — Volume 1
 
-*Owns everything on and about the cover object — concept, art, text hierarchy, production specs. `meta-blurb.md` owns the words (jacket/ad copy, positioning, the volume-title decision and its rationale); this doc owns how the cover renders them. Status: concept settled, details in prototype. Decisions marked; open questions at the bottom. The SVG master feeds the epub build pipeline (rasterize once at export — see Production).*
+*Owns everything on and about the cover object — concept, art, text hierarchy, production specs. `meta-blurb.md` owns the words (jacket/ad copy, positioning, the volume-title decision and its rationale); this doc owns how the cover renders them. Status: concept settled; human build nearly complete (Blender triangle + all three medallions rendered, mask locked, purple/aubergine background register settled — exact variant still tuning, title type pending); build files live outside the repo — see *Production build*. Decisions marked; open questions at the bottom. The SVG master feeds the epub build pipeline (rasterize once at export — see Production).*
 
 ---
 
@@ -36,24 +36,37 @@ The thin gold lines quietly invoke a **gilded cage** — kept *below* the thresh
 
 ---
 
-## Sleep mask vs. flower (leaning mask; A/B with test readers)
+## Sleep mask vs. flower (decided: mask — 2026-08-30)
 
-- **Mask** = what is *done to* Vee; names her as the object of the design; required for the balancing-on-the-blindfold statement; the cohort's home iconography (genre-legible). **Keep unless the A/B says otherwise.**
-- **Flower** = what Vee *is* (Art Nouveau, unmolded, the only living thing among two manufactured objects — the thesis from another angle). Costs the blindfold-in-the-geometry; signals romance more than erotica.
-- If the mask rendering reads "spa eye-pillow": fix in drafting (tie at the back, slight sheen), not by replacement.
-- **A/B protocol:** two bottom circles, same everything else, ask cold: *"what does this book promise?"* Expected: mask wins genre-promise, flower wins prettiness — want the first.
+**Decided: mask.** Two forces converged:
+
+- **Craft** — **mask** = what is *done to* Vee; names her as the object of the design; required for the balancing-on-the-blindfold statement; the cohort's home iconography (genre-legible).
+- **Production (the deciding constraint)** — no **flower** line art could be found or drawn that renders correctly in **constant-width gold lines consistent with the cloisonné** medallion treatment. The flower's organic, variable-width curves fight the engraved constant-line style the other two medallions (hand plane, solitaire) establish; it would not sit in the same register. The **flower**'s meaning (what Vee *is* — Art Nouveau, unmolded, the only living thing among two manufactured objects) was the pull toward it, but it costs the blindfold-in-the-geometry, signals romance over erotica, and — decisively — fails the cloisonné constant-line constraint.
+- If the mask rendering ever reads "spa eye-pillow": fix in drafting (tie at the back, slight sheen — the disconnected head-band ribbons in the current render already do this), not by replacement.
+- **The test-reader A/B is now confirm-not-reopen** (author was 95% before this ruling): if run at all, it asks *"what does this book promise?"* to *verify* the genre-promise read, not to relitigate mask vs. flower.
 
 ---
 
-## Background (open; prototype all four, judge at 100px in a row)
+## Background (decided: purple/aubergine register — 2026-08-30; exact variant still tuning)
 
-Excluded: **green** (jealousy/money to a browsing stranger — and the green-sheets claiming can't be known from outside), **white/gray** (flat, lifeless), **oxblood/wine** (sumptuous but destroys the red circle's singularity — rule out deliberately when suggested).
+**Decided: the purple/aubergine register** (candidate 3 below). Two things settled it:
+the **red-family grounds are out because red fights the red medallion** — any red
+ground destroys Vee's circle as the cover's only heat (generalizes the earlier
+oxblood/wine exclusion; see *Why the geometry works* — "the only heat on the cover…
+rules out red-family backgrounds"); and the **other three candidates were prototyped
+and failed** (blue-black Perlin, warm-black woodgrain, aged parchment — tested, none
+carried it). The current build renders on plum velvet `#5A3C5F`. **Still open: the
+exact purple variant** — tuning within the register, holding the option-3 guardrail
+below (keep it near *black-with-a-bruise*; saturated purple drifts to
+paranormal-romance shelf grammar).
 
-Ranked candidates — all are one `<filter>` swap in the same SVG master:
+Excluded (for the record): **green** (jealousy/money to a browsing stranger — and the green-sheets claiming can't be known from outside), **white/gray** (flat, lifeless), **oxblood/wine** and the **red family** (sumptuous but destroys the red circle's singularity — the deciding exclusion above).
+
+Candidates as ranked during selection — all one `<filter>` swap in the same SVG master; **3 won, 1/2/4 tested-and-failed:**
 
 1. **Blue-black Perlin + lamplight vignette** (current ground + faint warm radial glow behind the triangle). Canon atmosphere (the bench scenes are lamplit); lifts the dark circles off the ground without changing their fills — solves the thumbnail-mush structurally; heat held inside a cold frame.
 2. **Woodgrain in warm black** — the cover surface becomes, sub-threshold, *the bench*: the material everything rests on. Same discipline as the cage: at the almost-isn't level; consciously-"wood" says craftsman/cabin. Procedural: `feTurbulence` + `feDisplacementMap` over fine stripes.
-3. **Aubergine / deep plum** — erotic-luxe middle; gold-on-aubergine is classic luxury. Keep near black-with-a-bruise; saturated purple drifts to paranormal-romance shelf grammar.
+3. **Aubergine / deep plum — WINNER (decided 2026-08-30).** Erotic-luxe middle; gold-on-aubergine is classic luxury. Keep near black-with-a-bruise; saturated purple drifts to paranormal-romance shelf grammar — this guardrail governs the remaining exact-variant tuning.
 4. **Aged parchment** (wildcard) — line art on paper, plate-from-an-old-book, Laclos-adjacent; red circle lands like a wax seal. Most literary, least erotica-native: wrong for the primary channel, candidate for a literary-facing variant. **The interior title-page treatment is ruled out** (tried and removed 2026-07): as a CSS background it fails reader theming (dark modes paint white text over the pale image) and pagination (partial/inconsistent renders in Calibre, bleed-over in Apple Books); as a baked image it locks the aspect ratio against variable viewports and freezes text against reader font scaling. Interior pages stay plain HTML; any title-page dressing comes from typography (an embedded title font), never from a page background.
 
 ---
@@ -87,7 +100,7 @@ Retail title field (metadata, not art): *A Polite Invitation (With a Long Spoon,
 
 ---
 
-## Production build — human-generated (in progress)
+## Production build — human-generated (nearly complete)
 
 The AI comp (Generation prompt of record, below) is **proof-of-concept only.**
 The shipping cover is built by hand:
@@ -97,6 +110,23 @@ The shipping cover is built by hand:
 - **Illustrator** — typography and any line art.
 - **Photoshop** — compositing (medallion renders + type + velvet ground into the
   final layout).
+
+**Build state (2026-08-30): nearly complete.** Triangle + all three cloisonné
+medallions (hand plane, diamond solitaire, sleep mask) are modeled and rendered on
+the plum velvet ground — latest iteration `triangle-cloisonne-velvet-18.blend`,
+render `render_full.png` (2026-08-27). **Remaining:** title **typography** (not yet
+on the render — see Open Questions 3) and the **final composite** at target sizes.
+The current render sits on plum velvet (`#5A3C5F`); the background choice itself is
+still open (Open Questions 2).
+
+**Where the build files live — deliberately outside this repo.** The Blender scenes,
+renders, and working files are in **`~/clients/wals/cover/blender/`**, *not* under
+this repo's version control. Rationale (author): each `.blend` / full render runs
+~10 MB, so committing the iteration history would bloat the repo — and even **Git LFS
+is a concern** at this size and churn. The repo keeps only the small AI PoC comps in
+`images/` plus this spec; the **authoritative production source is the external
+`cover/` tree**, which must be **backed up separately** — it is not protected by the
+repo's git history.
 
 Consequences:
 
@@ -156,7 +186,7 @@ the author name; the hand plane carries a verdigris tint. Prompt verbatim:
 
 ## Open questions
 
-1. Mask vs. flower — A/B with the Volume 1 test readers.
-2. Background — pick from the four prototypes at thumbnail size.
+1. ~~Mask vs. flower~~ — **decided 2026-08-30: mask** (see *Sleep mask vs. flower*; the flower failed the cloisonné constant-line constraint). Test-reader A/B, if run, is confirm-not-reopen.
+2. ~~Background~~ — **decided 2026-08-30: purple/aubergine register** (red-family fights the red medallion; other candidates tested and failed — see *Background*). Only the **exact purple variant** is still being tuned.
 3. Title typography — untouched so far; decides the whole register. (What the text *says* and its hierarchy are decided — see Cover text — this question is purely typeface/treatment.)
 4. ~~Whether the cover carries the tagline~~ — **decided 2026-07-30: no** (see Cover text).
