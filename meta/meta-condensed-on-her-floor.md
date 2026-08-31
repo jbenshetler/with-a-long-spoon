@@ -62,7 +62,7 @@ The whole evening is **borrowed belonging**: Vee gets the sorority world on loan
 
 ## Aftermath — downstream beats (committed this session)
 
-- **{{The Jar}} cold-open** (`meta-condensed-held-loosely.md`): the kiss-aftermath re-files at the *top* of the next brunch — Randi defuses it with laughter (*"oh my GOD, Harrison's face"*), **Randi smooth / Vee brittle** (temperature-gap: Vee's brittleness reads as her own vulnerability; Randi's surface stays uncracked), the *"you didn't tell Pace, did you?"* probe — then the brunch rolls into its assigned Jitterbug business. Arms the irony; costs no new scene slot.
+- **{{The Jar}} cold-open** (`meta-condensed-held-loosely.md`): the kiss-aftermath re-files at the *top* of the next brunch — Randi defuses it with laughter (*"oh my GOD, Harrison's face"*), **Randi smooth / Vee brittle** (temperature-gap: Vee's brittleness reads as her own vulnerability; Randi's surface stays uncracked), the *"you didn't tell Pace, did you?"* probe — then the brunch rolls into its assigned {{Held Loosely}} business (the jar-telling). Arms the irony; costs no new scene slot.
 - **Vee tells Pace — this is {{Boyfriend}}** (drafted; that same night → Sunday): because it *isn't* cheating, she can bring it to him. Generative, not a held secret — hot sex, and Pace asks whether she's ever thought about being with a woman; her *"I'm not gay"* door-slam takes the just-happened Randi kiss as its referent, and she lies and accuses (*you want Randi*). The two tracks collide through Pace. ({{Missed a Spot}} is separate and earlier — self-motivated, two weeks before — and does not carry this line; see `meta-condensed-boyfriend.md`, `meta-note-taste-thread.md`.)
 
 ## Title Logic

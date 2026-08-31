@@ -19,12 +19,12 @@ The two poles also trace her liberation arc: Sep ({{Water Wings}}) = desirable *
 |---|---|---|---|
 | **Ambient leers** (Pace-free; Cassie only *dismisses* them — solidarity, not a seal) | **{{Water Wings}}** (~late Sep) | involuntary, Pace-free | **the anchor** — proves the fact early, on neutral ground |
 | A **plain female seal** — a friend who knows desirability says it flat, no pass in it | **dorm beat, Kayla** (e.g. *{{Nothing Underneath}}* laundry / *{{Among Friends}}*, ~late Jan) | woman *with* a desiring standpoint, no want for Vee | the clear-eyed female confirmation (was mis-slotted to Cassie) |
-| A **specific bid, deflected easy**, in the drink-buying gap | **{{Jitterbug}}** (~Feb) | a real person, non-creepy venue, Pace-absent moment | the "a real man crossed a room for her" evidence |
+| A **specific bid, deflected easy**, in the drink-buying gap | **{{Safely Held}}** (~Feb) | a real person, non-creepy venue, Pace-absent moment | the "a real man crossed a room for her" evidence |
 | The named past suitor | **Theo / {{Among Friends}}** (~late Jan) | a prior bid, kindly refused | light, already placed |
 | The room waking to her chosen reveal | **{{The Induction}}** (~Nov) | **chosen**, and Pace's dress | the *ownership pole* — **not** objective evidence |
 | Bartender's *"wasn't him they were jealous of, honey"* | {{Lesson}} (~Oct) | ambient, but Pace-entangled | texture; don't lean on it for the objective case |
 
-{{Water Wings}} and Theo are placed. **{{Jitterbug}}** needs one light beat folded in at drafting — a regular asks Vee to dance while Pace is at the bar; she gives an easy no; it lands "a real person wanted her," outside Pace's eyes, in a venue where being approached is normal. The **female seal** (formerly mis-slotted to Cassie in {{Water Wings}}) needs folding into a **Kayla dorm beat** at drafting — the *{{Nothing Underneath}}* laundry moment already has her clocking Vee, a natural home. {{The Induction}} stays itself.
+{{Water Wings}} and Theo are placed. **{{Safely Held}}** needs one light beat folded in at drafting — a regular asks Vee to dance while Pace is at the bar; she gives an easy no; it lands "a real person wanted her," outside Pace's eyes, in a venue where being approached is normal. The **female seal** (formerly mis-slotted to Cassie in {{Water Wings}}) needs folding into a **Kayla dorm beat** at drafting — the *{{Nothing Underneath}}* laundry moment already has her clocking Vee, a natural home. {{The Induction}} stays itself.
 
 ## The craft levers
 
@@ -35,6 +35,6 @@ The two poles also trace her liberation arc: Sep ({{Water Wings}}) = desirable *
 
 ## Guards
 
-- **Don't drop a pickup into {{Water Wings}}.** The pool's third-party reactions stay *ambient* — no one crosses the deck to her. The specific bid lives at {{Jitterbug}}.
+- **Don't drop a pickup into {{Water Wings}}.** The pool's third-party reactions stay *ambient* — no one crosses the deck to her. The specific bid lives at {{Safely Held}}.
 - **Don't ask the Induction to prove the objective case.** Chosen + Pace's dress — doubly compromised for "independent of her / of Pace." Let it be the ownership pole.
 - **Space and vary.** A few well-placed, different-in-kind instances — never a drumbeat of men hitting on Vee (tips to a tiresome trope, and to vain).

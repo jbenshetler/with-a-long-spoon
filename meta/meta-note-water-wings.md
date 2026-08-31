@@ -37,7 +37,7 @@ But the **water itself survived the exile.** She lost the sport; she didn't lose
 
 ## Guards
 
-- **Leers stay ambient, never an approach.** Whistles and looks from across the water — the world's noise, at a distance, armored against. Nobody crosses the deck to her (that reads creepy and turns her deflection defensive; the specific *bid* lives at {{Jitterbug}}, a venue built for being approached).
+- **Leers stay ambient, never an approach.** Whistles and looks from across the water — the world's noise, at a distance, armored against. Nobody crosses the deck to her (that reads creepy and turns her deflection defensive; the specific *bid* lives at {{Safely Held}}, a venue built for being approached).
 - **"Too much" = the world, not the mother.** The mother owns the prim register elsewhere; this scene exists for the *other* source.
 - **The water is homecoming — not escape, not prowess.** No stroke-display; no "no one's looking here." The old love, the grief, the shared play.
 - **The splash is Cassie-care as Cassie** — she clocks her friend drift somewhere sad and, rather than ask, splashes her in the face. Wordless (or one dry word). Friendship-level perception only — no Cassandra, no reading the synchro grief.
