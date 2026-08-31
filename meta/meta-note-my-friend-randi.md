@@ -47,7 +47,7 @@ The goodbye-kiss staircase does **not** escalate here: the **usual settled kiss*
 
 - **Format-break, not a brunch.** A reunion wants intimacy: **Randi's single.** Breaks the brunch monopoly (the track wants this) and suits a confidence over a public seated apparatus.
 - **No bathroom beat.** The shame here is **relational** (jealousy, not-enough-ness), not erotic/transgressive — the shame-arousal mechanism does not fire. This is a warmth/refuge scene, not an apparatus scene.
-- **Vee POV; Randi opaque.** No interior crack. Randi's single is the **setting**, not an aperture — her interior stays locked to the containers rule (flag 15; the next aperture is {{Spring Inversion}}, mid-Feb). The reader infers everything from Vee's reading of Randi's warmth and belief in her; whether Randi is moved or filing is never given.
+- **Vee POV; Randi opaque.** No interior crack. Randi's single is the **setting**, not an aperture — her interior stays locked to the containers rule (flag 15; the next aperture is {{Inversion}}, mid-Feb). The reader infers everything from Vee's reading of Randi's warmth and belief in her; whether Randi is moved or filing is never given.
 - **Double register — every line passes both tests, no word changing.** Worked example — Vee: *"I kept picturing him with her the whole break."* Randi, warm: *"Of course you did — that's how you know he's yours to lose."* First read: a friend normalizing heartbreak. Reread: she installs the worry as permanent, the dependency deepening. Aim every line there.
 
 ## Guards

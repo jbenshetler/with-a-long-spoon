@@ -1,6 +1,6 @@
 # The Reach — companion note (banked tokens + coordination)
 
-*Vignette · Thu Jan 21, late, her room · the same night as {{A Clean Plate}}, hours after Randi's reframe · Vee solo · slug: vee-the-reach · Unwritten.*
+*Vignette · Thu Jan 21, late, her room · the same night as {{A Clean Plate}}, hours after Randi's reframe · Vee solo · slug: reach · Unwritten.*
 
 **Authoritative beat-spine lives elsewhere:** the chronology entry ({{The Reach}}) and `meta-note-taste-thread.md` (staircase row 2). This note only **banks the sensory tokens {{A Clean Plate}} deliberately holds back for The Reach**, plus the pulse through-line, so the two scenes stay coordinated when The Reach is drafted. Created 2026-08-28.
 
