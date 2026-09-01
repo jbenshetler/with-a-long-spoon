@@ -342,3 +342,47 @@ Also decide: the line **"not, even now, anywhere near done"** currently ends On
 Her Floor, and the drafted {{Boyfriend}} now ends on the same
 beat. Don't let it close two back-to-back scenes — pick which scene owns it (the
 confession is arguably the stronger home) and vary or cut the other.
+
+-----
+
+# Authoring-context tooling — Volume-scope mismatch
+
+## 34. Checkpoint machinery is Volume-One-scoped; breaks for Vol 2+ chapters (TOOLING — added 2026-08-31)
+
+The `meta-authoring-context.md` procedure (load `ck-ch{B}` where
+`B = ((N-1)//10)*10`, plus the recent-prose window `ch B+1..N-1`, before drafting
+chapter N) **assumes a single global chapter stream**, but the checkpoint tooling
+only covers **Volume One (50 drafted chapters; last checkpoint `ck-ch050`)**.
+Surfaced 2026-08-31 while prepping to draft `{{Coming Due}}` (Vol 2, cross-volume
+chapter **66**):
+
+- `tools/checkpoint_context.py --to 66` reports *"50 drafted / nothing drafted
+  between ch60 and ch66 / chapter 66 has nothing before it / `ck-ch060` can't be
+  minted — 50 chapters drafted, ch1..ch60 needed."*
+- `tools/checkpoint_bundle.py --to 60` errors: *"range 1..60 out of bounds
+  (1..50 drafted)."* Its inventory tops out at Volume One even though its help
+  says order/inventory come from `volume_scenes.py`.
+- `tools/volume_scenes.py` itself counts **cross-volume**: 50 (V1) + 48 (V2) +
+  12 (V3) = **67 drafted**. So `volume_scenes` and the two checkpoint tools
+  disagree on what "chapter N" and "drafted count" mean.
+
+**Impact:** the "load the decade checkpoint before drafting" step is currently
+un-runnable for any Volume Two+ chapter. There is no Vol-2 checkpoint
+infrastructure (only `ck-ch010…050` exist). `ck-ch060+` cannot be minted by the
+present bundler.
+
+**Decide how authoring-context should work past Volume One:**
+- **(a)** Extend the tooling to span volumes — global numbering, mint `ck-ch060`,
+  `ck-ch070`, … from a cross-volume bundle; fix `checkpoint_context`/`bundle` to
+  read the same cross-volume inventory as `volume_scenes.py`.
+- **(b)** Make it volume-relative — per-volume checkpoints (e.g. `ck-v2-ch010`),
+  so Vol 2 restarts the decade clock.
+- **(c)** Convention only — treat `ck-ch050` (end of Vol 1) as the standing
+  reader-memory floor for early Vol-2 chapters and rely on the `lore-keeper` for
+  Vol-2 scene-local canon until Vol-2 checkpoints are built. (What was used to
+  draft `{{Coming Due}}` this session — note it undershoots: `ck-ch050` does not
+  cover the drafted early-Vol-2 chapters, e.g. `{{Boyfriend}}`, `{{On Her Floor}}`,
+  `{{A Clean Plate}}`, that precede `{{Coming Due}}`.)
+
+Belongs to the tooling, not novel canon; parked here because it blocks the
+drafting workflow.
