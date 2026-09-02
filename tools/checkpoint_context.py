@@ -254,8 +254,12 @@ def _window_note(win_start: int, win_end: int, win_end_req: int, b: int) -> str:
 def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("--to", dest="n", type=int, required=True,
-                    help="chapter being drafted (N); context covers everything before it")
+    tgt = ap.add_mutually_exclusive_group(required=True)
+    tgt.add_argument("--to", dest="n", type=int,
+                     help="chapter being drafted (N, drafted reading order); context covers everything before it")
+    tgt.add_argument("--scene", dest="scene",
+                     help="scene slug; resolves N for you (drafted reading order — works even if the "
+                          "target scene is itself undrafted). Prefer this over --to.")
     ap.add_argument("--model", default="claude-opus-4-8",
                     help="checkpoint model id (default: opus; e.g. claude-fable-5, gpt-5.6-terra)")
     ap.add_argument("--keep", default=None,
@@ -275,9 +279,9 @@ def main() -> None:
     args = ap.parse_args()
     mint_mode = "always" if args.mint else "never" if args.no_mint else "ask"
 
-    n = args.n
+    n = args.n if args.n is not None else checkpoint_bundle.volume_scenes.chapter_number(args.scene)
     if n < 1:
-        raise SystemExit("[error] --to must be >= 1")
+        raise SystemExit("[error] resolved chapter N must be >= 1")
     b = boundary(n, args.decade)
     keep = resolve_keep(args.keep, args.drop)
 

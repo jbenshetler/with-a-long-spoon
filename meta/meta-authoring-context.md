@@ -19,8 +19,16 @@ spec-blind decade **checkpoints** under `reviews/cold-read/<model>/checkpoints/`
 `tools/checkpoint_context.py` assembles the authoring view of it:
 
 ```
-tools/checkpoint_context.py --to N            # opus checkpoint by default
+tools/checkpoint_context.py --scene <slug>    # opus checkpoint by default
 ```
+
+Address the chapter by its **slug**, not a number: `--scene` resolves the drafted
+reading-order N for you (= 1 + the drafted chapters before it in chronology order;
+`tools/volume_scenes.py --number <slug>` prints it). It works even when the target
+chapter is itself undrafted — the case when you're about to write it. Never hand-count N
+off the chronology: the chronology includes planned-but-undrafted entries, so its
+position diverges from the drafted order the tool indexes (e.g. `another-round` is
+chronology position 60 but drafted N 58). `--to N` remains for when you already know N.
 
 It emits, in order:
 
@@ -37,8 +45,8 @@ already panel-QA'd); the recent window is real prose at full fidelity.
 
 1. Load the `meta/` canon docs first (the Read list / `lore-keeper` prep). **Meta before
    the checkpoint** — canon is the foundation; the checkpoint colors on top of it.
-2. Run `tools/checkpoint_context.py --to N` and bring its output into context. The recent
-   prose lands last, so it sits freshest.
+2. Run `tools/checkpoint_context.py --scene <slug>` and bring its output into context. The
+   recent prose lands last, so it sits freshest.
 3. Draft. The per-scene `lore-keeper` prep still runs — this background load **composes
    with** it, it does not replace it.
 

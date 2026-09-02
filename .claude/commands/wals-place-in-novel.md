@@ -33,9 +33,12 @@ claim, never as the primary source.
 
 ## Step 2 — Load the story (grounded, volume-scale)
 
-Resolve the chapter's number N in reading order (`tools/volume_scenes.py`).
-The factual record of the book is the grounded checkpoint machinery — the same
-memory the cold-read panel trusts:
+Address the chapter by its slug — `tools/checkpoint_context.py --scene <slug>`
+resolves the drafted reading-order N for you (`tools/volume_scenes.py --number
+<slug>`); don't hand-count it off the chronology, which includes
+planned-but-undrafted entries and so diverges from the drafted order the tools
+index. The factual record of the book is the grounded checkpoint machinery —
+the same memory the cold-read panel trusts:
 
 - **Prefer whole-volume grounding.** For a Volume 2+ chapter: read the volume
   boundary checkpoint (e.g. `ck-ch050` = all of Volume 1) **plus the raw clean
@@ -43,7 +46,7 @@ memory the cold-read panel trusts:
   `tools/checkpoint_bundle.py` or reading `scenes/` files directly), so the
   chapter is judged inside its own volume read end to end.
 - For a Volume 1 chapter, or when the volume is too large for context:
-  `tools/checkpoint_context.py --to N` (checkpoint + recent raw window), and
+  `tools/checkpoint_context.py --scene <slug>` (checkpoint + recent raw window), and
   additionally read the checkpoint *after* N if one exists — place-in-novel
   needs what follows, not just what precedes.
 - Use a Claude-family checkpoint (`claude-fable-5` or `claude-opus-4-8` under

@@ -94,6 +94,22 @@ def volume_of(slug: str) -> int:
     return vol
 
 
+def chapter_number(slug: str) -> int:
+    """Drafted reading-order number N for a scene = 1 + the count of *drafted* scenes that
+    precede it in chronology order. This is the number checkpoint_context.py --to expects.
+
+    Deliberately NOT the chronology position (which counts planned-but-undrafted entries
+    too) and NOT reader_slugs().index()+1 (which raises for an undrafted target). It works
+    whether or not `slug` is itself drafted: for a drafted scene it equals its drafted
+    index; for an undrafted target (a chapter about to be written) it is the position it
+    will occupy, so the authoring window — the drafted chapters before it — is exact."""
+    scenes = all_scenes()
+    target = next((i for i, s in enumerate(scenes) if s["slug"] == slug), None)
+    if target is None:
+        raise KeyError(f"slug {slug!r} not found in chronology")
+    return 1 + sum(1 for s in scenes[:target] if s["drafted"])
+
+
 def _parse_fall_scenes_slugs(path: Path):
     """Textually extract the ordered Volume One slug prefix from
     `cold_read_batch.py`'s `FALL_SCENES` list literal, without importing it
@@ -125,8 +141,13 @@ def _cli():
 
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--list", nargs="?", const="all", metavar="N", help="list volume N (default all)")
+    parser.add_argument("--number", metavar="SLUG", help="print the drafted reading-order N for a scene slug (what checkpoint_context --to expects)")
     parser.add_argument("--check", action="store_true", help="validate chronology Volume One drafted slugs against FALL_SCENES")
     args = parser.parse_args()
+
+    if args.number:
+        print(chapter_number(args.number))
+        return
 
     if args.check:
         batch_path = Path(__file__).resolve().parent / "cold_read_batch.py"

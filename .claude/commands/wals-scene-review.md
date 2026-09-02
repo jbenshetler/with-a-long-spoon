@@ -20,10 +20,12 @@ Read the style hits as *candidates*, not verdicts — surface clusters and any
 
 ## Step 1.5 — Ground the story-so-far (fed, not fetched)
 
-Resolve the chapter's number N in reading order (`tools/volume_scenes.py` /
-the chronology), then run `tools/checkpoint_context.py --to N` and **read its
-output into context**: the decade memory checkpoint `ck-ch<B>` (verbatim,
-panel-QA'd) + the full clean prose of chapters B+1..N−1. This is the same
+Run `tools/checkpoint_context.py --scene <slug>` and **read its output into
+context**: the decade memory checkpoint `ck-ch<B>` (verbatim, panel-QA'd) + the
+full clean prose of chapters B+1..N−1. `--scene` resolves the drafted
+reading-order N for you (`tools/volume_scenes.py --number <slug>`) — do **not**
+hand-count it off the chronology, which includes planned-but-undrafted entries
+and so diverges from the drafted order the tool indexes. This is the same
 grounded memory the cold readers get — it means the review holds the *actual*
 story-to-date facts (who knows what, what's been consummated, which images are
 already spent) instead of hoping a lookup surfaces them. Continuity and
