@@ -94,10 +94,11 @@ def reader_slugs() -> list[str]:
     are cold-readable before the Vol 3 checkpoint machinery exists. Appending never
     shifts a Vol 1 or Vol 2 index. There is no ck past ck-ch050 yet, so a Vol 3 read
     must run with --decade 50 (boundary stays at ck-ch050 + the full raw Vol 2 window);
-    the default decade 10 would demand a nonexistent ck-ch060."""
-    vol2 = checkpoint_bundle.volume_scenes.scenes_for_volume(2, drafted_only=True)
-    vol3 = checkpoint_bundle.volume_scenes.scenes_for_volume(3, drafted_only=True)
-    return vol1_slugs() + [s["slug"] for s in vol2] + [s["slug"] for s in vol3]
+    the default decade 10 would demand a nonexistent ck-ch060.
+
+    Delegates to checkpoint_bundle.reader_slugs() — the single cross-volume source shared
+    with the authoring lane (checkpoint_context), so the two can never drift on inventory."""
+    return checkpoint_bundle.reader_slugs()
 
 
 def boundary(n: int, decade: int) -> int:

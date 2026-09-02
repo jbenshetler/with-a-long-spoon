@@ -45,8 +45,7 @@ from pathlib import Path
 REPO = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(REPO / "tools"))
 
-import checkpoint_bundle  # noqa: E402  (clean prose window; imports volume_scenes)
-import volume_scenes  # noqa: E402
+import checkpoint_bundle  # noqa: E402  (clean prose window + reader_slugs; imports volume_scenes)
 
 DECADE = 10
 # Exit code the assistant catches: a checkpoint must be minted by a blind-extractor
@@ -72,9 +71,13 @@ SECTIONS = {
 DEFAULT_KEEP = ["who", "relationships", "irony", "motifs", "symbolism", "open", "story"]
 
 
-def boundary(n: int) -> int:
-    """Last decade checkpoint strictly before chapter n (0 if none)."""
-    return ((n - 1) // DECADE) * DECADE
+def boundary(n: int, decade: int = DECADE) -> int:
+    """Last decade checkpoint strictly before chapter n (0 if none). `decade` is the
+    checkpoint stride: 10 by default, but a post-Vol1 chapter with no decade checkpoint
+    yet past ck-ch050 runs with --decade 50 so the boundary stays at ck-ch050 and the
+    recent window is the raw prose of the current volume so far (the interim scheme,
+    until the next volume-seam checkpoint is minted — see meta-tooling-checkpoints.md)."""
+    return ((n - 1) // decade) * decade
 
 
 def ck_path(model: str, b: int) -> Path:
@@ -201,7 +204,7 @@ def ensure_checkpoint(model: str, b: int, mint_mode: str, drafted_count: int):
 
     if is_claude(model):
         tmp = Path(f"/tmp/ck-bundle-{model}-ch{b:03d}.md")
-        tmp.write_text(checkpoint_bundle.build_bundle(1, b, jacket=True))
+        tmp.write_text(checkpoint_bundle.build_bundle(1, b, jacket=True, slugs=checkpoint_bundle.reader_slugs()))
         sys.stderr.write(f"[mint] bundle written to {tmp}.\n"
                          + _claude_mint_steps(rel, f"bundle ready at {tmp}"))
         raise SystemExit(MINT_NEEDED)
@@ -258,6 +261,10 @@ def main() -> None:
     ap.add_argument("--keep", default=None,
                     help="comma-separated section aliases to keep (overrides DEFAULT_KEEP)")
     ap.add_argument("--drop", default=None, help="comma-separated section aliases to drop")
+    ap.add_argument("--decade", type=int, default=DECADE,
+                    help="checkpoint stride (default 10; use 50 for a post-Vol1 chapter with "
+                         "no decade checkpoint yet past ck-ch050 — boundary stays at ck-ch050 "
+                         "and the window is the current volume's raw prose so far)")
     ap.add_argument("--check", action="store_true", help="report the load plan; emit nothing")
     mint = ap.add_mutually_exclusive_group()
     mint.add_argument("--mint", action="store_true",
@@ -271,17 +278,18 @@ def main() -> None:
     n = args.n
     if n < 1:
         raise SystemExit("[error] --to must be >= 1")
-    b = boundary(n)
+    b = boundary(n, args.decade)
     keep = resolve_keep(args.keep, args.drop)
 
-    drafted = volume_scenes.volume_one_slugs(True)
+    drafted = checkpoint_bundle.reader_slugs()
     win_start = b + 1
     win_end_req = n - 1
     win_end = min(win_end_req, len(drafted))
     truncated = win_end_req > len(drafted)
 
     if args.check:
-        print(f"drafting chapter : {n}")
+        print(f"drafting chapter : {n}  (of {len(drafted)} drafted across all volumes)")
+        print(f"checkpoint stride: {args.decade}")
         print(f"decade boundary  : B = {b}" + ("  (no checkpoint — pre-decade)" if b < DECADE else ""))
         if b >= DECADE:
             p = ck_path(args.model, b)
@@ -307,7 +315,7 @@ def main() -> None:
             out.append(project(path.read_text(), keep))
 
     if win_start <= win_end:
-        window = checkpoint_bundle.build_bundle(win_start, win_end, jacket=False)
+        window = checkpoint_bundle.build_bundle(win_start, win_end, jacket=False, slugs=drafted)
         out.append(f"\n===== RECENT CHAPTERS (ch{win_start}..ch{win_end}, full clean prose) =====\n")
         out.append(window)
 

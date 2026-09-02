@@ -85,9 +85,27 @@ def display_title(slug: str) -> str:
     return first[2:].strip() if first.startswith("# ") else slug
 
 
-def build_bundle(start: int = 1, end: int | None = None, jacket: bool = True) -> str:
-    """Return the clean prose bundle for chapters [start..end] (1-based inclusive)."""
-    slugs = volume_scenes.volume_one_slugs(drafted_only=True)
+def reader_slugs() -> list[str]:
+    """The full cross-volume chapter sequence: Vol 1 drafted (1..50), then Vol 2
+    drafted, then Vol 3 drafted, in chronology order. Vol 1 is exactly 50 drafted
+    scenes, so appending later volumes never shifts a Vol 1 index — a Vol 1 read
+    (n<=50) is byte-identical to what it was before Vol 2 existed. This is the single
+    source of truth shared by the authoring lane (checkpoint_context) and the grounded
+    cold-read lane (cold_read_grounded), so the two can never drift on inventory."""
+    v1 = volume_scenes.volume_one_slugs(drafted_only=True)
+    v2 = [s["slug"] for s in volume_scenes.scenes_for_volume(2, drafted_only=True)]
+    v3 = [s["slug"] for s in volume_scenes.scenes_for_volume(3, drafted_only=True)]
+    return v1 + v2 + v3
+
+
+def build_bundle(start: int = 1, end: int | None = None, jacket: bool = True,
+                 slugs: list[str] | None = None) -> str:
+    """Return the clean prose bundle for chapters [start..end] (1-based inclusive).
+
+    `slugs` is the chapter universe to index into; it defaults to Vol 1 drafted
+    (the minting path's contract). Cross-volume callers pass reader_slugs()."""
+    if slugs is None:
+        slugs = volume_scenes.volume_one_slugs(drafted_only=True)
     end = end if end is not None else len(slugs)
     if not (1 <= start <= end <= len(slugs)):
         raise ValueError(f"range {start}..{end} out of bounds (1..{len(slugs)} drafted)")
