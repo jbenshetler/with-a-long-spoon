@@ -33,6 +33,10 @@ Usage:
   tools/cold_read_grounded.py --scope nothing-underneath  # one chapter by slug
   tools/cold_read_grounded.py --scope vol2                # a whole volume by volN
   tools/cold_read_grounded.py --model gpt-5.6-sol --to 50
+  tools/cold_read_grounded.py --auth api-key --model gpt-5.5 --to 50
+      # pay-per-token instead of subscription (author-authorized only — token rule):
+      # GPT lane uses OPENAI_API_KEY (Responses API); the Claude lane (--model claude-*)
+      # uses ANTHROPIC_API_KEY via `claude -p`. Default --auth subscription is unchanged.
   tools/cold_read_grounded.py --emit-prompt 50            # print chapter 50's
       # fully-assembled prompt to stdout (to drive a Claude blind-reader-grounded
       # subagent by hand — Claude readers consume no API tokens)
@@ -634,19 +638,25 @@ def write_review(model_id: str, n: int, decade: int, reaction: str) -> Path:
 
 
 def run_claude_headless(model: str, model_id: str, n: int, decade: int,
-                        system_prompt: str) -> Path:
+                        system_prompt: str, auth: str = "subscription") -> Path:
     """Clean-lane Claude read via headless `claude -p` (author ruling 2026-08-22):
-    subscription OAuth (never an API key — ANTHROPIC_API_KEY is scrubbed so billing
-    can't silently switch to pay-per-token), agent def as the ENTIRE system prompt
-    (--exclude-dynamic-system-prompt-sections), run from a throwaway non-repo cwd so
-    no project CLAUDE.md/AGENTS.md, git snapshot, or memory index can leak into the
-    reader. Mirrors the codex lane: packet on stdin, reaction on stdout, harness
-    writes the review file."""
+    agent def as the ENTIRE system prompt (--exclude-dynamic-system-prompt-sections),
+    run from a throwaway non-repo cwd so no project CLAUDE.md/AGENTS.md, git snapshot,
+    or memory index can leak into the reader. Mirrors the codex lane: packet on stdin,
+    reaction on stdout, harness writes the review file.
+
+    auth='subscription' (default): ANTHROPIC_API_KEY is scrubbed so billing can't
+    silently switch to pay-per-token — subscription OAuth only, the token-rule default.
+    auth='api-key' (author-authorized): the key is left in place so `claude -p` bills
+    per token; requires ANTHROPIC_API_KEY to be set."""
     import subprocess as sp
     import tempfile
     prompt = build_prompt(model_id, n, decade)
     env = dict(os.environ)
-    env.pop("ANTHROPIC_API_KEY", None)  # subscription auth only, per the token rule
+    if auth == "subscription":
+        env.pop("ANTHROPIC_API_KEY", None)  # subscription auth only, per the token rule
+    elif not env.get("ANTHROPIC_API_KEY"):
+        raise RuntimeError("--auth api-key needs ANTHROPIC_API_KEY set in the environment (Claude lane)")
     with tempfile.TemporaryDirectory(prefix="coldread-") as td:
         spf = Path(td) / "system-prompt.md"
         spf.write_text(system_prompt, encoding="utf-8")
@@ -727,6 +737,14 @@ def main() -> None:
     ap.add_argument("--decade", type=int, default=10, help="checkpoint boundary size (default 10)")
     ap.add_argument("--effort", default="low", choices=["none", "low", "medium", "high"],
                     help="reader reasoning effort (default low; high turns the reader into a critic)")
+    ap.add_argument("--auth", choices=["subscription", "api-key"], default="subscription",
+                    help="billing lane (default subscription). 'subscription' = codex OAuth (GPT) / "
+                         "`claude -p` OAuth with ANTHROPIC_API_KEY scrubbed (Claude). 'api-key' = "
+                         "pay-per-token via OPENAI_API_KEY (GPT, Responses API) or ANTHROPIC_API_KEY "
+                         "(Claude, `claude -p`). api-key is AUTHOR-AUTHORIZED ONLY — see the token rule.")
+    ap.add_argument("--max-output-tokens", type=int, default=8000,
+                    help="output-token cap for the --auth api-key GPT lane (default 8000; unused by "
+                         "subscription and by the Claude lane)")
     ap.add_argument("--fresh", action="store_true", help="regenerate existing grounded reviews")
     ap.add_argument("--jobs", "-j", type=int, default=1, metavar="N",
                     help="parallel reads (default 1). Reads are independent (grounded, no "
@@ -856,16 +874,21 @@ def main() -> None:
               file=sys.stderr)
         return
 
+    if args.auth == "api-key":
+        lane = "Claude / ANTHROPIC_API_KEY" if args.model.startswith("claude-") else "GPT / OPENAI_API_KEY"
+        print(f"[auth] api-key lane — billing PER TOKEN (author-authorized only) · {lane}",
+              file=sys.stderr)
+
     if args.model.startswith("claude-"):
         # Headless clean lane for the Claude trio (author ruling 2026-08-22).
         from concurrent.futures import ThreadPoolExecutor, as_completed
         system_prompt = load_agent_prompt(AGENT_DEF)
         jobs = max(1, min(args.jobs, len(todo)))
-        print(f"[wave2/claude-headless] {len(todo)} reads · jobs={jobs}", file=sys.stderr)
+        print(f"[wave2/claude-headless] {len(todo)} reads · jobs={jobs} · auth={args.auth}", file=sys.stderr)
         failures = []
         with ThreadPoolExecutor(max_workers=jobs) as ex:
             futs = {ex.submit(run_claude_headless, args.model, model_id, n,
-                              args.decade, system_prompt): n for n in todo}
+                              args.decade, system_prompt, args.auth): n for n in todo}
             for fut in as_completed(futs):
                 n = futs[fut]
                 try:
@@ -890,10 +913,22 @@ def main() -> None:
     from concurrent.futures import ThreadPoolExecutor, as_completed
     pool: "Queue" = Queue()
     closes = []
-    for _ in range(jobs):
-        fn, close = cold_read.make_codex_agent_fn(system_prompt=system_prompt, effort=args.effort)
-        closes.append(close)
-        pool.put(fn)
+    if args.auth == "api-key":
+        key = os.environ.get("OPENAI_API_KEY")
+        if not key:
+            raise SystemExit("--auth api-key needs OPENAI_API_KEY set in the environment (GPT lane)")
+        # One Responses-API adapter (the OpenAI client is thread-safe for concurrent
+        # requests), handed out `jobs` times so read_one's pool.get/put still balances.
+        api_fn = cold_read.make_api_agent_fn(
+            system_prompt=system_prompt, pricing=None, effort=args.effort,
+            budget_usd=0, timeout=2400, max_output_tokens=args.max_output_tokens, api_key=key)
+        for _ in range(jobs):
+            pool.put(api_fn)
+    else:
+        for _ in range(jobs):
+            fn, close = cold_read.make_codex_agent_fn(system_prompt=system_prompt, effort=args.effort)
+            closes.append(close)
+            pool.put(fn)
 
     def read_one(n: int):
         slug = slugs[n - 1]
