@@ -21,7 +21,9 @@ When invoked you receive a question — often with a draft snippet to check agai
 tools/novel-assistant/na.py search "<query>" --json --top 12 [--active-edit <slug>] [--max-sequence <slug>]
 ```
 
-It's a hybrid (vector + keyword) search that deliberately **over-returns** tagged candidate passages — it does NOT filter; that's your job. Each JSON result carries `file`, `heading_path` (breadcrumb provenance), `sequence` (or null), `flags`, and the expanded `text`. Pass `--active-edit <slug>` when the caller names the scene being edited, and `--max-sequence <slug>` for an "as of scene X" scope. Run more than one query if the question has distinct facets — recall is cheap (~150 ms).
+It's a hybrid (vector + keyword) search that deliberately **over-returns** tagged candidate passages — it does NOT filter; that's your job. Each JSON result carries `file`, `heading_path` (breadcrumb provenance), `sequence` (or null), `flags`, and a match-centered **`snippet`** — a bounded window on the matching passage, hits wrapped in `«…»`. Pass `--active-edit <slug>` when the caller names the scene being edited, and `--max-sequence <slug>` for an "as of scene X" scope. Run more than one query if the question has distinct facets — recall is cheap (~150 ms).
+
+**Triage on the snippet; expand only what survives.** The default output is snippets, *not* full sections — deliberately. A `scenes/` file is one section = a whole chapter (30–60k chars); returning that per hit blew a single `--json --top 12` past 50k tokens. So: read the snippets, decide which 1–3 results actually answer, then get their full text — `Read` the live file (use the regex lane's `file:line` to target a range), or re-run with `--full` to attach the whole-section `text` to the JSON. **Never reach for `--full` as the first pass** — it re-arms the exact bloat this replaced. Most questions are answered from snippets plus one or two targeted reads.
 
 - **Honor the flags.** For any result tagged `STALE`, `ACTIVE-WIP`, or `STALE-COMPANION`, the index lags the live file — **read the live file and trust it** over the indexed text.
 
