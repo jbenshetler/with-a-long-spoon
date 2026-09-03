@@ -70,8 +70,6 @@ Then she was going — a wave up over her shoulder, quick heels into the dark �
 
 Cassie was on the lower bunk with a book against her knees, and she'd not been there long — her coat still on, the cold still coming off her. She looked up and took the measure of Vee's face for a second.
 
-"Pace and Randi?" she said. Not the flat way she said most true things — there was a worry under it, and a thread of disbelief she didn't trouble to hide.
+"What was that with you and Randi?" she said. Not the flat way she said most true things — there was a worry under it, and a thread of disbelief she didn't trouble to hide.
 
 Vee opened her mouth for the easy thing — sorority stuff, you know how she is — and nothing came up to meet it, because she didn't have it. She didn't know. That was the whole of the trouble, standing there in her coat in the doorway: her oldest friend had asked her the plainest question there was, and she could not answer it.
-
-Cassie let it lie. She didn't say I told you so. She never had.
