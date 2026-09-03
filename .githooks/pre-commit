@@ -7,9 +7,11 @@
 #
 # 1. {{Chapter Title}} validation: when a meta/*.md file is staged, verify every
 #    {{Title}} reference resolves to a real chapter (see CLAUDE.md).
-# 2. Chronology HTML regen: when a scene or the chronology doc is staged,
-#    rebuild chronology.html and stage it into the same commit, so the committed
-#    HTML stays current-on-disk. The per-scene "updated" date is read from git
+# 2. Chronology HTML regen: when a scene, the chronology doc, or a cold-read
+#    review is staged, rebuild chronology.html + chronology-reviews.html (the
+#    reviews variant embeds each chapter's cold reads under its card) and stage
+#    both into the same commit, so the committed HTML stays current-on-disk. The
+#    per-scene "updated" date is read from git
 #    history, so it lags the commit being made by one — accepted by design; the
 #    file is kept "current enough" by committing on every scene change.
 
@@ -27,15 +29,15 @@ if printf '%s\n' "$staged" | grep -q '^meta/.*\.md$'; then
 fi
 
 # --- 2. chronology HTML regen (scenes/*.md or the chronology doc) -----------
-if printf '%s\n' "$staged" | grep -qE '^(scenes/.*\.md|meta/meta-plan-chronology\.md)$'; then
+if printf '%s\n' "$staged" | grep -qE '^(scenes/.*\.md|meta/meta-plan-chronology\.md|reviews/cold-read/.*\.md)$'; then
     if ! python3 tools/chronology_html.py; then
         echo "" >&2
-        echo "pre-commit: chronology_html.py failed to regenerate chronology.html." >&2
+        echo "pre-commit: chronology_html.py failed to regenerate the chronology HTML." >&2
         echo "Fix the generator (or the chronology doc), then re-commit." >&2
         echo "(To bypass in an emergency: git commit --no-verify)" >&2
         exit 1
     fi
-    git add chronology.html
+    git add chronology.html chronology-reviews.html
 fi
 
 # --- 3. blurb/packet sync (jacket source or the reader packet) --------------

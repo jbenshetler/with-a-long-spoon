@@ -18,9 +18,13 @@ NOT deterministic: the per-scene "updated" date is read live from git, so the
 output changes as commits land even with no chronology edit. Re-run after any
 chronology edit (or after committing prose) to refresh.
 
+Also writes a sibling OUTPUT-reviews.html: the same view with each chapter's
+current-draft cold reads embedded (collapsed) under its card.
+
 Usage:
     tools/chronology_html.py [INPUT.md] [-o OUTPUT.html]
 Defaults: INPUT = meta/meta-plan-chronology.md, OUTPUT = chronology.html
+    (the reviews variant is written beside it as OUTPUT-reviews.html)
 """
 from __future__ import annotations
 
@@ -454,6 +458,39 @@ def _norm_slug(s: str) -> str:
     return re.sub(r"^(?:the|a|an)-", "", s)
 
 
+def _fresh_review_files(slug: str, reviews_root, scene_stamp=None, scene_commit=None):
+    """[(model_name, Path)], dropped_count — the cold reads of `slug` that reflect
+    the CURRENT prose. A review committed before the chapter's current commit rated
+    an earlier draft and is dropped: ancestry first (is the review's commit the
+    scene's commit or a descendant of it?), the committer clock only as fallback
+    when ancestry is undecidable. Reviews with no git stamp, or when the chapter
+    has none, are kept — we can't prove them stale. (Shared by the ratings pills
+    and the embedded-reviews view so both show the same set.)"""
+    files, dropped = [], 0
+    if not slug or reviews_root is None or not reviews_root.is_dir():
+        return files, dropped
+    key = _norm_slug(slug)
+    for model_dir in sorted(reviews_root.iterdir()):
+        if not model_dir.is_dir():
+            continue
+        for f in sorted(model_dir.glob("*.md")):
+            if _norm_slug(f.stem) != key:
+                continue
+            rel = f"{model_dir.name}/{f.name}"
+            fresh = None
+            if scene_commit:
+                fresh = git_is_ancestor(reviews_root, scene_commit,
+                                        git_last_commit(reviews_root, rel))
+            if fresh is None and scene_stamp:      # fall back to the clock
+                rstamp = git_last_instant(reviews_root, rel)
+                fresh = not (rstamp and rstamp <= scene_stamp)
+            if fresh is False:
+                dropped += 1
+                continue
+            files.append((model_dir.name, f))
+    return files, dropped
+
+
 def scene_ratings(slug: str, reviews_root, scene_stamp=None, scene_commit=None):
     """Average Heat/Romance for a scene slug across model reviews, or None.
 
@@ -477,37 +514,19 @@ def scene_ratings(slug: str, reviews_root, scene_stamp=None, scene_commit=None):
     so. The timestamp test survives only as the fallback for when ancestry is
     undecidable (no git, unrelated histories, an uncommitted file).
     """
-    if not slug or reviews_root is None or not reviews_root.is_dir():
-        return None
-    key = _norm_slug(slug)
-    heats, roms, per, dropped = [], [], [], 0
-    for model_dir in sorted(reviews_root.iterdir()):
-        if not model_dir.is_dir():
-            continue
-        for f in sorted(model_dir.glob("*.md")):
-            if _norm_slug(f.stem) != key:
-                continue
-            rel = f"{model_dir.name}/{f.name}"
-            fresh = None
-            if scene_commit:
-                fresh = git_is_ancestor(reviews_root, scene_commit,
-                                        git_last_commit(reviews_root, rel))
-            if fresh is None and scene_stamp:      # fall back to the clock
-                rstamp = git_last_instant(reviews_root, rel)
-                fresh = not (rstamp and rstamp <= scene_stamp)
-            if fresh is False:
-                dropped += 1
-                continue
-            t = f.read_text(encoding="utf-8")
-            hm, rm = HEAT_RE.search(t), ROMANCE_RE.search(t)
-            hv = min(3.0, float(hm.group(1))) if hm else None
-            rv = min(3.0, float(rm.group(1))) if rm else None
-            if hv is not None or rv is not None:
-                per.append((model_dir.name, hv, rv))
-                if hv is not None:
-                    heats.append(hv)
-                if rv is not None:
-                    roms.append(rv)
+    files, dropped = _fresh_review_files(slug, reviews_root, scene_stamp, scene_commit)
+    heats, roms, per = [], [], []
+    for model_name, f in files:
+        t = f.read_text(encoding="utf-8")
+        hm, rm = HEAT_RE.search(t), ROMANCE_RE.search(t)
+        hv = min(3.0, float(hm.group(1))) if hm else None
+        rv = min(3.0, float(rm.group(1))) if rm else None
+        if hv is not None or rv is not None:
+            per.append((model_name, hv, rv))
+            if hv is not None:
+                heats.append(hv)
+            if rv is not None:
+                roms.append(rv)
     if not heats and not roms:
         return None
 
@@ -516,6 +535,26 @@ def scene_ratings(slug: str, reviews_root, scene_stamp=None, scene_commit=None):
 
     return {"heat": _avg(heats), "romance": _avg(roms),
             "n": len(per), "per": per, "dropped": dropped}
+
+
+REACTION_HEAD_RE = re.compile(r"(?i)^##\s*reader reaction\s*$")
+
+
+def extract_reader_reaction(text: str) -> str:
+    """The '## Reader reaction' section body (grounded reads carry only that, so
+    it runs to EOF). Falls back to the whole file when the heading is absent."""
+    lines = text.splitlines()
+    for i, ln in enumerate(lines):
+        if REACTION_HEAD_RE.match(ln.strip()):
+            return "\n".join(lines[i + 1:]).strip()
+    return text.strip()
+
+
+def scene_review_texts(slug: str, reviews_root, scene_stamp=None, scene_commit=None):
+    """[(model_name, reaction_markdown)] for the current-draft cold reads of `slug`
+    (same staleness filter as the ratings pills — see `_fresh_review_files`)."""
+    files, _ = _fresh_review_files(slug, reviews_root, scene_stamp, scene_commit)
+    return [(m, extract_reader_reaction(f.read_text(encoding="utf-8"))) for m, f in files]
 
 
 # Monochrome glyph paths (24×24), fillable via CSS — a flame (Material
@@ -830,12 +869,20 @@ def render_entry(e: Entry) -> str:
     head = " ".join(parts)
     body = md_block(e.body) if e.body else ""
     details = (f'<details><summary>notes</summary>{body}</details>' if body else "")
+    revs = getattr(e, "review_texts", None)   # set only in the with_reviews build
+    if revs:
+        blocks = "".join(
+            f'<div class="review"><h4>{html.escape(m)}</h4>{md_block(r)}</div>'
+            for m, r in revs)
+        details += (f'<details class="reviews"><summary>cold reads ({len(revs)})</summary>'
+                    f'{blocks}</details>')
     return (f'<article id="beat-{e.slug}" class="card card-{sc}">'
             f'<h3>{html.escape(e.title)}</h3>'
             f'<div class="meta">{head}</div>{details}</article>')
 
 
-def build_html(entries, flags_raw, source_name, scene_dir=None, reviews_dir=None):
+def build_html(entries, flags_raw, source_name, scene_dir=None, reviews_dir=None,
+               with_reviews=False):
     nodes, w, h, baseline, pad_l, plot_w, span = beeswarm(entries)
     # stable, unique DOM ids so beeswarm dots can target their cards; and, for
     # drafted scenes, pull the prose file in so the reader can render it.
@@ -862,6 +909,10 @@ def build_html(entries, flags_raw, source_name, scene_dir=None, reviews_dir=None
             e.ratings = scene_ratings(e.file_slug or slugify(e.title),
                                       reviews_dir, scene_stamp=e.git_instant,
                                       scene_commit=getattr(e, "git_commit", None))
+            if with_reviews:
+                e.review_texts = scene_review_texts(
+                    e.file_slug or slugify(e.title), reviews_dir,
+                    scene_stamp=e.git_instant, scene_commit=getattr(e, "git_commit", None))
     # hidden raw-markdown sources the reader renders on demand; html.escape keeps
     # arbitrary prose inert, and .textContent decodes it back verbatim in JS.
     scene_srcs = "\n".join(
@@ -1254,6 +1305,12 @@ PAGE = """<!doctype html>
   .flagnum {{ flex:0 0 28px; height:28px; border-radius:50%; background:#2a313d; color:var(--ink);
     display:flex; align-items:center; justify-content:center; font-weight:700; font-size:13px; }}
   .flagbody p {{ margin:0 0 8px; }}  .flagbody p:last-child {{ margin:0; }}
+  details.reviews {{ margin-top:8px; }}
+  details.reviews > summary {{ color:#c9b6ff; font-weight:600; }}
+  .review {{ border-top:1px solid var(--line); margin-top:10px; padding-top:8px; }}
+  .review h4 {{ margin:0 0 6px; font-size:12px; color:#9fd3ff;
+    font-family:ui-monospace,monospace; text-transform:none; letter-spacing:0; }}
+  .review p {{ margin:6px 0; color:var(--ink); }}
 {reader_css}
 </style></head>
 <body>
@@ -1330,6 +1387,14 @@ def main():
     htmlout = build_html(entries, flags_raw, src.name, scene_dir=scene_dir,
                          reviews_dir=reviews_dir)
     Path(args.out).write_text(htmlout, encoding="utf-8")
+    # Second view: the same page with each chapter's current-draft cold reads
+    # embedded (collapsed) under its card. Filename: <out stem>-reviews<suffix>.
+    rev_out = Path(args.out).with_name(Path(args.out).stem + "-reviews" + Path(args.out).suffix)
+    rev_out.write_text(
+        build_html(entries, flags_raw, src.name, scene_dir=scene_dir,
+                   reviews_dir=reviews_dir, with_reviews=True),
+        encoding="utf-8")
+    print(f"wrote {rev_out}: same view + embedded cold reads", file=sys.stderr)
 
     n_dated = sum(1 for e in entries if e.date)
     by_status = {}

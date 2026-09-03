@@ -657,16 +657,30 @@ def run_claude_headless(model: str, model_id: str, n: int, decade: int,
         env.pop("ANTHROPIC_API_KEY", None)  # subscription auth only, per the token rule
     elif not env.get("ANTHROPIC_API_KEY"):
         raise RuntimeError("--auth api-key needs ANTHROPIC_API_KEY set in the environment (Claude lane)")
-    with tempfile.TemporaryDirectory(prefix="coldread-") as td:
-        spf = Path(td) / "system-prompt.md"
-        spf.write_text(system_prompt, encoding="utf-8")
-        cmd = ["claude", "-p", "--model", model,
-               "--system-prompt-file", str(spf),
-               "--exclude-dynamic-system-prompt-sections"]
-        r = sp.run(cmd, input=prompt, capture_output=True, text=True,
-                   env=env, cwd=td, timeout=2400)
+    import time
+    detail = ""
+    for attempt in range(5):
+        with tempfile.TemporaryDirectory(prefix="coldread-") as td:
+            spf = Path(td) / "system-prompt.md"
+            spf.write_text(system_prompt, encoding="utf-8")
+            cmd = ["claude", "-p", "--model", model,
+                   "--system-prompt-file", str(spf),
+                   "--exclude-dynamic-system-prompt-sections"]
+            r = sp.run(cmd, input=prompt, capture_output=True, text=True,
+                       env=env, cwd=td, timeout=2400)
+        if r.returncode == 0:
+            break
+        # `claude -p` writes API errors (e.g. "529 Overloaded") to STDOUT, not stderr —
+        # combine both so the failure is never silent, and auto-retry the transient ones.
+        detail = ((r.stdout or "").strip() + "\n" + (r.stderr or "").strip()).strip()[-600:]
+        transient = any(s in detail for s in ("529", "verloaded", "rate limit",
+                                              "rate_limit", " 500", " 502", " 503", "imeout"))
+        if not transient:
+            raise RuntimeError(f"claude -p failed for ch{n}: {detail}")
+        if attempt < 4:
+            time.sleep(10 * (attempt + 1))  # backoff on transient overload/rate-limit
     if r.returncode != 0:
-        raise RuntimeError(f"claude -p failed for ch{n}: {r.stderr.strip()[-600:]}")
+        raise RuntimeError(f"claude -p failed for ch{n} (transient, 5 attempts exhausted): {detail}")
     reaction = strip_leading_heading(r.stdout)
     if len(reaction) < 200:
         raise RuntimeError(f"suspiciously short reaction for ch{n} ({len(reaction)} chars)")
