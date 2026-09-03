@@ -95,12 +95,9 @@
   .flagnum { flex:0 0 28px; height:28px; border-radius:50%; background:#2a313d; color:var(--ink);
     display:flex; align-items:center; justify-content:center; font-weight:700; font-size:13px; }
   .flagbody p { margin:0 0 8px; }  .flagbody p:last-child { margin:0; }
-  details.reviews { margin-top:8px; }
-  details.reviews > summary { color:#c9b6ff; font-weight:600; }
-  .review { border-top:1px solid var(--line); margin-top:10px; padding-top:8px; }
-  .review h4 { margin:0 0 6px; font-size:12px; color:#9fd3ff;
-    font-family:ui-monospace,monospace; text-transform:none; letter-spacing:0; }
-  .review p { margin:6px 0; color:var(--ink); }
+  .badge-review { background:#7e57c2; }
+  .badge.openable-rev { cursor:pointer; }
+  .badge.openable-rev:hover { filter:brightness(1.14); }
 
   #reader { position:fixed; inset:0; z-index:50; background:var(--bg); color:var(--ink);
     overflow-y:auto; overflow-x:hidden; scroll-behavior:smooth; }
@@ -10304,11 +10301,11 @@ The music was still going, out past the bedroom door, low and unhurried through 
     return out.join('\n');
   }
 
-  function openReader(slug){
-    var el = document.getElementById('src-'+slug);
+  function openReader(srcId){
+    var el = document.getElementById(srcId);
     if (!el) return;
     savedScroll = window.scrollY || window.pageYOffset || 0;
-    curSlug = slug;
+    curSlug = srcId;
     src = el.textContent;
     titleEl.textContent = el.getAttribute('data-title') || '';
     body.innerHTML = renderMarkdown(src);
@@ -10316,10 +10313,10 @@ The music was still going, out past the bedroom door, low and unhurried through 
     marks = []; curMatch = -1; buffer = ''; mode = 'normal'; hideCmd();
     reader.hidden = false; reader.setAttribute('aria-hidden','false');
     document.body.style.overflow = 'hidden';
-    // restore this scene's own last position (top the first time), instantly —
+    // restore this source's own last position (top the first time), instantly —
     // no smooth animation across an unrelated prior scroll.
     reader.style.scrollBehavior = 'auto';
-    reader.scrollTop = scrollMem[slug] || 0;
+    reader.scrollTop = scrollMem[srcId] || 0;
     reader.style.scrollBehavior = '';
     reader.focus();
   }
@@ -10424,7 +10421,12 @@ The music was still going, out past the bedroom door, low and unhurried through 
   });
 
   document.querySelectorAll('.badge.openable').forEach(function(b){
-    function open(){ openReader(b.getAttribute('data-scene')); }
+    function open(){ openReader('src-'+b.getAttribute('data-scene')); }
+    b.addEventListener('click', open);
+    b.addEventListener('keydown', function(e){ if (e.key === 'Enter' || e.key === ' '){ e.preventDefault(); open(); } });
+  });
+  document.querySelectorAll('.openable-rev').forEach(function(b){
+    function open(){ openReader('rev-'+b.getAttribute('data-review')); }
     b.addEventListener('click', open);
     b.addEventListener('keydown', function(e){ if (e.key === 'Enter' || e.key === ' '){ e.preventDefault(); open(); } });
   });

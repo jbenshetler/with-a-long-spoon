@@ -841,6 +841,11 @@ def render_entry(e: Entry) -> str:
     if e.etype in ("SCENE", "VIGNETTE"):
         parts.append(presence_pills(e))
         parts.append(rating_pills(e))
+        if getattr(e, "review_texts", None):
+            parts.append(
+                f'<span class="badge badge-review openable-rev" role="button" '
+                f'tabindex="0" data-review="{e.slug}" title="Read the cold reads in full">'
+                f'cold reads ({len(e.review_texts)}) ↗</span>')
         parts.append(
             f'<span class="chip words" title="prose word count · ~{_pages(e.words)} '
             f'pp at {WORDS_PER_PAGE} wpm">{e.words:,} words</span>')
@@ -869,13 +874,6 @@ def render_entry(e: Entry) -> str:
     head = " ".join(parts)
     body = md_block(e.body) if e.body else ""
     details = (f'<details><summary>notes</summary>{body}</details>' if body else "")
-    revs = getattr(e, "review_texts", None)   # set only in the with_reviews build
-    if revs:
-        blocks = "".join(
-            f'<div class="review"><h4>{html.escape(m)}</h4>{md_block(r)}</div>'
-            for m, r in revs)
-        details += (f'<details class="reviews"><summary>cold reads ({len(revs)})</summary>'
-                    f'{blocks}</details>')
     return (f'<article id="beat-{e.slug}" class="card card-{sc}">'
             f'<h3>{html.escape(e.title)}</h3>'
             f'<div class="meta">{head}</div>{details}</article>')
@@ -920,6 +918,20 @@ def build_html(entries, flags_raw, source_name, scene_dir=None, reviews_dir=None
         f'data-title="{html.escape(e.title, quote=True)}" hidden>'
         f'{html.escape(e.scene_md)}</div>'
         for e in entries if e.scene_md)
+    # hidden per-chapter cold-read blobs the reader opens the same way as prose
+    # (present only in the with_reviews build); models concatenated as ## sections.
+    rev_blocks = []
+    for e in entries:
+        rt = getattr(e, "review_texts", None)
+        if not rt:
+            continue
+        blob = "\n\n".join(f"## {m}\n\n{r}" for m, r in rt)
+        rev_blocks.append(
+            f'<div class="revsrc" id="rev-{e.slug}" '
+            f'data-title="{html.escape("Cold reads — " + e.title, quote=True)}" hidden>'
+            f'{html.escape(blob)}</div>')
+    if rev_blocks:
+        scene_srcs = scene_srcs + "\n" + "\n".join(rev_blocks)
     ticks = month_ticks(pad_l, plot_w, span)
 
     # beeswarm svg
@@ -1079,11 +1091,11 @@ READER_JS = r"""
     return out.join('\n');
   }
 
-  function openReader(slug){
-    var el = document.getElementById('src-'+slug);
+  function openReader(srcId){
+    var el = document.getElementById(srcId);
     if (!el) return;
     savedScroll = window.scrollY || window.pageYOffset || 0;
-    curSlug = slug;
+    curSlug = srcId;
     src = el.textContent;
     titleEl.textContent = el.getAttribute('data-title') || '';
     body.innerHTML = renderMarkdown(src);
@@ -1091,10 +1103,10 @@ READER_JS = r"""
     marks = []; curMatch = -1; buffer = ''; mode = 'normal'; hideCmd();
     reader.hidden = false; reader.setAttribute('aria-hidden','false');
     document.body.style.overflow = 'hidden';
-    // restore this scene's own last position (top the first time), instantly —
+    // restore this source's own last position (top the first time), instantly —
     // no smooth animation across an unrelated prior scroll.
     reader.style.scrollBehavior = 'auto';
-    reader.scrollTop = scrollMem[slug] || 0;
+    reader.scrollTop = scrollMem[srcId] || 0;
     reader.style.scrollBehavior = '';
     reader.focus();
   }
@@ -1199,7 +1211,12 @@ READER_JS = r"""
   });
 
   document.querySelectorAll('.badge.openable').forEach(function(b){
-    function open(){ openReader(b.getAttribute('data-scene')); }
+    function open(){ openReader('src-'+b.getAttribute('data-scene')); }
+    b.addEventListener('click', open);
+    b.addEventListener('keydown', function(e){ if (e.key === 'Enter' || e.key === ' '){ e.preventDefault(); open(); } });
+  });
+  document.querySelectorAll('.openable-rev').forEach(function(b){
+    function open(){ openReader('rev-'+b.getAttribute('data-review')); }
     b.addEventListener('click', open);
     b.addEventListener('keydown', function(e){ if (e.key === 'Enter' || e.key === ' '){ e.preventDefault(); open(); } });
   });
@@ -1305,12 +1322,9 @@ PAGE = """<!doctype html>
   .flagnum {{ flex:0 0 28px; height:28px; border-radius:50%; background:#2a313d; color:var(--ink);
     display:flex; align-items:center; justify-content:center; font-weight:700; font-size:13px; }}
   .flagbody p {{ margin:0 0 8px; }}  .flagbody p:last-child {{ margin:0; }}
-  details.reviews {{ margin-top:8px; }}
-  details.reviews > summary {{ color:#c9b6ff; font-weight:600; }}
-  .review {{ border-top:1px solid var(--line); margin-top:10px; padding-top:8px; }}
-  .review h4 {{ margin:0 0 6px; font-size:12px; color:#9fd3ff;
-    font-family:ui-monospace,monospace; text-transform:none; letter-spacing:0; }}
-  .review p {{ margin:6px 0; color:var(--ink); }}
+  .badge-review {{ background:#7e57c2; }}
+  .badge.openable-rev {{ cursor:pointer; }}
+  .badge.openable-rev:hover {{ filter:brightness(1.14); }}
 {reader_css}
 </style></head>
 <body>
