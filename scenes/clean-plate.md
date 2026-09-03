@@ -290,7 +290,7 @@ And that was all. No verdict, no lecture, no little bow on it. The server came u
 
 The talk went on being easy. Class Tuesday, the reading, whether Marsh assigned like a woman who'd forgotten students took other courses. It was fine. It was lovely.
 
-And under it, at the bottom of her glass, Vee kept arriving at a slightly wrong feeling, the specific feeling of a joke that had worked — the laugh had come, hadn't it, she'd built the thing and landed it — except that the joke had only been a way to swallow the thing, and it wouldn't stay down. There was no reason for that. She had another sip of wine and put the feeling where she put things, and it went, mostly.
+And under it, at the bottom of her glass, Vee kept arriving at a slightly wrong feeling, the specific feeling of a joke that had worked — the laugh had come, hadn't it, she'd built the thing and landed it — except that the case it closed didn't seem to be staying closed. The folder wouldn't sit flat in the drawer. There was no reason for that. She had another sip of wine and put the feeling where she put things, and it went, mostly.
 
 They split the check at the little terminal. Ten o'clock again — they'd done it again, shut the place down on a school night, and the boy downstairs was stacking chairs with his practiced apology, and they went down the steep stair with their coats on and out past the jukebox and its climbing green water into cold that had teeth in it now, the real end-of-January kind.
 

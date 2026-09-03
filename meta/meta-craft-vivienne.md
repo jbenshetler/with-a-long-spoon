@@ -16,6 +16,7 @@
 - **Reader is *with* her and *ahead* of her.** Inhabit her (no safe distance); she has a cultural explanation ready (*"sorority thing"*) and the reader doesn't. Never let the prose imply she should have refused the year.
 - **Seen (Pace) vs. chosen/cool (Randi) — never blur.** Pace makes her feel *seen/known*; Randi makes her feel *recognized/picked*. Keep the two vocabularies apart.
 - **Lush and curvy, never heavy or plain.** The oversized clothes are budget-and-fit, not size; she has a real eye. The plain/anti-curation read is Cassie's, not Vee's.
+- **Feeling-register vocabulary → `meta-arch-eros-ladder.md`.** The heat → want/yearning → love tiers, the reserved words (`desire` kept scarce/formal; `yearning` is Vee's *own* late coinage, withheld until she mints it), and the umbrella `the wanting`. Load it before rendering any Vee feeling-beat for Randi or Pace — the same-sex-heat shame surcharge and the philos-cover *misnaming* (she calls the eros philos) live there too.
 
 ---
 

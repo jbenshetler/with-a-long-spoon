@@ -16,6 +16,7 @@
 - **Need, not want** — she's at ease with want; the engine is a need she can't be *seen* having.
 - **Submission to Pace is service to Vee by proxy** — effacing herself for Vee (e.g. cleaning her own night off him to hand him back ready, `in-her-place.md`); render as *position and service* — below him, under Vee — never the labeled word.
 - **`on-her-floor` is the reference scene for the sadism-love fusion** — calibrate any Randi/Vee sadism beat against it (care and cruelty in one gesture, an alibi under every step, Vee choosing every gate). Guards in *What the Prose Must Hold.*
+- **Feeling-register vocabulary → `meta-arch-eros-ladder.md`.** Randi's arc runs *only-heat (need denied) → eros* under a philos cover she progressively stops believing — a performance, never a blindfold. The tier words, the reserved `desire`/`yearning`, and the mutual-disguise contract live there; load it before rendering any Randi feeling-beat for Vee.
 
 ---
 
