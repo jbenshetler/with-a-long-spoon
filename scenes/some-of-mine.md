@@ -14,7 +14,7 @@ She ran out. She never ran out.
 
 Cassie let it sit — she had a way of leaving a silence open between you to see what you'd put in it — and Vee put nothing in it, because she had nothing.
 
-"Is this what you want," Cassie said.
+"Is this what you want?" Cassie said.
 
 Not what happened. Not what is she to you. The flat, plain way, the same way she'd once asked do you love him — except the worry was still under it, the part that wasn't flat.
 
