@@ -61,7 +61,19 @@ def main() -> None:
         "return exactly the specified sections.\n\n" + bundle
     )
 
-    agent_fn, close = cold_read.make_codex_agent_fn(system_prompt=system_prompt, effort=args.effort)
+    if "/" in args.model:   # OpenRouter model (provider/model), e.g. moonshotai/kimi-k3
+        import os
+        key = os.environ.get("OPENROUTER_API_KEY")
+        if not key:
+            raise SystemExit("OpenRouter model needs OPENROUTER_API_KEY set in the environment")
+        print(f"[auth] openrouter — billing PER TOKEN (author-authorized) · {args.model}",
+              file=sys.stderr)
+        agent_fn = cold_read.make_openrouter_agent_fn(
+            system_prompt=system_prompt, effort=args.effort, timeout=2400,
+            max_output_tokens=20000, api_key=key)
+        close = (lambda: None)
+    else:
+        agent_fn, close = cold_read.make_codex_agent_fn(system_prompt=system_prompt, effort=args.effort)
     try:
         print(f"[run] {args.model} effort={args.effort} …", file=sys.stderr)
         t0 = time.time()
@@ -86,8 +98,12 @@ def main() -> None:
         f"grounded (full clean prose, no chaining)*\n\n---\n\n"
     )
     out_path.write_text(header + text + "\n")
+    try:
+        disp = out_path.relative_to(REPO)
+    except ValueError:                          # --out given as a path outside REPO
+        disp = out_path
     print(
-        f"[done] {out_path.relative_to(REPO)}  "
+        f"[done] {disp}  "
         f"in={usage.get('input')} out={usage.get('output')} "
         f"reasoning={usage.get('reasoningTokens')} {time.time()-t0:.0f}s "
         f"incomplete={usage.get('incomplete')}",

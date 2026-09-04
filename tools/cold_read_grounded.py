@@ -927,7 +927,23 @@ def main() -> None:
     from concurrent.futures import ThreadPoolExecutor, as_completed
     pool: "Queue" = Queue()
     closes = []
-    if args.auth == "api-key":
+    if "/" in args.model:
+        # OpenRouter lane (a provider/model id, e.g. moonshotai/kimi-k3) — pay-per-token
+        # via OPENROUTER_API_KEY (author-authorized only, per the token rule). The
+        # adapter's return shape matches the codex/api lanes, so read_one drives it
+        # unchanged; the OpenAI client is thread-safe, so hand the one adapter out
+        # `jobs` times (as the api-key lane does).
+        key = os.environ.get("OPENROUTER_API_KEY")
+        if not key:
+            raise SystemExit("OpenRouter model needs OPENROUTER_API_KEY set in the environment")
+        print(f"[auth] openrouter lane — billing PER TOKEN (author-authorized) · {args.model}",
+              file=sys.stderr)
+        or_fn = cold_read.make_openrouter_agent_fn(
+            system_prompt=system_prompt, effort=args.effort, timeout=2400,
+            max_output_tokens=args.max_output_tokens, api_key=key)
+        for _ in range(jobs):
+            pool.put(or_fn)
+    elif args.auth == "api-key":
         key = os.environ.get("OPENAI_API_KEY")
         if not key:
             raise SystemExit("--auth api-key needs OPENAI_API_KEY set in the environment (GPT lane)")
