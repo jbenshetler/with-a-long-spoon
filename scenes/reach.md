@@ -22,6 +22,14 @@ Then she brought her knees together, and the pulse was still there.
 
 Not urgent now. Smaller than that. A slow, low throb that answered the pressure of her thighs and went on after she eased them apart. She lay still through another one.
 
+She touched herself more now than she ever had before him.
+
+*Not greedy,* Randi had told her. *Hungry out loud.* It had felt like an absolution then. Alone in his open shirt, already planning this after everything he gave her, it was harder to believe.
+
+*Greedy.*
+
+Small and hot. The pulse tightened around it.
+
 His face came back to her.
 
 Above her in the white morning, his mouth wet, his eyes on hers. No apology in him. No recoil. He had looked at the whole slick fact of her as if it were true, as if it were fine. As if the plenty of her required no pardon before he brought it to her mouth.
@@ -50,7 +58,7 @@ Enthusiastic. That was the word for him between her thighs: the sounds, the help
 
 And careful. When she turned from the kiss, he had stopped. When he thought she meant the rest of it too, he had begun to leave her until her legs locked him in and she told him which no she meant. He wiped his mouth once, said okay, and kept it from hers until she pulled him down herself.
 
-Randi hadn't minded. She had done it herself: powerful, she'd called it; it turned her on. Sexy, then. Vee tried the words against the memory of Pace's mouth and felt the pulse answer.
+Randi hadn't minded. She had done it herself. *It was powerful. It turned me on.* She had said it like a simple fact. Sexy, then. The pulse answered.
 
 The wanting held her at the bright edge, every beat of it asking for the next. She slipped two fingers inside herself and the pressure changed, fuller and deeper, and for a little while there was no question anywhere—only her own hand, the close hot room, and all the pleasure he knew how to make.
 
