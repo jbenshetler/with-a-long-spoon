@@ -3770,6 +3770,13 @@ text = "It went down through her like a swallow of something warm."
 note = "load-bearing warm — Randi's warmth swallowed; author 2026-07-28"
 
 [[ok]]
+fp   = "1bfcc291121b"
+rule = "filter-verbs"
+file = "scenes/reach.md"
+text = "She felt it there, tasting nothing now, then raised her fingers the last little distance and opened her mouth."
+note = "Author approved 'She felt it there' in the suspended self-taste threshold."
+
+[[ok]]
 fp   = "1fa1629d13fd"
 rule = "whole-of"
 file = "scenes/reach.md"

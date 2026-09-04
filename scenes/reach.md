@@ -42,25 +42,33 @@ Vee wanted that look again too. Wanted what it had done to her before anything i
 
 Her nipples had tightened before her fingers arrived. She caught one between finger and thumb, rolled it slowly, then pulled until the bright ache ran down through her and the pulse below answered. She gave the other the same attention. Another slow roll, another pull, her back lifting from the mattress. She kept herself there until her breath roughened and her hips had begun to move.
 
-Then her hands traveled down her waist and over the soft round of her belly. She made herself take the long way. At last she touched the outer lips first, barely, and found herself slick enough that her fingers moved without a catch. She gathered the wet, brought it up, and circled her clit with it. The first pass sent her heel dragging against the sheet. She went around again, slower, with the full intention of a woman who knew where she was going.
+Then her hands traveled down her waist and over the soft round of her belly. She made herself take the long way. At last she touched the outer lips first, barely, and found herself slick enough that her fingers moved without a catch. She gathered the wet, brought it up, and circled her clit with it. The first pass sent her heel dragging against the sheet. She went around again, slower.
 
-Pace between her thighs returned in pieces. His hands behind her knees, folding her legs up and apart. The room's air moving cool across the wet of her and lifting her own smell between them, faint and female, until the whole bed seemed to breathe it. His tongue tracing first, then going deep, drawing her out with open, indecent sounds he made no effort to hide.
-
-The one low groan when his tongue was inside her came back clearest. Pleasure had gotten past his manners. She had felt the sound inside her before she heard it, a vibration through the softest part of her, and gripped his hair hard enough that she had to make herself let go.
+Pace between her thighs returned in pieces.
 
 Her fingers quickened.
 
-The room pressed close around her. Sweat gathered in the hollow behind one knee. She opened her legs wider, the flannel pooled in soft folds along both sides of her body. The bed squeaked under her heel. The next sound was hers, breathed into the empty room and kept there by the shut window.
+The room pressed close around her. Sweat gathered in the hollow behind one knee. His mouth there instead: warm lips in the crease of her thigh, the first teasing touch of his tongue. His hair against her skin when he moved lower.
 
-He had given her the first one before putting a finger inside her. Then he had gentled without stopping, kept her lit with his mouth while she came down, and built the second with two fingers crooked deep until sight and sound went out. Afterward he had come up over her carefully, filled her slowly while she was still pulsing, and made the pleasure climb again before the last of it had landed.
+She opened her legs wider. The flannel shifted under her ass. Cashmere instead, impossibly soft, warmed through, soaked in the hollow beneath her.
 
-Enthusiastic. That was the word for him between her thighs: the sounds, the helpless groan, the way his eyes had closed when he went back to her.
+The bed squeaked under her heel. Wet sounds instead, open and indecent. His tongue deep. His groan inside her. Her fist closing in his hair.
 
-And careful. When she turned from the kiss, he had stopped. When he thought she meant the rest of it too, he had begun to leave her until her legs locked him in and she told him which no she meant. He wiped his mouth once, said okay, and kept it from hers until she pulled him down herself.
+Her fingers circled. His crooked deep, pressing the spongy rise on the front wall. That bright panic. Wanting to pee and scream. Sight and sound going out.
 
-Randi hadn't minded. She had done it herself. *It was powerful. It turned me on.* She had said it like a simple fact. Sexy, then. The pulse answered.
+*Enthusiastic.*
 
-The wanting held her at the bright edge, every beat of it asking for the next. She slipped two fingers inside herself and the pressure changed, fuller and deeper, and for a little while there was no question anywhere—only her own hand, the close hot room, and all the pleasure he knew how to make.
+Her mouth closing against the wet kiss. Pace stopping—all of him. The mattress lifting as he began to leave. Her legs locking him in. *Okay.* His mouth kept from hers until she pulled him down.
+
+*Careful.*
+
+Randi hadn't minded. She had done it herself. *It was powerful. It turned me on.* She had said it like a simple fact.
+
+The pulse answered.
+
+His eyes closing when he went back to her.
+
+She slipped two fingers inside herself. Fuller. Deeper. Her hips lifted into her hand. The wet sound stayed in the close room.
 
 When she drew her fingers out, the shine ran their whole length.
 
@@ -68,13 +76,19 @@ Not only the tips. Both fingers were coated nearly to the knuckles, more of her 
 
 She put her thumb to the first finger and rubbed them together.
 
-They slipped without friction, the pads gliding as though the surface of her had disappeared. She separated them and did it again, slowly, watching the lamplight travel through the slick between them. She had lived with this body all her life; the texture felt newly made. Slippery. She rolled finger and thumb together once more, marveling at the smoothness, at how entirely her body had removed resistance.
+They slipped without friction, the pads gliding as though the surface of her had disappeared. She separated them. Sticky strands of her excess bridged the gap, shining in the lamplight.
 
-The old flinch went through her, quick and animal, and left something awake behind it.
+Had Randi's looked like this? Sticky too. Shining. Had she meant a mouth carrying the wet back to her? Or her own fingers, lifted to her mouth? *It was powerful. It turned me on.*
+
+Vee pressed thumb and finger together, then drew them apart again. The strands stretched, thinned, held. Slippery. Newly made under her fingers.
+
+The old flinch went through her, quick and animal.
 
 She lifted her hand.
 
-The smell reached her before her fingers did: close and feminine, a hothouse with its doors shut, the flowers and damp air kept in. Hers. Unmistakably hers. She breathed it once, shallowly, then again with her fingers nearer, taking what she could take.
+The smell reached her before her fingers did. She breathed once, shallowly, expecting the stink the boys' jokes had promised. It wasn't there. She breathed again. Warm, damp, alive—a hothouse with its doors shut, the air around a tropical flower without its sweetness. Hers. Unmistakably hers.
+
+Her body clenched around the emptiness her fingers had left, low and hard enough to catch her breath. Her hand stopped with the clench. As the clench loosened, she brought her fingers closer and breathed again.
 
 Pace's kiss returned whole. His mouth coming down wet and slippery, her own wetness carried up on his lips and chin; her own taste arriving where she expected only him and surprising her tongue before the rest of her understood.
 
@@ -96,13 +110,13 @@ Vee shut her eyes.
 
 She put her hand back between her legs.
 
-The darkened patch remained beside her hip as she moved, close enough that her smell stayed with her. His face returned at once. The look. That was what she wanted—the calm of it, the gladness, the whole of her admitted without argument. She worked herself toward it, deliberately now, holding the image where she could see it.
+The radiator pressed heat into the shut room. Her smell rose lush between her open thighs and closed over her. She breathed it while her hand worked. Pace's face returned—his mouth wet, his eyes calm and glad on hers.
 
 The pulse gathered. Her heel drove into the mattress. Her free hand closed in the sheet beside her, and the room seemed to contract around the bed, too hot and airless and full of every breath she had taken. She came with her mouth open and no sound at first, then one low broken note that the shut glass kept from going anywhere. The pleasure went through her in long clenching waves, her hand staying where she had put it until the last one loosened and left her sprawled inside the open flannel.
 
 For a while she did not move.
 
-The radiator ticked. The damp patch cooled beside her hip. Her pulse came down, but the small unfinished reach did not come down with it. It stayed exactly where she had left it, one breath from her mouth.
+The radiator ticked. Her pulse came down.
 
 Then the room's smell found her again.
 
@@ -110,7 +124,7 @@ Vee opened her eyes.
 
 Cassie would be back from the game. Not yet, but back—and the room held everything. The heat, the sweat, the close sweet trace of her body. It had nowhere to go. She lay there another moment, spent and unwilling, then made herself sit up.
 
-Her hand was wet again. In the clean, level clarity after orgasm, she pressed it to the same place and wiped once, back and forth. The damp widened at her side. Her *mess*. When she came back to bed, she would have to lie on it.
+Her hand was wet again. She pressed it to the same place and wiped once, back and forth.
 
 She drew the flannel closed and buttoned it. The enormous flannel covered her at once, respectable to mid-thigh.
 
@@ -120,6 +134,20 @@ January entered like water through a broken door.
 
 It ran over her bare legs and up under the hanging flannel, lifted the hair off her shoulders, crossed the room toward Cassie's open book. She stood in it until her skin tightened and the radiator began losing its argument, until the air smelled of hot dust and winter again.
 
-She climbed back into bed. When she turned onto her side, her hip settled against the damp patch and the sheet released the faintest trace of the hothouse into the cold air.
+She climbed back into bed and settled onto her side. The cold air moved over the blanket. She closed her eyes.
+
+The hothouse lingered beneath the winter air.
+
+The unfinished reach was still there, one breath from her mouth.
+
+A mouth carrying it back. Or Randi's own fingers.
+
+Vee opened her eyes. She shifted, searching. Her hand traveled over the sheet until her fingertips found the damp, darkened patch beside her hip, cool now. She had forgotten leaving it.
+
+*Greedy.*
+
+Her mess. Hers to lie in.
+
+She settled her hip over the dark place and pulled the blanket to her chin.
 
 Her mouth was still empty.
