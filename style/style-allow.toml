@@ -3770,6 +3770,13 @@ text = "It went down through her like a swallow of something warm."
 note = "load-bearing warm — Randi's warmth swallowed; author 2026-07-28"
 
 [[ok]]
+fp   = "1fa1629d13fd"
+rule = "whole-of"
+file = "scenes/reach.md"
+text = "That was what she wanted—the calm of it, the gladness, the whole of her admitted without argument."
+note = "Author approved this totality phrasing during The Reach workshop, 2026-09-04."
+
+[[ok]]
 fp   = "11151fb363dc"
 rule = "a-small"
 file = "scenes/recognized-method.md"

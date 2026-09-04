@@ -1,4 +1,4 @@
-# Authoring context — loading what came before, before drafting
+# Authoring context — loading what came before, before drafting, revising, or critiquing chapters or beats
 
 *Working procedure for the authoring assistant. Kept out of `AGENTS.md` on purpose:
 that file is auto-injected into the tool-less cold-read subagents (`blind-reader`,
@@ -10,7 +10,7 @@ docs (the Read list in `AGENTS.md`), never before.*
 
 ## What this is
 
-When drafting chapter **N**, you need what has come before — not as a fact you look up
+When drafting, revising, or critiquing chapter **N** or its beats, you need what has come before — not as a fact you look up
 one at a time (that stays the `lore-keeper`'s job), but as **standing reader-memory**:
 who's who, the relationship states and milestone flags, the dramatic-irony ledger, the
 live motifs, the open questions the reader is holding. That memory already exists as the
@@ -37,17 +37,23 @@ It emits, in order:
    mistaken for canon; the seven factual/ledger sections are kept;
 2. the **full clean prose** of every chapter since that checkpoint (`ch B+1 .. N-1`).
 
+For post-Vol1 chapters, the same boundary rule applies: once chapter **N** is more than
+ten chapters past the prior volume's frozen floor, use the appropriate in-volume decade
+checkpoint (`ck-ch060`, `ck-ch070`, …) if it exists. If that checkpoint is missing, follow
+the missing-checkpoint protocol below — offer to mint it; do not silently treat `ck-ch050`
+as sufficient for chapters whose boundary has advanced past 50.
+
 This is **read-time assembly** — it never mints a new consolidated checkpoint, so nothing
 decays across a summary-of-a-summary chain. The decade checkpoint is read verbatim (it was
 already panel-QA'd); the recent window is real prose at full fidelity.
 
-## How to use it when drafting
+## How to use it when drafting, revising, or critiquing chapters or beats
 
 1. Load the `meta/` canon docs first (the Read list / `lore-keeper` prep). **Meta before
    the checkpoint** — canon is the foundation; the checkpoint colors on top of it.
 2. Run `tools/checkpoint_context.py --scene <slug>` and bring its output into context. The
    recent prose lands last, so it sits freshest.
-3. Draft. The per-scene `lore-keeper` prep still runs — this background load **composes
+3. Draft, revise, critique, or develop beats. The per-scene `lore-keeper` prep still runs — this background load **composes
    with** it, it does not replace it.
 
 **It is reader-memory, not ground truth.** It tells you what the reader knows and expects
