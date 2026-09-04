@@ -1042,6 +1042,11 @@ READER_CSS = """
     border-radius:22px; padding:8px 15px; font-size:13px; font-weight:600; cursor:pointer;
     box-shadow:0 3px 12px rgba(0,0,0,.5); }
   #reader-close:hover { background:#6d7bd0; }
+  #reader-collapse { position:fixed; top:16px; right:16px; z-index:52; background:#39414f; color:#e7e9ee;
+    border-radius:22px; padding:8px 15px; font-size:13px; font-weight:600; cursor:pointer;
+    box-shadow:0 3px 12px rgba(0,0,0,.5); }
+  #reader-collapse[hidden] { display:none; }
+  #reader-collapse:hover { background:#49515f; }
   #reader-title { position:fixed; top:19px; left:50%; transform:translateX(-50%); z-index:51;
     color:var(--mut); font-size:13px; pointer-events:none; max-width:56vw;
     overflow:hidden; white-space:nowrap; text-overflow:ellipsis; }
@@ -1064,6 +1069,7 @@ READER_CSS = """
 READER_HTML = """
 <div id="reader" tabindex="-1" hidden aria-hidden="true">
   <div id="reader-close" role="button" tabindex="0" title="Close (Esc)">&#10005; Close</div>
+  <div id="reader-collapse" role="button" tabindex="0" hidden title="Collapse/expand all model sections (c)">Collapse all</div>
   <div id="reader-title"></div>
   <div id="reader-body"></div>
   <div id="reader-cmd"><span id="reader-cmd-prefix"></span><span id="reader-cmd-buf"></span><span id="reader-cmd-info"></span></div>
@@ -1075,6 +1081,7 @@ READER_JS = r"""
   var body = document.getElementById('reader-body');
   var titleEl = document.getElementById('reader-title');
   var closeBtn = document.getElementById('reader-close');
+  var collapseBtn = document.getElementById('reader-collapse');
   var cmd = document.getElementById('reader-cmd');
   var cmdPrefix = document.getElementById('reader-cmd-prefix');
   var cmdBuf = document.getElementById('reader-cmd-buf');
@@ -1131,6 +1138,12 @@ READER_JS = r"""
     return out.join('\n');
   }
 
+  // Collapse/expand all per-model review sections without closing the reader.
+  function revDetails(){ return Array.prototype.slice.call(body.querySelectorAll('details.rev-model')); }
+  function anyRevOpen(){ return revDetails().some(function(d){ return d.open; }); }
+  function updateCollapseLabel(){ collapseBtn.textContent = anyRevOpen() ? 'Collapse all' : 'Expand all'; }
+  function toggleAllReviews(){ var on = anyRevOpen(); revDetails().forEach(function(d){ d.open = !on; }); updateCollapseLabel(); }
+
   function openReader(srcId){
     var el = document.getElementById(srcId);
     if (!el) return;
@@ -1141,9 +1154,11 @@ READER_JS = r"""
     if (srcId.indexOf('rev-') === 0){          // reviews: collapsed-by-model, no line gutter
       body.innerHTML = renderReviews(src);
       body.classList.remove('lnum');
+      collapseBtn.hidden = false; updateCollapseLabel();
     } else {
       body.innerHTML = renderMarkdown(src);
       applyLnum();
+      collapseBtn.hidden = true;
     }
     marks = []; curMatch = -1; buffer = ''; mode = 'normal'; hideCmd();
     reader.hidden = false; reader.setAttribute('aria-hidden','false');
@@ -1252,6 +1267,7 @@ READER_JS = r"""
     if (e.key === 'Escape'){ e.preventDefault(); closeReader(); return; }
     if (e.key === ':'){ e.preventDefault(); showCmd(':'); return; }
     if (e.key === '/'){ e.preventDefault(); showCmd('/'); return; }
+    if (e.key === 'c' && !collapseBtn.hidden){ e.preventDefault(); toggleAllReviews(); return; }
     if (e.key === 'n'){ e.preventDefault(); nextMatch(1); return; }
     if (e.key === 'N'){ e.preventDefault(); nextMatch(-1); return; }
   });
@@ -1268,6 +1284,11 @@ READER_JS = r"""
   });
   closeBtn.addEventListener('click', closeReader);
   closeBtn.addEventListener('keydown', function(e){ if (e.key === 'Enter' || e.key === ' '){ e.preventDefault(); closeReader(); } });
+  collapseBtn.addEventListener('click', toggleAllReviews);
+  collapseBtn.addEventListener('keydown', function(e){ if (e.key === 'Enter' || e.key === ' '){ e.preventDefault(); toggleAllReviews(); } });
+  // a single model toggled by hand: keep the button label in sync (the toggle
+  // event doesn't bubble, so listen in the capture phase on the container)
+  body.addEventListener('toggle', function(){ if (!collapseBtn.hidden) updateCollapseLabel(); }, true);
 })();"""
 
 
