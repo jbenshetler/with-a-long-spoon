@@ -458,17 +458,17 @@ def _norm_slug(s: str) -> str:
     return re.sub(r"^(?:the|a|an)-", "", s)
 
 
-def _fresh_review_files(slug: str, reviews_root, scene_stamp=None, scene_commit=None):
-    """[(model_name, Path)], dropped_count — the cold reads of `slug` that reflect
-    the CURRENT prose. A review committed before the chapter's current commit rated
-    an earlier draft and is dropped: ancestry first (is the review's commit the
-    scene's commit or a descendant of it?), the committer clock only as fallback
-    when ancestry is undecidable. Reviews with no git stamp, or when the chapter
-    has none, are kept — we can't prove them stale. (Shared by the ratings pills
-    and the embedded-reviews view so both show the same set.)"""
-    files, dropped = [], 0
+def _review_files(slug: str, reviews_root, scene_stamp=None, scene_commit=None):
+    """[(model_name, Path, stale)] for every current cold read of `slug` — nothing
+    dropped. `stale` is True when the review predates the chapter's current prose
+    commit (it rated an earlier draft): by ancestry (is the scene's commit an
+    ancestor of the review's?), the committer clock as fallback. Undecidable (no
+    git, uncommitted, unrelated histories) counts as not stale — can't prove it.
+    The caller shows the latest available reviews and flags the stale ones.
+    (Shared by the ratings pills and the embedded-reviews view.)"""
+    out = []
     if not slug or reviews_root is None or not reviews_root.is_dir():
-        return files, dropped
+        return out
     key = _norm_slug(slug)
     for model_dir in sorted(reviews_root.iterdir()):
         if not model_dir.is_dir():
@@ -484,11 +484,8 @@ def _fresh_review_files(slug: str, reviews_root, scene_stamp=None, scene_commit=
             if fresh is None and scene_stamp:      # fall back to the clock
                 rstamp = git_last_instant(reviews_root, rel)
                 fresh = not (rstamp and rstamp <= scene_stamp)
-            if fresh is False:
-                dropped += 1
-                continue
-            files.append((model_dir.name, f))
-    return files, dropped
+            out.append((model_dir.name, f, fresh is False))
+    return out
 
 
 def scene_ratings(slug: str, reviews_root, scene_stamp=None, scene_commit=None):
@@ -514,15 +511,17 @@ def scene_ratings(slug: str, reviews_root, scene_stamp=None, scene_commit=None):
     so. The timestamp test survives only as the fallback for when ancestry is
     undecidable (no git, unrelated histories, an uncommitted file).
     """
-    files, dropped = _fresh_review_files(slug, reviews_root, scene_stamp, scene_commit)
-    heats, roms, per = [], [], []
-    for model_name, f in files:
+    files = _review_files(slug, reviews_root, scene_stamp, scene_commit)
+    heats, roms, per, stale_models = [], [], [], []
+    for model_name, f, stale in files:
         t = f.read_text(encoding="utf-8")
         hm, rm = HEAT_RE.search(t), ROMANCE_RE.search(t)
         hv = min(3.0, float(hm.group(1))) if hm else None
         rv = min(3.0, float(rm.group(1))) if rm else None
         if hv is not None or rv is not None:
-            per.append((model_name, hv, rv))
+            per.append((model_name, hv, rv, stale))
+            if stale:
+                stale_models.append(model_name)
             if hv is not None:
                 heats.append(hv)
             if rv is not None:
@@ -534,7 +533,8 @@ def scene_ratings(slug: str, reviews_root, scene_stamp=None, scene_commit=None):
         return round((sum(xs) / len(xs)) * 2) / 2 if xs else None  # nearest ½
 
     return {"heat": _avg(heats), "romance": _avg(roms),
-            "n": len(per), "per": per, "dropped": dropped}
+            "n": len(per), "per": per,
+            "stale_n": len(stale_models), "stale_models": stale_models}
 
 
 REACTION_HEAD_RE = re.compile(r"(?i)^##\s*reader reaction\s*$")
@@ -551,10 +551,10 @@ def extract_reader_reaction(text: str) -> str:
 
 
 def scene_review_texts(slug: str, reviews_root, scene_stamp=None, scene_commit=None):
-    """[(model_name, reaction_markdown)] for the current-draft cold reads of `slug`
-    (same staleness filter as the ratings pills — see `_fresh_review_files`)."""
-    files, _ = _fresh_review_files(slug, reviews_root, scene_stamp, scene_commit)
-    return [(m, extract_reader_reaction(f.read_text(encoding="utf-8"))) for m, f in files]
+    """[(model_name, reaction_markdown, stale)] for a scene's cold reads (latest
+    available; stale flagged — see `_review_files`)."""
+    return [(m, extract_reader_reaction(f.read_text(encoding="utf-8")), stale)
+            for m, f, stale in _review_files(slug, reviews_root, scene_stamp, scene_commit)]
 
 
 # Monochrome glyph paths (24×24), fillable via CSS — a flame (Material
@@ -597,15 +597,19 @@ def rating_pills(e) -> str:
     if not e.ratings:
         return ""
     r = e.ratings
-    tip = " · ".join(f'{m}: H{h if h is not None else "–"}/R{ro if ro is not None else "–"}'
-                     for m, h, ro in r["per"])
-    stale = r.get("dropped", 0)
-    stale_note = (f" ({stale} pre-revision review{'s' if stale != 1 else ''} excluded)"
+    tip = " · ".join(
+        f'{m}: H{h if h is not None else "–"}/R{ro if ro is not None else "–"}'
+        + (" [dated]" if st else "")
+        for m, h, ro, st in r["per"])
+    stale = r.get("stale_n", 0)
+    stale_note = (f" · ⚠ {stale} review{'s' if stale != 1 else ''} predate the current prose"
                   if stale else "")
     label = (f"cold-read avg across {r['n']} model{'s' if r['n'] != 1 else ''}"
              f"{stale_note} — {tip}")
+    warn = ('<span class="stale-flag" title="some cold reads rated an earlier draft">⚠</span>'
+            if stale else "")
     return (f'<span class="ratings" title="{html.escape(label, quote=True)}">'
-            f'{rating_pill("heat", r["heat"])}{rating_pill("romance", r["romance"])}</span>')
+            f'{rating_pill("heat", r["heat"])}{rating_pill("romance", r["romance"])}{warn}</span>')
 
 
 def presence_pills(e) -> str:
@@ -842,10 +846,15 @@ def render_entry(e: Entry) -> str:
         parts.append(presence_pills(e))
         parts.append(rating_pills(e))
         if getattr(e, "review_texts", None):
+            rt = e.review_texts
+            stale_n = sum(1 for _m, _r, st in rt if st)
+            flag = " ⚠" if stale_n else ""
+            tip = ("Read the cold reads in full"
+                   + (f" — ⚠ {stale_n} predate the current prose" if stale_n else ""))
             parts.append(
                 f'<span class="badge badge-review openable-rev" role="button" '
-                f'tabindex="0" data-review="{e.slug}" title="Read the cold reads in full">'
-                f'cold reads ({len(e.review_texts)}) ↗</span>')
+                f'tabindex="0" data-review="{e.slug}" title="{tip}">'
+                f'cold reads ({len(rt)}){flag} ↗</span>')
         parts.append(
             f'<span class="chip words" title="prose word count · ~{_pages(e.words)} '
             f'pp at {WORDS_PER_PAGE} wpm">{e.words:,} words</span>')
@@ -925,7 +934,12 @@ def build_html(entries, flags_raw, source_name, scene_dir=None, reviews_dir=None
         rt = getattr(e, "review_texts", None)
         if not rt:
             continue
-        blob = "\n\n".join(f"## {m}\n\n{r}" for m, r in rt)
+        secs = []
+        for m, r, stale in rt:
+            head = f"## {m}" + ("  — ⚠ rated an earlier draft (predates the current prose)"
+                                if stale else "")
+            secs.append(f"{head}\n\n{r}")
+        blob = "\n\n".join(secs)
         rev_blocks.append(
             f'<div class="revsrc" id="rev-{e.slug}" '
             f'data-title="{html.escape("Cold reads — " + e.title, quote=True)}" hidden>'
@@ -1325,6 +1339,7 @@ PAGE = """<!doctype html>
   .badge-review {{ background:#7e57c2; }}
   .badge.openable-rev {{ cursor:pointer; }}
   .badge.openable-rev:hover {{ filter:brightness(1.14); }}
+  .stale-flag {{ color:#f9a825; font-size:11px; cursor:help; margin-left:2px; }}
 {reader_css}
 </style></head>
 <body>
