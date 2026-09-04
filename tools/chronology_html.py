@@ -1,30 +1,27 @@
 #!/usr/bin/env python3
-"""Generate a self-contained HTML view of meta-plan-chronology.md.
+"""Generate a self-contained, review-inclusive HTML view of meta-plan-chronology.md.
 
 Parses the chronology's scene/vignette/event entries and their metadata line
 (status, date, track, POV, files, links) and emits a single HTML file with
 inline CSS+JS (zero external dependencies): a progress summary table (words,
 pages at ~300 wpm, chapters, and reviewed counts, broken out by seasonal volume
 — Fall/Spring/Summer — plus a grand total), a status-colored beeswarm timeline
-across the academic year (hover a dot for the beat name), a phase-grouped card
-list, and the Continuity Flags panel. Each card also carries an on-disk `slug`
-chip, character-presence pills (Vee/Pace/Randi/Cassie, filled = physically in the
+(hover a dot for the beat name), a phase-grouped card list, and the Continuity
+Flags panel. Each card also carries an on-disk `slug` chip,
+character-presence pills (Vee/Pace/Randi/Cassie, filled = physically in the
 scene, from the `present:` metadata field), cold-read Heat/Romance pills
 (0-3 flames/hearts, averaged to the nearest 1/2 across the reviews/ cold reads
-— a reader-signal overlay, not canon), a prose word count (0 for undrafted
-chapters), and the ISO date of the last commit touching the prose file.
+— a reader-signal overlay, not canon), embedded current-draft cold reads
+(collapsed), a prose word count (0 for undrafted chapters), and the ISO date of
+the last commit touching the prose file.
 
 NOT deterministic: the per-scene "updated" date is read live from git, so the
 output changes as commits land even with no chronology edit. Re-run after any
 chronology edit (or after committing prose) to refresh.
 
-Also writes a sibling OUTPUT-reviews.html: the same view with each chapter's
-current-draft cold reads embedded (collapsed) under its card.
-
 Usage:
     tools/chronology_html.py [INPUT.md] [-o OUTPUT.html]
 Defaults: INPUT = meta/meta-plan-chronology.md, OUTPUT = chronology.html
-    (the reviews variant is written beside it as OUTPUT-reviews.html)
 """
 from __future__ import annotations
 
@@ -1467,16 +1464,8 @@ def main():
         reviews_dir = Path("reviews") / "cold-read"
     entries, flags_raw = parse(src.read_text(encoding="utf-8"))
     htmlout = build_html(entries, flags_raw, src.name, scene_dir=scene_dir,
-                         reviews_dir=reviews_dir)
+                         reviews_dir=reviews_dir, with_reviews=True)
     Path(args.out).write_text(htmlout, encoding="utf-8")
-    # Second view: the same page with each chapter's current-draft cold reads
-    # embedded (collapsed) under its card. Filename: <out stem>-reviews<suffix>.
-    rev_out = Path(args.out).with_name(Path(args.out).stem + "-reviews" + Path(args.out).suffix)
-    rev_out.write_text(
-        build_html(entries, flags_raw, src.name, scene_dir=scene_dir,
-                   reviews_dir=reviews_dir, with_reviews=True),
-        encoding="utf-8")
-    print(f"wrote {rev_out}: same view + embedded cold reads", file=sys.stderr)
 
     n_dated = sum(1 for e in entries if e.date)
     by_status = {}
