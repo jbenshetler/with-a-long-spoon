@@ -891,6 +891,11 @@ def build_html(entries, flags_raw, source_name, scene_dir=None, reviews_dir=None
     # stable, unique DOM ids so beeswarm dots can target their cards; and, for
     # drafted scenes, pull the prose file in so the reader can render it.
     seen_slugs = {}
+    # Track the most-recently-modified drafted scene by filesystem mtime, so the
+    # page can link straight to "the chapter I'm working on." mtime is chosen on
+    # purpose: a fresh clone stamps every file at checkout time, flattening this
+    # signal — accepted, because it is only meant to help during active editing.
+    latest_mtime, latest_entry = -1.0, None
     for e in entries:
         base = slugify(e.title)
         n = seen_slugs.get(base, 0) + 1
@@ -902,8 +907,12 @@ def build_html(entries, flags_raw, source_name, scene_dir=None, reviews_dir=None
         if e.etype in ("SCENE", "VIGNETTE") and scene_dir is not None:
             fn = scene_filename(e.meta_raw)
             if fn and (scene_dir / fn).exists():
-                text = (scene_dir / fn).read_text(encoding="utf-8")
+                sp = scene_dir / fn
+                text = sp.read_text(encoding="utf-8")
                 e.words = prose_word_count(text)
+                mt = sp.stat().st_mtime
+                if mt > latest_mtime:
+                    latest_mtime, latest_entry = mt, e
                 e.git_date = git_last_date(scene_dir, fn)
                 e.git_instant = git_last_instant(scene_dir, fn)
                 e.git_commit = git_last_commit(scene_dir, fn)
@@ -994,9 +1003,19 @@ def build_html(entries, flags_raw, source_name, scene_dir=None, reviews_dir=None
 
     stats_html = render_stats(entries)
 
+    # A plain anchor to the newest-mtime scene — styled and behaving like a
+    # Progress-table segment label, only its target is "the chapter last touched."
+    latest_edit = ""
+    if latest_entry is not None:
+        latest_edit = (
+            f'<div class="latest-edit">Latest edit: '
+            f'<a href="#beat-{latest_entry.slug}" '
+            f'title="most recently modified scene file (by mtime)">'
+            f'{html.escape(latest_entry.title)}</a></div>')
+
     return PAGE.format(
         source=html.escape(source_name), n_total=n_total, n_dated=n_dated,
-        reviewed=reviewed, stats=stats_html,
+        reviewed=reviewed, stats=stats_html, latest_edit=latest_edit,
         legend=legend, swarm=swarm, cards=cards_html,
         flags=flags_html,
         flags_section=(f'<section class="flags"><h2>Continuity Flags</h2>{flags_html}</section>'
@@ -1303,6 +1322,7 @@ PAGE = """<!doctype html>
   .sub {{ color:var(--mut); font-size:13px; }}
   .wrap {{ max-width:1140px; margin:0 auto; padding:0 28px 60px; }}
   .legend {{ display:flex; flex-wrap:wrap; gap:14px; margin:14px 0 6px; font-size:13px; color:var(--mut); }}
+  .latest-edit {{ margin:6px 0 0; font-size:13px; color:var(--mut); }}
   .lg {{ display:flex; align-items:center; gap:6px; }}
   .lg i {{ width:12px; height:12px; border-radius:3px; display:inline-block; }}
   .panel {{ background:var(--panel); border:1px solid var(--line); border-radius:12px; padding:14px 16px; margin:10px 0 26px; }}
@@ -1401,6 +1421,7 @@ PAGE = """<!doctype html>
   {stats}
   <div class="legend">{legend}</div>
   <div class="panel" id="swarmpanel">{swarm}</div>
+  {latest_edit}
   {cards}
   {flags_section}
 </div>
@@ -1463,6 +1484,9 @@ def main():
     if not reviews_dir.is_dir():
         reviews_dir = Path("reviews") / "cold-read"
     entries, flags_raw = parse(src.read_text(encoding="utf-8"))
+    # Single page: each chapter's current-draft cold reads are embedded
+    # (collapsed) under its card. The former clean/no-reviews split
+    # (chronology-reviews.html) is retired — reviews now live here.
     htmlout = build_html(entries, flags_raw, src.name, scene_dir=scene_dir,
                          reviews_dir=reviews_dir, with_reviews=True)
     Path(args.out).write_text(htmlout, encoding="utf-8")
