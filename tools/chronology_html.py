@@ -1051,7 +1051,15 @@ READER_CSS = """
   #reader-cmd.on { display:block; }
   #reader-cmd-info { color:var(--mut); margin-left:14px; }
   .badge.openable { cursor:pointer; }
-  .badge.openable:hover { filter:brightness(1.14); }"""
+  .badge.openable:hover { filter:brightness(1.14); }
+  #reader-body details.rev-model { border:1px solid var(--line); border-radius:8px; margin:12px 0; padding:0 14px; background:#161b23; }
+  #reader-body details.rev-model > summary { list-style:none; cursor:pointer; padding:11px 0;
+    font:600 14px/1.4 ui-monospace,Menlo,Consolas,monospace; color:#9fd3ff; }
+  #reader-body details.rev-model > summary::-webkit-details-marker { display:none; }
+  #reader-body details.rev-model > summary::before { content:'▸'; color:var(--mut); margin-right:8px; display:inline-block; }
+  #reader-body details.rev-model[open] > summary::before { content:'▾'; }
+  #reader-body details.rev-model[open] > summary { border-bottom:1px solid var(--line); margin-bottom:8px; }
+  #reader-body details.rev-model .rev-body { padding-bottom:10px; }"""
 
 READER_HTML = """
 <div id="reader" tabindex="-1" hidden aria-hidden="true">
@@ -1105,6 +1113,24 @@ READER_JS = r"""
     return out.join('\n');
   }
 
+  // Reviews open collapsed by model: split the "## <model>" blob into one
+  // <details> per reader, collapsed by default (click a model to expand).
+  function renderReviews(text){
+    var lines = text.split('\n'), out = [], cur = null, buf = [];
+    function flush(){
+      if (cur === null) return;
+      out.push('<details class="rev-model"><summary>' + inline(cur) + '</summary>'
+               + '<div class="rev-body">' + renderMarkdown(buf.join('\n')) + '</div></details>');
+    }
+    for (var i=0; i<lines.length; i++){
+      var m = lines[i].match(/^##\s+(.*)$/);
+      if (m){ flush(); cur = m[1]; buf = []; }
+      else { buf.push(lines[i]); }
+    }
+    flush();
+    return out.join('\n');
+  }
+
   function openReader(srcId){
     var el = document.getElementById(srcId);
     if (!el) return;
@@ -1112,8 +1138,13 @@ READER_JS = r"""
     curSlug = srcId;
     src = el.textContent;
     titleEl.textContent = el.getAttribute('data-title') || '';
-    body.innerHTML = renderMarkdown(src);
-    applyLnum();
+    if (srcId.indexOf('rev-') === 0){          // reviews: collapsed-by-model, no line gutter
+      body.innerHTML = renderReviews(src);
+      body.classList.remove('lnum');
+    } else {
+      body.innerHTML = renderMarkdown(src);
+      applyLnum();
+    }
     marks = []; curMatch = -1; buffer = ''; mode = 'normal'; hideCmd();
     reader.hidden = false; reader.setAttribute('aria-hidden','false');
     document.body.style.overflow = 'hidden';
@@ -1155,7 +1186,8 @@ READER_JS = r"""
   }
 
   function search(q){
-    body.innerHTML = renderMarkdown(src);   // drop old marks
+    body.innerHTML = (curSlug && curSlug.indexOf('rev-') === 0)
+      ? renderReviews(src) : renderMarkdown(src);   // drop old marks
     marks = []; curMatch = -1;
     if (!q){ cmdInfo.textContent = ''; return; }
     var ci = (q === q.toLowerCase());        // smartcase
