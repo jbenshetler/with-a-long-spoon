@@ -4,7 +4,7 @@
 
 ## Reader reaction
 
-## The felt read
+### The felt read
 
 After a long warm run of weekend chapters — salmon and scrunchies and pinup photos and mimosas — this one landed cold, deliberately, and I mean that as praise. The lecture hall is "the deep institutional cold that made you keep your coat on," and the chapter keeps that temperature the whole way. It's the first time in a while nobody's naked, nobody's aroused, and I didn't miss it, because something else was happening that grabbed me by the throat in the last third.
 

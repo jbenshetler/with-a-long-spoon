@@ -8,7 +8,7 @@ No packet id here — everything's inline — so here's my reaction directly.
 
 ---
 
-## The felt read
+### The felt read
 
 Oh, this one worked on me and scared me at the same time, and it's the *same* thing doing both.
 
@@ -36,7 +36,7 @@ My sympathy is entirely with Vee, and it aches. She's the girl from the last two
 
 ---
 
-## Structured block
+### Structured block
 
 **Cast present (in person):** Vee (POV), Randi, Cassie, Pace. Mentioned only: Vee's econ instructor/professor, Vee's mother (as internalized voice), Meg (in recollection).
 

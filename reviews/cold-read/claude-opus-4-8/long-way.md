@@ -4,7 +4,7 @@
 
 ## Reader reaction
 
-## The felt read
+### The felt read
 
 This is a short one and it works on me exactly, cleanly, and a little terribly. It's the froyo date, all Vee, and the awful thing is that it's *sweet* — genuinely, the sweetest fifteen minutes the book has given me — and I spent every line of it holding two facts at once that Vee doesn't get to hold, and the doubling is the whole experience.
 

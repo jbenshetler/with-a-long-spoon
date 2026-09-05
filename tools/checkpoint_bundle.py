@@ -47,6 +47,11 @@ def clean_scene_text(slug: str) -> str:
             body.pop(0)
         if body and body[0].lstrip().startswith("*"):
             body.pop(0)
+        # marker-first layout: the H1 sits after the POV marker — strip it too
+        while body and not body[0].strip():
+            body.pop(0)
+        if body and body[0].startswith("# "):
+            body.pop(0)
     body = [ln for ln in body if not ln.lstrip().startswith("[AI")]
     while body and not body[0].strip():
         body.pop(0)
@@ -81,8 +86,12 @@ def volume_packet(volume: int) -> tuple[str, str]:
 
 
 def display_title(slug: str) -> str:
-    first = (REPO / f"scenes/{slug}.md").read_text().splitlines()[0]
-    return first[2:].strip() if first.startswith("# ") else slug
+    # The H1 is usually line 1, but new chapters may open with the italic POV
+    # marker instead — take the first H1 wherever it sits in the header block.
+    for line in (REPO / f"scenes/{slug}.md").read_text().splitlines():
+        if line.startswith("# "):
+            return line[2:].strip()
+    return slug
 
 
 def reader_slugs() -> list[str]:

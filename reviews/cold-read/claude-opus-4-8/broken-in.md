@@ -4,7 +4,7 @@
 
 ## Reader reaction
 
-## Felt read
+### Felt read
 
 This chapter caught me off guard by how *tender* the recovery is and how much dread I felt the whole way through it anyway. After the wreck of "Lesson" — Vee tearing into Pace, then sitting in the ruin of it all night — I came into "broken-in" braced. And the opening beats are lovely, plain, unshowy: the cold water "went through her like a verdict," the sad-clown mascara she jokes at in the mirror, the apple from the bowl, the bare legs in October she decides to just *be*. I liked her here. She's climbing out of a shame-hole by her own hands, and the prose lets her have small dignities — fixing the clown, finding a bin for the apple core "like a person raised right." That "person raised right" self-narration is Vee's warmth exactly, and I felt genuine affection for her walking across that rinsed-blue morning "carrying something she didn't want to spill."
 
@@ -26,7 +26,7 @@ The end — the kiss on the mouth in the foyer, and Vee "caught up to something 
 
 **What I want / dread:** I want the reconciliation at Pace's door — badly, because Vee wants it and the dance itself was real and good. But I dread it being another staged set-piece, walked-in-on-cue, Randi's blocking. *Guess from here:* tomorrow night at his door is going to be a high, and the higher it goes the more I'll feel the drop the jacket keeps promising. And the shoe-fitting's un-named heat makes me think Randi is the next threshold, not Pace.
 
-## Structured block
+### Structured block
 
 **Cast present (in person):** Vee, Cassie (briefly — the morning wake-around, no dialogue but "Hrm"), Brooke (at the door), Randi. *Mentioned only:* Pace, the blonde at the bar, the bartender woman, Meg (implied via the borrowed shirt/boots).
 

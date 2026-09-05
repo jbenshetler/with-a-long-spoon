@@ -4,7 +4,7 @@
 
 ## Reader reaction
 
-## The felt read
+### The felt read
 
 Oh, this chapter is small and quiet and it wrecked me. After the last stretch — the mixer, the truck at one in the morning, Pace extracting the truth inch by inch, "coming-due" and its live neck and the kiss she took on purpose — I braced for more escalation. Instead the book opens the door on Vee and Cassie, in a dorm room, still in their coats, and doesn't let either of them take it off. That's the whole shape of the thing: coats on, nobody undressed, the night still on their bodies.
 
@@ -22,7 +22,7 @@ The title — "some-of-mine." Cassie's cereal. The answer Vee can give. But I re
 
 Friction: almost none. If anything I wanted one more beat — I'd have taken another page of these two in this room. That's not a flaw; it's the chapter ending exactly where its honesty ends, on the box held out, before either of them has to be bigger than they were tonight.
 
-## Structured block
+### Structured block
 
 **Cast present (in person):** Vee, Cassie. Mentioned-only: Randi (offstage, heels going into the dark), Pace (not named this chapter, present only as the question's absence).
 

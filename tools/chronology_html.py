@@ -944,6 +944,9 @@ def build_html(entries, flags_raw, source_name, scene_dir=None, reviews_dir=None
         for m, r, stale in rt:
             head = f"## {m}" + ("  — ⚠ rated an earlier draft (predates the current prose)"
                                 if stale else "")
+            # Only the per-model heads may be H2 — the page JS splits the blob on
+            # '## '. Demote any H2 a reader emitted inside its reaction body.
+            r = re.sub(r"(?m)^##(?=\s)", "###", r)
             secs.append(f"{head}\n\n{r}")
         blob = "\n\n".join(secs)
         rev_blocks.append(

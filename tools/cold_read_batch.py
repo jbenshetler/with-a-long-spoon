@@ -117,6 +117,11 @@ def clean_scene_text(slug: str) -> str:
             body.pop(0)
         if body and body[0].lstrip().startswith("*"):
             body.pop(0)
+        # marker-first layout: the H1 sits after the POV marker — strip it too
+        while body and not body[0].strip():
+            body.pop(0)
+        if body and body[0].startswith("# "):
+            body.pop(0)
     body = [ln for ln in body if not ln.lstrip().startswith("[AI")]
     while body and not body[0].strip():
         body.pop(0)

@@ -4,7 +4,7 @@
 
 ## Reader reaction
 
-## The felt read
+### The felt read
 
 I knew what I was walking into the second I saw the title. "Vee on the Bench." The book opened on *the bench* — Randi undone on it, weeping, the tabletop lifted off to show what was underneath — and I've watched that object hide in plain sight for chapters as "the low table of odd proportions," the thing Vee tosses her thong onto without ever once asking what it's for. So the title is a promise and a dread arriving together, and it recolored the whole warm front half of the chapter for me. Every sweet thing — the champagne grapes set where she'd sit, *wear a skirt*, the terra-cotta tap pants the exact color of her own skin, "you'll need them for where we're going" — I read with my stomach already dropping, because I knew where they were going, and it was the same misdirection the whole book runs on: the truth told so completely that it lands as a lie. *You'll need them for where we're going.* True every word. She just thought the door was the front one.
 
