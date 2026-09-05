@@ -1,0 +1,37 @@
+# Cold read (grounded) — clean-plate
+
+*scene: scenes/clean-plate.md · model: glm-5.3-flash · memory: ck-ch050 + raw ch051..ch056 · reader-protocol: v3-grounded-checkpoint*
+
+## Reader reaction
+
+Oh, this chapter got me in the throat, and it did it in the quietest way possible — not with anything happening, but with Vee standing at a window in her own head and not quite opening it.
+
+First, the warmth, because there was so much of it. The swim, the pool as the one place her head goes quiet — I love that the book gives her a body-knowledge that predates everyone in this story, Pace and Randi both, a competence that was hers at twelve and is nobody's gift. And then the dressing: the arithmetic of the stretch knit, buying for the chest and living in the tent her whole life, and now the smaller size carried to the register *on purpose*, for Randi's eyes across a table. That is Vee's whole arc in one sweater. And Marsh's lecture — the comb, the grooming, one-fifth of a day spent putting hands in each other's fur — landed on me hard, because the book is *about* that. Feeding, dressing, brushing, the whole liturgy of care Vee keeps receiving and telling. "Somebody in this room, by spring break, is going to tell me what you spend it on now." I sat up. The wintergreen Lifesaver passed palm to palm under the lecture was one of the tenderest small gestures this book has done, and it did it in one line.
+
+Then dinner, and the heat. The sidewalk cutoff — the story reaching for the sex and the restaurant arriving "like a hand laid over her mouth mid-word" — is such a good physical joke about the two of them, and Randi holding the place with a thumb in the book and demanding the rest is Randi at her most magnetic. And the retelling itself ran hot on me: the "did you take it all" interrogation, Vee's mouth going actually dry, the small handed-over truth of "it was *me* that moved them aside." The body answering in present tense in the booth — hers, and mine. When Randi refused the fade to firelight, I cheered her a little, even knowing what I know.
+
+But here is the thing I can't put down, the wrinkle Vee herself keeps not quite calling: *he likes it. He's enthusiastic.* She told Randi it as a compliment, a funny footnote, and the reader sits there holding what she isn't holding — that the enthusiasm, the wet mouth coming up glad, the one economical wipe and "Okay" — is not forgetfulness. She has built the tidy explanation ("he must have forgotten to wipe, this once") and it's already crumbling — "how many times, and how carefully" — and then tonight she hands the whole thing to Randi as a party trick, and Randi says, level, "I don't" find it gross, and "it was powerful. It turned me on," and asks the only question that matters: *how does he act?* Randi's question is the knife. He acts like a man who has done this carefully, many times, and likes it. And Vee walks home with the sentence keeping pace with her "like a song that gets in." The stone of relief Tuesday when the restaurant closed before the last story — now I see its shape. She has a question she cannot ask Randi without the question changing everything, and Randi is the one person who could answer it, and I sat there watching Vee carry it to exactly the wrong confessor. Or the right one. I don't know. The book doesn't tell me and I'm letting it stay open.
+
+And the goodbye kiss — God, the goodbye kiss. Vee kisses the neck "on the memory of Tuesday," before any part of her convenes on it, and Randi's body does "a catch and then a rise, and the rise went on a beat too long," and then *ticklish*, again, the same word, the same flinch. Tuesday it read as a gag. Twice now it is a tell. Randi saying "You picked well" — and Vee's small private correction, that she didn't pick at all, the thing was decided before she knew there was a thing to decide — that line went through me like ice water, because the reader knows how very true it is, and how differently Vee means it. Randi praising the pick is either tenderness or the cruelest sentence in the book and I cannot tell which, and I think Randi can't either.
+
+Do I trust anyone differently after this? Randi most moved — not colder, warmer and more frightening at once: she barely touched her food, she went still at the wrist-kiss detail, her nail rode the rim of the glass, and she let Vee keep the story at "holding it" rather than taking it. Something is being carried on that side of the table too. Pace is offstage entirely and somehow all over the chapter — his enthusiasm arriving as evidence. Cassie absent, and missed.
+
+The title: "clean-plate." Vee's plate polished clean, the chop reduced to its bone, eaten without noticing — appetite spent where her mind wasn't. And Randi's plate: one small exact bite, fork down, left. That's the chapter. Vee devours and doesn't look at what she's eating; Randi tastes one bite and cannot finish. It didn't give anything away; it recolored everything on the way out. And the volume — *A Warm Reception*, *With a Long Spoon* — the dinner-run continues, and that old proverb about eating with the person you feed keeps getting closer to its meaning, and I'm starting to dread the meal it's promising.
+
+Want next: Tuesday again, and I want Vee to ask the question out loud, and I'm terrified of who answers it. Guess from here: the wet-kiss thread and the "you picked well" are on a collision course, and the blonde keeps entering Vee's memories and I don't think the book put her there for nothing.
+
+**Cast present (in person):** Vee, Randi, Dr. Marsh (lecture only). Mentioned-only: Pace, Cassie, Meg, Kayla, Danny, Theo, Christine's (place).
+
+**Heat:** 2 — the whole dinner is foreplay of the told kind: Vee's body reliving Saturday in present tense in the booth, the interrogations, the neck kiss with its beat-too-long rise.
+
+**Romance:** 2 — the Lifesaver, the held seats, "you picked well," and Vee's ache of love for Randi she still can't aim honestly.
+
+**Motifs & images:** the coat's dark bloom flashed and shut away (first told Friday, now seen again — the body telling on her); the goodbye kiss and second press (repeat, escalating — now landing on the ticklish neck twice); the jukebox's green climbing water; food as devotion (the special barely eaten vs. Vee's clean plate); the frosted plum toes retold; the shame-heat loop now running through "gross/wrong" and the body overruling it; wintergreen Lifesavers (new); Marsh's comb and grooming (new, and the book's thesis in costume).
+
+**Symbolism:** the comb — care as the thing that isn't about the fleas; the two plates — appetite vs. the single bite left standing; "you picked well" — the pick that was never a pick.
+
+**Characterization:** Vee deepening beautifully — her instincts outrunning her permission, and for once a question she won't hand to Randi. Randi deepened into something almost painful — moved, off her feed, steering with a lighter hand than usual and not reliably in control of her own body. Pace characterized entirely by report and gets more interesting for it. Marsh is a gift; the book's smartest furniture.
+
+**Pace — within the chapter:** lovely build; the lecture is long but earns its seat; the second half of dinner could breathe slightly more between the story and the verdict.
+
+**Pace — chapter to chapter:** holding strong — the dinner-debrief rhythm (Tuesday/Thursday) is becoming the book's engine, and the same beat is deliberately repeating with new weight under it rather than sagging.
