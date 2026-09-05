@@ -179,7 +179,7 @@ Workshop session that **committed** the threesome end-game mechanics and **desig
 Planning note: `meta-note-spring-satc-bridge.md`. It locks the clothing-loan thread, the Vee-reads-Randi spring planting, the revised Spring SATC grid, and the major ordering decisions. The bridge now runs **{{First Taste}} → {{First Taste}} aftermath → Pointing-Game variation → threesome agreement** — *partially relaxed 2026-08-03: First Taste → Agreement is now applied on the date-master (Agreement moved to ~mid July), but the Pointing-Game variation's position relative to the Agreement is re-opened (before = Randi helping convince Vee; after = Randi exciting Vee — author undecided). The variation itself remains unplaced.* Pace does not supply or select a stranger for Vee; Pace and Randi already have a pre-existing understanding, and the first time Vee encounters the woman is during the threesome.
 
 - **Randi runs a Pointing-Game variation with Vee** (the centerpiece, new scene, not in any doc) — Randi "helps" Vee decide what kind of woman she wants, looking around, Vee giving feedback; Randi *is* the type. Reread: she auditions herself, hears Vee want her by proxy. Hosts Vee's suppressed-Randi cracks; feeds the night-cluster "material has become Randi" beat. Vee will masturbate after these sessions.
-- **Germination / agreement split** *(RESOLVED — see chronology):* the single Introduction is dissolved into the plant (*{{Boyfriend}},* ~early Feb), the conversion (*{{With You}},* ~late Feb), spring germination, and the **agreement** (the yes + blindfold/surprise terms, early summer, Vol III). The fully-interactive escalation (*Pace in the room → Pace with the woman*) is **Randi-steered** — mechanism in `meta-note-threesome-reveal.md`; per-brunch staircase steps remain TBD at spring SATC drafting.
+- **Germination / agreement split** *(RESOLVED — see chronology):* the single Introduction is dissolved into the plant (*{{Boyfriend}},* ~early Feb), the spring naming (the bench curtain), the conversion (*{{With You}},* summer — before the Agreement), and the **agreement** (the yes + blindfold/surprise terms, summer, Vol III). The fully-interactive escalation (*Pace in the room → Pace with the woman*) is **Randi-steered** — mechanism in `meta-note-threesome-reveal.md`; per-brunch staircase steps remain TBD at summer SATC drafting.
 - **Pace's arrangement = omission**: he never tells Vee the woman is Randi or that the understanding pre-exists Vee's agreement. From Vee's position, Pace handles the unknown third; in reality, Randi is already the woman.
 - **Lay the 16-week spring timeline** so the ramp distributes across spring and thins the crowded late-May→summer run. Discharges chronology Flags 16 & 19.
 
@@ -386,3 +386,43 @@ present bundler.
 
 Belongs to the tooling, not novel canon; parked here because it blocks the
 drafting workflow.
+
+-----
+
+# Spring restructure batch — open items (2026-09-04)
+
+## 35. Un-chartered taste gates — *Whiskey and Wine* and *The Almost* hosts (DISCUSS)
+
+Hosts still open: *Whiskey and Wine* ({{Winter Wonderland}} / {{Claim}} / a March host) and *The Almost* (post-break candidates). Both gates ride Pace scenes, post-{{Gesso}}, in sequence, spaced; the Secret Plans cluster is ruled out as a host; {{Grace}} holds taste.
+
+## 36. The {{Massage Table}}'s SATC retell beat — rehome (DISCUSS)
+
+The retell beat (the voice-change mid-telling; *"Comfortable?"*) needs a home — restraint-introduction is the table scene's one axis advance, so the retell doesn't ride it. Candidates: the next brunch after the table, or {{Cabin Debrief Brunch}}.
+
+## 37. Crisis-sequence chronology entries — not yet chartered (DRAFT/DISCUSS)
+
+Charter the remaining crisis-sequence entries (reconvene → the spring dinner → crisis ignition → repair), plus the crisis jaw configuration (still open — `meta-plan-spring.md`).
+
+## 38. Relocation-onto-other-women timing (OPEN — leaning summer)
+
+Open; leaning summer (author session 2026-09-04, not ruled). The tracks doc holds post-landing timing deliberately unfixed (author, 2026-08-23).
+
+## 39. Wine-tasting companion — direct conflict, needs a ruling (DISCUSS)
+
+"Vee takes Pace" (`meta-plan-spring.md`) vs. "possibly with Randi" (`meta-note-taste-thread.md`).
+
+## 40. Re-read `meta-note-threesome-reveal.md` against the named want (REVIEW)
+
+Against a Vee who has named the want (bench act three), Randi's sell gets easier and darker; language may need adjusting. Adjacent: the {{Vee Tells Randi About the Bench}} entry now carries a latent guard-(d) collision — the retelling must silently omit the act-three naming (Vee-to-Randi stays unsaid; `meta-note-vee-on-the-bench.md`); worth a line in that entry when addressed.
+
+## 41. Working titles for the three new chronology entries (TITLE ENGINE)
+
+The break set-piece, the Bricklayers game, the Meg beat — provisional headings stand in the chronology; run the title engine at drafting. The bench act-three exact wording (Pace's reception line) is drafting weather.
+
+## 42. {{Gesso}} — "the small smile already in place on return": trip or no trip (DRAFTING AMBIGUITY)
+
+If a trip: it is the wave receding — suppression, not completion; {{Covering}}'s mirror promise stands unspent.
+
+## 43. Volume Two length (POLICY — author 2026-09-04)
+
+No pre-draft limits. Post-draft, run the cold-read panel with fatigue explicitly in the triage lens; cut only what the instrument flags. A natural split-at-break option exists if ever needed — a decision the finished draft makes.

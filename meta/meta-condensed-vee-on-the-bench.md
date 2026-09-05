@@ -1,6 +1,6 @@
 # Condensed — Vee on the Bench
 
-*SCENE · Draft complete · `scenes/vee-on-the-bench.md` · late on the Pace–Vee staircase (deep spring / early-summer peak) · **Vee's POV — close third***
+*SCENE · Draft complete (act-three revision planned, author 2026-09-04) · `scenes/vee-on-the-bench.md` · late on the Pace–Vee staircase (deep spring / early-summer peak) · **Vee's POV — close third***
 
 ## Architecture & Placement
 
@@ -11,6 +11,8 @@ A high riser — placed late on the staircase, far from the opening so the bench
 ## Content
 
 The same apparatus, the opposite outcome. Pace praises her lushness — the body in the space the bench was built to leave empty, breasts hanging free where Randi's sleek frame did one thing and Vee's abundance does another — and praises her aliveness, the involuntary tells (wet, flush, hard nipples) read aloud as evidence that she is landing. The praise is the engine: exposure is Vee's excitement, not her wound, so being seen and named drives the shame-arousal loop hard rather than annihilating her. The shame is that her body keeps announcing its wanting; the reframe is that he delights in exactly that. She is multi-orgasmic where Randi was wrung once; the drama is not whether she breaks and begs but a body that keeps saying yes past where she can manage it. She capitulates — but to release, not breach. Where Randi's bench created a need she had no equipment for (the wound), Vee's feeds a hunger she was always built to run.
+
+**Act three (design committed 2026-09-04; prose revision planned):** the in-scene lies escalate act by act, and in the third act the lie is about Randi — Pace's fantasy-register proposals name her, Vee pushes herself onto his fingers ("just because I'm horny"), and her body gives the lie to what she says. Off the bench, astride, she tells Pace what she wants with her own mouth — the volume's curtain: **the want named, the deed unframed.** Full design + guards: `meta-note-vee-on-the-bench.md`.
 
 ## POV (the freshness, and the contrast)
 

@@ -31,6 +31,10 @@ Dr. Marsh runs **two dig sites** — archaeological excavation under the anthro 
 - **Randi–Vee** — the painful unspoken desire, still unacknowledged; cracks widen, **no resolution before the reveal** (`meta-note-threesome-reveal.md`; `meta-plan-satc-tracks.md`). Candidate longing scenes vary by kind and stay deniable (a waterpark echoing {{Water Wings}}; a jog) — Vee's felt desire rendered through *her own body*, never a catalogue of Randi's (that sensual render is reserved to Pace's POV, the visual debt); third-party desirability stays **ambient** (no one crosses to her); each scene ends with Vee **alone with the feeling**. The goodbye-kiss staircase is still climbing — its **late/seam rungs land here**.
 - **Vee–Pace** — combustible: the commitment need re-erupts, **submerged in proxy fights** (the "what-are-we" grit surfacing at pressure points, never a spiral). The **Threesome Agreement** is extracted under this pressure; **{{Excavations}}** (the first-love telling — the disclosure-staircase capstone) lands just before the reveal — maximum sympathy against maximum harm.
 
+## The runway to the Agreement
+
+Spring hands off **the want named, the deed unframed** ({{Vee on the Bench}}'s curtain — the voluntary naming, to Pace only). Summer frames and acts it: the **relocation attempts** onto other women (timing open, leaning summer — `meta-plan-satc-tracks.md`) → the **{{With You}} conversion** (the named want re-laundered into the frame that makes acting possible) → **{{The Threesome — Agreement}}** → the act. The blindfold terms are **the un-naming**: having named Randi, Vee builds a frame specifically so she won't know who — deniability constructed around a known want; she asked not to know (`meta-note-vee-on-the-bench.md`).
+
 ## Guards
 
 - **Earn the dark.** Summer instability is **epistemic/emotional** (the grind, the ache) — *not* a cooling of the love or the heat. The deed-stream stays undiminished; the erotic apex sits at the spring/summer seam ({{Vee on the Bench}}, "the last full bloom"). If summer reads as "obviously doomed," the reveal loses its bite.

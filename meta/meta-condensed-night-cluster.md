@@ -1,12 +1,12 @@
 # Condensed — The Night Cluster (the engine that never quits)
 
-*VIGNETTE CLUSTER · Unwritten (concept) · threaded mid-to-late spring, interleaved between the staged scenes · **Vee's POV — close third***
+*VIGNETTE CLUSTER · Unwritten (concept) · beats 1–3 threaded between {{Grace}} and Spring Break, interleaved between the staged scenes · **Vee's POV — close third***
 
 ## Concept & Function
 
 > **Rule mechanism: `meta-arch-vivienne.md` → The Telling. Creation + second-loop + the slips: chronology flag 19.**
 
-A handful of short chapters dramatizing the Telling operating on Vee night after night. Intense regular sex with Pace + frequent intensely sexual SATC lunches with Randi + nightly solo relief *compound* rather than discharge — sex builds the appetite, it does not satisfy it — so across spring Vee's arousal climbs, hotter and hotter toward the bench and the threesome. The cluster is where the reader feels the engine running *between* the peaks.
+A handful of short chapters dramatizing the Telling operating on Vee night after night. Intense regular sex with Pace + frequent intensely sexual SATC lunches with Randi + nightly solo relief *compound* rather than discharge — sex builds the appetite, it does not satisfy it — so across spring Vee's arousal climbs, hotter and hotter toward the bench. The cluster is where the reader feels the engine running *between* the peaks.
 
 **Withhold the act; dramatize the decision.** The orgasm is not the content — the *routing* is. Each chapter is the small nightly fork where she is turned, by a clause Pace wrote, away from him and toward Randi-proximity material. Render the act exactly once (below); everywhere else, the struggle and the choice.
 
@@ -18,15 +18,15 @@ A handful of short chapters dramatizing the Telling operating on Vee night after
 
 *The Pace-slip is a variation, not its own chapter:* fold into beat 2 or 3 — mid-detour his face surfaces, she has crossed into the forbidden wanting under a permitted label, owes the telling, decides she didn't quite notice. Guilt as not-looking, not crisis.
 
-**The one narrated act (late, the dark slip).** The single time the act is rendered: the permitted lunch-material has *become Randi herself* — narrated once, body-first. And there is no rule against that. No toll, nothing owed, nothing to confess; the *fine-ness* is what she can't look at. Pace fenced off himself and left the dangerous door open because in his model Randi is the confidante, not a sexual object — his blind spot as an unwritten clause. **The rule's silence about Randi is the tell.** Rendering it exactly once, after several withheld, gives it all the weight.
+**The one narrated act (the dark slip) — lives inside the break set-piece** (`meta-plan-chronology.md`). The single time the act is rendered: the permitted lunch-material has *become Randi herself* — here literally her photo — narrated once, body-first. And there is no rule against that. No toll, nothing owed, nothing to confess; the *fine-ness* is what she can't look at. Pace fenced off himself and left the dangerous door open because in his model Randi is the confidante, not a sexual object — his blind spot as an unwritten clause. **The rule's silence about Randi is the tell.** The separation strips the lunch-alibi — no table to file the charge under, the object finally naked. Rendering it exactly once, after several withheld, gives it all the weight.
 
 ## Form
 
-**Quicker chapters, shrinking as the detour quickens.** Beat 1 is the full fight (longest); beat 3 is a few lines (she's already gone) — the form enacts the conditioning, less struggle / fewer words. The one narrated act breaks the shrinking trend (longer again), which marks it.
+**Quicker chapters, shrinking as the detour quickens.** Beat 1 is the full fight (longest); beat 3 is a few lines (she's already gone) — the form enacts the conditioning, less struggle / fewer words. The one narrated act breaks the shrinking trend (longer again), which marks it — the break set-piece, longer by design, satisfies this.
 
 ## Placement
 
-Sprinkled mid-to-late spring, interleaved between the staged escalations ({{Restrained}}, Cabin, Pool, Secret Plans) so the rising solo line runs between the peaks — the escalation is not only in the big scenes but in the nights between them.
+Beats 1–3 run compact in the {{Grace}}→Spring Break window (the Telling installs at {{Grace}}; never retroactive), interleaved between the staged escalations so the rising solo line runs between the peaks — the escalation is not only in the big scenes but in the nights between them. The one narrated act lives inside the break set-piece (`meta-plan-chronology.md`). The valve opening late is what makes March combustible: the rule just installed, the ache newly banked, then the separation and the photo.
 
 ## Craft guards
 
