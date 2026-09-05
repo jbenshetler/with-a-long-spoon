@@ -197,7 +197,7 @@ From the `meta-note-threesome-reveal.md` STILL-OPEN list, sharpened now that Vee
 
 Not duplicated here; `meta-plan-chronology.md`'s continuity-flags section owns them. This session's bridge work touches them directly:
 
-- **Flag 16** — spring underplanned: SATC goodbye-kiss staircase steps; the spring Randi–Pace dynamic; the two unpinned Social Price vignettes.
+- **Flag 16** — spring underplanned: SATC goodbye-kiss staircase steps; the spring Randi–Pace dynamic; Social Price (#1 merged into {{Inversion}}, 2026-09-05; #2 unpinned ~April).
 - **Flag 17** — scent-name thread: where Vee *asks* the scent's name; the buys-it→shower beat to create.
 - **Flag 19** — the Telling's second loop + the night cluster (feeds the threesome arrangement and the masturbation-becomes-Randi beat).
 - **Flag 3 / reveal image** — locked: at reveal, Randi's hair is loose and wild and the deep-green, white-polka-dot scrunchie is on her wrist (`meta-note-threesome-reveal.md`; `meta-note-spring-satc-bridge.md`).
@@ -419,9 +419,9 @@ Against a Vee who has named the want (bench act three), Randi's sell gets easier
 
 The break set-piece, the Bricklayers game, the Meg beat — provisional headings stand in the chronology; run the title engine at drafting. The bench act-three exact wording (Pace's reception line) is drafting weather.
 
-## 42. {{Gesso}} — "the small smile already in place on return": trip or no trip (DRAFTING AMBIGUITY)
+## 42. {{Gesso}} — "on return" ✓ RESOLVED (author 2026-09-05)
 
-If a trip: it is the wave receding — suppression, not completion; {{Covering}}'s mirror promise stands unspent.
+A trip, and it completes — gonzo, compressed, the involuntary Randi-flash at the peak; the mirror promise breaks here, quietly and upward. The locked smile is the zinger series' terminal silence; Vee leaves the brunch early. Full design: `meta-condensed-gesso.md`.
 
 ## 43. Volume Two length (POLICY — author 2026-09-04)
 

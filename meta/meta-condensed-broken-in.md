@@ -12,7 +12,7 @@ This is the **CW-dance debrief**, a distinct SATC register: **counsel, not confe
 
 ## Venue
 
-**Randi's single.** Vee comes to Randi needing something — she shows up at the door rather than Randi arranging the meeting. This inverts the usual power geometry: Randi receives, Vee arrives. The room is private, face-to-face, Randi can read every tell. Not the velvet booth; the velvet booth is reserved for the full extraction production. The single is stripped of apparatus — just the two of them, which reads as intimacy and is also Randi in full command of her own space. **Social cost beat:** a sister seeing the unaffiliated outsider cross the sorority house threshold — especially in the distressed morning-after register — feeds the {{Social Price #1}} vignette, which currently lacks a specific inciting incident.
+**Randi's single.** Vee comes to Randi needing something — she shows up at the door rather than Randi arranging the meeting. This inverts the usual power geometry: Randi receives, Vee arrives. The room is private, face-to-face, Randi can read every tell. Not the velvet booth; the velvet booth is reserved for the full extraction production. The single is stripped of apparatus — just the two of them, which reads as intimacy and is also Randi in full command of her own space. **Social cost beat:** a sister seeing the unaffiliated outsider cross the sorority house threshold — especially in the distressed morning-after register — feeds the missed-events ledger Brooke brings to the {{Inversion}} proceeding.
 
 ## The Irony
 

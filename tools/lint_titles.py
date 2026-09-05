@@ -41,7 +41,6 @@ ALIASES = {
     "The Cassie Scene": "The Cassie Scene — Thesis Delivery",
     "Ignition Scalding": "Scalding Jealousy Ignition",
     "Scalding": "Scalding Jealousy Ignition",
-    "Social Price #1": "Randi — Social Price #1",
     "Social Price #2": "Randi — Social Price #2",
     "Grain #1": "Grain #1 — The First Flicker",
     "Grain #2": "Grain #2 — Worn in Plain Sight",
