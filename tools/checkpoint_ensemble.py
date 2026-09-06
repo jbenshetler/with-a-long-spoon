@@ -137,6 +137,7 @@ def source_records(name: str, boundary: int) -> tuple[list[dict[str, Any]], str,
         if seed_boundary is not None
         else None
     )
+    records: list[dict[str, Any]] = []
     problems: list[str] = []
 
     for source in source_defs:
@@ -214,7 +215,7 @@ def source_records(name: str, boundary: int) -> tuple[list[dict[str, Any]], str,
     declared_sources = {record["source_sha256"] for record in records}
     if len(declared_sources) != 1:
         raise SystemExit("source checkpoints do not share one manuscript fingerprint")
-    return records, bundle, current_fingerprints
+    return records, window, current_fingerprints
 
 
 def matcher_schema() -> dict[str, Any]:
@@ -301,7 +302,11 @@ def matcher_prompt(name: str, boundary: int, sources: list[dict[str, Any]], bund
             f"===== SOURCE CHECKPOINT: {record['model_id']} · vendor={record['vendor']} =====\n"
             + record["body"]
         )
-    parts.append("===== FULL CLEAN SOURCE BUNDLE FOR FACT VERIFICATION =====\n" + bundle)
+    parts.append(
+        "===== RAW SOURCE FOR FACT VERIFICATION "
+        "(full opening-volume manuscript, or current-volume span after the frozen seed) =====\n"
+        + bundle
+    )
     return "\n\n".join(parts)
 
 
@@ -555,7 +560,7 @@ def admit_candidate_claims(
     boundary: int,
     sources: list[dict[str, Any]],
 ) -> tuple[dict[str, Any], list[dict[str, Any]], dict[str, int]]:
-    """Admit valid claims individually, then fail closed on aggregate coverage."""
+    """Admit valid claims individually; aggregate coverage is checked after ledger merge."""
     accepted: list[dict[str, Any]] = []
     rejected: list[dict[str, Any]] = []
     for index, claim in enumerate(payload.get("claims", []), start=1):
@@ -575,20 +580,29 @@ def admit_candidate_claims(
         section: sum(1 for claim in ledger["claims"] if claim["section"] == section)
         for section in SECTIONS
     }
+    return ledger, rejected, coverage
+
+def validate_coverage(ledger: dict[str, Any], name: str) -> dict[str, int]:
+    """Fail closed on the complete active ledger, including carried prior claims."""
+    coverage = {
+        section: sum(1 for claim in ledger["claims"] if claim["section"] == section)
+        for section in SECTIONS
+    }
     settings = cold_read_config.ensemble_settings(name)
     problems = []
     minimum = int(settings.get("minimum_claims", 1))
     if len(ledger["claims"]) < minimum:
         problems.append(f"{len(ledger['claims'])} admitted claims, needs at least {minimum}")
     missing_sections = [
-        section for section in settings.get("required_sections", SECTIONS)
+        section
+        for section in settings.get("required_sections", SECTIONS)
         if coverage.get(section, 0) == 0
     ]
     if missing_sections:
         problems.append("no admitted claim in: " + ", ".join(missing_sections))
     if problems:
         raise ValueError("ensemble coverage failed: " + "; ".join(problems))
-    return ledger, rejected, coverage
+    return coverage
 
 
 def validate_conflicts(conflicts: list[Any], sources: list[dict[str, Any]]) -> list[dict[str, Any]]:
@@ -781,12 +795,13 @@ def build(name: str, boundary: int, *, claims_path: Path | None, effort: str) ->
         matcher_mode = "codex-subscription"
 
     try:
-        candidate_ledger, rejected_claims, coverage = admit_candidate_claims(
+        candidate_ledger, rejected_claims, _candidate_coverage = admit_candidate_claims(
             payload, name=name, boundary=boundary, sources=sources
         )
         ledger, prior_lineage = merge_temporal_ledger(
             candidate_ledger, name=name, boundary=boundary
         )
+        coverage = validate_coverage(ledger, name)
         conflicts = validate_conflicts(payload.get("conflicts", []), sources)
     except ValueError as exc:
         failure_dir = Path("/tmp/ramdisk")

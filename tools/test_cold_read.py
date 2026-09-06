@@ -487,6 +487,30 @@ class HarnessParsingTests(unittest.TestCase):
         self.assertIn("### Who's who", normalized)
         self.assertIn("### Relationships", normalized)
 
+    def test_checkpoint_heading_normalizes_smart_apostrophe(self):
+        extractor = importlib.import_module("checkpoint_extract")
+        normalized = extractor.normalize_section_headings(
+            "### What I know that they don’t\n\nBody",
+            ("What I know that they don't",),
+        )
+        self.assertIn("### What I know that they don't", normalized)
+
+    def test_truncated_reader_reaction_is_rejected(self):
+        grounded = importlib.import_module("cold_read_grounded")
+        truncated = (
+            "A substantial felt read. " * 20
+            + "\n\n**Heat:** 3 — hot\n\n**Romance:** 2 — tender\n"
+        )
+        with self.assertRaisesRegex(RuntimeError, "missing structured fields"):
+            grounded.validate_reaction(truncated)
+
+    def test_complete_reader_reaction_is_accepted(self):
+        grounded = importlib.import_module("cold_read_grounded")
+        reaction = "A substantial felt read. " * 20
+        for label in grounded.REQUIRED_REACTION_LABELS:
+            reaction += f"\n\n**{label}:** complete"
+        grounded.validate_reaction(reaction)
+
     def test_checkpoint_plan_uses_one_prior_volume_seed(self):
         bundle = importlib.import_module("checkpoint_bundle")
         self.assertEqual(bundle.checkpoint_plan(50), (None, 1))

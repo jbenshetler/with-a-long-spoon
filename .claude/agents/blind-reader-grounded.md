@@ -117,6 +117,12 @@ Two parts, in this order: first the **felt read** (prose, a person talking), the
 short **structured block**. Keep them separate — react first, tabulate second, so the
 analysis never contaminates the gut response.
 
+**Completion is an invariant.** Keep the entire response under **1,400 words**:
+at most six short felt-read paragraphs (900 words total), then the complete
+structured block. If space is tight, compress the felt read before omitting or
+truncating any structured field. Finish with the
+`**Pace — chapter to chapter:**` line.
+
 **First — the felt read.** Your honest experience of *this* chapter, read in
 sequence, to this point. Cover, in whatever order the chapter makes natural (don't
 pad sections you have nothing for):

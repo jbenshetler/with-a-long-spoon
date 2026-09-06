@@ -708,12 +708,40 @@ def strip_leading_heading(text: str) -> str:
     t = re.sub(r"(?is)^\s*(?:#{1,3}\s*)?(?:\*\*)?reader reaction:?(?:\*\*)?\s*\n+", "", t, count=1)
     return t.strip()
 
+REQUIRED_REACTION_LABELS = (
+    "Cast present (in person)",
+    "Heat",
+    "Romance",
+    "Motifs & images",
+    "Symbolism",
+    "Characterization",
+    "Pace — within the chapter",
+    "Pace — chapter to chapter",
+)
+
+
+def validate_reaction(reaction: str) -> None:
+    """Reject truncated or structurally incomplete reader output before persistence."""
+    if len(reaction) < 200:
+        raise RuntimeError(f"suspiciously short reaction ({len(reaction)} chars)")
+    missing = [
+        label
+        for label in REQUIRED_REACTION_LABELS
+        if not re.search(rf"(?m)^\s*\*\*{re.escape(label)}:\*\*", reaction)
+    ]
+    if missing:
+        raise RuntimeError(
+            "incomplete reader reaction; missing structured fields: "
+            + ", ".join(missing)
+        )
+
 
 def write_review(model_id: str, n: int, decade: int, reaction: str) -> Path:
     slugs = reader_slugs()
     slug = slugs[n - 1]
     title = checkpoint_bundle.display_title(slug)
     memory = memory_line(model_id, n, decade)
+    validate_reaction(reaction)
     out = REPO / f"reviews/cold-read/{model_id}/{slug}.md"
     out.parent.mkdir(parents=True, exist_ok=True)
     content = (

@@ -93,10 +93,11 @@ def make_claude_extractor_fn(system_prompt: str, effort: str):
     return run
 
 def normalize_section_headings(text: str, headings: tuple[str, ...]) -> str:
-    """Normalize an extractor's bold section labels to the required H3 form."""
+    """Normalize accepted heading typography to the required H3 form."""
     for heading in headings:
+        heading_pattern = re.escape(heading).replace("'", "['’]")
         text = re.sub(
-            rf"(?m)^\*\*{re.escape(heading)}\*\*\s*$",
+            rf"(?m)^(?:###\s+|\*\*){heading_pattern}(?:\*\*)?\s*$",
             f"### {heading}",
             text,
         )
