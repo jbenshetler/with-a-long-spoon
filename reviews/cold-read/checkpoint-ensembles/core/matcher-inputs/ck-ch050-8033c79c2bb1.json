@@ -1,0 +1,989 @@
+{
+  "claims": [
+    {
+      "section": "Who's who",
+      "type": "entity",
+      "slot": "vee_identity",
+      "text": "Vee is Vivienne Thorne, a 21-year-old economics junior from Ohio.",
+      "valid_from": 1,
+      "superseded_at": null,
+      "support": [
+        {
+          "model": "claude-fable-5",
+          "quote": "Vee (Vivienne Thorne) — female, established on page · in-person · Protagonist. 21, junior, economics major from small-town Ohio"
+        },
+        {
+          "model": "gpt-5.5",
+          "quote": "Vee (Vivienne) — female · in-person · twenty-one, college junior/econ student from Ohio"
+        }
+      ],
+      "scene_evidence": [
+        {
+          "slug": "substitution",
+          "quote": "\"Vivienne Thorne. V.T. Yes, like the university.\""
+        },
+        {
+          "slug": "substitution",
+          "quote": "\"Econ.\""
+        }
+      ]
+    },
+    {
+      "section": "Who's who",
+      "type": "entity",
+      "slot": "pace_identity",
+      "text": "Pace is Peter, a 22-year-old mathematics PhD candidate who owns a house off Route 614.",
+      "valid_from": 1,
+      "superseded_at": null,
+      "support": [
+        {
+          "model": "claude-opus-4-8",
+          "quote": "Pace (Peter) — male · in-person · Math PhD candidate, 22"
+        },
+        {
+          "model": "gpt-5.5",
+          "quote": "Pace (Peter) — male · in-person · twenty-two, math PhD candidate"
+        }
+      ],
+      "scene_evidence": [
+        {
+          "slug": "rock",
+          "quote": "\"My real name is Peter,\" he said."
+        },
+        {
+          "slug": "off-six-fourteen",
+          "quote": "\"He lives out west of town, off six-fourteen\""
+        }
+      ]
+    },
+    {
+      "section": "Who's who",
+      "type": "entity",
+      "slot": "randi_identity",
+      "text": "Randi is Miranda, a wealthy sorority Standards officer with black hair and blue eyes.",
+      "valid_from": 1,
+      "superseded_at": null,
+      "support": [
+        {
+          "model": "claude-opus-4-8",
+          "quote": "Randi (Miranda) — female · in-person · Glamorous sorority woman (Standards board, has a single room), black hair, startling blue eyes, dancer/cheer background, wealthy family."
+        },
+        {
+          "model": "gpt-5.5",
+          "quote": "Randi (Miranda) — female · in-person · glamorous sorority Standards officer, Vee's closest female friend and Pace's lover; wealthy, controlled, blue-eyed"
+        }
+      ],
+      "scene_evidence": [
+        {
+          "slug": "the-bench",
+          "quote": "the flat oval and the *startlingly* blue eyes"
+        },
+        {
+          "slug": "standards",
+          "quote": "she sat on the board herself, Standards"
+        }
+      ]
+    },
+    {
+      "section": "Who's who",
+      "type": "entity",
+      "slot": "cassie_identity",
+      "text": "Cassie is Vee's blunt, loyal roommate and best friend, an athlete and pre-nursing student.",
+      "valid_from": 1,
+      "superseded_at": null,
+      "support": [
+        {
+          "model": "claude-fable-5",
+          "quote": "Cassie — female · in-person · Vee's roommate and best friend; plain-spoken, few words, ball cap, boxy frame, athlete (team practice, rec pool), pre-nursing"
+        },
+        {
+          "model": "gpt-5.5",
+          "quote": "Cassie (Cassandra) — female · in-person · Vee's blunt, loyal roommate and best friend before Randi; athlete/pre-nursing, practical, protective"
+        }
+      ],
+      "scene_evidence": [
+        {
+          "slug": "water-wings",
+          "quote": "Cassie did not go to a pool to be admired"
+        },
+        {
+          "slug": "school-nights",
+          "quote": "Cassie kept it cracked its two inches"
+        }
+      ]
+    },
+    {
+      "section": "Who's who",
+      "type": "entity",
+      "slot": "sheri_identity",
+      "text": "Sheri is Pace's cycling friend; she is blunt, estranged from her family, and knows about both women in his life.",
+      "valid_from": 1,
+      "superseded_at": null,
+      "support": [
+        {
+          "model": "claude-fable-5",
+          "quote": "Sheri — female · in-person · Pace's cycling/dance-hall friend of two years; tiny, bleached ponytail/two-tone perm, blunt, funny; gay"
+        },
+        {
+          "model": "gpt-5.5",
+          "quote": "Sheri — female · in-person · Pace's cycling friend, small, blunt, country, alone from family, loyal enough to challenge him hard"
+        }
+      ],
+      "scene_evidence": [
+        {
+          "slug": "hills-and-valleys",
+          "quote": "\"Two of them at once.\""
+        },
+        {
+          "slug": "the-usual",
+          "quote": "\"She find out about the brunette, then?\""
+        }
+      ]
+    },
+    {
+      "section": "Who's who",
+      "type": "entity",
+      "slot": "daphne_identity",
+      "text": "Daphne was Pace's assigned tutor and first relationship when he was 15 and she was 19.",
+      "valid_from": 1,
+      "superseded_at": null,
+      "support": [
+        {
+          "model": "claude-fable-5",
+          "quote": "Daphne — female · mentioned-only · Pace's tutor/first love (19 to his 15); left at 21"
+        },
+        {
+          "model": "gpt-5.5",
+          "quote": "Daphne — female · mentioned-only · Pace's early college lover/tutor, nineteen when he was fifteen; left when he was seventeen and she twenty-one."
+        }
+      ],
+      "scene_evidence": [
+        {
+          "slug": "rock",
+          "quote": "\"She was nineteen.\""
+        },
+        {
+          "slug": "rock",
+          "quote": "\"It went on two years,\" he said."
+        }
+      ]
+    },
+    {
+      "section": "Relationships",
+      "type": "state",
+      "slot": "vee_pace_status",
+      "text": "Vee and Pace are reconciled and involved, but their relationship remains unnamed and he has not said \"I love you.\"",
+      "valid_from": 50,
+      "superseded_at": null,
+      "support": [
+        {
+          "model": "claude-opus-4-8",
+          "quote": "Reconciled at full heat; he still won't say \"I love you\""
+        },
+        {
+          "model": "gpt-5.5",
+          "quote": "Vee ↔ Pace — State: involved, reconciled; still unnamed in the terms Vee wants."
+        }
+      ],
+      "scene_evidence": [
+        {
+          "slug": "nothing-underneath",
+          "quote": "The relationship is restored in action, but still unnamed."
+        },
+        {
+          "slug": "believe-me",
+          "quote": "\"Words are cheap,\" he said. \"Believe what I do.\""
+        }
+      ]
+    },
+    {
+      "section": "Relationships",
+      "type": "event",
+      "slot": "vee_pace_first_sex",
+      "text": "Vee and Pace first have sex in chapter 18.",
+      "valid_from": 18,
+      "superseded_at": null,
+      "support": [
+        {
+          "model": "claude-fable-5",
+          "quote": "consummated: y (first in ch18"
+        },
+        {
+          "model": "gpt-5.5",
+          "quote": "consummated: y (first in ch 18)"
+        }
+      ],
+      "scene_evidence": [
+        {
+          "slug": "famished",
+          "quote": "It was the first time that had been true."
+        }
+      ]
+    },
+    {
+      "section": "Relationships",
+      "type": "state",
+      "slot": "vee_randi_status",
+      "text": "Vee and Randi are best friends whose habitual goodbye kisses and intimacy are increasingly charged; Randi consciously hides her love for Vee.",
+      "valid_from": 50,
+      "superseded_at": null,
+      "support": [
+        {
+          "model": "claude-opus-4-8",
+          "quote": "Vee & Randi — State: friends, deepening (surface: best friends; true: Randi engineered the friendship, is romantically/sexually in love with Vee, and hides it)."
+        },
+        {
+          "model": "gpt-5.6-sol",
+          "quote": "Vee ↔ Randi — State: surface: friends/best friends · true: friends and secretly mutually attracted; Randi’s desire is conscious and concealed"
+        }
+      ],
+      "scene_evidence": [
+        {
+          "slug": "fairytale",
+          "quote": "She loved Vee and she had told her so"
+        },
+        {
+          "slug": "all-the-time",
+          "quote": "Vee was the one who wouldn't let it"
+        }
+      ]
+    },
+    {
+      "section": "Relationships",
+      "type": "state",
+      "slot": "randi_pace_status",
+      "text": "Randi and Pace are secretly involved lovers, and their relationship remains unfinished at the boundary.",
+      "valid_from": 1,
+      "superseded_at": null,
+      "support": [
+        {
+          "model": "claude-fable-5",
+          "quote": "Randi ↔ Pace — State: *involved, secret*"
+        },
+        {
+          "model": "gpt-5.5",
+          "quote": "Randi ↔ Pace — State: involved, secret; not finished."
+        }
+      ],
+      "scene_evidence": [
+        {
+          "slug": "the-bench",
+          "quote": "\"There you are, Randi.\""
+        },
+        {
+          "slug": "hills-and-valleys",
+          "quote": "\"Randi. That's not finished.\""
+        }
+      ]
+    },
+    {
+      "section": "Relationships",
+      "type": "state",
+      "slot": "vee_cassie_status",
+      "text": "Vee and Cassie remain loyal friends, though Vee increasingly gives Cassie edited versions of her life with Pace.",
+      "valid_from": 50,
+      "superseded_at": null,
+      "support": [
+        {
+          "model": "claude-fable-5",
+          "quote": "Vee ↔ Cassie — deep, dry, loyal; Cassie watches over her"
+        },
+        {
+          "model": "gpt-5.5",
+          "quote": "Vee ↔ Cassie — State: friends, loyal, slightly displaced but not broken."
+        }
+      ],
+      "scene_evidence": [
+        {
+          "slug": "toenails",
+          "quote": "What she kept was the middle."
+        },
+        {
+          "slug": "school-nights",
+          "quote": "\"Do you love him,\" she said"
+        }
+      ]
+    },
+    {
+      "section": "What I know that they don't",
+      "type": "knowledge",
+      "slot": "vee_ignorance_pace_randi",
+      "text": "Vee does not know that Pace and Randi were lovers before she met them and remain secretly involved.",
+      "valid_from": 1,
+      "superseded_at": null,
+      "support": [
+        {
+          "model": "claude-opus-4-8",
+          "quote": "Vee doesn't know Pace and Randi are secretly a couple"
+        },
+        {
+          "model": "gpt-5.5",
+          "quote": "Vee does not know Randi and Pace were already lovers before Randi “accidentally” met her"
+        }
+      ],
+      "scene_evidence": [
+        {
+          "slug": "the-bench",
+          "quote": "She came in past the kitchen and put her bag on the chair by the door"
+        },
+        {
+          "slug": "gone",
+          "quote": "Randi was still astride him where she'd stayed after"
+        }
+      ]
+    },
+    {
+      "section": "What I know that they don't",
+      "type": "knowledge",
+      "slot": "vee_ignorance_game",
+      "text": "Vee does not know that Pace and Randi deliberately selected her through the pointing game and Randi engineered their collision.",
+      "valid_from": 3,
+      "superseded_at": null,
+      "support": [
+        {
+          "model": "claude-opus-4-8",
+          "quote": "Vee doesn't know she was chosen — the \"pointing game,\" the staged quad \"collision\""
+        },
+        {
+          "model": "gpt-5.6-sol",
+          "quote": "Vee does not know that Pace and Randi were already lovers before she met either of them together, or that her apparent chance meeting with Randi began with Pace pointing her out and telling Randi to meet her."
+        }
+      ],
+      "scene_evidence": [
+        {
+          "slug": "the-pointing-game",
+          "quote": "\"Her,\" Pace said, and pointed."
+        },
+        {
+          "slug": "the-pointing-game",
+          "quote": "\"Go meet her,\" Pace said."
+        }
+      ]
+    },
+    {
+      "section": "What I know that they don't",
+      "type": "knowledge",
+      "slot": "randi_love_secret",
+      "text": "Randi knows that she loves and desires Vee, but has decided not to confess it because she fears losing their friendship.",
+      "valid_from": 46,
+      "superseded_at": null,
+      "support": [
+        {
+          "model": "claude-opus-4-8",
+          "quote": "Randi genuinely loves Vee — she wept over it, considered confessing, couldn't risk losing her."
+        },
+        {
+          "model": "gpt-5.6-sol",
+          "quote": "Randi has decided not to confess because she fears losing their unguarded friendship and prefers to let Vee arrive on her own."
+        }
+      ],
+      "scene_evidence": [
+        {
+          "slug": "fairytale",
+          "quote": "She was not brave enough to lose her."
+        },
+        {
+          "slug": "fairytale",
+          "quote": "Let Vee arrive at it on her own."
+        }
+      ]
+    },
+    {
+      "section": "What I know that they don't",
+      "type": "knowledge",
+      "slot": "miranda_holdings_secret",
+      "text": "Vee recognized Miranda Holdings in the PPP data as connected to Randi's family and chose not to tell Randi that she saw.",
+      "valid_from": 39,
+      "superseded_at": null,
+      "support": [
+        {
+          "model": "claude-opus-4-8",
+          "quote": "Reader knows Vee saw the \"Miranda Holdings, LLC\" PPP-fraud data (ch39) and privately understood it's Randi's family — and said nothing."
+        },
+        {
+          "model": "gpt-5.5",
+          "quote": "Randi does not know Vee saw Miranda Holdings on the PPP outlier record and understood its connection to Randi's father/family; Vee chose silence as kindness."
+        }
+      ],
+      "scene_evidence": [
+        {
+          "slug": "the-outlier",
+          "quote": "the name was Miranda Holdings, LLC."
+        },
+        {
+          "slug": "the-outlier",
+          "quote": "she didn't tell Randi, then or after, what she'd seen."
+        }
+      ]
+    },
+    {
+      "section": "What I know that they don't",
+      "type": "knowledge",
+      "slot": "pace_feelings_unknown_to_vee",
+      "text": "Vee does not know that Pace told Sheri he wants and misses her, though he cannot say the declaration Vee seeks.",
+      "valid_from": 48,
+      "superseded_at": null,
+      "support": [
+        {
+          "model": "claude-fable-5",
+          "quote": "Pace loves Vee. To Sheri, plainly: \"I want Vee. I miss her\""
+        },
+        {
+          "model": "gpt-5.6-sol",
+          "quote": "Vee does not know that Pace openly told Sheri he wants and misses her"
+        }
+      ],
+      "scene_evidence": [
+        {
+          "slug": "the-usual",
+          "quote": "\"I want Vee. I miss her.\""
+        },
+        {
+          "slug": "the-usual",
+          "quote": "\"I can't.\""
+        }
+      ]
+    },
+    {
+      "section": "Motifs & images",
+      "type": "motif",
+      "slot": "food_hunger",
+      "text": "Food and being fed recur as an image of Vee's awakening appetite and of Pace's care.",
+      "valid_from": 1,
+      "superseded_at": null,
+      "support": [
+        {
+          "model": "claude-opus-4-8",
+          "quote": "Portioned appetite / awakening hunger"
+        },
+        {
+          "model": "gpt-5.5",
+          "quote": "Food/hunger/fed — apple slices, froyo, Middle Eastern meal"
+        }
+      ],
+      "scene_evidence": [
+        {
+          "slug": "seconds",
+          "quote": "\"I had been eating crackers my whole life,\" she said. \"And you fed me a meal.\""
+        },
+        {
+          "slug": "nothing-underneath",
+          "quote": "\"I feel like I haven't eaten anything real since the last time you cooked for me,\""
+        }
+      ]
+    },
+    {
+      "section": "Motifs & images",
+      "type": "motif",
+      "slot": "flannel",
+      "text": "Pace's handmade flannel functions as Vee's portable comfort and a marker of longing during separation.",
+      "valid_from": 11,
+      "superseded_at": null,
+      "support": [
+        {
+          "model": "claude-opus-4-8",
+          "quote": "The flannel shirt (no tag — he made it): given in the rain (ch11), Vee sleeps in it"
+        },
+        {
+          "model": "gpt-5.5",
+          "quote": "The flannel shirt — given in the rain (ch11), Vee sleeps in it"
+        }
+      ],
+      "scene_evidence": [
+        {
+          "slug": "leave-no-trace",
+          "quote": "He took out a flannel shirt. Folded. Clean. Dry."
+        },
+        {
+          "slug": "bare",
+          "quote": "the heat in the shirt was her own, given back."
+        }
+      ]
+    },
+    {
+      "section": "Motifs & images",
+      "type": "motif",
+      "slot": "warmth_cold",
+      "text": "Warm houses and bodies are repeatedly contrasted with Vee's cold dorm and childhood room.",
+      "valid_from": 1,
+      "superseded_at": null,
+      "support": [
+        {
+          "model": "claude-fable-5",
+          "quote": "Warm houses vs. cold rooms — heat turned up hours before she arrives"
+        },
+        {
+          "model": "gpt-5.6-sol",
+          "quote": "Warmth and cold: Pace heats his house in advance; blankets, robes, tea, food, skin, and fire repeatedly shelter Vee and Randi."
+        }
+      ],
+      "scene_evidence": [
+        {
+          "slug": "two-towels",
+          "quote": "The house was warm. Too warm"
+        },
+        {
+          "slug": "old-acquaintances",
+          "quote": "Vee's bedroom chilled at night"
+        }
+      ]
+    },
+    {
+      "section": "Motifs & images",
+      "type": "motif",
+      "slot": "goodbye_kisses",
+      "text": "Randi's mouth-kiss goodbyes become a repeated private rite that Vee initially explains away as friendship.",
+      "valid_from": 17,
+      "superseded_at": null,
+      "support": [
+        {
+          "model": "claude-opus-4-8",
+          "quote": "Randi kisses Vee on the mouth at every goodbye since ch17"
+        },
+        {
+          "model": "gpt-5.6-sol",
+          "quote": "mouth-kissed: y (first in ch 17, then habitual)"
+        }
+      ],
+      "scene_evidence": [
+        {
+          "slug": "how-its-done",
+          "quote": "\"French,\" she thought. \"It's a French thing\""
+        },
+        {
+          "slug": "all-the-time",
+          "quote": "this time, when it should have ended, Vee was the one who wouldn't let it"
+        }
+      ]
+    },
+    {
+      "section": "Motifs & images",
+      "type": "motif",
+      "slot": "statistics",
+      "text": "Statistics language recurs as an image of hidden causes, reversals, and exceptional points.",
+      "valid_from": 4,
+      "superseded_at": null,
+      "support": [
+        {
+          "model": "claude-opus-4-8",
+          "quote": "The stats curriculum narrates the book's own irony: *latent variables*"
+        },
+        {
+          "model": "gpt-5.5",
+          "quote": "Mathematics/statistics — substitution/Euler, latent variables, Simpson's paradox, outliers"
+        }
+      ],
+      "scene_evidence": [
+        {
+          "slug": "see-you-later",
+          "quote": "\"latent variables*. The factors you can't measure directly\""
+        },
+        {
+          "slug": "the-outlier",
+          "quote": "the points that sat off by themselves"
+        }
+      ]
+    },
+    {
+      "section": "Symbolism",
+      "type": "symbolism",
+      "slot": "bench_symbolism",
+      "text": "The bench may be read as an ordinary surface concealing the sexual apparatus and hidden purpose beneath the central relationships.",
+      "valid_from": 1,
+      "superseded_at": null,
+      "support": [
+        {
+          "model": "claude-opus-4-8",
+          "quote": "The bench with its top replaced — real purpose sitting unspoken in the middle of the room."
+        },
+        {
+          "model": "gpt-5.5",
+          "quote": "The bench is Randi's hidden purpose made visible: something she thought was a table becomes a device that exposes what she keeps covered."
+        }
+      ],
+      "scene_evidence": [
+        {
+          "slug": "the-bench",
+          "quote": "\"That's not a table,\" she said."
+        },
+        {
+          "slug": "the-bench",
+          "quote": "\"Not only a table.\""
+        }
+      ]
+    },
+    {
+      "section": "Symbolism",
+      "type": "symbolism",
+      "slot": "crop_symbolism",
+      "text": "The cropped induction photograph may be read as Vee dividing her acceptable family-facing self from the fuller self she gives Pace.",
+      "valid_from": 41,
+      "superseded_at": null,
+      "support": [
+        {
+          "model": "claude-opus-4-8",
+          "quote": "The cropped photo — Vee halving herself; the public self vs. the self she hands only to Pace."
+        },
+        {
+          "model": "gpt-5.5",
+          "quote": "The cropped induction photo is Vee dividing herself for her parents: acceptable daughter above the waist, actual awakened woman cut away."
+        }
+      ],
+      "scene_evidence": [
+        {
+          "slug": "the-induction",
+          "quote": "the whole frame, uncropped."
+        },
+        {
+          "slug": "cropped",
+          "quote": "The version they have stops at the waist."
+        }
+      ]
+    },
+    {
+      "section": "Symbolism",
+      "type": "symbolism",
+      "slot": "coat_symbolism",
+      "text": "The coat with nothing underneath may be read as Vee's wordless, chosen offering after words have failed her.",
+      "valid_from": 50,
+      "superseded_at": null,
+      "support": [
+        {
+          "model": "claude-opus-4-8",
+          "quote": "The coat with nothing underneath — total, wordless offering standing in for the word she can't get."
+        },
+        {
+          "model": "gpt-5.5",
+          "quote": "The coat with nothing underneath is Vee's no-words answer: respectable outside, wholly offered truth inside."
+        }
+      ],
+      "scene_evidence": [
+        {
+          "slug": "nothing-underneath",
+          "quote": "She did not say anything at all."
+        },
+        {
+          "slug": "nothing-underneath",
+          "quote": "she took the two edges of the coat in her hands and opened it."
+        }
+      ]
+    },
+    {
+      "section": "Open questions",
+      "type": "open_question",
+      "slot": "pace_declaration",
+      "text": "Will Pace ever say \"I love you\" or name what he and Vee are, and what prevents him from doing so?",
+      "valid_from": 45,
+      "superseded_at": null,
+      "support": [
+        {
+          "model": "claude-opus-4-8",
+          "quote": "Will Pace ever say \"I love you\"? What breaks his refusal?"
+        },
+        {
+          "model": "gpt-5.5",
+          "quote": "Will Pace ever say “I love you” or otherwise name Vee in the way she needs?"
+        }
+      ],
+      "scene_evidence": [
+        {
+          "slug": "believe-me",
+          "quote": "\"Words are cheap. Believe what I do.\""
+        },
+        {
+          "slug": "the-usual",
+          "quote": "\"I can't.\""
+        }
+      ]
+    },
+    {
+      "section": "Open questions",
+      "type": "open_question",
+      "slot": "secret_discovery",
+      "text": "Will Vee discover Pace and Randi's affair, the pointing game, and the planning behind her introduction to them?",
+      "valid_from": 3,
+      "superseded_at": null,
+      "support": [
+        {
+          "model": "claude-fable-5",
+          "quote": "Will Vee learn about Pace and Randi — the affair, the pointing game, the plan?"
+        },
+        {
+          "model": "gpt-5.5",
+          "quote": "Will Vee discover the full Randi-Pace arrangement and how long the “invitation” has been deliberate?"
+        }
+      ],
+      "scene_evidence": [
+        {
+          "slug": "the-pointing-game",
+          "quote": "\"I point. You pick.\""
+        },
+        {
+          "slug": "the-pointing-game",
+          "quote": "\"Her name is Vee.\""
+        }
+      ]
+    },
+    {
+      "section": "Open questions",
+      "type": "open_question",
+      "slot": "randi_vee_desire",
+      "text": "Will Randi reveal her love for Vee, and will Vee consciously recognize and name her own desire for Randi?",
+      "valid_from": 46,
+      "superseded_at": null,
+      "support": [
+        {
+          "model": "claude-opus-4-8",
+          "quote": "Will Randi's love for Vee surface — and Vee's answering pull?"
+        },
+        {
+          "model": "gpt-5.6-sol",
+          "quote": "When will Vee consciously recognize her desire for Randi, and what will she choose once she does?"
+        }
+      ],
+      "scene_evidence": [
+        {
+          "slug": "fairytale",
+          "quote": "She loved Vee"
+        },
+        {
+          "slug": "one-bite",
+          "quote": "Randi's face arrived behind her eyes."
+        }
+      ]
+    },
+    {
+      "section": "Open questions",
+      "type": "open_question",
+      "slot": "pace_scar",
+      "text": "What caused the large scar high on Pace's inner thigh?",
+      "valid_from": 25,
+      "superseded_at": null,
+      "support": [
+        {
+          "model": "claude-opus-4-8",
+          "quote": "What is the scar on Pace's inner thigh?"
+        },
+        {
+          "model": "gpt-5.5",
+          "quote": "What happened behind Pace's thigh scar?"
+        }
+      ],
+      "scene_evidence": [
+        {
+          "slug": "rock",
+          "quote": "\"Not tonight,\" he said."
+        },
+        {
+          "slug": "famished",
+          "quote": "a scar, large, high on the inside of his thigh."
+        }
+      ]
+    },
+    {
+      "section": "Open questions",
+      "type": "open_question",
+      "slot": "miranda_holdings_fallout",
+      "text": "Will the Miranda Holdings PPP discovery surface further, and will Randi learn that Vee recognized it?",
+      "valid_from": 39,
+      "superseded_at": null,
+      "support": [
+        {
+          "model": "claude-opus-4-8",
+          "quote": "Will Vee's silent knowledge of the Miranda Holdings fraud ever come out?"
+        },
+        {
+          "model": "gpt-5.6-sol",
+          "quote": "Will Randi learn that Vee recognized and concealed her family’s connection to the data?"
+        }
+      ],
+      "scene_evidence": [
+        {
+          "slug": "the-outlier",
+          "quote": "\"Cheating bastards,\" Randi said."
+        },
+        {
+          "slug": "the-outlier",
+          "quote": "the point went back to being one among a hundred thousand"
+        }
+      ]
+    },
+    {
+      "section": "Story so far",
+      "type": "story",
+      "slot": "opening_engine",
+      "text": "The story opens with Pace and Randi's secret sexual relationship; after Randi's bench scene, they choose Vee through the pointing game and Randi meets her through an engineered collision.",
+      "valid_from": 3,
+      "superseded_at": null,
+      "support": [
+        {
+          "model": "claude-opus-4-8",
+          "quote": "Pace and Randi are secretly a couple in a D/s relationship"
+        },
+        {
+          "model": "gpt-5.5",
+          "quote": "Randi is already Pace's lover."
+        }
+      ],
+      "scene_evidence": [
+        {
+          "slug": "the-bench",
+          "quote": "\"There you are, Randi.\""
+        },
+        {
+          "slug": "the-pointing-game",
+          "quote": "She simply drifted"
+        }
+      ]
+    },
+    {
+      "section": "Story so far",
+      "type": "story",
+      "slot": "vee_pace_arc",
+      "text": "Vee meets Pace through a coffee-shop study session, chooses the first kiss herself, and their intimacy grows through his care, food, the dress, and sex.",
+      "valid_from": 18,
+      "superseded_at": null,
+      "support": [
+        {
+          "model": "claude-opus-4-8",
+          "quote": "Pace approaches Vee at a coffee shop, solves her calculus with courtly restraint"
+        },
+        {
+          "model": "gpt-5.5",
+          "quote": "Soon, while Vee struggles with a math problem at a coffee shop, Pace appears"
+        }
+      ],
+      "scene_evidence": [
+        {
+          "slug": "substitution",
+          "quote": "\"May I call you?\""
+        },
+        {
+          "slug": "may-i-choose",
+          "quote": "\"I'm making an exception.\""
+        },
+        {
+          "slug": "famished",
+          "quote": "It was the first time that had been true."
+        }
+      ]
+    },
+    {
+      "section": "Story so far",
+      "type": "story",
+      "slot": "rupture_reconciliation",
+      "text": "Vee's demand for a name causes a rupture and a month of silence; Randi later coaches Vee's coat-and-heels reconciliation with Pace.",
+      "valid_from": 50,
+      "superseded_at": null,
+      "support": [
+        {
+          "model": "claude-opus-4-8",
+          "quote": "a hard rupture over \"what are we\" (ch45), reconciled ch50."
+        },
+        {
+          "model": "gpt-5.5",
+          "quote": "breakup/rupture: y (ch 45); reconciled physically/emotionally: y (ch 50)."
+        }
+      ],
+      "scene_evidence": [
+        {
+          "slug": "believe-me",
+          "quote": "\"What am I to you?\""
+        },
+        {
+          "slug": "my-friend-randi",
+          "quote": "\"You don't do it with words. Words are the whole war.\""
+        },
+        {
+          "slug": "nothing-underneath",
+          "quote": "\"I missed you so much,\" he said"
+        }
+      ]
+    },
+    {
+      "section": "Story so far",
+      "type": "story",
+      "slot": "gstaad_revelation",
+      "text": "At New Year's in Gstaad, Randi's apparently perfect encounter with John leaves her emotionally cold and clarifies the depth of her feelings for Pace and Vee.",
+      "valid_from": 46,
+      "superseded_at": null,
+      "support": [
+        {
+          "model": "claude-opus-4-8",
+          "quote": "Randi is in Gstaad with her parents, has a \"perfect\" fling with John and feels nothing"
+        },
+        {
+          "model": "gpt-5.5",
+          "quote": "John is safe, acceptable, and unable to find her."
+        }
+      ],
+      "scene_evidence": [
+        {
+          "slug": "fairytale",
+          "quote": "It had been good. She could not have said otherwise"
+        },
+        {
+          "slug": "fairytale",
+          "quote": "Pace on his worst night reached further than this man had managed at his best."
+        }
+      ]
+    },
+    {
+      "section": "Impression",
+      "type": "impression",
+      "slot": "vee_reader_impression",
+      "text": "The reader is invited to feel tenderness for Vee's brave awakening while dreading the concealed frame Pace and Randi built around her.",
+      "valid_from": 50,
+      "superseded_at": null,
+      "support": [
+        {
+          "model": "claude-fable-5",
+          "quote": "My tenderness for her is edged with dread: every brave thing she does, she does inside a frame two other people built and haven't shown her."
+        },
+        {
+          "model": "claude-opus-4-8",
+          "quote": "Vee I love and fear for in equal measure"
+        }
+      ],
+      "scene_evidence": [
+        {
+          "slug": "nothing-underneath",
+          "quote": "she was too happy to"
+        },
+        {
+          "slug": "the-pointing-game",
+          "quote": "The choice is deliberate even though Vee will experience everything as chance."
+        }
+      ]
+    },
+    {
+      "section": "Impression",
+      "type": "impression",
+      "slot": "pacerandi_reader_impression",
+      "text": "The reader may hold Pace and Randi as both genuinely caring for Vee and responsible for the hidden manipulation that endangers her trust.",
+      "valid_from": 50,
+      "superseded_at": null,
+      "support": [
+        {
+          "model": "claude-opus-4-8",
+          "quote": "Pace reads as sincere *and* damning at once: his care is real, his patience is real, and he is still a man who selected her like a problem to solve"
+        },
+        {
+          "model": "gpt-5.6-sol",
+          "quote": "Her love for Vee is real, her tenderness often beautiful, and her loneliness painful. At the same time, she manages Vee’s emotions"
+        }
+      ],
+      "scene_evidence": [
+        {
+          "slug": "gone",
+          "quote": "\"I want her to get there on her own.\""
+        },
+        {
+          "slug": "nothing-underneath",
+          "quote": "He looked at her like a starving man, and he looked at her like a man just told he is forgiven"
+        }
+      ]
+    }
+  ],
+  "conflicts": []
+}

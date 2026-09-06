@@ -60,8 +60,8 @@ sys.path.insert(0, str(REPO / "tools"))
 
 import checkpoint_bundle  # noqa: E402  (clean_scene_text, display_title, jacket_packet, volume_scenes)
 import cold_read_config  # noqa: E402
-# NB: cold_read (for make_codex_agent_fn) imports tomllib (py3.11+) and is imported
-# lazily inside main(), so --check / --emit-prompt run under bare python3.10 too.
+# `cold_read_config` and the live harness require Python 3.11; the uv shebang
+# supplies it for all documented invocations.
 
 AGENT_DEF = REPO / ".claude/agents/blind-reader-grounded.md"
 READER_PROTOCOL = "v3-grounded-checkpoint"
@@ -439,7 +439,7 @@ def emit_bundle_packet(to_b: int, model_id: str) -> tuple[str, Path, list[str]]:
         raise SystemExit(
             f"{model_id} uses {source}; native checkpoint packet minting is disabled"
         )
-    text = checkpoint_bundle.build_bundle(1, to_b, jacket=True)
+    text = checkpoint_bundle.build_reader_bundle(to_b)
     fingerprints = checkpoint_bundle.source_fingerprints(
         text, load_agent_prompt(REPO / ".claude/agents/blind-extractor.md")
     )
@@ -923,6 +923,11 @@ def main() -> None:
                 f"{model_id} uses {source}; --auto-mint cannot create donor checkpoints"
             )
         mint_checkpoints(model_id, missing, args, jobs=args.jobs)
+    checkpoint_source = cold_read_config.checkpoint_source(model_id)
+    if checkpoint_source.startswith("ensemble:"):
+        # Validate each shared donor artifact once before stale detection or resume skips.
+        for b in needed:
+            load_checkpoint(model_id, b)
 
     slugs = reader_slugs()
     stale_donor = []

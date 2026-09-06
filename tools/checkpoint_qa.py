@@ -153,31 +153,54 @@ def check_passes(text: str, check: dict) -> bool:
     return True
 
 
-def _active_panel_models() -> list[str]:
+def _panel_config() -> tuple[list[str], dict[str, str]]:
     config = (REPO / "reviews/cold-read/ensemble-config.toml").read_text()
     section = re.search(r"\[panel\](.*?)(?=\n\[|\Z)", config, re.DOTALL)
-    models = re.search(r"\bmodels\s*=\s*\[(.*?)\]", section.group(1), re.DOTALL) if section else None
-    if not models:
+    models_match = re.search(r"\bmodels\s*=\s*\[(.*?)\]", section.group(1), re.DOTALL) if section else None
+    if not models_match:
         raise RuntimeError("active panel missing from ensemble-config.toml")
-    return re.findall(r'"([^"]+)"', models.group(1))
+    models = re.findall(r'"([^"]+)"', models_match.group(1))
+    sources: dict[str, str] = {}
+    for match in re.finditer(
+        r'\[readers\."([^"]+)"\](.*?)(?=\n\[|\Z)', config, re.DOTALL
+    ):
+        source = re.search(r'\bcheckpoint_source\s*=\s*"([^"]+)"', match.group(2))
+        sources[match.group(1)] = source.group(1) if source else "native"
+    return models, sources
 
 
 def discover_models(only: str | None, target: str) -> list[str]:
     root = REPO / "reviews" / "cold-read"
-    models = []
-    for model in _active_panel_models():
-        model_dir = root / model
-        eligible = model_dir.is_dir() and (
-            target == "read" or (model_dir / "checkpoints").is_dir()
-        )
-        if eligible and (not only or model == only):
-            models.append(model)
+    active, sources = _panel_config()
+    if target == "read":
+        return [
+            model for model in active
+            if (root / model).is_dir() and (not only or model == only)
+        ]
+
+    models: list[str] = []
+    for model in active:
+        source = sources.get(model, "native")
+        unit = model if source == "native" else source
+        if only and only not in {model, unit}:
+            continue
+        if unit.startswith("ensemble:"):
+            name = unit.split(":", 1)[1]
+            eligible = (root / "checkpoint-ensembles" / name / "checkpoints").is_dir()
+        else:
+            eligible = (root / model / "checkpoints").is_dir()
+        if eligible and unit not in models:
+            models.append(unit)
     return models
 
 
 def checkpoint_units(model: str):
-    """Yield (label, chapter, text) for each decade checkpoint of a model."""
-    d = REPO / "reviews" / "cold-read" / model / "checkpoints"
+    """Yield each independent native or shared-ensemble checkpoint once."""
+    if model.startswith("ensemble:"):
+        name = model.split(":", 1)[1]
+        d = REPO / "reviews" / "cold-read" / "checkpoint-ensembles" / name / "checkpoints"
+    else:
+        d = REPO / "reviews" / "cold-read" / model / "checkpoints"
     if not d.is_dir():
         return
     for f in sorted(d.glob("ck-ch*.md")):

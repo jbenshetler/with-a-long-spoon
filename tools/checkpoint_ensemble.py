@@ -87,6 +87,32 @@ def paths_for(name: str, boundary: int) -> dict[str, Path]:
         "conflicts": root / "conflicts" / f"{stem}.json",
     }
 
+def persist_matcher_attempt(
+    name: str,
+    boundary: int,
+    *,
+    model: str,
+    result: dict[str, Any],
+) -> Path:
+    """Persist the exact matcher response before any parsing or validation."""
+    root = paths_for(name, boundary)["root"] / "matcher-attempts"
+    root.mkdir(parents=True, exist_ok=True)
+    path = root / f"ck-ch{boundary:03d}-{int(time.time() * 1000)}.json"
+    path.write_bytes(
+        json_bytes(
+            {
+                "version": 1,
+                "ensemble": name,
+                "boundary": boundary,
+                "model": model,
+                "response_id": result.get("id"),
+                "usage": result.get("usage"),
+                "raw_output": result.get("output") or "",
+            }
+        )
+    )
+    return path
+
 
 def source_records(name: str, boundary: int) -> tuple[list[dict[str, Any]], str, dict[str, str | int]]:
     settings = cold_read_config.ensemble_settings(name)
@@ -142,7 +168,9 @@ def matcher_schema() -> dict[str, Any]:
             {
                 "section": list(SECTIONS),
                 "type": "entity|event|state|knowledge|motif|symbolism|open_question|story|impression",
-                "slot": "stable semantic slot; required for boundary-scoped claims",
+                "entity_subtype": "identity|alias|gender|presence|role, only for entity claims",
+                "slot": "stable semantic slot; required for every claim",
+                "competing": False,
                 "text": "concise checkpoint statement without a leading bullet",
                 "valid_from": 1,
                 "superseded_at": None,
@@ -163,6 +191,7 @@ def matcher_schema() -> dict[str, Any]:
                 "note": "what conflicts; do not resolve it",
             }
         ],
+        "prior_ledger_sha256": None,
     }
 
 
@@ -180,6 +209,8 @@ def matcher_prompt(name: str, boundary: int, sources: list[dict[str, Any]], bund
         {"model_id": record["model_id"], "vendor": record["vendor"]}
         for record in sources
     ]
+    prior_path, prior = previous_ledger(name, boundary)
+    prior_sha256 = sha256_bytes(prior_path.read_bytes()) if prior_path else None
     parts = [
         "BOUNDARY AND POLICY:\n"
         + json.dumps(
@@ -190,12 +221,26 @@ def matcher_prompt(name: str, boundary: int, sources: list[dict[str, Any]], bund
                 "cross_vendor": settings["cross_vendor"],
                 "source_roster": source_roster,
                 "chapters": chapters,
+                "prior_ledger_sha256": prior_sha256,
             },
             ensure_ascii=False,
             indent=2,
         ),
         "OUTPUT SCHEMA:\n" + json.dumps(matcher_schema(), ensure_ascii=False, indent=2),
     ]
+    if prior:
+        parts.append(
+            "===== PRIOR ACTIVE ENSEMBLE LEDGER =====\n"
+            + json.dumps(
+                {
+                    "sha256": prior_sha256,
+                    "boundary": prior["boundary"],
+                    "claims": prior.get("claims", []),
+                },
+                ensure_ascii=False,
+                indent=2,
+            )
+        )
     for record in sources:
         parts.append(
             f"===== SOURCE CHECKPOINT: {record['model_id']} · vendor={record['vendor']} =====\n"
@@ -306,6 +351,8 @@ def validate_claims(
         superseded_at = claim.get("superseded_at")
         support = claim.get("support") or []
         evidence = claim.get("scene_evidence") or []
+        entity_subtype = str(claim.get("entity_subtype") or "").strip()
+        competing = claim.get("competing") is True
         carried_from = claim.get("carried_from_boundary")
         if isinstance(valid_from, str) and valid_from.isdigit():
             valid_from = int(valid_from)
@@ -316,8 +363,8 @@ def validate_claims(
             errors.append(f"{label}: invalid type {claim_type!r}")
         if not text or "\n### " in text or len(text) > 1200:
             errors.append(f"{label}: invalid text")
-        if claim_type in TEMPORAL_TYPES and not slot:
-            errors.append(f"{label}: temporal claim needs a stable slot")
+        if not slot:
+            errors.append(f"{label}: claim needs a stable slot")
         if not isinstance(valid_from, int) or not (1 <= valid_from <= boundary):
             errors.append(f"{label}: valid_from must be within 1..{boundary}")
         if superseded_at is not None:
@@ -327,8 +374,8 @@ def validate_claims(
         vendors: set[str] = set()
         valid_support: list[dict[str, str]] = []
         if carried_from is not None:
-            if claim_type not in IMMUTABLE_TYPES or not isinstance(carried_from, int):
-                errors.append(f"{label}: only immutable claims may carry from a prior boundary")
+            if not isinstance(carried_from, int) or carried_from >= boundary:
+                errors.append(f"{label}: invalid prior-boundary carry marker")
         else:
             if not isinstance(support, list):
                 errors.append(f"{label}: support must be a list")
@@ -366,7 +413,24 @@ def validate_claims(
         claim["scene_evidence"] = valid_evidence_items
         valid_evidence = len(valid_evidence_items)
 
-        entity_exception = claim_type == "entity" and len(models) == 1 and valid_evidence > 0
+        entity_exception_types = {"identity", "alias", "gender", "presence", "role"}
+        entity_slot = re.fullmatch(
+            r"entity:[a-z0-9][a-z0-9:-]*:(identity|alias|gender|presence|role)",
+            slot,
+        )
+        entity_exception = (
+            claim_type == "entity"
+            and entity_subtype in entity_exception_types
+            and entity_slot is not None
+            and entity_slot.group(1) == entity_subtype
+            and len(models) == 1
+            and valid_evidence > 0
+        )
+        if claim_type == "entity" and len(models) == 1 and not entity_exception:
+            errors.append(
+                f"{label}: one-source entity exception needs a matching "
+                "entity:<subject>:<identity|alias|gender|presence|role> slot and subtype"
+            )
         if carried_from is None and not entity_exception:
             if len(models) < quorum:
                 errors.append(f"{label}: {len(models)} valid source(s), needs {quorum}")
@@ -393,7 +457,27 @@ def validate_claims(
         claim["slot"] = slot
         claim["valid_from"] = valid_from
         claim["superseded_at"] = None
+        claim["competing"] = competing
         accepted.append(claim)
+    temporal_slots: dict[str, list[dict[str, Any]]] = {}
+    immutable_slots: dict[str, list[dict[str, Any]]] = {}
+    for claim in accepted:
+        if claim["type"] in TEMPORAL_TYPES:
+            temporal_slots.setdefault(claim["slot"], []).append(claim)
+        elif claim["slot"]:
+            immutable_slots.setdefault(claim["slot"], []).append(claim)
+    for slot, claims in temporal_slots.items():
+        if len(claims) < 2:
+            continue
+        competing_readings = all(
+            claim["competing"] and claim["type"] in {"motif", "symbolism", "impression"}
+            for claim in claims
+        )
+        if not competing_readings:
+            errors.append(f"temporal slot {slot!r} has {len(claims)} active claims")
+    for slot, claims in immutable_slots.items():
+        if len(claims) > 1:
+            errors.append(f"immutable slot {slot!r} has {len(claims)} active claims")
 
     if errors:
         raise ValueError("ensemble claim validation failed:\n  " + "\n  ".join(errors))
@@ -431,6 +515,7 @@ def admit_candidate_claims(
     ledger = validate_claims(
         {"claims": accepted}, name=name, boundary=boundary, sources=sources
     )
+    ledger["prior_ledger_sha256"] = payload.get("prior_ledger_sha256")
     coverage = {
         section: sum(1 for claim in ledger["claims"] if claim["section"] == section)
         for section in SECTIONS
@@ -497,28 +582,49 @@ def previous_ledger(name: str, boundary: int) -> tuple[Path | None, dict[str, An
 def merge_temporal_ledger(
     current: dict[str, Any], *, name: str, boundary: int
 ) -> tuple[dict[str, Any], dict[str, Any] | None]:
-    """Carry immutable facts; retire absent boundary-scoped claims into audit history."""
+    """Preserve omitted claims; supersede temporal claims only by validated slot replacement."""
     prior_path, prior = previous_ledger(name, boundary)
     if prior_path is None or prior is None:
         current["history"] = []
         return current, None
 
+    expected_prior_sha = sha256_bytes(prior_path.read_bytes())
+    if current.get("prior_ledger_sha256") != expected_prior_sha:
+        raise ValueError(
+            "matcher payload does not identify the prior ledger it was asked to reconcile"
+        )
+
     active = list(current["claims"])
     active_ids = {claim["id"] for claim in active}
+    current_by_slot: dict[str, list[dict[str, Any]]] = {}
+    for claim in active:
+        if claim.get("slot"):
+            current_by_slot.setdefault(claim["slot"], []).append(claim)
+
     history = list(prior.get("history") or [])
     for old_claim in prior.get("claims") or []:
-        if old_claim.get("id") in active_ids:
-            continue
-        retired = dict(old_claim)
-        if old_claim.get("type") in IMMUTABLE_TYPES:
-            retired["carried_from_boundary"] = int(
-                old_claim.get("carried_from_boundary") or prior["boundary"]
+        slot_claims = current_by_slot.get(str(old_claim.get("slot") or ""), [])
+        same_claim = any(claim.get("id") == old_claim.get("id") for claim in slot_claims)
+        changed_claims = [
+            claim for claim in slot_claims if claim.get("id") != old_claim.get("id")
+        ]
+        if old_claim.get("type") in IMMUTABLE_TYPES and changed_claims:
+            raise ValueError(
+                f"immutable slot {old_claim.get('slot')!r} changed at boundary {boundary}"
             )
-            active.append(retired)
-            active_ids.add(retired["id"])
-        else:
-            retired["superseded_at"] = boundary
-            history.append(retired)
+        if old_claim.get("id") in active_ids or same_claim:
+            continue
+        replacements = changed_claims
+        carried = dict(old_claim)
+        if old_claim.get("type") in TEMPORAL_TYPES and replacements:
+            carried["superseded_at"] = boundary
+            history.append(carried)
+            continue
+        carried["carried_from_boundary"] = int(
+            old_claim.get("carried_from_boundary") or prior["boundary"]
+        )
+        active.append(carried)
+        active_ids.add(carried["id"])
 
     history_keys: set[tuple[str, int]] = set()
     deduped_history = []
@@ -533,7 +639,7 @@ def merge_temporal_ledger(
     current["history"] = deduped_history
     lineage = {
         "path": str(prior_path.relative_to(REPO)),
-        "sha256": sha256_bytes(prior_path.read_bytes()),
+        "sha256": expected_prior_sha,
         "boundary": prior["boundary"],
     }
     return current, lineage
@@ -562,7 +668,13 @@ def render_checkpoint(name: str, boundary: int, ledger: dict[str, Any], source_s
     )
 
 
-def run_matcher(name: str, boundary: int, sources: list[dict[str, Any]], bundle: str, effort: str) -> dict[str, Any]:
+def run_matcher(
+    name: str,
+    boundary: int,
+    sources: list[dict[str, Any]],
+    bundle: str,
+    effort: str,
+) -> tuple[dict[str, Any], Path]:
     settings = cold_read_config.ensemble_settings(name)
     model = str(settings["matcher_model"])
     system_prompt = cold_read.load_agent_prompt(MATCHER_DEF)
@@ -572,19 +684,45 @@ def run_matcher(name: str, boundary: int, sources: list[dict[str, Any]], bundle:
         result = agent_fn(prompt=prompt, model=model, label=f"ensemble-{name}-ck{boundary:03d}")
     finally:
         close()
+    attempt_path = persist_matcher_attempt(
+        name, boundary, model=model, result=result
+    )
     output = result.get("output") or ""
     if len(output.strip()) < 200:
-        raise ValueError(f"suspiciously short matcher output ({len(output.strip())} chars)")
-    return parse_matcher_output(output)
+        raise ValueError(
+            f"suspiciously short matcher output ({len(output.strip())} chars); "
+            f"raw response: {attempt_path}"
+        )
+    try:
+        return parse_matcher_output(output), attempt_path
+    except ValueError as exc:
+        raise ValueError(f"{exc}; raw response: {attempt_path}") from exc
 
 
 def build(name: str, boundary: int, *, claims_path: Path | None, effort: str) -> Path:
     sources, bundle, fingerprints = source_records(name, boundary)
+    matcher_attempt: Path | None = None
+    matcher_input: dict[str, str] | None = None
     if claims_path is not None:
-        payload = parse_matcher_output(claims_path.read_text(encoding="utf-8"))
-        matcher_mode = f"validated-file:{sha256_bytes(claims_path.read_bytes())}"
+        candidate_bytes = claims_path.read_bytes()
+        candidate_sha = sha256_bytes(candidate_bytes)
+        owned_input = (
+            paths_for(name, boundary)["root"]
+            / "matcher-inputs"
+            / f"ck-ch{boundary:03d}-{candidate_sha[:12]}.json"
+        )
+        owned_input.parent.mkdir(parents=True, exist_ok=True)
+        if owned_input.exists() and owned_input.read_bytes() != candidate_bytes:
+            raise ValueError(f"owned matcher input hash collision: {owned_input}")
+        owned_input.write_bytes(candidate_bytes)
+        payload = parse_matcher_output(candidate_bytes.decode("utf-8"))
+        matcher_mode = f"validated-file:{candidate_sha}"
+        matcher_input = {
+            "path": str(owned_input.relative_to(REPO)),
+            "sha256": candidate_sha,
+        }
     else:
-        payload = run_matcher(name, boundary, sources, bundle, effort)
+        payload, matcher_attempt = run_matcher(name, boundary, sources, bundle, effort)
         matcher_mode = "codex-subscription"
 
     try:
@@ -648,6 +786,15 @@ def build(name: str, boundary: int, *, claims_path: Path | None, effort: str) ->
         "matcher_mode": matcher_mode,
         "matcher_prompt_sha256": sha256_bytes(MATCHER_DEF.read_bytes()),
         "config_sha256": sha256_bytes(CONFIG_PATH.read_bytes()),
+        "matcher_attempt": (
+            {
+                "path": str(matcher_attempt.relative_to(REPO)),
+                "sha256": sha256_bytes(matcher_attempt.read_bytes()),
+            }
+            if matcher_attempt
+            else None
+        ),
+        "matcher_input": matcher_input,
         "source_sha256": fingerprints["source_sha256"],
         "bundle_sha256": fingerprints["bundle_sha256"],
         "cleaner_version": fingerprints["cleaner_version"],
@@ -696,6 +843,20 @@ def check(name: str, boundary: int) -> Path:
         errors.append("ensemble configuration changed")
     if manifest.get("matcher_prompt_sha256") != sha256_bytes(MATCHER_DEF.read_bytes()):
         errors.append("matcher contract changed")
+    for key, label in (
+        ("matcher_input", "validated matcher input"),
+        ("matcher_attempt", "raw matcher attempt"),
+    ):
+        provenance = manifest.get(key)
+        if not provenance:
+            continue
+        provenance_path = Path(str(provenance.get("path")))
+        if not provenance_path.is_absolute():
+            provenance_path = REPO / provenance_path
+        if not provenance_path.exists():
+            errors.append(f"{label} is missing")
+        elif sha256_bytes(provenance_path.read_bytes()) != provenance.get("sha256"):
+            errors.append(f"{label} hash changed")
     if manifest.get("claims_sha256") != sha256_bytes(json_bytes(claims)):
         errors.append("claim ledger hash mismatch")
     if manifest.get("conflicts_sha256") != sha256_bytes(json_bytes(conflicts)):

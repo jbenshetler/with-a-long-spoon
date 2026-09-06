@@ -355,7 +355,8 @@ evidence. Deterministic code admits and renders only claims that pass:
 
 - at least two of four supporting checkpoints and at least two vendors;
 - source-verified minimal identity/alias/gender/presence/role as the only
-  one-source exception;
+  one-source exception, with a matching allowlisted `entity_subtype` and
+  `entity:<subject>:<subtype>` slot;
 - cross-vendor quorum for impressions, motifs, symbolism, and other readings,
   phrased as readings rather than facts;
 - exact source and scene quotation checks, required section order, unique
@@ -364,12 +365,17 @@ evidence. Deterministic code admits and renders only claims that pass:
 Immutable events/milestones and stable entity facts may carry forward. State,
 knowledge, open questions, motifs, symbolism, story interpretation, and
 impression are boundary-scoped: each claim records `type`, `valid_from`, and
-`superseded_at`; superseded state remains in older audit ledgers but not in the
+`superseded_at`. Every later matcher receives and hashes the prior active
+ledger. Omission carries a temporal claim forward as unresolved; only a
+validated replacement in the same stable slot supersedes it. A nonempty
+immutable slot cannot change, and a temporal slot has one active claim unless
+multiple motif/symbolism/impression claims explicitly mark themselves as
+competing readings. Superseded state remains in audit history but not in the
 reader checkpoint. The builder writes the rendered checkpoint, claim ledger,
-conflict ledger, and manifest. The manifest pins all source checkpoint hashes,
-the clean bundle, cleaner version, extractor prompt, matcher contract, and
-configuration. Any mismatch makes `check` fail closed and invalidates dependent
-donor reads.
+conflict ledger, owned matcher input/attempt, and manifest. The manifest pins
+all source checkpoint hashes, the clean bundle, cleaner version, extractor
+prompt, matcher contract, and configuration. Any mismatch makes `check` fail
+closed and invalidates dependent donor reads.
 
 Matcher proposals are not all-or-nothing: deterministic validation materializes
 only exact source substrings (tolerating typography, markdown delimiters, and
@@ -455,8 +461,12 @@ checkpoints (default) or per-chapter reads (`--target reads`), scoring every mod
 each story point. The checks encode facts the panel agrees on — identity discipline
 (e.g. `randi-not-redhead`, the ch48 failure mode), consummation flags, the secret pair,
 dramatic irony, gender, blindness/leak, checkpoint structure — each gated by an
-`activates_at` chapter. Two signals, deliberately separated:
+`activates_at` chapter. For checkpoint QA, native reader memories are independent
+units. Every shared `ensemble:<name>` donor memory is evaluated once, regardless
+of how many active readers consume it; donor reactions remain separate under
+`--target reads`.
 
+Two signals, deliberately separated:
 - a **minority** model failing a **critical** check its peers pass (≥`TRIGGER_MIN_PEERS`
   peers) → a **re-run candidate** (that one artifact);
 - a check the **whole panel** fails → a **mis-calibrated check**, not a model error

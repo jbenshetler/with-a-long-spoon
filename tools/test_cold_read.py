@@ -1,6 +1,8 @@
 """Focused unit tests for Codex subscription cold-reader authentication."""
 from __future__ import annotations
 
+import hashlib
+import json
 import importlib
 import sys
 import tempfile
@@ -198,6 +200,75 @@ class DonorMemoryTests(unittest.TestCase):
                 self.grounded.review_memory_is_current("qwen3.8-max-0902", 59, 50, path)
             )
 
+    def test_stale_donor_checkpoint_rejected_when_loaded(self):
+        ensemble = importlib.import_module("checkpoint_ensemble")
+        with tempfile.TemporaryDirectory() as td:
+            checkpoint = Path(td) / "ck-ch050.md"
+            checkpoint.write_text("# Checkpoint\n\n---\n\nBody\n", encoding="utf-8")
+            with patch.object(
+                self.config, "checkpoint_path", return_value=checkpoint
+            ), patch.object(
+                ensemble, "check", side_effect=SystemExit("ensemble check failed")
+            ):
+                with self.assertRaisesRegex(SystemExit, "ensemble check failed"):
+                    self.grounded.load_checkpoint("qwen3.8-max-0902", 50)
+
+    def test_check_mode_rejects_stale_donor_before_reader_launch(self):
+        cold_read = importlib.import_module("cold_read")
+        with tempfile.TemporaryDirectory() as td:
+            checkpoint = Path(td) / "ck-ch050.md"
+            checkpoint.write_text("# stale\n", encoding="utf-8")
+            argv = [
+                "cold_read_grounded.py",
+                "--model",
+                "qwen/qwen3.8-max-0902",
+                "--model-id",
+                "qwen3.8-max-0902",
+                "--from",
+                "51",
+                "--to",
+                "51",
+                "--check",
+            ]
+            with patch.object(sys, "argv", argv), patch.object(
+                self.grounded, "checkpoint_path", return_value=checkpoint
+            ), patch.object(
+                self.grounded,
+                "load_checkpoint",
+                side_effect=SystemExit("ensemble check failed: stale source"),
+            ) as validate, patch.object(
+                cold_read, "make_codex_agent_fn"
+            ) as launch:
+                with self.assertRaisesRegex(SystemExit, "stale source"):
+                    self.grounded.main()
+        validate.assert_called_once_with("qwen3.8-max-0902", 50)
+        launch.assert_not_called()
+
+    def test_checkpoint_packet_uses_cross_volume_reader_bundle(self):
+        with tempfile.TemporaryDirectory() as td:
+            packet_dir = Path(td)
+            fingerprints = {
+                "source_sha256": "s",
+                "bundle_sha256": "b",
+                "cleaner_version": 1,
+                "extractor_sha256": "e",
+            }
+            with patch.object(
+                self.grounded.checkpoint_bundle,
+                "build_reader_bundle",
+                return_value="cross-volume bundle",
+            ) as build_bundle, patch.object(
+                self.grounded.checkpoint_bundle,
+                "source_fingerprints",
+                return_value=fingerprints,
+            ), patch.object(
+                self.grounded,
+                "_write_chunked_packet",
+                return_value=("token", packet_dir, ["part-001"]),
+            ):
+                self.grounded.emit_bundle_packet(59, "claude-fable-5")
+        build_bundle.assert_called_once_with(59)
+
 
 class EnsembleValidationTests(unittest.TestCase):
     def setUp(self):
@@ -243,11 +314,75 @@ class EnsembleValidationTests(unittest.TestCase):
                     {"claims": [self.claim]}, name="core", boundary=50, sources=sources
                 )
 
-    def test_temporal_merge_retires_state_and_carries_event(self):
+    def test_admission_preserves_prior_ledger_hash(self):
+        settings = {
+            "quorum": 2,
+            "cross_vendor": True,
+            "minimum_claims": 1,
+            "required_sections": ["Relationships"],
+        }
+        payload = {"claims": [self.claim], "prior_ledger_sha256": "abc123"}
+        with patch.object(
+            self.ensemble, "scene_map", return_value={"scene": "They kissed and stayed together."}
+        ), patch.object(
+            self.ensemble.cold_read_config,
+            "ensemble_settings",
+            return_value=settings,
+        ):
+            ledger, rejected, _coverage = self.ensemble.admit_candidate_claims(
+                payload, name="core", boundary=50, sources=self.sources
+            )
+        self.assertEqual(ledger["prior_ledger_sha256"], "abc123")
+        self.assertEqual(rejected, [])
+
+    def test_duplicate_temporal_slot_is_rejected(self):
+        second = dict(self.claim, text="A conflicting current state.")
+        with patch.object(
+            self.ensemble, "scene_map", return_value={"scene": "They kissed and stayed together."}
+        ):
+            with self.assertRaisesRegex(ValueError, "has 2 active claims"):
+                self.ensemble.validate_claims(
+                    {"claims": [self.claim, second]},
+                    name="core",
+                    boundary=50,
+                    sources=self.sources,
+                )
+
+    def test_one_source_entity_requires_narrow_matching_subtype(self):
+        entity = dict(
+            self.claim,
+            section="Who's who",
+            type="entity",
+            slot="entity:pace:role",
+            text="Pace is present in the scene.",
+            support=[self.claim["support"][0]],
+        )
+        with patch.object(
+            self.ensemble, "scene_map", return_value={"scene": "They kissed and stayed together."}
+        ):
+            with self.assertRaisesRegex(ValueError, "one-source entity exception"):
+                self.ensemble.validate_claims(
+                    {"claims": [entity]}, name="core", boundary=50, sources=self.sources
+                )
+            entity["entity_subtype"] = "role"
+            ledger = self.ensemble.validate_claims(
+                {"claims": [entity]}, name="core", boundary=50, sources=self.sources
+            )
+        self.assertEqual(ledger["claims"][0]["entity_subtype"], "role")
+
+    def test_temporal_merge_replaces_same_slot_and_carries_immutable(self):
         prior = {
             "boundary": 40,
             "claims": [
-                {"id": "old-state", "type": "state", "superseded_at": None},
+                {
+                    "id": "old-state",
+                    "type": "state",
+                    "section": "Relationships",
+                    "slot": "relationship:pair:status",
+                    "text": "The old state.",
+                    "valid_from": 40,
+                    "superseded_at": None,
+                },
                 {
                     "id": "event",
                     "type": "event",
@@ -277,7 +412,8 @@ class EnsembleValidationTests(unittest.TestCase):
         }
         with tempfile.TemporaryDirectory() as td:
             prior_path = Path(td) / "ck-ch040.json"
-            prior_path.write_text("{}")
+            prior_path.write_text("{}", encoding="utf-8")
+            current["prior_ledger_sha256"] = hashlib.sha256(b"{}").hexdigest()
             with patch.object(self.ensemble, "REPO", Path(td)), patch.object(
                 self.ensemble, "previous_ledger", return_value=(prior_path, prior)
             ):
@@ -287,6 +423,57 @@ class EnsembleValidationTests(unittest.TestCase):
         self.assertEqual({claim["id"] for claim in merged["claims"]}, {"new-state", "event"})
         self.assertEqual(merged["history"][0]["superseded_at"], 50)
         self.assertEqual(lineage["boundary"], 40)
+
+    def test_immutable_slot_change_fails_even_when_old_claim_repeats(self):
+        old = {
+            "id": "old-entity",
+            "type": "entity",
+            "section": "Who's who",
+            "slot": "entity:pace:identity",
+            "text": "Pace is Pace.",
+            "valid_from": 1,
+            "superseded_at": None,
+        }
+        changed = dict(old, id="changed-entity", text="Pace is somebody else.")
+        prior = {"boundary": 40, "claims": [old], "history": []}
+        current = {"boundary": 50, "claims": [old, changed], "history": []}
+        with tempfile.TemporaryDirectory() as td:
+            prior_path = Path(td) / "ck-ch040.json"
+            prior_path.write_text("{}", encoding="utf-8")
+            current["prior_ledger_sha256"] = hashlib.sha256(b"{}").hexdigest()
+            with patch.object(self.ensemble, "REPO", Path(td)), patch.object(
+                self.ensemble, "previous_ledger", return_value=(prior_path, prior)
+            ):
+                with self.assertRaisesRegex(ValueError, "immutable slot"):
+                    self.ensemble.merge_temporal_ledger(
+                        current, name="core", boundary=50
+                    )
+
+    def test_temporal_omission_carries_unresolved_claim(self):
+        prior_claim = {
+            "id": "old-state",
+            "type": "state",
+            "section": "Relationships",
+            "slot": "relationship:pair:status",
+            "text": "The old state.",
+            "valid_from": 40,
+            "superseded_at": None,
+        }
+        prior = {"boundary": 40, "claims": [prior_claim], "history": []}
+        current = {"boundary": 50, "claims": [], "history": []}
+        with tempfile.TemporaryDirectory() as td:
+            prior_path = Path(td) / "ck-ch040.json"
+            prior_path.write_text("{}", encoding="utf-8")
+            current["prior_ledger_sha256"] = hashlib.sha256(b"{}").hexdigest()
+            with patch.object(self.ensemble, "REPO", Path(td)), patch.object(
+                self.ensemble, "previous_ledger", return_value=(prior_path, prior)
+            ):
+                merged, _lineage = self.ensemble.merge_temporal_ledger(
+                    current, name="core", boundary=50
+                )
+        self.assertEqual([claim["id"] for claim in merged["claims"]], ["old-state"])
+        self.assertEqual(merged["claims"][0]["carried_from_boundary"], 40)
+        self.assertEqual(merged["history"], [])
 
 class HarnessParsingTests(unittest.TestCase):
     def test_bold_checkpoint_headings_normalize(self):
@@ -314,9 +501,33 @@ class HarnessParsingTests(unittest.TestCase):
         }
         self.assertEqual(html.PANEL_MODELS, expected)
         self.assertEqual(augment.PANEL_MODELS, expected)
-        self.assertEqual(set(qa._active_panel_models()), expected)
+        active, _sources = qa._panel_config()
+        self.assertEqual(set(active), expected)
         self.assertIn("qwen3.8-max-0902", qa.discover_models(None, "read"))
         self.assertNotIn("claude-sonnet-5", qa.discover_models(None, "read"))
+        checkpoint_models = qa.discover_models(None, "checkpoint")
+        self.assertEqual(checkpoint_models.count("ensemble:core"), 1)
+        self.assertNotIn("qwen3.8-max-0902", checkpoint_models)
+        self.assertNotIn("deepseek-v4-pro-0813", checkpoint_models)
+
+    def test_matcher_attempt_persists_raw_output_and_usage(self):
+        ensemble = importlib.import_module("checkpoint_ensemble")
+        with tempfile.TemporaryDirectory() as td:
+            root = Path(td)
+            with patch.object(ensemble, "paths_for", return_value={"root": root}):
+                path = ensemble.persist_matcher_attempt(
+                    "core",
+                    50,
+                    model="gpt-5.6-terra",
+                    result={
+                        "id": "response-1",
+                        "usage": {"totalTokens": 321},
+                        "output": "{broken json",
+                    },
+                )
+            payload = json.loads(path.read_text(encoding="utf-8"))
+        self.assertEqual(payload["raw_output"], "{broken json")
+        self.assertEqual(payload["usage"]["totalTokens"], 321)
 
     def test_prior_ledger_excludes_current_and_future_boundaries(self):
         ensemble = importlib.import_module("checkpoint_ensemble")
