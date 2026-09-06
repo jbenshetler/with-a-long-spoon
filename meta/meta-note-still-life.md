@@ -18,22 +18,22 @@ Register: **playful going in, transgressive at the turn.** The fruit-painting is
 
 Painted as fruit — a **grapevine** up the inner arm (wrist → armpit → side of breast), **cantaloupe** at the breasts, **cherries** at the mons; he traces each route with his mouth first, then the cool brush, and **feeds her the fruit he paints her as** (grape at the vine, melon at the breasts) so the build keeps breaking and she can't crest early. **No peach here** — the peach-as-her-body image originates at the cabin blazon and seeds forward to `meta-note-peaches.md` (the July apex); a plant here pre-spends it.
 
-The **runaway** is the mons: he paints her in **her own fluids.** This is the scene's arousal/shame crest — the overflow made medium, her wanting used and shown. The **taste beat rides it, held:** she tastes the **cherry** (clean fruit) and, watching him gather and value her wet, *wonders* about the taste of what he's painting her with. She does **not** ask and does **not** taste — the wondering only, made loud by his open relish. The photo and the sex close the scene.
+The **runaway** is the mons: he paints her in **her own fluids.** This is the scene's arousal/shame crest — the overflow made medium, her wanting used and shown. The **taste beat rides it, held:** she tastes the **cherry** (clean fruit) and, watching him gather and value her wet, *wonders* about the taste of what he's painting her with. She does **not** ask or taste herself directly or cleanly. After he has licked her clean and wiped his mouth twice, she reaches for his mouth and finds only a mixed, ambiguous trace she cannot separate. The question disappears without an answer. The photo and sex lead into that closing afterglow beat.
 
-## Taste thread — the wondering rung (held)
+## Taste thread — the wondering rung (crossing held)
 
-Still Life is the taste thread's **externalized wondering** rung, one step past {{The Reach}}. In {{The Reach}} she wonders alone and privately; here Pace is openly handling and valuing her fluids (painting with them), so the question she couldn't answer solo becomes unignorable. But it stays **wondering only:**
+Still Life is the taste thread's **externalized wondering** rung, one step past {{The Reach}}. In {{The Reach}} she wonders alone and privately; here Pace is openly handling and valuing her fluids (painting with them), so the question she couldn't answer solo becomes unignorable. The direct, clean crossing stays held:
 
 - **No asking** — she doesn't voice *what do I taste like?* here. That's reserved for **Whiskey and Wine**, the next rung; Still Life *feeds* it (wonder now → ask later), never absorbs it.
-- **No contact, no taste** — the cherry stays clean fruit; she never nears her own wet with her mouth. This preserves **The Almost** (the later deniable near-miss) and **{{First Taste}}** (the crossing).
+- **No direct or clean self-taste** — the cherry stays clean fruit. After he licks her clean and wipes his mouth twice, she reaches for his mouth and finds only an inseparable mixed residue/whiff; the question disappears without an answer. This is neither a dedicated taste for the mons nor the thread's clean crossing, preserving **The Almost** and **{{First Taste}}**.
 
 His painting-with-her-fluids is also a major **His-Relish** beat — his appetite for her taste, shown not named, which is what makes her wonder. (`meta-note-taste-thread.md`.)
 
 ## The telling miss (both readings — keep both)
 
-He gives her a taste for each region as he paints it — but for the mons, painted in her own fluids, he gives her **nothing to taste.** The no-taste-for-the-fluids is:
+He gives her a taste for each region as he paints it — but for the mons, painted in her own fluids, he gives her **nothing to taste in the painting ritual.** The later ambiguous trace on his wiped mouth does not answer the question. The no-taste-for-the-fluids is:
 
-- **A staircase guard** — it preserves {{First Taste}}: she must not taste herself yet (the thread's crossing is held for its own scene).
+- **A staircase guard** — it preserves {{First Taste}}: she must not get a direct or clean taste of herself yet (the thread's crossing is held for its own scene).
 - **Pace's characterizing omission** — he gives her every taste *but the one gate she refused.* The working-around is the deniable aimed-ness (care contracting to the deniable minimum on the gate he most needs down), tying Still Life's miss back to {{Missed a Spot}}'s first grain.
 
 Both readings coexist on the page; render neither as analysis. (The thread's home: `meta-note-taste-thread.md`.)
@@ -53,14 +53,14 @@ Where the *{{In His Hands}}* nude was **curated** — she cleaned up, made up, p
 ## Seeds forward
 
 - **"Adventure"** — coined here in the afterglow, joyful, hers, Pace present → first *invited* at the cabin (`meta-note-grace.md`) → detonates at the threesome. Rides out unremarked; never named as a code.
-- **Taste thread** — the wondering rung; feeds Whiskey and Wine, preempts nothing (held: no ask, no contact, no taste).
+- **Taste thread** — the wondering rung; feeds Whiskey and Wine, preempts nothing (held: no ask, no direct or clean self-taste; the closing mixed trace does not answer the question).
 - **Sole-channel** — the photo escalates {{In His Hands}}' seed → cabin → bench → threesome kiss.
 - **Peach — deliberately NOT here** — originates at the cabin blazon, seeds forward to `meta-note-peaches.md`; a plant here pre-spends the July apex.
 
 ## Guards
 
 - **Register: playful in, transgressive out** — open light (fruit, feeding, the build broken), turn dark at the mons/fluids; don't front-load the transgression.
-- **Taste held** — wondering only; no ask (Whiskey and Wine), no near-contact (The Almost), no taste ({{First Taste}}). Getting this wrong pre-spends the thread.
+- **Taste held** — no ask (Whiskey and Wine), no direct or clean self-taste ({{First Taste}}); the closing mouth-reach yields only an inseparable mixed trace, not an answer. Getting this wrong pre-spends the thread.
 - **Body before mind** on the can't-keep-still shame and the overflow — sensation and response first, never a narrated deduction.
 - **Cornucopia = her body**, not a calendar image — the abundance/overflow read, no harvest-table tie (the scene is late January now).
 - The overflow stays warm and dirty-gorgeous, never clinical, never solemn.
